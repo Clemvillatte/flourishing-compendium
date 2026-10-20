@@ -7,23 +7,23 @@ file: "Arousal regulation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-"Arousal regulation" refers to the strategies people use to change their level of physiological activation. In the emotion-regulation literature, arousal is "defined as the level of neural excitation (Malmo, 1959)" and "may be increased with activation of the autonomic nervous system during an emotion" ([Jones, 2012](https://academic.oup.com/edited-volume/28200/chapter/213158566)). Regulating that arousal counts as one of the response-focused strategies: "Regulating the autonomic arousal accompanying emotions is one response strategy commonly employed in performance settings" ([Jones, 2012](https://academic.oup.com/edited-volume/28200/chapter/213158566)).
+"Arousal regulation" refers to the strategies people use to change their level of physiological activation ([Jones, 2012](https://academic.oup.com/edited-volume/28200/chapter/213158566)). In the emotion-regulation literature, arousal is "defined as the level of neural excitation (Malmo, 1959)" and "may be increased with activation of the autonomic nervous system during an emotion" ([Jones, 2012](https://academic.oup.com/edited-volume/28200/chapter/213158566)). Regulating that arousal counts as one of the response-focused strategies: "Regulating the autonomic arousal accompanying emotions is one response strategy commonly employed in performance settings" ([Jones, 2012](https://academic.oup.com/edited-volume/28200/chapter/213158566)).
 
 ### What the strategies are
 
 The same chapter lists strategies that have been proposed — progressive muscular relaxation, centering, up-beat music — that "aim to regulate the physiological arousal of an individual and emotions," and adds a caution: "increasing or decreasing physiological arousal would appear to have a blanket effect on the intensity of emotions experienced by the individual... and as such it may be difficult to target individual emotions without influencing others" ([Jones, 2012](https://academic.oup.com/edited-volume/28200/chapter/213158566)).
 
-### The 1908 study behind the law
+### A historical experiment
 
-The Yerkes-Dodson law takes its name from a 1908 mouse-learning experiment by Robert Yerkes and John Dodson ([Yerkes and Dodson, 1908](https://psychclassics.yorku.ca/Yerkes/Law/)). They trained mice to discriminate between boxes of different brightness, using electric shocks of varying strength, and summarized:
+In their 1908 experiment, Yerkes and Dodson varied electrical-stimulus strength while training mice to discriminate between boxes of differing brightness ([Yerkes and Dodson, 1908](https://psychclassics.yorku.ca/Yerkes/Law/)). They summarized:
 
 > "The relation of the strength of electrical stimulus to rapidity of learning or habit-formation depends upon the difficultness of the habit, or, in the case of our experiments, upon the conditions of visual discrimination." ([Yerkes and Dodson, 1908](https://psychclassics.yorku.ca/Yerkes/Law/), numbered summary, point 2)
 
-With an easy discrimination, learning grew faster as the stimulus grew stronger, up to the point of harmful intensity — a range the authors did not test, presenting that extrapolation "tentatively, subject to correction in the light of future research" (point 3). With a difficult discrimination, an intermediate stimulus won: "the rapidity of learning at first rapidly increases as the strength of the stimulus is increased from the threshold, but, beyond an intensity of stimulation which is soon reached, it begins to decrease. Both weak stimuli and strong stimuli result in slow habit-formation" (point 4). Their inference: "an easily acquired habit, that is one which does not demand difficult sense discriminations or complex associations, may readily be formed under strong stimulation, whereas a difficult habit may be acquired readily only under relatively weak stimulation" (point 5).
+For the easy discrimination, learning was faster at higher tested stimulus strengths; the authors did not test injurious stimulation and presented their extrapolation as tentative ([Yerkes and Dodson, numbered summary, point 3](https://psychclassics.yorku.ca/Yerkes/Law/)). With the extremely difficult discrimination, both weak and strong stimuli produced slower learning than the intermediate stimulus ([Yerkes and Dodson, numbered summary, point 4](https://psychclassics.yorku.ca/Yerkes/Law/)). Their summary inferred that easier habits could be acquired under stronger stimulation, whereas difficult habits were acquired readily only under relatively weak stimulation ([Yerkes and Dodson, numbered summary, point 5](https://psychclassics.yorku.ca/Yerkes/Law/)).
 
 ### Limits
 
-The study measured stimulus intensity, in mice, with shocks and visual discriminations, not arousal in humans. The step from "the most favorable stimulation strength depends on the difficulty of the task" to a prescription for regulating one's own arousal is the later textbook tradition's; the opened sources support the definition and strategies of arousal regulation, and the 1908 finding, but not that bridge.
+These results concern electrical-stimulus intensity and discrimination learning in mice, not tests of human arousal-regulation techniques ([Yerkes and Dodson, 1908](https://psychclassics.yorku.ca/Yerkes/Law/)).
 
 ### In the compendium
 
