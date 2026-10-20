@@ -19,7 +19,7 @@ The mechanism story is easy to overstate, and the findings are narrower than the
 > "Low-GI meals predicted feeling more alert and happy, and less nervous and thirsty (P < 0·05 for each); high-GL meals predicted feeling more confident, and less sluggish, hungry and thirsty (P < 0·05 for each)." (Abstract, Results; Micha et al., 2011, Br J Nutr 106(10): 1552-61, [PubMed](https://pubmed.ncbi.nlm.nih.gov/21736777/))
 
 **Plain words**
-The falls are the problem, not the sugar itself: pure-sugar drinks mostly showed no mood effect in the studies Benton reviewed ([Benton, 2002](https://pubmed.ncbi.nlm.nih.gov/12034132/)). What tracks feeling worse is blood glucose dropping, especially fast. The trial evidence is about breakfast composition in schoolchildren: slow-release meals left them feeling more alert and happy than fast ones ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/)).
+An irritable afternoon is not a measurement of blood glucose. Benton's review reports associations, while the breakfast trial concerns schoolchildren; neither lets an adult identify a glucose problem from mood alone ([Benton, 2002](https://pubmed.ncbi.nlm.nih.gov/12034132/); [Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/)). Record the meal and the later feeling as separate observations.
 
 **For example**
 (Imagined) After a lunch that is mostly refined carbohydrate, someone notices their late-afternoon mood and energy without assuming the meal caused them. A note kept for a week or two is their own evidence, not the trial's.
@@ -32,7 +32,6 @@ The falls are the problem, not the sugar itself: pure-sugar drinks mostly showed
 ## Psychology parallels
 
 - **Breakfast composition and mood**, low-GI breakfasts predicted feeling more alert and happy in a randomised trial of 74 school children ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/))
-- **Glycemic variability and mood**, low-GI meals predicted better mood ratings in a randomised trial ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/))
 
 ## Philosophy parallels
 
@@ -42,4 +41,4 @@ The falls are the problem, not the sugar itself: pure-sugar drinks mostly showed
 
 ## Practice
 
-- Manage blood sugar: if you use the trial's logic, favour breakfasts that release glucose slowly, the low-GI meals the children received ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/)). The sources here do not establish a general low-GI prescription for adults; note your own response.
+- Compendium exercise: record what you eat and how you feel later, as separate observations across a week ([Benton, 2002](https://pubmed.ncbi.nlm.nih.gov/12034132/); [Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/)).

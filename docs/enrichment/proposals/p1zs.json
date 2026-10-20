@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Food as medicine",
@@ -53,13 +53,13 @@
   {
    "into": "Stress response (Lupien, McEwen)",
    "link": "BI044",
-   "why": "the chronic-stress checklist this principle teaches is the readable face of the stress physiology that page describes",
+   "why": "possible symptoms associated with stress, next to the physiology of the response",
    "notes": "Evidence in sources/p1zs/BI044.md (McEwen 2007 opened; target page read, quotes the same McEwen abstract, does not yet cite BI044)."
   },
   {
    "into": "HPA axis theory stress",
    "link": "BI044",
-   "why": "the symptom checklist for recognising when chronic stress is running",
+   "why": "possible symptoms associated with stress",
    "notes": "Evidence in sources/p1zs/BI044.md (Mayo Clinic + McEwen 2007 opened; target page read)."
   },
   {

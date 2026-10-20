@@ -12,26 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 48** — Learn to use cold exposure: the dive reflex
 
-The reflex is mammalian and old. A review of the human diving response describes it as qualitatively similar between species, involving bradycardia and peripheral vasoconstriction triggered by respiratory arrest and by stimulation of facial cold receptors ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/)). The clinical technique built on it is the first of the TIP skills taught in Linehan's DBT skills manual, with specific instructions and cautions ([Linehan, 2015](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf)):
+The reflex is mammalian and old. A review of the human diving response describes it as qualitatively similar between species, involving bradycardia and peripheral vasoconstriction triggered by respiratory arrest and by stimulation of facial cold receptors ([Foster & Sheel, 2005](https://pubmed.ncbi.nlm.nih.gov/15679566/)). The clinical technique built on it is the first of the TIP skills in Linehan's DBT Skills Training Handouts and Worksheets, Second Edition, taught with specific instructions and a medical caution ([Linehan, 2015](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf)):
 
 > "Stimulation of facial cold receptors by cold water augments the human diving response and elicits a greater degree of bradycardia, reduction in blood flow, and hypertension (Andersson et al., 2000)." (Foster & Sheel, 2005, Scand J Med Sci Sports 15(1): 3-12, [PubMed](https://pubmed.ncbi.nlm.nih.gov/15679566/); [full text](https://doi.org/10.1111/j.1600-0838.2005.00440.x))
 
-> "The first TIP skill is tipping the Temperature of your face with cold water or cold packs on the face, while holding your breath. This induces the human dive reflex, which in turn sets off the parasympathetic system and reduces physiological and emotional arousal very quickly." (Linehan, DBT Skills Training Manual, 2nd ed., teaching notes, [Guilford PDF](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf))
+> "Holding your breath, put your face in a bowl of cold water, or hold a cold pack (or zip-lock bag of cold water) on your eyes and cheeks. • Hold for 30 seconds. Keep water above 50°F." (Linehan, DBT Skills Training Handouts and Worksheets, 2nd ed., TIP skills handout, [Wesleyan CAPS copy](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf))
 
-> "Bend over, hold your breath, and put your face (up to the temples) in a bowl of cold water for between 30 and 60 seconds, or until you start to become uncomfortable. This is usually sufficient to induce the dive reflex. The colder the water and the longer the immersion, the better it works. However, do not have the water too cold. Water below 50ºF may cause facial pain during immersion." (Linehan, same)
-
-The manual attaches a caution: using cold water to induce the dive reflex can reduce heart rate very rapidly, and people with heart disorders, medication-lowered heart rates, anorexia nervosa or bulimia nervosa should use it only with medical permission ([Linehan, 2015](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf)).
+> "*Caution: Very cold water decreases your heart rate rapidly. Intense exercise will increase heart rate. Consult your health care provider before using these skills if you have a heart or medical condition, a lowered base heart rate due to medications, take a beta-blocker, are allergic to cold, or have an eating disorder." (Linehan, same handout, [Wesleyan CAPS copy](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf))
 
 **Plain words**
-Cold water on the face is a specific technique with specific instructions: a bowl of cold water or an ice pack over the eyes and upper cheeks, breath held, half a minute or so ([Linehan, 2015](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf)). It is taught as a crisis skill for very high emotional arousal, and it carries a heart caution. It is a tool for acute states, not a treatment for what caused them.
+Cold water on the face is a specific technique with specific instructions: a bowl of cold water or a cold pack on the eyes and cheeks, breath held, thirty seconds, water kept above 50°F ([Linehan, 2015](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf)). It is taught as a crisis skill for very high emotional arousal, and it carries a medical caution. It is a tool for acute states, not a treatment for what caused them.
 
 **For example**
-(Imagined) During a late-evening panic spiral, someone follows the manual's instruction: face into a bowl of cold water up to the temples, breath held, thirty seconds, with the heart caution in mind.
+(Imagined) Before a stressful week, someone reads the TIP skill instructions with their medical history in mind, and checks the handout's caution list with their doctor before trying the cold-water technique.
 
 ## Sources
 
 - [Foster & Sheel, 2005, Scand J Med Sci Sports 15(1): 3-12, PubMed](https://pubmed.ncbi.nlm.nih.gov/15679566/) — abstract and full text: the human diving response, its function and control
-- [Linehan, DBT Skills Training Manual, 2nd ed., teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf) — the TIP temperature skill instructions and cautions
+- [Linehan, DBT Skills Training Handouts and Worksheets, 2nd ed., TIP skills handout (Wesleyan CAPS copy)](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf) — the temperature-skill instructions and caution
 
 ## Psychology parallels
 
@@ -45,4 +43,4 @@ Cold water on the face is a specific technique with specific instructions: a bow
 
 ## Practice
 
-- For acute distress, the DBT manual's version: face into a bowl of cold water (up to the temples, breath held, 30-60 seconds), or an ice pack over the eyes and upper cheeks. Check the heart cautions first ([Linehan, 2015](https://www.guilford.com/add/linehan7_old/lin-p-4teaching.pdf)).
+- For acute distress, the handout's version: holding your breath, face in a bowl of cold water or a cold pack on the eyes and cheeks, thirty seconds, water above 50°F, stopping at discomfort. Check the caution list first (heart or medical condition, lowered heart rate from medications, beta-blockers, cold allergy, eating disorder) ([Linehan, 2015](https://www.wesleyan.edu/caps/CAPS%20at%20Home/Crisis%20Survival%20Skills%20Handout.pdf)).

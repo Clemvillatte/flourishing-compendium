@@ -12,14 +12,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 44** — Learn to recognise chronic stress: signs and symptoms
 
-Chronic stress is the version of the stress response that stays switched on. Bruce McEwen's review names the chronic form of the burden "allostatic load", the wear and tear the body accumulates when daily life keeps the stress response running ([McEwen, 2007](https://pubmed.ncbi.nlm.nih.gov/17615391/)):
+Chronic stress, in Bruce McEwen's framework, is a matter of accumulation: events in daily life that keep the stress response active lead over time to wear and tear on the body, the load he calls allostatic ([McEwen, 2007](https://pubmed.ncbi.nlm.nih.gov/17615391/)):
 
 > "Beyond the "flight-or-fight" response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ("allostatic load")." (Abstract; McEwen, 2007, Physiol Rev 87(3): 873-904, [PubMed](https://pubmed.ncbi.nlm.nih.gov/17615391/))
 
 On the body, the Mayo Clinic list of possible effects of stress names headache, muscle tension or pain, fatigue, stomach upset, sleep problems and getting sick easier due to a weaker immune system ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). On the mood, the same list names anxiety, restlessness, lack of motivation or focus, memory problems, feeling overwhelmed, grumpiness or anger, and sadness or depression ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). On behavior, it names overeating or undereating, angry outbursts, drug or alcohol misuse, tobacco use, avoiding friends and staying home, and exercising less often ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)).
 
 **Plain words**
-The stress response is easy to notice in a crisis and easy to miss when it never switches off. The Mayo lists are possible effects of stress, not a diagnostic signature: each item has other causes, and a cluster of them is a reason to look at the whole load rather than treat five separate problems ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)). What the page offers is the checklist, not the diagnosis.
+The stress response is easy to notice in a crisis and easy to miss when it never switches off. The Mayo lists are possible effects of stress, not a diagnostic signature: each item has other causes, and a cluster of them is a reason to look at the whole load rather than treat five separate problems ([Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987)).
 
 **For example**
 (Imagined) During a heavy month, someone notes more headaches, a shorter temper and worse sleep without deciding what is causing them, and takes the pattern to a doctor rather than to a self-diagnosis.

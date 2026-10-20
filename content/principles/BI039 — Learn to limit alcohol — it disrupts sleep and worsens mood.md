@@ -19,7 +19,7 @@ The two halves of the title each have a literature. For sleep, a review of studi
 > "The analysis revealed that the presence of either disorder doubled the risks of the second disorder, with pooled AORs ranging from 2.00 to 2.09." (Abstract, Results; Boden & Fergusson, 2011, Addiction 106(5): 906-14, [PubMed](https://pubmed.ncbi.nlm.nih.gov/21382111/))
 
 **Plain words**
-Alcohol shortens the time it takes to fall asleep, which is the part people notice, and it is not the whole picture ([Ebrahim et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23347102/)). The second half of the night is where the review finds the cost: more broken sleep, with the REM portion of the night delayed and reduced at most doses. The epidemiology concerns diagnosable alcohol problems and diagnosable depression, each roughly doubling the odds of the other, with the authors reading the drinking as the likelier driver ([Boden & Fergusson, 2011](https://pubmed.ncbi.nlm.nih.gov/21382111/)).
+Falling asleep quickly is only part of sleeping well. The review found more disruption in the second half of the night, so a nightcap's sedating effect does not by itself establish better sleep ([Ebrahim et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23347102/)). The epidemiology concerns diagnosable alcohol problems and diagnosable depression, each roughly doubling the odds of the other, with the authors reading the drinking as the likelier driver ([Boden & Fergusson, 2011](https://pubmed.ncbi.nlm.nih.gov/21382111/)).
 
 **For example**
 (Imagined) Someone who has been using a nightcap plans a week without one and notes how the nights differ, rather than assuming one bad night proves anything.
@@ -42,4 +42,4 @@ Alcohol shortens the time it takes to fall asleep, which is the part people noti
 
 ## Practice
 
-- Limit alcohol: if you drink, do so moderately and not before bed. Notice the effect on sleep and next-day anxiety. Reduce or eliminate if it worsens mood or sleep.
+- Compendium exercise: notice both how long falling asleep takes and how interrupted the later night is ([Ebrahim et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23347102/)).

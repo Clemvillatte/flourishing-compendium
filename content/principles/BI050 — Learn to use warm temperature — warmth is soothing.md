@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 50** — Learn to use warm temperature: warmth is soothing
 
-Warmth has two studied effects, and both are narrow. The safety study first: in a fear-conditioning experiment, a warm pack held in the hand resisted being associated with threat, and it inhibited an already-learned fear response with an inhibition that persisted after the pack was removed; the authors read physical warmth as a prepared safety stimulus, in the same category as social support ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)).
+Warmth has two studied effects, and both are narrow. Hornstein and colleagues conducted two adult laboratory studies: one examined whether warm stimuli resisted association with threat; the other examined whether warmth inhibited an acquired fear response ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)). In the second study the inhibition persisted after the warm stimulus was removed, and the authors read physical warmth as a prepared safety stimulus, in the same category as social support ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)).
 
 The sleep study: a meta-analysis of water-based passive body heating found that a warm shower or bath at 40-42.5°C, scheduled 1-2 hours before bedtime for as little as 10 minutes, was associated with improved self-rated sleep quality and sleep efficiency and a shorter sleep onset latency ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)).
 
@@ -21,7 +21,7 @@ The sleep study: a meta-analysis of water-based passive body heating found that 
 > "PBHWB of 40-42.5 °C was associated with both improved self-rated sleep quality and SE, and when scheduled 1-2 h before bedtime for little as 10 min significant shortening of SOL." (Abstract, Results; Haghayegh et al., 2019, Sleep Med Rev 46: 124-35, [PubMed](https://pubmed.ncbi.nlm.nih.gov/31102877/))
 
 **Plain words**
-Physical warmth can act on the fear response like supportive presence, and warm baths or showers can improve sleep timing ([Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/); [Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)). These are two specific findings about two warm experiences; they do not show that every warm object reduces distress.
+Match the practice to the purpose studied. The bathing evidence concerns sleep, while the warmth experiments tested learned fear in a laboratory ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/); [Hornstein et al., 2022](https://pubmed.ncbi.nlm.nih.gov/34726432/)). Those findings do not establish that a warm drink or sunlight will relieve everyday distress.
 
 **For example**
 (Imagined) A person with disrupted sleep tries a warm bath in the evening and notices how they feel the next morning, without assuming the bath is the cause of any change.
@@ -44,4 +44,4 @@ Physical warmth can act on the fear response like supportive presence, and warm 
 
 ## Practice
 
-- Try a warm bath or shower 1-2 hours before bedtime (40-42.5°C, at least 10 minutes) if you have difficulty falling asleep, and observe the result ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)).
+- Compendium exercise: try an evening warm bath or shower (the review's condition: 40-42.5°C, 1-2 hours before bedtime) and note how the following nights go, as an observation rather than a treatment ([Haghayegh et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31102877/)).
