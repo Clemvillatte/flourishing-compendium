@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Food as medicine",
@@ -73,6 +73,18 @@
    "link": "BI048",
    "why": "a specific parasympathetic lever: facial cold receptors slowing the heart",
    "notes": "Evidence in sources/p1zs/BI048.md (Foster & Sheel 2005 opened; target page read earlier this session)."
+  },
+  {
+   "into": "Social support theory Cohen Wills",
+   "link": "BI050",
+   "why": "experiments that placed physical warmth in the same fear-inhibition category as supportive others",
+   "notes": "Evidence in sources/p1zs/BI050.md (Hornstein et al. 2022 opened; target page read)."
+  },
+  {
+   "into": "The natural rhythm of warmth and cool",
+   "link": "BI050",
+   "why": "the warm-input side of the rhythm, with the bath-timing evidence",
+   "notes": "Evidence in sources/p1zs/BI050.md (Haghayegh et al. 2019 opened; target page read)."
   }
  ],
  "inline": []
