@@ -14,9 +14,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 The Way is walked, not discussed: one hour of practice outweighs a library of commentary.
 
-(Zhuangzi 13; DDJ 1.)
-
 Zhuangzi closes Book XIII with the wheelwright Phien, who tells Duke Hwan that the books of the dead sages hold only "the dregs and sediments of those old men": what was valuable in their words was never conveyable by words, and went with them to the grave. Phien's own art proves the rule. At seventy he is still making wheels, because the knack of his hand cannot be told "by word of mouth", and neither his son nor he can close that gap. Laozi opens the Daodejing with the same verdict from the other side: "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name."
+
+(Zhuangzi 13; DDJ 1.)
 
 > "What the world thinks the most valuable exhibition of the Tâo is to be found in books. But books are only a collection of words. Words have what is valuable in them;--what is valuable in words is the ideas they convey. But those ideas are a sequence of something else;--and what that something else is cannot be conveyed by words." (Zhuangzi 13, [Legge](https://www.sacred-texts.com/book/the-texts-of-taoism-part-i-of-ii/book-xiii-thien-tao-or-the-way-of-heaven/))
 
