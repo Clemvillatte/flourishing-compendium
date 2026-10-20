@@ -5,7 +5,7 @@
    "into": "Cognitive flexibility",
    "phrase": "distrust of names and labels",
    "source": "w1a worker-w1a-4c8e21d7",
-   "why": "body prose names the teaching without linking the concept page (links only the principle D016); unique occurrence at line 28, single-concept selector"
+   "why": "the psychological capacity for switching framings that the teaching's distrust of fixed names and labels draws on"
   }
  ],
  "reciprocal": [
@@ -24,8 +24,7 @@
   {
    "into": "Beneficial speech",
    "link": "Right speech",
-   "why": "The Beneficial speech page's seed line reads '\"Beneficial speech\" — BG 17.15; Buddhist right speech' and its Sources list 'Buddhist right speech' (plain text, rg-verified lines 10 and 19); the Right speech page links Beneficial speech in Related as the Gita cousin. No [[Right speech]] link exists on the page.",
-   "_audit_why": "Beneficial speech page read via rg; phrases verbatim at lines 10 and 19; no existing Right speech link"
+   "why": "the Gita's teaching on speech that benefits, compared with the Buddhist right-speech practice the page names as its counterpart"
   },
   {
    "into": "The evening review",
