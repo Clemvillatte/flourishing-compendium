@@ -7,11 +7,11 @@ file: "Spiritual exercises"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Spiritual exercises is Pierre Hadot's name for the practice side of ancient philosophy. On his reading the schools taught a way of life, and the exercises were its method: the daily, repeated work by which a student worked toward the "complete reversal of our usual ways of looking at things" that the Sage embodied. The Internet Encyclopedia of Philosophy's summary of the account:
+Spiritual exercises is Pierre Hadot's name for the practice side of ancient philosophy. On his reading the schools taught a way of life, and the exercises were its method: the daily, repeated work by which a student worked toward the "complete reversal of our usual ways of looking at things". The Internet Encyclopedia of Philosophy's summary of the account:
 
 > "These exercises encompassed all of those practices still associated with philosophical teaching and study: reading, listening, dialogue, inquiry, and research. However, they also included practices deliberately aimed at addressing the student's larger way of life, and demanding daily or continuous repetition: practices of attention (prosoche), meditations (meletai), memorizations of dogmata, self-mastery (enkrateia), the therapy of the passions, the remembrance of good things, the accomplishment of duties, and the cultivation of indifference towards indifferent things (PWL 84)." ([Internet Encyclopedia of Philosophy, "Pierre Hadot"](https://iep.utm.edu/hadot/))
 
-The named exercises Hadot keeps returning to include the Stoic premeditation of evils, the examination of conscience guided by a master, meditation on mortality as philosophy's way of learning how to die, and the view from above, in which human affairs are reconsidered from a cosmic perspective until fame and luxury look as small as they are. One distinction worth carrying: the adjective "spiritual" is borrowed from the devotional register, and Hadot sometimes prefers "existential", precisely because the practices call on rhetoric and imagination, not reason alone. The compendium's training principles sit on this terrain, among them daily consistency (D054), the day bookended by intention and review (B192), and truths treated as tasks rather than beliefs (B008).
+The named exercises Hadot keeps returning to include the Stoic premeditation of evils, the examination of conscience guided by a master, meditation on mortality as philosophy's way of learning how to die, and the view from above, which is intended to challenge the importance assigned to fame, luxury and other personal concerns. Hadot sometimes prefers "existential" to "spiritual" as the adjective, and the practices call on rhetoric and imagination, not reason alone (IEP). The compendium's training principles sit on this terrain, among them daily consistency (D054), the day bookended by intention and review (B192), and truths treated as tasks rather than beliefs (B008).
 
 ## Facets
 
@@ -30,12 +30,9 @@ The named exercises Hadot keeps returning to include the Stoic premeditation of 
 - [Internet Encyclopedia of Philosophy, "Pierre Hadot"](https://iep.utm.edu/hadot/) — the blockquote, and the premeditation-of-evils, mortality and view-from-above passages behind the summary sentences.
 - Hadot, Philosophy as a Way of Life — the seed's citation; the book itself was not opened this round.
 
-## Cited in psychology parallels
-
-- [[Y080 — Test what arises for truth]]
-
 ## Cited in philosophy parallels
 
+- [[Y080 — Test what arises for truth]]
 - [[D054 — Practice daily — small consistent effort compounds]]
 - [[D148 — Let stillness heal]]
 - [[B008 — Treat the truths as tasks, not beliefs]]

@@ -42,3 +42,18 @@
   link was added to avoid conflating the two.
 - Validator: fast-track profile, ok, 0 fails, 1 warning (fewer than 3 Related lines,
   expected on a fast-track item).
+
+## Advisor QC repairs (2026-10-20)
+
+- Invented causal explanation for "existential" removed ("borrowed from the devotional
+  register... precisely because"); the sentence now states what the opened source
+  states: Hadot sometimes prefers "existential" as the adjective, and the practices
+  call on rhetoric and imagination, not reason alone (IEP passage).
+- "until fame and luxury look as small as they are" (cosmic-perspective dramatization)
+  replaced with the attributed purpose: the view from above "is intended to challenge
+  the importance assigned to fame, luxury and other personal concerns" (IEP).
+- "One distinction worth carrying" scaffolding removed; "that the Sage embodied"
+  trimmed from the intro.
+- Y080 reclassified to "## Cited in philosophy parallels": the Y080 page cites
+  "Discernment of spirits (Ignatius of Loyola, Spiritual Exercises)" under its
+  Philosophy parallels section.
