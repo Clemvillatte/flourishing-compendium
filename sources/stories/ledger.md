@@ -12,7 +12,7 @@ what was quoted, and what each claim rests on. Follows the band ledger conventio
   the blockquote was verified character-for-character against the raw wikitext
   (lines 158–180 of the source).
 - Facts: 1079 Crow Terrace Poetry Trial; first exile 1080 to Huangzhou, nominal
-  title, no stipend; small residence built with a friend's help in 1881; lived
+  title, no stipend; small residence built with a friend's help in 1081; lived
   at the Dongpo farm, took the pseudonym from it; best poems of the exile
   period; recalled 1086. All from the same wikitext (prose section).
 - NOT claimed (removed in advisor QC round 1): trial fine amounts, Sand Lake
@@ -34,10 +34,12 @@ what was quoted, and what each claim rests on. Follows the band ledger conventio
 
 ## ST339 — Jigoro Kano Turns the Push
 
-- Opened: https://en.wikipedia.org/wiki/Kan%C5%8D_Jigor%C5%8D (two fetches;
-  conflicting extractions resolved in favour of the more specific one; the
-  practice-passage excerpt from the first fetch was NOT trusted and was not
-  used in the final text).
+- Opened: https://en.wikipedia.org/wiki/Kan%C5%8D_Jigor%C5%8D — fetched twice
+  with extraction prompts (conflicting results), then VERIFIED against the raw
+  wikitext (action=raw, kano_raw.txt): all quotes and facts below confirmed
+  character-for-character in the raw text (lines 85, 88, 189, 198, 220, 241,
+  243, 290). The practice-passage excerpt from the first fetch was NOT found in
+  the raw text verification path and was not used.
 - Quotes used (verified verbatim on the page): Nakai Baisei demonstration
   sentence; Kodokan founding sentence (May or June 1882, Eishō-ji, twelve
   mats, handful of students, Iikubo teaching three days a week); "A main
@@ -89,15 +91,20 @@ what was quoted, and what each claim rests on. Follows the band ledger conventio
   as a closer; the Daoist pairing is labelled the compendium's cross-tradition
   analogy.
 
-## Validator change (supervisor maintenance)
+## Validator change (supervisor maintenance, narrowed in QC round 2)
 
-enrich_validate.py now exempts structural page types (book, chapter, layer,
-section, reference, navnode, volume) from the prose/Sources/banned-word bar
-while keeping the protected-markup checks. Reason: the Stories book Contents
-file is a table of contents and was FAILing the concept bar when a story link
-was added. Regression evidence: scripts/tests (25 safety + 5 manifest) pass;
-harness check confirms a short-prose concept still FAILs; the structure-file
-check now passes. Recorded in the QC log.
+enrich_validate.py exempts ONLY pure tables of contents — structural pages
+(book/chapter/layer/section/reference/navnode/volume) whose prose word count
+is ZERO — from the prose/Sources/banned-word/staging bar, while keeping every
+protected-markup check. Structural pages that carry prose (e.g. the
+Pragmatist book page, ~1,100 words) remain fully subject to the bar.
+Reason: the Stories book Contents file is a table of contents and was FAILing
+the concept bar when a story link was added. Targeted regression tests added at
+scripts/tests/test_enrich_validate.py (3 tests: pure-ToC exempt; markup
+protection still fires on a removed Contents link; concept short-prose still
+FAILs) plus the existing suites (25 safety + 5 manifest) — all pass.
+enrich_save.sh now also stages sources/ (band ledgers live there and were
+previously pushed only by ad-hoc git add).
 
 ## Process notes
 
@@ -107,3 +114,21 @@ check now passes. Recorded in the QC log.
   action=raw) or the plain full text before quoting.
 - git push is blocked from this sandbox; scripts/api_push.py is the reliable
   push route (token read from the origin remote URL per that script's design).
+
+## QC round 2 additions
+
+- Kanō material now verified against the raw wikitext (see above), not
+  extraction-prompt summaries. Two attribution corrections landed in the
+  story: the yielding-to-strength line is the theme of the 1888 lecture, and
+  the "When yielding" sentence was said to a reporter in 1938.
+- I, Pencil read in full without an extraction prompt (fetched
+  2026-10-20): the dispersed-knowledge quotes, the "absence of a master mind"
+  passage, the political purpose sentence, and the capital-T "There isn't"
+  all confirmed against the complete text; the Chesterton line sits near the
+  essay's opening.
+- Verification classes used across this batch: (1) raw-text verification
+  (Su Shi poem via wikitext; Kanō quotes via wikitext; Fukuoka rice-barley
+  via wikitext), (2) verbatim quotes from opened web pages (ctext, Econlib,
+  Grist, Wikiquote — the last is a disclosed secondary carrier), (3) facts
+  from opened encyclopedic pages. No claim in the stories rests on a
+  prompted extraction alone.
