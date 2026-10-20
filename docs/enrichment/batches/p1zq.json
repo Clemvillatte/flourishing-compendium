@@ -1,15 +1,15 @@
 {
  "batch": "p1zq",
  "done": [
-  "Y095",
   "Y097"
  ],
- "in_progress": null,
+ "in_progress": "Y095",
  "flagged": {
-  "Y095": "advisor QC round 1 fail: 4.37/4.38 translation attribution unverified (need Sivananda or Mukundananda); unsupported mechanism claims; humanizer defects (First/Second staging, split contrast, fragment closer, fuel-log aphorism)",
+  "Y095": "Reopened for QC: advisor QC round-1 fail: translation attribution, mechanism overreach, humanizer defects",
   "Y097": "advisor QC round 1 fail: verse supports teacher/apprenticeship not the never-terminate mechanism; detector was 61% replicate; example not labelled imagined; humanizer defects (arrival/closing aphorism, self-mechanism, dashes, second-one/first-one closer); saturation not actually run"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:22:13+00:00"
+ "updated": "2026-10-20T11:22:19+00:00",
+ "band_done": false
 }
