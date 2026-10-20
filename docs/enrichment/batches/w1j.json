@@ -24,7 +24,8 @@
   "Perceived partner responsiveness",
   "Pleasant activities scheduling (Lewinsohn)",
   "Predictive processing",
-  "Stage theories of development"
+  "Stage theories of development",
+  "The body schema"
  ],
  "in_progress": null,
  "flagged": {
@@ -35,6 +36,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:20:27+00:00",
+ "updated": "2026-10-20T11:21:01+00:00",
  "band_done": false
 }
