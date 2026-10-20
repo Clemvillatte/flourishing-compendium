@@ -212,3 +212,12 @@
 - Opened: Miller and Rollnick, "The evolution of motivational interviewing" (retrospective describing the 2013 edition), official PDF: https://motivationalinterviewing.org/sites/default/files/the_evolution_of_motivational_interviewing.pdf — "more iterative and flexible" process sentence verified; also used for spirit evolution context.
 - Reciprocals: 3 filed (Readiness-matched intervention, Empathic understanding, Empathy — backlink absence rg-verified). No inline filed.
 - Validator on final: ok (Related-section warning resolved). Seed line, Sources bullets, both Cited-in lists preserved.
+
+## Narrative identity theory McAdams (done 2026-10-20; w1f item 9; no advisor QC due at this cadence)
+
+- Opened: McAdams 2013, "The Psychological Self as Actor, Agent, and Author" (Perspectives on Psychological Science 8(3)), full PDF: http://www.its.caltech.edu/~squartz/Perspectives%20on%20Psychological%20Science-2013-McAdams-272-95.pdf — narrative-identity definition, third-layer-of-selfhood sentence, "The I becomes an autobiographical author" sentence, redemptive-arc and psychological-resources passages all verified verbatim.
+- Opened: McAdams, Reynolds, Lewis, Patten and Bowman 2001 abstract (SAGE): https://journals.sagepub.com/doi/10.1177/0146167201274008 — full findings abstract verified verbatim.
+- Correlational framing kept ("correlations in American samples"); no causal claim.
+- Reciprocals: 4 filed (Narrative redemption sequences, Narrative self, Generativity theory, Post-traumatic growth — backlink absence rg-verified). No inline filed.
+- Assembly note: first write dropped the body (format-string error silently skipped); caught by validator prose count (4 < 150); rebuilt with concatenation and re-validated ok.
+- Validator on final: ok. Seed line, Sources, Field links, philosophy parallels preserved.
