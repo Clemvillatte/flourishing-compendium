@@ -6,9 +6,6 @@
   "SP073",
   "SP079",
   "X014",
-  "SP089",
-  "SP091",
-  "SP096",
   "X022",
   "X023",
   "Y013",
@@ -30,14 +27,17 @@
   "A120",
   "A122",
   "Y110",
-  "A032"
+  "A032",
+  "SP089",
+  "SP091",
+  "SP096"
  ],
  "in_progress": null,
  "flagged": {
   "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses",
-  "SP089": "Reopened for QC: QC milestone: circumstances-revoke overreach + rereading mechanism",
-  "SP091": "Reopened for QC: QC milestone: sharing-as-requirement overreach",
-  "SP096": "Reopened for QC: QC milestone: eternity-as-technique + smaller-measure claim",
+  "SP089": "Reopened for QC: QC round 6: remove quiet-vs-ecstatic comparison; gardener example imagined action-only",
+  "SP091": "Reopened for QC: QC round 6: example made voluntary imagined action; no general learning mechanism",
+  "SP096": "Reopened for QC: QC round 6: Plain words scoped to opened passages; remove nightly prediction",
   "Y105": "Reopened for QC: QC re-review round 3: strand search full inspection and ledger corrections",
   "A020": "Reopened for QC: QC re-review: file-path fix, action-only example, Plain words, raw verification",
   "A081": "Reopened for QC: QC re-review: flute quote punctuation, unsupported pleasure claims, mention hunt",
@@ -47,6 +47,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:44:13+00:00",
+ "updated": "2026-10-20T11:15:50+00:00",
  "band_done": false
 }

@@ -24,7 +24,7 @@ The compendium's application: attach your practice to at least one other person'
 
 **Plain words** Spinoza notices something odd about the understanding he wants: wanting it for himself already includes wanting it for other people, and the wish grows with the understanding itself (that is the Ethics IV P37 clause, "so much the more, in proportion as"). Sharing the highest good is part of what the project is.
 
-*For example:* The person who learns something that changes how they think and starts explaining it to anyone who asks. The wish for others to understand comes with the understanding, and the explaining is that wish at work.
+*For example (imagined):* After finding a passage helpful, you invite a study partner to work through it with you.
 ## Psychology parallels
 
 - **[[Prosocial spending|Prosocial spending and shared goals]]** (Dunn, Aknin and Norton, 2008)

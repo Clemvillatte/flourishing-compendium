@@ -18,9 +18,9 @@ The Ethics ends with a picture rather than a command. Of the ignorant man, Spino
 
 Spinoza describes the contrast as one of degree, and the degree is qualified: the wise man is "scarcely at all disturbed in spirit" only "in so far as he is regarded as such". The rest is a condition of understanding rather than a mood the world produces. Spinoza is explicit that the way is hard: "Needs must it be hard, since it is so seldom found." The compendium's reading of progress: measure it by how often this rest shows up, not by how intense your peak experiences are.
 
-**Plain words** The scholium contrasts two people. One is knocked around by whatever happens, barely conscious of himself, of God or of things, and stops when the suffering stops. The other is barely disturbed in spirit and possesses what Spinoza calls true acquiescence. Understanding is what makes the difference between them, and the difference is quiet rather than ecstatic.
+**Plain words** The scholium contrasts two people. One is knocked around by whatever happens, barely conscious of himself, of God or of things, and stops when the suffering stops. The other is barely disturbed in spirit and possesses what Spinoza calls true acquiescence. Understanding is what makes the difference between them.
 
-*For example:* An experienced gardener in a storm year. He still works, still loses plants, but he knows what storms are and what seasons do, and the knowledge shows up as a certain steadiness.
+*For example (imagined):* An experienced gardener in a storm year. Plants are lost; he works out what to replant and where, and plants it.
 ## Psychology parallels
 
 - **[[Equanimity|Equanimity as the contemplative outcome measure]]** (Desbordes et al., 2014)

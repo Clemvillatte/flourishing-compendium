@@ -20,9 +20,9 @@ The Fifth Part explains what the form amounts to. Things are conceived as actual
 
 The compendium's application, kept distinct from that doctrine: as a reflection exercise, once a day take the most annoying or painful event of the day and ask what larger process it belongs to. The exercise borrows the shape of the two conceptions; it is not Spinoza's account of eternity and claims no guaranteed relief.
 
-**Plain words** Spinoza says reason can see a thing two ways: as an item in today's traffic and news, or as part of one necessary whole. The second way does not come by default. The principle asks you to practice noticing which of the two you are using.
+**Plain words** You can locate an event in time and place. Spinoza also describes understanding things through the necessity of God's nature. He calls that second conception eternal; adding more years still concerns duration. The compendium's daily reflection is a separate exercise.
 
-*For example:* The evening question, what one process was this whole day part of? The answer will differ nightly. Asking it is the practice.
+*For example:* The evening question, what one process was this whole day part of? Asking it is the practice.
 ## Psychology parallels
 
 - **[[Cognitive reappraisal|Cognitive reappraisal among the best-evidenced strategies]]** (Gross, 2015)
