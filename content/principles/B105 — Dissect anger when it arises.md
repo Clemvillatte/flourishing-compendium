@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 105** — Dissect anger when it arises
 
-Shantideva's patience chapter runs the dissection as a question about usefulness: if a problem has a remedy, frustration is useless because the remedy is the work; if it has none, frustration is useless because nothing remains to be done. The chapter also prices the state itself, from the thorn of hatred to the cost of one flash of anger against good accumulated over thousands of eons. (Shantideva, Bodhicaryavatara 6.)
+Shantideva's patience chapter asks a question about usefulness: if a problem has a remedy, what use is frustration; if there is no remedy, what use is frustration. The chapter also prices the state itself, from the thorn of hatred in the heart to the cost of one flash of anger against good accumulated over thousands of eons. (Shantideva, Bodhicaryavatara 6.)
 
 > "The mind does not find peace, nor does it enjoy pleasure and joy, nor does it find sleep or fortitude when the thorn of hatred dwells in the heart." (Shantideva, Bodhicaryavatara 6.3, [Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf))
 
-The Dhammapada's third and fourth verses give the mechanism as one contrast: the same injuries, "he abused me, he struck me," carried in thought leave hatred unrested, dropped from thought still it. The event is one thing; the rehearsed account of it is another, and the account is what the anger runs on. (Dhammapada 3-4.)
+The Dhammapada's third and fourth verses draw one contrast: the same words, carried in thought, leave hatred unrested; dropped from thought, they still it. The event-and-account exercise below is the compendium's suggested reading of that contrast, and the passages themselves do not settle what an anger is made of. (Dhammapada 3-4.)
 
 > "He abused me, he struck me, he overpowered me, he robbed me." Those who do not harbor such thoughts still their hatred. (Dhammapada 4, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 

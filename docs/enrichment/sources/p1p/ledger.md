@@ -278,3 +278,28 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   opened; flagged inherited parallels. Linked concepts (Anger reappraisal, The
   critique of ressentiment) skimmed as seeds only. K169 practice kernel link
   untouched (protected).
+
+## Item-15 QC round (advisor) — repairs on B108, B105, B076
+
+- B108: mechanism overreach removed — "cost of the holding, priced in advance" and
+  the "looping narrative keeps the feeling in circulation" claim deleted; the
+  "Grief is on the list" gloss replaced with the translation's own terms; plain
+  words rewritten as the advisor's noticing exercise; example replaced with the
+  breakfast/empty-chair imagined scene (no recovery promises). Quotes unchanged.
+- B105: the "nothing remains to be done" inference replaced with Shantideva's own
+  question attributed as a question; the Dhp 3-4 contrast attributed narrowly and
+  the event/account exercise labelled as the compendium's suggested reading; the
+  inline lowercase fragment quote removed (fragment-capitalization convention).
+- B076: the "stopping at the contact" equivalence removed — the Bahiya application
+  is now labelled as the compendium's suggested application, with the limit stated
+  (the excerpts do not establish interrupting the chain at any particular link).
+- Linked-concept body reads (B108): Dual-process theory body read in full (its
+  "A different dual process" section itself discusses the Stroebe/Schut grief
+  model — consistent with the inherited parallel link, untouched); Resilience,
+  Grief for what passes, Consolation bodies read (seed lines, no contradictions
+  with the rewritten B108). Earlier ledger entries that said "skimmed as seeds
+  only" accurately described front-matter checks; bodies are now read per item
+  going forward.
+- QC accuracy note: advisor QC ran at session items 1, 5, 10 and 15 (first item
+  plus every fifth) — sample review at milestones, not individual review of every
+  item. Validator and supervisor spot-checks cover the gap per the speed directive.

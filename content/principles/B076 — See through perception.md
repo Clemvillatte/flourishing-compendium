@@ -16,7 +16,7 @@ MN 18 sets out perception as a step in a dependent chain. Dependent on the eye a
 
 > "What one feels, one perceives (labels in the mind). What one perceives, one thinks about. What one thinks about, one objectifies." (MN 18, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-The Bahiya Sutta gives a training instruction that reads as the counter-move to that chain: in reference to the seen, there will be only the seen. It can be tried by stopping at the contact and noticing the later layers as they are added, rather than taking the labeled version for the world. (Bahiya Sutta.)
+The Bahiya Sutta gives a training instruction: in reference to the seen, there will be only the seen. The compendium's suggested application is to notice the later layers of the chain as they are added, rather than taking the labeled version for the world; the excerpts do not establish that the instruction means interrupting the chain at any particular link. (Bahiya Sutta.)
 
 > "In reference to the seen, there will be only the seen. In reference to the heard, only the heard. In reference to the sensed, only the sensed. In reference to the cognized, only the cognized." (Udana 1.10, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.1.10.than.html))
 

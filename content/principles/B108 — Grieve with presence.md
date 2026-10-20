@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 108** — Grieve with presence
 
-Meet loss fully: not with the proliferation of stories, but with presence to what is actually here. Grief that is felt moves; grief that is narrated loops.
+SN 56.11 includes sorrow, lamentation and separation from the loved in its account of stress. The task it assigns to this noble truth is comprehension. This page takes that task as a starting point for attending to grief. (SN 56.11.)
 
-(Dhammapada 212; SN 56.11 first task.)
+> "Birth is stressful, aging is stressful, death is stressful; sorrow, lamentation, pain, distress, & despair are stressful; association with the unbeloved is stressful, separation from the loved is stressful, not getting what is wanted is stressful." (SN 56.11, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html))
 
-**Plain words** Meet loss fully — not with the proliferation of stories, but with presence to what is actually here. Grief that is felt moves; grief that is narrated loops. The feeling is a river; the story about the feeling is a moat.
+Dhammapada 212 connects endearment with grief and fear. The attention exercise below is the compendium's suggested application; these passages do not establish whether telling a loss's story prolongs grief. (Dhammapada 212.)
 
-*For example:* Crying without commentary after the breakup — it moves through in weeks. The rehearsed narrative ('I'll never...') keeps it in circulation for years.
+> "From endearment springs grief, from endearment springs fear. For one who is wholly free from endearment there is no grief, whence then fear?" (Dhammapada 212, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html))
+
+**Plain words**
+You do not have to decide what a loss means for the rest of your life to notice how it affects you today. For this suggested exercise, describe what you notice: a bodily feeling, a memory, a question or a practical concern. If you find yourself telling the story, include that in what you notice. There is no requirement to force it away.
+
+*For example:* Imagine missing someone while eating breakfast. You notice their empty chair and remember a meal you shared. You might stay with the memory or tell someone about it; the exercise sets no deadline for feeling better.
+
+## Sources
+
+- [Dhammacakkappavattana Sutta (SN 56.11), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the stress list and the comprehension task
+- [Dhammapada Piyavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verse 212
 
 ## Psychology parallels
 
