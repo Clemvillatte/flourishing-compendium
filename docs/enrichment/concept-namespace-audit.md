@@ -111,6 +111,18 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Worker flags (pending supervisor disposition)
 
+- State-matched emotion regulation (2026-10-20, worker-p1r-ae2a1b83, w1g, first-item advisor QC):
+  the underlying construct is REAL and sourced (Gross 2015, Psychological Inquiry 26(1), section
+  "The Implementation Stage", defines emotion regulation flexibility as "the matching of emotion
+  regulation strategy to environmental circumstance", citing Bonanno & Burton 2013; both full PDFs
+  opened and quotes verified verbatim), but NO source defines the page's coined title "State-matched
+  emotion regulation" (the seed glosses it as "Gross's extended process model's situation-strategy
+  matching", which is also not Gross's term). ADVISOR DISPOSITION REQUEST: canonical renaming to the
+  sourced term (e.g. "Emotion regulation flexibility"), with links and the researched body preserved;
+  do NOT count as a hallucination. The rewritten body now describes the sourced construct without
+  asserting the label equivalence. Degree 13 (3 concepts + 10 principles), fast-track eligible. The
+  item is NOT marked done pending this disposition; the researched text is pushed as WIP.
+
 Enriched and sourced in band w1g (2026-10-20, worker-p1h-9f42e6c7): the opened sources
 substantiate the underlying teachings; title/concept identity remains pending supervisor
 disposition. The page TITLE is the compendium's own heading rather than the tradition's
