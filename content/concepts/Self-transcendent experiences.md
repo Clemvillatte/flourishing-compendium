@@ -7,15 +7,14 @@ file: "Self-transcendent experiences"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-temporary shifts in self-perspective with lasting well-being correlates (Yaden et al., 2017).
+Yaden and colleagues define self-transcendent experiences as “transient mental states marked by decreased self-salience and increased feelings of connectedness” ([2017, abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)). They identify aspects of mindfulness, flow, love, awe, peak experiences and mystical-type experiences as belonging within this grouping ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
-## Other formulations in this library
-
-- feelings of unity and small-self reliably accompany awe and peak states (Yaden et al., 2017)
+Their integrative review proposes an organizational framework and possible psychological and neurobiological mechanisms for these experiences ([Yaden et al., 2017](https://journals.sagepub.com/doi/10.1037/gpr0000102)). The authors identify further empirical research as needed to develop the account ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
 ## Sources
 
 - Yaden et al., 2017
+- [David Bryce Yaden, Jonathan Haidt, Ralph W. Hood Jr., David R. Vago and Andrew B. Newberg, “The Varieties of Self-Transcendent Experience” (2017)](https://journals.sagepub.com/doi/10.1037/gpr0000102), abstract: definition, examples and proposed framework.
 
 ## Cited in psychology parallels
 

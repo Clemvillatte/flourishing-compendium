@@ -74,6 +74,20 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. No new backlink or reciprocal.
 - QC: source comparison and preservation validator before done.
 
+## Self-transcendent experiences
+
+- Track: fast-track, current degree 9 (1 concept and 8 principles).
+- Opened 2026-10-20: https://journals.sagepub.com/doi/10.1037/gpr0000102 .
+  Yaden et al. (2017). Search: Yaden 2017 varieties self transcendent experience.
+- Access: publisher abstract and bibliography, not full article.
+- Quote: exact abstract definition beginning “transient mental states.”
+  Examples and proposed-mechanism status are also in that abstract.
+- Removed unsupported “lasting well-being correlates” and “reliably accompany”
+  seed statements; no effect size, duration, guaranteed benefit, neural
+  mechanism or equivalence across all named practices is asserted.
+- Saturation: fast-track exemption. All inherited links retained, no reciprocal.
+- QC: compare definition with opened abstract; validator before done.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
