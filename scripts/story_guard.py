@@ -38,7 +38,8 @@ STORY_PIPELINE = [
 
 
 def changed_paths():
-    r = subprocess.run(['git', 'status', '--porcelain'], cwd=ROOT, capture_output=True, text=True)
+    r = subprocess.run(['git', 'status', '--porcelain', '--untracked-files=all'],
+                       cwd=ROOT, capture_output=True, text=True)
     out = []
     for line in r.stdout.split('\n'):
         if not line.strip():

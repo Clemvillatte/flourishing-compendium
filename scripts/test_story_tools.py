@@ -128,6 +128,11 @@ def main():
     errs, _ = run_checker(PUBLISHED_OK, context='published')
     check('published fixture clean of prose errors',
           not [e for e in errs if 'file name' not in e and 'title' not in e], str(errs))
+    star_prov = PUBLISHED_OK.replace('_A parable, test tradition · ', '*A parable, test tradition · ').replace(
+        '](https://example.org/test)_', '](https://example.org/test)*')
+    errs, _ = run_checker(star_prov, context='published')
+    check('star-emphasis provenance accepted (published)',
+          not [e for e in errs if 'provenance' in e], str(errs))
     errs, _ = run_checker(PUBLISHED_OK + '\n## QC notes\n- x\n', context='published')
     check('published-context QC-notes leak caught', any('QC notes' in e for e in errs), str(errs))
     errs, _ = run_checker(PUBLISHED_OK.replace('_A parable, test tradition · ', 'Plain first line. '), context='published')
@@ -267,6 +272,73 @@ def main():
                         '--chapter', 'ST-S01.01', '--id', '3'], capture_output=True, text=True)
     check('released band treated as free', r.returncode == 0, r.stdout + r.stderr)
     shutil.rmtree(fx)
+
+    print('save-path guard (isolated git fixture):')
+    fxg = tempfile.mkdtemp()
+    bare = tempfile.mkdtemp()
+    subprocess.run(['git', 'init', '-q', '--bare', '-b', 'main', bare], check=False)
+    subprocess.run(['git', 'clone', '-q', bare, fxg], check=True)
+    os.makedirs(os.path.join(fxg, 'scripts'))
+    shutil.copy(os.path.join(ROOT, 'scripts', 'story_guard.py'), os.path.join(fxg, 'scripts'))
+    shutil.copy(os.path.join(ROOT, 'scripts', 'enrich_save.sh'), os.path.join(fxg, 'scripts'))
+    open(os.path.join(fxg, 'handoff.md'), 'w').write('x')
+    # populate dirs that enrich_save.sh's `git add -A content docs scripts sources handoff.md`
+    # references (a non-matching pathspec makes git add fail silently and add nothing)
+    os.makedirs(os.path.join(fxg, 'content', 'principles'), exist_ok=True)
+    open(os.path.join(fxg, 'content', 'principles', 'P001 — X.md'), 'w').write('x')
+    os.makedirs(os.path.join(fxg, 'sources'), exist_ok=True)
+    open(os.path.join(fxg, 'sources', 'note.md'), 'w').write('x')
+    os.makedirs(os.path.join(fxg, 'docs', 'enrichment'), exist_ok=True)
+    open(os.path.join(fxg, 'docs', 'enrichment', 'x.md'), 'w').write('x')
+    base_env = dict(os.environ)
+    base_env.pop('STORY_ROLE', None)
+    base_env.pop('STORY_LANE', None)
+
+    def fx_save(env, msg='fixture save'):
+        return subprocess.run(['bash', 'scripts/enrich_save.sh', msg], cwd=fxg,
+                              env=env, capture_output=True, text=True)
+
+    # seed the bare origin with an initial commit (empty clone has no main ref yet)
+    subprocess.run(['git', 'config', 'user.name', 'Fixture'], cwd=fxg, check=True)
+    subprocess.run(['git', 'config', 'user.email', 'fixture@example.org'], cwd=fxg, check=True)
+    subprocess.run(['git', 'add', '-A'], cwd=fxg, check=True)
+    subprocess.run(['git', 'commit', '-qm', 'seed'], cwd=fxg, check=True)
+    subprocess.run(['git', 'push', '-q', '-u', 'origin', 'main'], cwd=fxg, check=True)
+    # commit the fixture baseline first (as worker, allowed: no story paths)
+    r = fx_save(base_env, 'baseline')
+    check('fixture baseline save ok', r.returncode == 0, r.stdout + r.stderr)
+    # 1. unset role + story-path change -> refused
+    open(os.path.join(fxg, 'content', 'stories', 'x.md'), 'w') if os.path.isdir(
+        os.path.join(fxg, 'content', 'stories')) else os.makedirs(os.path.join(fxg, 'content', 'stories'))
+    open(os.path.join(fxg, 'content', 'stories', 'ST999 — X.md'), 'w').write('x')
+    r = fx_save(base_env, 'bad story path')
+    check('unset role + story path refused', r.returncode == 1 and 'guard' in (r.stdout + r.stderr),
+          r.stdout + r.stderr)
+    # 2. worker + story tool change -> refused
+    os.remove(os.path.join(fxg, 'content', 'stories', 'ST999 — X.md'))
+    open(os.path.join(fxg, 'scripts', 'story_check.py'), 'a').write('\n# touched\n')
+    r = fx_save(base_env, 'bad tool path')
+    check('worker + story tool refused', r.returncode == 1 and 'guard' in (r.stdout + r.stderr),
+          r.stdout + r.stderr)
+    # 3. storyteller + own-lane change -> allowed
+    worker_env = dict(base_env)
+    worker_env['STORY_ROLE'] = 'supervisor'
+    r = fx_save(worker_env, 'restore tools')
+    check('supervisor can commit tool changes', r.returncode == 0, r.stdout + r.stderr)
+    st_env = dict(base_env)
+    st_env['STORY_ROLE'] = 'storyteller'
+    st_env['STORY_LANE'] = 's1a'
+    os.makedirs(os.path.join(fxg, 'docs', 'enrichment', 'drafts', 's1a'), exist_ok=True)
+    open(os.path.join(fxg, 'docs', 'enrichment', 'drafts', 's1a', 's1a-001.md'), 'w').write('draft')
+    r = fx_save(st_env, 'lane work')
+    check('storyteller own-lane save allowed', r.returncode == 0, r.stdout + r.stderr)
+    # 4. storyteller + shared content change -> refused before commit
+    open(os.path.join(fxg, 'content', 'stories', 'ST999 — X.md'), 'w').write('x')
+    r = fx_save(st_env, 'bad content')
+    check('storyteller content change refused', r.returncode == 1 and 'guard' in (r.stdout + r.stderr),
+          r.stdout + r.stderr)
+    shutil.rmtree(fxg)
+    shutil.rmtree(bare)
 
     print(f'{PASS} passed, {FAIL} failed')
     return 1 if FAIL else 0

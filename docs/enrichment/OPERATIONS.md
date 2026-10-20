@@ -113,8 +113,15 @@ A second, separated pipeline handles narrative objects ("Stories"). Full protoco
 lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
 
 - Only agents holding the Storyteller prompt work lanes s1a, s1b… (baton.py accepts lane names).
+- **Save-path enforcement:** `enrich_save.sh` runs the separation guard on EVERY save.
+  `STORY_ROLE` selects the role — default `worker` when unset; `storyteller` (with
+  `STORY_LANE=<lane>`), `supervisor` (integration and owner-directed infrastructure).
+  A violation aborts the save before committing. The role is a supervisor-assigned
+  convention backed by path checks; it cannot authenticate which prompt an agent
+  actually received — honest framing, not a claim of authentication.
 - Storytellers never write into `content/`; publication and backlinks are supervisor-only
-  (`scripts/story_register.py`, dry-run by default, refuses live-band targets).
+  (`scripts/story_register.py`, dry-run by default, refuses live-band targets, refuses
+  duplicate ST numbers, defers live bands).
 - Ordinary workers never touch story pages or pipeline files (story_check/story_state/story_guard,
   `drafts/s1*/`, STORIES-TASKBOARD). Discovering a defective story → supervisor note, not an edit.
 - A stale baton is never permission to cross roles.
