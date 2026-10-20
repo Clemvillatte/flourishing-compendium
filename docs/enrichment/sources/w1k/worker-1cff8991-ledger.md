@@ -38,3 +38,4 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Abstract-only scope; no full-text measurement, causal or current-effect-size claim. APA page blocked and 2025 DOI redirect failed, not used. A mistyped PubMed identifier resolved to an unrelated paper and was excluded, not cited.
 - Corrected a transient next-item state label to this actual manifest item before editing; no off-band or nonexistent concept was created or marked done.
 - Original frontmatter, bibliography and all cited-in/story wikilinks preserved. Fast-track saturation skipped; no reciprocal proposal.
+- Five-concept milestone advisor (`tools.llm`, `gpt_6_luna`) reviewed Parrhesia, Patience, Prohairesis, Prudence and Psychological richness together against verified original-source passages: PASS, no required fixes or notes. All five fast-track validators passed.
