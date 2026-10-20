@@ -8,7 +8,8 @@
   "E005",
   "E006",
   "E020",
-  "E025"
+  "E025",
+  "E032"
  ],
  "in_progress": null,
  "flagged": {
@@ -18,6 +19,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:30:09+00:00",
+ "updated": "2026-10-20T07:01:00+00:00",
  "band_done": false
 }
