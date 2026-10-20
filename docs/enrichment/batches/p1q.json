@@ -35,10 +35,11 @@
   "D122": "Reopened for QC: QC repair verified",
   "D136": "Reopened for QC: QC repair verified",
   "D167": "Reopened for QC: QC: overextended commentary",
-  "D191": "Reopened for QC: QC: unlabelled reading; ch20 scope"
+  "D191": "Reopened for QC: QC: unlabelled reading; ch20 scope",
+  "P007": "Reopened for QC: QC self-check: premature done; file not yet written"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:23:19+00:00",
+ "updated": "2026-10-20T01:23:32+00:00",
  "band_done": false
 }
