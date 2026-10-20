@@ -10,7 +10,8 @@
   "AT009",
   "AT019",
   "AT022",
-  "AT027"
+  "AT027",
+  "AT028"
  ],
  "in_progress": null,
  "flagged": {
@@ -19,6 +20,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T12:50:58+00:00",
+ "updated": "2026-10-20T12:51:53+00:00",
  "band_done": false
 }

@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 28** — Learn to manage attentional energy: match attentional demands to capacity
 
-Attentional capacity fluctuates over the day and over the week. Some times are high-capacity (alert, fresh); others are low-capacity (fatigued, depleted). Matching attentional demands to capacity improves both performance and well-being.
+Schmidt, Collette, Cajochen and Peigneux's review of circadian rhythms in human cognition summarises the evidence this principle draws on: time-of-day modulations affect performance on a wide range of cognitive tasks, including attentional capacities, executive functioning and memory, and the fluctuations depend on chronotype, the individual's circadian preference. Performance is typically best when the task falls near the person's peak period of circadian arousal.
 
-**Plain words** Your attention has prime times and dead zones — daily, weekly, knowable. The skill is matching: hard focus when you're sharp, admin when you're not. Most calendars are arranged by other people's priorities and zero attentional physics.
+> "These performance fluctuations are also contingent upon the chronotype, which reflects interindividual differences in circadian preference, and particularly upon the synchronicity between the individuals' peak periods of circadian arousal and the time of the day at which testing occurs." (Schmidt et al., 2007 — [full text](http://www.chronobiology.ch/wp-content/uploads/publications/2007_09.pdf) — Cogn Neuropsychol 24(7), p. 755)
 
-*For example:* The analyst who schedules the heavy model for 9 a.m. and the expense reports for the post-lunch fog isn't being fussy. That's the workload meeting the biology.
+The compendium turns this into a planning practice: notice which stretches of the day your attention is strongest, put the demanding work there, and let routine tasks fill the troughs. The review is evidence about performance fluctuation, not about any particular scheduling formula.
+
+**Plain words**
+Attention has a shape across the day, and the shape differs by person: some are sharpest early, others late. Two things follow: learn your own shape, and stop scheduling by other people's clocks alone. The demanding task goes where your capacity is; the routine goes in the trough.
+
+**For example**
+As an imagined illustration, an analyst schedules the heavy model for 9 a.m. and the expense reports for the post-lunch dip.
+## Sources
+
+- [Schmidt, Collette, Cajochen & Peigneux 2007, A time to think: circadian rhythms in human cognition, Cognitive Neuropsychology 24(7):755-789, full text](http://www.chronobiology.ch/wp-content/uploads/publications/2007_09.pdf) — the review of time-of-day effects on attention, executive function and memory, and the chronotype-contingent synchrony effect.
+
 ## Psychology parallels
 
 - **Diurnal variation in attention**, alertness and attentional capacity peak at different times for different chronotypes (Schmidt et al., 2007; Valdez et al., 2005)
@@ -30,4 +40,4 @@ Attentional capacity fluctuates over the day and over the week. Some times are h
 
 ## Practice
 
-- Identify your peak attentional times (usually 2-4 hours after waking for morning types; later for evening types). Schedule your most demanding, attention-intensive work during these windows. Save routine tasks for low-capacity times.
+- Identify your peak attentional times by observing your own alertness for a week. Schedule your most demanding work in those windows and routine tasks elsewhere. The evidence suggests matching demanding work to your chronotype's preferred time of day rather than a fixed clock time.

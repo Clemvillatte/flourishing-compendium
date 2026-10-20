@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -25,6 +25,12 @@
    "link": "AT019",
    "why": "The principle naming the notice-and-return cycle that focused-attention training practises",
    "notes": "AT019 body grounds in Hasenkamp et al. 2012 (opened PubMed abstract); concept page does not currently cite AT019."
+  },
+  {
+   "into": "Chronobiology",
+   "link": "AT028",
+   "why": "The principle applying time-of-day and chronotype variation to scheduling attentionally demanding work",
+   "notes": "AT028 body grounds in Schmidt et al. 2007 (opened full text); Chronobiology page cites the same review but not AT028."
   }
  ],
  "inline": [],
