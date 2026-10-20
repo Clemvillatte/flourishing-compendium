@@ -813,3 +813,13 @@ convention).
 
 ### Validator repair (Leisure, same session)
 - enrich_validate FAIL: "5 dashes in prose (max 3)" — the source's en-dashes inside my verbatim fragments. Repaired by re-segmenting the inline quotes to omit the dash-bearing spans ("a co–respondence, eternally established in nature" and the "– in the real" fragment now paraphrased with only dash-free quoted spans). Re-validated ok; item then marked done. One Related-concepts line (Sabbath) preserved — the "fewer than 3" warning reflects the inherited structure.
+
+## Life affirmation (fast-track + milestone QC, genuineflourishing01, 2026-10-20)
+- Degree 6 at selection (principles E104/E105/E110/PP011/ST292) — fast-track eligible per §1a.
+- Sources opened: (1) Wong, P. T. P. (2016), "Existential Positive Psychology", IJEPP 6(1), PDF at meaning.ca (prompt-based extraction) — EPP definition sentence, embracing-suffering sentence, duality-hypothesis sentence, Camus and May quotations verified verbatim; (2) The Gay Science §276, vishvasa.github.io text (prompt-based extraction) — aphorism verified verbatim.
+- Blockquote normalization disclosed: an ellipsis "[...]" replaces the source's span "– thus I will be one of those who make things beautiful. " (the en-dash there is the source's own); the quoted remainder is verbatim. Translator credit not shown on the vishvasa page (disclosed in the Sources line); the translation differs slightly from Kaufmann's ("what is beautiful in them" for "as beautiful").
+- The seed's "Twilight of the Idols" citation line kept unhyperlinked and NOT quoted from (not opened this pass; the amor fati material comes from Gay Science §276 per the opened sources).
+- "opens Book Four": grounded in the source itself (§276 begins "For the new year." and heads Book Fourth, Sanctus Januarius).
+- Related concepts (Eternal recurrence) and Cited-in lists preserved; no In-the-compendium block (fast-track bar).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; item-20 milestone advisor QC follows in a separate round (see next entry).
