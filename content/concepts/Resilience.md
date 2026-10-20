@@ -7,9 +7,21 @@ file: "Resilience"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Resilience — the capacity to recover and grow through adversity rather than merely survive it. Its contemplative cousins are equanimity and the Stoic art of turning obstacles into material.
+Resilience is positive adaptation in the context of adversity. In Ann Masten's review of the developmental research, the striking finding is how ordinary that capacity is: "The most surprising conclusion emerging from studies of these children is the ordinariness of resilience." She writes:
+
+> Resilience does not come from rare and special qualities, but from the everyday magic of ordinary, normative human resources in the minds, brains, and bodies of children, in their families and relationships, and in their communities.
+>
+> (Masten, "Ordinary Magic: Resilience Processes in Development", American Psychologist 56(3), 2001, [PDF](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf))
+
+The abstract concludes that "resilience is common and that it usually arises from the normative functions of human adaptational systems, with the greatest threats to human development being those that compromise these protective systems." The practical question follows: Masten argues that efforts to promote resilience "should focus on strategies that protect or restore the efficacy of these basic systems." Its contemplative cousins in this library are equanimity and the Stoic art of turning obstacles into material.
+
+## Related concepts
+
+- [[Equanimity]] — the contemplative cousin named in the original page
+- [[Post-traumatic growth]] — the growth-through-adversity outcome
 
 ## Sources
 - Wikipedia Psychological resilience: https://en.wikipedia.org/wiki/Psychological_resilience
+- [Masten, "Ordinary Magic: Resilience Processes in Development", American Psychologist 56(3), 2001 (PDF)](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf) — the ordinariness conclusion, the everyday-magic passage, the abstract's conclusion and the protect-the-systems implication
 
 ## Cited in philosophy parallels

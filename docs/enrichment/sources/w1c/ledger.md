@@ -447,3 +447,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Evidence: Bratman 2015 abstract verified against an unprompted raw fetch of the PNAS page (all quoted spans exact substrings); Gifford-Steg-Reser 2011 definition/scope contiguity verified against the downloaded PDF; Aristotle translator name removed (edition metadata only); Pettigrew-Tropp 2008 "appears" qualification and mediator grouping preserved; Dulwich overview grounding with verbatim practices list.
 - All five pages validated vs their pre-enrichment baselines under the fast-track profile; build 5,720 ok.
 - Still pending, not blocking w1c: p1f closure re-review; MO011 proposal application (supervisor).
+
+### Resilience (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Masten, "Ordinary Magic: Resilience Processes in Development", American Psychologist 56(3), 2001, full-text PDF (ocfcpacourts.us mirror).
+- Ordinariness conclusion, everyday-magic passage, abstract conclusion and protect-the-systems implication all quoted verbatim from the opened PDF. Opening rewritten to Masten's positive-adaptation framing; the original page's contemplative-cousins line kept in the final sentence.
+- Wikipedia source line kept (original). Added Related: [[Equanimity]], [[Post-traumatic growth]] (both resolve). Validation: fast-track PASS; build 5,720 ok.
