@@ -1,0 +1,16 @@
+{
+ "batch": "w1g",
+ "worker": "worker-p1zs-7a4e2c91",
+ "updated": "2026-10-20T11:30:00+00:00",
+ "reciprocal": [
+  {"into": "Functional contextualism", "link": "Workability", "why": "workability is the criterion functional contextualism puts in place of literal truth"},
+  {"into": "Cash value", "link": "Workability", "why": "James's cash-value test of an idea by its practical consequences is the pragmatist ancestor of the workability criterion"},
+  {"into": "Earned security", "link": "Attachment security", "why": "earned security is attachment security reached through later relationships rather than early ones"},
+  {"into": "Perceived partner responsiveness", "link": "Attachment security", "why": "partner responsiveness is the behaviour the attachment-security cycle runs on"},
+  {"into": "Approach versus avoidance motivation", "link": "Achievement motivation theory", "why": "the approach/avoidance split of achievement motivation develops the Atkinson model's two-motive pairing"},
+  {"into": "Abhyasa", "link": "Yoga: union of body, breath, and mind", "why": "abhyasa names the yoga tradition's sustained practice that the union page's practice side involves"}
+ ],
+ "inline": [
+  {"into": "SE029", "concept": "Attachment security", "phrase": "secure attachment is associated with better self-soothing capacity"}
+ ]
+}

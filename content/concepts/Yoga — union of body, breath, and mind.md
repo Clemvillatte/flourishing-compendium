@@ -34,6 +34,7 @@ A framing of yoga centred on bodily poses is recent. The IEP article counts roug
 - [[Yoga physiology theory]] — the compendium's page on postures, breath and meditation acting on stress physiology
 - [[Walking meditation]] — another mindful-movement practice; BI029's evidence compared yoga with metabolically matched plain walking
 - [[The rhythm of breath]] — breath timing shared with the practice's slow-paced breathing
+- [[Abhyasa]] — the tradition's own term for the sustained practice side
 
 ## Sources
 

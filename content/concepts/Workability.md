@@ -33,6 +33,9 @@ The compendium's practice kernel [[K135 — Workability check]] applies the crit
 - [[Values clarification]] — values specify the criteria for applying the workability test
 - [[Cognitive defusion]]
 - [[Experiential avoidance theory]]
+- [[Functional contextualism]] — the philosophical base that puts workability in place of literal truth
+- [[Cash value]] — James's pragmatist test of an idea by what it delivers
+- [[ST137 — Hayes and the Workability Criterion]] — the story entry on the criterion's history
 
 ## Sources
 

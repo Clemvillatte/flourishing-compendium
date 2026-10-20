@@ -44,6 +44,7 @@ Affect · Psychological science
 - [[Self-efficacy]]
 - [[Hope]] — Snyder's pathways-plus-agency construct
 - [[Flow]] — the challenge-skill balance concept
+- [[Approach versus avoidance motivation]] — the Elliot split of achievement motivation into approach of success and avoidance of failure
 
 ## Sources
 

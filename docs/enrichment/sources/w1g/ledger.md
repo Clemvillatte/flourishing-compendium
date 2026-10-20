@@ -1466,3 +1466,21 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   literature; no namespace-audit entry. Saturation: skipped per fast-track §1a
   (degree 8 < 15); no cross-link proposals filed.
 - Advisor QC: not due (item 9; the band's unblocked queue is now exhausted).
+
+## Saturation round for the 9 fast-track items (2026-10-20, worker-p1zs-7a4e2c91)
+
+- The fast-track §1a skips saturation; this round runs it now that the band's
+  unblocked queue is exhausted. Mention hunts run for all 9 items' core terms.
+- Own-page additions (validated ok, 0 lost links): Workability +Functional
+  contextualism, +Cash value, +ST137 story; Attachment security +Earned
+  security, +Perceived partner responsiveness; Achievement motivation theory
+  +Approach versus avoidance motivation; Yoga +Abhyasa.
+- proposals/w1g.json created (6 reciprocals with reader-facing why clauses +
+  1 inline: SE029's "secure attachment is associated with better
+  self-soothing capacity" — exact phrase verified on SE029's page). Jay
+  McClelland (connectionism) mentions excluded — different McClelland.
+  Generic "workable"/"reappraisal" uses excluded per the no-generic-words
+  rule; the reappraisal mentions on AF-band pages already link the parent
+  concept [[Cognitive reappraisal]] where appropriate.
+- Note for the supervisor: the inline target SE029 may sit in a live band;
+  the apply script's ownership guard will defer if so.

@@ -36,6 +36,8 @@ The chapter gives the mechanism in Bowlby's terms: attachment figures provide a 
 - [[Attachment theory]] — the parent theory this page's construct belongs to
 - [[Secure base]] — the exploration-enabling function security rests on
 - [[Attachment research on autonomy-granting]] — the compendium's page on autonomy-supportive care
+- [[Earned security]] — secure attachment reached through later relationships rather than early ones
+- [[Perceived partner responsiveness]] — the partner behaviour the security cycle runs on
 
 ## Sources
 
