@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 82** — Build wisdom as integration
 
-Wisdom, in the contemporary research tradition (Baltes, Grossmann), is the integration of cognitive, affective, and reflective capacities: the ability to navigate complex, uncertain situations with good judgement, compassion, and awareness of context. It is not a single trait. It is a pattern of functioning that can be cultivated through reflection, perspective-taking, and experience.
+Wisdom, in the contemporary research tradition, is an integration rather than a single trait. The review's opening statement of the convergence:
 
-(Baltes and Staudinger, 2000; Grossmann, 2017.)
+> "Philosophers and psychological scientists have converged on the idea that wisdom involves certain aspects of thinking (e.g., intellectual humility, recognition of uncertainty and change), enabling application of knowledge to life challenges." (Grossmann, "Wisdom in Context", Perspectives on Psychological Science, 2017, abstract)
 
-**Plain words** Wisdom, in current research, is integration: judgement, compassion and awareness of context working together in uncertain situations. It isn't a single trait or a store of facts. It can be cultivated, and it tends to grow with age and reflection.
+The paper's framework of wise thinking names the integrated facets:
+
+> "(a) intellectual humility or recognition of limits of own knowledge, (b) appreciation of perspectives broader than the issue at hand, (c) sensitivity to the possibility of change in social relations, and (d) compromise or integration of different opinions" (Grossmann, 2017)
+
+The Baltes tradition, quoted in the same paper, defines wisdom as an "expert knowledge system dealing with the conduct and understanding of life" (Baltes & Smith, 2008, p. 58, as quoted in Grossmann, 2017). The paper's central empirical point is situational: wise thinking varies from one situation to another, with self-focused contexts inhibiting it. This page's application: cultivate the pattern — reflection, perspective-taking, experience — rather than treating wisdom as a store of facts.
+
+**Plain words**
+Wisdom in this research is not one capacity but several running together: knowing the limits of your knowledge, taking the wider view, expecting relationships to change, and being able to compromise. It is a way of thinking that shows up situation by situation, and it can be cultivated. It tends to grow with age and reflection.
 
 *For example:* An older colleague who says "it's more complicated than that" and then shows you exactly how.
+
+## Sources
+
+- Grossmann, I., "Wisdom in Context", Perspectives on Psychological Science 12(2) (2017), pp. 233-257 — [full PDF, University of Waterloo](https://cs.uwaterloo.ca/~jhoey/teaching/cogsci600/papers/Grossmann_PPS_2017.pdf)
 
 ## Psychology parallels
 
