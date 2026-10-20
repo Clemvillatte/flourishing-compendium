@@ -389,3 +389,18 @@
   precedent).
 - The advisor's PASS was withheld pending these repairs; a confirmation
   round is due with the item-20 milestone.
+
+### P110 — Make life artistic: seek "an experience." (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, Art as Experience (1934; Perigee 1980 ed.), full-text PDF on
+  Internet Archive (item deweyjohnartasanexperience; the monoskop guess URL
+  was dead, the IA full-text PDF was found via search and downloaded).
+  Ch. III 'Having an Experience' quotes verified verbatim (OCR line-break
+  hyphenation repaired in quoted text): hands-to-the-plow; 'runs its course
+  to fulfillment'; the meal/chess/conversation/book/campaign sentence
+  ('consummation and not a cessation'); 'It is an experience.'
+- Seed statement + locator removed (precedent); 'That's not luck; that's
+  design' aphorism dropped; Plain words re-derived; For example kept on
+  the seed's dinner-party scenario, now grounded in the quoted
+  consummation sentence. Csikszentmihalyi 1990 and Kahneman 2000 tails
+  reduced to bare wikilinks (unopened). First draft failed validation at
+  307 words; trimmed and re-validated ok BEFORE done. Validator ok.

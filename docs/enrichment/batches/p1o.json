@@ -20,7 +20,8 @@
   "P104",
   "P106",
   "P108",
-  "P109"
+  "P109",
+  "P110"
  ],
  "in_progress": null,
  "flagged": {
@@ -35,6 +36,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:52:31+00:00",
+ "updated": "2026-10-20T03:53:01+00:00",
  "band_done": false
 }
