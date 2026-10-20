@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 10** — Recognise that the body can be used to regulate the mind: bottom-up regulation
 
-Regulation runs in two directions. The opened review behind this page is about the bottom-up one: slow breathing techniques, it reports, promote autonomic changes paralleled by CNS activity modifications. (Zaccaro et al., 2018.)
+Zaccaro and colleagues reviewed the physiological and psychological correlates of slow-breathing techniques in healthy participants. They report autonomic changes alongside changes in central nervous system activity. (Zaccaro et al., 2018.)
 
 > "We found evidence of increased psychophysiological flexibility linking parasympathetic activity, CNS activities related to emotional control and psychological well-being in healthy subjects during slow breathing techniques." (Zaccaro et al., 2018, [Frontiers in Human Neuroscience 12:353](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full))
 
-The evidence concerns slow breathing specifically. The page's list of posture, movement, temperature and touch inherits the broader traditions cited in the philosophy parallels and is not established by the opened review. What the opened source does support is the page's central move: changing the breath is associated with measurable physiological and CNS-linked variables, including activities related to emotional control. (Zaccaro et al., 2018.)
+The compendium uses slow breathing as one example of beginning a regulation exercise with a bodily activity. The reported findings do not guarantee that an individual exercise will stop anxious thoughts.
 
 **Plain words**
-Calming down is usually attempted with words: reassurance, argument, self-talk. The bottom-up route goes through the body instead, and the opened evidence for it is the breath: slowing the breath is associated with nervous-system changes linked to emotional control. The compendium's rule is to try the body route alongside the word route.
+Here the bodily practice is comfortable, deliberately slower breathing. Notice your experience during it without requiring yourself to become calm.
 
-*For example:* An anxious loop that reasoning has not shifted can be tried from the other end: ten slow breaths, then a walk, then reading the thoughts again. The compendium's claim is the attempt, not a promise of dissolution.
+*For example:* Imagine pausing before a meeting to breathe more slowly, then noting what you experienced.
 
 ## Sources
 
@@ -39,4 +39,4 @@ Calming down is usually attempted with words: reassurance, argument, self-talk. 
 
 ## Practice
 
-- Use the body to regulate: when distressed, use bottom-up tools — slow breathing (4-6 breaths per minute), gentle movement, cold water, upright posture, or touch. Do not rely only on thinking.
+- If you try slow breathing, keep it comfortable and observe your experience without setting calm as a required outcome.
