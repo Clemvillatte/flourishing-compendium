@@ -16,7 +16,7 @@ Eun-hwa Jang traces Korean Seon's meditative question "What is this?" to the Pla
 
 > "Zen is keeping this 'don't know' mind always and everywhere" (Seung Sahn, 1976, p. 12, as quoted by [Jang, 2014](https://terebess.hu/zen/mesterek/investigation.pdf))
 
-Rilke's fourth letter offers a different setting for patience with unanswered questions: he asks his correspondent "to try to love the questions themselves" and suggests that an answer might be lived into over time. This is personal advice in a letter, not an explanation of Seon meditation ([Letter Four, 16 July 1903](https://rilkepoetry.com/letters-to-a-young-poet/letter-four/)). The compendium draws a limited practical exercise from this comparison: keep an unresolved question available for further attention without forcing an answer.
+In his fourth letter to a young poet, Rilke asks his correspondent "to try to love the questions themselves" and suggests that an answer might be lived into over time ([Letter Four, 16 July 1903](https://rilkepoetry.com/letters-to-a-young-poet/letter-four/)). This is personal advice in a letter, not an explanation of Seon meditation. The compendium draws a limited practical exercise from this comparison: keep an unresolved question available for further attention without forcing an answer.
 
 ### Plain words
 
