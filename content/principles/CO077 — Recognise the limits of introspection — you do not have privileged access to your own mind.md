@@ -51,3 +51,7 @@ They do not show that introspection is useless; Nisbett and Wilson explicitly al
 ## Practice
 
 - When you are certain you know why you did something, hold it as a hypothesis. Your explanation may be a plausible story, not the actual cause. Seek external feedback.
+
+## Related concepts
+
+- [[SE009]] — listed for comparison

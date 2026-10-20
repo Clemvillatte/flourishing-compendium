@@ -23,6 +23,10 @@ Take a recent reaction and ask what you did, who was affected, and what you woul
 
 *For example:* Imagine waking during the night. You notice frustration and examine whether rehearsing your complaints is a response you want to continue.
 
+## Related concepts
+
+- [[BE039]] — listed for comparison
+
 ## Sources
 
 - [SN 46.51, Ahara Sutta, Thanissaro translation, Access to Insight](https://accesstoinsight.org/tipitaka/sn/sn46/sn46.051.than.html) — the food for analysis of qualities

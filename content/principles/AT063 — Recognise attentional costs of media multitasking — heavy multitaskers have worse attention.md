@@ -25,6 +25,10 @@ In that study, the group reporting more simultaneous media use had more trouble 
 
 *For example:* As a compendium exercise, record which media you use while studying and which interruptions you choose to postpone.
 
+## Related concepts
+
+- [[AT055]] — listed for comparison
+
 ## Sources
 
 - [Ophir, Nass & Wagner (2009), Cognitive control in media multitaskers, PNAS 106(37):15583-15587](https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/)

@@ -23,6 +23,10 @@ The person who annoyed you is still included in "all beings." As a modern exerci
 
 *For example:* Suppose a driver cuts you off in traffic. As a modern application, the practice is silently wishing them safety and ease.
 
+## Related concepts
+
+- [[S085]] — listed for comparison
+
 ## Sources
 
 - [Karaniya Metta Sutta (Sn 1.8), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)

@@ -31,6 +31,10 @@ Courage here is not the absence of fear; it is fear doing its job without runnin
 
 *For example:* Aristotle's strict case is the soldier facing a noble death. A modern application: saying "that number is wrong" in the meeting, with the fear present and the voice steady.
 
+## Related concepts
+
+- [[BE025]] — listed for comparison
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics III.6-9 (H. Rackham trans., Perseus Digital Library)](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a) — courage as the mean in fear and confidence (1115a); the brave man and noble death (1115a)

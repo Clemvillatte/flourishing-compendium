@@ -31,3 +31,7 @@ Self-compassion is not self-pity or self-indulgence; it is treating your own suf
 ## Practice
 
 - When you are suffering, ask: "how would I respond to a friend in this situation?" Then respond to yourself that way. Speak to yourself as you would to someone you love.
+
+## Related concepts
+
+- [[SE012]] — listed for comparison

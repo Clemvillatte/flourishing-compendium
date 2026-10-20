@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Self-discrepancy” — Higgins, 1987.
 
+## Related concepts
+
+- [[SE003]] — listed for comparison
+
 ## Sources
 
 - Higgins, 1987

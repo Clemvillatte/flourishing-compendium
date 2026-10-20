@@ -31,3 +31,7 @@ Authenticity is not doing whatever you feel like. It is living in accord with yo
 ## Practice
 
 - When justifying a choice as "being authentic," check: "is this my value, or my impulse?" Authenticity is alignment with considered values, not licence for impulsivity.
+
+## Related concepts
+
+- [[SE043]] — listed for comparison

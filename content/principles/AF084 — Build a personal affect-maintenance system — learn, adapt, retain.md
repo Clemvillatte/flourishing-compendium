@@ -24,6 +24,10 @@ Your ways of managing mood are not installed once. The habit that carried you th
 **For example**
 A toolkit built in one's twenties: the Tuesday run, the friend called after bad news, the early night. An annual audit asks which still changes how the day feels. The run still works, the friend has moved, the early night has become a phone-scroll. Keep the run, replace the night.
 
+## Related concepts
+
+- [[BE078]] — listed for comparison
+
 ## Sources
 
 - [Gross, "Emotion Regulation: Current Status and Future Prospects" (2015), opened full-text PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — p. 15 (maintenance as an emergent property of repeated cycles), p. 18 (adult skill development and later-life functioning); article DOI [10.1080/1047840X.2014.940781](https://doi.org/10.1080/1047840X.2014.940781)

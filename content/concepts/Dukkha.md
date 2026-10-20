@@ -11,7 +11,7 @@ Dukkha (Pali) is the first Noble Truth: the fact that experience, when grasped, 
 
 The compendium's reading (principles B001, B069, B182) separates pain from suffering: the first arrow (pain) is unavoidable; the second arrow (the suffering we add by resisting, proliferating, or clinging) is optional. The second arrow — the suffering we add — is one form dukkha takes; the term itself names the whole background of unsatisfactoriness. This is what makes the first truth a task rather than a verdict: study the friction, find what feeds it.
 
-Dukkha's cross-tradition family is the problem-statements of the wisdom traditions: the Stoic passio (suffering from judgments), the existential angst, and the hedonic treadmill of psychology. What distinguishes dukkha is its precision — it is not life itself but grasped experience, and its cure is named in the same breath: the cessation of craving.
+Dukkha's cross-tradition family is the problem-statements of the wisdom traditions: the Stoic passio (suffering from judgments), the existential angst, and [[Hedonic adaptation|the hedonic treadmill of psychology]]. What distinguishes dukkha is its precision — it is not life itself but grasped experience, and its cure is named in the same breath: the cessation of craving.
 
 ## Related concepts
 

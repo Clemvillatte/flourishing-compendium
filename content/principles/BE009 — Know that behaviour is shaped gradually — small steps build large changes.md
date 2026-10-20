@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 9** — Know that behaviour is shaped gradually: small steps build large changes
 
-The tradition's method for building a complex behaviour is shaping. Skinner opens the chapter on it with an analogy, verbatim: "Operant conditioning shapes behavior as a sculptor shapes a lump of clay." The mechanism, also verbatim: "By reinforcing a series of successive approximations, we bring a rare response to a very high probability in a short time." (Skinner, 1953, Science and Human Behavior, Chapter VI, [B. F. Skinner Foundation edition](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf))
+[[Shaping (Skinner)|The tradition's method for building a complex behaviour is shaping]]. Skinner opens the chapter on it with an analogy, verbatim: "Operant conditioning shapes behavior as a sculptor shapes a lump of clay." The mechanism, also verbatim: "By reinforcing a series of successive approximations, we bring a rare response to a very high probability in a short time." (Skinner, 1953, Science and Human Behavior, Chapter VI, [B. F. Skinner Foundation edition](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf))
 
 A different question is whether near goals help performance, and that is what Bandura and Schunk's experiment tested. Children with serious deficits and disinterest in mathematics pursued a self-directed learning program under either proximal subgoals, distal goals, or no goals. The abstract reports, verbatim:
 

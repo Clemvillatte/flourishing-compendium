@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K284** — The "what does this role require?" practice
 
-Before entering a role-specific situation (a meeting, a conversation with your child, a community event), pause and ask: what does this role require of me right now? The question shifts attention from your preferences to your obligations. It is the Stoic practice of role ethics, which holds that flourishing comes from performing one's roles well, not from escaping them.
+Before entering a role-specific situation (a meeting, a conversation with your child, a community event), pause and ask: what does this role require of me right now? The question shifts attention from your preferences to your obligations. It is the Stoic practice of role ethics, which holds that flourishing comes from [[Fulfil your roles well|performing one's roles well]], not from escaping them.
 
 ## Operationalises
 

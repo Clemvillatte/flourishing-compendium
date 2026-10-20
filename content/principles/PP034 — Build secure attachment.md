@@ -26,6 +26,10 @@ In adulthood the system works mentally as much as physically: felt security can 
 
 *For example:* Imagine one partner expects to be offline during a work trip. Before leaving, they discuss when messages can be answered and what each person expects.
 
+## Related concepts
+
+- [[SE047]] — listed for comparison
+
 ## Sources
 
 - [Bowlby, A Secure Base: Clinical Applications of Attachment Theory (1988), p. 62, as quoted in Pioneers of Human Behaviour's sourced profile of Bowlby](https://pioneersofhumanbehaviour.com/john-bowlby/)

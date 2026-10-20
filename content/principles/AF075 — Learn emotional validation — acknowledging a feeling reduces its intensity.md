@@ -36,3 +36,8 @@ For example (imagined): a child is melting down over the wrong colour cup. One p
 ## Practice
 
 - When someone is emotionally activated, one option is to acknowledge that their feeling makes sense in their situation, alongside whatever else you do.
+
+
+## Related concepts
+
+- [[BE050]] — listed for comparison

@@ -15,3 +15,8 @@ When you are struggling, place a hand on your chest and say: "This is a moment o
 ## Operationalises
 
 [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]], [[D092 — Don't chase happiness directly|D092 Don't chase happiness directly]], [[B051 — Practice loving-kindness (metta)|B051 Practice loving-kindness (metta)]], [[P165 — Become fully functioning — open to experience|P165 Become fully functioning: open to experience]], [[P178 — Treat yourself as a process — self-compassion as process acceptance|P178 Treat yourself as a process: self-compassion as process acceptance]]
+
+
+## Related concepts
+
+- [[SE012]] — listed for comparison

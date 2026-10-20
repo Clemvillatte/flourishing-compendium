@@ -38,3 +38,7 @@ Where attention goes, memory follows, and where memory goes, attention is sent b
 ## Practice
 
 - Notice what your attention habitually selects. If it habitually selects threats, problems, and deficiencies, this is a trainable bias, not a truth about the world. Deliberately redirect attention toward what matters and what is working.
+
+## Related concepts
+
+- [[AT012]] — listed for comparison

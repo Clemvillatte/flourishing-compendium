@@ -45,6 +45,9 @@ Aristotle defines moral virtue in one sentence: "Virtue, then, is a state of cha
 - **[[The middle path|The middle way]]** (Buddha, Dhammacakkappavattana Sutta)
 - **[[Nothing in excess|Nothing in excess]]** (Delphic maxim)- **[[The doctrine of the mean|The mean]]** (Aristotelianism)
 
+## Related concepts
+
+- [[S031]] — listed for comparison
 
 <!-- fc: reflections
 Take one virtue you value. Name the vice on each side of it, and describe a recent moment where you slid toward one. What pulled you?

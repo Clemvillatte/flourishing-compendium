@@ -25,10 +25,11 @@ S015 (Distinguish preferred from dispreferred indifferents) and S017 (Refuse to 
 
 ## Related concepts
 
+
 - [[Adiaphora, the indifferents]] — the wider category, listed for comparison
 - [[Externals as indifferents]] — listed for comparison
 - [[The dichotomy of control]] — listed for comparison
-
+- [[S023]] — listed for comparison
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Stoicism"](https://plato.stanford.edu/entries/stoicism/) — definition of preferred indifferents, the pursuit rule, and the ancient objection

@@ -30,3 +30,7 @@ Autistic, ADHD, and other neurodivergent affective patterns differ from neurotyp
 ## Practice
 
 - If you are neurodivergent, do not judge your affective patterns by neurotypical standards. Learn your own pattern and design regulation that works for you.
+
+## Related concepts
+
+- [[AT069]] — listed for comparison

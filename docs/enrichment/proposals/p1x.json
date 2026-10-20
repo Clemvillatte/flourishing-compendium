@@ -1,102 +1,21 @@
 {
-  "reciprocal": [
-    {
-      "into": "The more-than-human",
-      "link": "R129 — Practise ecological relationality as spiritual practice",
-      "why": "R129 proposes contemplative attention to the more-than-human world as a spiritual exercise"
-    },
-    {
-      "into": "Preferred indifferents",
-      "link": "S023 — Do not fear pain",
-      "why": "S023 classifies pain as a dispreferred indifferent and argues that opinion, not sensation, is what makes pain unbearable"
-    },
-    {
-      "into": "A005 — Choose the mean, not the extreme",
-      "link": "S031 — Do what is fitting, not what is easy",
-      "why": "Both pages treat the situation-appropriate act: Aristotle's mean shifts with the person and the point, Marcus asks what the nature of man now requires — the cross-reference shows the shared idea across schools."
-    },
-    {
-      "into": "B074 — Thoughts are not facts",
-      "link": "S057 — Recognise that your thoughts are not you",
-      "why": "Both pages separate the thinker from the thought: S057 grounds the observer in the faculty that judges appearances, B074 treats thoughts as events to be seen through rather than believed — the cross-reference carries the insight across the Stoic and Buddhist traditions."
-    },
-    {
-      "into": "Daily self-examination",
-      "link": "S065 — Practise self-examination daily",
-      "why": "The same daily habit grounded in two traditions: S065 gives Seneca's evening review from Moral Letters 83, while this page holds the Confucian version from Zengzi, Analects 1.4 — the cross-reference lets a reader see the practice arise independently in both."
-    },
-    {
-      "into": "B051 — Practice loving-kindness (metta)",
-      "link": "S085 — Practise kindness",
-      "why": "The same practice held in two traditions: S085 gives the Stoic stance — unconquerable meekness and Marcus' script for correcting a wrongdoer — while this page gives the Buddhist loving-kindness practice; the cross-reference lets a reader carry either into the other."
-    },
-    {
-      "into": "Epicurean argument against the fear of death",
-      "link": "S103 — Recognise that the dead feel nothing",
-      "why": "S103 states the argument in Marcus' terms — cessation of the senses or translation — while this page holds Epicurus' original formulation from the Letter to Menoeceus; the cross-reference shows the Stoics carrying an Epicurean argument forward."
-    },
-    {
-      "into": "Self-discrepancy",
-      "link": "SE003 — Know that the self is multilayered — actual, ideal, and ought selves",
-      "why": "This concept page is the wiki home of Higgins' self-discrepancy theory; SE003 states the theory as a principle with the three-selves mapping practice — the cross-reference connects the theory entry to its principle."
-    },
-    {
-      "into": "SE021 — Recognise contingent self-worth — what your self-esteem depends on",
-      "link": "SE004 — Understand that self-esteem is not the same as self-worth",
-      "why": "SE004 draws the distinction between the evaluative part and the underlying sense of value; SE021 turns the same Crocker framework into an audit of what your worth is staked on — the cross-reference pairs the concept with its practice."
-    },
-    {
-      "into": "CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind",
-      "link": "SE009 — Know that self-knowledge is limited — introspection is fallible",
-      "why": "Both pages ground themselves in Nisbett and Wilson's 1977 review: CO077 gives the cognitive mechanics (confabulated reports, choice blindness), while SE009 draws the self-knowledge consequences (treat your reasons as hypotheses; ask people who watched you) — the cross-reference connects the mechanism to its practice."
-    },
-    {
-      "into": "AF066 — Cultivate self-compassion — treat yourself as you would a good friend",
-      "link": "SE012 — Understand that the self is not the enemy — self-relation is a skill",
-      "why": "SE012's grounded definition (Neff 2003) gives readers the construct behind AF066's practice."
-    },
-    {
-      "into": "K162 — Self-compassion practice",
-      "link": "SE012 — Understand that the self is not the enemy — self-relation is a skill",
-      "why": "K162's exercise rehearses the component swaps SE012 defines; a link connects the definition to the drill."
-    },
-    {
-      "into": "SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation",
-      "link": "SE027 — Practise self-kindness over self-judgment — kindness is more motivating than cruelty",
-      "why": "SE017 presents the evidence against the whip; SE027 states the corresponding practice principle for the same Breines & Chen finding."
-    },
-    {
-      "into": "SE025 — Cultivate self-compassion — treat yourself as you would a good friend",
-      "link": "SE028 — Learn mindful self-awareness — hold your experience without over-identifying",
-      "why": "SE025 lists all three Neff components in its body; SE028 is the dedicated principle for the mindfulness component."
-    },
-    {
-      "into": "CO010 — Understand that thinking is narrative — you story your experience",
-      "link": "SE035 — Understand identity as a project — you author yourself",
-      "why": "CO010 presents the narrative form of thinking; SE035 is the identity-side principle of the same McAdams & McLean construct, with the grounded definition."
-    },
-    {
-      "into": "SE044 — Recognise the difference between authenticity and self-indulgence",
-      "link": "SE043 — Cultivate authentic identity — be who you are, not who others want",
-      "why": "SE043 now carries the grounded Wood et al. 2008 construct behind SE044's authenticity/self-indulgence distinction."
-    },
-    {
-      "into": "PP034 — Build secure attachment",
-      "link": "SE047 — Recognise attachment patterns — early relationships shape self-relation",
-      "why": "PP034 covers building security; SE047 now carries the pattern-recognition side with the Roisman 2002 earned-security nuance, including the retrospective caution PP034 does not carry."
-    },
-    {
-      "into": "M025 — Let rootedness and openness correct each other",
-      "link": "SE048 — Learn secure-base behaviour — be a safe place for yourself and others",
-      "why": "M025's rootedness-and-crossing synthesis has its research parallel in the secure base: the haven you return to that makes exploration possible; SE048 carries the grounded script."
-    }
-  ],
-  "inline": [
-    {
-      "into": "K284",
-      "concept": "Fulfil your roles well",
-      "phrase": "performing one's roles well"
-    }
-  ],
-  "notes": "SE055: Cooley 1902 full passage opened via mediastudies.press reproduction (three elements + imputed-sentiment passage, string-verified in fetched page); the 'imagined judgment' gap made the page's navigation claim workable as application; plain words re-derived; For example relabelled Imagine; social identity theory bullet reduced to bare attribution link (Tajfel & Turner not opened); philosophy parallels framed as suggested connections; Sources section added. No new reciprocals: The looking-glass self concept and E068 already link SE055."
+ "reciprocal": [
+  {
+   "into": "Epicurean argument against the fear of death",
+   "link": "S103 — Recognise that the dead feel nothing",
+   "why": "listed for comparison"
+  },
+  {
+   "into": "SE021 — Recognise contingent self-worth — what your self-esteem depends on",
+   "link": "SE004 — Understand that self-esteem is not the same as self-worth",
+   "why": "listed for comparison"
+  },
+  {
+   "into": "SE025 — Cultivate self-compassion — treat yourself as you would a good friend",
+   "link": "SE028 — Learn mindful self-awareness — hold your experience without over-identifying",
+   "why": "listed for comparison"
+  }
+ ],
+ "inline": [],
+ "notes": "SE055: Cooley 1902 full passage opened via mediastudies.press reproduction (three elements + imputed-sentiment passage, string-verified in fetched page); the 'imagined judgment' gap made the page's navigation claim workable as application; plain words re-derived; For example relabelled Imagine; social identity theory bullet reduced to bare attribution link (Tajfel & Turner not opened); philosophy parallels framed as suggested connections; Sources section added. No new reciprocals: The looking-glass self concept and E068 already link SE055. | deferred at this run (target band busy): 3 recip, 0 inline"
 }

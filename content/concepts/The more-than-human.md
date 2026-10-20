@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The more-than-human” — Abram, The Spell of the Sensuous.
 
+## Related concepts
+
+- [[R129]] — listed for comparison
+
 ## Sources
 
 - Abram, The Spell of the Sensuous

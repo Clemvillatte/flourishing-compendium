@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Daily self-examination” — Zengzi, Analects 1.4; Zengzi, in the Analects 1.4.
 
+## Related concepts
+
+- [[S065]] — listed for comparison
+
 ## Sources
 
 - Zengzi, Analects 1.4

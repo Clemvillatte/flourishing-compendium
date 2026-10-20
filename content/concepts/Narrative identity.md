@@ -29,6 +29,7 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 
 
 
+
 - [[Life story model]] — the psychological research tradition on life stories
 - [[Fixed views of self]] — the frozen story, an in-compendium contrast
 - [[Narrative therapy]] — the therapeutic rewriting of the story
@@ -37,6 +38,7 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 - [[The relational self]] — identity co-authored with its witnesses
 - [[Moral identity]] — the story form moral identity often takes
 - [[Narrative redemption sequences]] — the construct the sequences are coded within
+- [[CO010]] — listed for comparison
 ## Sources
 
 - [SEP, "Paul Ricoeur" (Pellauer, Dauenhauer & Davidson)](https://plato.stanford.edu/entries/ricoeur/)

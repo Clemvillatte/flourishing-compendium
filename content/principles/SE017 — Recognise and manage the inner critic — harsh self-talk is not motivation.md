@@ -49,6 +49,10 @@ The study on point for the studying case is Experiment 3: participants who first
 
 - [[K380 — The Two Teachers: change the tone, keep the lesson]]
 
+## Related concepts
+
+- [[SE027]] — listed for comparison
+
 ## Sources
 
 - [Breines & Chen (2012), Self-Compassion Increases Self-Improvement Motivation, Sage Journals](https://journals.sagepub.com/doi/abs/10.1177/0146167212445599): four experiments, abstract quoted verbatim

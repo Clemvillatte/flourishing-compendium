@@ -24,6 +24,10 @@ Everybody explains their life to themselves as a running story: what happened, w
 **For example**
 A failed course told as "my plans always collapse" leads to not signing up again. The same failure told as "I attempted something hard and learned what broke" leads to a second attempt with the fix. The facts did not change; the story picked the next move.
 
+## Related concepts
+
+- [[SE035]] — listed for comparison
+
 ## Sources
 
 - [McAdams, "The Psychology of Life Stories" (Review of General Psychology 5(2):100-122, 2001, abstract)](https://journals.sagepub.com/doi/10.1037/1089-2680.5.2.100) — the life-story model sentence quoted above

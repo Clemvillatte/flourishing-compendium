@@ -22,6 +22,10 @@ The physical-effort analogy is an analogy, but it is exact enough to plan by: pr
 
 *For example:* The office that brags about back-to-back meetings 9-to-5 has simply decided, without noticing, to run its people's attention into the ground and call it culture.
 
+## Related concepts
+
+- [[AT038]] — listed for comparison
+
 ## Sources
 
 - [Kaplan, "The restorative benefits of nature" (1995), ScienceDirect record](https://www.sciencedirect.com/science/article/abs/pii/0272494495900012) — abstract quoted verbatim; directed attention fatigue and restorative experiences

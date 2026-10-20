@@ -28,6 +28,10 @@ The virtue is spending big on the right thing. The test has two sides: the resul
 *For example:*
 A successful baker who pays for a community oven in the local park is doing it. A name on a stadium for ego's sake isn't.
 
+## Related concepts
+
+- [[BE068]] — listed for comparison
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics IV.2, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — magnificence chapter; the artist sentence quoted verbatim, the rest paraphrased with citations

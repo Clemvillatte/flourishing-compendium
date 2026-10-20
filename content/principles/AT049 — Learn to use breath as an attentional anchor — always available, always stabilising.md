@@ -23,6 +23,10 @@ Choose a sensation of ordinary breathing, such as air moving at the nostrils. If
 
 *For example:* Imagine pausing before a call to notice one comfortable breath, then making the call without expecting the exercise to change how it goes.
 
+## Related concepts
+
+- [[BI029]] — listed for comparison
+
 ## Sources
 
 - [Zaccaro et al. (2018), How Breath-Control Can Change Your Life: A Systematic Review on Psycho-Physiological Correlates of Slow Breathing, Frontiers in Human Neuroscience 12:353](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00353/full)

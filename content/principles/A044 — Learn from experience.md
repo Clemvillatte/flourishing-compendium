@@ -39,6 +39,10 @@ For example (imagined): a manager who has watched three projects fail at the pla
 - **[[Experience plus reflection|Experience plus reflection]]** (Dewey, Democracy and Education)
 - **[[To the things themselves|Phenomenological return to the things themselves]]** (Husserl, Ideas I)
 
+## Related concepts
+
+- [[BE060]] — listed for comparison
+
 <!-- fc: reflections
 What did a failure teach you that no book could? Describe how long it took for the lesson to arrive.
 %%

@@ -25,6 +25,10 @@ The shift has a feel: you were the thought, and then you are the one watching it
 
 *For example:* Suppose the thought "I always mess this up" arrives after a mistake. As a modern application, the practice is naming it as an event and watching whether it passes, before treating it as a verdict on the week.
 
+## Related concepts
+
+- [[S057]] — listed for comparison
+
 ## Sources
 
 - [MN 20 (Vitakkasanthana Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)

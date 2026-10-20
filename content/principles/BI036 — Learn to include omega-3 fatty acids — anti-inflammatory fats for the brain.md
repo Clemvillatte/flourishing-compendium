@@ -31,3 +31,7 @@ Omega-3 fatty acids (found in fish, fish oil, flax, walnuts) are anti-inflammato
 ## Practice
 
 - Include omega-3: eat fatty fish (salmon, sardines, mackerel) 2-3 times per week, or consider fish oil (EPA-dominant). This is anti-inflammatory and supports brain health. Do not expect dramatic effects.
+
+## Related concepts
+
+- [[BI041]] — listed for comparison

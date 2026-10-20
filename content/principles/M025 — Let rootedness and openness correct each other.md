@@ -27,3 +27,7 @@ The rooted life has a failure mode the tradition also names: parochialism, the c
 
 - **Roots and wings** (the proverb tradition, cited as proverb)
 - **The tree and the wind** (Laozi, Daodejing 26, as cross-tradition echo)
+
+## Related concepts
+
+- [[SE048]] — listed for comparison
