@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 138** — Do not desire what belongs to others
 
-Envy is the desire for what you do not have, directed at someone who has it. It poisons relationships and distorts judgment. The Stoic trains to be content with what they have and to rejoice in others' good fortune. Practise sympathetic joy: when others succeed, feel glad, not diminished.
+Marcus Aurelius traces envy upstream to what you value. If you count applause and possessions as goods, envy follows of necessity ([Meditations VI.16, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
-(Med. VI.13, VI.16, IX.34; Seneca, Letters 109.)
+> For of necessity thou must be envious, jealous, and suspicious of those who can take away those things, and plot against those who have that which is valued by thee. Of necessity a man must be altogether in a state of perturbation who wants any of these things; and besides, he must often find fault with the gods. But to reverence and honor thy own mind will make thee content with thyself, and in harmony with society, and in agreement with the gods.
 
-**Plain words** Envy is wanting what someone else has. It poisons relationships and warps judgement. The Stoic trains to be content with their own and glad of others' good luck. When someone succeeds, practise being glad instead of smaller.
+(Marcus Aurelius, Meditations VI.16, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-*For example:* A friend gets the job you wanted. You send a real congratulation, and then find your own work a little lighter.
+The remedy is a change of valuation rather than a suppression of feeling. What you reverence in your own mind and conduct cannot be outdone by a neighbour, so gladness at another's good fortune stops competing with your own count.
+
+### Plain words
+
+Envy comes from wanting what someone else has. The Stoic move is upstream of the feeling: check what you are counting. If you count applause and possessions, envy is guaranteed, because those can be taken or outdone. If you count your own conduct, envy has nothing to feed on. Then another person's success can be just good news.
+
+### For example
+
+A friend gets the job you wanted. You send the congratulation you mean, and then notice whether your own work got lighter or heavier to look at. The notice is diagnostic: envy points at what you are counting.
 
 ## Psychology parallels
 
