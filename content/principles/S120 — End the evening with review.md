@@ -18,18 +18,19 @@ Seneca tells Lucilius that he keeps a daily habit:
 >
 > (Seneca, Moral Letters 83, Gummere translation)
 
-In the letter the review takes the form of an account: he reports the day to his correspondent, and the letter opens by inviting the test, "you must have a good opinion of me if you think that in these days of mine there is nothing to hide". The questions the compendium attaches to the exercise are in that spirit: What did I do today? What did I think? Where did I drift? What will I do tomorrow?
+Letter 83 opens with Lucilius's request for an account of Seneca's day. Seneca connects looking back with planning ahead. The compendium's evening exercise adapts this daily-review habit: consider what happened and what you would do differently tomorrow.
 
 (Seneca, Letters 83.)
 
 **Plain words**
-Pick a moment before bed and run the day back. The point is not to grade yourself; it is to see one thing you did well and one drift while the day is still close enough for the pattern to show. Seneca calls looking back over the day "a most useful habit" and gives the reason himself: our plans for the future always depend on the past. Tomorrow's plan comes out of what tonight's review finds.
+Before bed, recall one action you would repeat and one you would handle differently. Describe what happened in each case. What will you try tomorrow?
 
-*For example:* The manager who writes four lines before bed — "lost my temper in the 2pm meeting, listened poorly to Sam, kept my promise on the walk" — and starts noticing the same drift before it becomes a habit.
+*For example:*
+Imagined: after interrupting a colleague, a manager notes what happened and decides to let the colleague finish before replying at the next meeting.
 
 ## Sources
 
-- [Seneca, Moral Letters 83 (Wikisource, Gummere translation)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_83) — the review-each-day passage and the opening account, verified against the page text
+- [Seneca, Moral Letters 83 (Wikisource, Gummere translation)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_83) — the review-each-day passage and the opening account
 
 ## Stories
 

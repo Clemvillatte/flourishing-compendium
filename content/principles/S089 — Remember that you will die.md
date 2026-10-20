@@ -24,18 +24,19 @@ The same book carries the equalising thought behind it:
 >
 > (Meditations II.14)
 
-The reminder is not morbidity. It converts an unknown deadline into a reason to order the present: if the present is all you ever have, the question "what would I do if I died tomorrow" is a device for checking whether today holds what you would actually choose. That is the compendium's use of the Stoic exercise.
+The compendium uses Marcus's reminders to examine priorities: what deserves attention today if tomorrow is uncertain?
 
 (Marcus Aurelius, Meditations II.11, II.14, George Long translation.)
 
 **Plain words**
-You will die, and you do not know when. Most of the time you act as if that were not true, and the postponements pile up: the call to your mother, the book, the honest conversation. The reminder is not there to scare you into urgency. It is there to make you check whether today actually holds what you would choose if the days really were numbered, because they are.
+Choose something you have been postponing. Does it matter enough to begin today? Decide what to do while remembering that you cannot count on another day being available.
 
-*For example:* Before agreeing to a meeting that bores you, you ask whether this is how you'd spend a day you'd never get back.
+*For example:*
+Imagined: before agreeing to a meeting that bores you, you ask whether this is how you'd spend a day you'd never get back.
 
 ## Sources
 
-- [Marcus Aurelius, Meditations, George Long translation (Wikisource, Book II)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II) — II.11 and II.14, verified against the page text
+- [Marcus Aurelius, Meditations, George Long translation (Wikisource, Book II)](https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II) — II.11 and II.14
 
 ## Stories
 
