@@ -23,14 +23,14 @@
   "B181",
   "B190",
   "P175",
-  "P176",
   "P177",
   "B017",
   "B030",
   "B154",
   "B165",
   "B169",
-  "P168"
+  "P168",
+  "P176"
  ],
  "in_progress": null,
  "flagged": {
@@ -60,10 +60,11 @@
   "B030": "Reopened for QC: QC correction: remove commandment-contrast overreach and chess analogy",
   "B154": "Reopened for QC: QC correction: remove world's-edge overreach and example causal lesson",
   "B165": "Reopened for QC: QC correction: separate Dhp 96 and TNH claims; remove invented exercise triad",
-  "B169": "Reopened for QC: QC correction: remove three-times-a-day universal; separate Plain words from source instruction"
+  "B169": "Reopened for QC: QC correction: remove three-times-a-day universal; separate Plain words from source instruction",
+  "P176": "Reopened for QC: QC correction: fix quote boundary; replace diagnostic application per advisor"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:43:41+00:00",
+ "updated": "2026-10-20T03:43:51+00:00",
  "band_done": false
 }

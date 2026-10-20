@@ -12,17 +12,17 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 176** — Prefer growth goals to validation goals
 
-In Toward a Psychology of Being, Abraham Maslow draws a line between deficiency motivation and growth motivation. Of healthy people he writes ([text of the chapter at Panarchy](https://www.panarchy.org/maslow/being.1955.html)):
+In extracts from Toward a Psychology of Being, Abraham Maslow draws a line between deficiency motivation and growth motivation. Of healthy people he writes ([Maslow, Toward a Psychology of Being, "Deficiency motivation and growth motivation (1955)"](https://www.panarchy.org/maslow/being.1955.html)):
 
 > So far as motivational status is concerned, healthy people have sufficiently gratified their basic needs for safety, belongingness, love, respect and self-esteem so that they are motivated primarily by trends to self-actualization ...
 
-(Abridged; the sentence continues with Maslow's definitions of self-actualization, including "ongoing actualization of potentials, capacities and talents.")
+(Abridged; the sentence continues with Maslow's definitions of self-actualization.)
 
-He adds that growth is "not only as progressive gratification of basic needs to the point where they 'disappear,' but also in the form of specific growth motivations over and above these basic needs, e.g., talents, capacities, creative tendencies, constitutional potentialities." Growth motivations run through what a person can do; deficiency motivations run through what a person lacks. The compendium applies the distinction by asking of any goal whether it builds a capacity or fills a lack.
+Maslow gives the satisfaction of basic needs a place in this account. The compendium uses his distinction as a prompt to examine the wish to learn and the wish for approval in a goal.
 
-**Plain words** Look at a goal you are chasing. What will you be able to do afterward that you cannot do now? The compendium suggests using that question to test whether a goal is growth or validation.
+**Plain words** Choose a goal. What do you want to learn, and whose approval do you hope to gain? Consider what you would still want from it if nobody else knew.
 
-*For example (imagined):* A student chooses one course to keep her transcript perfect and another on a subject she knows nothing about. The second goal builds a capacity whatever the grade turns out to be.
+*For example (imagined):* A student considering a course wants to learn statistical methods and wants her tutor to admire her work. She considers how each wish is affecting her choice.
 
 ## Psychology parallels
 
