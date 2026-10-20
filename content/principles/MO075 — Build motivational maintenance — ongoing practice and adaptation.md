@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 75** — Build motivational maintenance: ongoing practice and adaptation
 
-Two halves make this principle: keep practising, and keep adapting. The Dhammapada's line for the first half is blunt; the teachers point the way, and walking it is yours. Nothing in the pointing stays done. For the second half, the goal-adjustment research: Wrosch and colleagues' three studies associated the ability to disengage from unattainable goals with better self-reported health and more normative patterns of diurnal cortisol secretion, while reengagement with alternative goals buffered some of the adverse effects of difficulty with disengagement.
+Two halves make this principle: keep practising, and keep adapting. Dhammapada 276 places the effort of following the path with the practitioner. The compendium uses the Buddhist instruction as a comparison for attending to one's own practice.
 
 > You yourselves must strive; the Buddhas only point the way. Those meditative ones who tread the path are released from the bonds of Mara.
 > (Dhammapada 276, trans. Buddharakkhita)
 
-The compendium's maintenance routine is a loop: review goals on a schedule, check which structures are still earning their place, keep what works, replace what does not. Life changes the conditions, a new job, a new baby, a new season, and a system tuned for one life goes out of tune with the next. The skill the principle names is not designing one good system. It is re-tuning as a recurring practice.
+Wrosch and colleagues examined goal adjustment and physical health across three studies. Disengagement from unattainable goals was associated with better self-reported health and more normative patterns of diurnal cortisol secretion; reengagement with alternative goals was unrelated to the physical-health indicators, although it buffered some of the adverse effects of difficulty with disengagement ([PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/17259585/)). The compendium's application is to reconsider a plan when circumstances change, including whether its goal remains feasible.
 
-**Plain words** A motivation system is more like a garden than a machine you install once; it needs seasonal work, and the work is the point, not a sign the garden failed. Set a small recurring check, monthly or quarterly: which routines still serve, which goal is no longer reachable, what could replace it. The review is the maintenance. Skipping it does not freeze the system; it lets it rot quietly.
+**Plain words** Choose a routine you still intend to follow but have stopped doing. Check whether its time and place still fit your day, and write down one adjustment to try. If the goal has become unattainable, consider an alternative.
 
-*For example:* A productivity setup survives two job changes, but not by lasting; the person rebuilds it each time. The same gardener tends different beds, and the re-tuning, not the setup, is what carried over.
+*For example:* Imagine an evening course now overlaps with a new work shift. The student checks the weekend timetable before deciding whether to change classes or postpone enrolment.
 
 ## Sources
 
@@ -30,8 +30,7 @@ The compendium's maintenance routine is a loop: review goals on a schedule, chec
 
 ## Psychology parallels
 
-- **Motivation requires ongoing maintenance**, like fitness, motivation requires practice (Ericsson et al., 1993; Ryan & Deci, 2017)
-- **Goal review and adjustment**, regular review improves goal attainment (Wrosch et al., 2007)
+- **Goal adjustment capacities**, disengagement from unattainable goals and reengagement with alternatives, studied against physical-health and well-being indicators (Wrosch et al., 2007)
 
 ## Philosophy parallels
 

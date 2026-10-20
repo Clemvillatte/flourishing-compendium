@@ -17,11 +17,11 @@ Two claims meet in this principle. The first is Laozi's arithmetic: whatever is 
 > The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step.
 > (Daodejing 64, trans. Legge)
 
-Masicampo and Baumeister's studies put the intrusions on record: "Unfulfilled goals persist in the mind", and "allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects". The reading the principle takes from this: the dread before a task is the open loop's noise, and a start or a plan is what quiets it. Beginnings are allowed to be bad ones; the loop needs a first step, not a good one. The compendium's five-minute rule is a threshold device in that spirit.
+Masicampo and Baumeister's abstract records that "Unfulfilled goals persist in the mind", and that "Allowing participants to formulate specific plans for their unfulfilled goals eliminated the various activation and interference effects". What the studies establish is specific: a written plan is enough to stop the intrusions an unfinished goal produces. Beginnings can be bad ones. The compendium's five-minute rule, commit to five minutes and see, is an exercise in that spirit, and is the compendium's own.
 
-**Plain words** The hardest part of most tasks is the ten minutes before them, not the hours inside. Your mind keeps presenting the whole job at once and flinching; the flinch is what not feeling motivated feels like. Pick the smallest real piece, name when and where you will do it, and begin badly if needed. Once the task is moving, the flinch has nothing left to present.
+**Plain words** Pick the smallest real piece of the thing you are avoiding, and write down when and where you will do it. The research finding is narrow: unfinished goals keep intruding on thought, and a specific written plan is enough to stop the intrusions. Beginning badly is still beginning, and a first bad attempt gives the plan something to work on.
 
-*For example:* An essay avoided for a week takes forty minutes once started. The rule is not "write the essay" but "open the document after dinner and write one bad sentence"; the remaining thirty-nine minutes then have something to attach to.
+*For example:* Imagine an essay that has been avoided for a week. The first move is not "write the essay" but "open the document after dinner and write one bad sentence"; the plan then has a time and a place.
 
 ## Sources
 
