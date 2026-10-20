@@ -123,3 +123,10 @@ One concise, item-keyed evidence note per item (owner decision 2026-10-20, PROTO
 - R042: Vā Moana book year corrected from 2022 to 2026 (verified via the ANU Press catalogue page); Tui Atua material presented as "a related religious context rather than a definition of teu le vā itself"; plain words "not the gap" aligned to Wendt's "not empty space" ("not an empty gap").
 - R061: unsupported glosses removed ("not about moderation at all", "not laziness but overshoot and undershoot", the courage/rashness/cowardice explanation, "hitting the measure the situation actually has"); plain words and example rebuilt strictly from the opened Legge material (due degree, equilibrium/harmony, going beyond vs not coming up to it); each quotation now linked to the specific wengu paragraph actually opened (no=4, 8, 11, 12).
 - All four re-closed via reopen->repair->validate-vs-base->done transitions; preservation checks pass (bases 5121397a0, 7605088d8, 49e62f21f, 8ec48c698).
+
+## Milestone QC round 3 — final bounded corrections (worker-p1zu-5035c5bc)
+
+- R028: two unsupported glosses removed ("scholars warn against collapsing the two"; "the definition does not settle what the obligation amounts to from inside"); the Treasury context quotation restored exactly as opened ("Primarily, it has been associated with the environment and sustainability and is taken to mean 'guardianship'."); plain words now end with Kawharu's qualified statement itself.
+- R040: the Taskforce brief is now reproduced as a blockquoted list (five bullets) matching the opened Treasury appendix, replacing the semicolon-joined sentence. Correction of the round-2 ledger entry: the earlier claim that "the list format was restored" was FALSE — only the attribution wording had changed; the list is now actually restored in this round.
+- R061: the unverified I.4/I.8/I.11/I.12 locator labels replaced with descriptive anchors ("equilibrium and harmony passage", "going beyond and falling short", "embodying the Mean", "the untrodden path"); the exact wengu URLs are retained.
+- All three re-closed via reopen->repair->validate-vs-explicit-base->done (bases 4484f8719, 77a4d3d46, 9a725b715).
