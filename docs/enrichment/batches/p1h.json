@@ -32,9 +32,10 @@
   "AF073",
   "AF061",
   "A103",
-  "A044"
+  "A044",
+  "BE004"
  ],
- "in_progress": "BE004",
+ "in_progress": null,
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -62,7 +63,7 @@
   "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks"
  },
  "missing_concepts": [],
- "sources_checked": 9,
- "updated": "2026-10-20T01:28:47+00:00",
+ "sources_checked": 10,
+ "updated": "2026-10-20T01:31:46+00:00",
  "band_done": false
 }

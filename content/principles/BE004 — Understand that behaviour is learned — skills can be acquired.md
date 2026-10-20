@@ -12,11 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 4** — Understand that behaviour is learned: skills can be acquired
 
-Behaviour is not innate; it is learned. Skills (social, emotional, behavioural, cognitive) are acquired through practice, modelling, and feedback. This means that deficits are not fixed; they are learnable.
+Bandura argues that learning entirely from the consequences of one's own actions would be laborious and hazardous. He gives swimming and driving as examples where trial-and-error mistakes can be dangerous. He also describes models as a way of passing on language, work and customs ([Social Learning Theory](https://archive.org/details/BanduraSocialLearningTheory), 1971).
 
-**Plain words** Almost nothing about your behavioural repertoire was issued at birth — it was learned, which means it can be relearned. Small talk, conflict, discipline, calm: all skills. "I'm just not like that" is almost always an unfinished training log.
+> Most of the behaviors that people display are learned, either deliberately or inadvertently, through the influence of example.
+>
+> — Bandura, Social Learning Theory (1971, p. 5)
 
-*For example:* The person "terrified of public speaking" who joins a low-stakes meet-up and, in a year, is fine. Not a different person. A trained one.
+**Plain words** Pick a situation you want to handle better. Name the action involved, such as opening a conversation or explaining a task. As a compendium exercise, ask someone to demonstrate how they do it, then choose a manageable opportunity to practise that action yourself.
+
+For example (imagined): before giving a team update, a new employee watches a colleague present one. They prepare their own outline and ask the colleague to listen to a rehearsal.
+
+(Bandura, Social Learning Theory, 1971.)
+
 ## Psychology parallels
 
 - **[[Social learning theory (Bandura)|Social learning theory (Bandura)]]**, behaviour is learned through observation, modelling, and reinforcement (Bandura, 1977; Bandura et al., 1961)
@@ -30,4 +37,4 @@ Behaviour is not innate; it is learned. Skills (social, emotional, behavioural, 
 
 ## Practice
 
-- Treat behavioural skills as learnable. If you are weak in a skill (assertiveness, emotional expression, social initiation), it is not a fixed trait; it is learnable through practice and feedback.
+- As a compendium exercise: choose one behaviour you want to be better at (assertiveness, emotional expression, social initiation), find someone who does it well, ask them to demonstrate it, and take a manageable opportunity to practise it.

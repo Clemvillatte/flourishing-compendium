@@ -169,3 +169,17 @@ staged by the save script).
 - Baseline invariant check: validator --base code inspected — checks front matter, wikilink markup Counter, reflections block, principle statement. All 32 done files pass against c2a3ee47 with return codes checked, 0 failures.
 - Advisor acceptance: "Yes—this QC checkpoint can close." Neutral references are not verified research findings.
 - Sources opened this round: full Perseus Book 2, 4, 5, 6 (re-fetched at 120000 chars); full dhammatalks.org AN 2:31-32 (no extraction prompt); full Kodhavagga dhp.17.
+
+## Session 3 (worker-p1h-9d4b7c2e, 2026-10-20) — takeover of stale p1h
+
+- Takeover from worker-p1h-8a3d7e29 (stale 610 min). BE004 was the in-progress item; file held original seed body, no partial enrichment draft.
+
+### BE004 — Understand that behaviour is learned: skills can be acquired (done 2026-10-20, advisor QC round 1 applied)
+
+- Opened: Bandura, Social Learning Theory (General Learning Press, 1971), Internet Archive scan https://dn790002.ca.archive.org/0/items/BanduraSocialLearningTheory/Bandura_SocialLearningTheory_text.pdf (item page https://archive.org/details/BanduraSocialLearningTheory). New source this session (1).
+- Verified verbatim on printed page 5, confirmed against the rendered page image (not OCR alone): "Most of the behaviors that people display are learned, either deliberately or inadvertently, through the influence of example."
+- Second candidate quote ("Under most circumstances, a good example...") also on p.5 but noncontiguous with the first; dropped per advisor QC (noncontiguous quotes need an omission marker).
+- Advisor QC round 1 (first item of session, per speed directive): rejected my first draft's unsupported inferences ("gap in training", "not your ceiling", dread-fades outcome promise, unverified psychology/bhavana paragraph); replacement body applied per advisor text with the verified quote. Practice bullet rewritten as editorial invitation. Page number confirmed from image.
+- Inherited, NOT opened/verified: psychology parallels (Bandura 1977, Bandura et al. 1961, Linehan 1993, Kelly 2004) and philosophy parallels (Aristotle NE II, Dreyfus & Dreyfus) — preserved per protocol, flagged for supervisor.
+- Saturation: mention scans run ("behaviour is learned", "skills can be acquired", "learnable"); BE004 already cited by Social learning theory (Bandura), Skills training (DBT, CBT), Bhavana (cultivation), Behavioural rehearsal, DBT Biosocial Theory, Assertiveness training, Graded task assignment. No justified new proposals.
+- Validator: ok vs pre-edit baseline fe4c4ce2 (2 structural warnings matching B112 precedent: no Sources URL, no Related concepts section; locator citation present).
