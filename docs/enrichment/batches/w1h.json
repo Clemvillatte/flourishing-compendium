@@ -1,14 +1,16 @@
 {
  "batch": "w1h",
  "done": [
-  "Non-attachment"
+  "Non-attachment",
+  "Maya (illusion)"
  ],
  "in_progress": null,
  "flagged": {
-  "Non-attachment": "fast-track; evidence: Dhp 214 Buddharakkhita verbatim (accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html), Sahdra et al. 2010 PubMed abstract (pubmed.ncbi.nlm.nih.gov/20155561/), abstract-only scope; QC: advisor round-1 repairs applied, round-2 scoped PASS (CO031 gloss simplified, duplicate-page sentence removed); FLAG: duplicate of existing richer concept page Nonattachment (deg 13) — supervisor disposition pending, namespace resolution NOT closed"
+  "Non-attachment": "fast-track; evidence: Dhp 214 Buddharakkhita verbatim (accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html), Sahdra et al. 2010 PubMed abstract (pubmed.ncbi.nlm.nih.gov/20155561/), abstract-only scope; QC: advisor round-1 repairs applied, round-2 scoped PASS (CO031 gloss simplified, duplicate-page sentence removed); FLAG: duplicate of existing richer concept page Nonattachment (deg 13) — supervisor disposition pending, namespace resolution NOT closed",
+  "Maya (illusion)": "fast-track; evidence: BG VII.14 Arnold verbatim (gutenberg.org/files/2388/2388-h/2388-h.htm), Menon IEP Advaita Vedanta verbatim quotes (iep.utm.edu/adv-veda/); inherited seed gloss on [[Brahman]] link kept (grounded by IEP sentence); Atman bare link (no clause claimed); no advisor QC due (item 2; QC at item 5)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:18:52+00:00",
+ "updated": "2026-10-20T06:20:16+00:00",
  "band_done": false
 }
