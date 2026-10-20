@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 43** — Learn to use light exposure: circadian behaviour
 
-Light exposure (especially morning light) regulates circadian rhythm, improves sleep, and affects mood. Bright light therapy is a treatment for seasonal and non-seasonal depression.
+Light is the main input the body clock uses to set itself. In a camping experiment, a week with only natural light synchronised participants' circadian clocks to solar time, with the biological night beginning near sunset and ending near sunrise, while their usual electrically lit lives were associated with a later-running clock. The same mechanism runs in reverse at night: in a controlled comparison, reading a light-emitting e-reader before bed phase-delayed the circadian clock, suppressed melatonin, and left readers less alert the next morning.
 
-**Plain words** Morning light is the master clock-setter — outdoor light in the first hours anchors sleep, mood, and energy for the whole day. Two minutes of sun through a window does almost nothing; ten minutes of sky does a lot. The cheapest antidepressant is outside.
+Bright light also has trial evidence as an antidepressant. In an eight-week randomised trial in 122 adults with non-seasonal depression, 30 minutes a day of 10,000-lux morning light outperformed placebo (d = 0.80), and light combined with fluoxetine performed best (d = 1.11, remission 58.6%). The trial's authors note bright light therapy was already an evidence-based treatment for seasonal depression.
 
-*For example:* Coffee on the balcony instead of at the counter — same ritual, but the day's whole chemistry gets an anchor. The retina is taking attendance.
+> "after exposure to only natural light, the internal circadian clock synchronizes to solar time such that the beginning of the internal biological night occurs at sunset and the end of the internal biological night occurs before wake time just after sunrise" (Wright et al. 2013, [Current Biology](https://pubmed.ncbi.nlm.nih.gov/23910656/))
+
+**Plain words**
+The body sets its clock mainly by light. Indoor life cuts the daytime signal and adds a false one at night, so the clock runs late and sleep follows. The two fixes point in opposite directions: more daylight, especially in the morning, and less glow in the last hours before bed.
+
+*For example:* An imagined case: a night owl who reads a tablet in bed until 1 a.m. and cannot wake before 9 swaps the tablet for a paper book and takes a 20-minute morning walk. The trials behind the two changes point the same way: the evening glow was delaying the clock; the daylight advances it.
+
+## Sources
+
+- [Wright et al., "Entrainment of the human circadian clock to the natural light-dark cycle," Current Biology (2013)](https://pubmed.ncbi.nlm.nih.gov/23910656/) — abstract
+- [Lam et al., "Efficacy of Bright Light Treatment, Fluoxetine, and the Combination in Patients With Nonseasonal Major Depressive Disorder," JAMA Psychiatry (2016)](https://pubmed.ncbi.nlm.nih.gov/26580307/) — abstract
+- [Chang et al., "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness," PNAS (2015)](https://pubmed.ncbi.nlm.nih.gov/25535358/) — abstract
+
 ## Psychology parallels
 
 - **Light and circadian rhythm**, morning light exposure regulates circadian rhythm (Czeisler et al., 1989; Wright et al., 2013)
@@ -31,4 +43,4 @@ Light exposure (especially morning light) regulates circadian rhythm, improves s
 
 ## Practice
 
-- Use light deliberately: get bright morning light (10-30 minutes outside), reduce evening light (no screens 1 hour before bed, warm light), and use bright light therapy if prone to depression.
+- Use light deliberately: daylight in the morning, less screen light in the last hours before bed, and, for depression, morning bright light therapy (the trial used 30 minutes of 10,000-lux light).

@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -25,6 +25,12 @@
    "link": "BE042",
    "why": "listed for comparison",
    "notes": "Seed concept (Sarris et al. 2015); BE042's opened evidence (SMILES, Firth 2019) is the field's trial literature. Evidence in sources/p1zk/BE042.md."
+  },
+  {
+   "into": "Circadian science",
+   "link": "BE043",
+   "why": "the camping and e-reader trials behind this principle are circadian entrainment experiments",
+   "notes": "Evidence in sources/p1zk/BE043.md (Wright 2013, Lam 2016, Chang 2015, all opened). Concept already cites BE043."
   }
  ],
  "inline": []
