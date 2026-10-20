@@ -106,6 +106,19 @@ principle bands before concept bands while the principles queue is untouched.
    then add its exact selected-rank bounds to TASKBOARD. Never overwrite existing manifests.
 6. Update `handoff.md` and this file when rules change. Clock in when done.
 
+## Stories pipeline (separate — do not merge)
+
+A second, separated pipeline handles narrative objects ("Stories"). Full protocol:
+`docs/enrichment/PROTOCOL-STORIES.md`; entry ticket `docs/enrichment/PROMPT-STORYTELLER.md`;
+lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
+
+- Only agents holding the Storyteller prompt work lanes s1a, s1b… (baton.py accepts lane names).
+- Storytellers never write into `content/`; publication and backlinks are supervisor-only
+  (`scripts/story_register.py`, dry-run by default, refuses live-band targets).
+- Ordinary workers never touch story pages or pipeline files (story_check/story_state/story_guard,
+  `drafts/s1*/`, STORIES-TASKBOARD). Discovering a defective story → supervisor note, not an edit.
+- A stale baton is never permission to cross roles.
+
 ## QC log
 
 | Date | Agent | What was checked | Result |

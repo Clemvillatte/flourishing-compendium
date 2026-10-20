@@ -6,6 +6,10 @@ weird replicates of the principle instead of explanations — and a VERBATIM SOU
 real plus. This protocol governs the principles pass. The concept pass
 (`docs/enrichment/PROTOCOL.md`) stays in force for concepts.
 
+OUT OF SCOPE: story pages (`content/stories/`) and the stories pipeline (`PROTOCOL-STORIES.md`)
+are handled only by agents holding the Storyteller prompt. Do not edit them; flag issues to
+the supervisor.
+
 Owner priority (2026-10-19): Daoism, Buddhism and Pragmatism first, to state-of-the-art
 excellence, then the rest. When you choose items within your band, prefer principles from
 those three traditions; when bands are minted, they are minted from those traditions first.

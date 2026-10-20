@@ -3,6 +3,15 @@
 - OWNER UPDATE (2026-10-19): work continuously, not in self-terminating passes. Read
   `docs/enrichment/OWNER-UPDATE-2026-10-19.md` before proceeding. Workers move to the next
   available priority band; the supervisor keeps monitoring even when no new commits arrive.
+- STORIES PIPELINE (2026-10-20, NEW — separate from enrichment): narrative-object work now has
+  its own protocol and tools — read `docs/enrichment/PROTOCOL-STORIES.md` (protocol + quality
+  standard), `docs/enrichment/PROMPT-STORYTELLER.md` (entry ticket), `docs/enrichment/STORIES-TASKBOARD.md`
+  (lane registry). Only agents holding the Storyteller prompt work it, via lanes s1a, s1b…
+  (baton.py accepts lane names). Storytellers NEVER write content/ (integration is supervisor-
+  only: scripts/story_register.py); ordinary workers NEVER touch story pages or pipeline files
+  (scripts/story_check.py / story_state.py / story_guard.py, drafts/s1*/, STORIES-TASKBOARD).
+  QC tooling tested: scripts/test_story_tools.py (25 green). Lane s1a is open (scope on the
+  registry). A live storyteller may hold the supervisor baton only as supervisor.
 - CURRENT SUPERVISOR (2026-10-20 ~11:5xZ, supervisor-46a0925d, takeover from stale supervisor-5130eacb,
   wave-resume session): pass 13 logged in the OPERATIONS.md QC log — health check (window d29687ab..9d300bc0,
   66 files: 57 plain + 9 w1k fast-track pass, build ok 5,722/fcAuthored 976); routed repairs verified landed

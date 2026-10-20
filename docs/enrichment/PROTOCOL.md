@@ -4,6 +4,10 @@ Goal: turn thin concept pages into pages the owner can mine for inspiration, ser
 Genuine Flourishing, alleviation of suffering and wisdom development. Standard = `EXEMPLARS.md` (Dao, De).
 Voice = `HUMANIZER-SKILL.md` (read it; its rules are binding). Facts = verified, or omitted.
 
+OUT OF SCOPE: story pages (`content/stories/`) and the stories pipeline (`PROTOCOL-STORIES.md`)
+are handled only by agents holding the Storyteller prompt. Do not edit them; flag issues to
+the supervisor.
+
 ## 0. Tooling (run from repo root; no install needed)
 | Need | Command |
 |---|---|

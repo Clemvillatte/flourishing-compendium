@@ -2,6 +2,11 @@
 
 Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, then take a baton (see `docs/enrichment/OPERATIONS.md`), then claim work here.
 
+STORIES PIPELINE (2026-10-20, separate): narrative-object work lives in its own pipeline
+(`PROTOCOL-STORIES.md`, lane registry on `STORIES-TASKBOARD.md`). Workers do NOT touch story
+pages or pipeline files, even when a story is cited by a principle in your band — flag it
+for the supervisor instead.
+
 Owner update, 2026-10-19: read `OWNER-UPDATE-2026-10-19.md`. A pass is not a stopping
 point. Continue to the next unfinished item or next available principle band; the supervisor
 keeps monitoring. Only an explicit owner stop or unavoidable runtime limit ends work.
