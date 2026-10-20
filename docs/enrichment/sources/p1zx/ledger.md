@@ -211,3 +211,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 
 - Sources: Gadamer via Legrand's excerpt PDF (secondary carrier of TM 2004, pp. 277-278, 281-282, 293, 300-301); Heidegger BT §74 verified against Internet Archive OCR (heritage/resoluteness). All quotes checked by script. Heidegger §§72-77 cite narrowed to §74 (the only passage opened and used).
 - Plain words replicate replaced; example imagined. The old claim 'you stand within history' now backed by 'we belong to it'. Self-QC only.
+
+## E083 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: SEP Ricoeur (current entry and Fall 2012 archive; fetched, quotes read in output: 'I am and am not the person I was ten years ago'; 'what story does a person tell...'; OA 147-148 passage); Truc 2008 (ricoeur.pitt.edu PDF; quotes OA p. 123 'perseverance of character...' and 'keeping one's word expresses a self-constancy'; PDF drops the hyphen in self-constancy); Halsema, Time (VU repository .doc; 'told differently on different occasions' is Halsema's wording, labelled as such).
+- Oneself as Another (Blamey) itself is lending-only on archive.org (403), so every OA quote is a secondary carrier, disclosed in the text. Worth a primary-text pass.
+- Dropped: MacIntyre After Virtue and Taylor Sources of the Self (not opened); 'beginning, middle, anticipated end' claim (old text) - not supported in any opened source. Plain words was a replicate; replaced; example imagined. Self-QC only.

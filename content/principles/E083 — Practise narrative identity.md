@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 475** — Practise narrative identity
 
-Understand yourself as a narrative being. Your identity is not a substance but a story — a story you are both living and telling. The narrative structure of your life has a beginning, a middle, and an anticipated end. Reflect on the narrative arc of your life.
+Ricoeur's claim is that a person's identity cannot be read off a list of traits. In Oneself as Another he separates two kinds: idem, what stays the same, and ipse, who someone is across change. The Stanford Encyclopedia puts it this way: "I am and am not the person I was ten years ago" ([SEP, Paul Ricoeur](https://plato.stanford.edu/entries/ricoeur/)). Narrative is how the two are held together.
 
-(Ricoeur, 1990/1992, Oneself as Another; MacIntyre, 1981, After Virtue; Taylor, 1989, Sources of the Self.)
+### What a story does
 
-**Plain words** You are a narrative being: identity isn't a substance but a story — lived and told at once, with a beginning, a middle, and an anticipated end. Reflect on the arc: where has it been, where is it going, what's its theme? You're the character and the editor.
+The central line is "The narrative constructs the identity of the character, what can be called his or her narrative identity, in constructing that of the story told. It is the identity of the story that makes the identity of the character" (Oneself as Another, pp. 147-148, as quoted in the [Fall 2012 SEP entry](https://plato.stanford.edu/archives/fall2012/entries/ricoeur/)). The question it answers is "what story does a person tell about his or her life, or what story do others tell about it?" (SEP).
 
-*For example:* Two people with the same résumé: one reads their life as "a series of accidents," one as "the story of someone who keeps learning." Same events — and the second reading is the one that predicts the next chapter.
+### Two poles
+
+Ricoeur finds two ways of lasting in time: character, and keeping one's word. "The perseverance of character is one thing, the perseverance of faithfulness to a word that has been given is something else again", and "keeping one's word expresses a self-constancy which cannot be inscribed, as character was, within the dimension of something in general but solely within the dimension of who?" (Oneself as Another, p. 123, as quoted in Truc, 2008). Narrative sits between the two poles. In Halsema's reading, a story can be "told differently on different occasions", so the self is not fixed to its character.
+
+**Plain words** You are not a fixed list of traits, and not a blank to rewrite at will. Ricoeur says a life holds together through the story you can tell about it, and that story has to fit what happened and still leave room for change.
+
+*For example:* Imagined example: after a failed business, someone tells it as "the year I wasted". Retelling it as "the year I learned to price my work" does not erase the loss. It changes which promises they are willing to make next.
+
+(Ricoeur, Oneself as Another, trans. Kathleen Blamey (Chicago, 1992), pp. 147-148, 123, via SEP; Truc, "Narrative Identity against Biographical Illusion", Études Ricœuriennes 2008; Halsema, "Time" (VU Research Portal); all opened 2026-10-21.)
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, Paul Ricoeur (current and Fall 2012 editions)](https://plato.stanford.edu/archives/fall2012/entries/ricoeur/)
+- [Truc, Narrative Identity against Biographical Illusion, Études Ricœuriennes](https://ricoeur.pitt.edu/ojs/ricoeur/article/download/51/28) — quotes OA p. 123
+- [Halsema, Time (VU Research Portal)](https://research.vu.nl/ws/files/2585350/Time%20Halsema%20final.doc)
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity]]** (McAdams, 2008; McAdams, 1993; Fivush et al., 2011)
