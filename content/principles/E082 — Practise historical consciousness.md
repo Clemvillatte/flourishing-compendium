@@ -12,13 +12,30 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 474** — Practise historical consciousness
 
-Recognise that your understanding is historically conditioned. You do not stand outside history; you stand within it. The past is not a dead object you study but a living tradition that speaks to you. Cultivate historical consciousness by engaging with the traditions that have shaped you.
+Gadamer's historical consciousness is not scholarly knowledge of the past. It is awareness that you are inside history: "history does not belong to us; we belong to it" (Truth and Method, pp. 277-278, trans. Weinsheimer and Marshall). Reason is "not its own master but remains constantly dependent on the given circumstances in which it operates" (pp. 277-278).
 
-(Gadamer, 1960/2013, Truth and Method, Part II; Heidegger, 1927/2008, Being and Time, §§72-77.)
+### What the past does to you
 
-**Plain words** Your understanding is historically conditioned: you stand within history, not outside it. The past isn't a dead object but a living tradition that speaks to you. Cultivate historical consciousness by engaging the traditions that made you — including the ones you're arguing with.
+Tradition is not a stored object. "The authority of what has been handed down to us—and not just what is clearly grounded—always has power over our attitudes and behavior", and "the real force of morals, for example, is based on tradition" (pp. 281-282). Yet we are not passive: "we produce it ourselves inasmuch as we understand, participate in the evolution of tradition, and hence further determine it ourselves" (p. 293).
 
-*For example:* Someone dismisses their field's "outdated" older thinkers — then actually reads them, and finds their own fresh positions were previewed, better, a century ago. The tradition was talking the whole time; they'd just muted it.
+### The situation never ends
+
+Gadamer calls the resulting awareness "consciousness of being affected by history" (wirkungsgeschichtliches Bewusstsein). It is "primarily consciousness of the hermeneutical situation", which is hard to see because "we are not standing outside it". Throwing light on it "is a task that is never entirely finished", not from poor reflection but because of "the essence of the historical being that we are" (p. 301). He adds that when "a naive faith in scientific method denies the existence of effective history, there can be an actual deformation of knowledge" (p. 300).
+
+### Heidegger's side
+
+The principle also cites Heidegger. In Being and Time §74: "If everything 'good' is a heritage, and the character of 'goodness' lies in making authentic existence possible, then the handing down of a heritage constitutes itself in resoluteness."
+
+**Plain words** Whatever you think, you think from somewhere: a language, a family, a culture, a time. The past is not behind you in a drawer. It already shapes what you notice and what you take for obvious. Gadamer's practice is to keep asking where your view comes from.
+
+*For example:* Imagined example: you find your grandparents' advice about work old-fashioned. Then you notice that your own idea of "a good job" is also inherited, from your parents' fear of insecurity. Seeing both as traditions lets you choose between them.
+
+(Gadamer, Truth and Method, 2nd rev. ed. (Continuum, 2004), pp. 277-278, 281-282, 293, 300-301, trans. Weinsheimer and Marshall, via the excerpt compiled by Pierre Legrand; Heidegger, Being and Time §74, trans. Macquarrie and Robinson, Internet Archive; opened 2026-10-21.)
+
+## Sources
+
+- [Gadamer excerpts from Truth and Method (Weinsheimer and Marshall trans., 2004), compiled by Pierre Legrand](https://www.pierre-legrand.com/gadamer-excerpts.pdf) — pp. 277-278, 281-282, 293, 300-301
+- [Heidegger, Being and Time, trans. Macquarrie and Robinson, Internet Archive](https://archive.org/details/being-and-time-martin-heidegger-1962) — §74
 ## Psychology parallels
 
 - **Autobiographical memory and identity** (McAdams, 2008)

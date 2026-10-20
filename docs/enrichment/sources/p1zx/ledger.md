@@ -206,3 +206,8 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Source: Pierre Legrand's compiled excerpt PDF of Truth and Method (Weinsheimer-Marshall, Continuum 2004; https://www.pierre-legrand.com/gadamer-excerpts.pdf), opened and fetched. SECONDARY CARRIER: it reproduces the TM passages with page numbers; the full TM text is not openly available (archive.org lending only). All quotes verified word-for-word against it (brackets like [T]he normalised). Pages 269, 271, 273, 278, 295.
 - Old cite 'Part II, ch. 1' kept out of the text because the section heading could not be opened; replaced by page numbers. Plain words replicate replaced; example imagined. Worth a later primary-text pass.
 - Self-QC only.
+
+## E082 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources: Gadamer via Legrand's excerpt PDF (secondary carrier of TM 2004, pp. 277-278, 281-282, 293, 300-301); Heidegger BT §74 verified against Internet Archive OCR (heritage/resoluteness). All quotes checked by script. Heidegger §§72-77 cite narrowed to §74 (the only passage opened and used).
+- Plain words replicate replaced; example imagined. The old claim 'you stand within history' now backed by 'we belong to it'. Self-QC only.
