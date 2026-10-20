@@ -17,15 +17,15 @@ Sociocultural · Psychological science
 Robert Putnam drew the term from an analogy with physical and human capital. Tools and training make an individual more productive. His 1995 essay argued that certain features of a community do the same for collective life, and gave the analogy its canonical form:
 
 > By analogy with notions of physical capital and human capital—tools and training that enhance individual productivity—"social capital" refers to features of social organization such as networks, norms, and social trust that facilitate coordination and cooperation for mutual benefit.
-> — Robert D. Putnam, "Bowling Alone: America's Declining Social Capital," Journal of Democracy 6(1), 1995
+> — Robert D. Putnam, "Bowling Alone: America's Declining Social Capital," Journal of Democracy 6(1), 1995, p. 67
 
-The essay's emblem is bowling. More Americans were bowling than ever before, but between 1980 and 1993 league bowling fell by 40 percent while the total number of bowlers rose by 10 percent. Putnam's point was the social interaction, and occasionally civic conversation, that league members had over beer and pizza. His conclusion: American social capital in the form of civic associations had significantly eroded over the last generation.
+The essay's emblem is bowling. More Americans were bowling than ever before, but between 1980 and 1993 league bowling fell by 40 percent while the total number of bowlers rose by 10 percent. Putnam's point was the social interaction, and occasionally civic conversation, that league members had over beer and pizza. His conclusion was that American participation in civic associations had weakened considerably during the preceding generation.
 
 The rest of the essay spells out why the stock matters. A community rich in civic networks, on Putnam's account, finds collective problems easier to solve, because such networks sustain habits of reciprocity, build trust, and widen the circle of people who see a common interest. The essay also argues that dense interaction broadens the participants' sense of self, turning the "I" into the "we".
 
 Putnam's later discussion of the concept, reported in Thomas Lee's 2025 primer on social capital, distinguishes two types by the company they keep. Bonding capital joins people who are alike. Bridging capital reaches across groups. Putnam credits the pairing's "getting by" and "getting ahead" formulation to sociologist Xavier de Souza Briggs, and offers his own image: "Bonding social capital constitutes a kind of sociological superglue, whereas bridging social capital provides a sociological WD-40" (Putnam, 2020, p. 23, quoted in Lee, 2025, https://catalogimages.wiley.com/images/db/pdf/9781394312658.excerpt.pdf).
 
-One boundary on this entry. The seed names Bourdieu alongside Putnam, and social capital is indeed a Bourdieusian term as well. No Bourdieu text has been opened for this entry, and it covers Putnam's version of the theory alone.
+One boundary on this entry. The seed names Bourdieu alongside Putnam. No Bourdieu text has been opened for this entry, and it covers Putnam's version of the theory alone.
 
 ## In the compendium
 
