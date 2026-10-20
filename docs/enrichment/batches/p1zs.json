@@ -16,9 +16,10 @@
   "BI064",
   "BI065",
   "BI066",
-  "BI067"
+  "BI067",
+  "CO021"
  ],
- "in_progress": "CO021",
+ "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -30,10 +31,11 @@
   "BI044": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
   "BI048": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
   "BI050": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
-  "BI067": "New body/quote advisor PASS; inherited Dersh/Craig/Apkarian and cross-tradition philosophy attributions not verified. See sources/p1zs/BI067.md."
+  "BI067": "New body/quote advisor PASS; inherited Dersh/Craig/Apkarian and cross-tradition philosophy attributions not verified. See sources/p1zs/BI067.md.",
+  "CO021": "New body/quote verified; inherited cross-domain robustness and Arkes-Hutzel/Buddhist/Stoic/Schumpeter attributions not certified. Practice inference corrected. See sources/p1zs/CO021.md."
  },
  "missing_concepts": [],
- "sources_checked": 2,
- "updated": "2026-10-20T13:15:10+00:00",
+ "sources_checked": 3,
+ "updated": "2026-10-20T13:15:43+00:00",
  "band_done": false
 }

@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 21** — Understand the sunk cost fallacy: past investment distorts present decisions
 
-You continue an endeavour because of what you have already invested (time, money, effort), even when continuing is no longer the best choice. The past investment is gone; the decision should be based on future costs and benefits.
+Arkes and Blumer describe a tendency to continue an undertaking because money, effort or time has already been invested ([“The Psychology of Sunk Cost,” 1985, abstract](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)). Their decision rule distinguishes those irrecoverable costs from the costs and benefits that would change with the choice now being made ([opening discussion, pp. 125–127](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)).
 
-**Plain words** Sunk cost fallacy: you continue because of what you've already invested — time, money, years — even when continuing is no longer the best choice. The past investment is gone; the decision should be made forward-only. Ask: if I were starting today, would I choose this?
+> Only incremental costs should influence decisions, not sunk costs.
 
-*For example:* The decade more of the bad marriage "because we've invested so much" — and the question that cuts through: "starting from zero, knowing what I know, would I choose this today?" The investment was a fact about the past; the answer was about the future.
+(Arkes and Blumer, “The Psychology of Sunk Cost,” p. 125; [opened text](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf).)
+
+### Plain words
+
+Separate what you cannot recover from what your next choice could still change. Ask what continuing would require, what stopping would cost and what each option makes possible.
+
+The point is to examine reasons for continuing, not to assume that persistence is always mistaken. The rule concerns future consequences as well as future returns ([pp. 125–127](https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf)).
+
+### For example
+
+Suppose you bought a non-refundable course but find little value in it. You could compare the remaining classes with other uses of that time, while checking whether completing it would provide a qualification you still need.
 ## Psychology parallels
 
 - **[[Sunk cost effect|Sunk cost effect]]**, people continue investments because of past costs rather than future returns (Arkes & Blumer, 1985)
@@ -30,4 +40,4 @@ You continue an endeavour because of what you have already invested (time, money
 
 ## Practice
 
-- When deciding whether to continue, ask: "if I were starting from scratch today, would I choose this?" If no, the past investment is driving the decision, not the future value.
+- When deciding whether to continue, list the future consequences of continuing and stopping. Treat an irrecoverable past payment separately; a reason to persist still needs examining on its merits.
