@@ -12,13 +12,35 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 379** — Practise the land ethic
 
-Extend your ethical community to include soils, waters, plants, and animals. The land ethic, as articulated by Aldo Leopold, changes the role of Homo sapiens from conqueror of the land-community to plain member and citizen of it. Do not treat the non-human world as merely a resource.
+Leopold's essay "The Land Ethic" (1949) presents the ethic as the next step in a sequence: the first ethics dealt with relations between individuals, later ones with the individual and society, and there is as yet no ethic dealing with "man's relation to land and to the animals and plants which grow upon it" ([Leopold, "The Land Ethic"](https://rintintin.colorado.edu/~vancecd/phil308/Leopold.pdf)). The essay's definition of the new ethic is one sentence:
+
+> "The land ethic simply enlarges the boundaries of the community to include soils, waters, plants, and animals, or collectively: the land."
+>
+> (Leopold, "The Land Ethic", The Community Concept)
+
+The enlargement changes what the human is in that community. The essay's summary sentence is the source of this principle's statement:
+
+> "In short, a land ethic changes the role of Homo sapiens from conqueror of the land-community to plain member and citizen of it. It implies respect for his fellow-members, and also respect for the community as such."
+>
+> (Leopold, "The Land Ethic", The Community Concept)
+
+The essay's basis is ecological: land is "not merely soil; it is a fountain of energy flowing through a circuit of soils, plants, and animals". Membership in that circuit is what the ethic asks the reader to accept. For judging conduct on the land, the essay offers this maxim:
+
+> "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise."
+>
+> (Leopold, "The Land Ethic", The Outlook)
 
 (Leopold, 1949, A Sand County Almanac, "The Land Ethic.")
 
-**Plain words** Leopold's land ethic: enlarge the ethical community to include soils, waters, plants, and animals — and change your role from conqueror of the land-community to plain member and citizen of it. The non-human world isn't merely resource; it's relation.
+**Plain words**
+An ethic tells you who counts. The ethics you grew up with count people: family, strangers, people you will never meet. Leopold's proposal is to widen the count. The soil, the water, the plants and animals of your own place belong to the same community you do, and what you do to them is conduct, not just economics. The practical test is his maxim: before altering a piece of land, ask what the alteration does to the community that lives on it, not only what it yields.
 
-*For example:* The farmer who stops asking only "how much can this paddock give me?" and starts asking "what does this paddock need?" — and finds the second question eventually answers the first better.
+*For example:* Imagine deciding whether to drain a marshy corner of a property. The economic case is one input; Leopold's maxim asks what draining does to the plants, birds, and soil that make up that corner's community.
+
+## Sources
+
+- [Aldo Leopold, "The Land Ethic", from A Sand County Almanac (1949), full text (University of Colorado Boulder course copy)](https://rintintin.colorado.edu/~vancecd/phil308/Leopold.pdf) — The Community Concept, The Land Pyramid, The Outlook sections
+
 ## Stories
 
 - [[ST255 — The Green Fire Dies|255. The Green Fire Dies]]
