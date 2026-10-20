@@ -1,9 +1,11 @@
 {
  "batch": "w1aa",
- "done": [],
- "in_progress": "Feng shui (harmonious environment)",
+ "done": [
+  "Indra's net"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:33:21+00:00"
+ "updated": "2026-10-20T11:42:11+00:00"
 }
