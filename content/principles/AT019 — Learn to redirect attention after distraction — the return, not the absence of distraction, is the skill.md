@@ -12,14 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 19** — Learn to redirect attention after distraction: the return, not the absence of distraction, is the skill
 
-Everyone gets distracted. The skill is not avoiding all distraction (impossible) but quickly and gently returning attention to the chosen focus. This return-and-redirect is the core of both meditation and deep work.
+In Hasenkamp and colleagues' study of focused-attention meditation, fourteen experienced practitioners meditated on the breath in an fMRI scanner; whenever they noticed their mind had wandered, they pressed a button and returned their focus to the breath. The study modelled the practice as a cycle of four intervals: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention. The noticing and the return sit inside the skill itself, as working parts of it. The study also found that activation in these phases was modulated by lifetime meditation experience, consistent with the cycle being trainable.
 
-**Plain words** Everyone gets distracted — the skill isn't the absence of wandering, it's the speed of the return. Meditation's actual product isn't an unflickering mind; it's a fast, kind return-trip. Judge yourself on the rebound.
+> "This model proposes four intervals in a cognitive cycle: mind wandering, awareness of mind wandering, shifting of attention, and sustained attention." (Hasenkamp et al., 2012 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/21782031/) — Neuroimage 59(1):750-760)
 
-*For example:* Mid-reading, you're suddenly planning dinner — you notice, and you're back on the page in one breath. That noticing is the whole skill. One rep of a thousand.
+**Plain words**
+Your mind will leave the page, the breath, the conversation. The measurable skill is the noticing-plus-return trip: catch the drift, come back. Each catch is one repetition of the exercise. A session with fifty drifts and fifty returns is fifty reps, not a bad session.
+
+**For example**
+Mid-reading, you notice you are planning dinner; you return to the sentence. That notice-and-return is one repetition.
+## Sources
+
+- [Hasenkamp et al. 2012, Mind wandering and attention during focused meditation: a fine-grained temporal analysis of fluctuating cognitive states, Neuroimage 59(1):750-760, abstract](https://pubmed.ncbi.nlm.nih.gov/21782031/) — the four-interval cycle, the button-press return procedure, and the lifetime-experience modulation.
+
 ## Psychology parallels
 
-- **Mindfulness training improves attentional return**, noticing distraction and returning focus is a trainable skill (Hasenkamp et al., 2012; Tang et al., 2015)
+- **Focused-attention meditation as a trainable cycle**, the four-interval cycle; phase activations were modulated by lifetime meditation experience (Hasenkamp et al., 2012; see also Tang et al., 2015)
 - **[[The noticing-wandering-returning cycle in meditation|The "noticing-wandering-returning" cycle in meditation]]**, this cycle itself trains the attentional return mechanism (Hasenkamp et al., 2012)
 
 ## Philosophy parallels

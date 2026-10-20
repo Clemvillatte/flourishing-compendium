@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 5,
+ "revision": 6,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -19,6 +19,12 @@
    "link": "AT009",
    "why": "The principle stating that gaze both steers and couples attention between people, listed alongside the social-media attention principle",
    "notes": "AT009 body grounds in Friesen & Kingstone 1998 (opened full text) and Richardson et al. 2007 (opened abstract); Social attention page cites AT062 only."
+  },
+  {
+   "into": "Attentional control training and the role of repeated redirection",
+   "link": "AT019",
+   "why": "The principle naming the notice-and-return cycle that focused-attention training practises",
+   "notes": "AT019 body grounds in Hasenkamp et al. 2012 (opened PubMed abstract); concept page does not currently cite AT019."
   }
  ],
  "inline": [],
