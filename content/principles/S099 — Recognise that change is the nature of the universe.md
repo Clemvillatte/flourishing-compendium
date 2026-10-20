@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 221** — Recognise that change is the nature of the universe
 
-The universe is change. Your life is an opinion. Death is a natural process. The Stoic does not resist change but accepts it as the fundamental character of reality.
+Marcus compresses the whole view into a line: "This world is mere change, and this life, opinion." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk IV §3.) Nothing falls out of the world by changing: "Whatsoever dieth and falleth, however and wheresoever it die and fall, it cannot fall out of the world, here it have its abode and change, here also shall it have its dissolution into its proper elements. The same are the world's elements, and the elements of which thou dost consist. And they when they are changed, they murmur not; why shouldest thou?" (Printed as Bk IX §16.)
 
-(Med. I.14, II.3, II.17, IV.1, IV.3, IV.36, IV.43, VI.15, VII.10, VII.19, VII.25, VII.34, VII.49, IX.28, IX.29, IX.35, X.1, X.7, XI.1, XI.21, XII.1, XII.20, XII.21, XII.32, XII.36.)
+Death is one of the changes, and a natural one: "to expect death, as being nothing else but the resolution of those elements, of which every creature is composed. And if the elements themselves suffer nothing by this their perpetual conversion of one into another, that dissolution, and alteration, which is so common unto all, why should it be feared by any? Is not this according to nature? But nothing that is according to nature can be evil." (Printed as Bk II §17.) The Stoic does not resist change but accepts it as the fundamental character of reality.
 
-**Plain words** The universe is change. Your life is a view you take of it. Death is a natural process. The Stoic doesn't resist change but accepts it as the basic character of reality.
+(Med., Gutenberg 2680.)
+
+**Plain words** You are not a fixed thing that reality happens to; you are part of the traffic. The stuff in you has been river, tree and dinner before it was you, and will be other things after. The elements do not complain when they change arrangements, so why should you? Aim well within the current instead of arguing with it.
 
 *For example:* Moving house after thirty years and treating it as one more turn of the wheel.
 
@@ -28,7 +30,8 @@ The universe is change. Your life is an opinion. Death is a natural process. The
 ## Philosophy parallels
 
 - **[[Panta rhei|Panta rhei (everything flows)]]** (Heraclitus, fragments)
-- **[[Impermanence|Impermanence (anicca)]]** (Buddhist tradition)- **[[Living according to nature|Living according to nature]]** (Stoicism)
+- **[[Impermanence|Impermanence (anicca)]]** (Buddhist tradition)
+- **[[Living according to nature|Living according to nature]]** (Stoicism)
 
 
 <!-- fc: reflections
@@ -38,3 +41,6 @@ How do you hold loved things in a world where everything changes? Is there somet
 %%
 Is acceptance of change always wise, or are there changes we should refuse? Give an example.
 -->
+
+## Sources
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt ("mere change... life, opinion" printed as Bk IV §3; "Whatsoever dieth and falleth" as Bk IX §16; death-as-resolution-of-elements as Bk II §17)

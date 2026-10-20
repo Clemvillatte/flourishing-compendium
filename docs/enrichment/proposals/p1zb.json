@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 7,
+ "revision": 8,
  "records": [
   {
    "action": "reciprocal",
@@ -51,6 +51,13 @@
    "link": "Legacy motivation research",
    "why": "Legacy motivation research studies the desire to be remembered, which is exactly what this principle argues against valuing.",
    "notes": "Proposed by worker-p1zb-9b3f2e68 during S097 saturation check; the concept page already lists S097; the principle's psychology parallels lack the return link."
+  },
+  {
+   "action": "reciprocal",
+   "into": "S099",
+   "link": "Death acceptance",
+   "why": "Accepting death as a natural change is the core of this principle's closing passage.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S099 saturation check; the concept page already lists S099; the principle's psychology parallels lack the return link."
   }
  ]
 }

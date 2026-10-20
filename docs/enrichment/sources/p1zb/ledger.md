@@ -598,3 +598,21 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   remembered) — reciprocal proposal filed. Identified versus introjected motivation also
   lists S097 — no action (loose fit; existing Extrinsic motivation/Self-determination
   parallels carry the motivational ground). Proposals file now revision 7, 7 records.
+
+## S099 — Recognise that change is the nature of the universe
+- Full work: verbatim quotes added (Marcus, printed as Bk IV §3 — "This world is mere change,
+  and this life, opinion"; Bk IX §16 — "Whatsoever dieth and falleth... they murmur not; why
+  shouldest thou?"; Bk II §17 — death as "the resolution of those elements... Is not this
+  according to nature? But nothing that is according to nature can be evil"), all 3
+  mechanically verified in file and source. Concatenated philosophy-parallel bullets split
+  (Impermanence / Living according to nature). Plain words rewritten as re-derivation
+  (part of the traffic). For-example kept. Sources section added.
+- Citation line trimmed to opened evidence (Med., Gutenberg 2680). Removed inherited
+  references, retained here: Med. I.14, II.3, IV.1, IV.36, IV.43, VI.15, VII.10, VII.19,
+  VII.25, VII.34, VII.49, IX.28, IX.29, IX.35, X.1, X.7, XI.1, XI.21, XII.1, XII.20, XII.21,
+  XII.32, XII.36.
+- Saturation: mutual link for Psychological flexibility (lists S099 and is the principle's own
+  psychology parallel). Death acceptance lists S099 — tight fit with the closing death
+  passage — reciprocal proposal filed (proposals rev. 8). Buddhist emptiness of inherent
+  nature also lists S099 — no action (emptiness is a different doctrine; the principle's
+  Impermanence parallel already covers the Buddhist ground).
