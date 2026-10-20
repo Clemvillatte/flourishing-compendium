@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 135** — Samsara and nirvana are one mind
 
-In the Mulamadhyamakakarika, Nagarjuna challenges the separation of samsara and nirvana. Garfield and Priest quote verse 25.20 while discussing his account of emptiness ([Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs)):
+In the Mulamadhyamakakarika, Nagarjuna challenges the separation of samsara and nirvana. Garfield and Priest quote verse 25.20 as one of his positive assertions, describing it as his assertion that nirvana and samsara are identical ([Garfield and Priest](https://scholarworks.smith.edu/cgi/viewcontent.cgi?article=1021&context=phi_facpubs)):
 
 > Whatever is the limit of nirvana,
 > That is the limit of cyclic existence.

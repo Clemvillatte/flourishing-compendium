@@ -122,6 +122,11 @@ scope error and restoration to the owner.
 - Fixed joined philosophy bullets without changing either original link.
 - Saturation: Appraisal theory and Nirvana already cite B135; no redundant
   backlink or claim of psychological equivalence proposed.
+- Dropped seed's Dogen locator without verifying it; not certified.
+- Fifteenth-valid-item advisor: all quotes and preservation PASS; B135
+  lead-in corrected to the actual immediate context of positive assertions
+  rather than a generic emptiness discussion. Optional B104 monk/renunciate
+  precision also applied. B013/B059/B104/B106/B167 independently PASS.
 
 ## B167: When hungry, eat; when tired, sleep (2026-10-20)
 
@@ -156,6 +161,24 @@ scope error and restoration to the owner.
 - Broken inherited Work engagement alias retained unchanged as a protected
   wikilink. Csikszentmihalyi and Dewey comparisons unverified.
 - Saturation: both linked concepts already cite B171.
+
+## B184: Recognize habit energy (2026-10-20)
+
+- Membership verified. Search "Thich Nhat Hanh hello habit energy smile
+  rushing", opened authored essay
+  https://www.lionsroar.com/watering-the-seeds-of-happiness/ .
+  Quote is exact nine-word sentence. Recurring rushing/recognition
+  described as his teaching, not established clinical or neural facts.
+  Did not use the page's unverified neural-pathway-erasure claims.
+- Search Wood/Neal title; opened author abstract in ERIC:
+  https://eric.ed.gov/?id=EJ776723 . Context-response learning and stability
+  caveat are explicitly the authors' model. Full paper not fetched,
+  no study statistics or additional findings inferred.
+- Replaced literal-program framing and guaranteed one-notice interruption.
+  Imagined app/document example is a proposed observation, not an effect.
+- Seed's Understanding Our Mind locator not verified; replaced with the
+  authored source actually read. James/Aristotle parallels unverified.
+- Saturation: Habit and Second nature already cite B184.
 
 ## D105: Need little (2026-10-20)
 

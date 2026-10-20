@@ -21,7 +21,7 @@ Shantideva's chapter on patience challenges the reasons for becoming angry. Vers
 
 (Bodhicaryavatara 6.10, Padmakara Translation Group, [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).)
 
-Dhammapada 184 calls enduring patience the highest austerity and rejects harming or oppressing others as the conduct of a true renunciate ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html)). Read together here, these passages invite examining a response before acting on anger. They do not make a distressed person's inability to feel cheerful a moral failure.
+Dhammapada 184 calls enduring patience the highest austerity and says one who harms another is not a true monk, nor one who oppresses others a true renunciate ([Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html)). Read together here, these passages invite examining a response before acting on anger. They do not make a distressed person's inability to feel cheerful a moral failure.
 
 **Plain words** When something goes wrong, first ask what can be done about it. You may still feel angry or disappointed. Can you address the problem without choosing words or actions intended to hurt someone?
 
