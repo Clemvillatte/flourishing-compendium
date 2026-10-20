@@ -7,18 +7,17 @@
   "Sense of community",
   "Non-dual awareness",
   "Focused-attention meditation",
-  "Open-monitoring meditation",
-  "Self-transcendent experiences"
+  "Open-monitoring meditation"
  ],
- "in_progress": null,
+ "in_progress": "Self-transcendent experiences",
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
   "Open-monitoring meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
-  "Self-transcendent experiences": "RESOLVED own retained-requirement audit: full exact definition blockquote and sentence-case subheading added"
+  "Self-transcendent experiences": "Reopened for QC: Literal source comparison caught non-verbatim draft quotation; replace with actual opened abstract sentence and exact-string test"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T06:31:39+00:00",
+ "updated": "2026-10-20T06:32:04+00:00",
  "band_done": false
 }
