@@ -1,6 +1,6 @@
 {
   "batch": "p1zm",
-  "revision": 13,
+  "revision": 14,
   "records": [
     {
       "action": "reciprocal",
@@ -71,6 +71,13 @@
       "link": "R027",
       "why": "Mead's Tikanga Māori places manaakitanga under all tikanga — nurturing relationships, looking after people, and being very careful about how others are treated",
       "notes": "R027 links [[Manaakitanga]] in its philosophy parallels; the concept's cited-in philosophy parallels section is empty; why clause grounded in the Treasury He Ara Waiora carrier of Mead's Tikanga Māori (revised ed. 2016, p. 378 per the carrier's footnote 59)"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Harmony",
+      "link": "R062",
+      "why": "the Confucian he of Analects 13.23 — harmony without sameness, the junzi acting in harmony with others without seeking to be like them",
+      "notes": "R062 links [[Harmony]] as philosophy parallel; the Harmony concept's own body carries the line 'Confucius, Analects 13.23' and its cited-in list has only R011; why clause grounded in the opened Legge and Eno 13.23 renderings"
     }
   ]
 }
