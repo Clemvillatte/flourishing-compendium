@@ -232,3 +232,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all matched fetched pages.
 - Seed repairs: added 18.2 (sanyasa vs tyaga) and 18.7 as the textual base; "lien" and the resented-task experiment labelled as the page's own; caveat that the Gita says "prescribed duties". BG 5.13 not reopened; ACT and John 17 not opened.
 - Saturation: low.
+
+## Y112 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: holy-bhagavad-gita.org (Mukundananda) BG 4.18-4.21 with commentary on 4.18.
+- Quotes verified: all matched fetched pages.
+- Seed repairs: the text defines the wise worker; "rest as inner weather" and the weekly restful action are labelled as the page's own. Csikszentmihalyi and Laozi not opened.
+- Saturation: low.
