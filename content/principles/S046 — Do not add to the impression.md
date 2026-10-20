@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 168** — Do not add to the impression
 
-When something happens, the impression is: "this happened." The mind immediately adds: "and this is terrible." The addition is yours, not the event's. Practise catching the addition and withholding it.
+> "Say nothing more to thyself than what the first appearances report." (Med. VIII.49, [George Long translation](https://classics.mit.edu/Antoninus/meditations.8.eight.html)).
 
-Marcus gives himself this instruction: "Say nothing more to thyself than what the first appearances report." ([Meditations VIII.49, George Long translation](https://classics.mit.edu/Antoninus/meditations.8.eight.html)) His example distinguishes a report that someone has spoken ill of him from the further conclusion that he has been injured ([Meditations VIII.49](https://classics.mit.edu/Antoninus/meditations.8.eight.html)).
+Marcus's example distinguishes a report that someone has spoken ill of him from the further conclusion that he has been injured ([Meditations VIII.49](https://classics.mit.edu/Antoninus/meditations.8.eight.html)).
 
 Epictetus offers a smaller test: if someone bathes quickly, describe the speed rather than immediately deciding that they bathe badly, before understanding their reasons ([Enchiridion 45, Elizabeth Carter translation](https://classics.mit.edu/Epictetus/epicench.html)). This is a discipline of examining what we accept, not a guarantee that every first impression is a bare, neutral fact; Epictetus treats impressions as candidates for acceptance or rejection ([Margaret Graver, Epictetus, section 4.1](https://plato.stanford.edu/entries/epictetus/)).
 

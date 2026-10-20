@@ -29,19 +29,20 @@
   "S027",
   "S034",
   "S037",
-  "S041"
+  "S041",
+  "S046"
  ],
- "in_progress": "S046",
+ "in_progress": null,
  "flagged": {
-  "S015": "QC repair verified: inherited generic prose removed; standalone exact quote; saturation completed; validator PASS.",
-  "S027": "QC repair verified: inherited unsupported prose removed; source quote standalone; saturation complete; validator PASS.",
+  "S015": "RESOLVED after worker QC: standalone quote, inherited-prose repair, saturation and final advisor PASS.",
+  "S027": "RESOLVED after worker QC: standalone quote, inherited-prose repair, saturation and final advisor PASS.",
   "S034": "RESOLVED after worker QC: standalone verified quote; unsupported inherited causal claim removed; saturation and validator PASS.",
   "S037": "RESOLVED after worker QC: inherited no-debt simplification removed; moral/legal distinction retained; standalone quote, saturation and validator PASS.",
   "S041": "RESOLVED after worker QC: inherited unsupported comparative claim removed; standalone quote; saturation and validator PASS.",
-  "S046": "Reopened for QC: Standalone quote; replace inherited neutral-impression simplification; saturation check."
+  "S046": "RESOLVED after worker QC: inherited neutral-impression simplification removed; standalone quote; saturation, all30 validator and final advisor PASS."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:17:13+00:00",
+ "updated": "2026-10-20T10:18:33+00:00",
  "band_done": false
 }
