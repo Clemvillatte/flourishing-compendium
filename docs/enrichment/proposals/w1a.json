@@ -1,362 +1,415 @@
 {
-  "inline": [
-    {
-      "into": "BE046",
-      "concept": "Parasympathetic activation",
-      "phrase": "parasympathetic",
-      "why": "BE046's psychology parallels state 'slow breathing activates parasympathetic and reduces arousal (Lehrer & Gevirtz, 2014; Zaccaro et al., 2018)' in plain text; the word names exactly what the Parasympathetic activation concept covers, and both cited sources are the concept page's two sources. The file uses 'parasympathetic' exactly once (rg-verified).",
-      "_audit_why": "BE046 file read via rg; single occurrence of the phrase verified; no existing [[Parasympathetic activation]] link in the file"
-    },
-    {
-      "into": "Y047",
-      "concept": "Parasympathetic activation",
-      "phrase": "parasympathetic engagement",
-      "why": "Y047's psychology parallels line reads 'Slow breathing and parasympathetic engagement, a systematic review of psycho-physiological correlates (Zaccaro et al., 2018)' in plain text; 'parasympathetic engagement' is precisely the state the Parasympathetic activation concept defines, and the cited review is the concept page's main source. The phrase occurs exactly once (rg-verified).",
-      "_audit_why": "Y047 file read via rg; single occurrence of the phrase verified; no existing [[Parasympathetic activation]] link in the file"
-    },
-    {
-      "into": "B043",
-      "concept": "Impermanence",
-      "phrase": "its impermanence",
-      "why": "B043 (vipassana) line 15 instructs looking into 'the nature of experience: its impermanence, its unsatisfactoriness, its ownerlessness' in plain text; the Impermanence page is the hub concept for the first of the three, and B043 currently has no [[Impermanence]] wikilink (rg-verified).",
-      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
-    },
-    {
-      "into": "B123",
-      "concept": "Impermanence",
-      "phrase": "double-edged impermanence",
-      "why": "B123's line 42 asks 'What's your version of the double-edged impermanence?' in plain text; the page is the hub for the concept named, and B123 currently has no [[Impermanence]] wikilink (rg-verified).",
-      "_audit_why": "B123 file read via rg with line numbers; phrase verbatim at line 42; no existing Impermanence link"
-    },
-    {
-      "into": "AT006",
-      "concept": "Deliberate practice",
-      "phrase": "deliberate practice",
-      "why": "AT006's Practice section (line 49) contains the same plain-text sentence naming deliberate practice as a way attention improves; AT006 currently has no [[Deliberate practice]] wikilink (rg-verified).",
-      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
-    },
-    {
-      "into": "AT025",
-      "concept": "Deliberate practice",
-      "phrase": "deliberate practice",
-      "why": "AT025's body (line 15) states concentration 'improves with deliberate practice, just as physical strength improves with exercise' in plain text; the concept page is the compendium's page for the term, and AT025 currently has no [[Deliberate practice]] wikilink (rg-verified).",
-      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
-    },
-    {
-      "into": "CO082",
-      "concept": "Deliberate practice",
-      "phrase": "deliberate practice is the related idea",
-      "why": "CO082's body (line 42) says 'deliberate practice is the related idea (Ericsson et al., 1993)' in plain text; the concept page is the compendium's page for the term and cites the same 1993 paper, and CO082 currently has no [[Deliberate practice]] wikilink (rg-verified).",
-      "_audit_why": "CO082 file read via rg with line numbers; phrase verbatim at line 42; no existing Deliberate practice link"
-    },
-    {
-      "into": "AT015",
-      "concept": "Right speech",
-      "phrase": "Right speech includes right listening",
-      "why": "AT015's Philosophy parallels (line 27) has the plain-text bold line 'Right speech includes right listening (Buddhism, Eightfold Path)'; the Right speech concept page carries a 'right listening' facet and this is its natural target. AT015 currently has no [[Right speech]] wikilink (rg-verified).",
-      "_audit_why": "AT015 file read via rg with line numbers; phrase verbatim at line 27; no existing Right speech link"
-    },
-    {
-      "into": "Metta (loving-kindness)",
-      "concept": "Right speech",
-      "phrase": "the affective basis of right speech",
-      "why": "The Metta concept page's body (line 12) states metta 'is the antidote to ill will (hindrance 2, B080) and the affective basis of right speech (B148)' in plain text; the Right speech page now links Metta in Related with the same clause. The Metta page has no [[Right speech]] wikilink (rg-verified).",
-      "_audit_why": "Metta page read via rg with line numbers; phrase verbatim at line 12; no existing Right speech link"
-    },
-    {
-      "into": "P160",
-      "concept": "Self-as-context",
-      "phrase": "That second position is self-as-context",
-      "why": "P160's Plain words (line 31) explains the two positions and names the second 'self-as-context' in plain text; the Self-as-context concept page is the compendium's page for the term. P160 currently has no [[Self-as-context]] wikilink (rg-verified). CAVEAT (QC round 7): the phrase sits inside the page's Plain words section, which the owner has flagged as often-broken replicates \u2014 supervisor to confirm before applying.",
-      "_audit_why": "P160 file read via rg with line numbers; phrase verbatim at line 31; no existing Self-as-context link"
-    },
-    {
-      "into": "PP081",
-      "concept": "Self-as-context",
-      "phrase": "self-as-context",
-      "why": "PP081's body (line 19) lists the six trained processes including 'self-as-context' in plain text; the concept page is the compendium's page for that process. PP081 currently has no [[Self-as-context]] wikilink (rg-verified).",
-      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
-    },
-    {
-      "concept": "Distrust names and labels",
-      "into": "Cognitive flexibility",
-      "phrase": "distrust of names and labels",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "body prose names the teaching without linking the concept page (links only the principle D016); unique occurrence at line 28, single-concept selector"
-    },
-    {
-      "concept": "Equanimity",
-      "into": "Ataraxia",
-      "phrase": "Buddhist equanimity",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
-    },
-    {
-      "concept": "Equanimity",
-      "into": "Loneliness",
-      "phrase": "equanimity where not",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
-    },
-    {
-      "concept": "Active constructive responding",
-      "into": "PP030",
-      "phrase": "Active-constructive responding, which involves",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "the principle page discusses the concept in body prose without linking the concept page; rg-verified unique occurrence (L15); not in the seed line (the seed is the principle statement blockquote)"
-    },
-    {
-      "concept": "Intrinsic versus extrinsic goals",
-      "into": "MO014",
-      "phrase": "Intrinsic vs extrinsic values (Kasser",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "the principle's parallels bullet names the Kasser & Ryan values distinction without linking the concept page; rg-verified unique occurrence (L22, parallels bullet, not a seed line)"
-    },
-    {
-      "concept": "The discipline of assent",
-      "into": "Epoch\u00e9",
-      "phrase": "Stoic cousin is the discipline of assent",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "prose names the discipline as the Stoic cousin without linking the concept page; rg-verified unique occurrence (L18 body prose, not a seed line)"
-    },
-    {
-      "concept": "The discipline of assent",
-      "into": "Four Noble Truths",
-      "phrase": "Stoic discipline of assent",
-      "source": "w1a worker-w1a-4c8e21d7",
-      "why": "prose names the discipline in the diagnostic-traditions sentence without linking the concept page; rg-verified unique occurrence (L14 body prose, not a seed line)"
-    }
-  ],
-  "reciprocal": [
-    {
-      "into": "Autonomic nervous system (sympathetic vs parasympathetic)",
-      "link": "Parasympathetic activation",
-      "why": "Target page (read in full, 31 lines) is a seed: 'two branches with opposing effects on arousal, digestion, and restoration (Lehrer & Gevirtz, 2014; Thayer et al., 2012)', citing the same Lehrer and Gevirtz source as the concept page. Parasympathetic activation names the engagement of one of those two branches; the parent page does not yet link it (rg-verified absence).",
-      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-    },
-    {
-      "into": "Heart rate variability theory",
-      "link": "Parasympathetic activation",
-      "why": "Target page (read in full, 66 lines) presents HRV as an index of cardiac vagal tone and self-regulation (Park & Thayer 2014; Williams et al. 2015) \u2014 the measure the concept page's studies read. The HRV theory page does not link Parasympathetic activation (rg-verified absence).",
-      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-    },
-    {
-      "into": "Respiratory sinus arrhythmia research",
-      "link": "Parasympathetic activation",
-      "why": "Target page (read in full, 16 lines) is a seed describing RSA as 'the heart-rhythm modulation tied to breathing \u2014 as an index of vagal tone and emotion-regulation capacity'. RSA is one of the two cardiac measures the concept page's studies infer parasympathetic involvement from; the RSA page does not link back (rg-verified absence).",
-      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-    },
-    {
-      "into": "Heart-rate-variability biofeedback",
-      "link": "Parasympathetic activation",
-      "why": "Target page (read in full, 32 lines) is a seed about the procedure the concept page's second source reviews ('slow diaphragmatic breathing raises vagal tone (Lehrer and Gevirtz, 2014)'; its section text also mentions 'slow breathing near six cycles per minute maximises vagal and baroreflex resonance'). The page does not link Parasympathetic activation (rg-verified absence).",
-      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-    },
-    {
-      "into": "Slow-paced breathing",
-      "link": "Parasympathetic activation",
-      "why": "Target page (read in full, 70 lines) is developed and quotes the same Zaccaro et al. 2018 review for its vagal-predominance and HRV/RSA findings \u2014 the same source as the concept page. The page does not link Parasympathetic activation (rg-verified absence).",
-      "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
-    },
-    {
-      "into": "Anatta",
-      "link": "Impermanence",
-      "why": "The Anatta page describes anatta as one of the Three Marks of Existence alongside dukkha and anicca ('impermanence') \u2014 the same family the Impermanence page hubs. rg found no [[Impermanence]] link on the Anatta page (exact:0).",
-      "_audit_why": "Anatta page read via rg for the Three Marks sentence and absence of the link; page not read in full this session"
-    },
-    {
-      "into": "Fu (return)",
-      "link": "Impermanence",
-      "why": "The Fu (return) page's Sources cite Laozi, Daodejing 16 \u2014 the same chapter the Impermanence page quotes for its Daoist section \u2014 and its Cited-in lists include B002 (anicca). rg found no [[Impermanence]] link on the Fu page (exact:0).",
-      "_audit_why": "Fu (return) page checked via rg for absence of the link and for its Sources/Cited-in lines; page not read in full this session"
-    },
-    {
-      "into": "Eightfold Path",
-      "link": "Right speech",
-      "why": "The Eightfold Path page lists 'right view, right intention, right speech, right action, right livelihood...' in its opening paragraph but has no [[Right speech]] wikilink (rg-verified); the Right speech page links Eightfold Path in Related as the training the factor belongs to.",
-      "_audit_why": "Eightfold Path page read via rg; absence of the link verified; page not read in full this session"
-    },
-    {
-      "into": "Beneficial speech",
-      "link": "Right speech",
-      "why": "The Beneficial speech page's seed line reads '\"Beneficial speech\" \u2014 BG 17.15; Buddhist right speech' and its Sources list 'Buddhist right speech' (plain text, rg-verified lines 10 and 19); the Right speech page links Beneficial speech in Related as the Gita cousin. No [[Right speech]] link exists on the page.",
-      "_audit_why": "Beneficial speech page read via rg; phrases verbatim at lines 10 and 19; no existing Right speech link"
-    },
-    {
-      "into": "The three gates of speech",
-      "link": "Right speech",
-      "why": "The three gates of speech is the Sufi three-gate test page; the Right speech page links it in Related as the Sufi cousin, and rg found no [[Right speech]] link on the page.",
-      "_audit_why": "page checked via rg for absence of the link; page not read in full this session"
-    },
-    {
-      "into": "Cognitive defusion",
-      "link": "Distrust names and labels",
-      "why": "the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry"
-    },
-    {
-      "into": "Affect labeling",
-      "link": "Distrust names and labels",
-      "why": "the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry"
-    },
-    {
-      "into": "The limits of language",
-      "link": "Distrust names and labels",
-      "why": "both pages treat names as less than what they point at; reciprocal of the Related entry"
-    },
-    {
-      "into": "Language on holiday",
-      "link": "Distrust names and labels",
-      "why": "language idling vs doing work is the Wittgenstein counterpart of the Daoist warning; reciprocal of the Related entry"
-    },
-    {
-      "into": "Fallibilism",
-      "link": "Holding as hypothesis",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "The discipline of assent",
-      "link": "Holding as hypothesis",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "The pragmatic maxim",
-      "link": "Holding as hypothesis",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Workability",
-      "link": "Holding as hypothesis",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "The evening review",
-      "link": "Morning intention",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Implementation intentions",
-      "link": "Morning intention",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Daily architecture",
-      "link": "Morning intention",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Right intention",
-      "link": "Morning intention",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Rumination",
-      "link": "Nature exposure",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Attention restoration",
-      "link": "Nature exposure",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Restorative environments",
-      "link": "Nature exposure",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Green exercise (Barton, Pretty)",
-      "link": "Nature exposure",
-      "why": "new Related entry; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Capitalization",
-      "link": "Active constructive responding",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Mudita (sympathetic joy)",
-      "link": "Active constructive responding",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Perceived partner responsiveness",
-      "link": "Active constructive responding",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Savoring",
-      "link": "Active constructive responding",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Aspiration index",
-      "link": "Intrinsic versus extrinsic goals",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Extrinsic aspirations",
-      "link": "Intrinsic versus extrinsic goals",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Materialism",
-      "link": "Intrinsic versus extrinsic goals",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Self-determination",
-      "link": "Intrinsic versus extrinsic goals",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Self-concordance theory",
-      "link": "Intrinsic versus extrinsic goals",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Prosoch\u0113",
-      "link": "The discipline of assent",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Epoch\u00e9",
-      "link": "The discipline of assent",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Judgment adds the harm",
-      "link": "The discipline of assent",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Passions as judgments",
-      "link": "The discipline of assent",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Holding as hypothesis",
-      "link": "The discipline of assent",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Post-traumatic growth",
-      "link": "Tragic optimism",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Learned optimism",
-      "link": "Tragic optimism",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Amor fati",
-      "link": "Tragic optimism",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    },
-    {
-      "into": "Hope",
-      "link": "Tragic optimism",
-      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
-    }
-  ]
+ "inline": [
+  {
+   "into": "BE046",
+   "concept": "Parasympathetic activation",
+   "phrase": "parasympathetic",
+   "why": "BE046's psychology parallels state 'slow breathing activates parasympathetic and reduces arousal (Lehrer & Gevirtz, 2014; Zaccaro et al., 2018)' in plain text; the word names exactly what the Parasympathetic activation concept covers, and both cited sources are the concept page's two sources. The file uses 'parasympathetic' exactly once (rg-verified).",
+   "_audit_why": "BE046 file read via rg; single occurrence of the phrase verified; no existing [[Parasympathetic activation]] link in the file"
+  },
+  {
+   "into": "Y047",
+   "concept": "Parasympathetic activation",
+   "phrase": "parasympathetic engagement",
+   "why": "Y047's psychology parallels line reads 'Slow breathing and parasympathetic engagement, a systematic review of psycho-physiological correlates (Zaccaro et al., 2018)' in plain text; 'parasympathetic engagement' is precisely the state the Parasympathetic activation concept defines, and the cited review is the concept page's main source. The phrase occurs exactly once (rg-verified).",
+   "_audit_why": "Y047 file read via rg; single occurrence of the phrase verified; no existing [[Parasympathetic activation]] link in the file"
+  },
+  {
+   "into": "B043",
+   "concept": "Impermanence",
+   "phrase": "its impermanence",
+   "why": "B043 (vipassana) line 15 instructs looking into 'the nature of experience: its impermanence, its unsatisfactoriness, its ownerlessness' in plain text; the Impermanence page is the hub concept for the first of the three, and B043 currently has no [[Impermanence]] wikilink (rg-verified).",
+   "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
+  },
+  {
+   "into": "B123",
+   "concept": "Impermanence",
+   "phrase": "double-edged impermanence",
+   "why": "B123's line 42 asks 'What's your version of the double-edged impermanence?' in plain text; the page is the hub for the concept named, and B123 currently has no [[Impermanence]] wikilink (rg-verified).",
+   "_audit_why": "B123 file read via rg with line numbers; phrase verbatim at line 42; no existing Impermanence link"
+  },
+  {
+   "into": "AT006",
+   "concept": "Deliberate practice",
+   "phrase": "deliberate practice",
+   "why": "AT006's Practice section (line 49) contains the same plain-text sentence naming deliberate practice as a way attention improves; AT006 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+   "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
+  },
+  {
+   "into": "AT025",
+   "concept": "Deliberate practice",
+   "phrase": "deliberate practice",
+   "why": "AT025's body (line 15) states concentration 'improves with deliberate practice, just as physical strength improves with exercise' in plain text; the concept page is the compendium's page for the term, and AT025 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+   "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
+  },
+  {
+   "into": "CO082",
+   "concept": "Deliberate practice",
+   "phrase": "deliberate practice is the related idea",
+   "why": "CO082's body (line 42) says 'deliberate practice is the related idea (Ericsson et al., 1993)' in plain text; the concept page is the compendium's page for the term and cites the same 1993 paper, and CO082 currently has no [[Deliberate practice]] wikilink (rg-verified).",
+   "_audit_why": "CO082 file read via rg with line numbers; phrase verbatim at line 42; no existing Deliberate practice link"
+  },
+  {
+   "into": "AT015",
+   "concept": "Right speech",
+   "phrase": "Right speech includes right listening",
+   "why": "AT015's Philosophy parallels (line 27) has the plain-text bold line 'Right speech includes right listening (Buddhism, Eightfold Path)'; the Right speech concept page carries a 'right listening' facet and this is its natural target. AT015 currently has no [[Right speech]] wikilink (rg-verified).",
+   "_audit_why": "AT015 file read via rg with line numbers; phrase verbatim at line 27; no existing Right speech link"
+  },
+  {
+   "into": "Metta (loving-kindness)",
+   "concept": "Right speech",
+   "phrase": "the affective basis of right speech",
+   "why": "The Metta concept page's body (line 12) states metta 'is the antidote to ill will (hindrance 2, B080) and the affective basis of right speech (B148)' in plain text; the Right speech page now links Metta in Related with the same clause. The Metta page has no [[Right speech]] wikilink (rg-verified).",
+   "_audit_why": "Metta page read via rg with line numbers; phrase verbatim at line 12; no existing Right speech link"
+  },
+  {
+   "into": "P160",
+   "concept": "Self-as-context",
+   "phrase": "That second position is self-as-context",
+   "why": "P160's Plain words (line 31) explains the two positions and names the second 'self-as-context' in plain text; the Self-as-context concept page is the compendium's page for the term. P160 currently has no [[Self-as-context]] wikilink (rg-verified). CAVEAT (QC round 7): the phrase sits inside the page's Plain words section, which the owner has flagged as often-broken replicates — supervisor to confirm before applying.",
+   "_audit_why": "P160 file read via rg with line numbers; phrase verbatim at line 31; no existing Self-as-context link"
+  },
+  {
+   "into": "PP081",
+   "concept": "Self-as-context",
+   "phrase": "self-as-context",
+   "why": "PP081's body (line 19) lists the six trained processes including 'self-as-context' in plain text; the concept page is the compendium's page for that process. PP081 currently has no [[Self-as-context]] wikilink (rg-verified).",
+   "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
+  },
+  {
+   "concept": "Distrust names and labels",
+   "into": "Cognitive flexibility",
+   "phrase": "distrust of names and labels",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "body prose names the teaching without linking the concept page (links only the principle D016); unique occurrence at line 28, single-concept selector"
+  },
+  {
+   "concept": "Equanimity",
+   "into": "Ataraxia",
+   "phrase": "Buddhist equanimity",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
+  },
+  {
+   "concept": "Equanimity",
+   "into": "Loneliness",
+   "phrase": "equanimity where not",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
+  },
+  {
+   "concept": "Active constructive responding",
+   "into": "PP030",
+   "phrase": "Active-constructive responding, which involves",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "the principle page discusses the concept in body prose without linking the concept page; rg-verified unique occurrence (L15); not in the seed line (the seed is the principle statement blockquote)"
+  },
+  {
+   "concept": "Intrinsic versus extrinsic goals",
+   "into": "MO014",
+   "phrase": "Intrinsic vs extrinsic values (Kasser",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "the principle's parallels bullet names the Kasser & Ryan values distinction without linking the concept page; rg-verified unique occurrence (L22, parallels bullet, not a seed line)"
+  },
+  {
+   "concept": "The discipline of assent",
+   "into": "Epoché",
+   "phrase": "Stoic cousin is the discipline of assent",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "prose names the discipline as the Stoic cousin without linking the concept page; rg-verified unique occurrence (L18 body prose, not a seed line)"
+  },
+  {
+   "concept": "The discipline of assent",
+   "into": "Four Noble Truths",
+   "phrase": "Stoic discipline of assent",
+   "source": "w1a worker-w1a-4c8e21d7",
+   "why": "prose names the discipline in the diagnostic-traditions sentence without linking the concept page; rg-verified unique occurrence (L14 body prose, not a seed line)"
+  },
+  {
+   "into": "K069",
+   "concept": "Decentering",
+   "phrase": "decentering",
+   "why": "the psychology parallels name decentering in plain text when describing self-concept flexibility findings",
+   "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
+  },
+  {
+   "into": "Y006",
+   "concept": "Decentering",
+   "phrase": "decentering",
+   "why": "the psychology parallels pair detached mindfulness with decentering",
+   "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
+  },
+  {
+   "into": "Perspective-taking",
+   "concept": "Decentering",
+   "phrase": "decentering",
+   "why": "the page describes deliberate decentering from the egocentric anchor, the self-distanced perspective the review lists among decentering-related constructs",
+   "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
+  },
+  {
+   "into": "Metacognitive monitoring",
+   "concept": "Decentering",
+   "phrase": "decentering",
+   "why": "the facets list decentering as a trainable extension of metacognitive monitoring",
+   "_audit_why": "rg-verified single occurrence, no existing [[Decentering]] link in the file"
+  }
+ ],
+ "reciprocal": [
+  {
+   "into": "Autonomic nervous system (sympathetic vs parasympathetic)",
+   "link": "Parasympathetic activation",
+   "why": "Target page (read in full, 31 lines) is a seed: 'two branches with opposing effects on arousal, digestion, and restoration (Lehrer & Gevirtz, 2014; Thayer et al., 2012)', citing the same Lehrer and Gevirtz source as the concept page. Parasympathetic activation names the engagement of one of those two branches; the parent page does not yet link it (rg-verified absence).",
+   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
+  },
+  {
+   "into": "Heart rate variability theory",
+   "link": "Parasympathetic activation",
+   "why": "Target page (read in full, 66 lines) presents HRV as an index of cardiac vagal tone and self-regulation (Park & Thayer 2014; Williams et al. 2015) — the measure the concept page's studies read. The HRV theory page does not link Parasympathetic activation (rg-verified absence).",
+   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
+  },
+  {
+   "into": "Respiratory sinus arrhythmia research",
+   "link": "Parasympathetic activation",
+   "why": "Target page (read in full, 16 lines) is a seed describing RSA as 'the heart-rhythm modulation tied to breathing — as an index of vagal tone and emotion-regulation capacity'. RSA is one of the two cardiac measures the concept page's studies infer parasympathetic involvement from; the RSA page does not link back (rg-verified absence).",
+   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
+  },
+  {
+   "into": "Heart-rate-variability biofeedback",
+   "link": "Parasympathetic activation",
+   "why": "Target page (read in full, 32 lines) is a seed about the procedure the concept page's second source reviews ('slow diaphragmatic breathing raises vagal tone (Lehrer and Gevirtz, 2014)'; its section text also mentions 'slow breathing near six cycles per minute maximises vagal and baroreflex resonance'). The page does not link Parasympathetic activation (rg-verified absence).",
+   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
+  },
+  {
+   "into": "Slow-paced breathing",
+   "link": "Parasympathetic activation",
+   "why": "Target page (read in full, 70 lines) is developed and quotes the same Zaccaro et al. 2018 review for its vagal-predominance and HRV/RSA findings — the same source as the concept page. The page does not link Parasympathetic activation (rg-verified absence).",
+   "_audit_why": "target page read in full this session (read tool); absence of the link verified by rg"
+  },
+  {
+   "into": "Anatta",
+   "link": "Impermanence",
+   "why": "The Anatta page describes anatta as one of the Three Marks of Existence alongside dukkha and anicca ('impermanence') — the same family the Impermanence page hubs. rg found no [[Impermanence]] link on the Anatta page (exact:0).",
+   "_audit_why": "Anatta page read via rg for the Three Marks sentence and absence of the link; page not read in full this session"
+  },
+  {
+   "into": "Fu (return)",
+   "link": "Impermanence",
+   "why": "The Fu (return) page's Sources cite Laozi, Daodejing 16 — the same chapter the Impermanence page quotes for its Daoist section — and its Cited-in lists include B002 (anicca). rg found no [[Impermanence]] link on the Fu page (exact:0).",
+   "_audit_why": "Fu (return) page checked via rg for absence of the link and for its Sources/Cited-in lines; page not read in full this session"
+  },
+  {
+   "into": "Eightfold Path",
+   "link": "Right speech",
+   "why": "The Eightfold Path page lists 'right view, right intention, right speech, right action, right livelihood...' in its opening paragraph but has no [[Right speech]] wikilink (rg-verified); the Right speech page links Eightfold Path in Related as the training the factor belongs to.",
+   "_audit_why": "Eightfold Path page read via rg; absence of the link verified; page not read in full this session"
+  },
+  {
+   "into": "Beneficial speech",
+   "link": "Right speech",
+   "why": "The Beneficial speech page's seed line reads '\"Beneficial speech\" — BG 17.15; Buddhist right speech' and its Sources list 'Buddhist right speech' (plain text, rg-verified lines 10 and 19); the Right speech page links Beneficial speech in Related as the Gita cousin. No [[Right speech]] link exists on the page.",
+   "_audit_why": "Beneficial speech page read via rg; phrases verbatim at lines 10 and 19; no existing Right speech link"
+  },
+  {
+   "into": "The three gates of speech",
+   "link": "Right speech",
+   "why": "The three gates of speech is the Sufi three-gate test page; the Right speech page links it in Related as the Sufi cousin, and rg found no [[Right speech]] link on the page.",
+   "_audit_why": "page checked via rg for absence of the link; page not read in full this session"
+  },
+  {
+   "into": "Cognitive defusion",
+   "link": "Distrust names and labels",
+   "why": "the defusion page names the word-experience fusion this concept warns about; reciprocal of the Related entry"
+  },
+  {
+   "into": "Affect labeling",
+   "link": "Distrust names and labels",
+   "why": "the label-as-name-not-verdict distinction is the two pages' shared core; reciprocal of the Related entry"
+  },
+  {
+   "into": "The limits of language",
+   "link": "Distrust names and labels",
+   "why": "both pages treat names as less than what they point at; reciprocal of the Related entry"
+  },
+  {
+   "into": "Language on holiday",
+   "link": "Distrust names and labels",
+   "why": "language idling vs doing work is the Wittgenstein counterpart of the Daoist warning; reciprocal of the Related entry"
+  },
+  {
+   "into": "Fallibilism",
+   "link": "Holding as hypothesis",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "The discipline of assent",
+   "link": "Holding as hypothesis",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "The pragmatic maxim",
+   "link": "Holding as hypothesis",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Workability",
+   "link": "Holding as hypothesis",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "The evening review",
+   "link": "Morning intention",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Implementation intentions",
+   "link": "Morning intention",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Daily architecture",
+   "link": "Morning intention",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Right intention",
+   "link": "Morning intention",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Rumination",
+   "link": "Nature exposure",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Attention restoration",
+   "link": "Nature exposure",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Restorative environments",
+   "link": "Nature exposure",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Green exercise (Barton, Pretty)",
+   "link": "Nature exposure",
+   "why": "new Related entry; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Capitalization",
+   "link": "Active constructive responding",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Mudita (sympathetic joy)",
+   "link": "Active constructive responding",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Perceived partner responsiveness",
+   "link": "Active constructive responding",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Savoring",
+   "link": "Active constructive responding",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Aspiration index",
+   "link": "Intrinsic versus extrinsic goals",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Extrinsic aspirations",
+   "link": "Intrinsic versus extrinsic goals",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Materialism",
+   "link": "Intrinsic versus extrinsic goals",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Self-determination",
+   "link": "Intrinsic versus extrinsic goals",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Self-concordance theory",
+   "link": "Intrinsic versus extrinsic goals",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Prosochē",
+   "link": "The discipline of assent",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Epoché",
+   "link": "The discipline of assent",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Judgment adds the harm",
+   "link": "The discipline of assent",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Passions as judgments",
+   "link": "The discipline of assent",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Holding as hypothesis",
+   "link": "The discipline of assent",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Post-traumatic growth",
+   "link": "Tragic optimism",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Learned optimism",
+   "link": "Tragic optimism",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Amor fati",
+   "link": "Tragic optimism",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Hope",
+   "link": "Tragic optimism",
+   "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+  },
+  {
+   "into": "Cognitive defusion",
+   "link": "Decentering",
+   "why": "the review lists cognitive defusion among the decentering-related constructs it maps onto one phenomenon"
+  },
+  {
+   "into": "Metacognitive awareness",
+   "link": "Decentering",
+   "why": "the same literature treats metacognitive awareness as the monitoring process that enables decentering from thoughts"
+  },
+  {
+   "into": "Metacognitive monitoring",
+   "link": "Decentering",
+   "why": "the page’s facets list decentering as an extension of metacognitive monitoring"
+  },
+  {
+   "into": "Rumination",
+   "link": "Decentering",
+   "why": "the Experiences Questionnaire was designed to measure both decentering and rumination"
+  },
+  {
+   "into": "Epoché",
+   "link": "Decentering",
+   "why": "the phenomenological suspension brackets the everyday attitude the way decentering brackets thought content"
+  }
+ ]
 }
