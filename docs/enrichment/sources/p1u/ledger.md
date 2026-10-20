@@ -241,6 +241,38 @@ scope error and restoration to the owner.
   No Goethe morphology equivalence or psychology effect certified.
 - Saturation: Craftsmanship research and Morphology already cite P112.
 
+## Credit-blocked checkpoint and resumption
+
+- Completed in-band: 20 of 30 manifest items, specifically the nine D
+  items, the ten B items, and P112. Do not count the three reverted B
+  edits still present in the erroneous batch done list.
+- Independent first-item and five-, nine-, ten- and fifteen-valid-item
+  reviews returned feedback; every requested correction was applied
+  and pushed. Nine-Daoist blockquotes independently checked; final D178
+  paraphrase independently PASS. Fifteen-item B135 context correction
+  and omitted-Dogen disclosure applied.
+- Milestone-20 advisor failed because credits ran out, not because a
+  review returned PASS/FAIL. Pending independent review: B171, B184,
+  B191, B195, P112 and the last B135 context correction. Do not mark
+  that milestone QC complete.
+- Local milestone check of all 20 against de7801af: validator 20 checked,
+  zero failures; metadata, principle statements, original wikilinks and
+  reflection blocks unchanged; all 20 blockquotes matched actually opened
+  source outputs after whitespace normalization. Warnings are the
+  existing missing Related concepts sections, not validation failures.
+- Exact restoration of B152/B137/B149 verified at restoration commit
+  1f71a89a against each pre-edit revision. B152 was subsequently enriched
+  by p1m at fdaa9594; do not revert that legitimate later work.
+- Next in-progress item P114 is manifest-verified and state pushed but
+  content untouched. Preliminary Maslow searches only; APA fetch failed,
+  no unread result is usable evidence. Resume by restoring advisor QC,
+  then opening Maslow sources for P114 before rewriting it.
+- Three reciprocal proposals remain in p1u.json for supervisor review;
+  no enrich_apply run, cross-band state edit, progress.json edit or queue
+  edit was performed. Scope error and its correction are documented above.
+- Partial baton released because the advisor credit blocker prevents
+  completing the required QC, not because the band is finished.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
