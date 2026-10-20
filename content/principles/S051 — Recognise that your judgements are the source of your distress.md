@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 173** — Recognise that your judgements are the source of your distress
 
-If you are distressed, trace the distress to the judgement that produced it. The event did not produce it; your interpretation did. Change the interpretation, and the distress changes. This is the core of the Stoic practice and the core of cognitive therapy.
+In Enchiridion 5, Epictetus locates disturbance in opinions about events rather than in the events themselves. The compendium uses this Stoic claim as a prompt to examine the judgement involved in a distressing situation.
 
 (Disc. I.1, I.11, I.18; Ench. 5; Med. IV.7, VIII.47, XII.8.)
 
@@ -20,10 +20,10 @@ If you are distressed, trace the distress to the judgement that produced it. The
 
 The manual's example is death: nothing terrible in itself, since if it were, it would have seemed so to Socrates. What is terrible is the opinion that death is terrible. The same holds for being impeded, disturbed or grieved: the passage directs the practitioner to blame no one else, but to look to their own opinions.
 
-The passage then grades the learner. The ill-instructed man blames others for his own bad condition; the man who has begun to be instructed blames himself; the man whose instruction is completed blames neither another nor himself. The practice is not self-reproach but inspection of the judgement underneath the distress.
+The passage then grades the learner. The ill-instructed man blames others for his own bad condition; the man who has begun to be instructed blames himself; the man whose instruction is completed blames neither another nor himself. For its exercise, the compendium recommends examining the judgement without turning that inquiry into self-reproach.
 
 **Plain words**
-When you're upset, look for the opinion doing the work. The event didn't upset you by itself; the opinion about it did. Epictetus uses death as his test case: death isn't terrible, the belief that it's terrible is. His instruction is not to blame yourself either, once trained — just find the judgement and examine it.
+Epictetus asks you to attend to your opinion of an event. Try stating the judgement involved. His passage ends with the trained person blaming neither themselves nor others.
 
 *For example:* Feeling worthless after a critical review, you find the judgement "one criticism means I'm incompetent," and see it's not true.
 
@@ -34,7 +34,7 @@ When you're upset, look for the opinion doing the work. The event didn't upset y
 - [[ST204 — Truman Tests the Water|204. Truman Tests the Water]]
 ## Psychology parallels
 
-- **[[Cognitive-behavioural model|Cognitive-behavioural therapy]]**, the model of interpretations mediating between events and emotions
+- **[[Cognitive-behavioural model|Cognitive-behavioural therapy]]**
 - **[[Cognitive reappraisal|Cognitive reappraisal]]** (Gross, 2015)
 
 ## Philosophy parallels

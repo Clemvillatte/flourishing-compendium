@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 6** — Know that the self is embodied: the body is part of who you are
 
-The self is not a disembodied mind; it is an embodied being. Your body — posture, energy, health, appearance, interoceptive signals — is part of your self-concept and affects how you relate to yourself. Self and body are not separate.
+William James calls the body "the innermost part of the material Self." The compendium uses this description as a starting point for thinking about bodily care as care for oneself.
 
 (William James, "The Principles of Psychology," Vol. I, 1890, ch. X; Barrett et al., 2019; Craig, 2009.)
 
@@ -22,10 +22,10 @@ James places the body first in the inventory. The material self is not an append
 
 > "The body is the innermost part of the material Self in each of us; and certain parts of the body seem more intimately ours than the rest. The clothes come next." (William James, [The Principles of Psychology, Vol. I, ch. X](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
-The practical consequence is direct. Care of the body (sleep, movement, nutrition, attention to bodily state) is not maintenance of a machine the self merely rides in; it is care of the self's own material part. The compendium pairs this with the psychology of interoception and bodily self-awareness, and with contemplative traditions that treat the body as part of the person to be cultivated rather than escaped.
+The compendium recommends including bodily care when considering care of yourself. This is a practical application of James's account of the material self.
 
 **Plain words**
-The self is embodied: posture, energy, health, interoceptive signals are part of your self-concept, affecting how you relate to yourself. The body isn't the self's vehicle; it's part of the self. James puts it plainly: the body is the innermost part of the material self. Treat it accordingly.
+James includes the body in his account of the material self. For this compendium's practice, include bodily care when thinking about what caring for yourself means.
 
 *For example:* The person whose entire self-sense shifts with the chronic pain flare — not "I feel bad" but "I am worse" — and the reframe that helps: the self is running on different hardware this week. The body was always part of the identity; the identity needs the body's maintenance schedule.
 ## Psychology parallels

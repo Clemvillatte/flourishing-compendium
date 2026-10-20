@@ -12,22 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 2** — Treat the person as embedded in nested systems
 
-Treat the person as embedded in a set of nested systems — microsystems (family, peers), mesosystems (school, workplace), exosystems (community institutions), and macrosystems (culture, policy, economy) — in Urie Bronfenbrenner's ecological model. A change in one system propagates to the others; adaptation at the individual level is inseparable from adaptation at the family, community, and institutional levels.
+Bronfenbrenner's ecological approach examines development across settings and the relationships between them. A microsystem concerns activities, roles and interpersonal relations within a setting. A mesosystem concerns relationships between settings. An exosystem includes connections involving a setting that does not contain the developing person but can indirectly influence their immediate setting.
 
-(Bronfenbrenner, 1979; Bronfenbrenner & Evans, "The Bioecological Model of Human Development," 2000.)
+(Bronfenbrenner & Morris, "The Bioecological Model of Human Development," ch. 14 in the Handbook of Child Psychology, 6th ed., 2006.)
 
-> "The ecological environment is conceived as a set of nested structures, each inside the other like a set of Russian dolls." (Bronfenbrenner, 1979, p. 3, quoted in [Bronfenbrenner & Evans 2000](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf))
+> "The ecological environment is conceived as a set of nested structures, each inside the other like a set of Russian dolls." (Bronfenbrenner, 1979, p. 3, quoted in [Bronfenbrenner & Morris 2006](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf))
 
 Bronfenbrenner's own later restatement gives the levels. The innermost structure is the microsystem:
 
-> "A microsystem is a pattern of activities, roles, and interpersonal relationships experienced by the developing person in a given setting with particular physical and material characteristics." (Bronfenbrenner, 1979, quoted in [Bronfenbrenner & Evans 2000](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf))
+> "A microsystem is a pattern of activities, roles, and interpersonal relationships experienced by the developing person in a given setting with particular physical and material characteristics." (Bronfenbrenner, 1979, quoted in [Bronfenbrenner & Morris 2006](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf))
 
-Beyond it, the mesosystem is "defined as comprising the relationships existing between two or more settings; in short, it is a system of two or more microsystems," and the exosystem "comprises the linkages and processes taking place between two or more settings, at least one of which does not contain the developing person, but in which events occur that indirectly influence processes within the immediate setting in which the developing person lives." The model's premise is that development is a function of forces emanating from multiple settings and from the relations among these settings — so a problem presented as an individual one may live in a ring the individual does not control.
+Beyond it, the mesosystem is "defined as comprising the relationships existing between two or more settings; in short, it is a system of two or more microsystems," and the exosystem "comprises the linkages and processes taking place between two or more settings, at least one of which does not contain the developing person, but in which events occur that indirectly influence processes within the immediate setting in which the developing person lives." The model's premise is that development is a function of forces emanating from multiple settings and from the relations among these settings.
 
 **Plain words**
-You live inside nested circles (family, workplace, community, culture, economy), and a shift in any one ripples through all the others. Bronfenbrenner's own image is Russian dolls: each structure inside the next. You can't always control the circles, but you can know which one a problem actually lives in. Diagnose the ring before treating yourself.
+Look at both the person's immediate settings and the connections between them. A difficulty may involve relationships between home and school, or influences from a setting the person does not enter. The compendium recommends examining these contexts alongside individual factors.
 
-*For example:* The kid who "can't focus at school" whose real problem is a housing ring, not a brain ring — the fix was the apartment, not the tutoring. Wrong ring, wrong fix.
+*For example:* For a pupil struggling to concentrate, investigate conditions at school and at home rather than assuming the explanation lies only within the pupil.
 ## Psychology parallels
 
 - [[Bronfenbrenner|Bronfenbrenner]] (1979, 2005); the process-person-context-time (PPCT) model (Bronfenbrenner and Morris, 2006); developmental evidence that outcomes emerge from person-environment interactions over time (Lerner, 2006; Sameroff, 2010); social-epidemiological evidence on neighborhood effects on health (Diez Roux and Mair, 2010).

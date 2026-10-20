@@ -57,10 +57,15 @@
   "P100": "Reopened for QC: milestone QC: education context",
   "P163": "Reopened for QC: QC r3: narrow opener, citation",
   "P182": "Reopened for QC: milestone QC: attribute law to James",
-  "P183": "Reopened for QC: milestone QC: preserve qualification"
+  "P183": "Reopened for QC: milestone QC: preserve qualification",
+  "S051": "Reopened for QC: Reopened for QC: advisor checkpoint round: unsupported claims outside quotes; fixes being applied",
+  "SE006": "Reopened for QC: Reopened for QC: advisor checkpoint: scope to James",
+  "SE008": "Reopened for QC: Reopened for QC: advisor checkpoint: remove therapeutic overreach",
+  "SO002": "Reopened for QC: Reopened for QC: advisor checkpoint: mesosystem misclassification + attribution fix",
+  "SO018": "Reopened for QC: Reopened for QC: advisor checkpoint: strong/weak verdict unsupported by opened article"
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T04:26:14+00:00",
+ "updated": "2026-10-20T04:30:04+00:00",
  "band_done": false
 }
