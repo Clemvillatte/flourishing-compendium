@@ -7,7 +7,8 @@
   "SO041",
   "E005",
   "E006",
-  "E020"
+  "E020",
+  "E025"
  ],
  "in_progress": null,
  "flagged": {
@@ -17,6 +18,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:28:59+00:00",
+ "updated": "2026-10-20T06:30:09+00:00",
  "band_done": false
 }
