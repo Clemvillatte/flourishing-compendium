@@ -108,3 +108,10 @@ Opened: NE Books II and X raw HTML downloads (MIT Classics, Ross) — II.1 all-t
 - Rewrite: body rebuilt on II.1/II.3/X.9 (the old "Politics VII.15-17, VIII.1" locator dropped, not opened); Plain words re-derived (lectures-vs-delight framing, soil/argument image grounded in X.9, late-starters note grounded in X.9's grown-up laws passage); For example kept (matches II.1/II.3). Front-matter, reflections, both wikilinks preserved. Validator ok vs HEAD, 144 prose words, 0 dashes. Start recorded before editing.
 - SATURATE: mention hunt run; A109 sits in the education/habituation family with layer links; no underlinked targets found; no new reciprocals proposed.
 - Advisor QC: not due (item 7; next milestone at item 10).
+
+## A110 — Use music and the arts for moral education
+
+Opened: Politics (Ellis trans., Gutenberg 6762) raw download — VIII.5 passages (virtue as rightly enjoying/loving/hating; dispositions imitated by music and poetry; soul altered; youth ought to be instructed; youth attend only to the agreeable); Poetics (Butcher trans., Gutenberg 1974) raw download — IV imitation-instinct passage; NE II.3 (raw ne2.html). All quotes asserted as exact substrings (9/9 OK after one repair: an ellipsis join in the Poetics quote split into two verbatim fragments).
+- Rewrite: body rebuilt on Politics VIII.5 + Poetics 4 + NE II.3 (the old citation's NE II.2 and X.9 locators and Poetics 4-6 range corrected to what was opened; Ellis and Butcher named as translators since they are not Ross); Plain words re-derived (gym-equipment-for-feelings framing); For example kept (matches Poetics IV). Front-matter, reflections, both wikilinks preserved. Validator ok vs HEAD, 181 prose words, 0 dashes. Start recorded before editing.
+- SATURATE: mention hunt run; A110 sits in the education family with layer links and Narrative empathy already links it; no underlinked targets found; no new reciprocals proposed.
+- Advisor QC: not due (item 8; next milestone at item 10).
