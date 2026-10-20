@@ -101,3 +101,10 @@ Opened: NE Books II, V, X raw HTML downloads (MIT Classics, Ross) — II.1 legis
 - Rewrite: body rebuilt on II.1 + V.1 + X.9 (the old "Politics III.1" locator dropped, not opened); Plain words re-derived (doing-before-feeling-like-it + laws-with-teeth); For example (seat-belt) kept, it matches II.1. Front-matter, reflections, both wikilinks preserved. Validator ok vs HEAD (start was recorded before editing, per process correction).
 - SATURATE: mention hunt run; A101 sits in the justice/law family with layer links and Procedural justice already links it; no underlinked targets found; no new reciprocals proposed.
 - Advisor QC: not due (item 6; next milestone at item 10).
+
+## A109 — Start moral education early
+
+Opened: NE Books II and X raw HTML downloads (MIT Classics, Ross) — II.1 all-the-difference sentence (standalone blockquote), II.3 right-education sentence, X.9 seed/earth and passion-directs passages; all quotes asserted as exact substrings of the raw texts (5/5 OK).
+- Rewrite: body rebuilt on II.1/II.3/X.9 (the old "Politics VII.15-17, VIII.1" locator dropped, not opened); Plain words re-derived (lectures-vs-delight framing, soil/argument image grounded in X.9, late-starters note grounded in X.9's grown-up laws passage); For example kept (matches II.1/II.3). Front-matter, reflections, both wikilinks preserved. Validator ok vs HEAD, 144 prose words, 0 dashes. Start recorded before editing.
+- SATURATE: mention hunt run; A109 sits in the education/habituation family with layer links; no underlinked targets found; no new reciprocals proposed.
+- Advisor QC: not due (item 7; next milestone at item 10).
