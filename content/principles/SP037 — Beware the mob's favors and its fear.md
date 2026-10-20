@@ -20,15 +20,15 @@ Spinoza's proposition, in Elwes's translation:
 
 The proof gives the mechanism: "an ignorant man, who has conferred a benefit on another, puts his own estimate upon it, and, if it appears to be estimated less highly by the receiver, will feel pain". The favor comes bundled with an expected valuation, and the giver collects. The note adds the two qualifications: sometimes accepting is necessary ("in cases of necessity could afford us human aid, the most excellent of all things"), and declining itself needs care, "lest we should have the appearance of despising those who bestow them", because a clumsy refusal gives "ground for offence by the very fact of striving to avoid it".
 
-The compendium's reading of the pair of passages: a favor from the crowd is a loan at predatory interest. The crowd's approval and its anger are weather, and weather is not a foundation. Take the applause and the hostility of groups as data about the group, not as verdicts on your course.
+The proposition concerns dealings with people Spinoza calls "ignorant". Its note allows for accepting help when necessary and advises care in refusing, since refusal can itself offend. The Treatise's Preface adds the background: the masses "are led to praise or blame by impulse rather than reason". The compendium applies this caution by asking what a benefit commits the recipient to before accepting it, and by taking a group's applause or hostility as data about the group rather than as verdicts on one's course.
 
 (Ethics IV, Prop. LXX and Note; Theological-Political Treatise, Preface.)
 
 **Plain words**
-When someone does you a big favor you did not ask for, watch what happens next. They set the value of it, and they expect you to carry their price. If you do not act grateful enough, they feel shortchanged, and shortchanged people get angry. Spinoza's free man is not rude about it: he knows sometimes you must accept, and he declines carefully so the refusal itself does not insult. The skill is not refusing all favors. It is never letting a favor set your course.
+Before accepting a favour, ask whether the giver expects a particular return and whether you can agree to it. If you need the help, consider making those expectations explicit. If you decline, pay attention to how you explain the refusal.
 
 *For example:*
-The community leader who accepts the "friendly" sponsorship of the local power-broker and spends the next three years paying the interest: the speeches, the favours, the quiet approvals. The loan was never free.
+Imagined: A local organiser is offered sponsorship by a prominent donor. Before accepting, she asks whether it would commit her to public endorsements and considers declining if it would.
 
 ## Sources
 
@@ -42,4 +42,4 @@ The community leader who accepts the "friendly" sponsorship of the local power-b
 ## Philosophy parallels
 
 - **The crowd is untruth** (Kierkegaard, The Crowd Is Untruth)
-- **Where the many are, there is fear** (Laozi, Daodejing 20)
+- **What all men fear is indeed to be feared** (Laozi, Daodejing 20, Legge translation)

@@ -14,17 +14,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 The claim behind this principle is that the rules of discourse can be designed rather than inherited. Habermas's discourse rules are the canonical formulation:
 
-> Every subject with the competence to speak and act is allowed to take part in a discourse. Everyone is allowed to question any assertion whatever. Everyone is allowed to introduce any assertion whatever into the discourse. Everyone is allowed to express his attitudes, desires, and needs. No speaker may be prevented, by internal or external coercion, from exercising his rights.
+> Every subject with the competence to speak and act is allowed to take part in a discourse. Everyone is allowed to question any assertion whatever. Everyone is allowed to introduce any assertion whatever into the discourse. Everyone is allowed to express his attitudes, desires, and needs. No speaker may be prevented, by internal or external coercion, from exercising his rights as laid down in (1) and (2).
 >
 > (Habermas's rules of discourse, as given in the Stanford Encyclopedia of Philosophy entry on Habermas, §3.1)
 
-The rules describe what argumentation looks like when it is, in the entry's phrasing, "a rule-governed practice, not a verbal free-for-all", insulated from every persuasive force except the "unforced force of the better argument". The deliberative-democracy and group-judgment literatures treat such norms as variables that can be set: who speaks, who interrupts, how disagreement is expressed, what counts as evidence.
+The rules describe what argumentation looks like when it is, in the entry's phrasing, "a rule-governed practice, not a verbal free-for-all", with norms that "insulate discourse from all persuasive forces except the 'unforced force of the better argument'". The compendium applies these philosophical rules to meeting design: specify who may speak, how assertions can be challenged, and how participants can raise needs or objections.
 
 **Plain words**
-Who speaks, who interrupts, and what counts as a good reason are rules somebody made. They can be remade. Most meetings and families run on rules nobody remembers choosing, and the rules, more than the people, set what the group can think.
+For a meeting you organise, decide in advance how people will take turns and question a claim. Make those rules visible to participants and invite suggestions for changing them.
 
 *For example:*
-The team where the loudest voice always wins is redesigned around round-robin turns: same people, same facts, a different conversation. The norm was the hidden variable.
+Imagined: Before a meeting, the chair proposes one uninterrupted turn for each participant, followed by questions about the evidence. The group agrees to try the format at its next meeting.
 
 ## Sources
 
@@ -32,14 +32,14 @@ The team where the loudest voice always wins is redesigned around round-robin tu
 
 ## Psychology parallels
 
-- [[Habermas|Habermas]] (1981) on communicative rationality; deliberative democracy (Fishkin, 2009); group discussion and judgment (Sunstein and Hastie, 2015); psychological safety and team performance (Edmondson, 1999).
+- [[Habermas|Habermas]] on communicative rationality; deliberative democracy (Fishkin); group discussion and judgment (Sunstein and Hastie); psychological safety (Edmondson).
 
 ## Philosophy parallels
 
-- **Habermas**, communicative rationality (1981)
-- **Arendt**, the space of appearance (1958)
+- **Habermas**, communicative rationality
+- **Arendt**, the space of appearance
 - Communication norms are the sociocultural context's discourse infrastructure.
 
 ## Practice
 
-- In meetings, establish norms: equal turn-taking, evidence-based disagreement, and psychological safety (Edmondson, 1999). In online discourse, design for slow thinking rather than fast reaction.
+- In meetings, establish norms: equal turn-taking and evidence-based disagreement. In online discourse, design for slow thinking rather than fast reaction.

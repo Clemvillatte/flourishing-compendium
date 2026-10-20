@@ -55,13 +55,14 @@
   "S073",
   "S089",
   "S120",
-  "SP037",
-  "SP076",
   "SE001",
   "SE016",
-  "SE068"
+  "SE068",
+  "SO043",
+  "SP037",
+  "SP076"
  ],
- "in_progress": "SO043",
+ "in_progress": null,
  "flagged": {
   "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited",
   "BI009": "milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).",
@@ -94,11 +95,13 @@
   "SE001": "Reopened for QC: QC correction: milestone QC repairs",
   "SE016": "Reopened for QC: QC correction: milestone QC repairs",
   "SE068": "Reopened for QC: QC correction: milestone QC repairs",
-  "SO043": "Reopened for QC: QC correction: milestone QC repairs"
+  "SO043": "Reopened for QC: QC correction: milestone QC repairs",
+  "SP037": "Reopened for QC: QC correction: milestone QC repairs",
+  "SP076": "Reopened for QC: QC correction: milestone QC repairs"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T05:01:00+00:00",
+ "updated": "2026-10-20T05:02:02+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

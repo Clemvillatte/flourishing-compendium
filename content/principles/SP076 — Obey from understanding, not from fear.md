@@ -18,17 +18,17 @@ Spinoza draws the distinction in the Treatise's divine-law chapter, in the Adam 
 >
 > (Spinoza, Theological-Political Treatise, ch. IV, Curley translation)
 
-The state-level version of the same analysis is blunt about fear-based compliance: "as long as men act only from fear, they act very unwillingly, and don't recognize the advantage, even the necessity, of doing what they're doing", they care only about "avoiding punishment", and they "rejoice whenever some evil or harm happens to their ruler... when they can, they help to bring them about" (ch. V). Chapter XVI concedes both motives exist in any state, "either freely, or from fear of the supreme punishment", but only the free one holds.
+The state-level version of the same analysis is blunt about fear-based compliance: "as long as men act only from fear, they act very unwillingly, and don't recognize the advantage, even the necessity, of doing what they're doing", they care only about "saving their necks, and avoiding punishment", and they "rejoice whenever some evil or harm happens to their ruler... when they can, they help to bring them about" (ch. V). Chapter XVI recognises both voluntary and fear-based obedience, describing people as bound to obey "either freely, or from fear of the supreme punishment".
 
-The compendium's practical reading: for each rule you live under, and each rule you impose, be able to state the reason or change the rule; a rule you cannot justify is a rule you are teaching people to break quietly.
+The compendium applies the distinction by asking whether people understand a rule's purpose and whether those responsible for the rule can explain it.
 
 (Theological-Political Treatise, ch. IV, V and XVI; Curley translation.)
 
 **Plain words**
-A rule can hold you two ways: because someone is watching, or because you see the point. The first stops working the moment the watching stops. The second survives the supervisor, the exam, the parent's absence. Test a rule you keep: if you cannot say why it is there, you are not obeying it, you are being managed by it. Either find the reason or change the rule.
+Think of one rule you follow. Can you explain its purpose, and is that purpose part of why you follow it? If you set the rule for someone else, make time to explain it and hear their objections.
 
 *For example:*
-Two teenagers under the same curfew: one complies from fear of the phone confiscation, one from understanding the street issue. Same behaviour for a year, and the first one's behaviour ends the week the enforcement slips. The second one has a law; the first has a hostage situation.
+Imagined: A parent asks two teenagers why they keep a curfew. One mentions the possible loss of his phone; the other mentions the safety concern. The parent invites both to discuss whether the arrangement addresses that concern.
 
 ## Sources
 
