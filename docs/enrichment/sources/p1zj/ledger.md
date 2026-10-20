@@ -112,3 +112,10 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "distinct from self-esteem (comparative, fragile)" claim replaced by what the opened text supports (anxiety-buffering with self-esteem partialed out, as summarised there); robust-mental-health claim reduced to further reading (MacBeth & Gumley 2012 unopened). Practice kept (friend-standard exercise).
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Self-compassion, Metta (loving-kindness), The golden rule (pages read before proposing).
+
+## AF078 — Recognise when affect requires professional help: clinical boundaries
+- Evidence: APA "What Is Depression?" patient page (psychiatry.org/patients-families/depression/what-is-depression, reviewed April 2024), fetched this session. Three quoted fragments verified verbatim (definition; diagnostic threshold; treatability). "First step is to see your family physician or psychiatrist" sentence paraphrased from the same fetched page.
+- Scope: other-conditions extension (panic, trauma, rage, numbness) labelled as the compendium's prudence reading, not a diagnostic claim; only the depression page opened. Hofmann et al. 2010 reduced to further reading (wikilink kept). Process incident: the first save ran with a validator FAIL (removed Evidence-based-treatments wikilink); the FAIL broke the state chain so AF078's start/done markers were missing until repaired now; the wikilink was restored in a follow-up commit and the file validates ok.
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocal into Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder (page read before proposing).
+- NOTE: item 15 — advisor milestone sample due with items 11-15 (AF045, AF049, AF055, AF066, AF078).

@@ -33,7 +33,7 @@ The same page adds that "depression is among the most treatable of mental disord
 ## Psychology parallels
 
 - **[[Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder|Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder]]**, listed for comparison (the opened APA page covers depression; the anxiety/PTSD/bipolar pages were not opened for this item)
-- Hofmann et al. (2010) on evidence-based treatments (not opened for this item; cited for further reading)
+- **[[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence|Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]]**, listed for comparison (Hofmann et al., 2010; not opened for this item, cited for further reading)
 
 ## Philosophy parallels
 
