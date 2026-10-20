@@ -187,3 +187,10 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Sources opened: Sartre BN (Barnes, Methuen 1957, Internet Archive OCR): pp. 255 (decentralization), 257 (internal hemorrhage), 261 (bond not of knowing but of being; world made alien). Levinas, Totality and Infinity (Lingis), selected pages 48-51, 197-201 from a university course PDF (Wurzburg): pp. 50-51, 198-199 (page numbers from running heads). Quotes checked by script; OCR 'appcared' is a scan error for 'appeared'.
 - Old cite listed Levinas 1961/1969 without any quote. Now used as a contrast: Levinas's face is explicitly not a thematised gaze and the epiphany of the face is ethical (p. 199). Plain words was a replicate; replaced. Police-car example replaced by an imagined one. Overlap with E035 handled: E035 = shame/keyhole/responses; E067 = ontological claim + Levinas contrast.
 - Self-QC only.
+
+## E069 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: Sartre BN (Barnes) pp. 351, 353 from Internet Archive OCR; Merleau-Ponty PoP trans. Smith (Routledge Classics 2002) from Internet Archive PDF, p. 411 (and p. 410 context); de Beauvoir Second Sex Introduction trans. Parshley (marxists.org). All quotes checked by script (the MP check fails only on the ligature 'fi' in 'field').
+- Not used: a passage 'two views of me and of my body' sits in that PDF as a stray inserted block in ch. 3 (p. 122), not placed in its original chapter; dropped rather than cite an uncertain location.
+- Old cites: Sartre Part III ch. 2 (correct); MP Part II ch. 4 (confirmed: 'Other Selves and the Human World'); de Beauvoir Introduction (confirmed). Plain words was a replicate; replaced. Example imagined. Sartre gives no advice here; the text says the shy man's attempts are useless.
+- Self-QC only.
