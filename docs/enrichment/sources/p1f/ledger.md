@@ -184,3 +184,7 @@
 #### AT025 first-item advisor QC (2026-10-20)
 - Round 1 FAIL with bounded repairs; all applied: "The brief version also works" replaced (Mrazek programme not isolated to 10-min daily practice); muscle-metaphor synthesis replaced with the programme/measures-scoped version; "names the fatigue effect" replaced with "describes the measured decline in performance"; Plain words, For example (Imagined), and Practice replaced with the advisor's texts (unsupported 25-minute prescription and "same gym, same rules" removed); psychology-parallel headings narrowed (no dose-response claim); MacLean quote casing restored to the source's capital "Training produced improvements..."; sentence-level inline source links added to the two study-derived paragraphs; B013 proposal rationale narrowed per the advisor.
 - Validated after repairs: exit code 0 (verified without pipes).
+
+#### AT025 QC round 2 (advisor, 2026-10-20)
+- Round 2: substantive repairs and B013 rationale PASS; citation placement FAIL (paragraph-end links instead of sentence-level). Fixed per the advisor's exact placements: sentence-level links on the first two sentences of each study paragraph, both studies after the synthesis and Plain words first sentences, the relevant study in each psychology-parallel bullet, and the blockquote attribution made a source link. Imagined example and Practice left uncited (no empirical claims).
+- Validated after the link pass: exit code 0 (verified without pipes). Per the advisor's conditional clearance: AT025 accepted; continue to AT031 without another general audit.

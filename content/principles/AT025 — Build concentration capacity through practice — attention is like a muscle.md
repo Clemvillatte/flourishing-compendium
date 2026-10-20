@@ -16,18 +16,18 @@ A randomized trial of intensive meditation training states the problem:
 
 > The ability to focus one's attention underlies success in many everyday tasks, but voluntary attention cannot be sustained for extended periods of time.
 >
-> (MacLean et al., "Intensive meditation training improves perceptual discrimination and sustained attention", Psychological Science, 2010, abstract)
+> (MacLean et al., "Intensive meditation training improves perceptual discrimination and sustained attention", Psychological Science, 2010, abstract — [PubMed Central full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/))
 
-The paper describes the measured decline in performance: sustained-attention failure appears as "a decline in perceptual sensitivity with increasing time on task, known as the vigilance decrement". Its training was roughly five hours a day for three months of "meditation practice that involved sustained selective attention on a chosen stimulus (e.g., the participant's breath)". The abstract reports: "Training produced improvements in visual discrimination that were linked to increases in perceptual sensitivity and improved vigilance during sustained visual attention" ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/)).
+The paper describes the measured decline in performance: sustained-attention failure appears as "a decline in perceptual sensitivity with increasing time on task, known as the vigilance decrement" ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/)). Its training was roughly five hours a day for three months of "meditation practice that involved sustained selective attention on a chosen stimulus (e.g., the participant's breath)" ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/)). The abstract reports: "Training produced improvements in visual discrimination that were linked to increases in perceptual sensitivity and improved vigilance during sustained visual attention" ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/)).
 
-Mrazek and colleagues tested a shorter programme with different outcome measures: they randomly assigned undergraduates to a two-week mindfulness class or a nutrition class. The class met "45 min four times a week for 2 weeks" and required "10 min of daily meditation outside of class", with exercises "requiring focused attention to some aspect of sensory experience", such as the breath sensations. The result: "Mindfulness training improved both GRE reading-comprehension scores and working memory capacity while simultaneously reducing the occurrence of distracting thoughts during completion of the GRE and the measure of working memory" ([Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)).
+Mrazek and colleagues tested a shorter programme with different outcome measures: they randomly assigned undergraduates to a two-week mindfulness class or a nutrition class ([Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)). The class met "45 min four times a week for 2 weeks" and required "10 min of daily meditation outside of class", with exercises "requiring focused attention to some aspect of sensory experience", such as the breath sensations ([Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)). The result: "Mindfulness training improved both GRE reading-comprehension scores and working memory capacity while simultaneously reducing the occurrence of distracting thoughts during completion of the GRE and the measure of working memory" ([Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)).
 
-The studies reported improvements on their particular measures after meditation training. Mrazek's results concern the full course, including classes and daily practice, rather than ten minutes of meditation alone.
+The studies reported improvements on their particular measures after meditation training ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/); [Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)). Mrazek's results concern the full course, including classes and daily practice, rather than ten minutes of meditation alone ([Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)).
 
 (MacLean et al., Psychological Science 21(6), 2010; Mrazek et al., Psychological Science 24(5), 2013.)
 
 **Plain words**
-These studies tested specific training programmes, not whether any short daily routine will improve concentration. For your own practice, choose a manageable exercise, notice when attention wanders, and return to what you were doing.
+These studies tested specific training programmes, not whether any short daily routine will improve concentration ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/); [Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)). For your own practice, choose a manageable exercise, notice when attention wanders, and return to what you were doing.
 
 *For example:*
 Imagined: Before reading, someone chooses a short section to work through. When attention wanders, they return to the paragraph. Afterwards, they note the interruptions and decide how to arrange the next session.
@@ -40,8 +40,8 @@ Imagined: Before reading, someone chooses a short section to work through. When 
 
 ## Psychology parallels
 
-- **Intensive meditation training and sustained visual attention**, sustained-selective-attention practice improved vigilance in a randomized trial (MacLean et al., 2010)
-- **A two-week mindfulness course and cognitive performance**, the course, including classes and daily practice, improved working memory and reading comprehension (Mrazek et al., 2013)
+- **Intensive meditation training and sustained visual attention**, sustained-selective-attention practice improved vigilance in a randomized trial ([MacLean et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/))
+- **A two-week mindfulness course and cognitive performance**, the course, including classes and daily practice, improved working memory and reading comprehension ([Mrazek et al., 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf))
 
 ## Philosophy parallels
 
