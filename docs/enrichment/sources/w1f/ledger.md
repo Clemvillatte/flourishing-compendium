@@ -144,3 +144,7 @@
   (_course_, _line_) rendered as plain words per markup-translation convention.
 - SYNTHESIS FLAG: "the next act is the thing to attend to, not the distant goal" is the
   compendium's gloss on Dewey's flank-movement argument.
+
+### Self-compassion flag resolved (2026-10-20, takeover by worker-w1a-e54f7981)
+
+- The flagged QC item (dash budget 18/3) was resolved by rewording the five body paragraphs (em dashes replaced with commas or a colon; principle links moved from paragraph prose into a new In-the-compendium list section, which preserves every wikilink). Prose dash count now 0. No content claims changed; validator ok on final. The kin-pages sentence and all other content preserved verbatim.
