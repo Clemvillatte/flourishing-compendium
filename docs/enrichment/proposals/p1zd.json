@@ -1,7 +1,21 @@
 {
-  "reciprocal": [
-    {"into": "Truthfulness", "link": "A019 — Practice truthfulness (aletheia)", "why": "A019 works through Nicomachean Ethics IV.7: truthfulness as the mean between boasting and mock modesty in how a person describes themselves."}
-  ],
-  "inline": [],
-  "notes": "p1zd worker proposals; why clauses are reader-facing."
+ "reciprocal": [
+  {
+   "into": "Truthfulness",
+   "link": "A019 — Practice truthfulness (aletheia)",
+   "why": "A019 works through Nicomachean Ethics IV.7: truthfulness as the mean between boasting and mock modesty in how a person describes themselves."
+  },
+  {
+   "into": "Akrasia",
+   "link": "A056 — Recognise akrasia — weakness of will",
+   "why": "A056 sets out Aristotle's reply to Socrates in Nicomachean Ethics VII: why acting against one's own judgement is possible, and the two ways it happens."
+  },
+  {
+   "into": "Akrasia",
+   "link": "A059 — Distinguish incontinence from vice",
+   "why": "A059 shows how Aristotle tells a lapse of will from settled vice, using choice, regret and self-awareness."
+  }
+ ],
+ "inline": [],
+ "notes": "p1zd worker proposals; why clauses are reader-facing."
 }
