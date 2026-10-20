@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 76** — Recognise behavioural challenges in neurodivergence: different patterns
 
-Neurodivergent people (autistic, ADHD, dyslexic and others) often have different behavioural patterns: different energy budgets, different social needs, different sensory processing. The neurodiversity lens treats these as variations to understand rather than defects to correct.
+The principle names neurodivergence broadly (autistic, ADHD, dyslexic and others); the opened studies behind this page concern autism specifically. The survey's own framing is deficit-as-difference: acknowledge the real difficulties and treat the pattern as a variation rather than a defect.
 
 A survey of 657 people with different relations to autism found that views did not split into a simple pro-cure versus pro-identity divide; the authors' summary of their findings:
 
@@ -20,9 +20,9 @@ A survey of 657 people with different relations to autism found that views did n
 
 On the sensory side, an editorial in the same year argues against reducing autism to social deficits: "Sensorimotor and broad cognitive processes underlie both neurotypicals' and autistics' social cognition and behavior", and "Sensory strengths sometimes underlie autistic people's difficulties, especially in dynamic contexts that require multimodal integration" (Kapp, 2013, Frontiers in Integrative Neuroscience 7:38, [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3662878/)).
 
-**Plain words** Before deciding a behaviour is a defect, check what the setting contributes. The same sensory processing that makes a loud open-plan room exhausting is not separate from the person's social behaviour; the editorial's argument is that it underlies it. So the practical question shifts from "how do I fix this person's reaction" toward "what is this room doing to the sensory load". The survey's framing allows both sides at once: acknowledge the real difficulties and treat the pattern as a variation.
+**Plain words** The editorial's argument is that sensory processing is not separate from an autistic person's social behaviour; it underlies it. The practical suggestion this page takes from that is an experiment, not a demonstrated consequence: when a behaviour causes difficulty, try changing the setting as well as, or before, asking the person to change. What works in any individual case is discovered by trying it. The survey's framing allows both sides at once: acknowledge the real difficulties and treat the pattern as a variation.
 
-**For example:** Imagined: an autistic employee struggles in an open-plan office, with noise and uninvited interruption. Working from home, the same work happens with fewer collisions between the person and the environment. Nothing about the person was fixed; the fit changed. What that means for any individual case is a question of assessment and adjustment, not a formula.
+**For example:** Imagined: an autistic employee struggles in an open-plan office, with noise and uninvited interruption. One experiment worth trying is a different setting, a quieter room or working from home, alongside asking what else might help. Whether the fit improves is something the experiment answers; the research does not guarantee it.
 
 ## Psychology parallels
 
