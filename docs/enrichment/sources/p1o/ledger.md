@@ -404,3 +404,19 @@
   consummation sentence. Csikszentmihalyi 1990 and Kahneman 2000 tails
   reduced to bare wikilinks (unopened). First draft failed validation at
   307 words; trimmed and re-validated ok BEFORE done. Validator ok.
+
+### P122 — Turn maintenance into art (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Dewey, Art as Experience (1934; Perigee 1980), the IA full-text
+  PDF already downloaded for P110. Quotes verified verbatim with printed
+  pages from the running headers: p. 5 (intelligent mechanic; bungler
+  comparison), p. 6 (domestic utensils 'wrought with such delighted
+  care'; 'enhancements of the processes of everyday life').
+- Seed statement + locator removed (precedent); 'Let craft redeem the
+  ordinary' aphorism and 'ten thousand chances for either art or
+  resentment' framing dropped from Plain words (re-derived); For example
+  kept on the seed's barista scenario, grounded in the mechanic/bungler
+  distinction. Hanley et al. 2015 attribution reduced (unopened; linked
+  to existing concept 'Mindful attention' after the seed's
+  'Mindful activity studies' link proved unresolved); Layman Pang
+  attribution reduced to bare wikilink (unopened). Validator run before
+  done; first run failed on the unresolved link, fixed, re-validated ok.
