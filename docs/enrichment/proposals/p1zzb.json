@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -43,6 +43,12 @@
    "link": "MO062",
    "why": "A principle on how reward contingencies move motivation toward the controlled side",
    "notes": "MO062 (2026-10-21, worker-p1zzb-9d251b2e): hub inspected; no MO062 occurrence; clause kept descriptive of MO062's own sourced content."
+  },
+  {
+   "into": "Neurodiversity",
+   "link": "MO071",
+   "why": "A principle on how motivational patterns vary with neurology, framed as variation rather than deficit",
+   "notes": "MO071 (2026-10-21, worker-p1zzb-9d251b2e): hub inspected; no MO071 occurrence; grounded in the opened ADDitude Dodson article (interest-based-nervous-system sentence quoted verbatim); ADHD example bounded and attributed to Dodson's clinical account."
   }
  ]
 }

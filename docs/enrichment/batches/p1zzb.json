@@ -2,14 +2,15 @@
  "batch": "p1zzb",
  "done": [
   "MO061",
-  "MO062"
+  "MO062",
+  "MO071"
  ],
- "in_progress": "MO071",
+ "in_progress": null,
  "flagged": {
   "MO061": "inherited psychology-parallel lines (Steger 2012/2006 'predicts motivation and goal attainment') not verified against an opened source - left untouched per protocol (link sections), routed to supervisor for verification or reduction"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T16:38:39+00:00",
+ "updated": "2026-10-20T16:39:31+00:00",
  "band_done": false
 }

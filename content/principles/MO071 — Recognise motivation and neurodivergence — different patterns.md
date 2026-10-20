@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 71** — Recognise motivation and neurodivergence: different patterns
 
-Autistic, ADHD, dyslexic, and other neurodivergent individuals may have different motivational patterns — different interests, different reward sensitivities, different persistence patterns. These are variations, not deficits.
+The clearest documented case of a different motivational pattern is Dodson's clinical account of ADHD:
 
-**Plain words** Neurodivergent motivation follows different rails — autistic deep interest, ADHD urgency, dyslexic workaround creativity. The standard motivational advice (rewards, novelty, routines) works differently too. Get the manual for the machine you actually have.
+> People with ADHD primarily get in the zone by being interested in, or intrigued by, what they are doing. I call it an interest-based nervous system.
 
-*For example:* The autistic person motivated to mastery by genuine interest, unmoved by status or pizza parties — the team that learns this stops trying to incentivise and starts routing work toward the interest — and the work improves dramatically.
+(Dodson, "Secrets of Your ADHD Brain", ADDitude, medically reviewed; [article](https://www.additudemag.com/secrets-of-the-adhd-brain/))
+
+In his account the standard levers do not work: "They know what's important, they like rewards, and they don't like punishment. But for them, the things that motivate the rest of the world are merely nags." Dodson is a clinician writing for families, and the interest-based framing is his, not a consensus definition. The compendium's broader point stands on its own: engagement patterns vary with neurology, and motivational advice that assumes one kind of brain will misfire on the others.
+
+**Plain words**
+Standard advice assumes a brain that gets moving when something is important or rewarded. Some brains do not move for those levers; they move for interest, novelty, challenge or urgency. The skill is to learn which levers actually move you and route work through them, instead of retrying the levers that do nothing.
+
+*For example:* Imagine a person who cannot start the tax filing until the deadline is two days out, yet reorganizes a whole archive the moment a subject fascinates them. That is not a defect of effort; the engagement switches answer to different triggers.
+
+## Sources
+
+- Dodson, "Secrets of Your ADHD Brain", ADDitude (medically reviewed) — [article](https://www.additudemag.com/secrets-of-the-adhd-brain/)
+
 ## Psychology parallels
 
 - **Neurodivergent motivation**, autistic individuals show different interest patterns and reward sensitivity (Happé & Frith, 2006; Gotham et al., 2018)
@@ -30,4 +42,4 @@ Autistic, ADHD, dyslexic, and other neurodivergent individuals may have differen
 
 ## Practice
 
-- If you are neurodivergent, do not judge your motivational patterns by neurotypical standards. Learn your own pattern (interest-driven, detail-focused, etc.) and design around it.
+List the conditions under which you actually get engaged (interest, challenge, novelty, urgency) and note which tasks fall outside them. Route important work through one of those conditions rather than through importance alone.
