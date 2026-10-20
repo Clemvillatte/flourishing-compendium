@@ -1,6 +1,6 @@
 {
   "batch": "p1zm",
-  "revision": 9,
+  "revision": 10,
   "records": [
     {
       "action": "reciprocal",
@@ -57,6 +57,13 @@
       "link": "PP082",
       "why": "Listed for comparison: Grossmann's situation-sensitive psychological framework of wise reasoning",
       "notes": "PP082 links [[Practical wisdom]] as philosophy parallel; the page's situationist line names the pressure PP082's situational finding speaks to; why clause grounded in the opened Grossmann 2017 finding; why clause reduced to labelled comparison per advisor QC (no theoretical-resolution claim)"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Meaning-making",
+      "link": "R024",
+      "why": "Stanner's account of the Dreaming as a moral charter recited in story and song is the tradition-side case for narrative carrying identity and conduct; the page links the psychology parallel",
+      "notes": "R024 links [[Meaning-making]] as psychology parallel; the Meaning-making concept's cited-in list lacks R024; why clause grounded in the opened Common Ground Stanner passages (key-to-conduct, constant recitation of right and wrong)"
     }
   ]
 }

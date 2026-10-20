@@ -24,7 +24,8 @@
   "PP043",
   "PP068",
   "R018",
-  "R022"
+  "R022",
+  "R024"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,6 +51,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:22:56+00:00",
+ "updated": "2026-10-20T11:23:40+00:00",
  "band_done": false
 }

@@ -12,7 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 286** — Practise respect for the Dreaming
 
-Honour the living tradition of the Dreaming as an ongoing relationship between people, land, ancestors, and spiritual beings. The Dreaming is not a past event but a continuing reality that structures the moral and spiritual life of the community. Respect it by learning its stories (where appropriate), caring for Country, and living in accordance with its principles.
+Stanner's classic account of the Dreaming treats it as an ever-present order rather than a past event; he coined the word 'everywhen' for it:
+
+> "One cannot 'fix' The Dreaming in time: it was, and is, everywhen." (Stanner, "The Dreaming", 1956, in White Man Got No Dreaming, 1979; quoted from the reproduction in Common Ground's Dreaming article, verified character-for-character against that carrier)
+
+The same account describes the recitation of "what was done rightly and wrongly in the Dreaming" and the stories as "a 'key' or guide to the norms of conduct, and a prediction of how men will err" — moral law carried by story, song and ceremony, still in force. Respect therefore shows up as practice: learning the stories where the community permits, caring for Country, living by the law.
 
 (Aboriginal SEWB framework; Stanner, "The Dreaming," in White Man Got No Dreaming, 1979.)
 
@@ -26,3 +30,7 @@ Honour the living tradition of the Dreaming as an ongoing relationship between p
 ## Philosophy parallels
 
 - **[[The Dreaming|The Dreaming]]** (Stanner, White Man Got No Dreaming)
+
+## Sources
+
+- [The Dreaming, Common Ground (First Nations-led)](https://www.commonground.org.au/article/the-dreaming) — carrier of the Stanner quotations (everywhen line; recitation and key-to-conduct passages), from his 1956 essay "The Dreaming", in White Man Got No Dreaming (1979); quotes verified character-for-character against this opened page
