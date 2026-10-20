@@ -13,8 +13,8 @@
   "SO010",
   "SO024",
   "SO025",
-  "SO039",
   "SO040",
+  "SO039",
   "SO048"
  ],
  "in_progress": null,
@@ -31,12 +31,12 @@
   "SO010": "QC history: item-10 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels not certified: Wandersman & Florin 2003 / Biglan 2012 / Castro 2010 / Gone 2011 / Mutamba 2021 / Ostrom 1990 claims kept as found. See sources/p1zo/SO010.md",
   "SO024": "QC history: item-15 milestone round 2 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO024.md",
   "SO025": "QC history: item-15 milestone round 2 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO025.md",
-  "SO039": "QC history: item-15 milestone round 2 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO039.md",
+  "SO039": "QC history: item-15 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO039.md",
   "SO040": "QC history: item-15 milestone round 2 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO040.md",
-  "SO048": "QC history: item-15 milestone round 2 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO048.md"
+  "SO048": "QC history: item-15 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO048.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:43:33+00:00",
+ "updated": "2026-10-20T11:46:10+00:00",
  "band_done": false
 }
