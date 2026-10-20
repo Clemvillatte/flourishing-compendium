@@ -4,8 +4,11 @@
   "Koan practice"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Koan practice": "FAST-TRACK evidence note: sources opened raw (no extraction prompt) and both blockquotes verified verbatim: SEP Japanese Zen Buddhist Philosophy section 2 (kōan definition; two-methods sentence; Rinzai embodiment aim), Gateless Gate Case 1 sacred-texts (Mu case + Mumon instruction), Case 29 (wind-and-flag, behind ST071), Wikipedia Kōan (definition, gong'an court-records etymology, checking-questions overview). Principle clauses derived from the principle bodies (Y097 koan-carrying, Y091 who-is-aware, B139 what-is-this/Seung Sahn, Y063 YS 1.32 one practice, CO052 DDJ 2). Unverified details from round 1 removed (compiler date, best-known, joint translator credit); related-concept glosses grounded or reduced to bare links. Advisor round-2 repairs applied."
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:49:19+00:00"
+ "updated": "2026-10-20T06:52:35+00:00",
+ "band_done": false
 }
