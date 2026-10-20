@@ -245,3 +245,17 @@ Claim and state transitions are pushed separately for interruption safety.
   unverified. Original wikilinks and reflections preserved.
 - Saturation: linked concepts and Progressive refinement in perceptual
   learning already cite B137; no duplicate or construct-equivalence edge.
+
+## B149: Respect what belongs to others (2026-10-20)
+
+- Search "AN 10.176 Cunda taking not given"; opened
+  https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html .
+  Exact quote is the complete second abstention sentence in Skillful
+  Bodily Action. Following property/theft sentence and introductory
+  ritual/conduct context support the attributed prose.
+- Credit/time are explicitly ethical comparisons, not things the source
+  literally lists as possessions. Plain words distinguish accessibility
+  from permission. Notebook example is expressly imagined.
+- Removed unverified reciprocity/fairness mechanism. Axelrod, Mauss and
+  Locke references remain inherited and unverified.
+- No original wikilinks exist in this entry; none added on a vague parallel.

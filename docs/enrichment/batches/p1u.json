@@ -24,6 +24,6 @@
   "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed"
  },
  "missing_concepts": [],
- "sources_checked": 15,
- "updated": "2026-10-20T02:25:43+00:00"
+ "sources_checked": 16,
+ "updated": "2026-10-20T02:26:20+00:00"
 }
