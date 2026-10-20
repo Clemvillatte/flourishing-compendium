@@ -8,15 +8,15 @@ tags: ["psych/attention", "psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-Load theory of attention is Nilli Lavie's account of selective attention, offered as a resolution to the long-standing debate between early and late selection (Lavie, 2005).
+Load theory of attention is Nilli Lavie's account of selective attention, offered as a resolution to the long-standing debate between early and late selection ([Lavie, 2005](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)).
 
 The theory's central prediction, in Lavie's own review of it:
 
-> "This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors." (Lavie, 2005, "Distracted and confused?: Selective attention under load", Trends in Cognitive Sciences, doi:10.1016/j.tics.2004.12.004, [open lab PDF](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
+> "This led to the predictions that high perceptual load that engages full capacity in relevant processing would leave no spare capacity for perception of task-irrelevant stimuli. In situations of low perceptual load, however, any capacity not taken up in perception of task-relevant stimuli would involuntarily 'spill over' to the perception of task-irrelevant distractors." (Lavie, 2005, "Distracted and confused?: Selective attention under load", Trends in Cognitive Sciences 9(2), 75-82, section "Perceptual load studies: behavioural experiments", [open lab PDF](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf))
 
 ### Two loads, opposite directions
 
-The distinction the theory turns on: high perceptual load leaves no capacity for processing what is irrelevant to the task, while load on cognitive-control processes such as working memory instead increases distractor processing (Lavie, 2005). The compendium cites the theory from its filtering and single-tasking principles, among them AT015 and AT016.
+In Lavie's account, perceptual processing that exhausts available capacity leaves no spare capacity for distractors, while loading cognitive-control processes can increase distractor processing ([Lavie, 2005](https://labs.wsu.edu/attention-perception-performance/documents/2016/05/attentional-load-review_lavie_05.pdf)). The compendium cites the theory from its filtering and single-tasking principles, among them AT015 and AT016.
 
 ## Related concepts
 

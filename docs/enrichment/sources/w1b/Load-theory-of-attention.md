@@ -50,3 +50,13 @@
   journal and doi.
 - Validator: fast-track profile, ok, 0 fails, 1 warning (fewer than 3 Related lines,
   expected on a fast-track item with one existing concept neighbour).
+
+## Advisor QC round 3 (2026-10-20)
+
+- Two-load sentence qualified per the quote's own terms: "In Lavie's account, perceptual
+  processing that exhausts available capacity leaves no spare capacity for distractors,
+  while loading cognitive-control processes can increase distractor processing."
+- Quote locator supplied: Trends in Cognitive Sciences 9(2), 75-82, section "Perceptual
+  load studies: behavioural experiments" (verified by a targeted re-read of the PDF
+  for its section headings and printed volume/issue/pages).
+- Inline citations converted to links to the opened PDF.
