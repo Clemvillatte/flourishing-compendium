@@ -69,6 +69,7 @@ source; anything not opened is recorded as inherited and unverified.
   claim; replaced with the set-it-down-for-a-week test. Old seed body's
   inherited Kasser 2002 claim tail ("predicts lower life satisfaction") trimmed
   to a bare attribution (unopened), same standard as D025.
-- Saturation: no new reciprocal found — Materialism concept already the linked
-  target; no principle in the corpus quotes DDJ 24 besides this page (mention
-  sweep "tiptoe").
+- Saturation: D101 (Drop pretense: stop standing on tiptoe) is built on the same
+  DDJ 24 passage — its body quotes the tiptoe lines; natural sibling principle.
+  Reciprocal D103 <-> D101 added to proposals. Materialism concept already the
+  linked psychology target.
