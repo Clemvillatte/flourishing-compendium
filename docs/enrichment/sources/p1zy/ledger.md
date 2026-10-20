@@ -85,3 +85,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y107 (2026-10-21)
 - Arnold Gita ch. 17 (austerity of act, speech, mind; Sattwan/Rajas/Tamas grading; "devils devoted" for hypocritical penance). Quotes verified; only difference is a line-break space after "--".
 - Old text said austerity of body is "reverence, cleanliness, non-harm"; Arnold lists worship, reverence of elders, purity, rectitude, the Brahmacharya vow and non-injury. Old claim "austerity performed for display is named as demonic" refined: display is Rajas ("rash and vain"); "devils devoted" refers to self-sufficient, hypocritical penance not enjoined by rule. Monthly practice and privacy rule are the principle's; labelled. Old cite 17.14-19 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y113 (2026-10-21)
+- Arnold Gita ch. 5 (Arjuna's question; "the new scholar talks as they were two") and ch. 3 ("two paths... yet these are one"; "no man shall 'scape from act by shunning action"). Quotes verified; "--" spacing and line breaks normalised.
+- Old text said the Gita calls the distinction one "children argue over"; Arnold says "the new scholar", so "children" is dropped as a quote and flagged. "Each is the other done properly", "the curriculum alternates" and the insight/action rule are the principle's; labelled. Old cites 5.4-5.5, 3.3 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only.
