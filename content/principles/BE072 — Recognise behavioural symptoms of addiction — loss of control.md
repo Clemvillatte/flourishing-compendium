@@ -28,8 +28,8 @@ Use that feels difficult to control and continues despite harm is what this defi
 - [NIDA (2018), DrugFacts: Understanding Drug Use and Addiction](https://nida.nih.gov/publications/drugfacts/understanding-drug-use-addiction)
 ## Psychology parallels
 
-- **Addiction as behavioural disorder**, loss of control is a core feature (Koob & Le Moal, 2008; APA, 2022)
-- **Evidence-based treatments exist**, contingency management, CBT, motivational interviewing, and medication are effective (Koob & Le Moal, 2008; Miller & Rollnick, 2013)
+- **Difficulty controlling drug use despite harm**, NIDA's definition emphasizes compulsive use or use that is difficult to control despite harmful consequences (NIDA, 2018)
+- **Treatment planning**, NIDA recommends ongoing treatment reviewed and adjusted to the patient's response (NIDA, 2018)
 
 ## Philosophy parallels
 
@@ -39,4 +39,4 @@ Use that feels difficult to control and continues despite harm is what this defi
 
 ## Practice
 
-- If controlling a substance or behaviour is repeatedly difficult despite harm, the compendium's step is to bring it to a health professional. NIDA describes treatment as ongoing and adjusted to the patient's response.
+- If controlling substance use is repeatedly difficult despite harm, the compendium's step is to bring it to a health professional. NIDA describes treatment as ongoing and adjusted to the patient's response.
