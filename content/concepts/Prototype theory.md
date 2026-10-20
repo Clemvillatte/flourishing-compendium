@@ -7,7 +7,7 @@ file: "Prototype theory"
 tags: ["psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 ---
-Prototype theory is Eleanor Rosch's account of how natural-language categories work: membership is graded by similarity to the category's best examples, its prototypes, rather than fixed by all-or-none rules or necessary conditions. The compendium also carries the same account under the name categorization theory: categories are organised around best examples graded by family resemblance. Rosch's account of prototypes describes categories with internal structure: some members are judged better examples than others. Her 1978 chapter relates prototypicality to attributes shared within a category and differences from contrasting categories.
+Prototype theory is Rosch's account of natural-language categories. Rosch describes categories with internal structure: some members are judged better examples than others. Her 1978 chapter relates prototypicality to attributes shared within a category and differences from contrasting categories.
 
 > Most, if not all, categories do not have clear-cut boundaries. — Rosch, ["Principles of categorization" (1978), in Cognition and categorization, The horizontal dimension: internal structure of categories: prototypes"](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/9778_083247.pdf)
 

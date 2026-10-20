@@ -29,7 +29,7 @@ Ryff's critique targeted two prior indexes: Bradburn's affect balance, built for
 ## Related concepts
 
 - [[Eudaimonic well-being]] — the Greek-anchored reading the model builds on
-- [[The two-factor model of well-being]] — the hedonic measure-family the model was defined against
+- [[The two-factor model of well-being]] — Keyes' two-factor model
 - [[Psychological needs theory]] — the self-determination account of the same outcomes
 - [[Complete mental health model]] — the Keyes synthesis combining the two traditions
 - [[Psychological richness]] — the third, neglected aspect Oishi and Westgate added

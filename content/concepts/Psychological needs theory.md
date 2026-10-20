@@ -24,7 +24,7 @@ Basic psychological needs theory (BPNT) formalized three propositions: there are
 - [[MO018 — Recognise the difference between needs and wants — not all desires are equal]] — the needs-wants distinction with the Epicurean parallel.
 - [[ST300 — Three Basic Needs]] — the story entry on Deci and Ryan's three needs.
 - [[A001 — Make eudaimonia the organising end of your life]] — the Aristotle connection Ryan and colleagues develop explicitly.
-- [[A095 — Practise self-sufficiency (autarkeia)]] — the Stoic counterpart of autonomy read as self-sufficiency.
+- [[A095 — Practise self-sufficiency (autarkeia)]] — the Stoic practice of self-sufficiency.
 
 ## Field
 
@@ -34,7 +34,7 @@ Motivation · Psychological science
 
 - [[Self-determination]] — the parent theory
 - [[Autonomous motivation]] — the motivation type need satisfaction yields
-- [[Controlled motivation]] — its counterpart under need thwarting
+- [[Controlled motivation]]
 - [[Intrinsic motivation]] — the prototype the needs were first studied through
 - [[Eudaimonic well-being]] — the well-being concept the theory predicts need satisfaction into
 

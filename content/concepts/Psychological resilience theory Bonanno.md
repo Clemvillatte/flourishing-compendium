@@ -20,7 +20,7 @@ The theory's core distinction is between resilience and recovery, as the 2011 re
 - [[AF013 — Train emotional recovery — the ability to return to baseline]] — carries the recovery-versus-resilience distinction from the same 2004 paper.
 - [[PP044 — Practise coping flexibility]] — Bonanno and Burton's regulatory flexibility theory, the process account of how the resilient trajectory is maintained.
 - [[ST321 — Bonanno's Resilience]] — the story entry on the theory.
-- [[D089 — Grief without destruction]] — Zhuangzi drumming on a basin after his wife's death: an ancient instance of stable functioning across loss.
+- [[D089 — Grief without destruction]] — Zhuangzi's story of drumming on a basin after his wife's death.
 - [[A028 — Practice resilience in adversity]] — Aristotle's NE I.10: the virtuous bear fortune in a seemly way, acting nobly in the circumstances.
 - [[A010 — Recognise that fortune can overturn happiness]] — the same Aristotle chapter's admission that great reverses can mar bliss.
 - [[D012 — Model yourself on water]] — the Daodejing 8 model of benefiting all things from the low place.
@@ -42,7 +42,7 @@ Affect · Psychological science
 
 - [[Regulatory flexibility theory]] — the resilience framework this theory explains
 - [[Stress inoculation training]] — the outcome the training aims at
-- [[Coping flexibility]] — the individual-difference process the trajectory depends on
+- [[Coping flexibility]]
 - [[Post-traumatic growth]] — the distinct construct of change beyond baseline, not to be confused with the resilience trajectory
 - [[Adaptation to life transitions research]] — the longitudinal research tradition the trajectory method belongs to
 

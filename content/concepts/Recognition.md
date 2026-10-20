@@ -7,13 +7,15 @@ file: "Recognition"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Recognition, in the tradition running from Hegel through Axel Honneth, is the relation through which persons become selves: the self exists only through being recognized by another, and the struggles over it structure love, rights and solidarity. The concept has both a normative and a psychological dimension, and misrecognition harms the self: on the entry's formulation, it hinders or destroys persons' successful relationship to their selves.
+Recognition involves affirming another person's status (for example, as an autonomous agent) and often obligations to treat that person accordingly. Most theories discussed in the entry hold that developing a practical identity depends on feedback from other people and society, and that misrecognition hinders or destroys persons' successful relationship to their selves. The tradition runs from Hegel through Axel Honneth, and the struggles over recognition structure love, rights and solidarity.
 
-> They have been interpreted as genealogically distinct stages along which individual persons gain self-confidence within loving relationships, self-respect in the legal realm and self-esteem via the recognition of their accomplishments by society (Honneth 1995, ch. 5). — Iser, ["Recognition" (rev. 2026), Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/recognition/)
+Iser summarises three dimensions of recognition through Honneth's account: love, legal respect and social esteem.
+
+> They have been interpreted as genealogically distinct stages along which individual persons gain self-confidence within loving relationships, self-respect in the legal realm and self-esteem via the recognition of their accomplishments by society (Honneth 1995, ch. 5). — Iser, ["Recognition" (rev. 2026), §2 "Four Forms of Recognition", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/recognition/)
 
 ### The theory's structure
 
-The entry grounds the concept in Hegel's development of a Fichtean motif: consciousness of oneself and one's autonomy requires being summoned by the free action of another subject, and in the Phenomenology of Spirit the interpersonal encounter culminates in a life-and-death struggle in which the master's victory defeats itself, since recognition from a mere slave does not count as recognition from an autonomous judge. Adequate recognition can therefore only be achieved within an institutionalized order securing genuinely mutual recognition. In Hegel's mature Philosophy of Right, the three spheres of love within the family, contractual respect within civil society, and solidarity within the state are supposed to be necessary to actualize individual autonomy as social freedom. Honneth's reading, the entry records, treats these as stages in which persons gain self-confidence in love, self-respect in the legal realm, and self-esteem via society's recognition of accomplishments, and contemporary recognition theory grounds social justice in the claim that justice is not primarily concerned with how much a person should have but with what kind of standing vis-à-vis other persons she deserves.
+Iser traces mutual recognition through Fichte and Hegel. His account presents Hegel's master–slave encounter as a failure to achieve mutual recognition, and connects Hegel's later treatment of love, contractual respect and solidarity with social freedom. The entry describes a recognition-based approach to justice centred on people's standing in relation to others.
 
 ### In the compendium
 
@@ -22,14 +24,14 @@ The entry grounds the concept in Hegel's development of a Fichtean motif: consci
 - [[E076 — Practise the interdependence of freedoms]] — freedom as an intersubjective achievement, citing Hegel's Phenomenology of Spirit.
 - [[R002 — Practise humanity toward others]] — Tutu's ubuntu: a person is a person through other persons.
 - [[R012 — Practise dignity-affirming action]] — the ubuntu pairing of others' dignity with one's own.
-- [[R031 — Practise mana]] — the Māori tradition's inherent dignity and authority, recognised and upheld.
-- [[R100 — Practise greeting as ethical act]] — Levinas's welcome of the face as the ethical encounter recognition theory generalises.
+- [[R031 — Practise mana]] — presents mana in terms of dignity and authority.
+- [[R100 — Practise greeting as ethical act]] — quotes Levinas on welcoming the Other in conversation.
 
 ## Related concepts
 
-- [[Cultural recognition]] — the identity-politics branch: esteem for specific features
-- [[Dignity]] — the standing equal respect institutionalizes
-- [[Identity development]] — the psychological counterpart: identity shaped by the feedback of others
+- [[Cultural recognition]]
+- [[Dignity]]
+- [[Identity development]]
 
 ## Sources
 

@@ -664,3 +664,46 @@
   namespace-audit entry. Saturation: skipped per fast-track §1a (degree 9
   < 15); no cross-link proposals filed. Advisor QC: not due (item 14; next at
   item 15).
+
+## Recognition (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible; item-15 milestone)
+
+- OPENED: the SEP "Recognition" entry (2026 revision,
+  https://plato.stanford.edu/entries/recognition/) — raw fetch; the blockquote
+  (Honneth three-spheres sentence, §2) verified verbatim in the fetched text,
+  locator added. LIMITATION recorded per advisor: the fetch of the SEP entry
+  was truncated (relevant §§1-2 available; the whole entry was not read), and
+  this and several earlier items' "verified verbatim" claims relied on
+  prompt-extracted fetches (Scribd/Leroy, SciSpace/MacLeod, PubMed/Happé-Frith,
+  Encyclopedia.com/Freud, ERIC/Bonanno-2004) rather than unprompted raw text;
+  the raw-fetch standard was met for Workability, Atkinson, IEP-Yoga,
+  Shaver-Mikulincer, Rosch-1978, Ryan-Deci-2022, Bonanno-2011, Ryff-1989 and
+  the SEP Recognition quote. Prompt-extraction reliance is disclosed here
+  rather than re-verified (session ending; flagged for the supervisor).
+- Advisor QC round 1 (item-15 milestone): NOT READY; repairs applied:
+  (1) opening replaced with the entry-bounded formulation (affirming status +
+  practical-identity dependence; "persons become selves" overreach removed);
+  (2) blockquote kept with "They" introduced and §2 locator, attributed to
+  Iser; (3) historical paragraph shortened to source-bounded claims (Fichte/
+  Hegel master-slave as failure of mutual recognition; Philosophy of Right
+  spheres; recognition-based approach to justice); (4) R100/R031 clauses made
+  literal; Related glosses reduced (Cultural recognition gloss removed — the
+  entry covers both equal-respect and esteem readings); (5) staging-pattern
+  hit ("not merely... but") caught by validator and rewritten; em-dash budget
+  fix (parenthetical + colon).
+- MILESTONE ROUND-2 REPAIRS across the session's w1h items (all validated ok,
+  0 lost links, front-matter identical): Prototype theory — duplicate-name
+  sentence and original opening removed, advisor's two-sentence opening in
+  place (the earlier "retained both" defect the advisor flagged is now
+  actually fixed in the saved file); Psychoanalysis — "last lecture" and
+  "Lecture XXXI" claims removed from the attribution (p. 80 kept, carrier
+  linked), E105 "counter-ideal" clause made literal, merged-seed Cited-in
+  area consolidated into one heading with all 8 links kept; Psychological
+  needs theory — A095 gloss made literal, Controlled motivation gloss removed;
+  Bonanno — D089 clause made literal (no "ancient instance of stable
+  functioning" claim), Coping flexibility gloss removed; Psychological
+  well-being — two-factor-model gloss corrected to "Keyes' two-factor model"
+  (the page read: seed "Keyes, 2002"; my earlier Bradburn guess was wrong and
+  is corrected).
+- w1g released items: no edits made outside the held band per the advisor;
+  the verification-record limitation above also covers the w1g items and is
+  routed to the supervisor via the taskboard.
