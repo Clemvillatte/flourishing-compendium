@@ -12,16 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 67** — Keep promises from strength
 
-The free person keeps faith, Spinoza says, but not out of fear; the honest person is honest because honesty is the strongest policy for a being that lives among others and must be believed. A promise kept from fear is hostage behavior and ends when the hostage-taker's attention wanders. Practically, audit your commitments: keep them, and know why you keep them, because the why determines whether the keeping survives changed circumstances.
+Ethics IV.72 states the free man's rule: he never acts fraudulently, but always in good faith. The proof tests the hardest case, breaking faith to escape the danger of present death, and argues by generalisation: if reason persuaded a man to deceive in that case, it would persuade all men to act likewise, and then reason would persuade men not to agree in good faith to unite their forces, or to have laws in common — which is absurd. The keeping of faith, on this argument, is not a rule for the protected; it is what makes common life possible.
 
-(Ethics IV, P72; the free person never acts fraudulently but always in good faith.)
+As a compendium exercise, audit your commitments and note the why: kept because watched, or kept because being believed is part of how you live with others.
 
-**Plain words** The free person keeps faith, but not out of fear — honesty is the strongest policy for a being that lives among others and must be believed. A promise kept from fear is hostage behaviour and ends when the threat does. Keep promises from strength; they outlast the enforcement.
+> "The free man never acts fraudulently, but always in good faith." (Ethics IV.72, Elwes)
 
-*For example:* The employee honest only while watched, and the one honest because their whole position is built on being believed — one virtue evaporates with the supervisor, the other survives the restructuring. Same conduct; different foundations; different half-lives.
+**Plain words**
+Ask why a promise is kept. If the answer is the watcher, the keeping ends with the watcher. The argument gives a different foundation: trust is what lets people combine forces and share laws, so a reason that licensed deceit for anyone would dissolve the very thing it was meant to serve.
+
+**For example**
+In an imagined application, an employee notes that they are honest only while supervised, and asks what their word is worth to the people who will still be around after the next restructuring.
+
+## Sources
+
+- [The Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — IV.72 with proof
+
 ## Psychology parallels
 
-- **[[Authenticity|Authenticity and behavioral integrity]]**, the research linking acting in line with values to well-being (Wood et al., 2008, authenticity research)
+- **[[Authenticity|Authenticity and behavioral integrity]]** (Wood et al., 2008)
 
 ## Philosophy parallels
 
