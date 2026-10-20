@@ -5,6 +5,18 @@
       "link": "Cultural psychology",
       "why": "Markus and Kitayama examine these construals in relation to culture",
       "notes": "w1e fast-track Cultural psychology: obviously missing reciprocal, target page has no backlink (checked 2026-10-20)"
+    },
+    {
+      "into": "Recognition",
+      "link": "Cultural recognition",
+      "why": "Taylor's politics of recognition applies this account to cultural identities",
+      "notes": "w1e fast-track Cultural recognition: obviously missing reciprocal, target has no backlink (checked 2026-10-20)"
+    },
+    {
+      "into": "Mutual recognition",
+      "link": "Cultural recognition",
+      "why": "the person-to-person form of the demand that cultural recognition politicizes",
+      "notes": "w1e fast-track Cultural recognition: obviously missing reciprocal, target has no backlink (checked 2026-10-20)"
     }
   ],
   "inline": []
