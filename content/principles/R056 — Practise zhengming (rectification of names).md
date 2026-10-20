@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 318** — Practise zhengming (rectification of names)
 
-Use language accurately and call things by their proper names. Asked what he would do first if entrusted with a state, Confucius answered: "What is necessary is to rectify names." The reason is a chain that runs from naming to conduct: "If names be not correct, language is not in accordance with the truth of things. If language is not in accordance with the truth of things, affairs cannot be carried on to success." (Confucius, The Analects 13.3, tr. Legge.)
+Use language accurately and call things by their proper names. Asked what he would do first if entrusted with a state, Confucius answered: "What is necessary is to rectify names." The reason is a chain that runs from naming to conduct: "If names be not correct, language is not in accordance with the truth of things. If language be not in accordance with the truth of things, affairs cannot be carried on to success." (Confucius, The Analects 13.3, tr. Legge.)
 
 One modern application is personal: "What the superior man requires is just that in his words there may be nothing incorrect." For a life rather than a state: be precise in your speech, honest in your self-descriptions, and clear about what you mean. Sloppy naming gives sloppy action somewhere to hide.
 

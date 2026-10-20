@@ -12,15 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 369** — Practise the common good
 
-Seek the common good, not merely your private good or the aggregate of private goods. Aristotle opens the Politics with the thought that every community aims at some good, and that the political community, "which is the highest of all, and which embraces all the rest, aims at good in a greater degree than any other, and at the highest good." (Aristotle, Politics I.1, tr. Jowett, https://classics.mit.edu/Aristotle/politics.1.one.html.) Its aim is not bare life: "a state exists for the sake of a good life, and not for the sake of life only." (III.9.)
+Seek the common good, not merely your private good or the aggregate of private goods. Aristotle opens the Politics with the thought that every community aims at some good, and that the political community, "which is the highest of all, and which embraces all the rest, aims at good in a greater degree than any other, and at the highest good." (Aristotle, Politics I.1, tr. Jowett, https://classics.mit.edu/Aristotle/politics.1.one.html.) Its aim is not bare life: "But a state exists for the sake of a good life, and not for the sake of life only: if life only were the object, slaves and brute animals might form a state, but they cannot, for they have no share in happiness or in a life of free choice." (III.9.)
 
-The classic definition of the common good is structural, not aggregative: "the common good, that is, the sum of those conditions of social life which allow social groups and their individual members relatively thorough and ready access to their own fulfillment." (Vatican II, Gaudium et Spes 26.) The common good is not achieved by maximising individual utility but by creating the social, political, and cultural conditions for shared flourishing.
+The formulation in Gaudium et Spes 26 is structural, not aggregative: "the common good, that is, the sum of those conditions of social life which allow social groups and their individual members relatively thorough and ready access to their own fulfillment" (Vatican II, Gaudium et Spes 26) — the social, political, and cultural conditions for shared flourishing.
 
-(Aristotle, Politics I.1, III.9; Vatican II, Gaudium et Spes 26; MacIntyre, 1981, After Virtue; Sandel, 2009, Justice: What's the Right Thing to Do?)
+(Aristotle, Politics I.1, III.9; Vatican II, Gaudium et Spes 26.)
 
-**Plain words** Private goods are things you can buy alone; the common good is whatever only works if it works for everyone — the school, the drainage, the trust that a promise is kept. It is not private goods added up, and it is not whatever the majority wants. Ask of any choice not just "good for me?" but "does it build the thing we all depend on?"
+**Plain words** Some goods are mine alone to secure; others only exist if we secure them together — the school, the drainage, the trust that a promise is kept. The common good is that second kind: a condition, not a sum. Ask of any choice not just "good for me?" but "does it build the thing we all depend on?"
 
-*For example:* The neighbourhood that could each buy generators — or together fix the drainage that floods every one of them; the aggregate purchase loses to the common good.
+*For example:* The neighbourhood that could each buy generators to protect their own doorways — or together repair the drainage that floods every one of them. The second is a different kind of good, and noticing the difference is what the principle asks.
 ## Psychology parallels
 
 - **[[Prosocial motivation|Prosocial motivation and collective well-being]]** (Grant, 2008)

@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 1,
+ "revision": 2,
  "records": [
   {
    "action": "reciprocal",
@@ -8,6 +8,27 @@
    "link": "PP005",
    "why": "The paradox that directly pursuing good feelings undermines them is the practical face of PP005's distinction between feeling good and doing well.",
    "notes": "Proposed by worker-p1zb-9b3f2e68 during PP005 saturation check; Sidgwick attribution taken from the concept page's own Sources."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Natural goodness of the unformed human",
+   "link": "R059",
+   "why": "The concept page already lists R059 for its Mencian moral-sprouts basis; the principle's philosophy parallels would return the link.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Moral cultivation (xiushen)",
+   "link": "R059",
+   "why": "The concept page already lists R059; the sprouts principle is about cultivating beginnings, which is the xiushen idea.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R059 round-4 QC; concept page (opened) links R059; principle currently lacks the return link."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Common flourishing",
+   "link": "R107",
+   "why": "The concept page already lists R107; the common-good principle's philosophy parallels would return the link.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during R107 round-4 QC; concept page (opened) links R107; principle currently lacks the return link."
   }
  ]
 }

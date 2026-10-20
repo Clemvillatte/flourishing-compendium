@@ -18,7 +18,7 @@ The brake has an engine behind it. Asked what perfect virtue looks like, Confuci
 
 (Confucius, The Analects 6.30, 12.2, 15.24; [[The doctrine of the mean|The Doctrine of the Mean]], ch. 13.)
 
-**Plain words** Before you send it, forward it or say it, run it through the landing test: if this landed on me, would I want it? One question, both halves of the rule — the things you stop doing because you would hate to receive them, and the things you start doing because you would love to.
+**Plain words** The rule cuts both ways at once. Whatever you would hate arriving in your own inbox, stop sending it; whatever you would love arriving, start passing it on. Restraint and help are the same skill, run in opposite directions.
 
 *For example:* The person who stops forwarding the cruel joke because they know exactly how it feels to be its subject — and starts forwarding the opportunity because they know how that lands too.
 ## Psychology parallels

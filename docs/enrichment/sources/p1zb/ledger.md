@@ -310,3 +310,44 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   (inherited psychology parallels labels) not opened this session — left as inherited.
 - Saturation: reciprocal links confirmed in Desire experience-sampling, Discipline of rest
   (both list S013). No new proposal warranted.
+
+## Round 4 QC repairs (advisor, items 16-20: R059 R064 R087 R107 S013)
+- R056 (carryover fix): "If language is not" restored to source verbatim "If language be not"
+  in the body quote (round-3 patch had introduced the corruption).
+- R059: four-feelings quote split from the four-limbs sentence (separate source paragraphs,
+  both now quoted exactly); universality framed as Mencius's argument; cultivation instruction
+  grounded in the opened 2A6 continuation ("give them all their development and completion",
+  "play the thief with themselves"); closing citation line restored as (Mencius 2A6.) — 6A6/6A10
+  removed as unverified inherited citations no longer needed; example deuniversalised ("a person
+  at the scene... on Mencius's account").
+- R064: plain words rewritten to demonstrate the choice (stop sending / start passing on);
+  landing-question now appears only in the body.
+- R087: "at the start of his sketch" removed; optimist sentence re-quoted as fragments
+  preserving the source's internal double quotes ("turn out for the best"); "I hope in thee
+  for us" presented as a quoted phrase with the elaboration paraphrased ("perhaps the most
+  adequate and the most elaborate expression"); plain words re-derived through the relational
+  point (stay available to someone).
+- R107: III.9 quote extended to the full source sentence; GS 26 quote presented as an excerpt
+  without substituted terminal punctuation; "classic definition" replaced by "the formulation
+  in Gaudium et Spes 26"; categorical "not achieved by maximising individual utility" removed;
+  MacIntyre/Sandel removed from the citation line (unverified inherited; GS 26 + Aristotle now
+  carry the claims); plain words rewritten (condition, not a sum); For-example comparison fixed
+  (no declared winner).
+- S013: first sentence attributed to Epictetus; Ench. 1 presented as paraphrase (source has
+  Greek parentheticals removed in any excerpt); Ench. 2 ellipsis fixed ("But if you attempt...");
+  the Ench. 2 qualification retained ("destroy desire completely" for the present, powers
+  "only slightly and with exceptions and with remission"); plain words softened ("the practice
+  aims at disappointment losing its sting"); Hofmann parallel label narrowed to the verified
+  figures (current desire ~50% of signals, ~42% resisted — verified in the open authors' 2015
+  chapter describing the 2012 study, carlsonschool.umn.edu PDF, opened).
+- Meditations removal (S013) precision: Gutenberg 2680 (title "Meditations"; translator's preface
+  lists George Long, 1862 among renderings) — the sections printed as Book VI section 41 and
+  Book VII section 33 were opened and do not carry the claim in that text; removed rather than
+  replaced, with this note in place of the earlier "Long's Meditations" shorthand.
+- Saturation corrections: the earlier "reciprocal links confirmed" phrasing overstated — the
+  concept pages listed in the per-item entries are one-directional links (concept → principle).
+  Decisions recorded: proposals added to proposals/p1zb.json (revision 2) for Natural goodness
+  of the unformed human ← R059, Moral cultivation (xiushen) ← R059, Common flourishing ← R107.
+  No action for Fredrickson's positivity portfolios ← R064 and Discipline of rest ← S013 (both
+  concept pages list the principles in hub-style lists; the connection to the principle's
+  specific claims is loose, and the principles' existing parallels already cover their ground).

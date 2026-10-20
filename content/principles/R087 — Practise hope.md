@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 349** — Practise hope
 
-Maintain hope as a disposition, not merely as an expectation of specific outcomes. Marcel contrasts it with optimism at the start of his sketch of a metaphysic of hope: "The optimist is he who has a firm conviction, or in certain cases just a vague feeling, that things tend to 'turn out for the best'." Optimism is a forecast; hope is a stance. Its home ground is exactly where forecasts fail: "The truth is that there can strictly speaking be no hope except when the temptation to despair exists. Hope is the act by which this temptation is actively or victoriously overcome." (Marcel, "Sketch of a Phenomenology and a Metaphysic of Hope," in Homo Viator, trans. E. Crauford, 1945/2010, quoted in The Oxford Compendium of Hope, ch. 9, pp. 127-142.)
+Maintain hope as a disposition, not merely as an expectation of specific outcomes. Marcel contrasts it with optimism: the optimist has "a firm conviction, or in certain cases just a vague feeling," that things tend to "turn out for the best." Optimism is a forecast; hope is a stance. Its home ground is exactly where forecasts fail: "The truth is that there can strictly speaking be no hope except when the temptation to despair exists. Hope is the act by which this temptation is actively or victoriously overcome." (Marcel, "Sketch of a Phenomenology and a Metaphysic of Hope," in Homo Viator, trans. E. Crauford, 1945/2010, quoted in The Oxford Compendium of Hope, ch. 9, pp. 127-142.)
 
-The future hope faces is not guaranteed but possible, and its most elaborate expression is relational: "'I hope in thee for us'; such is perhaps the most adequate and the most elaborate expression of the act which the verb 'to hope' suggests in a way which is still confused and ambiguous." (Ibid.)
+The future hope faces is not guaranteed but possible, and its most elaborate expression is relational: "I hope in thee for us" — which Marcel calls "perhaps the most adequate and the most elaborate expression" of what the verb to hope suggests. (Ibid.)
 
 (Marcel, 1951b, The Mystery of Being; Marcel, 1967, The Philosophy of Existentialism, "On the Ontological Mystery.")
 
-**Plain words** The optimist has a theory about how things turn out; hope is something you do in the dark. It does not need good odds — it exists for exactly the situations where despair is the natural pull — and it faces a possible future rather than a promised one. Practised as a stance: take the bad news on board, then turn toward the side of things that is still open.
+**Plain words** The optimist has a theory about how things turn out; hope is something you do in the dark — and usually not alone. Marcel's phrase points at another person: I hope in you, for us. In practice, stay available to someone through an uncertain stretch — no promises about the outcome, no pretending to know — which is a different act from crossing your fingers.
 
 *For example:* The patient who reads the five-year survival stats — takes the hit, doesn't look away — and then books the holiday anyway. That's hope: informed, unflinching, still walking.
 ## Stories
