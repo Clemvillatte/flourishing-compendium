@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 74** — Recognise self and neurodivergence: different self-patterns
 
-Cooper and colleagues' studies of autistic identity found a mental-health benefit in identification with the autistic community: autistic people who identified with other autistic people and saw the community positively had improved self-esteem and psychological well-being (Cooper et al. 2017, as summarised in Cooper et al. 2021). The 2021 follow-up adds a mechanism: the more positive attributes autistic participants associated with autism, the higher their collective self-esteem, to the extent that they identified with other autistic people. Zhuangzi's useless tree is the classical image for the variation framing: the ailanthus fails the carpenter's tests, and Zhuangzi's advice is not to fix the tree but to plant it where its shape stops being a defect, so that "Neither bill nor axe would shorten its existence; there would be nothing to injure it."
+Cooper and colleagues (2021) reported a positive relationship between the number of positive attributes participants associated with autism and their collective self-esteem, to the extent that they identified with other autistic people. The compendium uses Zhuangzi's ailanthus as an analogy for questioning a single standard of usefulness: the tree fails the carpenter's tests, and Zhuangzi's advice is not to fix the tree but to plant it where its shape stops being a defect, so that "Neither bill nor axe would shorten its existence; there would be nothing to injure it."
 
 > "I have a large tree, which men call the Ailantus. Its trunk swells out to a large size, but is not fit for a carpenter to apply his line to it; its smaller branches are knotted and crooked, so that the disk and square cannot be used on them. Though planted on the wayside, a builder would not turn his head to look at it." (Zhuangzi, Book I, trans. Legge)
 
-**Plain words** Neurodivergent people — autistic, ADHD, dyslexic, others — often have genuinely different self-patterns: different interoception, different social wiring, different ways a "good self" gets built. Not broken versions of the standard self. Different architectures, with different maintenance manuals.
+**Plain words** Ask what helps you think, communicate and feel at ease, rather than assuming someone else's routine should fit you. Describe what you need in your own terms; the standard manual is not the only one that works.
 
-*For example:* The employee who is devastating in written analysis and melted by open-plan noise isn't inconsistent. His self runs on a different processor. The company that gives him a quiet room gets the analyst; the one that gives him a performance plan gets a resignation letter.
+*For example:* Imagine an employee who finds an open-plan office overwhelming. They ask to try a quiet workspace and review whether it helps.
 ## Psychology parallels
 
 - **Neurodivergent self-patterns**, autistic and ADHD individuals may have different self-concept and identity development (Happé & Frith, 2006; Cooper et al., 2017)
@@ -32,7 +32,7 @@ Cooper and colleagues' studies of autistic identity found a mental-health benefi
 
 ## Practice
 
-- If you are neurodivergent, do not judge your self-pattern by neurotypical standards. Learn your own pattern and design around it. Neurodivergent self-acceptance is associated with better outcomes.
+- If you are neurodivergent, do not judge your self-pattern by neurotypical standards. Learn your own pattern and design around it.
 
 ## Sources
 
