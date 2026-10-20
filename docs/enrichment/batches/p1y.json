@@ -10,12 +10,11 @@
   "SP010",
   "Y083",
   "A008",
-  "SP092",
   "SP032",
   "SP035",
   "SP048"
  ],
- "in_progress": null,
+ "in_progress": "SP092",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -23,10 +22,10 @@
   "SP032": "Reopened for QC: QC correction: remove redundant sentence and process language",
   "SP035": "Reopened for QC: QC correction: add inline citations to Plain words and scaffolding sentence",
   "SP048": "Reopened for QC: QC correction: revise opening sentence and Plain words",
-  "SP092": "Reopened for QC: QC correction: remove temporal rule and mechanism claims"
+  "SP092": "Reopened for QC: QC correction: trim Plain words, add body citations"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:11:11+00:00",
+ "updated": "2026-10-20T08:11:14+00:00",
  "band_done": false
 }
