@@ -24,7 +24,7 @@ The same teaching runs through the Meditations. Marcus calls it peculiar to man 
 
 ### Plain words
 
-When someone wrongs you, the Stoic instruction is to look first at what they believed was good. Both texts describe wrongdoing as a mistake about good and evil rather than a free choice of evil; Epictetus puts the response as a choice between anger and pity ([Discourses I.18](https://standardebooks.org/ebooks/epictetus/discourses/george-long/text/book-1)). The wrong is not thereby excused: the instruction to correct it by teaching assumes it was a wrong ([Meditations IX.11](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)).
+When someone wrongs you, these passages direct attention to their understanding of good and evil. Epictetus describes thieves and robbers as mistaken, then asks whether anger or pity is the right response ([Discourses I.18](https://standardebooks.org/ebooks/epictetus/discourses/george-long/text/book-1)). Marcus recommends correcting wrongdoers through teaching when possible, and indulgence otherwise ([Meditations IX.11](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)).
 
 ### For example
 
@@ -33,7 +33,7 @@ As a modern application, suppose a colleague takes credit for your work. The pas
 ## Sources
 
 - Marcus Aurelius, Meditations, Books II, VII, IX (George Long translation), [Project Gutenberg #15877](https://www.gutenberg.org/cache/epub/15877/pg15877.txt): sections II.1, VII.22, VII.63, IX.11.
-- Epictetus, Discourses I.18, "That we ought not to be angry with the errors of others" (George Long translation), [Standard Ebooks](https://standardebooks.org/ebooks/epictetus/discourses/george-long/text/book-1).
+- Epictetus, Discourses I.18 (George Long translation), [Standard Ebooks](https://standardebooks.org/ebooks/epictetus/discourses/george-long/text/book-1).
 
 ## Psychology parallels
 
