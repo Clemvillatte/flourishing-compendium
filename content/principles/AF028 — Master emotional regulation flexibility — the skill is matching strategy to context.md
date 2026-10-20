@@ -26,7 +26,7 @@ The review names a common assumption — that particular regulatory strategies a
 
 ### Plain words
 
-The paper's target is the habit of calling one strategy good and another bad; it labels that the fallacy of uniform efficacy. Flexibility instead has three parts: reading the situation, having more than one strategy, and responding to feedback. For an exercise, take one regulation choice that did not work and check which of the three parts failed.
+The authors question assigning a strategy the same value across situations and propose a framework for examining its use ([Bonanno & Burton, 2013](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)). For reflection, describe a recent strategy choice and the circumstances it faced. Then record what happened before deciding whether to repeat or change it.
 
 For example: the same grief might call for stepping out at one moment and staying seated at the next; the exercise is naming which one the moment asks for. (An invented illustration.)
 ## Psychology parallels
