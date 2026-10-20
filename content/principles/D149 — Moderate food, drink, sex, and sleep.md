@@ -12,9 +12,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 149** — Moderate food, drink, sex, and sleep
 
-The Huainanzi, a second-century BCE Daoist compendium, gives the moderation instruction in a body-regulation passage: to regulate your body and nourish your nature, moderate sleep and rest, be appropriate in food and drink, harmonize happiness and anger, and make suitable movement and stillness. The passage's stated result of carrying these things out within the self is that noxious qi has no means to be produced.
+The Huainanzi, a second-century BCE Daoist compendium, gives this [[Yangsheng (cultivating vitality)|yangsheng]] moderation instruction in a body-regulation passage: to regulate your body and nourish your nature, moderate sleep and rest, be appropriate in food and drink, harmonize happiness and anger, and make suitable movement and stillness. The passage's stated result of carrying these things out within the self is that noxious qi has no means to be produced.
 
-([[Yangsheng (cultivating vitality)|yangsheng]] literature; Huainanzi 14.39.)
+(Yangsheng literature; Neiye.)
 
 > "To regulate your body and nourish your nature, / moderate your sleep and rest, / be appropriate in your food and drink, / harmonize your happiness and anger, / and make suitable your movement and stillness." (Huainanzi 14.39, [Major, Queen, Meyer and Roth trans.](https://archive.org/details/theessentialhuainanziliuan))
 
