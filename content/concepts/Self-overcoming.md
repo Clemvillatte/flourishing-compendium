@@ -25,7 +25,7 @@ Zarathustra says that good and evil which would be everlasting do not exist, and
 
 ## In the compendium
 
-The principle [E103](../principles/E103%20%E2%80%94%20Practise%20self-overcoming%20%28Selbst%C3%BCberwindung%29.md) takes this chapter as its text and quotes the same passages. Its caution is worth carrying over. In the chapter, surpassing is described as something life does, with cost. The self that commands itself must atone for it. The principle reads the doctrine descriptively before prescriptively, and resists softening it into a program of self-improvement.
+[E103](../principles/E103%20%E2%80%94%20Practise%20self-overcoming%20%28Selbst%C3%BCberwindung%29.md) cautions that the chapter describes surpassing as something life does, with a cost: a self that commands itself must atone for its commanding.
 
 ## Related concepts
 
