@@ -104,3 +104,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## K004
 - Shantideva, Bodhicharyavatara ch.5, Padmakara 1997 translation (archive.org PDF, opened; pdftotext) cross-read with Tsadra Bodhicitta site and the Nalanda ch.5 text: 7 quotations grep-verified (5.1, 5.2, 5.6, 5.33, 5.34, 5.108); punctuation of 5.108 dash is mine (OCR dropped it).
 - Limits: statement's 'with a hundred cares' / 'mother watches her only child' NOT found in ch.5 of Padmakara 1997, Nalanda text, Wallace/Batchelor-type versions, or the other texts I grepped; body says so and omits it. Statement untouched: the supervisor/owner may wish to correct it. 'Laboratory' framing is the principle's own, unsupported by a source. Example hypothetical.
+
+## K035
+- Chekawa, Seven Points (Pearcey 2012) and Gyalse Tokme Zangpo commentary (Pearcey 2018), both Lotsawa House pages fetched and grep-verified (8 quotes).
+- Limits: statement says 'fifth point'; both texts give the five strengths in Point Four (Point Five is the measure of mind training); body states this, statement untouched (supervisor may correct). Statement's names (white seed, reproach of the ego, strong determination) are alternative translations (impetus, wholesome seeds, revulsion); 'there you are again' not in either text, flagged as modern gloss. Example hypothetical.
