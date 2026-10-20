@@ -12,23 +12,29 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 34** — Cultivate scientific knowledge (episteme)
 
-Episteme is knowledge of universal truths through demonstration: knowledge of why things are as they are, not merely that they are. It is the systematic understanding of causal structures. Cultivate the desire to understand, not merely to know.
+Aristotle defines scientific knowledge as a state of capacity to demonstrate, concerning things that cannot be otherwise. He places its objects as necessary and eternal, and says the starting-points from which demonstration proceeds are themselves not reached by demonstration. He also notes that every science is thought to be capable of being taught.
 
-(NE VI.3, VI.6; Posterior Analytics I.2.)
+> "Now what scientific knowledge is, if we are to speak exactly and not follow mere similarities, is plain from what follows. We all suppose that what we know is not even capable of being otherwise; of things capable of being otherwise we do not know, when they have passed outside our observation, whether they exist or not. Therefore the object of scientific knowledge is of necessity." ([NicEth VI.3, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 
-**Plain words** Knowing that something is true is one thing. Knowing why is another. Aristotle prizes the second: understanding causes, not just collecting facts. Wanting to understand is a habit, and it changes how you read and what you ask.
+> "Scientific knowledge is judgement about things that are universal and necessary, and the conclusions of demonstration, and all scientific knowledge, follow from first principles (for scientific knowledge involves apprehension of a rational ground)." ([NicEth VI.6, Ross](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm))
 
-*For example:* Memorising that interest compounds is knowing. Working out on paper why a small difference in rate gives such a big gap after thirty years is understanding.
+**Plain words** Aristotle's picture is of a kind of knowing that starts from first principles and demonstrates from them, and whose objects are things that could not have been otherwise. A suggested application is to work through one explanation from its first principles to its conclusion rather than accepting the conclusion on its own.
+
+*For example:* (Imagined application.) A reader works out on paper why a small difference in an interest rate produces a large gap after thirty years, tracing the calculation from its starting assumptions.
 
 ## Psychology parallels
 
-- **[[Need for cognition|Need for cognition and intellectual engagement]]** (Cacioppo and Petty, 1982)
-- **Openness to experience predicts well-being** (Kaufman et al., 2016)
+- [[Need for cognition|Need for cognition and intellectual engagement]] (Cacioppo and Petty, 1982)
+- Kaufman et al. (2016).
 
 ## Philosophy parallels
 
-- **Wonder as the beginning of philosophy** (Aristotle, Metaphysics I.2)
-- **[[Beginner's mind|Beginner's mind]]** (Suzuki, Zen Mind, Beginner's Mind)
+- Aristotle, Metaphysics I.2.
+- [[Beginner's mind|Beginner's mind]] (Suzuki, Zen Mind, Beginner's Mind)
+
+## Sources
+
+- [NicEth VI.3 and VI.6, Ross translation (people.bu.edu mirror)](https://people.bu.edu/wwildman/courses/wphil/readings/wphil_rdg09_nichomacheanethics_entire.htm)
 
 <!-- fc: reflections
 What is something you know well enough to repeat but not well enough to explain from the ground up? What would it take to truly understand it?
