@@ -10,9 +10,15 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST 
 ---
 *Buddhist practice narrative · India, 5th century BCE · [Satipaṭṭhāna Sutta, MN 10](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)*
 
-The Buddha sets out the direct path: observing body, feelings, mind, and mental qualities, ardent, aware, mindful, having put away covetousness and grief for the world. The sutta then details exercises for each domain, including the famous contemplation of the body's parts and the charnel ground meditations.
+The sutta opens by calling its practice the direct path for the purification of beings, and then lays out the four frames of reference.
 
-The text's claim to directness is structural. It offers no metaphysics and requires no belief; it is a curriculum of observation, which is why it became the template for secular mindfulness as much as for monastic practice.
+> "This is the direct path for the purification of beings, for the overcoming of sorrow & lamentation, for the disappearance of pain & distress, for the attainment of the right method, & for the realization of Unbinding — in other words, the four frames of reference." ([Satipatthana Sutta, MN 10, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The sutta then details exercises for each of the four frames: body, feelings, mind, and mental qualities. It names the practice as observing, and gives the instruction for how the practitioner is to hold attention.
+
+> "There is the case where a monk remains focused on the body in & of itself — ardent, alert, & mindful — putting aside greed & distress with reference to the world." ([Satipatthana Sutta, MN 10, Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
+
+The sutta offers no metaphysics. What it offers is a curriculum of observation, applied to each of the four frames.
 
 
 
