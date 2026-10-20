@@ -418,9 +418,16 @@ opened text at the recorded URL.
   existing P014 → Eudaimonic well-being connection; verifies nothing).
 - Concept-read scope verified: all six targets are 12-35 lines, fully
   covered by the reads (no omitted tails).
-- Saturation scope corrected: scans rerun with --max 200 and full result
-  sets reviewed — value conflict 4, PERMA 11, play 86, memory 194, good
-  life 52. The earlier "generic hits only" note is superseded. Findings:
+- Saturation scope corrected: scans rerun with --max 200; result counts
+  generated — value conflict 4, PERMA 11, play 86, memory 194, good life
+  52. Subsets actually inspected: value conflict and PERMA in full (4 and
+  11); play in full (86, first 41 via default max then the remainder via
+  --max 200); memory and good life via keyword-filtered excerpts of the
+  relevant hits (reconstruction/recollect/P098/Bergson/reconsolidation;
+  P014/Rogers/process/direction) rather than all 194 and 52 lines. No
+  exhaustive claim is made beyond the subsets inspected; the earlier
+  "generic hits only" and "full result sets reviewed" notes are
+  superseded. Findings from the inspected subsets:
   the play ecosystem concepts (Play research, Homo ludens, Seriousness
   about the play, The play ethos) cite no P053, and P053 links none of
   them (its one inherited concept link, Art as experience, already
@@ -432,3 +439,11 @@ opened text at the recorded URL.
   targets reciprocate); its ledger corrected per the advisor (inspection
   scope stated, actual validation warning recorded, immutable baseline
   4ae5851a^ rerun and verified: 1 checked, 0 failed).
+
+## Item-15 milestone ACCEPTED (2026-10-20, conditional approval honoured)
+
+- Advisor conditional approval: the proposal narrowing, six concept reads,
+  P079 baseline validation and the recovery availability step passed; the
+  two final evidence fixes (scan-scope claims corrected; The pragmatic
+  maxim's tail read and the P079 record updated) are applied in this
+  commit. Item 15 recorded as accepted; next advisor QC at item 20.
