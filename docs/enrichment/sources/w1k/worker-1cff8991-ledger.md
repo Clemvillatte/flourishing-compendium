@@ -53,3 +53,11 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Actual seed source is Aristotle De Anima II, not Dewey. Opened [Smith translation, Book II](https://classics.mit.edu/Aristotle/soul.2.ii.html), parts 2–4 and 12, and [Book III](https://classics.mit.edu/Aristotle/soul.3.iii.html), full book, especially III.8.
 - The text discusses distributions/dependencies of faculties and the involvement of images in thought; that does not establish this exact heading as a defined named unit. Secondary search results point to a scholarly thesis about chronological formation of universal concepts, not a universal rule about every perceptual/thinking episode.
 - Protocol §0 flag for supervisor to classify/rename/route; no fabricated body or unsupported global absence claim, no links or frontmatter changed, not marked enriched.
+
+## Phenomenology of the lifeworld
+
+- Fast-track degree 8; read E004/B136, both linked stories and K306/K308, plus the existing Phenomenological psychology context.
+- Opened [SEP Edmund Husserl, section 6](https://plato.stanford.edu/entries/husserl/); actual current author checked as Dan Zahavi. Exact standalone quote is Zahavi's prose, not falsely passed off as a directly read Husserl sentence.
+- Opened full [Moran Cambridge introduction excerpt](https://assets.cambridge.org/97805218/95361/excerpt/9780521895361_excerpt.pdf), especially pp. 7–8; science-grounding/transcendental purpose, not anti-science advice or merely listing daily habits.
+- Husserl's Crisis original volume not directly opened; inherited citation retained as bibliography, no invented Carr wording/locator. Owner library list did not identify a specific uploaded Husserl file.
+- Original frontmatter and all cited-in/kernel/story wikilinks preserved; unsupported old Related-concept gloss removed rather than expanded without evidence. Fast-track saturation skipped; no reciprocal proposed.
