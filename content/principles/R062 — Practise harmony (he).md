@@ -16,13 +16,13 @@ The chapter this principle rests on is Analects 13.23, where the contrast is dra
 
 > "The Master said, 'The superior man is affable, but not adulatory; the mean man is adulatory, but not affable.'" (Analects 13.23; Legge, The Chinese Classics, Vol. 1 — 君子和而不同、小人同而不和)
 
-Robert Eno's translation makes the underlying terms plain: "The junzi acts in harmony with others but does not seek to be like them; the small man seeks to be like others and does not act in harmony" (Eno, The Analects of Confucius, 2015, open access, Indiana University). On this page's reading of the couplet, he (harmony) is accord among different parts, and tong (being alike) is the counterfeit that looks like it. Legge's 1.12 rendering of the related saying, "In practising the rules of propriety, a natural ease is to be prized", shows the same term at work in ritual: ease among the parts, not uniformity. The application this page suggests: when a group agrees instantly, treat the agreement as a fact to check; when it argues, listen for the composition.
+Robert Eno's translation makes the underlying terms plain: "The junzi acts in harmony with others but does not seek to be like them; the small man seeks to be like others and does not act in harmony" (Eno, The Analects of Confucius, 2015, open access, Indiana University). On this page's reading of the couplet, he (harmony) is accord among different parts, and tong (being alike) is the counterfeit that looks like it. The application this page suggests: when a group agrees instantly, treat the agreement as a fact to check; when it argues, listen for the composition.
 
 (Confucius, The Analects 12.23, 13.23, 13.27; The Analects 1.12.)
 
-**Plain words** He is harmony as the creative integration of difference — explicitly not tong, mere sameness. True harmony needs diverse voices; a room of agreement is a quieter, poorer thing. Build the ensemble, not the choir of one note.
+**Plain words** The couplet draws a line between two things that look alike from a distance: getting on with people who stay different from you, and getting everyone to be the same. The first is harmony, and it takes work; the second is easier and worth less. Ask of any room you are in: is it agreeing, or is it only alike?
 
-*For example:* A team deliberately staffed with people who will disagree, and led so the disagreements have to be composed into a decision rather than outvoted.
+*For example:* Imagine a team deliberately staffed with people who will disagree, and imagine what it takes for the disagreements to be composed into a decision rather than smoothed over. Whether that works better is for the team to find out; the couplet only says which of the two things harmony is.
 ## Stories
 
 - [[ST241 — The Child at the Well|241. The Child at the Well]]
