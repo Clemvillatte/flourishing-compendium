@@ -200,3 +200,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Sources opened: Ethics of Ambiguity chs. 2-3 (Frechtman) and Second Sex Conclusion (Parshley) at Marxists Internet Archive; archive.org copies are lending-only (403). Quotes checked word-for-word by script; section headings confirmed from the page.
 - Locator correction: 'To will oneself free is also to will others free' is the end of Part II, 'Personal Freedom and Others', not Part III. Part III 'Freedom and Liberation' holds the 'indefinite movement through the freedom of others' passage. Old claim 'your freedom is not complete if achieved at expense of others' kept only as paraphrase of her text. Plain words was a replicate; replaced. Senior-woman example replaced by an imagined one.
 - Self-QC only.
+
+## E081 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source: Pierre Legrand's compiled excerpt PDF of Truth and Method (Weinsheimer-Marshall, Continuum 2004; https://www.pierre-legrand.com/gadamer-excerpts.pdf), opened and fetched. SECONDARY CARRIER: it reproduces the TM passages with page numbers; the full TM text is not openly available (archive.org lending only). All quotes verified word-for-word against it (brackets like [T]he normalised). Pages 269, 271, 273, 278, 295.
+- Old cite 'Part II, ch. 1' kept out of the text because the section heading could not be opened; replaced by page numbers. Plain words replicate replaced; example imagined. Worth a later primary-text pass.
+- Self-QC only.
