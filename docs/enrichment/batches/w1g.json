@@ -1,43 +1,37 @@
 {
- "batch": "w1g",
- "done": [
-  "The dream of the butterfly",
-  "The monkey mind",
-  "The trained mind",
-  "Spontaneous right action",
-  "The natural rhythm of warmth and cool",
-  "The same in all conditions",
-  "The seer at rest in its own nature",
-  "Three thousand realms in one thought",
-  "The water of life",
-  "Sufficiency",
-  "The rhythm of life",
-  "The rhythm of rest",
-  "The criterion of experience",
-  "The community of inquiry",
-  "Art as experience"
- ],
- "in_progress": null,
- "flagged": {
-  "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
-  "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
-  "The trained mind": "title pending supervisor disposition: Dhammapada says tamed/guarded/well-directed mind; 'trained' equivalence undocumented in opened sources; flagged in audit worker flags",
-  "The water of life": "title pending supervisor disposition: compendium heading over the chapter's own phrase (highest excellence is like water); flagged in ledger",
-  "Sufficiency": "title pending supervisor disposition: generic English heading; queue lists Zhi zu (knowing sufficiency) as the tradition's term; flagged in audit worker-flags section",
-  "The rhythm of life": "Reopened for QC: QC round 3: remove unverified 'earliest Daoist text on breath cultivation' claim; narrow tranquility/breath causation; attribute longevity to the text's teaching",
-  "The rhythm of rest": "Reopened for QC: QC round 3: fix toil-in-youth misread, fix Zi-lai/Zi-yu speaker attribution, fix sleep/waking framing, restore Daoism placeholder line",
-  "The criterion of experience": "Reopened for QC: QC round 3: replace survey-quote synthesis overreach; use James's positive account (outcome/upshot passage, section VI); fix section number",
-  "The community of inquiry": "Reopened for QC: QC round 3: rewrite closing in own words (was near-verbatim), narrow opening claim, remove unverified CP citation, restore placeholder line",
-  "Art as experience": "Reopened for QC: QC round 3: restore deleted ## Facets section; remove inflated 'governs everything' claim and not-X-but-Y closer"
- },
- "missing_concepts": [
-  {
-   "title": "The natural (amoral)",
-   "seed": "Daoism, natural amoral",
-   "why": "bogus title recorded in error by worker (my fault): no such concept file exists; recorded entry cleared via init; the real concept is Ziran (naturalness)"
-  }
- ],
- "sources_checked": 0,
- "updated": "2026-10-20T05:16:49+00:00",
- "band_done": false
+  "batch": "w1g",
+  "done": [
+    "The dream of the butterfly",
+    "The monkey mind",
+    "The trained mind",
+    "Spontaneous right action",
+    "The natural rhythm of warmth and cool",
+    "The same in all conditions",
+    "The seer at rest in its own nature",
+    "Three thousand realms in one thought",
+    "The water of life",
+    "Sufficiency",
+    "The rhythm of life",
+    "The rhythm of rest",
+    "The criterion of experience",
+    "The community of inquiry",
+    "Art as experience"
+  ],
+  "in_progress": null,
+  "flagged": {
+    "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
+    "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
+    "The trained mind": "title pending supervisor disposition: Dhammapada says tamed/guarded/well-directed mind; 'trained' equivalence undocumented in opened sources; flagged in audit worker flags",
+    "The water of life": "title pending supervisor disposition: compendium heading over the chapter's own phrase (highest excellence is like water); flagged in ledger",
+    "Sufficiency": "title pending supervisor disposition: generic English heading; queue lists Zhi zu (knowing sufficiency) as the tradition's term; flagged in audit worker-flags section",
+    "The rhythm of life": "Reopened for QC: QC round 3: remove unverified 'earliest Daoist text on breath cultivation' claim; narrow tranquility/breath causation; attribute longevity to the text's teaching",
+    "The rhythm of rest": "Reopened for QC: QC round 3: fix toil-in-youth misread, fix Zi-lai/Zi-yu speaker attribution, fix sleep/waking framing, restore Daoism placeholder line",
+    "The criterion of experience": "Reopened for QC: QC round 3: replace survey-quote synthesis overreach; use James's positive account (outcome/upshot passage, section VI); fix section number",
+    "The community of inquiry": "Reopened for QC: QC round 3: rewrite closing in own words (was near-verbatim), narrow opening claim, remove unverified CP citation, restore placeholder line",
+    "Art as experience": "Reopened for QC: QC round 3: restore deleted ## Facets section; remove inflated 'governs everything' claim and not-X-but-Y closer"
+  },
+  "missing_concepts": [],
+  "sources_checked": 0,
+  "updated": "2026-10-20T05:16:49+00:00",
+  "band_done": false
 }

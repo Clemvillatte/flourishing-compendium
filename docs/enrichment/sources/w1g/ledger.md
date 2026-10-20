@@ -610,3 +610,14 @@
   tinuity", "suffer ings") was de-hyphenated in the quotation, disclosed in the
   original ledger entry. Reopened and re-done via enrich_state.py; --fast-track
   ok; build ok.
+
+### State-file correction (2026-10-20, advisor QC round 3)
+
+- The bogus missing_concepts entry for "The natural (amoral)" (recorded by this
+  worker in error when starting an item from a misread manifest topic; no such
+  concept exists in w1g or the repository) has been REMOVED from
+  docs/enrichment/batches/w1g.json by direct edit, disclosed in this commit: the
+  state script has no removal command, and the entry was a worker-selection
+  error, not a discovered missing repository concept. The entry's own 'why' text
+  also contained a misleading clause ("the real concept is Ziran (naturalness)" —
+  Ziran is not in the w1g manifest either) which is now gone with the entry.
