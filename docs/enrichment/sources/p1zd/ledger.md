@@ -151,3 +151,8 @@ PROTOCOL-PRINCIPLES items 6-7.
 ## AT077 — Build attentional maintenance
 - Sources opened (abstracts): Jha, Izaguirre & Adler 2025, Curr Psychiatry Rep 27:393-407 (40456956); Roy & Subramanya 2025, J Ayurveda Integr Med 16:101057 (40043592).
 - Verbatim: "implementation factors such as daily practice, trainers' familiarity with the military, and course content influence the extent of benefits". The variation-selection-retention framing is the compendium's own; page says no opened study tests it. Overlaps AT058 by design; angles differ (dose vs fit/adaptation). Parallels bullets replaced (Ericsson, Newport, Tang, Goleman & Davidson not opened).
+
+## BE002 — Behaviour is shaped by consequences
+- Source opened: Skinner 1953, Science and Human Behavior, B. F. Skinner Foundation PDF (https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf), pp. 73, 101, 189 (also p. 183 read: "In the long run, punishment, unlike reinforcement, works to the disadvantage of both the punished organism and the punishing agency.").
+- Verbatim as quoted on page. Corrections: old bullet "positive reinforcement is more effective than punishment, fewer side effects (Skinner 1953; Azrin & Holz 1966)" replaced by what Skinner states (punishment mainly establishes avoidance; punished behaviour re-emerges). Azrin & Holz 1966, Chung & Herrnstein 1967, Ainslie 1975 and Ferster & Skinner 1957 not opened; dropped. Immediacy claim now rests on Skinner p. 101 only.
+- Limitation: Skinner's primary text only; no modern review of punishment effects opened.

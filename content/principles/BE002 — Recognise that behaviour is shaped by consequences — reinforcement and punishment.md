@@ -12,16 +12,33 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 2** — Recognise that behaviour is shaped by consequences: reinforcement and punishment
 
-Behaviour is strengthened by consequences. Positive reinforcement (adding something pleasant) and negative reinforcement (removing something unpleasant) increase behaviour. Punishment decreases behaviour. Understanding this mechanism allows you to design behaviour change.
+Skinner defines reinforcement by its effect. Presenting something, such as food, is a positive reinforcer. Removing something, such as a loud noise, is a negative reinforcer ([Skinner, Science and Human Behavior, 1953, p. 73](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf)):
 
-**Plain words** Consequences teach, and they teach silently: what gets rewarded gets repeated, what gets punished dies, and what gets ignored fades. You can read anyone's life — including your own — by looking at what's paying off.
+> In both cases the effect of reinforcement is the same—the probability of response is increased.
 
-*For example:* The team where the squeaky wheel gets the manager's attention — and lo, the team produces ever-more squeaky wheels. The reward schedule is writing the behaviour.
+Punishment is the opposite pair: presenting a negative reinforcer or removing a positive one. Skinner was wary of it. Its main effect is not to erase the behaviour:
+
+> The most important effect of punishment, then, is to establish aversive conditions which are avoided by any behavior of "doing something else."
+>
+> Skinner, Science and Human Behavior (1953), p. 189
+
+If the punishment is avoided repeatedly, "the punished behavior eventually emerges". Timing matters too: "The rate varies with the immediacy of the reinforcement" (p. 101).
+
+(Skinner, 1953, Ch. V, XII.)
+
+**Plain words** Behaviour that is followed by something good, or by relief from something bad, becomes more likely. Punishment pushes the other way, but Skinner argued that what it mostly teaches is how to avoid the punishment, and the original behaviour can return. To understand why a habit persists, look at what it pays off, and how quickly.
+
+For example (imagined): in a team where only the loudest complaint gets the manager's attention, the complaints grow. Responding promptly to calm requests changes what pays off.
+
+## Sources
+
+- B. F. Skinner (1953), [Science and Human Behavior](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf), pp. 73, 101, 189 (B. F. Skinner Foundation PDF)
+
 ## Psychology parallels
 
-- **[[Operant conditioning (Skinner)|Operant conditioning (Skinner)]]**, behaviour is shaped by its consequences (Skinner, 1953; Ferster & Skinner, 1957)
-- **Positive reinforcement is more effective than punishment for behaviour change**, rewards are more effective and have fewer side effects than punishment (Skinner, 1953; Azrin & Holz, 1966)
-- **Immediate consequences outweigh delayed ones**, the temporal proximity of consequences determines their effectiveness (Chung & Herrnstein, 1967; Ainslie, 1975)
+- **[[Operant conditioning (Skinner)|Operant conditioning (Skinner)]]**, behaviour is shaped by its consequences (Skinner, 1953, p. 73)
+- **Punishment mainly teaches avoidance**, and the punished behaviour can re-emerge when punishment stops, according to Skinner (1953, p. 189)
+- **Immediacy of reinforcement affects response rate**, a slight delay means a lower overall rate (Skinner, 1953, p. 101)
 
 ## Philosophy parallels
 
