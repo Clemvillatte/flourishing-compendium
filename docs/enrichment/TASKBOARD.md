@@ -24,6 +24,16 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 8 — PP005 (p1zb, RELEASED):
+PASS. Keyes 2002 blockquote sentence verified verbatim against the freshly opened PubMed 12096700
+abstract; the national-sample impairment/superior-functioning paraphrase is faithful to the
+abstract (MIDUS n=3,032); the Huppert & So 2013 "a combination of feeling good and functioning
+effectively" definition verified verbatim in its disclosed carrier (Novak & Kiknadze 2024, PMC,
+with the p. 838 locator). No repairs needed. Reserve REQUEST still standing; watch loop active.
+NOTE: a baton.py takeover message printed "stale, 0 min" for a live band earlier — the age in the
+TAKEOVER message is computed after the state update, so it always shows ~0; harmless display bug,
+arbitration is unaffected.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 7 — SE046 (p1zh, RELEASED):
 PASS. Both quotations verified verbatim against freshly opened sources: the McAdams 2001
 abstract sentence on SAGE ("people living in modern societies provide their lives with unity and
