@@ -124,3 +124,26 @@ Round 1 FAIL; repairs applied to three items:
   report exit 0).
 
 All three files revalidated (3 checked, 0 failed) after repairs.
+
+## Food as medicine
+
+- Track: fast-track, current degree 5 (all principle neighbors).
+- Opened: https://classics.mit.edu/Hippocrates/ancimed.3.3.html (On Ancient
+  Medicine, part 3, Francis Adams) and the FAO AGRIS record for Cardenas 2013
+  ("Let not thy food be confused with thy medicine", e-SPEN 2013, abstract),
+  both fetched 2026-10-20.
+- Quotations: blockquote copied from the fetched MIT page ("To such a discovery
+  and investigation... by which pains, diseases, and deaths were occasioned.");
+  Cardenas conclusion fragment ("the concept of food was not confused with that
+  of medication") copied from the fetched abstract.
+- The famous "let food be thy medicine" slogan is a misquotation per Cardenas
+  2013; the page states this with the citation rather than repeating the slogan
+  as Hippocratic.
+- Related concepts verified to exist: Nutritional psychiatry (deg 1),
+  Gut-brain axis (Cryan) (deg 3).
+- Limits: On Ancient Medicine is a corpus treatise, authorship debated (noted
+  in the corpus literature); the page does not claim Hippocrates' personal
+  authorship beyond the seed attribution. No modern nutrition-science claims
+  added (the compendium's BI principles carry those).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok (1 warning: 2 Related-concepts lines).
