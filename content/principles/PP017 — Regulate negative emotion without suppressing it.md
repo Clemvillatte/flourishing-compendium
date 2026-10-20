@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 17** — Regulate negative emotion without suppressing it
 
-Emotion regulation is not the elimination of negative emotion. It is the capacity to experience negative emotion without being driven by it. Two strategies have robust evidence: [[Cognitive reappraisal|cognitive reappraisal]] (changing the interpretation of a situation to change its emotional impact) and acceptance (allowing the emotion to be present without acting on it). Suppression, the inhibition of emotional expression, has weak or negative effects on well-being.
+Gross's process model sorts regulation strategies by where they act: [[Cognitive reappraisal|cognitive reappraisal]] works early, changing how the situation is construed; suppression works late, inhibiting the outward signs of inner feelings. The comparison research found the two diverging on experience, memory and well-being. (Gross, 2002; Gross and John, 2003.)
 
-(Gross, 2015; Gross and John, 2003.)
+> "The first, reappraisal, comes early in the emotion-generative process. It consists of changing the way a situation is construed so as to decrease its emotional impact. The second, suppression, comes later in the emotion-generative process. It consists of inhibiting the outward signs of inner feelings." (Gross, 2002)
 
-**Plain words** Regulating emotion doesn't mean removing the bad ones. It means feeling them without being driven by them. Two methods have strong support: reappraisal, changing the meaning of a situation, and acceptance, letting the feeling be there without a fight.
+> "Reappraisal decreases emotion experience and behavioral expression, and has no impact on memory. By contrast, suppression decreases behavioral expression, but fails to decrease emotion experience, and actually impairs memory." (Gross, 2002)
+
+> "Study 5 shows that using reappraisal is related positively to well-being, whereas using suppression is related negatively." (Gross & John, 2003)
+
+This page pairs reappraisal with acceptance, letting the emotion be present without acting on it, as the two forms of regulation that leave the feeling intact.
+
+**Plain words**
+Two ways to handle a bad feeling. The early way: change how you read the situation before the feeling finishes forming. The late way: hold your face still while the feeling runs at full volume inside. The research verdict on the late way: it hides the feeling without reducing it, and it impairs memory.
 
 *For example:* Before a hard conversation you feel your stomach tighten, name it as nerves, and speak anyway.
+
+## Sources
+
+- [Gross (2002), Emotion regulation: Affective, cognitive, and social consequences, Psychophysiology 39(3), 281-291 (Wiley, free access)](https://onlinelibrary.wiley.com/doi/10.1017/S0048577201393198)
+- [PubMed: Gross & John (2003), Individual differences in two emotion regulation processes, JPSP 85(2), 348-362, PMID 12916575](https://pubmed.ncbi.nlm.nih.gov/12916575/)
 
 ## Psychology parallels
 

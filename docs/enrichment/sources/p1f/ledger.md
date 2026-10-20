@@ -19,3 +19,9 @@
 - Source opened: https://pubmed.ncbi.nlm.nih.gov/9054347/ (Schultz, Dayan & Montague 1997, Science 275(5306), 1593-1599).
 - Verbatim quotes: the two abstract sentences (learning driven by changes in expectations; dopamine neurons signaling errors in predictions).
 - The seed's stronger claims ("unexpected rewards are highly motivating", "variety and novelty sustain motivation") narrowed to a clearly-labeled practical reading ("This page's practical reading of that finding"); the abstract does not itself claim motivational loss for expected rewards. Plain words re-derived (gap framing, engineered-surprise warning); streak-bonus example kept from seed. Schultz 2016/Glimcher/Niv parallels left as inherited (not opened this session).
+
+### PP017 — Regulate negative emotion without suppressing it (2026-10-20, worker-p1f-7e93856c)
+- State: seed → done.
+- Sources opened: https://onlinelibrary.wiley.com/doi/10.1017/S0048577201393198 (Gross 2002, Psychophysiology 39(3), 281-291, free access) and https://pubmed.ncbi.nlm.nih.gov/12916575/ (Gross & John 2003, JPSP 85(2), 348-362).
+- Verbatim quotes: the reappraisal/suppression definitions passage, the consequences passage (memory, experience), and the Study 5 well-being sentence.
+- Acceptance: the seed's "robust evidence for acceptance" claim was not verifiable from the opened sources, so acceptance is now framed as this page's pairing ("leave the feeling intact") rather than an evidence claim. Gross 2015 review remains an inherited parallel (not opened this session). Original [[Cognitive reappraisal]] body wikilink preserved.
