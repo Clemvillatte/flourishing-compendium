@@ -36,10 +36,10 @@
  "flagged": {
   "D190": "RESOLVED 2026-10-20: closure advisor PASS, exact source quotations, walking inference removed, prose validated",
   "P009": "RESOLVED 2026-10-20: closure advisor PASS; no reconstruction-to-knowledge guarantee; quotations verified; prose validated",
-  "P033": "Reopened for QC: QC correction: advisor round 1 — example, plain words tied to opened discussion"
+  "P033": "RESOLVED by supervisor-36b57e93 before takeover, documented in ledger and OPERATIONS QC log: scoped advisor PASS, inherited protected claims remain unverified"
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-20T03:43:16+00:00",
+ "updated": "2026-10-20T03:43:51+00:00",
  "band_done": false
 }
