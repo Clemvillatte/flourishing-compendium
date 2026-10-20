@@ -9,10 +9,14 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SP042": "Reopened for QC: QC round 1: narrow opening sentence to the opened passage"
+  "SP042": "Reopened for QC: QC round 1: narrow opening sentence to the opened passage",
+  "SP045": "Reopened for QC: milestone QC round 1: scope repairs",
+  "SP050": "Reopened for QC: milestone QC round 1",
+  "SP051": "Reopened for QC: milestone QC round 1",
+  "SP054": "Reopened for QC: milestone QC round 1"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:15:47+00:00",
+ "updated": "2026-10-20T11:19:33+00:00",
  "band_done": false
 }

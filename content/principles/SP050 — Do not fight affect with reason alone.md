@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 50** — Do not fight affect with reason alone
 
-Spinoza states the rule as a proposition and proves it through the body. An affect is a modification whereby the body's power of acting is increased or diminished, and a modification can only be checked by a modification that is contrary to it and stronger. What can beat a feeling is a stronger contrary feeling. He adds the limit on knowledge: a true knowledge of good and evil "cannot check any emotion by virtue of being true, but only in so far as it is considered as an emotion" (IV.14), and the desire it breeds can be quenched by desires arising from the affects that assail us (IV.15). The compendium's application: do not plan to out-argue a craving in the moment; pre-load the stronger affect (the vivid image of what the choice costs, the person you are becoming) before the craving arrives.
+In Ethics IV.7, Spinoza says that an emotion is checked by a contrary emotion with greater power. IV.14 allows true knowledge to check an emotion insofar as that knowledge is itself considered an emotion. IV.15 adds that desire arising from true knowledge can be overcome by other desires.
 
 > "An emotion can only be controlled or destroyed by another emotion contrary thereto, and with more power for controlling emotion." (Ethics IV.7, Elwes)
 
 **Plain words**
-Reasoning at a feeling rarely moves it. The feeling is bodily momentum, and reasoning is not the same kind of force. What shifts it is another feeling with more push. Prepare that force before you need it: make the good outcome vivid enough to want, so the wanting itself shows up when the craving does.
+Knowing the reasons for a choice does not, in this account, settle which desire prevails. The question is whether those reasons are also felt as a desire strong enough to oppose the competing emotion.
 
 **For example**
-In an imagined case, someone who wants to stop late-night snacking keeps a written note of how the morning after feels, and reads it at dinner. The note revives the dread of the sluggish morning, a contrary affect with more push than the argument that sugar is bad, which was never in doubt.
+In an imagined application, someone anticipating a tempting purchase writes down what they want to save for. They are trying to bring a competing desire into view. They still have to find out whether it outweighs the attraction of buying.
 
 ## Sources
 
