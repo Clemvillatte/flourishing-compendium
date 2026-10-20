@@ -33,3 +33,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y035 (2026-10-21)
 - Woods HOS 17: 2.32 + Vyasa (p. 181), 2.40-2.41 + commentary (pp. 188-189, from the "[188" and "189]" running heads). OCR "Icvara" corrected to Isvara; a footnote intrudes mid-sentence in the 2.41 commentary and was skipped.
 - Old text said cleanliness "covers body, environment, and the purification of the mind's content" and that a clean practice space "reliably steadies attention"; the commentary names outer (earth, water, pure food) and inner (washing away mind-stuff blemishes) only, and 2.40 reads ascetically (disgust for the body). Space-clearing is a modern practice; page says so. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y043 (2026-10-21)
+- Woods HOS 17 pp. 177-180 (2.29-2.31; page heads "177]", "[178", "179]", "181]"); Arnold Gita ch. 6 moderation passage. Quotes verified; OCR hyphen break in "regula- tions" and a footnote marker inside "what is good 5 for all creatures" ignored.
+- Old text claimed observances "are the conditions of a mind steady enough to meditate" and gave "audit conduct first". Opened commentary supports sequence and non-injury as root only; page labels the rest as the principle's reading. Old cite BG 6.16-6.17 is Arnold ch. 6 (unnumbered). 2.28 not read. Plain words replicate replaced; example imagined. Self-QC only.
