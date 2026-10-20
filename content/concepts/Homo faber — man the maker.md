@@ -15,7 +15,7 @@ Fabrication has a hard edge that labor lacks. The maker's materials are already 
 
 > "This element of violation and violence is present in all fabrication, and homo faber, the creator of the human artifice, has always been a destroyer of nature." (Arendt, [The Human Condition (2013), p. 139](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/))
 
-The things homo faber makes have a use and an end. A table is finished, and its durability is what lets it house mortal lives that keep moving. The compendium's principle BE059, engage in creative behaviour, builds on this side of the idea.
+The things homo faber makes have a use and an end. A table is finished, and its durability is what lets it house mortal lives that keep moving. The compendium's principle on creative behaviour is BE059.
 
 ## Related concepts
 
@@ -28,8 +28,8 @@ The things homo faber makes have a use and an end. A table is finished, and its 
 
 - Bergson
 
-- [The Human Condition, text excerpt hosted at kortina.nyc](https://kortina.nyc/notes/the-human-condition/) — supports the first verbatim quotation
-- [The Human Condition (2013), p. 139 excerpt at onwork.edu.au](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/) — supports the second verbatim quotation
+- [The Human Condition, text excerpt hosted at kortina.nyc](https://kortina.nyc/notes/the-human-condition/): supports the first verbatim quotation
+- [The Human Condition (2013), p. 139 excerpt at onwork.edu.au](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/): supports the second verbatim quotation
 
 ## Cited in philosophy parallels
 

@@ -21,7 +21,7 @@ The quote is taken from a published lecture that cites Ideas I section 44 direct
 ## Sources
 
 - Husserl, Ideas I
-- [Moran, D. (2019). Husserl and Gurwitsch on Horizonal Intentionality. Journal of Phenomenological Psychology 50, 1-41](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf) — carrier of the Ideas I § 44 quotation, opened and verified
+- [Moran, D. (2019). Husserl and Gurwitsch on Horizonal Intentionality. Journal of Phenomenological Psychology 50, 1-41](https://dermotmoran.com/wp-content/uploads/2020/05/A_2018_Husserl-and-Gurwitsch-on-Horizonal-Intentionality_-The-Gurwitch-Memorial-Lecture-.pdf): carrier of the Ideas I § 44 quotation, opened and verified
 
 ## Cited in philosophy parallels
 

@@ -7,9 +7,9 @@ file: "Hubris and nemesis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Hubris and nemesis name a pair the Greeks treated as a unit: hubris, the overweening pride that puts others down, and nemesis, the retribution that answers it. Of the two, nemesis was a deity: in Wikipedia's summary of the mythology, she "was the goddess who personified retribution for the sin of hubris: arrogance before the gods", and "in the Greek tragedies Nemesis appears chiefly as the avenger of crime and the punisher of hubris" ([Wikipedia, Nemesis](https://en.wikipedia.org/wiki/Nemesis_(mythology))).
+In Greek myth, Nemesis personifies retribution for hubris, or arrogance before the gods. In Wikipedia's summary of the mythology, she "was the goddess who personified retribution for the sin of hubris: arrogance before the gods", and, in the Greek tragedies, she "appears chiefly as the avenger of crime and the punisher of hubris" ([Wikipedia, Nemesis](https://en.wikipedia.org/wiki/Nemesis_(mythology))).
 
-The sharpest ancient definition of hubris is Aristotle's discussion of insolence in W. Rhys Roberts's translation of the Rhetoric:
+Aristotle discusses hubris, in the Rhetoric, under the heading of insolence, in W. Rhys Roberts's translation:
 
 > "Insolence is also a form of slighting, since it consists in doing and saying things that cause shame to the victim, not in order that anything may happen to yourself, or because anything has happened to yourself, but simply for the pleasure involved. (Retaliation is not "insolence," but vengeance.)" (Aristotle, [Rhetoric 2.2, 1378b](https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-2.html), trans. W. Rhys Roberts)
 
@@ -26,10 +26,10 @@ The compendium's principle on narcissistic patterns is SE070.
 ## Sources
 
 - Greek tragedy
-- [Aristotle, Rhetoric 2.2, trans. W. Rhys Roberts (1954), hosted at kairos.technorhetoric.net](https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-2.html) — supports the insolence definition, opened and verified
-- [Britannica, hubris](https://www.britannica.com/topic/hubris) — supports the tragedy examples and the tragic-flaw framing
-- [Wikipedia, Hubris](https://en.wikipedia.org/wiki/Hubris) — supports the Arachne example and the modern-usage definition
-- [Wikipedia, Nemesis](https://en.wikipedia.org/wiki/Nemesis_(mythology)) — supports the goddess and punisher-of-hubris statements
+- [Aristotle, Rhetoric 2.2, trans. W. Rhys Roberts (1954), hosted at kairos.technorhetoric.net](https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-2.html): supports the insolence definition, opened and verified
+- [Britannica, hubris](https://www.britannica.com/topic/hubris): supports the tragedy examples and the tragic-flaw framing
+- [Wikipedia, Hubris](https://en.wikipedia.org/wiki/Hubris): supports the Arachne example and the modern-usage definition
+- [Wikipedia, Nemesis](https://en.wikipedia.org/wiki/Nemesis_(mythology)): supports the goddess and punisher-of-hubris statements
 
 ## Cited in philosophy parallels
 

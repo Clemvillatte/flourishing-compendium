@@ -29,9 +29,11 @@ The same abstract reports that the subjects were unaware of the influence, and t
 
 ## Sources
 
-- [Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25-29](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Thordike1920.pdf) — supports the first quotation and the procedural remedy
-- [Nisbett, R. E. and Wilson, T. D. (1977). The halo effect: Evidence for unconscious alteration of judgments. Journal of Personality and Social Psychology, 35(4), 250-256](https://web.mit.edu/curhan/www/docs/Articles/biases/35_J_Personality_Social_Psychology_250_(Nisbett).pdf) — supports the second quotation and the unawareness claims
+- [Thorndike, E. L. (1920). A constant error in psychological ratings. Journal of Applied Psychology, 4(1), 25-29](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Thordike1920.pdf): supports the first quotation and the procedural remedy
+- [Nisbett, R. E. and Wilson, T. D. (1977). The halo effect: Evidence for unconscious alteration of judgments. Journal of Personality and Social Psychology, 35(4), 250-256](https://web.mit.edu/curhan/www/docs/Articles/biases/35_J_Personality_Social_Psychology_250_(Nisbett).pdf): supports the second quotation and the unawareness claims
 
 ## Cited in psychology parallels
 
 - [[CO036 — Recognise the halo effect — one trait colours the whole judgment]]
+
+## Cited in philosophy parallels

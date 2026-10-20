@@ -7,7 +7,7 @@ file: "Hostility research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-H"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter H", "parent": ""}
 ---
-Hostility research is the body of studies that asks whether chronic hostility and anger predict coronary heart disease. The field's quantitative answer comes from Chida and Steptoe's 2009 meta-analytic review of prospective evidence:
+Hostility research is the body of studies that asks whether chronic hostility and anger predict coronary heart disease. One quantitative synthesis is Chida and Steptoe's 2009 meta-analysis of prospective evidence:
 
 > "Anger and hostility were associated with increased CHD events in the healthy population studies (combined hazard ratio [HR]: 1.19; 95% confidence interval [CI]: 1.05 to 1.35, p = 0.008) and with poor prognosis in the CHD population studies (HR: 1.24; 95% CI: 1.08 to 1.42, p = 0.002)." (Chida and Steptoe, [The Association of Anger and Hostility With Future Coronary Heart Disease](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044), Journal of the American College of Cardiology 53(11), 2009, abstract)
 
@@ -27,8 +27,8 @@ The compendium's principle on meeting ill will with warmth is B080.
 ## Sources
 
 - Williams
-- [Chida, Y. and Steptoe, A. (2009). The Association of Anger and Hostility With Future Coronary Heart Disease: A Meta-Analytic Review of Prospective Evidence. Journal of the American College of Cardiology 53(11)](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044) — supports the hazard-ratio quotation and summary
-- [American College of Cardiology press release on the meta-analysis](https://www.acc.org/about-acc/press-releases/2010/02/22/13/35/9-2) — supports the behavioral-covariate caveat
+- [Chida, Y. and Steptoe, A. (2009). The Association of Anger and Hostility With Future Coronary Heart Disease: A Meta-Analytic Review of Prospective Evidence. Journal of the American College of Cardiology 53(11)](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044): supports the hazard-ratio quotation and summary
+- [American College of Cardiology press release on the meta-analysis](https://www.acc.org/about-acc/press-releases/2010/02/22/13/35/9-2): supports the behavioral-covariate caveat
 
 ## Cited in psychology parallels
 

@@ -28,6 +28,6 @@ Entering the circle rightly means holding your anticipations of the whole lightl
 ## Sources
 
 - [Wikipedia Hermeneutic circle](https://en.wikipedia.org/wiki/Hermeneutic_circle)
-- [Gadamer, On the Circle of Understanding](https://faculty.washington.edu/ewebb/R528/Gadamer.pdf) — supports both verbatim quotations
+- [Gadamer, On the Circle of Understanding](https://faculty.washington.edu/ewebb/R528/Gadamer.pdf): supports both verbatim quotations
 
 ## Cited in philosophy parallels
