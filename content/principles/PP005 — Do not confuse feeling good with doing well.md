@@ -12,22 +12,32 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 5** — Do not confuse feeling good with doing well
 
-Positive affect is a component of well-being, not the whole of it. A person who feels good because they are detached from reality, or because they are drunk, is not flourishing. The criterion is not the subjective experience of pleasure but the objective pattern of a life lived well: functioning well, feeling well, and being well. The distinction matters because interventions that target only positive affect can produce short-term gains that do not translate to long-term flourishing.
+Positive affect is a component of well-being, not the whole of it. Keyes's mental health continuum defines the positive end as requiring both: mental health is a syndrome of "positive feelings and positive functioning in life" (Keyes, 2002). The distinction is measurable. In his national sample, languishing adults showed significant psychosocial impairment, including limits on activities of daily living and lost workdays, while flourishing adults showed superior functioning profiles. Someone who feels good while drunk or detached from reality has the feelings without the functioning, and flourishing requires both.
 
-(Keyes, 2002; Huppert, 2014.)
+> This paper introduces and applies an operationalization of mental health as a syndrome of symptoms of positive feelings and positive functioning in life. (Keyes, "The Mental Health Continuum: From Languishing to Flourishing in Life," Journal of Health and Social Behavior 43(2), 2002, pp. 207-222, [PubMed](https://pubmed.ncbi.nlm.nih.gov/12096700/))
 
-**Plain words** Positive feeling is part of well-being, not all of it. Someone happy because they're drunk or cut off from reality isn't flourishing. The measure is the pattern of a life: functioning well, feeling well, and being well in the world.
+Huppert and So's definition of flourishing agrees: "a combination of feeling good and functioning effectively" (Huppert & So, 2013, p. 838, quoted in [Novak & Kiknadze 2024, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC11335640/)).
+
+(Keyes, 2002; Huppert & So, 2013.)
+
+**Plain words** Feeling good is a signal, and signals can be produced by things that are bad for you: a drink, a distraction, a high. The signal only counts as evidence of flourishing when the life underneath it is working, so that you can point to how the life runs and not just to how it feels. Before trusting a good stretch of feelings, ask what they are attached to. Would someone looking at the structure of your life, with the feelings hidden, still call it going well?
 
 *For example:* A person euphoric from a manic episode feels great while their life is quietly falling apart.
+
+## Sources
+
+- [Keyes 2002, The Mental Health Continuum, PubMed record](https://pubmed.ncbi.nlm.nih.gov/12096700/) — abstract; pp. 207-222
+- [Novak & Kiknadze 2024, Does the good life feel good?, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11335640/) — carrier of the Huppert & So 2013 definition, p. 838
 
 ## Psychology parallels
 
 - [[Complete mental health model|Complete mental health model]] (Keyes, 2002)
-- The three components of well-being: feeling well, functioning well, being well (Huppert, 2014)
+- **Flourishing as feeling good and functioning effectively** (Huppert & So, 2013)
 
 ## Philosophy parallels
 
--  (Aristotle, Nicomachean Ethics VII and X)
+- **[[Eudaimonia|Eudaimonia as living well rather than merely feeling good]]** (Aristotle, Nicomachean Ethics VII and X)
+- **[[The paradox of hedonism]]** (Sidgwick, The Methods of Ethics) — the pursuit of feeling good for its own sake undermines it
 
 <!-- fc: reflections
 Have you felt good while things were going badly? What did you miss?

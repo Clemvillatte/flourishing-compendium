@@ -91,3 +91,21 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   not opened; flagged.
 - Saturation: Behavioral activation, Activity scheduling (BA), Action precedes feeling,
   Avoidance versus attentional engagement concepts already interlink the family. No new proposals.
+
+## PP005 — Do not confuse feeling good with doing well
+- Weak page, full work applied. Quote: Keyes 2002 abstract sentence "This paper introduces and
+  applies an operationalization of mental health as a syndrome of symptoms of positive feelings
+  and positive functioning in life" verified verbatim vs freshly opened PubMed 12096700.
+- Body rebuilt on opened sources: Keyes 2002 findings (languishing impairment incl. daily-living
+  limits and lost workdays; flourishing superior functioning profiles) per the opened abstract;
+  Huppert & So 2013 "a combination of feeling good and functioning effectively" quoted via the
+  opened carrier Novak & Kiknadze 2024 (PMC11335640, which cites it at p. 838) with provenance
+  disclosed in the body. Unverified inherited "feeling/functioning/being well" triad and the
+  "interventions targeting only positive affect" claim removed; "Huppert, 2014" citation
+  replaced by the actually cited Huppert & So 2013.
+- Empty philosophy parallel filled with [[Eudaimonia]] (labelled, NE VII and X kept) and
+  [[The paradox of hedonism]] added. Reciprocal proposal filed (proposals/p1zb.json).
+- Plain words rewritten as re-derivation (old one replicated the body triad).
+- Saturation: PP005 cited by 7 concept pages (Positive activity interventions, Complete mental
+  health model, Sustainability of well-being gains, The criterion of experience, The whole in
+  the part, WOOP, Life lived forwards).

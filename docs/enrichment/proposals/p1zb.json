@@ -1,0 +1,13 @@
+{
+ "batch": "p1zb",
+ "revision": 1,
+ "records": [
+  {
+   "action": "reciprocal",
+   "into": "The paradox of hedonism",
+   "link": "PP005",
+   "why": "The paradox that directly pursuing good feelings undermines them is the practical face of PP005's distinction between feeling good and doing well.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during PP005 saturation check; Sidgwick attribution taken from the concept page's own Sources."
+  }
+ ]
+}
