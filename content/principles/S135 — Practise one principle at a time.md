@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 257** — Practise one principle at a time
 
-Do not try to practise all 140 principles at once. Choose one. Work with it for a week, a month, until it becomes part of you. Then choose another. The Stoic life is built principle by principle, not all at once.
+> You must linger among a limited number of master-thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind. [...] a plant which is often moved can never grow strong.
 
-(Disc. I.4, I.15, I.20, III.5, III.21; Ench. 1, 12, 29, 48, 51; Seneca, Letters 6, 16, 71, 72, 75, 94, 108; Med. V.9, IX.29, X.1, XI.9.)
+(Seneca, Letter 2, §§2-3, trans. Gummere, [Moral letters to Lucilius on Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2). Seneca is writing about reading, so carrying the advice over to practice is this entry's extension.)
 
-**Plain words** Don't attempt all hundred-odd principles at once — that's how nothing sticks. Take one, wear it for a week or a month until it's part of you, then take the next. Character is built one beam at a time, not by moving into a house still under construction.
+Epictetus makes a close point about practice itself. On someone who takes up one pursuit after another, he says: "Thus you too will be at one time a wrestler, at another a gladiator, now a philosopher, then an orator; but with your whole soul, nothing at all." His remedy for the improver is modest: "Begin therefore from little things" (Enchiridion 29 and 12, trans. Carter, [MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)).
 
-*For example:* Someone who spends a whole month on nothing but "distinguish what's up to me" — and finds by week three they're doing it at the steering wheel without trying.
+The count of 140 principles belongs to this compendium, not to the Stoics. Both texts warn against sampling widely and settling nowhere, and that warning is the ground for working with one principle until it holds.
+
+**Plain words** Pick one idea and stay with it long enough that it changes what you do. Moving to a new one every few days feels like progress, but nothing gets time to take root.
+
+*For example:* Someone spends a month on one question only: is this up to me? By the third week they notice themselves asking it at the steering wheel, before they have decided to.
+
+## Sources
+
+- [Seneca, Moral letters to Lucilius, Letter 2 (trans. R. M. Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2) — opened; "limited number of master-thinkers" and the "plant" sentence
+- [Epictetus, Enchiridion (trans. Elizabeth Carter), MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html) — opened; sections 12 and 29
+
 ## Stories
 
 - [[ST223 — The Slave Who Taught Emperors|223. The Slave Who Taught Emperors]]
