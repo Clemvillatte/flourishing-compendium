@@ -81,3 +81,12 @@
 - Related concepts: Sympathy (deg 5), Moral sentiments (deg 6), Emotional contagion (deg 7), all existing with descriptive clauses. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 11).
+
+## Firstfruits
+
+- Fast-track degree 1 (sole edge: M042 philosophy-parallels entry).
+- Opened sources: Proverbs 3:9-10 KJV and Deuteronomy 26:1-2, 10-11 KJV (BibleGateway, both opened and verified verbatim). Proverbs 3:9-10 used as the blockquote; Deuteronomy basket ritual and the Levite-and-stranger rejoicing paraphrased from the opened text.
+- The stance framing ("arriving in any system as a debtor to it rather than as an extractor") is quoted-without-quotation-marks from M042's own body (the compendium's own reading, checked before writing).
+- Related concepts: Karma yoga, Nishkama karma, Detachment from outcomes (all exist). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 12).
