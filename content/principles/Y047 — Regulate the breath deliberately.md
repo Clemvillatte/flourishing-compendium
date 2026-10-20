@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 47** — Regulate the breath deliberately
 
-Pranayama is the regulation of the breath after posture is established: making the long and subtle deliberate. The tradition ties it to a specific effect, the thinning of the veil over the mind's clarity. The modern finding is more modest and still real: slow breathing reliably shifts autonomic tone. Practically, practice a fixed ratio of slow breathing at a set time daily, not only in crisis.
+The sutra is about restraint, not simply slow breathing. "When there is this [stability of posture], the restraint of breath cutting off the flow of inspiration and expiration [follows]" (Yoga Sutra 2.49, trans. Woods, p. 193). It comes only after posture is mastered, as the commentary says: "After the mastery of posture [follows the restraint of the breath]" (p. 193).
 
-(YS 2.49-2.53.)
+### What the practice looks like
 
-**Plain words** Breath regulation after posture: making the long and subtle deliberate. The tradition ties it to a thinning of the veil over clarity; modern finding, more modest and still real: slow breathing reliably steadies the nervous system. Regulate the breath on purpose.
+Sutra 2.50 describes it as "External or internal or suppressed in fluctuation and is regulated in place and time and number and is protracted and subtile" (Woods, p. 193). The commentary sets it out in terms of holding the breath after exhaling, after inhaling, or both, measured by "so many inspirations and expirations" (pp. 193-194). The principle's "make the long and subtle deliberate" matches "protracted and subtile", and "regulated in ... number" supports a fixed count.
 
-*For example:* Before the difficult conversation, someone takes five slow breaths, long exhales — not as ritual, as engineering. The tradition named the effect; the physiology agrees; the conversation goes differently.
+### What it is said to do
+
+"As a result of this the covering of the light dwindles away" (2.52, p. 196). The commentary explains that karma that covers discriminative thinking "dwindles away", and quotes: "There is no self-castigation higher than restraint of breath; from it comes purity from defilement and the clear shining of thought" (p. 196). Sutra 2.53 adds that "For fixed attentions also the central organ becomes fit" (p. 197).
+
+### What is not in the text
+
+The commentary says nothing about autonomic tone, a daily set time, or a calm-in-crisis effect. The principle's physiological claim is not supported by anything I opened, so I removed it from this page.
+
+**Plain words** In these texts, breath practice comes after the body is steady and aims to clear the mind's covering so that attention can hold. It is measured and regular, not casual. A fixed daily practice fits that spirit, though the daily schedule itself is the principle's advice, not Patanjali's.
+
+*For example:* Imagined example: after settling into a comfortable seat each morning, you count a slow, measured breath for five minutes. The count follows the sutra's rule that the breath is regulated in number.
+
+(Yoga Sutras 2.49-2.53 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 193-197, Internet Archive, opened 2026-10-21. Sutra 2.51 not quoted.)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 193-197
 ## Psychology parallels
 
 - **Slow breathing and [[Parasympathetic activation|parasympathetic engagement]]**, a systematic review of psycho-physiological correlates (Zaccaro et al., 2018)

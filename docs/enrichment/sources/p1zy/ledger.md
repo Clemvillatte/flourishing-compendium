@@ -37,3 +37,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y043 (2026-10-21)
 - Woods HOS 17 pp. 177-180 (2.29-2.31; page heads "177]", "[178", "179]", "181]"); Arnold Gita ch. 6 moderation passage. Quotes verified; OCR hyphen break in "regula- tions" and a footnote marker inside "what is good 5 for all creatures" ignored.
 - Old text claimed observances "are the conditions of a mind steady enough to meditate" and gave "audit conduct first". Opened commentary supports sequence and non-injury as root only; page labels the rest as the principle's reading. Old cite BG 6.16-6.17 is Arnold ch. 6 (unnumbered). 2.28 not read. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y047 (2026-10-21)
+- Woods HOS 17 pp. 193-197 (2.49-2.50 p. 193; 2.52 p. 196; 2.53 p. 197; pages from "[192/193]", "195]/[196", "[196/197]" running heads). Quotes verified; footnote digits in OCR ("mastery1", "regulated 2") ignored.
+- Old text: "the modern finding... slow breathing reliably shifts autonomic tone" is unsourced; removed from the page (no source opened). The sutra's practice is retention/suspension of breath (cutting off the flow), not just slow breathing; page says so. Daily-fixed-time rule is the principle's advice; labelled. Plain words replicate replaced; example imagined. Self-QC only. Candidate for a later source-backed modern-physiology note if a paper is opened.
