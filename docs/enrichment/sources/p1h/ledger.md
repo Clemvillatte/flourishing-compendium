@@ -534,3 +534,16 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   the page's practice section; consistent. Mention scan (loving-kindness): AT051
   already cited by Attentional bias research, Attentional deployment theory and
   others; no justified new proposals. Validator ok.
+
+### AT063 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Ophir, Nass & Wagner 2009 (PNAS 106(37):15583-15587, PMC2747164 —
+  the correct record; an earlier fetch of a wrong PMC id was discarded). Blockquote
+  verbatim; task-switching result paraphrased from the opened abstract.
+- Seed-body claims scoped: "This is a trained deficit" (causal) replaced with the
+  study's own association framing plus an explicit direction-of-arrow caveat;
+  "the feed trains a mind"/"You are what you switch" aphorisms removed; the exam
+  sarcasm replaced with a self-comparison exercise; plain words re-derived.
+- Linked-concept read: Media multitasking (seed citing Ophir — consistent; AT063
+  is not in its cited-in list, but the principle links it via parallels).
+  Validator ok.
