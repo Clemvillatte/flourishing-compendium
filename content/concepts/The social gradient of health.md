@@ -7,13 +7,13 @@ file: "The social gradient of health"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The social gradient of health is the finding that health tracks social position at every rung of the ladder, not only at the bottom. Michael Marmot's Whitehall studies of British civil servants documented the gradient, and it became the organizing picture of the WHO Commission on Social Determinants of Health, which Marmot chaired ([Marmot, UCL retrospective](https://discovery.ucl.ac.uk/id/eprint/10165786/2/Marmot_Public%20health%20and%20health%20inequalitiesRev.pdf)).
+The social gradient of health is the finding that health tracks social position at every rung of the ladder, not only at the bottom ([Marmot, Friel, Bell, Houweling and Taylor 2008](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf), Lancet). Michael Marmot's Whitehall studies of British civil servants documented the gradient, and it became the organizing picture of the WHO Commission on Social Determinants of Health, which Marmot chaired ([Marmot, UCL retrospective](https://discovery.ucl.ac.uk/id/eprint/10165786/2/Marmot_Public%20health%20and%20health%20inequalitiesRev.pdf)).
 
 > "The poorest people have high levels of illness and premature mortality—but poor health is not confined to those who are worst off. At all levels of income, health and illness follow a social gradient: the lower the socioeconomic position, the worse the health." (Marmot, Friel, Bell, Houweling and Taylor, [Closing the gap in a generation](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/meetingdocument/wcms_161321.pdf), Lancet 372:1661-1669, 2008, on behalf of the Commission on Social Determinants of Health)
 
 ### The Whitehall finding
 
-Within the civil-service cohort, lower employment grade was associated with higher mortality. In Marmot's retrospective account, "The remarkable finding was the social gradient: the lower the employment grade the higher the mortality rate from cardiovascular and respiratory diseases and from most other causes of death" ([Marmot, UCL retrospective](https://discovery.ucl.ac.uk/id/eprint/10165786/2/Marmot_Public%20health%20and%20health%20inequalitiesRev.pdf)).
+Within the civil-service cohort, lower employment grade was associated with higher mortality ([Marmot, UCL retrospective](https://discovery.ucl.ac.uk/id/eprint/10165786/2/Marmot_Public%20health%20and%20health%20inequalitiesRev.pdf)). In Marmot's retrospective account, "The remarkable finding was the social gradient: the lower the employment grade the higher the mortality rate from cardiovascular and respiratory diseases and from most other causes of death" ([Marmot, UCL retrospective](https://discovery.ucl.ac.uk/id/eprint/10165786/2/Marmot_Public%20health%20and%20health%20inequalitiesRev.pdf)).
 
 ### What follows for policy
 
