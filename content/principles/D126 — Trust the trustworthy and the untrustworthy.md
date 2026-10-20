@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 126** — Trust the trustworthy and the untrustworthy
 
-The sage trusts people with trust and with distrust alike: refusing to write people off, refusing to be naive.
+Chapter 49 of the Daodejing has the sage make "the mind of the people his mind", and answer character with character regardless of what he receives: "To those who are good (to me), I am good; and to those who are not good (to me), I am also good;--and thus (all) get to be good."
+
+> To those who are sincere (with me), I am sincere; and to those who are not
+> sincere (with me), I am also sincere;--and thus (all) get to be sincere.
+>
+> (Daodejing 49, Legge)
+
+The basis is not naivety. The sage "has in the world an appearance of indecision, and keeps his mind in a state of indifference to all", dealing with everyone "as his children". The sincerity is not a judgment about the other person; it is a refusal to let their conduct set his own.
 
 (DDJ 49.)
 
-**Plain words** The sage trusts people with trust and with distrust alike — refusing to write people off, refusing to be naive. Trust as a default with open eyes: it's not blindness, it's a stance you can survive being wrong about.
+**Plain words**
+Most people answer trust with trust and suspicion with suspicion, so the other person's conduct ends up steering both sides. The chapter's alternative is to decide your own conduct first. The claim it makes is strong, that everyone gets drawn into sincerity; the compendium's modest version is that your sincerity at least stops depending on theirs.
 
 *For example:* Lending the recovering friend money again, with clear terms — believing the recovery, without pretending the past didn't happen.
+
+## Sources
+
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 49
 
 ## Psychology parallels
 
