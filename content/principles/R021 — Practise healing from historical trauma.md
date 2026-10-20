@@ -24,7 +24,7 @@ Healing, in Atkinson's account, is the other half of the same trails: people tel
 
 (Atkinson, 2002; Aboriginal SEWB framework.)
 
-**Plain words** The sources describe trauma that compounds across generations, and healing that is the same shape: stories told and heard, generations in the same room, culture carrying the work. None of it is a private, one-person project.
+**Plain words** A person's distress may have a history reaching beyond their own lifetime. The programmes described here consider family, community and culture as well as the individual; they do not treat healing as only an individual task.
 
 *For example:* Imagine a family attending a healing programme together, three generations in the same room, hearing the stories the grandparents carry.
 
