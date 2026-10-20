@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 31** — Regulate early, not late: timing matters more than intensity
 
-In their account of emotion regulation effectiveness, Sheppes and Gross contrast two specific strategies: reappraisal, which attends to emotional information and reinterprets it, and distraction, which blocks the information before it gathers force. In their framework, reappraisal is effective at low emotional intensity but becomes costly and effortful at high intensity, while distraction is expected to provide short-term relief from high-intensity stimuli with minimal effort. ([Sheppes & Gross, 2012](https://doi.org/10.1002/9781118133880.hop205018)) The compendium's proposal is an exercise: notice an emotion while it is still small enough that the interpretive strategy is cheap, rather than waiting for the peak.
+In their account of emotion regulation effectiveness, Sheppes and Gross contrast two specific strategies: reappraisal, which attends to emotional information and reinterprets it, and distraction, which blocks the information before it gathers force. ([Sheppes & Gross, 2012](https://doi.org/10.1002/9781118133880.hop205018)) In their framework, reappraisal is effective at low emotional intensity but becomes costly and effortful at high intensity, while distraction is expected to provide short-term relief from high-intensity stimuli with minimal effort. The compendium proposes noting when an emotion first becomes noticeable and recording its intensity before deciding what to try.
 
 > "For these reasons reappraisal is effective in the context of a low intensity emotional response, but it becomes costly and effortful in the context of a high intensity emotional response." (Sheppes, G., & Gross, J. J. (2012). Emotion Regulation Effectiveness: What Works When. Handbook of Psychology, Second Edition, [DOI](https://doi.org/10.1002/9781118133880.hop205018))
 
@@ -35,4 +35,4 @@ In their account of emotion regulation effectiveness, Sheppes and Gross contrast
 
 ## Sources
 
-- [Sheppes, G., & Gross, J. J. (2012). Emotion Regulation Effectiveness: What Works When. Handbook of Psychology, Second Edition](https://doi.org/10.1002/9781118133880.hop205018) — chapter full text opened via the author-hosted PDF; the blockquote is verbatim; chapter metadata verified via Crossref
+- [Sheppes, G., & Gross, J. J. (2012). Emotion Regulation Effectiveness: What Works When. In Handbook of Psychology, Second Edition.](https://doi.org/10.1002/9781118133880.hop205018)

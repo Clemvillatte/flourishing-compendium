@@ -36,5 +36,5 @@ Functional accounts of emotion, as Keltner and Gross summarize them, define emot
 
 ## Sources
 
-- [Keltner, D., & Gross, J. J. (1999). Functional Accounts of Emotions. Cognition and Emotion, 13(5), 467-480](https://doi.org/10.1080/026999399379140) — full text opened via the UC Berkeley Greater Good PDF; the blockquote is verbatim from the abstract
-- [Craske, M. G., Treanor, M., Conway, C., Zbozinek, T., & Vervliet, B. (2014). Maximizing exposure therapy: An inhibitory learning approach. Behaviour Research and Therapy, 58, 10-23](https://doi.org/10.1016/j.brat.2014.04.006) — full text opened via PMC (PMCID PMC4114726); the avoidance passage verified verbatim
+- [Keltner, D., & Gross, J. J. (1999). Functional Accounts of Emotions. Cognition and Emotion, 13(5), 467-480.](https://doi.org/10.1080/026999399379140)
+- [Craske, M. G., Treanor, M., Conway, C., Zbozinek, T., & Vervliet, B. (2014). Maximizing exposure therapy: An inhibitory learning approach. Behaviour Research and Therapy, 58, 10-23.](https://doi.org/10.1016/j.brat.2014.04.006)
