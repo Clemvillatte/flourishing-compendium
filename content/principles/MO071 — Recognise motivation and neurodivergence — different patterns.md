@@ -12,18 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 71** — Recognise motivation and neurodivergence: different patterns
 
-The clearest documented case of a different motivational pattern is Dodson's clinical account of ADHD:
+William Dodson offers an ADHD-specific account of engagement in ADDitude, a medically reviewed magazine:
 
 > People with ADHD primarily get in the zone by being interested in, or intrigued by, what they are doing. I call it an interest-based nervous system.
 
 (Dodson, "Secrets of Your ADHD Brain", ADDitude, medically reviewed; [article](https://www.additudemag.com/secrets-of-the-adhd-brain/))
 
-In his account the standard levers do not work: "They know what's important, they like rewards, and they don't like punishment. But for them, the things that motivate the rest of the world are merely nags." Dodson is a clinician writing for families, and the interest-based framing is his, not a consensus definition. The compendium's broader point stands on its own: engagement patterns vary with neurology, and motivational advice that assumes one kind of brain will misfire on the others.
+He describes the other side of the account this way:
+
+> They know what's important, they like rewards, and they don't like punishment. But for them, the things that motivate the rest of the world are merely nags.
+
+The principle borrows the shape of Dodson's account, not its authority: one clinician's framing for one condition, offered as an example of the wider idea the title names, that engagement patterns differ and that advice assuming one pattern will fit people differently.
 
 **Plain words**
-Standard advice assumes a brain that gets moving when something is important or rewarded. Some brains do not move for those levers; they move for interest, novelty, challenge or urgency. The skill is to learn which levers actually move you and route work through them, instead of retrying the levers that do nothing.
+Compare the situations in which you can begin and sustain a task with the situations in which you cannot. Record what differs between them, including interest or urgency. Those observations are what you have to work with when considering changes to how and when you work.
 
-*For example:* Imagine a person who cannot start the tax filing until the deadline is two days out, yet reorganizes a whole archive the moment a subject fascinates them. That is not a defect of effort; the engagement switches answer to different triggers.
+*For example:* Imagine a person who cannot start the tax filing until the deadline is two days out, yet reorganizes a whole archive the moment a subject fascinates them. The pattern Dodson's account names is engagement that follows interest; recording when engagement actually shows up is how the person learns their own version.
 
 ## Sources
 
@@ -42,4 +46,4 @@ Standard advice assumes a brain that gets moving when something is important or 
 
 ## Practice
 
-List the conditions under which you actually get engaged (interest, challenge, novelty, urgency) and note which tasks fall outside them. Route important work through one of those conditions rather than through importance alone.
+Over a week, note the conditions under which you actually get engaged and the tasks that fall outside them. Consider whether the important work can be routed through the conditions on your list rather than through importance alone.
