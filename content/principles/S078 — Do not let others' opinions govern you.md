@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 200** — Do not let others' opinions govern you
 
-The Stoic does not seek praise or fear blame. What others think of you is outside your control and therefore indifferent. Let your own judgement of your virtue be your standard.
+Epictetus opens the Enchiridion by placing reputation among the things not in our power (Ench. 1). Marcus states the working rule:
 
-(Med. I.6, II.6, III.4, IV.3, IV.18, V.3, VI.16, VII.31, VIII.45, IX.30; Disc. I.1, I.12, I.20, I.25; Ench. 1, 42, 47; Seneca, Letters 20, 29, 41, 44, 73, 75, 79, 91, 94, 103, 123.)
+> "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure" (Marcus Aurelius, Meditations, Book IV, section 18, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** The Stoic doesn't seek praise or fear blame. What others think is outside your control, so indifferent. Let your own judgement of your virtue be the standard.
+Book VI adds the sober estimate of applause: "the praise which comes from the many is a clapping of tongues" (Meditations VI.16). The survey of mankind in Book IX ends with the reminder that "how they who perhaps now are praising thee will very soon blame thee, and that neither a posthumous name is of any value, nor reputation, nor anything else" (Meditations IX.30).
+
+(Med. IV.18, VI.16, IX.30; Ench. 1.)
+
+**Plain words**
+The drain is real. You can spend a whole afternoon rehearsing what someone might say about your choice, and the rehearsal changes nothing about the choice. Marcus narrows the question: what is the deed itself, and is it just? Applause and blame come from the same crowd, and the voices praising you now will be blaming you soon enough.
 
 *For example:* Doing the right thing at work when nobody is watching and nobody will thank you.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book IV, section 18; Book VI, section 16; Book IX, section 30
+- [Epictetus, Enchiridion 1 (George Long translation, Delphi Complete Works of Epictetus)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)
 
 ## Psychology parallels
 

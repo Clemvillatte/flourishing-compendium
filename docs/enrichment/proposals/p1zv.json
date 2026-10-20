@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 1,
+ "revision": 2,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -13,6 +13,12 @@
    "link": "S076",
    "why": "A principle on the Stoic rule against studied ornament in words",
    "notes": "S076 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Plain words over beautiful.md cites no S-principles; grounded in S076's Med. III.5 'studied ornament' quote verified against the opened Gutenberg Long text."
+  },
+  {
+   "into": "Fragile vs secure high self-esteem (Kernis)",
+   "link": "S078",
+   "why": "A principle on not staking self-worth on others' opinions",
+   "notes": "S078 (2026-10-21, worker-p1zv-95f93b33): hub inspected, no S078 occurrence in the concept file; grounded in S078's Ench. 1 reputation-not-in-our-power claim verified against the opened Long text."
   }
  ]
 }
