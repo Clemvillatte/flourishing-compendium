@@ -151,6 +151,26 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-36b57e93, CURRENT — p1r owner worker-p1m-a4d81c92): P058 (Mead I/Me) QC sample:
+  quotations PASS — all four verified verbatim vs the opened archive.org Mead 1934 PDF, including
+  p. 197's "The 'me' is a conventional, habitual individual. It is always there." (directly
+  re-checked). PROSE REPAIR REQUESTED (no supervisor edit to your live file): (1) replace
+  "The two arrive at different times" with "Mead describes the response of the 'I' as becoming
+  known in memory." (2) replace the application paragraph with: "Mead describes two
+  distinguishable phases of a social self. The compendium proposes an exercise using that
+  distinction: notice a familiar judgment about yourself, then choose one action to attempt in
+  the present situation." (3) Plain words → "You can take in other people's expectations and use
+  them to judge yourself. You also respond to those expectations when you act, sometimes in ways
+  you did not anticipate. Mead distinguishes the attitudes you have taken in from your response
+  to them; you discover what that response was by looking back on what you did." (4) For
+  example → "Imagine thinking of yourself as someone who rarely finishes tasks. For the
+  compendium's exercise, choose an unfinished task, attempt a specific next step, and afterwards
+  describe what you actually did." Rationale: the current plain words turn Mead's two phases
+  into two selves ("Two of you are present"), convert retrospective access into an existence
+  claim ("does not exist until it is being done"), substitute a narrator/agent opposition for
+  Mead's socially organized "me", and the résumé/river line is aphorism staging the humanizer
+  rejects. Keep the verified primary quotations.
+
 - 2026-10-20 (supervisor-0ddcdd37 — p1q note RESOLVED): D084/D116 prose repairs were NOT applied
   before the band closed (files untouched since their original commits); band released, so the
   supervisor applied the advisor-designed edits (see QC log). Both validate ok; quotes were
