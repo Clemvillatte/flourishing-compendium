@@ -24,3 +24,9 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Opened full [Ross NE III](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html), sections 2–3; exact short blockquote is an explicitly labelled excerpt. The health example and stopping point of deliberation are in the actual text.
 - Opened [Kahn, Discovering Will, pp. 239–240](https://pub-ucpec2-prd.cdlib.org/ucpressebooks/view?docId=ft029002rv&doc.view=content&chunk.id=d0e12594&toc.depth=1&anchor.id=0&brand=eschol), to verify the Greek term rather than pretend Ross's English text printed it. No broad historical invention of “will” claim.
 - Original frontmatter, source citation and all original wikilink markup preserved. Existing Boulesis gloss retained with actual source URL. Fast-track saturation skipped; no new reciprocal proposed.
+
+## Prudence
+
+- Fast-track degree 6 verified; read the actual D061, D077 and D157 contexts. Their danger/foresight use is a comparison, not the whole of Aristotle's concept.
+- Opened full [Ross NE VI](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html), especially 5 and 12–13; exact definition quote from VI.5. Opened [Kraut SEP Aristotle's Ethics 4/5.3](https://plato.stanford.edu/entries/aristotle-ethics/) to confirm phronêsis and the virtue/deliberation relation.
+- Source clearly distinguishes ethical judgment from clever pursuit of any goal; no new assertion that caution alone constitutes virtue. Original frontmatter, bibliography and cited-in list retained unchanged. Fast-track saturation skipped; no new reciprocal.
