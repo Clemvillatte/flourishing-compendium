@@ -33,7 +33,7 @@ Take the person who says they value fitness and owns a dusty bike, next to the p
 ## Psychology parallels
 
 - **[[Habit|Habit and identity]]**, context-triggered responses without a mediating goal (Wood and Neal, 2007)
-- **[[Identity|Identity-based habits]]** (Clear, 2018)
+- **[[Identity|Identity-based habits]]** (Clear)
 
 ## Philosophy parallels
 

@@ -20,20 +20,20 @@ Mead is describing the social genesis of the self, and his timing claim is retro
 
 ### Plain words
 
-The self has two phases, and only one can be quoted. The "me" is the organized set of attitudes taken over from others, the part that can be inspected and narrated. The "I" is your response to all that, and it enters experience only afterward, in memory. The résumé is a photo of the river, not the river.
+The self has two phases. The "me" is the organized set of attitudes taken over from others, the expectations and roles you answer to, and it can be inspected and narrated. The "I" is your response to all that, and it enters experience only afterward, in memory. The résumé is a photo of the river, not the river.
 
 ### For example
 
-Take the panic of "I'm someone who always quits." That sentence comes from the "me," a record of acts already finished. The exercise is to note what the record predicts, then act and review what was actually done: the prediction is one input, and the review is where the response becomes visible. The exercise does not promise the next attempt succeeds; it sets up a comparison between expected and actual response.
+Imagine a meeting where you expect to agree, having learned to see yourself as the agreeable colleague. The exercise is to note that expectation before speaking, and afterward compare it with what was actually said. The comparison, between the internalized expectation and the response examined afterward, is the compendium's proposed application. The exercise does not promise the response will differ from the expectation; it makes the expectation visible and the response reviewable.
 
 ## Psychology parallels
 
-- **[[Self-as-context|Self-as-context in ACT]]**, the observing perspective versus self-as-content (Hayes et al., 2011)
+- **[[Self-as-context|Self-as-context in ACT]]**, the observing perspective versus self-as-content (Webster, 2011)
 
 ## Philosophy parallels
 
 - **[[The I and the Me|The I and the Me]]** (Mead, Mind, Self and Society)
-- **The thinker is another thought** (Milindapanha; the Buddhist anatta)
+- **The thinker is another thought**, this compendium's own formulation (B075); the opened Milindapanha passage supports the narrower claim that a personal name is a designation for the parts assembled (Milindapanha 3.1.1)
 
 <!-- fc: reflections
 Where are you currently confusing the acting "I" with the known "Me" — treating the narrated self as the doer? What's the confusion?
