@@ -162,3 +162,10 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Source opened: Heidegger, Being and Time Div. II ch. 2 (Macquarrie and Robinson), https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc ; also cross-checked against Internet Archive OCR. Quotes verified word-for-word; the file marks German (H.) page starts at paragraph ends, so locators are given as H. ranges (273-274, 275-276, 277-278, 270-271, 288-289). SEP snippet confirms 'asserts nothing' at SZ 273.
 - Plain words was a replicate; 'calls collect' and the career-change claim removed (unsupported). Example labelled imagined. Practice framed as readiness (wanting to have a conscience, H. 288), per Heidegger's 'not cultivate the call voluntarily'. Not covered: the content 'Guilty!' (§58).
 - Self-QC only (no advisor tool).
+
+## E049 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: Kierkegaard, Fear and Trembling and The Sickness unto Death, trans. Lowrie (Anchor), Internet Archive full text (https://archive.org/details/fear-and-trembling-and-the-sickness-unto-death); Hong and Hong, The Essential Kierkegaard (Ted K Archive) for Either/Or II quotes (fetched; no page markers). Lowrie quotes checked word-for-word against OCR (p. 153 quote spans a hyphenated line break: 'op- posite'). Page numbers from OCR running heads.
+- Scholarship: Sickness unto Death is by Anti-Climacus (pseudonym, noted in Lowrie intro). Old page said the overcoming is 'the choice to be the self you truly are'. Anti-Climacus says self-rescue deepens despair and the formula for its removal is grounding in the Power that posited the self = faith (p. 147, p. 262). The 'choose yourself' wording is Judge William (Either/Or II), supported with SEP and Hong. The page now reports both and says the cure is religious in Kierkegaard.
+- Plain words was a replicate, replaced; example labelled imagined. Original Either/Or citation kept (1843) and now actually opened.
+- Self-QC only (no advisor tool).

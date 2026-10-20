@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 441** — Practise despair and its overcoming
 
-Recognise despair — the condition in which the self is not itself, in which you are out of alignment with your own deepest possibility. Kierkegaard described despair as the sickness unto death: the condition of not wanting to be oneself, or of wanting to be oneself on one's own terms. The overcoming of despair is not a cure but the choice to be the self you truly are.
+In The Sickness unto Death, Kierkegaard's pseudonym Anti-Climacus names two forms of despair: not willing to be oneself, and willing to be oneself in the wrong way (Part One, p. 146, trans. Lowrie). The second is the more revealing one. The self a despairing person insists on being "is a self which he is not", and Anti-Climacus adds in brackets: "for to will to be that self which one truly is, is indeed the opposite of despair" (p. 153). Such a person "is not willing to attire himself in himself, nor to see his task in the self given him"; he builds the self he prefers (p. 202).
 
-(Kierkegaard, 1849/1983, The Sickness unto Death; Kierkegaard, 1843/1987, Either/Or.)
+### Two ways out
 
-**Plain words** Despair, Kierkegaard's sickness unto death: the condition of not wanting to be oneself — or of wanting desperately to be a self one is not. The self out of alignment with its own possibility. The overcoming isn't self-improvement; it's the willingness to be the self you are.
+Anti-Climacus does not offer self-repair as a cure. A person who tries to abolish despair by himself alone is "only laboring himself deeper into a deeper despair" (p. 147). The despair-free self is the one that, "by relating itself to its own self and by willing to be itself", is "grounded transparently in the Power which posited it" (p. 147). He later calls that formula "the definition of faith" (p. 262).
 
-*For example:* The person who's spent twenty years being the self the family needed, the market rewarded, the mirror approved — and the exhaustion that no achievement touches. The cure isn't a better mask; it's the terrifying willingness to take the built one off.
+The more secular-sounding version of the principle is in Either/Or, where Judge William tells a friend: "Choose despair, then, because despair itself is a choice". The result is that "he chooses himself in his eternal validity" (Either/Or II, trans. Hong).
+
+**Plain words** Despair, as Kierkegaard uses the word, is not just feeling low. It is a mismatch between the person you are and the person you are living as. One version runs from the self you were given; the other builds a self by willpower. In both, you are not at home in your own life. His own cure is religious. Judge William's version asks something you can try without that framework: see the mismatch honestly and choose to own your life from where you stand.
+
+*For example:* Imagined example: someone realises that every major choice in their twenties was made to satisfy an audience. The first step is to name that plainly. After that, decide which of those commitments they would still choose, knowing they were never chosen freely.
+
+(Kierkegaard, The Sickness unto Death, Part One and Part Two, trans. Walter Lowrie (1941/1954), pp. 146-147, 153, 202, 262; Either/Or, Part II, trans. Hong, in Hong and Hong, The Essential Kierkegaard; both opened 2026-10-21.)
+
+## Sources
+
+- [Kierkegaard, Fear and Trembling and The Sickness unto Death, trans. Lowrie (Anchor), Internet Archive](https://archive.org/details/fear-and-trembling-and-the-sickness-unto-death) — pp. 146-147, 153, 202, 262
+- [Hong and Hong, The Essential Kierkegaard, Ted K Archive](https://www.thetedkarchive.com/library/howard-v-hong-and-edna-h-hong-the-essential-kierkegaard) — Either/Or, Part II, "The Balance Between the Esthetic and the Ethical"
 ## Psychology parallels
 
 - **Depression and existential despair** (Yalom, 1980; Beck et al., 1979)
