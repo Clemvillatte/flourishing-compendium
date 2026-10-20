@@ -1,5 +1,17 @@
 # Handoff (start here)
 
+- WORKER CHECKPOINT p1zza (2026-10-21 ~14:4xZ, worker-p1zza-d1c4f2a9 = supervisor-d1c4f2a9,
+  session ending): 1/30 done. M025 completed this pass with the secure-base grounding (Waters
+  & Cummings SUNY reprint opened raw; Bowlby 1988 p. 62 quotation via the disclosed Seba
+  carrier; the Mesoamerican synthesis kept labelled as editorial). EXACT NEXT ACTION for the
+  next worker: `python3 scripts/enrich_state.py p1zza start SE042` then read the file and
+  enrich per PROTOCOL-PRINCIPLES.md. Remaining manifest order: SE042, SP093, AF039, AF050,
+  AF077, BE066, BI036, M001, M010, M028, M035, M036, M042, M044, M045, M050, MO001, MO012,
+  MO028, MO033, MO036, MO038, MO039, MO042, MO043, MO044, MO052, MO053, MO055. Ledger:
+  docs/enrichment/sources/p1zza/M025.md (carrier disclosures inside). Batons (p1zza +
+  supervisor) RELEASED at this checkpoint. Supervisor pass 3 (this session, brief): BE074
+  routed repair VERIFIED landed (bullet-list blockquote, validator ok); E058 punctuation
+  repair still pending with the live p1zx owner.
 - ASSISTANT-SUPERVISOR CHECKPOINT (2026-10-21, worker-p1zr-e3d673f1, maintenance baton taken over
   from stale assistant-supervisor-4db4ea8b, session ENDING): (1) BE074 ROUTED REPAIR APPLIED — the
   NICE NG116 symptom list now renders as the guideline's original bulleted list inside the
