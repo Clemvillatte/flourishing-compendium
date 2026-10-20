@@ -40,4 +40,4 @@ Use "this person is another me" as a prompt to consider the other person's stand
 
 ## Sources
 
-- [Popol Mayab', "In lak'ech o los saludos mayas"](https://popol-mayab.org/2015/09/06/in-lakech/) — the 1964 Martínez Parédez coinage (Hunab Ku: síntesis del pensamiento filosófico maya), the no-text-no-stela note, and the mid-twentieth-century-philosopher attribution; Spanish quotations verbatim, translations mine. The seed's claim that the phrase circulates widely in living Maya communities was not verified and is not repeated; this source disputes it.
+- [Popol Mayab', "In lak'ech o los saludos mayas"](https://popol-mayab.org/2015/09/06/in-lakech/) — a 2015 article attributing the greeting to Domingo Martínez Paredes's 1964 book. This attribution is reported here, not independently verified against the book or a scholarly history.

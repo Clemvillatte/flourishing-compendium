@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 36** — Ask whether this life is real, and let the question sting
 
-The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only rise from sleep, we come only to dream, it is ahnelli [unrooted, inauthentic, untrue], it is ahnelli that we come on earth to live" (trans. León-Portilla, in Maffie, "Pre-Columbian Philosophies", Companion excerpt). Maffie's reading: Nahua philosophers "conceived the dreamlike illusoriness of earthly existence in epistemological – not ontological – terms" — the ordinary human condition is to misperceive, "not the Platonic-style metaphysical point that earthly existence is ontologically substandard." The exercise below is the compendium's adaptation of the question.
+The songs ask the question directly. Tochihuitzin Coyolchiuhqui sings: "We only rise from sleep, we come only to dream, it is ahnelli [unrooted, inauthentic, untrue], it is ahnelli that we come on earth to live" (trans. León-Portilla, 1992, p. 153, in Maffie, "Pre-Columbian Philosophies", Companion excerpt). Maffie's reading: Nahua philosophers "conceived the dreamlike illusoriness of earthly existence in epistemological – not ontological – terms" — the ordinary human condition is to misperceive, "not the Platonic-style metaphysical point that earthly existence is ontologically substandard." The exercise below is the compendium's adaptation of the question.
 
 **Plain words**
 The songs say we come only to dream; Maffie reads the dreamlikeness as a fact about human perception, not about the world's reality. The exercise below is this compendium's adaptation: hold the question once in a while and let it re-price your hours.
@@ -21,7 +21,7 @@ The songs say we come only to dream; Maffie reads the dreamlikeness as a fact ab
 
 ## Psychology parallels
 
-- **Scarcity-of-time framing's [[Savoring|savoring]] effects**, the research on how perceived finitude increases presence and appreciation (Cozzolino, 2006; the mortality-salience constructive branch)
+- **[[Savoring|savoring]]** (Cozzolino, 2006)
 
 ## Philosophy parallels
 
@@ -39,4 +39,4 @@ The songs say we come only to dream; Maffie reads the dreamlikeness as a fact ab
 
 ## Sources
 
-- [Maffie, J., "Pre-Columbian Philosophies", in A Companion to Latin American Philosophy (Wiley), chapter excerpt](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the Tochihuitzin Coyolchiuhqui song (trans. León-Portilla 1992, p. 80) and the epistemological-not-ontological reading of the dreamlikeness of earthly existence. The seed's Nezahualcoyotl attribution and wording ("Is it true that one lives on the earth? Perhaps we only dream") was not verified in an opened source and is not repeated.
+- [Maffie, J., "Pre-Columbian Philosophies", in A Companion to Latin American Philosophy (Wiley), chapter excerpt](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the Tochihuitzin Coyolchiuhqui song (trans. León-Portilla, 1992, p. 153, brackets in the original) and the epistemological-not-ontological reading of the dreamlikeness of earthly existence. The seed's Nezahualcoyotl attribution and wording ("Is it true that one lives on the earth? Perhaps we only dream") was not verified in an opened source and is not repeated.
