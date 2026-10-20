@@ -16,7 +16,7 @@ Hattie and Timperley's synthesis of the feedback evidence opens with a finding a
 
 > "Effective feedback must answer three major questions asked by a teacher and/or by a student: Where am I going? (What are the goals?), How am I going? (What progress is being made toward the goal?), and Where to next? (What activities need to be undertaken to make better progress?)" (Hattie & Timperley, 2007, p. 86)
 
-**Plain words** You can track your own development the way you'd track anything you care about. A quarterly check-in — identity clarity, self-esteem stability, self-compassion, values alignment — turns "how am I doing as a self?" from a mood into a measurement. What you notice, you can steer.
+**Plain words** You can track your own development the way you'd track anything you care about. A quarterly check-in — identity clarity, self-esteem stability, [[Self-compassion|self-compassion]], values alignment — turns "how am I doing as a self?" from a mood into a measurement. What you notice, you can steer.
 
 *For example:* Once a quarter, the same three questions in a notebook: Who am I becoming? What did I say no to? What do I keep doing that I don't respect? Ten minutes. The notebook becomes the most honest mirror in the house, because it has no incentive to flatter you.
 ## Psychology parallels
