@@ -41,3 +41,11 @@ of the article's explicit distinction, not a claim about a person's diagnosis.
 
 Local `enrich_validate.py --base fb21ccda --fast-track` PASS; expected warning
 for fewer than three Related lines. State marked done and pushed.
+Manual fast-track checklist then caught a missing standalone quotation despite
+validator PASS. Added exact definition from Devine and colleagues' opened
+abstract with locator, and retained the distinction between mechanical
+validation and substantive acceptance. Rolling advisor review requested.
+Rolling independent advisor confirmed substantive claims and preservation PASS
+and identified the same missing-quote defect before seeing this local repair.
+The added quote is exactly the sentence it independently specified. Reopened
+state for explicit repair/validation/done checkpoint sequence.

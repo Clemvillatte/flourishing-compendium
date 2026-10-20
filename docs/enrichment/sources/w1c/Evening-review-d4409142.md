@@ -37,3 +37,5 @@ No reciprocal hunt or saturation search under fast-track.
 
 Local `enrich_validate.py --base f5e6f137 --fast-track` PASS; expected warning
 for absent Related heading. All original navigation retained. State done/pushed.
+Independent rolling advisor PASS: exact quotation and attribution, supporting
+interpretation and complete preservation. No further prose changes requested.

@@ -36,4 +36,6 @@ No saturation hunt or reciprocal proposal under fast-track.
 
 ## Validation
 
-Pending local validation against d55ef6f3.
+Local `enrich_validate.py --base d55ef6f3 --fast-track` PASS; expected warning
+for fewer than three Related lines. State done and pushed after rebase/retry
+of a concurrent remote update. No work left only in local commits.

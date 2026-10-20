@@ -30,17 +30,18 @@
   "Right action",
   "Walking meditation",
   "Bhavana (cultivation)",
-  "Nonattachment",
   "The evening review",
   "Conatus",
   "Deus sive natura"
  ],
- "in_progress": null,
+ "in_progress": "Nonattachment",
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
-  "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly"
+  "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
+  "Nonattachment": "Reopened for QC: Rolling QC: exact definition blockquote required; local repair ready for validation"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T05:51:03+00:00"
+ "updated": "2026-10-20T05:52:43+00:00",
+ "band_done": false
 }

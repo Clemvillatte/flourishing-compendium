@@ -9,6 +9,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Nonattachment is release from mental fixations in Sahdra, Shaver and Brown's psychological account of a Buddhist concept ([2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)). A later assessment chapter describes a flexible relationship with experience, without clinging to it or suppressing it ([Devine and colleagues, Nonattachment Scale](https://link.springer.com/rwe/10.1007/978-3-031-47219-0_38)).
 
+> "Nonattachment is defined as a flexible and balanced way of relating to one’s experiences without clinging to or suppressing them." (Devine and colleagues, Nonattachment Scale, [abstract](https://link.springer.com/rwe/10.1007/978-3-031-47219-0_38).)
+
 ### Different senses of attachment
 
 Sahdra and colleagues distinguish nonattachment from secure and insecure interpersonal attachment: the latter concern expectations of security, while nonattachment concerns insight into the constructed and impermanent character of mental representations ([2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)). Treating an insecure attachment style as evidence of Buddhist nonattachment would therefore confuse the constructs ([2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)).

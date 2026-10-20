@@ -32,3 +32,5 @@ Local `enrich_validate.py --base 35862895 --fast-track` PASS; expected warning
 for fewer than three Related lines. A second fetch of LeBuffe's unprompted
 text checked the section locators: joy/sadness is section 2.1, not section 3.
 A second Gutenberg extraction independently confirmed the Elwes translator.
+Independent rolling advisor PASS: primary quotation, translator, III.7 claim,
+LeBuffe section locators and all original links/front matter confirmed.
