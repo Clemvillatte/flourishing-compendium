@@ -14,7 +14,7 @@ import subprocess
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def select(queue, manifests, kind, start=None, end=None, count=None, priority=False):
+def select(queue, manifests, kind, start=None, end=None, count=None, priority=False, disciplines=None):
     key = kind + 's'
     assigned = {item for manifest in manifests for item in manifest.get(key, [])}
     ranked = list(enumerate(queue, 1))
@@ -23,6 +23,13 @@ def select(queue, manifests, kind, start=None, end=None, count=None, priority=Fa
         if priority:
             ranked = [(rank, item) for rank, item in ranked
                       if re.fullmatch(r'[BDP]\d+', item['id'])]
+        if disciplines:
+            wanted = {d.strip() for d in disciplines.split(',') if d.strip()}
+            def disc_of(item):
+                text = (ROOT / item['path']).read_text(encoding='utf-8')
+                m = re.search(r'^discipline: ?"?([^"\n]+?)"?$', text, re.M)
+                return m.group(1) if m else None
+            ranked = [(rank, item) for rank, item in ranked if disc_of(item) in wanted]
         ranked = ranked[:count]
         if len(ranked) != count:
             raise ValueError(f'only {len(ranked)} eligible unassigned items; requested {count}')
@@ -47,7 +54,10 @@ def main():
     parser.add_argument('--type', choices=['concept', 'principle'], default='concept')
     parser.add_argument('--count', type=int)
     parser.add_argument('--priority', action='store_true')
+    parser.add_argument('--disciplines', help='comma-separated exact discipline names (front-matter); requires --count')
     args = parser.parse_args()
+    if args.disciplines and args.count is None:
+        parser.error('--disciplines requires --count')
     if not re.fullmatch(r'[a-z][a-z0-9]*', args.band):
         parser.error('invalid band name')
     if args.count is not None and (args.count < 1 or args.start is not None or args.end is not None):
@@ -63,7 +73,7 @@ def main():
     manifests = [json.loads(p.read_text(encoding='utf-8'))
                  for p in band_dir.glob('*-manifest.json')]
     try:
-        ranked = select(queue, manifests, args.type, args.start, args.end, args.count, args.priority)
+        ranked = select(queue, manifests, args.type, args.start, args.end, args.count, args.priority, args.disciplines)
     except ValueError as ex:
         parser.error(str(ex))
     head = subprocess.run(['git', 'rev-parse', 'HEAD'], cwd=ROOT, capture_output=True,
@@ -74,7 +84,10 @@ def main():
                 args.type + 's': [item['id'] for _, item in ranked]}
     if args.count is not None:
         manifest['selected_ranks'] = ranks
-        manifest['selection'] = 'unassigned B/D/P principles, degree order' if args.priority else 'unassigned, degree order'
+        if args.disciplines:
+            manifest['selection'] = f'unassigned, disciplines [{args.disciplines}], degree order'
+        else:
+            manifest['selection'] = 'unassigned B/D/P principles, degree order' if args.priority else 'unassigned, degree order'
     band_dir.mkdir(parents=True, exist_ok=True)
     with path.open('x', encoding='utf-8') as handle:
         json.dump(manifest, handle, indent=1, ensure_ascii=False)

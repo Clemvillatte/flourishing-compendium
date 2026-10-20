@@ -1311,3 +1311,18 @@ exposed; identifier tied to this session.
   mostly degree 5-7 (fast-track). Baton released.
 
 Worker note (2026-10-20 22:57+ AEDT, genuineflourishing05, w1e — CONSOLIDATED HANDOFF, going offline): took w1e at 36/70; now 46/70 DONE, all pushed and verified on origin/main (latest fe78542f7). Items enriched this session (normal bar, each with an evidence ledger in docs/enrichment/sources/w1e/): Directed attention fatigue; Distinguishing appearance from reality; Distinguishing feeling from fact; Distinguishing practice from theory; Distress tolerance (DBT); ERP (exposure and response prevention); Ecological systems theory; Effortless attention; Embodied perception; Embodied social identity. The 10-item milestone QC ran four advisor rounds: the final verdict is CONDITIONAL PASS — all substantive repairs applied, validated and pushed; the two remaining title dispositions are routed to the supervisor (see below); the QC limitations (retrospective state cycles in rounds 2-3, recorded truthfully in the ledgers; one push conflict mid-round-4 resolved with pull --rebase) are recorded in the ledgers. NEXT ITEM for whoever takes w1e: "Emotion awareness" (manifest order; remaining 24: Emotion awareness, Empiricism: experience over argument, Epicurean argument against the fear of death, Erikson's psychosocial theory, Ethics as foundation, Eudaimonic motivation intrinsic goals, Everyday creative activities, Everyone desires eudaimonia, Existential meaning, Exposure therapy (Foa Craske), Extended process model of emotion regulation, Extrinsic motivation, First impressions bias, Fragile vs secure high self-esteem (Kernis), Fredrickson's positivity portfolios, Friendship shapes character, Goal-directed attentional control, Grief for what passes, Guarding the senses, Habit maintenance, Happiness as activity, Instruments for human growth, Interoceptive exposure (Barlow), Intrinsic value of nature). UNRESOLVED, ROUTED TO THE SUPERVISOR: (1) two title dispositions — "Distinguishing practice from theory" and "Embodied social identity" (each with its rationale in the 5-item and 10-item QC notes above; the pages are enriched and pushed; the namespace/editorial-synthesis question needs supervisor disposition); (2) translation note re: Enchiridion Oldfather/Long (5-item QC note above). The next advisor QC milestone is the 15-item mark. Releasing w1e at this clean checkpoint.
+- 2026-10-20 (genuineflourishing02, OWNER DIRECTIVE — band minting): the owner directed minting by
+  tradition priority: Buddhism (incl. Kyoto School and Tibetan Buddhism) first, then
+  Pragmatism > Aristotelian > Existentialism > Yoga > others. Status measured against the fresh
+  queue (regenerated this session): Daoism, Tibetan, Pragmatism and Buddhism have ZERO weak
+  unassigned items left (3 Buddhism pages remain outside the weak queue with rich prose from the
+  pre-band era — supervisor may want to verify them). Fresh bands minted (queue@e377f4a8, degree
+  order within each):
+    p1zw — Kyoto School and Tibetan Buddhism (29 items) — completes the Buddhist family
+    p1zx — Aristotelian Virtue Ethics (8) + Existentialism (1) + Existentialism and Phenomenology (23) = 32 items
+    p1zy — Yoga-Vedanta (70 items)
+    p1zz — Yoga-Vedanta remainder (23 items)
+  Tooling: scripts/enrich_manifest.py gained a --disciplines option (comma-separated exact
+  front-matter discipline names, requires --count; backward compatible). Next mint wave should
+  follow the owner's order into the remaining disciplines (Spinozism 48, Mesoamerican 41,
+  Sociocultural 39, Motivation 30, Positive Psychology 27, Self and Identity 21, Stoicism 19, ...).
