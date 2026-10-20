@@ -1,0 +1,25 @@
+# Autonomic nervous system (sympathetic vs parasympathetic) — evidence (w1c)
+
+- Fast-track item (degree 12 at selection: 3 concepts + 1 kernel + 8 principles).
+  Seed body was one line. Front-matter, Sources lines and both Cited-in sections
+  preserved; no Related-concepts section existed, one added with existing
+  neighbours only (Parasympathetic activation, Slow-paced breathing, Progressive
+  muscle relaxation (Jacobson) — all verified to exist via title search).
+- Opened 2026-10-20: Waxenbaum, Reddy and Das, "Anatomy, Autonomic Nervous
+  System", StatPearls, NCBI Bookshelf NBK539845,
+  https://www.ncbi.nlm.nih.gov/books/NBK539845/
+  Verified verbatim: the ANS definition sentence; "The ANS consists of 3
+  anatomically distinct divisions: sympathetic, parasympathetic, and enteric";
+  the SNS blockquote ("Activation of the SNS induces a state of heightened
+  activity and alertness... 'fight or flight' response. Physiologic effects
+  include increases in heart rate and blood pressure, stimulation of
+  glycogenolysis, and inhibition of gastrointestinal peristalsis."); the PNS
+  sentence ("The PNS facilitates 'rest and digest' processes, promoting
+  homeostatic functions, such as modulating heart rate and atrioventricular
+  conduction and restoring gastrointestinal peristalsis and digestion.").
+- Near-verbatim paraphrase of the PNS sentence reworded after self-check
+  (advisor round-1 lesson applied proactively). Body claims are all traceable
+  to the opened source or to the compendium principles' own titles (breath
+  entries described by their titles, not newly certified physiology).
+- Limits: inherited seed citations (Lehrer & Gevirtz 2014; Thayer et al. 2012)
+  NOT opened, kept as-is in Sources; no claims rest on them.
