@@ -9,9 +9,41 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Holding as hypothesis” — Peirce, "The Fixation of Belief".
 
+Holding as hypothesis is the practice of treating a strongly held belief as a proposition to be tested rather than a possession to be defended. Its classical grounding is Peirce's 1877 paper, which supplies the machinery: belief is a habit of mind that settles into calm, doubt is the irritation that reopens inquiry, and the method of science is the only method of fixing belief that submits to something independent of what we happen to think. The compendium's kernel for the practice is time-boxed: treat the belief as a hypothesis for a defined period and notice what changes when certainty is suspended.
+
+### The theory of belief and doubt (Peirce)
+
+Peirce's contrast between the two states:
+
+> “Doubt is an uneasy and dissatisfied state from which we struggle to free ourselves and pass into the state of belief; while the latter is a calm and satisfactory state which we do not wish to avoid, or to change to a belief in anything else. On the contrary, we cling tenaciously, not merely to believing, but to believing just what we do believe.” (Peirce, [The Fixation of Belief, Popular Science Monthly 12 (1877): 1-15](https://www.peirce.org/writings/p107.html), section III)
+
+The engine that connects them:
+
+> “The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle inquiry... With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion.” (same paper, section IV)
+
+The paper's diagnosis is that the calm of belief is available by cheaper methods than truth: tenacity (clinging to what one already thinks), authority (enforcing it), a priori inclination (whatever agrees with reason). The method of science is the one that accepts an external standard:
+
+> “There are Real things, whose characters are entirely independent of our opinions about them; those Reals affect our senses according to regular laws, and, though our sensations are as different as are our relations to the objects, yet, by taking advantage of the laws of perception, we can ascertain by reasoning how things really and truly are; and any man, if he have sufficient experience and he reason enough about it, will be led to the one True conclusion.” (same paper, section V)
+
+And the closing moral is the concept's warrant:
+
+> “what is more wholesome than any particular belief is integrity of belief, and that to avoid looking into the support of any belief from a fear that it may turn out rotten is quite as immoral as it is disadvantageous.” (same paper, section V)
+
+### In the compendium
+
+- [[K133 — Holding as hypothesis]] — the kernel's time-boxed practice: a defined period of treating the belief as a hypothesis, noticing what changes when certainty is suspended
+- [[S048 — Withhold assent when the impression is uncertain]] — the Stoic assent discipline the Cited-in list gathers under this concept
+
+## Related concepts
+
+- [[Fallibilism]] — the epistemic cousin: the fallibilist assents while holding the assent revisable
+- [[The discipline of assent]] — the Stoic training in withholding assent from uncertain impressions
+- [[The pragmatic maxim]] — Peirce's own test of a concept by its practical effects
+- [[Workability]] — the ACT criterion that asks what the belief does rather than whether it is true
+
 ## Sources
 
-- Peirce, "The Fixation of Belief"
+- Peirce, "The Fixation of Belief" — [Charles S. Peirce, The Fixation of Belief, Popular Science Monthly 12 (November 1877): 1-15, full text](https://www.peirce.org/writings/p107.html)
 
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]
 [[K133 — Holding as hypothesis]]
