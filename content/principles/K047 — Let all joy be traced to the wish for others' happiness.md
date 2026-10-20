@@ -12,17 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 47** — Let all joy be traced to the wish for others' happiness
 
-The chapter's famous summary: all the happiness that exists in the world comes from wishing others to be happy, and all the suffering from wishing only oneself happy. The claim is audacious and testable in the small: the best hours of most lives are hours spent in others' service, in love, in teaching, in making. Practically, audit a week: mark each significant satisfaction as self-referential or other-referenced, and notice the quality difference between the two columns.
+Shantideva's summary verse states the teaching directly: everyone who is happy is so through the wish for others' happiness, and everyone who is miserable through the wish for their own (VIII.129). The compendium presents the verse as a Buddhist teaching to check against one's own record, not as an established fact about the causes of happiness.
 
 (Shantideva, Bodhicharyavatara, ch. 8.)
 
-**Plain words** All the happiness in the world, says the chapter, comes from wishing others well, and all the suffering from wishing only yourself well. It's bold and testable in small. Look back over a week and mark the hours that mattered most. Most were probably spent in service, love, teaching or making.
+> All whosoever who are happy in the world are (so) through the wish for the happiness of others; while all whosoever who are miserable in the world are (so) through the wish for the happiness of themselves. (Shantideva, Bodhicharyavatara VIII.129, Alexander Berzin translation, 2004)
 
-*For example:* A person looks back on their calendar and finds the best moments were helping a neighbour move and cooking for a friend, not the promotion.
+**Plain words** The verse pairs happiness with wishing others well and misery with wishing only yourself well. Shantideva offers it as a diagnosis, and a compendium exercise follows it: look over a week of your own hours and see whether the pairing holds for you.
+
+*For example:* Imagined example: looking back over a week's calendar, someone marks which hours felt best and checks how many of those involved someone else's good.
+
+## Sources
+
+- [Shantideva, Engaging in Bodhisattva Behavior, ch. 8 "Perfection of Concentration" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/perfection-of-concentration)
 
 ## Psychology parallels
 
-- **[[Prosocial spending|Prosocial spending and volunteering effects]]**, the convergent findings that other-directed activity reliably raises well-being (Dunn, Aknin and Norton, 2008; Post, 2005)
+## Psychology parallels
+
+- **[[Prosocial spending|Prosocial spending and volunteering effects]]** (Dunn, Aknin and Norton, 2008; Post, 2005)
 
 ## Philosophy parallels
 

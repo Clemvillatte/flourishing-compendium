@@ -12,17 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 45** — Understand self-cherishing as the root error
 
-The chapter's diagnosis: the reflex that places your own welfare first, always and without negotiation, is the single root from which the chronic problems of relationship and meaning grow. The claim is not that self-care is wrong; it is that the priority is a bug of perspective: seen from the whole, your own case is one among billions, and your own suffering is not more real than another's. Practically, test the priority's arbitrariness directly: next time two equal needs compete (yours and another's), let the coin of your ordinary reflex be visible before you flip it.
+Shantideva's chapter on exchanging self and others opens with a diagnosis: whatever violence, fear and suffering there is in the world arises from grasping at a self (VIII.134), and the practice he prescribes is the exchange of self with others (VIII.120). The compendium reads the principle as a standing question to put to the self-first reflex: where the grip came from, and what it is holding.
 
 (Shantideva, Bodhicharyavatara, ch. 8.)
 
-**Plain words** The reflex that always puts your own welfare first is the root of most chronic trouble with relationships and meaning. Self-care isn't wrong. The priority is a quirk of perspective: from the whole, you are one case among billions, and your suffering is one among many.
+> Whatever violence there is in the world, and as much fear and suffering as there is, all of it arises from grasping at a self: so what use is that terrible demon to me? (Shantideva, Bodhicharyavatara VIII.134, Alexander Berzin translation, 2004)
 
-*For example:* In a queue, someone rushes ahead and you boil. Later you realise the whole day was organised around "me first," including your irritation.
+**Plain words** The verse says the world's violence and fear grow out of gripping a self. Shantideva's prescribed practice is to swap places in imagination: take the other's case as yours, as the verse's chapter goes on to do. The exercise is to notice the grip; the teaching does not ask you to denounce yourself for it.
+
+*For example:* Imagined example: in a queue, someone pushes ahead of you; before deciding what to feel, you ask what the moment looks like from their side and from the bystanders'.
+
+## Sources
+
+- [Shantideva, Engaging in Bodhisattva Behavior, ch. 8 "Perfection of Concentration" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/perfection-of-concentration)
 
 ## Psychology parallels
 
-- **Self-referential processing's dominance and its costs**, the finding that self-focus amplifies distress, and that reducing self-priority improves both mood and social functioning (the rumination and self-distancing literatures)
+## Psychology parallels
+
+- Self-referential processing and self-distancing literatures (rumination and self-distancing research)
 
 ## Philosophy parallels
 

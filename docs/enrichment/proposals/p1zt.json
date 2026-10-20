@@ -1,6 +1,6 @@
 {
  "batch": "p1zt",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Pure experience",
@@ -31,6 +31,18 @@
    "link": "K044",
    "why": "carries Shantideva's speech instruction alongside the page's other speech disciplines",
    "notes": "Concept page already links K044. Evidence: Berzin ch. 5 V.79 opened 2026-10-20."
+  },
+  {
+   "into": "The unexamined I",
+   "link": "K045",
+   "why": "offers Shantideva's diagnosis of self-grasping as a comparison for the unexamined self",
+   "notes": "Concept page already cites K045 in its Cited-in list. Evidence: Berzin ch. 8 VIII.134 opened 2026-10-20."
+  },
+  {
+   "into": "Prosocial spending",
+   "link": "K047",
+   "why": "offers Shantideva's teaching on others' happiness as a Buddhist comparison for the other-directed activity this page studies",
+   "notes": "K047's psychology parallel already links the concept. Evidence: Berzin ch. 8 VIII.129 opened 2026-10-20."
   }
  ]
 }
