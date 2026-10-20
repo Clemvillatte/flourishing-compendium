@@ -116,3 +116,11 @@
 - Related concepts: The unreliability of testimony (deg 1), Source credibility research (deg 1), descriptive clauses. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 16).
+
+## Frugal plenty
+
+- Fast-track degree 1 (sole edge: D032 philosophy-parallels entry).
+- Opened source: Epicurus, Letter to Menoeceus (Hicks translation, Wikisource). Verified verbatim: the plain-fare sentence (blockquote); the independence-of-outward-things passage; the habituation-to-simple-diet sentence; the natural-easily-procured sentence. "Nothing is sufficient for the person who finds sufficiency too little" NOT used (not in the Hicks translation on Wikisource).
+- Related concepts: Autarky (deg 3), Ataraxia (deg 16), descriptive clauses. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 17).
