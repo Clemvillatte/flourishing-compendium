@@ -49,13 +49,12 @@
   "AT051",
   "AT063",
   "AT067",
-  "BI004",
   "BI010",
   "CO002",
   "AT075",
   "BE072"
  ],
- "in_progress": null,
+ "in_progress": "BI004",
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -95,12 +94,12 @@
   "AT067": "Reopened for QC: advisor milestone QC FAIL: moderation-to-pattern bridge, audit narration, blanket law framing",
   "AT075": "Reopened for QC: QC consistency pass: unopened APA differential bullet",
   "BE072": "Reopened for QC: QC consistency pass: practice moral framing",
-  "BI004": "Reopened for QC: advisor QC FAIL: quote-order error, HPA/cortisol/adrenaline pathway verification required",
+  "BI004": "Reopened for QC: QC consistency pass: practice HPA conflation and recovery prescription",
   "BI010": "Reopened for QC: advisor QC FAIL: posture/temperature/touch attributions, 4-6 breaths prescription, rhetorical scaffolding",
   "CO002": "Reopened for QC: advisor QC FAIL: speed-based definition vs autonomy/WM, Gigerenzer unopened, practice rule"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:55:31+00:00",
+ "updated": "2026-10-20T03:55:33+00:00",
  "band_done": false
 }
