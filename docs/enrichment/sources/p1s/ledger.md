@@ -588,3 +588,18 @@ source; anything not opened is recorded as inherited and unverified.
   Hadot, Laozi inherited entries left as found.
 - Saturation: no new reciprocals; Emotional contagion is already the linked
   target.
+
+### B169 — Eat mindfully (2026-10-20)
+- Opened: MN 10 (Thanissaro, already-fetched page) and the dhammatalks net
+  excerpts page from Peace Is Every Step (already-fetched). The TNH blockquote
+  ("We can smile, breathe, walk, and eat our meals...") verified verbatim
+  against the fetched page; MN 10's inclusion of eating in the full-awareness
+  list ("when eating, drinking, chewing, & savoring... he makes himself fully
+  alert") verified in the fetched text (Thanissaro's edition abbreviates the
+  list with ellipses, so the eating fragment is quoted inline, not as a
+  blockquote).
+- Seed's "Three times a day, a free gratitude practice with snacks included"
+  and the versus staging removed; replaced with the labelled fixed-slot
+  application and an imagined two-mornings example. Warren claim tail
+  trimmed to a bare attribution; Mauss inherited entry left as found.
+- Saturation: no new reciprocals; K390/K391 are already the linked kernels.
