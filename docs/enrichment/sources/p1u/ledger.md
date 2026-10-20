@@ -635,3 +635,17 @@ It is retained as an error record, superseded by the correction above.
 - Removed unverified reciprocity/fairness mechanism. Axelrod, Mauss and
   Locke references remain inherited and unverified.
 - No original wikilinks exist in this entry; none added on a vague parallel.
+
+## Takeover checkpoint: worker-p1u-c6c62a0a (2026-10-20)
+
+- Took released p1u after completing p1t's remaining five items and two inherited QC repairs. Worked only p1u-owned content after takeover.
+- Enriched the remaining ten principles: P114, P142, P149, P154, P169, P173, P180, P195, P023, P047. Individual source ledgers are P114.md through P047.md in this directory.
+- Primary/expert texts actually searched and opened: Hansen on Maslow; Thompson's 2025 enaction paper; Prigogine's 1977 Nobel lecture; Cobb's 2003 common-good essay; Brodley's 1999 actualizing-tendency paper; Nakamura and Csikszentmihalyi's 2002 flow chapter; Rogers primary excerpt; SEP Bergson section 6; Peirce's 1878 essay; Dewey's Quest for Certainty chapter I. Each public entry identifies when a quotation is via commentary rather than an unopened primary book.
+- Replaced all ten replicated Plain words sections and removed guaranteed-outcome stories. Protected frontmatter, opening statements, original locators, original wikilinks and reflections preserved. Some protected reflections and inherited pointers remain stronger/unverified; no claim to have verified those.
+- First-item advisor: P114 PASS. Milestone-25 advisor: P142/P149/P154 PASS; P169 conditional PASS after required pp. 115-116 locator repair, applied and subsequently verified.
+- Milestone-30 advisor: P195/P023/P047 PASS. P173 needed quote locator 91 instead of 90. P180 needed source-exact punctuation and actual excerpt headings, plus removal of unsupported therapeutic-work/universality framing. Repairs applied, independently reopened raw Rogers HTML. Targeted recheck p1u_final_repair_recheck_mvg5l2ld: final PASS; all takeover QC debt discharged.
+- Existing three reciprocal proposals preserved. Added proposals for Creativity/P114, Dissipative structures/P149, Self-determination/P169 and P191/P195. No concept or other band's principle file edited; no integration performed by this worker.
+- Validation against original checkpoint: all ten p1u pages and all seven p1t pages changed by this worker passed (17 checked, zero failures). Remaining warnings concern missing/short optional Related concepts sections.
+- Manifest-selection regression tests: 5/5 PASS. Static build: PASS, 5,718 entries and 976 authored records. No generated tracked changes.
+- Earlier worker's out-of-band B-item scope-correction flags/notes remain historical supervisor bookkeeping; takeover does not reverify or recount those items.
+- Persistence incident: concurrent p1d claim commit temporarily reverted p1t D190/state. Restored only own p1t checkpoints and resolved own state/baton conflicts before closing p1t. Save retries now stop on a rebase/unmerged index rather than blindly staging conflict markers. All repaired checkpoints were pushed and verified.
