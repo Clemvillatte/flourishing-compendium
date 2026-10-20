@@ -43,9 +43,10 @@
   item-5 QC review, after this entry was first written; the claim holds). The page is on
   the concept-verification-queue (s2, 27w) and now carries a citable source URL; queue
   detector removal awaits the supervisor's rerun.
-  Distinct from ST075 (story retelling; note: ST075's DN 22 citation is loose — the
-  opened DN 22 page has no monkey passage; flagged here for the supervisor, not edited
-  by me).
+  Distinct from ST075 (story retelling; note: ST075's DN 22 citation needs checking —
+  a prompted extraction of the DN 22 page returned no monkey passage, so the citation is
+  flagged for the supervisor to verify rather than recorded as a direct full-text
+  absence finding; not edited by me).
 - FLAG (inherited, protected): seed line attributed the term to "Buddhism, Dhammapada";
   the monkey simile was not found in the Dhammapada in any opened source (the opened
   grounding is SN 12:62). The preserved Sources line "Buddhism, Dhammapada" and the
@@ -63,7 +64,7 @@
   "There have never been people who know but do not act...", "If you want to know
   bitterness, you have to eat a bitter melon yourself", and "a fundamental mode of
   human life", plus the article's own spelling "zhixing heyi"). The Chuanxi Lu's
-  standard English translation (Chan 1963) is in copyright with no open full text; the
+  standard English translation (Chan 1963) was not accessed; the
   verbatim quotes are Wang's words as quoted in the opened IEP article. The article's
   references include Chan's translation but do not tie it to these specific quotes —
   an initial claim that IEP "draws on Chan" for them was removed as unverified.
@@ -145,14 +146,17 @@
      verdict was NOT READY; repairs were applied without a subsequent scoped PASS);
      IEP "raw page" claims corrected to prompted extractions; audit-file checks now
      actually performed by grep and re-described with their true timing.
-- Namespace: the four Daoist/Buddhist w1g items done so far all carry opened sources,
-  so they drop off the verification queue per its rule 5, but three page TITLES
+- Namespace: the four Daoist/Buddhist w1g items done so far all carry opened sources
+  (queue detector removal awaits the supervisor's rerun), and three page TITLES
   (Spontaneous right action, The trained mind, The natural rhythm of warmth and cool)
   are compendium headings rather than the traditions' own terms — flagged for
-  supervisor disposition in each ledger entry above. The monkey mind and The dream of
+  supervisor disposition in each ledger entry above and in the audit file's worker-flags
+  section; the opened sources substantiate the underlying teachings, but title/concept
+  identity remains pending supervisor disposition. The monkey mind and The dream of
   the butterfly are named by their traditions (canonical simile; named parable).
-- Standing supervisor item from this round: ST075's DN 22 citation is loose (no monkey
-  passage in the opened DN 22 page) — not edited by me (story namespace).
+- Standing supervisor item from this round: ST075's DN 22 citation needs checking (a
+  prompted extraction of the DN 22 page returned no monkey passage) — not edited by me
+  (story namespace).
 
 ## Milestone QC round 2 (2026-10-20, advisor verification)
 
@@ -187,3 +191,24 @@
      finding, not as an explicit "scoped PASS".
 - Standing items for the supervisor: 4 reciprocal proposals in proposals/p1h.json
   (unchanged); 3 w1g title dispositions (audit worker flags section); ST075 citation.
+
+## Milestone QC round 2b corrections (2026-10-20, advisor verification)
+
+- FLAG MECHANISM: the state script's flag command only records a caveat string in the
+  band state's flagged map; it does NOT remove items from the done list or enforce a
+  hold. "Done-and-flagged" therefore means the items are in the done list with a
+  recorded caveat, and their namespace disposition is explicitly PENDING supervisor
+  decision — not a state-machine hold and not acceptance. Reported status: five
+  source-enriched pages, three pending namespace disposition.
+- SN 12:61 parallel REMOVED from The monkey mind (body and Sources): the opened page is
+  SN 12:62; adjacency and "builds on the previous one" do not establish that the same
+  simile occurs in both. Page now cites SN 12:62 only. Re-validated.
+- Audit file worker-flags language corrected: the opened sources substantiate the
+  underlying teachings; title/concept identity remains pending supervisor disposition;
+  "keep as a thematic heading" is not automatically permitted — the supervisor must
+  verify concept identity or authorize a rename/merge.
+- Ledger: Chuanxi Lu claim corrected to "the translation was not accessed; quotations
+  were verified through IEP"; DN 22 finding described as a prompted extraction with the
+  citation flagged for checking; remaining "drop off the queue" phrasing replaced.
+- Trained-versus-tamed search stopped per advisor order; namespace decision left with
+  the supervisor.

@@ -111,12 +111,13 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Worker flags (pending supervisor disposition)
 
-Enriched and sourced in band w1g (2026-10-20, worker-p1h-9f42e6c7): each page below now
-carries a citable source URL, so it meets the verification queue's verification bar, but
-the page TITLE is the compendium's own heading rather than the tradition's term for the
-teaching. Renaming is a supervisor decision per rule 3 (garbled-title fix); these are NOT
-proven hallucinations and the underlying teachings are real and defined in the opened
-sources.
+Enriched and sourced in band w1g (2026-10-20, worker-p1h-9f42e6c7): the opened sources
+substantiate the underlying teachings; title/concept identity remains pending supervisor
+disposition. The page TITLE is the compendium's own heading rather than the tradition's
+term for the teaching. Per rule 3 (garbled-title fix) the supervisor must verify the
+concept identity or authorize an appropriate rename/merge; "keep as a thematic heading"
+is not automatically permitted by the owner's namespace rule. These are NOT proven
+hallucinations.
 
 - Spontaneous right action (queue s2, 66w) — the opened IEP article defines Wang
   Yangming's doctrine as the unity of knowledge and action (zhixing heyi); "spontaneous
