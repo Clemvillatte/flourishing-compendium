@@ -18,7 +18,7 @@ The actualizing tendency is Rogers's proposal that an organism's activity tends 
 
 ### Conditions matter
 
-In Brodley's account, trusting this tendency directs a therapist toward respecting the client's capacities and freedom of choice. It does not make hardship beneficial or excuse harmful behavior. The compendium extends the question cautiously to ordinary relationships: are you helping someone express and consider their own aims, or deciding the answer for them?
+In Brodley's account, trusting this tendency directs a therapist toward respecting the client's capacities and freedom of choice ([pp. 115-116](https://adpca.org/wp-content/uploads/2020/11/6_2_4.pdf)). It does not make hardship beneficial or excuse harmful behavior. The compendium extends the question cautiously to ordinary relationships: are you helping someone express and consider their own aims, or deciding the answer for them?
 
 (Rogers, On Becoming a Person, 1961.)
 
@@ -32,7 +32,7 @@ Imagine a colleague describing a difficult task. As a proposed exercise, ask whe
 
 ## Sources
 
-- [Barbara Temaner Brodley, “The Actualizing Tendency Concept in Client-Centered Theory,” The Person-Centered Journal 6(2), 1999](https://adpca.org/wp-content/uploads/2020/11/6_2_4.pdf): opened theoretical interpretation of Rogers; quotation from Brodley, not from Rogers's unopened 1961 book.
+- [Barbara Temaner Brodley, “The Actualizing Tendency Concept in Client-Centered Theory,” The Person-Centered Journal 6(2), 1999, relevant pp. 109-116](https://adpca.org/wp-content/uploads/2020/11/6_2_4.pdf): opened theoretical interpretation of Rogers; quotation from Brodley, not from Rogers's unopened 1961 book.
 
 ## Psychology parallels
 

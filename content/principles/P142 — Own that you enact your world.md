@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 142** — Own that you enact your world
 
-In a later account of enaction, Thompson explains perception through the activities of an embodied being in its environment. He recalls two central proposals of The Embodied Mind: perception consists in perceptually guided action, and cognitive structures emerge through recurring patterns linking sensing and movement ([“Enaction as the bringing forth of worlds,” 2025](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf)).
+In a later account of enaction, Thompson explains perception through the activities of an embodied being in its environment. He recalls two central proposals of The Embodied Mind: perception consists in perceptually guided action, and cognitive structures emerge through recurring patterns linking sensing and movement ([“Enaction as the bringing forth of worlds,” 2025, PDF p. 4](https://evanthompson.me/wp-content/uploads/2025/09/thompson-enaction-as-the-bringing-forth-of-worlds.pdf)).
 
 > "For the enactive approach, world and mind form a unitary, co-constituting structure, such that enaction is as much the bringing forth of a mind as the bringing forth of a world." (Thompson, 2025, PDF p. 3.)
 

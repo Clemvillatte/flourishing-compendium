@@ -12,17 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 173** — Engineer absorption
 
-Flow is not luck: it is a design problem: clear goals, immediate feedback, challenge matched to skill, protected time. Set up the conditions and absorption follows.
+Nakamura and Csikszentmihalyi identify conditions associated with entering flow: perceived challenges that stretch existing skills, clear nearby goals, and immediate feedback about progress. They distinguish these conditions from the experience itself, which includes intense concentration and an activity experienced as rewarding ([“The Concept of Flow,” 2002, pp. 89-90](https://nuovoeutile.it/wp-content/uploads/2015/12/2002-Flow.pdf)).
+
+> "It is the subjective challenges and subjective skills, not objective ones, that influence the quality of a person's experience." (Nakamura and Csikszentmihalyi, p. 90.)
+
+### Arrange, then observe
+
+The chapter describes a changing relation between the person and the task. Sustaining flow requires adjustment as demands and capacities change. These conditions are a guide to consider, not a schedule guaranteeing absorption. The compendium's suggestion is to try one adjustment and attend to what actually happens.
 
 (Csikszentmihalyi, Flow, 1990.)
 
-**Plain words** Flow is not luck — it is a design problem: clear goals, immediate feedback, challenge matched to skill, protected time. Set up the conditions and absorption follows. Nobody ever accidentally had a deep work session; the conditions were built, then forgotten.
+### Plain words
 
-*For example:* The programmer with headphones, a two-hour block, and a specific bug — flow by 9:15. Same programmer, open inbox, no block: a distracted morning. The difference was engineered, not inspired.
+Can you tell what the next step is and whether it is working? If the task feels too easy or too difficult, consider changing its scope. A session without deep absorption is still information about the work; it need not be treated as a personal failure.
+
+### For example
+
+Imagine debugging a program. For this proposed exercise, choose one reproducible error and a test that will show whether a change addresses it. Review how manageable and engaging the attempt felt before choosing the next step.
+
+## Sources
+
+- [Jeanne Nakamura and Mihaly Csikszentmihalyi, “The Concept of Flow,” Handbook of Positive Psychology (2002), pp. 89-105](https://nuovoeutile.it/wp-content/uploads/2015/12/2002-Flow.pdf): opened primary theoretical and research overview, distinct from the inherited 1990 book reference.
 
 ## Psychology parallels
 
-- **[[Flow|Flow research and interventions]]** (Csikszentmihalyi, 1990; 2025-2026 meta-analyses on flow and mindfulness)
+- **[[Flow|Flow research and interventions]]**: conditions and experience are distinguished in Nakamura and Csikszentmihalyi's 2002 account.
 
 ## Philosophy parallels
 
