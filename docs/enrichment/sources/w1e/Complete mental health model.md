@@ -1,0 +1,8 @@
+# Complete mental health model — evidence record (w1e, fast-track)
+
+- Degree: 9 connections (all principles) → fast-track eligible per PROTOCOL.md §1a.
+- Opened source: https://pubmed.ncbi.nlm.nih.gov/12096700/ — PubMed abstract of Keyes, C.L.M. (2002), "The mental health continuum: from languishing to flourishing in life", J Health Soc Behav 43(2):207–22. Both blockquotes are verbatim from the opened abstract:
+  1. "This paper introduces and applies an operationalization of mental health as a syndrome of symptoms of positive feelings and positive functioning in life." (first abstract sentence)
+  2. "The risk of a major depressive episode was two times more likely among languishing than moderately mentally healthy adults, and nearly six times greater among languishing than flourishing adults."
+- Other grounded prose: "described as flourishing" / "characterized as languishing" follow the abstract's own wording ("A diagnosis of the presence of mental health, described as flourishing, and the absence of mental health, characterized as languishing"); the MIDUS 1995 application and n = 3,032 follow the abstract. The closing distinction (mental health not just the absence of illness; feeling good vs doing well) is the compendium's gloss of the model, framed as what the compendium builds on, not as a finding.
+- Front-matter, all nine original wikilinks, and the Cited-in sections preserved; validator --fast-track ok as part of the done transition.
