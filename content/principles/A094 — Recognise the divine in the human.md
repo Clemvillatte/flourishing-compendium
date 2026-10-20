@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 94** — Recognise the divine in the human
 
-Aristotle is careful with the claim even while making it. Whether reason is itself divine or "only the most divine element in us," the activity of it "in accordance with its proper virtue will be perfect happiness" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). "If reason is divine, then, in comparison with man, the life according to it is divine in comparison with human life" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). And the instruction follows: "we must not follow those who advise us, being men, to think of human things... but must, so far as we can, make ourselves immortal" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The compendium's note: nothing in the passage requires a religious creed; the claim is about the status of the capacity for truth.
+Aristotle is careful with the claim even while making it. Whether reason is itself divine or "only the most divine element in us," the activity of it "in accordance with its proper virtue will be perfect happiness" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). "If reason is divine, then, in comparison with man, the life according to it is divine in comparison with human life" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). And the instruction follows: "we must not follow those who advise us, being men, to think of human things... but must, so far as we can, make ourselves immortal" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The exercise below considers what the passage means by "the best thing in us."
 
 > If reason is divine, then, in comparison with man, the life according to it is divine in comparison with human life.
 >
@@ -26,9 +26,9 @@ Aristotle is careful with the claim even while making it. Whether reason is itse
 
 ### Plain words
 
-The claim is about rank: reason is the best thing in us, small in bulk, ahead of everything in power and worth. The instruction is to live in accordance with it as far as possible. For an exercise, take the last hour that went to something demanding and ask whether it went to the best thing in you or merely the loudest.
+The claim is about rank: reason is the best thing in us, small in bulk, ahead of everything in power and worth ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The instruction is to live in accordance with it as far as possible ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). For an exercise, consider what the passage might mean by "the best thing in us," and what would count as living in accordance with it.
 
-For example: the hour spent finally understanding a hard proof, or why a piece of music works, is the kind of hour the passage ranks highest. (An invented illustration.)
+For example: one reader takes "the best thing in us" to be the capacity for understanding; another takes it to include the capacity to act well. The passage does not settle the reading, and the exercise is to hold the question rather than close it. (An invented exercise.)
 
 ## Stories
 
