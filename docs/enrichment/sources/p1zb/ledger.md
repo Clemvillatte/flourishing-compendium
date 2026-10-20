@@ -654,3 +654,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   withdrawn.
 - Proposals revision 9: S097 inline why and S099 reciprocal why rewritten as substantive
   relationship clauses; prior audit wording moved to notes.
+
+## Round 6 addendum (final)
+- S099 plain-words repair: the earlier patch's old string did not match and the replacement
+  silently failed; the paragraph was re-read from the file, found unchanged, and replaced with
+  the advisor's philosophical-exercise framing ("Understanding a change does not require
+  approving it.") — the physical-history sentence and unqualified "why should you?" removed.
+- Community alias check performed: the wiki has no alias mapping (validated by inspecting
+  the generator/validator scripts — wikilinks resolve by literal page title). S079's parallel
+  [[Community|Community of inquiry]] targets Community.md (the communitarianism page), which
+  does not list S079; The community of inquiry lists S079 one-directionally. Reciprocity
+  between S079 and The community of inquiry therefore remains unestablished; no action.
+- Proposals revision 10: S097 inline why simplified to a neutral relationship clause
+  ("Contrasts reputation as something to acquire with acting well as a way of living.").

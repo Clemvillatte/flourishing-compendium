@@ -18,7 +18,7 @@ Death is one of the changes, and a natural one: "to expect death, as being nothi
 
 (Med., Gutenberg 2680.)
 
-**Plain words** You are not a fixed thing that reality happens to; you are part of the traffic. The stuff in you has been river, tree and dinner before it was you, and will be other things after. The elements do not complain when they change arrangements, so why should you? Aim well within the current instead of arguing with it.
+**Plain words** Marcus's exercise is to view death and other changes as transformations within nature. Try that perspective on a change you face: what is ending, and how can you respond? Understanding a change does not require approving it.
 
 *For example:* Moving house after thirty years and treating it as one more turn of the wheel.
 

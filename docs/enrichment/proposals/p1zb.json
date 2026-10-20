@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 9,
+ "revision": 10,
  "records": [
   {
    "action": "reciprocal",
@@ -42,7 +42,7 @@
    "into": "S097",
    "concept": "The having mode",
    "phrase": "The having versus being mode",
-   "why": "Fromm's having/being distinction explains the vanity this principle argues against: reputation is something to have, virtue a way of being.",
+   "why": "Contrasts reputation as something to acquire with acting well as a way of living.",
    "notes": "Proposed by worker-p1zb-9b3f2e68 during S097 saturation check; exact phrase matches the parallels label. [round 6: why rewritten as public prose]"
   },
   {
