@@ -23,10 +23,10 @@ The completion is checkable in the body rather than in circumstances:
 > You can notice that something in your body has changed, shifted in the direction of peace. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
 
 **Plain words**
-Stress puts fuel in the body, and the fuel is for running or fighting. If the difficult meeting replaces the run, the fuel sits in the system as tension. A brisk walk after the hard conversation gives the body the action it geared up for, and you can feel the shift: tension dropping, breath settling. That felt shift, not the problem being solved, is what completing the cycle means.
+Stress is a body state, and it has a finish line of its own. Moving is one way across it, and the authors treat physical activity as the first. You can tell you have crossed, because something in the body changes, shifted toward peace. The situation that caused the stress does not have to change at all for that to happen.
 
 **For example**
-After a performance review that went badly, take the stairs instead of the lift, or walk the twenty minutes home. The review is unchanged; the body no longer is.
+After a performance review that went badly, take the stairs instead of the lift, or walk the twenty minutes home. The walk is for the body, not for the situation: the review is unchanged either way.
 
 ## Sources
 

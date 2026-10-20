@@ -72,3 +72,16 @@ spot-checks cover the gap). Validator: ok. Build ok.
   abstract and the six-dimension passage were used.
 - Woolley 2010 is about collective intelligence, not wisdom; used only for the group
   angle the seed's citation line pointed at, with the mechanism difference stated.
+
+## Post-done correction (2026-10-20, p1z session, found by item-5 milestone QC)
+- The body's "In two studies with 391 participants aged 25 to 82" figure was NOT
+  in the Grossmann 2013 abstract (it came from a garbled search snippet) - replaced
+  with the abstract's own framing: "In a random sample of Americans, wise reasoning
+  was associated with greater life satisfaction, better social relationships and
+  less depressive rumination, while there was no association between intelligence
+  and well-being."
+- Baltes & Staudinger 2000 (11392856) and Grossmann 2013 (22866683) PubMed records
+  now fetched DIRECTLY; both quotes re-certified verbatim. The earlier ledger's
+  "abstract fetched" wording overstated for these two (they were snippet-verified
+  at first writing); now accurate.
+- Validator: ok after correction.

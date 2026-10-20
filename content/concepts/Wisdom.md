@@ -23,7 +23,7 @@ Igor Grossmann's program measures reasoning about interpersonal conflicts along 
 
 > We show that relative to young and middle-aged people, older people make more use of higher-order reasoning schemes that emphasize the need for multiple perspectives, allow for compromise, and recognize the limits of knowledge. (Grossmann, Na, Varnum, Kitayama and Nisbett, "Reasoning about social conflicts improves into old age", PNAS 107(16), 2010, [full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC2867718/))
 
-Two further findings shape the current picture. In two studies with 391 participants aged 25 to 82, wise reasoning, more than intelligence, was associated with life satisfaction, positive social relations and lower negative rumination (Grossmann et al., 2013). And wisdom varies within a person more than between people: the same individual reasons more wisely about other people's problems than about their own, an asymmetry replicated in other laboratories.
+Two further findings shape the current picture. In a random sample of Americans, wise reasoning was associated with greater life satisfaction, better social relationships and less depressive rumination, while there was no association between intelligence and well-being (Grossmann et al., 2013). And wisdom varies within a person more than between people: the same individual reasons more wisely about other people's problems than about their own, an asymmetry replicated in other laboratories.
 
 ### The common model
 

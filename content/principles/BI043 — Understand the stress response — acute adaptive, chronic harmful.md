@@ -16,15 +16,15 @@ The stress response is a two-sided system. Cortisol and adrenaline, released thr
 
 > The brain is the key organ of the response to stress because it determines what is threatening and, therefore, potentially stressful, as well as the physiological and behavioral responses which can be either adaptive or damaging. (McEwen, "Physiology and neurobiology of stress and adaptation: central role of the brain", Physiological Reviews 87(3), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17615391/))
 
-> Yet, hormones associated with stress protect the body in the short-run and promote adaptation ("allostasis"). Beyond the "flight-or-fight" response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ("allostatic load"). (McEwen, Physiological Reviews 87(3), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17615391/))
+> Beyond the "flight-or-fight" response to acute stress, there are events in daily life that produce a type of chronic stress and lead over time to wear and tear on the body ("allostatic load"). Yet, hormones associated with stress protect the body in the short-run and promote adaptation ("allostasis"). (McEwen, Physiological Reviews 87(3), 2007, [abstract](https://pubmed.ncbi.nlm.nih.gov/17615391/))
 
 The brain is both the interpreter of threat and a target of the response: the hippocampus, amygdala and prefrontal cortex undergo stress-induced structural remodeling, which alters behavioural and physiological responses (McEwen, 2007). Chronic exposure to stress hormones has an impact on brain structures involved in cognition and mental health (Lupien et al., 2009).
 
 **Plain words**
-The alarm is built for minutes, not months. A pounding heart while you sprint for a bus is the system doing its job. The same cortisol and heart rate held up for a year of debt or a hostile job is the system running past its design, and the wear lands on sleep, memory and health. Ask of any stress: is there an end in sight, and does the body get recovery between alarms?
+The alarm is not the problem; an alarm that never switches off is. One hard day with a night's rest afterwards is the system working as designed. The same pressure held with no end in sight is what the review calls wear and tear, and that is the version to act on.
 
 **For example**
-A presentation on Thursday produces arousal that peaks and is over by dinner. Six months of unpaid bills produces the same arousal with no end, and that is the version that costs the body.
+A dog barks, the heart races, the dog is gone: the response did its work. A job that produces the same racing heart every Monday for a year is a different object: same biology, no end in sight.
 
 ## Sources
 
