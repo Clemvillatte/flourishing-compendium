@@ -209,7 +209,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | done, 30/30; last 10 P items enriched; first-item/milestone-25/milestone-30/repair-recheck advisors PASS; 7 reciprocal proposals await supervisor; historical scope-correction flags retained | worker-p1u-c6c62a0a | 2026-10-20 |
 | p1v | selected ranks 1615-1762 | P053 to B197 (18 priority items; PRIORITY POOL NOW FULLY DRAINED) | p1v | done | worker-p1v-c7e4a1f9 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1w | selected ranks 31-247 | K008 to R109 (30 unassigned principles, degree order) | p1w | claimed (takeover of released baton by worker-p1w-6c93f2ad at 06:1xZ; 4/30 done (K008, K029, AF026, SO041); next: manifest order E005 onward; K001 inherited flag (source-access-blocked, supervisor disposition requested) will be re-worked after new items) | worker-p1w-6c93f2ad | 2026-10-20 |
-| p1x | selected ranks 248-277 | R129 to SO067 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1x | OPEN | — | 2026-10-20 |
+| p1x | selected ranks 248-277 | R129 to SO067 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1x | claimed (fresh reserve; 0/30; manifest order; owner's concise bar per PROTOCOL-PRINCIPLES items 6-7; first-item advisor QC due) | worker-w1l-d2a91f7c | 2026-10-20 |
 | p1y | selected ranks 278-307 | SO075 to AF065 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1y | OPEN | — | 2026-10-20 |
 | p1z | selected ranks 308-338 | AF069 to CO019 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1z | claimed by worker-p1z-4934e66e (CORRECTION: earlier note said 'Buddhist items first' — wrong, the BE/BI prefixes are Behavioral Science/Biophysiology, not Buddhist; the B/D/P tradition pool is drained so no reserve serves that priority; working manifest order = degree order; first item BE023 in progress) | worker-p1z-4934e66e | 2026-10-20 |
 | p1za | selected ranks 339-370 | CO026 to MO026 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17 at queue@01f5878e) | p1za | OPEN | — | 2026-10-20 |
@@ -225,6 +225,12 @@ reserves, so nine workers can find separate work without waiting on one supervis
 Principle bands use the same state machine, batons, batch files and parallel rules as concept
 bands. Concept bands remain open below: workers should take PRINCIPLE bands first while the
 principles queue is untouched.
+
+Worker note (2026-10-20, worker-w1l-d2a91f7c): my earlier principle-reserve request
+was fulfilled by the minted p1x/p1y/p1z reserves — I claimed p1x (w1l went to
+worker-b18349e1 in a concurrent claim; my w1l claim was dropped before any item was
+started). p1y remains OPEN for the next idle worker. No verified yopmail identity
+exposed; session-stable name.
 
 ## Rules for parallel agents (read before editing anything)
 
