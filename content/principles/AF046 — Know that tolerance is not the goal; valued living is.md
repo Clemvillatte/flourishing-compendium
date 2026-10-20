@@ -21,9 +21,9 @@ In Acceptance and Commitment Therapy, the acceptance skills are explicitly not e
 The same paper is explicit about the hierarchy: "In ACT, acceptance, defusion, being present, and so on are not ends in themselves; rather they clear the path for a more vital, values consistent life." ([Hayes et al., 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)) And on action: "Finally, ACT encourages the development of larger and larger patterns of effective action linked to chosen values." ([Hayes et al., 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf))
 
 **Plain words**
-Acceptance and tolerance are means, not ends — the goal is a life worth living even with suffering present. ([Hayes et al., 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)) Always attach the tolerance to a valued direction.
+In ACT, acceptance processes serve a values-consistent life rather than functioning as ends in themselves. ([Hayes et al., 2006](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf)) For this compendium's exercise, connect an instance of willingness to a chosen direction.
 
-*For example:* The chronic pain patient who can now tolerate the flares — and the crucial next question: tolerate them FOR what? The answer (the grandkids, the garden, the book) is what turns endurance back into living.
+**Reflection exercise:** If discomfort is present, name a valued activity and one feasible step toward it.
 
 ## Psychology parallels
 

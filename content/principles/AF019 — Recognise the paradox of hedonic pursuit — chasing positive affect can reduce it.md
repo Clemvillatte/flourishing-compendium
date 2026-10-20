@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 19** — Recognise the paradox of hedonic pursuit: chasing positive affect can reduce it
 
-Empirical work on valuing happiness reports a paradox: aiming at the feeling can cost you the feeling. ([Mauss, Tamir, Anderson and Savino, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) The compendium treats this as a reason to aim at activities rather than at positive affect as such.
+Mauss and colleagues investigated whether valuing happiness can undermine happiness in particular circumstances. ([Mauss, Tamir, Anderson and Savino, 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) The compendium uses these findings as a prompt to examine the standards we impose on our feelings.
 
 (Mauss, Tamir, Anderson and Savino, "Can seeking happiness make people unhappy? Paradoxical effects of valuing happiness," Emotion 11(4), 2011; Ford et al., 2015.)
 
@@ -25,9 +25,9 @@ Empirical work on valuing happiness reports a paradox: aiming at the feeling can
 The paper closes: "Paradoxically, therefore, valuing happiness may lead people to be less happy just when happiness is within reach." ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/))
 
 **Plain words**
-Deliberately trying to feel happy is associated with lower happiness, and the mechanism is disappointment at your own feelings. ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) Aim at the activities, not the feeling; the feeling arrives as a by-product.
+Study 1's association appeared under low, but not high, life stress. ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) In Study 2, disappointment at participants' feelings was the reported mediator. ([Mauss et al., 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3160511/)) For this exercise, choose an activity without requiring yourself to feel a particular way.
 
-*For example:* The person who checks hourly whether they're happy yet — the monitoring IS the interference — versus the one absorbed in the gardening, the friend, the work. The second one is having the good afternoon; the first one is auditing it.
+**Reflection exercise:** Compare "I must feel happy during this visit" with "I want to spend time with my friend." What does each make your standard of success?
 
 ## Psychology parallels
 

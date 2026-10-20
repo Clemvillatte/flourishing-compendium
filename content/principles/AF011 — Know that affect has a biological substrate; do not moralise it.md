@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 11** — Know that affect has a biological substrate; do not moralise it
 
-Affect runs on a biological machine, and the machine's state changes the feelings. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) The compendium's point is triage: sleep, pain, illness, medication, substance use, hunger, and hormonal cycles can directly alter affect, so a persistent mood shift is often a body question before it is a soul question.
+In a study of healthy adults aged 18–30, Yoo and colleagues compared responses to negative pictures in sleep-deprived and sleep-control groups. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) The compendium uses this finding as a prompt to consider recent sleep when reflecting on emotional reactions, without assuming that sleep explains a persistent mood change.
 
 (Yoo et al., 2007, Current Biology 17(20); Craig, 2009; Koob & Le Moal, 2008.)
 
 > "those in the sleep-deprivation condition exhibited a remarkable +60% greater magnitude of amygdala activation, relative to the control group" (Yoo, Gujar, Hu, Jolesz and Walker, [The human emotional brain without sleep](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf), Current Biology 17(20), 2007)
 
-The study's authors summarise the finding: "Taken together, these data suggest an amplified, hyper-limbic response by the human amygdala to negative emotional stimuli under conditions of sleep deprivation." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) They add that "a night of sleep may 'reset' the correct brain reactivity to next-day emotional challenges." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf))
+The study's authors summarise the finding: "Taken together, these data suggest an amplified, hyper-limbic response by the human amygdala to negative emotional stimuli under conditions of sleep deprivation." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) They add that "It therefore seems that a night of sleep may 'reset' the correct brain reactivity to next-day emotional challenges by maintaining functional integrity of this MPFC-amygdala circuit, and thus govern appropriate behavioral repertoires." ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf))
 
 **Plain words**
-One night without sleep makes the brain's threat system about 60 percent more reactive to negative pictures. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) When you feel persistently irritable, anxious, or flat, the first move is often biological, not psychological. Don't moralise what should be triaged.
+The reported 60% difference concerns amygdala activation to negative pictures in this study. ([Yoo et al., 2007](https://walkerlab.berkeley.edu/reprints/Yoo-Walker_CurrBiol_2007.pdf)) For reflection, note how rested you were without treating that observation as a diagnosis.
 
 *For example:* A feeling that resists interpretation may be worth describing alongside the body's recent state, without assuming the body explains it.
 
@@ -38,4 +38,4 @@ One night without sleep makes the brain's threat system about 60 percent more re
 
 ## Practice
 
-- When you notice a persistent mood shift, first rule out: sleep, illness, pain, medication change, substance use, or hormonal cycle. Address the biological substrate before treating the mood as purely psychological.
+- **Reflection exercise:** Describe one recent emotional reaction alongside your recent sleep. What do you know, and what remains uncertain?
