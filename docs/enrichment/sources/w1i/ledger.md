@@ -92,7 +92,15 @@ a principle reserve from the active supervisor.
 - QC: compare definition with opened abstract; validator before done.
 - Own audit after milestone-five feedback: reopened to retain the full abstract
   sentence as a blockquote, expanded attribution, and added a sentence-case
-  subheading. Source punctuation in the quotation is verbatim.
+  subheading.
+- Correction: a later literal comparison caught a non-verbatim draft sentence
+  that had been saved as a quotation. Reopened immediately; replaced it with the
+  actual abstract sentence beginning “In this integrative review and proposed
+  organizational framework.” Exact-string comparison with fetched source required
+  before returning to done. The earlier quote repair did not pass literal QC.
+- Current repaired quotation passes exact-string comparison with the saved
+  publisher fetch. Seven other current page quotations also matched their
+  opened sources at the eight-item checkpoint.
 
 ## Sense of community
 

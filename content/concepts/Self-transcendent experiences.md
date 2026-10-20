@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Self-transcendent experiences are temporary states in Yaden and colleagues' framework ([2017, abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)). They identify aspects of mindfulness, flow, love, awe, peak experiences and mystical-type experiences as belonging within this grouping ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
-> In this integrative review, we propose a way of synthesizing these ideas into a single construct: the self-transcendent experience (STE)—defined as transient mental states marked by decreased self-salience and increased feelings of connectedness.
+> In this integrative review and proposed organizational framework, we focus on self-transcendent experiences (STEs)—transient mental states marked by decreased self-salience and increased feelings of connectedness.
 >
 > David Bryce Yaden and colleagues, “The Varieties of Self-Transcendent Experience,” [abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102).
 

@@ -26,6 +26,33 @@ actual revised file, requested a definition of original enlightenment and deleti
 of an evaluative lead-in. Both exact requested repairs applied before acceptance.
 No primary-text authentication or general efficacy approval is implied by that QC.
 
+## Eight-item checkpoint and milestone-five repairs
+
+- Completed: Shikantaza, just sitting; Engaged Buddhism; Focused-attention
+  meditation; Open-monitoring meditation; Non-dual awareness; Self-regulation;
+  Self-transcendent experiences; Sense of community.
+- Independent milestone-five advisor opened all five requested sources and
+  inspected all five pages. Source accuracy, attribution, degree eligibility and
+  preservation passed. Required a quotation on Non-dual awareness and subheadings
+  on focused-attention and open-monitoring. Each item reopened through state
+  machine, repaired, validated and re-accepted separately.
+- Own retained-requirement check additionally reopened Self-transcendent
+  experiences for a blockquote and subheading. A literal comparison then exposed
+  a non-verbatim draft sentence saved as a quote; reopened again, corrected it
+  against the actual abstract, and tested the exact string before acceptance.
+  Do not call the earlier quotation repair a passed literal QC.
+- Final current-page check: all eight actual quotations match their opened
+  source text. First seven tested against saved fetch outputs; Sense of community
+  tested against another cached fetch of the author's hosted text.
+- Preservation validation against 32150b77: 8 checked, 0 failed. Only related-
+  concepts warnings, permitted by the low-degree fast-track exemption.
+- All eight now have a blockquote and sentence-case prose subheading; fast-track
+  validator alone does not detect omissions of these retained requirements.
+- No cross-band edits, reciprocal proposals, missing-concept proposals or
+  namespace proposals so far. Sources ledger records inherited references not
+  certified. No edits to central progress or queues, no enrich_apply run.
+- Next manifest item after this checkpoint: Social Judgment Theory.
+
 ## Research prepared for next entries
 
 These sources were opened, but no subsequent content item has been started:
