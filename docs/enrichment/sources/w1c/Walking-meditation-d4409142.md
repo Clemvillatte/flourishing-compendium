@@ -36,4 +36,5 @@ primary texts. No empirical claim relies on them.
 
 ## Validation
 
-Pending local fast-track validation against 84f27f44.
+Local `enrich_validate.py --base 84f27f44 --fast-track` PASS; expected warning
+for fewer than three Related lines. State then marked done and pushed.
