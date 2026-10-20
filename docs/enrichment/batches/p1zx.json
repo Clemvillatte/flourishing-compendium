@@ -9,20 +9,21 @@
   "A062",
   "A082",
   "A083",
-  "A109",
   "A110",
   "E019",
   "E024",
-  "A101"
+  "A101",
+  "A109"
  ],
  "in_progress": null,
  "flagged": {
   "SE082": "Reopened for QC: QC round 1 fail: 273 quote capitalization (Him), unsupported self-acceptance/concealment causation, staged metaphors, example outcome promise; proposals overreach",
   "A083": "Reopened for QC: milestone round 2: X.7 hierarchy claim broader than the opened X.7 passage; scope correction needed",
-  "A101": "Reopened for QC: milestone QC repairs: bounded claims"
+  "A101": "Reopened for QC: milestone QC repairs: bounded claims",
+  "A109": "Reopened for QC: milestone QC repairs: bounded claims"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:23:38+00:00",
+ "updated": "2026-10-20T13:23:58+00:00",
  "band_done": false
 }
