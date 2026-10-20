@@ -12,13 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 119** — Honor the teacher-student bond
 
-The tradition's transmission method is relational: knowledge passes from the settled to the unsettled through sustained proximity, and the Gita instructs the student to learn by inquiry, service, and questioning rather than by sampling. The bounded formulation: choose teachers deliberately, serve the learning (not the teacher's ego), and graduate. Practically, for your current most important learning, name your teacher (book, person, practice) and structure the service component.
+The Gita gives the method in one verse:
 
-(BG 4.34; Chandogya 6, Uddalaka and Shvetaketu as the model; Upadesasahasri.)
+> Learn the Truth by approaching a spiritual master. Inquire from him with reverence and render service unto him. Such an enlightened Saint can impart knowledge unto you because he has seen the Truth.
 
-**Plain words** The transmission is relational: knowledge passes from the settled to the unsettled through sustained proximity — by inquiry, service, and questioning rather than sampling. Choose teachers for proximity over prestige, and stay long enough for the settling to transmit.
+(BG 4.34, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/4/verse/34/).)
 
-*For example:* The student who collects certificates from famous names versus the one who spent three years assisting a local master — the tradition's odds favor the second; the settling transmits through proximity, not through syllabi.
+Mukundananda's commentary lists three steps: approach, inquire submissively, and serve. He adds that this kind of knowledge "is revealed in the heart of the disciple by the Guru's grace, when the disciple develops humility", and is not bought like secular instruction. That is his Vaishnava reading. It makes the bond a matter of character on the student's side before it is a matter of information.
+
+The Chandogya Upanishad shows the other side, a student who has studied a great deal and learned the wrong thing. Svetaketu comes home after twelve years of study "conceited, considering himself well-read, and stern". His father asks:
+
+> have you ever asked for that instruction by which we hear what cannot be heard, by which we perceive what cannot be perceived, by which we know what cannot be known?
+
+(Chandogya Upanishad 6.1.2-3, trans. F. Max Muller, Sacred Books of the East vol. 1, 1879, pp. 92-93, [Internet Archive](https://archive.org/details/upanishads01mluoft).)
+
+The son answers that his teachers cannot have known it, "for if they had known it, why should they not have told it me?" (6.1.7). The point for this page is that a long apprenticeship does not guarantee the right teaching. Choosing teachers on purpose, and checking what you are actually being taught, is the principle's reading of the story.
+
+**Plain words**
+
+Some things you can only learn from a person who already has them. A book or a course can give you facts, but a good teacher also shows you how to hold the facts. That takes time in their company, and honest questions, and some willingness to be useful to them. Check, too, that the teacher really has the thing you want.
+
+**For example**
+
+Compare someone who collects certificates from famous names with someone who spends three years assisting a local master. The second is the better bet, because the master's way of working rubs off over time, and a syllabus does not carry it.
+
 ## Psychology parallels
 
 - **Mentoring effects**, the developmental literature on sustained guidance (Rhodes, 2002, Stand by Me)
@@ -26,3 +43,8 @@ The tradition's transmission method is relational: knowledge passes from the set
 ## Philosophy parallels
 
 - **Two walking companions as teachers** (Confucius, Analects 7.22)
+
+## Sources
+
+- [Bhagavad Gita 4.34, Swami Mukundananda, holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/4/verse/34/)
+- [Chandogya Upanishad 6.1, trans. Max Muller, Sacred Books of the East vol. 1 (1879), Internet Archive](https://archive.org/details/upanishads01mluoft)

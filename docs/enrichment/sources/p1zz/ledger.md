@@ -10,3 +10,14 @@
 - Sanskrit samatvam / yogaḥ karmasu kauśalam copied from the same pages. Mukundananda's rendering is "art of working skillfully"; the phrase "skill in action" was not in an opened translation and is no longer quoted.
 - Y099: old claim "the tradition's reason is structural: the valuation that swings is the swing" is not in the text; relabelled as the principle's own reading. Daily sentence exercise labelled modern. Old "gain and loss, pleasant and painful" narrowed to success and failure (2.48). Plain words and example replaced; example is imagined.
 - Y100: old "defines it in context as the evenness" kept as a reading from 2.48 next to 2.50; "output minus turbulence" labelled the principle's own measure. Choking research (Beilock) not opened; page makes no claim from it. Plain words replaced; example imagined. Self-QC only.
+
+## Y114 (YS 1.33; BG 12.13-14)
+- Woods HOS 17 p. 71-72 (sutra 1.33, Vyasa, Vacaspati gloss) from the Internet Archive OCR; Mukundananda 12.13 page. Quotes verified programmatically (OCR spacing ignored).
+- Old text "even-minded disregard toward the hostile": the sutra's fourth case is the demeritorious (demerit/vice), not the hostile; page now labels the hostile case as the principle's extension. "Against envy / pity / comparison" mapping: replaced by the Vacaspati gloss faults (envy, desire to injure, jealousy, wrath). Old "pity" and "competitive comparison" are not in the opened text and were dropped. Goal of the sutra is the practitioner's own calm; stated. "A week before judging" exercise not carried over. Plain words and example replaced; example imagined. Self-QC only.
+
+## Y116 (BG 12.13-15)
+- Mukundananda 12.13-14 and 12.15 pages opened. Quotes verified. Old cite 12.13-14 lacked the "not a cause of agitation" clause, which is 12.15; page now cites 12.13-15. Old "patient" is "ever-forgiving" in this translation. Portrait is a devotee's (bhakti) portrait; page says so. Daily-clause practice labelled the principle's own. Plain words and example replaced; example imagined. Self-QC only.
+
+## Y119 (BG 4.34; Chandogya 6.1)
+- Mukundananda 4.34 and commentary; Muller SBE 1 (1879) Chandogya 6.1.2-3, 6.1.7 (pp. 92-93, Internet Archive OCR: https://archive.org/details/upanishads01mluoft). Quotes verified (hyphen line breaks "per- ceived" ignored).
+- Old locator included Upadesasahasri; not opened (Mayeda translation is not freely available), so it is removed from the locator and no claim is drawn from it. Old claims "sustained proximity", "settled to the unsettled", "graduate" are not in the opened texts; "graduate" dropped, others replaced. The Svetaketu episode actually shows a long study with the wrong teaching; page uses it for "choose teachers deliberately", labelled as the principle's reading. Plain words and example replaced; example imagined. Self-QC only.
