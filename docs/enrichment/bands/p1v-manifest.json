@@ -1,0 +1,50 @@
+{
+ "band": "p1v",
+ "source_queue": "queue-principles.json",
+ "source_queue_commit": "e8efb52d7fc619d146ae0dcb4c9c0d99151eed60",
+ "ranks": [
+  1615,
+  1762
+ ],
+ "principles": [
+  "P053",
+  "P098",
+  "P126",
+  "P170",
+  "P185",
+  "P186",
+  "B032",
+  "B155",
+  "B187",
+  "D111",
+  "D177",
+  "D189",
+  "P014",
+  "P028",
+  "P061",
+  "P188",
+  "B149",
+  "B197"
+ ],
+ "selected_ranks": [
+  1615,
+  1616,
+  1617,
+  1618,
+  1619,
+  1620,
+  1704,
+  1705,
+  1706,
+  1708,
+  1709,
+  1710,
+  1725,
+  1726,
+  1727,
+  1728,
+  1761,
+  1762
+ ],
+ "selection": "unassigned B/D/P principles, degree order"
+}
