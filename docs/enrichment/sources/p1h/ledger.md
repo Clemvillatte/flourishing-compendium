@@ -415,3 +415,16 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   body (untouched since initial import c2a3ee47).
 - Neighbors (Mind wandering, The monkey mind, Wu wei, AT-S03 layer) already dense;
   no new proposals. Validator ok.
+
+### AT039 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Sources opened: Kang, Kurtzberg & Fox 2019 (J Behav Addict 8(3):395-403, PMC7044622)
+  and Berman, Jonides & Kaplan 2008 (Psychol Sci 19(12):1207-1212, PubMed 19121124).
+  Kang blockquote verbatim vs the opened PMC text (including its unidiomatic "did not
+  allow brain to recharge"); Berman findings paraphrased from the opened abstract.
+- Seed-body "add cognitive load" mechanism claim replaced with the experiments' own
+  results; "slot machine wearing a break's clothes" and "second job with no pay" jokes
+  removed; em dashes and clipped contrasts removed; plain words re-derived; example
+  tied to the anagram experiment's second-half result.
+- Parallels bullets (Kim 2017; Zacher 2014; Hunter & Wu 2016; Lim 2018) remain
+  inherited and unopened, untouched. Validator ok.
