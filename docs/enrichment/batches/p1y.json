@@ -14,7 +14,6 @@
   "SP035",
   "SP048",
   "SP092",
-  "A031",
   "A033",
   "A058",
   "A085",
@@ -24,7 +23,7 @@
   "AF003",
   "A027"
  ],
- "in_progress": null,
+ "in_progress": "A031",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -33,10 +32,11 @@
   "SP035": "Reopened for QC: QC correction: add inline citations to Plain words and scaffolding sentence",
   "SP048": "Reopened for QC: QC correction: revise opening sentence and Plain words",
   "SP092": "Reopened for QC: QC correction: trim Plain words, add body citations",
-  "A027": "Reopened for QC: QC correction: remove proofs-of-worth gloss, cite Plain words"
+  "A027": "Reopened for QC: QC correction: remove proofs-of-worth gloss, cite Plain words",
+  "A031": "Reopened for QC: QC correction: restore For, add citations"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:21:22+00:00",
+ "updated": "2026-10-20T08:21:24+00:00",
  "band_done": false
 }
