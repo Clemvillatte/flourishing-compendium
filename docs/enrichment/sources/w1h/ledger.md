@@ -236,3 +236,10 @@
   secondary carriers (Kolb p.38 via EJ1123045; Kierkegaard via SEP; Leopold via
   SEP), PMID 24091020 abstract-level support, abstract-only scope for several
   PubMed quotes.
+
+## Focus theory of attention (fast-track)
+- Opened: Springer abstract of Eriksen & St. James 1986 (P&P 40, 225-240) —
+  spotlight-to-zoom-lens sentences quoted verbatim; efficiency trade-off and
+  gradual-boundary questions from the abstract; results agreement. Scope:
+  abstract-level support; no claims about the experiments' details beyond
+  what the abstract states.
