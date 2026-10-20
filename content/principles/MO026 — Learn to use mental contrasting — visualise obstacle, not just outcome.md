@@ -12,11 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 26** — Learn to use mental contrasting: visualise obstacle, not just outcome
 
-Mental contrasting (WOOP: Wish, Outcome, Obstacle, Plan) involves visualising the desired outcome, identifying obstacles, and forming an if-then plan. It is more effective than pure positive visualisation, which can reduce motivation.
+Oettingen's research separates two ways of thinking about a hoped-for future. In four studies, "positive expectations (judging a desired future as likely) predicted high effort and successful performance, but the reverse was true for positive fantasies (experiencing one's thoughts and mental images about a desired future positively)". Participants ranged from job-seeking graduates to hip-replacement patients (Oettingen and Mayer, 2002, abstract, [JPSP 83](https://pubmed.ncbi.nlm.nih.gov/12416922/)).
 
-**Plain words** Visualise the wish, then — crucially — the obstacle, then the plan. Fantasising the outcome alone actually drains motivation; the obstacle-facing is what converts wish into strategy. Dream it, then meet its bouncer.
+Mental contrasting is the remedy. The theory states "when people contrast their fantasies about a desired future with reflections on present reality, a necessity to act is induced that leads to the activation and use of relevant expectations". Four experiments supported it: "strong goal commitment arises in light of favorable expectations, and weak goal commitment arises in light of unfavorable expectations", while people who only fantasize or only dwell on the present show "expectancy-independent moderate goal commitment" (Oettingen, Pak and Schnetter, 2001, abstract, [JPSP 80](https://pubmed.ncbi.nlm.nih.gov/11374746/)). On this account, contrasting also helps you drop goals that look unlikely.
 
-*For example:* "I'll finish the degree" becomes "I'll finish the degree, and the obstacle is Thursday exhaustion, and on Thursdays I study at the café after work." Now it's a machine, not a wish.
+Added to an if-then plan, the combination (MCII) was tested in a meta-analysis of 21 studies and 15,907 participants. It "is effective for goal attainment with a small to medium effect size (g = 0.336)", and "because of some publication bias, the actual effect sizes may be smaller" (Wang, Wang and Gai, 2021, abstract, [Frontiers in Psychology 12](https://pubmed.ncbi.nlm.nih.gov/34054628/)).
+
+**Plain words**
+Picturing success alone can leave you feeling you've already arrived. Picture the wish, then look at what in you or your situation might block it, then decide what you will do when that obstacle appears. If the obstacle looks too big after an honest look, that is useful to know.
+
+**For example**
+"I'll finish the degree" becomes "I'll finish the degree, the obstacle is Thursday exhaustion, and on Thursdays I study at the café after work."
+
+## Sources
+
+- [Oettingen and Mayer, The motivating function of thinking about the future: expectations versus fantasies, JPSP 83(5) (2002), 1198-1212, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12416922/): abstract only
+- [Oettingen, Pak and Schnetter, Self-regulation of goal setting: turning free fantasies about the future into binding goals, JPSP 80(5) (2001), 736-753, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11374746/): abstract only
+- [Wang, Wang and Gai, A meta-analysis of the effects of mental contrasting with implementation intentions on goal attainment, Frontiers in Psychology 12 (2021), 565202, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/34054628/): abstract only
+
 ## Psychology parallels
 
 - **[[WOOP (Wish, Outcome, Obstacle, Plan)|Mental contrasting (Oettingen)]]**, visualising outcome and obstacles together increases goal attainment (Oettingen, 2000; Oettingen et al., 2001)

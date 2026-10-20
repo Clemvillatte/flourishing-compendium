@@ -40,3 +40,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO078
 - Fuhrman et al. 2011 (Cogn Sci 35), Lieberman et al. 2007 (Psych Sci 18), Hoemann et al. 2021 (Front Psychol 12): PubMed abstracts, quotes exact, author lists confirmed from PubMed XML.
 - Limits: Boroditsky 2001 and Lupyan 2012 (inherited parallels) could not be located/opened; replaced by Fuhrman 2011 (same research line). Whorf 'strong' claim not addressed with a source; body limits itself to what the abstracts show.
+
+## MO026
+- Oettingen & Mayer 2002, Oettingen, Pak & Schnetter 2001, Wang, Wang & Gai 2021: PubMed abstracts only, quotes exact, authors confirmed.
+- Limits: Stadler 2010, Cross & Sheeran 2004 (inherited) not opened. 'help you drop unlikely goals' follows from the 2001 abstract (weak commitment under unfavourable expectations), marked 'on this account'.
