@@ -1,6 +1,6 @@
 {
   "batch": "p1zp",
-  "revision": 1,
+  "revision": 2,
   "records": [
     {
       "action": "reciprocal",
@@ -29,6 +29,13 @@
       "link": "Y005",
       "why": "listed for comparison with the principle's account of practice and passionlessness as paired means",
       "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Abhyasa page quotes YS 1.13/1.14 (Wisdom Library) and BG 6.35 and cites Y063 only; Y005's body presents 1.12's pairing of practice and passionlessness and its blockquote carries 1.15's definition"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Equanimity",
+      "link": "Y008",
+      "why": "listed for comparison with the principle's account of measuring practice by stability rather than intensity",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Equanimity page defines the even-minded state via Desbordes et al. 2014, exactly the outcome-measure framing Y008 draws on (YS 1.3's abiding, 1.47's undisturbed calm); page cites no p1zp item"
     }
   ]
 }

@@ -12,17 +12,27 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 8** — Measure progress by stability, not intensity of experience
 
-The promised result of practice is that "the seer rests in its own nature," described as a settling, a coming-home, not an acquisition of special states. Practically, measure your practice by how much less often you are swept away, not by how vivid your experiences are; the vivid ones are often the most seductive obstacles.
+Yoga Sūtra 1.3 states the promise that follows the restriction: "Then the Seer [that is, the Self,] abides in himself" (Woods). Sūtra 1.47 describes what follows the balanced state's clearness: internal undisturbed calm. Sūtra 1.48 adds that in this calm the insight is truth-bearing. Nothing in these sutras promises vividness or intensity; the terms are abiding, calm, and truth-bearing. The compendium exercise takes its scoreboard from the sutras' own vocabulary: track stability, meaning how often and how long you are swept away, rather than how vivid any experience was.
 
-(YS 1.3; YS 1.47-1.48 on truth-bearing insight.)
+> Then the Seer [that is, the Self,] abides in himself.
+>
+> Patañjali, Yoga Sūtra 1.3, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
-**Plain words** The promised result of practice is that "the seer rests in its own nature" — a settling, a coming-home, not an acquisition of special states. So measure your practice by how much less often you're swept away, not by how vivid your experiences are. Stability, not fireworks.
+**Plain words**
+The sutra's promise is that the seer abides in himself. The words used are abiding, calm, truth-bearing; none of them means intensity. Track your practice by stability: how often you get swept away, and how long it lasts. Write that down instead of how vivid things felt.
 
-*For example:* Two meditators: one chases bliss-states and has an amazing month; the other notices nothing special but stops losing entire afternoons to spirals. The tradition's scoreboard reads them the other way round from what you'd expect.
+**For example**
+In an imagined exercise, two meditators compare logs: one records peak vividness ratings, the other records episodes of being swept away and their durations.
+
 ## Psychology parallels
 
-- **[[Equanimity|Equanimity as an outcome measure of contemplative practice]]**, defined as evenness of affective reactivity (Desbordes et al., 2014)
+- **[[Equanimity|Equanimity as an outcome measure of contemplative practice]]** (Desbordes et al., 2014)
 
 ## Philosophy parallels
 
-- **[[Ataraxia|Ataraxia as stable calm, not excitement]]** (Epicurus, Principal Doctrines)- **[[Abhyasa|Abhyasa]]** (Yoga-Vedanta)
+- **[[Ataraxia|Ataraxia as stable calm, not excitement]]** (Epicurus, Principal Doctrines)
+- **[[Abhyasa|Abhyasa]]** (Yoga-Vedanta)
+
+## Sources
+
+- [The Yoga Sūtras of Patañjali, Woods translation (1914), reprinted](https://www.theessentialway.org/yoga-sutras/) — 1.3, 1.47, 1.48
