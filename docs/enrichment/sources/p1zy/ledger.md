@@ -49,3 +49,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y049 (2026-10-21)
 - Woods HOS 17 pp. 72-73 (1.35 and commentary; "[72" and "73]" running heads). Quotes verified except OCR spacing/hyphens. "Higher sense-experience" is another translation's phrase, not reopened; page says so.
 - Old text implied the sutra supports settling on the breath at the nostril or weight on the seat; Woods' commentary describes supernormal sense-activity after sustained practice (nose tip, tongue, palate). Mismatch stated on the page; the adaptation is labelled as the principle's. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y058 (2026-10-21)
+- Arnold, Song Celestial (Gutenberg 2388) ch. 6, moderation passage and the following "Yukta" lines; verse line breaks joined, line capitals lowered, one ellipsis. Arnold's verses are unnumbered; old cite BG 6.16-6.17 not checked against a numbered edition.
+- Old text's "discipline destroys sorrow" and "engineering requirement of a trainable nervous system" are not in Arnold; labelled as the principle's. "Four moderations" matches Arnold loosely (eating, resting, sport, wish/act, plus sleep rhythm); stated. Monthly check is the principle's advice. Plain words replicate replaced; example imagined. Self-QC only.
