@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 365** — Practise communitarian critique
 
-Recognise the limits of individualism. The liberal tradition, for all its strengths, tends to abstract persons from their social, cultural, and relational contexts. Do not accept the myth of the unencumbered self. Recognise that your values, your identity, and your moral commitments are shaped by the communities you belong to.
+Sandel gives the liberal picture of the person a name: a self "essentially unencumbered, bounded in advance and given prior to its ends, a pure subject of agency and possession, ultimately thin" ([Liberalism and the Limits of Justice, opened full text](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595)). The critique is not that freedom is worthless; it is that this self is too thin to do the work it is asked to do:
 
-(Sandel, 1982, Liberalism and the Limits of Justice; MacIntyre, 1981, After Virtue; Bell, 1993, Communitarianism and Its Critics.)
+> Where the self is unencumbered and essentially dispossessed, no person is left for self-reflection to reflect upon.
 
-**Plain words** The myth of the unencumbered self — a person with no history, community, or obligations, freely choosing everything — is exactly that, a myth. Your values and identity come shaped from communities. Recognise the limits of that individualism; you're not less free for being rooted.
+(Sandel, Liberalism and the Limits of Justice, Cambridge University Press, p. 155 as printed in the opened copy; [opened full text, Charles University repository](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595).)
 
-*For example:* The person who insists "I'm completely self-made" — and whose work ethic, humor, and idea of success trace, item by item, to their grandmother's kitchen.
+The practice: when a claim or a plan assumes a chooser with no history, test it against the person actually doing the choosing, with their family and their language.
+
+### Plain words
+
+The self-made person is a story told with some of the evidence left out. Nobody chose their mother tongue or their first idea of success. The critique keeps the freedom and drops the myth: you choose from inside a life you did not pick.
+
+### For example
+
+Suppose someone describes themselves as completely self-made. The effort may be real; the description is the problem. Where did the work ethic come from, and the first idea of what counts as success? The trail usually leads back through particular people.
 ## Psychology parallels
 
 - **[[Cultural psychology|Cultural psychology]]** (Shweder, 1991; Markus and Kitayama, 1991)
