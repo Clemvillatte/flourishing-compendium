@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 34** — Distinguish shame from guilt's signal
 
-Shame is sorrow accompanied by the idea of another's contempt; it is a social affect, an audience emotion, and its object is the whole self rather than the act. Spinoza's framework makes the practical distinction automatic: shame that reformulates as specific, actionable guilt is useful, because it names a repairable act; shame that remains global is just suffering with spectators. Practically, when shame arrives, translate it once into the specific act and the specific repair, and set the global verdict down.
+Spinoza defines shame as pain with an audience:
 
-(Ethics III, definition of Shame.)
+> "Shame is pain accompanied by the idea of some action of our own, which we believe to be blamed by others." (Ethics III, Definitions of the Affects, XXXI, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-**Plain words** Shame is sorrow accompanied by the idea of another's contempt — a social affect, an audience emotion, and its object is the whole self rather than the act. The practical distinction: shame that reinforces the act's correction can be useful; shame that just wounds the self is the trap.
+The definition makes shame a social affect: it needs a blamed act and an imagined blamer. Its object is an act, though it is felt as a verdict on the self, and that gap is where the practical work sits. Spinoza's own assessment of the emotion is double-sided:
 
-*For example:* The kid caught lying feels the flash — audience emotion, whole-self — and the parent's task is the Spinozist split: the act needs correcting, the self doesn't need destroying. "The lie was wrong" versus "you're a liar." One of those sentences does the work.
+> "shame, like compassion, though not a virtue, is yet good, in so far as it shows, that the feeler of shame is really imbued with the desire to live honourably" (Ethics IV, LVIII note, [Elwes](https://www.gutenberg.org/ebooks/3800))
+
+The guilt/shame split named in the title is the modern psychological one (see the psychology parallels); Spinoza's text supports the underlying act-versus-self reading through the definition's own structure. Guilt's signal is act-specific and repairable: the deed can be named and mended. Global shame only suffers in front of spectators. When shame arrives, translate it once into the specific act and the specific repair, and set the global verdict down.
+
+**Plain words**
+Shame hurts in front of an imagined audience: someone has seen the act and blames it. The signal inside it concerns a deed, but the feeling lands on the whole person, which is why shame so often produces hiding rather than repair. The re-addressing move: take the blame, point it at the act, name the repair, and leave the self out of the sentence. Spinoza's reason for keeping some respect for shame is the desire to live honourably that it reveals.
+
+*For example:* The kid caught lying. "The lie was wrong" is a sentence that does work; "you're a liar" is a sentence that does damage. Correct the act and skip the verdict on the person.
+
+## Sources
+
+- [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — III, Definitions of the Affects XXXI; IV, LVIII note
 ## Psychology parallels
 
 - **[[Shame|Shame versus guilt]]**, the robust distinction in which guilt predicts repair and shame predicts avoidance and relapse (Tangney and Dearing, 2002)

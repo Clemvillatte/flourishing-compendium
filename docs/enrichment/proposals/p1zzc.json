@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -43,6 +43,12 @@
    "link": "SP031",
    "why": "Spinoza's definition of revenge as repayment desire through mutual hatred",
    "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics III, Def. XXXVII."
+  },
+  {
+   "into": "Guilt",
+   "link": "SP034",
+   "why": "Spinoza's definition of shame as pain over an act we believe others blame, set against the act-specific signal guilt carries",
+   "notes": "SP034 (worker-p1zzc-de9b53): hub inspected, 0 SP034 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXI; IV, LVIII note)."
   }
  ]
 }
