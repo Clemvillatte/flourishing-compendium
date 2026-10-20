@@ -21,7 +21,8 @@
   "D155",
   "D158",
   "D167",
-  "D168"
+  "D168",
+  "D182"
  ],
  "in_progress": null,
  "flagged": {
@@ -31,6 +32,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T01:11:14+00:00",
+ "updated": "2026-10-20T01:12:43+00:00",
  "band_done": false
 }
