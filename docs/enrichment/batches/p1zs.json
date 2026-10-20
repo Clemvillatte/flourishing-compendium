@@ -29,7 +29,8 @@
   "E021",
   "E041",
   "E033",
-  "E034"
+  "E034",
+  "E036"
  ],
  "in_progress": null,
  "flagged": {
@@ -58,6 +59,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 21,
- "updated": "2026-10-20T13:56:06+00:00",
+ "updated": "2026-10-20T13:58:01+00:00",
  "band_done": false
 }

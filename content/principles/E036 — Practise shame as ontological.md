@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 428** — Practise shame as ontological
 
-Recognise that shame is not merely a psychological reaction but an ontological experience: it reveals the structure of being-for-others. When you feel shame, you experience yourself as seen by the Other, as an object of their judgment. This is not a deficiency but a fundamental dimension of human existence.
+Sartre locates shame in the structure of being-seen, not in a private verdict that something is wrong with you ([Being and Nothingness, Part III, ch. 1, Barnes translation; opened full text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)):
 
-(Sartre, 1943/2003, Being and Nothingness, Part III, ch. 1.)
+> Both my shame and my pride stem from the fact that I have an "outside" or "nature," a self which exists for the Other and which I am unable to determine or even to know.
 
-**Plain words** Shame is not merely psychological — it's ontological: the revelation of the structure of being-seen. When you feel shame, you experience yourself as an object of the Other's judgment. Not a deficiency but a disclosure: it shows you're a being among beings.
+(Sartre, Being and Nothingness, trans. Hazel E. Barnes, 1956, Part III, ch. 1; [opened full text, Internet Archive](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt).)
 
-*For example:* The moment of tripping on the crowded street — the flash of shame isn't the bruise, it's the sudden knowledge of being seen from outside. The phenomenologist's note: the shame is evidence of the structure, not proof of a flaw.
+The structure behind it: I can never be an object to myself, but I am made an object for others ([same opened text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)). Shame is the lived discovery of that outside. The practice is to read the flash as information about being-seen rather than as a flaw to eliminate.
+
+### Plain words
+
+Shame is the feeling of being seen from outside, where you have no control over what is seen. The flash on the crowded street after tripping is not really about the stumble; it is the sudden knowledge that you exist for others. The feeling is a fact about your situation, not a score on your worth.
+
+### For example
+
+Someone trips on a busy street. The heat in the face comes before any thought: they have been seen. Naming the feeling for what it is, a reminder that they have an outside, is an alternative both to arguing with it and to obeying it.
 ## Psychology parallels
 
 - **[[Shame|Shame and self-consciousness]]** (Tangney and Dearing, 2002; Gilbert, 1998)
