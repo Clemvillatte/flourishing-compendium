@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 190** — The breath is always available
 
-Whatever happens, the breath is with you: one conscious breath is a complete practice. Use it everywhere: before speaking, when startled, in line.
+The Anapanasati Sutta grounds the practice in the breath itself: whatever its length, the breath is the object you can always find ([MN 118, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)):
 
-(Anapanasati Sutta, MN 118; Thích Nhất Hạnh.)
+> Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'
 
-**Plain words** Whatever happens, the breath is with you — one conscious breath is a complete practice. Use it everywhere: before speaking, when startled, in line. The smallest complete unit of meditation, available in every room of your life.
+(MN 118, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html).)
 
-*For example:* The breath before answering the hard question in the interview — three seconds, one breath, and a different answer comes out.
+The instruction continues with short breaths, sensitivity to the whole body, and calming bodily fabrication. Nothing in the sequence requires a cushion, a quiet room or a free hour; the long breath and the short breath cover whatever is actually happening. Plum Village's teaching for young people applies the same tool to daily difficulties, following the breath at the nostrils, the cool inbreath and the warm outbreath, to calm body and mind ([Plum Village](https://plumvillage.org/gems/event/Be-in-with-the-young-people-mVAvCtLiuHyzhT2MnGsW8n/preview?lang)). One conscious breath is the complete unit because it contains the whole skill: attention to what is happening now.
+
+A boundary worth drawing: the psychology parallel concerns structured slow-paced breathing practice, not single breaths taken in queues. One breath is an exercise. It is not a treatment.
+
+**Plain words** The breath is the one object you carry into every room. The exercise is small on purpose. Before answering, when startled, in line, take one breath and actually feel it: cool in, warm out, nose or chest. That is the whole practice for that moment. If it changes what you say next, that is something you report afterward, not a promise made in advance.
+
+*For example:* Imagine an interview question you did not prepare for. Instead of filling the silence immediately, you take one breath and feel it. The pause is two seconds. The answer that follows may be no wiser, but it is yours rather than the reflex, and telling those apart is the skill being trained.
 
 ## Psychology parallels
 
