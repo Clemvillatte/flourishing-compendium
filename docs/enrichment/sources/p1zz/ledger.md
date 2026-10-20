@@ -50,3 +50,8 @@
 - Y067: old "ease with being alone": commentary says solitude is not a cure for loneliness; seclusion in 6.10; "one to two hours" from commentary; "first fifteen minutes after rejoining" labelled the page's own. Locator corrected to BG 13.8-12 (the page prints it as one passage).
 - Y122: old "fault-finding company" and "protected learning environment (Chandogya 6)" are not in the opened texts; dropped from claims; closest-five audit labelled the page's own. Locator "Chandogya 6 context" dropped (6.1 opened for Y119 shows no such claim).
 - All four: plain words and examples replaced; examples imagined.
+
+## Y060 (YS 1.31), Y068 (YS 4.27-4.28)
+- Woods HOS 17: 1.31 on p. 65 with Vyasa/Vacaspati; 4.27 p. 339, 4.28 p. 340. Quotes verified (benign OCR hyphen breaks in "mind- stuff", quote glyph spacing).
+- Y060: old "the body carries the score before the mind admits it" is not in the text (Vyasa: they occur when the mind is distracted); relabelled the page's gloss. Breath meant is involuntary breathing. Plain words and example replaced; example imagined. Old "first hour of practice" corrected (page: start of a sitting).
+- Y068: sutras concern lapses in an advanced practitioner near discrimination, not everyday habit relapse; page says so. Relapse card labelled the page's own. Plain words and example replaced; imagined.
