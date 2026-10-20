@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Envy” — La Rochefoucauld, Reflections.
 
-Envy is pain at another person's good fortune. Niels van de Ven, Marcel Zeelenberg and Rik Pieters gave the feeling its working definition ([2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)), and their abstract opens with it:
+Envy is pain at another person's good fortune ([van de Ven, Zeelenberg and Pieters, 2009 abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). Niels van de Ven, Marcel Zeelenberg and Rik Pieters gave the feeling its working definition ([2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)), and their abstract opens with it:
 
 > "Envy is the painful emotion caused by the good fortune of others." (van de Ven, Zeelenberg and Pieters, [Leveling up and down: the experiences of benign and malicious envy, Emotion 9 (2009), pp. 419-429, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/))
 

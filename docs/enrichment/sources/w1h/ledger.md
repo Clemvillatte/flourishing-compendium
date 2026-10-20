@@ -152,3 +152,8 @@
   all cited), Executive function (bold lead cited to 2000 abstract; triad definition
   sentence cited).
 - EF definition is now a genuine paraphrase, not near-verbatim.
+
+## Milestone QC round 6 — final correction
+- Envy opening sentence now carries its own citation (2009 abstract). Advisor verdict
+  round 6: four pages PASS; Envy QC-pending only until this correction. Correction
+  applied, validated, saved and pushed.
