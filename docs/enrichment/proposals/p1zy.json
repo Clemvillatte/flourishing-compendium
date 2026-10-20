@@ -1,6 +1,6 @@
 {
  "batch": "p1zy",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Samskara",
@@ -13,6 +13,12 @@
    "link": "Y032",
    "why": "aparigraha's refusal to appropriate objects whose keeping is a disadvantage is the Yoga-Vedanta form of this ongoing discipline",
    "notes": "Simplicity as practice page (opened this session) cites D034/B174/AT064/X013/AT029/CO032/AT039 but not Y032; grounded in the target's own body and Y032's Woods Vyasa quote."
+  },
+  {
+   "into": "Antifragility",
+   "link": "Y037",
+   "why": "the tapas stop-line is the Yoga-Vedanta answer to the question this page names: when stress strengthens and when it damages",
+   "notes": "Target page (opened this session) is a thin seed citing Taleb 2012 and P085; why grounded in the target's title concept and Y037's verified Vacaspati dose-limit quote."
   }
  ],
  "inline": [],
