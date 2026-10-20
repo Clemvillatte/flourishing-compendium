@@ -14,9 +14,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 In Being and Time, Heidegger starts from the things we deal with rather than from geometric space. Equipment has "a different closeness, which is not to be ascertained by measuring distances" (§22): the pen is close because you write with it, whatever the tape measure says. This closeness comes from Dasein itself, whose basic spatial character he calls de-severance, a bringing-close that happens in concern rather than in motion.
 
-> De-severing amounts to making the farness vanish—that is, making the remoteness of something disappear, bringing it close. Dasein is essentially de-severant: it lets any entity be encountered close by as the entity which it is. (Heidegger, Being and Time §23, H.139, Macquarrie and Robinson trans., [full text (archive.org)](https://archive.org/details/being-and-time-martin-heidegger-1962))
+> De-severing amounts to making the farness vanish—that is, making the remoteness of something disappear, bringing it close. Dasein is essentially de-severant: it lets any entity be encountered close by as the entity which it is. (Heidegger, Being and Time §23, H.105, M&R p. 139, Macquarrie and Robinson trans., [full text (archive.org)](https://archive.org/details/being-and-time-martin-heidegger-1962))
 
-The account explains what the principle asks you to attend to. Because closeness tracks concern, the same stretch of kilometres can be near or far depending on what you are doing, and the modern push to "speed things up" drives what Heidegger calls a "conquest of remoteness" (§23). Heidegger adds that "In Dasein there lies an essential tendency towards closeness" (§23, H.140). Merleau-Ponty reaches a parallel result for the body: in contrast with the "positional spatiality" of things, the body has a "situational spatiality" oriented toward actual or possible tasks (Phenomenology of Perception, p. 129/102, as quoted in [SEP](https://plato.stanford.edu/entries/merleau-ponty/)).
+The account explains what the principle asks you to attend to. Because closeness tracks concern, the same stretch of kilometres can be near or far depending on what you are doing, and the modern push to "speed things up" drives what Heidegger calls a "conquest of remoteness" (§23). Heidegger adds that "In Dasein there lies an essential tendency towards closeness" (§23, H.105, M&R p. 140). Merleau-Ponty reaches a parallel result for the body: in contrast with the "positional spatiality" of things, the body has a "situational spatiality" oriented toward actual or possible tasks (Phenomenology of Perception, p. 129/102, as quoted in [SEP](https://plato.stanford.edu/entries/merleau-ponty/)).
 
 (Heidegger, 1927/2008, Being and Time, §§22-23; Merleau-Ponty, 1945/2012, Phenomenology of Perception, p. 129/102.)
 
@@ -27,7 +27,7 @@ Your day measures distance by concern. The kettle is close because you make tea 
 
 ## Sources
 
-- [Heidegger, Being and Time, trans. Macquarrie and Robinson, full text (archive.org)](https://archive.org/details/being-and-time-martin-heidegger-1962) — §22 closeness of the ready-to-hand (H.135); §23 de-severance (H.139), conquest of remoteness, tendency towards closeness (H.140)
+- [Heidegger, Being and Time, trans. Macquarrie and Robinson, full text (archive.org)](https://archive.org/details/being-and-time-martin-heidegger-1962) — §22 closeness of the ready-to-hand (M&R p. 135, H.102); §23 de-severance (M&R p. 139, H.105), conquest of remoteness and tendency towards closeness (M&R p. 140, also H.105)
 - [Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — situational spatiality of the body (PP: 129/102), secondhand PoP locator
 ## Stories
 
