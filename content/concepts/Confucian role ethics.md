@@ -10,11 +10,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Confucian role ethics” — Confucius, Analects.
 
-Confucian role ethics is the reading of the Analects on which ethics starts from roles. A person is son or father, subject or minister, before they are an abstract chooser. The classic passage is a question about government:
+Confucian role ethics is a modern name for a way of thinking found in the Analects. The name is recent; the passages are old. The modern framing is summarized in the SEP's Chinese Ethics entry:
+
+> These values are the basis for characterizing Confucian ethics as a relational ethic, meaning that it is in part distinguished by its placement of relationships at the center of a well-lived life (see Ames, 2011, 2021). — [SEP, Chinese Ethics §2.3 (opened)](https://plato.stanford.edu/entries/ethics-chinese/)
+
+The same entry adds that it can be part of one's very identity to be a particular person's son or daughter, mother or father. The classic passage behind this framing is a question about government:
 
 > The Duke Ching, of Ch'i, asked Confucius about government. Confucius replied, 'There is government, when the prince is prince, and the minister is minister; when the father is father, and the son is son.' — Analects XII.11, Legge translation, [Gutenberg (opened)](https://www.gutenberg.org/cache/epub/3330/pg3330.html)
 
-The reply is about government, and it is also about persons: each role has its shape, and playing it well is what the shape is for. The book's opening chapters put the same point at the root of character:
+The reply is about government, and the relational reading takes it also to be about persons: identity, on the SEP's summary, can run through one's roles. The book's opening chapters put the related point at the root of character, in the words of the philosopher Yu:
 
 > The superior man bends his attention to what is radical. That being established, all practical courses naturally grow up. Filial piety and fraternal submission!— are they not the root of all benevolent actions? — Analects I.2, Legge translation, [Gutenberg (opened)](https://www.gutenberg.org/cache/epub/3330/pg3330.html)
 
@@ -40,17 +44,10 @@ The compendium builds its relational principles on this ground: the roles are wh
 
 ## Sources
 
+- [Wong, Chinese Ethics — Stanford Encyclopedia of Philosophy (opened)](https://plato.stanford.edu/entries/ethics-chinese/)
 - [Confucius, The Analects of Confucius (from the Chinese Classics), Legge translation — Project Gutenberg (opened)](https://www.gutenberg.org/cache/epub/3330/pg3330.html)
 - Confucius, Analects
 
 ## Cited in philosophy parallels
 
 - [[S029 — Fulfil your roles well]]
-- [[V2K-S01.05 — 5. Role Ethics and Duty]]
-- [[ST242 — The Stable Burns]]
-- [[ST243 — The Five Relationships]]
-- [[A113 — Make your household a school of virtue]]
-- [[V2K-S01.07 — 7. Relational-Cultural Wellbeing]]
-- [[SP092 — Govern yourself before governing others]]
-- [[R051 — Practise ren (humanitybenevolence)]]
-- [[R117 — Practise the land ethic]]

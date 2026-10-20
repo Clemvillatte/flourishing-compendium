@@ -18,11 +18,11 @@
   "Cognitive load theory",
   "Cognitive mediation of distress",
   "Character as habits",
-  "Confucian role ethics",
   "Connectedness in well-being research",
   "Constitution of meaning",
   "Complete mental health model",
-  "Confirmation bias"
+  "Confirmation bias",
+  "Confucian role ethics"
  ],
  "in_progress": null,
  "flagged": {
@@ -35,11 +35,12 @@
   "Cognitive load theory": "Reopened for QC: milestone QC repairs (advisor): scope and prescription fixes",
   "Cognitive mediation of distress": "Reopened for QC: milestone QC repairs (advisor): assumption-framing, reciprocity note, Beck-synthesis removal",
   "Confirmation bias": "Reopened for QC: milestone QC round 2 (advisor): label the definition quote as an ellipsis-marked abridgement in the ledger",
-  "Complete mental health model": "Reopened for QC: milestone QC round 2 (advisor): narrow opening to what the abstract demonstrates; verify title-to-source"
+  "Complete mental health model": "Reopened for QC: milestone QC round 2 (advisor): narrow opening to what the abstract demonstrates; verify title-to-source",
+  "Confucian role ethics": "Reopened for QC: milestone QC round 2 (advisor): relational-reading grounding, Yu speaker, Cited-in restoration"
  },
  "missing_concepts": [],
  "sources_checked": 34,
- "updated": "2026-10-20T06:43:48+00:00",
+ "updated": "2026-10-20T06:44:16+00:00",
  "takeover": {
   "by": "genuineflourishing36",
   "at": "2026-10-19T12:14:25+00:00"
