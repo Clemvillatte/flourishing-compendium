@@ -112,15 +112,20 @@
    ]
   },
   "s1b-006": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "D133: Liezi sailor and gulls, Book II pp49-50, Giles1912; possession disrupts the relation, distinguish Chang Chan commentary from narrative; no zoological mindreading claim",
    "history": [
     {
      "t": "2026-10-20T14:44:18+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:45:56+00:00",
+     "to": "drafting",
+     "note": "Read original Giles scan title/intro16/story49-50; exact narrative quote; distinct Chang Chan commentary; no invented reconciliation or animal-cognition claims"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:44:18+00:00"
+ "updated": "2026-10-20T14:45:56+00:00"
 }
