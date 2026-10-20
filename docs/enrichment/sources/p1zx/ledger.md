@@ -249,3 +249,8 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 
 - Source opened: Heidegger BT (Macquarrie-Robinson, Internet Archive OCR): §72 (H. 374 via inline H. 375 marker), §6 ('Dasein is its past'), §74 (heritage, destiny, fate). OCR quirks ('ts', '.' for ',' in 'superior power,') read as scan errors; quotes otherwise verbatim.
 - Old cite §§72-77: only §§72 and 74 used (plus §6 for the past passage); §§75-77 not opened for quoting. H. page given only for §72 where the inline marker proves it. Plain words replicate replaced; example imagined (family patterns from old text were unsupported colour). Self-QC only.
+
+## E094 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: Jaspers, Way to Wisdom, trans. Manheim (Internet Archive OCR) pp. 28-32, from running heads; SEP Jaspers for the 'encompassing' rendering (this translation says 'Comprehensive'). OCR noise ignored; all quotes otherwise verbatim.
+- Not opened: Philosophy vol. 1, Von der Wahrheit (old cites). 'Honour what exceeds your self-knowledge' (old) is not Jaspers's wording. Plain words replicate replaced; example imagined. Self-QC only.
