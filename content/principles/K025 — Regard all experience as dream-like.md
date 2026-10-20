@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 25** — Regard all experience as dream-like
 
-The second point's opening slogan: see all dharmas as dreams. Not that nothing is real, but that the mind's constructions (interpretations, identities, grievances) have the ontology of dream-stuff: vivid, compelling, and made. The instruction is a standing habit of lightness applied to your own certainties. Practically, when a storyline becomes heavy, apply the dream test: "in a year, five years, at death, what will this have been?"
+The Seven-Point Mind Training opens its ultimate-bodhicitta slogans with a one-line instruction:
 
-(Seven-Point Mind Training, Point Two.)
+> "Regard all dharmas as dreams." (Chekawa, Seven Points of Mind Training, Point Two, as carried on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
 
-**Plain words** Treat experience as dream-like. That doesn't mean nothing is real. It means the mind's constructions, the interpretations, identities and grievances, have a dream's quality: vivid, gripping, and made. It's a standing habit of lightness toward your own certainties.
+Chögyam Trungpa's commentary heads off the common misreading:
 
-*For example:* Replaying an insult for the fifth time, you ask what it will weigh in a year, in five, at death. It deflates, a little.
+> "Regarding things as dreams does not mean that you become fuzzy and woolly, that everything has an edge of sleepiness about it. You might actually have a good dream, vivid and graphic. Regarding dharmas as dreams means that although you might think that things are very solid, the way you perceive them is soft and dreamlike." (Chögyam Trungpa, lojong commentary, [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
+
+The slogan targets perception, and each situation it applies to is, in Trungpa's gloss, "a passing memory": this morning's walk is already one, and the irritation, lust, anger and sadness of ordinary repetition are, in his words, "all a part of discursive thought". So the instruction works as a habit of lightness. In Trungpa's phrasing, "With our minds we make a big deal out of ourselves, out of our pain, and out of our problems", and the dream comparison cuts the weight while the vividness stays.
+
+**Plain words**
+When something feels too heavy to put down, part of that weight is your perception manufacturing solidity. The storyline you are inside will have the status of a memory soon, the way this morning already does. Notice the vividness and let the permanence go at the same time.
+
+For example: Replaying an insult for the fifth time, you ask what it will weigh in a year, in five, at death. It deflates, a little.
+
+## Sources
+
+- [Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Two](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point) — slogan rendering "Regard all dharmas as dreams" and Chögyam Trungpa's commentary (fuzzy-and-woolly passage, passing-memory gloss, big-deal passage) quoted verbatim from the opened Tibetan Buddhist Encyclopedia page
 
 ## Psychology parallels
 
