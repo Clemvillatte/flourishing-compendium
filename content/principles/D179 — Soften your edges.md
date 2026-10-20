@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 179** — Soften your edges
 
-The sage is cautious, like crossing a winter stream; yielding, like ice about to melt; plain, like uncarved wood; open, like a valley. Blur your own outlines: edges invite attack.
+Chapter 15 of the Daodejing describes the skilful masters of the Tao in old times: with a subtle and exquisite penetration they comprehended its mysteries, and were deep so as to elude men's knowledge. The chapter's effort to describe what they appeared to be is a list of likenesses: shrinking like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest in awe of his host; evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water. Chapter 20 adds the social edge: the speaker alone seems listless and still, like an infant which has not yet smiled; dull and confused while ordinary men look bright and intelligent; alone different from other men, because he values the nursing-mother, the Tao.
 
 (DDJ 15, 20.)
 
-**Plain words** The hard-edged, defended self collects collisions — every wall is something to push against. Softening is about how you respond, not whether you hold the line: keep the boundary, drop the armour. Flexible in response, firm in position.
+> "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water." (DDJ 15, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-*For example:* The colleague who never argues but also never hardens — years later, everyone's still trying to figure out how they always get their way.
+The compendium's reading: the chapter's likenesses are all of indistinctness, shrinking, evanescent, unfashioned, vacant, dull. The principle's softened edge is the reading's name for what others see in such a person: not a hardened outline but a surface still in movement.
+
+**Plain words**
+Chapter 15's masters are described only by likenesses, and every likeness is indistinct: wading in winter, melting ice, unfashioned wood, a valley, muddy water. The compendium's exercise: pick your hardest current position and describe it to yourself in one of these likenesses rather than in the language of the standoff.
+
+*For example:* The compendium's hypothetical: the colleague who never argues but also never hardens — ask what their yes is doing in the meantime.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapters 15, 20
 
 ## Psychology parallels
 
@@ -28,7 +37,6 @@ The sage is cautious, like crossing a winter stream; yielding, like ice about to
 ## Philosophy parallels
 
 
-- None included; the sage's manner itself is the parallel.
 - **[[Pu (the uncarved block)|Pu — uncut simplicity]]** (Daoism, Daodejing 19)
 
 
