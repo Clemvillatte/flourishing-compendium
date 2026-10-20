@@ -44,7 +44,8 @@
   "PP024",
   "PP034",
   "PP049",
-  "R006"
+  "R006",
+  "R014"
  ],
  "in_progress": null,
  "flagged": {
@@ -76,7 +77,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:05:56+00:00",
+ "updated": "2026-10-20T04:07:12+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
