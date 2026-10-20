@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -31,6 +31,12 @@
    "link": "AT028",
    "why": "The principle applying time-of-day and chronotype variation to scheduling attentionally demanding work",
    "notes": "AT028 body grounds in Schmidt et al. 2007 (opened full text); Chronobiology page cites the same review but not AT028."
+  },
+  {
+   "into": "Incubation",
+   "link": "AT036",
+   "why": "The principle applying incubation findings to deliberate breaks and low-demand filler during problem solving",
+   "notes": "AT036 body grounds in Sio & Ormerod 2009 (opened ERIC abstract) with the Baird 2012 failed-replication caveat (FLoRA record opened); Incubation concept page does not currently cite AT036."
   }
  ],
  "inline": [],

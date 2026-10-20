@@ -11,7 +11,8 @@
   "AT019",
   "AT022",
   "AT027",
-  "AT028"
+  "AT028",
+  "AT036"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,6 +21,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-20T12:51:53+00:00",
+ "updated": "2026-10-20T12:53:22+00:00",
  "band_done": false
 }
