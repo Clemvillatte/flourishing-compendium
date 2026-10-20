@@ -17,3 +17,10 @@
 - Source opened: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abook%3D10 (NE Book X, tr. H. Rackham).
 - Verbatim quotes: the elimination-argument conclusion ("the activity of God, which is transcendent in blessedness, is the activity of contemplation...") and the "achieve immortality" passage ("live in accordance with the highest thing in him; for though this be small in bulk, in power and value it far surpasses all the rest").
 - Plain words re-derived (no-deliverable framing, defend-the-time framing); original bench example kept. Yaden/Lutz parallels left as inherited (not opened this session).
+
+### AF010 — Recognise that affect has temporal structure (2026-10-20, worker-p1c-45f6a65e)
+- State: seed → done.
+- Source opened: https://pubmed.ncbi.nlm.nih.gov/25822133/ (PubMed record; Houben, Van Den Noortgate & Kuppens 2015, Psychological Bulletin 141(4), 901-930).
+- Verbatim quotes: abstract opening sentence ("Not only how good or bad people feel on average...") and closing sentence ("psychological flourishing is characterized by specific patterns of emotional fluctuations across time").
+- Mapping sentence (variability/instability/inertia read against the principle's four properties) framed as this page's reading; the meta-analysis measures variability, instability, inertia (not intensity/duration/recovery as such) and the body does not claim otherwise. Kuppens/Hollenstein parallels left as inherited (not opened this session; the meta-analysis itself supports the inertia-depression link per its abstract).
+- Example kept from seed with em dashes removed; Practice section inherited unchanged.
