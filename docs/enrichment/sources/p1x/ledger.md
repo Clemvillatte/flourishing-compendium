@@ -145,3 +145,9 @@ Core prose (body per QC round-1 replacement text, VI.9 blockquote + IV.21 inline
 **Assertions dropped:** none. Plain-words near-replicate replaced with a gloss re-derived from the Neff components.
 **Reciprocal candidates:** AF066 (same construct, public body), K162 (practice drill). Pending supervisor.
 **QC:** standard checks.
+### SE024 — Recognise the self-serving bias
+**Done:** SE024.
+**Sources opened:** Miller & Ross 1975, abstract, Semantic Scholar, https://www.semanticscholar.org/paper/40211e769186c4bba0bfc6f0cf8d8baa3a68e82d; Mezulis et al. 2004, abstract/TLDR, Semantic Scholar, https://www.semanticscholar.org/paper/3b34c66b49c43d2fb28f2764603c5543dadda839 (266 studies, d=0.96).
+**Assertions dropped:** the flat both-directions claim softened per Miller & Ross's own asymmetry verdict (minimal evidence for failure-side self-protection); motivational-distortion reading flagged as their alternative (expectancy/contingency misconstrual).
+**Reciprocal candidates:** none new; Self-serving attribution bias concept already links SE024.
+**QC:** standard checks.
