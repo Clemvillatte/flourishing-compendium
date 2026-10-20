@@ -340,3 +340,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (differences are hyphenation, page-break header and an en-dash).
 - Seed repairs: Woods' nine are sickness, languor, doubt, heedlessness, listlessness, worldliness, erroneous perception, failure to attain a stage, instability; page glosses (mental inertia, laziness, craving) mapped. Text gives ONE remedy (1.32), not one per obstacle; "each obstacle has a different remedy" labelled as unsupported and the naming-first rule as the page's own. Differential-diagnosis and Marcus Aurelius not opened.
 - Saturation: low.
+
+## Y061 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.30-1.39 sutra list (with the 1.30 commentary read for Y059).
+- Quotes verified: sutra 1.31-1.32 matched (differences only list formatting).
+- Seed repairs: structure (obstacles then supports) is in the text; obstacle-as-information reading and the logging practice labelled as the page's own; accompaniments (pain, despondency, unsteady body, breath) noted as a possible log checklist. Michie et al. and Marcus Aurelius not opened.
+- Saturation: low.
