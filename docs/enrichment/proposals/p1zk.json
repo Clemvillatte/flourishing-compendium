@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 15,
+ "revision": 16,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -97,6 +97,12 @@
    "link": "BI022",
    "why": "the see-a-doctor rule distinguishes sleep habits from medical symptoms",
    "notes": "Evidence in sources/p1zk/BI022.md (NHLBI sleep apnea, NINDS, Edinger 2021, all opened). Concept already cites BI022."
+  },
+  {
+   "into": "Circadian science",
+   "link": "BI028",
+   "why": "the exercise phase-response curve and evening-exercise meta-analysis are circadian-timing findings",
+   "notes": "Evidence in sources/p1zk/BI028.md (Youngstedt 2019, Stutz 2019, both opened). Concept already cites BI028."
   }
  ],
  "inline": []
