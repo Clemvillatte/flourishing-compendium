@@ -113,3 +113,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y012 (2026-10-21)
 - Woods HOS 17 pp. 132-133 (2.15 and Vyasa on the three pains; "[132" and "133]" heads). Quotes verified except footnote digit ("opposition1") and OCR hyphen breaks.
 - Old text's "tremor of unsatisfactoriness because pleasant states are structurally unstable" is replaced by the commentary's mechanism (craving, satiation, rising passion, latent deposit). The diagnostic question about where stability was placed is the principle's, labelled. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y014 (2026-10-21)
+- Woods HOS 17 p. 13 (1.3 and gloss); Arnold Gita ch. 2 (spirit "birthless and deathless"); SN 22.59 (Sujato, SuttaCentral, fetched; text elided with "..." in the tool output was not quoted). Quotes verified.
+- Old text's claims that Advaita asserts atman-Brahman identity and that the pragmatist tradition "brackets it as unactionable" have no source opened this session; the page says it makes no statement about them. The Buddhist denial of a self is now sourced to SN 22.59. The method position (examine procedures without ontological assent) is the book's own; labelled. Old cite BG 2.21-2.25 not checked against a numbered edition. Plain words replicate replaced; example imagined. Self-QC only. A later pass could add sourced Advaita (BU/Sankara) and pragmatist (e.g. James) citations.
