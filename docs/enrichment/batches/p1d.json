@@ -69,7 +69,7 @@
   "B129",
   "R117"
  ],
- "in_progress": null,
+ "in_progress": "AT020",
  "flagged": {
   "D017": "QC note: inherited scab example kept per protocol; advisor calls it a medical claim needing a source; supervisor to arbitrate",
   "BI012": "Supervisor repair independently PASS: Carter exact; Bode association limits; NHS assessment advice; causal anecdote and medical-first rule removed (2026-10-19)",
@@ -87,6 +87,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 82,
- "updated": "2026-10-20T03:49:47+00:00",
+ "updated": "2026-10-20T03:49:52+00:00",
  "band_done": false
 }
