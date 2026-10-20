@@ -12,15 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 71** — Recognise the value of "I don't know": not knowing is a cognitive state
 
-The capacity to say "I do not know" — without shame, without rushing to fill the gap — is a mark of cognitive maturity. It is also the precondition for learning. Pretending to know blocks learning.
+In the Apology, Socrates tests a man with a reputation for wisdom and reports what he concluded ([Plato, Apology, trans. Jowett, 21d](https://classics.mit.edu/Plato/apology.html)):
 
-**Plain words** The capacity to say "I don't know" — without shame, without rushing to fill the gap — is a mark of cognitive maturity and the precondition for learning. Pretending to know blocks the update. "I don't know" is where the learning enters.
+> I am better off than he is - for he knows nothing, and thinks that he knows. I neither know nor think that I know.
 
-*For example:* The meeting where one person says "I don't know — I'll find out by Thursday" — and the respect it earns against the confident bluff that unravels in a week. The not-knowing was never the embarrassment; the bluff was.
+Modern work gives a partial echo. Leary and colleagues measured intellectual humility, "the degree to which people recognize that their beliefs might be wrong", and found it associated with openness, curiosity and tolerance of ambiguity, and with being more attuned to the strength of persuasive arguments ([Leary et al., 2017, PSPB 43, 793-813](https://pubmed.ncbi.nlm.nih.gov/28903672/)). Kruger and Dunning found that people scoring in the bottom quartile "grossly overestimated their test performance", and that improving their skills helped them see their limits ([Kruger & Dunning, 1999, JPSP 77, 1121-1134](https://pubmed.ncbi.nlm.nih.gov/10626367/)). Neither study tested whether saying "I don't know" speeds learning, so that part is the compendium's inference.
+
+**Plain words** Knowing where your knowledge ends tells you where to look next. The sources link that awareness to open-minded habits. They do not show it is the only route to learning.
+
+For example (imagined): in a meeting, "I don't know, I'll check by Thursday" gives colleagues a clear next step. A confident guess can send people the wrong way until someone checks.
+
+## Sources
+
+- Plato, [Apology](https://classics.mit.edu/Plato/apology.html), trans. Benjamin Jowett, 21d (MIT Classics)
+- Leary et al. (2017), [Cognitive and Interpersonal Features of Intellectual Humility](https://pubmed.ncbi.nlm.nih.gov/28903672/), abstract
+- Kruger & Dunning (1999), [Unskilled and unaware of it](https://pubmed.ncbi.nlm.nih.gov/10626367/), abstract
+
 ## Psychology parallels
 
-- **The value of admitting ignorance**, people who acknowledge not knowing learn more and are judged more trustworthy (Leary et al., 2017)
-- **Confidence without competence is common**, the Dunning-Kruger effect shows that low competence often comes with high confidence (Kruger & Dunning, 1999)
+- **Intellectual humility**, recognising one's beliefs might be wrong correlates with openness, curiosity and attunement to argument strength (Leary et al., 2017)
+- **Confidence without competence**, bottom-quartile scorers estimated themselves at the 62nd percentile against an actual 12th (Kruger & Dunning, 1999)
 
 ## Philosophy parallels
 
