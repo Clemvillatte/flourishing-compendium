@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 41** — Know that virtue aims at the beautiful (to kalon)
 
-The virtuous person acts not merely for the useful or the pleasant but for the kalon: the noble, the beautiful, the fine. The aesthetic dimension of ethics is not decoration but substance. Let your actions be done for the sake of what is noble, not merely what is useful.
+Aristotle's virtuous person acts for the sake of the noble. In the chapter on courage the brave man "will face them as he ought and as the rule directs, for honour's sake; for this is the end of virtue", and the account closes the loop:
 
-(NE I.7, II.3, III.7, IV.2.)
+> "But courage is noble. Therefore the end also is noble; for each thing is defined by its end. Therefore it is for a noble end that the brave man endures and acts as courage directs." ([Nicomachean Ethics III.7, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-**Plain words** The good person acts for what's noble, not just what's useful or pleasant. Aristotle calls that kalon: the fine, the beautiful. Taste and ethics overlap. So ask not only "does it work?" but "is it worth being the kind of person who does this?"
+The test runs both ways. Courage "chooses or endures things because it is noble to do so, or because it is base not to do so", but to die "to escape from poverty or love or anything painful is not the mark of a brave man, but rather of a coward... such a man endures death not because it is noble but to fly from evil." The same note runs through the other virtues: "Now virtuous actions are noble and done for the sake of the noble" (IV.1), and one ought to be brave "not under compulsion but because it is noble to be so" (III.8). The Greek word behind Ross's "noble" is kalon, the fine.
 
-*For example:* Staying to help a stranger carry shopping up the stairs, when it earns you nothing, is the thing done for its own fineness.
+The compendium's exercise: for one decision this week, write down the noble-making reason next to the useful one, and check whether the action still holds with nothing to gain.
+
+**Plain words** The good person acts for what is noble, not just what is useful or pleasant. Aristotle's word for the noble is kalon: the fine. Test an action by asking not only whether it works, but whether you would still do it with nothing to gain.
+
+*For example (imagined):* Someone helps a stranger carry shopping upstairs and notes later that they would have done it with no one watching.
 
 ## Psychology parallels
 
@@ -29,7 +33,6 @@ The virtuous person acts not merely for the useful or the pleasant but for the k
 
 - **The beautiful and the good** (Plato, Symposium)
 - **[[Consummatory experience|Consummatory experience]]** (Dewey, Art as Experience)- **[[To kalon|To kalon]]** (Aristotelianism)
-
 
 <!-- fc: reflections
 Name an action you took only because it was fine, with no benefit to you. What made it feel that way?
