@@ -10,21 +10,21 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 Stage theories of development hold that development proceeds through discrete periods that are qualitatively distinct from one another. A developmental psychology textbook chapter states the core idea:
 
 > "First, as I have already implied, stages are characterised by qualitative changes. A qualitative change is not simply a matter of being able to do more of something but of doing it differently."
-> — ["The nature of development", Exploring Developmental Psychology (SAGE sample chapter PDF)](https://uk.sagepub.com/sites/default/files/upm-assets/16498_book_item_16498.pdf)
+> — ["The nature of development", Exploring Developmental Psychology, p. 8, section "Are there stages in development?" (SAGE sample chapter PDF)](https://uk.sagepub.com/sites/default/files/upm-assets/16498_book_item_16498.pdf)
 
-The seed names the compendium's three exemplars: Erikson's psychosocial stages (1963), Kohlberg's moral stages (1981) and Fowler's faith stages (1981). The three are connected by lineage, not just by topic: "The developmental features of Fowler's model rely heavily on the psychosocial theory of Erik Erikson and the cognitive theory of moral development set forth by Lawrence Kohlberg", and "Both Erikson and Kohlberg are stage theorists who view life as advancing along a predictable sequence" ([Piper, Faith Development: A Critique of Fowler's Model](https://files.meadville.edu/files/resources/v3n1-piper-faith-development-a-critique-of-fowlers.pdf)). On that account, movement from one stage to the next "occurs as the result of "crisis" (Erikson) or "disequilibrium" (Kohlberg) when existing structures are unable to accommodate new experiences" ([Piper](https://files.meadville.edu/files/resources/v3n1-piper-faith-development-a-critique-of-fowlers.pdf)).
+The seed names the compendium's three exemplars: Erikson's psychosocial stages (1963), Kohlberg's moral stages (1981) and Fowler's faith stages (1981). Piper describes Fowler's reliance on Erikson and Kohlberg: "The developmental features of Fowler's model rely heavily on the psychosocial theory of Erik Erikson and the cognitive theory of moral development set forth by Lawrence Kohlberg", and "Both Erikson and Kohlberg are stage theorists who view life as advancing along a predictable sequence" ([Piper, Faith Development: A Critique of Fowler's Model, PDF p. 3](https://files.meadville.edu/files/resources/v3n1-piper-faith-development-a-critique-of-fowlers.pdf)). On that account, movement from one stage to the next "occurs as the result of "crisis" (Erikson) or "disequilibrium" (Kohlberg) when existing structures are unable to accommodate new experiences" ([Piper, PDF p. 3](https://files.meadville.edu/files/resources/v3n1-piper-faith-development-a-critique-of-fowlers.pdf)).
 
 ## Sources
 
-- Erikson, 1963 (original seed line, kept)
+- Erikson, 1963
 
-- Fowler, 1981 (original seed line, kept)
+- Fowler, 1981
 
-- Kohlberg, 1981 (original seed line, kept)
+- Kohlberg, 1981
 
-- ["The nature of development", Exploring Developmental Psychology (SAGE sample chapter PDF)](https://uk.sagepub.com/sites/default/files/upm-assets/16498_book_item_16498.pdf) — the qualitative-change definition, quoted verbatim; the book's authorship is not asserted, the in-text citation does not establish it
+- ["The nature of development", Exploring Developmental Psychology, p. 8, section "Are there stages in development?" (SAGE sample chapter PDF)](https://uk.sagepub.com/sites/default/files/upm-assets/16498_book_item_16498.pdf) — the qualitative-change definition, quoted verbatim
 
-- [Edward Piper, Faith Development: A Critique of Fowler's Model and a Proposed Alternative (Meadville PDF)](https://files.meadville.edu/files/resources/v3n1-piper-faith-development-a-critique-of-fowlers.pdf) — the Erikson-Kohlberg-Fowler lineage and the crisis/disequilibrium passage, quoted verbatim
+- [Edward Piper, Faith Development: A Critique of Fowler's Model and a Proposed Alternative, PDF p. 3 (Meadville)](https://files.meadville.edu/files/resources/v3n1-piper-faith-development-a-critique-of-fowlers.pdf) — the Erikson-Kohlberg-Fowler lineage and the crisis/disequilibrium passage, quoted verbatim
 
 ## Cited in psychology parallels
 

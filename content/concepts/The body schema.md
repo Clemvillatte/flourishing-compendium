@@ -12,11 +12,11 @@ In Toadvine's account of Merleau-Ponty, the body schema is a pre-conscious syste
 > "This kinesthetic awareness is made possible by a pre-conscious system of bodily movements and spatial equivalences that Merleau-Ponty terms the 'body schema'. In contrast with the 'positional spatiality' of things, the body has a 'situational spatiality' that is oriented toward actual or possible tasks (PP: 129/102)."
 > — [Ted Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy, §3 Phenomenology of Perception](https://plato.stanford.edu/entries/merleau-ponty/)
 
-Toadvine also discusses phantom-limb cases in explaining Merleau-Ponty's account of the body's pre-objective orientation toward the world: "Through a contrast with pathological cases such as phantom limbs, Merleau-Ponty describes the body's typical mode of existence as 'being-toward-the-world'" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)). He distinguishes the present body from the habit body, "the sedimentations of past activities that take on a general, anonymous, and autonomous character" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)). The section closes its account of bodily space with the body not placed but living: "bodily space is a multi-layered manner of relating to things, so that the body is not 'in' space but lives or inhabits it" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)).
+Toadvine also discusses phantom-limb cases in explaining Merleau-Ponty's account of the body's pre-objective orientation toward the world: "Through a contrast with pathological cases such as phantom limbs, Merleau-Ponty describes the body's typical mode of existence as 'being-toward-the-world'" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)). He distinguishes the present body from the habit body, "the sedimentations of past activities that take on a general, anonymous, and autonomous character" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)). Toadvine adds: "bodily space is a multi-layered manner of relating to things, so that the body is not 'in' space but lives or inhabits it" ([Toadvine, SEP §3](https://plato.stanford.edu/entries/merleau-ponty/)).
 
 ## Sources
 
-- Merleau-Ponty, Phenomenology of Perception (original seed line, kept)
+- Merleau-Ponty, Phenomenology of Perception
 - [Ted Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — the body-schema definition, situational-spatiality passage, being-toward-the-world and habit-body descriptions, quoted verbatim
 
 [[E013 — Practise the lived body (Leib)]]
