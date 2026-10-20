@@ -167,3 +167,44 @@ source; anything not opened is recorded as inherited and unverified.
   QC not due (item 8). Validator: ok.
 - D108 — Accept imperfection: opened Legge DDJ 45 (fetched fresh). Blockquote
   = ch. 45 verse verbatim. Advisor QC via item-10 sweep (see above).
+
+### D124 — Look for the right in the other side (2026-10-20)
+- Opened: Zhuangzi Legge ETH PDF, ch. 2 "that and this" passage. Blockquote
+  verbatim as extracted. Inline fragments: "That view comes from this; and
+  this view is a consequence of that". Advisor QC not due (item 11).
+  Validator: ok.
+
+### D126 — Trust the trustworthy and the untrustworthy (2026-10-20)
+- Opened: Legge DDJ 49 (fetched fresh). Blockquote = sincerity passage
+  verbatim. Inline fragments: "the mind of the people his mind"; the
+  good/not-good passage; "appearance of indecision"; "as his children".
+  Advisor QC not due (item 12). Validator: ok.
+
+### D127 — No one is worthless (2026-10-20)
+- Opened: Legge DDJ 27 (fetched fresh). Blockquote = "saving men" passage
+  verbatim. Inline fragments: master/helper passage. Advisor QC not due
+  (item 13). Validator: ok.
+
+### D138 — Don't exhaust those in your care (2026-10-20)
+- Opened: Legge DDJ 75 (fetched fresh). Blockquote = famine passage
+  verbatim. Inline fragments: "difficult to govern..."; "make light of
+  dying..." passages. Advisor QC not due (item 14). Validator: ok.
+
+### D140 — Respect others' nature: don't cage what you love (2026-10-20)
+- Opened: Zhuangzi Legge ETH PDF, ch. 18 sea-bird of Lu passage. Blockquote
+  = "nourish the bird" verdict verbatim (speech quotes removed per advisor).
+  Inline fragments: "looked at everything with dim eyes, and was very sad";
+  "in three days it died"; "Fishes live and men die in the water..."; "the
+  ancient sages did not require (from all) the same ability...".
+- Advisor QC (item 15 milestone): round 1 FAIL (retold-story plain words,
+  "giver's language" aphorism, scare-quoted 'favorite', unverified Assor
+  tail). Repaired per exact edits: narrative tightened, compendium-application
+  sentence added, plain words/example replaced (ask-what-they-welcome;
+  grandparents hypothetical), blockquote speech quotes removed.
+- Assor, Roth and Deci 2004 abstract FETCHED via the selfdeterminationtheory.org
+  PDF (https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2004_AssorRothDeci.pdf);
+  the inherited "undermines autonomy and self-worth" tail replaced with the
+  abstract's own findings (internal compulsion, resentment, ill-being) and
+  the record link added.
+- Saturation: cited by Respect, Conditional regard, Alterity, Attachment
+  research on autonomy-granting. Validator: ok vs 71fd7049.
