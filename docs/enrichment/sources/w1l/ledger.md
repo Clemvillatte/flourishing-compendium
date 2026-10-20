@@ -249,3 +249,23 @@ review. Round 1 FAIL on four items; repairs applied and revalidated:
   disposition (not accepted; see the Category A flag).
 
 4 files revalidated (4 checked, 0 failed) after repairs.
+
+## Milestone QC round 2 (item 10, 2026-10-20) — scoped recheck
+
+- Creative values: Uemura sentence rewritten per the advisor's exact wording
+  (Uemura's account distinguished from Frankl's exact words; no false
+  direct-quotation provenance); blockquote locator added (logotherapy
+  discussion after the self-transcendence passage, PDF p. 67 of the
+  Internet Archive copy; no printed page number is extractable on that
+  page, verified with layout extraction).
+- Compassion-focused therapy: "Box 3, item 5" locator added to the
+  blockquote citation.
+- sources_checked reconciled: 12 sources opened this session (Gutenberg
+  Legge DDJ, TNH Heart of the Buddha's Teaching PDF, Awakin Art of Living
+  excerpt, bhagavad-gita.us 2.47, accesstoinsight DN 31 ksw0, MIT On
+  Ancient Medicine pt 3, AGRIS Cardenas 2013, Cambridge Gilbert 2009,
+  Rogers 1957 reprint PDF, Frankl MSM PDF, Uemura PDF, geerthofstede 6D).
+- Milestone 10 recorded as: acceptance of the reviewed passages after two
+  repair rounds, not independent certification of every claim across all
+  ten pages. Following nature's rhythms remains pending supervisor
+  namespace disposition (Category A flag).

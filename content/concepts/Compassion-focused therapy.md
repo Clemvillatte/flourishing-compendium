@@ -11,7 +11,7 @@ Compassion-focused therapy is Paul Gilbert's integrated approach for people with
 
 The approach rests on a model of three emotion regulation systems, set out in the article's evolution and neurosciences section: threat and protection systems; drive, resource-seeking and excitement systems; and contentment, soothing and safeness systems. The therapy's stated target is the third of these:
 
-> "Compassion-focused therapy and compassionate mind training are directed at facilitating development of the soothing and social safeness system." (Gilbert, [Introducing compassion-focused therapy](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088), Advances in Psychiatric Treatment 15(3), 2009)
+> "Compassion-focused therapy and compassionate mind training are directed at facilitating development of the soothing and social safeness system." (Gilbert, [Introducing compassion-focused therapy](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088), Advances in Psychiatric Treatment 15(3), 2009, Box 3, item 5)
 
 ### What the training targets
 

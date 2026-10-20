@@ -9,11 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Creative values are Viktor Frankl's name for the first of the three routes to meaning: what a person gives to the world through a work or a deed. Man's Search for Meaning lists the three routes in one sentence.
 
-> "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." (Frankl, [Man's Search for Meaning](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf), Beacon Press edition)
+> "According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering." (Frankl, [Man's Search for Meaning](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf), Beacon Press edition; the logotherapy discussion immediately after the passage on self-transcendence, PDF page 67 of the Internet Archive copy)
 
 ### Where the label comes from
 
-The book's comment on the list: "The first, the way of achievement or accomplishment, is quite obvious. The second and third need further elaboration." The label creative values comes from Frankl's taxonomy of "creative values, experiential values, and attitudinal values", in which "Creative values are what one finds by creating a work or doing a deed" (Frankl 1984, 133, as quoted in [Uemura](https://www.davidpublisher.com/Public/uploads/Contribute/5baf1de27225a.pdf)).
+The book's comment on the list: "The first, the way of achievement or accomplishment, is quite obvious. The second and third need further elaboration." Uemura identifies these routes as creative, experiential and attitudinal values, citing Frankl (1984, p. 133). In his account, creative values concern meaning found through creating a work or doing a deed. ([Uemura](https://www.davidpublisher.com/Public/uploads/Contribute/5baf1de27225a.pdf))
 
 ### In the compendium
 
