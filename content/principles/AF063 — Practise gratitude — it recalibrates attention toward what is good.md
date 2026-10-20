@@ -32,7 +32,7 @@ The nightly list of three specific things: not "family" but "the way Dad mispron
 ## Psychology parallels
 
 - **Gratitude interventions show small pooled effects**, a preregistered meta-analysis across 145 papers and 28 countries found small overall increases in well-being (g = 0.19; Choi et al., 2025)
-- **Combining intervention types strengthens effects**, effectiveness was greater when multiple types of gratitude interventions were combined (Choi et al., 2025)
+- **Combined intervention types**, the meta-analysis found larger effects in studies combining multiple gratitude-intervention types (Choi et al., 2025)
 
 ## Philosophy parallels
 

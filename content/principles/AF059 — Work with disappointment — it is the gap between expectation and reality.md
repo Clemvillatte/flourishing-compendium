@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 59** — Work with disappointment: it is the gap between expectation and reality
 
-Disappointment is the feeling that arrives when an outcome falls short of what was expected. The decision sciences define it by exactly that gap. An EEG study of the emotion restates Bell's formal definition:
+Disappointment is the feeling that arrives when an outcome falls short of what was expected. A decision-theoretic model of the emotion defines it by exactly that gap. An EEG study of the emotion restates Bell's formal definition:
 
 > "Disappointment (and its positive counterpart Elation) is formally defined by Bell (1985) as proportional to the mismatch (numerical difference) between the subject's expectations and the actual outcome." (Tzieropoulos et al., 2011 — [The impact of disappointment in decision making](https://pmc.ncbi.nlm.nih.gov/articles/PMC3020567/) — Introduction)
 
@@ -22,7 +22,7 @@ The same literature is explicit that the feeling tracks the gap rather than the 
 The number came in below the number you expected, and the feeling is proportional to the distance between the two. It is a report on the forecast, not on your worth. The two questions the gap raises: was the forecast realistic, and what does the gap change about the next one?
 
 **For example**
-Imagine a launch that lands at 60% of the hoped-for numbers. The feeling is proportional to the 40% gap. The compendium's suggestion: treat it as an audit of the forecast rather than a verdict on the effort, and build the next forecast from the actual numbers.
+Imagine a launch that lands at 60% of the hoped-for numbers. The comparison to sit with is between the forecast and the actual result. The compendium's suggestion: treat it as an audit of the forecast rather than a verdict on the effort, and build the next forecast from the actual numbers.
 
 ## Sources
 

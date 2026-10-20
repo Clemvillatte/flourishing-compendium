@@ -19,10 +19,10 @@ Savouring is the capacity to attend to, appreciate, and enhance positive experie
 The same paper locates the construct on the control side of feeling: savouring is "a form of perceived control over positive emotions", largely independent of beliefs about coping with negative ones. The evidence base for training it has since been pooled: a meta-analysis of 20 randomized controlled trials with 4,805 participants found a moderate pooled effect of savoring interventions on emotional outcomes (g = 0.51) (Chen et al., 2026).
 
 **Plain words**
-The good thing happens, and the difference between having it and feeling it is attention. The three moves the definition names are all things you can do on purpose: look forward to something coming, be in something while it happens, look back at something past. The compendium's suggestion: pick one of the three today.
+The good thing happens; the practice is where the attention goes while it happens. The three moves the definition names are all things you can do on purpose: look forward to something coming, be in something while it happens, look back at something past. The compendium's suggestion: pick one of the three today.
 
 **For example**
-Imagine someone who gets a genuinely good piece of feedback and is already drafting the next task in their head. The compendium's suggestion: reread the feedback once, let the sentences land, and tell one person about it at lunch. Same event, more experience of it.
+Imagine someone who gets a genuinely good piece of feedback and is already drafting the next task in their head. The compendium's suggestion: reread the feedback once, let the sentences land, and tell one person about it at lunch.
 
 ## Sources
 
