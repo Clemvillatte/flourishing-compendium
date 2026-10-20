@@ -12,17 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 97** — Keep the question alive
 
-The verse the page points at does two things: it addresses a student directly, and it names the path that follows from such study as narrow and hard to walk. What the page adds is the observation that a question that has been closed can no longer be checked against anything. That is the compendium's reading, not the verse's.
+Katha Upanishad 1.3.14 is addressed to Nachiketas as an instruction to stand up, stay awake, approach teachers, and learn. The verse names the path hard to tread and difficult to cross. The verse is quoted in full; the page does not go beyond what the verse itself says.
 
-> "Arise! Awake! Approach the great and learn. Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross." (Katha Upanishad 1.3.14)
+> "Arise! Awake! Approach the great and learn. Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross." ([Katha Upanishad 1.3.14](https://shlokam.org/text/kathopanishad.htm))
 
-**Plain words** The verse is addressed to someone being told to stay awake and keep learning. What the page adds is a narrower observation: an answer that is never re-opened against anything new has stopped being an inquiry and has become an article of faith. The verse does not say never answer; it says the path is hard, which is a reason to keep looking, not a reason to stop looking.
+**Plain words** The instruction is to keep approaching and keep learning, and to expect the path to be narrow and hard. A suggested application is to treat an answer as something to keep testing against further learning rather than something to file away as finished.
 
-*For example:* (Imagined.) Someone reads a claim once, files it as settled, and never checks it against what actually happens. Another person reads the same claim and re-checks it whenever the thing it describes happens. The verse addresses both; only one of them is described as awake.
+*For example:* (Imagined application.) A student who has read a summary of a text goes back and reads the text itself, and keeps going back to it rather than treating the summary as final.
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty]]**, the clinical literature (Dugas et al., 1998; uncertainty-tolerance research)
 
 ## Philosophy parallels
 
-- **[[Docta ignorantia|Learned ignorance]]** (Nicholas of Cusa, De Docta Ignorantia; cross-tradition echo)
+- **[[Docta ignorantia|Learned ignorance]]** (Nicholas of Cusa, De Docta Ignorantia; cross-tradition echo)## Sources
+
+- [Katha Upanishad 1.3.14 (shlokam.org)](https://shlokam.org/text/kathopanishad.htm)
