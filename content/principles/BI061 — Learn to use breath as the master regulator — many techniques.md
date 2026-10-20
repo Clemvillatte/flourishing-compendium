@@ -19,7 +19,7 @@ One head-to-head trial compared techniques. In the Stanford remote randomized st
 > "Daily 5-min cyclic sighing has promise as an effective stress management exercise." (Balban et al. 2023, [Cell Reports Medicine](https://pubmed.ncbi.nlm.nih.gov/36630953/))
 
 **Plain words**
-Slow breathing raised heart rate variability and respiratory sinus arrhythmia across the studies the review pooled, and one month-long trial found the exhale-lengthened sigh a better mood and respiratory-rate tool than mindfulness at five minutes a day. That is the limit of the comparison: one trial, one month, mood and respiratory rate, not every technique against every situation. Learn one slow technique and practise it at the dose the trial tested.
+One month-long trial tested five minutes of cyclic sighing each day and reported improvements in mood and respiratory rate compared with mindfulness meditation. That finding concerns regular practice of the tested exercise; it does not establish immediate relief before a difficult conversation.
 
 *For example:* An imagined case: someone learns one technique, the exhale-lengthened sigh, and does it for five minutes a day, the dose the opened trial tested; other techniques wait until that one is habitual.
 
