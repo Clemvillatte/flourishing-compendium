@@ -1,0 +1,18 @@
+{
+ "batch": "p1zzc",
+ "revision": 3,
+ "reciprocal": [
+  {
+   "into": "Benign versus malicious envy",
+   "link": "SP016",
+   "why": "Spinoza's account of emulation and its association with envy",
+   "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in Ethics III, Definitions of the Affects XXXIII and its explanation (envy coupling at III.xxxii)."
+  },
+  {
+   "into": "Social comparison",
+   "link": "SP016",
+   "why": "Spinoza's definition of desire arising from imagining that others have the same desire",
+   "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in the opened Elwes Ethics definition."
+  }
+ ]
+}
