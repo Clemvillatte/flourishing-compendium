@@ -12,22 +12,36 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 77** — Understand choice as emergent, not commanded
 
-A choice is not a little king inside issuing orders; it is the emergence of one action from the interaction of many tendencies under constraint. Design the conditions; the choice emerges.
+Juarrero proposes that intentions guide action through context-sensitive constraints: they alter which responses are available and how likely those responses are. Her example is deciding to greet someone. In her account, waving or speaking becomes more likely, while turning away becomes less likely. Intention continues to organize the action as it unfolds ([author-edited summary, pp. 27, 44](https://www.columbia.edu/cu/tract/projects/complexity-theory/summary-of-dynamics-in.pdf)).
+
+> "But even as they regulate alternatives, context-dependent constraints simultaneously open up new possibilities." (Juarrero, author-edited summary of Dynamics in Action, 2000, p. 27.)
+
+### Conditions and intention
+
+This is a philosophical model of intentional action. It gives intentions a causal role; it does not make a person a passive product of the surroundings. The compendium draws a practical suggestion from it: when reconsidering an action, examine both the purpose and the conditions under which it is being attempted.
 
 (Juarrero, Dynamics in Action, 1999.)
 
-**Plain words** A choice is not a little king inside issuing orders — it's the emergence of one action from the interaction of many tendencies under constraint. Design the conditions; the choice emerges. Stop negotiating with the king; renovate the parliament.
+### Plain words
 
-*For example:* The pantry stocked with cookies and the midnight self who eats them — don't have the argument again. Change the pantry. The choice follows the conditions.
+Deciding to welcome someone leaves different ways to proceed: speak or wave. The purpose helps organize what you do next, without specifying every movement in advance. Ask what you are trying to do and which available actions would carry that intention through.
+
+### For example
+
+Imagine wanting to welcome a new colleague during a crowded meeting. You could make room beside you or introduce yourself during the break. This hypothetical applies Juarrero's greeting example without assuming that arranging the room guarantees a friendly response.
+
+## Sources
+
+- [Alicia Juarrero, Dynamics in Action: Intentional Behavior as a Complex System, Emergence 2(2), 2000, pp. 24-57](https://www.columbia.edu/cu/tract/projects/complexity-theory/summary-of-dynamics-in.pdf): author-edited summary of the 1999 book; constraints and intention, pp. 27, 44.
 
 ## Psychology parallels
 
-- **[[Choice architecture|Choice architecture]]**, context constraints shape choices (Thaler and Sunstein, 2008)
+- **[[Choice architecture|Choice architecture]]**: a comparison concerning the arrangement of options; not evidence establishing Juarrero's model.
 
 ## Philosophy parallels
 
 - **Dynamics in action** (Juarrero, Dynamics in Action)
-- **[[Emergence|Emergence]]** (Morgan, Emergent Evolution)
+- **[[Emergence|Emergence]]** (Morgan, Emergent Evolution): retained comparison; the account explained above is Juarrero's.
 
 <!-- fc: reflections
 Where are you currently treating choice as a little king issuing orders rather than as emergence from many tendencies? What's the emergence?
