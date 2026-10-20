@@ -29,7 +29,8 @@
   "AF037",
   "AF041",
   "AF052",
-  "AF053"
+  "AF053",
+  "AF057"
  ],
  "in_progress": null,
  "flagged": {
@@ -60,6 +61,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:49:01+00:00",
+ "updated": "2026-10-20T13:49:24+00:00",
  "band_done": false
 }
