@@ -342,15 +342,20 @@
    ]
   },
   "s1a-015": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "P042: children confront cotton-seed removal and reconstruct textile tools; guided inquiry without the false requirement to get hurt",
    "history": [
     {
      "t": "2026-10-20T14:28:17+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:30:25+00:00",
+     "to": "drafting",
+     "note": "Dewey complete textile-learning sequence drafted from primary university transcription"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:28:17+00:00"
+ "updated": "2026-10-20T14:30:25+00:00"
 }
