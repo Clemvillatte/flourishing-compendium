@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 11,
+ "revision": 12,
  "records": [
   {
    "action": "reciprocal",
@@ -169,6 +169,13 @@
    "link": "AF045",
    "why": "listed for comparison with the principle's duration-and-revisits framing",
    "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers rumination/impermanence material adjacent to the Verduyn & Lavrijsen 2015 text opened for AF045"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Interoceptive exposure (Barlow)",
+   "link": "AF049",
+   "why": "listed for comparison with the principle's sensation-plus-interpretation reading of panic",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers the exposure protocol adjacent to Clark 1986 opened for AF049"
   }
  ]
 }

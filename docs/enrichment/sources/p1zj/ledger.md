@@ -94,3 +94,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "No feeling lasts forever" and "natural temporal structure of affect" claims removed (not in the opened text); the ninety-seconds wave claim removed (Jill Bolte Taylor folklore, not opened); Practice rewritten as observation not fact-assertion. Inherited parallels reduced (Nolen-Hoeksema further reading; Verduyn line kept via the opened text).
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Rumination and Anicca (both pages read before proposing).
+
+## AF049 — Learn to work with panic: panic is fear of fear
+- Evidence: Clark 1986, Behaviour Research and Therapy 24(4) 461-470, abstract via Oxford Research Archive (ora.ox.ac.uk/objects/uuid:96416d34-2558-4cef-9622-401c7b11490a), fetched this session. Both quoted sentences verified verbatim (model statement; misinterpretation definition).
+- Scope: "fear of fear" and "interoceptive exposure protocol" framing replaced with the model's own account; "not dangerous" psychoeducation claim removed from Practice (not in the opened text; page now notes it is a model description, not treatment). Barlow et al. 2000 reduced to further reading.
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocal into Interoceptive exposure (Barlow) (page read before proposing).
