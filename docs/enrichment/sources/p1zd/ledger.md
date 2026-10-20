@@ -108,3 +108,13 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Sources opened: APA "What Are Bipolar Disorders?" (review April 2024) https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders ; NIMH "Bipolar Disorder" (reviewed December 2024) https://www.nimh.nih.gov/health/topics/bipolar-disorder
 - Verbatim: ordinary mood changes "typically last hours rather than days..."; manic episode at least one week; hypomania four days; treatment sentence; hospital-care and suicide-risk sentences.
 - Corrected: old body said "can be dangerous if untreated"; APA wording is about manic episodes requiring hospital care and higher suicide risk in bipolar I, quoted as such. Goodwin & Jamison 2007 not opened; bullets re-pointed to opened pages. Example imagined.
+
+## AT002 — Know that attention has three networks
+- Sources opened (abstracts via Europe PMC): Fan et al. 2002, J Cogn Neurosci 14:340-347 (PMID 11970796); Petersen & Posner 2012, Annu Rev Neurosci 35:73-89 (PMID 22524787); Rueda et al. 2004, Neuropsychologia 42:1029-1040 (PMID 15093142; supports parallels bullet 2: alertness changes beyond age 10, conflict stable after 7, orienting no change in 6-9).
+- Verbatim: Fan "defined in anatomical and functional terms"; the "40 normal adult subjects" sentence; "some interactions in which alerting and orienting can modulate the degree of interference from flankers"; Petersen & Posner "has supported the addition of new networks of brain regions".
+- Dropped old "can be separately trained and separately impaired" (training/impairment not in the abstracts opened). Posner & Petersen 1990 cited in locator from the page's own bullet; I did not open it. Example imagined.
+
+## AT015 — Learn to filter
+- Sources opened (abstracts via Europe PMC): Lavie 2005, TICS 9:75-82 (15668100); Forster & Lavie 2008, J Exp Psychol Appl 14:73-83 (18377168); Lavie 1995, JEP:HPP 21:451-468 (7790827).
+- Verbatim: "simply instructing people to ignore goal-irrelevant stimuli is not sufficient for preventing their processing"; Forster & Lavie "an entirely irrelevant distractor can interfere with task performance to the same extent as a response-competing distractor".
+- Corrected parallels bullet: it said higher cognitive load reduces filtering (Lavie 1995); the abstracts say high perceptual load eliminates distractor processing and high cognitive-control load increases it. Page states the lab-to-newsletters step is the compendium's extrapolation. Broadbent 1958 not opened.
