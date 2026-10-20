@@ -9,7 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Katastematic pleasure” — Epicurus, Key Doctrines.
 
-Katastematic pleasure is the pleasure of a settled state rather than of a process. In the Letter to Menoeceus, Epicurus defines the pleasure he takes as the goal in just this way:
+Katastematic pleasure, in Epicurus's ethics, is the pleasure of a settled state rather than of a process. The Stanford Encyclopedia's account of the ethics explains that happiness (eudaimonia), according to Epicurus, "is not simply a neutral or privative condition but rather a form of pleasure in its own right — what Epicurus called catastematic or (following Cicero’s Latin translation) ‘static’ as opposed to ‘kinetic’ pleasure" ([Epicurus, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epicurus/)):
+
+> Catastematic pleasure, on the contrary, is (or is taken in) a state rather than a process: it is the pleasure that accompanies well-being as such. ([Epicurus, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epicurus/))
+
+The complementary class, kinetic pleasures, "seem to be of the non-necessary kind", "such as those resulting from agreeable odors or sounds, rather than deriving from replenishment, as in the case of hunger or thirst", and the encyclopedia notes that "the precise nature of this distinction is debated". Epicurus's own definition in the Letter to Menoeceus gives the state-pleasure its body-and-soul form:
 
 > By pleasure we mean the absence of pain in the body and of trouble in the soul. (Epicurus, Letter to Menoeceus, [epicurus.net text](http://www.epicurus.net/en/menoeceus.html))
 
@@ -23,7 +27,8 @@ The letter is explicit that this is not indulgence. Pleasure as the end and aim 
 
 - Epicurus, Key Doctrines
 - Epicurus, Letter to Menoeceus
-- [Epicurus, Letter to Menoeceus (epicurus.net text, Vincent Cook translation)](http://www.epicurus.net/en/menoeceus.html) — definition sentence and surrounding passages quoted verbatim
+- [Epicurus, Stanford Encyclopedia of Philosophy (§4, Psychology and Ethics)](https://plato.stanford.edu/entries/epicurus/) — catastematic/kinetic distinction quoted verbatim (SEP uses the spelling "catastematic")
+- [Epicurus, Letter to Menoeceus (epicurus.net text)](http://www.epicurus.net/en/menoeceus.html) — definition sentence and surrounding passages quoted verbatim; translator not stated on the opened page
 
 [[A079 — Do not demonise pleasure]]
 [[D025 — Feed the belly, not the eye]]

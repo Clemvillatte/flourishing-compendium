@@ -37,10 +37,9 @@
   "Justice reasoning",
   "Katastematic pleasure",
   "Legacy motivation research",
-  "Leisure",
-  "Life affirmation"
+  "Leisure"
  ],
- "in_progress": null,
+ "in_progress": "Life affirmation",
  "flagged": {
   "Following nature's rhythms": "namespace: imperative-verb title, opened Legge DDJ 25 does not define the phrase; flagged Category A in concept-namespace-audit.md at item-5 advisor QC; body left as labelled interim material; supervisor disposition requested",
   "Cultural dimensions theory Hofstede": "title: garbled author-suffix title per the concept-verification queue; concept verified (Hofstede 6D model, geerthofstede.com URL added); rename to 'Cultural dimensions theory' is a metadata action routed to the supervisor",
@@ -53,11 +52,12 @@
   "Embodied emotion theory": "Reopened for QC: advisor first-item QC: unsupported claims (independence/priority, re-enactment mechanism, compendium descriptions); repairs applied",
   "Experiential avoidance research": "NAMESPACE-BLOCKED: 'Experiential avoidance research' and 'Experiential avoidance theory' are a suspected duplicate pair; supervisor disposition required before either is marked done. Revised prose and reproduced quotation supported (advisor scoped pass on evidence); item held out of done per advisor instruction.",
   "Ideal affect theory Tsai": "Reopened for QC: milestone advisor QC repairs: AA placement restored, temperament variance comparison, behavioral direction, naming history removed, blockquote normalization",
-  "Judging by where one rests": "NAMESPACE-PENDING: prose advisor-scoped-pass; Analects 2.10 passage verified but standalone-concept status unestablished; flagged in concept-namespace-audit.md Pending dispositions; supervisor disposition required before done."
+  "Judging by where one rests": "NAMESPACE-PENDING: prose advisor-scoped-pass; Analects 2.10 passage verified but standalone-concept status unestablished; flagged in concept-namespace-audit.md Pending dispositions; supervisor disposition required before done.",
+  "Life affirmation": "Reopened for QC: milestone QC: unsupported lineage claims removed; scholarly grounding added (Ridley); Wong sentences replaced per advisor"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-20T11:51:20+00:00",
+ "updated": "2026-10-20T11:55:02+00:00",
  "band_done": false,
  "new_concepts": [
   {
