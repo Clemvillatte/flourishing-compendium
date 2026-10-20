@@ -1,0 +1,13 @@
+{
+ "baton": "w1f",
+ "agent": "supervisor-36b57e93",
+ "clocked_in": "2026-10-20T04:21:29+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-36b57e93",
+   "at": "2026-10-20T04:21:29+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
