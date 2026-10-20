@@ -92,3 +92,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Scope: "most studied relaxation training in the meta-analysis" grounded in the paper's technique-use counts; seed's 5s/15s protocol timings replaced with the source's "a few seconds"; "most bodies have forgotten" and predicted shoulder-lowering outcome removed; arrows in Practice replaced.
 - Saturation: 1 reciprocal proposed (TIPP skills (DBT)); Autonomic nervous system mention not grounded in the opened sources, no proposal.
 - QC: not a milestone item (item 11 of 30); validator pass vs pre-item baseline 79f18af2.
+
+## BE051 — I statements
+- Sources opened: (1) Wikipedia, "I-message" (https://en.wikipedia.org/wiki/I-message) — definition quote verified against the fetched article text (curl; the fetch tool was rate-limited); (2) Carrère & Gottman (1999), Family Process 38(3): 293-301 — study description verified against the opened Gottman Institute summary page (the johngottman.net PDF's first page shows only the copyright cover; the study findings were quoted from the Institute's own description of the study).
+- Quotes used: Wikipedia I-message definition (verbatim incl. "It contrasted" as written); study findings "It was possible to predict marital outcome over a six-year period using just the first 3 minutes of data for both husbands and wives" and "Of the 17 couples who later divorced, all started off their conflict discussions with significantly greater displays of negative emotion and fewer expressions of positive emotion."
+- Scope: the "reduce defensiveness" claim is kept only as the Wikipedia/Gordon framing of purpose (assertive without putting the listener on the defensive, per the opened article text); parallels line 1 re-grounded in the Wikipedia definition; Gottman & Levenson 2000 / Markman et al. 1994 kept as references; [[Soft startup]] link added to parallels line 2 (concept verified to already link BE051).
+- Saturation: no concept mentions "I statement" beyond Soft startup (already linked); no new proposals.
+- QC: not a milestone item (item 12 of 30); validator pass vs pre-item baseline f3823aff.
