@@ -27,7 +27,7 @@ On direction, the authors read their time-lag analyses this way ([Killingsworth 
 
 > Although negative moods are known to cause mind wandering (13), time-lag analyses strongly suggested that mind wandering in our sample was generally the cause, and not merely the consequence, of unhappiness (12).
 
-Their closing lines:
+Their closing lines ([Killingsworth and Gilbert, 2010](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)):
 
 > In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.
 
@@ -45,7 +45,7 @@ Their most disarming result concerns tedium ([Mooneyham and Schooler, 2013](http
 
 > In short, mind-wandering appeared to partially insulate people against the mood costs of engaging in a particularly tedious task.
 
-Their summary guard:
+Their summary guard ([Mooneyham and Schooler, 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)):
 
 > ...mind-wandering does not typically provide affective relief, and indeed imposes significant costs to mood as well as performance.
 
@@ -55,7 +55,7 @@ Judson Brewer's group compared experienced meditators with matched controls acro
 
 > We found that the main nodes of the default-mode network (medial prefrontal and posterior cingulate cortices) were relatively deactivated in experienced meditators across all meditation types.
 
-The same scans showed stronger coupling in the meditators between control-related regions, and the authors read the differences as "consistent with decreased mind-wandering" ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)). The study reports differences between groups, not training effects: what practice does to the default is a question it frames rather than one it answers.
+The same scans showed stronger coupling in the meditators between control-related regions, and the authors read the differences as "consistent with decreased mind-wandering" ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)). The study reports differences between groups, not training effects: what practice does to the default is a question it frames rather than one it answers ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)).
 
 ### In the compendium
 
