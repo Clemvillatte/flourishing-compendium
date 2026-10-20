@@ -12,22 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 261** — Accept that Stoicism is a practice, not a destination
 
-Epictetus devoted a chapter to what improvement in philosophy actually is. His mock target is the student who shows off his reading: "Who then makes improvement? Is it he who has read many books of Chrysippus?" The chapter ends with its own answer:
+Epictetus devoted a chapter to what improvement in philosophy actually is. His mock target is the student whose proof of progress is how much Chrysippus he has read. The chapter ends with its own answer:
 
 > this is the man who truly makes progress, and this is the man who has not travelled in vain.
 
 (Epictetus, Discourses I.4 "Of Progress or Improvement", Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html))
 
-The progress Epictetus will certify sits in the exercises themselves: how desire and aversion are employed, whether the student turns to his own will to improve it by labor. The Encheiridion ranks the parts the same way: the first and most necessary part of philosophy is the use of its precepts, and most people do the contrary, spending their time further down the list and neglecting the first (Ench. 51, Long). The sage never appears on stage in any of this; what appears is the person practising.
+The distinction Epictetus draws is not that books are worthless, but that they are not sufficient evidence of progress. What he asks after is how a person handles desire, avoidance and judgment in daily activity, and whether the student is working on his own will. The Encheiridion ranks the parts the same way: the first and most necessary part of philosophy is the use of its precepts, and most people do the contrary, spending their time further down the list and neglecting the first (Ench. LI in this edition, ch. 52 in standard numbering; Long).
 
 **Plain words**
-The perfection the tradition points at is a measuring line, not a membership card. Nobody checks whether you have arrived, because the ideal sage is not a real person. The question Epictetus asks instead is directional: is the work being done on your own reactions? A book read counts for nothing here; a desire better handled counts.
+Take a response you are unhappy with, one that recurs. The question Epictetus would put is not how much philosophy you have read but what you are doing with that response. Books read are not sufficient evidence of progress; a desire better handled is the evidence he accepts.
 
 *For example:* Imagine a recovering perfectionist who replaces the question "am I good yet?" with "was I better than last month?", and finally has a question that can actually be answered.
 
 ## Sources
 
-- Epictetus, Discourses I.4 and Encheiridion 51 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html)
+- Epictetus, Discourses I.4 and Encheiridion LI (= 52 standard) (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html)
 
 ## Psychology parallels
 
