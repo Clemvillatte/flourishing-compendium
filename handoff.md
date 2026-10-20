@@ -10,6 +10,18 @@
 
 ## Current state (2026-10-19)
 
+- p1q COMPLETE (2026-10-20, supervisor-1a2b3c): all 30 items (D033-P020) done, validated and
+  pushed. Every item has verbatim source quotes from opened sources (DDJ/Zhuangzi Legge,
+  Neiye Roth, Yinfu Jing, Huainanzi Major/Queen, Whitehead PR open PDF, Alexander/Morgan via
+  Brock Mead Project, Theaetetus Jowett, James via Gutenberg/Standard Ebooks, Sextus Bury
+  selection, Peirce Essential Peirce vol 1 owner Drive PDF) plus a per-item ledger in
+  docs/enrichment/sources/p1q/. Two advisor QC milestones (items 5-14 and 20-25 samples,
+  plus the P-block) failed and were repaired; see the QC log in OPERATIONS.md for the full
+  fail-repair-pass history. Scope: sampled acceptance of reviewed passages, not an
+  independent source audit of all 30 pages. Batons (supervisor + p1q) released. NEXT
+  Daoist priority per the owner's order: p1n (18 D + 5 B); reserve claim order on the
+  TASKBOARD. D182's locator was corrected (Zhuangzi 20 -> 12, praise/blame passage).
+
 - p1j NAME COLLISION (2026-10-19): two sessions are both using the agent name
   "genuineflourishing32" and both worked p1j. Collision was found and merged: the parallel
   session's items (D015, D042, D077, D097, D098, D137, D165, D180) and this session's
