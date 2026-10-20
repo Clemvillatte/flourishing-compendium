@@ -77,15 +77,20 @@
    ]
   },
   "s1b-004": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "B084: MN20 complete five-simile sequence; change methods when unskillful thoughts persist; monastic context and moral vocabulary retained, not clinical treatment",
    "history": [
     {
      "t": "2026-10-20T14:34:39+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:36:02+00:00",
+     "to": "drafting",
+     "note": "Opened full MN20; complete five methods, images, outcomes and moral-evaluation limit; Meghiya duplicate excluded"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:34:39+00:00"
+ "updated": "2026-10-20T14:36:02+00:00"
 }
