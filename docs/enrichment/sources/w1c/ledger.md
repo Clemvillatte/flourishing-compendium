@@ -452,3 +452,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Masten, "Ordinary Magic: Resilience Processes in Development", American Psychologist 56(3), 2001, full-text PDF (ocfcpacourts.us mirror).
 - Ordinariness conclusion, everyday-magic passage, abstract conclusion and protect-the-systems implication all quoted verbatim from the opened PDF. Opening rewritten to Masten's positive-adaptation framing; the original page's contemplative-cousins line kept in the final sentence.
 - Wikipedia source line kept (original). Added Related: [[Equanimity]], [[Post-traumatic growth]] (both resolve). Validation: fast-track PASS; build 5,720 ok.
+
+### Self-concordant goals (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Sheldon and Elliot 1999, PubMed abstract (PMID 10101878) — the self-concordance model's dual-role definition, sustained-effort and well-being findings, and need-satisfaction mediation all quoted verbatim. Kashdan 2009 not opened; no claims routed through it.
+- Original seed line's "adopted goals do not [predict well-being]" overreach not carried into the rewrite (the abstract reports greater well-being benefits for attained self-concordant goals, not a null result for adopted goals).
+- All original sections and wikilinks preserved byte-exact. Added Related: [[Autonomous motivation]], [[Intrinsic motivation]], [[Eudaimonic well-being]] (all resolve). Validation: fast-track PASS; build 5,720 ok.

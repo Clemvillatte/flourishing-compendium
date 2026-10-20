@@ -7,16 +7,30 @@ file: "Self-concordant goals"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-the finding that goals aligned with the self's deeper values predict well-being while adopted goals do not (Sheldon and Elliot, 1999).
+A goal is self-concordant when it is consistent with the person's developing interests and core values. Sheldon and Elliot's self-concordance model gives the construct a dual role:
+
+> The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them.
+>
+> (Sheldon and Elliot, "Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model", Journal of Personality and Social Psychology 76(3), 1999, [PubMed](https://pubmed.ncbi.nlm.nih.gov/10101878/))
+
+Second, "those who attain self-concordant goals reap greater well-being benefits from their attainment," and the attainment-to-well-being effects "are mediated by need satisfaction, i.e., daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving." The model fit three longitudinal data sets and was independent of the effects of self-efficacy, implementation intentions, avoidance framing, and life skills (Sheldon and Elliot 1999).
 
 ## Facets
 
 - **exploration**
 
+## Related concepts
+
+- [[Autonomous motivation]] — the kind of motivation self-concordant goals express
+- [[Intrinsic motivation]] — the inherent-interest ground of self-concordance
+- [[Eudaimonic well-being]] — the outcome the model predicts
+
 ## Sources
 
 - Sheldon and Elliot, 1999
 - Kashdan, 2009
+
+- [Sheldon and Elliot, "Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model", JPSP 76(3), 1999 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/10101878/) — the dual-role definition, the sustained-effort and well-being findings, and the need-satisfaction mediation
 
 ## Cited in psychology parallels
 
