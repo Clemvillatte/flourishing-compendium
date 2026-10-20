@@ -34,8 +34,8 @@ Suppose someone with depression asks their clinician whether a structured exerci
 
 ## Sources
 
-- [Schuch et al., "Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies", Am J Psychiatry 175(7), 631-648 (2018), accepted author manuscript]( https://kclpure.kcl.ac.uk/ws/files/94279645/Physical_activity_and_incident_SCHUCH_Publishedonline25April2018_GREEN_AAM.pdf ) — 49 cohorts, n = 266,939; adjusted OR 0.83 (95% CI 0.79-0.88). Quotes read from the downloaded PDF. DOI [10.1176/appi.ajp.2018.17111194](https://doi.org/10.1176/appi.ajp.2018.17111194)
-- [Blumenthal et al., "Exercise and Pharmacotherapy in the Treatment of Major Depressive Disorder", Psychosomatic Medicine 69(7), 587-596 (2007), full text via PMC]( https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/ ) — SMILE randomized trial, 202 adults, 16 weeks; remission rates and efficacy comparison. Quotes verified by fetch_url. DOI [10.1097/PSY.0b013e318148c19a](https://doi.org/10.1097/PSY.0b013e318148c19a)
+- [Schuch et al., "Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies", Am J Psychiatry 175(7), 631-648 (2018), accepted author manuscript](https://kclpure.kcl.ac.uk/ws/files/94279645/Physical_activity_and_incident_SCHUCH_Publishedonline25April2018_GREEN_AAM.pdf) — 49 cohorts, n = 266,939; adjusted OR 0.83 (95% CI 0.79-0.88). Quotes read from the downloaded PDF. DOI [10.1176/appi.ajp.2018.17111194](https://doi.org/10.1176/appi.ajp.2018.17111194)
+- [Blumenthal et al., "Exercise and Pharmacotherapy in the Treatment of Major Depressive Disorder", Psychosomatic Medicine 69(7), 587-596 (2007), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/ ) — SMILE randomized trial, 202 adults, 16 weeks; remission rates and efficacy comparison. Quotes verified by fetch_url. DOI [10.1097/PSY.0b013e318148c19a](https://doi.org/10.1097/PSY.0b013e318148c19a)
 
 ## Psychology parallels
 
