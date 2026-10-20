@@ -310,3 +310,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all matched fetched text.
 - Seed repairs: Gita 6.13-14 teaches a still posture, not moving practice; the walk-as-meditation support moved to MN 10. "Because the tradition does" removed; ten-minute walk and the not-the-nose reading labelled as the page's own. Mindful-movement trials and Thich Nhat Hanh not opened. Title/principle may fit a Buddhist band better.
 - Saturation: low.
+
+## Y050 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.36 with Vyasa and the Tika (pp. 74-75); BG 6.19 (Mukundananda).
+- Quotes verified: matched woods text (OCR hyphenation only) and the BG page.
+- Seed repairs: Vyasa's practice is a heart-lotus meditation, not a generic light image; BG 6.19 lamp is a simile for steadiness, not an instruction; "imagery is a genuine attentional channel" and the ten-minute exercise labelled as the page's own. Holmes & Mathews and Plotinus not opened.
+- Saturation: low.

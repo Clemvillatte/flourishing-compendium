@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 50** — Cultivate an inner luminous anchor
 
-The tradition offers as steadying support the experience of inner light, a sorrowless luminosity; the bounded formulation is imagery-based: a point of light or bright stillness imagined within, held as an object of attention. Imagery is a genuine attentional channel, and the tradition exploits it deliberately. Practically, when external objects feel stale, hold a simple image of light and rest attention there.
+Sutra 1.36 lists a supporting object for the mind that is not an outer thing:
 
-(YS 1.36; BG 6.19's lamp in a windless place as image-family.)
+> Or an undistressed [and] luminous [sense-activity when arisen brings the central-organ into a relation of stability].
 
-**Plain words** The tradition offers the experience of inner light — a sorrowless luminosity — as a steadying support. The bounded formulation: imagery-based, a point of light or bright stillness imagined within, held as an object of attention. Imagery is a genuine attentional channel.
+(Yoga Sutras 1.36, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, pp. 74-75, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* Someone who can't visualize anything elaborate — can hold one simple image: a small steady light behind the closed eyes. Ten minutes with that image does more for their day than ten minutes of trying to think about virtue.
+The commentary places this light in the body. It speaks of fixing the mind on "the Lotus of the Heart", and says that "the sattva of the thinking-substance becomes resplendent", and "because resplendent as the sun or the moon or planets or gems, becomes transformed in appearance." The mind then comes to a state of balance and becomes "waveless like the Great Sea". Without distress, the Tika adds, "means freed from pain."
+
+A later image from the Gita fits the steadiness described. Verse 6.19 says, "Just as a lamp in a windless place does not flicker, so the disciplined mind of a yogi remains steady in meditation on the Supreme" (trans. Swami Mukundananda, [BG 6.19](https://www.holy-bhagavad-gita.org/chapter/6/verse/19/)). The lamp there is a simile for a steady mind. It does not tell you to picture a lamp.
+
+The commentary's practice is a specific heart-lotus meditation with some physical detail, not a simple point of light. Reading it as a general imagery technique, the "bright stillness" and the claim that imagery is "a genuine attentional channel" are the page's own. The ten-minute exercise is also this page's own.
+
+**Plain words**
+
+The sutra offers a light-filled, painless state as one support for the mind. The commentary pictures it in the chest. A plain version is to rest attention on a small steady light and see whether it helps.
+
+**For example**
+
+A man whose mind jumps around in silence pictures a small steady light in his chest. After a few minutes the jumping slows, and he writes down the number of minutes he stayed with it.
+
 ## Psychology parallels
 
 - **Imagery and mental rehearsal**, the attentional and emotional effects of guided imagery (Holmes & Mathews, 2010)
@@ -26,3 +39,9 @@ The tradition offers as steadying support the experience of inner light, a sorro
 ## Philosophy parallels
 
 - **[[The inner light|The inner light]]** (Plotinus, Enneads; cross-volume echo)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutra 1.36 with Vyasa and the Tika, pp. 74-75, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
+- [Bhagavad Gita 6.19 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/19/)
+- The inherited Holmes & Mathews (2010) and Plotinus parallels were not opened and no claim here rests on them.
