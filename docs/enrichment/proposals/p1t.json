@@ -2,9 +2,15 @@
  "reciprocal": [
   {
    "into": "Rumination",
-   "link": "D119 — Keep to the center — excess words exhaust",
+   "link": "D119 \u2014 Keep to the center \u2014 excess words exhaust",
    "why": "D119's psychology parallels list rumination research (worry as verbal-linguistic activity, Borkovec et al., 1983) alongside the chapter's counsel on spending speech; the two pages approach the same worry-in-words pattern from opposite directions",
-   "_audit_why": "D119 links [[Rumination|Rumination research]] in its psychology parallels; the Rumination concept's cited-in list (D037, D181, B070) lacks D119 — reciprocal edge missing. Verified by reading content/concepts/Rumination.md this session."
+   "_audit_why": "D119 links [[Rumination|Rumination research]] in its psychology parallels; the Rumination concept's cited-in list (D037, D181, B070) lacks D119 \u2014 reciprocal edge missing. Verified by reading content/concepts/Rumination.md this session."
+  },
+  {
+   "into": "Yangsheng (cultivating vitality)",
+   "link": "D145 \u2014 Conserve your essence (jing)",
+   "why": "D145's locator line names the yangsheng literature as its home tradition, and the principle is a core yangsheng conservation teaching drawn from the Neiye",
+   "_audit_why": "D145 links [[Yangsheng (cultivating vitality)|yangsheng]]; the concept's cited-in list lacks D145 \u2014 reciprocal edge missing. Verified by reading content/concepts/Yangsheng (cultivating vitality).md this session."
   }
  ],
  "inline": [],

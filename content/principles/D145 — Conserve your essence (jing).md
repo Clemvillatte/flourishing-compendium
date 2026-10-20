@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 145** — Conserve your essence (jing)
 
-Vital essence is a finite inheritance: don't hemorrhage it through chronic overwork, overstimulation, and excess. Bank your deepest energy.
+The Neiye (Inward Training), an early Chinese text on inner cultivation, treats vital essence (jing) as a refined form of vital energy. Verse VIII defines it: "The vital essence: it is the essence of the vital energy," generated when vital energy is guided, and it warns that when the mind's activity runs past what it can hold, "You lose your vitality." Verse XV gives the conservation picture: essence preserved and naturally generated is stored inside as a wellspring, and while the fount is not dried up and the wellspring not drained, vital energy circulates freely through the body's apertures.
 
 (Neiye; [[Yangsheng (cultivating vitality)|yangsheng]] literature.)
 
-**Plain words** Vital essence is a finite inheritance — don't hemorrhage it through chronic overwork, overstimulation, and excess. Bank your deepest energy. The young spend it like it's infinite because it hasn't run out yet; the recovered know exactly what it costs.
+> "For those who preserve and naturally generate vital essence / On the outside a calmness will flourish. / Stored inside, we take it to be the well spring. / Floodlike, it harmonizes and equalizes / And we take it to be the fount of the vital energy. / When the fount is not dried up, / The four limbs are firm. / When the well spring is not drained, / Vital energy freely circulates through the nine apertures." (Neiye, verse XV, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
 
-*For example:* The grad-school years of all-nighters feel free until the year after — the invoice always arrives, just later.
+The compendium's practice reading: the verse does not describe a stockpile to be guarded by doing less. Essence is generated (guided vital energy) and drained (a mind driven past its capacity), and conservation is the two sides of that: steadiness, and stopping before the excessive-knowledge condition verse VIII names.
+
+**Plain words**
+The text's picture is a wellspring that fills when the mind is steady and drains when it is driven. Conserving essence is not lying low. It is noticing which of your activities lower the wellspring and which refill it. The compendium's exercise: for one week, each evening note what the day contained, and each morning note how full you feel.
+
+*For example:* Imagine ending the day with an hour of unhurried eating, walking or reading instead of one more task. The text's term for what that protects is the wellspring.
+
+## Sources
+
+- [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verses VIII, XV
 
 ## Psychology parallels
 
-- **[[Allostatic load|Allostatic load]]**, chronic activation without recovery produces cumulative physiological wear (McEwen, 1998)
+- **[[Allostatic load|Allostatic load]]** (McEwen, 1998)
 
 ## Philosophy parallels
 
