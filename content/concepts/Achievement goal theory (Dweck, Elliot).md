@@ -30,14 +30,14 @@ In the college-classroom study, the authors reported favorable results for maste
 
 ### In the compendium
 
-- [[MO020 — Recognise mastery vs performance goals — learning vs proving]] — the theory's direct practical use: performance goals make every error a verdict, mastery goals make errors information
-- [[MO019 — Learn to set approach goals, not avoidance goals]] — applies Elliot's approach/avoidance split as a rule for rephrasing what you pursue
-- [[P116 — Pursue becoming, not arrival]] — Maslow's growth motivation as a humanistic cousin of the learning orientation
-- [[P176 — Prefer growth goals to validation goals]] — this page compares Maslow's deficiency versus growth motivation with the learning and performance distinction
-- [[SP039 — Begin by questioning what you are pursuing]] — Spinoza's examination of ends as the philosophical form of the goal-choice question
-- [[K268 — Preferred-indifferent hierarchy]] — the Stoic ranking of pursuits compared with research on intrinsic versus extrinsic goals
-- [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — reads goal maintenance through Dhammapada 276 and goal-adjustment research
-- [[PP015 — Cultivate hope as a process]] — Snyder's hope theory as a goal-directed process account
+- [[MO020 — Recognise mastery vs performance goals — learning vs proving]] — applies the learning/performance distinction to achievement goals
+- [[MO019 — Learn to set approach goals, not avoidance goals]] — uses the approach/avoidance distinction to discuss goal setting
+- [[P116 — Pursue becoming, not arrival]]
+- [[P176 — Prefer growth goals to validation goals]]
+- [[SP039 — Begin by questioning what you are pursuing]]
+- [[K268 — Preferred-indifferent hierarchy]]
+- [[MO075 — Build motivational maintenance — ongoing practice and adaptation]]
+- [[PP015 — Cultivate hope as a process]]
 
 ## Related concepts
 
