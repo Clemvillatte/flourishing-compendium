@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 111** — Keep your intentions transparent
 
-The man who fed seagulls by the seaside lost them the moment he meant to catch one: hidden agendas leak and break connection. Be the same in aim and in act.
+Book II of the Liezi describes a sailor who swam among sea-gulls every morning. His father asked him to catch one or two as pets. When the sailor returned the following day, the birds stayed overhead. (Liezi 2.)
 
-(Liezi.)
+> "On the following day, the sailor went down to the sea as usual, but lo! the gulls only wheeled about in the air and would not alight." (Liezi 2, [Giles](https://sacred-texts.com/tao/tt/tt05.htm))
 
-**Plain words** People feel the trap even when it's invisible to you — hidden agendas leak and break connection. Be the same in aim and in act.
+The father's request introduces a wish to capture the birds into an encounter the sailor had enjoyed. The compendium reads this change as a prompt to examine our purposes in approaching others, especially when we want something they have not been told about.
 
-*For example:* The friend who only calls when they need a favor trains everyone's voicemail reflex; the one who calls to talk gets answers.
+**Plain words**
+If you want someone's help, give them enough information to decide whether to offer it. Ask plainly and leave them room to decline. Before arranging a meeting, consider which parts of your purpose would matter to the other person's decision to take part.
+
+*For example:* Imagine inviting a friend to dinner because you want to ask for a loan. Before arranging the meal, explain that you would like to discuss borrowing money and ask whether they are willing.
+
+## Sources
+
+- [Taoist Teachings from the Book of Lieh Tzu, Lionel Giles translation, Book II, Internet Sacred Texts Archive](https://sacred-texts.com/tao/tt/tt05.htm) — the seagull passage
 
 ## Psychology parallels
 
