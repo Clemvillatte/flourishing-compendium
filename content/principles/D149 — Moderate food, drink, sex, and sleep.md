@@ -21,7 +21,7 @@ The Huainanzi, a second-century BCE Daoist compendium, gives the moderation inst
 The principle's list of four, food, drink, sex and sleep, is the compendium's own framing; the quoted passage names sleep and food and drink, and adds happiness and anger and movement and stillness rather than sex. In each case the instruction has the same shape: a measure appropriate to the thing.
 
 **Plain words**
-Notice what the passage does not say: nothing is forbidden. Sleep, food, drink, anger and activity each appear with a measure attached: moderate, appropriate, harmonize, suitable. The exercise is to take one of them, name its current measure, hours, portions or timing, and compare that with what you would yourself call appropriate.
+The quoted instructions use moderation and suitability rather than listing prohibitions. Sleep, food, drink, anger and activity each appear with a measure attached: moderate, appropriate, harmonize, suitable. The exercise is to take one of them, name its current measure, hours, portions or timing, and compare that with what you would yourself call appropriate.
 
 *For example:* Imagine your usual week of dinners. Write down what being appropriate in food and drink would mean in portions and hours, then compare it with the last three dinners you actually had. The comparison is the exercise.
 

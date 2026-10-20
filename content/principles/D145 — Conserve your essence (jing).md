@@ -18,12 +18,12 @@ The Neiye (Inward Training), an early Chinese text on inner cultivation, treats 
 
 > "For those who preserve and naturally generate vital essence / On the outside a calmness will flourish. / Stored inside, we take it to be the well spring. / Floodlike, it harmonizes and equalizes / And we take it to be the fount of the vital energy. / When the fount is not dried up, / The four limbs are firm. / When the well spring is not drained, / Vital energy freely circulates through the nine apertures." (Neiye, verse XV, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt))
 
-The compendium's practice reading: the verse does not describe a stockpile to be guarded by doing less. Essence is generated (guided vital energy) and drained (a mind driven past its capacity), and conservation is the two sides of that: steadiness, and stopping before the excessive-knowledge condition verse VIII names.
+The compendium's practice reading joins the two verses: essence is generated when vital energy is guided (verse VIII) and preserved as a wellspring (verse XV), and verse VIII names the draining condition as excessive knowledge. Conservation, on this reading, is the two sides: steadiness, and stopping before the condition verse VIII names.
 
 **Plain words**
-The text's picture is a wellspring that fills when the mind is steady and drains when it is driven. Conserving essence is not lying low. It is noticing which of your activities lower the wellspring and which refill it. The compendium's exercise: for one week, each evening note what the day contained, and each morning note how full you feel.
+Read as one picture, the two verses give a wellspring that fills under the conditions verse VIII names for generation and drains under the condition it names for loss. The compendium's exercise: for one week, each evening note what the day contained, and each morning note how full you feel.
 
-*For example:* Imagine ending the day with an hour of unhurried eating, walking or reading instead of one more task. The text's term for what that protects is the wellspring.
+*For example:* Imagine ending the day with an hour of unhurried eating, walking or reading instead of one more task. The compendium's term for what that protects is the wellspring.
 
 ## Sources
 

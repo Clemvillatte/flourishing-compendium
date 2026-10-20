@@ -23,7 +23,7 @@ The chapter's ordinances are addressed to a court, not a household. The compendi
 **Plain words**
 The chapter's premise is that each stretch of the year has its own tasks, and running another season's program during it has costs the text spells out. The personal version: notice what the season around you is doing, hours of daylight, temperature, the pace of your field or household, and ask which of your routines belongs to a different season. The exercise is naming one routine and the season it actually fits.
 
-*For example:* Imagine keeping a winter training plan through midsummer: same hours, same load. The chapter's question is whether the plan's ordinances belong to the month you are in.
+*For example:* Imagine keeping a winter training plan through midsummer: same hours, same load. The compendium's question is whether the plan's ordinances belong to the month you are in.
 
 ## Sources
 
@@ -37,7 +37,6 @@ The chapter's premise is that each stretch of the year has its own tasks, and ru
 ## Philosophy parallels
 
 
-- None included; the principle is practice-specific (cosmological practice).
 - **[[Ziran (naturalness)|Ziran — naturalness]]** (Daoism, Daodejing 25)
 
 

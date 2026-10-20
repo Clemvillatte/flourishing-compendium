@@ -15,8 +15,8 @@
   {
    "into": "Ziran (naturalness)",
    "link": "D151 \u2014 Follow the seasons",
-   "why": "D151's philosophy parallels link ziran as the seasonal-rules chapter's underlying idea: each stretch of the year has its own appropriate tasks, and what is of itself does not need forcing",
-   "_audit_why": "D151 links [[Ziran (naturalness)|Ziran \u2014 naturalness]] in its philosophy parallels; the concept's cited-in list lacks D151 \u2014 reciprocal edge missing. Verified by reading content/concepts/Ziran (naturalness).md this session."
+   "why": "D151's philosophy parallels list links Ziran; the Ziran concept page's citation lists do not include D151 \u2014 the reciprocal edge is missing",
+   "_audit_why": "Verified by reading content/concepts/Ziran (naturalness).md in full this session: no mention of D151 anywhere on the page, while D151's philosophy parallels include [[Ziran (naturalness)|Ziran \u2014 naturalness]]."
   }
  ],
  "inline": [],

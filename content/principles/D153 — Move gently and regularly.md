@@ -12,18 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 153** — Move gently and regularly
 
-The gentle half of this principle comes from the Daodejing. Chapter 76 reads a rule off the life cycle: man at his birth is supple and weak, at his death firm and strong; trees and plants in their early growth are soft and brittle, at their death dry and withered. The chapter concludes that softness and weakness are the concomitants of life, and that he who relies on the strength of his forces does not conquer. The regular half comes from the Neiye's practice instruction, to be firm and regular in the practice and hold fast to it. The yangsheng tradition's movement practice, daoyin (the Mawangdui Daoyin tu, dated 168 BC, shows forty-four figures in stretching and breathing postures), belongs to this second half.
+The gentle half of this principle comes from the Daodejing. Chapter 76 reads a rule off the life cycle: man at his birth is supple and weak, at his death firm and strong; trees and plants in their early growth are soft and brittle, at their death dry and withered. The chapter concludes that softness and weakness are the concomitants of life, and that he who relies on the strength of his forces does not conquer. The regular half comes from the Neiye's practice instruction, to be firm and regular in the practice and hold fast to it. The yangsheng tradition also has a movement practice, daoyin; the Mawangdui Daoyin tu, dated 168 BC, shows forty-four figures in stretching and breathing postures.
 
-([[Yangsheng (cultivating vitality)|Yangsheng]] literature; DDJ 76; Neiye 17.)
+([[Yangsheng (cultivating vitality)|Yangsheng]] literature.)
 
 > "Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life." (DDJ 76, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The compendium joins the two halves: the Daodejing supplies the texture of the movement, soft rather than forced; the Neiye supplies its schedule, regular rather than heroic.
+The compendium joins the two sources: the Daodejing supplies the texture of the movement, soft rather than forced; the Neiye supplies its schedule, regular rather than heroic.
 
 **Plain words**
-Two sources, two halves. In the Daodejing's image, what is alive is soft, new plants and newborns, and what is hard is on the way to dead. In the Neiye's instruction, the practice is to be regular, something you hold fast to. Put together, a movement practice is soft in texture and unremarkable in schedule. Ask of your current exercise which half it fails: too hard, or too rare.
+A movement practice has two things to get right. Its texture: the Daodejing's living things are soft, and the hard and strong are on the way to dead, so the movement is not forced. Its schedule: the Neiye's instruction is to be regular and hold fast to the practice, so the movement is frequent enough to keep. Ask of your current exercise which of the two it fails: too hard, or too rare.
 
-*For example:* Imagine a choice between a daily ten-minute walk and a monthly three-hour session. The principle's two sources object to the monthly one on different grounds: it is hard, and it is rare.
+*For example:* The compendium's experiment: pick the softest regular movement you would actually keep, a short daily walk, say, and try it for two weeks against your current routine.
 
 ## Sources
 
@@ -34,7 +34,7 @@ Two sources, two halves. In the Daodejing's image, what is alive is soft, new pl
 ## Psychology parallels
 
 - **Exercise as an antidepressant** (Schuch et al., 2016)
-- **[[Movement snacks|Movement snacks]]**, research on brief daily activity bursts
+- **[[Movement snacks|Movement snacks]]**
 
 ## Philosophy parallels
 
