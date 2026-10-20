@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Right speech (Pali sammā vācā) is the speech factor of the Buddhist Noble Eightfold Path. The canonical definition is a set of four abstentions: no lying, no divisive speech, no abusive speech, no idle chatter. The Abhaya Sutta adds the timing test that turns the abstentions into a positive discipline: words are assessed for whether they are factual, beneficial and endearing, and even true, beneficial words that the listener will dislike are to be said at the proper time, out of sympathy for living beings.
 
-The path groups this factor with right action and right livelihood in the virtue grouping, and the compendium's Right livelihood page calls itself the neighboring factor. The concept's modern relatives sit on the Nonviolent communication and Speech gate pages; its contemplative cousins are the Gita's beneficial speech and the Sufi three gates of speech.
+The compendium's Right livelihood page states the grouping: the path places right speech with right action and right livelihood in the moral-virtue division. The concept's modern relatives sit on the Nonviolent communication and Speech gate pages; its contemplative cousins are the Gita's beneficial speech and the Sufi three gates of speech.
 
 ### The four abstentions
 
@@ -51,7 +51,7 @@ The stated reason runs through all six cases: “Because the Tathagata has sympa
 
 - [[Right livelihood]] — the neighboring factor in the virtue grouping
 - [[Eightfold Path]] — the training this factor belongs to
-- [[Nonviolent communication]] — the modern communication framework with the same abstentions
+- [[Nonviolent communication]] — the modern speech discipline whose mechanism is the observation without evaluation
 - [[Speech gate]] — the checking habit before speaking
 - [[Metta (loving-kindness)]] — the affective basis of right speech, as the compendium's metta page puts it
 - [[Beneficial speech]] — the Gita's BG 17.15 cousin

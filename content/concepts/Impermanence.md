@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Impermanence” — Buddhism, Three Marks of Existence; Buddhist tradition; Laozi, Daodejing 16.
 
-Impermanence is the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations. This page is the cross-tradition hub for that fact. The Buddhist member is anicca, one of the Three Marks of Existence, which the compendium treats on the Anicca page; the Greek member is Heraclitus' panta rhei; the Daoist member is the fu, the return Laozi watches in chapter 16 of the Daodejing; the Stoic member is the meditation on transience. The psychological relatives are hedonic adaptation and affective chronometry: even pleasure and mood have their natural arcs.
+Impermanence is the fact that everything that arises will pass: moods, plans, bodies, relationships, reputations. This page is the cross-tradition hub for that fact. The compendium's Anicca page names the family and its members: Heraclitus' panta rhei, the Daoist fu that Laozi watches in chapter 16 of the Daodejing, and anicca itself, which that page treats as the Buddhist member of the family.
 
 ### The Buddhist mark
 
@@ -17,7 +17,7 @@ The Dhammapada states the mark in its most compressed form, verse 277 in the Tha
 
 > “When you see with discernment, ‘All fabrications are inconstant’ — you grow disenchanted with stress. This is the path to purity.” (Dhammapada 277, [Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html))
 
-The formula the sutras assign to this seeing is recollection. The Five Remembrances list aging, illness, death, separation and ownership of action as facts to reflect on often, whatever one's station:
+One of the practice formulas the sutras give for this seeing is recollection. The Five Remembrances list aging, illness, death, separation and ownership of action as facts to reflect on often, whether one is a woman or a man, lay or ordained:
 
 > “‘I am subject to aging, have not gone beyond aging.’ This is the first fact that one should reflect on often, whether one is a woman or a man, lay or ordained.” (AN 5.57, [Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html))
 
@@ -48,7 +48,7 @@ Where the Buddhist mark stresses passing, the Daoist chapter stresses the return
 - [[Anatta]] — the not-self mark the same Three Marks group carries
 - [[Fu (return)]] — the Daoist member: renewal in cycles
 - [[Dukkha]] — why impermanence, grasped, is unsatisfactory
-- [[Hedonic adaptation]] — the psychological member: even pleasure adapts
+- [[Hedonic adaptation]] — the finding that adaptation runs even on changed circumstances
 - [[Death reflection]] and [[Memento mori]] — the recollection practices on the same fact
 - [[The seasons of life]] — cyclical change across a life
 - [[Acceptance]] — the response the fact asks for

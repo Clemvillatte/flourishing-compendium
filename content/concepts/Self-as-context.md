@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Self-as-context” — Hayes et al., 2011; Hayes, A Liberated Mind.
 
-Self-as-context is Acceptance and Commitment Therapy's term for the perspective from which experience is noticed: the observing position rather than the contents noticed. The ACT model of psychological flexibility lists it among six trained processes, alongside acceptance, defusion, contact with the present moment, values and committed action. The review that presents the model links the capacity to relational frame theory: a sense of locus derives from learning deictic relational frames such as I-you, here-there and now-then, frames central to taking the perspective of others, empathy and communication. The compendium's bridge is to the Buddhist teaching of anatta: no fixed self is to be found among the contents of mind.
+Self-as-context is Acceptance and Commitment Therapy's term for the perspective from which experience is noticed: the observing position rather than the contents noticed. In the model's own summary the six processes are acceptance, defusion, the now, self, values and committed action ([Hayes et al. 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)). The model's stated goal is psychological flexibility, which the review defines as "being able to contact the moment as a conscious human being more fully as it is, not as what it says it is, and based on what the situation affords, persisting or changing in behavior in the service of chosen values" (Hayes et al. 2011, [Behav Ther 44(2):180-198](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/), section "Psychological Inflexibility"). The review's account of how the perspective develops is theoretical: RFT researchers, it reports, have found that a sense of locus derives from learning deictic relational frames such as I-you, here-there and now-then, frames central to taking the perspective of others, empathy and communication ([Hayes et al. 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)).
 
 ### The ACT definition
 
@@ -19,7 +19,7 @@ Hayes and colleagues' 2011 progress review, defining the process:
 
 The clinical rationale the review gives:
 
-> “self-as-context interventions help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat.” (same review)
+> “self-as-context interventions help clients see inner experiences as distinct from consciousness as such, and thus not necessarily a threat.” (Hayes et al. 2011, [Behav Ther 44(2):180-198](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/), section “Attachment to a Conceptualized Self”, following paragraph)
 
 ### In the compendium
 
@@ -33,16 +33,16 @@ Cross-tradition bridge: [[Anatta]] is the Buddhist account of the same insight �
 
 ## Related concepts
 
-- [[Anatta]] — the Buddhist account of the same insight
+- [[Anatta]] — the Buddhist teaching the compendium's bridge line pairs with this concept
 - [[The observing self]] — Deikman's version of the noticing position
 - [[Cognitive defusion]] — the sibling ACT process for stepping back from thoughts
 - [[Acceptance]] — the sibling process on the openness side
-- [[Authenticity]] — the contrast case: being true to a self-story
-- [[The examined life]] — the philosophical practice of examining the examiner
+- [[Authenticity]] — rival accounts of the self, in that page's own framing
+- [[The examined life]] — the Delphic self-knowledge that page names at this concept's root
 
 ## Sources
 
-- Hayes et al., 2011 — [Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello, Acceptance and Commitment Therapy and Contextual Behavioral Science, Behav Ther 44(2):180-198 (PMC author manuscript)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/) — the definition and clinical rationale quoted above. (The seed's citation names the 2011 Guilford book by the same first author; the opened source is the same-year journal review — see the w1a ledger.)
+- Hayes et al., 2011 — [Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello, Acceptance and Commitment Therapy and Contextual Behavioral Science, Behav Ther 44(2):180-198, doi 10.1016/j.beth.2009.08.002, author manuscript PMC3635495 (PMID 23611068)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/) — the definition and clinical rationale quoted above, verified against the full text
 - Hayes, A Liberated Mind
 
 ## Cited in psychology parallels

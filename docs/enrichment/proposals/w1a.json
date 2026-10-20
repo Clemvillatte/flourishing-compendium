@@ -15,18 +15,11 @@
       "_audit_why": "Y047 file read via rg; single occurrence of the phrase verified; no existing [[Parasympathetic activation]] link in the file"
     },
     {
-      "into": "B021",
-      "concept": "Impermanence",
-      "phrase": "conditionality, impermanence, and the ordinary costs of craving",
-      "why": "B021's body (line 15) uses the phrase in plain text while orienting right view around seeing conditionality and impermanence; the Impermanence page is the cross-tradition hub for exactly this fact, and B021 currently has no [[Impermanence]] wikilink (rg-verified, 2 plain-text mentions, 0 links).",
-      "_audit_why": "B021 file read via rg with line numbers; phrase verbatim at line 15; no existing Impermanence link"
-    },
-    {
       "into": "B043",
       "concept": "Impermanence",
-      "phrase": "its impermanence, its unsatisfactoriness, its ownerlessness",
+      "phrase": "its impermanence",
       "why": "B043 (vipassana) line 15 instructs looking into 'the nature of experience: its impermanence, its unsatisfactoriness, its ownerlessness' in plain text; the Impermanence page is the hub concept for the first of the three, and B043 currently has no [[Impermanence]] wikilink (rg-verified).",
-      "_audit_why": "B043 file read via rg with line numbers; phrase verbatim at line 15; no existing Impermanence link"
+      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
     },
     {
       "into": "B123",
@@ -36,25 +29,18 @@
       "_audit_why": "B123 file read via rg with line numbers; phrase verbatim at line 42; no existing Impermanence link"
     },
     {
-      "into": "AT054",
-      "concept": "Deliberate practice",
-      "phrase": "Regular meditation, deliberate practice, and attention-friendly environments all improve it",
-      "why": "AT054's Practice section (line 49) names deliberate practice in plain text as one of the things that trains attention; the Deliberate practice concept page is the compendium's page for exactly that term, and AT054 currently has no [[Deliberate practice]] wikilink (rg-verified).",
-      "_audit_why": "AT054 file read via rg with line numbers; phrase verbatim at line 49; no existing Deliberate practice link"
-    },
-    {
       "into": "AT006",
       "concept": "Deliberate practice",
-      "phrase": "Regular meditation, deliberate practice, and attention-friendly environments all improve it",
+      "phrase": "deliberate practice",
       "why": "AT006's Practice section (line 49) contains the same plain-text sentence naming deliberate practice as a way attention improves; AT006 currently has no [[Deliberate practice]] wikilink (rg-verified).",
-      "_audit_why": "AT006 file read via rg with line numbers; phrase verbatim at line 49; no existing Deliberate practice link"
+      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
     },
     {
       "into": "AT025",
       "concept": "Deliberate practice",
-      "phrase": "It improves with deliberate practice, just as physical strength improves with exercise",
+      "phrase": "deliberate practice",
       "why": "AT025's body (line 15) states concentration 'improves with deliberate practice, just as physical strength improves with exercise' in plain text; the concept page is the compendium's page for the term, and AT025 currently has no [[Deliberate practice]] wikilink (rg-verified).",
-      "_audit_why": "AT025 file read via rg with line numbers; phrase verbatim at line 15; no existing Deliberate practice link"
+      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
     },
     {
       "into": "CO082",
@@ -87,16 +73,9 @@
     {
       "into": "PP081",
       "concept": "Self-as-context",
-      "phrase": "contact with the present moment, self-as-context",
+      "phrase": "self-as-context",
       "why": "PP081's body (line 19) lists the six trained processes including 'self-as-context' in plain text; the concept page is the compendium's page for that process. PP081 currently has no [[Self-as-context]] wikilink (rg-verified).",
-      "_audit_why": "PP081 file read via rg with line numbers; phrase verbatim at line 19; no existing Self-as-context link"
-    },
-    {
-      "into": "The observing self",
-      "concept": "Self-as-context",
-      "phrase": "self-as-context, the perspective from which experience is noticed",
-      "why": "The observing self concept page (line 22) describes ACT's related move as 'self-as-context, the perspective from which experience is noticed, developed through defusion and mindfulness' in plain text; the Self-as-context page links The observing self in Related as the converging concept. The page has no [[Self-as-context]] wikilink (rg-verified).",
-      "_audit_why": "The observing self page read via rg with line numbers; phrase verbatim at line 22; no existing Self-as-context link"
+      "_audit_why": "phrase occurrence re-verified with rg (all body matches enumerated); single-concept selector per advisor QC"
     }
   ],
   "reciprocal": [
