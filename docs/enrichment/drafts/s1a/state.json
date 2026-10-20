@@ -237,7 +237,7 @@
    ]
   },
   "s1a-011": {
-   "status": "returned",
+   "status": "qc_pending",
    "angle": "P136: Addams and the Devil Baby; an unsettling failed bedside visit changes how she understands old women and their stories",
    "history": [
     {
@@ -258,11 +258,16 @@
      "t": "2026-10-20T13:56:44+00:00",
      "to": "returned",
      "note": "Advisor accepted source and arc; explicit NOT carried facet and one vague sentence cut applied"
+    },
+    {
+     "t": "2026-10-20T13:57:22+00:00",
+     "to": "qc_pending",
+     "note": "Both exact advisor return edits applied; final confirmation requested"
     }
    ]
   },
   "s1a-012": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "D039: Poincare alternates deliberate work, periods away and verification; apparent rest, not a promise of breakthrough or physical recovery",
    "history": [
     {
@@ -273,9 +278,14 @@
      "t": "2026-10-20T13:56:44+00:00",
      "to": "drafting",
      "note": "Complete Poincare investigation arc drafted, primary reprint and Ruelle article read in full"
+    },
+    {
+     "t": "2026-10-20T13:57:22+00:00",
+     "to": "qc_pending",
+     "note": "Complete primary and scholar opened; checker zero; milestone advisor requested"
     }
    ]
   }
  },
- "updated": "2026-10-20T13:56:44+00:00"
+ "updated": "2026-10-20T13:57:22+00:00"
 }
