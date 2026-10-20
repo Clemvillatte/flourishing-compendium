@@ -2,6 +2,12 @@
  "inline": [],
  "reciprocal": [
   {
+   "into": "P191",
+   "link": "P195",
+   "why": "P195 treats Bergson's emotion as a source of representations; P191 considers the distinct claim about joy and creation.",
+   "_audit_why": "P191 read and lacks P195, while P195 already links P191. No cross-band edit; SEP Bergson section 6 grounds P195."
+  },
+  {
    "into": "Dissipative structures",
    "link": "P149",
    "why": "P149 explains Prigogine's account of non-equilibrium organization while separating the physical theory from personal-crisis analogies.",
