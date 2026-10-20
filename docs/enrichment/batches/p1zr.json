@@ -1,11 +1,12 @@
 {
  "batch": "p1zr",
  "done": [
-  "AF058"
+  "AF058",
+  "AF059"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:30:26+00:00"
+ "updated": "2026-10-20T11:34:20+00:00"
 }

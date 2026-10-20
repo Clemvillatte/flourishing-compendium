@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 59** — Work with disappointment: it is the gap between expectation and reality
 
-Disappointment is the affective response to outcomes falling short of expectations. It is proportional to the size of the gap. The adaptive response is not to eliminate expectations but to calibrate them and to extract the learning.
+Disappointment is the feeling that arrives when an outcome falls short of what was expected. The decision sciences define it by exactly that gap. An EEG study of the emotion restates Bell's formal definition:
 
-**Plain words** Disappointment is the gap between expectation and reality, proportional to the gap. The adaptive response isn't eliminating expectations but calibrating them — and gleaning the information in the gap. Disappointment is data about your forecasts.
+> "Disappointment (and its positive counterpart Elation) is formally defined by Bell (1985) as proportional to the mismatch (numerical difference) between the subject's expectations and the actual outcome." (Tzieropoulos et al., 2011 — [The impact of disappointment in decision making](https://pmc.ncbi.nlm.nih.gov/articles/PMC3020567/) — Introduction)
 
-*For example:* The launch that landed at 60% of the hoped-for numbers — the disappointment is real and proportional — and the audit it delivers: the forecast was hope-based, the product is fine, the marketing was the gap. Next quarter's forecast just got smarter.
+The same literature is explicit that the feeling tracks the gap rather than the person: "There would be no disappointment or elation if the outcome obtained was equal to the expectation" (Zeelenberg et al., 2000, [On bad decisions and disconfirmed expectancies](https://research.vu.nl/ws/files/1683189/Zeelenberg%20Cognition%20and%20Emotion%2014(4)%202000%20u.pdf)). The compendium's reading follows from the definition: the feeling is a measurement of the forecast, delivered as affect, and its size is information.
+
+**Plain words**
+The number came in below the number you expected, and the feeling is proportional to the distance between the two. It is a report on the forecast, not on your worth. The two questions the gap raises: was the forecast realistic, and what does the gap change about the next one?
+
+**For example**
+Imagine a launch that lands at 60% of the hoped-for numbers. The feeling is proportional to the 40% gap. The compendium's suggestion: treat it as an audit of the forecast rather than a verdict on the effort, and build the next forecast from the actual numbers.
+
+## Sources
+
+- [Tzieropoulos et al. 2011, The Impact of Disappointment in Decision Making, Frontiers in Human Neuroscience, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3020567/) — Introduction: Bell's formal definition of disappointment.
+- [Zeelenberg, van Dijk, Manstead & van der Pligt 2000, On Bad Decisions and Disconfirmed Expectancies, Cognition and Emotion 14(4), full text](https://research.vu.nl/ws/files/1683189/Zeelenberg%20Cognition%20and%20Emotion%2014(4)%202000%20u.pdf) — the no-disappointment-when-outcome-equals-expectation sentence.
+
 ## Psychology parallels
 
-- **Disappointment tracks prediction error**, it is proportional to the difference between expected and received outcomes (Mellers et al., 1997)
-- **Expectation calibration reduces disappointment**, adjusting expectations to realistic levels reduces the frequency and intensity of disappointment (Wilson & Gilbert, 2003)
+- **Disappointment tracks prediction error**, unexpected outcomes have greater emotional impact than expected outcomes (Mellers et al., 1997)
+- **Managing expectations can backfire**, individuals who set low goals to manage expectations can end up feeling more disappointed than those who set high goals (Cho & Cho, 2018)
 
 ## Philosophy parallels
 
