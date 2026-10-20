@@ -12,23 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 42** — Adopt a provisional rule of life
 
-Spinoza wrote the Emendation before his ethics was finished, and he saw the problem it opens with: the search for the highest good takes years, and a person has to eat, speak and earn meanwhile. His answer was to fix a few working rules first and hold to them until the inquiry yields better ones. The rules he lists are modest: speak so ordinary people can follow you and keep harmless customs, take pleasure only as far as health requires, want money only enough to live on. The code is provisional on purpose: it is what you can act on before you know the best, not a replacement for finding it.
+Spinoza opens the Emendation with a search for the highest good, and adds at once that life must be carried on meanwhile. So before anything else he lays down rules of life as provisionally good: speak so the multitude can understand you and comply with every general custom that does not hinder the inquiry; indulge in pleasures only so far as preserving health requires; seek only enough money and other commodities to preserve life and health and follow such customs as are consistent with the purpose.
 
-> "Yet, as it is necessary that while we are endeavoring to attain our purpose, and bring the understanding into the right path we should carry on our life, we are compelled first of all to lay down certain rules of life as provisionally good... II. To indulge ourselves with pleasures only in so far as they are necessary for preserving health." (On the Improvement of the Understanding, [17], Elwes)
+> "we are compelled first of all to lay down certain rules of life as provisionally good" (On the Improvement of the Understanding, [17], Elwes)
 
 **Plain words**
-Living does not pause while you decide how to live. So pick rules you can act on today: speak so people understand you, keep pleasures within what health needs, take only the money that keeps you going, and hold them while the search continues. They are working rules, not final answers: good enough to follow now, and open to revision the moment better thinking justifies a change.
+You still have everyday decisions to make while you work out how to live. Choose a few workable rules for those decisions, so the everyday side runs on something while the inquiry keeps going.
 
 **For example**
-One person delays any change in diet until they have read every study; another starts with a plain rule (dinner by eight, nothing after) and adjusts it as they learn. The second is Spinoza's seeker: the rule is decent, it is written down, and the inquiry continues alongside it.
+In an imagined application, someone beginning this inquiry keeps enough paid work to cover living costs and reserves Tuesday evenings for reading.
 
 ## Sources
 
-- [On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/1016/1016-h/1016-h.htm) — section [17], the provisional rules of life (ellipsis-marked abridgement of the three rules; rule I and rule III summarised in the body)
+- [On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/1016/1016-h/1016-h.htm) — [17]–[18], the provisional rules of life (rules I–III paraphrased in the body; contiguous quote as displayed)
 
 ## Psychology parallels
 
-- **[[Implementation intentions|Implementation intentions]]**, the evidence that pre-decided rules dramatically improve follow-through (Gollwitzer, 1999)
+- **[[Implementation intentions|Implementation intentions]]** (Gollwitzer, 1999)
 
 ## Philosophy parallels
 
