@@ -14,22 +14,32 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Health, wealth, and reputation are not goods but preferred indifferents: you may reasonably pursue them, but your flourishing does not depend on them. Sickness, poverty, and disrepute are dispreferred but not bad. Hold preferred indifferents loosely: pursue them without attachment, lose them without grief.
 
-(Disc. II.19, IV.1; Med. III.6; Seneca, Letters 71, 82, 92.)
+Health, wealth and reputation are normally worth choosing over their opposites, according to mainstream Stoic ethics. Calling them indifferent does not mean there is no reason to seek them: it means their possession cannot make a life virtuous or happy in the school's demanding sense. Virtue alone can do that ([Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
 
-**Plain words** Health, wealth and reputation aren't goods but preferred indifferents: you can sensibly pursue them without your flourishing depending on them. Sickness, poverty and disrepute are dispreferred but not bad. Hold the preferred things loosely.
+Epictetus makes the distinction practical: "Things themselves are indifferent; but the use of them is not indifferent." His example is a game of dice. You cannot choose the throw, but you can play it carefully; calling the dice indifferent gives you no excuse for careless play ([Discourses II.5, George Long translation](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
 
-*For example:* You can work for a raise and treat it as a nice extra rather than the measure of your worth.
+Nor is the preference unconditional. Epictetus compares a person with a foot: considered alone, it should stay clean, but as part of a body it may need to step into mud. Duties to other people can give us reason to accept an otherwise unwanted outcome ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
+
+**Plain words** On this account, being ill or poor does not make you a worse person. Looking after your health or earning a living still deserves care; you need not despise either because it cannot secure your character ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
+
+*For example:* Suppose you apply for a better-paid job. You prepare thoroughly, decline to lie about your qualifications, and let an unsuccessful application remain a disappointment rather than a verdict on your worth.
 
 ## Psychology parallels
 
-- **[[Nonattachment|Nonattachment research]]**, nonattachment predicts well-being beyond mindfulness (Sahdra et al., 2010)
-- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goal content]]** (Kasser and Ryan, 1996)
+- **[[Nonattachment|Nonattachment research]]**: Sahdra and colleagues developed a scale for release from mental fixations and reported evidence of psychological and social adaptiveness; their abstract does not establish the inherited claim of benefits beyond mindfulness ([2010 abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
+- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goal content]]**: relatively central aspirations for money, appearance and recognition were associated with lower well-being in two samples; this is correlational evidence, not a test of Stoic ethics ([Kasser and Ryan, 1996 abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006)).
 
 ## Philosophy parallels
 
-- **Katastematic versus kinetic pleasure** (Epicurus, Key Doctrines)
-- **The having versus being mode** (Fromm, To Have or To Be?)- **[[Preferred indifferents|Preferred indifferents]]** (Stoicism)
+- **[[Preferred indifferents|Preferred indifferents]]**: the school's distinction between things worth selecting and the virtue that alone makes life go well ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
+- **[[Externals as indifferents]]**: Epictetus separates what happens to us from the quality of our use of it ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
 
+## Sources
+
+- [Epictetus, Discourses II.5, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/discourses.2.two.html): exact quotation, dice and foot examples.
+- [Durand, Shogry and Baltzly, Stoicism, Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/): preferred and dispreferred indifferents and the normal selection rule.
+- [Sahdra, Shaver and Brown, A Scale to Measure Nonattachment (2010), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/): scale-development account and evidence limits.
+- [Kasser and Ryan, Further Examining the American Dream (1996), publisher abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006): associations between relative goal importance and well-being.
 
 <!-- fc: reflections
 Which preferred thing do you hold too tightly? What would loosening look like?

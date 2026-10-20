@@ -95,3 +95,10 @@
 ## R127
 - Merchant 2006 Isis 97:513-533 (Berkeley PDF, full text; 3 quotations grep-verified + 'torture of nature'); Krumrei Mancuso, Trammell & Harriger 2024 J Positive Psychology (fetched; abstract + Study 3 results quoted).
 - FLAG: 'Hooker et al., 2020, Everyday Engagement with Nature, Environment and Behavior' in statement NOT FOUND in searches (Environment and Behavior 2020 listing showed no such paper) - not cited, body says so. Merchant 1980 book itself not opened (2006 retrospective only). Statement 'participant in it' is the owner's gloss. Humility-in-nature evidence is thin (nature = indoors only, not urban outdoors). Example hypothetical.
+
+## S015
+- Worker-p1zg-1cff8991 resumed the stale band at 24/30 on 2026-10-20; this and subsequent entries are that worker's source checks.
+- Opened by web search and fetch: [Epictetus, Discourses II.5, George Long translation, MIT](https://classics.mit.edu/Epictetus/discourses.2.two.html), full chapter; [SEP Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/), fetched source passages; [Sahdra et al. 2010, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/); [Kasser and Ryan 1996, publisher abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006).
+- Exact primary-source quotation: "Things themselves are indifferent; but the use of them is not indifferent." Dice, care and the foot/body qualification all occur in Discourses II.5. SEP supplies the technical preferred/dispreferred classification.
+- Limits: psychology papers read at abstract level only; no causal inference or claimed Stoic/Buddhist equivalence. Removed the unsupported "beyond mindfulness" claim and unverified Epicurus/Fromm comparisons; preserved every original wikilink. The untouched principle statement's "lose them without grief" is not presented as an empirical prescription in the new body. The job application is a hypothetical illustration.
+- Owner library: PRIMARY-SOURCES.md was read; its Epictetus EPUB is available as an escalation source. The unambiguous, openly fetched Long translation sufficed here, so the EPUB was not downloaded or silently substituted.
