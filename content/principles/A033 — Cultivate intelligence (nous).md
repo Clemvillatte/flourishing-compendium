@@ -12,9 +12,9 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 33** — Cultivate intelligence (nous)
 
-Aristotle's argument in NE VI.6 runs: scientific knowledge is of the universal and necessary, and its conclusions follow from first principles by demonstration; but "that which can be scientifically known can be demonstrated," so the first principles themselves cannot be an object of scientific knowledge, art, or practical wisdom ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "The remaining alternative is that it is intuitive reason that grasps the first principles" ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The compendium's practical extension: since the grasp is of starting points rather than demonstrations, the check on it is experience rather than proof. The exercise below pairs the two.
+Aristotle's argument in NE VI.6 runs: scientific knowledge is of the universal and necessary, and its conclusions follow from first principles by demonstration; but "that which can be scientifically known can be demonstrated," so the first principles themselves cannot be an object of scientific knowledge, art, or practical wisdom ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "The remaining alternative is that it is intuitive reason that grasps the first principles" ([NE VI.6](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below separates an argument's starting assumptions from its derived conclusions.
 
-> If, then, the states of mind by which we have truth and are never deceived about things invariable or even variable are scientific knowledge, practical wisdom, philosophic wisdom, and intuitive reason, and it cannot be any of the three (i.e. practical wisdom, scientific knowledge, or philosophic wisdom), the remaining alternative is that it is intuitive reason that grasps the first principles.
+> ...and it cannot be any of the three (i.e. practical wisdom, scientific knowledge, or philosophic wisdom), the remaining alternative is that it is intuitive reason that grasps the first principles.
 >
 > Aristotle, Nicomachean Ethics VI.6, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).
 
@@ -22,9 +22,9 @@ Aristotle's argument in NE VI.6 runs: scientific knowledge is of the universal a
 
 ### Plain words
 
-On the argument's own terms: proof needs somewhere to start, and the starting points cannot themselves be proven — that is what intuitive reason is for. The check on a starting point is not a demonstration; it is what happens when you build on it. For an exercise, take one conviction you hold without proof and ask what would count as evidence that it is a good starting point.
+Proofs need starting points, and the starting points are not themselves proved. The passage assigns grasping them to intuitive reason, without saying how to tell a good starting point from a bad one. For an exercise, take an argument you rely on and sort it into two lists: what it starts from, and what it derives from that.
 
-For example: a carpenter feels a joint is wrong before she can say why. She trusts the feeling, tests it with a clamp, and finds it was right. (An invented illustration.)
+For example: "Our team can't take that project on" usually starts from an assumption about capacity that nobody has stated. Writing the assumption down is the exercise. (An invented illustration.)
 
 ## Stories
 
