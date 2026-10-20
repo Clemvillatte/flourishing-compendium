@@ -12,17 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 352** — Practise participation
 
-The passage that carries the principle comes from the book the citation line names. Facing the possibility that everything reduces to a play of appearances, Marcel writes:
+Marcel, facing the possibility that everything reduces to a play of appearances, writes in The Philosophy of Existentialism:
 
-> "I aspire to participate in this being, in this reality—and perhaps this aspiration is already a degree of participation, however rudimentary." (Marcel, The Philosophy of Existentialism, trans. Manya Harari, p. 15)
+> "I aspire to participate in this being, in this reality—and perhaps this aspiration is already a degree of participation, however rudimentary." (Marcel, The Philosophy of Existentialism, trans. Manya Harari, 1995 edition, p. 15, as reproduced in SEP)
 
-The distinction underneath it is his problem/mystery pair: "A problem is something which I meet, which I find completely before me... But a mystery is something in which I am myself involved" (Marcel 1949, p. 117, as quoted in SEP). My own life is not a problem of that kind; I cannot lay siege to it from outside, because I am in it. That is why thinking about life from the bleachers is a different thing from living it, and why the engaged, embodied mode is not a mood but the only stance that matches the object. The application: when you catch yourself narrating your life instead of conducting it, pick the smallest available action and re-enter.
+The distinction underneath it is his problem/mystery pair: "A problem is something which I meet, which I find completely before me... But a mystery is something in which I am myself involved" (Marcel, Being and Having, 1949, p. 117, as reproduced in SEP). My own life is not a problem of that kind; I cannot lay siege to it from outside, because I am in it. Marcel's term for the stance that matches this is participation, and on his account it does not exclude reflection: the secondary reflection he describes is itself a participatory thinking. This page's suggested exercise: when considering a relationship or commitment, include how you are involved in it, rather than treating yourself solely as an outside observer of it.
 
 (Marcel, 1951b, The Mystery of Being; Marcel, 1967, The Philosophy of Existentialism.)
 
-**Plain words** Don't be a spectator of your own life. Participation: the engaged, embodied, relational mode — versus observation from the bleachers. Thinking about life is not living it; the difference shows up in the muscles.
+**Plain words** Some of what matters in your life you can only see from inside it, because you are one of the things being examined. Participation is Marcel's name for thinking and acting from that position, rather than pretending to stand at the edge of the field taking notes.
 
-*For example:* The person who watches the community garden from their window for two years, analysing its politics — then takes a plot, and learns in one season what the analysis never touched.
+*For example:* Imagine the person who has watched the community garden from their window for two years, analysing its politics. Taking a plot is the move from observer to participant; what they find when they do it is theirs to discover.
 ## Psychology parallels
 
 - **[[Engagement|Engagement and flow]]** (Csikszentmihalyi, 1990)
