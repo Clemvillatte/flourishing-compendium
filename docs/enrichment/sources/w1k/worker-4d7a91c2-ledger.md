@@ -142,3 +142,6 @@
 ## Risk perception — QC REPAIR round 2 (accepted)
 - **Repairs**: (a) opening paragraph no longer presents a two-factor model — the third factor (number of people exposed) from the same verified passage is now stated; (b) blockquote attribution now carries a locator: "white paper, p. 9, factor-analysis passage" (page marker 9 verified adjacent to the factor-space passage in slovic.txt).
 - **Status note**: advisor round 2 gave a scoped PASS on this item's evidence level with the third-factor fix; the fix is applied. Validation ok vs pre-enrichment baseline; pushed.
+
+## Item 6 — Schadenfreude's relational costs — QC REPAIR round 2 (final)
+- Trimmed two more words ("What the research shows is below.") to clear the 480-word prose budget; validated ok vs c2a3ee47a; state done. Intermediate pushes d285124c7 and the word-budget commit briefly carried over-length drafts; both superseded within minutes. Ledger correction: state transitions in this sub-round were attempted in the same command as validation (which failed twice at 499/483/481 words), so `done` only landed on the passing validate.

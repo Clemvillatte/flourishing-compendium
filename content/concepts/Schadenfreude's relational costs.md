@@ -7,7 +7,7 @@ file: "Schadenfreude's relational costs"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Research on schadenfreude — pleasure at others' misfortune — showing it erodes trust and invites reciprocal hostility. That is the seed's legacy formulation. The opened study measures global impression and avoidance intentions, not trust erosion or reciprocal hostility. What the research shows is below.
+Research on schadenfreude — pleasure at others' misfortune — showing it erodes trust and invites reciprocal hostility. That is the seed's legacy formulation. The opened study measures global impression and avoidance intentions, not trust erosion or reciprocal hostility.
 
 ## What the research shows
 
