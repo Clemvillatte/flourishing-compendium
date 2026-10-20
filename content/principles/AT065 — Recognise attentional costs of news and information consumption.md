@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 65** — Recognise attentional costs of news and information consumption
 
-Constant news and information consumption fragments attention and creates anxiety. The 24-hour news cycle is designed to capture and hold attention through urgency, novelty, and threat. Managing news consumption is an attentional and well-being practice.
+The experimental evidence is older than the smartphone. In Johnston and Davey's study, three groups watched 14-minute television news bulletins edited to be positive, neutral, or negative in emotional content. Participants who watched the negatively valenced bulletin showed increases in anxious and sad mood, and a significant increase in the tendency to catastrophize a personal worry — a mood effect strong enough to spill onto concerns unrelated to the news itself.
 
-**Plain words** Constant news consumption fragments attention and manufactures anxiety — the cycle needs your arousal to sell ads, and "urgent" is the product. Staying informed and staying marinated are different activities. Choose the former.
+> "Participants who watched the negatively valenced bulletin showed increases in both anxious and sad mood, and also showed a significant increase in the tendency to catastrophize a personal worry." (Johnston & Davey, 1997 — [abstract](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9061893&rettype=abstract&retmode=text) — Br J Psychol 88(1), pp. 85-91)
 
-*For example:* Checking headlines twice a day at set times — and being exactly as informed as the person refreshing hourly, minus the cortisol.
+The newer work complicates the simple story in a useful way. In Price and colleagues' 30-day daily-diary study during the COVID-19 pandemic, social media exposure to pandemic news was associated with increased depression and PTSD symptoms, more strongly for participants with more severe childhood maltreatment histories — and these relations were not observed for traditional media sources. The compendium's reading is that the risk sits not with news as such, but with compulsive consumption, particularly for people carrying existing vulnerabilities. The familiar claim that the 24-hour cycle is built to capture and hold attention is a characterization of the medium rather than a finding from either study.
+
+**Plain words**
+Negative news changes mood: a 14-minute bulletin was enough to measurably raise anxiety and sadness, and to make personal worries loom larger. The steady drip of feeds and alerts turns that lab effect into a background condition. Staying informed is a bounded act: pick times, pick sources, stop.
+
+**For example**
+As an everyday illustration: checking headlines twice a day at set times, rather than refreshing hourly. The hourly refresher is mostly re-reading the same developments in new clothes.
+
+## Sources
+
+- [Johnston & Davey 1997, The psychological impact of negative TV news bulletins, British Journal of Psychology 88(1):85-91, abstract via PubMed efetch](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=9061893&rettype=abstract&retmode=text) — experiment: negatively valenced 14-min bulletin increased anxious and sad mood and catastrophizing of personal worries.
+- [Price et al. 2022, Doomscrolling during COVID-19, Psychological Trauma 14(8):1338-1346, abstract via PubMed efetch](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=35157484&rettype=abstract&retmode=text) — 30-day daily-diary study; pandemic-related social media exposure associated with increased depression and PTSD symptoms; not observed for traditional media; stronger with maltreatment histories.
+
 ## Psychology parallels
 
-- **News consumption and anxiety**, heavy news consumption is associated with increased anxiety and lower mood (Johnston & Davey, 1997; Soroya et al., 2022)
-- **Doomscrolling and well-being**, compulsive scrolling through negative news is associated with poorer mental health (Price et al., 2022; Sharma et al., 2022)
+- **News consumption and anxiety**, experimental exposure to negatively valenced news increases anxious and sad mood (Johnston & Davey, 1997)
+- **Doomscrolling and well-being**, daily pandemic-related social media exposure is associated with increased depression and PTSD symptoms (Price et al., 2022)
 
 ## Philosophy parallels
 
