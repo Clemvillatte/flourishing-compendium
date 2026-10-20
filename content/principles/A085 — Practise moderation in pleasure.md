@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 85** — Practise moderation in pleasure
 
-Excessive pursuit of pleasure destroys the capacity for it. The person who constantly seeks novelty becomes insensitive to it. The person who indulges every appetite loses the ability to enjoy simple things. Practise restraint to preserve the capacity for enjoyment.
+Aristotle allows that bodily pleasures have their place, but draws a line at excess: "there can be too much of bodily goods, and the bad man is bad by virtue of pursuing the excess, not by virtue of pursuing the necessary pleasures" ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). Violent pleasures, he notes, "are pursued because of their violence by those who cannot enjoy other pleasures" ([NE VII.14](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The temperate man, by contrast, "neither enjoys the things that the self-indulgent man enjoys most... nor in general the things that he should not, nor anything of this sort to excess, nor does he feel pain or craving when they are absent" ([NE III.11](http://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)). The compendium's extension: moderation as preservation of the capacity to enjoy, not denial.
 
-(NE III.11, III.12, VII.14.)
+> Now there can be too much of bodily goods, and the bad man is bad by virtue of pursuing the excess, not by virtue of pursuing the necessary pleasures (for all men enjoy in some way or other both dainty foods and wines and sexual intercourse, but not all men do so as they ought).
+>
+> Aristotle, Nicomachean Ethics VII.14, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html).
 
-**Plain words** Chasing pleasure too hard wears out the capacity to feel it. Novelty-seekers get numb. People who indulge every appetite lose the taste for simple things. Some restraint keeps your enjoyment alive.
+> Further, they are pursued because of their violence by those who cannot enjoy other pleasures.
+>
+> Aristotle, Nicomachean Ethics VII.14, continued, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html).
 
-*For example:* Someone who eats rich food every night finds ordinary soup bland. After a week of simple meals, it tastes good again.
+(NE III.11, VII.14; Ross translation.)
+
+### Plain words
+
+Aristotle's line is not that pleasure is bad; it is that excess is the bad man's signature. The mark of the temperate person is what they do not need: no craving when the pleasant thing is absent. For an exercise, name one pleasure you arrange your week around and check it against the temperate man's conditions — health, good condition, means, and not crowding out better things.
+
+For example: someone who eats rich food every night finds ordinary soup bland. After a week of simple meals, it tastes good again. (An invented illustration.)
 
 ## Psychology parallels
 
