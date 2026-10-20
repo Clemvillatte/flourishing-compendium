@@ -270,3 +270,32 @@
 ## Validation
 
 - enrich_validate.py content/concepts/Self-transcendence.md — ok.
+
+# The dichotomy of control — evidence ledger (w1b, 2026-10-20)
+
+## Sources consulted
+
+- Epictetus, Enchiridion 1, George Long translation (MIT Classics
+  https://classics.mit.edu/Epictetus/epicench.html), fetched. Verbatim: the
+  full chapter 1, including "Some things are in our control and others not...";
+  "by nature free, unrestrained, unhindered"; "weak, slavish, restrained,
+  belonging to others"; "You will lament, you will be disturbed, and you will
+  find fault both with gods and men"; "be prepared to say that it is nothing to
+  you"; "by which alone happiness and freedom are achieved."
+
+## Decisions
+
+- Unverified Greek term (eph' hēmin) dropped rather than asserted without an
+  opened source; "Enchiridion ends" misstatement corrected to chapter 1's
+  closing claim.
+- Cited-in lists preserved; inherited citation lines kept.
+- Mention scan: Apatheia (concept), S067, SO031 carry plain-text mentions of
+  the dichotomy (3 inline proposals filed; note Apatheia is a concept, so its
+  inline record may need the supervisor's apply-path support); 5 reciprocals
+  proposed (Ataraxia, The reserve clause, Premeditatio malorum, Amor fati, The
+  serenity prayer); K267 kernel and layer/book titles are structural mentions,
+  not linked.
+
+## Validation
+
+- enrich_validate.py content/concepts/The dichotomy of control.md — ok.

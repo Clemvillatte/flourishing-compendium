@@ -134,6 +134,31 @@
       "into": "Pure experience",
       "link": "Self-transcendence",
       "why": "The undivided field is what self-transcendent experience briefly restores."
+    },
+    {
+      "into": "Ataraxia",
+      "link": "The dichotomy of control",
+      "why": "The dichotomy of control is the training ground for ataraxia: sorting what is ours guards the tranquillity it names."
+    },
+    {
+      "into": "The reserve clause",
+      "link": "The dichotomy of control",
+      "why": "The reserve clause (\"fate permitting\") applies the dichotomy to plans."
+    },
+    {
+      "into": "Premeditatio malorum",
+      "link": "The dichotomy of control",
+      "why": "Premeditation rehearses losses the dichotomy has already classified as not ours."
+    },
+    {
+      "into": "Amor fati",
+      "link": "The dichotomy of control",
+      "why": "Loving what happens goes one step past the sorting: not only releasing what is not ours, but affirming it."
+    },
+    {
+      "into": "The serenity prayer",
+      "link": "The dichotomy of control",
+      "why": "The serenity prayer is the modern descendant of the same sorting."
     }
   ],
   "inline": [
@@ -161,6 +186,21 @@
       "into": "AF033",
       "concept": "Rumination",
       "phrase": "Self-distancing reduces rumination"
+    },
+    {
+      "into": "Apatheia",
+      "concept": "The dichotomy of control",
+      "phrase": "the dichotomy of control"
+    },
+    {
+      "into": "S067",
+      "concept": "The dichotomy of control",
+      "phrase": "the dichotomy of control"
+    },
+    {
+      "into": "SO031",
+      "concept": "The dichotomy of control",
+      "phrase": "the dichotomy of control"
     }
   ]
 }
