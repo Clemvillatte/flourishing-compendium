@@ -36,4 +36,8 @@ No saturation hunt or reciprocal proposal under fast-track.
 
 ## Validation
 
-Pending local validation against 4a0d6ea2 and five-item advisor milestone.
+Local `enrich_validate.py --base 4a0d6ea2 --fast-track` PASS with no warnings;
+state marked done and pushed. Independent five-item milestone advisor PASS,
+including all four new quotations and original link/front-matter preservation.
+Applied its optional marital-fidelity and non-self-referential clinical-evidence
+wording improvements to Right action and Walking meditation, respectively.

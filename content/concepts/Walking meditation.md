@@ -13,7 +13,7 @@ Walking meditation brings deliberate awareness to walking itself: the contact of
 
 ### Steps and breathing
 
-Plum Village suggests taking two or three steps during an in-breath, then three or four during an out-breath; the rhythm depends on the person's lungs and natural pace ([Walking Meditation](https://plumvillage.org/mindfulness/mindfulness-practice)). Its instructions widen attention from feet and breath to the whole walking body and surrounding sounds and sights ([Walking Meditation](https://plumvillage.org/mindfulness/mindfulness-practice)). These are contemplative instructions; this entry makes no clinical treatment claim.
+Plum Village suggests taking two or three steps during an in-breath, then three or four during an out-breath; the rhythm depends on the person's lungs and natural pace ([Walking Meditation](https://plumvillage.org/mindfulness/mindfulness-practice)). Its instructions widen attention from feet and breath to the whole walking body and surrounding sounds and sights ([Walking Meditation](https://plumvillage.org/mindfulness/mindfulness-practice)). These are contemplative instructions, not clinical outcome evidence.
 
 ### A canonical counterpart
 

@@ -13,7 +13,7 @@ Right action (samma kammanta) concerns bodily conduct within the Noble Eightfold
 
 ### Restraint and care
 
-Bodhi gives each restraint a positive counterpart: compassion toward living beings, honesty and generosity concerning possessions, and fidelity in sexual relationships ([Right Action, subsections 1-3](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)). Intention matters in his account of killing: he distinguishes deliberate destruction of life from accidental killing ([subsection 1](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
+Bodhi gives each restraint a positive counterpart: compassion toward living beings, honesty and generosity concerning possessions, and marital fidelity ([Right Action, subsections 1-3](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)). Intention matters in his account of killing: he distinguishes deliberate destruction of life from accidental killing ([subsection 1](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html)).
 
 ### Lay and monastic practice
 
