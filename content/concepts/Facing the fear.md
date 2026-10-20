@@ -15,7 +15,7 @@ Facing the fear is the thread Kierkegaard pulled through The Concept of Anxiety,
 
 ### Learning to be anxious the right way
 
-The pseudonym's cure matters for the compendium's theme: it is not the elimination of anxiety. The entry's reading of the book's close is that what matters is learning to be anxious properly, and it carries the line: "Whoever has learned to be anxious in the right way has learned the ultimate" (CA 155; [SEP, ibid.](https://plato.stanford.edu/entries/kierkegaard/)). A morally free action comes from a leap, not from necessity (CA 48-51; [SEP, ibid.](https://plato.stanford.edu/entries/kierkegaard/)).
+The entry's reading of the book's close is that what matters is learning to be anxious properly, and it carries the line: "Whoever has learned to be anxious in the right way has learned the ultimate" (CA 155; [SEP, ibid.](https://plato.stanford.edu/entries/kierkegaard/)). A morally free action comes from a leap, not from necessity (CA 48-51; [SEP, ibid.](https://plato.stanford.edu/entries/kierkegaard/)).
 
 ### In the compendium
 

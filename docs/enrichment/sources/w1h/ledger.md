@@ -222,3 +222,9 @@
 - Ledger corrections: earlier claims that "every added factual sentence is
   cited" and "nothing exceeds the abstracts" were premature for items 6-10 and
   are superseded by this round's repairs.
+- Advisor round-2 lead-in fixes: Kolb opening sentence cited to the opened article;
+  Kolb quote trimmed to the actual words (no added outer "the"); Gross-Levenson
+  definition now in quotation marks; Gross-John sentence cited; Kierkegaard
+  "pseudonym's cure" interpretation deleted; FAB four-studies sentence merged
+  into the cited findings sentence. Advisor: flexibility page passes; validation
+  gate now enforced before done-marking (not before crash-protection saves).

@@ -10,9 +10,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Experiential learning” — Kolb, 1984.
 
-David Kolb's 1984 book Experiential Learning: Experience as the Source of Learning and Development is the theory's source. Its definition, as carried by a later peer-reviewed article with the book's locator, reads:
+David Kolb's 1984 book Experiential Learning: Experience as the Source of Learning and Development is the theory's source ([Baker and Robinson, 2016](https://files.eric.ed.gov/fulltext/EJ1123045.pdf)). Its definition, as carried by a later peer-reviewed article with the book's locator, reads:
 
-> "the 'process whereby knowledge is created through the transformation of experience'" (Kolb, 1984, p. 38, quoted in Baker and Robinson, [The Effects of Kolb's Experiential Learning Model on Successful Intelligence in Secondary Agriculture Students](https://files.eric.ed.gov/fulltext/EJ1123045.pdf))
+> "process whereby knowledge is created through the transformation of experience" (Kolb, 1984, p. 38, quoted in Baker and Robinson, [The Effects of Kolb's Experiential Learning Model on Successful Intelligence in Secondary Agriculture Students](https://files.eric.ed.gov/fulltext/EJ1123045.pdf))
 
 ### The cycle
 
