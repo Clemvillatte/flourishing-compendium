@@ -12,17 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 31** — Choose vocabularies by what they let you do
 
-Your descriptive vocabulary is a tool choice, not a mirror: pick the words that open possibilities and reduce cruelty. Final vocabularies can be redescribed: including your own.
+Rorty's term for the words a person uses to justify their actions, beliefs, and lives is a "final vocabulary," and its finality is specific: it is "final' in the sense that if doubt is cast on the worth of these words, their user has no noncircular argumentative recourse. Those words are as far as we can go with language; beyond them, there is only helpless passivity or resort to force" (Contingency, Irony, and Solidarity, p. 73, as quoted in [Party Studies vol. 1](https://monoskop.org/images/e/eb/Party_Studies_vol_1_2021.pdf)). He then defines the ironist by what she does with her vocabulary:
 
-(Rorty, Contingency, Irony, and Solidarity, 1989.)
+> "She has radical and continuing doubts about the final vocabulary she currently uses because she has been impressed by other vocabularies... she realizes that arguments phrased in her present vocabulary can neither underwrite nor dissolve these doubts... she does not think that her vocabulary is closer to reality than others, that it is in touch with a power, not herself." (Rorty, Contingency, Irony, and Solidarity, p. 73, as quoted in [Party Studies vol. 1](https://monoskop.org/images/e/eb/Party_Studies_vol_1_2021.pdf))
 
-**Plain words** Your descriptive vocabulary is a tool choice, not a mirror — pick the words that open possibilities and reduce cruelty. Final vocabularies can be redescribed, including your own. The word 'failure' versus 'data' isn't euphemism; it's equipment.
+The seed's "tool choice, not a mirror" framing follows Rorty's critique of language as representation (Philosophy and the Mirror of Nature, 1979; not opened for this page, named as inherited attribution). The compendium's application: when a description of yourself keeps closing options, try redescribing the same facts in words that contain a next step. This is an application of the ironist's doubt, not a claim that any particular redescription is true.
 
-*For example:* Calling yourself 'bad with money' versus 'using a system that doesn't fit me' — same facts, and only one vocabulary contains a next step.
+### Plain words
+
+A vocabulary decides what counts as a next move. "I'm bad with money" ends the sentence; "this system doesn't fit me" invites a replacement. Same facts, different equipment. The ironist's move is holding both descriptions long enough to choose.
+
+### For example
+
+Take the two descriptions "bad with money" and "using a system that doesn't fit me." The exercise is to write the same month's spending under each description and notice which one leaves a doable next sentence. No promise the second description is truer; the question is what it lets you do.
 
 ## Psychology parallels
 
-- **[[Framing effects|Framing effects]]**, different descriptions of the same fact produce different decisions (Levin et al., 1998)
+- **[[Framing effects|Framing effects]]**, typology of effects of alternative framing on judgment and decision (Levin et al., 1998)
 
 ## Philosophy parallels
 
