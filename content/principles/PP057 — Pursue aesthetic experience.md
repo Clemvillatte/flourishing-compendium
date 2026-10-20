@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 57** — Pursue aesthetic experience
 
-Aesthetic experience, the absorbed engagement with beauty in art, nature, or craft, is a dimension of well-being that is neither hedonic nor eudaimonic but its own thing. The capacity for aesthetic experience is trainable: it is built through attention, through exposure, and through the willingness to be moved. Research on aesthetic engagement shows associations with well-being through the mechanisms of absorption, meaning, and self-transcendence.
+Aesthetic experience, the absorbed engagement with beauty in art, nature, or craft, is a dimension of well-being that is neither hedonic nor eudaimonic but its own thing. The capacity for aesthetic experience is trainable: it is built through attention, through exposure, and through the willingness to be moved. The mechanisms are beginning to be mapped:
+
+> We review recent evidence showing that aesthetic experiences emerge from the interaction between sensory-motor, emotion-valuation, and meaning-knowledge neural systems. (Chatterjee & Vartanian, "Neuroaesthetics," Trends in Cognitive Sciences 18(7), 2014, pp. 370-375, [PubMed](https://pubmed.ncbi.nlm.nih.gov/24768244/))
 
 (Pelowski and Akiba, 2011; Chatterjee and Vartanian, 2014.)
 
-**Plain words** Absorbed engagement with beauty, in art, nature or craft, is its own dimension of well-being. It can be trained through attention and exposure, and through the willingness to be moved.
+**Plain words** Aesthetic experience is what happens when attention locks onto something made or grown and the self goes quiet for a while. You stop skimming and start looking; the music stops being background and becomes the room. The principle's claim is that this state is worth pursuing on purpose: seek out the things that do this to you, and give them enough time to do it.
 
 *For example:* Standing in front of a painting long enough that you stop naming it and start seeing it.
 
@@ -26,8 +28,12 @@ Aesthetic experience, the absorbed engagement with beauty in art, nature, or cra
 - [[ST326 — Bob Ross's Happy Accidents|326. Bob Ross's Happy Accidents]]
 ## Psychology parallels
 
--  (Pelowski and Akiba, 2011)
+- **[[The self dissolving in aesthetic contemplation]]** — the absorption side of aesthetic engagement (Pelowski and Akiba, 2011)
 - [[Neuroaesthetics|Neuroaesthetics]] (Chatterjee and Vartanian, 2014)
+
+## Sources
+
+- [Chatterjee & Vartanian 2014, Trends in Cognitive Sciences, PubMed record](https://pubmed.ncbi.nlm.nih.gov/24768244/) — abstract; pp. 370-375
 
 ## Philosophy parallels
 

@@ -184,3 +184,15 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Neff and Germer 2013 (MSC programme) citation inherited, not opened, flagged.
 - Saturation: cited by the Self-compassion and Mindful self-compassion programme concepts
   (parallel links).
+
+## PP057 — Pursue aesthetic experience
+- Full work: verbatim quote added (Chatterjee & Vartanian 2014 abstract sentence on aesthetic
+  experiences emerging from sensory-motor / emotion-valuation / meaning-knowledge system
+  interaction, verified vs directly fetched PubMed record 24768244). Body's
+  "associations with well-being through absorption, meaning, self-transcendence" sentence
+  removed: Pelowski & Akiba 2011 could not be opened (ScienceDirect robots-blocked) and the
+  claim was not certified; the citation stays in the line as inherited with a flag.
+- Empty psychology parallel filled with [[The self dissolving in aesthetic contemplation]].
+- Plain words rewritten as re-derivation (old one replicated the body's first sentence).
+- Saturation: cited by the Neuroaesthetics, The sublime and Disinterested aesthetic pleasure
+  concept space via the parallels sections.
