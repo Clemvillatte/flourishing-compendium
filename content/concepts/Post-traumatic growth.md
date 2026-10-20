@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Post-traumatic growth” — Bonanno, 2004; Tedeschi & Calhoun; Tedeschi & Calhoun, 1996.
 
-Two findings sit side by side in the research on how people come through disaster. The first, from George Bonanno's review of the evidence, is that plain resilience is the common outcome:
+Two findings sit side by side in the research on how people come through disaster. The first, from George Bonanno's review of the evidence, is that resilience is more common than often believed:
 
 > The author challenges these assumptions by reviewing evidence that resilience represents a distinct trajectory from the process of recovery, that resilience in the face of loss or potential trauma is more common than is often believed, and that there are multiple and sometimes unexpected pathways to resilience.
 
@@ -28,7 +28,7 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 - [[PP047 — Allow post-traumatic growth without forcing it]] — the page's clinical guard, made a principle
 - [[E064 — Practise meaning through the attitude toward suffering]] — Frankl's third route, of which this is the empirical face
 - [[B180 — Turn mishaps into the path (lojong)]] — the contemplative analogue of treating adversity as material
-- [[A028 — Practice resilience in adversity]] — Bonanno's finding that resilience is the modal outcome
+- [[A028 — Practice resilience in adversity]] — Bonanno's finding that resilience is more common than often believed
 - [[S092 — Treat adversity as training]] — the Stoic training frame for the same disposition
 - [[E091 — Practise limit situations]] — growth is reported most where circumstances cannot be changed
 

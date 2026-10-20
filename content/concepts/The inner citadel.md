@@ -9,29 +9,29 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The inner citadel” — Hadot, The Inner Citadel; Stoics, Marcus Aurelius, Meditations.
 
-Pierre Hadot gave the name to a Stoic image he spent a book reconstructing. The Inner Citadel, his study of the Meditations, reads Marcus Aurelius as a man doing philosophy as an exercise rather than writing it as a theory. The citadel is the mind's own ground: the place of judgment, into which nothing external can force its way.
+Pierre Hadot, the historian of ancient philosophy, is the author of The Inner Citadel, a study of the Meditations of Marcus Aurelius (Harvard, 1998). Hadot is known for reading ancient philosophy as a set of spiritual exercises, "practices ... intended to effect a modification and a transformation in the subjects who practice them", rather than as a body of theory. The inner citadel is the mind's own ground: the place of judgment, into which nothing external can force its way.
 
-The Meditations does not use the word citadel in George Long's translation, but it circles the idea. Marcus tells himself that the retreat people seek in the country or by the sea is available anywhere:
+The word citadel does not appear in George Long's translation of the Meditations, but the book circles the idea. Marcus tells himself that the retreat people seek in the country or by the sea is available anywhere, at any hour (Book 4.3):
 
-> At what time soever thou wilt, it is in thy power to retire into thyself, and to be at rest, and free from all businesses. A man cannot any whither retire better than to his own soul.
+> At what time soever thou wilt, it is in thy power to retire into thyself, and to be at rest, and free from all businesses. A man cannot any whither retire better than to his own soul; he especially who is beforehand provided of such things within, which whensoever he doth withdraw himself to look in, may presently afford unto him perfect ease and tranquillity.
 
-The walls of the place are not stone. They are the Stoic doctrine that things themselves stay outside:
+The boundary is judgment, not architecture. On Marcus's account the events themselves stay outside, and the trouble is made inside, by opinion (Book 4.3):
 
-> The things or objects themselves reach not unto the soul, but stand without still and quiet, and that it is from the opinion only which is within, that all the tumult and all the trouble doth proceed.
+> One, that the things or objects themselves reach not unto the soul, but stand without still and quiet, and that it is from the opinion only which is within, that all the tumult and all the trouble doth proceed.
 
-And the fortress holds because the ruling mind cannot be compelled from outside:
+And on his Stoic account the mind, once recollected, cannot be compelled from outside (Book 8.46):
 
 > Remember that thy mind is of that nature as that it becometh altogether unconquerable, when once recollected in herself, she seeks no other content than this, that she cannot be forced... And therefore let thy chief fort and place of defence be, a mind free from passions.
 
 ### How the citadel is built
 
-Hadot's wider work names the method. Ancient philosophy, on his account, consisted of "spiritual exercises", which he defined as "practices ... intended to effect a modification and a transformation in the subjects who practice them". The Stoics repeated their maxims until the maxims were ready at the moment of trouble. One of them, which Hadot credits to Epictetus, states the load-bearing wall: "What troubles people is not things, but their judgments about things". The citadel is not built once. It is maintained by daily use, which is why Marcus was still writing the instructions to himself late in life, in a war camp, as emperor.
+Hadot's wider work names the method: the repeated maxims and daily exercises of ancient philosophy. One of those maxims, which Hadot credits to Epictetus, states the doctrine plainly: "What troubles people is not things, but their judgments about things". The Stoics repeated such lines until the lines were ready at the moment of trouble. On this reading the citadel is not built once. It is maintained by use.
 
 ### In the compendium
 
 - [[S064 — Build the inner citadel]] — the concept made a practice
-- [[S001 — Distinguish what is up to you from what is not]] — the doctrine that draws the wall
-- [[S071 — Recognise that emotions are judgments]] — the Stoic reading of feeling that makes judgment the gate
+- [[S001 — Distinguish what is up to you from what is not]] — the doctrine that draws the boundary
+- [[S071 — Recognise that emotions are judgments]] — the Stoic reading of feeling that puts judgment at the gate
 - [[D096 — Don't let the outer displace the inner]] — the same boundary stated as a warning
 - [[D183 — Keep the inside quiet when the outside is loud]] — the citadel under noise
 - [[B165 — Peace begins in your own mind]] — the Buddhist parallel
@@ -43,16 +43,18 @@ Hadot's wider work names the method. Ancient philosophy, on his account, consist
 
 ## Sources
 
+- Hadot, The Inner Citadel
+- Stoics, Marcus Aurelius, Meditations
 - Hadot, The Inner Citadel — via Wikipedia (Pierre Hadot): https://en.wikipedia.org/wiki/Pierre_Hadot
-- Marcus Aurelius, Meditations, George Long translation: https://www.gutenberg.org/files/2680/2680-h/2680-h.htm
+- Marcus Aurelius, Meditations, George Long translation (full text verified by local search): https://www.gutenberg.org/files/2680/2680-h/2680-h.htm
 
 ## Related concepts
 
-- [[The dichotomy of control]] — the Epictetan doctrine the citadel is built on
-- [[Apatheia]] — freedom from passion, the citadel's garrison
-- [[Passions as judgments]] — the theory that makes judgment the only gate
-- [[Stillness under turbulence]] — the citadel holding in rough conditions
-- [[The portrait of the sage]] — the person who lives inside it
+- [[The dichotomy of control]] — the Epictetan distinction the boundary rests on: what is up to us and what is not
+- [[Apatheia]] — the freedom from destructive passion the discipline aims at
+- [[Passions as judgments]] — the Stoic theory that feelings arise from judgments
+- [[Stillness under turbulence]] — the discipline applied under pressure
+- [[The portrait of the sage]] — the Stoic ideal this steadiness serves
 
 [[S060 — Cure anger by understanding its source]]
 [[S001 — Distinguish what is up to you from what is not]]

@@ -9,7 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Meaning — the sense that life is about something: purpose, coherence, and mattering. Frankl made it the primary human drive; the traditions converge on meaning as made through work, love, and the stance taken toward suffering.
 
-Viktor Frankl survived the camps and built a psychology around the claim that meaning is a primary human need, not a luxury that arrives after comfort. Where Freud placed the will to pleasure and Adler the will to power, Frankl placed what he called the will to meaning. In the second half of Man's Search for Meaning he sets out the routes plainly:
+Viktor Frankl survived the camps and built a psychology around the claim that meaning is a primary human need, not a luxury that arrives after comfort. He set his term against the two psychologies he knew best:
+
+> That is why I speak of a will to meaning in contrast to the pleasure principle (or, as we could also term it, the will to pleasure) on which Freudian psychoanalysis is cantered, as well as in contrast to the will to power on which Adlerian psychology, using the term "striving for superiority," is focused.
+
+In the second half of Man's Search for Meaning he sets out the routes plainly:
 
 > According to logotherapy, we can discover this meaning in life in three different ways: (1) by creating a work or doing a deed; (2) by experiencing something or encountering someone; and (3) by the attitude we take toward unavoidable suffering.
 

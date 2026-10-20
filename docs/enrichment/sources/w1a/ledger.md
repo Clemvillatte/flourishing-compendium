@@ -269,3 +269,15 @@ staged by the save script).
 - In the compendium bullets cite PP047, E064, B180, A028, S092, E091 (titles verified via ls).
 - Reciprocals: 2 filed (Resilience, Stress-related growth — backlink absence rg-verified). Tragic-optimism reciprocal dropped before push: rg showed an existing [[Post-traumatic growth]] backlink in that file. No inline filed: "post-traumatic growth"/"PTG" occurrences in principles are either already linked or in protected statements; the term is too study-specific for a safe single-occurrence inline.
 - Validator on final: ok.
+
+### Meaning correction (item-3 QC round 1, 2026-10-20)
+
+- The Freud/Adler contrast flagged in the item-3 entry is now VERIFIED: the will-to-meaning sentence was located in the opened Frankl PDF ("That is why I speak of a will to meaning in contrast to the pleasure principle... on which Freudian psychoanalysis is cantered, as well as in contrast to the will to power on which Adlerian psychology, using the term 'striving for superiority,' is focused.") and added to the page as a verbatim blockquote. The flag in the item-3 entry above is superseded by this correction.
+
+### Post-traumatic growth correction (item-4 QC round 1, 2026-10-20)
+
+- Advisor flagged overstated wording: the Bonanno abstract says resilience is "more common than is often believed", not "the common/modal outcome". The page lead-in and the A028 in-the-compendium bullet were rewritten to match the abstract's wording. The verbatim blockquote was already exact.
+
+### The inner citadel (item 5, QC round 1 fixes applied 2026-10-20)
+
+- Round-1 QC (FAIL) fixes applied: (1) translation identity verified by full-text download of Gutenberg 2680 raw HTML (curl) — "George Long" credit present; all three blockquotes confirmed verbatim by local string search; zero occurrences of "citadel" in the file (rg over the full 524KB), so the negative claim on the page is grounded in a complete-text search, not a prompted extract; section attributions (Book 4.3, Book 8.46) added beside the blockquotes. (2) Blockquote repairs: first quote extended to the complete two sentences through "perfect ease and tranquillity." (the earlier version silently ended mid-sentence); second quote restored to "One, that the things..." verbatim opening. (3) Unsupported claims removed: "Hadot gave the name" narrowed to the documented book title; the "exercise rather than theory" gloss narrowed to Hadot's documented general theme (per Wikipedia); the biographical "war camp, as emperor" ending removed. (4) Humanizer fixes: "not stone... They are" staging replaced with direct phrasing; garrison/only-gate/lives-inside-it metaphors removed from page and proposal whys; long final paragraph split. (5) Sources: original seed bullets restored with URL lines appended (augment, not replace).
