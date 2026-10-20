@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 58** — Distinguish continence from virtue
 
-The continent person (enkrates) feels desire that pulls against reason but masters it. The virtuous person (sophron) feels no such conflict because desire is trained to follow reason. Continence is a real achievement, but it is not the endpoint. Aim beyond self-control toward integrated character.
+Aristotle separates two states that look alike from outside. The continent man is "ready to abide by the result of his calculations" while the incontinent is ready to abandon them ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)); continence is a state of holding to a calculation against appetite. The temperate man is different in kind: "a temperate man will have neither excessive nor bad appetites," so the two states do not simply coincide — "if continence involves having strong and bad appetites, the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The compendium's extension: continence is a real holding-pattern state, and the distinct state worth aiming at is one where the appetite itself has changed.
 
-(NE I.13, VII.1-2.)
+> And the same man is thought to be continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them.
+>
+> Aristotle, Nicomachean Ethics VII.1, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html).
 
-**Plain words** The continent person feels the pull and masters it. The virtuous person doesn't feel the same pull, because desire has been trained. Self-control is a real achievement. But Aristotle says aim past it, toward a character where doing well feels natural.
+> Further, if continence involves having strong and bad appetites, the temperate man will not be continent nor the continent man temperate; for a temperate man will have neither excessive nor bad appetites.
+>
+> Aristotle, Nicomachean Ethics VII.2, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html).
 
-*For example:* Resisting the biscuit tin through willpower is continence. Not wanting it by mid-afternoon, because your meals now keep you full, is something more.
+(NE VII.1-2; Ross translation.)
+
+### Plain words
+
+Two people can both skip the biscuit. One is holding out against wanting it; the other does not want it. From outside they look the same, which is why Aristotle insists on the difference: continence is appetite plus resistance, temperance is appetite already shaped. For an exercise, take one ongoing self-control battle of yours and ask what change would make the battle unnecessary.
+
+For example: resisting the biscuit tin through willpower is continence. Not wanting it by mid-afternoon, because your meals now keep you full, is something more. (An invented illustration.)
 
 ## Psychology parallels
 
