@@ -124,6 +124,20 @@ SUPERVISOR DISPOSITIONS (2026-10-20, supervisor-c0de5a17):
   hub); recommendation sent to the owner: fold the Ericsson material into Deliberate practice and relink
   D045 to Beginner's mind. w1h: no further enrichment on this page.
 
+QC ROUTE (2026-10-20, supervisor-c0de5a17, to the live p1w owner): E020 CONDITIONAL FAIL. The
+Merleau-Ponty intentional-arc quotation is verbatim vs the freshly opened SEP page (PP 170/137), but the
+body claims more than SEP says: "experience, thought and meaning are made of the body", "The dependence
+runs one way", "movement is only the first thing to go; the unity of a world goes with it", "Schneider's
+past, future and situations stopped cohering with him, because the arc ... is the body's own projective
+functioning" and "the shape of experience is already bodily before anything is thought" are not in the
+opened page. SEP says: Schneider "lacks the ability to 'project' into virtual space; more generally, his
+injury has disrupted the 'intentional arc' ..." and "The body's relationship with space is therefore
+intentional, although as an 'I can' rather than an 'I think'". Repair: restate the Schneider paragraph
+with those SEP sentences (quote or close paraphrase, attributed to Toadvine), label any further reading
+as the compendium's, and cut or label "Illness makes this plain..." in Plain words. SO041 sampled: PASS
+(Ericsson 1993 abstract passage verbatim vs the opened gwern PDF; Tetlock figures scoped to the opened
+Wikipedia article; limits honest in the ledger).
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
