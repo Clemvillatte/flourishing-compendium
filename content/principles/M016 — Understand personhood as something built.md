@@ -12,16 +12,27 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 16** — Understand personhood as something built
 
-The Nahua term for the person is a compound: ixtli in yollotl, face and heart. The face (ixtli) is the developed self one presents to the world; the heart (yollotl) is the seat of vitality, knowledge, and will. Crucially, both are achievements: one is born with a face and a heart, but one becomes a person by developing them, through education, discipline, and practice. Personhood is a verb here. Practically, treat your character as under construction rather than as a fixed endowment, and schedule its construction.
+The [Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec/) (James Maffie) explains the Nahua account in its section on moral theory (section 6):
 
-(Maffie's and Leon-Portilla's presentations of ixtli in yollotl; the huehuetlatolli's educational aim.)
+> "Face and heart" (in ixtli in yollotl) expresses the notion of character (Leon-Portilla 1963). To possess a "perfected, wise face and good heart" is to exhibit sound judgment and sentiment: one's psychological, intellectual, and physical behavior promotes balance-and-purity and averts imbalance-and-impurity.
 
-**Plain words** The Nahua word for person is face-and-heart: ixtli (the developed self you present) and yollotl (the seat of vitality, knowledge, will). Crucially, both are achievements — you're born with the raw material, but you become a person by developing them. Personhood is built, not issued.
+It adds: "Humans are born incomplete and 'faceless' (i.e. without character) yet are perfectible through proper education." Education aims at "a wise face and a strong, humanized heart", and the teacher is "akin to an artist who skillfully shapes a formless block of stone into a beautiful statue." The heart, yollotl, "derives from ollin, the Nahuatl word for movement" (section 4.c).
 
-*For example:* Two people with the same raw talent — one coasts on it, one trains it for twenty years — and by fifty they are simply not the same calibre of person, in the way the tradition means it.
+The page's earlier wording that one is "born with a face and a heart" is not what the entry says. It says people are born incomplete and faceless.
+
+(IEP, Aztec Philosophy, sections 4.c and 6.)
+
+**Plain words** The Nahua view is that character is made, mainly through teaching and shaping from childhood. A person is not finished at birth. The suggestion to treat your character as under construction is a fair reading, though the sources are about education by sages, not self-help.
+
+For example (imagined): two people start with the same talent. One keeps working at it, the other does not, and years later they differ.
+
+## Sources
+
+- [Internet Encyclopedia of Philosophy, Aztec Philosophy](https://iep.utm.edu/aztec/) (James Maffie), sections 4.c and 6
+
 ## Psychology parallels
 
-- **[[Character strengths (Peterson & Seligman)|Character strengths as trainable]]**, the VIA research on strength identification and use (Niemiec, 2018)
+- **[[Character strengths (Peterson & Seligman)|Character strengths as trainable]]**, the VIA research on strength identification and use (Niemiec, 2018; not verified here)
 
 ## Philosophy parallels
 

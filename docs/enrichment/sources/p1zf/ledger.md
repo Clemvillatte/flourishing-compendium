@@ -65,3 +65,10 @@
 ## K070 — FAS perspective
 - Sources opened (search excerpts, verbatim): OUP chapter 8 on Hisamatsu (academic.oup.com/book/10756/chapter/158865394): F.A.S. formula and Hisamatsu's statement on Formless Self as basis of All Humankind and Suprahistorical history; Grossmann & Kross 2014 Psychol Sci 25:1571-1580 (PMID 24916084, abstract).
 - Primary Hisamatsu texts not opened. Correction: the old "moral expansiveness ... widening circle improves judgment (Grossmann & Kross 2014)" bullet was not supported by that abstract; replaced by self-distancing finding. "Suprahistorical" in the source means creating history from the awakened standpoint; the page's "act from beyond your era's assumptions" is flagged as the compendium's gloss. Marcus Aurelius 9.30 and Hegel bullets unverified.
+
+## M002 — Cosmos as motion
+- Sources opened: IEP Aztec Philosophy (Maffie) §2.h (five suns, verbatim), §2.a (processive metaphysics); Wikipedia Five Suns (Nāhui-Olīn "Age of Four-Movement", Codex Chimalpopoca named as a classical text; Wikipedia, so lower authority); Dugas et al. 1998 BRT 36:215-226 (PMID 9613027, abstract).
+- IEP does not use the name Nahui Ollin; page says so. The old line "Codex Chimalpopoca as translated source" is only supported by Wikipedia naming the Codex, not by Maffie. Old claim "accepting instability predicts lower distress" overstated: Dugas is cross-sectional and about intolerance of uncertainty in GAD patients. Heraclitus/Buddhist kalpa bullets inherited, unverified. "Practically, hold your structures with the grip..." is the compendium's guidance.
+
+## M016 — Personhood built
+- Source opened: IEP Aztec Philosophy §§4.c, 6 (verbatim). Correction: old text said "born with a face and a heart"; IEP says humans are born incomplete and "faceless". Niemiec 2018 bullet inherited, unverified; Aristotle/Durant bullets inherited. Leon-Portilla 1963 and Sahagun are cited by IEP, not opened.
