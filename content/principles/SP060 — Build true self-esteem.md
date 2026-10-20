@@ -12,16 +12,28 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 60** — Build true self-esteem
 
-Self-esteem is joy in one's own power of acting, and Spinoza's analysis makes it a developmental achievement rather than an affirmation: it grows from evidence of one's own efficacy, gathered in action. The counterfeit, pride, is comparative and collapses with the comparison; the genuine article is self-referenced and accumulates. Practically, keep a record of capacities exercised (not compliments received), and review it as the only reliable feed of real self-esteem.
+Spinoza defines the affect at the end of Part III: self-approval "is pleasure arising from a man's contemplation of himself and his own power of action", and the feeling "is renewed as often as a man contemplates his own virtues, or his own power of activity". Part IV adds the value claim: "Self-approval may arise from reason, and that which arises from reason is the highest possible", and its note calls it "in reality the highest object for which we can hope".
 
-(Ethics III, P26 and P30; IV, P52.)
+The counterfeit in the definitions is pride, and its mark there is not the modern comparative reading: "Pride is thinking too highly of one's self from self-love". The note to IV.52 records the social dependence of the genuine article: this approval "is more and more fostered and strengthened by praise... and on the contrary is more and more disturbed by blame".
 
-**Plain words** Self-esteem is joy in one's own power of acting — a developmental achievement, not an affirmation: it grows from evidence of one's own efficacy, gathered in action. The counterfeit, pride, is comparative and collapses with the comparison. Build the real thing with receipts.
+As a compendium exercise, keep a record of capacities exercised rather than compliments received, since the opened passages make the feeling itself arise from contemplating your own power of activity.
 
-*For example:* The person who recites affirmations in the mirror versus the one who does the small hard thing weekly and lets the evidence accumulate. One is renting esteem; the other is building it. The difference shows up in the first crisis.
+> "Self-approval is pleasure arising from a man's contemplation of himself and his own power of action." (Ethics III, Definition of the Emotions XXV, Elwes)
+
+**Plain words**
+The good feeling about yourself that lasts is the one that comes from watching what you can actually do; it renews each time you look at your own capabilities. Praise and blame push it around, so a private record of what you did is steadier evidence than an audience's reaction.
+
+**For example**
+In an imagined application, someone keeps a weekly note of one difficult thing they completed and what capability it used, and reads it before asking whether they are doing well.
+
+## Sources
+
+- [Ethics — Part 3, Elwes translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/948/pg948.html) — Definitions of the Emotions XXV–XXVIII
+- [The Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — IV.52 with proof and note
+
 ## Psychology parallels
 
-- **[[Self-efficacy|Self-efficacy from mastery experiences]]**, Bandura's four-source model in which enactive accomplishment is the strongest source (Bandura, 1997)
+- **[[Self-efficacy|Self-efficacy from mastery experiences]]** (Bandura, 1997)
 
 ## Philosophy parallels
 
