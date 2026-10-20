@@ -61,14 +61,14 @@
   "Social attention",
   "Social construction of gender"
  ],
- "in_progress": null,
+ "in_progress": "Social influences on motivation",
  "flagged": {
   "Self-compassion": "RESOLVED 2026-10-20 by worker-w1a-e54f7981 (w1f takeover): dash budget 18/3 — rewording pass done, prose dashes now 0 (principle links moved to an In-the-compendium list, em dashes replaced with commas/colon), validator ok",
   "Natural liberty versus the chains": "Category B comparison page (already listed in concept-namespace-audit.md); not enriched. Granular components if created: Rousseau natural liberty vs civil liberty (Social Contract I.8), checked only by title"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:19:57+00:00",
+ "updated": "2026-10-20T08:19:59+00:00",
  "notes": {
   "Language spinning beyond the world": "fast-track done 2026-10-20; RENAMED to \"Language on holiday\" — the seed title was a compendium coinage, not Wittgenstein wording (\"spins beyond the world\" does not appear in PI; verified in an opened PI selection). Real concept = language on holiday (PI 38) / engine idling (PI 132). File renamed, _order.json and the B070 backlink label migrated; fast-track body grounded in opened PI selection 132 + DBU overview quoting 38.",
   "Original nature, nothing to add": "fast-track done 2026-10-20; title verified as a real concept (self-nature/benxing in the Platform Sutra — no rename needed); McRae passage + verse lines quoted verbatim from the opened e-Buddhism page (which compares McRae Zongbao vs Yampolsky Dunhuang renderings); Yampolsky PDF at terebess.hu is image-based, unusable for verbatim extraction (noted).",
