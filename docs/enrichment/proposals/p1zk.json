@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 20,
+ "revision": 21,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -127,6 +127,12 @@
    "link": "BI061",
    "why": "the Stanford breathwork trial comparing cyclic sighing, box breathing and hyperventilation",
    "notes": "Evidence in sources/p1zk/BI061.md (Balban 2023, Zaccaro 2018, Fincham 2023, all opened). Concept already cites BI061."
+  },
+  {
+   "into": "The body-mind unity in pain",
+   "link": "BI068",
+   "why": "the bidirectional illness-mood evidence is the body-mind unity measured",
+   "notes": "Evidence in sources/p1zk/BI068.md (Mezuk 2008, 2021 HbA1c meta-analysis, both opened). Concept already cites BI068."
   }
  ],
  "inline": []
