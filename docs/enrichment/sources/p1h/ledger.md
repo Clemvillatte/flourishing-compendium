@@ -790,3 +790,27 @@ wikilink preserved; Evans & Stanovich qualification retained below). Validation
 vs 3e069a63: 5 checked, 0 failed. Scope: approval of the reviewed passages and
 demonstrated checks, not independent certification of every claim on the five
 pages. Continuing to CO009.
+
+### CO009 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Sources opened: Raichle 2015 (PubMed 25938726, abstract verified), Mooneyham &
+  Schooler 2013 (UCSB metalab full-text PDF, abstract sentences verified), and
+  Killingsworth & Gilbert 2010 (PubMed 21071660, abstract verified — the paper's
+  famous closing lines are not in the abstract, so the abstract's own sentences are
+  used; two wrong-PMID fetches discarded en route: 20547124 is a Parkinson's review,
+  PMC2926522 refused). Note: AT035's earlier Killingsworth quote had come from a
+  search snippet; this page uses only freshly verified abstract sentences.
+- Blockquote verbatim (Raichle DMN activity sentence); Mooneyham and Killingsworth
+  findings paraphrased from their verified abstracts.
+- Seed-body claims scoped: "not inherently bad" and the benefits list kept as the
+  review's own qualified wording (costs to performance; possible roles in planning
+  and creative problem solving); the "default mode needs the downtime to do its
+  work" mechanism claim and the workshop/boredom metaphor removed; "The skill is
+  scheduling the wander" promise removed; plain words re-derived (notice where it
+  went, matching the page's practice); example now names the exercise (leave one
+  interval unoccupied) without the best-ideas promise. Parallels bullets narrowed
+  to the three opened sources (Buckner, Smallwood & Schooler 2015, Baird citations
+  dropped as unopened).
+- Linked-concept reads: The monkey mind (cross-tradition echoes — consistent),
+  Stream of consciousness (James, seed), Wu wei (read in full this session).
+  Validator ok.

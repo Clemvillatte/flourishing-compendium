@@ -53,7 +53,8 @@
   "AT075",
   "BE072",
   "BI004",
-  "CO002"
+  "CO002",
+  "CO009"
  ],
  "in_progress": null,
  "flagged": {
@@ -101,6 +102,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T04:00:02+00:00",
+ "updated": "2026-10-20T04:00:53+00:00",
  "band_done": false
 }

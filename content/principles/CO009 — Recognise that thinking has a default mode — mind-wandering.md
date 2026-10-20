@@ -12,16 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 9** — Recognise that thinking has a default mode: mind-wandering
 
-When not engaged in a task, the mind spontaneously generates thoughts, memories, plans, and scenarios. This is the default mode network. Mind-wandering is not inherently bad — it supports creativity, planning, and self-reflection — but it is also associated with reduced well-being when it becomes rumination or distraction.
+The mind at rest is not idle. Raichle's review describes the default mode network as a set of cortical areas, consistent across species, whose activity decreases during attention-demanding tasks compared with relaxed nontask states. (Raichle, 2015.)
 
-**Plain words** When not engaged in a task, the mind spontaneously generates thoughts, memories, plans — the default mode network. Mind-wandering isn't inherently bad: it supports creativity, planning, self-reflection. The skill is scheduling the wander, not eliminating it.
+> "The default mode network consistently decreases its activity when compared with activity during these relaxed nontask states." (Raichle, 2015, [Annual Review of Neuroscience 38:433-447](https://pubmed.ncbi.nlm.nih.gov/25938726/))
 
-*For example:* The person who kills every queue, elevator, and walk with their phone — and the discovery that their best ideas have nowhere to arrive. The boredom they've been avoiding was the workshop. The default mode needs the downtime to do its work.
+What the mind does in that mode is reviewed by Mooneyham and Schooler: mind-wandering typically occurs at a significant cost to performance, its role is not entirely pernicious, and it may play a role in autobiographical planning and creative problem solving. (Mooneyham & Schooler, 2013.) Killingsworth and Gilbert's smartphone sampling found people thinking about what is not happening almost as often as about what is, and that doing so typically makes them unhappy. (Killingsworth & Gilbert, 2010.) The compendium's reading keeps both halves: the wandering is the mind's default, and neither its costs nor its possible uses settle how to treat it.
+
+**Plain words**
+Left unengaged, the mind does not go blank; it wanders. The research describes both costs (performance, mood) and possible uses (planning, creative problem solving). The compendium's reading matches the page's practice: notice where the mind went, rather than judging the wandering itself.
+
+*For example:* Someone who fills every queue and walk with their phone has removed the unengaged moments the default mode runs in. The compendium's exercise is to leave one such interval unoccupied and notice where the mind goes.
+
+## Sources
+
+- [Raichle (2015), The brain's default mode network, Annual Review of Neuroscience 38:433-447](https://pubmed.ncbi.nlm.nih.gov/25938726/)
+- [Mooneyham & Schooler (2013), The costs and benefits of mind-wandering: a review, Canadian Journal of Experimental Psychology 67(1):11-18](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)
+- [Killingsworth & Gilbert (2010), A wandering mind is an unhappy mind, Science 330(6006):932](https://pubmed.ncbi.nlm.nih.gov/21071660/)
 ## Psychology parallels
 
-- **Default mode network and mind-wandering**, spontaneous thought is a distinct brain mode associated with self-referential processing (Raichle et al., 2001; Buckner et al., 2008)
-- **"A wandering mind is an unhappy mind"**, people are less happy when mind-wandering than when engaged in activity, though the original finding's magnitude is debated (Killingsworth & Gilbert, 2010; Smallwood & Schooler, 2015)
-- **Mind-wandering has both costs (distraction, rumination) and benefits (creativity, planning)** (Baird et al., 2012; Mooneyham & Schooler, 2013)
+- **Default mode network**, the review describes a network of cortical areas whose activity decreases during attention-demanding tasks compared with relaxed nontask states (Raichle, 2015)
+- **Mind-wandering and mood**, smartphone sampling found people thinking about what is not happening almost as often as about what is, and that doing so typically makes them unhappy (Killingsworth & Gilbert, 2010)
+- **Costs and possible functions of mind-wandering**, the review reports typical costs to performance and possible roles in autobiographical planning and creative problem solving (Mooneyham & Schooler, 2013)
 
 ## Philosophy parallels
 
