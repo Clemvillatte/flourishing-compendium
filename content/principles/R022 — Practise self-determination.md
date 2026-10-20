@@ -20,7 +20,7 @@ The Declaration pairs the collective right with an internal dimension, autonomy 
 
 (Aboriginal SEWB framework; United Nations Declaration on the Rights of Indigenous Peoples, 2007.)
 
-**Plain words** Self-determination is a peoples' right: the community runs its own affairs, sets its own priorities, answers for its own decisions. When it is taken away, the harm is not only in the decisions others make — it is in the passivity that settles on a community that has stopped deciding anything for itself. The personal-scale echo is having a real say in the decisions that shape your life; the collective right is what the principle points at, and the personal echo borrows its force.
+**Plain words** The question here is who sets the direction. This right concerns Indigenous peoples collectively — their political status and their economic, social and cultural development — not simply whether an individual gets a choice. The personal-scale echo is wanting a say in the decisions that shape your life; the right itself is about a people running its own affairs.
 
 *For example:* The community that insists the new program be designed with them at the table, not delivered to them — whether it works is theirs to find out, but the designing is theirs either way.
 ## Stories
