@@ -20,19 +20,19 @@ Spinoza defines humility as "pain arising from a man's contemplation of his own 
 
 > Humility is not a virtue, or does not arise from reason.
 >
-> Spinoza, Ethics IV, Proposition LIII, same translation.
+> Spinoza, Ethics IV, Proposition LIII, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
 > As men seldom live under the guidance of reason, these two emotions, namely, Humility and Repentance, as also Hope and Fear, bring more good than harm; hence, as we must sin, we had better sin in that direction.
 >
-> Spinoza, Ethics IV, Proposition LIV, note, same translation.
+> Spinoza, Ethics IV, Proposition LIV, note, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
 (Ethics III, Definitions of the Emotions, XXVI; IV, P53 and P54 note; Elwes translation.)
 
 ### Plain words
 
-Notice what humility is made of, on this definition: pain, from looking at your own weakness. That is what you practice when you practice self-deprecation. For an exercise, keep the accuracy and drop the pain — say what you are middling at the way you would say what time it is.
+On the definition, humility is a technical term: pain from contemplating one's own weakness. It is not the same as an accurate description of a limitation, which can be made without pain. For an exercise, describe something you are middling at plainly, as if reporting a fact, and notice the difference from wincing at it.
 
-For example: One person's self-deprecation is a daily practice of wincing at their own weakness; another says "I'm middling at that" the way they would report the time. The definition separates the two: only the first is doing pain. The illustration is invented; the contrast it marks is the definition's.
+For example: Asked about a skill you have not used in years, you might say "I last did this five years ago and was never quick at it" — a description of a limitation, offered without either boasting or wincing. Whether that description counts as humility is a separate question the definition marks. (An invented illustration.)
 ## Psychology parallels
 
 - **Self-criticism as a risk factor versus [[Self-compassion|self-compassion]] as protective**, the evidence that harsh self-treatment predicts worse outcomes (Neff, 2003; Ferrari et al., 2019)
