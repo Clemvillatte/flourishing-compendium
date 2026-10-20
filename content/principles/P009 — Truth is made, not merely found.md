@@ -20,12 +20,12 @@ Vico's rule is that we can know what we ourselves have made. The New Science arg
 
 > "But in the night of thick darkness enveloping the earliest antiquity, so remote from ourselves, there shines the eternal and never-failing light of a truth beyond all question: that the world of civil society has certainly been made by men, and that its principles are therefore to be found within the modifications of our own human mind." (Vico, Scienza Nuova ¶331, [Bergin & Fisch 1948](https://archive.org/stream/newscienceofgiam030174mbp/newscienceofgiam030174mbp_djvu.txt))
 
-The compendium's extension: the statement's "successfully make and do" is a reading, not Vico's wording. Paragraph 331 claims knowability of the made civil world; it does not promise that making guarantees truth.
+The compendium's extension: the statement's "successfully make and do", "tested in action", and "not a copy of a ready-made world" are the compendium's framings. Paragraph 331 claims knowability of the made civil world; it does not promise that making or doing guarantees truth, nor does it discuss copying.
 
 **Plain words**
-You understand a thing from the inside once you have worked on it. The recipe makes sense after you have cooked it, the argument after you have written one. Reading points at the door; making walks you through it.
+Take a rule you helped make — a team process, a family budget, a personal routine — and reconstruct the choices behind it: what it was answering, what it assumed, what it traded away. If you can rebuild the making, you know it; where you cannot, that is the part you inherited rather than made, and it is the part to examine.
 
-*For example:* The compendium's hypothetical: the student who can explain photosynthesis, next to the one who keeps a plant alive. Ask which one has tested the explanation.
+*For example:* The compendium's hypothetical: asked to explain why a committee's rule exists, one member recites the rule, another reconstructs the drafting fight that produced it. Ask which explanation would survive the rule's next revision.
 
 ## Sources
 
@@ -34,7 +34,7 @@ You understand a thing from the inside once you have worked on it. The recipe ma
 
 ## Psychology parallels
 
-- **[[Constructivist learning theory|Constructivist learning theory]]** — the compendium's formulation: understanding is built through active construction, not passive reception (Piaget; Bruner)
+- **[[Constructivist learning theory|Constructivist learning theory]]** (Piaget; Bruner)
 
 ## Philosophy parallels
 
