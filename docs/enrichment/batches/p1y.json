@@ -7,17 +7,16 @@
   "Y040",
   "SP027",
   "Y083",
-  "SO075",
   "SP010"
  ],
- "in_progress": null,
+ "in_progress": "SO075",
  "flagged": {
   "Y083": "Reopened for QC: QC correction: advisor scope - remove ungrounded generalisations",
-  "SO075": "Reopened for QC: QC correction: advisor scope - remove shift-work mechanism claims",
+  "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
   "SP010": "Reopened for QC: QC correction: advisor scope - narrow to opened passages"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T07:54:54+00:00",
+ "updated": "2026-10-20T07:57:35+00:00",
  "band_done": false
 }
