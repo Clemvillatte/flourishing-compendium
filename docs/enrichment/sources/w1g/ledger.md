@@ -1023,3 +1023,22 @@
 - FAST-TRACK NOTE: saturation hunt skipped per §1a. Worker flag filed in
   concept-namespace-audit.md (identity documented; naming left to supervisor).
 - Validation: --fast-track ok. sources_checked +2.
+
+## The whole in the part (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: Whitehead, Process and Reality (corrected edition, re-typeset PDF,
+  https://data.openml.dev/books/process-and-reality.pdf — the same open edition used
+  by bands p1o/p1r per their ledgers) — the Category of the Ultimate ("The many become
+  one, and are increased by one"), the ontological-principle passage ("every item of
+  the universe... is a constituent in the constitution of any one actual entity",
+  Part II ch. VI §III), "each actual entity is a locus for the universe" (Part II
+  ch. II §VI), "In a sense, every entity pervades the whole world" (Part I ch. II §IV),
+  and "the whole universe in process of attainment of a particular satisfaction"
+  (Part II ch. IX §V) returned verbatim. Blockquote exact with locator.
+- IDENTITY: the seed names Whitehead PR; the title is a compendium heading (not
+  Whitehead's own phrase); the body is bounded to the opened passages. No flag filed
+  (plain descriptive heading over the opened material).
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; [[Concrescence]] (deg 3),
+  [[Holism]] (deg 2), [[Organism-environment transaction]] (deg 3) added with
+  definitional glosses.
+- Validation: --fast-track ok. sources_checked +1.
