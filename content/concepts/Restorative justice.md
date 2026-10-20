@@ -12,7 +12,7 @@ Restorative justice is the family of practices that include face-to-face meeting
 > "A review of research on restorative justice (RJ) in the UK and abroad shows that across 36 direct comparisons to conventional criminal justice (CJ), RJ has, in at least two tests each:
 > - substantially reduced repeat offending for some offenders, but not all;
 > - doubled (or more) the offences brought to justice as diversion from CJ;
-> - reduced crime victims' post-traumatic stress symptoms and related costs;
+> - reduced crime victims’ post-traumatic stress symptoms and related costs;
 > - provided both victims and offenders with more satisfaction with justice than CJ;"
 > — [Lawrence W. Sherman & Heather Strang, Restorative Justice: The Evidence, Smith Institute 2007 (IIRP full PDF)](https://www.iirp.edu/images/pdf/RJ_full_report.pdf)
 
