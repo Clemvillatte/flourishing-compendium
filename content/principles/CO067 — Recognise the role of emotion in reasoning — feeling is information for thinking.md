@@ -16,7 +16,7 @@ The best-known evidence that feelings work as information comes from a decision 
 
 The same literature shows the risk. Schwarz and Clore's well-known study reported higher life satisfaction on sunny days than on rainy days, unless people were first asked about the weather. That finding has not held up well. In over a million Americans, "weather does not reliably affect judgments of life satisfaction" (Lucas and Lawless, 2013, [JPSP 104(5)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3695376/)), and nine larger replications of mood studies found that most gave nonsignificant effects, with the significant ones "substantially smaller" than in earlier research (Yap et al., 2017, abstract, [JPSP 113](https://pubmed.ncbi.nlm.nih.gov/27936835/)).
 
-A feeling is evidence about something, and the work is deciding what. A signal tied to the task can guide you. A mood caused by the weather is a signal about the weather.
+A feeling is evidence about something, and the work is deciding what. A mood caused by the weather is a signal about the weather.
 
 **Plain words**
 A feeling of unease, excitement or dread often reflects something you have noticed without putting it into words. It can also come from tiredness, hunger or a bad morning. Treat it as a lead to investigate, not a verdict. Ask what it is about, and whether it could come from somewhere else.
