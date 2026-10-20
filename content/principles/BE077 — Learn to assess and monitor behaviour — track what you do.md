@@ -14,13 +14,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 
 Behaviour can be tracked, and the tracking itself is a technique. In the CALO-RE taxonomy of behaviour-change techniques, technique 16 is defined:
 
-> "The person is asked to keep a record of specified behaviour(s) as a method for changing behaviour." (Michie et al., 2011, Psychology & Health 26(11):1479-1498, technique 16, [institutional PDF](https://pure.coventry.ac.uk/ws/files/3943184/A%20refined%20taxonomy.pdf))
+> "The person is asked to keep a record of specified behaviour/s as a method for changing behaviour." (Michie et al., 2011, Psychology & Health 26(11):1479-1498, technique 16, [institutional PDF](https://pure.coventry.ac.uk/ws/files/3943184/A%20refined%20taxonomy.pdf); the raw PDF extraction prints "behaviour/s")
 
 The same paper reports the evidence: "Two large-scale systematic reviews using the taxonomy, and conducting meta-regression showed that interventions prompting participants to self-monitor their behaviour were more effective in achieving behaviour change" (Michie et al., 2011, [institutional PDF](https://pure.coventry.ac.uk/ws/files/3943184/A%20refined%20taxonomy.pdf)).
 
 Feedback has a measured record too, with a caution attached. A meta-analysis of 607 effect sizes found that feedback interventions "improved performance on average (d =.41) but that over 1/3 of the FIs decreased performance", and that effectiveness "decreases as attention moves up the hierarchy closer to the self and away from the task" (Kluger & DeNisi, 1996, Psychological Bulletin 119(2):254-284, [record](https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/)).
 
-**Plain words** Memory is a poor witness to your own habits: it smooths, excuses and forgets. A one-line log of what, when and how much does not. Two weeks of entries argue better than a year of impressions. The meta-analysis adds a caution worth keeping: feedback aimed at the self (how good or bad you are) helps less than feedback aimed at the task, and sometimes hurts. So the log works best as a mirror, not a judge.
+**Plain words** Memory is a poor witness to your own habits; a written record is a different kind of witness, not a flawless one. The suggested exercise is a one-line log of what, when and how much, kept for a couple of weeks, so that the next conversation about your habits can point at entries instead of impressions. The meta-analysis adds a caution worth keeping: feedback aimed at the self (how good or bad you are) helps less than feedback aimed at the task, and sometimes hurts. So the log works best as a mirror, not a judge.
 
 **For example:** Imagined: someone who reports "barely drinking" keeps a one-line log for two weeks and finds nine glasses of wine in it. Nothing about the moral question has been settled; what changed is that the number is now on the table, and the next decision can be made with it.
 
