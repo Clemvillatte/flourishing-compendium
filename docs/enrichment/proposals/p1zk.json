@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 19,
+ "revision": 20,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -121,6 +121,12 @@
    "link": "BI051",
    "why": "the vagal and autonomic evidence for touch as soothing",
    "notes": "Evidence in sources/p1zk/BI051.md (Field 2010, Della Longa 2025, Candia-Rivera 2024, all opened). Concept already cites BI051."
+  },
+  {
+   "into": "Physiological sigh (Balban et al., Stanford)",
+   "link": "BI061",
+   "why": "the Stanford breathwork trial comparing cyclic sighing, box breathing and hyperventilation",
+   "notes": "Evidence in sources/p1zk/BI061.md (Balban 2023, Zaccaro 2018, Fincham 2023, all opened). Concept already cites BI061."
   }
  ],
  "inline": []
