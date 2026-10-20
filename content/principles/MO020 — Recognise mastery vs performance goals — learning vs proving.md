@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 20** — Recognise mastery vs performance goals: learning vs proving
 
-Mastery goals (learning, improving, developing) and performance goals (proving ability, outperforming others) have different consequences. Mastery goals are associated with better learning, persistence, and well-being. Performance goals are more fragile (failure threatens the self).
+Elliot and McGregor's 2x2 framework combines mastery and performance goals with approach and avoidance, which yields "mastery-approach, mastery-avoidance, performance-approach, and performance-avoidance goals". Across three studies, the four were statistically independent, each had its own profile of antecedents and consequences, and "the pattern for mastery-avoidance goals was, as anticipated, more negative than that for mastery-approach goals and more positive than that for performance-avoidance goals" (Elliot and McGregor, 2001, abstract, [JPSP 80](https://pubmed.ncbi.nlm.nih.gov/11300582/)). The outcomes they examined included "anticipatory test anxiety, exam performance, health center visits".
 
-**Plain words** Two kinds of goals: get better (mastery) or prove you're good (performance). The second one makes every error a verdict, so you avoid the very challenges that would build you. The first makes errors information. Choose get-better.
+The distinction matters for wellbeing as well as performance. In a study of 91 elite adolescent soccer players measured five times over two seasons, "MAp goals positively, and MAv goals negatively, predicted within-person changes in well-being", while performance-approach goals "was positively associated to within-person changes in negative affect" (Adie, Duda and Ntoumanis, 2010, abstract, [Journal of Sport and Exercise Psychology 32](https://pubmed.ncbi.nlm.nih.gov/20733213/)). The authors say the findings gave "only partial support" for the framework in that setting.
 
-*For example:* The performer who won't attempt the harder piece because they might look bad — the mastery kid attempts it and sounds terrible for three weeks, then sounds like that's nothing they've ever sounded like.
+The slogan "learning versus proving" covers only half of the picture. The framework itself has four goals, and the abstracts I opened do not say that proving yourself is always harmful.
+
+**Plain words**
+Before a task, ask what you are trying to do: get better at it, or show that you are good? Aim at getting better, and aim toward progress, not merely away from failing. A fear-driven mastery goal ("I must not forget what I learned") sits between the healthy and unhealthy ends.
+
+**For example**
+Two students face the same exam. One thinks, "I want to understand this unit well." The other thinks, "I can't be the one who fails." Both study hard, but only the first has a goal that rewards the work for its own sake.
+
+## Sources
+
+- [Elliot and McGregor, A 2 x 2 achievement goal framework, JPSP 80 (2001), 501-519, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11300582/): abstract only
+- [Adie, Duda and Ntoumanis, Achievement goals, competition appraisals, and the well- and ill-being of elite youth soccer players over two competitive seasons, Journal of Sport and Exercise Psychology 32 (2010), 555-579, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/20733213/): abstract only
+
 ## Psychology parallels
 
 - **[[Achievement goal theory (Dweck, Elliot)|Achievement goal theory (Dweck, Elliot)]]**, mastery (learning) goals vs performance (proving) goals (Dweck, 1986; Elliot & Church, 1997)

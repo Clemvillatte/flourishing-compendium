@@ -44,3 +44,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## MO026
 - Oettingen & Mayer 2002, Oettingen, Pak & Schnetter 2001, Wang, Wang & Gai 2021: PubMed abstracts only, quotes exact, authors confirmed.
 - Limits: Stadler 2010, Cross & Sheeran 2004 (inherited) not opened. 'help you drop unlikely goals' follows from the 2001 abstract (weak commitment under unfavourable expectations), marked 'on this account'.
+
+## MO020
+- Elliot & McGregor 2001 (JPSP 80), Adie, Duda & Ntoumanis 2010 (JSEP 32): PubMed abstracts only; quotes exact; authors confirmed.
+- Limits: Dweck 1986 and Elliot & Church 1997 (inherited) not opened. The statement's 'mastery goals -> better learning/persistence' not directly supported by the opened abstracts (only well-being and anxiety/performance profile); body says so. Candidate: Hulleman 2010 meta-analysis (PubMed lookup failed).
