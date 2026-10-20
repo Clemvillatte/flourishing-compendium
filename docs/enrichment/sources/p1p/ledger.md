@@ -464,3 +464,9 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Source opened: https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html (Satipatthana Sutta MN 10, tr. Thanissaro Bhikkhu).
 - Verbatim quotes: sitting-posture/breathing passage ("holding his body erect and setting mindfulness to the fore") and the "sensitive to the entire body / calming bodily fabrication" training passage; body refrain paraphrased with quoted phrase "in & of itself".
 - Locator changed from (MN 10; Thích Nhất Hạnh) to (MN 10): no TNH body-grounding text was opened for this page; TNH references remain in B188 and B185 entries. Noted for supervisor.
+
+### B193 — Live with death lightly in view (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done.
+- Sources opened: https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html (Upajjhatthana Sutta AN 5.57, tr. Thanissaro) and https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html (Dhammapada ch. II, Dhp 21, tr. Thanissaro; dhp.01 pages verified as verses 1-20 only).
+- Verbatim quotes: AN 5.57 framing line and the death fact ("I am subject to death, have not gone beyond death"); Dhp 21 heedfulness verses. Note: Dhp 21 initially misquoted as "the path of death"; corrected to "the path to death" against the opened page.
+- Plain words re-derived (say-the-facts exercise, sorting-not-dread framing); original inbox example kept. Cozzolino/Greenberg parallels left as inherited (not opened this session).
