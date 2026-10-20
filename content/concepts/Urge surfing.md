@@ -11,7 +11,7 @@ Urge surfing is a mindfulness technique from relapse prevention, the addiction-t
 
 > "the client is taught to visualize the urge or craving as a wave, watching it rise and fall as an observer and not to be 'wiped out' by it. This imagery technique is known as 'urge surfing' and refers to conceptualizing the urge or craving as a wave that crests and then washes onto a beach." (Larimer, Palmer & Marlatt, 1999, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/))
 
-The opened overview presents the technique inside addiction treatment, and the compendium's source list credits the Bowen, Chawla and Marlatt mindfulness-based relapse prevention programme alongside Marlatt, Linehan's DBT skills and Taylor. The compendium files it under acceptance-based regulation on the temperance principle, and its Buddhist and Daoist parallels lean on the same separation: watch the state arise and pass, investigate the urge, let things happen of themselves.
+The opened overview presents the technique inside addiction treatment, and the compendium's source list credits the Bowen, Chawla and Marlatt mindfulness-based relapse prevention programme alongside Marlatt, Linehan's DBT skills and Taylor. The overview's language stays marine throughout: the client is taught not to struggle against the wave or give in to it, thereby being "swept away" or "drowned" by the sensation, but to imagine "riding the wave" on a surf board. The compendium files it under acceptance-based regulation on the temperance principle, and its Buddhist and Daoist parallels lean on the same separation: watch the state arise and pass, investigate the urge, let things happen of themselves.
 
 ## Other formulations in this library
 

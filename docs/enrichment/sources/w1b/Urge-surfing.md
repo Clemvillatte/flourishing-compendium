@@ -15,3 +15,15 @@
   acceptance-based regulation" (read from A012's page via mention scan).
 - All seed links preserved; "Other formulations" line kept; seed body line folded into
   the opening paragraph.
+
+## Advisor QC (5th-item milestone round): scope narrowed
+
+- Deleted "spread well past addictions by now; any impulse... can be ridden" (exceeded
+  the opened addiction-treatment passage) and the MBRP history claim ("survives in
+  mindfulness-based relapse prevention" as fact). The page now attributes the
+  Bowen/Chawla/Marlatt and Linehan programmes to the compendium's source list, which
+  was read, and confines the technique's presentation to the opened overview.
+- The marine-language sentence ("swept away"/"drowned"/"riding the wave") is from the
+  same fetched PMC passage, quoted inline.
+- State note: reopen not recorded (single in-progress item was Art completes); repair
+  applied and validated while marked done.

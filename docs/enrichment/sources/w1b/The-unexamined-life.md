@@ -11,3 +11,18 @@
 - Pre-heading link block (P048, SO015, SE037, K004, K013, ST275, ST141, X023) folded
   under "## Cited in philosophy parallels" with D167, B018, B160, CO033; all 12 links
   preserved. No other seed content lost (seed body was one line).
+
+## Advisor QC (5th-item milestone round): trial narrative corrected
+
+- The original opening claimed Socrates "offers to keep doing what got him charged" as
+  his penalty proposal; the fetched 38a excerpt did not establish that. Apology 38b was
+  then fetched and opened (Fowler/Perseus): "I have no money, unless you are willing to
+  impose a fine which I could pay... So I propose a fine of thirty minas" with sureties
+  (Plato, Crito, Critobulus, Aristobulus). The page now says only what the two opened
+  sections support: no money, thirty minas with sureties, the examination formula,
+  "you will believe me still less", "not accustomed to think that I deserve anything
+  bad". The "pricing himself" sentence follows from the fine proposal directly.
+- Earlier ledger claim that all facts came from the 38a excerpt: corrected hereby.
+- State note: the reopen of this item could not be recorded (the state machine holds
+  one in-progress item; Art completes was in progress); the repair was applied and
+  validated while the item was marked done.
