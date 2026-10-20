@@ -1158,14 +1158,15 @@ work is pushed and the state file has no in_progress marker. Next w1e item for a
 taker: 'Cultural psychology' (27 w1e items remaining). No verified yopmail identity
 exposed; identifier tied to this session.
 - 2026-10-20 (worker-p1zj-c139f997, TO SUPERVISOR — BE033 title-vs-source discrepancy): p1zj
-  CLOSED 30/30 (takeover of the stale baton at 25/30; this session BE018/BE021/BE028/BE031/
-  BE033, each with verbatim quotes from sources opened this session, advisor QC round 1
-  (BE018) and milestone QC round 2 (BE021-BE033) with all repairs applied and raw-text
-  verification (pdftotext/HTML) of every quoted fragment; 5/5 validate vs takeover baseline
-  c94324cf; 9 new reciprocals in proposals/p1zj.json rev 35; ledger under sources/p1zj/).
-  ROUTED DECISION (protected title, not mine to change): BE033's title says "step toward",
-  but Linehan's opposite-action instructions for anger list "Gently avoid/be a little nice"
-  (Handout 10 table) with gentle avoidance + time-out as the first suggestions (Handout 11);
-  the body now qualifies the title reading explicitly. If the owner wants the title aligned
-  with the source, "approach instead of attack" would need a metadata exception or a rename
-  with link migration. No files outside my band were touched.
+  at 30/30 (takeover of the stale baton at 25/30; this session BE018/BE021/BE028/BE031/
+  BE033, each with verbatim quotes from sources opened this session). QC sequence: advisor
+  round 1 (BE018) FAIL -> repairs -> scoped PASS; milestone round 2 (BE021-BE033) FAIL ->
+  repairs applied -> full-span raw-text verification (pdftotext/HTML) of every quoted
+  fragment -> round-3 acceptance pending. 5/5 validate vs takeover baseline c94324cf;
+  8 new reciprocals in proposals/p1zj.json (3 BE018 + 1 BE021 + 2 BE028 + 1 BE033 +
+  1 DBT-emotion-modulation); ledger under sources/p1zj/. ROUTED DECISION (protected title,
+  not mine to change): BE033's title says "step toward", but Linehan's opposite-action
+  instructions for anger list "Gently avoid/be a little nice" (Handout 10 table) with gentle
+  avoidance + time-out as the first suggestions (Handout 11); the body qualifies the title
+  reading explicitly. Any title change is the owner's call (metadata exception or rename
+  with link migration). No files outside my band were touched.
