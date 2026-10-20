@@ -12,19 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 171** — Watch your explanatory style
 
-Seligman's construct here is the explanatory style: the habitual way a person explains bad events (and good ones) to themselves. His own summary of the difference between the pessimistic and optimistic versions:
+In a 2026 Beck Institute interview, Seligman contrasts two ways of explaining setbacks:
 
 > What matters is explanatory style. Pessimists explain bad events as permanent, pervasive, and personal. Optimists explain the same events as temporary, specific, and controllable.
 >
 > (Seligman, Beck Institute Q&A about his book Agency, 2026)
 
-The three words are the three dimensions. Permanent asks whether the cause lasts forever. Pervasive asks whether it ruins everything or only this. Personal asks whether it is about you or about circumstances. The practice the principle draws from them is not spin. Seligman adds in the same interview that "the pessimistic style and the excusing style are the same move: both put the cause beyond the reach of your action, one by calling it your permanent defect, the other by calling it someone else's fault." The point is to keep the cause within reach of your action, whichever direction the explanation leans.
+In the same interview, Seligman also warns against explanations that put the cause beyond one's action:
+
+> The pessimistic style and the excusing style are the same move: both put the cause beyond the reach of a person's action—one by calling it the person's permanent defect, the other by calling it someone else's fault.
+
+The compendium uses this contrast as a prompt to examine an explanation and ask which aspects, if any, are open to action.
 
 **Plain words**
-When something goes wrong, you explain it to yourself in a sentence or two. Listen to the sentence. "I always ruin everything" makes the cause permanent, pervasive and personal. "That approach did not fit that situation" makes it temporary, specific and partly circumstantial. The first sentence leaves you nothing to do. The second one leaves you a next move. You do not have to force yourself into the sunny version; you just have to notice when your explanation closes a door that a truer one would leave open.
+After a setback, ask what you know about its cause. Are you treating one event as evidence about every situation or about your whole future? Separate what you can investigate or change from what lies outside your control.
 
 *For example:*
-A journal rejects the manuscript. "I'm a bad writer" is a verdict on your being, and verdicts have no next step. "That draft did not fit that journal" is a claim about one draft and one journal, and it leaves a revision and a next submission available.
+Imagined: a journal rejects a manuscript. Before treating the rejection as evidence of lasting inability, the writer checks the stated reasons and considers what, if anything, to revise. A mismatch with the journal is one possibility to investigate, not an explanation to assume.
 
 ## Sources
 

@@ -697,3 +697,43 @@
   concept pages (Learned optimism, Optimistic explanatory style,
   Redescription, Tragic optimism) already list P171 - no new
   proposals. Validator ok; build ok.
+
+### Item-30 milestone QC round (advisor, 2026-10-20, worker-p1o-72a54432) — P166/P171
+- Round 1 FAIL for both; all repairs applied:
+  P166: 'flatly' removed; Plain words replaced (the 'most
+  acceptance has quiet conditions' generalisation and the repeated
+  Rogers quotation removed; advisor text); For example replaced
+  with the imagined parent-grade illustration (the evening's-plans
+  detail and the 'on Rogers's hypothesis the change is what the
+  acceptance makes room for' application-claim removed).
+  P171: opening narrowed to the interview contrast (the 'habitual
+  way of explaining good and bad events' definition was not
+  established by the opened excerpt); the three-dimensions paragraph
+  replaced with the advisor's warning-introduction + second quote as
+  its own blockquote + compendium prompt sentence; Plain words and
+  For example replaced with the advisor texts (categorical
+  'verdicts have no next step' claims removed; journal mismatch
+  framed as one possibility to investigate).
+- VERIFICATION (advisor round): Beck Institute interview re-fetched
+  UNPROMPTED; the second quotation's actual page wording is 'beyond
+  the reach of a person's action - one by calling it the person's
+  permanent defect' (the prompted extraction had rendered it in the
+  second person: 'your action... your permanent defect'). The P171
+  quote was corrected to the raw page wording; this is a recorded
+  lesson: prompted extractions can paraphrase - verify quotes
+  against unprompted page text before done. First quotation verified
+  verbatim against the raw page. Rogers PDF fetch attempt recorded:
+  fetch_url crawler fails with bad_robots_code on the S3 URL; the
+  curl download + local pdftotext extraction remains the source
+  evidence (same failure class as the palmyreoomen PDF and the
+  Peirce folder).
+- Reflections on all three session items: content unchanged, EOF
+  newline added (the seeds lacked it); earlier 'byte-identical'
+  phrasing in these entries corrected accordingly.
+- Inherited flags note for the supervisor: the P074/P095/P103/
+  P104/P108/P109 state flags record the item-15/20 milestone QC
+  rounds whose repairs were confirmed by the item-20 AFFIRMATIVE
+  advisor PASS (ledger above); they remain in state only because
+  there is no flag-removal command. B014 (QC'd, item 31) and B042
+  (supervisor sample PASS, QC log) likewise. No open QC flag is
+  known to remain against p1o work.
