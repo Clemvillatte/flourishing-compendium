@@ -580,3 +580,21 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   are the principle's own psychology parallels). Growth mindset also lists S092
   (one-directional; moderate fit — the training claim is carried by the existing stress-
   mindset parallel; no action). No new proposal warranted.
+
+## S097 — Recognise that fame after death is meaningless
+- Full work: verbatim quotes added (Marcus, printed as Bk VII §16 — the greedy-of-credit
+  passage with the extinct-memory chain and the immortal-memory retort; Bk X §42 — the
+  hunt-for-fame passage; Bk II §17 — "Fame after life is no better than oblivion... Only one
+  thing, philosophy"), all 4 mechanically verified in file and source. Plain words rewritten
+  as re-derivation (bet on the applause of the unborn). For-example kept. Sources section added.
+- Citation line trimmed to opened evidence (Med., Gutenberg 2680). Removed inherited
+  references, retained here: Med. I.19, II.6, III.4, IV.3, IV.19, V.33, VI.16, VII.6, IX.30,
+  X.8, XI.1, XI.27, XII.21, XII.27.
+- Saturation: mutual links for Contempt for fame and Extrinsic motivation (both list S097
+  and are the principle's own parallel labels). The having mode lists S097 while the
+  principle's philosophy parallels name the Fromm idea in plain text ("The having versus
+  being mode") without linking — inline proposal filed (into S097, concept The having mode).
+  Legacy motivation research lists S097 — tight fit (research on the desire to be
+  remembered) — reciprocal proposal filed. Identified versus introjected motivation also
+  lists S097 — no action (loose fit; existing Extrinsic motivation/Self-determination
+  parallels carry the motivational ground). Proposals file now revision 7, 7 records.

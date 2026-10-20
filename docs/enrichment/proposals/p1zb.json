@@ -1,6 +1,6 @@
 {
  "batch": "p1zb",
- "revision": 6,
+ "revision": 7,
  "records": [
   {
    "action": "reciprocal",
@@ -36,6 +36,21 @@
    "link": "Acts of kindness (Lyubomirsky)",
    "why": "Hospitality puts kindness into practice through ordinary help offered to strangers.",
    "notes": "Proposed by worker-p1zb-9b3f2e68 during S077 saturation check; concept page (opened via rg) links S077; principle currently lacks the return link. [direction corrected round 5: request is to add the concept link into the principle page, whose Related/parallels list lacks it] [round 5: why rewritten as public prose; prior why: The concept page already lists S077; the principle is about practising kindness, and the concept belongs among its psychology parallels.]"
+  },
+  {
+   "action": "inline",
+   "into": "S097",
+   "concept": "The having mode",
+   "phrase": "The having versus being mode",
+   "why": "The principle's philosophy parallels name Fromm's having/being distinction in plain text without linking it.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S097 saturation check; exact phrase matches the parallels label."
+  },
+  {
+   "action": "reciprocal",
+   "into": "S097",
+   "link": "Legacy motivation research",
+   "why": "Legacy motivation research studies the desire to be remembered, which is exactly what this principle argues against valuing.",
+   "notes": "Proposed by worker-p1zb-9b3f2e68 during S097 saturation check; the concept page already lists S097; the principle's psychology parallels lack the return link."
   }
  ]
 }
