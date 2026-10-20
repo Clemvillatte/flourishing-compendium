@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 3** — Think in pairs
 
-The Mesoamerican grammar of reality is dual: day-night, male-female, life-death, upper-lower world are not opposites at war but complements that require each other, and the divine itself is often figured as a pair (Ometeotl, the lord and lady of duality). The practical discipline is to check your thinking for false monism: the insistence on one pole (always strength, always peace, always light) at the expense of its complement. The pairs are held, not resolved. Practically, when you feel forced to choose between two poles you suspect are complementary (rest and work, grief and gratitude), state what each pole does for the other before choosing.
+James Maffie, writing on Nahua (Aztec) thought, says the cosmos shows itself as "the ceaseless, cyclical oscillation of polar yet complementary opposites". The pairs he lists include "life and death, light and darkness, masculine and feminine, dry and wet, hot and cold". They are "mutually interdependent and mutually complementary". In his words, "Life contains the seed of death; death, the fertile, energizing seed of life" (Maffie, "Aztec Philosophy," Internet Encyclopedia of Philosophy, section 2b). He also calls the process "the unending, cyclical tug-of-war or dialectical oscillation of these polarities", so these complements push against each other as well as needing each other.
 
-(Maffie's duality chapters; the Ometeotl presentation in Leon-Portilla.)
+Nahua duality differs from Zoroastrian-style dualisms: "order and disorder, life and death, etc. alternate endlessly without resolution". Death is not "inherently evil" and life not "inherently good" (same section). The divine is likewise a pair. Ometeotl, "Two God," was "a male-female unity" known as "Lord and Lady of our flesh and sustenance" (same article, section 2f, drawing on Leon-Portilla 1963).
 
-**Plain words** The Mesoamerican grammar of reality is dual: day-night, life-death, male-female — not enemies but complements that require each other; even the divine is a pair. So audit your thinking for false monism: the insistence on one pole (always strength, always peace, always light) is the error. Think in pairs.
+**Plain words**
+Many of the things you set against each other, such as rest and work or grief and gratitude, belong together. Before choosing one, ask what each does for the other. Treat a demand for "always strong" or "always calm" as a warning sign.
 
-*For example:* The leader who tried to run the team on pure positivity — and finally pairs it with its twin, honest difficulty, discovering the pair does what the single pole never could.
+**For example**
+A manager insists on constant positivity. After a team member says an honest worry, the group finds problems earlier, and the optimism holds up better.
+
+## Sources
+
+- [James Maffie, "Aztec Philosophy," Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/): opened; section 2b "Dialectical Polar Monism" and 2f "Popular Aztec Religion." Leon-Portilla's The Aztec Image of Self and Universe was not opened; the Ometeotl material is taken from Maffie's account.
+
 ## Psychology parallels
 
 - **[[Integrative complexity|Integrative complexity]]**, the capacity to hold paired perspectives without premature closure, as a predictor of good judgment (Tetlock's research, as framework)

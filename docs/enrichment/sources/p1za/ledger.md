@@ -112,3 +112,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## K066
 - Davis, 'The Kyoto School', SEP (fetched; secondary source quoting Tanabe 1986/2000; sections 3.4 & 4) and Kiyozawa 'The Great Path of Absolute Other-Power' (Heisig trans.) in Buddha Eye (owner's Drive PDF, grep-verified). Segall file had 0 mentions of Tanabe; Buddha Eye anthology contains no Tanabe chapter.
 - Limits: Tanabe's Philosophy as Metanoetics itself NOT opened (copyrighted; quotes are second-hand via SEP, flagged in Sources). Statement's 'recovery literature serenity' not supported by any source; body says the link is the wiki's own. Example hypothetical.
+
+## M003
+- Maffie, 'Aztec Philosophy', IEP (fetched; sections 2b & 2f): 11 quotations grep-verified.
+- Limits: Leon-Portilla (inherited citation) not opened; Ometeotl material attributed to Maffie's account. Maffie's text stresses agonistic tug-of-war and no resolution; body keeps this nuance (statement's 'not opposites at war' is softer than Maffie). Statement says 'Mesoamerican'; sources cover Nahua/Aztec specifically, body says Nahua. Maffie's book chapters (Aztec Philosophy 2014) not opened. Example hypothetical.
