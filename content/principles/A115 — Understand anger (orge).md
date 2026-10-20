@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 115** — Understand anger (orge)
 
-Aristotle defines anger as a distressed desire for conspicuous revenge caused by a conspicuous slight. Anger involves a judgment: that you have been wronged and that revenge is appropriate. Examine the judgment behind your anger. Is the slight real? Is revenge appropriate?
+The Rhetoric opens its account of the emotions with anger, defined:
 
-(Rhetoric II.2; NE IV.5.)
+> "Anger may be defined as an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight directed without justification towards what concerns oneself or towards what concerns one's friends." ([Rhetoric II.2, Rhys Roberts translation, MIT Classics](http://classics.mit.edu/Aristotle/rhetoric.2.ii.html))
 
-**Plain words** Aristotle defines anger as distress wanting visible revenge after a visible slight. It contains a judgement: that you've been wronged and revenge fits. So check both. Was the slight real, and is revenge appropriate?
+The slight itself is an opinion: "slighting is the actively entertained opinion of something as obviously of no importance", with three kinds, "contempt, spite, and insolence". Anger is also attended by "a certain pleasure-that which arises from the expectation of revenge", and it differs from hatred: "anger can be cured by time; but hatred cannot. The one aims at giving pain to its object, the other at doing him harm; the angry man wants his victims to feel; the hater does not mind whether they feel or not." The Ethics sets the mean around it: "The man who is angry at the right things and with the right people, and, further, as he ought, when he ought, and as long as he ought, is praised" ([NE IV.5, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)).
 
-*For example:* Someone didn't thank you in a meeting. You feel angry. Asking "was that a slight, or just forgetfulness?" changes what you do next.
+The compendium's exercise: when anger arrives, write down the slight as the angry account gives it, and check the two opinions inside it: that the slight was intentional, and that revenge is what it demands.
+
+**Plain words** Aristotle defines anger as a painful impulse to get visible revenge for a visible slight. The slight is an opinion: that the other treated you as worth nothing, and on purpose. Check the opinion before acting on it.
+
+*For example (imagined):* Someone not thanked at a meeting writes down the moment, and checks whether their account of it reads forgetfulness or insult.
 
 ## Stories
 
