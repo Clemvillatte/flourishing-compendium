@@ -3,12 +3,12 @@
  "done": [
   "K051"
  ],
- "in_progress": null,
+ "in_progress": "K065",
  "flagged": {
   "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:04:35+00:00",
+ "updated": "2026-10-20T10:05:10+00:00",
  "band_done": false
 }
