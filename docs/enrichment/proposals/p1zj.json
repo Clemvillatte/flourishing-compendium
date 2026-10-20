@@ -1,6 +1,6 @@
 {
   "batch": "p1zj",
-  "revision": 33,
+  "revision": 35,
   "records": [
     {
       "action": "reciprocal",
@@ -391,8 +391,15 @@
       "action": "reciprocal",
       "into": "Anger regulation research",
       "link": "BE033",
-      "why": "listed for comparison with opposite action as a response-modulation approach for anger",
+      "why": "listed for comparison with the anger-related opposite-action skill",
       "notes": "target page read before proposing; the page organises regulation by Gross's five families, response modulation is where opposite action sits"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Dialectical behaviour therapy, emotion modulation",
+      "link": "BE033",
+      "why": "listed for comparison with the anger application of the opposite-action skill",
+      "notes": "target page read before proposing; the page describes opposite action as the best-known change skill; BE033 applies it to anger"
     }
   ]
 }

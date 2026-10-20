@@ -16,11 +16,11 @@ Interoceptive exposure treats fear of the body's own signals. A scoping review o
 
 > "Interoceptive exposure (IE) involves the use of exercises, activities or tasks to intentionally induce (or exacerbate) physical symptoms in the body, to challenge misconceptions about the harmful nature of the physical symptoms that maintains fear and problematic avoidance." ([Farris, Derby & Kibbey, Psychological Bulletin, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11905771/))
 
-The review traces the method to its origin: it "was originally developed for the cognitive-behavioral treatment and prevention of panic disorder", and the goal is that individuals "intentionally and repeatedly experience and endure physical sensations without escaping or avoiding them". The exercises are deliberately ordinary: "breathing through a thin cocktail straw, running in place (or going up stairs), tensing muscles (or pushups), breath-holding, spinning in an office chair (or while standing), voluntary room-air hyperventilation (over-breathing)". Practice runs in short bouts with rest, "conducted in a safe and controlled manner with guidance or supervision, and then assigned as homework for repeated practice".
+The review traces the method to its origin: it "was originally developed for the cognitive-behavioral treatment and prevention of panic disorder", and the goal is that individuals "intentionally and repeatedly experience and endure physical sensations without escaping or avoiding them". The exercises are deliberately ordinary ones, such as breathing through a thin straw, running in place, breath-holding, spinning in a chair and voluntary hyperventilation. Practice runs in short bouts with rest, "conducted in a safe and controlled manner with guidance or supervision, and then assigned as homework for repeated practice".
 
-**Plain words** A panic attack can make the body feel dangerous: racing heart, dizziness, breath that will not come. Interoceptive exposure runs that fear backwards. Bring the sensation on, small and on purpose, and stay with it while it passes. Spinning in a chair looks absurd until you notice it is exactly the dizziness you have been avoiding. Each round gives the alarm system a new memory: the sensation arrived, nothing broke.
+**Plain words** If a bodily sensation has become frightening, the exercise focuses on experiencing it and examining the feared outcome. Work with a clinician to choose an appropriate exercise and plan practice. Afterwards, compare what you expected with what you observed.
 
-*For example* Imagined: with a therapist's supervision, someone who fears a pounding heart runs in place in short bouts, resting between them, then repeats the exercise at home as homework. The exercise is chosen for the exact sensation they avoid.
+*For example* Imagined: with a therapist's supervision, someone who fears a pounding heart runs in place in short bouts, resting between them; the same exercise is later part of the homework plan they agreed with the therapist.
 
 ## Sources
 
@@ -39,4 +39,4 @@ The review traces the method to its origin: it "was originally developed for the
 
 ## Practice
 
-- If you fear bodily sensations (racing heart, dizziness, breathlessness), induce them deliberately in graded, supervised practice: spin, hyperventilate briefly, exercise, in short bouts with rest.
+- If a bodily sensation has become frightening, follow the exercise and homework plan agreed with your clinician.

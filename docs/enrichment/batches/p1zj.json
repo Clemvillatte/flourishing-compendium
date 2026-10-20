@@ -54,10 +54,14 @@
   "AT029": "Reopened for QC: milestone-4 QC repair",
   "AT032": "Reopened for QC: milestone-4 QC repair",
   "AT033": "Reopened for QC: milestone-4 QC repair",
-  "BE018": "Reopened for QC: QC round 1 (advisor, first item): drop but-only necessary-condition reading, drop two-kind/three-category taxonomy, remove guaranteed-outcome plain words/example, repair Practice efficacy claim, reduce antidepressant/Bandura parallels to bare references"
+  "BE018": "Reopened for QC: QC round 1 (advisor, first item): drop but-only necessary-condition reading, drop two-kind/three-category taxonomy, remove guaranteed-outcome plain words/example, repair Practice efficacy claim, reduce antidepressant/Bandura parallels to bare references",
+  "BE021": "Reopened for QC: milestone QC (advisor): repairs per round-2 findings (verbatim-quote scoping, plain-words outcome claims, BE033 handout attribution + title qualification)",
+  "BE028": "Reopened for QC: milestone QC (advisor): repairs per round-2 findings (verbatim-quote scoping, plain-words outcome claims, BE033 handout attribution + title qualification)",
+  "BE031": "Reopened for QC: milestone QC (advisor): repairs per round-2 findings (verbatim-quote scoping, plain-words outcome claims, BE033 handout attribution + title qualification)",
+  "BE033": "Reopened for QC: milestone QC (advisor): repairs per round-2 findings (verbatim-quote scoping, plain-words outcome claims, BE033 handout attribution + title qualification)"
  },
  "missing_concepts": [],
  "sources_checked": 6,
- "updated": "2026-10-20T11:28:09+00:00",
+ "updated": "2026-10-20T11:34:05+00:00",
  "band_done": false
 }
