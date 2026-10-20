@@ -12,13 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 271** — Practise respect for elders
 
-Value the wisdom that comes with age and experience. In African traditions, elders are not merely older people but are those who have accumulated wisdom through living. Respect them by listening to them, seeking their counsel, and deferring to their judgment in matters of communal importance.
+Fainos Mangena's account of Shona learning describes an exchange between generations: elders tell stories of their youth, and younger people consider what those experiences mean for life now ([Hunhu/Ubuntu, section 6c](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/)).
 
-Fainos Mangena's account of Shona knowledge gives this principle a particular setting: learning can involve "listening to elders telling stories of their experiences as youths" and considering how those experiences bear on life now ([Hunhu/Ubuntu, section 6c](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/)). The elder offers remembered situations, not merely instructions detached from a life ([Mangena, section 6c](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/)).
+> "listening to elders telling stories of their experiences as youths" (Mangena, [section 6c](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/); excerpt).
 
-In his account of Shona/Ndebele ethics, respect also helps carry communal values between generations; he describes it as a requirement of that tradition, rather than treating older people as optional advisers ([Mangena, section 6b](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/)). That is a specific philosophical account, not a description of every African community ([Mangena, introduction and section 2](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/)).
-
-Respecting experience need not mean claiming that a birthday produces wisdom: in the Berlin wisdom research, adulthood brought no average age-related increase in the tested wisdom knowledge, and age was not sufficient for exceptional performance ([Baltes and Staudinger, 2000, pp. 127–128](https://pure.mpg.de/rest/items/item_2102711_4/component/file_2102710/content)). The practical invitation is to make room for experience before deciding what guidance fits your situation.
+Respect in this account carries communal values, but older age alone is not proof of the wisdom measured in psychological research ([Mangena, section 6b](https://iep.utm.edu/hunhu-ubuntu-southern-african-thought/); [Baltes and Staudinger, 2000, pp. 127–128](https://pure.mpg.de/rest/items/item_2102711_4/component/file_2102710/content)).
 
 **Plain words** Let someone finish the story before asking for the lesson. Ask what they tried, what went wrong and what they would do differently; then consider which parts still apply.
 
@@ -33,7 +31,7 @@ Respecting experience need not mean claiming that a birthday produces wisdom: in
 ## Psychology parallels
 
 - **[[Wisdom|Wisdom and aging]]**: Baltes and Staudinger distinguish accumulated life experience from the relatively rare performance their framework calls wisdom; older age alone did not ensure it ([2000 review, pp. 127–128](https://pure.mpg.de/rest/items/item_2102711_4/component/file_2102710/content)).
-- **[[Generativity and ego integrity]]**: in a two-wave Hong Kong study of 188 older adults, lower perceived respect predicted a small decline in concern for the next generation; the convenience sample and observational design limit generalisation and causal claims ([Cheng, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2654990/)).
+- **Generativity**: in a two-wave Hong Kong study of 188 older adults, lower perceived respect predicted a small decline in concern for the next generation; the convenience sample and observational design limit generalisation and causal claims ([Cheng, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC2654990/)).
 
 ## Philosophy parallels
 
