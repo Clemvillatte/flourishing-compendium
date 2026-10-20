@@ -26,7 +26,8 @@
   "The craft of attention",
   "The dizziness of freedom",
   "The evidence base for community-level intervention",
-  "The expanding self"
+  "The expanding self",
+  "The social gradient of health"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,6 +42,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-20T12:08:37+00:00",
+ "updated": "2026-10-20T12:09:38+00:00",
  "band_done": false
 }
