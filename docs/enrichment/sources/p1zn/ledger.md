@@ -75,3 +75,8 @@
 - Opened: Epictetus Enchiridion 1 (Carter); Marcus Med. IV (Long), IV.7; Kahneman & Klein 2009 abstract (PMID 19739881).
 - Not opened: Disc. I.20, I.28; Med. VI.13, XI.18; Seneca De Ira III.36; Bennett-Levy 2004; Peirce; James.
 - Note: Epictetus's test is the control-sorting question, not empirical observation; observing the world is the compendium's addition. Kahneman & Klein is about intuition, not prediction logging.
+
+## S055 — Do not argue with impressions
+- Opened: Epictetus Discourses (Long selection, Gutenberg #10661), chapter "How we should struggle against appearances" (II.18 by standard numbering); Enchiridion 1 (Carter); Bowen & Marlatt 2009 abstract (PMID 20025372).
+- Not opened: Disc. I.1, I.20, III.3; Med. VII.35; Hayes 2011; Heidegger; Laozi.
+- Note: Epictetus advises pausing and testing the impression, not passively letting it pass; "visitor" and "fighting gives it energy" are the compendium's.
