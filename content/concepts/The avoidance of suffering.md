@@ -7,35 +7,34 @@ file: "The avoidance of suffering"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The avoidance of suffering names a pattern Buddhist psychology puts near the centre of the Second Noble Truth: rather than facing unsatisfactory experience, the mind reaches for what will make it go away. The canonical formula does not say life hurts so run; it says the friction is fed by craving, and avoidance is one of craving's favourite shapes ([Thanissaro Bhikkhu, SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)).
+In Buddhist psychology, the reflex to flee unsatisfactory experience is named as aversion, one of the three unwholesome roots alongside greed and delusion ([IEP, "Buddha"](https://www.iep.utm.edu/buddha/)). The Pali Nikāyas list the roots as greed (lobha), aversion (dosa) and delusion (moha). The Second Noble Truth names craving (tanha) as the origin of suffering; aversion and craving are treated together as causes of suffering and rebirth in the IEP account.
 
 > "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming."
 > — [Thanissaro Bhikkhu, Dhammacakkappavattana Sutta SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
 
-The three cravings name three directions of flight. Sensual pleasure is avoidance by substitution; craving for non-becoming is avoidance by annihilation, wishing the situation gone.
-
-The compendium treats the pattern as self-maintaining rather than self-solving. Facing is not wallowing; it is the diagnostic step the diagnosis requires, and the beginning of what the other truths call cessation.
+The concept's scope in Buddhist texts is aversion to unpleasant sensation, not the everyday English word "avoidance". A compendium note: the title is the compendium's own label; the canonical term is aversion (dosa).
 
 ### In the compendium
 
-- [[B001 — Face suffering directly]] — the counter-principle: the second arrow is added by resistance
-- [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]] — the operant-mechanism reading
-- [[E064 — Practise meaning through the attitude toward suffering]] — what remains once avoidance is dropped
-- [[SE028 — Learn mindful self-awareness — hold your experience without over-identifying]] — the replacement skill
-- [[SP034 — Distinguish shame from guilt's signal]] — the social side of the same reflex
+- [[B001 — Face suffering directly]] — the counter-principle
+- [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]] — the operant reading
+- [[E064 — Practise meaning through the attitude toward suffering]] — attitude as a lever
+- [[SE028 — Learn mindful self-awareness — hold your experience without over-identifying]] — a non-avoidant stance
+- [[SP034 — Distinguish shame from guilt's signal]] — the social side
 - [[MO045 — Recognise procrastination as emotion regulation, not laziness]] — the everyday case
 
 ## Related concepts
 
-- [[Dukkha]] — the unsatisfactoriness the reflex flees
-- [[Tanha]] — the craving that fuels it, per SN 56.11
-- [[Four Noble Truths]] — the frame this sits inside
-- [[Experiential avoidance theory]] — the psychology-lab version of the same pattern
+- [[Dukkha]] — the unsatisfactoriness aversion reacts to
+- [[Tanha]] — the paired root the sutta names
+- [[Four Noble Truths]] — the frame
+- [[Experiential avoidance theory]] — the psychology construct closest to this reflex
 - [[The second arrow]] — the suffering that is added, not given
 
 ## Sources
 
 - [Thanissaro Bhikkhu, Dhammacakkappavattana Sutta SN 56.11 (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the Second Noble Truth quotation
+- [Internet Encyclopedia of Philosophy, "Buddha"](https://www.iep.utm.edu/buddha/) — the aversion (dosa) reading and the three unwholesome roots
 - Buddhism, Second Noble Truth (original seed line, kept)
 
 [[SP034 — Distinguish shame from guilt's signal]]

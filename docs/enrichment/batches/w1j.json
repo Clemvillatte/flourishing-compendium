@@ -4,8 +4,11 @@
   "The avoidance of suffering"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "The avoidance of suffering": "Reopened for QC: advisor QC round 1 FAIL: concept-existence gate unmet (avoidance is not a canonical Buddhist term; aversion/dosa is), unsupported interpretation, unsupported cross-link clause; repaired with IEP-verified dosa framing; re-review pending"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:43:41+00:00"
+ "updated": "2026-10-20T06:45:48+00:00",
+ "band_done": false
 }
