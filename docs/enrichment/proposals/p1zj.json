@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 25,
+ "revision": 26,
  "records": [
   {
    "action": "reciprocal",
@@ -322,6 +322,20 @@
    "into": "Neurodiversity",
    "link": "AT074",
    "why": "listed for comparison with the principle's variation-not-deficit reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Transtheoretical model (Prochaska & DiClemente)",
+   "link": "BE007",
+   "why": "listed for comparison with the principle's stages-of-change reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Gradual training",
+   "link": "BE007",
+   "why": "listed for comparison with the principle's stages-of-change reading",
    "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]

@@ -204,3 +204,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "gifts/strengths" value claim labelled as the compendium's application (the studies establish pattern variation, not value); Singer 1998 / Kapp et al. 2013 citations dropped from the neurodiversity-paradigm parallel (unopened; wikilink kept, target page referenced).
 - Plain words: replicate fixed; example relabelled as imagined case.
 - Proposals: reciprocals into Neurodiversity paradigm, Neurodiversity, and ADHD: interest-based attention (ADHD lead read this session; the other two to be read before save).
+
+## BE007 — Understand that behaviour change follows stages: precontemplation to maintenance
+- Evidence: Prochaska & Velicer 1997, Am J Health Promotion 12(1) 38-48, full text (Harvard-hosted PDF), fetched this session. Four sentences verified verbatim (six-stage abstract sentence; precontemplation and maintenance definitions; 40/40/20 rule of thumb).
+- Scope: staircase-for-any-behaviour use labelled as the compendium's application (the model was developed for health behaviours in at-risk populations); stage-matched-interventions-effectiveness parallel removed (Prochaska et al. 1992 / Spencer et al. 2006 not opened); Prochaska & DiClemente 1983 citations reduced to the opened 1997 paper.
+- Plain words: replicate fixed; example relabelled as imagined case.
+- Proposals: reciprocals into Transtheoretical model (Prochaska & DiClemente), Gradual training, The journey of a thousand miles (leads to be read before save).
