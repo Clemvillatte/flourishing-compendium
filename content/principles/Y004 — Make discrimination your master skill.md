@@ -12,18 +12,28 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 4** — Make discrimination your master skill
 
-Viveka, the discernment of what is what, is named by the tradition as the blade that cuts the root. It is not intelligence in general; it is the trained capacity to tell the fleeting from the stable, the useful from the true, the map from the territory, at the moment of choice. Practically, build one discriminating question into each day's hardest moment: "What here is actually what it appears to be?"
+In the Woods translation, Yoga Sūtra 2.26 names the means of escape: "the means of attaining escape is unwavering discriminative discernment" (viveka-khyāti). Sūtra 2.28 places the same discernment at the far end of practice: after the aids to yoga have been followed up and impurity has dwindled, there is an enlightenment of perception reaching up to the discriminative discernment. Viveka here is not intelligence in general; it is a discernment the sutras call unwavering, trained through the practice of yoga's aids, and exercised at the moment of choice. The compendium exercise builds it in directly: at each day's hardest moment, ask what here is actually what it appears to be.
 
-(YS 2.26; Vivekachudamani, attributed to Shankara.)
+> The means of attaining escape is unwavering discriminative discernment.
+>
+> Patañjali, Yoga Sūtra 2.26, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
-**Plain words** Viveka, discrimination: not intelligence in general, but the trained capacity to tell the fleeting from the stable, the useful from the true, the map from the territory — at the moment it matters. The tradition calls it the blade that cuts the root. Make it your master skill.
+**Plain words**
+The sutra names unwavering discriminative discernment as the means of escape. The training is a question asked at the moment of choice: what here is actually what it appears to be? Ask it once a day, at the hardest moment.
 
-*For example:* In a panic about the business, someone stops and sorts the fears into "fleeting weather" versus "structural fact" — half the list evaporates, and the other half becomes an actual to-do list.
+**For example**
+In an imagined exercise, someone in a business panic lists their fears and marks each one as either passing weather or structural fact, producing two columns without deleting anything.
+
 ## Psychology parallels
 
-- **[[Wise reasoning|Wise reasoning as trainable judgment]]**, including perspective-taking, intellectual humility, and recognition of uncertainty (Grossmann & Kross, 2014)
+- **[[Wise reasoning|Wise reasoning as trainable judgment]]** (Grossmann & Kross, 2014)
 
 ## Philosophy parallels
 
 - **Adequate versus inadequate ideas** (Spinoza, Ethics II)
-- **[[Phronesis|Phronesis as discernment in context]]** (Aristotle, Nicomachean Ethics VI)- **[[Viveka|Viveka]]** (Yoga-Vedanta)
+- **[[Phronesis|Phronesis as discernment in context]]** (Aristotle, Nicomachean Ethics VI)
+- **[[Viveka|Viveka]]** (Yoga-Vedanta)
+
+## Sources
+
+- [The Yoga Sūtras of Patañjali, Woods translation (1914), reprinted](https://www.theessentialway.org/yoga-sutras/) — 2.26, 2.28
