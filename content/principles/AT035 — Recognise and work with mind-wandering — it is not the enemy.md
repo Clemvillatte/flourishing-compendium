@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 35** — Recognise and work with mind-wandering: it is not the enemy
 
-Mind-wandering is a name for the mind's default drift, and it happens constantly. In Killingsworth and Gilbert's iPhone study, in which thousands of people answered what they were doing and how happy they were at random moments, minds were wandering in 46.9% of the samples, and the time-lag analyses suggested the wandering generally came before the unhappiness rather than after it. (Killingsworth & Gilbert, 2010.)
+In Killingsworth and Gilbert's iPhone study, participants reported mind-wandering in 46.9% of samples. The authors interpreted their time-lag analyses as suggesting that mind-wandering contributed to unhappiness in their sample. (Killingsworth & Gilbert, 2010.)
 
 > "In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost." (Killingsworth & Gilbert, 2010, [Science 330:932](https://pdodds.w3.uvm.edu/files/papers/others/everything/killingsworth2010a.pdf))
 
-The compendium's principle takes its title from the other half of the literature. Mooneyham and Schooler's review found substantial evidence that mind-wandering costs performance, and also emerging evidence that it plays a role in autobiographical planning and creative problem solving, which are reasons to manage wandering rather than try to abolish it. (Mooneyham & Schooler, 2013.)
+Mooneyham and Schooler reviewed evidence of performance costs alongside possible roles in autobiographical planning and creative problem solving. The compendium reads these findings as reasons to consider when to follow an unrelated thought and when to return to the task. (Mooneyham & Schooler, 2013.)
 
 > "However, emerging evidence suggests that the role of mind-wandering is not entirely pernicious. Recent studies have shown that mind-wandering may play a crucial role in both autobiographical planning and creative problem solving, thus providing at least two possible adaptive functions of the phenomenon." (Mooneyham & Schooler, 2013, [Canadian Journal of Experimental Psychology 67(1):11-18](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf))
 
 **Plain words**
-Your mind drifts on its own, and the drift is not a character defect. It costs you when it pulls you out of what you are doing, and it can be doing useful work when it plans ahead or turns a problem over. The manage move is to notice where it went, and decide whether that is where it should be.
+An unrelated thought may concern a future plan or a problem you want to explore. During reading, decide whether to follow that thought now or return to the page. You can set aside another time to consider it.
 
-*For example:* Someone missing chunks of a book decides to park a pad beside the bed for the nighttime worries, so the worries can be written down instead of carried into the reading.
+*For example:* Imagine noticing a thought about tomorrow while reading. Write it down, then choose whether to continue reading or spend a few minutes considering it.
 
 ## Sources
 
