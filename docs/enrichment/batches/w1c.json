@@ -65,7 +65,8 @@
   "Clinical thresholds for depression, anxiety, PTSD, and bipolar disorder",
   "Cognitive restructuring",
   "Collective efficacy",
-  "Collective responsibility"
+  "Collective responsibility",
+  "Conduct even in just war"
  ],
  "in_progress": null,
  "flagged": {
@@ -100,7 +101,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T08:26:31+00:00",
+ "updated": "2026-10-20T08:27:28+00:00",
  "band_done": false,
  "new_concepts": [
   {
