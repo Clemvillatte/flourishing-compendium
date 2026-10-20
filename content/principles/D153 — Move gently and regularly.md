@@ -12,17 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 153** — Move gently and regularly
 
-Daoyin: stretching, guided movement, walking: the body is meant to move daily, not to be wrung out weekly.
+The gentle half of this principle comes from the Daodejing. Chapter 76 reads a rule off the life cycle: man at his birth is supple and weak, at his death firm and strong; trees and plants in their early growth are soft and brittle, at their death dry and withered. The chapter concludes that softness and weakness are the concomitants of life, and that he who relies on the strength of his forces does not conquer. The regular half comes from the Neiye's practice instruction, to be firm and regular in the practice and hold fast to it. The yangsheng tradition's movement practice, daoyin (the Mawangdui Daoyin tu, dated 168 BC, shows forty-four figures in stretching and breathing postures), belongs to this second half.
 
-([[Yangsheng (cultivating vitality)|Yangsheng]] literature.)
+([[Yangsheng (cultivating vitality)|Yangsheng]] literature; DDJ 76; Neiye 17.)
 
-**Plain words** Daoyin — stretching, guided movement, walking: the body is meant to move daily, not to be wrung out weekly. Gentle and regular beats heroic and rare. The weekend warrior is a person negotiating with a debt collector.
+> "Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life." (DDJ 76, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-*For example:* The daily 20-minute walk does more for the back than the monthly three-hour gym penance.
+The compendium joins the two halves: the Daodejing supplies the texture of the movement, soft rather than forced; the Neiye supplies its schedule, regular rather than heroic.
+
+**Plain words**
+Two sources, two halves. In the Daodejing's image, what is alive is soft, new plants and newborns, and what is hard is on the way to dead. In the Neiye's instruction, the practice is to be regular, something you hold fast to. Put together, a movement practice is soft in texture and unremarkable in schedule. Ask of your current exercise which half it fails: too hard, or too rare.
+
+*For example:* Imagine a choice between a daily ten-minute walk and a monthly three-hour session. The principle's two sources object to the monthly one on different grounds: it is hard, and it is rare.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 76
+- [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verse XVII
+- [Daoyin, Wikipedia](https://en.wikipedia.org/wiki/Daoyin) — definition and Mawangdui Daoyin tu
 
 ## Psychology parallels
 
-- **Exercise as an antidepressant**, moderate effects in meta-analyses, often recommended as adjunctive or first-line support for mild-to-moderate symptoms depending on severity and context (Schuch et al., 2016)
+- **Exercise as an antidepressant** (Schuch et al., 2016)
 - **[[Movement snacks|Movement snacks]]**, research on brief daily activity bursts
 
 ## Philosophy parallels
