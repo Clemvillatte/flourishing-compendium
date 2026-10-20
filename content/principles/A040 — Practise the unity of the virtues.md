@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 40** — Practise the unity of the virtues
 
-The virtues are not isolated dispositions. They form a unified character. Courage without temperance is recklessness; generosity without justice is caprice. Work on the whole person, not on isolated virtues.
+In Book VI of the Ethics the virtues come out as one fabric rather than a set of separate traits. Virtue sets the target and practical wisdom finds the way: "for virtue makes us aim at the right mark, and practical wisdom makes us take the right means." The natural dispositions children and brutes have can even be hurtful without reason: "while one may be led astray by them, as a strong body which moves without sight may stumble badly because of its lack of sight, still, if a man once acquires reason, that makes a difference in action." ([Nicomachean Ethics VI.12-13, Ross translation, MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
-(NE VI.12-13, X.9; EE VIII.3.)
+Aristotle reports and half-corrects Socrates here: "in thinking that all the virtues were forms of practical wisdom he was wrong, but in saying they implied practical wisdom he was right." The upshot is stated flatly:
 
-**Plain words** Virtues aren't separate gadgets. They're one character. Courage without temperance turns reckless. Generosity without justice turns arbitrary. So don't polish one trait and ignore the rest. Work on the whole person.
+> "It is clear, then, from what has been said, that it is not possible to be good in the strict sense without practical wisdom, nor practically wise without moral virtue."
 
-*For example:* Someone proud of being brave who ignores fairness will cheerfully charge in to rescue one friend while shortchanging everyone else.
+And again: natural virtues can exist separately, "but not in respect of those in respect of which a man is called without qualification good; for with the presence of the one quality, practical wisdom, will be given all the virtues." A character is one thing; polishing a single trait in isolation is not how it becomes good.
+
+The compendium's exercise: pick a virtue you are proud of, name the virtue that checks it (courage's temperance, generosity's justice), and review one recent action for the pair.
+
+**Plain words** The virtues are not separate skills. In Aristotle's picture they come as one character: full virtue needs practical wisdom, and practical wisdom brings all the virtues with it. A strong trait without the rest can even do harm, like a strong body without sight.
+
+*For example (imagined):* Someone proud of courage reviews a rescue of a friend and notices they had been shortchanging others in the same week.
 
 ## Practice kernels
 

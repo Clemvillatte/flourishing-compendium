@@ -21,7 +21,8 @@
   "Y105",
   "Y110",
   "A020",
-  "A032"
+  "A032",
+  "A040"
  ],
  "in_progress": null,
  "flagged": {
@@ -34,6 +35,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:28:17+00:00",
+ "updated": "2026-10-20T10:28:48+00:00",
  "band_done": false
 }
