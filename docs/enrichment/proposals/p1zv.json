@@ -1,6 +1,6 @@
 {
  "batch": "p1zv",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Truthfulness",
@@ -61,6 +61,18 @@
    "link": "S117",
    "why": "A Stoic principle on turning setbacks into material for the next attempt",
    "notes": "S117 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (no S117 occurrence in content/concepts/Resilience.md; the S107 proposal is a separate record); grounded in S117's Med. V.20 obstacle quote verified against the opened Long text."
+  },
+  {
+   "into": "Impermanence",
+   "link": "S118",
+   "why": "A Stoic principle on accepting loss as return",
+   "notes": "S118 (2026-10-21, worker-p1zv-95f93b33): hub read earlier this session (cites S095/S128, no S118 occurrence); grounded in S118's Ench. 11 restored-not-lost quote verified against the extracted Long text."
+  },
+  {
+   "into": "Acceptance",
+   "link": "S118",
+   "why": "A Stoic principle on accepting what was given back",
+   "notes": "S118 (2026-10-21, worker-p1zv-95f93b33): hub inspected via occurrence search (content/concepts/Acceptance.md has no S118 occurrence); grounded in S118's Ench. 11 quote verified against the extracted Long text."
   }
  ]
 }

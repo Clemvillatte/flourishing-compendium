@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 240** — Handle loss without devastation
 
-Loss is a part of life. The Stoic faces loss with acceptance: what was given can be taken. The only thing that cannot be taken is your character. When you lose something, return to what remains: your capacity for virtue.
+Epictetus changes the verb. Loss says "I have lost it"; the exercise says "I have restored it":
 
-(Ench. 11, 15; Med. II.11, IV.1, VI.14; Seneca, Letters 24, 91, 99, 107; Disc. I.1, I.25, III.24.)
+> "Never say about any thing, I have lost it, but say I have restored it. Is your child dead? It has been restored. Is your wife dead? She has been restored. Has your estate been taken from you? Has not then this also been restored?" (Epictetus, Enchiridion 11, trans. George Long, [Delphi Complete Works of Epictetus](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view))
 
-**Plain words** Loss is part of life. What was given can be taken. The only thing that can't be taken is your character. When you lose something, return to what remains: your capacity for virtue.
+The same section handles the grievance: "But he who has taken it from me is a bad man. But what is it to you, by whose hands the giver demanded it back?" (Enchiridion 11). The holding instruction follows: "So long as he may allow you, take care of it as a thing which belongs to another, as travellers do with their inn" (Enchiridion 11).
 
-*For example:* After a house fire, a family rebuilds routines before the house, starting with sitting down to eat together.
+(Ench. 11.)
+
+**Plain words**
+As a practical exercise, take one thing you are afraid of losing and describe it as held rather than owned: who gave it, for how long, and what you would still control on the day it goes back. Epictetus's verb change is the whole exercise: restored, not lost.
+
+*For example (imagined):* After a house fire, a family rebuilds routines before the house, starting with sitting down to eat together.
+
+## Sources
+
+- [Epictetus, Enchiridion 11 (George Long translation, Delphi Complete Works of Epictetus)](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view)
 
 ## Psychology parallels
 
