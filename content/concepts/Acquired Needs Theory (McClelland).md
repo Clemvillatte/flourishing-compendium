@@ -15,7 +15,7 @@ The "acquired" half of the name is the theory's signature claim: motives can be 
 
 ### What each need predicts
 
-On the theory's usual summary, McClelland stated that every person has these three types of motivation regardless of age, sex, race, or culture, while the type by which each individual is driven derives from life experiences and culture. The need for achievement shows in a preference for tasks of moderate difficulty in which results are based on one's own efforts, with feedback available; the need for affiliation shows in maintaining social relationships, collaboration over competition, and adherence to workplace norms for fear of rejection; the need for power shows in valuing discipline, status recognition, winning arguments and influencing others. McClelland and Burnham's 1975 Harvard Business Review research, as the opened summary has it, found people in top management positions had a high need for power and a low need for affiliation.
+On the theory's usual summary, McClelland stated that every person has these three types of motivation regardless of age, sex, race, or culture, while the type by which each individual is driven derives from life experiences and culture. The need for achievement shows in a preference for tasks of moderate difficulty in which results are based on one's own efforts, with feedback available; the need for affiliation shows in maintaining social relationships, collaboration over competition, and adherence to workplace norms for fear of rejection; the need for power shows in valuing discipline, status recognition, winning arguments and influencing others. McClelland and Burnham's Harvard Business Review research, as the opened summary has it, found people in top management positions had a high need for power and a low need for affiliation.
 
 ### In the compendium
 
@@ -42,7 +42,7 @@ Industrial Organizational · Psychological science
 ## Sources
 
 - [McClelland, D. C., "Toward a theory of motive acquisition" (1965), American Psychologist 20(5), 321-333, via Semantic Scholar](https://www.semanticscholar.org/paper/TOWARD-A-THEORY-OF-MOTIVE-ACQUISITION.-Mcclelland/5c0b6494564e4487eef171c4b8282fc91fffdeec) — the research-program opening (verified verbatim on the opened record) and the adult-motive-development project against childhood-fixation views
-- [Need theory, Wikipedia](https://en.wikipedia.org/wiki/Need_theory) — the three-needs summary sentences, the moderate-difficulty/feedback and affiliation/power predictions, and the 1975 McClelland and Burnham finding (verified verbatim on the opened page)
+- [Need theory, Wikipedia](https://en.wikipedia.org/wiki/Need_theory) — the three-needs summary sentences, the moderate-difficulty/feedback and affiliation/power predictions, and the McClelland and Burnham top-management finding (verified verbatim on the opened page)
 
 ## Cited in philosophy parallels
 

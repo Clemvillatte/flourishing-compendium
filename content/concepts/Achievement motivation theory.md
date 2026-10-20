@@ -17,9 +17,9 @@ The two motives do not simply add up. When fear of failure outweighs the achieve
 
 ### In the compendium
 
-- [[MO019 — Learn to set approach goals, not avoidance goals]] — the Elliot and McGregor valence distinction (success-construed versus failure-construed competence) is the modern descendant of Atkinson's approach/avoidance pairing.
+- [[MO019 — Learn to set approach goals, not avoidance goals]] — Elliot and McGregor's valence distinction: competence construed in terms of success or of failure.
 - [[SE039 — Cultivate possible selves — who could you become]] — Markus and Nurius's possible selves include what one is afraid of becoming, and such selves function as incentives.
-- [[PP015 — Cultivate hope as a process]] — Snyder's hope pairs pathways with the motivation to pursue them; the pursuit half sits where Atkinson put expectancy and incentive.
+- [[PP015 — Cultivate hope as a process]] — Snyder's hope pairs pathways with the motivation to pursue them.
 - [[SE017 — Recognise and manage the inner critic — harsh self-talk is not motivation]] — the compendium's treatment of the inner critic separates fear-driven striving from productive motivation, the same distinction the theory turns into two motives.
 - [[MO070 — Recognise motivation and ageing — motivation changes across lifespan]] — Carstensen's socioemotional selectivity theory: knowledge-related goals like achievement lose priority as perceived time horizons shorten.
 - [[MO075 — Build motivational maintenance — ongoing practice and adaptation]] — goal adjustment, not only pursuit, is the compendium's maintenance answer to stuck motivation.
@@ -41,9 +41,9 @@ Affect · Psychological science
 ## Related concepts
 
 - [[Achievement goal theory (Dweck, Elliot)]] — the framework distinguishing learning and performance goals within achievement motivation
-- [[Self-efficacy]] — the belief term of the expectancy component, developed later by Bandura
-- [[Hope]] — Snyder's pathways-plus-agency construct, a cognitivist descendant of the expectancy term
-- [[Flow]] — the challenge-skill match sits at the same intermediate difficulty the theory's strong-achievement prediction favours
+- [[Self-efficacy]]
+- [[Hope]] — Snyder's pathways-plus-agency construct
+- [[Flow]] — the challenge-skill balance concept
 
 ## Sources
 

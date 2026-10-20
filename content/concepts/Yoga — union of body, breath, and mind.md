@@ -11,9 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 > Yoga is defined by Patañjali as "citta vṛtti nirodha" (YS I.2), the stilling of all states of the citta. — [Yoga Sutras of Patanjali, Internet Encyclopedia of Philosophy](https://iep.utm.edu/yoga/)
 
-### The posture practice is the young part
+### The posture-centred presentation is the young part
 
-The bodily-pose framing is recent. The IEP article counts roughly 900 references to yoga in the Mahābhārata and notes that posture, āsana, appears only twice among them; neither the Upaniṣads nor the Bhagavad Gītā mention posture "in the sense of stretching exercises and bodily poses", and Patañjali gives it three brief sūtras. On the IEP's reading, treating yoga as primarily or even exclusively āsana "is essentially a modern Western phenomenon and finds no precedent in the premodern Yoga tradition". The compendium's title keeps both halves: the classical definition by mental stilling, and the modern pairing of body, breath and mind in one practice.
+A framing of yoga centred on bodily poses is recent. The IEP article counts roughly 900 references to yoga in the Mahābhārata and notes that posture, āsana, appears only twice among them; neither the Upaniṣads nor the Bhagavad Gītā mention posture "in the sense of stretching exercises and bodily poses", and Patañjali gives it three brief sūtras. On the IEP's reading, treating yoga as primarily or even exclusively āsana "is essentially a modern Western phenomenon and finds no precedent in the premodern Yoga tradition". The classical system still contains posture as one limb among eight; what is modern is the presentation of yoga as mainly posture. The compendium's title keeps both halves: the classical definition by mental stilling, and the modern pairing of body, breath and mind in one practice.
 
 ### In the compendium
 
@@ -32,7 +32,7 @@ The bodily-pose framing is recent. The IEP article counts roughly 900 references
 - [[Samadhi]] — the absorbed state the eight limbs build toward
 - [[Karma yoga]] — the Gītā's path of action under the same word
 - [[Yoga physiology theory]] — the compendium's page on postures, breath and meditation acting on stress physiology
-- [[Walking meditation]] — the other mindful-movement practice paired with yoga in BI029's evidence
+- [[Walking meditation]] — another mindful-movement practice; BI029's evidence compared yoga with metabolically matched plain walking
 - [[The rhythm of breath]] — breath timing shared with the practice's slow-paced breathing
 
 ## Sources

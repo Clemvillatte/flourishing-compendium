@@ -1301,3 +1301,47 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   namespace-audit entry.
 - Saturation: skipped per fast-track §1a (degree 9 < 15); no cross-link
   proposals filed. Advisor QC: not due (item 4; next at item 5).
+
+## Anger reappraisal (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible; item 5 advisor milestone)
+
+- OPENED: Gross 2015 "Emotion regulation: Current status and future prospects",
+  Psychological Inquiry 26(1), PDF at
+  http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf — prompt
+  extraction AND raw fetch; blockquote ("Cognitive change refers to modifying
+  one's appraisal of a situation in order to alter its emotional impact.")
+  verified character-for-character in the raw text; locator confirmed: Cognitive
+  Change subsection, printed page 8 (raw text carries the "8 GROSS" page marker
+  immediately before the heading). Down-regulation findings, intensity limit,
+  controllability moderation (Troy et al.) grounded in the opened text.
+  OPENED: Bushman 2002 via the Semantic Scholar record (faculty.washington.edu
+  PDF fetch failed); abstract text quoted from the record's reproduced
+  Description field, disclosed as such in the page's Sources line.
+- Advisor QC round 1 (item-5 milestone): FAIL with blocking repairs, ALL
+  APPLIED: (1) controllability gloss reversed — fixed to the opened direction
+  (reappraisal of controllable stressors less adaptive than of uncontrollable);
+  (2) "targets either the meaning..." inline quote de-quoted (I had silently
+  dropped "(as in the aforementioned examples)") and replaced with paraphrase;
+  (3) Bushman-tested-reappraisal confusion removed ("This experiment tested
+  rumination and distraction during venting, not cognitive reappraisal.");
+  (4) opening narrowed (best-studied → the source's claim structure; intensity
+  wording de-categoricalized); (5) blockquote locator added (p. 8, Cognitive
+  Change subsection); (6) Halperin 2013 field-study paraphrase dropped
+  (prompt-extraction only, not raw-verified); (7) "standard demonstration" /
+  "folk alternative" / "Reappraisal enters" staging removed; (8) ST205 bullet
+  reduced to a literal description (claim about voluntary judgment removed);
+  (9) B105 bullet reduced to the literal usefulness question.
+- Advisor round 1 ALSO flagged three earlier items; repairs applied and
+  re-validated (0 lost links, validator ok): YOGA — Walking-meditation gloss
+  corrected (BI029's comparison used metabolically matched plain walking, not
+  walking meditation); posture claim split (the classical system contains
+  posture as one limb among eight; what is modern is the posture-centred
+  presentation, per the IEP quote). ACHIEVEMENT MOTIVATION — "modern
+  descendant" (MO019), "cognitivist descendant" (Hope), agency/expecancy
+  equivalence (PP015), Self-efficacy/Flow historical glosses removed or made
+  literal. ACQUIRED NEEDS — 1975 year dropped (opened summary says 1977;
+  year omitted); blockquote replaced with the reproduced paper-text wording
+  ("Despite these difficulties a program of research... our knowledge...")
+  disclosed as reproduced in the Semantic Scholar record (my round-1 quote had
+  been the record's synopsis, not the paper text).
+- Saturation: skipped per fast-track §1a (degree 9 < 15); no cross-link
+  proposals filed.
