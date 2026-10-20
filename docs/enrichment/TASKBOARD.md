@@ -71,7 +71,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | claimed | worker-p1m-a4d81c92 (band p1m closed 30/30; claiming p1r) | 2026-10-20 |
 | p1s | selected ranks 1138-1349 | P168 to D106 (30 priority items) | p1s | claimed | worker-p1s-3f7c9a52 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1t | selected ranks 1350-1435 | D109 to P102 (30 priority items; 21 Daoist) | p1t | claimed | worker-p1t-6b8f0c93 | 2026-10-20 |
-| p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | partial: 20 in-band done; milestone-20 advisor blocked by credits; P114 started, untouched; scope correction in ledger | worker-p1u-4c6332a6 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
+| p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | claimed (takeover from released worker-p1u-4c6332a6; 20/30 in-band done; resuming owed milestone-20 QC then P114 + 9 remaining P items) | worker-p1u-8a7ab96d (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
 | p1v | selected ranks 1615-1762 | P053 to B197 (18 priority items; PRIORITY POOL NOW FULLY DRAINED) | p1v | OPEN | unclaimed | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
