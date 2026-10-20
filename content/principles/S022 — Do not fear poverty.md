@@ -18,15 +18,15 @@ Seneca's remedy for the fear of poverty is rehearsal: live briefly on the minimu
 
 (Seneca, Letters to Lucilius 18, trans. Richard M. Gummere; [opened text, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18).)
 
-His reasoning: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress" ([same opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)). The Stoic account of poverty as a dispreferred indifferent, not an evil, makes the rehearsal readable: you test whether living well really depends on the bank balance.
+His reasoning: "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress" (Seneca, [Letter 18, opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18)). The exercise tests the judgement that a poor life is unbearable while basic needs are met.
 
 ### Plain words
 
-The dread of having less is usually bigger than having less. You can test it cheaply: eat simply, dress plainly, and see if the floor falls out. The point is not to romanticise the poverty that others have not chosen; the point is to stop the fear deciding your choices for you.
+Seneca proposes a rehearsal, not a verdict. If your basic needs are secure, try a short period without an optional expense and record what you actually miss. The experiment does not reproduce prolonged, involuntary poverty; it tests one specific fear under controlled conditions.
 
 ### For example
 
-Someone afraid of losing their income can run a cheap-week experiment: usual spending halved, the pantry emptied to its base. The week answers a question the fear could not: how bad is it, actually, and what turned out to be dispensable.
+Someone afraid of losing their income can run a cheap-week experiment: usual spending halved, the pantry emptied to its base, notes kept on what was genuinely missed versus what was habit. The record, not the discomfort, is the yield.
 
 ## Practice kernels
 

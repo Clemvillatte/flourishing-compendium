@@ -12,21 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 365** — Practise communitarian critique
 
-Sandel gives the liberal picture of the person a name: a self "essentially unencumbered, bounded in advance and given prior to its ends, a pure subject of agency and possession, ultimately thin" ([Liberalism and the Limits of Justice, opened full text](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595)). The critique is not that freedom is worthless; it is that this self is too thin to do the work it is asked to do:
+In Sandel's reading of Rawls's theory of justice, the person is a self "essentially unencumbered, bounded in advance and given prior to its ends, a pure subject of agency and possession, ultimately thin" (Sandel, [Liberalism and the Limits of Justice, opened text](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595)). His objection is that this self is too thin to do the work the theory asks of it:
 
 > Where the self is unencumbered and essentially dispossessed, no person is left for self-reflection to reflect upon.
 
-(Sandel, Liberalism and the Limits of Justice, Cambridge University Press, p. 155 as printed in the opened copy; [opened full text, Charles University repository](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595).)
+(Sandel, Liberalism and the Limits of Justice; [opened text, Charles University repository](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595).)
 
 The practice: when a claim or a plan assumes a chooser with no history, test it against the person actually doing the choosing, with their family and their language.
 
 ### Plain words
 
-The self-made person is a story told with some of the evidence left out. Nobody chose their mother tongue or their first idea of success. The critique keeps the freedom and drops the myth: you choose from inside a life you did not pick.
+The self-made person is a story told with some of the evidence left out. You did not choose your mother tongue, and your first idea of success arrived before you could vet it. On Sandel's account, you choose from inside a life you did not pick.
 
 ### For example
 
-Suppose someone describes themselves as completely self-made. The effort may be real; the description is the problem. Where did the work ethic come from, and the first idea of what counts as success? The trail usually leads back through particular people.
+Suppose someone describes themselves as completely self-made. The effort may be real; the description is the problem. Where did the work ethic come from, and the first idea of what counts as success? Those are questions the description cannot answer.
+
 ## Psychology parallels
 
 - **[[Cultural psychology|Cultural psychology]]** (Shweder, 1991; Markus and Kitayama, 1991)

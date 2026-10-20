@@ -23,14 +23,14 @@
   "R088",
   "R102",
   "R103",
+  "S026",
+  "S016",
   "R112",
   "R118",
-  "S016",
-  "S022",
-  "S024",
   "S025",
-  "S026",
-  "S032"
+  "S022",
+  "S032",
+  "S024"
  ],
  "in_progress": null,
  "flagged": {
@@ -40,10 +40,20 @@
   "R028": "Reopened for QC: QC correction round 3: two unsupported glosses removed; Treasury context quote restored exactly",
   "R040": "Reopened for QC: QC correction round 3: Taskforce brief restored as blockquoted list per the opened source",
   "R042": "Reopened for QC: QC correction (R070 milestone review): Vaa Moana book year corrected to 2026; Tui Atua framing bounded; plain words gap wording aligned to Wendt",
-  "R061": "Reopened for QC: QC correction round 3: unverified I.n locator labels replaced with descriptive anchors"
+  "R061": "Reopened for QC: QC correction round 3: unverified I.n locator labels replaced with descriptive anchors",
+  "S026": "Reopened for QC: QC: quote completeness, cupboard claim, example arithmetic, triad, citation labels",
+  "S016": "Reopened for QC: QC: quote completeness, envy-guarantee removal, citation labels",
+  "R112": "Reopened for QC: QC: exact quote boundaries, narrowed claims, publication attribution",
+  "R118": "Reopened for QC: QC: nonconsecutive quotations split with locators",
+  "S025": "Reopened for QC: QC: preferred-indifferent classification, outcome claim, citation labels",
+  "S022": "Reopened for QC: QC: dread claim, dispreferred-indifferent classification, example outcome",
+  "S032": "Reopened for QC: QC: empirical assurances, example concreteness, attribution",
+  "S024": "Reopened for QC: QC: fears triad, citation labels",
+  "R102": "QC round 2 applied after done: pagination/publisher claims removed, Plain words triad removed, example generalized; ledger updated",
+  "R103": "QC round 2 applied after done: Rawls attribution, pagination claims removed, outcome claim removed; ledger updated"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:16:09+00:00",
- "band_done": true
+ "updated": "2026-10-20T14:21:41+00:00",
+ "band_done": false
 }

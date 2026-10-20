@@ -18,15 +18,15 @@ Marcus Aurelius wrote his morning reminder for exactly this: he will meet the un
 
 (Marcus Aurelius, Meditations II.1, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-The same passage names the wrongdoer as "akin to me", participating in the same intelligence and portion of the divinity ([same opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)), which is why the instruction is patience and teaching rather than payback.
+The same passage names the wrongdoer as "akin to me", participating in the same intelligence and portion of the divinity (Marcus Aurelius, [Meditations II.1, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)), which is why the instruction is patience and teaching rather than payback.
 
 ### Plain words
 
-People mostly do not act badly on purpose; they act badly from a wrong picture of what is good. The move that works better than anger is curiosity about the picture: what does this person think they are protecting? Cooperation is not approval; it is declining to be vexed and to turn away.
+Marcus's account is that people do not act badly from malice but from "ignorance of what is good and evil". The exercise he sets is to treat the wrongdoer as a kinsman and ask what wrong picture of the good is doing the work. Cooperation, on this account, is not approval; it is declining to be vexed and to turn away.
 
 ### For example
 
-A coworker takes credit for your work. Before the confrontation, you can run the Stoic question: what does he think he is protecting? The answer rarely excuses the theft; it changes the conversation from payback to correction.
+A coworker presents your work as his in a meeting. The next step on Marcus's account is concrete: name the specific contribution, ask that the record be corrected, and ask him directly what he thought he was protecting. The question may or may not change him; it is what keeps the correction from becoming payback.
 
 ## Psychology parallels
 

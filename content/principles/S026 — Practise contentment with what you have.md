@@ -12,21 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 148** — Practise contentment with what you have
 
-Marcus Aurelius puts the Stoic's self-sufficiency in a surprising place: not a cabin, but one's own mind ([Meditations IV.3, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+Marcus Aurelius puts the Stoic's self-sufficiency somewhere unexpected: in one's own mind ([Meditations IV.3, Long translation; opened text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
-> Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul.
+> Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind.
 
-(Marcus Aurelius, Meditations IV.3, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
+(Marcus Aurelius, Meditations IV.3, trans. George Long; [opened text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-Seneca adds the guard against misreading: "In this sense the wise man is self-sufficient, that he can do without friends, not that he desires to do without them" ([Letters to Lucilius 9, Gummere translation; opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_9)). Contentment (autarkeia) is the capacity to be well regardless of circumstances, with the appetite still attached to people.
+Seneca adds the guard against misreading: "In this sense the wise man is self-sufficient, that he can do without friends, not that he desires to do without them" (Seneca, [Letters to Lucilius 9, Gummere translation](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_9)). Contentment (autarkeia) is the capacity to be well regardless of circumstances, with the appetite still attached to people.
 
 ### Plain words
 
-You need less than you want, and most of what you need is already in the cupboard. Contentment is not the absence of wanting; it is the ability to be well while a want is unsatisfied. The practice is running the count: what is actually missing from today?
+Contentment, in this account, is the ability to be well while a want is unsatisfied. It is not the absence of wanting. The Stoic exercise is running the count: what is actually missing from today?
 
 ### For example
 
-Someone opens the cupboard, finds three ingredients short of the planned recipe, and cooks the other recipe instead of going out for the fourth. A small case of the whole skill: working with the actual inventory rather than the imagined one.
+Someone opens the cupboard, finds one ingredient short of the planned recipe, and cooks a different meal with what is there. A small case of the skill Marcus is pointing at: working with the actual inventory rather than the imagined one.
 
 ## Psychology parallels
 

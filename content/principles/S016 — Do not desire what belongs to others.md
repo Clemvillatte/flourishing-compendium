@@ -12,17 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 138** — Do not desire what belongs to others
 
-Marcus Aurelius traces envy upstream to what you value. If you count applause and possessions as goods, envy follows of necessity ([Meditations VI.16, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
+Marcus Aurelius traces envy upstream to what you value. If you count applause and possessions as goods, envy follows of necessity ([Meditations VI.16, Long translation](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
-> For of necessity thou must be envious, jealous, and suspicious of those who can take away those things, and plot against those who have that which is valued by thee. Of necessity a man must be altogether in a state of perturbation who wants any of these things; and besides, he must often find fault with the gods. But to reverence and honor thy own mind will make thee content with thyself, and in harmony with society, and in agreement with the gods.
+> For of necessity thou must be envious, jealous, and suspicious of those who can take away those things, and plot against those who have that which is valued by thee. Of necessity a man must be altogether in a state of perturbation who wants any of these things; and besides, he must often find fault with the gods. But to reverence and honor thy own mind will make thee content with thyself, and in harmony with society, and in agreement with the gods, that is, praising all that they give and have ordered.
 
-(Marcus Aurelius, Meditations VI.16, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
+(Marcus Aurelius, Meditations VI.16, trans. George Long; [Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-The remedy is a change of valuation rather than a suppression of feeling. What you reverence in your own mind and conduct cannot be outdone by a neighbour, so gladness at another's good fortune stops competing with your own count.
+The remedy he proposes is a change of valuation rather than a suppression of feeling: reverence for one's own mind and conduct, which a neighbour's success does not touch.
 
 ### Plain words
 
-Envy comes from wanting what someone else has. The Stoic move is upstream of the feeling: check what you are counting. If you count applause and possessions, envy is guaranteed, because those can be taken or outdone. If you count your own conduct, envy has nothing to feed on. Then another person's success can be just good news.
+Envy comes from wanting what someone else has. The Stoic exercise is upstream of the feeling: check what you are counting. If you count applause and possessions, envy has its material. If you count your own conduct, the count is in your hands.
 
 ### For example
 

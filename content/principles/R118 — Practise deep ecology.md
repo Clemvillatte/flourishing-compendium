@@ -12,15 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 380** — Practise deep ecology
 
-Naess's 1973 summary of the two movements gives the shallow one a flat definition and the deep one a different starting picture (["The Shallow and the Deep, Long-Range Ecology Movement. A Summary", Inquiry 16, pp. 95-96; opened full text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)):
+Naess's 1973 summary gives the two movements their definitions. Of the shallow movement he writes (["The Shallow and the Deep, Long-Range Ecology Movement. A Summary", Inquiry 16; opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)):
 
 > The Shallow Ecology movement: Fight against pollution and resource depletion. Central objective: the health and affluence of people in the developed countries.
->
+
+Of the deep movement's second point he writes:
+
 > Biospherical egalitarianism — in principle. The 'in principle' clause is inserted because any realistic praxis necessitates some killing, exploitation, and suppression.
 
-(Naess, "The Shallow and the Deep, Long-Range Ecology Movement. A Summary", Inquiry 16, 1973, pp. 95-96; [opened full text, Charles University repository](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716).)
+(Naess, "The Shallow and the Deep, Long-Range Ecology Movement. A Summary", Inquiry 16, 1973; [opened text, Charles University repository](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716).)
 
-The deep movement's first move is a change of picture: rejection of "the man-in-environment image in favour of the relational, total-field image", with organisms as "knots in the biospherical net or field of intrinsic relations" ([same opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)). Its value axiom is the "equal right to live and blossom", whose restriction to humans Naess calls an anthropocentrism ([same opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)).
+The deep movement's first move, in Naess's numbering, is a change of picture: rejection of "the man-in-environment image in favour of the relational, total-field image", with organisms as "knots in the biospherical net or field of intrinsic relations" (Naess, [same article, opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)). Its value axiom is the "equal right to live and blossom", whose restriction to humans Naess calls an anthropocentrism (Naess, [same article, opened text](https://is.cuni.cz/studium/predmety/index.php?do=download&did=169208&kod=AFS100716)).
 
 ### Plain words
 
