@@ -12,11 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 17** — Learn to use light deliberately: morning light, evening dark
 
-Light is the primary circadian cue. Morning light (especially bright outdoor light) entrains the circadian clock and improves sleep. Evening light (especially blue light from screens) disrupts melatonin and impairs sleep.
+> Participants reading an LE-eBook took longer to fall asleep and had reduced evening sleepiness, reduced melatonin secretion, later timing of their circadian clock, and reduced next-morning alertness than when reading a printed book.
 
-**Plain words** Light is the master clock-setter: bright outdoor light in the morning anchors the whole system, evening light (screens) drags it. Morning light is the cheapest antidepressant that exists — outdoor, eyes open, ten minutes.
+(Chang, Aeschbach, Duffy and Czeisler, "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness," Proceedings of the National Academy of Sciences 112(4), 2015, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/25535358/). "LE-eBook" means an electronic book on a light-emitting device.)
 
-*For example:* Coffee on the balcony instead of at the counter — the day's whole chemistry gets an anchor point. The sun through a window is weak sauce; the sky is the real dose.
+For daytime light, Wright and colleagues found that electrical lighting and the constructed environment were "associated with reduced exposure to sunlight during the day, increased light exposure after sunset, and a delayed timing of the circadian clock" compared with camping in a natural light-dark cycle. After exposure to only natural light, "the internal circadian clock synchronizes to solar time" (Current Biology 23(16), 2013, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/23910656/)). A systematic review of 67 studies found that screen time was adversely associated with sleep in 90% of them, mainly shorter duration and delayed timing, while noting that "causal association" was "not confirmed" (Hale and Guan, Sleep Medicine Reviews 21, 2015; [PubMed](https://pubmed.ncbi.nlm.nih.gov/25193149/)). That review covers children and adolescents.
+
+The entry's claims that morning light is "the cheapest antidepressant that exists" and that sky light is the "real dose" while window light is "weak sauce" were not found in these abstracts and have been dropped. The Czeisler et al. (1989) paper cited in the psychology section was not opened.
+
+**Plain words** Light tells your body clock what time it is. Reading on a lit screen in the evening was shown to delay the clock and cut melatonin compared with a printed book, and camping in natural light brought their clocks into step with solar time. So bright light by day and dim light at night are worth arranging on purpose.
+
+*For example:* Having coffee outside in the morning gives the day a fixed point. Reading a paper book in the evening instead of a lit screen keeps the night's signal clear.
+
+## Sources
+
+- [Chang et al. (2015), PNAS 112(4), 1232-1237](https://pubmed.ncbi.nlm.nih.gov/25535358/) — PubMed abstract opened
+- [Wright et al. (2013), Curr Biol 23(16), 1554-1558](https://pubmed.ncbi.nlm.nih.gov/23910656/) — PubMed abstract opened
+- [Hale & Guan (2015), Sleep Med Rev 21, 50-58](https://pubmed.ncbi.nlm.nih.gov/25193149/) — PubMed abstract opened
+
 ## Psychology parallels
 
 - **Light and circadian rhythm (Czeisler, Wright)**, morning light exposure entrains the circadian clock (Czeisler et al., 1989; Wright et al., 2013)

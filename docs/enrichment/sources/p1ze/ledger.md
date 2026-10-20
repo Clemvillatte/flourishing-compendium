@@ -153,3 +153,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Scope: "first-line" grounded in the guideline's Standard recommendation and the sustained-improvement contrast; "cognitive restructuring" replaced by the guideline's "cognitive therapy"; the blockquote's em dash is verbatim source text in a quote line; Riemann et al. 2010 removed, Morin et al. 2006 and Perlis et al. 2005 kept as references.
 - Saturation: 2 reciprocals proposed (Right association, Sleep deprivation); BROKEN LINK FLAG: the Right association concept links [[BE039 — Learn CBT-I — the gold standard for insomnia]], a non-existent ID (correct: BI016); flagged in the proposal notes for supervisor repair. Sleep architecture (Walker) and Sabbath judged tangential.
 - QC: not a milestone item (item 19 of 30); validator pass vs pre-item baseline fd771ce9.
+
+## BI017 — Light: morning light, evening dark
+- Sources opened: PubMed abstracts for Chang et al. 2015 (PMID 25535358), Wright et al. 2013 (23910656), Hale & Guan 2015 (25193149). Quotes verified verbatim against abstracts.
+- Removed unsourced claims ("cheapest antidepressant", "sky is the real dose", "weak sauce"). Czeisler 1989 not opened; stated as such in the body.
+- QC: self-QC only; validator pass vs c2a3ee47.
