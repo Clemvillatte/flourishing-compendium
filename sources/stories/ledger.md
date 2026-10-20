@@ -421,10 +421,19 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   rounds recorded in the draft's QC notes) integrated as ST348, chapter
   ST-S03.02 (Meaning, Truth, and Workability), by supervisor
   storyteller-6cf9c268.
-- Supervisor verification before integration: all 20 quotations in the
-  draft's evidence ledger re-checked against the opened sources
-  (Marxists Internet Archive A Confession parts 4, 7, 13; authorama
-  Varieties lectures VI-VIII) — 20/20 verbatim matches.
+- Supervisor verification before integration — CORRECTED RECORD: the
+  first pass was 19 substring checks, not 20 complete-quotation
+  comparisons, and was mislabelled "20/20". A second, complete audit
+  then compared every quotation on the published page as a full string
+  against the opened sources (MIA A Confession parts 4, 7, 13; authorama
+  Varieties lectures VI-VIII): all three blockquotes matched complete
+  (including the rope-and-gun blockquote end-to-end), all inline
+  quotations matched complete, both ellipsis boundaries were opened and
+  checked (BQ2 omits the fairy-tongue sentence of the same passage; BQ3
+  omits the labouring people's stated meaning — both honest bridges), and
+  the fable details (dragon, mice, honey on the leaves) and the four-ways
+  list were verified against Part 4 / Part 7. Result: complete audit
+  clean; the earlier "20/20" claim is superseded by this record.
 - story_check --context published: 0 errors. Structural validation:
   ST348 flags only the known new-file no-baseline condition (real check
   post-commit); structure file shows the two documented false positives;

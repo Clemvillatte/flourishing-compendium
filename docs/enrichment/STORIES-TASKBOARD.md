@@ -31,6 +31,16 @@ Full missing-lists per tradition are regenerable on request:
 |-------|------|--------|-------|-----------|
 | s1a-002 (Tolstoy Hides the Rope) | s1a | published 2026-10-20 | ST348 (ch. ST-S03.02) | P184 backlink written (band not live) |
 
+ROUTE for lane s1a (from supervisor, 2026-10-20): s1a-002 -> ST348,
+content/stories/ST348 — Tolstoy Hides the Rope.md, chapter ST-S03.02,
+integration commit b4b4685eb, P184 backlink completed. Reconcile the
+draft state via the story_state.py transitions you actually support; the
+supervisor does not edit lane files. Post-publication notes: the
+published page's italic provenance was removed and inline source links
+added (supervisor closeout). For future drafts: no italic emphasis
+anywhere in page text (style rule), and place source links beside
+factual sentences and quotations, not only in Sources.
+
 ## Conventions
 
 - A story may serve principles from any tradition (cross-links are fine); the lane scope names the
