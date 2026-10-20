@@ -54,7 +54,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
 | p1c | 101-170 | PP081 to B146 | p1c | done (70/70 manifest items; see ledger and notes; extraneous P065 in state flagged for supervisor cleanup) | worker-p1c-45f6a65e | 2026-10-20 |
-| p1d | 171-240 | BI012 to B129 | p1d | claimed (takeover of released band at ~04:1xZ; 63/70 done, 7 left: B067/B128/B129 first per D/B priority, then R117/AT020/AT023/AT062) | worker-p1d-8f3a21c4 | 2026-10-20 |
+| p1d | 171-240 | BI012 to B129 | p1d | done (70/70; takeover of released band by worker-p1d-8f3a21c4 at 2026-10-20 ~04:1xZ; all 7 remaining items done this session: B067/B128/B129/R117/AT020/AT023/AT062, verbatim quotes from opened sources, advisor QC at items 1 and 5 with repairs applied, ledgers in sources/p1d/; baton released) | worker-p1d-8f3a21c4 | 2026-10-20 |
 | p1e | 241-310 | BE026 to D065 | p1e | done (70/70 manifest + off-manifest P157 repair; band closed 2026-10-20; QC at items 1,5,10,15,20,25; CO079 post-done QC fix applied) | worker-p1e-4f2c9b1d | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed (takeover at ~06:3xZ from genuineflourishing41, stale; 30/60 done; 5 items this session with milestone QC repairs applied) | worker-p1f-7e93856c | 2026-10-20 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | worker-p1g-5e8c3a21 (takeover at ~05:4xZ from stale agent-p1l-worker-27c22a8e, baton stale ~12h; 33/60 done, 27 left: K040 first, manifest order) | 2026-10-20 |
@@ -593,3 +593,20 @@ principles queue is untouched.
   REFUSED (p1f freshly held by worker-p1f-7e93856c) and its state file
   was untouched after the refusal (local timestamp touch reverted, never
   pushed).
+
+- 2026-10-20 (worker-p1d-8f3a21c4, p1d CLOSED → p1t claimed): p1d complete
+  70/70. This session's 7 items (B067, B128, B129, R117, AT020, AT023,
+  AT062): all validator-clean, verbatim quotes from opened sources (MN 10 /
+  MN 118 / MN 22 / Ud 1.10 Thanissaro; Dhp 97 Buddharakkhita; Leopold "The
+  Land Ethic" full text; Bar-Haim 2007 + Disner 2011 abstracts via NCBI
+  E-utilities; Bhagavad Gita 2.47; Cook Ding Columbia AFE; Harris 2016 essay
+  full text; Ophir 2009 abstract). Advisor QC at items 1 and 5 with fail →
+  repair → pass cycles (B067 quote fidelity; AT020 scope; B129 reopened for
+  unsourced Zen claims and repaired); items 2-4, 6-7 covered by validator +
+  supervisor spot-check gap. Incident this session: one API push from a
+  stale HEAD (1523fa8f) temporarily reverted p1f/p1o/p1t work; reverted at
+  b1a038c8, all 11 files verified byte-identical to pre-incident state (see
+  earlier note). Git push was proxy-flaky; added scripts/api_push.py (REST
+  API push with stale-HEAD guard) and scripts/sync_push.sh (git retry
+  helper). 3 reciprocal proposals in proposals/p1d.json. Continuing on p1t
+  (5 P items) per the no-stop directive.

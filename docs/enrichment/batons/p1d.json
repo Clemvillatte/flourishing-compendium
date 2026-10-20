@@ -39,5 +39,7 @@
    "from": "worker-p1m-fd2db49a-recovery",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-20T03:57:40+00:00"
 }
