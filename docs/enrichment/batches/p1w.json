@@ -19,10 +19,9 @@
   "K050",
   "MO002",
   "MO008",
-  "MO019",
-  "MO024"
+  "MO019"
  ],
- "in_progress": null,
+ "in_progress": "MO024",
  "flagged": {
   "K001": "RESOLVED per supervisor disposition 2026-10-20 (secondary-carrier ACCEPT per E016/E070 precedent; in-body audit sentence reworded to reader-facing quoted-from-Shields provenance; Mitsuhara caution kept)",
   "SO041": "Reopened for QC: QC round 2: plumber second-opinion claim and practiced-domain contrast removed (not derived from displayed evidence)",
@@ -38,10 +37,11 @@
   "K050": "Reopened for QC: advisor QC round 1 repairs (most-famous claim; duty-not-dread attribution; bounded application)",
   "MO002": "Reopened for QC: advisor QC round 1 repairs (scoping; bounded prompts application)",
   "MO008": "Reopened for QC: advisor QC round 1 repairs (quantity/quality conflation; continuum-progression claim; identified-regulation vs interest distinction)",
-  "MO019": "Reopened for QC: advisor QC round 1 repairs (framework description; full quote opening; matched-comparison example)"
+  "MO019": "Reopened for QC: advisor QC round 1 repairs (framework description; full quote opening; matched-comparison example)",
+  "MO024": "Reopened for QC: advisor QC round 1 repairs (connective sentence; best-days wording; thesis example scope)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:27:45+00:00",
+ "updated": "2026-10-20T08:28:53+00:00",
  "band_done": false
 }
