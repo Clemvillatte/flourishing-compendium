@@ -259,3 +259,15 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   source-checked — flagged, not certified. Saturation: 5 concept pages already cite
   SE063 (incl. Self-concordant goal pursuit over time, Intrinsic versus extrinsic
   goals); no additional links warranted. Validator ok. DONE (no advisor QC due: item 13).
+
+## SE071 — Recognise self and trauma (item 14)
+- Source opened: Cloitre et al. 2019, "Complex post-traumatic stress disorder: a new
+  diagnosis in ICD-11", BJPsych Advances (cambridge.org PDF) — downloaded, pdftotext;
+  the ICD-11 CPTSD definition sentences in Box 1 verified by substring checks (True).
+- Body: added the DSO (disturbances in self-organisation) definition blockquote + a
+  sentence tying the "fragments self" framing to the diagnostic domains. The clinical
+  treatment-seeking advice (body + Practice) is appropriate for a trauma item and kept.
+- Inherited parallels (van der Kolk 2014; Herman 1992; Cloitre et al. 2011) NOT
+  source-checked — flagged, not certified. Saturation: 5 concept pages already cite
+  SE071 (incl. The shattered self); no additional links warranted. Validator ok.
+  DONE (no advisor QC due: item 14).
