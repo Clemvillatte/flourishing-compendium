@@ -14,7 +14,6 @@
   "SP035",
   "SP048",
   "SP092",
-  "A105",
   "AF003",
   "A027",
   "A031",
@@ -24,7 +23,7 @@
   "A090",
   "A094"
  ],
- "in_progress": null,
+ "in_progress": "A105",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -39,10 +38,11 @@
   "A058": "Reopened for QC: QC correction: preserve conditional status, remove example",
   "A085": "Reopened for QC: QC correction: remove capacity mechanism, restore moderate-degree clause",
   "A090": "Reopened for QC: QC correction: remove hours division and clinic claim",
-  "A094": "Reopened for QC: QC correction: remove creed and proof/music claims"
+  "A094": "Reopened for QC: QC correction: remove creed and proof/music claims",
+  "A105": "Reopened for QC: QC correction: restore source wording, replace example"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:23:42+00:00",
+ "updated": "2026-10-20T08:24:00+00:00",
  "band_done": false
 }
