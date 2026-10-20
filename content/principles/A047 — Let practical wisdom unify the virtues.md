@@ -12,18 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 47** — Let practical wisdom unify the virtues
 
-The moral virtues are not a checklist. They are integrated by phronesis into a coherent character. ([Nicomachean Ethics VI.12-13, trans. W. D. Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Work on the whole person, not on isolated virtues.
+The moral virtues are not a checklist. They are integrated by phronesis into a coherent character. ([Nicomachean Ethics VI.13, trans. H. Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Work on the whole person, not on isolated virtues.
 
 (NE VI.12-13.)
 
-> "These considerations therefore show that it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue." (Aristotle, Nicomachean Ethics VI.13, trans. W. D. Ross, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
+> "These considerations therefore show that it is not possible to be good in the true sense without Prudence, nor to be prudent without Moral Virtue." (Aristotle, Nicomachean Ethics VI.13, trans. H. Rackham, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6))
 
-The unity claim follows immediately: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it." ([NE VI.13, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) On this account, courage without temperance is not courage; generosity without justice is not generosity, since a virtue exercised against the others is a defect of the unifying wisdom.
+Aristotle argues that possessing prudence entails possessing the moral virtues together with it: "For if a man have the one virtue of Prudence he will also have all the Moral Virtues together with it." ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) The compendium uses this argument as a prompt to consider virtues together rather than as independent targets.
 
 **Plain words**
-The moral virtues aren't a checklist. Practical wisdom ties them into a single character. ([NE VI.13, Ross](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) Courage without temperance isn't really courage, and generosity without justice isn't really generosity. Work on how they fit together.
+The moral virtues aren't a checklist. Aristotle argues that prudence and the moral virtues come together. ([NE VI.13, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, consider how your virtues fit together rather than targeting them one by one.
 
-*For example:* Giving a big gift while underpaying your staff doesn't add up to generosity. Wisdom spots the contradiction.
+*For example* (hypothetical exercise): Giving a big gift while underpaying your staff — consider what the virtues together require in that situation.
 
 ## Stories
 
