@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -37,6 +37,18 @@
    "link": "SE070",
    "why": "the narcissistic side of the concept's own line-drawing",
    "notes": "Concept page cites A015/A071/S112/AF068 etc. but not SE070. Evidence in sources/p1zo/SE070.md (Morf & Rhodewalt 2001 abstract, opened via SciSpace record)."
+  },
+  {
+   "into": "Neurodiversity",
+   "link": "SE074",
+   "why": "the self-pattern variation framing for the paradigm's 'different not less' claim",
+   "notes": "Neurodiversity concept does not link SE074. Evidence in sources/p1zo/SE074.md (Cooper 2021 PMC + Zhuangzi Book I, both opened)."
+  },
+  {
+   "into": "Neurodiversity paradigm",
+   "link": "SE074",
+   "why": "autistic-identity findings grounding the paradigm's self-acceptance claim",
+   "notes": "Concept does not link SE074. Evidence in sources/p1zo/SE074.md."
   }
  ]
 }
