@@ -12,13 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 94** — Use intuition to enter the flow of things
 
-Intuition is the sympathy by which one enters into the interior of a process to grasp its movement: complement, not rival, of analysis. When analysis stalls, enter the thing directly.
+Bergson opens the essay by distinguishing two ways of knowing a thing: "The first implies that we move round the object; the second that we enter into it." The first is analysis; the second he calls intuition.
 
-(Bergson, Introduction to Metaphysics, 1903; Creative Evolution, 1907.)
+> "By intuition is meant the kind of intellectual sympathy by which one places oneself within an object in order to coincide with what is unique in it and consequently inexpressible. Analysis, on the contrary, is the operation which reduces the object to elements already known, that is, to elements common both to it and other objects." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, [text](https://reasoned.org/dir/lit/int-meta.pdf))
 
-**Plain words** Some things can only be known from inside the dance. Intuition is the sympathy by which you enter the interior of a process and grasp its movement — a complement to analysis, not its rival.
+The two are complements rather than rivals, because on Bergson's account intuition is fed by analysis and cannot replace it:
 
-*For example:* Understanding jazz by transcribing solos versus by playing badly in the room for a year — the second one produces the feel. Analysis maps the territory; intuition moves in.
+> "For we do not obtain an intuition from reality - that is, an intellectual sympathy with the most intimate part of it - unless we have won its confidence by a long fellowship with its superficial manifestations." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, [text](https://reasoned.org/dir/lit/int-meta.pdf))
+
+His closing image is a novelist with all the notes made who still cannot begin: "something more is needed in order to set about the work of composition itself, and that is an often very painful effort to place ourselves directly at the heart of the subject, and to seek as deeply as possible an impulse, after which we need only let ourselves go." That is the moment this principle names: analysis has gathered the material and stalled; the entry into the thing itself is a separate act.
+
+The compendium's exercise: when study has stopped producing movement, stop adding notes. Spend one session inside the thing, following its movement, and see what the notes look like from there.
+
+**Plain words**
+Analysis walks around a thing taking notes; intuition steps inside and follows its movement. The notes are how you earn the inside view. When the material is all collected and still nothing starts, place yourself at the heart of the subject and follow the first impulse you find there.
+
+*For example:* A jazz student can transcribe a year of solos, or play badly in the room every week for a year. Transcription moves round the music; playing in the room enters into it.
+
+## Sources
+
+- [An Introduction to Metaphysics, Henri Bergson, trans. T. E. Hulme (Putnam, 1912)](https://reasoned.org/dir/lit/int-meta.pdf) — opening contrast of the two ways of knowing; the definition of intuition; the closing novelist passage
 
 ## Psychology parallels
 
