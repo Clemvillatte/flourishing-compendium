@@ -12,15 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 62** — Recognise that choice reveals character
 
-Aristotle's reason is precise: choice "is thought to be most closely bound up with virtue and to discriminate characters better than actions do" (NE III.2). Actions can be forced, accidental, or aimed at impressing someone; the choice is "deliberate desire of things in our own power" (III.3), so it shows what, after thinking it over, you actually wanted. A single act can mislead; the pattern of choices is harder to fake.
+Aristotle distinguishes choice from the broader category of voluntary action (NE III.2). Choice concerns what we desire after deliberating about things within our power (III.3). He gives it particular importance in judging character:
 
-The pattern also compounds. Aristotle insists "it is activities exercised on particular objects that make the corresponding character", and that men "make themselves responsible for being unjust or self-indulgent" by cheating and by drinking bouts (III.5). Each choice leaves the chooser slightly changed, and the changed chooser makes the next choice. He adds the warning: though we control the beginning of a state of character, "the gradual progress is not obvious any more than it is in illnesses" (III.5).
+> "Both the voluntary and the involuntary having been delimited, we must next discuss choice; for it is thought to be most closely bound up with virtue and to discriminate characters better than actions do."
 
-(NE III.2-3, III.5, W. D. Ross translation.)
+(NE III.2, W. D. Ross translation.)
 
-**Plain words** Anyone watching your actions can be fooled: an act can be forced, accidental, or staged. Your choices are harder to fake, because a choice is what you wanted after you had time to think. That is why Aristotle reads character out of choices rather than deeds. The reading runs both ways: each choice nudges the person making it, so the choices you repeat are the person you are becoming.
+In III.5, he also connects states of character with activities and describes us as partly responsible for those states. ([Book III, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-*For example:* Skipping your usual walk "just once" a few times in a row quietly changes you into someone who doesn't walk.
+**Plain words** A visible deed does not tell you everything about the decision behind it. Ask what the person considered and chose to pursue. Aristotle gives that decision particular weight when judging character.
+
+*For example:* Imagined example: two people make the same donation after deliberating. One aims to help the recipient; the other aims to improve her reputation. The outward act is alike; their reasons for choosing it differ.
 
 ## Sources
 

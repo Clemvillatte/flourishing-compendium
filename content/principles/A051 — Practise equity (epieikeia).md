@@ -24,9 +24,9 @@ Aristotle's image for the corrective rule is the leaden rule used in making the 
 
 (NE V.10, W. D. Ross translation.)
 
-**Plain words** A rule is written for the typical case, because the writer cannot list every situation, so a rule will sometimes point the wrong way on a case nobody imagined. Equity is the repair: you ask what the rule was for, and whether pressing it here serves that or betrays it. Aristotle's rule made of lead bends around the stone instead of forcing the stone to fit the rule.
+**Plain words** Ask which relevant fact the general rule leaves out, and what its maker would have decided had that fact been considered. An exception needs that explanation; personal preference alone does not identify the omission.
 
-*For example:* Imagined: a landlord waives a late fee after a tenant loses a family member, keeping the rule for everyone else. Equity is not the absence of the rule; it is the repair of it on the case it never covered.
+*For example:* Compendium analogy, imagined: a club adopts a late fee to deter avoidable delays. A documented bank error prevents one member from paying. The committee asks whether charging the fee would fulfil the rule's stated purpose.
 
 ## Sources
 
@@ -34,7 +34,7 @@ Aristotle's image for the corrective rule is the leaden rule used in making the 
 
 ## Psychology parallels
 
-- **[[Moral situation research|Moral situation research]]**, context dominates in real moral choice (Doris, Lack of Character)
+- **[[Moral situation research|Moral situation research]]** (Doris, Lack of Character)
 - **[[Procedural justice|Procedural justice]]** (Tyler, 2006)
 
 ## Philosophy parallels
