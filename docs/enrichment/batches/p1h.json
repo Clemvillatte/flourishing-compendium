@@ -68,10 +68,11 @@
   "AF073": "Reopened for QC: repair: Social support wikilink unresolved",
   "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks",
   "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop",
-  "BI045": "Reopened for QC: apply routed QC correction (worker-p1p note): 'pooled result' wording + pitch outcome suggestion not in source"
+  "BI045": "Reopened for QC: apply routed QC correction (worker-p1p note): 'pooled result' wording + pitch outcome suggestion not in source",
+  "AT003": "Reopened for QC: advisor QC FAIL round 1: unattributed shared-resource claim, unsupported performance-degradation claim, 'did not survive testing' overreach, rest-as-restoration overreach, plain-words diagnostic signs, clipped contrast in example"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:22:47+00:00",
+ "updated": "2026-10-20T03:25:06+00:00",
  "band_done": false
 }

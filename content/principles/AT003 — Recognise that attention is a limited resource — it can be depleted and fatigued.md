@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 3** — Recognise that attention is a limited resource: it can be depleted and fatigued
 
-Directed attention, the effortful and voluntary focusing of awareness, is what you spend when a task requires holding your mind on one thing. The research program behind this principle treats that capacity as a resource: executive functioning and self-regulation each identify a central resource susceptible to depletion, and the two literatures appear to be describing the same one. (Kaplan & Berman, 2010.)
+Directed attention, the effortful and voluntary focusing of awareness, is what you spend when a task requires holding your mind on one thing. Kaplan and Berman's research program treats that capacity as a resource: executive functioning and self-regulation each identify a central resource susceptible to depletion, and they propose that the two literatures are describing the same one. (Kaplan & Berman, 2010.)
 
 > "Research on executive functioning and on self-regulation have each identified a critical resource that is central to that domain and is susceptible to depletion." (Kaplan & Berman, 2010, [abstract](https://pubmed.ncbi.nlm.nih.gov/26162062/))
 
-Kaplan and Berman propose that natural environments help restore the shared resource, which is why rest is part of this principle rather than an afterthought. One popular cousin of the claim did not survive testing: the ego-depletion model of willpower, where a 23-lab preregistered replication found the pooled effect close to zero. What survives is narrower and still useful. Sustained demanding tasks degrade later attention performance, and recovery conditions matter, so the practice below schedules demanding work and recovery instead of assuming hours of unbroken effortful focus. (Hagger et al., 2016.)
+Kaplan and Berman report improvements in executive functioning and self-regulation following theory-based natural-environment interventions, which they interpret as support for restoring the proposed shared resource. (Kaplan & Berman, 2010.) Hagger and colleagues later tested a specified ego-depletion protocol across 23 laboratories; its pooled effect was small, with a confidence interval including zero. That finding concerns the tested protocol, and it does not independently establish or refute an attention-fatigue mechanism. (Hagger et al., 2016.)
 
 **Plain words**
-Holding your attention on something effortful is work, and the capacity to do it runs down over a long session. The sign is familiar: you reread the same paragraph, you reach for the phone, the task feels harder than it did an hour ago. This is not a character flaw. Put the demanding work where you are fresh, and let the capacity recover between efforts.
+In this account, demanding activities can draw on the same capacity, so effort on one task could affect how you handle another. That is the authors' proposed explanation. For a compendium exercise, notice when work becomes difficult to follow and choose a pause or a quieter setting to try. Note what happens without assuming what caused the difficulty.
 
-*For example:* The parent who does the taxes after bedtime instead of during the toddler's dinner is scheduling, not being weak.
+*For example:* Imagine setting aside a tax form while helping a toddler eat, then returning to it during a quiet period.
 
 ## Sources
 
@@ -31,7 +31,7 @@ Holding your attention on something effortful is work, and the capacity to do it
 
 - **[[Directed attention fatigue|Directed attention fatigue]]**, sustained effortful attention depletes capacity and impairs performance (Kaplan, 1995; Kaplan & Berman, 2010)
 - **[[Vigilance decrement|Vigilance decrement]]**, performance on sustained attention tasks declines over time (Mackworth, 1948; See et al., 1995)
-- **Note: the ego depletion model of willpower failed replication**, but attentional fatigue as an experience and performance decline is real and measurable (Hagger et al., 2016)
+- **Note: a 23-lab preregistered replication of one ego-depletion protocol found a small pooled effect with a confidence interval including zero (Hagger et al., 2016)**
 
 ## Philosophy parallels
 

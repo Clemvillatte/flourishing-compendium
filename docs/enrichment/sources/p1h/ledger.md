@@ -348,3 +348,21 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - Plain words re-derived (rereading the same paragraph, reaching for the phone; scheduling
   not character). Example kept concrete, tail repaired. One reciprocal proposed (Ego
   depletion concept) in proposals/p1h.json. Validator ok.
+
+### AT003 QC round 2 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Advisor failed round 1; repairs applied exactly: shared-resource claim attributed to
+  Kaplan and Berman's proposal; "sustained demanding tasks degrade later attention
+  performance" removed (not established by either opened abstract); "did not survive
+  testing" replaced with the replication's own figures and scope (23 labs, small pooled
+  effect, CI including zero, concerns the tested protocol); rest-as-restoration replaced
+  with the abstract's own natural-environment-intervention wording; plain words rewritten
+  per the advisor (no diagnostic signs, no categorical depletion mechanism); example is
+  the advisor's labelled hypothetical; "is scheduling, not being weak" clipped contrast
+  removed. The inherited ego-depletion parallels bullet (non-link prose) corrected to the
+  replication's own figures; wikilinks in the section untouched.
+- Ledger correction: the AT003 draft carries ONE verbatim quotation (Kaplan & Berman);
+  Hagger is paraphrased with figures from its opened abstract.
+- Read of linked concepts: Directed attention fatigue is a one-line seed (no conflict);
+  AT033/AT037/AT039 principle bodies not re-read in full (neighbor listing only).
+- Validator ok; done re-marked; proposal why re-scoped per advisor.
