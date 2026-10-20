@@ -457,3 +457,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Sheldon and Elliot 1999, PubMed abstract (PMID 10101878) — the self-concordance model's dual-role definition, sustained-effort and well-being findings, and need-satisfaction mediation all quoted verbatim. Kashdan 2009 not opened; no claims routed through it.
 - Original seed line's "adopted goals do not [predict well-being]" overreach not carried into the rewrite (the abstract reports greater well-being benefits for attained self-concordant goals, not a null result for adopted goals).
 - All original sections and wikilinks preserved byte-exact. Added Related: [[Autonomous motivation]], [[Intrinsic motivation]], [[Eudaimonic well-being]] (all resolve). Validation: fast-track PASS; build 5,720 ok.
+
+### Spotlight effect (Gilovich) (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Gilovich, Medvec and Savitsky 2000, full-text PDF (psychologyib.com mirror). Savitsky et al. 2001 not opened; no claims routed through it.
+- Definition, T-shirt and discussion findings, and anchoring-and-adjustment mechanism quoted verbatim from the opened PDF (double-hyphen dashes preserved as in source).
+- All original sections and wikilinks preserved byte-exact (philosophy-parallels section with its original line). Added Related: [[Anchoring effect]] (resolves). Validation: fast-track PASS; build 5,720 ok.
