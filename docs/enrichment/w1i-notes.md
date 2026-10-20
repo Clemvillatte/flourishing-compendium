@@ -187,3 +187,36 @@ to Song of Myself could not be verified against the poem and was removed
 per the Stress-mindset precedent; the verified Section 45 expansion lines
 are used instead and Whitman is cited in Sources via poets.org. Seed
 wikilinks all preserved (validator 0 failed).
+
+Milestone-fifteen advisor review (items 11-15): FAIL with bounded repairs, all
+applied this round. Item 11 (expanding self): Whitman passage reframed as
+this entry's comparison with the astronomical "they" identified, sheath
+interpretation and Aron boredom/infidelity specifics deleted, editorial
+boundary sentence added, Upanishad citation corrected to Taittirīya
+Upaniṣad 1.12.1 (translator not asserted; the page names none), Ecological
+self gloss reduced to bare link; Upanishad quote verified against the
+unprompted page text (all four layer sentences and "Brahman is the seat"
+confirmed). Item 12 (social gradient): "emerged from"/"first mapped" and
+the everyone-employed claim replaced with the supported cohort sentence,
+"chaired" corrected to the commission with citation, mechanisms-research
+sentence deleted, quote capitals restored, immediate citations added,
+Related gloss reduced to bare link. Item 13 (wise reasoning): "fullest
+statement" and 2013-synthesis claims removed, state-like framing replaced
+with the review's emphasis on situational variation, section renamed
+Perspective-taking experiments, measurement paragraph replaced by the
+review's own malleability framing, quote capitals restored, host described
+as university-hosted. Item 14 (working memory): fifty-years-dominance,
+anatomical, dissociation and competitor claims deleted, episodic-buffer
+motivation replaced with the review's specific argument, honest limit
+rebuilt on the homunculus-criticism passage verified in the unprompted PMC
+text, Related glosses reduced to bare links, citation completed with
+QJEP 78(2):222-239. Item 15 (worry): opening requalified to match the
+source's own "seems unlikely" candor, causal connector to the therapy
+observation removed (reported separately), compendium-pairs sentence
+deleted, physiological findings attributed as reported in the article,
+quote capitals restored, citation corrected from the PDF cover page to the
+article in Cognitive Therapy and Research 22(6):561-576 (the former
+book-chapter attribution was wrong). All quotes in this round matched
+against unprompted downloaded source texts (brhat page, PMC Baddeley, PMC
+Aron) or locally grepped PDFs (Marmot Lancet, Marmot UCL, Grossmann,
+Borkovec). Confirmation submitted; pending.
