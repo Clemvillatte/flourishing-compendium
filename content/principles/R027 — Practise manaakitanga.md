@@ -12,7 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 289** — Practise manaakitanga
 
-Show care, respect, and hospitality toward others. Manaakitanga is the practice of upholding the mana (dignity) of others through acts of care, generosity, and kindness. It is not optional; it is a fundamental obligation of relationship.
+Mead's Tikanga Māori places manaakitanga at the base of the whole system:
+
+> "All tikanga are underpinned by the high value placed upon manaakitanga – nurturing relationships, looking after people, and being very careful about how others are treated." (Mead, Tikanga Māori, 2003, p. 29; reproduced in the Treasury's He Ara Waiora discussion paper, which was the opened carrier — the book itself was not opened)
+
+Durie's whānau model gives the word its scope: manaakitanga is "the capacity to care for whānau members", and unless a whānau can care for the young and the old, for those who are sick or disabled, and for those who are temporarily out of pocket, a fundamental purpose of the whānau goes unmet. Hospitality is the common translation and the floor, not the ceiling — the literature reviewed in the same paper describes the ethic as grounded in working with and for each other in the spirit of reciprocity, demanding a high standard of behaviour toward each other.
 
 (Māori tikanga; Mead, 2003, Tikanga Māori; Durie, 1994, Whaiora.)
 
@@ -26,4 +30,9 @@ Show care, respect, and hospitality toward others. Manaakitanga is the practice 
 ## Philosophy parallels
 
 - **[[Hospitality|Hospitality]]** (Derrida, Of Hospitality)
-- **[[Care|Care]]** (Noddings, Caring)- **[[Manaakitanga|Manaakitanga]]** (Relational traditions)
+- **[[Care|Care]]** (Noddings, Caring)
+- **[[Manaakitanga|Manaakitanga]]** (Relational traditions)
+
+## Sources
+
+- [McMeeking, Baker, Kipa, Beynon and Henare, "He Ara Waiora / A Pathway Towards Wellbeing", NZ Treasury Discussion Paper 18/11 (2018)](https://www.treasury.govt.nz/sites/default/files/2018-09/dp18-11.pdf) — carrier of the Mead 2003 p. 29 manaakitanga passage and the Durie whānau-model capacity-to-care passages, verified character-for-character; the Mead and Durie books themselves were not opened
