@@ -13,23 +13,30 @@ Research on schadenfreude — pleasure at others' misfortune — showing it erod
 
 Schadenfreude is the malicious satisfaction and pleasure felt at someone else's misfortune. An Italian research team led by Stefano Pagliaro tested what happens when this pleasure is expressed publicly and other people witness it.
 
-Across two experiments, each with 90 participants, observers watched an actor who either gloated over a rival's misfortune, behaved badly in a general way, or behaved neutrally. Those who expressed schadenfreude drew the harshest judgments of all.
+In two studies, each with 90 undergraduates, participants read a fictional scenario about a job interview. In the key condition, a rival candidate laughed out loud and declared himself glad when a third candidate had a car accident and could no longer compete. The researchers compared him with a candidate who simply broke a stated rule, and with one who showed no reaction at all. Participants then rated their global impression of the rival and their behavioral intentions toward him.
 
-> Study 1 (N = 90) showed that actors expressing schadenfreude elicit a more negative impression and more avoidance intentions than those who display a general negative behavior. ... Together the findings showed that observing the public expression of schadenfreude has meaningful implications for social relations and interpersonal perception.
+The finding, in the authors' summary:
 
-The comparison matters. A person who simply behaves badly is disliked. A person who enjoys another's misfortune is disliked more, and observers want to keep their distance. In the first study, avoidance intentions toward the gloating actor were significantly stronger than toward someone who had merely acted rudely.
+> Two studies consistently showed that observing someone who expresses schadenfreude is detrimental for both the impression that we form about this person and our willingness to approach him.
+> — Pagliaro, Brambilla, Di Prinzio & Teresi, "Observing schadenfreude," Psicologia Sociale, 2019
 
-The second study checked whether this reaction depended on observers being in competition with the suffering target. It did not. Whether or not observers had a stake in the target's setback, they still judged the person who gloated and still wanted to avoid him. Expressing pleasure at another's misfortune seems to be read, on its own, as a mark of bad character.
+The pattern behind that summary is worth stating precisely. Observers rated the gloating candidate more negatively than the neutral candidate, and the rule-breaking candidate also rated worse than neutral. Between the gloater and the rule-breaker, the impression difference went in the predicted direction but did not reach statistical significance in the first study. On avoidance the results were sharper. Participants showed a stronger tendency to avoid the gloater than both the rule-breaker and the neutral candidate. In both studies, the authors found that the worse impression mediated the avoidance reaction, meaning the dislike carried the keeping of distance.
+
+The second study asked whether observers would react differently if they themselves were competing with the victim. Avoidance did not depend on this. The impression did shift somewhat, with somewhat less negative judgments when observers were in competition with the victim, though the authors note the scenarios left participants somewhat in competition with the gloater in any case, since all were applying for the same job.
+
+The authors' closing line is modest and firm. Even just observing schadenfreude produces important consequences for social interactions.
+
+One boundary on the concept as seeded here. This research measures global impression and avoidance intentions. It does not measure trust erosion or reciprocal hostility, and this page makes no claim that it does. The opened evidence is about what witnesses think of a gloater and how far they want to keep away.
 
 ## In the compendium
 
-Several principles in this compendium already treat gloating as a strategic error, and this research gives them empirical footing. The principle "If you must fight, grieve — never gloat" holds that gloating damages trust and invites reprisal. The studies above show the mechanism in action. Witnesses do not need to be the target of your gloating to punish you for it. Merely watching you enjoy someone's downfall is enough to sour their impression and their willingness to be near you.
+The principle "If you must fight, grieve — never gloat" states its own counsel: gloating damages trust and invites reprisal. That is a claim about conduct, offered from the philosophy side of the compendium. This research gives it empirical company on the dimensions that were actually measured. A gloater loses standing in the eyes of onlookers, and onlookers back away.
 
-The concept also supports the practice of veneration over contempt. Contempt and gloating both trade on another person's diminishment. The compendium treats schadenfreude as one of the costs of a contemptuous stance, and the research agrees. The pleasure is real, and so is the bill that follows it.
+The practice of veneration over contempt runs in the same direction. Its parallel entry lists schadenfreude's costs among the reasons to refuse contempt. The pleasure is real, and so is the bill that follows it.
 
 ## Sources
 
-- Pagliaro, S., Brambilla, M., Di Prinzio, F., & Teresi, M. (2019). Observing schadenfreude: Expressing pleasure at others' misfortune predicts avoidance. Psicologia Sociale, n. 3, settembre-dicembre 2019. Author copy: https://www.mbrambilla.com/wp-content/uploads/2021/03/Pagliaro-et-al-2019-Schadenfreude.pdf
+- Pagliaro, S., Brambilla, M., Di Prinzio, F., & Teresi, M. (2019). Observing schadenfreude: Expressing pleasure at others' misfortune. Psicologia Sociale, n. 3, settembre-dicembre 2019. Author copy: https://www.mbrambilla.com/wp-content/uploads/2021/03/Pagliaro-et-al-2019-Schadenfreude.pdf
 
 ## Cited in psychology parallels
 
