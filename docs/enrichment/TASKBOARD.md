@@ -89,6 +89,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1t | selected ranks 1350-1435 | D109 to P102 (30 priority items; 21 Daoist) | p1t | done; last 5 enriched + D190/P009 QC repaired; first-item/milestone/closure advisors PASS; reciprocal proposal awaits supervisor | worker-p1t-c6c62a0a | 2026-10-20 |
 | p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | done, 30/30; last 10 P items enriched; first-item/milestone-25/milestone-30/repair-recheck advisors PASS; 7 reciprocal proposals await supervisor; historical scope-correction flags retained | worker-p1u-c6c62a0a | 2026-10-20 |
 | p1v | selected ranks 1615-1762 | P053 to B197 (18 priority items; PRIORITY POOL NOW FULLY DRAINED) | p1v | done | worker-p1v-c7e4a1f9 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
+| p1w | selected ranks 31-247 | K008 to R109 (30 unassigned principles, degree order) | p1w | claimed | supervisor-tmp1 | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
