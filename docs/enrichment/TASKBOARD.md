@@ -24,6 +24,8 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, genuineflourishing03): verification round 2 — p1ze BE012/BE014 and p1zh SE052/S137 samples, ALL PASS. BE014: both Veale 2008 quotes (p. 32 blockquote + short-term-goals fragment) verified against a fresh pdftotext extraction of the Cambridge PDF (downloaded this session). BE012: Hayes 2012 'Committed actions are designed to further values in the context of openness and awareness' + p. 988 locator verified via fetch of the APA PDF (curl route is bot-walled; fetch worked). SE052: both Markus & Kitayama 1991 quotes verified verbatim against a freshly opened MIT course copy of the paper (Stanford-hosted URL is dead — the page's source link needs a future repair; the citation line's 'p. 225' anchor covers the first quote, the second sits on p. 227, minor locator nit, no quotation issue). S137: all three Musonius Rufus Lecture 11 quotes (§9 principle-statement blockquote, §§16-17 fragments) verified verbatim against the freshly opened TheStoicLife.org page, and the §§7, 26 claims are grounded as stated. Reserve REQUEST still standing; continuing verification of released self-QC bands.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 8 — PP005 (p1zb, RELEASED):
 PASS. Keyes 2002 blockquote sentence verified verbatim against the freshly opened PubMed 12096700
 abstract; the national-sample impairment/superior-functioning paraphrase is faithful to the
