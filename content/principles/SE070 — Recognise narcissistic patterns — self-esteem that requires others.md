@@ -16,9 +16,9 @@ Morf and Rhodewalt propose a self-regulatory model in which a "grandiose yet vul
 
 > "A grandiose yet vulnerable self-concept appears to underlie the chronic goal of obtaining continuous external self-affirmation." (Morf & Rhodewalt, 2001, abstract)
 
-**Plain words** Narcissism is not too much self-esteem; it is self-esteem that cannot generate its own supply. It runs on admiration from outside. The tell is what happens when the applause stops: the pattern can collapse or lash out, where settled self-regard takes the hit and moves on.
+**Plain words** Notice whether you are listening to someone's response or pressing until it becomes praise. The model describes a trap: working to secure reassurance can get in the way of receiving it.
 
-*For example:* A colleague who takes correction as an insult may not be having a bad day. If his self-worth has no internal engine, every correction reads as a power cut. That is a pattern to notice, not a diagnosis to hand out from across the desk.
+*For example:* Imagine someone asking a friend for feedback, then dismissing every response that is not praise. That illustrates an affirmation-seeking pattern; it does not establish a diagnosis.
 ## Psychology parallels
 
 - **Narcissism as fragile self-esteem**, grandiosity masks fragile, contingent self-worth (Kernberg, 1975; Morf & Rhodewalt, 2001)
@@ -32,7 +32,7 @@ Morf and Rhodewalt propose a self-regulatory model in which a "grandiose yet vul
 
 ## Practice
 
-- If you notice narcissistic patterns (need for admiration, difficulty with empathy, fragile self-esteem), seek professional help. This is a specific pattern requiring specific treatment.
+- If you notice narcissistic patterns (need for admiration, difficulty with empathy, fragile self-esteem), consider seeking a professional assessment.
 
 ## Sources
 

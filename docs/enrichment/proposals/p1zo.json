@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 5,
+ "revision": 6,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -17,8 +17,8 @@
   {
    "into": "Capacity to be alone (Winnicott)",
    "link": "SE053",
-   "why": "Winnicott's ego-relatedness names the held-and-separate condition this principle describes",
-   "notes": "Concept page does not link SE053; the two needs of the principle are the two halves of the capacity to be alone. Evidence in sources/p1zo/SE053.md."
+   "why": "Winnicott's ego-relatedness offers a comparison: aloneness in the presence of support, read against this principle's autonomy-need",
+   "notes": "Concept page does not link SE053; labelled as a cross-tradition comparison, not an asserted identity of constructs. Evidence in sources/p1zo/SE053.md (Ryan & Deci 2000 + Winnicott 1958, both opened)."
   },
   {
    "into": "Autonomy",
@@ -36,7 +36,7 @@
    "into": "Narcissism versus healthy self-regard",
    "link": "SE070",
    "why": "the narcissistic side of the concept's own line-drawing",
-   "notes": "Concept page cites A015/A071/S112/AF068 etc. but not SE070. Evidence in sources/p1zo/SE070.md (Morf & Rhodewalt 2001 abstract, opened via ScienceOpen record)."
+   "notes": "Concept page cites A015/A071/S112/AF068 etc. but not SE070. Evidence in sources/p1zo/SE070.md (Morf & Rhodewalt 2001 abstract, opened via SciSpace record)."
   }
  ]
 }

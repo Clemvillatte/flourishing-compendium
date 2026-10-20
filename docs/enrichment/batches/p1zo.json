@@ -4,9 +4,10 @@
   "SE037",
   "SE058",
   "SE045",
-  "SE053"
+  "SE053",
+  "SE070"
  ],
- "in_progress": "SE070",
+ "in_progress": null,
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "Reopened for QC: milestone advisor QC repairs",
@@ -16,6 +17,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:19:09+00:00",
+ "updated": "2026-10-20T11:19:21+00:00",
  "band_done": false
 }
