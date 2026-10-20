@@ -17,7 +17,6 @@
   "B150",
   "B049",
   "B126",
-  "B096",
   "B109",
   "B172",
   "B181",
@@ -30,7 +29,8 @@
   "B169",
   "P176",
   "P177",
-  "P168"
+  "P168",
+  "B096"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,7 +43,7 @@
   "B078": "Reopened for QC: Milestone QC FAIL: causal psychology in application; repairs pending",
   "B080": "Reopened for QC: Milestone QC FAIL: mechanism claims; repairs pending",
   "B092": "Reopened for QC: Milestone QC FAIL: source-scope + application overreach; repairs pending",
-  "B096": "Reopened for QC: Round-2 QC: item-15 prescribed replacement not applied verbatim; repairs pending",
+  "B096": "Reopened for QC: QC correction: remove generalization beyond explicit sutta statement",
   "B109": "Reopened for QC: Round-2 QC: item-15 prescribed replacement not applied verbatim; repairs pending",
   "B049": "Reopened for QC: Round-2 QC: excerpt-scoped attribution; repairs pending",
   "B113": "Reopened for QC: Item-20 QC FAIL: historical-claim overreach, quote format; repairs pending",
@@ -66,6 +66,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:47:00+00:00",
+ "updated": "2026-10-20T03:48:54+00:00",
  "band_done": false
 }
