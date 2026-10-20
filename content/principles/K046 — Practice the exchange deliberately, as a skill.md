@@ -22,7 +22,7 @@ For example: Before a tense phone call, imagine being the person on the other en
 
 ## Sources
 
-- [Shantideva, Bodhicharyavatara chapter 8 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html) — verses 115, 120, 139, 140-141 quoted verbatim from the opened page; translator not identified on the page
+- [Shantideva, Bodhicharyavatara chapter 8 (Engaging in Bodhisattva Behaviour), full text](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-8.html) — verses 111-112, 120, 139, 140-141 quoted verbatim from the opened page; translator not identified on the page
 
 ## Psychology parallels
 
