@@ -72,3 +72,9 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Verbatim: "evaluative judgments involve people asking themselves (implicitly), 'How do I feel about this?'"; Lucas & Lawless abstract phrase "weather does not reliably affect judgments of life satisfaction" (linked, not quoted).
 - Removed unsourced claims in the old body (caffeine, blood sugar as anxiety causes). Example labelled imagined and phrased without causal claims. Parallels bullet 2 corrected: 1983 attribution effect appeared for sad moods, not good moods; "reverses" was overstated. Schwarz 2012 inherited, not opened.
 - Limitation: Yap et al. 2017 weather non-replication mentioned in a syllabus snippet only; not cited.
+
+## AF042 — Practise opposite action
+- Sources opened: Fassbinder et al. 2016, Front Psychol (PMC5021701); Sauer-Zavala et al. 2019, Behav Res Ther 117:79-86 (PMC6467696).
+- Verbatim: "every emotion comes with an action urge"; the "does not intend to suppress an emotion" sentence; "thought to lead to reductions in its intensity, though this has not been empirically-tested".
+- Supported: lab study, N = 16 with BPD, larger drops for sadness and guilt/shame, not anxiety or anger; authors call for replication.
+- Corrected: old body said "one of the most effective brief interventions" (unsupported) and parallel bullet said it "works for anger, sadness, anxiety, shame, and guilt" (contradicted in the opened study). Removed the example's unsupported "thins by the third week". Rizvi & Linehan 2005 and Linehan 1993 manual not opened; bullets reworded so they do not rely on them.
