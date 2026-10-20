@@ -12,11 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 32** — Recognise that suppression is not always maladaptive; it depends on context and culture
 
-Expressive suppression — inhibiting the outward expression of an emotion — has costs (increased physiological arousal, reduced rapport) but is not universally maladaptive. In some cultures and some contexts (e.g., professional settings, avoiding escalating conflict), suppression is appropriate and not associated with worse outcomes.
+Soto and colleagues asked the title question directly. Their hypothesis was about cultural context: "the negative associations between suppression and psychological functioning seen in European Americans would not be seen among members of East Asian cultures, in which emotional restraint is relatively encouraged over emotional expression" ([Soto et al., 2011, Emotion 11(6), abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/)). With 71 European American and 100 Hong Kong Chinese students reporting on suppression use, life satisfaction and depressed mood, the moderation analysis "revealed that expressive suppression was associated with adverse psychological functioning for European Americans, but not for Chinese participants" ([Soto et al., 2011, same abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/)). The study covers habitual suppression and self-reported functioning in two student samples; it does not test any particular funeral, courtroom or negotiation. The compendium's rule follows with its limits: treat suppression as a strategy whose costs depend on context and culture, not as a universal mistake.
 
-**Plain words** Suppression isn't universally maladaptive: it has costs (arousal, reduced rapport) but in some contexts and cultures it's the adaptive choice — the colleague whose discretion holds the room together. Judge it by context and culture, not by a blanket rule.
+**Plain words** The finding is a moderation, not a verdict. In one student sample the same habit lined up with worse functioning, in another it did not, and the difference tracked cultural norms around restraint. The practical step is to check whose norms you are actually operating under, and with whom, before deciding that holding your face still is a failure.
 
-*For example:* The funeral, the courtroom, the bedside — the person who holds their expression steady for the sake of others isn't repressed; they're contextually fluent. The blanket rule against suppression was written by people who never had to hold a room.
+*For example:* (Imagined case.) A team member keeps a flat expression during a tense client call and is told afterward by one colleague to be more authentic. Whether that feedback fits depends on context the study did not measure; what the study does show is that the costs of the habit are not the same everywhere.
+
+## Sources
+
+- [Soto, J. A., Perez, C. R., Kim, Y.-H., Lee, E. A., & Minnick, M. R. (2011). Is expressive suppression always associated with poorer psychological functioning? A cross-cultural comparison between European Americans and Hong Kong Chinese. Emotion 11(6), 1450-1455, abstract](https://pubmed.ncbi.nlm.nih.gov/21707152/) — the hypothesis and moderation result quoted above
+
 ## Psychology parallels
 
 - **[[Cultural differences in suppression's costs|Cultural differences in suppression's costs]]**, suppression is associated with worse outcomes in Western cultural contexts but not necessarily in East Asian contexts (Butler & Gross, 2009; Soto et al., 2011)

@@ -57,3 +57,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: the page's old "denial/self-deception" framing was an assertion about specific reframings, which the study does not test; body now states the study's limits explicitly. "Reappraisal works best for ambiguity" removed (not in opened source). Ford & Troy 2019 kept as an unopened flagged parallel.
 - Plain words: replicate fixed; example replaced with labelled imagined case grounded in the controllability check.
 - Proposals: reciprocals into Cognitive reappraisal and Reappraisal's effectiveness depends on separating the feeling from the appraisal (both exist; read before proposing).
+
+## AF032 — Recognise that suppression is not always maladaptive; it depends on context and culture
+- Evidence: Soto, Perez, Kim, Lee & Minnick 2011, Emotion 11(6) 1450-1455, abstract via pubmed.ncbi.nlm.nih.gov/21707152, fetched this session. Both quoted fragments verified verbatim (hypothesis sentence; moderation result with N=71 EA / 100 HKC).
+- Scope: the page's old physiological-arousal/professional-settings claims were not in the opened abstract; removed, and the study's limits stated (habitual suppression, self-report, two student samples). "Context determines appropriateness" parallel (English & Eldreda 2020) kept as an unopened flagged parallel.
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocals into Cultural differences in suppression's costs and Expressive suppression versus reappraisal (both exist; read before proposing).

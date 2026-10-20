@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 7,
+ "revision": 8,
  "records": [
   {
    "action": "reciprocal",
@@ -106,6 +106,20 @@
    "link": "AF027",
    "why": "listed for comparison with the principle's controllability check on reappraisal",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers reappraisal mechanics adjacent to the Troy 2013 abstract opened for AF027"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Cultural differences in suppression's costs",
+   "link": "AF032",
+   "why": "listed for comparison with the principle's context-and-culture reading of suppression",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers suppression-cost material adjacent to the Soto 2011 abstract opened for AF032"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Expressive suppression versus reappraisal",
+   "link": "AF032",
+   "why": "listed for comparison with the principle's context-and-culture reading of suppression",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers suppression-cost material adjacent to the Soto 2011 abstract opened for AF032"
   }
  ]
 }
