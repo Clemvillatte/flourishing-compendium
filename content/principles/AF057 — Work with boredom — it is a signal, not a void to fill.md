@@ -22,7 +22,7 @@ On the definition Eastwood and colleagues argue for, boredom is wanting to be en
 
 ## Psychology parallels
 
-- **[[Boredom|Boredom as a signal of meaninglessness or insufficient challenge]]** (Eastwood et al., 2012)
+- **[[Boredom|Boredom as the aversive experience of wanting, but being unable, to engage in satisfying activity]]** (Eastwood et al., 2012)
 
 ## Philosophy parallels
 
