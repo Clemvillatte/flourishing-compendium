@@ -164,3 +164,22 @@ opened text at the recorded URL.
   what is actually quoted. Inherited psychology parallel (Oppezzo and Schwartz
   2014) and philosophy parallels (Thoreau; Kierkegaard) preserved untouched
   and NOT verified this session.
+
+## B197 — Make ordinary life the practice field (2026-10-20)
+
+- OPENED: "The Miracle of Being Awake", Thich Nhat Hanh, Buddhist Publication
+  Society Wheel 234, https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html
+  (the dishwashing material from Miracle of Mindfulness).
+- OPENED: ZenBorder koans page, https://www.zenborder.com/koans/ — Gateless
+  Gate case 19 exchange (modern translation; the Zhaozhou dialogue truncated
+  before the source's em-dash sentence).
+- Verified verbatim: both blockquotes. The TNH quote also verified in context
+  ("Jim was delighted... 'I choose the second way'"); the "According to the
+  Sutra on Mindfulness" sentence and "If we can't wash the dishes..." are on
+  the opened page.
+- LOCATOR NOTES: the seed cited "MN 2", which the body does not use and which
+  was not opened this session; dropped from the locator. The seed's "TNH,
+  Miracle of Mindfulness" is cited as the opened BPS Wheel 234 text, which
+  carries the same passage. Inherited psychology parallel (Kuyken et al. 2015)
+  and philosophy parallels (Cavell; Zhaozhou link) preserved untouched and NOT
+  verified this session.

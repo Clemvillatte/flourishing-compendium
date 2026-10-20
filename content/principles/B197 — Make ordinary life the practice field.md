@@ -12,13 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 197** — Make ordinary life the practice field
 
-No special states, special places, or special times required: the kitchen, the commute, the difficult colleague: this is the curriculum. There is nowhere else to practice.
+Two Buddhist sources put the practice where the day already is. Thich Nhat Hanh teaches dishwashing as the practice, in two ways of washing. The Zen record has Zhaozhou ask Nanquan what the Way is, and Nanquan answer with the ordinary mind. (TNH, The Miracle of Being Awake; Zen tradition, Zhaozhou.)
 
-(Zen tradition; Thích Nhất Hạnh; MN 2.)
+> "There are two ways to wash the dishes: The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes." (TNH, [The Miracle of Being Awake](https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html))
 
-**Plain words** No special states, special places, or special times required — the kitchen, the commute, the difficult colleague: this is the curriculum. There is nowhere else to practice. The idea of a 'practice location' is the first obstacle.
+> "Zhaozhou asked Nanquan: 'What is the Way?' Nanquan said: 'Ordinary mind is the Way.' Zhaozhou said: 'So should I try to get toward it?' Nanquan said: 'If you try, you move away from it.'" (Gateless Gate 19, [ZenBorder translation](https://www.zenborder.com/koans/))
 
-*For example:* Waiting for the retreat to start the real work — meanwhile the dishes, the traffic, and the in-laws have been the real work all along.
+The compendium's reading: no special states, special places or special times are required. The kitchen, the commute and the difficult colleague are the curriculum, because they are what the day is made of.
+
+**Plain words**
+Take the task you most want to finish quickly, dishes or emails or the commute. Do it once with the attention on the doing itself: the water, the keys, the breath. The exercise needs no extra time, since the task you were rushing already occupies your hands and your hour.
+
+*For example:* Washing up after dinner can be done with the mind already at dessert, hurrying the bowls out of the way, or done aware of the water and the hands. The compendium's exercise is the second, for one task a day.
+
+## Sources
+
+- [The Miracle of Being Awake, Thich Nhat Hanh, Buddhist Publication Society Wheel 234](https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html) — the dishwashing passage
+- [Koans, ZenBorder](https://www.zenborder.com/koans/) — Gateless Gate case 19, Zhaozhou and Nanquan
 
 ## Psychology parallels
 
