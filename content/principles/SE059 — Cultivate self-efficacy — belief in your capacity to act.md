@@ -12,15 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 59** — Cultivate self-efficacy: belief in your capacity to act
 
-Self-efficacy — the belief that you can execute the actions needed to achieve goals — is Bandura's construct for the beliefs behind effort and persistence. It is distinct from self-esteem (it is domain-specific) and is built through experience.
-
-Bandura's founding statement gives the construct its reach and its sources:
+Bandura proposes that expectations of personal efficacy influence whether coping behaviour begins, how much effort is expended and how long it persists despite difficulties:
 
 > "It is hypothesized that expectations of personal efficacy determine whether coping behavior will be initiated, how much effort will be expended, and how long it will be sustained in the face of obstacles and aversive experiences. ... In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states." (Bandura, 1977, p. 191)
 
-The Practice line on this page is those four sources turned into a training plan: mastery first, models second, persuasion and arousal read as readiness.
+The abstract adds how the expectation grows: "Persistence in activities that are subjectively threatening but in fact relatively safe produces, through experiences of mastery, further enhancement of self-efficacy and corresponding reductions in defensive behavior" (Bandura, 1977, p. 191).
 
-**Plain words** Self-efficacy is the belief that your actions matter: that if you do the thing, the thing has a chance of working. In Bandura's model it is narrower than confidence or self-esteem, and built from the four sources listed above.
+**Plain words** Choose a specific action and ask whether you believe you can carry it out. If your answer is no, write down what makes it seem difficult and what experience you already have.
 
 *For example (imagined):* Two people with similar skills face the same hard project. One says "I've handled worse" and starts on Monday; the other says "I'm probably not the right person" and keeps putting it off. For this exercise, both write down which belief they bring.
 ## Sources
@@ -31,7 +29,7 @@ The Practice line on this page is those four sources turned into a training plan
 
 - **[[Self-efficacy|Self-efficacy theory (Bandura)]]**, belief in one's capacity to organise and execute actions (Bandura, 1977, 1997)
 - **Four sources of self-efficacy: mastery experiences, vicarious experience, social persuasion, physiological state** (Bandura, 1997)
-- **Self-efficacy predicts effort, persistence, and achievement**, higher self-efficacy is associated with better outcomes across domains (Bandura, 1997; Stajkovic & Luthans, 1998)
+- Self-efficacy and outcomes — Bandura, 1997; Stajkovic & Luthans, 1998
 
 ## Philosophy parallels
 
@@ -41,4 +39,4 @@ The Practice line on this page is those four sources turned into a training plan
 
 ## Practice
 
-- Build self-efficacy through mastery experiences: set achievable goals, accomplish them, and build the evidence. Also use vicarious experience (see others like you succeed) and manage physiological state (interpret arousal as readiness).
+- As a compendium exercise, choose one manageable task, record your expectation about completing it, attempt it, and record what happened.

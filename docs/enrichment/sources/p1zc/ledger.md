@@ -344,3 +344,21 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   mental health model, a population-categories page — inspected, no proposal),
   "depressive episode" (no new concept hits); no additional links warranted.
 - All four files validate (0 failed). Round 4 pending.
+
+## Round-4 closeout (item-16 milestone)
+- SE059: body opening replaced with the supported Bandura proposal sentence; the
+  "Practice line" bridge deleted; Plain words replaced with the advisor's version;
+  the outcomes parallel reduced to bare references; Practice replaced with the
+  labelled compendium exercise; prose floor restored with the verified abstract
+  sentence on persistence-in-safe-activities (substring check True).
+- SE063: "does not dismiss" sentence deleted; Plain words replaced; the
+  intrinsic/extrinsic outcomes claim reduced to the wikilink + bare Kasser
+  references; Socrates bullet reduced to the bare reference; Practice replaced
+  with the labelled goal-review exercise.
+- Complete final files read for both; all five affected pages validate vs baseline
+  0998a787 (0 failed). SE080 marked done; SE071/SE076 flags resolved with dated
+  scoped notes (kept visible for the supervisor).
+- ITEM-16 MILESTONE: SCOPED PASS (SE080 + the SE071/SE076 clinical repairs +
+  SE059/SE063 bounding). Scope: the reviewed passages, quotations, locators and
+  repairs; NOT certification of every inherited reference (bare-reference parallels
+  remain flagged above). 16/30 done. NEXT: SO012.

@@ -15,14 +15,15 @@
   "SE059",
   "SE063",
   "SE071",
-  "SE076"
+  "SE076",
+  "SE080"
  ],
- "in_progress": "SE080",
+ "in_progress": null,
  "flagged": {
-  "SE071": "QC rounds 1-2 repairs applied (bounded clinical framing, Brewin 2020 citation corrected); advisor round 3 pending",
-  "SE076": "QC rounds 1-2 repairs applied (WHO-scope bounding, list-format quote); advisor round 3 pending"
+  "SE071": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - the clinical-claim and attribution repairs stand; flag kept for supervisor visibility",
+  "SE076": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - WHO-scope bounding and list-format quote stand; flag kept for supervisor visibility"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:24:49+00:00"
+ "updated": "2026-10-20T08:30:04+00:00"
 }
