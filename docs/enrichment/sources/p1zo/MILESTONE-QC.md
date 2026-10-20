@@ -100,3 +100,15 @@ Items: SP015, SP023, SP024, SP041 (2026-10-21).
   second body sentence. All applied through the state machine; SP024 ledger
   duplicate passage entry consolidated; baseline validation re-run clean.
   Round 4 (narrow verification) submission pending.
+
+## Final milestone (takeover items 11-14): scoped PASS — band complete
+
+- Round 4 (advisor): scoped PASS for all four items (SP015, SP023, SP024,
+  SP041), reviewed rewritten material only. Excluded from the PASS: inherited
+  parallels, Practice sections, and SP041's flagged title ranking (the
+  inherited "most dangerous" title is not established by the TIE excerpt's
+  "still more absorbed" comparison — supervisor flag retained).
+- SP023's ledger Limits paragraph corrected to label the removed first-draft
+  framing and exercise as removed material (record-only, per the advisor).
+- Band closed via the state machine's finish command; baton released; all 30
+  items of the p1zo takeover set done.
