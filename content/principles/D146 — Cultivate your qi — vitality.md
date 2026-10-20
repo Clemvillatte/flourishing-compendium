@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 146** — Cultivate your qi: vitality
 
-Vitality grows through rest, breath, movement, and calm. Treat energy as a garden: tended daily, it yields; ignored, it weeds over.
+The Neiye grounds vitality (qi) in practice rather than endowment. Its first verse ties mind and breath together: when the mind is tranquil and the vital breath is regular, the Way can thereby be halted. Verse XVII gives the practice instruction itself: coil and contract, uncoil and expand, be firm and regular in the practice, hold fast to it, chase away the excessive and abandon the trivial. The verse's closing promise is that reaching the practice's ultimate limit returns you to the Way and its inner power.
 
 (Neiye.)
 
-**Plain words** Energy isn't a number you're assigned at birth — it's a garden you either visit or don't. Tended daily it yields; ignored, it weeds over.
+> "For all [to practice] this Way: / You must coil, you must contract, / You must uncoil, you must expand, / You must be firm, you must be regular [...] / Hold fast to this excellent [practice]; do not let go of it. / Chase away the excessive; abandon the trivial. / And when you reach its ultimate limit / You will return to the Way and its inner power." (Neiye, verse XVII, [Roth](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt); ellipsis marks the verse's bracketed clause "[in this practice]", whose closing bracket the OCR text corrupts)
 
-*For example:* Two weeks of daily ten-minute walks changes the afternoon more than any single heroic gym session ever does.
+The compendium's reading: the verse's verbs are physical, and its key term is regular. What the text asks for is not intensity but frequency, something small enough to hold fast to.
+
+**Plain words**
+The verse's picture of vitality is closer to fitness than to mood: a flow that answers to repeated practice, coiling and uncoiling, and the instruction to be regular in it. The test of a practice is whether you can keep it for weeks, not whether it impresses anyone in a single session. Ask what you do daily that is small enough to keep.
+
+*For example:* Imagine a ten-minute walk at the same hour every day for two weeks. The verse's word for the ingredient is regular.
+
+## Sources
+
+- [Inward Training (Neiye), trans. Harold D. Roth (archive.org full text)](https://archive.org/stream/original-tao-inward-training-nei-yeh-and-the-foundations-of-taoist-mysticism-tra/Original%20Tao%20Inward%20Training%20(Nei-yeh)%20and%20the%20Foundations%20of%20Taoist%20Mysticism%20(Translations%20from%20the%20Asian%20Classics)%20by%20Harold%20David%20Roth%20(z-lib.org)_djvu.txt) — verses I, XVII
 
 ## Psychology parallels
 
-- **Qigong and tai chi** (meta-analyses), trials show moderate benefits for psychological well-being
+- **Qigong and tai chi** (meta-analyses)
 - **[[HRV coherence research|HRV coherence research]]**
 - **[[Interoceptive awareness|Interoceptive awareness]]** (Mehling et al., 2009)
 
