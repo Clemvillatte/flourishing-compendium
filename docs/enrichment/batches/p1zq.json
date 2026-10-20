@@ -33,8 +33,8 @@
   "Y097_supervisor": "Routed to supervisor by prior worker; not re-verified this session. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
   "A009_supervisor": "Routed to supervisor by prior worker; not re-verified this session. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
   "A061": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
-  "A084": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
-  "A086": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
+  "A084": "unresolved title support — supervisor decision required: title's conclusion not established by opened passages (VII.13 reports pro-pleasure argument; X.4 supervenence); page presents both neutrally",
+  "A086": "unresolved title support — supervisor decision required: title's inference ('not always bad') insufficiently supported by opened passages (II.3 appropriate pain; VII.13 two ways bad); page asks the two questions separately",
   "A087": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
   "A088": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
   "A093": "Advisor milestone QC repairs applied (2026-10-20, worker-p1zq-4db4ea8b): see ledger QC round 2. Validator ok. Supervisor acceptance pending.",
@@ -45,6 +45,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:56:48+00:00",
+ "updated": "2026-10-20T13:16:19+00:00",
  "band_done": false
 }
