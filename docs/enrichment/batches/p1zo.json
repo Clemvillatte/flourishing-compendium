@@ -18,10 +18,10 @@
   "SO048",
   "SO053",
   "SO062",
-  "SO071",
   "SO074",
   "SP003",
-  "SO070"
+  "SO070",
+  "SO071"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,10 +42,11 @@
   "SO048": "QC history: item-15 milestone rounds 2-3 repairs applied and re-validated. Inherited parallels claims kept as found, unverified. See sources/p1zo/SO048.md",
   "SO053": "inherited parallels not certified: Marmot 2004 status syndrome / Sapolsky 2005 / Wilkinson & Pickett 2009 claims kept as found; see sources/p1zo/SO053.md",
   "SO062": "Reopened for QC: QC correction: inline citations, carrier-language removal, proposal why repair",
-  "SO070": "Reopened for QC: QC: conditional language, pathway overreach, plain words/example replacement"
+  "SO070": "Reopened for QC: QC: conditional language, pathway overreach, plain words/example replacement",
+  "SO071": "Reopened for QC: QC: measure distinctions, survival wording, plain words/example replacement"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:50:48+00:00",
+ "updated": "2026-10-20T12:51:11+00:00",
  "band_done": false
 }

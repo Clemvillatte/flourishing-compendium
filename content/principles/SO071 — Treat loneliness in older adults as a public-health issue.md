@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 71** — Treat loneliness in older adults as a public-health issue
 
-A meta-analysis of 148 studies covering 308,849 participants found a 50% increased likelihood of survival for people with stronger social relationships, an effect the authors compare with well-established mortality risk factors. ([Holt-Lunstad et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2910600/)) Among older adults the risk runs through cognition as well as mortality: in the Wilson et al. (2007) cohort of 823 initially dementia-free older people, loneliness at baseline predicted faster cognitive decline over four years, and those in the top decile of loneliness scores were 2.1 times as likely to develop Alzheimer's disease as those in the bottom decile. ([Hawkley and Cacioppo, 2010, reviewing Wilson et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3874845/))
+A meta-analysis of 148 studies covering 308,849 participants found higher odds of survival for people with stronger social relationships, an effect the authors compare with well-established mortality risk factors. ([Holt-Lunstad et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2910600/)) Loneliness has also been associated with cognitive decline among older adults: in the Wilson et al. (2007) cohort of 823 initially dementia-free older people, loneliness at baseline predicted faster cognitive decline over four years, and those in the top decile of loneliness scores were 2.1 times as likely to develop Alzheimer's disease as those in the bottom decile. ([Hawkley and Cacioppo, 2010, reviewing Wilson et al., 2007](https://pmc.ncbi.nlm.nih.gov/articles/PMC3874845/))
 
 > "Across 148 studies (308,849 participants), the random effects weighted average effect size was OR = 1.50 (95% CI 1.42 to 1.59), indicating a 50% increased likelihood of survival for participants with stronger social relationships." ([Holt-Lunstad et al., 2010, abstract: Results](https://pmc.ncbi.nlm.nih.gov/articles/PMC2910600/))
 
-**Plain words** Being alone and feeling alone both track with worse health in older age, and the numbers put social connection in the same league as the risk factors doctors already take seriously. That is why this principle calls it a public-health issue rather than a private feeling. The practical side is unglamorous: regular visits, calls, lifts, shared meals, treated as part of care rather than as charity.
+**Plain words** As a practical application, ask an older person what company they want and whether they can reach it. Discuss visits or calls with them, rather than treating a contact count as the whole answer. The principle makes social connection a concern worth discussing alongside other aspects of health.
 
-**For example (imagined):** After a fall, an older man's daughter sets up a standing Tuesday visit with a neighbour. The visit is not medical care, but the mortality numbers are the reason his doctor would count it as part of his care.
+**For example (imagined):** An older man says that he feels cut off after a fall. His daughter asks whom he would like to see and offers to arrange a regular visit.
 
 ## Psychology parallels
 
