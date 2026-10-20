@@ -12,11 +12,11 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 2** — Know that the split is made, not found
 
-In Nishida's early account, pure experience precedes the differentiation into an experiencing subject and an experienced object; the individual is formed out of it (Maraldo, "Nishida Kitarō", §2.1). The compendium reads the principle as a claim about where the burden of explanation sits: an account of experience that starts with a spectator standing apart from things has already divided the event in two, and the division is the part that needs explaining.
+In Nishida's early account, pure experience precedes the differentiation into an experiencing subject and an experienced object; the individual is formed out of it ([Maraldo, §2.1](https://plato.stanford.edu/entries/nishida-kitaro/)). The compendium uses this account to question the assumption that experience begins with an already separate observer.
 
-> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be. (John C. Maraldo, "Nishida Kitarō", §2.1, Stanford Encyclopedia of Philosophy; the opening phrase quotes Nishida's An Inquiry into the Good, p. 3, the surrounding wording is Maraldo's commentary)
+> "The moment of seeing a color or hearing a sound" is prior not only to the thought that the color or sound is the activity of an external object or that one is sensing it, but also to the judgment of what the color or sound might be. ([John C. Maraldo, "Nishida Kitarō", §2.1](https://plato.stanford.edu/entries/nishida-kitaro/), Stanford Encyclopedia of Philosophy; the opening phrase quotes Nishida's An Inquiry into the Good, p. 3, the surrounding wording is Maraldo's commentary)
 
-(Nishida, An Inquiry into the Good; the late logic of place.)
+(Nishida, An Inquiry into the Good, discussed in Maraldo, §2.1.)
 
 **Plain words** An account of hearing that starts with you on one side and a sound on the other has already divided the event in two. This principle asks you to examine that starting assumption.
 
@@ -28,7 +28,7 @@ In Nishida's early account, pure experience precedes the differentiation into an
 
 ## Psychology parallels
 
-- **Objective self-awareness's costs** (Duval and Wicklund's self-awareness research)
+- **Objective self-awareness** (Duval and Wicklund's self-awareness research)
 
 ## Philosophy parallels
 
