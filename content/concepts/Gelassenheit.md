@@ -39,13 +39,13 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 
 ## Related concepts
 
-- [[Wu wei]] — the Daoist unforced, unselfconscious action in which the world does most of the work; a cross-tradition parallel, not a historical link.
-- [[Letting-be]] — Heidegger's term from "The Question Concerning Technology," per its own page.
+- [[Wu wei]] — the Daoist ideal of effortless, unforced activity; a cross-tradition parallel, not a historical link.
+- [[Letting-be]] — another English rendering of Gelassenheit in the literature on Heidegger.
 - [[Non-attachment]] — the Buddhist release of grasping at outcomes and possessions; a cross-tradition parallel.
 - [[Apatheia]] — the Stoic freedom from passion; the Encyclopedia calls Eckhart's negative virtues Stoic-sounding.
 - [[Beginner's mind]] — meeting experience free of the habits of the expert; the compendium pairs it with Heidegger's waiting.
-- [[Acceptance]] — the ACT embrace of unwanted experience without the struggle to change it; a cousin, not the same thing.
-- [[Shikantaza, just sitting]] — Dogen's just-sitting practice; the compendium pairs it with Heidegger's "nothing but wait".
+- [[Acceptance]] — in ACT, the active and aware embrace of private events without unnecessary attempts to change their frequency or form; a cousin, not the same thing.
+- [[Shikantaza, just sitting]] — Dogen's objectless just-sitting practice; the compendium pairs it with Heidegger's waiting.
 
 ## Sources
 
