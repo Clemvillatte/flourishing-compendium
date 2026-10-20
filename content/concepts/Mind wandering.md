@@ -19,7 +19,15 @@ In a 2010 smartphone study, Matthew Killingsworth and Daniel Gilbert sampled 225
 
 > Mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love.
 
-They report that "people were less happy when their minds were wandering than when they were not", across every activity they sampled, including the least enjoyable ([Killingsworth and Gilbert, 2010](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)). The authors read the direction as running from wandering to mood: their time-lag analyses "strongly suggested that mind wandering in our sample was generally the cause, and not merely the consequence, of unhappiness" ([Killingsworth and Gilbert, 2010](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)). Their closing lines:
+They report two further findings ([Killingsworth and Gilbert, 2010](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)). On mood:
+
+> ...multilevel regression revealed that people were less happy when their minds were wandering than when they were not [slope (b) = –8.79, P < 0.001], and this was true during all activities, including the least enjoyable.
+
+On direction, the authors read their time-lag analyses this way ([Killingsworth and Gilbert, 2010](https://greatergood.berkeley.edu/images/uploads/A_Wandering_Mind_Is_an_Unhappy_Mind.pdf)):
+
+> Although negative moods are known to cause mind wandering (13), time-lag analyses strongly suggested that mind wandering in our sample was generally the cause, and not merely the consequence, of unhappiness (12).
+
+Their closing lines:
 
 > In conclusion, a human mind is a wandering mind, and a wandering mind is an unhappy mind. The ability to think about what is not happening is a cognitive achievement that comes at an emotional cost.
 
@@ -29,7 +37,7 @@ Benjamin Mooneyham and Jonathan Schooler's review keeps both halves in view ([Mo
 
 > Substantial evidence suggests that mind-wandering typically occurs at a significant cost to performance. Mind-wandering–related deficits in performance have been observed in many contexts, most notably reading, tests of sustained attention, and tests of aptitude.
 
-On the benefit side, they reviewed evidence for possible roles in autobiographical planning and creative problem solving, and proposed three further candidate functions:
+On the benefit side, they reviewed evidence for possible roles in autobiographical planning and creative problem solving, and proposed three further candidate functions ([Mooneyham and Schooler, 2013](https://metalab.psych.ucsb.edu/sites/default/files/publications/2013/2013-The-costs-and-benefits-of-mind-wandering-a-review.pdf)):
 
 > ...attentional cycling, dishabituation, and relief from boredom.
 
@@ -39,11 +47,11 @@ Their most disarming result concerns tedium: in one tedious-task study, "mind-wa
 
 ### Meditation findings
 
-The contemplative traditions' claim has a neural handle. Judson Brewer's group compared experienced meditators with matched controls across three meditation types ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)):
+Judson Brewer's group compared experienced meditators with matched controls across three meditation types ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)):
 
 > We found that the main nodes of the default-mode network (medial prefrontal and posterior cingulate cortices) were relatively deactivated in experienced meditators across all meditation types.
 
-The same scans showed stronger coupling in the meditators between control-related regions, and the authors read the differences as "consistent with decreased mind-wandering" ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)). The study reports group differences. What practice does to the default is a question it frames rather than one it answers.
+The same scans showed stronger coupling in the meditators between control-related regions, and the authors read the differences as "consistent with decreased mind-wandering" ([Brewer et al., 2011](https://www.pnas.org/doi/10.1073/pnas.1112029108)). The study reports differences between groups, not training effects: what practice does to the default is a question it frames rather than one it answers.
 
 ### In the compendium
 
@@ -62,7 +70,7 @@ The same scans showed stronger coupling in the meditators between control-relate
 
 ## Related concepts
 
-- [[Default mode network]] — the brain systems whose activity the wandering tracks
+- [[Default mode network]] — the brain systems whose activity the wandering is associated with in the cited research
 - [[Meta-awareness]] — the noticing that catches the drift
 - [[Present-moment awareness theory]] — the target state the drift departs from
 - [[Mental time travel]] — one of the places the wandering goes
