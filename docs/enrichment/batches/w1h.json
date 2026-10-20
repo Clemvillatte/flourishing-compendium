@@ -7,10 +7,10 @@
   "Openness and not knowing in skilled practice",
   "Behavior change wheel theory Michie",
   "Benefit finding",
-  "Cognitive attentional syndrome Wells",
   "Bicultural identity integration",
   "Co-regulation of affect in relationships",
-  "Cognitive bias modification theory"
+  "Cognitive bias modification theory",
+  "Cognitive attentional syndrome Wells"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,11 +22,11 @@
   "Benefit finding": "fast-track; evidence: Helgeson et al. 2006 meta-analysis abstract verbatim (pubmed.ncbi.nlm.nih.gov/17032085/) + Moore et al. 2023 PLOS ONE definition fragment (pmc.ncbi.nlm.nih.gov/articles/PMC10374125/); seed's 'predicts growth' claim re-scoped to cross-sectional associations incl. the double-edged findings (more intrusive/avoidant thoughts; unrelated to anxiety/distress/QoL/subjective health); junk Sources line 'though partial' removed; no advisor QC due (item 6)",
   "Bicultural identity integration": "fast-track; evidence: Benet-Martínez & Haritatos 2005 J Pers abstract verbatim, re-opened and re-verified this session (pubmed.ncbi.nlm.nih.gov/15958143/); abstract does NOT classify the two constructs as cognitive/affective (labels removed) and does not attribute construct origination (claim removed); page scoped to 2005 findings",
   "Co-regulation of affect in relationships": "fast-track; evidence: Butler & Randall 2013 Emotion Review author-hosted PDF re-opened this session (squarespace link); abstract quote verbatim; working definition restored to full verbatim sentence incl. channels parenthetical (section 'An Operational Definition of Coregulation'); morphostatic/morphogenic sentences verbatim (section 'Morphogenic Processes versus Coregulation')",
-  "Cognitive attentional syndrome Wells": "fast-track; evidence: Wells 2019 Frontiers in Psychology (author's own S-REF account) verbatim quotes (pmc.ncbi.nlm.nih.gov/articles/PMC6920120/); no advisor QC due (item 9)",
+  "Cognitive attentional syndrome Wells": "fast-track; evidence: Wells 2019 Frontiers in Psychology PMC full text (PMC6920120), extract re-verified this session: CAS definition, components and 'intensify and extend' quotes verbatim; MCT-aim claim replaced with extract-supported 'major influence on the development of metacognitive therapy'; contrastive 'not the content but' removed",
   "Cognitive bias modification theory": "fast-track; evidence: Beard 2011 PMC full text (PMC3092585) re-opened: blockquote under Abstract, two-key-features quote under section 'Treatments targeting cognitive biases' (attributed to Koster et al.), bias definitions under sections 'Attention bias'/'Interpretation bias'; Hakamata et al. 2010 PubMed corrected abstract (20887977) for d=.51 [corrected] sentence; advisor QC passed content, locators completed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:47:01+00:00",
+ "updated": "2026-10-20T06:47:22+00:00",
  "band_done": false
 }

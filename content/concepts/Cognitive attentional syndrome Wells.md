@@ -7,13 +7,13 @@ file: "Cognitive attentional syndrome Wells"
 tags: ["theory", "psych/attention"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-ATTENTION"], "alternatePaths": []}
 ---
-The cognitive attentional syndrome (CAS) is Adrian Wells's name for the style of cognition and behavior that, in his self-regulatory executive function model, underlies most psychological disorders. It is not the content of a person's thoughts but the way the processing is run: perseverative, self-relevant and negatively loaded.
+The cognitive attentional syndrome (CAS) is Adrian Wells's name for the style of cognition and behavior that, in his self-regulatory executive function model, underlies most psychological disorders. What it captures is the way processing is run: perseverative, self-relevant and negatively loaded.
 
 > "The CAS is a state of processing where negative self-relevant information is prioritized and becomes perseverative (i.e. extended and repetitive)." (Wells, [Breaking the Cybernetic Code](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/), Frontiers in Psychology, 2019)
 
 ### The components
 
-In Wells's list, the perseveration takes the form of worrying or ruminating on negative and threatening events; attentional strategies of "threat-monitoring" such as checking for symptoms or scanning the environment for signs of danger; and behaviors such as avoidance, inactivity, thought suppression or substance use. His verdict on the set: "These strategies intensify and extend negative processing" ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)). Metacognitive therapy's aim is to reduce the syndrome and modify the metacognitive beliefs that keep it running.
+In Wells's list, the perseveration takes the form of worrying or ruminating on negative and threatening events; attentional strategies of "threat-monitoring" such as checking for symptoms or scanning the environment for signs of danger; and behaviors such as avoidance, inactivity, thought suppression or substance use. His verdict on the set: "These strategies intensify and extend negative processing" ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)). The S-REF model was a major influence on the development of metacognitive therapy ([Wells 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6920120/)).
 
 ### In the compendium
 
