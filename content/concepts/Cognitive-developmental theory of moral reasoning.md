@@ -9,11 +9,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 The cognitive-developmental theory of moral reasoning holds that moral judgment develops through a fixed sequence of stages. Lawrence Kohlberg built it on John Dewey's and Jean Piaget's levels of moral development: in 1955 he began a program of longitudinal and cross-cultural study to redefine and validate their stages, and reported finding two stages at each of Dewey's three levels ([Kohlberg 1975](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)).
 
-> "Stages form an invariant sequence. Under all conditions except extreme trauma, movement is always forward, never backward. Individuals never skip stages, movement is always to the next stage up. This is true in all cultures." (Kohlberg, [Moral Education for a Society in Moral Transition](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf), Educational Leadership, October 1975, pp. 46-54)
+> "Stages form an invariant sequence. Under all conditions except extreme trauma, movement is always forward, never backward. Individuals never skip stages, movement is always to the next stage up. This is true in all cultures." (Kohlberg, [Moral Education for a Society in Moral Transition](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf), Educational Leadership, October 1975, pp. 46-54, p. 48)
 
 ### The stages and the evidence
 
-Kohlberg's table names the three levels as "I. Preconventional level", "II. Conventional level" and "III. Postconventional, autonomous, or principled level", with six stages: "Stage 1: The punishment-and-obedience orientation", "Stage 2: The instrumental-relativist orientation", "Stage 3: The interpersonal concordance or 'good boy—nice girl' orientation", "Stage 4: The 'law and order' orientation", "Stage 5: The social contract, legalistic orientation" and "Stage 6: The universal-ethical-principle orientation" ([Table 1](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)). The run from Stage 1 to Stage 6 is the theory's arc from punishment avoidance to universal principles. Its evidence base was "A 20-year study of 50 Chicago area boys, middle- and working class. Initially interviewed at ages 10-16, they have been reinterviewed at three-year intervals thereafter" ([Kohlberg 1975](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)).
+Kohlberg's table names the three levels as "I. Preconventional level", "II. Conventional level" and "III. Postconventional, autonomous, or principled level", with six stages: "Stage 1: The punishment-and-obedience orientation", "Stage 2: The instrumental-relativist orientation", "Stage 3: The interpersonal concordance or 'good boy—nice girl' orientation", "Stage 4: The 'law and order' orientation", "Stage 5: The social contract, legalistic orientation" and "Stage 6: The universal-ethical-principle orientation" ([Table 1, p. 49](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)). The run from Stage 1 to Stage 6 is the theory's arc from punishment avoidance to universal principles. One longitudinal study Kohlberg describes in this account was "A 20-year study of 50 Chicago area boys, middle- and working class. Initially interviewed at ages 10-16, they have been reinterviewed at three-year intervals thereafter" ([Kohlberg 1975, p. 48](https://files.ascd.org/staticfiles/ascd/pdf/journals/ed_lead/el_197510_kohlberg.pdf)).
 
 ### In the compendium
 
@@ -32,10 +32,10 @@ Affect · Psychological science
 
 ## Related concepts
 
-- [[Kohlberg's theory of moral development]] — the stage sequence this tradition produced
-- [[Gilligan's ethics-of-care theory]] — the care-oriented critique of the justice focus
-- [[Moral development research]] — the field the theory organized
-- [[Piaget's theory of cognitive development]] — the cognitive-developmental groundwork
+- [[Kohlberg's theory of moral development]]
+- [[Gilligan's ethics-of-care theory]]
+- [[Moral development research]]
+- [[Piaget's theory of cognitive development]] — the theory builds on the Dewey-Piaget levels and stages
 
 ## Sources
 

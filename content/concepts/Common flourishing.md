@@ -13,7 +13,7 @@ Common flourishing names the good that Aristotle's Politics places as the purpos
 
 ### The end of the city
 
-Book III states the point as a definition of what a city is: "It is not therefore founded for the purpose of men's merely living together, but for their living as men ought" ([Politics III.IX](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm)). The same chapter gives the positive formulation: the end for which a city is established is that its inhabitants may live happy, and the city is "a community of families and villages for the sake of a perfect independent life; that is, as we have already said, for the sake of living well and happily" ([Politics III.IX](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm)). Common flourishing is this shared end: the city exists so that the good life, on Aristotle's account, is something its members hold together.
+Book III states the point as a definition of what a city is: "It is not therefore founded for the purpose of men's merely living together, but for their living as men ought" ([Politics III.IX](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm)). The same chapter gives the positive formulation: the end for which a city is established is that its inhabitants may live happy, and the city is "a community of families and villages for the sake of a perfect independent life; that is, as we have already said, for the sake of living well and happily" ([Politics III.IX](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm)). Common flourishing is a summary label for this civic end: on the account the Politics gives, the city exists for the sake of living well and happily.
 
 ### In the compendium
 
@@ -29,12 +29,12 @@ Book III states the point as a definition of what a city is: "It is not therefor
 
 - [[The polis]] — the community whose end this is
 - [[Eudaimonia]] — the good life the city exists for
-- [[Eudaimonic well-being]] — the psychological research descendant of the same idea
+- [[Eudaimonic well-being]]
 
 ## Sources
 
 - Aristotle, Politics, the end of the polis
-- [Aristotle, A Treatise on Government (Politics), William Ellis translation, Project Gutenberg eBook 6762](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm) — the Book I Chapter II and Book III Chapter IX passages quoted above (Perseus is crawler-blocked; edition noted per protocol)
+- [Aristotle, A Treatise on Government (Politics), William Ellis translation, Project Gutenberg eBook 6762](https://www.gutenberg.org/files/6762/6762-h/6762-h.htm) — the Book I Chapter II and Book III Chapter IX passages quoted above
 
 ## Cited in philosophy parallels
 

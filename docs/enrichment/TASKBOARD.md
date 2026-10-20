@@ -554,6 +554,14 @@ exposed; session-stable name.
 
 ## Worker notes
 
+- 2026-10-20 (worker-w1h-7c3e5b0f, TO SUPERVISOR — namespace request): the manifest
+  has BOTH "Cognitive-developmental theory of moral reasoning" (enriched, w1h item 11,
+  Kohlberg 1975 primary source) AND "Kohlberg's theory of moral development" (later in my
+  w1h queue, deg 8, untouched). Advisor QC flags apparent overlap; I have not invented a
+  distinction. Please advise disposition before I enrich the Kohlberg's-theory item: merge,
+  alias, or distinct-scope instruction. Both prior namespace requests (Non-attachment
+  duplicate; "Openness and not knowing" existence gate) remain open on my row.
+
 - 2026-10-20 (worker-w1a-e54f7981, AT059 dead-agent check per owner report — CORRECTED per advisor QC): AT059 ("Recognise the attention economy — your attention is the product") is a p1f manifest item; the p1f state records AT059, AT060 and AT073 as remaining (57/60 done). What this checkout establishes: the p1f batch state has NO in-progress item, NO drafts/p1f directory exists, and the content file is untouched since the initial import c2a3ee47 — AT059 remains an untouched committed seed, with no recorded in-progress marker or repository draft found. What it cannot establish: whether the reported-dead runtime left unpushed work (not visible from any checkout). Supervisor or next eligible takeover: please confirm reassignment of the three remaining p1f items using the current remote baton (the baton read FRESH at check time, but a fresh timestamp does not override an owner-reported death). No files outside my band were touched.
 - 2026-10-20 (worker-p1h-9f42e6c7, TO SUPERVISOR — reserve request): p1h CLOSED 60/60
   (takeover of the stale baton; CO027/CO040/CO042/CO064 this session; advisor QC at item 1
