@@ -461,3 +461,16 @@ source; anything not opened is recorded as inherited and unverified.
   Korzybski/Shunyata inherited entries left as found.
 - Saturation: no new reciprocals; The emptiness of emptiness and Shunyata are
   already the linked targets.
+
+### B150 — Relate without exploitation (2026-10-20)
+- Opened: AN 10.176 Cunda Sutta (Thanissaro, accesstoinsight) and the Access
+  to Insight Five Precepts study page (already-fetched). The sensual-misconduct
+  passage verified verbatim against the fetched AN 10.176 text; the third
+  precept formula verified verbatim against the precepts page.
+- Seed's "would both people describe it the same way?" kept as the labelled
+  compendium exercise (both-descriptions test); "extraction point" staging
+  replaced; the receipts example rewritten as an imagined exercise.
+  Barber/Deci/Ryan, Kant, Buber inherited entries left as found (bare
+  attributions already).
+- Saturation: no new reciprocals; Persons as ends and I-Thou are already the
+  linked targets.
