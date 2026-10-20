@@ -9,9 +9,27 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The whole prior to the parts” — Aristotle, Parts of Animals I.
 
+## The rule of study
+
+For Aristotle, a living thing is not explained by inventorying its materials. The natural philosopher states the definitive characters that distinguish the animal as a whole, and each organ is examined for its relation to that total form, not for its material composition.
+
+> “Similarly, the true object of architecture is not bricks, mortar, or timber, but the house; and so the principal object of natural philosophy is not the material elements, but their composition, and the totality of the form, independently of which they have no existence.”
+>
+> — Aristotle, *Parts of Animals*, Book I (William Ogle translation), [Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)
+
+## Why the whole leads
+
+The priority is causal as well as descriptive. Of the causes at work in a natural generation, the final one comes first, because it is the Reason, and the Reason forms the starting-point alike in works of art and works of nature: the builder holds the picture of the house forward as the reason for each step he takes.
+
+The point shows itself at death. When the soul departs, what is left is no longer a living animal, and none of the parts remain what they were before, except in mere configuration, like the animals in the fable that are turned into stone.
+
 ## Sources
 
-- Aristotle, Parts of Animals I
+- Aristotle, *Parts of Animals*, Book I, trans. William Ogle, opened at [Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)
+
+## Related concepts
+
+- [[The whole in the part]] — Whitehead's version of the whole-part relation
 
 [[E013 — Practise the lived body (Leib)]]
 [[ST082 — Huineng Hears One Line]]
