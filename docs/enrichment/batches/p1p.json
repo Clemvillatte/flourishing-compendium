@@ -2,11 +2,17 @@
  "batch": "p1p",
  "done": [
   "D026",
-  "D028"
+  "D028",
+  "B046",
+  "B061",
+  "B062"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "B062": "Reopened for QC: QC round 2: spelling/attribution/extension-labelling repairs"
+ },
  "missing_concepts": [],
- "sources_checked": 1,
- "updated": "2026-10-20T01:15:03+00:00"
+ "sources_checked": 5,
+ "updated": "2026-10-20T01:20:33+00:00",
+ "band_done": false
 }

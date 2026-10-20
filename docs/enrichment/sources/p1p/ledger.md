@@ -1,26 +1,21 @@
 # p1p source ledger (worker-p1p-27eaf6bd, 2026-10-20)
 
 Band p1p: 30 items (28 Buddhist B-prefix + D026, D028). Daoist items first per owner
-priority, then B items in manifest order.
+priority, then B items in manifest order (manifest lists bare IDs; no titles).
 
 ## D026 — Don't display baits
 
 - Opened: https://www.gutenberg.org/files/216/216-h/216-h.htm (Tao Teh King, Legge
-  translation; raw HTML downloaded via curl and text extracted with tag-stripping, line
-  breaks preserved for verse fidelity).
+  translation; raw HTML downloaded via curl, text extracted with line breaks preserved).
 - Verbatim quote used: DDJ 3, "not to show them what is likely to excite their desires
   is the way to keep their minds from disorder." (sentence-final period per source).
-- Advisor QC (first item, round 1): quotes PASS verbatim; rejected my initial body for
-  causal overreach (flaunting "manufactures" envy/theft asserted as fact), inherited
-  aphorism "guarded wealth leaks" style, and Plain words that repeated body metaphors.
-  Exact advisor repairs applied: ruler-policy framing attributed to the source, personal
-  application labelled as extension, Plain words rewritten as a decision exercise
-  (posting a purchase), example imagined and labelled.
+- Advisor QC (first item, round 1): quotes PASS verbatim; rejected causal overreach
+  (flaunting "manufactures" envy/theft asserted as fact), inherited aphorisms, and
+  Plain words that repeated body metaphors. Exact advisor repairs applied.
 - Limitations: inherited psychology parallels (Easterlin; Frank; Festinger 1954) and
-  philosophy parallels (Rousseau amour-propre; La Rochefoucauld envy) NOT opened or
-  verified this session; kept as flagged inherited parallels per the evidence gate.
-- Saturation: Envy, Social comparison, Social investment theory concept pages already
-  cite D026; no proposals needed.
+  philosophy parallels (Rousseau; La Rochefoucauld) NOT opened; flagged inherited
+  parallels. Linked concepts (Envy, Social comparison, Social investment theory) skimmed
+  as seeds only; they already cite D026.
 
 ## D028 — Hoarding invites loss
 
@@ -28,13 +23,73 @@ priority, then B items in manifest order.
 - Verbatim quote used: DDJ 44 verse, "Keep life and lose those other things; / Keep them
   and lose your life:—which brings / Sorrow and pain more near?" (source line breaks
   kept; em dash is Legge's).
-- Advisor QC (first-item batch): rejected "the pair cannot both be kept" as an absolute
-  the passage does not state, and the parent/teenager causal claim as unsupported;
-  exact advisor repairs applied: verse summarised as a warning about keeping possessions
-  at the cost of life, ending praise of contentment noted; Plain words rewritten as a
-  cost-in-hours exercise; example imagined and labelled (larger house vs paid work).
-- Limitations: inherited parallels (endowment effect KKT 1991; Mullainathan and Shafir
-  2013; upadana; Fromm having mode) NOT opened or verified this session; kept as flagged
-  inherited parallels.
-- Saturation: Endowment effect, The having mode, Dependent origination, Law of Effect
-  concept pages already cite D028; no proposals needed.
+- Advisor QC (first-item batch): rejected the "cannot both be kept" absolute and the
+  parent/teenager causal claim; exact advisor repairs applied. Plain words rewritten as
+  a cost-in-hours exercise; example imagined and labelled.
+- Limitations: inherited parallels (endowment effect; Mullainathan and Shafir 2013;
+  upadana; Fromm having mode) NOT opened; flagged inherited parallels. Linked concepts
+  (Endowment effect, The having mode, Dependent origination, Law of Effect) skimmed as
+  seeds; they already cite D028.
+
+## B046 — Work with a koan
+
+- Opened: https://terebess.hu/zen/SekidaMumonkan.pdf (The Gateless Gate, Katsuki Sekida
+  translation) — case 1 (Jõshû's Mu, with Mumon's comment) and case 19 (Nansen's
+  Ordinary Mind Is the Way), fetched in full.
+- Verbatim quotes used: case 1 exchange "A monk asked Jõshû, 'Has a dog the Buddha
+  Nature?' Jõshû answered, 'Mu.'"; case 19 "The Way is not a matter of knowing or not
+  knowing. Knowing is delusion; not knowing is confusion." Body paraphrases of Mumon's
+  comment ("arouse your entire body", "summon up a spirit of great doubt and concentrate
+  on this word 'Mu'", "Carry it continuously day and night", "Do not form a nihilistic
+  conception of vacancy, or a relative conception of 'has' or 'has not'") checked against
+  the opened text.
+- "What is this?" appeared in the ORIGINAL BODY (not the protected statement): it is not
+  in the two opened cases, so it was removed from the body without any attribution
+  (no Hakuin claim made or recorded). Blue Cliff Record was also cited in the original
+  body; not opened this session, no claims made from it.
+- Milestone QC (advisor, round on B062): "A koan is not answered" softened to the
+  compendium's labelled reading.
+- Limitations: inherited parallels (Kounios and Beeman 2014; Plato Meno; Wittgenstein
+  Tractatus 7) NOT opened; flagged inherited parallels. Linked concepts (Insight
+  problem-solving, Aporia, The limits of language) skimmed as seeds only.
+
+## B061 — Trust original purity: nothing to attain
+
+- Opened: http://www.zhenhost.net/platform/ (Platform Sutra of Huineng, full text) —
+  ch. 1 stanzas and ch. 2 inherent-potential passage; and the Bankei lecture at
+  https://www.dharmazen.com/dharma-talks/2025/12/5/a-lecture-from-bankei-yotaku —
+  Unborn Buddha Mind, hearing proof, conclusive-realization instruction.
+- Verbatim quotes used: Huineng's stanza ("There is no Bodhi-tree, Nor stand of a
+  mirror bright. Since from the beginning not a thing is, Where can the dust alight?");
+  Bankei "What you all have from your parents innately is the Unborn Buddha Mind alone.
+  There's nothing else you have innately." (apostrophe glyph normalized; words exact).
+  Shen Hsiu's stanza, ch. 2 "potential for Enlightenment is inherent" passage and the
+  crow/sparrow/wind hearing proof paraphrased from the opened texts.
+- Milestone QC: translator of the dharmazen lecture NOT verified (page attribution not
+  established in the fetched text), so citations say "Dharma Zen Center", not "Waddell
+  translation". "Teaches the same content" softened to "makes a parallel claim";
+  example outcome claim repaired.
+- Limitations: inherited parallels (Rogers 1957; Nishida) NOT opened; flagged inherited
+  parallels. Linked concepts (Unconditional positive regard, Original enlightenment,
+  Pure experience) skimmed as seeds only.
+
+## B062 — Rest in the unborn (Bankei)
+
+- Opened: https://www.dharmazen.com/dharma-talks/2025/12/5/a-lecture-from-bankei-yotaku
+  (same Bankei lecture as B061; one opening served both items, per research batching).
+- Verbatim quotes used: the conclusive-realization passage; the hearing passage ("The
+  voices of the crows and sparrows, the rustling of the wind - you hear them without
+  making any mistake about them, and that's what's called hearing with the Unborn.").
+  Spelling of "marvellously" follows the opened page. Paraphrase of "with this Unborn,
+  everything is perfectly managed" checked against the opened text.
+- Item-5 QC (advisor): quote spelling corrected to "marvellously"; translator citation
+  replaced with "Dharma Zen Center" (translator unverified); worry-handling exercise
+  explicitly labelled as the compendium's extension of the hearing example rather than
+  Bankei's instruction; Plain words repetition repaired; state reopened and re-done.
+- REMOVED during self-check: the "living dead man" phrase — it appears in a
+  dailyzenjournal.com Bankei excerpt (per search snippet) but that page failed to open
+  (DNS failure, recorded per the evidence gate) and the phrase is not in the opened
+  lecture. Not asserted.
+- Limitations: inherited parallels (Brewer et al. 2011; Schooler et al. 2011; Eckhart;
+  Daodejing 15) NOT opened; flagged inherited parallels. Linked concepts (Meta-awareness,
+  Abgeschiedenheit, Pu) skimmed as seeds only.

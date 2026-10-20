@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 46** — Work with a koan
 
-Take an unanswerable question: "What is this?" or "Mu" — and let it consume the conceptual mind until the usual categories exhaust themselves and something direct shows through.
+Case 1 of the Gateless Gate is two lines long: a monk asks whether a dog has the Buddha Nature, and Zhaozhou answers with one word, Mu. Wumen's instructions for working on that word are practical rather than doctrinal: arouse the whole body, summon up a spirit of great doubt, carry the word day and night, and refuse both the nihilistic reading and the has-it-or-not reading. (Gateless Gate, case 1.)
 
-(Gateless Gate, cases 1, 19; Blue Cliff Record.)
+> "A monk asked Jõshû, 'Has a dog the Buddha Nature?' Jõshû answered, 'Mu.'" (Gateless Gate, case 1, [Sekida](https://terebess.hu/zen/SekidaMumonkan.pdf))
 
-**Plain words** Take an unanswerable question — 'What is this?' or 'Mu' — and let it consume the conceptual mind until the usual categories exhaust themselves and something direct shows through. The koan isn't a puzzle to solve; it's a machine for breaking the solving habit.
+The same move against the conceptual mind appears in case 19. Nansen tells Zhaozhou that ordinary mind is the Way, and when pressed on how to know it, answers that the Way is not a matter of knowing or not knowing. In the compendium's reading, a koan is carried rather than answered; the carrying is what wears out the categories that would answer it.
 
-*For example:* Carrying 'what is this?' through a whole week — by Friday the question stops being words and starts being a way of looking.
+> "The Way is not a matter of knowing or not knowing. Knowing is delusion; not knowing is confusion." (Gateless Gate, case 19, [Sekida](https://terebess.hu/zen/SekidaMumonkan.pdf))
+
+**Plain words**
+The exercise is to hold a question your mind cannot file away. Each time you catch yourself turning "Mu" into a position, a metaphor or a nothing, notice that, and go back to the word. The aim is to keep the doubt running while your usual explanations keep failing.
+
+*For example:* Imagine a student who takes up the word for a week of ordinary tasks: cooking, commuting, disagreeing. Somewhere in the week the question stops being a sentence about a dog and becomes something she notices her own mind doing.
+
+## Sources
+
+- [The Gateless Gate (Mumonkan), Katsuki Sekida translation, Terebess](https://terebess.hu/zen/SekidaMumonkan.pdf) — cases 1 and 19
 
 ## Psychology parallels
 
