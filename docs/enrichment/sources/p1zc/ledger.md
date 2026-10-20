@@ -213,3 +213,22 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   Zeigler-Hill 2007; McConnell 2011) NOT source-checked this item — flagged, not
   certified. Saturation: 6 concept pages already cite SE049; no additional links
   warranted. Validator ok. DONE (no advisor QC due: item 10; next at item 11).
+
+## SE050 — Manage social comparison (item 11, advisor QC)
+- Source opened: Festinger 1954, Human Relations 7(2) 117-140, humanscience.org archive
+  copy — downloaded, pdftotext; Hypotheses I and II verified character-for-character.
+  LOCATOR NOTE: the archive PDF lacks printed page numbers; the blockquote now cites
+  "Hypotheses I-II" (advisor-corrected; the earlier pp. 117-118 derivation was not
+  supported by the opened copy's formatting). Article range 117-140 in Sources only.
+- Advisor round-1 repairs applied: unsupported generalizations removed ("automatic",
+  "almost never fair", envy/smugness breeding, "the only comparison that pays", the
+  "whatever the comparison target happens to be" closer); body replaced with the
+  advisor's source-bounded version; Plain words replaced; For example replaced with
+  a labelled imagined illustration; social-media parallel reduced to a bare reference
+  (Vogel 2014/Fardouly 2015 not opened, flagged); Practice replaced with the
+  compendium exercise. Festinger's "in many instances, perhaps most" sentence removed
+  with the old body (subsumed by the advisor's body wording).
+- Mention hunt: "comparison" too generic; specific candidates inspected: Envy and
+  Self-Evaluation Maintenance Theory do not cite SE050 (both proposed, bounded
+  clauses); Affect as information already cites SO031 (related principle; no
+  proposal). Validator ok vs baseline. Round 2 pending.

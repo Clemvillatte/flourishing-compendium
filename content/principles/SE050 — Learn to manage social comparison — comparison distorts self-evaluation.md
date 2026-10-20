@@ -12,15 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 50** — Learn to manage social comparison: comparison distorts self-evaluation
 
-Social comparison — evaluating yourself relative to others — is automatic and often distorting. Upward comparison (comparing to those better off) can motivate or discourage; downward comparison (comparing to those worse off) can comfort or foster contempt. Managing comparison is a self-relational skill.
+Social comparison is evaluating yourself relative to others. Festinger presents it as a response to an evaluation problem: people seek to assess their opinions and abilities, and objective, non-social means are sometimes unavailable. For this compendium, the practical question is what a particular comparison can actually tell you.
 
-**Plain words** Comparing yourself to others is automatic and almost never fair, because you're comparing your unedited reel to their highlight reel. Upward comparison breeds envy and defeat; downward comparison breeds smugness. The only comparison that pays is you-now versus you-before.
+> "Hypothesis I: There exists, in the human organism, a drive to evaluate his opinions and his abilities. ... Hypothesis II: To the extent that objective, non-social means are not available, people evaluate their opinions and abilities by comparison respectively with the opinions and abilities of others." (Festinger, 1954, Hypotheses I-II)
 
-*For example:* Scrolling a former classmate's promotion photos at midnight, you're not gathering information. You're administering a beating. Put the phone in another room and compare yourself to last January instead — that's a fight you can actually win.
+**Plain words** Ask what the comparison is measuring. Are you looking at comparable work and circumstances, with enough information to judge? Write down what is missing before drawing a conclusion about yourself.
+
+*For example (imagined):* Someone sees a classmate's promotion announcement and starts calling their own career a failure. They list what they do not know about the other job before deciding whether the comparison provides useful information.
+
+## Sources
+
+- [Festinger, L. (1954). A Theory of Social Comparison Processes. Human Relations, 7(2), 117-140](https://www.humanscience.org/docs/Festinger%20(1954)%20A%20Theory%20of%20Social%20Comparison%20Processes.pdf) — Hypotheses I-II
+
 ## Psychology parallels
 
-- **[[Social comparison|Social comparison theory (Festinger)]]**, people evaluate themselves by comparison (Festinger, 1954; Wood, 1996)
-- **Social media amplifies upward comparison**, curated online presentations amplify upward comparison and reduce well-being (Vogel et al., 2014; Fardouly et al., 2015)
+- **[[Social comparison|Social comparison theory (Festinger)]]** — Festinger, 1954; Wood, 1996
+- Social media and upward comparison — Vogel et al., 2014; Fardouly et al., 2015 (not opened for this item; bare reference)
 
 ## Philosophy parallels
 
@@ -30,4 +37,4 @@ Social comparison — evaluating yourself relative to others — is automatic an
 
 ## Practice
 
-- Notice when you are comparing. Ask: "is this comparison useful or distorting?" Reduce unnecessary comparison (social media). Compare to your past self, not to others.
+- As a compendium exercise, record one comparison, the information it gives you, and what it leaves unknown. Decide whether you want to act on it.
