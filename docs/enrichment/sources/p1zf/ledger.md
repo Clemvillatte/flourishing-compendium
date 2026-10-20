@@ -11,3 +11,7 @@
 ## E017 — Embodied perception
 - Sources opened: Merleau-Ponty PP (Smith 2002, archive.org PDF) p. xi (verbatim quote), p. 239; Wilson 2002 Psychon Bull Rev 9:625-636 (PMID 12613670, abstract).
 - Heidegger Being and Time §13 and §§22-24 not opened; citation removed from body, parallels bullet left as inherited and unverified. Gibson 1979 unopened. Old house-hunter "within ninety seconds" example removed (unsourced). Page now states the strong embodied claim is a stance; Wilson 2002 gives mixed support.
+
+## E022 — Thrownness
+- Sources opened: Heidegger Being and Time §29 H.135 via dhspriory.org (page does not name translators; wording identical to the 1962 Macquarrie & Robinson text in the archive.org full-text search excerpt); SEP Heidegger entry §2.4.2 (verbatim "I become myself by first owning..."); SEP fall 2017 edition search excerpt ("delicate balance of determination (thrownness) and freedom (projection)").
+- Old citations §§27, 38, 41 not opened; replaced with §29. "You can choose how to respond" is not Heidegger's own coping advice; page says so. Rotter 1966 and Hayes 2006 parallels are bare wikilinks, unverified. Imagined example replaced.
