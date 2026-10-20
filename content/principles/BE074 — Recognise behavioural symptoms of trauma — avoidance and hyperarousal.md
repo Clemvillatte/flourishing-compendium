@@ -12,15 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 74** — Recognise behavioural symptoms of trauma: avoidance and hyperarousal
 
-Trauma produces specific behavioural symptoms: avoidance of trauma-related cues, hypervigilance, hyperarousal, intrusive re-experiencing. These are symptoms, not choices. They are treatable with trauma-specific therapy.
+After a traumatic event, the behaviour changes in recognisable directions. The UK guideline describes the presentation:
 
-**Plain words** Trauma's prints: avoiding anything related, scanning exits, startling at nothing, sleep that won't come. These are survival behaviours that outlived the danger. They're not overreactions — they're reactions that never got the all-clear.
+> "Be aware that people with post-traumatic stress disorder (PTSD), including complex PTSD, may present with a range of symptoms associated with functional impairment, including: re-experiencing; avoidance; hyperarousal (including hypervigilance, anger and irritability); negative alterations in mood and thinking; emotional numbing; dissociation; emotional dysregulation; interpersonal difficulties or problems in relationships; negative self-perception (including feeling diminished, defeated or worthless)." (NICE guideline NG116, 2018, [recommendations](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations))
 
-*For example:* The friend who goes quiet at slammed doors — not moody; their nervous system is doing threat-detection it learned in a war. The behaviour is protective; it's just protecting against a past.
+The two behavioural clusters this principle names are the ones families usually see first. The US National Center for PTSD describes avoidance as: "You may try to avoid situations or people that remind you of the trauma. You may even avoid talking or thinking about the event." Hyperarousal reads as: "You may be jittery, or always alert and on the lookout for danger. You might suddenly become angry or irritable" (National Center for PTSD, [PTSD Basics](https://www.ptsd.va.gov/understand/what/ptsd_basics.asp)).
+
+Treatment guidance is specific. NICE: "Offer an individual trauma-focused CBT intervention to adults with a diagnosis of PTSD or clinically important symptoms of PTSD who have presented more than 1 month after a traumatic event", listing cognitive processing therapy, cognitive therapy for PTSD, narrative exposure therapy and prolonged exposure therapy; and "Offer EMDR to adults with a diagnosis of PTSD or clinically important symptoms of PTSD who have presented more than 3 months after a non-combat-related trauma" (NICE NG116, 2018).
+
+**Plain words** Two behaviour changes are the usual signature. First, avoidance: the person steers around anything that recalls the event, including talking about it. Second, hyperarousal: poor sleep, a startle response that fires at small noises, scanning for exits, irritability that arrives faster than thought. Both made sense when the danger was real. The guideline's position is that these are symptoms with named treatments, not character flaws; if they are affecting daily life, the next step is an assessment, not a verdict.
+
+**For example:** Imagined: after a car crash, someone stops driving on motorways, takes long detours, and startles when a car brakes hard nearby. Both behaviours are traceable to the event; both belong in the conversation with a clinician about what to do next.
+
 ## Psychology parallels
 
-- **PTSD behavioural symptoms**, avoidance and hyperarousal are core symptoms (APA, 2022; Foa et al., 2007)
-- **Trauma-focused treatments are effective**, prolonged exposure, CPT, and EMDR are evidence-based (Foa et al., 2007; APA, 2022)
+- **PTSD behavioural symptoms (NICE NG116, 2018)**, the guideline lists re-experiencing, avoidance, and hyperarousal (including hypervigilance, anger and irritability) among symptoms associated with functional impairment
+- **Trauma-focused treatments (NICE NG116, 2018)**, individual trauma-focused CBT (including cognitive processing therapy and prolonged exposure) for adults presenting more than 1 month after an event; EMDR for adults presenting more than 3 months after a non-combat-related trauma
 
 ## Philosophy parallels
 
@@ -31,3 +38,8 @@ Trauma produces specific behavioural symptoms: avoidance of trauma-related cues,
 ## Practice
 
 - If you have trauma-related behavioural symptoms (avoidance, hypervigilance, intrusion), seek trauma-specific treatment. Self-directed behavioural strategies are not sufficient for trauma.
+
+## Sources
+
+- National Institute for Health and Care Excellence (2018). Post-traumatic stress disorder (NICE guideline NG116). [Recommendations](https://www.nice.org.uk/guidance/ng116/chapter/Recommendations)
+- National Center for PTSD (US Department of Veterans Affairs). PTSD Basics. [Page](https://www.ptsd.va.gov/understand/what/ptsd_basics.asp)

@@ -1,6 +1,6 @@
 {
  "batch": "p1zr",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
@@ -61,6 +61,12 @@
    "link": "BE046",
    "why": "A principle discussing slow breathing as an emotion-regulation practice",
    "notes": "Milestone QC: narrowed per advisor (no implication that the procedure trains posture)."
+  },
+  {
+   "into": "Exposure therapy (Foa, Craske)",
+   "link": "BE074",
+   "why": "A principle on the behavioural symptoms that exposure-based PTSD treatments target",
+   "notes": "BE074's treatment paragraph carries the NICE NG116 recommendation of trauma-focused CBT incl. prolonged exposure (opened guideline, ledger BE074.md). Target page does not currently cite BE074."
   }
  ],
  "inline": [],
