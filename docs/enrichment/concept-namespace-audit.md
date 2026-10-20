@@ -245,6 +245,23 @@ enriched (2026-10-20). Pending supervisor disposition: keep both,
 merge, or differentiate by field (the clinical IU literature vs the medical-education
 uncertainty-tolerance literature); no merge attempted by the worker.
 
+Possible near-duplicate pair (flagged by worker-w1aa-9e4b6d1f, 2026-10-20, while enriching
+Generative model theory): "Generative model theory" (deg 4, w1aa fast-track band) and the
+already-enriched "Predictive processing" (deg 9, same NAV-TH-COGNITION theory track) cover the
+same Clark-2013 predictive-processing framework, alongside "Active inference" (deg 1) and
+"Free Energy Principle" (deg 1). The opened Clark 2013 full text defines "generative model"
+(a component of the framework) but does not name a standalone "Generative model theory";
+the page title is the compendium's own heading. No merge attempted by the worker. Pending
+supervisor disposition: merge into Predictive processing (the Clark material preserved as a
+subsection or facets entry), rename to a sourced term, or keep as a separate heading
+differentiated as the generative-model component. The seed's only principle edge ([[CO048 —
+Distinguish worry from problem-solving — worry is not planning]]) is one-directional: CO048's
+own page contains no link to or mention of this concept (grep-verified); the inherited
+Cited-in link is preserved unchanged pending disposition. The corrected, source-bounded body
+(Clark 2013 section 1.1, printed p. 182) is pushed as WIP; the item is NOT marked done
+pending this disposition. Advisor QC (item-20 milestone) prescribed the repairs and the
+namespace check; post-repair re-review pending alongside the disposition.
+
 ## Owner-cited good examples (the standard)
 
 The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.

@@ -20,11 +20,12 @@
   "Frugality",
   "Galinsky et al"
  ],
- "in_progress": null,
+ "in_progress": "Generative model theory",
  "flagged": {
-  "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request"
+  "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request",
+  "Generative model theory": "namespace near-duplicate of Predictive processing; supervisor disposition pending (see concept-namespace-audit.md); advisor post-repair re-review pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:06:19+00:00"
+ "updated": "2026-10-20T12:09:33+00:00"
 }
