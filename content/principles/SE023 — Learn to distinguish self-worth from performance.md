@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 23** — Learn to distinguish self-worth from performance
 
-Crocker and colleagues name the mechanism: people stake their self-esteem on domains, and worth then rides on outcomes in those domains:
+Crocker and Park describe contingencies of self-worth: domains in which people's judgements of their own worth depend on perceived success or failure:
 
 > "A contingency of self-worth is a domain or category of outcomes on which a person has staked his or her self-esteem, so that person's view of his or her worth depends on perceived successes, failures, or adherence to self-standards in that domain." (Crocker & Park, 2003, Handbook of Self and Identity, 'Seeking Self-Esteem', section 'Constructing Self-esteem: Contingencies of Self-Worth', [full text](https://ubwp.buffalo.edu/selfandmotivationlab/wp-content/uploads/sites/91/2018/05/Crocker-Park-2003-Handbook-of-SAI.pdf))
 
@@ -28,7 +28,7 @@ The study concerns self-esteem changes during graduate applications. Separating 
 ## Psychology parallels
 
 - **Contingent self-worth on competence** (Crocker & Wolfe, 2001; Crocker, 2002)
-- **Performance and self-worth are distinct** (Neff, 2011)
+- **Self-worth and performance** (Neff, 2011)
 
 ## Philosophy parallels
 
@@ -43,7 +43,7 @@ The study concerns self-esteem changes during graduate applications. Separating 
 ## Related concepts
 
 - [[Contingent self-esteem]] — the construct this principle works with: where the stake sits.
-- [[The inner citadel]] — the Stoic version of the same separation.
+- [[The inner citadel]]
 
 ## Sources
 
