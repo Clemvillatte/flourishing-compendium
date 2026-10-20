@@ -396,3 +396,19 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   Saguy et al. 2011) NOT source-checked — flagged, not certified. Saturation: 5
   concept pages already cite SO046 (incl. Intergroup contact, Prejudice reduction);
   no additional links warranted. Validator ok. DONE (no advisor QC due: item 18).
+
+## SO056 — Design institutions for flourishing (item 19)
+- Source opened: Biglan, Flay, Embry & Sandler 2012, American Psychologist 67(4)
+  257-271, PMC full text (PMC3621015) — fetched; the four-features definition and the
+  convergence-principle sentence verified verbatim against the opened page. NOTE:
+  quoted from the PMC rendering ("...and act in the service..." — the printed PDF
+  variant reads "...and to act..."; the PMC wording is what the page quotes).
+- Body: added the four-features blockquote + the convergence-principle sentence.
+  Plain words re-derived (was a semi-replicate: repeated "designed for flourishing,
+  not just efficiency" from the body). Philosophy parallels reformatted from
+  malformed seed rows into standard bullets; content preserved.
+- Inherited parallels (IOM 2009; Wahlbeck et al. 2015; WHO 2022; Ostrom 1990;
+  Thaler & Sunstein 2008) NOT source-checked — flagged, not certified. Saturation:
+  5 concept pages already cite SO056 (incl. Choice architecture, Nudge theory,
+  Education as growth); no additional links warranted. Validator ok.
+  DONE (no advisor QC due: item 19).
