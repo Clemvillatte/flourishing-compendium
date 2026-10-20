@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 31** — Recognise loss aversion: losses hurt more than gains feel good
 
-Losses are felt roughly twice as intensely as equivalent gains. This asymmetry drives risk-aversion in gains and risk-seeking in losses, and explains many irrational decisions (holding losing stocks, refusing to cut losses).
+The 1979 prospect theory paper names the asymmetry in the attitudes data: a salient characteristic of attitudes to changes in welfare is that losses loom larger than gains, and the aggravation of losing a sum of money appears greater than the pleasure of gaining the same amount, so most people find symmetric bets distinctly unattractive ([Kahneman & Tversky 1979](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf)). The paper's model encodes it: the value function is generally concave for gains and commonly convex for losses, and is steeper for losses than for gains.
 
-**Plain words** Loss aversion: losses are felt roughly twice as intensely as equivalent gains. This asymmetry drives risk-aversion in gains and risk-seeking in losses — holding losing stocks, refusing to sell the failing venture. Know the asymmetry; it's steering your portfolio and your life.
+> "A salient characteristic of attitudes to changes in welfare is that losses loom larger than gains. The aggravation that one experiences in losing a sum of money appears to be greater than the pleasure associated with gaining the same amount." (Kahneman & Tversky 1979, [Econometrica 47(2): 263-291](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf))
 
-*For example:* The investor who sells the winners and keeps the losers — the losses hurt too much to realise — and the reframing that helps: "if I held only cash today, would I buy this stock?" The asymmetry doesn't vanish, but the question re-prices it.
+**Plain words**
+A fifty-fifty bet to win or lose the same amount feels bad to most people, and the paper's reading of that is the asymmetry itself: giving up a thing bites harder than getting it delights. Two practical consequences follow: you hold losing positions too long because selling makes the loss real, and you turn down balanced risks because the downside is felt harder than the upside. The repair is not courage but pricing.
+
+*For example:* An imagined case: an investor sells the winners and keeps the losers, because selling the losers makes the loss real. The re-pricing question: if I held only cash today, would I buy this? The asymmetry does not vanish, but the question puts the holding and the cash on the same scale.
+
+## Sources
+
+- [Kahneman & Tversky, "Prospect theory: an analysis of decision under risk," Econometrica 47(2): 263-291 (1979)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_Tversky_1979_Prospect_theory.pdf) — The value function section (full text PDF opened)
+
 ## Psychology parallels
 
 - **[[Prospect theory|Prospect theory and loss aversion]]**, losses loom larger than gains by a factor of ~2 (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)
