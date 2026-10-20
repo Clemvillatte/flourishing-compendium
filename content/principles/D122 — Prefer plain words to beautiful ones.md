@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 122** — Prefer plain words to beautiful ones
 
-Truthful words are not beautiful; beautiful words are not truthful. Choose accuracy over ornament, in speech and in self-description.
+Daodejing 81 opens with the pairing, three times over:
+
+> "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it. Those who know (the Tao) are not extensively learned; the extensively learned do not know it." (DDJ 81, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter is the Tao Teh King's closing page, and its last line turns the same preference on the sage's own conduct: "With all the doing in the way of the sage he does not strive." Ornament, dispute and display are grouped together as forms of striving — effort spent on how the words land rather than on whether they are so.
 
 (DDJ 81.)
 
-**Plain words** The polished version of the story is usually where the truth went to hide. Choose accuracy over ornament, in speech and in self-description.
+**Plain words** The polished version of the story is usually where the truth went to hide. DDJ 81's pairings are blunt: fine and sincere, disputatious and skilled, learned and knowing. Each pair names a real trade, and the chapter comes down on the plain side of all three. The practical test for any sentence you are about to say or write: could you say the duller version, and would it be more exact?
 
-*For example:* The résumé that says 'was part of a team that' versus the one that says 'I did' — precision is more impressive than shine anyway.
+*For example:* The résumé that says "was part of a team that" versus the one that says "I did" — the plain one is more impressive, because it can be checked.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 81
 
 ## Psychology parallels
 
-- **The "consequences of erudite vernacular"**, needlessly complex language lowers perceived author intelligence (Oppenheimer, 2006)
+- **The "consequences of erudite vernacular"** (Oppenheimer, 2006)
 - **[[Plain-language comprehension research|Plain-language comprehension research]]**
 
 ## Philosophy parallels
