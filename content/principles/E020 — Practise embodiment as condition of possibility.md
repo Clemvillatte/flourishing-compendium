@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 412** — Practise embodiment as condition of possibility
 
-Recognise that embodiment is not a contingent fact about human existence but the condition of possibility for all experience, all thought, all meaning. Without a body, there would be no perception, no language, no self, no world. Honour your embodiment as the ground of everything you are.
+The claim is that experience, thought and meaning are made of the body. Merleau-Ponty argues it in Phenomenology of Perception through the case of Schneider, a brain-injured patient whose injury disrupted what he calls the "intentional arc" that
 
-(Merleau-Ponty, 1945/2012, Phenomenology of Perception, Introduction; Heidegger, 1927/2008, Being and Time, §§12-13.)
+> projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships. (Merleau-Ponty, Phenomenology of Perception, p. 170/137, as quoted in [Toadvine, SEP](https://plato.stanford.edu/entries/merleau-ponty/))
 
-**Plain words** Embodiment is not a contingent fact about you but the condition of possibility for all experience, thought, and meaning. No body, no perception, no language, no self, no world. Honour your embodiment as the ground floor it is.
+The dependence runs one way: when bodily function is damaged, movement is only the first thing to go; the unity of a world goes with it. Schneider's past, future and situations stopped cohering with him, because the arc that situates a life is the body's own projective functioning. Condition of possibility here means the shape of experience is already bodily before anything is thought.
 
-*For example:* The person who treats the body as the commute to the real life in the head — then one illness puts the whole enterprise in receivership, and the ground floor's importance becomes unmistakable from the stretcher.
+(Merleau-Ponty, 1945/2012, Phenomenology of Perception, p. 170/137.)
+
+**Plain words**
+Everything you can do, think or mean runs through a living body. Your sense of time, of other people, of what matters does not sit in a disembodied mind waiting for playback; it holds together only while a body keeps relating to a world. Illness makes this plain: when the body fails, plans, meanings and relationships wobble with it. So treat the body as the load-bearing part of your life, not as the transport that carries your head around.
+
+*For example:* Imagine a writer who treats the body as a commute between the bed and the desk, then develops a wrist injury. The injury does not touch the mind, yet the sentences, the plans and the shape of the day all reorganise around the wrist. The part treated as optional turns out to be the part doing the holding up.
+
+## Sources
+
+- [Toadvine, "Maurice Merleau-Ponty", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/merleau-ponty/) — verbatim PoP quotation (p. 170/137, intentional arc); Schneider case context. The English PoP translations are in copyright; the quote is verified against this opened page (secondhand-quote precedent: E016, E070)
 ## Stories
 
 - [[ST262 — Georges Cares for Anne|262. Georges Cares for Anne]]
