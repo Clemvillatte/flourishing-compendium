@@ -7,7 +7,7 @@ file: "Everyone desires eudaimonia"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Everyone desires eudaimonia is Aristotle's claim in Nicomachean Ethics I: every other good is chosen at least partly for the sake of happiness, while happiness is chosen only for itself.
+Everyone desires [[Eudaimonia|eudaimonia]] is Aristotle's claim in Nicomachean Ethics I: every other good is chosen at least partly for the sake of happiness, while happiness is chosen only for itself.
 
 > "Now such a thing happiness, above all else, is held to be; for this we choose always for self and never for the sake of something else, but honour, pleasure, reason, and every virtue we choose indeed for themselves (for if nothing resulted from them we should still choose each of them), but we choose them also for the sake of happiness, judging that by means of them we shall be happy. Happiness, on the other hand, no one chooses for the sake of these, nor, in general, for anything other than itself." (Aristotle, Nicomachean Ethics I.4, 1097b, tr. W. D. Ross, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
