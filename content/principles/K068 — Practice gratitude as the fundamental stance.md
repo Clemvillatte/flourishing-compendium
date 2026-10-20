@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 68** — Practice gratitude as the fundamental stance
 
-In Tanabe's Philosophy as Metanoetics, the self that cannot ground itself is met by Other-power, and the book's closing note is that his philosophy is "returned to the world" in an act of gratitude, to serve as a medium for spreading faith in Other-power (p. 391). The compendium reads the principle as a stance trained by repetition in small matters: end each day by naming one thing that was given and not earned.
+In the passage quoted by Michiel Herman, Tanabe says his philosophy is 'returned to the world' in an act of gratitude, to serve as a medium for spreading faith in Other-power (Philosophy as Metanoetics, p. 391, 2nd revised edition, Chisokudō 2016, trans. Takeuchi and Heisig). The compendium's application is a daily routine: end each day by naming one thing that was given and not earned.
 
 (Tanabe, Philosophy as Metanoetics, the gratitude chapters.)
 
-> Philosophy is "returned to the world" in an act of gratitude, to serve as a medium for spreading faith in Other-power. In this way, metanoetics becomes a philosophical witness of action-faith in Other-power. (Tanabe, Philosophy as Metanoetics, p. 391; quoted in Michiel Heran, "The Ethos of Repentance: A Study of Tanabe Hajime and His Vision of Other-Power", Nanzan Bulletin 48, note 55)
+> philosophy is 'returned to the world' in an act of gratitude, to serve as a medium for spreading faith in Other-power. In this way, metanoetics becomes a philosophical witness of action-faith in Other-power. (Tanabe, Philosophy as Metanoetics, p. 391; quoted in Michiel Herman, "The Ethos of Repentance: A Study of Tanabe Hajime and His Vision of Other-Power", Nanzan Bulletin 48, note 55; opening letter capitalized for sentence start, otherwise as printed)
 
-**Plain words** Gratitude as a stance differs from gratitude as a moment: the moment reacts to a gift, the stance is the posture the self settles into once it stops trying to be its own foundation. Tanabe trains it from the small end, and the compendium's version is one line a day, naming something given rather than earned. The doctrine matters less than the repeated noticing.
+**Plain words** The quoted passage has Tanabe answering what he received with gratitude and passing the philosophy back to the world. The compendium's version is the daily one-line exercise: name a particular kindness received that day, something given rather than earned, and notice what the naming does.
 
 *For example:* Imagined example: before sleep, someone thinks: the neighbour who watered the plants, the bus driver's nod, the tea. Not earned, just given.
 

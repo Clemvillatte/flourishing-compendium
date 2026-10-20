@@ -12,9 +12,9 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 58** — Let the mind be, unaltered
 
-The Ganges Mahamudra, the pith instruction Tilopa gave Naropa, says: do not think about anything, let all ambition drop, and let what arises settle by itself, like patterns in water (v. 13, in Ken McLeod's translation). The compendium reads the principle as the instruction behind the lineage's slogans: nothing needs adjusting for the mind to be at rest. As a compendium exercise, sit for five minutes with the single instruction "do not adjust anything," and notice how many times your hands reach for the dials.
+Verse 13 of the Ganges Mahamudra asks the practitioner to let what arises settle by itself, like patterns in water. The compendium uses this instruction as an exercise in noticing the urge to interfere: sit for five minutes with the single instruction "do not adjust anything," and notice how many times your hands reach for the dials.
 
-(Saraha's songs, the Dohakosha; the Mahamudra lineage instruction.)
+(Tilopa, Ganges Mahamudra, v. 13; Ken McLeod translation.)
 
 > Do not think about anything; let all ambition drop. Let what arises settle by itself, like patterns in water. (Tilopa, Ganges Mahamudra v. 13, Ken McLeod translation)
 

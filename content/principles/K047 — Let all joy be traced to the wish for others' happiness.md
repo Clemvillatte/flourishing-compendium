@@ -18,7 +18,7 @@ Shantideva's summary verse states the teaching directly: everyone who is happy i
 
 > All whosoever who are happy in the world are (so) through the wish for the happiness of others; while all whosoever who are miserable in the world are (so) through the wish for the happiness of themselves. (Shantideva, Bodhicharyavatara VIII.129, Alexander Berzin translation, 2004)
 
-**Plain words** The verse pairs happiness with wishing others well and misery with wishing only yourself well. Shantideva offers it as a diagnosis, and a compendium exercise follows it: look over a week of your own hours and see whether the pairing holds for you.
+**Plain words** The verse pairs happiness with wishing others well and misery with the wish for your own happiness. Shantideva offers it as a diagnosis, and a compendium exercise follows it: look over a week of your own hours and see whether the pairing holds for you.
 
 *For example:* Imagined example: looking back over a week's calendar, someone marks which hours felt best and checks how many of those involved someone else's good.
 

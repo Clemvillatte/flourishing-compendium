@@ -12,21 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 45** — Understand self-cherishing as the root error
 
-Shantideva's chapter on exchanging self and others opens with a diagnosis: whatever violence, fear and suffering there is in the world arises from grasping at a self (VIII.134), and the practice he prescribes is the exchange of self with others (VIII.120). The compendium reads the principle as a standing question to put to the self-first reflex: where the grip came from, and what it is holding.
+In chapter 8, Shantideva attributes violence, fear and suffering to grasping at a self (VIII.134) and recommends exchanging self and others (VIII.120). The compendium's application is a perspective-taking exercise: notice the self-first reflex and what it is holding, and try taking the other's case as yours.
 
 (Shantideva, Bodhicharyavatara, ch. 8.)
 
 > Whatever violence there is in the world, and as much fear and suffering as there is, all of it arises from grasping at a self: so what use is that terrible demon to me? (Shantideva, Bodhicharyavatara VIII.134, Alexander Berzin translation, 2004)
 
-**Plain words** The verse says the world's violence and fear grow out of gripping a self. Shantideva's prescribed practice is to swap places in imagination: take the other's case as yours, as the verse's chapter goes on to do. The exercise is to notice the grip; the teaching does not ask you to denounce yourself for it.
+**Plain words** The verse says the world's violence and fear grow out of gripping a self. The chapter's prescribed practice is to swap places in imagination, and the compendium turns that into an exercise: when two cases compete for your attention, try taking the other's as yours and see what changes.
 
 *For example:* Imagined example: in a queue, someone pushes ahead of you; before deciding what to feel, you ask what the moment looks like from their side and from the bystanders'.
 
 ## Sources
 
 - [Shantideva, Engaging in Bodhisattva Behavior, ch. 8 "Perfection of Concentration" (Berzin translation)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/engaging-in-bodhisattva-behavior/perfection-of-concentration)
-
-## Psychology parallels
 
 ## Psychology parallels
 
