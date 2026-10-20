@@ -22,7 +22,8 @@
   "BI016",
   "BI017",
   "BI026",
-  "BI046"
+  "BI046",
+  "BI047"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,10 +40,11 @@
   "BE056": "Reopened for QC: item-15 milestone QC round-4 repairs applied, re-closing",
   "BE069": "Reopened for QC: item-15 milestone QC round-4 repairs applied, re-closing",
   "BI017": "Unsourced claims dropped; Czeisler 1989 not opened",
-  "BI026": "Self-esteem/cognition claims unsupported; self-esteem parallel cites Gordon 2018 (depression only); Stathopoulou/Tucker not opened"
+  "BI026": "Self-esteem/cognition claims unsupported; self-esteem parallel cites Gordon 2018 (depression only); Stathopoulou/Tucker not opened",
+  "BI047": "Jacobson 1938, Lehrer&Gevirtz 2014 not opened; 5s/15s timings unverified; Khir 2024 via excerpt"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:31:30+00:00",
+ "updated": "2026-10-20T10:31:49+00:00",
  "band_done": false
 }

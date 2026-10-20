@@ -168,3 +168,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: Balban et al. 2023 PubMed abstract + PMC full text (instructions, sample, limitations quoted verbatim).
 - Added caveats: exploratory, retrospective registration, 4 weeks, small groups; author COI (Huberman, WHOOP advisor). Trial's name for the practice is "cyclic sighing".
 - QC: self-QC only; validator pass.
+
+## BI047 — Progressive muscle relaxation
+- Sources opened: Manzoni et al. 2008 (PMC2427027, abstract/results/conclusion); Khir et al. 2024 (PMC10844009) seen via search excerpt only, flagged as such.
+- Jacobson 1938, Lehrer & Gevirtz 2014 not opened; Practice timings (5 s/15 s) unverified.
+- QC: self-QC only; validator pass.
