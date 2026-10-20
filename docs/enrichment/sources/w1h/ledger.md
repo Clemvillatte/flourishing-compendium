@@ -345,3 +345,12 @@
   insufficiency from the abstract.
 - The K-factor psychometrics debate NOT covered (PMID 29143184 critique and
   Figueredo work seen in snippets only); no claims made about it.
+
+## Limit situations (Grenzsituationen) (fast-track)
+- Opened: SEP "Karl Jaspers" (Thornhill & Miron) — limit-situations passage quoted
+  verbatim as carried (disclosed provenance, Psychology of World Views context);
+  theory of the limit and the unconditioned paraphrased from the entry.
+- SEP does NOT enumerate death/suffering/struggle/guilt — the seed's Wikipedia
+  list kept as the seed's own sourced summary line, explicitly attributed to
+  the seed's Wikipedia source, and flagged as not in the SEP passage.
+- Seed's trailing summary lines preserved verbatim.
