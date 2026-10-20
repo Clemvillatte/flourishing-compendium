@@ -40,12 +40,11 @@
   "BE052",
   "BI045",
   "AT003",
-  "AT013",
   "AT016",
   "AT035",
   "AT039"
  ],
- "in_progress": null,
+ "in_progress": "AT013",
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
   "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
@@ -73,10 +72,11 @@
   "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks",
   "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop",
   "BI045": "Reopened for QC: apply routed QC correction (worker-p1p note): 'pooled result' wording + pitch outcome suggestion not in source",
-  "AT003": "Reopened for QC: advisor QC FAIL round 1: unattributed shared-resource claim, unsupported performance-degradation claim, 'did not survive testing' overreach, rest-as-restoration overreach, plain-words diagnostic signs, clipped contrast in example"
+  "AT003": "Reopened for QC: advisor QC FAIL round 1: unattributed shared-resource claim, unsupported performance-degradation claim, 'did not survive testing' overreach, rest-as-restoration overreach, plain-words diagnostic signs, clipped contrast in example",
+  "AT013": "Reopened for QC: advisor milestone QC FAIL: unsupported ranking, effect promises beyond meta-analysis scope"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:27:39+00:00",
+ "updated": "2026-10-20T03:31:18+00:00",
  "band_done": false
 }
