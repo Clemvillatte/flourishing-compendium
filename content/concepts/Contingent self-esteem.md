@@ -7,7 +7,7 @@ file: "Contingent self-esteem"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Contingent self-esteem is Jennifer Crocker's term for self-worth made conditional on meeting particular criteria. Crocker discusses these criteria as contingencies of self-worth in "The Costs of Seeking Self-Esteem":
+Self-esteem is contingent when a person treats meeting particular criteria as a condition of being worthwhile. Crocker discusses these criteria as contingencies of self-worth in "The Costs of Seeking Self-Esteem":
 
 > Connie Wolfe and I have called these contingencies of self-worth, because they reflect the domains in which people believe they must achieve or succeed to be worthwhile.
 >

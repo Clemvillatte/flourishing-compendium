@@ -8,7 +8,7 @@ tags: ["psych/biophys", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The default mode network includes the medial prefrontal and posterior cingulate cortices among its main nodes. Raichle and colleagues identify "an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors" (Raichle et al. 2001). Brewer and colleagues' PNAS study sets up the meditation contrast:
+The default mode network includes the medial prefrontal and posterior cingulate cortices among its main nodes. Raichle and colleagues conclude from decreases in activity during goal-directed behaviors: "These decreases suggest the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors" (Raichle et al. 2001). Brewer and colleagues' PNAS study sets up the meditation contrast:
 
 > the default mode of humans appears to be that of mind-wandering, which correlates with unhappiness, and with activation in a network of brain areas associated with self-referential processing.
 >
@@ -28,7 +28,7 @@ The study scanned experienced meditators and matched meditation-naive controls d
 [[D009 — Trust emptiness — space is what works]]
 ## Cited in philosophy parallels
 
-differences between experienced meditators and meditation-naive controls (Brewer et al., 2011); the study notes these group differences do not by themselves establish that meditation practice caused them.
+differences between experienced meditators and meditation-naive controls (Brewer et al., 2011); these group differences do not by themselves establish that meditation practice caused them.
 ## Sources
 - Brewer et al., 2011
 - [Brewer et al., "Meditation experience is associated with differences in default mode network activity and connectivity", PNAS 108(50), 2011 (pnas.org abstract)](https://www.pnas.org/doi/abs/10.1073/pnas.1112029108) — the mind-wandering/default-mode framing, the deactivation and coupling findings and the decreased-mind-wandering reading
