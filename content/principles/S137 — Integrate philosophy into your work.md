@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 259** — Integrate philosophy into your work
 
-The Stoic does not separate philosophy from work. Marcus was an emperor; Seneca was a senator and writer; Epictetus was a teacher; Musonius Rufus was a farmer. Whatever your work, practise Stoicism within it. The workplace is a training ground for virtue.
+> if one devotes himself to the life of philosophy and tills the land at the same time, I should not compare any other way of life to his nor prefer any other means of livelihood.
 
-(Med. I.1, I.6, I.9, I.16, I.17, II.1, IV.3, V.1, VI.7, VI.30, VII.5, IX.6; Seneca, Letters 14, 20, 71, 94, 104, 108, 114; Disc. I.9, I.15, III.7, III.24; Ench. 24, 29, 33, 35, 42, 46; Musonius Rufus, Lectures.)
+(Musonius Rufus, Lecture 11, "What means of livelihood are appropriate for a philosopher?", §9, trans. Cora E. Lutz, as reproduced at [TheStoicLife.org](https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus/lectures/11).)
 
-**Plain words** The Stoics were an emperor, a senator, a teacher, a farmer — the philosophy lived inside their jobs, not beside them. Your inbox, your shifts, your difficult clients are the gym. Don't wait for the retreat; train where you actually stand.
+Musonius argues that work and philosophy support each other. Pupils, he says, would benefit more from "seeing him at work in the fields, demonstrating by his own labor the lessons which philosophy inculcates." He asks: "What is there to prevent a student while he is working from listening to a teacher speaking about self-control or justice or endurance?" (§§16-17).
 
-*For example:* The barista who treats the morning rush as attention practice — orders flying, temper held — and gets strangely good at it.
+His own example is farming, an occupation he calls suited to a philosopher because it leaves the mind free to reflect (§§7, 26). Extending the same idea to any job, an inbox or a shift, is this entry's reading. Musonius makes the case for one trade.
+
+**Plain words** Your work does not have to wait for a retreat to become practice. Patience, fairness and self-control can be exercised on the job you already have.
+
+*For example:* A barista treats the morning rush as a place to practise keeping a steady temper while orders pile up.
+
+## Sources
+
+- [Musonius Rufus, Lecture 11 (trans. C. E. Lutz, 1947), reproduced at TheStoicLife.org](https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus/lectures/11) — full lecture text read; §§7, 9, 16, 17, 26
+
 ## Stories
 
 - [[ST223 — The Slave Who Taught Emperors|223. The Slave Who Taught Emperors]]
