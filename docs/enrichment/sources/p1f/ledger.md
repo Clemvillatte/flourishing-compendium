@@ -239,5 +239,5 @@
 - Ledger word-count entries corrected: AT060 116, AT073 167, AT059 135 prose words.
 
 ### Band closure (2026-10-20, worker-p1f-9d3f7c2b)
-- 60/60 manifest items done. Closure QC (advisor) round 2 PASS-equivalent repairs applied to the three items done this session (AT059, AT060, AT073); all validate clean vs their pre-item baselines.
+- 60/60 manifest items done. Closure QC (advisor) round 1 FAIL: repairs applied to the three items done this session (AT059, AT060, AT073); all validate clean vs their pre-item baselines. Repairs applied; re-review pending (no subsequent advisor PASS on the repaired passages was obtained).
 - Predecessor flags ("Reopened for QC" markers for D074, B006, B043, B053, B054, B069, B122, B133, P091, P100, P163, P182, P183, S051 and others) remain in the state file flagged dict; per p1r/p1s precedent these are for SUPERVISOR disposition (not cleared by this worker).

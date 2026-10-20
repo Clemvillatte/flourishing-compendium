@@ -7,17 +7,17 @@ file: "Autonomous motivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Autonomous motivation is the self-determination theory term for motivation whose source is the self: acting from intrinsic interest, or from extrinsic reasons one has identified with and accepted as one's own. Ryan and Deci's classic-definitions review:
+In self-determination theory, autonomous motivation includes intrinsic motivation and forms of extrinsic regulation that a person accepts as their own. Ryan and Deci's classic-definitions review:
 
-> A more autonomous, or self-determined, form of extrinsic motivation is regulation through identification. ... Here, the person has identified with the personal importance of a behavior and has thus accepted its regulation as his or her own.
+> A more autonomous, or self-determined, form of extrinsic motivation is regulation through identification. Here, the person has identified with the personal importance of a behavior and has thus accepted its regulation as his or her own.
 >
-> (Ryan and Deci, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions", Contemporary Educational Psychology 25(1), 2000, section "The Different Types of Extrinsic Motivation", [open PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
+> (Ryan and Deci, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions", Contemporary Educational Psychology 25(1), 2000, [open PDF](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf))
 
-The theory holds that "extrinsic motivation can vary greatly in the degree to which it is autonomous," with identified and integrated regulation on the autonomous side: "Integrated forms of motivation share many qualities with intrinsic motivation, being both autonomous and unconflicted." The review links more autonomous extrinsic motivation to "greater engagement", "better performance", "less dropping out", "higher quality learning" and "greater psychological well-being" (all quotes: Ryan and Deci 2000).
+The theory holds that "extrinsic motivation can vary greatly in the degree to which it is autonomous," with identified and integrated regulation on the autonomous side: "Integrated forms of motivation share many qualities with intrinsic motivation, being both autonomous and unconflicted." The review reports that more autonomous extrinsic motivation has been associated with "greater engagement", "better performance", "less dropping out", "higher quality learning" and "greater psychological well-being" in the studies it summarizes (all quotes: Ryan and Deci 2000).
 
 ## Related concepts
 
-- [[Autonomous versus controlled motivation]] — the comparison page this granular concept was split from
+- [[Autonomous versus controlled motivation]] — the comparison page pairing this concept with [[Controlled motivation]]
 - [[Intrinsic motivation]] — the inherent-interest form autonomous motivation includes
 - [[Eudaimonic well-being]] — the 2001 review pairs autonomous activity with vitality, its eudaimonic outcome
 
