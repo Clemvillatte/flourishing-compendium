@@ -19,6 +19,7 @@ B028 "Develop right concentration (samadhi)" carries the concept directly, and t
 
 ## Related concepts
 
+
 - [[Samadhi]] — the Pali umbrella term this path factor particularises
 - [[Right mindfulness]] — the sibling factor that watches what concentration steadies
 - [[Right view]] — the factor that keeps concentration pointed at liberation
@@ -28,7 +29,7 @@ B028 "Develop right concentration (samadhi)" carries the concept directly, and t
 - [[Equanimity]] — the fourth jhāna's tone
 - [[Wu wei]] — non-forcing as the Daoist cousin of tuned effort
 - [[Cognitive defusion]] — the clinical practice of watching thoughts without following them
-
+- [[Heart rate variability theory]] — beat-to-beat heart-rate variation as an index of self-regulation (Park & Thayer 2014)
 ## Sources
 
 - [Samaññaphala Sutta (DN 2), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) — the four-jhāna formula
