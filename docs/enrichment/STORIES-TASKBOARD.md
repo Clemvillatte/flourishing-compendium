@@ -10,6 +10,14 @@ it directly (a ROUTE note in handoff.md reaches the supervisor). Protocol: `PROT
 | s1a  | (open — minted 2026-10-20) | Mixed tranche 1: highest-degree Daoism/Buddhism/Pragmatism principles with zero stories — D080 (qiwu), D039 (rest as root of activity), D156 (flexibility), B074 (thoughts are not facts), B026 (right effort / four efforts), P182 (self-preoccupation inhibits performance), P184 (once-born vs twice-born). Angles must be recorded per item in the lane state. | open |
 | s1b  | — | unassigned (mint when a second storyteller arrives; do not overlap s1a targets) | reserved |
 
+## Supervisor storyteller batch 2 (reserved 2026-10-20, non-overlapping with lane s1a)
+
+Targets: P190, P189, P181 (top zero-story Pragmatism pool, excluding lane
+s1a's P182/P184 and the supervisor's completed P183/P185/P188/P069). ST349+.
+Catalogue consulted before research (PRIMARY-SOURCES.md); note: James,
+Dewey and Bergson volumes are LOCAL LIBRARY holdings, not established
+Drive texts; the Peirce folder files ARE verified accessible.
+
 ## Candidate pool (verified 2026-10-20)
 
 Principles with **zero story links**, ranked by inbound graph degree (higher = more load-bearing for

@@ -445,3 +445,13 @@ previously pushed only by ad-hoc git add) — KEPT, verified on origin/main.
   P184 clean.
 - P184 not in any live band manifest — backlink written directly by the
   supervisor per protocol.
+
+## ST348 closeout — SCOPED ACCEPTANCE
+
+- Advisor QC (3 closeout rounds): complete full-interval quotation audit
+  recorded; sentence-level citations via linked existing words; interpretive
+  Principles clauses (ST345/ST346); narrow supervisor amendment to
+  story_check.py (plain-text provenance accepted, emphasis optional,
+  missing provenance still fails; 47 tests green) + protocol wording
+  update; italics removed from ST345-ST348. Content commit ece623f8
+  verified against origin. ST345-ST347 accepted bodies remain closed.
