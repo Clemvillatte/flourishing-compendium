@@ -12,16 +12,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 28** — Hoarding invites loss
 
-Chapter 44 of the Daodejing asks the reader to price the two holdings against each other: fame against life, life against wealth. Its answer is that the pair cannot both be kept. Keep the life and the other things go; keep the other things and the life goes, to your sorrow. Hoarding, on this reading, is a trade made badly. (DDJ 44.)
+Chapter 44 asks whether fame or life matters more, then asks the same about life and wealth. Legge's verse warns about keeping possessions at the cost of one's life. It ends by praising contentment and knowing when to stop. (DDJ 44.)
 
-> "Keep life and lose those other things; Keep them and lose your life:—which brings Sorrow and pain more near?" (Daodejing 44, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
-
-The compendium reads the trade as covering everything held too tightly. Guarded wealth leaks, guarded love leaves, and the damage starts in the grip itself: a holding so defended that it can no longer breathe is already being lost.
+> Keep life and lose those other things;
+> Keep them and lose your life:—which brings
+> Sorrow and pain more near?
+>
+> (DDJ 44, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
 **Plain words**
-The risk sits in the grip, and the grip is yours. Notice what the guarding costs: the watched thing cannot breathe, and the watched person starts managing you instead of trusting you. The test of any hold is loosening it one notch and seeing what actually falls.
+As a practical exercise, consider what acquiring and looking after more possessions would demand of you. Would you accept that cost if you counted it in hours of your life? Decide what would be enough for you and what you would prefer to do with the remaining time.
 
-*For example:* A parent who controls a teenager's every move tends to end up with a kid who lies; the loose grip is what keeps the relationship.
+*For example:* Imagine being offered a larger house that would require additional paid work to afford. You decide your current home is sufficient and keep the time for something you value.
 
 ## Sources
 
