@@ -12,22 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 8** — Expect the collapse of meaning; do not waste it
 
-Nishitani's Religion and Nothingness opens by locating the problem of religion at a specific point in a life: the point at which the ordinarily necessary things, including learning and the arts, lose their necessity and utility. The situations he names, including an illness that brings one face-to-face with death or a turn of events that robs one of what had made life worth living, "undermine the roothold of our existence and bring the meaning of life into question".
+Nishitani's Religion and Nothingness opens by locating the problem of religion at a specific point in a life: the point at which the ordinarily necessary things, including learning and the arts, lose their necessity and utility. The situations he names include an illness that brings one face-to-face with death and a turn of events that robs one of what had made life worth living.
 
-> "The point at which the ordinarily necessary things of life, including learning and the arts, all lose their necessity and utility is found at those times when death, nihility, or sin-or any of those situations that entail a fundamental negation of our life, existence, and ideals, that undermine the roothold of our existence and bring the meaning of life into question- become pressing personal problems for us."
+> "In fact, that abyss is always just underfoot."
 > (Nishitani, Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982, p. 3.)
 
-In the case of a person for whom life has become meaningless through the loss of a loved one or the failure of an undertaking on which he had staked his all, Nishitani says that "[a] void appears here that nothing in the world can fill; a gaping abyss opens up at the very ground on which one stands". The point is not what one does about the void but that one stands on the abyss's ground and asks, from there, what purpose existence has.
+On pages 4-5, Nishitani describes a conversion from a self-centered mode of being, which always asks what use things have for us, to an attitude that asks for what purpose we ourselves exist. That change is where the problem of religion becomes personal rather than abstract.
 
 (Nishitani, Religion and Nothingness, ch. 1.)
 
-**Plain words** Imagine the goals you once cared about no longer seem worth pursuing. Ask what made them matter to you and whether those reasons still hold.
+**Plain words** You might have clear reasons for pursuing a goal yet struggle to say what makes the whole effort worthwhile. Nishitani examines what happens when that question becomes a personal concern.
 
-*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. You write down the questions you cannot yet answer.
+*For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. The compendium's exercise is to write down the questions you cannot yet answer.
 
 ## Psychology parallels
 
-- **[[Meaning-making|Meaning-making and post-traumatic growth]]**, the research on the constructive processing of meaning collapse (Calhoun and Tedeschi, 2004; Park, 2010)
+- **[[Meaning-making|Meaning-making and post-traumatic growth]]** (Calhoun and Tedeschi, 2004; Park, 2010)
 
 ## Philosophy parallels
 
