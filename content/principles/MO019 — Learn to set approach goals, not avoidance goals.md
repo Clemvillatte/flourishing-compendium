@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 19** — Learn to set approach goals, not avoidance goals
 
-Approach goals (moving toward something positive: "I want to be healthy") and avoidance goals (moving away from something negative: "I want to avoid illness") have different outcomes. Approach goals are associated with better performance, persistence, and well-being.
+The approach-avoidance distinction in achievement goals is set out in Elliot and McGregor's 2 x 2 framework. Their conceptual starting point is valence:
 
-**Plain words** Aim at something, not away from something — "be fit" beats "stop being unfit." Approach goals have traction; avoidance goals have a hole where the target should be. Flip the phrasing, change the physics.
+> Competence is valenced in that it is either construed in terms of a positive, desirable possibility (i.e., success) or a negative, undesirable possibility (i.e., failure). (Elliot & McGregor, 2001)
 
-*For example:* "Stop eating junk" is a war against a thing you love — "cook two good dinners a week" is a thing to do. The second one has a destination.
+The framework then cross-classifies goals by whether competence is defined by the task or by others, and by whether it is positively or negatively valenced:
+
+> ... mastery-approach goals (in which competence is defined in absolute/intrapersonal terms and is positively valenced), performance-approach goals (in which competence is defined in normative terms and is positively valenced), and performance-avoidance goals (in which competence is defined in normative terms and is negatively valenced). (Elliot & McGregor, 2001)
+
+The distinction between the two valences is the one the principle works with: an approach goal aims at the positive possibility, an avoidance goal at keeping the negative one from happening.
+
+(Elliot & McGregor, 2001, "A 2 x 2 achievement goal framework," Journal of Personality and Social Psychology, 80(3).)
+
+**Plain words**
+Elliot and McGregor's framework separates two questions about a goal: what counts as competence, and whether the goal faces toward success or away from failure. The compendium's exercise: take a goal you have written down and ask which direction it faces. If it names a thing to reach, it is an approach goal. If it only names a thing to prevent, it is an avoidance goal.
+
+*For example:* Suppose your stated goal is "not fall behind on the reading." Write beside it the approach version: which reading, by when. Both may describe the same workload; only the second tells you what to do first.
+
+## Sources
+
+- [Elliot & McGregor, "A 2 x 2 achievement goal framework," Journal of Personality and Social Psychology 80(3), 2001 (PDF via archive.org scholarly-sources corpus)](https://archive.org/details/wikipedia-scholarly-sources-corpus) — valence definition; the 2 x 2 definitions of mastery-approach, performance-approach and performance-avoidance goals
 ## Psychology parallels
 
 - **[[Approach versus avoidance motivation|Approach vs avoidance motivation (Elliot)]]**, approach goals are associated with better outcomes than avoidance goals (Elliot & Church, 1997; Elliot, 2006)
