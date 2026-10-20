@@ -14,7 +14,7 @@ The E025 page on origin still cites the de-severance blockquote as "§23, H.139"
 Verified on page images served from the archive item (IIIF leaves, rendered and read visually):
 
 - De-severance blockquote: **M&R p. 139, German marginal H.105** (leaf 134; wording verified character-for-character, including the em dash and the comma-heavy punctuation).
-- "In Dasein there lies an essential tendency towards closeness" + "conquest of remoteness": **M&R p. 140, H.106** (leaf 135; the tendency sentence is printed in italics).
+- "In Dasein there lies an essential tendency towards closeness" + "conquest of remoteness": **M&R p. 140, also H.105** (leaf 135; the tendency sentence is printed in italics). Page-image check of the German page break: the marginal H.106 marker on M&R p. 140 sits at the line beginning "'measure' anything...", well BELOW both sentences, so both sit on H.105, not H.106. Cite them as H.105 / M&R p. 140.
 - §22 equipment sentence ("has a different closeness, which is not to be ascertained by measuring distances"): **M&R p. 135, H.102** (leaf 130).
 
 Also: the E025 ledger called the §22 quotation OCR-clean; the page image shows the printed word "different" with broken/degraded glyphs (OCR rendered it "diffe.ent"). The word is "different", but the print is degraded there; the ledger should say so rather than "OCR-clean".
@@ -22,7 +22,7 @@ Also: the E025 ledger called the §22 quotation OCR-clean; the page image shows 
 Corrected Sources line for E025:
 
 ```
-- [Heidegger, Being and Time, trans. Macquarrie and Robinson, full text (archive.org)](https://archive.org/details/being-and-time-martin-heidegger-1962) — §22 closeness of the ready-to-hand (M&R p. 135, H.102); §23 de-severance (M&R p. 139, H.105), conquest of remoteness, tendency towards closeness (M&R p. 140, H.106)
+- [Heidegger, Being and Time, trans. Macquarrie and Robinson, full text (archive.org)](https://archive.org/details/being-and-time-martin-heidegger-1962) — §22 closeness of the ready-to-hand (M&R p. 135, H.102); §23 de-severance (M&R p. 139, H.105), conquest of remoteness and tendency towards closeness (M&R p. 140, also H.105)
 ```
 
 ## E020 repair (advisor order: narrow to what the SEP entry reports)

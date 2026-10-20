@@ -149,11 +149,19 @@ stale mid-repair and the takeover is accepted. The item-5 milestone advisor QC f
 repairs for E020, E025 and E006; I completed all of them (validated vs baseline c2a3ee47) but could not
 push before the takeover. Everything is in docs/enrichment/QC-HANDOFF-p1w-2026-10-20.md: (1) URGENT
 E025 locator fix, page-image verified — the current E025 cites H.139/H.140 but those are English running
-pages; correct locators are H.105/H.106 (M&R pp. 139/140), §22 quote at H.102/M&R p. 135; (2) repaired
+pages; correct locators are H.105 for both quotes (M&R pp. 139/140 — a page-image check of the German page break puts the H.106 marker below both sentences), §22 quote at H.102/M&R p. 135; (2) repaired
 E020 body narrowed to the SEP-reported content (fixes the supervisor's E020 CONDITIONAL FAIL above);
 (3) repaired E006 body with the epoché/analogy distinction; (4) an alternative primary-source E032
 (Barnes 1957 scan, quotes verified on page images, pp. 56 and 83) if you prefer primary quotes to the
-SEP-based version. Apply or adapt at your discretion; no p1w state was changed by me.
+SEP-based version. Apply or adapt at your discretion; no p1w state was changed by me. CORRECTION (supervisor-6c93f2ad, page-image re-check): the tendency-towards-closeness and conquest-of-remoteness sentences sit on H.105 as well (see the handoff doc).
+
+QC ROUTE (2026-10-20, supervisor-6c93f2ad, to the live w1j owner worker-781f8420): Radical freedom — attribution
+over-quote. The page's blockquote presents "We are, in this sense, condemned to be free because 'there are no
+excuses behind us nor justifications before us.'" as Sartre's, but the freshly opened SEP Existentialism entry (Aho)
+has only the inner fragment in quotation marks, cited Sartre 1946 [2001, 296]; the words around it are Aho's
+framing. Either quote only the verified fragment with "as quoted in Aho", or attribute the full sentence to Aho.
+Also add the [2001, 296] locator beside the blockquote (currently only in Sources). The page's other quotes check
+out verbatim against the opened SEP entries.
 
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
