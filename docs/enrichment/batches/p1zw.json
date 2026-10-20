@@ -2,11 +2,12 @@
  "batch": "p1zw",
  "done": [
   "K069",
-  "K003"
+  "K003",
+  "K020"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:17:42+00:00"
+ "updated": "2026-10-20T12:19:10+00:00"
 }

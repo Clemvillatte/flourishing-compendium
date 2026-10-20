@@ -12,13 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 20** — Know by doing
 
-Nishida's late term action-intuition names a specific kind of knowing: the artist knows the clay by working it, the surgeon knows the tissue by operating, the parent knows the child by raising. This knowing does not arrive before action; it is produced by it. The principle rebalances a culture that over-values preparation: some knowledge has no classroom and can only be gotten on the way. Practically, when facing a new domain, shorten the planning phase deliberately and let the doing teach you what the study could not.
+Nishida's late term action-intuition, kōiteki chokkan, names a specific kind of knowing, and its formula is blunt:
 
-(Nishida, the essays on action-intuition, in Last Writings: Nothingness and Relationality.)
+> "We see by becoming things." (Nishida, Last Writings, trans. Dilworth, p. 102, [quoted in Hetrick 2017](https://journals.uni-lj.si/as/article/download/16109/15593/58359))
 
-**Plain words** Some knowledge only comes through doing. The potter knows the clay by working it, the surgeon the tissue by cutting, the parent the child by raising her. It doesn't arrive before action; action makes it. A culture that over-values preparation misses this.
+In the Stanford Encyclopedia's account of the term, one gives oneself over to the things one would know, "seeing them by interacting with them and interacting by allowing them to transform oneself"; the artist's taking in of the world and transforming of it are "two moments in a single unfolding," of the artist as much as of the work. Nishida tied the late term back to his first book: "That which I called...the world of pure experience I have now come to think of as the world of historical reality. The world of enactive intuition—the world of poiesis—is none other than the world of pure experience" (Preface, 1936 reprint of An Inquiry into the Good, quoted in the [Stanford Encyclopedia](https://plato.stanford.edu/entries/nishida-kitaro/)).
+
+This knowing does not arrive before action; it is produced by it. The principle rebalances a culture that over-values preparation: some knowledge has no classroom and can only be gotten on the way. Practically, when facing a new domain, shorten the planning phase deliberately and let the doing teach you what the study could not.
+
+**Plain words** Some knowledge only comes through doing. The potter knows the clay by working it, the surgeon the tissue by cutting, the parent the child by raising her. It doesn't arrive before action; action makes it. Nishida's formula for this is that we see by becoming things. A culture that over-values preparation misses this.
 
 *For example:* You can read about hospice care for a year and still know nothing until you sit with someone who is dying.
+
+## Sources
+
+- [Nishida Kitarō, Last Writings: Nothingness and the Religious Worldview, trans. David Dilworth (University of Hawai'i Press, 1987)](https://journals.uni-lj.si/as/article/download/16109/15593/58359) — "We see by becoming things" (p. 102), quoted in the opened Hetrick 2017 article
+- [Nishida Kitarō, Stanford Encyclopedia of Philosophy entry](https://plato.stanford.edu/entries/nishida-kitaro/) — action-intuition account and the Preface quotation (Nishida 1911c: xxxiii)
 
 ## Psychology parallels
 
