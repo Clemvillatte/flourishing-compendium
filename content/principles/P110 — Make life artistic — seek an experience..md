@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 110** — Make life artistic: seek "an experience."
 
-Dewey's Art as Experience opens its third chapter with the everyday phenomenon the principle names. Dewey describes experience interrupted before fulfillment: "We put our hands to the plow and turn back; we start and then we stop, not because the experience has reached the end for the sake of which it was initiated but because of extraneous interruptions or of inner lethargy" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), Ch. III, "Having an Experience").
+Art as Experience opens its third chapter with the everyday phenomenon the principle names. Dewey describes experience interrupted before fulfillment: "We put our hands to the plow and turn back; we start and then we stop, not because the experience has reached the end for the sake of which it was initiated but because of extraneous interruptions or of inner lethargy" ([Art as Experience, 1934](https://archive.org/details/deweyjohnartasanexperience), Ch. III, "Having an Experience").
 
 > In contrast with such experience, we have an experience when the material experienced runs its course to fulfillment. Then and then only is it integrated within and demarcated in the general stream of experience from other experiences.
 >
