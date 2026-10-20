@@ -27,7 +27,7 @@
   "E087",
   "E089"
  ],
- "in_progress": null,
+ "in_progress": "E093",
  "flagged": {
   "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only",
   "K005": "Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions",
@@ -37,6 +37,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 11,
- "updated": "2026-10-20T13:03:01+00:00",
+ "updated": "2026-10-20T13:03:04+00:00",
  "band_done": false
 }
