@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 191** — Keep a beginner's pace all your life
 
-However far you've come, approach each day as a student again: the eternal beginner outlasts every expert.
+Daodejing 15 describes the old masters of the Tao in beginner's terms:
+
+> "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water." (DDJ 15, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter closes the portrait: "They who preserve this method of the Tao do not wish to be full (of themselves)." Chapter 20 gives the same stance in the first person:
+
+> "I am like an infant which has not yet smiled. I look dejected and forlorn, as if I had no home to go to... My mind is that of a stupid man; I am in a state of chaos." (DDJ 20)
+
+> "Ordinary men look bright and intelligent, while I alone seem to be benighted. They look full of discrimination, while I alone am dull and confused." (DDJ 20)
+
+And chapter 71 names what this self-description is guarding against: "not to know (and yet think) we do know is a disease."
 
 (DDJ 15, 20, 71.)
 
-**Plain words** Expertise is a house with a roof; beginners are still building stairs. The moment you're finished is the moment you're out of date.
+**Plain words** The masters of the Tao are described in the very terms a beginner would be described in: tentative, irresolute, unfashioned. DDJ 15 says they do not wish to be full of themselves, and DDJ 20 has the speaker say it directly, dull and confused among the bright. The chapters' picture is that the expert's finish and the beginner's openness are not stages on one road but a choice of what to keep. A practical reading: schedule the practices where you are the beginner, and keep the tentativeness of them.
 
-*For example:* The 30-year master who still takes the beginner class every January — and is somehow still the best in the room.
+*For example:* Imagine a craft you have done for years. You could take, each year, the entry-level class in it, and let the class set the pace of your attention rather than your seniority.
+
+## Sources
+
+- [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 15, 20, 71
 
 ## Psychology parallels
 
