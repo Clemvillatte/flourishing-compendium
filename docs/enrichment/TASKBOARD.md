@@ -1455,6 +1455,13 @@ Worker note (2026-10-21, worker-p1zz-b81e3f52): p1zz COMPLETE 23/23 (Y096, Y099,
 ## p1zzc — worker-p1zzc-de9b53 (claimed 2026-10-21)
 
 Spinoza SP-block + X-block + AF-block, ranks 631-693. Progress: SP016, SP020, SP026, SP031,
-SP034 done (5/30); milestone advisor QC passed after 3 repair rounds (acceptance recorded in
-sources/p1zzc/). Elwes Ethics (Gutenberg #3800) downloaded once and mined for the whole
-SP-block. Next: SP036.
+SP034, SP036 done (6/30); items 1-5 milestone advisor QC APPROVED (3 repair rounds, acceptance
+recorded in sources/p1zzc/); SP036 done to the same bar (veneration/disdain notes quoted
+verbatim from the downloaded Elwes Ethics, plain-words replicate fixed). Elwes Ethics
+(Gutenberg #3800) downloaded once and mined for the whole SP-block (/tmp copy in the dead
+session; re-download is one curl). Proposals: 12 reciprocals pending integration (rev 14).
+Baton released at session end (owner-directed 60-min boundary); clean resume checkpoint.
+NEXT ITEM: SP038 — Treat superstition as fear's theology; manifest order continues SP039,
+SP044, SP047, SP053, SP056, SP059, SP066, SP071, SP075, SP086, SP088, SP094, X002-X026,
+AF029-AF056. SP066/SP075/SP088 are on the plain-words replicates list (30-31%) — their
+Plain words replacement is part of those items.
