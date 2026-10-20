@@ -23,9 +23,10 @@ Golman and Loewenstein describe the information-gap account: "In a review of the
 
 ## Related concepts
 
+
 - [[Epistemic curiosity]]
 - [[Intrinsic motivation]]
-
+- [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 ## Sources
 
 - Wikipedia Curiosity: https://en.wikipedia.org/wiki/Curiosity (inherited seed citation, not opened)

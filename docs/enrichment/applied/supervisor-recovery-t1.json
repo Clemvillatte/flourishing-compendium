@@ -1,0 +1,42 @@
+{
+ "batch": "supervisor-recovery-t1",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Mudita (sympathetic joy).md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  },
+  {
+   "into": "content/concepts/Hope.md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  },
+  {
+   "into": "content/concepts/Curiosity.md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  },
+  {
+   "into": "content/concepts/Awe.md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  },
+  {
+   "into": "content/concepts/Contentment in station.md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  },
+  {
+   "into": "content/concepts/Dispositional optimism.md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  },
+  {
+   "into": "content/concepts/Eudaimonia.md",
+   "link": "Broaden-and-build",
+   "why": "Fredrickson's theory of what positive emotions are for"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 1 (Broaden-and-build family). Original claim-bearing clauses (mudita is a broaden-type emotion; awe self-diminishing; hope future-oriented member; etc.) had NO recorded evidence in the w1b ledger - replaced with the neutral descriptive clause grounded in the Broaden-and-build page's own sourced opening sentence (Fredrickson 2001). The relationship itself is already published from the source side (the Broaden-and-build page's Related section links all seven targets). Original clauses preserved in drafts/supervisor/w1b-recovery.json. - supervisor-3ef4f549, 2026-10-20"
+}

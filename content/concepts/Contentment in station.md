@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Gratitude]] — Stoic satisfaction with what one has
 
+- [[Gratitude]] — Stoic satisfaction with what one has
+- [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 ## Sources
 
 - Epictetus, the role-playing counsels of the Discourses

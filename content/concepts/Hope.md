@@ -50,6 +50,7 @@ R087 practises hope as a disposition and R125 applies it to the ecological futur
 ## Related concepts
 
 
+
 - [[Optimism]] — the belief hope is not, per Marcel's distinction
 - [[Learned optimism]] — the trainable cousin from positive psychology
 - [[Despair]] — what hope refuses, the opposite pole
@@ -57,6 +58,7 @@ R087 practises hope as a disposition and R125 applies it to the ecological futur
 - [[Goal adjustment capacity]] — hope's discipline on the far side of blocked goals
 - [[Self-efficacy]] — the agency component's nearest neighbour
 - [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
+- [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 ## Cited in philosophy parallels
 
 - [[R087 — Practise hope]]

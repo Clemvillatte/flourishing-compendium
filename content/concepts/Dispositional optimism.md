@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Dispositional optimism” — Scheier and Carver, 1985.
 
+## Related concepts
+
+- [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
+
 ## Sources
 
 - Scheier and Carver, 1985
