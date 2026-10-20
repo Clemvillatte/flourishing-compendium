@@ -12,19 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 190** — The breath is always available
 
-The Anapanasati Sutta grounds the practice in the breath itself: whatever its length, the breath is the object you can always find ([MN 118, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)):
+The Anapanasati Sutta grounds the practice in the breath itself ([MN 118, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html)):
 
 > Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'
 
 (MN 118, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html).)
 
-The instruction continues with short breaths, sensitivity to the whole body, and calming bodily fabrication. Nothing in the sequence requires a cushion, a quiet room or a free hour; the long breath and the short breath cover whatever is actually happening. Plum Village's teaching for young people applies the same tool to daily difficulties, following the breath at the nostrils, the cool inbreath and the warm outbreath, to calm body and mind ([Plum Village](https://plumvillage.org/gems/event/Be-in-with-the-young-people-mVAvCtLiuHyzhT2MnGsW8n/preview?lang)). One conscious breath is the complete unit because it contains the whole skill: attention to what is happening now.
+The instruction continues with short breaths, sensitivity to the whole body, and calming bodily fabrication. The passage introduces a seated practice in a secluded place. Plum Village's teaching for young people describes the same tool applied to daily difficulties, following the breath at the nostrils, the cool inbreath and the warm outbreath, to calm body and mind ([Plum Village](https://plumvillage.org/gems/event/Be-in-with-the-young-people-mVAvCtLiuHyzhT2MnGsW8n/preview?lang)).
 
-A boundary worth drawing: the psychology parallel concerns structured slow-paced breathing practice, not single breaths taken in queues. One breath is an exercise. It is not a treatment.
+The compendium suggests noticing one ordinary in-breath and out-breath before replying. This brief exercise does not reproduce the sutta's full training.
 
-**Plain words** The breath is the one object you carry into every room. The exercise is small on purpose. Before answering, when startled, in line, take one breath and actually feel it: cool in, warm out, nose or chest. That is the whole practice for that moment. If it changes what you say next, that is something you report afterward, not a promise made in advance.
+**Plain words** The breath is the one object you carry into every room. The exercise is small: before replying, when startled, in line, notice one in-breath and one out-breath. That is all the exercise is.
 
-*For example:* Imagine an interview question you did not prepare for. Instead of filling the silence immediately, you take one breath and feel it. The pause is two seconds. The answer that follows may be no wiser, but it is yours rather than the reflex, and telling those apart is the skill being trained.
+*For example:* Imagine being asked a question you did not expect. You notice one in-breath and one out-breath, then answer. The pause is brief and the answer is whatever it is; the exercise is the noticing.
 
 ## Psychology parallels
 
