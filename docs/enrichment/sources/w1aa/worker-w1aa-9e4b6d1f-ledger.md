@@ -57,3 +57,11 @@
 - Related concepts: Working memory capacity limits (exists, deg 15) and Imagination (exists, deg 3, bare seed — clause kept structural, no unsupported Kant claim about imagination's bridging role). No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 8).
+
+## Family resemblance
+
+- Fast-track degree 1 (sole edge: P011 philosophy-parallels entry).
+- Opened source: Wittgenstein, Philosophical Investigations (Anscombe translation, squarespace-hosted full-text PDF). Verified verbatim: §67 blockquote (family-resemblance sentence with the em-dash rendered per the PDF); §66 result-of-examination sentence; §67 thread-and-fibres sentence (paraphrased, not quoted, on the page).
+- Related concepts: Language games (exists, deg 9), Prototype theory (exists, deg 8), clauses descriptive. No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 9).
