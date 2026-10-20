@@ -39,5 +39,7 @@
    "from": "worker-p1w-1cff8991",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-20T10:29:33+00:00"
 }
