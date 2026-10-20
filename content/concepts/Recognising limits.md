@@ -12,7 +12,7 @@ Recognising limits, in the Stoic account, is the first distinction the Enchiridi
 > "There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own. Beyond our power are body, property, reputation, office, and, in one word, whatever are not properly our own affairs."
 > — [Epictetus, Enchiridion I, trans. Thomas W. Higginson (Gutenberg)](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm)
 
-The move is not resignation. Recognising limits is what makes the training of the things that are up to you possible, since the effort that goes into fighting the other category is effort that cannot go into the first. The compendium's list of what has limits — body, illness, medication, clinical boundaries, the fallibility of thought — is the same list Epictetus puts under "not properly our own affairs".
+The move is not resignation. Recognising limits is what makes the training of the things that are up to you possible, since the effort that goes into fighting the other category is effort that cannot go into the first. The compendium's list of what has limits — body, illness, medication, clinical boundaries — is an editorial extension of Epictetus's own "not properly our own affairs" category (body, property, reputation, office), not a restatement of his list.
 
 ### In the compendium
 

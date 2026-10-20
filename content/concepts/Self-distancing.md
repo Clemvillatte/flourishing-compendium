@@ -25,9 +25,9 @@ The mechanism is cheap: you do not suppress the emotion or argue with it; you sh
 
 ## Related concepts
 
-- [[The observing self]] — the psychology account of the stance this technique produces
-- [[The witness]] — the Advaita account of what the stance points at
-- [[Distanced self-talk (Kross)]] — the companion page for the same research line
+- [[The observing self]]
+- [[The witness]]
+- [[Distanced self-talk (Kross)]]
 
 ## Sources
 

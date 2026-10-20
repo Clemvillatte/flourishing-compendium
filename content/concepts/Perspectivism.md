@@ -28,8 +28,8 @@ The same book gives the counter-move in the aphorism on the perspective that fla
 
 ## Related concepts
 
-- [[Will to power]] — the metaphysics perspectivism sits inside
-- [[Self-distancing]] — the psychological move perspectivism asks for
+- [[Will to power]]
+- [[Self-distancing]]
 
 ## Sources
 

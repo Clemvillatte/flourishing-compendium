@@ -26,8 +26,8 @@ The same review finds the bias is not uniform. Asian samples display significant
 
 ## Related concepts
 
-- [[Fundamental attribution error]] — the sibling bias that operates on other people
-- [[Bias blind spot]] — the meta-bias of not noticing your own biases
+- [[Fundamental attribution error]]
+- [[Bias blind spot]]
 
 ## Sources
 

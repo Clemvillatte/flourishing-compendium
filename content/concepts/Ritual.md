@@ -26,9 +26,9 @@ The point is that a ritual is a container built for a feeling. It does not suppr
 
 ## Related concepts
 
-- [[Daily architecture]] — the modern scheduling version of the same shape
-- [[Following nature's rhythm]] — the Daoist counterpart that wants fewer forms, not better ones
-- [[The still mirror]] — the Daoist worry about over-ritualization
+- [[Daily architecture]]
+- [[Following nature's rhythm]] 
+- [[The still mirror]] 
 
 ## Sources
 

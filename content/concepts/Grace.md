@@ -25,8 +25,8 @@ The line makes the structure of grace visible. The awakening comes first, and th
 
 ## Related concepts
 
-- [[Agape]] — the love the tradition ties to grace
-- [[The inner light]] — the Quaker account of the same received presence
+- [[Agape]]
+- [[The inner light]]
 
 ## Sources
 

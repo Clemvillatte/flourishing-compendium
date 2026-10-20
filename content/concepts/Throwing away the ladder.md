@@ -27,8 +27,8 @@ Buddhist texts make the same point with the raft simile: the Buddha compares his
 
 ## Related concepts
 
-- [[The raft]] — the Buddhist version of the same instruction
-- [[Wu wei]] — the Daoist cousin that lets things go once done
+- [[The raft]] 
+- [[Wu wei]] 
 - [[D022 — Subtract, don't add]]
 
 ## Sources

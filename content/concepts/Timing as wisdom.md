@@ -25,9 +25,9 @@ The same chapter follows with the failure of late action: "When people pursue an
 
 ## Related concepts
 
-- [[Following nature's rhythm]] — the macro version of the same alignment
-- [[Wu wei]] — the non-forcing this timing permits
-- [[The still mirror]] — the state that makes timing readable
+- [[Following nature's rhythm]]
+- [[Wu wei]]
+- [[The still mirror]]
 
 ## Sources
 

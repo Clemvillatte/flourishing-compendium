@@ -30,9 +30,9 @@ The chapter the metaphor points toward comes back in Daodejing 78, where the sof
 ## Related concepts
 
 - [[D011]] — D011 quotes Daodejing 78's water passage in its case for the soft over the hard
-- [[Following nature's rhythm]] — the rhythm water already keeps
-- [[The still mirror]] — water as the image of a mind that does not stir
-- [[Wu wei]] — the action this image licenses
+- [[Following nature's rhythm]]
+- [[The still mirror]]
+- [[Wu wei]]
 
 ## Sources
 

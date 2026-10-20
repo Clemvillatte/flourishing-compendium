@@ -7,10 +7,10 @@ file: "Radical freedom"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Radical freedom, in Sartre's account, is the claim that a person's situation never determines their response to it. The Stanford Encyclopedia summarizes: no factual state, whatever it may be, can cause consciousness to respond to it in any one way ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)). The canonical formulation is in Existentialism Is a Humanism:
+Radical freedom, in Sartre's account, is the claim that a person's situation never determines their response to it. The Stanford Encyclopedia summarizes: no factual state, whatever it may be, can cause consciousness to respond to it in any one way ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)). The SEP entry on existentialism, quoting Sartre's 1946 lecture, includes this passage as rendered in Frechtman's translation:
 
 > "We are, in this sense, condemned to be free because 'there are no excuses behind us nor justifications before us.'"
-> — [Sartre, Existentialism Is a Humanism (1946), trans. B. Frechtman, quoted in SEP entry on Existentialism](https://plato.stanford.edu/entries/existentialism/)
+> — [Sartre, Existentialism Is a Humanism (1946), trans. B. Frechtman; rendering as quoted in [Kevin Aho, SEP, Existentialism](https://plato.stanford.edu/entries/existentialism/)]
 
 The word radical is doing real work here. Sartre is not claiming freedom to do or achieve anything. The for-itself is always in a factical situation; the claim is that the significance of that situation for you is something you decide, usually before reflection notices ([Reynolds & Renaudie, SEP, Sartre](https://plato.stanford.edu/entries/sartre/)).
 

@@ -31,9 +31,9 @@ The compendium's behavioural-science links pick up the same observation in the r
 
 ## Related concepts
 
-- [[Following nature's rhythm]] — the Daoist framing of the same alignment
-- [[The avoidance of suffering]] — the reflex that fights the body's seasons
-- [[The still mirror]] — the stance that does not fight them
+- [[Following nature's rhythm]] 
+- [[The avoidance of suffering]]
+- [[The still mirror]]
 
 ## Sources
 

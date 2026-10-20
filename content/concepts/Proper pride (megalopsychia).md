@@ -25,8 +25,8 @@ The move Aristotle makes is to tie pride to what it is pride in. The proud man i
 
 - [[K250 — Virtue rehearsal]]
 - [[K251 — Signature strengths in new ways]]
-- [[K253 — The mean calibration]] — the doctrine of the mean this virtue is one application of
-- [[Self-esteem research]] — the modern psychology-lab neighbour
+- [[K253 — The mean calibration]]
+- [[Self-esteem research]]
 
 ## Sources
 

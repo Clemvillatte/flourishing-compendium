@@ -25,9 +25,9 @@ The argument that follows is the one the chapter is remembered for: if you take 
 
 ## Related concepts
 
-- [[Ataraxia]] — the tranquillity this life promises
-- [[Eudaimonia]] — the happiness this life is one candidate account of
-- [[The witness]] — the stance contemplation keeps
+- [[Ataraxia]]
+- [[Eudaimonia]]
+- [[The witness]]
 
 ## Sources
 
