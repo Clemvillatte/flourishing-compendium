@@ -27,10 +27,10 @@
   "AF024",
   "AF031",
   "AF037",
-  "AF053",
   "AF057",
   "AF041",
-  "AF052"
+  "AF052",
+  "AF053"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,10 +59,11 @@
   "AF031": "inherited title's 'timing matters more than intensity' ranking not established by the opened chapter (intensity is a moderator in the passages opened); supervisor disposition needed",
   "AF037": "title claim 'you can try too hard' (general over-regulation) NOT established by the opened Levitt 2004 abstract; body scoped to the study; supervisor/owner may want a title decision",
   "AF041": "Reopened for QC: milestone QC FAIL (advisor): repairs in flight",
-  "AF052": "Reopened for QC: milestone QC FAIL (advisor): invented URL, categorical language, clinical criteria; repairs in flight"
+  "AF052": "Reopened for QC: milestone QC FAIL (advisor): invented URL, categorical language, clinical criteria; repairs in flight",
+  "AF053": "Reopened for QC: milestone QC FAIL (advisor): wrong journal metadata, absolutes, unverified refs; repairs in flight"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:55:26+00:00",
+ "updated": "2026-10-20T13:55:37+00:00",
  "band_done": false
 }
