@@ -69,3 +69,10 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "explicitly cultivated in contemplative traditions" claim kept out of the body (paper discusses cultivation techniques but the body now scopes to what was opened); sailor example replaced with labelled imagined case. Harrington & Pickles 2009 parallel kept as an unopened flagged parallel.
 - Plain words: replicate fixed (was body-copy with aphorism close).
 - Proposals: reciprocals into Equanimity, Apatheia, Wu wei (all three pages read before proposing).
+
+## AF040 — Distinguish accepting a feeling from accepting a circumstance
+- Evidence: Hayes, Luoma, Bond, Masuda & Lillis 2006, Behaviour Research and Therapy 44(1) 1-25, open full text (anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf, GSU scholarworks copy), fetched this session. Three quoted fragments verified verbatim: the acceptance definition, the anxiety-patients example sentence, and "acceptance is fostered as a method of increasing values-based action".
+- Scope: the old body's grief/anger openings were unattributed assertions; replaced with the ACT definitions, with the model's own scope stated (acceptance aims at private events). The original [[Acceptance|barrier to acceptance]] wikilink preserved (validator-enforced). Inherited parallels (Hayes et al. 2011) kept as unopened flagged parallels.
+- Plain words: replicate fixed; example replaced with labelled imagined two-line case.
+- Proposals: reciprocals into Acceptance and The dichotomy of control (both pages read before proposing).
+- NOTE for QC: this is item 10 — advisor milestone sample due with items 6-10 (AF021, AF027, AF032, AF034, AF040).

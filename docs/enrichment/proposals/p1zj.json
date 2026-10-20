@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 9,
+ "revision": 10,
  "records": [
   {
    "action": "reciprocal",
@@ -141,6 +141,20 @@
    "link": "AF034",
    "why": "listed for comparison with the principle's even-mindedness-and-return framing",
    "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers equanimity/apatheia/wu-wei material adjacent to the Desbordes 2015 definition opened for AF034"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Acceptance",
+   "link": "AF040",
+   "why": "listed for comparison with the principle's feeling-versus-circumstance split",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers acceptance/dichotomy-of-control material adjacent to the Hayes 2006 ACT definition opened for AF040"
+  },
+  {
+   "action": "reciprocal",
+   "into": "The dichotomy of control",
+   "link": "AF040",
+   "why": "listed for comparison with the principle's feeling-versus-circumstance split",
+   "notes": "page read by worker-p1zj-6b93ad57 before proposing; ground: page covers acceptance/dichotomy-of-control material adjacent to the Hayes 2006 ACT definition opened for AF040"
   }
  ]
 }
