@@ -3,16 +3,17 @@
  "done": [
   "AF058",
   "AF062",
-  "AF063",
   "AF068",
-  "AF059"
+  "AF059",
+  "AF063"
  ],
  "in_progress": null,
  "flagged": {
-  "AF059": "Reopened for QC: QC correction (milestone round 2): Bell-model proportionality overextension in Plain words and body; Zeelenberg framing to be scoped per advisor"
+  "AF059": "Reopened for QC: QC correction (milestone round 2): Bell-model proportionality overextension in Plain words and body; Zeelenberg framing to be scoped per advisor",
+  "AF063": "Reopened for QC: QC correction (milestone round 3): Practice section carries unsupported daily-vs-weekly adaptation rationale (Lyubomirsky unopened); Practice confirmed NOT validator-protected (empirical test); removing rationale per advisor"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:43:05+00:00",
+ "updated": "2026-10-20T11:46:18+00:00",
  "band_done": false
 }

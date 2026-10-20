@@ -41,4 +41,4 @@ The nightly list of three specific things: not "family" but "the way Dad mispron
 
 ## Practice
 
-- Weekly (not daily — to avoid adaptation), write down 3 things you are grateful for and why. Rotate the prompts. Share gratitude with the people involved.
+- Write down 3 things you are grateful for and why, on any schedule that keeps the practice fresh. Rotate the prompts. Share gratitude with the people involved.
