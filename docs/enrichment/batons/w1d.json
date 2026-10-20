@@ -1,7 +1,7 @@
 {
  "baton": "w1d",
  "agent": "worker-w1d-4c8e1b3a",
- "clocked_in": "2026-10-20T04:59:33+00:00",
+ "clocked_in": "2026-10-20T05:01:34+00:00",
  "takeovers": [
   {
    "by": "Agent D (Computer)",
@@ -50,8 +50,12 @@
    "at": "2026-10-20T04:59:33+00:00",
    "from": "worker-w1d-4c8e1b3a",
    "reason": "released"
+  },
+  {
+   "by": "worker-w1d-4c8e1b3a",
+   "at": "2026-10-20T05:01:34+00:00",
+   "from": "worker-w1d-4c8e1b3a",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-20T05:00:18+00:00"
+ ]
 }
