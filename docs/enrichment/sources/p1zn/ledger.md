@@ -39,3 +39,8 @@
 - Sources opened: Work That Reconnects Network page (adapted from Macy & Brown); Amel et al. 2009 abstract (Academia mirror); PMC10896055 review summary of Barbaro & Pickett 2016. Quotes verified verbatim against excerpts.
 - Flags: Coming Back to Life itself not opened; consumption-audit framing is compendium's, not shown in Macy & Brown excerpts; Hooker et al. 2020 (reference line) and Kabat-Zinn not opened; evidence correlational/self-report.
 - QC: self-QC only; validator pass.
+
+## R126 — Ecological citizenship
+- Sources opened: OUP chapter excerpts for Dobson 2003 (abstract, ch.2, ch.3) and a 2026 article quoting Dobson 2000 pp.59-60. Quotes checked against excerpts.
+- Flags: entry's "rights toward the more-than-human world" and emphasis on voting do not match Dobson's footprint-based duties owed to humans; Eckersley 2004, Clayton & Opotow 2003, Aristotle Politics not opened.
+- QC: self-QC only; validator pass.
