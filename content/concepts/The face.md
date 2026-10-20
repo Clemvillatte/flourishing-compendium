@@ -11,11 +11,12 @@ In Levinas's ethics, the other person's face is where responsibility begins. The
 
 > Naked and defenseless, the face signifies, with or without words, "Do not kill me". ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/levinas/))
 
-For Levinas the address is dual: a command and a summons at once. The other's expression affects me before reflection starts, and the encounter interrupts my free activity and calls me to account. He names the ones the face presents as "widow, orphan, or stranger", and the response it asks for is the "here I am" of responsibility. Reasoning about justice comes later; the face has the first word.
+For Levinas the address is dual: a command and a summons at once. The other's expression affects me before reflection starts, and the encounter interrupts my free activity and calls me to account. He names the ones the face presents as "widow, orphan, or stranger", and the response it asks for is the "here I am" of responsibility. Reasoning about justice comes later; the face has the first word. The encounter also widens outward: social life preserves a residue of it, and in the face-to-face the third party, humanity, looks at me through the eyes of the other.
 
 ## Related concepts
 
 - [[I and Thou]] — Buber's relation, paired with the face on the compendium's R083 parallels
+- [[The look (le regard)]] — the gaze of the other, cited alongside the face on E035 and E067
 
 ## Sources
 
