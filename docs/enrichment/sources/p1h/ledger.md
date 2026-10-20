@@ -366,3 +366,18 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
 - Read of linked concepts: Directed attention fatigue is a one-line seed (no conflict);
   AT033/AT037/AT039 principle bodies not re-read in full (neighbor listing only).
 - Validator ok; done re-marked; proposal why re-scoped per advisor.
+
+### AT013 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Gollwitzer & Sheeran 2006 meta-analysis abstract via the Konstanz
+  repository record (kops.uni-konstanz.de, publication 2e749bfb). Blockquote verbatim
+  ("Findings from 94 independent tests showed that implementation intentions had a
+  positive effect of medium-to-large magnitude (d= .65) on goal attainment."). Process
+  claims (accessibility of specified opportunities, automated goal-directed responses)
+  from the same opened abstract. Abstract's own typos ("wether", "postulatad") not
+  quoted.
+- Seed-body mechanism claim ("acts as a filter that reduces capture by irrelevant
+  stimuli") replaced with the abstract's own process wording; "cheapest focus tool
+  there is" closer removed; example tail repaired (no clipped contrast).
+- Read of linked concept Implementation intentions (rich page, consistent); neighbors
+  saturated (7 concepts + layer + saying); no new proposals. Validator ok.
