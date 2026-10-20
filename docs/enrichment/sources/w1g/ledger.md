@@ -26,3 +26,26 @@
   definition paragraph per fast-track format; no other inherited claim text on the page.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+
+## The monkey mind (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: SN 12:62 (Assutavā Sutta), dhammatalks.org
+  https://www.dhammatalks.org/suttas/SN/SN12_62.html — full raw HTML fetched and read;
+  monkey simile paragraph verified character-for-character including curly apostrophes
+  and quotation marks. One verbatim blockquote used. SN 12:61 parallel supported by the
+  opened page (adjacent discourse, "this sutta builds on the previous one") and by
+  Access to Insight's similes index. MN 38 was NOT verified to contain the simile
+  (only a "see also" link); that claim was removed before validation.
+- IS-IT-A-CONCEPT check: named Buddhist image for the inconstancy of consciousness,
+  grounded in the opened canonical simile — not a principle, comparison, or
+  hallucination. No prior disposition in concept-namespace-audit.md. Distinct from
+  ST075 (story retelling; note: ST075's DN 22 citation is loose — the opened DN 22
+  page has no monkey passage; flagged here for the supervisor, not edited by me).
+- FLAG (inherited, protected): seed line attributed the term to "Buddhism, Dhammapada";
+  the monkey simile was not found in the Dhammapada in any opened source (the opened
+  grounding is SN 12:62). The preserved Sources line "Buddhism, Dhammapada" and the
+  Facets line "trainer — the series' cross-tradition echoes, distinct content" are
+  placeholder artifacts, preserved per protection rules.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
