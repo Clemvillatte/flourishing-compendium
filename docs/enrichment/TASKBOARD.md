@@ -54,7 +54,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1a | 1-30 | R055 (xin) to E011 (phenomenological description) | p1a | done (30/30; band closed 12:13 UTC) | genuineflourishing31 | 2026-10-19 |
 | p1b | 31-100 | E012 to PP029 | p1b | DONE (all 70 items rewritten) | genuineflourishing42 | 2026-10-20 |
 | p1c | 101-170 | PP081 to B146 | p1c | done (70/70 manifest items; see ledger and notes; extraneous P065 in state flagged for supervisor cleanup) | worker-p1c-45f6a65e | 2026-10-20 |
-| p1d | 171-240 | BI012 to B129 | p1d | released (63/70; predecessor recovery pushed) | genuineflourishing42; AT006 salvaged by worker-p1m-fd2db49a-recovery | 2026-10-20 |
+| p1d | 171-240 | BI012 to B129 | p1d | claimed (takeover of released band at ~04:1xZ; 63/70 done, 7 left: B067/B128/B129 first per D/B priority, then R117/AT020/AT023/AT062) | worker-p1d-8f3a21c4 | 2026-10-20 |
 | p1e | 241-310 | BE026 to D065 | p1e | done (70/70 manifest + off-manifest P157 repair; band closed 2026-10-20; QC at items 1,5,10,15,20,25; CO079 post-done QC fix applied) | worker-p1e-4f2c9b1d | 2026-10-20 |
 | p1f | 311-370 | D074 to BI001 | p1f | claimed (takeover at ~06:3xZ from genuineflourishing41, stale; 30/60 done; 5 items this session with milestone QC repairs applied) | worker-p1f-7e93856c | 2026-10-20 |
 | p1g | 371-430 | BI009 to Y015 | p1g | claimed | worker-p1g-5e8c3a21 (takeover at ~05:4xZ from stale agent-p1l-worker-27c22a8e, baton stale ~12h; 33/60 done, 27 left: K040 first, manifest order) | 2026-10-20 |
