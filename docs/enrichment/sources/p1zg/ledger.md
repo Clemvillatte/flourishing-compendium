@@ -91,3 +91,7 @@
 ## R119
 - Naess 1995 'Self-realization: an ecological approach to being in the world' (Sessions ed., Deep Ecology for the 21st Century, pp.225-239; lecture Murdoch Univ 12 Mar 1986) opened in full via scispace scan (fetch_url); 8 quotations checked by eye against scan text (OCR spacing normalised).
 - Limits: Naess 1989 (Ecology, Community and Lifestyle) and 2008 Selected Works not opened. Statement 'not a loss but an enrichment' is the owner's gloss; Naess's own wording quoted (p.235). Source uses the term 'Lapp'; body says Sami man. Example hypothetical.
+
+## R127
+- Merchant 2006 Isis 97:513-533 (Berkeley PDF, full text; 3 quotations grep-verified + 'torture of nature'); Krumrei Mancuso, Trammell & Harriger 2024 J Positive Psychology (fetched; abstract + Study 3 results quoted).
+- FLAG: 'Hooker et al., 2020, Everyday Engagement with Nature, Environment and Behavior' in statement NOT FOUND in searches (Environment and Behavior 2020 listing showed no such paper) - not cited, body says so. Merchant 1980 book itself not opened (2006 retrospective only). Statement 'participant in it' is the owner's gloss. Humility-in-nature evidence is thin (nature = indoors only, not urban outdoors). Example hypothetical.
