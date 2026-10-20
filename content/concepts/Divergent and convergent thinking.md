@@ -13,7 +13,7 @@ Divergent thinking generates many varied ideas from the same starting point; con
 
 ### Where the terms come from
 
-The same article grounds the history: "Guilford (1967) introduced convergent and divergent thinking as part of a set of five operations that apply in his Structure of Intellect model (SOI model) on six products and four kinds of content, to produce 120 different factors of cognitive abilities." The earlier 1950 presidential address named the divergent side's abilities before the later terms existed: "There is very likely a fluency factor, or there are a number of fluency factors, in creative talent" (Guilford, [Creativity](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf), American Psychologist 5(9): 444-454, 1950, the passage on factors in creative talent).
+The same article grounds the history: "Guilford (1967) introduced convergent and divergent thinking as part of a set of five operations that apply in his Structure of Intellect model (SOI model) on six products and four kinds of content, to produce 120 different factors of cognitive abilities." In his 1950 presidential address, Guilford discussed fluency in creative talent: "There is very likely a fluency factor, or there are a number of fluency factors, in creative talent" (Guilford, [Creativity](https://creativityinmusiced.weebly.com/uploads/2/3/8/5/23859476/guilford-1950-creativity.pdf), American Psychologist 5(9), 1950, p. 452).
 
 ### In the compendium
 

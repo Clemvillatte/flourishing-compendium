@@ -102,6 +102,7 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 - The rehearsal of virtue (owner: not a defined Stoic concept; page is a seed with no
   citable source. Real concept to receive its links: Premeditatio malorum, which exists)
+- Delay plus reappraisal (flagged 2026-10-20 by worker-b18349e1 at item-15 advisor QC: the combined label is not a named construct in the opened literature — the Isaacowitz/Wolfe 2024 article and its Gross 2015 citations support strategies, tactics and the cognitive-change family, but no source reviewed defines a delay-then-reappraise sequence, a delay-prevents-response mechanism, or anger as the sequence's typical target. Evidence trail: ledger entry "Delay plus reappraisal" + milestone-15 QC rounds in docs/enrichment/sources/w1l/ledger.md; body reduced to verified interim material (Gross p. 15 tactics passage + bare links); state done marker is bookkeeping, not acceptance, per the supervisor's documented convention (OPERATIONS.md 2026-10-19: "current done markers are not acceptance"). Supervisor disposition requested: delete, merge into [[Cognitive reappraisal]] / [[Emotion regulation]], or keep with owner sign-off)
 
 ## Category D — missing real concepts (create per new-concepts rule)
 

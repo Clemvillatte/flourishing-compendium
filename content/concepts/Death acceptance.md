@@ -34,8 +34,8 @@ The measure's five dimensions are "Fear of Death, Death Avoidance, Neutral Accep
 
 ## Related concepts
 
-- [[Memento mori]] — the practice tradition behind the acceptance stance
-- [[Terror management]] — the rival research programme built on death denial
+- [[Memento mori]]
+- [[Terror management]]
 - [[Death anxiety research]]
 
 ## Sources

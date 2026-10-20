@@ -441,3 +441,26 @@ review. Round 1 FAIL; repairs applied to five items:
 
 All five repaired files revalidated (5 checked, 0 failed after one
 validator-caught lost-link restore: [[Anger]] kept as a bare link).
+
+## Milestone QC round 2b (item 15, 2026-10-20) — remaining advisor repairs
+
+- Divergent and convergent thinking: "before the later terms existed"
+  removed (the 1950 address's silence does not date the terms' origin);
+  replaced with "In his 1950 presidential address, Guilford discussed
+  fluency in creative talent:"; passage-specific printed page locator
+  found and added (p. 452 — the PDF page head reads "452 THE AMERICAN
+  PSYCHOLOGIST" on the page containing the fluency passage).
+- Delay plus reappraisal: opening replaced per the advisor's exact
+  wording ("The combined label 'Delay plus reappraisal' remains
+  unverified in the source reviewed. Isaacowitz and Wolfe discuss
+  Gross's distinction between general emotion-regulation strategies and
+  situation-specific tactics..."); Category C entry added to
+  concept-namespace-audit.md with the full evidence trail; state done
+  marker documented as bookkeeping-not-acceptance per the supervisor's
+  own convention (OPERATIONS.md 2026-10-19 entry).
+- Death acceptance: Memento mori and Terror management related-concept
+  clauses reduced to bare links (relationships not established by the
+  opened evidence).
+- Milestone 15 remains PENDING final advisor confirmation of this round.
+
+3 files revalidated (3 checked, 0 failed).

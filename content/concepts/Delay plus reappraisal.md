@@ -7,7 +7,7 @@ file: "Delay plus reappraisal"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Delay plus reappraisal is the compendium's label for a two-step sequence: put time between the provocation and the response, then change the reading of what happened. The label is not a named construct in the opened literature, and its namespace disposition is flagged for the supervisor. What the opened literature supports is the model the label would sit in: Gross's extended process model of emotion regulation, in which reappraisal belongs to the cognitive-change family of strategies, and general strategies are translated into situation-specific tactics.
+The combined label "Delay plus reappraisal" remains unverified in the source reviewed. Isaacowitz and Wolfe discuss Gross's distinction between general emotion-regulation strategies and situation-specific tactics, in which reappraisal belongs to the cognitive-change family of strategies.
 
 > "The task of the implementation stage is to translate this general strategy (e.g., cognitive change) into tactics that are appropriate to the specific situation one is in (e.g., think about this particular rebuff as an accidental oversight rather than a deliberate insult; McRae, Ciesielski, & Gross, 2012)." (Gross, "Emotion regulation: Current status and future prospects", Psychological Inquiry 26(1): 1-26, 2015, p. 15, quoted in Isaacowitz and Wolfe, [Emotion Regulation Tactics](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423774/), Emotion Review, 2024)
 
