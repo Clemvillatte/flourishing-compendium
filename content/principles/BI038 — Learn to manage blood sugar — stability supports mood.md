@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 38** — Learn to manage blood sugar: stability supports mood
 
-Blood sugar stability affects mood and energy. Spikes and crashes (from sugar, refined carbs) produce mood swings, irritability, and fatigue. Stable blood sugar (from whole foods, protein, fibre) supports stable mood.
+The mechanism story is easy to overstate, and the findings are narrower than the folklore. David Benton's review of carbohydrate and mood found two reliable associations: people with lower blood glucose reported poorer mood while doing cognitively demanding tasks, and a tendency for blood glucose to fall rapidly was associated with irritability across a range of situations ([Benton, 2002](https://pubmed.ncbi.nlm.nih.gov/12034132/)). A randomised trial in 74 school children compared breakfasts by glycaemic index and glycaemic load: 95 to 140 minutes after eating, the children who got the low-GI meals reported feeling more alert and happy, and less nervous, than after the high-GI meals ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/)).
 
-**Plain words** Blood sugar stability is mood stability — spikes and crashes from sugar and refined carbs produce the mood swings, irritability, and 4 p.m. crash. Whole foods, protein, fibre: the slow-burn fuel. Feed the rollercoaster or feed the steady road.
+> "There is a tendency for those with lower blood glucose, when performing cognitively demanding tasks, to report poorer mood. In a range of situations an association between a tendency for blood glucose levels to fall rapidly, and irritability, has been found." (Abstract; Benton, 2002, Neurosci Biobehav Rev 26(3): 293-308, [PubMed](https://pubmed.ncbi.nlm.nih.gov/12034132/))
 
-*For example:* The sugary-biscuit breakfast that guarantees the 10:30 meltdown — not a character flaw, an insulin curve. The eggs version of the same morning has no such cliff.
+> "Low-GI meals predicted feeling more alert and happy, and less nervous and thirsty (P < 0·05 for each); high-GL meals predicted feeling more confident, and less sluggish, hungry and thirsty (P < 0·05 for each)." (Abstract, Results; Micha et al., 2011, Br J Nutr 106(10): 1552-61, [PubMed](https://pubmed.ncbi.nlm.nih.gov/21736777/))
+
+**Plain words**
+The case for steady blood sugar is not that sugar makes you miserable; pure-sugar drinks mostly showed no mood effect in the studies Benton reviewed ([Benton, 2002](https://pubmed.ncbi.nlm.nih.gov/12034132/)). The case is about the falls: when blood glucose drops, and especially when it drops fast, people report feeling worse and more irritable. Meals that release glucose slowly left the schoolchildren in the trial feeling more alert and happy than the fast ones ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/)). That is the practical argument for the slow-release breakfast.
+
+**For example**
+(Imagined) Two versions of one morning: a sweet-biscuit breakfast and an egg breakfast, then a demanding task at 10:30. The trial data come from schoolchildren and single mornings; a log of how each of your own mornings goes is the test.
+
+## Sources
+
+- [Benton, 2002, Neurosci Biobehav Rev 26(3): 293-308, PubMed](https://pubmed.ncbi.nlm.nih.gov/12034132/) — abstract: review of carbohydrate ingestion, blood glucose and mood
+- [Micha et al., 2011, Br J Nutr 106(10): 1552-61, PubMed](https://pubmed.ncbi.nlm.nih.gov/21736777/) — abstract: GI/GL breakfast randomised trial, mood and cognition in school children
+
 ## Psychology parallels
 
-- **Blood sugar and mood**, blood sugar fluctuations affect mood, energy, and irritability (Benton, 2002; Owens et al., 2011)
-- **Glycemic variability and mood**, blood sugar stability is associated with better mood and cognitive performance (Benton, 2002; Philippou et al., 2013)
+- **Blood sugar and mood**, low or rapidly falling blood glucose has been associated with poorer mood and irritability ([Benton, 2002](https://pubmed.ncbi.nlm.nih.gov/12034132/))
+- **Glycemic variability and mood**, low-GI meals predicted better mood ratings in a randomised trial ([Micha et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21736777/))
 
 ## Philosophy parallels
 
@@ -30,4 +42,4 @@ Blood sugar stability affects mood and energy. Spikes and crashes (from sugar, r
 
 ## Practice
 
-- Manage blood sugar: eat whole foods, include protein and fibre with meals, limit sugar and refined carbs. Notice the effect of sugar crashes on mood. Stability supports mood.
+- Manage blood sugar: favour meals that release glucose slowly (the low-GI ones the trial used), include protein and fibre with meals, limit sugar and refined carbs. Notice how your mood tracks the falls.

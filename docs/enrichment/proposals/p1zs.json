@@ -37,6 +37,12 @@
    "link": "BI035",
    "why": "observational evidence that eating patterns differ between people with and without depressive symptoms",
    "notes": "Evidence in sources/p1zs/BI035.md (target page read)."
+  },
+  {
+   "into": "Nutritional psychiatry",
+   "link": "BI038",
+   "why": "randomised-trial evidence that a breakfast's glycaemic index tracks later mood ratings",
+   "notes": "Evidence in sources/p1zs/BI038.md (Micha et al. 2011 opened and raw-verified; target page read earlier this session)."
   }
  ],
  "inline": []
