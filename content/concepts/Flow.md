@@ -45,6 +45,7 @@ For flourishing, flow suggests: (1) design your activities so that perceived cha
 
 
 
+
 - [[Attention]] — flow is attention at full absorption
 - [[Effortless action through long effort]] — the Daoist story that anticipates the flow state
 - [[Goal adjustment capacity]] — engagement in the new pursuit, the felt side of reengagement
@@ -54,6 +55,7 @@ For flourishing, flow suggests: (1) design your activities so that perceived cha
 - [[The discipline of attention]] — An editorial contrast between absorption in activity and Weil’s receptive waiting.
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new
+- [[Identified versus introjected motivation]] — self-determination theory's distinction between two ways of carrying a rule inside
 ## Sources
 
 - [Wikipedia — Flow (psychology)](https://en.wikipedia.org/wiki/Flow_(psychology))

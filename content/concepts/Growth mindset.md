@@ -45,6 +45,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 
 
 
+
 - [[Growth through practice]] — the 2,500-year-old version of growth as trainable
 - [[Fixed views of self]] — the incremental alternative the fixed view is contrasted with
 - [[Implicit theories of intelligence]] — the popular form of the incremental theory the page measures
@@ -56,6 +57,7 @@ The empirical status is contested. Sisk and colleagues' 2018 twin meta-analyses 
 - [[Achievement goal theory (Dweck, Elliot)]] — the goal framework Dweck associates with the malleable-intelligence belief
 - [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new
+- [[Identified versus introjected motivation]] — self-determination theory's distinction between two ways of carrying a rule inside
 ## Sources
 
 - [Ku and Stager 2022, systematic review, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9284032/) — definition; continuum; heterogeneous effects.

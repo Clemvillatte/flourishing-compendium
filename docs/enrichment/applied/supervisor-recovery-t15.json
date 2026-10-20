@@ -1,0 +1,27 @@
+{
+ "batch": "supervisor-recovery-t15",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Intrinsic motivation.md",
+   "link": "Identified versus introjected motivation",
+   "why": "self-determination theory's distinction between two ways of carrying a rule inside"
+  },
+  {
+   "into": "content/concepts/Flow.md",
+   "link": "Identified versus introjected motivation",
+   "why": "self-determination theory's distinction between two ways of carrying a rule inside"
+  },
+  {
+   "into": "content/concepts/Habit.md",
+   "link": "Identified versus introjected motivation",
+   "why": "self-determination theory's distinction between two ways of carrying a rule inside"
+  },
+  {
+   "into": "content/concepts/Growth mindset.md",
+   "link": "Identified versus introjected motivation",
+   "why": "self-determination theory's distinction between two ways of carrying a rule inside"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 15 (Identified versus introjected motivation family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (Ryan & Deci 2000). Self-determination, Autonomy, Locus of control already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}
