@@ -670,3 +670,26 @@ pages. Continuing to AT075.
   judgment framing — consistent with the clinical-not-moral stance). Mention scan
   (loss of control): Contingency management theory, Motivational interviewing and
   Evidence-based treatments concepts already cite BE072. Validator ok.
+
+  - Ledger correction (BI004): the philosophy-parallel targets are Wu wei (read in
+    full this session), The middle path and Equanimity (both read after the save;
+    non-forcing/equanimity framings consistent). "Stoic calm" was a misremembered
+    name; no such file.
+
+### BI010 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source reused from this session's opened Zaccaro et al. 2018 review. Blockquote
+  verbatim (psychophysiological-flexibility sentence, verified in the saved fetch);
+  the autonomic-changes sentence also verified there.
+- Seed-body claims scoped: posture/movement/temperature/touch list explicitly left to
+  the inherited philosophy traditions (not established by the opened review); the
+  practice's "4-6 breaths per minute" rate is a technique description inherited in
+  the practice section (no outcome promise; left); "the back door is often
+  unlocked"/"the mind was stuck, the body wasn't" aphorisms removed; "Change the
+  state, and the thoughts follow" promise scoped to "the claim is the attempt";
+  plain words re-derived; parallels bullets narrowed to Zaccaro-scoped wording
+  (Lehrer & Gevirtz citations dropped as unopened).
+- Linked-concept reads: Yangsheng (read in full this session), The lived body
+  (Merleau-Ponty — consistent with the body-as-doer framing), Right effort
+  (conditions-arranging framing — consistent). Mention scan (bottom-up): Arousal
+  regulation and Autonomic nervous system concepts already cite BI010. Validator ok.
