@@ -58,7 +58,8 @@
   "PERMA model",
   "Positive activity interventions",
   "Posner's three-network model",
-  "Prototype theory"
+  "Prototype theory",
+  "Psychoanalysis"
  ],
  "in_progress": null,
  "flagged": {
@@ -115,6 +116,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:12:52+00:00",
+ "updated": "2026-10-20T12:14:33+00:00",
  "band_done": false
 }

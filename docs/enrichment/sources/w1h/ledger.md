@@ -573,3 +573,28 @@
 - IS-IT-A-CONCEPT check: named theory with primary literature; the merged
   double seed is a seed-structure quirk, documented above. Saturation: skipped
   per fast-track §1a (degree 9 < 15); no cross-link proposals filed.
+
+## Psychoanalysis (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible)
+
+- OPENED: the Encyclopedia.com (International Dictionary of Psychoanalysis)
+  page for the New Introductory Lectures — the Lecture XXXI
+  therapeutic-intention passage quoted verbatim with its p. 80 citation
+  (secondary carrier disclosed in the page's Sources line; the archive.org
+  1933 full-text stream did not serve the raw text). OPENED: the archive.org
+  full text of the 1917 Introductory Lectures (Penguin Freud Library Vol. 1) —
+  front-matter origin description consulted; no quote taken from beyond the
+  fetched portion.
+- The blockquote drops the source's bracketed German [*Wo Es war, soll Ich
+  Werden*] at the sentence end; all quoted English words match the opened
+  display character-for-character.
+- Merged double seed (Psychoanalysis + Psychoanalytic theory blocks): both
+  link sets preserved in exact markup; the second seed's id/ego/superego
+  sentence integrated into the opening; the seed line kept in the Cited-in
+  area as found.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (E044 Heidegger Angst, E065 Frankl noogenic, X015 Qur'an 12:53,
+  BE057, SE009/CO077 titles via enrich_find context).
+- IS-IT-A-CONCEPT check: named theory with primary literature; no
+  namespace-audit entry. Saturation: skipped per fast-track §1a (degree 9
+  < 15); no cross-link proposals filed. Advisor QC: not due (item 11; next at
+  item 15).
