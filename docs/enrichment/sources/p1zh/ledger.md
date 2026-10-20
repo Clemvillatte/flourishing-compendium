@@ -62,3 +62,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SO076 Digital and technological change as a designable environment
 - Opened: Verduyn 2017 abstract (Illinois record), Valkenburg 2022 PubMed abstract, extended active-passive model excerpt (SAGE CDPS 2022; authors not captured in excerpt, so cited by title). Original 'passive harms, active helps' qualified. Vanden Abeele 2021, Twenge 2018, Orben & Przybylski 2019, Wu, Zuboff, Arendt, Habermas not opened. (PubMed id guess for Orben returned an unrelated paper; discarded.)
+
+## SP002 See everything as one system
+- Opened: Spinoza Ethics (Elwes, Gutenberg 3800) full text; I P14, P15, III preface, IV preface quotes verbatim. 'Deus sive natura' is not in I P14-15 (appears in Latin in IV preface; English 'God or Nature' confirmed); original locator 'especially P14 and P15' kept only for the substance claim. Practical 'prevents most suffering' claim labelled as the entry's reading. Barrett 2017 and Plotinus not opened.
