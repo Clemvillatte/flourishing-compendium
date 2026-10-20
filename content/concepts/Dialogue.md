@@ -13,9 +13,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 
 
+
 - [[Associated living]] — listed for comparison
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
+- [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
 ## Sources
 
 - Buber, I and Thou

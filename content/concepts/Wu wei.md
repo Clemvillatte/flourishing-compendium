@@ -211,6 +211,7 @@ The philosophical analysis matters because it identifies the structure of the pr
 
 
 
+
 - [[Effortless action through long effort]] — the training-story side of effortless action: Cook Ding and the nineteen-year blade
 - [[Goal adjustment capacity]] — the Daoist non-forcing that knows when to stop
 - [[Movement as life]] — the non-forcing action that movement requires
@@ -222,6 +223,7 @@ The philosophical analysis matters because it identifies the structure of the pr
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
 - [[Heart rate variability theory]] — beat-to-beat heart-rate variation as an index of self-regulation (Park & Thayer 2014)
+- [[Locus of control]] — Rotter's generalized expectancy about where reinforcement comes from
 ## Sources
 
 - [Wikipedia, Wu wei](https://en.wikipedia.org/wiki/Wu_wei) — definition, Daodejing chapter references including the chapter 37 formula in Chan and Lau translations, Confucian uses, and Slingerland's dating of the idea.

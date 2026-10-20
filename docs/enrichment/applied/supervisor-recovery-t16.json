@@ -1,0 +1,57 @@
+{
+ "batch": "supervisor-recovery-t16",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/The dichotomy of control.md",
+   "link": "Locus of control",
+   "why": "Rotter's generalized expectancy about where reinforcement comes from"
+  },
+  {
+   "into": "content/concepts/Growth mindset.md",
+   "link": "Locus of control",
+   "why": "Rotter's generalized expectancy about where reinforcement comes from"
+  },
+  {
+   "into": "content/concepts/Wu wei.md",
+   "link": "Locus of control",
+   "why": "Rotter's generalized expectancy about where reinforcement comes from"
+  },
+  {
+   "into": "content/concepts/Dialogue.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  },
+  {
+   "into": "content/concepts/The relational self.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  },
+  {
+   "into": "content/concepts/Participate in the world's becoming.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  },
+  {
+   "into": "content/concepts/Empathic understanding.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  },
+  {
+   "into": "content/concepts/Deep listening.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  },
+  {
+   "into": "content/concepts/Ubuntu.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  },
+  {
+   "into": "content/concepts/Care.md",
+   "link": "Participate \u2014 do with, not to",
+   "why": "the Deweyan distinction: entering another's activity as a partner rather than using it as a means"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 16 (Locus of control + Participate families). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clauses grounded in each concept page's own sourced opening (Rotter 1966; Dewey, Democracy and Education 1916). Self-efficacy, Identified-vs-introjected, Control theory, Autonomy already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

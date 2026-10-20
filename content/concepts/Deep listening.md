@@ -19,8 +19,9 @@ Its contemplative cognates are Buber's I–Thou meeting ([[I and Thou]]) and the
 
 ## Related concepts
 
-- [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
 
+- [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
+- [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
 ## Sources
 
 - Rogers, On Becoming a Person

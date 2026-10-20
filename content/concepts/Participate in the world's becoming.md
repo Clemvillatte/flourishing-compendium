@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Participate in the world's becoming” — Whitehead, Process and Reality.
 
+## Related concepts
+
+- [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
+
 ## Sources
 
 - Whitehead, Process and Reality

@@ -37,6 +37,7 @@ R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it
 
 
 
+
 - [[I and Thou]] — Buber's dialogue, named in this page's seed as its source
 - [[The Between]] — Buber's name for the shared space of relation, which R099 treats as ontological
 - [[Being-with (Mitsein)]] — the Heideggerian parallel the compendium pairs via E026
@@ -50,6 +51,7 @@ R001, R026 and R040 ground it in Ubuntu and Māori practice, and R130 extends it
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the cross-cultural research programme behind the relational self
 - [[Narrative identity]]
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
+- [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, "Martin Buber (1878-1965)"](https://iep.utm.edu/martin-buber/) — the I-Thou/I-It distinction, the between, the relational self
