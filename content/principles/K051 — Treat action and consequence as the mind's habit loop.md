@@ -12,14 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 51** — Treat action and consequence as the mind's habit loop
 
-The lamrim's karma chapter, kept within this page's declared scope (consequence in this life, not rebirth): an action is first an intention, and intentions repeated leave dispositions. Tsongkhapa marks the loop on the far side of rebirth, and it reads as pure habit formation: what you did becomes what you like doing.
+The lamrim's karma chapter, kept within this page's declared scope (consequence in this life, not rebirth). Tsongkhapa's list of what non-virtue leaves behind includes an inclination: the act leaves a pull toward the act.
 
-> "Liking to kill and so on even once you have been born a human are causally concordant behavioural effects." (Great Treatise on the Stages of the Path, Vol. 1, p. 236)
+> "Liking to kill and so on even once you have been born a human are causally concordant behavioural effects." (Great Treatise on the Stages of the Path, Vol. 1, p. 236, as quoted in the Lamrim Chenmo main outlines)
 
-The tradition's ethical floor is the ten paths of action: killing, stealing, sexual misconduct, lying, divisive speech, offensive speech, senseless speech, covetousness, malice, and wrong views (pp. 218-226). The Treatise weighs each act by basis, attitude, performance and culmination, then adds the magnification warning that even subtle actions "follow you like shadows" and produce great happiness or great suffering (p. 211). Practically, treat each repetition of a pattern as a vote for the person the pattern builds, and audit the ballot weekly.
+The Treatise's floor is the ten nonvirtuous paths of action: killing, stealing, sexual misconduct, lying, divisive speech, offensive speech, senseless speech, covetousness, malice, and wrong views (pp. 218-226), analysed under the four headings of basis, attitude, performance and culmination (p. 218). The chapter's warning is that even subtle actions "follow you like shadows" and produce both great happiness and great suffering (p. 211). The habit-loop reading is this page's contemporary application of that material: where actions leave inclinations, the repetitions you feed are the ones you are practising, and a weekly audit of them is the practice proposed here.
 
 **Plain words**
-Anything you repeat gets easier to repeat. That is the whole mechanism, and it runs whether or not you believe in rebirth: the pattern you feed this month is the default you wake up with next month. The tradition's floor is a plain list of ten things to stop doing, from killing down to coveting and wrong views. The weekly audit is just honesty about which repetitions you have been feeding.
+The tradition counts a pull toward repeating a harmful act among that act's own effects. That part you can check in a week of your own life: pick one action you repeated, and ask whether the repetition made it easier, and whether you would handle the next occasion the same way. The ten nonvirtuous paths are the tradition's floor list of what to stop doing.
 
 *For example:* Each night you snap at the kids "just this once," and by the end of the month it's who you are at 6pm.
 

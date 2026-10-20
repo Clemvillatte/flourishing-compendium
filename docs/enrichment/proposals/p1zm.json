@@ -1,1 +1,13 @@
-{"batch": "p1zm", "revision": 1, "records": [{"action": "reciprocal", "into": "Karma", "link": "K051", "why": "the lamrim's karma chapter read through habit formation: this principle carries the Tibetan-Buddhist statement of action as disposition-forming", "notes": "the Karma hub lists principles whose text mentions karma; K051's body cites Tsongkhapa's karma chapter with a verbatim Great Treatise quotation"}]}
+{
+ "batch": "p1zm",
+ "revision": 2,
+ "records": [
+  {
+   "action": "reciprocal",
+   "into": "Karma",
+   "link": "K051",
+   "why": "Tsongkhapa's lamrim karma chapter: the Tibetan-Buddhist statement that an act leaves an inclination toward repeating it, quoted verbatim from the Great Treatise",
+   "notes": "the Karma hub lists principles whose text mentions karma; K051's body cites Tsongkhapa's karma chapter with a verbatim Great Treatise quotation"
+  }
+ ]
+}
