@@ -12,13 +12,17 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 177** — Set process goals and let outcomes follow
 
-Define your goals as processes you control: practice, iterations, hours of attention — and treat outcomes as feedback. You own the process; the world owns the outcome.
+In Human Nature and Conduct, John Dewey argues that the usual picture of aims as distant finish lines gets the relation backwards. An aim, on his account, is a foreseen consequence used to steer what you do now ([Dewey, Human Nature and Conduct, 1922, Part III, "The Nature of Aims"](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/part-3)):
 
-(Dewey's means-end continuity; the lineage's athletic and craft applications.)
+> Ends are foreseen consequences which arise in the course of activity and which are employed to give activity added meaning and to direct its further course. They are in no sense ends of action. In being ends of deliberation they are redirecting pivots in action. ... In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end.
 
-**Plain words** Define your goals as processes you control — practice, iterations, hours of attention — and treat outcomes as feedback. You own the process; the world owns the outcome. The golfer who aims at 'smooth swing' beats the one aiming at 'win the tournament,' for reasons that are structural.
+(Abridged; both passages sit in the same section of Part III.)
 
-*For example:* 'Write the bestseller' (outcome, not yours) versus 'write 500 words daily' (process, fully yours) — the second one occasionally produces bestsellers. The first produces waiting.
+Dewey illustrates with a mariner: "A mariner does not sail towards the stars, but by noting the stars he is aided in conducting his present activity of sailing." He warns that ends regarded as literally ends to action, rather than as directive stimuli to present choice, are "frozen and isolated." The compendium applies this to goal-setting by asking whether a goal names something to do or only something to await.
+
+**Plain words** Take a goal you have written down. Does it name an action you can perform this week, or only a result you are waiting for? The compendium suggests rewriting goals in the first form.
+
+*For example (imagined):* A runner writes "run four times this week" rather than "finish under fifty minutes." The weekly count tells her what to do each morning. The time trial only reports, afterward, how the training went.
 
 ## Psychology parallels
 
