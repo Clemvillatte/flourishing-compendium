@@ -13,6 +13,8 @@ Focused-attention meditation involves directing and sustaining attention on a ch
 >
 > Antoine Lutz and colleagues, “Attention regulation and monitoring in meditation,” [Box 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/).
 
+### Practice and research limits
+
 The authors distinguish this practice from open monitoring, in which no single object remains the explicit focus, while noting that the two styles are often combined in training ([Lutz et al., 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)). Their review calls for longitudinal studies with random assignment and active controls to distinguish effects of training from pre-existing differences between experienced meditators and novices ([“Future directions”](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/)).
 
 ## Facets

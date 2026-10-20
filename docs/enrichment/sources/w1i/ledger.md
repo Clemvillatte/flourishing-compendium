@@ -57,6 +57,9 @@ a principle reserve from the active supervisor.
   not independently certified.
 - Saturation: fast-track exemption used. No reciprocal proposed.
 - QC: source comparison and validator before done; milestone advisor sample pending.
+- Milestone-five independent source and preservation checks passed; advisor
+  required a sentence-case subheading. Reopened and added “Practice and research
+  limits” exactly as requested. No factual content changed.
 
 ## Self-regulation
 
