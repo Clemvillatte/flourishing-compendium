@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 149** — Use instability creatively
 
-Far-from-equilibrium states: crises, transitions, upheavals — are where systems reorganize into new orders. When your life destabilizes, remember: instability is not only danger; it is the physics of renewal.
+Prigogine describes physical systems in which sustained exchanges with the surroundings permit organized patterns to arise. His example is a fluid heated from below: beyond a critical temperature gradient, its resting state becomes unstable and convection begins. The pattern depends on specific conditions, including exchanges of energy with the environment ([Nobel lecture, 1977, section 2, p. 267](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf)).
+
+> "We have here a good example of the fact that non-equilibrium may be a source of order." (Prigogine, Nobel lecture, p. 267.)
+
+### Keep the analogy within limits
+
+The word “may” matters. This physical account does not establish that a personal crisis produces growth, or that suffering is necessary for a better life. The compendium borrows a question, not a law of recovery: when an arrangement has broken down, what could be reorganized, and what support would that require?
 
 (Prigogine and Stengers, Order Out of Chaos, 1984.)
 
-**Plain words** Far-from-equilibrium states — crises, transitions, upheavals — are where systems reorganize into new orders. When your life destabilizes, remember: instability is not only danger; it's the physics of renewal. The melting point is where the better alloy gets made.
+### Plain words
 
-*For example:* The layoff that forced the career change dreading for years — the system had to destabilize before it could reorganize. Painful, and the physics of the upgrade. Both things are true.
+Name what has changed before deciding what the change means. Which parts need protecting, which decisions can wait, and where is there room to try a different arrangement? You do not owe anyone a story in which the disruption was secretly good.
+
+### For example
+
+Imagine losing a job. A proposed planning exercise is to separate immediate income needs from possible longer-term changes, then identify who could help with each. This is practical planning, not a prediction drawn from thermodynamics.
+
+## Sources
+
+- [Ilya Prigogine, Nobel lecture, “Time, Structure and Fluctuations” (1977), sections 2-4](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf): opened primary account of dissipative structures; not the inherited 1984 book or evidence for psychological renewal.
 
 ## Psychology parallels
 
