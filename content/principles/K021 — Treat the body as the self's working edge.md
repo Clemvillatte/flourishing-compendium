@@ -19,7 +19,7 @@ Nishida introduced the notion late, as the Stanford Encyclopedia's account recor
 The same account gives the instruments passage: scientific experimentation "provides an example of enactive intuition insofar as experiments require the performance of a body acting and understanding through instruments (NKZ VIII, 326)", and it stresses that for Nishida "enactive intuition is a bodily achievement, the performance of an embodied individual who in turn is formed by the world", with "both body and world... conceived as historical". ([SEP: Nishida Kitaro](https://plato.stanford.edu/entries/nishida-kitaro/))
 
 **Plain words**
-As a compendium exercise, consider using a familiar instrument. What did its design require you to learn, and what could you accomplish through using it?
+Nishida's account treats the body as an active participant in understanding and acting. A researcher understands through bodily activity with instruments. The embodied person is also shaped by the world they act within.
 
 For example (imagined): A cellist notices that knowing where a passage is difficult for her hand tells her something about the instrument's design and her own trained hand together.
 

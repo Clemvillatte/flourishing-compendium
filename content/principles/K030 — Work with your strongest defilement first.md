@@ -23,7 +23,7 @@ His commentary:
 The instruction names whichever obstacle is yours and refuses the postponement that more sitting offers. He adds the guard against outcome-chasing: "all dharmas should be applied in trying to tame it, but at the same time we should not try to arrive at certain results". ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
 
 **Plain words**
-As a compendium exercise, identify a recurring reaction you already recognize as a serious difficulty. Bring one recent instance into your practice now, without postponing it until you have completed more sitting or demanding a particular result.
+The instruction asks you to work on a serious difficulty you already recognize, such as jealousy or aggression, instead of postponing it until you have meditated more. It also warns against demanding a particular result.
 
 For example (imagined): Someone who repeatedly interrupts others examines one recent interruption instead of postponing the issue until they have meditated more.
 
