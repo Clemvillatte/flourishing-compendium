@@ -25,7 +25,7 @@
   "B165",
   "B169"
  ],
- "in_progress": null,
+ "in_progress": "B172",
  "flagged": {
   "D094": "Reopened for QC: Milestone QC FAIL: application mechanism unsupported; repairs pending",
   "D103": "Reopened for QC: Milestone QC FAIL: explanation overreach; repairs pending",
@@ -47,6 +47,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T02:58:12+00:00",
+ "updated": "2026-10-20T03:19:17+00:00",
  "band_done": false
 }
