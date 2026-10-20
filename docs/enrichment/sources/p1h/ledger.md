@@ -832,3 +832,27 @@ pages. Continuing to CO009.
 - Linked-concept reads: Dialectic (Hegel), Steelmanning the opposing view (Mill,
   cites CO015's own practice), Devil's advocate (Catholic tradition — cites CO015),
   Motivated reasoning (wikilink preserved). Validator ok.
+
+### CO025 (2026-10-20, worker-p1h-7d3e9c4a)
+
+- Source opened: Kruger & Dunning 1999 (JPSP 77(6):1121-1134; full-text PDF hosted at
+  University of Michigan, opened via fetch). Blockquote verbatim (dual-burden
+  sentence); the 12th/62nd percentile figure and the metacognitive-skill and
+  training-paradox sentences verified in the same opened abstract.
+- Seed-body claims scoped: the popular confidence-curve meme (peaks early, crashes,
+  recovers) removed as not shown by the four studies; "The more you know, the more
+  aware you become of what you do not know" replaced with the abstract's own
+  training-paradox finding; "This is not about stupid people" framing removed;
+  "Mild confidence often signals a beginner; doubt often signals a growing expert"
+  removed (a diagnostic rule the studies don't support); the "it depends" sarcasm
+  removed; plain words re-derived; example now scopes the three-weeks observation
+  to the studies' confidence/competence gap. Inherited parallels bullets left
+  (the Dunning-Kruger effect and Motivated-reasoning wikilinks preserved; the
+  Gignac & Zajenkowski statistical-artifact caveat bullet left as an inherited
+  literature hedge, unopened, noted here).
+- Linked-concept reads: Socratic ignorance (docta ignorantia — consistent),
+  Dunning-Kruger effect (concept; low performers overestimate — consistent),
+  Humility (read in full earlier this session). Note: the philosophy-parallels
+  wikilink [[The more you know, the more you know you don't know]] has no
+  corresponding concept file (broken link, inherited; left for the supervisor's
+  link-repair queue). Validator ok.
