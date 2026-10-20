@@ -2,7 +2,7 @@
  "lane": "s1b",
  "items": {
   "s1b-001": {
-   "status": "drafting",
+   "status": "qc_pending",
    "angle": "D107: marsh pheasant; lavish provision does not make confinement suit its nature; owner scope approved in latest conversation",
    "history": [
     {
@@ -13,9 +13,14 @@
      "t": "2026-10-20T14:27:57+00:00",
      "to": "drafting",
      "note": "Converted reviewed candidate after owner approval; narrative unchanged; independent substantive QC PASS"
+    },
+    {
+     "t": "2026-10-20T14:28:48+00:00",
+     "to": "qc_pending",
+     "note": "First activated item: independent source/genre/mapping QC substantive PASS already received; MD032/parser exception documented for supervisor"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:27:57+00:00"
+ "updated": "2026-10-20T14:28:48+00:00"
 }
