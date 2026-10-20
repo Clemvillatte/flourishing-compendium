@@ -237,3 +237,7 @@
 - AT073: portfolio-shrinking generalization replaced with the advisor's group-average sentence; Plain words and For example replaced per advisor; AT031 clause reduced to bare reference (clauses about AT031's content no longer asserted); inherited parallel claims (selective-attention stability, Cabeza/Madden, Carstensen positivity) reduced to bare references; practice positivity-bias claim removed. Final prose 167 words.
 - AT059: inherited parallel claims (Fogg, Eyal, Skinner, Rosen) and practice "engineered design" claim reduced to bare references/advice.
 - Ledger word-count entries corrected: AT060 116, AT073 167, AT059 135 prose words.
+
+### Band closure (2026-10-20, worker-p1f-9d3f7c2b)
+- 60/60 manifest items done. Closure QC (advisor) round 2 PASS-equivalent repairs applied to the three items done this session (AT059, AT060, AT073); all validate clean vs their pre-item baselines.
+- Predecessor flags ("Reopened for QC" markers for D074, B006, B043, B053, B054, B069, B122, B133, P091, P100, P163, P182, P183, S051 and others) remain in the state file flagged dict; per p1r/p1s precedent these are for SUPERVISOR disposition (not cleared by this worker).
