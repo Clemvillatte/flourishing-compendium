@@ -11,11 +11,11 @@
   "Three thousand realms in one thought",
   "The water of life",
   "Sufficiency",
-  "Art as experience",
   "The rhythm of life",
   "The rhythm of rest",
   "The criterion of experience",
-  "The community of inquiry"
+  "The community of inquiry",
+  "Art as experience"
  ],
  "in_progress": null,
  "flagged": {
@@ -27,7 +27,8 @@
   "The rhythm of life": "Reopened for QC: QC round 3: remove unverified 'earliest Daoist text on breath cultivation' claim; narrow tranquility/breath causation; attribute longevity to the text's teaching",
   "The rhythm of rest": "Reopened for QC: QC round 3: fix toil-in-youth misread, fix Zi-lai/Zi-yu speaker attribution, fix sleep/waking framing, restore Daoism placeholder line",
   "The criterion of experience": "Reopened for QC: QC round 3: replace survey-quote synthesis overreach; use James's positive account (outcome/upshot passage, section VI); fix section number",
-  "The community of inquiry": "Reopened for QC: QC round 3: rewrite closing in own words (was near-verbatim), narrow opening claim, remove unverified CP citation, restore placeholder line"
+  "The community of inquiry": "Reopened for QC: QC round 3: rewrite closing in own words (was near-verbatim), narrow opening claim, remove unverified CP citation, restore placeholder line",
+  "Art as experience": "Reopened for QC: QC round 3: restore deleted ## Facets section; remove inflated 'governs everything' claim and not-X-but-Y closer"
  },
  "missing_concepts": [
   {
@@ -37,6 +38,6 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-20T05:16:38+00:00",
+ "updated": "2026-10-20T05:16:49+00:00",
  "band_done": false
 }

@@ -598,3 +598,15 @@
   audit flag no longer claims the phrase is "the tradition's later label" (that
   history was not established from an opened source). Reopened and re-done via
   enrich_state.py; --fast-track ok; build ok.
+
+### QC repair, Art as experience (2026-10-20, advisor QC round 3)
+
+- Repairs applied: the original edit accidentally DELETED the page's inherited
+  "## Facets" section — restored ("**research** — Dewey, Art as Experience"); the
+  inflated opening claim ("the task that governs everything after it") removed;
+  the closing no longer uses the banned not-X-but-Y contrast formula or exceeds
+  the opened excerpt. Quote unchanged (verified against the downloaded PDF). One
+  note for the record: the source PDF's OCR line-break hyphenation ("con
+  tinuity", "suffer ings") was de-hyphenated in the quotation, disclosed in the
+  original ledger entry. Reopened and re-done via enrich_state.py; --fast-track
+  ok; build ok.
