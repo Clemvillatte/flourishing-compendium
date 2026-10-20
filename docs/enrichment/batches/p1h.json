@@ -97,10 +97,10 @@
   "BE072": "Reopened for QC: QC closure: unopened Koob/APA/Miller bullets; practice narrowed to substance use",
   "BI004": "Reopened for QC: QC closure: cortisol-as-system wording, depression bullet, practice",
   "BI010": "Reopened for QC: QC consistency pass: audit phrasing in parallels",
-  "CO002": "Reopened for QC: QC closure: parallels bullet Kahneman 2011 citation"
+  "CO002": "Reopened for QC: QC closure: bullet dropped source qualifiers"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:59:13+00:00",
+ "updated": "2026-10-20T04:00:02+00:00",
  "band_done": false
 }

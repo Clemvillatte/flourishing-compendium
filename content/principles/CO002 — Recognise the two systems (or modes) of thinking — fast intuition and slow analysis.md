@@ -29,7 +29,7 @@ A response can come to mind automatically; you can also work through a problem d
 - [Evans & Stanovich (2013), Dual-process theories of higher cognition: advancing the debate, Perspectives on Psychological Science 8(3):223-241](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)
 ## Psychology parallels
 
-- **[[Dual-process theory|Dual-process theory]]**, two modes with distinct properties; the fast mode is associative, the slow mode rule-governed (Kahneman, 2003; Evans & Stanovich, 2013)
+- **[[Dual-process theory|Dual-process theory]]**, Kahneman describes System 1 operations as typically fast and associative, and System 2 operations as slower, effortful and potentially rule-governed (Kahneman, 2003)
 - **Autonomy, not speed, defines the types**, Type 1's defining characteristic is autonomy; rapid execution and associativity are correlated but not defining features (Evans & Stanovich, 2013)
 
 ## Philosophy parallels

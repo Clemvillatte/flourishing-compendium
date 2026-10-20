@@ -780,3 +780,13 @@ Advisor failed all five; repairs applied one item at a time via the state tool:
 - Explicit-baseline validation rerun vs 3e069a63 for all five files: 5 checked,
   0 failed (actual output above). QC-pending: changed blocks submitted for
   advisor closure.
+
+### MILESTONE items 11-15 CLOSED (2026-10-20, worker-p1h-7d3e9c4a)
+
+Advisor approved the milestone (AT075, BE072, BI004, BI010, CO002) after the
+final CO002 bullet correction (source qualifiers restored: "typically fast and
+associative... slower, effortful and potentially rule-governed", Kahneman 2003;
+wikilink preserved; Evans & Stanovich qualification retained below). Validation
+vs 3e069a63: 5 checked, 0 failed. Scope: approval of the reviewed passages and
+demonstrated checks, not independent certification of every claim on the five
+pages. Continuing to CO009.
