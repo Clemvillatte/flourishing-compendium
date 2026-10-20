@@ -12,9 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 163** — Do your duty even when it is unpleasant
 
-The Stoic does not avoid duty because it is uncomfortable. Marcus writes about getting out of bed in the morning to do the work of a human being. The unpleasant duty is often the most important one. Do not let discomfort determine your actions.
+Marcus begins the fifth book of his notes by answering his own reluctance to get up ([Meditations V.1](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
 
-Marcus begins the fifth book of his notes by answering his own reluctance to get up: "I am rising to the work of a human being." ([Meditations V.1, George Long translation](https://classics.mit.edu/Antoninus/meditations.5.five.html)) He points to birds, ants and bees doing their part, then asks why acts that serve society should seem less worthy of effort than a craft or the pursuit of money ([Meditations V.1](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
+> "I am rising to the work of a human being." (Med. V.1, [George Long translation](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
+
+He points to birds, ants and bees doing their part, then asks why acts that serve society should seem less worthy of effort than a craft or the pursuit of money ([Meditations V.1](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
 
 The warmth of the bed is not his argument's real target; it is letting what feels pleasant decide whether worthwhile work gets done ([Meditations V.1](https://classics.mit.edu/Antoninus/meditations.5.five.html)). He also answers the objection that rest is necessary by conceding that it is, though he insists it has limits ([Meditations V.1](https://classics.mit.edu/Antoninus/meditations.5.five.html)).
 
