@@ -156,3 +156,9 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 - Locator correction: the old citation said "Part IV, ch. 3"; the table of contents of the opened text puts "Freedom and Responsibility" at Part IV, ch. 1, §III. Fixed.
 - Limitation: Sartre does not prescribe "practising" the look; the page says so and reports his two attitudes. Plain words was a replicate, replaced. The Part IV quote spans a page break and footnote; verified by hand.
 - No advisor tool in this session: self-QC with a word-for-word quote check script. Flag for supervisor spot-check.
+
+## E045 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Source opened: Heidegger, Being and Time Div. II ch. 2 (Macquarrie and Robinson), https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc ; also cross-checked against Internet Archive OCR. Quotes verified word-for-word; the file marks German (H.) page starts at paragraph ends, so locators are given as H. ranges (273-274, 275-276, 277-278, 270-271, 288-289). SEP snippet confirms 'asserts nothing' at SZ 273.
+- Plain words was a replicate; 'calls collect' and the career-change claim removed (unsupported). Example labelled imagined. Practice framed as readiness (wanting to have a conscience, H. 288), per Heidegger's 'not cultivate the call voluntarily'. Not covered: the content 'Guilty!' (§58).
+- Self-QC only (no advisor tool).

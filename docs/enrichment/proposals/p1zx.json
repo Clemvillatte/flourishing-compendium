@@ -1,6 +1,6 @@
 {
  "batch": "p1zx",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Shame",
@@ -25,6 +25,18 @@
    "link": "E035",
    "why": "gives Sartre's account of shame as recognition by the Other",
    "notes": "Shame.md groups principles from several traditions and has no Sartre entry; E035 quotes 'Shame is by nature recognition' (p. 222), verified vs opened Barnes text 2026-10-21."
+  },
+  {
+   "into": "The they (das Man)",
+   "link": "E045",
+   "why": "Heidegger describes the call of conscience as addressed to the they-self",
+   "notes": "Stub concept. E045 quotes verified vs opened Macquarrie-Robinson text (H. 273-278)."
+  },
+  {
+   "into": "Resoluteness (Entschlossenheit)",
+   "link": "E045",
+   "why": "covers the readiness to be appealed to by conscience",
+   "notes": "Stub concept. E045 quotes H. 288-289 verified vs opened text."
   }
  ]
 }

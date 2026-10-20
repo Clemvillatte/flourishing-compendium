@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 437** — Practise conscience (Gewissen)
 
-Listen to the call of conscience. Conscience, in Heidegger's sense, is not the voice of moral rules but the call that summons you from the "they" to your ownmost possibility. It is the call to authenticity. Do not drown out the voice of conscience with distraction and noise.
+Heidegger's conscience is not a rulebook. When he asks what the call says, his answer is "Taken strictly, nothing. The call asserts nothing, gives no information about world-events, has nothing to tell" (Being and Time §56, H. 273-274, trans. Macquarrie and Robinson). It also does not put you on trial: it "calls Dasein forth (and 'forward') into its ownmost possibilities" (H. 273-274).
 
-(Heidegger, 1927/2008, Being and Time, §§54-60.)
+### Who is calling
 
-**Plain words** Conscience, in Heidegger's sense, isn't the voice of moral rules — it's the call that summons you from the "they" to your ownmost possibility. The call to authenticity. Don't drown it with distraction and busyness; it calls quietly, and it calls collect.
+The call does not come from outside. "In conscience Dasein calls itself" (§57, H. 275-276), and the call "comes from me and yet from beyond me and over me" (H. 275-276). It is addressed to the "they-self", the part of you that runs on what one does and says, and it "calls him back from this into the reticence of his existent potentiality-for-Being" (H. 277-278).
 
-*For example:* The quiet Sunday discomfort that no amount of scrolling settles — not guilt about anything specific, just the summons: this isn't yours, come back. The people who answer it change careers; the people who out-noise it buy bigger TVs.
+### Why silence matters
+
+Silence is how it works: "Conscience discourses solely and constantly in the mode of keeping silent" (H. 273-274). Dasein that loses itself in "the publicness and the idle talk of the 'they'", Heidegger says, fails to hear its own self (H. 270-271). So the only thing that can be practised is readiness. "Wanting to have a conscience" does not mean cultivating a good one: "it means solely that one is ready to be appealed to" (H. 288-289).
+
+**Plain words** Most of the day you act on what people like you are expected to do. Heidegger says that now and then something in you interrupts that, without giving instructions. It does not tell you what is right. It only pulls you back to the question of your own life. You cannot make it speak, and it is easy to drown out. What you can do is leave enough quiet for it to be heard.
+
+*For example:* Imagined example: on a Sunday evening the usual scrolling stops working, and a plain thought arrives: I do not want to be doing this in ten years. The thought comes with no instructions. The practice is to stay with it long enough to find what it concerns, instead of reaching for the next distraction.
+
+(Heidegger, Being and Time §§54-60, esp. §56 and §58, H. 270-289, trans. Macquarrie and Robinson; text of Division II ch. 2 at the Dominican House of Studies, opened 2026-10-21.)
+
+## Sources
+
+- [Heidegger, Being and Time, Division II ch. 2 (§§54-60), Macquarrie and Robinson trans., Dominican House of Studies](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc) — H. 270-289
 ## Psychology parallels
 
 - **Conscience and moral self** (Blasi, 1984)
