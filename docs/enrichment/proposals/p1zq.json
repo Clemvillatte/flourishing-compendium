@@ -24,14 +24,14 @@
   {
    "into": "Emotion regulation",
    "link": "AF037",
-   "why": "AF037 carries the suppression-cost finding behind the page's late-stage caution: in a panic-disorder challenge study, suppressing the feeling predicted more subjective anxiety than accepting it.",
-   "notes": "Target verified to not yet link AF037 (rg check 2026-10-21). Evidence: Levitt et al. 2004 abstract, sources/p1zq/AF037.md."
+   "why": "AF037 is a laboratory comparison of acceptance and suppression in patients with panic disorder, the suppression-cost side of the page's strategy comparison.",
+   "notes": "Why clause bounded after advisor QC round 1 (abstract says 'was related to', not predicted; no general over-regulation claim). Evidence: sources/p1zq/AF037.md."
   },
   {
    "into": "Acceptance",
    "link": "AF037",
-   "why": "AF037's study is the acceptance-versus-suppression contrast in panic disorder: acceptance predicted willingness to face a second challenge where suppression predicted more anxiety.",
-   "notes": "Target verified to not yet link AF037. Evidence: Levitt et al. 2004 abstract, sources/p1zq/AF037.md."
+   "why": "AF037's evidence is the acceptance-versus-suppression comparison in panic disorder from the Levitt 2004 study.",
+   "notes": "Why clause bounded after advisor QC round 1 (abstract says 'was related to', not predicted; no general over-regulation claim). Evidence: sources/p1zq/AF037.md."
   }
  ],
  "inline": [],

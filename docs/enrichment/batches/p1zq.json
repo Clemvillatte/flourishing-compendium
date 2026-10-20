@@ -25,10 +25,9 @@
   "AF020",
   "AF022",
   "AF024",
-  "AF031",
-  "AF037"
+  "AF031"
  ],
- "in_progress": null,
+ "in_progress": "AF037",
  "flagged": {
   "Y095": "Prior flag: advisor QC round-2 fail. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
   "Y097": "Prior flag: advisor QC round-2 fail. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
@@ -52,10 +51,11 @@
   "AF020": "inherited title's 'they are different systems' claim not established by the opened sources (two separate distinctions: well-being measures; wanting/liking); supervisor disposition needed",
   "AF022": "Reopened for QC: QC: transmission overstatement; mine-or-picked-up binary; example causal conclusion",
   "AF024": "Reopened for QC: QC: plain-words evolutionary claim unverified; glosses as fixed translations; aphoristic example closer",
-  "AF031": "inherited title's 'timing matters more than intensity' ranking not established by the opened chapter (intensity is a moderator in the passages opened); supervisor disposition needed"
+  "AF031": "inherited title's 'timing matters more than intensity' ranking not established by the opened chapter (intensity is a moderator in the passages opened); supervisor disposition needed",
+  "AF037": "Reopened for QC: QC round 1 FAIL (advisor): suppression-control null contradicted; monitoring overreach; repairs in flight"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:43:00+00:00",
+ "updated": "2026-10-20T13:45:04+00:00",
  "band_done": false
 }
