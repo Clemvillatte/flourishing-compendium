@@ -49,3 +49,7 @@
 ## E108 — Will to power
 - Sources opened (curl + grep verified): BGE §13 (Zimmern, Gutenberg 4363); Zarathustra "Self-Surpassing" (Common, Gutenberg 1998; capitals as in source); SEP Nietzsche §§1, 3.2.1, 6.1 (verbatim Kaufmann/Richardson passages; Will to Power compilation caveat).
 - Correction: the principle's "not domination over others" is one scholarly reading; Nietzsche's own text ("will to be master", "the weaker shall serve") and SEP show the doctrine also countenances domination. Page states this. BGE §§259, 367 and The Will to Power (1885/1968) not used (the latter is a posthumous compilation per SEP). White 1959, Ames 1992, Bandura 1977, Plato Symposium bullets inherited, unverified.
+
+## K018 — Interpenetration
+- Sources opened: SEP Huayan §1.3 (verbatim Indra's net; note SEP calls it pre-Buddhist myth adopted in Avatamsaka Sutra); SEP Kyoto School §§3.2, 3.5 (verbatim; page does not mention "circuminsessional" or Indra's net); Nishitani RN p.148 via Qin (philarchive.org/archive/QINIOT-2) search excerpt: secondary quote, book not opened.
+- The practice instruction (one minute seeing the person as conditioned) flagged as compendium's. Clark 2013 and Nguni proverb bullets inherited, unverified; the page's claim "things exist only in mutual reference" softened because Nishitani says each remains "absolutely unique".
