@@ -292,3 +292,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: Gollwitzer line matched; Woods sutras matched (bracketed [2.35] markers are the page's own).
 - Seed repairs: text states results of being "grounded", not of practising when tested; "especially when tested" is the page's own suggestion; Gollwitzer is about goal pursuit in general, not provocation. Epictetus and Rumi not opened.
 - Saturation: low.
+
+## Y041 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 2.31 with Vyasa and the Tika (pp. 180-181).
+- Quotes verified: matched woods text (differences only a footnote number and an em dash).
+- Seed repairs: commentary names species/place/time/exigency (fisherman, holy place, lunar day, gods-and-brahmans, warrior); "war and peace, home and abroad, observed and alone" are not in it; removed. Write-down-exceptions practice labelled as the page's own. Bandura and Kant not opened.
+- Saturation: low.

@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 41** — Keep the restraints unconditional
 
-The sutras state that the restraints are not limited by class, place, time, or circumstance: they hold in war and peace, at home and abroad, when observed and when alone. This universality clause is the tradition's answer to exception-making, which is where every practice actually fails. Practically, when you notice yourself drafting an exception, write the exception down and look at it; drafted exceptions rarely survive being seen.
+Sutra 2.31 sets a standard for the restraints that goes beyond keeping them most of the time:
 
-(YS 2.31.)
+> When they are unqualified by species or place or time or exigency and when [covering] all [these] classes [under these circumstances exists] the Great Course-of-conduct.
 
-**Plain words** The restraints are not limited by class, place, time, or circumstance: they hold in war and peace, observed or alone. The universality clause is the answer to exception-making — which is where every practice goes to die. No "this doesn't apply because."
+(Yoga Sutras 2.31, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, pp. 180-181, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* The person whose honesty has a documented exception list — "well, in business," "well, with family," "well, when tired" — versus the one whose non-harm survived the hostile meeting, the hostile month, and the hostile year.
+The commentary shows what a limited version looks like, taking non-injury as its example. By species: "a catcher of fish does injury to fishes only and to nothing else". By place: "I will not slay in a holy place." By time: "I will not slay on the fourteenth day [of the lunar fortnight]". By exigency: "For the sake of gods and brahmans and not otherwise I will slay", or the warrior who says, "In battle only [I will do] injury, and nowhere else." Non-injury "unqualified by these species or times or places or exigencies" is the Great Course-of-conduct, and the same holds for the other restraints.
+
+So the exceptions the text names are limits a person has set on the vow, and it sets them aside as qualified. The commentary gives the four-fold list above. It does not speak of home and abroad, or of being observed and alone. The suggestion to write down any exception you catch yourself drafting is this page's own practice.
+
+**Plain words**
+
+A restraint with a clause attached, such as only in this place, only at this time or only for this cause, is not yet the full practice. The text calls the unqualified version the great one. If you catch yourself drafting a clause, look at it.
+
+**For example**
+
+A man says he never lies, except to spare feelings, except at work, except to his mother. He writes the three exceptions on a card. Seeing them together, he finds that most of them are the same exception.
+
 ## Psychology parallels
 
 - **Moral disengagement and rationalization** (Bandura, 1999)
@@ -26,3 +37,8 @@ The sutras state that the restraints are not limited by class, place, time, or c
 ## Philosophy parallels
 
 - **[[The categorical imperative|The categorical imperative's universalization test]]** (Kant, Groundwork)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutra 2.31 with Vyasa and the Tika, pp. 180-181, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
+- The inherited Bandura (1999) and Kant parallels were not opened and no claim here rests on them.
