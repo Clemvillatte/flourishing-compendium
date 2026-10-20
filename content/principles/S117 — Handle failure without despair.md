@@ -12,16 +12,16 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 239** — Handle failure without despair
 
-Marcus treats a setback as material rather than as a verdict:
+Marcus describes hindrances becoming material for action:
 
 > "for the mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road." (Marcus Aurelius, Meditations, Book V, section 20, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The same claim appears at the level of the whole: "so also the rational animal is able to make every hindrance its own material, and to use it for such purposes as it may have designed" (Meditations VIII.35). What he will not do is transfer the verdict from the act to himself: "One thing only troubles me, lest I should do something which the constitution of man does not allow, or in the way which it does not allow, or what it does not allow now" (Meditations VII.20).
+He returns to this image in VIII.35: "so also the rational animal is able to make every hindrance its own material, and to use it for such purposes as it may have designed" (Meditations VIII.35). In VII.20, his stated concern is whether his own actions accord with human nature: "One thing only troubles me, lest I should do something which the constitution of man does not allow, or in the way which it does not allow, or what it does not allow now" (Meditations VII.20).
 
 (Med. V.20, VII.20, VIII.35.)
 
 **Plain words**
-As a practical exercise, separate the review from the verdict. Name what the failed attempt actually shows, one thing you would do differently, and the next version of the attempt. Marcus's fear-list has one entry: his own conduct.
+Review a failed attempt. Identify what obstructed it, what is still possible, and what you want to change before trying again.
 
 *For example (imagined):* After a lost contract, you review what happened, change one habit, and send the next proposal.
 
