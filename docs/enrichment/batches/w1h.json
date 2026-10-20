@@ -43,7 +43,7 @@
   "Individual Psychology (Adlerian psychology)",
   "Inflammatory theory of depression (Dantzer, Miller)"
  ],
- "in_progress": null,
+ "in_progress": "Kohlberg's theory of moral development",
  "flagged": {
   "Non-attachment": "fast-track; evidence: Dhp 214 Buddharakkhita verbatim (accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html), Sahdra et al. 2010 PubMed abstract (pubmed.ncbi.nlm.nih.gov/20155561/), abstract-only scope; QC: advisor round-1 repairs applied, round-2 scoped PASS (CO031 gloss simplified, duplicate-page sentence removed); FLAG: duplicate of existing richer concept page Nonattachment (deg 13) — supervisor disposition pending, namespace resolution NOT closed",
   "Maya (illusion)": "fast-track; evidence: BG ch.7 Arnold verbatim (gutenberg.org/files/2388/2388-h/2388-h.htm), Menon IEP Advaita Vedanta (iep.utm.edu/adv-veda/); QC: advisor item-5 milestone scoped content PASS (3 rounds)",
@@ -88,6 +88,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:40:13+00:00",
+ "updated": "2026-10-20T08:40:25+00:00",
  "band_done": false
 }
