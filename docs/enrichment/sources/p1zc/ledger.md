@@ -129,3 +129,20 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - S127 Plain words generalization ("most of what you want is not up to you")
   replaced with the bounded application.
 - All six items validated vs pre-edit baseline 0998a787: 0 failed.
+
+## Saturation hunts (mention tool, items 1-6)
+- S119: hunted "premeditation", "morning rehearsal" — Mental simulation research (stub,
+  cites K275 but not S119) identified and proposed; Morning intention, Implementation
+  intentions, Education as growth already cite S119.
+- S123: hunted "digest", "limited number of authors" — no additional links warranted
+  (Bibliotherapy research and Deliberate practice already cite S123).
+- S127: hunted "suppress desire" — Natural and necessary already cites S127; A007
+  (in-band, last item) is the Aristotelian counterpart, to be handled when A007 comes up.
+- S129: "The discipline of attention" and "Prosochē" already cite S129 — no additional
+  links warranted.
+- SE021: hunted "contingent self-worth" — Self-compassion and Amor sui (right
+  self-love) both discuss contingent self-worth without citing SE021; both proposed.
+  Contingencies of self-worth (Crocker), Contingent self-esteem, Kernis, The inner
+  citadel already cite SE021.
+- Three new reciprocal proposals appended to proposals/p1zc.json (Mental simulation
+  research, Self-compassion, Amor sui).

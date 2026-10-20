@@ -18,7 +18,7 @@ Marcus records the exercise as a morning rehearsal: telling himself what kind of
 
 (Med. II.1; Seneca, Letters 16, 101; Disc. I.1, I.4, III.12, III.23, IV.4.)
 
-**Plain words** Before the day starts, tell yourself the truth about it: you will meet someone rude, something will break, something will tempt you to snap. Marcus sets the exercise down as a morning rehearsal, not to be gloomy, but so the difficult parts arrive as expected guests instead of ambushes. A rehearsed response is already half-chosen.
+**Plain words** Before you go out, allow for the possibility of meeting someone rude. Ask how you want to behave toward them. You can consider your response before the encounter.
 
 *For example (imagined):* A nurse spends two minutes in the car park thinking "today someone will be rude to me, and I will not be rude back." At 10 a.m., when someone is, she has already decided how she will answer.
 ## Sources
