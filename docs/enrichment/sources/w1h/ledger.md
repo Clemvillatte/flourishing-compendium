@@ -407,3 +407,12 @@
   description; existing Social learning theory (Bandura) link kept with a
   reworded clause (modeling is the mechanism by which observers learn from
   exemplars, not a claim about Walker and Frimer's design).
+
+## Mortality salience (fast-track)
+- Opened: PubMed record 20097885 (Burke, Martens and Faucher 2010, PSPR
+  14(2), 155-195) — MS-hypothesis passage and all numbers quoted verbatim
+  from the record's abstract (164 articles / 277 experiments, r = .35, four
+  listed moderators, gender/self-esteem caveat). Greenberg et al. 1986
+  chapter NOT opened; recorded as the seed's citation only. Broken "Facets"
+  seed artifact (facet names "research" / "and meaning", no links) removed;
+  no wikilinks lost (validator-checked vs pre-item baseline).
