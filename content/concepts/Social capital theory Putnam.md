@@ -31,7 +31,7 @@ One boundary on this entry. The seed names Bourdieu alongside Putnam. No Bourdie
 
 The principle [SO038](../principles/SO038%20%E2%80%94%20Treat%20trust%20as%20social%20capital.md) runs on this theory: trust is infrastructure, the confidence that others will cooperate and institutions will function, and it is built in small repeated keepings-of-word.
 
-The principle [SO062](../principles/SO062%20%E2%80%94%20Treat%20social%20capital%20as%20a%20community%20resource.md) adds the practical reading: the resource is built with boring things, showing up, joining, reciprocating. That principle also states the concern about decline, which is Putnam's own headline finding here. ([Putnam, 1995](https://historyofsocialwork.org/1995_Putnam/1995,%20Putnam,%20bowling%20alone.pdf)))
+The principle [SO062](../principles/SO062%20%E2%80%94%20Treat%20social%20capital%20as%20a%20community%20resource.md) adds the practical reading: the resource is built with boring things, showing up, joining, reciprocating.
 
 ## Sources
 
