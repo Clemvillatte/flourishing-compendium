@@ -12,11 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 220** — Remember the brevity of life and reputation
 
-Marcus tells himself that the greatest emperors are already forgotten. The longest fame is short. What you do for fame is wasted. What you do for virtue lasts as long as your character lasts.
+Marcus makes the point with names. He lists famous Romans, including emperors, and shows how quickly the world lets go of them:
 
-(Med. I.19, III.4, IV.3, IV.19, IV.33, IV.35, VI.24, VII.6, IX.30, XI.1, XI.27, XII.21, XII.27, XII.32.)
+> "Those words which once were common and ordinary, are now become obscure and obsolete; and so the names of men once commonly known and famous, are now become in a manner obscure and obsolete names. Camillus, Cæso, Volesius, Leonnatus; not long after, Scipio, Cato, then Augustus, then Adrianus, then Antoninus Pius: all these in a short time will be out of date, and, as things of another world as it were, become fabulous." (Marcus Aurelius, Meditations IV.28, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
-**Plain words** The greatest emperors are already forgotten, says Marcus. Even the longest fame is short. What you do for fame is wasted, and what you do for virtue lasts as long as your character does.
+### What he says to do with it
+
+He answers his own question about what lasts: "What is it that we must bestow our care and diligence upon? even upon this only: that our minds and wills be just; that our actions be charitable; that our speech be never deceitful" (Meditations IV.28, same edition). The argument runs from the short life of fame to the conclusion that attention belongs on character.
+
+A second list in VIII.24 makes the same point with the dead of his own circle, naming those who were "so proud and stately" and asking where they are now: "Some of them no sooner dead, than forgotten. Others soon turned into fables" (Meditations VIII.24, same edition). Casaubon's phrase "all is vanity" is his rendering of the thought, and the passage does not say that virtue outlasts the person who has it. The line in this page's statement that virtue "lasts as long as your character lasts" is the compendium's gloss.
+
+**Plain words** Pick a name from two hundred years ago that everyone then knew. Many of us could not place it. Marcus asks you to do that exercise on your own ambitions: if the praise will be gone soon after you are, what is it worth organising a life around? What stays up to you is how you treat people and what you say, and that is the part to work on.
 
 *For example:* Walking past a statue nobody can name, and deciding what you'll actually put effort into.
 

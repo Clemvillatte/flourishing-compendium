@@ -12,11 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 224** — Remember that everyone you know will die
 
-The people you love, the people you hate, the people you fear: all will die. The awareness of universal mortality is not morbid; it is clarifying. It tells you that time is precious and that grudges are a waste.
+Marcus reminds himself that death did not skip the powerful, the skilled or the sure of themselves:
 
-(Med. II.11, II.14, III.1, III.17, IV.17, IV.19, IV.48, VII.2, VII.29, VII.46, X.15, XI.1, XII.23, XII.35; Seneca, Letters 1, 4, 26, 49, 82, 91, 99, 101, 104, 122.)
+> "Hippocrates having cured many sicknesses, fell sick himself and died. The Chaldeans and Astrologians having foretold the deaths of divers, were afterwards themselves surprised by the fates. Alexander and Pompeius, and Caius Cæsar, having destroyed so many towns, and cut off in the field so many thousands both of horse and foot, yet they themselves at last were fain to part with their own lives." (Marcus Aurelius, Meditations III.3, Casaubon translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
-**Plain words** Everyone you know will die: those you love, those you resent, those you fear. That's clarifying, not morbid. It tells you time is precious and grudges are a waste.
+### The people close to you
+
+In VIII.24 he moves to the people around him, and the list is a chain of burials: "Lucilla buried Verus; then was Lucilla herself buried by others. So Secunda Maximus, then Secunda herself... So Antoninus Pius, Faustina his wife; then Antoninus himself. This is the course of the world." (Meditations VIII.24, same edition.) The pattern is the same each time. Someone stands at a grave and is later in one. The passage ends with the reminder that what he is made of "shall soon be dispersed."
+
+The statement on this page goes further than the passages opened here, saying the thought is clarifying and makes grudges a waste. That is a reasonable use of the pattern, and the compendium's own inference. Seneca's Letters, also cited in the original list, were not opened.
+
+**Plain words** Think of someone you are angry with, and then of someone you love. The same fact covers both: the time each of you has is limited and nobody knows how much is left. It is easy to carry a grudge as if there were endless time to settle it, and the chain of burials is a reminder that there is not.
 
 *For example:* Before a family feud flares at a holiday, remembering that none of you will be around for long.
 
