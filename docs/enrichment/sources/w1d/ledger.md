@@ -155,3 +155,13 @@
 **Sources opened (1).** Fan, McCandliss, Sommer, Raz and Posner 2002, "Testing the Efficiency and Independence of Attentional Networks," Journal of Cognitive Neuroscience 14(3):340-347, full PDF at https://w3.ual.es/personal/tdaza/Fan%20y%20cols.pdf (downloaded and read; 8 pages). Blockquote is the abstract's result sentences, verified verbatim; the task-description passage and the "functionally orthogonal constructs" passage are also from the opened PDF text.
 
 **Scope notes.** The seed body's "distinct developmental trajectories" claim (attributed to Rueda et al. 2004) was dropped: Rueda et al. 2004 was NOT opened and is kept as a seed source line only. The subtraction method is described without naming specific arithmetic beyond what the paper states. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
+
+---
+
+## Attention restoration — completed 2026-10-20 (worker-w1d-4c8e1b3a, FAST-TRACK)
+
+**Eligibility.** Graph degree 11 (< 15); no unresolved QC findings; inside owned band w1d. Fast-track per PROTOCOL.md §1a.
+
+**Sources opened (1).** Kaplan 1995, "The restorative benefits of nature: Toward an integrative framework," Journal of Environmental Psychology 15(3):169-182, full-text OCR'd scan PDF at https://new.censusatschool.org.nz/wp-content/uploads/2013/09/restorative-benefits-of-nature.pdf (downloaded and read; 14 pages; the Michigan Deep Blue official copy's bitstream link returns HTML — the censusatschool scan is the same paper with printed page headers visible). Abstract (p. 169), the hard/soft fascination passage (p. 172), and the four-components passage (p. 173) quoted with ellipses between the numbered components; OCR hyphenation artifacts normalized and noted in the locator. A typo introduced during writing ("restorable" for "restorative" inside the blockquote) was caught and fixed before validation.
+
+**Scope notes.** Kaplan & Berman 2010 and Ohly et al. 2016 were NOT opened — kept as seed source lines only. The seed's Related-concepts glosses (Sabbath, Peak experiences) and the Facets line are seed-authored and kept as found. Saturation hunt and cross-link proposals skipped per §1a. Validator --fast-track: 1 ok.
