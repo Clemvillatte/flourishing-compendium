@@ -29,11 +29,16 @@
   "K013",
   "CO080",
   "E018",
-  "E075"
+  "E075",
+  "E505"
  ],
- "in_progress": "E505",
- "flagged": {},
+ "in_progress": null,
+ "flagged": {
+  "K036": "original list of six items was wrong (not the slogan's six); body rebuilt from Chodron 2007 / Lief; locator corrected to slogan 52, point seven",
+  "K043": "mother-of-only-child simile not found in ch.5; replaced with 5.108, 5.33 and injured-arm image; owner to confirm source if it exists",
+  "E018": "reversibility is 'always imminent and never realized in fact' (VI 147); original example removed"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:08:16+00:00"
+ "updated": "2026-10-20T10:09:03+00:00"
 }

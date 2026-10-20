@@ -55,3 +55,9 @@ No advisor tool available in this session: self-QC only, quotes checked by direc
 - Opened marxists.org Part II (Frechtman). Original locator "Part II, ch. 5" does not exist in this edition (Part II unnumbered; Part III has chapters 1-5). Beauvoir's "genuinely free man" is a phrase, not a fifth named type.
 ## Validation note
 - Validator compares against git HEAD by default; since earlier saved versions of a file become HEAD, use --base c2a3ee47 (the original corpus commit) to check wikilink preservation across revisions.
+
+## E505 (The ceremony transforms natural ends into infinite tasks)
+- Opened: English PDF (Deleuze, What Is Grounding?, trans. Kleinherenbrink, pp. 13-14) text-extracted; French transcript at Purdue Deleuze Seminars. All quotes verbatim from the PDF.
+- Caveat: the text is Pierre Lefebvre's student notes of the 1956-57 course, not a Deleuze publication; stated in the locator line.
+- The "structural, not normative" gloss is the compendium's own reading and is labelled as such. The original cat/marriage/breakfast examples were dropped (no source).
+- Band p1zl complete: 30/30 done, validated against c2a3ee47 (0 failed). No advisor tool was available; QC was self-QC only.

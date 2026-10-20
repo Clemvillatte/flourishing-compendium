@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 505** — The ceremony transforms natural ends into infinite tasks (Deleuze)
 
-Deleuze's early formulation (1956-57 seminar, *What is grounding?*): the human being does not merely realize natural ends (eating, sleeping, dying, desiring). Through ceremony, ritual, and commitment, the human being *transforms* natural ends into infinite tasks. "Saying 'I love you' instead of saying 'I desire you' is to propose an infinite task." The natural end is still realized — you still eat, you still desire — but it is also raised to the level of history, of meaning, of a task that is never fully "done" in the way a biological need is done.
+> Saying 'I love you' instead of saying 'I desire you' is to propose an infinite task.
 
-This is a structural claim, not a normative one. It does not say a life without ritual is deficient.
+(Deleuze, What Is Grounding? (Qu'est-ce que fonder?), 1956-57 course at the Lycée Louis-le-Grand, trans. Kleinherenbrink, pp. 13-14 of the [New Centre/&&& edition](https://tripleampersand.org/wp-content/uploads/2015/05/deleuze3.pdf). The French is "Dire je t'aime au lieu de dire je te désire c'est se proposer une tâche infinie" ([Purdue Deleuze Seminars](https://deleuze.cla.purdue.edu/lecture/lecture-01-10/)). The text is a student's notes of the course, taken by Pierre Lefebvre, not a work Deleuze published.)
 
-**Plain words** A cat's dinner is done when it's eaten; a marriage never is. Rituals and commitments turn biological to-dos into open-ended projects — "I love you" isn't a bigger version of "I want you," it's the same desire promoted to a lifelong assignment. That's not a burden on the natural act; it's what makes it a life.
+In the notes, the family's ceremony takes functions like "the sharing of food, sexuality, sleep, and death" and raises them: "Nature is raised to the level of history through the ceremony." Natural ends "subsist in themselves, outside the ceremony," and the human being realizes them "by indirect means." What the ceremony adds is that "the transformation of natural ends into cultural ends renders them infinite." The example: "The dead whom we love are an inexhaustible task for us."
 
-*For example:* The couple who eat the same Sunday breakfast for twenty years — the food is finished in an hour, the breakfast never is.
+The point that this is a structural description and not a verdict on lives without ritual is this entry's reading. The notes make no such judgment either way.
+
+**Plain words** A meal ends when it is eaten. A ritual meal, a marriage or a remembrance of the dead takes the same basic need and gives it a meaning that is never finished. Deleuze's notes put it as the difference between "I desire you" and "I love you": the second proposes a task with no end point.
+
+*For example:* A family that gathers every year to mark the death of a grandparent is doing more than remembering a fact. In the notes' terms, the dead are "an inexhaustible task."
+
+## Sources
+
+- [Deleuze, G. What Is Grounding? (trans. A. Kleinherenbrink), PDF](https://tripleampersand.org/wp-content/uploads/2015/05/deleuze3.pdf) — all English quotations, extracted from the PDF text
+- [The Deleuze Seminars, Purdue: What is Grounding?, French transcript](https://deleuze.cla.purdue.edu/lecture/lecture-01-10/) — the French original of the key sentence
+
 ## Philosophy parallels
 
 - **(Buddhism)** Vows and commitments (bodhisattva vow) as the transformation of natural compassion into an inexhaustible task
