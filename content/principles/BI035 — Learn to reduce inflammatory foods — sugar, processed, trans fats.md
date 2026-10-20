@@ -19,7 +19,7 @@ The evidence is observational, and the researchers themselves are careful with i
 > "Overall, individuals in the highest DII v. the lowest DII category had a 23 % higher risk of depression (risk ratio (RR)=1·23; 95 % CI 1·12, 1·35)." (Abstract, Results; Wang et al., 2019, Public Health Nutr 22(4): 654-60, [PubMed](https://pubmed.ncbi.nlm.nih.gov/30319085/))
 
 **Plain words**
-These studies describe differences between groups with different dietary patterns. They do not establish that replacing a particular food will change one person's mood. The practical application is to review the overall pattern of meals, rather than interpret an afternoon's feelings as the effect of one snack.
+These studies describe differences between groups with different dietary patterns ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/); [Wang et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30319085/)). They do not establish that replacing a particular food will change one person's mood. The practical application is to review the overall pattern of meals, rather than interpret an afternoon's feelings as the effect of one snack.
 
 **For example**
 (Imagined) Two shoppers fill similar trolleys, one with ready meals, sweetened desserts and processed meat, one with vegetables, fish and fruit. The studies cannot promise the second shopper a better mood; they can say that over years, that pattern belonged to the group reporting fewer depressive symptoms.
@@ -42,4 +42,4 @@ These studies describe differences between groups with different dietary pattern
 
 ## Practice
 
-- Reduce inflammatory foods: the pattern under study swapped sweetened desserts, fried food, processed meat, refined grains and high-fat dairy for vegetables, fruit and fish. The observational studies associate that pattern with lower depression risk.
+- Compendium exercise: review your usual meals against the two observed patterns: vegetables, fruit and fish, versus frequent sweetened desserts, fried food, processed meat, refined grains and high-fat dairy. This is an application of observational findings, not a tested food-substitution treatment ([Akbaraly et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19880930/)).
