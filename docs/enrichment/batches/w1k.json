@@ -6,11 +6,11 @@
   "Avidya",
   "The raft",
   "Abhyasa",
-  "Ironic process",
   "Lifespan development",
   "Love",
   "Svadharma, one's own duty",
-  "Intuition as method"
+  "Intuition as method",
+  "Ironic process"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,10 +20,11 @@
   "The raft": "QC CORRECTION (supersedes the earlier seed-link-defect flag, which was FALSE): the earlier 'garbled seed links' were my own transcription errors, not seed defects. Milestone QC caught it. Repairs: restored the original seed content (seed line, Facets abandoned/discarded/not-the-destination, all five original Sources lines, [[B128 — Don't cling even to the teaching (dharma-grasping)]] and [[SP042 — Adopt a provisional rule of life]] in Cited in philosophy parallels); removed my invented links ([[B127]]/[[B014]] stay only as In-the-compendium additions, [[BI070]] removed); B021 related line removed (unsupported gloss). MN 22 Thanissaro opened raw; both blockquotes verbatim. Validated against the true seed baseline c2a3ee47: ok. Advisor repairs applied (closing quote standalone; Thanissaro attribution kept; no Bodhi certification).",
   "Skillful means (upaya)": "QC2 REPAIR: upāya identification now grounded in an opened scholarly source (Keating, SEP 'The Literal-Nonliteral Distinction in Classical Indian Philosophy' §4.1, fetched; passage: 'A crucial concept in Buddhist hermeneutics ... is that of upaya or skillful means. With the assumption that the Buddha speaks both truthfully and with an eye towards the abilities of his particular audience...'); added as inline sentence + Sources line. Validated vs seed baseline c2a3ee47: ok.",
   "Svadharma, one's own duty": "QC REPAIR (advisor, milestone items 6-10): unverified opening prose removed ('one's own nature and station', Krishna/Arjuna narrative — not established by the fetched page); replaced with the advisor-specified lead-in grounded in the Wisdom Library rendering ('one's prescribed duties'); varṇāśrama italics removed from the blockquote (formatting only); blockquote, source lines, principle links and Cited-in preserved. Validated vs seed baseline c2a3ee47: ok.",
-  "Intuition as method": "QC REPAIR (advisor, milestone items 6-10): second blockquote removed — the fetched OCR text returned a corrupted version of the intellectual-sympathy definition, and I had normalized the OCR artifacts without checking the printed page, so the quote could not stand as verbatim; its lead-in removed too. First blockquote (the relative/absolute passage) retained — returned clean by the fetch. Sources note updated to singular. Validated vs seed baseline c2a3ee47: ok."
+  "Intuition as method": "QC REPAIR (advisor, milestone items 6-10): second blockquote removed — the fetched OCR text returned a corrupted version of the intellectual-sympathy definition, and I had normalized the OCR artifacts without checking the printed page, so the quote could not stand as verbatim; its lead-in removed too. First blockquote (the relative/absolute passage) retained — returned clean by the fetch. Sources note updated to singular. Validated vs seed baseline c2a3ee47: ok.",
+  "Ironic process": "QC REPAIR (advisor, milestone items 6-10): (1) ATTRIBUTION CORRECTED — the DASH document is Najmi and Wegner 2009, 'Hidden complications of thought suppression', International Journal of Cognitive Therapy 2(3): 210-223 (metadata verified via DASH); my earlier 'Wegner and Zanakos' byline was inferred from adjacent references and was wrong; both blockquote citations and the Sources line now carry the correct authors and citation. (2) Opening qualified per advisor (suppression 'can backfire', two-process description, no unconditional claim). (3) The three inherited 'finding...' bullets under Other formulations deleted per advisor (inherited wording is not evidence; no [[links]] affected). Six psychology-parallel links, inherited source lines and empty philosophy header preserved. Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:18:25+00:00",
+ "updated": "2026-10-20T07:18:37+00:00",
  "band_done": false
 }
