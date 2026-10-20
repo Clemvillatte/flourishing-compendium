@@ -13,13 +13,13 @@ Non-attachment names release from mental fixations in Sahdra, Shaver and Brown's
 
 ### A distinct construct
 
-Sahdra, Shaver and Brown distinguish Buddhist nonattachment from secure and insecure interpersonal attachment, while describing the constructs as related. Their account links interpersonal attachment to internal working models of security, and nonattachment to insight into the constructed and impermanent character of mental representations ([2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)). The same construct has a second page at [[Nonattachment]].
+Sahdra, Shaver and Brown distinguish Buddhist nonattachment from secure and insecure interpersonal attachment, while describing the constructs as related. Their account links interpersonal attachment to internal working models of security, and nonattachment to insight into the constructed and impermanent character of mental representations ([2010, abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
 
 ### In the compendium
 
 - [[E102 — Practise Gelassenheit (releasement)]] — releasement as the letting-be of things, releasing the grip of willing, controlling and possessing
 - [[D176 — Desire to be without desires]] — the sage who does not prize what is hard to get
-- [[CO031 — Recognise loss aversion — losses hurt more than gains feel good]] — losses felt roughly twice as intensely as equivalent gains, which keeps people holding what they have
+- [[CO031 — Recognise loss aversion — losses hurt more than gains feel good]] — discusses loss aversion
 
 ## Related concepts
 

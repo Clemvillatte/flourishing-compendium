@@ -5,10 +5,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Non-attachment": "Reopened for QC: advisor QC round 1: repairs applied (causal-chain paraphrase removed; attachment-theory distinction softened to abstract wording; unverified Facets associations removed; CO031 gloss grounded in its own body; duplicate-page division removed, bare link)"
+  "Non-attachment": "fast-track; evidence: Dhp 214 Buddharakkhita verbatim (accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html), Sahdra et al. 2010 PubMed abstract (pubmed.ncbi.nlm.nih.gov/20155561/), abstract-only scope; QC: advisor round-1 repairs applied, round-2 scoped PASS (CO031 gloss simplified, duplicate-page sentence removed); FLAG: duplicate of existing richer concept page Nonattachment (deg 13) — supervisor disposition pending, namespace resolution NOT closed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:17:13+00:00",
+ "updated": "2026-10-20T06:18:52+00:00",
  "band_done": false
 }

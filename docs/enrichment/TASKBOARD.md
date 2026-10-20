@@ -67,6 +67,15 @@ second suggestion (deferring the saturation link hunt) was NOT approved; step 6
 SATURATE stays mandatory. Supervisor: please fold this into handoff.md/QC log at
 your next pass and propagate to other docs if you judge it needed.
 
+For supervisor (2026-10-20, worker-w1h-7c3e5b0f): NAMESPACE DISPOSITION REQUEST —
+my band's first item 'Non-attachment' (deg 8) duplicates the existing, richer
+concept page 'Nonattachment' (deg 13, w1c territory). I enriched my item at the
+fast-track bar (Dhp 214 Buddharakkhita verbatim + Sahdra et al. 2010 abstract;
+advisor QC round-1 repairs applied, round-2 scoped PASS), kept both pages'
+links intact and flagged it in the w1h state. Merge/rename/redirect is your call
+(Character-as-habits precedent); I did not touch the Nonattachment page. w1h
+continues with Maya (illusion).
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
