@@ -12,17 +12,26 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 157** — Don't gamble what matters for what doesn't
 
-The lord of ten thousand chariots behaves lightly around his domain: and loses it. Never stake your health, your closest people, or your integrity on trivial wins.
+Chapter 26 of the Daodejing pairs gravity with lightness and stillness with movement: gravity is the root of lightness, stillness the ruler of movement. Its prince, marching the whole day, does not go far from his baggage waggons, and quietly remains indifferent to brilliant prospects. The chapter then puts the question this principle turns on: how should the lord of a myriad chariots carry himself lightly before the kingdom? To act lightly is to lose the root; to proceed to active movement is to lose the throne.
 
 (DDJ 26.)
 
-**Plain words** The lord of ten thousand chariots behaving lightly around his domain loses it. Never stake your health, your closest people, or your integrity on trivial wins — the stakes table is rigged: trivial upside, catastrophic downside.
+> "How should the lord of a myriad chariots carry himself lightly before the kingdom? If he do act lightly, he has lost his root (of gravity); if he proceed to active movement, he will lose his throne." (DDJ 26, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-*For example:* Checking the phone while driving — the upside is one glance at a text, the downside is everything. That's the trade.
+The compendium's reading: the prince's baggage train is what the day's march actually depends on, and the brilliant prospects are what it does not. Acting lightly toward the one for the sake of the other is the chapter's named way to lose what matters.
+
+**Plain words**
+The chapter's image is a traveler who keeps near what carries him even when something brilliant passes by. The compendium's version of the baggage train: the people, health and integrity your day's outcomes rest on. The exercise is naming what yours is, and what you are currently chasing at its expense.
+
+*For example:* The compendium's application: checking the phone while driving stakes the baggage train, everyone in the car, on a brilliant prospect, one glance at a text.
+
+## Sources
+
+- [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 26
 
 ## Psychology parallels
 
-- **[[Risk perception|Risk perception]]**, perceived control inflates tolerance of catastrophic risks (Slovic, 1987)
+- **[[Risk perception|Risk perception]]** (Slovic, 1987)
 - **Values-affirmation buffers identity threats** (Cohen and Sherman, 2014)
 
 ## Philosophy parallels
