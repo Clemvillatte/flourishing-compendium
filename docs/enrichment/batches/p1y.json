@@ -9,20 +9,20 @@
   "SO075",
   "SP010",
   "Y083",
-  "SP032",
   "SP035",
   "SP048",
   "SP092",
   "A008"
  ],
- "in_progress": null,
+ "in_progress": "SP032",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
-  "SP010": "Reopened for QC: QC correction round 2: mechanical citation fixes"
+  "SP010": "Reopened for QC: QC correction round 2: mechanical citation fixes",
+  "SP032": "Reopened for QC: QC correction: remove unsupported psychological explanations"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:05:47+00:00",
+ "updated": "2026-10-20T08:05:53+00:00",
  "band_done": false
 }
