@@ -29,7 +29,7 @@
   "P077",
   "P085"
  ],
- "in_progress": null,
+ "in_progress": "P096",
  "flagged": {
   "D190": "Reopened for QC: QC correction: advisor round 1 — quote interpretation, source/interpretation separation, parallels, example",
   "P009": "Reopened for QC: QC correction: advisor round 1 — extension labels, plain words, example, parallel gloss",
@@ -37,6 +37,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-20T03:32:28+00:00",
+ "updated": "2026-10-20T03:32:30+00:00",
  "band_done": false
 }
