@@ -56,3 +56,13 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
 - Quotation: Ench. 2 "For the present, totally suppress desire... any less proper means."
 - Saturation reciprocal (4 concept pages cite S127); not on replicates list; no new
   proposals. Validator ok. DONE (no advisor QC due: item 4).
+
+## S129 — Practise the discipline of attention
+- Skip-ahead light check: body and Plain words at the bar; missing verbatim quote added.
+- Source opened: same MIT Classics Carter Enchiridion — chapter 1 tail passage verified
+  character-for-character (Carter reads "rough and harsh appearance"; other editions
+  differ — checked against the opened text, not a secondary snippet).
+- Quotation: Ench. 1 "Work, therefore, to be able to say to every rough and harsh
+  appearance... it is nothing to you."
+- Saturation reciprocal (5 concept pages cite S129); not on replicates list; no new
+  proposals. Validator ok. DONE (no advisor QC due: item 5; next QC at item 6).
