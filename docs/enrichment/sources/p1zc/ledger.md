@@ -232,3 +232,6 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   Self-Evaluation Maintenance Theory do not cite SE050 (both proposed, bounded
   clauses); Affect as information already cites SO031 (related principle; no
   proposal). Validator ok vs baseline. Round 2 pending.
+- Round 2: scoped PASS. Closeout applied: audit narration removed from the public
+  parallels bullet (kept here in the ledger); Socrates attribution reduced to the
+  bare original reference. DONE.

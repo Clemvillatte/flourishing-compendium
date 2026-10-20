@@ -27,12 +27,12 @@ Social comparison is evaluating yourself relative to others. Festinger presents 
 ## Psychology parallels
 
 - **[[Social comparison|Social comparison theory (Festinger)]]** — Festinger, 1954; Wood, 1996
-- Social media and upward comparison — Vogel et al., 2014; Fardouly et al., 2015 (not opened for this item; bare reference)
+- Social media and upward comparison — Vogel et al., 2014; Fardouly et al., 2015
 
 ## Philosophy parallels
 
 - **[[Envy|Envy as suffering]]** (Buddhism, Dhammapada)
-- **[[The examined life|The examined life]] includes examined comparison** (Socrates, Apology)
+- **[[The examined life|The examined life]]** (Socrates, Apology)
 - **[[Contentment with sufficiency|Contentment with sufficiency]]** (Daoism, Daodejing 44)
 
 ## Practice
