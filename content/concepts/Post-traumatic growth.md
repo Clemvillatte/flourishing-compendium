@@ -44,7 +44,7 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 - [[The search for meaning]] — the growth the attitude-toward-suffering channel can produce
 - [[Tragic optimism]] — Frankl's name for the posture that growth does not require
 - [[Resilience]] — the stable-trajectory outcome this page contrasts with growth
-- [[Stress-related growth]] — the sibling construct from ordinary stressors rather than trauma
+- [[Stress-related growth]] — the sibling term the 2004 paper contrasts: it suggests lower-level stress, where posttraumatic growth focuses on major crises
 ## Sources
 
 - Bonanno, 2004 — abstract: https://eric.ed.gov/?id=EJ684215

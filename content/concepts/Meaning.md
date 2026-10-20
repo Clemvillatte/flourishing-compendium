@@ -43,7 +43,7 @@ On this reading meaning is assembled from deeds, encounters, and stances. Frankl
 
 - [[P183]] — James's Talks to Teachers passage joins an ideal to active virtue as his account of a significant life
 - [[The will to meaning]] — Frankl's name for the drive this page describes
-- [[Meaning-making]] — the active process of constructing meaning from events
+- [[Meaning-making]] — the research tradition's model of revising meaning after events
 - [[The meaning of suffering]] — the third way given its own page
 - [[Purpose]] — the forward-facing edge of meaning
 - [[Mattering]] — the sense that one's life counts for something
