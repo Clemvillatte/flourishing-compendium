@@ -480,7 +480,7 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 
 ### QC round 2, items 16-20 milestone (2026-10-20, worker-p1f-9d3f7c2b)
 - Advisor requested literal-text evidence checks. Results:
-  - Masten 2001 (PDF downloaded, pdftotext): definition ("Resilience refers to a class of phenomena characterized by good outcomes in spile [sic] of serious threats..."), abstract claim ("suggests that resilience is common..."), everyday-magic passage, at-risk recommendation ("efforts to promote competence and resilience in children at risk should focus on strategies that protect or restore the efficacy of these basic systems") and ordinariness conclusion all confirmed verbatim. Page's opening line is prose paraphrase, not a quote.
+  - Masten 2001 (PDF downloaded, pdftotext): definition ("Resilience refers to a class of phenomena characterized by good outcomes in spile [sic] of serious threats..." — the text extraction renders "spile"; no claim is made about the printed PDF), abstract claim ("suggests that resilience is common..."), everyday-magic passage, at-risk recommendation ("efforts to promote competence and resilience in children at risk should focus on strategies that protect or restore the efficacy of these basic systems") and ordinariness conclusion all confirmed verbatim. Page's opening line is prose paraphrase, not a quote.
   - Sheldon & Elliot 1999: unprompted PubMed fetch (no extraction prompt) confirms both quoted spans verbatim; final model-fit sentence is paraphrase, accurate against "The model is shown to provide a satisfactory fit to 3 longitudinal data sets and to be independent of the effects of self-efficacy, implementation intentions, avoidance framing, and life skills."
   - Gilovich et al. 2000 (PDF downloaded, pdftotext): definition, T-shirt and discussion findings confirmed verbatim; anchoring passage rendered with double hyphens in the source ("adjust--insufficiently--"), preserved on the page.
   - Fromm (Perlego): unprompted raw-HTML fetch of the book page; the freemium preview text is embedded in the page JSON. All three primary-verified passages confirmed verbatim: having-mode definition, "tend to demonstrate that having and being are two fundamental modes of experience..." (full sentence including hedge), and the being-mode definition. Content fix applied: the page previously dropped the "tend to demonstrate" hedge on the two-modes passage; fixed via reopen → push → edit → validate (base 7a1925a7^) → done → push. The hedge is now quoted in full.
@@ -488,3 +488,7 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Baseline validations rerun with --base (first-rewrite parents): Resilience cc0df816^, Self-concordant goals 5d964937^, Spotlight effect 29d1938a^, The having mode 7a1925a7^, The specious present c60e452f^ — all fast-track PASS.
 - Ledger round-1 record corrected: repair sequence was edit → reopen → validate → done → push, not reopen → edit.
 - Re-review pending.
+
+### QC round 2 verdict (2026-10-20, worker-p1f-9d3f7c2b)
+- Advisor PASS for the scoped five-item milestone (items 16-20: Resilience, Self-concordant goals, Spotlight effect (Gilovich), The having mode, The specious present). One nonblocking ledger-only correction applied: "spile" is a rendering of the text extraction, not an asserted printed-PDF typo.
+- PASS recorded at commit (see below).
