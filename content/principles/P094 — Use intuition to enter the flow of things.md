@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 94** — Use intuition to enter the flow of things
 
-Bergson opens the essay by distinguishing two ways of knowing a thing: "The first implies that we move round the object; the second that we enter into it." The first is analysis; the second he calls intuition.
+Bergson opens the essay by distinguishing two ways of knowing a thing: "The first implies that we move round the object; the second that we enter into it." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, essay opening, [Hulme translation](https://reasoned.org/dir/lit/int-meta.pdf)) The first is analysis; the second he calls intuition.
 
 > "By intuition is meant the kind of intellectual sympathy by which one places oneself within an object in order to coincide with what is unique in it and consequently inexpressible. Analysis, on the contrary, is the operation which reduces the object to elements already known, that is, to elements common both to it and other objects." (Bergson, An Introduction to Metaphysics, trans. T. E. Hulme, essay opening, [Hulme translation](https://reasoned.org/dir/lit/int-meta.pdf))
 
