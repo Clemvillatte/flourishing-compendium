@@ -576,3 +576,48 @@
   existing concept page 'Green exercise (Barton, Pretty)'). Validator
   run before done; first run failed on the unresolved link, fixed,
   re-validated ok.
+
+### P153 — Participate in the world's becoming (2026-10-20, worker-p1o-72a54432)
+- Opened: Whitehead, Process and Reality (corrected edition; the same
+  open PDF at palmyreoomen.nl used for P095/P152), downloaded and
+  grepped locally; Part/Chapter titles verified from the PDF's own
+  contents (Part I 'The Speculative Scheme', Ch. II 'The Categoreal
+  Scheme'; Part IV 'The Theory of Extension', Ch. I 'Coordinate
+  Division' - the earlier draft wrongly cited 'The Speculative Scheme'
+  as a chapter; advisor caught it). Quotes verbatim: 'In their natures,
+  entities are disjunctively "many" in process of passage into
+  conjunctive unity' (Part I, Ch. II); 'Nature is never complete. It
+  is always passing beyond itself. This is the creative advance of
+  nature' (Part IV, Ch. I; quote-start capitalization only, the
+  sentence is mid-sentence in the source).
+- Locator style: Part/Chapter by name, verified from the PDF contents
+  page; PDF bracketed folio markers not cited as printed pagination
+  (p1q P006 precedent). Note: P095/P152 ledger entries cite printed
+  pages; that bracket-to-printed mapping was not re-established this
+  session, so Part/Chapter locators are used instead.
+- ADVISOR QC ROUND 1 (first item of session): FAIL - unsupported
+  metaphysical claims ('nothing finished to stand back and watch',
+  person = actual occasion, 'next state assembled out of what people
+  do'), aphoristic Plain-words closer ('counts toward the total,
+  because it does'), example predicting social effects, Mattering
+  bullet carrying unopened citations, second quote inline, audit note
+  in Sources, wrong chapter title, unused Preface locator. ALL REPAIRED:
+  body now describes the two passages and labels the practical
+  reading as the compendium's borrowing (the descriptions carry no
+  instruction on their own); both quotes standalone blockquotes with
+  verified Part/Chapter locators; Plain words rewritten as the
+  conversation question (advisor text, adapted); For example imagined
+  and labelled, no predicted effects; Mattering bullet reduced to
+  bare wikilink (inherited Pratt 2010 / George and Park 2016
+  citations unopened); Sources cleaned (audit note to ledger, Preface
+  locator removed). Reflections byte-identical (trailing newline
+  added, missing in seed - the P191-class fix; build fcAuthored 976
+  unchanged). Validator ok; build ok.
+- Seed statement kept (block quote, untouched). Old body restated the
+  seed, had no verbatim quote, Plain words copied the body's own
+  sentences (the replicate pattern), For example was aphoristic ('It
+  needed somewhere to run the experiment. It picked you.') - all
+  replaced. 'Adventures of Ideas, 1933' locator dropped (not opened;
+  P095 precedent for unopened seed locators). Reciprocal proposal
+  P096 <-> P153 recorded in proposals/p1o.json (P096 is p1t,
+  released).

@@ -27,9 +27,10 @@
   "P128",
   "P131",
   "P134",
-  "P152"
+  "P152",
+  "P153"
  ],
- "in_progress": "P153",
+ "in_progress": null,
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs",
   "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix",
@@ -42,6 +43,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:29:51+00:00",
+ "updated": "2026-10-20T04:35:36+00:00",
  "band_done": false
 }

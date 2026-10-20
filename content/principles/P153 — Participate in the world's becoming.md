@@ -12,17 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 153** — Participate in the world's becoming
 
-The universe is not done; it is becoming, and you are one of the places it becomes. Your actions are the world's own experiments: take that role with gratitude and seriousness.
+Whitehead describes entities as passing from multiplicity into unity, and he describes nature as unfinished:
 
-(Whitehead, Process and Reality, 1929; Adventures of Ideas, 1933.)
+> In their natures, entities are disjunctively 'many' in process of passage into conjunctive unity.
+>
+> (Whitehead, Process and Reality, corrected edition, Part I, Ch. II, "The Categoreal Scheme")
 
-**Plain words** The universe is not done — it is becoming, and you are one of the places it becomes. Your actions are the world's own experiments: take that role with gratitude and seriousness. Not a spectator with opinions — a location where reality tries things out.
+> Nature is never complete. It is always passing beyond itself. This is the creative advance of nature.
+>
+> (Part IV, "The Theory of Extension", Ch. I, "Coordinate Division")
 
-*For example:* The kind of small kindness that ripples past your sight — you're the universe testing generosity at your address today. It needed somewhere to run the experiment. It picked you.
+The compendium borrows these two descriptions as an invitation to consider what an action contributes to an unfolding situation. Because the situation is never complete, what you do becomes part of what it turns out to be. The principle's call for gratitude and seriousness belongs to that practical reading; the descriptions above carry no such instruction on their own.
+
+**Plain words**
+Think about a conversation you are about to have. What are you responding to, and what will your words leave the other person to respond to? You can take care with your contribution while recognising that their reply is theirs to make. That is what participating in the world's becoming looks like from inside a life.
+
+*For example:*
+Imagined: a new colleague joins her first team meeting. Before the meeting breaks up, you offer to stay behind if she has questions.
+
+## Sources
+
+- [Whitehead, Process and Reality, corrected edition (open PDF)](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf) — Part I, Ch. II ("The Categoreal Scheme"); Part IV, Ch. I ("Coordinate Division")
 
 ## Psychology parallels
 
-- **[[Mattering|Mattering]]**, feeling that one's actions matter predicts well-being (Pratt et al., 2010; George and Park, 2016)
+- **[[Mattering|Mattering]]**
 
 ## Philosophy parallels
 
