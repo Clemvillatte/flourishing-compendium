@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 42** — Adopt a provisional rule of life
 
-Spinoza opens the Emendation with a search for the highest good, and adds at once that life must be carried on meanwhile. So before anything else he lays down rules of life as provisionally good: speak so the multitude can understand you and comply with every general custom that does not hinder the inquiry; indulge in pleasures only so far as preserving health requires; seek only enough money and other commodities to preserve life and health and follow such customs as are consistent with the purpose.
+Spinoza says that life must be carried on while we work to improve the understanding. So before anything else he lays down rules of life as provisionally good: speak so the multitude can understand you and comply with every general custom that does not hinder the inquiry; indulge in pleasures only so far as preserving health requires; seek only enough money and other commodities to preserve life and health and follow such customs as are consistent with the purpose.
 
 > "we are compelled first of all to lay down certain rules of life as provisionally good" (On the Improvement of the Understanding, [17], Elwes)
 
