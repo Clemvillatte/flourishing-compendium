@@ -49,3 +49,20 @@
   placeholder artifacts, preserved per protection rules.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+
+## Spontaneous right action (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: Youngmin Kim, "Wang Yangming (1472—1529)", Internet Encyclopedia of Philosophy
+  https://iep.utm.edu/wangyang/ — Section 4 read in the raw page; both quoted passages
+  verified against a fresh fetch of the page text. The Chuanxi Lu's standard English
+  translation (Chan 1963) is in copyright with no open full text; the verbatim quotes
+  are Wang's words as quoted in the opened IEP article (the article's references
+  include Chan's translation but do not tie it to these specific quotes — an initial
+  claim that IEP "draws on Chan" for them was removed as unverified).
+- IS-IT-A-CONCEPT check: named Neo-Confucian doctrine (unity of knowledge and action,
+  zhi xing he yi) — not a principle, comparison, or hallucination. No prior disposition
+  in concept-namespace-audit.md.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass; pre-existing "fewer than 3 Related-concepts lines" warning is inherited).
+  Build ok (5718 entries, fcAuthored 976).
