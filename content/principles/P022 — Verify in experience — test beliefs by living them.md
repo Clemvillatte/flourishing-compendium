@@ -18,14 +18,14 @@ James's essay "Is Life Worth Living?" gives the mechanism: the belief is part of
 >
 > (William James, "Is Life Worth Living?")
 
-His closing instruction carries the same structure: "These, then, are my last words to you: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact." The compendium's application is to treat a view of yourself the same way: its truth partly depends on whether you act from it. The test is not a thought experiment; it is the small toast.
+His closing instruction carries the same structure: "These, then, are my last words to you: Be not afraid of life. Believe that life is worth living, and your belief will help create the fact." The compendium applies this to some beliefs about oneself: for a belief of this kind, its truth can partly depend on whether you act from it. The test is not a thought experiment; it is the small toast.
 
 (James, The Will to Believe, 1896; Pragmatism, 1907.)
 
 **Plain words**
-A belief about what you are cannot be checked from the couch; the checking is behavioral. Pick one sentence you say about yourself, design the smallest test that would count against it, and run the test this week. Whatever the result, you now know something the sentence alone could not tell you.
+A belief about what you are cannot always be checked from the couch; the checking is behavioral. Pick one sentence you say about yourself, design the smallest test that would count against it, and run the test this week. Whatever the result, you know something the sentence alone could not tell you.
 
-*For example:* 'I could never speak in public' — the hypothesis, tested at one small toast, fails within ninety seconds. Experiment: one. Certainty: dead.
+*For example:* 'I could never speak in public' — one small toast gives the sentence its first data point.
 
 ## Sources
 

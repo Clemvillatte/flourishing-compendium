@@ -18,14 +18,14 @@ James built the method for disputes that never end: "The pragmatic method is pri
 >
 > (William James, Pragmatism, Lecture II)
 
-His rule of consequence runs both ways: "There can be no difference anywhere that doesn't make a difference elsewhere - no difference in abstract truth that doesn't express itself in a difference in concrete fact and in conduct consequent upon that fact." The test is not a dismissal of truth; it is truth's inquiry procedure: "To attain perfect clearness in our thoughts of an object, then, we need only consider what conceivable effects of a practical kind the object may involve - what sensations we are to expect from it and what reactions we must prepare."
+His rule of consequence runs both ways: "There can be no difference anywhere that doesn't make a difference elsewhere - no difference in abstract truth that doesn't express itself in a difference in concrete fact and in conduct consequent upon that fact, imposed on somebody, somehow, somewhere and somewhen." The test is not a dismissal of truth; it is truth's inquiry procedure: "To attain perfect clearness in our thoughts of an object, then, we need only consider what conceivable effects of a practical kind the object may involve - what sensations we are to expect from it, and what reactions we must prepare."
 
-(Hayes, A Liberated Mind, 2019; James, Pragmatism, 1907.)
+(James, Pragmatism, 1907.)
 
 **Plain words**
 For any thought, rule, or story you are carrying, trace what holding it changes in practice: what it makes easier, what it forecloses. That trace, over time, is the workability test. It is not a dismissal of truth; it is the procedure for finding out what the belief amounts to.
 
-*For example:* The runner who believes 'my legs are heavy today' — factually questionable, functionally fatal. 'My legs are warming up' — same legs, better run.
+*For example:* The runner who believes 'my legs are heavy today' — factually questionable, functionally fatal. 'My legs are warming up' — same legs, a more workable story.
 
 ## Sources
 

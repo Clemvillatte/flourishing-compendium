@@ -270,3 +270,86 @@ D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
   wikilink retained, unverified status recorded here.
 - Saturation: cited by Time affluence, Slow-paced breathing, Heart rate
   variability theory. Validator: ok vs 71fd7049.
+
+### B186 — Practice the art of resting (2026-10-20)
+- Opened: TNH, Happiness (Parallax Press free excerpt PDF) — "Resting and
+  Stopping" section fetched. Blockquote verbatim. Seed's Dhammapada 328
+  citation dropped: the verse (fetched, Access to Insight Nagavagga) is about
+  keeping a wise friend's company, not rest; recorded here.
+- Batch QC (advisor, item-28 round): "wounded" corrected to "sick" (source
+  fidelity); plain-words "rest before you need one" removed as not
+  established by the source (source says rest when you recognize you are
+  tired). Validator: ok vs 71fd7049.
+
+### B196 — Dwell in the world, joyful in the Way (2026-10-20)
+- Opened: Don Thuong Trieu, "Lacquered Thien" (urbandharma.org PDF), which
+  carries the English translation of the Cu Tran Lac Dao Phu concluding
+  verse. Verified from the same opened paper: Tran Nhan Tong was a king
+  (third of the Tran dynasty) who founded the Thien Truc Lam school and is
+  its First Patriarch. "Founding text" softened to "the founder's own text"
+  (the paper attributes the text to the founder but does not call it the
+  school's founding document). Validator: ok vs 71fd7049.
+
+### B198 — Freedom is now: nothing to wait for (2026-10-20)
+- Opened: Dhammapada 239-240 (Buddharakkhita, Access to Insight Malavagga)
+  and the Platform Sutra Prajna chapter (Terebess, BTTS translation).
+  Blockquote and inline fragments verbatim. Seed's Batchelor citation
+  dropped from locator (not opened).
+- Batch QC: "Both texts refuse the schedule" overstatement removed; plain
+  words now preserve the gradual (Dhp) vs sudden (Platform Sutra)
+  distinction, compendium exercise labeled as such. Validator: ok vs 71fd7049.
+
+### P004 — Start from experience, not from theory (2026-10-20)
+- Opened: James, "A World of Pure Experience" (Brock Mead Project web
+  edition). Blockquote verbatim.
+- Batch QC: "his whole philosophy" reduced to "radical empiricism"; Dewey
+  attribution removed from locator (Experience and Nature not opened);
+  categorical "The book loses" softened to "The week is data the book did
+  not predict". Validator: ok vs 71fd7049.
+
+### P013 — Judge by workability (2026-10-20)
+- Opened: James, Pragmatism Lecture II (Brock Mead Project web edition).
+  Batch QC: silent truncation of the "difference" quote completed to the
+  full sentence ("imposed on somebody, somehow, somewhere and somewhen");
+  Peirce-maxim quote punctuation corrected ("it, and what reactions we must
+  prepare"); "better run" outcome removed ("a more workable story"); Hayes
+  citation removed from locator (A Liberated Mind not opened). Validator:
+  ok vs 71fd7049.
+
+### P018 — Practice practical wisdom: judgment over rules (2026-10-20)
+- Opened: Aristotle, NE Book VI (Ross translation, Internet Classics
+  Archive). Grossmann et al. 2013 verified via PubMed abstract; parallel
+  tail scoped to the abstract's own wording.
+- Batch QC: invented mechanism "A rule cannot see the situation it lands
+  in" removed; sepsis/nurse example replaced with a hypothetical protocol
+  exception (no invented clinical outcome). Validator: ok vs 71fd7049.
+
+### P022 — Verify in experience: test beliefs by living them (2026-10-20)
+- Opened: James, "Is Life Worth Living?" excerpt (Ethics of Suicide
+  Digital Archive, University of Utah; bibliographic record: The Will to
+  Believe and Other Essays, Longmans Green 1896/1899, pp. 32-62).
+- Batch QC: "in this particular" scope preserved (belief-truth dependence
+  generalized only to "some beliefs about oneself" as the compendium's
+  application); "fails within ninety seconds / certainty dead" outcome
+  removed (one small toast as first data point). Validator: ok vs 71fd7049.
+
+### P024 — Let doubt be genuine (2026-10-20)
+- Opened: Peirce, "The Fixation of Belief" (peirce.org). Batch QC round 1
+  FAIL: silently truncated quote ("inquiry." for "inquiry, though...");
+  unmarked interpretation removed per advisor's exact edits; Borkovec tail
+  reduced to bare wikilink (search snippets do not satisfy the
+  opened-source rule; 1983 paper vs later avoidance theory not cleanly
+  separated in the draft). Page replaced with advisor's exact text.
+  Validator: ok vs 71fd7049.
+
+### Batch QC round (advisor, 2026-10-20, items 19-28)
+- Milestone review of the whole post-Daoist batch. FAIL round 1: P024 plus
+  follow-up flags on B164 ("watching is protective, not punitive"
+  unmarked interpretation — removed), B186 (wounded→sick; rest-before-tired
+  removed), B196 (historical claims verified against the opened paper,
+  "founding text" softened), B198 (overstatement removed, gradual/sudden
+  preserved), P004 (whole-philosophy claim, Dewey attribution, categorical
+  verdict removed), P013 (quote fidelity fixed, outcome removed, Hayes
+  removed), P018 (invented mechanism and clinical outcome removed), P022
+  (scope and outcome fixed). All repairs applied; revised text sent for
+  re-review.

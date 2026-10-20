@@ -18,12 +18,12 @@ Thich Nhat Hanh makes resting a practice with its own knowing: "Knowing when to 
 >
 > (Thich Nhat Hanh, Happiness)
 
-His image for the posture of rest is the wounded forest animal: "When a forest animal is sick, it lies down and does nothing. Often it won't even eat or drink. All of its energy is directed toward healing." The compendium's application is to treat rest as part of the work rather than as its failure.
+His image for the posture of rest is the sick forest animal: "When a forest animal is sick, it lies down and does nothing. Often it won't even eat or drink. All of its energy is directed toward healing." The compendium's application is to treat rest as part of the work rather than as its failure.
 
 (Thich Nhat Hanh, Happiness.)
 
 **Plain words**
-Rest here is a decision, not a collapse. You stop while you still have some energy, on purpose, and let the lying down be what you are doing rather than what you are recovering from. The exercise: schedule a short rest before you need one, and treat it as the activity.
+The instruction is direct: when you recognize you are tired, find a way to rest rather than push through. Let the lying down be what you are doing rather than what you are recovering from.
 
 *For example:* The Sunday afternoon doing absolutely nothing, on purpose, without apology.
 

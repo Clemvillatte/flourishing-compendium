@@ -18,14 +18,14 @@ Aristotle's account of practical wisdom (phronesis) begins with its definition: 
 >
 > (Aristotle, Nicomachean Ethics, Book VI, trans. Ross)
 
-The scope line carries the principle: rules address the particulars (health, strength, what conduces), while judgment addresses the whole. A rule cannot see the situation it lands in; that seeing is the trained capacity. The compendium's reading is to cultivate the deliberation and keep the rules as its instruments.
+The scope line carries the principle: practical wisdom deliberates about "what sorts of thing conduce to the good life in general", not only about particulars such as health or strength. The compendium's reading is to cultivate that deliberation and keep the rules as its instruments.
 
 (Aristotle, Nicomachean Ethics, Book VI.)
 
 **Plain words**
 Rules are written for the average case, and the actual case never quite is the average one. The capacity pointed at here is reading the situation in front of you and choosing. The practice: when you follow a rule, notice what the rule is for. The noticing is the part that transfers.
 
-*For example:* The veteran nurse who ignores the protocol's letter and catches the sepsis the checklist missed — that's judgment, and it's why she's allowed near the checklist.
+*For example:* Imagine a patient whose symptoms mostly match the protocol but one sign does not. The rule covers the match; noticing the exception is judgment.
 
 ## Sources
 

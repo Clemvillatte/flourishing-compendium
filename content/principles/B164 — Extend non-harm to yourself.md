@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 164** — Extend non-harm to yourself
 
-The Dhammapada's chapter on the self opens with the premise: "If one holds oneself dear, one should diligently watch oneself." The watching is protective, not punitive. The Metta Sutta then sets the scope of protection without exceptions.
+The Dhammapada's chapter on the self opens with the premise: "If one holds oneself dear, one should diligently watch oneself." The Metta Sutta then sets the scope of protection without exceptions.
 
 > If one holds oneself dear, one should diligently watch oneself.
 >

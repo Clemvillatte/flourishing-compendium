@@ -24,7 +24,7 @@ The Platform Sutra makes the availability explicit: "In the self-nature of each 
 (Dhammapada 239-240; Platform Sutra.)
 
 **Plain words**
-The postponing mind has a specific shape: freedom is real, but it is scheduled for after the degree, the move, the children, the retirement. Both texts refuse the schedule. The exercise is small: pick the thing you are postponing until conditions are right, and do the part of it that is possible in the current hour.
+The postponing mind has a specific shape: freedom is real, but it is scheduled for after the degree, the move, the children, the retirement. The two texts answer differently. The Dhammapada's answer is gradual: the removal of impurities happens "moment by moment", so the work is always current. The Platform Sutra's answer is sudden: the wisdom is "originally fully present within your self-nature", so there is nothing to wait for. The compendium's exercise: pick the thing you are postponing until conditions are right, and do the part of it that is possible in the current hour.
 
 *For example:* The person who decides, mid-Tuesday, mid-dishwasher, that this is the life they were waiting for: nothing external has changed in that moment.
 

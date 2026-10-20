@@ -12,17 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 24** — Let doubt be genuine
 
-Don't manufacture doubt, and don't paper over real problems with verbal certainty: genuine doubt arises from disrupted habits and demands real inquiry. Distinguish real problems from paper problems.
+In The Fixation of Belief, Peirce distinguishes asking a question from experiencing the doubt that prompts inquiry.
+
+> Some philosophers have imagined that to start an inquiry it was only necessary to utter a question whether orally or by setting it down upon paper, and have even recommended us to begin our studies with questioning everything! But the mere putting of a proposition into the interrogative form does not stimulate the mind to any struggle after belief. There must be a real and living doubt, and without this all discussion is idle.
+>
+> (Charles Peirce, "The Fixation of Belief," 1877.)
+
+He describes inquiry as the struggle prompted by doubt to attain belief. The compendium applies this distinction by asking what is actually uncertain before deciding how to investigate it.
 
 (Peirce, "The Fixation of Belief," 1877.)
 
-**Plain words** Fake doubt is procrastination in a lab coat. Real doubt arises from disrupted habits and demands real inquiry — don't manufacture it, and don't paper over it with verbal certainty.
+**Plain words**
+As a compendium exercise, write down what you are uncertain about and what makes it uncertain for you. Consider what evidence or reasoning could help you decide. Merely rewriting a statement as a question does not show that you doubt it.
 
-*For example:* The performance review you're 'unsure' about for three weeks — no new data is coming. That's not doubt; that's avoidance wearing doubt's coat.
+*For example:* Imagine being unsure whether a performance review is fair. Identify one disputed assessment and compare it with the work it describes.
+
+## Sources
+
+- [Charles Peirce, "The Fixation of Belief" (peirce.org)](https://www.peirce.org/writings/p107.html)
 
 ## Psychology parallels
 
-- **[[Worry research|Worry research]]**, abstract, verbal "problem-solving" without action maintains anxiety (Borkovec, 1983)
+- **[[Worry research|Worry research]]**
 
 ## Philosophy parallels
 

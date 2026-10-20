@@ -22,7 +22,7 @@ The Trúc Lâm school's founding gesture is in the closing verse of Trần Nhân
 >
 > (Trần Nhân Tông, Cư Trần Lạc Đạo Phú, concluding verse)
 
-The teaching that practice is compatible with a full life is not a modern softening; it is the founding text. The verse even closes by dissolving the special occasion: with the treasure already "in the home" and the mind not stuck on circumstances, "What inquiring Thiền for!" The compendium's reading is that the duties are not obstacles arranged around a hidden practice; they are where the practice lives.
+The teaching that practice is compatible with a full life is not a modern softening; it is the founder's own text. The verse even closes by dissolving the special occasion: with the treasure already "in the home" and the mind not stuck on circumstances, "What inquiring Thiền for!" The compendium's reading is that the duties are not obstacles arranged around a hidden practice; they are where the practice lives.
 
 (Trần Nhân Tông, Trúc Lâm tradition.)
 
