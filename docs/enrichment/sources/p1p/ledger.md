@@ -357,3 +357,18 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
   replacing it.
 - Limitations: inherited parallels (Lazarus; Schwarz and Clore 1983; Schopenhauer;
   Husserl) NOT opened; flagged inherited parallels.
+
+## B137 — Expect your seeing to change (the wise see differently)
+
+- Opened (direct download + local extraction): Dhammapada ch. 20 page — verses
+  277-279; and https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html
+  (SN 12.23 Upanisa Sutta, Thanissaro translation) — the prerequisites chain.
+- Verbatim quotes used: Dhp 277; the SN 12.23 contiguous prerequisite sequence from
+  "Joy has conviction" through "knowledge & vision of things as they actually are
+  present has concentration as its prerequisite". The three-marks summary (278, 279)
+  paraphrased against the opened verses.
+- The wine-taster image from the original Plain words replaced with the trainable-
+  domain listing exercise; "trust the deepening" guarantee replaced by the source's
+  own chain framing.
+- Limitations: inherited parallels (Goldstone 1998; Lutz et al. 2008; Hanson; Kuhn)
+  NOT opened; flagged inherited parallels.
