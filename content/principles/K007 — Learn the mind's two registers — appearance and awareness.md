@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 7** — Learn the mind's two registers: appearance and awareness
 
-The Mahamudra instructions begin with a map that the whole ninth layer depends on: mental events appear (thoughts, images, emotions), and awareness is the field in which they appear. The register of appearance is busy and compelling; the register of awareness is still and always available. Every practice here is some way of shifting weight from the first register to the second. Practically, several times a day, ask not "what is happening" but "what is it that is aware of this?" and treat the question, not any answer, as the practice.
+The mahamudra instructions open by examining the mind's own activity. The Ninth Karmapa's root text, in Alexander Berzin's translation, sets the inquiry: examine the mind "when it is settled pristinely in its clarity-making and voidness," then again "after having made it stir with a conceptual thought," and ask "whether the essential natures of the settled and stirring (minds) are the same or different" ([Mahamudra: Eliminating the Darkness of Ignorance](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/mahamudra-vipashyana-meditation)). The answer comes in the water-and-waves image: "Like water and waves, (the two states) are the gait or action of the mind alone. That is all there is to it." The stakes of the two registers are exact: "If you are unaware of it, then there is unknowing (ignorance) and uncontrollably recurring samsara. But if you are aware of it, then there is knowing and deep awareness or the released state of nirvana." The text adds that "conceptual thoughts are nothing more than the mind," and that "there are no two different (separate 'things') — external appearances and an internal mind — but (just) the mind's reflexive brilliance dawning with no obstruction."
 
-(The Mahamudra lineage instructions; Gampopa's presentation of shamatha and vipashyana.)
+This entry's map of two registers: appearance is the busy register (thoughts, images, emotions appearing); awareness is the still register, the field in which they appear. Practically, several times a day, ask not "what is happening" but "what is it that is aware of this?", and treat the question, not any answer, as the practice.
 
-**Plain words** Thoughts, images and feelings appear. Awareness is the space they appear in. One is busy and gripping, the other quiet and always there. The Mahamudra teachers say nearly every practice is a way of shifting your weight from the first to the second.
+**Plain words** Mahamudra starts with a map. Thoughts, images, feelings appear; awareness is what they appear in. The text's own image is water and waves: the busy and the still are one mind's activity. And the dividing line between samsara and nirvana is awareness or unawareness of exactly this. So the practice is a question you can ask anywhere: what is it that is aware of this? Not the answer; the asking.
 
-*For example:* In a heated meeting, noticing that you're furious and noticing that there's a you who is noticing. The fury doesn't vanish, but it has stopped being the only thing in the room.
+For example: In a heated meeting, noticing that you're furious and noticing that there's a you who is noticing. The fury doesn't vanish, but it has stopped being the only thing in the room.
+
+## Sources
+
+- [Ninth Karmapa Wangchuk Dorje, Mahamudra: Eliminating the Darkness of Ignorance, trans. Alexander Berzin (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/original-texts/tantra-texts/mahamudra-eliminating-the-darkness-of-ignorance/mahamudra-vipashyana-meditation) — settled/stirring examination, water-and-waves image, awareness/unawareness passage, and the mind-appearance inseparability quoted verbatim from the opened page
 
 ## Psychology parallels
 
