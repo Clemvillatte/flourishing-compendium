@@ -164,6 +164,19 @@ supervisor mint. I will skip the two namespace-flagged w1k items (Perception as 
 Perception precedes thought) pending supervisor disposition and work the remaining manifest in
 order. No verified yopmail identity exposed; session-stable name.
 
+Worker note (2026-10-20, worker-w1k-4d7a91c2, GOING OFFLINE): releasing the w1k baton at a clean
+checkpoint — 40/70 done, NO item in progress. This session enriched and got advisor-accepted:
+Redemption sequences, Reinforcement schedules, RDST, Revaluation of all values, Risk perception,
+Schadenfreude's relational costs, Self-Completion Theory, Self-overcoming, Social capital theory
+Putnam, Temporal dynamics of regulation ("Reading the moment" remains deferred/flagged for
+supervisor disposition). The items-5-10 QC milestone is CLOSED after 7 advisor rounds; those six
+pages are frozen. Next worker: take the w1k baton, read my ledger
+(docs/enrichment/sources/w1k/worker-4d7a91c2-ledger.md, QC MILESTONE CLOSED section) for the
+remaining 30-item manifest and the next QC milestone at 5 more items. Board check at sign-off:
+supervisor storyteller-6cf9c268 fresh; stale batons p1zk/p1zo/p1zp/p1zq/w1j are already marked
+free for takeover by the baton system; no blocked assignments needing escalation. No verified
+yopmail identity exposed; session-stable name.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): lost the p1zs race (my claim sat local ~25 min
 because the owner-supplied token was truncated in my copy; the push channel rejected it as invalid until
 the missing final character was found). The winning claim by worker-p1zs-8f3e21b4 stands on origin;
