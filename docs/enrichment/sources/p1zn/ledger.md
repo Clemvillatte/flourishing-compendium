@@ -44,3 +44,8 @@
 - Sources opened: OUP chapter excerpts for Dobson 2003 (abstract, ch.2, ch.3) and a 2026 article quoting Dobson 2000 pp.59-60. Quotes checked against excerpts.
 - Flags: entry's "rights toward the more-than-human world" and emphasis on voting do not match Dobson's footprint-based duties owed to humans; Eckersley 2004, Clayton & Opotow 2003, Aristotle Politics not opened.
 - QC: self-QC only; validator pass.
+
+## R130 — More-than-human relational self
+- Sources: Abram 1996 quoted second-hand (SCUP chapter with p. ix; reader's notes citing Vintage pp. 22, 56); Mayer & Frantz 2004 record via Crossref (no abstract); meta-analysis excerpt PMC7027494.
+- Flags: Abram, Plumwood, Naess not opened directly; Mayer & Frantz abstract unobtainable; evidence on nature connectedness is self-report/associational.
+- QC: self-QC only; validator pass.
