@@ -144,3 +144,10 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "suffering comes from attending elsewhere" framing replaced with the study's own correlational account (time-lag analyses read by the authors as causal); presence practice labelled as the compendium's application. Unresolved (removed from page, recorded here): Brown & Ryan 2003 / Mrazek et al. 2013 present-moment-well-being parallels and the Killingsworth & Gilbert 2019 replication reference (none opened).
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Mind wandering, Presence, Right mindfulness (leads read during milestone QC; full bodies not read).
+
+## AT029 — Recognise the costs of interruption: attention does not switch instantly
+- Evidence: Leroy 2009, OBHDP 109(2) 168-181, abstract via ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html, fetched this session. All three quoted sentences verified verbatim (transition requirement; unfinished-task difficulty; time-pressure finding).
+- Scope: interruption-of-ongoing-work framing and the 30-second/20-minute cost figures (unsourced) removed; residue claim kept to the abstract's task-switching ground; Leroy & Glomb 2018 reference dropped from the parallel line (unopened).
+- Unresolved (removed from page, recorded here): Altmann & Trafton 2002, Monk et al. 2008, Hodgetts & Jones 2006 interruption-cost parallels (none opened).
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocal into Attention residue (lead read during milestone QC; full body not read).

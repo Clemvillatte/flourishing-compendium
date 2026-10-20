@@ -12,16 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 29** — Recognise the costs of interruption: attention does not switch instantly
 
-Interruptions are not free. Each time you switch tasks or are interrupted, there is a cost: time to disengage, time to re-engage, and "attention residue" that impairs subsequent performance. Frequent interruptions destroy the capacity for deep engagement.
+Leroy's two experiments are the source for the residue claim:
 
-**Plain words** Interruptions bill you twice: the time to leave the task, and the time to re-enter it. A 30-second ping can cost 20 minutes of rebuild. That's why the cost of the interruption isn't the interruption.
+> "As revealed by two experiments, people need to stop thinking about one task in order to fully transition their attention and perform well on another." ([Leroy, 2009, Organizational Behavior and Human Decision Processes 109, abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
 
-*For example:* The coder with headphones on isn't being unfriendly — they're protecting a 20-minute rebuild fee from everyone who "just has a quick question."
+> "Yet, results indicate it is difficult for people to transition their attention away from an unfinished task and their subsequent task performance suffers." ([Leroy, 2009, same abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
+
+> "Time pressure while finishing a prior task is needed to disengage from the first task and thus move to the next task and it contributes to higher performance on the next task." ([Leroy, 2009, same abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html))
+
+The experiments concern task switching in laboratory studies, not the interruption of an ongoing task by a colleague. The compendium's interruption framing is its own application; the specific cost figures in the earlier draft (a 30-second ping, 20 minutes of rebuild) carried no source and are gone.
+
+**Plain words** The experiments say two things: part of your attention stays with the task you left, and the next task gets the reduced share. Finishing the first task helps only under time pressure — an easy finish leaves thoughts behind. The practice is to finish cleanly, under some pressure, before switching.
+
+*For example:* (Imagined case.) A coder with headphones on is not being unfriendly; they are protecting a build from everyone with a quick question. The studies' lesson is the other side: when you do switch, finish first — write down where you stopped, and let the note carry the residue.
+
+## Sources
+
+- [Leroy, S. (2009). Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. OBHDP 109(2), 168-181, abstract](https://ideas.repec.org/a/eee/jobhdp/v109y2009i2p168-181.html) — the three findings quoted above
+
 ## Psychology parallels
 
-- **[[Attention residue|Attention residue (Leroy)]]**, switching tasks leaves cognitive residue that impairs subsequent performance (Leroy, 2009; Leroy & Glomb, 2018)
-- **Interruption costs**, even brief interruptions significantly increase errors and time to complete tasks (Altmann & Trafton, 2002; Monk et al., 2008)
-- **After interruption, return to task takes time**, resuming a task after interruption takes significantly longer than the interruption itself (Altmann & Trafton, 2002; Hodgetts & Jones, 2006)
+- **[[Attention residue|Attention residue (Leroy)]]**, the source quoted above (Leroy, 2009)
 
 ## Philosophy parallels
 
@@ -31,4 +42,4 @@ Interruptions are not free. Each time you switch tasks or are interrupted, there
 
 ## Practice
 
-- Protect yourself from interruptions. Use "do not disturb" signals, close doors, silence notifications. Batch similar tasks. Recognise that even a 30-second interruption can cost minutes of recovery.
+- Protect yourself from interruptions. Use "do not disturb" signals, close doors, silence notifications. Batch similar tasks. Recognise that switching leaves residue: finish cleanly, under some pressure, before you switch.

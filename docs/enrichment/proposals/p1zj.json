@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 18,
+ "revision": 19,
  "records": [
   {
    "action": "reciprocal",
@@ -252,6 +252,13 @@
    "into": "Right mindfulness",
    "link": "AT024",
    "why": "listed for comparison with the principle's presence reading of the mind-wandering findings",
+   "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Attention residue",
+   "link": "AT029",
+   "why": "listed for comparison with the principle's residue reading of the Leroy findings",
    "notes": "target page lead reviewed during milestone QC (after initial push); full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]
