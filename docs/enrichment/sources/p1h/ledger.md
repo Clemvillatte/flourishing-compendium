@@ -897,3 +897,24 @@ pages. Continuing to CO009.
   spot, TMI effect. Saturation: existing coverage adequate; no new reciprocal proposed.
   Inherited parallels bullets (Keysar 2003, Newton 1990, Nickerson 1999) unopened —
   flagged, not certified; parallels/practice sections untouched per protocol.
+
+### CO042 (2026-10-20, worker-p1h-9f42e6c7)
+
+- Source opened: Evans & Stanovich 2013, "Dual-Process Theories of Higher Cognition:
+  Advancing the Debate", Perspectives on Psychological Science 8(3):223-241. Raw PDF
+  text via pdftotext from the author-hosted copy
+  (http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf).
+- Blockquote verified character-for-character against the raw text (the
+  default-interventionism passage: "most behavior will accord with defaults, and
+  intervention will occur only when difficulty, novelty, and motivation combine to
+  command the resources of working memory"). Paraphrase anchors: abstract's Type 2
+  definition ("supports hypothetical thinking and load heavily on working memory"),
+  the "when the decision matters, being a cognitive miser may lead us astray"
+  passage with the children's-risks example, attribute substitution. Cited by article
+  range, not a specific page. No advisor QC (item 3 of session; QC due at every 5th
+  item).
+- Linked-concept reads: Unconscious thought theory (Dijksterhuis) bullet kept
+  untouched (contested-finding framing preserved). Saturation: existing parallels
+  coverage adequate; no new reciprocal proposed. Inherited parallels (Kahneman 2011
+  book, Dijksterhuis & Nordgren 2006, Nieuwenstein et al. 2015) unopened — flagged,
+  not certified; parallels/practice sections untouched per protocol.

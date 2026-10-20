@@ -11,12 +11,22 @@ navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognition", "chapter": "CO-S04 — LAYER IV — THINKING MODES — INTUITION, ANALYSIS, AND FLEXIBILITY", "parent": ""}
 ---
 > **Principle 42** — Know when to deliberate: high-stakes and novel situations need slow thinking
+Evans and Stanovich's version of dual-process theory assigns the timing. Fast, autonomous Type 1 processes deliver default answers to almost everything; slower Type 2 reasoning intervenes only when the situation calls for it. Their summary of when: difficulty, novelty, and motivation together have to be high enough to engage working memory. When a decision matters, they argue, cognitive miserliness can lead us astray, because the intuitive answer may be an easy-to-evaluate substitute for the harder question actually posed. ([Evans & Stanovich, 2013, Perspectives on Psychological Science 8(3):223-241](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf))
 
-When a decision is high-stakes, novel, or complex, deliberate, analytical thinking (System 2) outperforms intuition. When it is familiar, low-stakes, or pattern-rich, intuition is faster and often better.
+> "Default interventionism allows that most of our behavior is controlled by Type 1 processes running in the background. Thus, most behavior will accord with defaults, and intervention will occur only when difficulty, novelty, and motivation combine to command the resources of working memory." (Evans & Stanovich, 2013, [Perspectives on Psychological Science 8(3):223-241](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf))
 
-**Plain words** High-stakes, novel, or complex decisions need slow deliberate thinking; familiar, low-stakes, pattern-rich ones run fine on intuition. Know when to deliberate. The expensive mistake is running the wrong mode for the moment's stakes.
+The principle's practical claim follows from the mechanism. Type 2 processing supports hypothetical thinking and loads heavily on working memory, so it is expensive, and spending it on a familiar, low-stakes choice buys little. The authors' example of a decision that deserves it is evaluating important risks, where they do not want vividness substituted for careful thought about the situation. ([Evans & Stanovich, 2013](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf))
 
-*For example:* The person who deliberates for weeks over a lunch menu (low stakes — just pick) and intuition-signs the mortgage (high stakes — slow down). The modes got inverted. Match the effort to the stakes, not to your mood.
+**Plain words**
+Your fast answer arrives first and is usually fine. Slow thinking is expensive: it ties up working memory, so you can run it on one thing at a time and not for long. Spend it where the situation is new to you, the cost of being wrong is real, and you care about the outcome. For the compendium's exercise: when a choice feels familiar, ask when you last met one exactly like it; if the honest answer is never, slow down before deciding.
+
+*For example:*
+Someone deliberates for a week over a lunch order and signs a mortgage the same afternoon on a good feeling. The compendium's rule is to check novelty and stakes first: the lunch is familiar and cheap, the mortgage is neither, so the slow thinking belongs on the mortgage.
+
+## Sources
+
+- [Evans & Stanovich (2013), Dual-process theories of higher cognition: Advancing the debate, Perspectives on Psychological Science 8(3):223-241](http://keithstanovich.com/Site/Research_on_Reasoning_files/Evans_Stanovich_PoPS13.pdf)
+
 ## Psychology parallels
 
 - **Deliberation improves decisions in novel, high-stakes situations**, System 2 reasoning outperforms intuition when the task is unfamiliar or the stakes are high (Kahneman, 2011; Evans & Stanovich, 2013)
