@@ -470,3 +470,11 @@
   and "connectedness research, as framework" kept as inherited seed lines,
   not opened. Broken Facets seed artifact removed (no links). Related
   concepts: Nature exposure, Biophilia (minimal descriptive clauses).
+
+## Optimal experience (fast-track)
+- Opened: PubMed record 2724069 (Csikszentmihalyi and LeFevre 1989, JPSP
+  56(5), 815-822) — all quoted fragments verbatim from the abstract (ESM
+  design; flow-vs-context results; majority-of-flow-at-work; motivation
+  findings). Flow (1990) book NOT opened; kept as the seed's citation.
+  Related concepts: Flow, Intrinsic motivation, Peak experiences (minimal
+  descriptive clauses; Maslow link carried by the page's own ST125 link).
