@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 12** — Understand that attention is the gateway to experience: it is where well-being is lived
 
-Ultimately, your experienced life is what you attend to. A life with excellent attentional capacity but poor attentional allocation is a life spent on the wrong things. Attentional quality — what you select and how you engage — is directly constitutive of well-being.
+James's chapter on attention makes the gateway claim directly: experience is not what strikes the senses but what gets noticed. The sensory world offers millions of items at any moment, and experience is the subset that interest and attention select from them.
 
-**Plain words** In the end, your experienced life is what you attended to. Not what you owned, not what you achieved — what you were actually present for. Attention is where a life is lived, and most people spend theirs on default settings.
+> "My experience is what I agree to attend to. Only those items which I notice shape my mind—without selective interest, experience is an utter chaos." (William James, The Principles of Psychology, Vol. 1, 1890, ch. XI "Attention", p. 402, [full text at Project Gutenberg](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm))
 
-*For example:* At the concert filming it on a phone with a shaking arm — you'll own the video and have missed the concert. The experience went to the camera.
+The well-being implication follows from the selection claim. Since attention decides what reaches experience, how attention is allocated over a day does more for the felt quality of a life than raw capacity does. Attention that is strong but badly assigned still spends the day on whatever arrived first.
+
+**Plain words**
+What you get to live through is only ever the parts you noticed. Two people can sit through the same year and come away with different lives from it. The choosing of what to notice is one of the few levers that moves experience directly.
+
+**For example**
+Filming a concert on a phone: you keep the video and lose the concert. The attention went to holding the shot steady, and experience follows attention.
+
+## Sources
+
+- [William James, The Principles of Psychology, Vol. 1 (1890), full text at Project Gutenberg](https://www.gutenberg.org/files/57628/57628-h/57628-h.htm) — ch. XI "Attention", p. 402 (passage beginning "Millions of items of the outward order"); ebook #57628
+
 ## Psychology parallels
 
 - **Attention and well-being are linked**, attentional control and attentional allocation are associated with emotional well-being and life satisfaction (Van Dillen & Koole, 2007; Wadlinger & Isaacowitz, 2011)
