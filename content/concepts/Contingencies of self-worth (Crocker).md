@@ -7,7 +7,7 @@ file: "Contingencies of self-worth (Crocker)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Contingencies of self-worth are the domains on which a person has staked their self-esteem. Jennifer Crocker and Connie Wolfe's model holds that global self-esteem is informed only by self-evaluations in those contingent domains, so successes and failures there generalize to one's felt worth as a person.
+Contingencies of self-worth are the domains on which a person has staked their self-esteem. Jennifer Crocker and Connie Wolfe's model holds that global self-esteem is informed only by self-evaluations in those contingent domains, so successes and failures there generalize to one's felt worth as a person ([Crocker and Wolfe 2001, p. 594](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf)).
 
 > "A contingency of self-worth is a domain or category of outcomes on which a person has staked his or her self-esteem, so that person's view of his or her value or worth depends on perceived successes or failures or adherence to self-standards in that domain." (Crocker and Wolfe, [Contingencies of Self-Worth](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf), Psychological Review 108(3):593-623, 2001, p. 594)
 
@@ -28,7 +28,7 @@ The Contingencies of Self-Worth Scale measures seven of them: "Factor analysis o
 
 ## Other formulations in this library
 
-- self-esteem based on contingent domains is associated with fragility and, in concert with negative life events, risk of depression (Crocker & Wolfe, 2001)
+- Contingencies of self-worth, in concert with negative life events, may be a risk factor for depression ([Crocker & Wolfe 2001, p. 611](https://static1.squarespace.com/static/6a760291307e26027c8c5a39/t/6a7a6dfef31cab43f5369c87/1786408447478/Crocker&Wolfe_2001_PsychRev.pdf))
 
 ## Related concepts
 

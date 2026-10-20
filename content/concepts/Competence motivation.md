@@ -7,7 +7,7 @@ file: "Competence motivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Competence motivation is Robert White's proposal for the motive behind exploration and mastery. In his 1959 paper, competence names an organism's capacity to interact effectively with its environment, and effectance is his name for the motivation behind the activity that builds and exercises that capacity.
+Competence motivation is Robert White's proposal for the motive behind exploration and mastery. White uses competence for an organism's capacity to interact effectively with its environment and proposes effectance as the motivational concept, with a feeling of efficacy characterizing the experience ([White 1959, pp. 297, 329](https://greatquestion.com.au/wp-content/uploads/2023/09/White-Motivation-reconsidered-the-concept-of-competence-1959.pdf)).
 
 > "As used here, competence will refer to an organism's capacity to interact effectively with its environment." (White, [Motivation Reconsidered: The Concept of Competence](https://greatquestion.com.au/wp-content/uploads/2023/09/White-Motivation-reconsidered-the-concept-of-competence-1959.pdf), Psychological Review 66(5):297-333, 1959, p. 297)
 

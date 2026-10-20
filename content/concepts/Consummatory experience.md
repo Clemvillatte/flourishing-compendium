@@ -7,7 +7,7 @@ file: "Consummatory experience"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Consummatory experience is John Dewey's term for the fulfilled character of an experience that runs its course. In Art as Experience he distinguishes the ongoing stream of activity from an experience whose material is integrated and fulfilled, a whole that carries its own individualizing quality and self-sufficiency.
+Consummatory experience is John Dewey's term for the fulfilled character of an experience that runs its course. In Art as Experience he distinguishes the ongoing stream of activity from an experience whose material is integrated and fulfilled, a whole that carries its own individualizing quality and self-sufficiency ([Dewey 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf)).
 
 > "A piece of work is finished in a way that is satisfactory; a problem receives its solution; a game is played through; a situation, whether that of eating a meal, playing a game of chess, carrying on a conversation, writing a book, or taking part in a political campaign, is so rounded out that its close is a consummation and not a cessation. Such an experience is a whole and carries with it its own individualizing quality and self-sufficiency. It is an experience." (John Dewey, [Art as Experience, ch. 3 "Having an Experience", 1934](https://people.wou.edu/~girodm/middle/having_an_experience.pdf))
 
