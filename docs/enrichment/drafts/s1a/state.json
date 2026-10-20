@@ -287,15 +287,20 @@
    ]
   },
   "s1a-013": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "D156: Muir rides a storm in a supple treetop; elasticity, anchorage and neighbouring trees, with no universal survival claim",
    "history": [
     {
      "t": "2026-10-20T13:58:29+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T13:59:40+00:00",
+     "to": "drafting",
+     "note": "Full primary chapter opened; complete tree-ride arc, contradictory rigid-survivor details and safe attribution retained"
     }
    ]
   }
  },
- "updated": "2026-10-20T13:58:29+00:00"
+ "updated": "2026-10-20T13:59:40+00:00"
 }
