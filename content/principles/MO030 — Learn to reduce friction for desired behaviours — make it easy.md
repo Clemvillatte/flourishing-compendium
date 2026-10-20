@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 30** — Learn to reduce friction for desired behaviours: make it easy
 
-Motivation is influenced by friction — how easy or hard it is to start a behaviour. Reducing friction (making the desired behaviour easier to start) increases the likelihood of doing it. This is more effective than relying on willpower.
+One field test comes from a hospital cafeteria. After a colour-coded labelling phase, Thorndike and colleagues added a phase that "increased the visibility and convenience of some green items". Red beverages fell a further 11.4% and green beverages rose a further 4.0%, and "bottled water increased 25.8% during phase 2" while two comparison cafeterias saw no such rise ([Thorndike et al., 2012, American Journal of Public Health 102, 527-533](https://pubmed.ncbi.nlm.nih.gov/22390518/)). That study measured sales, not individual willpower, and it combined labels with placement, so it does not isolate friction alone.
 
-**Plain words** Motivation follows friction — make the good thing one step away and the bad thing ten. The lazy path is a design problem, not a character problem. Design so the lazy path is the one you want.
+The wider evidence base is thinner than the principle suggests. Hollands and colleagues note that "empirical evidence to support this idea is limited, especially its application to changing health behaviour" ([Hollands et al., 2013, BMC Public Health 13, 1218](https://pubmed.ncbi.nlm.nih.gov/24359583/)).
 
-*For example:* Gym clothes laid out by the bed, snacks in the garage — the morning version of you only needs the path of least resistance to be the good one. You're not tricking yourself; you're designing for your real self.
+(Thorndike et al., 2012; Hollands et al., 2013.)
+
+**Plain words** Making a behaviour easier to start, or more visible, shifts what people choose in at least one real setting. How far this beats willpower is not established by these sources. Treat friction changes as cheap experiments.
+
+For example (imagined): you leave your running shoes by the door and your phone charger outside the bedroom, then check after two weeks whether anything changed.
+
+## Sources
+
+- Thorndike, Sonnenberg, Riis, Barraclough & Levy (2012), [A 2-phase labeling and choice architecture intervention to improve healthy food and beverage choices](https://pubmed.ncbi.nlm.nih.gov/22390518/), abstract
+- Hollands et al. (2013), [Altering micro-environments to change population health behaviour](https://pubmed.ncbi.nlm.nih.gov/24359583/), abstract
+
 ## Psychology parallels
 
-- **Friction and behaviour**, small reductions in friction (steps, clicks, distance) dramatically affect behaviour (Thaler & Sunstein, 2008; Milkman et al., 2011)
-- **Choice architecture**, designing environments to make desired behaviours easy is more effective than willpower (Thaler & Sunstein, 2008; Milkman et al., 2011)
+- **Friction and behaviour**, more visible and convenient healthy items shifted cafeteria sales (Thorndike et al., 2012); Milkman et al. (2011) concerns implementation intentions, not friction
+- **Choice architecture**, the evidence base for health behaviour is described as limited (Hollands et al., 2013); Thaler & Sunstein (2008) not verified here
 
 ## Philosophy parallels
 

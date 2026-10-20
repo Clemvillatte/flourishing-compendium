@@ -92,3 +92,7 @@
 ## MO021 — Goals and identity
 - Sources opened: Bryan, Walton, Rogers & Dweck 2011 PNAS 108:12653-12656 (PMID 21768362, abstract, verbatim); Sartre, Existentialism Is a Humanism (marxists.org, grep verified "existence precedes essence" passage); Burbidge & Oyserman 2026 (J Pers, abstract only; not quoted).
 - Corrections: removed unsourced "I don't smoke vs I'm trying to quit" claim presented as fact (could not find Patrick & Hagtvedt 2012 abstract); example reframed as imagined. "More sustainable" not supported: Bryan tested short-term turnout. Oyserman 2010/2015, Gardner 2015 on identity, Clear 2018 not opened. Aristotle / Right livelihood bullets inherited.
+
+## MO030 — Reduce friction
+- Sources opened: Thorndike et al. 2012 AJPH 102:527-533 (PMID 22390518, abstract, verbatim); Hollands et al. 2013 BMC Public Health 13:1218 (PMID 24359583, abstract, verbatim); Milkman et al. 2011 PNAS 108:10415 (PMID 21670283, abstract: implementation-intention prompts, not friction; used for MO037).
+- Corrections: "dramatically" and "more effective than willpower" removed; Hollands says evidence is limited. Milkman 2011 mis-cited as friction research. Thaler & Sunstein 2008 unopened.
