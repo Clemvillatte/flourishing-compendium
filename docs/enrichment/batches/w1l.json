@@ -12,7 +12,8 @@
   "Creative values",
   "Right association",
   "Death acceptance",
-  "Delay plus reappraisal"
+  "Delay plus reappraisal",
+  "Deliberation as rehearsal"
  ],
  "in_progress": null,
  "flagged": {
@@ -24,6 +25,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 12,
- "updated": "2026-10-20T07:15:16+00:00",
+ "updated": "2026-10-20T07:16:08+00:00",
  "band_done": false
 }

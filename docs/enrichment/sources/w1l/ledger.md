@@ -327,3 +327,22 @@ to the supervisor (content passed review).
   seed had it, without quoting Seneca.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Deliberation as rehearsal
+
+- Track: fast-track, current degree 6 (1 layer + 5 principles). Start
+  transition recorded before research.
+- Opened: https://www.gutenberg.org/files/41386/41386-h/41386-h.htm
+  (Dewey, Human Nature and Conduct, Gutenberg #41386), fetched 2026-10-20.
+- Quotations, copied from the fetched page: the dramatic-rehearsal passage
+  (blockquote, Part Three, Section III, "The Nature of Deliberation");
+  "An act overtly tried out is irrevocable... It is retrievable.";
+  "runs ahead and foresees outcomes" fragment.
+- Related concepts verified to exist: Mental simulation research (deg 3),
+  Episodic future thinking (deg 5); CO042 link preserved from the seed's
+  Related concepts section.
+- Limits: page-number locators not used (the Gutenberg edition's section
+  heading cited instead); no claims about Dewey scholarship beyond the
+  fetched text.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
