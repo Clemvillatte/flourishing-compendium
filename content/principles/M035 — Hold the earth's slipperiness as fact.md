@@ -12,18 +12,31 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 35** — Hold the earth's slipperiness as fact
 
-The songs' recurring image: the earth is slippery, a place where one slips and falls, and the poets do not treat this as a complaint but as terrain description. Life on this earth involves losing footing (health, people, plans), and the tradition's realism asks you to expect the slips without concluding that the ground betrayed you. Practically, when footing is lost, state the terrain honestly ("the earth is slippery here") before deciding what the slip means about you.
+The Nahua proverb for a good person who falls into wrongdoing is terrain description: "Tlaalahui, tlapetzcahui in tlalticpac," "It is slippery, it is slick on the earth." In Maffie's summary of the tradition, the proverb "was said of a person who had lived a morally upright life but then lost her balance and fell into moral wrongdoing, as if slipping in slick mud" (Sahagún, Florentine Codex Book VI, trans. Burkhart, as quoted in Maffie, "Aztec Philosophy", IEP). The earth's name, tlalticpac, "on the point or summit of the earth," pictures a narrow place surrounded by dangers, and the tradition's defining question follows: "How can humans maintain their balance upon the slippery earth?" Losing footing is not a verdict on the person; it is the terrain.
 
-(The Cantares Mexicanos, the earth-passages; the songs of the lords.)
+**Plain words**
+The old saying treats a stumble as ground, not character. When you lose your footing — health, people, plans — name the terrain first; then decide what, if anything, it means about you.
 
-**Plain words** The earth is slippery — the songs say it as terrain description, not complaint. You will lose footing: health, people, plans. Expect the slips without concluding the ground betrayed you. When footing is lost, that's the terrain doing what terrain does.
+*For example (imagined):* Two people are laid off the same week. One reads it as proof of failure; the other as a slip on a slope everyone walks. The second is looking for the next hold a month sooner.
 
-*For example:* Someone who takes the redundancy as betrayal — and someone else takes it as a slip. Same event, same mud. The second one is back on the path a year earlier, and drier.
 ## Psychology parallels
 
-- **Adversity's base rates and attribution**, the research on how misattributing ordinary adversity to personal defect worsens outcomes (the reattribution research; Beck's cognitive distortions)
+- **Adversity's base rates and attribution** (the reattribution research; Beck's cognitive distortions)
 
 ## Philosophy parallels
 
 - **The rain falls on the just** (Gospel of Matthew 5.45, as cultural parallel)
 - **[[Samsara|Samsara as the uncertain road]]** (Buddhist tradition)
+
+## Practice
+
+- When you lose footing, write the event as terrain first ("the earth was slippery here"), then decide what part, if any, was yours.
+
+## Related concepts
+
+- [[Samsara]] — the Buddhist cousin of the uncertain road
+- [[Impermanence]] — the shared ground under both images
+
+## Sources
+
+- [Maffie, J. "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) — the proverb, its Burkhart translation, the tlalticpac gloss (after Launey), and the balance-upon-the-slippery-earth defining question; the proverb is recorded in Sahagún's Florentine Codex Book VI. The seed's Cantares Mexicanos attribution was not verified and is not repeated.
