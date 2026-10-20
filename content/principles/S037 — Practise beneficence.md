@@ -12,13 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 159** — Practise beneficence
 
-Seneca's On Benefits argues that giving and receiving well is a core Stoic practice. Give without expectation of return. Receive with gratitude. Do not let gratitude become a debt. The benefit is not the gift but the goodwill behind it.
-
 Seneca locates a benefit in the goodwill behind it, not in the money or object that changes hands; a small gift offered willingly can therefore matter more than an expensive one offered grudgingly ([On Benefits I.5–7](https://en.wikisource.org/wiki/On_Benefits/Book_I)). The manner of helping belongs to the kindness itself: delay, reproach and humiliation can spoil it ([On Benefits I.1](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
 
-For the giver, his warning is sharp: "It is a base usury to regard a benefit as an investment." ([On Benefits I.2, Aubrey Stewart translation](https://en.wikisource.org/wiki/On_Benefits/Book_I)) He does not, however, tell recipients to forget their obligations: he asks the giver to expect no return and the receiver to remember the kindness ([On Benefits I.4](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
+> "It is a base usury to regard a benefit as an investment." (Seneca, On Benefits I.2, [Aubrey Stewart translation](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
 
-That asymmetry matters: grateful acceptance already returns goodwill, while a material kindness may still call for a material return when possible ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)). Here, the opening's freedom from debt should mean freedom from an enforceable loan, not an end to moral obligations: Seneca argues that legally compelled repayment destroys the free gratitude he values ([On Benefits III.7](https://en.wikisource.org/wiki/On_Benefits/Book_III)).
+He does not, however, tell recipients to forget their obligations: he asks the giver to expect no return and the receiver to remember the kindness ([On Benefits I.4](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
+
+That asymmetry matters: grateful acceptance already returns goodwill, while a material kindness may still call for a material return when possible ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)). This is a moral obligation rather than an enforceable loan: Seneca argues that legally compelled repayment destroys the free gratitude he values ([On Benefits III.7](https://en.wikisource.org/wiki/On_Benefits/Book_III)).
 
 **Plain words** A practical application: accept help without rushing to prove you never needed it. Later, look for a useful chance to help in return, rather than a way to announce that the account is closed.
 
