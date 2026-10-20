@@ -13,11 +13,10 @@
   "R021",
   "R070",
   "R042",
-  "R061",
   "R028",
   "R040"
  ],
- "in_progress": null,
+ "in_progress": "R061",
  "flagged": {
   "PP016": "Reopened for QC: QC correction (first-item advisor review FAIL): symptom-claim wording, quote moved to blockquote, plain words/example replaced, Frankl gloss reduced, scoped A&T paraphrase",
   "PP075": "Reopened for QC: QC correction round 2 (R025 closure review): plain words and example generalisations replaced",
@@ -25,10 +24,10 @@
   "R028": "Reopened for QC: QC correction round 3: two unsupported glosses removed; Treasury context quote restored exactly",
   "R040": "Reopened for QC: QC correction round 3: Taskforce brief restored as blockquoted list per the opened source",
   "R042": "Reopened for QC: QC correction (R070 milestone review): Vaa Moana book year corrected to 2026; Tui Atua framing bounded; plain words gap wording aligned to Wendt",
-  "R061": "Reopened for QC: QC correction (R070 milestone review): unsupported glosses removed; plain words and example rebuilt from opened material; wengu paragraph links added"
+  "R061": "Reopened for QC: QC correction round 3: unverified I.n locator labels replaced with descriptive anchors"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:13:47+00:00",
+ "updated": "2026-10-20T13:13:51+00:00",
  "band_done": false
 }
