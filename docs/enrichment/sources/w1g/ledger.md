@@ -971,3 +971,20 @@
   [[Awe]] (deg 28, bare link), [[Disinterested aesthetic pleasure]] (deg 3) added;
   glosses definitional only.
 - Validation: --fast-track ok. sources_checked +1.
+
+## The standpoint determines what appears (2026-10-20, worker-j9fpiyf; fast-track; degree 9 — eligible)
+
+- OPENED: SEP "Edmund Husserl" (Zahavi), https://plato.stanford.edu/entries/husserl/ —
+  lifeworld passages (Crisis context: "a subject-relative world", "a world of
+  cumulative traditions and sedimented meaning", Galileo's "mathematizing
+  reinterpretation of nature", "take for true being what is actually a method"),
+  the Ideas II orientation quotation (Hua 4/158, verbatim as quoted in the entry),
+  perspectival appearing ("no view from nowhere... only an embodied point of view"),
+  sedimentation (Hua 4/338) and tradition (Hua 15/136) returned verbatim. Blockquote
+  = the Hua 4/158 quotation with its ellipsis, cited to Ideas II via the SEP entry;
+  the seed names the Crisis, so the lifeworld material (the entry's Crisis discussion)
+  carries the Crisis-side claims, and the blockquote is labeled with its actual source.
+- FAST-TRACK NOTE: saturation hunt skipped per §1a; [[The lifeworld]] (deg 3),
+  [[The natural attitude]] (deg 18), [[Perspectivism]] (deg 9) added with glosses
+  bounded to the fetched material.
+- Validation: --fast-track ok. sources_checked +1.
