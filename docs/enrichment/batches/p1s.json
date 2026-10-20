@@ -24,9 +24,9 @@
   "B154",
   "B165",
   "B169",
-  "B172",
   "B181",
-  "B190"
+  "B190",
+  "B172"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,12 +47,12 @@
   "B126": "Reopened for QC: Round-2 QC: use opened named translation; repairs pending",
   "B141": "Reopened for QC: Item-20 QC FAIL: unopened commentary material in application; repairs pending",
   "B150": "Reopened for QC: Item-20 QC FAIL: modern recasting of historical list, unverified gloss; repairs pending",
-  "B172": "Reopened for QC: QC: quote-boundary (manufactured period after Unbinding), dropped source qualifications, unsupported chatter/twitchy claims, budget metaphor",
+  "B172": "Reopened for QC: QC round-2 text fix: contrast opener removed",
   "B181": "Reopened for QC: QC: commentary framed a general boredom mechanism beyond TNH's account; example staged a timed benefit; locator missing",
   "B190": "Reopened for QC: QC: everyday-use framing presented as sutta content; complete-unit claim; unopened psychology-parallel commentary; example promised agency change"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:25:58+00:00",
+ "updated": "2026-10-20T03:28:26+00:00",
  "band_done": false
 }

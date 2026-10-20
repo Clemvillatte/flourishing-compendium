@@ -18,7 +18,7 @@ MN 122 frames silence as a decision about talk and company. The Buddha tells Ana
 
 (MN 122, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html); abridged, the passage continues with a list of the kinds of talk meant.)
 
-The instruction cuts one way, not both: the monk also resolves to engage in talk that is scrupulous, conducive to release of awareness, and leads to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening and Unbinding. The passage sorts talk by where it leads rather than forbidding speech.
+The monk also resolves to engage in talk that is scrupulous, conducive to release of awareness, and leads to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening and Unbinding. The passage sorts talk by where it leads rather than forbidding speech.
 
 **Plain words** Before speaking, ask whether what you are about to say serves a purpose. The compendium suggests sometimes leaving a pause unfilled. You can still answer someone who needs your attention.
 

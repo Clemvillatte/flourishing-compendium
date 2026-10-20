@@ -22,7 +22,7 @@ The instruction continues with short breaths, sensitivity to the whole body, and
 
 The compendium suggests noticing one ordinary in-breath and out-breath before replying. This brief exercise does not reproduce the sutta's full training.
 
-**Plain words** The breath is the one object you carry into every room. The exercise is small: before replying, when startled, in line, notice one in-breath and one out-breath. That is all the exercise is.
+**Plain words** In this brief exercise, pay attention to the breath you are already taking. Is it long or short? There is no requirement to feel calmer or to give a better answer afterward.
 
 *For example:* Imagine being asked a question you did not expect. You notice one in-breath and one out-breath, then answer. The pause is brief and the answer is whatever it is; the exercise is the noticing.
 

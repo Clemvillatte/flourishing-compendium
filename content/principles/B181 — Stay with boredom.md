@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 181** — Stay with boredom
 
-Thich Nhat Hanh teaches a practice for the fear of doing nothing. In Plum Village, the Lazy Day is a day without plans, and the boredom it produces is part of the point ([Happiness, 'Lazy Day' section, Parallax Press](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_2020FreeDownload.pdf)):
+Thich Nhat Hanh describes the Lazy Day as training in not being afraid of doing nothing ([Happiness, 'Lazy Day' section, Parallax Press](https://www.parallax.org/wp-content/uploads/2020/06/Happiness_2020FreeDownload.pdf)):
 
 > When we do not have something to do, we get bored and seek for something to do or for entertainment. We are very afraid of being there and doing nothing. The Lazy Day has been prescribed for us to train ourselves not to be afraid of doing nothing.
 
