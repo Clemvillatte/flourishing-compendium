@@ -2,16 +2,20 @@
  "batch": "p1ze",
  "done": [
   "BE012",
+  "BE024",
   "BE014",
   "BE015",
   "BE017"
  ],
- "in_progress": "BE024",
+ "in_progress": null,
  "flagged": {
-  "BE012": "Reopened for QC: QC round 1 fail: source overstatement, locator missing, plain-words metaphor triad, example unlabelled; advisor repairs pending"
+  "BE012": "Reopened for QC: QC round 1 fail: source overstatement, locator missing, plain-words metaphor triad, example unlabelled; advisor repairs pending",
+  "BE014": "Reopened for QC: milestone QC round 2 repairs applied, re-closing",
+  "BE015": "Reopened for QC: milestone QC round 2 repairs applied, re-closing",
+  "BE017": "Reopened for QC: milestone QC round 2 repairs applied, re-closing"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:07:40+00:00",
+ "updated": "2026-10-20T08:11:52+00:00",
  "band_done": false
 }

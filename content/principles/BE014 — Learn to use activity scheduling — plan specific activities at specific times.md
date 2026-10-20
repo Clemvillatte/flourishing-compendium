@@ -16,7 +16,7 @@ Behavioural activation, a structured treatment for depression, works through act
 
 > "The core of behavioural activation is gradually to identify activities and problems that the individual avoids and to establish valued directions to be followed. These are set out on planned timetables (activity schedules)." (Veale, 2008, p. 32)
 
-The same guidance tells patients to "start activity scheduling with short-term goals and to treat their timetables as a series of appointments with themselves", and cautions that "days should not be filled with activity for activity's sake": the activities chosen must relate to what the person has been avoiding and accord with their valued directions.
+The same guidance tells patients to "start activity scheduling with short-term goals and to treat their timetables as a series of appointments with themselves", and cautions against filling days with activity for activity's sake: the activities chosen must relate to what the person has been avoiding and accord with their valued directions.
 
 **Plain words** An intention without a time slot stays a wish. "I should call my brother more" can be postponed forever; "Sunday, 10 a.m., call brother" either happens or visibly does not. The schedule turns wanting into doing, and starting small keeps it doable when motivation is low.
 

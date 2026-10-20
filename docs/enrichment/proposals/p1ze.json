@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 4,
+ "revision": 5,
  "records": [
   {
    "action": "reciprocal",
@@ -36,6 +36,34 @@
    "link": "BE017",
    "why": "Values clarification names the exercise of stating what matters; BE017 is the next step, using the stated values to choose scheduled activities.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BE017 saturation; grounded in the opened Kanter et al. 2010 account of BATD value statements suggesting activation assignments."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Behavioral activation",
+   "link": "BE015",
+   "why": "Graded task assignment is one of the activation techniques in the BA toolkit; BE015 gives its working rule, sizing each step to what the person can finish.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE015 saturation redo (milestone QC); grounded in the opened Jacobson et al. 2001 and Kanter et al. 2010 accounts of graded task assignment as a BA component."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Activity scheduling (BA)",
+   "link": "BE015",
+   "why": "Activity scheduling sets what goes on the timetable; BE015 sizes the steps for tasks too large to schedule whole.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE015 saturation redo; both are BA activation techniques in the opened sources."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Behavior analysis",
+   "link": "BE024",
+   "why": "Response chaining, described in BE024, is a behavior-analytic teaching procedure.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE024 saturation; grounded in the opened Slocum & Tiger 2011 JABA article."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Habit formation",
+   "link": "BE024",
+   "why": "Habit formation research describes how routines get triggered by cues; BE024 describes the design move, linking behaviours so an existing routine acts as the reminder for the next.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BE024 saturation; grounded in the opened Fogg recipe card's anchor description."
   }
  ]
 }

@@ -16,11 +16,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 
 > "An important point is that activity scheduling is not synonymous with pleasant events scheduling but targets a variety of activities in the client's life related to pleasure, mastery, goals and values, problems to be solved, areas of avoidance, and so forth, often determined individually between the client and the therapist." (Kanter et al., 2010)
 
-The review traces the shift: later versions of BA "tended to move away from focusing on the pleasantness of activities scheduled to other criteria for determining activation targets." In the variant that assesses values explicitly, "the value statement 'I value being a good father' suggests activation assignments such as spending more time with one's children or fixing a child's broken toy." A stated value can function as "a verbal bridge over the immediate aversive consequences to the long-term positive consequences", which is why a values-based activity can outlast a merely pleasant one.
+The review traces the shift: later versions of BA "tended to move away from focusing on the pleasantness of activities scheduled to other criteria for determining activation targets." In the variant that assesses values explicitly, "the value statement 'I value being a good father' suggests activation assignments such as spending more time with one's children or fixing a child's broken toy." The review also records the limit of the evidence: how values assessment contributes to BA's effectiveness was "currently unknown" at the time of writing.
 
-**Plain words** Two kinds of things can go on a schedule: what feels good now, and what you would be glad you did. The second kind is the one that still pays in a month. Name the value first (being a good parent, staying in shape), and the activity list writes itself.
+**Plain words** Two kinds of things can go on a schedule: what feels good now, and what serves something you have chosen to matter. Values do not guarantee the second kind works better; they tell you which activities to pick. Name the value first (being a good parent, staying in shape), and the activity list writes itself.
 
-*For example* Imagined: the volunteer shift is harder than an evening on the sofa would be, and somehow leaves you fuller, because it was pointed at something you actually care about.
+*For example* Imagined: someone whose stated value is being a good parent schedules time fixing a child's broken toy; the value picks the activity.
 
 ## Sources
 
