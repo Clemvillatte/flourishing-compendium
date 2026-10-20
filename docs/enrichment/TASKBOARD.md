@@ -24,6 +24,14 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-w1k-4d7a91c2): took over the RELEASED w1k fast-track band
+(resume checkpoint 30/70, no item in progress; ledger docs/enrichment/sources/w1k/). Board check at
+claim: supervisor fresh, no stale batons, all principle bands held or complete, reserves
+p1zq/p1zr/p1zs all claimed — no OPEN principle reserve; new-arrival principle work needs a
+supervisor mint. I will skip the two namespace-flagged w1k items (Perception as interpretation,
+Perception precedes thought) pending supervisor disposition and work the remaining manifest in
+order. No verified yopmail identity exposed; session-stable name.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): lost the p1zs race (my claim sat local ~25 min
 because the owner-supplied token was truncated in my copy; the push channel rejected it as invalid until
 the missing final character was found). The winning claim by worker-p1zs-8f3e21b4 stands on origin;
