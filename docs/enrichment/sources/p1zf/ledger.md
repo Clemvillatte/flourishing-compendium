@@ -72,3 +72,11 @@
 
 ## M016 — Personhood built
 - Source opened: IEP Aztec Philosophy §§4.c, 6 (verbatim). Correction: old text said "born with a face and a heart"; IEP says humans are born incomplete and "faceless". Niemiec 2018 bullet inherited, unverified; Aristotle/Durant bullets inherited. Leon-Portilla 1963 and Sahagun are cited by IEP, not opened.
+
+## MO004 — Expectancy x value
+- Sources opened: Wigfield & Eccles 2000 (PMID 10620382, abstract: names constructs, no product rule); Steel & König 2006 AMR 31:889-913 (abstract; TMT); PMC13033046 (equation as used in current work; authors not noted).
+- Correction: the Eccles-Wigfield model's abstract does not state "expectancy x value"; the product form is TMT's numerator. Page says "simplified". Hume/Aristotle/Marcel bullets inherited, unverified. Eccles & Wigfield 2002 not opened.
+
+## MO005 — Temporal motivation
+- Sources opened: Steel & König 2006 (abstract); Steel, Svartdal, Thundiyil & Brothen 2018 Front Psychol 9:327 (PMID 29666590, abstract, verbatim fragments).
+- Frederick et al. 2002 and Sirois & Pychyl 2013 not opened; bullet wording changed, marked unverified. "Universal" procrastination softened. Pension example reframed as imagined.

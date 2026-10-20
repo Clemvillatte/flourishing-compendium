@@ -12,16 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 5** — Recognise that motivation is temporal: delay reduces motivation
 
-Motivation is affected by time. Immediate rewards and consequences motivate more strongly than delayed ones. This is why procrastination (preferring immediate comfort over future benefit) is universal. Understanding the temporal structure of motivation allows you to design around it.
+Steel and König build delay into a formal model: motivation falls as the wait for an outcome grows and as impulsiveness rises ([Steel & König, 2006](https://journals.aom.org/doi/10.5465/AMR.2006.22527462)). A test by Steel and colleagues (2018) combined a longitudinal study with a large correlational sample (N = 7,400). The results were "largely consistent with temporal motivation theory": "People's pacing style reflects a hyperbolic curve", and procrastinators "are susceptible to proximity of temptation and to the temporal separation between their intention and the planned act" ([Steel et al., 2018, Frontiers in Psychology 9, 327](https://pubmed.ncbi.nlm.nih.gov/29666590/)). Procrastination was "related to intention-action gaps, but not intentions".
 
-**Plain words** Distance kills motivation — today's reward moves you; next year's is a rumour. The bridge is engineering: cut the distance with milestones, or move the reward forward. The calendar is the enemy; shrink it.
+That supports the page's two main points: delay weakens motivation, and procrastination is a timing problem more than a lack of intention. "Universal" overstates it, since the data show variation by person and by self-regulation skill.
 
-*For example:* The pension that motivates nobody at 25 — but the same money framed as "your first $10k saved" with a progress bar? Suddenly real. Same money, shorter distance.
+(Steel & König, 2006; Steel et al., 2018.)
+
+**Plain words** Rewards that are close pull harder than rewards that are far away. People who procrastinate usually mean to act and do not. Shortening the distance, with milestones or nearer rewards, is a reasonable response, though this study did not test those fixes.
+
+For example (imagined): saving for retirement feels abstract. A target of "first $10,000 saved" with a progress bar brings the reward closer.
+
+## Sources
+
+- Steel & König (2006), [Integrating Theories of Motivation](https://journals.aom.org/doi/10.5465/AMR.2006.22527462), abstract
+- Steel, Svartdal, Thundiyil & Brothen (2018), [Examining Procrastination Across Multiple Goal Stages](https://pubmed.ncbi.nlm.nih.gov/29666590/), abstract
+
 ## Psychology parallels
 
-- **[[Temporal discounting|Temporal discounting]]**, future rewards are discounted relative to immediate rewards (Frederick et al., 2002; Steel, 2007)
+- **[[Temporal discounting|Temporal discounting]]**, people's pacing reflects a hyperbolic curve (Steel et al., 2018); Frederick et al. (2002) not verified here
 - **[[Temporal motivation theory|Temporal motivation theory]]**, motivation decreases with delay and increases with immediacy (Steel & König, 2006)
-- **Procrastination as temporal failure**, procrastination is driven by preference for immediate mood repair over long-term goals (Sirois & Pychyl, 2013; Steel, 2007)
+- **Procrastination as temporal failure**, procrastinators are more susceptible to the proximity of temptation and to the gap between intention and the planned act (Steel et al., 2018); the mood-repair claim (Sirois & Pychyl, 2013) is not verified here
 
 ## Philosophy parallels
 
