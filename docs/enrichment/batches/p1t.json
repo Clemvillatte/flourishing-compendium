@@ -29,9 +29,10 @@
   "P096",
   "P097",
   "P102",
-  "D190"
+  "D190",
+  "P009"
  ],
- "in_progress": "P009",
+ "in_progress": null,
  "flagged": {
   "D190": "RESOLVED 2026-10-20: removed mode-of-access inference; shortened prose; exact Legge quotation independently fetched; awaiting closure QC",
   "P009": "Reopened for QC: QC correction: remove automatic reconstruction-to-knowledge claim and shorten prose",
@@ -39,6 +40,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 10,
- "updated": "2026-10-20T03:42:16+00:00",
+ "updated": "2026-10-20T03:43:08+00:00",
  "band_done": false
 }
