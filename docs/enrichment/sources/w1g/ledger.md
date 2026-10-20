@@ -660,3 +660,12 @@
   items (11-15): front-matter, inherited sections (Facets, Sources placeholders,
   wikilinks, cited-in lists) all preserved; changes are confined to body prose,
   blockquote, and added Sources lines.
+
+### Ledger correction (2026-10-20, advisor QC round 3b, mechanical)
+
+- The preservation note above is narrowed per advisor: protected structure
+  (front-matter, Facets, Sources placeholders, wikilinks, cited-in) was retained
+  on all five items; the James and Dewey seed Sources entries were EXPANDED into
+  cited entries rather than left literally unchanged.
+- The scholastic-contrast context sentence on The criterion of experience now
+  carries its own Gutenberg citation (advisor mechanical fix).
