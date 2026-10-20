@@ -937,3 +937,44 @@ pages. Continuing to CO009.
   (cited-in consistent). Inherited parallels (Wells 2009 book, Wells et al. 2010,
   Normann et al. 2014) unopened — flagged, not certified; parallels/practice sections
   untouched per protocol. No new reciprocal proposed (coverage adequate).
+
+### Closure QC round (2026-10-20, worker-p1h-9f42e6c7)
+
+- Advisor closure QC: CO040 and CO064 FAIL round 1; CO042 flagged (evidence gaps in
+  plain words); ledger accuracy corrections ordered. Repairs applied and re-validated
+  vs baseline cb1f4ce6^ (all four files ok):
+  - CO040: opening scoped to "the economic analyses discussed by" the authors
+    (was "economists assumed the reverse"); underwriting restored as a suggestion
+    ("a possible analogue", source: "Perhaps the setting closest in structure");
+    unverified page locator dropped (article-range citation only); plain words
+    re-derived through unequal information (predict-the-classmate exercise);
+    example replaced with the pipeline-terminology check.
+  - CO042: paragraph-2 inference labelled as the theory's account; plain words
+    rewritten to the verified three conditions (difficulty/novelty/motivation) —
+    removed "usually fine", "one thing at a time", "not for long" (not established
+    by the opened passages).
+  - CO064: paragraph 1 rewritten per the source (treatment modifies beliefs AND
+    changes responses to cognitive processes — false contrast removed);
+    "uncontrolled" restored to the effect-size claim; plain words and example
+    replaced with the advisor's versions (belief written separately from the worry;
+    exam example without the no-feared-event reasoning).
+- LEDGER CORRECTIONS (per advisor order): the CO040 entry's claim to have read
+  "Expert blind spot" and "TMI effect" was not performed — those concepts were
+  only named in the seed page's old plain words, which the rewrite removed; the
+  claim is retracted. The CO064 entry's "compendium typographic convention"
+  justification is retracted; the accurate record is: the source renders the inner
+  example beliefs in curly double quotes, the page uses straight single quotes,
+  and the words match exactly.
+- SATURATION SCANS (rg across content/, now actually run and recorded):
+  CO027 cited in 6 concept pages (Debiasing techniques, Cognitive biases, First
+  impressions bias, The fourth rule of method, Outside view reference class
+  forecasting, Cognitive bias modification theory); CO040 in 4 (Nonviolent
+  communication, Beginner's mind, The hermeneutic circle, Curse of knowledge);
+  CO042 in 6 (Right effort, Analytical Psychology, Unconscious thought theory,
+  Benefit finding, Expert intuition (Klein), Timing as wisdom); CO064 in 5
+  (Cognitive attentional syndrome Wells, Metacognitive model of anxiety and
+  depression (Wells), Worry theory cognitive avoidance Borkovec, Metacognitive
+  therapy (Wells), Belief as habit). Linked-concept reads actually performed this
+  round: Debiasing techniques (CO027), Curse of knowledge (CO040), Metacognitive
+  model of anxiety and depression (Wells) (CO064) — all consistent seeds with
+  correct cited-in lists; no new reciprocals proposed.

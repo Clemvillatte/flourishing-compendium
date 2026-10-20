@@ -11,17 +11,17 @@ navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognition", "chapter": "CO-S06 — LAYER VI — METACOGNITION, WISDOM, AND HIGHER-ORDER COGNITION", "parent": ""}
 ---
 > **Principle 64** — Recognise metacognitive beliefs: what you believe about your own thinking matters
-Adrian Wells's metacognitive model gives the principle its working content. Distress and dysfunction, on this account, are induced by a cognitive attentional syndrome: repetitive negative thinking in the form of worry and rumination, threat monitoring, and unhelpful coping styles. That syndrome is held to be under the control of metacognitions, beliefs about one's own thinking. The therapy therefore works on the beliefs rather than the thoughts themselves. ([Normann & Morina, 2018, Frontiers in Psychology 9:2211](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
+In Wells's metacognitive model, worry and rumination, threat monitoring, and unhelpful coping responses form a cognitive attentional syndrome. The model proposes that metacognitive beliefs sustain this pattern. The review describes treatment as both modifying those beliefs and changing responses to cognitive processes. ([Normann & Morina, 2018, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
 > "Positive metacognitions are beliefs about the need to engage in CAS activities, e.g., 'Worry helps me stay prepared,' whereas negative metacognitions are beliefs about the uncontrollability and dangerousness of thoughts and feelings, e.g., 'I have no control over my worry/rumination.'" (Normann & Morina, 2018, [Frontiers in Psychology 9:2211](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
-A 2018 meta-analysis reviewed 25 studies of metacognitive therapy, 15 of them randomized trials, and reported large reductions in the targeted complaints, in anxiety and depression, and in the dysfunctional metacognitions themselves from pre- to post-treatment. The reviewers' conclusion was that metacognitive therapy is an effective treatment for a range of psychological complaints. ([Normann & Morina, 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
+Normann and Morina reviewed 25 studies, including 15 randomized controlled trials. They reported that large uncontrolled pre-to-post effect-size estimates suggested reductions in symptoms and dysfunctional metacognitions. ([Normann & Morina, 2018, Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
 **Plain words**
-On Wells's model, the difference between a thought that passes and a thought that runs for hours is often a belief about it. One person believes her worry keeps her prepared, so stopping feels careless; another believes his worry is uncontrollable, so he stops trying to put it down. The compendium's exercise: write down one belief you hold about your own thinking, for example what your worry is for, and ask what evidence you have that it does that job.
+Having a worry and believing that worrying is useful are different things. You might value worrying because it seems to keep you prepared, or fear it because it seems uncontrollable. Wells's model asks how such beliefs affect your response to thoughts. For the compendium's exercise, write one worry on a line and your belief about worrying on the next. ([Normann & Morina, 2018, Introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6246690/))
 
 *For example:*
-As a hypothetical illustration, someone believes worrying about a relative's health is what keeps the relative safe. The exercise: name what you believe the worry is doing for you, and recall one occasion where the same worry ran and the feared event never arrived.
+Imagine worrying about an exam because you believe it keeps you prepared. Write that belief separately from your concrete preparation plan, then state what additional benefit you believe worrying provides.
 
 ## Sources
 
