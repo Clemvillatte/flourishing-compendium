@@ -7,7 +7,7 @@ file: "Parasympathetic activation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Parasympathetic activation names the engagement of the parasympathetic branch of the autonomic nervous system. The studies reviewed here concern cardiac parasympathetic involvement: they infer it from heart rate variability (HRV) and respiratory sinus arrhythmia (RSA), the speeding and slowing of the heart that follows the breath.
+Parasympathetic activation refers to activity in the parasympathetic division of the autonomic nervous system; this entry focuses on cardiac findings in slow-breathing research, discussed through heart rate variability (HRV) and respiratory sinus arrhythmia (RSA) ([Zaccaro et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/)).
 
 ### Slow breathing
 
@@ -25,7 +25,7 @@ Heart-rate-variability biofeedback (HRVB) is a procedure in which beat-by-beat h
 
 Lehrer and Gevirtz propose a baroreflex mechanism:
 
-> “The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor (Vaschillo et al., 2002, 2006; Lehrer et al., 2003).” ([Lehrer and Gevirtz, 2014, Front Psychol 5:756](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/), abstract)
+> “The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor (Vaschillo et al., 2002; Lehrer et al., 2003).” ([Lehrer and Gevirtz, 2014, Front Psychol 5:756](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/), abstract)
 
 ### In the compendium
 
