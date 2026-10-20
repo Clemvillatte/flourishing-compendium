@@ -521,3 +521,21 @@ opened text at the recorded URL.
   caveats. Inherited psychology parallel (Piliavin and Siegl 2007) and
   philosophy parallels preserved untouched and NOT verified this
   session.
+
+## Band-completion closure evidence (2026-10-20, items 16-18: P028, P061, P188)
+
+- Baseline preservation: all 18 worked pages validated with --base
+  b3a5516a: "18 checked, 0 failed", exit 0.
+- Linked-concept reads: the three final pages' targets extracted and
+  read in full — Cash value (33 lines, cites P028), Possible selves (36
+  lines, cites P061), Plain words over beautiful (31 lines, cites P188);
+  P028's [[P027]] principle link verified as the guess/verdict pairing
+  its Related-concepts note describes. All sit in untouched protected
+  sections; these reads establish the existing connections, not source
+  support for the inherited parallels (several targets are stubs).
+- Saturation scans: long-run (3 results, all inspected — P027/P028/
+  Pragmatism concept already interconnected), moral equivalent (3
+  results, all inspected — layer P-S08, P188, Plain words over beautiful
+  already interconnected), fully functioning (39 results generated; the
+  displayed subset inspected — A001/D001/ST139 ecosystem and incidental
+  hits; no exhaustive claim). No new reciprocal proposals warranted.
