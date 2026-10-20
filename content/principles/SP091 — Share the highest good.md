@@ -12,16 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 91** — Share the highest good
 
-Spinoza's most quoted line from the Emendation: the highest good is to be enjoyed together with others if possible; and Part IV confirms it with the demonstration that the good each rational person seeks for themselves, they seek for all. Understanding is not a private possession; it is structurally shareable, and it grows in the sharing. Practically, attach your practice to at least one other person's progress (a study partner, a mentee, a partner in the work), and let their progress count as yours.
+Spinoza's unfinished method-treatise opens with a private resolution that turns social at once. After describing the character he wants to attain, he adds:
 
-(Treatise on the Emendation of the Intellect, section 14; Ethics IV, P36-37.)
+> "it is part of my happiness to lend a helping hand, that many others may understand even as I do, so that their understanding and desire may entirely agree with my own." ([On the Improvement of the Understanding, §14, Elwes translation](https://www.gutenberg.org/ebooks/1016))
 
-**Plain words** The highest good is to be enjoyed together with others if possible — and the good each rational person seeks for themselves, they seek for all. Understanding is not a private estate; it's a commons. Share the highest good; the joy is built to be shared.
+The Ethics supplies the premise behind the resolution:
 
-*For example:* The person who learns something transformative and becomes a quiet evangelist for it — not from duty, from the structure: understanding wants company. The best teachers in your life were following Spinoza's line without knowing it.
+> "The good which every man, who follows after virtue, desires for himself he will also desire for other men, and so much the more, in proportion as he has a greater knowledge of God." ([Ethics IV, P37, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
+
+The compendium's application: attach your practice to at least one other person's progress, a study partner, a mentee or a colleague in the work, and let their progress count as yours.
+
+**Plain words** Some goods shrink when you share them, like a slice of cake. This one works like a language instead: it only functions when others speak it too. Spinoza's reasoning is that understanding makes you want the same understanding in other people, so sharing it is part of the project itself.
+
+*For example:* The person who learns something that changes how they think and starts explaining it to anyone who asks. The explaining completes the learning: the understanding only lives fully when it lives in more than one head.
 ## Psychology parallels
 
-- **[[Prosocial spending|Prosocial spending and shared goals]]**, the evidence that investing in others' well-being raises one's own (Dunn, Aknin and Norton, 2008)
+- **[[Prosocial spending|Prosocial spending and shared goals]]** (Dunn, Aknin and Norton, 2008)
 
 ## Philosophy parallels
 
