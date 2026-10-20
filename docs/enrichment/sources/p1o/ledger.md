@@ -439,3 +439,20 @@
   the seed's stable-job/pottery-studio scenario, reframed as the both-and
   draft with respects named. Peng and Nisbett 1999 tail reduced to bare
   wikilink (unopened). Validator ok before done.
+
+### P128 — Begin in conversation (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Addams, Twenty Years at Hull-House (1910), Gutenberg #1325,
+  downloaded and grepped — the 'never addressed a Chicago audience
+  without inviting a neighbor' passage verified verbatim. Dewey, The
+  Public and Its Problems (1927), full text via IA (item
+  publicitsproblem0000dewe, 1927 printing) — 'The man who wears the
+  shoe' and 'Till the Great Society is converted into a Great
+  Community... Communication can alone create a great community' verified
+  verbatim, Ch. IV.
+- Seed statement + locator removed (precedent); 'institution-building at
+  conversation scale' aphorism dropped from For example; Plain words
+  re-derived (kept the seed's 'politics by other means' line, now
+  grounded as the compendium's framing of PIP's eclipse passage); For
+  example kept on the seed's talking-rule scenario, grounded in the
+  wearer/expert arrangement. Woolley et al. 2010 and Weger et al. 2014
+  tails reduced to bare wikilinks (unopened). Validator ok before done.
