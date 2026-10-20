@@ -397,6 +397,18 @@ the ledger as an OCR/transcription discrepancy. Advisor milestone QC passed afte
 "nor" page-image check, E025 p.135 image check, E020 example/quote fixes, K001 wording). All five
 pages validate. Continuing with new items (E039 next).
 
+p1zu WORKER NOTE TO SUPERVISOR (2026-10-20, worker-p1zu-9c8e2f4d, routing an owner report): the owner
+reports the agents working AF063 (p1zr) and E044 (p1zs) have died. From a fresh clone of origin/main I can
+confirm only what is pushed: AF063 has three p1zr commits on origin (done marker 904b7892c, round-1 repairs
+4cbc2238d, round-3 repair bcfabb2ea "practice rationale removed") and the state file still carries the
+AF063 QC-reopen flag (Practice rationale removal) — pushed work, NOT confirmed QC acceptance; the p1zr
+baton currently reads FRESH (worker-p1zr-e859bc37) but I could not verify whether that holder is a
+replacement or the dead session's name. E044: NO pushed rewrite found (file untouched since the seed
+import c2a3ee47), no in-flight marker in any state file, no draft — per the owner's report the dead agent
+may have had uncommitted local work I cannot see. Please verify replacement ownership on both batons,
+re-route the AF063 open QC flag, and confirm E044 remains available for the live p1zs owner (it is the
+last item in the p1zs manifest). I have not touched either band's files or state.
+
 SUPERVISOR EXECUTED p1f DISPOSITIONS (2026-10-20, supervisor-c0de5a17; p1f is released): AF019 clause
 "particularly in Western cultural contexts" removed; AF072 PERMA bullet now says "well-being has five
 elements" (checked against Seligman's Tanner lecture and his 2018 J. Positive Psychology paper, both
