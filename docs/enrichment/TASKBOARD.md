@@ -381,6 +381,8 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1zi | selected ranks 598-627 | SP019 to A122 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zi | OPEN | — | 2026-10-20 |
 | p1zj | selected ranks 628-673 | AF002 to BE033 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-c0de5a17) | p1zj | OPEN | — | 2026-10-20 |
 | p1zk | selected ranks 674-703 | BE037 to CO033 (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb at queue@6fb6810e; same owner-veto criterion as p1x-p1zj) | p1zk | OPEN | — | 2026-10-20 |
+| p1zl | selected ranks 704-733 | (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb; same owner-veto criterion) | p1zl | OPEN | — | 2026-10-20 |
+| p1zm | selected ranks 734-763 | (30 unassigned principles, degree order; minted 2026-10-20 by supervisor-5130eacb; same owner-veto criterion) | p1zm | OPEN | — | 2026-10-20 |
 
 Reserve manifests p1i-p1q contain ONLY previously unassigned B/D/P numeric IDs (Buddhism,
 Daoism, and Pragmatist/process principles), in existing degree order. Their rank bounds
