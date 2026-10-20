@@ -7,7 +7,7 @@ file: "Group cohesion theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Group cohesion theory is the study of what holds a group together. The construct is usually traced to the sport-psychology tradition associated with Albert Carron, and a validation study of its standard instrument states the received definition:
+Group cohesion theory is the study of what holds a group together. A Croatian GEQ validation study presents Carron's sport-psychology model as follows:
 
 > "One of the most widely accepted definitions depicts the group cohesion as a dynamic process that is reflected in the tendency of the group to (1) maintain unity and uniqueness in the achieving goals and (2) satisfy members' emotional needs (Carron, Brawley, & Widmeyer, 1998)." (Glavaš et al., [Validation of the Group Environment Questionnaire in Croatian](https://www.ijsp-online.com/download/52/int.j.sport.psychol.2021.52.172-188.pdf), International Journal of Sport Psychology 52(2), 2021)
 

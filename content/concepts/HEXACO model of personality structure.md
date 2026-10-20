@@ -21,7 +21,7 @@ The authors read the H and A factors as two complementary aspects of reciprocal 
 
 ### In the compendium
 
-- [[E039 — Practise the choice of self]] — links this model from its Field line
+- [[E039 — Practise the choice of self]] — linked from this page's Field line
 
 ## Related concepts
 
