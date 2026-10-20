@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 419** — Practise the they (das Man)
 
-Recognise the pull of the "they" — the anonymous public opinion, the "one does this, one does not do that" that governs everyday life. The they is not a specific group of people but the impersonal mode of existence in which you conform to what is expected, without taking responsibility for your choices. Notice when you are living as "they" rather than as yourself.
+Heidegger insists that the "they" is nobody in particular. In Macquarrie and Robinson's translation: "The 'who' is not this one, not that one, not oneself [man selbst], not some people [einige], and not the sum of them all. The 'who' is the neuter, the 'they'" (Heidegger, 1927/1962, Being and Time, §27, H. 126; [M&R text](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.164.html)). It governs ordinary taste:
 
-(Heidegger, 1927/2008, Being and Time, §§25-27.)
+> "We take pleasure and enjoy ourselves as they take pleasure; we read, see, and judge about literature and art as they see and judge; likewise we shrink back from the 'great mass' as they shrink back; we find 'shocking' what they find shocking." (§27, H. 126-127, M&R p. 164)
 
-**Plain words** The "they" (das Man): the anonymous public opinion — "one does this, one doesn't do that" — that governs everyday life. Not a specific group of people; the impersonal mode of existence in which you conform without deciding. Ask regularly: is this my choice, or the "one's"?
+It also lifts responsibility off you: "It 'was' always the 'they' who did it, and yet it can be said that it has been 'no one'. [...] Thus the particular Dasein in its everydayness is disburdened by the 'they'." The cost is stated in one line: "Everyone is the other, and no one is himself" (§27, H. 127, M&R p. 165).
 
-*For example:* Someone's career, haircut, opinions, and weekend are all "what one does" — and the question that finally cracks it: "if nobody could see it, would I still want it?" Half the list dissolves on contact.
+The conclusion is not that you should escape the "they". Heidegger writes that "Authentic Being-one's-Self does not rest upon an exceptional condition of the subject, a condition that has been detached from the 'they'; it is rather an existentiell modification of the 'they'" (§27, H. 130). You start inside the shared world and change your relation to it.
+
+**Plain words**
+Much of what you like, fear and take for granted came from the people around you. Noticing this is not a reason to reject all of it. Ask of each habit or opinion: did I choose this, or did I pick it up because it is what one does? Then keep it on purpose or change it.
+
+**For example**
+You never questioned that a good career means a title and a rising salary. Ask whom you are copying. After thinking it over, you may keep the title as your own choice.
+
+## Sources
+
+- [Heidegger, Being and Time, trans. Macquarrie and Robinson (1962), §27 "Everyday Being-one's-Self and the 'They'", H. 126-130, full text PDF](https://static1.squarespace.com/static/5e265eb50aee2d7e8a81ae69/t/5ff90abe346f087732825582/1610156759396/Heidegger-Martin-Being-and-Time+-+Complete+Text.pdf): all quotations; page-by-page version at [beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.164.html) (opened and text-checked)
+
 ## Stories
 
 - [[ST266 — The Hammer Breaks|266. The Hammer Breaks]]

@@ -60,3 +60,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## MO010
 - Dantzer et al. 2008 Nat Rev Neurosci 9:46-56 (PMC full text, opened): 7 quotes grep-verified; authors confirmed via PubMed XML. Alhola & Polo-Kantola 2007 and Ratey & Loehr 2011: PubMed abstracts only; the body states they concern cognition, not motivation.
 - Limits: the principle's energy/health/food claims (e.g. glucose/ego-depletion) deliberately not asserted; ego-depletion literature is contested and was not opened.
+
+## E027
+- Heidegger, Being and Time, Macquarrie & Robinson (Squarespace full-text PDF, OCR; also beyng.com page-by-page, opened via search extract): quotations grep-verified against OCR text; first quote (with [man selbst] [einige]) verified against beyng.com extract. H./M&R page numbers from margin markers and SEP's citation 'BT 27: 164' (not from a physical copy). 
+- Limits: Owner's Stambaugh/other translation not used; example hypothetical.
