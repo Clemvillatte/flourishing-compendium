@@ -41,3 +41,19 @@ a principle reserve from the active supervisor.
   cross-band backlink proposed.
 - QC: source-text comparison and fast-track preservation validator required
   before done. Include in next independent milestone sample.
+
+## Focused-attention meditation
+
+- Track: fast-track, current degree 8 (1 concept and 7 principles).
+- Opened 2026-10-20: https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/ .
+  Lutz, Slagter, Dunne and Davidson (2008), DOI 10.1016/j.tics.2008.01.005.
+  Search: Lutz Slagter Dunne Davidson 2008 attention regulation monitoring meditation.
+- Locators: Box 1 and Table 1 for definition/procedure; paragraph after Table 1
+  for combined styles; Future directions for causal-inference limitations.
+- Quote: the complete Box 1 sentence beginning “To sustain this focus.”
+- Replaced blanket efficacy seed. Definition and research limitations only;
+  no inference of general improvement in everyday attention or clinical outcomes.
+  Tang 2015 and the series' attention kernels retained as inherited references,
+  not independently certified.
+- Saturation: fast-track exemption used. No reciprocal proposed.
+- QC: source comparison and validator before done; milestone advisor sample pending.
