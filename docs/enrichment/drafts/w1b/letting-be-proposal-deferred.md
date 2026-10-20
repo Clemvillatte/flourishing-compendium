@@ -12,3 +12,7 @@ The page's Related line now reads "another English rendering of Gelassenheit in 
 literature on Heidegger" (grounded in the Studia Heideggeriana snippet). The
 reciprocal proposal is withheld until the essay attribution is verified externally;
 do not re-add without that evidence.
+
+Update 2026-10-20: the page's Related-concepts line is now the bare wikilink
+"- [[Letting-be]]" with no gloss, per advisor instruction; the proposal remains
+deferred.

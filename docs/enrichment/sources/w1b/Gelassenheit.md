@@ -3,7 +3,7 @@
 First-item advisor QC (three rounds) on the predecessor's rewrite; all quotes and
 comparison clauses re-verified against freshly opened sources.
 
-## Primary sources opened
+## Sources consulted
 
 - SEP Meister Eckhart (https://plato.stanford.edu/entries/meister-eckhart/):
   "negative virtues"; "creaturely impulses"; "mine-ness" ("True freedom involves a
@@ -51,3 +51,17 @@ comparison clauses re-verified against freshly opened sources.
 
 - enrich_validate.py --base 7f54975f^ content/concepts/Gelassenheit.md — ok
   (re-run after each repair round; final run post-patch).
+
+## Mention saturation (2026-10-20, takeover session)
+
+- `enrich_find.py mention "Gelassenheit"` across the corpus: every citing principle
+  (AT005, AT043, AT048, B044, B060, B090, D003, D013, D046, D047, D055, D099, S055,
+  E102) already wikilinks the concept; Letting-be, Non-attachment and the concept
+  pages that mention E102 reference the principle, not the concept term unlinked.
+  No unlinked plain-text uses of the concept term found. No additional proposals
+  warranted.
+
+## QC acceptance
+
+- Advisor final recheck PASS (three repair rounds; scoped to the reviewed passages
+  and relationship clauses; not an independent audit of every sentence).

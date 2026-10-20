@@ -40,7 +40,7 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 ## Related concepts
 
 - [[Wu wei]] — the Daoist ideal of effortless, unforced activity; a cross-tradition parallel, not a historical link.
-- [[Letting-be]] — another English rendering of Gelassenheit in the literature on Heidegger.
+- [[Letting-be]]
 - [[Non-attachment]] — the compendium's comparison: Buddhist clinging (upādāna) beside Eckhart's letting go of attachment to one's actions.
 - [[Apatheia]] — the Stoic freedom from passion; the Encyclopedia calls Eckhart's negative virtues Stoic-sounding.
 - [[Beginner's mind]] — meeting experience free of the habits of the expert; the compendium pairs it with Heidegger's waiting.
