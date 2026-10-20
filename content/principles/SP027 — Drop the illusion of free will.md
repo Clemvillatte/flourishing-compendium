@@ -12,13 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 27** — Drop the illusion of free will
 
-Men believe themselves free, Spinoza writes, because they are conscious of their volitions and ignorant of the causes that determine them. The belief in a free, uncaused will is not a harmless vanity; it is the foundation of the revenge system, of the belief that people deserve suffering for what they did. Spinoza's determinism is the deepest compassion machine in his system: understanding causation replaces the entire apparatus of blame with the entire apparatus of remedy. Practically, keep both halves: responsibility as a working concept for conduct, causation as the true account for understanding.
+Spinoza separates being conscious of a desire from understanding why it arose ([Ethics I, Appendix](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). He argues that people mistake ignorance of the causes of their actions for freedom ([Ethics II, P35, note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The practical exercise below uses that distinction to examine the circumstances of an action.
 
-(Ethics II, P35 scholium; III, P2 scholium.)
+> For instance, men are mistaken in thinking themselves free; their opinion is made up of consciousness of their own actions, and ignorance of the causes by which they are conditioned.
+>
+> Spinoza, Ethics II, Proposition XXXV, note, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
-**Plain words** Men believe themselves free because they're conscious of their volitions and ignorant of the causes that determine them. The free-will belief isn't harmless: it's the foundation of the revenge system — punishing people as if they were uncaused causes. Drop the illusion; keep the responsibility.
+(Ethics I, Appendix; II, P35 note; Elwes translation.)
 
-*For example:* The parent who rages at the "choice" of the addicted child as if it were made freely in a vacuum — and the treatment centre's framing: determined appetite, treatable causes. The rage was always a metaphysical error wearing a moral costume.
+### Plain words
+
+For an exercise, recall a decision you regret. What did you want at the time? What else was happening? Use those questions to identify something you could do differently in a similar situation.
+
+For example: You send a sharp email while rushing to meet a deadline. Consider whether time pressure played a part, then decide how to repair the exchange. You might apologise and set aside time to answer the next difficult message.
 ## Psychology parallels
 
 - **Unconscious determination of choice**, the experimental literature on post-hoc rationalization of action (Wegner, 2002, The Illusion of Conscious Will; Bargh's automaticity research)
