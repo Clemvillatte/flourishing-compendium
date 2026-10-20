@@ -12,17 +12,17 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 172** — Value silence
 
-MN 122 frames silence as a decision about talk and company. The Buddha tells Ananda that a monk who delights in company cannot expect the pleasure of seclusion, and describes a monk dwelling in internal emptiness who, when visitors come, speaks with them only as much as is needed for them to go. The same passage puts a fence around speech itself ([MN 122, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html)):
+MN 122 frames silence as a decision about talk and company. The Buddha tells Ananda that a monk who delights in company cannot obtain at will, without difficulty or trouble, the pleasure of seclusion, and describes a monk dwelling in internal emptiness who, when visitors come, converses with them only as much as is necessary for them to take their leave. The same passage puts a fence around speech itself ([MN 122, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html)):
 
-> If, while he is dwelling by means of this dwelling, his mind inclines to speaking, he resolves that 'I will not engage in talk that is base, vulgar, common, ignoble, unbeneficial, that does not lead to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening, or Unbinding.'
+> If, while he is dwelling by means of this dwelling, his mind inclines to speaking, he resolves that 'I will not engage in talk that is base, vulgar, common, ignoble, unbeneficial, that does not lead to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening, or Unbinding ...'
 
-(MN 122, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html).)
+(MN 122, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html); abridged, the passage continues with a list of the kinds of talk meant.)
 
-The instruction cuts one way, not both: the monk also resolves to engage in talk that is scrupulous and leads to release. Silence here is not a vow of muteness; it is a budget. Speech is spent on what matters and withheld from what merely fills air. The principle's own line, that silence is where the noise becomes audible, is a report you can test rather than a doctrine: much of the mind's chatter is normally drowned out by speech and input.
+The instruction cuts one way, not both: the monk also resolves to engage in talk that is scrupulous, conducive to release of awareness, and leads to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening and Unbinding. The passage sorts talk by where it leads rather than forbidding speech.
 
-**Plain words** Pick a stretch of ordinary time and take the input away: no radio in the car, no podcast on the walk, no phone while the kettle boils. The first minutes are usually twitchy. That is the point of the exercise. The twitching is the noise the principle refers to, and you cannot hear it while anything louder is playing. If ten minutes in you want to talk to someone, talk. The practice is the noticing, not the abstinence.
+**Plain words** Before speaking, ask whether what you are about to say serves a purpose. The compendium suggests sometimes leaving a pause unfilled. You can still answer someone who needs your attention.
 
-*For example:* Imagine a commuter who drives the same route daily with talk radio on. One day the radio is broken. For the first ten minutes her hand keeps reaching for the volume dial, and she notices she has no idea what she usually thinks about during this drive. That discovery is the whole yield of the exercise; nothing about the drive itself has changed.
+*For example:* Imagine overhearing a rumour about a colleague and feeling the pull to pass it on. You decide not to start that conversation, and when someone later asks you a practical question about the shared project, you answer it directly.
 
 ## Psychology parallels
 
