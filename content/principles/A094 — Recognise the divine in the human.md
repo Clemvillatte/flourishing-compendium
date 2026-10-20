@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 94** — Recognise the divine in the human
 
-Aristotle says that the intellect is divine, or the most divine part of us. Contemplation is the activity through which we participate in the divine. This does not require religious belief; it is the recognition that the capacity for truth and understanding is the highest thing in us. Honour that capacity.
+Aristotle is careful with the claim even while making it. Whether reason is itself divine or "only the most divine element in us," the activity of it "in accordance with its proper virtue will be perfect happiness" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). "If reason is divine, then, in comparison with man, the life according to it is divine in comparison with human life" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). And the instruction follows: "we must not follow those who advise us, being men, to think of human things... but must, so far as we can, make ourselves immortal" ([NE X.7](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). The compendium's note: nothing in the passage requires a religious creed; the claim is about the status of the capacity for truth.
 
-(NE X.7, X.8.)
+> If reason is divine, then, in comparison with man, the life according to it is divine in comparison with human life.
+>
+> Aristotle, Nicomachean Ethics X.7, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html).
 
-**Plain words** Aristotle calls intellect the divine part of us. Using it is how we share in the divine. You don't need religion for that. It's recognising that our capacity for truth and understanding is the best thing in us.
+> But we must not follow those who advise us, being men, to think of human things, and, being mortal, of mortal things, but must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us; for even if it be small in bulk, much more does it in power and worth surpass everything.
+>
+> Aristotle, Nicomachean Ethics X.7, continued, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.10.x.html).
 
-*For example:* The moment you finally understand a hard proof, or why a piece of music works, you feel something larger than yourself.
+(NE X.7; Ross translation.)
+
+### Plain words
+
+The claim is about rank: reason is the best thing in us, small in bulk, ahead of everything in power and worth. The instruction is to live in accordance with it as far as possible. For an exercise, take the last hour that went to something demanding and ask whether it went to the best thing in you or merely the loudest.
+
+For example: the hour spent finally understanding a hard proof, or why a piece of music works, is the kind of hour the passage ranks highest. (An invented illustration.)
 
 ## Stories
 
