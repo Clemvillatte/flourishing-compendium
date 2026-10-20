@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 65** — Act from strength, not from fear
 
-The free person avoids danger, but not from fear, and when afraid, still does the rational thing. Fear-motivated behavior is behavior whose motive disappears with the threat, which is why fear-built orders decay. The distinction matters most in self-command: the person who is honest to avoid punishment is honest only as long as the punisher watches. Practically, for each rule you keep, know whether you keep it from fear or from strength, and convert at least one fear-kept rule per season into a strength-kept one.
+> He who is led by fear, and does good in order to escape evil, is not led by reason.
 
-(Ethics IV, P63 with its corollary and note.)
+(Spinoza, Ethics, Part IV, Proposition 63, trans. R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/ebooks/3800).)
 
-**Plain words** Watch what happens to a habit when the pressure behind it disappears. The student who studies only because exams loom stops opening the books the day after the last exam. The person who is honest because lying would cost them keeps being honest when nobody is checking, because the motive was never the danger. That is Spinoza's test, and it is architectural: fear holds behaviour up from outside, strength holds it up from inside, and outside supports are the first to rot. Ask of any rule you keep: if the punisher, the deadline or the audience vanished tomorrow, would the rule stay? Where the answer is no, the behaviour is rented, not owned, and the work is to move at least one such rule onto foundations that survive the threat.
+The Corollary draws the contrast: "Under desire which springs from reason, we seek good directly, and shun evil indirectly." The Note illustrates it with a sick man and a healthy one: "The sick man through fear of death eats what he naturally shrinks from, but the healthy man takes pleasure in his food, and thus gets a better enjoyment out of life, than if he were in fear of death, and desired directly to avoid it."
 
-*For example:* Two organisations with security policies: one built from fear of the last breach (abandoned when the memory fades), one built from strength (this is who we are). Five years on, one policy is still running. Same documents; different foundations.
+The entry's first sentence, that the free person avoids danger but not from fear, fits Proposition 69: "The virtue of a free man is seen to be as great, when it declines dangers, as when it overcomes them." The proof of Proposition 73 states that "The man, who is guided by reason, does not obey through fear (IV. lxiii.)."
+
+The claims that fear-built orders decay, that the honest-from-fear person is honest only while watched, and the practice of converting one fear-kept rule per season are the entry's own developments. They are consistent with this teaching but are not stated in these passages. The Higgins, Plato and 1 John parallels were not opened.
+
+**Plain words** Spinoza says that doing good only to escape something bad is not acting from reason. A rule kept out of fear lasts as long as the threat does. Ask of any rule you keep: if the deadline or the person watching vanished tomorrow, would I still keep it?
+
+*For example (imagined):* Two organisations adopt a security policy. One does it after a breach, and the rule is easy to drop once the memory fades. The other adopts it as part of how it works, so no fear is needed to keep it.
+
+## Sources
+
+- [Spinoza, Ethics (trans. R. H. M. Elwes), Project Gutenberg #3800](https://www.gutenberg.org/ebooks/3800) — full text read; Part IV Props. 63, 69, 73
+
 ## Psychology parallels
 
 - **[[Approach versus avoidance motivation|Approach versus avoidance motivation]]**, the different trajectories of promotion and prevention goals (Higgins, 1997, the regulatory-focus framework)
