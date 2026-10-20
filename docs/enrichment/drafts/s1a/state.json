@@ -322,15 +322,20 @@
    ]
   },
   "s1a-014": {
-   "status": "researching",
+   "status": "drafting",
    "angle": "B026: Meghiya finds that the right grove and eagerness do not replace conditions for directing effort; complete Ud4.1 arc",
    "history": [
     {
      "t": "2026-10-20T14:27:10+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-20T14:28:00+00:00",
+     "to": "drafting",
+     "note": "Complete Ud4.1 arc drafted; four additional practices not conflated with four efforts"
     }
    ]
   }
  },
- "updated": "2026-10-20T14:27:10+00:00"
+ "updated": "2026-10-20T14:28:00+00:00"
 }
