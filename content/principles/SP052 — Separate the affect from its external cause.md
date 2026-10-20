@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 52** — Separate the affect from its external cause
 
-The first specific remedy of Part V: the mind's power over the affects consists first in detaching the emotion from the thought of the external cause and attending to the emotion itself, stripped of its story. The love, the grievance, the fear are yours; the cause you attribute them to is a hypothesis. Practically, when an affect is stuck, run the separation explicitly: describe the bodily feeling and the impulse in one sentence, without naming the person or event, and notice how much of the storm was attribution.
+The first specific remedy of Part V. In Elwes's translation: "If we remove a disturbance of the spirit, or emotion, from the thought of an external cause, and unite it to other thoughts, then will the love or hatred towards that external cause, and also the vacillations of spirit which arise from these emotions, be destroyed." ([Ethics V, P2](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)) The proof is brief: love and hatred are pleasure or pain "accompanied by the idea of an external cause"; remove the cause from the thought and the emotion's reality is "removed with it." ([Ethics V, P2 proof](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-(Ethics V, P2.)
+When an affect is stuck, run the separation explicitly: describe the bodily feeling and the impulse in one sentence, without naming the person or event, and notice how much of the storm was attribution.
 
-**Plain words** The first specific remedy: detach the emotion from the thought of the external cause, and attend to the emotion itself, stripped of its story. The love, the grievance, the fear — look at the feeling, not the plot. The story feeds the passion; the bare feeling can be handled.
+**Plain words** An emotion usually arrives glued to a story about who or what caused it. Spinoza's remedy: unglue them. Feel the feeling without the plot, and the feeling loses its grip.
 
-*For example:* The person rehearsing the ex's betrayal for the hundredth time — and the exercise that finally works: drop the plot, feel just the feeling. It's smaller without its story. The grievance was the movie; the emotion alone is weather.
+*For example:* You rehearse the same grievance for the hundredth time. Try describing the sensation — tight chest, heat in the face, the urge to send the message — without saying who did what. The storm shrinks when the story goes.
 ## Psychology parallels
 
 - **[[Decentering|Decentering]]**, the capacity to observe thoughts and feelings as events rather than as the world (Bernstein et al., 2015)
