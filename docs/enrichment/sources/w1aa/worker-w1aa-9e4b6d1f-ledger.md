@@ -172,3 +172,11 @@
 - Related concepts: Actor-networks (deg 1), descriptive clause. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 23).
+
+## Grief's oscillation model
+
+- Fast-track degree 1 (sole edge: M038 psychology-parallels entry).
+- Opened source: Stroebe and Schut 1999, "The Dual Process Model of Coping with Bereavement: Rationale and Description", Death Studies 23(3):197-224 (open full-text PDF). Verified verbatim: the abstract oscillation sentence (blockquote); the oscillation-definition sentence; the confronted-by-loss/avoid-memories sentence; loss- and restoration-orientation definitions (paraphrased from the paper's own wording).
+- Related concepts: Continuing bonds (deg 2). No reciprocal proposed.
+- Saturation: fast-track skip.
+- No advisor QC required (item 24).
