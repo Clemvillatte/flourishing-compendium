@@ -49,6 +49,16 @@
       "into": "CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind",
       "link": "SE009 — Know that self-knowledge is limited — introspection is fallible",
       "why": "Both pages ground themselves in Nisbett and Wilson's 1977 review: CO077 gives the cognitive mechanics (confabulated reports, choice blindness), while SE009 draws the self-knowledge consequences (treat your reasons as hypotheses; ask people who watched you) — the cross-reference connects the mechanism to its practice."
+    },
+    {
+      "into": "AF066 — Cultivate self-compassion — treat yourself as you would a good friend",
+      "link": "SE012 — Understand that the self is not the enemy — self-relation is a skill",
+      "why": "SE012's grounded definition (Neff 2003) gives readers the construct behind AF066's practice."
+    },
+    {
+      "into": "K162 — Self-compassion practice",
+      "link": "SE012 — Understand that the self is not the enemy — self-relation is a skill",
+      "why": "K162's exercise rehearses the component swaps SE012 defines; a link connects the definition to the drill."
     }
   ],
   "inline": [
@@ -58,5 +68,5 @@
       "phrase": "performing one's roles well"
     }
   ],
-  "notes": "p1x proposals (worker-w1l-d2a91f7c), from R129 enrichment. Reciprocal only; target verified to lack any R129 link (seed page cites only R130). | S029: inline into K284 (kernel names the principle in plain text, unlinked; verified in mention scan)."
+  "notes": "SE012: Neff 2003 abstract (publisher page) opened; three-component definition quoted p. 85; plain words re-derived from the quote; For example relabelled Imagine; Sources section added (no seed line existed)."
 }
