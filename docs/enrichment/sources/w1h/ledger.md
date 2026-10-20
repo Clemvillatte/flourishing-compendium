@@ -313,3 +313,11 @@
   focus theory attribution unresolved (zoom lens as related model); abstract-level
   evidence for Hanley 2003, Eriksen 1986, Strecher 1995, Swann 2021; Baer 1968
   citation-only; Adler via archive.org full text (OCR caveat noted).
+
+## Inflammatory theory of depression (Dantzer, Miller) (fast-track)
+- Opened: PubMed 18073775 (Dantzer et al. 2008, NRN 9, 46-56) — cytokine-to-brain
+  chain quoted verbatim; PubMed 26711676 (Miller & Raison 2016, NRI 16, 22-34) —
+  modern-times sentence quoted verbatim; evolutionary framing, mechanisms,
+  treatment-target sentence from the same abstracts.
+- Vulnerability qualifier kept (Dantzer's "in vulnerable individuals"); no
+  unconditional causal claim; abstract-level scope.
