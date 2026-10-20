@@ -18,7 +18,7 @@
   "S076",
   "S078"
  ],
- "in_progress": null,
+ "in_progress": "S081",
  "flagged": {
   "S039": "Reopened for QC: milestone QC repairs applied",
   "S043": "Reopened for QC: milestone QC repairs applied",
@@ -36,6 +36,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 13,
- "updated": "2026-10-20T16:12:35+00:00",
+ "updated": "2026-10-20T16:12:39+00:00",
  "band_done": false
 }
