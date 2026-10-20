@@ -25,3 +25,10 @@
 - Broken seed repaired: the hub body carried "Mentioned in 5 principles" followed by a dash row with no links (no original wikilinks existed to lose). Cited-in list rebuilt from a full grep of principles whose body text explicitly mentions karma: B005, B088, K051, AT055, P192, BE002 (six; the old "5" count was stale; Y-band and AT023 mentions are karma-YOGA references, not the concept, and are covered by the Karma yoga concept page).
 - Related concepts all exist (Karma yoga, Nishkama karma, Habit, Dependent origination, Right intention, Action over intention); five backlink reciprocals proposed in proposals/w1aa.json (Action over intention already links Karma).
 - No advisor QC required (item 3; cadence is first item and every 5th).
+
+## Explore-exploit trade-off research
+
+- Fast-track degree 1 (sole edge: P054 psychology-parallels entry).
+- Opened source: full-text PDF of Cohen, McClure and Yu 2007 (Phil Trans R Soc B 362: 933-942, worthylab.org copy) — the factors sentence (p. 933) verified verbatim; no-general-optimal-solution, expected/unexpected uncertainty (p. 936), LC-NE phasic/tonic findings (pp. 933, 937) verified against the opened text; PubMed record PMID 17395573 opened for bibliographic confirmation.
+- Saturation: fast-track skip; three existing concepts linked with descriptive clauses (Temporal-difference reinforcement learning, Uncertainty tolerance, Novelty seeking without commitment — existence checked). No reciprocal proposed (no obviously missing backlink checked as missing; P054 already links the concept).
+- No advisor QC required (item 4; cadence is first item and every 5th).
