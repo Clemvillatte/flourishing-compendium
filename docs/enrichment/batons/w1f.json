@@ -1,7 +1,7 @@
 {
  "baton": "w1f",
- "agent": "supervisor-36b57e93",
- "clocked_in": "2026-10-20T05:18:14+00:00",
+ "agent": "worker-w1a-e54f7981",
+ "clocked_in": "2026-10-20T06:11:44+00:00",
  "takeovers": [
   {
    "by": "supervisor-36b57e93",
@@ -14,6 +14,12 @@
    "at": "2026-10-20T05:16:18+00:00",
    "from": "supervisor-36b57e93",
    "reason": "stale (32 min)"
+  },
+  {
+   "by": "worker-w1a-e54f7981",
+   "at": "2026-10-20T06:11:44+00:00",
+   "from": "supervisor-36b57e93",
+   "reason": "stale (54 min)"
   }
  ],
  "released": false
