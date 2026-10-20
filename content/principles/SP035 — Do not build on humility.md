@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 35** — Do not build on humility
 
-Spinoza defines humility as "pain arising from a man's contemplation of his own weakness of body or mind" ([Ethics III, Definitions of the Emotions, XXVI](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)) and denies it the status of virtue: "Humility is not a virtue, or does not arise from reason" ([Ethics IV, P53](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). Yet the note to IV P54 adds a concession: since people "seldom live under the guidance of reason," humility and repentance "bring more good than harm" for those ruled by emotion ([Ethics IV, P54 note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The compendium's reading of the pair: scaffolding for some lives, not the building.
+Spinoza defines humility as "pain arising from a man's contemplation of his own weakness of body or mind" ([Ethics III, Definitions of the Emotions, XXVI](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)) and denies it the status of virtue: "Humility is not a virtue, or does not arise from reason" ([Ethics IV, P53](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). Yet the note to IV P54 adds a concession: since people "seldom live under the guidance of reason," humility and repentance "bring more good than harm" for those ruled by emotion ([Ethics IV, P54 note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The compendium's reading of the pair: scaffolding for some lives, not the building ([Ethics IV, P53 and P54 note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)).
 
 > Humility is pain arising from a man's contemplation of his own weakness of body or mind.
 >
@@ -30,7 +30,7 @@ Spinoza defines humility as "pain arising from a man's contemplation of his own 
 
 ### Plain words
 
-On the definition, humility is a technical term: pain from contemplating one's own weakness. It is not the same as an accurate description of a limitation, which can be made without pain. For an exercise, describe something you are middling at plainly, as if reporting a fact, and notice the difference from wincing at it.
+On the definition, humility is a technical term: pain from contemplating one's own weakness ([Definitions of the Emotions, XXVI](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). It is not the same as an accurate description of a limitation, which can be made without pain. For an exercise, describe something you are middling at plainly, as if reporting a fact, and notice the difference from wincing at it.
 
 For example: Asked about a skill you have not used in years, you might say "I last did this five years ago and was never quick at it" — a description of a limitation, offered without either boasting or wincing. Whether that description counts as humility is a separate question the definition marks. (An invented illustration.)
 ## Psychology parallels
