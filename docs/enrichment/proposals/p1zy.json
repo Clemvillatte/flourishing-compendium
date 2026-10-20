@@ -1,12 +1,18 @@
 {
  "batch": "p1zy",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Samskara",
    "link": "Y024",
    "why": "its account of recurring ideas from previous impressions matches this principle's description of interval recurrences",
    "notes": "Samskara's Cited in philosophy parallels section is empty; body (opened this session) names latent impressions that resurface. Y024 quotes Woods YS 2.4/4.27-4.28 on dormancy and intervals. DAH reciprocal dropped pending opened evidence (advisor QC round 1)."
+  },
+  {
+   "into": "Simplicity as practice",
+   "link": "Y032",
+   "why": "aparigraha's refusal to appropriate objects whose keeping is a disadvantage is the Yoga-Vedanta form of this ongoing discipline",
+   "notes": "Simplicity as practice page (opened this session) cites D034/B174/AT064/X013/AT029/CO032/AT039 but not Y032; grounded in the target's own body and Y032's Woods Vyasa quote."
   }
  ],
  "inline": [],
