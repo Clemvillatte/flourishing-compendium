@@ -238,3 +238,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: all matched fetched pages.
 - Seed repairs: the text defines the wise worker; "rest as inner weather" and the weekly restful action are labelled as the page's own. Csikszentmihalyi and Laozi not opened.
 - Saturation: low.
+
+## Y123 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: holy-bhagavad-gita.org (Mukundananda) BG 13.7 and 13.8-12.
+- Quotes verified: the full list quoted verbatim; matched fetched page.
+- Seed repairs: locator corrected from 13.7-13.11 to 13.8-12 (13.7 is the field). Text calls the list "knowledge", includes solitude and self-directed items, so "explicitly social" and "most clauses relational" were over-claims; relational-curriculum reading and weekly practice labelled as the page's own. Weekly-review and Zengzi parallels not opened.
+- Saturation: low; other translations enumerate the items differently (20 items in some).
