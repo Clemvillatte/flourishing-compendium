@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -79,6 +79,12 @@
    "link": "BE075",
    "why": "the sleep and activity evidence behind this principle is ageing-science context for cognitive ageing",
    "notes": "Evidence in sources/p1zk/BE075.md (Ohayon 2004, Lin 2020, both opened). Concept already cites BE075."
+  },
+  {
+   "into": "Sleep architecture (Walker)",
+   "link": "BI014",
+   "why": "the NINDS cycle description and Rasch-Born memory mechanism behind this principle",
+   "notes": "Evidence in sources/p1zk/BI014.md (NINDS Brain Basics, Rasch & Born 2013, both opened). Concept already cites BI014."
   }
  ],
  "inline": []
