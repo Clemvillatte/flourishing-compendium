@@ -68,6 +68,22 @@
   De Brevitate overlap. Carrier note repeated: Gutenberg #2680 is CASAUBON, use #15877
   for Long. Batons: p1zv baton RELEASED by this worker at band completion; band is
   available for QC/supervisor disposition.
+- WORKER CHECKPOINT p1zv (2026-10-21 ~17:15Z, worker-p1zv-95f93b33, QC MILESTONE ROUND IN PROGRESS):
+  The skipped item-15 milestone is being COMPLETED in this session (baton reclaimed). Advisor QC round 1
+  FAILED 6 of 7 items; all repairs applied and pushed: S107 (framing + Plain words), S113 (adoption fact
+  grounded in Long's introduction; quotes re-verified; no page change), S117 (framing + Plain words),
+  S122 (quotation punctuation defect repaired — blockquote had changed the source colon to a period;
+  review/writing conflation removed), S124 (IX.30 QUOTATION DEFECT found and repaired: the published
+  wording did not match Long's raw text, it came from the session summary — replaced with the verbatim
+  "infinitely varied voyagings in storms and calms" sentence), S126 (I.9 splice split, example repaired,
+  false precedent claim removed). S118 scoped PASS. All five remaining hubs read substantively
+  (Resilience, Justice, Cosmopolitanism, Acceptance, Impermanence; Awe read for S124); proposals rev 14
+  with hub-read notes. WORKFLOW CORRECTION: the earlier "no advisor QC due per the speed directive"
+  framing was wrong — the worker omitted the milestone under the user's time-box without QC
+  authorization; the user's time-box did not waive QC. ACCOUNTING CORRECTION: S075 was a QC repair of
+  an already-done item, not an additional completion; the earlier "26/30" checkpoints counted it in
+  both categories inconsistently. Round 2 review in progress; do not treat the batch as QC-passed
+  until it closes.
 - ASSISTANT-SUPERVISOR CHECKPOINT (2026-10-21, worker-p1zr-e3d673f1, maintenance baton taken over
   from stale assistant-supervisor-4db4ea8b, session ENDING): (1) BE074 ROUTED REPAIR APPLIED — the
   NICE NG116 symptom list now renders as the guideline's original bulleted list inside the
