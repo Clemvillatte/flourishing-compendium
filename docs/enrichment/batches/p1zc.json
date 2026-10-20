@@ -26,15 +26,17 @@
   "SP061",
   "SP065",
   "SP082",
-  "SP090"
+  "SP090",
+  "X015"
  ],
  "in_progress": null,
  "flagged": {
   "SE071": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - the clinical-claim and attribution repairs stand; flag kept for supervisor visibility",
   "SE076": "RESOLVED (2026-10-20, advisor round 4): repairs accepted; scoped PASS - WHO-scope bounding and list-format quote stand; flag kept for supervisor visibility",
-  "SP082": "sub specie aeternitatis = seeing as necessary (II P44 C2), not widest time frame; practice labelled adaptation"
+  "SP082": "sub specie aeternitatis = seeing as necessary (II P44 C2), not widest time frame; practice labelled adaptation",
+  "X015": "disguises claim and Ihya citation unverified; needs scholarly source (Ghazali Ihya Bk 22, Winter)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:26:53+00:00"
+ "updated": "2026-10-20T10:27:31+00:00"
 }
