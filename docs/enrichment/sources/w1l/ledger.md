@@ -301,3 +301,29 @@ to the supervisor (content passed review).
   validation article's description of the DAP-R.
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok.
+
+## Delay plus reappraisal
+
+- Track: fast-track, current degree 5 (3 principles + 1 section + 1 story).
+  Start transition recorded before research.
+- Opened: https://pmc.ncbi.nlm.nih.gov/articles/PMC11423774/ (Isaacowitz &
+  Wolfe 2024, Emotion Review), fetched 2026-10-20. The Gross 2015 original
+  (Psychological Inquiry 26(1):130-137) was NOT opened directly; the
+  blockquote is the fetched page's verbatim quotation of Gross (2015, p. 15),
+  cited as such on the page.
+- Quotations, copied from the fetched page: the Gross (2015, p. 15) tactics
+  passage (blockquote); five-families list ("situation selection, situation
+  modification, attention deployment, cognitive change and response
+  modulation") paraphrased in prose; three-stage definition read for
+  context.
+- The compendium's label is editorial: "delay plus reappraisal" is not a
+  named construct in the fetched literature; the page says so and grounds
+  the two steps in the model (reappraisal = cognitive change family; delay
+  = tactic-level move). Stoic pairing described as the wiki's own
+  connection, not a historical claim.
+- Related concepts verified to exist: Extended process model of emotion
+  regulation (deg 11), Cognitive reappraisal (deg 38), Anger (deg 6).
+- Limits: no Seneca/De Ira source opened this session; ST205 linked as the
+  seed had it, without quoting Seneca.
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok.
