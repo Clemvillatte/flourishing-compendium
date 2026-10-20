@@ -11,22 +11,22 @@
   "R025",
   "PP075",
   "R021",
-  "R042",
   "R061",
   "R070",
   "R028",
   "R040"
  ],
- "in_progress": null,
+ "in_progress": "R042",
  "flagged": {
   "PP016": "Reopened for QC: QC correction (first-item advisor review FAIL): symptom-claim wording, quote moved to blockquote, plain words/example replaced, Frankl gloss reduced, scoped A&T paraphrase",
   "PP075": "Reopened for QC: QC correction round 2 (R025 closure review): plain words and example generalisations replaced",
   "R021": "Reopened for QC: QC correction round 2 (R025 closure review): plain words universal-model overreach replaced",
   "R028": "Reopened for QC: QC correction (R070 milestone review): Te Ara material unopened-carrier removal; Kawharu qualification restored; unsupported kaitiaki gloss removed",
-  "R040": "Reopened for QC: QC correction (R070 milestone review): Taskforce brief list format restored; unverified Treasury year dropped; plain words bounded"
+  "R040": "Reopened for QC: QC correction (R070 milestone review): Taskforce brief list format restored; unverified Treasury year dropped; plain words bounded",
+  "R042": "Reopened for QC: QC correction (R070 milestone review): Vaa Moana book year corrected to 2026; Tui Atua framing bounded; plain words gap wording aligned to Wendt"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:11:09+00:00",
+ "updated": "2026-10-20T13:11:13+00:00",
  "band_done": false
 }
