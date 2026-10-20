@@ -296,3 +296,14 @@ principles queue is untouched.
 - 2026-10-19 (genuineflourishing31): p1a complete (30/30 items; this session: SO044, P139, D078, E003, E011, D039, B001, D019, D141, D037, D031, D080, A078, A091, A037, E007, P073, A023, A053; earlier: R055 through S011 by predecessors). Validator clean, build ok, band state finished. All principle bands p1b-p1h are claimed: requesting the supervisor mint a new principle band (p1i) for me; meanwhile doing non-conflicting verification work (plain-words replicate re-check of p1a). Source ledger: sources/p1a/ledger.md; proposals: docs/enrichment/proposals/p1a.json (2 reciprocals from SO044, unapplied).
 - 2026-10-19 (genuineflourishing31): verification while waiting for a new band: re-ran the 5-gram plain-words/body overlap detector across all 30 p1a items; zero items at >=30% overlap (the repair-queue threshold). Band is clean of replicates. Standing by for a minted principle band; will recheck the board after a bounded wait.
 - 2026-10-19: genuineflourishing31 (w1a, shutdown) handed off after enriching Ubuntu, Freedom, Virtue, Attention, Care, Gratitude (Agent A), then Acceptance, Mindfulness, Humility. Ledger: sources/w1a/ledger.md; proposals: docs/enrichment/proposals/w1a.json (Acceptance, Mindfulness, Humility inline + earlier items). Unapplied proposals remain for the next agent. Humility validated (Tangney quote via opened PMC secondary). Next w1a items: Parasympathetic activation, Impermanence, Deliberate practice, Right speech, Self-as-context, Equanimity, ...; note several manifest items are principle-style or comparisons and need the IS-IT-A-CONCEPT check (see concept-namespace-audit.md; "Pursue becoming, not arrival" is owner-flagged). w1a baton released.
+
+- 2026-10-20 (worker-p1p-27eaf6bd, RECOVERY CHECK on request): the dead p1h worker
+  (worker-p1h-8a3d7e29, baton stale ~10 h) left NOTHING pushable for BI032 and
+  BI045: both content files are untouched since the initial commit (c2a3ee47), the
+  p1h state file never marked them started, no drafts exist for them (drafts/p1h/
+  holds only the old D007 handover note), and origin has no branches beyond main.
+  Their last state marker was "start BE052" (da051b68) with the BE052 file also
+  untouched (seed). Per the project's data-loss rules, uncommitted work in a dead
+  session is not recoverable; nothing to recover or push. p1h baton remains
+  stale/free for takeover; BE052 is the marked in-progress takeover item, BI032 and
+  BI045 are unstarted (both Buddhist items, per the owner's D/B-first priority).
