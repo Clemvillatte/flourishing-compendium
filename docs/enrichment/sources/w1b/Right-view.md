@@ -3,8 +3,7 @@
 ## Sources consulted (opened this session)
 
 - MN 9, Sammadiṭṭhi Sutta (Thanissaro Bhikkhu translation, Access to Insight
-  https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html), fetched twice (summary
-  pass, then raw re-verification). Verbatim blockquote on the page uses the sutta's own
+  https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html), fetched twice (prompt-extracted both times). Verbatim blockquote on the page uses the sutta's own
   abbreviation: "When a disciple of the noble ones discerns stress, the origination of
   stress, the cessation of stress, and the way of practice leading to the cessation of
   stress, then he is a person of right view... who has arrived at this true Dhamma."

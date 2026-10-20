@@ -7,9 +7,11 @@ file: "Right view"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Right view (Pali sammā diṭṭhi) is the first factor of the Buddhist Eightfold Path. Britannica summarises the factor as "an accurate understanding of the nature of things, specifically the Four Noble Truths" ([Britannica](https://www.britannica.com/topic/Eightfold-Path)), and Wikipedia's gloss runs the same way: "Knowing about suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering. This is called right view." ([Wikipedia](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)). The Sammādiṭṭhi Sutta defines the view by what a person who holds it discerns, in the sutta's own abbreviated formula:
+Right view (Pali sammā diṭṭhi) is the first factor of the Buddhist Eightfold Path. Britannica summarises the factor as "an accurate understanding of the nature of things, specifically the Four Noble Truths" ([Britannica](https://www.britannica.com/topic/Eightfold-Path)). The Sammādiṭṭhi Sutta defines the view by what a person who holds it discerns, in the sutta's own abbreviated formula:
 
 > "When a disciple of the noble ones discerns stress, the origination of stress, the cessation of stress, and the way of practice leading to the cessation of stress, then he is a person of right view... who has arrived at this true Dhamma." (MN 9, Sammādiṭṭhi Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html))
+
+The Kaccānagotta Sutta gives the view a middle-way test: avoiding the extremes of "everything exists" and "everything doesn't exist", it knows just stress arising and passing.
 
 ### Two forms of right view
 
@@ -19,7 +21,7 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 
 ### In the compendium
 
-- [[B021 — Orient with right view]] — the dedicated principle, which grounds the view in the Kaccānagotta Sutta's image of watching stress arise and pass without a self to fasten it to.
+- [[B021 — Orient with right view]] — the dedicated principle, which quotes the Kaccānagotta Sutta on knowing stress as it arises and passes, without resolving on "my self".
 - [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]], [[AT070 — Recognise anxiety's effect on attention — threat capture]], [[AT071 — Recognise depression's effect on attention — negative bias and rumination]] and [[CO081 — Recognise cognitive symptoms of clinical conditions — depression and anxiety affect thinking]] — label their Buddhist parallel "The coloured lens (Buddhism, Right View)".
 - [[CO050 — Learn to question your thoughts — not every thought deserves belief]] and [[CO051 — Recognise cognitive distortions — learn the common patterns]] — list Right view as a philosophy parallel.
 - [[CO018 — Understand anchoring — initial values distort subsequent judgments]] and [[SE024 — Recognise the self-serving bias — you take credit for success and blame failure on circumstances]] — list Right view as their Buddhist parallel.
@@ -41,7 +43,7 @@ The Mahācattārīsaka Sutta distinguishes a form of right view with effluents, 
 ## Sources
 
 - [MN 9, Sammādiṭṭhi Sutta (Thanissaro Bhikkhu translation), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html) — the four-truths definition, verbatim.
-- [MN 117, Mahācattārīsaka Sutta (Thanissaro Bhikkhu translation), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html) — the two forms and the forerunner passage, verbatim.
+- [MN 117, Mahācattārīsaka Sutta (Thanissaro Bhikkhu translation), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html) — the two forms paraphrased; the forerunner passage quoted.
 - [Encyclopaedia Britannica, "Eightfold Path"](https://www.britannica.com/topic/Eightfold-Path) — the factor summary and its place in the wisdom training.
 - [SN 12.15, Kaccānagotta Sutta (Thanissaro Bhikkhu translation), Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) — the stress-arising-and-passing passage B021 quotes, and the dependent co-arising chain.
 - [Wikipedia, "Noble Eightfold Path"](https://en.wikipedia.org/wiki/Noble_Eightfold_Path) — the Pali term sammā-diṭṭhi and its four-truths gloss.
