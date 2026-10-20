@@ -7,13 +7,13 @@ file: "Focusing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Focusing is an internally oriented psychotherapeutic process developed by Eugene Gendlin out of fifteen years of research at the University of Chicago on what makes psychotherapy succeed. The finding behind it: successful patients intuitively attend to a subtle, vague internal bodily awareness that holds the key to the resolution of their problems.
+Focusing is Eugene Gendlin's method for attending to experience before it has words. A peer-reviewed summary describes it as a process and teachable skill in which the client learns how to attend to vague, physical impressions until they become well-defined and meaningful.
 
-> "It involves holding a specific kind of open, non-judging attention to an internal knowing which is experienced but is not yet in words." ([Wikipedia, "Focusing (psychotherapy)"](https://en.wikipedia.org/wiki/Focusing_(psychotherapy)))
+> "Key to focusing is the felt sense, an unclear, pre-verbal sense of 'something' meaningful—the inner knowledge or awareness of which has yet to be consciously thought or verbalized—as that 'something' is experienced in the body." (Shalev 2018, [Frontiers in Human Neuroscience](https://pmc.ncbi.nlm.nih.gov/articles/PMC6103000/))
 
 ### The felt sense
 
-Gendlin gave the name felt sense to the unclear, pre-verbal sense of something, the inner knowledge that has not been consciously thought or verbalized, as it is experienced in the body. What defines it is that it is unclear and vague, and always more than any attempt to express it verbally; it is not the same as an emotion. The 1978 book Focusing describes six steps for laypeople, while emphasizing that the essence of the process is following the organic movement rather than adhering to the steps.
+The bodily felt something may be an awareness of a situation or of something that is coming, perhaps an idea or insight. What defines it, as defined by Gendlin, is that it is unclear and vague, and any attempt to express it verbally usually results in its trivialization. Gendlin's 1978 book Focusing describes the technique for laypeople in conversational terms, with six steps, while emphasizing that the essence is following the organic process rather than adhering to the steps.
 
 ### In the compendium
 
@@ -21,13 +21,14 @@ Gendlin gave the name felt sense to the unclear, pre-verbal sense of something, 
 
 ## Related concepts
 
-- [[Experiential avoidance research]] — the avoidance side of inner experience that open, non-judging attention works against
+- [[Experiential avoidance research]] — the avoidance side of inner experience that non-judging attention works against
 - [[Anapanasati (mindfulness of breathing)]] — a contemplative training in the same bodily attention
 
 ## Sources
 
 - Gendlin, 1978
 
+- [Shalev, "Using Motivated Cue Integration Theory to Understand a Moment-by-Moment Transformative Change: A New Look at the Focusing Technique", Frontiers in Human Neuroscience 12 (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6103000/)
 - [Wikipedia, "Focusing (psychotherapy)"](https://en.wikipedia.org/wiki/Focusing_(psychotherapy))
 
 ## Cited in psychology parallels

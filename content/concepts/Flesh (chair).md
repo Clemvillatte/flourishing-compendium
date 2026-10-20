@@ -7,7 +7,7 @@ file: "Flesh (chair)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Flesh (la chair) is Merleau-Ponty's name, in The Visible and the Invisible, for what body and world are made of. It is a general thing between the individual and the idea, closer to an element in the classical sense than to matter or mind.
+Flesh (la chair) is Merleau-Ponty's name, in The Visible and the Invisible, for what body and world are made of. It is a general thing between the individual and the idea, closest to an element in the classical sense.
 
 > "Flesh in this sense is a 'general thing' between the individual and the idea that does not correspond to any traditional philosophical concept, but is closest to the notion of an 'element' in the classical sense (V&I: 184/139)." (Ted Toadvine, [Stanford Encyclopedia of Philosophy, "Merleau-Ponty", §6](https://plato.stanford.edu/entries/merleau-ponty/))
 

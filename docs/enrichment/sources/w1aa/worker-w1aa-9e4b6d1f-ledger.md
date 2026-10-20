@@ -99,3 +99,11 @@
 - Saturation: fast-track skip.
 - No advisor QC required (item 13).
 - VALIDATOR FIX: the first pushed version carried the banned word "crucial" (a Wikipedia phrase carried over); reworded to "What defines it is that it is unclear and vague..." and re-validated clean in the follow-up commit.
+
+## Four-C model of creativity (item 15, advisor QC HOLD then repairs)
+
+- Fast-track degree 2 (Divergent and convergent thinking concept edge; PP051 principle edge).
+- Opened source: Kaufman, Beghetto, Baer and Ivcevic 2010 ("Creativity polymathy", Learning and Individual Differences 20:380-387; rider.edu PDF) — mini-c Table 1 definition verified verbatim (blockquote, attributed to the 2010 paper's Table 1 directly, NOT called a reprint of the 2009 table); little-c/Pro-c/Big-C definitions paraphrased without quotation marks; model-introduction and mini-c/Pro-c sentences verified.
+- QC HOLD (advisor, item-15 milestone), repairs applied: "decade-plus of training" claim removed (search-snippet-only evidence); combined four-definition blockquote replaced with the single mini-c quote; "reprint" framing removed; "between the familiar extremes" mispositioning and "before any product is recognized" claim removed per the advisor's replacement wording; Insight-research related-link dropped (unsupported equation); Divergent clause reduced to the pre-existing structural edge.
+- WORKFLOW CORRECTIONS from the same review, applied retroactively: Focusing's blockquote replaced with a peer-reviewed quote (Shalev 2018, Front Hum Neurosci, PMC6103000, opened and verified verbatim) to meet the §1a qualifying-source bar (Wikipedia retained in Sources as consulted); Flesh (chair) opening line's "than to matter or mind" comparison removed (not stated by the opened SEP excerpt). Both re-validated clean with the other fixes.
+- PROCESS NOTE recorded: fail-fast validation before done-marks now enforced (set -e in the item pipeline); earlier items that continued past validation failures: Focusing item-14 (banned word "crucial", repaired same session).
