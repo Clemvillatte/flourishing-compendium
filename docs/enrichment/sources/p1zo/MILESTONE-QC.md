@@ -23,3 +23,26 @@ Items: SO062, SO070, SO071, SO074, SP003 (2026-10-20).
 - Lesson recorded: asserted anchors on every replacement (one silent no-match
   escaped a non-asserted replace and was caught only by advisor QC); ledger
   bullets describing removed text must be rewritten, not just appended to.
+
+## Milestone QC (takeover items 6-10): scoped PASS
+
+Items: SP004, SP006, SP008, SP009, SP011 (2026-10-21).
+
+- Round 1 (advisor): four blockquotes matched the primary text; SP006 blockquote
+  had two inserted "the"s; recurring issue was "the compendium's application"
+  sentences asserting psychological effects (pain living in the story, mood
+  speedometers, arguments quieting down) rather than suggested exercises.
+- Repairs applied sequentially with asserted anchors; SP006 quote corrected to
+  the exact fragment; SP004 ledger history corrected (inherited paraphrase,
+  not a verbatim misquote); SP011 body now cites the IV Preface power-of-action
+  passage verbatim; all measuring/effect claims replaced with the advisor's
+  exercise framings.
+- Round 2 (advisor): scoped PASS for the reviewed rewritten material in all
+  five items; closeout corrections applied (SP008 dangling opening fixed;
+  SP004/SP008 ledger descriptions brought up to date; explicit-baseline
+  validation vs fc8c8bb6b clean: 5 checked, 0 failed).
+- Scope: reviewed rewritten material only; inherited parallels and Practice
+  sections not independently verified.
+- Lesson recorded: two ledger replacements silently skipped for mismatched
+  anchors in the closeout round (caught by re-reading the files before
+  pushing); every ledger edit now gets an asserted anchor like file edits.

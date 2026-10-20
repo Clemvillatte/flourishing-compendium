@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 8** — Treat good and evil as relations, not properties
 
-His working definitions in the Preface to Part IV: good is what we certainly know to be a means of approaching more nearly the type of human nature we have set before ourselves, and bad what hinders that approach. ([Ethics IV, Preface, Elwes tr.](https://www.gutenberg.org/ebooks/3800))
+In the Preface to Part IV of the Ethics, Spinoza defines good as what we certainly know to help us approach more nearly the type of human nature we have set before ourselves, and bad as what hinders that approach. ([Ethics IV, Preface, Elwes tr.](https://www.gutenberg.org/ebooks/3800))
 
 > "As for the terms good and bad, they indicate no positive quality in things regarded in themselves, but are merely modes of thinking, or notions which we form from the comparison of things one with another. Thus one and the same thing can be at the same time good, bad, and indifferent. For instance, music is good for him that is melancholy, bad for him that mourns; for him that is deaf, it is neither good nor bad." (Ethics IV, Preface, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
