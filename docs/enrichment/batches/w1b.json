@@ -87,7 +87,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 7,
- "updated": "2026-10-20T08:05:17+00:00",
- "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient.",
- "band_done": false
+ "updated": "2026-10-20T08:05:33.298472Z",
+ "notes": "QC round 2 (advisor): fixed quote attributions on The relational self and To the things themselves (encyclopedia paraphrases were quoted as primary text; now attributed to IEP/SEP), separated the three relational-self theories, scoped Sedikides findings, removed reader address, split long paragraphs. Caveat for the lead: some already-applied reciprocal proposals used derivation language ('therapeutic operationalisation of Deikman's observer' on Self-as-context, 'philosophical root' on I and Thou, 'same structure' on Being-with (Mitsein)); these clauses sit in other bands' files now and could be reworded to comparison language when convenient.\n2026-10-20 worker-w1b-2f8d4c1a: band closed 70/70. Takeover session finished the last two items: Tolerance of uncertainty (fast-track, degree 14 at selection, advisor QC 2 rounds, ledger sources/w1b/Tolerance-of-uncertainty.md) and Wisdom (normal track, degree 15, ledger sources/w1b/Wisdom.md; 8 reciprocal proposals appended to proposals/w1b.json). Namespace flag: Tolerance of uncertainty vs Uncertainty tolerance recorded in concept-namespace-audit.md for supervisor disposition.",
+ "band_done": true
 }
