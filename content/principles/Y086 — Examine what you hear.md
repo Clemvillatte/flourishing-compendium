@@ -12,9 +12,9 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 86** — Examine what you hear
 
-The second step of the Upanishadic sequence is reflection (manana). The Upadeśasāhasrī sets out "the teachings about hearing, thinking and meditating on the Upanishads" in that order, and the Vivekachudamani, a work attributed to Śaṅkara, weighs the steps against each other: "Reflection on truth heard is a hundred times more potent than hearing it, and abiding in it is a hundred thousand times more potent than reflection on it." The ranking carries the point: hearing is the entry, and what is done with what was heard is what carries the weight. The compendium's exercise: for each important idea received, write one paragraph that takes it apart against your own evidence before the idea is allowed to settle.
+The second step of the sequence is reflection (manana), working over what has been heard. The Vivekachudamani, a work attributed to Śaṅkara, weighs the steps against each other in the quotation below: reflection on truth heard is a hundred times more potent than hearing it, and abiding in it a hundred thousand times more potent than reflection. The ranking carries the page's point: hearing is the entry, and what is done with what was heard is what carries the weight. The compendium's exercise: for each important idea received, write one paragraph that takes it apart against your own evidence before the idea is allowed to settle.
 
-(Śaṅkara [attributed], Vivekachudamani; Upadeśasāhasrī.)
+(Śaṅkara [attributed], Vivekachudamani.)
 
 > Reflection on truth heard is a hundred times more potent than hearing it, and abiding in it is a hundred thousand times more potent than reflection on it.
 >
@@ -27,7 +27,7 @@ Hearing a teaching once leaves it as somebody else's sentence in your head. The 
 In an imagined case, someone hears in a talk that attention is trainable. They spend a week testing it, three short sessions a day with notes on what changes, before repeating the claim to anyone else.
 ## Psychology parallels
 
-- **[[Comprehension-strategy instruction|Comprehension-strategy instruction]]**, the learning-science finding that deep processing improves when learners are taught to interrogate the material directly (Pressley et al., 1992)
+- **[[Comprehension-strategy instruction|Comprehension-strategy instruction]]** (Pressley et al., 1992)
 
 ## Philosophy parallels
 
@@ -37,4 +37,3 @@ In an imagined case, someone hears in a talk that attention is trainable. They s
 ## Sources
 
 - [Vivekachudamani in Sri Ramana Maharshi's Tamil rendering (The Collected Works), text](https://www.gururamana.org/Resources/Audios/Viveka%20chuda%20mani/Viveka_Chudamani_Text_English.pdf) — Sanskrit verses 348-368 section
-- [Śaṅkara's Upadeśasāhasrī, Jagadānanda translation (1930), online text](https://www.sankaracharya.org/upadesa_sahasri.html) — the hearing-thinking-meditating heading

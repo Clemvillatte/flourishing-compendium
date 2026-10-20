@@ -34,19 +34,19 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SP042": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP045": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP050": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP051": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP054": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP055": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP060": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP067": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP072": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
-  "SP087": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok."
+  "SP042": "Prior flag: QC round 1 narrow opening. Takeover reconciliation (2026-10-20): ledger records advisor scoped PASS after round-2 narrowing; sentence check in file consistent. Supervisor acceptance not re-performed by this worker.",
+  "SP045": "Prior flag: milestone QC round 1 scope repairs. Takeover reconciliation (2026-10-20): repair present in file (exercise labelled, no outcome claims); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP050": "Prior flag: milestone QC round 1. Takeover reconciliation (2026-10-20): repair present in file (body narrowed to IV.7/IV.14/IV.15); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP051": "Prior flag: milestone QC round 1. Takeover reconciliation (2026-10-20): repair present in file (compendium exercise label, V.4 note); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP054": "Prior flag: milestone QC round 1. Takeover reconciliation (2026-10-20): repair present in file (compendium exercise label); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP055": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (composed questions de-quoted, replicate repaired); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP060": "Prior flag: renewal-sentence locator corrected to III.55. Takeover reconciliation (2026-10-20): locator present in file; validator ok. Supervisor acceptance not re-performed by this worker.",
+  "SP067": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (unsupported causal claim absent, Proof locator verified per ledger); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP072": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (Appendix XXXII condition paraphrased in body, locators added, duplicate quote removed); validator ok. Claim accuracy not re-verified against primary source by this worker.",
+  "SP087": "Prior flag: milestone QC round 2 scope repairs. Takeover reconciliation (2026-10-20): repairs present (deleted paragraph absent, advisor-supplied wording in); validator ok. Claim accuracy not re-verified against primary source by this worker."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20 worker-p1zp-4db4ea8b: all 30 items done; inherited QC flags reconciled and resolved",
- "band_done": true
+ "updated": "2026-10-20T12:50:00Z",
+ "band_done": false
 }

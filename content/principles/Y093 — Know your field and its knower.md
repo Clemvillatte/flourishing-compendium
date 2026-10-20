@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 93** — Know your field and its knower
 
-The thirteenth chapter of the Gita sets up a working pair. Arjun asks what prakṛiti and puruṣh are, and what kshetra and kshetrajna are (BG 13.1). The answer comes back: "this body is termed as kṣhetra (the field of activities), and the one who knows this body is called kṣhetrajña (the knower of the field)" (BG 13.2), and the Lord adds, "I am also the knower of all the individual fields of activity" (BG 13.3). True knowledge, the same verse says, is the understanding of the field and its knowers. The compendium's exercise: in a hot moment, sort the field first, the facts, the feelings, the body's report, and only then ask what is doing the knowing, before speaking.
+The thirteenth chapter of the Gita sets up a working pair. Arjun asks what prakṛiti and puruṣh are, and what kshetra and kshetrajna are (BG 13.1). The answer, quoted below, names the body as the field of activities and the one who knows it as the knower of the field; the Lord adds that he is also the knower in all fields, and that true knowledge is the understanding of the field and its knowers (BG 13.3). The compendium's exercise: in a hot moment, sort the field first, the facts, the feelings, the body's report, and only then ask what is doing the knowing, before speaking.
 
 (BG 13.1-13.3.)
 
@@ -21,13 +21,13 @@ The thirteenth chapter of the Gita sets up a working pair. Arjun asks what prak�
 > Bhagavad Gita 13.2, Swami Mukundananda translation, [opened page](https://www.holy-bhagavad-gita.org/chapter/13/verse/2).
 
 **Plain words**
-The Gita splits every experience into two parts: what is going on, and the part that registers it. The split is learnable. When you are flooded, you can list what the field holds: the racing heart, the email, the anger. The list is not the one reading it. Keeping that difference steady under pressure is most of what this principle trains.
+In the Gita's picture, the body is the field, and the one who knows the body is the field's knower; the chapter adds that there is a knower in every field. The everyday use of the distinction is a sorting question: when a moment is loud, list what is in the field, the racing heart, the email, the anger, and notice that the list is being read by the one who knows it. The verse states the distinction; what it finally shows is the chapter's longer argument, and this page stops at the exercise.
 
 **For example**
-In an imagined case, a player in the final minutes of a match takes stock of the field first: burning legs, the score, the noise. Then, from whatever is registering all that, the next play gets called.
+In an imagined case, a player in the final minutes of a match takes stock of the field first: burning legs, the score, the noise. The exercise ends with the sorting; what the player does next is theirs.
 ## Psychology parallels
 
-- **[[Metacognitive monitoring|Metacognitive monitoring]]**, the separation of knowing from content (Flavell, 1979)
+- **[[Metacognitive monitoring|Metacognitive monitoring]]** (Flavell, 1979)
 
 ## Philosophy parallels
 

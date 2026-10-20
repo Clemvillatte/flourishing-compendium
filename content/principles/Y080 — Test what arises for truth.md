@@ -27,7 +27,7 @@ An insight that shows up during practice can still be wrong about your life. Bef
 In an imagined case, someone returns from retreat wanting to resign. They review their finances, discuss the plan with a person they trust to push back, and only then give notice.
 ## Psychology parallels
 
-- **Illusory truth and confidence-accuracy dissociation**, the finding that felt certainty tracks fluency, not truth (Fazio et al., 2015)
+- **Illusory truth and confidence-accuracy dissociation** (Fazio et al., 2015)
 
 ## Philosophy parallels
 
