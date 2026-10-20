@@ -260,3 +260,12 @@
   MIT Classics Archive used as the Volume Two substitute the note directs.
 - NT meekness word-continuity claim removed (unverified in opened sources);
   Meekness link kept bare.
+
+## Goal setting theory (Locke & Latham) (fast-track)
+- Opened: PubMed 7622387 (Strecher et al. 1995, HEQ 22, 190-200, Latham co-author)
+  — specific-difficult-goals prediction and difficulty-performance relationship quoted
+  verbatim; PubMed 12237980 (Locke & Latham 2002, Am Psychol 57, 705-717) —
+  35-year summary scope only; PubMed 31900043 (Swann et al. 2020, from search
+  snippet, abstract content used for the learning-goals boundary).
+- Commitment/ability/feedback moderator sentence removed pre-validation (2002
+  abstract names moderators generically, not those specifics).
