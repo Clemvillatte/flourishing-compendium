@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 14,
+ "revision": 15,
  "reciprocal": [
   {
    "into": "Food as medicine",
@@ -79,6 +79,12 @@
    "link": "BI050",
    "why": "experiments that placed physical warmth in the same prepared-safety category as supportive others",
    "notes": "Evidence in sources/p1zs/BI050.md (Hornstein et al. 2022 opened; target page read)."
+  },
+  {
+   "into": "Heart rate variability theory",
+   "link": "BI062",
+   "why": "the tracking practice built on the HRV marker, with the device-limitation evidence",
+   "notes": "Evidence in sources/p1zs/BI062.md (Thayer 2012, Laborde 2017, Chinoy 2021 opened; target page read)."
   }
  ],
  "inline": []
