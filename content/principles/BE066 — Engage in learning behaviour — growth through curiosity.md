@@ -12,11 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 66** — Engage in learning behaviour: growth through curiosity
 
-Learning behaviour is a specific practice: reading, studying, taking courses, learning new skills. The research framing behind it holds that adult cognitive plasticity is driven by a prolonged mismatch between what a person can currently do and what the environment asks of them (Lövdén et al., 2010) — new demands are what engage the system. The link to cognitive health is epidemiological and suggestive rather than experimentally established:
+Learning behaviour is a specific practice: reading, studying, taking courses, learning new skills. The research framing behind it holds that adult cognitive plasticity is driven by a prolonged mismatch between what a person can currently do and what the environment asks of them (Lövdén et al., 2010). In the passage below, Stern describes epidemiological associations:
 
-> "Epidemiologic evidence indicates that a set of life exposures including higher educational and occupational attainment, and engaging in leisure activities is associated with a lower risk of incident dementia, suggesting that these life exposures may enhance cognitive reserve." (Stern, 2012, [Cognitive Reserve: Implications for Assessment and Intervention, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970779/))
-
-The compendium's claim stays at the principle's title: growth through curiosity, the value of being someone still learning.
+> "Epidemiologic evidence indicates that a set of life exposures including higher educational and occupational attainment, and engaging in leisure activities is associated with a lower risk of incident dementia, suggesting that these life exposures may enhance cognitive reserve." (Stern, 2013, [Cognitive Reserve: Implications for Assessment and Intervention, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970779/))
 
 **Plain words**
 Curiosity needs somewhere to go. Give one thing you do not know a regular slot: a book by the bed, a class one evening a week, an app on the commute. Finishing is not the measure; staying comfortable with not-knowing-yet is.
@@ -40,11 +38,11 @@ Curiosity needs somewhere to go. Give one thing you do not know a regular slot: 
 
 ## Related concepts
 
-- [[The examined life]] — the philosophical root of the practice
+- [[The examined life]] — listed for comparison
 - [[Beginner's mind]] — listed for comparison
-- [[Curiosity]] — the affect the behaviour rides on
+- [[Curiosity]] — listed for comparison
 
 ## Sources
 
 - [Lövdén, M., Bäckman, L., Lindenberger, U., Schaefer, S., & Schmiedek, F. (2010). A theoretical framework for the study of adult cognitive plasticity. Psychological Bulletin, 136(4), 659-676 (PubMed record, PMID 20565172).](https://pubmed.ncbi.nlm.nih.gov/20565172/)
-- [Stern, Y. (2012). Cognitive Reserve: Implications for Assessment and Intervention (PMC full text).](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970779/)
+- [Stern, Y. (2013). Cognitive Reserve: Implications for Assessment and Intervention. Folia Phoniatrica et Logopaedica, 65(2), 49-54 (PMC full text).](https://pmc.ncbi.nlm.nih.gov/articles/PMC3970779/)

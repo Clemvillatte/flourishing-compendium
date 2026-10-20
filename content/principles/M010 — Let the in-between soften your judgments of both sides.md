@@ -12,14 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 10** — Let the in-between soften your judgments of both sides
 
-Standing between positions is a standing lesson in the partiality of every position: the insider's certainty looks different from the middle, from both directions. The Nahua paradigm for this is the crossroads, which Maffie's reconstruction treats as the model nepantla place:
+In Maffie's reconstruction, the crossroads illustrates nepantla:
 
 > "The crossroads is the 'center' or 'middle' of two intersecting roads. This intersecting creates a new space, one betwixt and between two roads; a marginal, anomalous, unstable, and ill-defined place; a place that is ultimately 'no place' at all. The crossroads is ontologically ambiguous: it is neither this road nor that road yet simultaneously both roads at once." (Maffie, [A Companion to Latin American Philosophy, chapter excerpt](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf))
 
-The person between two convinced parties stands on exactly this kind of ground: belonging to neither position, seeing both from an angle neither side has. Practically, when you find yourself between two convinced parties (in a family, a workplace, a debate), resist enlisting in either certitude, and notice what the middle can see that both are missing.
+This principle applies that image to disagreement: when you know competing accounts, ask what each includes, leaves out or gets wrong. Standing between them does not by itself make your judgment wiser.
 
 **Plain words**
-When two people or groups are certain they are right, the person between them can usually see the flaw in both stories. Stay there a moment before picking a side. The middle has its own view; use it before you trade it away.
+Hear each account and check it against what happened. Notice what you cannot yet judge. You may choose a side afterward; you do not have to split the difference.
 
 *For example (imagined):* Someone stuck between two feuding family factions finds they cannot take either side's story at full strength anymore, because they have seen how each side's "obvious truth" looks from the other shore.
 
@@ -45,4 +45,4 @@ When two people or groups are certain they are right, the person between them ca
 
 ## Sources
 
-- [Maffie, J., "Latin American Philosophy: its nature and legitimacy (Aztec philosophy section)", A Companion to Latin American Philosophy, chapter excerpt (Wiley)](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the crossroads passage quoted above.
+- [Maffie, J., "Pre-Columbian Philosophies", in A Companion to Latin American Philosophy, chapter excerpt (Wiley)](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the crossroads passage quoted above (chapter title and author verified from the excerpt's opening page).

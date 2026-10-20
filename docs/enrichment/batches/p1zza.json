@@ -10,19 +10,20 @@
   "BE066",
   "BI036",
   "M001",
-  "M010",
-  "M028"
+  "M010"
  ],
- "in_progress": null,
+ "in_progress": "M028",
  "flagged": {
   "SE042": "Reopened for QC: QC round 1 (advisor): traits-opposition misread, causal inference, unopened White & Epston gloss, plain-words duplication; repairing",
   "SP093": "Reopened for QC: milestone QC round 3",
   "AF039": "Reopened for QC: milestone QC round 3",
   "AF050": "HOLD for supervisor: protected alias [[Rumination|Anger rumination maintains aggression]] asserts a mechanism (anger rumination maintains aggression) not verified against opened primary evidence; also the Rumination concept page's Related row leans on the same unopened Bushman claim. Prose itself passed round 3.",
-  "AF077": "Reopened for QC: milestone QC round 3"
+  "AF077": "Reopened for QC: milestone QC round 3",
+  "M028": "HOLD for supervisor: blockquote provenance unverified (secondary page, no translator/edition/locator); speech-discipline catalogue and face/developed-self explanation not yet verified against opened sources; repairs applied (modern-exercise labelling); a traceable scholarly edition is needed before certification",
+  "M010": "HOLD for supervisor: protected alias [[Perspective-taking|Perspective-taking's depolarizing effects]] is a substantive unverified claim (Galinsky research not opened); alias markup preserved; verify or disposition like AF050's Rumination alias"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T16:40:24+00:00",
+ "updated": "2026-10-20T16:45:47+00:00",
  "band_done": false
 }

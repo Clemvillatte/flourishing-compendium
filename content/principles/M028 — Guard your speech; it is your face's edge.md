@@ -14,9 +14,9 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 
 The huehuetlatolli, the elders' words collected in Book VI of the Florentine Codex, carry a speech discipline: speak slowly, do not babble, do not interrupt, do not mock the old, the sick, the deaf, or the poor; do not speak vainly or boast; when you speak, let it be measured. Among the elders' surviving instructions, in the Codex's English rendering:
 
-> "Do not mock the old or the crippled… Do not become haughty on account of your beauty, for that is like a flower, it withers and fades." (Florentine Codex, Book VI, [as quoted in the Cottonwood history of Mexico](https://cottonwood.world/histories/mexico/))
+> "Do not mock the old or the crippled… Do not become haughty on account of your beauty, for that is like a flower, it withers and fades." (attributed to the Florentine Codex, Book VI, [as quoted in the Cottonwood history of Mexico](https://cottonwood.world/histories/mexico/); translation chain not yet verified against a scholarly edition — see the ledger hold)
 
-Speech, in this tradition, is the primary instrument by which the face (the developed self) is known, and its care is a character practice, not an etiquette. Practically, adopt the elders' specific: one conversation per day conducted with fully measured speech (no interruption, no mockery, no waste).
+Speech, in this tradition, is the primary instrument by which the face (the developed self) is known, and its care is a character practice, not an etiquette. A modern suggested exercise in this spirit: one conversation a day conducted with fully measured speech (no interruption, no mockery, no waste).
 
 **Plain words**
 The old speeches treat how you talk as part of who you are becoming. Speaking slowly, letting others finish, refusing to mock the weak: these are not manners but self-shaping. Try one conversation a day where you hold the line.
@@ -34,7 +34,7 @@ The old speeches treat how you talk as part of who you are becoming. Speaking sl
 
 ## Practice
 
-- Pick one conversation a day and hold the elders' line in it: no interruption, no mockery, no boasting, nothing wasted.
+- A modern suggested exercise: pick one conversation a day and hold the line in it: no interruption, no mockery, no boasting, nothing wasted.
 
 ## Related concepts
 
