@@ -428,3 +428,9 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Sources opened: https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/commentary-on-seven-points-mind-training (Tokme Zangpo commentary, tr. Adam Pearcey 2018) and https://www.tibetanbuddhistencyclopedia.com/en/wiki/Seven_steps_for_each_Immeasurable (Trungpa/Nalanda slogan commentaries).
 - Verbatim quotes: root text "When all the world is filled with evil, / Transform adversity into the path of enlightenment."; Trungpa "Whatever occurs in your life— environmental problems, political problems, or psychological problems—should be transformed into a part of your wakefulness, or bodhi."; inline Tokme Zangpo "transformed into the path of enlightenment through both intention and action".
 - Plain words re-derived (carry-into-journey framing, mishap-as-training); original highway-shoulder example kept; "Shantideva 6" locator replaced with Chekawa root-text locator (no BCA translation opened this session; BCA 6.88 remains only in the inherited parallels section).
+
+### B182 — Separate pain from suffering — daily (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done.
+- Source opened: https://www.accesstoinsight.org/tipitaka/sn/sn36/sn36.006.than.html (Sallatha Sutta SN 36.6, tr. Thanissaro Bhikkhu).
+- Verbatim quotes: two-arrow simile passage and the well-instructed-disciple passage ("one pain: physical, but not mental"), both exact Thanissaro wording.
+- Plain words re-derived (headache/commentary check, first event vs addition); example kept with em dash removed; fixed a jammed Philosophy parallels line (Judgment adds the harm / Four Noble Truths split onto separate bullets, links unchanged); McCracken/Vowles parallels left as inherited (not opened this session).
