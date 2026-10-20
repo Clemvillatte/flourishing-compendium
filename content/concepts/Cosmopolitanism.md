@@ -10,13 +10,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Cosmopolitanism” — Diogenes; Diogenes the Cynic; Kant, Perpetual Peace.
 
-Cosmopolitanism is the idea that all human beings, whatever their political affiliation, belong to a single community. The SEP entry gives the core:
+Cosmopolitan views hold that all human beings are, or can and should be, citizens of a single community. The SEP entry gives the core:
 
-> The nebulous core shared by all cosmopolitan views is the idea that all human beings, regardless of their political affiliation, are (or can and should be) citizens in a single community. — [SEP, Cosmopolitanism §1 (opened)](https://plato.stanford.edu/entries/cosmopolitanism/)
+> The nebulous core shared by all cosmopolitan views is the idea that all human beings, regardless of their political affiliation, are (or can and should be) citizens in a single community. — [SEP, Cosmopolitanism (opened)](https://plato.stanford.edu/entries/cosmopolitanism/)
 
 The first explicit statement in the West is Diogenes the Cynic. The SEP renders the report:
 
-> It is said that "when he was asked where he came from, he replied, 'I am a citizen of the world [kosmopolitēs]'" (Diogenes Laertius VI 63). — [SEP, Cosmopolitanism §2 (opened)](https://plato.stanford.edu/entries/cosmopolitanism/)
+> It is said that "when he was asked where he came from, he replied, 'I am a citizen of the world [kosmopolitēs]'" (Diogenes Laertius VI 63). — [SEP, Cosmopolitanism (opened)](https://plato.stanford.edu/entries/cosmopolitanism/)
 
 Kant's Perpetual Peace gave the idea a legal form, in its Third Definitive Article:
 
@@ -61,5 +61,3 @@ The compendium builds its member-of-the-whole and kindness-to-strangers practice
 - [[S077 — Practise hospitality and kindness to strangers]]
 - [[S088 — Be a good neighbour]]
 - [[R050 — Practise connection across the ocean]]
-- [[S044 — Act as a member of the whole]]
-- [[S101 — Recognise that you are a small part of a large whole]]
