@@ -7,11 +7,24 @@ file: "Shikantaza, just sitting"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-“Shikantaza, just sitting” — Dogen, Shobogenzo.
+Shikantaza is the Sōtō Zen practice commonly translated as just sitting, associated with Dōgen ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). In Shigenori Nagatomo's account, sitting takes place within original enlightenment, and practice and realization are understood as inseparable ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
+
+### Practice and realization
+
+> It refers to a single-minded, diligent practice where the qualifying term “just” means the practice of meditation without any intervention of ego-logical interest, concern, or desire, so that the practice remains undefiled.
+>
+> Shigenori Nagatomo, “Japanese Zen Buddhist Philosophy,” §2, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/japanese-zen/).
+
+This account gives the practice a demanding meaning: the sitter relinquishes personal aims while continuing diligent meditation ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). Nagatomo describes this as Dōgen's practice-realization, in which sitting is not a preliminary means of obtaining enlightenment later ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
+
+### In the compendium
+
+The practice is the subject of [[B044 — Just sit (zazen, shikantaza)]]. The other links below retain the compendium's comparisons and applications.
 
 ## Sources
 
 - Dogen, Shobogenzo
+- [Shigenori Nagatomo, “Japanese Zen Buddhist Philosophy,” §2](https://plato.stanford.edu/entries/japanese-zen/): definition, Sōtō context, and practice-realization.
 
 [[B044 — Just sit (zazen, shikantaza)]]
 [[D047 — Practice sitting and forgetting (zuowang)]]
