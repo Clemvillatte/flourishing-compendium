@@ -12,13 +12,15 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 33** — Let truth change its face
 
-Putnam's Reason, Truth and History rejects both halves of the usual choice. The mind does not simply "copy" a world which admits of description by One True Theory, and it does not make the world up either; the book's metaphor is that "the mind and the world jointly make up the mind and the world". The chapter on truth gives the working version: what objects the world consists of "is a question that it only makes sense to ask within a theory or description", and "'Truth', in an internalist view, is some sort of (idealized) rational acceptability", not correspondence with mind-independent "states of affairs". There is "no God's Eye point of view that we can know or usefully imagine"; there are only the points of view of actual persons, whose descriptions and theories serve their interests and purposes. What counts as the world's objects can thus shift with the scheme, and many internalist philosophers, Putnam notes, allow more than one true description of the world.
+Putnam's Reason, Truth and History rejects both halves of the usual choice. The mind does not simply "copy" a world which admits of description by One True Theory, and it does not make the world up either; the book's metaphor is that "the mind and the world jointly make up the mind and the world".
+
+The chapter on truth gives the working version: what objects the world consists of "is a question that it only makes sense to ask within a theory or description", and "'Truth', in an internalist view, is some sort of (idealized) rational acceptability", not correspondence with mind-independent "states of affairs". There is "no God's Eye point of view that we can know or usefully imagine"; there are only the points of view of actual persons, whose descriptions and theories serve their interests and purposes. What counts as the world's objects can thus shift with the scheme, and many internalist philosophers, Putnam notes, allow more than one true description of the world.
 
 (Putnam, Reason, Truth and History, 1981.)
 
 > "In short, I shall advance a view in which the mind does not simply 'copy' a world which admits of description by One True Theory. But my view is not a view in which the mind makes up the world, either... If one must use metaphorical language, then let the metaphor be this: the mind and the world jointly make up the mind and the world." (Putnam, Reason, Truth and History, preface, [full text at Internet Archive](https://archive.org/download/hilary-putnam-reason-truth-and-history-1981/Hilary%20Putnam%20-%20Reason%2C%20Truth%20and%20History%20%281981%29_djvu.txt))
 
-The compendium's extension: the title's "let truth change its face" turns the internalist picture into a rule for holding beliefs; Putnam's text argues the view of truth itself, not a policy of revision.
+The compendium proposes a belief-review exercise based on these passages.
 
 **Plain words**
 Putnam connects truth with an ideal fit among beliefs and experience. The compendium draws a practical exercise from that account: choose a belief, write down your reasons for holding it, and say what would make you reconsider.
