@@ -22,7 +22,8 @@
   "Y004",
   "Y005",
   "Y008",
-  "Y021"
+  "Y021",
+  "Y022"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,6 +40,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:00:37+00:00",
+ "updated": "2026-10-20T12:01:15+00:00",
  "band_done": false
 }

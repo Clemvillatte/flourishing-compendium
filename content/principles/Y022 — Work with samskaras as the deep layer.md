@@ -12,18 +12,28 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 22** — Work with samskaras as the deep layer
 
-Beneath visible thoughts lies the sediment of repeated action: latent impressions (samskara) that fire automatically when triggered, and that are strengthened each time they fire. The tradition's model of habit is compared here with the modern science: action lays down impression, impression drives action (the comparison is of mechanism, not a scientific validation of the doctrine). Practically, treat any unwanted automatic pattern as a samskara to be starved of repetitions rather than argued with.
+Yoga Sūtra 1.18 describes a concentration consisting of subliminal-impressions only, following upon practice that effects the cessation of fluctuations (Woods). Book III sets the impressions to work: sūtra 3.9 describes the subliminal-impression of emergence becoming invisible while the subliminal-impression of restriction becomes visible, with the mutation of restriction connected to mind-stuff in its period of restriction; sūtra 3.10 adds that the mind-stuff flows peacefully by reason of the subliminal-impression. On this model, practice works on a layer beneath visible thought: the impressions themselves, which the sutras show alternating and directing the flow. The compendium exercise treats an unwanted automatic pattern accordingly: aim at the layer of repetition rather than at winning arguments in the moment.
 
-(YS 1.18; YS 3.9-3.15.)
+> The other [concentration which is not conscious of objects] consists of subliminal-impressions only [after objects have merged], and follows upon that practice which effects the cessation [of fluctuations].
+>
+> Patañjali, Yoga Sūtra 1.18, translated by James Haughton Woods (1914), [reprinted text](https://www.theessentialway.org/yoga-sutras/).
 
-**Plain words** Beneath visible thoughts lies the sediment of repeated action: samskaras, latent impressions that fire automatically when triggered — and strengthen each time they fire. The tradition's model of habit, matching the modern science: action lays down tracks, tracks direct future action. Work the deep layer, not just the moment.
+**Plain words**
+The sutras speak of subliminal impressions beneath the visible thoughts. Practice, repeated, works on that layer: one impression fades, another of restriction becomes visible, and the mind-stuff flows peacefully by reason of the new impression. Aim the effort at the repetitions, not at the arguments.
 
-*For example:* Someone who "decides not to snap at the kids" a thousand times — and finally aims at the layer: the same twenty minutes of the evening, every day, deliberately re-run until the new track forms.
+**For example**
+In an imagined exercise, someone who wants to stop snapping during one stretch of the evening writes that twenty-minute slot into the family routine and re-runs it daily, recording each run in a log.
+
 ## Psychology parallels
 
 - **Habit loops and the neuroscience of automaticity** (Graybiel, 2008; Lally et al., 2010)
-- **[[Memory reconsolidation|Memory reconsolidation]]**, the window in which reactivated patterns can be rewritten (Lane et al., 2015)
+- **[[Memory reconsolidation|Memory reconsolidation]]** (Lane et al., 2015)
 
 ## Philosophy parallels
 
-- **[[Habit|Habit as the flywheel of character]]** (Dewey, Human Nature and Conduct)- **[[Samskara|Samskara]]** (Yoga-Vedanta)
+- **[[Habit|Habit as the flywheel of character]]** (Dewey, Human Nature and Conduct)
+- **[[Samskara|Samskara]]** (Yoga-Vedanta)
+
+## Sources
+
+- [The Yoga Sūtras of Patañjali, Woods translation (1914), reprinted](https://www.theessentialway.org/yoga-sutras/) — 1.18, 3.9, 3.10, 3.15, 3.18

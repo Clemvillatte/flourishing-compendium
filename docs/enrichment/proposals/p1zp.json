@@ -1,6 +1,6 @@
 {
   "batch": "p1zp",
-  "revision": 2,
+  "revision": 3,
   "records": [
     {
       "action": "reciprocal",
@@ -36,6 +36,13 @@
       "link": "Y008",
       "why": "listed for comparison with the principle's account of measuring practice by stability rather than intensity",
       "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Equanimity page defines the even-minded state via Desbordes et al. 2014, exactly the outcome-measure framing Y008 draws on (YS 1.3's abiding, 1.47's undisturbed calm); page cites no p1zp item"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Samskara",
+      "link": "Y022",
+      "why": "listed for comparison with the principle's account of working with latent impressions as the deep layer",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Samskara page is a stub (Wikipedia source only, no Cited-in entries); Y022 quotes Woods YS 1.18 on the concentration of subliminal-impressions and 3.9-3.10 on impressions alternating and directing the mind-stuff's flow"
     }
   ]
 }
