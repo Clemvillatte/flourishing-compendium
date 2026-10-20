@@ -17,9 +17,10 @@
   "P087",
   "P088",
   "P094",
-  "P119"
+  "P119",
+  "P120"
  ],
- "in_progress": "P120",
+ "in_progress": null,
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
@@ -31,6 +32,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T04:39:10+00:00",
+ "updated": "2026-10-20T04:39:18+00:00",
  "band_done": false
 }
