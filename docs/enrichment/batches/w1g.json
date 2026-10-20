@@ -30,7 +30,8 @@
   "The free person loves all",
   "The great poem of the body",
   "The habit body",
-  "The hedonic trap of seeking peak experiences"
+  "The hedonic trap of seeking peak experiences",
+  "The human condition"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,10 +57,11 @@
   "The free person loves all": "fast-track enriched (item 9); degree 9; Spinoza Ethics IV Elwes (Gutenberg 971) opened, Props. XXXVII/LXVII/LXXII verified verbatim; NOTE: title is a paraphrase heading for Ethics IV's free-man teachings, not a verbatim Spinoza phrase — supervisor disposition on keeping or renaming",
   "The great poem of the body": "fast-track enriched (item 10, QC round complete); degree 10; QC PASS after repair: heading traced to the 1855 Preface ('your very flesh shall be a great poem') verified verbatim from the Internet Archive first-edition scan; Leaves of Grass (Gutenberg 1322) poems verified; sacred-body line correctly attributed to I Sing the Body Electric sec. 8; advisor QC at item 10 flagged 4 issues, all resolved",
   "The habit body": "fast-track enriched (item 11); degree ~15+; Smith-translation PoP full text opened via Internet Archive; three habit passages verified verbatim (organist blockquote + typist + dilating-being); no rename needed — 'habit body' is Merleau-Ponty's term (corps habituel)",
-  "The hedonic trap of seeking peak experiences": "fast-track enriched (item 12); degree 9; Mauss et al. 2011 abstract verified via NCBI efetch (blockquotes verbatim); FLAG: title's 'peak experiences' is compendium framing — the Mauss paper concerns valuing happiness generally, not peak experiences (Maslow's term); rename candidate for supervisor"
+  "The hedonic trap of seeking peak experiences": "fast-track enriched (item 12); degree 9; Mauss et al. 2011 abstract verified via NCBI efetch (blockquotes verbatim); FLAG: title's 'peak experiences' is compendium framing — the Mauss paper concerns valuing happiness generally, not peak experiences (Maslow's term); rename candidate for supervisor",
+  "The human condition": "fast-track enriched (item 13); degree 9; full text of Arendt HC opened via Internet Archive; three Prologue passages verified verbatim; no rename needed — Arendt's own title term"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:21:54+00:00",
+ "updated": "2026-10-20T06:22:41+00:00",
  "band_done": false
 }
