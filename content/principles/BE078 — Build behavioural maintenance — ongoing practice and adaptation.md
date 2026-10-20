@@ -20,15 +20,15 @@ What keeps a behaviour going, per the review's synthesis:
 
 > "By systematically reviewing maintenance-relevant behaviour change theories, five overarching interconnected theoretical themes emerged: maintenance motives, self-regulation, resources, habits and contextual influences." (Kwasnicka et al., 2016, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/))
 
-And the motives shift as the change settles in:
+One hypothesis concerns maintenance motives:
 
 > "Motives are hypothesised to be particularly facilitating for maintenance if they enable regular gratification from enacting the new behaviour, rather than from the experience of changing. For example, by focusing on behaviour enjoyment, satisfaction with behavioural outcomes, self-determination or if individuals experience congruence of the newly adopted behaviour with their identity, beliefs and values." (Kwasnicka et al., 2016, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/))
 
 **Plain words**
-Starting a behaviour and keeping it going run on different fuel. A review of 100 theories put maintenance down to five things: motives that pay off during the behaviour itself, self-regulation, resources, habits, and the context around you. The pleasure has to move from "I am changing" to "I like doing this."
+Keeping a new routine going may call for different support than starting it. Review whether the routine is rewarding, what barriers you face, and whether your resources and surroundings support it.
 
 **For example**
-The exercise routine that survived three life restructurings. The review's themes name what that took: the behaviour stayed rewarding in itself, self-regulation caught the lapses, and the format was rewritten each time the context moved. Same behaviour, third format.
+Suppose a changed work schedule prevents someone attending their usual exercise class. They try another time and review whether it fits.
 
 ## Sources
 
