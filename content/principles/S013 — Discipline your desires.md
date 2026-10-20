@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 135** — Discipline your desires
 
-Most suffering comes from wanting what you cannot have or avoiding what you cannot escape. Train yourself to want only what is within your control: virtuous action. Everything else, accept when it comes and let it go when it leaves.
+Most suffering comes from wanting what you cannot have or avoiding what you cannot escape. Epictetus draws the line once and applies it everywhere: "In our power are opinion, movement towards a thing, desire, aversion, turning from a thing; and in a word, whatever are our acts. Not in our power are the body, property, reputation, offices, and in a word, whatever are not our own acts." (Epictetus, Enchiridion 1, tr. Long, https://www.gutenberg.org/cache/epub/10661/pg10661-images.html.) The stakes of the line: "he who fails in his desire is unfortunate; and he who falls into that which he would avoid is unhappy... if you attempt to avoid disease, or death, or poverty, you will be unhappy." (Ench. 2.)
 
-(Disc. I.4, III.2; Ench. 2; Med. VI.41, VII.33.)
+Train yourself to want only what is within your control — acting well. Epictetus marks desire as the first of the three exercises of one who would be wise: "The first concerns the desires and the aversions, that a man may not fail to get what he desires, and that he may not fall into that which he does not desire." (Discourses III.2.) Everything outside your power gets acceptance, not wanting: "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life." (Ench. 8.)
 
-**Plain words** Most suffering comes from wanting what you can't have or dodging what you can't escape. Train yourself to want only what lies in your control: acting well. Accept the rest when it comes and let it go when it leaves.
+(Disc. I.4, III.2; Ench. 1, 2, 8.)
+
+**Plain words** Draw one line through your wants. On one side, how you act; on the other, everything else — the reply, the outcome, the market, the weather. Put your wanting on the acting side only, and disappointments lose their sting: you did your part, and the rest was never yours to hold. When life sends what you didn't order, the practice is to want it as it is.
 
 *For example:* Hoping for a particular reply from a friend makes the wait unbearable. Wanting to write a kind message makes it done once you've sent it.
 
@@ -44,3 +46,6 @@ Is it possible, or desirable, to stop wanting things like love, health or justic
 %%
 How does this advice relate to ambition? Can a person be driven and still discipline desire this way?
 -->
+
+## Sources
+- Epictetus, Enchiridion 1, 2, 8 and Discourses I.4 ("Of Progress or Improvement") and III.2 (three topics), tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html

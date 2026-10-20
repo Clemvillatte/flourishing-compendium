@@ -297,3 +297,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   inherited with this flag.
 - Saturation: reciprocal links confirmed in Common flourishing, The common good,
   Communitarianism, Prosocial motivation (all list R107). No new proposal warranted.
+
+## S013 — Discipline your desires
+- Full work: verbatim quotes added (Ench. 1 in-our-power line; Ench. 2 unfortunate/unhappy
+  stakes; Disc. III.2 first-of-three-exercises; Ench. 8 "Seek not that the things which happen
+  should happen as you wish..."), all verified against the opened Long translation (Gutenberg
+  10661). Body's accept/let-go sentence now grounded in Ench. 8. Plain words rewritten as
+  re-derivation (one line through your wants). For-example kept. Sources section added.
+- Flags: Med. VI.41 and VII.33 REMOVED from the citation line — both checked in Long's
+  Meditations (Gutenberg 2680, opened) and neither carries the claim in that translation;
+  no replacement Marcus quote asserted. Hofmann et al. 2012 / Berridge & Kringelbach 2015
+  (inherited psychology parallels labels) not opened this session — left as inherited.
+- Saturation: reciprocal links confirmed in Desire experience-sampling, Discipline of rest
+  (both list S013). No new proposal warranted.
