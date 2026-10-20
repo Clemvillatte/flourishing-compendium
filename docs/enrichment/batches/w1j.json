@@ -28,7 +28,8 @@
   "Stage theories of development",
   "The bundle theory",
   "The ideal self",
-  "The redemptive self"
+  "The redemptive self",
+  "The wanting/liking dissociation"
  ],
  "in_progress": null,
  "flagged": {
@@ -38,10 +39,11 @@
   "Recognising limits": "QC re-review resolved 2026-10-20 (genuineflourishing04): all Enchiridion I Higginson quotes re-verified verbatim vs freshly opened Gutenberg #45109; compendium-list labelling repair confirmed in place (editorial extension, not Epictetus's list)",
   "The body schema": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; Toadvine SEP §3 URL; all quotes string-verified vs raw SEP HTML; PP primary text not opened, PP 129/102 locator carried as Toadvine's; QC DISPOSITION: advisor scoped PASS (2026-10-20, final check) after two repair rounds",
   "Stage theories of development": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; SAGE chapter p. 8 section 'Are there stages in development?' (book authorship NOT asserted, in-text citation insufficient) + Piper Meadville PDF p. 3 raw-verified; QC DISPOSITION: advisor PASS after three repair rounds (full Fowler sentence, attribution removed, Piper lead-in, locators, seed-sentence deletion)",
-  "Pleasant activities scheduling (Lewinsohn)": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; Mazzucchelli Kane Rees 2010 PMC2882847 Introduction section (heading verified in raw HTML); quotes verbatim; QC DISPOSITION: advisor scoped PASS after mechanism-sentence removal and Introduction locator; original completion history retained"
+  "Pleasant activities scheduling (Lewinsohn)": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; Mazzucchelli Kane Rees 2010 PMC2882847 Introduction section (heading verified in raw HTML); quotes verbatim; QC DISPOSITION: advisor scoped PASS after mechanism-sentence removal and Introduction locator; original completion history retained",
+  "The wanting/liking dissociation": "evidence note (genuineflourishing04, 2026-10-20): degree 7 fast-track eligible; source Berridge & Robinson 2016 PMC5171207, abstract quotes verified; inherited tail line's opioid-mediation claim NOT re-verified this session (left as inherited content citing the same paper)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:29:13+00:00",
+ "updated": "2026-10-20T11:29:45+00:00",
  "band_done": false
 }
