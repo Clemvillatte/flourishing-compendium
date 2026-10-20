@@ -11,8 +11,8 @@
   The blockquote (Darius / Callatians / Greeks story ending "...use and wont is
   lord of all") verified verbatim against the fetched PDF. The "For if it were
   proposed to all nations..." prose quote was verified against the same PDF but
-  REMOVED from the page in QC round 2 when the opening was rewritten around the
-  Britannica definition. Note:
+  REMOVED from the page in QC round 2 when the opening was rewritten around a
+  modern definition. Note:
   the fetched Godley text reads "after examination made" / "so well is each
   persuaded" where the Perseus modernized version reads "after examination" /
   "so well is each convinced" - quoted per the fetched text. Perseus itself was
@@ -28,13 +28,29 @@
   Herodotus and the sophist Protagoras appeared to endorse some form of
   relativism". Added in QC round 1 (the advisor required the modern concept's
   definition from an opened source; Herodotus alone does not define it).
+- QC round 2: Britannica "Cultural relativism" topic page fetched - its
+  definition sentence turned out to be an AI-generated Quick Summary ("This
+  summary is created from Britannica articles using AI"), NOT editorial
+  Britannica text; that quote was removed from the page. Britannica "Ethical
+  relativism" (James Rachels) fetched - defines ethical relativism, not the
+  exact term. RESOLUTION: the Britannica "culture" article (White et al.)
+  fetched (https://www.britannica.com/topic/culture); its Cultural relativism
+  section verified verbatim - "The view that elements of a culture are to be
+  understood and judged in terms of their relationship to the culture as a
+  whole—a doctrine known as cultural relativism—led to the conclusion that the
+  cultures themselves could not be evaluated or graded as higher and lower,
+  superior or inferior." The opening now quotes this (split into two
+  fragments at the em dashes to respect the dash budget). The genuine Boas-
+  article excerpt ("frequently called cultural relativists...") is available
+  on the same topic page but was dropped from the opening for provenance
+  tightness (the SEP Boas quote already covers the background).
 
 ## Decisions
 
 - Fast-track bar: one blockquote (the Darius story) + short synthesis. (The
   "proposed to all nations" prose quote from the first draft was removed in QC
-  round 2 when the opening was rewritten around the Britannica definition of
-  the exact term.) Saturation skipped
+  round 2 when the opening was rewritten around a modern definition of the
+  exact term.) Saturation skipped
   per §1a except one obviously missing reciprocal (Cultural psychology -
   target page confirmed to lack the backlink), submitted in proposals/w1e.json
   with a source-bound why clause. Cultural embeddedness and Hofstede Related
@@ -48,6 +64,9 @@
   good; SO016 reported as recommending understanding-in-context while
   retaining moral criticism); the opening rewritten around the SEP
   definitions; "responds to" relationships removed from the page and the
-  proposal why clause (replaced with subject-based comparisons).
+  proposal why clause (replaced with subject-based comparisons). QC round 3:
+  the AI-summary definition replaced by the Britannica culture-article
+  definition (see Sources opened above); the proposal why clause direction
+  fixed ("questions about cultural variation in customs and moral outlooks").
 - Front-matter, the ## Facets section and all original links preserved
   unchanged.
