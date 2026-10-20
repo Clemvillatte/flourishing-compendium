@@ -380,3 +380,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Saturation: reciprocal links confirmed in Anger management and Corrective justice concept
   pages (both list S042; both are also the principle's own parallel labels, so the links are
   mutual). No new proposal warranted.
+
+## S047 — See impressions as what they are: appearances, not realities
+- Full work: verbatim quotes added (Ench. 5 — "Men are disturbed not by the things which
+  happen..."; Disc. II.18 — "Appearances, wait for me a little; let me see who you are...",
+  "the true athlete... who exercises himself against such appearances"), verified against the
+  opened Long translation (Gutenberg 10661). Ench. 5 added to the citation line (it now carries
+  the principle's core claim). Plain words rewritten as re-derivation (event vs caption). For-
+  example kept. Sources section added.
+- Flags: Disc. I.20, III.6, III.12 and Med. VI.13, VII.35 (inherited citation line) not opened
+  this session — left as inherited with this flag.
+- Saturation: mutual links confirmed — Distrust names and labels, Language games, Cognitive
+  defusion, The discipline of assent all list S047 and are all the principle's own parallel
+  labels. No new proposal warranted.

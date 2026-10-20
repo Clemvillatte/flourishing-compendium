@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 169** — See impressions as what they are: appearances, not realities
 
-An impression of danger is not danger. An impression of insult is not insult. The impression is a mental event; the reality is something else. Train yourself to see the appearance as an appearance.
+An impression of danger is not danger; an impression of insult is not insult. The impression is a mental event, and what it presents may be otherwise. Epictetus: "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, this is the terrible thing." (Epictetus, Enchiridion 5, tr. Long, https://www.gutenberg.org/cache/epub/10661/pg10661-images.html.)
 
-(Disc. I.20, II.18, III.6, III.12; Med. VI.13, VII.35.)
+The training is to intercept the impression before it hardens into opinion: "be not hurried away by the rapidity of the appearance, but say, Appearances, wait for me a little; let me see who you are, and what you are about; let me put you to the test." (Discourses II.18, "How we should struggle against appearances.") The true athlete, he says, is exactly the one "who exercises himself against such appearances."
 
-**Plain words** An impression of danger isn't danger. An impression of insult isn't an insult. The impression is a mental event, and reality is something else. Learn to see an appearance as an appearance.
+(Disc. I.20, II.18, III.6, III.12; Med. VI.13, VII.35; Ench. 5.)
+
+**Plain words** What arrives is a sound, a face, an email; what it means is your caption. The discipline is to catch the caption being written — to say to the mental picture, wait, let me see what you actually are — before signing off on it. The event is one thing; the story about the event is another, and most disturbance lives in the story.
 
 *For example:* Hearing a noise at night and thinking "intruder," then recognising it as the radiator.
 
@@ -42,3 +44,6 @@ Is it always possible to separate appearance from reality? Where does it break d
 %%
 How does this principle relate to modern ideas about cognitive distortions?
 -->
+
+## Sources
+- Epictetus, Enchiridion 5 and Discourses II.18 ("How we should struggle against appearances"), tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html

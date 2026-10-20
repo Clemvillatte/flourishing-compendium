@@ -22,7 +22,8 @@
   "R107",
   "S013",
   "S018",
-  "S042"
+  "S042",
+  "S047"
  ],
  "in_progress": null,
  "flagged": {
@@ -39,5 +40,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:21:19+00:00"
+ "updated": "2026-10-20T08:21:57+00:00"
 }
