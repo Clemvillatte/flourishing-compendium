@@ -14,20 +14,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Health, wealth, and reputation are not goods but preferred indifferents: you may reasonably pursue them, but your flourishing does not depend on them. Sickness, poverty, and disrepute are dispreferred but not bad. Hold preferred indifferents loosely: pursue them without attachment, lose them without grief.
 
-Health, wealth and reputation are normally worth choosing over their opposites, according to mainstream Stoic ethics. Calling them indifferent does not mean there is no reason to seek them: it means their possession cannot make a life virtuous or happy in the school's demanding sense. Virtue alone can do that ([Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
+Health, wealth and reputation are normally worth choosing over their opposites, according to mainstream Stoic ethics ([Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/)). Calling them indifferent does not mean there is no reason to seek them: it means their possession cannot make a life virtuous or happy in the school's demanding sense; virtue alone can do that ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
 
-Epictetus makes the distinction practical: "Things themselves are indifferent; but the use of them is not indifferent." His example is a game of dice. You cannot choose the throw, but you can play it carefully; calling the dice indifferent gives you no excuse for careless play ([Discourses II.5, George Long translation](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
+Epictetus makes the distinction practical: "Things themselves are indifferent; but the use of them is not indifferent." ([Discourses II.5, George Long translation](https://classics.mit.edu/Epictetus/discourses.2.two.html)). His example is a game of dice: you cannot know which throw is coming, but you can play it carefully; calling the dice indifferent gives you no excuse for careless play ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
 
-Nor is the preference unconditional. Epictetus compares a person with a foot: considered alone, it should stay clean, but as part of a body it may need to step into mud. Duties to other people can give us reason to accept an otherwise unwanted outcome ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
+Nor is the preference unconditional: Epictetus compares a person with a foot, which, considered alone, should stay clean, but as part of a body may need to step into mud ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)). Duties to other people can give us reason to accept an otherwise unwanted outcome ([Discourses II.5](https://classics.mit.edu/Epictetus/discourses.2.two.html)).
 
-**Plain words** On this account, being ill or poor does not make you a worse person. Looking after your health or earning a living still deserves care; you need not despise either because it cannot secure your character ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
+**Plain words** A way to use the distinction: when a choice pits comfort against a responsibility, do not stop at which option feels better. Ask whether gaining the preferred thing would cost you honesty or fairness ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
 
 *For example:* Suppose you apply for a better-paid job. You prepare thoroughly, decline to lie about your qualifications, and let an unsuccessful application remain a disappointment rather than a verdict on your worth.
 
 ## Psychology parallels
 
-- **[[Nonattachment|Nonattachment research]]**: Sahdra and colleagues developed a scale for release from mental fixations and reported evidence of psychological and social adaptiveness; their abstract does not establish the inherited claim of benefits beyond mindfulness ([2010 abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
-- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goal content]]**: relatively central aspirations for money, appearance and recognition were associated with lower well-being in two samples; this is correlational evidence, not a test of Stoic ethics ([Kasser and Ryan, 1996 abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006)).
+- **[[Nonattachment|Nonattachment research]]**: Sahdra and colleagues developed a scale for release from mental fixations and reported evidence of psychological and social adaptiveness ([2010 abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
+- **[[Intrinsic versus extrinsic goals|Intrinsic versus extrinsic goal content]]**: relatively central aspirations for money, appearance and recognition were associated with lower vitality and self-actualisation and more physical symptoms in the adult sample, with findings replicated and extended in a college sample; this is correlational evidence ([Kasser and Ryan, 1996 abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006)).
 
 ## Philosophy parallels
 
