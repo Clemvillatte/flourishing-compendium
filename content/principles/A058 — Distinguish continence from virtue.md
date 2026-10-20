@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 58** — Distinguish continence from virtue
 
-Aristotle separates two states that look alike from outside. The continent man is "ready to abide by the result of his calculations" while the incontinent is ready to abandon them ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)); continence is a state of holding to a calculation against appetite. The temperate man is different in kind: "a temperate man will have neither excessive nor bad appetites," so the two states do not simply coincide — "if continence involves having strong and bad appetites, the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The compendium's extension: continence is a real holding-pattern state, and the distinct state worth aiming at is one where the appetite itself has changed.
+Aristotle separates two states that look alike from outside. The same man is thought to be "continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them" ([NE VII.1](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The discussion then poses the relation to temperance conditionally: "a temperate man will have neither excessive nor bad appetites," and if continence involves having strong and bad appetites, then "the temperate man will not be continent nor the continent man temperate" ([NE VII.2](http://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)). The exercise below distinguishes the two states.
 
 > And the same man is thought to be continent and ready to abide by the result of his calculations, or incontinent and ready to abandon them.
 >
@@ -26,9 +26,9 @@ Aristotle separates two states that look alike from outside. The continent man i
 
 ### Plain words
 
-Two people can both skip the biscuit. One is holding out against wanting it; the other does not want it. From outside they look the same, which is why Aristotle insists on the difference: continence is appetite plus resistance, temperance is appetite already shaped. For an exercise, take one ongoing self-control battle of yours and ask what change would make the battle unnecessary.
+Continence is appetite plus resistance; temperance is appetite already shaped — that is the contrast the chapter draws, conditionally. For an exercise, take one ongoing self-control battle of yours and write down the two sides: the calculation you are holding to, and the appetite pulling the other way.
 
-For example: resisting the biscuit tin through willpower is continence. Not wanting it by mid-afternoon, because your meals now keep you full, is something more. (An invented illustration.)
+For example: keeping a household budget against a wish to spend is continence-shaped: the calculation is the budget, and the appetite is the wish. Naming both sides is the exercise. (An invented illustration.)
 
 ## Psychology parallels
 
