@@ -65,3 +65,6 @@ No advisor tool available; QC is self-QC only.
 
 ## SP002 See everything as one system
 - Opened: Spinoza Ethics (Elwes, Gutenberg 3800) full text; I P14, P15, III preface, IV preface quotes verbatim. 'Deus sive natura' is not in I P14-15 (appears in Latin in IV preface; English 'God or Nature' confirmed); original locator 'especially P14 and P15' kept only for the substance claim. Practical 'prevents most suffering' claim labelled as the entry's reading. Barrett 2017 and Plotinus not opened.
+
+## SP013 Love and hate as attached affects
+- Opened: Spinoza Ethics (Elwes) full text; Def. of Emotions VI, VII and V P2 + proof, verbatim. Original locator 'III P13 and P14' not matching Elwes (definitions are at end of Part III); Elwes uses pleasure/pain where the entry says joy/sadness (translation difference noted on page; other translations not opened). Remedy in V P2 is to link the emotion to other thoughts, noted as slightly different from 'examine the attribution'.
