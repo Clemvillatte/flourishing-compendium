@@ -6,13 +6,12 @@
   "Y108",
   "Y115",
   "A009",
-  "A034",
   "A048",
   "A052",
   "A060",
   "A024"
  ],
- "in_progress": null,
+ "in_progress": "A034",
  "flagged": {
   "Y095": "Reopened for QC: advisor QC round 2 fail: Y095 still substitutes fact-checking for the source's knowledge claim; ledger provenance inaccurate; needs actual enrichment_find mention check",
   "Y097": "advisor round-2 still rejected: razor-path verse does not establish revisable answers; Y097 needs fresh source attribution",
