@@ -497,3 +497,24 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   sense doors/examining impressions: related Buddhist-practice ground, loose fit, no
   proposal. S053 (control/influence) and S077 (hospitality/kindness/stranger) — no
   unlinked mentions warranting proposals beyond the Acts of kindness record already filed.
+
+## Round 5 follow-up, part 2 (advisor confirmation round 2)
+- Mention checks actually run and inspected (correcting the earlier ledger line that claimed
+  S047/S053/S077 checks): S047 (impression/appearance) surfaces A006, A041, A053, AT001,
+  AT020, AT071 (appearance/reality parallels in other bands; AT020/AT071 carry an
+  "Appearance vs reality under emotion (Stoics, Epictetus)" parallel); S053 (control/
+  influence) surfaces A006, A069, AF-layer items; S077 (hospitality/stranger/kindness)
+  surfaces A041, A074, AT061, B048, B130 and the Acts of kindness (Lyubomirsky) concept
+  (which already lists S077 — the filed proposal covers the missing return edge); S018
+  loss/grief check added (surfaces A008, A010, A020, A023, A034, A039 — grief-adjacent
+  pages in other bands, no unlinked mention of S018's restitution claim). No new proposals
+  warranted from any of these checks.
+- Quotation comparison rerun after the colon fix, against an explicit list of the 14 intended
+  verbatim quotations (chapter titles cited by name and the inherited ACT phrase excluded):
+  14 of 14 verified as substring matches against the downloaded raw source texts (fragments
+  split at ellipses, whitespace normalised). S053 carries no verbatim quotation (Ench. 1 is
+  paraphrased, noted in its Sources).
+- Proposal why clauses trimmed per advisor (revision 6): R107/Common flourishing — "The
+  common good concerns the shared conditions for flourishing within a community."; S077/
+  Acts of kindness — "Hospitality puts kindness into practice through ordinary help
+  offered to strangers."
