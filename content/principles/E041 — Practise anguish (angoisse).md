@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 433** — Practise anguish (angoisse)
 
-Recognise anguish — the experience of confronting your own freedom and the groundlessness of your existence. Anguish is not fear of something specific but the vertigo of freedom: the realisation that nothing grounds your choices except your choosing. Do not flee from anguish; let it reveal the structure of your freedom.
+Sartre treats anguish (angoisse) as fear turned back on the agent: fear is of things in the world, anguish is of oneself and one's own freedom ([Being and Nothingness, Part I, ch. 1, Barnes translation; opened full text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)). His examples are vertigo at a precipice and the gambler who returns to the table after resolving to quit: what unsettles each is discovering that no past resolution guarantees what the self will do next.
 
-(Sartre, 1943/2003, Being and Nothingness, Part I, ch. 1, and Part IV, ch. 2; Heidegger, 1927/2008, Being and Time, §40.)
+> Vertigo is anguish to the extent that I am afraid not of falling over the precipice, but of throwing myself over.
 
-**Plain words** Anguish (angoisse): the vertigo of confronting your own freedom — nothing grounds your choices except your choosing. Not fear of something specific; the dizziness of being the author. Don't flee it into distraction. It's the accurate feeling.
+(Sartre, Being and Nothingness, trans. Hazel E. Barnes, 1956, Part I, ch. 1; [opened full text, Internet Archive](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt).)
 
-*For example:* The graduate standing before the open field of "anything next" who feels not excitement but nausea — that's anguish doing what anguish does: telling the truth about the authorship. The ones who feel nothing have usually outsourced the writing.
+The practice is to treat this unease as information about authorship rather than as a malfunction to suppress. It reports, accurately but narrowly, that the next step is not settled by anything outside your choosing.
+
+### Plain words
+
+Fear points outward at dangers. Anguish points back at you: the queasy recognition that you are the one deciding, and that nothing decides in your place. You can note the feeling without treating it as a verdict on your life or as proof you must act on it.
+
+This philosophical account is not a clinical assessment: persistent distress that interferes with daily life warrants professional attention, and treatment can include psychotherapy, medication or both ([NIMH, "Generalized Anxiety Disorder"](https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad)). Do not stop prescribed medication without a healthcare provider's help ([NIMH, "Mental Health Medications"](https://www.nimh.nih.gov/health/topics/mental-health-medications)).
+
+### For example
+
+Someone finishing a degree faces a range of open directions and feels not excitement but unease about which to take. They can name the feeling as pointing at the choice at hand, make the next concrete decision, and seek support if the distress starts disrupting sleep or daily functioning.
+
 ## Psychology parallels
 
 - **[[Angst|Existential anxiety]]** (Yalom, 1980; Tillich, 1952)
@@ -27,4 +38,5 @@ Recognise anguish — the experience of confronting your own freedom and the gro
 ## Philosophy parallels
 
 - **[[Anguish (angoisse)|Anguish (angoisse)]]** (Sartre, Being and Nothingness)
-- **[[Angst|Anxiety (Angst)]]** (Heidegger, Being and Time, §40)- **[[Angst|Angst]]** (Existentialism & Phenomenology)
+- **[[Angst|Anxiety (Angst)]]** (Heidegger, Being and Time, §40)
+- **[[Angst|Angst]]** (Existentialism & Phenomenology)

@@ -26,7 +26,8 @@
   "CO068",
   "CO076",
   "E044",
-  "E021"
+  "E021",
+  "E041"
  ],
  "in_progress": null,
  "flagged": {
@@ -55,6 +56,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 21,
- "updated": "2026-10-20T13:28:11+00:00",
+ "updated": "2026-10-20T13:49:15+00:00",
  "band_done": false
 }
