@@ -53,10 +53,10 @@
   "The having mode",
   "The three kinds of knowledge",
   "ADHD: interest-based attention",
-  "Action before feeling",
   "Anapanasati (mindfulness of breathing)",
   "Affect as information",
-  "Atman"
+  "Atman",
+  "Action before feeling"
  ],
  "in_progress": null,
  "flagged": {
@@ -81,11 +81,12 @@
   "Acceptance alongside values-based action": "namespace: title is compendium phrasing of ACT's acceptance+committed action pairing; no source defines this exact construct; supervisor disposition requested (see sources/w1c ledger)",
   "Anapanasati (mindfulness of breathing)": "Reopened for QC: QC milestone: reword near-verbatim posture wording, drop observation-not-control, add step locator",
   "Affect as information": "Reopened for QC: QC note application",
-  "Atman": "Reopened for QC: QC note application"
+  "Atman": "Reopened for QC: QC note application",
+  "Action before feeling": "namespace: title names the compendium's application of Aristotle's NE II habituation account, not a source-defined construct; supervisor disposition requested (taskboard route + sources/w1c ledger); page and links preserved; source-content repairs advisor-PASS round 2"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:59:20+00:00",
+ "updated": "2026-10-20T08:01:59+00:00",
  "band_done": false,
  "new_concepts": [
   {

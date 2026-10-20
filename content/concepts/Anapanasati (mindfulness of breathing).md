@@ -7,7 +7,7 @@ file: "Anapanasati (mindfulness of breathing)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Anapanasati is mindfulness of in-and-out breathing. In the Anapanasati Sutta (MN 118), the practitioner sits in a quiet place, upright, and attends to inhalation and exhalation, recognizing whether each breath is long or short. The sutta's later steps include training that sensitizes the breath to the whole body and training that calms the body's activity.
+Anapanasati is mindfulness of in-and-out breathing. In the Anapanasati Sutta (MN 118), the practitioner sits in a quiet place, upright, and attends to inhalation and exhalation, recognizing whether each breath is long or short.
 
 > "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.' Or breathing in short, he discerns, 'I am breathing in short'; or breathing out short, he discerns, 'I am breathing out short.'" (Anapanasati Sutta, MN 118, breathing instructions, steps 1-2, [Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 

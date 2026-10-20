@@ -22,15 +22,10 @@
   sourcing). Locator 1103b given for the blockquote; MIT page carries no Bekker
   numbers, chapter reference is by book/chapter structure of the archive.
 
-## QC round 2 (milestone advisor, 2026-10-20)
-Milestone QC flagged this item; repairs applied per the advisor's instructions and
-re-validated against baseline 77b2ea3e: near-verbatim source wording removed from
-prose (quoted exactly or reworded), categorical/overreaching claims qualified or
-removed, locators given only where the opened source displays them (Atman: SEP
-opening overview; Anapanasati: MN 118 breathing instructions steps 1-2; Affect as
-information: manuscript opening paragraph + published-chapter details verified
-against the author's USC page). Action before feeling: namespace flag recorded for
-supervisor disposition (title names the compendium's application of Aristotle's
-habituation account, not a source-defined construct). Scope statement above
-adjusted: this is sampled acceptance of the repaired passages, pending advisor
-round-2 review.
+## QC disposition (advisor rounds, 2026-10-20)
+Round 1 (milestone): source-account repairs PASS; namespace HOLD. The repaired
+explanation distinguishes Aristotle's habituation account from a general
+action-before-emotion claim. The namespace flag was initially NOT recorded in
+the band state (a failed command chain); recorded 2026-10-20 after round-2
+review caught it. Item remains namespace-PENDING supervisor disposition; done
+marker is not concept-acceptance.

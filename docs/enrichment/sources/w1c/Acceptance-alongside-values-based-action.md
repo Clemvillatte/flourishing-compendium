@@ -37,3 +37,10 @@
   values-based action". No disposition found in concept-namespace-audit.md. Flagged
   in the band state and routed to the supervisor via TASKBOARD; page and links
   preserved, not renamed or merged.
+
+## QC disposition (advisor rounds, 2026-10-20)
+Round 1: FAIL (see above), repairs applied. Round 2 (milestone follow-up): prose
+PASS — quotation, synthesis and attribution concerns addressed; NAMESPACE HOLD —
+the construct-naming question is unresolved and blocks whole-item acceptance.
+Item remains namespace-PENDING supervisor disposition; done marker is not
+concept-acceptance.

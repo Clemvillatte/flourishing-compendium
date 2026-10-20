@@ -23,15 +23,10 @@
   added (none existed; no existing concept neighbour jumped out — validator
   warning non-blocking). No synthesis beyond the opened material.
 
-## QC round 2 (milestone advisor, 2026-10-20)
-Milestone QC flagged this item; repairs applied per the advisor's instructions and
-re-validated against baseline 77b2ea3e: near-verbatim source wording removed from
-prose (quoted exactly or reworded), categorical/overreaching claims qualified or
-removed, locators given only where the opened source displays them (Atman: SEP
-opening overview; Anapanasati: MN 118 breathing instructions steps 1-2; Affect as
-information: manuscript opening paragraph + published-chapter details verified
-against the author's USC page). Action before feeling: namespace flag recorded for
-supervisor disposition (title names the compendium's application of Aristotle's
-habituation account, not a source-defined construct). Scope statement above
-adjusted: this is sampled acceptance of the repaired passages, pending advisor
-round-2 review.
+## QC disposition (advisor rounds, 2026-10-20)
+Round 1 (milestone): FAIL — categorical discounting claim, "happiness" outcome
+substitution, "The feeling stayed", missing manuscript locator. Round 2: PASS —
+sunny/rainy asymmetry preserved, supported outcomes only, overcorrection
+qualification added, manuscript distinguished from the published chapter
+(publication details verified against the opened USC summary page). Content QC
+CLOSED.
