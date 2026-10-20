@@ -23,7 +23,7 @@ Chögyam Trungpa's commentary on it:
 Trungpa presents the move as practical rather than penitential: taking the blame yourself is "a much simpler and more direct way of controlling the situation" and "the most direct way of simplifying complicated neuroses into one point", and "if you look for volunteers around you to take the blame, there will be no volunteers other than yourself". The slogan is not a gag order: "This slogan does not mean you should not speak up. If you see something that is obviously destructive to everybody, you should speak out." ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
 
 **Plain words**
-When something goes wrong, your mind builds a case against everyone involved. The case may even be accurate, and building it changes nothing: the only person in the file whose conduct you can revise is you. Naming your part first is not a guilt verdict, it is picking up the one tool in the room.
+When something goes wrong, your mind builds a case against everyone involved. As an exercise inspired by the slogan, pick one action of your own in the affair that you would change, and name it without first settling who was most responsible.
 
 For example: After an argument with your manager, you write down your three contributions before drafting the email.
 

@@ -20,10 +20,10 @@ Chögyam Trungpa's commentary grounds the gratitude in necessity:
 
 > "So the idea here is to feel grateful that others are presenting us with tremendous obstacles—even threats or challenges. The point is to appreciate that. Without them, we could not follow the path at all." (Chögyam Trungpa, Training the Mind, in The Collected Works, vol. 2)
 
-Trungpa's examples are sensory: "if there is no noise outside during our sitting meditation, we cannot develop mindfulness", and "if everything were lovey-dovey and jellyfish-like, there would be nothing to work with"; "because of all these textures around us, we are enriched". The gratitude is not approval, and he is explicit that the companion sayings are not guilt: "we are not talking about guilt or that we did something terribly wrong. It is seeing things as they are." The difficult people, in his words, "are actually the ones who are pushing us onto the path of dharma". ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
+Trungpa's examples are sensory: "if there is no noise outside during our sitting meditation, we cannot develop mindfulness", and "If everything were lovey-dovey and jellyfish-like, there would be nothing to work with"; "Because of all these textures around us, we are enriched". In the compendium's framing, the gratitude this slogan asks for is not approval of the difficult people; Trungpa himself is explicit that the companion sayings are not guilt: "we are not talking about guilt or that we did something terribly wrong. It is seeing things as they are." The difficult people, in his words, "are actually the ones who are pushing us onto the path of dharma". ([Collected Works vol. 2 PDF](https://terebess.hu/english/coll2.pdf))
 
 **Plain words**
-Your practice has no raw material without other people. The one who interrupts, the one who criticizes, the one who is late: each is a live test of what you actually do under pressure. The gratitude is not approval of them; it is noticing that without them you would have nothing to practice on.
+Your practice has no raw material without other people. The one who interrupts, the one who criticizes, the one who is late: each is a live test of what you actually do under pressure. Without any of them, what would you practice on?
 
 For example: Thanking, in your head, the colleague whose interruptions showed you how much you crave being heard.
 

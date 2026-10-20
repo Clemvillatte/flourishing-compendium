@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 59** — Let thoughts arise and dissolve, like waves on water
 
-The lineage's master image: thoughts are not the enemy of the meditation; they are the mind's own movement, as waves are the sea's own movement, and the practice is to let each one arise, be seen, and dissolve without being followed or fought. The image does the instruction: you do not have to still the sea to know the water. Practically, in sitting, count the waves (the arising thoughts) for a few minutes without stopping them, and let the counting end in resting.
+Tilopa's Ganges Mahamudra Instructions gives the image directly:
 
-(The Mahamudra wave instruction; Tilopa's songs.)
+> "In a mind without engagement and free of wanting anything,
+> Thoughts arise and subside on their own, like ripples on water." (Tilopa, The Ganges Mahamudra Instructions, verse 13, [trans. Ina Bieler, Lotsawa House](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction))
 
-**Plain words** Thoughts aren't the enemy of meditation. They're the mind's own movement, as waves are the sea's. Let each one arise, be seen and dissolve without following or fighting it. You don't have to still the sea to know the water. In sitting, count the gap between waves.
+Verse 4 also connects thoughts subsiding with mind seeing itself: "Likewise, the waves of thoughts arising in the mind / Subside when mind sees itself" (where "mist and clouds disperse into the sky" and "neither go nor remain anywhere"). Verse 13 describes their arising and subsiding within a mind without engagement or wanting. ([Ganges Mahamudra Instructions](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction))
 
-*For example:* A thought about tomorrow's meeting arises, you notice it, and it fades before you've followed it anywhere.
+**Plain words**
+As an everyday exercise inspired by the passage, notice a thought that comes up while you sit. Leave its story unfinished and avoid trying to force it away. Observe what happens without making its disappearance the goal.
+
+For example (imagined): During sitting, you remember tomorrow's meeting. You notice the thought without rehearsing what you will say or trying to drive it away.
+
+## Sources
+
+- [Tilopa, The Ganges Mahamudra Instructions, verses 4 and 13 (trans. Ina Bieler, Lotsawa House)](https://www.lotsawahouse.org/indian-masters/tilopa/ganges-mahamudra-instruction)
 
 ## Psychology parallels
 

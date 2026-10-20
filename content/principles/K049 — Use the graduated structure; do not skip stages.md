@@ -23,9 +23,9 @@ Tsongkhapa's Great Treatise argues the ordering is not stylistic. Citing Aryadev
 The Four Hundred Stanzas, in the same section, "states that the order of the path is definite": first stop the nonmeritorious, then the misconception of self, then all bad views. Tsongkhapa notes that Candrakirti held the same, and tells the teacher to "reach firm certainty about this method". ([Great Treatise vol. 1](https://www.theosophy-ult.org.uk/wp-content/uploads/2021/04/Vol-1-Lamrim-on-Path-to-Enlightenment-Tsong-kha-pa.pdf))
 
 **Plain words**
-The path is built like a staircase: each step is the footing for the next. The early trainings are not warm-ups for the real thing; the advanced practices stand on them. When a practice keeps collapsing, the missing piece is usually below you, not ahead of you.
+The path is built like a staircase: each step is the footing for the next. The early trainings are not warm-ups for the real thing; the advanced practices stand on them. When a practice keeps collapsing, review the earlier instructions before reaching for a stronger technique.
 
-For example: Someone attempts to practise radical compassion without ever having dealt with their own resentment, and it curdles into performance.
+For example (imagined): A practitioner whose compassion practice keeps collapsing goes back to the earlier instruction on patience and reviews it before proceeding.
 
 ## Sources
 

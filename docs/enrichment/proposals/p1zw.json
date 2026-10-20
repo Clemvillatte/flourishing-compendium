@@ -1,6 +1,6 @@
 {
  "batch": "p1zw",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Anatta",
@@ -61,6 +61,12 @@
    "link": "K049",
    "why": "listed for comparison: the clinical graded-exposure staircase (BE027) beside the lamrim's graduated path (K049), two traditions making the same structural argument for ordered steps.",
    "notes": "Saturation scan 2026-10-21 (K049 item): BE027's body describes Prolonged Exposure's step-by-step hierarchy with sourced PTSD-center material but does not link K049; K049 now quotes the lamrim staircase verse. The Gradual training concept already links K049."
+  },
+  {
+   "into": "Urge surfing",
+   "link": "K059",
+   "why": "listed for comparison: the relapse-prevention exercise of watching a craving crest and decline like a wave beside Tilopa's instruction to let thoughts arise and subside on their own, like ripples on water.",
+   "notes": "Saturation scan 2026-10-21 (K059 item): the Urge surfing concept describes the Larimer-Palmer-Marlatt observer exercise with sourced material but does not link K059; both use the same wave image in clinical and contemplative registers. The Ironic process concept already links K059."
   }
  ]
 }
