@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 10** — Know yourself as striving
 
-Spinoza identifies a thing's essence with its striving: each thing "endeavours to persist in its own being," and that endeavour "is nothing else but the actual essence of the thing in question" ([Ethics III, P6–P7](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). His note to Proposition IX extends the point to desire: we do not deem things good and then desire them; we deem them good because we already strive for them. The exercise below applies the distinction to one behavior at a time.
+Spinoza identifies a thing's essence with its striving: each thing "endeavours to persist in its own being," and that endeavour "is nothing else but the actual essence of the thing in question" ([Ethics III, P6–P7](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). His note to Proposition IX extends the point to desire: we do not deem things good and then desire them; we deem them good because we already strive for them ([Ethics III, P9 note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). The exercise below applies the distinction to one behavior at a time.
 
 > Everything, in so far as it is in itself, endeavours to persist in its own being.
 >
@@ -20,17 +20,17 @@ Spinoza identifies a thing's essence with its striving: each thing "endeavours t
 
 > The endeavour, wherewith everything endeavours to persist in its own being, is nothing else but the actual essence of the thing in question.
 >
-> Spinoza, Ethics III, Proposition VII, same translation.
+> Spinoza, Ethics III, Proposition VII, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
 > It is thus plain from what has been said, that in no case do we strive for, wish for, long for, or desire anything, because we deem it to be good, but on the other hand we deem a thing to be good, because we strive for it, wish for it, long for it, or desire it.
 >
-> Spinoza, Ethics III, Proposition IX, note, same translation.
+> Spinoza, Ethics III, Proposition IX, note, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
 (Ethics III, P6, P7, P9 note; Elwes translation.)
 
 ### Plain words
 
-On Spinoza's account, the wanting itself is what you are, not a layer over the real you. For an exercise, take one behavior that puzzles you and ask: what is this trying to keep going, and is it working?
+On Spinoza's account, the wanting itself is what you are, not a layer over the real you ([Ethics III, P6–P7](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). For an exercise, take one behavior that puzzles you and ask: what is this trying to keep going, and is it working?
 
 For example: The third coffee of the afternoon is easier to read as striving than as weakness: something in the day is being pushed through. What that something is, and whether coffee is a good tool for it, are the useful questions.
 ## Psychology parallels
