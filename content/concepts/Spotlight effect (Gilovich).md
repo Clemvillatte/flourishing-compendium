@@ -13,11 +13,11 @@ The spotlight effect is the finding that people overestimate how much others not
 >
 > (Gilovich, Medvec and Savitsky, "The Spotlight Effect in Social Judgment: An Egocentric Bias in Estimates of the Salience of One's Own Actions and Appearance", JPSP 78(2), 2000, [PDF](https://www.psychologyib.com/uploads/1/1/7/5/11758934/the_spotlight_effect_-_ib_psychology.pdf))
 
-The evidence: "participants who were asked to don a T-shirt depicting either a flattering or potentially embarrassing image overestimated the number of observers who would be able to recall what was pictured on the shirt," and participants in a group discussion "overestimated how prominent their positive and negative utterances were to their fellow discussants." The proposed mechanism is anchoring and adjustment: "people appear to anchor on their own rich phenomenological experience and then adjust--insufficiently--to take into account the perspective of others" (Gilovich et al. 2000).
+The evidence: "participants who were asked to don a T-shirt depicting either a flattering or potentially embarrassing image overestimated the number of observers who would be able to recall what was pictured on the shirt"; participants in a group discussion also "overestimated how prominent their positive and negative utterances were to their fellow discussants." The authors propose an anchoring-and-adjustment account: "people appear to anchor on their own rich phenomenological experience and then adjust--insufficiently--to take into account the perspective of others" (Gilovich et al. 2000).
 
 ## Related concepts
 
-- [[Anchoring effect]] — the adjustment mechanism the authors propose
+- [[Anchoring effect]] — the anchoring-and-adjustment account proposed by the authors
 
 ## Sources
 
@@ -35,7 +35,6 @@ The evidence: "participants who were asked to don a T-shirt depicting either a f
 [[CO018 — Understand anchoring — initial values distort subsequent judgments]]
 ## Cited in philosophy parallels
 
-“The spotlight effect: others notice less than you think” — Gilovich.
 - Gilovich
 [[AT022 — Recognise the spotlight effect — you attend to what you think others notice about you]]
 [[SE019 — Recognise the spotlight effect — you overestimate how much others notice you]]
