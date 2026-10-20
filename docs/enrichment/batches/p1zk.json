@@ -3,13 +3,14 @@
  "done": [
   "BE037",
   "BE042",
-  "BE043"
+  "BE043",
+  "BE049"
  ],
- "in_progress": "BE049",
+ "in_progress": null,
  "flagged": {
   "BE037": "scoped QC PASS (advisor round 3): rewrite accepted, trial numbers corrected, quote verbatim vs raw PMC text, AASM/SRS practice bullet narrowed, hygiene list + foundation closer removed; inherited Walker/Alhola/Morin/Yoo parallels flagged not certified"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:57:28+00:00"
+ "updated": "2026-10-20T09:58:19+00:00"
 }

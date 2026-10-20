@@ -12,11 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 49** — Prioritise social connection: it is a basic need and health behaviour
 
-Social connection is not optional; it is a basic psychological need and a health behaviour. Strong social connections predict better health, longevity, and well-being. Loneliness is a major health risk.
+The mortality numbers are what make this a health behaviour rather than a temperament. Across 148 studies and 308,849 participants, stronger social relationships carried a 50% increased likelihood of survival, an effect that held across age, sex, initial health status and length of follow-up. A second meta-analysis separated the components: loneliness raised mortality risk by 26%, social isolation by 29%, and living alone by 32%, effects the authors compare with well-established mortality risk factors.
 
-**Plain words** Connection is not a lifestyle choice — it's a need with a mortality risk attached, like smoking in reverse. Prioritise it like health behaviour, because that's what it is. The people who "don't have time for it" are skipping a prescription.
+> "Across 148 studies (308,849 participants), the random effects weighted average effect size was OR = 1.50 (95% CI 1.42 to 1.59), indicating a 50% increased likelihood of survival for participants with stronger social relationships." (Holt-Lunstad, Smith & Layton 2010, [PLoS Medicine](https://pubmed.ncbi.nlm.nih.gov/20668659/))
 
-*For example:* The "I'm too busy this month" friend discovering the same month was measurably worse for mood and health — the busyness was partly the isolation, billing itself as duty.
+**Plain words**
+The evidence treats connection like a health behaviour: it changes how long people live, on a par with better-known risk factors. So a standing weekly dinner belongs in the same category as sleep and exercise, not in the leftovers of a schedule. Busy months usually cancel connection first; this evidence is the argument for protecting it like sleep.
+
+*For example:* An imagined case: a freelancer who has dropped every social commitment to hit a deadline keeps the deadline, then books two evenings with friends in the following week and treats them as fixed appointments rather than as rewards to be dropped if work appears.
+
+## Sources
+
+- [Holt-Lunstad et al., "Social relationships and mortality risk: a meta-analytic review," PLoS Medicine (2010)](https://pubmed.ncbi.nlm.nih.gov/20668659/) — abstract
+- [Holt-Lunstad et al., "Loneliness and social isolation as risk factors for mortality: a meta-analytic review," Perspectives on Psychological Science (2015)](https://pubmed.ncbi.nlm.nih.gov/25910392/) — abstract
+
 ## Psychology parallels
 
 - **Social connection and health (Holt-Lunstad)**, strong social connections increase odds of survival by 50% (Holt-Lunstad et al., 2010, 2015)

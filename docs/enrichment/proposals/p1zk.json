@@ -1,6 +1,6 @@
 {
  "batch": "p1zk",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Sleep deprivation",
@@ -31,6 +31,18 @@
    "link": "BE043",
    "why": "the camping and e-reader trials behind this principle are circadian entrainment experiments",
    "notes": "Evidence in sources/p1zk/BE043.md (Wright 2013, Lam 2016, Chang 2015, all opened). Concept already cites BE043."
+  },
+  {
+   "into": "Loneliness",
+   "link": "BE049",
+   "why": "the mortality meta-analyses behind this principle measure the cost loneliness carries",
+   "notes": "Evidence in sources/p1zk/BE049.md (Holt-Lunstad 2010/2015, both opened). Concept already cites BE049."
+  },
+  {
+   "into": "Relatedness",
+   "link": "BE049",
+   "why": "listed for comparison",
+   "notes": "SDT relatedness concept; the need claim on BE049 is inherited (Deci & Ryan not opened this session), so the clause is neutral. Evidence notes in sources/p1zk/BE049.md."
   }
  ],
  "inline": []
