@@ -12,14 +12,14 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 33** — Recognise the status quo bias: you prefer things as they are
 
-The paper that named the bias opens with the observation that most real decisions, unlike those of economics texts, have a status quo alternative, doing nothing or maintaining one's current or previous decision, and its series of decision-making experiments demonstrated that individuals disproportionately stick with the status quo ([Samuelson & Zeckhauser 1988](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf)). The field data matters for the stakes: data on the selections of health and retirement programs by faculty members revealed that the status quo bias is substantial in important decisions.
+The 1988 paper opens with the observation that most real decisions, unlike those of economics texts, have a status quo alternative, doing nothing or maintaining one's current or previous decision, and its series of decision-making experiments demonstrated that individuals disproportionately stick with the status quo ([Samuelson & Zeckhauser 1988](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf)). The field data matters for the stakes: data on the selections of health and retirement programs by faculty members revealed that the status quo bias is substantial in important decisions.
 
-> "Most real decisions, unlike those of economics texts, have a status quo alternative—that is, doing nothing or maintaining one's current or previous decision. A series of decision-making experiments demonstrate that individuals disproportionately stick with the status quo." (Samuelson & Zeckhauser 1988, [Journal of Risk and Uncertainty 1(1): 7-59](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf))
+> "Most real decisions, unlike those of economics texts, have a status quo alternative—that is, doing nothing or maintaining one's current or previous decision." (Samuelson & Zeckhauser 1988, [Journal of Risk and Uncertainty 1(1): 7-59](https://rzeckhauser.scholars.harvard.edu/sites/g/files/omnuum4441/files/rzeckhauser/files/status_quo_bias_in_decision_making.pdf))
 
 **Plain words**
-The current arrangement has a home-field advantage: staying feels like not deciding, so the costs of staying stay invisible next to the effort of switching. The paper's field data is the reminder that the stakes are real: the same bias ran faculty members' health and retirement selections, and those are not small choices. The audit is the repair: for each standing arrangement, ask whether you would choose it fresh today.
+Ask whether you favour an option for its features or because you already have it. Try comparing the available options afresh, including any genuine costs of changing. Staying with the current option is not automatically a mistake.
 
-*For example:* An imagined case: an insurance policy renews for the fourth straight year at a premium the market has since beaten, and the renewal takes one click while the switch takes an afternoon. The annual defaults audit, career, bank, utilities, subscriptions, is the counter to the one-click asymmetry.
+*For example:* An imagined chooser compares two health plans without seeing which one they currently hold, then checks whether learning that detail changes their preference.
 
 ## Sources
 

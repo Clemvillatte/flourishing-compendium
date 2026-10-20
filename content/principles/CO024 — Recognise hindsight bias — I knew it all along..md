@@ -17,9 +17,9 @@ The original experiment had judges evaluate historical descriptions with and wit
 > "It is argued that this lack of awareness can seriously restrict one's ability to judge or learn from the past." (Fischhoff 1975, [Journal of Experimental Psychology: HPP, republished in Quality & Safety in Health Care](https://pubmed.ncbi.nlm.nih.gov/12897366/))
 
 **Plain words**
-Once you know how it ended, the ending leaks backward into the story: the signs look obvious, the alternatives look flimsy, and your own earlier uncertainty gets rewritten as clarity you never had. The cost for learning is direct: a past that reads as inevitable teaches nothing, because there was nothing to decide in it. Written predictions are the fix, because the page keeps what you actually expected, not what you remember expecting.
+Knowing the result can make it seem easier to have predicted. The judges in these experiments did not fully notice that influence. For your own decisions, try recording expectations before the outcome and comparing them afterwards.
 
-*For example:* An imagined case: after a merger flops, the team says the signs were obvious, and a search of the shared drive finds no memos predicting it. The quarterly prediction log fixes the record: calls written down, sealed, reopened later. The first read shows the gap between what was written and what is remembered, and that gap is the lesson.
+*For example:* Before a proposed merger, an imagined team records its forecast and the evidence behind it. Afterwards, it compares that dated note with members' recollections.
 
 ## Sources
 

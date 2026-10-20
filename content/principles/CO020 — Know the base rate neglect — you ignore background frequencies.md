@@ -19,9 +19,9 @@ The experiment behind the section made the neglect measurable. Subjects assessed
 > "In the case of Steve, for example, the fact that there are many more farmers than librarians in the population should enter into any reasonable estimate of the probability that Steve is a librarian rather than a farmer. Considerations of base-rate frequency, however, do not affect the similarity of Steve to the stereotypes of librarians and farmers." (Tversky & Kahneman 1974, [Science 185: 1124-1131, p. 1124](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf))
 
 **Plain words**
-The story about the person is loud and the population is quiet. A good match to a stereotype feels like information, and the count of how many of each kind there are to begin with gets dropped. The discipline the principle names: before asking how well the case fits, ask how common each candidate is.
+A description can resemble a category even when that category is uncommon. Start with how common the possible categories are, then ask what the description adds.
 
-*For example:* An imagined case: an investor reads a founder profile that matches the visionary stereotype trait for trait, and checks one more thing before committing money: what fraction of startups with this profile fail. The profile is unchanged; the check adds the count.
+*For example:* An imagined case: an investor reads a founder profile that matches the visionary stereotype, and checks one more thing: the failure rate for startups in the same sector and stage, the reference class the profile belongs to. The profile is unchanged; the check adds the count.
 
 ## Sources
 

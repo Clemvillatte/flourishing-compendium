@@ -58,10 +58,15 @@
   "BI071": "Reopened for QC: Milestone QC items 21-25 repairs",
   "CO012": "Reopened for QC: Milestone QC items 21-25 repairs",
   "CO013": "Reopened for QC: Milestone QC items 21-25 repairs",
-  "CO018": "Reopened for QC: Milestone QC items 21-25 repairs"
+  "CO018": "Reopened for QC: Milestone QC items 21-25 repairs",
+  "CO020": "Reopened for QC: Milestone QC items 26-30 repairs",
+  "CO024": "Reopened for QC: Milestone QC items 26-30 repairs",
+  "CO029": "Reopened for QC: Milestone QC items 26-30 repairs",
+  "CO031": "Reopened for QC: Milestone QC items 26-30 repairs",
+  "CO033": "Reopened for QC: Milestone QC items 26-30 repairs"
  },
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-20T11:45:03+00:00",
+ "sources_checked": 13,
+ "updated": "2026-10-20T11:48:52+00:00",
  "band_done": false
 }

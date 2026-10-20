@@ -17,9 +17,9 @@ The paper that tested the strategy proposes that several biases in social judgme
 > "In both experiments the induction of a consider-the-opposite strategy had greater corrective effect than more demand-laden alternative instructions to be as fair and unbiased as possible." (Lord, Lepper & Preston 1984, [Journal of Personality and Social Psychology](https://pubmed.ncbi.nlm.nih.gov/6527215/))
 
 **Plain words**
-Trying to be fair is a weak instruction, because it names no action. Consider the opposite names one: write the case that your belief is wrong, as if you meant it. The experiments' result is the practical surprise: the people asked to do that specific thing judged with less bias than the people merely asked to be as fair and unbiased as possible.
+Take a judgment you favour and ask what would support a different conclusion. Write down that case before deciding. This turns the instruction into a specific task: examine a competing explanation. In the two studied judgment tasks, the people given that task judged with less bias than the people merely asked to be as fair and unbiased as possible.
 
-*For example:* An imagined case: a confident hiring team spends five minutes writing three reasons the candidate might fail in this role, and the exercise surfaces a role mismatch the enthusiasm had buried. The exercise is not pessimism; it is the failure Bacon noted, skipping what argues against the moment's belief, being repaired on purpose.
+*For example:* An imagined hiring team lists reasons a candidate might struggle in the role, then checks those concerns against the interview evidence before deciding.
 
 ## Sources
 
