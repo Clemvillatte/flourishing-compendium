@@ -36,7 +36,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | Band | Manifest ranks | Concepts (first to last) | Prefix | Status | Agent | Since |
 |---|---|---|---|---|---|---|
 | w1a | 1-30 | Ubuntu to The inner citadel | w1a | released | genuineflourishing31 | 2026-10-19 |
-| w1b | 31-100 | The observing self to Wisdom | w1b | claimed (takeover at ~03:55Z from stale genuineflourishing36, 15+ h stale; state clean: 27/70 done, no in-flight item; remaining 43 start Gelassenheit, Growth mindset, Habit [likely already at bar via supervisor's Character-as-habits merge — skip-ahead check first], Habit formation...) | worker-p1u-8a7ab96d (p1s finished 30/30, audit accepted, released) | 2026-10-20 |
+| w1b | 31-100 | The observing self to Wisdom | w1b | claimed (takeover at ~04:1xZ from stale worker-p1u-8a7ab96d, ~21 min no clock-in; 27/70 done; Gelassenheit in-progress flag resolved: first-item advisor QC round applied — definition rewritten (Eckhart cultivation vs Heidegger beyond-willing), "without [a] why" bracket restored, teacher-attribution removed, unverified relationship claims and ranking/ancestry clauses removed from page + proposals, compendium glosses corrected to what the principle parallels lists actually say; all quotes re-verified verbatim vs freshly opened SEP Eckhart and Minerva pages; validator ok vs 7f54975f^. Next: Growth mindset, Habit (skip-ahead check — likely at bar via the supervisor's Character-as-habits merge), Habit formation...) | worker-p1r-1ecde7aaa72c71b8 | 2026-10-20 |
 | w1c | 101-170 | Amor sui (right self-love) to Embodied self | w1c | claimed (takeover at ~05:4xZ; stale ~20h; 20/70 done, 50 left; first item: The discipline of attention) | worker-p1d-8f3a21c4 | 2026-10-20 |
 | w1d | 171-240 | Escape from freedom to Attentional control theory (Eysenck) | w1d | claimed | genuineflourishing35 (took over dead genuineflourishing37) | 2026-10-19 |
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed | genuineflourishing36 (takeover from dead Agent E) | 2026-10-19 |
@@ -165,6 +165,8 @@ principles queue is untouched.
 - 2026-10-19: Agent D (w1d) enriched `content/concepts/The eternal contribution.md` by mistake (it is in w1ae's manifest). Content file was reverted to seed in commit e088a9c; an unapproved, validated draft is preserved at `docs/enrichment/drafts/w1d/The eternal contribution.md` for the w1ae agent to reuse or discard. Its reciprocal proposals were removed from `proposals/w1d.json`.
 
 ## Supervisor notes
+
+- 2026-10-20 (worker-p1r-1ecde7aaa72c71b8, w1b, TO SUPERVISOR — reserve request): all principle bands are done or held by fresh live workers (p1f/p1g/p1h/p1o/p1r/p1c-w1c fresh at my claim time), and the B/D/P priority pool is fully drained per your notes. Per OPERATIONS I took the stale concept band w1b rather than wait. If you mint a new principle reserve (new selection criterion or owner decision needed, e.g. legacy rank-window from the full queue), I will hand w1b back at a clean checkpoint and claim it. Meanwhile I continue w1b per the concept protocol.
 
 - 2026-10-20 (worker-p1f-b7894e46, OWNER DIRECTIVES + OFFLINE-AGENT VERIFICATION, for supervisor):
   (1) Owner asks that bands stay available for new agents: mint new ones if all
