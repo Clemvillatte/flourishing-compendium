@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 31** — Manage energy and appetite deliberately
 
-The fourth restraint (brahmacharya) is classically read as celibacy; the commentarial tradition also reads it as the disciplined direction of vitality, the non-dissipation of energy in appetite. This book offers the bounded formulation: continuous life energy is conserved by moderating the appetite that scatters it. Practically, notice which appetites leave you with less energy than you started, and treat that ledger as data.
+Sutra 2.38 states the result of the fourth restraint and Woods' translation of it is short:
 
-(YS 2.38; Vivekananda's modern gloss, Raja Yoga.)
+> As soon as he is grounded in abstinence from incontinence, he acquires energy.
 
-**Plain words** The fourth restraint, classically read as celibacy, also reads as the disciplined direction of vitality — the non-dissipation of energy in appetite. The bounded formulation: continuous life energy is conserved when it's spent deliberately rather than leaked compulsively. Manage the budget.
+(Yoga Sutras 2.38, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* Someone notices the evening scroll doesn't rest them — it dissipates them — and redirects that hour to the thing energy was "too low" for all year. The capacity was there; it was leaking.
+The commentary glosses energy as "power" and links it to unhindered "qualities, such as minuteness". Earlier, at 2.30, it defines the restraint itself: "Continence is control of the hidden organ of generation." So the classical text is about sexual continence and ties its fruit to yogic power, not to energy budgeting in general.
+
+The modern reading is Vivekananda's. On 2.38 he writes: "By the establishment of continence energy is gained. The chaste brain has tremendous energy and gigantic will-power. Without chastity there can be no spiritual strength" (*Raja-Yoga*, 1896, p. 209, [Internet Archive](https://archive.org/stream/sochara.rajayogaorconque0000vive/sochara.rajayogaorconque0000vive_djvu.txt)). He asks for chastity "in thought, word, and deed".
+
+Neither source frames this as managing appetite in general or as an energy ledger. That broader reading, and the practice of noticing which appetites leave you with less than you started, are this page's own adaptation. The psychology note that ego depletion is contested and lifestyle energy management is better supported is the page's own caveat and was not checked here.
+
+**Plain words**
+
+The old teaching is about sexual restraint. A wider use is to ask which of your appetites leave you flatter than before. That is a modern extension, offered as an experiment.
+
+**For example**
+
+A man tracks a week of evenings and finds that the late scroll leaves him flat the next day, while a walk leaves him clear. He moves the walk to the evening and keeps the note.
+
 ## Psychology parallels
 
 - **Ego depletion debates and the more robust energy-accounting of sleep, exercise, and alcohol** (the honest state: willpower-as-resource is contested; lifestyle energy management is not)
@@ -26,3 +39,9 @@ The fourth restraint (brahmacharya) is classically read as celibacy; the comment
 ## Philosophy parallels
 
 - **[[Yangsheng (cultivating vitality)|Yangsheng, nourishing life]]** (Guanzi, Neiye)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.30 and 2.38 with Vyasa, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
+- [Vivekananda, Raja-Yoga (1896), commentary on Yoga Sutras 2.38 (p. 209) and Chapter V, Internet Archive full text](https://archive.org/stream/sochara.rajayogaorconque0000vive/sochara.rajayogaorconque0000vive_djvu.txt)
+- The inherited ego-depletion note and Guanzi Neiye parallel were not opened and no claim here rests on them.

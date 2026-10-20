@@ -280,3 +280,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (differences only OCR spacing and footnote marker).
 - Seed repairs: "others rooted in it" and truthfulness bounded by non-injury are in the commentary; "when values collide the harm-reducing one wins" and including own long-term welfare labelled as the page's own. BG 13.7-11 locator is really 13.8-12 (see Y123). Klimecki, Hippocrates, Mill not opened.
 - Saturation: low.
+
+## Y031 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 2.30 and 2.38 with Vyasa; Vivekananda Raja-Yoga (archive.org full text) commentary on 2.38 (p. 209) and Chapter V.
+- Quotes verified: Woods spans matched; Vivekananda spans matched the OCR text (OCR "no. spiritual" is "no spiritual").
+- Seed repairs: classical text defines continence as control of the generative organ and ties energy to yogic power; Vivekananda reads it as full chastity. The "energy/appetite management" reading and the ledger practice are labelled as the page's own. Ego-depletion note and Neiye not opened. The page title promises more than the sources say; supervisor may consider re-titling.
+- Saturation: low.
