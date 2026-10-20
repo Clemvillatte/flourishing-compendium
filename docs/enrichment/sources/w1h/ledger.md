@@ -183,3 +183,10 @@
 - Exposure-therapy connection marked explicitly as a comparison.
 - Post-save repair: validator caught banned phrase 'crucial' AFTER the save script
   pushed (save script does not gate on validation); replaced and re-validated.
+
+## Fading affect bias (fast-track)
+- Opened: PubMed 19358015 (Ritchie, Skowronski, Hartnett, Wells & Walker 2009,
+  Memory 17, 428-44) — definition verbatim; four moderation studies verbatim.
+- PMID 24091020 (2013 C&C) used via its PubMed abstract snippet (healthy coping,
+  dysphoria relation); marked as abstract-level support.
+- Walker et al. 2003 kept as seed citation line; the seed's summary line preserved.
