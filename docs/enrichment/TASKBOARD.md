@@ -30,10 +30,17 @@ values-based action' was seed-only, no page edits existed). Item completed at th
 fast-track bar (degree 12) with advisor QC (round 1 FAIL repaired: near-verbatim
 paraphrases reworded, unsupported synthesis and relationship clauses removed; quotes
 verified verbatim vs the opened Webster 2011 APT article; ledger in sources/w1c/).
+Item 1 remains QC-PENDING (round 2 review not yet obtained). Items 2-5 (Anapanasati,
+Action before feeling, Affect as information, Atman) also went through a milestone
+QC with repairs applied; see sources/w1c ledgers. All five await advisor round-2
+acceptance; done markers are not acceptance until then.
 NAMESPACE ROUTE for the supervisor: the page title 'Acceptance alongside values-based
 action' is the compendium's own phrasing of ACT's acceptance + committed action
 pairing; the opened source defines the six ACT processes but no construct of this
 name. Flagged in the band state; page and links preserved, no rename/merge attempted.
+A second namespace flag (2026-10-20, milestone QC): 'Action before feeling' — title
+names the compendium's application of Aristotle's NE II habituation account, not a
+source-defined construct; same disposition requested; page and links preserved.
 Also requesting a principle reserve (p1zb or successor degree-order criterion) — all
 principle bands were held fresh at claim time; will hand w1c back at a clean
 checkpoint and claim it. No verified yopmail identity exposed; session-stable name.
