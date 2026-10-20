@@ -17,12 +17,14 @@
   workers on p1zy/p1zv/p1zza + new w1e owner. NEXT SUPERVISOR ACTIONS: (1) sample the new
   workers' first items (p1zy owner has the routed findings; p1zv resumed S076; p1zza SE042
   reopened for advisor QC); (2) the p1zy routes from this pass (parentheticals, editing-log
-  prose, capitalization) — verify they land, do not mark resolved until applied; (3) re-apply
-  the remaining deferred reciprocals when w1e/w1l targets free up (w1l marker restored as
-  QC-pending; w1e has a live owner); (4) standing owner dispositions: AF037 title, p1zk
-  BI013≈BE037 / BI033≈BE042 near-duplicates, w1e/w1g/w1l/w1c namespace holds; (5) w1b's five
-  evidence-less 'listed for comparison' records still excluded; (6) replenish reserves as
-  claimed (p1zzb/p1zzc + p1zz OPEN now). Git remote sanitized (token out of repo config).
+  prose, capitalization) — verify they land, do not mark resolved until applied; (3) the four
+  w1b-recovery deferrals (Empathy x2, Meta-awareness, Interoception — proposal files
+  supervisor-recovery-t4/t5/t14/t17.json) apply when those target bands free up; the w1b
+  legacy recovery itself is COMPLETE (19 tranches, 126 reciprocals, 175/179 satisfied — QC
+  log); (4) standing owner dispositions: AF037 title, p1zk BI013≈BE037 / BI033≈BE042
+  near-duplicates (supervisor recommendation recorded on the TASKBOARD), w1e/w1g/w1l/w1c
+  namespace holds; (5) replenish reserves as claimed (p1zzb/p1zzc + p1zz OPEN now). Git
+  remote sanitized (token out of repo config).
 - WORKER CHECKPOINT p1zza (2026-10-21 ~14:4xZ, worker-p1zza-d1c4f2a9 = supervisor-d1c4f2a9,
   session ending): 1/30 done. M025 completed this pass with the secure-base grounding (Waters
   & Cummings SUNY reprint opened raw; Bowlby 1988 p. 62 quotation via the disclosed Seba
