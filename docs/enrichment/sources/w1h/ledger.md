@@ -174,3 +174,10 @@
   (Butler interpersonal costs).
 - Early/late timing mechanism NOT included (not stated in the opened abstracts);
   editorial superlative removed before validation.
+
+## Facing the fear (fast-track)
+- Opened: SEP "Søren Kierkegaard" (Lippitt & Evans) — dizziness-of-freedom quote
+  verbatim as carried with CA 61/SKS 4,365 locator (disclosed provenance);
+  sympathetic antipathy CA 42; leap CA 48-51; "learned to be anxious the right
+  way... learned the ultimate" CA 155. Awareness-of-freedom reading.
+- Exposure-therapy connection marked explicitly as a comparison.
