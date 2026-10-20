@@ -312,3 +312,21 @@
   Rescher attribution on Process over product kept (SEP-grounded);
   merged philosophy-parallel line split (B028 precedent). Validator ok
   before done.
+
+### P106 — Let mortality give shape (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Seneca, De Brevitate Vitae (On the Shortness of Life), Aubrey
+  Stewart translation, in Minor Dialogues (Gutenberg #64576), downloaded and
+  grepped locally; quotes verbatim: 'Why do we complain of Nature? she has
+  dealt kindly with us'; 'Life is long enough, if you know how to use it';
+  'we have an ample portion, if we do but arrange the whole of it aright';
+  the waste-through-luxury-and-carelessness sentence.
+- Citation change: the seed's anchors (James VRE; Whitehead Adventures of
+  Ideas) do not carry the principle - VRE was opened this session and has
+  no mortality-as-frame passage; Adventures of Ideas is not available.
+  The page is re-anchored on the Seneca treatise, which the seed itself
+  listed as a philosophy parallel. Cozzolino 2006 and Greenberg et al. 1986
+  tails reduced to bare wikilinks (unopened); 'Finitude as frame (James,
+  The Varieties)' attribution reduced to bare wikilink (not verified in the
+  opened VRE). Seed statement + locator removed (precedent); 'Death,
+  briefly consulted, was an excellent secretary' aphorism dropped; Plain
+  words re-derived. Validator ok before done.
