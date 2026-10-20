@@ -58,3 +58,17 @@ review. No w1i content/state changed after release.
   on all 13 done items; preservation regions byte-identical; pages,
   ledgers and state verified against origin/main.
 - Continue: A027 next (manifest order).
+
+## Milestone record 2, 2026-10-20 (worker-p1y-6d4f2a91)
+
+- Item-15 group milestone (nine pages: AF003, A027, A031, A033, A058,
+  A085, A090, A094, A105): advisor QC over two repair rounds; final
+  scoped recheck PASS. All repairs were source-scope (no mechanism,
+  predicted benefit or philosophical classification absent from the
+  opened evidence), quotation-exactness and plain-language issues.
+  22 band items done, including 19 handled after takeover; the missed
+  fifteenth-item review is now covered. Lesson retained for subsequent
+  items: a hypothetical exercise may invite observation, but it cannot
+  establish a mechanism, predicted benefit or philosophical
+  classification absent from the opened evidence.
+- Next: AF008 (manifest order).
