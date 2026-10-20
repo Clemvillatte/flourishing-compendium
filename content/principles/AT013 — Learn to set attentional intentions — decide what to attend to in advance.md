@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 13** — Learn to set attentional intentions: decide what to attend to in advance
 
-An attentional intention is a decision made in advance about what to attend to. The strongest evidence for the move comes from the if-then plan literature: Gollwitzer and Sheeran's meta-analysis of implementation intentions, plans that spell out the when, where and how of goal striving in advance, reports a medium-to-large effect on goal attainment across 94 independent tests. (Gollwitzer & Sheeran, 2006.)
+Implementation intentions link an anticipated situation to a planned goal-directed response. Gollwitzer and Sheeran reviewed whether forming these if-then plans helps people carry out their goals. (Gollwitzer & Sheeran, 2006.)
 
 > "Findings from 94 independent tests showed that implementation intentions had a positive effect of medium-to-large magnitude (d= .65) on goal attainment." (Gollwitzer & Sheeran, 2006, [abstract](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f))
 
-The review also reports the process findings behind the effect: forming the plan enhanced the accessibility of the specified opportunities and automated the goal-directed responses. (Gollwitzer & Sheeran, 2006.) The compendium's attentional intention is the same move pointed at attention rather than at a whole behavior. Decide what you will listen for or work on before the situation starts, and the decision is already there when the situation arrives.
+The review reports process findings concerning the accessibility of specified opportunities and the automation of goal-directed responses. The compendium applies this planning format to attention in the exercise below. (Gollwitzer & Sheeran, 2006.)
 
 **Plain words**
-Deciding what to attend to works better before the situation starts, because the decision then competes with nothing. An attentional intention is one sentence, written or said to yourself, that names the object: what you are listening for, or which task the next hour is for. When your attention gets pulled, you do not have to decide again from scratch; the sentence is already there.
+Choose a situation in which you want to listen closely. Decide what you will do if something interrupts you, and make the response specific enough to try. Afterwards, describe whether you followed your plan.
 
-*For example:* In the car, before a family dinner, you say to yourself: at this dinner, I am listening to my sister. When the phone glows on the table, the decision was made an hour ago.
+*For example:* Imagine making a plan before a family dinner: if the phone lights up while your sister is talking, you will leave it on the table and return your attention to her.
 
 ## Sources
 
