@@ -27,9 +27,10 @@
   "R027",
   "R022",
   "R024",
-  "R041"
+  "R041",
+  "R047"
  ],
- "in_progress": "R047",
+ "in_progress": null,
  "flagged": {
   "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs",
   "K065": "Reopened for QC: QC: advisor batch round-1 repairs",
@@ -58,6 +59,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:35:20+00:00",
+ "updated": "2026-10-20T11:36:23+00:00",
  "band_done": false
 }
