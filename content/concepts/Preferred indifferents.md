@@ -17,7 +17,7 @@ The same entry records an ancient objection that the doctrine is incoherent: "it
 
 ### Where Epictetus comes in
 
-The compendium's seed citation is the Enchiridion. The Enchiridion does call outcomes indifferent. In section 32, on divination, Epictetus says one should "acquire a distinct knowledge that every event is indifferent and nothing to you, of whatever sort it may be, for it will be in your power to make a right use of it" ([Epictetus, Enchiridion, trans. Elizabeth Carter, MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)). I did not find the phrase "preferred indifferents" in the Enchiridion text. The SEP sets out the technical category as the mainstream Stoic view, citing Cicero and Stobaeus and naming Chrysippus as a source for it, so the label belongs to the school's technical vocabulary and not to the Enchiridion's wording.
+The compendium's seed citation is the Enchiridion. The Enchiridion does call outcomes indifferent. In section 32, on divination, Epictetus says one should "acquire a distinct knowledge that every event is indifferent and nothing to you, of whatever sort it may be, for it will be in your power to make a right use of it" ([Epictetus, Enchiridion, trans. Elizabeth Carter, MIT Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)). I did not find the phrase "preferred indifferents" in the Enchiridion text. The SEP sets out the technical category as the mainstream Stoic view, citing Cicero and Stobaeus, so the label belongs to the school's technical vocabulary and not to the Enchiridion's wording.
 
 ### In the compendium
 
