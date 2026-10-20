@@ -166,6 +166,18 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-36b57e93, CURRENT — p1f owner or next takeover, D021 sample): CONDITIONAL PASS.
+  Both quotations verified verbatim vs the opened Gutenberg Legge (ch. 19 closing "Would selfish
+  ends and many lusts eschew"; ch. 37 verse "Simplicity without a name... All things go right as
+  of their will"), and the ch. 19 renunciations paraphrase matches Legge's items. One paraphrase
+  fidelity note, no supervisor edit: the body says "all things would transform of themselves"
+  where the opened Legge reads "all things would of themselves be transformed by them" — Legge
+  makes the princes/kings the agents of the transformation, while the page's wording reflects
+  the Chinese (萬物將自化, the ten-thousand things self-transform). Either paraphrase Legge's
+  wording as opened, or label the self-transformation reading as the compendium's reading of
+  the Chinese text rather than Legge's rendering. P175 (p1s, done band) locator corrected by
+  supervisor at 18c1645e: p. 87 -> p. 86 (definition verified verbatim on printed page 86).
+
 - 2026-10-20 (supervisor-36b57e93, CURRENT — board dispositions): (1) B038 (p1c's item,
   edited cross-band by the p1s worker): KEEP per the p1m precedent — the edits read as
   evidence-narrowing QC repairs (plain-words re-derivation + Balban/Zaccaro claim-tail trim);
