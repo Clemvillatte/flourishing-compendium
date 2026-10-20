@@ -274,6 +274,16 @@
       "into": "Benefit finding",
       "link": "Meaning-making",
       "why": "Benefit finding is the positive-reappraisal outcome of meaning-making."
+    },
+    {
+      "into": "Four immeasurables",
+      "link": "Mudita (sympathetic joy)",
+      "why": "Mudita is the third of the four immeasurables."
+    },
+    {
+      "into": "Schadenfreude",
+      "link": "Mudita (sympathetic joy)",
+      "why": "Schadenfreude is the inverse of mudita: pleasure at another's misfortune versus joy at their fortune."
     }
   ],
   "inline": [
@@ -381,6 +391,21 @@
       "into": "B166",
       "concept": "Meaning-making",
       "phrase": "meaning-making"
+    },
+    {
+      "into": "B053",
+      "concept": "Mudita (sympathetic joy)",
+      "phrase": "mudita"
+    },
+    {
+      "into": "B101",
+      "concept": "Mudita (sympathetic joy)",
+      "phrase": "Mudita"
+    },
+    {
+      "into": "AF062",
+      "concept": "Mudita (sympathetic joy)",
+      "phrase": "Buddhism, Mudita"
     }
   ]
 }
