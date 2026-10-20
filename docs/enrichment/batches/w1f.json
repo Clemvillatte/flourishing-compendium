@@ -61,7 +61,8 @@
   "Social attention",
   "Social construction of gender",
   "Social influences on motivation",
-  "Role ethics"
+  "Role ethics",
+  "Positive attention training / attentional deployment toward positive stimuli"
  ],
  "in_progress": null,
  "flagged": {
@@ -70,7 +71,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:21:44+00:00",
+ "updated": "2026-10-20T08:23:39+00:00",
  "notes": {
   "Language spinning beyond the world": "fast-track done 2026-10-20; RENAMED to \"Language on holiday\" — the seed title was a compendium coinage, not Wittgenstein wording (\"spins beyond the world\" does not appear in PI; verified in an opened PI selection). Real concept = language on holiday (PI 38) / engine idling (PI 132). File renamed, _order.json and the B070 backlink label migrated; fast-track body grounded in opened PI selection 132 + DBU overview quoting 38.",
   "Original nature, nothing to add": "fast-track done 2026-10-20; title verified as a real concept (self-nature/benxing in the Platform Sutra — no rename needed); McRae passage + verse lines quoted verbatim from the opened e-Buddhism page (which compares McRae Zongbao vs Yampolsky Dunhuang renderings); Yampolsky PDF at terebess.hu is image-based, unusable for verbatim extraction (noted).",
