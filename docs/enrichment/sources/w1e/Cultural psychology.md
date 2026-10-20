@@ -56,3 +56,8 @@
   interdependent self-construal (Markus & Kitayama)", link "Cultural
   psychology".
 - Revalidated with --base 3bce572c (pre-enrichment parent of d24265c8): ok.
+
+## Advisor QC result: PASS (round 4, 2026-10-20)
+
+- Rounds 1-3 repairs documented above; round-4 scoped PASS received after the
+  ledger corrections were applied and read back (commit d2cfe666).
