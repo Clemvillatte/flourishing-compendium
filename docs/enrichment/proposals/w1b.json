@@ -159,6 +159,31 @@
       "into": "Perspectivism",
       "link": "Will to power",
       "why": "Perspectivism is Nietzsche's companion epistemology."
+    },
+    {
+      "into": "Grace",
+      "link": "Agape",
+      "why": "Agape is love given without regard to worth; grace is the unearned favor it presupposes."
+    },
+    {
+      "into": "Kenosis",
+      "link": "Agape",
+      "why": "Kenosis, self-emptying, is agape's form in Christology."
+    },
+    {
+      "into": "Forgiveness",
+      "link": "Agape",
+      "why": "Keeping no account of evil (1 Corinthians 13) is what forgiveness acts on."
+    },
+    {
+      "into": "Benevolence",
+      "link": "Agape",
+      "why": "Benevolence is the disposition agape names in its plainer form."
+    },
+    {
+      "into": "Unconditional positive regard",
+      "link": "Agape",
+      "why": "Unconditional positive regard is the psychological analogue of love without regard to worth."
     }
   ],
   "inline": [
@@ -211,6 +236,11 @@
       "into": "E066",
       "concept": "Will to power",
       "phrase": "will to power (Adler)"
+    },
+    {
+      "into": "Metta (loving-kindness)",
+      "concept": "Agape",
+      "phrase": "Kierkegaard's agape"
     }
   ]
 }
