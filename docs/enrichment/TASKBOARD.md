@@ -722,3 +722,33 @@ The following inherited seed clauses remain on AF pages because they sit in prot
   difficulties and Fluency-driven illusory truth applied clauses were checked and stand
   (grounded in the targets' own seed definitions and the w1c worker's opened sources per
   the ledger).
+
+- 2026-10-20 (supervisor-4c8e1b3a) DISPOSITIONS ROUTED TO LIVE p1f OWNER (worker-p1f-72a54432) —
+  apply these narrowly-scoped corrections, then reply on the taskboard:
+  - **A057** (protected reflections): REPLACE the two "developmental stage"-framing reflections with
+    question-only replacements (advisor-supplied, reflective purpose preserved, no factual claims):
+    (1) "If akrasia is a developmental stage, what supports help people move through it, and what do
+    we owe those still struggling?" -> "What support would help you address a recurring lapse, and
+    what support could you offer someone who is struggling?"
+    (2) "Does treating failure as a stage rather than a verdict change how you treat others? Where do
+    you need that patience most?" -> "How could you respond to a lapse without treating it as a final
+    verdict on someone's character?"
+    Keep the first reflection, the comment delimiters and separators unchanged. Also fix the merged
+    Philosophy-parallels line (two bullets on one line: "The trained mind ... (Buddhist tradition)- **[[Akrasia|Akrasia]]** (Aristotelianism)") — add the missing line break, both wikilinks unchanged.
+  - **AF019**: DROP the clause "particularly in Western cultural contexts" from the Mauss bullet
+    (not established by the reported samples; do not substitute a new scope qualifier without checking
+    the full sentence and source). Ford bullet: the claim "Indirect strategies outperform direct
+    strategies..." is UNVERIFIED (Ford not opened) — either open the work and verify the comparison,
+    or remove the claim clause while preserving the link/reference; keep its evidence status
+    unresolved until then.
+  - **AF072**: "flourishing requires ..." is uncertified. Open the library's Seligman material or an
+    authoritative model explanation and check the exact terminology (elements of well-being?
+    flourishing? a criterion?) — then use the supported wording. Otherwise reduce to the bare
+    link/reference pending verification. Do not certify a guessed definition.
+  - **AF011 and AF046**: the inherited bullets are CLAIM-BEARING, not citation-only (AF011: chronic
+    pain/depression-rates and substance-use/valence-arousal claims citing Craig 2009 / Koob & Le Moal
+    2008; AF046: ACT organising-principle claim citing Hayes et al. 2011 — note the page's Sources
+    line cites the 2006 ACT paper, the bullet cites 2011 — and the valued-living/well-being claim
+    citing Wilson et al. 2010). For each: either open the cited work and verify the claim, or reduce
+    to the bare reference (drop the claim clause, keep the citation/link). Flagged-inherited status
+    alone does not cover claim-bearing prose.
