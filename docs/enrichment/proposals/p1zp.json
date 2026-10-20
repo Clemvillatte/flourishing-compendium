@@ -58,5 +58,12 @@
   "link": "Y080 — Test what arises for truth",
   "why": "Y078 stills the impression of truth-bearing insight; Y080 is the principle for testing what arises once it does.",
   "notes": "Y078 outside p1zp; queued for supervisor apply. #found-19 mention - principles."
+ },
+ "reciprocal Y085 for Modeling (revision 6, worker-p1zp-4db4ea8b, Y085 rewrite)": {
+  "source": "content/principles/Y085 — Hear the teaching first.md",
+  "target": "content/concepts/Modeling.md",
+  "link": "Y085 — Hear the teaching first",
+  "why": "Y085's psychology parallel is Bandura's modeling; the concept page does not cite it back.",
+  "notes": "Concept outside p1zp; queued for supervisor apply. #found-19 mention - concepts."
  }
 }
