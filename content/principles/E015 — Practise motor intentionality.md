@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 407** — Practise motor intentionality
 
-Recognise that your body is not a passive recipient of stimuli but an intentional agent that reaches toward the world. Motor intentionality is Merleau-Ponty's term for the body's directed, purposeful engagement with the world. Your movements are not mechanical responses but meaningful expressions of intention. Pay attention to how your body reaches toward, grasps, and engages with the world.
+Merleau-Ponty builds the idea from the case of Schneider, a brain-damaged patient studied by Gelb and Goldstein, as the [Stanford Encyclopedia](https://plato.stanford.edu/entries/merleau-ponty/) summarises it ([Phenomenology of Perception, trans. Colin Smith, Routledge 2002, p. 126](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf)). What Schneider lacks, he writes, is neither movement nor thought:
 
-(Merleau-Ponty, 1945/2012, Phenomenology of Perception, Part I, ch. 3; Merleau-Ponty, 1960/1968, "The Philosopher and His Shadow," in Signs.)
+> something which is an anticipation of, or arrival at, the objective and is ensured by the body itself as a motor power, a 'motor project' (Bewegungsentwurf), a 'motor intentionality'
 
-**Plain words** The body isn't a passive recipient of stimuli — it's an intentional agent that reaches toward the world. Motor intentionality: your movements are directed, purposeful engagements, not mechanical responses. The body has aims of its own.
+Later he states the consequence:
 
-*For example:* The goalkeeper's hands are already moving before the conscious decision — the body read the shot and reached for the world. Anyone who's caught a falling glass knows the body is an agent with excellent instincts and no interest in waiting for the committee.
+> Consciousness is in the first place not a matter of 'I think that' but of 'I can'.
+>
+> Merleau-Ponty, Phenomenology of Perception (Smith), p. 159
+
+(Part One, ch. III.)
+
+**Plain words** Reaching for a cup is not a thought followed by a movement. The reach already points at the cup. Merleau-Ponty says the body relates to things directly, before any picture of them is held in mind.
+
+For example (imagined): when you pick up a mug in a dark kitchen, your hand finds the handle without a plan for each finger. Notice that next time you reach for something.
+
+## Sources
+
+- Maurice Merleau-Ponty, [Phenomenology of Perception](https://ia601603.us.archive.org/13/items/a077413/Phenomenology+of+Perception.pdf), trans. Colin Smith (Routledge Classics, 2002), pp. 126, 158-159 (Internet Archive copy)
+- [Stanford Encyclopedia of Philosophy, Maurice Merleau-Ponty](https://plato.stanford.edu/entries/merleau-ponty/), for the "I can" and Schneider framing
+
 ## Practice kernels
 
 - [[K266 — Impression-judgement-action log|K266 Impression-judgement-action log]]
