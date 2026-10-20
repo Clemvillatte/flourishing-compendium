@@ -14,15 +14,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 Rico Gutschmidt's 2025 study discusses death, suffering, struggle and guilt as boundary situations in Jaspers' philosophy. He quotes Jaspers:
 
-> A situation turns into a boundary situation when it awakens the subject to existence by radically shattering its being. (Jaspers, Philosophy, vol. 1, p. 56)
+> A situation turns into a boundary situation when it awakens the subject to existence by radically shattering its being. (Jaspers, quoted by Gutschmidt 2025, source locator "PhI: 56")
 
 His image for the encounter:
 
-> a wall that we bump up against, against which we founder. (Jaspers, Philosophy, vol. 2, p. 203)
+> a wall that we bump up against, against which we founder. (Jaspers, quoted by Gutschmidt 2025, source locator "PhII: 203")
 
 Both passages are quoted here from Rico Gutschmidt's study, which supplies their source locators.
-
-(Jaspers, Philosophy, vols. 1-2; quotations via Gutschmidt 2025.)
 
 **Plain words**
 The compendium uses Jaspers' boundary image to distinguish a practical task from the loss it cannot undo. Ask what action is still possible and what that action cannot change.
@@ -31,7 +29,7 @@ The compendium uses Jaspers' boundary image to distinguish a practical task from
 
 ## Sources
 
-- [Gutschmidt, "Existential boundaries: Jaspers on the interminable struggle with our finitude," in Existential Elucidation: Jaspers, Boundary Situations, and Spiritual Care (De Gruyter 2025), open access via Konstanz repository](https://kops.uni-konstanz.de/server/api/core/bitstreams/b720b8a9-3306-4118-901f-87ba7d5c0056/content) — quotes Jaspers' Philosophy vols. 1-2 with page locators: "radically shattering its being" (PhI: 56); "a wall that we bump up against, against which we founder" (PhII: 203)
+- [Gutschmidt, "Existential boundaries: Jaspers on the interminable struggle with our finitude," in Existential Elucidation: Jaspers, Boundary Situations, and Spiritual Care (De Gruyter 2025), open access via Konstanz repository](https://kops.uni-konstanz.de/server/api/core/bitstreams/b720b8a9-3306-4118-901f-87ba7d5c0056/content) — quotes Jaspers with his source locators: "radically shattering its being" (PhI: 56); "a wall that we bump up against, against which we founder" (PhII: 203)
 ## Stories
 
 - [[ST289 — Jaspers's Shipwreck|289. Jaspers's Shipwreck]]
