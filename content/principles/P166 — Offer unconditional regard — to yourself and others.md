@@ -12,22 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 166** — Offer unconditional regard: to yourself and others
 
-Growth happens in an atmosphere of prizing rather than judgment: give yourself and the people in your life non-contingent acceptance, and watch change become possible.
+In 1957 Rogers published his hypothesis about what makes personality change possible: six conditions, of which the fourth is that "the therapist experiences unconditional positive regard for the client". He added, flatly, that "if these six conditions exist, and continue over a period of time, this is sufficient. The process of constructive personality change will follow." The fourth condition is the one this principle borrows.
 
-(Rogers, On Becoming a Person, 1961.)
+> It means that there are no conditions of acceptance, no feeling of "I like you only if you are thus and so." It means a "prizing" of the person, as Dewey has used that term.
+>
+> (Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", 1957)
 
-**Plain words** Conditional regard trains performance and hides the truth; unconditional regard trains growth. Growth happens in an atmosphere of prizing rather than judgment — give yourself and your people non-contingent acceptance.
+Acceptance, in this account, is not approval. Rogers describes "a caring for the client as a separate person, with permission to have his own feelings, his own experiences", and acceptance of the client's fearful and defensive feelings as readily as of the confident ones. The compendium extends the condition beyond the therapy room: offer the same non-contingent regard to yourself and to the people in your life. That extension is an application; the 1957 paper argues it only for the therapist-client relationship.
 
-*For example:* The kid who brings the bad grade to the calm parent instead of hiding it — the acceptance isn't approval of the grade; it's the safety that makes fixing the grade possible. Judgment gets you a hidden report card.
+**Plain words**
+Regard is the warmth you extend to a person. Unconditional regard is that warmth with no strings: no "I like you only if you are thus and so", which is Rogers's own wording for the conditional version. Most acceptance has quiet conditions attached, and the person on the receiving end can usually find them. Notice the conditions in your own regard, the one you hold for yourself included, and try dropping one for a minute. What the other person does with the acceptance is theirs; the offer is yours.
+
+*For example:*
+A teenager hands a parent the bad grade. The parent reads it, says the evening's plans still stand, and the two of them make a study plan. The acceptance is not approval of the grade; on Rogers's hypothesis the change is what the acceptance makes room for.
+
+## Sources
+
+- [Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change", Journal of Consulting Psychology 21(2), 1957 (full-text reprint, open PDF)](https://counselling-tutor.s3.eu-west-2.amazonaws.com/CSR+Documents/The+Necessary+and+Sufficient+Conditions+of+Therapeutic+Personality+Change.pdf) — condition 4 and the "Unconditional Positive Regard" section
 
 ## Psychology parallels
 
-- **[[Self-compassion|Self-compassion research]]** (Neff, 2003; MacBeth and Gumley, 2012)
+- **[[Self-compassion|Self-compassion research]]**
 - **[[Unconditional positive regard|Unconditional positive regard outcomes]]** (Rogers, 1957)
 
 ## Philosophy parallels
 
-- **[[Unconditional positive regard|Unconditional regard]]** (Rogers, On Becoming a Person)
+- **[[Unconditional positive regard|Unconditional regard]]** (Rogers, 1957)
 - **[[Proper self-love|Proper self-love]]** (Aristotle, Nicomachean Ethics IX)
 
 <!-- fc: reflections

@@ -635,3 +635,36 @@
   pdftotext extraction remains the source evidence. Validator re-run ok
   after repairs; build ok. Item recorded QC-pending acceptance until
   this verification was pushed (pushed with this commit).
+
+### P166 — Offer unconditional regard: to yourself and others (2026-10-20, worker-p1o-72a54432)
+- Opened: Rogers, "The Necessary and Sufficient Conditions of
+  Therapeutic Personality Change", J. Consult. Psychol. 21(2), 1957
+  (full-text reprint PDF at counselling-tutor S3), downloaded and
+  grepped locally. Quotes verbatim: condition 4 'The therapist
+  experiences unconditional positive regard for the client'; the
+  sufficiency sentence 'If these six conditions exist, and continue
+  over a period of time, this is sufficient. The process of
+  constructive personality change will follow.'; 'It means that there
+  are no conditions of acceptance, no feeling of "I like you only if
+  you are thus and so." It means a "prizing" of the person, as Dewey
+  has used that term.'; 'a caring for the client as a separate person,
+  with permission to have his own feelings, his own experiences'.
+  The 'fearful and defensive feelings as readily as the confident
+  ones' body sentence paraphrases the paper's own acceptance-of-
+  negative-feelings passage.
+- Rogers 1957 scope kept explicit: the six conditions are his
+  hypothesis for the therapist-client relationship; the extension to
+  self and daily life is labelled as the compendium's application.
+  Seed locator '(Rogers, On Becoming a Person, 1961.)' dropped (book
+  not opened; the Goodreads/counselling-directory 'curious paradox'
+  pages are unverified quote aggregators, not quoted). Neff 2003 /
+  MacBeth and Gumley 2012 psychology-parallel citations reduced to
+  bare wikilinks (unopened); Rogers 1957 citation kept (opened);
+  'Unconditional positive regard' philosophy-parallel attribution
+  changed from On Becoming a Person to Rogers, 1957 (the opened
+  source). Plain words was a replicate of the body (owner-flagged
+  pattern) - re-derived; For example kept the seed's calm-parent
+  scenario with the causal claim scoped to Rogers's hypothesis.
+  Reflections byte-identical (trailing newline added, missing in
+  seed). Reciprocals A060/S066/D127 proposed; K015 (live p1f)
+  noted only. Validator ok; build ok.
