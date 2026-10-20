@@ -28,11 +28,10 @@
   "R022",
   "R024",
   "R041",
-  "R047",
   "R062",
   "R090"
  ],
- "in_progress": null,
+ "in_progress": "R047",
  "flagged": {
   "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs",
   "K065": "Reopened for QC: QC: advisor batch round-1 repairs",
@@ -57,10 +56,11 @@
   "R022": "Reopened for QC: QC repair round 2: passivity-outcome claim removal",
   "R024": "Reopened for QC: QC repair round 2: recitation-mechanism claim narrowed",
   "R027": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)",
-  "R041": "Reopened for QC: QC repair round 2: best-known ranking and ontology overclaim removal"
+  "R041": "Reopened for QC: QC repair round 2: best-known ranking and ontology overclaim removal",
+  "R047": "Reopened for QC: closure QC repairs: example, plain words, overextensions, locators"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:38:35+00:00",
+ "updated": "2026-10-20T11:41:18+00:00",
  "band_done": false
 }
