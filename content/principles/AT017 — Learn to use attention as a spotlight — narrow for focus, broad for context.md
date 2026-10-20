@@ -20,11 +20,11 @@ And the narrowing result:
 
 > "In Experiment 2, negative emotions, relative to a neutral state, narrowed thought-action repertoires." ([Fredrickson & Branigan, 2005, same abstract](https://pubmed.ncbi.nlm.nih.gov/21852891/))
 
-The study is about emotional states shifting the scope of attention and thought, not about a deliberate zoom skill. The compendium's zoom reading is its own application of the evidence that scope varies.
+The study is about emotional states: in the opened abstract, positive emotions broadened the scope of attention in Experiment 1, and negative emotions narrowed thought-action repertoires in Experiment 2. It is not a study of deliberate focus. The compendium's zoom practice — narrow to inspect a detail, broaden to inspect context — is an exercise, not a finding from this study.
 
-**Plain words** The study shows scope is not fixed: it widened under positive emotions and narrowed under negative ones, in the same lab task. The compendium's practice is the voluntary version: before detailed work, take the whole scene in; before judging a situation, look at one part of it closely. The zoom is a choice about where the lens sits.
+**Plain words** The study found that emotional states move the scope of attention and thought: positive emotions broadened it in one experiment, and negative emotions narrowed thought-action repertoires in another. The zoom practice takes that as a hint, not a proof: when you need a detail, narrow; when you need the context, broaden. The study does not test whether deliberately doing this works.
 
-*For example:* (Imagined case.) A proofreader reads a document for the third time, letter by letter, and misses that the header names the wrong client. The practice is to schedule the zoom out: before the final pass, one look at the whole page, header included.
+*For example:* (Imagined case.) A proofreader reads a document letter by letter and misses that the header names the wrong client. The exercise is to schedule the zoom out: before the final pass, one look at the whole page, header included.
 
 ## Sources
 
@@ -32,7 +32,7 @@ The study is about emotional states shifting the scope of attention and thought,
 
 ## Psychology parallels
 
-- **[[Spotlight vs floodlight attention|Spotlight vs floodlight attention]]**, listed for comparison (Navon, 1977; Förster & Higgins, 2005; not opened for this item)
+- **[[Spotlight vs floodlight attention|Spotlight vs floodlight attention]]**, listed for comparison
 - Positive affect and attentional scope, the source quoted above (Fredrickson & Branigan, 2005)
 
 ## Philosophy parallels
