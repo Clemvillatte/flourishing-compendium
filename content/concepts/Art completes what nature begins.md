@@ -21,9 +21,9 @@ The house example is doing the work in the Physics passage. The steps would come
 
 - [[SE081 — Give style to one's character]] — cites the concept among its parallels.
 - [[Y062 — Practice removes obstacles; it does not manufacture states]] — cites the concept with the Generation of Animals I.1 attribution.
-- [[D107 — Trust your own nature]] and [[Y042 — Follow your own path over borrowed scripts]] — cross-reference the concept.
-- [[SP004 — Stop reading purposes into events]] — cross-references the concept; its body rejects final causes as human fictions, where the quoted Physics passage concludes that natural products have ends.
-- [[A079 — Do not demonise pleasure]], [[A082 — Distinguish good pleasures from bad pleasures]] and [[A093 — Take proper pleasure in the right things]] — cross-reference the concept in the pleasure family.
+- [[D107 — Trust your own nature]] and [[Y042 — Follow your own path over borrowed scripts]] — this page's inherited links include these two.
+- [[SP004 — Stop reading purposes into events]] — this page's inherited links include this one. That principle rejects final causes as human fictions, whereas the quoted Physics passage concludes that natural products have ends.
+- [[A079 — Do not demonise pleasure]], [[A082 — Distinguish good pleasures from bad pleasures]] and [[A093 — Take proper pleasure in the right things]] — this page's inherited links include the pleasure family.
 - [[P187 — Separate the religious quality of experience from religion]], [[P189 — Live in an aleatory world: accept the gamble, cultivate method]] and [[P190 — Existence is both precarious and stable]] — list the concept among their parallels.
 - [[ST174 — Ove Is Interrupted]] and [[ST169 — The Philosopher and the Hedonist]] — the stories in the seed's record.
 

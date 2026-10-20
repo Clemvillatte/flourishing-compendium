@@ -7,11 +7,11 @@ file: "The unexamined life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The phrase comes from the penalty stage of Socrates' trial in Plato's Apology. He has no money of his own to propose as a fine; Plato, Crito and others stand surety for thirty minas. In the same speech he states what he counts the greatest good for a human being, in the Fowler translation on Perseus:
+The phrase comes from the penalty stage of Socrates' trial in Plato's Apology. He first says he might pay a mina of silver. Plato, Crito, Critobulus and Aristobulus then urge him to propose thirty minas and offer to act as his sureties. In the same speech he states what he counts the greatest good for a human being, in the Fowler translation on Perseus:
 
 > "and if again I say that to talk every day about virtue and the other things about which you hear me talking and examining myself and others is the greatest good to man, and that the unexamined life is not worth living, you will believe me still less." (Plato, Apology 38a, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.%3Asection%3D38a))
 
-The sentence names the activity plainly: daily talk about virtue, examining oneself and others. And it states the price of refusing it: a life without that examination is not worth living. Socrates predicts the jury will believe him still less, and he adds that he is not accustomed to think he deserves anything bad. The claim sits in a speech where he is literally pricing himself: thirty minas, with friends as sureties.
+The sentence names the activity plainly: daily talk about virtue, examining oneself and others. And it states the price of refusing it: a life without that examination is not worth living. Socrates predicts the jury will believe him still less, and he adds that he is not accustomed to think he deserves anything bad. The claim sits in a speech where he is proposing a monetary penalty: thirty minas, with friends as sureties.
 
 The remark works as the negative image of the compendium's examined-life family: the warning rather than the practice, useful precisely when the practice lapses.
 
@@ -21,7 +21,7 @@ The remark works as the negative image of the compendium's examined-life family:
 
 ## Sources
 
-- [Plato, Apology 38a-38b (Fowler translation), Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.%3Asection%3D38b) — the penalty context (no money, thirty minas, sureties) and the "deserve anything bad" sentence.
+- [Plato, Apology 38a-38b (Fowler translation), Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.%3Asection%3D38b) — the penalty context: the mina of silver, the thirty-mina proposal, and the sureties.
 - [Plato, Apology 38a (Fowler translation), Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0170%3Atext%3DApol.%3Asection%3D38a) — the verbatim sentence.
 - Socrates, Apology 38a
 - Socrates, in Plato, Apology

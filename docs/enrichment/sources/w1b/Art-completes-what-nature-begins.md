@@ -22,3 +22,22 @@
   impulsion"), read from those pages. No new reciprocals needed (links already
   mutual).
 - All 13 seed links preserved; pre-heading block folded under the Cited-in heading.
+
+## Advisor QC round (5th-item milestone): FAILED -> repaired
+
+- Formula identified on-page as the compendium's paraphrase; GA I.1 inherited citation
+  annotated as unverified for this formulation; quotes carry their true locations
+  (Physics 199a8-20; GA 735a2-4, full sentence quoted).
+- Deleted: "cases where it cannot" inference; "middle road between fatalism and
+  self-making"; "raw material is given, the finish is not"; "clearest modern heir";
+  "nature as the starting point that art finishes"; "purposes are completed, not
+  projected"; "Techne and Physis" title guess.
+- SP004 body read; bullet now reports the inherited link and the actual tension
+  (SP004 rejects final causes; the Physics passage concludes natural products have
+  ends). Cross-reference direction corrected: mention scan verified outgoing links
+  only for P187/P189/P190, SE081, Y062; SP004, D107, Y042, A079, A082, A093 are
+  inherited links on this page only, and the bullets now say so.
+- Ledger correction: the archive.org Greek/OCR check FAILED TO VERIFY the GA I.1
+  formulation; it did not disprove it.
+- Process note: a validation failure in a chained command skipped this ledger append
+  and the done transition in an earlier save; both re-run in this commit.
