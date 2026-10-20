@@ -24,8 +24,8 @@ In the Theravada Abhidharma teachings the equivalent is moha, delusion ([Wikiped
 ### In the compendium
 
 - [[B083 — Meet doubt with investigation (hindrance 5)]] — doubt met by investigating rather than ruminating
-- [[B086 — See self-constructions — namarupa arises from ignorance]]
-- [[B065 — Train investigation — insight clears confusion]]
+- [[B086 — What you feed grows — practice wise attention]]
+- [[B065 — Guard the mind at the source (mind precedes all)]]
 
 ## Related concepts
 
@@ -39,5 +39,5 @@ In the Theravada Abhidharma teachings the equivalent is moha, delusion ([Wikiped
 - Samkhya and Vedanta
 
 [[B083 — Meet doubt with investigation (hindrance 5)]]
-[[B086 — See self-constructions — namarupa arises from ignorance]]
-[[B065 — Train investigation — insight clears confusion]]
+[[B086 — What you feed grows — practice wise attention]]
+[[B065 — Guard the mind at the source (mind precedes all)]]
