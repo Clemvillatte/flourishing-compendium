@@ -98,3 +98,4 @@
 - Related concepts: Body schema (deg 10), Sensorimotor accounts of perception (deg 3), descriptive clauses. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 13).
+- VALIDATOR FIX: the first pushed version carried the banned word "crucial" (a Wikipedia phrase carried over); reworded to "What defines it is that it is unclear and vague..." and re-validated clean in the follow-up commit.

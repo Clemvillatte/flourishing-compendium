@@ -13,7 +13,7 @@ Focusing is an internally oriented psychotherapeutic process developed by Eugene
 
 ### The felt sense
 
-Gendlin gave the name felt sense to the unclear, pre-verbal sense of something, the inner knowledge that has not been consciously thought or verbalized, as it is experienced in the body. Crucial to the concept is that it is unclear and vague, and always more than any attempt to express it verbally; it is not the same as an emotion. The 1978 book Focusing describes six steps for laypeople, while emphasizing that the essence of the process is following the organic movement rather than adhering to the steps.
+Gendlin gave the name felt sense to the unclear, pre-verbal sense of something, the inner knowledge that has not been consciously thought or verbalized, as it is experienced in the body. What defines it is that it is unclear and vague, and always more than any attempt to express it verbally; it is not the same as an emotion. The 1978 book Focusing describes six steps for laypeople, while emphasizing that the essence of the process is following the organic movement rather than adhering to the steps.
 
 ### In the compendium
 
