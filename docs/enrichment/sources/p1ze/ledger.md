@@ -206,3 +206,8 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Substantive correction: the entry presents reconsolidation therapy as established; the flagship human result (Schiller 2010) is contested by a verification report and replication failures. Lab memories are shock-conditioned responses, not autobiographical events.
 - Lane 2015, Brunet 2018 not opened; Nietzsche/White & Epston/McAdams parallels not opened.
 - QC: self-QC only; validator pass.
+
+## CO061 — Narrative identity
+- Sources opened: Adler 2012 abstract; Adler et al. 2016 abstract. McAdams & McLean 2013 definition quoted second-hand (original not opened), marked as such.
+- McAdams et al. 2001 (redemption/contamination), Ricoeur, MacIntyre, White & Epston not opened. Causal language softened: Adler 2012 shows timing/association in 47 adults.
+- QC: self-QC only; validator pass; SE001 related-concepts link intact.

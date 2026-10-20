@@ -29,7 +29,8 @@
   "CO046",
   "CO048",
   "CO056",
-  "CO060"
+  "CO060",
+  "CO061"
  ],
  "in_progress": null,
  "flagged": {
@@ -53,10 +54,11 @@
   "CO046": "Parallel attributes brooding finding to Nolen-Hoeksema 2000, which is about rumination overall; Watkins 2011 small (n=42) no attention control",
   "CO048": "Avoidance theory contested (PMID 7993329, 12405523); D'Zurilla&Nezu 2007 not opened",
   "CO056": "Craik&Lockhart 1972 not opened; 'bad at names' claim dropped",
-  "CO060": "Overstated: Schiller 2010 contested (Chalkia 2020 verification report, replication failures); Lane 2015/Brunet 2018 not opened"
+  "CO060": "Overstated: Schiller 2010 contested (Chalkia 2020 verification report, replication failures); Lane 2015/Brunet 2018 not opened",
+  "CO061": "McAdams&McLean 2013 second-hand; McAdams 2001 redemption/contamination not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:34:37+00:00",
+ "updated": "2026-10-20T10:35:03+00:00",
  "band_done": false
 }
