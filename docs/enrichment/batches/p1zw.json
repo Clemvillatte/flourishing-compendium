@@ -15,9 +15,10 @@
   "K067",
   "K007",
   "K017",
-  "K022"
+  "K022",
+  "K025"
  ],
- "in_progress": "K025",
+ "in_progress": null,
  "flagged": {
   "K069": "inherited psychology bullet (Linville 1987; Bernstein 2015): 'rigid self-definition predicts poor stress response' — constructs not verified for this precise claim (Linville's construct is self-complexity; Bernstein 2015 is a decentering constructs review); needs supervisor verification or narrowing; wikilink preserved",
   "K027": "inherited psychology bullet (mindfulness transfer to daily activity): 'informal practice moments add to formal sitting' — not verified from opened sources this session; needs verification or scope narrowing",
@@ -30,6 +31,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:40:43+00:00",
+ "updated": "2026-10-20T13:43:22+00:00",
  "band_done": false
 }

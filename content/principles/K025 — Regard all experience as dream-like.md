@@ -20,7 +20,7 @@ Chögyam Trungpa's commentary on the slogan guards against the common misreading
 
 > "Regarding things as dreams does not mean that you become fuzzy and woolly, that everything has an edge of sleepiness about it. You might actually have a good dream, vivid and graphic. Regarding dharmas as dreams means that although you might think that things are very solid, the way you perceive them is soft and dreamlike." (Chögyam Trungpa, Training the Mind, as carried on the [Tibetan Buddhist Encyclopedia](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point))
 
-The dream comparison lands on perception, and Trungpa applies it to the contents ordinary life is made of: "you can see that your hate for your enemy, your love for your friends, and your attitudes toward money, food, and wealth are all a part of discursive thought". Pema Chödrön, commenting on the same slogan, gives the situation-level version as a practice reminder: "Every situation is a passing memory."
+The dream comparison lands on perception, and Trungpa applies it to the contents ordinary life is made of: "you can see that your hate for your enemy, your love for your friends, and your attitudes toward money, food, and wealth are all a part of discursive thought".
 
 **Plain words**
 In this reading, an experience can be vivid without being as fixed as it seems. As an everyday exercise, notice a remembered conversation as it comes to mind. What words, pictures or feelings are present? Watch whether they change while you pay attention.
@@ -29,7 +29,7 @@ For example (an imagined application): After an argument, you notice yourself re
 
 ## Sources
 
-- [Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Two](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point) — root slogan "Regard all dharmas as dreams"; commentaries by Chögyam Trungpa (Training the Mind) and Pema Chödrön (Start Where You Are), as carried on the Tibetan Buddhist Encyclopedia page
+- [Chekawa Yeshe Dorje, Seven Points of Mind Training, Point Two](https://www.tibetanbuddhistencyclopedia.com/en/wiki/All_dharma_agrees_at_one_point) — root slogan "Regard all dharmas as dreams"; commentary by Chögyam Trungpa (Training the Mind), as carried on the Tibetan Buddhist Encyclopedia page
 
 ## Psychology parallels
 
