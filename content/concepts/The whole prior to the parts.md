@@ -7,15 +7,15 @@ file: "The whole prior to the parts"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The whole prior to the parts” — Aristotle's explanatory priority of the living whole over its parts, in *Parts of Animals*, Book I.
+“The whole prior to the parts” — Aristotle's explanatory priority of the living whole over its parts, in Parts of Animals, Book I ([Ogle, Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)).
 
 ## The rule of study
 
-For Aristotle, a living thing is not explained by inventorying its materials: the natural philosopher states the definitive characters that distinguish the animal as a whole, and, when a part is under discussion, the object of the discussion is its relation to the total form, rather than its material composition ([Ogle, *Parts of Animals* I](https://penelope.uchicago.edu/aristotle/parts1.html)).
+For Aristotle, a living thing is not explained by inventorying its materials: the natural philosopher states the definitive characters that distinguish the animal as a whole, and, when a part is under discussion, the object of the discussion is its relation to the total form, rather than its material composition ([Ogle, Parts of Animals I](https://penelope.uchicago.edu/aristotle/parts1.html)).
 
 > “Similarly, the true object of architecture is not bricks, mortar, or timber, but the house; and so the principal object of natural philosophy is not the material elements, but their composition, and the totality of the form, independently of which they have no existence.”
 >
-> — Aristotle, *Parts of Animals*, Book I, chapter 5 (William Ogle translation), [Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)
+> — Aristotle, Parts of Animals, Book I, chapter 5 (William Ogle translation), [Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)
 
 ## Why the whole leads
 
@@ -25,11 +25,11 @@ The point shows itself at death: when the soul departs, what is left is no longe
 
 ## Sources
 
-- Aristotle, *Parts of Animals*, Book I, chapters 1 and 5, trans. William Ogle, opened at [Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)
+- Aristotle, Parts of Animals, Book I, chapters 1 and 5, trans. William Ogle, opened at [Penelope](https://penelope.uchicago.edu/aristotle/parts1.html)
 
 ## Related concepts
 
-- [[The whole in the part]] — Whitehead's doctrine that the whole enters into each part
+- [[The whole in the part]] — Whitehead's doctrine that the whole enters into each part ([Process and Reality, Part II ch. X](https://data.openml.dev/books/process-and-reality.pdf))
 
 [[E013 — Practise the lived body (Leib)]]
 [[ST082 — Huineng Hears One Line]]

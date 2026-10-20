@@ -8,7 +8,7 @@ tags: ["psych/self", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SELF"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“True self” — Schlegel et al., 2009.
+“True self” — Schlegel et al. (2009), as described in the [2011 review](http://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/08/SchlegelHicks2011Compass.pdf).
 
 ## The concept
 
@@ -34,7 +34,7 @@ The researchers are careful about ontology: what is studied is the avowed true s
 
 ## Related concepts
 
-- [[Authenticity]] — expression of the true self in daily behavior
+- [[Authenticity]] — expression of the true self in daily behavior ([Schlegel and Hicks, 2011](http://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/08/SchlegelHicks2011Compass.pdf))
 
 ## Cited in psychology parallels
 

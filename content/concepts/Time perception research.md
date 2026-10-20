@@ -35,8 +35,8 @@ Wittmann's own interpretation is embodied: there is no sense organ for time, and
 
 ## Related concepts
 
-- [[Flow]] — a state of strong engagement in which time passes quickly
-- [[Boredom]] — time can feel slow during boredom
+- [[Flow]] — a state of strong engagement in which time passes quickly ([Interalia interview](https://www.interaliamag.org/interviews/marc-wittmann/))
+- [[Boredom]] — time can feel slow during boredom ([Wittmann, 2009, §1](https://pmc.ncbi.nlm.nih.gov/articles/PMC2685813/))
 - [[Attention]]
 
 ## Cited in psychology parallels

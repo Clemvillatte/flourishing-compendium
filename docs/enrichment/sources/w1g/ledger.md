@@ -1154,3 +1154,11 @@ Advisor QC found batch-level and per-item issues; all repaired. Key findings and
 ### QC round 6d (sentence-level citation coverage)
 - All five pages: every source-derived sentence now carries a citation link to its opened source. Redundant setup sentences were merged into the sentences they introduced (Aristotle opening, Aristotle death framing, Time perception opening and account sections, True self Heppner framing). Linked, located blockquote attributions unchanged.
 - Time affluence: residual causal bullet "perceived time scarcity undermines well-being" repaired to associational wording with the review citation link.
+
+### QC round 6e (lead lines, Facets, Related glosses; closure)
+- Aristotle: opening line cited with Penelope; Whitehead Related gloss cited with the Process and Reality source opened for item 10; Markdown italics removed from prose and attributions.
+- Whitman: opening line cited with Poets.org.
+- Time affluence: Whillans 2016 Facets entry and Materialism gloss linked to the Sage abstract; the two links to the Yoon review relabeled "Yoon's review of Kasser and Sheldon, 2009".
+- Time perception: Flow gloss cited with the Interalia interview; Boredom gloss cited with Wittmann 2009, §1; bare [[Attention]] kept as internal navigation.
+- True self: opening attribution made explicit ("Schlegel et al. (2009), as described in the 2011 review"); Authenticity gloss cited with the review.
+- Coverage check for this pass included the lead lines, Facets, and Related sections, in addition to body prose, blockquote attributions, and Sources lines. Validators: 5 checked, 0 failed (--base 08bd09c4).

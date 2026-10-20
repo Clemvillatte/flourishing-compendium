@@ -7,7 +7,7 @@ file: "Time affluence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-the subjective sense of having enough time is associated with well-being independently of income ([Kasser and Sheldon, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)).
+the subjective sense of having enough time is associated with well-being independently of income ([Yoon's review of Kasser and Sheldon, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/)).
 
 ## The concept
 
@@ -15,7 +15,7 @@ Time affluence is the subjective sense of having enough time, together with auto
 
 ## Facets
 
-- **and well-being** — Whillans et al., 2016
+- **and well-being** — [Whillans et al., 2016](https://journals.sagepub.com/doi/abs/10.1177/1948550615623842)
 
 Later work moved from feeling time-affluent to prioritizing time: [Whillans, Weidman and Dunn (2016)](https://journals.sagepub.com/doi/abs/10.1177/1948550615623842) studied the stable preference to prioritize time over money, and across six studies (N = 4,690) people with that preference reported greater subjective well-being, an association that held after controlling for materialism, material striving, and current feelings of time or material affluence. A third construct concerns using money to buy time: in the [2017 buying-time studies](https://www.pnas.org/doi/10.1073/pnas.1706541114), individuals who spent money on time-saving services reported greater life satisfaction, and a field experiment found that working adults reported greater happiness after a time-saving purchase than after a material purchase.
 
@@ -27,7 +27,7 @@ Later work moved from feeling time-affluent to prioritizing time: [Whillans, Wei
 
 
 
-- perceived time scarcity is associated with lower well-being ([Kasser and Sheldon, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/))
+- perceived time scarcity is associated with lower well-being ([Yoon's review of Kasser and Sheldon, 2009](https://pmc.ncbi.nlm.nih.gov/articles/PMC13414762/))
 
 ## Sources
 
@@ -37,7 +37,7 @@ Later work moved from feeling time-affluent to prioritizing time: [Whillans, Wei
 
 ## Related concepts
 
-- [[Materialism]] — the acquisition orientation controlled for in these studies
+- [[Materialism]] — the acquisition orientation controlled for in these studies ([Whillans et al., 2016](https://journals.sagepub.com/doi/abs/10.1177/1948550615623842))
 
 ## Cited in psychology parallels
 

@@ -7,7 +7,7 @@ file: "The whole tradition's turn — re-examine everything"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-“The whole tradition's turn: re-examine everything” — Whitman's command to the reader, from the preface to Leaves of Grass (1855).
+“The whole tradition's turn: re-examine everything” — Whitman's command to the reader, from the preface to Leaves of Grass (1855) ([Poets.org](https://poets.org/text/preface-leaves-grass)).
 
 ## The command
 
