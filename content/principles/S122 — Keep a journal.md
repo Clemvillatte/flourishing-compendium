@@ -12,18 +12,18 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 244** — Keep a journal
 
-Marcus's book was a private notebook: "this book, like the eleven other books, was for his own use" (George Long's introduction to the Meditations). What that use looks like in practice, Seneca describes from his own nightly habit:
+Marcus's book was a private notebook: "this book, like the eleven other books, was for his own use" (George Long's introduction to the Meditations). Seneca describes his nightly review:
 
-> "I make use of this privilege, and daily plead my cause before myself: when the lamp is taken out of my sight, and my wife, who knows my habit, has ceased to talk, I pass the whole day in review before myself, and repeat all that I have said and done: I conceal nothing from myself, and omit nothing." (Seneca, On Anger III.36, trans. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_III))
+> "I pass the whole day in review before myself, and repeat all that I have said and done: I conceal nothing from myself, and omit nothing" (Seneca, On Anger III.36, trans. Aubrey Stewart, [Wikisource](https://en.wikisource.org/wiki/Of_Anger/Book_III))
 
-The older version he records is Sextius's: "It was the custom of Sextius when the day was over, and he had betaken himself to rest, to inquire of his spirit: 'What bad habit of yours have you cured to-day? what vice have you checked? in what respect are you better?'" (On Anger III.36). Marcus's twelve books are what a lifetime of such notes looks like on paper.
+The older version he records is Sextius's: "It was the custom of Sextius when the day was over, and he had betaken himself to rest, to inquire of his spirit: 'What bad habit of yours have you cured to-day? what vice have you checked? in what respect are you better?'" (On Anger III.36). For this principle, Sextius's questions can serve as prompts for written notes.
 
 (Seneca, On Anger III.36; Long's introduction to the Meditations.)
 
 **Plain words**
-As a practical exercise, write the review, not the diary. End the day with Sextius's three questions — what bad habit did you face, what did you check, in what respect are you better — plus one honest line on what you said and did. The page is for you alone, which is what makes the honesty possible.
+At day's end, answer Sextius's questions in writing. Add a sentence about something you said or did and a change you want to try tomorrow.
 
-*For example (imagined):* The person who journals one honest paragraph a night and, three weeks in, can finally name the pattern they keep repeating at work.
+*For example (imagined):* At the end of a workday, someone writes about a disagreement and drafts a question to ask next time.
 
 ## Sources
 
