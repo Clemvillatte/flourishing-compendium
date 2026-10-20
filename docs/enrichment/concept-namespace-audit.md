@@ -144,6 +144,9 @@ hallucinations.
 - Three thousand realms in one thought (enriched in w1g 2026-10-20; queue s2, 38w) —
   the title IS the tradition's own term (yi nian san qian) per the opened source; listed
   here only to note the Mohe Zhiguan quotation-provenance caveat in the w1g ledger.
+- The rhythm of rest (enriched in w1g 2026-10-20; queue s2, 75w) — the opened Zhuangzi
+  6.2/6.4 grounds the toil-ease-rest image, but the page title is the compendium's
+  heading. Pending supervisor verification/rename/merge.
 - The rhythm of life (enriched in w1g 2026-10-20; queue s2, 53w) — the opened Neiye V
   (Roth) grounds the breath-as-rhythm teaching ("the vital breath is regular"), but the
   page title is the compendium's heading. Pending supervisor verification/rename/merge.

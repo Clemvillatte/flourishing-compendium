@@ -11,7 +11,8 @@
   "Three thousand realms in one thought",
   "The water of life",
   "Sufficiency",
-  "The rhythm of life"
+  "The rhythm of life",
+  "The rhythm of rest"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,10 +21,11 @@
   "The trained mind": "title pending supervisor disposition: Dhammapada says tamed/guarded/well-directed mind; 'trained' equivalence undocumented in opened sources; flagged in audit worker flags",
   "The water of life": "title pending supervisor disposition: compendium heading over the chapter's own phrase (highest excellence is like water); flagged in ledger",
   "Sufficiency": "title pending supervisor disposition: generic English heading; queue lists Zhi zu (knowing sufficiency) as the tradition's term; flagged in audit worker-flags section",
-  "The rhythm of life": "title pending supervisor disposition: compendium heading over the Neiye's breath-as-rhythm teaching; flagged in audit worker-flags section"
+  "The rhythm of life": "title pending supervisor disposition: compendium heading over the Neiye's breath-as-rhythm teaching; flagged in audit worker-flags section",
+  "The rhythm of rest": "title pending supervisor disposition: compendium heading over Zhuangzi ch. 6 toil-ease-rest image; flagged in audit worker-flags section"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:08:51+00:00",
+ "updated": "2026-10-20T05:09:36+00:00",
  "band_done": false
 }

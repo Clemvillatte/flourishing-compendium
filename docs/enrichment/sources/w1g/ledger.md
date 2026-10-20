@@ -466,3 +466,21 @@
   "Daoism, Neiye" are placeholder artifacts, preserved per protection rules.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## The rhythm of rest (2026-10-20, fast-track; degree 9 — eligible)
+
+- OPENED: Zhuangzi, chapter 6 ("The Great and Most Honoured Master"), sections 2 and
+  4, Legge translation (same ETH Zurich PDF used earlier this session; text on disk).
+  Great-Mass passage quoted verbatim (§2, verified in the raw text, cross-checked
+  against the repeat of the image in §4); the "rest in what the time requires" clause
+  and the closing "We are born as from a quiet sleep, and we die to a calm awaking"
+  verified in the raw text. One verbatim blockquote used.
+- IS-IT-A-CONCEPT check: the page TITLE is the compendium's heading; the opened text
+  grounds the toil-ease-rest rhythm as an image, not a named term. Grep at this
+  round: no entry in concept-namespace-audit.md; on the concept-verification-queue
+  (s2, 53w; verified by grep this round). Flagged for supervisor disposition
+  (added to the audit worker-flags section this round).
+- FLAG (inherited, protected): the preserved Sources line "Daoism" is a placeholder
+  artifact, preserved per protection rules.
+- Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
+  checks pass). Build ok (5718 entries, fcAuthored 976).
