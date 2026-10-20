@@ -24,3 +24,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO053
 - Bartlett 1932 (archive.org Bartlett_1932_Remembering_djvu.txt): summary paragraph (ch. X s.7), War of the Ghosts original and subject H's 20-hour reproduction (ch. V) verified. Schacter, Guerin, St Jacques 2011 TiCS: PubMed abstract only (authors confirmed from PubMed XML).
 - Limits: example invented/hypothetical ('Say you...'); Nader 2000 reconsolidation (inherited parallel) not opened.
+
+## CO055
+- Murphy et al. 2023 (UCC CORA accepted manuscript, opened): abstract, 25% n=6, 35% (27% partial, 8% full), mock-juror quote verified; the Loftus & Pickrell p.723 quotation is TAKEN FROM Murphy et al. (primary 1995 paper not opened; attributed as 'as quoted in'). Wixted & Wells 2017: PubMed abstract.
+- Limits: original sample size (24) not verified, so omitted. Example hypothetical.
