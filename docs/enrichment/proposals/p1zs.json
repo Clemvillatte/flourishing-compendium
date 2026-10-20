@@ -1,6 +1,6 @@
 {
  "batch": "p1zs",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Sleep hygiene (CBT-I)",
@@ -13,6 +13,18 @@
    "link": "BI020",
    "why": "brief-nap findings after a night restricted to about five hours",
    "notes": "Evidence in sources/p1zs/BI020.md (Brooks & Lack 2006, Sleep 29(6): 831-40, opened at PubMed 16796222)."
+  },
+  {
+   "into": "Exercise neurobiology theory",
+   "link": "BI023",
+   "why": "the trial evidence this principle summarises is the behavioural outcome those neurobiological mechanisms are proposed to explain",
+   "notes": "Evidence in sources/p1zs/BI023.md (Schuch 2018 + Rebar 2015 abstracts opened; target page read)."
+  },
+  {
+   "into": "Green exercise (Barton, Pretty)",
+   "link": "BI023",
+   "why": "the antidepressant and anxiolytic case for movement in general, of which green exercise is the nature-based variant",
+   "notes": "Evidence in sources/p1zs/BI023.md (target page read)."
   }
  ]
 }
