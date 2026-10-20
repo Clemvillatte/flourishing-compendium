@@ -7,8 +7,6 @@ file: "Groupthink theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-**Groupthink theory** — Janis — cohesive groups prioritise harmony over realistic appraisal, producing defective decisions.
-
 Groupthink is the term Irving Janis gave in 1972 to the way a tight-knit group can talk itself into a bad decision: the pull of agreement inside the group grows strong enough to crowd out an honest look at the alternatives. The word itself was coined earlier, by William H. Whyte in Fortune magazine in 1952; Janis turned it into a studied theory of decision-making failure, built from cases such as the Bay of Pigs invasion ([Wikipedia, "Groupthink"](https://en.wikipedia.org/wiki/Groupthink)).
 
 > "a mode of thinking that people engage in when they are deeply involved in a cohesive in-group, when the members' strivings for unanimity override their motivation to realistically appraise alternative courses of action" (Janis 1972, p. 9, quoted in Aldag and Fuller, [Beyond Fiasco: A Reappraisal of the Groupthink Phenomenon and a New Model of Group Decision Processes](https://web.mit.edu/writing/2012/Grad_Summary_Readings/beyond_fiasco_final.pdf), Psychological Bulletin 113(3))

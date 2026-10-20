@@ -34,13 +34,13 @@
   "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request",
   "Generative model theory": "skip-ahead quote verification: Clark 2013 blockquote re-verified character-for-character in the opened fil.ion.ucl.ac.uk PDF (ligature/line-break normalization only); degree 1",
   "Festinger": "Reopened for QC: advisor QC round 1: identity disposition pending supervisor (person-titled page on verification queue s2; keep as author-hub vs rename/merge into Social comparison); repairs applied (seed-line sentence removed, reader-addressing removed, Hyp IV standalone blockquote, 'most often' dropped, Wikipedia citation inline); item NOT done pending disposition",
-  "Grit": "milestone QC (advisor): definition quote relabelled as secondary-carrier (Hou et al. 2021 quoting p. 1087, disclosed); abstract 4% sentence now verbatim blockquote; IQ design claim dropped; degree 1",
-  "Group cohesion theory": "milestone QC (advisor): 'enjoy each other' and 'field's standard' removed (unverified); social-cohesion gloss now verbatim from FSU source; seed's performance claim trimmed; degree 4",
-  "Groupthink theory": "milestone QC (advisor): Janis quote re-verified verbatim via opened Aldag & Fuller 1993 PDF (p. 9); evidence-status sentence grounded in its conclusion; SP077 relabelled Spinoza's (was wrongly 'Stoic'); remedies grounded in opened Wikipedia prevention list; degree 4",
-  "HEXACO model of personality structure": "milestone QC (advisor): p. 156 replaced with section locator (form-feed page arithmetic ambiguous by one); E039 clause made neutral; narcissism clause reframed as comparison; degree 4"
+  "Grit": "QC round 2: blockquote reduced to the Hou-verified fragment (p. 1087); master-trait contrast removed; abstract blockquote retained (fully verified)",
+  "Group cohesion theory": "QC round 2: FSU carrier fully identified (Medeiros Filho 2012, PhD dissertation, Florida State University; quotes Carron, Brawley and Widmeyer 1998 p. 213 with disclosed provenance per the secondary-carrier precedent); published Filho et al. 2015 article checked and does NOT carry the quote; bold seed line removed",
+  "Groupthink theory": "QC round 2: bold seed line removed",
+  "HEXACO model of personality structure": "QC round 2: bold seed line removed; H-factor quote locator corrected to the 'Theoretical Interpretation' section (quote precedes the table heading the earlier locator named); degrees verified via title search: Festinger 8, Grit 1, Generative 1, Group cohesion 5, Groupthink 7, HEXACO 5 (all fast-track eligible)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T16:54:43+00:00",
+ "updated": "2026-10-20T16:57:04+00:00",
  "band_done": false
 }

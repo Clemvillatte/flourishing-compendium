@@ -7,11 +7,9 @@ file: "Group cohesion theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-**Group cohesion theory** — Festinger, Carron — cohesion (task and social) binds members to group and goal.
-
 Group cohesion theory is the study of what holds a group together. Its working definition in the sport-psychology tradition associated with Albert Carron reads:
 
-> "a dynamic process that is reflected in the tendency of a group to stick together and remain united in the pursuit of its instrumental objectives and/or for the satisfaction of member affective needs" (Carron, Brawley and Widmeyer 1998, p. 213, quoted in [Cohesion, team mental models and collective efficacy: towards an integrated nomological network of team sports, Florida State University repository](https://repository.lib.fsu.edu/islandora/object/fsu:183009/datastream/PDF/download))
+> "a dynamic process that is reflected in the tendency of a group to stick together and remain united in the pursuit of its instrumental objectives and/or for the satisfaction of member affective needs" (Carron, Brawley and Widmeyer 1998, p. 213, quoted in [Medeiros Filho, E. S. (2012). Cohesion, team mental models and collective efficacy: towards an integrated nomological network of team sports. PhD dissertation, Florida State University](https://repository.lib.fsu.edu/islandora/object/fsu:183009/datastream/PDF/download))
 
 ### Task and social cohesion
 
