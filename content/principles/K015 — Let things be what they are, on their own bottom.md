@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 15** — Let things be what they are, on their own bottom
 
-On the field of shunyata, Nishitani says, things return to themselves: the tree is a tree, the person in front of you is the person in front of you, no longer as props in your project. This "suchness" is the tradition's cure for the instrumental gaze, the habit of seeing everything and everyone as means. Practically, practice one encounter per day in which you deliberately subtract your use for the other person and let them appear as themselves.
+Nishitani's picture of sunyata reverses the instrumental gaze. Ordinarily things appear as objects standing over against a subject; on the field of sunyata, things are brought back to the possibility of existence they possess at bottom, appearing from their home-ground. (Nishitani, Religion and Nothingness.)
 
-(Nishitani, Religion and Nothingness; the Zen tradition's "the willow is green, the flower is red.")
+> "On the field of Śūnyatā, however, things are brought back again to the possibility of existence. Or rather, things are made to appear in the possibility of existence that they possess at bottom. They appear from the home-ground (elemental source) of their existence, from the selfness lying at their home-ground." (Nishitani, Religion and Nothingness, p. 146)
 
-**Plain words** On the ground of emptiness, things return to themselves. The tree is a tree, the person in front of you is just that person, not a prop in your project. That "suchness" cures the habit of treating everything and everyone as a means. Try it once a day.
+> "It is a world on the yonder side of all such determinations, a world of primal fact, where each fact is bottomlessly on its own home-ground becoming manifest apart from all cause or reason or end, without How or Why or Wherefore: a world in which all things are truly 'like' themselves and 'such' as they are, and are encountered 'as oneself' in their 'suchness.'" (Nishitani, Religion and Nothingness, p. 283)
 
-*For example:* Having lunch with a colleague and, for ten minutes, wanting nothing from them. They notice something is different, and so do you.
+**Plain words**
+Most of what you see, you see through what it can do for you. Nishitani's move is to set that aside for a moment and let the thing or person show up from their own ground: the tree as tree, the colleague as colleague. Try one encounter a day in which you deliberately want nothing from the other person, and watch what appears.
+
+*For example:* Having lunch with a colleague and, for ten minutes, wanting nothing from them: no advice sought, no favor implied, nothing to fix.
+
+## Sources
+
+- [Qin, "Interpenetration on the Field of Śūnyatā: Nishitani and Buddhist Metaphysics" (PhilArchive), quoting Nishitani, Religion and Nothingness, pp. 146, 283](https://philarchive.org/archive/QINIOT-2)
 
 ## Psychology parallels
 
