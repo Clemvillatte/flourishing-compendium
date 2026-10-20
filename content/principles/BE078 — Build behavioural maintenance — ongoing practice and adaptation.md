@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 78** — Build behavioural maintenance: ongoing practice and adaptation
 
-Behavioural change is not a one-time achievement; it requires ongoing maintenance, adaptation to changing circumstances, and retention of what works. This is the variation-selection-retention loop applied to behaviour.
+The best single source here is a systematic review of 100 behaviour-change theories, and it opens on the sobering line:
 
-**Plain words** Behavioural change is never finished — it's maintained, like fitness, like a garden. Life changes, and the routines need to change with it: new job, new baby, new city, new plan. The maintenance is the skill.
+> "Behaviour change interventions are effective in supporting individuals in achieving temporary behaviour change. Behaviour change maintenance, however, is rarely attained." (Kwasnicka, Dombrowski, White & Sniehotta, "Theoretical explanations for maintenance of behaviour change: a systematic review of behaviour theories", Health Psychology Review 10(3), 277-296, 2016, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/))
 
-*For example:* The exercise routine that survived three life restructurings — not by staying the same, but by being rewritten each time. Same behaviour, third format. That's mastery, not luck.
+What keeps a behaviour going, per the review's synthesis:
+
+> "By systematically reviewing maintenance-relevant behaviour change theories, five overarching interconnected theoretical themes emerged: maintenance motives, self-regulation, resources, habits and contextual influences." (Kwasnicka et al., 2016, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/))
+
+And the motives shift as the change settles in:
+
+> "Motives are hypothesised to be particularly facilitating for maintenance if they enable regular gratification from enacting the new behaviour, rather than from the experience of changing. For example, by focusing on behaviour enjoyment, satisfaction with behavioural outcomes, self-determination or if individuals experience congruence of the newly adopted behaviour with their identity, beliefs and values." (Kwasnicka et al., 2016, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/))
+
+**Plain words**
+Starting a behaviour and keeping it going run on different fuel. A review of 100 theories put maintenance down to five things: motives that pay off during the behaviour itself, self-regulation, resources, habits, and the context around you. The pleasure has to move from "I am changing" to "I like doing this."
+
+**For example**
+The exercise routine that survived three life restructurings. The review's themes name what that took: the behaviour stayed rewarding in itself, self-regulation caught the lapses, and the format was rewritten each time the context moved. Same behaviour, third format.
+
+## Sources
+
+- [Kwasnicka, Dombrowski, White & Sniehotta, "Theoretical explanations for maintenance of behaviour change: a systematic review of behaviour theories", Health Psychology Review 10(3), 277-296 (2016), full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4975085/) — 100 theories reviewed; five maintenance themes; maintenance-motives hypothesis. Quotes verified by fetch_url. DOI [10.1080/17437199.2016.1151372](https://doi.org/10.1080/17437199.2016.1151372)
+
 ## Psychology parallels
 
 - **Behavioural maintenance**, maintaining behaviour change requires ongoing effort (Marlatt & Gordon, 1985; Witkiewitz & Marlatt, 2004)

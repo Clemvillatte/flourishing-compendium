@@ -83,6 +83,13 @@
       "phrase": "Mattering and generativity (Pratt et al.)",
       "why": "A014's parallels cite mattering and generativity research; BE068 documents the generativity evidence base (Erikson definition, seven-region and MIDUS findings) those parallels point at",
       "notes": "found by mention scan during BE068 saturation"
+    },
+    {
+      "into": "AF084",
+      "type": "principle",
+      "phrase": "affect-maintenance system (learn, adapt, retain)",
+      "why": "AF084 frames emotion-regulation maintenance in Gross's process-model terms; BE078 documents the general behaviour-change maintenance literature (Kwasnicka 2016 five themes) that underlies the learn-adapt-retain framing",
+      "notes": "found by mention scan during BE078 saturation"
     }
   ],
   "inline": [
