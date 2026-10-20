@@ -12,13 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 48** — Aim at the third kind, which is joy
 
-The highest knowledge is not accumulation but intuition: seeing the thing from its essence, in one view. Spinoza reports that everything achieved in this manner comes with delight, and that the third kind of knowledge is the mind's greatest satisfaction. This is why his philosophy is a flourishing philosophy and not merely a correct one: the goal of method is not to win arguments but to see, and seeing is intrinsically rewarding. Practically, treat your best moments of sudden understanding as samples of the destination, not as accidents to be discounted.
+Spinoza ranks the kinds of knowledge: the highest virtue of the mind "is to understand things by the third kind of knowledge" ([Ethics V, P25](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)), and "from this third kind of knowledge arises the highest possible mental acquiescence" ([Ethics V, P27](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). His proof adds that the knower is "affected by the highest pleasure" (V, P27 proof), and the desire grows with the capacity: the more the mind can know this way, the more it wants to (V, P26). The compendium's reading of the pair: the satisfaction is not a by-product but the mark of the thing aimed at.
 
-(Ethics V, P25-27; V, P27 scholium, the transition to the third kind.)
+> The highest endeavour of the mind, and the highest virtue is to understand things by the third kind of knowledge.
+>
+> Spinoza, Ethics V, Proposition XXV, translated by R. H. M. Elwes, [Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).
 
-**Plain words** The highest knowledge is intuition: seeing the thing from its essence, in one view — and Spinoza reports that everything achieved in this manner comes with delight. The third kind of knowledge is the mind's greatest satisfaction. Aim at it; the joy is diagnostic.
+> From this third kind of knowledge arises the highest possible mental acquiescence.
+>
+> Spinoza, Ethics V, Proposition XXVII, same translation.
 
-*For example:* The moment the whole subject snaps into one picture for the student — the formulas, the history, the applications, all one thing seen whole — and the delight that arrives is the tradition's own marker. That pleasure isn't a bonus; it's the signature of the third kind.
+(Ethics V, P25, P26, P27; Elwes translation.)
+
+### Plain words
+
+Spinoza's word for the payoff is acquiescence — the mind settling, satisfied. The route there is a kind of seeing: not collecting facts but getting the whole thing in one view. For an exercise, notice when understanding arrives all at once, and treat that satisfaction as information about what your mind is for, not as a mood to discount.
+
+For example: the moment the whole subject snaps into one picture for the student — the formulas, the history, the applications, all one thing — and the delight that arrives with it. The illustration is invented; the pairing it marks, understanding with satisfaction, is the proposition's.
 ## Psychology parallels
 
 - **[[Awe|Awe and self-transcendent experience]]**, the research on states of perception that dwarf self-concern (Keltner and Haidt, 2003, as conceptual framework)
