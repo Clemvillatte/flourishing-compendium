@@ -65,3 +65,11 @@
 - Related concepts: Language games (exists, deg 9), Prototype theory (exists, deg 8), clauses descriptive. No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 9).
+
+## Fear (item 10, advisor QC rounds 1-2)
+
+- Fast-track degree 5 (Courage, ERP, Graded exposure, Judgment adds the harm, BE028).
+- Opened source: Öhman and Mineka 2001 full-text PDF (whitman.edu copy; Psychol Rev 108(3):483-522), downloaded and raw-pdftotext-verified: the abstract's four-characteristics passage (comma splice and (a)-(d) enumeration confirmed character-for-character in the raw text; blockquote keeps them, locator "abstract"); the central-motive-state identification; the defensive-device passage; avoidance-and-escape motivation; the module-function sentence.
+- QC round 1 (advisor, item-10 milestone) HOLD, repairs applied: "What the research says" replaced with "A proposed account" using the advisor's wording (model stays attributed as proposed; phobia-clustering and activation-before-conscious-analysis overclaims removed); blockquote locator now "abstract"; Graded-exposure clause re-derived from that page's own body (ordered steps, no unlearning mechanism claim); Judgment-adds-the-harm clause grounded in that page's Enchiridion 5 doctrine; Courage clause reframed as the compendium's virtue-focused treatment; ERP clause descriptive of the clinical procedure.
+- Validator: FAIL on first pass was an unresolved BE028 wikilink (title uses em-dashes, not colon) — fixed by matching the exact principle title.
+- Saturation: fast-track skip; existing Related lines preserved plus two grounded additions. No reciprocal proposed.
