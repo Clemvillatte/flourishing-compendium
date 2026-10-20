@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 31** — Cultivate understanding (synesis)
 
-Synesis is the capacity to judge correctly in practical matters, particularly in situations that call for deliberation. It is the ability to see what follows from what, to recognise when a conclusion follows from premises. Practise the skill of following arguments to their conclusions.
+Aristotle defines understanding as judging rather than commanding. It is "neither about things that are always and are unchangeable, nor about any and every one of the things that come into being, but about things which may become subjects of questioning and deliberation" ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). "Practical wisdom issues commands... but understanding only judges" — and what it judges is "what some one else says about matters with which practical wisdom is concerned," judging it soundly ([NE VI.10](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)). The exercise below practices that judging.
 
-(NE VI.10.)
+> Practical wisdom issues commands, since its end is what ought to be done or not to be done; but understanding only judges.
+>
+> Aristotle, Nicomachean Ethics VI.10, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).
 
-**Plain words** Synesis is the knack of judging well in practical matters: seeing what follows from what, and catching when a conclusion doesn't follow. It's a skill. You build it by following arguments all the way to the end, instead of stopping where it feels comfortable.
+> For understanding is neither about things that are always and are unchangeable, nor about any and every one of the things that come into being, but about things which may become subjects of questioning and deliberation.
+>
+> Aristotle, Nicomachean Ethics VI.10, continued, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).
 
-*For example:* Hearing "we've always done it this way, so it works" and asking what actually follows from that is the skill. Nodding along isn't.
+(NE VI.10; Ross translation.)
+
+### Plain words
+
+On Aristotle's definition, this one is a judge, not a commander: it sizes up what someone says about a practical matter — the doctor's advice, the builder's plan, the official's reasoning — and says whether it holds. For an exercise, take one such claim you heard this week and write down, in a sentence, what would have to be true for it to be sound.
+
+For example: hearing "we've always done it this way, so it works" and judging what would have to be true for that to follow. The example is invented; the act it names, judging soundly what someone says, is the definition's.
 
 ## Stories
 
