@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 6** — Creativity is the ultimate principle
 
-The universe is not a machine replaying its script; novelty is real: genuinely new things emerge. Your life can produce genuine novelty: new capacities, new relations, new value.
+Whitehead's Process and Reality opens its scheme with a category it calls ultimate:
 
-(Whitehead, Process and Reality, 1929.)
+> "'Creativity' is the universal of universals characterizing ultimate matter of fact. It is that ultimate principle by which the many, which are the universe disjunctively, become the one actual occasion, which is the universe conjunctively. It lies in the nature of things that the many enter into complex unity. 'Creativity' is the principle of novelty." (Whitehead, Process and Reality, 1929, Part I, Ch. II, [open PDF edition](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf), pp. 31-32)
 
-**Plain words** The universe isn't a machine replaying its script — novelty is real: genuinely new things emerge. Your life can produce genuine novelty: new capacities, new relations, new value. You're not a rerun; the next episode genuinely hasn't been written.
+The chapter states the formula and names what it replaces:
 
-*For example:* Nobody had the smartphone, then somebody did — and your grandmother's group chat is proof the universe invents.
+> "The many become one, and are increased by one." (Part I, Ch. II, p. 32)
+
+> "Thus the 'production of novel togetherness' is the ultimate notion embodied in the term 'concrescence.'" (p. 32)
+
+> "This Category of the Ultimate replaces Aristotle's category of 'primary substance'." (p. 32)
+
+On this scheme, novelty is not an occasional interruption of an otherwise repeating world; the production of it is what Whitehead says reality most fundamentally is.
+
+(Whitehead, Process and Reality, Part I, Ch. II.)
+
+**Plain words** Whitehead's formula is compact: the many become one, and are increased by one. Each new thing gathers what already exists into a unity that did not exist before, and the gathering itself is a new thing among the others. The compendium's application to a life follows the formula's shape: new capacities, new relations and new value are arrivals of this kind, not rearrangements. What the scheme does not promise is that any particular novelty will be valuable; it says novelty is real, not that it is good.
+
+*For example:* Imagine a practice, a group or a work that does not yet exist in your situation. You could ask what already-available elements it would gather, treating the new thing as the togetherness of them rather than as something from nothing.
+
+## Sources
+
+- [Whitehead, Process and Reality, open PDF edition](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf) — Part I, Ch. II, The Category of the Ultimate
 
 ## Psychology parallels
 
