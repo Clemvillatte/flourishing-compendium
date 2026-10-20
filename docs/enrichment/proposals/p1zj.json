@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 24,
+ "revision": 25,
  "records": [
   {
    "action": "reciprocal",
@@ -308,6 +308,20 @@
    "into": "Simplicity",
    "link": "AT061",
    "why": "listed for comparison with the principle's design-over-interruption reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Neurodiversity paradigm",
+   "link": "AT074",
+   "why": "listed for comparison with the principle's variation-not-deficit reading",
+   "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Neurodiversity",
+   "link": "AT074",
+   "why": "listed for comparison with the principle's variation-not-deficit reading",
    "notes": "target page lead reviewed this session; full body not read; relationship grounded in the adjacent principle's opened source"
   }
  ]

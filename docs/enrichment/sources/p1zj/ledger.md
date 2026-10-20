@@ -198,3 +198,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "designed to capture attention" design-intent claim and the unsourced "90 times a day" figure removed; notification-as-forced-switch reading labelled as the compendium's application of the task-switching evidence. Unresolved (removed from page, recorded here): Altmann & Trafton 2002 / Monk et al. 2008 notification-cost parallels and Leroy & Glomb 2018 (none opened).
 - Plain words: replicate fixed; example relabelled as imagined case.
 - Proposals: reciprocals into Right speech, Environmental design, Simplicity (leads read this session; full bodies not read).
+
+## AT074 — Recognise neurodivergent attention: different patterns, not deficits
+- Evidence: Happé & Frith 2006, J Autism Dev Disord 36(1) 5-25, abstract via pubmed.ncbi.nlm.nih.gov/16450045, fetched this session — three sentences verified verbatim (weak-coherence definition; deficit reframed as possible local-processing superiority and bias-not-deficit; 50-study review result). Brown 2013 (Psychology Today, opened earlier this session for AT032) — the favored-activities focus quote, verified verbatim.
+- Scope: "gifts/strengths" value claim labelled as the compendium's application (the studies establish pattern variation, not value); Singer 1998 / Kapp et al. 2013 citations dropped from the neurodiversity-paradigm parallel (unopened; wikilink kept, target page referenced).
+- Plain words: replicate fixed; example relabelled as imagined case.
+- Proposals: reciprocals into Neurodiversity paradigm, Neurodiversity, and ADHD: interest-based attention (ADHD lead read this session; the other two to be read before save).
