@@ -731,3 +731,13 @@ convention).
 - No In-the-compendium block (fast-track bar; Field links preserved).
 - Saturation: fast-track exemption; no reciprocal proposed.
 - QC: validator ok at fast-track profile. ADVISOR QC due (10th item of session) — running next.
+
+### Milestone QC correction round (advisor, 10th-item cadence, applied same day)
+- Advisor QC: FAIL with bounded repairs. All applied:
+  - "later called affect valuation theory" naming history removed (not established by the opened sources); opening now states the AVT distinction directly; the inherited seed line kept (its content is supported by the opened sources).
+  - Actual/ideal definition now uses the chapter's own state/trait wording ("immediate response to an event or an aggregate of responses over time"; "goal or desired state").
+  - Asian American placement RESTORED in both cultural comparisons (the first draft had compressed the low-arousal comparison into an American-vs-Chinese split, losing AA's position); depression result kept explicitly correlational and scoped to those studies.
+  - Temperament comparison rewritten to the chapter's variance statement (cultural values > variance in ideal than actual; temperamental factors > variance in actual than ideal).
+  - Behavioral sentence direction corrected ("rated physicians promoting energetic lifestyles more positively"); "founding"/"best-known" removed.
+  - Blockquote now reproduces the source sentence directly with its internal double quotes (no enclosing quotation marks); verification recorded as quotation-mark normalization; locators added (2006 abstract; chapter pp. 121-122); the chapter's publication year dropped from the citation (filename alone does not establish it).
+- Revalidated against the pre-enrichment baseline c2a3ee47: ok, 0 failed.
