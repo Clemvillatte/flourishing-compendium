@@ -239,10 +239,13 @@ source; anything not opened is recorded as inherited and unverified.
   Appamadavagga verses 21-23 (Buddharakkhita, accesstoinsight dhp.02). Note:
   the seed's "Dhammapada 21-23" is chapter 2 (Heedfulness), not chapter 1;
   the Dhammapada 21 blockquote verified verbatim against the fetched page.
-  DN 16 final exhortation verified verbatim in the opened Vajira/Story text
-  ("So, bhikkhus, I exhort you: All compounded things are subject to vanish.
-  Strive with earnestness."); the seed's "strive on with diligence and care"
-  wording is a different translation's rendering, replaced by the opened one.
+  CORRECTION (item-15 QC): the passage first recorded here was the
+  three-months-hence announcement (DN 16 section 63), not the deathbed words.
+  The actual final exhortation at the deathbed, verified verbatim in the same
+  opened Vajira/Story text, reads: "Behold now, bhikkhus, I exhort you: All
+  compounded things are subject to vanish. Strive with earnestness!" followed
+  by "This was the last word of the Tathagata." The B017 page body paraphrases
+  this wording and needed no change; only this ledger record is corrected.
 - Seed's "What you do not attend to, you lose" removed as unsupported in the
   opened texts; replaced with the compendium's labelled application grounded
   in "compounded things are subject to vanish". Garden example kept in
@@ -338,8 +341,8 @@ source; anything not opened is recorded as inherited and unverified.
   blockquote (three contiguous sentences of the objectification sequence)
   verified verbatim; MN 20 scrutiny instruction verified verbatim in the
   fetched text; Dhp 212 verified verbatim.
-- Thanissaro renders papanna as "objectification" in MN 18; the page's
-  papanca claim is grounded in that rendering and the seed's Pali term is
+- Thanissaro renders papañca as "objectification" in MN 18; the page's
+  papañca claim is grounded in that rendering and the seed's Pali term is
   retained in the Sources line. Seed's "The monster in the basement is almost
   always a coat rack" and "Fear examined becomes information" are the
   compendium's gloss; replaced with the labelled split-into-present-and-built
@@ -373,3 +376,22 @@ source; anything not opened is recorded as inherited and unverified.
   label ("Curiosity as a character strength predicting well-being") contains
   an unopened empirical claim in a protected label. Content preserved exactly;
   routed to the supervisor for evidence disposition.
+
+### B092 — Investigate with curiosity (dhammavicaya) (2026-10-20)
+- Opened: SN 46.51 Ahara Sutta (Thanissaro, accesstoinsight). Blockquote
+  verified verbatim against the fetched page. PROCESS NOTE: this ledger entry
+  is appended late because the original append was &&-chained to a validator
+  FAIL (the wikilink-label incident below) and never ran; the done marker was
+  pushed in the same session. Lesson already recorded: separate the state
+  update from validation outcomes, validate before done.
+- Wikilink incident: my Kashdan link-label trim tripped the validator's
+  wikilink-preservation guard; the original label [[Curiosity|Curiosity as a
+  character strength predicting well-being]] was restored exactly and the
+  page re-validated. The label's embedded empirical claim is unopened and
+  now flagged to the supervisor (see item-15 QC record).
+- Item-15 QC repairs: blockquote reduced to the fully contiguous opening
+  sentence; the factor-vs-talent and question-vs-verdict framing removed
+  (source-scope overreach); the application and example de-asserted per the
+  advisor's exact replacements.
+- Saturation: no new reciprocals; Curiosity and Epistemic curiosity are
+  already the linked targets.
