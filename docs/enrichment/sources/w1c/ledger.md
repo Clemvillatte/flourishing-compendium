@@ -441,3 +441,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Practices-list excerpt: "externalising the problem," quoted with substituted comma replaced by unquoted prose mention (the source has a colon there); remaining two items quoted verbatim.
 - Slogan attribution to the overview page retained per advisor confirmation (Carey-and-Russell attribution suggestion withdrawn by advisor).
 - Validated vs pre-enrichment baseline; build 5,720 ok.
+
+### Milestone QC PASS (five-item batch, 2026-10-20, worker-p1f-9d3f7c2b)
+- Round 4 advisor verdict: PASS for the scoped five-item w1c milestone (final state 16d8c2fd): Environmental psychology, Friendship, Intergroup contact, Intolerance of uncertainty, Narrative therapy.
+- Evidence: Bratman 2015 abstract verified against an unprompted raw fetch of the PNAS page (all quoted spans exact substrings); Gifford-Steg-Reser 2011 definition/scope contiguity verified against the downloaded PDF; Aristotle translator name removed (edition metadata only); Pettigrew-Tropp 2008 "appears" qualification and mediator grouping preserved; Dulwich overview grounding with verbatim practices list.
+- All five pages validated vs their pre-enrichment baselines under the fast-track profile; build 5,720 ok.
+- Still pending, not blocking w1c: p1f closure re-review; MO011 proposal application (supervisor).
