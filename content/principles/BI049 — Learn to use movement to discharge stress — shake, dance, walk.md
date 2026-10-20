@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 49** — Learn to use movement to discharge stress: shake, dance, walk
 
-Stress activates the body for action (fight or flight). Completing the stress cycle — discharging the activation through movement (shaking, dancing, walking, running) — helps the body return to baseline.
+The stress response mobilises the body for action. Nagoski and Nagoski's practical framework treats that mobilisation as something to complete rather than merely stop: the stress cycle closes when the activation is discharged, and physical activity is their first strategy, with literally any movement of the body counting, from a walk to a dance. They separate the discharge from problem-solving: the situation can stay exactly as it was while the body returns to baseline.
 
-**Plain words** Stress charges the body for action — the fight-or-flight fuel needs burning off, or it sits in the system as tension. Shake, dance, walk, run: complete the cycle. The animal runs it off; humans schedule a meeting instead.
+> Anyone who says “Crying doesn’t solve anything” doesn’t know the difference between dealing with the stress and dealing with the situation that causes the stress. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
 
-*For example:* The dog that shakes after the vet and is fine — the same discharge works for the human after the performance review. The ten-minute walk after bad news isn't avoidance; it's completion.
+> You may not have changed the situation that caused the stress, but you completed the cycle. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
+
+The completion is checkable in the body rather than in circumstances:
+
+> You can notice that something in your body has changed, shifted in the direction of peace. (Nagoski and Nagoski, Burnout, [publisher excerpt, 2019](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout))
+
+**Plain words**
+Stress puts fuel in the body, and the fuel is for running or fighting. If the difficult meeting replaces the run, the fuel sits in the system as tension. A brisk walk after the hard conversation gives the body the action it geared up for, and you can feel the shift: tension dropping, breath settling. That felt shift, not the problem being solved, is what completing the cycle means.
+
+**For example**
+After a performance review that went badly, take the stairs instead of the lift, or walk the twenty minutes home. The review is unchanged; the body no longer is.
+
+## Sources
+
+- [Nagoski and Nagoski, Burnout (2019), publisher excerpt "Complete the stress cycle to stop feeling emotionally drained" (Penguin, March 14, 2019)](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout) — the completion framework, the movement strategy and the subjective-relief passage quoted above
+
 ## Psychology parallels
 
 - **[[Stress cycle completion (Nagorski, Sapolsky)|Stress cycle completion (Nagorski, Sapolsky)]]**, completing the stress response through movement helps the body recover (Nagorski, 2019; Sapolsky, 2004)
