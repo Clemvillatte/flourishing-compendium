@@ -22,9 +22,10 @@
   "Genuine doubt",
   "Gestalt perception",
   "Granovetter",
-  "Grief's oscillation model"
+  "Grief's oscillation model",
+  "Grit"
  ],
- "in_progress": "Festinger",
+ "in_progress": null,
  "flagged": {
   "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request",
   "Generative model theory": "namespace near-duplicate of Predictive processing; supervisor disposition pending (see concept-namespace-audit.md); advisor post-repair re-review pending",
@@ -32,6 +33,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T16:46:04+00:00",
+ "updated": "2026-10-20T16:46:56+00:00",
  "band_done": false
 }
