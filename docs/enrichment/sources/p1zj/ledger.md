@@ -9,3 +9,7 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Limitations: Gross model, reappraisal definition only; Lieberman study labeled faces (others' emotions), not bodily states — labelled adjacent. No claim about what a felt state "is".
 - Proposals: 4 reciprocals (Affect labeling, Affect as information, Appraisal theory, Emotional granularity), why = listed-for-comparison per band precedent; all four concept pages read before proposing.
 - QC disposition: round-2 advisor acceptance requested (see below).
+
+### AF002 QC disposition
+- Round 2 FAIL (advisor): Gross definition does not establish "not the raw affect"; Lieberman paragraph generalized from face-labeling to "naming an affect"; runner comparison asserted physiological equivalence. Repairs applied verbatim from advisor replacement: body reduced to compendium-exercise framing + Gross blockquote; Lieberman paragraph removed from page (record kept here); example replaced with imagined rehearsal-comparison case.
+- Round 3 (advisor replacement accepted as the correct text; acceptance to be confirmed at next advisor milestone): Gross quote remains the sole page quote, verified verbatim vs opened Wiley abstract. Sources section trimmed to the single cited source.
