@@ -395,3 +395,19 @@ source; anything not opened is recorded as inherited and unverified.
   advisor's exact replacements.
 - Saturation: no new reciprocals; Curiosity and Epistemic curiosity are
   already the linked targets.
+
+### B113 — Be grateful to everyone (lojong) (2026-10-20)
+- Opened: Tricycle's 59 lojong slogans page (slogan 13 "Be grateful to
+  everyone" verified verbatim in the fetched page, in Chekawa's Seven Points
+  numbering) and Shantideva's Guide chapter 6 (Batchelor translation PDF at
+  abuddhistlibrary, opened and text-extracted; verses 107-111 verified
+  verbatim in the extracted text). SOURCE CORRECTION: the seed's "Shantideva
+  8" citation is wrong; the enemy-as-cause-of-patience passage is in chapter 6
+  (the patience chapter), verses 107-111, and the page now cites it correctly.
+- Seed's "free coach / free massage" staging and the outcome-asserting client
+  example rewritten per the standing QC standards (gratitude for the lesson
+  labelled, not the behavior; rates still go up kept as imagined). Affleck/
+  Tennen claim tail trimmed to a bare attribution; Tedeschi/Calhoun, Amor fati
+  and Daodejing 27 inherited entries left as found.
+- Saturation: no new reciprocals; Benefit finding and Post-traumatic growth
+  are already the linked targets.
