@@ -22,7 +22,8 @@
   "P108",
   "P109",
   "P110",
-  "P122"
+  "P122",
+  "P124"
  ],
  "in_progress": null,
  "flagged": {
@@ -37,6 +38,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:53:51+00:00",
+ "updated": "2026-10-20T03:54:21+00:00",
  "band_done": false
 }

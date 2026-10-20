@@ -420,3 +420,22 @@
   'Mindful activity studies' link proved unresolved); Layman Pang
   attribution reduced to bare wikilink (unopened). Validator run before
   done; first run failed on the unresolved link, fixed, re-validated ok.
+
+### P124 — Practice both-and where you can (2026-10-20, worker-p1o-6ae3d782)
+- Opened: James, A Pluralistic Universe (1909), Gutenberg #11984,
+  downloaded and grepped locally. Quotes verbatim with lecture locators
+  (verified from the TOC: Lecture II 'Monistic Idealism', Lecture VII
+  'The Continuity of Experience'): conjunctions/prepositions/adverbs;
+  'The same things disjoined in one respect appear as conjoined in
+  another'; the Athenian boy 'both tall and short (tall namely in
+  respect of a child, short in respect of a man)'; 'naming the
+  disjunction doesn't debar us from also naming the conjunction';
+  'conjunctions between them are just as immediately given as
+  disjunctions are'.
+- Seed statement + locator removed (precedent; Bernstein 1983 not
+  openable - its 'The via media' attribution reduced to bare wikilink).
+  'Most either/or questions were written by someone who couldn't imagine
+  a both' kept in Plain words (re-derived framing); For example kept on
+  the seed's stable-job/pottery-studio scenario, reframed as the both-and
+  draft with respects named. Peng and Nisbett 1999 tail reduced to bare
+  wikilink (unopened). Validator ok before done.
