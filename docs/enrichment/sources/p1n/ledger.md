@@ -208,3 +208,40 @@ source; anything not opened is recorded as inherited and unverified.
   the record link added.
 - Saturation: cited by Respect, Conditional regard, Alterity, Attachment
   research on autonomy-granting. Validator: ok vs 71fd7049.
+
+### D160 — Be patient with your own maturation (2026-10-20)
+- Opened: Legge DDJ 41 (fetched fresh). Blockquote = "A vessel great" verse
+  excerpt verbatim (closing speech quote removed as an excerpt marker).
+  Inline fragments: "seems light to lack"; "seems drawing back"; "like a
+  rugged track"; "earnestly carry it into practice"; "laugh greatly at it";
+  "If it were not (thus) laughed at..."; "is skilful at imparting...".
+- Unsupported "rule, not the exception" statistical claim in the old example
+  removed. Advisor QC not due (item 16). Validator: ok.
+
+### D181 — Don't grieve over the past or chase the future (2026-10-20)
+- Opened: Zhuangzi Legge ETH PDF (madman of Chu passage) + Legge DDJ 64
+  (fetched fresh). Blockquote = "The future is not to be waited for; the past
+  is not to be sought again!" verbatim. Inline fragments: DDJ 64 hold/lose
+  passage; "Give over! give over approaching men with the lessons of your
+  virtue!".
+- LOCATOR CORRECTION: seed said "Zhuangzi 20"; the madman-of-Chu passage is
+  in the chapter "Man in the World, Associated with other Men" (Legge Book
+  IV; standard numbering Zhuangzi 4), verified by chapter-title position in
+  the opened extract (preceded by the mechanic Shi oak-tree, section 5 of
+  the same chapter). Cited as Zhuangzi 4.
+- Advisor QC not due (item 17). Validator: ok.
+
+### D192 — Die well by having lived aligned (2026-10-20)
+- Opened: Legge DDJ 33 and 50 (fetched fresh) + Zhuangzi Legge ETH PDF ch. 6
+  (True men of old passage). Blockquote = DDJ 33 closing lines verbatim.
+  Inline fragments: "no place of death" (DDJ 50); "The True men of old knew
+  nothing of the love of life or of the hatred of death."; "accepted (their
+  life) and rejoiced in it; they forgot (all fear of death), and returned
+  (to their state before life)".
+- Advisor QC not due (item 18). Validator: ok.
+
+## Daoist block complete (18/18 D items in p1n)
+D024 D027 D029 D051 D076 D083 D101 D104 D108 D123 D124 D126 D127 D138 D140
+D160 D181 D192 all done, validated, pushed. Advisor QC at items 1, 5, 10, 15
+(D024, D076, D123, D140) with repairs accepted. Remaining: 5 B (Buddhist)
++ 7 P (Pragmatist) items.
