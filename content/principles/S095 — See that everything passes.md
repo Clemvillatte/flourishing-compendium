@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 217** — See that everything passes
 
-Whatever you are experiencing, it will change. The pleasant will pass; the painful will pass. The Stoic holds both lightly. Do not cling to the pleasant; do not flee the painful. Both are visitors.
+Marcus states the fact three ways in one sentence:
 
-(Med. II.11, II.14, III.1, III.10, IV.1, IV.35, V.23, VI.15, VII.10, VII.34, IX.21, IX.28, IX.29, IX.33, X.7, X.11, XI.1, XI.21; Seneca, Letters 24, 71, 91, 99, 107.)
+> "Everything material soon disappears in the substance of the whole; and everything formal [causal] is very soon taken back into the universal reason; and the memory of everything is very soon overwhelmed in time." (Marcus Aurelius, Meditations, Book VII, section 10, [George Long translation](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-**Plain words** Whatever you're feeling will change. The pleasant will pass and so will the painful. Hold both lightly. Don't cling to the nice and don't flee the nasty. Both are visitors.
+The shortest form of the reminder is Book IV's: "Everything is only for a day, both that which remembers and that which is remembered" (Meditations IV.35). The image in Book VII is of heaps of sand: "as the heaps of sand piled on one another hide the former sands; so in life the events which go before are soon covered by those which come after" (Meditations VII.34). In Book X he calls this change a necessity of the parts, not an evil (Meditations X.7), and turns it into a practice: "Acquire the contemplative way of seeing how all things change into one another" (Meditations X.11).
+
+(Med. IV.35, VII.10, VII.34, X.7, X.11.)
+
+**Plain words**
+As a practical exercise, name what you are currently trying to keep and what you are currently trying to get past. Marcus's claim is that both lists are made of changing things; the second list will shorten on its own.
 
 *For example:* In the middle of a bad week you remind yourself that you've had bad weeks before and they ended.
+
+## Sources
+
+- [Marcus Aurelius, Meditations (George Long translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — Book IV, section 35; Book VII, sections 10 and 34; Book X, sections 7 and 11
 
 ## Psychology parallels
 
