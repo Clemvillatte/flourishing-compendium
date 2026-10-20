@@ -21,11 +21,12 @@
   "E503",
   "E107",
   "E099",
-  "E100"
+  "E100",
+  "E074"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:07:14+00:00"
+ "updated": "2026-10-20T08:07:55+00:00"
 }

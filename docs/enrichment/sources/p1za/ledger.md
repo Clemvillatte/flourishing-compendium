@@ -84,3 +84,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## E100
 - Being and Time M&R OCR (§2, H.6, 'The Being of entities is not itself an entity'; §3 H.9 'Being is always the Being of an entity') grep-verified; SEP Heidegger entry (2025) endnote 5 on 'ontological difference' fetched and read. Section numbers §2/§3 from the principle's own citation and the Introduction's structure, not a printed-heading check.
 - Limits: Basic Problems of Phenomenology (GA24) where the term originates not opened (SEP's attribution relayed). Example hypothetical.
+
+## E074
+- Beauvoir, Ethics of Ambiguity, Frechtman trans. (Citadel 1949) via marxists.org Part II page: 9 quotations grep-verified. The inherited citation 'Part II, ch. 4' does not match this edition's structure (Part II is a single chapter 'Personal Freedom and Others'); body cites 'Part II'. Flag for owner/supervisor: the principle's text 'avoid the passionate man' somewhat flattens Beauvoir, who distinguishes generous from maniacal passions; body states this.
+- Limits: example hypothetical.

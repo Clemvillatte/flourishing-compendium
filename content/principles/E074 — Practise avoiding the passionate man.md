@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 466** — Practise avoiding the passionate man
 
-Recognise the temptation of passion — the person who subordinates everything to a single object of desire. The passionate man, like the serious man, denies ambiguity by fixating on one thing. Do not let your passions consume you to the exclusion of all else.
+In Part II of The Ethics of Ambiguity, Beauvoir sets the passionate man against the adventurer: "What characterizes the passionate man is that he sets up the object as an absolute, not, like the serious man, as a thing detached from himself, but as a thing disclosed by his subjectivity." In him "it is subjectivity which fails to fulfill itself genuinely" (Beauvoir, 1947, The Ethics of Ambiguity, Part II, trans. Bernard Frechtman, [marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm)).
 
-(de Beauvoir, 1947/2018, The Ethics of Ambiguity, Part II, ch. 4.)
+Passion as such is not the target. She credits it: "It helps populate the world with desirable objects, with exciting meanings." The trouble arrives in "the passions which we shall call maniacal, to distinguish them from the generous passions". Such a man "causes certain rare treasures to appear in the world, but he also depopulates it." Toward others: "Not intending his freedom for men, the passionate man does not recognize them as freedoms either. He will not hesitate to treat them as things."
 
-**Plain words** The passionate man: everything subordinated to a single object of desire — like the serious man, denying ambiguity by fixating on one thing. Don't let your passions consume you to the exclusion of all else. Passion is a fire; a life is not fuel.
+She also leaves a way out: "a conversion can start within passion itself". The passionate man must accept his distance from the object, which "is the condition within which the object is disclosed". "Passion is converted to genuine freedom only if one destines his existence to other existences through the being [...] at which he aims".
 
-*For example:* The founder whose passion burns brilliantly — and takes the marriage, the health, and the friendships as kindling. The passion is real; the exclusion of everything else is the pathology the tradition is naming.
+**Plain words**
+Love, ambition and devotion to a cause give life its colour, and Beauvoir does not ask you to give them up. The danger comes when one thing becomes the whole world and everyone else turns into a means or an obstacle. Ask whether your passion leaves the people around you free.
+
+**For example**
+A founder works through every weekend and cancels on friends again and again. Afterwards he notices that he no longer asks how anyone else is.
+
+## Sources
+
+- [Beauvoir, The Ethics of Ambiguity, trans. Bernard Frechtman (Citadel Press, 1949), Part II "Personal Freedom and Others," marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm): the passage on the passionate man; opened and text-checked
+
 ## Psychology parallels
 
 - **[[Obsessive passion|Obsessive passion]]** (Vallerand et al., 2003)
