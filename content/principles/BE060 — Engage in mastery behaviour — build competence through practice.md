@@ -12,21 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 60** — Engage in mastery behaviour: build competence through practice
 
-Two lines of work ground this page. Bandura's treatment studies first: after his mastery modeling treatment eliminated long-standing phobias within hours, he recorded what the participants took away from having mastered something hard:
+In a retrospective account of mastery-modeling treatment for phobias, Bandura described participants who reported broader confidence after treatment. ([Bandura, 1989](https://garfield.library.upenn.edu/classics1989/A1989U419500001.pdf))
 
-> "Having rapidly mastered the phobic nemesis that had impaired their lives for years, the participants reported a heightened sense of efficacy that they could surmount other problems. They were acting on their new self-percepts of efficacy and experiencing self-directed successes. The mastery modeling treatment was instilling and strengthening people's sense of personal efficacy." (Bandura, "Exercise of Control Through Self-Belief", 1989, [PDF](https://garfield.library.upenn.edu/classics1989/A1989U419500001.pdf))
+> "Having rapidly mastered the phobic nemesis that had impaired their lives for years, the participants reported a heightened sense of efficacy that they could surmount other problems."
+>
+> — Bandura, "Exercise of Control Through Self-Belief," passage beginning "Having rapidly mastered...". ([Commentary](https://garfield.library.upenn.edu/classics1989/A1989U419500001.pdf))
 
-The same account reports "striking changes in other domains of functioning quite unrelated to the treated phobic dysfunction" ([Bandura, 1989, PDF](https://garfield.library.upenn.edu/classics1989/A1989U419500001.pdf)) - the sense of agency moved beyond the skill that built it.
+Ericsson and colleagues reported an association between assessed practice amounts and differences in expert performance. ([Ericsson et al., 1993](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf))
 
-The second line is Ericsson's research on expert performers:
-
-> "In most domains of expertise, individuals begin in their childhood a regimen of effortful activities (deliberate practice) designed to optimize improvement. Individual differences, even among elite performers, are closely related to assessed amounts of deliberate practice." (Ericsson, Krampe & Tesch-Römer, "The Role of Deliberate Practice in the Acquisition of Expert Performance", Psychological Review 100(3), 363-406, 1993, abstract, [PDF](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf))
+> "Individual differences, even among elite performers, are closely related to assessed amounts of deliberate practice."
+>
+> — Ericsson, Krampe & Tesch-Römer (1993), abstract. ([Article](https://gwern.net/doc/psychology/writing/1993-ericsson.pdf))
 
 **Plain words**
-Two findings, one on belief and one on skill. Mastering a hard thing raises your sense that you can handle other problems; that is Bandura's evidence. Differences in skill track amounts of structured, effortful practice; that is Ericsson's. The skill mostly stays in its own domain. What travels is the belief that you can learn hard things.
+
+Work on a specific skill and look for identifiable progress. Use that progress when deciding what to attempt next, while checking whether confidence about a different task is warranted.
 
 **For example**
-The person who learns to bake bread and feels slightly braver at work. The bread skill stays in the kitchen. What moved was the belief about learning, which is the part Bandura watched travel.
+
+Suppose a beginner learning to bake bread chooses shaping as the skill to practise. After each attempt, they note what went well and what they want to change next time.
 
 ## Sources
 
