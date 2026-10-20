@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 79** — Prefer democracy, and participate
 
-Democracy, Spinoza writes, is the most natural form of commonwealth, because it approaches freedom and because power flows with the least distortion. The practical principle beneath the politics: arrangements that distribute voice distribute also dignity and error-correction, and the person who participates builds the muscle of judgment. Practically, wherever in your life you have a say (family, work, community), use it; the skill of collective self-rule is trained only by ruling.
+Spinoza's case for democracy rests on two claims he makes in the Theologico-Political Treatise. The first is about error: in a democracy "it is almost impossible that the majority of a people, especially if it be a large one, should agree in an irrational design." ([ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992)) A large body of deciders holds many independent wills, and folly has to get past all of them. The second is about standing: "In it no one transfers his natural right so absolutely that he has no further voice in affairs, he only hands it over to the majority of a society, whereof he is a unit." ([ch. 16](https://www.gutenberg.org/ebooks/992)) Hence his verdict:
 
-(Theological-Political Treatise, ch. 16; Political Treatise, ch. 11, the unfinished chapters.)
+> "I believe it to be of all forms of government the most natural, and the most consonant with individual liberty." ([Theologico-Political Treatise, ch. 16, Elwes translation](https://www.gutenberg.org/ebooks/992))
 
-**Plain words** Democracy is the most natural form of commonwealth: it approaches freedom, and power flows with the least distortion. The practical principle beneath the politics: arrangements that distribute voice distribute also the stability. Prefer them, and participate — voice you don't use is a share you donated.
+The practice follows from the standing. A voice you hold is only yours while you use it: skip the meetings and other hands spend it for you. Wherever you have a say, in a family, a workplace or a community, use it.
 
-*For example:* The strata committee that three people run because the other forty don't show — and the year the quiet ones turn up, and the building's decisions suddenly track the building's actual interests. The distribution of voice was always the distribution of outcomes.
+**Plain words** A group decision works like a jury, not a cockpit: no single person's mood steers it, and every course has to be argued for. The argument itself is the safeguard. Your share of the say shrinks to nothing if you never exercise it, so the habit of showing up is part of the principle, not a separate civic duty.
+
+*For example:* The strata committee that three people run because the other forty never show. The year the quiet ones turn up, the building's decisions start tracking the building's actual interests.
+
+(Theologico-Political Treatise, ch. 16, Elwes translation; the unfinished Political Treatise also treats democracy, ch. 11, not opened for this item.)
 ## Psychology parallels
 
 - **Civic participation and well-being**, the findings that participation predicts efficacy and life satisfaction (the civic-engagement literature)
