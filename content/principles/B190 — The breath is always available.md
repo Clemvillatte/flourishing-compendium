@@ -26,6 +26,10 @@ The compendium suggests noticing one ordinary in-breath and out-breath before re
 
 *For example:* Imagine being asked a question you did not expect. You notice one in-breath and one out-breath, then answer. The pause is brief and the answer is whatever it is; the exercise is the noticing.
 
+## Stories
+
+- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
+
 ## Psychology parallels
 
 - **[[Slow-paced breathing|Slow-paced breathing and vagal tone]]** (Balban et al., 2023; Zaccaro et al., 2018)

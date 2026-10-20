@@ -28,6 +28,10 @@ Choose something you care about sustaining. What would attending to it look like
 - [DN 16, Mahaparinibbana Sutta, Vajira and Story translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html) — the final exhortation
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.budd.html) — verses 21-23, the Heedfulness chapter
 
+## Stories
+
+- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
+
 ## Psychology parallels
 
 - **Conscientiousness** (Roberts et al., 2007)

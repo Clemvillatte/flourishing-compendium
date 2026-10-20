@@ -100,6 +100,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST071 — The Wind and the Flag]]
     - [[ST072 — Hirayama Photographs the Light]]
     - [[ST073 — The Danish Poet and the Umbrella]]
+    - [[ST342 — The Wild Boars Sit Still]]
   - [[ST-S02.04 — II.4 Working with the Mind]]
     - [[ST074 — The Five Hindrances as Thieves]]
     - [[ST075 — The Monkey Tied to the Post]]

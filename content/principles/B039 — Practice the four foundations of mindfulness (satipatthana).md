@@ -32,6 +32,10 @@ The 4pm slump run through the frame: body tired, feeling dull, mind foggy, patte
 
 - [MN 10 Satipatthana Sutta, trans. Thanissaro Bhikkhu (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html) — the four frames of reference
 
+## Stories
+
+- [[ST342 — The Wild Boars Sit Still|342. The Wild Boars Sit Still]]
+
 ## Psychology parallels
 
 - **[[MBCT|MBCT's four-domain structure]]**, body scan, feeling tone, and thought labeling organize clinical programs (Kuyken et al., 2016)
