@@ -142,7 +142,7 @@
    ]
   },
   "s1a-008": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D080: the blind men and the elephant (Udana 6.4) — partial truths mistaken for the whole",
    "history": [
     {
@@ -168,11 +168,16 @@
      "t": "2026-10-20T13:46:13+00:00",
      "to": "qc_pending",
      "note": "Independent advisor return applied; re-review requested"
+    },
+    {
+     "t": "2026-10-20T13:49:19+00:00",
+     "to": "ready",
+     "note": "Independent milestone reviewer READY; source quotes and limited D080 fit certified"
     }
    ]
   },
   "s1a-009": {
-   "status": "qc_pending",
+   "status": "returned",
    "angle": "D080: the marquis feeds a seabird as himself; generous human standards become lethal across different ways of life",
    "history": [
     {
@@ -188,6 +193,11 @@
      "t": "2026-10-20T13:46:13+00:00",
      "to": "qc_pending",
      "note": "Complete primary episode and Lai article raw-verified; independent review requested"
+    },
+    {
+     "t": "2026-10-20T13:49:19+00:00",
+     "to": "returned",
+     "note": "Milestone reviewer accepted substance; three redundant humanizer lines cut verbatim; final confirmation pending"
     }
    ]
   },
@@ -202,5 +212,5 @@
    ]
   }
  },
- "updated": "2026-10-20T13:48:40+00:00"
+ "updated": "2026-10-20T13:49:19+00:00"
 }
