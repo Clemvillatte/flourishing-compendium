@@ -351,3 +351,9 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Fast-track (degree 11). Opened source: Crocker, "The Costs of Seeking Self-Esteem", Journal of Social Issues 58(3), 2002, full text at docslib.org.
 - Contingencies definition and external-contingency hypothesis quoted verbatim from the opened text; longitudinal findings (appearance contingency costs) paraphrased from the article's abstract as reported there.
 - All original sections and wikilinks preserved byte-exact (Other formulations, Facets, parallels sections). Validation: fast-track PASS; build 5,720 ok.
+
+### Default mode network (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Brewer et al., PNAS 108(50), 2011, abstract page at pnas.org (https://www.pnas.org/doi/abs/10.1073/pnas.1112029108).
+- Mind-wandering/default-mode sentence and deactivation finding quoted verbatim from the opened abstract; "consistent with decreased mind-wandering" quoted verbatim; meditation types listed per the abstract. Rumination clause kept at the framing level of the original page (no specific study claim added).
+- Note: PMC3106137 was a wrong-ID fetch (breast-cancer article); discarded, no content used.
+- All original sections and wikilinks preserved byte-exact (Field, Default mode network account line, parallels sections). Added Related concepts ([[Rumination]], [[Mindfulness]], [[Meditation neurobiology theory Lazar]], all resolve). Validation: fast-track PASS; build 5,720 ok.
