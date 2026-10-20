@@ -180,6 +180,27 @@ scope error and restoration to the owner.
   authored source actually read. James/Aristotle parallels unverified.
 - Saturation: Habit and Second nature already cite B184.
 
+## B191: Practice the half-smile (2026-10-20)
+
+- Membership verified. Search "Thich Nhat Hanh half smile Peace Every Step
+  smiling", opened official institutional instructions:
+  https://plumvillage.org/mindfulness/mindfulness-practice .
+  Exact face/jaw/shoulder sentence quoted from Sitting Meditation.
+  Not attributed as verbatim speech by TNH or located in an unread book.
+  Peace Is Every Step locator superseded, not certified.
+- Search Many Smiles 2022, opened Nature publisher page (mainly references
+  accessible) and then the complete author abstract
+  https://pubmed.ncbi.nlm.nih.gov/36266452/ .
+  3,878/19 countries and differentiated task results supported by abstract;
+  no effect-size, clinical-treatment or long-term claim added.
+- Corrected inherited Coles2022 "meta-analysis": this is the preregistered
+  multicentre study. Removed unverified danger-signal/tiger mechanism
+  and automatic shoulder-relaxation outcome.
+- Example imagined; trying does not require improvement. Practice-kernel
+  link, original Facial feedback link, metadata and reflections preserved.
+  Merleau-Ponty parallel remains inherited, unverified.
+- Saturation: Facial feedback already cites B191; no duplicate proposal.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,

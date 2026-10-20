@@ -12,13 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 191** — Practice the half-smile
 
-A slight, genuine smile: lips relaxed upward — as you go through the day: the face informs the mind.
+Plum Village's sitting guidance places smiling within bodily awareness and relaxation. Before its suggestion of smiling to tension, it offers this instruction ([Plum Village](https://plumvillage.org/mindfulness/mindfulness-practice)):
 
-(Thích Nhất Hạnh, Peace Is Every Step.)
+> We allow the muscles in our face to relax, release any tension around the jaw and mouth, and gently relax our shoulders.
 
-**Plain words** A slight, genuine smile — lips relaxed upward — as you go through the day: the face informs the mind. It's not faking happiness; it's giving the nervous system the physical hint that the tiger has left the building.
+(The Art of Mindful Living, Sitting Meditation, [Plum Village](https://plumvillage.org/mindfulness/mindfulness-practice).)
 
-*For example:* The half-smile while stuck in traffic — absurd, yes — and the shoulders drop anyway. The face led; the mind followed.
+Facial-feedback research asks a separate question about expressions and experienced emotion. Coles and colleagues' preregistered study of 3,878 participants in 19 countries found effects on happiness from mimicking smiles and voluntarily moving facial muscles; findings from the pen-in-mouth task were less conclusive ([author abstract](https://pubmed.ncbi.nlm.nih.gov/36266452/)). Those tasks do not establish that this half-smile practice signals safety to the nervous system or guarantees calm.
+
+**Plain words** If you want to try it, let your face soften and allow a slight smile without straining. Notice how it feels rather than requiring a particular mood. If smiling feels forced or unwelcome, leave the exercise aside.
+
+*For example:* Imagine waiting for a delayed appointment and noticing that you are clenching your jaw. You try the exercise briefly, then decide whether to continue. You need not report feeling better to have tried it honestly.
+
+## Sources
+
+- [Plum Village, The Art of Mindful Living](https://plumvillage.org/mindfulness/mindfulness-practice): sitting instructions.
+- [Coles et al., A multi-lab test of the facial feedback hypothesis by the Many Smiles Collaboration, 2022, author abstract](https://pubmed.ncbi.nlm.nih.gov/36266452/).
 
 ## Practice kernels
 
@@ -26,7 +35,7 @@ A slight, genuine smile: lips relaxed upward — as you go through the day: the 
 
 ## Psychology parallels
 
-- **[[Facial feedback|Facial feedback]]**, expressions influence affect (evidence mixed; small effects) — phrase with care (Coles et al., 2022 meta-analysis)
+- **[[Facial feedback|Facial feedback]]** ([Coles et al., 2022, preregistered multicentre study](https://pubmed.ncbi.nlm.nih.gov/36266452/))
 
 ## Philosophy parallels
 
