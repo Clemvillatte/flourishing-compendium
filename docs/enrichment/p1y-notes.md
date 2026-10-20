@@ -72,3 +72,19 @@ review. No w1i content/state changed after release.
   establish a mechanism, predicted benefit or philosophical
   classification absent from the opened evidence.
 - Next: AF008 (manifest order).
+
+## Milestone record 3, 2026-10-20 (worker-p1y-6d4f2a91)
+
+- Item-24 milestone (five pages: AF008, AF016, AF023, AF028, AF033):
+  advisor QC over two repair rounds; final scoped check PASS. Round 1
+  blockers: unopened sources for AF016/AF033 (PubMed and SciSpace
+  fetches failed; resolved by opening the HBS-hosted published PDF for
+  AF016 and the UMich lab-hosted published PDF for AF033), uncited
+  source-derived Plain words claims (all five), the AF016 correction
+  notice (Figure 2 color legend inversion; non-substantive for the
+  page, recorded in the ledger), and quotation verification of the
+  AF016 robustness sentence (exact match confirmed). Lesson retained:
+  search-result text is not a successfully opened source; find an
+  author- or lab-hosted copy when record pages are bot-walled, and
+  check correction notices on opened papers.
+- 27 band items done, including 24 handled after takeover. Next: AF043.
