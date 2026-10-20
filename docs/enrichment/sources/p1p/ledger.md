@@ -422,3 +422,9 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - Dropped: "most violent words available" superlative, "Chan tradition treats..." (snippet-only claim), categorical self-reliance claims in plain words; example now labeled imagined.
 - Inherited items left untouched: Bandura/Rotter locus-of-control parallels (pre-existing, not opened this session).
 - Correction (same session): first write of B178 accidentally replaced the original front-matter, wikilinks and reflections block (validator FAIL); restored from commit 6e422445 and re-applied body edits preserving all original markup (Process versus outcome focus, Non-seeking, Desire links; B-S08 chapter; original tags). Validated ok against base 6e422445.
+
+### B180 — Turn mishaps into the path (lojong) (2026-10-20, worker-p1p-c23eecde)
+- State: seed → done.
+- Sources opened: https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/commentary-on-seven-points-mind-training (Tokme Zangpo commentary, tr. Adam Pearcey 2018) and https://www.tibetanbuddhistencyclopedia.com/en/wiki/Seven_steps_for_each_Immeasurable (Trungpa/Nalanda slogan commentaries).
+- Verbatim quotes: root text "When all the world is filled with evil, / Transform adversity into the path of enlightenment."; Trungpa "Whatever occurs in your life— environmental problems, political problems, or psychological problems—should be transformed into a part of your wakefulness, or bodhi."; inline Tokme Zangpo "transformed into the path of enlightenment through both intention and action".
+- Plain words re-derived (carry-into-journey framing, mishap-as-training); original highway-shoulder example kept; "Shantideva 6" locator replaced with Chekawa root-text locator (no BCA translation opened this session; BCA 6.88 remains only in the inherited parallels section).

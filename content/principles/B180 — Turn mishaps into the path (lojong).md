@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 180** — Turn mishaps into the path (lojong)
 
-When things go wrong: flat tire, insult, failure — that is the practice arriving: use every mishap as the object of practice. "Turn all mishaps into the path."
+The eleventh slogan of Chekawa's Seven-Point Mind Training gives the instruction its plainest form, and the Tibetan name for its whole group of slogans, lamkhyer, explains the mechanism: lam is path and khyer is carrying, so whatever happens gets carried into the journey. The root text and its commentaries agree that the transformation runs through intention and action rather than through the mishap changing. (Lojong slogans; Chekawa root text.)
 
-(Lojong slogans; Shantideva 6.)
+> "When all the world is filled with evil, / Transform adversity into the path of enlightenment." (Chekawa, root text, in Tokme Zangpo's commentary, tr. Adam Pearcey, 2018)
 
-**Plain words** When things go wrong — flat tire, insult, failure — that is the practice arriving. Turn all mishaps into the path. The curriculum isn't canceled on bad days; the bad days ARE the advanced module.
+Chögyam Trungpa's commentary on the Nalanda translation reads the slogan this way:
 
-*For example:* Stuck on the highway shoulder: fury for twenty minutes, then — the first genuinely quiet hour you've had in months. The tire did that.
+> "Whatever occurs in your life— environmental problems, political problems, or psychological problems—should be transformed into a part of your wakefulness, or bodhi." (Chögyam Trungpa, commentary on slogan 11)
+
+Tokme Zangpo's commentary fills in the method: when such forms of suffering arise, they "can be transformed into the path of enlightenment through both intention and action," with intention working through relative and ultimate bodhicitta, and the action side including tonglen, considering how many others face the same suffering and taking it on in their place.
+
+**Plain words**
+When the flat tire, the insult, or the failure arrives, the instruction is to carry it into the journey instead of standing at the roadside arguing with it. In practice you ask what the mishap can train: patience with the tire, humility with the insult, recovery with the failure. Being annoyed is allowed; the slogan asks for use, and the two can coexist.
+
+*For example:* Stuck on the highway shoulder: fury for twenty minutes, then the first genuinely quiet hour you've had in months. The tire did that.
+
+## Sources
+
+- [Lotsawa House: Gyalse Tokme Zangpo's Commentary on the Seven Points of Mind Training, tr. Adam Pearcey 2018](https://www.lotsawahouse.org/tibetan-masters/gyalse-thogme-zangpo/commentary-on-seven-points-mind-training) — point 3 root-text verses and the intention-and-action commentary
+- [Tibetan Buddhist Encyclopedia: lojong slogans with Chögyam Trungpa's commentary, Nalanda Translation Committee translation](https://www.tibetanbuddhistencyclopedia.com/en/wiki/Seven_steps_for_each_Immeasurable) — slogan 11, the lamkhyer explanation
 
 ## Psychology parallels
 

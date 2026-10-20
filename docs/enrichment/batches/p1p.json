@@ -22,9 +22,10 @@
   "B136",
   "B137",
   "B121",
-  "B161"
+  "B161",
+  "B180"
  ],
- "in_progress": "B180",
+ "in_progress": null,
  "flagged": {
   "B062": "Reopened for QC: QC round 2: spelling/attribution/extension-labelling repairs",
   "B064": "Reopened for QC: cross-band error: B064 is in p1s's manifest, not p1p's; my edit is live on origin; supervisor notified, content left for supervisor disposition per incident precedent",
@@ -38,6 +39,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 34,
- "updated": "2026-10-20T03:15:35+00:00",
+ "updated": "2026-10-20T03:16:05+00:00",
  "band_done": false
 }
