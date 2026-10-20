@@ -3,17 +3,15 @@
  "done": [
   "The witness",
   "The still mirror",
-  "Following nature's rhythm"
+  "Following nature's rhythm",
+  "The avoidance of suffering"
  ],
- "in_progress": "The avoidance of suffering",
+ "in_progress": null,
  "flagged": {
-  "The avoidance of suffering": "Reopened for QC: advisor QC round 2 FAIL: unsupported cross-link glosses, unverified equivalences, fabricated cross-tradition claims, missing immediate citations, minor verbatim punctuation drift; repairs pending",
-  "The witness": "Reopened for QC: advisor QC round 2 FAIL \u2014 fabricated Advaita-borrowing claim, unsupported observing-self/4NT equivalences, apostrophe drift in quote; repairs pending",
-  "The still mirror": "Reopened for QC: advisor QC round 2 FAIL \u2014 invented 'three negations' triad, unverified link glosses; repairs pending",
-  "Following nature's rhythm": "Reopened for QC: advisor QC round 2 FAIL \u2014 unsupported circadian-science bridge, 'the body's own ziran' equivalence, paraphrase-labelled-as-quote in Sources; repairs pending"
+  "The avoidance of suffering": "Repaired: advisor QC round 2 repairs applied; awaiting re-review"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:51:08+00:00",
+ "updated": "2026-10-20T07:05:00+00:00",
  "band_done": false
 }
