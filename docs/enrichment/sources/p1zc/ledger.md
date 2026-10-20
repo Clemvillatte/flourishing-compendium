@@ -159,3 +159,19 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   passages, quotations, locators, humanizer repairs and saturation checks pass; this is
   NOT independent certification of every inherited claim (inherited parallels and
   unopened locator references remain flagged in the per-item notes above).
+
+## SE025 — Cultivate self-compassion (item 7)
+- Source opened: Neff 2003, Self and Identity 2(2) 85-101, author-hosted PDF
+  (self-compassion.org) — downloaded and extracted with pdftotext; definition p. 85,
+  harsher-than-to-others sentence p. 87, needed-actions sentence p. 88, all verified
+  by substring check against the extraction (q1, q2 True; q3 matches except the PDF
+  ligature "difﬁcult" rendered as "difficult" and curly apostrophe rendered straight —
+  typographic normalizations, noted here).
+- Body rewritten: Neff's definition blockquote + friend-standard foothold (p. 87
+  sentence) + not-indulgence grounding (p. 88 sentence). Plain words re-derived
+  (was a replicate: re-listed the body's definition and components).
+- Inherited psychology parallels (MacBeth & Gumley r = -0.54; Neff & Vonk 2009) NOT
+  source-checked this item — flagged, not certified. Practice section and For example
+  kept (For example is concrete; the friend question matches the page's framing).
+- Saturation: 7 concept pages already cite SE025; "inner critic" hunt shows those
+  pages relate to SE017, not SE025; no additional links warranted. Validator ok.
