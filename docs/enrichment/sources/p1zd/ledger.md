@@ -139,3 +139,15 @@ PROTOCOL-PRINCIPLES items 6-7.
 - Sources opened: Lutz et al. 2008, Trends Cogn Sci 12:163-169, PMC2693206 (full text excerpts: abstract, Box 2, Table 1, evidence limits); Tang, Hölzel & Posner 2015, Nat Rev Neurosci 16:213-225 (abstract, PMID 25783612); Mrazek et al. 2013, Psychol Sci 24:776-781 (abstract, PMID 23538911).
 - Verbatim: FA/OM definitions; Box 2 "One aims to remain only in the monitoring state..."; "the initial use of FA training to calm the mind and reduce distractions"; "to gain a clear reflexive awareness of the usually implicit features of one's mental life"; "little is known about the neurophysiological processes involved in meditation"; "provide preliminary support"; Tang "more methodologically rigorous studies are required".
 - Added what the old page omitted: OM is typically learned after FA practice; evidence base is early. Old "without ... judgment" in the principle body replaced by Lutz's "non-reactive". Mrazek et al. studied a general 2-week mindfulness course, not OM specifically; bullet reworded. "Floodlight/laser" and "trains" metaphors removed.
+
+## AT054 — Train attention through deliberate practice
+- Sources opened (abstracts): Simons et al. 2016 PSPI 17:103-186 (27697851; conclusion sentence read on PubMed page); Melby-Lervåg & Hulme 2013 Dev Psychol 49:270-291 (22612437).
+- Verbatim as quoted. Principle's central claim (any sustained-focus-with-feedback activity trains attention) is not supported by what I opened; page says evidence is task-specific and that I found no study of instrument or reading practice on attention. Ericsson et al. 1993 not opened; Newport 2016 (popular book) removed from the bullet.
+
+## AT058 — Monitor and maintain attention
+- Source opened (abstract): Jha et al. 2010, Emotion 10:54-64 (PMID 20141302). Verbatim: "In the MT group, WMC decreased over time in those with low MT practice time, but increased in those with high practice time."; "degraded in the MC group".
+- Limits stated on page: small non-randomised military groups (31 and 17); working memory capacity is not identical to attention; no opened study shows decay rate after practice stops. Removed old "within weeks" decay claim and the Tang 2015/Goleman & Davidson 2017/Newport 2016/Ericsson 1993 attributions (not opened). Example imagined.
+
+## AT077 — Build attentional maintenance
+- Sources opened (abstracts): Jha, Izaguirre & Adler 2025, Curr Psychiatry Rep 27:393-407 (40456956); Roy & Subramanya 2025, J Ayurveda Integr Med 16:101057 (40043592).
+- Verbatim: "implementation factors such as daily practice, trainers' familiarity with the military, and course content influence the extent of benefits". The variation-selection-retention framing is the compendium's own; page says no opened study tests it. Overlaps AT058 by design; angles differ (dose vs fit/adaptation). Parallels bullets replaced (Ericsson, Newport, Tang, Goleman & Davidson not opened).
