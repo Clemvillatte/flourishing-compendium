@@ -12,21 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 428** — Practise shame as ontological
 
-Sartre locates shame in the structure of being-seen, not in a private verdict that something is wrong with you ([Being and Nothingness, Part III, ch. 1, Barnes translation; opened full text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)):
+Sartre treats shame as a structure of being-seen, not as a private verdict that something is wrong with you. In his analysis, "the Other is the indispensable mediator between myself and me. I am ashamed of myself as I appear to the Other" ([Being and Nothingness, Part III, ch. 1, Barnes translation, as quoted in Falcato, "Shame and self-image in Sartre and Bernard Williams"](https://repositorio-aberto.up.pt/bitstream/10216/171245/2/750625.pdf)):
 
-> Both my shame and my pride stem from the fact that I have an "outside" or "nature," a self which exists for the Other and which I am unable to determine or even to know.
+> Shame is only the original feeling of having my being outside, engaged in another being and as such without any defense. Pure shame is not a feeling of being this or that guilty object but in general of being an object; that is, of recognizing myself in this degraded, fixed, and dependent being which I am for the Other.
 
-(Sartre, Being and Nothingness, trans. Hazel E. Barnes, 1956, Part III, ch. 1; [opened full text, Internet Archive](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt).)
+(Sartre, Being and Nothingness, trans. Hazel E. Barnes, Washington Square Press, 1992, p. 265; [opened source quoting the passage: Falcato, "Shame and self-image in Sartre and Bernard Williams", University of Porto repository](https://repositorio-aberto.up.pt/bitstream/10216/171245/2/750625.pdf).)
 
-The structure behind it: I can never be an object to myself, but I am made an object for others ([same opened text](https://archive.org/download/in.ernet.dli.2015.6651/2015.6651.Being-And-Nothingness_djvu.txt)). Shame is the lived discovery of that outside. The practice is to read the flash as information about being-seen rather than as a flaw to eliminate.
+The quote names the structure Sartre calls being-for-others: you exist for others as something seen. On this account the flash of shame points at that structure; it is not, by itself, proof of a defect in you.
 
 ### Plain words
 
-Shame is the feeling of being seen from outside, where you have no control over what is seen. The flash on the crowded street after tripping is not really about the stumble; it is the sudden knowledge that you exist for others. The feeling is a fact about your situation, not a score on your worth.
+Shame is the feeling of being an object for someone: seen, fixed, judged from outside, in a way you cannot control or fully know. On Sartre's account it shows that you exist for others, not that you are defective.
 
 ### For example
 
-Someone trips on a busy street. The heat in the face comes before any thought: they have been seen. Naming the feeling for what it is, a reminder that they have an outside, is an alternative both to arguing with it and to obeying it.
+Suppose someone stumbles in public and feels heat rise in their face. They can separate what happened, a stumble, from what they imagine others are concluding, a judgment, and notice that the feeling points to being-seen rather than to any verdict on them.
 ## Psychology parallels
 
 - **[[Shame|Shame and self-consciousness]]** (Tangney and Dearing, 2002; Gilbert, 1998)

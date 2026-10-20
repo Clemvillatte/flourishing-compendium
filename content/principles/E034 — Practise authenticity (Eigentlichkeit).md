@@ -18,15 +18,15 @@ Heidegger's authenticity (Eigentlichkeit) is not a special exalted state detache
 
 (Heidegger, Being and Time, trans. Macquarrie and Robinson, 1962, §27; [opened full text, Internet Archive](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt).)
 
-Everyday Dasein is lived mostly as the "they" (das Man): the Self of everyday Dasein is the they-self, and the authentic Self is the one "taken hold of in its own way" ([same opened text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)). What makes the taking-hold possible is anxiety, which individualizes Dasein and brings it face to face with its freedom for its own possibilities ([same opened text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)). The practice is re-owning after every drift, not arriving once.
+Everyday Dasein is lived mostly as the "they" (das Man): the Self of everyday Dasein is the they-self, and the authentic Self is the one "taken hold of in its own way" ([same opened text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)). Heidegger describes anxiety as what individualizes Dasein and brings it face to face with its freedom for its own possibilities ([same opened text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)). The practice is a repeating one, not an arrival.
 
 ### Plain words
 
-Most of what you do is what one does. Authenticity is not escaping that; it is sometimes gripping the wheel yourself: choosing what you do because you have looked at the options, not because one does this. Expect to drift back and to re-own.
+In Heidegger's picture, the everyday self is mostly borrowed from what one does. Authenticity is not escaping that; it is sometimes gripping the wheel yourself: choosing what you do because you have looked at the options, not because one does this.
 
 ### For example
 
-Someone notices their five-year plan is a committee decision: parents, peers, the algorithm. The audit asks which parts are actually theirs. What survives is usually smaller and carries more weight.
+Suppose someone's five-year plan was assembled from what their family and their workplace expected. They take one commitment at a time and ask whether they can stand behind continuing it. Some they keep, some they change. The result is not necessarily smaller or less social; it is one they can answer for.
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity]]** (Kernis and Goldman, 2006; Wood et al., 2008)
