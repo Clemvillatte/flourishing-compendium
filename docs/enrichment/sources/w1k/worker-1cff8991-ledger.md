@@ -39,3 +39,17 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Corrected a transient next-item state label to this actual manifest item before editing; no off-band or nonexistent concept was created or marked done.
 - Original frontmatter, bibliography and all cited-in/story wikilinks preserved. Fast-track saturation skipped; no reciprocal proposal.
 - Five-concept milestone advisor (`tools.llm`, `gpt_6_luna`) reviewed Parrhesia, Patience, Prohairesis, Prudence and Psychological richness together against verified original-source passages: PASS, no required fixes or notes. All five fast-track validators passed.
+
+## Perception as interpretation
+
+- Namespace audit only; seed file deliberately unchanged.
+- Verified actual seed attribution is Kant, not James. Opened [Kant's Critique, Meiklejohn](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm), Introduction VII and Transcendental Logic Introduction I; text distinguishes sensibility and understanding and unites them in cognition.
+- Opened [Colin McLear, SEP Kantian Conceptualism/Nonconceptualism](https://plato.stanford.edu/entries/kant-conceptualism/), introduction and sections 1–4. The actual named debate distinguishes conceptualism/nonconceptualism and intuition/perception/experience; this is contested, not a licence to declare the seed heading Kant's own concept.
+- No authoritative definition of the exact heading identified in the opened sources. Under protocol §0, flag rather than invent an entry under a thesis-like label. This is a bounded finding about consulted evidence, not a universal claim that the phrase never appears anywhere.
+
+## Perception precedes thought
+
+- Namespace audit only; seed file deliberately unchanged.
+- Actual seed source is Aristotle De Anima II, not Dewey. Opened [Smith translation, Book II](https://classics.mit.edu/Aristotle/soul.2.ii.html), parts 2–4 and 12, and [Book III](https://classics.mit.edu/Aristotle/soul.3.iii.html), full book, especially III.8.
+- The text discusses distributions/dependencies of faculties and the involvement of images in thought; that does not establish this exact heading as a defined named unit. Secondary search results point to a scholarly thesis about chronological formation of universal concepts, not a universal rule about every perceptual/thinking episode.
+- Protocol §0 flag for supervisor to classify/rename/route; no fabricated body or unsupported global absence claim, no links or frontmatter changed, not marked enriched.
