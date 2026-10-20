@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 63** — Trust plainness over attainment
 
-Milarepa's teaching, delivered in songs rather than treatises, keeps returning to one warning: the spectacular (visions, powers, ecstasies) is the practice's decoration and its trap, and the plain person who has given up grandiosity practices better than the visionary who has acquired it. Practically, when something impressive happens in practice, tell one grounded person and continue; treat attainments the way the tradition treats them, as weather.
+The life of Gampopa records the pattern. Each time Gampopa brought Milarepa a new vision or meditation experience, the answer came back in the same shape:
 
-(Milarepa's Hundred Thousand Songs, the warnings to Gampopa; the siddhi caution of YS 3.37.)
+> "This is neither good nor bad. Make further effort to actualize it. Do not be attracted by such visions, perfect the power of the inner heat." (Milarepa, on Gampopa's vision of the five Dhyani Buddhas, in Geshe Ngawang Dhargyey's life of Gampopa)
 
-**Plain words** Milarepa's songs keep warning that the spectacular, visions, powers, ecstasies, is practice's decoration and its trap. The plain person who has dropped grandiosity does better than the visionary who has acquired it. When something impressive happens, tell one grounded friend and then forget it.
+The account's summary is explicit: "whenever Milarepa heard reports on the various stages of experiences of Gampopa, he always said, 'It is neither good nor bad. Meditate more.' He fully explained to his disciple what his experiences meant, but never praised him." The reason is given too: "If a guru praises too much and gives too much encouragement... the disciple will get carried away, which will be a great obstacle. He will not improve and will become attached to his various experiences and be overcome by them." And the parting warning repeats it for powers: Milarepa "warn[ed] him about pride, specifically because he had so many miraculous powers", telling him not to be overwhelmed by them, "these could become great obstacles for him". ([Study Buddhism, The Life of Gampopa](https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/gampopa/the-life-of-gampopa))
 
-*For example:* After a striking experience on retreat you mention it to your sister, and she says "that's nice, did you call mum?" and it's just right.
+**Plain words**
+The teaching's shape: experiences and powers are read as indications, not trophies. Milarepa's repeated response, neither good nor bad, meditate more, keeps the practitioner from stopping to admire what arose. In the compendium's application, when something impressive happens in practice, report it to one grounded person and continue.
+
+For example: After a striking experience on retreat you mention it to your sister, and she says "that's nice, did you call mum?" and it's just right.
+
+## Sources
+
+- [The Life of Gampopa (Study Buddhism)](https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/gampopa/the-life-of-gampopa) — Geshe Ngawang Dhargyey, from an oral translation by Losang Gyaltsen (Dharamsala, 1979), edited by Samaya Hart and Alexander Berzin
 
 ## Psychology parallels
 

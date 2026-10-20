@@ -27,7 +27,8 @@
   "K052",
   "K053",
   "K056",
-  "K057"
+  "K057",
+  "K063"
  ],
  "in_progress": null,
  "flagged": {
@@ -49,10 +50,11 @@
   "K052": "inherited parallels not certified: Tajfel minimal-group bullet, brahmaviharas and BG 13.7-11 parallels unopened this session; wikilinks preserved",
   "K053": "inherited parallels not certified: Algoe find-remind-and-bind bullet, Spinoza and 1 Cor 4.7 parallels unopened this session; wikilinks preserved",
   "K056": "inherited parallels not certified: Wood et al. 2008 authenticity bullet, YS 2.28-2.32 and YS 2.31 parallels unopened this session; wikilinks preserved",
-  "K057": "inherited parallels not certified: Ericsson deliberate-practice bullet, YS 2.28-2.29 and Aristotle NE II parallels unopened this session; wikilinks preserved"
+  "K057": "inherited parallels not certified: Ericsson deliberate-practice bullet, YS 2.28-2.29 and Aristotle NE II parallels unopened this session; wikilinks preserved",
+  "K063": "inherited parallels not certified: Masters 2010 spiritual-bypassing bullet, YS 3.37 and Analects 7.21 parallels unopened this session; wikilinks preserved"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:07:17+00:00",
+ "updated": "2026-10-20T14:08:31+00:00",
  "band_done": false
 }
