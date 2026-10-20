@@ -86,9 +86,9 @@ opened text at the recorded URL.
 - LOCATOR CORRECTION: the seed cited "(SN 48; Dhammapada 144.)". Dhp 144 was
   NOT opened this session, so nothing about its content is claimed here; the
   verse was dropped from the locator because no part of it was verified. The
-  balance teaching is commentarial (Visuddhimagga), not in SN 48 itself; the
-  body now cites what it actually uses. SN 48's membership of the five in the
-  requisites of awakening is taken from the opened Bodhi essay, not from an
+  balance passage used on the page comes from Conze's Visuddhimagga excerpt,
+  and the body cites what it actually uses. SN 48's membership of the five in
+  the requisites of awakening is taken from the opened Bodhi essay, not from an
   opened SN 48 sutta text. "The second of the five training precepts"-type
   claims are not made on this page.
 - LIMITS: inherited psychology parallel (Sonnentag and Fritz 2007; inverted-U)
@@ -197,3 +197,30 @@ opened text at the recorded URL.
   labelled as such in the body. Inherited psychology parallels (Piff et al.
   2015; Stellar et al. 2018; Kross and Ayduk 2011) and the Practice section
   preserved untouched and NOT verified this session.
+
+## P186 — The fight against evil is local and concrete (2026-10-20)
+
+- OPENED: William James, The Will to Believe and Other Essays (Gutenberg
+  26659), "Is Life Worth Living?" — raw text pulled and the passage read in
+  context (printed pp. 49-50): it immediately follows James's appeal to a
+  would-be suicide ("To the suicide, then... you can appeal... to wait and see
+  his part of the battle out"), and "an evil of his own unremedied" means an
+  evil in that person's own sphere left unremedied.
+- Verified verbatim: the quoted sentence ("The submission which you demand of
+  yourself... liquidated and settled up.") — exact vs the raw text.
+- LIMITS: the unfinished-responsibility exercise is the compendium's
+  adaptation, labelled as such; James's own context is an appeal against
+  suicide. Inherited psychology parallel (Covey) and philosophy parallels
+  preserved untouched and NOT verified this session.
+- QC: item-10 milestone round 1 FAIL (context obscuration, application
+  overreach, estrangement example). Repaired with the advisor's exact text;
+  raw-text context check done per the advisor's instruction.
+
+## Milestone QC log (item 10, 2026-10-20) — repairs applied; acceptance pending
+
+- Round 1 FAIL for P186 plus blockers on P185 (outcome promise), B155
+  (unverified buddhas-as-witnesses attribution; residual split contrast),
+  B197 (unsupported "needs no extra time"; unscoped special-states claim) and
+  the B032 ledger (unverified SN 48 absence claim). All repairs applied this
+  checkpoint; validators re-run clean on all four files. Acceptance review of
+  the repaired passages is pending the next advisor round.

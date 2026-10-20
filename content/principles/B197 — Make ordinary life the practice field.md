@@ -18,10 +18,10 @@ Two Buddhist sources put the practice where the day already is. Thich Nhat Hanh 
 
 > "Zhaozhou asked Nanquan: 'What is the Way?' Nanquan said: 'Ordinary mind is the Way.' Zhaozhou said: 'So should I try to get toward it?' Nanquan said: 'If you try, you move away from it.'" (Gateless Gate 19, [ZenBorder translation](https://www.zenborder.com/koans/))
 
-The compendium's reading: no special states, special places or special times are required. The kitchen, the commute and the difficult colleague are the curriculum, because they are what the day is made of.
+The compendium's exercise narrows the teaching to the daily task: the dishes, the commute or the difficult colleague, done with attention, are the practice field for that hour.
 
 **Plain words**
-Take the task you most want to finish quickly, dishes or emails or the commute. Do it once with the attention on the doing itself: the water, the keys, the breath. The exercise needs no extra time, since the task you were rushing already occupies your hands and your hour.
+Take the task you most want to finish quickly, dishes or emails or the commute. Do it once with the attention on the doing itself: the water, the keys, the breath. Choose an activity already on today's schedule.
 
 *For example:* Washing up after dinner can be done with the mind already at dessert, hurrying the bowls out of the way, or done aware of the water and the hands. The compendium's exercise is the second, for one task a day.
 

@@ -19,7 +19,7 @@ In "The Gospel of Relaxation" (1899), William James gives worry a working defini
 > "The turbulent billows of the fretful surface leave the deep parts of the ocean undisturbed, and to him who has a hold on vaster and more permanent realities the hourly vicissitudes of his personal destiny seem relatively insignificant things." (James, [Talks to Teachers](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm))
 
 **Plain words**
-James describes worry as a mind stuck in a narrow loop, reiterating one item and losing its working power. The compendium's exercise: when the loop starts, deliberately place something large beside it. Take the coast walk, play the music, do the service, sit the silence. The problem keeps its size; your sense of what matters gets a bigger surface to work on.
+James describes worry as a mind stuck in a narrow loop, reiterating one item and losing its working power. The compendium's exercise: when the loop starts, deliberately place something large beside it. Take the coast walk, play the music, do the service, sit the silence. Afterward, consider whether your view of the concern has changed.
 
 *For example:* Imagine bad news arriving on a day you already planned to walk the coast path. You keep the walk instead of cancelling it to rehearse the news.
 

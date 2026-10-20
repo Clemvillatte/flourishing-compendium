@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 155** — Take the vow: commit beyond your comfort
 
-Shantideva's Guide to the Bodhisattva's Way of Life reaches its third chapter with a vow, spoken before the buddhas as witnesses: to arouse bodhicitta and, like the buddhas of former ages, to train in stages. The vow commits to gradual training rather than to immediate perfection. (Shantideva, Bodhicaryavatara 3.)
+Shantideva's Guide to the Bodhisattva's Way of Life reaches its third chapter with a vow: to arouse bodhicitta and, like the buddhas of former ages, to train in stages. The vow commits to gradual training, in stages. (Shantideva, Bodhicaryavatara 3.)
 
 > "Just as the sugatas of former ages, / Aroused bodhicitta and then, in stages, / Trained themselves in skilful practice, / On the genuine path of the bodhisattvas, / Like them, I take this sacred vow: / To arouse bodhicitta here and now, / And train myself for others' good, / Gradually, as a bodhisattva should." (Bodhicaryavatara 3.23-24, [Pearcey](https://www.lotsawahouse.org/indian-masters/shantideva/bodhicharyavatara-3))
 
-The compendium's reading: a vow is a commitment made once, in words you could repeat, with a witness, and then kept stepwise. The vow does not promise motivation. It is a structure that keeps one clear day's judgment in force on the days clarity is missing.
+The compendium's reading: a vow is a commitment made once, in words you could repeat, with a witness, and then kept stepwise, a structure that keeps one clear day's judgment in force on the days clarity is missing.
 
 **Plain words**
 Write the commitment in one sentence you would still sign on a bad morning. Say it to one person who will remember it. Then treat the training as stages: this month's small version of the practice, not the final version. On days you do not feel it, you are not deciding again; you are doing today's stage.
