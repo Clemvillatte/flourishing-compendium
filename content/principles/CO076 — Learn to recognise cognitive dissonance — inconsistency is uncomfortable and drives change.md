@@ -12,15 +12,25 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 76** — Learn to recognise cognitive dissonance: inconsistency is uncomfortable and drives change
 
-When you hold conflicting beliefs, or when your behaviour contradicts your beliefs, you experience cognitive dissonance — an uncomfortable state that motivates change (either in belief or behaviour). Understanding this helps you predict and manage your own responses to inconsistency.
+Festinger's dissonance account proposes that inconsistency can motivate changes that bring a person's opinion into line with what they have said or done ([Festinger and Carlsmith, 1959, theoretical outline, pp. 203–204](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf)). It is an explanatory theory to test, not a rule that every conflict must resolve in a predictable way.
 
-**Plain words** Cognitive dissonance: holding conflicting beliefs, or acting against your beliefs, produces discomfort that motivates change — sometimes updating the belief, sometimes rationalising the behaviour. Recognise which direction the resolution goes: toward truth or toward comfort.
+A multilab replication found attitude differences after counterattitudinal rather than neutral essays, but not the predicted difference between high-choice and low-choice conditions ([Vaidis and colleagues, 2024, abstract](https://doi.org/10.1177/25152459231213375)). The mechanism therefore needs careful interpretation.
 
-*For example:* The smoker who knows the risks — and the mind's fork: quit (update behaviour) or adopt "everything causes cancer anyway" (update belief). The discomfort was the same at the fork. Dissonance always resolves; the only question is which way.
+> No significant difference in attitude was observed after writing a counterattitudinal essay under high choice compared with low choice.
+
+(Vaidis and colleagues, “A Multilab Replication of the Induced-Compliance Paradigm of Cognitive Dissonance,” abstract; [opened article](https://doi.org/10.1177/25152459231213375).)
+
+### Plain words
+
+When your reasons become defensive, ask what you are trying to make consistent and what evidence still needs attention. Neither discomfort nor relief should settle whether a belief or action deserves changing.
+
+### For example
+
+Suppose you value fair discussion but dismiss criticism of a favourite author without reading it. You could examine the criticism before deciding whether to defend the author, revise your view or acknowledge uncertainty.
 ## Psychology parallels
 
-- **[[Cognitive dissonance|Cognitive dissonance theory (Festinger)]]**, inconsistency between beliefs and behaviour motivates reduction (Festinger, 1957)
-- **[[Dissonance reduction strategies|Dissonance reduction strategies]]**, people change beliefs, add justifications, or avoid information to reduce dissonance (Cooper, 2007)
+- **[[Cognitive dissonance|Cognitive dissonance theory (Festinger)]]**: the early experiment tests proposed opinion change after counterattitudinal behaviour ([Festinger and Carlsmith, 1959, pp. 203–204](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf)).
+- **[[Dissonance reduction strategies|Dissonance reduction strategies]]**: changing private opinion to fit a public statement is one proposed route, not a guaranteed or uniquely established process ([same theoretical outline](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/Festinger_Carlsmith_1959_Cognitive_consequences_of_forced_compliance.pdf); [Vaidis et al., 2024](https://doi.org/10.1177/25152459231213375)).
 - **Effort justification / sunk costs as dissonance reduction**, people value what they suffered for (Aronson & Mills, 1959)
 
 ## Philosophy parallels
@@ -30,4 +40,4 @@ When you hold conflicting beliefs, or when your behaviour contradicts your belie
 
 ## Practice
 
-- When you notice yourself defending a decision or belief with unusual intensity, ask: "is this dissonance?" Recognise that the discomfort of being wrong is normal and that reducing it by changing behaviour is often more adaptive than changing belief.
+- When defending a decision feels urgent, examine both the evidence and your reasons for wanting consistency. Ask whether changing a belief, changing an action or withholding judgment is better justified; do not choose solely for immediate relief.
