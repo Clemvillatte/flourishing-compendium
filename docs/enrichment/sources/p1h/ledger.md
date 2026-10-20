@@ -192,3 +192,12 @@ staged by the save script).
 - Old Plain words ("brute-force truth", "toxic positivity") and outcome-promising example replaced; Practice bullet rewritten as editorial invitation.
 - Saturation: mention scan run; BE013 already cited by Behavioral activation, Activity scheduling (BA), Action precedes feeling, Avoidance versus attentional engagement. No justified new proposals.
 - Validator: ok vs pre-edit baseline 7f95402f.
+
+### BE048 — Learn to use the dive reflex (done 2026-10-20, item 3 of session)
+
+- Opened: Foster & Sheel, "The human diving response, its function, and its control," Scand J Med Sci Sports 15(1):3-11, 2005, Wiley full text https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0838.2005.00440.x. New source this session (1).
+- Verified verbatim: "Stimulation of facial cold receptors by cold water augments the human diving response and elicits a greater degree of bradycardia, reduction in blood flow, and hypertension (Andersson et al., 2000)." Also verified but not used: the full diving-response definition sentence and the 25%/10% heart-rate figures.
+- Body claims kept to heart-rate/vagal language from the opened source; "rapidly reduces arousal" softened to heart-rate drop; handbrake/fire-extinguisher aphorisms and "body's physics overrides the mind's spiral" removed.
+- Inherited, NOT opened/verified: psychology parallels (Linehan 1993, Khalsa et al. 2016) and philosophy parallels (Merleau-Ponty, Right effort, Yangsheng) — preserved per protocol, flagged for supervisor.
+- Saturation: mention scan run; BE048 already cited by Arousal regulation, Autonomic nervous system, AF041. No justified new proposals.
+- Validator: ok vs pre-edit baseline 452d4831.

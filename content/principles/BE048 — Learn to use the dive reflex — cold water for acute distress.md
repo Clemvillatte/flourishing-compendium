@@ -12,11 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 48** — Learn to use the dive reflex: cold water for acute distress
 
-The dive reflex (cold water on the face) activates the parasympathetic nervous system and rapidly reduces arousal. It is a specific behavioural technique for acute distress.
+The dive reflex is the mechanism humans share with diving mammals: when cold touches the face, the heart slows through the vagus nerve. A review of the human diving response describes stimulation of facial cold receptors by cold water as strengthening the reflex and deepening the slowing of the heart ([Foster & Sheel, 2005](https://doi.org/10.1111/j.1600-0838.2005.00440.x)).
 
-**Plain words** Cold water on the face — the dive reflex — is the nervous system's handbrake: heart rate drops, panic downshifts. For acute distress, it's a 30-second intervention. Not a life philosophy; a fire extinguisher.
+> Stimulation of facial cold receptors by cold water augments the human diving response and elicits a greater degree of bradycardia, reduction in blood flow, and hypertension (Andersson et al., 2000).
+>
+> — Foster & Sheel, "The human diving response, its function, and its control" (2005)
 
-*For example:* The panic spiral at midnight, broken by 30 seconds of cold water on the face and eye area — the body's physics overrides the mind's spiral. Cheap, fast, weirdly effective.
+**Plain words** Your face carries a switch that slows your heart: cold receptors around the eyes and cheeks report to the vagus nerve. Splashing cold water on your face, or holding something cold against your eyes and cheeks, pulls heart rate down. It is a tool for a spike of panic or rage, not a way of life, and it does nothing about what caused the spike.
+
+For example (imagined): during a late-evening panic spiral, someone holds a cold, damp cloth over their eyes and cheeks for half a minute, using the heart-rate drop the reflex produces.
+
+(Foster & Sheel, "The human diving response, its function, and its control," 2005.)
+
 ## Psychology parallels
 
 - **Dive reflex and parasympathetic activation**, cold water on the face activates the mammalian dive reflex (Linehan, 1993; Khalsa et al., 2016)
@@ -30,4 +37,4 @@ The dive reflex (cold water on the face) activates the parasympathetic nervous s
 
 ## Practice
 
-- Use cold water for acute distress: splash cold water on your face, hold a cold pack to your eyes and cheeks, or take a cold shower. This rapidly reduces arousal. Use for crises, not everyday regulation.
+- As a compendium exercise: for an acute distress spike, splash cold water on your face or hold a cold pack to your eyes and cheeks for up to half a minute. Use it for crises, not everyday regulation.
