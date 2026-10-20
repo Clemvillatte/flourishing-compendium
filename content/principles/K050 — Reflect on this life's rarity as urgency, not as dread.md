@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 50** — Reflect on this life's rarity as urgency, not as dread
 
-The Pali canon gives the rarity image its most famous form in a sutta on the four truths. The Buddha sets up a simile: the great earth covered with water, a yoke with a single hole drifting on the winds, and a blind sea turtle surfacing once every hundred years. The monks answer:
+In SN 56.48, the Buddha asks monks whether a blind sea turtle, surfacing once every hundred years, would put its neck through a single-holed yoke drifting on water. The monks answer:
 
 > It would be a sheer coincidence, lord, that the blind sea turtle, coming to the surface once every one hundred years, would stick his neck into the yoke with a single hole.
 
@@ -20,18 +20,18 @@ And the Buddha replies:
 
 > It's likewise a sheer coincidence that one obtains the human state. It's likewise a sheer coincidence that a Tathāgata, worthy & rightly self-awakened, arises in the world. It's likewise a sheer coincidence that a Dhamma & Vinaya expounded by a Tathāgata appears in the world. Now, this human state has been obtained. A Tathāgata, worthy & rightly self-awakened, has arisen in the world. A Dhamma & Vinaya expounded by a Tathāgata appears in the world.
 
-The sutta then turns the rarity into a duty, not a dread:
+The sutta then directs the monks to contemplation:
 
 > "Therefore your duty is the contemplation, 'This is stress … This is the origination of stress … This is the cessation of stress.' Your duty is the contemplation, 'This is the path of practice leading to the cessation of stress.'"
 
-The compendium's exercise keeps the sutta's move: rarity noticed, then used as a prompt for what to do now.
+The opportunity described includes human birth, the arising of a Tathāgata, and the availability of the teaching. The response named in the passage is contemplation of stress and its cessation.
 
 (Saṃyutta Nikāya 56.48, Chiggaḷa Sutta, trans. Ṭhānissaro Bhikkhu.)
 
 **Plain words**
-The image is about odds: a blind turtle surfacing once a century, a single-hole yoke drifting somewhere on the sea. A human life is that kind of coincidence. The sutta does not stop at the odds; it says the state has been obtained and names a duty. The compendium's exercise: when you catch yourself taking the capacities of this life as background, pick one and use it today.
+The compendium borrows the passage's connection between opportunity and action. Name an opportunity available to you now. Choose a small action it makes possible, and decide when to take it.
 
-*For example:* Someone with a free Saturday, working eyes, and an unread library book does the reflection in one line: for most of the human record that combination did not exist. The exercise is to read the book.
+*For example:* Suppose you have borrowed a book you want to read and have half an hour free this afternoon. Decide which section you will read during that time.
 
 ## Sources
 
