@@ -110,3 +110,8 @@
 - Opened: Marcus Med. IV.19 (Long); Seneca Letter 79 (Gummere); SEP Stoicism (reputation as preferred indifferent); Kasser & Ryan 1993 abstract (PMID 8366427).
 - Not opened: other Meditations/Seneca refs; Kernis 2003; Paulhus & Williams 2002; Fromm.
 - Note: "Marcus wrote that fame is worthless" overstated; Kasser & Ryan 1993 covers financial success, not fame (fame aspiration is in their 1996 paper, not opened).
+
+## S128 — Practise the contemplation of impermanence
+- Opened: Marcus Med. IV.43, IX.28 (Long); Sahdra et al. 2010 abstract (PMID 20155561).
+- Not opened: remaining ~29 Meditations refs; Lyubomirsky 2011; Heraclitus; Buddhist anicca.
+- Note: "freeing" and "nothing worth clinging to except virtue" are compendium wording; Marcus IX.28 says one will "despise everything which is perishable".

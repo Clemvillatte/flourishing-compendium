@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 250** — Practise the contemplation of impermanence
 
-Marcus regularly reminds himself that everything passes: empires, reputations, lives, the universe itself. The contemplation of impermanence is not depressing; it is freeing. If everything passes, then nothing is worth clinging to except virtue.
+> Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.
 
-(Med. I.14, II.3, II.17, III.1, III.10, IV.1, IV.3, IV.35, IV.36, IV.43, V.23, VI.15, VI.24, VII.10, VII.19, VII.25, VII.34, VII.49, IX.28, IX.29, IX.35, X.1, X.7, X.11, XI.1, XI.21, XII.1, XII.20, XII.21, XII.32, XII.36.)
+(Marcus Aurelius, Meditations IV.43, trans. George Long, [Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html), page opened; the section number is from the standard numbering and is not printed in this edition.)
 
-**Plain words** Everything you're worried about is on its way out — empires, reputations, your bad week. Marcus found this thought freeing, not morbid: if it all passes, nothing deserves a death-grip except how you live. Think of it as the antidote to clutching.
+In Book Nine Marcus applies the thought to attachment: "Soon will the earth cover us all: then the earth, too, will change... For if a man reflects on the changes and transformations which follow one another like wave after wave and their rapidity, he will despise everything which is perishable" ([Meditations IX.28, Long trans.](https://classics.mit.edu/Antoninus/meditations.9.nine.html), opened; the ellipsis omits a clause). He is blunter than the entry's "freeing": the effect he names is contempt for what perishes, and the entry's conclusion that "nothing is worth clinging to except virtue" is the compendium's wording. Most of the long list of Meditations references was not opened.
 
-*For example:* The person agonising over a public mistake who thinks "in five years, literally no one at this dinner will remember" — and unclenches enough to apologise and move on.
+Sahdra, Shaver and Brown describe nonattachment as "based on insight into the constructed and impermanent nature of mental representations," and report evidence that it "is psychologically and socially adaptive" ([J Pers Assess, 2010; PubMed](https://pubmed.ncbi.nlm.nih.gov/20155561/), abstract opened). This is a Buddhist-derived measure and not a test of Marcus's practice. Lyubomirsky (2011) and Heraclitus were not opened.
+
+**Plain words** Marcus pictures time as a river that carries each thing away and brings the next, and says that reflecting on this teaches a person to despise what perishes. Readers may find it freeing, which is a modern gloss.
+
+*For example (imagined):* Someone agonising over a public mistake reminds themselves that in five years almost nobody at the dinner will recall it, and then apologises and moves on.
+
+## Sources
+
+- [Marcus Aurelius, Meditations IV.43 and IX.28 (trans. G. Long)](https://classics.mit.edu/Antoninus/meditations.4.four.html) — MIT Internet Classics Archive, Books Four and Nine opened
+- [Sahdra, Shaver & Brown (2010), J Pers Assess 92(2), 116-127](https://pubmed.ncbi.nlm.nih.gov/20155561/) — PubMed abstract opened
+
 ## Psychology parallels
 
 - **[[Hedonic adaptation|Hedonic adaptation]]** (Lyubomirsky, 2011)
