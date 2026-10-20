@@ -12,27 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 41** — Learn to consider supplements wisely: evidence and caution
 
-The evidence side and the caution side need separate sources. On evidence, omega-3 is the best-studied case. A meta-analysis of randomized trials:
+Grosso and colleagues' 2014 meta-analysis reported a pooled standardized difference of 0.38 SD favouring omega-3 treatment over placebo, with a 95% confidence interval of 0.18-0.59. ([Grosso et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/))
 
-> "Meta-analysis of 11 and 8 trials conducted respectively on patients with a DSM-defined diagnosis of major depressive disorder (MDD) and patients with depressive symptomatology but no diagnosis of MDD demonstrated significant clinical benefit of omega-3 PUFA treatment compared to placebo (standardized difference in random-effects model 0.56 SD [95% CI: 0.20, 0.92] and 0.22 SD [95% CI: 0.01, 0.43], respectively; pooled analysis was 0.38 SD [95% CI: 0.18, 0.59])." (Grosso, Pajak, Marventano, Castellano, Galvano, Bucolo, Drago & Caraci, "Role of Omega-3 Fatty Acids in the Treatment of Depressive Disorders: A Comprehensive Meta-Analysis of Randomized Clinical Trials", PLoS ONE 9(5), e96905, 2014, [full text via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/))
+> "Use of mainly EPA within the preparation, rather than DHA, influenced final clinical efficacy."
+>
+> — Grosso et al. (2014), abstract, Conclusions. ([Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/))
 
-The formulation detail matters:
+In the United States, the FDA explains:
 
-> "Use of mainly EPA within the preparation, rather than DHA, influenced final clinical efficacy." (Grosso et al., 2014, [via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013121/))
+> "Under DSHEA, FDA does not have the authority to approve dietary supplements before they are marketed."
+>
+> — FDA, "Questions and Answers on Dietary Supplements." ([FDA guidance](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements))
 
-On the caution side, the regulation gap is official US policy:
-
-> "Under DSHEA, FDA does not have the authority to approve dietary supplements before they are marketed." (US Food and Drug Administration, "Questions and Answers on Dietary Supplements", [FDA](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements))
-
-And the safety-evidence gap:
-
-> "Generally, a firm does not have to provide FDA with the evidence it relies on to substantiate safety before or after it markets its products; however, there is an exception for dietary supplements that contain a new dietary ingredient that is not present in the food supply as an article used for food in a form in which the food has not been chemically altered." (FDA, [Questions and Answers on Dietary Supplements](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements))
+Manufacturers must follow good manufacturing practices, and the FDA describes an exception to the general safety-evidence submission rule for certain new dietary ingredients. ([FDA guidance](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements))
 
 **Plain words**
-One supplement class has real trial evidence: omega-3, where pooled trials show a moderate benefit and the EPA-heavy formulations do the work. The regulation side is the opposite of a pharmacy: US law does not require supplements to be approved, or their safety evidence shown to anyone, before they are sold. The evidence question has to be asked bottle by bottle.
+
+Ask which condition, participants and formulation were studied before applying a finding to your own situation. Discuss possible use with a healthcare professional rather than treating a product's availability as evidence that it will help.
 
 **For example**
-The drawer of miracle powders next to the bottle of EPA-heavy fish oil. The fish oil has meta-analysed trials behind it; the powders have labels the FDA never saw before they shipped.
+
+Suppose someone is considering fish oil for depressive symptoms. They bring the label to their clinician and ask whether the formulation and evidence are relevant to their care.
 
 ## Sources
 
