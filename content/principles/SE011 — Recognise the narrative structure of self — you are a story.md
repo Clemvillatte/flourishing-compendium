@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 11** — Recognise the narrative structure of self: you are a story
 
-Identity is not just a set of traits; it is a narrative. The story you tell about your life — its themes, arcs, turning points, and meaning — shapes how you experience yourself and your future. Different narrative structures (redemption, contamination, stagnation) are associated with different well-being outcomes.
+The narrative-identity research program treats identity as a life story: people make sense of themselves by narrating their remembered past, lived present and imagined future. Researchers code those stories for recurring shapes, and two carry most of the weight:
 
-**Plain words** Identity is a narrative — the story you tell about your life, its themes and turning points, shapes how you experience yourself and your future. Different stories of the same facts produce different selves. You are a story; the editing is a skill.
+> "Redemption sequences describe a shift from a negative event to a positive, uplifting one." "By contrast, a *contamination* sequence involves a transition from a positive, happy event to a negative one." (Sawatzki & Thomsen, 2025, [Journal of Personality](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/), summarising McAdams et al., 2001)
 
-*For example:* The divorce told as "I was deceived and wasted my best years" versus "I learned what I value and left" — same marriage, same facts — and the second narrator walks into the next chapter. The story isn't a report; it's an operating instruction.
+In the studies behind these definitions, the shapes track how people are doing:
+
+> "redemption sequences relate to higher well-being (Dunlop 2021; McAdams et al. 2001), whereas contamination sequences are related to more psychological distress (McAdams et al. 2001)." (Sawatzki & Thomsen, 2025)
+
+The compendium's reading: if identity is narrated, the narration can be examined and revised.
+
+**Plain words** You already tell your life as a story — to friends, in your head, at interviews. The research point is that the telling has a shape, and the shape is countable: does it move from bad scenes to good outcomes, or the reverse? Two people with the same facts can be telling very different stories. Noticing your default arc is the first edit; the second is checking whether a dark chapter is doing the closing narration.
+
+*For example:* (imagined) The divorce told as "I was deceived and wasted my best years" versus "I learned what I value and left" — same marriage, same facts, and the second narrator walks into the next chapter.
 ## Psychology parallels
 
 - **[[Narrative identity|Narrative identity (McAdams)]]**, identity is a life story with themes, arcs, and meaning (McAdams, 2001; McAdams & McLean, 2013)
@@ -35,4 +43,8 @@ Identity is not just a set of traits; it is a narrative. The story you tell abou
 
 ## Related concepts
 
-- [[SE001]] — SE011 treats the self as story-structured; SE001 supplies McAdams’s narrative-identity account, the evolving life story a person tells.
+- [[SE001]] — SE011 treats the self as story-structured; SE001 supplies McAdams's narrative-identity account, the evolving life story a person tells.
+
+## Sources
+
+- [Sawatzki & Thomsen, "Narrative Work Identity and Resilience—Redemption Prospectively Predicts Teachers' Stress Resilience at Work", Journal of Personality (PMC full text)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/) — redemption/contamination definitions and well-being associations, summarising McAdams et al. (2001)

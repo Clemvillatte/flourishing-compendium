@@ -132,3 +132,8 @@
 - Opened: Seneca Moral Letter 6 (Gummere, Wikisource). All three quotes verbatim against the opened page (6.4 "No good thing..."; 6.5 "The living voice..."; 6.7 Hecato's "What progress, you ask..."). The 6.6 "not merely that you may derive benefit, but that you may confer benefit" sentence deliberately paraphrased unquoted (validator staging-pattern risk inside quotes).
 - Not opened: inherited citation list remainder (Seneca Letters 5, 7, 9, 34, 35, 48, 109; Med. I.1, I.7, I.11, I.15, IV.38, V.10, VI.8, IX.11; Disc. III.16, III.24; Ench. 4, 33, 46) — citation line narrowed to Letter 6.
 - Marcus mention in the seed body ("Marcus writes to himself but draws on the examples of others") removed with the rewrite; Med. I not opened this session.
+
+## SE011 — Recognise the narrative structure of self (worker-p1zn-fuvwnqv)
+- Opened: Sawatzki & Thomsen 2025, Journal of Personality, PMC13359288 (full text). Both quote pairs verbatim against the opened PMC text (redemption/contamination definitions; the well-being association sentence, which cites McAdams et al. 2001 and Dunlop 2021 within the quote).
+- Provenance disclosed in-page: the definitions are carried by the PMC article summarising McAdams et al. 2001 (secondary-carrier acceptance per E016/E070/K001 precedent). McAdams et al. 2001 PSPB original and McAdams 2001 RGP not opened (paywalled; edX-hosted McAdams & McLean 2013 PDF blocked by CDN robots).
+- Seed body's "stagnation" narrative structure dropped (no opened support); "not just a set of traits; it is a narrative" staging removed; example labelled (imagined). Related-concepts section grown from citing concept pages (Narrative identity, Narrative redemption sequences, Redemption sequences — all already cite SE011 back).
