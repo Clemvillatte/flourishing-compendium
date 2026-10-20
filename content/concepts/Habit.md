@@ -64,7 +64,7 @@ James's advice for education and habit aims at making "our nervous system our al
 [[A109 — Start moral education early]]
 [[B005 — Intention is karma]]
 [[ST335 — The Prince and the Beggar]]
-- - - - - - - - ## Cited in philosophy parallels
+## Cited in philosophy parallels
 
 - [[B088 — Every repetition is a vote (habit as karma)]]
 - [[B184 — Recognize habit energy]]
