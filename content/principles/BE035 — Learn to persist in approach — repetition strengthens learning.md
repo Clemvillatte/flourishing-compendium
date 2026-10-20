@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 35** — Learn to persist in approach: repetition strengthens learning
 
-A single exposure is a start; repetition is what consolidates the new learning. Repeated approach to feared situations, repeated engagement in valued activities, repeated practice of skills — repetition is what builds lasting change.
+Exposure therapy's account of why repetition matters is the inhibitory learning model: extinction does not erase the original fear association, it adds a second, competing meaning that has to be retrieved often enough to win.
 
-**Plain words** One exposure is a good start and a fragile one — repetition is what consolidates the learning. The fear needs to be disappointed repeatedly before it files the paperwork. Go back enough times that the new learning becomes the default.
+> "One powerful way to reduce conditional fear reactions is through extinction, in which the CS is repeatedly presented in the absence of the associated aversive event (the US)." (Craske et al., 2014)
 
-*For example:* The one successful speech that "proves nothing, fluke" — until the fifth one, when the mind quietly reclassifies it. Repetition is how evidence becomes belief.
+The model's premise: "Bouton and colleagues propose that after extinction, the CS possesses two meanings; its original excitatory meaning (CS-US) as well as an additional inhibitory meaning (CS-noUS)." One trial creates the competing meaning; repetition is what makes it retrievable when it counts.
+
+**Plain words** One exposure is a good start and a fragile one; repetition is what consolidates the learning. The fear needs to be disappointed repeatedly before it files the paperwork. Go back enough times that the new learning becomes the default.
+
+*For example* The one successful speech that "proves nothing, fluke" until the fifth one, when the mind quietly reclassifies it. Repetition is how evidence becomes belief.
+
+## Sources
+
+- [Craske, Treanor, Conway, Zbozinek & Vervliet, "Maximizing exposure therapy: An inhibitory learning approach", Behaviour Research and Therapy 58: 10-23, 2014 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/) — quotes checked against the opened article text
+
 ## Psychology parallels
 
-- **Repetition and extinction learning**, repeated exposure consolidates extinction (Craske et al., 2014; Foa et al., 2007)
-- **Spaced repetition is more effective than massed**, distributing practice over time improves learning (Cepeda et al., 2006; Donovan & Radosevich, 1999)
+- **Repetition and extinction learning**, extinction proceeds by repeated presentation of the feared stimulus without the feared event (Craske et al., 2014; Foa et al., 2007)
+- **Spaced versus massed repetition** (Cepeda et al., 2006; Donovan & Radosevich, 1999)
 
 ## Philosophy parallels
 

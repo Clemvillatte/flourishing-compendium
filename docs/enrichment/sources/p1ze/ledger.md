@@ -51,3 +51,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Inherited parallels: Martell et al. 2001 / Jacobson et al. 1996 / Dimidjian et al. 2011 assertions re-grounded in the opened source or kept as references.
 - Saturation: no depression-discussing concept mentioning withdrawal lacks the BE032 link; no new proposals.
 - QC: not a milestone item (item 7 of 30); validator pass vs pre-item baseline c9079142.
+
+## BE035 — persist in approach (repetition)
+- Source opened: Craske, Treanor, Conway, Zbozinek & Vervliet (2014), "Maximizing exposure therapy: An inhibitory learning approach", Behaviour Research and Therapy 58: 10-23 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/). NOTE: an earlier PMC ID guess (4157500) was a different article (ECMO/renal paper); the correct PMCID is 4114726, verified by PubMed record.
+- Quotes used: "One powerful way to reduce conditional fear reactions is through extinction, in which the CS is repeatedly presented in the absence of the associated aversive event (the US)." (Inhibitory Learning Model of Extinction section); "Bouton and colleagues propose that after extinction, the CS possesses two meanings; its original excitatory meaning (CS-US) as well as an additional inhibitory meaning (CS-noUS)." (dash-bearing sentence "not erased... develops – specifically" avoided to keep the dash budget).
+- Inherited parallels: Cepeda et al. 2006 / Donovan & Radosevich 1999 spaced-repetition claim reduced to bare reference; extinction claim re-grounded in the opened source.
+- Saturation: extinction-mentioning concepts without BE035 link (Kenosis; Reinforcement schedules (Ferster & Skinner)) not substantiable relationships; no proposals.
+- QC: not a milestone item (item 8 of 30); validator pass vs pre-item baseline f1c3e79d.
