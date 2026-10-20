@@ -12,20 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 480** — Practise critical distance
 
-Ricoeur names the tension this principle works with in "The Hermeneutical Function of Distanciation." Gadamer had rooted understanding in belonging; Ricoeur asks what distance contributes, and answers that treating the two as opposites produces an antinomy:
+In "The Hermeneutical Function of Distanciation," Ricoeur examines the opposition between alienating distanciation and belonging:
 
 > This opposition is an antinomy because it establishes an untenable alternative: on the one hand, alienating distanciation is the attitude that renders possible the objectification which reigns in the human sciences; but on the other hand, this distanciation, which is the condition of the scientific status of the sciences, is at the same time the fall that destroys the fundamental and primordial relation whereby we belong to and participate in the historical reality which we claim to construct as an object. (Ricoeur, "The Hermeneutical Function of Distanciation," in Hermeneutics and the Human Sciences, ed. and trans. John Thompson)
 
-His way out is to make distance productive rather than alienating. The text, he writes, is "much more than a particular case of intersubjective communication: it is the paradigm of distanciation in communication," and what the text testifies to is "the positive and productive function of distanciation at the heart of the historicity of human experience."
+He turns to the text to explore a productive function of distanciation:
 
-The compendium applies this to self-understanding: distance taken from your own tradition can serve the understanding of it, on the pattern Ricoeur describes for texts.
+> In my view, the text is much more than a particular case of intersubjective communication: it is the paradigm of distanciation in communication.
+
+He states the aim of this inquiry:
+
+> In what follows, I shall elaborate the notion of the text in view of that to which it testifies, the positive and productive function of distanciation at the heart of the historicity of human experience.
 
 (Ricoeur, 1975/1981, "The Hermeneutical Function of Distanciation," in Hermeneutics and the Human Sciences, Cambridge University Press.)
 
 **Plain words**
-You belong to your language, your culture, your era before you can think about them at all. Ricoeur argues that distance, used rightly, is what lets that belonging be understood instead of merely lived. The practice is to take up the distance deliberately: read your own tradition the way you would read a text from somewhere else, and notice what the reading shows.
+Ricoeur uses texts to explore how distance can contribute to understanding. The compendium borrows this idea as a writing exercise: describe a familiar custom for someone who does not share it. Ask which assumptions you need to explain.
 
-*For example:* Pick a custom you follow without thinking, such as how your family argues or how your workplace opens a meeting. Write it down as if describing it for a reader from another century. Then read your description and mark the parts that only make sense because of where you stand.
+*For example:* Write down how meetings begin at your workplace. Add a sentence explaining the purpose you assume that routine serves. Then write one question an unfamiliar reader might ask about your explanation.
 
 ## Sources
 

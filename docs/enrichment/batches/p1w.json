@@ -26,10 +26,11 @@
   "E025": "Reopened for QC: QC repair: H.139/H.140 locators are English running pages; page-image verified correct locators are H.105 (M&R pp. 139/140), §22 at H.102/M&R p. 135",
   "E006": "Reopened for QC: QC repair: advisor order — distinguish the epoché (methodological step) from the daily-life analogy; third paragraph extended the method to everyday situations",
   "E039": "Reopened for QC: advisor QC round 1 repairs (aphorism/staging/synthesis removed; Plain words + example replaced with labelled application)",
-  "E079": "Reopened for QC: advisor QC round 1 repairs (opening narrowed; second quote standalone; application paragraph removed; Plain words/example replaced)"
+  "E079": "Reopened for QC: advisor QC round 1 repairs (opening narrowed; second quote standalone; application paragraph removed; Plain words/example replaced)",
+  "E088": "Reopened for QC: advisor QC round 1 repairs (attribution narrowed; standalone blockquotes; application moved to labelled Plain words exercise)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:06:07+00:00",
+ "updated": "2026-10-20T08:07:41+00:00",
  "band_done": false
 }
