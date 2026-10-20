@@ -25,19 +25,19 @@
   "R110",
   "R119",
   "R127",
-  "S027",
   "S034",
   "S037",
   "S041",
   "S046",
   "S015"
  ],
- "in_progress": null,
+ "in_progress": "S027",
  "flagged": {
-  "S015": "QC repair verified: inherited generic prose removed; standalone exact quote; saturation completed; validator PASS."
+  "S015": "QC repair verified: inherited generic prose removed; standalone exact quote; saturation completed; validator PASS.",
+  "S027": "Reopened for QC: Standalone source quote and saturation check; remove inherited unsourced generalisations."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:15:11+00:00",
+ "updated": "2026-10-20T10:15:13+00:00",
  "band_done": false
 }
