@@ -251,3 +251,12 @@
   full text not extractable via fetch — listed as citation only, no content claims.
 - Hayes et al. 2020, Persons 2008, Flanagan kept as seed citation lines only.
 - ABC framing comes from the preserved seed line; no added mechanism claims.
+
+## Gentleness (praotes) (fast-track)
+- Opened: Internet Classics Archive NE Book IV (Ross translation) — calibration
+  sentence quoted verbatim; good-tempered man sentence; irascible/inirascible
+  extremes quoted as carried on the page.
+- Owner's Aristotle upload is Volume One only (no NE, per PRIMARY-SOURCES.md note);
+  MIT Classics Archive used as the Volume Two substitute the note directs.
+- NT meekness word-continuity claim removed (unverified in opened sources);
+  Meekness link kept bare.
