@@ -1,14 +1,15 @@
 {
  "batch": "p1z",
  "done": [
-  "BE023"
+  "BE023",
+  "AF069"
  ],
- "in_progress": "AF069",
+ "in_progress": null,
  "flagged": {
   "BE023": "Reopened for QC: advisor QC round 1: prose repairs required"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T06:49:36+00:00",
+ "updated": "2026-10-20T06:50:47+00:00",
  "band_done": false
 }
