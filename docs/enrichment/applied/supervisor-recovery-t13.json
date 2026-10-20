@@ -1,0 +1,32 @@
+{
+ "batch": "supervisor-recovery-t13",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "content/concepts/Emergence.md",
+   "link": "Creative evolution",
+   "why": "Bergson's 1907 account of life as genuinely new"
+  },
+  {
+   "into": "content/concepts/Flow.md",
+   "link": "Creative evolution",
+   "why": "Bergson's 1907 account of life as genuinely new"
+  },
+  {
+   "into": "content/concepts/Curiosity.md",
+   "link": "Creative evolution",
+   "why": "Bergson's 1907 account of life as genuinely new"
+  },
+  {
+   "into": "content/concepts/Growth mindset.md",
+   "link": "Creative evolution",
+   "why": "Bergson's 1907 account of life as genuinely new"
+  },
+  {
+   "into": "content/concepts/Broaden-and-build.md",
+   "link": "Creative evolution",
+   "why": "Bergson's 1907 account of life as genuinely new"
+  }
+ ],
+ "notes": "w1b legacy recovery tranche 13 (Creative evolution family). Original claim-bearing clauses unevidenced in the w1b ledger; neutral clause grounded in the concept page's own sourced opening (SEP, Henri Bergson). Creative advance + Art completes already linked (skipped). - supervisor-3ef4f549, 2026-10-20"
+}

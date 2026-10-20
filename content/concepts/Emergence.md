@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Emergence” — Morgan, Emergent Evolution.
 
+## Related concepts
+
+- [[Creative evolution]] — Bergson's 1907 account of life as genuinely new
+
 ## Sources
 
 - Morgan, Emergent Evolution
