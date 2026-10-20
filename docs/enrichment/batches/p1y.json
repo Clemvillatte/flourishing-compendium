@@ -17,14 +17,13 @@
   "AF003",
   "A027",
   "A031",
-  "A094",
   "A105",
   "A033",
   "A058",
   "A085",
   "A090"
  ],
- "in_progress": null,
+ "in_progress": "A094",
  "flagged": {
   "Y083": "Reopened for QC: QC correction round 2: add BG 6.10 citation to second sentence",
   "SO075": "Reopened for QC: QC correction round 2: remove clinical claims in example",
@@ -39,11 +38,11 @@
   "A058": "Reopened for QC: QC correction: final plain-language repairs",
   "A085": "Reopened for QC: QC correction: extend excerpt, neutral example",
   "A090": "Reopened for QC: QC correction: remove contemplation substitutes",
-  "A094": "Reopened for QC: QC correction: remove creed and proof/music claims",
+  "A094": "Reopened for QC: QC correction: remove invented textual uncertainty",
   "A105": "Reopened for QC: QC correction: restore source wording, replace example"
  },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T08:27:41+00:00",
+ "updated": "2026-10-20T08:27:47+00:00",
  "band_done": false
 }
