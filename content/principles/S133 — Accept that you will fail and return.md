@@ -12,13 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 255** — Accept that you will fail and return
 
-The Stoic does not expect perfection. Marcus tells himself to return to the practice without guilt when he drifts. The return is the practice. Drift is expected; the capacity to return is what matters.
+Marcus addresses the person who keeps falling out of the practice:
 
-(Med. II.1, V.9, VI.6, VI.21, X.1, XI.9, XI.18; Disc. III.25; Ench. 12.)
+> When thou hast been compelled by circumstances to be disturbed in a manner, quickly return to thyself, and do not continue out of tune longer than the compulsion lasts; for thou wilt have more mastery over the harmony by continually recurring to it.
 
-**Plain words** You will drift — everyone drifts, including Marcus. The practice isn't never falling; it's the return without the guilt spiral. Falling is an event; getting back up is a skill.
+(Marcus Aurelius, Meditations VI.11, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-*For example:* Someone who breaks their diet, skips the journal, loses two weeks — and, instead of declaring themselves a failure, just opens the notebook again on a Tuesday and writes one line.
+The sentence assumes the disturbance will come. Marcus does not ask whether you will be knocked out of tune, only how long you stay that way, and his answer is: no longer than the compulsion lasts. He stages the same move as waking from sleep elsewhere: return to thy sober senses and call thyself back, and treat the agitation that gripped you as a dream you have now seen through (Med. VI.31, Long). What is being trained is the return itself, not an unbroken run.
+
+**Plain words**
+The standard is not an unbroken streak. Everyone gets knocked out of the practice; the skill Marcus trains is the quick return, and it gets faster with use. Falling is an event; getting back up is a skill. When you notice you have drifted, shorten the time between noticing and returning, and skip the trial you were about to hold.
+
+*For example:* Imagine breaking a diet, skipping the journal, losing two weeks, and then simply opening the notebook again on a Tuesday and writing one line.
+
+## Sources
+
+- Marcus Aurelius, Meditations VI.11, VI.31 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion research]]** (Neff, 2003)
