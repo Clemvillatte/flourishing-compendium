@@ -13,7 +13,11 @@ Character strengths are the positive traits in the classification Christopher Pe
 
 ### The signature strengths exercise
 
-The intervention the compendium builds on asked participants to take the character strengths inventory online and receive individualized feedback about their top five. As the paper puts it: "They were then asked to use one of these top strengths in a new and different way every day for one week." In that study, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months.
+The intervention the compendium builds on asked participants to take the character strengths inventory online and receive individualized feedback about their top five.
+
+> "They were then asked to use one of these top strengths in a new and different way every day for one week." (Seligman, Steen, Park and Peterson, final-revision manuscript, April 2005, exercise description)
+
+In that study, using signature strengths in a new way was one of two exercises that increased happiness and decreased depressive symptoms for six months.
 
 ### In the compendium
 

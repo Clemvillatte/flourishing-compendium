@@ -20,7 +20,7 @@ The model ties the two facets to different self-attributions. Authentic pride fo
 - [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — trains the authentic form and warns off the hubristic
 - [[A025 — Practice proper pride (kaucha)]] — Aristotle's greatness-of-soul account of proper pride
 - [[SP060 — Build true self-esteem]] — authentic pride's correlate in the model
-- [[P104 — Perfect the process, not the product]] — the compendium's process-over-product principle
+- [[P104 — Perfect the process, not the product]]
 
 ## Related concepts
 

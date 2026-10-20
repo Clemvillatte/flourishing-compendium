@@ -7,7 +7,7 @@ file: "Care as practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Care as practice is the compendium's reading of Joan Tronto's account of care. Laurin and Martin reproduce the Fisher-Tronto definition from Moral Boundaries with its p. 103 locator: caring is a species activity covering everything people do to maintain, continue and repair their world. On that definition care is an activity with phases and standards, not a sentiment one has or lacks.
+Care as practice is the compendium's reading of Joan Tronto's account of care. Laurin and Martin reproduce the Fisher-Tronto definition from Moral Boundaries with its p. 103 locator: caring is a species activity covering everything people do to maintain, continue and repair their world.
 
 > "On the most general level, we suggest that caring be viewed as a species activity that includes everything that we do to maintain, continue, and repair our 'world' so that we can live in it as well as possible. That world includes our bodies, our selves, and our environment, all of which we seek to interweave in a complex, life-sustaining web." (Fisher and Tronto, in Tronto, Moral Boundaries, 1993, p. 103, quoted in Laurin and Martin, [Towards democratic institutions](https://pmc.ncbi.nlm.nih.gov/articles/PMC9667078/), Nursing Ethics, 2022)
 
@@ -19,13 +19,13 @@ For Tronto, good care has four elements: attention, responsibility, competence a
 
 - [[R069 — Practise care as a practice, not a feeling]] — the compendium's application of the activity-over-feeling reading
 - [[R027 — Practise manaakitanga]] — a care practice from the relational-philosophy track
-- [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]] — self-preoccupation as the performance blocker
+- [[P182 — Unclamp your machinery: self-preoccupation inhibits performance]]
 
 ## Related concepts
 
 - [[Care]] — the general concept this practice reading belongs to
 - [[Care ethics]] — the tradition Tronto's argument sits in
-- [[Cosmopolitan care]] — the cosmopolitan extension of care ethics
+- [[Cosmopolitan care]]
 
 ## Sources
 

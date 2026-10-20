@@ -30,9 +30,12 @@ Milestone round FAIL; repairs applied and re-validated: the "two moves are one
 move" aphoristic closer deleted; the McCracken-origin history claim, the
 "chronic-pain branch of the acceptance approach" framing and the
 effort-reallocation mechanism removed; the opening no longer paraphrases the
-quoted definition (construct-identification sentence instead); the predictive
+quoted definition (attribution sentence instead: Cook and colleagues reproduce
+the definition from McCracken and Vowles 2008, p. 216); the 'control agenda'
+sentence deleted (restated the definition in near-source wording); the predictive
 claim re-attributed per the advisor ("Cook and colleagues summarize earlier
 research reporting that pain acceptance predicts adjustment and functioning
 beyond the influences of other common predictors, including pain severity, over
-both the short and long term"). Quotes re-verified verbatim in a fresh
-extraction.
+both the short and long term"). Verification note (round 4): the re-extraction used a targeted locator prompt,
+not an independent unprompted inspection; the quotes stand on two consistent
+prompted extractions of the opened article.

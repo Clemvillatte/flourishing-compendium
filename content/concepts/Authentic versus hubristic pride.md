@@ -15,7 +15,7 @@ Tracy and Robins's two-facet model splits pride into two components with differe
 ### In the compendium
 
 - [[AF068 — Cultivate pride (authentic, not hubristic) — it consolidates achievement]] — uses the two-facet distinction directly
-- [[A025 — Practice proper pride (kaucha)]] and [[SP060 — Build true self-esteem]] — the deserved and worth-based readings sit on the authentic side
+- [[A025 — Practice proper pride (kaucha)]] and [[SP060 — Build true self-esteem]]
 - [[SP023 — Separate self-esteem from vanity and self-abasement]] — separates the worth-based reading from the vanity-based one
 
 ## Related concepts
