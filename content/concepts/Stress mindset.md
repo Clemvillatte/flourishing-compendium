@@ -7,7 +7,7 @@ file: "Stress mindset"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-A stress mindset is a person's standing belief about the nature of stress itself: either that stress enhances performance, health and growth, or that it debilitates them. Alia Crum, Peter Salovey and Shawn Achor introduced the construct in 2013 with an eight-item Stress Mindset Measure and three studies testing whether the belief is distinct from other stress variables and whether it changes outcomes.
+A stress mindset is a person's standing belief about the nature of stress itself: either that stress enhances performance, health and growth, or that it debilitates them. Alia Crum, Peter Salovey and Shawn Achor introduced the construct in 2013 with an eight-item Stress Mindset Measure and three studies testing whether the belief is distinct from other stress variables and whether it changes outcomes ([Crum, Salovey and Achor 2013](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf), JPSP 104(4)).
 
 > "In the context of stress, one's stress mindset can be conceptualized as the extent to which one holds the belief that stress has enhancing consequences for various stress-related outcomes such as performance and productivity, health and wellbeing, and learning and growth (referred to as a 'stress-is-enhancing mindset') or holds the belief that stress has debilitating consequences for those outcomes (referred to as a 'stress-is-debilitating mindset')." (Crum, Salovey and Achor, [Rethinking stress: the role of mindsets in determining the stress response](https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_salovey_anchor_2013_-_rethinking_stress.pdf), Journal of Personality and Social Psychology 104(4):716-733, 2013, article opening)
 
@@ -37,7 +37,6 @@ The paper draws two boundaries. Stress mindset is not appraisal: "Whereas apprai
 [[ST321 — Bonanno's Resilience]]
 ## Cited in philosophy parallels
 
-appraising demands as challenge improves outcomes (Crum et al., 2013).
 - [[B180 — Turn mishaps into the path (lojong)]]
 - [[P085 — Let obstruction do its work]]
 - [[A086 — Recognise that pain is not always bad]]
