@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 398** — Practise the epoché in daily life
 
-Apply the phenomenological suspension not only as a philosophical method but as a life practice. When you find yourself caught in assumptions, judgements, or automatic interpretations, suspend them. Ask: what am I assuming? What if I set that aside? What then appears?
+In Ideas I, the epoché suspends the natural attitude's general positing: the standing acceptance of the surrounding world as factually existing. The suspension is neither denial nor doubt. Husserl writes that in performing it he is "not negating this 'world' as though I were a sophist; I am not doubting its factual being as though I were a skeptic" (§32). The bracketed world remains "there for us," "on hand" (§32).
 
-(Husserl, 1913/1982, Ideas I, §§31-33; Husserl, 1954/1970, The Crisis, §§35-38.)
+> The general positing, by virtue of which there is not just any continual apprehensional consciousness of the real surrounding world, but a consciousness of it as a factually existing "actuality," naturally does not consist of a particular act, perchance an articulated judgment about existence. It is, after all, something that lasts continuously throughout the whole duration of the attitude, i.e., throughout natural waking life. (Husserl, Ideas I §31, Kersten trans., [full text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
 
-**Plain words** Apply the suspension as a life practice, not a philosophy seminar: when caught in assumptions, judgements, or automatic interpretations — suspend them. What am I assuming? What if I set that aside? What then appears? Run the three questions before the reaction.
+Because the positing runs through waking life rather than appearing as a judgment, the suspension can be practised anywhere a reaction is running. The compendium exercise is the bracketing at small scale: when an automatic interpretation catches you, put it out of action without denying or doubting it, and ask what then appears.
 
-*For example:* Someone receives the curt text and feels the whole evening curdle — then suspends: "I'm assuming she's angry. Setting that aside — the text is four words, sent at 6:50, from a woman who's usually driving at 6:50." The evening un-curdles.
+(Husserl, 1913/1982, Ideas I, §§31-32.)
+
+**Plain words**
+The thing you suspend is rarely a spoken belief. It is the background acceptance that keeps running while you are awake, and it colours what a text, a silence or a meeting seems to mean. The practice is to bracket one of those readings for a moment: not to declare it false, not to argue with it, just to set it out of action and look at what is left. What appears may confirm the reading or replace it; either way you see it as a reading.
+
+*For example:* Imagine a curt four-word text that arrives at 6:50 in the evening and reads as rejection. Bracket the reading: name it (she is angry), set it aside without deciding it is false, and re-describe the bare fact: four words, sent at a time she is usually driving. The rejection reading becomes one possibility among others instead of the whole story.
+
+## Sources
+
+- [Husserl, Ideas Pertaining to a Pure Phenomenology, First Book, Kersten translation, full-text PDF (finophd.eu)](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf) — §31 general positing as continuous through waking life; §32 epoché as non-negating, non-doubting suspension
 ## Practice kernels
 
 - [[K304 — Lived-body description|K304 Lived-body description]]
