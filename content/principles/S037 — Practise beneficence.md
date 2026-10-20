@@ -18,7 +18,7 @@ Seneca locates a benefit in the goodwill behind it, not in the money or object t
 
 For the giver, his warning is sharp: "It is a base usury to regard a benefit as an investment." ([On Benefits I.2, Aubrey Stewart translation](https://en.wikisource.org/wiki/On_Benefits/Book_I)) He does not, however, tell recipients to forget their obligations: he asks the giver to expect no return and the receiver to remember the kindness ([On Benefits I.4](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
 
-That asymmetry matters: grateful acceptance already returns goodwill, while a material kindness may still call for a material return when possible ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)). Seneca's account frees generosity from an enforced transaction without making gratitude an excuse never to reciprocate ([On Benefits I.2–4](https://en.wikisource.org/wiki/On_Benefits/Book_I)).
+That asymmetry matters: grateful acceptance already returns goodwill, while a material kindness may still call for a material return when possible ([On Benefits II.35](https://en.wikisource.org/wiki/On_Benefits/Book_II)). Here, the opening's freedom from debt should mean freedom from an enforceable loan, not an end to moral obligations: Seneca argues that legally compelled repayment destroys the free gratitude he values ([On Benefits III.7](https://en.wikisource.org/wiki/On_Benefits/Book_III)).
 
 **Plain words** A practical application: accept help without rushing to prove you never needed it. Later, look for a useful chance to help in return, rather than a way to announce that the account is closed.
 
@@ -42,6 +42,7 @@ That asymmetry matters: grateful acceptance already returns goodwill, while a ma
 
 - [Seneca, On Benefits I.1–7, translated by Aubrey Stewart, Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_I): exact quotation, goodwill and the giver/receiver asymmetry.
 - [Seneca, On Benefits II.35, translated by Aubrey Stewart, Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_II): goodwill returned in grateful acceptance and the remaining material obligation.
+- [Seneca, On Benefits III.7, translated by Aubrey Stewart, Wikisource](https://en.wikisource.org/wiki/On_Benefits/Book_III): distinction between a benefit and a legally enforceable loan.
 - [Aristotle, Nicomachean Ethics IV.1, translated by W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html): generosity and appropriate giving.
 - [Dunn, Aknin and Norton, Spending Money on Others Promotes Happiness (2008), PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/18356530/): original findings.
 - [Aknin and colleagues, Does Spending Money on Others Promote Happiness? (2020), Harvard author-page abstract](https://www.hbs.edu/faculty/Pages/item.aspx?num=58594): registered replications with task-dependent results.
