@@ -289,3 +289,21 @@ opened text at the recorded URL.
   (Emmons and King 1988) and philosophy parallels (Value pluralism; the
   unlinked "The moral philosopher and the moral life" entry) preserved
   untouched and NOT verified this session.
+
+## P053 — Play seriously (2026-10-20)
+
+- OPENED: John Dewey, Democracy and Education (1916), Project Gutenberg,
+  https://www.gutenberg.org/cache/epub/852/pg852.txt — chapter 15, "Play and
+  Work in the Curriculum" (raw text fetched and read in sections 1-3 and the
+  chapter summary).
+- Verified verbatim: all three blockquotes ("In their intrinsic meaning,
+  play and industry..."; "Persons who play are not just doing
+  something..."; "One has only to observe the countenance of children really
+  playing..."), exact to the Gutenberg text. The third quote is truncated at
+  the sentence's semicolon ("serious absorption; this attitude cannot be
+  maintained..."), ending at "serious absorption."
+- LOCATOR NOTES: this Gutenberg edition carries no printed-page markers, so
+  the locator is by chapter. The seed's "Schiller on the play drive." line
+  dropped: Schiller was not opened this session. Inherited psychology
+  parallel (Proyer 2011) and philosophy parallels (Schiller play drive; Art
+  as experience) preserved untouched and NOT verified this session.
