@@ -12,11 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 83** — Let practice structure the day
 
-The Gita closes its meditation chapter with the image of "the yogi, whose mind is subdued, always practicing"; the tradition reads this as rhythm rather than as hours: practice as the day's frame, not its interruption. Practically, anchor the day at both edges (first and last twenty minutes), and let the middle be practice in motion.
+The Gita's instruction to the meditator is constant: "constantly engaged in meditation with a controlled mind and body" ([BG 6.10](https://www.holy-bhagavad-gita.org/chapter/6/verse/10)). The compendium reads that constancy as structure rather than hours: practice as the day's frame, not its interruption. Anchor the day at both edges (first and last twenty minutes), and let the middle be practice in motion.
 
-(BG 6.10; BG 8.26-8.27 context, the paths of light and darkness as rhythm.)
+> Those who seek the state of Yog should reside in seclusion, constantly engaged in meditation with a controlled mind and body, getting rid of desires and possessions for enjoyment.
+>
+> Bhagavad Gita 6.10, translated by Swami Mukundananda, [Holy Bhagavad Gita](https://www.holy-bhagavad-gita.org/chapter/6/verse/10).
 
-**Plain words** "The yogi, whose mind is subdued, always practicing" — read as rhythm rather than hours: practice as the day's frame, not its interruption. Anchor the day at both edges: something deliberate at the start, something settling at the end.
+(BG 6.10.)
+
+### Plain words
+
+Look at where practice sits in your day. If it only happens when a slot happens to open, it competes with everything else and usually loses. The two edges of the day are nearly free: before the demands start, and after they stop. What you do in the middle matters less than keeping the frame.
 
 *For example:* The person who "has no time to practice" — and builds the two edges: ten minutes before the phone, five minutes of review before sleep. The middle of the day follows the frame the edges set.
 ## Psychology parallels
