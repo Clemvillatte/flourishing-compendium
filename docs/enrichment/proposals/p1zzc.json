@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -55,6 +55,18 @@
    "link": "SP031",
    "why": "Spinoza's definitions of anger and revenge",
    "notes": "SP031 (worker-p1zzc-de9b53): hub inspected via mention search (revenge), SP031 not present; grounded in the opened Elwes Ethics definitions; the Seneca framing is the hub's own sourced content."
+  },
+  {
+   "into": "Schadenfreude",
+   "link": "SP036",
+   "why": "Spinoza's disdain, the pleasure of thinking too little of someone, as a close relative of pleasure in another's misfortune",
+   "notes": "SP036 (worker-p1zzc-de9b53): hub inspected via mention search (contempt) and direct read (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P26 note."
+  },
+  {
+   "into": "Respect",
+   "link": "SP036",
+   "why": "Spinoza's veneration, wonder at a person's excellence regarded as far surpassing ourselves",
+   "notes": "SP036 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P52 note."
   }
  ]
 }
