@@ -35,12 +35,12 @@
   "Revaluation of all values",
   "Reinforcement schedules (Ferster & Skinner)",
   "Relational Developmental Systems Theory",
-  "Self-Completion Theory",
   "Self-overcoming",
   "Temporal dynamics of regulation",
   "Social capital theory Putnam",
   "Risk perception",
-  "Schadenfreude's relational costs"
+  "Schadenfreude's relational costs",
+  "Self-Completion Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -72,7 +72,7 @@
   "Relational Developmental Systems Theory": "Reopened for QC: QC acceptance round: unsupported introduction claim removed",
   "Revaluation of all values": "Reopened for QC: QC 5-item milestone repairs: full quote sentence restored, German label dropped, seed tail tidied",
   "Schadenfreude's relational costs": "Reopened for QC: QC round 3: sentence-level citations",
-  "Self-Completion Theory": "Reopened for QC: QC round 2: hollow-token contrast persists; recognition paragraph near-verbatim; blockquote locator",
+  "Self-Completion Theory": "Reopened for QC: QC round 3: sentence-level citations",
   "Self-overcoming": "Reopened for QC: QC round 2: not-but construction; speaker attribution; universal conclusion; inherited source line changed",
   "Social capital theory Putnam": "Reopened for QC: QC round 2 follow-up: blockquote attribution link",
   "Temporal dynamics of regulation": "Reopened for QC: QC round 2 follow-up: blockquote attribution link",
@@ -80,6 +80,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:12:35+00:00",
+ "updated": "2026-10-20T12:12:40+00:00",
  "band_done": false
 }
