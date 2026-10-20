@@ -200,3 +200,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: PubMed abstracts for Roediger & Karpicke 2006, Cepeda et al. 2006, Mawson & Kang 2025, quizzing meta-analysis (33683913), Rawson & Dunlosky 2011. Quotes verified verbatim.
 - Craik & Lockhart 1972 not opened; philosophy parallels (Cicero, Aristotle) not opened. Dropped the "I'm bad at names / method not capacity" claim (unsourced).
 - QC: self-QC only; validator pass.
+
+## CO060 — Reconsolidation
+- Sources opened: Nader 2000 abstract; Schiller 2010 abstract; Chalkia et al. 2020 verification report (PMC7115860); PMC3501228 abstract; PMC6880271 review excerpt. Quotes verified verbatim.
+- Substantive correction: the entry presents reconsolidation therapy as established; the flagship human result (Schiller 2010) is contested by a verification report and replication failures. Lab memories are shock-conditioned responses, not autobiographical events.
+- Lane 2015, Brunet 2018 not opened; Nietzsche/White & Epston/McAdams parallels not opened.
+- QC: self-QC only; validator pass.

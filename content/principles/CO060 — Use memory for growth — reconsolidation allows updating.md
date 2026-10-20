@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 60** — Use memory for growth: reconsolidation allows updating
 
-Because retrieved memories are labile (they become unstable when retrieved and are then re-stored), it is possible to update the emotional tone of a memory. This is the basis of reconsolidation-based therapies for trauma and anxiety.
+> Our data show that consolidated fear memories, when reactivated, return to a labile state that requires de novo protein synthesis for reconsolidation.
 
-**Plain words** Retrieved memories become unstable and are re-stored — which means the emotional tone of a memory can be updated. Reconsolidation: the basis of effective therapies for old wounds. The past is fixed; the memory of it is revisable. Revise on purpose.
+(Nader, Schafe and LeDoux, "Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval," Nature 406, 2000, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/10963596/). The work was done in rats, with a drug that blocks protein synthesis.)
 
-*For example:* The old failure that still stings — brought out carefully, in the right setting (with a skilled person, a new frame), and re-stored with context: "that was then, that skill has since been built." The event didn't change; the file did. That's reconsolidation.
+The human claim in the entry rests on Schiller and colleagues (2010). They reported that "old fear memories can be updated with non-fearful information provided during the reconsolidation window," with fear responses not expressed again for at least a year (Nature 463, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/20010606/)). The memories were laboratory conditioned responses to a cue paired with a shock, not life events.
+
+That result has been challenged. A verification report by Chalkia and colleagues found that the group differences "were dependent on the qualitative exclusions that they made," and that a re-analysis of the original sample "failed to confirm the differences in fear recovery." They concluded the 2010 findings are "unreliable and flawed" ([Cortex, via PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7115860/)). Other human experiments also found that a single reminder before extinction "did not prevent the return of extinguished fear responding" ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3501228/)). A review summarises the position: the effect "has not been universally observed," with replication failures in both rats and humans ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6880271/)).
+
+The claim that this is "the basis of effective therapies for old wounds" is therefore too strong. Lane et al. (2015) and Brunet et al. (2018), cited in the psychology section, were not opened. The narrative-therapy and Nietzsche links in the philosophy section are interpretive, not tested here.
+
+**Plain words** Lab work shows that a recalled fear memory briefly becomes changeable, and that this can be used to weaken it in animals. In humans the best-known result, using a reminder before extinction, has failed replication in several labs. Recalling a painful memory in a safer setting may still help, but this evidence does not show that a memory can be rewritten at will.
+
+*For example (imagined):* In therapy, someone recalls an old failure with support and adds what they have learned since. Whether the change comes from reconsolidation or from ordinary new learning is not settled by this research.
+
+## Sources
+
+- [Nader, Schafe & LeDoux (2000), Nature 406, 722-726](https://pubmed.ncbi.nlm.nih.gov/10963596/) — PubMed abstract opened
+- [Schiller et al. (2010), Nature 463, 49-53](https://pubmed.ncbi.nlm.nih.gov/20010606/) — PubMed abstract opened
+- [Chalkia, Van Oudenhove & Beckers (2020), Cortex 129, 510-525: verification report of Schiller et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC7115860/) — PMC abstract and introduction opened
+- [Fear-relevant and fear-irrelevant stimuli reconsolidation study (PMC3501228)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3501228/) — abstract opened
+- [Fear not: recent advances in understanding the neural basis of fear memories (PMC6880271)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6880271/) — review excerpt opened
+
 ## Psychology parallels
 
 - **[[Memory reconsolidation|Memory reconsolidation]]**, retrieving a memory makes it labile; new information during the reconsolidation window can alter the memory (Nader et al., 2000; Schiller et al., 2010)

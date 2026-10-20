@@ -28,7 +28,8 @@
   "CO037",
   "CO046",
   "CO048",
-  "CO056"
+  "CO056",
+  "CO060"
  ],
  "in_progress": null,
  "flagged": {
@@ -51,10 +52,11 @@
   "CO037": "Entry conflates FAE with actor-observer asymmetry (Malle 2006: no asymmetry); culture parallel narrowed; Ross 1977/Nisbett 2001 not opened",
   "CO046": "Parallel attributes brooding finding to Nolen-Hoeksema 2000, which is about rumination overall; Watkins 2011 small (n=42) no attention control",
   "CO048": "Avoidance theory contested (PMID 7993329, 12405523); D'Zurilla&Nezu 2007 not opened",
-  "CO056": "Craik&Lockhart 1972 not opened; 'bad at names' claim dropped"
+  "CO056": "Craik&Lockhart 1972 not opened; 'bad at names' claim dropped",
+  "CO060": "Overstated: Schiller 2010 contested (Chalkia 2020 verification report, replication failures); Lane 2015/Brunet 2018 not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:34:08+00:00",
+ "updated": "2026-10-20T10:34:37+00:00",
  "band_done": false
 }
