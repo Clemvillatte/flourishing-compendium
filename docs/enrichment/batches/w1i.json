@@ -1,9 +1,11 @@
 {
  "batch": "w1i",
- "done": [],
- "in_progress": "Shikantaza, just sitting",
+ "done": [
+  "Shikantaza, just sitting"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-20T06:21:13+00:00"
+ "updated": "2026-10-20T06:21:16+00:00"
 }
