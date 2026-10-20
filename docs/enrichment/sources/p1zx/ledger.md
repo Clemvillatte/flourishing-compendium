@@ -19,3 +19,10 @@ Opened: Frankl, Man's Search for Meaning, Beacon Press edition, full-text OCR at
 - p.167 "No instinct tells him ... what he wants to do.": verbatim. Tradition-loss framing is Frankl's own, so the old "culture offers pleasure and power" line was reworded to what he says.
 - p.154 French poll (89%, 61%) and Vienna repeat: reported as Frankl's own report; no independent check of the poll.
 - Dropped inherited locators Frankl 1969 and 1946/2006 (not opened). Inherited psychology parallels untouched and not certified.
+
+## E110 — Practise life affirmation
+
+Opened (Project Gutenberg plain text): Joyful Wisdom (Common trans., #52881), Twilight of the Idols (Ludovici, #52263), Ecce Homo (Cohn, #52190). Quotes machine-checked.
+- GS §276 and §324 verbatim (Common). TI "What I Owe to the Ancients" §5 "saying of Yea to life ... inexhaustibleness": verbatim (Ludovici spelling). EH "Why I Am So Clever" §10 (Cohn): "formula for greatness in man", "a man wishes nothing to be different ... for all eternity", "loved": verbatim (Gutenberg OCR prints "is! amor fati"; not quoted).
+- Removed inherited unsupported claim "affirmation is the highest form of the will to power" (not found in the passages opened; Will to power link kept, with an explicit note that the passages do not state the connection). Dropped locators GS §321 (the Common text at 321 is about punishing/blaming, not affirmation) and Zarathustra songs (not opened).
+- Diener et al. parallel untouched, not certified.
