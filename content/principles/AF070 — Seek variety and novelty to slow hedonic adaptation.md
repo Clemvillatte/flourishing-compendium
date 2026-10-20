@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 70** — Seek variety and novelty to slow hedonic adaptation
 
-Adaptation is faster for repeated, identical experiences than for varied ones. This is why the same pleasure loses its power and why variety — new experiences, new people, new challenges — sustains positive affect longer.
+Sheldon and Lyubomirsky's hedonic adaptation prevention (HAP) model proposes that continued variety in the experiences flowing from a positive life change can help preserve the change's well-being gains. The model gives adaptation two routes: the positive emotions the change generates decline, and aspirations rise toward wanting even more. In the authors' 3-month three-wave longitudinal study of 481 students, greater reported variety was associated with stronger positive emotions.
 
-**Plain words** Adaptation is faster for repeated identical experiences than varied ones — the same pleasure loses power; variety sustains positive affect longer. Seek novelty deliberately: new routes, new people, new challenges. It's not fickleness; it's maintenance.
+The mechanism the model rests on:
 
-*For example:* The same Saturday routine — café, errands, screen — that has worn smooth and invisible — versus the month someone injects one new thing per weekend. The positive affect from the novel Saturdays outlasts the comfortable ones by weeks.
+> "By definition, adaptation occurs only in response to constant or repeated stimuli, not to dynamically varying ones." (Sheldon & Lyubomirsky, 2012 — [The Challenge of Staying Happier](https://greatergood.berkeley.edu/images/uploads/The_Challenge_of_Staying_Happier.pdf) — p. 672)
+
+One predicted moderation effect was not supported in the results; variety instead showed a main-effect association with positive emotions (β = .44), and positive emotions related more strongly to global well-being when the change-related experiences were reportedly characterized by variety.
+
+**Plain words**
+Start with something you already enjoy. Ask which parts of the experience have become predictable, then try changing one detail and notice whether your enjoyment changes.
+
+**For example**
+As an imagined application, someone who usually cooks the same weekend meal tries a different recipe using ingredients they already have.
+
+## Sources
+
+- [Sheldon & Lyubomirsky 2012, The Challenge of Staying Happier: Testing the Hedonic Adaptation Prevention Model, Personality and Social Psychology Bulletin 38(5):670-680, full text](https://greatergood.berkeley.edu/images/uploads/The_Challenge_of_Staying_Happier.pdf) — the two erosion routes, the constant-stimuli mechanism sentence (p. 672), and the variety findings in the Results.
+
 ## Psychology parallels
 
-- **Variety slows hedonic adaptation**, varied experiences maintain positive affect longer than repeated identical ones (Sheldon & Lyubomirsky, 2012)
-- **Neophilia is associated with sustained well-being**, openness to new experiences predicts sustained positive affect (Chamberland et al., 2013)
+- **Variety in the HAP model**, the model proposes continued variety in change-related experiences as a moderator of adaptation; in the study, greater reported variety was associated with stronger positive emotions (Sheldon & Lyubomirsky, 2012)
 
 ## Philosophy parallels
 
@@ -29,4 +41,4 @@ Adaptation is faster for repeated, identical experiences than for varied ones. T
 
 ## Practice
 
-- When you notice a pleasure fading, vary it. New route, new recipe, new person, new challenge. Do not conclude "nothing brings me joy" when the real issue is adaptation.
+- When you notice a pleasure fading, vary it. New route, new recipe, new person, new challenge.

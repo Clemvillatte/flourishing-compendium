@@ -1,12 +1,18 @@
 {
  "batch": "p1zr",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Capacity to be alone (Winnicott)",
    "link": "AF058",
    "why": "A principle about responding to loneliness, listed for comparison",
    "notes": "Round-2 advisor QC: neutral descriptive clause per advisor instruction. Target page does not currently cite AF058."
+  },
+  {
+   "into": "Hedonic adaptation",
+   "link": "AF070",
+   "why": "The principle naming the tested variety moderator of adaptation, listed alongside the forecasting and treadmill principles",
+   "notes": "AF070 body now grounds in Sheldon & Lyubomirsky 2012 (opened full text); target page cites AF007/AF069 but not AF070."
   }
  ],
  "inline": [],
