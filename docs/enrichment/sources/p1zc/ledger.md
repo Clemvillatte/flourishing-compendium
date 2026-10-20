@@ -271,3 +271,14 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   source-checked — flagged, not certified. Saturation: 5 concept pages already cite
   SE071 (incl. The shattered self); no additional links warranted. Validator ok.
   DONE (no advisor QC due: item 14).
+
+## SE076 — Recognise clinical self-symptoms (item 15, halfway)
+- Source opened: WHO depression fact sheet (who.int) — fetched; the depressive-episode
+  symptom passage verified verbatim against the opened page (incl. "feelings of
+  excessive guilt or low self-worth").
+- Body: added the WHO symptom-list blockquote + a clinical-first-question sentence.
+  Plain words (already a genuine re-derivation) and For example kept; the
+  seek-evaluation advice is appropriate for this clinical item and kept.
+- Inherited parallels (APA 2022; Linehan 1993; Young et al. 2003) NOT source-checked —
+  flagged, not certified. Saturation: 5 concept pages already cite SE076; no additional
+  links warranted. Validator ok. DONE (no advisor QC due: item 15; next at item 16).
