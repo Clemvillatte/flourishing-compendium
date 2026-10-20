@@ -36,11 +36,12 @@ The evidence is correlational throughout, and the measure captures perceived res
 
 ## Related concepts
 
+
 - [[Capitalization]] — the sharing process this response completes; the compendium's stub page carries the same anchor study
 - [[Mudita (sympathetic joy)]] — the Buddhist brahmavihara of joy in another's good fortune, the cross-tradition home of the same stance
 - [[Perceived partner responsiveness]] — the broader construct of the same research program; the paper's effects run through perceived responsiveness
 - [[Savoring]] — Bryant's construct for deliberately attending to positive experience; the paper cites its savoring precursor in the same introduction
-
+- [[PP030]] — the principle that operationalises this response for good news: enthusiastic engagement, questions and celebration
 ## Sources
 
 - [Gable, Reis, Impett and Asher, 2004](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/GableReisImpettAsher_2004.pdf)

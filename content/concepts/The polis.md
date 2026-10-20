@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **as constitutive** — Aristotle, Politics I.2
 
+## Related concepts
+
+- [[K067]] — listed for comparison: Aristotle's polis as the constitutive community beside K067's Tanabean mediation of the individual through sociopolitical identity.
+
 ## Sources
 
 - Aristotle, Politics

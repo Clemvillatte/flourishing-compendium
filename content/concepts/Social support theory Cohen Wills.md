@@ -17,6 +17,10 @@ Cohen and Wills's account distinguishes two proposed relationships between socia
 
 Cohen reports that the review found buffering patterns when studies measured perceived availability of support, and main effects when they measured numbers of social relationships ([1992 retrospective](https://garfield.library.upenn.edu/classics1992/A1992JA16900001.pdf)). He interprets these measurement differences as reflecting different social and psychological processes ([same retrospective](https://garfield.library.upenn.edu/classics1992/A1992JA16900001.pdf)).
 
+## Related concepts
+
+- [[BI050]] — experiments that placed physical warmth in the same prepared-safety category as supportive others
+
 ## Sources
 
 - [Sheldon Cohen, “Social Support, Stress, and Health” (1992)](https://garfield.library.upenn.edu/classics1992/A1992JA16900001.pdf): author's retrospective on Cohen and Wills, “Stress, Social Support, and the Buffering Hypothesis” (1985).

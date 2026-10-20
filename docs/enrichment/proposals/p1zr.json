@@ -9,58 +9,16 @@
    "notes": "Round-2 advisor QC: neutral descriptive clause per advisor instruction. Target page does not currently cite AF058."
   },
   {
-   "into": "Hedonic adaptation",
-   "link": "AF070",
-   "why": "The principle naming the tested variety moderator of adaptation, listed alongside the forecasting and treadmill principles",
-   "notes": "AF070 body now grounds in Sheldon & Lyubomirsky 2012 (opened full text); target page cites AF007/AF069 but not AF070."
-  },
-  {
-   "into": "Social attention",
-   "link": "AT009",
-   "why": "The principle stating that gaze both steers and couples attention between people, listed alongside the social-media attention principle",
-   "notes": "AT009 body grounds in Friesen & Kingstone 1998 (opened full text) and Richardson et al. 2007 (opened abstract); Social attention page cites AT062 only."
-  },
-  {
    "into": "Attentional control training and the role of repeated redirection",
    "link": "AT019",
    "why": "The principle naming the notice-and-return cycle that focused-attention training practises",
    "notes": "AT019 body grounds in Hasenkamp et al. 2012 (opened PubMed abstract); concept page does not currently cite AT019."
   },
   {
-   "into": "Chronobiology",
-   "link": "AT028",
-   "why": "The principle applying time-of-day and chronotype variation to scheduling attentionally demanding work",
-   "notes": "AT028 body grounds in Schmidt et al. 2007 (opened full text); Chronobiology page cites the same review but not AT028."
-  },
-  {
-   "into": "Incubation",
-   "link": "AT036",
-   "why": "The principle applying incubation findings to deliberate breaks and low-demand filler during problem solving",
-   "notes": "AT036 body grounds in Sio & Ormerod 2009 (opened ERIC abstract) with the Baird 2012 failed-replication caveat (FLoRA record opened); Incubation concept page does not currently cite AT036."
-  },
-  {
-   "into": "Cognitive flexibility",
-   "link": "AT052",
-   "why": "The principle applying Diamond's executive-functions account of cognitive flexibility to shifting and adapting attention",
-   "notes": "AT052 body grounds in Diamond 2013 (opened university-hosted full text, printed p. 149 quote verified by page render); Cognitive flexibility concept page currently links only to Attentional flexibility (set-shifting) and does not cite AT052. QC round 2 (item-10 milestone) caught the earlier saturation overstatement."
-  },
-  {
-   "into": "Mind wandering",
-   "link": "AT068",
-   "why": "The principle protecting attentional time, grounded in the same Killingsworth and Gilbert study the concept page cites",
-   "notes": "AT068 body grounds in K&G 2010 (opened Greater Good full-text PDF); Mind wandering concept page cites K&G and links AT035/AT034 but not AT068."
-  },
-  {
    "into": "Exposure therapy (Foa, Craske)",
    "link": "BE030",
    "why": "A principle examining safety behaviours during exposure",
    "notes": "Advisor round 1: neutral descriptive clause; Experiential avoidance theory proposal withdrawn (relationship to the Hayes construct not established by opened sources)."
-  },
-  {
-   "into": "Heart-rate-variability biofeedback",
-   "link": "BE046",
-   "why": "A principle discussing slow breathing as an emotion-regulation practice",
-   "notes": "Milestone QC: narrowed per advisor (no implication that the procedure trains posture)."
   },
   {
    "into": "Exposure therapy (Foa, Craske)",
@@ -70,5 +28,5 @@
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 1 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline"
 }

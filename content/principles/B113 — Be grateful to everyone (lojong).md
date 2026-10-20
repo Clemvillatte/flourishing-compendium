@@ -27,6 +27,10 @@ Think of a recent difficult exchange. Write down what was asked of you and how y
 
 *For example:* Imagine a freelancer declining an unreasonable deadline. Later, they consider how they handled the exchange and what they would do differently.
 
+## Related concepts
+
+- [[K034]] — listed for comparison: the same thirteenth lojong slogan, treated through Shantideva's patience argument on B113 and through Trungpa's obstacles-as-material commentary on K034.
+
 ## Sources
 
 - [Train Your Mind: The 59 Lojong Slogans, Tricycle](https://tricycle.org/article/lojong-slogans/) — slogan 13, "Be grateful to everyone"

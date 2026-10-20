@@ -16,3 +16,8 @@ Biophysiological · Psychological science
 [[BI004 — Understand the stress response — cortisol, adrenaline, and the HPA axis]]
 [[AF003 — Learn the structure of your affect — valence and arousal]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[BI044]] — possible symptoms associated with stress

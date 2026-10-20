@@ -11,8 +11,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Being and beings]] — Sartre's account of being-seen, which E036 takes up
 
+
+- [[Being and beings]] — Sartre's account of being-seen, which E036 takes up
+- [[E035]] — sets out Sartre's keyhole example and his account of shame before the Other
+- [[E067]] — reports Sartre's claim that being looked at is a bond of being, not knowing
 ## Sources
 
 - Sartre, Being and Nothingness

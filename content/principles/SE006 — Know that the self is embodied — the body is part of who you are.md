@@ -42,3 +42,8 @@ You are not a mind renting a body. When the body is tired or hurt, it is you who
 ## Practice
 
 - Include your body in your sense of self. Care for it (sleep, nutrition, movement) not as maintenance of a machine but as care of the self. Notice how body state affects self-perception.
+
+
+## Related concepts
+
+- [[K021]] — listed for comparison: James's body as the innermost part of the material self beside Nishida's historical body as co-creator of the world, two accounts of the body belonging to the self.

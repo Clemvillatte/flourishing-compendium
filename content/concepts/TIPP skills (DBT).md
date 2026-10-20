@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 temperature, intense exercise, paced breathing, paired muscle relaxation (Linehan, 1993).
 
+## Related concepts
+
+- [[BI048]] — the TIP temperature-skill instructions and cautions that this page cites
+
 ## Sources
 
 - Linehan, 1993

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Resoluteness (Entschlossenheit)” — Heidegger, Being and Time.
 
+## Related concepts
+
+- [[E045]] — covers the readiness to be appealed to by conscience
+
 ## Sources
 
 - Heidegger, Being and Time

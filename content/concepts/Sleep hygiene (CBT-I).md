@@ -22,10 +22,12 @@ BE038 and BI015 (Learn sleep hygiene) and BE039 and BI016 (Learn CBT-I) are the 
 ## Related concepts
 
 
+
 - [[Sabbath]] — the weekly rhythm the sleep clinic prescribes daily
 - [[Sleep architecture (Walker)]] — listed for comparison
 - [[Sleep deprivation]] — listed for comparison
 - [[BI020]] — guidance on nap length and timing
+- [[BI039]] — the not-before-bed alcohol rule this principle teaches is one of the practices the insomnia guideline on that page lists
 ## Sources
 
 - [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia (2008), "Clinical Guideline for the Evaluation and Management of Chronic Insomnia in Adults", Journal of Clinical Sleep Medicine (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — definition, practices, recommendation

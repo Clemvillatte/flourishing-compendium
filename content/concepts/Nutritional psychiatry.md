@@ -12,8 +12,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[BE042]] — listed for comparison
 - [[BI035]] — the diet-depression association this principle summarises is one of the field's core observational findings
+- [[BI038]] — randomised-trial evidence that a breakfast's glycaemic index tracks later mood ratings
 ## Sources
 
 - Sarris et al., 2015

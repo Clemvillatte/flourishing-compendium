@@ -9,83 +9,12 @@
    "notes": "Evidence in sources/p1zs/BI035.md (target page read)."
   },
   {
-   "into": "Exercise neurobiology theory",
-   "link": "BI023",
-   "why": "associational evidence that more active people have lower odds of developing depression",
-   "notes": "Evidence in sources/p1zs/BI023.md (Schuch 2018 + Rebar 2015 abstracts opened; target page read)."
-  },
-  {
-   "into": "Green exercise (Barton, Pretty)",
-   "link": "BI023",
-   "why": "the association between physical activity and lower depression risk, with outdoor activity as one studied form",
-   "notes": "Evidence in sources/p1zs/BI023.md (target page read)."
-  },
-  {
-   "into": "Nature exposure",
-   "link": "BI027",
-   "why": "pooled-analysis evidence on outdoor activity and mood",
-   "notes": "Evidence in sources/p1zs/BI027.md (Barton & Pretty 2010 opened; Nature exposure page read, covers Bratman 2015 but does not cite BI027)."
-  },
-  {
-   "into": "Nutritional psychiatry",
-   "link": "BI035",
-   "why": "dietary-pattern evidence about depressive symptoms",
-   "notes": "Evidence in sources/p1zs/BI035.md (Akbaraly 2009 + Wang 2019 abstracts opened; target page read)."
-  },
-  {
    "into": "Food as medicine",
    "link": "BI035",
    "why": "observational evidence that eating patterns differ between people with and without depressive symptoms",
    "notes": "Evidence in sources/p1zs/BI035.md (target page read)."
-  },
-  {
-   "into": "Nutritional psychiatry",
-   "link": "BI038",
-   "why": "randomised-trial evidence that a breakfast's glycaemic index tracks later mood ratings",
-   "notes": "Evidence in sources/p1zs/BI038.md (Micha et al. 2011 opened and raw-verified; target page read earlier this session)."
-  },
-  {
-   "into": "Sleep hygiene (CBT-I)",
-   "link": "BI039",
-   "why": "the not-before-bed alcohol rule this principle teaches is one of the practices the insomnia guideline on that page lists",
-   "notes": "Evidence in sources/p1zs/BI039.md (Ebrahim 2013 opened; target page read: Schutte-Rodin guideline quoted there includes avoiding alcohol before bedtime)."
-  },
-  {
-   "into": "Stress response (Lupien, McEwen)",
-   "link": "BI044",
-   "why": "possible symptoms associated with stress, next to the physiology of the response",
-   "notes": "Evidence in sources/p1zs/BI044.md (McEwen 2007 opened; target page read, quotes the same McEwen abstract, does not yet cite BI044)."
-  },
-  {
-   "into": "HPA axis theory stress",
-   "link": "BI044",
-   "why": "possible symptoms associated with stress",
-   "notes": "Evidence in sources/p1zs/BI044.md (Mayo Clinic + McEwen 2007 opened; target page read)."
-  },
-  {
-   "into": "TIPP skills (DBT)",
-   "link": "BI048",
-   "why": "the TIP temperature-skill instructions and cautions that this page cites",
-   "notes": "Evidence in sources/p1zs/BI048.md (Foster & Sheel 2005 opened; target page read, one-line seed citing Linehan 1993)."
-  },
-  {
-   "into": "Parasympathetic activation",
-   "link": "BI048",
-   "why": "cold-water facial technique used in distress-tolerance training",
-   "notes": "Evidence in sources/p1zs/BI048.md (Linehan handout opened via the Wesleyan CAPS copy: instructions and cautions; Foster & Sheel 2005 opened for the diving-response physiology)."
-  },
-  {
-   "into": "Social support theory Cohen Wills",
-   "link": "BI050",
-   "why": "experiments that placed physical warmth in the same prepared-safety category as supportive others",
-   "notes": "Evidence in sources/p1zs/BI050.md (Hornstein et al. 2022 opened; target page read)."
-  },
-  {
-   "into": "Heart rate variability theory",
-   "link": "BI062",
-   "why": "the tracking practice built on the HRV marker, with the device-limitation evidence",
-   "notes": "Evidence in sources/p1zs/BI062.md (Thayer 2012, Laborde 2017, Chinoy 2021 opened; target page read)."
   }
  ],
- "inline": []
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 2 recip, 0 inline"
 }

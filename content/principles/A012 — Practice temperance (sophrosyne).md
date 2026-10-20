@@ -26,6 +26,10 @@ Temperance is therefore a trained capacity to enjoy pleasures in the right way, 
 
 *For example:* Having two squares of dark chocolate and actually tasting them, rather than finishing the bar while scrolling, is a small piece of temperance.
 
+## Related concepts
+
+- [[A083]] — offers a comparison with Aristotle's account of contemplative pleasure
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics III, Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — III.10 definition of the mean, III.11 insensibility passage, III.12 harmony of appetite and reason

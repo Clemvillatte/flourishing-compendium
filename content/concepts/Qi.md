@@ -23,6 +23,10 @@ Note on evidence: the metaphysical claims of qi theory are not the same as the e
 
 For flourishing, the concept's value is as a reminder that vitality is something cultivated through practice rather than a fixed endowment — that rest, breath, movement, and nourishment are not optional extras but the medium of a functioning life. Concretely: treat breathing as something that can be practised; treat energy as something that can be depleted by over-exertion and restored by rest, rather than as an infinite reserve; and treat the body as a system whose balance must be continually maintained rather than a machine that either works or does not.
 
+## Related concepts
+
+- [[Feng shui (harmonious environment)]] — feng shui is the Chinese practice of selecting and orienting buildings and graves according to beliefs about qi
+
 ## Sources
 
 - [Fabrizio Musacchio — Daoism: The Chinese philosophy of the Way](https://www.fabriziomusacchio.com/weekend_stories/told/2025/2025-01-02-daoism/)

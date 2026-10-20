@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The they (das Man)” — Heidegger, Being and Time.
 
+## Related concepts
+
+- [[E045]] — Heidegger describes the call of conscience as addressed to the they-self
+
 ## Sources
 
 - Heidegger, Being and Time

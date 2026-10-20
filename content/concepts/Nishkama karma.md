@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Nishkama karma” — Vivekananda's Karma Yoga, modern; the Gita's own term.
 
+## Related concepts
+
+- [[Karma]] — desireless action is the Gita's own refinement of karma
+
 ## Sources
 
 - Vivekananda's Karma Yoga, modern

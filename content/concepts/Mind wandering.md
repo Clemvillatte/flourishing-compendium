@@ -75,11 +75,13 @@ The same scans showed stronger coupling in the meditators between control-relate
 ## Related concepts
 
 
+
 - [[Default mode network]] — the brain systems whose activity the wandering is associated with in the cited research
 - [[Meta-awareness]] — the noticing that catches the drift
 - [[Present-moment awareness theory]] — the target state the drift departs from
 - [[Mental time travel]] — one of the places the wandering goes
 - [[Rumination]] — listed for comparison
+- [[AT068]] — The principle protecting attentional time, grounded in the same Killingsworth and Gilbert study the concept page cites
 ## Cited in psychology parallels
 
 - [[E029 — Practise curiosity (Neugier)]]

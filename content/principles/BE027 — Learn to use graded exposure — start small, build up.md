@@ -24,6 +24,10 @@ One approach: build a ladder of feared situations and climb it from the bottom, 
 **For example**
 Imagine someone with social anxiety building a hierarchy: coffee with one friend, then a small gathering, then the work party.
 
+## Related concepts
+
+- [[K049]] — listed for comparison: two examples of stepwise training in different contexts, the clinical graded-exposure staircase (BE027) and the lamrim's graduated path (K049).
+
 ## Sources
 
 - [National Center for PTSD, Prolonged Exposure (PE) for PTSD (VA.gov)](https://www.ptsd.va.gov/understand_tx/prolonged_exposure.asp) — PE works by gradual, step-by-step confrontation of avoided situations; homework begins with manageable activities and works up to more challenging ones ("Will I have homework?" section). Quoted passage verbatim.

@@ -19,8 +19,9 @@ Larimer, Palmer and Marlatt describe an imagery exercise for clients in relapse 
 
 ## Related concepts
 
-- [[Acceptance]] — A012 files urge surfing under acceptance-based regulation
 
+- [[Acceptance]] — A012 files urge surfing under acceptance-based regulation
+- [[K059]] — listed for comparison: the relapse-prevention exercise of watching a craving crest and decline like a wave beside Tilopa's instruction to let thoughts arise and subside on their own, like ripples on water.
 ## Sources
 
 - [Larimer, Palmer & Marlatt, "Relapse Prevention: An Overview of Marlatt's Cognitive-Behavioral Model" (1999), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) — the urge-surfing passage, verbatim.

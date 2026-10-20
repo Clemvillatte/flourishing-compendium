@@ -31,12 +31,14 @@ Its calm siblings are [[Equanimity]] and the Daoist [[Wu wei]].
 
 
 
+
 - [[Amor sui (right self-love)]] — self-love of one's own power of acting (cross-tradition comparison)
 - [[Eternal recurrence]] — amor fati's test is the thought experiment of eternal recurrence
 - [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
 - [[Joy]] — Nietzsche’s New Year aphorism (GS 276) states the affirmation the amor fati concept names
 - [[Premeditatio malorum]] — listed for comparison
 - [[Will to power]] — listed for comparison
+- [[K032]] — listed for comparison: the embrace of one's fate beside K032's instruction to transform mishaps into the path of practice.
 ## Sources
 
 - Nietzsche, Ecce Homo

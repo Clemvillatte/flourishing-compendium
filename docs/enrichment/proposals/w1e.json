@@ -1,24 +1,12 @@
 {
  "reciprocal": [
   {
-   "into": "Recognition",
-   "link": "Cultural recognition",
-   "why": "Taylor's politics of recognition applies this account to cultural identities",
-   "notes": "w1e fast-track Cultural recognition: obviously missing reciprocal, target has no backlink (checked 2026-10-20)"
-  },
-  {
    "into": "Cultural psychology",
    "link": "Cultural relativism",
    "why": "questions about cultural variation in customs and moral outlooks",
    "notes": "w1e fast-track Cultural relativism: obviously missing reciprocal, target has no backlink (checked 2026-10-20)"
-  },
-  {
-   "into": "Choice architecture",
-   "link": "Designing the environment for virtue",
-   "why": "the Aristotelian ancestor of arranging options so good acts get repeated",
-   "notes": "w1e fast-track Designing the environment for virtue: obviously missing reciprocal, target has no backlink (checked 2026-10-20)"
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 3 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 3 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

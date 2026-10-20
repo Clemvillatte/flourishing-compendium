@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 cognitive performance varies reliably with time of day and chronotype (Schmidt et al., 2007).
 
+## Related concepts
+
+- [[AT028]] — The principle applying time-of-day and chronotype variation to scheduling attentionally demanding work
+
 ## Sources
 
 - Schmidt et al., 2007

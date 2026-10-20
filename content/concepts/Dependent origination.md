@@ -22,10 +22,12 @@ The same sutta also describes the cessation of suffering: "That is how this enti
 ## Related concepts
 
 
+
 - [[Buddhist emptiness of inherent nature]]
 - [[Right view]]
 - [[Shunyata]]
 - [[Interbeing]] — Nhat Hanh's coined word renders dependent co-arising in everyday verbs
+- [[Karma]] — karma is the intentional-action strand inside dependent origination
 ## Sources
 
 - [SN 12.1, Paṭiccasamuppādasutta, tr. Bhikkhu Sujato (SuttaCentral)](https://suttacentral.net/sn12.1/en/sujato) — the twelve-link chain and the cessation formula

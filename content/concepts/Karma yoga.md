@@ -17,6 +17,10 @@ The discipline of action taught in the Bhagavad Gita: act fully, give up attachm
 
 Chapter III of Arnold's translation urges the reader to perform the allotted task and describes work as preferable to idleness. In this reading, giving up attachment to reward accompanies continuing to do the work.
 
+## Related concepts
+
+- [[Karma]] — the Gita's discipline names action itself, the topic karma covers
+
 ## Sources
 - [The Song Celestial (Bhagavad Gita), Arnold translation, Project Gutenberg](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — Chapters II and III
 - Wikipedia Karma yoga: https://en.wikipedia.org/wiki/Karma_yoga

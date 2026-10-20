@@ -25,12 +25,14 @@ The internalized audience of the game gets its name later in the book: "the give
 ## Related concepts
 
 
+
 - [[Fusion of horizons]] — Mead's social version of entering another's perspective
 - [[The looking-glass self]] — Cooley's neighboring account of the social self
 - [[K131 — Perspective-taking]] — the modern experimental study of the same perspective shift
 - [[I and Thou]] — Buber's dialogical account of the meeting with the other
 - [[Self as process]] — the self this mechanism builds, read as process rather than thing
 - [[The social self]] — the mechanism this page builds on
+- [[K046]] — listed for comparison: the sociological account of role-taking beside K046's contemplative exchange drill.
 ## Sources
 
 - Mead, Mind, Self and Society

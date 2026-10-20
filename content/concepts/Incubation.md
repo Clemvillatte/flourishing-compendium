@@ -12,6 +12,10 @@ stepping away from analytical effort precedes insight (Kounios and Beeman, 2014)
 - Baird et al., 2012
 - Sio & Ormerod, 2009
 - Henri Poincaré, Science and Method
+## Related concepts
+
+- [[AT036]] — The principle applying incubation findings to deliberate breaks and low-demand filler during problem solving
+
 ## Sources
 
 - Kounios and Beeman, 2014

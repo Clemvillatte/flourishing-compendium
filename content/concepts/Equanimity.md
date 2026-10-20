@@ -48,6 +48,7 @@ The opinion, not the event, is where the trouble enters — the compendium's [[J
 
 
 
+
 - [[Freedom]] — the fruit of freedom of judgment (Stoic face)
 - [[Emotion regulation]] — the process model's target state, in the contemplative key
 - [[Four immeasurables]] — upekkha is the fourth immeasurable
@@ -56,6 +57,7 @@ The opinion, not the event, is where the trouble enters — the compendium's [[J
 - [[Apatheia]] — the Stoic cousin, and that page insists it is not the unfeeling robot
 - [[Radical acceptance]] — the ending of the war against reality that parallels the even-minded stance
 - [[Metta (loving-kindness)]] — the fellow immeasurable the review's mother-metaphor sets beside equanimity
+- [[K052]] — listed for comparison: the even-minded stance defined and sourced on the concept page beside K052's lamrim instruction to level bias toward friend, enemy and stranger before cultivating love.
 ## Sources
 
 - [Desbordes et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4350240/)

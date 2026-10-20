@@ -11,8 +11,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
-- [[Four immeasurables]] — the Mahayana extension of the four
 
+- [[Four immeasurables]] — the Mahayana extension of the four
+- [[K054]] — listed for comparison: the concept's Shantideva-based treatment of the awakening mind beside K054's Tsongkhapa-based frame of daily practice.
 ## Sources
 
 - Santideva, Bodhicaryavatara

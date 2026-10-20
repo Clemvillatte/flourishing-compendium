@@ -26,6 +26,10 @@ On culture, Miyamoto and Kitayama found that when behaviour was still diagnostic
 
 *For example (imagined):* A colleague's curt email reads as rudeness. Before replying, the reader asks what the sender's week might look like, and answers more gently.
 
+## Related concepts
+
+- [[K033]] — listed for comparison: the psychology of blaming persons over situations beside the lojong instruction to look for one's own part first.
+
 ## Sources
 
 - [Malle (2006), Psychol Bull 132(6), 895-919](https://pubmed.ncbi.nlm.nih.gov/17073526/) — PubMed abstract opened

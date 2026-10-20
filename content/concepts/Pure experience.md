@@ -32,6 +32,7 @@ Nishida's Inquiry opens with the same move: experience prior to judgment. In the
 
 
 
+
 - [[Stream of consciousness]] — James's other name for the undivided flow
 - [[The specious present]] — the present field James calls pure experience
 - [[Shikantaza, just sitting]] — objectless sitting as enacted non-duality
@@ -39,6 +40,7 @@ Nishida's Inquiry opens with the same move: experience prior to judgment. In the
 - [[Beginner's mind]] — the open stance that has not yet divided experience
 - [[Self-transcendence]] — listed for comparison
 - [[K002]] — examines Nishida's account of experience before subject-object differentiation
+- [[K003]] — listed for comparison: K003 applies Nishida's pure-experience opening to the unity of knowing and willing.
 ## Sources
 
 - [James, Essays in Radical Empiricism (Gutenberg)](https://www.gutenberg.org/files/32547/32547-h/32547-h.htm) — both definitions; the newborn-babes concession; the retrospection act.

@@ -30,6 +30,10 @@ Chapter 13 names the stake. "What makes me liable to great calamity is my having
 
 *For example:* Take the calendar test. If next month's plan only works on six hours of sleep a night, the plan is betting the cargo on the cart.
 
+## Related concepts
+
+- [[K042]] — for comparison: Shantideva's body-as-vessel teaching, with bodily care directed toward benefiting others.
+
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 13, 44

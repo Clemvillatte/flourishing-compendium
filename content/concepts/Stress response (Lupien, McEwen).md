@@ -23,9 +23,10 @@ McEwen defines the pair: "allostasis" is "the process of maintaining stability (
 
 ## Related concepts
 
+
 - [[Allostatic load]] — McEwen's term for the chronic-stress wear the blockquote describes
 - [[Parasympathetic activation]] — the restoration side of the autonomic balance the stress response engages
-
+- [[BI044]] — possible symptoms associated with stress, next to the physiology of the response
 ## Sources
 
 - Lupien et al., 2009

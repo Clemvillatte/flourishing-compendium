@@ -25,9 +25,10 @@ The Enchiridion puts opinion, aim, desire and aversion within our power, and bod
 
 ## Related concepts
 
+
 - [[Wu wei]]
 - [[Radical freedom]]
-
+- [[E058]] — Camus ties measure to the limit that rebellion itself reveals
 ## Sources
 
 - [Epictetus, The Enchiridion, ch. 1, trans. Thomas W. Higginson (Project Gutenberg #45109)](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm) — the opening passage, quoted verbatim

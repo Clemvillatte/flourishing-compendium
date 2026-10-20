@@ -25,10 +25,11 @@ The principles listed (R070, AT062, K355, K248 and others) use social attention 
 
 ## Related concepts
 
+
 - [[Attention]] — listed for comparison
 - [[Attention management]] — listed for comparison
 - [[Mindful attention]] — listed for comparison
-
+- [[AT009]] — The principle stating that gaze both steers and couples attention between people, listed alongside the social-media attention principle
 ## Sources
 
 - [Frischen, Bayliss and Tipper (2007), "Gaze cueing of attention", Psychological Bulletin (PubMed 17592962)](https://pubmed.ncbi.nlm.nih.gov/17592962/) — abstract, scope of the review

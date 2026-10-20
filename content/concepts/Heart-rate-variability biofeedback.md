@@ -12,8 +12,9 @@ slow diaphragmatic breathing raises vagal tone (Lehrer and Gevirtz, 2014).
 
 ## Related concepts
 
-- [[Parasympathetic activation]] — The biofeedback procedure trains the slow diaphragmatic breathing this page explains.
 
+- [[Parasympathetic activation]] — The biofeedback procedure trains the slow diaphragmatic breathing this page explains.
+- [[BE046]] — A principle discussing slow breathing as an emotion-regulation practice
 ## Sources
 
 - Lehrer and Gevirtz, 2014
