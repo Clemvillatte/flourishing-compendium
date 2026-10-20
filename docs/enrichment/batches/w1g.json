@@ -52,11 +52,11 @@
   "Time affluence",
   "Time perception research",
   "True self",
-  "Weekly-review implementation intentions",
   "Work engagement",
   "Two modes of attentional control",
   "Uncertainty tolerance",
-  "Unconditional positive regard"
+  "Unconditional positive regard",
+  "Weekly-review implementation intentions"
  ],
  "in_progress": null,
  "flagged": {
@@ -105,10 +105,11 @@
   "True self": "Reopened for QC: QC round 6: definition-quote continuation and attribution, methods accuracy, negative-aspect narrowing, Heppner separation, Eigentlichkeit link removal, OpenAIRE re-cite",
   "Two modes of attentional control": "Reopened for QC: QC round 7: remove unsupported Related gloss (training claim not in C&S abstract)",
   "Uncertainty tolerance": "Reopened for QC: QC round 7: remove excerpt-only 1998 statistics, tolerance-inverse and origin claims, therapeutic prediction; fix blockquote interval",
-  "Unconditional positive regard": "Reopened for QC: QC round 7: proposal framing, blockquote attribution, facets citation, trailing fragments cleanup"
+  "Unconditional positive regard": "Reopened for QC: QC round 7: proposal framing, blockquote attribution, facets citation, trailing fragments cleanup",
+  "Weekly-review implementation intentions": "Reopened for QC: QC round 7: RePEc record title, bounded argument framing, application label, locators, gloss citations"
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-20T08:54:09+00:00",
+ "updated": "2026-10-20T08:54:25+00:00",
  "band_done": false
 }
