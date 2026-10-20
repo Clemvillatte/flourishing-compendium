@@ -12,13 +12,19 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 71** — Investigate the urge
 
-When craving arises, turn toward it instead of obeying it: where is it in the body? What does it promise? How long does it last? Urges examined lose their command.
+Dhammapada 186-187 describes sensual desires as unsatisfying even amid abundant wealth. The passage goes on to praise the ending of craving.
 
-(Dhammapada 186; Brewer's craving work.)
+> "There is no satisfying sensual desires, even with the rain of gold coins. For sensual pleasures give little satisfaction and much pain." (Dhammapada 186-187, trans. Acharya Buddharakkhita, [text](https://accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html))
 
-**Plain words** When craving arises, turn toward it instead of obeying it: where is it in the body? What does it promise? How long does it last? Urges examined lose their command — they're mostly dark rooms; the examination turns the light on.
+The compendium applies this warning by asking what an urge promises and whether you want to act on it. Observing bodily sensations or changes in the feeling is a proposed exercise here. The quoted verses do not prescribe this method or establish that observation will make an urge fade.
 
-*For example:* The 9pm fridge-raid, investigated: was hunger, was boredom, was actually tiredness. The craving couldn't survive the questioning.
+### Plain words
+
+Before doing what you feel like doing, ask what you hope to get from it. If you want to check your phone, are you waiting for an important reply, or looking for something to occupy you? Consider your answer when deciding what to do next. You can try this exercise without making refusal or the disappearance of the feeling your goal.
+
+### For example
+
+Imagine reaching for a snack at 9pm. Consider when you last ate and whether you want food or are looking for something to do. You may decide to eat; noticing the urge does not determine what your body needs.
 
 ## Practice kernels
 
@@ -27,7 +33,7 @@ When craving arises, turn toward it instead of obeying it: where is it in the bo
 ## Psychology parallels
 
 - **[[Urge surfing|Urge surfing in mindfulness-based relapse prevention]]** (Bowen et al., 2011)
-- **Craving as a learned loop** (Brewer, 2013)
+- **Craving as a learned loop**: Brewer, Elwafi and Davis describe an addictive loop in which a negative cue produces stress, craving and smoking, and write that mindfulness "functions to decouple pleasant and unpleasant experience from habitual reactions of craving and aversion" ([2013, Psychol Addict Behav 27(2)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3434285/))
 
 ## Philosophy parallels
 
