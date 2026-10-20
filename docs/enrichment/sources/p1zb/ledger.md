@@ -131,3 +131,14 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Plain words rewritten as re-derivation (old one replicated the body's sentences).
 - Dweck 2006 mastery-orientation parallel inherited, kept with its caveat; not opened.
 - Saturation: cited by Psychological needs theory and the Competence concept (parallel link).
+
+## S012 — Remember that you are a rational being
+- Full work: verbatim quote added (Epictetus Discourses I.1 §4 Long: "The rational faculty; for
+  this is the only faculty that we have received which examines itself...", verified vs freshly
+  opened Gutenberg Long translation, with the Q&A context checked to confirm chapter I.1).
+- Body: added the self-audit framing paragraph (a reading of the opened passage, labelled as
+  such by its "That self-audit is why" construction); inherited citation line (Disc. I.1, I.6;
+  Med. II.9, IV.16, VII.11; Seneca 41, 76) kept unopened; Marcus/Seneca locators not certified.
+- Plain words rewritten as re-derivation (old one replicated the body's three sentences).
+- Saturation: cited by Dual-process theory, Rationality research, The function argument and the
+  Let-reason-guide-desire parallel concepts via the parallels sections.
