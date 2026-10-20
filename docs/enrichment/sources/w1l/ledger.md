@@ -784,3 +784,11 @@ convention).
 
 ### Milestone QC disposition (2026-10-20)
 - Advisor confirmation: revised prose SCOPED PASS; quotation matches the opened extraction. Item held NAMESPACE-PENDING, not done: per audit rule 1 the opened Analects source establishes the passage but not the title as a standalone named concept. Ledger's earlier "passed the owner's namespace bar" assertion corrected to "Not listed in the earlier title audit; no explicit disposition found." Title flagged in concept-namespace-audit.md under a new Pending-dispositions section with the evidence trail. No rename/migrate/delete performed. QC outcome recorded: "Revised prose supported; quotation matches the opened extraction; namespace disposition pending."
+
+## Justice reasoning (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles A023/K365/R083/R096/V2K-S01) — fast-track eligible per §1a.
+- Source opened: "Moral Development", Internet Encyclopedia of Philosophy (https://iep.utm.edu/moraldev/), prompt-based extraction. Blockquote verified verbatim against that extraction (sections 5-7: the justice-as-fairness sentence, the dilemma-method sentence, the six-stage/three-level description). The critical-assessment sentence ("strongest and most criticized philosophical claim") grounded in the same extraction's section-5 sentence.
+- The seed's "Kohlberg, 1981" citation line kept (the book is discussed by the IEP source; not opened directly). "Lawrence Kohlberg" first name grounded in the IEP entry context.
+- No In-the-compendium block (fast-track bar; Cited-in lists preserved).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 16; next at item 20).
