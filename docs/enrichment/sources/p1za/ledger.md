@@ -36,3 +36,7 @@ No separate advisor tool available to this session; quotes are checked programma
 ## CO070
 - Kang et al. 2009, Gruber et al. 2014: PubMed abstracts, quotes exact (authors confirmed). 
 - Limits: statement's claims about 'more accurate beliefs' and 'higher well-being' not supported by any source I could open (Loewenstein 1994 PDF has no text layer; Kashdan/Steger not in PubMed). Body states this openly rather than asserting it. Candidate for owner: add Kashdan & Steger 2007 or Kashdan et al. 2018 if PDF supplied.
+
+## CO078
+- Fuhrman et al. 2011 (Cogn Sci 35), Lieberman et al. 2007 (Psych Sci 18), Hoemann et al. 2021 (Front Psychol 12): PubMed abstracts, quotes exact, author lists confirmed from PubMed XML.
+- Limits: Boroditsky 2001 and Lupyan 2012 (inherited parallels) could not be located/opened; replaced by Fuhrman 2011 (same research line). Whorf 'strong' claim not addressed with a source; body limits itself to what the abstracts show.
