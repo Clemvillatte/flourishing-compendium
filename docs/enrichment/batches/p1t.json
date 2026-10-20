@@ -33,12 +33,12 @@
  ],
  "in_progress": "D190",
  "flagged": {
-  "D190": "Reopened for QC: QC correction: remove unsupported mode-of-access inference and reduce prose below 300 words",
+  "D190": "RESOLVED 2026-10-20: removed mode-of-access inference; shortened prose; exact Legge quotation independently fetched; awaiting closure QC",
   "P009": "Reopened for QC: QC correction: advisor round 1 — extension labels, plain words, example, parallel gloss",
   "P033": "Reopened for QC: QC correction: advisor round 1 — example, plain words tied to opened discussion"
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-20T03:39:31+00:00",
+ "updated": "2026-10-20T03:39:33+00:00",
  "band_done": false
 }
