@@ -264,6 +264,16 @@
       "into": "Restorative justice",
       "link": "Justice",
       "why": "Restorative justice is the corrective branch of justice in its modern form."
+    },
+    {
+      "into": "Expressive writing",
+      "link": "Meaning-making",
+      "why": "Expressive writing is the writing intervention in the Pennebaker stream of meaning-making research."
+    },
+    {
+      "into": "Benefit finding",
+      "link": "Meaning-making",
+      "why": "Benefit finding is the positive-reappraisal outcome of meaning-making."
     }
   ],
   "inline": [
@@ -361,6 +371,16 @@
       "into": "D096",
       "concept": "Intrinsic motivation",
       "phrase": "intrinsic motivation"
+    },
+    {
+      "into": "AF077",
+      "concept": "Meaning-making",
+      "phrase": "meaning-making"
+    },
+    {
+      "into": "B166",
+      "concept": "Meaning-making",
+      "phrase": "meaning-making"
     }
   ]
 }
