@@ -24,13 +24,13 @@ A modern experiment tested the paraphrase-reflect-ask package against advice-giv
 
 > "Results indicate that participants who received active listening responses felt more understood than participants who received either advice or simple acknowledgements." (Weger, Castle Bell, Minei & Robinson, "The Relative Effectiveness of Active Listening in Initial Interactions", International Journal of Listening 28(1), 13-31, 2014, abstract, [PDF](https://rachel.core2learn.org/modules/en-empatico/content/activities/friendship_bingo/files/the_relative_effectiveness_of_active_listening_in_initial_interactions.pdf))
 
-The same abstract records that the effect sizes for the satisfaction and social-attractiveness differences were small ([Weger et al., 2014, PDF](https://rachel.core2learn.org/modules/en-empatico/content/activities/friendship_bingo/files/the_relative_effectiveness_of_active_listening_in_initial_interactions.pdf)), so the honest summary is: the practice works, modestly, on the feeling of being understood.
+The same abstract records that the effect sizes for the conversation-satisfaction and social-attractiveness differences were small ([Weger et al., 2014, PDF](https://rachel.core2learn.org/modules/en-empatico/content/activities/friendship_bingo/files/the_relative_effectiveness_of_active_listening_in_initial_interactions.pdf)).
 
 **Plain words**
 Listening is a skill with a method. Do not rehearse your reply while they talk. Say back the sentence that mattered. Ask one real question. The experiment says speakers feel more understood when this happens; Rogers believed it changed people.
 
 **For example**
-"So the worst part was that she didn't even call" - and the listener says that sentence back instead of jumping to their own story. That is the move the experiment tested.
+Suppose a friend is upset because someone never called. The listener checks whether the missing call was the most painful part and asks whether they have understood correctly.
 
 ## Sources
 
