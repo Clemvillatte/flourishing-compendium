@@ -12,16 +12,16 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 62** — Engage in meaning-driven behaviour: act on values
 
-A 2026 systematic review of 50 randomised trials (12,634 participants) tested what values work actually changes. Values clarification alone improved positive affect, relatedness, meaning and valued living most consistently; life satisfaction, self-esteem, anxiety and depression were least likely to move. The review's key finding matches the principle's word "behaviour": when participants were encouraged to act on their values or set value-concordant goals, the well-being benefits were more consistent.
+A 2026 systematic review of 50 randomised trials (12,634 participants) tested what values work changes. Across the included interventions, positive affect, relatedness, meaning and valued living improved most consistently; life satisfaction, self-esteem, anxiety and depression were least likely to improve. The study quality of most included trials was low to moderate. One contrast in the findings matters for the principle: benefits were more consistent when interventions encouraged participants to act on their values or set value-concordant goals.
 
-An intervention built on exactly that distinction, Acting on Values, had volunteers start values-related behaviour over four weeks. Among the 268 completers of the 783 volunteers, those who finished the programme reported higher life satisfaction, positive affect and eudaimonic well-being, and lower negative affect, than a waiting-list control, with effects comparable to a mindfulness programme.
+An intervention built on that contrast, Acting on Values, had volunteers initiate values-related behaviour over four weeks. Among the 268 completers of the 783 volunteers, those who finished the programme reported higher life satisfaction, positive affect and eudaimonic well-being, and lower negative affect, than a waiting-list control; no statistically significant difference in well-being effects was detected between this intervention and a mindfulness programme.
 
 > "when participants were encouraged to act on their values or set value-concordant goals, the well-being benefits were more consistent" (Napier & Mangat 2026, [The Journal of Positive Psychology](https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2714053), Abstract)
 
 **Plain words**
-Saying what you value is cheap, and the research treats it that way: reflection alone moved some outcomes and left others alone. The behaviour is where the effect lives. A practical test: look at last month's calendar and ask whether a stranger could read your values from it. If not, the intervention evidence suggests the next step is one scheduled act, not more reflection.
+Naming a value leaves a practical question: what will you do this week? The review found benefits more consistent when people were helped to act on their values, so the compendium's exercise is choosing one manageable action rather than stopping at the list. The studies were mostly low to moderate quality, so the reading stays modest.
 
-*For example:* An imagined case: someone whose stated value is family, whose month holds no family dinners, books one recurring weekly dinner and lets the month's calendar, not the self-description, carry the value.
+*For example:* An imagined case: someone whose stated value is family, whose month holds no family dinners, books one recurring weekly dinner as that one action.
 
 ## Sources
 
