@@ -17,21 +17,21 @@
   "AT078",
   "BE025",
   "BE039",
-  "BE050",
   "BE060",
   "BE040",
   "BE059"
  ],
- "in_progress": null,
+ "in_progress": "BE050",
  "flagged": {
   "BE023": "Reopened for QC: advisor QC round 1: prose repairs required",
   "AT001": "Reopened for QC: advisor QC correction cycle complete (round 3 scoped PASS)",
   "AT026": "Reopened for QC: advisor QC carry-forward: Plain words/For example asserted conditions beyond the opened source",
   "BE040": "Reopened for QC: QC correction: milestone carry-forward repair (advisor)",
-  "BE059": "Reopened for QC: QC correction: milestone carry-forward repair (advisor)"
+  "BE059": "Reopened for QC: QC correction: milestone carry-forward repair (advisor)",
+  "BE050": "Reopened for QC: QC correction: milestone carry-forward repair (advisor)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:29:12+00:00",
+ "updated": "2026-10-20T07:29:15+00:00",
  "band_done": false
 }
