@@ -1,13 +1,20 @@
 {
  "baton": "w1aa",
- "agent": "worker-w1aa-9e4b6d1f",
- "clocked_in": "2026-10-20T12:12:30+00:00",
+ "agent": "worker-w1aa-e58444c2",
+ "clocked_in": "2026-10-20T16:42:28+00:00",
  "takeovers": [
   {
    "by": "worker-w1aa-9e4b6d1f",
    "at": "2026-10-20T11:32:02+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-w1aa-e58444c2",
+   "at": "2026-10-20T16:42:28+00:00",
+   "from": "worker-w1aa-9e4b6d1f",
+   "reason": "stale (270 min)"
   }
- ]
+ ],
+ "released": false
 }
