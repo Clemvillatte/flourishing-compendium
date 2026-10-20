@@ -1,11 +1,12 @@
 {
  "batch": "p1zu",
- "done": [
-  "PP016"
- ],
- "in_progress": null,
- "flagged": {},
+ "done": [],
+ "in_progress": "PP016",
+ "flagged": {
+  "PP016": "Reopened for QC: QC correction (first-item advisor review FAIL): symptom-claim wording, quote moved to blockquote, plain words/example replaced, Frankl gloss reduced, scoped A&T paraphrase"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:53:03+00:00"
+ "updated": "2026-10-20T11:55:57+00:00",
+ "band_done": false
 }
