@@ -1,0 +1,9 @@
+# Courage built gradually — evidence record (w1e, fast-track)
+
+- Degree: 10 connections (1 concept + 7 principles + 2 stories) → fast-track eligible per PROTOCOL.md §1a.
+- Opened source: https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html — Nicomachean Ethics Book II (Ross translation), Internet Classics Archive. Both blockquotes verbatim from the opened chapter:
+  1. "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."
+  2. "by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly."
+- The "virtues are got by first exercising them" sentence is paraphrased with attribution, matching the opened chapter ("but the virtues we get by first exercising them, as also happens in the case of the arts as well").
+- Scoping: the page makes no claims beyond the opened chapter; the closing sentence frames what the compendium's small-steps practices build on, labeled as such. The owner's library's Aristotle Complete Works (ROT) is the same Ross translation family; the MIT Classics Archive page is the opened primary text.
+- Front-matter, all nine original wikilinks (A004, ST318, SP065, ST111, PP037, AT031, BE009, BE023, BE027), and the Cited-in section preserved; validator --fast-track ok as part of the done transition.
