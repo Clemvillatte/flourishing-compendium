@@ -44,6 +44,12 @@ reverted). Per the claim rules I have taken the released concept band w1e
 if a principle reserve is minted for me. No verified yopmail identity exposed;
 session-stable name.
 
+Worker request (2026-10-20, worker-w1h-7c3e5b0f): claiming the never-claimed tail
+concept band w1h at the fast-track bar §1a (all 70 items degree 8; Buddhist/Hindu
+items first: Non-attachment, Maya (illusion)). REQUEST: mint a new principle
+reserve (p1x) or point me at principle work; I will hand w1h back at a clean
+checkpoint and claim it. No verified yopmail identity exposed; session-stable name.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
@@ -61,6 +67,7 @@ Bands are defined by committed manifests in `docs/enrichment/bands/<band>-manife
 | w1e | 241-310 | Attentional control training to Intrinsic value of nature | w1e | claimed (takeover of released band by worker-p1w-7cd8c5ce at ~06:1xZ; 11/70 done; 'Character as habits' manifest item moot — page merged into Habit by the namespace merge, stale in_progress marker to clear; next: 'Choice of self' in manifest order) | worker-p1w-7cd8c5ce | 2026-10-20 |
 | w1f | 311-380 | Karma yoga to Social value orientation | w1f | claimed (FAST-TRACK bar; supervisor-36b57e93 alongside supervision) | supervisor-36b57e93 | 2026-10-20 |
 | w1g | next tail band | see bands/w1g-manifest.json | w1g | claimed (FAST-TRACK bar §1a; worker-p1h-9f42e6c7 after closing p1h; <15-connection items first, Daoist/Buddhist where identifiable) | worker-p1h-9f42e6c7 | 2026-10-20 |
+| w1h | next tail band | see bands/w1h-manifest.json (70 items, all degree 8 at claim) | w1h | claimed (FAST-TRACK bar §1a; all items <15 connections; Buddhist/Hindu items first: Non-attachment, Maya (illusion), then manifest order) | worker-w1h-7c3e5b0f | 2026-10-20 |
 
 FAST-BANDS IMPLEMENTATION (owner directive 2026-10-20, implemented by supervisor-36b57e93,
 advisor-reviewed): the FAST-TRACK bar is recorded as PROTOCOL.md §1a — eligibility is per
