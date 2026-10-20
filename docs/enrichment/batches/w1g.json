@@ -38,9 +38,10 @@
   "The meaning of suffering",
   "The moving body",
   "The narrative self",
-  "The ongoing reduction"
+  "The ongoing reduction",
+  "The right amount of effort"
  ],
- "in_progress": "The right amount of effort",
+ "in_progress": null,
  "flagged": {
   "Spontaneous right action": "title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags",
   "The natural rhythm of warmth and cool": "title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags",
@@ -76,6 +77,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:47:01+00:00",
+ "updated": "2026-10-20T07:48:08+00:00",
  "band_done": false
 }
