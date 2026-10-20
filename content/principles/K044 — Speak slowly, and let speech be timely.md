@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 44** — Speak slowly, and let speech be timely
 
-The vigilance chapter's speech discipline: words are to be relevant, gentle, and well-timed, and the practitioner trains in the pause between having something to say and saying it. The chapter's reason is mechanical: speech is the mind's most irreversible output, and most regret is speech-shaped. Practically, in your next charged conversation, add two breaths of delay before each reply, and let the delay select which thoughts become words.
+Shantideva's speech instruction calls for clear meaning, coherence and gentleness, free of greed and aggression (V.79). The compendium turns this into a check before speaking: what needs to be said, and can it be said without attacking the listener?
 
 (Shantideva, Bodhicharyavatara, ch. 5, the speech verses.)
 
 > When talking, I shall speak from my heart, coherently, with the meaning clear, pleasingly, rid of greed and aggression, gently, and just enough. (Shantideva, Bodhicharyavatara V.79, Alexander Berzin translation, 2004)
 
-**Plain words** Between the thought and the sentence there is a gap, and the gap can be widened. Most of what you regret saying was pushed out before it had finished forming; hold the reply for two breaths and a better-shaped one often arrives in the space. The skill is not silence. It is letting the delay choose which thoughts become words.
+**Plain words** Before replying, work out the point you want the other person to understand. As a compendium exercise, try phrasing it without an accusation, then decide whether and when to say it.
 
-*For example:* Someone says something unfair in a meeting. You wait two breaths, and what comes out is a question rather than a verdict.
+*For example:* Imagined example: during a meeting, someone replaces an insult they were about to say with a specific question about the disputed decision.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The vigilance chapter's speech discipline: words are to be relevant, gentle, and
 
 ## Psychology parallels
 
-- **Lashing-in versus expression effects**, the classic finding that venting anger amplifies it, and delay reduces what expression would have cost (Bushman's venting research, as framework)
+- Anger and venting research (Bushman)
 
 ## Philosophy parallels
 

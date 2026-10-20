@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 39** — Treat the enemy as the teacher of patience
 
-The chapter's most radical instruction: the enemy who injures you is, in the tradition's accounting, doing something your friends cannot do for you, which is to give you the raw material of patience. There are no other suppliers. The instruction is not gratitude for harm; it is the recognition that the difficult people of your life occupy a role in your training that no one else applied for. Practically, hold one difficult person as your current patience-teacher, and notice that the frame changes the internal weather even before it changes anything external.
+In VI.107-111, Shantideva treats an enemy as an aid to bodhisattva practice because hostility provides an occasion for patience. He acknowledges the harmful intention and still honours the opponent as a cause of patience. The compendium applies this argument to ordinary disagreements; it does not make remaining in danger a condition of practice.
 
 (Shantideva, Bodhicharyavatara, ch. 6.)
 
 > Therefore, I shall be delighted with an enemy who's popped up like a treasure in my house, without having had to be acquired with fatigue, since he becomes my aide for bodhisattva behavior. (Shantideva, Bodhicharyavatara VI.107, Alexander Berzin translation, 2004)
 
-**Plain words** The enemy who injures you does something your friends can't: gives you the raw material of patience. Nobody else supplies it. That's not gratitude for harm. It's recognising the role difficult people play in your training that no one else applied for. Hold one difficult person in mind in that light.
+**Plain words** Choose a minor disagreement and identify the response you want to practise. You can work on that response while also asking the other person to change their behaviour.
 
-*For example:* The relative who criticises you at every holiday is, by this view, your most reliable patience trainer.
+*For example:* Imagined example: a relative makes a sharp remark. You ask them to stop without replying with an insult.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The chapter's most radical instruction: the enemy who injures you is, in the tra
 
 ## Psychology parallels
 
-- **Benefit-finding in interpersonal harm and forgiveness research**, the evidence that reframing the offender as a source of growth reduces hostility (Worthington, 2001; Calhoun and Tedeschi, 2004)
+- Benefit-finding and forgiveness research (Worthington, 2001; Calhoun and Tedeschi, 2004)
 
 ## Philosophy parallels
 

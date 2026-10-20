@@ -1,6 +1,6 @@
 {
  "batch": "p1zt",
- "revision": 5,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Pure experience",
@@ -11,20 +11,26 @@
   {
    "into": "Cognitive mediation of distress",
    "link": "K005",
-   "why": "Shantideva's elephant-of-mind verses state the interpretation-first account this page collects under cognitive mediation",
+   "why": "offers a Buddhist comparison concerning the mind's role in suffering",
    "notes": "Concept page covers Beck/CBT interpretation-carries-load findings; K005's psychology parallel already links to it. Evidence: Berzin ch. 5 V.2-3 opened 2026-10-20."
   },
   {
-   "into": "Forgiveness",
+   "into": "Enemy as teacher",
    "link": "K039",
-   "why": "the patience-curriculum reframing of an offender as a source of growth, one of the moves this page covers",
-   "notes": "K039's psychology parallel cites Worthington 2001 / Calhoun-Tedeschi 2004 benefit-finding. Evidence: Berzin ch. 6 VI.107 opened 2026-10-20."
+   "why": "considers the opponent's role in practising patience",
+   "notes": "Concept page already cites Shantideva ch. 6 and K039 in its own body. Evidence: Berzin ch. 6 VI.107-111 opened 2026-10-20."
   },
   {
    "into": "Attribution retraining",
    "link": "K041",
-   "why": "the bile-and-conditions verse is the Buddhist original of the hostile-to-situational attribution shift this page teaches",
+   "why": "offers a comparison with Shantideva's account of harmful conduct arising through conditions",
    "notes": "K041's psychology parallel already links the concept. Evidence: Berzin ch. 6 VI.22 opened 2026-10-20."
+  },
+  {
+   "into": "Beneficial speech",
+   "link": "K044",
+   "why": "carries Shantideva's speech instruction alongside the page's other speech disciplines",
+   "notes": "Concept page already links K044. Evidence: Berzin ch. 5 V.79 opened 2026-10-20."
   }
  ]
 }

@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 41** — Trace every harm to conditions, including your own
 
-The chapter's causal analysis: harm does not arise from a free, unconditioned will that chose evil; it arises from conditions (the person's history, state, ignorance, the situation's structure), exactly as your own harms arise from yours. This is the doctrine of dependent origination applied to forgiveness, and its consequence is precise: hatred aims at a will that does not exist. Practically, when wronged, spend one minute reconstructing the conditions that produced the wrong (including your part), and notice what happens to the hatred when the conditions are visible.
+Shantideva asks why a person should be the target of anger when, like bodily illness, their conduct arises through conditions (VI.22). The compendium applies this question to one's own conduct as well: examine what contributed to a harmful act before deciding how to respond.
 
 (Shantideva, Bodhicharyavatara, ch. 6; the Buddhist doctrine of dependent origination.)
 
 > As I don't get enraged with great sources of suffering, for instance with bile, then why get enraged with those having limited minds? All of them, as well, are provoked by conditions. (Shantideva, Bodhicharyavatara VI.22, Alexander Berzin translation, 2004)
 
-**Plain words** Harm doesn't come from a free, unconditioned will that simply chose evil. It comes from conditions: a person's history, state, ignorance and situation, just as your own harms come from yours. That's dependent origination applied to forgiveness. Hatred aims at a villain, and the villain isn't quite there.
+**Plain words** Separate what someone did from what you know about why it happened. List the circumstances you actually know, and leave unknown causes open. Apply the same check to your own actions.
 
-*For example:* A driver who cuts you off was perhaps up all night with a sick child. Not an excuse, but a different object for your anger.
+*For example:* Imagined example: after being cut off in traffic, a driver notices that they know nothing about the other person's circumstances and leaves the motive undecided.
 
 ## Sources
 
@@ -28,7 +28,7 @@ The chapter's causal analysis: harm does not arise from a free, unconditioned wi
 
 ## Psychology parallels
 
-- **[[Attribution retraining|Attribution retraining]]**, the CBT procedure of shifting attributions from hostile-intent to situational (Hudley's attribution-retraining programs, as framework)
+- **[[Attribution retraining|Attribution retraining]]** (Hudley's attribution-retraining programs, as framework)
 - **Spinoza's determinism as compassion** (principle 27)
 
 ## Philosophy parallels

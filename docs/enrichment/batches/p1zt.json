@@ -2,17 +2,21 @@
  "batch": "p1zt",
  "done": [
   "K002",
-  "K005",
   "K039",
   "K041",
-  "K044"
+  "K044",
+  "K005"
  ],
  "in_progress": null,
  "flagged": {
-  "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only"
+  "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only",
+  "K005": "Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions",
+  "K039": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K039.md",
+  "K041": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K041.md",
+  "K044": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K044.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:58:31+00:00",
+ "updated": "2026-10-20T12:01:45+00:00",
  "band_done": false
 }

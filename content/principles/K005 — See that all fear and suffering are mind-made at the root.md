@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 5** — See that all fear and suffering are mind-made at the root
 
-Shantideva states the tradition's summary claim with striking force: all fears and immeasurable sufferings arise from the mind alone, and this is why the mind itself is the thing to be worked on. The claim is not that circumstances do not matter; it is that the circuit between circumstance and suffering runs through the mind's interpretation, which is the one part of the loop you can always reach. Practically, when suffering seems entirely external, run the check anyway: where in this is the interpretation, and is it load-bearing?
+In V.2-3, Shantideva compares an unguarded mind to a dangerous elephant and presents mindfulness as its restraint. The compendium uses this image as a prompt to examine one's response to difficulty. These verses should not be presented as clinical evidence that every kind of suffering can be changed through interpretation.
 
 (Shantideva, Bodhicharyavatara, ch. 5.)
 
 > Left to run loose, the elephant of my mind can ravage me with (a joyless realm of) unrelenting pain. Untamed, rutting elephants in this (world) can't cause me such harm. But, if the elephant of my mind is firmly bound by the rope of mindfulness on every side, all fears will vanish and everything constructive will come into my hands. (Shantideva, Bodhicharyavatara V.2-3, Alexander Berzin translation, 2004)
 
-**Plain words** Shantideva's bold claim is that fear and suffering arise from the mind. He isn't saying circumstances don't matter. He's saying the link between what happens and how much it hurts runs through your interpretation, and that is the part you can always reach.
+**Plain words** During a difficult moment, ask what you are thinking and what you are about to do. This exercise draws attention to your response while leaving room to address the external problem too.
 
-*For example:* Two people get the same message, "we need to talk." One spends the day in dread. The other thinks it's probably logistics. The text is identical.
+*For example:* Imagined example: after receiving a message asking to talk, someone distinguishes the message's actual words from their own guess that it means bad news.
 
 ## Sources
 
@@ -28,7 +28,7 @@ Shantideva states the tradition's summary claim with striking force: all fears a
 
 ## Psychology parallels
 
-- **[[Cognitive mediation of distress|Cognitive mediation of distress]]**, the CBT bedrock finding that interpretations, not events alone, carry emotional load (Beck, 1976)
+- **[[Cognitive mediation of distress|Cognitive mediation of distress]]** (Beck, 1976)
 
 ## Philosophy parallels
 
