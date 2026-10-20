@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 28** — Master emotional regulation flexibility: the skill is matching strategy to context
 
-No single regulation strategy is universally adaptive. The most adaptive regulators are those who can flexibly deploy different strategies depending on the situation — sometimes reappraising, sometimes suppressing, sometimes accepting, sometimes acting. This is the most important single capacity in affect regulation.
+The review names a common assumption — that particular regulatory strategies are consistently beneficial or maladaptive — "the fallacy of uniform efficacy" ([Bonanno & Burton, 2013](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)). In its place they propose a framework of "three sequential components of flexibility for which propensities and abilities vary: sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback" ([Bonanno & Burton, 2013](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)). Context sensitivity is defined as "the ability to perceive impinging demands and opportunities from the situational context as they emerge... and to determine the most appropriate regulatory strategy in response to those demands or opportunities" ([Bonanno & Burton, 2013](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)). The exercise below reviews a regulation choice against those components.
 
-**Plain words** No regulation strategy is universally adaptive — the most adaptive regulators flexibly deploy different strategies per situation: sometimes reappraise, sometimes suppress, sometimes act. The skill is matching strategy to context. Rigidity is the failure mode, not any one tool.
+> Specifically, we propose a heuristic individual differences framework and review research on three sequential components of flexibility for which propensities and abilities vary: sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback.
+>
+> Bonanno and Burton (2013), "Regulatory Flexibility: An Individual Differences Perspective on Coping and Emotion Regulation," Perspectives on Psychological Science 8(6), 591-612, [paper PDF](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf).
 
-*For example:* The funeral where reappraisal is cruel, suppression is graceful, and the crying aunt needs a seat closer — the emotionally fluent person reads the moment and picks. The one-strategy person picks their strategy and applies it everywhere, at cost.
+> We describe the tendency to assign a value judgment about the consistent efficacy or consistent lack of efficacy of a particular regulatory strategy as the fallacy of uniform efficacy.
+>
+> Bonanno and Burton (2013), same paper, [paper PDF](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf).
+
+(Bonanno & Burton, 2013, Perspectives on Psychological Science 8(6): 591-612.)
+
+### Plain words
+
+The paper's target is the habit of calling one strategy good and another bad; it labels that the fallacy of uniform efficacy. Flexibility instead has three parts: reading the situation, having more than one strategy, and responding to feedback. For an exercise, take one regulation choice that did not work and check which of the three parts failed.
+
+For example: the same grief might call for stepping out at one moment and staying seated at the next; the exercise is naming which one the moment asks for. (An invented illustration.)
 ## Psychology parallels
 
 - **Regulatory flexibility predicts better outcomes**, the ability to match strategy to context is associated with better mental health than any single strategy (Bonanno & Burton, 2013; Blanke et al., 2020)
