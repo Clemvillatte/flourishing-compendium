@@ -97,6 +97,13 @@
       "phrase": "equanimity where not",
       "source": "w1a worker-w1a-4c8e21d7",
       "why": "body prose names the concept without linking it; rg-verified unique single-concept occurrence"
+    },
+    {
+      "concept": "Active constructive responding",
+      "into": "PP030",
+      "phrase": "Active-constructive responding, which involves",
+      "source": "w1a worker-w1a-4c8e21d7",
+      "why": "the principle page discusses the concept in body prose without linking the concept page; rg-verified unique occurrence (L15); not in the seed line (the seed is the principle statement blockquote)"
     }
   ],
   "reciprocal": [
@@ -239,6 +246,26 @@
       "into": "Green exercise (Barton, Pretty)",
       "link": "Nature exposure",
       "why": "new Related entry; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Capitalization",
+      "link": "Active constructive responding",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Mudita (sympathetic joy)",
+      "link": "Active constructive responding",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Perceived partner responsiveness",
+      "link": "Active constructive responding",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
+    },
+    {
+      "into": "Savoring",
+      "link": "Active constructive responding",
+      "why": "new Related entry on the concept page; reciprocal of the concept's Related extension"
     }
   ]
 }
