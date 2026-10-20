@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 95** — Let knowledge purify action
 
-The Gita's claim, stated in the two verses this page points at, is that knowledge purifies and that the fire of knowledge reduces all actions to ashes. The verses supply the comparison; they do not supply a mechanism. What the verses do supply is a location for the knowledge: within the Self, in due time, for the person perfected in Yoga.
+Bhagavad Gita 4.38 calls knowledge an unequalled purifier. It describes a person perfected in Yoga finding that knowledge within the Self, in due time. In the preceding verse, the effect of knowledge on actions is compared to a blazing fire reducing fuel to ashes.
 
-> "Verily, there is no purifier in this world like knowledge. He who is perfected in Yoga finds it within the Self in due time." (Bhagavad Gita 4.38, bhagavadgita.com)
+> "Verily, there is no purifier in this world like knowledge. He who is perfected in Yoga finds it within the Self in due time." ([Bhagavad Gita 4.38](https://bhagavadgita.com/chapter/4/verse/38))
 
-> "As the blazing fire reduces fuel to ashes, O Arjuna, so does the fire of knowledge reduce all actions to ash." (Bhagavad Gita 4.37, bhagavadgita.com)
+> "As the blazing fire reduces fuel to ashes, O Arjuna, so does the fire of knowledge reduce all actions to ash." ([Bhagavad Gita 4.37](https://bhagavadgita.com/chapter/4/verse/37))
 
-**Plain words** The verse says knowledge purifies and compares its effect on action to fire's effect on fuel. It says the person perfected in Yoga finds that knowledge within themselves, in due time. What the page adds is a practical reading: if knowledge reduces actions to ashes in the way the verse says, then acting from knowledge and acting from ignorance are not two equal options, and the Yoga the verse names is how a person comes to hold the knowledge.
+**Plain words** The understanding described here is found inwardly by someone accomplished in yoga. A suggested application is to give practice time, without demanding a new insight after every session.
 
-*For example:* (Imagined.) A reader who opens the Gita verse itself before acting on a claim about it, and who treats the Yoga the verse names as something to practise rather than something to define.
+*For example:* (Imagined application.) After a yoga session, a practitioner notices disappointment at having no new insight and chooses to return to their practice without setting a deadline for one.
 ## Psychology parallels
 
 - **Implementation of knowledge as behavior change**, the intention-behavior gap and its bridges (Sheeran, 2002)
@@ -35,3 +35,7 @@ The Gita's claim, stated in the two verses this page points at, is that knowledg
 - **Wanting what you have**
 - **What have you that you did not receive?**
 - **[[Wisdom]]**
+## Sources
+
+- [Bhagavad Gita 4.37 (bhagavadgita.com)](https://bhagavadgita.com/chapter/4/verse/37)
+- [Bhagavad Gita 4.38 (bhagavadgita.com)](https://bhagavadgita.com/chapter/4/verse/38)
