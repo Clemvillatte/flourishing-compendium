@@ -4,8 +4,11 @@
   "S039"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "S039": "Reopened for QC: advisor QC round 1 repairs applied"
+ },
  "missing_concepts": [],
  "sources_checked": 2,
- "updated": "2026-10-20T11:53:52+00:00"
+ "updated": "2026-10-20T11:56:26+00:00",
+ "band_done": false
 }
