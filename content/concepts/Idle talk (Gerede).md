@@ -13,7 +13,7 @@ Gerede is Martin Heidegger's term, in Being and Time §35, for the everyday mode
 
 > Idle talk is the possibility of understanding everything without previously making the thing one's own. (Heidegger, Being and Time, Macquarrie & Robinson trans., p. 213, [beyng.com text](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.213.html))
 
-In Heidegger's account, this kind of talk not only releases one from the task of genuinely understanding, but develops an undifferentiated kind of intelligibility, for which nothing is closed off any longer. Its groundlessness is no obstacle to its becoming public; it encourages this. The talk serves not so much to keep Being-in-the-world open in an articulated understanding, as rather to close it off and cover up the entities within-the-world, and one need not aim to deceive. It discourages any new inquiry and any disputation. All genuine understanding, interpreting and communicating are performed in it, out of it, and against it.
+In Heidegger's account, this kind of talk releases one from the task of genuinely understanding, and develops an undifferentiated kind of intelligibility, for which nothing is closed off any longer. Its groundlessness is no obstacle to its becoming public; it encourages this. The talk serves not so much to keep Being-in-the-world open in an articulated understanding, as rather to close it off and cover up the entities within-the-world, and one need not aim to deceive. It discourages any new inquiry and any disputation. All genuine understanding, interpreting and communicating are performed in it, out of it, and against it.
 
 ## Sources
 
