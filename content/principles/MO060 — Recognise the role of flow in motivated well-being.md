@@ -25,6 +25,10 @@ The passage is a philosophical comparison, not a claim about the measured psycho
 
 *For example:* Imagine someone carving or playing an instrument who loses track of the afternoon. Nothing about the state is guaranteed; the conditions are what can be arranged.
 
+## Sources
+
+- [Zhuangzi ch. 3, Cook Ding passage, Columbia Asia for Educators](https://afe.easia.columbia.edu/main_pop/ps//ps_china-zhuangzi-caring-for-life.htm) — the spirit-moves passage
+
 ## Psychology parallels
 
 - **[[Flow|Flow (Csikszentmihalyi)]]**, optimal experience with full attentional absorption (Csikszentmihalyi, 1990; Nakamura & Csikszentmihalyi, 2014)

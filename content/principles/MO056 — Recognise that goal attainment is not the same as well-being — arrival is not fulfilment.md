@@ -15,13 +15,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Psychology research on affective forecasting and hedonic adaptation suggests that attaining a goal often produces less happiness than expected. The compendium places this beside a philosophical distinction Aristotle draws directly:
 
-> But it makes, perhaps, no small difference whether we place the chief good in possession or in use, in state of mind or in activity. (Aristotle, Nicomachean Ethics I.8, Ross translation, [MIT Classics](http://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
+> But it makes, perhaps, no small difference whether we place the chief good in possession or in use, in state of mind or in activity. (Aristotle, Nicomachean Ethics I.8, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
 The quotation is a philosophical comparison, not evidence for the forecasting claims. What Aristotle's distinction offers is a way of framing the question: whether the good sits in having the thing or in the doing.
 
 **Plain words** One finding from psychology is that people tend to overestimate how much attaining a goal will improve their life, and that gains often fade toward a baseline. One way of framing this is Aristotle's question: is the good in the possession or in the use? Knowing the finding and the question, one response is to invest in the pursuit as well as the arrival.
 
 *For example:* Imagine someone who says "when I get this house, everything changes." The forecasting research suggests the happiness bump may be smaller and shorter than predicted. The house may be lovely; the prediction that it would change everything is the part the research questions.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics I.8, Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) — the possession/use distinction
 
 ## Psychology parallels
 
