@@ -25,18 +25,33 @@ directory imports from it until `INTEGRATION.md` is applied.
 
 ```
 soundscape-player/
-  index.html                  # standalone demo page (open directly or via any static server)
+  index.html                  # standalone demo page — mounts all 16 of the user's named sets
   assets/player/fc-player.js  # the component (no dependencies, no build step)
   assets/player/fc-player.css # its styles (reads host CSS vars, has fallbacks)
   assets/audio/demo/          # procedurally generated demo set (8 × 60 s AAC)
-  assets/audio/segments/      # the user's study set (16 × 60 s AAC)
+  assets/audio/segments/      # legacy single-set location (16 × 60 s AAC)
+  assets/audio/<set-slug>/   # the user's study sets (16 sets; see below)
   scripts/
     prepare-tracks.sh         # turn any folder of audio files into a loadable set
   docs/
     DESIGN.md                 # engineering design + quality bar (source of truth)
     ROADMAP.md                # development plan
+  tests/
+    spec.mjs                  # regression suite (run it before considering work done)
+    qa.html                   # single-set QA fixture (3 × 5 s tones)
+    qa-multi.html             # multi-set QA fixture (2 sets × 3 tones)
+    qa-layers.html            # layered QA fixture (relatively prime passes)
+    fixtures/                 # synthesized tones (AAC + sample-exact WAV)
   INTEGRATION.md               # wiring into the wiki (not yet applied — do not apply without being asked)
 ```
+
+The user's 16 sets live in `assets/audio/<slug>/` as `segment_%04d.aac`
+(zero-padded, filename order), each named for a concept from the wiki:
+flow, deliberate-practice, deep-listening, completing-the-cycle,
+rhythm-of-rest, completeness-of-rest, the-dreaming,
+siddhartha-and-the-river, abgeschiedenheit, natures-rhythm,
+thundering-silence, stimulus-control, dream-of-the-butterfly,
+flower-and-song, the-dark-night (22 tracks), bare-attention.
 
 ## Running and testing
 
@@ -57,8 +72,11 @@ QA requirements (see `docs/DESIGN.md` §5 for the full quality bar):
   ```
   It covers: ordered infinite wrap (audible-clock verified), rotating wraps,
   source-overlap assertions, pause/resume across a segment boundary,
-  select/random/stop controls, and the stop-during-pending-decode guard.
-  Add a spec case for every new behaviour you introduce.
+  select/random/stop controls, the stop-during-pending-decode guard, the set
+  menu + crossfade switching (state survival, position memory, rapid
+  switches, stop mid-fade), and layered sets (independent timelines, solo
+  crossfades, combined-cycle math). It captures page errors AND console
+  errors. Add a spec case for every new behaviour you introduce.
 - Test in Chromium headless (Playwright) at 1280 px and 375 px.
 - Zero console/page errors during normal use.
 - Cover every visible control: play/pause/resume, stop, random, track
@@ -91,10 +109,17 @@ The supported flow:
    with a segment that can fade out gracefully.
 3. Verify: the track list shows N rows with correct durations, selection
    jumps, random jumps, and the loop transition fades cleanly.
-4. Loop variety: if the set is one continuous recording, set
-   `rotatePasses: true` in the mount config so each pass starts at a
-   rotated track. If the segments are independent clips, keep the
-   default ordered loop (see `docs/DESIGN.md`).
+4. Multi-set mounts: `FCPlayer.mount({ setCrossfade: 4, sets: [...] })`
+   gives the set menu + crossfade; `FCPlayer.loadSet(def)` adds a set at
+   runtime; `instance.loadSet(id)` / `instance.switchSet(id)` switch.
+   Layered mounts: `FCPlayer.mount({ layers: [...] })` (see
+   `docs/DESIGN.md` §3.6). The single-set mount API is unchanged.
+5. Loop variety: `rotatePasses` is QUARANTINED — off by default, not enabled
+   in any example. For a continuous recording the last→first junction is the
+   loop endpoint; rotating passes moves that un-faded hard cut inside a
+   pass. Do not enable it in examples without solving junction-aware fades
+   (see `docs/ROADMAP.md` and HANDOFF.md). The default ordered loop is safe
+   for every set.
 
 ## Hard rules
 

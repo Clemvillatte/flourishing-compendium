@@ -36,18 +36,17 @@ from it:
   display is per-pass (time since the current pass began).
 - **Varied loops (optional: `rotatePasses`).** Each pass through the set can
   begin at a randomly rotated track (never the same start twice in a row,
-  order within the pass preserved). **Enable this only when adjacent segments
-  join musically** — true for a continuous recording cut into segments, where
-  every adjacent pair flows naturally. For sets with a single designed loop
-  endpoint (independent clips), keep the default ordered loop. The pass-final
-  fade always protects the one wrap join; internal joins must be musical in
-  the source material.
-- **Layering is a source-material concern.** This player plays files; it does
-  not synthesize or mix stems. If the set is supplied as multiple layers
-  (e.g. a drone bed, a pad layer, an arpeggio layer — each its own ordered
-  segments), the engine can be extended to schedule the layers independently
-  so their loop points drift against each other and the combination evolves
-  — see the roadmap (`docs/ROADMAP.md`, "Layered sets").
+  order within the pass preserved). **QUARANTINED — off by default and not
+  enabled in any example.** For a continuous recording the last→first
+  junction is the loop endpoint; rotating passes moves that un-faded hard
+  cut INSIDE a pass. Enabling it safely requires junction-aware fades or
+  cyclically seamless source material. The mechanism itself is spec-verified
+  (deterministic rotation check in `tests/spec.mjs`).
+- **Layering is a scheduling concern, not synthesis.** This player plays
+  files; it does not synthesize audio or generate music. But it CAN schedule
+  multiple layers of the user's own material on independent timelines so
+  their loop points drift against each other and the combination evolves —
+  see §3.6 "Layered sets".
 
 ## 3. Architecture
 
@@ -112,7 +111,51 @@ and position tracking from per-segment durations learned via
 `loadedmetadata`. This path is slightly less gapless; the scheduler and
 circadian filter are gated off in fallback mode.
 
-### 3.5 UI
+### 3.5 Multiple sets
+
+`mount({ sets: [...] })` (or `FCPlayer.loadSet(def)` at runtime) mounts several
+sets; the panel shows a set menu (chips) and switching is a first-class
+operation:
+
+- **Designed crossfade.** On a switch while playing, the outgoing set's
+  position is captured first (it resumes there next time), its sources keep
+  sounding while its gain stage fades out, and the incoming set fades in —
+  equal-power (sinusoidal) curves over `setCrossfade` seconds (default 4).
+  When the fade completes the outgoing engine is retired: sources stopped,
+  state `paused` with the captured position. Rapid switches are safe — each
+  switch supersedes the previous one, and a re-activated set cancels its
+  pending retirement. Stop during a fade leaves no orphaned sources.
+- **Position memory.** A set switched away from mid-playback resumes exactly
+  where it was captured (segment + offset + per-pass position).
+- **State survival.** Timer, volume and circadian live on the shared session
+  nodes, so they survive switches unchanged (spec-verified).
+- **Fallback caveat.** In `<audio>` fallback mode there is no shared gain
+  stage, so switching hands over cleanly without a crossfade (documented
+  degradation).
+
+### 3.6 Layered sets (stems)
+
+`mount({ layers: [...] })` plays several ordered segment lists
+**simultaneously on independent timelines**, so their loop points drift
+against each other and the combination evolves rather than repeating. This
+is the honest answer to "loops that feel layered": the player plays the
+user's premixed files — it does not synthesize audio or generate music —
+but it can schedule independent layers of the user's own material.
+
+- Each layer is a full Engine with its own gain stage; layer level =
+  `layer.gain` (default 1) scaled by `1/√N` when `normalizeLayers` is on
+  (default) to prevent clipping when summing layers.
+- **Solo** crossfades the other layers' gain stages out over `soloFade`
+  seconds (default 1.5) without stopping their timelines; unsoloing restores
+  the levels. Timelines never restart on solo.
+- With two layers whose pass lengths are relatively prime (e.g. 10.1 s and
+  18.21 s in the QA fixture), the combined cycle is the LCM of the passes
+  (~5.1 h) — the combination never audibly repeats within an hour
+  (spec-verified from actual decoded durations).
+- The position display shows elapsed session time and the total shows ∞,
+  because layers drift and a single per-pass position is meaningless.
+
+### 3.7 UI
 
 A floating round button (bottom-right) opens a panel: transport controls
 (random / play-pause / stop), position/total, volume, timer chips
@@ -169,6 +212,17 @@ Rules that hold in every mode:
 - Timer replace/cancel never stops a restarted session; the fade uses its
   own gain stage.
 - Works in the site's light and dark themes; usable at 375 px.
+- Multi-set: switching mid-playback crossfades (both sets audible during the
+  fade, outgoing retired with no orphaned sources afterwards); timer,
+  volume and circadian survive the switch; a set resumed after switching
+  back continues near its captured position; rapid switches settle on the
+  last pick; stop during a fade leaves no sources.
+- Layered sets: layers wrap on independent timelines (drifting loop
+  points); no overlap within a layer; solo crossfades other layers out
+  without stopping timelines; unsolo restores levels.
+- The spec captures both page errors AND console errors — zero of either
+  during normal use (QA pages declare an inline favicon so the browser's
+  favicon request cannot pollute the console).
 
 ## 6. Known limitations
 

@@ -30,24 +30,35 @@ Delivered in the initial implementation:
 
 ## Phase 2 — Multiple sets, playback modes, and layering
 
-- [ ] **Layered sets (stems)** — the biggest lever for loops that "feel
-      layered": mount accepts several layers (drone bed, pads, arpeggio —
-      each an ordered segment list), scheduled on independent timelines so
-      their loop points drift against each other and the combination evolves
-      continuously. Requires per-layer gain, optional per-layer rotation,
-      and a mixing rule (sum with normalization or fixed layer levels).
-      Acceptance: with two layers whose durations are relatively prime, the
-      combined output never audibly repeats within an hour; soloing a layer
-      mid-playback crossfades cleanly.
-- [ ] Set switching: mount several sets and switch at runtime without
-      page reload (dispose + re-mount is the current workaround; make it a
-      first-class `loadSet(config)` API with a designed crossfade).
+- [x] **Layered sets (stems)** — DONE: `mount({ layers: [...] })` plays
+      several ordered segment lists simultaneously on independent timelines
+      (per-layer gain with `1/√N` normalization, per-layer `rotatePasses`
+      option — still quarantined by default, per-layer solo crossfades).
+      Acceptance verified by `tests/spec.mjs` (§8): layers wrap on their own
+      timelines (drift), no overlap within a layer, solo crossfades without
+      stopping timelines, and the QA fixture's relatively prime passes
+      (10.1 s / 18.21 s) give a combined cycle of ~5.1 h — the combination
+      never audibly repeats within an hour. Scope note: the player plays the
+      user's premixed recordings; it does not synthesize or mix stems in the
+      sense of generating music — "layered" means independent timelines of
+      supplied material.
+- [x] Set switching — DONE: first-class `mount({ sets })` +
+      `FCPlayer.loadSet()` / `instance.loadSet(id)` with a designed
+      equal-power crossfade (default 4 s, `setCrossfade` option), per-set
+      position memory (switching back resumes), and state (timer, volume,
+      circadian) preserved across switches. Single-set mount API unchanged.
 - [ ] Continuous shuffle: a mode where segment order is randomized per
       loop (no adjacent repeats), complementing ordered playback.
-- [ ] "Begin at random track on start" option.
-- [ ] Set menu in the panel (list of mounted sets with artwork/titles).
-- Acceptance: switching sets mid-playback crossfades; state (timer,
-  volume, circadian) survives a switch; no orphaned sources.
+- [ ] "Begin at random track on start" option (safe variation: random
+      start + ordered loop — unlike per-pass rotation, it never creates an
+      un-faded internal junction).
+- [x] Set menu in the panel — DONE (chips with active highlight; panel
+      scrolls internally and the chip area caps at ~110 px so 16+ sets fit).
+- Acceptance (met, spec-verified): switching sets mid-playback crossfades;
+      state (timer, volume, circadian) survives a switch; no orphaned sources
+      — including rapid switches and stop during a fade.
+- [ ] Junction-aware fades — the prerequisite for safely un-quarantining
+      `rotatePasses` (see HANDOFF.md).
 
 ## Phase 3 — Comfort and integration
 

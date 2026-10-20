@@ -2,6 +2,7 @@
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="utf-8">
+  <link rel="icon" href="data:,">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>FCPlayer — adaptive soundscape player</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -80,8 +81,10 @@
       <div class="card">
         <h2 style="margin-top:0">Try it</h2>
         <p class="muted" style="margin-top:0">
-          Use the round button in the bottom-right corner. The demo below plays a
-          procedurally synthesized ambient set (8 segments, 8 minutes).
+          Use the round button in the bottom-right corner. Sixteen study sets
+          are mounted — each named for a concept from the wiki — with a set menu
+          in the panel and a smooth crossfade when you switch. Each set loops
+          seamlessly and remembers where you left it.
         </p>
         <button class="btn" id="open-player" data-fcp-toggle>Open the player</button>
         <p class="filehint">
@@ -125,10 +128,34 @@
 
   <script src="assets/player/fc-player.js"></script>
   <script>
+    var SETS = [
+      ['flow', 'Flow', 16],
+      ['deliberate-practice', 'Deliberate practice', 16],
+      ['deep-listening', 'Deep listening', 16],
+      ['completing-the-cycle', 'Completing the cycle', 16],
+      ['rhythm-of-rest', 'The rhythm of rest', 16],
+      ['completeness-of-rest', 'The completeness of rest', 16],
+      ['the-dreaming', 'The Dreaming', 16],
+      ['siddhartha-and-the-river', 'Siddhartha and the river', 16],
+      ['abgeschiedenheit', 'Abgeschiedenheit', 16],
+      ['natures-rhythm', 'Following nature’s rhythm', 16],
+      ['thundering-silence', 'Thundering silence', 16],
+      ['stimulus-control', 'Stimulus control', 16],
+      ['dream-of-the-butterfly', 'The dream of the butterfly', 16],
+      ['flower-and-song', 'Flower and song', 16],
+      ['the-dark-night', 'The dark night', 22],
+      ['bare-attention', 'Bare attention', 16]
+    ];
     var instance = FCPlayer.mount({
-      title: 'Ambient Study',
-      subtitle: 'procedural demo set · 8 min',
-      source: { dir: 'assets/audio/demo/', pattern: 'demo_%04d.aac', count: 8 }
+      setCrossfade: 4,
+      sets: SETS.map(function (s) {
+        return {
+          id: s[0],
+          title: s[1],
+          subtitle: s[2] + ' tracks · ' + s[2] + ' min',
+          source: { dir: 'assets/audio/' + s[0] + '/', pattern: 'segment_%04d.aac', count: s[2] }
+        };
+      })
     });
 
     document.getElementById('open-player').addEventListener('click', function () {

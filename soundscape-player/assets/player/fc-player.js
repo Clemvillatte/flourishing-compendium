@@ -7,22 +7,53 @@
  *    Audio timeline => sample-accurate gapless joins.
  *  - A lookahead scheduler keeps the next segments decoded and queued; if
  *    loading falls behind, the timeline is rebased and playback resumes after
- *    a buffering gap (sources never overlap).
- *  - At the end of the set, a designed fade-out loops back to the first
+ *    a short buffering gap (sources never overlap).
+ *  - At the end of a set, a designed fade-out loops back to the first
  *    segment's natural intro.
+ *  - MULTIPLE SETS: mount({ sets: [...] }) gives a set menu in the panel and
+ *    a designed crossfade between sets (equal-power curves on per-set gain
+ *    stages). Each set keeps its own engine and remembers its position, so
+ *    switching back resumes where you left off. The single-set mount API
+ *    (source / segments / files) is preserved unchanged.
+ *  - LAYERED SETS (stems): mount({ layers: [...] }) plays several ordered
+ *    segment lists SIMULTANEOUSLY on independent timelines, so their loop
+ *    points drift against each other and the combination evolves instead of
+ *    repeating. Each layer has its own gain stage; soloing a layer crossfades
+ *    the others out without stopping their timelines. NOTE: the player plays
+ *    premixed recordings — it does not synthesize audio or mix stems in the
+ *    sense of generating music; it schedules the user's own files.
  *  - Optional "adapt to time of day": a gentle low-pass filter + level trim
  *    following the hour of day — brighter and louder mid-day, warmer and
  *    dimmer at night.
- *  - Controls: play/pause/resume, stop, random jump, track selection,
- *    session timer with its own gain-stage fade, volume, MediaSession,
- *    and a graceful <audio> element fallback if Web Audio AAC decoding
- *    is unavailable.
+ *  - Controls: play/pause/resume, stop, random jump, track selection, set
+ *    selection, session timer with its own gain-stage fade, volume,
+ *    MediaSession, and a graceful <audio> element fallback if Web Audio AAC
+ *    decoding is unavailable.
  *
  * Usage:
  *   FCPlayer.mount({
  *     title: 'Focus Soundscape', subtitle: 'study set · 16 min',
  *     source: { dir: 'assets/audio/segments/', pattern: 'segment_%04d.aac', count: 16 },
  *     // ...or segments: ['a.aac','b.aac'], or files: [File...] (from a folder picker)
+ *   });
+ *
+ *   // Multiple sets (set menu + crossfade switching):
+ *   FCPlayer.mount({
+ *     setCrossfade: 4,                       // seconds, default 4
+ *     sets: [
+ *       { id: 'flow', title: 'Flow', subtitle: '16 min',
+ *         source: { dir: 'assets/audio/flow/', pattern: 'segment_%04d.aac', count: 16 } },
+ *       { id: 'rest', title: 'Rest', segments: ['a.aac', 'b.aac'] }
+ *     ]
+ *   });
+ *   instance.loadSet('rest');                // switch (crossfades if playing)
+ *
+ *   // Layered sets (stems on independent timelines):
+ *   FCPlayer.mount({
+ *     layers: [
+ *       { title: 'Drone bed', gain: 1, source: {...} },
+ *       { title: 'Arpeggio',  gain: 0.7, source: {...} }
+ *     ]
  *   });
  */
 (function () {
@@ -36,14 +67,24 @@
     segments: null,          // array of URLs
     source: null,            // {dir, pattern, count} — pattern uses %04d-style padding
     files: null,             // array of File objects (local mode)
+    sets: null,              // array of set definitions (multi-set mode)
+    layers: null,            // array of layer definitions (layered/stems mode)
     loopFadeOut: 3.0,        // seconds of fade-out on the final segment before looping
     lookahead: 2.5,          // seconds of scheduling lookahead
     poll: 200,               // ms between scheduler ticks
-    rotatePasses: false,    // vary loops: each pass starts at a random rotated track.
-                             // Enable ONLY when adjacent segments join musically
-                             // (true for a continuous recording); otherwise the
-                             // ordered loop (…last → first → …) is the safe default.
+    rotatePasses: false,     // QUARANTINED: see note below. Do not enable in
+                             // examples unless the junction-fade problem is
+                             // solved (docs/ROADMAP.md, HANDOFF.md).
+    setCrossfade: 4.0,       // seconds of crossfade when switching sets
+    soloFade: 1.5,           // seconds of crossfade when soloing a layer
+    normalizeLayers: true     // scale layer gains by 1/sqrt(N) to avoid clipping
   };
+
+  // rotatePasses note: for a continuous recording the last→first junction is the
+  // loop endpoint; rotating passes moves that un-faded hard cut INSIDE a pass.
+  // It is mechanically correct (spec-verified) but off by default and not used
+  // in any example. Enabling it safely requires junction-aware fades or
+  // cyclically seamless source material.
 
   // ---------- utilities ----------
 
@@ -72,17 +113,369 @@
     return { cutoff: cutoff, gain: gain };
   }
 
-  // ---------- audio engine ----------
+  // Equal-power fade curve (sinusoidal) between two gain values.
+  // Returns a Float32Array usable with setValueCurveAtTime.
+  function fadeCurve(from, to, n) {
+    var arr = new Float32Array(n || 32);
+    for (var i = 0; i < arr.length; i++) {
+      var t = i / (arr.length - 1);
+      arr[i] = from + (to - from) * Math.sin(t * Math.PI / 2);
+    }
+    return arr;
+  }
 
-  function Engine(opts, ui) {
+  // ---------- session (shared audio graph + multi-engine coordination) ----------
+
+  /* One Session per mount. It owns the shared signal chain
+   *   per-engine gainNode(s) -> filter -> masterGain -> timerGain -> destination
+   * and the session-wide state (timer, volume, circadian, ticker), so those
+   * survive set switches and apply uniformly across layers. */
+  function Session(opts, ui) {
+    this.opts = opts;
+    this.ui = ui;
+    this.ctx = null;
+    this.filter = null;
+    this.masterGain = null;
+    this.timerGain = null;
+    this.engines = [];        // one Engine per set (or per layer)
+    this.activeEngine = null; // sets mode: the selected set; layers mode: engines[0]
+    this.mode = 'sets';       // 'sets' | 'layers'
+    this.timerEnd = null;     // Date.now() ms when timer fires
+    this._timerMinutes = 0;
+    this._timerTO = null;
+    this.tickId = null;
+    this._disposed = false;
+    this._switchGen = 0;      // invalidated by stop()/dispose()
+    this._soloIdx = null;     // layers mode: index of the soloed layer
+    this._elapsedBase = 0;    // layers mode: elapsed play time (position display)
+    this._playStart = 0;
+  }
+
+  Session.prototype.ensureContext = function () {
+    if (this.ctx) return;
+    var AC = window.AudioContext || window.webkitAudioContext;
+    this.ctx = new AC();
+    this.filter = this.ctx.createBiquadFilter();
+    this.filter.type = 'lowpass';
+    this.filter.frequency.value = 20000;
+    this.filter.Q.value = 0.0001;
+    this.masterGain = this.ctx.createGain();
+    this.masterGain.gain.value = this.ui.getVolume();
+    this.timerGain = this.ctx.createGain(); // owned by the session timer fade
+    this.timerGain.gain.value = 1;
+    this.filter.connect(this.masterGain);
+    this.masterGain.connect(this.timerGain);
+    this.timerGain.connect(this.ctx.destination);
+  };
+
+  // Per-engine output gain (used as the set crossfade / layer level stage).
+  Session.prototype.createEngineGain = function (engine) {
+    var g = this.ctx.createGain();
+    var base;
+    if (this.mode === 'layers') {
+      base = engine._layerGain * (this.opts.normalizeLayers ? 1 / Math.sqrt(this.engines.length) : 1);
+    } else {
+      base = engine === this.activeEngine ? 1 : 0;
+    }
+    g.gain.value = base;
+    g.connect(this.filter);
+    return g;
+  };
+
+  Session.prototype._startTicker = function () {
+    var self = this;
+    if (this.tickId) clearInterval(this.tickId);
+    this.tickId = setInterval(function () {
+      if (self._disposed) { clearInterval(self.tickId); return; }
+      self._tick();
+    }, this.opts.poll);
+  };
+
+  Session.prototype._tick = function () {
+    var i, e, anyPlaying = false, anyDecodable = false;
+    if (this.mode === 'layers') {
+      for (i = 0; i < this.engines.length; i++) {
+        e = this.engines[i];
+        if (e.state === 'playing' && !e.decodeFailed) e._scheduleTick();
+        if (e.state === 'playing') anyPlaying = true;
+        if (!e.decodeFailed) anyDecodable = true;
+      }
+    } else {
+      var a = this.activeEngine;
+      if (a) {
+        if (a.state === 'playing' && !a.decodeFailed) a._scheduleTick();
+        if (a.state === 'playing') anyPlaying = true;
+        if (!a.decodeFailed) anyDecodable = true;
+      }
+    }
+    if (anyPlaying) this.ui.updatePosition();
+    if (anyDecodable) this._applyCircadian();
+    this._checkTimer();
+    if (this.timerEnd) this.ui.updateTimer(null);
+  };
+
+  Session.prototype._applyCircadian = function () {
+    if (!this.ui.circadianOn() || !this.filter || !this.ctx) return;
+    var c = circadian(new Date().getHours());
+    this.filter.frequency.setTargetAtTime(c.cutoff, this.ctx.currentTime, 2.0);
+    // level trim only when not muted; keep user volume separate
+    this.masterGain.gain.setTargetAtTime(this.ui.getVolume() * c.gain, this.ctx.currentTime, 2.0);
+  };
+
+  Session.prototype.setVolume = function (v) {
+    if (this.masterGain && this.ctx) {
+      this.masterGain.gain.setTargetAtTime(v, this.ctx.currentTime, 0.05);
+    }
+    for (var i = 0; i < this.engines.length; i++) {
+      if (this.engines[i].fallbackAudio) this.engines[i].fallbackAudio.volume = v;
+    }
+  };
+
+  Session.prototype.setTimer = function (minutes) {
+    this.timerEnd = minutes ? Date.now() + minutes * 60000 : null;
+    this._timerMinutes = minutes || 0;
+    // any timer change cancels a pending stop fade and restores the envelope
+    if (this._timerTO) { clearTimeout(this._timerTO); this._timerTO = null; }
+    if (this.timerGain && this.ctx) { this.timerGain.gain.cancelScheduledValues(this.ctx.currentTime); this.timerGain.gain.setTargetAtTime(1, this.ctx.currentTime, 0.05); }
+    this.ui.updateTimer(this.timerEnd ? this._timerMinutes * 60 : null);
+  };
+
+  Session.prototype._checkTimer = function () {
+    if (!this.timerEnd) return;
+    if (Date.now() >= this.timerEnd) {
+      // gentle 8-second fade then stop (timerGain is separate from volume,
+      // so circadian/volume ticks can't fight the fade)
+      var self = this;
+      if (this.timerGain && this.ctx) {
+        this.timerGain.gain.setTargetAtTime(0.0001, this.ctx.currentTime, 2.5);
+        if (this._timerTO) clearTimeout(this._timerTO);
+        this._timerTO = setTimeout(function () {
+          self._timerTO = null;
+          self.stop(); // restores timerGain to 1
+        }, 8500);
+      } else {
+        // all engines in <audio> fallback: just pause them
+        for (var i = 0; i < this.engines.length; i++) {
+          var e = this.engines[i];
+          if (e.decodeFailed && e.fallbackAudio) { try { e.fallbackAudio.pause(); } catch (x) {} }
+        }
+      }
+      this.timerEnd = null;
+      this.ui.updateTimer(null);
+    }
+  };
+
+  Session.prototype.playingState = function () {
+    if (this.mode === 'layers') {
+      var playing = false, paused = false;
+      for (var i = 0; i < this.engines.length; i++) {
+        if (this.engines[i].state === 'playing') playing = true;
+        else if (this.engines[i].state === 'paused') paused = true;
+      }
+      return playing ? 'playing' : (paused ? 'paused' : 'idle');
+    }
+    return this.activeEngine ? this.activeEngine.state : 'idle';
+  };
+
+  // position/total for the display: per-pass position of the active set,
+  // or elapsed session time in layers mode (layers drift, so a single
+  // per-pass position would be meaningless there).
+  Session.prototype.displayPosition = function () {
+    if (this.mode === 'layers') {
+      if (this.playingState() !== 'playing' || !this.ctx) return this._elapsedBase;
+      return this._elapsedBase + (this.ctx.currentTime - this._playStart);
+    }
+    return this.activeEngine ? this.activeEngine.position() : 0;
+  };
+
+  Session.prototype.displayTotal = function () {
+    if (this.mode === 'layers') return Infinity;
+    return this.activeEngine ? this.activeEngine.totalDuration() : 0;
+  };
+
+  Session.prototype.play = function () {
+    this.ensureContext();
+    if (this.ctx.state === 'suspended') this.ctx.resume();
+    if (this.mode === 'layers') {
+      var started = false;
+      for (var i = 0; i < this.engines.length; i++) {
+        if (this.engines[i].state !== 'playing') { this.engines[i].play(); started = true; }
+      }
+      if (started) this._playStart = this.ctx.currentTime;
+    } else if (this.activeEngine) {
+      this.activeEngine.play();
+    }
+  };
+
+  Session.prototype.pause = function () {
+    if (this.mode === 'layers') {
+      if (!this.ctx) return;
+      this._elapsedBase += Math.max(0, this.ctx.currentTime - this._playStart);
+      for (var i = 0; i < this.engines.length; i++) this.engines[i].pause();
+    } else if (this.activeEngine) {
+      this.activeEngine.pause();
+    }
+  };
+
+  Session.prototype.stop = function () {
+    this._switchGen++; // invalidate pending crossfade retirements
+    for (var i = 0; i < this.engines.length; i++) {
+      var e = this.engines[i];
+      if (e._retireTO) { clearTimeout(e._retireTO); e._retireTO = null; }
+      if (this.mode === 'layers' || e === this.activeEngine) e.stop();
+      else {
+        // non-active sets freeze at their remembered position (resume later)
+        e._stopSources();
+        if (e.state === 'playing') { e._capturePosition(); e.state = 'paused'; }
+        if (e.decodeFailed && e.fallbackAudio) { try { e.fallbackAudio.pause(); } catch (x) {} }
+      }
+    }
+    this._elapsedBase = 0;
+    if (this.timerGain && this.ctx) { this.timerGain.gain.cancelScheduledValues(this.ctx.currentTime); this.timerGain.gain.setTargetAtTime(1, this.ctx.currentTime, 0.05); }
+    this.ui.update();
+  };
+
+  Session.prototype.jumpTo = function (idx) {
+    if (this.mode === 'layers') {
+      for (var i = 0; i < this.engines.length; i++) this.engines[i].jumpTo(Math.min(idx, this.engines[i]._segmentCount() - 1));
+    } else if (this.activeEngine) {
+      this.activeEngine.jumpTo(idx);
+    }
+  };
+
+  Session.prototype.random = function () {
+    if (this.mode === 'layers') {
+      for (var i = 0; i < this.engines.length; i++) this.engines[i].random();
+    } else if (this.activeEngine) {
+      this.activeEngine.random();
+    }
+  };
+
+  // Switch the active set with a designed equal-power crossfade. The outgoing
+  // set's position is captured first (it resumes there next time); its sources
+  // keep sounding into the fade and are retired when it completes.
+  Session.prototype.switchSet = function (id) {
+    var target = null, i;
+    for (i = 0; i < this.engines.length; i++) if (this.engines[i].setId === id) target = this.engines[i];
+    if (!target || target === this.activeEngine) return;
+    var out = this.activeEngine;
+    this.ensureContext();
+    if (this.ctx.state === 'suspended') this.ctx.resume();
+    this._switchGen++;
+
+    var cf = Math.max(0.05, this.opts.setCrossfade);
+    var now = this.ctx.currentTime;
+    var wasPlaying = out && out.state === 'playing' && !out.decodeFailed;
+
+    this.activeEngine = target;
+
+    if (out) {
+      if (out.decodeFailed) {
+        // <audio> fallback: no shared gain stage — just hand over cleanly
+        out._capturePosition();
+        out._retire();
+      } else if (wasPlaying) {
+        out._capturePosition(); // freeze position for the next visit
+        var outSelf = out;
+        out._retireTO = setTimeout(function () {
+          outSelf._retireTO = null;
+          outSelf._retire();
+        }, (cf + 0.3) * 1000);
+        this._rampEngineGain(out, 0.0001, cf);
+      } else {
+        this._rampEngineGain(out, 0.0001, 0.05);
+      }
+    }
+
+    // incoming: prepare its gain stage before playback begins. The fade starts
+    // from silence (or the set's current mid-fade level if it was still fading
+    // out from an earlier rapid switch), never from full level.
+    target.ensureContext();
+    if (target._retireTO) { clearTimeout(target._retireTO); target._retireTO = null; }
+    if (wasPlaying) {
+      this._rampEngineGain(target, 1, cf, Math.min(target.gainNode.gain.value, 0.05));
+      target._resumeFade = 0.8; // gentle fade-in on the resumed material
+      target.play();            // resumes from its captured position, or fresh
+    } else {
+      this._rampEngineGain(target, 1, 0.05);
+    }
+    this.ui.onSetSwitched(target);
+    this.ui.update();
+  };
+
+  Session.prototype._rampEngineGain = function (engine, to, dur, fromOverride) {
+    if (!engine.gainNode) return;
+    var now = this.ctx.currentTime;
+    var from = (typeof fromOverride === 'number') ? fromOverride : engine.gainNode.gain.value;
+    try {
+      engine.gainNode.gain.setValueAtTime(from, now);
+      engine.gainNode.gain.setValueCurveAtTime(fadeCurve(from, to), now, dur);
+    } catch (e) {
+      engine.gainNode.gain.cancelScheduledValues(now);
+      engine.gainNode.gain.setValueAtTime(from, now);
+      engine.gainNode.gain.linearRampToValueAtTime(to, now + dur);
+    }
+  };
+
+  // Add a set at runtime (FCPlayer.loadSet). Switches to it when playing.
+  Session.prototype.addSet = function (def) {
+    var engine = makeEngine(def, this);
+    this.engines.push(engine);
+    this.ui._renderSets();
+    return engine;
+  };
+
+  // Solo one layer (or restore all with idx == null). Timelines keep running —
+  // only the layer gain stages crossfade.
+  Session.prototype.soloLayer = function (idx) {
+    if (this.mode !== 'layers') return;
+    this.ensureContext();
+    this._soloIdx = (idx === this._soloIdx) ? null : idx;
+    var sf = Math.max(0.05, this.opts.soloFade);
+    for (var i = 0; i < this.engines.length; i++) {
+      var e = this.engines[i];
+      var base = e._layerGain * (this.opts.normalizeLayers ? 1 / Math.sqrt(this.engines.length) : 1);
+      var target = (this._soloIdx != null && i !== this._soloIdx) ? 0.0001 : base;
+      this._rampEngineGain(e, target, sf);
+    }
+    this.ui._highlightLayers(); // classes only — rebuilding rows mid-click detaches the event target
+  };
+
+  Session.prototype.layerBaseGain = function (i) {
+    var e = this.engines[i];
+    return e._layerGain * (this.opts.normalizeLayers ? 1 / Math.sqrt(this.engines.length) : 1);
+  };
+
+  Session.prototype.dispose = function () {
+    this._disposed = true;
+    this._switchGen++;
+    if (this.tickId) clearInterval(this.tickId);
+    if (this._timerTO) clearTimeout(this._timerTO);
+    for (var i = 0; i < this.engines.length; i++) {
+      var e = this.engines[i];
+      e._disposed = true;
+      if (e._retireTO) { clearTimeout(e._retireTO); e._retireTO = null; }
+      e._stopSources();
+      if (e._objUrls) e._objUrls.forEach(function (u) { try { URL.revokeObjectURL(u); } catch (x) {} });
+    }
+    if (this.ctx) { try { this.ctx.close(); } catch (x) {} }
+  };
+
+  // ---------- audio engine (one per set / per layer) ----------
+
+  function Engine(opts, ui, session) {
     var self = this;
     this.opts = opts;
     this.ui = ui;
+    this.session = session;
+    this.setId = opts.setId;
+    this._layerGain = (typeof opts.gain === 'number') ? opts.gain : 1;
 
-    this.ctx = null;
-    this.masterGain = null;
-    this.timerGain = null;
-    this.filter = null;
+    this.ctx = null;           // === session.ctx once ensured
+    this.gainNode = null;      // per-engine output gain (set crossfade / layer level)
+    this.masterGain = null;    // session-owned (kept for API compat)
+    this.timerGain = null;     // session-owned (kept for API compat)
+    this.filter = null;        // session-owned (kept for API compat)
     this.buffers = [];        // decoded AudioBuffers, index-aligned
     this.decodeFailed = false;
     this.fallbackAudio = null;// <audio> element fallback
@@ -94,7 +487,7 @@
     this.timelineStart = 0;   // ctx time when current segment started
     this.nextTime = 0;        // ctx time for the next segment start
     this.sources = [];         // live AudioBufferSourceNodes
-    this.timerEnd = null;     // Date.now() ms when timer fires
+    this.timerEnd = null;     // mirror of session timerEnd (display compat)
     this.timerRAF = null;
     this.rafId = null;
     this.tickId = null;
@@ -109,6 +502,7 @@
     this._pendingPassStart = false; // next scheduled segment begins a new pass
     this._pendingPassFade = 0.05;   // fade-in length for that pass-start segment
     this._resumeFade = 0.05;        // fade-in length for the next resume (jumps use a longer one)
+    this._retireTO = null;     // pending post-crossfade retirement timer
   }
 
   Engine.prototype.totalDuration = function () {
@@ -155,20 +549,14 @@
   };
 
   Engine.prototype.ensureContext = function () {
-    if (this.ctx) return;
-    var AC = window.AudioContext || window.webkitAudioContext;
-    this.ctx = new AC();
-    this.filter = this.ctx.createBiquadFilter();
-    this.filter.type = 'lowpass';
-    this.filter.frequency.value = 20000;
-    this.filter.Q.value = 0.0001;
-    this.masterGain = this.ctx.createGain();
-    this.masterGain.gain.value = this.ui.getVolume();
-    this.timerGain = this.ctx.createGain(); // owned by the session timer fade
-    this.timerGain.gain.value = 1;
-    this.filter.connect(this.masterGain);
-    this.masterGain.connect(this.timerGain);
-    this.timerGain.connect(this.ctx.destination);
+    this.session.ensureContext();
+    this.ctx = this.session.ctx;
+    this.filter = this.session.filter;
+    this.masterGain = this.session.masterGain;
+    this.timerGain = this.session.timerGain;
+    if (!this.gainNode) {
+      this.gainNode = this.session.createEngineGain(this);
+    }
   };
 
   // Fetch + decode one segment. Returns a promise.
@@ -185,7 +573,7 @@
     }).then(function (audioBuf) {
       self.buffers[i] = audioBuf;
       delete self._loading[i];
-      self.ui.refreshTracks(); // durations become known as segments decode
+      if (self === self.session.activeEngine) self.ui.refreshTracks(); // durations become known as segments decode
       return audioBuf;
     }).catch(function (err) {
       delete self._loading[i];
@@ -325,7 +713,7 @@
       g.gain.setValueAtTime(1, when + dur - this.opts.loopFadeOut);
       g.gain.linearRampToValueAtTime(0.0001, when + dur - 0.05);
     }
-    src.connect(g); g.connect(this.filter);
+    src.connect(g); g.connect(this.gainNode || this.filter);
 
     src.start(when, offset);
     this.sources.push(src);
@@ -412,7 +800,7 @@
       this.segOffset = 0;
       this._frontIdx = idx;
       this.state = 'playing';
-      this._startTicker();
+      this.session._startTicker();
       this._scheduleTick();
       this.ui.update();
       return;
@@ -436,7 +824,7 @@
       self.nextTime = self.ctx.currentTime + 0.06;
       self.timelineStart = self.nextTime;
       self.state = 'playing';
-      self._startTicker();
+      self.session._startTicker();
       self._scheduleTick();
       self._prefetch();
       self.ui.update();
@@ -455,7 +843,7 @@
         a.src = this._segmentURL(idx);
         a.play().catch(function () {});
         this.state = 'playing';
-        this._startTicker();
+        this.session._startTicker();
       }
       this.ui.update();
       return;
@@ -482,17 +870,22 @@
     this.jumpTo(Math.floor(Math.random() * n));
   };
 
-  Engine.prototype._startTicker = function () {
-    var self = this;
-    if (this.tickId) clearInterval(this.tickId);
-    this.tickId = setInterval(function () {
-      if (self._disposed) { clearInterval(self.tickId); return; }
-      if (self.state === 'playing' && !self.decodeFailed) self._scheduleTick();
-      if (self.state === 'playing') self.ui.updatePosition(); // also covers fallback mode
-      if (!self.decodeFailed) self._applyCircadian();
-      self._checkTimer();
-      if (self.timerEnd) self.ui.updateTimer(null);
-    }, this.opts.poll);
+  // capture the current position (segment + offset + per-pass position) without
+  // stopping playback — used by pause() and by set switching, so a set switched
+  // away from mid-playback resumes exactly where it was
+  Engine.prototype._capturePosition = function () {
+    if (this.decodeFailed && this.fallbackAudio) {
+      this._fbResumeTime = this.fallbackAudio.currentTime || 0;
+      return;
+    }
+    if (this.state !== 'playing') return;
+    this._pausedPos = this.position();
+    var fi = this._frontIdx;
+    var buf = this.buffers[fi];
+    if (buf) {
+      this.segIndex = fi;
+      this.segOffset = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), buf.duration);
+    }
   };
 
   Engine.prototype.pause = function () {
@@ -501,15 +894,19 @@
     // capture the front source's segment and offset directly, plus the
     // position within the current pass (position() handles the scheduled-ahead
     // next pass correctly)
-    this._pausedPos = this.position();
-    var fi = this._frontIdx;
-    var buf = this.buffers[fi];
+    this._capturePosition();
     this._stopSources();
     this.state = 'paused';
-    if (buf) {
-      this.segIndex = fi;
-      this.segOffset = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), buf.duration);
-    }
+    this.ui.update();
+  };
+
+  // stop sounding after a crossfade: sources stop, state becomes 'paused' with
+  // the position already captured by _capturePosition (so the set resumes there)
+  Engine.prototype._retire = function () {
+    if (this._retireTO) { clearTimeout(this._retireTO); this._retireTO = null; }
+    this._stopSources();
+    if (this.state === 'playing') this.state = 'paused';
+    if (this.decodeFailed && this.fallbackAudio) { try { this.fallbackAudio.pause(); } catch (e) {} }
     this.ui.update();
   };
 
@@ -526,8 +923,6 @@
     this._schedLoopStart = 0;
     this._resumeFade = 0.05;
     this.timerEnd = null;
-    if (this._timerTO) { clearTimeout(this._timerTO); this._timerTO = null; }
-    if (this.timerGain && this.ctx) { this.timerGain.gain.cancelScheduledValues(this.ctx.currentTime); this.timerGain.gain.setTargetAtTime(1, this.ctx.currentTime, 0.05); }
     this.ui.update();
   };
 
@@ -539,52 +934,9 @@
     this.sources = [];
   };
 
-  Engine.prototype.setVolume = function (v) {
-    if (this.masterGain && this.ctx) {
-      this.masterGain.gain.setTargetAtTime(v, this.ctx.currentTime, 0.05);
-    }
-    if (this.fallbackAudio) this.fallbackAudio.volume = v;
-  };
-
-  Engine.prototype._applyCircadian = function () {
-    if (!this.ui.circadianOn() || !this.filter || !this.ctx) return;
-    var c = circadian(new Date().getHours());
-    this.filter.frequency.setTargetAtTime(c.cutoff, this.ctx.currentTime, 2.0);
-    // level trim only when not muted; keep user volume separate
-    this.masterGain.gain.setTargetAtTime(this.ui.getVolume() * c.gain, this.ctx.currentTime, 2.0);
-  };
-
-  Engine.prototype.setTimer = function (minutes) {
-    this.timerEnd = minutes ? Date.now() + minutes * 60000 : null;
-    this._timerMinutes = minutes || 0;
-    // any timer change cancels a pending stop fade and restores the envelope
-    if (this._timerTO) { clearTimeout(this._timerTO); this._timerTO = null; }
-    if (this.timerGain && this.ctx) { this.timerGain.gain.cancelScheduledValues(this.ctx.currentTime); this.timerGain.gain.setTargetAtTime(1, this.ctx.currentTime, 0.05); }
-    this.ui.updateTimer(this.timerEnd ? this._timerMinutes * 60 : null);
-  };
-
-  Engine.prototype._checkTimer = function () {
-    if (!this.timerEnd) return;
-    if (Date.now() >= this.timerEnd) {
-      // gentle 8-second fade then stop (timerGain is separate from volume,
-      // so circadian/volume ticks can't fight the fade)
-      var self = this;
-      if (this.decodeFailed && this.fallbackAudio) {
-        this.fallbackAudio.pause(); this.stop(); return;
-      }
-      if (this.timerGain && this.ctx) {
-        this.timerGain.gain.setTargetAtTime(0.0001, this.ctx.currentTime, 2.5);
-        var self2 = this;
-        if (this._timerTO) clearTimeout(this._timerTO);
-        this._timerTO = setTimeout(function () {
-          self2._timerTO = null;
-          self2.stop(); // restores timerGain to 1
-        }, 8500);
-      }
-      this.timerEnd = null;
-      this.ui.updateTimer(null);
-    }
-  };
+  // session-owned concerns (kept as engine methods for API compatibility)
+  Engine.prototype.setVolume = function (v) { this.session.setVolume(v); };
+  Engine.prototype.setTimer = function (m) { this.session.setTimer(m); };
 
   Engine.prototype._fail = function (err) {
     if (this.decodeFailed || this._disposed) return; // fail once, and never post-dispose
@@ -604,7 +956,7 @@
       // remember real segment durations for position tracking
       self._fbDurations = self._fbDurations || [];
       self._fbDurations[self.fallbackIndex] = a.duration;
-      self.ui.refreshTracks();
+      if (self === self.session.activeEngine) self.ui.refreshTracks();
     });
     a.addEventListener('ended', function () {
       if (self.state !== 'playing' || self._disposed) return;
@@ -624,12 +976,22 @@
   Engine.prototype._fallbackPlay = function () {
     var a = this.fallbackAudio;
     if (!a) return;
-    if (this.state === 'paused') { a.play().catch(function () {}); this.state = 'playing'; this._startTicker(); this.ui.update(); return; }
+    if (this.state === 'paused') {
+      if (this._fbResumeTime && isFinite(this._fbResumeTime)) {
+        try { a.currentTime = this._fbResumeTime; } catch (e) {}
+        this._fbResumeTime = 0;
+      }
+      a.play().catch(function () {});
+      this.state = 'playing';
+      this.session._startTicker();
+      this.ui.update();
+      return;
+    }
     this.fallbackIndex = 0;
     a.src = this._segmentURL(0);
     a.play().catch(function () {});
     this.state = 'playing';
-    this._startTicker();
+    this.session._startTicker();
     this.ui.update();
   };
 
@@ -640,7 +1002,8 @@
     this.opts = opts;
     this.volume = 0.8;
     this.circadian = true;
-    this.engine = null;
+    this.engine = null;   // facade set by mount()
+    this.session = null;  // set by mount()
 
     // floating pill button
     this.btn = el('button', 'fcp-btn');
@@ -676,6 +1039,14 @@
       '  <input type="checkbox" checked> <span>Adapt to time of day</span>',
       '</label>',
       '<div class="fcp-timerdisplay" hidden></div>',
+      '<div class="fcp-sets-wrap" hidden>',
+      '  <div class="fcp-tlabel">Sets</div>',
+      '  <div class="fcp-sets" role="listbox" aria-label="Sets"></div>',
+      '</div>',
+      '<div class="fcp-layers-wrap" hidden>',
+      '  <div class="fcp-tlabel">Layers</div>',
+      '  <div class="fcp-layers"></div>',
+      '</div>',
       '<div class="fcp-tracks-label">Tracks</div>',
       '<div class="fcp-tracks" role="listbox" aria-label="Tracks"></div>',
     ].join('');
@@ -695,40 +1066,49 @@
     this.circEl = this.panel.querySelector('.fcp-circ input');
     this.timerDisp = this.panel.querySelector('.fcp-timerdisplay');
     this.tracksEl = this.panel.querySelector('.fcp-tracks');
+    this.tracksLabel = this.panel.querySelector('.fcp-tracks-label');
+    this.setsWrap = this.panel.querySelector('.fcp-sets-wrap');
+    this.setsEl = this.panel.querySelector('.fcp-sets');
+    this.layersWrap = this.panel.querySelector('.fcp-layers-wrap');
+    this.layersEl = this.panel.querySelector('.fcp-layers');
 
     this.titleEl.textContent = opts.title;
     this.subEl.textContent = opts.subtitle || '';
 
     this.playBtn.addEventListener('click', function () {
-      if (self.engine.state === 'playing') self.engine.pause(); else self.engine.play();
+      if (self.session.playingState() === 'playing') self.session.pause(); else self.session.play();
     });
-    this.randomBtn.addEventListener('click', function () { self.engine.random(); });
-    this.stopBtn.addEventListener('click', function () { self.engine.stop(); });
+    this.randomBtn.addEventListener('click', function () { self.session.random(); });
+    this.stopBtn.addEventListener('click', function () { self.session.stop(); });
     this.volEl.addEventListener('input', function () {
       self.volume = this.value / 100;
-      if (self.engine) self.engine.setVolume(self.volume);
+      if (self.session) self.session.setVolume(self.volume);
     });
     this.circEl.addEventListener('change', function () {
       self.circadian = this.checked;
-      if (self.engine) {
-        if (!this.checked && self.engine.filter && self.engine.ctx) {
-          self.engine.filter.frequency.setTargetAtTime(20000, self.engine.ctx.currentTime, 0.5);
-          self.engine.masterGain.gain.setTargetAtTime(self.volume, self.engine.ctx.currentTime, 0.5);
-        } else self.engine._applyCircadian();
+      if (self.session) {
+        if (!this.checked && self.session.filter && self.session.ctx) {
+          self.session.filter.frequency.setTargetAtTime(20000, self.session.ctx.currentTime, 0.5);
+          self.session.masterGain.gain.setTargetAtTime(self.volume, self.session.ctx.currentTime, 0.5);
+        } else self.session._applyCircadian();
       }
     });
     var chips = this.panel.querySelectorAll('.fcp-chip');
     for (var i = 0; i < chips.length; i++) {
       chips[i].addEventListener('click', function () {
         var m = parseInt(this.getAttribute('data-min'), 10);
-        self.engine.setTimer(m);
+        self.session.setTimer(m);
         for (var j = 0; j < chips.length; j++) chips[j].classList.remove('on');
         if (m > 0) this.classList.add('on');
       });
     }
 
     document.addEventListener('click', function (e) {
-      // clicks on elements marked data-fcp-toggle are player controls, not outside-clicks
+      // clicks on elements marked data-fcp-toggle are player controls, not outside-clicks.
+      // composedPath() is captured at dispatch, so a click target that a handler
+      // replaced mid-dispatch is still recognized as inside the panel.
+      var path = (typeof e.composedPath === 'function') ? e.composedPath() : [];
+      if (path.indexOf(self.panel) >= 0 || path.indexOf(self.btn) >= 0) return;
       if (e.target.closest && e.target.closest('[data-fcp-toggle]')) return;
       if (!self.panel.contains(e.target) && !self.btn.contains(e.target)) self.panel.classList.remove('open');
     });
@@ -736,7 +1116,6 @@
       if (e.key === 'Escape') self.panel.classList.remove('open');
     });
 
-    this._renderTracks();
     this._mediaSession();
   }
 
@@ -748,19 +1127,105 @@
   UI.prototype.getVolume = function () { return this.volume; };
   UI.prototype.circadianOn = function () { return this.circadian; };
 
+  // active engine (facade target) — layers mode has no single active engine
+  UI.prototype._active = function () {
+    if (!this.session) return null;
+    if (this.session.mode === 'layers') return null;
+    return this.session.activeEngine;
+  };
+
+  // build the set menu (multi-set mounts only)
+  UI.prototype._renderSets = function () {
+    var self = this;
+    if (!this.session) return;
+    var many = this.session.mode === 'sets' && this.session.engines.length > 1;
+    this.setsWrap.hidden = !many;
+    if (!many) return;
+    var frag = document.createDocumentFragment();
+    for (var i = 0; i < this.session.engines.length; i++) {
+      (function (eng) {
+        var chip = el('button', 'fcp-setchip');
+        chip.setAttribute('role', 'option');
+        chip.textContent = eng.opts.title;
+        chip.addEventListener('click', function () { self.session.switchSet(eng.setId); });
+        frag.appendChild(chip);
+      })(this.session.engines[i]);
+    }
+    this.setsEl.innerHTML = '';
+    this.setsEl.appendChild(frag);
+    this._highlightSet();
+  };
+
+  UI.prototype._highlightSet = function () {
+    if (!this.session) return;
+    var active = this.session.activeEngine;
+    var chips = this.setsEl.querySelectorAll('.fcp-setchip');
+    for (var i = 0; i < chips.length; i++) {
+      var on = this.session.engines[i] === active;
+      chips[i].classList.toggle('on', on);
+      chips[i].setAttribute('aria-selected', on ? 'true' : 'false');
+    }
+  };
+
+  // build the layer list (layered mounts only)
+  UI.prototype._renderLayers = function () {
+    var self = this;
+    if (!this.session) return;
+    var layered = this.session.mode === 'layers';
+    this.layersWrap.hidden = !layered;
+    this.tracksLabel.hidden = layered;
+    this.tracksEl.hidden = layered;
+    if (!layered) return;
+    var frag = document.createDocumentFragment();
+    for (var i = 0; i < this.session.engines.length; i++) {
+      (function (idx) {
+        var eng = self.session.engines[idx];
+        var row = el('button', 'fcp-layer');
+        row.setAttribute('role', 'option');
+        row.innerHTML = '<span class="fcp-layer-name"></span><span class="fcp-layer-solo" title="Solo this layer">solo</span>';
+        row.querySelector('.fcp-layer-name').textContent = eng.opts.title || ('Layer ' + (idx + 1));
+        row.addEventListener('click', function () { self.session.soloLayer(idx); });
+        frag.appendChild(row);
+      })(i);
+    }
+    this.layersEl.innerHTML = '';
+    this.layersEl.appendChild(frag);
+    this._highlightLayers();
+  };
+
+  UI.prototype._highlightLayers = function () {
+    if (!this.session || this.session.mode !== 'layers') return;
+    var rows = this.layersEl.querySelectorAll('.fcp-layer');
+    for (var i = 0; i < rows.length; i++) {
+      rows[i].classList.toggle('on', this.session._soloIdx === i);
+      rows[i].setAttribute('aria-selected', this.session._soloIdx === i ? 'true' : 'false');
+    }
+  };
+
+  // called by the session when the active set changes
+  UI.prototype.onSetSwitched = function (engine) {
+    this.titleEl.textContent = engine.opts.title;
+    this.subEl.textContent = engine.opts.subtitle || '';
+    this._renderTracks();
+    this._highlightSet();
+    this._updateMediaMetadata();
+    this.update();
+  };
+
   // build/refresh the track list
   UI.prototype._renderTracks = function () {
     var self = this;
-    if (!this.engine) return;
-    var n = this.engine._segmentCount();
+    var eng = this._active();
+    if (!eng) return;
+    var n = eng._segmentCount();
     var frag = document.createDocumentFragment();
     for (var i = 0; i < n; i++) {
       (function (idx) {
         var row = el('button', 'fcp-track');
         row.setAttribute('role', 'option');
         row.innerHTML = '<span class="fcp-tk-num">' + String(idx + 1).padStart(2, '0') + '</span>' +
-          '<span class="fcp-tk-dur">' + fmtTime(self.engine._segmentDuration(idx)) + '</span>';
-        row.addEventListener('click', function () { self.engine.jumpTo(idx); });
+          '<span class="fcp-tk-dur">' + fmtTime(eng._segmentDuration(idx)) + '</span>';
+        row.addEventListener('click', function () { self.session.jumpTo(idx); });
         frag.appendChild(row);
       })(i);
     }
@@ -775,9 +1240,10 @@
   };
 
   UI.prototype._highlightTrack = function () {
-    if (!this.engine) return;
-    var cur = this.engine.decodeFailed ? this.engine.fallbackIndex : this.engine._frontIdx;
-    if (this.engine.state !== 'playing') cur = this.engine.segIndex;
+    var eng = this._active();
+    if (!eng) return;
+    var cur = eng.decodeFailed ? eng.fallbackIndex : eng._frontIdx;
+    if (eng.state !== 'playing') cur = eng.segIndex;
     var rows = this.tracksEl.querySelectorAll('.fcp-track');
     for (var i = 0; i < rows.length; i++) {
       rows[i].classList.toggle('on', i === cur);
@@ -786,76 +1252,122 @@
   };
 
   UI.prototype.update = function () {
-    var st = this.engine.state;
+    var st = this.session ? this.session.playingState() : 'idle';
     this.panel.classList.toggle('is-playing', st === 'playing');
     this.panel.classList.toggle('is-paused', st === 'paused');
     this.btn.classList.toggle('is-playing', st === 'playing');
-    if (this.engine.buffers) {
-      this.totalEl.textContent = fmtTime(this.engine.totalDuration());
-    }
+    var total = this.session ? this.session.displayTotal() : 0;
+    this.totalEl.textContent = (total === Infinity) ? '∞' : fmtTime(total);
     if (st === 'idle') this.posEl.textContent = '0:00';
     this.updateTimer(null);
     this._highlightTrack();
+    this._highlightSet();
+    this._highlightLayers();
   };
 
   UI.prototype.updatePosition = function () {
-    this.posEl.textContent = fmtTime(this.engine.position());
+    if (!this.session) return;
+    this.posEl.textContent = fmtTime(this.session.displayPosition());
     this._highlightTrack();
   };
 
   UI.prototype.updateTimer = function (secondsLeft) {
-    if (secondsLeft == null && this.engine.timerEnd) {
-      secondsLeft = Math.max(0, (this.engine.timerEnd - Date.now()) / 1000);
+    if (secondsLeft == null && this.session && this.session.timerEnd) {
+      secondsLeft = Math.max(0, (this.session.timerEnd - Date.now()) / 1000);
     }
     if (secondsLeft == null) { this.timerDisp.hidden = true; return; }
     this.timerDisp.hidden = false;
     this.timerDisp.textContent = 'Timer · ' + fmtTime(secondsLeft) + ' remaining';
   };
 
+  UI.prototype._updateMediaMetadata = function () {
+    if (!('mediaSession' in navigator) || !this.session) return;
+    var eng = this.session.activeEngine;
+    if (!eng) return;
+    try {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: eng.opts.title,
+        artist: 'Flourishing Compendium',
+        album: eng.opts.subtitle || 'Soundscape',
+      });
+    } catch (e) {}
+  };
+
   UI.prototype._mediaSession = function () {
     var self = this;
     if (!('mediaSession' in navigator)) return;
+    this._updateMediaMetadata();
     try {
-      navigator.mediaSession.metadata = new MediaMetadata({
-        title: this.opts.title,
-        artist: 'Flourishing Compendium',
-        album: this.opts.subtitle || 'Soundscape',
-      });
-      navigator.mediaSession.setActionHandler('play', function () { self.engine.play(); });
-      navigator.mediaSession.setActionHandler('pause', function () { self.engine.pause(); });
-      navigator.mediaSession.setActionHandler('stop', function () { self.engine.stop(); });
+      navigator.mediaSession.setActionHandler('play', function () { self.session.play(); });
+      navigator.mediaSession.setActionHandler('pause', function () { self.session.pause(); });
+      navigator.mediaSession.setActionHandler('stop', function () { self.session.stop(); });
       if (navigator.mediaSession.setActionHandler) {
         try {
           navigator.mediaSession.setActionHandler('previoustrack', function () {
-            var n = self.engine._segmentCount();
-            self.engine.jumpTo(((self.engine._frontIdx - 1) % n + n) % n);
+            var eng = self.session.activeEngine;
+            if (!eng) return;
+            var n = eng._segmentCount();
+            self.session.jumpTo(((eng._frontIdx - 1) % n + n) % n);
           });
           navigator.mediaSession.setActionHandler('nexttrack', function () {
-            var n = self.engine._segmentCount();
-            self.engine.jumpTo((self.engine._frontIdx + 1) % n);
+            var eng = self.session.activeEngine;
+            if (!eng) return;
+            var n = eng._segmentCount();
+            self.session.jumpTo((eng._frontIdx + 1) % n);
           });
         } catch (e) {}
       }
     } catch (e) {}
   };
 
+  // ---------- engine facade ----------
+
+  /* The public `engine` returned by mount(). Forwards everything to the
+   * active engine, so callers keep a stable reference across set switches;
+   * session-wide methods (transport, timer, volume) route to the session so
+   * they apply to whichever set/layer arrangement is mounted. */
+  function makeEngineFacade(session) {
+    var SESSION_METHODS = {
+      play: 1, pause: 1, stop: 1, jumpTo: 1, random: 1, setTimer: 1, setVolume: 1
+    };
+    return new Proxy({}, {
+      get: function (t, prop) {
+        if (typeof prop === 'symbol') return undefined;
+        if (prop === 'session') return session;
+        if (prop === 'isFacade') return true;
+        if (SESSION_METHODS[prop]) return session[prop].bind(session);
+        if (prop === 'position') return session.displayPosition.bind(session);
+        if (prop === 'totalDuration') return session.displayTotal.bind(session);
+        var eng = session.activeEngine || session.engines[0];
+        if (!eng) return undefined;
+        var v = eng[prop];
+        return (typeof v === 'function') ? v.bind(eng) : v;
+      },
+      set: function (t, prop, v) {
+        var eng = session.activeEngine || session.engines[0];
+        if (eng) eng[prop] = v;
+        return true;
+      }
+    });
+  }
+
   // ---------- public API ----------
 
-  var _current = null; // {ui} — mounting again disposes the previous instance
+  var _current = null; // {ui, session, engines} — mounting again disposes the previous instance
+
+  function makeEngine(def, session) {
+    var eopts = {};
+    for (var k in DEFAULTS) eopts[k] = DEFAULTS[k];
+    for (var k2 in def) eopts[k2] = def[k2];
+    eopts.setId = def.id;
+    return new Engine(eopts, session.ui, session);
+  }
 
   window.FCPlayer = {
     dispose: function () {
       if (_current) {
-        var e = _current.engine;
         try {
-          if (e) {
-            e._disposed = true;
-            e.stop();
-            if (e.tickId) clearInterval(e.tickId);
-            if (e._timerTO) clearTimeout(e._timerTO);
-            if (e._objUrls) e._objUrls.forEach(function (u) { try { URL.revokeObjectURL(u); } catch (x) {} });
-            if (e.ctx) e.ctx.close();
-          }
+          _current.session.dispose();
         } catch (x) {}
         if (_current.ui && _current.ui.panel.parentNode) _current.ui.panel.remove();
         if (_current.ui && _current.ui.btn.parentNode) _current.ui.btn.remove();
@@ -866,19 +1378,67 @@
       var opts = {};
       for (var k in DEFAULTS) opts[k] = DEFAULTS[k];
       for (var k2 in userOpts) opts[k2] = userOpts[k2];
-      if (!opts.segments && !opts.source && !opts.files) {
-        throw new Error('FCPlayer.mount: provide segments[], source{dir,pattern,count} or files[]');
+
+      var setDefs = null;
+      if (opts.layers) setDefs = opts.layers;
+      else if (opts.sets) setDefs = opts.sets;
+      else if (opts.segments || opts.source || opts.files) {
+        setDefs = [{
+          id: 'default',
+          title: opts.title, subtitle: opts.subtitle,
+          segments: opts.segments, source: opts.source, files: opts.files,
+          rotatePasses: opts.rotatePasses
+        }];
       }
+      if (!setDefs || !setDefs.length) {
+        throw new Error('FCPlayer.mount: provide segments[], source{dir,pattern,count}, files[], sets[] or layers[]');
+      }
+
       if (_current) window.FCPlayer.dispose();
       var ui = new UI(opts);
-      var engine = new Engine(opts, ui);
-      ui.engine = engine;
-      _current = { ui: ui, engine: engine };
+      var session = new Session(opts, ui);
+      ui.session = session;
+      session.mode = opts.layers ? 'layers' : 'sets';
+      for (var i = 0; i < setDefs.length; i++) {
+        var def = setDefs[i];
+        if (!def.id) def.id = 'set' + i;
+        var engine = makeEngine(def, session);
+        session.engines.push(engine);
+      }
+      session.activeEngine = session.engines[0];
+      var facade = makeEngineFacade(session);
+      ui.engine = facade;
+
+      _current = { ui: ui, session: session, engines: session.engines };
       // preload nothing until first gesture (autoplay policies); just paint totals
+      ui._renderSets();
+      ui._renderLayers();
       ui._renderTracks();
+      ui._updateMediaMetadata();
       ui.update();
-      return { engine: engine, ui: ui };
-    },
+      return {
+        engine: facade,
+        ui: ui,
+        session: session,
+        loadSet: function (id) { session.switchSet(id); },
+        addSet: function (def) {
+          if (!def.id) def.id = 'set' + session.engines.length;
+          var e = session.addSet(def);
+          if (session.playingState() === 'playing') session.switchSet(e.setId);
+          return e;
+        },
+        switchSet: function (id) { session.switchSet(id); }
+      };
+    }
+  };
+
+  // load a set at runtime: adds it to the current mount and switches to it
+  window.FCPlayer.loadSet = function (def) {
+    if (!_current) return window.FCPlayer.mount({ sets: [def] });
+    if (!def.id) def.id = 'set' + _current.session.engines.length;
+    var e = _current.session.addSet(def);
+    if (_current.session.playingState() === 'playing') _current.session.switchSet(e.setId);
+    return e;
   };
 
   // expose for the demo's local-file mode

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="data:,">
+  <title>FCPlayer QA — multi-set</title>
+  <link rel="stylesheet" href="../assets/player/fc-player.css">
+  <style>
+    :root, [data-theme='dark'] {
+      --bg:#16150e; --panel:#1d1c13; --panel2:#232218; --text:#e8e3d1; --muted:#a49e89;
+      --line:#2c2b1d; --gold:#d3ad4e; --shadow-lg:0 12px 48px rgba(0,0,0,.55);
+      --font-display:'Fraunces', Georgia, serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: Georgia, serif; margin: 0; padding: 60px 24px; }
+    h1 { font-family: var(--font-display); font-size: 24px; }
+  </style>
+</head>
+<body>
+  <h1>FCPlayer QA — multi-set</h1>
+  <script src="../assets/player/fc-player.js"></script>
+  <script>
+    // Two 3-track sets with distinct tones; short crossfade so the spec can
+    // verify the transition quickly. window.__inst is the mount result.
+    window.__inst = FCPlayer.mount({
+      setCrossfade: 1.5,
+      sets: [
+        { id: 'one', title: 'Set one', subtitle: '3 × 4.1s',
+          segments: ['fixtures/m1_0.wav', 'fixtures/m1_1.wav', 'fixtures/m1_2.wav'] },
+        { id: 'two', title: 'Set two', subtitle: '3 × 4.7s',
+          segments: ['fixtures/m2_0.wav', 'fixtures/m2_1.wav', 'fixtures/m2_2.wav'] }
+      ]
+    });
+  </script>
+</body>
+</html>
