@@ -119,7 +119,7 @@
       <p><code>&lt;link rel="stylesheet" href="assets/player/fc-player.css"&gt;</code><br>
          <code>&lt;script src="assets/player/fc-player.js" defer&gt;&lt;/script&gt;</code></p>
       <p>Then mount it once:</p>
-      <p><code>FCPlayer.mount({ title:'Focus Soundscape', subtitle:'study set · 16 min', rotatePasses:true, source:{ dir:'assets/audio/segments/', pattern:'segment_%04d.aac', count:16 } });</code></p>
+      <p><code>FCPlayer.mount({ title:'Focus Soundscape', subtitle:'study set · 16 min', source:{ dir:'assets/audio/segments/', pattern:'segment_%04d.aac', count:16 } });</code></p>
     </section>
   </div>
 
@@ -128,7 +128,6 @@
     var instance = FCPlayer.mount({
       title: 'Ambient Study',
       subtitle: 'procedural demo set · 8 min',
-      rotatePasses: true, // the demo set is one continuous recording
       source: { dir: 'assets/audio/demo/', pattern: 'demo_%04d.aac', count: 8 }
     });
 

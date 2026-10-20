@@ -130,6 +130,53 @@ async function main() {
     await context.close();
   }
 
+  /* ---- 2b. rotating mode, deterministic: forced rotation start exposes the
+     pass-metadata coupling (a rotated start that coincides with the audible
+     pass-final index must not double-wrap or misplace the loop fade) ---- */
+  {
+    const context = await browser.newContext({ viewport: { width: 1280, height: 800 } });
+    const page = await context.newPage();
+    const errors = [];
+    page.on('pageerror', (e) => errors.push(e.message));
+    await page.goto(QA('#rotate=1'), { waitUntil: 'networkidle' });
+    // force the rotation pick: Math.random() = 0.99 -> floor(0.99*3) = 2,
+    // which coincides with the audible pass-final index (2) for pass 1 (start 0)
+    await page.evaluate(() => { Math.random = () => 0.99; });
+    await page.evaluate(() => {
+      window.__starts = [];
+      var os = AudioBufferSourceNode.prototype.start;
+      AudioBufferSourceNode.prototype.start = function (when, offset) {
+        var idx = window.__inst.engine.buffers.indexOf(this.buffer);
+        window.__starts.push({ when: when || 0, dur: this.buffer ? this.buffer.duration : 0, idx: idx });
+        return os.apply(this, arguments);
+      };
+    });
+    await page.click('.fcp-btn');
+    await page.click('.fcp-play');
+    await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+    // wait until the clock passes the SEVENTH source's start — source 6 is
+    // pass 2's pass-final; source 7 (index 6) is pass 3's rotated start
+    await page.waitForFunction(() => {
+      var s = window.__starts, e = window.__inst.engine;
+      return s.length >= 7 && e.ctx.currentTime >= s[6].when + 0.3;
+    }, null, { timeout: 45000 });
+    const t = await page.evaluate(() => {
+      var s = window.__starts, e = window.__inst.engine;
+      return { order: s.map((x) => x.idx), loopStart: e._loopStart, frontIdx: e._frontIdx };
+    });
+    const prefix = t.order.slice(0, 6).join(',');
+    check(prefix === '0,1,2,2,0,1', `forced rotation k=2 yields exactly 0,1,2,2,0,1 (got ${prefix})`);
+    check(t.order[6] === 1 && t.loopStart === 1 && t.frontIdx === 1, `pass 3 starts at the forced k=1 and the front tracks it (order[6]=${t.order[6]} loopStart=${t.loopStart} frontIdx=${t.frontIdx})`);
+    const overlaps = await page.evaluate(() => {
+      var s = window.__starts, o = 0;
+      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - 0.005) o++;
+      return o;
+    });
+    check(overlaps === 0, `no overlapping sources (forced rotation) (${overlaps})`);
+    check(errors.length === 0, `no page errors (forced rotation) ${errors.join('|')}`);
+    await context.close();
+  }
+
   /* ---- 3. pause/resume: exactness + crossing a segment boundary ---- */
   {
     const { page, errors } = await newPage(browser, { recordStarts: true });

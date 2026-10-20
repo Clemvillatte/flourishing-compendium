@@ -1,0 +1,14 @@
+{
+  "name": "soundscape-player",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Adaptive soundscape player for study sessions (development manifest; the component itself has no runtime dependencies)",
+  "scripts": {
+    "serve": "serve . -l 8791 --no-clipboard",
+    "test": "node tests/spec.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.59.0",
+    "serve": "14.2.3"
+  }
+}
