@@ -23,7 +23,7 @@ Strong mindfulness, says the same text, is needed in all instances, because it p
 **Plain words**
 Take something you are working at and ask two questions. First, is your confidence outrunning your own checking of it, or are you checking so hard that nothing moves you? Second, are you straining without settling, or settled without any strain? Wherever you find the lopsidedness, lean on its pair: test the belief, or act on it; slow down, or wake up. Mindfulness is the habit of noticing which correction is needed.
 
-*For example:* A new meditator sprints on enthusiasm for three weeks and then quits. In the balance language, energy ran far ahead of concentration, and the compendium's correction would be a smaller, steadier sitting.
+*For example:* Imagine a practitioner whose meditation has become strained and restless. Examining the balance, they find vigor high and settledness low, and the exercise is to calm the effort rather than add to it.
 
 ## Sources
 

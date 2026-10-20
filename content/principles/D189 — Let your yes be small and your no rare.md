@@ -18,12 +18,12 @@ Chapter 63 of the Daodejing warns that light promises cost trust: whoever promis
 
 > "A violent wind does not last for a whole morning; a sudden rain does not last for the whole day." (DDJ 23, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 
-The weather image carries the size advice: what is violent cannot keep going, and what cannot keep going should not be promised. The compendium's reading is to make few commitments, make them small enough to keep on an ordinary week, and keep them absolutely once given.
+The compendium applies the weather image by analogy: what is violent cannot keep going, and the reading drawn from that is to make few commitments, small enough to keep on an ordinary week, and to keep them once given.
 
 **Plain words**
-Each yes spends a future evening or a future morning. Before agreeing, check whether the promised hour still exists in an ordinary week of yours; if it does not, refuse early, while the other person can still make other plans. A small yes kept does more for being trusted than a large yes that has to be renegotiated.
+Each yes spends a future evening or a future morning. Before agreeing, check whether the promised hour still exists in an ordinary week of yours; if it does not, refuse early, while the other person can still make other plans. The compendium's exercise: when you are about to say yes, name the exact evening it will use and confirm you are free that evening.
 
-*For example:* Imagine agreeing to review a colleague's draft "sometime soon" because a refusal felt unfriendly. Two weeks later it may still be undone and their plans may have moved on. Saying "I can't before the 15th" at the start would have cost them less.
+*For example:* Imagine a colleague asks you to review a draft. Before answering, you check your calendar, see you cannot manage it before the 15th, and offer the 16th with a specific hour.
 
 ## Sources
 

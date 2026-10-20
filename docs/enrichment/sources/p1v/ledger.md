@@ -15,9 +15,10 @@ opened text at the recorded URL.
   sailor by profession, who was very fond of sea-gulls..." and the father's
   request "I wish you would catch one or two for me to make pets of".
 - NOTE: the sentence "There was disturbance in his mind, accompanied by a change
-  in his outward demeanour..." appears in single quotation marks on the page as
-  Giles's own commentary on the story, not as narrative text; it is therefore
-  not quoted as Liezi text on the page (advisor QC round 1 caught this).
+  in his outward demeanour..." appears in single quotation marks on the page;
+  its authorship (Giles's commentary vs narrative) is UNCHECKED and it is not
+  quoted on the page either way (advisor QC round 2: the marks alone do not
+  establish authorship).
 - LIMITS: the page's interpersonal application is labelled as the compendium's
   reading of the fable. Inherited psychology parallels (sincerity/trust
   research, trust repair literature), philosophy parallels (Buber I-Thou, Kant)
@@ -82,12 +83,47 @@ opened text at the recorded URL.
   instances; for mindfulness protects the mind from lapsing into agitation
   through faith, vigor and wisdom... and from lapsing into indolence through
   concentration" — no quotation marks used on the page for it.
-- LOCATOR CORRECTION: the seed cited "(SN 48; Dhammapada 144.)". Dhp 144
-  (farmer/fletcher/carpenter passage) concerns discipline, not the balance of
-  faculties, and the balance teaching is commentarial (Visuddhimagga), not in
-  SN 48 itself; the body now cites what it actually uses. SN 48's membership
-  of the five in the requisites of awakening is taken from the opened Bodhi
-  essay, not from an opened SN 48 sutta text.
+- LOCATOR CORRECTION: the seed cited "(SN 48; Dhammapada 144.)". Dhp 144 was
+  NOT opened this session, so nothing about its content is claimed here; the
+  verse was dropped from the locator because no part of it was verified. The
+  balance teaching is commentarial (Visuddhimagga), not in SN 48 itself; the
+  body now cites what it actually uses. SN 48's membership of the five in the
+  requisites of awakening is taken from the opened Bodhi essay, not from an
+  opened SN 48 sutta text. "The second of the five training precepts"-type
+  claims are not made on this page.
 - LIMITS: inherited psychology parallel (Sonnentag and Fritz 2007; inverted-U)
   and philosophy parallel (Aristotle NE II mean) preserved untouched and NOT
   verified this session.
+
+## B149 — Respect what belongs to others (2026-10-20)
+
+- OPENED: AN 10.176 Cunda Kammaraputta Sutta, Thanissaro Bhikkhu translation,
+  https://accesstoinsight.org/tipitaka/an/an10/an10.176.than.html
+- Verified verbatim: "Abandoning the taking of what is not given, he abstains
+  from taking what is not given. He does not take, in the manner of a thief,
+  things in a village or a wilderness that belong to others and have not been
+  given by them."
+- LIMITS: "the second of the five training precepts" was removed from the body
+  (the opened page does not list the five precepts; no five-precepts source was
+  opened this session). The credit-for-shared-work application is labelled as
+  the compendium's extension. Inherited psychology parallel (Axelrod 1984) and
+  philosophy parallels (Mauss, Locke) preserved untouched and NOT verified.
+  Mention scan run for "not given" (B024 also treats the precept; no new
+  reciprocal proposals warranted).
+- QC: item-5 milestone advisor QC FAIL round 1 (unverified five-precepts
+  attribution; ownership/permission conflation in the bicycle sentence; plain
+  words repeating the credit/attention/trust list; "trust borrowed" metaphor).
+  Repaired with the advisor's exact replacement (permission question + imagined
+  report example). Milestone round 2 also routed repairs to already-done D177
+  (outcome-producing recipe), D189 (unlabelled analogy + counterfactual), B032
+  (meditator diagnosis), and ledger corrections (Dhp 144 not opened; D111
+  commentary authorship unchecked); all applied and re-validated this session.
+
+## Milestone QC log (items 1-5, 2026-10-20)
+
+- D111: advisor round 1 FAIL (unsupported psychological mechanisms; commentary
+  attribution) -> repaired with advisor's exact replacement; round 2 note: the
+  commentary-sentence authorship recorded as UNCHECKED in the ledger.
+- D177, D189, B032: repairs from the item-5 milestone review applied (see item
+  entries above); all four repaired files re-validated ok at this checkpoint.
+- B149: failed round 1, repaired, validated.
