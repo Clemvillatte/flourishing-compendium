@@ -1,6 +1,6 @@
 {
   "batch": "p1zp",
-  "revision": 3,
+  "revision": 4,
   "records": [
     {
       "action": "reciprocal",
@@ -43,6 +43,13 @@
       "link": "Y022",
       "why": "listed for comparison with the principle's account of working with latent impressions as the deep layer",
       "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Samskara page is a stub (Wikipedia source only, no Cited-in entries); Y022 quotes Woods YS 1.18 on the concentration of subliminal-impressions and 3.9-3.10 on impressions alternating and directing the mind-stuff's flow"
+    },
+    {
+      "action": "reciprocal",
+      "into": "Santosha",
+      "link": "Y036",
+      "why": "listed for comparison with the principle's account of training contentment as one of the observances",
+      "notes": "page read by worker-p1zp-a7f3c2e1 before proposal; ground: Santosha page is a stub (Wikipedia source only, no Cited-in entries); Y036 quotes Woods YS 2.32 placing contentment second among the observances and 2.42 on its result"
     }
   ]
 }
