@@ -7,12 +7,12 @@ file: "Behavioral experiments in CBT"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-A behavioural experiment is a planned experience designed to test a belief — the CBT technique of finding out by doing. A review in cognitive therapy describes the role and the functions ("Why to Use Behavioural Experiments in CT"):
+A behavioural experiment is a planned experience designed to test a belief — the CBT technique of finding out by doing ([Murray & El-Leithy 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7611432/)). A review in cognitive therapy describes the role and the functions ("Why to Use Behavioural Experiments in CT"):
 
 > "Behavioural experiments lie at the heart of therapeutic change in CT and encompass a wide range of experiential tasks that have the primary goal of learning something new [Bennett-Levy et al., 2004]. They have various functions, most commonly to test aspects of a case formulation, to demonstrate the effects of an unhelpful cognitive or behavioural strategy, to test the validity of negative beliefs, and to construct and strengthen adaptive beliefs."
 > — [Murray & El-Leithy 2020, "Behavioural Experiments in Cognitive Therapy for Posttraumatic Stress Disorder: Why, When, and How?", Verhaltenstherapie (open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7611432/)
 
-In the same section, the authors contrast the technique with traditional exposure therapy as used in their PTSD context: traditional exposure "focuses on habituation" and "aims to help clients remain in a frightening situation until fear declines", whereas "Behavioural experiments aim to test a belief or prediction and to discover something new" — the situation is chosen because it "provides the best test of a particular belief", and the client stays only long enough to "prove the point" or "answer the question" ([Murray & El-Leithy 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7611432/)).
+In the same section, the authors contrast the technique with traditional exposure therapy: "There is an important difference between behavioural experiments and traditional exposure therapy. Behavioural experiments aim to test a belief or prediction and to discover something new. Exposure therapy originates from a behavioural model of habituation − the idea that anxiety decreases over time when someone is exposed to feared stimuli." The task is selected because it "provides the best test of a particular belief", and the client remains in it only long enough to "prove the point" or "answer the question" ([Murray & El-Leithy 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7611432/)).
 
 ## Related concepts
 

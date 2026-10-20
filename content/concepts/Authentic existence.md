@@ -7,7 +7,7 @@ file: "Authentic existence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-"Authentic existence" names the existentialists' answer to living a life one owns rather than drifts through. In Heidegger's Being and Time the concept appears as Eigentlichkeit. The Stanford Encyclopedia explains the term (§3.1):
+In Heidegger's Being and Time, the concept of authentic existence appears as Eigentlichkeit ([Varga & Guignon, SEP, §3.1](https://plato.stanford.edu/entries/authenticity/)). The entry explains the term (§3.1):
 
 > "The word we translate as 'authenticity' is actually a neologism invented by Heidegger, the word Eigentlichkeit, which comes from an ordinary term, eigentlich, meaning 'really' or 'truly', but is built on the stem eigen, meaning 'own' or 'proper'. So the word might be more literally translated as 'ownedness', or 'being owned', or even 'being one's own', implying the idea of owning up to and owning what one is and does."
 > — [Varga & Guignon, "Authenticity", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/authenticity/)
