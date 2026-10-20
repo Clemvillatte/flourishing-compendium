@@ -69,3 +69,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y077 (2026-10-21)
 - Woods HOS 17 p. 31 (1.17 and Vyasa's four-fold ordering; nearest running head "31]"). Quotes verified; OCR "vicdra" read as vicara. Sutras 1.42-1.44 not read; page says so.
 - Old text said "objects differ in subtlety" and "the practice naturally refines from coarse to fine"; Woods describes forms of concentration ordered by subtraction (coarse deliberation to the sense-of-personality). "Do not celebrate; refine" and the breath/sensation examples are the principle's; labelled. Plain words replicate replaced; example imagined. Self-QC only.
+
+## Y082 (2026-10-21)
+- Woods HOS 17: 3.4 (p. 205), 3.5-3.6 (p. 206; "[206" head falls inside the 3.4 commentary), 3.16 (p. 232, commentary into p. 233; "233]" head). Quotes verified except a footnote digit ("highest 3 stages") and OCR spacing in "field-of -operation". Sutras 3.7-3.15 and 3.17-3.29 not read; page says so.
+- Old text said samyama "yields knowledge of it" across a catalogue of applications and framed it as a learning principle. Woods frames the applications as supernormal powers (vibhuti); learning-skill framing and "one domain per quarter" labelled as modern adaptations. Added the stage-by-stage warning of 3.6 as the actual textual support for working sequentially. Plain words replicate replaced; example imagined. Self-QC only.
