@@ -215,3 +215,19 @@
   chained after the heredoc, not the validate). Prose trimmed (compendium
   -reading paragraph condensed) and re-validated ok in the same session
   minute; process note: validate before marking done, no exceptions.
+
+### P084 — Act in the situation, not from the rulebook (2026-10-20, worker-p1o-6ae3d782)
+- Opened: Aristotle NE Book Five (Ross 1925) via Wikisource (Perseus and
+  MIT Classics both failed: robots/404; curl fallback) — equity passage V.10
+  1137b verified verbatim (law's universality; legislator's over-simplicity;
+  correction of law; decree needed). Dewey HNC p. 239 (principles as
+  methods of inquiry and forecast; create new principles) from the local
+  download. Quotes complete sentences except the two marked fragments
+  ('a correction of law...' / 'to create new principles'), both verbatim.
+- Seed statement + locator removed (precedent); Plain words re-derived
+  (seed 'rulebook is a consultant / situation signs the checks' aphorisms
+  dropped); For example kept on the seed's hidden-refugees scenario,
+  rebuilt without em dashes. Doris attribution reduced to bare wikilink
+  (unopened); Aristotle NE VI attribution on Phronesis reduced to bare
+  wikilink (Book VI not opened; Book Five was). Validator run BEFORE
+  done: ok.
