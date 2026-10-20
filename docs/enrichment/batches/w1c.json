@@ -43,11 +43,10 @@
   "Default mode network",
   "Environmental psychology",
   "Intolerance of uncertainty",
-  "Narrative therapy",
   "Friendship",
   "Intergroup contact"
  ],
- "in_progress": null,
+ "in_progress": "Narrative therapy",
  "flagged": {
   "ERG Theory": "cited-in list (270+ Daoist principles) appears to be an auto-generated mapping; no principle text references ERG directly",
   "PEN Model": "cited-in list (614+ Daoist principles) appears to be an auto-generated mapping; no principle text references the PEN model directly",
@@ -61,11 +60,11 @@
   "Friendship": "Reopened for QC: QC round 2: translator name removed pending edition metadata",
   "Intergroup contact": "Reopened for QC: QC round 2: appears-qualification, mediator grouping, facet attribution",
   "Intolerance of uncertainty": "Reopened for QC: QC: glosses, central-process phrasing, facet attributions",
-  "Narrative therapy": "Reopened for QC: QC: opening grounding and phrase-claim removal"
+  "Narrative therapy": "Reopened for QC: QC round 2: excerpt punctuation"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T06:55:50+00:00",
+ "updated": "2026-10-20T06:55:57+00:00",
  "band_done": false,
  "new_concepts": [
   {
