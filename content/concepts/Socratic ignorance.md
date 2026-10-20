@@ -15,7 +15,7 @@ His conclusion from the first examination, in Jowett's translation:
 
 ### What the testing found
 
-The testing had a shape. Socrates examined the politicians with a reputation for wisdom and found them not wise; with each examination he made an enemy, and the same conclusion followed with the ones he went to next. The poets wrote fine things but could not explain their own lines, and concluded they must be wise in other matters in which they were not wise. The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters".
+The testing had a shape. Socrates examined the politicians with a reputation for wisdom and found them not wise; he says these inquiries made him enemies, and the same conclusion followed with the ones he went to next. The poets wrote fine things but could not explain their own lines, and concluded they must be wise in other matters in which they were not wise. The artisans did know their trades, and that was the trouble: "because they were good workmen they thought that they also knew all sorts of high matters".
 
 Socrates read the oracle's meaning in all this: God only is wise, the wisdom of men is little or nothing, and the wisest is he who knows his wisdom is in truth worth nothing. The questioning gave him enemies of the worst and most dangerous kind, and by his own account the calumnies that reached court began there.
 
@@ -26,7 +26,7 @@ The compendium reads the state across its traditions: the Buddhist don't-know mi
 ## Related concepts
 
 - [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge (inherited description, unverified here)
-- [[Beginner's mind]] — the shoshin counterpart, both cited from B048 (inherited description, unverified here)
+- [[Beginner's mind]] — the shoshin counterpart, both cited from B048
 
 ## Sources
 

@@ -57,3 +57,13 @@
   principles (SO022, SO041) list Socratic ignorance under their Philosophy parallels
   sections (SO022: "Socrates — Socratic ignorance — ... Plato, Apology, 21d";
   SO041: "Socrates — Socratic ignorance — ... Plato, Apology, 21d").
+
+## Advisor QC round 3 (2026-10-20)
+
+- "with each examination he made an enemy" (universal claim) replaced with "he says
+  these inquiries made him enemies", matching the extracted evidence ("This
+  investigation has led to my having many enemies of the worst and most dangerous
+  kind").
+- Beginner's mind Related line: the "(inherited description, unverified here)" label
+  was wrong (the line was this band's own addition); label removed, neutral
+  cross-reference retained. Docta ignorantia keeps its inherited label (seed line).
