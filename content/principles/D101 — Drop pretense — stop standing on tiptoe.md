@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 101** — Drop pretense: stop standing on tiptoe
 
-Standing on tiptoe, you don't stand firm; striding, you don't get far. All performance of being more than you are costs more than it pays.
+Chapter 24 of the Daodejing opens with two bodily images, then widens the pattern. The one who displays himself does not shine; the one who asserts his own views is not distinguished; vaunting oneself does not get merit acknowledged; self-conceit gets no superiority allowed. The Tao's verdict on all of it: "like remnants of food, or a tumour on the body, which all dislike."
+
+> He who stands on his tiptoes does not stand firm; he who stretches
+> his legs does not walk (easily).
+>
+> (Daodejing 24, Legge)
+
+The mechanics are in the image: tiptoe and overstride borrow height or speed the body does not have, and the loan is called in immediately as instability. The display repels rather than impresses; "those who pursue (the course) of the Tao do not adopt and allow them".
 
 (DDJ 24.)
 
-**Plain words** Standing on tiptoe, you don't stand firm; striding theatrically, you don't get far. Every performance of being more than you are costs more than it pays. Pretense is running uphill with a weighted vest — exhausting, and everyone can see it anyway.
+**Plain words**
+You can borrow height by standing on tiptoe, and for a moment you are taller. You cannot hold it. Every form of showing yourself as more than you are works the same way: a brief gain, then the wobble, and the wobble is what people watch. The steady stance is the one you can keep all day.
 
-*For example:* The new manager who performs confidence loudly burns out in a quarter; the one who admits what she's learning earns the team's trust instead.
+*For example:* The new manager who performs confidence loudly spends a fixed energy budget on the show; the one who admits what she is learning puts the same budget into the work.
+
+## Sources
+
+- [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 24
 
 ## Psychology parallels
 
