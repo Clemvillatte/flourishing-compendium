@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 49** — Rest in no-mind (mushin)
 
-The excerpts from Takuan Soho reproduced by Scarsdale Aikido describe attention becoming detained by what it notices. When you notice the sword moving to strike you and your mind stops at it, he writes, your own movements are undone and you are cut down. The mind that does not stop anywhere is what the excerpts call immovable, not because it is frozen but because it is not detained. (Takuan Soho, excerpts reproduced at the Scarsdale Aikido page.)
+The excerpts from Takuan Soho reproduced by Scarsdale Aikido describe attention becoming detained by what it notices. When you notice the sword moving to strike you and your mind stops at it, he writes, your own movements are undone and you are cut down. The mind that does not stop anywhere is what the excerpts call immovable; the page defines it as glancing at something without stopping. (Takuan Soho, excerpts reproduced at the Scarsdale Aikido page.)
 
 > "when you first notice the sword that is moving to strike you, if you think of meeting that sword just as it is, your mind will stop at the sword in just that position, your own movements will be undone, and you will be cut down by your opponent" (Takuan Soho, [The Mysterious Record of Immovable Wisdom, excerpt](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/))
 
