@@ -254,3 +254,8 @@ Round 3 (advisor, 2026-10-21): item-10 milestone closed with a scoped PASS for A
 
 - Sources opened: Jaspers, Way to Wisdom, trans. Manheim (Internet Archive OCR) pp. 28-32, from running heads; SEP Jaspers for the 'encompassing' rendering (this translation says 'Comprehensive'). OCR noise ignored; all quotes otherwise verbatim.
 - Not opened: Philosophy vol. 1, Von der Wahrheit (old cites). 'Honour what exceeds your self-knowledge' (old) is not Jaspers's wording. Plain words replicate replaced; example imagined. Self-QC only.
+
+## E086 (worker-p1zx-9a2e4c71, 2026-10-21)
+
+- Sources opened: SEP Ricoeur (idem/ipse definitions, fetched); Dierckxsens (Antwerp author version; OA 116ff. 'identity as sameness (Latin idem...)', genetic code OA 117); Rodrigues, Etudes Ricoeuriennes 14:1 (2023) (character vs ipse; OA 121, 122, 335 per her footnotes); Truc (Etudes Ricoeuriennes 2011/2008). Rodrigues's date is 2023 (PDF header) not 2016. All quotes checked by script.
+- Scholarship fix: the old gloss 'ipse = the capacity to be the author of one's own life' is not Ricoeur's definition; SEP defines ipse as sameness across and through change; Rodrigues as the 'self-designation of a subject of discourse, action, narrative or ethical commitment'. The 'author' wording is Dierckxsens's. Page now says so. The cite to chapter 'The Self and the Ethical Aim' (Study 7) not opened, dropped. OA itself lending-only. Plain words replicate replaced; example imagined. Self-QC only.
