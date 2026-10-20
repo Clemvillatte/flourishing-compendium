@@ -75,3 +75,9 @@
 - Page attribution updated accordingly: the three sentences are quoted as reprinted
   in the editor's preface, from James's Preface to The Meaning of Truth (pp. xii-xiii),
   with the editor's numerals and italics.
+
+## Advisor QC round 4 (2026-10-20): citation linking
+
+- Linked citations added to the introductory factual prose (1912 collection link;
+  Hume-contrast sentence linked to the "I. Radical Empiricism" section), the preface
+  attribution sentence, and each of the three quoted summary sentences.
