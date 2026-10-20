@@ -13,6 +13,10 @@ associated with higher well-being and social capital, though vulnerability to ex
 
 - (Putnam, 2000), predicts individual well-being
 
+## Related concepts
+
+- [[SO062]] — treats social trust as part of a shared community resource
+
 ## Sources
 
 - Putnam, 2000

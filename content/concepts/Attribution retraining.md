@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the CBT procedure of shifting attributions from hostile-intent to situational (Hudley's attribution-retraining programs, as framework).
 
+## Related concepts
+
+- [[K041]] — offers a comparison with Shantideva's account of harmful conduct arising through conditions
+
 ## Sources
 
 - Hudley's attribution-retraining programs, as framework

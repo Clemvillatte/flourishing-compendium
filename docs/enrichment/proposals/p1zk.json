@@ -9,22 +9,10 @@
    "notes": "Concept page already lists BE042 in its principles list; evidence in sources/p1zk/BE042.md (SMILES full text, Firth 2019, Li 2017, all opened)."
   },
   {
-   "into": "Circadian science",
-   "link": "BE043",
-   "why": "the camping and e-reader trials behind this principle are circadian entrainment experiments",
-   "notes": "Evidence in sources/p1zk/BE043.md (Wright 2013, Lam 2016, Chang 2015, all opened). Concept already cites BE043."
-  },
-  {
    "into": "Helper's high",
    "link": "BE061",
    "why": "the volunteering review behind this principle is the evidence for the helper's-high claim's context",
    "notes": "Neutral clause per advisor QC convention; the helper's-high construct itself is inherited (Post 2005/Luks 1991, not opened). Evidence in sources/p1zk/BE061.md (Jenkinson 2013, opened)."
-  },
-  {
-   "into": "Values",
-   "link": "BE062",
-   "why": "the values-clarification review and Acting-on-Values trial test what acting on values does",
-   "notes": "Evidence in sources/p1zk/BE062.md (Napier & Mangat 2026, Bojanowska 2022, both opened). Values concept is linked from BE062's parallels."
   },
   {
    "into": "ERP (exposure and response prevention)",
@@ -33,53 +21,12 @@
    "notes": "Evidence in sources/p1zk/BE071.md (MSD Manual definition, Skapinakis 2016 NMA, both opened). Concept already cites BE071."
   },
   {
-   "into": "Cognitive ageing",
-   "link": "BE075",
-   "why": "the sleep and activity evidence behind this principle is ageing-science context for cognitive ageing",
-   "notes": "Evidence in sources/p1zk/BE075.md (Ohayon 2004, Lin 2020, both opened). Concept already cites BE075."
-  },
-  {
-   "into": "Stimulus control theory",
-   "link": "BI015",
-   "why": "the guideline recommendation that backs one piece of sleep hygiene is stimulus control",
-   "notes": "Evidence in sources/p1zk/BI015.md (Edinger 2021 AASM guideline Rec 3, NINDS tips, both opened). Concept already cites BI015."
-  },
-  {
-   "into": "Circadian science",
-   "link": "BI028",
-   "why": "the exercise phase-response curve and evening-exercise meta-analysis are circadian-timing findings",
-   "notes": "Evidence in sources/p1zk/BI028.md (Youngstedt 2019, Stutz 2019, both opened). Concept already cites BI028."
-  },
-  {
    "into": "Food as medicine",
    "link": "BI033",
    "why": "the trial-backed diet-and-mood evidence sits with the food-as-medicine concept",
    "notes": "Evidence in sources/p1zk/BI033.md (SMILES, Firth, Li, all opened; same evidence as BE042). Concept already cites BI033."
-  },
-  {
-   "into": "Circadian science",
-   "link": "BI069",
-   "why": "the medical-condition framing for sleep disorders including circadian ones",
-   "notes": "Evidence in sources/p1zk/BI069.md (NHLBI, NINDS, Edinger 2021, all opened). Concept already cites BI069."
-  },
-  {
-   "into": "Cultural schema theory",
-   "link": "CO012",
-   "why": "a practical prompt for comparing the assumptions people bring to the same problem",
-   "notes": "Mention check: the concept page already cites CO012. Evidence in sources/p1zk/CO012.md (Nisbett et al. 2001 abstract via Europe PMC)."
-  },
-  {
-   "into": "Broaden-and-build",
-   "link": "CO013",
-   "why": "the principle carries the theory's broadening finding, that mood can shift the range of actions that come to mind, from the film experiments",
-   "notes": "Mention check: the concept cites Fredrickson's papers and AF061/AT017; the stress-side Arnsten review is kept separate in the body and is not part of this clause. Evidence in sources/p1zk/CO013.md."
-  },
-  {
-   "into": "Prospect theory",
-   "link": "CO031",
-   "why": "the principle carries the 1979 paper's losses-loom-larger finding with the value-function properties, while the concept page's cited-in list covers only CO019's framing side",
-   "notes": "Mention check corrected: the Prospect theory concept's Cited-in list names CO019 only, not CO031 (earlier ledger claim was wrong). CO031's psychology parallels link [[Prospect theory]]. Evidence in sources/p1zk/CO031.md."
   }
  ],
- "inline": []
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 4 recip, 0 inline"
 }

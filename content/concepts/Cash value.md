@@ -17,8 +17,9 @@ In Lecture II, James uses the expression when asking what practical work a philo
 
 ## Related concepts
 
-- [[Belief as habit]] — Peirce's account of the settled disposition a belief is
 
+- [[Belief as habit]] — Peirce's account of the settled disposition a belief is
+- [[Workability]] — James's cash-value test of an idea by its practical consequences is the pragmatist ancestor of the workability criterion
 ## Sources
 
 - [James, Pragmatism: A New Name for Some Old Ways of Thinking, 1907 (Project Gutenberg #5116)](https://www.gutenberg.org/ebooks/5116) — the truth's-cash-value question (Lecture VI), the bring-out-its-practical-cash-value passage (Lecture II) and the true-ideas definition

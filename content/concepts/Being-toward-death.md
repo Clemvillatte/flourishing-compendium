@@ -12,8 +12,10 @@ Sein-zum-Tode: for Heidegger, Dasein is its possibilities, and death is the poss
 ## Related concepts
 
 
+
 - [[Being and beings]] — death as the possibility that individualizes Dasein
 - [[B055]] — B055's philosophy parallels list this Heideggerian concept
+- [[E054]] — considers how anticipation of death clarifies finite possibilities for choosing
 ## Sources
 - Wikipedia Being-toward-death: https://en.wikipedia.org/wiki/Being-toward-death
 

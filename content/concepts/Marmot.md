@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Marmot” — 2004.
 
+## Related concepts
+
+- [[SO053]] — the Whitehall gradient-among-the-not-poor finding in Marmot's own summary
+
 ## Sources
 
 - 2004

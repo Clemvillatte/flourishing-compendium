@@ -31,7 +31,7 @@ This is one clinical model, Gilbert's, and not a settled consensus. It supports 
 ## Psychology parallels
 
 - **Self-soothing as emotional regulation**, the capacity to calm oneself when distressed is a core regulatory skill (Mikulincer & Shaver, 2007; Schore, 2003)
-- **Attachment and self-soothing**, secure attachment is associated with better self-soothing capacity (Mikulincer & Shaver, 2007; Gillath et al., 2005)
+- **Attachment and self-soothing**, [[Attachment security|secure attachment is associated with better self-soothing capacity]] (Mikulincer & Shaver, 2007; Gillath et al., 2005)
 
 ## Philosophy parallels
 

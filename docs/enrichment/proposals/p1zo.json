@@ -3,12 +3,6 @@
  "revision": 23,
  "reciprocal": [
   {
-   "into": "Identity development",
-   "link": "SE037",
-   "why": "Marcia's identity statuses operationalise the exploration-and-commitment process this page describes",
-   "notes": "Concept page cites Erikson/Kroger and SE035/SE074 but not SE037; evidence in sources/p1zo/SE037.md (Marcia 1966, opened)."
-  },
-  {
    "into": "Capacity to be alone (Winnicott)",
    "link": "SE053",
    "why": "Winnicott's ego-relatedness offers a comparison: aloneness in the presence of support, read against this principle's autonomy-need",
@@ -21,54 +15,18 @@
    "notes": "Solitude concept links P134 and the Winnicott concept but not SE058. Evidence in sources/p1zo/SE058.md (Winnicott 1958, DDJ 16, both opened)."
   },
   {
-   "into": "The raft",
-   "link": "SE079",
-   "why": "the raft image applied to the self rather than the teaching",
-   "notes": "The raft concept page does not link SE079. Evidence in sources/p1zo/SE079.md (MN 22 Thanissaro, opened)."
-  },
-  {
    "into": "Reciprocity",
    "link": "SO039",
    "why": "Axelrod's durability-of-relationship account of reciprocal cooperation",
    "notes": "Reciprocity concept page does not link SO039. Evidence in sources/p1zo/SO039.md (Axelrod 1984, opened)."
   },
   {
-   "into": "Marmot",
-   "link": "SO053",
-   "why": "the Whitehall gradient-among-the-not-poor finding in Marmot's own summary",
-   "notes": "Marmot thinker page does not link SO053. Evidence in sources/p1zo/SO053.md (Marmot & Bobak 2000, opened)."
-  },
-  {
-   "into": "Community",
-   "link": "SO062",
-   "why": "the principle that treats the connections this concept describes as a community resource",
-   "notes": "Community links the Putnam theory concept and cites MacIntyre but not SO062; evidence in sources/p1zo/SO062.md (Kawachi 1999 + Reeder's Putnam summary, both opened)."
-  },
-  {
-   "into": "Generalized trust",
-   "link": "SO062",
-   "why": "treats social trust as part of a shared community resource",
-   "notes": "Page mentions social capital in its well-being sentence and links SO038 but not SO062; the already-linked SO038 observation recorded here as audit context. Evidence in sources/p1zo/SO062.md."
-  },
-  {
    "into": "Ecological grief",
    "link": "SO070",
    "why": "the sociocultural-stressor principle behind the climate emotions this concept maps",
    "notes": "Page distinguishes eco-anxiety from ecological grief but links no SO climate principle; evidence in sources/p1zo/SO070.md (Berry 2010 + Hickman 2021, both opened)."
-  },
-  {
-   "into": "Acculturation theory Berry",
-   "link": "SO074",
-   "why": "the strength-side counterpart of the acculturation strategies this concept maps: holding two identities as compatible rather than oppositional",
-   "notes": "Page's BII research sentence does not link SO074; evidence in sources/p1zo/SO074.md (Benet-Martínez 2002 via ERIC + Chen 2015 + Saad 2013, all opened)."
-  },
-  {
-   "into": "Mind-body parallelism",
-   "link": "SP006",
-   "why": "the principle that states the parallelism this concept explains: one thing, two attributes, correspondence without interaction",
-   "notes": "Concept page describes Spinoza's solution but links no SP principle; evidence in sources/p1zo/SP006.md (Ethics II P7 + III P2 scholium verbatim from the opened Elwes text)."
   }
  ],
  "inline": [],
- "notes": " | deferred at this run (target band busy): 5 recip, 0 inline"
+ "notes": " | deferred at this run (target band busy): 5 recip, 0 inline | deferred at this run (target band busy): 4 recip, 0 inline"
 }

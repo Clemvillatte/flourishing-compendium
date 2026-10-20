@@ -21,8 +21,9 @@ The evidence base, from the same abstract: "convergent evidence from 48,537 Web 
 
 ## Related concepts
 
-- [[Positivity effect]] — the effect that ageing research must not confuse with decline
 
+- [[Positivity effect]] — the effect that ageing research must not confuse with decline
+- [[BE075]] — the sleep and activity evidence behind this principle is ageing-science context for cognitive ageing
 ## Sources
 
 - Salthouse, 2004

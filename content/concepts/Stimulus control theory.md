@@ -17,6 +17,10 @@ Stimulus control concerns arranging environmental cues so that a target behavior
 
 Bootzin's original report was a case study, and he cautioned that improvement might have resulted from factors other than stimulus control ([pp. 395–396](https://www.med.upenn.edu/cbti/assets/user-content/documents/Bootzin%201972.pdf)). A later systematic review found evidence of benefit for insomnia compared with control conditions, while judging the included studies generally poor in quality ([Verreault et al., 2024, Summary](https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.14008)). That review also challenged the proposed conditioning mechanism and urged caution because of bias and inconsistencies in its network meta-analysis ([Summary](https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.14008)).
 
+## Related concepts
+
+- [[BI015]] — the guideline recommendation that backs one piece of sleep hygiene is stimulus control
+
 ## Sources
 
 - [Richard R. Bootzin, “Stimulus Control Treatment for Insomnia” (1972)](https://www.med.upenn.edu/cbti/assets/user-content/documents/Bootzin%201972.pdf), pp. 395–396: original account and case-study limitations.

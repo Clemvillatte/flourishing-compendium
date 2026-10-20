@@ -19,6 +19,10 @@ emotions have observable rise, peak, and decay curves (Davidson).
 
 - all emotional states have finite half-lives (Davidson)
 
+## Related concepts
+
+- [[AF015]] — AF015's week-audit exercise asks the reader to observe how feelings vary across situations — a natural companion to this page's rise-peak-decay timing questions
+
 ## Sources
 
 - Davidson

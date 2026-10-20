@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The unexamined I” — Nishida; this book's Layer II.
 
+## Related concepts
+
+- [[K045]] — offers Shantideva's diagnosis of self-grasping as a comparison for the unexamined self
+
 ## Sources
 
 - Nishida

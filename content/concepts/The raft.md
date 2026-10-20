@@ -34,8 +34,9 @@ The simile sits in a discourse about clinging to views, alongside the simile of 
 
 ## Related concepts
 
-- [[Skillful means (upaya)]] — the Lotus Sutra's term for teaching fitted to the hearer
 
+- [[Skillful means (upaya)]] — the Lotus Sutra's term for teaching fitted to the hearer
+- [[SE079]] — the raft image applied to the self rather than the teaching
 ## Sources
 
 - [MN 22, Alagaddupama Sutta, Thanissaro translation (Access to Insight)](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html) — the raft simile and its context

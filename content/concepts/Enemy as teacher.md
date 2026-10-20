@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Enemy as teacher” — Shantideva, Bodhicharyavatara, ch. 6.
 
+## Related concepts
+
+- [[K039]] — considers the opponent's role in practising patience
+
 ## Sources
 
 - Shantideva, Bodhicharyavatara, ch. 6

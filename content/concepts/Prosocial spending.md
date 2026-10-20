@@ -24,6 +24,7 @@ PP032 carries the practice with its autonomy caveat: prosocial behaviour for aut
 ## Related concepts
 
 
+
 - [[Generosity]] — the virtue this spending expresses
 - [[Altruism]] — the motive family behind it
 - [[Compassion]] — the suffering-directed form
@@ -32,6 +33,7 @@ PP032 carries the practice with its autonomy caveat: prosocial behaviour for aut
 - [[Empathy]] — knowing what the other would want
 - [[Broaden-and-build]] — positive affect research, an in-compendium pairing
 - [[Prosocial behaviour]] — the umbrella behaviour the spending variant belongs to
+- [[K047]] — offers Shantideva's teaching on others' happiness as a Buddhist comparison for the other-directed activity this page studies
 ## Sources
 
 - [Dunn, Aknin & Norton 2008, "Spending Money on Others Promotes Happiness," Science 319(5870), full text PDF (UCLA SAN Lab)](https://sanlab.psych.ucla.edu/wp-content/uploads/sites/31/2016/03/Dunn2008Science.pdf)

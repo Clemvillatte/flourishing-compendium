@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 intensity, duration, variability, and recovery are distinct properties with distinct correlates (Houben et al., 2015).
 
+## Related concepts
+
+- [[AF015]] — AF015 points the framework's reader to a principle built on the Hollenstein/Kuppens flexibility proposal, treated as something to observe rather than suppress
+
 ## Sources
 
 - Houben et al., 2015

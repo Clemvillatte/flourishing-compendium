@@ -3,52 +3,12 @@
  "revision": 9,
  "reciprocal": [
   {
-   "into": "Being-toward-death",
-   "link": "E054",
-   "why": "considers how anticipation of death clarifies finite possibilities for choosing",
-   "notes": "Existing concept read in full; E054 newly links it. Primary evidence opened: https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime07.doc §§50–53; §49 leaves what may follow death open. Supervisor integrates reciprocal only; worker did not edit concept page. Do not turn title's gift language into a demonstrated ontological benefit."
-  },
-  {
-   "into": "Pure experience",
-   "link": "K002",
-   "why": "examines Nishida's account of experience before subject-object differentiation",
-   "notes": "Concept page already cites Nishida, An Inquiry into the Good in its parallels. Evidence: SEP Nishida Kitaro entry opened and raw-verified 2026-10-20 (SS2.1: experience precedes differentiation into subject and object; An Inquiry into the Good p. 3 fragment)."
-  },
-  {
    "into": "Cognitive mediation of distress",
    "link": "K005",
    "why": "offers a Buddhist comparison concerning the mind's role in suffering",
    "notes": "Concept page covers Beck/CBT interpretation-carries-load findings; K005's psychology parallel already links to it. Evidence: Berzin ch. 5 V.2-3 opened 2026-10-20."
-  },
-  {
-   "into": "Enemy as teacher",
-   "link": "K039",
-   "why": "considers the opponent's role in practising patience",
-   "notes": "Concept page already cites Shantideva ch. 6 and K039 in its own body. Evidence: Berzin ch. 6 VI.107-111 opened 2026-10-20."
-  },
-  {
-   "into": "Attribution retraining",
-   "link": "K041",
-   "why": "offers a comparison with Shantideva's account of harmful conduct arising through conditions",
-   "notes": "K041's psychology parallel already links the concept. Evidence: Berzin ch. 6 VI.22 opened 2026-10-20."
-  },
-  {
-   "into": "Beneficial speech",
-   "link": "K044",
-   "why": "carries Shantideva's speech instruction alongside the page's other speech disciplines",
-   "notes": "Concept page already links K044. Evidence: Berzin ch. 5 V.79 opened 2026-10-20."
-  },
-  {
-   "into": "The unexamined I",
-   "link": "K045",
-   "why": "offers Shantideva's diagnosis of self-grasping as a comparison for the unexamined self",
-   "notes": "Concept page already cites K045 in its Cited-in list. Evidence: Berzin ch. 8 VIII.134 opened 2026-10-20."
-  },
-  {
-   "into": "Prosocial spending",
-   "link": "K047",
-   "why": "offers Shantideva's teaching on others' happiness as a Buddhist comparison for the other-directed activity this page studies",
-   "notes": "K047's psychology parallel already links the concept. Evidence: Berzin ch. 8 VIII.129 opened 2026-10-20."
   }
- ]
+ ],
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 1 recip, 0 inline"
 }

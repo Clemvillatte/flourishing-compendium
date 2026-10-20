@@ -21,10 +21,11 @@ Daniel Bell records an objection to this ideal: "But this pre-modern Gemeinschaf
 
 ## Related concepts
 
+
 - [[Community psychology theory]]
 - [[Social capital theory Putnam]]
 - [[Narrative identity]]
-
+- [[SO062]] — the principle that treats the connections this concept describes as a community resource
 ## Sources
 
 - MacIntyre, After Virtue

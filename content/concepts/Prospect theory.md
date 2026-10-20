@@ -11,6 +11,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 losses loom larger than gains; people are risk-averse in gains and risk-seeking in losses (Kahneman & Tversky, 1979).
 
 - Tversky & Kahneman, 1992
+## Related concepts
+
+- [[CO031]] — the principle carries the 1979 paper's losses-loom-larger finding with the value-function properties, while the concept page's cited-in list covers only CO019's framing side
+
 ## Sources
 
 - Kahneman & Tversky, 1979

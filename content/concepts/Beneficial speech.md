@@ -13,6 +13,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **three gates** — BG 17.15
 
+## Related concepts
+
+
+- [[K044]] — carries Shantideva's speech instruction alongside the page's other speech disciplines
+- [[Right speech]] — the Gita's teaching on speech that benefits, compared with the Buddhist right-speech practice the page names as its counterpart
 ## Sources
 
 - BG 17.15

@@ -27,10 +27,11 @@ Bhagavad Gita 6.35 also pairs practice with renunciation:
 
 ## Related concepts
 
+
 - [[Attentional control training and the role of repeated redirection]]
 - [[Vairagya]]
 - [[Habituation]]
-
+- [[Yoga: union of body, breath, and mind]] — abhyasa names the yoga tradition's sustained practice that the union page's practice side involves
 ## Sources
 
 - Wikipedia Abhyasa: https://en.wikipedia.org/wiki/Abhyasa

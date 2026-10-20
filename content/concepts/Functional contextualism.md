@@ -15,8 +15,9 @@ the philosophical base of ACT, where workability replaces literal truth as the c
 
 ## Related concepts
 
-- [[Behavior analysis]] — P078 connects both through its contextual treatment of action
 
+- [[Behavior analysis]] — P078 connects both through its contextual treatment of action
+- [[Workability]] — workability is the criterion functional contextualism puts in place of literal truth
 ## Sources
 
 - Hayes et al., 2011

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Spinoza's solution to Descartes' dualism: mind and body are one reality expressed under two attributes; no interaction, but strict correspondence ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)).
 
+## Related concepts
+
+- [[SP006]] — the principle that states the parallelism this concept explains: one thing, two attributes, correspondence without interaction
+
 ## Sources
 - SEP Spinoza: https://plato.stanford.edu/entries/spinoza/
 

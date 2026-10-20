@@ -14,3 +14,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 [[P048 — Think reflectively — turn experience over]]
 [[P051 — Take error as information]]
 - - - ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[P132]] — Dewey's account of reform as inquiry: treat a social change as an experiment.

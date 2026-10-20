@@ -16,8 +16,9 @@ The chapter presents the intimacy model's core claim: intimacy is defined "in te
 
 ## Related concepts
 
-- [[Active constructive responding]]
 
+- [[Active constructive responding]]
+- [[Attachment security]] — partner responsiveness is the behaviour the attachment-security cycle runs on
 ## Sources
 
 - Reis and Clark, 2013 (original seed line, kept)

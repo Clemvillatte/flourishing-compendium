@@ -23,8 +23,10 @@ the different trajectories of promotion and prevention goals (Higgins, 1997, the
 ## Related concepts
 
 
+
 - [[Avoidance versus attentional engagement]] — the withdrawal cycle instantiates the avoidance side of the valence split
 - [[Achievement goal theory (Dweck, Elliot)]] — the achievement-goal framework built on the approach and avoidance distinction
+- [[Achievement motivation theory]] — the approach/avoidance split of achievement motivation develops the Atkinson model's two-motive pairing
 ## Sources
 
 - Higgins, 1997, the regulatory-focus framework

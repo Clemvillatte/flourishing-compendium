@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 people with difficult early experiences can develop secure attachment through later relationships and therapy (Roisman et al., 2002; Siegel, 1999).
 
+## Related concepts
+
+- [[Attachment security]] — earned security is attachment security reached through later relationships rather than early ones
+
 ## Sources
 
 - Roisman et al., 2002

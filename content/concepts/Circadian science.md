@@ -10,6 +10,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 week-long natural-light exposure resets the human circadian clock (Wright et al., 2013).
 
+## Related concepts
+
+
+
+- [[BE043]] — the camping and e-reader trials behind this principle are circadian entrainment experiments
+- [[BI028]] — the exercise phase-response curve and evening-exercise meta-analysis are circadian-timing findings
+- [[BI069]] — the medical-condition framing for sleep disorders including circadian ones
 ## Sources
 
 - Wright et al., 2013

@@ -1,17 +1,11 @@
 {
- "batch": "w1a",
- "done": [
-  "Ubuntu",
-  "Freedom",
-  "Virtue",
-  "Attention",
-  "Care",
-  "Gratitude"
- ],
- "flagged": {},
- "missing_concepts": [],
- "sources_checked": 12,
- "reciprocal": [],
  "inline": [],
- "notes": "Schema fixed 2026-10-19 to match enrich_apply.py (into/link/concept keys, entry ids). Ubuntu: 22 inline (mention pass complete, --max 100), 12 reciprocals. Rejected inline: ST228 (already externally linked), Relational ontology (mention sits inside a Ramose book title). Deferred: layers/books/reference pages. Freedom: mention pass complete; plain-text 'freedom' occurrences are mostly incidental, no inline proposals (deliberate). 10 reciprocals. Virtue: 4 curated inline proposals with exact phrases (bare 'virtue' is a substring of 'virtuous' and would mangle text); A-track principles use virtue genuinely but need phrase-safe matches. 9 reciprocals. All 15 Ubuntu + 15 Freedom original links preserved. | deferred at this run (target band busy): 4 recip, 0 inline | Attention: James ch.11 definition + 'my experience is what I agree to attend to', Weil Bousquet letter 1942, Simon 1971 pp.40-41, Simons & Chabris 1999 (pubmed) all verified. Mention pass: plain-text 'attention' in principles is overwhelmingly incidental/technical use, no inline proposals (deliberate). Related list 9; Sati already mutual. All 15 Cited-in links preserved (restructured into a practice list under 'In the compendium'). | Care: Noddings engrossment/motivational displacement (UVM PDF in her own words), Heidegger Sorge \u00a741 (beyng translation), IEP care ethics all verified. Mention pass: plain-text 'care' is mostly incidental (careful, self-care, caretaker), no inline proposals (deliberate). Related list 8; Ubuntu already mutual. Seed reading list carried into Sources. | QC2: advisor review applied to Attention + Care; apply-script heading bug repaired in Oikeiosis + Ren and fixed at source with regression test; Attention-Care reciprocal pair added on advisor's suggestion; mention-pass bounds recorded (first 60 hits reviewed per concept, incidental). | deferred at this run (target band busy): 8 recip, 0 inline | Gratitude: Emmons & McCullough 2003 (full-text PDF), Algoe 2012 find-remind-and-bind, Algoe et al. 2010 (gratitude vs indebtedness), Wood et al. 2010 review all verified. Page consolidated: 16 scattered principle links reorganised into a Cited-in-principles list. Mention pass: plain-text 'gratitude' mostly incidental, no inline proposals (deliberate, first 60 hits). Related list 7 (3 existing mutuals + 4 new). | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline | Acceptance (genuineflourishing31): Hayes et al. 2006 definition quote verified from opened PDF; page built with 9-item Related list; 3 curated inline proposals (A017 acceptance-based approaches, AF039 acceptance-is-not-approval, AF040 barrier-to-acceptance), all genuinely meaning the ACT concept; bare 'acceptance' rejected as phrase-unsafe (AF038's 'acceptance of harm' is a different sense). | Mindfulness (genuineflourishing31): Kabat-Zinn 2003 definition quote verified from opened PDF; 8-item Related list; 2 phrase-safe inline proposals (A095 beyond-mindfulness, AF043 mechanism-of-mindfulness); bare 'mindfulness' rejected as phrase-unsafe. | Humility (genuineflourishing31): Tangney 2000 key-elements quote verified via opened PMC article (Michalec et al. 2025, quoting Tangney pp. 73-74); 6-item Related list; 2 phrase-safe inline proposals (A015, A025); 'Cultural humility practice' mentions in A063-A066 left alone, different construct; Owens et al. 2013 not re-opened, kept as inherited seed line. | deferred at this run (target band busy): 1 recip, 0 inline Supervisor repair (2026-10-20): removed reciprocal into \"Character as habits\" (link Virtue) \u2014 the target page no longer exists after the 2026-10-20 namespace merge into [[Habit]] (see OPERATIONS QC log); re-targeting to Habit would be a new semantic decision, not a mechanical resolution."
+ "reciprocal": [
+  {
+   "into": "Beneficial speech",
+   "link": "Right speech",
+   "why": "the Gita's teaching on speech that benefits, compared with the Buddhist right-speech practice the page names as its counterpart"
+  }
+ ],
+ "notes": " | deferred at this run (target band busy): 22 recip, 2 inline | deferred at this run (target band busy): 17 recip, 1 inline | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

@@ -10,42 +10,12 @@
  "revision": 4,
  "reciprocal": [
   {
-   "into": "Affective dynamics framework",
-   "link": "AF015",
-   "why": "AF015 points the framework's reader to a principle built on the Hollenstein/Kuppens flexibility proposal, treated as something to observe rather than suppress",
-   "notes": "Concept page does not yet link AF015 (verified); evidence in sources/p1zq/AF015.md (Kuppens 2015 + Quoidbach et al. 2014, both opened)."
-  },
-  {
-   "into": "Affective chronometry",
-   "link": "AF015",
-   "why": "AF015's week-audit exercise asks the reader to observe how feelings vary across situations — a natural companion to this page's rise-peak-decay timing questions",
-   "notes": "Concept page does not yet link AF015 (verified); evidence in sources/p1zq/AF015.md (Kuppens 2015 + Quoidbach et al. 2014, both opened)."
-  },
-  {
-   "into": "Emotion regulation",
-   "link": "AF037",
-   "why": "a laboratory comparison of acceptance and suppression in patients with panic disorder",
-   "notes": "Why clause bounded to the opened abstract after advisor QC rounds 1-2. Evidence: sources/p1zq/AF037.md."
-  },
-  {
-   "into": "Acceptance",
-   "link": "AF037",
-   "why": "a laboratory comparison of acceptance and suppression in patients with panic disorder",
-   "notes": "Why clause bounded to the opened abstract after advisor QC rounds 1-2. Evidence: sources/p1zq/AF037.md."
-  },
-  {
    "into": "Distress tolerance (DBT)",
    "link": "AF041",
    "why": "AF041 is the principle form of this page's construct: the capacity to bear intense affect without the act that makes it worse.",
    "notes": "Target verified to not yet link AF041 (rg check 2026-10-21). Same opened Leyro et al. 2010 review as the page cites. Evidence: sources/p1zq/AF041.md."
-  },
-  {
-   "into": "Grief's oscillation model",
-   "link": "AF052",
-   "why": "AF052 is this model's principle form: grief as oscillation between loss- and restoration-orientation, with respite treated as part of adaptive coping.",
-   "notes": "Target verified to not yet link AF052 (rg check 2026-10-21). Evidence: sources/p1zq/AF052.md (Stroebe & Schut 1999 full text opened via scispace)."
   }
  ],
  "inline": [],
- "notes": []
+ "notes": "[] | deferred at this run (target band busy): 1 recip, 0 inline"
 }
