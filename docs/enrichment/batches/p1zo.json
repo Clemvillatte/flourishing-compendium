@@ -3,20 +3,19 @@
  "done": [
   "SE037",
   "SE058",
-  "SE070",
   "SE045",
   "SE053"
  ],
- "in_progress": null,
+ "in_progress": "SE070",
  "flagged": {
   "SE037": "inherited parallels not certified: Waterman 1993 outcome claim + Apology 38a parallels kept as found; see sources/p1zo/SE037.md",
   "SE045": "Reopened for QC: milestone advisor QC repairs",
   "SE053": "Reopened for QC: milestone advisor QC round 3: example repair",
   "SE058": "milestone advisor QC repairs applied to page after done; re-validated ok; see ledger addendum",
-  "SE070": "milestone advisor QC repairs applied to page after done; re-validated ok; see ledger addendum"
+  "SE070": "Reopened for QC: milestone advisor QC round 3: plain words, example, practice repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:19:07+00:00",
+ "updated": "2026-10-20T11:19:09+00:00",
  "band_done": false
 }
