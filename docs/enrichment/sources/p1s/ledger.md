@@ -641,7 +641,11 @@ page).
 Saturation outcome: B172 already reciprocally cited by Sparse speech and
 Restorative environments (no proposal needed); two reciprocal proposals
 added to proposals/p1s.json: B190 into Anapanasati (mindfulness of
-breathing); B181 into Boredom. Workflow correction recorded: start each item
-before editing and save it separately (B181/B190 were initially edited and
-saved together).
+breathing); B181 into Boredom. Workflow correction recorded: start each item before editing and save it
+separately. ACCURATE ACCOUNT of the first repair round: B181 and B190 were
+initially edited together and B181's repair was NOT saved separately - B181
+was marked done, then B190 was reopened, repaired and done, and BOTH repairs
+were carried by the single save efa6b0b4. The B172 repair round WAS saved
+separately (5f0e3ca4). The round-2 text fixes each got their own state
+cycle and save (B172 e3d6958d, B181 75f658ea, B190 below).
 
