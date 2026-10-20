@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 201** — Associate with people who make you better
 
-Seneca advises choosing friends who elevate you, not those who drag you down. The company you keep shapes your character. Be deliberate about your associations.
+Seneca's warning is that character rubs off: "the familiar friend, if he be luxurious, weakens and softens us imperceptibly; the neighbour, if he be rich, rouses our covetousness; the companion, if he be slanderous, rubs off some of his rust upon us, even though we be spotless and sincere." (Seneca, Letters 7.7, tr. Gummere, https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_7.) His instruction follows: "Withdraw into yourself, as far as you can. Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach." (Letters 7.8.)
 
-(Seneca, Letters 7, 9, 15, 35, 41, 44, 63, 109; Med. I.7, I.15, I.17, I.15, IV.38, V.10, VI.8, IX.11; Disc. III.16, III.24; Ench. 4, 33, 46.)
+So be deliberate about your associations: the choice of company is a choice about the person you are becoming.
 
-**Plain words** Seneca advises choosing friends who lift you, not drag you down. Your company shapes your character, so choose it deliberately.
+(Seneca, Letters 7.)
+
+**Plain words** You become like the people you spend time with — not through argument, but through osmosis: their pace becomes your pace, their complaints your complaints. Seneca's rule is two-sided: pick people who improve you, and be the person someone else is glad they picked. A mutual apprenticeship, not a hunt for mentors.
 
 *For example:* Spending less time with the friend who always complains, and more with the one who gets you thinking.
 
@@ -37,3 +39,6 @@ Is it fair to rank friends by their effect on you? How would you weigh loyalty a
 %%
 Whom do you lift? How would your friends describe that?
 -->
+
+## Sources
+- Seneca, Letters 7.7-7.8 ("On crowds"), tr. Richard Mott Gummere — opened and verified verbatim via the Wikisource API (page fetch rate-limited): https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_7

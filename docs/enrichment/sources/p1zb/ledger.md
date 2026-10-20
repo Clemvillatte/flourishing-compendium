@@ -525,3 +525,24 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   fragment is quoted in the file with the sentence period inside the quotation marks
   ("who exercises himself against such appearances.") and that exact string including the
   period is a substring of the source. Round 5 closed.
+- Reporting clarification (advisor, round-5 closure): the verification is substantiated as a
+  batch run (13/14 file matches, 14/14 source matches) plus a separate period-inclusive
+  check of the S047 athlete fragment (file and source match) — not a single 14/14 batch run.
+  Mention-search conclusions apply to the displayed candidates only (outputs truncated).
+
+## S079 — Associate with people who make you better
+- Full work: verbatim quotes added (Seneca Letters 7.7 — the rust/friend/neighbour/companion
+  passage; 7.8 — "Withdraw into yourself... Associate with those who will make a better
+  man of you... The process is mutual; for men learn while they teach."), verified against
+  the Gummere text opened via the Wikisource API (direct page fetch rate-limited; API parse
+  of rendered text used, raw wikitext carries only the header template). Plain words
+  rewritten as re-derivation (osmosis, mutual apprenticeship). For-example kept. Sources
+  section added.
+- Citation line trimmed to opened evidence (Seneca, Letters 7). Removed inherited references,
+  retained here: Letters 9, 15, 35, 41, 44, 63, 109; Med. I.7, I.15, I.17, IV.38, V.10,
+  VI.8, IX.11; Disc. III.16, III.24; Ench. 4, 33, 46.
+- Saturation: mutual links for Peer influence, Social contagion and The community of
+  inquiry (all list S079; the first two are the principle's own psychology parallels, the
+  third its philosophy parallel). One-directional: Community psychology theory and Social
+  learning theory (Bandura) list S077 — no action (loose fit; the principle's own labels
+  cover the ground). No new proposal warranted.
