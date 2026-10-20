@@ -1,0 +1,12 @@
+{
+ "batch": "p1zu",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Active constructive responding",
+   "link": "PP030",
+   "why": "the principle that operationalises this response for good news: enthusiastic engagement, questions and celebration",
+   "notes": "Concept's In-the-compendium list omits PP030 while PP030's body links the concept via the seed markup; evidence in sources/p1zu/ledger.md (Gable et al. 2004, opened)."
+  }
+ ]
+}
