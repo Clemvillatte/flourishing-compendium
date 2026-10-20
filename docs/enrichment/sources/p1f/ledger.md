@@ -180,3 +180,7 @@
 - Saturation sweep: one sibling — B013 "Trust that the mind is trainable" (grounded in MN 27 gradual training / Dhammapada 103); reciprocal proposal added to proposals/p1f.json.
 - Validator: first pass 322 > 300, second 303 > 300; trimmed to 298 and validated ok (exit 0, verified without pipes).
 - Protected content vs seed commit c2a3ee47: front matter, principle statement, wikilink markup identical; no reflections comment in seed or current file.
+
+#### AT025 first-item advisor QC (2026-10-20)
+- Round 1 FAIL with bounded repairs; all applied: "The brief version also works" replaced (Mrazek programme not isolated to 10-min daily practice); muscle-metaphor synthesis replaced with the programme/measures-scoped version; "names the fatigue effect" replaced with "describes the measured decline in performance"; Plain words, For example (Imagined), and Practice replaced with the advisor's texts (unsupported 25-minute prescription and "same gym, same rules" removed); psychology-parallel headings narrowed (no dose-response claim); MacLean quote casing restored to the source's capital "Training produced improvements..."; sentence-level inline source links added to the two study-derived paragraphs; B013 proposal rationale narrowed per the advisor.
+- Validated after repairs: exit code 0 (verified without pipes).

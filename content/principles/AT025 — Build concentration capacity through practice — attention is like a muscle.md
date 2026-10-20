@@ -18,19 +18,19 @@ A randomized trial of intensive meditation training states the problem:
 >
 > (MacLean et al., "Intensive meditation training improves perceptual discrimination and sustained attention", Psychological Science, 2010, abstract)
 
-The same paper names the fatigue effect: sustained-attention failure appears as "a decline in perceptual sensitivity with increasing time on task, known as the vigilance decrement". Its training was roughly five hours a day for three months of "meditation practice that involved sustained selective attention on a chosen stimulus (e.g., the participant's breath)", and "training produced improvements in visual discrimination that were linked to increases in perceptual sensitivity and improved vigilance during sustained visual attention".
+The paper describes the measured decline in performance: sustained-attention failure appears as "a decline in perceptual sensitivity with increasing time on task, known as the vigilance decrement". Its training was roughly five hours a day for three months of "meditation practice that involved sustained selective attention on a chosen stimulus (e.g., the participant's breath)". The abstract reports: "Training produced improvements in visual discrimination that were linked to increases in perceptual sensitivity and improved vigilance during sustained visual attention" ([MacLean et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3132583/)).
 
-The brief version also works: Mrazek and colleagues (2013) randomly assigned undergraduates to a two-week mindfulness class or a nutrition class. The class met "45 min four times a week for 2 weeks" and required "10 min of daily meditation outside of class", with exercises "requiring focused attention to some aspect of sensory experience", such as the breath sensations. The result: "Mindfulness training improved both GRE reading-comprehension scores and working memory capacity while simultaneously reducing the occurrence of distracting thoughts during completion of the GRE and the measure of working memory".
+Mrazek and colleagues tested a shorter programme with different outcome measures: they randomly assigned undergraduates to a two-week mindfulness class or a nutrition class. The class met "45 min four times a week for 2 weeks" and required "10 min of daily meditation outside of class", with exercises "requiring focused attention to some aspect of sensory experience", such as the breath sensations. The result: "Mindfulness training improved both GRE reading-comprehension scores and working memory capacity while simultaneously reducing the occurrence of distracting thoughts during completion of the GRE and the measure of working memory" ([Mrazek et al. 2013](https://apps.weber.edu/wsuimages/psychology/Research/ResearchArticles/Mrazek%20et%20al_%20(2013).pdf)).
 
-The compendium's reading of the muscle metaphor keeps only what the two studies support: attention measurably tires on a long task, and practice, including brief daily practice, measurably improves sustained performance.
+The studies reported improvements on their particular measures after meditation training. Mrazek's results concern the full course, including classes and daily practice, rather than ten minutes of meditation alone.
 
 (MacLean et al., Psychological Science 21(6), 2010; Mrazek et al., Psychological Science 24(5), 2013.)
 
 **Plain words**
-Attention fades on a long task, and the fading is measurable. Practice, even brief daily practice, improves performance on tasks that need sustained attention. What length of focused session can you do daily without dreading it? Start there, hold one object, return when the mind wanders, and lengthen the session as it gets easier.
+These studies tested specific training programmes, not whether any short daily routine will improve concentration. For your own practice, choose a manageable exercise, notice when attention wanders, and return to what you were doing.
 
 *For example:*
-Start with 25 focused minutes, like a beginner at the gym: nobody walks in and deadlifts 200kg. The brain's the same gym, same rules.
+Imagined: Before reading, someone chooses a short section to work through. When attention wanders, they return to the paragraph. Afterwards, they note the interruptions and decide how to arrange the next session.
 
 ## Sources
 
@@ -40,8 +40,8 @@ Start with 25 focused minutes, like a beginner at the gym: nobody walks in and d
 
 ## Psychology parallels
 
-- **Focused attention meditation improves concentration**, sustained-selective-attention practice improved vigilance in a randomized trial (MacLean et al., 2010)
-- **Concentration improves with practice duration and consistency**, a two-week course including 10 min of daily meditation improved working memory and reading comprehension (Mrazek et al., 2013)
+- **Intensive meditation training and sustained visual attention**, sustained-selective-attention practice improved vigilance in a randomized trial (MacLean et al., 2010)
+- **A two-week mindfulness course and cognitive performance**, the course, including classes and daily practice, improved working memory and reading comprehension (Mrazek et al., 2013)
 
 ## Philosophy parallels
 
@@ -51,4 +51,4 @@ Start with 25 focused minutes, like a beginner at the gym: nobody walks in and d
 
 ## Practice
 
-- Practise sustained attention daily. Start with 10-15 minutes of focused attention on a single object (breath, candle, task). When mind wanders, return. Build gradually.
+- Choose a manageable period of attention to breathing. When you notice your mind wandering, return to the breath. Review the session before deciding whether to change its length.
