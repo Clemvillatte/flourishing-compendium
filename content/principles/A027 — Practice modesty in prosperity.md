@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 27** — Practice modesty in prosperity
 
-Prosperity tests character as much as adversity. The person who is unchanged by good fortune, who does not become arrogant or complacent, has passed the harder test. When things go well, do not lose the habits that got you there.
+The magnanimous person, Aristotle writes, "will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil" ([NE IV.3](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html)). The same chapter treats honours, wealth and power as things people seek, and the magnanimous person as holding them lightly rather than as proofs of worth. The exercise below asks what changed when things went well.
 
-(NE I.10, IV.3; EE VII.12.)
+> In the first place, then, as has been said, the proud man is concerned with honours; yet he will also bear himself with moderation towards wealth and power and all good or evil fortune, whatever may befall him, and will be neither over-joyed by good fortune nor over-pained by evil.
+>
+> Aristotle, Nicomachean Ethics IV.3, translated by W. D. Ross, [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.4.iv.html).
 
-**Plain words** Good fortune tests you as much as bad. Aristotle says the person unchanged by success, neither arrogant nor complacent, has passed the harder test. When things go well, keep the habits that got you there.
+(NE IV.3; Ross translation.)
 
-*For example:* A team that wins a big contract and keeps the same careful weekly review is doing it. A team that stops after the win usually doesn't win the next.
+### Plain words
+
+The sentence sets the same measure in both directions: not over-joyed by good fortune, not over-pained by bad. For an exercise, name one habit from a harder period — a review, a practice, a budget — and check whether it survived the easier one.
+
+For example: a team that wins a big contract can keep or drop its careful weekly review. The example is invented; the question it stages is which habits survived the win.
 
 ## Practice kernels
 
