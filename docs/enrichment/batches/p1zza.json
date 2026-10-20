@@ -7,7 +7,8 @@
   "AF039",
   "AF077",
   "AF050",
-  "BE066"
+  "BE066",
+  "BI036"
  ],
  "in_progress": null,
  "flagged": {
@@ -19,6 +20,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-20T16:23:42+00:00",
+ "updated": "2026-10-20T16:24:44+00:00",
  "band_done": false
 }

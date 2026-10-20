@@ -12,15 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 36** — Learn to include omega-3 fatty acids: anti-inflammatory fats for the brain
 
-Omega-3 fatty acids (found in fish, fish oil, flax, walnuts) are anti-inflammatory and support brain health. They have evidence for reducing depressive symptoms, though effects are moderate.
+Omega-3 fatty acids come from fish, fish oil, flax and walnuts. The evidence on depression is specific about where a benefit appears. A hypothesis-testing meta-analysis of randomised trials found a benefit for EPA-predominant formulations among people already diagnosed with depression, none for DHA-predominant ones, and no preventive effect in people without a diagnosis:
 
-**Plain words** Omega-3s (fish, fish oil, flax, walnuts) are anti-inflammatory brain food with evidence for reducing depressive symptoms — modest, not miraculous. A useful part of the stack, not a cure. Cheap insurance, decent odds.
+> "Among participants with diagnosed depression, eicosapentaenoic acid (EPA)-predominant formulations (>50% EPA) demonstrated clinical benefits compared with placebo (Hedge's G = 0.61, P<0.001) whereas docosahexaenoic acid (DHA)-predominant formulations (>50% DHA) did not. EPA failed to prevent depressive symptoms among populations not diagnosed for depression." (Hallahan et al., 2016, [British Journal of Psychiatry 209(3), PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC9406129/))
 
-*For example:* The psychiatrist who suggests omega-3s alongside everything else — not a magic bullet, a supporting actor with a decent filmography. The evidence says "helps some." That's enough to be on the list.
+The compendium's summary follows that shape: a possible adjunct in diagnosed depression, EPA-dominant, modest — and no claim of prevention for healthy people.
+
+**Plain words**
+Fatty fish, flax, walnuts: worth including in an ordinary week. If you are dealing with depression and considering a supplement, the trials that found anything favoured EPA-heavy products and studied people already diagnosed. That is the size of the claim — a supporting actor, not a cure.
+
+*For example (imagined):* A psychiatrist suggests omega-3s alongside everything else on the plan. The evidence said "helps some, in this specific way." That was enough for the list.
+
 ## Psychology parallels
 
-- **Omega-3 and depression**, omega-3 supplementation (especially EPA) has moderate evidence for reducing depressive symptoms (Grosso et al., 2014; Hallahan et al., 2016)
-- **Note: effects are moderate and not all studies are positive**, the evidence is mixed and effect sizes are small (Hallahan et al., 2016; Bloch & Hannestad, 2012)
+- **Omega-3 and depression** (Grosso et al., 2014; Hallahan et al., 2016)
+- **Mixed evidence across studies** (Hallahan et al., 2016; Bloch & Hannestad, 2012)
 
 ## Philosophy parallels
 
@@ -30,8 +36,14 @@ Omega-3 fatty acids (found in fish, fish oil, flax, walnuts) are anti-inflammato
 
 ## Practice
 
-- Include omega-3: eat fatty fish (salmon, sardines, mackerel) 2-3 times per week, or consider fish oil (EPA-dominant). This is anti-inflammatory and supports brain health. Do not expect dramatic effects.
+- Include fatty fish (salmon, sardines, mackerel) two or three times a week, or consider an EPA-dominant supplement. Do not expect dramatic effects.
 
 ## Related concepts
 
 - [[BI041]] — listed for comparison
+- [[Food as medicine]] — listed for comparison
+- [[Temperance]] — listed for comparison
+
+## Sources
+
+- [Hallahan, B., Ryan, T., Hibbeln, J. R., Murray, I. T., Glynn, S., Ramsden, C. E., SanGiovanni, J. P., & Davis, J. M. (2016). Efficacy of omega-3 highly unsaturated fatty acids in the treatment of depression. British Journal of Psychiatry, 209(3), 192-201 (PMC full text).](https://pmc.ncbi.nlm.nih.gov/articles/PMC9406129/)
