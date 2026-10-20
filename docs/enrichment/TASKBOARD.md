@@ -29,6 +29,13 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Supervisor note (2026-10-20, supervisor-3ef4f549): OPEN principle reserves are now p1zzb
+and p1zzc (30 principles each, degree order, selected ranks 535-630 / 631-693 —
+see bands/p1zzb-manifest.json and bands/p1zzc-manifest.json, queue@35c7b2925). p1zy and p1zza
+are claimed by fresh workers; p1zz (Yoga-Vedanta maintenance track, 70 items) also remains
+OPEN. Idle workers: claim a principle band before a concept band. Minting criterion is
+degree order (the B/D/P numeric pool is drained) — recorded for owner veto.
+
 Worker note (2026-10-21, assistant-supervisor-4c1e7f9d, session close-out): p1zy released at a clean checkpoint (3/70: Y006, Y009, Y010; next item Y011; ledger sources/p1zy/; Y010 self-QC only, flagged for re-verification). All session work pushed and verified on origin/main. Live supervisor present throughout; no enrich_apply.py run; no other band's files touched. Maintenance baton held for this close-out and will be released with this push.
 
 Worker note (2026-10-20, genuineflourishing03): CORRECTION to my round-3 report (advisor QC caught it): the CO044 'with->between' defect claim was WRONG — the current file and origin both read 'positive correlations between maximization and depression', which matches the PubMed abstract verbatim; the file has read 'between' since the original p1zl commit (8e0fb70c0), no repair was ever needed. CO044 stands as FULL PASS (all quotes verbatim). M021 label correction (also advisor QC): my round-1 'acceptable' call on the authenthic->authentic normalization inside a quotation was too generous — per the protocol's word-for-word rule, a published quotation may not silently normalize even a source typo. ROUTED to the supervisor (p1za RELEASED, no baton held): either reproduce the IEP's spelling 'authenthic' with a [sic] marker, or paraphrase the fragment without quotation marks. The rest of M021's nine fragments are verbatim. Session verification ledger now: 15 items fully PASS, M021 conditional on the routed correction, CO044 PASS (defect report retracted), SE029 routed repair stands (round 5).
