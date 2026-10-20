@@ -7,21 +7,26 @@ file: "Deus sive natura"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-“Deus sive natura” — Spinoza, Ethics I.
+Deus sive natura means “God, or Nature,” Spinoza's formula for the reality his Ethics describes through a single infinite substance ([Steven Nadler, Baruch Spinoza, section 2.1](https://plato.stanford.edu/entries/spinoza/)). Part I, proposition 14 denies that any substance besides God can exist or be conceived; the formula itself appears in Part IV's preface ([Ethics, translated by R. H. M. Elwes](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)).
 
-## Facets
+> "For the eternal and infinite Being, which we call God or Nature, acts by the same necessity as that whereby it exists." (Ethics IV, Preface, [translated by R. H. M. Elwes](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).)
 
-- **loved** — Goethe, the Spinozist poems, West-oestlicher Divan
+### What Nature includes
+
+In Part I, proposition 29's note, Spinoza distinguishes nature considered as active, natura naturans, from the modes that follow from it, natura naturata ([Ethics I.29, note](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). Nadler notes scholarly disagreement over whether God is identified with both aspects or with the active aspect alone ([section 2.1](https://plato.stanford.edu/entries/spinoza/)). The familiar formula therefore needs more care than simply equating God with a collection of visible things.
+
+### Attributes and particular things
+
+Thought and extension are attributes in this account; particular minds and bodies are modes, rather than additional attributes ([Nadler, section 2.2](https://plato.stanford.edu/entries/spinoza/)). Spinoza calls God the indwelling cause of all things at I.18, placing causation within this account of reality ([Ethics I.18](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)).
 
 ## Related concepts
 
-- [[Brahman]] — a cross-tradition pairing offered for reflection, not a claimed influence
+- [[Brahman]]
 
 ## Sources
 
-- Spinoza, Ethics I
-- the series' Book II
-- Goethe, the Spinozist poems, West-oestlicher Divan
+- [Spinoza, Ethics, translated by R. H. M. Elwes](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm), I.14, I.18, I.29 note and IV Preface: substance, indwelling cause, active/passive nature and the formula.
+- [Steven Nadler, Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/), sections 2.1–2.2: interpretive disagreement and the distinction between attributes and modes.
 
 [[SP002 — See everything as one system]]
 ## Cited in philosophy parallels
@@ -33,5 +38,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - [[M001 — See the world as one flowing, sacred energy]]
 - [[SP085 — Cultivate the intellectual love of God]]
 
-"God, or Nature" — Spinoza's formula for the single infinite substance in which mind and body, thought and extension, are parallel attributes ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)). God is not a transcendent creator but the immanent cause of all things, and to understand anything is to understand it as a mode of this one reality. Cross-tradition: the immanent absolute resonates with [[Brahman]], the [[Dao]], and the Stoic [[The logos common to all|logos]].
-- SEP Spinoza: https://plato.stanford.edu/entries/spinoza/
+## Comparative reading
+
+- [[Brahman]]
+- [[Dao]]
+- [[The logos common to all|logos]]
