@@ -32,10 +32,11 @@
   "E079": "Reopened for QC: advisor QC round 1 repairs (opening narrowed; second quote standalone; application paragraph removed; Plain words/example replaced)",
   "E088": "Reopened for QC: advisor QC round 1 repairs (attribution narrowed; standalone blockquotes; application moved to labelled Plain words exercise)",
   "E091": "Reopened for QC: advisor QC round 1 repairs (edition attribution dropped; bounded application)",
-  "K050": "Reopened for QC: advisor QC round 1 repairs (most-famous claim; duty-not-dread attribution; bounded application)"
+  "K050": "Reopened for QC: advisor QC round 1 repairs (most-famous claim; duty-not-dread attribution; bounded application)",
+  "MO002": "Reopened for QC: advisor QC round 1 repairs (scoping; bounded prompts application)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:19:07+00:00",
+ "updated": "2026-10-20T08:20:59+00:00",
  "band_done": false
 }

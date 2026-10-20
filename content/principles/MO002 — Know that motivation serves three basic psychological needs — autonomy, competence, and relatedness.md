@@ -20,14 +20,12 @@ The same entry records what the theory expects of environments:
 
 > Social environments that support the satisfaction of these psychological needs promote capacities for self-regulation and social relationships, and well-being whereas those that thwart satisfaction of these needs lead to a broad array of more impoverished individual and interpersonal outcomes. (Ryan & Deci, 2022)
 
-The compendium's application is to use the three needs as a checklist when motivation for something drops.
-
 (Ryan & Deci, 2022, "Self-Determination Theory," in Encyclopedia of Quality of Life and Well-Being Research, Springer.)
 
 **Plain words**
-The theory's claim is narrow: three needs — competence, autonomy, relatedness — are ones whose satisfaction or thwarting tracks wellness and motivation outcomes across the studies cited. The compendium's exercise: when your motivation for something drops, ask which of the three the situation is currently not feeding, and test one change aimed at that need.
+Ryan and Deci propose that satisfaction of autonomy, competence and relatedness supports growth and well-being. The compendium uses these needs as prompts when reviewing an activity. Consider whether support for any of them may be relevant to a change in motivation, while leaving other possible explanations open.
 
-*For example:* Suppose your weekly practice has stopped feeling worth doing. Ask the three questions in turn: is it still your choice (autonomy), are you still getting better at it (competence), is anyone else in it with you (relatedness)? The answer names where to look.
+*For example:* Suppose your weekly class has become less appealing. Describe what has changed in the class before considering how it relates to the three needs. Write down one question you could ask the teacher and what information would help you decide whether a change is worth trying.
 
 ## Sources
 
