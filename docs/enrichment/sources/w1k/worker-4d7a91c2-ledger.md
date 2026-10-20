@@ -63,3 +63,10 @@
 ### 5-item milestone CLOSED (advisor scoped PASS)
 
 - Four accepted enrichments (Redemption sequences, Reinforcement schedules, Relational Developmental Systems Theory, Revaluation of all values) + one deferred item (Reading the moment, supervisor route open). Four directly compared texts as logged; EXCEPTION: the Reinforcement page's Nevin 2012 PREE support came from a prompted extraction only (its displayed passage supports the paraphrase; the page does not quote Nevin verbatim) — not part of the direct-comparison round.
+
+## Risk perception
+
+- Fast-track degree 6. Namespace: source-defined research field (Slovic's psychometric paradigm).
+- Opened [Slovic and Weber, Perception of Risk Posed by Extreme Events (Columbia LDEO white paper PDF)](https://www.ldeo.columbia.edu/chrr/documents/meetings/roundtable/white_papers/slovic_wp.pdf): both factor-definition sentences and the expert-lay/correlation passages verified in a prompted extraction (PDF; direct unprompted read not performed this item — the extraction returned the factor passages in full). Slovic 1987 Science original NOT opened (paywalled); seed citation retained as bibliography; the page attributes only what the white paper states. NOTE: the white paper does not itself state the seed's "perceived control inflates tolerance" direction; the body states the correlation it does support (voluntary/controllable/well-known travel together; dread raises perceived risk and desire for regulation), and the compendium gloss is reported as D077's content.
+- Compendium clauses verified by reading D077/CO034/P189/D157 parallels lines (P190 line checked: "Risk perception and probability weighting (conceptual parallel)"; PP049 is a seed edge, no gloss).
+- Original front-matter, Other-formulations line, seed Sources line and all original wikilink lines preserved; fast-track saturation skipped; no reciprocal proposal.
