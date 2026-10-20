@@ -27,9 +27,9 @@ And the age connection, from the abstract:
 (Carstensen, Isaacowitz & Charles, 1999, "Taking Time Seriously: A Theory of Socioemotional Selectivity," American Psychologist, 54(3).)
 
 **Plain words**
-The theory says the goals you pursue track how much time you think you have: open time favors learning and new information, limited time favors emotional meaning. Age enters because time left and age travel together. The compendium's exercise: write down your current top three goals, and ask which category each falls into and whether that matches how open or limited your time feels now.
+Socioemotional selectivity theory concerns priorities among social goals. It links open-ended time with knowledge-seeking and limited time with emotional meaning. The compendium uses this distinction to review a recent social choice. Ask what you wanted from it, then consider whether your sense of future time played a part. Leave other explanations open.
 
-*For example:* A 55-year-old puzzled that the ambitions of her thirties no longer move her can, on the theory, examine her current sense of time: if it feels more limited than it did at thirty, the shift toward emotionally meaningful goals is what the theory predicts for that perception.
+*For example:* Suppose you are deciding between an event where you could meet new people and an evening with a close friend. Compare what matters to you in each option, then consider whether your sense of future time is relevant to your preference.
 
 ## Sources
 
