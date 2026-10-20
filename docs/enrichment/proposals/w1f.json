@@ -64,6 +64,26 @@
    "into": "Parasympathetic activation",
    "link": "Metacognitive regulation of state",
    "why": "the down-shift’s physiological lever"
+  },
+  {
+   "into": "Extended process model of emotion regulation",
+   "link": "Mid-level emotion regulation",
+   "why": "the model whose second-level placement this page works from"
+  },
+  {
+   "into": "Cognitive reappraisal",
+   "link": "Mid-level emotion regulation",
+   "why": "the strategy with the better record in the comparison this page makes"
+  },
+  {
+   "into": "Expressive suppression versus reappraisal",
+   "link": "Mid-level emotion regulation",
+   "why": "the head-to-head comparison this page summarises"
+  },
+  {
+   "into": "Emotion regulation",
+   "link": "Mid-level emotion regulation",
+   "why": "the parent construct, whose in-the-moment slice this page isolates"
   }
  ],
  "inline": []

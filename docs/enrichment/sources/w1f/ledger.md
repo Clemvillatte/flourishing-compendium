@@ -171,3 +171,11 @@
 - Opened: Pandey 2026, "The Swara-Informed model of autonomic synchrony in psychotherapy" (Frontiers in Psychology 17:1853837, PDF downloaded and text-extracted): https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1853837/pdf — AUTHOR CORRECTION during final check: the paper is single-authored (Aarsh Ojas Parasar Pandey); my first draft wrongly attributed it to "Sovtikova et al." (invented name — caught by verifying the author list from the PDF itself before closing). The matching-goal sentence (ellipsis-marked abridgement) and the left/right-nostril proposal verified verbatim by string search.
 - Reciprocals: 4 filed (Metacognition, Metacognitive awareness, Emotion regulation, Parasympathetic activation — backlink absence rg-verified). No inline filed.
 - Validator on final: ok. Seed line, Sources bullets, both Cited-in lists preserved. (One banned-phrase fix: "interplay" → "interaction".)
+
+## Mid-level emotion regulation (done 2026-10-20; takeover session w1f item 4; no advisor QC due at this cadence)
+
+- Opened: Gross 2015, "Emotion Regulation: Current Status and Future Prospects" (full PDF, http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the second-level valuation definition, the reappraisal/suppression outcome sentences, the five strategy families, the "best depends on person/situation/goals" caution, and the reappraisal-breaks-down-at-high-intensity finding, all verified verbatim via the fetched full text. NOTE: Gross 2015 contains NO venting/catharsis material (checked) — the seed's venting half is grounded via Bushman instead.
+- Opened: Bushman 2002, "Does Venting Anger Feed or Extinguish the Flame?" (full PDF, https://websites.umich.edu/~bbushman/PSPB02.pdf) — the abstract's concluding sentences and the gasoline conclusion sentence, verified verbatim.
+- The seed's "mid-level" gloss is presented as the seed's framing mapped onto Gross's second-level valuation placement (no claim Gross uses the term).
+- Reciprocals: 4 filed (Extended process model of emotion regulation, Cognitive reappraisal, Expressive suppression versus reappraisal, Emotion regulation — backlink absence rg-verified). No inline filed.
+- Validator on final: ok. Seed line, Sources bullets, both Cited-in lists preserved.
