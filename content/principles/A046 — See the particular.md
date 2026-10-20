@@ -23,7 +23,7 @@ The discussion of practical reasoning ends in perception: "hence we must have pe
 **Plain words**
 Knowledge of general principles is not sufficient on its own in this account. ([NE VI.7, Rackham](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0054:book=6)) For this exercise, list concrete details that a general rule might leave unspecified.
 
-*For example:* Telling a nervous new hire "great work" might be right. Noticing she needs a specific, honest correction instead is the trained eye at work.
+*For example* (reflection exercise): Before responding to a nervous new hire, list the details that might matter when deciding between praise and a specific correction.
 
 ## Psychology parallels
 

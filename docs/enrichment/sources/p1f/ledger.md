@@ -137,3 +137,6 @@
 - A047: pairwise declarations ("courage without temperance is not courage; generosity without justice is not generosity") removed from synthesis and plain words; example reframed as the compendium's hypothetical exercise.
 - A057: opening reframed as compendium application; "developmental stage" gloss removed (kept in the seed's protected reflections block, NOT certified — routed under protocol as inherited seed content); runner example replaced by the advisor's exercise text.
 - Validation pattern: each item repaired under set -euo pipefail with the validator's own exit status (no pipes), one item at a time, validate && done chains.
+
+### Checkpoint 42-46 ACCEPTED (2026-10-20, worker-p1f-b7894e46)
+- A013, A030, A046, A047, A057 accepted for the reviewed passages per advisor recheck. A046's example replaced with the advisor's reflection-exercise text after the recheck round (the retained "trained eye" inference removed). A057's protected-reflection handoff posted on the taskboard (developmental-stage presupposition routed to supervisor/next-owner; block left unchanged pending disposition). Not certified: unopened inherited parallels. w1d audit separately pending.
