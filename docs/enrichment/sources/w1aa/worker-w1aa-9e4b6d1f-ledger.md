@@ -17,3 +17,11 @@
 - Opened source: SEP "Huayan Buddhism" (Van Norden and Jones) — Indra's net sentences (§1.3), the dependence-of-existence-and-identity sentence (§1.3), Fazang 643-712 third patriarch and systematizer (§4), rafter illustration and mirror halls (§1.3, §4), one-is-all doctrines and universal compassion (Introduction). All blockquote and inline fragments verified against the fetched SEP text.
 - Saturation: fast-track skip; three obviously related existing concepts linked with descriptive clauses (Dependent origination, Interbeing, Oneness of things — Interbeing's Thich Nhat Hanh attribution checked against that page's own sourced body). No reciprocal proposed: K018 already links the concept; concept-to-concept targets carry their own Related lists and no obviously missing backlink was found.
 - No advisor QC required (item 2; cadence is first item and every 5th).
+
+## Karma (hub, normal track)
+
+- Degree 43 hub; full §1-§4 effort.
+- Opened sources: Nibbedhika Sutta AN 6.63 (Thanissaro, accesstoinsight) — intention-definition quote and the three-sorts-of-result sentence verified verbatim; Wikipedia "Karma in Buddhism" — etymology (action/doing), cetana framing, rebirth/merit role, psychological-shift sentences.
+- Broken seed repaired: the hub body carried "Mentioned in 5 principles" followed by a dash row with no links (no original wikilinks existed to lose). Cited-in list rebuilt from a full grep of principles whose body text explicitly mentions karma: B005, B088, K051, AT055, P192, BE002 (six; the old "5" count was stale; Y-band and AT023 mentions are karma-YOGA references, not the concept, and are covered by the Karma yoga concept page).
+- Related concepts all exist (Karma yoga, Nishkama karma, Habit, Dependent origination, Right intention, Action over intention); five backlink reciprocals proposed in proposals/w1aa.json (Action over intention already links Karma).
+- No advisor QC required (item 3; cadence is first item and every 5th).

@@ -1,1 +1,40 @@
-{"reciprocal": [{"into": "Qi", "link": "Feng shui (harmonious environment)", "why": "feng shui is the Chinese practice of selecting and orienting buildings and graves according to beliefs about qi", "notes": "w1aa fast-track Feng shui (harmonious environment): obviously missing reciprocal, target page has no backlink (checked 2026-10-20)"}]}
+{
+ "reciprocal": [
+  {
+   "into": "Qi",
+   "link": "Feng shui (harmonious environment)",
+   "why": "feng shui is the Chinese practice of selecting and orienting buildings and graves according to beliefs about qi",
+   "notes": "w1aa fast-track Feng shui (harmonious environment): obviously missing reciprocal, target page has no backlink (checked 2026-10-20)"
+  },
+  {
+   "into": "Karma yoga",
+   "link": "Karma",
+   "why": "the Gita's discipline names action itself, the topic karma covers",
+   "notes": "w1aa Karma hub item: target page has no Karma backlink (checked 2026-10-20)"
+  },
+  {
+   "into": "Nishkama karma",
+   "link": "Karma",
+   "why": "desireless action is the Gita's own refinement of karma",
+   "notes": "w1aa Karma hub item: no backlink"
+  },
+  {
+   "into": "Habit",
+   "link": "Karma",
+   "why": "habit is the psychological form the karma-repetition takes",
+   "notes": "w1aa Karma hub item: no backlink"
+  },
+  {
+   "into": "Dependent origination",
+   "link": "Karma",
+   "why": "karma is the intentional-action strand inside dependent origination",
+   "notes": "w1aa Karma hub item: no backlink"
+  },
+  {
+   "into": "Right intention",
+   "link": "Karma",
+   "why": "the Buddha's definition of karma as intention makes right intention the path's karma-work",
+   "notes": "w1aa Karma hub item: no backlink"
+  }
+ ]
+}
