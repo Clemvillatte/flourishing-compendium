@@ -5,13 +5,16 @@
   "Y027",
   "Y034",
   "Y040",
-  "Y083",
   "SO075",
-  "SP010"
+  "SP010",
+  "SP027"
  ],
- "in_progress": "SP027",
- "flagged": {},
+ "in_progress": "Y083",
+ "flagged": {
+  "Y083": "Reopened for QC: QC correction: advisor scope - remove ungrounded generalisations"
+ },
  "missing_concepts": [],
  "sources_checked": 3,
- "updated": "2026-10-20T07:51:36+00:00"
+ "updated": "2026-10-20T07:54:13+00:00",
+ "band_done": false
 }
