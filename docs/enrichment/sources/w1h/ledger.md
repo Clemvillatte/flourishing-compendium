@@ -157,3 +157,12 @@
 - Envy opening sentence now carries its own citation (2009 abstract). Advisor verdict
   round 6: four pages PASS; Envy QC-pending only until this correction. Correction
   applied, validated, saved and pushed.
+
+## Experiential learning (fast-track)
+- Opened: ERIC EJ1123045 (Baker & Robinson 2016, J. Agricultural Education 57(3)) —
+  Kolb 1984 p. 38 definition quoted verbatim as carried by the article (disclosed
+  provenance); four stages (CE/RO/AC/AE) verbatim from the article.
+- Kolb's 1984 book not directly accessible; no claims beyond the definition, the
+  four stages and their cyclic order. Grasping/transforming dimensions NOT included
+  (seen only in unopened snippets).
+- Klein NDM kept as seed citation line only.
