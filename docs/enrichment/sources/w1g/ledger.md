@@ -690,3 +690,18 @@
   2007" kept and the opened James source added above it.
 - Validation: --fast-track ok (concept <15 connections; prose minimum waived; all other
   checks pass). Build ok (5718 entries, fcAuthored 976).
+
+## Band bookkeeping (2026-10-20)
+
+- Manifest punctuation mismatch RESOLVED: the w1g manifest lists "Yoga: union of
+  body, breath, and mind", "The whole tradition's turn: re-examine everything",
+  and "Autistic cognition: detail-focused processing" (colons), but the actual
+  concept files use em dashes ("Yoga — union of body, breath, and mind.md" etc.,
+  verified by ls). These are NOT missing concepts; any state operations on them
+  must use the em-dash titles (the file names). Recorded here for the supervisor
+  and future workers; earlier "degree -1 / files not found" notes trace to this
+  mismatch.
+- "The rehearsal of virtue" flagged, NOT enriched: owner-flagged hallucination
+  (audit Category C — not a defined Stoic concept; page is a seed with no citable
+  source; the real concept to receive its links is Premeditatio malorum, which
+  exists). Recorded via enrich_state.py flag.
