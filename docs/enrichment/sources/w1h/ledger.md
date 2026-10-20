@@ -243,3 +243,11 @@
   gradual-boundary questions from the abstract; results agreement. Scope:
   abstract-level support; no claims about the experiments' details beyond
   what the abstract states.
+
+## Functional analysis (fast-track)
+- Opened: PubMed 12858983 (Hanley, Iwata & McCord 2003, JABA 36, 147-185) —
+  focus sentence quoted verbatim; inclusion criteria paraphrased closely.
+- Baer 1968 (PMC1310980): citation verified via search + PMC page (pages 91-97);
+  full text not extractable via fetch — listed as citation only, no content claims.
+- Hayes et al. 2020, Persons 2008, Flanagan kept as seed citation lines only.
+- ABC framing comes from the preserved seed line; no added mechanism claims.
