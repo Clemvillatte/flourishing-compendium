@@ -88,6 +88,23 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption. All inherited links retained, no reciprocal.
 - QC: compare definition with opened abstract; validator before done.
 
+## Sense of community
+
+- Track: fast-track, current degree 8 (all principles).
+- Opened 2026-10-20: author-hosted article text at
+  https://www.drdavidmcmillan.com/sense-of-community/article-1 and publisher
+  abstract at
+  https://onlinelibrary.wiley.com/doi/10.1002/1520-6629(198601)14:1%3C6::AID-JCOP2290140103%3E3.0.CO;2-I?msockid=343365e0e25a6cba18197217e3486d3c .
+  Search: McMillan Chavis 1986 sense community definition theory; PDF and
+  author-hosted follow-up searches located the primary text.
+- Locators: A Definition and Theory of Sense of Community; Dynamics Among the
+  Elements. Quoted whole definition, including its original McMillan 1976 credit.
+- Scope: definition/theory, not an intervention efficacy claim or moral
+  endorsement of cohesion. Text examples include gangs; no claim that every
+  cohesive group contributes to flourishing.
+- Saturation: fast-track exemption. All links preserved; no reciprocal.
+- QC: source comparison and validator before done.
+
 ## Non-dual awareness
 
 - Track: fast-track, current degree 7 (all principles).
