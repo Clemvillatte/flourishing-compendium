@@ -354,3 +354,19 @@
   list kept as the seed's own sourced summary line, explicitly attributed to
   the seed's Wikipedia source, and flagged as not in the SEP passage.
 - Seed's trailing summary lines preserved verbatim.
+
+## Mastery learning theory (fast-track)
+- Opened: Guskey, "Mastery Learning", Int. Encyclopedia of the Social & Behavioral
+  Sciences 2nd ed. (2015), pp. 752-759 (author's copy PDF at tguskey.com) — the
+  feedback-corrective definition sentence quoted verbatim (p. 753); Carroll 1963
+  aptitude-as-learning-rate premise paraphrased (pp. 752-753); Anania/Burke
+  three-condition comparison and 1-sigma/2-sigma results with 84%/98% percentiles
+  from the chapter's verbatim reproduction of Bloom 1984, p. 4 (p. 758); "too
+  costly for most societies to bear on a large scale" fragment verbatim from the
+  same reproduction (Bloom 1984, pp. 4-5). Bloom 1984 primary text NOT opened
+  (MIT PDF is the JSTOR cover only); all Bloom-1984 wording is carried by the
+  opened chapter with disclosed provenance.
+- MIT bloom-two-sigma.pdf opened: citation cover page only, no body text; cited
+  as the article record, not as evidence.
+- In-the-compendium clauses derived from principle titles; no principle bodies
+  opened for this item.
