@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 426** — Practise authenticity (Eigentlichkeit)
 
-Choose to be authentic — to own your existence, to take responsibility for your choices, to live in accordance with your own possibilities rather than those dictated by the "they." Authenticity is not a state achieved once but an ongoing practice of owning your existence.
+Heidegger's authenticity (Eigentlichkeit) is not a special exalted state detached from everyday life ([Being and Time, §27, Macquarrie and Robinson translation; opened full text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)):
 
-(Heidegger, 1927/2008, Being and Time, §§41-44, 53-60; Sartre, 1943/2003, Being and Nothingness, Part IV.)
+> Authentic Being-one's-Self does not rest upon an exceptional condition of the subject, a condition that has been detached from the "they"; it is rather an existentiell modification of the "they"—of the "they" as an essential existentiale.
 
-**Plain words** Authenticity (Eigentlichkeit): owning your existence — taking responsibility for your choices, living your own possibilities rather than the "they's." Not a state achieved once; an ongoing practice of owning. Expect to re-own it after every drift.
+(Heidegger, Being and Time, trans. Macquarrie and Robinson, 1962, §27; [opened full text, Internet Archive](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt).)
 
-*For example:* Someone notices their entire five-year plan is a committee decision — parents, peers, the algorithm — and spends the painful season asking which parts are actually theirs. The plan that survives the audit is the authentic one; there's usually less of it, and it's all load-bearing.
+Everyday Dasein is lived mostly as the "they" (das Man): the Self of everyday Dasein is the they-self, and the authentic Self is the one "taken hold of in its own way" ([same opened text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)). What makes the taking-hold possible is anxiety, which individualizes Dasein and brings it face to face with its freedom for its own possibilities ([same opened text](https://archive.org/download/being-and-time-martin-heidegger-1962/Being%20and%20Time%20-Martin%20Heidegger-1962_djvu.txt)). The practice is re-owning after every drift, not arriving once.
+
+### Plain words
+
+Most of what you do is what one does. Authenticity is not escaping that; it is sometimes gripping the wheel yourself: choosing what you do because you have looked at the options, not because one does this. Expect to drift back and to re-own.
+
+### For example
+
+Someone notices their five-year plan is a committee decision: parents, peers, the algorithm. The audit asks which parts are actually theirs. What survives is usually smaller and carries more weight.
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity]]** (Kernis and Goldman, 2006; Wood et al., 2008)
