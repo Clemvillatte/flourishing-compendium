@@ -24,7 +24,7 @@ And he names the motive honestly:
 
 > "So, too, the Sceptics were in hopes of gaining quietude by means of a decision regarding the disparity of the objects of sense and of thought, and being unable to effect this they suspended judgment; and they found that quietude, as if by chance, followed upon their suspense, even as a shadow follows its substance." (Book I, ch. 12)
 
-Peirce gives the other side of the same practice, the struggle that ends dogma:
+Peirce describes the struggle that doubt prompts:
 
 > "The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle inquiry, though it must be admitted that this is sometimes not a very apt designation." (Peirce, "The Fixation of Belief," 1877, in The Essential Peirce vol. 1, [owner's library PDF](https://drive.google.com/file/d/1L3jvBMstbqfeNxOVCmm-z1ZRB56qw7ko/view))
 
