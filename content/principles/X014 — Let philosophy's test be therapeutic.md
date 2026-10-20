@@ -12,18 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 14** — Let philosophy's test be therapeutic
 
-The tradition's own quality control, stated as its most quoted line: the philosopher's words are empty if they do not relieve human suffering, as medicine is useless if it does not expel the body's diseases. The test is applied to this epilogue as much as to any doctrine: if a teaching does not heal, it is not being taught rightly. Practically, audit each practice you adopt by its effect within a month, and discard without guilt what does not heal.
+The fragment catalogued as Usener 221 compares philosophical argument with medicine:
 
-(Usener's collection, fragment 221; the therapeutic test tradition.)
+> "Vain is the word of a philosopher which does not heal any suffering of man. For just as there is no profit in medicine if it does not expel the diseases of the body, so there is no profit in philosophy either, if it does not expel the suffering of the mind." ([Porphyry, Letter to Marcella 31, Usener 221, translation at attalus.org](https://www.attalus.org/translate/epicurus2.html))
 
-**Plain words** Words that don't relieve suffering are empty — the philosopher's version of medicine that doesn't expel disease. Run the test on yourself: a month in, is this teaching healing anything? If not, drop it without guilt. The test applies to this line too.
+The comparison makes relief of suffering a criterion of philosophy's usefulness. The compendium's application: ask what difficulty a philosophical teaching addresses, then record what, if anything, using it has changed.
 
-*For example:* Someone who tries a much-hyped practice for a month, feels nothing move, and quietly shelves it — while keeping the two practices that visibly took the edge off their week.
+**Plain words** Choose a recurring worry and write down what the teaching says about it. Does that help you examine the worry? Note what remains unresolved, too.
+
+*For example (imagined):* After reading an argument about fear of failure, you reconsider whether one rejected application would make your whole life a failure. Record whether you find the argument convincing and whether your fear changes.
 ## Psychology parallels
 
-- **[[Outcome monitoring in psychological treatment|Outcome monitoring in psychological treatment]]**, the evidence that routine outcome measurement improves care (Lambert's feedback-informed treatment research, as the modern cousin)
+- **[[Outcome monitoring in psychological treatment|Outcome monitoring in psychological treatment]]** (Lambert's feedback-informed treatment research)
 
 ## Philosophy parallels
 
-- **Philosophy as the physician of the soul** (the Hellenistic schools' shared self-understanding)
-- **[[By their fruits|By their fruits]]** (Gospel of Matthew 7.16, as cultural parallel)- **[[Therapeutic philosophy|Therapeutic philosophy]]** (Skeptic & Mesoamerican)
+- **Philosophy as the physician of the soul**
+- **[[By their fruits|By their fruits]]** (Gospel of Matthew 7.16, as cultural parallel)
+- **[[Therapeutic philosophy|Therapeutic philosophy]]** (Skeptic & Mesoamerican)
