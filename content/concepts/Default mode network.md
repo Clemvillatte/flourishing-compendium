@@ -8,19 +8,19 @@ tags: ["psych/biophys", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The default mode network is a set of brain regions, with the medial prefrontal and posterior cingulate cortices among its main nodes, that is most active when a person is at rest rather than focused on a task. Its activity accompanies mind-wandering and self-referential thought. Brewer and colleagues' PNAS study sets up the meditation contrast:
+The default mode network includes the medial prefrontal and posterior cingulate cortices among its main nodes. Raichle and colleagues identify "an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors" (Raichle et al. 2001). Brewer and colleagues' PNAS study sets up the meditation contrast:
 
 > the default mode of humans appears to be that of mind-wandering, which correlates with unhappiness, and with activation in a network of brain areas associated with self-referential processing.
 >
 > (Brewer, Worhunsky, Gray, Tang, Weber and Kober, "Meditation experience is associated with differences in default mode network activity and connectivity", PNAS 108(50), 2011, [pnas.org](https://www.pnas.org/doi/abs/10.1073/pnas.1112029108))
 
-The study scanned experienced meditators and matched meditation-naive controls during several meditations (Concentration, Loving-Kindness, Choiceless Awareness). The abstract reports that "the main nodes of the default-mode network (medial prefrontal and posterior cingulate cortices) were relatively deactivated in experienced meditators across all meditation types," with stronger coupling between the posterior cingulate and regions previously implicated in self-monitoring and cognitive control. The authors read these differences as "consistent with decreased mind-wandering" (Brewer et al. 2011). The rumination question sits here too: a network tuned to self-referential processing can feed repetitive self-focus as easily as constructive reflection.
+The study scanned experienced meditators and matched meditation-naive controls during several meditations (Concentration, Loving-Kindness, Choiceless Awareness). The abstract reports that the main nodes of the default-mode network (medial prefrontal and posterior cingulate cortices) "were relatively deactivated in experienced meditators across all meditation types." The abstract also reports that experienced meditators demonstrated "stronger coupling between the posterior cingulate, dorsal anterior cingulate, and dorsolateral prefrontal cortices, both at baseline and during meditation." The authors read these differences as "consistent with decreased mind-wandering" (Brewer et al. 2011).
 
 ## Related concepts
 
-- [[Rumination]] — the repetitive self-focus this network's activity can feed
-- [[Mindfulness]] — the practice the study scanned
-- [[Meditation neurobiology theory Lazar]] — the other main neurobiology account in this library
+- [[Rumination]]
+- [[Mindfulness]]
+- [[Meditation neurobiology theory Lazar]]
 
 ## Cited in psychology parallels
 
@@ -28,15 +28,16 @@ The study scanned experienced meditators and matched meditation-naive controls d
 [[D009 — Trust emptiness — space is what works]]
 ## Cited in philosophy parallels
 
-shifts with practice (Brewer et al., 2011).
+differences between experienced meditators and meditation-naive controls (Brewer et al., 2011); the study notes these group differences do not by themselves establish that meditation practice caused them.
 ## Sources
 - Brewer et al., 2011
-- [Brewer et al., "Meditation experience is associated with differences in default mode network activity and connectivity", PNAS 108(50), 2011 (pnas.org abstract)](https://www.pnas.org/doi/abs/10.1073/pnas.1112029108) — the mind-wandering/default-mode framing, the deactivation finding and the decreased-mind-wandering reading
+- [Brewer et al., "Meditation experience is associated with differences in default mode network activity and connectivity", PNAS 108(50), 2011 (pnas.org abstract)](https://www.pnas.org/doi/abs/10.1073/pnas.1112029108) — the mind-wandering/default-mode framing, the deactivation and coupling findings and the decreased-mind-wandering reading
+- [Raichle et al., "A default mode of brain function", PNAS 98(2), 2001 (pnas.org abstract)](https://www.pnas.org/doi/abs/10.1073/pnas.98.2.676) — the organized baseline default mode suspended during goal-directed behaviors
 - [[B044 — Just sit (zazen, shikantaza)]]
 [[D148 — Let stillness heal]]
 [[D047 — Practice sitting and forgetting (zuowang)]]
 
-**Default mode network account** — Raichle — a midline network is most active at rest, supporting self-referential thought, memory and mind-wandering.
+**Default mode network account** — Raichle — an organized, baseline default mode of brain function, suspended during specific goal-directed behaviors.
 ## Field
 Biophysiological · Psychological science
 ## Cited in parallels
