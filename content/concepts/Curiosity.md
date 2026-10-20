@@ -29,7 +29,7 @@ Golman and Loewenstein describe the information-gap account: "In a review of the
 ## Sources
 
 - Wikipedia Curiosity: https://en.wikipedia.org/wiki/Curiosity (inherited seed citation, not opened)
-- [Aristotle, Metaphysics, W. D. Ross translation, ELLOPOS full text, page 5](https://www.ellopos.net/elpenor/greek-texts/ancient-greece/aristotle/metaphysics.asp?pg=5) — the wonder passage quoted above, located by the page and its opening words (the ELLOPOS edition does not print Bekker references)
+- [Aristotle, Metaphysics, W. D. Ross translation, ELLOPOS full text, page 5](https://www.ellopos.net/elpenor/greek-texts/ancient-greece/aristotle/metaphysics.asp?pg=5) — the wonder passage quoted above, located by the page and its opening words
 - [Russell Golman and George Loewenstein, Curiosity, Information Gaps, and the Utility of Knowledge (author-hosted paper, Carnegie Mellon University, dated August 4, 2014)](https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf) — the information-gap statement quoted above, section 4.2 "Curiosity"
 
 ## Cited in philosophy parallels

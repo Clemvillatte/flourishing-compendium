@@ -51,12 +51,12 @@
   "Contingencies of self-worth (Crocker)": "fast-track; evidence: Crocker & Wolfe 2001 author-hosted PDF; closure edits applied: opening citation p. 594, Other-formulations line replaced with the paper's qualified wording linked to p. 611",
   "Coping flexibility": "fast-track; QC repair round 2 (advisor, items 21-25 milestone): opening replaced with abstract-supported conceptualization list (contrastive and predicts-adjustment wording removed), Regulatory flexibility theory gloss removed (bare link); Cheng quotes re-verified against saved fetch output; validation ok vs baseline c2a3ee47",
   "Critique of the unencumbered self": "fast-track; QC repair round 2 (advisor): opening replaced with cited bounded version, Sandel quote locator added (reply to question on theme running through his work); quotes re-verified against fresh fetch of the interview; validation ok vs baseline",
-  "Cross-cultural variations in conceptions of happiness": "fast-track; QC repair round 2 (advisor): opening citation consolidated at paragraph end, SO044 gloss removed (bare link); abstract re-verified verbatim against fresh fetch; validation ok vs baseline",
-  "Curiosity": "fast-track; QC repair round 2 (advisor): opening replaced with bounded two-sentence version, 982b dropped (ELLOPOS does not print Bekker refs; located by page 5 and opening words), Golman-Loewenstein date verified (August 4, 2014 on PDF first page) and section 4.2 Curiosity locator added; quotes re-verified against fresh fetches; validation ok vs baseline",
-  "Drive-reduction theory": "fast-track; QC repair round 2 (advisor): opening scoped to Hull's account with citation, EBSCO section locator added (Hull's drive, reinforcement, and learning), Freud sentence reintroduced as EBSCO page description with section Freud's Id noted, older-psychodynamic-relative wording removed; page re-fetched without prompt to recover headings; validation ok vs baseline"
+  "Cross-cultural variations in conceptions of happiness": "fast-track; QC repair round 3 (advisor): opening consolidated to single cited sentence per advisor wording; validation ok vs baseline",
+  "Curiosity": "fast-track; QC repair round 3 (advisor): Bekker edition-note removed from Sources (page-and-opening-words locator kept); full Golman passage re-verified verbatim (both sentences); validation ok vs baseline",
+  "Drive-reduction theory": "fast-track; QC repair round 3 (advisor): 'Drives push, habits guide' gloss deleted; EBSCO re-fetched with no prompt — the two renders disagree on the Hull section heading, so per advisor rule all EBSCO locators switched to passage-opening words (Freud sentence kept as page description only, section claim removed); SEP section 2 quote re-verified verbatim; validation ok vs baseline"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:21:30+00:00",
+ "updated": "2026-10-20T07:23:51+00:00",
  "band_done": false
 }
