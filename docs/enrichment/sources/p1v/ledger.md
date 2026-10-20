@@ -183,3 +183,17 @@ opened text at the recorded URL.
   carries the same passage. Inherited psychology parallel (Kuyken et al. 2015)
   and philosophy parallels (Cavell; Zhaozhou link) preserved untouched and NOT
   verified this session.
+
+## P185 — The sovereign cure for worry is a hold on larger realities (2026-10-20)
+
+- OPENED: William James, Talks to Teachers on Psychology (1899), Project
+  Gutenberg, https://www.gutenberg.org/files/16287/16287-h/16287-h.htm —
+  "The Gospel of Relaxation".
+- Verified verbatim: both blockquotes ("Worry means always and invariably
+  inhibition of associations and loss of effective power." and the turbulent
+  billows passage, exact to the printed text including "things." at the end).
+- LIMITS: James's own stated cure is religious faith; the broader list
+  (nature, art, service, philosophy, silence) is the compendium's reading,
+  labelled as such in the body. Inherited psychology parallels (Piff et al.
+  2015; Stellar et al. 2018; Kross and Ayduk 2011) and the Practice section
+  preserved untouched and NOT verified this session.

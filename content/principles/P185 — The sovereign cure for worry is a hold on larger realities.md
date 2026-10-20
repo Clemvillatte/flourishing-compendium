@@ -12,13 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 185** — The sovereign cure for worry is a hold on larger realities
 
-Worry means always and invariably inhibition of associations and loss of effective power. The turbulent billows of the fretful surface leave the deep parts of the ocean undisturbed; to him who has a hold on vaster and more permanent realities, the hourly vicissitudes of personal destiny seem relatively insignificant. Cultivate that hold — through nature, art, service, philosophy, or silence.
+In "The Gospel of Relaxation" (1899), William James gives worry a working definition: it inhibits association and drains effective power. His cure is religious faith, and his image for it is oceanic: the surface frets, the deep parts stay still. The compendium reads the cure more broadly, as a hold on larger realities through nature, art, service, philosophy or silence. (James, Talks to Teachers, "The Gospel of Relaxation".)
 
-(James, "The Gospel of Relaxation," 1899.)
+> "Worry means always and invariably inhibition of associations and loss of effective power." (James, [Talks to Teachers](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm))
 
-**Plain words** The fretful surface doesn't reach the deep parts. Hold on to vaster and more permanent realities, and the hourly vicissitudes of your personal destiny shrink to their actual size — worry jams the machinery: it inhibits association and drains effective power. The cure isn't thinking harder; it's thinking larger.
+> "The turbulent billows of the fretful surface leave the deep parts of the ocean undisturbed, and to him who has a hold on vaster and more permanent realities the hourly vicissitudes of his personal destiny seem relatively insignificant things." (James, [Talks to Teachers](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm))
 
-*For example:* The bad news that shrinks in scale after a walk on the coast — the ocean did the perspective work that the affirmation app couldn't. Deep water doesn't care about your email. Borrow its indifference; it's medicinal.
+**Plain words**
+James describes worry as a mind stuck in a narrow loop, reiterating one item and losing its working power. The compendium's exercise: when the loop starts, deliberately place something large beside it. Take the coast walk, play the music, do the service, sit the silence. The problem keeps its size; your sense of what matters gets a bigger surface to work on.
+
+*For example:* Imagine bad news arriving on a day you already planned to walk the coast path. You keep the walk instead of cancelling it to rehearse the news.
+
+## Sources
+
+- [Talks to Teachers on Psychology, William James, Project Gutenberg](https://www.gutenberg.org/files/16287/16287-h/16287-h.htm) — "The Gospel of Relaxation"
 
 ## Psychology parallels
 
