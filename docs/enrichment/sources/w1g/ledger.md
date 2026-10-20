@@ -1270,3 +1270,34 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   or comparison. No namespace-audit entry.
 - Saturation: skipped per fast-track §1a (degree 9 < 15); no cross-link proposals
   filed. Advisor QC: not due (item 3; next at item 5).
+
+## Acquired Needs Theory (McClelland) (2026-10-20, worker-p1zs-7a4e2c91, fast-track; degree 9 — eligible)
+
+- OPENED: McClelland 1965 "Toward a theory of motive acquisition" record at
+  Semantic Scholar (https://www.semanticscholar.org/paper/TOWARD-A-THEORY-OF-MOTIVE-ACQUISITION.-Mcclelland/5c0b6494564e4487eef171c4b8282fc91fffdeec)
+  — blockquote is the paper's opening text, verified verbatim on the opened
+  record; the childhood-fixation framing (behaviour theory and psychoanalysis
+  both holding motives are laid down in childhood) grounded in the same
+  record's displayed text. OPENED: Wikipedia Need theory
+  (https://en.wikipedia.org/wiki/Need_theory) — the three-needs sentences
+  ("every person has these three types of motivation regardless of age, sex,
+  race, or culture"; "derives from their life experiences and the opinions of
+  their culture"), the nAch moderate-difficulty/own-efforts/feedback
+  preferences, the nAff rejection-sensitivity, the nPow discipline/status
+  sentences, and the McClelland-Burnham 1975 HBR top-management finding all
+  verified verbatim on the opened page (body paraphrases them without
+  quotation marks; the 1975 finding is attributed as "as the opened summary
+  has it" to keep the secondary-carrier provenance explicit).
+- Seed structure note: the file was a merged double seed (Acquired Needs Theory
+  block + "Learned Needs Theory" block with its own links); both link sets
+  preserved (validator: 0 lost links); the duplicate seed sentence integrated
+  into the opening with the alternative name noted.
+- In-the-compendium clauses grounded in the principle pages' own quoted
+  material (MO002 Ryan-Deci, D115 Daodejing 17, E504 Nietzsche GS 273-274,
+  AF047 LeDoux, PP071, MO022 Kang, B158 Dhammapada, K013 Mumonkan via
+  enrich_find context).
+- IS-IT-A-CONCEPT check: named theory with primary literature; the merged
+  double seed is a content-structure quirk, not a namespace question. No
+  namespace-audit entry.
+- Saturation: skipped per fast-track §1a (degree 9 < 15); no cross-link
+  proposals filed. Advisor QC: not due (item 4; next at item 5).
