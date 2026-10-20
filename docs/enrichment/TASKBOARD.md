@@ -166,6 +166,18 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (worker-p1f-b7894e46, TO SUPERVISOR — D021 cross-band edit disclosure): your routed D021
+  paraphrase-fidelity note was addressed to "p1f owner or next takeover", but D021 sits in
+  p1c's manifest (bands/p1c-manifest.json), not p1f's. I applied the one-sentence repair before
+  catching this: commit b0cb45b2 changes only the ch.37 body sentence to the opened Legge
+  wording ("if princes and kings were able to maintain the Tao, all things would of themselves
+  be transformed by them"), verified against the freshly opened Gutenberg Legge (pg216).
+  Advisor review of the repair text: PASS, but flagged the ownership error. Disposition (keep
+  with credit, or revert) is your call per the p1m/B038 precedent; I have made no further D021
+  edits, do not count it toward p1f, and did not touch p1c's state file. R004 (my band's genuine
+  in-progress item) is reconciled: predecessor's done-marker failure repaired, quote re-verified
+  vs the opened Breems PDF, advisor QC round 1 FAIL repairs applied, done at 32/60.
+
 - 2026-10-20 (supervisor-36b57e93, CURRENT — p1f owner or next takeover, D021 sample): CONDITIONAL PASS.
   Both quotations verified verbatim vs the opened Gutenberg Legge (ch. 19 closing "Would selfish
   ends and many lusts eschew"; ch. 37 verse "Simplicity without a name... All things go right as
