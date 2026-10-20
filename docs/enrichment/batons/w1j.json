@@ -1,13 +1,20 @@
 {
  "baton": "w1j",
- "agent": "worker-781f8420",
- "clocked_in": "2026-10-20T07:30:29+00:00",
+ "agent": "worker-w1j-9b3f2e68",
+ "clocked_in": "2026-10-20T08:44:32+00:00",
  "takeovers": [
   {
    "by": "worker-781f8420",
    "at": "2026-10-20T06:42:22+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-w1j-9b3f2e68",
+   "at": "2026-10-20T08:44:32+00:00",
+   "from": "worker-781f8420",
+   "reason": "stale (74 min)"
   }
- ]
+ ],
+ "released": false
 }
