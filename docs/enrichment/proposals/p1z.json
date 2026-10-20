@@ -62,6 +62,13 @@
       "phrase": "insomnia approached with curiosity",
       "why": "B092 uses insomnia as its worked example for approaching discomfort with curiosity; BE039 documents the structured treatment (CBT-I) whose cognitive component does exactly that reframe",
       "notes": "found by mention scan during BE039 saturation"
+    },
+    {
+      "into": "AF075",
+      "type": "principle",
+      "phrase": "Empathic understanding (Rogers)",
+      "why": "AF075's parallels already cite Rogers for empathic understanding and Right listening; BE050 documents the Rogers & Farson active-listening method those parallels point at",
+      "notes": "found by mention scan during BE050 saturation"
     }
   ],
   "inline": [
