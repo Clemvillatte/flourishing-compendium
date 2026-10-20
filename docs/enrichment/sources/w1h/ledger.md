@@ -228,3 +228,11 @@
   "pseudonym's cure" interpretation deleted; FAB four-studies sentence merged
   into the cited findings sentence. Advisor: flexibility page passes; validation
   gate now enforced before done-marking (not before crash-protection saves).
+
+## QC acceptance (advisor PASS)
+- Items 1-5: PASS after 6 rounds (round 6 final correction verified on origin).
+- Items 6-10: PASS after 3 rounds (0f99af9e verified on origin).
+- Genuine scope limitations preserved in the flags: quotes carried by opened
+  secondary carriers (Kolb p.38 via EJ1123045; Kierkegaard via SEP; Leopold via
+  SEP), PMID 24091020 abstract-level support, abstract-only scope for several
+  PubMed quotes.
