@@ -18,7 +18,7 @@ In "On a Certain Blindness in Human Beings," James is concerned with our judgmen
 
 The essay's example is a mountain clearing. James saw an ugly landscape; the settler family saw the warrant of safety and the reward of toil:
 
-> "the clearing, which to me was a mere ugly picture on the retina, was to them a symbol redolent with moral memories and sang a very paean of duty, struggle, and success." (James, "On a Certain Blindness in Human Beings," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
+> "the clearing, which to me was a mere ugly picture on the retina, was to them a symbol redolent with moral memories and sang a very pæan of duty, struggle, and success." (James, "On a Certain Blindness in Human Beings," Talks to Teachers, [Gutenberg](https://www.gutenberg.org/ebooks/16287))
 
 He adds that he had been "as blind to the peculiar ideality of their conditions as they certainly would also have been to the ideality of mine," had they seen his indoor academic life in Cambridge.
 
