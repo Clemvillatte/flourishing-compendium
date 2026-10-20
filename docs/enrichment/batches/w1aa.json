@@ -29,7 +29,8 @@
   "Groupthink theory",
   "HEXACO model of personality structure",
   "HRV coherence research",
-  "Halo effect"
+  "Halo effect",
+  "Hermeneutic circle"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,6 +44,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T17:01:20+00:00",
+ "updated": "2026-10-20T17:02:00+00:00",
  "band_done": false
 }
