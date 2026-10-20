@@ -12,10 +12,10 @@
   "The water of life",
   "Sufficiency",
   "The rhythm of rest",
-  "The criterion of experience",
   "The community of inquiry",
   "Art as experience",
-  "The rhythm of life"
+  "The rhythm of life",
+  "The criterion of experience"
  ],
  "in_progress": null,
  "flagged": {
@@ -26,12 +26,12 @@
   "Sufficiency": "title pending supervisor disposition: generic English heading; queue lists Zhi zu (knowing sufficiency) as the tradition's term; flagged in audit worker-flags section",
   "The rhythm of life": "Reopened for QC: QC round 3 follow-up: closing still near-verbatim; rewrite as genuine paraphrase (advisor)",
   "The rhythm of rest": "Reopened for QC: QC round 3: fix toil-in-youth misread, fix Zi-lai/Zi-yu speaker attribution, fix sleep/waking framing, restore Daoism placeholder line",
-  "The criterion of experience": "Reopened for QC: QC round 3: replace survey-quote synthesis overreach; use James's positive account (outcome/upshot passage, section VI); fix section number",
+  "The criterion of experience": "Reopened for QC: QC round 3 follow-up: introduce the quote's 'his system' (the scholastic) so the contrast is not dangling",
   "The community of inquiry": "Reopened for QC: QC round 3: rewrite closing in own words (was near-verbatim), narrow opening claim, remove unverified CP citation, restore placeholder line",
   "Art as experience": "Reopened for QC: QC round 3: restore deleted ## Facets section; remove inflated 'governs everything' claim and not-X-but-Y closer"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:20:07+00:00",
+ "updated": "2026-10-20T05:20:40+00:00",
  "band_done": false
 }

@@ -633,3 +633,30 @@
   same link a teaching: chapter XXI of the Neiye connects a balanced, aligned
   breath swirling and blending in the mind with longevity." Reopened and re-done;
   --fast-track ok; build ok.
+
+### QC follow-up, The criterion of experience (2026-10-20, advisor QC round 3b)
+
+- A context sentence added before the blockquote so its "his system" is not
+  dangling: "The quotation's 'his system' is the scholastic's: James is
+  contrasting a way of thinking that rests on its starting principles with one
+  that looks to what experience confirms in the end." (Context verified in the
+  raw text: the passage contrasts "the scholastic" with the empiricist's
+  outcome/upshot.) Reopened and re-done; --fast-track ok; build ok.
+
+### QC follow-up, Art as experience (2026-10-20, advisor QC round 3b)
+
+- Scan verification completed: the relevant PDF pages (Perigee edition, book
+  pages 3-4) were rendered and inspected. The printed text splits "con-/tinuity"
+  and "suffer-/ings" across line breaks, so the printed words are "continuity"
+  and "sufferings" — the page's de-hyphenation is a printed line-break
+  normalization, not an OCR-spacing guess. The following sentence ("Mountain
+  peaks do not float unsupported; they do not even just rest upon the earth...")
+  verified as printed on the same scan. No change to the page; recorded here per
+  advisor request.
+
+### Preservation check (2026-10-20, advisor QC round 3b)
+
+- Full diffs vs the pre-enrichment baseline (f5691d1c^) inspected for ALL five
+  items (11-15): front-matter, inherited sections (Facets, Sources placeholders,
+  wikilinks, cited-in lists) all preserved; changes are confined to body prose,
+  blockquote, and added Sources lines.
