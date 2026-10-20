@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 148** — Expect order to arise through flux
 
-Whirlpools, candles, and lives are dissipative structures: patterns maintained by flow, not despite it. Your stability is dynamic: keep the flow of energy, matter, and meaning moving through your life.
+The chemist Ilya Prigogine studied systems driven far from equilibrium. His finding was that pushing a system far enough away from balance can make it settle into ordered patterns that exist only while the flow continues: rotating convection cells, oscillating chemical reactions. He called these dissipative structures.
 
-(Prigogine and Stengers, Order Out of Chaos, 1984.)
+> "It is shown that non-equilibrium may become a source of order and that irreversible processes may lead to a new type of dynamic states of matter called 'dissipative structures'." (Prigogine, Nobel Lecture, "Time, Structure and Fluctuations", 1977)
 
-**Plain words** Whirlpools, candles, and lives are dissipative structures — patterns maintained by flow, not despite it. Your stability is dynamic: keep the flow of energy, matter, and meaning moving through your life. You are not a rock; you are a whirlpool — stable only while the river keeps coming.
+The order is inseparable from the flow. Prigogine lists three linked aspects of such structures: "the function as expressed by the chemical equations, the space-time structure, which results from the instabilities, and the fluctuations, which trigger the instabilities". Take away the driving flow and the pattern goes with it.
 
-*For example:* The retiree who decays without the structure of work — the pattern needed the flow. New flow (volunteering, grandkids, the garden) and the whirlpool re-forms. Same person, running again.
+The compendium's application extends the picture from chemistry to a life: routines, relationships and roles may work like flow-maintained patterns, holding their shape because activity keeps passing through them. If such a pattern weakens, the question to ask is what flow it depended on and what could replace it.
+
+### Plain words
+
+A rock keeps its shape by sitting still. A whirlpool keeps its shape only while water keeps arriving, and a candle flame only while fuel does. Some patterns in a life resemble the whirlpool more than the rock: a morning routine holds together because you keep moving through it, and it dissolves if the movement stops. When something you rely on falls apart, check whether the flow behind it stopped before concluding the thing itself was broken.
+
+### For example
+
+Imagine a person whose weekly football game carries their fitness, three friendships and a Saturday shape. An injury cancels the games for a month, and the pattern thins out: less exercise, fewer calls, empty Saturdays. The compendium's exercise: list the flows one of your routines depends on, and pick one that could be rerouted if the routine stops.
+
+## Sources
+
+- [Ilya Prigogine, Nobel Lecture, "Time, Structure and Fluctuations" (8 December 1977) (PDF)](https://www.nobelprize.org/uploads/2018/06/prigogine-lecture.pdf)
 
 ## Psychology parallels
 
