@@ -7,13 +7,13 @@ file: "Action before feeling"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Acting before feeling is Aristotle's point about how virtue of character forms: people become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts. The doing comes first; the settled disposition grows out of it. The idea runs through Nicomachean Ethics II, where character states are said to arise out of like activities, so the activities must be of a certain kind.
+Aristotle's account of habituation explains how repeated activities form character. Nicomachean Ethics II.1 describes acquiring the virtues through corresponding actions, and II.4 distinguishes performing a just action from acting with the knowledge, choice and stable disposition characteristic of a just person. The page title names the compendium's application of that ordering; the Ethics itself teaches habituation, not a general action-before-emotion sequence.
 
-> "So too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." (Aristotle, Nicomachean Ethics II.1, 1103b, Ross translation, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+> "So too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." (Aristotle, Nicomachean Ethics II.1, [Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
 ### What the doing requires
 
-Aristotle adds a guard: doing just acts is not yet being just. The agent must know what he is doing, choose the acts for their own sakes, and act from a firm and unchangeable character. Actions are called just when they are such as the just man would do; the just man is the one who also does them as just men do them. The repetition builds the condition; the condition does not wait for the feeling to arrive first.
+In II.4 Aristotle adds a guard: merely doing just acts is not yet being just. He requires that the agent know what he is doing, choose the act for its own sake, and act from a settled condition of character. He calls an action just when it is the sort a just person would do; the just person is the one who also does it in the way just people do. Repetition is what builds the settled condition.
 
 ### In the compendium
 
@@ -26,7 +26,7 @@ Aristotle adds a guard: doing just acts is not yet being just. The agent must kn
 ## Sources
 
 - Aristotle, Nicomachean Ethics II
-- [Aristotle, Nicomachean Ethics II (Ross translation), Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — opened source for both blockquoted passages and the knowledge-and-choice conditions
+- [Aristotle, Nicomachean Ethics II (Ross translation), Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — opened source for the blockquoted passage and the habituation account of II.1 and II.4
 
 [[D069 — Don't meet force with force]]
 [[A108 — Practise habituation through repeated action]]

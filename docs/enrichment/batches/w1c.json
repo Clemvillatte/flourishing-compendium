@@ -53,8 +53,8 @@
   "The having mode",
   "The three kinds of knowledge",
   "ADHD: interest-based attention",
-  "Anapanasati (mindfulness of breathing)",
   "Action before feeling",
+  "Anapanasati (mindfulness of breathing)",
   "Affect as information",
   "Atman"
  ],
@@ -78,11 +78,14 @@
   "Resilience": "Reopened for QC: QC: suggests, at-risk scope, remove unsupported glosses",
   "Spotlight effect (Gilovich)": "Reopened for QC: QC: excerpt punctuation, unverified attributed line removed, anchoring gloss",
   "The having mode": "Reopened for QC: QC2: preserve the tend-to-demonstrate hedge on the two-modes passage",
-  "Acceptance alongside values-based action": "namespace: title is compendium phrasing of ACT's acceptance+committed action pairing; no source defines this exact construct; supervisor disposition requested (see sources/w1c ledger)"
+  "Acceptance alongside values-based action": "namespace: title is compendium phrasing of ACT's acceptance+committed action pairing; no source defines this exact construct; supervisor disposition requested (see sources/w1c ledger)",
+  "Anapanasati (mindfulness of breathing)": "Reopened for QC: QC milestone: reword near-verbatim posture wording, drop observation-not-control, add step locator",
+  "Affect as information": "Reopened for QC: QC note application",
+  "Atman": "Reopened for QC: QC note application"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:53:48+00:00",
+ "updated": "2026-10-20T07:59:20+00:00",
  "band_done": false,
  "new_concepts": [
   {

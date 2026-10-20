@@ -7,13 +7,13 @@ file: "Anapanasati (mindfulness of breathing)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Anapanasati is mindfulness of breathing: keeping attention on the breath as it actually is. The instructions come from the Anapanasati Sutta (MN 118), where the Buddha describes a monk sitting in the wilderness, holding his body erect and setting mindfulness to the fore, always mindful as he breathes in and out. The first steps of the training are observation, not control: discern the long breath as long, the short breath as short.
+Anapanasati is mindfulness of in-and-out breathing. In the Anapanasati Sutta (MN 118), the practitioner sits in a quiet place, upright, and attends to inhalation and exhalation, recognizing whether each breath is long or short. The sutta's later steps include training that sensitizes the breath to the whole body and training that calms the body's activity.
 
-> "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.' Or breathing in short, he discerns, 'I am breathing in short'; or breathing out short, he discerns, 'I am breathing out short.'" (Anapanasati Sutta, MN 118, [Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
+> "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.' Or breathing in short, he discerns, 'I am breathing in short'; or breathing out short, he discerns, 'I am breathing out short.'" (Anapanasati Sutta, MN 118, breathing instructions, steps 1-2, [Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html))
 
 ### The training's shape
 
-The sixteen training steps move through body, feelings, mind and mental qualities, with the breath as the anchor throughout. The sutta's claim for the practice is stated as a chain: developed and pursued, mindfulness of in-and-out breathing brings the four frames of reference to their culmination, which bring the seven factors for awakening to their culmination, ending in clear knowing and release.
+The sutta then gives sixteen training steps, grouped over body, feelings, mind and mental qualities, with the breath as the anchor throughout. Its claim for the developed practice is stated as a chain: mindfulness of in-and-out breathing, developed and pursued, brings the four frames of reference to their culmination; those bring the seven factors for awakening to their culmination, ending in knowledge and release.
 
 ### In the compendium
 
