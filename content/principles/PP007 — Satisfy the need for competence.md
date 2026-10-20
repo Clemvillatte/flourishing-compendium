@@ -12,11 +12,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 7** — Satisfy the need for competence
 
-Competence is the experience of effective interaction with the environment, the sense that one can affect outcomes and develop mastery. It is not about being the best. It is about the experience of growth and capability. Competence satisfaction predicts engagement, intrinsic motivation, and well-being.
+Competence is the experience of effective interaction with the environment, the sense that one can affect outcomes and develop mastery. The concept predates its use in self-determination theory. White proposed it in 1959 as what drive theory left out, defining it as:
 
-(Deci and Ryan, 2000.)
+> As used here, competence will refer to an organism's capacity to interact effectively with its environment. (Robert W. White, "Motivation Reconsidered: The Concept of Competence," Psychological Review 66(5), 1959, pp. 297-333, [archive.org PDF](https://ia800108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1037%252Fh0034974.zip&file=10.1037%252Fh0040934.pdf))
 
-**Plain words** Competence is the sense that you can affect things and are getting better at something. It isn't about being the best. It's about growth and capability, and it supports motivation and well-being.
+White's second move explains the motivational pull: the activities that build competence are motivated in their own right, and the experience they produce is "a feeling of efficacy". Self-determination theory later made competence one of its three basic needs, alongside autonomy and relatedness, with need satisfaction yielding "enhanced self-motivation and mental health" (Ryan & Deci, 2000). Competence satisfaction is not about being the best; it is about the experience of growth and capability, and it predicts engagement, intrinsic motivation, and well-being.
+
+(White, 1959; Deci and Ryan, 2000.)
+
+**Plain words** Competence is the feeling that your actions reach the world and change it. The loaf rises because you did the folding right, and something in you registers the hit. It does not require being the best at anything, only a task slightly beyond your current reach and visible progress into it. The reverse is informative too: when nothing you do changes anything, energy drains even from easy work.
 
 *For example:* A beginner baker who finally gets a loaf to rise feels it, even though professionals would shrug.
 
@@ -24,6 +28,11 @@ Competence is the experience of effective interaction with the environment, the 
 
 - [[ST300 — Three Basic Needs|300. Three Basic Needs]]
 - [[ST302 — Billi and the Two Autonomies|302. Billi and the Two Autonomies]]
+## Sources
+
+- [White 1959, Psychological Review, archive.org PDF](https://ia800108.us.archive.org/view_archive.php?archive=/24/items/wikipedia-scholarly-sources-corpus/10.1037%252Fh0034974.zip&file=10.1037%252Fh0040934.pdf) — pp. 297-333; competence definition and effectance
+- [Ryan & Deci 2000, American Psychologist, PubMed record](https://pubmed.ncbi.nlm.nih.gov/11392867/) — abstract; the three basic needs
+
 ## Psychology parallels
 
 - [[Competence|Competence as basic psychological need]] (Deci and Ryan, 2000)

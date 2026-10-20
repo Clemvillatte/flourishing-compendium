@@ -120,3 +120,14 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   sources; Sheldon & Elliot 1999 inherited citation kept, flagged not certified.
 - Plain words rewritten as re-derivation (old one replicated the body's definition sentence).
 - Saturation: cited by Psychological needs theory, Autonomy, Social influences on motivation.
+
+## PP007 — Satisfy the need for competence
+- Full work: verbatim quote added (White 1959 definitional sentence "As used here, competence
+  will refer to an organism's capacity to interact effectively with its environment", verified
+  vs freshly opened archive.org PDF of the Psychological Review original; the "feeling of
+  efficacy" fragment also verified there). SDT three-needs grounding via the opened Ryan & Deci
+  2000 PubMed abstract (need satisfaction yields "enhanced self-motivation and mental health").
+- Citation line updated to (White, 1959; Deci and Ryan, 2000). Sources section added.
+- Plain words rewritten as re-derivation (old one replicated the body's sentences).
+- Dweck 2006 mastery-orientation parallel inherited, kept with its caveat; not opened.
+- Saturation: cited by Psychological needs theory and the Competence concept (parallel link).
