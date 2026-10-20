@@ -743,3 +743,11 @@ convention).
 - Revalidated against the pre-enrichment baseline c2a3ee47: ok, 0 failed.
 
 - Post-done repair (same item): the validator caught a "not only ... but" staging pattern in the Gerede synthesis sentence (the pushed first version failed validation); reworded to "releases one from the task of genuinely understanding, and develops..." (source's own two verbs, contrast structure removed); revalidated ok and re-pushed. Done-marker stands.
+
+## Integrative complexity (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles D015/E070/K019/M003/P072) — fast-track eligible per §1a.
+- Source opened: Suedfeld, Tetlock & Streufert, "Conceptual/integrative complexity" (ch. 27 of Smith (ed.), Motivation and personality: Handbook of thematic content analysis, Cambridge UP 1992), author copy hosted at UBC (www2.psych.ubc.ca/~psuedfeld/Chapter.pdf), fetched UNPROMPTED. The blockquote is an ellipsis-marked abridgement (the intervening sentence about inferred connections is omitted); both quoted segments verified character-for-character in the fetched text. State-complexity sentences ("particular situation and context"; fatigue, stress, intrapsychic conflict, accountability and self-presentation; "essentially any connected verbal discourse"; archival work domains) grounded in the same fetch.
+- The seed's outcome claims ("predicts good judgment under stress", foxes EPJ material) NOT re-asserted in my new prose (not verified this session; Tetlock 2005 not opened); inherited seed and Other-formulations lines kept as found.
+- No In-the-compendium block (fast-track bar; five principle links preserved in Cited-in).
+- Saturation: fast-track exemption; no reciprocal proposed.
+- QC: validator ok at fast-track profile; no advisor QC (item 12; next at item 15).
