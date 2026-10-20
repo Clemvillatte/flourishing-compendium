@@ -18,9 +18,10 @@
   "BI066",
   "BI067",
   "CO021",
-  "CO022"
+  "CO022",
+  "CO030"
  ],
- "in_progress": "CO030",
+ "in_progress": null,
  "flagged": {
   "BI020": "Reopened for QC: round-4 citation closure",
   "BI037": "Reopened for QC: round-5 mechanical fixes",
@@ -34,10 +35,11 @@
   "BI050": "Reopened for QC: verification of already-landed QC edits; prior bulk reopening hit the one-in-progress restriction",
   "BI067": "New body/quote advisor PASS; inherited Dersh/Craig/Apkarian and cross-tradition philosophy attributions not verified. See sources/p1zs/BI067.md.",
   "CO021": "New body/quote verified; inherited cross-domain robustness and Arkes-Hutzel/Buddhist/Stoic/Schumpeter attributions not certified. Practice inference corrected. See sources/p1zs/CO021.md.",
-  "CO022": "New body/quote verified; unsupported universal schedule multiplier removed. Inherited reference-class and philosophical attributions not certified. See sources/p1zs/CO022.md."
+  "CO022": "New body/quote verified; unsupported universal schedule multiplier removed. Inherited reference-class and philosophical attributions not certified. See sources/p1zs/CO022.md.",
+  "CO030": "Method/quote checked and experimental efficacy scope narrowed; inherited Stoic parallels unverified. Pre-mortem concept stub still overstates efficacy; supervisor correction warranted. See sources/p1zs/CO030.md."
  },
  "missing_concepts": [],
- "sources_checked": 4,
- "updated": "2026-10-20T13:16:22+00:00",
+ "sources_checked": 6,
+ "updated": "2026-10-20T13:17:13+00:00",
  "band_done": false
 }
