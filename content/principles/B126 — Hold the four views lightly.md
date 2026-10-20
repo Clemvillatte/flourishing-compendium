@@ -12,9 +12,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 126** — Hold the four views lightly
 
-Chapter 3 of the Diamond Sutra sets the bodhisattva's resolve to lead all beings to final liberation, and immediately adds that no being whatsoever has been led to liberation. The reason is the four notions: a being, a self, a person, and a life-span. (Diamond Sutra, ch. 3.)
+Chapter 3 of the Diamond Sutra sets the bodhisattva's resolve to lead all beings to final liberation, and immediately adds that in reality no idea of a world of sentient life has been liberated. The reason is the four arbitrary ideas the chapter names: an entity, a being, a living being, and a personality. (Diamond Sutra, ch. 3.)
 
-> "And yet, though countless beings are thus led to liberation, no being whatsoever has been led to liberation. Why? Because, Subhūti, if a bodhisattva holds the notion of a being, a self, a person, or a life-span, that one is not to be called a bodhisattva." (Diamond Sutra 3, [translation](https://satyori.com/source-texts/diamond-sutra/3/))
+> "Thus you shall obtain deliverance from the idea of an immeasurable, innumerable, and illimitable world of sentient life; but, in reality there is no idea of a world of sentient life from which to obtain deliverance. And why? Because, in the mind of an enlightened disciple, there have ceased to exist such arbitrary ideas of phenomena as an entity, a being, a living being, or a personality." (Diamond Sutra, ch. 3, [Gemmell translation](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm))
 
 The compendium adapts the warning into an exercise in examining descriptions of oneself.
 
@@ -25,8 +25,8 @@ Choose a self-description you often use. Write what it describes in a particular
 
 ## Sources
 
-- [Diamond Sutra, chapter 3, with Sanskrit and translation](https://satyori.com/source-texts/diamond-sutra/3/) — the four notions
-- [The Diamond Sutra, Gemmell translation, Project Gutenberg](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm) — a public-domain full text of the sutra
+- [The Diamond Sutra, Gemmell translation, Project Gutenberg](https://www.gutenberg.org/files/64623/64623-h/64623-h.htm) — chapter 3, the quoted passage (public-domain full text)
+- [Diamond Sutra, chapter 3, with Sanskrit and translation](https://satyori.com/source-texts/diamond-sutra/3/) — a second rendering of the chapter, consulted for comparison
 
 ## Psychology parallels
 
