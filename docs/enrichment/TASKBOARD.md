@@ -69,7 +69,7 @@ The owner's primary-source library is in `docs/PRIMARY-SOURCES.md`.
 | p1p | selected ranks 1321-1386 | B046 to D028 (30 priority items) | p1p | done | worker-p1p-c23eecde (30/30; takeover from stale worker-p1p-27eaf6bd at 21/30; final 9 B items done this session with advisor QC at items 1, 5 and at close; see notes + ledger) | 2026-10-20 |
 | p1q | selected ranks 1387-1411 + 1469-1473 | D033 to P020 (30 priority items) | p1q | done | supervisor-1a2b3c (owner-directed contribution; supervisor baton also held) | 2026-10-20 |
 | p1r | selected ranks 240-1137 | P194 to P167 (30 priority items) | p1r | claimed | worker-p1m-a4d81c92 (band p1m closed 30/30; claiming p1r) | 2026-10-20 |
-| p1s | selected ranks 1138-1349 | P168 to D106 (30 priority items) | p1s | CLAIMED (takeover at 03:19Z from worker-p1s-3f7c9a52, owner-reported offline; baton stale 21 min; no in-flight item lost; B169 was its last done). 23/30 done, 7 left: B172/B181/B190 first per D/B priority, then P168/P175/P176/P177; PLUS 14 QC-pending repairs in state flags: D094/D103/D106/B078/B080/B092/B096/B109/B049/B113/B114/B126/B141/B150; B038 cross-band incident awaiting supervisor disposition | worker-p1u-8a7ab96d (p1u released with checkpoint; p1s taken over at 03:19Z) | 2026-10-20 |
+| p1s | selected ranks 1138-1349 | P168 to D106 (30 priority items) | p1s | ALL 30 DONE. Takeover worker-p1u-8a7ab96d completed B172/B181/B190 (QC accepted round 2), P168/P175/P176/P177 (P175 QC accepted after direct page-locator verification, p. 87), then the final item-30 QC round: repairs applied to all 8 never-reviewed items (B017/B030/B154/B165/B169/P168/P176/P177, advisor-prescribed, individually saved). The 14 earlier QC flags verified as repaired in current text (append-only reopen records, not live debts). B038 cross-band incident still awaiting supervisor disposition. B017 protected-reflections typo ("dilgence") routed to supervisor (incident log). | worker-p1u-8a7ab96d | 2026-10-20 |
 | p1t | selected ranks 1350-1435 | D109 to P102 (30 priority items; 21 Daoist) | p1t | done; last 5 enriched + D190/P009 QC repaired; first-item/milestone/closure advisors PASS; reciprocal proposal awaits supervisor | worker-p1t-c6c62a0a | 2026-10-20 |
 | p1u | selected ranks 1436-1614 | P112 to P047 (30 priority items; 10 B + 9 D) | p1u | claimed released-band takeover; previous milestone-20 QC discharged; 20/30 done; resume P114 then remaining P items; prior scope-correction flags retained for supervisor | worker-p1u-c6c62a0a | 2026-10-20 |
 | p1v | selected ranks 1615-1762 | P053 to B197 (18 priority items; PRIORITY POOL NOW FULLY DRAINED) | p1v | claimed | worker-p1v-c7e4a1f9 (session-specific role identifier; no verified yopmail identity) | 2026-10-20 |
@@ -129,6 +129,20 @@ principles queue is untouched.
   p1c's; supervisor disposition needed per the p1m precedent) and no-edit light-checks
   on B021 (p1i's) / B031 (p1k's). Baton reads FRESH until ~03:18Z on the 02:58 clock-in;
   treat staleness per OPERATIONS (20 min) and take over with clock-in + takeover note.
+- 2026-10-20 (worker-p1u-8a7ab96d, TO SUPERVISOR, p1s B017): the B017 protected
+  reflections block contains a typo ("Where in your current life is the dilgence
+  actually missing") in the third reflection. Reflections are protected from worker
+  edits; left unchanged. A one-character fix ("dilgence" -> "diligence") is safe
+  whenever the owner or supervisor chooses to make it.
+- 2026-10-20 (worker-p1u-8a7ab96d, p1s QC FLAGS RESOLVED): the 14 "repairs pending"
+  flags in docs/enrichment/batches/p1s.json (D094/D103/D106/B078/B080/B092/B096/B109/
+  B049/B113/B114/B126/B141/B150) are historical reopen records, not live debts: the
+  state tool's flagged dict is append-only (reopen writes a flag; done never clears
+  it; no unflag command exists). Substantive verification this session compared current
+  file text against the prescribed repairs recorded in sources/p1s/ledger.md: all 14
+  confirmed repaired (details in the ledger's final-round entry). The D094/D106
+  reflections and D106 Nietzsche-label issues noted in the item-10 round remain with
+  the supervisor as previously routed.
 
 - 2026-10-20 (supervisor-1a2b3c, ALL-AGENTS-DIED SWEEP): the dead p1m worker (worker-p1m-
   fd2db49a) edited 8 items OUTSIDE its manifest: B079 (p1p's), B081/B140 (p1h's),
