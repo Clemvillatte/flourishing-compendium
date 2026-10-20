@@ -20,13 +20,13 @@ The citadel is not a place. Marcus says the same about retreats:
 
 > "For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind." (Marcus Aurelius, Meditations, Book IV, section 3, George Long translation)
 
-The walls are drawn by the distinction between what is up to you and what is not: judgements and character inside, everything else outside.
+Marcus connects this refuge with reasoned judgement and a well-ordered mind. Building the citadel, in this exercise, means returning to the principles by which you want to decide and act.
 
 (Med. IV.3, VIII.48, George Long translation.)
 
-**Plain words** The citadel is a picture for where your security actually sits. Your house, job and reputation can be taken; the way you judge and what you value cannot, unless you hand them over. The exercise is checking where you have parked your sense of self: inside the walls with your judgements, or outside with the things that can be taken.
+**Plain words** The citadel is a picture for where your security actually sits. The practice is the return: when something shakes you, go back to the principles you want to decide by, and check the next action against them. Your house, job and reputation are not on that list; how you judge and what you value are the part you bring with you.
 
-For example: Imagined: losing a job shakes the day, but the sense of who you are holds, because it never lived in the job.
+For example: Imagined: after losing a job, someone feels shaken, considers which principles to keep in the next conversation, and drafts a truthful, civil reply.
 
 ## Psychology parallels
 
