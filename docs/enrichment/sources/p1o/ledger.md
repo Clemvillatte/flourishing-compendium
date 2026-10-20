@@ -79,3 +79,23 @@
   parasympathetic activation, inner citadel already linked (kept); new
   reciprocal proposal filed in proposals/p1o.json (Clarity of mind, which
   already cites sibling B035). Validator: ok.
+
+- Advisor first-item QC: round 1 FAIL (evidence overreach: invented plain-words
+  outcomes, samatha=Dhp-concentration terminology bridge, 'only their
+  combination' exclusivity, unopened parallel attributions). Repairs applied:
+  prose bounded to the opened passages; two MN 118 blockquotes split and
+  labelled; full Dhp 372 verse as standalone blockquote; Plain words and
+  For example rewritten as compendium exercise without predicted effects
+  (advisor's exact drafts); inherited parallel citation tails (Benson 1975,
+  Lehrer & Gevirtz 2014, Hadot) reduced to bare wikilinks per band
+  precedent; proposal why clause bounded per advisor. Seed statement and
+  locator kept (p1q supervisor precedent treats principle statements as
+  protected; advisor confirmed only the '>' line is protected, so keeping
+  is permitted). Validator re-run: ok. Web search cross-check done (MN 118
+  step 4 verbatim confirmed; Thanissaro glosses bodily fabrication as the
+  breath in Right Mindfulness / Body Contemplation study guide — not
+  asserted on the page).
+- NOTE for supervisor: state file still carries flagged B014 'Reopened for
+  QC: advisor milestone QC repairs' — the B014 ledger entry records the
+  repairs applied and reopen->done recorded; the state tool has no flag
+  removal command, so the stale flag is left for supervisor disposition.

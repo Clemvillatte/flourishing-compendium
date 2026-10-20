@@ -16,24 +16,30 @@ Let the mind settle into stillness, concentration deepening until the body is tr
 
 (MN 118; Dhammapada 372.)
 
-The Anapanasati Sutta makes calming an instruction repeated with the breath: calm bodily fabrication breathing in, calm it breathing out. The sequence it gives is bodily first. Persistence arouses rapture; rapture calms the body and the mind; serenity counts as an awakening factor once that settling has happened; and the concentrated mind belongs to someone whose body is already calmed. Calm is the settled condition concentration is built on.
+The Anapanasati Sutta trains calming as an instruction repeated with the breath, in and out. In its account of the awakening factors, body and mind grow calm together; serenity becomes an awakening factor once they have; and the mind becomes concentrated for one at ease with the body calmed. The compendium draws on these passages for a practice of developing calm.
 
 > He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'
 >
-> For one enraptured at heart, the body grows calm and the mind grows calm. When the body & mind of a monk enraptured at heart grow calm, then serenity as a factor for awakening becomes aroused.
->
 > (Anapanasati Sutta, MN 118, Thanissaro)
 
-The Dhammapada pairs the two halves of the training and rules out taking either alone: "There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration." The verse counts only their combination as close to Nibbana. Samatha is the stillness half of that pair.
+> For one enraptured at heart, the body grows calm and the mind grows calm. When the body & mind of a monk enraptured at heart grow calm, then serenity as a factor for awakening becomes aroused.
+>
+> (Anapanasati Sutta, MN 118, Thanissaro, the serenity factor)
+
+The Dhammapada pairs meditative concentration with insight, and describes someone in whom both are found as close to Nibbana. The compendium treats the calm side of that pairing as something trained.
+
+> There is no meditative concentration for him who lacks insight, and no insight for him who lacks meditative concentration. He in whom are found both meditative concentration and insight, indeed, is close to Nibbana.
+>
+> (Dhammapada 372, Buddharakkhita)
 
 **Plain words**
-Calm, as the sutta trains it, is bodily first: the breath lengthens, the jaw unclenches, the internal commentary loses volume. You train it one release at a time, on each out breath. The reason to train it is what it makes possible: a mind that keeps leaving cannot examine anything, because it is gone before the looking finishes.
+The sutta gives calming as an instruction attached to the breath itself, on the way in and on the way out. For the compendium's exercise: when you feel unsettled, take the next breath in and the next breath out as the instruction, then note what you noticed.
 
-*For example:* A paragraph read five times agitated, taking in nothing, can need one reading once you have settled first.
+*For example:* Imagine reaching the end of a paragraph and realising you cannot recall it. Pause to try the breathing exercise, then reread the paragraph and check what you remember.
 
 ## Sources
 
-- [Anapanasati Sutta, MN 118 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — the calming steps and the serenity sequence
+- [Anapanasati Sutta, MN 118 (Thanissaro), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — the calming instruction and the serenity factor
 - [Dhammapada, Bhikkhuvagga (Buddharakkhita), Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.25.budd.html) — verse 372
 
 ## Stories
@@ -42,12 +48,12 @@ Calm, as the sutta trains it, is bodily first: the breath lengthens, the jaw unc
 
 ## Psychology parallels
 
-- **[[The relaxation response|The relaxation response]]** (Benson, 1975)
-- **[[Parasympathetic activation|Parasympathetic activation and HRV]]** (Lehrer and Gevirtz, 2014)
+- **[[The relaxation response|The relaxation response]]**
+- **[[Parasympathetic activation|Parasympathetic activation and HRV]]**
 
 ## Philosophy parallels
 
-- **[[The inner citadel|The inner citadel]]** (Hadot, The Inner Citadel)
+- **[[The inner citadel|The inner citadel]]**
 
 <!-- fc: reflections
 Where is your mind currently unable to settle into stillness — and what would the platform of calm actually enable?
