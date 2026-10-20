@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 503** — Face simultaneously your greatest suffering and your highest hope
 
-What makes heroic is not courage in general but a specific simultaneity: to face at once your greatest suffering and your highest hope. Not accept-then-act, not hope-then-grieve — both in the same gaze. The suffering gives the hope its weight; the hope gives the suffering its direction.
+Nietzsche puts the idea in a single line, one of a run of short question-and-answer sentences near the end of Book Three of The Gay Science:
 
-(Nietzsche, The Gay Science 268.)
+> "268. What makes Heroic?—To face simultaneously one's greatest suffering and one's highest hope." (Nietzsche, 1882, The Joyful Wisdom, §268, trans. Thomas Common (T. N. Foulis, 1910), [Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt))
 
-**Plain words** Heroism isn't gritting through pain, and it isn't blind optimism — it's holding both in the same look: your worst-case suffering and your best-case hope, together. Each one needs the other. The suffering keeps the hope from being fluff; the hope keeps the suffering from being a wall.
+He gives no argument for it there, but §337 sketches the same posture at larger scale. A person who "regard[s] the history of man in its entirety as his own history" feels "all the grief of the invalid who thinks of health", of "the lover who is robbed of his beloved" and "the hero on the evening of the indecisive battle which has brought him wounds and the loss of a friend". The task is "to bear this immense sum of grief of all kinds [...] and yet still be the hero who at the commencement of a second day of battle greets the dawn and his happiness". The result would be "a happiness which man has not hitherto known, a God's happiness, full of power and love, full of tears and laughter" (§337, Common translation).
 
-*For example:* The parent in the hospital with a sick child who fully takes in "this might not end well" and still plans the birthday party for next month — neither flinch belongs without the other.
+Here the grief and the happiness are held in one soul together: "to have all this at last in one soul, and to comprise it in one feeling".
+
+**Plain words**
+Courage here means keeping your worst pain and your best hope in view together, without letting one cancel the other. On this reading, the pain has a purpose because something is at stake, and the hope is more than a daydream because it has met what it costs.
+
+**For example**
+A friend with a hard diagnosis starts a project she may not live to finish. She knows the odds and does the work anyway.
+
+## Sources
+
+- [Nietzsche, The Joyful Wisdom (La Gaya Scienza), trans. Thomas Common (1910), Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt): §268 and §337; opened and text-checked. Walter Kaufmann's translation (The Gay Science, 1974) was not available to me, so wording differs from it.
+
 ## Psychology parallels
 
 - **Acceptance and commitment**, holding pain while acting on values (conceptual parallel; Hayes et al., 2011)
