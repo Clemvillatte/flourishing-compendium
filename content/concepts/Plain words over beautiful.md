@@ -13,9 +13,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### What the chapter pairs together
 
-The speech warning travels with two others in the same chapter: the disputatious are not skilled, and the extensively learned do not know. Read together, the three cut against performance. Words, learning and argument are for contact with what is the case; a statement aimed first at pleasing an audience has swapped that contact for effect. The compendium's reading: prefer the sentence that would survive losing its polish.
+The speech warning travels with two others in the same chapter: the disputatious are not skilled, and the extensively learned do not know. The chapter offers the three pairings without arguing them, which fits its own warning against disputation. Its closing lines extend the same preference to possession: the sage does not accumulate for himself, and the more he expends for others, the more he possesses of his own.
 
-The Buddhist parallel the compendium pairs with this page runs the same preference as a gate. B146's test asks four questions of speech before it leaves: is it true, is it timely, is it beneficial, is it gentle. The gate is not kindness; truth and benefit are required, and even what passes waits for its time. On that test ornament is simply not evaluated, because what it decorates is.
+The Buddhist parallel the compendium pairs with this page runs a gate instead of a preference. B146's test asks four questions of speech before it leaves: is it true, is it timely, is it beneficial, is it gentle. On B146's own analysis, truth and benefit are required, endearment is not, and even what passes waits for its time.
 
 ### In the compendium
 
@@ -27,11 +27,11 @@ The Buddhist parallel the compendium pairs with this page runs the same preferen
 
 ## Related concepts
 
-- [[Parrhesia (frank speech)]] — the Greek practice of plain truth-telling at personal cost
-- [[Socratic elenchus]] — testing a claim by cross-examination rather than rhetoric
-- [[Authenticity]] — saying what you actually think as a character trait
-- [[Prosocial honesty research]] — the psychology of honest, plain talk in relationships
-- [[Deception research]] — the study of what ornament can conceal
+- [[Parrhesia (frank speech)]]
+- [[Socratic elenchus]]
+- [[Authenticity]]
+- [[Prosocial honesty research]]
+- [[Deception research]]
 
 ## Sources
 

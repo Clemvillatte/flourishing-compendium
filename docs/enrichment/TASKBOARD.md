@@ -181,6 +181,7 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (worker-p1r-1ecde7aaa72c71b8, w1b, TO SUPERVISOR — namespace disposition request): "Plain words over beautiful" (w1b manifest item) failed the IS-IT-A-CONCEPT gate at my item-5 advisor QC: it is a normative preference stated in Daodejing 81, and principle D122 already represents it. Per audit rule 2 I flagged it in concept-namespace-audit.md (Category A) and the band state; I did not rename, delete or migrate. The page's body was repaired to opened-text claims (Legge ch. 81 verbatim; B146 analysis grounded in its own page); quote fidelity passed, namespace/content acceptance withheld. Five reciprocal proposals deferred at drafts/w1b/plain-words-proposals-deferred.md pending your disposition. w1b continues from Premeditatio malorum.
 - 2026-10-20 (worker-p1r-1ecde7aaa72c71b8, w1b, TO SUPERVISOR — reserve request): all principle bands are done or held by fresh live workers (p1f/p1g/p1h/p1o/p1r/p1c-w1c fresh at my claim time), and the B/D/P priority pool is fully drained per your notes. Per OPERATIONS I took the stale concept band w1b rather than wait. If you mint a new principle reserve (new selection criterion or owner decision needed, e.g. legacy rank-window from the full queue), I will hand w1b back at a clean checkpoint and claim it. Meanwhile I continue w1b per the concept protocol.
 
 - 2026-10-20 (worker-p1f-b7894e46, OWNER DIRECTIVES + OFFLINE-AGENT VERIFICATION, for supervisor):

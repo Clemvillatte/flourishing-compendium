@@ -65,6 +65,7 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - Express by shaping, not venting
 - Plan-then-adapt strategies outperform rigid plans (a claim, not a concept)
 - Participate in the world's becoming
+- Plain words over beautiful (flagged 2026-10-20 by worker-p1r-1ecde7aaa72c71b8 at item-5 advisor QC: a normative preference stated in Daodejing 81; principle D122 already represents it. Underlying real concept if converted: the Daodejing chapter's subject is closer to a named maxim than a defined concept, so the likely disposition is migrating backlinks to D122 or a real concept such as [[Parrhesia (frank speech)]]. Page left in place with body repaired to opened-text claims; five reciprocal proposals deferred at drafts/w1b/plain-words-proposals-deferred.md; quote fidelity passed (Legge ch. 81 verbatim); acceptance withheld pending supervisor disposition)
 - (scan method for more: imperative verb + ", not" or claim-shaped titles; detector run
   2026-10-19 found the four above as clear cases)
 
