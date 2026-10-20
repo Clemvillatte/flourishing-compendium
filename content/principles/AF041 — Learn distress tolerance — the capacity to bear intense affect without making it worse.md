@@ -12,15 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 41** — Learn distress tolerance: the capacity to bear intense affect without making it worse
 
-Distress tolerance is the ability to survive an emotional crisis without doing something that makes it worse (self-harm, substance use, aggression, impulsive decisions). This is a distinct skill from regulation: regulation changes the feeling; tolerance survives it.
+Distress tolerance names the capacity to withstand aversive internal states rather than escape them. In their review of the construct, Leyro, Zvolensky and Bernstein record a two-part definition: the perceived capacity to withstand negative emotional or other aversive states, and the behavioral act of withstanding the distressing internal states a stressor elicits ([Leyro et al., 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)). The same review traces the clinical interest to Linehan's account of borderline personality disorder, in which a persistent unwillingness or inability to tolerate emotional distress is treated as a central mechanism, and reports that lower distress tolerance motivates escape and avoidance when the chance arises.
 
-**Plain words** Distress tolerance: the capacity to survive an emotional crisis without doing something that makes it worse — self-harm, substances, aggression, impulsive decisions. A distinct skill from regulation: you're not calming the storm, you're not wrecking the ship in it.
+> "Specifically, "distress tolerance" has been referred to as (a) the perceived capacity to withstand negative emotional and/or other aversive states (e.g. physical discomfort), and (b) the behavioral act of withstanding distressing internal states elicited by some type of stressor." (Leyro, R. J., Zvolensky, M. J., & Bernstein, A. (2010). Distress tolerance and psychopathological symptoms and disorders among adults: a review of the empirical literature among adults. Psychological Bulletin, 136(4), 576-600, [PMC2891552](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/))
 
-*For example:* The urge to send the 2 a.m. text — the crisis riding high — and the trained response: twenty minutes, a walk, any action that isn't the wrecking move. The feeling can stay; the damage doesn't have to. That's the whole skill.
+**Plain words** The feeling itself is one problem; what you do to get away from it can add a second one. Escape is relieving in the moment, and that relief trains the escape, so the next bad feeling arrives with a stronger habit of leaving. Staying in the room with the feeling, without fixing it and without fleeing it, is the skill this principle points at.
+
+*For example (imagined):* A man feels a wave of panic in a supermarket queue and stays in the line rather than abandoning the trolley. His task is to keep standing there while the feeling is present.
+
 ## Psychology parallels
 
-- **Distress tolerance is a core DBT module**, and deficits in distress tolerance predict self-harm, substance use, and impulsive behaviour (Linehan, 1993)
-- **Distress intolerance is a transdiagnostic risk factor**, the inability to tolerate distress is associated with anxiety, depression, and addiction (Leyro et al., 2010)
+- [The construct review links distress tolerance to the development and maintenance of substance use, anxiety, mood, and personality disorders (Leyro et al., 2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)
+- [Linehan's 1993 account treats a persistent unwillingness or inability to tolerate emotional distress as a central mechanism in borderline personality disorder (via Leyro et al., 2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)
 
 ## Philosophy parallels
 
@@ -30,3 +33,7 @@ Distress tolerance is the ability to survive an emotional crisis without doing s
 ## Practice
 
 - Learn and practise specific distress-tolerance skills: cold water on the face (dive reflex), intense exercise, paced breathing, grounding (5 things you see, 4 you hear, 3 you touch). These are for crises, not for everyday regulation.
+
+## Sources
+
+- [Leyro, R. J., Zvolensky, M. J., & Bernstein, A. (2010). Distress tolerance and psychopathological symptoms and disorders among adults: a review of the empirical literature among adults. Psychological Bulletin, 136(4), 576-600.](https://pmc.ncbi.nlm.nih.gov/articles/PMC2891552/)

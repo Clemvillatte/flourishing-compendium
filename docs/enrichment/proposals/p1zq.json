@@ -7,7 +7,7 @@
   "notes": "A081 is outside p1zq's band; flagged for supervisor decision on quote diversification rather than edited."
  },
  "batch": "p1zq",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Affective dynamics framework",
@@ -32,6 +32,12 @@
    "link": "AF037",
    "why": "a laboratory comparison of acceptance and suppression in patients with panic disorder",
    "notes": "Why clause bounded to the opened abstract after advisor QC rounds 1-2. Evidence: sources/p1zq/AF037.md."
+  },
+  {
+   "into": "Distress tolerance (DBT)",
+   "link": "AF041",
+   "why": "AF041 is the principle form of this page's construct: the capacity to bear intense affect without the act that makes it worse.",
+   "notes": "Target verified to not yet link AF041 (rg check 2026-10-21). Same opened Leyro et al. 2010 review as the page cites. Evidence: sources/p1zq/AF041.md."
   }
  ],
  "inline": [],

@@ -26,9 +26,10 @@
   "AF022",
   "AF024",
   "AF031",
-  "AF037"
+  "AF037",
+  "AF041"
  ],
- "in_progress": "AF041",
+ "in_progress": null,
  "flagged": {
   "Y095": "Prior flag: advisor QC round-2 fail. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
   "Y097": "Prior flag: advisor QC round-2 fail. Takeover reconciliation (2026-10-20, worker-p1zq-4db4ea8b): prior flag recorded an advisor round-2 fail; ledger rounds 3-5 records the repairs (advisor-exact replacements, quote reductions, bare-reference parallels, saturation sweeps) and validator-ok; repair presence verified in the current file this session. Primary-source re-verification and supervisor acceptance not re-performed by this worker.",
@@ -57,6 +58,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:47:12+00:00",
+ "updated": "2026-10-20T13:48:01+00:00",
  "band_done": false
 }
