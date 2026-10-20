@@ -12,21 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 106** — Blame conditions, not persons
 
-When struck by a stick, blame the stick: or rather the conditions, not the person: people act as their conditions shape them. Address the conditions; the blame reflex adds nothing.
+Shantideva's patience chapter argues that harmful actions arise through conditions rather than independently. Verse 6.33 brings that reasoning into an encounter with either a friend or an enemy ([Padmakara translation, Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience)):
 
-(Shantideva, Bodhicaryavatara 6.22-40.)
+> Thus, when enemies or friends
+> Are seen to act improperly,
+> Remain serene and call to mind
+> That everything arises from conditions.
 
-**Plain words** When struck by a stick, blame the conditions, not the person — people act as their conditions shape them. Address the conditions; the blame reflex adds nothing. It's not excusing; it's engineering.
+(Bodhicaryavatara 6.33, Padmakara Translation Group, [Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).)
 
-*For example:* The teammate who keeps missing deadlines — blamed, he gets worse. Asked about his system, you find he's drowning — fix that, the behavior changes.
+Here, the enquiry into conditions is part of a practice directed against anger, not an empirical finding that changing one circumstance will change a person's conduct. In applying it, the compendium keeps two questions available: what contributed to the action, and what response is now warranted? Understanding a condition need not settle the question of responsibility.
+
+**Plain words** Before deciding that someone acted from a fixed bad character, ask what you know about the situation. What remains unknown? You can investigate that and still ask them to account for what they did.
+
+*For example:* Imagine a teammate missing an agreed deadline. You ask when they received the materials and what work was assigned, then discuss the missed commitment. You do not assume either laziness or an overloaded schedule before asking.
+
+## Sources
+
+- [Shantideva, Bodhicaryavatara 6.25, 6.31 and 6.33, Padmakara Translation Group, Tsadra excerpts](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience): conditions considered within patience practice.
 
 ## Psychology parallels
 
-- **[[Fundamental attribution error|The fundamental attribution error]]**, we over-attribute behavior to persons and under-attribute to situations (Ross, 1977)
+- **[[Fundamental attribution error|The fundamental attribution error]]** (Ross, 1977)
 
 ## Philosophy parallels
 
-- **People act as their conditions determine** (necessitarianism, Spinoza, Ethics I-II)
+- **Necessitarianism** (Spinoza, Ethics I-II)
 
 <!-- fc: reflections
 Where are you currently blaming a person when the actual target is the conditions? What would addressing the conditions actually do?

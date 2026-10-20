@@ -85,6 +85,22 @@ scope error and restoration to the owner.
 - Saturation: Patience already cites B104. Meekness lacks it but no new
   reciprocal proposed based on the unverified cross-tradition comparison.
 
+## B106: Blame conditions, not persons (2026-10-20)
+
+- Membership verified. Re-read opened Tsadra chapter-6 primary excerpts:
+  https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience .
+  Exact four-line quote is Padmakara 6.33; 6.25/6.31 support conditioned
+  arising as the chapter's argument against anger.
+- Source is a patience practice, not empirical determinism or an
+  organizational intervention study. Responsibility/response distinction
+  is editorial application. Imagined deadline example asks rather than
+  diagnosing laziness/overload or predicting improvement.
+- Removed unverified Ross mechanism and categorical Spinoza gloss from
+  the parallels tail, keeping reference and original wikilink unchanged.
+  Neither Ross nor Spinoza independently checked.
+- Saturation: Fundamental attribution error already cites B106 twice;
+  no duplicate reciprocal proposed and no equivalence asserted.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
