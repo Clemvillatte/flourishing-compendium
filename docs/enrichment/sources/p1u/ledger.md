@@ -76,3 +76,26 @@ Claim and state transitions are pushed separately for interruption safety.
   are editorial boundaries, not empirical findings.
 - Removed unverified risk-factor language. Worthington, Nietzsche and
   Arendt parallels remain unverified; protected links/comments unchanged.
+
+## D147: Guard your spirit (shen) (2026-10-20)
+
+- Opened Russell Kirkland's academic account:
+  https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf .
+  Supports shen rendering, qi/jing context, daily regulation, and warning
+  against forceful willing. These are described as the text's account,
+  not endorsed as contemporary medical facts.
+- Searched "Neiye Eno translation spirit lodging place" and opened the
+  Robert Eno translation mirror:
+  https://www.scribd.com/doc/181007074/Inner-Enterprise .
+  Section 7 contains the exact eleven-word quote beginning "Reverently".
+  Section labels belong to Eno's arrangement, not original Chinese titles.
+- Primary Eno PDF at https://chinatxt.sitehost.iu.edu/Thought/Neiye.pdf
+  was robots-blocked. A Golden Elixir PDF attempt also failed; neither
+  failed fetch is counted as read evidence. The readable mirror is labelled.
+- Opened seed's Daodejing 59 in Legge/Gutenberg; restraint is a secondary
+  reference, not evidence for a digital-attention claim.
+- Removed the unverified Ward smartphone-capacity claim from the tail.
+  Ward, attention-resource and Weil parallels remain unverified.
+  Protected reflections retain the eyesight/phone-first seed language.
+- Plain words and letter/chat example are explicitly modern analogy,
+  not equivalence of shen and experimentally measured attention.

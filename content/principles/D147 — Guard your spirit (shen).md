@@ -12,17 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 147** — Guard your spirit (shen)
 
-Protect your attention and presence from depletion: scattered spirit is the modern epidemic. Guard your focus like your eyesight.
+The Neiye describes cultivating oneself so that shen, translated by Russell Kirkland as spirit or spiritual consciousness, can be drawn in and retained. Kirkland explains this within the text's account of qi and vital essence, including daily bodily regulation and quieting the heart-mind ([Kirkland](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf)).
 
-(Neiye; DDJ 59.)
+> Reverently sweep its abode and the essence will spontaneously come.
 
-**Plain words** Protect your attention and presence from depletion — scattered spirit is the modern epidemic. Guard your focus like your eyesight: it's the same category of loss, just slower. Nobody notices it going because the thief lives in your pocket.
+(Neiye, section 7 in Robert Eno's translation, [accessible mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise).)
 
-*For example:* The phone-free morning versus the phone-first morning — two completely different humans by noon, same person, same bed.
+The image asks the practitioner to prepare an abode for what cannot simply be commanded to arrive. It belongs to a cultivation account, not a modern measurement of attention; Kirkland specifically notes the warning against forcing qi by will ([Kirkland](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf)).
+
+**Plain words** As a modern analogy, consider the conditions you bring to a task before demanding more concentration from yourself. What could you put aside for the few minutes you intend to spend on it?
+
+*For example:* Imagine sitting down to read a letter while repeatedly checking a group chat. You close the chat until you have read the letter. This is an illustration of preparing to attend, not a claim about shen or a promised cognitive benefit.
+
+## Sources
+
+- [Neiye, Robert Eno translation, section 7, Scribd mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise): abode image and the spirit's coming and going.
+- [Russell Kirkland, Inner Cultivation, University of Georgia PDF](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf): academic explanation of the text's cultivation account.
+- [Daodejing 59, James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the seed's additional reference to restraint, not a smartphone study.
 
 ## Psychology parallels
 
-- **[[The attention economy|The attention economy]]**, mere smartphone presence reduces cognitive capacity (Ward et al., 2017)
+- **[[The attention economy|The attention economy]]** (Ward et al., 2017)
 - **[[Attention|Attention as a depletable and trainable resource]]**
 
 ## Philosophy parallels
