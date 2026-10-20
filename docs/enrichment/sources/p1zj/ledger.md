@@ -106,3 +106,9 @@ Band: AF002..BE033, 30 principles, degree order (queue 628-673). Advisor QC cade
 - Scope: "signals a value" reading labelled as the compendium's own application (the study concerns motivation direction, not value information); Festinger/Smith comparison claim reduced to further reading; Practice kept as the compendium's exercise.
 - Plain words: replicate fixed; example replaced with labelled imagined case.
 - Proposals: reciprocals into Benign versus malicious envy and Mudita (sympathetic joy) (pages read before proposing).
+
+## AF066 — Cultivate self-compassion: treat yourself as you would a good friend
+- Evidence: Allen & Leary 2010, Social and Personality Psychology Compass 4(2) 107-118, open full text (pmc.ncbi.nlm.nih.gov/articles/PMC2914331), fetched this session. Both quotes verified verbatim: the friend-standard summary sentence and the Neff (2003, p. 224) definition as quoted in that text (secondary-carrier acceptance per the E016/E070/K001 precedent; primary Neff 2003 not directly opened).
+- Scope: "distinct from self-esteem (comparative, fragile)" claim replaced by what the opened text supports (anxiety-buffering with self-esteem partialed out, as summarised there); robust-mental-health claim reduced to further reading (MacBeth & Gumley 2012 unopened). Practice kept (friend-standard exercise).
+- Plain words: replicate fixed; example replaced with labelled imagined case.
+- Proposals: reciprocals into Self-compassion, Metta (loving-kindness), The golden rule (pages read before proposing).

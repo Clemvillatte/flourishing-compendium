@@ -12,15 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 66** — Cultivate self-compassion: treat yourself as you would a good friend
 
-Self-compassion is not self-pity or self-indulgence; it is treating your own suffering with the same kindness you would extend to a friend. It is distinct from self-esteem (which is comparative and fragile) and is robustly associated with better mental health.
+Allen and Leary summarise the construct in one sentence:
 
-**Plain words** Self-compassion: treating your own suffering with the same kindness you'd extend to a friend — not self-pity, not indulgence. Distinct from self-esteem (comparative, fragile): self-compassion works precisely when you've failed, which is when esteem collapses.
+> "In essence, self-compassion involves directing the same kind of care, kindness, and compassion toward oneself that one conveys toward loved ones who are suffering." ([Allen & Leary, 2010, open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914331/))
 
-*For example:* The person who botches the presentation and spends the night in the whipping post — versus the one who says what they'd say to a friend in the same spot: "that was rough, you'll fix the deck, this isn't the whole story." Same failure; one of them recovered by Tuesday.
+They quote Neff's own definition:
+
+> "being open to and moved by one's own suffering, experiencing feelings of caring and kindness toward oneself, taking an understanding, nonjudgmental attitude toward one's inadequacies and failures, and recognizing that one's experience is part of the common human experience" (Neff, 2003, p. 224, quoted in [Allen & Leary, 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914331/))
+
+The three named features are self-kindness, common humanity and mindfulness. Note what the definition does not say: nothing about feeling good about yourself, and no comparison with anyone. The compendium's exercise keeps the friend-standard as the check it already was in the principle statement.
+
+**Plain words** The definition is a friend-standard for the voice you use with yourself, plus two more parts: remember that failure is a shared human thing, not a private defect; and look at the pain clearly instead of drowning in it. None of the three asks you to rate yourself at all.
+
+*For example:* (Imagined case.) After a botched presentation, the friend-standard question is what you would say to a friend who botched one. The common-humanity question is whether anyone else has ever botched one. Both have checkable answers; neither requires deciding how good you are.
+
+## Sources
+
+- [Allen, A. B., & Leary, M. R. (2010). Self-compassion, stress, and coping. Social and Personality Psychology Compass 4(2), 107-118, open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC2914331/) — the friend-standard summary sentence and the Neff (2003, p. 224) definition quoted above
+
 ## Psychology parallels
 
-- **Self-compassion predicts better mental health**, self-compassion is associated with lower depression, anxiety, and stress (Neff, 2011; MacBeth & Gumley, 2012)
-- **Self-compassion is distinct from self-esteem**, it does not depend on positive self-evaluation and is more stable (Neff & Vonk, 2009)
+- The three features (self-kindness, common humanity, mindfulness) are laid out in the source quoted above (Neff, 2003, via Allen & Leary, 2010)
+- Neff et al. on anxiety after stressors, with self-esteem partialed out (as summarised in the same opened text); MacBeth & Gumley (2012) on self-compassion and mental health (not opened for this item; cited for further reading)
 
 ## Philosophy parallels
 

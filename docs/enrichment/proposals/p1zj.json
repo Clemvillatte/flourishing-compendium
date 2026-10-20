@@ -1,6 +1,6 @@
 {
  "batch": "p1zj",
- "revision": 13,
+ "revision": 14,
  "records": [
   {
    "action": "reciprocal",
@@ -190,6 +190,27 @@
    "link": "AF055",
    "why": "listed for comparison with the principle's moving-up reading of envy",
    "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers envy-subtypes/sympathetic-joy material adjacent to van de Ven 2009 opened for AF055"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Self-compassion",
+   "link": "AF066",
+   "why": "listed for comparison with the principle's friend-standard reading",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers self-compassion/metta/golden-rule material adjacent to the Allen & Leary 2010 text opened for AF066"
+  },
+  {
+   "action": "reciprocal",
+   "into": "Metta (loving-kindness)",
+   "link": "AF066",
+   "why": "listed for comparison with the principle's friend-standard reading",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers self-compassion/metta/golden-rule material adjacent to the Allen & Leary 2010 text opened for AF066"
+  },
+  {
+   "action": "reciprocal",
+   "into": "The golden rule",
+   "link": "AF066",
+   "why": "listed for comparison with the principle's friend-standard reading",
+   "notes": "sequence: proposal drafted first, target page read before this note was finalised and before push; ground: page covers self-compassion/metta/golden-rule material adjacent to the Allen & Leary 2010 text opened for AF066"
   }
  ]
 }
