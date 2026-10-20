@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 9** — Listen to the flesh's limits, and let them end the pursuit
 
-The famous passage: the flesh's limits are bread and water, and bread and water produce the highest pleasure when the one who eats them is hungry; add luxuries, and the limit does not move; it is desire, not the thing, that escalates. The practice is the deliberate return to the limit (the simple meal, eaten hungry) to recalibrate the entire reward system. Practically, once per week, take one simple meal after real hunger, and let it re-teach the limit.
+Principal Doctrine 20 gives the psychology of the limit: the flesh assumes the limits of pleasure to be infinite, while the mind, grasping what the end and limit of the flesh is, has no further need of unlimited time. The Letter to Menoeceus gives the same limit in food: plain fare gives as much pleasure as a costly diet once the pain of want is removed, and bread and water confer the highest possible pleasure when brought to hungry lips. The letter adds the two working facts: whatever is natural is easily procured, and only the vain and worthless are hard to win. On this basis the flesh's limits are a short list — food, water, warmth, ease — and luxury varies the meal without moving the limit; the sense of "not enough" comes from the wanting, not from the plate.
 
-(The Vatican Sayings' flesh-limits passage; the tradition's limit-analysis.)
+As a compendium exercise, once per week take one simple meal after real hunger, and let it re-teach the limit.
 
-**Plain words** The body's real limit is bread and water — and bread and water taste like a feast when you're actually hungry. Luxury doesn't move the limit; desire just climbs over it. Once a week, eat one simple meal genuinely hungry, and let it recalibrate everything else.
+> "The flesh assumes the limits of pleasure to be infinite, and only infinite time would satisfy it. But the mind, grasping in thought what the end and limit of the flesh is, and banishing the terrors of futurity, procures a complete and perfect life and has no longer any need of infinite time." (Principal Doctrine 20, Hicks)
 
-*For example:* After a day of real work and no snacking, someone has plain rice and vegetables — and it's genuinely one of the best meals of the month, no restaurant required.
+**Plain words**
+Your body's real list of needs is short, and plain food answers it fully when you are hungry. Luxury varies the meal; it does not move the limit. The feeling of "not enough" comes from the wanting, not from the plate. Once a week, eat one simple meal genuinely hungry, and notice how complete it is.
+
+**For example**
+In an imagined application, after a day of real work and no snacking, someone has plain rice and vegetables, and the meal answers the hunger completely — no restaurant required.
+
 ## Psychology parallels
 
 - **[[Hedonic adaptation|Hedonic adaptation and the reset value of simplicity]]**, the research on how consumption escalates and how deliberate simplicity can reset the baseline (Frederick and Loewenstein, 1999; the [[Savoring|savoring]] research)
@@ -27,3 +32,8 @@ The famous passage: the flesh's limits are bread and water, and bread and water 
 
 - **Know what is enough** (Laozi, Daodejing 33 and 44, as cross-tradition echo)
 - **[[The via negativa of appetite|The via negativa of appetite]]** (the tradition's subtraction method)
+
+## Sources
+
+- [Letter to Menoeceus, Hicks translation, MIT Classics](https://classics.mit.edu/Epicurus/menoec.html) — plain fare and bread and water; independence of outward things
+- [Principal Doctrines 20, Hicks translation, Lexundria](https://lexundria.com/epic_kd/20/hks10) — the flesh's assumed infinite limits
