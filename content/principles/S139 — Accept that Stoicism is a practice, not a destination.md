@@ -18,7 +18,7 @@ Epictetus devoted a chapter to what improvement in philosophy actually is. His m
 
 (Epictetus, Discourses I.4 "Of Progress or Improvement", Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html))
 
-The distinction Epictetus draws is not that books are worthless, but that they are not sufficient evidence of progress. What he asks after is how a person handles desire, avoidance and judgment in daily activity, and whether the student is working on his own will. The Encheiridion ranks the parts the same way: the first and most necessary part of philosophy is the use of its precepts, and most people do the contrary, spending their time further down the list and neglecting the first (Ench. LI in this edition, ch. 52 in standard numbering; Long).
+The distinction Epictetus draws is not that books are worthless, but that they are not sufficient evidence of progress. What he asks after is how a person handles desire, avoidance and judgment in daily activity, and whether the student is working on his own will. The Encheiridion ranks the parts the same way: the first and most necessary part of philosophy is the use of its precepts, and Epictetus criticizes concentrating on logical explanations while neglecting practice (Ench. LI, Long's numbering).
 
 **Plain words**
 Take a response you are unhappy with, one that recurs. The question Epictetus would put is not how much philosophy you have read but what you are doing with that response. Books read are not sufficient evidence of progress; a desire better handled is the evidence he accepts.
@@ -27,7 +27,7 @@ Take a response you are unhappy with, one that recurs. The question Epictetus wo
 
 ## Sources
 
-- Epictetus, Discourses I.4 and Encheiridion LI (= 52 standard) (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html)
+- Epictetus, Discourses I.4 and Encheiridion LI (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/10661/pg10661-images.html)
 
 ## Psychology parallels
 
