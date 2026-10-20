@@ -34,19 +34,19 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SP042": "Reopened for QC: QC round 1: narrow opening sentence to the opened passage",
-  "SP045": "Reopened for QC: milestone QC round 1: scope repairs",
-  "SP050": "Reopened for QC: milestone QC round 1",
-  "SP051": "Reopened for QC: milestone QC round 1",
-  "SP054": "Reopened for QC: milestone QC round 1",
-  "SP055": "Reopened for QC: milestone QC round 2: scope repairs",
-  "SP060": "Reopened for QC: milestone 2 follow-up: renewal-sentence locator corrected (note to III.55)",
-  "SP067": "Reopened for QC: milestone QC round 2: scope repairs",
-  "SP072": "Reopened for QC: milestone QC round 2: scope repairs",
-  "SP087": "Reopened for QC: milestone QC round 2: scope repairs"
+  "SP042": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP045": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP050": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP051": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP054": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP055": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP060": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP067": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP072": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok.",
+  "SP087": "Resolved (2026-10-20, worker-p1zp-4db4ea8b): recorded repair verified present in the current file (ledger QC section consulted); validator ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T12:42:06+00:00",
- "band_done": false
+ "updated": "2026-10-20 worker-p1zp-4db4ea8b: all 30 items done; inherited QC flags reconciled and resolved",
+ "band_done": true
 }
