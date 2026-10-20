@@ -500,3 +500,13 @@ exists; protected markup preserved, routed via state flag). Broken concept
 targets in seed parallels ([[Panta rhei]], [[Quick to hear, slow to speak]])
 need a supervisor decision. Next item: M045. SATURATE mention-checks for
 M035/M036/M042/M044 not run this round — noted in ledgers as pending.
+
+## p1zza milestone record (2026-10-20, round 4)
+
+Items 6–10 QC complete WITH HOLDS (not five unconditional passes): BE066, BI036,
+M001 prose PASS; M010 prose PASS + Perspective-taking alias hold; M028 HOLD
+(not completed or certified). Round-4 repairs applied and pushed (ad948aaac);
+final advisor verification of the round-4 repairs still pending. New items
+M035/M036/M042/M044: structurally validated, round-3/4 repairs applied,
+QC-approved status pending verification; SATURATE mention-checks pending
+(recorded per ledger). Do not start M045 before that verification.
