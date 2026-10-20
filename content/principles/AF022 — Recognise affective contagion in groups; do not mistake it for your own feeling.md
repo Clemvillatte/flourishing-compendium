@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 22** — Recognise affective contagion in groups; do not mistake it for your own feeling
 
-In a laboratory study of managerial decision making, Sigal Barsade found that the mood enacted by a trained confederate transferred to the rest of the group, measured both by outside coders' ratings and participants' self-reported mood. ([Barsade, 2002](https://doi.org/10.2307/3094912)) The compendium's application is to ask, after leaving a group that felt emotionally charged, whether the feeling was yours or picked up — a question about its source, not a denial of the feeling.
+In a laboratory study of managerial decision making, Sigal Barsade found evidence of emotional contagion among group members: the mood enacted by a trained confederate was reflected in the group, measured both by outside coders' ratings and participants' self-reported mood. ([Barsade, 2002](https://doi.org/10.2307/3094912)) The compendium's application is to ask, after leaving a group that felt emotionally charged, what may have contributed to the feeling — a question about its sources, not a denial of the feeling.
 
-> "Using a 2 x 2 experimental design, with a trained confederate enacting mood conditions, the predicted effect of emotional contagion was found among group members, using both outside coders' ratings of participants' mood and participants' self-reported mood." (Barsade, S. G. (2002). The Ripple Effect: Emotional Contagion and Its Influence on Group Behavior. Administrative Science Quarterly, 47(4), 644-675)
+> "Using a 2 x 2 experimental design, with a trained confederate enacting mood conditions, the predicted effect of emotional contagion was found among group members, using both outside coders' ratings of participants' mood and participants' self-reported mood." (Barsade, S. G. (2002). The Ripple Effect: Emotional Contagion and Its Influence on Group Behavior. Administrative Science Quarterly, 47(4), 644-675, [DOI](https://doi.org/10.2307/3094912))
 
-**Plain words** A lab finding sits behind this page: one person's mood, deliberately acted, showed up in the rest of the group. After a charged meeting or gathering, the exercise here is one question — was this feeling mine, or did I pick it up?
+**Plain words** In one lab study, a mood that one person deliberately acted was reflected in the rest of the group ([Barsade, 2002](https://doi.org/10.2307/3094912)). A feeling after a charged gathering can have several contributors — your own concerns, other people's expressions, the situation itself. The exercise: list what may have fed the feeling before deciding what to do about it.
 
-**For example (imagined):** A person leaves every family gathering sure they have an anxiety problem. As an experiment, they spend a weekend alone and pay attention to when the anxiety shows up — not to dismiss the feeling, but to learn something about its source.
+**For example (imagined):** A person leaves every family gathering with the same anxiety. As an observation exercise, they spend a weekend alone and note when the anxiety is present and absent — without concluding in advance what the pattern means.
 ## Psychology parallels
 
 - **[[Group affective synchronisation|Group affective synchronisation]]**, emotional states converge within groups over time (Barsade, 2002)
