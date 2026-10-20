@@ -12,3 +12,7 @@ No separate advisor tool available to this session; quotes are checked programma
 
 ## CO041
 - Kahneman and Klein 2009 (UF mirror PDF, pdftotext -raw): all quotes verified except the 'stable relationships...' fragment, whose PDF extraction is glued ('therearestablerelationships'); text matches the abstract-page snippet read in the search result. pp. by footer positions (517 NICU, 524 summary box). Nurse/stock contrast in example is an illustrative hypothetical, not a claim from the paper beyond the cited points.
+
+## CO047
+- Wegner 2011, Nolen-Hoeksema et al. 2008, Watkins et al. 2011 BJPsych: PubMed abstracts only (opened via NCBI eutils), quoted exactly. Watkins 2008 Psychol Bull: PMC full text opened, three quotes grep-verified (rumination vs distraction; dysphoric-mood moderation; Ehring 2007 result as reported by Watkins).
+- Limits: principle statement's 'social' channel (talk to someone solution-focused) not supported by any source opened; body omits it. Possible flag for owner: co-rumination literature (Rose 2002) not opened.
