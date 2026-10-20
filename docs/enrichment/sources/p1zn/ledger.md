@@ -54,3 +54,8 @@
 - Opened: Epictetus Enchiridion 1, 5, 32 (Carter, MIT Classics); SEP "Stoicism" (indifferents, preferred indifferents); Sahdra, Shaver & Brown 2010 abstract (PMID 20155561).
 - Not opened: Discourses I.30, II.19, III.3; Marcus Meditations III.6, VI.13; Hayes et al. 2011.
 - Note: entry's "externals are not good or bad" nuanced with Stoic preferred indifferents; Sahdra nonattachment is a Buddhist-derived parallel, not a Stoic finding.
+
+## S030 — Act for the common good
+- Opened: Marcus Meditations II, VI, IX (Long, MIT Classics); Dunn, Aknin & Norton 2008 abstract (PMID 18356530); Aknin et al. 2020 replication abstract (PMID 32250135).
+- Not opened: Med. VII.5, VII.55; Epictetus Disc. II.10, III.7, III.24; Seneca Letters 48, 95; Van Lange 2007; Ubuntu; Dewey.
+- Note: "ask of any action..." is the compendium's formulation; Experiment 2 of the replication (N=1,950) was null.
