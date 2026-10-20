@@ -7,10 +7,10 @@
   "The raft",
   "Abhyasa",
   "Ironic process",
-  "Intuition as method",
   "Lifespan development",
   "Love",
-  "Svadharma, one's own duty"
+  "Svadharma, one's own duty",
+  "Intuition as method"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,13 +20,13 @@
   "The raft": "QC CORRECTION (supersedes the earlier seed-link-defect flag, which was FALSE): the earlier 'garbled seed links' were my own transcription errors, not seed defects. Milestone QC caught it. Repairs: restored the original seed content (seed line, Facets abandoned/discarded/not-the-destination, all five original Sources lines, [[B128 — Don't cling even to the teaching (dharma-grasping)]] and [[SP042 — Adopt a provisional rule of life]] in Cited in philosophy parallels); removed my invented links ([[B127]]/[[B014]] stay only as In-the-compendium additions, [[BI070]] removed); B021 related line removed (unsupported gloss). MN 22 Thanissaro opened raw; both blockquotes verbatim. Validated against the true seed baseline c2a3ee47: ok. Advisor repairs applied (closing quote standalone; Thanissaro attribution kept; no Bodhi certification).",
   "Skillful means (upaya)": "QC2 REPAIR: upāya identification now grounded in an opened scholarly source (Keating, SEP 'The Literal-Nonliteral Distinction in Classical Indian Philosophy' §4.1, fetched; passage: 'A crucial concept in Buddhist hermeneutics ... is that of upaya or skillful means. With the assumption that the Buddha speaks both truthfully and with an eye towards the abilities of his particular audience...'); added as inline sentence + Sources line. Validated vs seed baseline c2a3ee47: ok.",
   "Svadharma, one's own duty": "QC3 citation-only pass: citation added to the second lead-in sentence ('The verse favours...'). Validated vs seed baseline c2a3ee47: ok.",
-  "Intuition as method": "QC2 REPAIR (advisor re-check): inline citation added to the explanatory opening sentence (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
+  "Intuition as method": "QC3 citation-only pass: citation added to the 'Analysis moves round an object...' sentence. Validated vs seed baseline c2a3ee47: ok.",
   "Ironic process": "QC2 REPAIR (advisor re-check): unconditional seed opener 'effort to force states backfires (Wegner, 1994).' deleted per advisor (inherited assertion, not evidence; the qualified paragraph supplies the introduction; inherited Wegner reference kept in Sources); inline citation added to the first qualified sentence. Validated vs seed baseline c2a3ee47: ok.",
   "Lifespan development": "QC2 REPAIR (advisor re-check): inline citation added to the two-sentence introduction (citation-placement rule). Validated vs seed baseline c2a3ee47: ok.",
   "Love": "QC2 REPAIR (advisor re-check): inline citations added to both factual lead-ins (citation-placement rule). Validated vs seed baseline c2a3ee47: ok."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T07:23:27+00:00",
+ "updated": "2026-10-20T07:23:36+00:00",
  "band_done": false
 }
