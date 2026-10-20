@@ -393,3 +393,16 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
 - Saturation: mutual links confirmed — Distrust names and labels, Language games, Cognitive
   defusion, The discipline of assent all list S047 and are all the principle's own parallel
   labels. No new proposal warranted.
+
+## S053 — Distinguish between what you control and what you influence
+- Full work: Ench. 1 paraphrased in body (source's Greek parentheticals make verbatim
+  excerpting awkward — same decision as S013, noted there); the three-part scheme presented
+  as the principle's own splitting of the far side of the Stoic line (influence vs cannot-
+  touch), not attributed to Epictetus. Plain words rewritten as re-derivation (three bins).
+  For-example kept. Sources section added.
+- Flags: Disc. I.1, I.12, I.22, I.25 (inherited citation line) not opened this session —
+  left as inherited with this flag.
+- Saturation: mutual links confirmed for Locus of control, Self-efficacy, The function
+  argument, The dichotomy of control (all list S053 and are the principle's own parallel
+  labels). Sunk cost effect also lists S053 (one-directional; loose fit — no action).
+  No new proposal warranted.

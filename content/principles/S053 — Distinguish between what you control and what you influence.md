@@ -12,11 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 175** — Distinguish between what you control and what you influence
 
-Some things are fully within your control (your judgements, choices, efforts). Some things you can influence but not control (other people's behaviour, outcomes of projects). Some things you cannot control at all (the weather, the past, other people's opinions). Focus your energy on what you control, invest in what you can influence, and accept what you cannot control.
+The Stoic dichotomy comes first: some things are within your power, some are not. Epictetus names the poles — in our power are opinion, movement towards a thing, desire, aversion, in a word whatever are our own acts; not in our power are the body, property, reputation, offices, whatever are not our own acts. (Epictetus, Enchiridion 1, tr. Long, https://www.gutenberg.org/cache/epub/10661/pg10661-images.html.)
+
+This principle then splits the far side of the line by proximity: some things you can influence but not control (other people's behaviour, the outcomes of projects), and some you cannot touch at all (the weather, the past, other people's opinions). The instruction follows: focus your energy on what you control, invest in what you can influence, and accept what you cannot control.
 
 (Disc. I.1, I.12, I.22, I.25; Ench. 1.)
 
-**Plain words** Some things you control completely (judgements, choices, effort). Some you influence but don't control (other people, outcomes). Some you can't touch (weather, the past, opinions). Spend energy accordingly: control what you control, invest in what you can influence, release the rest.
+**Plain words** Before spending energy on anything, ask which of three bins it belongs in: yours to decide, yours to nudge, or not yours. Effort belongs in the first bin; patience in the second; and nothing at all in the third. Most frustration comes from putting first-bin energy into third-bin things.
 
 *For example:* You can't make an editor accept your piece. You can control the draft, the pitch and the follow-up.
 
@@ -42,3 +44,6 @@ The middle category is where most of life happens. How does one invest without b
 %%
 Is the three-part scheme more useful than the simple two-part one? Why?
 -->
+
+## Sources
+- Epictetus, Enchiridion 1, tr. George Long — opened and verified (paraphrased in body; the source carries Greek parentheticals in the in-our-power line): https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
