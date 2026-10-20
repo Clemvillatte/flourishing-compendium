@@ -31,10 +31,10 @@
   "Rhythm in experience",
   "Vocabularies as tools",
   "Aristotelian friendship",
-  "Redemption sequences",
   "Reinforcement schedules (Ferster & Skinner)",
   "Relational Developmental Systems Theory",
-  "Revaluation of all values"
+  "Revaluation of all values",
+  "Redemption sequences"
  ],
  "in_progress": null,
  "flagged": {
@@ -60,10 +60,11 @@
   "Order out of chaos": "Grounded in the opened authoritative source: Prigogine's Nobel Lecture, Time, Structure and Fluctuations (1977), fetched from nobelprize.org (trusted official source; PDF); two verbatim blockquotes — the Benard-convection passage (fluctuations amplified above a critical value, supermolecular order as a giant fluctuation stabilized by energy exchange, 'dissipative structures') and the abstract's claim that non-equilibrium may become a source of order. The seed names Prigogine and Stengers (the book Order Out of Chaos, 1984 — not opened, not characterized); the Nobel lecture is the author's own primary scientific text covering the same theory. Seed line and inherited source line preserved; the five seed principle links (P148, M040, P007, SP092, P174) preserved as bullets under In the compendium; P149 Cited-in preserved; lead-ins carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
   "Perception as interpretation": "namespace-audit: Kant primary and SEP McLear opened; no definition of exact thesis-like heading located; named conceptualism debate is contested. File unchanged; supervisor classification/rename/route needed.",
   "Perception precedes thought": "namespace-audit: opened DeAnimaII/III, dependencies/faculties/images do not define heading as named unit; distinguish chronological thesis from universal rule. File unchanged; supervisor route needed.",
-  "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)"
+  "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)",
+  "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:38:46+00:00",
+ "updated": "2026-10-20T11:42:46+00:00",
  "band_done": false
 }

@@ -7,13 +7,13 @@ file: "Redemption sequences"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-"Redemption sequences" is a term from the life-story research of Dan P. McAdams for a recurring shape in life narratives: a scene that begins emotionally negative ends positive, so that the bad situation is improved or salvaged by what follows. The construct was introduced in McAdams's coding of life-story interviews (McAdams et al., 2001) and developed in his book The Redemptive Self.
+"Redemption sequences" is a term from the study of life stories in narrative-identity research: a scene that begins emotionally negative ends positive, so that the bad situation is improved or salvaged by what follows ([Sawatzki and Thomsen, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)).
 
-> "Redemption sequences describe a shift from a negative event to a positive, uplifting one." "By contrast, a contamination sequence involves a transition from a positive, happy event to a negative one." (Sawatzki and Thomsen, 2025, [Journal of Personality](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/), section 2, summarising McAdams et al., 2001)
+> "Redemption sequences describe a shift from a negative event to a positive, uplifting one." "By contrast, a contamination sequence involves a transition from a positive, happy event to a negative one." (Sawatzki and Thomsen, 2025, [Journal of Personality, section 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/))
 
 ### The bad-to-good shape
 
-In this research tradition, interviewers collect life stories and trained coders score their key episodes for recurrent forms. A narrative is coded as redemption when it moves from a negative beginning to a positive conclusion; the counterpart contamination sequence moves the other way, and a good event is spoiled or undermined by what happens next (Sawatzki and Thomsen, [section 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)). In the studies the review summarises, redemption sequences relate to higher well-being and contamination sequences to more psychological distress (McAdams et al., 2001).
+The definitions come with a coding practice. In the study the article reports, the key episodes of each narrative were scored, and a narrative was coded as redemption when it transitioned from a negative beginning to a positive conclusion; contamination, a positive event turning negative, was coded the same way (Sawatzki and Thomsen, [section 9](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)). The article reports that redemption sequences relate to higher well-being (Dunlop 2021; McAdams et al. 2001), whereas contamination sequences are related to more psychological distress (McAdams et al. 2001) ([section 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC13359288/)).
 
 ### In the compendium
 
