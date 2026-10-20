@@ -24,10 +24,9 @@
   "P133",
   "P135",
   "P136",
-  "P137",
-  "P144"
+  "P137"
  ],
- "in_progress": null,
+ "in_progress": "P144",
  "flagged": {
   "P058": "Reopened for QC: QC round-3 touch-ups",
   "P054": "Reopened for QC: QC round-3 touch-ups",
@@ -41,10 +40,11 @@
   "P133": "Reopened for QC: QC round 2: stale ledger bullet fix",
   "P135": "Reopened for QC: QC round 2: stale ledger bullets",
   "P136": "Reopened for QC: QC round 2: ligature restoration",
-  "P137": "Reopened for QC: QC round 2: genuine paraphrase, Bernstein citation record split"
+  "P137": "Reopened for QC: QC round 2: genuine paraphrase, Bernstein citation record split",
+  "P144": "Reopened for QC: QC round 1 (advisor): proposal framing, qualified application, Bain attribution, humanizer fixes"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T05:12:27+00:00",
+ "updated": "2026-10-20T05:14:15+00:00",
  "band_done": false
 }
