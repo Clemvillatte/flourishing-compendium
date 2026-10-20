@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 24** — Recognise hindsight bias: "I knew it all along."
 
-After an event, you overestimate how predictable it was. You believe you would have predicted the outcome, even though you did not. This prevents learning from experience because you retroactively make the outcome seem inevitable.
+The original experiment had judges evaluate historical descriptions with and without knowing the outcome: receipt of outcome knowledge increased the postdicted likelihood of reported events and changed the perceived relevance of event descriptive data, regardless of the likelihood of the outcome and the truth of the report ([Fischhoff 1975](https://pubmed.ncbi.nlm.nih.gov/12897366/)). The judges were largely unaware of the effect that outcome knowledge had on their perceptions, and as a result overestimated what they would have known without it, and what others actually did know without it.
 
-**Plain words** Hindsight bias: after the event, you overestimate how predictable it was — "I knew it all along." This prevents learning, because you retroactively make the outcome seem inevitable. Write your predictions down before; compare honestly after.
+> "It is argued that this lack of awareness can seriously restrict one's ability to judge or learn from the past." (Fischhoff 1975, [Journal of Experimental Psychology: HPP, republished in Quality & Safety in Health Care](https://pubmed.ncbi.nlm.nih.gov/12897366/))
 
-*For example:* The team that "totally saw the merger coming" — no memos to that effect exist — and the practice that fixes it: the quarterly prediction log, sealed and reopened. The first read humbles; the second teaches. Nothing was ever learned from "I knew it."
+**Plain words**
+Once you know how it ended, the ending leaks backward into the story: the signs look obvious, the alternatives look flimsy, and your own earlier uncertainty gets rewritten as clarity you never had. The cost for learning is direct: a past that reads as inevitable teaches nothing, because there was nothing to decide in it. Written predictions are the fix, because the page keeps what you actually expected, not what you remember expecting.
+
+*For example:* An imagined case: after a merger flops, the team says the signs were obvious, and a search of the shared drive finds no memos predicting it. The quarterly prediction log fixes the record: calls written down, sealed, reopened later. The first read shows the gap between what was written and what is remembered, and that gap is the lesson.
+
+## Sources
+
+- [Fischhoff, "Hindsight ≠ foresight: the effect of outcome knowledge on judgment under uncertainty," J Exp Psychol HPP 1(3) (1975), republished in Qual Saf Health Care 12(4) (2003)](https://pubmed.ncbi.nlm.nih.gov/12897366/) — abstract
+
 ## Psychology parallels
 
 - **[[Hindsight bias|Hindsight bias]]**, outcomes seem more predictable after the fact (Fischhoff, 1975; Guerin, 1999)
