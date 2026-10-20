@@ -20,7 +20,7 @@ Dewey's complaint in Human Nature and Conduct is aimed at judgment by rule. Prin
 
 His health comparison makes the point bluntly: "In the much less complicated and less changing matters of bodily health such pretensions are known as quackery" (p. 238). A rule that settles every case without looking at the case is a quack remedy in morals as in medicine. The only severe code, he says, is the one "throwing responsibility for judging each case upon the agents concerned, imposing upon them the burden of discovery and adaptation" (p. 103).
 
-The compendium's reading: an act is not a verdict waiting to be looked up. The same question carries different meanings in different situations, and the judgment belongs to the situation.
+The compendium's reading: the same question carries different meanings in different situations, and the judgment belongs to the situation.
 
 **Plain words**
 Rules tempt you to skip the looking. A behavior that reads as rude in one room is welcome in another, and the room is part of the behavior. Before naming an act kind or intrusive, lazy or bold, ask what the situation was doing around it: who was there, what had just happened, what the act was answering. The compendium's exercise: take one judgment you made today and write the situation back into it.

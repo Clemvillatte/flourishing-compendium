@@ -209,3 +209,9 @@
   wikilinks (unopened); Sublimation now linked to the existing concept
   page (seed had it as plain label; Freud attribution kept as inherited
   label - Civ. and Its Discontents not opened). Validator: ok.
+
+- P078 correction: first done push preceded a failing validation (prose 307 >
+  300; the done/save commands ran despite the FAIL because they were
+  chained after the heredoc, not the validate). Prose trimmed (compendium
+  -reading paragraph condensed) and re-validated ok in the same session
+  minute; process note: validate before marking done, no exceptions.
