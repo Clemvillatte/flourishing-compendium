@@ -21,7 +21,7 @@ Chapter 16 of the Daodejing begins with a cosmology of return: all things alike 
 The chapter's chain is addressed to the person who would be king-like. The compendium's reading takes the chain's first links for personal practice: the constancy of the principle's title is the knowing of the unchanging rule, and the acceptance is the capacity and forbearance that knowledge produces. The principle's title calls the community of feeling "impartiality"; that equivalence is the compendium's interpretation of Legge's phrase, not a translation.
 
 **Plain words**
-In ordinary terms: things do their work and come back to rest; that rhythm is a rule you can know; knowing it produces capacity and forbearance, which widen into a community of feeling with all things, and from that community comes a kingly character. The compendium's exercise: before you judge a person or situation, ask whether you know the rule or are still caught in the movement.
+The compendium's exercise: before judging someone, pause and try to describe the situation from their side. Ask what you might be missing, then return to your decision. The pause does not settle who is right.
 
 *For example:* The compendium's hypothetical: a judge who pauses before responding to a lawyer's theater — the pause is the exercise, not a guarantee of the verdict.
 
