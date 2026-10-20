@@ -12,22 +12,37 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 23** — Treat beliefs as habits of action
 
-A belief is not a mental picture; it is a readiness to act. To change a belief, change the actions it organizes: the belief follows.
+Peirce describes belief as settling a doubt and establishing a rule for action. To understand a belief, he asks how it would guide conduct under relevant circumstances, including possible situations that have never occurred ([“How to Make Our Ideas Clear,” section II](https://www.peirce.org/writings/p119.html)).
+
+> "The essence of belief is the establishment of a habit; and different beliefs are distinguished by the different modes of action to which they give rise." (Peirce, section II.)
+
+### Ask what would differ
+
+His claim concerns the meaning of a belief and its bearing on conduct. It does not establish that repeating an action automatically changes one's beliefs. The compendium applies it as a question for reflection: if you acted on this belief, what would you do, expect, or investigate differently?
 
 (Peirce, "How to Make Our Ideas Clear," 1878.)
 
-**Plain words** A belief is not a mental picture — it's a readiness to act. To change a belief, change the actions it organizes: the belief follows. You don't think your way into new beliefs; you act your way into them.
+### Plain words
 
-*For example:* Want to believe you're generous? Volunteer once a month. After a quarter, the belief installs itself — the actions wrote it.
+Choose something you say you believe. Describe a situation in which it would matter, then say how you would respond. If you cannot find a difference, examine what you mean rather than assuming that saying the sentence has made its meaning clear.
+
+### For example
+
+Imagine saying that a colleague's feedback is worth considering. In this proposed exercise, specify what you would do with a criticism you initially dislike: ask for an example, test a revision, or explain your disagreement. No change of self-belief is predicted.
+
+## Sources
+
+- [Charles S. Peirce, “How to Make Our Ideas Clear,” Popular Science Monthly 12 (January 1878), pp. 286-302, section II](https://www.peirce.org/writings/p119.html): opened primary essay; belief, habit and possible practical bearings.
 
 ## Psychology parallels
 
-- **[[Habit|Habit research]]**, behavior change precedes and stabilizes attitude change (Wood and Neal, 2007)
+- **[[Habit|Habit research]]** (Wood and Neal, 2007): retained research comparison; no action-to-attitude causal claim is made here.
 
 ## Philosophy parallels
 
 - **[[Belief as habit|Belief as habit]]** (Peirce, "How to Make Our Ideas Clear")
-- **[[Habit|Habit as the basis of conduct]]** (Dewey, Human Nature and Conduct)- **[[Habit|Habit]]** (Pragmatism)
+- **[[Habit|Habit as the basis of conduct]]** (Dewey, Human Nature and Conduct)
+- **[[Habit|Habit]]** (Pragmatism)
 
 
 <!-- fc: reflections
