@@ -41,3 +41,7 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 ## Y047 (2026-10-21)
 - Woods HOS 17 pp. 193-197 (2.49-2.50 p. 193; 2.52 p. 196; 2.53 p. 197; pages from "[192/193]", "195]/[196", "[196/197]" running heads). Quotes verified; footnote digits in OCR ("mastery1", "regulated 2") ignored.
 - Old text: "the modern finding... slow breathing reliably shifts autonomic tone" is unsourced; removed from the page (no source opened). The sutra's practice is retention/suspension of breath (cutting off the flow), not just slow breathing; page says so. Daily-fixed-time rule is the principle's advice; labelled. Plain words replicate replaced; example imagined. Self-QC only. Candidate for a later source-backed modern-physiology note if a paper is opened.
+
+## Y048 (2026-10-21)
+- Woods HOS 17 p. 72 (1.34 and commentary, after the "[72" running head). Quotes verified; OCR "Betention" read as Retention. The checker's MISSING lines are quote-pairing noise from short quoted words, not absent text.
+- Old text said the sutra names "exhalation and the pause of breath"; Woods has expulsion and retention. "Extend the exhalation and count breaths" is the principle's gloss and is labelled; the "special kind of effort, described in books of Yoga" caveat added. Plain words replicate replaced; example imagined. Self-QC only.
