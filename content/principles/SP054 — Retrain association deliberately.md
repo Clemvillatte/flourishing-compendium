@@ -12,16 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 54** — Retrain association deliberately
 
-Part V's most practical proposition: because affects follow the laws of imagination, they can be re-linked. The mind can arrange its associations so that the images of things are connected to thoughts that empower rather than enslave; Spinoza even prescribes the method, by repeatedly pairing the affect-triggering image with reflections that put it in a larger frame. Two and a half centuries before behavior therapy, the prescription is written out. Practically, take one trigger image that governs you and deliberately re-pair it, daily, with a truthful larger context.
+Spinoza locates the practical lever in the imagination's order. We have the power of arranging and associating the body's modifications according to the intellectual order — connecting images and feelings so that they follow the order of understanding rather than the order of chance encounters (V.10). The note adds what this power is for: "By this power of rightly arranging and associating the bodily modifications we can guard ourselves from being easily affected by evil emotions." The method runs through clear and distinct knowledge of the emotions: the mind, through the emotion, is determined to think of those things which it clearly and distinctly perceives, so the emotion is separated from the thought of an external cause and associated with true thoughts (note to V.4). The compendium's practice: take one trigger image that governs you and deliberately re-pair it, daily, with a truthful larger context.
 
-(Ethics V, P10's condition, so long as we are not assailed by contrary emotions; the training regimen is an adaptation.)
+> "So long as we are not assailed by emotions contrary to our nature, we have the power of arranging and associating the modifications of our body according to the intellectual order." (Ethics V.10, Elwes)
 
-**Plain words** Because affects follow the laws of imagination, they can be re-linked: the mind can arrange its associations so that images connect to thoughts that empower rather than enslave. Retrain the association deliberately. The Spinozist version of exposure and reconsolidation, three centuries early.
+**Plain words**
+Your feelings arrive linked to images by accident of history: what happened to be next to what. The links can be re-made. When you are calm, connect the trigger to what you actually know to be true about it, and keep doing it; the association gradually carries the new frame with it. The calm moment is the working condition: re-linking is a power you have only while contrary emotions are not assailing you.
 
-*For example:* The office that triggers the anxiety — deliberately re-linked, visit by visit, with the competency of the work itself — until the building's lobby means "focus" instead of "threat." The association was trained; it retrains.
+**For example**
+In an imagined case, a lobby that triggers dread is visited on ordinary days, each time paired with the competence the work there has actually shown. The aim is that the building's meaning shifts; the pairing, not willpower, is the lever.
+
+## Sources
+
+- [The Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — V.10 with proof and note; note to V.4
+
 ## Psychology parallels
 
-- **Extinction and counterconditioning**, the experimental analysis of how stimulus-response links are rewritten (Bouton, 2004)
+- **Extinction and counterconditioning** (Bouton, 2004)
 
 ## Philosophy parallels
 
