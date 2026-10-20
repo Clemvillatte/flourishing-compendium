@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 148** — Practise contentment with what you have
 
-Contentment (autarkeia) is the Stoic ideal of self-sufficiency. Not isolation, but the capacity to be well regardless of external circumstances. Practise contentment: appreciate what you have, do not fixate on what you lack, and recognise that what you need is less than what you want.
+Marcus Aurelius puts the Stoic's self-sufficiency in a surprising place: not a cabin, but one's own mind ([Meditations IV.3, Long translation; opened full text](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm)):
 
-(Disc. I.1, I.25; Ench. 15, 16; Med. IV.3, VII.44, IX.6; Seneca, Letters 9, 110.)
+> Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul.
 
-**Plain words** Autarkeia is self-sufficiency: not isolation, but the ability to be well regardless of circumstances. Appreciate what you have, don't fixate on what's missing, and notice that you need less than you want.
+(Marcus Aurelius, Meditations IV.3, trans. George Long; [opened full text, Project Gutenberg](https://www.gutenberg.org/files/6920/6920-h/6920-h.htm).)
 
-*For example:* Making a good dinner from what's in the cupboard, rather than going out to buy the missing ingredient.
+Seneca adds the guard against misreading: "In this sense the wise man is self-sufficient, that he can do without friends, not that he desires to do without them" ([Letters to Lucilius 9, Gummere translation; opened text](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_9)). Contentment (autarkeia) is the capacity to be well regardless of circumstances, with the appetite still attached to people.
+
+### Plain words
+
+You need less than you want, and most of what you need is already in the cupboard. Contentment is not the absence of wanting; it is the ability to be well while a want is unsatisfied. The practice is running the count: what is actually missing from today?
+
+### For example
+
+Someone opens the cupboard, finds three ingredients short of the planned recipe, and cooks the other recipe instead of going out for the fourth. A small case of the whole skill: working with the actual inventory rather than the imagined one.
 
 ## Psychology parallels
 
