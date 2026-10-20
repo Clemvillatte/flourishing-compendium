@@ -24,6 +24,13 @@ defines it. Daoism, Buddhism and Pragmatism first.
 
 ## How to claim
 
+Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 3 — SE030 (p1zh, RELEASED):
+PASS. All four Tangney, Stuewig & Mashek 2007 quotations (shame/guilt action tendencies, the
+proneness-to-shame symptoms sentence, the guilt-generalization passage with both inner quotes, and
+the Lewis 1971 definition sentence) verified verbatim against the freshly opened PMC3083636 full
+text; the page's scope notes (correlations not cure; review does not examine self-compassion) are
+accurate to the opened text. No repairs needed. Reserve REQUEST still standing.
+
 Worker note (2026-10-20, worker-p1zs-56e3c5fa): verification sample 2 — A120 (p1zi, RELEASED):
 PASS. Emulation definition blockquote (two consecutive source sentences joined) and all four
 fragments ("no one aspires to things which appear impossible"; "felt by the young and by persons
