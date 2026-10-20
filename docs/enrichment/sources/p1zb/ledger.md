@@ -163,3 +163,12 @@ never-band-assigned work; p1g state had them flagged-only, absent from p1g's man
   plain words rewritten as a concrete judgment-examination exercise.
 - Saturation lists corrected (PP007, S012); MO045 Sources locators corrected to manuscript
   pagination.
+
+## PP025 — Clarify purpose as a direction
+- Full work: verbatim quote added (Hill & Turiano 2014 abstract sentence on purposeful
+  individuals living longer over 14 years, verified vs freshly opened PMC author manuscript
+  PMC4224996). Body's research sentence narrowed to the opened longevity finding (the old
+  "predicts well-being, physical health, and longevity" triple-claim reduced to what the
+  opened source supports; the 15%-per-SD result also verified in the opened results text).
+- Steger 2012 citation inherited, not opened, flagged. Plain words rewritten as re-derivation.
+- Saturation: rg PP025 in content/concepts pending; Purpose concept links via parallels.
