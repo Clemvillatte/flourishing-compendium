@@ -7,7 +7,8 @@
   "R100",
   "R105",
   "R106",
-  "R111"
+  "R111",
+  "R123"
  ],
  "in_progress": null,
  "flagged": {
@@ -17,9 +18,10 @@
   "R100": "Levinas excerpt page unconfirmed; greeting not discussed by Levinas; Pratt 2002/Verduyn 2019 not opened; Wesselmann 2012 via secondary summary",
   "R105": "Original 'author as well as character' conflicts with MacIntyre p.216; Taylor/Ricoeur/McAdams not opened; p.217 second-hand",
   "R106": "BN quoted second-hand (Helda thesis); Heidegger, Merleau-Ponty, Rotter 1966 not opened",
-  "R111": "Taylor more qualified than entry; Phinney 1992 MEIM, Kymlicka, Honneth not opened; homogenizing quote second-hand"
+  "R111": "Taylor more qualified than entry; Phinney 1992 MEIM, Kymlicka, Honneth not opened; homogenizing quote second-hand",
+  "R123": "Macy&Brown book not opened (web adaptation used); Hooker 2020 reference unverified; Barbaro&Pickett via review summary"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:42:54+00:00"
+ "updated": "2026-10-20T10:43:22+00:00"
 }

@@ -34,3 +34,8 @@
 - Sources opened: Taylor 1994 essay (Purdue PDF excerpt; p.25 confirmed via IEP); "homogenizing" quote via a Canadian thesis (page not given); Phinney & Chavira 1992 abstract; PMC4240512 excerpt.
 - Flags: Taylor's "presumption of equal worth" is more qualified than the entry's "affirmative acknowledgment"; Phinney 1992 (MEIM), Kymlicka, Honneth not opened; psychology evidence is correlational.
 - QC: self-QC only; validator pass.
+
+## R123 — Ecological mindfulness
+- Sources opened: Work That Reconnects Network page (adapted from Macy & Brown); Amel et al. 2009 abstract (Academia mirror); PMC10896055 review summary of Barbaro & Pickett 2016. Quotes verified verbatim against excerpts.
+- Flags: Coming Back to Life itself not opened; consumption-audit framing is compendium's, not shown in Macy & Brown excerpts; Hooker et al. 2020 (reference line) and Kabat-Zinn not opened; evidence correlational/self-report.
+- QC: self-QC only; validator pass.
