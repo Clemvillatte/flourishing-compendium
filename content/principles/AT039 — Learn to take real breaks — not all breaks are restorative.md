@@ -12,20 +12,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 39** — Learn to take real breaks: not all breaks are restorative
 
-A break is only a break if it restores something, and the most common kind of break now fails the test. In Kang, Kurtzberg and Fox's experiment, 414 participants solved anagrams, took a mid-task break on a phone, a computer screen or paper, then solved more; the phone-break group was slower and solved fewer anagrams in the second half than the other break conditions. (Kang et al., 2019.)
+The 2019 experiment tested anagram performance in 414 participants. Three conditions included a shopping-list break on a phone, a computer screen or paper; a fourth condition had no break. Participants in the phone-break condition performed worse in the task's second half than those in the other break conditions. (Kang & Kurtzberg, 2019.)
 
-> "The results show that using cell phone for a break did not allow brain to recharge as effectively as the other types of breaks, both in terms of being able to perform quickly and efficiently in the second half of the task (how long it took to complete), and in terms of performance (how many anagrams were successfully solved in the second half)." (Kang et al., 2019, [Journal of Behavioral Addictions 8(3):395-403](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/))
+> "The results show that using cell phone for a break did not allow brain to recharge as effectively as the other types of breaks, both in terms of being able to perform quickly and efficiently in the second half of the task (how long it took to complete), and in terms of performance (how many anagrams were successfully solved in the second half)." (Kang & Kurtzberg, 2019, [Journal of Behavioral Addictions 8(3):395-403](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/))
 
-The positive half of the principle has its own experiment. Berman, Jonides and Kaplan found that walking in nature or viewing pictures of nature improved directed-attention abilities, measured with a backwards digit-span task and the Attention Network Task, while the downtown walk did not. (Berman et al., 2008.) The compendium's working rule for a real break follows the two findings: something that asks little of your directed attention, which a walk outside does and a feed does not.
+The positive half of the principle has its own experiment. Berman, Jonides and Kaplan reported improvements on specified attention tests after walking in nature or viewing nature pictures. These findings concern particular activities and measured tasks. The compendium suggests trying different breaks and observing the return to work. (Berman et al., 2008.)
 
 **Plain words**
-A break is supposed to hand you back to the next hour in better shape. The phone break does something else: it hands you a stream of small decisions, and the hour after it is worse. A walk, a window, a stretch, a person, or nothing at all ask less of you, which is what makes them breaks.
+Stopping work changes what you are doing, but how you spend the interval may matter to what comes next. For the compendium's exercise, note your break activity and how you feel when you return. Compare occasions without assuming that every phone activity or every outdoor setting has the same effect.
 
-*For example:* Someone who spends the lunch break on the phone and finds the afternoon slower can check the break first. In the anagram experiment, the phone-break group did worse on exactly that: the second half of the task.
+*For example:* Imagine taking a lunch break in a nearby garden, then noting how it feels to return to your writing.
 
 ## Sources
 
-- [Kang, Kurtzberg & Fox (2019), Reach for your cell phone at your own risk: the cognitive costs of media choice for breaks, Journal of Behavioral Addictions 8(3):395-403](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/)
+- [Kang & Kurtzberg (2019), Reach for your cell phone at your own risk: the cognitive costs of media choice for breaks, Journal of Behavioral Addictions 8(3):395-403](https://pmc.ncbi.nlm.nih.gov/articles/PMC7044622/)
 - [Berman, Jonides & Kaplan (2008), The cognitive benefits of interacting with nature, Psychological Science 19(12):1207-1212](https://pubmed.ncbi.nlm.nih.gov/19121124/)
 ## Psychology parallels
 

@@ -40,10 +40,10 @@
   "BE052",
   "BI045",
   "AT003",
-  "AT039",
   "AT013",
   "AT016",
-  "AT035"
+  "AT035",
+  "AT039"
  ],
  "in_progress": null,
  "flagged": {
@@ -76,10 +76,11 @@
   "AT003": "Reopened for QC: advisor QC FAIL round 1: unattributed shared-resource claim, unsupported performance-degradation claim, 'did not survive testing' overreach, rest-as-restoration overreach, plain-words diagnostic signs, clipped contrast in example",
   "AT013": "Reopened for QC: advisor milestone QC FAIL: unsupported ranking, effect promises beyond meta-analysis scope",
   "AT016": "Reopened for QC: advisor milestone QC FAIL: everyday-multitasking generalization, universal 200ms price, kitchen-pause mislabel",
-  "AT035": "Reopened for QC: advisor milestone QC FAIL: frequency overstatement, causal-direction suppression, invented provenance, established-benefits framing"
+  "AT035": "Reopened for QC: advisor milestone QC FAIL: frequency overstatement, causal-direction suppression, invented provenance, established-benefits framing",
+  "AT039": "Reopened for QC: advisor milestone QC FAIL: byline wrong (no Fox), 414/conditions misdescribed, prevalence claim, mechanism overreach"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T03:31:47+00:00",
+ "updated": "2026-10-20T03:32:02+00:00",
  "band_done": false
 }

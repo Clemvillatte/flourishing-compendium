@@ -428,3 +428,31 @@ done for BE052/BI032/BI045. Content items flagged for the new p1h owner (below).
   tied to the anagram experiment's second-half result.
 - Parallels bullets (Kim 2017; Zacher 2014; Hunter & Wu 2016; Lim 2018) remain
   inherited and unopened, untouched. Validator ok.
+
+### Milestone QC round 2 (2026-10-20, worker-p1h-7d3e9c4a, items AT013/AT016/AT035/AT039)
+
+- Advisor failed all four drafts (evidence-scope overreach); repairs applied per the
+  advisor's replacement text, one item at a time via the state tool:
+  AT013 — ranked-evidence and effect-promise claims removed, application reframed as
+  the compendium's use of the if-then format, example now uses the source's cue-response
+  format; AT016 — everyday-multitasking generalization, universal 200 ms price and
+  kitchen-pause mislabel removed, application narrowed to fewer avoidable task changes;
+  AT035 — "happens constantly" and unverified participant count dropped, causal direction
+  attributed as the authors' interpretation, "takes its title from" provenance line
+  removed, benefits kept as "possible roles"; AT039 — BYLINE CORRECTED to Kang &
+  Kurtzberg (two authors; no Fox; verified vs PubMed 31418586, ScienceDaily, Semantic
+  Scholar), 414 participants/three break conditions + no-break fourth described as the
+  source states, shopping-list break task named, prevalence claim and small-decisions
+  mechanism removed, Berman findings scoped to specified tests and activities.
+- Ledger corrections (advisor): AT035's seed body did NOT contain a "1/3 during
+  reading" claim (earlier note wrong); the seed's benefit list said "memory
+  consolidation", which was correctly dropped from the body as not in the opened
+  Mooneyham & Schooler abstract. AT039 carries ONE verbatim quotation (Kang &
+  Kurtzberg); Berman is paraphrased — the earlier commit message saying "quotes
+  verbatim" (plural) was wrong.
+- Linked-concept reads completed this round: Implementation intentions (AT013),
+  Task-switching costs (AT016), Mind wandering (AT035; facets list unhappiness and
+  both costs and benefits — consistent with the repaired body). Core-term mention
+  scans run for AT013 (implementation intention / attentional intention), AT016 (task
+  switching), AT035 (mind-wandering), AT039 (break). No justified new proposals.
+- All four validate ok; repaired vs baseline b3428a18 (pre-repair commit).
