@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
- "agent": "supervisor-fuvwnqv",
- "clocked_in": "2026-10-20T11:53:27+00:00",
+ "agent": "storyteller-6cf9c268",
+ "clocked_in": "2026-10-20T12:21:00+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -134,6 +134,12 @@
    "at": "2026-10-20T11:38:30+00:00",
    "from": "supervisor-46a0925d",
    "reason": "stale (21 min)"
+  },
+  {
+   "by": "storyteller-6cf9c268",
+   "at": "2026-10-20T12:21:00+00:00",
+   "from": "supervisor-fuvwnqv",
+   "reason": "stale (28 min)"
   }
  ],
  "released": false
