@@ -12,13 +12,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 366** — Practise recognition
 
-Seek recognition for yourself and extend recognition to others. Recognition is the condition of full selfhood: you cannot be fully yourself unless your identity is acknowledged by others. But recognition is not merely given; it is struggled for. Practise recognition by affirming the identity, dignity, and worth of every person.
+The Stanford Encyclopedia of Philosophy summarises why recognition matters. "Most theories of recognition assume that in order to develop a practical identity, persons fundamentally depend on the feedback of other subjects (and of society as a whole)". Those who are shown "in a one-sided or negative way, will find it much harder to embrace themselves and their projects as valuable. Misrecognition thereby hinders or destroys persons' successful relationship to their selves". Taylor therefore calls recognition "a 'vital human need'" (Taylor 1992, 26, as quoted there). Because misrecognition "violate[s] the identity of subjects", those affected "are supposed to be particularly motivated to stand up", which is the "struggle for recognition" ([SEP, "Recognition"](https://plato.stanford.edu/entries/recognition/)).
 
-(Honneth, 1995, The Struggle for Recognition; Taylor, 1992, Multiculturalism and the Politics of Recognition.)
+The entry also reports Honneth's reading. His three spheres are interpreted as stages along which "individual persons gain self-confidence within loving relationships, self-respect in the legal realm and self-esteem via the recognition of their accomplishments by society (Honneth 1995, ch. 5)". Taylor separates a "politics of universalism", which aims at "equal recognition of all persons in their common humanity", from a "politics of difference", which "emphasizes the uniqueness of specific (and especially cultural) features". The word "most" in the first quotation signals that not every theorist agrees. I did not open Honneth's or Taylor's texts themselves.
 
-**Plain words** You can't be fully yourself unless your identity is acknowledged by others — recognition is a condition of full selfhood, and it's struggled for, not handed out. So extend it deliberately: affirm others' identity, dignity, worth. Both directions matter.
+**Plain words**
+We build our sense of who we are partly from how others treat us. Being seen as less than you are makes self-respect harder. Acknowledge other people's dignity and what they have done, and seek the same for yourself where it is withheld.
 
-*For example:* The colleague who's called "Michael" for three years though it's Mikhael — and what it does, the day someone asks how to say it properly and then says it properly.
+**For example**
+A new colleague is constantly talked over. You ask her to finish her point, then say in the meeting that her idea helped.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, "Recognition"](https://plato.stanford.edu/entries/recognition/): opened; introduction, section 2 and the passages on Honneth and Taylor
+
 ## Stories
 
 - [[ST252 — MacIntyre's Burned Library|252. MacIntyre's Burned Library]]
