@@ -55,7 +55,8 @@
   "ADHD: interest-based attention",
   "Anapanasati (mindfulness of breathing)",
   "Action before feeling",
-  "Affect as information"
+  "Affect as information",
+  "Atman"
  ],
  "in_progress": null,
  "flagged": {
@@ -81,7 +82,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T07:52:36+00:00",
+ "updated": "2026-10-20T07:53:48+00:00",
  "band_done": false,
  "new_concepts": [
   {
