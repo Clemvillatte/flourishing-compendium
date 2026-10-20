@@ -12,16 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 51** — Understand the affect to transform it
 
-The centerpiece of Part V: an affect ceases to be a passion as soon as we form a clear and distinct idea of it. In understanding, the same event passes from being suffered to being done; the emotion keeps its energy but changes its owner, from something that happens to you into something your mind performs. It is a structure that the modern cognitive therapies share, stated in 1677. Practically, when overwhelmed, do not wait for the feeling to pass; dissect it: what is the object, what is the sorrow or joy, what is the desire, what caused it.
+Spinoza's remedy for the affects runs through understanding. An emotion that is a passion is a confused idea; form a clear and distinct idea of that same emotion and it ceases to be a passion. The corollary gives the direction of the effect: the emotion "becomes more under our control, and the mind is less passive in respect to it, in proportion as it is more known to us". The same event keeps its force, but stops being something that merely happens to you. The method is stated plainly: "we must chiefly direct our efforts to acquiring, as far as possible, a clear and distinct knowledge of every emotion" (note to V.4), separating the emotion from the thought of its external cause and associating it with true thoughts. The compendium's practice: when overwhelmed, do not wait for the feeling to pass; take it apart — object, sorrow or joy, desire, cause.
 
-(Ethics V, P3.)
+> "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof." (Ethics V.3, Elwes)
 
-**Plain words** The centerpiece of Part V: an affect ceases to be a passion as soon as we form a clear and distinct idea of it. In understanding, the same event passes from being suffered to being done — the emotion keeps its energy but changes its owner. Understanding is the transformation.
+**Plain words**
+You cannot delete a feeling by wishing it away, but a feeling you understand stops pushing you around. The difference between being knocked over by a wave and diving through it: same water, different relation. Naming what the feeling is about, and where it started, is how the relation changes.
 
-*For example:* The rage that owns the afternoon — named, traced, understood (fear of the review, blocked striving) — and the same energy, now held, becomes the fuel for the preparation. Nothing was suppressed; ownership changed. That's the Spinozist trick.
+**For example**
+In an imagined case, an afternoon of anger at a review is taken apart: the fear behind it, the blocked striving. The energy remains and goes into the preparation. Nothing was suppressed; ownership changed.
+
+## Sources
+
+- [The Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm) — V.3 with corollary; note to V.4
+
 ## Psychology parallels
 
-- **[[Cognitive reappraisal|Cognitive reappraisal]]**, the best-evidenced regulation strategy, which works precisely by changing the representation of the emotional event (Gross, 2015)
+- **[[Cognitive reappraisal|Cognitive reappraisal]]** (Gross, 2015)
 
 ## Philosophy parallels
 

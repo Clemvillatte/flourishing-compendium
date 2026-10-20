@@ -3,7 +3,8 @@
  "done": [
   "SP042",
   "SP045",
-  "SP050"
+  "SP050",
+  "SP051"
  ],
  "in_progress": null,
  "flagged": {
@@ -11,6 +12,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:14:39+00:00",
+ "updated": "2026-10-20T11:15:20+00:00",
  "band_done": false
 }
