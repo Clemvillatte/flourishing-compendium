@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 16** — Learn CBT-I: the gold standard for insomnia
 
-Cognitive behavioural therapy for insomnia (CBT-I) is the first-line treatment for chronic insomnia. It combines sleep hygiene, stimulus control, sleep restriction, and cognitive restructuring. It is more effective than medication in the long term.
+The insomnia guideline's definition, graded Standard:
 
-**Plain words** CBT-I is the gold-standard insomnia treatment — a programme of sleep restriction, stimulus control, and cognitive work that beats pills long-term. If insomnia is chronic, this is the referral, not another melatonin bottle. The protocol exists; ask for it.
+> "Initial approaches to treatment should include at least one behavioral intervention such as stimulus control therapy or relaxation therapy, or the combination of cognitive therapy, stimulus control therapy, sleep restriction therapy with or without relaxation therapy—otherwise known as cognitive behavioral therapy for insomnia (CBT-I). (Standard)" (Schutte-Rodin et al., 2008)
 
-*For example:* "I've tried everything" — everything except the one structured protocol with the strongest evidence. Pills rent sleep; CBT-I owns it. Different business models.
+The medication comparison is the reason the treatment is called first-line: "short-term pharmacological treatments alone are effective during the course of treatment for chronic insomnia but do not provide sustained improvement following discontinuation, whereas cognitive behavioral treatments produce significant improvement of chronic insomnia in the short-term, and these improvements appear sustained at follow-up for up to two years." And the guideline's own component ranking: "Current data support the efficacy of stimulus control, relaxation training, and cognitive behavioral therapy (CBT-I)."
+
+**Plain words** CBT-I is the gold-standard insomnia programme: a package of sleep restriction, stimulus control, and cognitive work. The guideline's short version: pills help short-term and stop helping when you stop; the behavioural package keeps working at follow-up. If insomnia is chronic, this is the referral.
+
+*For example* Imagined: the "I've tried everything" shelf, everything except the one structured protocol with the Standard grading. Pills rent sleep; CBT-I owns it. Different business models.
+
+## Sources
+
+- [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the opened article text, Summary Recommendations and Treatment of Chronic Insomnia sections
+
 ## Psychology parallels
 
-- **CBT-I is the gold standard for insomnia**, superior to medication in the long term (Morin et al., 2006; Riemann et al., 2010)
-- **CBT-I components**, sleep restriction, stimulus control, cognitive restructuring, sleep hygiene (Morin et al., 2006; Perlis et al., 2005)
+- **CBT-I is recommended for chronic insomnia**, psychological and behavioral interventions are effective and recommended in the treatment of chronic primary and comorbid insomnia, graded Standard (Schutte-Rodin et al., 2008; Morin et al., 2006)
+- **CBT-I components**, the combination of cognitive therapy, stimulus control therapy, and sleep restriction therapy with or without relaxation therapy (Schutte-Rodin et al., 2008; Perlis et al., 2005)
 
 ## Philosophy parallels
 
@@ -30,4 +39,4 @@ Cognitive behavioural therapy for insomnia (CBT-I) is the first-line treatment f
 
 ## Practice
 
-- If you have chronic insomnia, seek CBT-I. The core components (sleep restriction, stimulus control, cognitive restructuring) are learnable. Do not rely on sleeping medication alone.
+- If you have chronic insomnia, ask for CBT-I. The core components (sleep restriction, stimulus control, cognitive therapy) are learnable. Do not rely on sleeping medication alone.

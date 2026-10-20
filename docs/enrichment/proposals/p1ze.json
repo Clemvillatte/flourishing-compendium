@@ -1,6 +1,6 @@
 {
  "batch": "p1ze",
- "revision": 15,
+ "revision": 16,
  "records": [
   {
    "action": "reciprocal",
@@ -141,6 +141,20 @@
    "link": "BI008",
    "why": "BI008 gives the scientific account of the 24-hour light-entrained loop; The rhythm of life covers the broader rhythms of living that include it.",
    "notes": "Proposed by worker-p1ze-e6d6f5ba during BI008 saturation; target body verified to link circadian rhythm."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Right association",
+   "link": "BI016",
+   "why": "BI016 covers stimulus control, which trains the bed-sleep association the Right association page discusses.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BI016 saturation. NOTE FOR SUPERVISOR: the Right association concept currently links [[BE039 \u2014 Learn CBT-I \u2014 the gold standard for insomnia]], a non-existent page ID; the correct target is BI016. The broken link needs repair when applying."
+  },
+  {
+   "action": "reciprocal",
+   "into": "Sleep deprivation",
+   "link": "BI016",
+   "why": "BI016 gives the first-line treatment for chronic insomnia, the condition that produces sleep deprivation.",
+   "notes": "Proposed by worker-p1ze-e6d6f5ba during BI016 saturation; grounded in the opened Schutte-Rodin et al. 2008 guideline."
   }
  ]
 }

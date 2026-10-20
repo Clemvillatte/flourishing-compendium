@@ -18,9 +18,10 @@
   "BE069",
   "BI003",
   "BI007",
-  "BI008"
+  "BI008",
+  "BI016"
  ],
- "in_progress": "BI016",
+ "in_progress": null,
  "flagged": {
   "BE012": "Reopened for QC: QC round 1 fail: source overstatement, locator missing, plain-words metaphor triad, example unlabelled; advisor repairs pending",
   "BE014": "Reopened for QC: milestone QC round 2 repairs applied, re-closing",
@@ -37,6 +38,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:42:48+00:00",
+ "updated": "2026-10-20T08:43:42+00:00",
  "band_done": false
 }

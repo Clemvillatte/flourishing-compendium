@@ -147,3 +147,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Scope: seed's "10-30 minutes outside" and "no screens 1 hour" protocol specifics replaced by the review's own findings; "blue light from screens delays melatonin" claim replaced by the review's general nocturnal-light finding; example grounded to the review's mood-modulation evidence; Hale & Guan 2015 removed, Czeisler/Wright/Chang kept as references.
 - Saturation: 2 reciprocals proposed (Two-process model of sleep, The rhythm of life; both target bodies verified to discuss circadian rhythm); Complete mental health model and The pragmatic maxim judged tangential.
 - QC: not a milestone item (item 18 of 30); validator pass vs pre-item baseline d9cbe92a.
+
+## BI016 — CBT-I
+- Source opened (re-queried): Schutte-Rodin et al. (2008) AASM insomnia guideline (PMC2576317). CBT-I quotes verified against the opened article text: the Standard-graded definition (Summary Recommendations), the sustained-improvement vs pharmacotherapy comparison (Combined Therapy section), and the component-efficacy sentence (Treatment of Chronic Insomnia).
+- Scope: "first-line" grounded in the guideline's Standard recommendation and the sustained-improvement contrast; "cognitive restructuring" replaced by the guideline's "cognitive therapy"; the blockquote's em dash is verbatim source text in a quote line; Riemann et al. 2010 removed, Morin et al. 2006 and Perlis et al. 2005 kept as references.
+- Saturation: 2 reciprocals proposed (Right association, Sleep deprivation); BROKEN LINK FLAG: the Right association concept links [[BE039 — Learn CBT-I — the gold standard for insomnia]], a non-existent ID (correct: BI016); flagged in the proposal notes for supervisor repair. Sleep architecture (Walker) and Sabbath judged tangential.
+- QC: not a milestone item (item 19 of 30); validator pass vs pre-item baseline fd771ce9.
