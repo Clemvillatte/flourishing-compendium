@@ -58,6 +58,24 @@ a principle reserve from the active supervisor.
 - Saturation: fast-track exemption used. No reciprocal proposed.
 - QC: source comparison and validator before done; milestone advisor sample pending.
 
+## Non-dual awareness
+
+- Track: fast-track, current degree 7 (all principles).
+- Opened 2026-10-20: https://pmc.ncbi.nlm.nih.gov/articles/PMC7473343/ .
+  Josipovic and Miskovic (2020), DOI 10.3389/fpsyg.2020.02087, Introduction and
+  Nondual Awareness. Search: Josipovic 2014 neural correlates nondual awareness.
+- Evidence: the named contemporary account and the authors' disagreement with
+  equating NDA and minimal phenomenal experience. Article is explicitly a
+  perspective; attributed throughout, not represented as scientific consensus.
+- No claims about neural correlates, therapeutic benefit, the existence of a
+  metaphysical Self, or uniformity of contemplative traditions.
+- Bibliographic fragments for Josipovic 2013/2014 moved to Sources, not certified.
+  Inherited Shankara reference retained, not opened; seed's exclusive attribution
+  replaced with a verified contemporary usage. Removed “small literature,
+  honestly labeled” draft residue rather than asserting a literature size.
+- Saturation: fast-track exemption. Existing links preserved, no reciprocal.
+- QC: validator before done. Include this theory-scoping item in milestone advisor QC.
+
 ## Open-monitoring meditation
 
 - Track: fast-track, current degree 7 (all principles).
