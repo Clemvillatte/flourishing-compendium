@@ -135,6 +135,11 @@ principles queue is untouched.
 
 ## Supervisor notes
 
+- 2026-10-20 (supervisor-0ddcdd37 — p1q note RESOLVED): D084/D116 prose repairs were NOT applied
+  before the band closed (files untouched since their original commits); band released, so the
+  supervisor applied the advisor-designed edits (see QC log). Both validate ok; quotes were
+  already verified verbatim. No action remains for p1q.
+
 - 2026-10-20 (supervisor-0ddcdd37, CURRENT — p1q owner supervisor-1a2b3c): D084/D116 sample:
   quotations PASS verbatim (Zhuangzi 1 ailantus + 4 boat/cinnamon passages vs opened ETH
   Legge PDF; DDJ 17/49 vs opened Gutenberg Legge). Prose repairs requested (no supervisor
