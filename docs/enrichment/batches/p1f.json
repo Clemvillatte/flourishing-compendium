@@ -57,10 +57,9 @@
   "AT025",
   "AT031",
   "AT034",
-  "AT053",
-  "AT059"
+  "AT053"
  ],
- "in_progress": null,
+ "in_progress": "AT059",
  "flagged": {
   "D074": "Reopened for QC: milestone QC: inference-level corrections",
   "B006": "Reopened for QC: QC r2: traffic example",
@@ -85,10 +84,11 @@
   "A046": "Reopened for QC: Reopened for QC: chapter locator VI.7; remove training inference",
   "A047": "Reopened for QC: Reopened for QC: qualify unity claim; remove pairwise declarations",
   "A057": "Reopened for QC: Reopened for QC: distinguish report from reform recommendation; remove developmental gloss",
-  "AT025": "Reopened for QC: QC correction: prose length after sentence-level citations"
+  "AT025": "Reopened for QC: QC correction: prose length after sentence-level citations",
+  "AT059": "Reopened for QC: QC: Simon does not support monetization claims; humanizer defects"
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-20T06:11:31+00:00",
+ "updated": "2026-10-20T06:13:57+00:00",
  "band_done": false
 }

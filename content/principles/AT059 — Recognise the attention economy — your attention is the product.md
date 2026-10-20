@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 59** — Recognise the attention economy: your attention is the product
 
-The root of this principle is Herbert Simon's 1971 analysis of information-rich environments, which described a reversal economists had missed: once information is abundant, the bottleneck moves to whatever information consumes.
+In his 1971 discussion, Herbert Simon argues that abundant information creates a need to allocate recipients' scarce attention.
 
 > in an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention
 >
 > (Simon, "Designing Organizations for an Information-Rich World", 1971, pp. 40-41)
 
-The passage sets the economics. Attention is the scarce input, so receiving has a price: "In an information-rich world, most of the cost of information is the cost incurred by the recipient. It is not enough to know how much it costs to produce and transmit information; we must also know how much it costs, in terms of scarce attention, to receive it" (Simon 1971, p. 41). The design principle Simon draws is the opposite of more-is-better: "The design principle that attention is scarce and must be preserved is very different from a principle of 'the more information the better'" (p. 42).
+Simon includes the recipient's time in the cost of information: "In an information-rich world, most of the cost of information is the cost incurred by the recipient. It is not enough to know how much it costs to produce and transmit information; we must also know how much it costs, in terms of scarce attention, to receive it" (Simon 1971, p. 41). He draws a design implication: "The design principle that attention is scarce and must be preserved is very different from a principle of 'the more information the better'" (p. 42).
 
-The compendium's application: an advertising-funded internet runs on Simon's scarcity. A free service with no subscription still collects payment, and where the user pays nothing, attention is what is harvested. The seed's engineering claims (notifications, infinite scroll, autoplay, variable rewards) are the commercial form of a scarcity Simon described in the age of teletypes.
+The compendium applies this accounting to digital media: include time spent receiving information when judging a service's cost. A price of zero does not by itself tell you how much time using it will take.
 
 **Plain words**
-A free app is not a gift. Somebody pays its developers, and when it is not you, the payment is your attention, sold onward in slices. No conspiracy is needed; each side does its ordinary job, and the design still works on you. The useful response is bookkeeping: check where your attention actually went this week, and treat any app that took a large cut accordingly.
+A service can cost you no money and still take an hour of your day. When deciding whether it is worth using, count that hour too. Ask what you received during it and whether you want to spend the next hour in the same way.
 
 *For example:*
-Imagined: a reader deletes one social app for a week, then opens the phone's screen-time report. The recovered minutes are visible there, which is the point. The cost of free is measurable, and Simon's arithmetic says to run the calculation before renewing.
+Imagined: a reader spends twenty minutes each morning in a free news app. They record the time for a week and include it when deciding whether to keep using the app.
 
 ## Sources
 
