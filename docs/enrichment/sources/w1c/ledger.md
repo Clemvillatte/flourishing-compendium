@@ -305,3 +305,6 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Proposals: 6 reciprocals added.
 - Preservation: front-matter, seed line, Facets and Other-formulations
   sections, all citation lines and Cited-in links kept byte-for-byte.
+
+### Dependent origination (2026-10-20, worker-p1f-9d3f7c2b, FAST-TRACK)
+- Degree 13 (<15, fast-track eligible). Source opened: SN 12.1 SuttaCentral (Sujato translation). Twelve-link chain quoted verbatim from the fetched page; cessation formula quoted verbatim. Nagarjuna/MMK connection kept via the seed's own facet/related lines, no MMK quote (not opened). Added Related lines for Right view and Shunyata (both existing neighbors; edges already present undirected). No saturation hunt per fast-track bar; no cross-link proposals.
