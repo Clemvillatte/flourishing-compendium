@@ -25,11 +25,12 @@
   "R110",
   "R119",
   "R127",
-  "S015"
+  "S015",
+  "S027"
  ],
- "in_progress": "S027",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T09:55:19+00:00"
+ "updated": "2026-10-20T09:56:10+00:00"
 }

@@ -14,21 +14,32 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Fame is a preferred indifferent at best, a distraction at worst. The person who seeks fame is seeking the approval of people whose judgment may be worthless. The Stoic seeks the approval of their own reason, not the applause of the crowd.
 
-(Med. I.6, III.4, IV.3, VI.16, VIII.45; Seneca, Letters 20, 29, 73, 79, 94, 103.)
+Marcus challenges the wish to be remembered by pointing out that our admirers will die too, along with the people who remember them ([Meditations IV.19](https://classics.mit.edu/Antoninus/meditations.4.four.html)). But his stronger question concerns the present: even if remembrance lasted, what would it add to the quality of your life or conduct ([Meditations IV.19](https://classics.mit.edu/Antoninus/meditations.4.four.html))?
 
-**Plain words** Fame is at best a preferred indifferent and at worst a distraction. Seeking it means seeking the approval of people whose judgement may be worthless. The Stoic looks to their own reason, not the crowd's applause.
+He tests praise against ordinary objects, from an emerald to a flower: "Neither worse then nor better is a thing made by being praised." ([Meditations IV.20, George Long translation](https://classics.mit.edu/Antoninus/meditations.4.four.html)) His point includes truth and benevolence, whose worth does not await a favourable audience ([Meditations IV.20](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
 
-*For example:* Declining to post the clever thing you made because you already know it's good, and being fine with that.
+This need not become a refusal to publish, accept thanks or learn from criticism. Marcus allows praise a certain usefulness; what he challenges is treating it as the reason to live or act ([Meditations IV.19](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
+
+**Plain words** A practical distinction: a reader can help you notice a weak argument without deciding what your work is worth by applauding it. Listen for what makes the work better, rather than taking the amount of attention as the answer.
+
+*For example:* Suppose you publish an essay that receives little attention. You still correct an error a reader identifies, without rewriting the argument merely to attract more likes.
 
 ## Psychology parallels
 
-- **[[Extrinsic motivation|Extrinsic motivation and well-being]]**, fame-seeking predicts lower well-being (Kasser and Ryan, 1993)
-- **[[Social comparison|Social comparison and self-esteem]]** (Crocker and Wolfe, 2001)
+- **[[Extrinsic motivation|Extrinsic motivation and well-being]]**: relative emphasis on money, appearance and social recognition was associated with lower vitality and self-actualisation and more physical symptoms in an adult sample; the study does not establish that fame itself causes distress ([Kasser and Ryan, 1996 abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006)).
+- **[[Social comparison|Social comparison and self-esteem]]**: Crocker and Wolfe's model concerns how self-esteem responds to success and failure in domains on which people stake their worth; it offers a related question about what we let recognition decide ([2001 abstract](https://www.ovid.com/journals/plrev/abstract/00006832-200107000-00005~contingencies-of-self-worth)).
 
 ## Philosophy parallels
 
-- **[[Contempt for fame|Contempt for fame]]** (Seneca, Letters from a Stoic)
-- **The having versus being mode** (Fromm, To Have or To Be?)
+- **[[Contempt for fame|Contempt for fame]]**: Marcus asks what praise adds and how long remembrance lasts ([Meditations IV.19–20](https://classics.mit.edu/Antoninus/meditations.4.four.html)).
+- **[[Preferred indifferents]]**: the school's classification gives reputation a value that is distinct from moral goodness ([Stoicism, section 4.3](https://plato.stanford.edu/entries/stoicism/)).
+
+## Sources
+
+- [Marcus Aurelius, Meditations IV.19–20, translated by George Long, MIT Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.4.four.html): exact quotation, remembered admirers and the usefulness of praise.
+- [Kasser and Ryan, Further Examining the American Dream (1996), publisher abstract](https://journals.sagepub.com/doi/10.1177/0146167296223006): correlational goal-content evidence.
+- [Crocker and Wolfe, Contingencies of Self-Worth (2001), publisher abstract](https://www.ovid.com/journals/plrev/abstract/00006832-200107000-00005~contingencies-of-self-worth): the self-worth model, rather than a direct study of fame.
+- [Durand, Shogry and Baltzly, Stoicism, Stanford Encyclopedia of Philosophy, section 4.3](https://plato.stanford.edu/entries/stoicism/): reputation as a preferred indifferent.
 
 <!-- fc: reflections
 Whose approval do you seek, and would you trust that person's judgement on other matters?
