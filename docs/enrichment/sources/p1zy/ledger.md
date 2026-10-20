@@ -196,3 +196,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: Woods spans checked against normalized text. Analects span read on fetched page.
 - Seed repairs: sutra says obstacles "in concentration", not "to integration". YS 4.1 only lists five sources of perfections and does not call them obstacles. Generalisation to peak experiences and "tell one grounded person" labelled as the page's own. Masters 2010 and Kierkegaard not opened.
 - Saturation: low; one translation.
+
+## Y087 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: search excerpts (Advaita Vision pages quoting BU 2.4.5 and Shankara's bhashya in Madhavananda's translation; Wikipedia Nididhyasana); Woods YS 1.14 full text.
+- Quotes verified: Woods span checked; Shankara/BU quotes are as quoted in the Advaita Vision excerpt (secondary; the bhashya itself not opened).
+- Seed repairs: unopened "Shankara, Upadesasahasri" citation dropped. YS 1.14 link, monthly rhythm and language-immersion image labelled as the page's own. Bjork and Plotinus not opened.
+- Saturation: low; recommend a later pass to open the bhashya on archive.org.
