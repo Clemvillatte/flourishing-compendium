@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 96** — Hold the whole as the daily measure
 
-Spinoza's term for the reading habit is the form of eternity:
+Spinoza gives reason's way of seeing things a name: the form of eternity.
 
 > "It is in the nature of reason to perceive things under a certain form of eternity (sub quâdam æternitatis specie)." ([Ethics II, P44, Corollary II, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-The Fifth Part explains what the form amounts to. Things are conceived as actual in two ways, "either as existing in relation to a given time and place, or as contained in God and following from the necessity of the divine nature. Whatsoever we conceive in this second way as true or real, we conceive under the form of eternity" ([Ethics V, P29 note, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)). The same event has one look under the first conception and another under the second.
+The Fifth Part explains what the form amounts to. Things are conceived as actual in two ways, "either as existing in relation to a given time and place, or as contained in God and following from the necessity of the divine nature. Whatsoever we conceive in this second way as true or real, we conceive under the form of eternity" ([Ethics V, P29 note, Elwes translation](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)). Spinoza's own claim is metaphysical: in the proof of the same proposition he notes that "eternity cannot be explained in terms of duration". The same event has one look under the first conception and another under the second.
 
-The compendium's application: once a day, take the most annoying or painful event of the day and place it in the largest frame you can honestly hold. What remains after the placement is the event's working size.
+The compendium's application, kept distinct from that doctrine: as a reflection exercise, once a day take the most annoying or painful event of the day and ask what larger process it belongs to. The exercise borrows the shape of the two conceptions; it is not Spinoza's account of eternity and claims no guaranteed relief.
 
-**Plain words** An event has at least two sizes. Measured against today, the traffic jam is a disaster; measured against the whole process it belongs to, it is one thread. The principle asks you to check which measure you are using, because the smaller measure is the one that hurts.
+**Plain words** Spinoza says reason can see a thing two ways: as an item in today's traffic and news, or as part of one necessary whole. The second way does not come by default. The principle asks you to practice noticing which of the two you are using.
 
 *For example:* The evening question, what one process was this whole day part of? The answer will differ nightly. Asking it is the practice.
 ## Psychology parallels

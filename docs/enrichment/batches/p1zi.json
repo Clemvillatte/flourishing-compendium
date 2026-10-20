@@ -5,19 +5,20 @@
   "SP052",
   "SP073",
   "SP079",
-  "SP096",
   "X014",
   "SP089",
-  "SP091"
+  "SP091",
+  "SP096"
  ],
  "in_progress": null,
  "flagged": {
   "SP079": "Reopened for QC: QC round 1: quote terminal punctuation (design: not design.), majority-vs-all overreach, participation guarantee, humanizer, PT sentence reader-facing, parallels claim clauses",
   "SP089": "Reopened for QC: QC milestone: circumstances-revoke overreach + rereading mechanism",
-  "SP091": "Reopened for QC: QC milestone: sharing-as-requirement overreach"
+  "SP091": "Reopened for QC: QC milestone: sharing-as-requirement overreach",
+  "SP096": "Reopened for QC: QC milestone: eternity-as-technique + smaller-measure claim"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:00:07+00:00",
+ "updated": "2026-10-20T10:00:27+00:00",
  "band_done": false
 }
