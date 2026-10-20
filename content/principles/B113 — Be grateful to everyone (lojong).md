@@ -12,16 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 113** — Be grateful to everyone (lojong)
 
-Chekawa Yeshe Dorje's Seven Points of Mind Training includes, as the thirteenth of its fifty-nine slogans, "Be grateful to everyone". (Lojong slogans, point 3.) Shantideva's Guide to the Bodhisattva's Way of Life gives the argument behind the slogan in its patience chapter: like a treasure appearing in your house without effort, an enemy assists the conduct of awakening, and the first fruits of patience belong to the one who was its cause. (Shantideva, Guide, chapter 6.)
+The lojong slogan list reproduced in Tricycle includes, as slogan thirteen of fifty-nine, "Be grateful to everyone". (Lojong slogans.) In a related discussion, Shantideva considers why an enemy can be acknowledged as a condition for practising patience. The argument runs through verses 107-111 of the Guide's patience chapter: like a treasure appearing in your house without effort, an enemy assists the conduct of awakening, and the first fruits of patience belong to the one who was its cause; the enemy need not intend any benefit, which is exactly the point verses 109-111 press. (Shantideva, Guide, chapter 6.)
 
-> "Thus since patient acceptance is produced / In dependence upon (one with) a very hateful mind, / That person should be worthy of veneration / just like the sacred Dharma, / Because he is a cause of patience." (Shantideva, Guide, chapter 6, v. 111, [Batchelor translation](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf))
+> "Thus since patient acceptance is produced
+> In dependence upon (one with) a very hateful mind,
+> That person should be worthy of veneration
+> just like the sacred Dharma,
+> Because he is a cause of patience." (Shantideva, Guide, chapter 6, v. 111, [Batchelor translation](http://www.abuddhistlibrary.com/Buddhism/A%20-%20Tibetan%20Buddhism/Authors/Shantideva/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life%20-%20%20Stephen%20Bachelor%20tra/A%20Guide%20to%20the%20Bodhisattva's%20Way%20of%20Life.pdf))
 
-The compendium's application: the gratitude is not a claim that the difficult person intended to help. Shantideva's argument runs explicitly through intention: patience arises dependently on a hateful mind, whatever that mind intends, and the veneration is for the practice the encounter made possible.
+As a compendium exercise, consider whether a difficult encounter offered a particular opportunity to practise patience.
 
 **Plain words**
-The slogan does not ask you to approve of anyone or to seek out difficulty. It asks you to notice who your patience actually trained on. As a compendium exercise, name one difficult person from the last month and one thing the dealing with them asked of you, and include that in your account of what you learned.
+Think of a recent difficult exchange. Write down what was asked of you and how you answered. Is there an opportunity to practise patience that you can acknowledge?
 
-*For example:* Imagine a freelancer whose worst client finally taught them to charge properly. The gratitude is for the lesson, not for the behavior; the rates still go up.
+*For example:* Imagine a freelancer declining an unreasonable deadline. Later, they consider how they handled the exchange and what they would do differently.
 
 ## Sources
 

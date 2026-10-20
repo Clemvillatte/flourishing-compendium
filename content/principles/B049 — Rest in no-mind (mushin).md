@@ -12,21 +12,22 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 49** — Rest in no-mind (mushin)
 
-Takuan Soho's letter to the swordsman Yagyu Munenori explains mushin through the mind that stops. When you notice the sword moving to strike you and your mind stops at it, he writes, your own movements are undone and you are cut down. The mind that does not stop anywhere is what the letter calls immovable, not because it is frozen but because it is not detained. (Takuan Soho, The Mysterious Record of Immovable Wisdom, in The Unfettered Mind.)
+Takuan Soho's letter to the swordsman Yagyu Munenori, the Mysterious Record of Immovable Wisdom reproduced in The Unfettered Mind, explains the mind that stops. When you notice the sword moving to strike you and your mind stops at it, he writes, your own movements are undone and you are cut down. The mind that does not stop anywhere is what the letter calls immovable, not because it is frozen but because it is not detained. (Takuan Soho, excerpts reproduced at the Scarsdale Aikido page.)
 
 > "when you first notice the sword that is moving to strike you, if you think of meeting that sword just as it is, your mind will stop at the sword in just that position, your own movements will be undone, and you will be cut down by your opponent" (Takuan Soho, [The Mysterious Record of Immovable Wisdom, excerpt](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/))
 
 Later in the same letter, the training account ends in a state the compendium reads as the performer's: at the deepest point, arms, legs and body remember what to do, and the mind does not enter into it at all.
 
-**Plain words**
-The instruction is not to empty your head but to stop checking your own performance from inside it. Notice the difference between attention on the task and attention on how you are doing. When you catch yourself narrating your own swing, sentence or conversation, return to the object: the ball, the words, the person in front of you. The skill you trained is still there; the checking is what blocks it.
+The compendium adapts Takuan's warning into an exercise in noticing where attention has become detained during a familiar activity.
 
-*For example:* Imagine a jazz musician whose best solo happens when they stop managing it. The self steps aside and the training plays.
+**Plain words**
+When you notice yourself replaying an error, describe what the task requires next. Try continuing without first settling your judgment of the whole performance.
+
+*For example:* Imagine a musician dwelling on a missed note while the ensemble continues. They attend to the next cue and continue playing.
 
 ## Sources
 
-- [Takuan Soho, The Mysterious Record of Immovable Wisdom, excerpts quoted at Scarsdale Aikido blog](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/) — the stopping mind and the trained body
-- [The Unfettered Mind, Wikipedia](https://en.wikipedia.org/wiki/The_Unfettered_Mind) — the letter's context and editions
+- [Takuan Soho, The Mysterious Record of Immovable Wisdom, excerpts reproduced at the Scarsdale Aikido page](https://scarsdaleaikido.com/aikidoblog/takuans-unfettered-mind/) — the stopping mind and the trained body
 
 ## Psychology parallels
 

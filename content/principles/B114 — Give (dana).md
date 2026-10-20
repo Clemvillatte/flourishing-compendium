@@ -12,20 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 114** — Give (dana)
 
-Dhammapada 224 puts giving on a three-item list with truth and patience: speak the truth, yield not to anger, and when asked, give even if you only have a little. (Dhammapada 224.) AN 5.41 describes the uses of wealth for the householder, and the list runs from providing pleasure and satisfaction for one's own people to the offering: to institute offerings of supreme aim, given to contemplatives. The sutta ends with the householder who has made these uses of wealth feeling no remorse whether it increases or goes to depletion. (AN 5.41.)
+Dhammapada 224 puts giving on a three-item list with truth and restraint of anger: speak the truth, yield not to anger, and when asked, give even if you only have a little. (Dhammapada 224.) AN 5.35, the Discourse on the Benefits of Giving, lists five benefits: a giver is dear and beloved by many people, good people associate with them, they get a good reputation, they do not neglect a layperson's duties, and when the body breaks up they are reborn in a good place. (AN 5.35.) AN 5.41 adds the householder's uses of wealth, from providing pleasure and satisfaction for one's own people to warding off calamities to the offering given to contemplatives, and ends with the householder feeling no remorse whether the wealth increases or goes to depletion. (AN 5.41.)
 
-> "using the wealth earned through his efforts & enterprise, amassed through the strength of his arm, and piled up through the sweat of his brow, righteous wealth righteously gained — performs the five oblations: to relatives, guests, the dead, kings, & devas" (AN 5.41, [Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html))
+> "A giver, a donor is dear and beloved by many people. Good people associate with them. They get a good reputation. They don't neglect a layperson's duties. When their body breaks up, after death, they're reborn in a good place, a heavenly realm." (AN 5.35, [Dananisamsa Sutta](https://theemptyrobot.com/texts/tipitaka/sutta-pitaka/anguttara-nikaya/AN5/35-dananisamsasutta/))
 
-The compendium's application: dana is placed early in the sequence of practices because it is the one that starts connecting; the giving runs through the whole list, from one's own household outward.
+The compendium extends the instruction to give into a weekly exercise: choose a request for help that you are willing and able to meet.
 
 **Plain words**
-Giving is the practice that does not wait for you to be sorted out first. The instruction in Dhammapada 224 is concrete: when asked, give even if you only have a little. Pick one place in your week where you have something to give, money, time or attention, and put it there.
+Decide what you can offer, such as an hour of time or a small amount of money. Make the offer specific.
 
-*For example:* Imagine a new volunteer who arrives to help others and notices their own loneliness loosening over the weeks. The gift ran both directions.
+*For example:* Imagine choosing a volunteer shift and asking the coordinator where help is needed.
 
 ## Sources
 
-- [AN 5.41, Adiya Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html) — the five uses of wealth
+- [AN 5.35, Dananisamsa Sutta, "The Benefits of Giving"](https://theemptyrobot.com/texts/tipitaka/sutta-pitaka/anguttara-nikaya/AN5/35-dananisamsasutta/) — the five benefits of giving
+- [AN 5.41, Adiya Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an05/an05.041.than.html) — the householder's uses of wealth, giving among them
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.17.budd.html) — verse 224
 
 ## Psychology parallels

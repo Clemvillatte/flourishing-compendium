@@ -10,12 +10,12 @@
   "B012",
   "B017",
   "B030",
-  "B049",
   "B078",
   "B080",
   "B092",
   "B096",
   "B109",
+  "B049",
   "B113",
   "B114",
   "B126",
@@ -34,10 +34,16 @@
   "B080": "Reopened for QC: Milestone QC FAIL: mechanism claims; repairs pending",
   "B092": "Reopened for QC: Milestone QC FAIL: source-scope + application overreach; repairs pending",
   "B096": "Reopened for QC: Milestone QC FAIL: contradiction; repairs pending",
-  "B109": "Reopened for QC: Milestone QC FAIL: verb form in quote paraphrase; repairs pending"
+  "B109": "Reopened for QC: Milestone QC FAIL: verb form in quote paraphrase; repairs pending",
+  "B049": "Reopened for QC: Item-20 QC FAIL: application overreach, source attribution; repairs pending",
+  "B113": "Reopened for QC: Item-20 QC FAIL: historical-claim overreach, quote format; repairs pending",
+  "B114": "Reopened for QC: Item-20 QC FAIL: citation correction itself wrong (AN 5.35 is the Dananisamsa Sutta); repairs pending",
+  "B126": "Reopened for QC: Item-20 QC FAIL: doctrinal overreach, unverified second source; repairs pending",
+  "B141": "Reopened for QC: Item-20 QC FAIL: unopened commentary material in application; repairs pending",
+  "B150": "Reopened for QC: Item-20 QC FAIL: modern recasting of historical list, unverified gloss; repairs pending"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T02:46:42+00:00",
+ "updated": "2026-10-20T02:51:35+00:00",
  "band_done": false
 }

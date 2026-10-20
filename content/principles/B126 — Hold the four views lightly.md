@@ -12,16 +12,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 126** — Hold the four views lightly
 
-Chapter 3 of the Diamond Sutra sets the bodhisattva's resolve: to lead all beings to final liberation, and yet, though countless beings are thus led to liberation, no being whatsoever has been led to liberation. The reason given is the four notions: if a bodhisattva holds the notion of a being, a self, a person, or a life-span, that one is not to be called a bodhisattva. (Diamond Sutra, ch. 3.)
+Chapter 3 of the Diamond Sutra sets the bodhisattva's resolve to lead all beings to final liberation, and immediately adds that no being whatsoever has been led to liberation. The reason is the four notions: a being, a self, a person, and a life-span. (Diamond Sutra, ch. 3.)
 
 > "And yet, though countless beings are thus led to liberation, no being whatsoever has been led to liberation. Why? Because, Subhūti, if a bodhisattva holds the notion of a being, a self, a person, or a life-span, that one is not to be called a bodhisattva." (Diamond Sutra 3, [translation](https://satyori.com/source-texts/diamond-sutra/3/))
 
-The compendium's application: the four notions are in use all day, for talking, planning and loving, and the instruction is not to drop them but to stop being held by them.
+The compendium adapts the warning into an exercise in examining descriptions of oneself.
 
 **Plain words**
-You need the word I to get through a day. The sutra's point is about grip, not vocabulary. As a compendium exercise, notice one place where you defend a self-description as if it were you: a role, a diagnosis, a story about who you are. Ask what would change if it were a working label instead of a possession.
+Choose a self-description you often use. Write what it describes in a particular situation and where it fails to fit. Consider whether you need to revise it.
 
-*For example:* Imagine an identity crisis that resolves not by finding a firmer self, but by holding the self-question more lightly.
+*For example:* Imagine someone who calls themselves "a poor listener." They review a recent conversation and identify what they did and what they would change.
 
 ## Sources
 
