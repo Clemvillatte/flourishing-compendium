@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 38** — Learn sleep hygiene: behaviours that support sleep
 
-Sleep hygiene involves specific behaviours that support good sleep: consistent schedule, dark and cool bedroom, no screens before bed, no caffeine late, limit naps, use bed only for sleep.
+Sleep hygiene is the set of everyday conditions that let sleep happen. The clinical guideline for chronic insomnia lists the instructions plainly:
+
+> "Instructions include, but are not limited to, keeping a regular schedule, having a healthy diet and regular daytime exercise, having a quiet sleep environment, and avoiding napping, caffeine, other stimulants, nicotine, alcohol, excessive fluids, or stimulating activities before bedtime." (Schutte-Rodin et al., 2008)
+
+The same guideline is careful about what hygiene alone can do: "Although all patients with chronic insomnia should adhere to rules of good sleep hygiene, there is insufficient evidence to indicate that sleep hygiene alone is effective in the treatment of chronic insomnia. It should be used in combination with other therapies." For the ordinary bad night, the instructions are sound general practice; for chronic insomnia they are a component of treatment, not the treatment.
 
 **Plain words** Sleep hygiene is boring on purpose: same time, dark, cool, no screens, no late caffeine. None of it is exciting; all of it is structural. Treat bedtime like an appointment with the foundation crew.
 
-*For example:* The phone that lives in the kitchen overnight — mildly tragic for the first week, quietly transformative by the third. The bedroom became a bedroom again. The sleep noticed.
+*For example* The phone that lives in the kitchen overnight: mildly tragic for the first week, quietly transformative by the third. The bedroom became a bedroom again, and the sleep noticed.
+
+## Sources
+
+- [Schutte-Rodin, Broch, Buysse, Dorsey & Sateia, "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504, 2008 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/) — quotes checked against the opened article text, Table 11 and Summary Recommendations
+
 ## Psychology parallels
 
-- **[[Sleep hygiene (CBT-I)|Sleep hygiene (CBT-I)]]**, behavioural practices that support sleep (Morin et al., 2006; Stepanski & Perlis, 2000)
-- **Stimulus control therapy**, using bed only for sleep and getting up when unable to sleep (Bootzin & Epstein, 2011; Morin et al., 2006)
+- **[[Sleep hygiene (CBT-I)|Sleep hygiene (CBT-I)]]**, teaching patients healthy lifestyle practices that improve sleep (Schutte-Rodin et al., 2008; Morin et al., 2006; Stepanski & Perlis, 2000)
+- **Stimulus control therapy** (Bootzin & Epstein, 2011; Morin et al., 2006)
 
 ## Philosophy parallels
 
@@ -30,4 +39,4 @@ Sleep hygiene involves specific behaviours that support good sleep: consistent s
 
 ## Practice
 
-- Practise sleep hygiene: consistent sleep and wake times, dark cool bedroom, no screens 1 hour before bed, no caffeine after noon, use bed only for sleep. If unable to sleep, get up.
+- Practise sleep hygiene: consistent sleep and wake times, a dark and cool bedroom, no screens or other stimulating activities in the hour before bed, no caffeine in the hours before bedtime, use the bed only for sleep. If unable to sleep, get up.

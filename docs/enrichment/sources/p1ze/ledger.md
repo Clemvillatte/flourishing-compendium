@@ -58,3 +58,10 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Inherited parallels: Cepeda et al. 2006 / Donovan & Radosevich 1999 spaced-repetition claim reduced to bare reference; extinction claim re-grounded in the opened source.
 - Saturation: extinction-mentioning concepts without BE035 link (Kenosis; Reinforcement schedules (Ferster & Skinner)) not substantiable relationships; no proposals.
 - QC: not a milestone item (item 8 of 30); validator pass vs pre-item baseline f1c3e79d.
+
+## BE038 — sleep hygiene
+- Source opened: Schutte-Rodin, Broch, Buysse, Dorsey & Sateia (2008), "Clinical guideline for the evaluation and management of chronic insomnia in adults", Journal of Clinical Sleep Medicine 4(5): 487-504 (https://pmc.ncbi.nlm.nih.gov/articles/PMC2576317/). Quotes matched the fetched PMC text: Table 11 instructions sentence; Summary Recommendations "insufficient evidence... combination with other therapies" sentence.
+- Scope notes: seed's "no caffeine after noon" narrowed to the guideline's "before bedtime" wording; screens folded under "stimulating activities before bedtime"; the guideline's limitation quote included in the body.
+- Inherited parallels: Bootzin & Epstein 2011 / Morin et al. 2006 / Stepanski & Perlis 2000 kept as references; claims re-grounded in the opened guideline.
+- Saturation: 2 reciprocals proposed (Sleep deprivation, Temperance); other mentioning concepts (Sabbath, Sleep architecture (Walker), Tragic optimism) either already link or lack a substantiable relationship.
+- QC: not a milestone item (item 9 of 30); validator pass vs pre-item baseline d3344fa9.
