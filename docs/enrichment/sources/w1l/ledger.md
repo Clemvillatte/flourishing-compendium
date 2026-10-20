@@ -687,3 +687,12 @@ convention).
 
 ### Milestone QC disposition (2026-10-20)
 - Advisor re-review: revised prose and reproduced quotation SUPPORTED (scoped pass on evidence), but the item is held NAMESPACE-BLOCKED, NOT done: the 'research'/'theory' pair needs a supervisor disposition before either is accepted as a separate concept. Sources annotation corrected per advisor ("introduction's summary of earlier avoidance research; proposed transdiagnostic framing"). Nested quotation-mark normalization disclosed in the ledger; no further verification round required. Both w1l items ('Experiential avoidance research', 'Experiential avoidance theory') recorded as namespace-blocked in the state and flagged on the TASKBOARD.
+
+## Goal conflict research (fast-track, genuineflourishing01, 2026-10-20)
+- Degree 5 at selection (principles P062/P126/SP024/Y043/Y062) — fast-track eligible per §1a.
+- Source opened: PubMed record 3397863, Emmons & King 1988 JPSP 54(6):1040-1048, fetched UNPROMPTED (prompt:null). Both displayed abstract sentences verified character-for-character against the fetched record: "Conflict and ambivalence were associated with high levels of negative affect, depression, neuroticism, and psychosomatic complaints. Conflict was also associated with health center visits and illnesses over the past year." and "Subjects were less likely to act on conflictful and ambivalent strivings but to spend more time thinking about these strivings." (paraphrased in the page's last paragraph), the 1-year follow-up sentence, the 88-undergraduates/15-strivings design facts.
+- Seed line corrected: "unacknowledged conflicts drain well-being" was NOT supported by the abstract (no "unacknowledged" construct); replaced with the study-accurate framing, citation kept.
+- First names avoided (PubMed shows initials only).
+- No In-the-compendium block added (fast-track bar does not require it; Cited-in lists already carry the five principle links; no claims made about the principles).
+- Saturation: fast-track exemption; no reciprocal proposed (page has no Related section; the five citing principles already link back).
+- QC: validator ok at fast-track profile; no advisor QC (item 6; next at item 10).
