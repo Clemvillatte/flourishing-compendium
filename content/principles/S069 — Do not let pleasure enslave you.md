@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 191** — Do not let pleasure enslave you
 
-Pleasure is not evil, but the pursuit of pleasure can enslave. The person who cannot be without a particular pleasure is not free. The Stoic enjoys pleasures without depending on them. Practise going without: fast from a pleasure to test your freedom from it.
+Epictetus asks the person tempted by a pleasure to consider its aftermath as well as its enjoyment. In Enchiridion 34, he sets anticipated regret against the satisfaction of abstaining ([Carter translation](https://classics.mit.edu/Epictetus/epicench.html)).
 
-(Disc. II.9, II.18, II.23; Ench. 15; Med. III.6, VI.13, VII.33; Seneca, Letters 59, 67.)
+> If you are struck by the appearance of any promised pleasure, guard yourself against being hurried away by it; but let the affair wait your leisure, and procure yourself some delay.
 
-**Plain words** Pleasure isn't evil, but chasing it can enslave you. Someone who can't do without a particular pleasure isn't free. Enjoy pleasures without depending on them. Test it by fasting from one.
+Epictetus, Enchiridion 34, [Elizabeth Carter translation](https://classics.mit.edu/Epictetus/epicench.html).
 
-*For example:* A week without your daily coffee reveals whether you have it or it has you.
+His dinner-party image also permits taking a moderate share: enjoyment need not mean grabbing what passes or reaching for what has not arrived ([Enchiridion 15](https://classics.mit.edu/Epictetus/epicench.html)).
+
+(Ench. 15, 34.)
+
+### Plain words
+
+Before saying yes, include what comes afterward in the decision. Would you still choose this if you gave tomorrow's regret as much attention as tonight's enjoyment? That is an everyday way to try Epictetus' exercise ([Enchiridion 34](https://classics.mit.edu/Epictetus/epicench.html)).
+
+### For example
+
+As a modern application, suppose another episode would mean breaking a promise to help someone early tomorrow. Pause before pressing play and weigh that cost, following the comparison Epictetus proposes ([Enchiridion 34](https://classics.mit.edu/Epictetus/epicench.html)).
+
+## Sources
+
+- [Epictetus, Enchiridion, Elizabeth Carter translation, Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html): chapters 15 and 34.
 
 ## Psychology parallels
 
