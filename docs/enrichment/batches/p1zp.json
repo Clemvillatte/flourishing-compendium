@@ -2,7 +2,8 @@
  "batch": "p1zp",
  "done": [
   "SP042",
-  "SP045"
+  "SP045",
+  "SP050"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,6 +11,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:13:49+00:00",
+ "updated": "2026-10-20T11:14:39+00:00",
  "band_done": false
 }
