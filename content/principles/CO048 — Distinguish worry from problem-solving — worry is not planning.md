@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 48** — Distinguish worry from problem-solving: worry is not planning
 
-Worry is verbal-linguistic, abstract, and future-oriented, but it is not problem-solving. It feels productive but is actually a form of cognitive avoidance (it suppresses imagery and physiological arousal). Problem-solving is concrete, action-oriented, and generative.
+> The results suggest that worry may inhibit emotional processing and thus preserve cognitive/affective fear structure.
 
-**Plain words** Worry is not planning. Worry is verbal, abstract, future-oriented, and feels productive — but it's a form of avoidance that suppresses the actual imagery and arousal. Planning writes steps; worry writes loops. Test yours: did it end in an action?
+(Borkovec and Hu, "The effect of worry on cardiovascular response to phobic imagery," Behaviour Research and Therapy 28(1), 1990, abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/2302151/).)
 
-*For example:* The person "preparing for the presentation" all week — but when asked for the first step of the plan, there isn't one — that was worry wearing planning's clothes. Real preparation produces notes, outlines, rehearsals. Worry produces nothing but the feeling of having worked.
+In that experiment, speech-anxious participants who had worried before picturing a feared scene "displayed significantly less heart rate response to the phobic image" than those in a neutral condition, yet "the worry group showed significantly greater subjective fear to the images than the neutral condition." So worry quieted the body in the short term without making people feel less afraid. This is the evidence behind the cognitive avoidance account of worry, in which worry serves an avoidant function. A later summary of this model notes that, on the account, worry works as "a cognitive avoidance strategy that is negatively reinforced via the inhibition of stressful imagery, somatic symptoms, and emotions" ([Cambridge, The Cognitive Behaviour Therapist](https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/revised-beckian-cognitive-therapy-for-generalised-anxiety-disorder/28064E2D4B8ED9374B4B7B90F38A46AC)).
+
+Worry is also mostly made of words. In a survey of 502 people, "worry was reported as being composed predominantly of thoughts rather than images," and excessive worriers reported an even higher share of thoughts (Freeston, Dugas and Ladouceur, Cognitive Therapy and Research 20, 1996, abstract; [Springer](https://link.springer.com/article/10.1007/BF02229237)).
+
+The model has limits. One study found that worry was associated with less imagery than relaxation, but also that other kinds of thinking, such as "present-oriented mentation," suppressed imagery even more, so "this property of worry is not sufficient to explain its occurrence" (Behaviour Research and Therapy 32(8), 1994; [PubMed](https://pubmed.ncbi.nlm.nih.gov/7993329/)). Another reported no sign that worriers' autonomic activity differed from non-worriers' ([PubMed](https://pubmed.ncbi.nlm.nih.gov/12405523/)). The entry's claim that problem-solving training reduces worry (D'Zurilla and Nezu, 2007) was not opened here.
+
+**Plain words** Worry is mostly words about possible futures. In the lab it dampened the body's response to a feared image while leaving people just as afraid, which fits the idea that it works as a way of avoiding the feeling. The theory has critics. A useful check is still whether a stretch of worrying ended in a concrete step.
+
+*For example (imagined):* The night before a presentation, someone loops through everything that could go wrong, then notices there is no outline. Writing the first slide heading is the move from worry to preparation.
+
+## Sources
+
+- [Borkovec & Hu (1990), Behav Res Ther 28(1), 69-73](https://pubmed.ncbi.nlm.nih.gov/2302151/) — PubMed abstract opened
+- [Freeston, Dugas & Ladouceur (1996), Cogn Ther Res 20, 265-273](https://link.springer.com/article/10.1007/BF02229237) — abstract opened
+- [Behav Res Ther 32(8), 851-855 (1994), "Worry and the suppression of imagery"](https://pubmed.ncbi.nlm.nih.gov/7993329/) — PubMed abstract opened
+- [Worry and heart rate variables: autonomic rigidity under challenge](https://pubmed.ncbi.nlm.nih.gov/12405523/) — PubMed abstract opened
+- [Avoidance model of worry, summary in Cognitive Behaviour Therapist](https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/revised-beckian-cognitive-therapy-for-generalised-anxiety-disorder/28064E2D4B8ED9374B4B7B90F38A46AC) — search excerpt opened
+
 ## Psychology parallels
 
 - **Worry as cognitive avoidance**, worry is a verbal activity that suppresses imagery and reduces physiological arousal, which negatively reinforces it (Borkovec et al., 1983; Borkovec & Hu, 1990)

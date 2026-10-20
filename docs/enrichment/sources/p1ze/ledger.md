@@ -189,3 +189,9 @@ Per-item evidence notes (owner concise-bar items 6-7). Manifest: BE012..CO061, 3
 - Sources opened: Nolen-Hoeksema 1991, 2000 abstracts; Nolen-Hoeksema/Wisco/Lyubomirsky 2008 abstract; Treynor et al. 2003 (author PDF excerpts); Whitmer & Gotlib 2011 abstract; Watkins et al. 2011 (Br J Psychiatry) abstract. Quotes verified verbatim.
 - Corrections: the 2000 paper concerns rumination overall (predicts onset; not chronicity after baseline control), not the brooding subcomponent; brooding/reflection split blurs in currently depressed (Whitmer & Gotlib). Watkins 2011 is Br J Psychiatry, n=42, no attention-control group.
 - QC: self-QC only; validator pass.
+
+## CO048 — Worry vs problem-solving
+- Sources opened: Borkovec & Hu 1990 abstract; Freeston/Dugas/Ladouceur 1996 abstract; Behav Res Ther 1994 (PMID 7993329) abstract; PMID 12405523 abstract; Cambridge CBT summary excerpt. Quotes verified verbatim.
+- Counter-evidence added (imagery suppression not specific to worry; autonomic rigidity not supported). The entry's "reduces physiological arousal" is narrower in Borkovec & Hu: reduced heart-rate response, but greater subjective fear.
+- D'Zurilla & Nezu 2007, Borkovec 1983 (stimulus-control paper, title only) not used/opened.
+- QC: self-QC only; validator pass.
