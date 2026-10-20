@@ -571,3 +571,20 @@ source; anything not opened is recorded as inherited and unverified.
   edit -> validate -> done -> save).
 - Saturation: no new reciprocals; K225 Service and creation is already the
   linked kernel.
+
+### B165 — Peace begins in your own mind (2026-10-20)
+- Opened: Dhammapada ch. 7 verse 96 (Buddharakkhita, dhp.07), the dhammatalks
+  net excerpts page from Peace Is Every Step, and the Lion's Roar interview
+  "In Engaged Buddhism, Peace Begins with You". All quoted fragments verified
+  verbatim against the fetched pages: Dhp 96 ("Calm is his thought, calm his
+  speech, and calm his deed..."), the Peace Is Every Step excerpt ("Peace is
+  present right here and now..."), and the interview line (blockquoted; the
+  source's typographic apostrophe in "don't" is preserved exactly).
+- Seed's "You can't hand anyone a calm you don't have; the bucket leaks into
+  the well" and the radiates-outward claim trimmed to the labelled
+  order-of-operations application grounded in the verified quotes (peace work
+  requires inner peace; calm extends through thought, speech and deed).
+  Hatfield claim tail trimmed to a bare attribution; Sy/Cote/Saavedra,
+  Hadot, Laozi inherited entries left as found.
+- Saturation: no new reciprocals; Emotional contagion is already the linked
+  target.
