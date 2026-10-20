@@ -39,6 +39,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 47,
- "updated": "2026-10-20T03:59:26+00:00",
- "notes": " | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content was already restored by the worker in 1f71a89a; B149/B152/B137 belong to their owning bands (B149 is in p1v's manifest, unclaimed). | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content already restored by the worker in 1f71a89a; B149 belongs to p1v (unclaimed)."
+ "updated": "2026-10-20T03:59:28+00:00",
+ "notes": " | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content was already restored by the worker in 1f71a89a; B149/B152/B137 belong to their owning bands (B149 is in p1v's manifest, unclaimed). | supervisor-0ddcdd37 reconciliation (2026-10-20): removed erroneous out-of-band entries (done: B152/B137/B149; flags: B125/B139/B140/B157/B163/B164/B165) per the worker's scope-correction request; content already restored by the worker in 1f71a89a; B149 belongs to p1v (unclaimed).",
+ "band_done": true
 }
