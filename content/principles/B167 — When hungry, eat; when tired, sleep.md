@@ -12,17 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 167** — When hungry, eat; when tired, sleep
 
-The simplest instruction and the hardest: do what you're doing, and only that. Hunger, eating; tiredness, sleep: no commentary.
+A dialogue attributed to Huihai has the Vinaya teacher Yuan ask about his practice. Huihai answers with eating and sleeping, then distinguishes his practice from eating while pondering other matters or sleeping while planning affairs ([Whitfield translation](https://terebess.hu/zen/huihai-eng1.html)).
 
-(Layman Pang; Zen tradition.)
+> To eat when hungry, to sleep when tired,
 
-**Plain words** The simplest instruction and the hardest: do what you're doing, and only that. Hunger, eating; tiredness, sleep — no commentary. Half of modern exhaustion is doing one thing while hosting a committee meeting about three others.
+(Huihai's reply, excerpt from Records of the Transmission of the Lamp 6.92, Randolph S. Whitfield, [Terebess mirror](https://terebess.hu/zen/huihai-eng1.html).)
 
-*For example:* Eating while walking while emailing while worrying — versus just eating. One of these is a meal.
+The contrast concerns how one takes part in ordinary activities. It does not make sleep a command that everyone can carry out immediately, or make distraction a reason to dismiss a meal as worthless. The compendium uses the dialogue as an invitation to stop adding optional tasks to an activity that already needs attention.
+
+**Plain words** If you have time to eat, could you leave another task until afterward? When thoughts interrupt, notice them and return to the meal rather than insisting on having no thoughts at all.
+
+*For example:* Imagine taking lunch while an unfinished message is open on your phone. You decide to answer after eating and put the phone aside. You may still think about the message; you do not have to keep composing it between bites.
+
+## Sources
+
+- [Records of the Transmission of the Lamp 6.92, translated by Randolph S. Whitfield, reproduced at Terebess](https://terebess.hu/zen/huihai-eng1.html): Huihai and Yuan's eating/sleeping dialogue.
 
 ## Psychology parallels
 
-- **[[Intuitive eating|Intuitive eating]]**, attunement to internal hunger and satiety cues (Tylka, 2006)
+- **[[Intuitive eating|Intuitive eating]]** (Tylka, 2006)
 
 ## Philosophy parallels
 

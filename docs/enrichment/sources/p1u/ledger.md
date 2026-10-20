@@ -123,6 +123,23 @@ scope error and restoration to the owner.
 - Saturation: Appraisal theory and Nirvana already cite B135; no redundant
   backlink or claim of psychological equivalence proposed.
 
+## B167: When hungry, eat; when tired, sleep (2026-10-20)
+
+- Membership verified. Search "Dazhu Huihai hungry eat tired sleep
+  practice", opened https://terebess.hu/zen/huihai-eng1.html .
+  Used Randolph S. Whitfield's Records of the Transmission of the Lamp,
+  vol.2 (2015), section 6.92, not removed Blofeld translation or a search
+  snippet. Quote is exact reply fragment ending comma as in source.
+- Corrected seed's unverified Layman Pang attribution to the Huihai
+  dialogue actually opened. Does not claim the dialogue is documented
+  verbatim historical speech or identify an earliest surviving version.
+- Removed unsupported "half of modern exhaustion" statistic. Application
+  does not demand instantaneous sleep, thought suppression or perfect
+  attention. Lunch/message example is explicitly imagined.
+- Tylka intuitive-eating mechanism removed as unchecked. Tylka, Zhaozhou
+  and Zhuangzi6 comparisons remain inherited, unverified.
+- Saturation: Intuitive eating and Ziran already cite B167.
+
 ## D105: Need little (2026-10-20)
 
 - Opened using web search followed by fetch: James Legge, Zhuangzi chapter 1,
