@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 58** — Recognise loneliness: it is a signal, not a character flaw
 
-Loneliness is the distress of perceived social disconnection. It is a signal, like hunger or thirst, that a basic need is unmet. It is not a sign of personal failure. Chronic loneliness is associated with significantly worse health outcomes.
+Loneliness is the distress that comes with perceived social disconnection. Cacioppo and Cacioppo's review describes loneliness as prompting renewed social connections while also heightening sensitivity to social threats:
 
-**Plain words** Loneliness is the distress of perceived social disconnection — a signal like hunger or thirst: a basic need unmet. Not a character flaw. And it's misleading: it makes you withdraw exactly when you need approach. Treat the signal as hunger — feed it with contact.
+> "Evidence indicates that loneliness heightens sensitivity to social threats and motivates the renewal of social connections, but it can also impair executive functioning, sleep, and mental and physical well-being." (Cacioppo & Cacioppo, 2014 — [Social Relationships and Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC4021390/) — Abstract)
 
-*For example:* The new arrival who spends the first month declining every invitation (loneliness says "nobody wants you anyway") — and the rule that reverses it: loneliness's advice is exactly backwards. The second month's rule — say yes regardless of the feeling — changes everything.
+On this account the feeling is a prompt rather than a verdict on the person feeling it. A meta-analysis covering 70 prospective studies of loneliness, social isolation and living alone (3,407,134 participants) reported an association between loneliness and higher odds of mortality (pooled OR 1.26) ([Holt-Lunstad et al., 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3024&context=facpub)).
+
+**Plain words**
+The feeling is information, not a verdict: it tells you contact is missing, not that you are unlovable. The compendium's suggestion is to ask what kind of contact you miss and whom you might like to approach, then use those questions to choose a manageable next step.
+
+**For example**
+Imagine someone who has recently moved cities. After a lonely weekend, they invite a colleague for coffee on Friday.
+
+## Sources
+
+- [Cacioppo & Cacioppo 2014, Social Relationships and Health: The Toxic Effects of Perceived Social Isolation, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4021390/) — Abstract: sensitivity to social threats and motivation to renew social connections.
+- [Holt-Lunstad et al. 2015, Loneliness and Social Isolation as Risk Factors for Mortality, full text](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3024&context=facpub) — Abstract and Discussion: mortality associations for loneliness, social isolation and living alone.
+
 ## Psychology parallels
 
-- **Loneliness as a biological signal**, the Cacioppo model treats loneliness as an evolved signal prompting reconnection (Cacioppo & Cacioppo, 2018)
-- **Chronic loneliness is a major health risk**, comparable to smoking and obesity in its association with mortality (Holt-Lunstad et al., 2015)
+- **Loneliness as a signal rather than a defect**, the Cacioppo model treats loneliness as a signal prompting reconnection (Cacioppo & Cacioppo, 2014)
+- **Chronic loneliness is a major health risk**, loneliness was associated with higher odds of mortality in the meta-analysis (pooled OR 1.26; Holt-Lunstad et al., 2015)
 
 ## Philosophy parallels
 
