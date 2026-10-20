@@ -362,3 +362,22 @@ Short, item-keyed evidence notes (owner decision 2026-10-20, PROTOCOL-PRINCIPLES
   SE059/SE063 bounding). Scope: the reviewed passages, quotations, locators and
   repairs; NOT certification of every inherited reference (bare-reference parallels
   remain flagged above). 16/30 done. NEXT: SO012.
+
+## SO012 — Cultural values as a lens, not a cage (item 17)
+- Sources opened: (1) Schwartz, "Basic Human Values: An Overview", Hebrew University
+  (archive.org PDF) — downloaded, pdftotext; definition sentence verified (curly
+  apostrophe in the source rendered straight; noted) and the values-as-beliefs sentence
+  verified (True). The PDF covers PERSONAL values; the body's cultural-level taxonomy
+  (Schwartz's autonomy/embeddedness, Hofstede, Inglehart-Welzel) is inherited and
+  NOT grounded by this paper — flagged, not certified. (2) Schwartz 2012 ORPC
+  article page (scholarworks.gvsu.edu) — fetched; the 82-countries abstract sentence
+  verified verbatim ("The findings reveal substantial differences in the value
+  priorities of individuals") — this grounds the "not individual destinies" claim.
+- Body: added the definition blockquote + emotion-tied-beliefs sentence + the
+  value-priorities-differ sentence. Plain words re-derived (was a semi-replicate:
+  repeated the lens/cage metaphor). Philosophy parallels reformatted from malformed
+  seed rows ("Thinker:/Reference:") into standard bullet format; content preserved;
+  the EEMM selection-criteria line kept with a cleaner format.
+- Saturation: 5 concept pages already cite SO012 (incl. Cultural dimensions theory
+  Hofstede, Cultural embeddedness); no additional links warranted. Validator ok.
+  DONE (no advisor QC due: item 17).
