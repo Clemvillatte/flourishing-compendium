@@ -6,13 +6,13 @@
   "Y108",
   "Y115"
  ],
- "in_progress": null,
+ "in_progress": "A009",
  "flagged": {
   "Y095": "Reopened for QC: advisor QC round-1 fail: translation attribution, mechanism overreach, humanizer defects",
   "Y097": "Reopened for QC: advisor QC round-1 fail: verse does not support the never-terminate mechanism; 61% replicate; example not labelled; saturation not run"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:26:57+00:00",
+ "updated": "2026-10-20T11:27:27+00:00",
  "band_done": false
 }
