@@ -105,3 +105,8 @@
 - Opened: Marcus Meditations X.6, VIII.34 (Long); George & Park 2016 abstract (Rutgers research portal).
 - Not opened: all other Meditations/Discourses/Seneca refs and Ench. 31, 53; Yaden 2017; Plotinus; Whitehead.
 - Note: passages do not address exploitation risk; "accepts their role" fair summary of X.6; George & Park is a loose parallel.
+
+## S112 — Handle fame without vanity
+- Opened: Marcus Med. IV.19 (Long); Seneca Letter 79 (Gummere); SEP Stoicism (reputation as preferred indifferent); Kasser & Ryan 1993 abstract (PMID 8366427).
+- Not opened: other Meditations/Seneca refs; Kernis 2003; Paulhus & Williams 2002; Fromm.
+- Note: "Marcus wrote that fame is worthless" overstated; Kasser & Ryan 1993 covers financial success, not fame (fame aspiration is in their 1996 paper, not opened).

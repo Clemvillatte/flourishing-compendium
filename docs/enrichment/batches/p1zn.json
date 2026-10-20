@@ -21,7 +21,8 @@
   "S083",
   "S091",
   "S093",
-  "S096"
+  "S096",
+  "S112"
  ],
  "in_progress": null,
  "flagged": {
@@ -45,9 +46,10 @@
   "S083": "'Compare only with yesterday's self' not found in Ench 25 (compendium formula); Meditations/Discourses refs, Festinger, Runciman, Laozi, Fromm not opened",
   "S091": "Appreciation purpose is compendium's addition; Koo 2008 imagines absence of a past event, not future loss; entry labels premeditatio with Letter 24 but the passage found is Letter 91.8; other refs not opened",
   "S093": "Passages opened do not address spoken complaint (compendium reading); Gross & John 2003 is a nearby finding (not Gross 2015); Hayes 2011, Seneca/Disc refs, Laozi not opened",
-  "S096": "Passages do not address exploitation risk raised in reflections; George & Park 2016 loose parallel (abstract only); Yaden 2017, Plotinus, Whitehead and most listed refs not opened"
+  "S096": "Passages do not address exploitation risk raised in reflections; George & Park 2016 loose parallel (abstract only); Yaden 2017, Plotinus, Whitehead and most listed refs not opened",
+  "S112": "'Marcus wrote fame is worthless' overstated (IV.19); Kasser & Ryan 1993 is about financial success not fame; Kernis, Paulhus & Williams, Fromm not opened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:51:38+00:00"
+ "updated": "2026-10-20T10:52:14+00:00"
 }
