@@ -23,3 +23,21 @@ a principle reserve from the active supervisor.
   asked for a definition of original enlightenment and removal of an evaluative
   run-up. Both exact changes applied, then validator re-run against 32150b77.
   Inherited Shobogenzo reference not independently authenticated.
+
+## Engaged Buddhism
+
+- Track: fast-track, current degree 7 (1 concept, 1 kernel, 4 principles, 1 story).
+- Opened 2026-10-20:
+  https://plumvillage.org/about/thich-nhat-hanh/interviews-with-thich-nhat-hanh/interview-for-shambhala-lions-roar-september-2007 .
+  Velcrow Ripper, Shambhala Sun, September 2007, republished by Plum Village.
+  Search: Thich Nhat Hanh engaged Buddhism definition.
+- Locator: Ho Chi Minh City, Thich Nhat Hanh's interview remarks on bomb victims,
+  relief work and maintaining practice. The quotation is one complete sentence,
+  beginning “That is why” and ending “doing the work.”
+- Evidence scope: first-person teaching and definition. Does not establish
+  a measured burnout-prevention effect. No date-of-coining assertion; search
+  results differed. Inherited Interbeing reference retained but not opened.
+- Saturation: fast-track exemption used. Existing links preserved; no new
+  cross-band backlink proposed.
+- QC: source-text comparison and fast-track preservation validator required
+  before done. Include in next independent milestone sample.
