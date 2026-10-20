@@ -48,6 +48,13 @@
       "phrase": "Autistic, ADHD, and other neurodivergent affective patterns",
       "why": "the neurodivergent-affect principle covers ADHD without linking AT069, which documents the interest-based attention evidence",
       "notes": "found by mention scan during AT069 saturation"
+    },
+    {
+      "into": "A011",
+      "type": "principle",
+      "phrase": "Graded exposure therapy",
+      "why": "the graded-exposure principle covers the approach treatment without linking BE025, which documents why avoidance maintains the fear the treatment targets",
+      "notes": "found by mention scan during BE025 saturation"
     }
   ],
   "inline": [
