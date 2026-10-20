@@ -374,3 +374,8 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - Baselines: Contingent self-esteem ff0b848c, Default mode network 78b9409a, both PASS under fast-track profile; build 5,720 ok.
 - Workflow correction noted for future repairs: reopen -> save/push -> edit -> validate -> done -> save/push; never replay completed transitions.
 - Still pending, not blocking w1c: p1f closure re-review; MO011 proposal application (supervisor).
+
+### Environmental psychology (2026-10-20, worker-p1f-9d3f7c2b)
+- Fast-track (degree 11). Opened source: Bratman et al., "Nature experience reduces rumination and subgenual prefrontal cortex activation", PNAS 112(28), 2015, abstract page at pnas.org (https://www.pnas.org/doi/abs/10.1073/pnas.1510459112).
+- 90-minute walk finding, rumination description and pathway/resource conclusions quoted verbatim from the opened abstract; field definition kept at the framing level of the original page's seed line (place attachment and nature exposure effects).
+- All original wikilinks preserved byte-exact (psychology parallels section, Sources entries). Added Related concepts: [[Rumination]], [[Nature exposure]], [[Place attachment]], [[Attention restoration]] (all resolve). Validation: fast-track PASS; build 5,720 ok.
