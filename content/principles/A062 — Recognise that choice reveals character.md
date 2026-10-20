@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 62** — Recognise that choice reveals character
 
-Your choices are not isolated events; they are expressions of who you are. Each choice strengthens or weakens a disposition. Over time, the pattern of choices becomes character, and character becomes destiny. Take each choice seriously as a building block of selfhood.
+Aristotle's reason is precise: choice "is thought to be most closely bound up with virtue and to discriminate characters better than actions do" (NE III.2). Actions can be forced, accidental, or aimed at impressing someone; the choice is "deliberate desire of things in our own power" (III.3), so it shows what, after thinking it over, you actually wanted. A single act can mislead; the pattern of choices is harder to fake.
 
-(NE III.5, VI.2-4.)
+The pattern also compounds. Aristotle insists "it is activities exercised on particular objects that make the corresponding character", and that men "make themselves responsible for being unjust or self-indulgent" by cheating and by drinking bouts (III.5). Each choice leaves the chooser slightly changed, and the changed chooser makes the next choice. He adds the warning: though we control the beginning of a state of character, "the gradual progress is not obvious any more than it is in illnesses" (III.5).
 
-**Plain words** Choices aren't isolated. Each one strengthens or weakens a disposition, and over time the pattern becomes character. So treat each choice as a building block, not a one-off.
+(NE III.2-3, III.5, W. D. Ross translation.)
+
+**Plain words** Anyone watching your actions can be fooled: an act can be forced, accidental, or staged. Your choices are harder to fake, because a choice is what you wanted after you had time to think. That is why Aristotle reads character out of choices rather than deeds. The reading runs both ways: each choice nudges the person making it, so the choices you repeat are the person you are becoming.
 
 *For example:* Skipping your usual walk "just once" a few times in a row quietly changes you into someone who doesn't walk.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics Book III, W. D. Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — III.2-3, III.5
 
 ## Psychology parallels
 

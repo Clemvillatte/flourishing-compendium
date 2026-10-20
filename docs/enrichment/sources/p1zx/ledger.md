@@ -50,3 +50,11 @@ Opened: Aristotle, Nicomachean Ethics Book V (W. D. Ross trans.), MIT Classics h
 - Rewrite: body rebuilt on V.10 (blockquote + inline fragments), Plain words re-derived on the universal-rule problem + leaden-rule image (old plain words were a body replicate), For example labelled imagined. Front-matter, reflections comment and all 3 wikilink occurrences preserved. Validator ok, 193 prose words, 0 dashes.
 - SATURATE: mention hunt run; Moral situation research and Procedural justice concept pages already link A051 structurally; no new reciprocals needed (A051 was not underlinked). Equity theory concept deliberately not linked (Adams' equity is a different construct).
 - Advisor QC: not due (item 2; cadence is first item + every 5th; next at item 5).
+
+## A062 — Recognise that choice reveals character
+
+Opened: Aristotle, Nicomachean Ethics Book III (W. D. Ross trans.), MIT Classics https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html, chapters 2, 3, 5 fetched and quoted from the fetched page text.
+- Verbatim fragments: "is thought to be most closely bound up with virtue and to discriminate characters better than actions do" (III.2); "deliberate desire of things in our own power" (III.3, MIT's rendering); "it is activities exercised on particular objects that make the corresponding character"; "make themselves responsible for being unjust or self-indulgent"; "the gradual progress is not obvious any more than it is in illnesses" (III.5).
+- Rewrite: body re-centred on the III.2 reveal line (old body was the build-your-character reading with the non-Aristotelian "character becomes destiny" formula, removed); Plain words re-derived (harder-to-fake framing); For example (walking) kept, it matches III.5. Front-matter, reflections, both psychology wikilinks and the Sartre wikilink preserved. Validator ok, 157 prose words, 0 dashes.
+- SATURATE: mention hunt run; Existence preceds essence concept and the A-S05 layer already link A062 structurally; no underlinked targets found; no new reciprocals proposed.
+- Advisor QC: not due (item 3; next milestone at item 5).

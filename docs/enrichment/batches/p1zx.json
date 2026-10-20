@@ -5,7 +5,8 @@
   "E066",
   "E110",
   "SE082",
-  "A051"
+  "A051",
+  "A062"
  ],
  "in_progress": null,
  "flagged": {
@@ -13,6 +14,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T13:00:04+00:00",
+ "updated": "2026-10-20T13:00:56+00:00",
  "band_done": false
 }
