@@ -144,6 +144,9 @@ hallucinations.
 - Three thousand realms in one thought (enriched in w1g 2026-10-20; queue s2, 38w) —
   the title IS the tradition's own term (yi nian san qian) per the opened source; listed
   here only to note the Mohe Zhiguan quotation-provenance caveat in the w1g ledger.
+- The rhythm of life (enriched in w1g 2026-10-20; queue s2, 53w) — the opened Neiye V
+  (Roth) grounds the breath-as-rhythm teaching ("the vital breath is regular"), but the
+  page title is the compendium's heading. Pending supervisor verification/rename/merge.
 - Sufficiency (enriched in w1g 2026-10-20) — the opened Daodejing 33/44 grounds the
   teaching, but the queue does not list "Sufficiency" itself; it lists "Zhi zu (knowing
   sufficiency)" (s3, 6w) and "Self-sufficiency" (s3, 4w). The page title is generic

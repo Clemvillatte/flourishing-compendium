@@ -449,7 +449,7 @@
 
 - OPENED: Harold D. Roth, Original Tao: Inward Training (Nei-yeh) and the Foundations
   of Taoist Mysticism, full text on archive.org (djvu text; the same source band p1t
-  already used for D153/D187) \u2014 downloaded via curl and read directly. Verse V used
+  already used for D153/D187) — downloaded via curl and read directly. Verse V used
   verbatim (verified in the raw text: "The Way has no fixed position; / It abides
   within the excellent mind. / When the mind is tranquil and the vital breath is
   regular, / The Way can thereby be halted."); chapter XXI's balanced-breathing
@@ -459,8 +459,8 @@
 - IS-IT-A-CONCEPT check: the page TITLE is the compendium's heading; the opened text
   grounds the breath-as-rhythm teaching ("the vital breath is regular") but does not
   use this phrase as a named term. Grep at this round: no entry in
-  concept-namespace-audit.md; on the concept-verification-queue ("The rhythm of
-  life", s2 \u2014 see queue listing). Flagged for supervisor disposition alongside the
+  concept-namespace-audit.md; on the concept-verification-queue (s2, 53w; verified by
+  grep this round). Flagged for supervisor disposition alongside the
   other w1g title questions (added to the audit worker-flags section this round).
 - FLAG (inherited, protected): the preserved Sources lines "breath as rhythm" and
   "Daoism, Neiye" are placeholder artifacts, preserved per protection rules.
