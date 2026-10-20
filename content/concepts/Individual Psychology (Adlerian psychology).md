@@ -43,9 +43,9 @@ Self · Psychological science
 
 ## Related concepts
 
-- [[Psychoanalysis]] — the tradition Adler left
-- [[Self psychology]] — the later depth-psychology kinship
-- [[Goal-directed behavior theory]] — the goal-directedness in other dress
+- [[Psychoanalysis]]
+- [[Self psychology]]
+- [[Goal-directed behavior theory]]
 
 ## Sources
 

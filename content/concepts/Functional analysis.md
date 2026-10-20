@@ -9,8 +9,6 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the ABC (antecedent-behavior-consequence) of behavior (Hayes et al., 2020).
 
-Functional analysis asks what a behavior does rather than what it looks like. The analysis runs through antecedents and consequences: what came just before the behavior, and what the behavior got or removed afterward.
-
 The methodology's review article states its focus plainly:
 
 > "Functional analysis methodology focuses on the identification of variables that influence the occurrence of problem behavior and has become a hallmark of contemporary approaches to behavioral assessment." (Hanley, Iwata and McCord, [Functional analysis of problem behavior: a review, Journal of Applied Behavior Analysis 36 (2003), pp. 147-185, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/))
@@ -21,7 +19,7 @@ The review's inclusion criteria show the method's discipline:
 
 > "Studies included in the present review were those in which (a) a pretreatment assessment based on (b) direct observation and measurement of (c) problem behavior was conducted under (d) at least two conditions involving manipulation of an environmental variable in an attempt (e) to demonstrate a relation between the environmental event and behavior." (Hanley, Iwata and McCord, [2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/))
 
-The point is experimental: change the environment and see whether the behavior changes with it, rather than inferring function from the behavior's shape ([Hanley et al., 2003, abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/)).
+Their review required direct observation of problem behavior under at least two conditions in which an environmental variable was manipulated ([Hanley et al., 2003 abstract](https://pubmed.ncbi.nlm.nih.gov/12858983/)).
 
 ## Facets
 

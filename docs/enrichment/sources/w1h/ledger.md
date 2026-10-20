@@ -299,9 +299,11 @@
   OCR-corrupted sentence dropped from the quote (clean second sentence quoted
   verbatim instead — no silent OCR correction); the benefit-others sentence now
   an explicit verbatim blockquote.
-- Validation-gate fix: the done transition now sits inside the
-  successful-validation branch (grep for "0 failed" in the output text; the
-  validator's exit code is unreliable — earlier calls returned both 0 and 1 on
-  FAIL); crash-protection saves remain independent.
+- Validation-gate fix (corrected): the earlier failure happened because the
+  conditional guarded only the ledger append while save and done ran outside
+  it; the validator itself exits 1 on FAIL (the misleading 0 came from a shell
+  pipeline reporting the exit status of a later command). The done transition
+  now sits inside the successful-validation branch, and validation is run
+  without a pipeline; crash-protection saves remain independent.
 - Baseline check for Adler: front-matter byte-identical and zero lost links vs
   c2a3ee47 (the file's true pre-edit state), verified via --base.

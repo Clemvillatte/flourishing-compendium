@@ -9,13 +9,13 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Focus theory of attention** — the attended stimulus dominates awareness and processing; focus determines what becomes of experience.
 
-The theory's laboratory form is the zoom lens model of Charles Eriksen and James St. James, a related model the compendium's own attention principles draw on ("Your attention has a zoom lens", AT017). Before it, the standard picture was a spotlight: attention illuminates a fixed patch of the visual field. Their 1986 paper proposed a variable-power lens instead, one that can widen or narrow ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)):
+One related model of visual attention is Eriksen and St. James's zoom-lens model ([1986 abstract](https://link.springer.com/article/10.3758/BF03211502)):
 
 > "The operation of attention in the visual field has often been compared to a spotlight. We propose that a more apt analogy is that of a zoom or variable-power lens." (Eriksen and St. James, [Visual attention within and around the field of focal attention: A zoom lens model, Perception & Psychophysics 40 (1986), pp. 225-240, abstract](https://link.springer.com/article/10.3758/BF03211502))
 
 ### What the lens means
 
-The paper posed its trade-off as questions: can the spatial extent of the attentional focus vary in response to precues, does processing efficiency within the focus decrease as the attended area increases, and is the boundary of the focus sharply demarked from the residual field or does it show a gradual dropoff in processing resources ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502))? The results, in the authors' summary, were in good agreement with the zoom lens model ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). Whether the seed's title maps onto this specific model is unresolved in the compendium; the seed cites no source.
+Their experiments asked whether advance cues could change the size of the attended region, whether widening it reduced processing efficiency, and whether resources declined gradually at its edge ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). The results, in the authors' summary, were in good agreement with the zoom lens model ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). Whether the seed's title maps onto this specific model is unresolved in the compendium; the seed cites no source.
 
 ### In the compendium
 
