@@ -14,20 +14,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 The slogan is from the Seven Points of Mind Training (Chekawa, point two, slogan 8). In Trungpa's rendering, the three objects are friends, enemies, and neutrals; the three poisons are passion, aggression, and ignorance or delusion; the three seeds of virtue are the absence of passion, aggression, and ignorance. Trungpa glosses the poisons in terms of what they want to do: passion is wanting to magnetize or possess, aggression is wanting to reject, attack, cast out, and ignorance or indifference is that you couldn't be bothered.
 
-> "Whenever any of the three poisons happens in your life, you should do the sending and taking practice. You just look at your passion, your aggression, and your delusion — you do not regard them as a problem or as a promise."
-> (Chögyam Trungpa, Training the Mind and Cultivating Loving-Kindness, commentary on slogan 8; [Spirituality and Practice reproduction](https://www.spiritualityandpractice.com/practices/practices/view/28555/three-objects-three-poisons-and-three-seeds-of-virtue).)
+> "Whenever any of the three poisons happens in your life, you should do the sending and taking practice."
+> (Chögyam Trungpa, Training the Mind and Cultivating Loving-Kindness, commentary on slogan 8; reproduced at [Spirituality and Practice](https://www.spiritualityandpractice.com/practices/practices/view/28555/three-objects-three-poisons-and-three-seeds-of-virtue).)
 
-The reversal Trungpa describes is the working part of the practice. If you have no object of aggression, you cannot hold your own aggression purely by yourself; the same holds for passion and for ignorance. Holding your poison, you let go of the object of your poison. His formulation: you cut the root of the three poisons by dealing with others rather than by dealing with yourself.
+Trungpa's commentary continues that this means looking at your passion, your aggression, and your delusion, without regarding them as a problem or as a promise, and then saying, while in a state of aggression, "May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression." The same is done for passion and for indifference.
 
 (Seven-Point Mind Training, point two; Trungpa's commentary.)
 
-**Plain words** Three objects: people and things you want to pull toward you, people and things you want to push away, and people and things you don't think about at all. Passion, aggression and indifference get their grip by being aimed at something. The practice holds the poison instead of its object. Trungpa's example is aggression: "May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression."
+**Plain words** When you notice hostility, wanting or indifference in yourself, use that reaction as an occasion to wish others freedom from the same difficulty. Trungpa places this within sending-and-taking practice.
 
-*For example:* Imagine you feel a flash of irritation at a colleague. Trungpa's version of the exercise is not to fix the irritation or to name its trigger; it is to say, internally, "May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression."
+*For example:* Imagine feeling irritated with a colleague. Following Trungpa's example, you acknowledge your own aggression and silently wish that all beings could be free of aggression.
 
 ## Psychology parallels
 
-- **[[Cognitive restructuring|Cognitive restructuring at the trigger point]]**, the CBT procedure of catching the automatic thought and installing the alternative (Beck, 1976; Gross, 2015, for reappraisal)
+- **[[Cognitive restructuring|Cognitive restructuring at the trigger point]]** (Beck, 1976; Gross, 2015, for reappraisal)
+- **[[The three poisons|The three poisons]]** — the Buddhist tradition's name for the trio Trungpa glosses
 
 ## Philosophy parallels
 
