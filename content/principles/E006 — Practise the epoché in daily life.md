@@ -16,14 +16,14 @@ In Ideas I, the epoché suspends the natural attitude's general positing: the st
 
 > The general positing, by virtue of which there is not just any continual apprehensional consciousness of the real surrounding world, but a consciousness of it as a factually existing "actuality," naturally does not consist of a particular act, perchance an articulated judgment about existence. It is, after all, something that lasts continuously throughout the whole duration of the attitude, i.e., throughout natural waking life. (Husserl, Ideas I §31, Kersten trans., [full text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
 
-Because the positing runs through waking life rather than appearing as a judgment, the suspension can be practised anywhere a reaction is running. The compendium exercise is the bracketing at small scale: when an automatic interpretation catches you, put it out of action without denying or doubting it, and ask what then appears.
+Husserl's epoché is a step in phenomenological inquiry, and in §§31-32 it is described as the suspension of the natural attitude as a whole. The compendium borrows the gesture as a daily-life exercise, and the borrowing is an analogy rather than the method itself: when an automatic interpretation catches you, set it out of action without denying or doubting it, and ask what then appears.
 
 (Husserl, 1913/1982, Ideas I, §§31-32.)
 
 **Plain words**
-The thing you suspend is rarely a spoken belief. It is the background acceptance that keeps running while you are awake, and it colours what a text, a silence or a meeting seems to mean. The practice is to bracket one of those readings for a moment: not to declare it false, not to argue with it, just to set it out of action and look at what is left. What appears may confirm the reading or replace it; either way you see it as a reading.
+What Husserl suspends is a whole attitude toward a world; what the exercise suspends is one reading of one situation. The exercise keeps his two cautions from §32: you are not calling the reading false, and you are not doubting the facts it is about. You set it out of action for a moment and look at what is left.
 
-*For example:* Imagine a curt four-word text that arrives at 6:50 in the evening and reads as rejection. Bracket the reading: name it (she is angry), set it aside without deciding it is false, and re-describe the bare fact: four words, sent at a time she is usually driving. The rejection reading becomes one possibility among others instead of the whole story.
+*For example:* Imagine a curt four-word text that arrives at 6:50 in the evening and reads as rejection. Name the reading, set it aside without deciding it is false, and re-describe the bare fact: four words, sent at a time she is usually driving. The rejection reading then sits as one possibility among others.
 
 ## Sources
 
