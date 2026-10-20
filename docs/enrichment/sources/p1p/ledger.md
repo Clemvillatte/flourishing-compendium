@@ -303,3 +303,22 @@ priority, then B items in manifest order (manifest lists bare IDs; no titles).
 - QC accuracy note: advisor QC ran at session items 1, 5, 10 and 15 (first item
   plus every fifth) — sample review at milestones, not individual review of every
   item. Validator and supervisor spot-checks cover the gap per the speed directive.
+
+## B111 — Rest in contentment: the greatest wealth
+
+- Opened (via direct download + local text extraction after the fetch tool's
+  extraction credits ran out; full page text parsed): Dhammapada ch. 15 page (same
+  URL as B093) — verse 204; and
+  https://www.accesstoinsight.org/tipitaka/sn/sn01/sn01.010.than.html (SN 1.10
+  Arañña Sutta, Thanissaro translation) — devata's question and the Buddha's reply.
+- Verbatim quotes used: Dhp 204; SN 1.10 "They don't sorrow over the past, don't
+  long for the future. They survive on the present. That's why their faces are
+  bright & serene." The verse's ranking paraphrase and the devata-question frame
+  checked against the opened texts. The green-reed fools line noted but not quoted.
+- The original body's "richest person in the room" and "arithmetic, not
+  resignation" quips removed; the statement's own wording ("know what you have")
+  carried into the plain-words inventory exercise.
+- Limitations: inherited parallels (Emmons and McCullough 2003; Kahneman and Deaton
+  2010; Killingsworth et al. 2023; Epicurus; Seneca) NOT opened; flagged inherited
+  parallels. Linked concepts (Gratitude, Ataraxia, Sufficiency) bodies to be read
+  per the post-QC protocol.
