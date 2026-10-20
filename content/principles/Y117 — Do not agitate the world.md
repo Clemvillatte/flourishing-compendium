@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 117** — Do not agitate the world
 
-The Gita's test of maturity runs both directions: the person who neither agitates the world nor is agitated by it. Each clause is a practice: to be a non-agitating presence (speech, timing, demands) and to become hard to agitate (equanimity under provocation). Practically, pick your most agitating environment and practice both clauses there for a month.
+In chapter 12 Krishna describes the person dear to him, and one verse works in both directions:
 
-(BG 12.15.)
+> Those who are not a source of annoyance to anyone and who in turn are not agitated by anyone, who are equal in pleasure and pain, and free from fear and anxiety, such devotees of Mine are very dear to Me.
 
-**Plain words** The test of maturity runs both directions: the person who neither agitates the world nor is agitated by it. Two practices in one — be a non-agitating presence (speech, timing, demands), and become hard to agitate (equanimity under provocation). Pick your weaker clause.
+(BG 12.15, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/12/verse/15/).)
 
-*For example:* The office's two extremes: the one whose entrances raise the room's temperature, and the one who melts at every email. The mature position is the colleague who does neither — the one everyone instinctively keeps in the loop.
+Mukundananda's commentary treats the two clauses separately. Devotees are not a source of annoyance because "devotion melts and softens the heart, and so the devotees naturally become gentle in their dealings with everyone". They are not agitated because others may still try to hurt them: "the saints always maintained a compassionate attitude even toward the inimical".
+
+The commentary reads both as results of devotion. The page's idea of working on them as two separate practices, being a non-agitating presence and being hard to agitate, is a modern way of using the verse. So is the month-long trial in your most agitating setting.
+
+**Plain words**
+
+The verse describes someone who does not rattle other people and is not easily rattled by them. Most of us are better at one half than the other. Some people are calm under provocation and keep provoking others. Some are gentle and fall apart at the first rude email. Find your weaker half and work on it in the place where it matters.
+
+**For example**
+
+A manager with a short fuse realizes that her team goes quiet when she walks in. For a month she works on her tone in meetings. The calm she gets from it also helps when a client shouts at her.
+
 ## Psychology parallels
 
 - **[[Emotional contagion|Emotional contagion and co-regulation]]**, the research showing one person's state spreads through groups (Hatfield et al., 1994)
@@ -26,3 +37,7 @@ The Gita's test of maturity runs both directions: the person who neither agitate
 ## Philosophy parallels
 
 - **The undisturbed and undisturbing** (Laozi, Daodejing 15)
+
+## Sources
+
+- [Bhagavad Gita 12.15, Swami Mukundananda, holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/12/verse/15/)

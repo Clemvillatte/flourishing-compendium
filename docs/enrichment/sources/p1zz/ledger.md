@@ -42,3 +42,11 @@
 
 ## Y030 (YS 2.30, 2.37)
 - Woods p. 178 (2.30 + Vyasa on theft "when free from coveting"), p. 186 (2.37 "all jewels approach him"). Quotes verified (ellipses mark OCR footnote markers/Sanskrit gloss). Old claim of extension to time, attention, credit labelled modern. Plain words and example replaced; example imagined.
+
+## Y117 (BG 12.15), Y121 (BG 6.32), Y067 (BG 13.8-12, 6.10), Y122 (BG 13.8-12, 4.34)
+- Mukundananda pages 12.15, 6.32, 13.8 (text covers 13.8-12 as one passage; 13.10 and 13.11 URLs return the same text), 6.10, 4.34 opened with commentary; quotes verified programmatically.
+- Y117: clauses are reported as devotion's results in the commentary; two-practice framing and month-long trial labelled modern.
+- Y121: old claim "relationships are where practice is proven" is the page's reading of 6.32; commentary's body-limb analogy added; flare-up experiment labelled modern.
+- Y067: old "ease with being alone": commentary says solitude is not a cure for loneliness; seclusion in 6.10; "one to two hours" from commentary; "first fifteen minutes after rejoining" labelled the page's own. Locator corrected to BG 13.8-12 (the page prints it as one passage).
+- Y122: old "fault-finding company" and "protected learning environment (Chandogya 6)" are not in the opened texts; dropped from claims; closest-five audit labelled the page's own. Locator "Chandogya 6 context" dropped (6.1 opened for Y119 shows no such claim).
+- All four: plain words and examples replaced; examples imagined.
