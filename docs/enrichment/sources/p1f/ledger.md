@@ -7,3 +7,9 @@
 - Verbatim quotes: the p.146 home-ground passage and the p.283 "world of primal fact" passage, exact as reproduced in the article.
 - The seed's "willow is green, flower is red" tag line: no opened source for it this session, so it was removed from the locator line rather than quoted (Zen-tradition attribution unverified here); noted for supervisor in case a prior band verified it.
 - Plain words re-derived (want-nothing encounter exercise); example kept with outcome claim removed. Rogers parallel left as inherited (not opened this session).
+
+### MO011 — Recognise that motivation can be autonomous or controlled (2026-10-20, worker-p1f-7e93856c)
+- State: seed → done.
+- Source opened: https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf (Deci & Ryan 2008, Canadian Psychology 49(1), 14-23, official SDT site).
+- Verbatim quotes: the "type of motivation is generally more important than the amount" passage and the autonomous/controlled definition passage.
+- Plain words re-derived (two-engines framing, pressure-source check); original parent-care example kept (aligned with the opened abstract's persistence/psychological-health claims). Inherited parallel citations (Deci & Ryan 2000; Ryan & Deci 2017; Bartholomew et al. 2011) left as inherited (not separately opened; the opened 2008 paper supports the core distinction).

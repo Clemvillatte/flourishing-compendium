@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 11** — Recognise that motivation can be autonomous or controlled: the source matters
 
-Motivation can be autonomous (from within — interest, value, identity) or controlled (from without — reward, punishment, pressure, guilt). Autonomous motivation is associated with better outcomes, persistence, and well-being. Controlled motivation is fragile and associated with burnout.
+Self-determination theory's central move is to stop treating motivation as a quantity. Deci and Ryan argue that the type of motivation matters more than the amount: the same behavior can be pushed by external pressure or pulled by volition, and the difference shows up in outcomes from persistence to well-being. (Deci & Ryan, 2008.)
 
-**Plain words** There's a world of difference between "I choose this" and "I have to" — same behaviour, different fuel. Autonomous motivation energises; controlled motivation corrodes. Whenever possible, re-choose the thing instead of just enduring it.
+> "Self-determination theory (SDT; Deci & Ryan, 2000; Ryan & Deci, 2000), in contrast, has maintained that there are different types of motivation—specifically, autonomous and controlled motivation—and that the type of motivation is generally more important than the amount in predicting life's important outcomes." (Deci & Ryan, 2008)
+
+> "Autonomous motivation involves behaving with a full sense of volition and choice, whereas controlled motivation involves behaving with the experience of pressure and demand toward specific outcomes that comes from forces perceived to be external to the self." (Deci & Ryan, 2008)
+
+The distinction sits in the experience, not in the presence of rewards as such: a paid activity can be autonomous if you have endorsed it, and an unpaid one can be controlled if guilt is doing the pushing.
+
+**Plain words**
+Two engines, same speedometer. You can do the same thing from pressure (someone watching, guilt, fear of falling behind) or from choice (you endorse what you are doing, even the hard parts). The check is simple: if the pressure source vanished tonight, would you still do it tomorrow? If the answer is no, you are running on someone else's fuel, and knowing that is worth knowing before you blame yourself for the behavior.
 
 *For example:* Two people doing the same caring duty for a parent — the one who re-chose it ("I'm doing this because it matters to me") burns out slower than the one martyring through it. Same task, different engine.
+
+## Sources
+
+- [Deci & Ryan (2008), Facilitating Optimal Motivation and Psychological Well-Being Across Life's Domains, Canadian Psychology 49(1), 14-23 (PDF, selfdeterminationtheory.org)](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf)
 ## Psychology parallels
 
 - **[[Autonomous versus controlled motivation|Autonomous vs controlled motivation (SDT)]]**, autonomous motivation (intrinsic, identified) is more sustainable than controlled (external, introjected) (Deci & Ryan, 2000; Ryan & Deci, 2017)
