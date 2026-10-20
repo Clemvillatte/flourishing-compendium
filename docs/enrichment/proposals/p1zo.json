@@ -1,6 +1,6 @@
 {
  "batch": "p1zo",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Identity development",
@@ -53,8 +53,8 @@
   {
    "into": "Socioemotional selectivity theory (Carstensen)",
    "link": "SE075",
-   "why": "the positivity-effect evidence behind this principle's ageing-self claim",
-   "notes": "SST concept page does not link SE075. Evidence in sources/p1zo/SE075.md (Carstensen et al. 2011, opened via PMC)."
+   "why": "age-related emotional-experience findings in long-run samples",
+   "notes": "SST concept page does not link SE075; labelled as the age-well-being finding, not proof of self-development. Evidence in sources/p1zo/SE075.md (Carstensen et al. 2011, opened via PMC)."
   },
   {
    "into": "The examined life",
