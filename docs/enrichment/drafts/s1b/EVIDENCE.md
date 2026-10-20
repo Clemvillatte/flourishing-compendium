@@ -2,16 +2,16 @@
 
 ## Status
 
-These are unqueued research candidates for supervisor selection. The owner assigned this session a storytelling mission, but the central registry still leaves s1b unassigned; the request is in ROUTE.md. No lane baton has been claimed, no story-state items have been started, and no draft is ready for integration.
+The owner explicitly instructed this session to keep going in response to the proposed D107/B088/P196 s1b assignment. The lane baton is now held by storyteller-caa860fe; candidates are being activated sequentially through story_state.py and validated before readiness. The shared registry remains supervisor-owned, and only the supervisor can publish stories or write principle backlinks.
 
 ## Candidate dossiers
 
-- **Daoism, D107:** [The Pheasant That Does Not Ask for a Coop](candidate-D107.md), a compact Zhuangzi comparison about provision that does not suit the creature receiving it.
+- **Daoism, D107:** [The Pheasant That Does Not Ask for a Coop](s1b-001.md), a compact Zhuangzi comparison about provision that does not suit the creature receiving it.
 - **Buddhism, B088:** [The Cowherd After the Harvest](candidate-B088.md), a canonical retrospective account linking repeated mental pursuit with inclination and contrasting two forms of watchfulness.
 - **Pragmatism/process, P196:** [The Four Clock Strokes Bergson Had Not Counted](candidate-P196.md), a philosophical illustration of an initially uncounted impression guiding numerical reconstruction.
 - **Coordination:** [Scope request, save checkpoints and questions for the supervisor](ROUTE.md).
 
-All three files contain a proposed principle/angle, evidence metadata, a coverage matrix, a sourced retelling, an exact quotation, interpretation limits and QC notes. They are proposals rather than activated story IDs or reservations of central scope.
+All three files contain a principle/angle, evidence metadata, a coverage matrix, a sourced retelling, an exact quotation, interpretation limits and QC notes. The lane state records each actual activation and readiness transition; no ST number is assigned by the storyteller.
 
 ## Validation checkpoint
 
@@ -37,4 +37,4 @@ Independent first-candidate review and re-review returned substantive PASS for B
 
 ## Scope and publication boundary
 
-The supervisor should assign whichever of D107, B088 and P196 remain useful and non-overlapping, then authorize the s1b baton claim and the ordinary story_state.py workflow. Candidate files are not automatically eligible for registration: recheck duplicates, reconcile scope, complete advisor QC, run story_check and only then transition actual lane items through the documented states.
+The owner's latest approval activates D107, B088 and P196 under s1b, with the scope request and exact proposed angles preserved in ROUTE.md for the supervisor's registry reconciliation. Each item must still pass duplicate review, advisor QC when due and story_check before ready; only the supervisor may choose separate-story versus ST120 enrichment for P196, register any ST number and write backlinks.
