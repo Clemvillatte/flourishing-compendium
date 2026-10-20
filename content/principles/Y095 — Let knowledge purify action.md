@@ -12,13 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 95** — Let knowledge purify action
 
-The Gita's claim is strong: nothing purifies like knowledge, and knowledge, once assimilated, acts on conduct the way fire acts on fuel. The practical reading runs both directions: act from what you have verified, and let your actions test your knowledge. Practically, after each significant decision, note which piece of knowledge it expressed, and audit the knowledge after the outcome.
+The Gita argues two things in one place. First, that knowledge is the highest purifier available to a person: not the accumulation of facts but seeing the structure of action and its fruits accurately, which dissolves the self-interest that would otherwise keep the action bound. Second, that the knowledge works the way fire works on fuel — it consumes the hold that action's expected results have on the mind. The knowledge does not stop the action. It changes what the action is doing to the actor.
 
-(BG 4.33-4.38.)
+> "Verily, there is no purifier in this world like knowledge. He who is perfected in Yoga finds it in the Self in time." (Bhagavad Gita 4.38, Sivananda translation)
 
-**Plain words** Nothing purifies like knowledge, says the Gita — and knowledge, assimilated, acts on conduct the way fire acts on fuel. The practical reading runs both directions: act from what you've verified, and let your actions test your knowledge. After each significant act, check the knowledge it ran on.
+> "As the blazing fire reduces fuel to ashes, O Arjuna, so does the fire of knowledge reduce all actions to ashes." (Bhagavad Gita 4.37, Sivananda translation)
 
-*For example:* Someone "knows" the colleague's behaviour is insecurity-driven — then snaps at them anyway — and audits the gap: the knowledge wasn't actually running the action yet. The fire hadn't reached the fuel.
+**Plain words** The verse says two things at once: nothing cleans a life up like actually understanding it, and the understanding works by consuming the grip that the hoped-for payoff has on you. Not the act itself; the stranglehold on its result. You still act, but you act on what you now understand, not on what you are hoping to secure. When you test an old habit of thinking against a fresh fact, you are letting one fuel log burn.
+
+*For example:* Someone has read that a colleague's sniping tracks their own insecurity. They still snap back the next morning. The reading was a held belief; the knowledge had not yet burned the fuel. After the incident they look again at what actually happened, and next week they pause longer before answering — the payoff is starting to lose its hold.
 ## Psychology parallels
 
 - **Implementation of knowledge as behavior change**, the intention-behavior gap and its bridges (Sheeran, 2002)
