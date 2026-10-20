@@ -25,21 +25,21 @@
   "R110",
   "R119",
   "R127",
-  "S037",
   "S041",
   "S046",
   "S015",
   "S027",
   "S034"
  ],
- "in_progress": null,
+ "in_progress": "S037",
  "flagged": {
   "S015": "QC repair verified: inherited generic prose removed; standalone exact quote; saturation completed; validator PASS.",
   "S027": "QC repair verified: inherited unsupported prose removed; source quote standalone; saturation complete; validator PASS.",
-  "S034": "RESOLVED after worker QC: standalone verified quote; unsupported inherited causal claim removed; saturation and validator PASS."
+  "S034": "RESOLVED after worker QC: standalone verified quote; unsupported inherited causal claim removed; saturation and validator PASS.",
+  "S037": "Reopened for QC: Standalone quote; remove inherited no-debt simplification; saturation check."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:16:09+00:00",
+ "updated": "2026-10-20T10:16:18+00:00",
  "band_done": false
 }
