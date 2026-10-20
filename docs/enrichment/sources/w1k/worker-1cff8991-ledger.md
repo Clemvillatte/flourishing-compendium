@@ -68,3 +68,10 @@ Worker `worker-w1k-1cff8991`, 2026-10-20. Took stale band at 20/70 after complet
 - Opened full [Penelope Brown 2015, Politeness and Language](https://pure.mpg.de/rest/items/item_1719314_10/component/file_2152013/content), especially pp. 327–328. Exact short quote is a labelled excerpt.
 - Replaced duplicated bold seeds and unqualified universal-system claim with attributed model and the co-theorist's own limits. Full 1987 book was not opened; no direct quote attributed to having read it.
 - Original schema-2 frontmatter, Field and every original cited-in link preserved. Fast-track saturation skipped; no new reciprocal proposed.
+
+## Rhythm in experience
+
+- Fast-track degree 6; pragmatist priority. Read P089/P105/SO019 and the three linked kernels.
+- Opened full [Dewey Art as Experience chapter III course excerpt](https://people.wou.edu/~girodm/middle/having_an_experience.pdf); exact breathing quotation and connected doing/undergoing/intervals verified at the chapter's end.
+- Dewey explicitly discusses rhythm, so the seed identifies a substantive theme rather than requiring a fabricated named unit. Did not infer physiology, treatment efficacy or support for K163's clinical mechanism from the metaphor.
+- Original frontmatter, bibliography, kernel and principle links preserved. Fast-track saturation skipped; no reciprocal proposal.
