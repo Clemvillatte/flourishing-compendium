@@ -12,16 +12,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 37** — Number your days; we only borrow our time
 
-The songs state it flatly: we rise and fall, we borrow our days, nothing is forever on this earth. The Cantares puts it in Nezahualcoyotl's voice:
+The songs state it flatly: we rise and fall, we borrow our days, nothing is forever on this earth. A poem in the Cantares Mexicanos asks:
 
 > "Is it nelli [rooted, true, authentic] one really lives on the earth? Not forever on earth, only a little while here. Though it be jade it falls apart, though it be gold it wears away, though it be quetzal plumage it is torn asunder. Not forever on this earth, only a little while here." (Cantares mexicanos, fol. 17r, trans. León-Portilla 1992:80, as quoted in Maffie's IEP article "Aztec Philosophy")
 
-The tradition's memento mori is not morbid but clarifying, and it is stated in some of the most beautiful poetry any tradition has produced. Practically, keep a light practice of the count: once per month, note how many days you likely have left at current actuarial rates, and let the number choose the month's priorities.
+This page's optional reflection practice: once per month, consider the count of days remaining to you at current actuarial rates, and let the arithmetic weigh on the month's postponements. The tradition offers the poem as a lens, not a forecast of your death.
 
 **Plain words**
-The old songs do arithmetic with your life: jade breaks, gold wears out, feathers tear, and you are not made of better stuff than they are. Numbering your days is not gloom; it is bookkeeping. Once a month, a rough count of what is left, and the count starts arguing for the important things without your having to argue them.
+The old songs do arithmetic with your life: jade breaks, gold wears out, feathers tear. The practical fact inside the poem is that postponement has a cost; every later is being paid for out of a shrinking balance. The monthly question the song implies is not how long you have, but what this month's time deserves to go to.
 
-*For example:* The spreadsheet someone keeps of their estimated remaining Sundays — not macabre, just arithmetic, and what it does to how they spend the next one.
+*For example:* A spreadsheet of estimated remaining Sundays is not macabre, just arithmetic; what it does to the next Sunday is up to the person keeping it.
 
 ## Sources
 
@@ -29,7 +29,7 @@ The old songs do arithmetic with your life: jade breaks, gold wears out, feather
 
 ## Psychology parallels
 
-- **[[Death reflection|Death reflection's gratitude and priority effects]]**, the constructive findings on deliberate death contemplation (Cozzolino, 2006)
+- **[[Death reflection|Death reflection's gratitude and priority effects]]**, Cozzolino's dual-existential systems account (2006): mortality processed specifically and personally is proposed to end in growth-oriented rather than defense-oriented states, a theoretical model ([repository abstract](https://repository.essex.ac.uk/12454/))
 
 ## Philosophy parallels
 

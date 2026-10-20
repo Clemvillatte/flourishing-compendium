@@ -12,24 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 8** — Use the middle as a vantage point
 
-The person in nepantla sees two worlds and belongs fully to neither, which is an epistemic position, not only a wound. Anzaldua's image for the position is a deliberate double stance:
+The person in nepantla sees two worlds and belongs fully to neither, which is a position with an epistemic yield, not only a wound. Anzaldua's image for the position is a deliberate double stance:
 
 > "At some point, on our way to a new consciousness, we will have to leave the opposite bank, the split between the two mortal combatants somehow healed so that we are on both shores at once and, at once, see through serpent and eagle eyes." (Borderlands/La Frontera, 2nd ed., pp. 100-101)
 
-The between-dweller notices what insiders of each side cannot: the juncture where the mestiza stands is "where phenomena tend to collide" and "where the possibility of uniting all that is separate occurs" (p. 102). The tradition's counsel is to use the position: the immigrant child translating between parents and school, the mediator, the scholar between fields, all hold a double vision that monoculture lacks. Practically, in your in-between places, write down what you can see from there that neither side can; the list is your unique yield.
+From the middle one can notice what insiders of each side can miss: the juncture where the mestiza stands is "where phenomena tend to collide" and "where the possibility of uniting all that is separate occurs" (p. 102). This page's application: the immigrant child translating between parents and school, the mediator, the scholar between fields may each be able to notice assumptions and mismatches that monoculture lacks; whether they do is something to check, not assume. Practically, in your in-between places, write down what you can see from there that neither side seems to, then verify it with people on both sides.
 
 **Plain words**
-Everyone who lives between two groups gets told to pick a side. The middle is the one place from which both sides are visible in full, the assumptions each side cannot see because it is standing on them. That is the dividend: you may not belong simply anywhere, but you can see from more places than either insider. The practice is writing down what only your position shows.
+Everyone who lives between two groups gets told to pick a side. Before you pick, there is an inventory available: what each side assumes, and where those assumptions mismatch. You may be one of the few people positioned to notice both sets, or you may have picked up each side's blind spot about the other. The check is to ask people on both sides whether you have understood them, and keep the list of what only your position shows.
 
-*For example:* The immigrant kid translating between parents and school is the classic case: the misreading runs both ways, and the kid is the only one positioned to see both.
+*For example:* Imagine a child of immigrants translating between parents and school: each side misreads the other in ways the child can sometimes notice, being the only one regularly inside both.
 
 ## Sources
 
-- Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza, 2nd ed. (Aunt Lute Books, 1999), "La conciencia de la mestiza / Towards a New Consciousness", pp. 100-102 — [full text PDF hosted by the USC Dornsife Writing Center](https://dornsife.usc.edu/writingcenter/wp-content/uploads/sites/119/2023/01/anzaldua_gloria_-_borderlands_la_frontera.pdf)
+- Gloria Anzaldua, Borderlands/La Frontera: The New Mestiza, 2nd ed. (Aunt Lute Books, 1999), "La conciencia de la mestiza / Towards a New Consciousness", pp. 100-102 — [essay PDF hosted by the USC Dornsife Writing Center](https://dornsife.usc.edu/writingcenter/wp-content/uploads/sites/119/2023/01/anzaldua_gloria_-_borderlands_la_frontera.pdf)
+- Bicultural identity integration findings as reviewed in [a 2024 daily-diary study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10846877/)
 
 ## Psychology parallels
 
-- **[[Bicultural identity integration|Bicultural integrative competence]]**, research on bicultural identity integration: biculturalism is associated with the most favorable social and psychological adaptation (Nguyen & Benet-Martinez 2013 meta-analysis) and with improved cognitive functioning, perspective taking and integrative complexity (Tadmor et al. 2012, as reviewed in Schwartz et al. 2024)
+- **[[Bicultural identity integration|Bicultural integrative competence]]**, research on bicultural identity integration (perceiving one's two cultural identities as compatible): associated in a meta-analysis with favorable social and psychological adjustment (Nguyen & Benet-Martinez 2013) and, separately, with cognitive integrative complexity (Tadmor et al. 2012); associations, not causes
 
 ## Philosophy parallels
 

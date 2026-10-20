@@ -14,22 +14,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 
 Tanabe's metanoetics begins with a confession: philosophy's project of self-grounding reason fails at its own edge, and what the thinker must do there is not argue harder but perform what Tanabe calls metanoia, a turning of the whole mind that is closer to repentance than to proof.
 
-> "Metanoetics includes within itself the logic of absolute criticism. We arrive at metanoetics by way of the critique of reason – reason in both its theoretical and practical aspects – if the critique is pursued radically." (Tanabe, Philosophy as Metanoetics, p. lvi)
+> "Metanoetics includes within itself the logic of absolute criticism. We arrive at metanoetics by way of the critique of reason – reason in both its theoretical and practical aspects – if the critique is pursued radically." (Tanabe, Philosophy as Metanoetics, p. lvi, from the book's introductory front matter)
 
-The practical translation is not religious: when you have genuinely exhausted analysis on a problem (a grief, a decision, a self), stop, and let the honest statement of the exhaustion do its own work. Practically, write the sentence "I cannot solve this by thinking," notice the panic it triggers, and sit through the ninety seconds of it.
+This page's optional application of the point: when you have genuinely exhausted analysis on a problem (a grief, a decision, a self), try stopping and stating the exhaustion plainly, without predicting what the statement will do. Write the sentence "I cannot solve this by thinking" and notice what comes up.
 
 **Plain words**
-Reason is a tool with edges. You can watch yours honestly: at some point in a hard problem the arguments start circling, each one a version of the last. Metanoia is what the tradition calls stopping — naming the limit out loud instead of disguising it as one more argument. The confession is not defeat; it is the first move the situation has left you, and things sometimes shift once it's made.
+Reason is a tool with edges. You can watch yours honestly: at some point in a hard problem the arguments start circling, each one a version of the last. Metanoia is the tradition's name for stopping there — naming the limit out loud instead of disguising it as one more argument. What the confession accomplishes varies; what it spares you is the cost of pretending the circling is progress.
 
-*For example:* Suppose you have spent months trying to fix a relationship with logic. Saying "I don't know what to do," out loud and meaning it, may be the first honest move left — watch what changes after it, if anything.
+*For example:* Suppose you have spent months trying to fix a relationship with logic. The sentence "I don't know what to do," said out loud and meant, is at least an honest report of where the thinking stands.
 
 ## Sources
 
-- Tanabe Hajime, Philosophy as Metanoetics, p. lvi — [quoted in Shunichi Takayanagi, "Absolute Nothingness and Metanoetics", University of Toronto Quarterly 34.1-2, pp. 30-42](https://utppublishing.com/doi/pdf/10.3138/uram.34.1-2.30)
+- Shunichi Takayanagi, "Tanabe Hajime's 'Absolute Nothingness' and Ernst Bloch's 'Nothingness as Possibility'", Ultimate Reality and Meaning 34.1-2 (2011), pp. 30-47 — [PDF](https://utppublishing.com/doi/pdf/10.3138/uram.34.1-2.30), quoting Philosophy as Metanoetics p. lvi (the book's introductory front matter)
 
 ## Psychology parallels
 
-- **[[Cognitive defusion|Cognitive defusion's paradox of surrender]]**, the ACT "creative hopelessness" step: exploring what a person has done to alleviate suffering and whether it worked, to give up ineffective approaches and facilitate acceptance
+- **[[Cognitive defusion|Cognitive defusion's paradox of surrender]]**, ACT's "creative hopelessness" step, a technique for giving up ineffective approaches and facilitating acceptance by exploring what a person has done to alleviate suffering and whether it worked ([Wikipedia, Acceptance and commitment therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy))
 
 ## Philosophy parallels
 
