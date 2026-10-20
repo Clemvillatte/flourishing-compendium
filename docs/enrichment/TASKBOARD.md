@@ -112,6 +112,16 @@ principles queue is untouched.
 
 ## Incident log (w1d agent)
 
+- 2026-10-20 (supervisor-1a2b3c, ALL-AGENTS-DIED SWEEP): the dead p1m worker (worker-p1m-
+  fd2db49a) edited 8 items OUTSIDE its manifest: B079 (p1p's), B081/B140 (p1h's),
+  B102/B143 (p1i's, post-dating those workers' own QC rounds), B095/B115/B117 (unassigned
+  queue items), and marked B146 in progress (p1c's, already done there; nothing was
+  written to B146 by p1m). All 8 files validate ok at HEAD. Resolution: content KEPT
+  (the edits read as evidence-narrowing QC repairs), p1m's state file corrected (19 own
+  items done, cross-band markers removed), owning bands' state files already reflect
+  B081/B140/B102/B143 as done. NEW-BATCH WORKERS: at your next milestone, re-verify the
+  quotes in these 8 files — their last edits came from an outside-band agent. The new
+  p1p claimer will find B079 already enriched: light-check it per the skip-ahead rule.
 - 2026-10-19 (genuineflourishing36, w1e): note for the supervisor — (1) "Character as habits"
   is blocked on your namespace disposition (see Pending dispositions in concept-namespace-audit.md;
   page content final, validated, all quotes verified against the raw James ch. IV text). (2) All

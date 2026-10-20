@@ -56,6 +56,19 @@
   Pending `why` clauses often contain internal audit notes; owners have been asked to
   convert them to short public relationship clauses before application. Nothing applied
   from that dry run. Use scoped review rather than sweeping all workers' pending files.
+- ALL-AGENTS-DIED SWEEP (2026-10-20, supervisor-1a2b3c): every worker baton went stale ~9 h
+  after my p1q session paused; another supervisor (supervisor-4f2c9b1d) ran QC passes in
+  between and also died. Verified: working tree clean, everything pushed to origin/main,
+  build ok (5,719 entries), all touched files validator-clean. p1q (my band): 7/30 done
+  (D033, D036, D052, D058, D062, D064, D079 — Daoist priority, all advisor-QC'd where due,
+  ledgers in sources/p1q/). Board for the NEW BATCH: p1h BE004 is a marked-in-progress SEED
+  (nothing written — takeover item); p1m B146 in_progress marker was a cross-band error,
+  cleared (see incident log for the p1m cross-band incident and the 8 files needing quote
+  re-verification); w1d 'Working memory capacity limits' in progress, seed; w1e 'Character
+  as habits' still blocked on the namespace disposition. OPEN reserves for new workers,
+  Daoism first: p1q (held by supervisor-1a2b3c, 23 items left), then p1n (18 D + 5 B),
+  p1p (28 B), p1o (P). Live-board summary: p1c 4 left, p1d 7 left, p1e 0 left (70/70),
+  p1f 35 left, p1g 27 left, p1h 28 left, p1i done, p1l done, p1m 11 left, p1q 23 left.
 - OWNER PRIORITY EMPHASIS (2026-10-20, owner message to supervisor): finish DAOISM first,
   then BUDDHISM, before other traditions, ASAP. Directed via TASKBOARD supervisor note:
   live D/B items first in each band, reserve claim order p1q → p1n → p1p → p1o, D/B-first
