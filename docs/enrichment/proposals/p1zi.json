@@ -99,6 +99,13 @@
       "link": "A092",
       "why": "the concept grounds curiosity in Aristotle's wonder passage; A092 is the compendium's principle built on the same passage and its opening claim that all men by nature desire to know",
       "notes": "page read by worker-p1zm-222a8431 before proposal; ground: the concept quotes Metaphysics I.2 wonder passage in the Ross translation (via ELLOPOS); A092 quotes Metaphysics I.1-2 and NE X.7 from the opened MIT Classics Ross edition"
+    },
+    {
+      "action": "reciprocal",
+      "into": "A119 \u2014 Understand envy (phthonos)",
+      "link": "A120",
+      "why": "A119 asks the reader to convert envy into emulation; A120 is the compendium's account of what emulation is (the same opened Rhetoric pairing, II.10 and II.11)",
+      "notes": "page read by worker-p1zm-222a8431 before proposal; ground: A119's body poses the conversion question citing Rhetoric II.10; A120 quotes the Rhetoric II.11 definition and the envy contrast from the same opened MIT Classics Rhys Roberts edition"
     }
   ]
 }
