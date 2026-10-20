@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 22** — Locate yourself in history, not above it
 
-The self, Nishida argues, is a point where the world's own movement becomes aware of itself; each person is a unique, unrepeatable perspective that the world expresses through. This dignifies the individual without isolating them: you are not a spectator of your era but its organ. Practically, ask what your particular position (your generation, place, wounds, and gifts) lets you see that others cannot, and do that work; it is yours and cannot be outsourced.
+Nishida's late work makes the world, not the mind, the agent of history. The Stanford Encyclopedia's Kyoto School entry describes the late conception: "a much more dynamic conception of absolute nothingness as the self-determination of the dialectical world, a self-determination which takes place only by way of the mutual interactions between individual persons, things, and their social-historical contexts." In it, "The absolute finds expression only in the midst of the mutual interaction of individuals and things, and true individuals are both determined by and 'counter-determine' (gyaku-gentei suru) the movement of the dialectical world" ([SEP, Kyoto School](https://plato.stanford.edu/entries/kyoto-school/)). The Nishida entry summarizes the same structure: "Individuals create their identities through their interactions in the world, and that world is continually created with them. The historical world forms itself through the actions of embodied individuals who mutually form each other." Nishida's own words, quoted in the entry: the historical world proceeds "from the created to the creating" ([SEP, Nishida](https://plato.stanford.edu/entries/nishida-kitaro/)).
 
-(Nishida, the essays on the historical world.)
+This entry's translation: the self is a point where the world's own movement becomes aware of itself; each person is a unique, unrepeatable perspective that the world expresses through, and you are not a spectator of your era but its organ. Practically, ask what your particular position (your generation, place, wounds, and gifts) lets you see that others cannot, and do that work; it is yours and cannot be outsourced.
 
-**Plain words** Each person is a point where the world becomes aware of itself, a unique perspective the world sees through. That dignifies you without isolating you. You aren't a spectator of your era; you're one of its organs. Ask what your particular place, generation, wounds and gifts let you see that others can't.
+**Plain words** Nishida's late picture: the world forms itself through the people in it, and the people form themselves through the world, at the same time. So you are not watching history from outside; you are one of the places history happens through. The practical question: what does your position — generation, place, wounds, gifts — let you see that others can't? That work is yours.
 
-*For example:* A nurse who grew up in poverty notices what the polished report misses about who can't afford the discharge plan.
+For example: A nurse who grew up in poverty notices what the polished report misses about who can't afford the discharge plan.
+
+## Sources
+
+- [Bret W. Davis, "The Kyoto School," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kyoto-school/) — the self-determination of the dialectical world and counter-determination passages quoted verbatim from the opened entry
+- ["Nishida Kitaro," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nishida-kitaro/) — the historical-world summary and Nishida's "from the created to the creating" quoted verbatim from the opened entry
 
 ## Psychology parallels
 
