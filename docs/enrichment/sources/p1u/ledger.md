@@ -241,7 +241,7 @@ scope error and restoration to the owner.
   No Goethe morphology equivalence or psychology effect certified.
 - Saturation: Craftsmanship research and Morphology already cite P112.
 
-## Takeover QC: milestone-20 owed review discharged (worker-p1u-8a7ab96d, 2026-10-20)
+## Takeover QC: milestone-20 owed review (worker-p1u-8a7ab96d, 2026-10-20; PENDING advisor re-acceptance of the B135/B195 repairs)
 
 All six owed items re-verified against freshly opened sources before new work:
 
@@ -284,8 +284,38 @@ All six owed items re-verified against freshly opened sources before new work:
 Prose scope re-checked on all six: no causal mechanisms, promised benefits
 or generalisations beyond the opened sources; compendium applications
 labelled. All six files validate clean after the B195 locator fix. The
-milestone-20 QC debt is discharged; inherited parallels on these pages
-remain unverified parallels, not certifications.
+milestone-20 QC debt is discharged pending advisor re-acceptance of the
+B135/B195 repairs below; inherited parallels on these pages remain
+unverified parallels, not certifications.
+
+### Advisor first-round review outcome (same date)
+
+B171/B184/B191/P112 PASS on the supplied evidence. Two blockers:
+
+- B195: the advisor rejected my locator change as unverified, since my
+  §31/§32/§33 labels came from a prompted extraction, not the raw text.
+  Raw-HTML inspection of the ATI page found no numbered anchors, so I
+  checked three independent mirrors of the Vajira/Story numbering: the
+  chicagomeditation excerpt itself (search snippet: 32 Ananda's words,
+  33 the islands sentence), the ATI archive copy, and the Great Western
+  Vehicle mirror (33 quote, 34 contemplation). The predecessor's 2.33/2.34
+  locators were CORRECT; my change was a regression and is reverted in
+  full (content byte-identical to the predecessor version except the
+  blockquote source link now points to the opened ATI page rather than
+  the robots-blocked excerpt PDF).
+- B135: the advisor held that the Plain words and example were an
+  appraisal exercise rather than a re-derivation of the verse's claim,
+  and that the 'one mind' gap was unexplained. Repairs applied:
+  closing paragraph now states explicitly that neither the verse nor
+  Garfield/Priest's reading mentions a mind; Plain words re-derived
+  from the opened dependent-existence discussion (samsara as this world
+  of dependently arisen things, nirvana not a second world, the
+  difference located in the seeing); example rewritten to the same
+  commute on two days, labelled as the compendium's application, not a
+  demonstration that suffering is optional. The 'positive assertions'
+  attribution re-verified against the article's own paragraph
+  ('stating positive views of his own... Nagarjuna's assertion that
+  nirvana and samsara are identical').
 
 ## Credit-blocked checkpoint and resumption
 
