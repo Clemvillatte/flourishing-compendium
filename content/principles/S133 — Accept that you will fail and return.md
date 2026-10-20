@@ -18,10 +18,10 @@ Marcus addresses the person who keeps falling out of the practice:
 
 (Marcus Aurelius, Meditations VI.11, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The sentence assumes the disturbance will come. Marcus does not ask whether you will be knocked out of tune, only how long you stay that way, and his answer is: no longer than the compulsion lasts. He stages the same move as waking from sleep elsewhere: return to thy sober senses and call thyself back, and treat the agitation that gripped you as a dream you have now seen through (Med. VI.31, Long). What is being trained is the return itself, not an unbroken run.
+The instruction is about duration. Once the circumstance that compelled the disturbance is over, the disturbance should end with it, and the capacity to restore the harmony grows with each return. In another place he pictures the same move as waking from sleep and seeing the night's agitation as dreams you have now seen through (Med. VI.31, Long). What is being trained is the return itself, not an unbroken run.
 
 **Plain words**
-The standard is not an unbroken streak. Everyone gets knocked out of the practice; the skill Marcus trains is the quick return, and it gets faster with use. Falling is an event; getting back up is a skill. When you notice you have drifted, shorten the time between noticing and returning, and skip the trial you were about to hold.
+After something unsettles you, ask whether it is still happening. If it has ended, choose your next action according to the standards you were practising. You do not need to wait for a new week to resume.
 
 *For example:* Imagine breaking a diet, skipping the journal, losing two weeks, and then simply opening the notebook again on a Tuesday and writing one line.
 
