@@ -12,20 +12,20 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 109** — Examine fear
 
-MN 18 describes a sequence of mental events: what one feels, one perceives; what one perceives, one thinks about; what one thinks about, one objectifies; and based on what a person objectifies, the perceptions and categories of objectification assail him with regard to past, present and future. (MN 18.) MN 20 gives a working instruction for thoughts imbued with desire, aversion or delusion: scrutinize their drawbacks, seeing that they are unskillful, blameworthy, and result in stress. (MN 20.) Dhammapada 212 describes fear as arising with endearment: from endearment springs grief, from endearment springs fear. (Dhammapada 212.)
+MN 18 describes a sequence from contact and feeling through perception, thinking and objectification. In Thanissaro's translation, the resulting perceptions and categories concern past, present and future sensory objects. (MN 18.) MN 20 offers several methods for dealing with unskillful thoughts involving desire, aversion or delusion; scrutinizing their drawbacks is one method. (MN 20.) Dhammapada 212 associates endearment with grief and fear. (Dhammapada 212.)
 
 > "What one feels, one perceives (labels in the mind). What one perceives, one thinks about. What one thinks about, one objectifies." (MN 18, [Thanissaro](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html))
 
-The compendium's application is the examination itself: split the fear into what is present and what the sequence built.
+The compendium's exercise is to distinguish observations, predictions and unanswered questions in a particular fear.
 
 **Plain words**
-As a compendium exercise, write the fear down and mark each line as either something happening now or a story about later. The story lines are where the examination goes.
+Write down what has happened and what you fear might happen. For each prediction, note the evidence and anything you need to find out. Decide whether some practical preparation is warranted.
 
-*For example:* Imagine itemizing presentation panic: the real risk is minor embarrassment; the imagined risk is career collapse. Writing both columns shows which is which.
+*For example:* Imagine worrying about a presentation. You list the questions you cannot yet answer and ask the organiser what the audience expects.
 
 ## Sources
 
-- [MN 18, Madhupindika Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html) — the objectification sequence (papancan)
+- [MN 18, Madhupindika Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html) — the objectification sequence (papañca)
 - [MN 20, Vitakkasanthana Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — scrutinizing the drawbacks of thoughts
 - [Dhammapada, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verse 212
 
