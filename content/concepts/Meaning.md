@@ -27,7 +27,7 @@ He guards the third way with a condition that matters for any account of flouris
 
 ### Why it matters for flourishing
 
-Read one way, the three ways echo the seed's triad: work and deeds can carry purpose, the sense of being about something; love and encounter can carry mattering, the sense that someone and something count; the stance taken toward unavoidable suffering can hold a life story together when circumstances do not. That mapping is this page's reading, not a claim Frankl makes. What his text does support is the guard: none of this romanticises pain. Where a cause of suffering can be removed, removing it is the meaningful act, and the meaning that remains is the one carried by attitude alone.
+Read one way, the three ways echo the seed's triad: work and deeds can carry purpose, the sense of being about something; love and encounter can carry mattering, the sense that someone and something count; the stance taken toward unavoidable suffering can hold a life story together when circumstances do not. That mapping is this page's reading, not a claim Frankl makes. What his text does support is the guard: none of this romanticises pain. Where a cause of suffering can be removed, removing it is the meaningful act. When suffering is unavoidable, Frankl identifies a further possibility of meaning in the attitude taken toward it.
 
 On this reading meaning is assembled from deeds, encounters, and stances. Frankl's unconditional-meaning passage is the ground for saying it can hold under conditions that strip everything else away.
 
