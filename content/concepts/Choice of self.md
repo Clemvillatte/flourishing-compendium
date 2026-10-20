@@ -10,15 +10,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Choice of self” — Sartre, Being and Nothingness.
 
-In Being and Nothingness, Sartre holds that a person is not a thing with a ready-made essence. You are a project: a stance you keep taking toward the world and your own future. The deep layer of that stance he calls the fundamental project, the choice of self. It is not one decision among others. On his account, every attitude and conduct finds its meaning in relation to the unity of a primary choice. The same choice governs what the past will amount to: the impact of past events is determined in relation to one's present choice, not the other way round.
+In Being and Nothingness, Sartre holds that a person is not a thing with a ready-made essence. You are a project: a stance you keep taking toward the world and your own future. The deep layer of that stance he calls the fundamental project, the choice of self. It is not one decision among others. On his account, every attitude and conduct finds its meaning in relation to the unity of a primary choice. The SEP entry explains past events as taking on meaning in relation to a person’s present project ([SEP, §5](https://plato.stanford.edu/entries/sartre/)).
 
-> the free choice which a man makes of himself is completely identified with what is called his destiny — Sartre on Baudelaire, 1947a [1967: 192], quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
+> the free choice which a man makes of himself is completely identified with what is called his destiny — Sartre, Baudelaire (1947; English translation 1967, p. 192), as quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
 
 Living out the project does not automatically mean understanding it explicitly.
 
 > if the fundamental project is fully experienced by the subject and hence wholly conscious, that certainly does not mean that it must by the same token be known by him; quite the contrary. — Sartre, Being and Nothingness, 1956: 570, quoted in [SEP, §5](https://plato.stanford.edu/entries/sartre/)
 
-Sartre's answer is a method rather than a doctrine: an existential psychoanalysis that reads a life so as to bring the initial choice to light. The choice can also fail in a particular way. Bad faith is the attempt to be one's role as if the role were a thing one could be. Sartre's café waiter concedes there is no doubt he is in a sense a café waiter, then adds:
+Existential psychoanalysis seeks to understand the unity behind a person’s attitudes and conduct ([SEP, §5](https://plato.stanford.edu/entries/sartre/)). The entry also discusses bad faith through Sartre’s café waiter ([SEP, §4.2](https://plato.stanford.edu/entries/sartre/)):
 
 > But if I am one, this cannot be in the mode of being-in-itself. I am a waiter in the mode of *being what I am not*. — Sartre, Being and Nothingness, 1956: 60, quoted in [SEP, §4.2](https://plato.stanford.edu/entries/sartre/)
 
@@ -45,7 +45,7 @@ Sartre's answer is a method rather than a doctrine: an existential psychoanalysi
 
 ## Sources
 
-- Quotations from Sartre, Being and Nothingness (1956: 60, 570) and from Sartre on Baudelaire (1947a [1967: 192]) as printed in the [Stanford Encyclopedia of Philosophy entry on Sartre (opened)](https://plato.stanford.edu/entries/sartre/)
+- Quotations from Sartre, Being and Nothingness (1956: 60, 570) and from Sartre’s Baudelaire (1947; English translation 1967, p. 192), all as printed in the [Stanford Encyclopedia of Philosophy entry on Sartre (opened)](https://plato.stanford.edu/entries/sartre/)
 - Sartre, Being and Nothingness
 
 ## Cited in philosophy parallels
