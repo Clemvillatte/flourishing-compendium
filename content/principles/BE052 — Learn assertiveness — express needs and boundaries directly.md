@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 52** — Learn assertiveness: express needs and boundaries directly
 
-Speed, Goldstein and Goldfried's clinical review makes the case plainly: a substantial body of research ties assertiveness to a variety of clinical problems, populations and contexts, and calls assertiveness training a valuable transdiagnostic intervention. The review's history is a neglect story: the field moved on after the 1970s heyday, while the demonstrated importance stayed on the record. (Speed et al., 2018.)
+Speed, Goldstein and Goldfried's clinical review makes the case plainly: a substantial body of research ties assertiveness to a variety of clinical problems, populations and contexts, and calls assertiveness training a valuable transdiagnostic intervention. The review's title has a history in it: assertiveness training was once a highly popular area of investigation, and research on it as a stand-alone treatment within clinical psychology has diminished drastically in recent years. (Speed et al., 2018.)
 
 > "A substantial body of research indicates that assertiveness is a relevant factor associated with a variety of clinical problems, populations, and contexts, and that assertiveness training is a valuable transdiagnostic intervention." (Speed et al., 2018, [abstract](https://onlinelibrary.wiley.com/doi/full/10.1111/cpsp.12216))
 

@@ -36,9 +36,9 @@
   "BE004",
   "BE013",
   "BE048",
-  "BE052",
   "BI032",
-  "BI045"
+  "BI045",
+  "BE052"
  ],
  "in_progress": null,
  "flagged": {
@@ -65,10 +65,11 @@
   "AF048": "Reopened for QC: repair: Borkovec cognitive-avoidance bullet asserts unverified effects",
   "AF061": "Reopened for QC: repair: Psychology parallels upward-spirals and categorical broaden-and-build claims",
   "AF073": "Reopened for QC: repair: Social support wikilink unresolved",
-  "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks"
+  "AF075": "Reopened for QC: repair: neutralized bullets created unresolved wikilinks",
+  "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-20T01:57:43+00:00",
+ "updated": "2026-10-20T03:18:11+00:00",
  "band_done": false
 }
