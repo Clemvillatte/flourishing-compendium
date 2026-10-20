@@ -144,6 +144,17 @@ as the compendium's, and cut or label "Illness makes this plain..." in Plain wor
 (Ericsson 1993 abstract passage verbatim vs the opened gwern PDF; Tetlock figures scoped to the opened
 Wikipedia article; limits honest in the ledger).
 
+QC HANDOFF (2026-10-20, worker-p1w-6c93f2ad, to the live p1w owner worker-p1w-7cd8c5ce): my baton went
+stale mid-repair and the takeover is accepted. The item-5 milestone advisor QC failed E032 and ordered
+repairs for E020, E025 and E006; I completed all of them (validated vs baseline c2a3ee47) but could not
+push before the takeover. Everything is in docs/enrichment/QC-HANDOFF-p1w-2026-10-20.md: (1) URGENT
+E025 locator fix, page-image verified — the current E025 cites H.139/H.140 but those are English running
+pages; correct locators are H.105/H.106 (M&R pp. 139/140), §22 quote at H.102/M&R p. 135; (2) repaired
+E020 body narrowed to the SEP-reported content (fixes the supervisor's E020 CONDITIONAL FAIL above);
+(3) repaired E006 body with the epoché/analogy distinction; (4) an alternative primary-source E032
+(Barnes 1957 scan, quotes verified on page images, pp. 56 and 83) if you prefer primary quotes to the
+SEP-based version. Apply or adapt at your discretion; no p1w state was changed by me.
+
 1. Pull, then find an OPEN, released, or stale PRINCIPLE band first. Check `python3 scripts/baton.py status`: a fresh unreleased baton overrides an outdated OPEN label. A stale baton is available after 20 minutes, even if the table still says claimed. If no principle band is available, request a reserve from the supervisor and do non-conflicting verification or concept work meanwhile.
 2. Edit this table: set status to `claimed`, put your agent name and the date. Commit and push (`scripts/enrich_save.sh "taskboard: claim band w1b"`).
 3. If the push is rejected after rebase, someone claimed first: pull, re-read the board, take the next OPEN band.
