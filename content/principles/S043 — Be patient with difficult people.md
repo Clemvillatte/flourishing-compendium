@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 165** — Be patient with difficult people
 
-Marcus begins his day by rehearsing exactly who he will meet:
+Marcus tells himself what kinds of conduct to expect:
 
 > "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil." (Marcus Aurelius, Meditations, Book II, section 1, George Long translation)
 
@@ -24,9 +24,9 @@ The difficult person, on this view, is a fellow part of a body that works togeth
 
 (Med. II.1, George Long translation.)
 
-**Plain words** The point of the morning rehearsal is to remove the surprise. Difficult people are predictable enough to plan for; the surprise is what makes you react badly. Marcus suggests naming the types in advance and remembering that they act from ignorance of good and bad. That is a description of their situation, and it leaves your own reaction as the thing you control.
+**Plain words** Before a difficult meeting, consider how you want to answer if someone is rude. You could ask what they mean, address the substance of a complaint, or state a limit without returning an insult. The question is how you choose to respond when patience is tested.
 
-For example: Imagined: a team member rehearses the list before a stand-up with an abrasive manager: ungrateful, arrogant, unsocial. In the meeting, the practice is listening to the complaint without defending.
+For example: Imagined: a manager delivers criticism abrasively. The team member asks for a concrete example, then answers the criticism without trading insults.
 
 ## Psychology parallels
 

@@ -12,17 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 176** — Distinguish between facts and interpretations
 
-The handbook's fifth chapter states the whole doctrine in one sentence:
+The handbook's fifth chapter distinguishes events from opinions about them:
 
 > "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing." (Epictetus, Encheiridion 5, George Long translation)
 
-An event arrives; along with it arrives an opinion about the event; the two travel together and feel like one thing. The exercise is to take them apart: what happened, and what you take it to mean. Epictetus's example is death, the largest case. The same structure holds for the missed phone call.
+The exercise is to take apart what often arrives as one thing: something that happened, and an opinion about it. Epictetus's example is death; the same structure holds for the missed phone call.
 
 (Ench. 5, George Long translation.)
 
-**Plain words** Two things arrive with every event: what happened, and what you make of it. They feel like one thing, and they are not. The first you can check; the second you added. The exercise is to notice the moment you add the story, and to hold it as a story.
+**Plain words** Suppose a friend misses an agreed call. Before concluding that they do not care, ask what you actually know: no call arrived at the agreed time. You may still need to ask why. Keeping the observation separate from your explanation leaves room to reconsider that explanation.
 
-For example: "She didn't call" is a fact; "she doesn't care" is an interpretation.
+For example: Imagined: a friend misses an agreed call; "she didn't call" is the fact, "she doesn't care" is the interpretation added to it.
 
 ## Psychology parallels
 

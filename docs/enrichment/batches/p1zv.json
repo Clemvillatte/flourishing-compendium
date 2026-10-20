@@ -1,18 +1,22 @@
 {
  "batch": "p1zv",
  "done": [
-  "S039",
   "S043",
   "S049",
   "S052",
-  "S054"
+  "S054",
+  "S039"
  ],
  "in_progress": null,
  "flagged": {
-  "S039": "Reopened for QC: advisor QC round 2 locator correction"
+  "S039": "Reopened for QC: milestone QC repairs applied",
+  "S043": "Reopened for QC: milestone QC repairs applied",
+  "S049": "Reopened for QC: milestone QC repairs applied",
+  "S052": "Reopened for QC: milestone QC repairs applied",
+  "S054": "Reopened for QC: milestone QC repairs applied"
  },
  "missing_concepts": [],
  "sources_checked": 6,
- "updated": "2026-10-20T12:00:58+00:00",
+ "updated": "2026-10-20T12:05:18+00:00",
  "band_done": false
 }
