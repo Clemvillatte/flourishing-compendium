@@ -2,14 +2,17 @@
  "batch": "p1zr",
  "done": [
   "AF058",
-  "AF059",
   "AF062",
   "AF063",
-  "AF068"
+  "AF068",
+  "AF059"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "AF059": "Reopened for QC: QC correction (milestone round 2): Bell-model proportionality overextension in Plain words and body; Zeelenberg framing to be scoped per advisor"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:40:11+00:00"
+ "updated": "2026-10-20T11:43:05+00:00",
+ "band_done": false
 }
