@@ -24,6 +24,12 @@
    "link": "P132 \u2014 Make reform experimental",
    "why": "P132's philosophy parallels link [[Inquiry]] for Dewey's account of reform as inquiry, but the Inquiry concept page's 'Cited in philosophy parallels' section is empty (it lists P024, P025, P048, P051 above that section). The proposal adds P132 to that section, documenting the existing one-way link. P125 also links Inquiry-adjacent material via Fallibilism; P132 is the natural Dewey-Addams entry for inquiry applied to social change.",
    "_audit_why": "Inquiry concept file read in full this session; empty parallels section verified by reading the file body"
+  },
+  {
+   "into": "Solidarity (concept)",
+   "link": "P137 \u2014 Build solidarity without demanding consensus",
+   "why": "P137's philosophy parallels link [[Solidarity]] for Rorty's account (Contingency, Irony, and Solidarity), and the concept's own Sources list already cites that book, but its 'Cited in philosophy parallels' section lists only R113, E059 and E077 with no P137 entry. The proposal adds P137 to that section, documenting the existing one-way link: the Rorty item is the natural pragmatist entry for solidarity among the listed Camus/Scholz connections.",
+   "_audit_why": "Solidarity concept file read in full this session; absence of P137 verified by reading the parallels section"
   }
  ],
  "notes": "p1r proposals (worker-p1v-c7e4a1f9), from the item-20 milestone check and the P087 item. Reciprocals only; all other linked-concept targets inspected at items 19-20 (Savoring, Immediate and reflective value, Consummatory experience, Interest development research, Intrinsic motivation, Interest as motive) verified to already list their principle. | not deferred: 2 recips ready to apply | deferred at this run (target band busy): 1 recip, 0 inline\n- P088 reciprocal (B103) added by worker-p1r-4b7e21c9; B103 file read directly, parallels sections inspected.\n- Dangling-link note (P133, worker-p1r-4b7e21c9): the psychology parallels of P133 link [[Institutional racism]] and [[Institutional trust]], but no such concept files exist anywhere under content/ (verified with a repository-wide filename search). The parallels are inherited and were not edited; recording here for the supervisor to decide (create the concept pages or fix the links)."
