@@ -18,9 +18,9 @@ Assign a non-overlapping subset on STORIES-TASKBOARD.md, or leave a ROUTE here i
 
 ## Review packet and milestone record
 
-- `candidate-B088.md`: opened complete MN 19; exact quote; coverage matrix; first-candidate independent QC received, substantive edits applied, re-review pending.
-- `candidate-D107.md`: opened Legge's chapter 3 §4; short comparison is not expanded into an invented capture or escape; translation-specific numbers preserved.
-- `candidate-P196.md`: opened the chapter II clock passage in two carriers and the separate intuition argument; near-overlap with ST120 disclosed.
+- `candidate-B088.md`: opened complete MN 19; exact quote; coverage matrix; first-candidate independent QC and substantive-PASS re-review completed.
+- `candidate-D107.md`: opened Legge's chapter 3 §4; short comparison is not expanded into an invented capture or escape; translation-specific numbers preserved; substantive independent-QC PASS.
+- `candidate-P196.md`: opened the chapter II clock passage in two carriers and the separate intuition argument; near-overlap with ST120 disclosed; milestone QC verified sources, with its two requested precision/bibliography corrections applied.
 - `EVIDENCE.md`: access events, rejected duplicates, cross-text cautions and workflow boundary.
 - The first candidate and evidence were saved at `aea430c33`; the Daoist candidate at `fd3b9e62b`; the B088 revisions and Bergson candidate at `d197dc290`. Each save was verified against origin/main. These are research checkpoints, not story-state transitions.
 

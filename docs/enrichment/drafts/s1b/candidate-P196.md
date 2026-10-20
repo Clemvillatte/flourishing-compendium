@@ -6,7 +6,7 @@ pipeline-state: unqueued-candidate-awaiting-central-scope
 assignment: "PROPOSED / UNASSIGNED — research only; not a scope reservation or ready draft."
 title: The Four Clock Strokes Bergson Had Not Counted
 target-principles: [P196]
-target-angles: "Returning to the qualitative shape of a just-lived experience before converting it into a count."
+target-angles: "An uncounted qualitative impression guides retrospective reconstruction."
 evidence:
   - source: "Bergson, Time and Free Will, chapter II, pp. 127–128, F. L. Pogson translation"
     url: https://www.gutenberg.org/files/56852/56852-h/56852-h.htm
@@ -22,7 +22,7 @@ coverage-matrix:
   - facet: "Lived succession can be grasped as a qualitative whole"
     carried-by: "The unheard-as-a-count strokes form a musical phrase"
     supported-by: "Time and Free Will II, pp. 127–128"
-  - facet: "Return to the experience before representing its parts"
+  - facet: "Recover a count by matching a retained qualitative whole"
     carried-by: "Retrospective reconstruction recognized by its felt fit"
     supported-by: "Time and Free Will II, pp. 127–128"
   - facet: "Connection to intuition as entry into duration"
@@ -43,17 +43,17 @@ The count is recovered through a recognition of quality: the earlier strokes wer
 
 > "In a word, the number of strokes was perceived as a quality and not as a quantity" ([Time and Free Will, p. 128](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm)).
 
-The compendium reads this as an illustration of returning to the shape of an experience before treating it as a collection of parts. It gives an essay writer something small enough to retell: distraction, an impression retained, several attempted reconstructions, and recognition. The connection to P196 comes from Bergson's separate methodological statement that "intuition places itself in mobility, or, what comes to the same thing, in duration" ([An Introduction to Metaphysics, p. 47](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf)).
+The compendium reads this as an illustration of how a retained qualitative whole can guide the recovery of separate units. It gives an essay writer something small enough to retell: distraction, an impression retained, several attempted reconstructions, and recognition. The connection to P196 comes from Bergson's separate methodological statement that "intuition places itself in mobility, or, what comes to the same thing, in duration" ([An Introduction to Metaphysics, p. 47](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf)).
 
 The clock scene is a philosophical illustration, not a controlled experiment or a test that certifies intuition. Nor should its return to duration become a blanket claim that Bergson rejects eternity: he distinguishes a living, still-moving eternity from conceptual eternity ([An Introduction to Metaphysics, pp. 62 to 64](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf)).
 
 **Principles:**
-- [[P196 — Intuition is a return to lived duration, not a leap to the eternal]]: reconstructing the felt whole before counting illustrates a return to lived succession; Bergson's separate account explicitly places intuition in duration.
+- [[P196 — Intuition is a return to lived duration, not a leap to the eternal]]: an initially uncounted qualitative impression guides the recovery of a count; Bergson's separate account explicitly places intuition in duration.
 
 ## Sources
 
 - [Henri Bergson, Time and Free Will: An Essay on the Immediate Data of Consciousness, translated by F. L. Pogson, consulted 1913 edition](https://www.gutenberg.org/files/56852/56852-h/56852-h.htm), chapter II, printed pp. 127–128. The block quotation is an exact excerpt ending before the source's following colon.
-- [Henri Bergson, An Introduction to Metaphysics, translated by T. E. Hulme, 1912](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf), printed p. 47 for the methodological link; pp. 62–64 for the two senses of eternity.
+- [Henri Bergson, An Introduction to Metaphysics, translated by T. E. Hulme](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf), printed p. 47 for the methodological link; pp. 62–64 for the two senses of eternity. The scan's displayed edition year is unclear, so its filename is not treated as proof of that year.
 - [Brock University Mead Project, Time and Free Will, chapter II](https://brocku.ca/MeadProject/Bergson/Bergson_1910/Bergson_1910_02.html), opened for a second reading of the complete chapter; quotations above follow the Gutenberg rendering rather than OCR defects in this transcription.
 
 ## QC notes
@@ -63,3 +63,5 @@ The clock scene is a philosophical illustration, not a controlled experiment or 
 - Related existing object: ST120, Bergson and the Melody, covers musical interpenetration and P091/P092/P093. It does not tell the four-strokes reconstruction episode. The supervisor should decide whether the distinct retrospective-recognition angle merits a separate story or belongs in an enrichment of ST120.
 - No fixed timing, room, emotion, clock design or experimental apparatus has been invented.
 - P196's full metaphysical position is not established by this one illustration; the coverage matrix separates the source episode from its cross-text interpretation.
+- Milestone independent QC verified the episode, quotations, bounded mapping and eternity qualification. Its two requested corrections were applied: the initially uncounted impression guides a numbered reconstruction, and the uncertain Hulme edition year is omitted.
+- All narrative candidates preserve the protocol's Principles/list template. MD032 is a documented exception pending a central resolution of the conflicting section parser, not a full lint pass.

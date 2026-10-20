@@ -58,6 +58,6 @@ For an essay about habit, the useful movement is from repeated engagement to an 
 - Unqueued research candidate. Central lane scope has not been assigned; no baton is claimed, no story-state item exists, and this is not a ready submission.
 - The quotation reproduces the opened translation, including its ampersand.
 - Duplicate search: no MN 19, Dvedhavitakka, cowherd or two-sorts-of-thinking narrative found in published stories or the live s1a drafts at research time.
-- Independent first-candidate advisor review received; substantive revisions applied to angle, full outcome and the limits of the votes analogy. Re-review requested; no final independent-QC pass is claimed yet.
+- Independent first-candidate advisor review and re-review completed: substantive PASS after revisions to angle, full outcome and the limits of the votes analogy. This does not approve central scope or ready status.
 - Formatting exception routed to supervisor: MD032 requests a blank line after the Principles label, but story_check.py's section matcher stops at that blank line and then reports the required list as missing. Preserve the documented template pending a shared-tool disposition; do not silently claim a full Markdown-lint pass.
 - The translation carries CC BY-NC 4.0. Commercial reuse of its wording requires a separate license/permissions review; inclusion here is not clearance for every future essay use.

@@ -53,3 +53,5 @@ For D107, the bird gives a different angle from the principle's duck-and-crane i
 - No speech, keeper, motive, captivity episode or outcome has been invented.
 - Duplicate search found no pheasant passage in published stories or live s1a drafts. Generic cage matches in ST075 and ST232 were inspected as non-matching leads.
 - The paragraph comparing this angle with D107's duck-and-crane image describes the target page; it does not add a historical or zoological claim.
+- Milestone independent QC: substantive PASS for exact quotation, genre, complete comparison, bounded mapping and absence of invented action. This does not approve central scope or ready status.
+- The protocol's Principles/list template is retained; the MD032/parser conflict is routed in ROUTE.md rather than presented as a full lint pass.
