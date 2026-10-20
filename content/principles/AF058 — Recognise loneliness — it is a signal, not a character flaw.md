@@ -32,7 +32,7 @@ Imagine someone who has recently moved cities. After a lonely weekend, they invi
 ## Psychology parallels
 
 - **Loneliness as a signal rather than a defect**, the Cacioppo model treats loneliness as a signal prompting reconnection (Cacioppo & Cacioppo, 2014)
-- **Chronic loneliness is a major health risk**, loneliness was associated with higher odds of mortality in the meta-analysis (pooled OR 1.26; Holt-Lunstad et al., 2015)
+- **Loneliness and mortality**, loneliness was associated with higher odds of mortality in the meta-analysis (pooled OR 1.26; [Holt-Lunstad et al., 2015](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3024&context=facpub))
 
 ## Philosophy parallels
 
