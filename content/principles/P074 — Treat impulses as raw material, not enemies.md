@@ -25,7 +25,7 @@ The fear example is his: "Fear may become abject cowardice, prudent caution, rev
 Impulses are also where change comes from: "Impulses are the pivots upon which the re-organization of activities turn, they are agencies of deviation, for giving new directions to old habits and changing their quality." The compendium's rule of redirecting rather than suppressing follows: the impulse is material, and the question is what organizes it.
 
 **Plain words**
-An impulse is not a verdict about you. In Dewey's examples, the same fear that becomes abject cowardice in one arrangement becomes prudent caution in another, and the outlets and inhibitions around an impulse decide which disposition it becomes. The compendium's exercise: name one impulse you fight, and one activity that supplies a different outlet for it.
+An impulse is not a verdict about you. In Dewey's examples, the same fear that becomes abject cowardice in one arrangement becomes prudent caution in another; the outlets and inhibitions supplied by the surroundings, and the impulse's interactions with other tendencies, help shape the disposition that develops. The compendium's exercise: name one impulse you fight, and one activity that supplies a different outlet for it.
 
 *For example:*
 Imagine the restless child who cannot sit still through a lecture. For this exercise, note what the restlessness is doing in each setting: what outlets the lecture hall supplies and what outlets a bike ride supplies, before deciding which setting the impulse is a problem in.

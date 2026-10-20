@@ -19,15 +19,22 @@
   "P103",
   "P104",
   "P106",
-  "P108"
+  "P108",
+  "P109"
  ],
  "in_progress": null,
  "flagged": {
   "B014": "Reopened for QC: advisor milestone QC repairs",
-  "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix"
+  "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix",
+  "P074": "milestone-15 QC: quote capitalization (Native), outlets wording",
+  "P095": "milestone-15 QC: verify Part V locator from PDF page; delete novelty line",
+  "P103": "milestone-15 QC: overgeneralization; lecture verification; blockquote capitalization",
+  "P104": "milestone-15 QC: author attribution; remove method narration; unsupported claim",
+  "P108": "milestone-15 QC: outcome promise; capital T in map quote",
+  "P109": "milestone-15 QC: bounded rewrite; chapter locator verification"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T03:47:05+00:00",
+ "updated": "2026-10-20T03:52:31+00:00",
  "band_done": false
 }

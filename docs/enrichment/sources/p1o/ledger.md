@@ -346,3 +346,46 @@
   anyway' prediction - the scales now framed as Dewey's reconstruction.
   Vygotsky 1978 tail reduced to bare wikilink (unopened). Validator ok
   before done.
+
+### Item-15 milestone QC round (advisor, 2026-10-20) — repairs applied
+- P095 REPAIRED: blockquote locator corrected from the inferred 'Part V,
+  Ch. II' to verified corrected-edition printed page 214 (the PDF's running
+  headers show 'Discussions and Applications' around pp. 210-215; the
+  Part V inference was wrong). All three quotes re-located to verified
+  printed pages of the corrected edition: p. 28 (becoming/creative
+  advance), p. 66 (reality of the potential), p. 214 (future merely real).
+  'Novelty is not noise in the system; it is how the system runs' deleted.
+- P074 REPAIRED: 'Native human nature supplies' capitalization restored
+  and the quoted sentence completed with its period; outlets wording
+  softened to 'help shape the disposition that develops' with the
+  impulse's interactions with other tendencies added.
+- P103 REPAIRED: lecture locators corrected — adolescence/symptoms/two-
+  things passages are in Lecture IX ('Conversion'), NOT Lecture VIII;
+  'remedying inner incompleteness' is Lecture VIII. Blockquote replaced
+  with the complete source sentence ('But to find religion is only one out
+  of many ways...'). Overgeneralizations removed ('Everyone goes through
+  seasons', 'usually gets labeled', 'typically end... rather than in
+  collapse', 'aimed by the very unease'); retirement example converted
+  to a proposed exercise.
+- P104 REPAIRED: author attribution verified from the page's DC.creator
+  meta tag — the archived SEP entry is authored by Nicholas Rescher
+  himself (not Seibt; my citation was wrong). Body and blockquote now
+  attribute the entry to Rescher. Access-history narration removed from
+  the body (moved to Sources). 'Stops producing the moment it exists'
+  claim removed.
+- P108 REPAIRED: map quote capital T restored; 'the learner meets them
+  already wanting them' outcome promise replaced with a proposed
+  teaching-sequence exercise with observation, not guaranteed motivation.
+- P109 REPAIRED per the advisor's bounded replacement: burned-finger
+  duplicate removed; backward-forward sentence promoted to blockquote;
+  chapter locator verified as Ch. 11 'Experience and Thinking' (grep of
+  the Gutenberg text); How We Think reflective-thinking sentence
+  ('a state of doubt, hesitation, perplexity, mental difficulty') verified
+  against the local HWT copy.
+- Validation: all seven repaired files (P050, P074, P095, P103, P104,
+  P108, P109) validate ok against the pre-enrichment baseline e7034fd8^
+  (the pre-session state at my takeover). State flags for the six items
+  remain for supervisor clearance (no flag-removal command; B014
+  precedent).
+- The advisor's PASS was withheld pending these repairs; a confirmation
+  round is due with the item-20 milestone.

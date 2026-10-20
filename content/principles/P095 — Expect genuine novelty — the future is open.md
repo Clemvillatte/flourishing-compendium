@@ -12,13 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 95** — Expect genuine novelty: the future is open
 
-Whitehead's process cosmology makes the openness of the future structural rather than hopeful. Becoming, on his first category of explanation, "is a creative advance into novelty", and the creative advance is "the application of this ultimate principle of creativity to each novel situation which it originates" ([Process and Reality, 1929](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf), Part I, Ch. II). Novelty is not noise in the system; it is how the system runs.
+Whitehead's process cosmology makes the openness of the future structural rather than hopeful. Becoming, on his first category of explanation, "is a creative advance into novelty", and the creative advance is "the application of this ultimate principle of creativity to each novel situation which it originates" ([Process and Reality, 1929, corrected edition](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf), p. 28).
 
 > The future is merely real, without being actual; whereas the past is a nexus of actualities.
 >
-> (Whitehead, Process and Reality, 1929, Part V, Ch. II, "God and the World")
+> (Whitehead, Process and Reality, 1929, corrected edition, p. 214)
 
-On Whitehead's account, what exists settled is the past; the future is real as potential, "the reality of what is potential, in its character of a real component of what is actual". The compendium's application: plans are made from the settled and the likely, and they live inside a future that keeps arriving as genuinely new situations. A plan that expects novelty is a plan with checkpoints.
+On Whitehead's account, what exists settled is the past; the future is real as potential, "the reality of what is potential, in its character of a real component of what is actual" (p. 66). The compendium's application: plans are made from the settled and the likely, and they live inside a future that keeps arriving as genuinely new situations. A plan that expects novelty is a plan with checkpoints.
 
 **Plain words**
 The past is finished and the future is not; that is the whole idea. On Whitehead's account the settled part of the world is its past, and each new situation is where the deciding happens. The compendium's exercise: take one fixed expectation about the next year and write what you would do if it turned out wrong.
@@ -28,7 +28,7 @@ A plan written in 2019 met 2020, and the interesting question became what the ne
 
 ## Sources
 
-- [Whitehead, Process and Reality (open PDF edition)](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf) — Part I, Ch. II; Part II, Ch. II; Part V, Ch. II
+- [Whitehead, Process and Reality, corrected edition (open PDF)](http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf) — pp. 28, 66, 214 (printed pages of the corrected edition)
 
 ## Psychology parallels
 

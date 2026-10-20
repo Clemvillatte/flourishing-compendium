@@ -18,15 +18,15 @@ Dewey's The Child and the Curriculum states the principle as a relation between 
 >
 > (Dewey, The Child and the Curriculum, 1902)
 
-His explorer comparison makes the mistake plain: the map is drawn after the territory is explored, and "the map is not a substitute for a personal experience. The map does not take the place of an actual journey." The logically formulated material of a study is worth having; it is the wrong place to begin.
+His explorer comparison makes the mistake plain: the map is drawn after the territory is explored. "The map is not a substitute for a personal experience. The map does not take the place of an actual journey." The logically formulated material of a study is worth having; it is the wrong place to begin.
 
-The compendium's application is the guitar teacher's: the song the learner loves is a point on the line, and the scales arrive as what the song demands. The order follows the want, which is the difference between a map followed and a trail walked.
+The compendium's application is the guitar teacher's: the song the learner loves is a point on the line, and the scales can be sequenced as what the song demands, which is the difference between a map followed and a trail walked.
 
 **Plain words**
 A subject laid out in its own logical order is a map of territory somebody else already explored. The learner is standing somewhere specific, holding a question, and the teaching that lands starts at that spot and walks toward the subject. Before teaching anything, find out what the learner already does and wants, and let that set the first step. The compendium's exercise: name the learner (yourself included), and write the question they are actually holding today.
 
 *For example:*
-Imagine the guitar teacher who starts with the song you love instead of scales. The scales are not skipped; they arrive as what the song demands, and the learner meets them already wanting them.
+For a proposed exercise, imagine the guitar teacher who starts with the song you love and sequences the scales as what the song demands. After a few lessons, note which parts of the song's demands the learner reaches for willingly and which require the sequence to slow down.
 
 ## Sources
 
