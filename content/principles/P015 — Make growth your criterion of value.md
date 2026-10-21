@@ -18,7 +18,7 @@ Dewey's criterion comes from "The Good of Activity" (Human Nature and Conduct, P
 
 The surrounding paragraph closes the loop: morals is education, learning the meaning of what we are about and employing that meaning in action; growing and growth are the same fact ([Dewey 1922, HNC IV.I](https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct/text/chapter-4-1)). Growth as criterion therefore asks a specific question of any course of action: does it expand the meaning and scope of what you are doing, or merely its comfort?
 
-(Dewey, Human Nature and Conduct, 1922; Experience and Nature, 1925.)
+(Dewey, Human Nature and Conduct, 1922.)
 
 **Plain words**
 Before deciding between two options, ask what each would let you learn or understand that the other would not. Dewey's criterion makes growth the thing to check: which choice expands the present action in meaning and scope.
