@@ -370,3 +370,21 @@ Carriers opened fresh: Gutenberg #34901 (Mill On Liberty), Markus & Kitayama 199
    amodal reach) supported by the paper's own abstract and summary.
 
 Result: 3/3 quotation fidelity PASS, no defects this round (one minor list-abridgment note).
+
+## Round 17 (16:28Z) — w1aa quote-fidelity verification, sixteenth batch
+
+Carriers opened fresh: Husserl Cartesian Meditations PDF (Cairns, archive.org CDN),
+Haslam et al 2009 editorial PDF (dhi.ac.uk), Shalev 2018 (PMC), PubMed 24331897
+(Cruwys et al abstract).
+
+1. Implicit and explicit — both blockquotes VERBATIM (§19, §20, pp. 44-46); the four
+   in-text fragments ("predelineated potentialities", "explicate or unfold",
+   "certain degree of foreshadowing", "finished datum") all verbatim-supported.
+2. Haslam et al — blockquote VERBATIM; the "not simply external features", buffer,
+   caution, devastating-upside and five-themes sentences VERBATIM; the Tajfel 1972
+   p. 31 definition VERBATIM; Cruwys follow-up statistics (N = 5055/4087; 24%/63%)
+   VERBATIM vs the PubMed abstract, with the suggestive-not-causal framing preserved.
+3. Focusing — blockquote VERBATIM vs the opened Shalev article; the process-and-
+   teachable-skill and trivialization prose claims verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
