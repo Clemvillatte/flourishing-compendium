@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-"Second-order desires" — wanting what you want — is Harry Frankfurt's term from "Freedom of the Will and the Concept of a Person" (Journal of Philosophy 68(1), 1971). The definition:
+"Second-order desires" is Harry Frankfurt's term, from "Freedom of the Will and the Concept of a Person" (Journal of Philosophy 68(1), 1971), for wanting what you want. The definition:
 
 > "Someone has a desire of the second order either when he wants simply to have a certain desire or when he wants a certain desire to be his will. In situations of the latter kind, I shall call his second-order desires 'second-order volitions' or 'volitions of the second order.'" (Harry G. Frankfurt, [full text PDF](http://www.yorku.ca/dimock/documents/FrankfurtFreedomoftheWillandtheConceptofaPerson.pdf))
 
