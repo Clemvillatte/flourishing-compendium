@@ -61,7 +61,8 @@
   "Value pluralism",
   "Values",
   "Voluntary discomfort",
-  "Allostatic load"
+  "Allostatic load",
+  "Alterity"
  ],
  "in_progress": null,
  "flagged": {
@@ -113,6 +114,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:50:14+00:00",
+ "updated": "2026-10-21T08:50:43+00:00",
  "band_done": false
 }
