@@ -2119,3 +2119,8 @@ Verification pass 83 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 w
 - Y075 (Yoga Sūtra on contemplation as concentration, Woods 1914) and Y076 (Yoga Sūtra on the three-in-one constraint, Woods 1914): both quotes match the already-downloaded theessentialway.org reprinted text verbatim.
 - Y074, Y077: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 310 page-checks across 77 verification passes (pass 83 re-verifies and records 2 already-counted Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 84 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- Y078 (Yoga Sūtra 1.18, Woods — same passage as Y022), Y080 (Yoga Sūtra 1.48 "truth-bearing"), Y081 (Yoga Sūtra on supernal activities as obstacles/perfections, Woods): all match the already-downloaded theessentialway.org text verbatim.
+- Y079 (Yoga Sūtras 1.27 + 1.28, "The word-expressing Him is the Mystic-syllable (pranava). Repetition of it and reflection upon its meaning [should be made]."): the wiki page's quote is a concatenation of two adjacent sūtras (1.27 and 1.28), both of which are present verbatim in the source, separated in the source by the sūtra numbers; the concatenation is an editorial join, disclosed. The source prints "( praṇava )" with a diacritic where the wiki page prints "(pranava)" — a diacritic normalization, disclosed. Both components match verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 84 re-verifies and records 4 already-counted Y-pages, adding no new page-checks). Delivering the report now.
