@@ -43,13 +43,14 @@
   "Functional attitude theory",
   "Functional contextualism",
   "General strain theory",
-  "Generalized trust"
+  "Generalized trust",
+  "Generosity"
  ],
- "in_progress": "Generosity",
+ "in_progress": null,
  "flagged": {
   "Creative selection": "Namespace flag: term 'creative selection' does not appear in the opened Bergson text (Creative Evolution, Mitchell trans., Gutenberg 26163); the opened passages support endless self-creation and internal-impetus novelty, not a selection construct. Advisor QC (item-5 milestone) FAIL on concept identity. Rename or merge into Creative evolution requested; WIP body preserved with verbatim quotes, page discloses the label as the wiki's. Supervisor disposition needed."
  },
  "missing_concepts": [],
  "sources_checked": 29,
- "updated": "2026-10-21T10:53:42+00:00"
+ "updated": "2026-10-21T10:54:19+00:00"
 }
