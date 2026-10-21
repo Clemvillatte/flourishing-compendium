@@ -25,7 +25,7 @@ The paper defines the contingencies as "the structure of the rules governing the
 
 ### In the compendium
 
-- [[P141 — Perceive by acting: perception is movement]] — carries the theory's thesis in its own words
+- [[P141 — Perceive by acting — perception is movement]] — carries the theory's thesis in its own words
 - [[E017 — Practise embodied perception]] — Merleau-Ponty's denial that perception is a detached act of knowing, the phenomenological counterpart
 - [[CO001 — Understand that cognition is predictive, not passive]] — the predictive-processing account of the same act of perception, a different mechanism for the same activity
 - [[PP075 — Move the body]] — the exercise evidence that bodily movement moves mood and cognition
