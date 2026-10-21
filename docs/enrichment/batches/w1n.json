@@ -1,33 +1,34 @@
 {
-  "batch": "w1n",
-  "done": [
-    "Fu (return)",
-    "Daily self-examination",
-    "Correspondent inference theory",
-    "Creative activities",
-    "Creativity",
-    "Critical thinking research",
-    "Cultural embeddedness",
-    "Cultural fit theory",
-    "Cybernetic Big Five Theory",
-    "Cytokine theory sickness behavior",
-    "Developmental psychopathology framework",
-    "Dialectic",
-    "Dialogue",
-    "Diathesis-stress model",
-    "Diversion",
-    "Dunning-Kruger effect",
-    "Dynamic systems theory",
-    "Eigentlichkeit (authenticity)",
-    "Empathic concern",
-    "Emodiversity theory",
-    "Elaboration Likelihood Model"
-  ],
-  "in_progress": null,
-  "flagged": {
-    "Creative selection": "Namespace flag: term 'creative selection' does not appear in the opened Bergson text (Creative Evolution, Mitchell trans., Gutenberg 26163); the opened passages support endless self-creation and internal-impetus novelty, not a selection construct. Advisor QC (item-5 milestone) FAIL on concept identity. Rename or merge into Creative evolution requested; WIP body preserved with verbatim quotes, page discloses the label as the wiki's. Supervisor disposition needed."
-  },
-  "missing_concepts": [],
-  "sources_checked": 21,
-  "updated": "2026-10-21T08:39:25+00:00"
+ "batch": "w1n",
+ "done": [
+  "Fu (return)",
+  "Daily self-examination",
+  "Correspondent inference theory",
+  "Creative activities",
+  "Creativity",
+  "Critical thinking research",
+  "Cultural embeddedness",
+  "Cultural fit theory",
+  "Cybernetic Big Five Theory",
+  "Cytokine theory sickness behavior",
+  "Developmental psychopathology framework",
+  "Dialectic",
+  "Dialogue",
+  "Diathesis-stress model",
+  "Diversion",
+  "Dunning-Kruger effect",
+  "Dynamic systems theory",
+  "Eigentlichkeit (authenticity)",
+  "Empathic concern",
+  "Emodiversity theory",
+  "Elaboration Likelihood Model",
+  "Embedded cognition"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "Creative selection": "Namespace flag: term 'creative selection' does not appear in the opened Bergson text (Creative Evolution, Mitchell trans., Gutenberg 26163); the opened passages support endless self-creation and internal-impetus novelty, not a selection construct. Advisor QC (item-5 milestone) FAIL on concept identity. Rename or merge into Creative evolution requested; WIP body preserved with verbatim quotes, page discloses the label as the wiki's. Supervisor disposition needed."
+ },
+ "missing_concepts": [],
+ "sources_checked": 21,
+ "updated": "2026-10-21T08:40:13+00:00"
 }
