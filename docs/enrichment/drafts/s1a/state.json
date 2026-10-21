@@ -685,7 +685,22 @@
      "note": "item 3 drafted (pivot from Deshan recorded); 10/10 body quotes verified vs opened PDF and Wikipedia wikitext; checker 0 errors"
     }
    ]
+  },
+  "s1a-026": {
+   "status": "qc_pending",
+   "angle": "B176: the dishes and the tangerine — Thich Nhat Hanh teaching Jim Forest presence at the sink and under the tree, and the prison letter that returned to the tangerine",
+   "history": [
+    {
+     "t": "2026-10-21T12:31:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:32:37+00:00",
+     "to": "qc_pending",
+     "note": "item 4 drafted; body quotes verified vs book PDF + 3 Forest pages; checker 0 errors"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:30:58+00:00"
+ "updated": "2026-10-21T12:32:37+00:00"
 }
