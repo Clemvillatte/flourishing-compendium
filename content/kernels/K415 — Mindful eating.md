@@ -14,11 +14,11 @@ Mindful eating brings the full attention of a formal practice to the act of eati
 
 ### Protocol
 
-1. Begin once with the raisin exercise, done exactly as a discovery practice rather than a rule.
+1. Begin once with the raisin exercise, done as a discovery practice rather than a rule.
 2. For the daily practice, pick one meal or snack. Before the first bite, pause: look at the food, take one conscious breath, and notice how hungry the body actually is, on a scale of one to ten.
 3. Take the first three bites slowly, putting the utensil down between them, naming the taste and texture as they change.
 4. Midway through the meal, pause again and re-rate hunger. Notice whether the urge to keep eating comes from the stomach, the eyes, the emotion of the moment, or plain habit.
-5. Finish with thirty seconds of noticing the aftertaste and the change in the body's state. One mindful meal a day is the full dose; the point is attention, not restriction.
+5. Finish with thirty seconds of noticing the aftertaste and the change in the body's state. One mindful meal a day is the full dose.
 
 ### Evidence
 
@@ -26,7 +26,7 @@ The strongest single trial is the "9 Hunger" online RCT (Peitz & Warschburger, 2
 
 ### A guided version
 
-A free 12-minute guided raisin meditation from Palouse Mindfulness-Based Stress Reduction, a well-established free MBSR resource, is available at [Raisin Meditation, Palouse Mindfulness](https://www.palousemindfulness.com/meditations/raisin.html).
+A free 12-minute guided raisin meditation from Palouse Mindfulness-Based Stress Reduction is available at [Raisin Meditation, Palouse Mindfulness](https://www.palousemindfulness.com/meditations/raisin.html).
 
 ## Operationalises
 
