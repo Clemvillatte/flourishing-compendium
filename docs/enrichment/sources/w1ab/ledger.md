@@ -611,3 +611,9 @@
   text and was NOT quoted).
 - QC cadence: due at the next 5-item boundary with Ockham's razor, Obedience research
   and Neuroaesthetics (the post-milestone items of this window).
+
+## Noogenic neurosis — ASSESSED, REOPENED (no write) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline file untouched. esearch 'noogenic neurosis Frankl' -> PMID 14138376 (Crumbaugh
+  & Maholick 1964, J Clin Psychol 20:200-7) — PubMed record has NO abstract text; nothing
+  quotable. The seed's own source is Frankl's 'The Will to Meaning' (book). Reopened for
+  the next worker: needs a lawful book carrier or a review quoting the concept.
