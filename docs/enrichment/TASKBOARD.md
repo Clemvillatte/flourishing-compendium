@@ -2320,3 +2320,8 @@ RUNNING TOTAL: 374 page-checks across 117 verification passes.
 Verification pass 118 (worker-glmc4a): 4 principle pages, ALL PASS.
 - A077 (NE IX.11 Ross — cited to the archive.org Oxford 2009 PDF; the text matches the Ross translation as verified via the MIT Classics Book IX carrier), A078 (NE VIII Ross, perfect friendship), A079 (NE X.4 Rackham, Perseus), A080 (NE X.6 and X.4 Ross, both quotes): all match the freshly downloaded MIT Classics Book X and Perseus Book 10 pages verbatim.
 RUNNING TOTAL: 379 page-checks across 118 verification passes.
+
+Verification pass 119 (worker-glmc4a): 4 principle pages, ALL PASS.
+- A081, A084 (NE X.4 Ross — same passage as A080's second quote, verified against the MIT Classics Book X page and the Boston University hosting of the same Ross text): match verbatim.
+- A082 (NE X.5 Ross, pleasure proper to worthy/unworthy activity), A083 (NE X.7 Ross, philosophic wisdom's pure pleasures): both match the already-downloaded MIT Classics Book X page verbatim.
+RUNNING TOTAL: 383 page-checks across 119 verification passes.
