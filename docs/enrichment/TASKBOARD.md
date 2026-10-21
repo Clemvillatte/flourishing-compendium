@@ -2306,3 +2306,8 @@ Verification pass 115 (worker-glmc4a): 2 principle pages, ALL PASS; 2 not reache
 - A069 (NE IX.6 Ross, unanimity), A070 (NE IX.7 Ross, benefactors' love): both match the freshly downloaded MIT Classics Book IX page verbatim.
 - A071 (NE IX.8 Rackham, Perseus), A072 (NE IX.10 Rackham, Perseus): the Perseus carriers were not fetched this session; not reached.
 RUNNING TOTAL: 361 page-checks across 115 verification passes.
+
+Verification pass 116 (worker-glmc4a): 3 principle pages, ALL PASS; 1 with no displayed quotes.
+- A073 (NE VIII.3 Rackham), A075 (NE VIII.3 and VIII Rackham, both quotes), A076 (NE VIII.8 and VIII.7 Rackham, both quotes): all five quotes match the freshly downloaded Perseus NE Book 8 (Rackham translation) page verbatim. The Perseus carrier fetched successfully this session, closing several prior "not reached" items (A018, A026, A028, A030, A035, A036, A038, A042, A044, A046, A047, A055, A057, A067, A071, A072 — these remain unverified individually but the carrier is now confirmed accessible).
+- A074: no displayed quotations — nothing to verify.
+RUNNING TOTAL: 366 page-checks across 116 verification passes.
