@@ -966,3 +966,5 @@
   verification pass. Existing seed Related [[Hope]] preserved with its caption. Related
   added: Learned optimism, Optimistic explanatory style (existence-verified files;
   navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
+  - RESOLVED same session: the 'weathering' sentence re-verified against the opened Eduteka
+    PDF and confirmed present verbatim; no fix required; the page stands as written.
