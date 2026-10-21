@@ -34,6 +34,9 @@ Imagine preparing to teach a difficult passage. Try devising an example that fit
 
 - [Ian G. Hansen, “Self-Actualizing Creativity,” Encyclopedia of Personality and Individual Differences (2017)](https://www.york.cuny.edu/file-repository/ihansen/self-actualization_needs.docx/@@download/file/Self-Actualizing_Creativity.docx): opened scholarly commentary quoting Maslow's 1962 book, p. 129; achievement distinction and cultural limits. The book itself was not read.
 
+## Stories
+- [[ST397 — Hokusai Asks for Five More Years|397. Hokusai Asks for Five More Years]]
+
 ## Psychology parallels
 
 - **[[Creativity|Creativity research]]** (Conner et al., 2018): retained research pointer; no well-being outcome is claimed here.

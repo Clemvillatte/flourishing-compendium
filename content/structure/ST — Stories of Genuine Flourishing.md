@@ -220,6 +220,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST127 — Sean and the Bench]]
     - [[ST363 — Angelina Uses the Front Door]]
     - [[ST383 — Half an Hour with Cotton Seeds]]
+    - [[ST397 — Hokusai Asks for Five More Years]]
   - [[ST-S03.08 — III.8 Pluralism, Values, and Democracy]]
     - [[ST128 — James's Pluralistic Universe]]
     - [[ST129 — Addams's Democracy as a Way of Life]]

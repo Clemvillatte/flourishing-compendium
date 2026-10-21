@@ -22,6 +22,9 @@ Rogers takes the same point and gives it a name that carries the principle in it
 
 *For example:* An artist who says "I have found my style" has just drawn the boundary of what they will next try. The artist who says "I am onto something" has not. Same talent, same track record, different tense — and a decade later only one of them is still interesting to themselves.
 
+## Stories
+- [[ST397 — Hokusai Asks for Five More Years|397. Hokusai Asks for Five More Years]]
+
 ## Psychology parallels
 
 - **[[Self-concordant goal pursuit over time|Self-concordant goal pursuit over time]]** (Sheldon and Elliot, 1999)
