@@ -11,16 +11,24 @@ Self-handicapping theory is the account, introduced by Steven Berglas and Edward
 
 > "Self-handicapping provides the opportunity to obscure the plausible causes of failure. This strategy makes the handicap as likely an explanation for failure as one's incompetence, and so self-handicapping is appealing even in the face of failure." (Braslow, Guerrettaz, Arkin & Oleson, [Self-Doubt, Social and Personality Psychology Compass 6(6), 2012, p. 475](http://www.homepages.se.edu/cvonbergen/files/2013/01/Self-Doubt.pdf))
 
-### The price and the trap
+### Origin
 
-The review follows the strategy to its costs. The commonest handicaps, drugs, alcohol and procrastination among them, interfere with performance itself, so "protecting one's plausible perception of competence carries with it the cost of not enjoying success". The strategy also feeds on itself: preoccupation with the attributional implications of failure outweighs the desire to succeed, and the handicap keeps ability from ever being tested. The review adds that the strategy "serves to perpetuate feelings of self-doubt", since self-handicappers eschew diagnostic information about their ability levels, and may rely on what Jones and Berglas called the mañana fantasy: the thought that in time genuine effort might still produce success. Their illustration is the alcoholic who keeps both the handicap and the belief that life would be ideal once the drinking stopped.
+Berglas and Jones demonstrated the strategy in 1978 with a study in which participants who had received success feedback on unsolvable problems were later offered a choice between two supposed drugs before further trials. The review describes that induction as tapping "the heart of the self-doubt that produces self-handicapping".
+
+### Core claims
+
+The review follows the strategy to its costs. The commonest handicaps, drugs, alcohol and procrastination among them, interfere with performance itself, so "protecting one's plausible perception of competence carries with it the cost of not enjoying success". The strategy also feeds on itself: preoccupation with the attributional implications of failure outweighs the desire to succeed, and the handicap keeps ability from ever being tested. The review adds that the strategy "serves to perpetuate feelings of self-doubt", since self-handicappers eschew diagnostic information about their ability levels.
+
+### In everyday life
+
+Jones and Berglas's own illustration, as the review retells it, is the alcoholic who keeps both the handicap and the belief that life would be ideal once the drinking stopped, and who may rely on what they called the mañana fantasy: the thought that in time, when the spirit moves one, genuine effort might still produce success.
 
 ### In the compendium
 
-- [[Y081 — Hold powers and peak experiences lightly]] — warns against hanging self-worth on peak states that a bad day can then threaten
-- [[E105 — Practise amor fati]] — the opposite stance toward failure: treating it as material rather than something to excuse
-- [[E026 — Practise being-with (Mitsein)]] — places the self in relation rather than alone with its verdicts
-- [[D115 — Lead from behind]] — a context where credit and blame are shared rather than hoarded
+- [[Y081 — Hold powers and peak experiences lightly]] — the Yoga Sutras treat the powers of deep practice as obstacles rather than prizes
+- [[E105 — Practise amor fati]] — Nietzsche's resolution to love fate rather than wage war with the ugly
+- [[E026 — Practise being-with (Mitsein)]] — Heidegger's claim that being-with is structural to being a person
+- [[D115 — Lead from behind]] — the Daodejing's ranking of rulers by how little they impose
 
 ## Field
 
@@ -33,8 +41,8 @@ Self · Psychological science
 ## Related concepts
 
 - [[Self-doubt theory]] — the construct whose management this strategy serves
-- [[Contingent self-esteem]] — the handicap exists to protect the self-worth that rides on each performance
+- [[Contingent self-esteem]] — comparison: another construct about self-worth riding on performance
 
 ## Sources
 
-- [Braslow, Guerrettaz, Arkin & Oleson, "Self-Doubt", Social and Personality Psychology Compass 6(6), 470-482, 2012 (open PDF)](http://www.homepages.se.edu/cvonbergen/files/2013/01/Self-Doubt.pdf) — logic, costs, and self-perpetuation of the strategy; the mañana fantasy
+- [Braslow, Guerrettaz, Arkin & Oleson, "Self-Doubt", Social and Personality Psychology Compass 6(6), 470-482, 2012 (open PDF)](http://www.homepages.se.edu/cvonbergen/files/2013/01/Self-Doubt.pdf) — logic, costs, self-perpetuation, the 1978 induction and the alcoholic illustration
