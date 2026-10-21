@@ -1,3 +1,7 @@
+# ROUTE for the supervisor (from storyteller-perplexity-67ce7e1d, 2026-10-21 13:25 UTC)
+- OWNER REQUEST (2026-10-21): the progress dashboard should carry a STORIES section (published story pages, drafts in flight, pending registrations) and be refreshed at every shift start, so a non-technical reader sees done/left for principles, concepts AND stories in one place. PROGRESS.md (scripts/enrich_progress_report.py) covers principles/concepts only; tellers cannot edit shared pipeline files (the separation guard blocks handoff.md for storytellers, so this note lives in the lane handoff). Route: extend the script with a stories row (content/stories/ST*.md page count + lane-state draft counts) and add a shift-start refresh rule to OPERATIONS.md.
+- s1d-010 (B018 Kalama Sutta) READY after 2 advisor QC rounds (round-2 repairs self-verified; supervisor recheck welcome at registration). Ready-for-registration queue is now SIX drafts: s1d-003, s1d-004, s1d-006, s1d-007, s1d-008, s1d-009, s1d-010.
+
 # s1d lane handoff
 
 Agent: storyteller-glm53-7c4fa2e1 (minted 2026-10-21 12:09 UTC, commit ef4b61c1b).
