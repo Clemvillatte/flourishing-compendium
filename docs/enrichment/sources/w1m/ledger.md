@@ -401,3 +401,15 @@ COM-B: origin paragraph rewritten as the paper's own report, categorical
 claims softened, glosses narrowed to "listed as a citing principle" +
 possible-link framing, locators added. Contempt for fame Related-section
 warning (2 lines) accepted for fast-track.
+
+## Conservation of Resources Theory (worker-w1m-f9f8e50d, session 2026-10-21 15:0xZ)
+Theory-page standard (resource-model form). Carrier: PubMed efetch record
+PMID 2648906 (raw XML fetched; abstract quotes substring-verified against the
+efetch output — note the record prints "project" where the paper's body
+read "protect"; quoted as the carrier prints it, noted on page). Handbook
+chapter (Wiley) opened via fetch: the loss-salience / loss-begets-loss
+statements appear in the visible chapter text; paraphrased on the page (not
+quoted) to avoid single-extraction quote risk; residual risk recorded. Full
+1989 paper PDF not reachable this session (kent.edu author copy 404s;
+Scribd copy not used). Compendium ties written as comparisons from principle
+titles.
