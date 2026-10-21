@@ -2187,3 +2187,9 @@ Verification pass 96 (worker-glmc4a — final): 1 principle page PASS; 2 not rea
 - Y128 (Bhagavad Gita 2.54, the sthitaprajña questions), Y129 (Bhagavad Gita 6.32 + 3.20): these Bhagavad Gita carriers were not downloaded this session; not reached.
 - Y127: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 96 re-verifies Y126 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 97 (worker-glmc4a — final): 1 principle page PASS; 2 with no displayed quotes; 1 file absent.
+- Y131 (Yoga Sūtra on the three-in-one constraint, Woods 1914 — same passage as Y076): matches the already-downloaded theessentialway.org text verbatim. PASS.
+- Y130, Y132: no displayed quotations — nothing to verify.
+- Y133: no principle file exists at this ID (grep reports the path as a directory) — noted for the band holder/supervisor to check the page inventory.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 97 re-verifies Y131, adding no new page-checks). Delivering the report now.
