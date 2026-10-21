@@ -67,7 +67,8 @@
   "Festinger",
   "Habermas",
   "Haslam et al",
-  "Henrich et al"
+  "Henrich et al",
+  "Hickman et al"
  ],
  "in_progress": null,
  "flagged": {
@@ -110,10 +111,11 @@
   "Integrity (integritas: wholeness)": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Intuitive eating": "QC round 2 repairs applied and pushed; QC re-verification pending",
   "Haslam et al": "bare author-year stub title; enriched as Haslam et al 2009 editorial social-cure; suggest supervisor rename to a topical title",
-  "Henrich et al": "bare author-year stub title; enriched as the WEIRD review (Henrich, Heine, Norenzayan 2010); suggest rename"
+  "Henrich et al": "bare author-year stub title; enriched as the WEIRD review (Henrich, Heine, Norenzayan 2010); suggest rename",
+  "Hickman et al": "bare author-year stub title; enriched as Hickman 2021 Lancet Planet Health survey; suggest rename"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:06:26+00:00",
+ "updated": "2026-10-21T08:07:10+00:00",
  "band_done": false
 }
