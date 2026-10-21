@@ -61,3 +61,7 @@
 ## MO009 — Motivation is social
 - Opened: Aarts/Gollwitzer/Hassin 2004 abstract (Ovid); Goldstein/Cialdini/Griskevicius 2008 abstract (OUP) + full-text excerpt; Bohner & Schlüter towel-reuse replication PDF (journal not stated in fetched text); Wing & Jeffery 1999 (PubMed); Zhang et al. 2016 (eScholarship PDF).
 - Seed cites Sheldon & Elliot 1999 for "social support increases goal attainment": that paper is the self-concordance model, not social support; dropped. Hogan 2015, Festinger 1954, Cialdini 2001 unopened; kept as bare refs. Practice line (accountability) left as is: evidence on accountability itself not found; Zhang 2016 nuance added in body.
+
+## MO015 — Cultivate autonomy
+- Opened: Ryan & Deci 2000 abstract (PubMed/APA PsycNET); APA SDT summary page; Deci et al. 1994 abstract (PubMed/Wiley); Su & Reeve 2011 abstract (ERIC); Iyengar & Lepper 1999 (MIT PDF abstract); Crum & Langer 2007 abstract.
+- Seed example "hospital cleaner study ... saw their choices" is WRONG: the study is Crum & Langer 2007 (hotel room attendants, mindset that work is exercise), not about choice. Example replaced with labelled imagined case. Ryan & Deci 2017 and Reeve 2006 unopened (flagged as such).
