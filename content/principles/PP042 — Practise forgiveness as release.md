@@ -12,18 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 42** — Practise forgiveness as release
 
-Forgiveness, in the sense of releasing resentment, is associated with well-being. It is not condoning, excusing, or reconciling. It is the decision to stop letting the past hold the present hostage. Research on forgiveness interventions (Worthington) shows modest but reliable effects on mental health, though the effects are stronger for interpersonal forgiveness than for self-forgiveness.
+The best evidence here is on forgiveness interventions, which are structured programmes, not on forgiveness as a private decision. Wade, Hoyt, Kidwell and Worthington (2014) pooled 54 reports. Participants who received explicit forgiveness treatment "reported significantly greater forgiveness" than untreated participants (effect size 0.56, 95% CI 0.43 to 0.68), and forgiveness treatments "resulted in greater changes in depression, anxiety, and hope than no-treatment conditions". Longer interventions did better ([abstract excerpt](https://faculty.sites.iastate.edu/nwade/files/inline-files/Wade,%20Hoyt,%20Kidwell,%20Worthington,%202014.pdf)). A later meta-analysis by Akhtar and Barlow (2018) found reductions in depression (SMD -0.37, 95% CI -0.68 to -0.07) and called the evidence "moderately strong", adding that "further research is, however, needed" ([summary](https://www.ethicalpsychology.com/2018/02/forgiveness-therapy-for-promotion-of.html?m=0)). The depression interval is wide, so "modest" is fair and "reliable" is a stretch.
 
-(Worthington et al., 2014; Griffin et al., 2015.)
+Self-forgiveness has been tested separately. Griffin and colleagues ran a six-hour workbook trial with 204 students who had wronged someone. Treatment "led to increases in self-forgiveness and decreases in self-condemnation", and the authors added that "replication trials are needed" ([Griffin et al. 2015](https://pubmed.ncbi.nlm.nih.gov/25621588/)). The seed claim that effects are stronger for interpersonal than for self-forgiveness is not supported by any source I opened, so it is removed.
 
-**Plain words** Forgiveness here means releasing resentment. It's linked to well-being. It isn't condoning, excusing or reconciling. It's deciding to stop letting the past hold the present hostage. Forgiveness interventions give modest but reliable mental-health benefits.
+The seed definition (not condoning, excusing or reconciling) is a common one in this literature. I did not open a source that states it in those words, so treat it as a working definition and not as a quotation. Two earlier citations were wrong: Griffin et al. 2015 is a self-forgiveness trial, not a meta-analysis, and the 2014 meta-analysis is by Wade et al.
 
-*For example:* After years of bitterness toward a former friend, you decide to stop rehearsing the grievance, and find you sleep better.
+**Plain words** Structured forgiveness programmes help people let go of resentment, and they tend to ease depression and anxiety somewhat. More time spent on the programme helped more. Self-forgiveness has a promising first trial, and little else was checked here.
+
+*For example:* This is an imagined case. After years of bitterness toward a former friend, you work through a guided forgiveness workbook over several weeks and notice you rehearse the grievance less often.
+
+## Sources
+
+- [Wade, Hoyt, Kidwell and Worthington (2014), Efficacy of psychotherapeutic interventions to promote forgiveness: a meta-analysis, J Consult Clin Psychol 82(1), 154-170](https://faculty.sites.iastate.edu/nwade/files/inline-files/Wade,%20Hoyt,%20Kidwell,%20Worthington,%202014.pdf)
+- [Akhtar and Barlow (2018), Forgiveness therapy for the promotion of mental well-being, Trauma Violence Abuse 19, 107-122 (summary of abstract)](https://www.ethicalpsychology.com/2018/02/forgiveness-therapy-for-promotion-of.html?m=0)
+- [Griffin et al. (2015), Efficacy of a self-forgiveness workbook, J Couns Psychol 62(2), 124-136 (abstract)](https://pubmed.ncbi.nlm.nih.gov/25621588/)
 
 ## Psychology parallels
 
-- [[Forgiveness|Forgiveness interventions meta-analysis]] (Griffin et al., 2015)
-- [[REACH model of forgiveness|REACH model of forgiveness]] (Worthington et al., 2014)
+- [[Forgiveness|Forgiveness interventions meta-analysis]] (the meta-analysis is Wade et al., 2014; Griffin et al., 2015 is a self-forgiveness workbook trial)
+- [[REACH model of forgiveness|REACH model of forgiveness]] (Worthington's model; its original 2006 source was not opened)
 
 ## Philosophy parallels
 

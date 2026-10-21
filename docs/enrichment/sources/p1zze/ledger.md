@@ -114,3 +114,7 @@
 ## PP035 — Social perspective-taking
 - Opened: Eyal/Steffel/Epley 2018 abstract (PubMed), Epley et al. 2004 abstract (PubMed), Kruger et al. 2005 abstract (NYU PDF excerpt).
 - Seed attributes perspective-getting superiority to Epley 2004; the right source is Eyal et al. 2018. Seed "reduces conflict, improves relationship quality" not supported by any opened source -> removed. Full texts not opened.
+
+## PP042 — Forgiveness as release
+- Opened (search excerpts of abstracts): Wade et al. 2014 meta-analysis (ISU PDF excerpt), Akhtar & Barlow 2018 (summary page), Griffin et al. 2015 (PubMed). Full texts not opened.
+- Seed errors: "Griffin 2015 = interventions meta-analysis" is wrong (self-forgiveness workbook RCT); meta-analysis is Wade et al. 2014; "Worthington 2014 REACH" mislabelled. "Stronger for interpersonal than self-forgiveness" unsupported -> removed. "Modest but reliable" softened (wide CI). Not-condoning definition flagged as unopened. Wikilink labels retained for validator and annotated.
