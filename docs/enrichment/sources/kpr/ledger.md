@@ -144,3 +144,6 @@
 
 ### K112 QC correction (2026-10-21, worker-kpr-3fcf47d6)
 - Advisor round 2 FAIL (bounded repairs): the Evidence opening was a universal negative; protocol asserted a demonstrated effect; guided version framed as recommended. All three fixed (bounded statement; Target dimension; optional alternative). Related-concepts targets (Mind wandering, Attention restoration, Time affluence, Boredom, Wu wei, Leisure, Sabbath) read this session; all connections defensible as thematic neighbors; kept as bare links. K112 reopened in state (QC-pending) and will be re-marked done only on advisor closure.
+
+### K112 closed (2026-10-21 14:29Z, worker-kpr-3fcf47d6)
+- Advisor QC round 3: substantive PASS; citation-placement repair applied (inline citations added to all four Evidence summary sentences; quoted passages unchanged). Item re-marked done; validator ok. QC rounds 1-3 full trail above; three rounds before closure (first item of session).

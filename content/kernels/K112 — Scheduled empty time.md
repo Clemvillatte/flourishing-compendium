@@ -22,19 +22,19 @@ Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. 
 
 ### Evidence
 
-This is a suggested self-guided protocol. The studies cited below do not directly test its daily schedule, duration or instructions. In Baird and colleagues' incubation study, a 12-minute undemanding task produced greater improvement on previously encountered creativity problems than demanding work, rest, or no break; the reported omnibus effect was η2 = .10. Rest did not show the incubation benefit, so the result does not establish that unfilled time improves creativity.
+This is a suggested self-guided protocol. The studies cited below do not directly test its daily schedule, duration or instructions. In Baird and colleagues' incubation study, a 12-minute undemanding task produced greater improvement on previously encountered creativity problems than demanding work, rest, or no break; the reported omnibus effect was η2 = .10 ([Baird et al., 2012](https://www.cmhp.ucsb.edu/sites/default/files/2018-12/Baird%20et%20al.%20(2012)%20Inspired%20by%20distraction.pdf)). Rest did not show the incubation benefit, so the result does not establish that unfilled time improves creativity ([Baird et al., 2012](https://www.cmhp.ucsb.edu/sites/default/files/2018-12/Baird%20et%20al.%20(2012)%20Inspired%20by%20distraction.pdf)).
 
 > "Compared with engaging in a demanding task, rest, or no break, engaging in an undemanding task during an incubation period led to substantial improvements in performance on previously encountered problems." — [Baird et al. (2012)](https://www.cmhp.ucsb.edu/sites/default/files/2018-12/Baird%20et%20al.%20(2012)%20Inspired%20by%20distraction.pdf)
 
-Across 11 studies, Wilson and colleagues found that participants typically disliked spending 6 to 15 minutes alone with nothing to do but think; the finding documents a difficulty with being alone with thoughts, not a benefit of scheduling such time.
+Across 11 studies, Wilson and colleagues found that participants typically disliked spending 6 to 15 minutes alone with nothing to do but think; the finding documents a difficulty with being alone with thoughts, not a benefit of scheduling such time ([Wilson et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24994650/)).
 
 > "many preferred to administer electric shocks to themselves instead of being left alone with their thoughts" — [Wilson et al. (2014)](https://pubmed.ncbi.nlm.nih.gov/24994650/)
 
-Mind wandering was associated with lower happiness in an experience-sampling study; that result does not establish whether a scheduled unfilled break helps or harms.
+Mind wandering was associated with lower happiness in an experience-sampling study; that result does not establish whether a scheduled unfilled break helps or harms ([Killingsworth & Gilbert, 2010](https://pubmed.ncbi.nlm.nih.gov/21071660/)).
 
 > "people are thinking about what is not happening almost as often as they are thinking about what is" — [Killingsworth & Gilbert (2010)](https://pubmed.ncbi.nlm.nih.gov/21071660/)
 
-A field experiment found greater happiness after a time-saving purchase than after a material purchase; it tested buying free time, not leaving that time unfilled.
+A field experiment found greater happiness after a time-saving purchase than after a material purchase; it tested buying free time, not leaving that time unfilled ([Whillans et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28739889/)).
 
 > "working adults report greater happiness after spending money on a time-saving purchase than on a material purchase" — [Whillans et al. (2017)](https://pubmed.ncbi.nlm.nih.gov/28739889/)
 
