@@ -15,25 +15,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 Treat social identity, the part of the self that derives from group memberships (nationality, ethnicity, religion, profession, gender, class), as both a resource and a risk. Tajfel and Turner's working definition:
 
-> It consists, for the purposes of the present discussion, of those aspects of an individual's self-image that derive from the social categories to which he perceives himself as belonging. (Tajfel & Turner, 1979, ch. 3, "Social identity and social comparison")
+> It consists, for the purposes of the present discussion, of those aspects of an individual's self-image that derive from the social categories to which he perceives himself as belonging. (Tajfel & Turner, 1979, p. 40)
 
-Because self-image rides on group membership, defending the group's standing becomes a way of defending your own. Tajfel and Turner put the engine of intergroup conflict in one sentence:
+They connect positive social identity with favorable comparisons between groups, and their chapter describes experiments in which trivial group assignments produced in-group favoritism:
 
-> The basic hypothesis, then, is that pressures to evaluate one's own group positively through in-group/out-group comparisons lead social groups to attempt to differentiate themselves from each other. (Tajfel & Turner, 1979, ch. 3)
+> The basic hypothesis, then, is that pressures to evaluate one's own group positively through in-group/out-group comparisons lead social groups to attempt to differentiate themselves from each other. (Tajfel & Turner, 1979, p. 41)
 
-Their minimal-group experiments found this needs almost nothing to start:
+> The basic and highly reliable finding is that the trivial, ad hoc intergroup categorization leads to in-group favoritism and discrimination against the out-group. (Tajfel & Turner, 1979, p. 39)
 
-> The basic and highly reliable finding is that the trivial, ad hoc intergroup categorization leads to in-group favoritism and discrimination against the out-group. (Tajfel & Turner, 1979, ch. 3)
-
-The resource side runs on the same machinery. Group identification supplies belonging, support and health benefits, and the literature Muldoon and colleagues summarize records both directions in one finding:
+On the resource side, Muldoon and colleagues' abstract reviews evidence that group identification can support health:
 
 > There is increasing evidence that identification with social groups can protect and enhance health, establishing a kind of 'social cure'. However, for those affected by chronic or disabling conditions such as acquired brain injury (ABI), their identity may also represent a burden, a form of 'social curse'. (Muldoon et al., 2019, abstract)
 
-So the adaptive stance: own your identities while managing their risks.
+The compendium brings these contexts together as reasons to examine what a membership offers and how it affects judgments about other groups.
 
-**Plain words** Your groups are doing two jobs at once. They hold you up: people who share your references, backup on a bad day, a ready answer to who you are. They also edit what you see: once a crowd is part of your self-image, its faults get softer in your eyes and outsiders' faults get louder. That editing is not a character flaw; it is the same psychology that makes the backup real. Stay a member, and stay suspicious of the editing. A useful audit: ask what your most important group has quietly taught you to look down on.
+**Plain words** Think about a group that has helped you. What support would you miss without it? Separately, consider whether you give its members credit you would withhold from someone outside it. These questions let you examine the help you receive alongside your judgments about other people.
 
-*For example:* An imagined case. A lawyer gets fifteen years of identity, network and pride from the profession, and somewhere in those years also absorbed the belief that business people are shallow and academics are impractical. Same membership, both effects. The skill is keeping the first and auditing the second.
+*For example (imagined):* A professional association provides mentoring. A member reviewing job applications notices a preference for another member and checks every applicant against the same stated criteria.
 
 ## Psychology parallels
 
@@ -49,10 +47,10 @@ So the adaptive stance: own your identities while managing their risks.
 
 ## Related concepts
 
-- [[Social identity theory]] — the theory this principle applies to the self
-- [[Embodied social identity]] — the same self-dimension lived through the body
-- [[Intergroup contact]] — the countermeasure for the risk side
-- [[Identity-protective cognition]] — the risk side showing up in judgment
+- [[Social identity theory]] — the theory this principle draws on
+- [[Embodied social identity]] — identity lived through the body
+- [[Intergroup contact]] — the meta-analytic literature on reducing intergroup prejudice
+- [[Identity-protective cognition]]
 
 ## Sources
 
