@@ -910,3 +910,16 @@
   Related: Buddhist emptiness of inherent nature, Dependent origination, Two truths
   (navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
   Advisor QC not due (cadence).
+
+## ITEM: Novelty research (fast-track) — 2026-10-21, worker-pxy1u
+- Seed-source identification: 'Zhang et al., 2018' resolved to Zhang, Chen & Monosov, 'Novelty,
+  Salience, and Surprise Timing Are Signaled by Neurons in the Basal Forebrain' (Curr Biol,
+  epub 2018-12-20, print 2019; PMID 30581022, open access PMC6901356) — matched by topic (the
+  existing seed Related link to Reward prediction error (Schultz)) and by date. Abstract
+  fetched and four passages verified verbatim (the multiple-reasons framing incl. RPE; the
+  bursting-neurons no-value-prediction-error/surprise finding; the fully-expected-novel-
+  objects discrimination; the ramping-neurons timing finding). The 'novelty is not processed
+  as reward value' synthesis sentence is drawn from the abstract's own contrast (burst
+  neurons do not convey value-prediction errors yet do respond to novelty). Existing seed
+  Related [[Reward prediction error (Schultz)]] preserved with its caption. Degree 1 —
+  fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
