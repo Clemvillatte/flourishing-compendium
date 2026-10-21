@@ -1069,3 +1069,15 @@
 - Operant conditioning (Skinner): QC repairs applied (example labelled hypothetical; selectionist analogy and inner-drive claims removed). Stays done; EXEMPLARS.md theory skeleton not re-read this session, noted in batch.
 - Obstruction as stimulus: advisor blocker -> IDENTITY HOLD, out of done (compendium label), content stands as source-bounded WIP.
 - One koan: Beginner's mind clause made neutral navigation wording per earlier QC.
+
+## Worker pxy2 continued (2026-10-21, same session)
+Fast-track items done this stretch (all: quote carriers opened, quotes verified verbatim, validator clean):
+- Optimistic explanatory style (Beck Institute Seligman Q&A; P171 quote-wording flag for supervisor)
+- Ordering the soul (Gutenberg Jowett Republic IV 443d-e)
+- Organismic trust (PubMed 10101878; label note: Self-concordance theory page exists, may merit merge/redirect)
+- Organizational research (Wiley Kristof-Brown 2005 abstract; Deci-Ryan 2000 kept as unopened seed line)
+- Orthogonal Cultural Identification Theory (PubMed 2101397; theory standard)
+- Participation (SEP Marcel)
+- Perfectionism research (PubMed 2027080 + 29283599)
+- Person-role fit research (author-hosted DeRue & Morgeson 2007 PDF)
+Band status: all 13 actionable manifest items handled (3 identity-held out of done per advisor gate: One koan, Obstruction as stimulus, One principle at a time); 10 held/identity items remain for supervisor disposition.
