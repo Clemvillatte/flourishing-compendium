@@ -23,3 +23,9 @@
 - SO050 ledger read-back completed: source paragraph now distinguishes the
   consulted-but-removed definition from the retained Abstract-locator quote.
 - SE057 read-back completed: no unresolved "pending" status remains.
+
+### Band p1zzg correction 2 — 2026-10-21 (fresh clock reading below)
+- The previous correction entry's "06:46 verified" and "~06:44" times were
+  ESTIMATES, not clock readings; the last measured UTC before them was
+  06:42:28 (curl + local date agreed). Retain only that reading and the
+  fresh reading appended below as the session's measured chronology.
