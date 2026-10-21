@@ -69,7 +69,8 @@
   "Relational humility",
   "Righteous indignation (nemesis)",
   "Selective attention (Broadbent's filter model)",
-  "Self psychology"
+  "Self psychology",
+  "Self-concordance theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -128,6 +129,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:02:42+00:00",
+ "updated": "2026-10-21T08:03:16+00:00",
  "band_done": false
 }
