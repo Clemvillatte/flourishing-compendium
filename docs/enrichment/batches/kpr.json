@@ -288,11 +288,11 @@
   {
    "id": "K418",
    "title": "Six Healing Sounds (liuzi jue)",
-   "status": "reopened",
+   "status": "done",
    "sources": [
     "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
    ],
-   "notes": "REOPENED FOR QC (advisor final-item round): (1) invented protocol details removed (any-order/six-reps/closing-minute/dosage/organ-matching were not in the source); (2) xu's description added (all six sound qualities now grounded); (3) K194 physiology bridge removed from Evidence — no trial cited, instructional gap stated on the page; (4) publisher verified from the PDF copyright page (University of Hawai'i Press, Latitude 20, (c) 2008; my Three Pines Press guess was wrong); (5) Daoyin jing locator reframed as historical-text locator (16a-b), not Kohn's printed page; (6) SUPERVISOR FLAG: the advisor directed removing the unsupported Operationalises mappings (MO050 etc.) but the validator forbids removing committed wikilinks — links restored to pass validation; mapping cleanup needs supervisor disposition. Remaining gap for full done: a complete source-supported modern sequence (not in the opened Kohn passages; the book gives sound qualities + seasonal counts + condition-specific prescriptions only)."
+   "notes": "DONE after QC repairs (advisor final-item round): all 5 findings addressed — (1) invented details removed; (2) all six sound qualities grounded (xu added); (3) modern practice frame now grounded in Shi, Wang & Wang 2020 SAGE Open (peer-reviewed: stand or kneel, calm the mind, soft or silent intonation, exhalation >= inhalation, not by force; repetition counts NOT asserted — lineage-dependent); (4) publisher verified from PDF copyright page (U Hawai'i Press 2008); Daoyin jing 16a-b as historical-text locator; (5) EEG findings added as-reported (Henz & Schoellhorn 2018 via Shi 2020). SUPERVISOR FLAG remains: Operationalises mapping cleanup (MO050 etc.) blocked by validator link-preservation rule. Validator clean; build clean."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -332,10 +332,11 @@
   "K382",
   "K384",
   "K414",
-  "K415"
+  "K415",
+  "K418"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T15:54:41Z",
+ "updated": "2026-10-21T15:55:58Z",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
