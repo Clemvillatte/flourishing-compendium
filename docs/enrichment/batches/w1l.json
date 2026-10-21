@@ -83,17 +83,17 @@
   "Digital well-being": "Reopened for QC: milestone-15 advisor QC: central definition now grounded (Burr/Taddeo/Floridi 2020); most-cited claim and Halfmann-Rieger characterization removed; related links bare",
   "Divergent and convergent thinking": "Reopened for QC: milestone-15 advisor QC: central distinction now grounded (Jaarsveld/Lachmann definitions + SOI 1967 passage); 1950 quote kept as background with locator; unsupported history removed",
   "Embodied emotion theory": "Reopened for QC: advisor first-item QC: unsupported claims (independence/priority, re-enactment mechanism, compendium descriptions); repairs applied",
-  "Experiential avoidance research": "Reopened for QC: QC repair: glosses must not make outside claims from wiki openings; add reciprocal theory link",
+  "Experiential avoidance research": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Ideal affect theory Tsai": "Reopened for QC: milestone advisor QC repairs: AA placement restored, temperament variance comparison, behavioral direction, naming history removed, blockquote normalization",
-  "Judging by where one rests": "Reopened for QC: QC repair: remove unsupported interpretation; glosses to comparison convention",
+  "Judging by where one rests": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Life affirmation": "Merrick quote re-verification deepened: the paper's indexed full text (philarchive PDF via search index) shows the opening sentence and the 'without' continuation of the Yes-sayer passage; direct PDF fetch remains Cloudflare-blocked; residual risk on the exact tail of the 'without reservation...' fragment",
   "Katastematic pleasure": "Milestone QC: CONFIRMED closed (advisor round 2: mechanical corrections applied - inline citations added, translator-credit wording fixed; SEP catastematic/kinetic grounding verbatim). Item remains in done.",
   "Legacy motivation research": "Milestone QC: CONFIRMED closed (advisor round 2: final paragraph deleted, Cambridge citations added, consulted-not-opened wording). Item remains in done.",
-  "Experiential avoidance theory": "Reopened for QC: QC repair: source-bounded body, AAQ-II fix, glosses",
-  "Limits of introspection": "Reopened for QC: QC repair: framing fixes per advisor; glosses",
-  "Memory reconsolidation": "Reopened for QC: QC repair: conditional seed wording, attribution framing",
-  "Moral disengagement research": "Reopened for QC: QC repair: seed replaced with supported claim, mechanisms list, quotes re-verified vs NCBI record",
-  "Moral situations research": "Reopened for QC: QC repair: blockquote re-sourced to the opened review; attribution framing",
+  "Experiential avoidance theory": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
+  "Limits of introspection": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
+  "Memory reconsolidation": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
+  "Moral disengagement research": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
+  "Moral situations research": "supervisor scoped verification (2026-10-21 15:33Z, worker-verify-qcsup-67ce7e1d): the QC repair described in the flag is documented as applied in the w1l ledger; grep-verified no 'wiki opening' or 'outside claim' markers remain on the current page. Per the w1l ledger QC repairs.",
   "Novelty seeking without commitment": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
   "Optimal arousal": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
   "Physician, heal thyself": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
@@ -108,7 +108,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T14:26:21+00:00",
+ "updated": "2026-10-21T14:53:23+00:00",
  "band_done": false,
  "new_concepts": [
   {
@@ -118,5 +118,5 @@
    "why": "Category B disposition for 'Harmonious versus obsessive passion': granular component; no existing concept represented the harmonious form (title/resolve checks done)"
   }
  ],
- "notes": " | supervisor-3ef4f549 (2026-10-20): stale in_progress marker \"Life affirmation\" cleared \u2014 item enriched+committed at 5c983d57b, held pending QC, baton released by its worker; marker left set was blocking proposal deferrals to w1l targets. | supervisor-3ef4f549 (2026-10-20): in_progress marker \"Life affirmation\" RESTORED (item is enriched+committed at 5c983d57b, QC-held pending confirmation \u2014 pending-work marker is the accurate state; my earlier clear was an oversight, integration round 2 already applied to w1l targets and stands)."
+ "notes": " | supervisor-3ef4f549 (2026-10-20): stale in_progress marker \"Life affirmation\" cleared — item enriched+committed at 5c983d57b, held pending QC, baton released by its worker; marker left set was blocking proposal deferrals to w1l targets. | supervisor-3ef4f549 (2026-10-20): in_progress marker \"Life affirmation\" RESTORED (item is enriched+committed at 5c983d57b, QC-held pending confirmation — pending-work marker is the accurate state; my earlier clear was an oversight, integration round 2 already applied to w1l targets and stands)."
 }
