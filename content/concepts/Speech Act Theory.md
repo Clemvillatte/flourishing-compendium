@@ -35,7 +35,7 @@ Austin's conditions of success sort failures into two kinds. A misfire is an att
 
 ### In everyday life
 
-The lunch-promise case carries the theory's useful distinction: an insincere promise can still count as a promise. The entry adds a social dimension in its section on speech acts and social issues: an inveterate promise-breaker can end up "unable to perform the illocutionary act of promising" in his community, because others stop accepting his promises. What a person does with words over time shapes what their words can still do.
+The lunch-promise case carries the theory's useful distinction: an insincere promise can still count as a promise. The entry adds a social dimension in its section on speech acts and social issues: an inveterate promise-breaker can end up "unable to perform the illocutionary act of promising" in his community, because others stop accepting his promises. On the entry's account, a person's record with words can change what their words can still do, at least within that community.
 
 ### In the compendium
 
@@ -53,7 +53,7 @@ The lunch-promise case carries the theory's useful distinction: an insincere pro
 
 ## Sources
 
-- Mitchell Green, ["Speech Acts"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy (first published 2007, substantive revision 2020) — preamble; sections 1, 2 and 2.2; section 9 on social issues
+- Mitchell Green, ["Speech Acts"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy (first published 2007, substantive revision 2020) — preamble; sections 1, 2, 2.2, 3 and 9
 - Austin, How to Do Things with Words (1962), pp. 1–2, as quoted in the SEP entry
 
 ## Field

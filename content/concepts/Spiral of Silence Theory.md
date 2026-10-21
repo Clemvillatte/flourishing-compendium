@@ -52,7 +52,7 @@ Illustrative scenario, not a study result: someone withholds a dissenting view d
 
 ## Sources
 
-- Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, pp. 43-51](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x) — article abstract, [as reproduced by SciSpace](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr)
+- Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, pp. 43-51](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x) — article abstract, [as reproduced by SciSpace](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr); the quoted passage's sentence punctuation follows the reproduction in Fitzgerald and Amna, ["Unpopular Ideas"](https://ces.fas.harvard.edu/uploads/files/events/Unpopular-ideas-Fitzgerald-Amna-Harvard-2020.pdf), Harvard Center for American Political Studies (2020), citing Noelle-Neumann 1974: 43
 - [Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence) — definition, origin, mechanism, criticisms; the article's description of the theory, including its citation of Noelle-Neumann 1977
 
 ## Field
