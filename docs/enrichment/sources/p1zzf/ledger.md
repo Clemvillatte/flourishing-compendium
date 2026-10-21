@@ -108,3 +108,7 @@
 ## S036 — Do not postpone living well
 - Opened: Seneca De Brevitate Vitae ch.1 (Basore, Wikisource) + Quotle (Latin), Kasser & Sheldon 2009 (abstract), Killingsworth & Gilbert 2010 (PubMed + Harvard Gazette). Seneca ch.7/10, Meditations, Epictetus, James unread.
 - Flags: seed "predicts well-being more than material wealth" goes beyond the abstract (positive after controlling for material affluence). Mind-wandering study is about within-moment attention, not postponement. "Retirement/project/children" is page application.
+
+## S040 — Be a good friend
+- Opened: Seneca Letter 9 (Gummere, Standard Ebooks, fetched), Letter 3 (Seneca.ink snippet), Cohen & Wills 1985 (CMU abstract), Demir et al. 2015 (Semantic Scholar summary), adult friendship systematic review (PMC abstract). Meditations, Epictetus, Musonius, Aristotle, Buber unread.
+- Seed supported by Letter 9 (friend for practising friendship; happy without friends). Psychology studies largely correlational.
