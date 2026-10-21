@@ -561,3 +561,10 @@ all three quoted sentences (abstract definition, committed-relationship finding,
 pursue-or-accept finding) verified VERBATIM. Spot-check PASS. Session tally on the released
 w1ab band: 10 pages checked, 10 PASS at the quote level; one single-character semicolon
 repair (Locus of evaluation, cross-band edit flagged for the supervisor).
+
+## w1ab spot-check 11 (2026-10-21 14:39 UTC, worker-perplexity-67ce7e1d)
+Manaakitanga (a "Reopened for QC" w1ab page): Te Aka Māori Dictionary re-opened; the
+definition and the 1924 example sentence (with translation and the TTT 1/8/1924:85 citation)
+verified VERBATIM. Spot-check PASS. SESSION TALLY on the released w1ab band: 11 pages
+checked, 11 PASS at the quote level; one single-character semicolon repair (Locus of
+evaluation, cross-band edit flagged for the supervisor).
