@@ -217,3 +217,24 @@
 - Closing paragraph marked as the compendium's use ("for the compendium's
   purposes... this page's reading"), no invented citations.
 - Normal validator: ok. State recorded (done count 18).
+
+## Item 21: Self-Evaluation Maintenance Theory (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: schema-2 theory page, "Tesser — others' performance in
+  self-relevant domains threatens the self; we bask, distance or redefine
+  closeness and relevance." Field/Cited-in/SE050 related link preserved.
+  Full rewrite.
+- Carriers opened: (1) Tesser & Campbell 1982 (ERIC full text ED226263) —
+  verified verbatim: the SEM three-variable statement, the
+  reflection-pride conditions sentence, the comparison-threat sentence,
+  and the high/low relevance rule. (2) Schmitt, Silvia & Branscombe 2000
+  (UNCG-hosted PDF) — verified verbatim the Tesser 1988 direct quote
+  "when relevance is high, the better the other's performance the less
+  closeness or the more distance one will put between the self and
+  other" (p. 190). Tesser 1988 chapter itself cited but not opened
+  (quotation via the opened 2000 paper, attribution kept).
+- Schadenfreude how-clause grounded in van Dijk self-evaluation-threat
+  findings seen in search results (VU portal, "a self-evaluation threat
+  intensifies schadenfreude"); kept as connection clause, not page claim.
+- Genealogy claim avoided on Role model research link (advisor lesson).
+- Normal validator: ok. State recorded (done count 19).
