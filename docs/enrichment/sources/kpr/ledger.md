@@ -160,3 +160,6 @@
 
 ## K378 Cultivate your Compassionate Self (2026-10-21, worker-kpr-3fcf47d6)
 - Sources opened: Leaviss & Uttley 2015 PubMed 25215860 (CFT shame/self-criticism purpose verbatim); MacBeth & Gumley 2012 PubMed 22796446 (r=-0.54, 95% CI -0.57 to -0.51 verbatim; association-not-causation flagged on page); Insight Timer page for Kolts's Compassionate Self Meditation opened (18:35; description verbatim). Book attribution kept from predecessor (Kolts CFT Made Simple ch. 9). Related concepts targets read: Compassion, Compassion-focused therapy, Harsh self-criticism, Shame, The ideal self — defensible; bare links. En-dashes in original body hyphenated to meet dash budget. Validator ok.
+
+## K379 Compassion for a struggling version of yourself (2026-10-21, worker-kpr-3fcf47d6)
+- Sources opened: Longe et al. 2010 NeuroImage PubMed 19770047 (both quote fragments verbatim from abstract); Leaviss & Uttley 2015 PubMed 25215860 (reused CFT-purpose quote, opened this session); Balanced Minds CFT audio page opened via fetch ('Directing the Compassionate Self to ourselves' description verbatim; exercise matches the kernel). Bold-in-prose in original body fixed (italicised); [[Self-compassion]] wikilink preserved (resolves to concepts/Self-compassion.md). Validator ok. ITEMS-1-5 MILESTONE QC NOW DUE.
