@@ -96,3 +96,7 @@
 ## R113 — Practise relational solidarity
 - Opened (excerpts): NDPR review of Scholz 2008, Cambridge chapter on political solidarity, Rorty 1989 excerpts (Pitt PDF, Goodreads quote), ERIC full text of Foster-Bey 2008 (CIRCLE WP62). Scholz 2008, Arendt 1958 unread.
 - FLAG: Foster-Bey 2008 is about demographic determinants of civic engagement, not well-being; seed label "Collective action and well-being" unsupported by it. "Not charity" contrast not found in sources: page gloss.
+
+## R125 — Practise ecological hope
+- Opened (excerpts): Solnit quotes (Bookmate, Goodreads), Quote Investigator + Forest Nation (shade proverb provenance), Ojala 2012 (ERIC abstract), Ojala 2013 (abstract), Snyder 2002 abstract. Macy & Brown, Orr, Frankl, Lebowitz 2022, Marcel, Bloch unread.
+- Flags: tree-planting adage is an old proverb (1866/1868 earliest QI, Cicero/Caecilius), not attributable to the cited authors; "Lebowitz et al., 2022" not located; Ojala evidence correlational, Swedish youth samples.
