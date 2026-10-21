@@ -195,5 +195,7 @@
    "from": "supervisor-81d2d905",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T04:35:50+00:00"
 }
