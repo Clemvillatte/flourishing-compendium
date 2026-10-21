@@ -52,3 +52,12 @@ Advisor QC (3 rounds):
 Repairs: LMX opening replaced with source-bounded definition, locator "§1 Introduction" (section verified in article), benefits sentence softened to "reexamines whether"; Life as laboratory restored the original P037 link and compendium-label framing, em dash removed; Life-span blockquote replaced with continuous retrieved sentence, locator = section heading "Change is multidimensional and multidirectional", SOC sentence removed; Lateral inhibition locator = "§1 Introduction" (both blockquote and Nobel sentence verified in section 1), opening re-anchored to source-bounded definition + verbatim Nobel sentence, Mach 1865 and modality sentences retained against opened Wikipedia extract; Law of Effect opening and synthesis replaced per advisor, inherited [[Behavior analysis]] annotation removed (wikilink retained).
 Degrees: Lateral inhibition 4, Law of Effect 5, LMX 4, Life as laboratory 4, Life-span 4 (all <15).
 Final fixed-baseline validation vs 66717298a (unfiltered, exit 0): 5/5 ok. Preservation: git diff vs 66717298a shows no changed front-matter or Cited-in lines. RECORD: Items 11-15 milestone closed, scoped PASS; whole-band certification excluded.
+
+## Items 16-20 — enriched, QC PENDING (next session: item-20 milestone)
+16. Life-span, life-space career theory — carriers: Luke, McIlveen & Perera 2016 (PMC4756173, five stages/roles sentence verified verbatim); Lytle, Foley & Cotter 2015 (PMC4474155, Life-Career Rainbow roles/theatres sentence verified verbatim, §Super's Career Development Theory).
+17. Long-term potentiation account of memory — carriers: Blundon & Zakharenko 2008 (PMC2655119, Bliss & Lomo discovery passage verified verbatim, Introduction); Aggleton & Morris 2018 (PMC7058235).
+18. Magnanimity — carrier: Aristotle NE IV.3, Ross translation (classics.mit.edu), "Pride seems even from its name..." passage verified verbatim; disclosure added that Ross renders megalopsychia as "pride".
+19. Marley hypothesis — carrier: Martin & Johnson 2023 (PMC10972773, Marley hypothesis summary passage verified verbatim, "Learning Critical Black History" section).
+20. Maslach burnout model — carrier: Loera, Converso & Viotti 2014 (PMC4264862, quoting Maslach 1982 p. 3 definition verified verbatim).
+All validated vs 66717298a (fast-track), pushed. Degrees all <15. Front-matter/Cited-in preservation verified for 16-20 via git diff vs baseline.
+NOTE: items 16-20 have NOT passed advisor milestone QC — next session must run the item-20 milestone QC before taking further items.
