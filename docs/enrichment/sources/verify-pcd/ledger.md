@@ -409,3 +409,6 @@ QC-closed).
   the page's ellipses correctly mark omissions (including the omitted sentence about
   researchers failing to understand the model, disclosed by the ellipsis after "directed
   attention"); the hyphenation-normalization note is an honest disclosure of OCR cleanup.
+
+### w1d "Arousal regulation" — quote fidelity PASS (verification pass)
+- Yerkes and Dodson 1908 summary point 2 EXACT vs the opened psychclassics page.
