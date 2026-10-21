@@ -41,14 +41,15 @@
   "Self-Categorization Theory",
   "Role Theory",
   "Self-as-doer theory",
-  "Self-determined personality growth"
+  "Self-determined personality growth",
+  "Self-expansion"
  ],
- "in_progress": "Self-doubt theory",
+ "in_progress": null,
  "flagged": {
   "Self-doubt theory": "Reopened for QC: QC round 3: namespace hold — garbled title over the real self-doubt construct; rename candidate (Self-doubt); body repaired and quote-verified vs raw PDF; held out of done pending supervisor disposition"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:31:33+00:00",
+ "updated": "2026-10-21T13:32:37+00:00",
  "band_done": false
 }
