@@ -1,102 +1,114 @@
 {
- "batch": "p1zzc",
- "revision": 20,
- "reciprocal": [
-  {
-   "into": "Benign versus malicious envy",
-   "link": "SP016",
-   "why": "Spinoza's account of emulation and its association with envy",
-   "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in Ethics III, Definitions of the Affects XXXIII and its explanation (envy coupling at III.xxxii)."
-  },
-  {
-   "into": "Social comparison",
-   "link": "SP016",
-   "why": "Spinoza's definition of desire arising from imagining that others have the same desire",
-   "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in the opened Elwes Ethics definition."
-  },
-  {
-   "into": "Compassion",
-   "link": "SP020",
-   "why": "Spinoza's account of pity as a pain that can mislead, and help under the guidance of reason as the alternative",
-   "notes": "SP020 (worker-p1zzc-de9b53): hub inspected, 0 SP016/SP020 occurrences; grounded in the opened Elwes Ethics (III, Def. XVIII; IV, P50 and note)."
-  },
-  {
-   "into": "Akrasia",
-   "link": "SP026",
-   "why": "Spinoza's drunkard, who believes the words he would withhold when sober are spoken from free decision",
-   "notes": "SP026 (worker-p1zzc-de9b53): hub inspected, 0 SP026 occurrences; grounded in the opened Elwes Ethics III, P2 scholium."
-  },
-  {
-   "into": "Anger",
-   "link": "SP031",
-   "why": "Spinoza's definitions of anger and revenge, with evil defined in the P39 note as pain that frustrates our longings",
-   "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXVI/XXXVII; III P39 note)."
-  },
-  {
-   "into": "Frustration–aggression hypothesis",
-   "link": "SP031",
-   "why": "Spinoza's definitions of anger and revenge, alongside his discussion of frustrated longings",
-   "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; the Elwes P39 note supplies the blocked-longing framing."
-  },
-  {
-   "into": "Revenge",
-   "link": "SP031",
-   "why": "Spinoza's definition of revenge as repayment desire through mutual hatred",
-   "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics III, Def. XXXVII."
-  },
-  {
-   "into": "Guilt",
-   "link": "SP034",
-   "why": "Spinoza's definition of shame as pain over an act we believe others blame, set against the act-specific signal guilt carries",
-   "notes": "SP034 (worker-p1zzc-de9b53): hub inspected, 0 SP034 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXI; IV, LVIII note)."
-  },
-  {
-   "into": "Anger examined early",
-   "link": "SP031",
-   "why": "Spinoza's definitions of anger and revenge",
-   "notes": "SP031 (worker-p1zzc-de9b53): hub inspected via mention search (revenge), SP031 not present; grounded in the opened Elwes Ethics definitions; the Seneca framing is the hub's own sourced content."
-  },
-  {
-   "into": "Schadenfreude",
-   "link": "SP036",
-   "why": "Spinoza's account of pleasure arising from thinking too little of someone",
-   "notes": "SP036 (worker-p1zzc-de9b53): hub inspected via mention search (contempt) and direct read (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P26 note."
-  },
-  {
-   "into": "Respect",
-   "link": "SP036",
-   "why": "Spinoza's veneration, wonder at a person's excellence regarded as far surpassing ourselves",
-   "notes": "SP036 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P52 note."
-  },
-  {
-   "into": "Fear",
-   "link": "SP038",
-   "why": "Spinoza's account of superstition as engendered, preserved, and fostered by fear",
-   "notes": "SP038 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP038 occurrences; grounded in the opened Elwes TPT Preface."
-  },
-  {
-   "into": "Hedonic adaptation",
-   "link": "SP039",
-   "why": "Spinoza's examination of wealth, fame and pleasure as objects of pursuit",
-   "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §1."
-  },
-  {
-   "into": "Means-end continuity",
-   "link": "SP039",
-   "why": "the page's exercise of asking what a pursuit is meant to make possible",
-   "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §§1-6."
-  },
-  {
-   "into": "Adequate idea",
-   "link": "SP044",
-   "why": "Spinoza's account of method directed by a given true idea",
-   "notes": "SP044 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP044 occurrences; grounded in the opened Elwes Emendation §§35-39."
-  },
-  {
-   "into": "Narrative therapy",
-   "link": "SP053",
-   "why": "the page's account of re-ordering a memory's position inside understanding, a Spinozist counterpart of re-authoring",
-   "notes": "SP053 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP053 occurrences; grounded in the opened Elwes Ethics V P1/P3/P10."
-  }
- ]
+  "batch": "p1zzc",
+  "revision": 21,
+  "reciprocal": [
+    {
+      "into": "Benign versus malicious envy",
+      "link": "SP016",
+      "why": "Spinoza's account of emulation and its association with envy",
+      "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in Ethics III, Definitions of the Affects XXXIII and its explanation (envy coupling at III.xxxii)."
+    },
+    {
+      "into": "Social comparison",
+      "link": "SP016",
+      "why": "Spinoza's definition of desire arising from imagining that others have the same desire",
+      "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in the opened Elwes Ethics definition."
+    },
+    {
+      "into": "Compassion",
+      "link": "SP020",
+      "why": "Spinoza's account of pity as a pain that can mislead, and help under the guidance of reason as the alternative",
+      "notes": "SP020 (worker-p1zzc-de9b53): hub inspected, 0 SP016/SP020 occurrences; grounded in the opened Elwes Ethics (III, Def. XVIII; IV, P50 and note)."
+    },
+    {
+      "into": "Akrasia",
+      "link": "SP026",
+      "why": "Spinoza's drunkard, who believes the words he would withhold when sober are spoken from free decision",
+      "notes": "SP026 (worker-p1zzc-de9b53): hub inspected, 0 SP026 occurrences; grounded in the opened Elwes Ethics III, P2 scholium."
+    },
+    {
+      "into": "Anger",
+      "link": "SP031",
+      "why": "Spinoza's definitions of anger and revenge, with evil defined in the P39 note as pain that frustrates our longings",
+      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXVI/XXXVII; III P39 note)."
+    },
+    {
+      "into": "Frustration–aggression hypothesis",
+      "link": "SP031",
+      "why": "Spinoza's definitions of anger and revenge, alongside his discussion of frustrated longings",
+      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; the Elwes P39 note supplies the blocked-longing framing."
+    },
+    {
+      "into": "Revenge",
+      "link": "SP031",
+      "why": "Spinoza's definition of revenge as repayment desire through mutual hatred",
+      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics III, Def. XXXVII."
+    },
+    {
+      "into": "Guilt",
+      "link": "SP034",
+      "why": "Spinoza's definition of shame as pain over an act we believe others blame, set against the act-specific signal guilt carries",
+      "notes": "SP034 (worker-p1zzc-de9b53): hub inspected, 0 SP034 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXI; IV, LVIII note)."
+    },
+    {
+      "into": "Anger examined early",
+      "link": "SP031",
+      "why": "Spinoza's definitions of anger and revenge",
+      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected via mention search (revenge), SP031 not present; grounded in the opened Elwes Ethics definitions; the Seneca framing is the hub's own sourced content."
+    },
+    {
+      "into": "Schadenfreude",
+      "link": "SP036",
+      "why": "Spinoza's account of pleasure arising from thinking too little of someone",
+      "notes": "SP036 (worker-p1zzc-de9b53): hub inspected via mention search (contempt) and direct read (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P26 note."
+    },
+    {
+      "into": "Respect",
+      "link": "SP036",
+      "why": "Spinoza's veneration, wonder at a person's excellence regarded as far surpassing ourselves",
+      "notes": "SP036 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P52 note."
+    },
+    {
+      "into": "Fear",
+      "link": "SP038",
+      "why": "Spinoza's account of superstition as engendered, preserved, and fostered by fear",
+      "notes": "SP038 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP038 occurrences; grounded in the opened Elwes TPT Preface."
+    },
+    {
+      "into": "Hedonic adaptation",
+      "link": "SP039",
+      "why": "Spinoza's examination of wealth, fame and pleasure as objects of pursuit",
+      "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §1."
+    },
+    {
+      "into": "Means-end continuity",
+      "link": "SP039",
+      "why": "the page's exercise of asking what a pursuit is meant to make possible",
+      "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §§1-6."
+    },
+    {
+      "into": "Adequate idea",
+      "link": "SP044",
+      "why": "Spinoza's account of method directed by a given true idea",
+      "notes": "SP044 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP044 occurrences; grounded in the opened Elwes Emendation §§35-39."
+    },
+    {
+      "into": "Narrative therapy",
+      "link": "SP053",
+      "why": "the page's account of re-ordering a memory's position inside understanding, a Spinozist counterpart of re-authoring",
+      "notes": "SP053 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP053 occurrences; grounded in the opened Elwes Ethics V P1/P3/P10."
+    },
+    {
+      "into": "Friendship",
+      "link": "SP059",
+      "why": "Spinoza's generosity unites the helper with the aided in friendship, the rational counterpart to Aristotle's friendship as the greatest external good.",
+      "notes": "into=Friendship (Aristotle/philosophy hub); grep SP059: 0; concept already linked from SP059 philosophy parallels; opening sections not inspected in this pass, flagged for supervisor QC"
+    },
+    {
+      "into": "Metta (loving-kindness)",
+      "link": "SP059",
+      "why": "Generosity by reason's dictate is the Spinozist structural counterpart of metta: aid and friendship as stance, not mood.",
+      "notes": "into=Metta (loving-kindness); grep SP059: 0; concept already linked from SP059 philosophy parallels; opening sections not inspected in this pass, flagged for supervisor QC"
+    }
+  ]
 }
