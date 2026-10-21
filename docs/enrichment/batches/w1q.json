@@ -34,7 +34,8 @@
   "Wu (non-being)",
   "Vigilance theory",
   "Trichromatic theory of color vision",
-  "Worldmaking"
+  "Worldmaking",
+  "Transtheoretical model (Prochaska & DiClemente)"
  ],
  "in_progress": null,
  "flagged": {
@@ -63,10 +64,11 @@
   "Wu (non-being)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Legge Daodejing (Gutenberg #216) opened, ch. XI + ch. II quotes verbatim; Buddhist-parallel comparison marked as comparison; validated --fast-track",
   "Vigilance theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Oaten & Cheng 2006 study-program abstract opened and quoted verbatim; exercise/financial-monitoring companion studies cited as abstract-read (marked not-opened); broken Cited-in-parallels replicate left as-is per owner note; validated --fast-track",
   "Trichromatic theory of color vision": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Young 1802 and Helmholtz 1911 quotes verified verbatim against opened PMC reviews (Lee 2008 PMC3095437; Zeki 2022 PMC11514330); validated --fast-track",
-  "Worldmaking": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Goodman p.6 'starts from worlds already on hand' + five-process summary verified verbatim against opened Nünning & Nünning PDF (libaac.de); primary book itself copyrighted, used via open carrier per rules; validated --fast-track"
+  "Worldmaking": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Goodman p.6 'starts from worlds already on hand' + five-process summary verified verbatim against opened Nünning & Nünning PDF (libaac.de); primary book itself copyrighted, used via open carrier per rules; validated --fast-track",
+  "Transtheoretical model (Prochaska & DiClemente)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Prochaska/DiClemente/Norcross 1992 American Psychologist quotes verified verbatim from opened UMN PDF mirror; duplicate BE007 link from seed's stray line preserved in Field section; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:24:34+00:00",
+ "updated": "2026-10-21T16:25:17+00:00",
  "band_done": false
 }
