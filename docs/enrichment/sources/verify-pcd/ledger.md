@@ -361,3 +361,6 @@ QC-closed).
 
 ### w1k "Voluntary discomfort" — quote fidelity PASS (verification pass)
 - Seneca Letter 18.5 blockquote EXACT vs the opened Wikisource text (Gummere).
+
+### w1k "Allostatic load" — quote fidelity PASS (verification pass)
+- McEwen 1998 blockquote EXACT vs the opened hosted NEJM PDF.
