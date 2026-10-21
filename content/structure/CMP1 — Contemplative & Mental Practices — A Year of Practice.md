@@ -145,7 +145,7 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Guided Mindfulness Meditation](https://www.audiodharma.org/talks/4013) | Gil Fronsdal, AudioDharma | 42:59 |
 | [World of Thoughts](https://www.audiodharma.org/talks/555) | Gil Fronsdal, AudioDharma | 42:59 |
 
-The 42:59 first row sits here on the strength of its instructions rather than its title: sampled from the recording itself, the sit releases the breath after a few settling breaths, relaxes the body, and then guides a receptive awareness (the talk's own contrast of hearing with listening, being with doing), which is open monitoring in Fronsdal's style rather than sustained attention on one anchor.
+The first of the two 42:59 rows sits here on the strength of its instructions rather than its title: sampled from the recording itself, the sit releases the breath after a few settling breaths, relaxes the body, and then guides a receptive awareness (the talk's own contrast of hearing with listening, being with doing), which is open monitoring in Fronsdal's style rather than sustained attention on one anchor.
 
 ### Loving-kindness and compassion (LKM)
 
@@ -198,7 +198,7 @@ This shelf has not yet verified longer guided single sessions; the academies abo
 | [Resting. Settling, Grounding](https://www.mountaincloud.org/wp-content/uploads/2020/08/Resting-settling-grounding.....mp3) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
 | [Finding a Greater Wholeness, guided meditation](https://s3-us-west-1.amazonaws.com/media.rickhanson.net/audio/3_8_23FindingAGreaterWholenessMed.mp3) | Henry Shukman, guest at Rick Hanson's Wednesday Night Meditation | 30:25 |
 
-The 30:25 row was classified from the recording itself, not its title: it settles posture and grounding, then softens the sense of identity and rests in a wider quiet, the spacious-awareness side of this shelf rather than koan work. The shorter Mountain Cloud recordings are placed here as guided sits from a Zen center; their specific technique is not separately verified from audio.
+Every row on this shelf was classified from the recording itself, not its title. The five Mountain Cloud sittings open with soundscape listening or body settling and rest in receptive, spacious awareness; the Body, Space and Mu sitting holds the Mu koan inside that pervasive awareness. The 30:25 row settles posture and grounding, then softens the sense of identity and rests in a wider quiet, the spacious side of this shelf rather than koan work.
 
 For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
 
