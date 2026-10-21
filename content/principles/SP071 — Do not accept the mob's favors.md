@@ -12,13 +12,19 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 71** — Do not accept the mob's favors
 
-The free person avoids the favors of the many, because a favor from a crowd is a loan at predatory interest: it comes bundled with expectations that the crowd will collect. Spinoza's rule is not ingratitude; it is a reading of the power dynamics of generosity, which he extends to individuals too (a benefit given from love builds a bond; a benefit given to control builds a chain). Practically, distinguish gifts from investments in your future compliance, and decline the second kind early, when the price is low.
+The anchor is IV, P70: "The free man, who lives among the ignorant, strives, as far as he can, to avoid receiving favours from them." The mechanism is in the proof: the ignorant benefactor "puts his own estimate upon" the benefit, and "if it appears to be estimated less highly by the receiver, will feel pain", while the free man declines to repay benefits "with others reckoned as of like value", guiding himself instead "by the free decision of reason". A favor accepted from the ignorant puts the receiver into another man's estimate, and the repayment terms follow from it.
 
-(Ethics IV, P70; the benefit-anger analysis of Part III.)
+The note supplies the qualification the title omits: "it is often necessary to accept favours from them... we must, therefore, exercise caution in declining favours, lest we should have the appearance of despising those who bestow them... and so give ground for offence by the very fact of striving to avoid it." The rule is bounded by utility and courtesy, and is not a refusal of all help. The page's exercise drawn from the account: distinguish gifts from investments in your future compliance, and decline the second kind early, when the price is low.
 
-**Plain words** The free person avoids the favors of the many — a favor from a crowd is a loan at predatory interest, bundled with expectations the crowd will collect. Not ingratitude; a reading of the power dynamics of gifts. Be careful what you accept; the terms are in the fine print.
+**Plain words**
+A favor from the crowd puts you in the giver's accounting. They decide what it was worth; if your thanks does not match their estimate, they take offence, and you end up repaying on their terms. Spinoza's free person avoids that ledger where he can. His caution: sometimes you must accept, and then decline gently, because a rude refusal creates the very offence the rule was meant to avoid.
 
-*For example:* The "gift" of the platform's promotion, the committee's sponsorship, the community's crown — each arrives with a collection schedule. The people who read the terms before signing keep their freedom; the grateful ones discover the interest rate later.
+*For example:* Imagined: a committee hands out a sponsorship with a schedule of expectations attached. The free response reads the schedule before accepting, and if the price is compliance, declines while the price is small, with courtesy so as not to give offence.
+
+## Sources
+
+- [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — IV, P70 with proof and note
+
 ## Psychology parallels
 
 - **Reciprocity pressure and the norm of obligation**, the social-psychological account of favors as influence technology (Cialdini, Influence, as synthesis)
