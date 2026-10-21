@@ -24,3 +24,16 @@ damage, w1ab left to its live holder.
   was 5 dashes in prose from wikilink titles in a prose line — converted to the house
   bullet pattern).
 - Advisor QC: round 1 (first-item cadence) — repairs above; round 2 verdict below.
+
+## ITEM: Spiral of Silence Theory (theory page; degree 4) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Carrier: Wikipedia "Spiral of silence" article, raw HTML fetched and opened; every quoted
+  passage verified verbatim by substring check against the tag-stripped article HTML
+  (lead definition; 1974 origin sentence; Noelle-Neumann 1977 'appears stronger than it is'
+  sentence; minority-silences-itself mechanism; textbook formulation quoted in the article;
+  criticisms-section sentences; 'not isolating themself' fragment). CAUGHT: a criticism summary
+  sentence that appeared only in the extraction tool's summary layer was rejected as
+  unverified and replaced with a verified criticisms-section quote.
+- Theory-page standard applied; the 1974 origin is quoted as the article states it; the
+  textbook summary is attributed to its carrier, not to Noelle-Neumann directly.
+- Validation --fast-track --base ca927d09: ok (Related-concepts warning resolved by adding
+  a bare [[Herd morality]] link). Advisor QC: milestone round below.
