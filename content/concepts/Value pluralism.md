@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Value pluralism is the claim, argued by Isaiah Berlin in "Two Concepts of Liberty" (1958), that human goods genuinely conflict, so that no life or society can harmonize all of them. Berlin's target is the monist assumption "that all good things, or all bad things for that matter, are reconcilable with each other", which the lecture says observation gives "no warrant for supposing".
 
-> "The world that we encounter in ordinary experience is one in which we are faced with choices between ends equally ultimate, the realisation of some of which must inevitably involve the sacrifice of others." (Berlin, [Two Concepts of Liberty, text delivered to the Clarendon Press](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf), ms. p. [214])
+> "The world that we encounter in ordinary experience is one in which we are faced with choices between ends equally ultimate, the realisation of some of which must inevitably involve the sacrifice of others." (Berlin, [Two Concepts of Liberty, text delivered to the Clarendon Press](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf), passage marked p. 214 in the text)
 
 ### Why choice matters
 
@@ -29,14 +29,14 @@ Berlin draws the consequence in the same passage: people place "immense value up
 ## Related concepts
 
 - [[Values]] — the plural goods that can collide
-- [[Tragic optimism]] — holding loss without denial, the pluralist's stance toward sacrificed goods
-- [[Natural liberty versus the chains]] — the freedom Berlin's lecture was written to defend
+- [[Tragic optimism]] — resembles this page's problem: how to hold unavoidable loss without denying it (a resemblance, not an influence claim)
+- [[Natural liberty versus the chains]] — the lecture's own subject is liberty, divided into two concepts
 
 ## Sources
 
 - Berlin, "Two Concepts of Liberty"
 - Berlin, "Two Concepts of Liberty."
-- [Isaiah Berlin, Two Concepts of Liberty, text delivered to the Clarendon Press (Isaiah Berlin Virtual Library)](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf) — the "ends equally ultimate" passage at ms. p. [214] and the monism passage that follows
+- [Isaiah Berlin, Two Concepts of Liberty, text delivered to the Clarendon Press (Isaiah Berlin Virtual Library)](https://berlin.wolf.ox.ac.uk/published_works/tcl/tcl-e.pdf) — the "ends equally ultimate" passage marked p. 214 in the text, and the monism passage that follows
 
 ## Cited in philosophy parallels
 

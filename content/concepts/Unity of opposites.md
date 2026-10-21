@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Unity of opposites” — Heraclitus, fragments.
 
-Unity of opposites is Heraclitus' doctrine that conflicting pairs are one: the same thing is what both halves together make it, so opposites do not merely coexist, they constitute each other. It survives in short fragments quoted by later authors and numbered in the Diels-Kranz collection.
+Unity of opposites is the label for Heraclitus' doctrine, illustrated in his fragments, that a single thing can be rightly described by both halves of a conflicting pair: what is healthy for fish is harmful to men, and day and night "are one". It survives in short fragments quoted by later authors and numbered in the Diels-Kranz collection.
 
 > "Sea is the purest and most polluted water: for fish drinkable and healthy, for men undrinkable and harmful. (B61)" (Heraclitus, fragment B61, in the [Stanford Encyclopedia of Philosophy, "Heraclitus"](https://plato.stanford.edu/entries/heraclitus/))
 
 ### What the fragments give
 
-The fragments offer examples, not a definition. Another has Heraclitus say of day and night that "they are one" (B57). The Stanford Encyclopedia article reads his famous flux doctrine as a special case of the doctrine: "a special case of the unity of opposites, pointing to ways things are both the same and not the same over time". The seed line for this page also names Nishida's contradictory identity, a later take-up of the same structure.
+The fragments offer examples, not a definition. Another has Heraclitus say of day and night that "they are one" (B57). The Stanford Encyclopedia article reads his famous flux doctrine as a special case of the doctrine: "a special case of the unity of opposites, pointing to ways things are both the same and not the same over time".
 
 ### In the compendium
 

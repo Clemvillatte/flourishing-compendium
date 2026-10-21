@@ -26,7 +26,7 @@ Giles, the translator, notes in the footnote to this passage that "uttermost dep
 
 ## Related concepts
 
-- [[Qi]] — the Daoist flowing vitality that breathing practices work with
+- [[Qi]] — the Daoist concept of flowing vitality
 - [[Anapanasati (mindfulness of breathing)]] — the Buddhist counterpart: attention resting on the in-and-out breath
 - [[Yoga: union of body, breath, and mind]] — a tradition that binds breath to attention
 
