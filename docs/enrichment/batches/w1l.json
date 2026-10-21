@@ -57,7 +57,8 @@
   "Psychological reactance",
   "Questioning inherited beliefs",
   "REACH model of forgiveness",
-  "Reciprocity"
+  "Reciprocity",
+  "Recovery experiences"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,7 +94,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T06:46:07+00:00",
+ "updated": "2026-10-21T06:46:21+00:00",
  "band_done": false,
  "new_concepts": [
   {
