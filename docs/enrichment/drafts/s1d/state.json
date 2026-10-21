@@ -2,7 +2,7 @@
  "lane": "s1d",
  "items": {
   "s1d-001": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B129: Deshan and the old woman at the tea stall - the Diamond Sutra question the scholar could not answer; commentary vs direct experience",
    "history": [
     {
@@ -18,9 +18,15 @@
      "t": "2026-10-21T12:17:51+00:00",
      "to": "qc_pending",
      "note": "round-1 fixes applied (provenance, quotes re-verified raw, mapping corrected); advisor QC round 2 returned source-fidelity fixes"
+    },
+    {
+     "t": "2026-10-21T12:19:28+00:00",
+     "to": "ready",
+     "note": "3 advisor rounds passed; all quotes verified raw; story_check ok"
     }
    ]
   }
  },
- "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane"
+ "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
+ "updated": "2026-10-21T12:19:28+00:00"
 }
