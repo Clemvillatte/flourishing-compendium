@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-21 13:28 UTC (input revision `40f985b90`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 14:28 UTC.
+As of 2026-10-21 13:32 UTC (input revision `b8e33ea8a`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 14:32 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -14,17 +14,17 @@ As of 2026-10-21 13:28 UTC (input revision `40f985b90`). Scope: principles and c
 
 ## Stories (separate pipeline)
 
-Published story pages (content/stories/ST*.md): 433. Ready = drafts that passed lane QC and await supervisor registration; in flight = being drafted or researched. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
+Published story pages (content/stories/ST*.md): 433. The per-lane rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled against actual registrations (a lane may report "ready" for a story already published; the published-page count above is the reconciled figure). qc_pending = awaiting lane QC; other = returned or backlinks pending. Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.
 
-| Lane | Published (registered) | Ready (pending registration) | In flight |
-|---|---|---|---|
-| s1a | 0 | 8 | 20 |
-| s1b | 0 | 9 | 3 |
-| s1c | 0 | 38 | 0 |
-| s1d | 3 | 7 | 0 |
-| s1e | 2 | 0 | 6 |
-| s1f | 0 | 2 | 0 |
-| **All lanes** | **5** | **64** | **29** |
+| Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
+|---|---|---|---|---|
+| s1a | 0 | 8 | 19 | 2 |
+| s1b | 0 | 9 | 0 | 3 |
+| s1c | 0 | 38 | 0 | 0 |
+| s1d | 3 | 7 | 0 | 0 |
+| s1e | 2 | 0 | 6 | 0 |
+| s1f | 0 | 2 | 0 | 0 |
+| **All lanes** | **5** | **64** | **25** | **5** |
 
 ## Principles by forest
 

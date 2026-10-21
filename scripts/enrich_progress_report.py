@@ -113,32 +113,37 @@ def main():
         except Exception:
             continue
         lane = d.get('lane') or os.path.basename(os.path.dirname(sf))
-        tally = {'published': 0, 'ready': 0, 'in_flight': 0}
+        tally = {'published': 0, 'ready': 0, 'qc_pending': 0, 'other': 0}
         for it in (d.get('items') or {}).values():
             st = it.get('status')
             if st == 'published' or it.get('st-id'):
                 tally['published'] += 1
             elif st == 'ready':
                 tally['ready'] += 1
-            elif st not in (None, 'rejected'):
-                tally['in_flight'] += 1
+            elif st == 'qc_pending':
+                tally['qc_pending'] += 1
+            else:
+                tally['other'] += 1
         lanes[lane] = tally
     if stories or lanes:
         lines.append('## Stories (separate pipeline)')
         lines.append('')
-        lines.append(f'Published story pages (content/stories/ST*.md): {len(stories)}. '
-                     'Ready = drafts that passed lane QC and await supervisor registration; '
-                     'in flight = being drafted or researched. Lanes are listed in '
-                     'STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.')
+        lines.append(f'Published story pages (content/stories/ST*.md): {len(stories)}. The per-lane '
+                     'rows below are LANE-REPORTED statuses from the lane state files, NOT reconciled '
+                     'against actual registrations (a lane may report "ready" for a story already '
+                     'published; the published-page count above is the reconciled figure). '
+                     'qc_pending = awaiting lane QC; other = returned or backlinks pending. '
+                     'Lanes are listed in STORIES-TASKBOARD.md; storytellers never touch '
+                     'concept/principle pages.')
         lines.append('')
-        lines.append('| Lane | Published (registered) | Ready (pending registration) | In flight |')
-        lines.append('|---|---|---|---|')
-        tp = tr = ti = 0
+        lines.append('| Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |')
+        lines.append('|---|---|---|---|---|')
+        tp = tr = tq = to = 0
         for lane in sorted(lanes):
             v = lanes[lane]
-            tp += v['published']; tr += v['ready']; ti += v['in_flight']
-            lines.append(f'| {lane} | {v["published"]} | {v["ready"]} | {v["in_flight"]} |')
-        lines.append(f'| **All lanes** | **{tp}** | **{tr}** | **{ti}** |')
+            tp += v['published']; tr += v['ready']; tq += v['qc_pending']; to += v['other']
+            lines.append(f'| {lane} | {v["published"]} | {v["ready"]} | {v["qc_pending"]} | {v["other"]} |')
+        lines.append(f'| **All lanes** | **{tp}** | **{tr}** | **{tq}** | **{to}** |')
         lines.append('')
 
     lines.append('## Principles by forest')
