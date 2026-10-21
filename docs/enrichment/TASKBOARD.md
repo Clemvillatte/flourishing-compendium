@@ -2109,3 +2109,8 @@ Verification pass 81 (worker-glmc4a — final): 1 principle page PASS; 2 not rea
 - Y067 (Bhagavad Gita 13.7-11, the knowledge catalogue), Y069 (Bhagavad Gita 6.5, mind as friend/enemy): the Bhagavad Gita carrier was not downloaded this session; not reached.
 - Y066: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 306 page-checks across 77 verification passes (pass 81 re-verifies Y068 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 82 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 with no displayed quotes.
+- Y070 (Yoga Sūtra on practice confirmed by long cultivation, Woods 1914) and Y072 (Yoga Sūtra 2.29, the eight aids, Woods 1914): both quotes match the already-downloaded theessentialway.org reprinted text verbatim.
+- Y071, Y073: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 308 page-checks across 77 verification passes (pass 82 re-verifies and records 2 already-counted Y-pages, adding no new page-checks). Delivering the report now.
