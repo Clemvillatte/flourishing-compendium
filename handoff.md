@@ -1,9 +1,8 @@
 - WORKER CHECKPOINT w1i (2026-10-21 ~08:53Z, worker-w1i-3a9d2f7e, T+60 REPORT DUE 09:06:05Z
   — reporting checkpoint; baton HELD, work continues while the session lives): took the released
-  band at 45/70. 24 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
+  band at 45/70. 25 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
   true session baseline 9d73e974, all quotes verbatim from opened carriers; per-item
-  ledgers + QC round records in docs/enrichment/sources/w1i/ledger.md). SIX advisor QC
-  rounds (item-1 x2; items-1-5; items-6-10; items-11-15; items-16-20 verdict + repairs
+  ledgers + QC round records in docs/enrichment/sources/w1i/ledger.md). SIX advisor QC rounds (item-1 x2; items-1-5; items-6-10; items-11-15; items-16-20 verdict + repairs
   applied; final-corrections round) — the items-16-20 verdict is recorded PRECISELY:
   item 17 scoped PASS; items 16/18/19/20 repaired after FAIL verdicts; the repairs are
   applied and pushed but NOT yet re-verified by the advisor (deadline reached); treat the
@@ -19,9 +18,15 @@
   (2) 'Discipline of rest' flagged Category C in concept-namespace-audit.md (label not
   source-defined; body quote-grounded; kept pending disposition); (3) OPEN QC debt: the
   optional-gloss simplification across this session's pages; final advisor verification
-  of the items-11-15 and items-16-20 repairs. EXACT NEXT ACTION: `python3
-  scripts/enrich_state.py w1i start "Moral emotions"`. Remaining manifest order: Moral
-  emotions, Naming the passions, Parasocial contact hypothesis (3 items).
+  of the items-11-15 and items-16-20 repairs. EXACT NEXT ACTION: run the items-21-25 milestone QC (due at item 25; Language games,
+  Monastic hours, Moral development research, Moral emotions + Gentleness as virtue is item 20's
+  batch — items 21-25 are: Heavy media multitasking, Identity development, Inquiry,
+  Interdependent self-construal, Language games — see ledger for the item numbers), THEN
+  `python3 scripts/enrich_state.py w1i start "Naming the passions"`. Remaining manifest order:
+  Naming the passions, Parasocial contact hypothesis (2 items). NOTE: the items-16-20 and
+  items-21-25 milestone QC verdicts are PENDING advisor verification (repairs for 16-20 are
+  applied and pushed; 21-25 have had NO milestone QC round at all — the T+60 deadline
+  intervened).
 
 # Handoff (start here)
 - WORKER CHECKPOINT (2026-10-21 ~08:28Z, worker-p1zzg-8c31f0a7, T+42 — w1m
@@ -175,7 +180,7 @@
 
 - WORKER CHECKPOINT w1l (2026-10-21 ~06:50Z, worker-w1l-4d8c21e3, T+60 REPORTING
   CHECKPOINT — reporting only, baton HELD, work continues while the session lives):
-  took over the stale band at 37/70. 24 CONCEPTS ENRICHED THIS SESSION (fast-track,
+  took over the stale band at 37/70. 25 CONCEPTS ENRICHED THIS SESSION (fast-track,
   all validator-ok, all quotes verified against opened carriers: NCBI efetch PubMed
   records, Gutenberg and MIT Classics primary texts, opened Frontiers/VCU/Mimesis
   journal copies): Experiential avoidance research + theory (near-duplicate pair
