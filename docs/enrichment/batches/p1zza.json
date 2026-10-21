@@ -28,9 +28,9 @@
   "MO042",
   "MO043",
   "MO052",
+  "MO055",
   "MO044",
-  "MO053",
-  "MO055"
+  "MO053"
  ],
  "in_progress": null,
  "flagged": {
@@ -44,13 +44,13 @@
   "M044": "M044: protected alias [[That of God in everyone|That of God in everyone]] has no concept page (unresolved target); markup preserved; supervisor decision needed",
   "MO042": "Reopened for QC: QC correction: advisor round 1 FAIL (untested prediction stated as strict rule; truncated quote; bibliography and concept reads pending)",
   "MO043": "Reopened for QC: round-5 closeout (citation audit completed, MO055 Plain words re-derived, locators verified)",
-  "MO044": "Reopened for QC: round-6 closeout (bounded Plain words, citation merges)",
+  "MO044": "Reopened for QC: round-7 inspection fixes (duplicate wording removed)",
   "MO052": "Reopened for QC: round-5 closeout (citation audit completed, MO055 Plain words re-derived, locators verified)",
-  "MO053": "Reopened for QC: round-6 closeout (bounded Plain words, citation merges)",
+  "MO053": "Reopened for QC: round-7 inspection fixes (duplicate wording removed)",
   "MO055": "Reopened for QC: round-6 closeout (bounded Plain words, citation merges)"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-21T02:00:00+00:00",
+ "updated": "2026-10-21T02:02:55+00:00",
  "band_done": false
 }
