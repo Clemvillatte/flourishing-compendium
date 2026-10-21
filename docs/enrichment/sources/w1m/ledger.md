@@ -553,3 +553,28 @@ owner/supervisor disposition + the recorded Companionate love namespace hold.
 EXACT NEXT ACTION for the next w1m worker: nothing actionable in-band; the
 supervisor should consider closing the band or minting dispositions for the
 holds (see batches/w1m.json flagged{} and concept-namespace-audit.md).
+
+## PBT seed-page QC round 1 repairs (2026-10-21, ~15:32Z)
+Advisor verdict: none of the seven passed as-is; five small-repair, two
+QC-pending. Applied bounded repairs: (kernels) "any technique qualifies" ->
+the book's narrower empirically-based-kernel proposal; K-corpus compliance
+claim softened to "in this spirit"; mediation gloss neutralised. (context
+sensitivity) "half the change"/precondition claims deleted; functional-
+analysis ancestry marked as this wiki's reading. (VSR) clinical-payoff
+paragraph reframed as investigative questions, not a diagnosis. (tipping
+point) conditional wording kept ("might"/"may"); patience/recovery-speed
+inference removed; ball-and-valley described as the chapter's figure
+discussion. (mediators) "earns its place by demonstrated mediation" removed;
+kernel linkage standard stated; full mediation discussion verification
+recorded as pending. (Tinbergen) "incomplete explanation" over-claim
+replaced with the book's well-rounded-account standard; functional-analysis
+gloss marked as this wiki's reading. (midlevel) EEMM-extension paragraph
+replaced with an adjacency note (ACT's term, not the book's); "master
+midlevel construct" removed. Punctuation normalized to the book's curly
+marks (client's, "versatile", Tinbergen's). Exact-file quote re-verification
+after repairs: all six book-sourced pages OK; Midlevel terms remains
+QC-pending (Twohig & Levin via fetch-extraction, recorded risk).
+Post-repair validation vs 84d7fbfd8: all clean. Mediators of change and
+Midlevel terms STAY QC-PENDING for substantive verification. The PBT side
+quest is NOT complete: theory-like depth, exhaustive saturation review and
+proposal integration remain open.

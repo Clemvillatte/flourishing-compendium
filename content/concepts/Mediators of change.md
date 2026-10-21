@@ -11,16 +11,16 @@ A mediator, in the research sense process-based therapy leans on, is the variabl
 
 > "the generative mechanism through which the focal independent variable is able to influence the dependent variable of interest" (Baron & Kenny, 1986, p. 1173, quoted in Hofmann, Hayes & Lorscheid, 2021, Learning Process-Based Therapy, Chapter 3)
 
-PBT's whole research program is an answer to a mediational question: not "did the package beat the control condition?" but "which process did the intervention change, and did changing that process carry the outcome?" A therapy technique earns its place by its demonstrated mediation path, which is what makes the model hospitable to methods from any school.
+PBT's research program is organised around a mediational question: not "did the package beat the control condition?" but "which process did the intervention change, and did changing that process carry the outcome?" The book's kernel standard asks that a change method be linked to evidence-based processes of change — a mediation path is what such linkage looks like when the evidence supports it. (Substantive verification of the book's full mediation discussion is still pending; see the ledger.)
 
 ## Related concepts
 
 - [[Process-based therapy]] — the framework organised around mediators
-- [[Treatment kernels]] — the methods whose mediation paths earn them a place
+- [[Treatment kernels]] — the change methods to be linked to processes
 - [[Functional analysis]] — the clinical analogue of identifying the pathway
 - [[Network theory of psychopathology]] — mapping where the pathway runs
 - [[Extended Evolutionary Meta-Model]] — classifying the mediated processes
 
 ## Sources
 
-- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy, Context Press / New Harbinger — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — carrier of the Baron & Kenny quotation, verified verbatim against the owner's primary-source copy
+- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy, Context Press / New Harbinger — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — Chapter 3: carrier of the Baron & Kenny quotation (page 1173 as printed in the book)
