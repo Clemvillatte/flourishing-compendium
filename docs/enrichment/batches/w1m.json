@@ -43,7 +43,8 @@
   "Big Two model of agency and communion",
   "Burnout",
   "Bystander effect theory Darley Latane",
-  "Base rate neglect representativeness heuristic"
+  "Base rate neglect representativeness heuristic",
+  "Care ethics"
  ],
  "in_progress": null,
  "flagged": {
@@ -94,10 +95,11 @@
   "Behavioral genetics models": "Reopened for QC: advisor QC round 5 repairs",
   "Big Two model of agency and communion": "Reopened for QC: advisor QC round 5 repairs",
   "Burnout": "Reopened for QC: advisor QC round 5 repairs",
-  "Bystander effect theory Darley Latane": "Reopened for QC: advisor QC round 5 repairs"
+  "Bystander effect theory Darley Latane": "Reopened for QC: advisor QC round 5 repairs",
+  "COM-B model theory": "primary sources (PMC3216833, BMC, Europe PMC) block automated access; needs browser-based verification"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:03:34+00:00",
+ "updated": "2026-10-21T14:04:33+00:00",
  "band_done": false
 }
