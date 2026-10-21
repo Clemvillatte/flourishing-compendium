@@ -78,3 +78,17 @@
 - QC NOTE: advisor QC NOT yet run on this item (4th fresh item; the
   item-5 milestone is next). State flag records QC-pending for the
   supervisor's next sample.
+
+## The ontological difference (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 6 connections; real defined Heidegger
+  concept, term used by Heidegger himself). QUOTES verified against the
+  freshly fetched IEP "Martin Heidegger" article (section 4): "Being is
+  essentially different from a being, from beings." and the ontological-
+  difference sentence, both verbatim. The Heidegger primary texts in the
+  seed (Being and Time; Introduction to Metaphysics) were NOT opened this
+  session and are listed in Sources as seed references only.
+- Related targets Being and beings (seed line kept) and Dasein (deg 3)
+  verified to exist. Validator ok (fast-track).
+- QC NOTE: advisor QC NOT yet run on this item (5th fresh item this
+  session; QC-pending flag for the supervisor's next sample).
