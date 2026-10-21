@@ -33,7 +33,7 @@ Suppose you explain investing to a friend whose existing schema is "the market i
 ## Psychology parallels
 
 - **[[Constructivist learning theory|Constructivist theory]]**, learners build understanding rather than receive it; prior knowledge shapes new learning (Piaget, 1954; Bruner, 1966)
-- **Active learning outperforms passive learning**, retrieval practice, self-explanation, and elaboration improve retention and understanding (Roediger & Karpicke, 2006; Dunlosky et al., 2013)
+- **Active learning outperforms passive learning** — retrieval practice has strong support (Roediger & Karpicke, 2006; Dunlosky et al., 2013 rate practice testing high utility); self-explanation and elaboration show more limited, moderate-utility evidence (Dunlosky et al., 2013)
 - **[[The testing effect / retrieval practice|The testing effect / retrieval practice]]**, actively recalling information strengthens memory more than rereading (Roediger & Karpicke, 2006)
 
 ## Philosophy parallels
