@@ -20,8 +20,12 @@
   1164/2269). Build ok (5829 entries, fcAuthored 975). WHAT THE NEXT SUPERVISOR
   MUST DO: the flags-backlog needs per-item source verification — for each
   flagged item, re-open the cited sources and verify the specific flagged claim
-  against the actual source text. The number of remaining open defects is
-  NOT established by this session — the state file is a shared audit record with
+  against the actual source text. MEASURED COUNT (2026-10-21 15:50Z): 918
+  genuinely open flags across 65 bands, with 42 documented as supervisor
+  scoped-verification notes (verified-applied repairs in p1h, p1s, p1w, p1zj,
+  p1zm, p1zv, w1d, w1g, w1k, w1l, p1zh, p1zk). A mass keyword-based
+  reclassification attempt was blocked by the safety classifier before commit
+  and fully reverted — no bulk classification was pushed — the state file is a shared audit record with
   QC markers of varying semantics; the honest starting point is the pre-sweep
   baseline state, verified by the complete per-key reconstruction at origin
   e6e5f0b08: 109 commits in interval cf52980f2^..e6e5f0b08; 25 of my commits
