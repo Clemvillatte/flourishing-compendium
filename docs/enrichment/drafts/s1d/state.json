@@ -94,16 +94,21 @@
    ]
   },
   "s1d-005": {
-   "status": "researching",
+   "status": "ready",
    "angle": "P057: the Wild Boy of Aveyron (Itard) - a self built out of human company",
    "history": [
     {
      "t": "2026-10-21T12:26:04+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:33:41+00:00",
+     "to": "ready",
+     "note": "advisor QC fixes applied, raw-verified, narrowed claims; story_check ok"
     }
    ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:26:04+00:00"
+ "updated": "2026-10-21T12:33:41+00:00"
 }
