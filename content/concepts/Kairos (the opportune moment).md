@@ -9,15 +9,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Kairos is the Greek word for the opportune moment — time as quality, not quantity, the moment when an action becomes right by being done now. Aristotle's Ethics makes the timely a constitutive part of virtue itself, not a decoration on it:
 
-> "To do these to the right person, in due proportion, at the right time, with a right object, and in the right manner, this is not as before what any man can do, nor is it easy; and for this cause goodness is rare, and praiseworthy, and noble." (Aristotle, Nicomachean Ethics II.6, trans. F. H. Peters, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
+> "…to do these to the right person, in due proportion, at the right time, with a right object, and in the right manner, this is not as before what any man can do, nor is it easy; and for this cause goodness is rare, and praiseworthy, and noble." (Aristotle, Nicomachean Ethics, Book II ch. IX in this translation, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438); the ebook names no translator)
 
-Kairos was also, for the Greeks, a god in some tellings, young and running, hair over his face and bald at the back: graspable only as he approaches. The Ethics keeps the thought without the mythology by building the moment's rightness into every definition of acting well. The same demand runs through the account of practical wisdom's partner, good counsel:
+The Ethics keeps the thought by building the moment's rightness into its definitions of acting well: courage, liberality and good counsel are all defined with a right-time clause. The same demand runs through the account of practical wisdom's partner, good counsel:
 
-> "You must have a proper end in view, pursue it in a right manner and right time." (Aristotle, Nicomachean Ethics VI.9, trans. F. H. Peters, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
+> "…you must have a proper end in view, pursue it in a right manner and right time." (Aristotle, Nicomachean Ethics, Book VI ch. IX in this translation, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
 
-Courage is defined the same way — the brave man withstands and fears "in respect of right objects, from a right motive, in right manner, and at right times" (NE III.6, Peters trans.). The timeliness is not separate from the act's being good: the same words said earlier or later are a different act with a different effect.
+Courage is defined the same way — the brave man withstands and fears "in respect of right objects, from a right motive, in right manner, and at right times" (Book III ch. X in this translation, same text). The same words spoken earlier or later are a different act, which is why the Ethics can call the timeliness a mark of the good rather than a stylistic extra. Librality is defined with the same clause: giving to the right people, the right amounts, at the right time. The timeliness is not separate from the act's being good: the same words said earlier or later are a different act with a different effect.
 
-**Plain words** The same action is right once and wrong twice. Timing is not the finishing touch on a good decision; it is part of what makes the decision good, which is why acting well is rare and late-arriving courage is still courage but no longer the same act.
+**Plain words** The same action is right once and wrong twice. Timing is not the finishing touch on a good decision; the good-decision list itself — right person, right proportion, right time — has timing as one of its items.
 
 ### In the compendium
 

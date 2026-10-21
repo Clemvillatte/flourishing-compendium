@@ -17,11 +17,11 @@ His defence of experiments in living rests on the person's own judgment:
 
 And the positive picture is not selfishness but a richer common stock:
 
-> "It is not by wearing down into uniformity all that is individual in themselves, but by cultivating it and calling it forth, within the limits imposed by the rights and interests of others, that human beings become a noble and beautiful object of contemplation." (Mill, On Liberty, ch. III, [Project Gutenberg #34901](https://www.gutenberg.org/ebooks/34901))
+> "It is not by wearing down into uniformity all that is individual in themselves, but by cultivating it and calling it forth, within the limits imposed by the rights and interests of others, that human beings become a noble and beautiful object of contemplation…" (Mill, On Liberty, ch. III, [Project Gutenberg #34901](https://www.gutenberg.org/ebooks/34901); the sentence continues)
 
-Mill's argument is that customs are answers made by nobody in particular, so following them is not evidence and cannot teach. A person who chooses wrongly at least learns the shape of the error from inside, and the same passage that asks for strong natures asks that they prove their strength by example, which requires that their experiments be allowed to run. The chapter's condition on all of it is the same as the book's: your experiments stop where the rights and interests of others begin, a limit Mill states inside the very sentence that praises cultivation of the individual.
+The passage is explicit that the same course of life may be right for one person and wrong for another. Its worked example is Cato, whom the passage describes as endowed by nature with an austerity beyond belief, strengthened by unswerving consistency and ever true to his purpose and fixed resolve; for him, dying rather than look upon a tyrant's face was right where surrendering was right for others. The chapter's condition on all of it is the same as the book's: your experiments stop where the rights and interests of others begin, a limit Mill states inside the very sentence that praises cultivation of the individual.
 
-**Plain words** A life you copied from others needs no faculty but imitation, and it is not even comfortable for the person living it. A life laid out by the person living it fits better, and the variety of such lives is what everyone else gets to look at.
+**Plain words** A life you copied from others needs no faculty but imitation, and it is not even comfortable for the person living it. A life laid out by the person living it fits better, and the variety of such lives is what everyone else gets to look at, since Mill's sentence about the noble object of contemplation continues directly into human life becoming rich, diversified and animating by the same process.
 
 ### In the compendium
 

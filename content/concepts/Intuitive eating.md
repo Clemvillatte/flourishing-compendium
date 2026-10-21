@@ -13,13 +13,13 @@ The construct's founding definition, from Tylka's scale-development study:
 
 The scale's own structure names the three skills the construct is made of:
 
-> "Exploratory factor analysis uncovered 3 factors: unconditional permission to eat, eating for physical rather than emotional reasons, and reliance on internal hunger/satiety cues." (Tylka 2006, [abstract, ERIC EJ735948](https://eric.ed.gov/?id=EJ735948))
+> "Exploratory factor analysis uncovered 3 factors: unconditional permission to eat, eating for physical rather than emotional reasons, and reliance on internal hunger/satiety cues…" (Tylka 2006, [abstract, ERIC EJ735948](https://eric.ed.gov/?id=EJ735948); the sentence continues)
 
-The scale's development drew on Tribole and Resch's ten principles of intuitive eating, which the factor analysis compressed into the three measurable skills. The validity evidence matters for the compendium's use of the concept: in the study's own words, "IES scores were (a) negatively related to eating disorder symptomatology, body dissatisfaction, poor interoceptive awareness, pressure for thinness, internalization of the thin ideal, and body mass; (b) positively related to several indexes of well-being; and (c) unrelated to impression management." That last clause is the load-bearing one: people scoring high on attunement to hunger were not just performing virtue for the researcher.
+The scale's development drew on Tribole and Resch's ten principles of intuitive eating, which the factor analysis compressed into the three measurable skills. The validity evidence matters for the compendium's use of the concept: in the study's own words, "IES scores were (a) negatively related to eating disorder symptomatology, body dissatisfaction, poor interoceptive awareness, pressure for thinness, internalization of the thin ideal, and body mass; (b) positively related to several indexes of well-being; and (c) unrelated to impression management." That last clause matters for what the scale measures: scores on attunement to hunger were not simply tracking a wish to look good to the researcher.
 
-Internally consistent and stable over a three-week period in the study's own data, the scale has since been revised and extended, including a fourth factor of body-food choice congruence in the 2013 version.
+The study reports the scale's scores as internally consistent and stable over a three-week period, from data collected in four studies of 1,260 college women.
 
-**Plain words** Eating when the body asks, stopping when it is full, and not using food to handle feelings. Three separate skills, and the research says they travel with being generally well rather than with being merely thin or disciplined.
+**Plain words** Eating when the body asks, when the body asks,, stopping when it is full, and not using food to handle feelings. Three separate skills, and in the study's data they travel with well-being rather than with body mass, which moves in the opposite direction.
 
 ### In the compendium
 

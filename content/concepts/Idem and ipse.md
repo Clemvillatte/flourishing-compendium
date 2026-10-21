@@ -13,11 +13,11 @@ Ricoeur's distinction, from Oneself as Another (1990), separates two things the 
 
 Idem is the sameness of what stays put: character, dispositions, the recognisable someone. Ricoeur defines the clearest idem case directly:
 
-> "Character, I would say today, designates the set of lasting dispositions by which a person is recognized." (Ricoeur, Oneself as Another, p. 121, [as quoted in Rodrigues 2023](https://ricoeur.pitt.edu/ojs/ricoeur/article/download/605/362))
+> "Character, I would say today, designates the set of lasting dispositions by which a person is recognized." (Ricoeur, Oneself as Another, p. 121, [as quoted in Rodrigues](https://ricoeur.pitt.edu/ojs/ricoeur/article/download/605/362))
 
 Ipse is the selfhood that holds through change, and Ricoeur's sharpest statement of it is the promise:
 
-> "The perseverance of character is one thing, the perseverance of faithfulness to a word that has been given is something else again. The continuity of character is one thing, the constancy of friendship is quite another." (Ricoeur, Oneself as Another, p. 123, [as quoted in Rodrigues 2023](https://ricoeur.pitt.edu/ojs/ricoeur/article/download/605/362))
+> "The perseverance of character is one thing, the perseverance of faithfulness to a word that has been given is something else again. The continuity of character is one thing, the constancy of friendship is quite another." (Ricoeur, Oneself as Another, p. 123, [as quoted in Rodrigues](https://ricoeur.pitt.edu/ojs/ricoeur/article/download/605/362))
 
 The promise is the test case because it is identity stretched over time: Rodrigues's article explains that in promises, one holds oneself accountable to something in the future even if one will not recognise oneself as the same then, so that the commitment, not the unchanged person, carries the identity across the gap. This is why Ricoeur's ipse is bound to the question "who?" rather than "what?" — the self that answers, acts and keeps faith, rather than the bundle of features that happens to be recognisable.
 
