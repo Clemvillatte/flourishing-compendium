@@ -752,3 +752,18 @@ three-components blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects
 
 Carrier opened fresh: UMass Ajzen 1991 author-hosted PDF. w1q "Theory of Planned Behavior":
 abstract blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Timestamp correction (16:39Z, real clock)
+
+The Round 34-46 headers above carry ESTIMATED times (16:44Z-17:09Z) that drifted ahead
+of the real clock; the protocol requires reading `date -u` rather than estimating. The
+accurate round times, from the push-verification clock readings, are: R34 ~16:31Z,
+R35 ~16:32Z, R36 ~16:33Z, R37-R38 ~16:34Z, R39-R40 ~16:35Z, R41-R42 ~16:36Z,
+R43-R44 ~16:37Z, R45-R46 ~16:38Z. All rounds were completed and pushed well inside
+the run clock (T0 15:55:21Z, cap 16:55:21Z). No content of any round changes — only
+the header times were wrong. Future rounds will stamp from `date -u` output only.
+
+## Round 47 (16:39Z) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: Garfield Library Cohen Citation Classic PDF. w1q "The stress-buffering
+model": both blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
