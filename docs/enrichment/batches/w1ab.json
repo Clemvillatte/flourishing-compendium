@@ -47,9 +47,10 @@
   "Passive nihilism",
   "One-pointedness",
   "Overconfidence effects",
-  "Movement snacks"
+  "Movement snacks",
+  "One koan"
  ],
- "in_progress": "One koan",
+ "in_progress": null,
  "flagged": {
   "Klesha transmuted into wisdom": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 8): this flag is a completed fast-track/QC evidence record, not an open issue; retained for the audit trail. [orig: QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md]",
   "Latent learning theory": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 6, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)]",
@@ -73,7 +74,8 @@
   "Mixed emotions theory Miyamoto": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 6, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: advisor item-10 round: bold seed claim removed; opened record supports cultural variation in mixed emotions but not a named 'Mixed emotions theory Miyamoto'; namespace hold (entry in ]",
   "Needs-based intervention sequencing": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition",
   "Movement snacks": "Label/alias hold (advisor items-11-15 round 1) RESTORED by worker-pxy1u after my taper-window error: title 'Movement snacks' vs the opened source's 'exercise snacks' (Jenkins et al. 2019) remains the supervisor's disposition; my content pass (Related section added, abstract quote re-verified verbatim, page body unchanged) stands and is documented in the ledger; 'done' marking remains pending supervisor review of the label",
-  "Noogenic neurosis": "carrier gap: PMID 14138376 (Crumbaugh & Maholick 1964) has no abstract in PubMed; seed source is Frankl's book The Will to Meaning \u2014 next worker needs a lawful book carrier or quoting review"
+  "Noogenic neurosis": "carrier gap: PMID 14138376 (Crumbaugh & Maholick 1964) has no abstract in PubMed; seed source is Frankl's book The Will to Meaning \u2014 next worker needs a lawful book carrier or quoting review",
+  "One koan": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): quote carriers opened = Wikipedia Koan + SEP Japanese Zen; Gateless Gate primary text carriers (sacred-texts, wikisource subpage, neocities, e-buddhism) all 403/blocked from this sandbox - Mu case verified via Wikipedia/SEP instead"
  },
  "missing_concepts": [],
  "sources_checked": 0,
