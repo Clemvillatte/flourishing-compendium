@@ -1,5 +1,37 @@
 # Handoff (start here)
 
+- WORKER CHECKPOINT p1zza (2026-10-21 ~01:5xZ, worker-p1zza-7c2a91e4, session
+  ending at the user's T+60 time-box): BAND COMPLETE 30/30 (took over the stale
+  band at 24/30 from worker-verify-8f4c21bd; this session completed MO042,
+  MO043, MO044, MO052, MO053, MO055 — all six with verbatim quotes from sources
+  actually opened, per-item ledgers in docs/enrichment/sources/p1zza/). QC
+  STATE: first item MO042 passed advisor scoped review after 3 rounds (the
+  round-1 page stated an untested prediction as a rule, mis-cited the
+  manuscript's authors, and asserted an unestablished Azrin equivalence — all
+  repaired; the withdrawn material is marked in the ledger). Session items 2-6
+  (MO043-MO055) went through a milestone QC fail-repair cycle: round 1 FAIL on
+  all five (scoping, locators, unverified BJGP specifics, stitched quotation,
+  aphorisms), repairs applied and pushed; round-2 narrow blockers (MO044
+  duplication, sentence-level citations, ledger consistency) fixed and pushed
+  (bb6fac8d8); five-target validation 5/5 ok vs baseline 5fb173125^. Advisor
+  final verdict on the batch: MO052/MO055 scoped-content PASS; MO043/MO053
+  substantive repairs pass; MO044 mechanical correction applied after the
+  verdict — the batch is NOT recorded as unconditionally QC-passed; final
+  milestone acceptance outstanding checks for the next agent/supervisor: (1)
+  verify the five repaired files read as described (commits fb43abfdb,
+  e8924bf3b, bb6fac8d8); (2) the truncated saturation inspections (corpus
+  mention counts now recorded in the ledgers: immediate reward 2, habit
+  tracking 2, deadline 37, satisficing 14, goal progress 9 — only top hits
+  inspected); (3) proposals/p1zza.json rev 8 has TWO records pending
+  integration (Habit formation <- MO042, Habit formation <- MO043); NOTE: the
+  2f2099569 integration archived applied/p1zza.json containing earlier
+  unapplied additions — when the unapplied additions entered the archive is
+  not established; (4) MO055's [[The progress principle]] concept page has a
+  no-source-URL "well-being tracks perceived forward progress" claim (not
+  this band's file; supervisor disposition). Band state: 30/30 done; band_done
+  left FALSE deliberately (inherited holds + final QC verification pending);
+  do NOT run finish. Batons (p1zza) RELEASED at this checkpoint; the next
+  worker should claim an OPEN reserve band per the TASKBOARD.
 - CURRENT SUPERVISOR (2026-10-21 ~02:05Z, supervisor-df5053ec, LIVE — pass 1 in the OPERATIONS.md QC log, monitoring continues): took the STALE supervisor baton from worker-verify-8f4c21bd (40 min). Pass 1: dead-agent check (p1zza 24/30, p1zzb 23/30 with an SO045 in-progress marker, p1zzc 20/30 — all committed work verified on origin/main; batons stale = free for takeover); window health check ab3381aa3..HEAD (96 files, BE063 staging-in-quote repaired after re-opening the HBS record, build 5,737/fcAuthored 976); R092 sample PASS (all quotes re-verified vs opened sources); 103-reciprocal integration across 17 proposal files (pure-insertion delta verified, 43 post-apply FAILs all pre-existing seed conditions); routed-repair verification (SE058/SE053/SO010/E058 all landed); Y020/Y132 p1zy-route repairs applied (parentheticals verified vs raw Woods text, bhavita dropped, Arnold capitalization restored vs Gutenberg #2388, editing-log prose reader-facing); reserves p1zzg/p1zzh/p1zzi minted (three OPEN, queue@737d00da). NEXT SUPERVISOR ACTIONS: (1) sample the live p1zzf/w1aa workers' newest items; (2) the w1aa fast-track eligibility follow-up (partially certified, advisor directive); (3) standing owner dispositions: AF037 title, BI013≈BE037 / BI033≈BE042 near-duplicates; (4) p1zzb SO045 in-progress marker — next taker resumes there; (5) replenish reserves as claimed (p1zzg/h/i OPEN now). Git remote sanitized (token out of repo config).
   OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Pass 1:
   health check (window cd260f175..8f8eed42a, 58 files all ok, build 5,737/fcAuthored 976);
