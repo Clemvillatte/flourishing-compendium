@@ -465,7 +465,22 @@
      "note": "advisor round 2: scoped PASS on reviewed prose and mapping; qc_pending retained for supervisor scope disposition"
     }
    ]
+  },
+  "s1a-020": {
+   "status": "qc_pending",
+   "angle": "B074: MN 20 ladder — a thought is tested for skillfulness, never for truth; outcome is mastery over thought-sequences",
+   "history": [
+    {
+     "t": "2026-10-21T11:32:49+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:32:52+00:00",
+     "to": "qc_pending",
+     "note": "item-5 advisor round due next per cadence"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T11:31:45+00:00"
+ "updated": "2026-10-21T11:32:52+00:00"
 }
