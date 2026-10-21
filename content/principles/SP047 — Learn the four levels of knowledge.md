@@ -21,7 +21,7 @@ In Ethics II, P40, Note II, Spinoza instead names three kinds of knowledge: ordi
 **Plain words**
 Ask how a belief arrived. If somebody told you and you never checked, it is the hearsay mode. If it comes from your own unsorted experience, it is the second mode.
 
-If it comes from an inference, note whether the inference is adequate. And some things you simply see, the way you see that one, two, three gives six. The practical use is diagnosis: how a belief was acquired tells you what trust it has earned.
+If it comes from an inference, note whether the inference is adequate. The practical use is diagnosis: how a belief was acquired tells you what trust it has earned.
 
 *For example:* Spinoza's own illustrations: the fourth proportional, where with one, two, three given, "everyone can see that the fourth proportional is six", and this "is much clearer, because we infer the fourth number from an intuitive grasping of the ratio, which the first bears to the second" (Ethics II, P40, Note II); and "By hearsay I know the day of my birth, my parentage" (Emendation §20).
 
