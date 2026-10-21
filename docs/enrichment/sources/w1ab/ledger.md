@@ -561,3 +561,21 @@
   from the actual state, not copied arithmetic).
 - Five-file validation: --fast-track --base 4b2bebc4f: 5 checked, 0 failures, all
   original wikilinks preserved.
+
+## Ockham's razor (fast-track) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Sources stub + Cited-in D165). Validated --fast-track
+  --base 4b2bebc4f: ok (no staging patterns; front-matter and D165 wikilink preserved).
+- Carrier opened: IEP 'William of Ockham' entry, section 2 'The Razor' (author Sharon
+  Kaye, shown in the entry). Quotes verbatim from the fetched page: the definition
+  sentence, 'Entities should not be multiplied beyond necessity', the
+  Aristotle/Aquinas precedent sentence, 'Nor did he call the principle a "razor."',
+  the 1852 Hamilton first-known-use sentence, the hypotheses-not-entities sentence,
+  and the 'It is useless to do with more what can be done with less' formulation with
+  the entry's explain-and-predict reading. The 'maximally simple is problematic'
+  sentence paraphrased from section 2.
+- Note: 'entities should not be multiplied beyond necessity' is quoted as the maxim
+  the ENTRY associates with the principle; the entry states Ockham did not use this
+  popular formulation — the page carries that qualification in the same paragraph.
+- QC cadence: this item closed AFTER the items-11-15 milestone (closed with round-2
+  PASS); this item's advisor QC is due at the NEXT 5-item boundary (items 16-20,
+  i.e. with the next worker's batch).
