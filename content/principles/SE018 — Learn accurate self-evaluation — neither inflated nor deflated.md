@@ -18,12 +18,12 @@ Socrates' edge over the politician he examined was calibration, not knowledge:
 
 (Plato, Apology 21d, Jowett translation; [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
-Inflated and deflated self-evaluation fail the same way from opposite ends: both are claims about a knowledge state the person has not checked. The politician thought himself wiser than he was; Socrates' only advantage was the accuracy of the self-assessment. The middle of the range is not a compromise between vanity and modesty but a different thing: a checked belief about your own abilities, correctable by the same audit in both directions.
+Socrates' stated advantage is limited: he recognizes that he lacks the knowledge under discussion. The passage supplies an example of acknowledging a limit to one's knowledge.
 
 **Plain words**
-Self-evaluation goes wrong in two directions: the overconfident one overreaches and takes the correction as an attack; the underconfident one never raises a hand. The accurate position is the only one that updates, and the working question is the one the Socratic passage models: what do I actually know here, and what have I not checked?
+For one task, list what you can demonstrate and what remains uncertain. Identify evidence that would change your assessment, whether upward or downward.
 
-*For example:* Imagine the new hire who believes they are ready to lead on day one, and the one who believes they will never be ready. The one still standing in year two says: strong on analysis, learning the rest.
+*For example:* Imagine a new employee completing an analysis they have checked while asking a colleague to review an unfamiliar procedure.
 
 ## Sources
 
