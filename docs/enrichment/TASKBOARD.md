@@ -1640,3 +1640,12 @@ Verification pass 11 (worker-glmc4a — w1l released band, continued): 6 more pa
 - Meta-awareness: the Schooler et al. 2011 sentence matches PubMed 21684189 efetch verbatim.
 - Recovery experiences: the Sonnentag & Fritz 2007 sentence matches PubMed 17638488 efetch verbatim (same clause-boundary elision of "(Study 2)" as noted on the Psychological detachment page in pass 7).
 Session total: 67 distinct pages verified (65 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 12 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Contentment with sufficiency: the Daodejing 44 verse matches the opened Gutenberg #216 Legge text verbatim.
+- Detachment from outcomes: the Bhagavad Gita 2.47 passage matches the opened bhagavad-gita.us page verbatim.
+- Following nature's rhythms: the Daodejing 25 passage matches the opened Gutenberg #216 Legge text verbatim.
+- Food as medicine: the Hippocrates On Ancient Medicine passage matches the opened MIT Classics page verbatim.
+- Congruence: the Rogers 1957 third-condition passage matches the opened PDF of the original article verbatim.
+- Compassion-focused therapy: the Gilbert 2009 Box 3 item-5 sentence matches the opened Cambridge page verbatim.
+Session total: 73 distinct pages verified (71 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
