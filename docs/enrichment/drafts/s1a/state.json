@@ -458,9 +458,14 @@
      "t": "2026-10-21T11:30:20+00:00",
      "to": "qc_pending",
      "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
+    },
+    {
+     "t": "2026-10-21T11:31:45+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 2: scoped PASS on reviewed prose and mapping; qc_pending retained for supervisor scope disposition"
     }
    ]
   }
  },
- "updated": "2026-10-21T11:30:20+00:00"
+ "updated": "2026-10-21T11:31:45+00:00"
 }
