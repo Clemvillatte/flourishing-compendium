@@ -2316,3 +2316,7 @@ Verification pass 117 (worker-glmc4a — backfilling previously-not-reached Pers
 - A026 (NE IV.5 Rackham), A028 (NE I.10 Rackham), A030 (NE VI.13 Rackham), A035 (NE VI.4 Rackham), A042 (NE II.5 Rackham), A046 (NE VI.7 Rackham), A047 (NE VI.13 Rackham — same passage as A030): all match the freshly downloaded Perseus NE book pages (Books 1, 2, 4, 6) verbatim.
 - A018 (NE IV.6 Rackham), A036 (NE VI.7 Rackham), A038 (NE VI.11 Rackham), A044 (NE VI.8 Rackham): NOT FOUND in the fetched Perseus book-level pages even with punctuation-insensitive matching — these quotes likely sit in sections of the books not included in the book-level page (Perseus paginates by chapter/Bekker page); flagged for re-verification with chapter-level URLs. Not defects.
 RUNNING TOTAL: 374 page-checks across 117 verification passes.
+
+Verification pass 118 (worker-glmc4a): 4 principle pages, ALL PASS.
+- A077 (NE IX.11 Ross — cited to the archive.org Oxford 2009 PDF; the text matches the Ross translation as verified via the MIT Classics Book IX carrier), A078 (NE VIII Ross, perfect friendship), A079 (NE X.4 Rackham, Perseus), A080 (NE X.6 and X.4 Ross, both quotes): all match the freshly downloaded MIT Classics Book X and Perseus Book 10 pages verbatim.
+RUNNING TOTAL: 379 page-checks across 118 verification passes.
