@@ -27,3 +27,54 @@ No pages were edited (unowned; w1k precedent: supervisor mints or applies).
 Every quote above was checked against the fetched carrier text; two neutral-prompt re-fetch
 spot-checks of other carriers this session also matched. Items marked NOT OPENED must be
 opened before any page quote uses them.
+
+## Ready-to-apply draft bodies (worker-pxy2, 2026-10-21; preserve each page's existing
+front-matter, Related concepts and Cited-in sections; apply only once a band is minted)
+
+### Language on holiday — draft body
+Wittgenstein's diagnosis of how philosophy goes wrong: words leave the language-games that
+give them work to do, and in their idle state they start to look like deep metaphysical
+puzzles. The phrase comes from aphorism 38 of the Philosophical Investigations.
+
+> "Philosophical problems arise when language goes on holiday." — [Wittgenstein, Philosophical
+> Investigations §38 (Anscombe trans.)](https://unreasonable.blog/resources/wittgenstein.pdf)
+
+The repair he proposes runs through §116: ask "is the word ever actually used in this way in
+the language-game which is its original home?" and "bring words back from their metaphysical
+to their everyday use" ([PI §116](https://unreasonable.blog/resources/wittgenstein.pdf)).
+The compendium's use runs through [[B070 — Stop the proliferation (papanca)]]: the Buddhist
+tradition's proliferation of concepts and the philosopher's idle words are both treated as
+thought leaving its work.
+Related concepts to add: [[Language games]] (the home the words leave), [[Family resemblance]]
+(how the everyday words actually group).
+
+### Authentic pride — draft body (existing Related/Cited-in preserved)
+Tracy and Robins' name for the facet of pride that follows earned achievement: pride felt
+over an accomplishment one attributes to one's own effort. The two-facet model separates it
+from hubristic pride, which follows self-aggrandizement.
+
+> "To provide support for the theoretical distinction between 2 facets of pride, authentic
+> and hubristic (J. L. Tracy & R. W. Robins, 2004a), the authors conducted 7 studies." —
+> [Tracy & Robins 2007, JPSP 92(3):506-25, abstract, PubMed PMID 17352606](https://pubmed.ncbi.nlm.nih.gov/17352606/)
+
+The studies found the two facets emerge in analyses of pride words and experience reports,
+carry divergent personality correlates and distinct antecedent causal attributions, and are not
+merely positive versus negative forms of one emotion ([PMID 17352606](https://pubmed.ncbi.nlm.nih.gov/17352606/)).
+A later review states the central finding: "pride is not a unitary construct but rather is
+comprised of two distinct facets, referred to as authentic and hubristic pride"
+([Tracy & Robins 2014, PubMed PMID 24491249](https://pubmed.ncbi.nlm.nih.gov/24491249/)).
+Hubristic pride draft: same two quotes, mirrored framing (the facet that follows
+self-aggrandizement; cited by AF068 and SP023).
+
+### Autonomous motivation / Controlled motivation — draft body (one body, mirrored)
+Self-determination theory's division of motivated action into two kinds: motivation that
+comes from genuine interest or personal value, and motivation that comes from pressures,
+rewards or shoulds.
+
+> "Self-determination theory (SDT) classifies this type of motivation as controlled
+> motivation and the type of motivation that comes from genuine interest or personal value
+> as autonomous motivation." — [Kusurkar & Croiset 2015, PubMed PMID 25953033](https://pubmed.ncbi.nlm.nih.gov/25953033/)
+
+For the goal-pursuit evidence: "The results of three studies and a meta-analysis indicated
+that autonomous motivation was substantially related to goal progress whereas controlled
+motivation was not" ([Koestner et al. 2008, PubMed PMID 18705645](https://pubmed.ncbi.nlm.nih.gov/18705645/)).
