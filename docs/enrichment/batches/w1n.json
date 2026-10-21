@@ -13,7 +13,8 @@
   "Cytokine theory sickness behavior",
   "Developmental psychopathology framework",
   "Dialectic",
-  "Dialogue"
+  "Dialogue",
+  "Diathesis-stress model"
  ],
  "in_progress": null,
  "flagged": {
@@ -21,5 +22,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 14,
- "updated": "2026-10-21T08:33:43+00:00"
+ "updated": "2026-10-21T08:34:30+00:00"
 }
