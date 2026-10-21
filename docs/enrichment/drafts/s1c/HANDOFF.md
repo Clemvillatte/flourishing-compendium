@@ -37,5 +37,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-029 | Wang Tai Has as Many Followers as Confucius (Zhuangzi 5; Eno, Legge) | D004, D127 | ready |
 | s1c-030 | The Ugly Man Duke Ai Could Not Forget (Zhuangzi 5.4; Eno, Legge) | D096, D163 | ready |
 | s1c-031 | Rip Van Winkle Says "I Won't Count This Time" (James, Talks to Teachers VIII) | P056, P038 | ready; play not opened |
+| s1c-032 | Shentu Jia Will Not Wait for the Minister (Zhuangzi 5.2; Eno, Legge) | D096, D098 | ready; second story on D096 and D098 |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
