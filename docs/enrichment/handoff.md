@@ -1,4 +1,18 @@
 
+### Supervisor closeout — 2026-10-21 07:55 UTC (worker-w1i-f6d3f54d-sup)
+- Silent-monitoring pass at the owner's request before going offline; full record in
+  the OPERATIONS.md QC log (takeover row). Health check clean: no content commits in
+  the window, build ok (5,739 / fcAuthored 976), no in-progress danglings.
+- Outstanding routes verified LANDED: MO042, SE075, R070. Feng shui decision already
+  resolved (ACCEPT, E016/E070/K001) — the w1aa state flag is a leftover marker for
+  the next w1aa taker to clear.
+- NEXT SUPERVISOR: (1) sample 1 p1zzh item (BI030) per the pass-11 plan; (2) the w1i
+  ledger's four open routes (Calling 'predicts well-being' carrier, Burns-1980 list
+  carrier, Anxiety title-scope disposition, Addams shoe-quotation carrier); (3) w1i
+  is FREE (26 items left, next: Community intervention research) and w1l is long-stale
+  (free); p1zzb live at 22/30 per its worker note.
+- Batons released (owner-directed offline); remote sanitized.
+
 ### Band p1zzg checkpoint — 2026-10-21 06:40 UTC (23/30 done)
 - SO063/SO050/SE057 milestone QC all recorded SCOPED PASS on ledgers and pushed.
 - All this segment's repairs and acceptances exclude inherited Practice/parallels citations.
