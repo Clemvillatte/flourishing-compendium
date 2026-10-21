@@ -890,3 +890,10 @@ opened carrier. 1/1 PASS, no defects.
 Carrier opened fresh: SEP "Martin Heidegger" (Wrathall). w1q "Being-toward-death": all
 five quoted passages (SZ 250 definition; SZ 263 individualization; nullity; liberation;
 SZ 266 anticipation) VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 67 (16:47Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: SEP "Baruch Spinoza" (Nadler). w1q "Amor dei intellectualis":
+all three quoted passages VERBATIM vs the opened carrier (including the SEP's
+sentence frame "The third kind of knowledge generates a love for its object, and..."
+which the page elides at the join — acceptable). 1/1 PASS, no defects.
