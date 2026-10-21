@@ -17,11 +17,11 @@ Silently extend phrases of goodwill: "May you be safe. May you be healthy. May y
 1. Sit comfortably and settle with a few slow breaths. Bring to mind the phrases of goodwill you will use, for example: may you be safe, may you be healthy, may you be happy, may you live with ease.
 2. Offer the phrases to yourself first, repeating them slowly and letting them land. When the mind wanders, return to the phrases without fuss.
 3. Move outward in stages: a friend or loved one, then a neutral person you neither like nor dislike, then a difficult person, then all beings everywhere. Stay at each stage as long as feels natural.
-4. If goodwill toward a difficult person strains the heart, step back a stage and return to it another day. Sessions of five to twenty minutes are a normal range, and short daily practice beats occasional long practice.
+4. If goodwill toward a difficult person strains the heart, step back a stage and return to it another day. Sessions of five to twenty minutes are a normal range.
 
 ### Evidence
 
-A meta-analytic review of 24 empirical studies with a combined 1,759 participants found medium effect sizes for loving-kindness interventions on daily positive emotions, both in wait-list controlled randomised trials and in non-randomised studies, and small to large effect sizes for ongoing practice on immediate positive emotions. A pooled analysis of two randomised trials with 339 midlife adults found a dose-response relation between time spent meditating and daily positive emotions, and that relation was stronger for loving-kindness meditation than for mindfulness meditation.
+A meta-analytic review of 24 empirical studies with a combined 1,759 participants found medium effect sizes for loving-kindness interventions on daily positive emotions, both in wait-list controlled randomised trials and in non-randomised studies, and small to large effect sizes for ongoing practice on immediate positive emotions. A pooled analysis of two randomised trials with 339 midlife adults found that on days when participants meditated more than usual, they also reported more positive emotions, and this within-person association was stronger for loving-kindness meditation than for mindfulness meditation.
 
 ### A guided version
 

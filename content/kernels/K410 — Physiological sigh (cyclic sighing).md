@@ -21,7 +21,7 @@ The physiological sigh is a breathing pattern of two inhales through the nose fo
 
 ### Evidence
 
-In a remote randomised controlled trial, 111 volunteers performed one of three daily five-minute breathing exercises, or mindfulness meditation, for one month. The exhale-focused cyclic sighing group showed greater improvement in mood and a greater reduction in respiratory rate than the mindfulness meditation group, and their daily gains in positive feeling were the largest of all the groups. The participants whose resting breathing slowed the most were also the ones whose mood improved the most.
+In a remote randomised controlled trial, more than one hundred volunteers performed one of three daily five-minute breathing exercises, or mindfulness meditation, for one month. The exhale-focused cyclic sighing group showed greater improvement in mood and a greater reduction in respiratory rate than the mindfulness meditation group, and their daily gains in positive feeling were the largest of all the groups. The participants whose resting breathing slowed the most were also the ones whose mood improved the most.
 
 ### A guided version
 

@@ -21,7 +21,7 @@ After settling with breath anchoring, widen attention to include whatever arises
 
 ### Evidence
 
-In the framework paper that named the two styles, Antoine Lutz and colleagues describe open monitoring meditation as the nonreactive monitoring of the content of experience from moment to moment. In a randomised trial comparing focused attention, open monitoring, and a relaxation control, both meditation groups improved executive attention while the relaxation group did not. A review of the three most-studied meditation families reports that open monitoring induces a broader attentional focus by allowing and acknowledging any experiences that arise, and that divergent thinking was significantly enhanced after open monitoring.
+In the framework paper that distinguished the two styles, Antoine Lutz and colleagues describe open monitoring meditation as the nonreactive monitoring of the content of experience from moment to moment. In a randomised trial comparing focused attention, open monitoring, and a relaxation control, both meditation groups improved executive attention while the relaxation group did not. A review of the three most-studied meditation families reports that open monitoring induces a broader attentional focus by allowing and acknowledging any experiences that arise, and that divergent thinking was significantly enhanced after open monitoring. The evidence is not uniform, though: a two-week randomised trial of audio-guided open monitoring found no effect on a metaphor-production measure of creativity.
 
 ### A guided version
 
@@ -32,6 +32,7 @@ A calm 20-minute guided session, with a full transcript of the instructions, is 
 - [Lutz et al. (2008), "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences, PubMed](https://pubmed.ncbi.nlm.nih.gov/18329323/)
 - [Ainsworth et al. (2013), "The effect of focused attention and open monitoring meditation on attention network function in healthy volunteers", PubMed](https://pubmed.ncbi.nlm.nih.gov/24135553/)
 - [Lippelt et al. (2014), "Focused attention, open monitoring and loving kindness meditation: effects on attention, conflict monitoring, and creativity: a review", Frontiers in Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/)
+- [Bashmakova and Shcherbakova (2021), "Just Open Your Mind? A Randomized, Controlled Study on the Effects of Meditation on Creativity", Frontiers in Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8285115/)
 
 ## Operationalises
 

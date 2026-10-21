@@ -21,7 +21,7 @@ Sit upright, eyes half-open or closed. Rest attention on the physical sensation 
 
 ### Evidence
 
-In the framework paper that named the two styles of meditation, focused attention practice is described as the voluntary focusing of attention on a chosen object. In a randomised study, undergraduates took either a two-week mindfulness course or a nutrition course. The mindfulness group improved GRE reading-comprehension scores and working memory capacity while reporting fewer distracting thoughts, and the gains were carried mostly by reduced mind wandering among participants who were prone to distraction at the start.
+In the framework paper that distinguished the two styles of meditation, focused attention practice is described as the voluntary focusing of attention on a chosen object. In a randomised study, undergraduates took either a two-week mindfulness course or a nutrition course. The course taught mindfulness practices generally rather than breath anchoring alone, so the gains cannot be credited to this kernel by itself. Still, the mindfulness group improved GRE reading-comprehension scores and working memory capacity while reporting fewer distracting thoughts, and the gains were carried mostly by reduced mind wandering among participants who were prone to distraction at the start.
 
 ### A guided version
 
