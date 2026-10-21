@@ -15,6 +15,9 @@ In Aristotle's account, responsibility begins with the voluntary: what has its m
 
 The inquiry stops where the person enters: "For every one ceases to inquire how he is to act when he has brought the moving principle back to himself and to the ruling part of himself; for this is what chooses." Choice is defined at the hinge between deliberation and desire: "The object of choice being one of the things in our own power which is desired after deliberation, choice will be deliberate desire of things in our own power; for when we have decided as a result of deliberation, we desire in accordance with our deliberation."
 
+- Bandura, 2001
+- Dewey, Human Nature and Conduct
+
 ### In the compendium
 
 - [[R071 — Practise responsibility]] — the principle that carries the practice

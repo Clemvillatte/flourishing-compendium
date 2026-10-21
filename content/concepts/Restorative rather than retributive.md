@@ -7,13 +7,17 @@ file: "Restorative rather than retributive"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Restorative rather than retributive names a way of answering wrong: repair the harm and the relationship rather than balance the ledger with pain. The orientation comes out of Carol Gilligan's work on the ethics of care, which she has summarised in a later retrospective:
+Restorative rather than retributive names a way of answering wrong: repair the harm and restore those involved, rather than make punishing the offender the first question. The standard definition of the restorative side comes from British criminologist Tony Marshall:
 
-> "Caring requires paying attention, seeing, listening, responding with respect. Its logic is contextual, psychological. Care is a relational ethic, grounded in a premise of interdependence." (Carol Gilligan, "Looking Back to Look Forward: Revisiting In a Different Voice", [Center for Hellenic Studies](https://archive.chs.harvard.edu/CHS/article/display/4025))
+> "Restorative justice is a process whereby all the parties with a stake in a particular offence come together to resolve collectively how to deal with the aftermath of the offence and its implications for the future." (Tony Marshall, quoted in [Restorative Justice: A Quiet Revolution in Criminal Justice](https://www.austlii.edu.au/au/journals/QldJSchol/2004/37.pdf))
 
-### Two injunctions, one response
+### Two first questions
 
-Gilligan's later formulation places the care orientation beside the justice orientation rather than against it: "The moral injunction—do not oppress, do not exercise power unfairly or take advantage of others—lives side by side with the moral injunction to not abandon, to not act carelessly or neglect people who need help, meaning everyone including oneself. But they draw on different aspects of ourselves." The restorative reading of wrongdoing draws on the second: the question is not what the offender deserves but what the rupture needs.
+The contrast the phrase turns on, as the same review quotes from Jim Consedine: "Retributive justice always asks first, how do we punish this offender? Restorative justice asks, how do we restore the wellbeing of the victim, the community and the offender?" A summary of the field by Heather Stray: "Restorative justice is a term which has recently emerged to refer to a range of informal justice practices designed to require offenders to take responsibility for their wrongdoings and to meet the needs of affected victims and communities. It refers to restoration of victims, offenders and communities."
+
+### The care-ethic comparison
+
+The orientation has an affinity with the ethics of care. Carol Gilligan summarises that ethic in a later retrospective: "Care is a relational ethic, grounded in a premise of interdependence." Her later work places the care orientation beside the justice orientation rather than against it: the injunction not to oppress, she writes, "lives side by side with the moral injunction to not abandon, to not act carelessly or neglect people who need help, meaning everyone including oneself" ([Center for Hellenic Studies](https://archive.chs.harvard.edu/CHS/article/display/4025)).
 
 ### In the compendium
 
@@ -27,6 +31,7 @@ Gilligan's later formulation places the care orientation beside the justice orie
 ## Sources
 
 - Gilligan, In a Different Voice
+- [Restorative Justice: A Quiet Revolution in Criminal Justice, Queensland Journal of Scholarly Research (2004)](https://www.austlii.edu.au/au/journals/QldJSchol/2004/37.pdf) — Marshall's definition, the Consedine contrast and Stray's summary
 - [Carol Gilligan, "Looking Back to Look Forward: Revisiting In a Different Voice", Center for Hellenic Studies (2011)](https://archive.chs.harvard.edu/CHS/article/display/4025) — the care-ethic summary and the two-injunctions passage
 
 [[X022 — Keep nature as the restorative commons]]

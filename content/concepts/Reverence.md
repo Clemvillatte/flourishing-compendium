@@ -7,13 +7,13 @@ file: "Reverence"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Reverence, in Paul Woodruff's recovery of the virtue, is the capacity to feel awe, respect and shame in their right places. His definition, as quoted in the Notre Dame Philosophical Reviews:
+Reverence, in Paul Woodruff's recovery of the virtue, is the capacity to feel awe, respect and shame in their right places. As the Notre Dame Philosophical Reviews' review of the book reports:
 
-> "Reverence is the well-developed capacity to have the feelings of awe, respect, and shame when these are the right feelings to have." (Paul Woodruff, Reverence: Renewing a Forgotten Virtue, p. 8, quoted in [Notre Dame Philosophical Reviews](https://ndpr.nd.edu/reviews/reverence-renewing-a-forgotten-virtue/))
+> "The definition he offers is that 'reverence is the well-developed capacity to have the feelings of awe, respect, and shame when these are the right feelings to have'" (review of Paul Woodruff, Reverence: Renewing a Forgotten Virtue, [Notre Dame Philosophical Reviews](https://ndpr.nd.edu/reviews/reverence-renewing-a-forgotten-virtue/))
 
 ### Not a religious property
 
-Woodruff argues the virtue crosses traditions the way courage does. As the review quotes him: "If courage is what we think it is, then Jewish courage is no different in kind from Christian or Buddhist courage; indeed, we would be silly to call it by such names. Courage is courage, regardless of the religion of those who display it. Reverence is the same; it straddles boundaries between religions and bridges the gap between religious and secular life" (p. 67). What reverence requires is something beyond human control to stand in awe of — the review notes his claim that a reverent person must believe there is something that "cannot be changed or controlled by human means" or is otherwise transcendent — not any particular creed about it.
+Woodruff argues the virtue crosses traditions the way courage does. As the review quotes him: "If courage is what we think it is, then Jewish courage is no different in kind from Christian or Buddhist courage; indeed, we would be silly to call it by such names. Courage is courage, regardless of the religion of those who display it. Reverence is the same; it straddles boundaries between religions and bridges the gap between religious and secular life" (p. 67).
 
 ### In the compendium
 
@@ -23,8 +23,8 @@ Woodruff argues the virtue crosses traditions the way courage does. As the revie
 ## Related concepts
 
 - [[Awe]] — the feeling reverence is built around
-- [[Shame]] — the reverent response to one's own shortcomings
-- [[Humility]] — the near neighbour Woodruff distinguishes it from
+- [[Shame]] — the feeling the definition pairs with awe and respect
+- [[Humility]]
 
 ## Sources
 
