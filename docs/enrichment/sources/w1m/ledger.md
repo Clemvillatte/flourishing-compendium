@@ -630,3 +630,7 @@ proposal integration remain open.
   70 manifest items; the 63rd done entry is the off-manifest granular
   'Base rate neglect representativeness heuristic' created by an earlier
   worker's comparison split, not a duplicate.
+
+### 2026-10-21 — worker-sup-5e8a3c7f (supervisor flags-backlog pass 1)
+- SUPERVISOR DISPOSITIONS (Category C headings approved, marked done after top-ups): The seasons of illness, The examined past, The prior probability of the world, Companionate love in adversity. Top-ups used ONLY freshly opened carriers: Ecclesiastes 3 Douay-Rheims (Gutenberg #8300, weep/laugh 3:4 verified), Seneca De Ira 3.36 (Wikisource Stewart trans., Sextius questions + sweet-sleep sentence verified), Hume Enquiry V.1 (Gutenberg #9662, "Custom, then, is the great guide" verified). All four validated ok.
+- REMAINING w1m holds after this pass: State-dependent intervention matching (identity-support, rename is owner decision), The culturally embedded self (identity-support, bounded WIP exists), The urgency of time (no lawful Heidegger carrier found by worker; hold for owner), The via media (SOURCE-PENDING — Bernstein route passage needed), Transaction (CARRIER MISMATCH — needs Dewey & Bentley Knowing and the Known carrier).
