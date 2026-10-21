@@ -2070,3 +2070,9 @@ Verification pass 74 (worker-glmc4a — final): 3 principle pages — 1 PASS, 1 
 - Y040 (Bhagavad Gita 3.6, Mukundananda translation, holy-bhagavad-gita.org): the Bhagavad Gita carrier was not downloaded this session; not reached.
 - Y038: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 295 page-checks across 74 verification passes. Delivering the report now.
+
+Verification pass 75 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 with no displayed quotes.
+- Y044 ("Stable-and-easy posture," Yoga Sūtra, Woods 1914): matches the already-downloaded theessentialway.org text verbatim.
+- Y045 ("By relaxation of effort or by a [mental] state-of-balance with reference to Ananta," Yoga Sūtra 2.47, Woods 1914): the quote is present in the downloaded theessentialway.org text — the initial NOT FOUND was a typographic artifact (the source prints the sūtra ending with an em-dash "Ananta—" where the wiki page prints "Ananta." with a period); with punctuation-insensitive matching the wording matches verbatim. Disclosed typographic observation, not a defect.
+- Y042, Y043: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 297 page-checks across 75 verification passes. Delivering the report now.
