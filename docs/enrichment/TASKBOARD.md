@@ -2135,3 +2135,8 @@ FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verific
 Verification pass 86 (worker-glmc4a — final): 4 principle pages, all not reached (Vedantic carriers not downloaded).
 - Y086 (Vivekachudamani, Ramana Maharshi Tamil rendering, gururamana.org PDF), Y087 (Vedantic text on hearing/reflection/meditation), Y088 (Brihadaranyaka Upanishad 2.3.6, Müller translation, archive.org), Y089 (Vedantic text on the Witness/perceiver): these Vedantic and Upanishadic carriers were not downloaded this session; not reached. Not defects.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 86 notes 4 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 87 (worker-glmc4a — final): 3 principle pages not reached; 1 with no displayed quotes.
+- Y091 (Kena Upanishad 1.1, Müller translation, texts.wara.in), Y092 (Chāndogya Upanishad 6.8.7, "thou art it"), Y093 (Bhagavad Gita 13.2, Mukundananda translation, holy-bhagavad-gita.org): these Upanishadic and Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
+- Y090: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 87 notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
