@@ -35,7 +35,7 @@ The aim of the process is described in the Wikipedia article on the concept: "De
 
 - Habermas, Between Facts and Norms
 
-- [Massie, J. (2023), Deliberative Democracy in Practice: Handbooks on Commissioning, Facilitating, and Evaluating Deliberative Processes, Journal of Deliberative Democracy](https://delibdemjournal.org/article/1603/galley/5304/download/): the Gutmann-Thompson definition quotation (2004: 7)
+- [Massie, J., Deliberative Democracy in Practice: Handbooks on Commissioning, Facilitating, and Evaluating Deliberative Processes, Journal of Deliberative Democracy](https://delibdemjournal.org/article/1603/galley/5304/download/): the Gutmann-Thompson definition quotation (2004: 7; Massie's reproduced wording of the definition; the book itself not opened)
 - [Wikipedia, Deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy): the consensus-aim sentence; the Habermas contribution sentence
 
 [[R005 — Practise forgiveness]]

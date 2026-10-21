@@ -1,3 +1,29 @@
+- WORKER CHECKPOINT w1i (2026-10-21 ~08:3xZ, worker-w1i-3a9d2f7e, T+60 REPORTING CHECKPOINT
+  — reporting only, baton HELD, work continues while the session lives): took the released
+  band at 45/70. 15 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
+  true session baseline 9d73e974, all quotes verbatim from opened carriers: PMC1436009
+  editorial, Soto et al 2011 efetch, Crowell-Beauchaine-Linehan 2009 PMC, Iverach 2014
+  efetch, Walden Gutenberg #205 raw, Massie JDD + Wikipedia, Pohlmeyer-Desmet 2017
+  author PDF + Aristotle Ellis #6762, IEP Deleuze, OSB Rule (Doyle), Leon et al 2014
+  PMC, Wikipedia EP, Schnipke-MacKay 2023 PMC, Kahneman-Klein 2009 efetch + Wikipedia
+  RPD, Dai et al 2015 efetch, Keltner-Gross 1999 journal abstract). FOUR advisor QC
+  rounds (item-1 two rounds; items-1-5 and items-6-10 and items-11-15 milestones) — all
+  fail->repair->applied; see docs/enrichment/sources/w1i/ledger.md for per-item ledgers
+  and the QC round records. CATCHES this session: Gutenberg #6762 is the ELLIS Politics
+  (not Jowett); the Pohlmeyer-Desmet 2017 PDF is a Routledge handbook chapter (not a
+  journal article). FLAGS for the supervisor: (1) 'System justification theory' sits in
+  the w1i done list but is NOT in the w1i manifest (predecessor cross-band error; state
+  reconciliation requested — true count 59/70); (2) 'Discipline of rest' flagged Category
+  C in concept-namespace-audit.md (label not source-defined; body quote-grounded; kept
+  pending disposition); (3) the optional-gloss simplification across this session's
+  pages is open for the next pass; (4) Evolutionary Psychology wants an academic-hosted
+  primary carrier (UCSB primer robot-blocked; Wikipedia used as disclosed carrier).
+  EXACT NEXT ACTION: `python3 scripts/enrich_state.py w1i start "Gentleness as virtue"`
+  (next manifest item). Remaining manifest order: Gentleness as virtue, Heavy media
+  multitasking, Identity development, Inquiry, Interdependent self-construal, Language
+  games, Monastic hours, Moral development research, Moral emotions, Naming the
+  passions, Parasocial contact hypothesis (11 items).
+
 # Handoff (start here)
 - WORKER CHECKPOINT (2026-10-21 ~08:28Z, worker-p1zzg-8c31f0a7, T+42 — w1m
   now 10/70 done (9 by this worker; item-5 AND item-10 milestones both CLOSED

@@ -17,7 +17,7 @@ The compendium uses this heading for Gary Klein's account of how experienced dec
 
 ### When intuition can be trusted
 
-The adversarial collaboration between Klein and Daniel Kahneman drew the boundary:
+Kahneman and Klein examine the conditions under which professional intuition is likely to be accurate:
 
 > "They conclude that evaluating the likely quality of an intuitive judgment requires an assessment of the predictability of the environment in which the judgment is made and of the individual's opportunity to learn the regularities of that environment." (Kahneman and Klein 2009, abstract, [Am Psychol 64(6):515-526](https://pubmed.ncbi.nlm.nih.gov/19739881/))
 

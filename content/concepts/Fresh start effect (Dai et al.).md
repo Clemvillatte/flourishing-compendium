@@ -7,13 +7,13 @@ file: "Fresh start effect (Dai et al.)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-The compendium uses "Fresh start effect (Dai et al.)" for the finding that certain dates spur the initiation of goal pursuit. The authors' laboratory follow-up to the original field research:
+The compendium uses "Fresh start effect (Dai et al.)" for the finding that certain dates change intentions to pursue goals. Across five laboratory experiments, Dai, Milkman and Riis examined whether emphasising a temporal landmark signalling a new beginning changes intentions to pursue goals:
 
 > "We present causal evidence that emphasizing a temporal landmark denoting the beginning of a new time period increases people's intentions to initiate goal pursuit." (Dai, Milkman and Riis 2015, abstract, [Psychol Sci 26(12):1927-1936](https://pubmed.ncbi.nlm.nih.gov/26546079/))
 
 ### The mechanism
 
-The same abstract explains where the motivation comes from: "people's strengthened motivation to begin pursuing their aspirations following such temporal landmarks originates in part from the psychological disassociation these landmarks induce from a person's past, imperfect self" (Dai, Milkman and Riis 2015, [PubMed 26546079](https://pubmed.ncbi.nlm.nih.gov/26546079/)).
+The same abstract proposes a partial explanation: "people's strengthened motivation to begin pursuing their aspirations following such temporal landmarks originates in part from the psychological disassociation these landmarks induce from a person's past, imperfect self" (Dai, Milkman and Riis 2015, [PubMed 26546079](https://pubmed.ncbi.nlm.nih.gov/26546079/)).
 
 ### In the compendium
 
