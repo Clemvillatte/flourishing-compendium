@@ -15,9 +15,10 @@
   "Matching Hypothesis",
   "Micro-moments of connection",
   "Measure (mesure)",
-  "Mind-life continuity"
+  "Mind-life continuity",
+  "Misinformation effect"
  ],
- "in_progress": "Meditation neurobiology theory Lazar",
+ "in_progress": null,
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -40,7 +41,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T10:58:10+00:00",
+ "updated": "2026-10-21T11:01:59+00:00",
  "band_done": false,
  "new_concepts": [
   {

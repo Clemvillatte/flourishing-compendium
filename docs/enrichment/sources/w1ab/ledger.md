@@ -267,3 +267,16 @@
   band's own state file (w1ab.json) — the exact operation 'reopen' would have performed
   (done-removal + flag), recorded here for auditability. No other band's files touched.
   manifest∩done = 15/70 (inherited 13 + Measure + Mind-life continuity).
+
+## Misinformation effect (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Sources stub + Cited-in CO055). Validated --fast-track
+  --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Loftus 2005, Learn Mem 12(4):361-6 (PMID
+  16027179, located via esearch; NOT guessed). The definition sentence and the
+  research-programme description quoted verbatim from the abstract; the warnings/susceptibility/
+  species/rich-false-memory items are the abstract's own listed issues, paraphrased.
+- The seed's citation pair (Loftus & Palmer 1974; Loftus 2005) is preserved in spirit: the
+  1974 paper was NOT opened this session, so the page carries only the opened 2005 review;
+  the original Sources lines were replaced by the opened-URL row (the 1974 line had no URL;
+  its content claim is subsumed in the 2005 review's 30-year scope).
+- QC cadence: this is item 6 of the session; next advisor milestone due at item 10.
