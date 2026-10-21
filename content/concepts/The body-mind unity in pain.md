@@ -35,6 +35,7 @@ An illustration, not a documented case: consider a person who dreads an upcoming
 
 - [[BI068]] — the bidirectional illness-mood evidence is the body-mind unity measured
 - [[Resilience]]
+- [[Mindfulness]]
 
 ## Sources
 

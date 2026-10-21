@@ -32,6 +32,7 @@ Young's answer to this diagnosis is a redesign of responsibility, which the book
 
 - [[Collective responsibility]]
 - [[Domination critique]]
+- [[Recognition]]
 
 ## Sources
 

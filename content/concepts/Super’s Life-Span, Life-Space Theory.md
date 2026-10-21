@@ -42,6 +42,7 @@ The theory's practical instrument is the Rainbow assessment. An ERIC digest desc
 
 - [[Identity development]] — the theory's self-concept construct: how individuals perceive their roles and situations over time
 - [[Leisure]] — the theory's leisurite role counts it among life's major roles
+- [[Self-efficacy]] — confidence in one's roles bears on how the life-space develops
 
 ## Sources
 
