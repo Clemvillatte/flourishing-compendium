@@ -366,3 +366,18 @@
   fabrications passage. Two grammars framing (deposited vs active) is
   this page's reading of the two quotes, marked as such.
 - Normal validator: ok. State recorded (done count 24).
+
+## Item 27: Santosha (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: contentment line with Wikipedia link. Seed prose kept; "Vedantic
+  counterpart" seed comparison kept as the seed's claim (marked as the
+  seed line's comparison in Related lines as compendium-internal notes).
+- Carriers opened: (1) YS 2.42 with Vyasa and Vacaspatimisra, trans.
+  Rama Prasada (wisdomlib) — verified verbatim: sutra translation,
+  Vyasa's sixteenth-part sentence, Vacaspati's "Extreme means" gloss.
+  (2) Johnston translation Book II (sacred-texts ysp04) — verified
+  verbatim the "accept conditions, accept others, accept yourself"
+  commentary passage. Note: Johnston page splits aphorisms with
+  commentary; the numbered sutra 2.42 itself was not extractable from
+  that page (extraction), hence the sutra quoted from wisdomlib.
+- Normal validator: ok. State recorded (done count 25).
