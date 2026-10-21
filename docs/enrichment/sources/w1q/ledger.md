@@ -176,3 +176,8 @@ damage, w1ab left to its live holder.
   - Symbolic Convergence Theory + Symbolic Interaction Theory: Origin sections added (bounded to opened carriers); "shared unreality" conclusion and Groupthink failure-mode annotation removed; everyday scenes labelled as illustrations. Pushed c632ec56.
 - Workflow note: item 10's first validation failure skipped state transitions and ledger append in the && chain (repaired, 5ab530a7).
 - Supervisor flags: (1) seed "Telomere theory Blackburn" conflates the general telomere theory of ageing with the Epel/Blackburn 2004 stress study — page now separates them, but the title/framing needs a supervisor decision; (2) terebess.hu/zen/Hakuin.pdf fetched text does not state the chapter's author or title — left unattributed rather than guessed; (3) Montaigne page could not verify essay-level locators or translator from the fetched text.
+
+## Post-milestone taper fixes
+- Third Related-concept lines added to warning pages (Structural injustice → Recognition; Super's Life-Span → Self-efficacy; body-mind unity → Mindfulness; all targets verified existing). Pushed 0cf8c41e.
+- Bounded Origin sections added to The Great Death and The body-mind unity in pain (no new facts; explicitly non-asserting on unverified dates/authors/locators). Pushed 0124c824.
+- Verification pass at T+45.5: 10/10 pages pass --fast-track validation; build clean (5842 entries).
