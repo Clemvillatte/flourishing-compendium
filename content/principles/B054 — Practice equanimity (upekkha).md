@@ -25,7 +25,7 @@ The sutta's difference between the well-instructed and the uninstructed person i
 
 ## Stories
 - [[ST387 — Ciñcā Accuses the Buddha Before the Assembly|387. Ciñcā Accuses the Buddha Before the Assembly]]
-
+- [[ST426 — Ciñcā Accuses the Buddha Before the Assembly|426. Ciñcā Accuses the Buddha Before the Assembly]]
 ## Psychology parallels
 
 - **[[Equanimity|Equanimity as a trainable outcome of contemplative practice]]** (Desbordes et al., 2014)

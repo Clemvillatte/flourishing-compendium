@@ -134,6 +134,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST073 — The Danish Poet and the Umbrella]]
     - [[ST342 — The Wild Boars Sit Still]]
     - [[ST343 — The Buddha's Last Words]]
+    - [[ST426 — Ciñcā Accuses the Buddha Before the Assembly]]
   - [[ST-S02.04 — II.4 Working with the Mind]]
     - [[ST074 — The Five Hindrances as Thieves]]
     - [[ST075 — The Monkey Tied to the Post]]
