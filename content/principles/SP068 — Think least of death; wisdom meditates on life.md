@@ -12,13 +12,16 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 68** — Think least of death; wisdom meditates on life
 
-The free person thinks of nothing less than of death, and wisdom is a meditation on life, not on death. This is not denial but proportion: attention spent rehearsing death is power spent away from the one thing that can be acted on, which is this day's living. The Stoic [[Memento mori|memento mori]] and the Spinozist maxim agree in therapy and differ in emphasis; Spinoza keeps the urgency and drops the rehearsal. Practically, when death-anxiety rises, convert it once into a scheduling decision about the finite remaining days, then return to the work.
+The proposition in the Ethics reads: "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death" ([Ethics IV P67, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The demonstration gives the reason: the free person "isn't led by fear of death" but "wants the good directly," acting from the pursuit of what is advantageous rather than from avoidance of loss ([Ethics IV P67 demo, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The maxim reads as a counter to the Stoic rehearsal of death ([[Memento mori|memento mori]]): what occupies the free person is not denial of mortality but the object of fear. A mind organized around avoiding bad things keeps death at the door, because it is the largest loss of all; a mind organized around seeking good things barely has a slot for it.
+
+**Plain words**
+Spinoza is describing where a certain kind of person's attention naturally sits, not issuing a rule against thinking about death. If your actions come from wanting good things, death barely registers, because death is not a task. If your actions come from dodging bad things, death is always pending, because it is the biggest bad of all. A simple audit of your own day: how much of what you did was to get something, and how much was to avoid something?
+
+**For example**
+Two people with the same diagnosis: one spends evenings reading forums and cataloguing symptoms; the other keeps the lunch dates and finishes the book. The first is not more frightened, only organized around avoidance; the second's attention is still on the good, which is why death occupies less of it.
 
 (Ethics IV, P67.)
 
-**Plain words** The free person thinks of nothing less than death — wisdom is a meditation on life, not on death. Not denial; proportion: attention spent rehearsing death is power spent away from the one thing that can be acted on. Think least of death; the wisdom budget has a better line item.
-
-*For example:* The person whose health anxiety consumes hours a week — the scans of the mortality content, the rehearsals — versus the one who spends those hours on the actual life: the walk, the friend, the work. Same mortality; one of them met it having lived.
 ## Psychology parallels
 
 - **[[Death reflection|Death reflection versus death anxiety]]**, the finding that deliberate, brief death contemplation can increase gratitude and purpose while rumination on death does the reverse (Cozzolino, 2006, the death-reflection studies)
@@ -27,3 +30,7 @@ The free person thinks of nothing less than of death, and wisdom is a meditation
 
 - **Give no thought to the morrow** (Gospel of Matthew 6.34)
 - **Practice living while you live** (Montaigne, Essays, I.20)
+
+## Sources
+
+- [Spinoza, Ethics, Bennett clear-language translation (earlymoderntexts.com)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf) — IV P67 and its demonstration
