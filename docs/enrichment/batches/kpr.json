@@ -284,6 +284,15 @@
     "https://link.springer.com/article/10.1007/s10865-025-00550-5"
    ],
    "notes": "Enriched earlier by the cmp band (verification round 2); kpr spot-check this session: the 2025 binge-eating meta-analysis claim opened and verified verbatim (Liu et al. 2025, J Behavioral Medicine: g=-0.65 EOT / -0.71 FU vs non-psychological controls; -0.05 / 0.13 vs active psychological controls; 54 studies). Validator clean (no-base profile)."
+  },
+  {
+   "id": "K418",
+   "title": "Six Healing Sounds (liuzi jue)",
+   "status": "done",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
+   ],
+   "notes": "NEW KERNEL created from the owner-uploaded Kohn Chinese Healing Exercises (Daoism Drive folder, opened this session): six sounds + organ associations + sound qualities + seasonal variations from the book; Daoyin jing (16b) closing quote verbatim; organ claims framed as TCM correspondence claims, not physiology; only slow-exhalation structure tied to modern evidence via K194 pointer; no trial invented. Validator clean (no-base profile); build ok 5845 entries."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -323,10 +332,11 @@
   "K382",
   "K384",
   "K414",
-  "K415"
+  "K415",
+  "K418"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T15:50:11+00:00",
+ "updated": "2026-10-21T15:52:01+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
