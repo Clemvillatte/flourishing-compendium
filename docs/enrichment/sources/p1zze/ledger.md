@@ -12,3 +12,7 @@
 - Opened: FAO GIAHS page on Ich Kool Maya milpa (search excerpt, quotes verbatim); Oishi & Schimmack 2010 (PubMed 20515253 abstract); Oishi 2010 PPS (PubMed 26162059 abstract); Scannell & Gifford 2010 abstract (docslib text). Lewicka 2011 seen only via TL;DR snippet -> not quoted.
 - Seed "place is a participant in identity / Mesoamerican traditions in general" scoped to Maya milpa evidence; "rootedness contributes to well-being" not claimed (mobility studies are associational, about childhood moves/relationships).
 - NOTE M019 was marked done before a length fix; fixed in the next commit.
+
+## M030 — Humility as accuracy
+- Opened: Florentine Codex Book VI full OCR text (archive.org djvu, downloaded and grepped; quotes checked: ch.12 "I have spent my life in excrement, in refuse"; exhortation to a noble youth "the humbling, the bowing ... these are honor" — chapter number not confirmed from OCR); ch.12 and ch.20 headings (bibliovault + contents in OCR); Tangney 2000 abstract (Guilford); Davis et al. 2013 abstract (scispace; Study 2 N=84).
+- FLAG: seed quote "you are a poor wretch, a beggar, a nobody" NOT found in Book VI text (grep for wretch/beggar/nobody: none). Removed. Seed practice "acknowledge the contributing others" kept as practical gloss, labelled as such in Plain words? (not source-backed; framed as practical form).
