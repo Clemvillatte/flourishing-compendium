@@ -62,7 +62,8 @@
   "Extrinsic aspirations",
   "Finitude",
   "Flexibility as virtue",
-  "Framing effects"
+  "Framing effects",
+  "Fundamental attribution error"
  ],
  "in_progress": null,
  "flagged": {
@@ -97,10 +98,11 @@
   "Emotional contagion": "seed cite Christakis and Fowler 2007 is obesity (NEJM); happiness/mood is Fowler and Christakis 2008 BMJ; page corrects; removed bold from seed line for validator",
   "Extrinsic aspirations": "seed 'even when achieved' not supported by Kasser and Ryan 1996 (measures likelihood not attainment); supported only partly by Niemiec 2009; Kasser 2002 book not opened; page states this",
   "Finitude": "seed source Heidegger Kant and the Problem of Metaphysics not opened; enriched from SEP Heidegger entry; page states this",
-  "Flexibility as virtue": "seed gave no aphorism number; label is compendium summary; GS 159 and 296 identified (Common translation, Gutenberg); page states this"
+  "Flexibility as virtue": "seed gave no aphorism number; label is compendium summary; GS 159 and 296 identified (Common translation, Gutenberg); page states this",
+  "Fundamental attribution error": "seed defines FAE as over-crediting the self (wrong; that is self-serving bias); depression-reversal claim unchecked; page corrects"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:21:41+00:00",
+ "updated": "2026-10-21T08:22:23+00:00",
  "band_done": false
 }
