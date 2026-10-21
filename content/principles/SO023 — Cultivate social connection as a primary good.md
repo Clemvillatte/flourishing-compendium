@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 23** — Cultivate social connection as a primary good
 
-The strongest single line of evidence is the Holt-Lunstad meta-analysis:
+The Holt-Lunstad, Smith and Layton meta-analysis reports:
 
 > Across 148 studies (308,849 participants), the random effects weighted average effect size was OR = 1.50 (95% CI 1.42 to 1.59), indicating a 50% increased likelihood of survival for participants with stronger social relationships.
 
 (Holt-Lunstad, Smith & Layton, 2010, PLoS Medicine 7(7): e1000316; [article](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316))
 
-The abstract's conclusion states that the influence of social relationships on mortality risk is comparable with well-established risk factors; the editors' summary names smoking and alcohol consumption, and notes the effect exceeds physical inactivity and obesity. The seed statement's reading follows: connection belongs in the same tier as the vital-sign variables, which is why the practice line schedules it alongside sleep and exercise.
+One suggested reading is to schedule time with others as you schedule other repeated activities such as sleep and exercise.
 
 **Plain words**
-Connection is a primary good, not a luxury: relationships predict health and mortality as strongly as smoking and obesity. That's not a metaphor; it's an effect size. Treat your social life like a vital sign, because it is one.
+The review compares social relationships to an established influence on survival. Treat time with others as a repeated activity you schedule.
 
-*For example:* Imagine the GP who asks about friendships the way they ask about smoking, because the answer predicts the decade, and the patient who laughed at the question is now walking with a neighbour.
+*For example:* Imagine deciding to join a regular walk and considering whether to send an invitation to someone whose company you enjoy.
 
 ## Sources
 
@@ -40,4 +40,4 @@ Connection is a primary good, not a luxury: relationships predict health and mor
 
 ## Practice
 
-- Schedule time with people as you schedule sleep and exercise. Prioritize one or two close relationships over many weak ones (see principle 25). In periods of transition, treat connection as the first thing to rebuild.
+- Schedule time with people as you schedule sleep and exercise. In periods of transition, treat connection as one of the first things to rebuild.
