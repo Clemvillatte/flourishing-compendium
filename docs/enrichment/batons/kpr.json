@@ -1,13 +1,20 @@
 {
  "baton": "kpr",
  "agent": "worker-kpr-special-contemplative",
- "clocked_in": "2026-10-21T11:38:13+00:00",
+ "clocked_in": "2026-10-21T12:10:55+00:00",
  "takeovers": [
   {
    "by": "worker-kpr-special-contemplative",
    "at": "2026-10-21T10:53:36+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-kpr-special-contemplative",
+   "at": "2026-10-21T12:10:55+00:00",
+   "from": "worker-kpr-special-contemplative",
+   "reason": "stale (33 min)"
   }
- ]
+ ],
+ "released": false
 }
