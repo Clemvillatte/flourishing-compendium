@@ -89,3 +89,9 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked the retained APA quotations. Added NIMH's severe/hospital-care exception to the usual manic-episode duration and clarified that depression is not required for bipolar I.
 - Plain words distinguishes diagnostic durations from when to seek care. The imagined example no longer suggests waiting through years of repeated highs and lows; it explicitly avoids diagnosing the person.
 - Protected metadata, original principle sentence and inherited parallels unchanged. No medication change or treatment regimen is advised.
+
+## AT002
+
+- Searched Fan attention networks; opened [Fan et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11970796/) and [Petersen and Posner 2012](https://pubmed.ncbi.nlm.nih.gov/22524787/).
+- Checked all quotes against the abstracts. The forty-person study both suggests uncorrelated efficiency estimates and reports interactions; it does not establish a fixed individual strength profile for each reader.
+- Plain words now preserves that boundary and labels the everyday question as reflection. Protected sections and inherited parallels unchanged.

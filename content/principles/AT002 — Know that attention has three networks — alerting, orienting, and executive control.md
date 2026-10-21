@@ -22,7 +22,7 @@ The authors also report "some interactions in which alerting and orienting can m
 
 (Posner & Petersen, 1990; Fan et al., 2002; Petersen & Posner, 2012.)
 
-**Plain words** "Paying attention" covers at least three jobs. One is getting ready and staying alert. One is pointing your focus at the right place. One is choosing the right response when something competes with it. A person can be strong at one and weaker at another, since the test finds them uncorrelated. Asking which job a situation needs is more useful than telling yourself to concentrate.
+**Plain words** “Paying attention” covers different jobs: getting ready, directing focus and resolving competing responses. The study estimated these separately in forty adults; its correlations do not establish a fixed ability profile for any reader or prove that the systems never interact. As a practical reflection, ask which job a situation calls for rather than treating attention as one undifferentiated skill.
 
 For example (imagined): a long night drive needs alertness. Finding a name on a crowded noticeboard needs orienting. Ignoring a chatty colleague while you finish a report needs executive control.
 
