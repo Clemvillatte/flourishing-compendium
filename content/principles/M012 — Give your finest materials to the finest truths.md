@@ -12,16 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 12** — Give your finest materials to the finest truths
 
-The songs measure speech in preciousness: jade, quetzal feathers, and gold are the truth-bearing words; withered flowers and broken jade stones are the false ones. The grading is practical, not snobbish: the tradition asks you to spend your best craft on what is most worth saying, and to notice when you are spending jade on trivia. Practically, audit your craft budget (time, skill, attention) against the worth of what it is being spent on.
+Nahua poets set the most precious materials beside the most serious questions. In the Cantares Mexicanos a singer asks what lasts: "Not forever on earth, only a little while here. Though it be of jade it falls apart, though it be gold it wears away, though it be quetzal plumage it is torn asunder." (Cantares Mexicanos fol. 17r, in León-Portilla's translation, quoted in León-Portilla, "Flower and Song", Islands of History, 1999). León-Portilla reads these lines as the thinkers' conclusion that "the only truth on earth" was poetry, "song and flowers".
 
-(The Cantares Mexicanos's own grading; the songs of the Tetzcoco lords.)
+Precious materials stood for something specific. Maffie's account in the Internet Encyclopedia of Philosophy says Nahua education aimed at "a wise face and a strong, humanized heart", and that people with such a heart were likened "to well-formed quetzal plumage, jade, and turquoise", because these objects "faithfully and authentically present teotl's balance-and-purity". On this account, beauty, goodness and truth are not separated: what is "aesthetically valuable (or beautiful)" is "also morally valuable and epistemologically valuable (and conversely)". (Maffie, [Aztec Philosophy](https://iep.utm.edu/aztec-philosophy/)).
 
-**Plain words** The songs grade speech in preciousness: jade and quetzal feathers are the truth-bearing words; wilted flowers and broken jade are the false ones. It's practical, not snobbish — spend your best craft on what's most worth saying, and notice when you're spending jade on trivia.
+An earlier version of this page claimed the songs rank speech from jade and quetzal feathers (true) down to withered flowers and broken jade (false). I found no such ranking in the texts opened, so it is dropped. Reading the principle as a rule about where to spend your best effort is an interpretation, not a claim from the songs.
 
-*For example:* Someone who takes real care with the anniversary toast and the condolence letter — and stops polishing the work email chain into performance art. The jade goes to the jade-worthy; the chaff can be plain.
+**Plain words**
+Nahua poets used jade, gold and quetzal feathers as images of what is rare and real, and they also said that even these things break and wear away. The modern application is a practical question about your own effort: are you spending your best care on what matters most to you?
+
+*For example:* Someone spends an evening on a condolence letter, rewriting until it sounds like the person it is for, and sends a work email in two lines. This is an imagined case, and the weighing of what deserves the most care is the reader's own.
+
+## Sources
+
+- [León-Portilla, M. (1999), "Flower and Song": Pre-Columbian literatures of Mesoamerica, Islands of History (translations from the Cantares Mexicanos, fols. 17r and 26r, as given in León-Portilla 1963)](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/)
+- [Maffie, J., Aztec Philosophy, Internet Encyclopedia of Philosophy (sections 4, 6 and 7; quotes Sahagún, Florentine Codex VI, p. 113)](https://iep.utm.edu/aztec-philosophy/)
+
 ## Psychology parallels
 
-- **Resource allocation and goal worthiness**, the self-regulation research on matching investment to value (the goal-conflict literature; Emmons and King, 1988)
+- **Goal conflict and well-being**, Emmons & King (1988) is cited in the original page; not opened in this pass and not used to support the claim above
 
 ## Philosophy parallels
 
