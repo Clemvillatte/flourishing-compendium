@@ -358,3 +358,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (the first Vyasa span differs only by an OCR "«" mark).
 - Seed repairs: the sutra says the contemplation is "emptied of itself" (act of attending merges with object); "emptied of the observer's own form", self-sense thinning, "sought for the wrong reasons", and "passing state, not arrival" are the page's own and labelled so. Josipovic 2013 and Mundaka 2.2.3 not opened.
 - Saturation: low.
+
+## Y079 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 1.27-1.29 with Vyasa and the Tika (pp. 60-62).
+- Quotes verified: matched woods text (differences only OCR hyphenation/formatting).
+- Seed repairs: AUM in the text is the name of Isvara, with repetition AND reflection on meaning, effects singleness of intent and removal of obstacles; "portable anchor" use is sound-only and labelled as the page's own. Mandukya not opened (page's Mandukya citation unverified).
+- Saturation: low.
