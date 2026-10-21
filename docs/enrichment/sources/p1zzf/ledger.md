@@ -80,3 +80,7 @@
 ## R096 — Practise the third
 - Opened (excerpts): SEP Levinas (+2019 archive quoting OBBE 157), BMC Med Ethics, PhilArchive paper quoting Levinas, Philosophy Today supplement (quoting OB 158), Scribd doc on Gilligan-Kohlberg. Levinas primary texts, Kohlberg, Haidt unread.
 - Seed citation error: Otherwise than Being is 1974 (Lingis 1981), not 1969; disclosed on page. Quotes via secondary sources.
+
+## R097 — Practise the ethical demand
+- Opened (excerpts): NDPR review of Løgstrup books, SDU Løgstrup paper, JSTOR description of The Ethical Demand, White Rose Løgstrup paper, PMC article quoting Batson 2011 (four motives). Levinas 1961, Løgstrup 1997 not read directly.
+- Seed "immediate, non-negotiable, independent of consequences": tempered — Løgstrup's demand is silent (no rule), requires judging what serves the other, and is unfulfillable. Batson 'moral obligation' ~ principlism: loose parallel.
