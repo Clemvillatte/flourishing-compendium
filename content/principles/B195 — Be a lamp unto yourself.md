@@ -29,6 +29,9 @@ The next paragraph explains the instruction through contemplation of body, feeli
 - [DN 16, Vajira and Story, Access to Insight](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html), part 2.31-35; [readable excerpt](https://chicagomeditation.org/wp-content/uploads/2020/10/CBMG-Maha-parinibbana_Sutta_DN16_Part2_31-35_Refuge_in_Yourself_and_in_Dhamma.pdf).
 - [Dhammapada 238-239, Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html).
 
+## Stories
+- [[ST406 — The Old Cart at Beluva|406. The Old Cart at Beluva]]
+
 ## Psychology parallels
 
 - **[[Self-efficacy|Self-efficacy]]** (Bandura, 1977)

@@ -29,6 +29,9 @@ When the crisis comes and no one is reachable, the question is what you can stil
 
 - [Access to Insight: Maha-parinibbana Sutta (DN 16), tr. Sister Vajira & Francis Story](https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html) — the attadipa instruction and its definition in the four foundations of mindfulness
 
+## Stories
+- [[ST406 — The Old Cart at Beluva|406. The Old Cart at Beluva]]
+
 ## Psychology parallels
 
 - **Internal locus of control and self-reliance** (Rotter, 1966)
