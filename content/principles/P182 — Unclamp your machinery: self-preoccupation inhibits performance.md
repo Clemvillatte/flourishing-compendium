@@ -22,7 +22,7 @@ James states the law in the essay: "strong feeling about one's self tends to arr
 
 ## Stories
 - [[ST396 — The Teller and the Doer|396. The Teller and the Doer]]
-
+- [[ST414 — The Teller and the Doer|414. The Teller and the Doer]]
 ## Psychology parallels
 
 - **Self-focused attention and social anxiety**, self-monitoring can worsen performance (conceptual parallel; Clark and Wells, 1995)
