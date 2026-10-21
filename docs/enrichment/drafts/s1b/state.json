@@ -252,7 +252,7 @@
    ]
   },
   "s1b-011": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D065: Lotus Sutra gem-in-the-robe — the man forgets what was bound in his garment; the return is the friend's reprimand",
    "history": [
     {
@@ -263,9 +263,14 @@
      "t": "2026-10-21T12:32:04+00:00",
      "to": "qc_pending",
      "note": "first draft complete; quotes verbatim-verified against opened lot08 page; advisor QC requested"
+    },
+    {
+     "t": "2026-10-21T12:34:11+00:00",
+     "to": "ready",
+     "note": "advisor round-1 repairs applied; scoped quotation checks pass; partial-angle reverted-attention story"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:32:04+00:00"
+ "updated": "2026-10-21T12:34:11+00:00"
 }
