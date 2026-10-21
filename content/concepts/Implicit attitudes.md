@@ -23,9 +23,9 @@ The review's conclusion was that attitudes, self-esteem and stereotypes all have
 
 ## Related concepts
 
-- [[Implicit and explicit]]: the Husserlian ancestor of the implicit/explicit pair
+- [[Implicit and explicit]]: the philosophical treatment of the implicit/explicit pair
 - [[Halo effect]]: another judgment colouring that runs without the judge's knowledge
-- [[Implicit theories of intelligence]]: a sibling construct, beliefs about ability held outside awareness
+- [[Implicit theories of intelligence]]: a sibling construct, beliefs about the malleability of ability
 
 ## Sources
 
