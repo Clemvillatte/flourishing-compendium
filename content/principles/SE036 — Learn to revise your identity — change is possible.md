@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 36** — Learn to revise your identity: change is possible
 
-Nietzsche's image for identity change is a chapter about stages:
+In "The Three Metamorphoses", Nietzsche describes transformations of the spirit:
 
 > Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child.
 

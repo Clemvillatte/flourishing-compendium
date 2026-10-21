@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 22** — Cultivate self-acceptance: accept who you are without resigning to it
 
-Nietzsche gives the principle its classic formula:
+Nietzsche writes in §276:
 
 > I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. _Amor fati_: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers.
 
