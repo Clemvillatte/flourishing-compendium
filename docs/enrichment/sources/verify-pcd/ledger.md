@@ -468,3 +468,8 @@ and this ledger; none edited without a baton.
 ### w1c "Embodied self" — quote fidelity PASS (verification pass)
 - Monti et al. 2022 sentence EXACT vs the opened PMC article (source uses curly quotes
   around 'self'; wording verbatim).
+
+### w1c "Acceptance alongside values-based action" — quote fidelity PASS (verification pass)
+- Webster 2011 ACT summary sentence EXACT vs the opened Cambridge Core article.
+- w1c spot check: 3/3 PASS (Dialectical thinking, Embodied self, Acceptance alongside
+  values-based action). Session verification pass complete; report follows.
