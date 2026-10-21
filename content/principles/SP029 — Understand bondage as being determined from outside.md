@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 29** — Understand bondage as being determined from outside
 
-Spinoza names the condition at the start of the part of the Ethics he titles Human Bondage: it is the mind's lack of power to moderate and restrain the affects. The person in it is "not under his own control and is at the mercy of fortune," and "though he sees what would be better for him, he is compelled to go after something worse" (Ethics IV Preface). A passion is, in his terms, "a confused idea through which a mind affirms of its body (or of some part of it) a greater or lesser force of existing than it had before" (Ethics III, General Definition of the Affects). The opposite condition: the wise man is "hardly troubled in spirit" and "always possesses true peace of mind" (Ethics V P42 scholium).
+Spinoza names the condition at the start of the part of the Ethics he titles Human Bondage: it is a person's lack of power to moderate and restrain the affects. The person in it is "not under his own control and is at the mercy of fortune," and "though he sees what would be better for him, he is compelled to go after something worse" ([Ethics IV Preface, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). A passion is, in his terms, "a confused idea through which a mind affirms of its body (or of some part of it) a greater or lesser force of existing than it had before" ([Ethics III, General Definition of the Affects, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The opposite condition: the wise man is "hardly troubled in spirit" and "always possesses true peace of mind" ([Ethics V P42 scholium, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 > "What I have said makes it clear that we are driven about in many ways by external causes, and that we toss about like waves on the sea driven by contrary winds, not knowing our outcome and fate." (Spinoza, Ethics III P59 scholium, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 **Plain words**
-Spinoza means a specific thing by outside: what determines you comes from causes your understanding does not include. Receiving a strong feeling is not itself bondage. The test: whether the reaction stands on ideas you understand or on ideas you do not. Trace one reaction back to the idea that carries it. If you understand that idea and its causes, the reaction is yours. If you do not, it was determined from outside your understanding, and that is what he is talking about.
+Knowing that an action would be worse does not always give you enough power to resist it: you may still be carried along by a feeling, which is the situation Spinoza calls bondage ([Ethics IV Preface, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
-Someone is stopped by an insult and cannot let it go, and later sees they were held by a confused idea of the insulter's power over them. After the idea becomes clear the reaction weakens, which matches the idea he is defending: bondage comes from confused ideas, and freedom comes from understanding them.
+Hypothetical illustration: you judge that ending an argument would protect a friendship, yet the urge to have the last word keeps you replying.
 
 (Ethics IV Preface; III, General Definition of the Affects; III P59 scholium; V P42 scholium. Bennett clear-language translation.)
 
