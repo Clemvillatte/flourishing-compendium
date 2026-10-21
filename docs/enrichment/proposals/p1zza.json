@@ -1,12 +1,12 @@
 {
  "batch": "p1zza",
- "revision": 7,
+ "revision": 8,
  "reciprocal": [
   {
    "into": "Habit formation",
    "link": "MO042",
    "why": "A principle on displacing an unwanted habit with a new response to the same cue",
-   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042 body grounds substitution in the opened Gardner et al. 2021 Appetite accepted manuscript (manifestation-vs-association distinction p. 8, substitution definition p. 13, apple-dominance mechanism p. 8). Re-created 2026-10-21 by worker-p1zza-7c2a91e4 after the 2f2099569 integration archived applied/p1zza.json without applying this record (it applied only the two inherited rev-3 records); the Azrin reciprocal proposed in rev 5 is WITHDRAWN per advisor round-2 QC (the opened source does not establish equivalence between habit reversal as a synonym and the Azrin technique)."
+   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042 body grounds substitution in the opened Gardner et al. 2021 Appetite accepted manuscript (manifestation-vs-association distinction p. 8, substitution definition p. 13, apple-dominance mechanism p. 8). OBSERVED FACTS: the archived applied/p1zza.json at HEAD contains this record; neither target page currently links MO042; re-created as rev 6 for the next integration; when the unapplied additions entered the archive is not established by the transcript. Checked 2026-10-21 by worker-p1zza-7c2a91e4."
   },
   {
    "into": "Habit formation",

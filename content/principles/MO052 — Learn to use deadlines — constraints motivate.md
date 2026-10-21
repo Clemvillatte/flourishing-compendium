@@ -14,13 +14,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 The experimental evidence comes from Ariely and Wertenbroch's studies of students who could set costly deadlines for themselves, with grade penalties for missing them, and of proofreaders working under different deadline schedules:
 
-> "People have self-control problems, they recognize them, and they try to control them by self-imposing costly deadlines. These deadlines help people control procrastination, but they are not as effective as some externally imposed deadlines in improving task performance." (Ariely & Wertenbroch, 2002, Psychological Science 13(3), abstract)
+> "People have self-control problems, they recognize them, and they try to control them by self-imposing costly deadlines. These deadlines help people control procrastination, but they are not as effective as some externally imposed deadlines in improving task performance." (Ariely & Wertenbroch, 2002, [Psychological Science 13(3), abstract](https://people.duke.edu/~dandan/webfiles/PapersPI/Procrastination%20Deadlines%20and%20Performance.pdf))
 
-The studies' answers to the authors' three questions were yes, yes and no: students were willing to impose costly deadlines on themselves; the deadlines improved performance; and students did not set them optimally, with evenly spaced external deadlines outperforming self-chosen ones. In the proofreading experiment, "when deadline constraints increased, performance improved, time spent on the task increased, and enjoyment of the task decreased (because of enhanced recognition of the true low quality of the texts)". One qualification travels with the finding: tighter constraints made the work better and less pleasant at once, so the tool serves the outcome, not the experience.
+The studies' answers to the authors' three questions were yes, yes and no: students were willing to impose costly deadlines on themselves; the deadlines improved performance; and students did not set them optimally, with evenly spaced external deadlines outperforming self-chosen ones. In the proofreading experiment, "when deadline constraints increased, performance improved, time spent on the task increased, and enjoyment of the task decreased (because of enhanced recognition of the true low quality of the texts)" (Study 2, results and discussion).
 
-**Plain words** An open-ended task absorbs all the slack you give it. A date with a penalty attached turns "eventually" into a schedule, and the schedule does what intention alone could not. The catch is placement: people set their own fences too loosely, which is why a deadline someone else sets, evenly spaced across the work, beat the self-made ones in the studies. If no one will set it for you, set it early, set a real cost for missing it, and space more than one across the job.
+**Plain words** The studies made deadlines real: grade penalties for late papers, a dollar a day for late proofreading. Within those settings, tighter schedules brought more errors caught and less enjoyment of the task. If you try this, the exercise is to spread dates across the work, then look at both whether it helped and what the schedule cost.
 
-*For example:* The studies' own design: students chose submission dates for three papers, with a grade penalty for each day late, and those who spread the deadlines evenly across the term caught more errors and earned more than the groups with a single end-of-term deadline.
+*For example:* In Study 2, one proofreading group submitted one of three texts every seven days; another submitted all three at the end. The evenly spaced schedule produced more correctly detected errors.
 
 ## Sources
 
@@ -38,4 +38,4 @@ The studies' answers to the authors' three questions were yes, yes and no: stude
 
 ## Practice
 
-- For a task you keep postponing, set a date with a real cost for missing it, and where possible let someone else hold it. Space several deadlines across the work rather than one at the end.
+- For a task you keep postponing, try setting intermediate submission dates across the work, and afterwards review both the completion and what the schedule cost.

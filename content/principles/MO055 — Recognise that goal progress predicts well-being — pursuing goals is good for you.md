@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 55** — Recognise that goal progress predicts well-being: pursuing goals is good for you
 
-The evidence base is both long and daily. On the long side, the reviewed literature holds that "prior research has demonstrated a robust association between goal progress and subjective well-being; when individuals make progress on their goals, they experience positive emotions and life satisfaction, and they experience less psychological distress" (Jakubiak & Feeney, 2016, in their introduction, citing Diener 1984 and Klug & Maier 2014), and Brunstein's semester study found that "students who reported greater goal progress during the semester were more likely to have increases in well-being or to maintain their level of well-being over the semester than students who reported low levels of goal progress". On the daily side, two seven-day diary studies followed the effect into ordinary life:
+The evidence base is both long and daily. On the long side, the reviewed literature is summarised in one sentence: "Prior research has demonstrated a robust association between goal progress and subjective well-being; when individuals make progress on their goals, they experience positive emotions and life satisfaction, and they experience less psychological distress" ([Jakubiak & Feeney, 2016, introduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC5000864/), citing Diener 1984 and Klug & Maier 2014). Of Brunstein's semester study the same article reports: "Students who reported greater goal progress during the semester were more likely to have increases in well-being or to maintain their level of well-being over the semester than students who reported low levels of goal progress". On the daily side, two seven-day diary studies followed the reported associations into ordinary life:
 
-> "For both young-adult newlyweds (Study 1) and married couples in late adulthood (Study 2), daily independent goal progress predicted same-day and next-day improvements in psychological, physical, and relational well-being." (Jakubiak & Feeney, 2016, JPSP 111(3), abstract)
+> "For both young-adult newlyweds (Study 1) and married couples in late adulthood (Study 2), daily independent goal progress predicted same-day and next-day improvements in psychological, physical, and relational well-being." (Jakubiak & Feeney, 2016, [JPSP 111(3), abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC5000864/))
 
-The concrete shape of the effect: "when participants made more progress on their goals than usual on one day, they reported increases in positive affect, sleep quality, and relationship quality, and decreased physical symptoms, the following day (as well as concurrently)". Note the design: each person was compared with their own average, so the finding is about movement relative to your normal week, and it concerns progress, not attainment.
+The concrete shape of the reported effect: "when participants made more progress on their goals than usual on one day, they reported increases in positive affect, sleep quality, and relationship quality, and decreased physical symptoms, the following day (as well as concurrently)". The design is within-person: each participant was compared with their own average over the diary period, and the measures concern progress, not attainment.
 
-**Plain words** Well-being tracks movement more than trophies. The diary studies compared each person with their own average: a better-than-usual day of goal progress came with better mood, sleep and relationship quality the same day and the next. Nothing in the finding asks for big goals or finished ones. A week with something visibly moving beats a week with everything done and nothing underway.
+**Plain words** The diary studies compared each person with their own average: on days with more progress than usual, participants reported better mood, sleep and relationship quality the same day and the next. The finding is about reported associations over the studied weeks, each person against their own baseline.
 
-*For example (imagined):* The retired partner who sinks within a year: everything achieved, nothing underway. The reading is the diary finding run in reverse, and it is an illustration, not a study.
+*For example (compendium exercise):* Keep a one-week record of daily goal progress and mood, and read the week against your own average.
 
 ## Sources
 
@@ -29,7 +29,7 @@ The concrete shape of the effect: "when participants made more progress on their
 
 - **Goal progress and well-being** (Sheldon & Elliot, 1999; Sheldon et al., 2010)
 - **[[The progress principle|Progress principle (Amabile)]]** (Amabile & Kramer, 2011)
-- **Goal pursuit itself is beneficial** (Sheldon & Elliot, 1999)
+- **Goal pursuit and well-being** (Sheldon & Elliot, 1999)
 
 ## Philosophy parallels
 
@@ -39,4 +39,4 @@ The concrete shape of the effect: "when participants made more progress on their
 
 ## Practice
 
-- Keep one or two goals actively in progress rather than waiting for completion to count. Record daily progress against your own recent average, and expect any effect on mood and energy to show the same day.
+- Keep one or two goals actively in progress. Record daily progress against your own recent average.

@@ -12,17 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 43** — Recognise the role of reward in habit formation: immediate rewards work
 
-The evidence comes from two directions. Studies of long-term goals find that the rewards that set a goal are not the rewards that sustain it: "whereas delayed rewards may motivate goal setting and the intentions to pursue long-term goals, a meta-analysis of our studies finds that immediate rewards are more strongly associated with actual persistence in a long-term goal" (Woolley & Fishbach, 2017, abstract). In that research, "immediate rewards (e.g., enjoyment) predicted current persistence at New Year's resolutions whereas delayed rewards did not (Study 1)"; the same pattern held for single sessions of studying and exercising, for one-week and three-month time frames, and for anticipated as well as materialized rewards.
+In five studies with an internal meta-analysis, Woolley and Fishbach compared the rewards that set a goal with the rewards that accompanied the work: "whereas delayed rewards may motivate goal setting and the intentions to pursue long-term goals, a meta-analysis of our studies finds that immediate rewards are more strongly associated with actual persistence in a long-term goal" ([Woolley & Fishbach, 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/27899467/)). In their data, "immediate rewards (e.g., enjoyment) predicted current persistence at New Year's resolutions whereas delayed rewards did not (Study 1)"; the same pattern held for single sessions of studying and exercising, for one-week and three-month time frames, and for anticipated as well as materialized rewards. The finding concerns persistence in goal-related activities.
 
-On the habit-formation side, the reward sits inside the act rather than after it. Stanford behavior scientist BJ Fogg's claim is that emotion, not repetition, is what cements a behaviour:
+Separately, in an interview about forming habits, Stanford behavior scientist BJ Fogg gave the reward its place in the act:
 
-> "It's emotion. The more intense the positive feelings associated with the habit, the quicker it becomes ingrained in your life." (BJ Fogg, NPR Life Kit, 10 February 2026)
+> "It's emotion. The more intense the positive feelings associated with the habit, the quicker it becomes ingrained in your life." (BJ Fogg, [NPR Life Kit, 10 February 2026](https://www.npr.org/transcripts/nx-s1-5694679-e1))
 
-His demonstration is flossing one tooth, then looking in the mirror, smiling and saying "Great job, BJ!"; the small celebration is the mechanism, and the transcript notes you do not need to celebrate forever, only until the habit is established.
+**Plain words** An activity can have a worthwhile long-term purpose and still be unpleasant today. These studies associated immediate enjoyment with persistence. As an exercise, try a version of your goal activity that you enjoy and record whether you continue it.
 
-**Plain words** A workout's real payoff lands in a decade; the part of you deciding whether to repeat it tomorrow lives in the next ten minutes. Delayed rewards are good at setting goals and poor at supplying day-to-day fuel. What carries a behaviour through the unglamorous middle is how the doing itself feels, so pick the version you actually enjoy and give the finish something that feels good now.
-
-*For example:* Fogg's flossing demonstration: one tooth, then a smile in the mirror and "Great job, BJ!" The reward is the celebration itself, delivered the moment the behaviour completes.
+*For example:* Fogg's demonstration from the interview: floss one tooth, then look in the mirror, smile and say "Great job, BJ!"
 
 ## Sources
 
@@ -41,4 +39,4 @@ His demonstration is flossing one tooth, then looking in the mirror, smiling and
 
 ## Practice
 
-- Choose the form of the behaviour you enjoy rather than the form that is supposed to be optimal, and give the behaviour an immediate finish worth having: a marked success, a small pleasure, a recorded win.
+- When choosing among ways to pursue a goal, note how each feels while doing it, and keep a record of which version you repeat.

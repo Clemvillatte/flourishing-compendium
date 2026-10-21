@@ -42,10 +42,15 @@
   "M028": "HOLD RESOLVED 2026-10-21 (worker-verify-8f4c21bd): untraceable Cottonwood quote replaced with a page-image-verified Dibble/Anderson ch. 22 p. 122 passage; advisor round-2 repairs applied; validated and done. Stale flag text replaced by this entry; no open condition remains.",
   "M010": "HOLD for supervisor: protected alias [[Perspective-taking|Perspective-taking's depolarizing effects]] is a substantive unverified claim (Galinsky research not opened); alias markup preserved; verify or disposition like AF050's Rumination alias",
   "M044": "M044: protected alias [[That of God in everyone|That of God in everyone]] has no concept page (unresolved target); markup preserved; supervisor decision needed",
-  "MO042": "Reopened for QC: QC correction: advisor round 1 FAIL (untested prediction stated as strict rule; truncated quote; bibliography and concept reads pending)"
+  "MO042": "Reopened for QC: QC correction: advisor round 1 FAIL (untested prediction stated as strict rule; truncated quote; bibliography and concept reads pending)",
+  "MO043": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
+  "MO044": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
+  "MO052": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
+  "MO053": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
+  "MO055": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-21T01:40:46+00:00",
+ "updated": "2026-10-21T01:45:28+00:00",
  "band_done": false
 }
