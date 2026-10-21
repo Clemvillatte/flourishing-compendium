@@ -19,7 +19,7 @@ His conclusion inverts the picture:
 
 > "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." (same work, "Of the influencing motives of the will")
 
-In the quoted passage, Hume assigns reason a serving rather than a governing role in relation to the passions.
+In the quoted passage, Hume assigns reason a serving rather than a governing role in relation to the passions. The passage does not dismiss reasoning; it denies that reason is the driver. The compendium's principles take the limit as a working constraint — on how far introspection can be trusted, on what self-control has to work with — rather than as a counsel of despair.
 
 ### In the compendium
 

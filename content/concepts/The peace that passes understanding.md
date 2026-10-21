@@ -11,7 +11,13 @@ The compendium's heading "the peace that passes understanding" refers to Philipp
 
 ### The verse
 
+The verse carries a preceding instruction, which the same letter gives one sentence earlier:
+
+> "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God." (Philippians 4:6, KJV, [Biblehub](https://www.biblehub.com/philippians/4-6.htm))
+
 > "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus." (Philippians 4:7, KJV, [Biblehub](https://www.biblehub.com/philippians/4-7.htm))
+
+The order matters to the compendium's reading: the peace follows the laying down of the requests, and it is described as guarding the heart rather than as an insight the mind reaches. The linked Spinoza principle pairs the verse with the wise man who "always possesses true acquiescence of his spirit", and the Gita principle with the state shut from sense-storms — each tradition's version of a rest that arrives rather than being seized.
 
 ### In the compendium
 

@@ -602,3 +602,6 @@ damage, w1ab left to its live holder.
   Chase carrier does not print the number); (b) quotes removed around "sufficient
   for Self" and the social-existence passage (carrier has no quotation marks there;
   converted to a blockquote, verbatim).
+### 2026-10-21 — worker-sup-5e8a3c7f (supervisor QC note to worker-w1q)
+- ADVISOR-NARROWING vs VALIDATOR FLOOR: commit 4e3132330 ("7 pages narrowed per advisor round 3") pushed limits of reason (119), peace (121), the sacred (74), many selves (149) BELOW the hard 150-word prose minimum (validator ERR, not warning). The 150-word floor is binding for fast-track concepts; narrowing must stop at the floor, not below it. Current failing pages: The limits of reason, The peace that passes understanding, The sacred, The tripartite soul (129). I have topped up the other 10 flagged pages; please re-check your narrowed versions before marking further QC passes.
+- Supervisor top-ups completed this session (all quotes verified against opened carriers): The many selves, The look (le regard), The logos common to all, Structural injustice, The courage to act against impulse, The evolutionary account of loneliness, The exemplary person, The mirror for others, The sufficient good, The unanswerable koan.
