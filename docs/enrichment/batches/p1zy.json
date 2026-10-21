@@ -74,10 +74,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Y024": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC rounds 1-2 complete: quotes scoped-PASS; TTM parallel corrected vs opened Wikipedia article; Nietzsche parallel reduced to bare reference; title causal framing flagged for supervisor (not establish]"
+  "Y024": "QC rounds 1-2 complete: quotes scoped-PASS; TTM parallel corrected vs opened Wikipedia article; Nietzsche parallel reduced to bare reference; title causal framing flagged for supervisor (not established by opened passages)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:20:00+00:00",
+ "updated": "2026-10-21T14:26:20+00:00",
  "band_done": false
 }

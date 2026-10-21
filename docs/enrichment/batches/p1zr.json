@@ -34,11 +34,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "AF059": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance]",
-  "AF063": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy]",
-  "AT068": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: inherited-unverified attribution: Weil, Waiting for God (The discipline of attention) \u2014 philosophy-parallel bullet not verified against an opened source this session; supervisor review requested]",
-  "AT072": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: inherited-unverified attributions: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross (The dark night) \u2014 philosophy-parallel bullets not verified against opened sources this se]",
-  "BE008": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) \u2014 philosophy-parallel bullets not verified against opened sources this session; supervisor review requested]",
+  "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
+  "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy",
+  "AT068": "inherited-unverified attribution: Weil, Waiting for God (The discipline of attention) \u2014 philosophy-parallel bullet not verified against an opened source this session; supervisor review requested",
+  "AT072": "inherited-unverified attributions: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross (The dark night) \u2014 philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
+  "BE008": "inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) \u2014 philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
   "BE046": "RESOLVED (items-1-5 milestone QC): content scoped-PASS after multiple rounds; final fixes (example pace internally consistent + HRVB-borrowed labelling) applied, validated vs ad5739669, pushed; record corrections applied; see sources/p1zr/BE046.md QC history",
   "BE053": "RESOLVED (items-1-5 milestone QC): content acceptable per advisor; record corrections applied; see sources/p1zr/BE053.md",
   "BE054": "RESOLVED (items-1-5 milestone QC): content scoped-PASS; staged opener deleted, definition softened, all record corrections applied; see sources/p1zr/BE054.md QC history",
@@ -50,6 +50,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 5,
- "updated": "2026-10-21T16:40:00+00:00",
+ "updated": "2026-10-21T14:26:19+00:00",
  "band_done": true
 }

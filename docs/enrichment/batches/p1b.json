@@ -74,19 +74,19 @@
  ],
  "in_progress": null,
  "flagged": {
-  "E012": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages]",
-  "D003": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: Supervisor QC: plural meta-analyses claim corrected]",
-  "AF036": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: item-25 advisor fixes (full Veale quote continuation, attribution wording)]",
-  "B003": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: item-25 advisor fixes (drop unverified Milindapanha paraphrase, scope process claim, fix example)]",
-  "AT070": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: item-25 advisor fixes (trainability grounding, soften 'always')]",
-  "E013": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: quote ends mid-sentence; invented quotation in example]",
-  "A065": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: wine quote drops source parenthesis]",
-  "SE066": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: outcomes not established by Vygotsky source]",
-  "P038": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: QC correction: inference and mechanical claim beyond James source]",
-  "D114": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: mis-marked done before start by operator error; rewriting now]"
+  "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
+  "D003": "Reopened for QC: Supervisor QC: plural meta-analyses claim corrected",
+  "AF036": "Reopened for QC: QC correction: item-25 advisor fixes (full Veale quote continuation, attribution wording)",
+  "B003": "Reopened for QC: QC correction: item-25 advisor fixes (drop unverified Milindapanha paraphrase, scope process claim, fix example)",
+  "AT070": "Reopened for QC: QC correction: item-25 advisor fixes (trainability grounding, soften 'always')",
+  "E013": "Reopened for QC: QC correction: quote ends mid-sentence; invented quotation in example",
+  "A065": "Reopened for QC: QC correction: wine quote drops source parenthesis",
+  "SE066": "Reopened for QC: QC correction: outcomes not established by Vygotsky source",
+  "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source",
+  "D114": "Reopened for QC: mis-marked done before start by operator error; rewriting now"
  },
  "missing_concepts": [],
  "sources_checked": 90,
- "updated": "2026-10-21T16:40:00+00:00",
+ "updated": "2026-10-21T14:26:18+00:00",
  "band_done": true
 }

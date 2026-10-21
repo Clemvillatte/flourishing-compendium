@@ -34,8 +34,8 @@
  ],
  "in_progress": null,
  "flagged": {
-  "B014": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: advisor milestone QC repairs]",
-  "B042": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 19, issue-absent + ledger): the flagged repair is documented as applied in the band ledger; live status is done. Limitation: quotes NOT re-verified against the actual source this pass. [orig: Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix]",
+  "B014": "Reopened for QC: advisor milestone QC repairs",
+  "B042": "Reopened for QC: advisor QC round 2: remove seed explanation, terminology bridge, plain-words fix",
   "P074": "milestone-15 QC: quote capitalization (Native), outlets wording",
   "P095": "milestone-15 QC: verify Part V locator from PDF page; delete novelty line",
   "P103": "milestone-15 QC: overgeneralization; lecture verification; blockquote capitalization",
@@ -45,6 +45,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:40:00+00:00",
+ "updated": "2026-10-21T14:26:18+00:00",
  "band_done": true
 }
