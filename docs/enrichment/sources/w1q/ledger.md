@@ -377,3 +377,16 @@ damage, w1ab left to its live holder.
   citation lines unaltered. SO024/SO039/SP036/SO001 clauses kept to what those pages
   carry; Micro-moments-of-connection Related link bare (unchecked). Validator ok
   (1 warn: 2 Related lines, fast-track bar). QC-pending for the next milestone.
+
+## THE EXEMPLARY PERSON — 2026-10-21T15:58Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4, single direct principle A043). Carrier: Project Gutenberg
+  #10056 (Chinese Literature, ed. Epiphanius Wilson, containing the Analects; the
+  opened translation renders junzi "superior man", disclosed in the opening sentence).
+  Raw text downloaded; three quotes substring-verified: the archery passage ("In his
+  very contest he is still the superior man."), the meal passage ("Not even whilst he
+  eats his meal..."), and "Virtue dwells not alone: she must have neighbors."
+- ctext.org bot-walled; Wikisource Analects page is Chinese-only; the widely-quoted
+  Legge renderings were NOT available as an opened carrier, so no Legge wording is
+  quoted. A043/Y116/A120/S126 clauses kept to what those pages carry; Confucian-duty
+  Related link bare (unchecked). Validator ok (1 warn: 2 Related lines, fast-track
+  bar). QC-pending for the next milestone.
