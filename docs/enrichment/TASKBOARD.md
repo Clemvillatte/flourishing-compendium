@@ -1631,3 +1631,12 @@ Verification pass 10 (worker-glmc4a — w1l released band, continued): 6 more pa
 - Divergent and convergent thinking: the Cropley/Guilford definitions passage matches the opened Jaarsveld & Lachmann page (PMC5292426) verbatim.
 - Early childhood education research: the Heckman Science 2006 concluding passage matches the opened author-hosted PDF verbatim (extraction shows "pupilteacher" — the print has the hyphen; page correct).
 Session total: 61 distinct pages verified (59 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 11 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Goal conflict research: the Emmons & King 1988 abstract sentences match PubMed 3397863 efetch verbatim.
+- Integrative complexity: the Suedfeld/Tetlock/Streufert differentiation-integration passage matches the opened UBC author-copy PDF verbatim.
+- Justice reasoning: both Kohlberg passages match the freshly fetched IEP Moral Development entry verbatim.
+- Limits of introspection: the Nisbett & Wilson 1977 abstract matches the opened CSULB PDF verbatim.
+- Meta-awareness: the Schooler et al. 2011 sentence matches PubMed 21684189 efetch verbatim.
+- Recovery experiences: the Sonnentag & Fritz 2007 sentence matches PubMed 17638488 efetch verbatim (same clause-boundary elision of "(Study 2)" as noted on the Psychological detachment page in pass 7).
+Session total: 67 distinct pages verified (65 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
