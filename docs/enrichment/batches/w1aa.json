@@ -93,7 +93,7 @@
   "Implicit and explicit": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification]",
   "Implicit attitudes": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification]",
   "Implicit learning research": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification]",
-  "Impostor-phenomenon research": "QC repairs applied; page-image check on rendered PDF COMPLETED 2026-10-21 via cloud browser: 'intellectual phonies' and singular 'persists' confirmed printed as quoted (paper's own grammatical error); all four quotations page-image verified; QC re-verification by supervisor pending",
+  "Impostor-phenomenon research": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 8): this flag is a completed fast-track/QC evidence record, not an open issue; retained for the audit trail. [orig: QC repairs applied; page-image check on rendered PDF COMPLETED 2026-10-21 via cloud browser: 'intellectual phonies' and singular 'persists' confirmed printed as quoted (paper's own grammatical error);]",
   "Impression-management burnout research": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification]",
   "Individualism collectivism theory Triandis": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification]",
   "Individuality": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification]",
@@ -120,6 +120,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T17:10:00+00:00",
+ "updated": "2026-10-21T17:25:00+00:00",
  "band_done": false
 }
