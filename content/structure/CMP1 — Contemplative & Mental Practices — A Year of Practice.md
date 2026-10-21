@@ -134,6 +134,8 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [MBSR Sitting Meditation, 32-minute version](https://palousemindfulness.com/meditations/sittingmeditation.html) | Palouse Mindfulness | 32 min |
 | [Guided Mindfulness Meditation](https://www.audiodharma.org/talks/4013) | Gil Fronsdal, AudioDharma | 42:59 |
 
+A note on the last row: that session's own page describes it as "Aspects of mindfulness as taught by the Buddha" and does not name a breath anchor, so its placement on this shelf rests on its title as a general guided sit rather than on a carrier-stated focus.
+
 ### Open monitoring (OMM)
 
 | Session | Guide | Length |
