@@ -14,3 +14,7 @@
 ## R033 — Practise utu
 - Opened (search excerpts, long): Te Ara Riri (utu = returning balance), Ahu & Hoare 2010 NZACL Yearbook 16 (quotes Firth 1929, Patterson), Global Policy utu paper (abstract/excerpt), Gouldner 1960 abstract. Mead 2003 and Durie 1994 not read.
 - Seed "proportional response" is a simplification: Patterson/Ahu & Hoare say utu often exceeds the original (dynamic balance) and may include vengeance/punishment. Gouldner's universality is a hypothesis in the abstract. Philosophy parallels (Aristotle NE V) untouched, unopened.
+
+## R034 — Practise tika
+- Opened: Stewart et al. 2021 AUT paper (fetched, quotes verbatim with page refs), Law Commission SP9 (excerpt), Aquino & Reed definition via secondary paper. Mead/Durie/Blasi not read.
+- Seed "tika = Māori equivalent of moral integrity" explicitly warned against by Stewart et al. 2021 -> rewritten. Philosophy parallels (Confucius, Aristotle) untouched/unopened.
