@@ -13,12 +13,21 @@ Analects 2.10 concerns assessing a person's character. In Legge's translation, C
 
 > See what a man does. Mark his motives. Examine in what things he rests. How can a man conceal his character? How can a man conceal his character? (Analects 2.10, Legge translation, [Chinese Text Project](https://ctext.org/analects/wei-zheng/zh))
 
-A practical reading is to consider the three observations together when assessing character: conduct, motives and the things in which the person rests.
+A practical reading is to consider the three observations together when assessing character: conduct, motives and the things in which the person rests. The passage is a manual for assessment, and its third step is the least obvious: what a person settles into when nothing is required of them — where effort stops and what they fall back on — shows character that polished conduct can hide.
+
+## Related concepts
+
+- [[Character development]] — the long-term project the passage's assessment is about
+- [[Practical wisdom]] — the capacity to judge people and situations that the passage trains
+- [[Li — ritual propriety]] — the Confucian conduct whose inner alignment the assessment checks
+- [[Filial piety]] — a first-order Confucian observable of character
+- [[Character strengths (Peterson & Seligman)]] — the psychological catalogue of traits an assessor might look for
 
 ## Sources
 
 - Confucius, Analects 2.10
 - [Analects, "Wei Zheng" chapter, Legge translation (Chinese Text Project)](https://ctext.org/analects/wei-zheng/zh) — verse 2.10 quoted verbatim
+- [Confucius, The Analects (from the Chinese Classics), James Legge translation, Project Gutenberg #3330](https://www.gutenberg.org/cache/epub/3330/pg3330.html) — the same Legge text, Book II chapter X, opened to verify the quotation verbatim
 
 [[A031 — Cultivate understanding (synesis)]]
 [[A038 — Cultivate practical judgment (gnome)]]
