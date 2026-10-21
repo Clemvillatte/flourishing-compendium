@@ -7,7 +7,7 @@ file: "Base rate neglect representativeness heuristic"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-Base rate neglect is the error Tversky and Kahneman traced to the representativeness heuristic: judging by how well a case matches a stereotype, and overlooking how common the categories are to begin with.
+Base rate neglect, in the account Tversky and Kahneman gave in 1974, arises from the representativeness heuristic: judging by how well a case matches a stereotype, and overlooking how common the categories are to begin with.
 
 ### The heuristic
 
@@ -15,11 +15,11 @@ In their 1974 Science paper they describe the shortcut: "people typically rely o
 
 ### The neglect
 
-The same paper names the cost: "One of the factors that have no effect on representativeness but should have a major effect on probability is the prior probability, or base-rate frequency, of the outcomes." In their Steve example, "the fact that there are many more farmers than librarians in the population should enter into any reasonable estimate of the probability that Steve is a librarian rather than a farmer," yet "considerations of base-rate frequency... do not affect the similarity of Steve to the stereotypes of librarians and farmers," so "if people evaluate probability by representativeness, therefore, prior probabilities will be neglected" ([Tversky & Kahneman 1974](https://ruccs.rutgers.edu/images/personal-alan-prince/hold/tversky&kahneman.pdf)).
+The same paper names the cost: "One of the factors that have no effect on representativeness but should have a major effect on probability is the prior probability, or base-rate frequency, of the outcomes." In their Steve example, "the fact that there are many more farmers than librarians in the population should enter into any reasonable estimate of the probability that Steve is a librarian rather than a farmer," yet "considerations of base-rate frequency, for example, do not affect the similarity of Steve to the stereotypes of librarians and farmers," so "if people evaluate probability by representativeness, therefore, prior probabilities will be neglected" ([Tversky & Kahneman 1974](https://ruccs.rutgers.edu/images/personal-alan-prince/hold/tversky&kahneman.pdf)).
 
 ### Why it matters for flourishing
 
-The repair is a habit, not a talent: before judging a case by its story, ask how common each outcome is in the relevant population. The compendium's outside-view practices train exactly this move.
+As an editorial suggestion rather than a tested finding: before judging a case by its story, ask how common each outcome is in the relevant population. The compendium's outside-view practices train exactly this move.
 
 ## Related concepts
 

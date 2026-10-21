@@ -7,7 +7,7 @@ file: "Burnout"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-B"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
-Burnout is the clinical name for what unmanaged chronic workplace stress becomes. The WHO's ICD-11 definition: "Burn-out is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions: 1) feelings of energy depletion or exhaustion; 2) increased mental distance from one's job, or feelings of negativism or cynicism related to one's job; and 3) reduced professional efficacy," and it "refers specifically to phenomena in the occupational context" ([Wikipedia, Occupational burnout](https://en.wikipedia.org/wiki/Burnout_(psychology))). The ancient cousin is acedia, the noonday demon of the desert monastics.
+Burnout is the WHO's name for a syndrome resulting from chronic workplace stress that has not been successfully managed. The ICD-11 definition: "Burn-out is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions: 1) feelings of energy depletion or exhaustion; 2) increased mental distance from one's job, or feelings of negativism or cynicism related to one's job; and 3) reduced professional efficacy," and it "refers specifically to phenomena in the occupational context" ([Wikipedia, Occupational burnout](https://en.wikipedia.org/wiki/Burnout_(psychology))). A much older and looser analogue, sometimes compared to burnout, is acedia, the noonday demon of the desert monastics.
 
 ### The three dimensions
 
@@ -32,7 +32,7 @@ Maslach and Leiter locate the causes in the person-job mismatch rather than the 
 - [[Karasek]] — the demand-control account of strain
 - [[The job demands-resources model]] — the structural account
 - [[Work engagement]] — the opposite pole
-- [[The progress principle]] — progress as the daily antidote
+- [[The progress principle]] — progress in daily work
 
 ## Sources
 

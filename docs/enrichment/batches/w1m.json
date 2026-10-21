@@ -34,15 +34,16 @@
   "Antifragility",
   "Approach-Inhibition Theory of Power",
   "Arete",
+  "Base rate neglect / representativeness heuristic",
   "Attentional flexibility (set-shifting)",
   "Attribution theory",
   "Balance theory",
-  "Base rate neglect / representativeness heuristic",
   "Behavioral economics theory",
   "Behavioral genetics models",
   "Big Two model of agency and communion",
   "Burnout",
-  "Bystander effect theory Darley Latane"
+  "Bystander effect theory Darley Latane",
+  "Base rate neglect representativeness heuristic"
  ],
  "in_progress": null,
  "flagged": {
@@ -85,10 +86,18 @@
   "Anger management": "Reopened for QC: advisor QC round 4 fixes",
   "Antifragility": "Reopened for QC: advisor QC round 4 fixes",
   "Approach-Inhibition Theory of Power": "Reopened for QC: advisor QC round 4 fixes",
-  "Arete": "Reopened for QC: advisor QC round 4 fixes"
+  "Arete": "Reopened for QC: advisor QC round 4 fixes",
+  "Attentional flexibility (set-shifting)": "Reopened for QC: advisor QC round 5 repairs",
+  "Attribution theory": "Reopened for QC: advisor QC round 5 repairs",
+  "Balance theory": "Reopened for QC: advisor QC round 5 repairs",
+  "Behavioral economics theory": "Reopened for QC: advisor QC round 5 repairs",
+  "Behavioral genetics models": "Reopened for QC: advisor QC round 5 repairs",
+  "Big Two model of agency and communion": "Reopened for QC: advisor QC round 5 repairs",
+  "Burnout": "Reopened for QC: advisor QC round 5 repairs",
+  "Bystander effect theory Darley Latane": "Reopened for QC: advisor QC round 5 repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:58:51+00:00",
+ "updated": "2026-10-21T14:03:34+00:00",
  "band_done": false
 }

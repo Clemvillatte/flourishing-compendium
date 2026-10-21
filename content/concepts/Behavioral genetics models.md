@@ -13,7 +13,7 @@ Behavioral genetics models are the study designs that ask how much of the differ
 
 ## Where it comes from
 
-The workhorse is the twin comparison: "monozygotic twins share 100% of their genome and dizygotic twins share, on average, 50% of their segregating genome. Thus, differences between the two members of a monozygotic twin pair can only be due to differences in their environment, whereas dizygotic twins will differ from one another due to genes in addition to the environment" ([Wikipedia, Behavioural genetics](https://en.wikipedia.org/wiki/Behavioural_genetics)). Adoption and, more recently, molecular designs extend the same logic.
+The workhorse is the twin comparison, a simplified design resting on stated assumptions: "monozygotic twins share 100% of their genome and dizygotic twins share, on average, 50% of their segregating genome. Thus, differences between the two members of a monozygotic twin pair can only be due to differences in their environment, whereas dizygotic twins will differ from one another due to genes in addition to the environment" ([Wikipedia, Behavioural genetics](https://en.wikipedia.org/wiki/Behavioural_genetics)). Adoption and, more recently, molecular designs extend the same logic.
 
 ## How it works
 
@@ -21,11 +21,11 @@ The decomposition is the ACE model: additive genetic effects (A), shared environ
 
 ## What it explains
 
-The models explain where individual differences in personality, intelligence and risk come from, in population terms. Their limits are part of the theory: the twin model rests on "the equal environment assumption that monozygotic twins have the same shared environmental experiences as dizygotic twins," and while "research tends to support the equal environment assumption," shared-womb effects cannot be fully separated ([Wikipedia, Behavioural genetics](https://en.wikipedia.org/wiki/Behavioural_genetics)). Heritability is a population statistic, not a verdict on a person.
+The models estimate, for a population, how much of the variation in a trait is associated with genetic versus environmental differences — in personality, intelligence and risk, among the researched traits. Their limits are part of the theory: the twin model rests on "the equal environment assumption that monozygotic twins have the same shared environmental experiences as dizygotic twins," and while "research tends to support the equal environment assumption," shared-womb effects cannot be fully separated ([Wikipedia, Behavioural genetics](https://en.wikipedia.org/wiki/Behavioural_genetics)). Heritability is a population statistic, not a verdict on a person.
 
 ## Everyday life
 
-The practical reading for flourishing: genes set dispositions, not destinies, and the largest environmental component in these models is usually the non-shared one, the particular experiences that make each life its own. Nothing in the numbers says a trait cannot be worked with.
+The practical reading for flourishing: genes set dispositions, not destinies, and the largest environmental component in these models is usually the non-shared one — though since E also includes measurement error, it cannot simply be read as a tally of each person's unique experiences. Nothing in the numbers says a trait cannot be worked with.
 
 ## Field
 
@@ -33,7 +33,7 @@ Biophysiological · Psychological science
 
 ## Related concepts
 
-- [[Behavioral epigenetics]] — the mechanism layer beneath the models
+- [[Behavioral epigenetics]] — a related field on gene-environment interplay
 - [[Diathesis-stress model]] — how genetic predisposition meets stress
 - [[Temperament-environment fit]] — disposition and setting together
 - [[Five-factor model of personality]] — a frequent target trait

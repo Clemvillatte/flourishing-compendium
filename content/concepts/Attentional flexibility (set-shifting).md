@@ -14,7 +14,7 @@ Attentional flexibility, or set-shifting, is the executive capacity to disengage
 
 ## Where it comes from
 
-The laboratory version of the capacity is task switching, opened up as a research paradigm by Rogers and Monsell in the 1990s and reviewed in Monsell's 2003 article. Its premise is ordinary life: "Everyday life requires frequent shifts between cognitive tasks" ([Monsell 2003](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf)). Diamond places the capacity late in development and ranks it hard: "Cognitive flexibility, overcoming inertial tendencies so you can switch back and forth between mental sets or ways of thinking about the stimuli, is one of the most demanding of the EFs" ([Diamond 2013](https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf)).
+The laboratory version of the capacity is task switching, reviewed in Monsell's 2003 article, which traces task-set research back to earlier work on the control of 'set' and takes up Rogers and Monsell's account of the residual switch cost. Its premise is ordinary life: "Everyday life requires frequent shifts between cognitive tasks" ([Monsell 2003](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf)). Diamond places the capacity late in development and ranks it hard: "Cognitive flexibility, overcoming inertial tendencies so you can switch back and forth between mental sets or ways of thinking about the stimuli, is one of the most demanding of the EFs" ([Diamond 2013](https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf)).
 
 ## How it works
 
@@ -22,17 +22,17 @@ The measurable signature is the switch cost: "responses take longer to initiate 
 
 ## What it explains
 
-The construct explains why adaptation lags demand: even easy tasks cost time and errors when interleaved. It also gives the vocabulary for what contemplative practices train: the deliberate movement of attention between sets, as in open monitoring, where awareness shifts with events rather than gripping one object.
+The construct explains why adaptation lags demand: even easy tasks cost time and errors when interleaved. It also supplies the vocabulary for practices described in this library, such as open monitoring, in which awareness shifts with events rather than gripping one object.
 
 ## Everyday life
 
-Rereading the same paragraph while your mind still holds the last task is a switch cost. The research suggests two levers: warn yourself what comes next, and expect the first moments after any shift to be slower and more error-prone rather than treating that as failure.
+As an illustration: rereading the same paragraph while your mind still holds the last task is what a switch cost feels like. The research suggests two levers: warn yourself what comes next, and expect the first moments after any shift to be slower and more error-prone rather than treating that as failure.
 
 ## Related concepts
 
 - [[Cognitive flexibility]] — the parent construct
 - [[Attention management]] — the applied practice side
-- [[Attention residue]] — the carry-over that produces the cost
+- [[Attention residue]] — a related account of the carry-over between tasks
 - [[Attentional bias theory MacLeod]] — the pathological neighbour
 - [[Response inhibition]] — the function flexibility builds on
 

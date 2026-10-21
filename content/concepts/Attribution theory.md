@@ -17,11 +17,11 @@ The founding text is Fritz Heider's The Psychology of Interpersonal Relations (1
 
 ## How it works
 
-Harold Kelley's covariation model sets out the evidence people weigh: consensus information ("how other people in the same situation and with the same stimulus behave"), distinctiveness information ("how the individual responds to different stimuli"), and consistency information ("how frequent the individual's behavior can be observed with similar stimulus but varied situations") ([Wikipedia, Attribution theory](https://en.wikipedia.org/wiki/Attribution_theory)). Weiner's achievement model adds three dimensions: "stable theory (stable and unstable), locus of control (internal and external), controllability (controllable or uncontrollable)"; stability shapes expectancy about the future, control relates to persistence, and causality influences emotional responses to outcomes ([Wikipedia, Attribution theory](https://en.wikipedia.org/wiki/Attribution_theory)).
+Harold Kelley's covariation model sets out the evidence people weigh: consensus information ("how other people in the same situation and with the same stimulus behave"), distinctiveness information ("how the individual responds to different stimuli"), and consistency information ("how frequent the individual's behavior can be observed with similar stimulus but varied situations") ([Wikipedia, Attribution theory](https://en.wikipedia.org/wiki/Attribution_theory)). Weiner's achievement model adds three dimensions: "stable theory (stable and unstable), locus of control (internal and external), controllability (controllable or uncontrollable)"; stability shapes expectancy about the future, control relates to persistence, and causality influences emotional responses to outcomes ([Wikipedia, Attribution theory](https://en.wikipedia.org/wiki/Attribution_theory)). In this model the locus dimension (internal versus external) is separate from the controllability dimension (whether the cause can be influenced).
 
 ## What it explains
 
-The theory explains why the same failure feels different depending on its explanation: attributed to lack of effort it invites guilt and persistence, attributed to lack of ability it invites shame and giving up. Its best-known offspring are the biases: the fundamental attribution error, the actor-observer gap, and self-serving attribution.
+The theory explains why the same failure can feel different depending on its explanation: in the model, stability shapes the expectation that tomorrow will resemble today, control bears on persistence, and the attributed cause colours the emotional response to the outcome.
 
 ## Everyday life
 
@@ -45,10 +45,9 @@ Sociocultural · Psychological science
 - Weiner, B. (1985). An attributional theory of achievement motivation and emotion. Psychological Review, 92, 548-573.
 - [Wikipedia, Attribution theory](https://en.wikipedia.org/wiki/Attribution_theory) — lead, Heider, Kelley, Weiner passages, verbatim (opened)
 
-## Cited in psychology parallels
+## Cited in parallels
 
-- [[AF009 — Understand that affect is constructed, not discovered]]
-- [[SO006 — Treat the social environment as a designable context]]
+- - - - - - - - - - - - - …and 6 more
 
 ## Cited in philosophy parallels
 

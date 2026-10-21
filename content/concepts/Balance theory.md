@@ -9,11 +9,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 ## In plain words
 
-Balance theory is Fritz Heider's account of why our likes and dislikes want to fit together. It is "a theory of attitude change, proposed by Fritz Heider," which "conceptualizes the cognitive consistency motive as a drive toward psychological balance" ([Wikipedia, Balance theory](https://en.wikipedia.org/wiki/Balance_theory)). When our feelings multiply out to a negative, we feel the pull to change one of them.
+Balance theory is Fritz Heider's account of why our likes and dislikes want to fit together. It is "a theory of attitude change, proposed by Fritz Heider," which "conceptualizes the cognitive consistency motive as a drive toward psychological balance" ([Wikipedia, Balance theory](https://en.wikipedia.org/wiki/Balance_theory)). When our feelings multiply out to a negative, the theory predicts a pull to change one of them.
 
 ## Where it comes from
 
-Heider set out the theory in The Psychology of Interpersonal Relations (1958), the same book that founded attribution theory. Dorwin Cartwright and Frank Harary later recast the triads as signed graphs, where "a balanced signed graph has only cycles of positive sign" ([Wikipedia, Balance theory](https://en.wikipedia.org/wiki/Balance_theory)).
+Heider set out the theory in The Psychology of Interpersonal Relations (1958), the same book that founded attribution theory. Dorwin Cartwright and Frank Harary recast the triads as signed graphs in a 1956 paper that built on Heider's earlier work, in which "a balanced signed graph has only cycles of positive sign" ([Wikipedia, Balance theory](https://en.wikipedia.org/wiki/Balance_theory)).
 
 ## How it works
 
@@ -21,7 +21,7 @@ The unit is the P-O-X triad: a person, another person, and a thing. If P likes o
 
 ## What it explains
 
-The theory explains the quiet edits we make to our opinions to keep the set consistent: liking a friend's admired enemy, or revising a taste after learning who made the thing. Its formal descendants include structural balance in social networks, where a balanced graph turns out to be polarised into two camps.
+The theory explains the quiet edits we make to our opinions to keep the set consistent: liking a friend's admired enemy, or revising a taste after learning who made the thing. Its formal descendants include structural balance in social networks, where, within the signed-graph model, a balanced graph splits into two camps.
 
 ## Everyday life
 
@@ -45,12 +45,9 @@ Sociocultural · Psychological science
 - Cartwright, D., & Harary, F. (1956). Structural balance: A generalization of Heider's theory. Psychological Review, 63, 277-293.
 - [Wikipedia, Balance theory](https://en.wikipedia.org/wiki/Balance_theory) — lead, P-O-X, imbalance exits, signed graphs, verbatim (opened)
 
-## Cited in psychology parallels
+## Cited in parallels
 
-- [[PP010 — Distinguish intrinsic from extrinsic aspirations]]
-- [[PP047 — Allow post-traumatic growth without forcing it]]
-- [[SO047 — Use intergroup contact as a prejudice-reduction tool]]
-- [[K372 — The decisional-balance caution]]
+- - - - - - - - - - - - - …and 61 more
 
 ## Cited in philosophy parallels
 
