@@ -1997,3 +1997,10 @@ Verification pass 61 (worker-glmc4a — final): 4 principle pages — 2 PASS, 1 
 - S120 (Seneca Moral Letters 83, Gummere): the quote's distinctive fragments were ABSENT from the freshly downloaded Gutenberg #2688 (Gummere Letters Vol. 1) — Letter 83 is likely in Vol. 2 (a different Gutenberg file); flagged for re-verification against the correct volume. Not a defect.
 - S118 (Epictetus Enchiridion 11, Long, Delphi Google Drive PDF): not verified this session (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 265 page-checks across 61 passes. Delivering the report now.
+
+Verification pass 62 (worker-glmc4a — final): 4 principle pages, ALL PASS (with disclosed artifacts).
+- S122: the Seneca On Anger III.36 (Stewart) day-in-review passage matches the freshly downloaded Wikisource page verbatim.
+- S124: the Meditations VII.48 Plato saying matches the already-downloaded Gutenberg #15877 text verbatim in wording (the source's [B] footnote marker after "Plato:" is omitted — extraction artifact, disclosed).
+- S125: the Meditations VIII.1 passage matches the freshly downloaded SEP Marcus Aurelius page verbatim in the opening (the ellipsis marks omitted SEP material); the quote's closing sentence ("For your experience tells you how much you have strayed") appears later in the SEP text — the join is ellipsis-marked; verified as a wording match.
+- S126: the Meditations I.3 passage matches the already-downloaded Gutenberg #15877 text verbatim in wording (the source's [C] footnote marker after "mother," is omitted — extraction artifact, disclosed; the same passage was independently confirmed against the MIT Classics Long text in pass 55/S039).
+FINAL SESSION TOTAL per the pass-record chain: 269 page-checks across 62 passes. Delivering the report now.
