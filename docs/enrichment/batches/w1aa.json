@@ -59,7 +59,8 @@
   "Intermodal perception",
   "Intolerance of ambiguity",
   "Intra-action",
-  "Intuitive eating"
+  "Intuitive eating",
+  "Investigation of things"
  ],
  "in_progress": null,
  "flagged": {
@@ -80,6 +81,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:59:16+00:00",
+ "updated": "2026-10-21T00:59:46+00:00",
  "band_done": false
 }
