@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 39** — Learn to make habits small: start tiny
 
-Tiny habits (Fogg) — very small versions of desired behaviours ("floss one tooth") — are easy to start and build into larger habits. Starting small overcomes the resistance to beginning.
+Fogg describes the method's first move in his own account:
 
-**Plain words** Make the habit so small it's almost embarrassing — floss one tooth, do one push-up. The tininess isn't a gimmick; it's how you get past the starting resistance. Repetition builds the habit; size can come later.
+> "First, you take any new habits you want, and you scale it back so it's super tiny. In the case of reading more, it might be - read one paragraph. In the case of meditating, it might be three calming breaths. You make it so simple, it's almost like you have no excuse not to do it." (Fogg, in Godoy, 2020)
 
-*For example:* The person who commits to "one push-up a day" and ends up doing twenty most days — the one was never the workout. It was the key that started the engine.
+His own case was flossing: "I had the insight that I already know how to floss all my teeth. That's not the issue. The issue was I didn't know how to do it automatically, so I thought, well, let's scale it way back. Make it tiny; just one tooth." The method's other two moves: anchor the tiny behaviour after something you already do ("you find where it fits naturally in your existing routine"), and mark it with a positive emotion ("that technique is called celebration"). Fogg also frames the skill itself as learnable: "Habit formation is a skill. Just like any other skill, the more you practice, the better you get." The compendium's suggested use: when a wanted behaviour keeps not starting, shrink it until starting is trivial, attach it to an existing routine, and treat anything beyond the tiny version as extra.
+
+**Plain words** When a new behaviour keeps not happening, the usual fix is more motivation. Fogg's fix is less behaviour: make the version so small that doing it takes almost nothing (one tooth, one paragraph, three breaths), put it after something you already do, and count anything extra as bonus. The tiny version is the habit; the full version is optional.
+
+*For example (imagined):* Someone commits to one push-up a day, right after their morning coffee; most days they do more, but the one is the commitment that survives busy days.
+
+## Sources
+
+- [Godoy, M. (2020). How to start a new habit: think small — NPR Life Kit episode transcript](https://www.npr.org/transcripts/809256398) — Fogg's own account of the Tiny Habits method (scaling back, the one-tooth case, anchoring, celebration, habit formation as a skill)
 ## Psychology parallels
 
 - **[[Tiny habits (Fogg)|Tiny habits (Fogg)]]**, starting with very small behaviours builds habits (Fogg, 2019; Clear, 2018)
@@ -30,4 +38,4 @@ Tiny habits (Fogg) — very small versions of desired behaviours ("floss one too
 
 ## Practice
 
-- Start tiny: "floss one tooth," "do one push-up," "write one sentence." Make the behaviour so small it is impossible to fail. Build gradually.
+- Start tiny: "floss one tooth," "do one push-up," "read one paragraph." Attach the tiny version to an existing routine ("after I brush, I will floss one tooth"), mark it with a small positive emotion, and count anything beyond the tiny version as extra.
