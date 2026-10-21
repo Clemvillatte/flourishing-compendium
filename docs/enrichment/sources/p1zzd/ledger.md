@@ -61,3 +61,11 @@
 - Opened: Norton & Gino 2014 (HBS record + full text snippets), Vohs et al. 2013 (PubMed abstract), Hobson et al. 2017 (PMC), retraction notice for Brooks et al. 2016 (see AT056). Quotes verbatim.
 - Seed cited "Norton & Gino 2014; Hobson et al. 2018" for "rituals reduce anxiety and improve self-control": Norton & Gino is about grief and control, not anxiety/self-control; Hobson 2018 review abstract not opened (SAGE blocked). Anxiety claim marked weak on page. Meaning/"connects to something larger" claims: no opened evidence; page scoped to what sources show.
 - NOTE for owner: Francesca Gino co-authored Norton & Gino 2014 and Vohs et al. 2013 (and Brooks et al. 2016, retracted). My searches surfaced no retraction notice for these two, but I did not run a dedicated retraction check; owner may want to verify Gino-coauthored sources library-wide.
+
+## BE055 — Express gratitude behaviourally
+- Opened (fetched PubMed): Kumar & Epley 2018 Psych Sci 29(9):1423-1435 abstract (quote verbatim); Yu & Chaudhry 2024 JPSP 126(1):58-78 (abstract via search; citation by fetch).
+- Dropped unopened: Emmons & McCullough 2003 (it studies counting blessings, not expression), Seligman et al. 2005, Wood et al. 2010. "Both parties get the dose" removed: Kumar & Epley quote the well-being claim only as background. Added cultural caveat. Example imagined.
+
+## BE058 — Balance solitude and sociality
+- Opened: Weinstein et al. 2023 Sci Rep 13:21160 (PubMed abstract + PMC full-text snippets; Tilburg repository). Quotes verified.
+- Dropped unopened: Long & Averill 2003 claim; Larson 1990 and Winnicott 1958 kept as bare refs in the concept-link bullet. Page now says no universal optimal balance; correlational design flagged.
