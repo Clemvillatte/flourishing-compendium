@@ -21,10 +21,9 @@ The same record notes that the replication "has provided an initial demonstratio
 
 ## Related concepts
 
-- [[Conformity]] — the sibling line of social influence: yielding to peers rather than to authority
-- [[Moral disengagement research]] — how people rationalize what an authority asks of them
+- [[Conformity]] — Asch's line: majority pressure sways judgments even against perception
+- [[Moral disengagement research]] — Bandura's account of how moral self-sanctions get switched off
 - [[Moral situation research]] — the situationist literature that counts the obedience experiments among its classics
-- [[Moral situations research]] — the plural-titled page for the same program
 - [[Bystander effect theory Darley Latane]] — helping drops as the number of witnesses rises
 - [[Obedience theory Milgram]] — the same Milgram line from the theory side
 - [[Escape from freedom]] — Fromm's account of why people give independence back

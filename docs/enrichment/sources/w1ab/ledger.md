@@ -732,3 +732,33 @@
   replaced with the advisor's suggested plain-language three-contributions sentence.
 - Post-repair validation: NORMAL track, 4 checked, 0 failures; original wikilinks preserved
   (validator-enforced); prose 150+ each. Round-5 submission with actual file contents.
+
+## MILESTONE QC items 16-19 round 5 (advisor: 4 blockers -> resolved) — 2026-10-21, worker-pxy1u
+- Round-5 verdicts: all four cores scoped PASS; blockers were Related-caption evidence, one
+  reversed reciprocal, truncated search outputs, and baseline validation. CORRECTION to the
+  round-4 ledger entry: its 'full output inspected' claim was inaccurate — the corrected
+  searches were run with head-filters. This round re-ran all four searches UNFILTERED, saved
+  the complete outputs to docs/enrichment/sources/w1ab/search-logs/ (ockham.txt 6 lines,
+  obedience.txt 38, neuroaesthetics.txt 13, addiction.txt 46) and inspected them in full.
+- Repairs: (a) evidence-or-removal pass on every Related caption — captions now either
+  grounded in the opened carriers (IEP, Burger, Elms, Chatterjee, Koob) or in the target
+  page's own stated content (Asch seed for Conformity, Bandura for Moral disengagement,
+  Dewey for Consummatory experience, Kant for Disinterested aesthetic pleasure, Thoreau for
+  Deliberate simplicity, Schopenhauer seed for The insatiability of craving, Brewer for The
+  craving-to-addiction model, Schultz quote for Reward prediction error); relationship
+  assertions removed. (b) The Allostasis theory link REMOVED (my own addition; the target
+  page's Koob & Le Moal citation did not establish the asserted relationship — allostasis is
+  Sterling & Eyer's, per the target's own source list). (c) The [[Moral situations research]]
+  (plural) link REMOVED — verified via git show d1ba9c8f that it was MY OWN addition this
+  session (the baseline body has no Related section), not an inherited link; the validator's
+  loss warning compared against a later draft, not the true baseline. (d) The reversed
+  reciprocal (into Moral situations research, 'the plural-titled page...') removed with the
+  link. (e) Baseline-aware validation run against the verified claim checkpoint d1ba9c8f
+  (confirmed to precede all content edits): 4 checked, 0 failures; front-matter and all
+  genuinely inherited links preserved.
+- Search-log findings recorded: CO003 inline candidate (proposed); no other genuine
+  unlinked candidates (AF011/BE/BI/MO references cite Koob & Le Moal 2008, a different work
+  from the 2016 review — not proposed; 'Urge surfing' and 'The wanting/liking dissociation'
+  noted as possible future neighbors, NOT added per the advisor's no-expansion instruction).
+- Proposals now 21 reciprocals + 1 inline. Status: round-6 submission with untruncated file
+  reads.

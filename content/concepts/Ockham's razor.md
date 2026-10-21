@@ -27,11 +27,11 @@ The entry adds a caution: the assumption that the world is maximally simple is i
 
 ## Related concepts
 
-- [[Parsimony]] — the methodological virtue the razor turns into a rule for choosing between theories
+- [[Parsimony]] — the virtue the razor's definition names first: parsimony
 - [[Simplicity]] — the broader value the razor applies to theory choice
 - [[Simplicity as practice]] — the compendium's treatment of simplicity as a practice
-- [[Deliberate simplicity]] — the same simplicity value applied to living: Thoreau cutting life to essentials
-- [[Inference to the best explanation]] — the abduction the razor constrains: prefer the simpler adequate explanation
+- [[Deliberate simplicity]] — Thoreau's practice of fronting only the essential facts of life
+- [[Inference to the best explanation]] — the compendium's page on choosing the best explanation
 
 ## Sources
 
