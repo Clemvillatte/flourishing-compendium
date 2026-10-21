@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 78** — Build self-maintenance: ongoing practice and adaptation
 
-Self-development is not a one-time achievement; it requires ongoing maintenance, adaptation to changing circumstances, and retention of what works. This is the variation-selection-retention loop applied to selfhood.
+Aristotle grounds the ongoing work in how character is built at all:
 
-**Plain words** Self-development isn't a renovation you finish; it's maintenance, like a house. Practices that worked at thirty need adjusting at forty-five. What you build, you also have to keep — and adapt, as circumstances change and you change. There's no "done."
+> For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
 
-*For example:* The morning routine that saved your sanity in your twenties — run, journal, conquer — with two kids becomes a cruel joke. It's not that the practice failed; the life changed. Maintenance means redesigning the practice for the life you actually have now.
+(Aristotle, Nicomachean Ethics II.1, 1103a-b, Ross translation; [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
+
+The same chapter derives the word itself from practice: moral virtue comes about as a result of habit, and ethike is formed by a slight variation from ethos, habit (NE II.1). If the self is built the way a craft is built, its maintenance is also continuous; the passage gives the builder no finishing line either. The compendium's variation-selection-retention loop in the seed statement is that idea in modern dress: practices are tried, kept if they work, redesigned when the life changes.
+
+**Plain words**
+The habit framing says the practice is the thing being maintained, not the result. A routine that worked at thirty is not a failure at forty-five; it is a habit that no longer fits the current shape of the life. The maintenance move is redesign: keep the function the practice served, change its form to fit the life you actually have.
+
+*For example:* Imagine the morning routine that carried you through your twenties, run, journal, conquer, and the version with two kids that has to be redesigned rather than abandoned. Maintenance is the redesign.
+
+## Sources
+
+- Aristotle, Nicomachean Ethics II.1 (1103a-b), W.D. Ross translation — [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html)
+
 ## Psychology parallels
 
 - **Self-development requires ongoing practice**, like physical fitness, selfhood requires maintenance (Ericsson et al., 1993; McAdams, 2001)
