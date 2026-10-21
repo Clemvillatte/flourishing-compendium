@@ -423,3 +423,6 @@ QC-closed).
 - Fan et al. 2002 abstract blockquote EXACT vs the opened hosted PDF.
 - w1d late-session spot check: 6/6 pages PASS (Attentional control theory, Attention
   restoration, Arousal regulation, Attentional bias research, Attachment theory, ANT).
+
+### w1h "Self-concordance theory" — quote fidelity PASS (verification pass)
+- Sheldon & Elliot 1999 abstract sentences EXACT vs the opened PubMed record (10101878).
