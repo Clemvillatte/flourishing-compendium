@@ -29,7 +29,7 @@ A 2025 review by Norbert Meskó in Archives of Sexual Behavior contextualizes th
 
 ### In everyday life
 
-Illustrative application, not a reported study: the theory would read a courtship in which one partner waits for commitment before sex and the other presses for it as a negotiation over the price of a valued resource, with the waiting partner as seller. The reading is the theory's proposal, contested as above.
+Illustrative application, not a reported finding: within its heterosexual marketplace framing, the model would interpret a woman seeking commitment before sex and a man seeking sexual access as an exchange involving different resources. The Rudman-Fetterolf-Sanchez challenge above concerns the female-control claim, not every proposition of the theory.
 
 ### In the compendium
 

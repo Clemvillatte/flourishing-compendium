@@ -57,3 +57,12 @@ Verdict: REPAIRS REQUIRED on all five; all applied in one correction pass:
 - Sexual Economics Theory: Wikipedia polemic replaced with the Rudman, Fetterolf & Sanchez 2013 empirical challenge (author abstract via efetch, raw-verified: "The data did not support FCT's argument..."); pricing blockquote given own abstract link; labelled illustrative application added; SO019 and SO042 glosses repaired.
 - Baseline-aware validation of all five pages vs 30472d506: 5 checked, 0 failed.
 Advisor's standing diagnosis recorded: the recurring failure mode is invented connective prose around verified quotations — checks now target glosses before commit.
+
+## Milestone QC closing round (items 6-10, advisor, 2026-10-21 ~T+32Z)
+
+Advisor verdict: items 6-7 scoped PASS; items 8-10 remaining narrow repairs applied exactly as directed:
+- Self-validation theory: example ending replaced with the model-scoped sentence ("In the model, greater perceived validity of that thought gives it more influence on her overall evaluation of the interview."); AF083 bridge removed ("discusses how culture shapes feeling"); ELM gloss reduced to a comparison without the authorship claim (compendium-as-evidence rule).
+- Sensorimotor contingency theory: PDF checks completed — the plate-turning example is on printed p. 962 (within the target article, PDF page 24 of 94) and the locator added; the "The experience of seeing occurs..." sentence verified verbatim in full on the abstract (p. 939; the p. 946 occurrence is a DIFFERENT sentence, "when the outside world is being probed according to the visual mode" — locator corrected to p. 939).
+- Sexual Economics Theory: illustration replaced with the advisor's bounded heterosexual-framing version; the Rudman-Fetterolf-Sanchez challenge explicitly limited to the female-control claim.
+Baseline validation of all five pages vs 30472d506: 5 checked, 0 failed (unpiped).
+Milestone CLOSED: items 6-10 complete.

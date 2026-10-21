@@ -23,12 +23,12 @@ The theory's claim about how validation happens:
 
 ### In everyday life
 
-Illustrative scenario, not a reported experiment: after a job interview a candidate thinks "I answered that question badly". The theory's claim is that the consequence of that thought for her overall judgment depends on how valid she perceives it to be, not on whether it is accurate.
+Illustrative scenario, not a reported experiment: after a job interview a candidate thinks "I answered that question badly". In the model, greater perceived validity of that thought gives it more influence on her overall evaluation of the interview.
 
 ### In the compendium
 
 - [[SO044 — Treat the WEIRD critique as a standing corrective]] — asks whether findings generalize beyond the WEIRD lab
-- [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]] — culture shapes feeling, which the affective-validation route runs through
+- [[AF083 — Recognise affect's sociocultural interfaces — culture shapes what you feel and how]] — discusses how culture shapes feeling
 - [[K008 — Expect the collapse of meaning; do not waste it]] — Nishitani on honesty and action
 - [[M055 — End where the tradition ends — rooted, singing, serving, renewed]] — the Mesoamerican sense that many life threads are held by unseen hands
 
@@ -42,7 +42,7 @@ Sociocultural · Psychological science
 [[M055 — End where the tradition ends — rooted, singing, serving, renewed]]
 ## Related concepts
 
-- [[Elaboration Likelihood Model]] — comparison: Petty's model with Cacioppo of when argument quality dominates thinking
+- [[Elaboration Likelihood Model]] — comparison: a persuasion model of when argument quality dominates thinking
 - [[Heuristic-Systematic Model of Persuasion]] — comparison: another persuasion framework with a role for metacognition
 
 ## Sources

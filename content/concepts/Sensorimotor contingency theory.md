@@ -17,13 +17,13 @@ The theory appeared in that 2001 Behavioral and Brain Sciences paper, with the a
 
 ### Core claims
 
-The contingencies themselves are rules of interdependence between movement and stimulation, which the paper defines as "the structure of the rules governing the sensory changes produced by various motor actions" (p. 941). Of seeing itself, the paper states: "The experience of seeing occurs when the organism masters what we call the governing laws of sensorimotor contingency" (p. 946).
+The contingencies themselves are rules of interdependence between movement and stimulation, which the paper defines as "the structure of the rules governing the sensory changes produced by various motor actions" (p. 941). Of seeing itself, the paper's abstract states: "The experience of seeing occurs when the organism masters what we call the governing laws of sensorimotor contingency" (p. 939).
 
 > "We suggest that the basic thing people do when they see is that they exercise mastery of the sensorimotor contingencies governing visual exploration." ([same paper](https://rctn.org/bruno/public/papers/oregan-noe01.pdf), p. 970)
 
 ### In everyday life
 
-The paper's own example: "If you look at a plate and turn it, you can become aware of the way its profile becomes elliptical." Knowing that the elliptical profile is what a round plate yields when turned is the kind of mastery the theory says seeing is.
+The paper's own example: "If you look at a plate and turn it, you can become aware of the way its profile becomes elliptical" (p. 962). Knowing that the elliptical profile is what a round plate yields when turned is the kind of mastery the theory says seeing is.
 
 ### In the compendium
 
