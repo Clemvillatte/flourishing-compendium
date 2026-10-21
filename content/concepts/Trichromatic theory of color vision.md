@@ -5,7 +5,7 @@ type: "concept"
 title: "Trichromatic theory of color vision"
 file: "Trichromatic theory of color vision"
 tags: ["theory", "psych/biophys"]
-navigation: { "track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": [] }
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
 **Trichromatic theory of color vision** — Young, Helmholtz — three cone types encode color from the ratio of their activation.
 
@@ -17,7 +17,7 @@ Hermann von Helmholtz later developed the suggestion into a quantitative theory,
 
 > "Red light stimulates the red sensitive fibres strongly and the other two weakly, giving the sensation red; green light stimulates the green sensitive fibres strongly and the other two weakly giving the sensation green; blue light stimulates the blue sensitive fibres strongly and the other two weakly, giving the sensation blue" (Helmholtz, Handbuch der physiologischen Optik, 1911, as quoted in Zeki 2022, PMC)
 
-In modern terms the three receptor classes are the cone photoreceptors, called S, M and L for their peak sensitivity at short, middle and long wavelengths. Any light, however complex its spectrum, is encoded at the retina as three values, and the brain interprets the pattern of their relative activation as a color. Young's postulate of a limited number of receptors awaiting confirmation — the theory's receptor types were only conclusively identified in the twentieth century.
+In modern terms the three receptor classes are the cone photoreceptors, called S, M and L for their peak sensitivity at short, middle and long wavelengths. Any light, however complex its spectrum, is encoded at the retina as three values, and the brain interprets the pattern of their relative activation as a color. Young's postulate stood as an inference from color matching for more than a century: the three receptor classes were only conclusively identified in the twentieth century.
 
 The theory's philosophical interest for the compendium is what it implies about perception: the eye transmits a small set of ratios, not the world. What arrives as continuous becomes finite at the receptor, and color is the brain's construction from those three numbers — a concrete case for the principle that perception is an interpretation, not a copy.
 
