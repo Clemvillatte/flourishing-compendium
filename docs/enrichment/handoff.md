@@ -29,3 +29,7 @@
   ESTIMATES, not clock readings; the last measured UTC before them was
   06:42:28 (curl + local date agreed). Retain only that reading and the
   fresh reading appended below as the session's measured chronology.
+- Fresh measured clock: 06:45:40 UTC (curl github + local date agreed).
+- SO050 full paragraph read back (awk range display): source paragraph
+  correctly distinguishes the consulted-but-removed definition from the
+  retained Abstract-locator quote; agrees with the final page.
