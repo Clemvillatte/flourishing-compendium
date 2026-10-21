@@ -92,3 +92,7 @@
 ## R108 — Practise deliberative community
 - Opened (excerpts): SEP Democracy (Habermas two-track), Involve, Fishkin & Luskin 2005, Critical Review critique of deliberative polling, World Happiness Report 2019 ch.3, Ghana thesis summarising Flavin & Keane 2012. Habermas 1996, Sandel 2009, Bohman 1996, Flavin & Keane full text unread.
 - Seed psychology parallel "civic participation and well-being": Flavin & Keane run life satisfaction -> participation (correlational, non-conflictual forms only); wellbeing benefit of participating not shown. "Your voice matters" is a value claim.
+
+## R113 — Practise relational solidarity
+- Opened (excerpts): NDPR review of Scholz 2008, Cambridge chapter on political solidarity, Rorty 1989 excerpts (Pitt PDF, Goodreads quote), ERIC full text of Foster-Bey 2008 (CIRCLE WP62). Scholz 2008, Arendt 1958 unread.
+- FLAG: Foster-Bey 2008 is about demographic determinants of civic engagement, not well-being; seed label "Collective action and well-being" unsupported by it. "Not charity" contrast not found in sources: page gloss.
