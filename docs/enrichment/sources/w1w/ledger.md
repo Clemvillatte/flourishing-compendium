@@ -353,3 +353,16 @@
   rule out, habit-formation alternative pointed to the compendium's
   habit pages without asserting findings.
 - Normal validator: ok. State recorded (done count 23).
+
+## Item 26: Samskara (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: latent-impressions line with Wikipedia link + Related [[Y024]] +
+  Wikipedia source line. Seed prose and its links kept; Wikipedia line
+  kept in Sources.
+- Carriers opened: (1) Yoga-sutra 4.9 in Rama Prasada's translation
+  (Yoga-sutras with Vyasa and Vachaspati Mishra, wisdomlib) — verified
+  verbatim the sutra and its attribution. (2) Khajjaniya Sutta SN 22.79,
+  trans. Thanissaro (accesstoinsight) — verified verbatim the full
+  fabrications passage. Two grammars framing (deposited vs active) is
+  this page's reading of the two quotes, marked as such.
+- Normal validator: ok. State recorded (done count 24).
