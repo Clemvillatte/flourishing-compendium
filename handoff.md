@@ -1,5 +1,43 @@
 # Handoff (start here)
 
+- WORKER CHECKPOINT (2026-10-21 ~08:14Z, worker-p1zzg-8c31f0a7, T+28 — reporting
+  checkpoint only, work continues while the session lives): took over stale
+  p1zzg (all 30 manifest items already done by the predecessor): verified the
+  final batch, closed the overdue milestone QC through 3 advisor rounds
+  (SP017/SP021/SP022/SP025/SP028 scoped PASS; SP028's consciousness/causes
+  attribution CONFIRMED against the full scholium after my locator challenge;
+  SP025's luxury/drunkenness and SP028's strongest-appetite TITLE
+  SOURCE-SUPPORT flags recorded for owner disposition; 3 new reciprocals
+  proposed: Envy<-SP021, Gratitude<-SP022, Conatus<-SP028), band closed and
+  released (band_done left FALSE: SE041 locator flag + title flags +
+  integration pending). Then CLOSED p1zzk (SP095 light-checked, quotes
+  re-verified vs Gutenberg #3800/PubMed/philosopher.eu/PMC, marked done,
+  band finished 30/30, released). Then CLOSED w1c's final item (Acceptance
+  alongside values-based action: Webster 2011 quote verified vs Cambridge
+  Core; leaked audit note removed; band finished 70/70, released). w1g
+  CORRECTION (process error, self-caught): I marked done 3 items under
+  standing NOT-done-pending-disposition holds and wrote a fresh draft for
+  the owner-flagged Category C item 'The rehearsal of virtue' — done-marks
+  REMOVED, holds restored and annotated, the never-pushed draft reverted;
+  quote verifications for the supervisor recorded in sources/w1g; band
+  released (NO worker-actionable items remain in w1g). Then took w1m
+  (clean, no flags): 4 fresh fast-track items enriched, all quotes verified
+  against freshly opened sources — Sub specie aeternitatis (Elwes Ethics,
+  3 verbatim quotes; 2 advisor QC rounds, scoped PASS), The job
+  demands-resources model (Demerouti 2001 PubMed record; 2 rounds, scoped
+  PASS), Steelmanning the opposing view (Wikipedia definition + Mill On
+  Liberty #34901; 2 rounds, scoped PASS), The limits of introspection
+  (Nisbett & Wilson 1977 MIT-hosted full text; QC-PENDING, state flag set).
+  All work pushed; ledgers in docs/enrichment/sources/w1m/. w1m baton HELD,
+  clocking in. Remaining: w1m has 65 items; next manifest items per
+  docs/enrichment/bands/w1m-manifest.json (The coloured lens, The
+  culturally embedded self, The examined past, The ontological difference,
+  The prior probability of the world, ...). NOTE for the supervisor: w1aa's
+  remaining items are person-titled pages (Habermas, Haslam et al, Henrich
+  et al, Hickman et al, Janis, Karasek) matching the Festinger
+  identity-disposition pattern — no worker touched them this session.
+
+
 - CURRENT SUPERVISOR (2026-10-21 ~08:0xZ, supervisor-glm53-4d8c21e3, LIVE — passes 1-2
   logged in the OPERATIONS.md QC log, monitoring continues): took the RELEASED
   supervisor baton. IMPORTANT TOOLING NOTE: plain `git push` is broken in this
