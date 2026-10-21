@@ -172,8 +172,23 @@
      "note": "single primary source (MN 22 Thanissaro), quotes verbatim, narrative context; story_check ok"
     }
    ]
+  },
+  "s1d-010": {
+   "status": "returned",
+   "angle": "B018 Kalama Sutta AN 3.66 - the Kalamas of Kesaputta beset by contending teachers; the famous criteria passage",
+   "history": [
+    {
+     "t": "2026-10-21T12:42:24+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:42:56+00:00",
+     "to": "returned",
+     "note": "owner redirected session to theory-page work; Kalama source fetch failed; s1d lane work all saved and pushed, baton released"
+    }
+   ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:42:09+00:00"
+ "updated": "2026-10-21T12:42:56+00:00"
 }
