@@ -26,11 +26,11 @@
   "MO038",
   "MO039",
   "MO042",
+  "MO055",
   "MO043",
   "MO044",
   "MO052",
-  "MO053",
-  "MO055"
+  "MO053"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,14 +43,14 @@
   "M010": "HOLD for supervisor: protected alias [[Perspective-taking|Perspective-taking's depolarizing effects]] is a substantive unverified claim (Galinsky research not opened); alias markup preserved; verify or disposition like AF050's Rumination alias",
   "M044": "M044: protected alias [[That of God in everyone|That of God in everyone]] has no concept page (unresolved target); markup preserved; supervisor decision needed",
   "MO042": "Reopened for QC: QC correction: advisor round 1 FAIL (untested prediction stated as strict rule; truncated quote; bibliography and concept reads pending)",
-  "MO043": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
-  "MO044": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
-  "MO052": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
-  "MO053": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)",
+  "MO043": "Reopened for QC: milestone QC round-2 narrow repairs (advisor)",
+  "MO044": "Reopened for QC: milestone QC round-2 narrow repairs (advisor)",
+  "MO052": "Reopened for QC: milestone QC round-2 narrow repairs (advisor)",
+  "MO053": "Reopened for QC: milestone QC round-2 narrow repairs (advisor)",
   "MO055": "Reopened for QC: QC milestone repair round (items 2-6 advisor findings)"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-21T01:45:28+00:00",
+ "updated": "2026-10-21T01:49:03+00:00",
  "band_done": false
 }

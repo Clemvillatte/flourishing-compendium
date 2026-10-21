@@ -12,9 +12,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 43** — Recognise the role of reward in habit formation: immediate rewards work
 
-In five studies with an internal meta-analysis, Woolley and Fishbach compared the rewards that set a goal with the rewards that accompanied the work: "whereas delayed rewards may motivate goal setting and the intentions to pursue long-term goals, a meta-analysis of our studies finds that immediate rewards are more strongly associated with actual persistence in a long-term goal" ([Woolley & Fishbach, 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/27899467/)). In their data, "immediate rewards (e.g., enjoyment) predicted current persistence at New Year's resolutions whereas delayed rewards did not (Study 1)"; the same pattern held for single sessions of studying and exercising, for one-week and three-month time frames, and for anticipated as well as materialized rewards. The finding concerns persistence in goal-related activities.
+In five studies with an internal meta-analysis, Woolley and Fishbach examined how immediate and delayed rewards were associated with persistence in goal-related activities: "whereas delayed rewards may motivate goal setting and the intentions to pursue long-term goals, a meta-analysis of our studies finds that immediate rewards are more strongly associated with actual persistence in a long-term goal" ([Woolley & Fishbach, 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/27899467/)). In their data, "immediate rewards (e.g., enjoyment) predicted current persistence at New Year's resolutions whereas delayed rewards did not (Study 1)"; the same pattern held for single sessions of studying and exercising, for one-week and three-month time frames, and for anticipated as well as materialized rewards. The finding concerns persistence in goal-related activities.
 
-Separately, in an interview about forming habits, Stanford behavior scientist BJ Fogg gave the reward its place in the act:
+Separately, in an interview about forming habits, Stanford behavior scientist BJ Fogg offered habit-building advice on NPR:
 
 > "It's emotion. The more intense the positive feelings associated with the habit, the quicker it becomes ingrained in your life." (BJ Fogg, [NPR Life Kit, 10 February 2026](https://www.npr.org/transcripts/nx-s1-5694679-e1))
 
