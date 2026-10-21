@@ -31,7 +31,7 @@ MN 10 supplies the method. Thanissaro's translation calls it "the direct path fo
 
 ## Stories
 - [[ST399 — In the Seen, Only the Seen|399. In the Seen, Only the Seen]]
-
+- [[ST401 — Dipa Ma Watches Anger Arise and Pass|401. Dipa Ma Watches Anger Arise and Pass]]
 ## Psychology parallels
 
 - **[[Decentering|Decentering and reperceiving]]**, shifts in perspective toward experience (Bernstein et al., 2015; Shapiro et al., 2006)

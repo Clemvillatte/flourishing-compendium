@@ -658,9 +658,14 @@
      "t": "2026-10-21T12:28:46+00:00",
      "to": "qc_pending",
      "note": "item 2 drafted; all 16 body quotes verified vs opened Tricycle/dipama/Wikipedia raw HTML; distinct angle vs ST095 recorded; checker 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:30:22+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes verified against opened Tricycle + dipama.com pages"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:28:46+00:00"
+ "updated": "2026-10-21T12:30:22+00:00"
 }

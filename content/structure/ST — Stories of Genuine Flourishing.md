@@ -145,6 +145,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST379 — The Bottom of the Pail]]
     - [[ST387 — Ciñcā Accuses the Buddha Before the Assembly]]
     - [[ST399 — In the Seen, Only the Seen]]
+    - [[ST401 — Dipa Ma Watches Anger Arise and Pass]]
   - [[ST-S02.07 — II.7 Ethics and Relations]]
     - [[ST084 — Sigālaka's Six Directions]]
     - [[ST085 — The Quarrel at Kosambī]]
