@@ -1,99 +1,100 @@
 {
-  "band": "kpr",
-  "worker": "worker-kpr-special-contemplative",
-  "type": "kernel-special (owner assignment 2026-10-21)",
-  "items": [
-    {
-      "id": "K409",
-      "title": "Non-sleep deep rest (NSDR)",
-      "status": "done",
-      "sources": [
-        "https://www.hubermanlab.com/nsdr",
-        "https://pubmed.ncbi.nlm.nih.gov/11958969/",
-        "https://pubmed.ncbi.nlm.nih.gov/40373021/",
-        "https://www.youtube.com/watch?v=KHIbgSN2qAU"
-      ],
-      "video_verified": "oembed: '10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman', Huberman Lab Clips"
-    },
-    {
-      "id": "K101",
-      "title": "Open monitoring",
-      "status": "done",
-      "note": "enrich with protocol + evidence + video",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/18329323/",
-        "https://pubmed.ncbi.nlm.nih.gov/24135553/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
-        "https://www.youtube.com/watch?v=u4dvONT-DNw"
-      ],
-      "video_verified": "oembed: 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath"
-    },
-    {
-      "id": "K161",
-      "title": "Loving-kindness meditation",
-      "status": "done",
-      "note": "enrich with protocol + evidence + video",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/26579061/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704778/",
-        "https://www.youtube.com/watch?v=3STenfbpZbI"
-      ],
-      "video_verified": "oembed: 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach', Tara Brach"
-    },
-    {
-      "id": "K410",
-      "title": "Physiological sigh (cyclic sighing)",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/36630953/",
-        "https://stanmed.stanford.edu/cyclic-sighing-stress-relief/",
-        "https://www.youtube.com/watch?v=rBdhqBGqiMc"
-      ],
-      "video_verified": "oembed: 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman"
-    },
-    {
-      "id": "K100",
-      "title": "Breath anchoring",
-      "status": "done",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/18329323/",
-        "https://pubmed.ncbi.nlm.nih.gov/23538911/",
-        "https://www.youtube.com/watch?v=ausxoXBrmWs"
-      ],
-      "video_verified": "oembed: '10 Minute Guided Meditation for Focus | Declutter The Mind'"
-    },
-    {
-      "id": "K103",
-      "title": "Noting and labeling",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/17576282/",
-        "https://www.youtube.com/watch?v=fd_-W0LW-a4"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    },
-    {
-      "id": "K162",
-      "title": "Self-compassion practice",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/22796446/",
-        "https://www.youtube.com/watch?v=p7z3ybkn9DU"
-      ],
-      "status": "done",
-      "video_verified": "oembed: see ledger"
-    }
-  ],
-  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
-  "done": [
-    "K409",
-    "K101",
-    "K161",
-    "K410",
-    "K100",
-    "K102",
-    "K103",
-    "K162"
-  ],
-  "in_progress": null,
-  "updated": "2026-10-21T11:06:08+00:00"
+ "band": "kpr",
+ "worker": "worker-kpr-special-contemplative",
+ "type": "kernel-special (owner assignment 2026-10-21)",
+ "items": [
+  {
+   "id": "K409",
+   "title": "Non-sleep deep rest (NSDR)",
+   "status": "done",
+   "sources": [
+    "https://www.hubermanlab.com/nsdr",
+    "https://pubmed.ncbi.nlm.nih.gov/11958969/",
+    "https://pubmed.ncbi.nlm.nih.gov/40373021/",
+    "https://www.youtube.com/watch?v=KHIbgSN2qAU"
+   ],
+   "video_verified": "oembed: '10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman', Huberman Lab Clips"
+  },
+  {
+   "id": "K101",
+   "title": "Open monitoring",
+   "status": "done",
+   "note": "enrich with protocol + evidence + video",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/18329323/",
+    "https://pubmed.ncbi.nlm.nih.gov/24135553/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
+    "https://www.youtube.com/watch?v=u4dvONT-DNw"
+   ],
+   "video_verified": "oembed: 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath"
+  },
+  {
+   "id": "K161",
+   "title": "Loving-kindness meditation",
+   "status": "done",
+   "note": "enrich with protocol + evidence + video",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/26579061/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704778/",
+    "https://www.youtube.com/watch?v=3STenfbpZbI"
+   ],
+   "video_verified": "oembed: 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach', Tara Brach"
+  },
+  {
+   "id": "K410",
+   "title": "Physiological sigh (cyclic sighing)",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+    "https://stanmed.stanford.edu/cyclic-sighing-stress-relief/",
+    "https://www.youtube.com/watch?v=rBdhqBGqiMc"
+   ],
+   "video_verified": "oembed: 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman"
+  },
+  {
+   "id": "K100",
+   "title": "Breath anchoring",
+   "status": "done",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/18329323/",
+    "https://pubmed.ncbi.nlm.nih.gov/23538911/",
+    "https://www.youtube.com/watch?v=ausxoXBrmWs"
+   ],
+   "video_verified": "oembed: '10 Minute Guided Meditation for Focus | Declutter The Mind'"
+  },
+  {
+   "id": "K103",
+   "title": "Noting and labeling",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/17576282/",
+    "https://www.youtube.com/watch?v=fd_-W0LW-a4"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  },
+  {
+   "id": "K162",
+   "title": "Self-compassion practice",
+   "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/22796446/",
+    "https://www.youtube.com/watch?v=p7z3ybkn9DU"
+   ],
+   "status": "done",
+   "video_verified": "oembed: see ledger"
+  }
+ ],
+ "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
+ "done": [
+  "K409",
+  "K101",
+  "K161",
+  "K410",
+  "K100",
+  "K102",
+  "K103",
+  "K162",
+  "K194"
+ ],
+ "in_progress": null,
+ "updated": "2026-10-21T11:06:49+00:00"
 }
