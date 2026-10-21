@@ -1422,3 +1422,11 @@ quotations of that page — not whole-page or whole-band certification.
 Predecessor-only evidence (AT039's Berman et al. 2008 claims; the ten
 supervisor scoped-verification notes) is explicitly excluded from this
 session's certification and remains available for future verification.
+
+### Verdict (2026-10-21, advisor round 3)
+
+32 scoped p1h flag dispositions — advisor round-3 scoped PASS. Original
+allegations preserved; targeted repairs and source comparisons documented.
+Not whole-page or whole-band certification; predecessor-only evidence
+excluded. Clearance limited to the specific allegation components and
+quotations actually checked.
