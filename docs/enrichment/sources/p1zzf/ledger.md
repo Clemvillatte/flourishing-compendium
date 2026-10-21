@@ -6,3 +6,7 @@
 ## PP055 — Build a creative identity
 - Opened: Tierney & Farmer 2002 abstract (OpenAIRE), Haase et al. 2018 meta-analysis (T&F, fetched), Beghetto 2006 abstract (scispace listing), 2025 Springer metacognition paper (excerpt).
 - Seed "confidence is built through repeated engagement, not praise" unsupported (Beghetto: teacher feedback positively related) -> removed. "Predicts more than talent does" removed. Beghetto 2006 is about creative self-efficacy, not identity: flagged next to wikilink. Stories and reflections preserved.
+
+## R030 — Practise kotahitanga
+- Opened: Te Aka Māori Dictionary entry (search excerpt), Ako Aotearoa 2025 resource (fetched, quotes verbatim), Te Ara Kotahitanga movements (search excerpt), Bandura 2001 (search excerpt of PDF). Mead 2003 not read (catalogue record only). Aristotle/Hegel parallels untouched, unopened.
+- Seed "unity without uniformity" is not a quotation from any opened source; page says so. Ako text also says "one mind and in unison"/"consensus" — tension disclosed. Added the 1892-1902 Kotahitanga Parliament history.
