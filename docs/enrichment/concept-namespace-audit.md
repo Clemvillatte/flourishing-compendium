@@ -340,3 +340,9 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   opening replaced with a source-bounded statement. Source-aligned prose accepted; HELD OUT
   OF unconditional done pending supervisor disposition on the heading.
 
+- The coloured lens — UPDATE (2026-10-21, worker-w1m-5f8e3a2b, w1m, QC round 3): the metaphor-identity
+  check is RESOLVED (citing contexts read: AT020/AT070/AT071/CO054/CO081 concern state-colored
+  noticing and recall, consistent with the documented moods metaphor as referent; advisor round 3
+  PASS). The entry above is retained for history but is not an active hold; only the inherited
+  Buddhism/Right View attribution remains unverified (stated on the page as a compendium link,
+  not as established).

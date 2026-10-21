@@ -11,7 +11,7 @@ In [Ennead IV.8.1](https://archive.org/details/plotinus-ennead-iv), Plotinus des
 
 > "Often I have woken up out of the body to my self and have entered into myself, going out from all other things; I have seen a beauty wonderfully great and felt assurance that then most of all I belonged to the better part; I have actually lived the best life and come to identity with the divine [...] Then after that rest in the divine, when I have come down from Intellect to discursive reasoning, I am puzzled how I ever came down, and how my soul has come to be in the body when it is what it has shown itself to be by itself, even when it is in the body." (Plotinus, Ennead IV.8.1, Armstrong translation, [Loeb Classical Library](https://archive.org/details/plotinus-ennead-iv); passage abbreviated)
 
-The passage describes an inward ascent followed by descent to discursive reasoning. In the same treatise the soul "though it is divine and comes from above, enters into the body" (Ennead IV.8, Armstrong translation, [Loeb](https://archive.org/details/plotinus-ennead-iv)).
+The passage describes an inward ascent followed by descent to discursive reasoning ([Loeb Classical Library](https://archive.org/details/plotinus-ennead-iv)). In the same treatise the soul "though it is divine and comes from above, enters into the body" (Ennead IV.8, Armstrong translation, [Loeb](https://archive.org/details/plotinus-ennead-iv)).
 
 ### In the compendium
 
