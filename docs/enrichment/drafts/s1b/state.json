@@ -127,7 +127,7 @@
    ]
   },
   "s1b-006": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D133: Liezi sailor and gulls, Book II pp49-50, Giles1912; possession disrupts the relation, distinguish Chang Chan commentary from narrative; no zoological mindreading claim",
    "history": [
     {
@@ -145,17 +145,12 @@
      "note": "Complete parable and exact quotation saved; final independent narrative/commentary attribution and no-invented-intent check requested"
     },
     {
-     "t": "2026-10-21T12:06:04+00:00",
-     "to": "qc_pending",
-     "note": "advisor QC round-2 repairs applied: narrow target-angles, no attempted-capture, evidence ledger updated to Wikisource carrier; awaiting round-3 disposition"
-    },
-    {
-     "t": "2026-10-21T12:07:06+00:00",
-     "to": "qc_pending",
-     "note": "advisor QC round-3 applied: gist-first opening restored, DDJ quote removed, John Murray imprint removed from public text"
+     "t": "2026-10-21T12:08:19+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 2-4 passed; citation compliance repaired; quotes verified against opened scans"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:07:06+00:00"
+ "updated": "2026-10-21T12:08:19+00:00"
 }
