@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 9,
+ "revision": 10,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -79,6 +79,24 @@
    "link": "SE005",
    "why": "A principle on the self being formed in relation, alongside the narrative account of the self",
    "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE005 occurrence; grounded in the opened MIT full text of Markus & Kitayama 1991 (p. 224 abstract sentence quoted verbatim; pp. 226-227 construal definitions paraphrased without quotation marks)."
+  },
+  {
+   "into": "The examined life",
+   "link": "SE014",
+   "why": "A principle on auditing one's values as the practical form of the examined life",
+   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording)."
+  },
+  {
+   "into": "Values",
+   "link": "SE014",
+   "why": "A principle on auditing one's values as the practical form of the examined life",
+   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording)."
+  },
+  {
+   "into": "Authenticity",
+   "link": "SE014",
+   "why": "A principle on auditing one's values as the practical form of the examined life",
+   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording)."
   }
  ]
 }
