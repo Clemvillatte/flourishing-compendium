@@ -20,9 +20,31 @@ The aim is not to make the thought go away — it's to stop adding the struggle 
 
 Adapted from Tolin, *Doing CBT* (2nd ed.), Guilford, 2024, ch. 15, printed pp. 385–403 (worksheet at p. 403).
 
+### Evidence
+
+The kernel's logic has been tested against its great rival, suppression. In a controlled study, participants were assigned to suppress personally relevant intrusive thoughts, accept them, or merely monitor them. The suppression group could not push the thoughts away and felt more distress after trying, while the acceptance group felt less discomfort afterward, even though the thoughts came just as often. The same paper found that people who naturally accept their intrusive thoughts are less obsessional, less depressed, and less anxious than natural suppressors. A related line of work in obsessive-compulsive disorder found distress was higher after suppression than after acceptance or focused distraction. Honest framing: acceptance reduces the struggle, not the frequency, and most of these studies are small laboratory analogues rather than clinical trials.
+
+### A guided version
+
+A classic guided version is the [Leaves on a Stream exercise from the ACT Toolkit](https://www.acttoolkit.com/), an eight-minute practice in which thoughts are placed on leaves and allowed to drift past.
+
 ## Operationalises
 
-- [[B090 — Don't suppress — observe kindly|B090 Don't suppress: observe kindly]], [[CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts|CO011 Recognise that thinking can be fused with its content: you can believe your thoughts]], [[AF006 — Accept mixed feelings; do not force them to resolve|AF006 Accept mixed feelings; do not force them to resolve]]
+- [[B090 — Don't suppress — observe kindly|B090 Don't suppress: observe kindly]]
+- [[CO011 — Recognise that thinking can be fused with its content — you can believe your thoughts|CO011 Recognise that thinking can be fused with its content: you can believe your thoughts]]
+- [[AF006 — Accept mixed feelings; do not force them to resolve|AF006 Accept mixed feelings; do not force them to resolve]]
+
+## Related concepts
+
+- [[Cognitive defusion]]
+- [[Acceptance]]
+- [[Detached mindfulness theory Wells]]
+- [[Rumination]]
+## Sources
+
+- [Marcks and Woods (2005), "A comparison of thought suppression to an acceptance-based technique in the management of personal intrusive thoughts: a controlled evaluation", Behaviour Research and Therapy, PubMed](https://pubmed.ncbi.nlm.nih.gov/15701355/)
+- [A systematic review of behavioral and physiological studies of thought suppression, reporting Najmi et al. (2009), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7692269/)
+
 ## Related kernels
 
 - [[K101 — Open monitoring]] (complement — one is general open monitoring, this is the structured targeted version)
