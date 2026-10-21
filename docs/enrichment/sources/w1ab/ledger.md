@@ -1002,3 +1002,6 @@
   recorded here for the next worker as an optional primary upgrade). Related: Nihilism,
   Will to power, Amor fati (navigational captions). Degree 1 — fast-track. Validation
   --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+  - REPAIR: validation round 1 FAILED (lost original wikilink [[E072 — Practise avoiding
+    the nihilist]] — the seed read was truncated before the parallels section); the link
+    restored from the pre-edit file via git show, re-validated ok, fix pushed.

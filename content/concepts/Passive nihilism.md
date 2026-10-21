@@ -30,3 +30,5 @@ Both forms face the same event — the guiding values and ideals are gone. The a
 - [Wikipedia, Nihilism (Nietzsche section)](https://en.wikipedia.org/wiki/Nihilism) — the passive/active distinction and the cultural-phenomenon framing, quoted verbatim; the seed's locus is The Will to Power's notebooks, which the article cites in its discussion
 
 ## Cited in philosophy parallels
+
+- [[E072 — Practise avoiding the nihilist]]
