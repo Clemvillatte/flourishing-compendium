@@ -27,15 +27,20 @@
    ]
   },
   "s1f-002": {
-   "status": "researching",
-   "angle": "P187: Einstein's 1929 telegram reply to Rabbi Goldstein - the awe at lawful harmony kept while the intervening God and the institutional formula are declined; separation of the religious quality from religion",
+   "status": "qc_pending",
+   "angle": "P187: Einstein's 1929 telegram reply - religious feeling without an anthropomorphic God; the reply rejects a God concerned with human fate, the later essay names cosmic religious feeling, Goldstein reads it differently, the silence establishes no further rejection",
    "history": [
     {
      "t": "2026-10-21T12:55:15+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:58:48+00:00",
+     "to": "qc_pending",
+     "note": "round-1 advisor repairs applied: institutional-formula claim removed, comparison narrowed, April date removed, reply identified as Holton's English rendering, citations per sentence, lint spacing findings fixed; story_check ok"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:55:15+00:00"
+ "updated": "2026-10-21T12:58:48+00:00"
 }
