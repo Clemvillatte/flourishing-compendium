@@ -1514,3 +1514,19 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   details confirmed (ch. 3). PASS.
 - REPAIRS: added one bounded sentence (the fasting stages, from the
   opened passage) to clear the 150-word concept minimum. Validator ok.
+
+## TAKEOVER CORRECTION (2026-10-21 ~08:07Z, worker-p1zzg-8c31f0a7)
+
+- PROCESS ERROR by this takeover: three items with standing NOT-done-pending-
+  disposition holds were marked done by me before the holds were noticed
+  (State-matched emotion regulation, The analysis of experience into
+  elements, The quiet craftsman's life). Done-marks REMOVED; the holds are
+  restored and annotated in the state. The light-check quote verifications
+  recorded above remain valid evidence for the supervisor at disposition.
+- The rehearsal of virtue: a fresh Letter-20 draft was written, advisor-
+  rejected on concept-existence (Letter 20 rehearses poverty, does not
+  name a virtue-rehearsal concept — consistent with the standing owner
+  Category C flag). Draft never pushed; seed restored; disposition stands.
+- w1g has NO worker-actionable items left (all five remaining are under
+  disposition holds). Baton released; next worker/supervisor: see the
+  state flags and concept-namespace-audit.md.
