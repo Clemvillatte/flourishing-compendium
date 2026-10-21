@@ -27,5 +27,7 @@
    "from": "worker-kpr-3fcf47d6",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T16:06:01+00:00"
 }
