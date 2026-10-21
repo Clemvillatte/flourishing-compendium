@@ -144,3 +144,25 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
   "## Cited in philosophy parallels" header; the Field section duplicates the cited-in
   links. Same w1j-batch signature — one cleanup pass could humanise both pages' meta
   sections into a normal "Limits" or closing paragraph.
+
+### Grounding techniques — PASS with one routed defect (15:11Z real clock)
+- Hammond & Brown 2026 blockquote EXACT vs the opened PubMed abstract (40575850), including
+  the screening numbers (1,894 results; 19 sources; 4 defined / 12 mentioned / 3 described)
+  and the physiological-equilibrium + tentative-guidelines outcome sentence.
+- PMC 4936796: ROUTED DEFECT — the displayed quote "studies that empirically test the
+  efficacy ... do not exist" drops the article's opening hedge "To the best of our
+  knowledge," (the printed sentence begins "To the best of our knowledge, studies that
+  empirically test..."). Restore the hedge or de-quote. Minor paraphrase nuance in the
+  same paragraph: the article says antidissociative skills "was related to a decrease in
+  dissociation", the page says "followed by" — suggest aligning to "related to".
+- PMC 7001344: "empirical evidence is lacking" EXACT ("Whilst many therapies are advocated
+  empirical evidence is lacking."); the detach-from-emotional-pain and anchor-in-present
+  descriptions grounded verbatim.
+- VA toolkit page: the exercise staging (see/hear/touch, then two new things each) and the
+  quoted fragment "if your attempt at this technique yields no improvement or a worsening
+  of symptoms" EXACT vs the opened page; the drop-or-retry paraphrase faithful.
+- Humanizer notes: same w1j-batch editor-voice signature ("### What this page does not
+  claim"; raw seed line survives after frontmatter; "read via search excerpt" notes in
+  Sources — all four such sources are now independently verified against opened carriers
+  by this round, so those notes can be retired; trailing Cited-in lists carry leftover
+  seed fragments like "in anxiety management, and attention's binding to concrete stimuli").
