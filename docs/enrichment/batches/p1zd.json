@@ -3,7 +3,6 @@
  "done": [
   "A019",
   "A095",
-  "A121",
   "AF001",
   "AF042",
   "AF051",
@@ -32,7 +31,7 @@
   "A117",
   "A118"
  ],
- "in_progress": null,
+ "in_progress": "A121",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -41,10 +40,11 @@
   "A113": "QC-CLOSED 2026-10-21: NE VIII.10-12 opened, all body quotes checked, duplicate removed, contemporary reflection separated; inherited parallels unverified.",
   "A116": "QC-CLOSED 2026-10-21: Rhetoric II.5/NE III.6 opened; quotes checked; hope condition restored, unsupported usefulness rule removed; advisor applied; inherited parallels unverified.",
   "A117": "QC-CLOSED 2026-10-21: Rhetoric II.8/NE II.6 opened; source quotes verified; advisor-confirmed description/advice separation and layoff example repaired; inherited parallels unverified.",
-  "A118": "QC-CLOSED 2026-10-21: Rhetoric II.6/NE IV.9 opened, quotes verified, differing scopes retained; advisor-confirmed description/advice boundary repaired; inherited parallels unverified."
+  "A118": "QC-CLOSED 2026-10-21: Rhetoric II.6/NE IV.9 opened, quotes verified, differing scopes retained; advisor-confirmed description/advice boundary repaired; inherited parallels unverified.",
+  "A121": "Reopened for QC: QC: ethos example should show trust earned through speech, not only prior reputation"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:37:56+00:00",
+ "updated": "2026-10-21T14:38:03+00:00",
  "band_done": false
 }
