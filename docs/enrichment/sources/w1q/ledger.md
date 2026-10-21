@@ -290,3 +290,26 @@ damage, w1ab left to its live holder.
   Advent/CCEL/logoslibrary fetch attempts failed). SP079/SP091/K054/ST209 wikilinks
   preserved; front-matter untouched. Validator ok (1 warn: 2 Related lines, fast-track
   bar). QC-pending for the next milestone.
+
+## QC REPAIRS (advisor round, 5-item milestone) — 2026-10-21 ~16:14Z, worker-pplxy-7f3d1a9c
+- KNIGHT OF FAITH: unsupported interpretation removed ("nothing any longer rests on
+  things going one's way..."; "does not hold out a hope"), replaced with source-borne
+  wording; pseudonym/1843 claims removed (not in the opened Gutenberg carrier; the
+  edition's title page carries only "Selections from the Writings of Kierkegaard,
+  L. M. Hollander"); inner quote of the first blockquote restored to the source's
+  double quotes; Rinzai gloss on [[The Great Death]] corrected to Hakuin's curriculum
+  as the target page describes it. All six quotes re-verified as substrings of
+  /tmp/ft.htm (raw Gutenberg #60333).
+- COMMONWEALTH OF THE GOOD: "carry the same idea" narrowed to comparative framing;
+  territory/ethnicity/fear contrast deleted; justice-sentence rescoped to the IEP's
+  Rome context; the paragraph-closing "does not wait for one" sentence deleted;
+  Spinoza glosses narrowed to the source's qualification; "motive is not sacrifice"
+  and "same labor" sentences deleted; quote punctuation restored to source-final
+  periods; "union existing between" corrected to the source's "union existing being";
+  SP079/K054/ST209/interconnected-good clauses reduced to what the target pages
+  carry; Spinoza quotes re-verified against a raw download of the marxists.org page.
+  Ledger note: the IEP passages are the encyclopedia author's prose except where
+  marked as Augustine's own words ("where there is no justice..."; "pilgrims and
+  foreigners").
+- Both pages validated ok against their pre-enrichment baselines
+  (07be9a037^ and 60f378fd5^) with --fast-track.

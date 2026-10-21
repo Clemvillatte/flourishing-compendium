@@ -7,13 +7,13 @@ file: "The commitment of the knight of faith"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The knight of faith is a figure Søren Kierkegaard draws in Fear and Trembling (1843), published under the pseudonym Johannes de Silentio. The pseudonym, who says he can admire the knight but cannot himself make the movement, defines the figure against the knight of infinite resignation: the person who has given up what they love most and made peace with the loss. The knight of faith makes the same renunciation, and then makes one movement more.
+The knight of faith is a figure Kierkegaard draws in Fear and Trembling, in the Hollander selection [Project Gutenberg #60333](https://www.gutenberg.org/files/60333/60333-h/60333-h.htm). The text sets the figure against the knight of infinite resignation, who has given up what he loves most and made peace with the pain. The knight of faith makes the same renunciation, and then makes one movement more.
 
-> "He does precisely as the other knight, he absolutely resigns the love which is the contents of his life, he is reconciled to the pain; but then the miraculous happens, he makes one more movement, strange beyond comparison, saying: 'And still I believe that I shall marry her—marry her by virtue of the absurd, by virtue of the act that to God nothing is impossible.'" (Kierkegaard, Fear and Trembling, trans. L. M. Hollander, [Project Gutenberg #60333](https://www.gutenberg.org/files/60333/60333-h/60333-h.htm), Preliminary Expectoration)
+> 'He does precisely as the other knight, he absolutely resigns the love which is the contents of his life, he is reconciled to the pain; but then the miraculous happens, he makes one more movement, strange beyond comparison, saying: "And still I believe that I shall marry her—marry her by virtue of the absurd, by virtue of the act that to God nothing is impossible."' (Kierkegaard, Fear and Trembling, trans. L. M. Hollander, [Project Gutenberg #60333](https://www.gutenberg.org/files/60333/60333-h/60333-h.htm), Preliminary Expectoration)
 
 ### The double movement
 
-De Silentio calls the second movement the paradoxical one: it does not hold out a hope that things might turn around. It recognizes the impossibility fully and believes anyway.
+The second movement is not an expectation that things might turn around: the passage insists that the knight recognizes the impossibility and believes anyway.
 
 > "for the movement of faith must ever be made by virtue of the absurd, but, note well, in such wise that one does not lose the things of this world but wholly and entirely regains them." (same work, Preliminary Expectoration)
 
@@ -25,7 +25,7 @@ The result is not a withdrawal from ordinary life. The passage that follows desc
 
 ### In everyday life
 
-De Silentio's description of the knight is domestic: "he is lying on his elbows in the window and looking over the square on which he lives", and to look at him "you would swear it was the green-grocer from across the street who is lounging at the window in the evening twilight" (same work). The commitment leaves no visible mark of religiosity or suffering; what changes is that nothing any longer rests on things going one's way, and everything is received rather than held.
+The description of the knight is domestic: "he is lying on his elbows in the window and looking over the square on which he lives", and to look at him "you would swear it was the green-grocer from across the street who is lounging at the window in the evening twilight" (same work). The figure looks ordinary to an observer; the passage sets that everyday appearance beside the movement of resignation and renewed faith.
 
 ### In the compendium
 
@@ -37,7 +37,7 @@ De Silentio's description of the knight is domestic: "he is lying on his elbows 
 ## Related concepts
 
 - [[The leap of faith]] — the movement the knight makes, in Kierkegaard's vocabulary
-- [[The Great Death]] — the Rinzai passage through the self's death and return to ordinary life; a comparison, not an influence
+- [[The Great Death]] — the Zen passage through the death of the self in Hakuin's curriculum; a comparison, not an influence
 
 ## Sources
 
