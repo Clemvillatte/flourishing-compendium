@@ -1928,3 +1928,10 @@ Verification pass 51 (worker-glmc4a — final): 4 principle pages — 1 partial,
 - P177 (Dewey HNC ends-in-view): the first portion matches the already-downloaded Gutenberg #41386 text verbatim in wording (the source's _underscores_ are Gutenberg italics markup); the second portion ("In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end.") was NOT FOUND in the downloaded text — possible location difference or extraction gap; flagged for re-verification. Partial.
 - P171 (Seligman Beck Institute Q&A 2026), P175 (Nakamura & Csikszentmihalyi vital engagement), P176 (Maslow): not verified this session (not reached — time; not defects).
 FINAL SESSION TOTAL per the pass-record chain: 225 page-checks across 51 passes. Session ends; report follows.
+
+Verification pass 52 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- P185: both James Talks to Teachers quotes match the already-downloaded Gutenberg #16287 text verbatim.
+- P186: the James Will to Believe p. 50 submission-to-evil passage matches the already-downloaded Gutenberg #26659 text verbatim in wording (the source's _none of your business_ is Gutenberg italics markup — disclosed class).
+- P188: all three James "The Moral Equivalent of War" quotes match the freshly downloaded Gutenberg #20768 text verbatim.
+- P189: the Dewey Experience and Nature aleatory-world passage matches the already-downloaded archive.org djvu text verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 229 page-checks across 52 passes. Session ends; report follows.
