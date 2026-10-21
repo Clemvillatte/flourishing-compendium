@@ -32,6 +32,9 @@ Dhammapada 184 calls enduring patience the highest austerity and says one who ha
 - [Shantideva, Bodhicaryavatara 6.10, Padmakara Translation Group, quoted by Tsadra](https://bodhicitta.tsadra.org/index.php/Explore/Cultivating_Patience).
 - [Dhammapada 184, translated by Buddharakkhita](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.budd.html).
 
+## Stories
+- [[ST405 — Angulimala Is Told to Bear the Stones|405. Angulimala Is Told to Bear the Stones]]
+
 ## Psychology parallels
 
 - **[[Patience|Patience as a character strength predicting well-being]]** (Schnitker and Emmons, 2007)

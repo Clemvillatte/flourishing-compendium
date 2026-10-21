@@ -138,6 +138,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST080 — Driss Treats Philippe as a Person]]
     - [[ST367 — The Gift Nobody Accepted]]
     - [[ST381 — Kisa Gotami Goes from Door to Door]]
+    - [[ST405 — Angulimala Is Told to Bear the Stones]]
   - [[ST-S02.06 — II.6 Wisdom and View]]
     - [[ST081 — The Dhamma as Mirror]]
     - [[ST082 — Huineng Hears One Line]]

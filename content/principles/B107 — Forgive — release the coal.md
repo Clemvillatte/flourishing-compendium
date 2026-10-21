@@ -22,6 +22,9 @@ The hot-coal metaphor is the common English rendering of this insight, and it ca
 
 *For example:* Two people are both wronged by the same friend. One keeps the grievance warm, revisits it, and turns down every social event where the friend might be. The other drops the grudge without announcing it, keeps the boundary, and stops organizing their week around a person they no longer trust. Same injury; one of them is still paying for it five years later.
 
+## Stories
+- [[ST405 — Angulimala Is Told to Bear the Stones|405. Angulimala Is Told to Bear the Stones]]
+
 ## Psychology parallels
 
 - **[[Forgiveness|Forgiveness interventions]]**, the REACH model (Worthington, 2001)
