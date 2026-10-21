@@ -584,3 +584,5 @@
   etymology claims asserted. Related links confirmed existing (Tanha,
   Samsara, Impermanence, The insatiability of craving, Acceptance).
 - Taper item. Normal validator: ok. State recorded (done count 42).
+  - Repair: staging pattern "not simply pain but" reworded; page now
+    passes normal validator.

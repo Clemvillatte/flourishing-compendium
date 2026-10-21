@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-"Stuckness as suffering" reads dukkha through the Second Noble Truth: the suffering the Buddha diagnosed is not simply pain but the stuck quality of a mind that cannot stop reaching for what feeds the sticking. The formula from the Setting in Motion of the Wheel of Truth: "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming." ([SN 56.11, Dhammacakkappavattana Sutta, tr. Thanissaro](https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn56/sn56.011.than.html))
+"Stuckness as suffering" reads dukkha through the Second Noble Truth: the suffering the Buddha diagnosed goes beyond pain; it is the stuck quality of a mind that cannot stop reaching for what feeds the sticking. The formula from the Setting in Motion of the Wheel of Truth: "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming." ([SN 56.11, Dhammacakkappavattana Sutta, tr. Thanissaro](https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn56/sn56.011.than.html))
 
 ### Where the stuckness lives
 
