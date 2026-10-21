@@ -12,11 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 47** — Learn to use the 5-minute rule: lower the barrier to starting
 
-The 5-minute rule involves committing to just 5 minutes of a task. This lowers the activation energy and often leads to continuing. It is a simple anti-procrastination technique.
+The 5-minute rule is a practical form of what procrastination researcher Timothy Pychyl calls "just get started". He writes that "Research indicates that establishing a low threshold to task engagement fuels motivation and changes perception of the task," and that once you begin, "you'll find it's not as bad as you thought" ([Psychology Today, 2011](https://www.psychologytoday.com/us/articles/201109/procrastination-oops-where-did-the-day-go)). Elsewhere he advises that if you move past the initial discomfort, "your attitude will follow your behavior" ([Pychyl, Psychology Today](https://www.psychologytoday.com/us/blog/dont-delay/200901/dont-delay-highlights-readers-summary)).
 
-**Plain words** The five-minute rule: commit to only five minutes. It's a trick, and you're the mark — five minutes is a laughably low barrier, and it turns out starting was the whole battle. You'll usually keep going. Even when you don't, you've won.
+Five minutes is a convention. I found no study that tests five minutes against other durations, so treat the number as a handy default.
 
-*For example:* "Five minutes of tidying the kitchen" — twenty minutes later the kitchen's done and you feel scammed. Good. Get scammed again tomorrow.
+**Plain words**
+Starting is the hardest part, and it feels worse in your head than it is once you are doing it. Promise yourself a very small start, and let yourself stop afterwards.
+
+**For example**
+Set a timer for five minutes and open the document you've been avoiding. Write anything on the section you dread. When the timer rings, decide whether to stop or go on. Note which you chose.
+
+## Sources
+
+- [Pychyl, "Procrastination: Oops, Where Did the Day Go?", Psychology Today 2011](https://www.psychologytoday.com/us/articles/201109/procrastination-oops-where-did-the-day-go)
+- [Pychyl, "Don't Delay" highlights, Psychology Today 2009](https://www.psychologytoday.com/us/blog/dont-delay/200901/dont-delay-highlights-readers-summary)
+
 ## Psychology parallels
 
 - **Lowering activation energy**, reducing the barrier to starting increases initiation (Fogg, 2019; Clear, 2018)

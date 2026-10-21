@@ -14,3 +14,9 @@
 - Seed claim "without feedback motivation declines" was unsourced; replaced with Harkin result. Page notes evidence is mostly health goals.
 ## MO032 — public commitment
 - Opened: Epton, Currie & Armitage 2017 abstract (PMID 29189034); Harkin 2016 abstract. Seed claim "powerful motivational force" overstated; scoped to small effects and noted that announcement alone is not tested.
+## MO047 — 5-minute rule
+- Opened (search excerpts, Psychology Today pages by Pychyl): "Procrastination: Oops, Where Did the Day Go?" (2011) and "Don't Delay Highlights" (2009). Quotes verbatim from those excerpts. Fetch of the "just-get-started" post failed (404-type), so not used.
+- The "5 minutes" figure has no study; page states it is a convention. Pychyl blog = expert commentary, not primary experiment. Gollwitzer implementation-intention homework study (via Pychyl) not opened at source.
+## MO051 — procrastination and fatigue
+- Opened: Sirois & Pychyl 2013 abstract; Kühnel 2018 (PMID 30450062, 29456519); Prem 2018 Frontiers abstract/discussion (no sleep effect).
+- Seed claim "procrastination is often a signal of fatigue" is NOT the main finding; evidence mixed. Page rewritten as mood regulation first, fatigue as qualified. The principle title still says "signals fatigue": supervisor may want to soften the title/blockquote (I did not edit it).

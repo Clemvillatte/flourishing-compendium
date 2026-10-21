@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 51** — Learn to manage energy: procrastination often signals fatigue
 
-Procrastination is often not a character flaw but a signal: you are tired, overwhelmed, or depleted. Managing energy (rest, breaks, sleep) is an anti-procrastination strategy.
+The research on procrastination points mainly to feelings about the task, with tiredness as one possible contributor. Sirois and Pychyl argue that procrastination "has a great deal to do with short-term mood repair and emotion regulation", and that it often occurs "when people are faced with tasks that are seen as aversive" ([Social and Personality Psychology Compass, 2013](https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12011)).
 
-**Plain words** Procrastination is often a fuel gauge — you're tired, depleted, or overdrawn, and the mind refuses to spend what isn't there. Before you moralise the delay, check the tank. Sometimes the fix is a nap, not a lecture.
+Sleep and depletion are part of the picture, but the findings are mixed. In a diary study, sleep quality was "negatively related to work procrastination the next day", yet only for employees low in trait self-control ([Kühnel et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30450062/)). A separate study found that on evenings with fewer self-regulatory resources, people showed less bedtime procrastination, which "contradicts the prevailing idea" that it results from depletion ([Kühnel, Syrek and Dreher, 2018](https://pubmed.ncbi.nlm.nih.gov/29456519/)). A third diary study found no effect of sleep quality on workplace procrastination ([Prem et al., 2018](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01087/full)).
 
-*For example:* The "lazy" Sunday that follows a 60-hour week — the body was making a withdrawal the mind had to honour. Rest was the actual task.
+**Plain words**
+Putting something off can mean you are tired. It can also mean the task feels unpleasant. Ask which one it is before you decide whether you need rest or a way to begin.
+
+**For example**
+When you notice yourself avoiding a task, write down two things: how rested you are from 1 to 5, and one word for how the task feels. If rest is low, sleep or break first. If the task feels aversive, try a five-minute start.
+
+## Sources
+
+- [Sirois and Pychyl 2013, Soc Personal Psychol Compass](https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12011)
+- [Kühnel et al. 2018, sleep quality and work procrastination](https://pubmed.ncbi.nlm.nih.gov/30450062/)
+- [Kühnel, Syrek and Dreher 2018, bedtime procrastination](https://pubmed.ncbi.nlm.nih.gov/29456519/)
+- [Prem et al. 2018, Front Psychol](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01087/full)
+
 ## Psychology parallels
 
 - **Energy and procrastination**, fatigue increases procrastination (Steel, 2007; Sirois & Pychyl, 2013)
