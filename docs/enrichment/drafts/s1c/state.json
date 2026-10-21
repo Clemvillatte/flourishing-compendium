@@ -50,7 +50,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-003": {
+   "status": "ready",
+   "angle": "B140: Fayan, Luohan Guichen, don't-know, the stone, the month of explanations",
+   "history": [
+    {
+     "t": "2026-10-21T12:09:15+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:09:15+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:09:16+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: caught misattribution Chang->Wu before saving; quotes machine-checked"
+    },
+    {
+     "t": "2026-10-21T12:09:16+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:07:22+00:00"
+ "updated": "2026-10-21T12:09:16+00:00"
 }
