@@ -7,9 +7,9 @@ file: "Persuasive Arguments Theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-**Persuasive Arguments Theory** — Burnstein, Vinokur — group decisions shift toward the most persuasive pooled arguments, not to norm conformity.
+**Persuasive Arguments Theory** — Burnstein, Vinokur — group decisions shift toward the most persuasive pooled arguments.
 
-Persuasive Arguments Theory is Eugene Burnstein and Amiram Vinokur's explanation of group polarization: discussion shifts opinions because members hear arguments they had not already considered, not because they conform to the group norm. A later review states its assumptions:
+Persuasive Arguments Theory is Burnstein and Vinokur's explanation of group polarization: discussion shifts opinions because members hear arguments they had not already considered. A later review states its assumptions:
 
 > "PAT (Burnstein & Vinokur, 1977; Vinokur & Burnstein, 1974) emphasizes the role of informational processes for group polarization (Deutsch & Gerard, 1955). According to PAT, for any given discussion topic, there is a culturally determined pool of relevant arguments. The prediscussion position held by an individual is assumed to reflect the pro and con arguments that he or she can retrieve from memory. In addition, it is presumed that the pool of arguments is only partially shared among group members." (Sieber & Ziegler, [Group Polarization Revisited, PSPB 2019](https://journals.sagepub.com/doi/10.1177/0146167219833389))
 
@@ -26,9 +26,9 @@ The mechanism follows from the partially shared pool: "During group discussion, 
 
 ## Related concepts
 
-- [[Social comparison]] — the rival account of polarization the theory was set against
-- [[Groupthink theory]] — another informational-versus-normative account of group decision failure
-- [[Conformity]] — the normative influence this theory says is not needed
+- [[Social comparison]] — the other process the same research implicates in polarization
+- [[Groupthink theory]] — another theory of group decision failure
+- [[Conformity]] — normative influence in groups
 
 ## Sources
 

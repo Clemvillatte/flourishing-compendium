@@ -15,7 +15,7 @@ The Personality Systems Framework is John D. Mayer's field-wide outline for orga
 
 ### Four topics and four areas
 
-The framework organizes the field into four topics: "personality's definition, personality's parts (e.g., traits, schemas, etc.), its organization and development". Structurally, it divides the system "into four functional areas called the systems set: (a) energy development, (b) knowledge guidance, (c) action implementation, and (d) executive management".
+The framework organizes the field into four topics: personality's definition, its parts (traits, schemas and the like), its organization and its development. Structurally, it divides the system "into four functional areas called the systems set: (a) energy development, (b) knowledge guidance, (c) action implementation, and (d) executive management".
 
 ### In the compendium
 
@@ -26,9 +26,9 @@ The framework organizes the field into four topics: "personality's definition, p
 
 ## Related concepts
 
-- [[Approach versus avoidance motivation]] — a motivational theory of the kind the framework's parts topic catalogs
-- [[Achievement motivation theory]] — a part-level theory within the framework's scope
-- [[Deconditioning of learned self-concepts]] — self-concept change, one of the framework's parts
+- [[Approach versus avoidance motivation]] — a motivational theory, for comparison
+- [[Achievement motivation theory]] — a motivational theory, for comparison
+- [[Deconditioning of learned self-concepts]] — self-concept change, a related topic
 
 ## Sources
 

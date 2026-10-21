@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Phenomenological seeing” — Husserl, Ideas I.
 
-Phenomenological seeing is Husserl's name for the mode of attention phenomenology requires: looking at experience as it is lived rather than as it is theorized. Heidegger, who studied with him, described Husserl's teaching as itself "practicing phenomenological 'seeing'".
+Phenomenological seeing is the mode of attention phenomenology requires: looking at experience as it is lived rather than as it is theorized. Heidegger's recollection, as reported by van Manen and van Manen, is that Husserl's teaching "took the form of practicing phenomenological 'seeing'".
 
 > "Doing phenomenology on the phenomena means taking up the attitude of immediate seeing and practicing an attentive awareness to the things of the world as we live them rather than as we conceptualize or theorize them." (van Manen & van Manen, [Doing Phenomenological Research and Writing, 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8114444/))
 
