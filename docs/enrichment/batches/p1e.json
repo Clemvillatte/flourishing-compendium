@@ -75,7 +75,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "D011": "inherited psychology claim (Kashdan & Rottenberg 2010 'outperforms on nearly every outcome') not verified against an opened source; preserved per protocol, flagged for supervisor",
+  "D011": "RESOLVED by supervisor-pcx-fe429f3b: 'outperforms on nearly every outcome' NOT in the opened source (PMC2998793 full text + abstract checked, zero 'outperform' hits); parallels line rewritten to the review's own scope (flexibility as fundamental aspect of health; absence linked to psychopathology); page repaired and validated",
   "D068": "inherited psychology-parallels claims (Gottman soft startup; assertiveness research 'aggression reliably loses long games') not verified against opened sources; flagged for supervisor",
   "D069": "inherited psychology-parallels claim (Rosenberg 2003 NVC 'defuses attack') not verified against an opened source; flagged for supervisor",
   "D073": "inherited psychology-parallels claims (Kahneman & Tversky 1979 planning fallacy wording; plan-then-adapt research summary) not verified against opened sources; flagged for supervisor",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-19T15:24:23+00:00",
+ "updated": "2026-10-21T13:30:46+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

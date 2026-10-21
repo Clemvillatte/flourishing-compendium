@@ -38,7 +38,7 @@ In a stalled argument, the soft move is to ask what the other person actually ne
 
 ## Psychology parallels
 
-- **[[Psychological flexibility|Psychological flexibility]]**, the capacity to adapt behavior to context outperforms rigid control-based coping on nearly every outcome (Kashdan and Rottenberg, 2010)
+- **[[Psychological flexibility|Psychological flexibility]]** — Kashdan and Rottenberg's 2010 review frames flexibility as a fundamental aspect of health: the abilities to adapt to situational demands, to shift mindsets or behavioural repertoires when strategies compromise functioning, and to stay aware, open and committed to values-congruent behaviour; the review links the absence of these processes to many forms of psychopathology (Kashdan and Rottenberg, 2010)
 
 ## Philosophy parallels
 
