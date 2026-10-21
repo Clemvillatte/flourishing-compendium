@@ -24,3 +24,5 @@
 - Opened (search excerpts): ERIC abstract of Sio & Ormerod 2009; PMC4956660 (authors/journal not seen; d = 0.29 from it); Sio & Ormerod CogSci 2009 paper. Seed corrections: "one of the most robust findings" overstated (d = 0.29, task-dependent); mechanism not settled; walking/showering/sleeping and Wallas not supported by opened sources. Shower anecdote dropped.
 ## PP066 — patience with timeline
 - Opened (search excerpts): Bolier 2013 (Springer); PMC9638203 summary of Bolier; PLOS ONE reanalysis (r ~ .10); Lally 2010 abstract (Wiley); Surrey interview. Sheldon 2013 and Lyubomirsky 2008 (seed citations) not opened. "Gains compound" not supported. Gym analogy dropped.
+## PP067 — track what matters
+- Opened (search excerpts): Harkin 2016 abstract (PubMed) and APA summary; JMIR 2012 trial excerpt (authors not seen); Nature npj Digital Medicine review (journal name not seen on page; cited by title only); JMIR 2025 meta-analysis. Seed citations Park 2014, Bolier 2013 not opened for this claim. Calibration framing is the compendium's. Mood-vs-walk anecdote dropped.
