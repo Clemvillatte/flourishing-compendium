@@ -19,7 +19,7 @@ Self-sufficiency then makes the same point about wanting:
 
 > "for the present we define that to be self-sufficient "which taken alone makes life choice-worthy, and to be in want of nothing;" now of such kind we think Happiness to be: and further, to be most choice-worthy of all things; not being reckoned with any other thing, for if it were so reckoned, it is plain we must then allow it, with the addition of ever so small a good, to be more choice-worthy than it was before" (Aristotle, Nicomachean Ethics, book I, trans. D. P. Chase, [Project Gutenberg #8438](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 
-Aristotle argues that counting happiness alongside other goods would make happiness plus an additional good more choice-worthy than happiness alone. The conclusion drawn from it:
+Aristotle's point in the addition clause is narrow: happiness is not counted alongside other goods — otherwise adding even a small good to it would make the combination more choiceworthy, and the final end would be one item in a tally. The conclusion drawn from it:
 
 > "So then Happiness is manifestly something final and self-sufficient, being the end of all things which are and may be done." (same work)
 
@@ -29,7 +29,9 @@ Aristotle also excludes a solitary understanding of self-sufficiency:
 
 ### In the compendium
 
-- [[S008 — Remember that virtue is sufficient for flourishing]]
+The Aristotelian passage grounds the heading's sense of a good that leaves nothing needed. The linked Stoic principle makes a stronger claim — that virtue alone is sufficient for flourishing — which this passage does not itself establish; the pairing is a comparison between the two traditions, not evidence for the Stoic claim.
+
+- [[S008 — Remember that virtue is sufficient for flourishing]] — the Stoic claim, compared here rather than derived from Aristotle
 - [[PP004 — Treat flourishing as multi-dimensional]]
 - [[CO043 — Recognise the limits of analysis — overthinking can be worse than deciding]]
 
