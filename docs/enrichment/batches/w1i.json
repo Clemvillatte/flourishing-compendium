@@ -59,9 +59,10 @@
   "Evolutionary Psychology",
   "Existential therapy",
   "Expert intuition (Klein's recognition-primed decision model)",
-  "Fresh start effect (Dai et al.)"
+  "Fresh start effect (Dai et al.)",
+  "Functional accounts of emotion"
  ],
- "in_progress": "Functional accounts of emotion",
+ "in_progress": null,
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -81,7 +82,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T08:30:39+00:00",
+ "updated": "2026-10-21T08:31:04+00:00",
  "band_done": false,
  "new_concepts": [
   {
