@@ -238,3 +238,20 @@
   intensifies schadenfreude"); kept as connection clause, not page claim.
 - Genealogy claim avoided on Role model research link (advisor lesson).
 - Normal validator: ok. State recorded (done count 19).
+
+## Item 22: Self-discrepancy (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Higgins, 1987" + Related [[SE003]] + Sources Higgins 1987,
+  Carver & Scheier 1990 + cited-in E049. Schema-2 theory page. Full
+  rewrite.
+- Carrier opened: Higgins 1987, "Self-Discrepancy: A Theory Relating Self
+  and Affect", Psych Review 94(3) 319-340 — author-hosted full PDF at
+  Columbia (higgins/papers). Verified verbatim: the three-domains
+  definition passage and the dejection/agitation prediction passage
+  (both sentences in full). Abstract first sentence verified.
+- Carver & Scheier 1990 kept as seed citation (not opened, no claims
+  drawn from it). Trailing empty bullet in seed Cited-in dropped.
+- "Practical use is diagnostic" paragraph marked as this page's reading
+  of the theory's use; ideal-gap/ought-gap diagnostic mapping grounded
+  in the verified prediction passage.
+- Normal validator: ok. State recorded (done count 20).
