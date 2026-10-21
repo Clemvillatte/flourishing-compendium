@@ -21,12 +21,12 @@ The same record notes that the replication "has provided an initial demonstratio
 
 ## Related concepts
 
-- [[Conformity]] — Asch's line: majority pressure sways judgments even against perception
+- [[Conformity]] — the compendium's page on yielding to peers
 - [[Moral disengagement research]] — Bandura's account of how moral self-sanctions get switched off
 - [[Moral situation research]] — the situationist literature that counts the obedience experiments among its classics
-- [[Bystander effect theory Darley Latane]] — helping drops as the number of witnesses rises
+- [[Bystander effect theory Darley Latane]] — the compendium's page on witnesses and helping
 - [[Obedience theory Milgram]] — the same Milgram line from the theory side
-- [[Escape from freedom]] — Fromm's account of why people give independence back
+- [[Escape from freedom]] — Fromm's account of why people surrender their freedom
 
 ## Sources
 

@@ -762,3 +762,35 @@
   noted as possible future neighbors, NOT added per the advisor's no-expansion instruction).
 - Proposals now 21 reciprocals + 1 inline. Status: round-6 submission with untruncated file
   reads.
+
+## MILESTONE QC items 16-19 round 6 (advisor: external-evidence pass -> executed) — 2026-10-21, worker-pxy1u
+- Round-6 verdict: cores VERIFIED COMPLETE (recorded); blockers were caption evidence, reciprocal
+  simplification, and two unread search logs. All executed:
+  (a) EXTERNAL REFERENCES OPENED (URLs taken from the target pages' own Sources lists, none
+  reconstructed): Schultz 2016 PMC4826767 — 'Most dopamine neurons in the midbrain of humans,
+  monkeys, and rodents signal a reward prediction error' (caption grounded); Larimer/Palmer/
+  Marlatt 1999 PMC6760427 — 'specific cognitive-behavioral skills training approaches'
+  (caption grounded); Bandura 1999 PMID 15661671 — 'there are many psychosocial maneuvers by
+  which moral self-sanctions are selectively disengaged from inhumane conduct' (caption
+  grounded); Thoreau Walden Gutenberg #205 — 'I went to the woods because I wished to live
+  deliberately, to front only the essential facts of life' (caption grounded); Fromm,
+  Escape from Freedom ch. V panarchy.org excerpt — 'one loses one's integrity as an
+  individual and surrenders freedom' (caption reworded to 'why people surrender their
+  freedom'); Berridge & Robinson 2016 PDF — title 'Liking, Wanting, and the Incentive-
+  Sensitization Theory of Addiction', authors Kent C. Berridge and Terry E. Robinson,
+  'Incentive salience or "wanting," a form of motivation' (caption grounded).
+  (b) REMOVED as unverifiable from URLs listed on the targets: the Asch majority-pressure
+  finding (Conformity caption now 'the compendium's page on yielding to peers'); the
+  bystander helping-drop finding (caption now 'the compendium's page on witnesses and
+  helping'); the Brewer mindfulness-can-unwind treatment-effect claim (craving-to-addiction
+  caption now 'the compendium's model of craving and addiction').
+  (c) All 21 reciprocal why clauses simplified to the advisor's prescribed destination
+  forms ('a simplicity criterion for comparing theories'; 'experimental research on
+  obedience to authority, listed for comparison'; 'studies the biological bases of
+  aesthetic experiences'; the addiction-page forms per the advisor's examples); the
+  Schopenhauer-correspondence reciprocal removed ('includes a preoccupation/anticipation
+  stage involving craving' used instead).
+  (d) obedience.txt (38 lines) and neuroaesthetics.txt (13 lines) read in FULL; ledger
+  corrected. No new neighbors added.
+- Validation vs d1ba9c8f: 4 checked, 0 failures. Status: round-7 submission with the changed
+  captions, the external excerpts and the validation result.

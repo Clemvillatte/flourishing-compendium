@@ -30,7 +30,7 @@ Read plainly, the stages run from drug reward to drug distress to drug craving. 
 ## Related concepts
 
 - [[Incentive salience theory]] — the Berridge-Robinson wanting theory; the review's definition uses the term "incentive salience"
-- [[The craving-to-addiction model]] — craving as a learned trigger-response loop that mindfulness can unwind
+- [[The craving-to-addiction model]] — the compendium's model of craving and addiction
 - [[The insatiability of craving]] — the compendium's Schopenhauer page on craving
 - [[Relapse prevention protocols]] — the protocol approaches relapse through cognitive-behavioural planning; the review describes addiction through neurocircuitry
 - [[Reward prediction error (Schultz)]] — midbrain dopamine neurons signaling reward prediction error
