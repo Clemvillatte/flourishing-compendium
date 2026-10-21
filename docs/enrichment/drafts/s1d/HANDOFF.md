@@ -75,3 +75,7 @@ NLM 1957 Dalles Dam sentence and ictnews "first salmon feast still happens" sent
 verbatim. The "powwow" sentence I flagged as missing from ictnews belongs to the NatGeo block
 and is verified verbatim against the NatGeo article (my extraction-context confusion, not a
 draft defect). s1d-004 fully verified; no repairs needed.
+
+## Timestamp note (2026-10-21, worker-perplexity-67ce7e1d)
+The UTC times in this session's HANDOFF entries drifted ahead of the wall clock; the true
+session window is 12:58:56-13:57 UTC. The verifications and results are unaffected.
