@@ -20,3 +20,9 @@
 - Quotes: Piff definition; "a diminishment of the individual self and its concerns"; "in part, by feelings of a small self"; Sturm "anxiety, depression, and life satisfaction did not change from baseline in either group" (abstract: "Postintervention anxiety, ... did not change from baseline in either group"; quoted lower-case fragment).
 - Correction of seed: seed said awe walks "reduce depressive symptoms" — contradicted by Sturm; replaced. Anderson 2025 and Stellar 2018 unopened; removed from parallels. Title's "expands attention" flagged on page as not tested in these abstracts.
 - Example relabelled imagined.
+
+## AT041 — Learn to use attentional micro-breaks
+- Sources opened (search results with full page text): Albulescu et al. 2022 PLOS ONE (journal page + PubMed); Ariga & Lleras 2011 (PubMed abstract); Helton & Russell 2012 Exp Brain Res (Springer abstract; 498 participants, Bayesian null).
+- Quotes: Albulescu micro-break definition and effect sizes (d values elided with "..."); Albulescu "recovering from highly depleting tasks may need more than 10-minute breaks"; Helton & Russell "All experimental groups had an equivalent robust vigilance decrement".
+- Corrections: seed "10-15 second breaks restore attentional capacity" and "10 sec - 5 min" definition unsupported -> removed; Leroy 2009 unopened -> removed. Practice numbers (every 25-30 min / 10-30 s) removed. Replication failure flagged on page. Title's "reset" framing kept with caveat.
+- Example imagined, labelled.
