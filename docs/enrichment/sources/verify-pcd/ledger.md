@@ -294,3 +294,9 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 
 ### w1j "Framing effects" — quote fidelity PASS (verification pass)
 - Tversky & Kahneman 1981 blockquote EXACT vs the opened PubMed abstract (7455683).
+
+### w1i "Language games" — quote fidelity PASS (verification pass)
+- Wikipedia Language-game blockquote EXACT vs the opened article (opening sentence).
+- Supervisor status on routed findings: the Hermeneutic circle comma, the Grounding
+  hedge and the Homo faber Sources cleanup remain unrepaired as of this check —
+  all still recorded for supervisor disposition; no action taken (no baton).
