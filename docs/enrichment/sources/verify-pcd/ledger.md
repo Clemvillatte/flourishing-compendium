@@ -473,3 +473,7 @@ and this ledger; none edited without a baton.
 - Webster 2011 ACT summary sentence EXACT vs the opened Cambridge Core article.
 - w1c spot check: 3/3 PASS (Dialectical thinking, Embodied self, Acceptance alongside
   values-based action). Session verification pass complete; report follows.
+
+### w1c "Creative advance" — quote fidelity PASS (verification pass)
+- Whitehead PR 21 passage EXACT vs the opened Whitehead Encyclopedia entry (the source
+  italicizes "universal of universals"; wording verbatim, p. 21 locator confirmed).
