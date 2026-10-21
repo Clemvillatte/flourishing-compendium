@@ -21,7 +21,7 @@ Identities range from low to high level. Higher-level identities "signify why or
 
 ## What it explains
 
-The theory explains why descriptions shift with skill: what is hard must be thought of in mechanical terms, and what is easy can be thought of in terms of purpose. In the 1989 speech-fluency experiment, subjects made fewer speech errors and felt more satisfied when an easy task was identified at high level and a difficult task at low level ([Vallacher, Wegner & Somoza 1989](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Vallacher,Wegner,&Somoza1989.pdf)).
+The theory predicts which identification level will serve performance: in the experiment, the hard task went better under the low-level name and the easy task under the high-level name, suggesting that people tend to manage difficulty by shifting the level at which they name what they are doing ([Vallacher, Wegner & Somoza 1989](https://dtg.sites.fas.harvard.edu/DANWEGNER/pub/Vallacher,Wegner,&Somoza1989.pdf)).
 
 ## Everyday life
 

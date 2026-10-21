@@ -11,7 +11,12 @@ Ahimsa (अहिंसा) is the principle of non-harm that runs through the I
 
 ### In the primary texts
 
-Patañjali lists ahimsa first among the five yamas, the restraints that open the eight limbs of yoga, and promises it a striking result: "Where non-injury is perfected, all enmity ceases in the presence of him who possesses it" (Yoga Sutra II.35, Johnston translation, [Project Gutenberg #2526](https://www.gutenberg.org/cache/epub/2526/pg2526.txt)). Johnston's gloss on the sutra reads: "Where the heart is full of kindness which seeks no injury to another, either in act or thought or wish, this full love creates an atmosphere of harmony, whose benign power touches with healing all who come within its influence." Jainism places it foremost among its five vows and works it out in unusual detail, down to diet and trade; Buddhism sets it under the first precept, abstention from killing, and warns lay followers against trading in weapons, living beings, meat, intoxicants and poisons (Anguttara Nikaya V.177, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
+Patañjali lists ahimsa first among the five yamas, the restraints that open the eight limbs of yoga, and promises it a striking result: "Where non-injury is perfected, all enmity ceases in the presence of him who possesses it" (Yoga Sutra II.35, Johnston translation, [Project Gutenberg #2526](https://www.gutenberg.org/cache/epub/2526/pg2526.txt)). The sutra's translator reads it as a claim about the person who keeps the vow:
+
+> "Where the heart is full of kindness which seeks no injury to another, either in act or thought or wish, this full love creates an atmosphere of harmony, whose benign power touches with healing all who come within its influence. Peace in the heart radiates peace to other hearts, even more surely than contention breeds contention."
+> — Johnston's commentary on II.35, [Project Gutenberg #2526](https://www.gutenberg.org/cache/epub/2526/pg2526.txt)
+
+Jainism places it foremost among its five vows and works it out in unusual detail, down to diet and trade; Buddhism sets it under the first precept, abstention from killing, and warns lay followers against trading in weapons, living beings, meat, intoxicants and poisons (Anguttara Nikaya V.177, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
 
 ### From vow to politics
 

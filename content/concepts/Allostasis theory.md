@@ -25,7 +25,7 @@ The theory explains why adaptation itself has a cost. When the shifting runs too
 
 ## Everyday life
 
-A week of poor sleep and looming deadlines keeps the shifting machinery running; you feel wired at midnight and flat by morning. Allostasis theory describes this as load rather than malfunction, which reframes recovery: sleep, downtime and completed stress responses are how the system pays down its bill.
+As an illustration of the idea: a week of poor sleep and looming deadlines keeps the shifting machinery running, and you feel wired at midnight and flat by morning. The theory's own caution is McEwen's: load accumulates when the response is "not turning off the response when it is no longer needed" ([McEwen 2006](https://www.tandfonline.com/doi/full/10.31887/DCNS.2006.8.4/bmcewen)).
 
 ## Field
 
@@ -36,7 +36,7 @@ Biophysiological · Psychological science
 - [[Cortisol awakening response theory]] — a daily rhythm of the same machinery
 - [[HPA axis theory stress]] — the system that carries the shifts
 - [[Stress cycle completion (Nagorski, Sapolsky)]] — letting the response finish
-- [[Resilience]] — studied here as efficient allostasis
+- [[Resilience]] — a construct often studied alongside allostatic systems
 - [[Predictive processing]] — the brain-side account of anticipating demands
 
 ## Sources
@@ -45,7 +45,7 @@ Biophysiological · Psychological science
 - [Sterling & Eyer 1988 passage (INHN, Historical Vocabulary of Addiction)](https://inhn.org/inhn-projects/ebooks/default-title-4) — founding definition, verbatim (opened)
 - McEwen, B. S. (2006). Protective and damaging effects of stress mediators. Dialogues in Clinical Neuroscience, 8(4), 367-381.
 - [McEwen 2006 full text](https://www.tandfonline.com/doi/full/10.31887/DCNS.2006.8.4/bmcewen) — allostasis and allostatic load definitions, verbatim (opened)
-- Park, M., et al. (2025). Integrating allostasis and emerging technologies to study complex diseases. Communications Biology.
+- Park, I., et al. (2025). Integrating allostasis and emerging technologies to study complex diseases. Communications Biology.
 - [Park et al. 2025, Communications Biology](https://www.nature.com/articles/s42003-025-08939-3) — homeostasis contrast and allostatic load, verbatim (opened)
 
 ## Cited in psychology parallels
