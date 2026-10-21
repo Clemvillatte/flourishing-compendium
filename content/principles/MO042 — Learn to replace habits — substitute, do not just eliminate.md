@@ -28,7 +28,7 @@ The mechanism the review describes is competition between associations: "As the 
 ## Psychology parallels
 
 - **Habit substitution** (Wood & Neal, 2007; Gardner, 2015)
-- **Replacement behaviours**, substituting an alternative that serves the same function (Duhigg, 2012; Clear, 2018)
+- **Replacement behaviours** (Duhigg, 2012; Clear, 2018)
 
 ## Philosophy parallels
 
