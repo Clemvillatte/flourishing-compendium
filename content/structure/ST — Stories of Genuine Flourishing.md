@@ -183,6 +183,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST369 — Tolstoy Hides the Rope]]
     - [[ST374 — Poincare Leaves the Problem and Returns to Check It]]
     - [[ST390 — The Tinker's Chains Fall Off in a Field]]
+    - [[ST410 — Tolstoy Hides the Rope]]
   - [[ST-S03.02 — III.2 Meaning, Truth, and Workability]]
     - [[ST102 — Peirce's Maxim]]
     - [[ST103 — James and the Cash Value of Ideas]]

@@ -38,6 +38,11 @@
      "t": "2026-10-21T12:22:19+00:00",
      "to": "published",
      "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:37:52+00:00",
+     "to": "published",
+     "note": "supervisor registration ST410"
     }
    ]
   },
@@ -702,5 +707,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:32:37+00:00"
+ "updated": "2026-10-21T12:37:52+00:00"
 }
