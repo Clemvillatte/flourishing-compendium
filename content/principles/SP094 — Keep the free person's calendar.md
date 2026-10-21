@@ -12,16 +12,22 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 94** — Keep the free person's calendar
 
-Spinoza's biography is itself practical instruction: the lens-grinder's day, the rented room, the refusal of a professorship to protect the day's structure, the steady correspondence. The free life is not a state of leisure; it is a state of protected practice, and its instruments are boring: a place, a time, a craft, a few friends. Practically, defend your practice calendar the way Spinoza defended his: politely, absolutely, without drama.
+The biography is recorded by John Colerus, who lodged in the Hague house where Spinoza had lived. The day's economy: Spinoza "was able to maintain himself with the work of his Hands, and to mind his Study, as he designed to do"; at Rijnsburg "he spent his time there in studying, and working his Glasses. When they were polished, his Friends took care to send for them, to sell 'em, and to remit his Money to him". At the Hague he lived "a very retired Life, according to his fancy", and "spent the greatest part of his time quietly in his own Chamber".
 
-(The life of Spinoza as recorded in the early biographies, cited as the tradition's own example; see Appendix D.)
+The refusals were the day's defense. When Charles Lewis, Elector Palatine, offered the professorship at Heidelberg with "a full Liberty of Reasoning according to his Principles", Spinoza "refused civilly the Professorship", telling Dr. Fabritius "that The instruction of young Men would prove an Obstacle to his own studies". And when his friend Simon de Vries presented him with two thousand florins, he "desired to be excused from accepting that Money", since it "would infallibly divert him from his studies and Occupations". The page's reading drawn from the life: the free life is protected practice, and its instruments are a place, a time, a craft, and a few friends. The page's exercise: defend your practice calendar politely and absolutely, without drama.
 
-**Plain words** Spinoza's biography as instruction: the lens-grinder's day, the rented room, the refusal of a professorship to protect the day's structure, the steady correspondence. The free life is not leisure — it's protection of the structure that makes understanding possible. Keep the free person's calendar; defend it like territory.
+**Plain words**
+Colerus, who slept in the same house, records the shape of the day: glasses ground and sold through friends, most of the time spent quietly in the chamber, money refused when receiving it would divert him from his studies. The Heidelberg chair was declined for the same reason, teaching the young would be an obstacle to his own studies. The day's shape was not a side effect of the philosophy; it was how the philosophy survived.
 
-*For example:* The person who takes the promotion that consumes the exact hours the thinking used to live in — and Spinoza, who declined the chair. The calendar is the philosophy. What your day is shaped like is what your mind is shaped like.
+*For example:* Imagined: a researcher takes a post that consumes the exact hours the work used to live in. Spinoza's counterexample is on record: the chair was declined, civilly, in one sentence, and the day went back to the glasses and the studies.
+
+## Sources
+
+- [John Colerus, The Life of Benedict de Spinosa, archive.org scan of the early English edition](https://archive.org/details/lifebenedictdes01colegoog) — the lens economy, the retired life at the Hague, the Heidelberg refusal, the De Vries gift refusal; quotes normalized from the scan's long-s typography
+
 ## Psychology parallels
 
-- **[[Context-dependent behaviour (Wood & Neal)|Context-dependent habit formation]]**, the evidence that stable times and places automate behavior (Wood and Neal, 2007)
+- **[[Context-dependent behaviour (Wood & Neal)|Context-dependent habit formation]]** (Wood and Neal, 2007)
 
 ## Philosophy parallels
 
