@@ -91,3 +91,7 @@
 ## MO065 — Avolition and amotivation
 - Opened: Marder & Galderisi 2017 (Wiley full text, search excerpt incl. definition + overlap caveat); Schizophrenia 2021 avolition review (Nature, excerpt); NIMH Depression page (excerpt); Ryan & Deci 2000 SDT PDF (excerpt on amotivation). APA 2022 (DSM-5-TR) unopened.
 - Key correction: seed conflated SDT "amotivation" (a normal motivational state, not a diagnosis) with clinical avolition; separated on page. Seed "laziness is selective" claim had no source -> dropped. Practice line edited. No treatment claims made.
+
+## MO067 — ADHD and motivation
+- Opened: Faraone et al. 2021 consensus statement (PMC, fetched; statement 65 quoted); Volkow et al. 2011 abstract (PubMed/eScholarship). Brown 2013, Barkley 1997 unopened.
+- "Interest-based, not importance-based" not found as a defined construct in opened sources: disclosed on page. Seed "fix = build interest/novelty/urgency" not tested in opened sources; Plain words reworded as common suggestion, untested here.
