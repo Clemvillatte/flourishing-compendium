@@ -287,3 +287,16 @@ bar §1a applies per item where degree < 15; the first ten items all had < 15 co
 
 - sources_checked: 28. Next manifest item: 'Exercise neurobiology theory' (clean handoff,
   no in-progress item). All work pushed to origin/main; baton w1n held and clocked in.
+
+## Exercise neurobiology theory
+
+- Track: fast-track (degree < 15).
+- Opened: Szuhany, Bugatti & Otto 2015, J Psychiatr Res 60:56-64, PubMed abstract
+  25455510 via NCBI efetch. BDNF-mediates sentence, 29-study/N=1111 figures, Hedges'
+  g values, and "regular exercise intensified" fragment verbatim. "Supporting neural
+  plasticity" gloss removed from the opening sentence (not in the opened abstract).
+
+## Session totals (final)
+
+- sources_checked: 29. Next manifest item: 'Expectancy Violations Theory' (clean
+  handoff, no in-progress item). All work pushed to origin/main; baton w1n held.
