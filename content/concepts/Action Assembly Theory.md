@@ -34,6 +34,7 @@ Imagine finding words for a grieving friend. AAT would describe this as drawing 
 - [[Behavioural rehearsal role-play (DBT, social skills training)]] — a practice format that exercises exactly this kind of production
 - [[Communication Accommodation Theory]] — another theory of how messages are produced
 - [[Dual-process theory]] — the broader distinction between automatic and deliberate processing
+- [[Implicit and explicit]] — the forms of knowledge the records draw on
 
 ## Sources
 
