@@ -865,3 +865,13 @@
   passage's own terms), no outside claims. Related: Non-attachment, Buddhist emptiness of
   inherent nature, Letting-be (navigational captions). Degree 1 — fast-track. Validation
   --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Non-retaliation (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: Meditations, George Long translation (Gutenberg #2680), opened — the revenge
+  line verified verbatim ('The best kind of revenge is, not to become like unto them.') at
+  the numbered aphorism V of Book VI in this edition; the seed's 'Meditations VII' noted on
+  the page with the locator correction (Book VI in this translation). CAUGHT before save: an
+  earlier draft used the edition's INTRODUCTION ('doth any man offend? ... against himself',
+  the editor's preface) as if it were Book VI text — removed; only the verified Meditations
+  line remains. Related: Forgiveness, Anger, Anger examined early (navigational captions).
+  Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due.
