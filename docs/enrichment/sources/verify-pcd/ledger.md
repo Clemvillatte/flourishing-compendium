@@ -270,3 +270,9 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
   all Neff Self Compassion Scale).
 - The page's disclosure that the longitudinal study was seen as a search excerpt only
   stands; no change requested.
+
+### w1j "Hormetic exposure research" — quote fidelity PASS (verification pass)
+- Mattson 2008 definition blockquote EXACT vs the opened PubMed abstract (18162444);
+  Seery, Holman and Silver 2010 blockquote EXACT vs the opened PubMed abstract (20939649,
+  the abstract's sentence begins "In a multiyear longitudinal study of a national sample,"
+  which the page's framing sentence supplies around the quoted fragment).
