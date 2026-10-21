@@ -921,3 +921,10 @@ on that page not re-checked this round — multi-carrier item, left for a future
 Session totals: 70 verification rounds; ~115 pages quotation-fidelity checked against
 freshly opened carriers; 8 defects routed (none repaired in-band — no baton); 0
 hallucinated quotes or fabricated sources found.
+
+## Round 71 (16:49Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: PMC9480929 (Kazemi et al. 2022). w1q "Assertiveness training":
+the "appropriate social behaviors" training-definition quote VERBATIM vs the opened
+carrier (remaining quotes on that page not re-checked — multi-carrier item).
+1/1 PASS, no defects.
