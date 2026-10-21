@@ -51,5 +51,7 @@
    "from": "worker-w1k-efc902b7",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T13:34:04+00:00"
 }
