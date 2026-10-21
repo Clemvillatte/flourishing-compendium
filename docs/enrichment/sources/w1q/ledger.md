@@ -459,3 +459,16 @@ damage, w1ab left to its live holder.
 - SO003/P062/SE008/SE049 clauses kept to what those pages carry. Choice-of-self Related
   link bare (unchecked target). Validator ok against pre-enrichment baseline e5285c9c4
   (1 warn: 1 Related line, fast-track bar). QC-pending for the next milestone.
+
+## THE MIRROR FOR OTHERS — 2026-10-21T16:03Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Category C-style heading (the compendium's phrase);
+  the page grounds it in the Mencius passage the seed points to. Carrier: Book of
+  Mencius book 4 (Li Lou I, ch. IV, Legge translation, spiritualpilgrim.net), raw
+  download; two quotes substring-verified: the turn-inwards passage and "When a man's
+  person is correct, the whole kingdom will turn to him with recognition and
+  submission." Chapter heading ("before a man deals with others... he should first
+  deal with himself") also from the carrier.
+- M048/D128/A078/ST104 clauses kept to what those pages carry. Exemplary-person
+  Related link points to this session's enriched page. Validator ok against baseline
+  52f909001 (1 warn: 1 Related line, fast-track bar). QC-pending for the next
+  milestone.
