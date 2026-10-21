@@ -405,3 +405,21 @@
   (4 words) — full rewrites for a later pass. "Savoring's relational
   costs" validator run errored on the apostrophe filename (tooling, not
   content) — left untouched, flagged.
+
+## Item 32: Scholē (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Aristotle leisure line with Wikipedia link + [[M031]] related.
+  Seed prose kept; full rewrite of the body.
+- Carriers opened: (1) Pieper, Leisure the Basis of Culture — excerpts
+  page at Phoenix College (PHI101 course page): verified verbatim the
+  "condition of the soul... three aspects" passage (OCR quirks on that
+  page — "ilnevitable", "apprehens ion" — NOT quoted; clean spans only),
+  the "attitude of non-activity" passage (quoted to the clean span),
+  and the "Leisure stands opposed... does not exist for the sake of
+  work" passage (ellipsis over an OCR double period). (2) Chapter IV
+  excerpt PDF (stpaulscc.com) — opened; the site's intro line "Leisure
+  is not idleness, but an attitude of the mind..." is the SITE's copy,
+  not quoted as Pieper text. (3) Aristotle NE X.7 1177b4-6 "We work in
+  order to be at leisure" — via Wikiquote's Pieper page (search-opened),
+  attributed as Pieper citing Aristotle.
+- Normal validator: ok. State recorded (done count 30).
