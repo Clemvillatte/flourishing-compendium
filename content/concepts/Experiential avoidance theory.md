@@ -13,24 +13,24 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 
 Affect · Psychological science
 
-The theory comes out of Steven Hayes and colleagues' contextual behavioral tradition, which introduced experiential avoidance as a named process in 1996. Its core claim is functional: what maintains suffering is not the unwanted inner experience itself but the unwillingness to stay in contact with it, together with the steps a person takes to alter its form or frequency. Those steps can spread from the avoided event to the contexts that occasion it, narrowing where a person goes and what they do.
+The paper discusses experiential avoidance as a proposed process in emotional distress. Its cited Hayes et al. (1996) definition includes unwillingness to remain in contact with private experiences and attempts to alter those experiences or the contexts that occasion them. The paper takes a contextual transdiagnostic approach, examining the process alongside behavioral activation in emotional distress.
 
 > "Although the avoidance of unwanted inner experiences may alleviate distress in the short-term, it paradoxically exacerbates distress over longer periods of time." (Fernández-Rodríguez et al. 2018, [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/), summarizing earlier findings)
 
-The theory comes from the same tradition as Acceptance and Commitment Therapy (ACT, Hayes et al. 1999), which the paper describes as teaching clients "to contact psychological experiences, directly and fully" rather than avoid them. The construct is measured with the Acceptance and Action Questionnaire-II (AAQ-II, Bond et al. 2011), which the paper treats as focused on experiential avoidance. The empirical study of the construct is collected on [[Experiential avoidance research]].
+The theory belongs to the same tradition as Acceptance and Commitment Therapy (ACT, Hayes et al. 1999), which the paper describes as teaching clients "to contact psychological experiences, directly and fully" rather than avoid them. The paper names the Acceptance and Action Questionnaire-II (AAQ-II, Bond et al. 2011) among the measures for evaluating experiential avoidance. The empirical study of the construct is collected on [[Experiential avoidance research]].
 
 ## Related concepts
 
-- [[Acceptance]] — the alternative process the theory names for unwanted inner experience
-- [[Exposure therapy (Foa, Craske)]] — the behavioral tradition of approaching feared cues rather than avoiding them
-- [[Opposite action (Linehan)]] — a regulation strategy that acts against the avoidance impulse
-- [[The avoidance of suffering]] — the same pattern described at the level of suffering rather than clinical mechanism
-- [[Acceptance alongside values-based action]] — the two-process combination the theory recommends
+- [[Acceptance]] — listed for comparison
+- [[Exposure therapy (Foa, Craske)]] — listed for comparison
+- [[Opposite action (Linehan)]] — listed for comparison
+- [[The avoidance of suffering]] — listed for comparison
+- [[Acceptance alongside values-based action]] — listed for comparison
 - [[Experiential avoidance research]] — the empirical strand of the construct
 
 ## Sources
 
-- [Fernández-Rodríguez, Paz-Caballero, González-Fernández & Pérez-Álvarez, "Activation vs. Experiential Avoidance as a Transdiagnostic Condition of Emotional Distress", Frontiers in Psychology (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/) — carrier of the Hayes et al. 1996 definition and the short-term relief / long-term worsening sentence; ACT described as teaching direct contact with experience; AAQ-II treated as the avoidance-focused measure
+- [Fernández-Rodríguez, Paz-Caballero, González-Fernández & Pérez-Álvarez, "Activation vs. Experiential Avoidance as a Transdiagnostic Condition of Emotional Distress", Frontiers in Psychology (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6129770/) — carrier of the Hayes et al. 1996 definition and the short-term relief / long-term worsening sentence; ACT described as teaching direct contact with experience; AAQ-II named among measures for evaluating experiential avoidance
 
 ## Cited in parallels
 
