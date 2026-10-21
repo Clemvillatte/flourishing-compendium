@@ -1,11 +1,12 @@
 {
  "batch": "p1zzk",
  "done": [
-  "X003"
+  "X003",
+  "X019"
  ],
- "in_progress": "X019",
+ "in_progress": "X024",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:29:45+00:00"
+ "updated": "2026-10-21T04:30:11+00:00"
 }
