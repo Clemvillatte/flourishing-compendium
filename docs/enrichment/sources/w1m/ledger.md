@@ -45,3 +45,11 @@
   for the practice is Mill's). Mill's first name corrected by removal.
 - Related targets Partial truths in every opinion and Epistemic humility
   verified to exist. Validator ok.
+
+## QC round 1 — w1m fresh items (advisor, 2026-10-21)
+
+- Round-1 verdict: all three fresh items FAIL (scoped); repairs applied
+  per the advisor's exact edits (see the state flags for the per-item
+  lists). All three validated ok with --fast-track against their
+  pre-enrichment baselines (07e5344^ / 2c2f007^ / 941ce67^) after
+  repair. Re-verification pending next advisor round.

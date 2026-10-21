@@ -7,7 +7,11 @@
   "Steelmanning the opposing view"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Sub specie aeternitatis": "takeover QC round 1 applied 2026-10-21 (advisor FAIL->repairs): unverified claims removed (highest perspective, hope/fear contrast, third-kind/blessedness conclusion, mind's-eternity closer), II.44 wording corrected to 'a related Latin formulation', 'as true or real' qualification restored, D043 Stoic-cousin gloss and Blessedness/Conatus glosses reduced to listed-for-comparison; validated ok --fast-track vs pre-edit baseline 07e5344^; QC re-verification pending",
+  "The job demands-resources model": "takeover QC round 1 applied 2026-10-21 (advisor FAIL->repairs): health-impairment/motivational-process sentence and autonomy/feedback/support examples removed (not in opened abstract), standalone blockquote added, 'introduced in 2001'/'each to its own outcome'/'resources toward engagement' overclaims removed, inherited trailing burnout-follows assertion reduced to bare reference, Related glosses reduced to listed-for-comparison; validated ok --fast-track vs 2c2f007^; QC re-verification pending",
+  "Steelmanning the opposing view": "takeover QC round 1 applied 2026-10-21 (advisor FAIL->repairs): Mill equivalence replaced with 'a related argument appears in ch. 2', epistemic-not-courteous paragraph replaced with the advisor's bounded sentence, steelman-built-before-critique paragraph re-attributed to Mill with citation, CO029 descendant / confirmation-bias / epistemic-humility / partial-truths glosses reduced to listed-for-comparison; validated ok --fast-track vs 941ce67^; QC re-verification pending"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
  "updated": "2026-10-21T08:07:00+00:00"
