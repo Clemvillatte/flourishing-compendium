@@ -12,13 +12,21 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 7** — Keep thought and world in parallel
 
-The order and connection of ideas is the same as the order and connection of things. Whatever happens in your mind is not a private film over the world but the world itself, considered as thought. The principle grounds Spinoza's realism and his therapy at once: because your ideas are events in the same order as everything else, examining them is not narcissism but navigation.
+In the Ethics, Spinoza states the parallelism as a demonstrated proposition: the order and connection of ideas is the same as the order and connection of things. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-(Ethics II, P7 and its scholium.)
+> "PROP. VII. The order and connection of ideas is the same as the order and connection of things."
 
-**Plain words** The order and connection of ideas is the same as the order and connection of things. Your mind isn't a private film over the world — it's the world considered as thought. Realism grounded: think clearly and you track the actual; think badly and you're still tracking something — badly.
+(Ethics II, Prop. VII, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-*For example:* Two managers describe the same failing team — one's account matches the metrics, the other's matches their mood. The ideas and the things run on the same tracks; the second manager's train just isn't on them.
+> "A mode of extension and the idea of that mode are one and the same thing, though expressed in two ways... whether we conceive nature under the attribute of extension, or under the attribute of thought, or under any other attribute, we shall find the same order, or one and the same chain of causes—that is, the same things following in either case."
+
+(Ethics II, Prop. VII, Note, same translation and source.)
+
+The proposition is presented as evident from an axiom; the Note explains the identity it rests on: a thing and its idea are one and the same thing expressed in two ways. The page's therapy reading — examining ideas as navigation of the world rather than narcissism — is the compendium's own application, not something this passage states.
+
+**Plain words** Every idea sits in the same chain of causes as the thing it is the idea of. Look at the order inside your thinking and you are looking at the order outside it — the same chain, read as thought. An idea is not a picture of the world laid over it; it is the world, considered as thought.
+
+*For example:* Imagined: two managers describe the same failing team; one's account matches the metrics, the other's matches their mood. Both accounts are events in the same order — the second reads that order badly.
 ## Psychology parallels
 
 - **[[Predictive processing|Predictive processing]]**, the current framework in which mind and world are modeled as one loop of prediction and correction (Clark, 2013, "Whatever next?")
