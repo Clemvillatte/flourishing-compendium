@@ -38,6 +38,7 @@ A calendar filled entirely with work leaves rest dependent on a cancellation. Pu
 ## Stories
 - [[ST374 — Poincare Leaves the Problem and Returns to Check It|374. Poincare Leaves the Problem and Returns to Check It]]
 - [[ST393 — The Shrine the Nazis Could Not Burn|393. The Shrine the Nazis Could Not Burn]]
+- [[ST411 — The Shrine the Nazis Could Not Burn|411. The Shrine the Nazis Could Not Burn]]
 ## Psychology parallels
 
 - **[[Psychological detachment|Psychological detachment]]** (Sonnentag and Fritz, 2007), during off-time predicts next-day engagement and long-term health
