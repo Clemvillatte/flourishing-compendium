@@ -1877,3 +1877,10 @@ Verification pass 43 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - P081: both Dewey Experience and Nature ch. 10 quotes match the freshly downloaded archive.org djvu text verbatim.
 - P082: both Zhuangzi ch. 3 cook quotes match the freshly downloaded tianmu.org page verbatim, and the Dewey HNC habit passage matches verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 193 page-checks across 43 passes. Session ends; report follows.
+
+Verification pass 44 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- P088: all three Dewey HNC quotes (part 1 sec. 1 ×2, part 4 sec. 4) match the freshly downloaded Gutenberg #41386 text verbatim.
+- P090: the Dewey Democracy and Education VII.2 democracy sentence matches the already-downloaded Gutenberg #852 text verbatim.
+- P094: both Bergson Introduction to Metaphysics (Hulme) quotes match the freshly downloaded reasoned.org PDF verbatim.
+- P095: the Whitehead Process and Reality future/past sentence matches the already-downloaded openml PDF verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 197 page-checks across 44 passes. Session ends; report follows.
