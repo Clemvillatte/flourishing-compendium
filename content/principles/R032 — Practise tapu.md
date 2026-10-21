@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 294** — Practise tapu
 
-Recognise the sacred dimension of persons, places, and things. Tapu is not merely prohibition; it is the recognition that some things are set apart, that they carry a weight that demands respect. Honour the tapu of others, of sacred places, and of significant moments.
+Te Ara, the Encyclopedia of New Zealand, describes tapu as inherited: "A person's tapu is inherited from their parents, their ancestors and ultimately from the gods", and "When a person, living thing or object was tapu it would often mean people's behaviour was restricted" ([Te Ara, Traditional Māori religion](https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/print)). Its glossary gives the short form as "sacred; under religious restriction" ([Te Ara glossary](https://teara.govt.nz/en/glossary)).
 
 (Māori tikanga; Mead, 2003, Tikanga Māori; Durie, 1994, Whaiora.)
 
-**Plain words** Tapu: some persons, places, and moments are set apart — they carry a weight that demands respect, not just a rulebook. Honour the tapu of others, of sacred places, of significant moments. Not everything should be touched, photographed, or joked about.
+### Place and practice
 
-*For example:* The visitor at the tangi who asks what the protocols are and follows them without commentary — and is trusted with the stories afterwards precisely because they showed they could hold weight.
+Tapu applies to places as well as people. Te Ara lists burial grounds, sites where people had been killed, and the tops of tribal mountains as wāhi tapu (restricted areas), and notes that people "either had to stay away from them, or refrain from doing things which would break their tapu". On a marae, the urupā (cemetery) "is one of the most tapu places in all of Māori society", and no eating, drinking or smoking is permitted there ([Te Ara, Māori manners and social behaviour](https://teara.govt.nz/en/maori-manners-and-social-behaviour-nga-mahi-tika/print)).
+
+The same article says these customs "vary between tribes and are not always observed, and the best practice is to follow the guidance of the host people". That is the practical rule for a visitor. Mead 2003 and Durie 1994 were not opened.
+
+**Plain words**
+Some people, places and moments are set apart, and respect means changing your behaviour. What that looks like depends on the people whose place it is, so ask them.
+
+**For example**
+Before visiting a marae or any sacred place, ask your host what to do and what to avoid. Follow their answer, including on photographs.
+
+## Sources
+
+- [Te Ara, Traditional Māori religion, "Tapu and noa"](https://teara.govt.nz/en/traditional-maori-religion-nga-karakia-a-te-maori/print)
+- [Te Ara, Māori manners and social behaviour](https://teara.govt.nz/en/maori-manners-and-social-behaviour-nga-mahi-tika/print)
+- [Te Ara glossary](https://teara.govt.nz/en/glossary)
+
 ## Psychology parallels
 
 - **[[Awe|Awe and the sacred]]** (Keltner and Haidt, 2003)

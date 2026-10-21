@@ -45,3 +45,5 @@
 - Note: the locator gives pp. 148-161; the PDF header says 147-161.
 ## R035 — pono
 - Opened: Te Aka entry pono (search-results page). Mead 2003 and Durie 1994 not opened; page thin by design. Supervisor: a tikanga source (Mead ch. on tikanga values, or Te Ara) would strengthen it.
+## R032 — tapu
+- Opened (search excerpts, Te Ara print pages): Traditional Māori religion "Tapu and noa"; Māori manners and social behaviour; glossary. Mead 2003 / Durie 1994 not opened. Seed "photographed or joked about" not sourced; replaced by host-guidance rule (Te Ara). Invented tangi anecdote removed.
