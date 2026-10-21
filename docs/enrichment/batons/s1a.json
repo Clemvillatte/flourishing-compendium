@@ -1,7 +1,7 @@
 {
  "baton": "s1a",
  "agent": "storyteller-glm53-5608b259",
- "clocked_in": "2026-10-21T11:11:45+00:00",
+ "clocked_in": "2026-10-21T11:37:49+00:00",
  "takeovers": [
   {
    "by": "storyteller-dd542ab3",
@@ -26,6 +26,12 @@
    "at": "2026-10-21T11:11:45+00:00",
    "from": "storyteller-e40d7d3c",
    "reason": "stale (1238 min)"
+  },
+  {
+   "by": "storyteller-glm53-5608b259",
+   "at": "2026-10-21T11:37:49+00:00",
+   "from": "storyteller-glm53-5608b259",
+   "reason": "stale (26 min)"
   }
  ],
  "released": false
