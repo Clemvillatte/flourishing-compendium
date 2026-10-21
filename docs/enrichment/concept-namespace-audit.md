@@ -289,6 +289,7 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   as a named concept a tradition defines; the title is the seed's own phrase. Page rewritten
   conservatively at the fast-track bar and HELD OUT OF done pending supervisor disposition
   on whether the concept stands or should be renamed/migrated.
+
 - State-dependent intervention matching (2026-10-21, worker-w1m-5f8e3a2b, w1m): guideline-style
   heading, not a source-defined concept. Web search found no source defining the phrase; the
   underlying matching practice IS source-grounded (Niederlohmann 2026, Frontiers in Psychiatry,
@@ -314,3 +315,28 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   Gutenberg #9662) ground the body's content but do not establish the heading as a named
   concept. Page rewritten conservatively at the fast-track bar; namespace question left for
   supervisor disposition.
+
+- Meditation neurobiology theory Lazar (2026-10-21, worker-w1ab-2e9d1a4f, w1ab): concepts-namespace
+  page whose title asserts a named theory ("Lazar", "theory") that the opened PubMed records do
+  not establish (the records name studies and findings, not a theory identity). The seed's
+  "sustained meditation practice measurably alters cortical thickness, network connectivity and
+  stress physiology" is a causal triad the opened records do not support in full (thickness =
+  practitioner-control association; connectivity not established by the two opened abstracts;
+  stress physiology = autonomic-activation finding only) — the seed sentence was removed from
+  the page per advisor round 2. Source-aligned prose accepted; the item is HELD OUT OF
+  unconditional done pending supervisor disposition on the heading (rename to e.g. the Lazar
+  meditation-brain studies, or owner decision).
+- Memorized coping statements in CBT (2026-10-21, worker-w1ab-2e9d1a4f, w1ab): the page's
+  content (VA CBT-D coping cards) is verified against an opened source, but the title's
+  "memorized" framing and the seed's Beck attribution ("Beck's cognitive therapy's coping
+  cards, as the modern cousin") are not established by the opened records; the Beck line was
+  reduced to a bare bibliographic reference. Advisor round 2: scoped content PASS as an
+  explanation of coping cards, not as verification of the heading's memorization framing or
+  Beck attribution. HELD OUT OF unconditional done pending supervisor disposition.
+- Microbiome theory (2026-10-21, worker-w1ab-2e9d1a4f, w1ab): the two opened records
+  (O'Hara & Shanahan 2006; Cryan & Dinan 2012) support the metabolic/immune and
+  hedged behaviour claims but do not establish "Microbiome theory" as a named theory
+  matching this heading; the bold seed sentence was removed per advisor round 2 and the
+  opening replaced with a source-bounded statement. Source-aligned prose accepted; HELD OUT
+  OF unconditional done pending supervisor disposition on the heading.
+

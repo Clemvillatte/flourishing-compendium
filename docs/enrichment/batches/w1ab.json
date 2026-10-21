@@ -15,12 +15,11 @@
   "Matching Hypothesis",
   "Micro-moments of connection",
   "Measure (mesure)",
-  "Meditation neurobiology theory Lazar",
   "Memorized coping statements in CBT",
   "Microbiome theory",
   "Mind-life continuity"
  ],
- "in_progress": null,
+ "in_progress": "Meditation neurobiology theory Lazar",
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -36,14 +35,14 @@
   "Matching Hypothesis": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
   "Micro-moments of connection": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
   "Means as end": "Namespace audit (see concept-namespace-audit.md): opened Dewey text supports the means-ends relationship but does not establish 'Means as end' as a named concept; page rewritten conservatively and HELD OUT OF done pending supervisor disposition.",
-  "Meditation neurobiology theory Lazar": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)",
+  "Meditation neurobiology theory Lazar": "Reopened for QC: advisor round-2: source-aligned prose accepted but concept identity/title scope unresolved — namespace hold recorded in concept-namespace-audit.md; held out of unconditional done",
   "Memorized coping statements in CBT": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)",
   "Microbiome theory": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)",
   "Mind-life continuity": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T10:55:41+00:00",
+ "updated": "2026-10-21T10:58:10+00:00",
  "band_done": false,
  "new_concepts": [
   {

@@ -216,3 +216,24 @@
   BARE link (validator caught the removal); Embodied-cognition gloss removed.
 - All four re-validated --fast-track: ok (2 Related-line warnings, fast-track scope).
 - Repairs re-verification by advisor: PENDING (round 2).
+
+## MILESTONE QC items 2-5 (advisor round 2: item 3 scoped content PASS + cleanups; items 2/4 FAIL on retained seed claims; item 5 FAIL narrow) — 2026-10-21, worker-w1ab-2e9d1a4f
+- ITEM 2: the bold seed sentence ('sustained meditation practice measurably alters...') DELETED
+  (causal triad not established by the opened records); immediate citations added to the
+  participant-count, design and activation-list sentences; title/namespace HOLD recorded in
+  concept-namespace-audit.md; item reopened (not unconditionally done).
+- ITEM 3: two cleanups applied (opening starts 'Crane and Watters recommend...'; the
+  guide's-own-emphasis sentence deleted); Beck Sources line reduced to a bare bibliographic
+  reference ('Beck's cognitive therapy's coping cards'); title/namespace HOLD recorded in
+  concept-namespace-audit.md; item reopened (scoped content PASS stands).
+- ITEM 4: opening replaced with the advisor's source-bounded statement (organ-within-an-organ
+  comparison); the germ-free/infections/probiotics/antibiotics evidential basis sentence added
+  with citation; 'emerging concept' and 'may' retained; immediate citations added to the
+  paraphrases; title/namespace HOLD recorded; item reopened.
+- ITEM 5: Enactivism clause replaced with the opened-precis-grounded wording (Thompson relates
+  the enactive approach to life-mind continuity, p. 12 of the author proof); Sources row
+  corrected (thesis verbatim; twofold approach partly quoted/partly paraphrased; convergence
+  passage p. 12). Repairs applied; item marked done pending round-3 verification.
+- NOTE (advisor): item 1's round-1 FAIL -> repairs were applied but no subsequent PASS verdict
+  was recorded; item 1 is included in the round-3 resubmission below.
+- Round-3 resubmission: in flight.

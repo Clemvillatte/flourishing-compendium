@@ -21,12 +21,12 @@ The claim is organizational. Thompson's twofold approach: to be a living organis
 
 ## Related concepts
 
-- [[Enactivism]] — the continuity thesis is presented within this research programme, which Thompson develops with Varela and Rosch in The Embodied Mind
+- [[Enactivism]] — Thompson relates the enactive approach to life-mind continuity ([Précis, p. 12](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf))
 - [[Embodied cognition]]
 
 ## Sources
 
-- [Thompson, Précis of Mind in Life (Journal of Consciousness Studies author proof, evanthompson.me)](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf) — the deep-continuity thesis and twofold approach, quoted verbatim from the Introduction; the enactive-phenomenology convergence passage, paraphrased, from later in the same document
+- [Thompson, Précis of Mind in Life (Journal of Consciousness Studies author proof, evanthompson.me)](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf) — the deep-continuity thesis quoted verbatim from the Introduction; the twofold approach partly quoted and partly paraphrased; the enactive-phenomenology convergence passage, paraphrased, from p. 12 of the author proof
 - Thompson, Mind in Life
 
 ## Cited in philosophy parallels
