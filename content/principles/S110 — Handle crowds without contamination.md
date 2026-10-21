@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 232** — Handle crowds without contamination
 
-Seneca warns that crowds are dangerous to moral character. The person who spends time among the greedy, the ambitious, and the envious will absorb their values. Be in the world but not of it. Choose your company carefully.
+Epictetus warns his students about public entertainments:
 
-(Seneca, Letters 7, 25, 94, 104; Med. I.9, III.4, IV.3, IV.18, V.3, VI.16; Disc. III.3, III.16; Ench. 4, 33, 46.)
+> "Avoid public and vulgar entertainments; but if ever an occasion calls you to them, keep your attention upon the stretch, that you may not imperceptibly slide into vulgarity. For be assured that if a person be ever so pure himself, yet, if his companion be corrupted, he who converses with him will be corrupted likewise."
 
-**Plain words** Seneca warns that crowds corrode character. Spend time among the greedy, ambitious and envious and you pick up their values. Be in the world but not of it, and choose your company carefully.
+(Ench. XXXIII, Thomas Wentworth Higginson translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt).)
 
-*For example:* Leaving a work group chat that thrives on gossip and finding your mood improves.
+The compendium applies the passage to any crowd, online or physical. The warning is about drifting without noticing; the exercise is to notice your own speech and appetites after time in a group, and compare them with before.
+
+**Plain words** You do not have to leave every room. Watch what the room is doing to you, and leave when you can no longer watch.
+
+*For example:* Imagined: someone leaves a work group chat that thrives on gossip, and finds their mood improves within a week.
+
+## Sources
+
+- [Enchiridion XXXIII, Thomas Wentworth Higginson translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/45109/pg45109.txt) — the single locator the body uses
 
 ## Psychology parallels
 
