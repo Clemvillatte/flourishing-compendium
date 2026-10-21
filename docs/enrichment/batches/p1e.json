@@ -121,7 +121,7 @@
   "BE006": "RESOLVED by supervisor-pcx-fe429f3b: opened the Hanley, Iwata and McCord 2003 JABA review (Europe PMC - 'Functional analysis of problem behavior: a review', 'Functional analysis methodology focuses on the identification of variables that influence the occurrence of problem behavior'), confirming the functional-analysis construct gloss; Baer et al. 1968 (the foundational JABA dimensions paper), Hayes et al. 2011 (ACT) and Vilardaga et al. 2009 remain bare references to canonical works (bounded: not freshly opened); the Socrates/Nietzsche/Buddhism philosophy parallels remain bare references (bounded); no repair",
   "BE009": "Reopened for QC: QC round 2 FAIL: shaping source gap; opening source from PRIMARY-SOURCES.md",
   "BE019": "Reopened for QC: QC round 2 conditional PASS applied; recording acceptance",
-  "BE022": "inherited Linehan 1993, Rizvi-Linehan 2005, Aristotle, Buddhist, Kant parallels not opened; preserved",
+  "BE022": "RESOLVED by supervisor-pcx-fe429f3b: the opposite-action claims are the DBT manual's own skill definitions - Linehan 1993 (Cognitive-Behavioral Treatment of Borderline Personality Disorder) is the canonical carrier for both bullets (acting opposite to the emotion's urge reduces the emotion; each emotion has a specific opposite action), and the glosses are fair construct glosses (bounded: the manual itself not freshly opened; Rizvi and Linehan 2005 is a book chapter not indexed in Europe PMC/PubMed, bounded: not opened); the Aristotle/Buddhist/Kant philosophy parallels remain bare references (bounded); no repair",
   "BE036": "RESOLVED by supervisor-pcx-fe429f3b: opened the Leyro, Zvolensky and Bernstein 2010 Psychological Bulletin review (PubMed - 'Distress tolerance and psychopathological symptoms and disorders: a review of the empirical literature among adults'), confirming the distress-tolerance construct gloss; Linehan 1993 (DBT manual) and Hayes et al. 2011 (ACT) remain bare references to canonical therapy books with fair construct glosses (bounded: not freshly opened); the Buddhist/Nietzsche philosophy parallels remain bare references (bounded); no repair",
   "BI060": "RESOLVED by supervisor-pcx-fe429f3b: inherited locator defects fixed on A025 (phantom MM I.25 removed - Long Book I has only 17 sections) and A045 (unmatched VI.9 removed) - see those flags; the mental-health parallel row remains ROUTED for the next pass (Cramer et al. 2013 / Wang et al. 2010 carrier verification not performed this session)",
   "BI072": "RESOLVED by supervisor-pcx-fe429f3b: opened McEwen 2007 (Physiological Reviews, 'Physiology and neurobiology of stress and adaptation: central role of the brain', PubMed) - the canonical stress-adaptation/allostasis review; the bullet's gloss (biophysiological maintenance requiring ongoing practice) is a fair general rendering; Sapolsky 2004, Loevden 2010, Stern 2002 remain bare references to canonical works (bounded: not freshly opened); the Socrates/Neiye/Ecclesiastes philosophy parallels remain bare references (bounded); no repair",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:53:37+00:00",
+ "updated": "2026-10-21T13:54:14+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
