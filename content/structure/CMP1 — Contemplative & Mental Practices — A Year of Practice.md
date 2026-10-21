@@ -142,7 +142,6 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [A Listening Presence](https://www.tarabrach.com/meditation-a-listening-presence-2026-06-03-2027-min/) | Tara Brach | 20:27 |
 | [Resting in Reality](https://www.tarabrach.com/meditation-resting-in-reality-2/) | Tara Brach | 24 min |
 | [Direct Experience](https://www.audiodharma.org/talks/453) | Gil Fronsdal, AudioDharma | 35:45 |
-| [World of Thoughts](https://www.audiodharma.org/talks/555) | Gil Fronsdal, AudioDharma | 42:59 |
 
 ### Loving-kindness and compassion (LKM)
 
