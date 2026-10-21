@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Trust — the willingness to be vulnerable to another's good will. It is the medium of every relational tradition and the precondition of the community of inquiry.
 
+## Related concepts
+
+- [[M017]] — this page applies the Codex's criticism of inconsistent words and deeds to keeping commitments
+
 ## Sources
 - Wikipedia Trust (social science): https://en.wikipedia.org/wiki/Trust_(social_science)
 

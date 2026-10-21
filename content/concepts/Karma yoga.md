@@ -19,8 +19,9 @@ Chapter III of Arnold's translation urges the reader to perform the allotted tas
 
 ## Related concepts
 
-- [[Karma]] — the Gita's discipline names action itself, the topic karma covers
 
+- [[Karma]] — the Gita's discipline names action itself, the topic karma covers
+- [[M031]] — the Gita's counsel to perform the allotted task prefers work to idleness, the same ordering this principle makes
 ## Sources
 - [The Song Celestial (Bhagavad Gita), Arnold translation, Project Gutenberg](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm) — Chapters II and III
 - Wikipedia Karma yoga: https://en.wikipedia.org/wiki/Karma_yoga

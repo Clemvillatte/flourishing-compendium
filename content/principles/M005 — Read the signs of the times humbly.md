@@ -35,3 +35,8 @@ Suppose a family member is recovering from surgery. You could review this week's
 
 - **Timing and the seasons** (Ecclesiastes 3, as cultural parallel)
 - **[[Reading the moment|Reading the moment]]** (the Zhouyi, the Book of Changes' timing tradition)
+
+
+## Related concepts
+
+- [[M052]] — both principles draw on the same Maya Daykeeping excerpt, one for the divinatory reading and one for the service role

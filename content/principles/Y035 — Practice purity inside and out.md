@@ -28,6 +28,10 @@ Sutra 2.40 says "As a result of cleanliness there is disgust at one's own body a
 
 (Yoga Sutras 2.32 and 2.40-2.41 with Vyasa's Bhasya and Vacaspati Misra's gloss, trans. James Haughton Woods, The Yoga-System of Patanjali (1914), pp. 181, 188-189, Internet Archive, opened 2026-10-21.)
 
+## Related concepts
+
+- [[M032]] — the Yoga observance of shaucha and the Nahua counsel on cleanliness treat the same practice in two traditions
+
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 181, 188-189

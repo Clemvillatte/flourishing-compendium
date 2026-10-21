@@ -28,6 +28,10 @@ Work feels different when you know who it is for. Where you can, link what you d
 **For example**
 For one week, keep a note by your desk. At the end of each day, write the name of one person your work helped or will help. If you can't, find one person to ask what they use from it.
 
+## Related concepts
+
+- [[M022]] — rooting yourself in a place and rooting your work in the people it serves are complementary halves of a rooted life
+
 ## Sources
 
 - [Britannica, Nahua](https://www.britannica.com/topic/Nahua)

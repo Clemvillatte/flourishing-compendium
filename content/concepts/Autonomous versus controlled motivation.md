@@ -17,8 +17,9 @@ Within extrinsic motivation the theory grades autonomy: "extrinsic motivation ca
 
 ## Related concepts
 
-- [[MO062]] — A principle on how reward categories related to intrinsic motivation in the reviewed studies
 
+- [[MO062]] — A principle on how reward categories related to intrinsic motivation in the reviewed studies
+- [[MO015]] — the internalization continuum is the mechanism behind the autonomy principle's claim
 ## Sources
 
 - Deci and Ryan, 2000

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Scholē (leisure) — for Aristotle not idleness but the condition of the highest activities: contemplation and undisturbed friendship. Work exists for its sake; a life of nothing but work misses the end ([Wikipedia Scholē](https://en.wikipedia.org/wiki/Schol%C4%93)).
 
+## Related concepts
+
+- [[M031]] — Aristotle's leisure is explicitly not idleness, the failure this principle names
+
 ## Sources
 - Wikipedia Scholē: https://en.wikipedia.org/wiki/Schol%C4%93
 

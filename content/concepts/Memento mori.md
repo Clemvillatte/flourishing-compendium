@@ -16,6 +16,10 @@ The distinction to hold: memento mori is not fatalism or gloom. It is urgency wi
 An example at its smallest: one sentence written at the top of the day's plan — “this may be one of few remaining” — and the plan edited accordingly.
 
 Its Stoic sibling is [[Premeditatio malorum]] (adversity rehearsed instead of death) and its Buddhist one [[Impermanence]].
+## Related concepts
+
+- [[M013]] — the remembrance-of-death tradition and the flower-and-song elegies treat the same fact from two sides
+
 ## Sources
 
 - Seneca, Letters 101

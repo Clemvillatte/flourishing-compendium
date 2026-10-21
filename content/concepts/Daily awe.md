@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Daily awe” — Keltner.
 
+## Related concepts
+
+- [[PP014]] — the Bai et al. study of awe and daily stress summarized on this principle is a study of awe in daily life
+
 ## Sources
 
 - Keltner

@@ -9,6 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Flower and song” — in xochitl in cuicatl, the tradition's own term for what is worth doing.
 
+## Related concepts
+
+
+
+- [[M012]] — the compendium's principle on spending your best materials on the best truths is a direct application of flower and song
+- [[M013]] — flower and song is the tradition's own name for the art this principle makes in the face of transience
+- [[M015]] — the principle on the songs' communal performance belongs with the tradition's own name for the sung art
 ## Sources
 
 - in xochitl in cuicatl, the tradition's own term for what is worth doing

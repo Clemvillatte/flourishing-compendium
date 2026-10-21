@@ -2,65 +2,20 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "Flower and song",
-   "link": "M012 \u2014 Give your finest materials to the finest truths",
-   "why": "the compendium's principle on spending your best materials on the best truths is a direct application of flower and song"
-  },
-  {
    "into": "Leisure",
-   "link": "M031 \u2014 Work steadily; idleness is the root disorder",
+   "link": "M031 — Work steadily; idleness is the root disorder",
    "why": "Pieper's leisure is defined against idleness, which this principle treats as the root disorder"
   },
   {
-   "into": "Schol\u0113",
-   "link": "M031 \u2014 Work steadily; idleness is the root disorder",
-   "why": "Aristotle's leisure is explicitly not idleness, the failure this principle names"
-  },
-  {
-   "into": "Karma yoga",
-   "link": "M031 \u2014 Work steadily; idleness is the root disorder",
-   "why": "the Gita's counsel to perform the allotted task prefers work to idleness, the same ordering this principle makes"
-  },
-  {
-   "into": "Y035 \u2014 Practice purity inside and out",
-   "link": "M032 \u2014 Keep the body and the house clean",
-   "why": "the Yoga observance of shaucha and the Nahua counsel on cleanliness treat the same practice in two traditions"
-  },
-  {
-   "into": "M024 \u2014 Root your work in the people it serves",
-   "link": "M022 \u2014 Root yourself in a place",
-   "why": "rooting yourself in a place and rooting your work in the people it serves are complementary halves of a rooted life"
-  },
-  {
-   "into": "Autonomous versus controlled motivation",
-   "link": "MO015 \u2014 Cultivate autonomy \u2014 motivation requires choice",
-   "why": "the internalization continuum is the mechanism behind the autonomy principle's claim"
-  },
-  {
    "into": "Choice architecture",
-   "link": "MO031 \u2014 Learn to increase friction for undesired behaviours \u2014 make it hard",
+   "link": "MO031 — Learn to increase friction for undesired behaviours — make it hard",
    "why": "friction design is choice architecture applied to habit change"
   },
   {
-   "into": "Self-forgiveness",
-   "link": "PP042 \u2014 Practise forgiveness as release",
-   "why": "the self-forgiveness trials cited on the principle are the studies the self-forgiveness concept collects"
-  },
-  {
-   "into": "M005 \u2014 Read the signs of the times humbly",
-   "link": "M052 \u2014 Serve as a daykeeper serves",
-   "why": "both principles draw on the same Maya Daykeeping excerpt, one for the divinatory reading and one for the service role"
-  },
-  {
    "into": "Dignity",
-   "link": "M034 \u2014 Carry yourself with dignity in every station",
+   "link": "M034 — Carry yourself with dignity in every station",
    "why": "the principle reads dignity as conduct in every station rather than rank, a Mesoamerican entry under the dignity concept"
-  },
-  {
-   "into": "Daily awe",
-   "link": "PP014 \u2014 Seek awe",
-   "why": "the Bai et al. study of awe and daily stress summarized on this principle is a study of awe in daily life"
   }
  ],
- "notes": "p1zze closeout proposals (worker-p1zze-b7e3f9c2). Reciprocals only; all 12 verified to lack the edge via graph check (short IDs) and all targets resolve (enrich_find resolve, 0 unresolved). A037->M046 removed at QC round 4: the inspected M046 passage establishes trickery only, not the humility equivalence. From the band-wide mention checks (30/30 items, --max 400, no truncation; warranted candidates reviewed, selected-candidate dispositions in sources/p1zze/ledger.md)."
+ "notes": "p1zze closeout proposals (worker-p1zze-b7e3f9c2). Reciprocals only; all 12 verified to lack the edge via graph check (short IDs) and all targets resolve (enrich_find resolve, 0 unresolved). A037->M046 removed at QC round 4: the inspected M046 passage establishes trickery only, not the humility equivalence. From the band-wide mention checks (30/30 items, --max 400, no truncation; warranted candidates reviewed, selected-candidate dispositions in sources/p1zze/ledger.md). | deferred at this run (target band busy): 3 recip, 0 inline"
 }

@@ -13,6 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - **failure** — Hall and Fincham, 2005
 
+## Related concepts
+
+- [[PP042]] — the self-forgiveness trials cited on the principle are the studies the self-forgiveness concept collects
+
 ## Sources
 
 - Hall and Fincham, 2005
