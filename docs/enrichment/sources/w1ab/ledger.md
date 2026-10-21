@@ -326,3 +326,21 @@
   ('the display-side cousin'); Terror management exists (deg 16) and is the theory the
   study tests.
 - QC cadence: item 9; next advisor milestone due at item 10.
+
+## Moral dilemmas (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Sources stub + Cited-in R096). Validated --fast-track
+  --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Haidt 2001, Psychol Rev 108(4):814-34
+  (PMID 11699120, via esearch 'Haidt moral judgment dog'; NOT guessed). The rationalist-
+  models framing, the post-hoc-construction hypothesis, the intuitionist model statement
+  and the cross-field consistency claim all quoted verbatim from the abstract.
+- SCOPE: the seed's 'Haidt, 2012' (The Righteous Mind) was NOT opened (not in the owner's
+  PRIMARY-SOURCES library; no verifiable carrier) — the page grounds on the opened 2001
+  paper and keeps the 2012 book as a bare Sources line. The page's definition sentence
+  ('situations in which moral considerations conflict...') is the compendium's framing
+  of what the linking principle R096 uses; the abstract does not define 'moral dilemma'
+  itself. An initial draft of the Related rows (Terror management, Humility) was caught
+  as ungrounded by self-review BEFORE validation and replaced with Kohlberg/moral-
+  development/moral-emotions rows grounded in the abstract's own rationalist-vs-intuitionist
+  framing.
+- QC cadence: item 10 — ITEM-10 MILESTONE QC DUE (advisor).
