@@ -64,7 +64,8 @@
   "Revenge",
   "Relational ontology",
   "Self-sufficiency",
-  "Situational strategies"
+  "Situational strategies",
+  "Skepticism answered by life"
  ],
  "in_progress": null,
  "flagged": {
@@ -96,11 +97,12 @@
   "Psychological reactance": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
   "Questioning inherited beliefs": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
   "REACH model of forgiveness": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
-  "Reciprocity": "Reopened for QC: QC repair round 3: source-bounded prose per advisor"
+  "Reciprocity": "Reopened for QC: QC repair round 3: source-bounded prose per advisor",
+  "Skepticism answered by life": "fast-track enriched; seed says Enquiry XII but the backgammon passage is Treatise 1.4.7 (verified Gutenberg #4705); page states this; Enquiry XII.2 paras 126/128/129 verified Gutenberg #9662"
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T06:51:26+00:00",
+ "updated": "2026-10-21T07:50:29+00:00",
  "band_done": false,
  "new_concepts": [
   {
