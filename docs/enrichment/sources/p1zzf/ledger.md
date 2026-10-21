@@ -76,3 +76,7 @@
 ## R092 — Practise listening as a moral act
 - Opened (excerpts): Buber quotes via Jenny Connected blog and Salisbury text excerpt (secondary, pp. 67-84 Knowledge of Man), Rogers & Farson 1957 PDF excerpt, Elliott et al. 2011 PubMed abstract. Rogers 1961 unread.
 - Seed "listening is the primary act of I-Thou": not found in Buber passages; flagged as the page's reading. Buber quotes are secondary-site quotations (primary text unopened).
+
+## R096 — Practise the third
+- Opened (excerpts): SEP Levinas (+2019 archive quoting OBBE 157), BMC Med Ethics, PhilArchive paper quoting Levinas, Philosophy Today supplement (quoting OB 158), Scribd doc on Gilligan-Kohlberg. Levinas primary texts, Kohlberg, Haidt unread.
+- Seed citation error: Otherwise than Being is 1974 (Lingis 1981), not 1969; disclosed on page. Quotes via secondary sources.
