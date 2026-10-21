@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 69** — Make your own self your ally
 
-The Gita's opening instruction to the meditator, given before any posture or technique: raise yourself by yourself, and do not trample yourself down; the self is your friend when you have mastered it, and your enemy when you have not. The classical teaching concerns self-mastery: the relationship with yourself is itself part of the work. The [[Self-compassion|self-compassion]] application below is a modern adaptation of the teaching to the problem of relapse, not the Gita's own frame. Practically, audit the tone of your inner voice after each practice and each failure; a relapse handled as an ally's counsel returns you to the seat, while one handled as an enemy's verdict keeps you off it.
+Before the Gita describes a seat or a posture for meditation, it says whose job the work is. Verse 6.5 reads:
 
-(BG 6.5-6.6.)
+> Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self.
 
-**Plain words** The Gita's opening instruction to the meditator: raise yourself by yourself, and don't trample yourself down — the self is your friend when you've mastered it, your enemy when you haven't. The classical teaching concerns self-mastery; the modern translation adds: stop being your own worst colleague.
+(Bhagavad Gita 6.5, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/5/).)
 
-*For example:* The inner voice that reviews your day like a hostile manager — versus the one that reviews like a decent coach. Same material; one voice produces paralysis, the other produces the next attempt.
+Verse 6.6 continues: "For those who have conquered the mind, it is their friend. For those who have failed to do so, the mind works like an enemy" ([BG 6.6](https://www.holy-bhagavad-gita.org/chapter/6/verse/6/)). In this translation the friend or enemy is the mind. Other translations use the self here.
+
+Mukundananda's comment says "We are responsible for our own elevation or debasement" and "our biggest enemy is our own mind. It is the saboteur that thwarts our aspirations for perfection." The teaching is about self-mastery and responsibility. The Gita does not speak of tone of voice or of handling a relapse kindly.
+
+The [[Self-compassion|self-compassion]] link is the modern bridge, and it is this page's own. In a meta-analysis of 27 randomised trials, self-compassion interventions improved eleven psychosocial outcomes, including moderate effects on depression (g = 0.66) and anxiety (g = 0.57) ([Ferrari et al., 2019, Mindfulness](https://link.springer.com/article/10.1007/s12671-019-01134-6), abstract read). The review measured those outcomes. It did not test whether self-compassion helps people return to a practice, so that use is an extension. Auditing the tone of your inner voice after a lapse is likewise this page's suggestion.
+
+**Plain words**
+
+Krishna says you can lift yourself or pull yourself down, and the mind can serve you or work against you. Nothing there says how to speak to yourself. A gentler inner voice comes from modern research.
+
+**For example**
+
+After a week of skipped sittings, a woman notices she calls herself a fraud. She stops, and says instead what she would say to a friend in the same spot. She sits for ten minutes that evening.
+
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion interventions]]**, meta-analytic evidence of reductions in depression, anxiety, and stress (Ferrari et al., 2019; the discipline-support reading is an extrapolation, not what the meta-analysis measured)
@@ -26,3 +39,9 @@ The Gita's opening instruction to the meditator, given before any posture or tec
 ## Philosophy parallels
 
 - **The soul's parts as allies or factions** (Plato, Republic IV)
+
+## Sources
+
+- [Bhagavad Gita 6.5 and 6.6 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/5/)
+- [Ferrari, Hunt et al. (2019), Self-Compassion Interventions and Psychosocial Outcomes: a Meta-Analysis of RCTs, Mindfulness 10, 1455-1473](https://link.springer.com/article/10.1007/s12671-019-01134-6) (abstract read; full text not opened)
+- The inherited Plato Republic IV parallel was not opened and no claim here rests on it.

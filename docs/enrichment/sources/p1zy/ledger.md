@@ -346,3 +346,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: sutra 1.31-1.32 matched (differences only list formatting).
 - Seed repairs: structure (obstacles then supports) is in the text; obstacle-as-information reading and the logging practice labelled as the page's own; accompaniments (pain, despondency, unsteady body, breath) noted as a possible log checklist. Michie et al. and Marcus Aurelius not opened.
 - Saturation: low.
+
+## Y069 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: BG 6.5, 6.6 with commentary (Mukundananda); Ferrari et al. 2019 abstract (Springer, via search).
+- Quotes verified: BG spans matched fetched pages; Ferrari effect sizes read in abstract (full text not opened).
+- Seed repairs: this translation makes the mind (not the self) friend or enemy; Gita says nothing on inner-voice tone or relapse handling, so that bridge and the audit are labelled as the page's own; Ferrari measured outcomes, not return to practice. Plato not opened.
+- Saturation: low.
