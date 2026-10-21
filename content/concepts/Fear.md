@@ -21,11 +21,12 @@ Fear is the emotion that mobilizes defense against threat. In the account of Öh
 
 ## Related concepts
 
+
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the practice of approaching feared situations in ordered steps
 - [[Judgment adds the harm]] — the Stoic reading: the opinion, not the event, disturbs
 - [[Courage]] — the compendium's virtue-focused treatment of fear
 - [[ERP (exposure and response prevention)]] — the clinical procedure that runs exposure to feared cues
-
+- [[SP038]] — Spinoza's account of superstition as engendered, preserved, and fostered by fear
 ## Sources
 
 - [Öhman and Mineka, "Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning", Psychological Review 108(3): 483-522 (full-text PDF)](http://people.whitman.edu/~herbrawt/classes/390/Ohman.pdf)

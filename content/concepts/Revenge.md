@@ -16,6 +16,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - makes avengers feel worse (Carlsmith et al., 2008)
 
 - Carlsmith, Wilson and Gilbert, 2008
+## Related concepts
+
+- [[SP031]] — Spinoza's definition of revenge as repayment desire through mutual hatred
+
 ## Sources
 
 - Carlsmith et al., 2008
