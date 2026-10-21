@@ -7,11 +7,11 @@ file: "A certain blindness"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-The heading names William James's 1899 address "On a Certain Blindness in Human Beings", printed in [Talks to Teachers](https://www.gutenberg.org/ebooks/16287). The blindness is structural: each person's inner life is a "vital secret" others are too absorbed in their own to take an interest in, and so, James argues:
+The heading names William James's essay "On a Certain Blindness in Human Beings", included in [Talks to Teachers](https://www.gutenberg.org/ebooks/16287). The blindness is structural: each person's inner life is a "vital secret" others are too absorbed in their own to take an interest in, and so, James argues:
 
 > "Hence the stupidity and injustice of our opinions, so far as they deal with the significance of alien lives. Hence the falsity of our judgments, so far as they presume to decide in an absolute way on the value of other persons' conditions or ideals." (James, "On a Certain Blindness in Human Beings", Talks to Teachers, [Project Gutenberg #16287](https://www.gutenberg.org/ebooks/16287))
 
-His stronger formulation, from the essay's anecdote of the Pacific islanders who mistook a scholar's mirror for eye-medicine equipment: "The spectator's judgment is sure to miss the root of the matter, and to possess no truth. The subject judged knows a part of the world of reality which the judging spectator fails to see, knows more while the spectator knows less" ([Gutenberg #16287](https://www.gutenberg.org/ebooks/16287)).
+James also writes: "The spectator's judgment is sure to miss the root of the matter, and to possess no truth. The subject judged knows a part of the world of reality which the judging spectator fails to see, knows more while the spectator knows less" ([Gutenberg #16287](https://www.gutenberg.org/ebooks/16287)).
 
 ### In the compendium
 
@@ -21,14 +21,14 @@ His stronger formulation, from the essay's anecdote of the Pacific islanders who
 
 ## Related concepts
 
-- [[Sympathy]] — what the blindness starves, in James's account
+- [[Sympathy]]
 - [[The coloured lens]] — the perceiver's state as a limit on what is seen
 
 ## Sources
 
 - James, "On a Certain Blindness"
 - James, Talks to Teachers
-- [James, Talks to Teachers, Project Gutenberg #16287](https://www.gutenberg.org/ebooks/16287) — the essay's passages quoted above, verified against the raw text
+- [James, Talks to Teachers, Project Gutenberg #16287](https://www.gutenberg.org/ebooks/16287) — the essay's passages quoted above
 
 [[S080 — Practise tolerance without indifference]]
 ## Cited in philosophy parallels
