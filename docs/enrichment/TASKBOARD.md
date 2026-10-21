@@ -1744,3 +1744,10 @@ Verification pass 24 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D064: the Yinfu Jing Middle-Section quote matches the freshly downloaded tianmu.org page verbatim, and the Daodejing 8 quote matches the opened Gutenberg #216 text verbatim.
 - D070: the Zhuangzi ch. 19 bell-stand passage matches the opened METIS Legge PDF verbatim (the source hyphenates "Heaven-given" across a line break; the page's rendering is verbatim-correct — initial miss was a pdftotext line-break-hyphen artifact, confirmed in the raw extraction).
 Session total: 123 distinct pages verified (120 fully PASS; 3 minor defects routed).
+
+Verification pass 25 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS.
+- D084: both Zhuangzi ch. 1 and ch. 4 quotes match the opened METIS Legge PDF verbatim.
+- D091: the Daodejing 16 sentence matches the opened Gutenberg #216 text verbatim, and the Zhuangzi ch. 6 melting-pot passage matches the opened METIS PDF verbatim.
+- D094: the Zhuangzi ch. 20 mantis-and-cicada passage matches the opened METIS PDF verbatim.
+- D096: both Daodejing 12 quotes (the rhymed verse and the sage's-preference sentence) match the opened Gutenberg #216 text verbatim.
+Session total: 127 distinct pages verified (124 fully PASS; 3 minor defects routed).
