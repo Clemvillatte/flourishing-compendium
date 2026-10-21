@@ -1235,3 +1235,39 @@ open).
   verified VERBATIM against a fresh fetch of the cited Perseus Rackham text.
   The context-dominates claim is absent; the lawgiver's-own-spirit gloss is
   grounded in the same chapter. All components close.
+- **AF048 — Recognise anxiety's core: intolerance of uncertainty**: RESOLVED.
+  The Dugas et al. 1998 blockquote ("The results show that all main
+  components of the model were highly related to the discriminant
+  function...") verified VERBATIM against a fresh fetch of the cited PubMed
+  9613027 abstract; the four process variables (intolerance of uncertainty,
+  beliefs about worry, poor problem orientation, cognitive avoidance) and the
+  24 GAD / 20 nonclinical sample confirmed in the same abstract. The
+  Borkovec cognitive-avoidance row is a bare reference with no asserted
+  effects; the one-model-of-GAD scoping is explicit. All components close.
+- **AF061 — Cultivate positive affect deliberately: it broadens and builds**:
+  RESOLVED. The Fredrickson 2001 blockquote ("The broaden-and-build theory
+  posits that experiences of positive emotions broaden people's momentary
+  thought-action repertoires...") verified VERBATIM against a fresh fetch of
+  the cited PubMed 11315248 abstract. The categorical-claims defect is
+  absent: the body scopes the theory as proposed/posited and cites the
+  abstract's own "Preliminary empirical evidence... open empirical questions
+  that remain to be tested" framing. All components close.
+- **BE052 — Practise assertiveness**: RESOLVED. The Speed et al. 2018
+  blockquote ("A substantial body of research indicates that assertiveness is
+  a relevant factor...") verified VERBATIM against a fresh fetch of the
+  cited Wiley article. The flagged 1970s-heyday specificity is absent from
+  the current page; the once-popular/decline gloss matches the abstract's
+  own words ("a once highly popular area of investigation that has been
+  neglected... diminished drastically"). All components close.
+- **BI045 — Practise slow breathing**: RESOLVED. All three displayed
+  quotations verified against fresh fetches of the cited Frontiers article:
+  the autonomic-changes sentence and the Psychological/behavioral-outputs
+  sentence VERBATIM from the abstract; the psychophysiological-flexibility
+  sentence VERBATIM from the article's Conclusions section. The Plain-words
+  "around six breaths a minute" gloss grounded in the review's own phrase
+  ("slower breathing (at around 6 b/min)") and its Table 3 protocols; the
+  vagal/parasympathetic-predominance gloss grounded in the article's own
+  sentences ("seem to promote a predominance of the parasympathetic
+  autonomic system... mediated by the vagal activity"). The flagged
+  pooled-result wording and pitch outcome suggestion are absent. All
+  components close.
