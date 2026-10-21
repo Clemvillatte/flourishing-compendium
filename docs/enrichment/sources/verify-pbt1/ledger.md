@@ -133,3 +133,31 @@ Banaji 1995 abstract), UCSD Legge Great Learning pages (both URLs).
    prose claims supported by the opened text.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 5 (16:36Z) — w1aa quote-fidelity verification, fourth batch
+
+Carriers opened fresh: SEP "Paul Ricoeur", Rodrigues (ricoeur.pitt.edu, "Who do you say that
+I am?"), Internet Archive copies of Existence and Being (ia801401 full-text PDF; the
+djvu.txt original URL is currently unfetchable from this sandbox — the page's own evidence
+file docs/enrichment/sources/w1aa/Homecoming.md records the raw-text verification), PubMed
+20550733 (Henrich et al abstract), UBC author manuscript PDF.
+
+1. Homecoming — quote 1 ("The homeland itself dwells near. It is the point of proximity to
+   the hearth and source.") VERBATIM (visible in the opened full-text PDF of the same
+   edition); quote 2 ("Homecoming is the return into the proximity of the source.") VERBATIM;
+   the wanderer-burden, guarding-the-mystery and first-homecomer passages all verbatim-
+   supported paraphrases. MINOR NOTE: the page's short quoted fragment "is a mystery" could
+   not be isolated in the mangled PDF extraction (the text prints "there must be some mystery
+   in this proximity to the source"); the w1aa evidence file records the full sentence
+   "Proximity to the source is a mystery." from the raw text — no contradiction found,
+   fragment-level risk negligible.
+2. Idem and ipse — SEP blockquote VERBATIM; both Rodrigues-carried Ricoeur quotations
+   VERBATIM (the perseverance quote is a verbatim substring of the article's longer
+   quotation); the promise-accountability paraphrase supported.
+3. Henrich et al — blockquote VERBATIM vs the PubMed abstract (note: the UBC author
+   manuscript's opening line differs — "highly educated segments of Western societies" —
+   the page correctly cites the published abstract for the WEIRD-form sentence); "frequent
+   outliers" and the a-priori-grounds sentence VERBATIM; Arnett 2008 statistics (68%/96%,
+   12% of world population, 67% undergraduates) all verbatim-supported in the manuscript.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
