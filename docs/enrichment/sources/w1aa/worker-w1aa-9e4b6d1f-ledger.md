@@ -180,3 +180,7 @@
 - Related concepts: Continuing bonds (deg 2). No reciprocal proposed.
 - Saturation: fast-track skip.
 - No advisor QC required (item 24).
+
+## Band-drain check (2026-10-21T16:29Z, agent continuation)
+
+Claimed the w1aa baton after all prior holders released; found the band fully drained: batches/w1aa.json has 70 done / 0 todo (updated 14:26Z), and the parallel concept bands are likewise empty (w1n 69/0, w1m 68/0; programmatic scan of all batches found no todo items anywhere except kpr's deliberately-held Befriending item). The TASKBOARD's "~32 remaining" note for w1aa was stale. Principles queue fully allocated (1094/1094 per TASKBOARD). Baton released with reason recorded in batons/w1aa.json; no enrichment items were started, so no content was touched. Residuals for the next worker/supervisor: the QC re-verification pendings listed in batches/w1aa.json flagged (Humanity, Homecoming, Idem and ipse, etc.), the four bare author-year stub renames (Haslam/Henrich/Hickman/Janis/Karasek), and the 1214-item flags backlog.
