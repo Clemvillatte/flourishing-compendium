@@ -56,8 +56,13 @@
   the tail). UPDATE (~11:19Z, same session): Value creation (Zarathustra bestowing-virtue
   passage, Gutenberg #1998), Verum factum (SEP Vico article quotes), Via negativa (SEP
   Mysticism quotes) and Voluntary simplicity (Walden #205 quotes) are ALSO DONE and pushed —
-  10 concepts enriched this session in total. EXACT NEXT ACTION: 'Walking off one's thoughts'
-  (Thoreau's Walking essay) then 'Whole Trait Theory'. Check
+  10 concepts enriched this session in total. QC round 6 (advisor, ~11:21Z): all five late-session pages repaired — Value creation chapter
+  corrected to 'The Thousand and One Goals', Verum factum quote boundaries fixed, Via negativa
+  original cited-in block restored, Voluntary simplicity chapters corrected ('Where I Lived' /
+  'Economy'), Kierkegaard letter quoted contiguously via the LRB review; glosses and process
+  notes removed; all five validator-clean; byte-preservation PASS vs 9fcf483ba. 'Walking off
+  one's thoughts' is ALSO DONE. EXACT NEXT ACTION: 'Whole Trait Theory' (Fleeson), then the
+  remaining w1m tail. Check
   docs/enrichment/batches/w1m.json flagged{} for the holds before re-taking any held item;
   the principle-reserve request to the supervisor still stands on the TASKBOARD (all p1*
   bands complete at claim time).
