@@ -69,3 +69,6 @@
 ## R076 — Practise care for the self
 - Opened (excerpts): PMC Self-Compassion, Stress, and Coping (quotes Neff 2003a p.224), Maslach & Leiter 2016 (PMC). Noddings 2002 / Tronto 2013 self-care claim unverified; 'empty cup' unsourced.
 - Burnout is framed by M&L as person-job imbalance; seed's implication that self-care sustains caring is tempered. Self-compassion != rest, noted.
+
+## R079 — Practise care across distance
+- Opened (excerpts): Oxford Academic abstract of Held 2006, PubPub summary of Held, Cameron & Payne 2011 PDF (excerpt), Unfinishable Map summary, Frontiers 2022 revisit (snippet only; results not read), Lee & Feeley 2016 abstract. Tronto 2013, Singer 2015, Batson 2011 not used. Natural-world extension unverified in sources. Identifiable-victim effect small (r=.05) and contested, so not leaned on.
