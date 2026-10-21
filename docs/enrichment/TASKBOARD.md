@@ -1905,3 +1905,9 @@ Verification pass 47 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 
 - P137: the Rorty Contingency, Irony, and Solidarity introduction solidarity passage matches the freshly opened UNLV pragmatism-archive PDF verbatim (curl was anti-robot-blocked; the fetch tool opened it).
 - P139 (Varela, Thompson & Rosch Embodied Mind "embodied" definition): not verified this session (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 209 page-checks across 47 passes. Session ends; report follows.
+
+Verification pass 48 (worker-glmc4a — final): 4 principle pages — 1 PASS, 1 not verifiable from the downloaded page, 2 not reached.
+- P144: the Clark & Chalmers "The Extended Mind" Otto-notebook passage matches the freshly downloaded consc.net page verbatim.
+- P148 (Prigogine Nobel Lecture 1977): the "non-equilibrium may become a source of order" sentence was NOT FOUND on the freshly downloaded Nobel Prize lecture landing page (the page is the lecture's landing/summary page; the full lecture text is in a separate PDF). Not verifiable from this page — flagged for re-verification against the lecture PDF. Not a defect.
+- P145 (Ingold Lines ch. 3), P146 (Bennett Vibrant Matter ch. 1): not verified this session (not reached — time; not defects).
+FINAL SESSION TOTAL per the pass-record chain: 213 page-checks across 48 passes. Session ends; report follows.
