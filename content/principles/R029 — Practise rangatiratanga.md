@@ -18,7 +18,7 @@ Te Aka Māori Dictionary defines rangatiratanga as "chieftainship, right to exer
 
 ### Limits of this page
 
-Te Aka also records the older sense of rank by descent and the later sense of self-determination from the Treaty of Waitangi translations. Te Puni Kōkiri describes rangatiratanga today as "leadership and authority within Māori communities" ([Te Tautuhi ō Rongo](https://www.tpk.govt.nz/blogs/download/9121-A/Te%20Tautuhi%20%C5%8D%20Rongo%20Guidelines.pdf)). The "lead by serving" reading in this principle is therefore an interpretation of the weaver image. I have not opened Mead 2003 or Durie 1994.
+Te Aka also records the older sense of rank by descent and the later sense of self-determination from the Treaty of Waitangi translations. Te Puni Kōkiri describes rangatiratanga today as "leadership and authority within Māori communities" ([Te Tautuhi ō Rongo](https://www.tpk.govt.nz/blogs/download/9121-A/Te%20Tautuhi%20%C5%8D%20Rongo%20Guidelines.pdf)). The "lead by serving" reading in this principle is the compendium's interpretation of the weaver image; Mead 2003 and Durie 1994 are listed as further reading, not summarized here.
 
 **Plain words**
 A rangatira's work is to hold people and things together and look after what the group values. Under this meaning, leading is care for the group, not commanding it.

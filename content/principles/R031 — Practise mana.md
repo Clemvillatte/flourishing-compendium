@@ -18,7 +18,7 @@ Te Aka Māori Dictionary describes mana as "prestige, authority, control, power,
 
 ### What this means for the principle
 
-These sources do not say that mana is equal in every person or that it cannot change. The principle's reading, that every person has inherent dignity which others should uphold, is the compendium's interpretation. I did not open Mead 2003 or Durie 1994, which may state it more directly. Te Ara's glossary gives the short form as "authority, power, psychic force, prestige" ([Te Ara glossary](https://teara.govt.nz/en/glossary)).
+These sources do not say that mana is equal in every person or that it cannot change. The principle's reading, that every person has inherent dignity which others should uphold, is the compendium's interpretation; Mead 2003 and Durie 1994 may state it more directly, and are listed as further reading rather than summarized here. Te Ara's glossary gives the short form as "authority, power, psychic force, prestige" ([Te Ara glossary](https://teara.govt.nz/en/glossary)).
 
 **Plain words**
 In the dictionary sense, mana is standing and authority that you inherit and that grows or shrinks with how you act. Acting in a way that protects other people's standing is a practice of mana.
