@@ -142,8 +142,23 @@
      "note": "single primary source (AN 6.55 Thanissaro), quotes verbatim, brackets flagged; story_check ok"
     }
    ]
+  },
+  "s1d-008": {
+   "status": "ready",
+   "angle": "P020 James pragmatic method - the squirrel dispute from Pragmatism lecture II (1907)",
+   "history": [
+    {
+     "t": "2026-10-21T12:40:38+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:41:24+00:00",
+     "to": "ready",
+     "note": "single primary source (James 1907 Lecture II via Brock transcription), quotes verbatim; story_check ok"
+    }
+   ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:40:07+00:00"
+ "updated": "2026-10-21T12:41:24+00:00"
 }
