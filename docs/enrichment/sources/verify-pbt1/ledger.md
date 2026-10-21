@@ -704,3 +704,9 @@ Theory": abstract blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defect
 
 Carrier opened fresh: Columbia Higgins 1987 PDF. w1w "Self-discrepancy": three-domains
 blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 40 (16:57Z) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: PMC5390700 (Barrett 2017 SCAN). w1q "Theory of constructed emotion":
+both quoted fragments VERBATIM vs the opened abstract; the page's "..." elides two intervening
+abstract sentences — marked elision, acceptable. 1/1 PASS, no defects.
