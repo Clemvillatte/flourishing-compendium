@@ -34,3 +34,5 @@
 - Opened (search excerpts): Koob & Volkow 2016 abstract; Alcohol and sleep I (PubMed); controlled-drinking vs abstinence review (Wiley, authors/journal not seen); PMC8858850. Seed's "abstinence may be the only workable option" is contradicted by the review: flagged and rephrased. Grant 2015 not opened. No source found for relationship/cognition costs. Anecdote dropped.
 ## PP078 — connect to the natural world
 - Opened (search excerpts): Bratman 2015 abstract; Ohly 2016 abstract; White 2019 abstract. Seed claims "urban green space / street tree produce measurable benefits", "lowers stress physiology" and soft fascination (Kaplan) not verified; second study unnamed. 20-min park walk anecdote replaced with the 90-min design actually tested.
+## PP080 — time affluence
+- Opened (search excerpts): Whillans 2016 abstract (HBS); Hershfield 2016 PDF abstract; ScienceDaily on Whillans 2017; Harvard Magazine. Seed's "predicts well-being more strongly than material wealth" not supported (sources are about a preference, controlled for time affluence; correlational). Mogilner & Norton 2016 not opened. Weekend-job anecdote dropped.
