@@ -552,3 +552,20 @@ Carriers opened fresh: Muller's Diamond Sutra translation (acmuller.net), PubMed
    "the", and either keep or silently normalise the citation bracket per house style.
 
 Result: 2/3 verbatim PASS; 1 minor verbatim-deviation defect routed (Novelty research).
+
+## Round 28 (16:42Z) — w1ab quote-fidelity verification, fourth batch
+
+Carriers opened fresh: Tannisho text PDF (archive.org CDN, Imadate 1928), Stanford-hosted
+Zen Mind Beginner's Mind PDF, anarchistlibraries mirror of Camus The Rebel (the page's
+tedkarchive link is a TOC landing page; the mirror carries the identical full text).
+
+1. Nembutsu recitation — both blockquotes VERBATIM (chapter I grace passage and the
+   chapter III good-man/wicked-man sentence).
+2. Non-seeking — all three blockquotes VERBATIM vs the "Nothing Special" chapter.
+3. Measure (mesure) — all three blockquotes VERBATIM vs the opened full-text mirror
+   (the tedkarchive URL cited on the page resolves only to a contents landing page —
+   MINOR NOTE: the citation is to the correct text but the linked page carries only
+   the TOC; the anarchistlibraries mirror (listed on that same page as the alternative
+   link) carries the passages; no repair strictly needed, noted for the record).
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
