@@ -1199,3 +1199,39 @@ open).
   The clinical scoping is honest (descriptions concern ADHD, not every
   concentration problem; health-professional referral recommended). All
   components close.
+- **B081 — Meet dullness with energy (hindrance 3)**: RESOLVED. The SN 46.53
+  blockquote ("The sluggish mind is easy to raise up by those mental
+  qualities.") verified VERBATIM against a fresh fetch of the cited
+  Thanissaro/AccessToInsight page; the three factors (analysis of qualities,
+  persistence, rapture), the wet/dry fuel imagery and the restless-mind
+  reversal all confirmed in the same sutta text. The unsupported
+  physiology/effort claims are absent from the current page (the exhaustion
+  scoping sentence is a disclaimer, not a claim). All components close.
+- **B160 — Question authority: even the Buddha's**: RESOLVED. The AN 3.65
+  Kalama Sutta blockquote ("Now, Kalamas, don't go by reports... then you
+  should enter & remain in them.") verified VERBATIM against a fresh fetch of
+  the cited Thanissaro/AccessToInsight page. The ethics-test/outcomes-test
+  framing and the Dhp 74 overreach are absent from the current page; the
+  gloss (the check concerns qualities and their effects, not the source)
+  matches the sutta's own terms. All components close.
+- **A096 — Practise distributive justice**: RESOLVED. The NE V.3 blockquote
+  ("All are agreed that justice in distributions must be based on desert of
+  some sort... upholders of aristocracy make it virtue.") verified VERBATIM
+  against a fresh fetch of the cited Perseus Rackham text. The
+  psychology-parallels predict-satisfaction claim is absent; the page
+  explicitly reports Aristotle does not settle the criterion of desert. All
+  components close.
+- **A103 — Recognise that some actions are always wrong**: RESOLVED. The
+  NE II.6 blockquote ("It is impossible therefore ever to go right in regard
+  to them... the mere commission of any of them is wrong.") verified VERBATIM
+  against a fresh fetch of the cited Perseus Rackham text (em-dash included);
+  adultery/theft/murder named in the same chapter. The Haidt
+  moral-universals rows are bare wikilink references, not claim-bearing
+  prose; the reader's-own-non-negotiables application is labelled as the
+  reader's, not Aristotle's list. All components close.
+- **A104 — Practise equity over strict legality**: RESOLVED. The NE V.10
+  blockquote ("This is the essential nature of the equitable: it is a
+  rectification of law where law is defective because of its generality.")
+  verified VERBATIM against a fresh fetch of the cited Perseus Rackham text.
+  The context-dominates claim is absent; the lawgiver's-own-spirit gloss is
+  grounded in the same chapter. All components close.
