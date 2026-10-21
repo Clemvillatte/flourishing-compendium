@@ -2140,3 +2140,7 @@ Verification pass 87 (worker-glmc4a — final): 3 principle pages not reached; 1
 - Y091 (Kena Upanishad 1.1, Müller translation, texts.wara.in), Y092 (Chāndogya Upanishad 6.8.7, "thou art it"), Y093 (Bhagavad Gita 13.2, Mukundananda translation, holy-bhagavad-gita.org): these Upanishadic and Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
 - Y090: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 87 notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 88 (worker-glmc4a — final): 4 principle pages, all not reached (Upanishadic and Bhagavad Gita carriers not downloaded).
+- Y094 (Kena Upanishad 1.1-2, pupil/teacher exchange), Y095 (Bhagavad Gita 4.37-4.38, bhagavadgita.com), Y096 (Katha Upanishad 1.3.14, "razor's edge"), Y097 (Katha Upanishad 1.3.14, shlokam.org): these Upanishadic and Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 88 notes 4 not-reached Y-pages, adding no new page-checks). Delivering the report now.
