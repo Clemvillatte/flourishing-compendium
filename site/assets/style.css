@@ -1729,7 +1729,7 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .acad-band { position:relative; min-height:250px; display:flex; align-items:flex-end; background-size:cover; background-position:center 55%; border-radius:14px; overflow:hidden; margin-bottom:26px; }
 .acad-band::before {
   content:''; position:absolute; inset:0; border-radius:14px;
-  background:linear-gradient(to top, color-mix(in srgb, var(--bg) 96%, transparent) 0%, color-mix(in srgb, var(--bg) 72%, transparent) 32%, color-mix(in srgb, var(--bg) 24%, transparent) 66%, color-mix(in srgb, var(--bg) 8%, transparent) 100%);
+  background:linear-gradient(to top, color-mix(in srgb, var(--bg) 97%, transparent) 0%, color-mix(in srgb, var(--bg) 88%, transparent) 34%, color-mix(in srgb, var(--bg) 48%, transparent) 70%, color-mix(in srgb, var(--bg) 14%, transparent) 100%);
 }
 .acad-band-inner { position:relative; width:100%; padding:48px 26px 22px; }
 .acad-band-title { font-family:'Fraunces',Georgia,serif; font-size:clamp(24px,3.4vw,36px); font-weight:600; line-height:1.12; margin:10px 0 0; max-width:24ch; }

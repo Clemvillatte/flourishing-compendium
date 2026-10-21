@@ -2889,12 +2889,11 @@ function renderGallery(){
   wrap.style.gap = '16px';
 
   // Header
-  const head = el('div','acad-detail-head');
   const backBtn = el('button','acad-btn ghost','← Academy');
   backBtn.onclick = () => { switchView('academy'); };
-  head.appendChild(backBtn);
-  head.appendChild(el('h2','acad-detail-title','Flourishing Gallery'));
-  wrap.appendChild(head);
+  wrap.appendChild(backBtn);
+  wrap.appendChild(el('div','acad-modpage-kicker','The Academy · Discovery'));
+  wrap.appendChild(el('h2','acad-modpage-title','Flourishing Gallery'));
   wrap.appendChild(el('p','acad-detail-desc','602 primary sources — thinkers, texts, and research. Sorted by host group: SEP, WIKI, IEP, PMC, Project Gutenberg, Internet Archive, and more.'));
 
   // Filters
@@ -3010,11 +3009,16 @@ function renderAcademy(){
 /* ═══ Direction A — Editorial Academy (2026-10-21 revamp; content untouched) ═══ */
 const ACAD_ROMAN = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII'];
 const ACAD_IMG = {
-  'deg-philosophy':'assets/academy/stoa.jpg',
-  'deg-contemplative':'assets/academy/zen.jpg',
+  'deg-philosophy':'assets/academy/philosophy.jpg',
+  'deg-contemplative':'assets/academy/contemplative.jpg',
+  'deg-relational':'assets/academy/relational.jpg',
+  'deg-mind':'assets/academy/mind.jpg',
+  'deg-wellbeing':'assets/academy/wellbeing.jpg',
+  'deg-therapeutic':'assets/academy/therapeutic.jpg',
+  'deg-psychology-101':'assets/academy/psych101.jpg',
   'deg-qigong':'assets/academy/qigong.jpg'
 };
-function acadHallImg(deg){ return ACAD_IMG[deg.id] || 'assets/academy/hall.jpg'; }
+function acadHallImg(deg){ return ACAD_IMG[deg.id] || 'assets/academy/hero.jpg'; }
 function acadRoman(n){ return ACAD_ROMAN[n-1] || String(n); }
 function degreeProgress(deg){
   let done=0, total=0;
@@ -3528,12 +3532,11 @@ function renderModuleDetail(modId){
 /* ---------- Source Explorer ---------- */
 function renderSourceExplorer(){
   const wrap = el('div','acad-explorer');
-  const head = el('div','acad-detail-head');
   const back = el('button','acad-btn ghost','← Academy');
   back.onclick = ()=>{ A.view='home'; renderAcademy(); };
-  head.appendChild(back);
-  head.appendChild(el('h2','acad-detail-title','Source Exploration'));
-  wrap.appendChild(head);
+  wrap.appendChild(back);
+  wrap.appendChild(el('div','acad-modpage-kicker','The Academy · Library'));
+  wrap.appendChild(el('h2','acad-modpage-title','Source Exploration'));
   wrap.appendChild(el('p','acad-detail-desc','308 curated source records from the Learning Library (M-01–M-26) plus the M-33 audit additions. Later missions (M-12 onward) carry per-gate evidence; earlier records inherit summary-level provenance. Filter by topic, level, or search. Click a source to open it.'));
 
   // Filters
