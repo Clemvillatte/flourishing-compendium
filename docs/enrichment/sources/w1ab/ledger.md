@@ -59,3 +59,19 @@
 - 10 Maladaptive perfectionism: "Unhealthy perfectionism" sentence as blockquote; H&F origin claim
   replaced with supported attribution; Cited-in restored -> ACCEPTED (r3).
 - All items 6-10 validate ok against pre-enrichment baseline 2fb2d8fb7.
+
+## Items 11-16 (2026-10-21, 09:0x-09:14 UTC)
+- 11 Manaakitanga: Te Aka Māori Dictionary (definition + 1924 example verbatim); R027 gloss grounded;
+  etymology sentence dropped pre-save (unverified). Validated ok.
+- 12 Marmot: NOT enriched — namespace audit flag (person in concepts namespace, no named concept);
+  supervisor disposition requested. See batches/w1ab.json flagged.
+- 13 Matching Hypothesis: PLoS ONE 2015 (Jia et al.) definition verbatim; seed mechanism marked as the
+  hypothesis's own level-of-aspiration framing, not a verified law. Validated ok.
+- 14 Meyer: NOT enriched — namespace audit flag (bare surname, seed '2003', no citing principle);
+  supervisor disposition requested.
+- 15 Means as end: Dewey 1938 ch. 5 extract (MIT-hosted PDF, freedom-as-means passage verbatim) +
+  ch. 8 verified from full text (ruby.fgcu.edu PDF: chapter title + opening sentence verbatim).
+  Validated ok.
+- 16 Micro-moments of connection: Greater Good (UC Berkeley) article (positivity resonance definition
+  + stranger-interaction studies verbatim) + Fredrickson & Joiner PEP Lab PDF (vagal-tone upward
+  spiral sentence verbatim). Validated ok.
