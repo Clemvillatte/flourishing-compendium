@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 20,
+ "revision": 21,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -204,19 +204,19 @@
    "into": "Habituation",
    "link": "SE078",
    "why": "A principle on self-development as ongoing practice, grounded in Aristotle's habituation account",
-   "notes": "SE078 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (first lines inspected); occurrence-checked, no SE078 occurrence; grounded in the opened MIT Classics Ross text (NE II.1 builders/lyre-players passage quoted verbatim; ethike/ethos derivation described in the page's own wording)."
+   "notes": "SE078 (2026-10-21, worker-p1zzb-9d251b2e): hub READ in full (Aristotle habituation via NE II.1 Ross, with the same builders/lyre-players passage the page quotes, plus Rankin's learning-theory habituation definition; the hub's Aristotle blockquote matches the opened MIT Classics text verbatim); occurrence-checked, no SE078 occurrence; grounded in the opened MIT Classics Ross text (NE II.1 builders/lyre-players passage quoted verbatim; craft-account explanation bounded per milestone-4 QC)."
   },
   {
    "into": "Habit",
    "link": "SE078",
    "why": "A principle on self-development as ongoing practice, grounded in Aristotle's habituation account",
-   "notes": "SE078 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (first lines inspected); occurrence-checked, no SE078 occurrence; grounded in the opened MIT Classics Ross text (NE II.1 builders/lyre-players passage quoted verbatim; ethike/ethos derivation described in the page's own wording)."
+   "notes": "SE078 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (James/Dewey/Aristotle/Wood-Neal source list; no prose body beyond the list); occurrence-checked, no SE078 occurrence; grounded in the opened MIT Classics Ross text (NE II.1 passage quoted verbatim)."
   },
   {
    "into": "Ecological systems theory",
    "link": "SO008",
    "why": "A principle on daily-life conditions as the social side of biophysiological functioning",
-   "notes": "SO008 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (first lines inspected; Social determinants of health and Ecological systems theory surfaced by the mention search); occurrence-checked, no SO008 occurrence; grounded in the opened WHO topic page (definition sentence quoted verbatim; structural-drivers detail described in the page's own wording)."
+   "notes": "SO008 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Bronfenbrenner nested-systems account with Shaver-style sourced quotes; its Related section already links Social determinants of health, which already links SO008); occurrence-checked, no SO008 occurrence; grounded in the opened WHO topic page (definition sentence quoted verbatim; body bounded to the definition's content per milestone-4 QC)."
   },
   {
    "into": "Cultural psychology",
@@ -228,7 +228,7 @@
    "into": "Attachment theory",
    "link": "SO029",
    "why": "A principle on belonging as a fundamental need, from the review that framed it",
-   "notes": "SO029 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (first lines inspected); occurrence-checked, no SO029 occurrence; grounded in the opened PubMed abstract of Baumeister & Leary 1995 (final hypothesis sentence quoted verbatim; relational-bond and ill-effects sentences paraphrased in the page's own wording)."
+   "notes": "SO029 (2026-10-21, worker-p1zzb-9d251b2e): hub READ in full (Bowlby attachment system via Shaver-Mikulincer 2005; related hub - ongoing relational bonds); occurrence-checked, no SO029 occurrence; grounded in the opened PubMed abstract of Baumeister & Leary 1995 (final hypothesis sentence quoted verbatim; interactions-within-relationships sentence described in the page's own wording per milestone-4 QC)."
   }
  ]
 }
