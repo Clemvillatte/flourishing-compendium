@@ -70,7 +70,27 @@
      "note": "quotes verified against two Gutenberg editions of the primary text"
     }
    ]
+  },
+  "s1e-004": {
+   "status": "qc_pending",
+   "angle": "D115 lead from behind: Marva Collins - the school with no substitutes, where students taught themselves and said the day's phenomenal thing was theirs",
+   "history": [
+    {
+     "t": "2026-10-21T12:44:50+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:44:50+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:45:35+00:00",
+     "to": "qc_pending",
+     "note": "quotes verified from four opened sources"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:38:25+00:00"
+ "updated": "2026-10-21T12:45:35+00:00"
 }
