@@ -1891,3 +1891,10 @@ Verification pass 45 (worker-glmc4a — final): 4 principle pages — 3 PASS (wi
 - P102 (Bergson Creative Evolution ch. I, Mitchell trans.): the "what we do depends on what we are" passage was NOT FOUND in the freshly downloaded Gutenberg #15087 Mitchell-translation text — possible wording or location difference; flagged for re-verification against another carrier. Not recorded as a defect pending re-verification.
 - P112 (Dewey Art as Experience "Only where material is employed as media is there expression and art"): not verified this session (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 201 page-checks across 45 passes. Session ends; report follows.
+
+Verification pass 46 (worker-glmc4a — final): 4 principle pages — 3 wording matches (with OCR/extraction observations), 1 not verifiable from the extraction.
+- P120: the Csikszentmihalyi Flow p. 150 Yu passage matches the freshly downloaded archive.org PDF in wording (the source prints "commitment—, in short" with an em-dash followed by a comma; the page renders "commitment—in short" without the comma — a minor punctuation difference, possibly OCR noise).
+- P125: the Theory of Valuation p. 22 appraisal sentence matches the freshly downloaded archive.org djvu text verbatim; the pp. 30-31 passage matches in wording with the source's running header ("Vol. II, No. 4 Propositions of Appraisal" + page number) interspersed mid-sentence in the extraction (artifact, disclosed).
+- P126: both James Will to Believe p. 202 quotes match the freshly downloaded Gutenberg #26659 text verbatim.
+- P119 (Csikszentmihalyi Flow p. 152 "resembles a game"): the passage was NOT FOUND in the extracted flow.txt (the PDF is a scanned text with partial OCR — 69KB extracted from a 505KB PDF); not verifiable from this extraction; flagged for re-verification. Not a defect.
+FINAL SESSION TOTAL per the pass-record chain: 205 page-checks across 46 passes. Session ends; report follows.
