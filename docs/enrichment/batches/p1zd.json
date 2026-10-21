@@ -45,7 +45,7 @@
   "A121": "QC-CLOSED 2026-10-21: Rhetoric I.2/II.1 opened, quotes verified; speech-earned ethos example and source links repaired; inherited parallels unverified.",
   "AF076": "SUPERVISOR OPEN: original title/Practice prescribe expression and categorical intimacy costs; evidence context-dependent. Repaired body verified; inherited text preserved, not certified.",
   "AF079": "BODY QC-CLOSED; SUPERVISOR OPEN: inherited Practice says ordinary regulation skills are never sufficient. APA supports assessment/treatment options, not that universal claim. Medication body wording fixed per independent QC; see sources/p1zd/qc-2b2e5eca.md.",
-  "AF080": "QC-CLOSED 2026-10-21: APA/NIMH bipolar explanations opened; quotes checked, hospital-care exception and bipolar I scope added; diagnosis distinct from help-seeking; inherited parallels unverified.",
+  "AF080": "SUPERVISOR OPEN: inherited Practice requires alternating depression, contradicting bipolar I definition and repaired APA/NIMH-based body. Preserve original wording until authorised review.",
   "AT002": "QC-CLOSED 2026-10-21: Fan 2002 and Petersen/Posner 2012 abstracts opened; quotes checked; correlation/interaction limits retained in Plain words; inherited parallels unverified.",
   "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified.",
   "AT021": "QC-CLOSED 2026-10-21: actual two cited abstracts and full Seligman manuscript opened; quotes/sample/follow-up checked; no head-to-head ranking or unmeasured mechanism claim; inherited parallels unverified.",
@@ -55,6 +55,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T15:01:02+00:00",
+ "updated": "2026-10-21T15:01:15+00:00",
  "band_done": false
 }
