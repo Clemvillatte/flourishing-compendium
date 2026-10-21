@@ -789,3 +789,8 @@ both abstract blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
 Carriers opened fresh: Lee 2008 PMC3095437; Zeki 2022 PMC11514330. w1q "Trichromatic
 theory of color vision": both blockquotes (Young 1802 via Lee; Helmholtz via Zeki)
 VERBATIM vs the opened carriers. 1/1 PASS, no defects.
+
+## Round 52 (16:40Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: UF Tversky & Kahneman 1974 Science PDF. w1w "Representativeness
+heuristic": blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
