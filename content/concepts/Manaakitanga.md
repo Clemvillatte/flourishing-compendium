@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Manaakitanga is the Māori value of care and hospitality: the practice of showing respect, generosity and care for others, so named in the Māori-English dictionary Te Aka:
 
-> "manaakitanga: hospitality, kindness, generosity, support - the process of showing respect, generosity and care for others." ([Te Aka Māori Dictionary](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga))
+> "hospitality, kindness, generosity, support - the process of showing respect, generosity and care for others." ([Te Aka Māori Dictionary, entry "manaakitanga", sense 1](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga))
 
-The dictionary example records the weight of the obligation: "Kore rawa rātou e wareware ki ēnei manaakitanga ā mate noa rātou" ("They will never ever forget this hospitality until they die", TTT 1/8/1924:85) ([Te Aka Māori Dictionary](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga)).
+The dictionary gives this example: "Kore rawa rātou e wareware ki ēnei manaakitanga ā mate noa rātou" ("They will never ever forget this hospitality until they die", TTT 1/8/1924:85) ([Te Aka Māori Dictionary](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=manaakitanga)).
 
 ### In the compendium
 
@@ -19,8 +19,8 @@ The dictionary example records the weight of the obligation: "Kore rawa rātou e
 
 ## Related concepts
 
-- [[Ubuntu]] — the Southern African concept of personhood through others it travels with
-- [[Care]] — the ethics of care tradition that shares the everyday-work reading
+- [[Ubuntu]] — a related concept from another tradition
+- [[Care]] — a related concept in the ethics of care
 
 ## Sources
 

@@ -13,10 +13,9 @@
   "Maladaptive perfectionism",
   "Manaakitanga",
   "Matching Hypothesis",
-  "Means as end",
   "Micro-moments of connection"
  ],
- "in_progress": null,
+ "in_progress": "Means as end",
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -26,12 +25,16 @@
   "Locus of evaluation": "Reopened for QC: QC correction: advisor round 3 (locators, Cited-in restores, scoping)",
   "Machiavellianism": "Reopened for QC: QC correction: advisor round 3 items 9-10 (locator applied, origin claim removed)",
   "Maladaptive perfectionism": "Reopened for QC: QC correction: advisor round 3 items 9-10 (locator applied, origin claim removed)",
-  "Marmot": "Namespace audit: 'Marmot' (seed '2004') is Michael Marmot, the researcher (The Status Syndrome, Whitehall studies); the page is a person in the concepts namespace with no named concept established by an opened source. Per audit rule 1, not enriched as a concept; held for supervisor disposition (cf. 'Judging by where one rests' precedent). SO053's citation stays untouched.",
-  "Meyer": "Namespace audit: 'Meyer' (seed only says '2003', no first name, no concept, no citing principle) is an unattributable person in the concepts namespace; the seed does not establish which Meyer or which named concept the page is meant to hold. Per audit rule 1, not enriched; held for supervisor disposition. The page cites no principle (empty Cited-in sections)."
+  "Marmot": "Namespace audit (see concept-namespace-audit.md): concepts-namespace page, seed only '2004'; likely Michael Marmot (TENTATIVE, not established by the seed); not enriched; supervisor disposition requested. SO053 citation untouched.",
+  "Meyer": "Namespace audit: 'Meyer' (seed only says '2003', no first name, no concept, no citing principle) is an unattributable person in the concepts namespace; the seed does not establish which Meyer or which named concept the page is meant to hold. Per audit rule 1, not enriched; held for supervisor disposition. The page cites no principle (empty Cited-in sections).",
+  "Manaakitanga": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
+  "Matching Hypothesis": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
+  "Micro-moments of connection": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
+  "Means as end": "Namespace audit (see concept-namespace-audit.md): opened Dewey text supports the means-ends relationship but does not establish 'Means as end' as a named concept; page rewritten conservatively and HELD OUT OF done pending supervisor disposition."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T09:14:33+00:00",
+ "updated": "2026-10-21T09:20:57+00:00",
  "band_done": false,
  "new_concepts": [
   {

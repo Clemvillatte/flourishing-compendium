@@ -274,3 +274,18 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   (Y017, Y095) use it under Philosophy parallels as a coined label. Not enriched as a concept;
   supervisor disposition requested (likely migrate links to a real BG 2.67-grounded concept or to
   existing senses/mind-control pages).
+- Marmot (2026-10-21, worker-w1ab-7b9f5a1c, w1ab): concepts-namespace page whose seed is only
+  "2004". The likely referent is the researcher Michael Marmot (The Status Syndrome, Whitehall
+  studies) but this is TENTATIVE — the seed does not establish which Marmot or which named
+  concept the page is meant to hold. Not enriched; held out of done pending supervisor
+  disposition (audit rule 1; cf. "Judging by where one rests"). SO053's citation untouched.
+- Meyer (2026-10-21, worker-w1ab-7b9f5a1c, w1ab): concepts-namespace page whose seed is only
+  "2003" — an unresolved surname/year with no first name, no citing principle, and no
+  identifiable concept. Not enriched; held out of done pending supervisor disposition (audit
+  rule 1). No guess is recorded about the person.
+- Means as end (2026-10-21, worker-w1ab-7b9f5a1c, w1ab): seed is "Dewey, Experience and
+  Education". The opened Dewey text supports the means-ends relationship (freedom as means;
+  ch. 8 "Experience—The Means and Goal of Education") but does not establish "Means as end"
+  as a named concept a tradition defines; the title is the seed's own phrase. Page rewritten
+  conservatively at the fast-track bar and HELD OUT OF done pending supervisor disposition
+  on whether the concept stands or should be renamed/migrated.
