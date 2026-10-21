@@ -1817,3 +1817,10 @@ Verification pass 34 (worker-glmc4a — final): 4 principle pages — 2 PASS (3 
 - E067: no displayed quotation on the page (only the principle header) — nothing to verify.
 - E102: the Heidegger releasement (Gelassenheit) passages were not verified this session (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 159 page-checks + these, across 34 passes. Session ends; report follows.
+
+Verification pass 35 (worker-glmc4a — final): 4 principle pages, ALL PASS (with disclosed typographic observations).
+- E109: all three Nietzsche Zarathustra Prologue quotes (Thomas Common trans.) match the freshly downloaded Gutenberg #1998 text verbatim.
+- M005: the daykeeper tz'ite'-seeds sentence matches the freshly downloaded upcolorado.com Maya Daykeeping excerpt PDF verbatim in wording (the source's curly apostrophes in tz'ite' are rendered as straight — disclosed typographic class).
+- M010: the Maffie crossroads/nepantla passage matches the freshly downloaded Wiley Companion excerpt PDF verbatim in wording (the source's curly double quotes are rendered as straight single quotes, and the fi-ligature in "ill-defined" is normalized — disclosed typographic class).
+- M021: no displayed quotation on the page (only the principle header).
+FINAL SESSION TOTAL per the pass-record chain: 163 page-checks across 35 passes. Session ends; report follows.
