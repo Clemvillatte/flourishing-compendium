@@ -42,9 +42,10 @@
   "Cognitive distortions",
   "Contemplation (theoria)",
   "Conversation as method",
-  "Dignity"
+  "Dignity",
+  "Ego depletion"
  ],
- "in_progress": "Ego depletion",
+ "in_progress": null,
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -62,7 +63,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:48:03+00:00",
+ "updated": "2026-10-21T06:49:36+00:00",
  "band_done": false,
  "new_concepts": [
   {
