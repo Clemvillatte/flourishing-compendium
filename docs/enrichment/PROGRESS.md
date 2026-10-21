@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-21 10:37 UTC (input revision `b8e40ce8f`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 11:37 UTC (supervisor refreshes at every pass, at least hourly).
+As of 2026-10-21 11:31 UTC (input revision `c31ace74b`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 12:31 UTC (supervisor refreshes at every pass, at least hourly).
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-21 10:37 UTC (input revision `b8e40ce8f`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 956 | 1313 | 2269 | 42.1% |
-| **Combined** | **3127** | **1325** | **4452** | **70.2%** |
+| Concepts | 1069 | 1200 | 2269 | 47.1% |
+| **Combined** | **3240** | **1212** | **4452** | **72.8%** |
 
 ## Principles by forest
 
@@ -40,7 +40,7 @@ As of 2026-10-21 10:37 UTC (input revision `b8e40ce8f`). Scope: principles and c
 
 ## Reconciliation notes
 
-- Recorded-done principle IDs with no current page: 0.
+- Recorded-done principle IDs with no current page: 27 (K100, K101, K102, K103, K104, K105, K106, K108, K110, K111…)
 - Recorded-done concept titles with no current page (even after normalizing punctuation): 2 (Character as habits, Language spinning beyond the world)
 - Concept records are matched to pages on alphanumeric-normalized titles, so renames between colon and dash forms do not show as unmatched; true renames or deletions appear above and are counted as done, not as backlog.
 
