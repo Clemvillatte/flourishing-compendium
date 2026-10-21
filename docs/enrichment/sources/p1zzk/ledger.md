@@ -36,3 +36,5 @@
 - Opened (search excerpts): Bratman 2015 abstract; Ohly 2016 abstract; White 2019 abstract. Seed claims "urban green space / street tree produce measurable benefits", "lowers stress physiology" and soft fascination (Kaplan) not verified; second study unnamed. 20-min park walk anecdote replaced with the 90-min design actually tested.
 ## PP080 — time affluence
 - Opened (search excerpts): Whillans 2016 abstract (HBS); Hershfield 2016 PDF abstract; ScienceDaily on Whillans 2017; Harvard Magazine. Seed's "predicts well-being more strongly than material wealth" not supported (sources are about a preference, controlled for time affluence; correlational). Mogilner & Norton 2016 not opened. Weekend-job anecdote dropped.
+## PP083 — well-being as practice
+- Opened (search excerpts): Panarchy.org Rogers excerpt (quote verbatim, 1953 essay in 1961 book); PMC8608581 (pp. 186-187 cite); Ryff 1989 PDF opening pages. Book itself not opened. "Practices maintained/varied" is the compendium's inference. Walking-couple anecdote dropped.
