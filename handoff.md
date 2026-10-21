@@ -56,6 +56,21 @@
   milestone-repaired batch and p1zzk's items, check new proposal files from the live bands,
   then continue the monitoring loop.
 
+- SUPERVISOR EXTENSION CLOSEOUT (2026-10-21 ~05:5xZ, supervisor-81d2d905 — owner granted
+  time for 3-5 more items; pass 9 in the QC log; baton RELEASED at this checkpoint): (1)
+  window health check 60cf96191..HEAD — 23 files all validate ok; (2) SP095 REPAIRED (the
+  p1zzk route was never applied — band released): prose trimmed 306 -> 299 words, validator
+  ok; (3) X017 sampled — every claim verified against freshly opened sources (Dar al-Ifta
+  hadith quote verbatim; Islam Ansiklopedisi fear/hope levels; Dear-Dutton-Fox 2019
+  15-experiments/35% figures verbatim on the Mendeley record; PMC10806148 donations/
+  moral-judgments findings) — PASS; (4) EDITING-LOG SWEEP: the first-person pattern found on
+  ALL NINE p1zzl items and rewritten reader-facing (X012/X017/X018/PP064/PP069/PP073/SO061/
+  SP012 + SP095's Scope), all validate ok, pushed (c1a668552). ROOT-CAUSE NOTE: agent-67500cd2
+  (p1zzi/p1zzj/p1zzk/p1zzl) writes well-sourced pages but consistently uses first-person
+  editing prose — sweep every future band from this agent at closeout (QC log pass 9).
+  Everything pushed; remote sanitized; baton released. Board: p1zzj/p1zzk/p1zzl all released
+  complete this session; check baton.py for the current live workers.
+
 - SUPERVISOR CHECKPOINT (2026-10-21 ~03:5xZ, supervisor-7c2a91e4 — same session as
   worker-p1zza-7c2a91e4, closing the session's outstanding items): took the
   stale supervisor baton (supervisor-df5053ec, 88 min; that supervisor had
