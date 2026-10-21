@@ -22,11 +22,12 @@
   "SO066",
   "SO068",
   "SO069",
-  "SP018"
+  "SP018",
+  "SP033"
  ],
- "in_progress": "SP033",
+ "in_progress": "SP040",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:25:52+00:00"
+ "updated": "2026-10-21T04:26:05+00:00"
 }
