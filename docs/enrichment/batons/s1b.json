@@ -1,12 +1,7 @@
 {
  "baton": "s1b",
-<<<<<<< HEAD
  "agent": "storyteller-glm53-b71f3a90",
  "clocked_in": "2026-10-21T12:03:51+00:00",
-=======
- "agent": "storyteller-glm53-886c2f0e",
- "clocked_in": "2026-10-21T12:01:39+00:00",
->>>>>>> 73aa3bb42 (s1b QC round-2 repairs: gulls source verified against Wikisource transcription; clock-in)
  "takeovers": [
   {
    "by": "storyteller-caa860fe",
@@ -15,17 +10,16 @@
    "reason": "free"
   },
   {
-<<<<<<< HEAD
-   "by": "storyteller-glm53-b71f3a90",
-   "at": "2026-10-21T12:03:51+00:00",
-   "from": "storyteller-caa860fe",
-   "reason": "stale (1274 min)"
-=======
    "by": "storyteller-glm53-886c2f0e",
    "at": "2026-10-21T12:01:39+00:00",
    "from": "storyteller-caa860fe",
    "reason": "stale (1271 min)"
->>>>>>> 73aa3bb42 (s1b QC round-2 repairs: gulls source verified against Wikisource transcription; clock-in)
+  },
+  {
+   "by": "storyteller-glm53-b71f3a90",
+   "at": "2026-10-21T12:03:51+00:00",
+   "from": "storyteller-glm53-886c2f0e",
+   "reason": "stale (1274 min); parallel claim by glm53-886c2f0e acknowledged in commit history"
   }
  ],
  "released": false
