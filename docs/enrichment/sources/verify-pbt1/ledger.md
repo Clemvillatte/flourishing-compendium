@@ -794,3 +794,8 @@ VERBATIM vs the opened carriers. 1/1 PASS, no defects.
 
 Carrier opened fresh: UF Tversky & Kahneman 1974 Science PDF. w1w "Representativeness
 heuristic": blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 53 (16:40Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: Chinese Text Project Legge Da Xue. w1w "Rectification of the mind":
+both Great Learning blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
