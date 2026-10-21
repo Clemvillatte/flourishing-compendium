@@ -13,7 +13,7 @@ The knight of faith is a figure Kierkegaard draws in Fear and Trembling, in the 
 
 ### The double movement
 
-The second movement is not an expectation that things might turn around: the passage insists that the knight recognizes the impossibility and believes anyway.
+The second movement is not based on judging the desired outcome probable: the passage insists that the knight recognizes its impossibility.
 
 > "for the movement of faith must ever be made by virtue of the absurd, but, note well, in such wise that one does not lose the things of this world but wholly and entirely regains them." (same work, Preliminary Expectoration)
 
@@ -37,7 +37,7 @@ The description of the knight is domestic: "he is lying on his elbows in the win
 ## Related concepts
 
 - [[The leap of faith]] — the movement the knight makes, in Kierkegaard's vocabulary
-- [[The Great Death]] — the Zen passage through the death of the self in Hakuin's curriculum; a comparison, not an influence
+- [[The Great Death]] — Hakuin's staged Zen training; a comparison, not an influence
 
 ## Sources
 

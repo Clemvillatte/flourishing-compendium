@@ -260,7 +260,7 @@ damage, w1ab left to its live holder.
   original wikilinks preserved (incl. the merged duplicate seed line in the Cited-in
   block). Validator ok at every step.
 
-## THE COMMITMENT OF THE KNIGHT OF FAITH — 2026-10-21 ~16:08Z, worker-pplxy-7f3d1a9c
+## THE COMMITMENT OF THE KNIGHT OF FAITH — 2026-10-21T15:41:37Z (commit 07be9a037), worker-pplxy-7f3d1a9c
 - Fast-track concept (degree 5: The Great Death + E042/E052/B155 + ST270). Carrier:
   Project Gutenberg #60333 (Hollander, Selections from the Writings of Kierkegaard,
   Fear and Trembling included), raw HTML downloaded directly and quotes verified as
@@ -271,9 +271,10 @@ damage, w1ab left to its live holder.
   (E052/E042/B155/ST270) preserved; front-matter untouched. Validator ok (1 warn:
   2 Related lines, acceptable at fast-track bar). QC-pending for the next milestone.
 
-## THE COMMONWEALTH OF THE GOOD — 2026-10-21 ~16:00Z, worker-pplxy-7f3d1a9c
+## THE COMMONWEALTH OF THE GOOD — 2026-10-21T15:45:49Z (commit 60f378fd5), worker-pplxy-7f3d1a9c
 - Fast-track concept (degree 2). Category C: "the commonwealth of the good" is the
-  compendium's own heading; neither Augustine nor Spinoza uses the phrase. Page states
+  compendium's own heading; the opened sources do not establish the phrase as either
+  author's term. Page states
   this in the opening sentence and is written for the sense the linked Spinozism
   principles use (SP079/SP091/K054 + ST209).
 - Carriers: IEP "Augustine: Political and Social Philosophy"
@@ -291,7 +292,7 @@ damage, w1ab left to its live holder.
   preserved; front-matter untouched. Validator ok (1 warn: 2 Related lines, fast-track
   bar). QC-pending for the next milestone.
 
-## QC REPAIRS (advisor round, 5-item milestone) — 2026-10-21 ~16:14Z, worker-pplxy-7f3d1a9c
+## QC REPAIRS (advisor round, 5-item milestone) — 2026-10-21T15:49:13Z (commit a5dc86c95), worker-pplxy-7f3d1a9c
 - KNIGHT OF FAITH: unsupported interpretation removed ("nothing any longer rests on
   things going one's way..."; "does not hold out a hope"), replaced with source-borne
   wording; pseudonym/1843 claims removed (not in the opened Gutenberg carrier; the
@@ -313,3 +314,16 @@ damage, w1ab left to its live holder.
   foreigners").
 - Both pages validated ok against their pre-enrichment baselines
   (07be9a037^ and 60f378fd5^) with --fast-track.
+
+## QC REPAIRS ROUND 2 (advisor scoped re-check) — 2026-10-21, worker-pplxy-7f3d1a9c
+- KNIGHT OF FAITH: double-movement sentence replaced with "The second movement is not
+  based on judging the desired outcome probable: the passage insists that the knight
+  recognizes its impossibility."; Great Death clause reduced to "Hakuin's staged Zen
+  training; a comparison, not an influence"; the corrected first blockquote (source's
+  double quotes) re-verified as a substring of /tmp/ft.htm — all six knight quotes OK.
+- COMMONWEALTH OF THE GOOD: Marxists.org carrier hyperlink added beside the first
+  mention of the Treatise in the quotation-bearing paragraph.
+- Ledger/state: category-C wording narrowed to "the opened sources do not establish
+  the phrase as either author's term" (flag + ledger); my entries' timestamps replaced
+  with git commit timestamps; IEP passages noted as the encyclopedia author's prose
+  except the marked Augustine words.
