@@ -82,3 +82,7 @@ Citation now links to her Plum Village bio (https://plumvillage.org/about/sister
 ### SALZBERG BIO CITATION FIXED
 
 Sharon Salzberg citation now links to her own bio (https://www.sharonsalzberg.com/about, verified: co-founder of the Insight Meditation Society in Barre, Massachusetts). Goldstein's Dharma Seed teacher page carries his talk archive but no bio sentence, so his link stays on the archive it names.
+
+### EKMAN BIO CITATION FIXED
+
+Eve Ekman citation now links to her own site (https://www.eveekman.com/, verified unprompted: Senior Fellow at Greater Good Science Center at UC Berkeley, lead teacher for Cultivating Emotional Balance). Previously linked to the GGIA practice page it described.
