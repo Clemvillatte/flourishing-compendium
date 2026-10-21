@@ -897,3 +897,9 @@ Carrier opened fresh: SEP "Baruch Spinoza" (Nadler). w1q "Amor dei intellectuali
 all three quoted passages VERBATIM vs the opened carrier (including the SEP's
 sentence frame "The third kind of knowledge generates a love for its object, and..."
 which the page elides at the join — acceptable). 1/1 PASS, no defects.
+
+## Round 68 (16:48Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: millerpolitics.com Ross NE Book VI text. w1w "Sophia": all three
+quoted passages (VI.7 sophia definitions; Anaxagoras/Thales passage) VERBATIM vs the
+opened carrier. 1/1 PASS, no defects.
