@@ -175,7 +175,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-008": {
+   "status": "ready",
+   "angle": "P025: Lind's 1747 scurvy trial and 48 years of other belief-fixing; Lind's own hedging",
+   "history": [
+    {
+     "t": "2026-10-21T12:18:01+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:18:01+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:18:01+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: Lind OCR text read; Milne and Troehler opened; claims bounded"
+    },
+    {
+     "t": "2026-10-21T12:18:01+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:15:29+00:00"
+ "updated": "2026-10-21T12:18:01+00:00"
 }
