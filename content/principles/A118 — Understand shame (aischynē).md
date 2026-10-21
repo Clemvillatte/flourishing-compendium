@@ -14,15 +14,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle defines shame in the Rhetoric as "pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit" ([Rhetoric II.6, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). It is tied to an audience: "the people before whom we feel shame are those whose opinion of us matters to us." It is also tied to blame, since the disgrace is greater "if it is seen to be our own fault".
 
-In [NE IV.9 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) he calls it "a kind of fear of dishonour" and says it "should not be described as a virtue; for it is more like a feeling than a state of character." He praises it in the young, who "live by feeling and therefore commit many errors, but are restrained by shame". He argues that a good adult has little occasion for it, since "it is for voluntary actions that shame is felt, and the good man will never voluntarily do bad actions." Even so, "shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced".
+The Rhetoric includes shame over poverty and humiliations suffered through force. Its account is therefore broader than remorse for chosen wrongdoing.
 
-Aristotle does not split shame into a healthy kind and a toxic kind. That split belongs to the principle as the compendium states it, and to the psychology below.
+In [NE IV.9 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) he calls shame "a kind of fear of dishonour" and says it "should not be described as a virtue; for it is more like a feeling than a state of character." There he connects it with voluntary wrongdoing, gives it a restraining role in youth, and argues that a good adult should have little occasion for it. Even so, "shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced".
 
 (Rhetoric II.6; NE IV.9.)
 
-**Plain words** Two of his points double as a test. Whose opinion is in the picture, and did I actually do something wrong, by my own choice? Shame that fits a real wrong is working as he describes. Shame that attaches to something you did not choose, or to the opinion of people you do not respect, has lost its footing.
+**Plain words** Shame involves other people's judgement, but feeling ashamed does not establish that you did wrong. Aristotle's examples include both fault and unchosen humiliation. For contemporary reflection, ask whose judgement matters here and what, if anything, needs repair. These are questions to consider, not a clinical test supplied by Aristotle.
 
-For example (imagined): feeling uneasy after padding an expense claim fits the definition. Replaying an awkward comment from years ago and concluding you are worthless does not fit any real wrong, and the audience in your head is not one whose opinion you would accept.
+For example (imagined): an awkward comment keeps coming back to mind. You can ask whether an apology is needed without treating that moment as a verdict on your worth.
 
 ## Sources
 

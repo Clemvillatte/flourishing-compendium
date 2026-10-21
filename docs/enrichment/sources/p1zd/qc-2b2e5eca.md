@@ -52,3 +52,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Independent milestone advisor confirmed the need to separate descriptive theory from advice. Removed the unsupported equation of deservedness with personal control in the layoff example.
 - Plain words explicitly refuses to turn Aristotle's account into a test of eligibility for help. Contemporary questions concern assumptions, attention and need, not screening a distressed person for blame.
 - Trimmed repetition while preserving substantive quotations. Protected metadata and inherited parallels unchanged.
+
+## A118
+
+- Opened [Rhetoric II.6](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) and [NE IV.9](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html); checked definition, audience, own-fault, dishonour, feeling/virtue and conditional-good quotations.
+- Independent milestone advisor confirmed the distinction between source description and modern advice. The Rhetoric explicitly includes poverty and coerced humiliation; the Ethics connects shame with voluntary action. The rewrite preserves that difference instead of making unchosen shame definitionally unfounded.
+- Removed an unsupported claim that the original principle states a healthy/toxic distinction. Practical questions are labelled contemporary reflection, and the example no longer declares an unspecified old comment incapable of involving any wrong.
+- Protected metadata, original principle sentence and inherited parallels preserved; no clinical test is claimed.
