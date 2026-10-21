@@ -55,7 +55,8 @@
   "Ordering the soul",
   "Organismic trust",
   "Organizational research",
-  "Orthogonal Cultural Identification Theory"
+  "Orthogonal Cultural Identification Theory",
+  "Participation"
  ],
  "in_progress": null,
  "flagged": {
@@ -92,11 +93,12 @@
   "Ordering the soul": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Gutenberg Jowett Republic; 443d-e passage quoted verbatim; Jowett archaic comma style kept as in source",
   "Organismic trust": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = PubMed abstract PMID 10101878; quotes verbatim; label note: Organismic trust is a compendium label over the self-concordance model (Self-concordance theory page exists, deg 13) - supervisor may want to merge/redirect",
   "Organizational research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Wiley Kristof-Brown 2005 abstract; quote verbatim; Deci-Ryan 2000 autonomy side kept as seed line, carrier not opened this session (SDT PDFs 403 from sandbox); survey-label concept",
-  "Orthogonal Cultural Identification Theory": "fast-track done at theory standard (2026-10-21, worker-pxy2-w1ab): carrier opened = PubMed PMID 2101397 abstract; quotes verbatim; theory elements present (definition quote, form, findings, example)"
+  "Orthogonal Cultural Identification Theory": "fast-track done at theory standard (2026-10-21, worker-pxy2-w1ab): carrier opened = PubMed PMID 2101397 abstract; quotes verbatim; theory elements present (definition quote, form, findings, example)",
+  "Participation": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Marcel; all quotes verified verbatim; Marcel books themselves not independently openable (403-type), passages carried via SEP as in R090"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:32:40+00:00",
+ "updated": "2026-10-21T14:33:16+00:00",
  "band_done": false,
  "new_concepts": [
   {
