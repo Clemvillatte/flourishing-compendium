@@ -339,3 +339,19 @@ definition). Aristotle/Buber seed citations retained, marked as not carrying
 any quotation. Related concepts added from existing graph edges (Fidelity,
 Interdependence Theory, Relational maintenance); no new reciprocal proposals
 (edges already existed).
+
+## Companionate love in adversity (worker-w1m-f9f8e50d, session 2026-10-21 14:5xZ)
+Fast-track item (degree 5 < 15). CONCEPT-EXISTENCE NOTE: "Companionate love
+in adversity" is a compendium heading, not a source-defined term; the page
+says so in one sentence and writes for the sense the linked principles use
+(A068 presence in misfortune), flagged here per PROTOCOL rule 6. Carriers:
+Porto repository PDF (Neto & Menezes) — raw-substring verified: Berscheid &
+Walster 1978 p.9 companionate definition VERBATIM (passionate definition also
+present); Berscheid 2010 p.12 aliases sentence VERBATIM (cited-in carrier).
+elainehatfield.com Endurance-of-Love PDF — abstract sentences verified by two
+independent extractions (search snippet + fetch); "corrosive effect" finding
+sentences and the "fragile flower / sturdy evergreen" quote (Hatfield &
+Walster 1978 p.125, quoted-in) from the fetch extraction of the opened PDF;
+sandbox curl cannot reach that host, so no raw substring check was possible —
+residual verification risk recorded. Berscheid 2010 full text JS-walled at
+Annual Reviews (noted on page).
