@@ -12,13 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 68** — Think least of death; wisdom meditates on life
 
-The proposition in the Ethics reads: "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death" ([Ethics IV P67, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The demonstration gives the reason: the free person "isn't led by fear of death" but "wants the good directly," acting from the pursuit of what is advantageous rather than from avoidance of loss ([Ethics IV P67 demo, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The maxim reads as a counter to the Stoic rehearsal of death ([[Memento mori|memento mori]]): what occupies the free person is not denial of mortality but the object of fear. A mind organized around avoiding bad things keeps death at the door, because it is the largest loss of all; a mind organized around seeking good things barely has a slot for it.
+Spinoza grounds the maxim in the free person's manner of acting: the free person "isn't led by fear of death" but "wants the good directly," acting from the pursuit of what is advantageous rather than from avoidance of loss ([Ethics IV P67 demonstration, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). A related practice elsewhere in the tradition: [[Memento mori|memento mori]].
+
+> "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." (Spinoza, Ethics IV P67, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 **Plain words**
-Spinoza is describing where a certain kind of person's attention naturally sits, not issuing a rule against thinking about death. If your actions come from wanting good things, death barely registers, because death is not a task. If your actions come from dodging bad things, death is always pending, because it is the biggest bad of all. A simple audit of your own day: how much of what you did was to get something, and how much was to avoid something?
+A person can know that life will end and still decide what to do by asking what is worth doing now, instead of letting fear of dying supply the reason for every decision ([Bennett, IV P67](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
-Two people with the same diagnosis: one spends evenings reading forums and cataloguing symptoms; the other keeps the lunch dates and finishes the book. The first is not more frightened, only organized around avoidance; the second's attention is still on the good, which is why death occupies less of it.
+Hypothetical illustration: you arrange lunch with a friend because spending time together matters to you.
 
 (Ethics IV, P67.)
 
