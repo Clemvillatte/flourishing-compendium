@@ -3,8 +3,9 @@
   takeover). 7 ITEMS ENRICHED AND DONE this session (Behaviorism theory-standard
   redo, COM-B model theory [cloud-browser quote verification], Commitment,
   Contempt for fame, Conservation of Resources Theory, Contemporary psychodynamic
-  theory; Connectionism done then REVERTED to QC-pending: theorist-quote
-  requirement unmet — see ledger). 1 ITEM HELD: Companionate love in adversity
+  theory; Connectionism done then REVERTED then RE-CLOSED with the PDP
+  Chapter 1 theorist quote (McClelland/Rumelhart/Hinton, Stanford-hosted
+  author PDF) — see ledger). 1 ITEM HELD: Companionate love in adversity
   (namespace hold, done-mark reverted, concept-namespace-audit.md entry added).
   QC: Behaviorism 4 advisor rounds (scoped PASS); items 2-5 milestone round
   (repairs applied; Companionate held); items 6-8 three rounds (COR + CPD
