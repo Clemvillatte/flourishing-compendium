@@ -14,13 +14,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Marcus records where his own search for happiness did not end up:
 
-> "Thou hast had experience of many wanderings without having found happiness anywhere,--not in syllogisms, nor in wealth, nor in reputation, nor in enjoyment, nor anywhere. Where is it then? In doing what man's nature requires."
+> "Observe then what it wills, and let nothing else distract thee; for thou hast had experience of many wanderings without having found happiness anywhere,--not in syllogisms, nor in wealth, nor in reputation, nor in enjoyment, nor anywhere. Where is it then? In doing what man's nature requires."
 
 (Med. VIII.1, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-The compendium applies the passage to wealth: money is one of the places Marcus looked and did not find it, and it remains useful for what it can buy. Stoics call wealth a [[Preferred indifferents|preferred indifferent]], a thing worth having that is not good in itself. The exercise is to notice whether your plans assume more money before they can begin.
+The compendium applies the passage to wealth: money is one of the places Marcus looked and did not find it, and it remains useful for what it can buy. The exercise is to notice whether your plans assume more money before they can begin.
 
-**Plain words** Keep the distinction between using money and needing it. Ask what a purchase is for, and whether the same end could be reached with less.
+**Plain words** Ask what a purchase is for, and whether the same end could be reached with less.
 
 *For example:* Imagined: someone with savings picks a smaller flat than the bank would finance, and gives a fixed share of income away each year.
 
