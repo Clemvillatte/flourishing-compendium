@@ -9,7 +9,6 @@
   "AF064",
   "AF074",
   "AT018",
-  "AT021",
   "AT046",
   "AT048",
   "AT054",
@@ -32,7 +31,7 @@
   "AT002",
   "AT015"
  ],
- "in_progress": null,
+ "in_progress": "AT021",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -47,10 +46,11 @@
   "AF079": "QC-CLOSED 2026-10-21: APA PTSD page opened, quotes checked, sparse hypothetical no longer asserts full pattern; earlier support distinguished from diagnosis; inherited parallels preserved, not reverified.",
   "AF080": "QC-CLOSED 2026-10-21: APA/NIMH bipolar explanations opened; quotes checked, hospital-care exception and bipolar I scope added; diagnosis distinct from help-seeking; inherited parallels unverified.",
   "AT002": "QC-CLOSED 2026-10-21: Fan 2002 and Petersen/Posner 2012 abstracts opened; quotes checked; correlation/interaction limits retained in Plain words; inherited parallels unverified.",
-  "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified."
+  "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified.",
+  "AT021": "Reopened for QC: QC: avoid ranking unlike intervention literatures or claiming unmeasured noticing mechanism"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:51:25+00:00",
+ "updated": "2026-10-21T14:51:37+00:00",
  "band_done": false
 }
