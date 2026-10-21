@@ -56,3 +56,8 @@
 ## BE034 — Approach behaviours for shame
 - Opened: Rizvi & Linehan 2005 abstract (ScienceDirect author listing); de Hooge et al. 2018 Cogn Emot 32(8):1671-1677 (PubMed; authors/journal verified by fetch).
 - Seed claim "disclosure reduces shame (Brown 2010)" dropped (unopened, popular source). Linehan 1993 kept as bare ref. Added qualification: shame -> withdrawal is the typical portrayal, but de Hooge et al. found approach preference. Pilot limits stated (n=5, BPD, single-subject).
+
+## BE063 — Ritual behaviour
+- Opened: Norton & Gino 2014 (HBS record + full text snippets), Vohs et al. 2013 (PubMed abstract), Hobson et al. 2017 (PMC), retraction notice for Brooks et al. 2016 (see AT056). Quotes verbatim.
+- Seed cited "Norton & Gino 2014; Hobson et al. 2018" for "rituals reduce anxiety and improve self-control": Norton & Gino is about grief and control, not anxiety/self-control; Hobson 2018 review abstract not opened (SAGE blocked). Anxiety claim marked weak on page. Meaning/"connects to something larger" claims: no opened evidence; page scoped to what sources show.
+- NOTE for owner: Francesca Gino co-authored Norton & Gino 2014 and Vohs et al. 2013 (and Brooks et al. 2016, retracted). My searches surfaced no retraction notice for these two, but I did not run a dedicated retraction check; owner may want to verify Gino-coauthored sources library-wide.
