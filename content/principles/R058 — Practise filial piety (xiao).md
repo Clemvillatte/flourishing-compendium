@@ -20,7 +20,7 @@ In 4A19 Mencius says "the service of parents is the root of all others", and tha
 
 The seed's "debt you owe" appears in none of these passages. Psychology describes reciprocal filial piety as "gratitude for their efforts in having raised them" ([Child Development](https://academic.oup.com/chidev/article/89/2/383/8263272)).
 
-I did not open the cited Berscheid (1994) and Mikulincer et al. (2005). The dual filial piety model separates reciprocal (love and care) from authoritarian (hierarchy and obedience) forms. A review of 17 studies of Chinese and Korean adolescents found reciprocal filial piety negatively associated with depression, anxiety and other symptoms, while authoritarian filial piety was not related to most symptoms ([Dual Filial Piety review](https://link.springer.com/article/10.1007/s40894-024-00234-2)). The depression pooling used cross-sectional data, so causation is not shown.
+Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The dual filial piety model separates reciprocal (love and care) from authoritarian (hierarchy and obedience) forms. A review of 17 studies of Chinese and Korean adolescents found reciprocal filial piety negatively associated with depression, anxiety and other symptoms, while authoritarian filial piety was not related to most symptoms ([Dual Filial Piety review](https://link.springer.com/article/10.1007/s40894-024-00234-2)). The depression pooling used cross-sectional data, so causation is not shown.
 
 **Plain words** Xiao means more than doing what parents say. The Analects ask for reverence, an honest face, gentle disagreement and continuing what was good in them. Mencius adds that losing yourself undermines serving them.
 

@@ -18,7 +18,7 @@ Respect runs both ways. The proverb "O le ala i le pule o le tautua" means "the 
 
 Authority has limits and a darker edge. The [Samoa Law Reform Commission](https://www.samoalawreform.gov.ws/wp-content/uploads/2023/10/Discussion-Paper-Eng-4.pdf) notes that the senior matai may order family members who disrespect his authority, or fail to render service, to leave the family land. A page about respect for matai should hold both facts.
 
-The seed attributes this principle to Tuhiwai Smith (1999), a Māori scholar writing on research methods. I did not use that book, and nothing I opened ties it to the matai system.
+The seed attributes this principle to Tuhiwai Smith (1999), a Māori scholar writing on research methods. The book is not drawn on here, and none of the opened sources ties it to the matai system.
 
 Hofstede (2001) offers a parallel for the psychology bullet, though a loose one. He defines power distance as "the extent to which the less powerful members of institutions and organizations within a country expect and accept that power is distributed unequally" (as quoted in [a Jagiellonian University paper](https://ruj.uj.edu.pl/server/api/core/bitstreams/f9a77453-1a75-4437-a145-78749e030a83/content)). That describes acceptance of inequality, which is different from respect for responsible leaders.
 

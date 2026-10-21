@@ -18,7 +18,7 @@ The seed frames the practice as building relationships "across cultural, social 
 
 For the psychology parallel, Pettigrew and Tropp (2006) analysed 713 samples from 515 studies and found that "intergroup contact typically reduces intergroup prejudice" ([abstract](https://www.ovid.com/journals/jpspy/abstract/00005205-200605000-00004~a-meta-analytic-test-of-intergroup-contact-theory)). A later re-evaluation using only randomised studies agreed with that headline but found that "interventions directed at ethnic or racial prejudice" generated "substantially weaker effects" and noted gaps in studies of adults ([Paluck, Green and Green 2019](https://ideas.repec.org/a/cup/bpubpo/v3y2019i02p129-158_00.html)). Contact research measures prejudice between groups, which is related to whakawhanaungatanga but not the same thing.
 
-**Plain words** Whakawhanaungatanga means the process of establishing relationships. In the main source I read, it is shown through caring, trust and high expectations between teachers and students. Contact between groups also tends to reduce prejudice, with weaker effects for racial and ethnic prejudice in the randomised studies.
+**Plain words** Whakawhanaungatanga means the process of establishing relationships. In the main source, it is shown through caring, trust and high expectations between teachers and students. Contact between groups also tends to reduce prejudice, with weaker effects for racial and ethnic prejudice in the randomised studies.
 
 *For example:* This is an imagined case. A nurse learns a greeting in each language spoken on her ward, and uses it each morning.
 
