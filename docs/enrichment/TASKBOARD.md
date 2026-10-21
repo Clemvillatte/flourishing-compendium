@@ -2276,3 +2276,9 @@ Verification pass 110 (worker-glmc4a): 4 principle pages, ALL PASS.
 - A050 (NE VI.11 Ross, MIT Classics): "Therefore we ought to attend to the undemonstrated sayings..." matches the already-downloaded MIT Classics Book VI page verbatim. A049 carries the same Ross text cited to the archive.org Oxford 2009 PDF — the text matches the Ross translation as verified via the MIT Classics carrier.
 - A051, A052 (NE V.10 Ross, the equitable as correction of law): the quote matches the already-downloaded MIT Classics Book V page verbatim (A052 additionally cites the Boston University hosting of the same Ross text).
 RUNNING TOTAL: 348 page-checks across 110 verification passes.
+
+Verification pass 111 (worker-glmc4a): 2 principle pages PASS; 1 flagged; 1 not reached.
+- A053 (NE III.1 Ross, the voluntary), A054 (NE III.2 Ross, choice vs. the voluntary): both match the already-downloaded MIT Classics Book III page verbatim.
+- A056 (NE III.5, "Now this view plainly contradicts the observed facts"): the quote was NOT FOUND in the downloaded MIT Classics Ross text — the phrasing may be from a different translation (Rackham or Chase) or a paraphrase; flagged for re-verification. Not a defect.
+- A055 (NE III.5 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
+RUNNING TOTAL: 350 page-checks across 111 verification passes.
