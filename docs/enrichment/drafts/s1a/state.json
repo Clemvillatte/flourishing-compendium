@@ -708,6 +708,11 @@
      "t": "2026-10-21T12:27:50+00:00",
      "to": "published",
      "note": "supervisor verification: quotes re-verified against opened sources this session"
+    },
+    {
+     "t": "2026-10-21T12:43:50+00:00",
+     "to": "published",
+     "note": "supervisor registration ST429"
     }
    ]
   },
@@ -797,5 +802,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:43:29+00:00"
+ "updated": "2026-10-21T12:43:50+00:00"
 }

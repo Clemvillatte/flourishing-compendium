@@ -41,6 +41,7 @@ Choose the target of your effort first. Ask whether a mental quality is harmful 
 - [[ST395 — Bill W. Finds Dr. Bob|395. Bill W. Finds Dr. Bob]]
 - [[ST413 — Bill W. Finds Dr. Bob|413. Bill W. Finds Dr. Bob]]
 - [[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts|421. Meghiya Finds the Right Grove and the Wrong Thoughts]]
+- [[ST429 — Backsliding into Abundance|429. Backsliding into Abundance]]
 ## Psychology parallels
 
 - **Stimulus control and reinforcement**, arranging the environment and rewarding desired responses (Duckworth et al., 2016, situational strategies)
