@@ -52,7 +52,8 @@
   "Cloninger's Psychobiological Model of Temperament and Character",
   "Cognitive-Experiential Self-Theory",
   "Commitment devices (Ariely & Wertenbroch)",
-  "Common coding theory"
+  "Common coding theory",
+  "Communication Accommodation Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -108,6 +109,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:08:11+00:00",
+ "updated": "2026-10-21T14:08:36+00:00",
  "band_done": false
 }
