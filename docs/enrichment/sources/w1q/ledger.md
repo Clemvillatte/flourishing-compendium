@@ -57,3 +57,16 @@ damage, w1ab left to its live holder.
   equivalence removed (bare link); everyday-life replaced with a labelled illustrative
   scenario in third person; process notes removed from Sources.
 - Post-repair validation: 2 checked, 0 failed (--fast-track, base ca927d09).
+
+## ITEM: Strategic Contingencies Theory (theory page; degree 4) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Carrier: Hickson, Hinings, Lee, Schneck and Pennings 1971, "A Strategic Contingencies'
+  Theory of Intraorganizational Power", Administrative Science Quarterly 16(2), 216-229,
+  article abstract as reproduced by OpenAIRE (oamonitor.ireland.openaire.eu, DOI
+  10.2307/2391831) — both blockquotes are the authors' own abstract sentences, verified
+  against the opened OpenAIRE reproduction. Wikipedia article and e-bookshelf textbook
+  carriers both rejected (crawler errors) — flagged for the supervisor only if the band
+  needs a fuller carrier later; the abstract meets the theory-page bar.
+- Everyday-life section is a clearly labelled illustrative scenario (no study claim);
+  the 'hospitals and manufacturing firms' gloss from an earlier draft was cut as
+  unverified. Front-matter duplication slip caught and fixed before validation.
+- Validation --fast-track: ok. Advisor QC: due at the items-4-5 milestone round.
