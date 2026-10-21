@@ -625,3 +625,16 @@ Carriers opened fresh: IEP "William of Ockham", Wikisource KJV Matthew, Gutenber
 3. Non-striving — blockquote VERBATIM (Legge DDJ 37.1).
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 33 (16:43Z) — w1ab quote-fidelity verification, ninth batch
+
+Carriers opened fresh: bfskinner.org Science and Human Behavior PDF, SEP "Gabriel
+Marcel" (Treanor & Sweetman), Wikipedia "Paideia".
+
+1. Operant conditioning (Skinner) — all three blockquotes VERBATIM (pp. 65-66 passages).
+2. Participation — blockquote VERBATIM vs the SEP's reproduction of Marcel's
+   Being and Having problem/mystery passage.
+3. Paideia — blockquote VERBATIM vs the Wikipedia lead, with the ellipses properly
+   marking the elided intervening sentence.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
