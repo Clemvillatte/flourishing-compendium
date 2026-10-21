@@ -69,7 +69,8 @@
   "Harsh self-criticism",
   "Hormetic exposure research",
   "Identity",
-  "Integrative Theory of Communication Work"
+  "Integrative Theory of Communication Work",
+  "Integrity as consistency"
  ],
  "in_progress": null,
  "flagged": {
@@ -108,10 +109,11 @@
   "Fundamental attribution error": "seed defines FAE as over-crediting the self (wrong; that is self-serving bias); depression-reversal claim unchecked; page corrects",
   "Grounding techniques": "seed source Linehan 1993 not opened; evidence base for grounding is thin per 2026 critical review; page states this",
   "Harsh self-criticism": "seed 'predicts psychopathology' overstated: sources show association; Gilbert 2009 is theory; page states this",
-  "Integrative Theory of Communication Work": "seed attribution (Kramer) and gloss wrong: ITCW is Donovan and Hazlett 2024 (HCR), about communication as labour during health stressors; supervisor may want to re-map principles"
+  "Integrative Theory of Communication Work": "seed attribution (Kramer) and gloss wrong: ITCW is Donovan and Hazlett 2024 (HCR), about communication as labour during health stressors; supervisor may want to re-map principles",
+  "Integrity as consistency": "Emerson Self-Reliance attacks foolish consistency; page separates surface vs character consistency; label is compendium summary"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:27:06+00:00",
+ "updated": "2026-10-21T08:28:00+00:00",
  "band_done": false
 }
