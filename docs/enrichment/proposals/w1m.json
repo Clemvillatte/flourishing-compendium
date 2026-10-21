@@ -126,5 +126,31 @@
    "why": "a sibling framework for designing behaviour change from a behaviour system"
   }
  ],
- "inline": []
+ "inline": [
+  {
+   "into": "V1K-S02.07",
+   "concept": "Process-based therapy",
+   "phrase": "The kernels draw from process-based therapy"
+  },
+  {
+   "into": "NAV-PSYCHOLOGY",
+   "concept": "Process-based therapy",
+   "phrase": "Anchored in the PBT (Process-Based Therapy) meta-model"
+  },
+  {
+   "into": "P",
+   "concept": "Process-based therapy",
+   "phrase": "process-based therapy (Hofmann and Hayes, 2019)"
+  },
+  {
+   "into": "Volume V \u2014 Adaptive Flourishing",
+   "concept": "Extended Evolutionary Meta-Model",
+   "phrase": "(Process-Based Therapy & Extended Evolutionary Meta Model)"
+  },
+  {
+   "into": "Volume V \u2014 Adaptive Flourishing",
+   "concept": "Process-based therapy",
+   "phrase": "PRINCIPLES OF ADAPTIVE FLOURISHING (Process-Based Therapy"
+  }
+ ]
 }

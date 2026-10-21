@@ -55,3 +55,14 @@ Seeds created (front-matter + source line; enrichment pending):
 4. Lower-priority book concepts not created (available on request):
    the ten steps of process-based functional analysis, self-sustaining loops,
    reemergence of problem areas as cues, the EEMM grid as an artifact.
+
+## Addendum (post-saturation pass, same session)
+
+- The six EEMM dimensions are already structurally covered: Volume V
+  (Adaptive Flourishing) carries them as books (AF Affect, CO Cognition, and
+  siblings), and NAV-PSYCHOLOGY names the PBT meta-model. No separate
+  dimension concept pages are needed unless the owner wants them.
+- Saturation done: 25 reciprocal proposals + 5 inline proposals in
+  proposals/w1m.json (Volume V header, V1K scope note, NAV-PSYCHOLOGY, book P).
+- Midlevel terms re-sourced honestly: the term does not appear in the Hofmann
+  book; carrier is Twohig & Levin (USU DigitalCommons).
