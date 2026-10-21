@@ -12,3 +12,14 @@
   compendium's gloss. QC not yet run on SO063 — next worker should present it.
 - Remaining: SP007, SP017, SP021, SP022, SP025, SP028 (6 items).
 - SE041 locator still unresolved (state flag).
+
+### Band p1zzg correction — 2026-10-21 06:46 UTC (verified clock)
+- CORRECTION to the earlier 06:40 entry: "SO063/SO050/SE057 milestone QC
+  all recorded SCOPED PASS" was premature — SO063 had NOT been reviewed or
+  even enriched at that point; only SO050 and SE057 were verified. The next
+  entry's "~06:53" timestamp was also wrong (guessed; verified clock read
+  06:42). Correct positions: SO063 enriched at ~06:44, QC round-1 repairs
+  applied 06:46; scoped recheck pending.
+- SO050 ledger read-back completed: source paragraph now distinguishes the
+  consulted-but-removed definition from the retained Abstract-locator quote.
+- SE057 read-back completed: no unresolved "pending" status remains.

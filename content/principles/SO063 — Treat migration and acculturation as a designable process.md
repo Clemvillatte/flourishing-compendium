@@ -18,11 +18,11 @@ Berry's model asks immigrants two questions: whether to maintain the heritage cu
 
 (Berry, 2001, p. 619, via [open PDF](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf).)
 
-In the immigrant-youth samples he reviews, integration came with the better adaptations: "bicultural identities and integrationist attitudes predicted better psychological adaptation and school adjustment, with separated and marginalized identities being associated with least favorable outcomes" (p. 627). The compendium's "designable process" framing is its own gloss; Berry's assumption of free choice "is not always the case" when the receiving society constrains it (p. 619).
+In discussing the ICSEY immigrant-youth project, Berry reports that "bicultural identities and integrationist attitudes predicted better psychological adaptation and school adjustment, with separated and marginalized identities being associated with least favorable outcomes." ([Berry 2001, p. 627](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf)) The compendium's "designable process" framing is its own gloss; Berry's assumption of free choice "is not always the case" when the receiving society constrains it ([Berry 2001, p. 619](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf)).
 
-**Plain words** Two questions name the four strategies: keep your heritage culture, and join the wider society? Yes to both is integration; no to both is marginalization. In Berry's samples integration went with the best adaptation, marginalization with the worst. Whether a family can steer this depends partly on the receiving society.
+**Plain words** Separate what you want to keep from the ways you want to participate in your new surroundings. List your preferences alongside the opportunities and barriers you face. Do not assume that losing cultural connections or being excluded was a choice.
 
-*For example:* Imagined: a family keeps their language and festivals while joining the new country's civic life, and their children grow up fluent in both worlds.
+*For example:* Imagined: a family continues using its heritage language and celebrating its festivals while taking part in local civic activities.
 ## Psychology parallels
 
 - [[Berry|Berry]] (1997, 2005) on acculturation; Sam and Berry (2010) on acculturation and well-being; Virta et al. (2004) on identity and acculturation; the immigration paradox (Marks et al., 2014); the segmented-assimilation literature (Portes and Zhou, 1993).
