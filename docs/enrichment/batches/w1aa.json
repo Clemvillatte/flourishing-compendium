@@ -76,7 +76,7 @@
  "flagged": {
   "Feng shui (harmonious environment)": "RESOLVED 2026-10-21 (supervisor-df5053ec): Ci-hai blockquote verified character-for-character against the freshly opened ICOMOS Yuan Ding PDF (p. 2, 'Definitions of Fengshui' section); secondary-carrier quotation ACCEPTED under the E016/E070/K001 precedent with provenance disclosed on the page.",
   "Generative model theory": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: skip-ahead quote verification: Clark 2013 blockquote re-verified character-for-character in the opened fil.ion.ucl.ac.uk PDF (ligature/line-break normalization only); degree 1]",
-  "Festinger": "Reopened for QC: advisor QC round 1: identity disposition pending supervisor (person-titled page on verification queue s2; keep as author-hub vs rename/merge into Social comparison); repairs applied (seed-line sentence removed, reader-addressing removed, Hyp IV standalone blockquote, 'most often' dropped, Wikipedia citation inline); item NOT done pending disposition",
+  "Festinger": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: advisor QC round 1: identity disposition pending supervisor (person-titled page on verification queue s2; keep as author-hub vs rename/merge into Social comparison); repairs applied (]",
   "Grit": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2: blockquote reduced to the Hou-verified fragment (p. 1087); master-trait contrast removed; abstract blockquote retained (fully verified)]",
   "Group cohesion theory": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 4: origin/standard-instrument sentence replaced with the advisor's wording (Croatian GEQ validation study presents Carron's model); E039 link direction corrected on HEXACO (linked FROM this p]",
   "Groupthink theory": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 7): this flag is a completed-QC evidence record, not an open issue; retained for the audit trail. [orig: QC round 2: bold seed line removed]",
@@ -120,6 +120,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T17:25:00+00:00",
+ "updated": "2026-10-21T18:00:00+00:00",
  "band_done": false
 }

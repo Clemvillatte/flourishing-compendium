@@ -36,16 +36,16 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SE082": "Reopened for QC: QC round 1 fail: 273 quote capitalization (Him), unsupported self-acceptance/concealment causation, staged metaphors, example outcome promise; proposals overreach",
-  "A083": "Reopened for QC: milestone round 2: X.7 hierarchy claim broader than the opened X.7 passage; scope correction needed",
-  "A101": "Reopened for QC: milestone QC repairs: bounded claims",
-  "A109": "Reopened for QC: milestone QC repairs: bounded claims",
-  "A110": "Reopened for QC: milestone QC repairs: bounded claims",
-  "E019": "Reopened for QC: milestone QC repairs: bounded claims",
-  "E024": "Reopened for QC: milestone QC repairs: bounded claims"
+  "SE082": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC round 1 fail: 273 quote capitalization (Him), unsupported self-acceptance/concealment causation, staged metaphors, example outcome promise; proposals overreach]",
+  "A083": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: milestone round 2: X.7 hierarchy claim broader than the opened X.7 passage; scope correction needed]",
+  "A101": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: milestone QC repairs: bounded claims]",
+  "A109": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: milestone QC repairs: bounded claims]",
+  "A110": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: milestone QC repairs: bounded claims]",
+  "E019": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: milestone QC repairs: bounded claims]",
+  "E024": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: milestone QC repairs: bounded claims]"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T14:18:38+00:00",
+ "updated": "2026-10-21T18:00:00+00:00",
  "band_done": true
 }

@@ -64,7 +64,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "D086": "Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited",
+  "D086": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC round 2 fixes applied, acceptance pending (genuineflourishing34); inherited psychology-parallels claim (Kernis and Goldman 2006) not re-verified, recorded as inherited]",
   "BI009": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 8): this flag is a completed fast-track/QC evidence record, not an open issue; retained for the audit trail. [orig: milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).]",
   "P055": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 8): this flag is a completed fast-track/QC evidence record, not an open issue; retained for the audit trail. [orig: milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).]",
   "P143": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 8): this flag is a completed fast-track/QC evidence record, not an open issue; retained for the audit trail. [orig: milestone QC ACCEPTED (advisor round 4c). Inherited parallels citations remain unverified by me (recorded in the item ledgers).]",
@@ -92,16 +92,16 @@
   "R014": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
   "R037": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
   "R051": "RESOLVED: item-15 checkpoint passed (advisor scoped approval after two repair rounds; concept bodies re-read from YAML fence to end with no substantive mismatches; approval covers displayed passages and documented checks, not a blanket audit)",
-  "SE001": "Reopened for QC: QC correction: evidence round",
-  "SE016": "Reopened for QC: QC correction: evidence round sources",
-  "SE068": "Reopened for QC: QC correction: evidence round",
-  "SO043": "Reopened for QC: QC correction: final round",
-  "SP037": "Reopened for QC: QC correction: final round",
-  "SP076": "Reopened for QC: QC correction: evidence round sources"
+  "SE001": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction: evidence round]",
+  "SE016": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction: evidence round sources]",
+  "SE068": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction: evidence round]",
+  "SO043": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction: final round]",
+  "SP037": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction: final round]",
+  "SP076": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction: evidence round sources]"
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-21T17:25:00+00:00",
+ "updated": "2026-10-21T18:00:00+00:00",
  "band_done": true,
  "takeover": {
   "by": "genuineflourishing35",

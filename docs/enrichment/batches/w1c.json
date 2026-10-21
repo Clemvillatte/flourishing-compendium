@@ -83,7 +83,7 @@
   "Contingent self-esteem": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 5, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC round 2: opening attribution repair]",
   "Default mode network": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 5, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC round 2: caveat attribution and Raichle framing repair]",
   "Environmental psychology": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 5, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC: opening needs verified disciplinary overview]",
-  "Friendship": "Reopened for QC: QC round 2: translator name removed pending edition metadata",
+  "Friendship": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC round 2: translator name removed pending edition metadata]",
   "Intergroup contact": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 5, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC round 2: appears-qualification, mediator grouping, facet attribution]",
   "Intolerance of uncertainty": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 5, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC: glosses, central-process phrasing, facet attributions]",
   "Narrative therapy": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 5, ledger cross-ref): the band ledger documents the repair as applied and validated; live status is done. [orig: Reopened for QC: QC round 2: excerpt punctuation]",
@@ -106,7 +106,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-21T16:30:00+00:00",
+ "updated": "2026-10-21T18:00:00+00:00",
  "band_done": true,
  "new_concepts": [
   {
