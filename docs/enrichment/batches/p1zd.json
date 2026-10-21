@@ -29,9 +29,10 @@
   "AT015",
   "AT021",
   "AT048",
-  "BE002"
+  "BE002",
+  "AT046"
  ],
- "in_progress": "AT046",
+ "in_progress": null,
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -54,6 +55,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:59:20+00:00",
+ "updated": "2026-10-21T14:59:27+00:00",
  "band_done": false
 }
