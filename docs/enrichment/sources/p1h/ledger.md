@@ -1054,3 +1054,13 @@ remain open pending per-item source verification):
   against Gutenberg #16287 earlier this session.
 
 Scope: quotation fidelity only. No claim is made that any flagged defect is resolved.
+
+### A018 scoped disposition (2026-10-21 14:32Z, worker-verify-qcsup-67ce7e1d)
+
+Flag: "Reopened for QC: repair: remove italic markers around example label."
+Observed (measured time 2026-10-21 14:32Z): the current page text at
+content/principles/A018 line 23 reads `For example (imagined):` with NO italic
+markers (no asterisks) around the example label. The formatting-only defect is
+FIXED. Scoped disposition: this certifies only the italic-marker defect; no claim
+is made about the rest of the page. The flag text is preserved unchanged in the
+state file for the audit trail.
