@@ -39,3 +39,9 @@
 - Opened: Te Aka Māori Dictionary entries (rangatiratanga #6480, rangatira #6479, mana #3424); Te Puni Kōkiri Te Tautuhi ō Rongo glossary; Te Ara glossary. Not opened: Mead 2003 Tikanga Māori; Durie 1994 Whaiora (both in locators; left as locators, body says not opened).
 - R031 flag: seed says mana is "not earned or achieved; it is inherent" and universal. Te Aka (mana) says inherited by descent, graded by seniority, and that it can increase or decrease. Page states this honestly and labels the universal-dignity reading as the compendium's interpretation. Supervisor may wish to reword the principle blockquote/Plain words if Mead 2003 doesn't support it.
 - R029 seed "lead by serving, not commanding" is an interpretation of "weaver of people".
+## R050 — connection across the ocean
+- Opened: Hau'ofa 1994 full text (UCSB-hosted PDF of TCP 6(1) 147-161). Quotes verbatim with page numbers as extracted by the fetch tool (spot-check pp. 153-158). Also the TCP 22(1) tribute essays (caveat about inland peoples).
+- Seed "ocean is a highway" is the compendium's phrase; Hau'ofa's own is "sea of islands"/"interdependence". Invented family anecdote replaced.
+- Note: the locator gives pp. 148-161; the PDF header says 147-161.
+## R035 — pono
+- Opened: Te Aka entry pono (search-results page). Mead 2003 and Durie 1994 not opened; page thin by design. Supervisor: a tikanga source (Mead ch. on tikanga values, or Te Ara) would strengthen it.

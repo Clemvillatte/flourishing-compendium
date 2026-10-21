@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 312** — Practise connection across the ocean
 
-In Pacific philosophy, the ocean is not a barrier that separates but a highway that connects. Maintain connection with your diaspora, with your ancestral homelands, and with the wider Pacific community. Distance does not dissolve relationship.
+Hau'ofa argues that the usual picture of the Pacific as small, remote islands is a colonial framing, and that older Pacific peoples saw their world differently: "Our ancestors ... viewed their world as 'a sea of islands' rather than as 'islands in the sea'" (Hau'ofa, 1994, p. 153, "Our Sea of Islands", The Contemporary Pacific 6(1), [open PDF](https://www.history.ucsb.edu/wp-content/uploads/HauofaOurSeaOfIslands.pdf)). They "sailed to trade and to marry, thereby expanding social networks for greater flows of wealth" (pp. 153-154).
 
 (Pacific philosophy; Hau'ofa, 1994, "Our Sea of Islands," The Contemporary Pacific, 6(1), 148-161.)
 
-**Plain words** The ocean is a highway, not a wall: distance doesn't end relationship, and the diaspora is still one circle. Keep the connections across the water — the homeland, the relatives, the wider community. The sea connects what the map divides.
+### Diaspora as kin network
 
-*For example:* The family that sends the boxes, funds the village roof, video-calls the Sunday to'ona'i from three time zones away — and their kids grow up knowing exactly where "home" is, though they've never lived there.
+On people who have moved abroad, he writes that they are "expanding kinship networks through which they circulate themselves, their relatives, their material goods, and their stories all across their ocean" (p. 156). He rejects the view of homeland relatives as dependents: "This is not dependence but interdependence" (p. 158). Homeland relatives reciprocate by "maintaining ancestral roots and lands for everyone, homes with warmed hearths for travelers to return to" (p. 158).
+
+This is an argument by an anthropologist and writer, not a study. A colleague also cautions in the journal's 2010 tribute that an ocean focus can marginalise inland peoples such as those in the highlands of Papua New Guinea ([Essays in Honor of Epeli Hau'ofa, TCP 22(1)](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/f0dfb3c9-751c-4872-ada0-145217802061/content)).
+
+**Plain words**
+Distance does not end belonging. For many Pacific families the gifts, visits and stories that cross the water are what keep the family one whole.
+
+**For example**
+If you have relatives overseas, pick one and set a standing call every month. Ask what the family at home needs, and what you can send back from where you are, such as news, money or a visit.
+
+## Sources
+
+- [Hau'ofa 1994, "Our Sea of Islands", The Contemporary Pacific 6(1), 147-161 (open PDF)](https://www.history.ucsb.edu/wp-content/uploads/HauofaOurSeaOfIslands.pdf)
+- [Essays in Honor of Epeli Hau'ofa, The Contemporary Pacific 22(1), 2010](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/f0dfb3c9-751c-4872-ada0-145217802061/content)
+
 ## Stories
 
 - [[ST240 — Talanoa Goes to Bonn|240. Talanoa Goes to Bonn]]
