@@ -12,11 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 16** — Use cultural relativism methodologically, not morally
 
-Use cultural relativism methodologically — as a research stance that treats each culture on its own terms — not morally, as a stance that treats all practices as equally good. The methodological stance is essential for understanding; the moral stance is a mistake. Female genital mutilation, honor killings, and caste discrimination are cultural practices, and they cause suffering; the adaptive stance is to understand them culturally and to oppose them morally.
+The distinction this principle draws is the one the reference works draw. The Internet Encyclopedia of Philosophy says cultural relativism "asserts that the beliefs and practices of human beings are best understood by grasping them in relation to the cultural context in which they occur", and that it "was originally put forward as, and remains today, a basic methodological principle of modern anthropology". It was meant as "an antidote of the unconscious ethnocentrism that may lead social scientists to misunderstand the phenomena they are observing" ([IEP, Moral Relativism](https://iep.utm.edu/moral-re/)). Moral relativism is a separate claim: the view that the correctness of moral judgments "is dependent on or relative to individual or cultural perspectives and frameworks" ([Stanford Encyclopedia, Relativism](https://plato.stanford.edu/entries/relativism/)).
 
-**Plain words** Use cultural relativism as a method, not a morality — understand each culture on its own terms, without pretending all practices are equally good. Understanding is a scholarly stance; endorsement is a separate decision. You can comprehend without approving.
+The two have been run together in the field's own history. The Stanford entry lists a "normative or prescriptive" version in which relativism is "a moral requirement", and the IEP notes that Herskovits and Benedict "made more explicit its implications with respect to ethics" ([IEP](https://iep.utm.edu/moral-re/)). So the principle reflects a live dispute, not an agreed default.
 
-*For example:* The anthropologist who can explain a practice rigorously and still criticise it — the explanation is the method, the judgement is the ethics. Both are needed; confusing them ruins each.
+
+
+### Scope
+
+The sources define the distinction. They do not argue about particular practices such as the ones named in the original wording, and I did not open Rosaldo, Donnelly, Sen or Nussbaum.
+
+**Plain words**
+Understand a practice from inside its own setting first. Then make a separate judgement about it. Doing the first does not oblige you to skip the second.
+
+**For example**
+Pick a practice you find puzzling. Write two paragraphs: one explaining why people in that setting do it, using their reasons, and one giving your own view and your grounds. Keep them in separate paragraphs.
+
+## Sources
+
+- [Internet Encyclopedia of Philosophy, Moral Relativism](https://iep.utm.edu/moral-re/)
+- [Stanford Encyclopedia of Philosophy, Relativism](https://plato.stanford.edu/entries/relativism/)
+
 ## Psychology parallels
 
 -  (Rosaldo, 1989; Clifford, 1988); the human-rights critique of relativism (Donnelly, 1989); the capability approach as a universalist framework sensitive to cultural difference (Sen, 1999; Nussbaum, 2000).
