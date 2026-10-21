@@ -352,3 +352,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: BG spans matched fetched pages; Ferrari effect sizes read in abstract (full text not opened).
 - Seed repairs: this translation makes the mind (not the self) friend or enemy; Gita says nothing on inner-voice tone or relapse handling, so that bridge and the audit are labelled as the page's own; Ferrari measured outcomes, not return to practice. Plato not opened.
 - Saturation: low.
+
+## Y075 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 3.3 and 3.4 with Vyasa and the Tika (pp. 204-205).
+- Quotes verified: matched woods text (the first Vyasa span differs only by an OCR "«" mark).
+- Seed repairs: the sutra says the contemplation is "emptied of itself" (act of attending merges with object); "emptied of the observer's own form", self-sense thinning, "sought for the wrong reasons", and "passing state, not arrival" are the page's own and labelled so. Josipovic 2013 and Mundaka 2.2.3 not opened.
+- Saturation: low.
