@@ -41,3 +41,11 @@
 - Remaining: SP017, SP021, SP022, SP025, SP028 (5 items).
 - SE041 locator still unresolved (state flag). All session QC scoped
   acceptances exclude inherited Practice/parallels citations.
+
+### Band p1zzg checkpoint — 2026-10-21 06:50 UTC (25/30 done, SP017 in progress)
+- SP007 SCOPED PROSE PASS recorded (Ethics II P7 + Note, Elwes,
+  Gutenberg #3800; repairs verified; reciprocal proposed for supervisor).
+- SP017 started, no content work yet — next worker continues it.
+- Remaining after SP017: SP021, SP022, SP025, SP028. SE041 locator
+  unresolved (flagged). QC scoped acceptances this session all exclude
+  inherited Practice/parallels citations.
