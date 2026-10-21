@@ -94,7 +94,7 @@
    ]
   },
   "s1d-005": {
-   "status": "ready",
+   "status": "published",
    "angle": "P057: the Wild Boy of Aveyron (Itard) - a self built out of human company",
    "history": [
     {
@@ -102,24 +102,13 @@
      "to": "researching"
     },
     {
-<<<<<<< HEAD
-     "t": "2026-10-21T12:33:41+00:00",
-     "to": "ready",
-     "note": "advisor QC fixes applied, raw-verified, narrowed claims; story_check ok"
-=======
      "t": "2026-10-21T12:34:23+00:00",
      "to": "published",
      "note": "supervisor registration ST404; prose trimmed 491->480 words (parallel-source parentheticals shortened, non-substantive)"
->>>>>>> a38c2b807 (ST404 Victor of Aveyron (P057) registered; quotes verified; prose trimmed to 480-word cap; build ok)
     }
    ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
-<<<<<<< HEAD
- "updated": "2026-10-21T12:33:41+00:00"
-}
-=======
  "updated": "2026-10-21T12:34:23+00:00"
 }
->>>>>>> a38c2b807 (ST404 Victor of Aveyron (P057) registered; quotes verified; prose trimmed to 480-word cap; build ok)
