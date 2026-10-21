@@ -12,15 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 65** — Recognise avolition and amotivation: clinical loss of motivation
 
-Avolition — the loss of motivation to initiate and persist in goal-directed activity — is a clinical symptom associated with depression, schizophrenia, and other conditions. It is not laziness; it is a symptom requiring treatment.
 
-**Plain words** Avolition — the clinical loss of get-up-and-go — is a symptom, not a character. When nothing can be started, not just the hard things, that's a body-and-brain event deserving a professional. It sits on the same shelf as fevers.
+Two different ideas share this page, and the sources keep them apart.
 
-*For example:* The person who can't start anything — not the taxes, not the hobbies they love, not the shower — isn't lazy. Laziness is selective. This isn't. That's an appointment.
+In clinical work, avolition "is currently defined as reduced initiation and persistence of goal-directed activity". The same review notes that "there is no agreement on the degree of overlap between the terms avolition, decreased drive, amotivation and apathy". It also cautions that a failure to start things "may be due to several factors that do not reflect negative symptoms (e.g., paranoid beliefs, depression or lack of opportunities)" (Marder and Galderisi 2017, World Psychiatry 16:14-24, [full text](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20385)). Avolition is treated as a core negative symptom of schizophrenia ([Schizophrenia 2021 review](https://www.nature.com/articles/s41537-021-00145-4)). In depression, the National Institute of Mental Health lists "loss of interest or pleasure in hobbies and activities" and "fatigue, lack of energy, or feeling slowed down" among the common symptoms ([NIMH](https://www.nimh.nih.gov/health/publications/depression)). It advises: "If you show signs or symptoms of depression and they persist or do not go away, talk to a health care provider."
+
+In self-determination theory, amotivation is not a diagnosis. It is "the state of lacking the intention to act", and it results from not valuing an activity, not feeling competent to do it, or not expecting it to yield a desired outcome (Ryan and Deci 2000, [PDF](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)). Everyone meets that state sometimes, for particular tasks.
+
+So the principle's line between laziness and illness is not something the sources draw. What they support is narrower: persistent, widespread difficulty starting, with other symptoms, is worth raising with a health professional, who can tell the causes apart.
+
+**Plain words** Not wanting to start one dull task is common. Being unable to start almost anything for weeks, along with low mood or lost interest, is a reason to talk to a doctor or therapist. This page is not a diagnosis.
+
+*For example:* This is an imagined case. A man stops answering messages and cooking, and he drops hobbies he loved. After a few weeks he mentions it to his GP, who asks about mood, sleep and energy.
+
+## Sources
+
+- [Marder and Galderisi (2017), The current conceptualization of negative symptoms in schizophrenia, World Psychiatry 16, 14-24](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20385)
+- [Avolition as the core negative symptom in schizophrenia, Schizophrenia (2021)](https://www.nature.com/articles/s41537-021-00145-4)
+- [NIMH, Depression](https://www.nimh.nih.gov/health/publications/depression)
+- [Ryan and Deci (2000), Self-determination theory and the facilitation of intrinsic motivation, American Psychologist 55, 68-78](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 ## Psychology parallels
 
-- **Avolition as clinical symptom**, loss of motivation is a feature of depression and schizophrenia (APA, 2022)
-- **Amotivation in SDT**, lack of motivation is associated with need thwarting and clinical conditions (Ryan & Deci, 2017)
+- **Avolition as clinical symptom**, reduced initiation and persistence of goal-directed activity, a core negative symptom of schizophrenia, with loss of interest and low energy listed among common depression symptoms (Marder & Galderisi, 2017; NIMH); the APA (2022) manual was not opened
+- **Amotivation in SDT**, a state of lacking intention to act, arising from not valuing the activity, not feeling competent, or not expecting a result; it is a motivational state in the theory and not a clinical diagnosis (Ryan & Deci, 2000); Ryan & Deci (2017) is unopened
 
 ## Philosophy parallels
 
@@ -30,4 +44,4 @@ Avolition — the loss of motivation to initiate and persist in goal-directed ac
 
 ## Practice
 
-- If loss of motivation is persistent, pervasive, and impairing, seek professional evaluation. This is a clinical symptom, not a character flaw.
+- If loss of motivation is persistent, pervasive, and impairing, seek professional evaluation. A professional can tell the possible causes apart.

@@ -87,3 +87,7 @@
 ## MO050 — Self-compassion when procrastinating
 - Opened: Sirois & Pychyl 2013 abstract (White Rose PDF, fetched); Wohl et al. 2010 abstract (ISI Articles PDF via search excerpt) + a Washington.edu study summary (search excerpt, moderation by high procrastination); Sirois 2014 abstract (White Rose). Pychyl 2013 unopened.
 - Seed "guilt backfires; self-compassion gets you back faster" -> only correlational / mediation evidence; causal wording removed. Practice line softened.
+
+## MO065 — Avolition and amotivation
+- Opened: Marder & Galderisi 2017 (Wiley full text, search excerpt incl. definition + overlap caveat); Schizophrenia 2021 avolition review (Nature, excerpt); NIMH Depression page (excerpt); Ryan & Deci 2000 SDT PDF (excerpt on amotivation). APA 2022 (DSM-5-TR) unopened.
+- Key correction: seed conflated SDT "amotivation" (a normal motivational state, not a diagnosis) with clinical avolition; separated on page. Seed "laziness is selective" claim had no source -> dropped. Practice line edited. No treatment claims made.
