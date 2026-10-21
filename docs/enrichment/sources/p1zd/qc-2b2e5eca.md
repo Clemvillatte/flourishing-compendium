@@ -123,3 +123,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked every quotation at its printed-page locator. Replaced stimulus/procedure conflation and the assumption that food or relief necessarily reinforces with the book's organism/condition/effect criterion.
 - Plain words distinguishes positive/negative from good/bad and intended reward from observed reinforcing effect. The example invites investigation rather than promising a management intervention works.
 - Scoped the immediacy quotation to the interval-reinforcement discussion and the punishment interpretation to Skinner's account. Protected metadata and inherited parallels unchanged.
+
+## AT046
+
+- Searched digital-detox meta-analysis; opened [Ramadhan et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11392003/), [social-media abstinence review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11880199/), [Wilcockson et al.](https://pubmed.ncbi.nlm.nih.gov/31430621/), [Chang et al.](https://pubmed.ncbi.nlm.nih.gov/25535358/) and [Liu et al. 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11939267/).
+- Checked all retained quotations. Added the broader 20-RCT review's small positive pooled result rather than presenting the selected null reviews as the entire evidence base.
+- Removed first-person production-process voice and an unsupported ranking of sleep evidence against the other outcomes. Specified that these sources do not establish a repeated weekly sabbath regimen.
+- Plain words and imagined example are reflection, not a causal self-experiment or a guaranteed treatment. Protected metadata and inherited parallels unchanged.

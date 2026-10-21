@@ -12,17 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 46** — Cultivate digital sabbath: deliberate disconnection
 
-The evidence on disconnection is more mixed than the principle's wording suggests, and no study I opened tests a weekly day off. The trials last from 24 hours to several weeks.
+Disconnection studies test different restrictions and durations. These sources do not establish one repeated weekly day-off regimen.
 
 A meta-analysis of ten studies found that digital detox interventions "significantly reduce depressive symptoms", yet "no statistically significant effects were observed in mental well-being, life satisfaction, and stress" ([Ramadhan et al., 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11392003/)). A separate meta-analysis of social media abstinence (ten studies, N = 4,674) found no significant effects on positive affect, negative affect or life satisfaction ([PMC11880199](https://pmc.ncbi.nlm.nih.gov/articles/PMC11880199/)). In a 24-hour smartphone abstinence study, "Only craving was affected following a short period of abstinence" ([Wilcockson et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31430621/)).
 
-Sleep is a clearer case, although it concerns evening use and not a day off. Readers of a light-emitting e-book "took longer to fall asleep" and had "reduced next-morning alertness" compared with a printed book ([Chang et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25535358/)).
+A broader meta-analysis of 20 randomized trials found a small positive effect on well-being, pooling different detox approaches and outcomes ([Liu et al., 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11939267/)). It does not establish a weekly sabbath schedule.
+
+Sleep research asks a different question. Readers of a light-emitting e-book "took longer to fall asleep" and had "reduced next-morning alertness" compared with a printed book ([Chang et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25535358/)).
 
 (Ramadhan et al., 2024; Wilcockson et al., 2019; Chang et al., 2015.)
 
-**Plain words** Putting the phone away for a stretch is easy to try, and some people notice they feel less low. The research does not show that it reliably lifts mood or wellbeing for everyone. If you try a sabbath, treat it as an experiment: note how you feel afterwards and keep it only if you see a benefit.
+**Plain words** Findings differ across restrictions, outcomes and studies; a break is not a guaranteed mood treatment. As a practical reflection, choose any offline period around your responsibilities and what you value. Personal notes can help you notice benefits and costs, but rising mood ratings alone do not prove the break caused them.
 
-For example (imagined): you leave the phone in a drawer on Sunday morning for four weeks and rate your mood each evening. If the ratings rise, keep it. If they do not, change the rule.
+For example (imagined): you plan a phone-free Sunday morning and tell anyone who may need you how to make contact. Afterwards, note what the time made possible and what it made harder.
 
 ## Sources
 
@@ -30,6 +32,7 @@ For example (imagined): you leave the phone in a drawer on Sunday morning for fo
 - Wilcockson, Osborne & Ellis (2019), "Digital detox: The effect of smartphone abstinence on mood, anxiety, and craving", Addict Behav 99:106013: [PubMed 31430621](https://pubmed.ncbi.nlm.nih.gov/31430621/)
 - Chang, Aeschbach, Duffy & Czeisler (2015), "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness", PNAS 112:1232-1237: [PubMed 25535358](https://pubmed.ncbi.nlm.nih.gov/25535358/)
 - Meta-analysis of social media abstinence and affective well-being: [PMC11880199](https://pmc.ncbi.nlm.nih.gov/articles/PMC11880199/)
+- Liu et al. (2025), "Am I Happier Without You? Social Media Detox and Well-Being: A Meta-Analysis of Randomized Controlled Trials": [PMC11939267](https://pmc.ncbi.nlm.nih.gov/articles/PMC11939267/)
 
 ## Psychology parallels
 
