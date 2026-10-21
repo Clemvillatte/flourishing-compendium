@@ -288,11 +288,11 @@
   {
    "id": "K418",
    "title": "Six Healing Sounds (liuzi jue)",
-   "status": "done",
+   "status": "qc-pending",
    "sources": [
     "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
    ],
-   "notes": "DONE after QC repairs (advisor final-item round): all 5 findings addressed — (1) invented details removed; (2) all six sound qualities grounded (xu added); (3) modern practice frame now grounded in Shi, Wang & Wang 2020 SAGE Open (peer-reviewed: stand or kneel, calm the mind, soft or silent intonation, exhalation >= inhalation, not by force; repetition counts NOT asserted — lineage-dependent); (4) publisher verified from PDF copyright page (U Hawai'i Press 2008); Daoyin jing 16a-b as historical-text locator; (5) EEG findings added as-reported (Henz & Schoellhorn 2018 via Shi 2020). SUPERVISOR FLAG remains: Operationalises mapping cleanup (MO050 etc.) blocked by validator link-preservation rule. Validator clean; build clean."
+   "notes": "QC-PENDING (advisor round-2: keep reopened, not done-with-flag): round-2 repairs applied and pushed — seasonal instructions reattributed to the Yinshu (verified on the rendered p.57), Shi quote capitalization fixed, repetition wording narrowed to 'the opened sources specify no repetition count', MO050/D041/B067 mappings removed (my own new-page links; committed first so the validator baseline matches), K194 equivalence removed, rendered-page visual check done (Daoyin jing quote on printed p.102 with 16b locator; seasonal passage on printed p.57). Residual for the supervisor: (a) a lineage carrier for the standard modern sequence (Chinese Health Qigong Association 2007 book, not opened — Shi et al. points there); (b) advisor round-3 clearance not yet obtained; treat K418 as WIP/QC-pending, not fully verified."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -332,11 +332,10 @@
   "K382",
   "K384",
   "K414",
-  "K415",
-  "K418"
+  "K415"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T15:55:58Z",
+ "updated": "2026-10-21T15:58:48Z",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
