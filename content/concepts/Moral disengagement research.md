@@ -21,6 +21,8 @@ The review's conclusion follows from the number of these mechanisms:
 
 - [[Cognitive dissonance]] — listed for comparison
 - [[Psychodynamic accounts of ego defense and rationalization]] — listed for comparison
+- [[Obedience research]] — listed for comparison
+- [[Conformity]] — listed for comparison
 
 ## Sources
 
