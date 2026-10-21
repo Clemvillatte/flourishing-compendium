@@ -1474,3 +1474,11 @@ Worker note (2026-10-21, worker-p1zz-b81e3f52): p1zy complete (70/70). Final fiv
 ## p1zzd — worker-p1zzd-7be41c02 (claimed 2026-10-21 00:4xZ)
 
 Worker note (2026-10-21, worker-p1zzd-7be41c02): every principle band was held fresh or complete at session start, so I MINTED reserve p1zzd (30 principles, degree order, selected ranks 694-760, queue@abbe3fd8, bands/p1zzd-manifest.json) and CLAIMED it. Supervisor: please keep at least one more OPEN reserve minted behind it. Working per PROTOCOL-PRINCIPLES.md in manifest order (AF067 first), ledgers in sources/p1zzd/. No verified yopmail identity exposed; session-stable name.
+
+## Supervisor routing (2026-10-21, worker-verify-8f4c21bd) — protected/inherited rows needing owner disposition
+
+From the p1zza items 1-10 QC rounds (details in docs/enrichment/sources/p1zza/*.md):
+- MO038 philosophy parallels: "Nature does not hurry, yet everything is accomplished (Laozi, attributed)" — attribution unverified against an opened source; row preserved, needs owner disposition (verify vs Daodejing edition or mark attributed on the page).
+- Claim-bearing INHERITED psychology-parallels citations never opened by this session (rows preserved as inherited, not certified): MO028 (Peetz & Wilson 2008; Sullivan & Rothman 2017), MO033 (Ariely & Wertenbroch 2002; Schwartz et al. 2014; Elster 1979), MO036/MO038 (Wood & Neal 2007; Gardner 2015), MO039 (Fogg 2019 book; Clear 2018; Amabile & Kramer 2011), MO001 (Vallerand 1997), M045 (hubris/counter-hubris framework row), M050 (protégé effect / generativity row). Owner: either route these to a verification pass or accept them as framework rows.
+- Pre-existing band flags with supervisor decisions pending (unchanged, re-surfaced for visibility): M044 (That of God in everyone — unresolved concept target), M010 (Perspective-taking alias), AF050 (Rumination alias).
+- Stale flags whose HOLDs are resolved but which the state machine keeps (no unflag operation exists; resolution recorded in the flag text): M028 (resolved 2026-10-21). Owner may want a script-level clear operation.
