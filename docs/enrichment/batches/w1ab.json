@@ -1,12 +1,14 @@
 {
  "batch": "w1ab",
- "done": [],
- "in_progress": "Klesha transmuted into wisdom",
+ "done": [
+  "Klesha transmuted into wisdom"
+ ],
+ "in_progress": null,
  "flagged": {
   "Klesha transmuted into wisdom": "Reopened for QC: QC correction: framing/attribution/citation repairs per advisor round 1"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:49:13+00:00",
+ "updated": "2026-10-21T08:49:28+00:00",
  "band_done": false
 }
