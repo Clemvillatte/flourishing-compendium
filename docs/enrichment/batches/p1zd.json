@@ -3,7 +3,6 @@
  "done": [
   "A019",
   "A095",
-  "A113",
   "A116",
   "A117",
   "A118",
@@ -32,15 +31,16 @@
   "A107",
   "A112"
  ],
- "in_progress": null,
+ "in_progress": "A113",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
   "A107": "QC-CLOSED 2026-10-21: NE X.9 and Politics I.2/VIII.1-3 opened; advisor-confirmed overstatement repaired; clean exact quotation substituted; inherited parallels unverified.",
-  "A112": "QC-CLOSED 2026-10-21: reopening quote hypothesis rejected by baseline check; actual war/peace quote is authentic. Repaired source links/unused locator and Plain words tone. Three primary chapters opened; inherited parallels unverified."
+  "A112": "QC-CLOSED 2026-10-21: reopening quote hypothesis rejected by baseline check; actual war/peace quote is authentic. Repaired source links/unused locator and Plain words tone. Three primary chapters opened; inherited parallels unverified.",
+  "A113": "Reopened for QC: QC: repeated that in family friendship explanation; check body and source quotation"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:33:12+00:00",
+ "updated": "2026-10-21T14:33:28+00:00",
  "band_done": false
 }
