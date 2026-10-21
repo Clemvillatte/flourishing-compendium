@@ -47,3 +47,6 @@
 - Opened: Te Aka entry pono (search-results page). Mead 2003 and Durie 1994 not opened; page thin by design. Supervisor: a tikanga source (Mead ch. on tikanga values, or Te Ara) would strengthen it.
 ## R032 — tapu
 - Opened (search excerpts, Te Ara print pages): Traditional Māori religion "Tapu and noa"; Māori manners and social behaviour; glossary. Mead 2003 / Durie 1994 not opened. Seed "photographed or joked about" not sourced; replaced by host-guidance rule (Te Ara). Invented tangi anecdote removed.
+## R044 — tautua
+- Opened (search excerpts): Te Ara "Samoans" print page; Univ. of Auckland thesis (proverb, via Fa'aea & Enari 2021); AUT land-rights/urban women study (Tui Atua 2009 definition). Primary: Tui Atua 2009 (Su'esu'e Manogi) not opened — recommend. Locator in file untouched via {{LOC}}.
+- Both secondary; proverb translations vary ("authority"/"leadership"). Page includes Te Ara's note on generational disagreement.

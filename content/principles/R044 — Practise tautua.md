@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 306** — Practise tautua
 
-Serve your family and community. In Samoan culture, tautua (service) is not optional but a fundamental obligation. Service to family, church, and community is the path to social standing and personal fulfilment. Find ways to serve that are meaningful to you and beneficial to those you serve.
+Te Ara lists tautua (service) among the values that go with fa'asamoa, alongside alofa (love), fa'aaloalo (respect), feagaiga and usita'i. It says that in the aiga (family), "giving and receiving tautua (service), fa'aaloalo (respect) and alofa (love) are crucial in social relations" ([Te Ara, Samoans](https://teara.govt.nz/en/samoans/print)). A Samoan proverb ties service to authority: "O le ala i le pule o le tautua", "the way to authority is through service" ([Auckland thesis citing Fa'aea and Enari, 2021](https://researchspace.auckland.ac.nz/server/api/core/bitstreams/06c25b41-4fc6-4c57-bb0f-3f0d378ba61e/content)).
 
 (Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies.)
 
-**Plain words** Serve: family, community, church, the people around you — not as optional charity but as the actual path of a life. Tautua isn't a line on a CV; it's how standing and fulfilment are built in the first place. Find the service that fits your hands.
+### Service in practice
 
-*For example:* The young man who coaches the village team, helps with the funerals, drives the aunties — and at thirty is the person the whole community quietly treats as a pillar.
+One study of urban Samoans defines tautua as the "regular service given by someone to their family matai, and the matai to the members of the aiga potopoto", citing Tui Atua Tupua Tamasese Ta'isi Efi (2009). It also finds that tautua is "resource intensive" and was the means by which participants kept access to customary land ([AUT land rights study](https://openrepository.aut.ac.nz/server/api/core/bitstreams/50ff4cf9-19d4-44ba-98a2-3df1f96f24c8/content)). Serving is a duty with costs, and the service also builds standing.
+
+Te Ara notes that the practice is changing: "Many younger Samoans have difficulty accepting tautua and fa'aaloalo, and the unquestioning obedience required of children", while older members appreciate the concepts because they now receive service from their children (Te Ara, Samoans).
+
+**Plain words**
+In this tradition, you earn a place by serving the family and community, and you are then served in return. The service is real work, and people do not always agree about how much should be asked.
+
+**For example**
+At the next family or community event, ask the person in charge what job needs doing, and take it without being asked twice. Notice who usually does that job.
+
+## Sources
+
+- [Te Ara, Samoans](https://teara.govt.nz/en/samoans/print)
+- [Auckland thesis on Samoan adult males (proverb, citing Fa'aea and Enari 2021)](https://researchspace.auckland.ac.nz/server/api/core/bitstreams/06c25b41-4fc6-4c57-bb0f-3f0d378ba61e/content)
+- [AUT study on land rights and urban women (tautua definition, Tui Atua 2009)](https://openrepository.aut.ac.nz/server/api/core/bitstreams/50ff4cf9-19d4-44ba-98a2-3df1f96f24c8/content)
+
 ## Psychology parallels
 
 - **[[Prosocial behaviour|Prosocial behaviour and well-being]]** (Dunn, Aknin, and Norton, 2014, "Prosocial Spending...)
