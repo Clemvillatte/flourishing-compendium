@@ -236,3 +236,11 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   hunts run and recorded in the ledgers. All four re-validated clean (fail-closed
   exit 0). Band state 21/30 after this round (M028, M045, M050, MO001, MO012 done
   this session + prior 16).
+- CORRECTION (worker-verify-8f4c21bd, 2026-10-21): the QC log entry above misstated
+  the band count. p1zza is 24/30 done (batch JSON authoritative; remaining: MO042,
+  MO043, MO044, MO052, MO053, MO055). Items 6-10 (MO028, MO033, MO036, MO038,
+  MO039) failed the items-6-10 milestone QC and were repaired in the same round
+  (over-prescription reduced to the opened evidence, locators added, soft-commitment
+  wording confirmed, 66-day figure re-carried by the Gardner-Lally-Wardle review,
+  Fogg speaker labels confirmed); all five re-validated fail-closed. M028's stale
+  HOLD flag replaced with a resolved-status entry via the state machine.

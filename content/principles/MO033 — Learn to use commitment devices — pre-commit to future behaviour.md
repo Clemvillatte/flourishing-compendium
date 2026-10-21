@@ -14,17 +14,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 
 Bryan, Karlan and Nelson's review defines the term:
 
-> "Broadly, a commitment device is an arrangement entered into by an individual with the aim of helping fulfill a plan for future behavior that would otherwise be difficult owing to intrapersonal conflict stemming from, for example, a lack of self-control." (Bryan, Karlan & Nelson, 2010)
+> "Broadly, a commitment device is an arrangement entered into by an individual with the aim of helping fulfill a plan for future behavior that would otherwise be difficult owing to intrapersonal conflict stemming from, for example, a lack of self-control." (Bryan, Karlan & Nelson, 2010, hosted-copy PDF, p. 2)
 
-The same review distinguishes hard commitments, which "call for real economic penalties for failure, or rewards for success", from soft commitments that rely on psychological costs. The compendium's suggested use: when you can predict a specific conflict between your plan and your future behaviour, pay something in advance to make the wrong choice expensive.
+The same review distinguishes hard commitments, which "call for real economic penalties for failure, or rewards for success", from devices "with primarily psychological consequences", soft commitments; their example of a hard commitment is a savings account on which interest is forfeited if a monthly deposit is missed. The compendium's suggested use: identify the plan you expect to find difficult later, and decide in advance what voluntary restriction or consequence you will accept. A financial stake is one option, not a requirement.
 
-**Plain words** A commitment device is a deal you make now to make breaking your own plan costly later. The review's own boundary: painting your nails with foul-tasting treatment to stop biting is a device; automatic savings transfers to curb your own spending is one, while doing it to curb a spouse's is not. The mark of the real thing is that you would pay up front, with no other benefit, just to make the bad choice expensive.
+**Plain words** Identify the plan you expect to find difficult later. Decide in advance what voluntary restriction or consequence you will accept. A financial stake is one option, not a requirement.
 
-*For example (imagined):* A student who keeps missing the 6 a.m. gym slot books and pays for the class the night before; skipping it now costs the money.
+*For example (imagined):* A student who keeps missing the 6 a.m. gym slot pays a deposit into an agreement that forfeits it for a missed session; the deposit, not the intention, is the device.
 
 ## Sources
 
-- [Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment Devices. Annual Review of Economics, 2, 671–698 — full text reviewed from a publicly hosted copy of the article](http://houdekpetr.cz/!data/public_html/papers/economics_psychology/Bryan%20et%20al%202010.pdf) — the definition and the hard/soft distinction
+- [Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment Devices. Annual Review of Economics, 2, 671–698 — full text reviewed from a publicly hosted copy of the article, quotes at hosted-copy PDF p. 2](http://houdekpetr.cz/!data/public_html/papers/economics_psychology/Bryan%20et%20al%202010.pdf) — the definition and the hard/soft distinction
 ## Psychology parallels
 
 - **[[Commitment devices (Ariely & Wertenbroch)|Commitment devices (Ariely & Wertenbroch)]]**, pre-commitment devices increase goal attainment (Ariely & Wertenbroch, 2002; Schwartz et al., 2014)
@@ -38,4 +38,4 @@ The same review distinguishes hard commitments, which "call for real economic pe
 
 ## Practice
 
-- When you can name a specific future conflict, pre-commit: sign up and pay in advance, schedule the behaviour, put money at stake, or make the commitment public. Pay something up front to make the wrong choice expensive.
+- When you can name a specific future conflict, decide in advance what voluntary restriction or consequence you will accept: a deposit forfeited for missing, a public commitment, a locked schedule. The consequence you have chosen is the device; a schedule alone may not be one.

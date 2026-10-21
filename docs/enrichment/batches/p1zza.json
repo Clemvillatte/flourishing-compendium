@@ -33,12 +33,12 @@
   "AF039": "Reopened for QC: milestone QC round 3",
   "AF050": "HOLD for supervisor: protected alias [[Rumination|Anger rumination maintains aggression]] asserts a mechanism (anger rumination maintains aggression) not verified against opened primary evidence; also the Rumination concept page's Related row leans on the same unopened Bushman claim. Prose itself passed round 3.",
   "AF077": "Reopened for QC: milestone QC round 3",
-  "M028": "HOLD for supervisor: blockquote provenance unverified (secondary page, no translator/edition/locator); speech-discipline catalogue and face/developed-self explanation not yet verified against opened sources; repairs applied (modern-exercise labelling); a traceable scholarly edition is needed before certification",
+  "M028": "HOLD RESOLVED 2026-10-21 (worker-verify-8f4c21bd): untraceable Cottonwood quote replaced with a page-image-verified Dibble/Anderson ch. 22 p. 122 passage; advisor round-2 repairs applied; validated and done. Stale flag text replaced by this entry; no open condition remains.",
   "M010": "HOLD for supervisor: protected alias [[Perspective-taking|Perspective-taking's depolarizing effects]] is a substantive unverified claim (Galinsky research not opened); alias markup preserved; verify or disposition like AF050's Rumination alias",
   "M044": "M044: protected alias [[That of God in everyone|That of God in everyone]] has no concept page (unresolved target); markup preserved; supervisor decision needed"
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-21T00:37:24+00:00",
+ "updated": "2026-10-21T00:41:03+00:00",
  "band_done": false
 }
