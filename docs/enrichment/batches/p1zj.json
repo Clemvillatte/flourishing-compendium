@@ -35,9 +35,9 @@
  "in_progress": null,
  "flagged": {
   "AF002": "Reopened for QC: QC repair round 1 (advisor): scope claims to opened sources, standalone blockquote, example labelled imagined",
-  "AF013": "Reopened for QC: milestone QC repair: trainability claims exceed opened source",
+  "AF013": "supervisor scoped verification (2026-10-21 15:22Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — trainability overreach absent (grep-verified); repair applied per milestone QC. Per the p1zj milestone QC ledger.",
   "AF014": "Reopened for QC: milestone QC repair: fluctuation/persistence conflation; citation metadata fix",
-  "AF017": "Reopened for QC: milestone QC repair: uncorrelated-to-intervention overreach; practice diagnostic assertion",
+  "AF017": "supervisor scoped verification (2026-10-21 15:22Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — uncorrelated-to-intervention overreach scoped (line 19 explicitly limits the claim to the research measures). Per the p1zj milestone QC ledger.",
   "AF018": "Reopened for QC: milestone QC repair: readout-of-gap overreach; dropped source qualifiers restored",
   "AF021": "Reopened for QC: milestone-2 QC repair: contagion/presence distinction, standalone blockquote",
   "AF027": "Reopened for QC: milestone-2 QC repair applied",
@@ -62,6 +62,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 6,
- "updated": "2026-10-21T14:26:19+00:00",
+ "updated": "2026-10-21T14:52:10+00:00",
  "band_done": true
 }
