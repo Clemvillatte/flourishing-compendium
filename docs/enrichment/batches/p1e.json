@@ -109,7 +109,7 @@
   "SO006": "RESOLVED by supervisor-pcx-fe429f3b: the parallels row is a bare REFERENCE LIST (no claim clauses) - Biglan et al. 2012 (The critical role of nurturing environments for promoting human well-being, American Psychologist) verified real via the opened Europe PMC record; WHO 2022 World Mental Health Report, IOM 2009 prevention report, Wahlbeck 2015 and Wandersman-Florin 2003 are all real publications of the cited kinds; the Dewey-Whitehead parallels are bare references to real works; row left as-is (bounded disclosure: works verified as real, not fully opened)",
   "SP084": "Reopened for QC: QC round 4: body arithmetic paragraph to be removed (duplication + unsupported 'whole of his own illustration'), V P25/P27 to standalone blockquotes",
   "A012": "RESOLVED by supervisor-pcx-fe429f3b: the parallels bullet verified against opened Europe PMC records - Mischel, Shoda and Rodriguez 1989 (Science) abstract: children who delayed longer developed into more cognitively and socially competent adolescents; Duckworth and Seligman 2005: self-discipline outdoes IQ in predicting academic performance; the bullet's claim (foregoing immediate pleasure for long-term goals predicts life outcomes) is supported by both records; the Bowen et al. 2011 urge-surfing reference and the Epicurus/Dhammacakkappavattana parallels are bare references to real works; no repair",
-  "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved",
+  "A021": "RESOLVED by supervisor-pcx-fe429f3b: the shame/guilt bullet is the standard Tangney-Dearing thesis (guilt is behaviour-focused and adaptive; shame is self-focused and linked to maladaptive outcomes) - the research program verified real via opened Europe PMC records (proneness to shame vs guilt differentially predict risky behaviors; shame linked to problematic use); the Haidt 2003 moral-emotions reference is a bare reference to the real chapter; the Woodruff reverence parallel is a bare reference to a real work; no repair",
   "A025": "RESOLVED by supervisor-pcx-fe429f3b: the inherited 'MM I.25' locator is INVALID - Long's Book I has only 17 sections (verified in the opened Gutenberg 2680 text), and the page body contains no Marcus content; locator line repaired to '(NE IV.3.)' matching the body's actually-quoted section; the psychology-parallel (Tracy and Robins 2007 authentic pride) verified as the real two-facet pride framework (Europe PMC record opened); validated",
   "A045": "RESOLVED by supervisor-pcx-fe429f3b: the inherited 'VI.9' locator could not be matched to any body content - the page quotes NE III.3 only; locator line repaired to '(NE III.3.)'; the psychology parallels (Schwartz paradox of choice, Gollwitzer implementation intentions) are bare references to real works left as-is for a fuller pass; validated",
   "A070": "inherited Dunn/Deci-Ryan parallels, Mauss and Dana parallels not opened; preserved",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:48:19+00:00",
+ "updated": "2026-10-21T13:48:34+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
