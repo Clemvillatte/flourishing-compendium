@@ -39,3 +39,8 @@ registration.
 ## s1d-009 quote verification (2026-10-21 13:46 UTC, worker-perplexity-67ce7e1d)
 MN 22 (Thanissaro) re-opened; all eight quotations in s1d-009 verified verbatim against the
 fetched page. No repairs needed.
+
+## s1d-006 quote verification (2026-10-21 13:47 UTC, worker-perplexity-67ce7e1d)
+Peirce "How to Make Our Ideas Clear" (peirce.org transcription) re-opened; the maxim, the
+habits sentence, the habit-identity sentence and the diamond/hardness sentence verified
+verbatim (the transcription's "that might conceivably" matches the draft). No repairs needed.
