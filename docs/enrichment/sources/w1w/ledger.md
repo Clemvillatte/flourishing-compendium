@@ -546,3 +546,16 @@
 - Taper item. Related links confirmed existing (Impermanence,
   Self-distancing, Emotion regulation, Temporal discounting).
 - Normal validator: ok. State recorded (done count 39).
+
+## Item 42: Sophia (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: one-line definition + Wikipedia link. Seed line and Wikipedia
+  URL kept; Spinoza "heir" remark marked as the seed's framing.
+- Carrier opened: Aristotle, Nicomachean Ethics Book VI (Ross
+  translation, millerpolitics.com page). Verified verbatim: the
+  sophia-as-union definition, the "highest by nature" summary
+  sentence, and the Anaxagoras/Thales "divine, but useless" passage.
+- [[Episteme]]/[[Nous]] pages do not exist; used Phronesis, The
+  theoretical life, The contemplative life, Right concentration
+  (all confirmed existing).
+- Taper item. Normal validator: ok. State recorded (done count 40).
