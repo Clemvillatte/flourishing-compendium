@@ -16,17 +16,17 @@ Fricker's book homes in on two forms of epistemic injustice, which she theorises
 
 > "Testimonial injustice occurs when prejudice causes a hearer to give a deflated level of credibility to a speaker's word; hermeneutical injustice occurs at a prior stage, when a gap in collective interpretive resources puts someone at an unfair disadvantage when it comes to making sense of their social experiences."
 
-(Fricker, 2007, "Epistemic Injustice", Introduction, pp. 1-8, [open extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524).)
+(Fricker, 2007, "Epistemic Injustice", Introduction, publisher's extract, [Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524).)
 
-The compendium keeps both distinctions and adds its own practical point: the two need different attention. The first asks whether a hearer's credibility judgment is being skewed by who the speaker is; the second asks whether the words for the experience exist yet.
+Fricker distinguishes a prejudice-driven credibility deficit from an interpretive gap that unfairly disadvantages someone trying to understand a social experience. The compendium proposes examining both the reasons given for judging testimony and the shared resources available to describe an experience.
 
-**Plain words** When testimony keeps getting discounted, notice the pattern, not just the instance. Then ask which kind of problem is in front of you: a hearer discounting the speaker, or an experience that no shared vocabulary has caught up with. The two need different attention — one is repaired in the hearing; the other may need a concept built.
+**Plain words** Write down what the person said and the reasons offered for accepting or discounting it. Consider whether prejudice affects that judgment. Then ask whether gaps in shared understanding make the experience harder to describe. Examine both questions without assuming they are mutually exclusive.
 
-*For example:* Imagined: a woman whose pain reports were read as "anxiety" for a decade before a scan showed the disease — the harm included years of being treated as a poor witness to her own body.
+*For example:* Imagined: a committee discounts a woman's account because members assume women are unreliable witnesses, rather than examining the evidence she offers.
 
 ## Sources
 
-- [Fricker, "Epistemic Injustice: Power and the Ethics of Knowing", OUP 2007 — Introduction chapter, open extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524) — the two-form definition and the "capacity as a knower" passage quoted (pp. 1-8); carrier disclosure: publisher page, visible extract only, full text paywalled
+- [Fricker, "Epistemic Injustice: Power and the Ethics of Knowing", OUP 2007 — Introduction, publisher's visible extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524) — the two-form definition and the "capacity as a knower" passage quoted (chapter range pp. 1-8; carrier disclosure: publisher's visible Introduction extract; full book not opened)
 
 ## Psychology parallels
 
@@ -39,4 +39,4 @@ The compendium keeps both distinctions and adds its own practical point: the two
 
 ## Practice
 
-- In listening, give credibility to speakers from marginalized groups (see principle 22). In interpreting experience, attend to the collective concepts available (e.g., "sexual harassment" as a hermeneutical resource that did not exist before the 1970s).
+- Suggested practice: examine the reasons for accepting or discounting testimony, including possible prejudice (see principle 22). Ask whether gaps in shared interpretive resources make an experience harder to understand.
