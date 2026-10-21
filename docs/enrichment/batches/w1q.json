@@ -41,7 +41,8 @@
   "Threatened Egotism Theory",
   "Trait Activation Theory",
   "Theory of constructed emotion",
-  "The stress-buffering model"
+  "The stress-buffering model",
+  "Theory of Work Adjustment"
  ],
  "in_progress": null,
  "flagged": {
@@ -77,10 +78,11 @@
   "Threatened Egotism Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1996 founding review quoted from opened Duke scholars abstract page (full text not open, noted); 1998 Bushman & Baumeister JPSP quotes verified verbatim from opened author-hosted PDF; validated --fast-track",
   "Trait Activation Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Tett & Burnett 2003 p.502 definitions verified verbatim via opened Judge & Zapata PDF; axiom + three-cue-group quote verified verbatim via opened Lievens et al 2008 Oxford Handbook chapter PDF; validated --fast-track",
   "Theory of constructed emotion": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barrett 2017 SCAN open-access article (PMC5390700) opened; abstract + concept-categorization + variable-instances quotes verified verbatim; seed's 'Cited in philosophy parallels' section is a filename replicate (not wikilinks) — left as-is per owner note; validated --fast-track",
-  "The stress-buffering model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1985 Psychological Bulletin paper copyrighted; quotes verified verbatim from opened Garfield Citation Classic essay by Cohen himself (open UPenn PDF) describing the review's hypotheses and findings; abstract of original read via DocsLib snippet only (not counted as opened); validated --fast-track"
+  "The stress-buffering model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1985 Psychological Bulletin paper copyrighted; quotes verified verbatim from opened Garfield Citation Classic essay by Cohen himself (open UPenn PDF) describing the review's hypotheses and findings; abstract of original read via DocsLib snippet only (not counted as opened); validated --fast-track",
+  "Theory of Work Adjustment": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1984 book copyrighted; grounded on opened ERIC full text (Weiss 1970 Work Adjustment Project paper quoting the theory's propositions verbatim) + opened ERIC record of the 1968 revision monograph (attributed as ERIC summary); validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:32:33+00:00",
+ "updated": "2026-10-21T16:33:38+00:00",
  "band_done": false
 }
