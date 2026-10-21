@@ -58,3 +58,7 @@ Advisor round 4 finishing corrections applied: italics removed from prose (house
 ### GALLERY CLICK-THROUGH QA — DONE (cloud browser)
 
 Cloud-browser click-through on the live site: Academy view opens; "Open degree: Contemplative & Mental Practices — A Year of Practice" opens the degree band; the "Browse practice gallery" button renders and, on click, switches to the wiki view and opens the CMP1 gallery entry (FAM shelf content confirmed displayed). K417 also reachable via wiki search ("Shouyi", 12 results, K417 listed). The verse blockquote renders with per-line breaks (the app's mdToHtml joins blockquote paragraph lines with <br> — verified in the renderer source). NOTE: the live Pages deploy lags origin/main by several minutes — at QA time it still served the first K417 draft and the pre-removal CMP1 rows; the repo build (site/data/wikiData.json.gz) is verified correct: talks/4013 gone, Shukman Wholeness row gone, K417 present. This closes wrap-up item 4 fully.
+
+### TARA BRACH BIO CITATION FIXED
+
+The tarabrach.com about page (previously 404ing) now works at https://www.tarabrach.com/about/ — verified unprompted. The Who-is-guiding citation now links to it and the claim is aligned to the bio's own wording (Ph.D. in Clinical Psychology from the Fielding Institute; five-year Buddhist teacher training at Spirit Rock; founded IMCW in Washington, DC in 1998). Remaining recording-page citations (Ekman/Keltner/Neff/Huberman/Mingyur/Chan Khong/Potter/Brasington) still open for the next worker.
