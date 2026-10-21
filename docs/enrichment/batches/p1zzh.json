@@ -22,17 +22,17 @@
   "SP046": "inherited: Hayes et al. 2011 bare reference not opened this session; SUPERVISOR DISPOSITION NEEDED: [[Meaning|Meaning as use]] links to the existential-meaning/Frankl concept page, not a linguistic meaning-as-use page (seed markup preserved); QC: milestone 1 scoped PASS (closeout round 2)",
   "SP068": "inherited: Cozzolino 2006 bare reference not opened this session; QC: milestone 1 scoped PASS (closeout round 2)",
   "SP069": "inherited: Eisenberger 2003 bare reference not opened this session; QC: milestone 1 scoped PASS (closeout round 2)",
-  "SP070": "item-10 milestone QC LATE: round-1 FAIL repaired (P71 parentheticals, bounded plain words); inherited: Aron et al. 1992 bare reference",
-  "SP074": "item-10 milestone QC LATE: round-1 FAIL repaired (sentence completed, action/judgment grounding); inherited: Edmondson 1999 bare reference",
-  "SP077": "item-10 milestone QC LATE: round-1 FAIL repaired (capitalization, 20:60 grounding); inherited: Janis 1972 bare reference",
-  "SP083": "item-10 milestone QC LATE: round-1 FAIL repaired (note on 34 grounding, P38 blockquote); inherited: Park 2010 bare reference",
-  "SP085": "item-10 milestone QC LATE: round-1 FAIL repaired (third-kind grounding, astronomer removed); inherited: Steger 2012 bare reference",
+  "SP070": "item-10 milestone QC (LATE) CLOSED: scoped PASS after 5 advisor rounds (round-1 repairs, round-2 wording, rounds 3-5 evidence: full linked-body reads, complete saturation searches, Sources locator fixes incl. [20:2]); SP070->Friendship one-way link, backlink consideration deferred to supervisor; inherited: Aron et al. 1992 bare reference",
+  "SP074": "item-10 milestone QC (LATE) CLOSED: scoped PASS after 5 advisor rounds (completed speech proviso, action/judgment grounding, Sources locators 20:2/20:23/20:60 verified); inherited: Edmondson 1999 bare reference",
+  "SP077": "item-10 milestone QC (LATE) CLOSED: scoped PASS after 5 advisor rounds (capitalization, 20:60 grounding, 'only' deleted); inherited: Janis 1972 bare reference",
+  "SP083": "item-10 milestone QC (LATE) CLOSED: scoped PASS after 5 advisor rounds (note on 34 grounding, P38 blockquote, Noesis noeseos citation verified); inherited: Park 2010 bare reference",
+  "SP085": "item-10 milestone QC (LATE) CLOSED: scoped PASS after 5 advisor rounds (third-kind grounding, astronomer removed, P33 dropped from inventory); inherited: Steger 2012 bare reference",
   "X001": "inherited: Lord & Mussweiler reference studies (the paraphrased field toppers) not opened this session; substantive QC pending (milestone review covered items 6-10 only)",
   "X004": "post-item source-contradiction repaired (PH I.6 quietude-as-origin respected); round-2 closeout repair applied (descriptive plain words, reading example); inherited: Wegner 1994 bare reference",
   "X021": "post-item source-contradiction repaired (twofold manner kept, capitalization preserved); inherited: Bem self-perception research bare reference"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:32:07+00:00",
+ "updated": "2026-10-21T04:36:09+00:00",
  "band_done": false
 }
