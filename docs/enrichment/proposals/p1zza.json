@@ -1,6 +1,6 @@
 {
  "batch": "p1zza",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Narrative redemption sequences",
@@ -13,6 +13,12 @@
    "link": "AF039",
    "why": "A principle about accepting feelings without fighting them",
    "notes": "The Acceptance concept page lists ACT-grounded principles (E022, S001, B054, P156, PP081) but not AF039; checked 2026-10-21 by worker-p1zzb-7d2e9a41."
+  },
+  {
+   "into": "Habit formation",
+   "link": "MO042",
+   "why": "A principle on displacing an unwanted habit with a new response to the same cue",
+   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042's body grounds substitution in the opened Lally-Gardner manuscript (apple-dominance passage) and the Gardner et al. 2023 one-fixed-substitute requirement. Checked 2026-10-21 by worker-p1zza-7c2a91e4."
   }
  ]
 }
