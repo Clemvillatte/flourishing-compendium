@@ -21,11 +21,11 @@ Carroll built his model on the psychometric approach, "the objective measurement
 
 ## What it explains
 
-The model explains why abilities come in packages: a strong vocabulary travels with general knowledge, and novel problem-solving travels with processing speed. It also explains their different lifecourses in the ageing literature, since fluid and crystallised abilities peak at different ages. The theory is the standard frame for modern IQ tests, though some researchers, including John Carroll, have questioned both the need for the theory and its empirical basis ([Wikipedia, CHC theory](https://en.wikipedia.org/wiki/Cattell%E2%80%93Horn%E2%80%93Carroll_theory)).
+The model explains why abilities are measured in a hierarchy: a broad factor summarizes a family of narrow skills, and the general factor summarizes the broad ones. The article notes that the theory is the standard frame for modern IQ tests, though some researchers, including John Carroll, have questioned both the need for the theory and its empirical basis ([Wikipedia, CHC theory](https://en.wikipedia.org/wiki/Cattell%E2%80%93Horn%E2%80%93Carroll_theory)).
 
 ## Everyday life
 
-The practical read: minds have a profile, not a single number. Learning that leans on accumulated knowledge (Gc) can keep improving late in life, while novel problem-solving benefits from freshness and rest.
+The practical read, as a way of holding the model: a mind's abilities form a profile across strata rather than a single number.
 
 ## Field
 

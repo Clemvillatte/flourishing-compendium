@@ -17,15 +17,15 @@ CAT "seeks to explain and predict when, how, and why individuals engage in inter
 
 ## How it works
 
-Convergence "refers to the process through which an individual shifts speech patterns in interaction so that they more closely resemble the speech patterns of speech partners," through features such as "pronunciation, pause and" pace ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)). Divergence "is a linguistic strategy whereby a member of a speech community accentuates the linguistic differences between themself and their interlocutor," done "by (1) purposefully not changing your communication behavior" or by emphasising difference ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)). A third form, over-accommodation, misfires: adapting "speech beyond the optimal level," as in "Elderspeak," where well-meant simplification can alienate the listener ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)).
+Convergence "refers to the process through which an individual shifts speech patterns in interaction so that they more closely resemble the speech patterns of speech partners," across features such as pronunciation, pausing and pace ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)). Divergence "is a linguistic strategy whereby a member of a speech community accentuates the linguistic differences between themself and their interlocutor," done "by (1) purposefully not changing your communication behavior" or by emphasising difference ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)). A third form, over-accommodation, misfires: adapting "speech beyond the optimal level," as in "Elderspeak," where well-meant simplification can alienate the listener ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)).
 
 ## What it explains
 
-The theory explains the social arithmetic of talk: matching a listener's style can read as warmth or as mockery, and the listener's interpretation, not the speaker's intent, settles the effect. It explains miscommunication across age, culture and status lines, including the immigrant cases where accommodation and acceptance intertwine ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)).
+The theory explains the social arithmetic of talk in its own terms: convergence and divergence are interpreted by listeners, and the theory's predictions about those attributions are contextual rather than universal. It explains miscommunication across age, culture and status lines, including the immigrant cases where accommodation and acceptance intertwine ([Wikipedia, CAT](https://en.wikipedia.org/wiki/Communication_accommodation_theory)).
 
 ## Everyday life
 
-The practical read: adjustment is a signal, so calibrate it. Converging a little (pace, warmth, vocabulary) usually invites; converging wholesale can read as mimicry; diverging is a tool for marking identity, best used knowingly.
+The theory's vocabulary for self-adjustment: convergence, divergence and over-accommodation name three different things a style-shift can be doing, and the article's cases (Elderspeak among them) show the same shift read differently from either side.
 
 ## Field
 

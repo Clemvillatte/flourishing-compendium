@@ -13,7 +13,7 @@ A commitment device is a way of binding your future self: you arrange, in advanc
 
 ## Where it comes from
 
-The general definition: a commitment device "is a mechanism or arrangement that implements precommitment by deliberately restricting one's own future options in order to make a commitment credible" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The concept "emerged independently in the mid-1950s, when Thomas Schelling analyzed commitment as a bargaining tactic and Robert Strotz modeled how a rational agent might benefit from constraining future choices" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The compendium's seed entry ties the research line to Ariely and Wertenbroch's 2002 study of deadlines, where pre-commitment devices increase goal attainment.
+The general definition: a commitment device "is a mechanism or arrangement that implements precommitment by deliberately restricting one's own future options in order to make a commitment credible" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The concept "emerged independently in the mid-1950s, when Thomas Schelling analyzed commitment as a bargaining tactic and Robert Strotz modeled how a rational agent might benefit from constraining future choices" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). The compendium's seed entry cites Ariely and Wertenbroch's 2002 study of deadlines as a framework reference; that paper was not opened here, so no specific findings from it are claimed below.
 
 ## How it works
 
@@ -21,11 +21,11 @@ The device is "a specific implementation of precommitment, in which a person or 
 
 ## What it explains
 
-The device explains how people counter time-inconsistent preferences: today's planner sets the terms that tomorrow's tempted self must live with. The evidence base is young and uneven: commitment contracts "have produced meaningful increases in savings in developing-country field trials, but evidence for sustained effects on health behaviors such as exercise and smoking cessation is more limited," and a Philippine smoking-cessation contract "increased quit rates, but take-up was modest" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)).
+The device explains how people counter time-inconsistent preferences in the behavioral-economics version: today's planner sets the terms that tomorrow's tempted self must live with. The evidence base is young and uneven: commitment contracts "have produced meaningful increases in savings in developing-country field trials, but evidence for sustained effects on health behaviors such as exercise and smoking cessation is more limited," and a Philippine smoking-cessation contract "increased quit rates, but take-up was modest" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)).
 
 ## Everyday life
 
-The design questions for a personal device: make the failure costly, make the cost immediate, and set it while motivated, since "a person accepts a penalty for failing to meet a self-chosen goal" ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)). Deadlines, deposit contracts, and public stakes are the everyday forms.
+The article's mechanism in plain terms: a person "accepts a penalty for failing to meet a self-chosen goal," so the failure becomes costly in advance ([Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device)).
 
 ## Facets
 
@@ -43,8 +43,7 @@ Self · Behavioral science
 
 ## Sources
 
-- Ariely, D., & Wertenbroch, K. (2002). Procrastination, deadlines, and performance. Psychological Science, 13, 219-224.
-- Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment devices. SSRN.
+- Ariely, D., & Wertenbroch, K. (2002). As cited in the seed; not opened here.
 - [Wikipedia, Commitment device](https://en.wikipedia.org/wiki/Commitment_device) — definition, mechanisms, evidence, verbatim (opened)
 
 ## Cited in psychology parallels

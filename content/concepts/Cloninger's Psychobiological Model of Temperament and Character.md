@@ -17,15 +17,15 @@ C. Robert Cloninger devised the TCI as "an inventory for personality traits," an
 
 ## How it works
 
-The model "operates with seven dimensions of personality traits: four so-called temperaments" (novelty seeking, harm avoidance, reward dependence and persistence) "and three so-called characters" (self-directedness, cooperativeness and self-transcendence) ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)). The dimensions are "determined from a 240-item questionnaire," and each has subscales ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)). The biological layer: the model links the three original temperaments to neurotransmitter systems, with novelty seeking tied to "low dopaminergic activity," harm avoidance to "high serotonergic activity," reward dependence to "low noradrenergic activity" ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)).
+The model "operates with seven dimensions of personality traits: four so-called temperaments" (novelty seeking, harm avoidance, reward dependence and persistence) "and three so-called characters" (self-directedness, cooperativeness and self-transcendence) ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)). The dimensions are "determined from a 240-item questionnaire," and each has subscales ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)). The biological layer, as proposed associations within the model: the three original temperaments are linked to neurotransmitter systems, with novelty seeking tied to "low dopaminergic activity," harm avoidance to "high serotonergic activity," reward dependence to "low noradrenergic activity" ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)).
 
 ## What it explains
 
-The model explains personality as temperament given shape by character: two people with the same harm avoidance can organise it into very different lives depending on how self-directed and cooperative they become. Its inventory has been related to Zuckerman's and Eysenck's dimensions and to the five factor model, and used in genetic-association studies of personality ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)).
+The model explains personality as two layers measured together: the same temperament profile can appear in very different lives depending on the character dimensions that accompany it. Its inventory has been related to Zuckerman's and Eysenck's dimensions and to the five factor model, and used in genetic-association studies of personality ([Wikipedia, TCI](https://en.wikipedia.org/wiki/Temperament_and_Character_Inventory)).
 
 ## Everyday life
 
-The practical read: temperament is the given, character is the work. The character scales name the work directly (self-directedness, cooperativeness, self-transcendence), and unlike temperament they are treated as developable.
+The practical read is structural rather than prescriptive: the inventory measures temperament and character on separate scales, so a person can see each layer of their own profile in its own terms.
 
 ## Field
 

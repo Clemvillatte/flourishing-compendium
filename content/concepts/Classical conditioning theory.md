@@ -9,11 +9,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 ## In plain words
 
-Classical conditioning is learning by association: a neutral signal, repeatedly paired with something that already matters to the organism, comes to produce that thing's response on its own. Ivan Pavlov's dogs heard a bell and salivated.
+Classical conditioning is learning by association: a neutral signal, repeatedly paired with something that already matters to the organism, comes to produce that thing's response on its own.
 
 ## Where it comes from
 
-Pavlov, "the Russian physiologist, studied classical conditioning with detailed experiments with dogs, and published the experimental results in 1897," after observing in the study of digestion "that the experimental dogs salivated when fed red meat" ([Wikipedia, Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)). The standard procedure pairs "a biologically potent stimulus (e.g. food, a puff of air on the eye)... with a neutral stimulus (e.g. the sound of a musical triangle)" ([Wikipedia, Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)).
+Pavlov, "the Russian physiologist, studied classical conditioning with detailed experiments with dogs, and published the experimental results in 1897," after observing in the study of digestion "that the experimental dogs salivated when fed red meat" ([Wikipedia, Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)). The standard procedure pairs "a biologically potent stimulus (e.g. food, a puff of air on the eye)" (the unconditioned stimulus, US) "with a neutral stimulus (e.g. the sound of a musical triangle)" (the conditioned stimulus, CS), until the CS alone elicits the response (the conditioned response, CR) ([Wikipedia, Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)).
 
 ## How it works
 
@@ -21,11 +21,11 @@ During acquisition, "the CS and US are paired... A single CS-US pairing may suff
 
 ## What it explains
 
-The theory explains how cues acquire emotional power: why a song, a smell or a place can trigger longing or dread without any decision. It is distinct from operant conditioning, "through which the strength of a voluntary behavior is modified, either by reinforcement or by punishment," though "classically conditioned stimuli can reinforce operant responses" ([Wikipedia, Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)).
+The theory explains how cues acquire emotional power: how a song, a smell or a place can come to trigger responses without any decision. It is distinct from operant conditioning, "through which the strength of a voluntary behavior is modified, either by reinforcement or by punishment," though "classically conditioned stimuli can reinforce operant responses" ([Wikipedia, Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)).
 
 ## Everyday life
 
-The practical edge cuts both ways: unwanted reactions (cravings at a cue, anxiety before a door) can be weakened by breaking the pairings and letting extinction run its course, while wanted habits can be built by attaching routines to reliable cues. After a slip, expect spontaneous recovery rather than proof of failure.
+Within the model, extinction is not erasure, and a return of the response after a quiet period (spontaneous recovery) is part of the phenomenon rather than a sign that the work failed.
 
 ## Field
 

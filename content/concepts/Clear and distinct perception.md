@@ -21,11 +21,11 @@ The method of doubt clears the ground: the meditator treats all candidates for b
 
 ## What it explains
 
-The concept explains the shape of certainty Descartes sought: not vividness of feeling but separation from confusions. It also explains why the senses rarely qualify — their deliverances are typically clear enough but confused with judgments mixed in. Spinoza transformed the notion into his own criterion of true ideas.
+The concept explains the shape of certainty Descartes sought: not vividness of feeling but separation from confusions.
 
 ## Everyday life
 
-The practical residue: before trusting a judgment, ask two questions — is it fully present to attention, and is it separated from what I merely fear or hope? Most errors are not unclear perceptions but indistinct ones, where fear or habit is mixed into the thing itself.
+A reflective exercise in the same spirit, distinct from Descartes' own criterion: before trusting a judgment, ask two questions — is it fully present to attention, and is it separated from what I merely fear or hope?
 
 ## Field
 
@@ -35,7 +35,7 @@ Modern Philosophy · Epistemology
 
 - [[D089 — Grief without destruction]] — a case where confusion is part of the work
 - [[SP051 — Understand the affect to transform it]] — Spinoza's transformation of confused into adequate ideas
-- [[X005 — Carry the ten modes lightly, as spot-checks]] — the scholastic habit Descartes doubted
+- [[X005 — Carry the ten modes lightly, as spot-checks]] — a linked practice page
 
 ## Sources
 

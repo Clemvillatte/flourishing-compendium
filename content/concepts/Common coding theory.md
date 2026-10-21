@@ -21,11 +21,11 @@ The classical "sandwich" model assumed three stages — perception, cognition, t
 
 ## What it explains
 
-The theory explains why watching can feel like doing: shared code means observed actions resonate with one's own. It is "closely related to research and theory in two intersecting fields of study: mirror neurons systems and embodied cognition," where "common coding seems to reflect the functional logic of mirror neurons and mechanisms in the brain" ([Wikipedia, Common coding theory](https://en.wikipedia.org/wiki/Common_coding_theory)). It grounds imitation, action understanding, and the perception-action habits of skill learning.
+The theory explains why watching can feel like doing: shared code means observed actions resonate with one's own. It is "closely related to research and theory in two intersecting fields of study: mirror neurons systems and embodied cognition," where "common coding seems to reflect the functional logic of mirror neurons and mechanisms in the brain" ([Wikipedia, Common coding theory](https://en.wikipedia.org/wiki/Common_coding_theory)). Within the theory, imitation and action understanding rest on this shared code.
 
 ## Everyday life
 
-The practical read: action and perception train each other. To learn a movement, watch it done well; to read others' intentions, attend to what doing it yourself feels like. Environments full of demonstrated action are environments full of induced action.
+A way of holding the theory: if perception and action share a code, then watching and doing are less separate than they feel. The article's mirror-neuron link is stated tentatively and is kept that way here.
 
 ## Field
 
@@ -33,7 +33,7 @@ Cognition · Psychological science
 
 ## Related concepts
 
-- [[Mirror neuron theory of empathy]] — the neural system sharing the theory's logic
+- [[Mirror neuron theory of empathy]] — a neural system the article links tentatively to the same logic
 - [[Embodied cognition]] — the research family it intersects
 - [[Mental simulation research]] — action representation from the inside
 

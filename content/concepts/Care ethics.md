@@ -17,15 +17,15 @@ The tradition grew out of Carol Gilligan's work on moral development; Gilligan, 
 
 ## How it works
 
-The framework's assumptions: "persons are understood to have varying degrees of dependence and interdependence; other individuals affected by the consequences of one's choices deserve consideration in proportion to their vulnerability; and situational details determine how to safeguard and promote the interests of individuals" ([Wikipedia, Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care)). Joan Tronto's four phases give care's moral structure: attentiveness, because "care requires a recognition of others' needs in order to respond to them"; responsibility ("In order to care, we must take responsibility ourselves"); competence; and responsiveness.
+The framework's assumptions: "persons are understood to have varying degrees of dependence and interdependence; other individuals affected by the consequences of one's choices deserve consideration in proportion to their vulnerability; and situational details determine how to safeguard and promote the interests of individuals" ([Wikipedia, Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care)). Joan Tronto's work supplies four ethical elements of care: attentiveness, because "care requires a recognition of others' needs in order to respond to them"; responsibility ("In order to care, we must take responsibility ourselves"); competence; and responsiveness ([Wikipedia, Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care)).
 
 ## What it explains
 
-Care ethics explains the moral weight of the work that keeps people alive — parenting, nursing, teaching — which impartialist theories struggled to value. It also explains why good care fails: inattention to needs, responsibility diffused, care without skill.
+Care ethics gives a frame for the moral weight of the work that keeps people alive — parenting, nursing, teaching — and for why its demands can be invisible to theories built on impartial rules.
 
 ## Everyday life
 
-The practice asks three questions before any rule: who here is vulnerable, what does this specific person need, and what am I actually able to do well. Attentiveness comes first, because a need not noticed cannot be met.
+As an illustration of the framework in use, not a prescribed procedure: who here is vulnerable, what does this specific person need, and what am I actually able to do well.
 
 ## Field
 

@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 ## In plain words
 
-The bystander effect is the finding that witnesses can be each other's excuse. Its standard statement: "individuals are less likely to offer help to a victim in the presence of other people" ([Wikipedia, Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)). John Darley and Bibb Latané built the theory in 1968 from the smoke-filled-room experiments.
+The bystander effect is the finding that witnesses can be each other's excuse. Its standard statement: "individuals are less likely to offer help to a victim in the presence of other people" ([Wikipedia, Bystander effect](https://en.wikipedia.org/wiki/Bystander_effect)). The theory was built by John Darley and Bibb Latané; their 1968 smoke-filled-room study is one classic experiment in the line.
 
 ## Where it comes from
 

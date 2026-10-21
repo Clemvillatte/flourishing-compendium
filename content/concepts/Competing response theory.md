@@ -21,11 +21,11 @@ The treatment package "consists of five components: awareness training, competin
 
 ## What it explains
 
-The theory explains why replacement beats suppression: an incompatible action gives the urge somewhere to go, and practice welds it to the trigger. The evidence base is strong for its package: research on HRT "have produced consistent, large effect sizes (approximately 0.80 across the disorders)," and it "has met the standard of a well-established treatment for stuttering, thumb sucking, nail biting, and TMJ disorders" ([Wikipedia, Habit reversal training](https://en.wikipedia.org/wiki/Habit_reversal_training)), with tics, trichotillomania and skin picking among the treated disorders.
+The theory explains the replacement logic inside the package: an incompatible action gives the urge somewhere else to go, and practice welds it to the trigger. The evidence base is strong for the package as a whole: research on HRT "have produced consistent, large effect sizes (approximately 0.80 across the disorders)," and it "has met the standard of a well-established treatment for stuttering, thumb sucking, nail biting, and TMJ disorders" ([Wikipedia, Habit reversal training](https://en.wikipedia.org/wiki/Habit_reversal_training)), with tics, trichotillomania and skin picking among the treated disorders. The article does not isolate the competing-response component's separate effect.
 
 ## Everyday life
 
-The practical template: catch the earliest signal of the habit, choose an action the habit cannot coexist with (fists closed for nail biting, a slow breath for jaw clenching), and practise it at the signal rather than after the slip.
+The package's template, as described in the article: awareness training so the habit's early signal is caught, then a competing response trained to that signal. The article does not prescribe specific responses for specific habits.
 
 ## Field
 

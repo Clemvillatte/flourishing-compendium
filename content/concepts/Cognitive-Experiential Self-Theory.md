@@ -21,11 +21,11 @@ The systems divide the labour of daily life: "because the experiential system is
 
 ## What it explains
 
-The theory explains the everyday gap between what one knows and what one feels: the rational system can hold a conclusion the experiential system refuses to accept. It gives a frame for why vivid experience beats statistics in intuition, and why emotional learning is fast and hard to unlearn.
+The theory explains the everyday gap between what one knows and what one feels, in Epstein's terms: the two systems can hold different conclusions at the same time. In the model the systems interact, so change on the experiential side is not simply a matter of new arguments.
 
 ## Everyday life
 
-The practical read: name which system is running before trusting a judgment. For decisions that are felt rather than thought, the experiential system is doing the work, and it answers to experience, not to argument. Change on that level comes through new experiences, not new reasons.
+The practical read, staying inside the model: name which system is doing the work in a given judgment, since the two systems carry different strengths and different error modes.
 
 ## Field
 
