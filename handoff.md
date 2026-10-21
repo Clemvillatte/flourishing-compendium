@@ -35,7 +35,7 @@
   `python3 scripts/enrich_state.py w1l start "Skepticism answered by life"` (next
   manifest item). Remaining manifest order: Skepticism answered by life, Skills
   training (DBT, CBT), Social baseline, Social-network effects on behavior,
-  Solidarity, Solitude (6 items; w1l state 65/70 after Situational strategies).
+  Solidarity, Solitude (6 items; w1l state 64/70 after Situational strategies).
 
 - SUPERVISOR PASS (2026-10-21 06:49Z, supervisor-b7e3f9c2, T+60 REPORTING CHECKPOINT
   — reporting only, supervisor baton HELD, board healthy): (1) took over the stale p1zze
