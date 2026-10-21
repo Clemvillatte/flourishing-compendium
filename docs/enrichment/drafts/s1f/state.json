@@ -38,9 +38,14 @@
      "t": "2026-10-21T12:58:48+00:00",
      "to": "qc_pending",
      "note": "round-1 advisor repairs applied: institutional-formula claim removed, comparison narrowed, April date removed, reply identified as Holton's English rendering, citations per sentence, lint spacing findings fixed; story_check ok"
+    },
+    {
+     "t": "2026-10-21T13:04:10+00:00",
+     "to": "qc_pending",
+     "note": "round-2 advisor repairs applied: HANDOFF synced, cross-source connection kept interpretive (In his 1930 essay...), final opening sentence cited, lint outcome recorded accurately with named exceptions, terminal punctuation restored; story_check ok"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:58:48+00:00"
+ "updated": "2026-10-21T13:04:10+00:00"
 }
