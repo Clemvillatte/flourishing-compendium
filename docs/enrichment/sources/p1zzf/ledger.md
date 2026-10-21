@@ -38,3 +38,7 @@
 ## R046 — Practise talanoa
 - Opened (excerpts): Vaioleti 2006 (WJE PDF abstract), Auckland talanoa-on-talanoa paper, Fiji Times, UNFCCC Talanoa note, IRMA summary of McAdams 2008 (secondary; chapter not read).
 - Seed "not debate or negotiation" overstated: Halapua used it in post-coup political dialogue; Fijian negotiator says it settles disputes. Reworded. McAdams parallel is conceptual only. ST240 story link and psychology bullet preserved.
+
+## R048 — Practise ofo
+- Opened: Pratt Samoan dictionary (dokumen.pub full text: ofo, alofa entries), Oranga Tamariki tautua page, J Indigenous Wellbeing article (excerpt), Beehive Samoan Language Week speech (excerpt), Batson chapter PDF (excerpt), PMC book review of Batson.
+- KEY FLAG: seed "ofo = compassion" NOT supported — Pratt gives ofo = astonishment/wonder, salute, offer of food/services, first speech on presenting food; compassion is alofa. Modern senses not checked. Page discloses and describes alofa. Tuhiwai Smith 1999 (Māori) not tied to Samoan concept. Example labelled imagined.
