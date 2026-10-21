@@ -637,3 +637,16 @@
 - ST024 bare seed link moved to In the compendium. Related links
   confirmed existing.
 - Taper item. Normal validator: ok. State recorded (done count 46).
+
+## Item 49: Social Impact Theory (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: schema-2 theory page (one bold line + Field + two principle
+  links). Seed structure and links preserved.
+- Carrier opened: Latane 1981, "The psychology of social impact"
+  (American Psychologist 36(4) 343-356) abstract via scispace.
+  Verified verbatim: the multiplicative-function sentence, the
+  power-function/Nth-person sentence, and the division-of-impact
+  sentence. Abstract's hyphenation artifacts cleaned (paraphrase
+  noted); quotes split at clean clause boundaries.
+- Taper item. Related links confirmed existing. Normal validator:
+  ok. State recorded (done count 47).
