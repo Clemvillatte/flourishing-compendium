@@ -43,5 +43,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-035 | Mengsun Cai Wails Without Tears (Zhuangzi 6.6; Eno, Legge) | D090 | ready; second story on D090 (after s1c-018) |
 | s1c-036 | Zhuangzi and Huizi on the Bridge over the Hao (Zhuangzi 17; Legge, Giles) | P034, P008 | ready |
 | s1c-037 | Ziyu Brings Rice to Zisang After Ten Days of Rain (Zhuangzi 6.9; Eno, Legge) | D097, D098 | ready |
+| s1c-038 | Yi Erzi Asks Xu You to Take Him In (Zhuangzi 6.7; Eno, Legge) | P044, D067 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
