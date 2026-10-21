@@ -125,6 +125,12 @@ principle bands before concept bands while the principles queue is untouched.
    remains. Use `enrich_manifest.py <new-band> --type principle --priority --count 30`,
    then add its exact selected-rank bounds to TASKBOARD. Never overwrite existing manifests.
 6. Update `handoff.md` and this file when rules change. Clock in when done.
+7. Progress dashboard (owner directive, 2026-10-21): refresh and commit
+   `docs/enrichment/PROGRESS.md` via `python3 scripts/enrich_progress_report.py`
+   at EVERY supervisor pass and at least once an hour mid-pass — the owner relies on it
+   for done / to-do and %-by-category. The script is read-only (never touches the queues);
+   record-done counts come from the band state files. Refresh it on takeover if the file's
+   "next update due" time has passed.
 
 ## Stories pipeline (separate — do not merge)
 
