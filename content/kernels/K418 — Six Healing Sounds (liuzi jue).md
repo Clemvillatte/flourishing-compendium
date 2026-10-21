@@ -14,16 +14,21 @@ The liuzi jue (六子訣), the Six Healing Sounds, is a set of six exhalation pa
 
 ### Protocol
 
-1. Sit or lie comfortably and take a few ordinary breaths. Target dimensions: Overt behaviour (the shaped exhalation) and Affect (settling).
-2. Make each sound on the exhalation, one sound per breath cycle. The book's sound qualities: chui is a sharp expulsion of air with the lips almost closed and the mouth barely open, described as warming and relaxing; xu is a gentle expulsion with the mouth wide open, the air released from the bottom of the lungs, described as cooling; hu is the mildest, a blowing out with rounded lips; si is a gentle release between slightly opened lips; he is a strong breath through the open mouth with a soft rasp in the throat; xi is a sigh, soft and from deep in the body.
-3. The seasonal form, from the Yinshu as Kohn presents it: in spring, exhale several times with xu plus once each with hu and chui; in summer, several times with hu plus once each with xu and chui; in fall and winter, several times with chui plus once each with xu and hu.
-4. The modern form, as a peer-reviewed description has it: "one can either stand or kneel and calm the mind, breathing peacefully into the cinnabar field (Dan Tian; the navel), and then apply one of the six sounds, or all of them in a specific sequence according to one's particular needs" ([Shi et al. 2020](https://journals.sagepub.com/doi/full/10.1177/2158244020927024)). The sound is voiced softly or silently. "The time of exhalation is either equal to or longer than that of the inhalation. Both should be carried out naturally, and not prolonged by force." The opened sources specify no repetition count.
+What follows combines two opened sources: Kohn's historical descriptions of the breaths and a modern general framework from a peer-reviewed description. It is not a complete, standardized modern routine; no opened source specifies one.
+
+#### Historical breathing descriptions
+
+From Kohn's account of the early texts, the six breaths have these sound qualities: chui is a sharp expulsion of air with the lips almost closed and the mouth barely open, described as warming and relaxing; xu is a gentle expulsion with the mouth wide open, the air released from the bottom of the lungs, described as cooling; hu is the mildest, a blowing out with rounded lips; si is a gentle release between slightly opened lips; he is a strong breath through the open mouth with a soft rasp in the throat; xi is a sigh, soft and from deep in the body. The Yinshu's seasonal selection, as Kohn presents it: in spring, exhale several times with xu plus once each with hu and chui; in summer, several times with hu plus once each with xu and chui; in fall and winter, several times with chui plus once each with xu and hu (Kohn, printed p. 57).
+
+#### General practice framework
+
+From the peer-reviewed description of the modern practice: "one can either stand or kneel and calm the mind, breathing peacefully into the cinnabar field (Dan Tian; the navel), and then apply one of the six sounds, or all of them in a specific sequence according to one's particular needs" ([Shi et al. 2020](https://journals.sagepub.com/doi/full/10.1177/2158244020927024)). The sound is voiced softly or silently. "The time of exhalation is either equal to or longer than that of the inhalation. Both should be carried out naturally, and not prolonged by force." Shi et al.'s general description supplies no repetition count for a complete six-sound round.
 
 ### Evidence
 
-Kohn presents the organ associations as traditional Chinese medicine correspondence: a "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater". No trial of the six sounds is cited in the Kohn book; the modern form's practice frame is grounded in the peer-reviewed description quoted above (Shi et al. 2020), which also reports EEG findings ascribed to Henz & Schöllhorn 2018: alpha activity decreased after 15 minutes and increased after 30, a pattern the paper links to a relaxed and attentive mind in most studies. The classical closing promise:
+Kohn presents the organ associations as traditional Chinese medicine correspondence: a "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater". No trial of the six sounds is cited in the Kohn book; the modern form's practice frame is grounded in the peer-reviewed description quoted above (Shi et al. 2020), which also reports EEG findings ascribed to Henz & Schöllhorn 2018: alpha activity decreased after 15 minutes and increased after 30 minutes of practice. The classical closing promise:
 
-> "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Daoyin jing 16a–b (historical-text locator, as cited in Kohn, Chinese Healing Exercises) ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
+> "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Kohn, Chinese Healing Exercises, printed p. 102, quoting Daoyin jing 16b ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
 
 ## Operationalises
 
