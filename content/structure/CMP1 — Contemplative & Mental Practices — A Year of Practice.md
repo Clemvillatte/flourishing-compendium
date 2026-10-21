@@ -118,20 +118,21 @@ Weekly review, returning practice, and daily architecture, ending in the design 
 
 ## The practice gallery
 
-A library of guided sessions, one shelf per family. The standard for inclusion is strict: every guide below teaches inside an established lineage, monastery, or research institution, or carries published credentials in the field. Anyone can upload a meditation to the internet, and most of what is uploaded is someone improvising; the recordings here are the ones that survive that filter. Durations are printed as they appear on the source pages, and each family runs from a few minutes to a full sitting, so the gallery fits a coffee break as well as a quiet evening, and a year of near-daily practice without repeating a recording.
+A library of guided sessions, one shelf per family. The standard for inclusion: every guide below teaches inside an established lineage, monastery, or research institution, or carries documented teacher training in the specific practice they guide, and the credential is linked where it is stated. Durations are printed as they appear on the source pages. Most families run from a few minutes to a full sitting; where the long guided format is rare in a tradition, the page says so rather than padding the shelf.
 
 ### Focused attention: the breath (FAM)
 
 | Session | Guide | Length |
 |---|---|---|
-| [Breathing Meditation](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 5 min |
-| [Breath, Sound, Body](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 12 min |
+| [Breathing Meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/01_Breathing_Meditation.mp3) | Diana Winston, UCLA Mindful | 5 min |
+| [Breath, Sound, Body](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/02_Breath_Sound_Body_Meditation.mp3) | Diana Winston, UCLA Mindful | 12 min |
 | [Guided Meditation on the Breath](https://www.audiodharma.org/talks/363) | Gil Fronsdal, AudioDharma | 14:43 |
-| [The Breath: Portal to Presence](https://tarabrach.com/guided-meditations/) | Tara Brach | 19:31 |
+| [The Breath: Portal to Presence](https://www.tarabrach.com/meditation-the-breath-portal-to-presence-2/) | Tara Brach | 19:31 |
 | [MBSR Sitting Meditation, 20-minute version](https://palousemindfulness.com/meditations/sittingmeditation.html) | Palouse Mindfulness | 20 min |
 | [Calm, Ease](https://www.youtube.com/watch?v=XHvtIcaD194) | Thich Nhat Hanh, Plum Village | 20:24 |
 | [Guided Meditation on the Breath](https://www.audiodharma.org/talks/8) | Gil Fronsdal, AudioDharma | 30:13 |
 | [MBSR Sitting Meditation, 32-minute version](https://palousemindfulness.com/meditations/sittingmeditation.html) | Palouse Mindfulness | 32 min |
+| [Guided Mindfulness Meditation](https://www.audiodharma.org/talks/4013) | Gil Fronsdal, AudioDharma | 42:59 |
 
 ### Open monitoring (OMM)
 
@@ -139,8 +140,8 @@ A library of guided sessions, one shelf per family. The standard for inclusion i
 |---|---|---|
 | [Body and Sound Meditation](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 3 min |
 | [A Guided Meditation on the Body, Space, and Awareness](https://www.youtube.com/watch?v=5GSeWdjyr1c) | Yongey Mingyur Rinpoche | 14 min |
-| [A Listening Presence](https://tarabrach.com/guided-meditations/) | Tara Brach | 20:27 |
-| [Resting in Reality](https://tarabrach.com/guided-meditations/) | Tara Brach | 24 min |
+| [A Listening Presence](https://www.tarabrach.com/meditation-a-listening-presence-2026-06-03-2027-min/) | Tara Brach | 20:27 |
+| [Resting in Reality](https://www.tarabrach.com/meditation-resting-in-reality-2/) | Tara Brach | 24 min |
 | [Direct Experience](https://www.audiodharma.org/talks/453) | Gil Fronsdal, AudioDharma | 35:45 |
 | [World of Thoughts](https://www.audiodharma.org/talks/555) | Gil Fronsdal, AudioDharma | 42:59 |
 
@@ -149,24 +150,27 @@ A library of guided sessions, one shelf per family. The standard for inclusion i
 | Session | Guide | Length |
 |---|---|---|
 | [Self-Compassion Break](https://www.youtube.com/watch?v=p7z3ybkn9DU) | Kristin Neff | 5:23 |
-| [Loving Kindness Meditation](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 9 min |
-| [Compassion Meditation](https://greatergood.berkeley.edu/article/item/compassion_meditation) | Eve Ekman, Greater Good Science Center | 10 min |
-| [Embodied Metta](https://tarabrach.com/guided-meditations/) | Tara Brach | 20:06 |
+| [Loving Kindness Meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/05_Loving_Kindness_Meditation.mp3) | Diana Winston, UCLA Mindful | 9 min |
+| [Compassion Meditation](https://ggia.berkeley.edu/practice/compassion_meditation) | Eve Ekman, Greater Good Science Center | 10 min |
+| [Embodied Metta](https://www.tarabrach.com/meditation-embodied-metta-2/) | Tara Brach | 20:06 |
 | [Guided Metta](https://www.audiodharma.org/talks/44) | Gil Fronsdal, AudioDharma | 28:04 |
-| [Guided Metta Meditation](https://www.dharmaseed.org/talks/?search=metta+guided) | Joseph Goldstein, Dharma Seed | 38:21 |
-| [Guided Lovingkindness Meditation](https://www.dharmaseed.org/talks/?search=metta+guided) | Sharon Salzberg, Dharma Seed | 47:18 |
+| [Guided Metta Meditation](https://www.dharmaseed.org/talks/1331) | Joseph Goldstein, Dharma Seed | 38:21 |
+| [Guided Lovingkindness Meditation](https://www.dharmaseed.org/talks/44) | Sharon Salzberg, Dharma Seed | 47:18 |
 
 ### Body scan, deep rest, and NSDR
 
 | Session | Guide | Length |
 |---|---|---|
+| [Short Body Scan](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/Body-Scan-Meditation.mp3) | Diana Winston, UCLA Mindful | 3 min |
 | [Body Scan, excerpt](https://www.ummhealth.org/services-treatments/center-mindfulness/meditations) | Bob Linscott, UMass Memorial Health | 9 min |
-| [iRest practice for feeling at ease](https://shop.irest.org/products/yoga-teachers) | Richard Miller, iRest | 10 min |
 | [Non-Sleep Deep Rest](https://www.youtube.com/watch?v=KHIbgSN2qAU) | Andrew Huberman | 10:42 |
 | [Body Scan for Sleep](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 13 min |
+| [Introductory iRest practice](https://shop.irest.org/pages/try-irest-now) | Richard Miller, iRest Institute | 15 min |
+| [Extended iRest practice](https://shop.irest.org/pages/try-irest-now) | Richard Miller, iRest Institute | 20 min |
 | [Guided Body Scan](https://www.audiodharma.org/talks/353) | Gil Fronsdal, AudioDharma | 25:05 |
-| [27-Minute Deep Relaxation](https://web.plumvillage.app/meditations/sister-chan-khong) | Sister Chan Khong, Plum Village | 27:25 |
-| [41-Minute Deep Relaxation](https://web.plumvillage.app/meditations/sister-chan-khong) | Sister Chan Khong, Plum Village | 41:13 |
+| [27-Minute Deep Relaxation](https://web.plumvillage.app/item/deep-relaxation-nourishing-body-and-mind) | Sister Chan Khong, Plum Village | 27:25 |
+| [41-Minute Deep Relaxation](https://web.plumvillage.app/item/deep-relaxation-coming-home-to-your-body) | Sister Chan Khong, Plum Village | 41:13 |
+| [Guided Meditation: Body Sweep](https://www.audiodharma.org/talks/1828) | Leigh Brasington, AudioDharma | 45:21 |
 
 ### Daoist stillness
 
@@ -174,30 +178,34 @@ A library of guided sessions, one shelf per family. The standard for inclusion i
 |---|---|---|
 | [Standing Meditation in 2 Minutes](https://www.youtube.com/watch?v=FRhkiYsEGbo) | Master Gu, Wudang | 2:18 |
 | [Taoist True Breathing](https://www.youtube.com/watch?v=JalW4TmMVx8) | George Thompson, Wudang Taoist Wellness Academy | 13:01 |
-| [Zuowang Guided Meditation](https://www.youtube.com/watch?v=5Ne6ey3Qykk) | Giovanni Dienstmann | 17:30 |
+| [Free 4-part Taoist Wellness course](https://www.taoistwellness.online/free-course) | Master Gu and George Thompson | 10-15 min per lesson |
+| [Wudang Taoist Wellness Academy, paid membership](https://www.taoistwellness.online/) | Master Gu and George Thompson | structured courses |
+| [Internal Arts Academy, paid subscription](https://damomitchell.com/) | Damo Mitchell, Lotus Nei Gong | structured courses |
 
-Free, well-guided Daoist sessions beyond the twenty-minute mark are scarce; the longer Wudang material sits inside Master Gu's structured courses rather than open recordings.
+Verified free single-session Daoist recordings run short; the longer guided training in this tradition sits inside the academies above, labeled paid where paid.
 
 ### Zen: shikantaza and koan
 
 | Session | Guide | Length |
 |---|---|---|
-| [Exploring Space](https://www.mountaincloud.org/intro-zone/) | Henry Shukman, Mountain Cloud Zen Center | 10:08 |
-| [Settling In](https://www.mountaincloud.org/intro-zone/) | Henry Shukman, Mountain Cloud Zen Center | 12:40 |
-| [Space in the Day](https://www.mountaincloud.org/intro-zone/) | Henry Shukman, Mountain Cloud Zen Center | 12:57 |
-| [Body, Space and Mu](https://www.mountaincloud.org/intro-zone/) | Henry Shukman, Mountain Cloud Zen Center | 15:32 |
-| [Resting. Settling, Grounding](https://www.mountaincloud.org/intro-zone/) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
+| [Exploring Space](https://www.mountaincloud.org/wp-content/uploads/2020/08/Exploring-Space.mp3) | Henry Shukman, Mountain Cloud Zen Center | 10:08 |
+| [Settling In](https://www.mountaincloud.org/wp-content/uploads/2020/08/Settling-in-1.mp3) | Henry Shukman, Mountain Cloud Zen Center | 12:40 |
+| [Space in the Day](https://www.mountaincloud.org/wp-content/uploads/2020/08/Space-in-the-day-%E2%80%94-meditation.mp3) | Henry Shukman, Mountain Cloud Zen Center | 12:57 |
+| [Body, Space and Mu](https://www.mountaincloud.org/wp-content/uploads/2020/08/Body-space-and-mu.mp3) | Henry Shukman, Mountain Cloud Zen Center | 15:32 |
+| [Resting. Settling, Grounding](https://www.mountaincloud.org/wp-content/uploads/2020/08/Resting-settling-grounding.....mp3) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
+
+Longer Zen sits are usually bell-marked silence rather than continuous guidance, so the guided recordings verified here stop at 25 minutes. For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
 
 ### Walking meditation
 
 | Session | Guide | Length |
 |---|---|---|
-| [An Introduction to Walking Meditation](https://web.plumvillage.app/meditations/walking-meditation) | Thich Nhat Hanh, Plum Village | 4:34 |
+| [An Introduction to Walking Meditation](https://web.plumvillage.app/item/walking-meditation-1) | Thich Nhat Hanh, Plum Village | 4:34 |
+| [Happiness Break: Walk Your Way to Calm](https://greatergood.berkeley.edu/podcasts/item/walk_your_way_to_calm_guided_meditation) | Dacher Keltner, Greater Good Science Center | 6:06 |
 | [Walking Meditation](https://www.youtube.com/watch?v=cvmfhdLo8fI) | Headspace | 10:19 |
-| [Walking Meditation: Short Film and Tutorial](https://web.plumvillage.app/meditations/walking-meditation) | Brother Khiet Minh, Plum Village | 10:55 |
-| [Savoring Walk](https://greatergood.berkeley.edu/article/item/savoring_walk) | Eve Ekman, Greater Good Science Center | 20 min |
-| [Zen and the Art of Walking Meditation](https://web.plumvillage.app/meditations/walking-meditation) | Brother Phap Huu and Sister Hien Nghiem, Plum Village | 46:44 |
+| [Walking Meditation: Short Film and Tutorial](https://web.plumvillage.app/item/walking-meditation-5) | Brother Khiet Minh, Plum Village | 10:55 |
+| [Zen and the Art of Walking Meditation](https://web.plumvillage.app/item/zen-and-the-art-of-walking-meditation-or-guided-practice-session) | Brother Phap Huu and Sister Hien Nghiem, Plum Village | 46:44 |
 
 ### Who is guiding
 
-The UCLA recordings come from the faculty of UCLA's Mindful Awareness Research Center. Gil Fronsdal is a senior guiding teacher at the Insight Meditation Center in Redwood City, trained in both the Zen and vipassana traditions. Tara Brach holds a Ph.D. in psychology and has taught insight meditation for decades from Washington, DC. Dave Potter, who built Palouse Mindfulness, is certified as an MBSR instructor by the University of Massachusetts Medical School. Henry Shukman is an authorized teacher in the Sanbo Zen lineage and the former spiritual director of the Mountain Cloud Zen Center in Santa Fe. Master Gu is a 15th-generation descendant of the Wudang Sanfeng line and has taught in the Wudang Mountains for more than 25 years; George Thompson teaches alongside him at the Wudang Taoist Wellness Academy. Yongey Mingyur Rinpoche is a Tibetan Buddhist meditation master in the Karma Kagyu and Nyingma lineages and guides the worldwide Tergar community. Richard Miller, the founder of iRest, co-founded the International Association of Yoga Therapists. Sister Chan Khong was the first fully ordained monastic disciple of Thich Nhat Hanh. Joseph Goldstein and Sharon Salzberg are senior teachers in the vipassana tradition, and their retreat recordings are archived at Dharma Seed. Giovanni Dienstmann is a registered meditation teacher and the author of Practical Meditation, with training across mindfulness, Zen, and mantra traditions. Kristin Neff is the psychology researcher behind the self-compassion work used in Module VIII, Andrew Huberman is a Stanford neuroscientist, and Eve Ekman teaches with UC Berkeley's Greater Good Science Center.
+The UCLA recordings come from the faculty of [UCLA's Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations). [Gil Fronsdal](https://www.audiodharma.org/talks/8) is a senior guiding teacher at the Insight Meditation Center in Redwood City, trained in both the Zen and vipassana traditions. [Tara Brach](https://tarabrach.com/guided-meditations/) holds a Ph.D. in psychology and has taught insight meditation for decades from Washington, DC. [Dave Potter](https://palousemindfulness.com/selfguidedMBSR.html), who built Palouse Mindfulness, is certified as an MBSR instructor by the University of Massachusetts Medical School. [Henry Shukman](https://www.mountaincloud.org/intro-zone/) is an authorized teacher in the Sanbo Zen lineage and the spiritual director emeritus of the Mountain Cloud Zen Center in Santa Fe. [Master Gu](https://www.taoistwellness.online/about) is a 15th-generation descendant of the Wudang Sanfeng line with more than 25 years of teaching in the Wudang Mountains, and [George Thompson](https://www.taoistwellness.online/return-to-balance-course) spent over eight years training under him before co-founding the Wudang Taoist Wellness Academy. [Yongey Mingyur Rinpoche](https://www.youtube.com/watch?v=5GSeWdjyr1c) is a Tibetan Buddhist meditation master in the Karma Kagyu and Nyingma lineages who guides the worldwide Tergar community. [Richard Miller](https://shop.irest.org/pages/try-irest-now) is the founder of the iRest Institute and the developer of iRest. [Sister Chan Khong](https://web.plumvillage.app/meditations/sister-chan-khong) was the first fully ordained monastic disciple of Thich Nhat Hanh. [Joseph Goldstein](https://www.dharmaseed.org/teacher/96/) and [Sharon Salzberg](https://www.dharmaseed.org/talks/44) are senior teachers in the vipassana tradition, and their retreat recordings are archived at Dharma Seed. [Leigh Brasington](https://www.audiodharma.org/talks/1828) teaches in the insight meditation tradition. [Kristin Neff](https://www.youtube.com/watch?v=p7z3ybkn9DU) is the psychology researcher behind the self-compassion practices in Module VII. [Eve Ekman](https://ggia.berkeley.edu/practice/compassion_meditation) and [Dacher Keltner](https://greatergood.berkeley.edu/podcasts/item/walk_your_way_to_calm_guided_meditation) teach with UC Berkeley's Greater Good Science Center. [Andrew Huberman](https://www.youtube.com/watch?v=KHIbgSN2qAU) is a Stanford neuroscientist; the NSDR recording is his own protocol, already in use in Module IV.
