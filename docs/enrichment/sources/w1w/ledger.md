@@ -161,3 +161,24 @@
     quotes from NDPR).
 - Normal validator: 9/9 ok (3 warn-level Related-count notes on older
   pages).
+
+## Item 18: Satyagraha (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Gandhi, Hind Swaraj". No w1w identity flags. Full rewrite.
+- Carriers opened: (1) Hind Swaraj (1909) full text at mkgandhi.org —
+  verified verbatim: ch. XVII definition ("method of securing rights by
+  personal suffering... I use soul-force"), ch. XVII "sacrifice of self is
+  infinitely superior to sacrifice of other... only the person using it
+  suffers", ch. XVI "love-force, soul-force... This force is indestructible".
+  (2) Gandhi articles on satyagraha compiled PDF (fredsakademiet.dk,
+  Holger Terp) — verified verbatim the etymology passage ("holding on to
+  Truth... Truth-force... soul-force") and the coined-in-South-Africa /
+  weapon-of-the-weak distinction.
+- The mkgandhi.org page has OCR quirks ("true disregard unjust commands";
+  run-on "truth.The fact") — those spans NOT quoted. The "It involves
+  sacrifice of self" sentence appears in other editions but NOT on the
+  mkgandhi.org page as extracted — not quoted; the ch. XVII sacrifice-of-self
+  sentence is used instead.
+- How-clauses kept modest (Ahimsa definitional; courage grounded in
+  "weapon of the strong" quote; Ordering the soul compendium-internal).
+- Normal validator: ok. State recorded (done count 16).
