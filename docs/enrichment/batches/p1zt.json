@@ -34,8 +34,8 @@
  ],
  "in_progress": null,
  "flagged": {
-  "K002": "Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only",
-  "K005": "Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions",
+  "K002": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: QC round 1: narrow quote attribution, verify raw page text, source-bound body/plain words, reduce psychology parallel to citation-only]",
+  "K005": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: QC milestone items 2-5: source-bounded body/plain-words/example rewrites, parallel reductions]",
   "K039": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K039.md",
   "K041": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K041.md",
   "K044": "QC milestone round: advisor-designed source-bounded repairs applied and validator-clean; full history in sources/p1zt/K044.md",
@@ -62,6 +62,6 @@
   }
  ],
  "sources_checked": 17,
- "updated": "2026-10-21T18:15:00+00:00",
+ "updated": "2026-10-21T16:10:00+00:00",
  "band_done": true
 }

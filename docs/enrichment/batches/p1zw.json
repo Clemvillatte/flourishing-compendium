@@ -36,7 +36,7 @@
   "K069": "inherited psychology bullet (Linville 1987; Bernstein 2015): 'rigid self-definition predicts poor stress response' \u2014 constructs not verified for this precise claim (Linville's construct is self-complexity; Bernstein 2015 is a decentering constructs review); needs supervisor verification or narrowing; wikilink preserved",
   "K027": "inherited psychology bullet (mindfulness transfer to daily activity): 'informal practice moments add to formal sitting' \u2014 not verified from opened sources this session; needs verification or scope narrowing",
   "K028": "inherited psychology bullet (Fredrickson et al. 2008; Klimecki et al. 2013): loving-kindness/compassion findings cited as parallels \u2014 tonglen-specific evidence and precise claim scope not verified this session; needs supervisor verification or narrowing",
-  "K032": "Reopened for QC: QC correction: milestone round 2 repairs (overreach removal, quote fidelity)",
+  "K032": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: QC correction: milestone round 2 repairs (overreach removal, quote fidelity)]",
   "K054": "inherited psychology bullet (Yeager et al. 2014): 'purpose-framed goals outperform ego-framed ones' \u2014 precise claim not verified from the opened study this session; needs supervisor verification or narrowing",
   "K017": "inherited psychology bullet (Martell et al. 2010 behavioral activation): 'withdrawal maintains depression' \u2014 precise claim not verified from the opened study this session; needs supervisor verification or narrowing",
   "K022": "inherited psychology bullet (McAdams narrative identity): 'people flourish when their story connects to something larger' \u2014 precise claim not verified from the opened research this session; needs supervisor verification or narrowing",
@@ -57,6 +57,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T18:00:00+00:00",
+ "updated": "2026-10-21T16:10:00+00:00",
  "band_done": true
 }

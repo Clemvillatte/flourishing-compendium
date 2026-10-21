@@ -47,14 +47,14 @@
   "X001": "inherited: Lord & Mussweiler reference studies (the paraphrased field toppers) not opened this session; substantive QC pending (milestone review covered items 6-10 only)",
   "X004": "post-item source-contradiction repaired (PH I.6 quietude-as-origin respected); round-2 closeout repair applied (descriptive plain words, reading example); inherited: Wegner 1994 bare reference",
   "X021": "post-item source-contradiction repaired (twofold manner kept, capitalization preserved); inherited: Bem self-perception research bare reference",
-  "M013": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok — obsolete reopen note superseded",
-  "M015": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok — obsolete reopen note superseded",
-  "M017": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok — obsolete reopen note superseded",
-  "M018": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok — obsolete reopen note superseded",
-  "M020": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok — obsolete reopen note superseded"
+  "M013": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
+  "M015": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
+  "M017": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
+  "M018": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded",
+  "M020": "RESOLVED (takeover worker, 2026-10-21): QC rounds 1-4 complete, page passes advisor content review, validated ok \u2014 obsolete reopen note superseded"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:44:37+00:00",
+ "updated": "2026-10-21T16:10:00+00:00",
  "band_done": true
 }
