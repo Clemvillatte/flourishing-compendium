@@ -599,3 +599,14 @@
   the same passage; core quotes verified on fetched page.
 - Taper item. Related links confirmed existing. Normal validator: ok.
   State recorded (done count 43).
+
+## Item 46: Social embeddedness (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Baumeister and Leary, 1995 (one line). Seed line kept.
+- Carrier opened: Baumeister & Leary 1995, "The Need to Belong"
+  (Psychological Bulletin 117(3) 497-529), full text at archive.org.
+  Verified verbatim: the belongingness hypothesis sentence and the
+  two-criteria passage.
+- Loneliness-as-signal paragraph marked as the compendium's use.
+  Related links confirmed existing.
+- Taper item. Normal validator: ok. State recorded (done count 44).
