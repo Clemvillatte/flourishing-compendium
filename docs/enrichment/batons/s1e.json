@@ -1,13 +1,20 @@
 {
  "baton": "s1e",
  "agent": "storyteller-perplexity-s1e",
- "clocked_in": "2026-10-21T12:22:12+00:00",
+ "clocked_in": "2026-10-21T12:50:48+00:00",
  "takeovers": [
   {
    "by": "storyteller-perplexity-s1e",
    "at": "2026-10-21T12:22:12+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "storyteller-perplexity-s1e",
+   "at": "2026-10-21T12:50:48+00:00",
+   "from": "storyteller-perplexity-s1e",
+   "reason": "stale (29 min)"
   }
- ]
+ ],
+ "released": false
 }

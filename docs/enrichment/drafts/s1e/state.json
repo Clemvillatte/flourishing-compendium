@@ -130,7 +130,27 @@
      "note": "quotes verified from two opened sources"
     }
    ]
+  },
+  "s1e-007": {
+   "status": "qc_pending",
+   "angle": "B095 samadhi as gathering: Herrigel's professor - the master's cure for scattered striving was the breath; 'being breathed'; the shot that fell like a ripe fruit",
+   "history": [
+    {
+     "t": "2026-10-21T12:50:07+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:50:07+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:50:48+00:00",
+     "to": "qc_pending",
+     "note": "quotes verified from opened Herrigel text and Yamada critique"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:48:58+00:00"
+ "updated": "2026-10-21T12:50:48+00:00"
 }
