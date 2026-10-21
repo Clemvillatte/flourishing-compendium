@@ -1,4 +1,33 @@
 # Handoff (start here)
+- WORKER CHECKPOINT (2026-10-21 ~08:21Z, worker-p1zzg-8c31f0a7, T+35 — final
+  pre-report checkpoint; baton HELD, clocking in; session continues while it
+  lives): session so far — p1zzg milestone QC CLOSED (3 advisor rounds,
+  SP017/SP021/SP022/SP025/SP028 scoped PASS; SP025/SP028 title flags +
+  SE041 for owner/supervisor; 3 reciprocals proposed: Envy<-SP021,
+  Gratitude<-SP022, Conatus<-SP028); p1zzk closed 30/30 (SP095 light-check,
+  quotes re-verified); w1c closed 70/70 (Acceptance page verified + audit
+  note removed; Hayes-2011 'first presentation' parenthetical routed to
+  the supervisor on the TASKBOARD); w1g premature done-marks REVERSED and
+  holds restored (see the w1g ledger correction; the 'rehearsal of virtue'
+  draft was never pushed); w1m: 5 items DONE with advisor QC (Sub specie
+  aeternitatis, JD-R model, Steelmanning — items 1-3 scoped PASS after
+  round-2 repairs; The limits of introspection + The ontological
+  difference — item-5 milestone CLOSED scoped PASS; introspection page
+  carries a NEAR-DUPLICATE flag vs w1l's 'Limits of introspection',
+  owner disposition requested) and 'The culturally embedded self' REOPENED
+  on an IDENTITY-SUPPORT HOLD (the opened MacIntyre-review excerpt does
+  not establish the 'culturally embedded' framing; bounded WIP saved;
+  supervisor disposition requested). ALL work pushed; ledgers in
+  docs/enrichment/sources/w1m/ and /w1g/; TASKBOARD notes posted for the
+  supervisor (Hayes parenthetical, introspection duplicate, w1g reversal).
+  EXACT NEXT ACTION for the next worker: read the w1m state flags, then
+  `python3 scripts/enrich_state.py w1m start "The coloured lens"` (or
+  another w1m manifest item — check concept-existence BEFORE writing:
+  the remaining w1m headings (The coloured lens, The examined past, The
+  prior probability of the world) look like compendium headings over real
+  practices and need the same care that produced the w1g reversal).
+  Remaining w1m items: 64 (7 done incl. the reopened one NOT counted).
+
 
 - WORKER CHECKPOINT (2026-10-21 ~08:14Z, worker-p1zzg-8c31f0a7, T+28 — reporting
   checkpoint only, work continues while the session lives): took over stale
