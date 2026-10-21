@@ -11,11 +11,11 @@ The ontological difference is Heidegger's distinction between being (das Sein) a
 
 > "Being is essentially different from a being, from beings." (quoted in the IEP article, section 4, [same source](https://iep.utm.edu/heidegge/))
 
-> "The 'ontological difference,' the distinction between being (*das Sein*) and beings (*das Seiende*), is fundamental for Heidegger. The forgetfulness of being that, according to him, occurs in the course of Western philosophy amounts to the oblivion of this distinction."
+> "The "ontological difference," the distinction between being (*das Sein*) and beings (*das Seiende*), is fundamental for Heidegger. The forgetfulness of being that, according to him, occurs in the course of Western philosophy amounts to the oblivion of this distinction."
 
 — Internet Encyclopedia of Philosophy, "Martin Heidegger", section 4, [same source](https://iep.utm.edu/heidegge/)
 
-In this account, being is not itself an entity.
+In this account, being is not itself an entity. ([IEP article, section 4](https://iep.utm.edu/heidegge/))
 
 ### In the compendium
 

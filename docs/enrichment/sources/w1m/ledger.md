@@ -112,3 +112,23 @@
 - Both validated ok --fast-track after repair. Monotonic clock note:
   wall-clock date +%s used throughout (no true monotonic source in the
   sandbox); readings consistent with UTC at every cross-check.
+
+## QC round 3 — item-5 milestone CLOSED (advisor, 2026-10-21)
+
+- Introspection: scoped PASS for revised prose and displayed quotations;
+  the duplicate with w1l's page is an owner disposition, not a rewrite
+  issue. Wording corrected: DUPLICATE IDENTIFIED; w1m cross-reference
+  added (one direction); disposition pending — not "both cross-linked".
+- Ontological difference: substantive PASS; mechanical correction applied
+  (source's double quotation marks restored in the blockquote; IEP
+  citation placed after the not-an-entity sentence). Validated vs
+  pre-enrichment baselines (7e9d5a3^ / abca149^) — the earlier checks
+  had compared against enriched HEAD, corrected.
+- Monotonic clock correction: time.monotonic_ns() IS available (Python);
+  reading 2005078289350 at 2026-10-21T08:18:45Z. The ledger's earlier
+  "no monotonic source" note is corrected here. Epoch and formatted UTC
+  are one wall clock in two presentations.
+- Routed to the supervisor: the w1c Acceptance page's new parenthetical
+  ("the six-process model's first presentation" for Hayes, Strosahl
+  and Wilson 2011) was NOT established by the opened excerpt —
+  verification or deletion requested (TASKBOARD note).
