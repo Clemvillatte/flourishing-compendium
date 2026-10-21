@@ -597,3 +597,17 @@
   interaction finding, and the historical-inflection-point statement.
 - QC cadence: due at the next 5-item boundary with Ockham's razor and Obedience research
   (the post-milestone items of this window).
+
+## Neurobiology of addiction (fast-track) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line 'Koob and Volkow, 2016' + Sources stub + Cited-in PP077). Validated --fast-track --base 4b2bebc4f: ok.
+- Carrier opened: the seed's OWN named source — Koob & Volkow, 'Neurobiology of
+  addiction: a neurocircuitry analysis', Lancet Psychiatry 2016;3(8):760-773, PMID
+  27475769 (esearch 'Koob Volkow neurocircuitry addiction 2016'; an initial PMID guess
+  26836730 was WRONG — resolved to an unrelated JAMA ventilation trial, rejected before
+  use). Abstract fetched and quoted verbatim: the three-stage dysregulation definition,
+  the binge/intoxication-stage dopamine/opioid-peptide sentence, and the
+  withdrawal/negative-affect-stage dopamine-decrease/brain-stress sentence (the
+  prefrontal-cortex/executive-function third-stage sentence was truncated in the fetched
+  text and was NOT quoted).
+- QC cadence: due at the next 5-item boundary with Ockham's razor, Obedience research
+  and Neuroaesthetics (the post-milestone items of this window).
