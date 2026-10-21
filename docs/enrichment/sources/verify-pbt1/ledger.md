@@ -721,3 +721,9 @@ blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
 Carrier opened fresh: GVSU Schwartz 2012 full text. w1w "Schwartz": all four quoted fragments
 (the definitional values passages and the affect passage) VERBATIM vs the opened carrier.
 1/1 PASS, no defects.
+
+## Round 43 (17:03Z) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: Colorado Judge & Zapata PDF. w1q "Trait Activation Theory": both
+Tett & Burnett p.502 quotations VERBATIM (source marks lower-case-to-capital with
+brackets, standard quoting practice). 1/1 PASS, no defects.
