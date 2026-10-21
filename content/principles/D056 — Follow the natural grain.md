@@ -34,8 +34,8 @@ The cook contrasts his blade with the ones that wear out: the good cook's knife 
 
 ## Psychology parallels
 
-- **[[Affordances|Affordances]]**, skilled perception of action possibilities in the environment (Gibson, 1979)
-- **[[Motivational interviewing|Motivational interviewing]]** (Miller and Rollnick, 2013), works with, not against, a person's own motivation
+- **[[Affordances|Affordances]]** (Gibson, 1979)
+- **[[Motivational interviewing|Motivational interviewing]]** (Miller and Rollnick, 2013)
 
 ## Philosophy parallels
 

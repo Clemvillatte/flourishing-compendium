@@ -39,8 +39,8 @@ The reasoning comes just before it: "That which is at rest is easily kept hold o
 - [[K237 — See-the-small practice|K237 See-the-small practice]]
 ## Psychology parallels
 
-- **Preventive coping and stress inoculation**, preparing in advance reduces reactivity (Meichenbaum)
-- **Early-intervention evidence across mental health**
+- **Preventive coping and stress inoculation** (Meichenbaum)
+- **Early-intervention evidence across mental health** (unverified inherited gloss; see ledger)
 
 ## Philosophy parallels
 

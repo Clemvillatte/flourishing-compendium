@@ -34,8 +34,8 @@ The harmony is the point: to know it, the chapter says, is to know the unchangin
 
 ## Psychology parallels
 
-- **[[Play research|Play research]]**, play predicts emotional vitality in adults (Brown, 2008)
-- **[[Dispositional awe|Dispositional awe]]**, the small-self effect (Piff et al., 2015)
+- **[[Play research|Play research]]** (Brown, 2008)
+- **[[Dispositional awe|Dispositional awe]]** (Piff et al., 2015)
 - **[[Openness|Openness to experience and well-being]]**
 
 ## Philosophy parallels
