@@ -4,3 +4,11 @@
 - All this segment's repairs and acceptances exclude inherited Practice/parallels citations.
 - Item marked done: SO050. SE041 locator remains UNRESOLVED (state flag).
 - Remaining: SO063, SP007, SP017, SP021, SP022, SP025, SP028.
+
+### Band p1zzg checkpoint — 2026-10-21 ~06:53 UTC (24/30 done)
+- SO063 done: Berry 2001 (open university-hosted PDF) quotes pp. 619/627;
+  carrier disclosed (the 1997 original named on the page was not opened);
+  over-claim "consistently does best" bounded; "designable" labelled the
+  compendium's gloss. QC not yet run on SO063 — next worker should present it.
+- Remaining: SP007, SP017, SP021, SP022, SP025, SP028 (6 items).
+- SE041 locator still unresolved (state flag).
