@@ -16,3 +16,5 @@
 - Opened (search excerpts): NIMH publication and "common types" page; Arcelus 2011 abstract; Cleveland Clinic (secondary, used only for the disordered-eating vs eating-disorder distinction). APA 2022 not opened. "Not a choice" unsupported, dropped. Seed conflated disordered eating with eating disorders; clarified. "Cover story" anecdote dropped.
 ## CO023 — survivorship bias
 - Opened (search excerpts): Brown et al. 1992 abstract; Elton et al. 1996 abstract; Cognitive Biases Academy (secondary) for Wald. Mangel & Samaniego 1984, Merton & Barber 2004, Taleb 2007 not opened. Seed's CEO-habits anecdote dropped. Wikilink [[Survivorship bias|...]] in link section untouched.
+## CO036 — halo effect
+- Opened (search excerpts): Nisbett & Wilson 1977 abstract (MIT PDF); Dion 1972 intro/result excerpt; Eagly 1991 abstract. Thorndike 1920 not opened. Seed claims on confidence/charisma and hiring unchecked; "never correlated" flagged. Tall-presenter anecdote dropped; practice (score by criterion) is a suggestion not a cited finding. Wikilink [[Halo effect|...]] untouched.

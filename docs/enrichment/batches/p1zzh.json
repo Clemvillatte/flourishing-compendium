@@ -24,9 +24,10 @@
   "BI025",
   "BI030",
   "BI042",
-  "CO023"
+  "CO023",
+  "CO036"
  ],
- "in_progress": "CO036",
+ "in_progress": "M013",
  "flagged": {
   "SP029": "inherited: Seligman/Rotter bare references not opened this session; QC: first-item scoped PASS after 3 advisor rounds",
   "SP043": "inherited: Flavell 1979 and Ryle bare references not opened this session; QC: milestone 1 scoped PASS (closeout round 2)",
@@ -44,6 +45,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:09:36+00:00",
+ "updated": "2026-10-21T06:09:53+00:00",
  "band_done": false
 }
