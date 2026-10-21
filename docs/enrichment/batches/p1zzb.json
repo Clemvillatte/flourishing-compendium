@@ -29,8 +29,8 @@
   "SO054",
   "SO058",
   "SO060",
-  "SP005",
-  "SO073"
+  "SO073",
+  "SP005"
  ],
  "in_progress": null,
  "flagged": {
@@ -61,10 +61,10 @@
   "SO058": "Inherited claim-bearing Practice and Philosophy-parallels/EEMM lines preserved unverified",
   "SO060": "Inherited claim-bearing Practice and Philosophy-parallels/EEMM lines preserved unverified",
   "SO073": "Inherited claim-bearing material preserved unverified, needs supervisor disposition: Philosophy-parallels (Gadamer, Stuart Hall), EEMM line, Psychology-parallel carriers (Sam & Berry 2010; Virta et al. 2004; Marks et al. 2014; Benet-Martinez & Haritatos 2005; Huynh et al. 2011); Berry 1997 full text not opened (carried via Berry 2005 review); Bierwiaczonek & Kunst 2021 quotes verified from the SAGE full-text page",
-  "SP005": "Inherited claim-bearing material preserved unverified, needs supervisor disposition: Psychology-parallel carrier (Ferrari et al. 2019 meta-analysis), Philosophy-parallels lines (Zhuangzi Inner Chapters, Huineng Platform Sutra, Daodejing 25); Bennett is a clear-language translation, not a scholarly edition (wording differs from Elwes/Curley); page has no Practice section in the inherited original and none was added"
+  "SP005": "Reopened for QC: QC round 2 record repairs: glosses, Sources note, ledger inventory corrections"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:55:31+00:00",
+ "updated": "2026-10-21T01:58:28+00:00",
  "band_done": false
 }

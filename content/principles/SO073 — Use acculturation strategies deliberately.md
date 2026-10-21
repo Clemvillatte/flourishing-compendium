@@ -12,11 +12,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 73** — Use acculturation strategies deliberately
 
-Use acculturation strategies — Berry's integration, assimilation, separation, and marginalization (1997) — deliberately, especially in migration and cultural transition. Berry's framework starts from two questions: whether a person wishes to maintain the heritage culture, and whether they seek interaction with the wider society. Describing the integration option, he writes:
+Use acculturation strategies, Berry's integration, assimilation, separation, and marginalization (1997), deliberately, especially in migration and cultural transition. Berry's framework starts from two questions: whether a person wishes to maintain the heritage culture, and whether they seek interaction with the wider society. Describing the integration option, he writes:
 
 > When there is an interest in both maintaining one's heritage culture while in daily interactions with other groups, integration is the option. In this case, there is some degree of cultural integrity maintained, and at the same time seeking, as a member of an ethnocultural group, to participate as an integral part of the larger social network. (Berry, 2005, p. 705)
 
-Marginalization, the loss of both, carries constraints in his definition: "when there is little possibility or interest in heritage cultural maintenance (often for reasons of enforced cultural loss), and little interest in having relations with others (often for reasons of exclusion or discrimination) then marginalization is defined" (Berry, 2005, p. 705).
+Berry's definition of marginalization also refers to constraints: "when there is little possibility or interest in heritage cultural maintenance (often for reasons of enforced cultural loss), and little interest in having relations with others (often for reasons of exclusion or discrimination) then marginalization is defined" (Berry, 2005, p. 705).
 
 On acculturative stress, Berry adds a qualification:
 
@@ -32,7 +32,7 @@ A later meta-analysis reads this evidence differently:
 
 The same paper concludes that "the role of acculturation for adaptation may be limited at best" and points to contextual factors such as discrimination, language barriers, and social support (Bierwiaczonek & Kunst, 2021).
 
-**Plain words** Two questions sit under the menu: keep the heritage culture, and join the wider society. Yes to both is integration; yes to one is assimilation or separation. Marginalization, losing both, is often not chosen: Berry ties it to enforced cultural loss and exclusion. His review links integration with better adaptation where the receiving society accommodates it, and the later meta-analysis found those associations weak. The menu is a starting point, and circumstances shape what is available.
+**Plain words** Berry distinguishes maintaining a heritage culture from participating in the wider society. Integration combines the two. His account of marginalization includes enforced cultural loss and exclusion. He describes integration as least stressful where the wider society accommodates it. A later meta-analysis found weak associations between acculturation and adaptation. Use these categories to ask what you want to maintain and what opportunities or constraints you face.
 
 *For example (imagined):* A migrant family keeps the mother tongue at home and uses the local language at work and school, treating both languages as parts of one arrangement.
 
@@ -53,7 +53,7 @@ The same paper concludes that "the role of acculturation for adaptation may be l
 
 ## Practice
 
-- See principle 63 for the policy version. In personal migration, use the menu as an exercise: identify which heritage practices you want to keep and where wider participation is open to you. In second-generation identity, use bicultural identity integration (see principle 74).
+- See principle 63 for the policy version. In personal migration, use the menu as an exercise: identify which heritage practices you want to keep and where wider participation is open to you. For bicultural identity integration, see principle 74.
 
 ## Sources
 
