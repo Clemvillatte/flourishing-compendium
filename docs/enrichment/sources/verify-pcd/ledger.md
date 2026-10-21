@@ -334,3 +334,8 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 ### w1k "Redemption sequences" — quote fidelity PASS (verification pass)
 - Both Sawatzki and Thomsen 2025 sentences EXACT vs the opened PMC article (the source
   italicizes "contamination"; wording verbatim).
+
+### w1k "Risk perception" — quote fidelity PASS (verification pass)
+- Both Slovic and Weber factor passages EXACT vs the opened Columbia white paper PDF
+  (the page's ellipsis sits between two complete, verbatim sentences; the page renders
+  the carrier's own quotation marks around "dread risk" / "unknown risk").
