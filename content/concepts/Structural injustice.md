@@ -13,7 +13,11 @@ Structural injustice concerns harms produced through social processes, including
 
 ### Responsibility without blame
 
-Young's answer to this diagnosis is a redesign of responsibility, which the book calls the "social connection" model: political responsibility for changing unjust structures need not depend on blame for causing a particular harm.
+Young's answer to this diagnosis is a redesign of responsibility, which the book calls the "social connection" model: political responsibility for changing unjust structures need not depend on blame for causing a particular harm. Her worked example is Sandy, a single mother of two who faced the prospect of homelessness through no fault of her own, in an affluent society where no one should be in a position of housing insecurity. The people she dealt with acted according to the law and treated her with decency, and the contributing causes are diffuse:
+
+> "[s]ome laws, such as municipal zoning laws, and some policies, such as private investment policies, contribute to the structural processes that cause Sandy's plight, but none can be singled out as the major cause" (Young, Responsibility for Justice, p. 47, quoted in Mantouvalou, same chapter)
+
+The Mantouvalou chapter states what the model does to attention: "it shifts attention away from individual responsibility in two ways: on the one hand, it shows that people in Sandy's position are not responsible for their predicament. On the other hand, it illustrates how those with whom Sandy interacted along the way complied with societal rules and practices so they are also not necessarily responsible for having caused direct harm to her."
 
 > "The responsibility in which Young was interested was individual, forward-looking, and political (rather than legal)." (Mantouvalou, ["Structures of Injustice, the Law, and Exploitative Work"](https://academic.oup.com/book/58181/chapter/480373130), describing Young)
 
@@ -37,7 +41,7 @@ Young's answer to this diagnosis is a redesign of responsibility, which the book
 ## Sources
 
 - Virginia Mantouvalou, ["Structures of Injustice, the Law, and Exploitative Work"](https://academic.oup.com/book/58181/chapter/480373130), in Browne and McKeown (eds.), What is Structural Injustice? (Oxford University Press, 2024) — reproduces Young's definition (2011, p. 52) and summarizes her responsibility model
-- [Young, Responsibility for Justice](https://academic.oup.com/book/4381) (Oxford University Press, 2011), p. 52, as quoted in the carrier above; the book abstract names the sweatshop and housing-market examples and the "social connection" model
+- [Young, Responsibility for Justice](https://academic.oup.com/book/4381) (Oxford University Press, 2011), p. 52, as quoted in the carrier above; the book's open abstract names the sweatshop and housing-market examples and the "social connection" model: "often by virtue of participating in a market, such as buying goods produced in sweatshops, or participating in booming housing markets that leave many homeless... addressing these structural injustices requires a new model of responsibility, which it calls the 'social connection' model" — opened and verified
 
 [[R109 — Practise social justice]]
 [[R008 — Practise collective responsibility]]
