@@ -538,3 +538,12 @@ learning coinage, non-rewarded-trials learning, tentative map) verified VERBATIM
 PASS. Running tally of read-only spot-checks on the released w1ab band this session: 7 pages,
 all PASS at the quote level (Ockham's razor, Obedience research, Neuroaesthetics, Neurobiology
 of addiction, Learned optimism, Micro-moments of connection, Latent learning theory).
+
+## w1ab spot-check 8 + repair (2026-10-21 14:30 UTC, worker-perplexity-67ce7e1d)
+Locus of evaluation (a "Reopened for QC" w1ab page): the Rogers 1961 chapter-scan PDF re-opened;
+the locus-of-evaluation passage verified VERBATIM including its page (119, chapter "What It Means
+to Become a Person"). One repair applied: the page's quoted question had a comma where Rogers's
+text prints a semicolon ("deeply satisfying to me; and which truly expresses me?") — fixed and
+validated under --fast-track. NOTE: this is a w1ab-owned page and the repair was applied under
+the read-only spot-check precedent with the ownership caveat flagged here for the supervisor:
+cross-band page edit, single character, quote fidelity.
