@@ -34,8 +34,8 @@ Imagine someone whose role was built around circumstances that have since change
 
 ## Psychology parallels
 
-- **[[Lifespan development|Lifespan development]]**, personality still changes in adulthood (Roberts et al., 2006)
-- **Ego development across life**, meaning-making stages continue developing in adulthood (Loevinger, 1976)
+- **[[Lifespan development|Lifespan development]]** (Roberts et al., 2006)
+- **Ego development across life** (Loevinger, 1976)
 
 ## Philosophy parallels
 
