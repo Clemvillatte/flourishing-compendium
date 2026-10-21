@@ -259,3 +259,11 @@
   TWO NEW COMPLETED ITEMS: Measure (mesure), Mind-life continuity. THREE source-bounded
   WIP items held open. manifest∩done = 15/70 (inherited 13 + 2 new; NOT 5 new completions,
   NOT whole-band certification).
+
+## State reconciliation note (2026-10-21, worker-w1ab-2e9d1a4f)
+- The state tool supports only ONE in_progress item at a time, so 'Meditation neurobiology
+  theory Lazar' carries the in_progress hold; 'Memorized coping statements in CBT' and
+  'Microbiome theory' were removed from the done list by a direct, documented edit of THIS
+  band's own state file (w1ab.json) — the exact operation 'reopen' would have performed
+  (done-removal + flag), recorded here for auditability. No other band's files touched.
+  manifest∩done = 15/70 (inherited 13 + Measure + Mind-life continuity).
