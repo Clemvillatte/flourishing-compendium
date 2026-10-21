@@ -14,16 +14,20 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 Nietzsche's image for identity change is a chapter about stages:
 
-> Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child. Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea.
+> Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child.
 
 (Nietzsche, Thus Spake Zarathustra, "The Three Metamorphoses", Common translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/1998/pg1998.txt))
 
-The child is the destination of the sequence, and what the child has that the earlier stages lack is forgetfulness: a new beginning is only available to an identity that can drop what it was carrying. The principle statement's claim that revision is a foundation of adaptation rather than betrayal is the same point, stated for lives instead of spirits.
+The chapter later describes the child this way:
+
+> Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea.
+
+The chapter presents transformations of the spirit and describes the child as a beginning. Used as an analogy for a life transition, the image invites a question: which familiar roles still fit, and which do you want to reconsider?
 
 **Plain words**
-The evidence is ordinary: people change careers, religions, relationships and values. The revision goes through a period of carrying both, which is what the camel in the parable is doing. The question that opens the new identity is the one in the practice line below.
+Choose a label you use for yourself. List what you still want to keep doing and what has changed. Try describing yourself without treating the old label as permanent.
 
-*For example:* Imagine the athlete whose injury ends the identity at 24, and the difference between the ones who are "former athletes" forever and the one who asks what the discipline, the coaching and the body-knowledge become next.
+*For example:* Imagine an athlete whose injury ends competition, and the exploration of what the discipline and the body-knowledge become next, such as coaching.
 
 ## Sources
 
