@@ -392,3 +392,11 @@ QC-closed).
 ### w1k "Cognitive distortions research" — quote fidelity PASS (verification pass)
 - Panourgia & Comoretto seven-distortions passage EXACT vs the opened PMC article
   (the source italicizes the distortion names; wording verbatim).
+
+### w1k "Values" — quote fidelity PASS (verification pass)
+- Zhang et al. 2018 values-definition sentence EXACT vs the opened PMC article.
+- w1k spot-check total: 9 pages verified this pass (Redemption sequences, Risk
+  perception, Schadenfreude's relational costs, Being-in-the-world, Voluntary
+  discomfort, Allostatic load, Amour-propre, Alterity, Analytical Psychology,
+  Attentional deployment theory, Biopsychosocial model, Cognitive distortions
+  research, Values), all quote-fidelity PASS except Alterity's routed bracket nuance.
