@@ -26,3 +26,6 @@
 ## PP058 — curiosity
 - Opened: Kashdan et al. 2009 abstract (PMID 20160913); Swan & Carmelli 1996 abstract (PMID 8893314).
 - Not opened: Kashdan et al. 2018 (five-dimensional curiosity scale) — locator cited it, dropped. Seed claims "relationship quality" supported only as correlation with positive social relations; "predicts engagement and meaning" -> "purpose in life" correlate. Later work finds CEI-II may be unidimensional (stretching/embracing r ~.85-1.0 per excerpts), not on page.
+## PP059 — narrative arts
+- Opened: Kidd & Castano 2013 abstract (PMID 24091705); Panero et al. 2016 abstract via correction record (PMID 27762576; quote verbatim); preregistered meta-analyses abstract (PMID 38602788; authors not seen, cited by title); Mumper & Gerrig manuscript (APA PsycNet; "manuscript is not copy of record" — numbers could differ in final; replace with final version if the supervisor opens it).
+- Not opened: Mar & Oatley 2008 (locator cited it; mechanism "simulation" attributed to them in seed). Dropped locator. Seed claims on "theatre/film" not sourced; page limited to fiction reading.
