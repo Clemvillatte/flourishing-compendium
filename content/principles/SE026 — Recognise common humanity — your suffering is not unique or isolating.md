@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 26** — Recognise common humanity: your suffering is not unique or isolating
 
-Neff's scale paper defines self-compassion with this component built in:
+Neff's scale paper defines [[Self-compassion|self-compassion]] with this component built in:
 
 > Self-compassion, therefore, entails three basic components: 1) extending kindness and understanding to oneself rather than harsh self-criticism and judgment; 2) seeing one's experiences as part of the larger human experience rather than as separating and isolating; and 3) holding one's painful thoughts and feelings in balanced awareness rather than over-identifying with them.
 

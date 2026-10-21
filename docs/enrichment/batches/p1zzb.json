@@ -25,10 +25,11 @@
   "SE005": "Reopened for QC: QC milestone 2: overstatement ('cross-cultural record'), mirrors metaphor, borrowed pp.226-227 wording unquoted, example overreach",
   "SE014": "Reopened for QC: QC milestone 2: Socrates-attribution of values audit; unchosen-values and no-audience authenticity claims; life-reorganizing outcome",
   "SE015": "Reopened for QC: QC recheck: example still overstates training; replace with prediction-result comparison",
-  "SE018": "Reopened for QC: QC milestone 2: midpoint and only-updates generalizations; year-two prediction; staging contrast"
+  "SE018": "Reopened for QC: QC milestone 2: midpoint and only-updates generalizations; year-two prediction; staging contrast",
+  "SE026": "Reopened for QC: QC: validator FAIL - body wikilink [[Self-compassion|self-compassion]] lost in rewrite; restoring"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:23:38+00:00",
+ "updated": "2026-10-21T00:23:46+00:00",
  "band_done": false
 }
