@@ -1,3 +1,44 @@
+- SUPERVISOR CHECKPOINT (2026-10-21 ~15:42Z, worker-p1abc, T0 15:20:31Z, report due
+  16:20:31Z; baton HELD): took the STALE supervisor baton (worker-verify-qcsup-67ce7e1d,
+  27 min). PASS 1 (commits dd84ac7a5..4baa0c4e4): window health check (window
+  e6e5f0b08..HEAD: 68 changed files all pass baseline-aware fast-track; 13 new files
+  pass standalone; CMP1 prose-length FAIL is a structure-page false positive, no
+  repair); w1m integration applied (23 recip + 4 inline, 19 files, pure insertions,
+  inline[0] target field repaired, FAILs pre-existing by stash-test); PROGRESS
+  refreshed (principles 2171/2183, concepts 1197/2278); routed repairs applied
+  (Hermeneutic circle comma RESOLVED NO-OP — rendered PDF inspected, no comma
+  printed, OCR artifact; bare Sources entries removed on 4 pages; Hermeneutic
+  circle / The hermeneutic circle namespace KEEP BOTH + cross-linked per S104
+  precedent); QC samples: Midlevel terms PASS (Twohig-Levin quote verbatim vs the
+  cited USU carrier; residual risk RETIRED), Process-based therapy PASS scoped
+  (4/5 quotes verbatim vs a public book excerpt; Ch.10 quote rests on the w1m
+  ledger record — entry corrected per advisor). PASS 2 (commits 4dc55745..4b2069fd):
+  p1h FLAGS-BACKLOG DISPOSITION COMPLETE — all 32 'Reopened for QC' flags
+  dispositioned by per-item verification (every displayed blockquote on the
+  flagged pages re-verified against fresh fetches/downloads of its cited
+  carriers; each flagged defect confirmed absent or repaired). Advisor QC
+  round-3 SCOPED PASS after three repair rounds: (1) CO064 blockquote
+  extended to the source's complete sentence (truncated before); (2) AT063
+  Wiradhany paragraph re-verified vs direct PubMed 28840547 fetch; (3)
+  D014/D056/D061 inherited-parallels claim glosses reduced to bare references
+  per AF011/AF046/BI041 precedent, D061's uncited/unlinked bullet removed
+  outright; (4) 32 original allegations recovered from dd687e9d^ and preserved
+  in the state file; clearance framed as 32 SCOPED FLAG DISPOSITIONS
+  (predecessor-only evidence excluded). Full evidence in
+  docs/enrichment/sources/p1h/ledger.md (supervisor disposition batch + QC
+  repair rounds 2-3 + verdict). ALSO: w1q items 1-2 found ALREADY re-cleared
+  by worker-pplxy (advisor scoped PASS recorded in the w1q state); four w1m
+  QC-round-7 supervisor-review requests dispositioned KEEP BARE (86c4362c —
+  all nine link targets resolve; clauses would need unsupported claims).
+  NEXT SUPERVISOR ACTIONS: (1) flags backlog continues — next bands by open
+  count: w1h (52 raw, mostly resolved QC records needing open/closed
+  reclassification), w1g (49), p1zn (26), w1c (25), w1e (25); use the p1h
+  per-item method (no bulk closure; verify quotes + defect absence per flag);
+  (2) kpr holds: K396/K379 instruction provenance (Williams-Penman book from
+  the owner's Drive library), K112/K200 near-duplicate disposition stands;
+  (3) w1m holds pending owner disposition (see batches/w1m.json flagged);
+  Connectionism re-closed with the PDP quote; (4) w1i cross-band state entry
+  reconciliation (standing); (5) PROGRESS.md last refreshed 15:42Z.
 - WORKER CHECKPOINT w1m (2026-10-21 ~15:25Z, worker-w1m-f9f8e50d, session 10:42-15:25Z
   window, baton HELD until closeout): took the RELEASED w1m baton (55/70 done at
   takeover). 7 ITEMS ENRICHED AND DONE this session (Behaviorism theory-standard
