@@ -311,3 +311,18 @@
   is preserved in Sources as the compendium's line; no spaced-retrieval source was opened
   this session (nothing about it is claimed in the body).
 - QC cadence: item 8; next advisor milestone due at item 10.
+
+## Modesty norms research (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Cited-in D163). Validated --fast-track --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Du & Jonas 2015, Scand J Psychol 56(1):86-98
+  (PMID 25346396, located via esearch 'modesty self-enhancement cultural'; NOT guessed).
+  The Eastern-cultures location sentence, both study findings and the self-esteem
+  conclusion quoted verbatim from the abstract; the mortality-salience scope is stated
+  on the page (the effect appeared only when mortality was salient).
+- SCOPE: the seed's 'social perception' half is NOT covered by the opened record and is
+  not claimed in the body. The seed's general framing ('cultural expectations to downplay
+  one's achievements') is grounded by the opened study's norm location.
+- Related: Humility row's clause mirrors the Humility page's own existing backlink clause
+  ('the display-side cousin'); Terror management exists (deg 16) and is the theory the
+  study tests.
+- QC cadence: item 9; next advisor milestone due at item 10.
