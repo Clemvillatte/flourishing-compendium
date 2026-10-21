@@ -300,3 +300,26 @@ bar §1a applies per item where degree < 15; the first ten items all had < 15 co
 
 - sources_checked: 29. Next manifest item: 'Expectancy Violations Theory' (clean
   handoff, no in-progress item). All work pushed to origin/main; baton w1n held.
+
+## Advisor QC round 4 (milestone, items 14-29)
+
+- Advisor reviewed all pages drafted this session (items 14-29) and found systemic
+  issues: quote-initial capitalization mismatches; ellipsized non-contiguous spans
+  (Diathesis-stress, Embedded cognition, Evolutionary personality); paraphrase fused
+  into quotation marks (Diversion "the king surrounded by pleasure"); ungoverned
+  glosses ("necessary but not sufficient", "not bravado", "the activity produces
+  forgetting", "what is common is discounted", "the trap is mismatch of decay",
+  "the inner life as ecosystem", "persuasion durable vs fragile", "already halfway",
+  "pre-feel the future self"); evidence-scope errors (Emodiversity's mixed findings
+  omitted; Escape Theory's self-harm generalization; Exercise neurobiology's
+  "neurogenesis" seed gloss); unsupported related-concept glosses.
+- Repairs applied to all 16 pages: lineage/gloss claims deleted or bounded to
+  source wording; quote fragments corrected to exact substrings (incl. "Their
+  error", "Second," capitalization, nested-quote wording); Emodiversity now states
+  mixed findings verbatim; Escape Theory bounded to binge-eating evidence with
+  "lower body satisfaction" qualifier restored; Exercise neurobiology framed as
+  proposed mechanism with preliminary-evidence caveat; Equipment breakdown quotes
+  kept verbatim with lowercase-in-source fragments.
+- One validator catch during repair: Escape Theory lost one [[D133]] wikilink
+  occurrence (repeated-link counter) — restored as neutral linked-principle line.
+- All 16 repaired pages revalidated (--fast-track): 0 failed.
