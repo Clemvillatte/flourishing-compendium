@@ -1856,3 +1856,10 @@ Verification pass 40 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - P058: the Mead Mind, Self and Society p. 178 I/me passage matches the freshly downloaded archive.org Mead 1934 PDF verbatim in wording (the source's curly quotes rendered as straight — disclosed typographic class).
 - P061: both Rogers On Becoming a Person quotes match the freshly downloaded Panarchy excerpt verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 181 page-checks across 40 passes. Session ends; report follows.
+
+Verification pass 41 (worker-glmc4a — final): 4 principle pages — 2 PASS, 1 partial, 1 not reached.
+- P071: the Dewey Human Nature and Conduct Part II §2 impulse/habit passage matches the freshly downloaded standardebooks chapter-2-2 text verbatim.
+- P072: the Whitehead Process and Reality prehension sentence matches the freshly downloaded openml PDF verbatim in wording (the source's opening quote mark is OCR'd as "<" — extraction artifact, disclosed).
+- P073: the first quote ("We cannot change habit directly...") matches the freshly opened brocku.ca Part I §1 page verbatim; the second quote ("We can recognize that all conduct is interaction...") is cited as Introduction p. 10 — a different section (the Introduction page was not fetched this session), so it remains unverified. Partial: flagged.
+- P065 (James A World of Pure Experience): not verified this session (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 185 page-checks across 41 passes. Session ends; report follows.
