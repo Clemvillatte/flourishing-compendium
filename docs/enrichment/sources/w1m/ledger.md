@@ -413,3 +413,13 @@ quoted) to avoid single-extraction quote risk; residual risk recorded. Full
 1989 paper PDF not reachable this session (kent.edu author copy 404s;
 Scribd copy not used). Compendium ties written as comparisons from principle
 titles.
+
+## Connectionism (worker-w1m-f9f8e50d, session 2026-10-21 15:1xZ)
+Theory-page standard (network/computational form). Carrier: IEP
+"Connectionism" (iep.utm.edu, raw HTML fetched; all seven quoted strings
+substring-verified — the definition quote's tag-removal artifact "models ,
+known" is a cleaning artifact, the page text is verbatim). Compendium ties
+written as comparisons from principle titles; SE066 tie (error as learning
+signal) noted as the network's own logic. Related concepts limited to
+existing pages (Hebbian learning, Classical conditioning theory, Attention
+Schema Theory); neural-network/PDP/deep-learning pages do not exist.
