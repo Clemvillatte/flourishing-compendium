@@ -53,3 +53,5 @@
 ## R073 — responsiveness
 - Opened (search excerpts of the full text hosted at syllabus.pirate.care, an unofficial copy of Moral Boundaries; Bozalek et al. 2014 for page numbers; other secondary papers). Quotes verbatim from that copy. The copy's own page numbers were not visible; pp. 134-135 taken from Bozalek et al. (and Springer/other papers cite 135). The file's locator says pp. 127-130 — likely the four-phase section; supervisor may adjust to 134-136.
 - Seed Plain words ("willing to be answerable ... received as care") is a gloss; Tronto's text frames responsiveness around vulnerability/abuse and loss of autonomy. Page says so.
+## R074 — care for the dependent
+- Opened (search excerpts): SEP Feminist Ethics (win2015 archive) summarising Kittay 1999; IEP Care Ethics (quotes Kittay 1999 p. 113 principle). Kittay's own text and Tronto 2013 NOT opened — page says so. Seed "dependency is not deviation but norm" matches Kittay's argument; stated via SEP wording only. Suggest supervisor open Kittay ch. 3 on Taylor & Francis or a library copy.
