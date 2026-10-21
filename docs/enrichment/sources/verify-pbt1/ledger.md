@@ -60,3 +60,30 @@ re-checked. Chapter attributions consistent: book Ch 10 = file chapter 12 per pu
   confirmed vs the original paper.
 
 Ledger self-check: no band files, progress.json, queues, or story files were edited.
+
+## Round 2 (16:12Z) — w1aa quote-fidelity verification (released band, pages unverified by prior passes)
+
+Carriers opened fresh: davidhume.org Treatise Bk III Pt III (Hume Texts Online), peirce.org
+"The Fixation of Belief" full text, UMD-hosted PDF of Granovetter 1973 (AJS 78(6), pp. 1360-1380).
+
+1. Fellow feeling — blockquote ("As in strings equally wound up...") VERBATIM; all prose
+   paraphrases in "What Hume's account says" confirmed against the section (minds similar;
+   voice/gesture to lively idea; sympathy a very powerful principle producing the sentiment
+   of morals in the artificial virtues — all present in 3.3.1). DEFECT FOUND, ROUTED NOT
+   REPAIRED (no baton on w1aa; the cross-band edit was correctly blocked by the safety
+   system): the quote's locator says 3.3.1.1, but the passage sits in paragraph 7 per the
+   opened carrier — one-token repair (3.3.1.1 -> 3.3.1.7) requested for the supervisor or
+   w1aa band holder.
+2. Genuine doubt — blockquote ("Some philosophers have imagined... all discussion is idle.")
+   VERBATIM; prose claims confirmed (irritation of doubt as only immediate motive; uneasy
+   and dissatisfied state; the "extraneous to the facts" sentence is present in the essay
+   and faithfully paraphrased on the page).
+3. Granovetter — abstract blockquote VERBATIM vs the UMD PDF (line-wrap hyphenation only);
+   citation AJS 78(6) 1973 pp.1360-1380 confirmed; the closing prose sentence is a
+   near-verbatim compression of the paper's own two sentences ("From the individual's
+   point of view, then, weak ties are an important resource in making possible mobility
+   opportunity." / "Seen from a more macroscopic vantage, weak ties play a role in effecting
+   social cohesion.") — presented as paraphrase; no defect, noted as style-adjacent-to-verbatim.
+
+Result: 3/3 quotation fidelity PASS; 1 locator defect routed (Fellow feeling 3.3.1.1 should be 3.3.1.7).
+Ledger self-check: no band files edited this round.
