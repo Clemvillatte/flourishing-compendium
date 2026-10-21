@@ -85,3 +85,11 @@
   Wikipedia wikitext; Sources section added; wiring unchanged (B166/B168/B097 + resonates D077/PP047).
   FLAG: the current page's 'anger could be watched while stirring rice' line is not in the opened
   carriers; the prepared body drops it — restore only with a source. Supervisor: apply as-is or adapt.
+
+- 2026-10-21 ~13:0xZ, storyteller-pcx-7f3a2b1d: NOTED for the supervisor — s1f-002 (Einstein 1929 telegram
+  for P187, qc_pending) overlaps my registered ST431 (Einstein's Cosmic Religious Feeling, P187): both
+  use the 1929 Goldstein telegram and the 1930 essay. ST431 is registered and backlinked on P187; the
+  s1f draft's distinct angle (if any) is for the supervisor to reconcile before registering a second
+  Einstein-for-P187 page. Also for disposition: s1a-024 (Dipa Ma, B043) and s1a-027 (Oxherding, D065)
+  remain qc_pending, advisor scoped-PASS, checker-clean, ready for registration; s1a-023/025/026 are now
+  registered as ST430/ST431/ST432 with the backlinks in place (verified on the principle pages).
