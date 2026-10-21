@@ -46,10 +46,11 @@
   "SO008": "QC milestone 4 (advisor, corrected): the opened WHO page supports social influences on health but does not establish the principle's specific nesting relation between sociocultural and biophysiological levels; the page body now states only what the definition supports - statement-level review requested",
   "SO022": "Reopened for QC: QC recheck: narrow the competence criticism to the source's particular conception",
   "SO023": "Reopened for QC: QC recheck: OR limits to be stated in the body text",
-  "SO029": "Reopened for QC: QC milestone 4: definitional preference line; borrowed relational-bond wording; supply-was-toxic verdict"
+  "SO029": "Reopened for QC: QC milestone 4: definitional preference line; borrowed relational-bond wording; supply-was-toxic verdict",
+  "SO031": "post-push QC repair by second session: Hypothesis III misread as social distance corrected to opinion/ability difference; curated-feed claim relabelled as compendium framing from principle 76; example verdict removed; ledger corrected"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:41:24+00:00",
+ "updated": "2026-10-21T00:42:36+00:00",
  "band_done": false
 }

@@ -20,12 +20,12 @@ Festinger's theory makes comparison a structural feature of self-evaluation rath
 
 (Festinger 1954, "A Theory of Social Comparison Processes," Human Relations 7(2): 117-140, Hypotheses I and II; [full-text PDF reproduction](https://www.humanscience.org/docs/Festinger%20(1954)%20A%20Theory%20of%20Social%20Comparison%20Processes.pdf))
 
-Most of the questions that matter to a person have no gauge: am I a fair parent, a competent writer, a decent friend. Festinger's second hypothesis is the hinge of this principle: where no objective test exists, other people become the instrument. The instrument can be aimed well or badly. His Hypothesis III adds that the tendency to compare weakens as the other person grows more distant, which is the compendium's basis for treating curated highlight reels as a poor instrument: far enough from your life to misinform, near enough to sting.
+Most of the questions that matter to a person have no gauge: am I a fair parent, a competent writer, a decent friend. Festinger's second hypothesis is the hinge of this principle: where no objective test exists, other people become the instrument. The instrument can be aimed well or badly. His Hypothesis III adds that the tendency to compare oneself with a specific person decreases as the difference between that person's opinions or abilities and one's own increases. The compendium's own framing, from principle 76, is separate from the theory: feeds engineered around distant, curated lives change which comparisons are on offer, and that claim about the environment is not drawn from Festinger.
 
 **Plain words**
-You cannot check most of your qualities against a dial, so you check them against people. That makes "stop comparing" impossible advice; the practical question is whom you pick and what part of their life you see. A peer slightly ahead of you on the same road tells you something usable; a stranger's edited two minutes tells you nothing except that you feel behind.
+You cannot check most of your qualities against a dial, so you check them against people. That makes "stop comparing" hard advice to follow, and the practical question becomes whom you pick and what part of their life you see. A peer slightly ahead of you on the same road is a comparison that can teach; a stranger's edited two minutes is a selected sample of their life, not a measurement of yours.
 
-*For example:* Scrolling a feed of promotions and beaches, you compare your whole week to other people's selected best minutes. The compendium's framing (principle 76) is that the feed sets the instrument to upward and curated; managing comparison starts with noticing whose lives are doing the measuring.
+*For example:* Scrolling a feed of promotions and beaches, you compare your whole week to other people's selected best minutes, the situation principle 76 is about.
 
 ## Sources
 
@@ -33,8 +33,8 @@ You cannot check most of your qualities against a dial, so you check them agains
 ## Related concepts
 
 - [[Social comparison]] — Festinger's theory behind the double edge
-- [[Envy]] — the emotion upward comparison manufactures
-- [[Fragile vs secure high self-esteem (Kernis)]] — what repeated upward comparison builds
+- [[Envy]] — cited in the parallels alongside upward comparison
+- [[Fragile vs secure high self-esteem (Kernis)]] — the self-esteem distinction the parallels cite
 - [[Digital well-being]] — the curated-feed environment principle 76 targets
 
 ## Psychology parallels
