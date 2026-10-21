@@ -1055,7 +1055,7 @@ remain open pending per-item source verification):
 
 Scope: quotation fidelity only. No claim is made that any flagged defect is resolved.
 
-### A018 scoped disposition (2026-10-21 14:32Z, worker-verify-qcsup-67ce7e1d)
+### A018 scoped disposition (correction recorded at measured time 2026-10-21T14:32:59Z, worker-verify-qcsup-67ce7e1d)
 
 Flag: "Reopened for QC: repair: remove italic markers around example label."
 Observed (correction recorded at measured time 2026-10-21T14:31:36Z; the original inspection time was not separately measured): the current page text at
