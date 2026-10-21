@@ -968,3 +968,10 @@
   navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
   - RESOLVED same session: the 'weathering' sentence re-verified against the opened Eduteka
     PDF and confirmed present verbatim; no fix required; the page stands as written.
+
+## ITEM: Pearls before swine (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: Matthew 7:6, King James Version (Wikisource Bible), opened fresh — the verse
+  verified verbatim. The 'rule of fit rather than contempt' paragraph is the page's reading
+  of the seed's 'inverted as counsel' framing, marked as such. Related: Discernment of
+  spirits, Silence as evidence, Klesha transmuted into wisdom (navigational captions).
+  Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due.
