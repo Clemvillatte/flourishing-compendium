@@ -53,3 +53,8 @@ The [evidence ledger](EVIDENCE.md) records searches, fetched primary passages, r
   storyteller may not edit handoff.md (separation guard) — route via the lane ROUTE.md.
 - Corpus-check lesson recorded in EVIDENCE.md: search distinctive phrases, not topics;
   backlink principle titles match phrase searches without the story body carrying them.
+
+Cross-lane note: lane s1e drafted D045 (McClintock, expertise-kept/expectation-emptied) and
+D065 (Casals, daily return) stories. My s1b-012 (empty apartment, receptivity) and s1b-011
+(gem-in-the-robe, neglected resource) share those principles with entirely different
+narratives and angles; both pairs satisfy the taskboard's distinct-angle convention.
