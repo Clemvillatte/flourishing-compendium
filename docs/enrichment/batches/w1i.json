@@ -33,7 +33,8 @@
   "Worry theory cognitive avoidance Borkovec",
   "Akrasia (weakness of will)",
   "Anxiety about the future",
-  "Beneficial speech"
+  "Beneficial speech",
+  "Benign versus malicious envy"
  ],
  "in_progress": null,
  "flagged": {
@@ -49,6 +50,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:25:05+00:00",
+ "updated": "2026-10-21T06:26:11+00:00",
  "band_done": false
 }
