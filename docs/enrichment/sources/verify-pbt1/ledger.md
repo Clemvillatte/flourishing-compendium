@@ -602,3 +602,15 @@ ch. 10, PMC4592666 (Sarris et al 2015 World Psychiatry consensus statement).
    appears in the consensus statement body, which matches the page's framing).
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 31 (16:38Z) — w1ab quote-fidelity verification, seventh batch
+
+Carriers opened fresh: jamesclear.com/keystone-habits, Wikipedia "New Fire ceremony",
+Seligman Learned Optimism excerpt PDF (eduteka).
+
+1. Keystone habits — blockquote VERBATIM vs the opened James Clear article.
+2. New Fire ceremony — blockquote VERBATIM vs the Wikipedia lead (the page's bracketed
+   ellipsis normalises the removed parenthetical Nahuatl/Spanish names — acceptable).
+3. Optimism — blockquote VERBATIM vs the opened Seligman excerpt.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
