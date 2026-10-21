@@ -10,51 +10,17 @@
      "to": "researching"
     },
     {
-     "t": "2026-10-21T12:22:00+00:00",
+     "t": "2026-10-21T12:14:00+00:00",
      "to": "qc_pending",
-     "note": "story_check ok (draft context); advisor QC round 1"
-    }
-   ]
-  },
-  "s1d-002": {
-   "status": "researching",
-   "angle": "B133: Chiyono 'No water, no moon' - the self that carried the water breaks with the pail",
-   "history": [
+     "note": "advisor QC round 1"
+    },
     {
-     "t": "2026-10-21T12:11:00+00:00",
-     "to": "researching"
-    }
-   ]
-  },
-  "s1d-003": {
-   "status": "researching",
-   "angle": "D018: John Harrison's forty years of clocks H1-H4 - ripening work that cannot be hurried; careful at the end as at the beginning",
-   "history": [
-    {
-     "t": "2026-10-21T12:11:00+00:00",
-     "to": "researching"
-    }
-   ]
-  },
-  "s1d-004": {
-   "status": "researching",
-   "angle": "D006: Celilo Falls and the first salmon return - return to the root as a planned-for cycle, not a loss",
-   "history": [
-    {
-     "t": "2026-10-21T12:11:00+00:00",
-     "to": "researching"
-    }
-   ]
-  },
-  "s1d-005": {
-   "status": "researching",
-   "angle": "P057: the Wild Boy of Aveyron (Itard) - a self built out of human company",
-   "history": [
-    {
-     "t": "2026-10-21T12:11:00+00:00",
-     "to": "researching"
+     "t": "2026-10-21T12:17:51+00:00",
+     "to": "qc_pending",
+     "note": "round-1 fixes applied (provenance, quotes re-verified raw, mapping corrected); advisor QC round 2 returned source-fidelity fixes"
     }
    ]
   }
- }
+ },
+ "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane"
 }
