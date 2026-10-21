@@ -1658,3 +1658,12 @@ Verification pass 13 (worker-glmc4a — w1l released band, continued): 6 more pa
 - Ecological self: the Naess 1986 passage matches the opened Devall PDF verbatim.
 - Ego dissolution: the Letheby & Gerrans abstract opening matches the opened PMC6007152 page verbatim (source uses typographic quotes around 'I').
 Session total: 79 distinct pages verified (77 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 14 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Embodied emotion theory: the James 1884 sentence matches the already-opened SEP emotion entry verbatim (quote-of-a-quote); the Nature Scientific Reports embodied-theories sentence matches the freshly fetched nature.com article verbatim (initial miss was an HTML citation-anchor split).
+- Judging by where one rests: the Analects 2.10 Legge passage matches the ctext.org page verbatim (ctext blocked the sandbox fetch; verified via an alternate fetch path against the same cited URL).
+- Leisure: the Pieper stillness passage matches the cited iwcinsb.org PDF verbatim (PDF blocked the sandbox fetch with a 406; verified via an alternate fetch path against the same URL).
+- Mindful self-compassion programme: the Neff & Germer 2013 aim sentence matches PubMed 23070875 efetch verbatim.
+- Novelty seeking without commitment: the Verweij et al. 2010 Novelty Seeking sentence matches the opened PMC2963646 page verbatim.
+- Physician, heal thyself: the Luke 4:23 KJV passage matches the opened Bible Gateway page verbatim.
+Session total: 85 distinct pages verified (83 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
