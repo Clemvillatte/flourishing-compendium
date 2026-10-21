@@ -16,6 +16,8 @@ Emerson wrote that "Society everywhere is in conspiracy against the manhood of e
 
 Asch's experiments show how heavy the pressure is. On critical trials about one third of responses went along with a unanimous wrong majority, and about 75% of participants did so at least once ([Simply Psychology](https://www.simplypsychology.org/asch-conformity.html)). Most responses were still independent: 63.2% of responses said what the participant saw, and 29 of 123 never yielded ([Pioneers of Human Behaviour](https://pioneersofhumanbehaviour.com/solomon-asch/)). When one confederate gave the correct answer, conformity fell from about 32% to 5% ([Simply Psychology](https://www.simplypsychology.org/asch-conformity.html)). Standing alone costs more than standing with one other person.
 
+
+
 ### Scope
 
 I opened Emerson's lines through a quotation page, not the essay in full, and Asch through secondary summaries, not his 1956 monograph. "A crowd of two" is the compendium's phrase; Emerson does not use it in the lines I read. The suggested exercise is the compendium's.
