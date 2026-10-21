@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 31** — Learn self-forgiveness: release what cannot be changed
 
-Self-forgiveness is the capacity to acknowledge wrongdoing, make amends where possible, and then release the self-condemnation. It is distinct from excusing or forgetting; it is a deliberate release of ongoing self-punishment.
+Marcus grounds the release in the structure of time:
 
-**Plain words** Self-forgiveness: acknowledge the wrongdoing, make amends where possible, then release the self-condemnation. Not excusing or forgetting — a deliberate release. The debt gets paid once, not annually, forever.
+> All those things at which thou wishest to arrive by a circuitous road thou canst have now, if thou dost not refuse them to thyself. And this means, if thou wilt take no notice of all the past, and trust the future to providence, and direct the present only conformably to piety and justice.
 
-*For example:* The person who hurt a friend years ago, apologised, changed — and still runs the nightly tribunal — and the self-forgiveness work: the amends were real, the sentence is complete. The continued punishment isn't justice; it's a second crime with the same victim.
+(Marcus Aurelius, Meditations XII.1, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+
+He argues the point more sharply elsewhere: neither the future nor the past pains you, but only the present (Med. VIII.36, Long). The self-forgiveness the principle names works on the same structure: the wrongdoing is past, the amends are a present action, and the nightly tribunal is a present pain the person keeps re-issuing to themselves. Releasing it is not a verdict that the wrong was fine; it is declining to keep paying a present cost for what no present action can reach.
+
+**Plain words**
+The sequence is: acknowledge, amend where possible, then stop re-sentencing. The distinction from excusing is that the wrong stays named and the amends stay real. What is released is the repetition, not the record.
+
+*For example:* Imagine the person who hurt a friend years ago, apologised, changed, and still runs the nightly tribunal. The amends were real; the sentence is complete.
+
+## Sources
+
+- Marcus Aurelius, Meditations XII.1, VIII.36 (George Long translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
+
 ## Psychology parallels
 
 - **Self-forgiveness and well-being**, self-forgiveness is associated with better mental health and reduced rumination (Wohl et al., 2008; Davis et al., 2015)
@@ -30,4 +42,4 @@ Self-forgiveness is the capacity to acknowledge wrongdoing, make amends where po
 
 ## Practice
 
-- If you are carrying guilt or shame about a past action: (1) acknowledge what you did, (2) make amends if possible, (3) commit to doing better, (4) deliberately release the self-punishment. Holding it does not serve you or anyone.
+If you are carrying guilt or shame about a past action: acknowledge what you did, make amends if possible, commit to doing better, and deliberately release the self-punishment.

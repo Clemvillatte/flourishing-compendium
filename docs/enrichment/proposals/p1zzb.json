@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 14,
+ "revision": 16,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -145,6 +145,24 @@
    "link": "SE022",
    "why": "A principle on accepting what one is without approving or resigning to it",
    "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
+  },
+  {
+   "into": "Forgiveness",
+   "link": "SE031",
+   "why": "A principle on releasing past wrongs after acknowledgement and amends",
+   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
+  },
+  {
+   "into": "Shame",
+   "link": "SE031",
+   "why": "A principle on releasing past wrongs after acknowledgement and amends",
+   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
+  },
+  {
+   "into": "Rumination",
+   "link": "SE031",
+   "why": "A principle on releasing past wrongs after acknowledgement and amends",
+   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
   }
  ]
 }
