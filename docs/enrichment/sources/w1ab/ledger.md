@@ -975,3 +975,11 @@
   of the seed's 'inverted as counsel' framing, marked as such. Related: Discernment of
   spirits, Silence as evidence, Klesha transmuted into wisdom (navigational captions).
   Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due.
+
+## ITEM: Parsimony (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: IEP 'William of Ockham' entry (the same entry opened in the QC milestone for
+  Ockham's razor), opened fresh this pass — two passages verified verbatim (the
+  principle-of-simplicity/Ockham's-Razor passage; the nominalism 'concepts in the mind'
+  summary with the 'only individual substances and qualities' clause). Related: Ockham's
+  razor, Simplicity, Deliberate simplicity (navigational captions). Degree 1 — fast-track.
+  Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).

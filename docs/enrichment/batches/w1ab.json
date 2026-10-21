@@ -41,7 +41,8 @@
   "Nunc fluens",
   "Nutritional psychiatry",
   "Optimism",
-  "Pearls before swine"
+  "Pearls before swine",
+  "Parsimony"
  ],
  "in_progress": null,
  "flagged": {
@@ -71,7 +72,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:07:31+00:00",
+ "updated": "2026-10-21T14:08:03+00:00",
  "band_done": false,
  "new_concepts": [
   {
