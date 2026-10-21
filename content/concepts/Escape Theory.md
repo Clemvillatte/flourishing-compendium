@@ -11,7 +11,7 @@ Escape Theory is Roy Baumeister's account of escape from aversive self-awareness
 
 > "Within contemporary affect-regulation and escape models, binge eating is seen as a negatively reinforced strategy for regulating overwhelming or aversive emotions, temporarily attenuating self-awareness and negative affect through distraction, sensory soothing or numbing." (Joshua et al., [Clinical Psychology & Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13629275/))
 
-The escape runs away from self-evaluation toward the senses. "[S]econd, escape theory holds that eating serves to disengage individuals from aversive self-evaluations and acute stressors", and in that state "individuals with lower body satisfaction may use eating as a coping tool to redirect attention away from painful self-evaluations and toward immediate sensory experiences" (Li et al., [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC13581934/)). The pattern is negatively reinforced: it works for the moment, which is why it repeats.
+The escape runs away from self-evaluation toward the senses. As the study states: "Second, escape theory holds that eating serves to disengage individuals from aversive self-evaluations and acute stressors", and in that state "individuals with lower body satisfaction may use eating as a coping tool to redirect attention away from painful self-evaluations and toward immediate sensory experiences" (Li et al., [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC13581934/)). The pattern is negatively reinforced: it works for the moment, which is why it repeats.
 
 ### In the compendium
 

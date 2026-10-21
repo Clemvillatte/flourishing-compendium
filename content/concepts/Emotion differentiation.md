@@ -24,10 +24,6 @@ The skill is linked to regulation. Improving the "ability to identify and differ
 - [[Emodiversity theory]] — the breadth of the emotional life of which differentiation is the resolution
 - [[Emotion regulation]] — the downstream benefit
 
-## Other formulations in this library
-
-- (Barrett et al., 2001), predicts regulation success
-
 ## Field
 
 Affect · Psychological science

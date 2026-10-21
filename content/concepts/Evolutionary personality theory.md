@@ -11,7 +11,7 @@ Evolutionary personality theory asks why human trait variation persists at all. 
 
 > "Nettle (2006) proposed concrete cost-benefit trade-offs associated with five of the major dimensions of personality variation in humans. For example, he proposed that high extraversion conferred the benefits of greater mating and social success, which were balanced by increased risk of accident and injury due to greater novelty seeking behaviour." (Verweij et al. 2012, [Evolution](https://pmc.ncbi.nlm.nih.gov/articles/PMC3518920/))
 
-On this view a trait level is a strategy with costs attached, not a defect or an ideal. Variation would then be maintained rather than depleted under balancing selection — for example by pressures that "fluctuate over time and space", "differ between the sexes", or "favour rarer trait values (negative frequency-dependent selection)". This is a proposed mechanism; the paper's own tests of which model explains human personality variation remain its empirical question.
+On this view a trait level is a strategy with costs attached, not a defect or an ideal. Variation would then be maintained rather than depleted under balancing selection — for example by pressures that "fluctuate over time and space", "differ between the sexes", or "favour rarer trait values (negative frequency-dependent selection)". These fragments state the paper's framing of Nettle's proposal; the study's own findings were not extracted for this entry.
 
 ### In the compendium
 

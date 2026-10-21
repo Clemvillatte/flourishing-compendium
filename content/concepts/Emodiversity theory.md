@@ -29,7 +29,6 @@ Affect · Psychological science
 
 ## Sources
 
-- Oishi, Keltner
 - [Wright, Jones & Johnson, Emodiversity Among U.S. Emerging Adults, Behavioral Sciences (PMC12838163)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12838163/) — opened source; quotes verbatim
 
 ## Cited in philosophy parallels

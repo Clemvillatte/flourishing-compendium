@@ -323,3 +323,23 @@ bar §1a applies per item where degree < 15; the first ten items all had < 15 co
 - One validator catch during repair: Escape Theory lost one [[D133]] wikilink
   occurrence (repeated-link counter) — restored as neutral linked-principle line.
 - All 16 repaired pages revalidated (--fast-track): 0 failed.
+
+## Advisor QC final round (verification pass, items 14-29)
+
+- Advisor re-review after repairs found residual issues; fixed in this round:
+  bracket-convention quote alterations ([S]econd, [r]esults) replaced by sentence
+  restructures retaining source capitalization; "The numbers are famous" and
+  "Metacognition/intellectual-humility" glosses removed from Dunning-Kruger;
+  unverified "Oishi, Keltner" attribution removed from Emodiversity Sources;
+  Barrett-2001 "predicts regulation success" duplicate formulation dropped from
+  Emotion differentiation; Evolutionary-personality closing speculation replaced
+  with an honest note that the study's own findings were not extracted.
+- QC-record correction: advisor reviews this session were held at items 1, 5 and
+  10, followed by this consolidated late review of items 14-29 (two rounds).
+  The earlier ledger/TASKBOARD claim of an item-15 milestone review was an error;
+  the cadence was NOT maintained at item 15.
+- All touched pages revalidated (--fast-track): 0 failed.
+- Open items for the next worker: extract and record PMC3518920's actual Results
+  for Evolutionary personality theory (intro framing only is quoted); verify
+  pre-enrichment baselines for front matter/links are not needed beyond HEAD
+  comparison already done at first validation of each page.

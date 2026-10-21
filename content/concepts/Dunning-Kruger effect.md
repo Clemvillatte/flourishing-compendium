@@ -11,7 +11,7 @@ The Dunning-Kruger effect is the finding, from Kruger and Dunning's four studies
 
 > "Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it." (Kruger & Dunning 1999, [JPSP 77(6):1121-1134, PubMed 10626367](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10626367&rettype=abstract&retmode=text))
 
-The numbers are famous: "Although their test scores put them in the 12th percentile, they estimated themselves to be in the 62nd." The authors link this miscalibration to deficits in "metacognitive skill, or the capacity to distinguish accuracy from error". They also report that "improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities".
+In their four studies, "Although their test scores put them in the 12th percentile, they estimated themselves to be in the 62nd." The authors link this miscalibration to deficits in "metacognitive skill, or the capacity to distinguish accuracy from error". They also report that "improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities".
 
 ### In the compendium
 
@@ -21,9 +21,9 @@ The numbers are famous: "Although their test scores put them in the 12th percent
 
 ## Related concepts
 
-- [[Metacognition]] — the skill whose absence produces the effect
-- [[Intellectual humility]] — its corrective disposition
-- [[SE015]] — the discipline of comparing self-estimates with inspectable results
+- [[Metacognition]]
+- [[Intellectual humility]]
+- [[SE015]]
 
 ## Field
 

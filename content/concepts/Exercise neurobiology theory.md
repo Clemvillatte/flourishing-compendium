@@ -11,7 +11,7 @@ Exercise neurobiology theory is a proposed explanation for why moving the body c
 
 > "Consistent evidence indicates that exercise improves cognition and mood, with preliminary evidence suggesting that brain-derived neurotrophic factor (BDNF) may mediate these effects." (Szuhany et al. 2015, [Journal of Psychiatric Research, PubMed 25455510](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25455510&rettype=abstract&retmode=text))
 
-The numbers behind that summary: across 29 studies and 1111 participants, "[r]esults demonstrated a moderate effect size for increases in BDNF following a single session of exercise (Hedges' g = 0.46, p < 0.001)", and "regular exercise intensified the effect of a session of exercise on BDNF levels". The mediation itself is described in the review as preliminary evidence, not a settled mechanism.
+The numbers behind that summary: the meta-analysis covered 29 studies and 1111 participants, and reports that "Results demonstrated a moderate effect size for increases in BDNF following a single session of exercise (Hedges' g = 0.46, p < 0.001)". The same review reports that "regular exercise intensified the effect of a session of exercise on BDNF levels". The mediation itself is described in the review as preliminary evidence, not a settled mechanism.
 
 ### In the compendium
 
