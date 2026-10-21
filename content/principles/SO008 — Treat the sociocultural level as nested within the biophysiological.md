@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 8** — Treat the sociocultural level as nested within the biophysiological
 
-The WHO states the nesting plainly:
+WHO describes social conditions as influences on health:
 
 > Social determinants of health – broadly defined as the conditions in which people are born, grow, live, work and age, and people's access to power, money and resources – have a powerful influence on health inequities.
 
 (WHO, Social determinants of health, topic page; [who.int](https://www.who.int/health-topics/social-determinants-of-health))
 
-Sleep, food, stress and movement are conditions of daily life in exactly that sense: they happen in a household, a workplace, a neighborhood. The page also names structural drivers of those conditions of daily life, such as macroeconomic and urbanization policies and governance, so the influence runs from structure to daily life to body. The principle statement's practical reading: interventions aimed at the conditions of daily life are aimed at the biophysiological level by another route.
+The definition names both the conditions in which people live and people's access to power, money and resources. One suggested application is to treat a habitual bodily process such as eating or sleeping as part of a social arrangement, and to consider the social context when examining such a process.
 
 **Plain words**
-Your biology runs on social rails: sleep, food, stress and movement all happen in a social world. The family that eats together or alone, the job that permits rest or doesn't, are the landlords of your body's habits. Fix the lease where you can.
+Consider your circumstances when planning any behaviour. Identify people or institutions that influence those circumstances.
 
-*For example:* Imagine the insomniac who fixes their sleep by fixing their evening: the household quiet hours were the treatment, and the melatonin was fighting the architecture.
+*For example:* Imagine an office that moved an important weekly meeting, making a nightly preparation task harder to schedule.
 
 ## Sources
 
