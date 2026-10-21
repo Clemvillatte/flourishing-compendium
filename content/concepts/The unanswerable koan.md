@@ -17,6 +17,16 @@ Mumon's own comment connects realization with passing the barrier of the patriar
 
 > "To realize Zen one has to pass through the barrier of the patriarchs. Enlightenment always comes after the road of thinking is blocked." (same page)
 
+The comment also guards against reading Mu as a mere negative: "Do not believe it is the common negative symbol meaning nothing. It is not nothingness, the opposite of existence" (same page). The work it asks for is described without comfort:
+
+> "If you really want to pass this barrier, you should feel like drinking a hot iron ball that you can neither swallow nor spit out." (Mumon's comment, same page)
+
+Mumon's verse sets the trap the whole case turns on:
+
+> "Has a dog Buddha-nature? / This is the most serious question of all. / If you say yes or no, / You lose your own Buddha-nature." (Mumon's verse, same page)
+
+The instruction that accompanies it: "Just concentrate your whole energy into this Mu, and do not allow any discontinuation" (same page). What makes the koan unanswerable is that both answers are wrong — the case is built to exhaust the yes/no road rather than to be settled by it, and the compendium's principles use it exactly so: let the question you cannot answer do its work, and let the doubt become great rather than be closed early.
+
 ### In the compendium
 
 - [[K013 — Let the questions you cannot answer do their work]]
