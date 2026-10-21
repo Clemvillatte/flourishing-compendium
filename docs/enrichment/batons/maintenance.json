@@ -81,5 +81,7 @@
    "from": "worker-verify-cde63853",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T14:39:32+00:00"
 }
