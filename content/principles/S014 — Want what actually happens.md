@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 
 Do not wish for things to be other than they are. The person who wants reality to conform to their desires is perpetually frustrated. The person who wants reality as it is has no frustration. Practise the reframing: "this is what I wanted," meaning, "this is what nature has produced, and I accept it."
 
-(Disc. I.12, I.17; Med. IV.10, VIII.50; Seneca, On Providence.)
+(Ench. 8; Disc. I.12; Med. X.5; Seneca, On Providence.)
 
 ### The instruction and the appointment
 
@@ -41,6 +41,7 @@ Marcus gives the cosmology behind it:
 - [Epictetus, Enchiridion 8 (tr. Higginson), Project Gutenberg](https://www.gutenberg.org/files/45109/45109-h/45109-h.htm): the demand and the wish
 - [Epictetus, Discourses I.12 (tr. Higginson), Wikisource](https://en.wikisource.org/wiki/The_Works_of_Epictetus,_His_Discourses,_in_Four_Books,_the_Enchiridion,_and_Fragments/Book_1/Chapter_12): learning to desire that things happen as they do
 - [Marcus Aurelius, Meditations X.5 (tr. George Long), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-h/2680-h.htm): appointed from all time
+- [Seneca, On Providence (tr. Aubrey Stewart, 1900), Wikisource](https://en.wikisource.org/wiki/Of_Providence): nothing comes to pass without reason; providence reconciles the good man to what the universe appoints
 
 ## Stories
 
