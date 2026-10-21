@@ -22,6 +22,9 @@ The surprising move is what Dewey does with this. He refuses to separate the chi
 
 *For example:* Two people want to learn negotiation. One reads three books and watches a course. The other buys one bad used car, overpays, and notices exactly what happened in the moment they folded. A year later the second person is still the better negotiator — the books are still describing something the first person has not yet had happen to them.
 
+## Stories
+- [[ST383 — Half an Hour with Cotton Seeds|383. Half an Hour with Cotton Seeds]]
+
 ## Psychology parallels
 
 - **[[Experiential learning|Experiential learning cycle]]**, concrete experience, reflection, conceptualization, experimentation (Kolb, 1984)

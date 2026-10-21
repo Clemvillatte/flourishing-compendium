@@ -38,7 +38,7 @@ The text speaks of bodies, plants, armies and trees. Extending it to opinions an
 
 ## Stories
 - [[ST375 — John Muir Rides the Storm in a Treetop|375. John Muir Rides the Storm in a Treetop]]
-
+- [[ST384 — The Tree Is Spared; the Goose Is Killed|384. The Tree Is Spared; the Goose Is Killed]]
 ## Psychology parallels
 
 - **[[Psychological flexibility|Psychological flexibility]]**, Kashdan and Rottenberg (2010) review evidence that flexibility processes "are absent" in many forms of psychopathology. [Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)

@@ -403,6 +403,11 @@
      "t": "2026-10-20T14:30:45+00:00",
      "to": "qc_pending",
      "note": "Primary source drafted and checker green; independent milestone QC requested"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -423,6 +428,11 @@
      "t": "2026-10-20T14:34:11+00:00",
      "to": "qc_pending",
      "note": "Complete source audit and checker green; independent review blocked by exhausted reviewer credits"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -453,6 +463,11 @@
      "t": "2026-10-21T11:30:20+00:00",
      "to": "qc_pending",
      "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -473,6 +488,11 @@
      "t": "2026-10-21T11:22:15+00:00",
      "to": "qc_pending",
      "note": "advisor QC round 2: repairs applied; scan-locator verification hold + off-slice scope hold"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -503,6 +523,11 @@
      "t": "2026-10-21T11:31:45+00:00",
      "to": "qc_pending",
      "note": "advisor round 2: scoped PASS on reviewed prose and mapping; qc_pending retained for supervisor scope disposition"
+    },
+    {
+     "t": "2026-10-21T12:26:23+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -582,5 +607,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:25:38+00:00"
+ "updated": "2026-10-21T12:26:23+00:00"
 }

@@ -22,6 +22,9 @@ The practical consequence is that "act confident" is not a cliché; it is the co
 
 *For example:* Two people are both dreading a difficult phone call. One waits for the courage to arrive; it does not, and the call is not made. The other dials the number with the same dread, and speaks the first sentence while still dreading it. The courage never arrived; the call got made anyway. That is the whole mechanism: the action was never waiting on the feeling.
 
+## Stories
+- [[ST386 — Duchenne's Two Kinds of Smile|386. Duchenne's Two Kinds of Smile]]
+
 ## Psychology parallels
 
 - **Facial feedback hypothesis**, expression may influence emotional experience, though effect sizes are debated (conceptual parallel; see Strack et al., 1988; Wagenmakers et al., 2016)

@@ -32,7 +32,7 @@ Imagine a client calling an invoice dishonest. Ask which charge they dispute. Co
 
 ## Stories
 - [[ST357 — The Tiger Keeper's Advice to Yan He|357. The Tiger Keeper's Advice to Yan He]]
-
+- [[ST385 — Han Xin Crawls Beneath the Butcher's Youth|385. Han Xin Crawls Beneath the Butcher's Youth]]
 ## Psychology parallels
 
 - **[[Nonviolent communication|Nonviolent communication]]**, observation, feeling, need, request defuses attack (Rosenberg, 2003)

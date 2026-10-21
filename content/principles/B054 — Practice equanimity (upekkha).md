@@ -23,6 +23,9 @@ The sutta's difference between the well-instructed and the uninstructed person i
 
 *For example:* A trader watching green and red days can welcome the green and rebel against the red, or watch both as inconstant. That illustration applies the sutta's distinction; it is not a claim the sutta makes about traders.
 
+## Stories
+- [[ST387 — Ciñcā Accuses the Buddha Before the Assembly|387. Ciñcā Accuses the Buddha Before the Assembly]]
+
 ## Psychology parallels
 
 - **[[Equanimity|Equanimity as a trainable outcome of contemplative practice]]** (Desbordes et al., 2014)
