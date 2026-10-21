@@ -16,7 +16,7 @@ A review of habit breaking distinguishes stopping a habitual behaviour from chan
 
 > "Habit substitution requires the concurrent degrading of an old habit and formation of a new habit; the unwanted existing response to a habit cue must be inhibited so that the new, desired response may be enacted." (Gardner et al., 2021, Appetite 162, 105183, accepted manuscript, p. 13)
 
-The mechanism the review describes is competition between associations: "As the new association strengthens, the new action (eating an apple) acquires dominance over the old (eating chocolate), such that encountering the cue habitually triggers the newer, wanted behaviour" (p. 8). The process "entails both the inhibition of old habit responses, and the formation of new habits", and the review gives it a second name, "habit substitution, or 'habit reversal'" (p. 8), the competing-response technique catalogued under [[Habit reversal theory Azrin]]. Despite this, the technique is rare in practice: in the authors' analysis, "Habit reversal was identified in only five (4%) of the 130 interventions", which they read as a failure "to recognise the potential for unwanted habit associations to undermine long-term weight maintenance" (p. 13).
+The mechanism the review describes is competition between associations: "As the new association strengthens, the new action (eating an apple) acquires dominance over the old (eating chocolate), such that encountering the cue habitually triggers the newer, wanted behaviour" (p. 8).
 
 **Plain words** Identify the situation in which you usually do the thing you want to change. Choose an alternative you can practise when that situation recurs. Notice whether you still feel prompted to do the old thing.
 
@@ -24,10 +24,10 @@ The mechanism the review describes is competition between associations: "As the 
 
 ## Sources
 
-- [Gardner, B., Richards, R., Lally, P., Rebar, A., Thwaite, T., & Beeken, R. (2021). Breaking habits or breaking habitual behaviours? Old habits as a neglected factor in weight loss maintenance. Appetite, 162, 105183 — author accepted manuscript via UCL Discovery (quotes from pp. 8 and 13)](https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf) — the manifestation-versus-association distinction, the habit-substitution definition, the apple-dominance mechanism, the habit-reversal synonym and the five-of-130 finding
+- [Gardner, B., Richards, R., Lally, P., Rebar, A., Thwaite, T., & Beeken, R. (2021). Breaking habits or breaking habitual behaviours? Old habits as a neglected factor in weight loss maintenance. Appetite, 162, 105183 — author accepted manuscript via UCL Discovery (quotes from pp. 8 and 13)](https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf) — the manifestation-versus-association distinction, the habit-substitution definition and the apple-dominance mechanism
 ## Psychology parallels
 
-- **Habit substitution**, replacing habits is more effective than elimination (Wood & Neal, 2007; Gardner, 2015)
+- **Habit substitution** (Wood & Neal, 2007; Gardner, 2015)
 - **Replacement behaviours**, substituting an alternative that serves the same function (Duhigg, 2012; Clear, 2018)
 
 ## Philosophy parallels
