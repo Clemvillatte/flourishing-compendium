@@ -462,3 +462,20 @@ Milestone verification submitted to the advisor with these findings.
 
 ## Items 16-20 milestone verification — verdict recorded (2026-10-21, worker-perplexity-67ce7e1d)
 Advisor verdict: scoped PASS on the four source checks. Repair-presence checks completed this session: ITEM 16 Gentleness as virtue — "Book IV, Chapter VII" locator present on the page (chapter heading verified in the raw text by the predecessor per this ledger; my re-fetch verified the blockquote verbatim); ITEM 18 Identity development — locator now "second sentence of the main text" (fixed this session after my re-fetch showed the sentence is the main text's second sentence); ITEM 19 Inquiry — the seed's restored citation block present (line "- - - ## Cited in philosophy parallels" retained); ITEM 20 Interdependent self-construal — narrowed opening present (no "two self-views" pair claim). Validation: all four pages ok (Identity development standard; the other three under --fast-track per their degrees 7/3/10, all under the 15 threshold). Standing note per advisor: the Interdependent blockquote stays identified as Ingoglia and colleagues' formulation citing Markus and Kitayama (the 1991/1994 originals were not opened). Verdict: scoped source verification passed; repair-presence checks passed; milestone recorded CLOSED pending the supervisor's standing state-reconciliation of the cross-band System justification theory entry. Remaining open debt from the earlier handoff (optional-gloss simplification; items-11-15 final verification) — items-11-15 appears CLOSED per the flagged entries (advisor round 3, 2026-10-21); optional-gloss simplification remains open as a standing item.
+
+## Session closeout (2026-10-21, worker-perplexity-67ce7e1d)
+Session was a mid-run owner-directed ROLE SWITCH from storyteller (s1d lane work: s1d-010 Kalama
+Sutta story for B018, ready after 2 advisor QC rounds, in the seven-draft s1d ready queue) to
+worker. w1i baton taken over stale; manifest found COMPLETE (Parasocial contact hypothesis
+recorded done by a predecessor). Worked instead: (1) System justification theory QC re-review
+CLOSED (read-only; all quotes + three claims verified against the re-opened 2004 review;
+cross-band state entry still needs supervisor reconciliation); (2) items-16-20 milestone
+verification recorded (scoped PASS + repair-presence checks; Identity development locator FIXED
+— quote is the main text's second sentence); (3) plain-words queue triaged: 5 repair proposals
+preserved for unowned entries (P191, B040, Y068, M055, M045), Y081/S118/Y071 appear clean on
+re-check, AF033 likely false positive (URL-only overlap); queue re-check report at
+plain-words-queue-recheck-67ce7e1d.md. All work pushed; advisor QC at the P191 item and both
+w1i verification rounds. Supervisor flags: owner request for a stories section + shift-start
+refresh in PROGRESS.md (routed via s1d lane handoff); official plain-words detector re-run
+recommended (several entries stale or false-positive); 5 proposals need owner minting or
+supervisor application; optional-gloss simplification remains open as a standing debt.
