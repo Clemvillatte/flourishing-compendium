@@ -192,3 +192,7 @@ damage, w1ab left to its live holder.
 
 ## Verification pass addendum 2 — OpenAIRE carrier reopened
 - Re-fetch of the OpenAIRE page (oamonitor.ireland.openaire.eu, DOI 10.2307/2391831) with raw HTML this time rendered the Hickson et al. 1971 abstract in the page's meta description tags. Both blockquotes on the Strategic Contingencies Theory page re-verified VERBATIM by substring against the saved raw HTML (output_64e0792133c84ff4b0cdf184ffab39a3.txt). The OpenAIRE JS-rendering limitation is CLOSED. Both previously-recorded carrier-verification limitations for this band are now closed; all 10 pages' quotes are verified against opened carriers.
+
+## Verification pass addendum 3 — Super's carriers reopened
+- OpenAIRE page for Super 1980 (DOI 10.1016/0001-8791(80)90056-1) re-fetched with raw HTML: all three abstract blockquotes on the Super's Life-Span, Life-Space Theory page verified VERBATIM by substring against the saved raw HTML (output_b383602bd0f3408aaf7a1ad4fb8f46a6.txt). NCDA article re-fetched: the fourth blockquote ("The simultaneous combination of life roles constitutes the lifestyle...") confirmed verbatim, attributed to Super 1990 p. 288 as the page cites.
+- FINAL VERIFICATION STATUS: every blockquote on all 10 w1q pages this session is verified against an opened carrier. 10/10 pages pass --fast-track validation; build clean (5842 entries); working tree clean; all commits pushed to origin/main.
