@@ -1,3 +1,31 @@
+- WORKER CHECKPOINT w1ab (2026-10-21 11:25Z, worker-w1ab-2e9d1a4f, T+60 REPORT DUE
+  11:42:10Z — reporting checkpoint; baton HELD, work continues while the session lives):
+  session window 10:42-11:42Z. MANIFEST∩DONE = 23/70 (was 13 at takeover; +10 this window:
+  Measure (mesure), Mind-life continuity, Misinformation effect, Modesty norms research,
+  Moral dilemmas, Morphology, Multiple Trace Theory of Memory, Nembutsu recitation,
+  Ockham's razor, Obedience research). 7 HELD OUT OF DONE (bounded WIP, ledger +
+  concept-namespace-audit.md entries): Meditation neurobiology theory Lazar, Memorized
+  coping statements in CBT, Microbiome theory, Mixed emotions theory Miyamoto, Mnemonics
+  and the availability of internalized text, Movement snacks (LABEL hold: opened record
+  establishes 'exercise snacks', Jenkins et al. 2019 PMID 30649897), Needs-based
+  intervention sequencing. Predecessor holds untouched: Marmot, Meyer, Means as end.
+  QC: item-1 advisor round; items-2-5 milestone (3 rounds); items-6-10 milestone (2
+  rounds); items-11-15 milestone CLOSED (2 rounds; round-2 verdicts: all five scoped
+  PASS; Movement snacks + Needs-based remain held). Items 16-17 (Ockham's razor,
+  Obedience research) done AFTER the closed milestone — their advisor QC is DUE at the
+  next 5-item boundary with the next worker's batch. All quotes verbatim from opened
+  carriers; all pages validated --fast-track --base 4b2bebc4f, 0 failures; every save
+  pushed via api_push.py (plain git push broken in sandbox) and verified on origin.
+  EXACT NEXT ACTION for the next w1ab worker: run the round-3 QC submission for Ockham's
+  razor + Obedience research (bodies + ledger entries in docs/enrichment/sources/w1ab/
+  ledger.md), then continue the manifest in order — remaining head-of-queue items:
+  Neuroaesthetics, Neurobiology of addiction, Neurogenesis theory, Neuroplasticity,
+  New Fire ceremony, Nomadology, Non-abiding, Non-retaliation, Non-seeking, Non-striving,
+  Noogenic neurosis, Not-one-not-two, Novelty research, Nudge theory Thaler, Nunc fluens,
+  Nutritional psychiatry (then the tail). Standing repair patterns are documented in the
+  ledger; the AT063 anomalous-link finding (concept Field block links AT063; AT063's page
+  does not name the theory) is recorded in the ledger, not on the public page.
+
 - WORKER CHECKPOINT w1m (2026-10-21 ~11:18Z, worker-w1m-5f8e3a2b, T+60 REPORT DUE 11:42:57Z
   — reporting checkpoint; baton HELD, work continues while the session lives): took over the
   STALE w1m baton (10/70 done at takeover). 6 CONCEPTS ENRICHED AND DONE THIS SESSION
