@@ -65,7 +65,7 @@
  "in_progress": null,
  "flagged": {
   "D074": "supervisor scoped verification (2026-10-21 15:55Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — the application is practical and scoped ('decide what needs resolving before choosing how to reply'); no inference overreach; the DDJ 68 Legge quote is present. Per the p1f ledger (milestone QC).",
-  "B006": "Reopened for QC: QC r2: traffic example",
+  "B006": "supervisor scoped verification (2026-10-21 15:57Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — the traffic example is properly scoped ('Observe that desire while deciding what practical action, if any, is needed'); no causal overreach. Per the p1f ledger (QC r2).",
   "B043": "Reopened for QC: milestone QC: inference beyond source",
   "B053": "Reopened for QC: QC r2: plain words",
   "B054": "Reopened for QC: milestone QC: plain words repeat",
@@ -94,6 +94,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-21T14:56:07+00:00",
+ "updated": "2026-10-21T14:56:26+00:00",
  "band_done": true
 }
