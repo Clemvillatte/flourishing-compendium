@@ -72,3 +72,6 @@
 
 ## MO029 — Temptation bundling
 - Opened: Milkman/Minson/Volpp 2014 abstract (RePEc, plus Wharton Knowledge article in search results); Kirgios et al. 2020 abstract (RePEc). Schwartz et al. 2014 (seed co-citation for gym attendance) not opened/verified; flagged. Decay of effect and small marginal benefit of encouragement disclosed.
+
+## MO031 — Increase friction
+- Opened: Hollands et al. 2019 Cochrane abstract (PubMed) + discussion excerpt (Cochrane Library); Wood & Neal 2007 abstract (PubMed); FLoRA atlas entry on Ward et al. 2017 (2 failed replications recorded; Ruiz Pardo & Minda cited via search excerpt). Thaler & Sunstein 2008 and Gardner 2015 unopened. Seed "ten seconds of annoyance is often all the defence you need" unsupported -> dropped.
