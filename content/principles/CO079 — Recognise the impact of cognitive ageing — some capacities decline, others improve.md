@@ -28,7 +28,7 @@ The compendium's application, and its own: take stock of which of your abilities
 - Hartshorne, J. K., & Germine, L. T. (2015). [When does cognitive functioning peak? The asynchronous rise and fall of different cognitive abilities across the life span](https://europepmc.org/article/MED/25770099). Psychological Science, 26(4), 433-443. Abstract retrieved via Europe PMC REST (PMID 25770099) and quoted verbatim.
 ## Psychology parallels
 
-- **[[Cognitive ageing|Cognitive ageing]]**, processing speed and fluid intelligence decline from the 20s-30s; crystallised intelligence and vocabulary continue to improve into the 60s-70s (Salthouse, 2004; Hartshorne & Germine, 2015)
+- **[[Cognitive ageing|Cognitive ageing]]**, processing speed and some fluid abilities decline from the 20s-30s, while other abilities do not peak until the 40s or later (Salthouse, 2004; Hartshorne & Germine, 2015)
 - **Cognitive reserve protects against decline**, education, engagement, and intellectual activity build reserve (Stern, 2002; Lövdén et al., 2010)
 - **[[Positivity effect|Positivity effect in older adults]]**, older adults attend more to positive and less to negative information (Carstensen et al., 2003; Reed & Carstensen, 2012)
 
