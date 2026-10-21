@@ -61,3 +61,7 @@
 ## R069 — Practise care as a practice, not a feeling
 - Opened (excerpts): ANA guide chapter, Oxford ORA mobility-of-care paper, BMC Med Ethics 2026, PMC nurses study, PMC eating care-ethics paper, ERIC record of Goetz et al. 2010 abstract. Tronto 1993/2013 unread.
 - Seed "feeling is optional": not supported (caring about includes concern per secondary readings). Goetz 2010 is a review, not 'compassion training' (label retained, flagged). Fifth phase 'caring with' noted.
+
+## R075 — Practise care as political
+- Opened (excerpts): Democratic Theory article on Caring Democracy, ILO Care work and care jobs (76.2%, 3.2x), ILO resolution, Marmot 2005 abstract (PubMed). Held 2006, Tronto 2013, Noddings 2002 unread.
+- Marmot parallel is loose (health inequalities, not care labour) — disclosed. Fairness is a value claim; data show distribution only.
