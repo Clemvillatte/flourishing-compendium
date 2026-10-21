@@ -472,3 +472,14 @@ damage, w1ab left to its live holder.
   Related link points to this session's enriched page. Validator ok against baseline
   52f909001 (1 warn: 1 Related line, fast-track bar). QC-pending for the next
   milestone.
+
+## THE PEACE THAT PASSES UNDERSTANDING — 2026-10-21T16:06Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Carrier: Biblehub Philippians 4:7 (KJV), raw download;
+  the verse substring-verified. The phrase is the KJV's own rendering, so no Category C
+  flag; the page notes the heading is the King James wording of the verse. The
+  "garrison" gloss is flagged as interpretation ("the image of the verse is of a
+  garrison" — framed as reading, based on "shall keep").
+- SP089/SP051/SP048/Y132 clauses kept to what those pages carry; dawn-and-lamp
+  Related link points to this session's enriched page (the Gita "call that state
+  'peace'" passage it quotes). Validator ok against baseline b1b5488c0 (1 warn: 1
+  Related line, fast-track bar). QC-pending for the next milestone.
