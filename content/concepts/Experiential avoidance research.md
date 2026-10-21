@@ -19,12 +19,13 @@ In the study's own data, from 240 analyzed participants recruited at Spanish com
 
 ## Related concepts
 
-- [[Acceptance]] — the ACT alternative to experiential avoidance: embrace of unwanted inner experience without attempts to change its form or frequency
-- [[Cognitive defusion]] — changes the relationship to thoughts rather than arguing with their content
-- [[Exposure processes]] — the clinical countermove: repeated approaching of feared stimuli, adding learning that contradicts the avoidance
-- [[Chronic pain research]] — one domain where avoidance of pain and its costs are measured
-- [[Focusing]] — Gendlin's method of attending to bodily experience before it has words, rather than away from it
-- [[Psychological flexibility]] — the broader capacity to contact the present moment and persist or accept as values require
+- [[Acceptance]] — listed for comparison
+- [[Cognitive defusion]] — listed for comparison
+- [[Exposure processes]] — listed for comparison
+- [[Chronic pain research]] — listed for comparison
+- [[Focusing]] — listed for comparison
+- [[Experiential avoidance theory]] — the construct's theoretical account
+- [[Psychological flexibility]] — listed for comparison
 
 ## Sources
 

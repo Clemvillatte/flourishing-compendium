@@ -38,11 +38,11 @@
   "Katastematic pleasure",
   "Legacy motivation research",
   "Leisure",
-  "Experiential avoidance research",
   "Experiential avoidance theory",
   "Judging by where one rests",
   "Life affirmation",
-  "Limits of introspection"
+  "Limits of introspection",
+  "Experiential avoidance research"
  ],
  "in_progress": null,
  "flagged": {
@@ -55,7 +55,7 @@
   "Digital well-being": "Reopened for QC: milestone-15 advisor QC: central definition now grounded (Burr/Taddeo/Floridi 2020); most-cited claim and Halfmann-Rieger characterization removed; related links bare",
   "Divergent and convergent thinking": "Reopened for QC: milestone-15 advisor QC: central distinction now grounded (Jaarsveld/Lachmann definitions + SOI 1967 passage); 1950 quote kept as background with locator; unsupported history removed",
   "Embodied emotion theory": "Reopened for QC: advisor first-item QC: unsupported claims (independence/priority, re-enactment mechanism, compendium descriptions); repairs applied",
-  "Experiential avoidance research": "NAMESPACE-BLOCKED: 'Experiential avoidance research' and 'Experiential avoidance theory' are a suspected duplicate pair; supervisor disposition required before either is marked done. Revised prose and reproduced quotation supported (advisor scoped pass on evidence); item held out of done per advisor instruction.",
+  "Experiential avoidance research": "Reopened for QC: QC repair: glosses must not make outside claims from wiki openings; add reciprocal theory link",
   "Ideal affect theory Tsai": "Reopened for QC: milestone advisor QC repairs: AA placement restored, temperament variance comparison, behavioral direction, naming history removed, blockquote normalization",
   "Judging by where one rests": "NAMESPACE-PENDING: prose advisor-scoped-pass; Analects 2.10 passage verified but standalone-concept status unestablished; flagged in concept-namespace-audit.md Pending dispositions; supervisor disposition required before done.",
   "Life affirmation": "Milestone QC: OUT OF DONE, held for supervisor. Repairs applied: unsupported lineage claims removed, seed line deleted per advisor, Ridley + Merrick scholarly grounding added (both verbatim from opened extractions), Eternal-recurrence gloss removed. Merrick (HoPQ 33(1) 2016) provides the requested scholarly source identifying life affirmation as a central Nietzschean aim related to amor fati/GS 276. Needs one confirmation round before done.",
@@ -65,7 +65,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T06:19:31+00:00",
+ "updated": "2026-10-21T06:22:30+00:00",
  "band_done": false,
  "new_concepts": [
   {
