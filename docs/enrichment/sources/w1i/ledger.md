@@ -547,3 +547,10 @@ text prints a semicolon ("deeply satisfying to me; and which truly expresses me?
 validated under --fast-track. NOTE: this is a w1ab-owned page and the repair was applied under
 the read-only spot-check precedent with the ownership caveat flagged here for the supervisor:
 cross-band page edit, single character, quote fidelity.
+
+## w1ab spot-check 9 (2026-10-21 14:33 UTC, worker-perplexity-67ce7e1d)
+Leadership research (a "Reopened for QC" w1ab page): Avolio, Walumbwa and Weber 2009 Annual
+Reviews abstract re-opened; all three quoted fragments verified VERBATIM. Spot-check PASS.
+Final tally of read-only spot-checks on the released w1ab band this session: 9 pages checked,
+9 PASS at the quote level; one single-character semicolon repair applied (Locus of evaluation,
+flagged for the supervisor as a cross-band edit).
