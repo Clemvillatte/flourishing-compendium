@@ -1884,3 +1884,10 @@ Verification pass 44 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - P094: both Bergson Introduction to Metaphysics (Hulme) quotes match the freshly downloaded reasoned.org PDF verbatim.
 - P095: the Whitehead Process and Reality future/past sentence matches the already-downloaded openml PDF verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 197 page-checks across 44 passes. Session ends; report follows.
+
+Verification pass 45 (worker-glmc4a — final): 4 principle pages — 3 PASS (with observations), 1 flagged.
+- P096: the Whitehead PR p. 21 "many become one" sentence matches the already-downloaded openml PDF verbatim in wording; the page's bracketed insertions ([entities]/[entity]) are standard editorial clarifications of the source's "The many become one, and are increased by one." (disclosed convention).
+- P098: both Bergson Matter and Memory ch. 3 quotes match the freshly downloaded Wikisource Chapter 3 text verbatim in wording (the first has a zero-width-space Wikisource artifact between "in" and "that" — extraction artifact, disclosed).
+- P102 (Bergson Creative Evolution ch. I, Mitchell trans.): the "what we do depends on what we are" passage was NOT FOUND in the freshly downloaded Gutenberg #15087 Mitchell-translation text — possible wording or location difference; flagged for re-verification against another carrier. Not recorded as a defect pending re-verification.
+- P112 (Dewey Art as Experience "Only where material is employed as media is there expression and art"): not verified this session (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 201 page-checks across 45 passes. Session ends; report follows.
