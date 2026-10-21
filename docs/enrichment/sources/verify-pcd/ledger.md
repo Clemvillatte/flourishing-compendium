@@ -319,3 +319,7 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
   (17135126).
 - w1i late-session sample now covers: Language games, Inquiry, Moral emotions, Naming the
   passions, Monastic hours, Parasocial contact hypothesis — 6/6 quote-fidelity PASS.
+
+### w1i "Interdependent self-construal" — quote fidelity PASS (verification pass)
+- Ingoglia et al. 2021 blockquote EXACT vs the opened PMC article (including the
+  in-sentence Markus & Kitayama citation).
