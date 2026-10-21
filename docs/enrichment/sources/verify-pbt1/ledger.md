@@ -411,3 +411,18 @@ Carriers opened fresh: Gutenberg #8438 (Nicomachean Ethics), Frontiers in Psycho
 
 Result: 3/3 quotation fidelity PASS; 1 translator-attribution defect routed (Kairos,
 Peters should be Chase).
+
+## Round 19 (16:35Z) — w1aa quote-fidelity verification, eighteenth batch
+
+Carriers opened fresh: Clark "Whatever next?" PDF (UCL Friston page), Craske et al. 2014
+(PMC4114726).
+
+1. Generative model theory — blockquote VERBATIM vs Clark 2013 §1.1 (p. 182); the
+   prediction-error-adapts-model and perception/learning/action prose supported by
+   §1-§1.2 of the opened paper.
+2. Exposure processes — blockquote VERBATIM (expectancy violation strategy); Table 6
+   attentional focus, deepened extinction, safety-signal removal and variability
+   passages verbatim-supported; the distinction from fear-reduction-within-trial
+   criteria supported by the paper's own framing.
+
+Result: 2/2 quotation fidelity PASS, no defects this round.
