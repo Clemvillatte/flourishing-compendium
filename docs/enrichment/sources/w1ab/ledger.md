@@ -280,3 +280,21 @@
   the original Sources lines were replaced by the opened-URL row (the 1974 line had no URL;
   its content claim is subsumed in the 2005 review's 30-year scope).
 - QC cadence: this is item 6 of the session; next advisor milestone due at item 10.
+
+## Mixed emotions theory Miyamoto (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Field + AF006 link + Cited-in empty). Validated
+  --fast-track --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Miyamoto, Uchida & Ellsworth 2010, Emotion
+  10(3):404-15 (PMID 20515228, via esearch; NOT guessed). The summary sentence, the
+  situational pattern sentence (pleasant situations difference, no difference in
+  unpleasant/mixed), the self-agency mediation and the Study-2 replication all quoted or
+  paraphrased from the abstract verbatim text.
+- SCOPE NOTE: the seed's broad claim ('East Asian contexts invite co-occurrence more than
+  Western ones') is narrowed on the page to what the opened study establishes: the
+  difference appears in predominantly pleasant situations; there were no cultural
+  differences in unpleasant or mixed situations. The bold seed line is retained as the
+  compendium's framing; the body's own claims are the opened study's.
+- Related rows: Dialectical thinking and Markus-Kitayama self-construal pages verified to
+  exist (title searches); clauses are comparative, grounded in the abstract's own
+  'dialectical emotions' reference.
+- QC cadence: item 7; next advisor milestone due at item 10.
