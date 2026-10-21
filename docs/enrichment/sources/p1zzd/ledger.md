@@ -26,3 +26,9 @@
 - Quotes: Albulescu micro-break definition and effect sizes (d values elided with "..."); Albulescu "recovering from highly depleting tasks may need more than 10-minute breaks"; Helton & Russell "All experimental groups had an equivalent robust vigilance decrement".
 - Corrections: seed "10-15 second breaks restore attentional capacity" and "10 sec - 5 min" definition unsupported -> removed; Leroy 2009 unopened -> removed. Practice numbers (every 25-30 min / 10-30 s) removed. Replication failure flagged on page. Title's "reset" framing kept with caveat.
 - Example imagined, labelled.
+
+## AT056 — Learn to use attentional cues and rituals
+- Sources opened: Wood & Neal 2007 (PubMed abstract); Lally et al. 2010 (Wiley abstract); Hobson, Bonk & Inzlicht 2017 (PMC full text, fetched); Elsevier retraction notice for Brooks et al. 2016 (ScienceDirect, fetched).
+- KEY FINDING: Brooks et al. 2016 (OBHDP 137:71-85), cited by the seed ("Brooks et al., 2016"), is RETRACTED (notice 2024: authors "no longer have confidence in the integrity of the data"). Removed from AT056 and flagged. Other pages citing it: BE063 (my band, handle there), and check any others by grep "Brooks" + ritual; also cites in content/principles/BE045, B166, M053 contain "Gino" matches but not the Brooks 2016 string -> not verified, flagged to supervisor in taskboard.
+- Seed Smith & Vela 2001 (context-dependent memory, unopened) and Hobson 2017 (other claim "rituals improve performance and reduce anxiety") replaced: Hobson 2017 actually found reduced ERN, no performance change, no change in self-reported affect.
+- Quotes verified verbatim: Wood & Neal; Lally (two); retraction sentence; Hobson "no evidence that the reduction in neural monitoring led to performance deficit (nor a performance improvement)".
