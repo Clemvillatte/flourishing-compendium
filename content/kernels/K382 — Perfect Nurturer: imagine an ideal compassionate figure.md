@@ -14,11 +14,9 @@ Sit quietly with the breathing from K378 (slow, comfortable rhythm). Now imagine
 
 Build the image in detail: what would they look like? How would they sound? How would they greet you? What qualities would they carry — kindness, wisdom, courage, humor?
 
-You may not have anyone like this in your life. That's fine, and in fact the practice works *because* of this. Real people can't be perfectly non-judgmental; this is an internally-constructed image, not a memory of someone. It can be a person, an animal, a tree, a fictional figure, whatever feels warm and accepting.
+The figure need not be someone you have known. It can draw on a real person who embodies these qualities, an imagined person, an animal, or another being.
 
-Now imagine being *with* this being. Sit in their presence. Let them extend kindness, understanding, and encouragement to you: not as a one-time event, but as a place you can return to.
-
-If the image fades or feels awkward, return to the qualities (kindness, acceptance, understanding, encouragement) rather than the visual detail.
+Now imagine being with this being. Sit in their presence. Let them extend kindness, understanding, and encouragement to you: not as a one-time event, but as a place you can return to.
 
 Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 11, "Using Compassionate Imagery", section on the perfect nurturer, printed pp. 147–151 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)); the practice is Deborah Lee's (2005).
 

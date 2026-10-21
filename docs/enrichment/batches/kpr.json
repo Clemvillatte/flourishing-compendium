@@ -256,7 +256,7 @@
    "sources": [
     "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
    ],
-   "notes": "Enriched from the owner-uploaded Kolts book ch.10 pp.147-151: Lee (2005) origin quote, non-person forms quote, in-practice guidance quotes, 5-step protocol with Self/Affect dimensions, bounded evidence (Lee 2005 cited not opened), corrected attribution (ch.10, not ch.11). Validator clean."
+   "notes": "Enriched from the owner-uploaded Kolts book ch. 11 pp.147-151: Lee (2005) origin quote, non-person forms quote, in-practice guidance quotes, 5-step protocol with Self/Affect dimensions, bounded evidence (Lee 2005 cited not opened), corrected attribution (ch.10, not ch.11). Validator clean."
   },
   {
    "id": "K384",
@@ -265,7 +265,7 @@
    "sources": [
     "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
    ],
-   "notes": "Enriched from owner-uploaded Kolts book ch.12 pp.159-161: two-chair definition quote, vulnerable-chair-first order quote, compassionate-address quote, chair-switching repair quote, Greenberg lineage + Shahar et al. 2012 pilot (as reported by Kolts, not opened), 5-step protocol, safety note retained. Validator clean (word-count and dash repairs)."
+   "notes": "Enriched from owner-uploaded Kolts book ch. 12 pp.159-161: two-chair definition quote, vulnerable-chair-first order quote, compassionate-address quote, chair-switching repair quote, Greenberg lineage + Shahar et al. 2012 pilot (as reported by Kolts, not opened), 5-step protocol, safety note retained. Validator clean (word-count and dash repairs)."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",

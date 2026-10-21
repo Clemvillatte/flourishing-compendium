@@ -14,7 +14,7 @@ Write a letter to yourself about a difficulty you are carrying — written from 
 
 Take days if you need them; the letter improves with a few sittings. Write about the difficulty without dramatising or minimising it.
 
-Then keep the letter and reread it in the moments you would normally turn on yourself. Some people write several (one for the voice that says you are lazy, one for the voice that says you are alone) and keep them where the hardest moments find them.
+Then keep the letter and reread it in the moments you would normally turn on yourself. The book suggests writing multiple letters to support yourself in different situations, and keeping them where the hardest moments find them.
 
 Adapted from Kolts, *CFT Made Simple*, ch. 9, pp. 124–126 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)); Kolts credits the exercise to Gilbert (2009, 2010).
 
@@ -35,7 +35,7 @@ The book's rationale for the format:
 
 > "this exercise produces a product—the compassionate letter—that can be read again and again in those moments when the client needs compassionate support, encouragement, and coaching." — Kolts, *CFT Made Simple*, ch. 9, p. 124 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
-Kolts presents letter-writing as a way to extend compassion without the performance demands of an in-session exercise, which suits clients who feel self-conscious or struggle to concentrate. The letter-writing family overlaps with [[Expressive writing|expressive writing]], which has its own evidence base; the compassionate variant's specific effects are grounded here in the book's clinical rationale and the Gilbert (2009, 2010) works it names, not in a trial cited by Kolts.
+Kolts grounds the exercise in clinical rationale and the Gilbert (2009, 2010) works he names; he cites no trial of the letter exercise itself.
 
 ## Operationalises
 
@@ -52,7 +52,6 @@ Kolts presents letter-writing as a way to extend compassion without the performa
 
 ## Related concepts
 
-- [[Expressive writing]] — the disclosure-writing family the letter belongs to
 - [[Self-compassion]]
 - [[Compassion-focused therapy]]
 

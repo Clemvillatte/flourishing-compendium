@@ -20,7 +20,7 @@ Now imagine being *there with them*. Imagine only they can see or hear you. Cons
 
 *If extending [[Self-compassion|self-compassion]] to yourself is too hard:* the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
 
-This is not a mood change; it's a perspective shift. You're practising the move from being *captured by* a threat to *being with* the part of you that's threatened.
+The exercise rehearses a compassionate perspective on distress.
 
 Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9, "Cultivating the Compassionate Self: A Method-Acting Approach", section "Extending Compassion to the Vulnerable Self" (pp. 119–123; the blockquote is on p. 122).
 

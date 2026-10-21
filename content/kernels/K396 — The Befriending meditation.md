@@ -16,7 +16,7 @@ Adapted from Williams and Penman, *Mindfulness*, 2011. The instructions above ar
 
 ### Protocol
 
-1. Sit upright and settle on the breath for a minute or two. Target dimensions: Emotion (warmth) and Motivation (wishing well rather than fixing).
+1. Sit upright and settle on the breath for a minute or two. Target dimensions: Affect (warmth) and Motivation (wishing well rather than fixing).
 2. Offer the three phrases to yourself, one at a time, leaving silence after each; the silence is where the practice happens.
 3. If self-kindness will not come, call to mind a person or pet who loved you unconditionally, feel that, then redirect it toward yourself.
 4. Move through the stages: self, a loved one, a neutral stranger, and optionally a difficult person; the transcript says this person "doesn't have to be the most difficult person in your life" — someone you feel a bit distant from is enough.
