@@ -747,3 +747,8 @@ Adjustment Lofquist/Weiss attribution).
 
 Carrier opened fresh: Pitzer Sternberg 1986 PDF. w1q "Triangular Theory of Love":
 three-components blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 46 (17:09Z) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: UMass Ajzen 1991 author-hosted PDF. w1q "Theory of Planned Behavior":
+abstract blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
