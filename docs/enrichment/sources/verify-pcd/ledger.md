@@ -412,3 +412,6 @@ QC-closed).
 
 ### w1d "Arousal regulation" — quote fidelity PASS (verification pass)
 - Yerkes and Dodson 1908 summary point 2 EXACT vs the opened psychclassics page.
+
+### w1d "Attentional bias research" — quote fidelity PASS (verification pass)
+- MacLeod et al. 2002 abstract blockquote EXACT vs the opened PubMed record (11866165).
