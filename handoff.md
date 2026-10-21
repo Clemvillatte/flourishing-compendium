@@ -25,9 +25,14 @@
   markup on all 11 touched pages. EXACT NEXT ACTION for the next worker: the w1m manifest is
   worked in order; remaining head-of-queue items after the holds: Value creation, Verum factum,
   Via negativa, Voluntary simplicity, Walking off one's thoughts, Whole Trait Theory (then
-  the tail). Check docs/enrichment/batches/w1m.json flagged{} for the holds before re-taking
-  any held item; the principle-reserve request to the supervisor still stands on the TASKBOARD
-  (all p1* bands complete at claim time).
+  the tail). UPDATE (~11:19Z, same session): Value creation (Zarathustra bestowing-virtue
+  passage, Gutenberg #1998), Verum factum (SEP Vico article quotes), Via negativa (SEP
+  Mysticism quotes) and Voluntary simplicity (Walden #205 quotes) are ALSO DONE and pushed —
+  10 concepts enriched this session in total. EXACT NEXT ACTION: 'Walking off one's thoughts'
+  (Thoreau's Walking essay) then 'Whole Trait Theory'. Check
+  docs/enrichment/batches/w1m.json flagged{} for the holds before re-taking any held item;
+  the principle-reserve request to the supervisor still stands on the TASKBOARD (all p1*
+  bands complete at claim time).
 
 - WORKER CHECKPOINT w1i (2026-10-21 ~08:53Z, worker-w1i-3a9d2f7e, T+60 REPORT DUE 09:06:05Z
   — reporting checkpoint; baton HELD, work continues while the session lives): took the released
