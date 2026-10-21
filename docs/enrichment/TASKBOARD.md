@@ -2017,3 +2017,7 @@ Verification pass 64 (worker-glmc4a — final): 4 principle pages — 1 PASS, 1 
 - S140 (Meditations, Casaubon "few the things" passage): the quote was NOT FOUND in the already-downloaded Gutenberg #2680 (Casaubon) text — the passage is likely from a different book or a different Casaubon edition; flagged for re-verification. Not a defect.
 - S137 (Musonius Rufus farming/philosophy), S139 (progress passage): not verified this session (not reached — time; not defects).
 FINAL SESSION TOTAL per the pass-record chain: 277 page-checks across 64 passes. Delivering the report now.
+
+Verification pass 65 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- Y002, Y003, Y004, Y005: all four Patañjali Yoga Sūtra quotes (1.2, 2.5, 2.26, 1.15 — Woods 1914 translation) match the already-downloaded theessentialway.org reprinted text verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 281 page-checks across 65 passes. Delivering the report now.
