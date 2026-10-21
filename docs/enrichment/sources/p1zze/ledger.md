@@ -24,3 +24,7 @@
 ## M032 — Keep body and house clean
 - Opened: Florentine Codex Book VI OCR text (sweeping/washing/table instructions, quoted); Saxbe & Repetti 2010 abstract (SAGE; plus Journalist's Resource summary for the husbands' "largely null"); McMains & Kastner 2011 abstract opened but is about visual-cortex competition, not household clutter -> not cited.
 - Seed "tidying interventions improve mood" and "environmental order steadies attention and conduct" NOT supported by opened sources; page restated as correlational (wives only). Chapter numbers of the Codex passages not confirmed.
+
+## M034 — Dignity in every station
+- Opened: Florentine Codex Book VI OCR (noble-youth exhortation; ruler's prayer "I am a commoner; I who am a laborer"); Smith & Kim 2007 abstract (PubMed 17201570). R. H. Smith 2000 unopened (bare).
+- Seed claim "do not envy the other stations" NOT found in the opened text (grep envy/covet: only 'much envied' of war dead, unrelated). Page discloses and treats it as interpretation.
