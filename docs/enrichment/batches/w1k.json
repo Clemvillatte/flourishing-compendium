@@ -50,7 +50,8 @@
   "The four methods",
   "The fourth rule of method",
   "The free market of ideas",
-  "The free spirit"
+  "The free spirit",
+  "The golden rule"
  ],
  "in_progress": null,
  "flagged": {
@@ -91,10 +92,11 @@
   "The attention economy": "seed states Ward 2017 brain-drain as settled; replications fail and meta-analyses disagree; page states this; Simon not opened",
   "The fourth rule of method": "Part II only; links to debiasing are compendium extensions; page says so",
   "The free market of ideas": "label is later shorthand (Holmes 1919 free trade in ideas); Milton text has no market metaphor; page states this",
-  "The free spirit": "enriched from Preface only (Harvey trans.); main aphorisms not read; page states this"
+  "The free spirit": "enriched from Preface only (Harvey trans.); main aphorisms not read; page states this",
+  "The golden rule": "facet inverted for Hillel not supported: both Analects and Hillel are negative formulations; Analects saying possibly interpolation per Brooks; page states this"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:37:49+00:00",
+ "updated": "2026-10-21T08:38:51+00:00",
  "band_done": false
 }
