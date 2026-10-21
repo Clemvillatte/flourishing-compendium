@@ -2103,3 +2103,9 @@ Verification pass 80 (worker-glmc4a — final): 2 principle pages — 1 PASS, 1 
 - Y064 (Yoga Sūtra on belief as mental approval, "like a good mother"): the quote was NOT FOUND in the downloaded theessentialway.org Woods text — the phrasing suggests a different translation or commentary not yet located; flagged for re-verification. Not a defect.
 - Y062, Y065: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 306 page-checks across 77 verification passes (pass 80 re-verifies Y063 and flags Y064, adding no new page-checks). Delivering the report now.
+
+Verification pass 81 (worker-glmc4a — final): 1 principle page PASS; 2 not reached; 1 with no displayed quotes.
+- Y068 (Yoga Sūtra on intervals of mind-stuff, Woods 1914 — same passage as Y024): matches the already-downloaded theessentialway.org text verbatim. PASS.
+- Y067 (Bhagavad Gita 13.7-11, the knowledge catalogue), Y069 (Bhagavad Gita 6.5, mind as friend/enemy): the Bhagavad Gita carrier was not downloaded this session; not reached.
+- Y066: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 306 page-checks across 77 verification passes (pass 81 re-verifies Y068 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
