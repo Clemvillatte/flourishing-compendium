@@ -62,3 +62,7 @@ Cloud-browser click-through on the live site: Academy view opens; "Open degree: 
 ### TARA BRACH BIO CITATION FIXED
 
 The tarabrach.com about page (previously 404ing) now works at https://www.tarabrach.com/about/ — verified unprompted. The Who-is-guiding citation now links to it and the claim is aligned to the bio's own wording (Ph.D. in Clinical Psychology from the Fielding Institute; five-year Buddhist teacher training at Spirit Rock; founded IMCW in Washington, DC in 1998). Remaining recording-page citations (Ekman/Keltner/Neff/Huberman/Mingyur/Chan Khong/Potter/Brasington) still open for the next worker.
+
+### MINGYUR RINPOCHE BIO CITATION FIXED
+
+Who-is-guiding citation for Yongey Mingyur Rinpoche now links to the Tergar bio (https://tergar.org/yongey-mingyur-rinpoche, verified unprompted), wording aligned to the bio's own text (world-renowned meditation teacher; head of Tergar Meditation Community, students in more than thirty countries). The previous Karma Kagyu/Nyingma lineage wording came from Wikipedia and the citation pointed at a YouTube video, so it was replaced rather than re-anchored.
