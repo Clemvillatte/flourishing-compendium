@@ -276,3 +276,7 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
   Seery, Holman and Silver 2010 blockquote EXACT vs the opened PubMed abstract (20939649,
   the abstract's sentence begins "In a multiyear longitudinal study of a national sample,"
   which the page's framing sentence supplies around the quoted fragment).
+
+### w1j "Integrity as consistency" — quote fidelity PASS (verification pass)
+- Both Emerson blockquotes EXACT vs the opened Emerson Central text of Self-Reliance
+  (including the acrostic stanza's semicolon-dash punctuation).
