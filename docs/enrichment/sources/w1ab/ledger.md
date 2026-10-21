@@ -1037,3 +1037,12 @@
   section added (Exercise neurobiology theory, Habit formation, Green exercise —
   navigational captions); no body text changed. Degree 1 — fast-track. Validation
   --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: One koan — LEFT IN PROGRESS (deliberate, taper rule) — 2026-10-21, worker-pxy1u
+- Started at ~T+51:00 but the carrier could not be opened in the taper budget: sacred-texts
+  Gateless Gate returned 403 to direct request and http_code_client_error to the page
+  reader; the Wikisource 'The Gateless Gate' page exists but serves page chrome to the
+  extractor. NEXT WORKER: try the Wikisource translation subpages, the Sekida or Senzaki
+  editions elsewhere, or a university-hosted Gateless Gate text; the item's state is
+  'start'ed (in_progress) in docs/enrichment/batches/w1ab.json — resume with
+  enrich_state.py w1ab start "One koan".
