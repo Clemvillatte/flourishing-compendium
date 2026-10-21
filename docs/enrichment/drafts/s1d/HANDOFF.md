@@ -35,3 +35,7 @@ All seven ready drafts (s1d-003/004/006/007/008/009/010) re-run through story_ch
 External carrier URLs spot-checked (HTTP 200 via curl; brocku.ca 403s plain curl but is
 accessible - verified via crawler, it is James Pragmatism Lecture 2): all resolve. Ready for
 registration.
+
+## s1d-009 quote verification (2026-10-21 13:46 UTC, worker-perplexity-67ce7e1d)
+MN 22 (Thanissaro) re-opened; all eight quotations in s1d-009 verified verbatim against the
+fetched page. No repairs needed.
