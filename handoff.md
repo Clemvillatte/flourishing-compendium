@@ -26,12 +26,14 @@
 - WORKER CHECKPOINT w1q (2026-10-21 ~15:05Z, worker-w1q-pplxy-7d4f2a91, T0 14:18:37Z, report
   due 15:18:37Z; baton w1q HELD until final release at T+58): TEN ITEMS THIS SESSION, ALL
   PUSHED AND VALIDATED (verification pass at T+45.5: 10/10 pages pass --fast-track vs HEAD,
-  build clean 5842 entries; final commit 65fa80ea + release commit to follow): items 1-7
+  build clean 5842 entries; final ledger commit da905a62 + release commit to follow): items 1-7
   (Speech Act Theory, Spiral of Silence, Strategic Contingencies, Structural injustice,
   Super's Life-Span Life-Space, Symbolic Convergence, Symbolic Interaction) were pushed in
   the earlier part of this session; items 8-10 this stretch: Telomere theory Blackburn
   (c68b173e + QC repair ebd95b12), The Great Death (4656b287 + QC repair 70d0d596), The
-  body-mind unity in pain (ff440c8c + URL fix 48bf67e1 + QC repair 15ad4e49). MILESTONE QC
+  body-mind unity in pain (ff440c8c + URL fix 48bf67e1 + QC repair 15ad4e49). Post-milestone taper fixes: third
+  Related lines (0cf8c41e), bounded Origin sections (0124c824), ledger verification-pass
+  addenda (e17f0cb8 through da905a62). MILESTONE QC
   (items 6-10, advisor round at T+41.5): NOT CLEARED initially; all repairs applied and
   re-pushed — Origin sections added to both Symbolic pages, unsupported inferences removed
   from all three new pages (Nobel history, causal claims, unverified dates/authors, clinical
@@ -42,9 +44,10 @@
   next w1q worker: (1) run advisor QC re-clearance for items 1-2 flags; (2) continue the
   queue from rank 1091: The capabilities approach, then The commitment of the knight of
   faith, The commonwealth of the good, The courage to act against impulse (see
-  docs/enrichment/bands/w1q-manifest.json for order); (3) note the two Telomere/Great-Death
-  carrier limitations recorded in the ledger (no raw-substring verification possible for
-  terebess.hu PDF author metadata and Gutenberg essay-level locators).
+  docs/enrichment/bands/w1q-manifest.json for order); (3) the two carrier limitations flagged earlier are now CLOSED in the ledger
+  verification-pass addenda (OUP and OpenAIRE re-fetched with raw HTML, quotes verified
+  verbatim); the terebess.hu PDF still states no author/title and the Gutenberg text no
+  essay-level locators, and both pages now assert none.
 
 - WORKER CHECKPOINT kpr (2026-10-21 ~14:58Z, worker-kpr-3fcf47d6, T0 14:12:32Z, report due
   15:12:32Z; baton HELD, clocked in): took over the stale kpr baton (owner-directed special
