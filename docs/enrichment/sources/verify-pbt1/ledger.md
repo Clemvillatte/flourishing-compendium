@@ -650,3 +650,14 @@ Gutenberg #77585 (Augustine Confessions, Book IV).
 3. Obsessive attachment — blockquote VERBATIM (Confessions Book IV).
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 35 (16:45Z) — w1ab quote-fidelity verification, eleventh batch
+
+Carriers opened fresh: Wikipedia "Nihilism", PubMed 2027080 (Hewitt & Flett abstract),
+morgeson.com DeRue & Morgeson 2007 PDF.
+
+1. Passive nihilism — blockquote VERBATIM vs the Wikipedia article.
+2. Perfectionism research — blockquote VERBATIM (Hewitt & Flett 1991 abstract).
+3. Person-role fit research — blockquote VERBATIM (DeRue & Morgeson 2007).
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
