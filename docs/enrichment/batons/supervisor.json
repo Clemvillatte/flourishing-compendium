@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
  "agent": "worker-p1abc",
- "clocked_in": "2026-10-21T15:24:12+00:00",
+ "clocked_in": "2026-10-21T15:25:55+00:00",
  "takeovers": [
   {
    "by": "AgentA",
