@@ -27,10 +27,11 @@ The principles listed (for example A006, SO001, SO009, P138 and R107) treat the 
 
 ## Related concepts
 
+
 - [[Social determinants of health]] — listed for comparison
 - [[Social capital theory Putnam]] — listed for comparison
 - [[Social support theory Cohen Wills]] — listed for comparison
-
+- [[SO061]] — separating income distribution, living conditions and distinct outcomes
 ## Sources
 
 - [Helliwell (2019), "Determinants of Well-Being and Their Implications for Health Care", Annals of Nutrition and Metabolism](https://blogs.ubc.ca/helliwell/files/2020/10/Annals_2019.pdf) — quotation, six-variable estimate, correlational caveat

@@ -27,10 +27,11 @@ The theory's most direct empirical support comes from a smartphone experience-sa
 
 ## Related concepts
 
+
 - [[Mind wandering]] — the departure state: thought running elsewhere than the current activity
 - [[Mindfulness]] — listed for comparison
 - [[Meta-awareness]] — the noticing that catches the departure
-
+- [[X017]] — a religious practice of returning attention through remembrance
 ## Sources
 
 - [Killingsworth & Gilbert, "A wandering mind is an unhappy mind", Science 330(6006), 932 (2010)](https://pubmed.ncbi.nlm.nih.gov/21071660/) — abstract; quoted fragment verified against this record

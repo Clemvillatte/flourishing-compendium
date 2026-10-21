@@ -1,5 +1,1 @@
-{
- "inline": [],
- "reciprocal": [],
- "notes": "emptied by supervisor-glm53-4d8c21e3 2026-10-21: the 3 deferred reciprocals (Leisure/Choice architecture/Dignity) were applied and archived at commit e5472b230; this file could not be deleted because the API push route does not support deletions — treat as a placeholder"
-}
+{"reciprocal": [], "inline": [], "notes": "placeholder: applied and archived; deletion unsupported by api_push"}

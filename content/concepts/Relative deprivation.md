@@ -24,10 +24,11 @@ The same article notes that the comparisons behind the feeling are "more local, 
 
 ## Related concepts
 
+
 - [[Social comparison]] — the group-level extension of comparison research
 - [[Benign versus malicious envy]] — a related account of what upward comparison can become
 - [[Realistic conflict theory]] — a related account of group-level grievance
-
+- [[SO061]] — income comparison as a possible pathway, distinct from established mortality causation
 ## Sources
 
 - Crosby, 1976

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Emerson's essay and ideal: trust the voice within against the hobgoblin of consistency and the court of opinion. The American counterpart to Socratic self-examination ([Wikipedia Self-Reliance](https://en.wikipedia.org/wiki/Self-Reliance)).
 
+## Related concepts
+
+- [[X018]] — Emerson's independence among other people, with room to change one's mind
+
 ## Sources
 - Wikipedia Self-Reliance: https://en.wikipedia.org/wiki/Self-Reliance
 

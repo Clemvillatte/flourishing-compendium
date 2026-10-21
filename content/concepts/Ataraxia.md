@@ -26,8 +26,9 @@ Ataraxia can be compared, as an interpretive analogy, to the modern psychologica
 - Epicurus, Principal Doctrines
 ## Related concepts
 
-- [[Natural and necessary]] — the tranquillity the classification serves
 
+- [[Natural and necessary]] — the tranquillity the classification serves
+- [[X012]] — friendship as a source of security in an Epicurean life
 ## Sources
 
 - [Epicurus Today, Ataraxia Is Desirable But Not The Ultimate Goal](https://epicurustoday.com/02-key-sources/notataraxia/) — Letter to Menoeceus and Principal Doctrines 3–4, with the argument that ataraxia is part of pleasure rather than its replacement.

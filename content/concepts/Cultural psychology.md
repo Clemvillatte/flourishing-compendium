@@ -34,6 +34,7 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 
 
 
+
 - [[SO044]] — the WEIRD critique principle; its psychology parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the review's central distinction, given its own page
 - [[Interdependent self-construal]] — the interdependent side of the distinction, given its own page
@@ -41,6 +42,7 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 - [[SE005]] — A principle drawing on independent and interdependent self-construals
 - [[SO022]] — A principle on cultural humility as the practice the article defines against cultural competence
 - [[Cultural relativism]] — questions about cultural variation in customs and moral outlooks
+- [[SO072]] — a clinical application that asks about this person's understanding and circumstances
 ## Sources
 
 - Markus and Kitayama, 1991

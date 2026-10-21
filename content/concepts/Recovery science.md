@@ -14,3 +14,8 @@ Research on psychological and physiological recovery — sleep, detachment, natu
 - [[D039 — Make rest the root of activity]]
 [[D006 — Move by return (fu) — everything renews in cycles]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[PP073]] — distinguishing detachment associations from short-break experiments

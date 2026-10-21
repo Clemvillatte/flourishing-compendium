@@ -15,6 +15,10 @@ For Aristotle, friendship requires mutually recognised goodwill, not simply a fa
 
 - **as mutual flourishing**: Aristotle connects good friends' companionship with shared activities and improvement of character ([IX.12](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)). The same passage allows that bad companions can reinforce bad pursuits, rather than making all company beneficial ([IX.12](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html)).
 
+## Related concepts
+
+- [[X012]] — compare shared virtuous activity with Epicurean security
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics IX

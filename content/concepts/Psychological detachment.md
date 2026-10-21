@@ -17,10 +17,11 @@ The authors discuss potential applications of the four-item measures in longitud
 
 ## Related concepts
 
+
 - [[Sabbath]] — the institutionalized version of weekly detachment
 - [[Detachment from outcomes]] — the same turning-away aimed at results rather than workload
 - [[Recovery experiences]] — the family the construct belongs to
-
+- [[PP073]] — time away from work and the question of feeling restored
 ## Sources
 
 - Sonnentag and Fritz, 2007

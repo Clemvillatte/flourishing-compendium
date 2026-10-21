@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Desire analyzed” — Frankfurt, "Freedom of the Will and the Concept of a Person".
 
+## Related concepts
+
+- [[SP012]] — compare another philosophical approach to examining what one wants
+
 ## Sources
 
 - Frankfurt, "Freedom of the Will and the Concept of a Person"

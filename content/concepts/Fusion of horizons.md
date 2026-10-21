@@ -38,6 +38,7 @@ The compendium carries the concept socially rather than textually. E080 practise
 
 ## Related concepts
 
+
 - [[Hermeneutic circle]] — the circular structure of understanding the fusion works within
 - [[Prejudice (Vorurteil)]] — Gadamer's rehabilitation of prejudice as the condition of understanding
 - [[The natural attitude]] — the phenomenological horizon concept Gadamer borrowed
@@ -45,7 +46,7 @@ The compendium carries the concept socially rather than textually. E080 practise
 - [[Constitution of meaning]] — meaning as constituted, the framework the fusion operates in
 - [[Constructivist approach to meaning]] — the constructivist frame for negotiated meaning
 - [[Narrative redemption sequences]] — the narrative form the fusion often takes
-
+- [[SO072]] — a clinical comparison for listening across different accounts of a problem
 ## Cited in philosophy parallels
 
 "The fusion of horizons" — Gadamer, Truth and Method.

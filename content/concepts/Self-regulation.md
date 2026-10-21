@@ -27,8 +27,10 @@ The model also includes scaling back a goal when progress is poor: trading it fo
 ## Related concepts
 
 
+
 - [[Goal adjustment capacity]]
 - [[Heart rate variability theory]] — beat-to-beat heart-rate variation as an index of self-regulation (Park & Thayer 2014)
+- [[PP069]] — compare recorded progress with a goal before adjusting the next step
 ## Sources
 
 - Gross, 2015

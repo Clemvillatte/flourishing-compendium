@@ -31,9 +31,11 @@ Its Buddhist ancestor is [[Right effort]] — effort decided in advance of the m
 
 
 
+
 - [[Context-dependent behaviour (Wood & Neal)]] — the context-cue mechanism that planning exploits
 - [[Morning intention]] — the concept page lists this topic among its Related entries; this link returns it
 - [[Right intention]] — listed for comparison
+- [[PP069]] — progress reporting as a companion to planning when to act
 ## Sources
 
 - Gollwitzer, 1999

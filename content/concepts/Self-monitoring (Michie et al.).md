@@ -28,9 +28,15 @@ BE011 (Recognise that behaviour is measurable — tracking improves outcomes) an
 ## Related concepts
 
 
+
+
+
 - [[Outcome monitoring in psychological treatment]] — monitoring progress from the clinician's side, listed for comparison
 - [[Metacognitive monitoring]] — listed for comparison
 - [[SE077]] — behaviour-change feedback applied to the self
+- [[X017]] — compare behaviour tracking with devotional watchfulness
+- [[PP064]] — record distress and functioning without treating a log as a safety test
+- [[PP069]] — sharing an action record in a voluntary check-in
 ## Sources
 
 - [Michie, Abraham, Whittington, McAteer & Gupta (2009), "Effective techniques in healthy eating and physical activity interventions: a meta-regression", Health Psychology (PubMed)](https://pubmed.ncbi.nlm.nih.gov/19916637/) — self-monitoring findings

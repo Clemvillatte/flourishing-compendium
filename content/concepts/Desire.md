@@ -28,6 +28,7 @@ The Stanford Encyclopedia maps the main theoretical options: on the most widely 
 
 ## Related concepts
 
+
 - [[Natural and necessary]] — listed for comparison
 
 - [[Tanha]] — the Buddhist analysis of craving
@@ -35,7 +36,7 @@ The Stanford Encyclopedia maps the main theoretical options: on the most widely 
 - [[Temperance]] — the virtue of ordered desire
 
 - [[Conatus]] — Spinoza's striving as the essence of a thing
-
+- [[SP012]] — distinguish competing wants without equating their names with their causes
 ## Sources
 - SEP Desire: https://plato.stanford.edu/entries/desire/
 
