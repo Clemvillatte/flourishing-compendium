@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 29** — Understand bondage as being determined from outside
 
-A person is in bondage when they are determined by external causes rather than by their own nature: tossed by forces they did not arrange, pleased and pained by objects they did not choose. Spinoza's image is brutal and exact: the ignorant person is not only driven by external causes, like a wave of the sea, never conscious of themselves, of God, or of things, and scarcely aware of their own pleasures. The principle names the enemy precisely, which is half of defeating it: freedom is not the absence of causes but the internalization of them.
+Spinoza gives the condition its name at the start of the part of the Ethics he titles Human Bondage: it is the mind's lack of power to moderate and restrain the affects. The person in it is "not under his own control and is at the mercy of fortune," and "though he sees what would be better for him, he is compelled to go after something worse" (Ethics IV Preface). What does the determining is external: fortune, other people, whatever arrived last. The freedom opposite to this is not escape from causes but determination by one's own adequate ideas; the wise man, Spinoza writes at the close of the work, is "hardly troubled in spirit" and "always possesses true peace of mind" (Ethics V P42 scholium).
 
-(Ethics IV, Preface; IV, P47 scholium; V, P42 scholium, the wave's restatement.)
+> "What I have said makes it clear that we are driven about in many ways by external causes, and that we toss about like waves on the sea driven by contrary winds, not knowing our outcome and fate." (Spinoza, Ethics, close of Part III, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
-**Plain words** Bondage: being determined by external causes rather than your own nature — tossed by forces you didn't arrange, pleased and pained by objects you didn't choose. The image is brutal and exact. Freedom, by contrast, is being determined by what you are.
+**Plain words**
+Most people's inner weather has outside authorship: a number on a screen decides the morning, a stranger's tone decides the evening. You have the feelings; something else wrote them. The test Spinoza implies is to trace one strong reaction back through its doorway. If it walked in through the eyes or ears, it was put there. Naming the doorway does not by itself free anyone, but it moves the question of authorship from the world to you, where it can be worked on.
 
-*For example:* The person whose mood is set by the market, the reviews, the weather, the algorithm — pleased and pained by objects they never chose. The first question of the unbound life isn't "what do I want?" but "who's been choosing my inputs?"
+**For example**
+Someone wakes, reaches for the phone, and reads a message marked urgent. By breakfast they are short with their family and never connect the two. The day's affect was assigned before the day began; that is bondage in miniature, determination from outside.
+
+(Ethics IV Preface and IV P47 note; V P42 scholium; the wave image closes Part III. Bennett clear-language translation.)
+
 ## Psychology parallels
 
 - **External locus of control and learned helplessness**, the classic findings linking perceived external determination to depression (Seligman, 1975, Helplessness; Rotter, 1966)
@@ -27,3 +32,7 @@ A person is in bondage when they are determined by external causes rather than b
 
 - **[[The examined life|The examined life]]** (Socrates, in Plato's Apology)
 - **The sleepwalker** (Zhuangzi, Inner Chapters, the butterfly as emblem)
+
+## Sources
+
+- [Spinoza, Ethics, Bennett clear-language translation (earlymoderntexts.com)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf) — IV Preface, IV P47 note, V P42 scholium, close of Part III

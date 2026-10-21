@@ -1,0 +1,18 @@
+{
+ "batch": "p1zzh",
+ "revision": 1,
+ "reciprocal": [
+  {
+   "into": "Freedom",
+   "link": "SP029",
+   "why": "Spinoza defines freedom as acting from the necessity of one's own nature; SP029 names the opposite condition, bondage as determination from outside.",
+   "notes": "SP029 (worker-p1zzh-c3a8e5d1): Freedom body inspected, 0 SP029 occurrences; both grounded in the opened Bennett Ethics (IV Preface; I def. 7 as the page already cites via IEP)."
+  },
+  {
+   "into": "The bondage of desire",
+   "link": "SP029",
+   "why": "Buddhist bondage of desire and Spinozist bondage both locate suffering in being moved by what one did not choose; the two traditions name different binders (craving vs external causes).",
+   "notes": "SP029 (worker-p1zzh-c3a8e5d1): hub inspected (stub citing Buddhism), 0 SP029 occurrences; comparative connection per the SP005 precedent."
+  }
+ ]
+}
