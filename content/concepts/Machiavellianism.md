@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Machiavellianism is a personality trait named after Niccolò Machiavelli and measured since Richard Christie and Florence Geis's 1970 Studies in Machiavellianism:
 
-> "People exhibiting high levels of Machiavellianism (Christie and Geis, 1970) are characterized by interpersonal manipulation, such as the use of flattery and deceit, as well as by aloof, cynical, and traditionally amoral viewpoints adopted in order to promote their own goals/interests." ([Al Aïn et al., Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00454/full))
+> "People exhibiting high levels of Machiavellianism (Christie and Geis, 1970) are characterized by interpersonal manipulation, such as the use of flattery and deceit, as well as by aloof, cynical, and traditionally amoral viewpoints adopted in order to promote their own goals/interests." ([Al Aïn et al., Frontiers in Psychology 4 (2013): 454, Introduction](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00454/full))
 
 ### What the scale measures and what correlates follow
 

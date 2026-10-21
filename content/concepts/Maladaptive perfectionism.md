@@ -13,7 +13,7 @@ Maladaptive perfectionism is the unhealthy pattern of perfectionism: high standa
 
 ### The measured construct and its correlates
 
-The measurement tradition comes from Hewitt and Flett's 1991 Multidimensional Perfectionism Scale, which "suggested that perfectionism is a three-dimensional construct, comprising self-oriented perfectionism, socially prescribed perfectionism, and other-oriented perfectionism" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)). Of the dimensions: "Socially prescribed perfectionism characterizes the beliefs that others are demanding perfectionistic standards and shows strong associations with depression" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)). The review also states the distress link: "maladaptive perfectionism is associated with higher levels of psychological distress" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)).
+Hewitt and Flett (1991) described three dimensions of perfectionism: self-oriented perfectionism, socially prescribed perfectionism, and other-oriented perfectionism ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)). Of the dimensions: "Socially prescribed perfectionism characterizes the beliefs that others are demanding perfectionistic standards and shows strong associations with depression" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)). The review also states the distress link: "maladaptive perfectionism is associated with higher levels of psychological distress" ([same article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/)).
 
 ### In the compendium
 
