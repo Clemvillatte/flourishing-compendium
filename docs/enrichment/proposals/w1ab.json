@@ -1,1 +1,301 @@
-{"reciprocal": [{"into": "Parsimony", "link": "Ockham's razor", "why": "a simplicity criterion for comparing theories"}, {"into": "Simplicity", "link": "Ockham's razor", "why": "a simplicity criterion for comparing theories"}, {"into": "Simplicity as practice", "link": "Ockham's razor", "why": "a simplicity criterion for comparing theories"}, {"into": "Deliberate simplicity", "link": "Ockham's razor", "why": "a simplicity criterion for comparing theories"}, {"into": "Inference to the best explanation", "link": "Ockham's razor", "why": "a simplicity criterion for comparing theories"}, {"into": "Conformity", "link": "Obedience research", "why": "experimental research on obedience to authority, listed for comparison"}, {"into": "Moral disengagement research", "link": "Obedience research", "why": "experimental research on obedience to authority, listed for comparison"}, {"into": "Moral situation research", "link": "Obedience research", "why": "experimental research on obedience to authority, listed for comparison"}, {"into": "Bystander effect theory Darley Latane", "link": "Obedience research", "why": "experimental research on obedience to authority, listed for comparison"}, {"into": "Obedience theory Milgram", "link": "Obedience research", "why": "experimental research on obedience to authority, listed for comparison"}, {"into": "Escape from freedom", "link": "Obedience research", "why": "experimental research on obedience to authority, listed for comparison"}, {"into": "Consummatory experience", "link": "Neuroaesthetics", "why": "studies the biological bases of aesthetic experiences"}, {"into": "Disinterested aesthetic pleasure", "link": "Neuroaesthetics", "why": "studies the biological bases of aesthetic experiences"}, {"into": "The aesthetic", "link": "Neuroaesthetics", "why": "studies the biological bases of aesthetic experiences"}, {"into": "The self dissolving in aesthetic contemplation", "link": "Neuroaesthetics", "why": "studies the biological bases of aesthetic experiences"}, {"into": "K328 — Aesthetic attention", "link": "Neuroaesthetics", "why": "studies the biological bases of aesthetic experiences"}, {"into": "Incentive salience theory", "link": "Neurobiology of addiction", "why": "includes exaggerated incentive salience in its three-stage account of addiction"}, {"into": "The craving-to-addiction model", "link": "Neurobiology of addiction", "why": "a three-stage neurocircuitry account of addiction"}, {"into": "The insatiability of craving", "link": "Neurobiology of addiction", "why": "includes a preoccupation/anticipation stage involving craving"}, {"into": "Relapse prevention protocols", "link": "Neurobiology of addiction", "why": "a three-stage neurocircuitry account of addiction"}, {"into": "Reward prediction error (Schultz)", "link": "Neurobiology of addiction", "why": "a three-stage neurocircuitry account of addiction"}], "inline": [{"into": "CO003 — Know that thinking has limited capacity — cognitive load is real", "concept": "Ockham's razor", "phrase": "Occam's Razor, William of Ockham"}]}
+{
+ "reciprocal": [
+  {
+   "into": "Parsimony",
+   "link": "Ockham's razor",
+   "why": "a simplicity criterion for comparing theories"
+  },
+  {
+   "into": "Simplicity",
+   "link": "Ockham's razor",
+   "why": "a simplicity criterion for comparing theories"
+  },
+  {
+   "into": "Simplicity as practice",
+   "link": "Ockham's razor",
+   "why": "a simplicity criterion for comparing theories"
+  },
+  {
+   "into": "Deliberate simplicity",
+   "link": "Ockham's razor",
+   "why": "a simplicity criterion for comparing theories"
+  },
+  {
+   "into": "Inference to the best explanation",
+   "link": "Ockham's razor",
+   "why": "a simplicity criterion for comparing theories"
+  },
+  {
+   "into": "Conformity",
+   "link": "Obedience research",
+   "why": "experimental research on obedience to authority, listed for comparison"
+  },
+  {
+   "into": "Moral disengagement research",
+   "link": "Obedience research",
+   "why": "experimental research on obedience to authority, listed for comparison"
+  },
+  {
+   "into": "Moral situation research",
+   "link": "Obedience research",
+   "why": "experimental research on obedience to authority, listed for comparison"
+  },
+  {
+   "into": "Bystander effect theory Darley Latane",
+   "link": "Obedience research",
+   "why": "experimental research on obedience to authority, listed for comparison"
+  },
+  {
+   "into": "Obedience theory Milgram",
+   "link": "Obedience research",
+   "why": "experimental research on obedience to authority, listed for comparison"
+  },
+  {
+   "into": "Escape from freedom",
+   "link": "Obedience research",
+   "why": "experimental research on obedience to authority, listed for comparison"
+  },
+  {
+   "into": "Consummatory experience",
+   "link": "Neuroaesthetics",
+   "why": "studies the biological bases of aesthetic experiences"
+  },
+  {
+   "into": "Disinterested aesthetic pleasure",
+   "link": "Neuroaesthetics",
+   "why": "studies the biological bases of aesthetic experiences"
+  },
+  {
+   "into": "The aesthetic",
+   "link": "Neuroaesthetics",
+   "why": "studies the biological bases of aesthetic experiences"
+  },
+  {
+   "into": "The self dissolving in aesthetic contemplation",
+   "link": "Neuroaesthetics",
+   "why": "studies the biological bases of aesthetic experiences"
+  },
+  {
+   "into": "K328 — Aesthetic attention",
+   "link": "Neuroaesthetics",
+   "why": "studies the biological bases of aesthetic experiences"
+  },
+  {
+   "into": "Incentive salience theory",
+   "link": "Neurobiology of addiction",
+   "why": "includes exaggerated incentive salience in its three-stage account of addiction"
+  },
+  {
+   "into": "The craving-to-addiction model",
+   "link": "Neurobiology of addiction",
+   "why": "a three-stage neurocircuitry account of addiction"
+  },
+  {
+   "into": "The insatiability of craving",
+   "link": "Neurobiology of addiction",
+   "why": "includes a preoccupation/anticipation stage involving craving"
+  },
+  {
+   "into": "Relapse prevention protocols",
+   "link": "Neurobiology of addiction",
+   "why": "a three-stage neurocircuitry account of addiction"
+  },
+  {
+   "into": "Reward prediction error (Schultz)",
+   "link": "Neurobiology of addiction",
+   "why": "a three-stage neurocircuitry account of addiction"
+  },
+  {
+   "into": "Non-attachment",
+   "link": "Obsessive attachment",
+   "why": "the love that loads a whole life onto one perishable carrier"
+  },
+  {
+   "into": "Nonattachment",
+   "link": "Obsessive attachment",
+   "why": "the Buddhist analysis of the same grip"
+  },
+  {
+   "into": "Attachment theory",
+   "link": "Obsessive attachment",
+   "why": "the developmental science of bonds, kept distinct from the absolute object"
+  },
+  {
+   "into": "Internal realism",
+   "link": "Ontological relativity",
+   "why": "Quine's finding that reference is fixed only relative to a translation system"
+  },
+  {
+   "into": "Perspectivism",
+   "link": "Ontological relativity",
+   "why": "every description is from somewhere; the older family of views"
+  },
+  {
+   "into": "Behavior analysis",
+   "link": "Operant conditioning (Skinner)",
+   "why": "Skinner's account of learning by consequences, the theory this field applies"
+  },
+  {
+   "into": "Behavioural chaining (applied behaviour analysis)",
+   "link": "Operant conditioning (Skinner)",
+   "why": "each link relies on operant reinforcement"
+  },
+  {
+   "into": "Classical conditioning theory",
+   "link": "Operant conditioning (Skinner)",
+   "why": "Pavlov's respondent conditioning, the other half of the pair"
+  },
+  {
+   "into": "Learned optimism",
+   "link": "Optimistic explanatory style",
+   "why": "explaining bad events as temporary, specific and changeable"
+  },
+  {
+   "into": "Learned Helplessness Theory",
+   "link": "Optimistic explanatory style",
+   "why": "the research line the explanatory-style work came out of"
+  },
+  {
+   "into": "Attribution theory",
+   "link": "Optimistic explanatory style",
+   "why": "the broader psychology of explaining causes"
+  },
+  {
+   "into": "Optimism",
+   "link": "Optimistic explanatory style",
+   "why": "the disposition this style supports"
+  },
+  {
+   "into": "The tripartite soul",
+   "link": "Ordering the soul",
+   "why": "the three principles the Republic binds into one"
+  },
+  {
+   "into": "Temperance",
+   "link": "Ordering the soul",
+   "why": "the harmonised condition Plato's passage names"
+  },
+  {
+   "into": "Harmony",
+   "link": "Ordering the soul",
+   "why": "the musical figure the ordering is built on"
+  },
+  {
+   "into": "Person-organization fit",
+   "link": "Person-role fit research",
+   "why": "the fit research family: whole workplace rather than role"
+  },
+  {
+   "into": "Person-organization fit",
+   "link": "Organizational research",
+   "why": "the meta-analysis weighing this fit"
+  },
+  {
+   "into": "Self-concordance theory",
+   "link": "Organismic trust",
+   "why": "the research programme behind trusting one's reactions in goal choice"
+  },
+  {
+   "into": "Autonomous motivation",
+   "link": "Organismic trust",
+   "why": "the motive profile of goals that fit the person"
+  },
+  {
+   "into": "Self-determination",
+   "link": "Organismic trust",
+   "why": "the wider theory the self-concordance model applies"
+  },
+  {
+   "into": "Bicultural identity integration",
+   "link": "Orthogonal Cultural Identification Theory",
+   "why": "cultural identifications as independent dimensions"
+  },
+  {
+   "into": "Acculturation theory Berry",
+   "link": "Orthogonal Cultural Identification Theory",
+   "why": "the categorical model the orthogonal model contrasts with"
+  },
+  {
+   "into": "Multicultural identity theory",
+   "link": "Orthogonal Cultural Identification Theory",
+   "why": "models allowing several identities"
+  },
+  {
+   "into": "Problem vs. mystery",
+   "link": "Participation",
+   "why": "the distinction that gives participation its object"
+  },
+  {
+   "into": "Availability",
+   "link": "Participation",
+   "why": "Marcel's disponibilité, the interpersonal form of participation"
+  },
+  {
+   "into": "Maladaptive perfectionism",
+   "link": "Perfectionism research",
+   "why": "the Hewitt-Flett research on the three dimensions of perfectionism"
+  },
+  {
+   "into": "Harsh self-criticism",
+   "link": "Perfectionism research",
+   "why": "the companion mechanism in self-oriented perfectionism"
+  },
+  {
+   "into": "Burnout",
+   "link": "Perfectionism research",
+   "why": "an outcome the perfectionism literature connects to the trait"
+  },
+  {
+   "into": "Koan practice",
+   "link": "One koan",
+   "why": "the single assigned breakthrough koan, the Rinzai entry into this practice"
+  },
+  {
+   "into": "The unanswerable koan",
+   "link": "One koan",
+   "why": "why these words resist reasoned answers"
+  },
+  {
+   "into": "Anapanasati (mindfulness of breathing)",
+   "link": "One principle at a time",
+   "why": "the single object held in Buddhist practice"
+  },
+  {
+   "into": "One koan",
+   "link": "One principle at a time",
+   "why": "the Zen form of holding one thing"
+  },
+  {
+   "into": "Habit stacking",
+   "link": "One principle at a time",
+   "why": "small behaviours attached to stable cues"
+  },
+  {
+   "into": "Belief as habit",
+   "link": "Obstruction as stimulus",
+   "why": "the material that obstruction works on"
+  },
+  {
+   "into": "Inquiry",
+   "link": "Obstruction as stimulus",
+   "why": "the activity a hitch sets off"
+  },
+  {
+   "into": "Insight problem-solving",
+   "link": "Obstruction as stimulus",
+   "why": "the experimental side of the same shift"
+  },
+  {
+   "into": "Antifragility",
+   "link": "Obstruction as stimulus",
+   "why": "a modern comparison, retained as comparison"
+  }
+ ],
+ "inline": [
+  {
+   "into": "CO003 — Know that thinking has limited capacity — cognitive load is real",
+   "concept": "Ockham's razor",
+   "phrase": "Occam's Razor, William of Ockham"
+  }
+ ]
+}
