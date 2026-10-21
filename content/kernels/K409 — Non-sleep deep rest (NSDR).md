@@ -29,7 +29,9 @@ A zero-cost starting point is the [10-minute NSDR script narrated by Dr. Andrew 
 
 ## Operationalises
 
-[[BI059 — Learn yoga nidra — deep rest practice|BI059 Learn yoga nidra: deep rest practice]], [[B186 — Practice the art of resting|B186 Practice the art of resting]], [[D039 — Make rest the root of activity|D039 Make rest the root of activity]]
+- [[BI059 — Learn yoga nidra — deep rest practice|BI059 Learn yoga nidra: deep rest practice]]
+- [[B186 — Practice the art of resting|B186 Practice the art of resting]]
+- [[D039 — Make rest the root of activity|D039 Make rest the root of activity]]
 
 ## Related kernels
 
