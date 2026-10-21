@@ -13,7 +13,7 @@ In his 1911 formulation of the Law of Effect, Thorndike describes how satisfacti
 
 ### What the law claims
 
-Thorndike qualifies the principle with "other things being equal" and states that greater satisfaction or discomfort produces greater strengthening or weakening of the connection ([Thorndike, 1911, p. 244](https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)). He illustrates with a cat escaping a box: a cat forms the habit of prompt escape most rapidly when the door opens and the food follows the response most closely ([Thorndike, 1911, p. 249](https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)).
+Thorndike qualifies the principle with "other things being equal" and states that greater satisfaction or discomfort produces greater strengthening or weakening of the connection ([Thorndike, 1911, p. 244](https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)). In a hypothetical comparison of four boxes, Thorndike predicts that a cat would acquire the escape habit fastest with the shortest delay between turning a button and the door opening ([Thorndike, 1911, chapter V, paragraph beginning "If, for example, four boxes were arranged…"](https://psychclassics.yorku.ca/Thorndike/Animal/chap5.htm)).
 
 ## Field
 
