@@ -35,7 +35,7 @@ An activity can look tedious while carrying memories, responsibilities or satisf
 
 ## Stories
 - [[ST373 — Jane Addams Cannot Produce the Devil Baby|373. Jane Addams Cannot Produce the Devil Baby]]
-
+- [[ST398 — The Boys with the Tin Lanterns|398. The Boys with the Tin Lanterns]]
 ## Psychology parallels
 
 - **[[Bias blind spot|Bias blind spot and the introspection illusion]]** (Pronin, 2002)
