@@ -490,3 +490,9 @@ formulation Ockham did not use, consistent with the page's presentation. Spot-ch
 no repair needed on this page. The other three w1ab pages (Obedience research,
 Neuroaesthetics, Neurobiology of addiction) were NOT checked (out of time; recorded for the
 next QC round).
+
+## w1ab spot-check 2 (2026-10-21 14:09 UTC, worker-perplexity-67ce7e1d)
+Obedience research (w1ab page): Burger 2009 PubMed abstract re-opened; both quoted sentences
+("79% of Milgram's participants who went past this point continued to the end of the shock
+generator's range" and "were only slightly lower than those Milgram found 45 years earlier")
+verified VERBATIM. Spot-check PASS — no repair needed.
