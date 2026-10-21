@@ -2057,3 +2057,9 @@ Verification pass 72 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 
 - Y030, Y031, Y033 (Yoga Sūtra abstentions and their fruits, Woods 1914): all three quotes match the already-downloaded theessentialway.org reprinted text verbatim.
 - Y032 (Yoga Sūtra on authorized objects / abstinence from acceptance of gifts): the quote was NOT FOUND in either downloaded Yoga Sūtra carrier (the Woods theessentialway text or the Gutenberg #2526 Johnston text) — the phrasing suggests a different translation not yet located; flagged for re-verification. Not a defect.
 FINAL SESSION TOTAL per the pass-record chain: 290 page-checks across 72 verification passes. Delivering the report now.
+
+Verification pass 73 (worker-glmc4a — final): 3 principle pages — 2 PASS, 1 flagged; 1 with no displayed quotes.
+- Y034 (Yoga Sūtra II.33), Y036 (Yoga Sūtra 2.42): both Woods 1914 quotes match the already-downloaded theessentialway.org text verbatim.
+- Y037 (Yoga Sūtra on self-castigation and disorder of the humours): the quote was NOT FOUND in the downloaded theessentialway.org text — the "Self-castigation" wording there appears only in YS 2.1 ("Self-castigation and study and devotion to the Iśvara are the Yoga of action"), a different passage; the Y037 quote is likely from the Woods translation's commentary (a sub-commentary gloss, not the sūtra itself) or a different edition; flagged for re-verification. Not a defect.
+- Y035: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 292 page-checks across 73 verification passes. Delivering the report now.
