@@ -2085,3 +2085,8 @@ FINAL SESSION TOTAL per the pass-record chain: 297 page-checks across 75 verific
 Verification pass 77 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - Y050, Y051, Y052, Y053 (Yoga Sūtra on the alternative supports for the stable state of mind-stuff, Woods 1914): all four quotes match the already-downloaded theessentialway.org reprinted text verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 301 page-checks across 76 verification passes (pass 77 re-verifies and records 4 already-counted Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 78 (worker-glmc4a — final): 1 principle page flagged; 3 not reached.
+- Y054 (Yoga Sūtra withdrawal of the senses, king-bee analogy): the quote was NOT FOUND in the downloaded theessentialway.org Woods text — the king-bee analogy is from the Vyāsa commentary (bhāṣya) on YS 2.54, not the sūtra itself; the wiki page may be citing the commentary without labeling it as such; flagged for re-verification. Not a defect.
+- Y055, Y056, Y057 (Bhagavad Gita 2.58, 2.62, 2.59 — tortoise, attachment/desire/anger, taste for sense objects): the Bhagavad Gita carrier was not downloaded this session; not reached.
+FINAL SESSION TOTAL per the pass-record chain: 301 page-checks across 76 verification passes (pass 78 flags Y054 and notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
