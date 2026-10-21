@@ -60,6 +60,7 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Removed an unsupported claim that the original principle states a healthy/toxic distinction. Practical questions are labelled contemporary reflection, and the example no longer declares an unspecified old comment incapable of involving any wrong.
 - Protected metadata, original principle sentence and inherited parallels preserved; no clinical test is claimed.
 - Final direct chapter recheck narrowed an initial `poverty` gloss to the actual example of lacking peers' advantages. The Rhetoric's blame of coerced submission is also made explicit and rejected, rather than sanitised.
+- Independent nine-card milestone: eight bodies/sources PASS; A118 required `advantages` to be narrowed further to honourable things shared by all or nearly all of those judged similar. Applied that precision. The advisor withdrew an A113 quotation objection after a fresh fetch confirmed its exact wording in VIII.12's opening sentence; no authentic quotation was changed on that basis.
 
 ## A121
 
