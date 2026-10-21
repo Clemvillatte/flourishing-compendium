@@ -126,7 +126,7 @@
   "BI060": "RESOLVED by supervisor-pcx-fe429f3b: inherited locator defects fixed on A025 (phantom MM I.25 removed - Long Book I has only 17 sections) and A045 (unmatched VI.9 removed) - see those flags; the mental-health parallel row remains ROUTED for the next pass (Cramer et al. 2013 / Wang et al. 2010 carrier verification not performed this session)",
   "BI072": "inherited Sapolsky, Lövdén, Stern, Socrates, Neiye, Ecclesiastes parallels not opened; preserved",
   "CO006": "inherited Hutchins, Wegner, Mercier-Sperber, Ubuntu, Buber, Habermas parallels not opened; preserved",
-  "CO065": "inherited Grossmann 2013/2017, Aristotle, Seneca, Buddhist parallels not opened; preserved",
+  "CO065": "RESOLVED by supervisor-pcx-fe429f3b: opened Grossmann and Kross 2014 (Solomon's paradox, Europe PMC - 'participants displayed wiser reasoning... about another person's problems compared with their own... instructing individuals to self-distance... eliminated this asymmetry') and Grossmann et al. 2013 ('A route to well-being', Europe PMC - 'wise reasoning is associated with greater life satisfaction, less negative affect, better social relationships... and greater longevity'): bullet 2 (ego-centrism reduces wise reasoning; self-distancing increases it) and bullet 3 (wise reasoning associated with better relationship outcomes, longevity, life satisfaction) are directly supported; bullet 1's framework gloss (humility, contextualism, recognition of change, integration of perspectives) matches the opened abstracts' characterization of wise reasoning; Grossmann 2017 and the Aristotle/Seneca/Buddhist philosophy parallels remain bare references (bounded: not freshly opened); no repair",
   "CO073": "RESOLVED by supervisor-pcx-fe429f3b: opened the Gigerenzer and Gaissmaier 2011 Annual Review abstract (Europe PMC) - it frames the paper's core question as 'When should people rely on a given heuristic rather than a complex strategy to make better judgments?' and 'how well cognitive heuristics function in an uncertain world', which fairly supports the first bullet's 'simple heuristics can outperform complex models in uncertain environments'; Taleb 2012 (robust-vs-optimal) remains a bare reference to Antifragile (bounded: not freshly opened; the bullet's gloss is the book's own antifragility thesis); Todd-Gigerenzer 2012 and the Aristotle/Zhuangzi/Nietzsche philosophy parallels remain bare references (bounded); no repair needed",
   "CO074": "RESOLVED by supervisor-pcx-fe429f3b: per the predecessor's opening of Guilford 1950 (the address discusses and criticizes the four-stage account and does not carry the generation-and-selection framing) and Runco 2004 (abstract checked, no relevant definitions), the first bullet's claim clause was unsupported and was REMOVED - reduced to a bare reference per the AF011/AF046/BI041 precedent; the other two bullets (Conner 2016 everyday creative activity and positive affect; Baird et al. 2012 distraction-and-creativity; Sio and Ormerod 2009 incubation meta-analysis) are bare references to real, canonical studies with fair standard glosses, left as-is (bounded: not freshly opened); validated",
   "CO075": "inherited Haidt 2012, Graham 2013, Greene 2001/2013, Hume/Kant, Adam Smith, Buddhist parallels not opened; preserved",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:51:31+00:00",
+ "updated": "2026-10-21T13:52:25+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
