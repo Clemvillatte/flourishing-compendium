@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 42** — Treat epistemic injustice as a real harm
 
-Treat epistemic injustice — the unfair treatment of people as knowers — as a real harm. Miranda Fricker (2007) distinguished testimonial injustice (a speaker's credibility unfairly deflated) and hermeneutical injustice (a gap in collective interpretive resources that prevents someone from understanding their own experience). Both are sociocultural causes of suffering; both are designable problems.
+Fricker's book homes in on two forms of epistemic injustice, which she theorises as "a wrong done to someone specifically in their capacity as a knower":
 
-**Plain words** People can be wronged as knowers — their credibility unfairly discounted, or the concepts to describe their experience simply not existing yet. That's a real harm, not a technicality. When someone's testimony keeps getting discounted, notice the pattern, not just the instance.
+> "Testimonial injustice occurs when prejudice causes a hearer to give a deflated level of credibility to a speaker's word; hermeneutical injustice occurs at a prior stage, when a gap in collective interpretive resources puts someone at an unfair disadvantage when it comes to making sense of their social experiences."
 
-*For example:* The woman whose pain reports were "anxiety" for a decade before the diagnosis showed up on a scan — the harm wasn't only the missed disease; it was years of being treated as a poor witness to her own body. The knowing was real; the reception was broken.
+(Fricker, 2007, "Epistemic Injustice", Introduction, pp. 1-8, [open extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524).)
+
+The compendium keeps both distinctions and adds its own practical point: the two need different attention. The first asks whether a hearer's credibility judgment is being skewed by who the speaker is; the second asks whether the words for the experience exist yet.
+
+**Plain words** When testimony keeps getting discounted, notice the pattern, not just the instance. Then ask which kind of problem is in front of you: a hearer discounting the speaker, or an experience that no shared vocabulary has caught up with. The two need different attention — one is repaired in the hearing; the other may need a concept built.
+
+*For example:* Imagined: a woman whose pain reports were read as "anxiety" for a decade before a scan showed the disease — the harm included years of being treated as a poor witness to her own body.
+
+## Sources
+
+- [Fricker, "Epistemic Injustice: Power and the Ethics of Knowing", OUP 2007 — Introduction chapter, open extract, Oxford Academic](https://academic.oup.com/book/32817/chapter/274999524) — the two-form definition and the "capacity as a knower" passage quoted (pp. 1-8); carrier disclosure: publisher page, visible extract only, full text paywalled
+
 ## Psychology parallels
 
 - [[Fricker|Fricker]] (2007) on epistemic injustice; intersectionality (Crenshaw, 1989; Cole, 2009); the testimonial-injustice literature (Medina, 2013); hermeneutical injustice and mental health (Crichton et al., 2017).
