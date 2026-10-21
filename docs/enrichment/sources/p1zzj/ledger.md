@@ -57,3 +57,5 @@
 - Opened (excerpts): Bennett TP (earlymoderntexts), SEP Spinoza's Political Philosophy. Quote "each natural thing has as much right by nature as it has power to exist and operate" is Bennett wording (TP 2.3); "as much right as it has power" is TP 3.2 paraphrase of excerpt; combined in quotation only where seen. TP ch.1 not opened; mission-statement vs incentive advice is compendium's. Team-charter example replaced.
 ## SP080 — common law vs solitude
 - Opened (excerpts): sacred-texts Elwes IV P73 + proof; Sharp, "Spinoza on the Fear of Solitude" (OUP proof draft on PhilArchive; Sharp quote taken from it). Seed's cost-benefit "protections buy back more power than they cost" not in the proof; seed's homesteader shotgun example dropped. P37 scholia not opened.
+## SP081 — transfer vengeance
+- Opened (excerpts): SEP Baruch Spinoza; Elwes Political Treatise PDF (ethz.ch; chap.3 §3-5 text); Springer chapter 4 (author not seen). Seed's ch. 2-3 "punishment analysis" locator not verified. Neighbour-dispute example replaced. Springer chapter's "base"/"lawless" quotes are the author's phrasing, as quoted in excerpt.

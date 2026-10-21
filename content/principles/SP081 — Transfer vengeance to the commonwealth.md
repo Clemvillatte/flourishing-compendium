@@ -12,13 +12,28 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 81** — Transfer vengeance to the commonwealth
 
-In the state of nature individuals may avenge themselves; in the commonwealth the right of punishment is handed to the sovereign so that revenge is governed by law rather than appetite. Spinoza's practical rule for the person: do not be your own avenger, because the avenger inside you is the least qualified judge of your case. The principle is not passivity but the redirection of the corrective impulse into structures designed to correct. Practically, when wronged, use the channel (the process, the mediator, the review) rather than the counterstrike.
+Spinoza treats the move from the state of nature to the civil state as the surrender of certain natural rights. The Stanford Encyclopedia lists among them "the right everyone has of avenging himself, and of judging good and evil", which is invested in "a central authority" ([SEP, Baruch Spinoza](https://plato.stanford.edu/entries/spinoza/)). In the Political Treatise, Elwes's translation says "this natural right of being one's own judge ceases in the civil state". The reason he gives is that if every citizen could decide for himself, "each would easily be able to give a colour of right to his own deeds" ([Political Treatise, ch. 3, Elwes](https://www.files.ethz.ch/isn/125506/5038_Spinoza_A_Political_Treatise.pdf)). This matches the seed's point that the avenger is a poor judge of his own case.
+
+One scholar distinguishes the two. Vengeance is, on Spinoza's view, motivated by hatred and is "base" and "lawless", while punishment under the state's law "can be non-hateful and rationally authorized" ([Springer chapter on Spinoza on hatred and power](https://link.springer.com/chapter/10.1007/978-3-030-77807-1_4)).
 
 (Political Treatise, ch. 2-3, the punishment analysis.)
 
-**Plain words** In the commonwealth, the right of punishment is handed to the sovereign so that revenge is governed by law rather than appetite. The personal rule: do not be your own vengeance system. Transfer it — to the institution, the process, the referee — and keep your own hands clean of the escalating part.
+### Scope
 
-*For example:* The neighbour dispute that would run on sabotage forever if the two households enforced it themselves — and the council complaint, the process, the hearing. Slower, duller, and it doesn't end with both fences burned.
+This is political theory about the state, not advice about private disputes. The practical step of using a complaint process before counterattacking is the compendium's extension. I did not check whether such processes reduce conflict, and I did not open the passage on punishment in Chapter 2.
+
+**Plain words**
+Spinoza says that in a state, the right to take revenge passes to the law. A person judging their own wrong tends to justify whatever they do.
+
+**For example**
+When you feel wronged, write down what happened and what outcome you want. Then take it to the proper process before replying in kind.
+
+## Sources
+
+- [Baruch Spinoza (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spinoza/)
+- [Spinoza, A Political Treatise (Elwes translation, PDF)](https://www.files.ethz.ch/isn/125506/5038_Spinoza_A_Political_Treatise.pdf)
+- [Spinoza on Hatred and Power and the Challenge of Forgiveness (Springer)](https://link.springer.com/chapter/10.1007/978-3-030-77807-1_4)
+
 ## Psychology parallels
 
 - **[[Procedural justice|Procedural justice and retaliation]]**, the finding that having voice through fair process reduces the urge for revenge (Tyler, 1990, Why People Obey the Law)
