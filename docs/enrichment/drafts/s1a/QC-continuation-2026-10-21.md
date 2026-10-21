@@ -36,3 +36,21 @@ Retained verbatim quotation: “he is transformed with the (changing) character 
 - Approve proposed new target P042 under the owner's broad Pragmatist storyteller remit. B026 and D156 are already lane targets.
 - Review P042's existing “Choose the version that can hurt” plain-words sentence and unsupported one-year negotiation comparison. The source-backed classroom story provides a concrete alternative angle but does not itself authorise the storyteller to edit the principle.
 - All six previous batch items, 008-013, remain frozen at their recorded ready status unless the supervisor has since integrated them. This continuation does not imply renewed independent review of the inherited 003/004/006/007 backlog.
+
+## Session storyteller-pcx-7f3a2b1d (12:18:56Z - ~13:18Z, s1a)
+
+QC trail for this session's five drafts (full per-item records in the drafts' QC notes):
+- s1a-023 (B192 Franklin): first-item advisor round FAIL -> repairs -> focused round-2 SCOPED PASS
+  (verification record corrected per the advisor's note).
+- Items 2-5 milestone: round-1 FAIL all four -> repairs applied and pushed (9f71dd6); round-2 FAIL
+  with two bounded issues + stale-metadata finds -> applied (a2d2aad, a1911bd); round-3: 024/026/027
+  SCOPED PASS, 025 SCOPED PROSE PASS after the continuity row was bounded (2a91612). Verdicts recorded
+  (e861a79).
+- Registration outcome: 023/025/026 registered by the supervisor as ST430/ST431/ST432; byte-compare
+  found ST431/ST432 captured STALE pre-repair narratives -> re-sync ROUTED (3d9d04d); ST430 verified
+  identical. 024/027 remain qc_pending, advisor scoped-PASS, ready for registration.
+- Verification passes: full body-quote audits (all prose strings matched; 023's four table strings
+  manual-checked), URL checks (all 200), word-budget regressions caught and fixed (b83f408), read-backs
+  done on all five drafts; 22/22 session commits verified on origin/main.
+- Routes posted: batch scope request; ST184/ST095 upgrade preparations; s1f-002 P187 overlap;
+  cross-lane angle audit. See ROUTE.md.
