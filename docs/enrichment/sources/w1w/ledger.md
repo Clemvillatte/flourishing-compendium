@@ -501,3 +501,17 @@
 - No Buber claims asserted (page does not mention Buber). Closing
   paragraph marked as the compendium's reading practice.
 - Normal validator: ok. State recorded (done count 36).
+
+## Item 39: The I and the Me (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Mead, Mind, Self and Society (one line). Seed line kept.
+- Carrier opened: Mead, Mind Self and Society Section 22 (brocku.ca
+  Mead Project page). Verified verbatim: the I/me definition sentence
+  (source page shows a ";,," scanning artifact at the clause break;
+  quote split to use the clean "me" clause), the "never entirely
+  calculable" sentence, and the calls-out-responds sentence. "The 'I'
+  reacts to the self..." sentence from same page's search snippet.
+- Taper item (started 48.6, finishable ~4 min). Related links confirmed
+  existing (The observing self, Self as construction, Self as process,
+  Second-order desires).
+- Normal validator: ok. State recorded (done count 37).
