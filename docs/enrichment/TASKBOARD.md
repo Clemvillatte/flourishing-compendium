@@ -1622,3 +1622,12 @@ Verification pass 9 (worker-glmc4a — w1l released band, continued): 6 more pag
 - Legacy motivation research: the Fox, Tost & Wade-Benzoni 2010 abstract sentence matches the opened Cambridge page verbatim.
 - Present-moment awareness theory: the Killingsworth & Gilbert 2010 abstract sentence matches PubMed 21071660 efetch verbatim.
 Session total: 55 distinct pages verified (53 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 10 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Death acceptance: the DAP-R three-acceptance-types sentence matches the opened Jansen et al. BMC Psychology page (PMC6740004) verbatim.
+- Deliberation as rehearsal: the Dewey Human Nature and Conduct passage matches the opened Gutenberg #41386 text verbatim.
+- Delay plus reappraisal: the Gross 2015 implementation-stage sentence matches the opened Isaacowitz & Wolfe Emotion Review page (PMC11423774) verbatim (quote-of-a-quote; the inner Gross citation is reproduced faithfully).
+- Digital well-being: the Burr/Taddeo/Floridi definition matches the opened PMC7417400 page verbatim (page drops the source's trailing "(Floridi 2014a)" citation at clause end — standard elision); the Calvin/Chen/Selkie model-summary sentence and the Verduyn passive-use definition match the opened PMC13341170 page verbatim.
+- Divergent and convergent thinking: the Cropley/Guilford definitions passage matches the opened Jaarsveld & Lachmann page (PMC5292426) verbatim.
+- Early childhood education research: the Heckman Science 2006 concluding passage matches the opened author-hosted PDF verbatim (extraction shows "pupilteacher" — the print has the hyphen; page correct).
+Session total: 61 distinct pages verified (59 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
