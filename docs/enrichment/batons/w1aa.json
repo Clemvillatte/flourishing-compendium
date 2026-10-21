@@ -27,5 +27,7 @@
    "from": "worker-takeover-7d3a9c",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T08:09:01+00:00"
 }
