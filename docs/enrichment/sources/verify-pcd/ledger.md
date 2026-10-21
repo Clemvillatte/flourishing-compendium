@@ -403,3 +403,9 @@ QC-closed).
 
 ### w1d "Attentional control theory (Eysenck)" — quote fidelity PASS (verification pass)
 - Eysenck et al. 2007 abstract passage EXACT vs the opened TU Dresden-hosted PDF.
+
+### w1d "Attention restoration" — quote fidelity PASS (verification pass)
+- Kaplan 1995 passage verified vs the opened hosted PDF: all displayed fragments verbatim;
+  the page's ellipses correctly mark omissions (including the omitted sentence about
+  researchers failing to understand the model, disclosed by the ellipsis after "directed
+  attention"); the hyphenation-normalization note is an honest disclosure of OCR cleanup.
