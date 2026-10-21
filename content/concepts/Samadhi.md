@@ -7,7 +7,7 @@ file: "Samadhi"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Samādhi is the eighth limb of Patañjali's yoga: meditative absorption, the stage where attention has rested on one thing long enough that the object fills the field and the sense of a separate onlooker falls away. Charles Johnston's translation of the defining sutra:
+Samādhi is the culminating step of Patañjali's yoga: meditative absorption, where the object contemplated fills awareness and the sense of a separate onlooker falls away. Charles Johnston's translation of the defining sutra:
 
 > "When the perceiving consciousness in this meditative is wholly given to illuminating the essential meaning of the object contemplated, and is freed from the sense of separateness and personality, this is contemplation (samadhi)." (Patanjali, Yoga Sutras III.3, trans. Charles Johnston, [Sacred Texts Archive](https://sacred-texts.com/hin/ysp/ysp06.htm))
 
@@ -17,7 +17,7 @@ The sutra comes third in a sequence. Attention (dhāraṇā) binds consciousness
 
 ### With an object, and without
 
-The Book I commentary describes meditation that begins with an external object and a later state in which "the need of an external object on which to rest the meditation is outgrown". The closing sutra of Book I names the end of the path: "When this impression ceases, then, since all impressions have ceased, there arises pure spiritual consciousness, with no seed of separateness left" (I.51). The tradition reads the difference between absorption that still rests on an object and this seedless state as the difference between seeded and seedless samādhi.
+The Book I commentary describes meditation that begins with an external object and a later state in which "the need of an external object on which to rest the meditation is outgrown". The closing sutra of Book I names the final state: "When this impression ceases, then, since all impressions have ceased, there arises pure spiritual consciousness, with no seed of separateness left" (I.51).
 
 ### In the compendium
 
