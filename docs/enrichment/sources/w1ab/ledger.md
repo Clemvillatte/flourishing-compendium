@@ -579,3 +579,9 @@
 - QC cadence: this item closed AFTER the items-11-15 milestone (closed with round-2
   PASS); this item's advisor QC is due at the NEXT 5-item boundary (items 16-20,
   i.e. with the next worker's batch).
+
+## Obedience research (fast-track) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line 'authority can override conscience (Milgram, 1963)' + Sources stub + Cited-in B160). Validated --fast-track --base 4b2bebc4f: ok.
+- Carriers opened via esearch/efetch: (1) Milgram 'Behavioral Study of Obedience', J Abnorm Psychol 1963;67:371-8, PMID 14049516 — PubMed bibliographic record ONLY (no abstract text in PubMed for this record); (2) Elms 'Obedience lite', Am Psychol 2009;64(1):32-6, PMID 19209962 — abstract fetched and quoted verbatim (the 'stressful circumstances that made Milgram's findings so psychologically interesting' sentence and the 'obedience lite' extension sentence).
+- SCOPE NOTE: the page states only what the opened records support — the original paper's existence and citation, and Elms's (a witness's) characterization; the famous 65%-to-450-volts figure is NOT stated (no opened record was read that states it); the seed's 'authority can override conscience' framing is carried by the citation line, not asserted as a finding from an unopened source.
+- QC cadence: due at the next 5-item boundary with Ockham's razor (items 16-17 of the next worker's window).
