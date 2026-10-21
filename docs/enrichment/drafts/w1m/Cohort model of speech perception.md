@@ -48,7 +48,7 @@ Someone says "she locked the cap…" and for a fraction of a second captain, cap
 
 ## Sources
 
-- [Marslen-Wilson (1987), "Functional parallelism in spoken word-recognition", Cognition 25(1), 71-102 — PDF of the printed article, raw-text verified](https://shotam.github.io/LING611_papers/MarslenWilson_1987.pdf) — abstract p. 71; three functions pp. 72-73; 200 ms estimate pp. 73-77; naming and access autonomy p. 78; cohort activation pp. 78-79; sequential reduction p. 79; recognition point p. 80; trespass example and constraints footnote p. 81; frequency p. 93; opened 2026-10-21
+- [Marslen-Wilson (1987), "Functional parallelism in spoken word-recognition", Cognition 25(1), 71-102 — PDF of the printed article](https://shotam.github.io/LING611_papers/MarslenWilson_1987.pdf) — abstract p. 71; three functions pp. 72-73; 200 ms estimate pp. 73-77; naming and access autonomy p. 78; cohort activation pp. 78-79; sequential reduction p. 79; recognition point p. 80; trespass example and constraints footnote p. 81; frequency p. 93; opened 2026-10-21
 
 ## Field
 
