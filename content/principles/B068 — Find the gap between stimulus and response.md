@@ -28,7 +28,7 @@ Imagine hearing a phone notification while reading. If you notice an urge to che
 
 ## Stories
 - [[ST372 — Dighavu Puts the Sword Away Three Times|372. Dighavu Puts the Sword Away Three Times]]
-
+- [[ST417 — Dighavu Puts the Sword Away Three Times|417. Dighavu Puts the Sword Away Three Times]]
 ## Psychology parallels
 
 - **[[Response inhibition|Response inhibition]]**: Logan and Cowan modelled stopping as a race against an ongoing response; this model does not itself establish that mindfulness improves inhibition or that Buddhist feeling is a timed control gap ([1984, pp. 295-297](http://www.psy.vanderbilt.edu/faculty/logan/1984LoganPR.pdf)).

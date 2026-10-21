@@ -308,6 +308,11 @@
      "t": "2026-10-21T12:22:19+00:00",
      "to": "published",
      "note": "supervisor registration this session"
+    },
+    {
+     "t": "2026-10-21T12:40:28+00:00",
+     "to": "published",
+     "note": "supervisor registration ST417"
     }
    ]
   },
@@ -737,5 +742,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:40:11+00:00"
+ "updated": "2026-10-21T12:40:28+00:00"
 }
