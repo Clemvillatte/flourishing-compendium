@@ -511,3 +511,20 @@ Prologue "It's" apostrophe was corrected from straight to curly to match the
 source). Both pages validator-clean vs their seed baselines. The other seven
 PBT pages remain QC-pending (advisor noted; Midlevel terms carries the
 recorded fetch-extraction risk).
+
+## PBT/EEMM round-2 closeout (scoped clearance)
+Exact-file verification done: every blockquote extracted from the ACTUAL
+files and substring-checked against the extracted book text — all OK,
+including curly punctuation (meta-model quote's single quotes fixed to the
+source's curly doubles; VRSCDL "versatile" and Tinbergen's apostrophe fixed
+to curly). Third author credited (Hofmann, Hayes and Lorscheid manual); the
+Prologue attribution reduced to "the book's prologue" (no separate byline
+verified for the prologue section). "Classifying statement, in full" reworded
+to "the book's classification". PP081 read: it carries the ACT lineage
+explicitly (ACT's six processes), so the lineage statement stands with the
+principles' own text. Sources workflow notes moved to the ledger; public
+Sources now carry bibliographic details and chapter locators only. Validation
+without --fast-track vs seed baselines: both ok. ROUND-2/3 SCOPED PASS
+recorded for Process-based therapy and Extended Evolutionary Meta-Model
+(scoped to these two pages; the other seven PBT pages, exhaustive saturation
+and the pending link integration remain open, per the advisor).

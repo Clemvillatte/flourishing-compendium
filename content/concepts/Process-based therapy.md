@@ -8,7 +8,7 @@ tags: ["theory", "psych/clinical"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
 
-Process-based therapy (PBT) is the framework presented in Stefan G. Hofmann and Steven C. Hayes's clinical manual: instead of asking which named treatment fits which named disorder, the clinician asks which processes of change are active in this particular person, and targets them directly. The book that carries the model announces it as a redefinition, not a new brand:
+Process-based therapy (PBT) is the framework presented in the Hofmann, Hayes and Lorscheid clinical manual: instead of asking which named treatment fits which named disorder, the clinician asks which processes of change are active in this particular person, and targets them directly. The book's prologue announces it as a redefinition, not a new brand:
 
 > "Process-based therapy (PBT) is a new definition of what evidence-based therapy even means. It’s not a new treatment method—it’s a new way of thinking about treatment methods." (Hofmann, Hayes & Lorscheid, Learning Process-Based Therapy (2021), Prologue)
 
@@ -55,5 +55,5 @@ The compendium's psychological flexibility principles carry the ACT lineage PBT 
 
 ## Sources
 
-- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy: A Skills Training Manual for Targeting the Core Processes of Psychological Change in Clinical Practice, Context Press / New Harbinger, ISBN 9781684037551 — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — all quotations verified verbatim against the extracted text: the Prologue definition, the Chapter 1 model statement, function-over-content claim and aim summary, the network definition, and the Chapter 10 treatment-kernel definition
-- Hayes, S. C., & Hofmann, S. G. (Eds.) (2018), Process-based CBT: The science and core clinical competencies of cognitive behavioral therapy, New Harbinger, and Hofmann, S. G., & Hayes, S. C. (2019), "The future of intervention science: Process-based therapy", Clinical Psychological Science 7(1), 37-50 — both verified in the book's bibliography
+- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy: A Skills Training Manual for Targeting the Core Processes of Psychological Change in Clinical Practice, Context Press / New Harbinger, ISBN 9781684037551 — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — Prologue: the definition; Chapter 1: the model statement, function-over-content claim and aim summary, the network definition; Chapter 10: the treatment-kernel definition
+- Hayes, S. C., & Hofmann, S. G. (Eds.) (2018), Process-based CBT: The science and core clinical competencies of cognitive behavioral therapy, New Harbinger, and Hofmann, S. G., & Hayes, S. C. (2019), "The future of intervention science: Process-based therapy", Clinical Psychological Science 7(1), 37-50 — both cited in the book's bibliography
