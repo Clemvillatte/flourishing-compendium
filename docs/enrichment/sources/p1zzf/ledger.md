@@ -18,3 +18,7 @@
 ## R034 — Practise tika
 - Opened: Stewart et al. 2021 AUT paper (fetched, quotes verbatim with page refs), Law Commission SP9 (excerpt), Aquino & Reed definition via secondary paper. Mead/Durie/Blasi not read.
 - Seed "tika = Māori equivalent of moral integrity" explicitly warned against by Stewart et al. 2021 -> rewritten. Philosophy parallels (Confucius, Aristotle) untouched/unopened.
+
+## R036 — Practise aroha
+- Opened: Te Aka entry (excerpt), Stewart et al. 2021 (fetched earlier), PESA Agora column (excerpt), Underwood chapter (excerpt). Mead/Durie not read. Schopenhauer/Nussbaum parallels untouched/unopened.
+- Seed "aroha = affective dimension of tikanga" not found in sources -> dropped; "equate aroha with compassion falls far short" disclosed. Fehr & Sprecher well-being findings seen only in a reposted PDF -> not used.
