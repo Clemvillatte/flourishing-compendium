@@ -230,6 +230,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST346 — The Boy from Grass Valley]]
     - [[ST373 — Jane Addams Cannot Produce the Devil Baby]]
     - [[ST398 — The Boys with the Tin Lanterns]]
+    - [[ST400 — Gowers Posts a Problem and 1,000 Comments Answer]]
   - [[ST-S03.09 — III.9 Embodiment, Nature, and World-Participation]]
     - [[ST132 — The Blind Man's Cane]]
     - [[ST133 — Bateson's Circuit]]

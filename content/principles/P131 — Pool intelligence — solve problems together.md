@@ -30,6 +30,9 @@ Imagine residents considering a redesigned intersection. An engineer brings traf
 
 - [The Public and Its Problems (Dewey, 1927), Internet Archive](https://archive.org/details/publicitsproblem0000dewe) — Ch. VI, "The Problem of Method"
 
+## Stories
+- [[ST400 — Gowers Posts a Problem and 1,000 Comments Answer|400. Gowers Posts a Problem and 1,000 Comments Answer]]
+
 ## Psychology parallels
 
 - **[[Collective intelligence|Collective intelligence and wisdom of crowds]]**
