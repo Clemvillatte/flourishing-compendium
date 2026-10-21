@@ -257,3 +257,32 @@ Carriers opened fresh: inters.org Jonas "Technology and Responsibility", Gutenbe
 
 Result: 3/3 quotation fidelity PASS; one minor citation-precision note (Wiktionary sense),
 no defects.
+
+## Round 11 (16:28Z) — w1aa quote-fidelity verification, tenth batch
+
+Carriers opened fresh: tidsskrift.dk Hammarström "(Mis)understanding Intra-active
+Entanglement" PDF, OpenAIRE Reber 1967 abstract record, plus (for Thibaut & Kelley)
+independent quoting carriers — Wikiquote John Thibaut p. 21, Jowett & Nezlek JSPR 2012,
+Philippine Journal of Psychology 1979 — because the primary Internet Archive OCR text was
+unreachable this session (archive.org rate-limits this sandbox).
+
+1. Interdependence Theory — both blockquotes verbatim-supported via multiple independent
+   quoting carriers of Thibaut & Kelley 1959 pp. 21-22 (CL/CLalt definitions and the
+   "deserves" sentence). ONE-WORD CARRIER VARIANCE noted: Wikiquote renders "a member
+   evaluates" where the page and the majority of scholarly quoting carriers print "the
+   member evaluates" — the page honestly flags scan-artifact normalisation; no repair
+   needed, noted for the record.
+2. Intra-action — Barad blockquote VERBATIM vs the opened article. DEFECT ROUTED (no
+   baton on w1aa): the page attributes the quoting article to "Herskin 2012", but the
+   opened carrier's byline is MATZ HAMMARSTRÖM, "(Mis)understanding Intra-active
+   Entanglement", Kvinder, Køn & Forskning no. 4 (2012), pp. 39-46, DOI
+   10.7146/kkf.v0i4.28152 (confirmed by multiple bibliographic records); the page's
+   parenthetical "the quoting article's author is not named in the material I opened" is
+   also inaccurate — the byline is printed on the PDF. Repair requested for supervisor or
+   w1aa holder: reattribute Herskin -> Hammarström (both the in-text note and the Sources row).
+3. Implicit learning research — all quotations VERBATIM vs the opened OpenAIRE abstract
+   record (first sentence, Experiment II sentence, grammatical-nature fragment, Gibson &
+   Gibson differentiation sentence).
+
+Result: 3/3 quotation fidelity PASS; 1 citation-author defect routed (Intra-action /
+Herskin->Hammarström).
