@@ -138,3 +138,91 @@ bar §1a applies per item where degree < 15; the first ten items all had < 15 co
   (e.g. "## concept (4)" + "## principle (4)" = 8). All ten worked items were
   fast-track. No page was padded to a normal-track length after this correction;
   the four flagged glosses were removed rather than extended.
+
+## Developmental psychopathology framework
+
+- Track: fast-track (degree < 15).
+- Opened: Toth & Cicchetti, PMC4520222 (fetched verbatim). Quotes on
+  pathways/competence/resilience verbatim.
+
+## Dialectic
+
+- Track: fast-track (degree < 15).
+- Opened: SEP Hegel's Dialectics (plato.stanford.edu/entries/hegel-dialectics/). The
+  "opposing sides" sentence blockquoted verbatim; fragments checked as substrings.
+
+## Dialogue
+
+- Track: fast-track (degree < 15).
+- Opened: Buber, I and Thou (trans. R. G. Smith), Internet Archive full text
+  (archive.org/details/IAndThou_572). "All real living is meeting..." and the
+  whole-being fragments verified against the full text; removed an ungrounded
+  "personality and the personal" claim and seed references.
+
+## Diathesis-stress model
+
+- Track: fast-track, degree 4.
+- Opened: Colodro-Conde et al. 2017, Molecular Psychiatry, PMC5764823 (fetched
+  verbatim). Blockquote ("Initially developed...") plus "synergism" and
+  "multiplicative interactive effects" sentences verbatim.
+
+## Diversion
+
+- Track: fast-track, degree 4.
+- Opened: Pascal, Pensées, trans. Trotter, Project Gutenberg #18269 (full text
+  downloaded and grepped). Blockquote (fragment 139 "cannot stay quietly in their own
+  chamber") and fragments 131/139/163/165 verbatim. Front matter kept byte-for-byte
+  (first draft rewrote it; caught by validator, restored).
+
+## Dunning-Kruger effect
+
+- Track: fast-track, degree 4.
+- Opened: Kruger & Dunning 1999, JPSP 77(6):1121-1134, PubMed abstract 10626367 via
+  NCBI efetch. Dual-burden sentence, 12th/62nd percentile sentence, and metacognitive
+  fragments verbatim.
+
+## Dynamic systems theory
+
+- Track: fast-track (degree < 15).
+- Opened: Grossi, Duchesne & Maney, Biology of Sex Differences, PMC13348645 (fetched
+  verbatim). Self-organization, soft-assembly, "not coded anywhere" and Thelen infant
+  fragments verbatim; removed an ungrounded treadmill/weights gloss on Thelen's
+  stepping studies; normalized a quote-initial capital.
+
+## Eigentlichkeit (authenticity)
+
+- Track: fast-track (degree < 15).
+- Opened: Varga & Guignon, SEP Authenticity (plato.stanford.edu/entries/authenticity/).
+  Neologism etymology, das Man, death-as-loss-of-possibilities, and owning/owning-up
+  sentences verbatim.
+
+## Empathic concern
+
+- Track: fast-track, degree 4.
+- Opened: Zhao et al., Behavioral Sciences, PMC13603700 (fetched verbatim).
+  Empathic-concern vs personal-distress sentence and the empathy-altruism motivation
+  sentence verbatim; a helping-vs-escaping directional gloss was softened to what the
+  opened text states.
+
+## Emodiversity theory
+
+- Track: fast-track (degree < 15).
+- Opened: Wright, Jones & Johnson, Behavioral Sciences, PMC12838163 (fetched
+  verbatim). Shannon-entropy and "beyond valence and intensity" sentences verbatim.
+  Validator caught a "not only... but" staging pattern in the opening sentence;
+  rewritten and revalidated.
+
+## Elaboration Likelihood Model
+
+- Track: fast-track, degree 4.
+- Opened: Monahhova et al., Frontiers in Human Neuroscience, PMC13630730 (fetched
+  verbatim) plus Xu, Frontiers in Psychology, PMC13658506 (fetched verbatim). The
+  central/peripheral split sentence and the peripheral-cue examples verbatim. The
+  durable-vs-fragile contrast is inherited from the seed framing, not asserted to the
+  opened sources.
+
+## Sources-checked count
+
+- sources_checked: 21 items worked, all with at least one opened carrier; see entries
+  above. Advisor QC milestones held at items 1, 5, 10 and 15; no milestone QC due
+  before item 20 beyond repairs already recorded.
