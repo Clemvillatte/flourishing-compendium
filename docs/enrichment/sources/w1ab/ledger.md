@@ -1081,3 +1081,11 @@ Fast-track items done this stretch (all: quote carriers opened, quotes verified 
 - Perfectionism research (PubMed 2027080 + 29283599)
 - Person-role fit research (author-hosted DeRue & Morgeson 2007 PDF)
 Band status: all 13 actionable manifest items handled (3 identity-held out of done per advisor gate: One koan, Obstruction as stimulus, One principle at a time); 10 held/identity items remain for supervisor disposition.
+
+### Milestone advisor QC round 2 (worker-pxy2, items 7-13)
+- Optimistic explanatory style: repairs applied (interview framing, unverified origin claims removed); stays done. P171 quote-wording flag for supervisor.
+- Ordering the soul: repairs applied (knowledge/opinion attribution per source; opening narrowed); stays done.
+- Participation: secondary-reflection clause re-verified against opened SEP text; PASS; stays done.
+- Person-role fit research: repairs applied (D086 clause; general vs creative self-efficacy); stays done.
+- Organismic trust: QC FAIL on overclaims + identity -> overclaims repaired, IDENTITY HOLD, out of done (merge/redirect candidate: Self-concordance theory).
+Final tally this session: 10 done, 3 identity-held (One koan, Obstruction as stimulus, One principle at a time) + Organismic trust held = 4 held, all pending supervisor disposition.

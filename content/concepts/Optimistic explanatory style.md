@@ -7,13 +7,13 @@ file: "Optimistic explanatory style"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-Martin Seligman's name for the habit of explaining bad events in a way that keeps action possible: the setback is temporary, specific to this situation, and something one can do something about. The concept grew out of his learned helplessness research and was popularised in Learned Optimism (1990).
+In a 2026 interview about his work, Martin Seligman describes explanatory style as the habit that matters after a setback: how one explains bad events. His three dimensions in that interview are the ones the research line named after him.
 
 ### The three dimensions
 
 > "What matters is explanatory style. Pessimists explain bad events as permanent, pervasive, and personal. Optimists explain the same events as temporary, specific, and controllable." — [Seligman, Beck Institute Q&A on Agency (2026)](https://beckinstitute.org/blog/a-qa-with-dr-martin-seligman-on-how-agency-shapes-human-action-part-1/)
 
-Each dimension is a question about a setback: does the cause look permanent or temporary, does it touch everything or just this, and does it lie inside what a person can act on. Seligman adds a warning that cuts both ways: "The pessimistic style and the excusing style are the same move: both put the cause beyond the reach of your action, one by calling it your permanent defect, the other by calling it someone else's fault" ([Beck Institute Q&A](https://beckinstitute.org/blog/a-qa-with-dr-martin-seligman-on-how-agency-shapes-human-action-part-1/)). The optimistic style is not positive thinking; it is explanation that leaves something to investigate or do.
+Each dimension is a question about a setback: does the cause look permanent or temporary, does it touch everything or just this, and does it lie inside what a person can act on. Seligman adds a warning that cuts both ways: "The pessimistic style and the excusing style are the same move: both put the cause beyond the reach of your action, one by calling it your permanent defect, the other by calling it someone else's fault" ([Beck Institute Q&A](https://beckinstitute.org/blog/a-qa-with-dr-martin-seligman-on-how-agency-shapes-human-action-part-1/)). His emphasis here is on explanations that leave room for action.
 
 ### In the compendium
 

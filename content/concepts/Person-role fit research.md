@@ -17,13 +17,13 @@ The second dimension, needs-supplies fit, covers the other direction: whether th
 
 ### In the compendium
 
-- [[D086 — Don't sell your nature for glory]] — uses this research as the psychology parallel for weighing an attractive role: fit is a two-way check, what the role demands and what it supplies, before the rewards.
+- [[D086 — Don't sell your nature for glory]] — asks whether an attractive role's rewards justify their costs to freedom and existing commitments; the study's two fit dimensions offer a separate way to examine that choice.
 
 ## Related concepts
 
 - [[Person-organization fit]] — the broader fit question, whole workplace rather than role.
 - [[Organizational research]] — the survey page for the fit research family.
-- [[Creative self-efficacy]] — the self-efficacy construct the role-fit findings turn on.
+- [[Creative self-efficacy]] — a related efficacy construct; the study itself turns on general self-efficacy, the broader belief in one's capacity to act.
 
 ## Sources
 

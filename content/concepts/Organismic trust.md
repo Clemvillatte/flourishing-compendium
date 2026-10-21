@@ -13,7 +13,7 @@ The seed names the finding behind this trust: when goals match a person's develo
 
 > "The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them. Second, those who attain self-concordant goals reap greater well-being benefits from their attainment." — [Sheldon & Elliot, 1999, abstract (PubMed, PMID 10101878)](https://pubmed.ncbi.nlm.nih.gov/10101878/)
 
-The dual role matters for the trust: fit is not only a sign of authenticity, it is a cause of sustained effort, and attainment only pays off in well-being when the goal was self-concordant in the first place. The abstract adds that the well-being benefit is mediated by need satisfaction, "daily activity-based experiences of autonomy, competence, and relatedness that accumulate during the period of striving" ([Sheldon & Elliot, 1999](https://pubmed.ncbi.nlm.nih.gov/10101878/)). The trust is therefore not a mood of self-approval; it is a hypothesis about which goals will hold effort.
+The dual role matters for the trust the label names: the abstract reports more sustained effort among people pursuing self-concordant goals, and greater well-being benefits when those goals are attained. The model links those benefits to satisfaction of autonomy, competence and relatedness, "daily activity-based experiences" that "accumulate during the period of striving" ([Sheldon & Elliot, 1999](https://pubmed.ncbi.nlm.nih.gov/10101878/)).
 
 ### In the compendium
 
