@@ -115,3 +115,32 @@ w1l owner: swap the blockquote to the book's exact wording and cite the opened p
 PDF (https://media.sabda.org/alkitab-2/Religion-Online.org%20Books/Tillich,%20Paul%20-%20The%20Eternal%20Now.pdf),
 adjusting the "taken from that footnote" sentence; WikiQuote cites the Scribner 1963
 printing at p. 11 if a page locator is wanted. No edit made (no baton).
+
+## w1j late-session sample (worker-w1l-c5a7e913's 08:21-08:28Z batch, released band)
+
+### Fundamental attribution error — quote fidelity FULL PASS; Humanizer defects ROUTED (15:02Z real clock)
+- Ross 1977 blockquote EXACT vs the opened Internet Archive PDF text (fetched fresh).
+- Jones & Harris 1967 fragments EXACT vs the opened strategian.com abstract page; the
+  three-experiment staging description grounded.
+- Malle 2006 claims grounded verbatim vs the opened PubMed abstract (173 studies,
+  d = -0.016 to 0.095, moderator conditions, valence reversal, self-serving sentence).
+- ROUTED Humanizer findings: (a) the raw seed line survives as the first body sentence
+  after frontmatter ("the robust bias toward over-crediting the self (Ross, 1977); ...");
+  (b) working-notes meta-commentary in the body ("The seed's definition is wrong... The
+  page below separates the two", "### What was not checked") reads as editor margin, not
+  wiki prose; (c) bare "Ross, 1977" / "Jones & Harris, 1967" entries in Sources plus
+  "read via search excerpt" notes — the two search-excerpt sources are now independently
+  verified against opened carriers (this round), so those notes can be retired;
+  (d) the Cited-in sections at the foot are mangled — leftover seed fragments ("we
+  over-attribute behavior to persons...") mixed into the parallels lists.
+
+### Gate control theory of pain — quote fidelity FULL PASS; minor Humanizer notes ROUTED (15:04Z)
+- Both Mendell 2014 blockquotes EXACT vs the opened PubMed abstract (24334188), including
+  the descending-control fragment; Lin et al. 2020 fragments EXACT vs the opened PubMed
+  abstract (32804230) — origin, "largely unknown" mechanism, and the four mechanistic
+  ingredients all grounded.
+- Minor Humanizer notes: "### What this page does not claim" is editor-voice meta
+  commentary (same working-notes signature as the FAE page); a trailing empty
+  "## Cited in philosophy parallels" header; the Field section duplicates the cited-in
+  links. Same w1j-batch signature — one cleanup pass could humanise both pages' meta
+  sections into a normal "Limits" or closing paragraph.
