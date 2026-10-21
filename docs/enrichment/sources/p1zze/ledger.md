@@ -16,3 +16,7 @@
 ## M030 — Humility as accuracy
 - Opened: Florentine Codex Book VI full OCR text (archive.org djvu, downloaded and grepped; quotes checked: ch.12 "I have spent my life in excrement, in refuse"; exhortation to a noble youth "the humbling, the bowing ... these are honor" — chapter number not confirmed from OCR); ch.12 and ch.20 headings (bibliovault + contents in OCR); Tangney 2000 abstract (Guilford); Davis et al. 2013 abstract (scispace; Study 2 N=84).
 - FLAG: seed quote "you are a poor wretch, a beggar, a nobody" NOT found in Book VI text (grep for wretch/beggar/nobody: none). Removed. Seed practice "acknowledge the contributing others" kept as practical gloss, labelled as such in Plain words? (not source-backed; framed as practical form).
+
+## M031 — Work steadily
+- Opened: Florentine Codex Book VI OCR text (riseth from sleep / heavy sleeper; "laughter, sleep, and our sustenance"; chapter numbers not confirmed); Richards et al. 2016 COBRA (PubMed 27461440, N=440). Martell 2010 unopened (bare ref).
+- Seed claims "idle person is the tradition's picture of the degenerating person" and "work without becoming a slave to work / rest as a duty" NOT found verbatim; rest/laughter/sleep as gifts found and quoted; overwork framed as interpretation. Title claim (idleness the root disorder) left untouched as principle statement.
