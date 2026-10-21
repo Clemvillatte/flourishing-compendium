@@ -6,58 +6,33 @@
    "st-id": "ST365",
    "angle": "B129: Deshan and the old woman at the tea stall - the Diamond Sutra question the scholar could not answer; commentary vs direct experience",
    "history": [
-    {
-     "t": "2026-10-21T12:11:00+00:00",
-     "to": "researching"
-    },
-    {
-     "t": "2026-10-21T12:14:00+00:00",
-     "to": "qc_pending",
-     "note": "advisor QC round 1"
-    },
-    {
-     "t": "2026-10-21T12:17:51+00:00",
-     "to": "qc_pending",
-     "note": "round-1 fixes applied (provenance, quotes re-verified raw, mapping corrected); advisor QC round 2 returned source-fidelity fixes"
-    },
-    {
-     "t": "2026-10-21T12:19:28+00:00",
-     "to": "ready",
-     "note": "3 advisor rounds passed; all quotes verified raw; story_check ok"
-    },
-    {
-     "t": "2026-10-21T12:20:25+00:00",
-     "to": "published",
-     "note": "supervisor registration ST365"
-    }
+    {"t": "2026-10-21T12:11:00+00:00", "to": "researching"},
+    {"t": "2026-10-21T12:14:00+00:00", "to": "qc_pending", "note": "advisor QC round 1"},
+    {"t": "2026-10-21T12:17:51+00:00", "to": "qc_pending", "note": "round-1 fixes applied (provenance, quotes re-verified raw, mapping corrected); advisor QC round 2 returned source-fidelity fixes"},
+    {"t": "2026-10-21T12:19:28+00:00", "to": "ready", "note": "3 advisor rounds passed; all quotes verified raw; story_check ok"},
+    {"t": "2026-10-21T12:20:25+00:00", "to": "published", "note": "supervisor registration ST365"}
    ]
   },
   "s1d-002": {
-   "status": "ready",
+   "status": "published",
+   "st-id": "ST379",
    "angle": "B133: Chiyono 'No water, no moon' - the self that carried the water breaks with the pail; complementary to ST356 which carries the return half",
    "history": [
-    {
-     "t": "2026-10-21T12:20:25+00:00",
-     "to": "researching"
-    },
-    {
-     "t": "2026-10-21T12:22:00+00:00",
-     "to": "qc_pending",
-     "note": "advisor milestone QC fixes applied (provenance narrowed, Tricycle quote verified by opening the article)"
-    },
-    {
-     "t": "2026-10-21T12:22:21+00:00",
-     "to": "ready",
-     "note": "advisor fixes applied and verified; story_check ok; complementary angle to ST356 recorded"
-    },
-    {
-     "t": "2026-10-21T12:23:52+00:00",
-     "to": "published",
-     "note": "supervisor registration ST379"
-    }
+    {"t": "2026-10-21T12:20:25+00:00", "to": "researching"},
+    {"t": "2026-10-21T12:22:00+00:00", "to": "qc_pending", "note": "advisor milestone QC fixes applied (provenance narrowed, Tricycle quote verified by opening the article)"},
+    {"t": "2026-10-21T12:22:21+00:00", "to": "ready", "note": "advisor fixes applied and verified; story_check ok; complementary angle to ST356 recorded"},
+    {"t": "2026-10-21T12:23:52+00:00", "to": "published", "note": "supervisor registration ST379"}
+   ]
+  },
+  "s1d-003": {
+   "status": "ready",
+   "angle": "D018: John Harrison's forty years of clocks H1-H4 - ripening work that cannot be hurried; careful at the end as at the beginning",
+   "history": [
+    {"t": "2026-10-21T12:23:00+00:00", "to": "researching"},
+    {"t": "2026-10-21T12:24:25+00:00", "to": "ready", "note": "quotes raw-verified; story_check ok"}
    ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:23:52+00:00"
+ "updated": "2026-10-21T12:25:00+00:00"
 }
