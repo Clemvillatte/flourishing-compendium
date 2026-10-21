@@ -100,3 +100,7 @@
 ## R125 — Practise ecological hope
 - Opened (excerpts): Solnit quotes (Bookmate, Goodreads), Quote Investigator + Forest Nation (shade proverb provenance), Ojala 2012 (ERIC abstract), Ojala 2013 (abstract), Snyder 2002 abstract. Macy & Brown, Orr, Frankl, Lebowitz 2022, Marcel, Bloch unread.
 - Flags: tree-planting adage is an old proverb (1866/1868 earliest QI, Cicero/Caecilius), not attributable to the cited authors; "Lebowitz et al., 2022" not located; Ojala evidence correlational, Swedish youth samples.
+
+## S028 — Distinguish between needing and wanting
+- Opened: Epictetus Enchiridion 1 and 15 (Carter, MIT Classics), Seneca Letter 2 (Gummere, Standard Ebooks), SEP Stoicism (preferred indifferents), Kasser & Ryan 1993 (PubMed abstract), Brown & Kasser 2005 (ERIC abstract). Discourses, Meditations, Seneca Ep.110, Laozi, Epicurus unread.
+- Flags: seed "needs = virtue, reason, necessities" blurs the Stoic view (only virtue good; necessities are preferred indifferents). Brown & Kasser 2005 is not a "sufficiency" paper (values/mindfulness/ecological behaviour). Kasser & Ryan correlational.
