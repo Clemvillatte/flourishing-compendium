@@ -203,6 +203,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST114 — Varela and the Enactive Mind]]
     - [[ST115 — The Prestige and the Duplicated Man]]
     - [[ST347 — The First Act of Free Will]]
+    - [[ST404 — The Boy Who Said Oh Dieu]]
   - [[ST-S03.05 — III.5 Habit, Conduct, and Intelligent Action]]
     - [[ST116 — Dewey Breaks the Reflex Arc]]
     - [[ST117 — James and the Plastic State]]

@@ -34,6 +34,9 @@ On Mead's account, you did not build yourself in private. The voice you argue wi
 - [[K131 — Perspective-taking|K131 Perspective-taking]]
 - [[K145 — Role-taking|K145 Role-taking]]
 - [[K218 — Perspective-getting|K218 Perspective-getting]]
+## Stories
+- [[ST404 — The Boy Who Said Oh Dieu|404. The Boy Who Said Oh Dieu]]
+
 ## Psychology parallels
 
 - **Social self-construal and the looking-glass dynamics**, self-concept is relationally regulated (Markus and Kitayama, 1991; Cross et al., 2000)
