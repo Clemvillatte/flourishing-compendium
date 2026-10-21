@@ -95,3 +95,7 @@
 ## MO067 — ADHD and motivation
 - Opened: Faraone et al. 2021 consensus statement (PMC, fetched; statement 65 quoted); Volkow et al. 2011 abstract (PubMed/eScholarship). Brown 2013, Barkley 1997 unopened.
 - "Interest-based, not importance-based" not found as a defined construct in opened sources: disclosed on page. Seed "fix = build interest/novelty/urgency" not tested in opened sources; Plain words reworded as common suggestion, untested here.
+
+## PP003 — Measurement humility
+- Opened: Lucas 2018 chapter in Handbook of Well-Being (fetched; quotes verbatim); Lucas & Lawless 2013 abstract (PubMed); Diener/Oishi/Tay 2018 abstract (Nature Hum Behav).
+- Seed example "sunny Friday vs rainy Monday" is NOT safe: Lucas & Lawless 2013 (~1M Americans) found no reliable weather effect; Yap et al. replications (via Lucas) found mood effects <1/10 of originals. Seed claims on cultural response biases, physiological measures (HRV, cortisol, inflammation) and "MULTIS method (Luhmann 2017)" not found in opened sources -> dropped; Luhmann/MULTIS flagged unopened. Reflections comment and Stories section preserved.
