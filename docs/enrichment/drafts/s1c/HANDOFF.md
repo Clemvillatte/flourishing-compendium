@@ -11,5 +11,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-003 | Fayan Carries a Stone and Runs Out of Words (Whitfield 2019; John C. H. Wu 1967) | B140 | ready |
 | s1c-004 | Qin Shi Cries Out Three Times and Leaves (Zhuangzi 3, Legge + Eno) | D095 | ready |
 | s1c-005 | Darwin Pictures the Sofa and the Smoky London House (DCP transcripts; Autobiography) | P039 | ready |
+| s1c-006 | Frege Receives a Letter, Russell Counts the Tortoises (letters via Philarchive; Russell via idealectic; SEP) | P047 | ready; upgrade to van Heijenoort and Portraits from Memory if possible |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
