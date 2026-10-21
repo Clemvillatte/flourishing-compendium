@@ -150,6 +150,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST093 — Fern Joins the Nomads]]
     - [[ST094 — The Monk and the Seasons]]
     - [[ST095 — Dipa Ma Raises Two Children and Awakens]]
+    - [[ST380 — A Mirror for Rahula]]
 - [[ST-S03 — Part III — Pragmatist and Process Stories]]
   - [[ST-S03.01 — III.1 First Principles of Process]]
     - [[ST096 — Heraclitus and the River]]

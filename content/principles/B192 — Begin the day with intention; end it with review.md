@@ -45,6 +45,9 @@ Before a difficult conversation, set an intention to let the other person finish
 - [[K157 — Evening review|K157 Evening review]]
 - [[K240 — The weekly review|K240 The weekly review]]
 - [[K242 — Daily architecture|K242 Daily architecture]]
+## Stories
+- [[ST380 — A Mirror for Rahula|380. A Mirror for Rahula]]
+
 ## Psychology parallels
 
 - **Reflection and journaling**, expressive writing (Pennebaker and Beall, 1986)
