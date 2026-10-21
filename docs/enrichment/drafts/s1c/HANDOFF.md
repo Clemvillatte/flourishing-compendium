@@ -18,5 +18,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-010 | The Gift Nobody Accepted (SN 7.2; Thanissaro, Sujato) | B117, B162 | ready |
 | s1c-011 | Wang Ni Says "How Would I Know That?" Three Times (Zhuangzi 2; Eno, Legge) | D100 | ready |
 | s1c-012 | Ziyu Looks at His Reflection in the Well (Zhuangzi 6; Eno, Legge) | D098, D108 | ready |
+| s1c-013 | Kisa Gotami Goes from Door to Door (Burlingame, Buddhist Legends 2; Thig 10 excerpt) | B108 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
