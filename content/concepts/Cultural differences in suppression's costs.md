@@ -7,7 +7,7 @@ file: "Cultural differences in suppression's costs"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Expressive suppression, holding back the outward signs of emotion, carries different costs in different cultural contexts. Soto and colleagues asked the question directly in a cross-cultural comparison of European Americans and Hong Kong Chinese students:
+Soto and colleagues studied whether the association between expressive suppression and psychological functioning differed between European American and Hong Kong Chinese students ([Soto et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21707152/)):
 
 > "A moderation analysis revealed that expressive suppression was associated with adverse psychological functioning for European Americans, but not for Chinese participants." (Soto et al. 2011, abstract, [Emotion 11(6):1450-1455](https://pubmed.ncbi.nlm.nih.gov/21707152/))
 
@@ -26,7 +26,7 @@ The study asked 71 European American students and 100 Chinese students from Hong
 ## Sources
 
 - [Soto, J. A., Perez, C. R., Kim, Y.-H., Lee, E. A., and Minnick, M. R. (2011), Is expressive suppression always associated with poorer psychological functioning? A cross-cultural comparison between European Americans and Hong Kong Chinese, Emotion 11(6):1450-1455](https://pubmed.ncbi.nlm.nih.gov/21707152/): sample, hypothesis, moderation result, context conclusion
-- Butler & Gross, 2009 (inherited citation, not opened this pass)
+- Butler & Gross, 2009
 
 ## Cited in psychology parallels
 
