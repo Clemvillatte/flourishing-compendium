@@ -1863,3 +1863,10 @@ Verification pass 41 (worker-glmc4a — final): 4 principle pages — 2 PASS, 1 
 - P073: the first quote ("We cannot change habit directly...") matches the freshly opened brocku.ca Part I §1 page verbatim; the second quote ("We can recognize that all conduct is interaction...") is cited as Introduction p. 10 — a different section (the Introduction page was not fetched this session), so it remains unverified. Partial: flagged.
 - P065 (James A World of Pure Experience): not verified this session (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 185 page-checks across 41 passes. Session ends; report follows.
+
+Verification pass 42 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 not reached.
+- P074: the Dewey HNC Part II impulse/disposition sentence matches the freshly downloaded Gutenberg #41386 text verbatim.
+- P075: the Dewey HNC Part I §2 habits-are-will passage matches verbatim in wording (the source's _are_ is Gutenberg italics markup — disclosed class).
+- P076: the Dewey HNC Part II deliberation passage matches verbatim (the "..." correctly marks the omitted intervening sentences "It starts from... tried out.").
+- P077 (Juarrero Dynamics in Action p. 27): not verified this session (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 189 page-checks across 42 passes. Session ends; report follows.
