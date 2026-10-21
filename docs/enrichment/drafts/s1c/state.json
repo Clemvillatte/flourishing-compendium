@@ -1005,7 +1005,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-037": {
+   "status": "ready",
+   "angle": "D097/D098: Ziyu and Zisang, ten days of rain (Zhuangzi 6.9)",
+   "history": [
+    {
+     "t": "2026-10-21T12:52:05+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:52:05+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:52:05+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked"
+    },
+    {
+     "t": "2026-10-21T12:52:05+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:51:03+00:00"
+ "updated": "2026-10-21T12:52:05+00:00"
 }
