@@ -132,9 +132,8 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Calm, Ease](https://www.youtube.com/watch?v=XHvtIcaD194) | Thich Nhat Hanh, Plum Village | 20:24 |
 | [Guided Meditation on the Breath](https://www.audiodharma.org/talks/8) | Gil Fronsdal, AudioDharma | 30:13 |
 | [MBSR Sitting Meditation, 32-minute version](https://palousemindfulness.com/disks/sittingmeditation.mp3) | Palouse Mindfulness | 32 min |
-| [Guided Mindfulness Meditation](https://www.audiodharma.org/talks/4013) | Gil Fronsdal, AudioDharma | 42:59 |
 
-A note on the last row: that session's own page describes it as "Aspects of mindfulness as taught by the Buddha" and does not name a breath anchor, so its placement on this shelf rests on its title as a general guided sit rather than on a carrier-stated focus.
+The 30-to-45 minute slot on this shelf is open. One candidate, a 42:59 AudioDharma session by Gil Fronsdal titled "Aspects of mindfulness as taught by the Buddha", was checked and left off this shelf: its own page does not name a breath anchor, so its technique is unverified pending a listen to the audio.
 
 ### Open monitoring (OMM)
 
@@ -196,7 +195,8 @@ This shelf has not yet verified longer guided single sessions; the academies abo
 | [Space in the Day](https://www.mountaincloud.org/wp-content/uploads/2020/08/Space-in-the-day-%E2%80%94-meditation.mp3) | Henry Shukman, Mountain Cloud Zen Center | 12:57 |
 | [Body, Space and Mu](https://www.mountaincloud.org/wp-content/uploads/2020/08/Body-space-and-mu.mp3) | Henry Shukman, Mountain Cloud Zen Center | 15:32 |
 | [Resting. Settling, Grounding](https://www.mountaincloud.org/wp-content/uploads/2020/08/Resting-settling-grounding.....mp3) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
-| [Finding a Greater Wholeness, guided meditation](https://s3-us-west-1.amazonaws.com/media.rickhanson.net/audio/3_8_23FindingAGreaterWholenessMed.mp3) | Henry Shukman, guest at Rick Hanson's Wednesday Night Meditation | 30:25 |
+
+The 30-to-45 minute slot on this shelf is open. A 30:25 guided meditation led by Henry Shukman at Rick Hanson's Wednesday Night Meditation was checked and left off this shelf: his Zen credentials and the verified duration do not establish that the recording teaches shikantaza or koan practice, so its technique is unverified pending a listen to the audio.
 
 For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
 
