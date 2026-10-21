@@ -910,3 +910,14 @@ Carrier opened fresh: PubMed 25603380 (Bruehlman-Senecal & Ayduk 2015 abstract).
 w1w "Temporal distancing": both quoted passages VERBATIM vs the opened carrier
 (the second is a verbatim fragment of the longer abstract sentence — acceptable).
 1/1 PASS, no defects.
+
+## Round 70 (16:49Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: PMC9263694 (Wergin et al. 2022). w1q "Choking under pressure":
+Baumeister 1984 p.610 definition quote VERBATIM vs the opened carrier (other quotes
+on that page not re-checked this round — multi-carrier item, left for a future pass).
+1/1 PASS, no defects.
+
+Session totals: 70 verification rounds; ~115 pages quotation-fidelity checked against
+freshly opened carriers; 8 defects routed (none repaired in-band — no baton); 0
+hallucinated quotes or fabricated sources found.
