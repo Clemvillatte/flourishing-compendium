@@ -75,3 +75,26 @@
   Self-Evaluation Maintenance Theory page exists (w1w manifest item, not yet
   done — link is valid navigation to a future page).
 - Normal validator: ok (prose floor met, 3+ Related lines, links resolve).
+
+## Item 16: Rootedness (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Fullilove, 2004; Weil, The Need for Roots". No w1w identity flags.
+  Full rewrite.
+- Carriers opened: (1) The Examined Life library page of Weil excerpts
+  (theexaminedlife.org/library/the-need-for-roots) — verified verbatim the
+  Wills-translation sentences "To be rooted is perhaps the most important
+  and least recognized need of the human soul." and the "real, active, and
+  natural participation" definition sentence. (2) UCSF Health & Aging
+  "Root Shock Twenty Years On" (Sember, Kearns, Kaufman & Fullilove) —
+  verified verbatim Fullilove's root-shock definition "the traumatic
+  stress reaction to the loss of all or part of one's emotional ecosystem"
+  (Fullilove, 2004, p. 15) and the plant/health sentence (quoted inline,
+  attributed to the essay).
+- The "Whoever is uprooted himself uproots others" Weil passage was seen
+  only in secondary search snippets (with ellipses) — NOT quoted on the
+  page; only the two verified Weil quotes used.
+- Validator: caught 4-dashes-in-prose (inline Fullilove quote's two en
+  dashes + two of my em dashes) — fixed by rewording; also fixed a
+  "three channels" miscount. Normal validator: ok.
+- Links checked: Attachment theory and Restorative environments pages
+  exist. In the compendium links grounded; E030/D035 cited-in preserved.
