@@ -2378,3 +2378,14 @@ Verification pass 120 (worker-glmc4a): 4 principle pages, ALL PASS.
 - A087 (NE X.7 Ross, "make ourselves immortal"): the quote is present verbatim — the initial NOT FOUND was a boundary-punctuation artifact (the wiki page closes with "best thing in us." where the source continues "best thing in us; for even if it be small..." — the period is an editorial closure); the quote text itself matches verbatim. Disclosed.
 - A088 (NE X.5 Ross — same passage as A082, cited to the Boston University hosting of the Ross text): match verbatim.
 RUNNING TOTAL: 387 page-checks across 120 verification passes.
+
+## Theory-page standard now BINDING (owner directive, 2026-10-21 ~12:35Z)
+
+All theory work must follow the theory-page standard + skeleton appended to
+docs/enrichment/EXEMPLARS.md (worked example: Whole Trait Theory, w1m). Key points:
+identify the theory's FORM before writing the how-it-explains section (mechanistic /
+functional / organising / metaphorical / meta-theoretical — theories are not one thing);
+verified theorist quotes from opened carriers; the page must serve the wiki's purpose
+(suffering alleviation, wisdom development, genuine flourishing). PROTOCOL.md §2 carries
+the binding pointer. SUPERVISOR: pre-existing theory pages (e.g. those enriched before
+2026-10-21) are due a consistency retrofit pass against this standard — please queue.

@@ -79,6 +79,14 @@ tradition-neutral psychology concepts). Available tail bands are published on th
 
 ## 2. Page template (after unchanged front-matter)
 
+Theory pages (owner directive 2026-10-21): concept pages whose subject is a named theory
+MUST be verified and done following the theory-page standard + skeleton in
+`docs/enrichment/EXEMPLARS.md` — definition with a theorist quote, origin, core claims
+in the author's words, a how-it-explains section matched to the theory's FORM (what the
+theory does: mechanistic, functional, organising, metaphorical, meta-theoretical...),
+a real-life example, related concepts, sources. The page must serve the wiki's purpose:
+suffering alleviation, wisdom development, genuine flourishing.
+
 Skimmability rule (added 2026-10-19, owner request): the page must be scannable. Use short
 paragraphs (2-4 sentences) and `###` subheadings in sentence case between them. Never bold text
 in prose (validator ERR); subheadings carry the visual hierarchy. Standalone verbatim source

@@ -101,3 +101,198 @@ The compendium's principle D004 ("Cultivate de: your embodied character-power") 
 - [[A047 — Let practical wisdom unify the virtues]]
 
 
+
+---
+
+# Theory pages: standard + skeleton + worked example (owner-directed, 2026-10-21)
+
+Theory pages are concept pages whose subject is a named theory. They explain an
+explanation — and they exist to serve the wiki's purpose: suffering alleviation,
+wisdom development and genuine flourishing. A theory earns its page by what it
+helps a reader understand or do with their own mind and life; make that connection
+explicit through the principles that cite the theory (the cited-in block) and the
+everyday-life example. THE STANDARD BELOW IS BINDING for all theory work: every
+theory page must be verified and done following this model.
+
+## The skeleton
+
+```
+<opening: plain definition + verbatim quote from the/one main theorist
+ (standalone blockquote, hyperlinked carrier)>
+### Origin
+<who proposed it, when, in what research or intellectual setting>
+### Core claims
+<a few central propositions in the author's own words (blockquotes);
+ theory-dependent count — distinguish claims from tested findings>
+### <descriptive heading for how this theory explains — matches the theory's form>
+<the theory in its own terms, plus scope limits where needed>
+### In everyday life
+<documented example from the primary work, or clearly labelled illustrative scenario>
+## Related concepts
+<links explainable from opened material; preserve Field line and cited-in blocks>
+## Sources
+<URLs + locators>
+```
+
+## The standard, section by section
+
+**1. Definition.** Plain-language definition first, then a short verbatim quote
+from the/one main theorist as a standalone blockquote with the carrier hyperlinked.
+Verify authorship (theories are not always one person's) and the edition/page.
+A theory's canonical abstract is often the best quote.
+
+**2. Origin.** Who, when, and in what setting — institution, journal, or the debate
+it answers; a verified publication beats an unsupported city. Distinguish initial
+formulation from later revisions; present the naming modestly ("the authors
+presented the theory in their 2015 article").
+
+**3. Core claims.** In the author's own words, standalone blockquotes. How many
+claims is theory-dependent. An author's assertion is not a demonstrated result —
+keep theoretical claims, tested hypotheses and empirical findings distinct.
+
+**4. How it explains — identify the theory's form FIRST.** Theories are not one
+thing but many things; the section's shape follows what the theory does:
+
+- Explains how something works: mechanistic theories (components, interactions,
+  processes), functional theories (what something is for), dispositional theories
+  (stable tendencies), formal or computational theories (equations or programs with
+  derivable predictions).
+- Organises rather than explains: stage theories (a sequence people pass through),
+  typologies (types), classificatory schemes, nomological networks (constructs tied
+  to observables by law-like relations).
+- Explains a cluster of findings: middle-range theories built around one effect.
+- Works through metaphor: root metaphors (Pepper's formism, mechanism,
+  contextualism, organicism — labels may stay implicit), local metaphors (attention
+  as filter or spotlight), tool-derived metaphors (Gigerenzer: tools become
+  theories of mind).
+- Orients a whole field: meta-theories and frameworks (developmental images of
+  seed, machine, butterfly, dance), schools of thought (behaviourism, Gestalt,
+  psychoanalysis).
+
+Dimensions that cut across forms: level of analysis (Marr's computational,
+algorithmic, implementational), degree of formality (verbal to simulated), scope
+(grand, middle-range, local), aim (description, explanation, prediction, control),
+nomothetic versus idiographic.
+
+Practical rule: write the section in the theory's own terms — a stage theory's
+section is the stages; a typology's is the types; a mechanistic theory's is the
+mechanism. Where the four lenses help (patterns / processes / development /
+context), use them; never force all four. Name a category only when it clarifies;
+implicit is fine. State a relevant scope limitation rather than presenting the
+theory as universal fact.
+
+**5. A real-life example.** Prefer a documented example from the primary work
+(what the founding studies actually measured). Otherwise a clearly labelled
+illustrative scenario ("illustrative scenario, not a reported participant or study
+result"), never dressed as a study outcome.
+
+**6. Related concepts.** Links whose relationship you can explain from opened
+material — read the linked page before writing the gloss. A few meaningful links,
+not a quota. Preserve the Field line and cited-in blocks; the new list does not
+replace them.
+
+**7. Sources.** Identifiable publications with actual URLs and locators (page,
+section, PMID). Process notes and unresolved verification issues go in the band
+ledger, not the public page.
+
+**Sourcing rules for theories.** If the canonical paper is paywalled, an author's
+own abstract reproduced by a reliable host (journal site, PubMed, university
+centre) is an acceptable carrier for what the abstract says — label abstract-derived
+quotations as such. An abstract cannot establish unreported mechanisms, examples,
+historical priority or full-paper locators; never cite page numbers you have not
+opened. If a quote is only available reprinted inside a later paper, attribute it
+to the opened carrier and its own credit line (e.g., "Figure 2 caption, quoting
+the earlier paper"). Zero-hallucination and verbatim rules apply unchanged: every
+quoted word checked against an opened carrier (raw-text substring check, not just
+a search snippet).
+
+**Form rules (unchanged project rules).** Short paragraphs (2-4 sentences),
+sentence-case `###` subheadings, standalone verbatim quotes as blockquotes,
+hyperlinked sources, no bold in prose. Concept pages run 150-480 prose words in
+the validator (40-300 applies to principle pages); blockquote lines are excluded
+from the count. Front matter preserved byte-for-byte; all existing wikilinks,
+Field line and cited-in blocks preserved.
+
+**Retrofit note:** theory pages already enriched before this standard follow older
+patterns; they are due a consistency pass against this model (supervisor queue).
+
+## EXEMPLAR: Whole Trait Theory (worked example)
+
+Mechanistic-plus-descriptive form: it explains what a trait is made of (a
+distribution of states produced by social-cognitive mechanisms), so the section
+headings follow that. Published page: content/concepts/Whole Trait Theory.md
+(validator-clean, advisor-QC'd through two repair rounds; front matter and
+cited-in blocks omitted here).
+
+Whole Trait Theory joins the two halves of a trait: what a person actually does
+from moment to moment, and the mechanisms that produce those moments. Its authors
+state the program:
+
+> "Personality researchers should modify models of traits to include mechanisms of
+> differential reaction to situations. Whole Trait Theory does so via five main
+> points." ([Fleeson & Jayawickreme, 2015, abstract](https://wisdomcenter.uchicago.edu/publications/whole-trait-theory))
+
+### Origin
+
+The theory grew out of William Fleeson's experience-sampling research, published in
+the Journal of Personality and Social Psychology in 2001 — three studies covering
+two to three weeks of everyday life ([Fleeson, 2001, abstract](https://pubmed.ncbi.nlm.nih.gov/11414368/)).
+It appeared amid psychology's long person-situation debate, which Fleeson worked to
+move beyond ([Fleeson, Moving Personality Beyond the Person-Situation Debate](http://wholebeinginstitute.com/wp-content/uploads/W-Fleeson_Moving-Personality-Beyond-Person.pdf)).
+Fleeson and Eranda Jayawickreme presented the theory in their 2015 article in the
+Journal of Research in Personality (56, 82–92).
+
+### Core claims
+
+In their abstract, the authors identify five points:
+
+> "First, the descriptive side of traits can be conceptualized as density distributions
+> of states. Second, it is important to provide an explanatory account of the Big 5
+> traits. Third, adding an explanatory account to the Big 5 creates two parts to
+> traits, an explanatory part and a descriptive part, and these two parts can be
+> recognized as separate entities that are joined into whole traits. Fourth, Whole
+> Trait Theory proposes that the explanatory side of traits consists of
+> social-cognitive mechanisms. Fifth, social-cognitive mechanisms that produce Big-5
+> states should be identified." ([Fleeson & Jayawickreme, 2015, abstract](https://wisdomcenter.uchicago.edu/publications/whole-trait-theory))
+
+### The two sides
+
+The descriptive side is a distribution, not a fixed level. As Fleeson summarises the
+finding in the figure caption of his later paper:
+
+> "The typical person's behavior differs as much from occasion to occasion as does
+> his or her emotion, and more than the amount people differ from each other on
+> average." (Fleeson, [Moving Personality Beyond the Person-Situation Debate](http://wholebeinginstitute.com/wp-content/uploads/W-Fleeson_Moving-Personality-Beyond-Person.pdf),
+> Figure 2 caption, quoting Fleeson, 2001, p. 1015)
+
+The 2001 abstract reports substantial variation within individuals alongside
+stability at the level of individual differences: the typical individual "regularly
+and routinely manifested nearly all levels of all traits in his or her everyday
+behavior", while "individual differences in central tendencies of behavioral
+distributions were almost perfectly stable" ([2001 abstract](https://pubmed.ncbi.nlm.nih.gov/11414368/)).
+The explanatory side is social-cognitive: "within-person variability in
+extraversion was shown to reflect individual differences in reactivity to
+extraversion-relevant situational cues" ([2001 abstract](https://pubmed.ncbi.nlm.nih.gov/11414368/)).
+
+### In everyday life
+
+On this theory, being an extravert means frequent extraverted moments, not constant
+ones: the same colleague can be the loudest at Friday drinks and the quietest at
+Monday's stand-up, and both count as points in one person's distribution.
+(Illustrative scenario, not a reported participant or study result.)
+
+## Related concepts
+
+- [[Five-factor model of personality]] — the Big 5 the theory describes and explains
+- [[Cybernetic Big Five Theory]] — a sibling attempt to give the Big Five mechanisms
+
+## Sources
+
+- [Fleeson & Jayawickreme (2015), "Whole Trait Theory", Journal of Research in
+  Personality 56, 82–92 — abstract via University of Chicago Center for Practical
+  Wisdom](https://wisdomcenter.uchicago.edu/publications/whole-trait-theory)
+- [Fleeson (2001), "Toward a structure- and process-integrated view of personality:
+  traits as density distribution of states", Journal of Personality and Social
+  Psychology 80, 1011–1027 — abstract, PubMed PMID 11414368](https://pubmed.ncbi.nlm.nih.gov/11414368/)
+- [Fleeson, "Moving Personality Beyond the Person-Situation Debate: The Challenge and
+  the Opportunity of Within-Person Variability" (PDF)](http://wholebeinginstitute.com/wp-content/uploads/W-Fleeson_Moving-Personality-Beyond-Person.pdf) — opened carrier for the Figure 2 caption quotation
