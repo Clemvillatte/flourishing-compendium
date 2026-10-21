@@ -35,6 +35,9 @@ Choose the target of your effort first. Ask whether a mental quality is harmful 
 - [[K175 — Graded task assignment|K175 Graded task assignment]]
 - [[K182 — Small-wins tracking|K182 Small-wins tracking]]
 - [[K185 — The two-minute rule|K185 The two-minute rule]]
+## Stories
+- [[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts|376. Meghiya Finds the Right Grove and the Wrong Thoughts]]
+
 ## Psychology parallels
 
 - **Stimulus control and reinforcement**, arranging the environment and rewarding desired responses (Duckworth et al., 2016, situational strategies)

@@ -29,6 +29,9 @@ The monkeys' anger and pleasure turned on the order the acorns arrived in, not t
 
 - [Zhuangzi, Chapter 2, "The Adjustment of Controversies", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — the monkey-keeper story and the sage's resting place
 
+## Stories
+- [[ST370 — The Blind Men and the Elephant|370. The Blind Men and the Elephant]]
+- [[ST371 — A Banquet the Seabird Could Not Survive|371. A Banquet the Seabird Could Not Survive]]
 ## Psychology parallels
 
 - **[[Dichotomous (black-and-white) thinking|Dichotomous (black-and-white) thinking]]**, predicts distress and interpersonal dysfunction

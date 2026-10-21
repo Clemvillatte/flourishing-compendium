@@ -28,7 +28,7 @@ Imagine a friend saying that familiar reassurances no longer help. Ask what has 
 
 ## Stories
 - [[ST348 — Tolstoy Hides the Rope|348. Tolstoy Hides the Rope]]
-
+- [[ST369 — Tolstoy Hides the Rope|369. Tolstoy Hides the Rope]]
 ## Psychology parallels
 
 - **Temperament**: a twin study estimated genetic contributions to personality differences; it did not test James's religious types ([Tellegen et al., 1988, abstract](https://pubmed.ncbi.nlm.nih.gov/3397862/)).

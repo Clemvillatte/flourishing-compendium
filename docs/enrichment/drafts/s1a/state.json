@@ -33,6 +33,11 @@
      "t": "2026-10-20T13:10:00+00:00",
      "to": "ready",
      "note": "round-3 final; advisor verdict ready-for-supervisor-review"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -173,6 +178,11 @@
      "t": "2026-10-20T13:49:19+00:00",
      "to": "ready",
      "note": "Independent milestone reviewer READY; source quotes and limited D080 fit certified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -208,6 +218,11 @@
      "t": "2026-10-20T13:54:21+00:00",
      "to": "ready",
      "note": "Independent final advisor READY; complete source arc, three cuts verified, checker green"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -233,6 +248,11 @@
      "t": "2026-10-20T13:54:22+00:00",
      "to": "ready",
      "note": "Independent milestone advisor READY; full revenge/oath arc source-verified; checker green"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -268,6 +288,11 @@
      "t": "2026-10-20T14:00:09+00:00",
      "to": "ready",
      "note": "Independent final advisor READY; exact return fixes confirmed, primary chapter verified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -293,6 +318,11 @@
      "t": "2026-10-20T14:00:09+00:00",
      "to": "ready",
      "note": "Independent milestone advisor READY; full investigation sequence and limits verified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -318,6 +348,11 @@
      "t": "2026-10-20T14:02:32+00:00",
      "to": "ready",
      "note": "Independent final advisor READY; primary facts, complete arc and D156 limits verified"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -343,6 +378,11 @@
      "t": "2026-10-20T14:30:45+00:00",
      "to": "ready",
      "note": "Independent advisor READY; complete source chronology, quotes, partial four-effort fit accepted"
+    },
+    {
+     "t": "2026-10-21T12:22:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   },
@@ -517,5 +557,5 @@
    ]
   }
  },
- "updated": "2026-10-21T11:56:11+00:00"
+ "updated": "2026-10-21T12:22:19+00:00"
 }

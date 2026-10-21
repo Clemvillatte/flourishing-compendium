@@ -35,6 +35,9 @@ A calendar filled entirely with work leaves rest dependent on a cancellation. Pu
 - [[K198 — Sleep regularity|K198 Sleep regularity]]
 - [[K200 — Rest as practice|K200 Rest as practice]]
 - [[K203 — Nap protocol|K203 Nap protocol]]
+## Stories
+- [[ST374 — Poincare Leaves the Problem and Returns to Check It|374. Poincare Leaves the Problem and Returns to Check It]]
+
 ## Psychology parallels
 
 - **[[Psychological detachment|Psychological detachment]]** (Sonnentag and Fritz, 2007), during off-time predicts next-day engagement and long-term health

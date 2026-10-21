@@ -36,6 +36,9 @@ The text speaks of bodies, plants, armies and trees. Extending it to opinions an
 
 *For example:* Imagine a plan you made in January that March has overtaken. The supple move is to rewrite it. The rigid move is to defend it, because changing it feels like admitting you were wrong.
 
+## Stories
+- [[ST375 — John Muir Rides the Storm in a Treetop|375. John Muir Rides the Storm in a Treetop]]
+
 ## Psychology parallels
 
 - **[[Psychological flexibility|Psychological flexibility]]**, Kashdan and Rottenberg (2010) review evidence that flexibility processes "are absent" in many forms of psychopathology. [Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2998793/)

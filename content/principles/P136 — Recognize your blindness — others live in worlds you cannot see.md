@@ -33,6 +33,9 @@ An activity can look tedious while carrying memories, responsibilities or satisf
 
 - [Talks to Teachers, William James (1899; Project Gutenberg)](https://www.gutenberg.org/ebooks/16287) — "On a Certain Blindness in Human Beings" (the blindness definition, the spectator rule, the mountain-clearing example)
 
+## Stories
+- [[ST373 — Jane Addams Cannot Produce the Devil Baby|373. Jane Addams Cannot Produce the Devil Baby]]
+
 ## Psychology parallels
 
 - **[[Bias blind spot|Bias blind spot and the introspection illusion]]** (Pronin, 2002)
