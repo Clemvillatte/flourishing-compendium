@@ -9,7 +9,6 @@
   "AF064",
   "AF074",
   "AT018",
-  "AT046",
   "AT054",
   "AT058",
   "AT077",
@@ -32,7 +31,7 @@
   "AT048",
   "BE002"
  ],
- "in_progress": null,
+ "in_progress": "AT046",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -50,10 +49,11 @@
   "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified.",
   "AT021": "QC-CLOSED 2026-10-21: actual two cited abstracts and full Seligman manuscript opened; quotes/sample/follow-up checked; no head-to-head ranking or unmeasured mechanism claim; inherited parallels unverified.",
   "AT048": "QC-CLOSED 2026-10-21: full Lutz review/Box2 and Tang abstract opened, quotes checked; style/tradition scope and learning-timetable limits explicit; inherited parallels unverified.",
-  "BE002": "QC-CLOSED 2026-10-21: primary PDF pp73/101/189 opened; quotes verified; stimulus/procedure/effect distinctions and historical scope repaired; inherited parallels unverified."
+  "BE002": "QC-CLOSED 2026-10-21: primary PDF pp73/101/189 opened; quotes verified; stimulus/procedure/effect distinctions and historical scope repaired; inherited parallels unverified.",
+  "AT046": "Reopened for QC: QC: remove production-process voice and distinguish exploratory personal trial from established regimen"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:56:52+00:00",
+ "updated": "2026-10-21T14:57:12+00:00",
  "band_done": false
 }
