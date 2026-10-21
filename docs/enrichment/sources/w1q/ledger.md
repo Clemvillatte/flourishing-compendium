@@ -483,3 +483,18 @@ damage, w1ab left to its live holder.
   Related link points to this session's enriched page (the Gita "call that state
   'peace'" passage it quotes). Validator ok against baseline b1b5488c0 (1 warn: 1
   Related line, fast-track bar). QC-pending for the next milestone.
+
+## THE SACRED — 2026-10-21T16:08Z, worker-pplxy-7f3d1a9c
+- Fast-track concept. Carrier: Wikipedia "Sacred" article, raw download; the Durkheim
+  definition quoted verbatim as the article carries it ("religion is a unified system
+  of beliefs and practices relative to sacred things, that is to say, things set
+  apart and forbidden."), with the article's citation (Elementary Forms, p. 47)
+  reproduced. Otto (The Idea of the Holy), Marcel (The Mystery of Being), Leopold
+  (A Sand County Almanac) and Stanner (White Man Got No Dreaming) are NOT opened;
+  disclosed in the opening sentence, seed citation lines preserved. The Facets
+  section (in nature) preserved as in the original.
+- R032/R047/E098 clauses kept to what those pages carry. Brahman Related link bare
+  (cross-tradition pairing, unchecked target). Validator ok against baseline
+  5b7cc956b (1 warn: 1 Related line, fast-track bar). QC-pending for the next
+  milestone; supervisor note: this concept deserves a full pass on Otto/Leopold when
+  carriers can be opened.
