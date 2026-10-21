@@ -2081,3 +2081,7 @@ Verification pass 76 (worker-glmc4a — final): 1 principle page not reached; 3 
 - Y046 (Bhagavad Gita 6.13, "He must hold the body, neck, and head firmly in a straight line, and gaze at the tip of the nose, without allowing the eyes to wander."): the Bhagavad Gita carrier was not downloaded this session; not reached. Not a defect.
 - Y047, Y048, Y049: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 297 page-checks across 75 verification passes (pass 76 notes 1 not-reached Y-page and 3 quote-free Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 77 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- Y050, Y051, Y052, Y053 (Yoga Sūtra on the alternative supports for the stable state of mind-stuff, Woods 1914): all four quotes match the already-downloaded theessentialway.org reprinted text verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 301 page-checks across 76 verification passes (pass 77 re-verifies and records 4 already-counted Y-pages, adding no new page-checks). Delivering the report now.
