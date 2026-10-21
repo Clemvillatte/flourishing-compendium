@@ -50,3 +50,5 @@
 - Opened: Seneca Letters 17 and 18 (Wikisource, fetched, verbatim quotes); Mani 2013 abstract; Wicherts & Scholten comment. Seed claim "Seneca practised voluntary poverty" corrected: Letter 18 prescribes 3-4 day rehearsals. Letters 87, Epictetus, Marcus, Musonius not opened; "dispreferred indifferent" not verified. Budget-dinner anecdote dropped.
 ## SO017 — cultural evolution as real
 - Opened (search excerpts): Mesoudi et al. 2006 abstract (PubMed); Sperber 1997 PDF excerpt; Springer "If we are all cultural Darwinians" excerpt; Inglehart & Welzel intro (CUP). Seed's Boyd & Richerson, Laland 2010, Kendal 2011 not opened. "Participate consciously" is compendium's own. "We've always done it" anecdote dropped. Seed text uses "EEMM" jargon; dropped from body.
+## SO028 — social support two-way
+- Opened (search excerpts): Cohen & Wills 1985 abstract (CMU); Brown 2003 abstract (SAGE); Poulin 2013 abstract (PubMed). Seed's "receiving support buffers stress" narrowed: buffering shown for perceived availability; Brown 2003 found receiving had no independent effect on mortality. Cutrona & Russell 1990 not opened. Soup anecdote and "robbing someone" dropped.
