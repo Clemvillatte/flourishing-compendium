@@ -18,7 +18,7 @@ Nguyen distinguishes two ways a group's knowledge can fail — and argues the tw
 
 (Nguyen, 2020, "Echo Chambers and Epistemic Bubbles", Episteme 17(2), p. 142, [course-hosted PDF](https://www.cs.swarthmore.edu/~meeden/phil27/s24/papers/EpistemicBubbles.pdf).)
 
-In the abstract, Nguyen writes: "each type of structure requires a distinct intervention. Mere exposure to evidence can shatter an epistemic bubble, but may actually reinforce an echo chamber." (p. 141)
+In the abstract, Nguyen writes: "each type of structure requires a distinct intervention. Mere exposure to evidence can shatter an epistemic bubble, but may actually reinforce an echo chamber." ([Nguyen, 2020, p. 141](https://www.cs.swarthmore.edu/~meeden/phil27/s24/papers/EpistemicBubbles.pdf))
 
 **Plain words** List relevant sources missing from your group's discussion. Then note how the group judges outside sources and what reasons it gives for distrusting them. Consider whether to examine missing information, the treatment of sources, or both before choosing a response.
 
