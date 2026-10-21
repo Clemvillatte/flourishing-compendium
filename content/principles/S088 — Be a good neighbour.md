@@ -18,7 +18,7 @@ Marcus tells himself to move from one social act to the next:
 
 (Med. VI.7, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-The passage asks for no grand civic gesture. It asks for attention to the next social act, and the next, taking each as it comes. The neighbours within reach are simply the nearest people to practise on.
+The compendium applies this instruction to neighbourliness: consider the next person nearby and what help they would welcome. Asking before acting respects the other person's preferences. A neighbour may want a parcel kept safe while they are away, or may prefer a different arrangement; the exercise begins by finding out.
 
 **Plain words** You do not need to feel close to everyone nearby to consider how your actions affect them. Ask what would be useful, and check before offering help that might be unwanted.
 
