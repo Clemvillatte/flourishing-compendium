@@ -12,16 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 22** — Root yourself in a place
 
-The Mesoamerican traditions are place-rooted in a way that modern mobility has largely dissolved: the milpa, the local shrine, the town's patron days, and the family plot are all structures of belonging to a specific ground. The tradition's insight is that a human being roots somewhere, and the somewhere matters: place is not a backdrop but a participant in identity. Practically, wherever you actually live, root deliberately: learn its seasons, its plants, its history, and give it some years.
+In Maya farming communities the milpa, the field of maize, beans and squash, ties people to a particular place. The Food and Agriculture Organization's description of the Peninsular Maya milpa in Yucatán says the milpa "fosters identity and culture" as well as producing food, and that the worldview and ceremonies that grew from managing it "have been fundamental to the system's way of existence" ([FAO, Ich Kool: Mayan milpa](https://www.fao.org/giahs/giahs-around-the-world/mexico-ich-kool-mayan-milpa-system/en)). The sources I opened describe Maya farming in particular, not Mesoamerican peoples in general.
 
-(The place traditions.)
+Psychology has studied the same theme from the other direction. Oishi and Schimmack followed 7,108 American adults for ten years. "The more residential moves participants had experienced as children, the lower the levels of well-being as adults", but this was "observed among introverts but not among extraverts", and was "explained by the relative lack of close social relationships" (Oishi & Schimmack 2010, J Pers Soc Psychol 98(6):980-994, [PubMed](https://pubmed.ncbi.nlm.nih.gov/20515253/)). A review of this literature concludes that, overall, "residential mobility is associated with lower levels of well-being at the individual level of analysis" (Oishi 2010, Perspect Psychol Sci 5(1):5-21, [PubMed](https://pubmed.ncbi.nlm.nih.gov/26162059/)). These are associations, and the mobility studied concerns childhood moves and lost relationships, not how well you know a landscape.
 
-**Plain words** The Mesoamerican life was place-rooted — milpa, shrine, patron days, family plot — because place isn't a backdrop; it's a participant in identity. A human being roots somewhere, and the somewhere matters. Root yourself in a place, on purpose.
+**Plain words**
+Maya milpa farming links food, identity and ceremony to one piece of land. Modern research does not test whether knowing a place deeply makes you happier, but it does find that frequent moves, especially in childhood, go with lower well-being for some people, apparently because they cost you close relationships. If you stay somewhere, learning its seasons, plants and people is a low-cost way of building those ties.
 
-*For example:* Someone who's moved eleven times in fifteen years, always for marginal upgrades — and finally stays put long enough to know the neighbours, the tree, the corner shop. The roots start doing their quiet work.
+*For example:* Someone who has moved eleven times in fifteen years decides to stay put for five years. They learn the names of the neighbours and the trees on their street. This is an imagined case, and what follows from it is open.
+
+## Sources
+
+- [FAO, Ich Kool: Mayan milpa of the Yucatan peninsula, Mexico, Globally Important Agricultural Heritage Systems](https://www.fao.org/giahs/giahs-around-the-world/mexico-ich-kool-mayan-milpa-system/en)
+- [Oishi, S. & Schimmack, U. (2010), Residential mobility, well-being, and mortality, J Pers Soc Psychol 98(6), 980–994](https://pubmed.ncbi.nlm.nih.gov/20515253/)
+- [Oishi, S. (2010), The psychology of residential mobility: implications for the self, social relationships, and well-being, Perspect Psychol Sci 5(1), 5–21](https://pubmed.ncbi.nlm.nih.gov/26162059/)
+
 ## Psychology parallels
 
-- **[[Place attachment|Place attachment and place identity]]**, the environmental-psychology research showing that rootedness in place contributes to identity and well-being (the place-attachment literatures, as framework)
+- **[[Place attachment|Place attachment and place identity]]**, Scannell and Gifford (2010) define place attachment as a person-process-place framework spanning affect, cognition and behaviour (J Environ Psychol 30:1-10); Lewicka (2011) is cited as a review and was not opened
+- **Residential mobility and well-being**, more moves are associated with lower well-being, partly through fewer close relationships (Oishi & Schimmack, 2010)
 
 ## Philosophy parallels
 

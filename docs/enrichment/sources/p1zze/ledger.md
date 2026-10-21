@@ -7,3 +7,8 @@
 ## M019 — Educate deliberately
 - Opened: Maffie IEP (secs 6; Sahagún VI p.113 via Maffie); Fitzgerald 2019 Univ. Oregon PhD "Unholy Pedagogy" (fetched; Florentine Codex III pp.51, 65, 193 quotes as relayed). Wikipedia/other web summaries seen in search, not cited. Sahagún Codex itself not opened directly (Getty digital edition exists but not read) -> quotes marked as relayed.
 - Seed "moderation, self-control, service, craft" list not found in opened sources; dropped. Ericsson unopened -> kept bare. Wikilink restored.
+
+## M022 — Root yourself in a place
+- Opened: FAO GIAHS page on Ich Kool Maya milpa (search excerpt, quotes verbatim); Oishi & Schimmack 2010 (PubMed 20515253 abstract); Oishi 2010 PPS (PubMed 26162059 abstract); Scannell & Gifford 2010 abstract (docslib text). Lewicka 2011 seen only via TL;DR snippet -> not quoted.
+- Seed "place is a participant in identity / Mesoamerican traditions in general" scoped to Maya milpa evidence; "rootedness contributes to well-being" not claimed (mobility studies are associational, about childhood moves/relationships).
+- NOTE M019 was marked done before a length fix; fixed in the next commit.
