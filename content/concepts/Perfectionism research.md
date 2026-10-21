@@ -7,7 +7,7 @@ file: "Perfectionism research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-The research line begun by Paul Hewitt and Gordon Flett in 1991: perfectionism is not one trait but three, aimed at the self, at others, or felt as demanded by others. Their Multidimensional Perfectionism Scale made the construct measurable, and the research field it opened now runs from psychiatric samples to birth-cohort trends.
+The research line begun by Paul Hewitt and Gordon Flett in 1991: perfectionism is not one trait but three, aimed at the self, at others, or felt as demanded by others. Four studies in the founding article showed the dimensions "can be assessed in a reliable and valid manner", and the research field it opened now runs from psychiatric samples to birth-cohort trends.
 
 ### Three dimensions
 
