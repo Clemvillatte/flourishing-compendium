@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], 
 legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.06 — II.6 Wisdom and View", "parent": ""}
 ---
 
-Traditional Zen story, "No Water, No Moon", no. 29 of the [ashidakim.com koan collection](https://ashidakim.com/zenkoans/29nowaternomoon.html) (its sources: the thirteenth-century Shasekishū of Mujū and Japanese anecdote books of about 1900)
+Traditional Zen koan · Muromachi-period telling, "No Water, No Moon," case 29 of the [ashidakim.com koan collection](https://ashidakim.com/zenkoans/29nowaternomoon.html)
 
 A nun who could not "attain the fruits of meditation for a long time" was set free by a broken pail ([case 29](https://ashidakim.com/zenkoans/29nowaternomoon.html)). Chiyono studied Zen under Bukko of Engaku, and the story reports the long study without result, then the moonlit night, an old pail bound with bamboo, and the moment the bamboo gave way.
 
