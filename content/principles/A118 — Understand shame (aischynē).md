@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle defines shame in the Rhetoric as "pain or disturbance in regard to bad things, whether present, past, or future, which seem likely to involve us in discredit" ([Rhetoric II.6, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). It is tied to an audience: "the people before whom we feel shame are those whose opinion of us matters to us." It is also tied to blame, since the disgrace is greater "if it is seen to be our own fault".
 
-The Rhetoric includes shame over poverty and humiliations suffered through force. Its account is therefore broader than remorse for chosen wrongdoing.
+The Rhetoric includes shame at lacking advantages one's peers possess and at humiliations suffered through force. It blames unresisting submission on cowardice, a judgement this principle does not endorse.
 
 In [NE IV.9 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) he calls shame "a kind of fear of dishonour" and says it "should not be described as a virtue; for it is more like a feeling than a state of character." There he connects it with voluntary wrongdoing, gives it a restraining role in youth, and argues that a good adult should have little occasion for it. Even so, "shame may be said to be conditionally a good thing; if a good man does such actions, he will feel disgraced".
 
