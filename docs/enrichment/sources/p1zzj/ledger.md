@@ -40,4 +40,4 @@
 ## SO068 — rapid social change
 - Opened (excerpts): CUP blurb for Rosa; Nursing Inquiry summary of Rosa; BMC Public Health overview (mention of Ka'apu review: rapid cultural change unfavourable). Rosa's own book not opened (Rosa 2013 vs seed's "Rosa and Trejo-Mathys 2013" is the translation: not verified). Seed's village-to-city illness example dropped as unsourced; Ka'apu review itself not opened.
 ## SO069 — cultural bereavement
-- Opened (abstract/excerpts): Eisenbruch 1991 abstract (PubMed); PMC1414713 (definition quote; journal identity as "Canadian Family Physician" NOT confirmed from excerpt — check); Migratory grief review. Seed's "recognized clinical syndrome" corrected: Eisenbruch proposes nosology status. Papadopoulos, Bhugra, Fazel not opened. Grandfather anecdote dropped.
+- Opened (abstract/excerpts): Eisenbruch 1991 abstract (PubMed); PMC1414713 (definition quote; journal and authors not seen in excerpt); Migratory grief review. Seed's "recognized clinical syndrome" corrected: Eisenbruch proposes nosology status. Papadopoulos, Bhugra, Fazel not opened. Grandfather anecdote dropped.
