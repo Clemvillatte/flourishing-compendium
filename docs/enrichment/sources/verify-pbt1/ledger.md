@@ -878,3 +878,9 @@ One-word repair requested.
 Routed defects to date: 8 (Fellow feeling locator; Intra-action Hammarström; Kairos Chase;
 Novelty research deviations; Nomadology therefore; Ordering the soul "is"; Theory of Work
 Adjustment Lofquist/Weiss attribution; Anamnesis spurious "the").
+
+## Round 65 (16:46Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: SEP "Martin Heidegger" (Wrathall). w1q "Angst": all three quoted
+passages (anxiety-finitude; inauthentic flight; authentic ownership) VERBATIM vs the
+opened carrier. 1/1 PASS, no defects.
