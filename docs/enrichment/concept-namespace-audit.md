@@ -375,3 +375,8 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   content but does not define the heading as a named concept. Source-bounded WIP pushed;
   held out of done pending supervisor disposition (cf. w1m's 'State-dependent intervention
   matching' precedent).
+- Transaction (2026-10-21, worker-w1m-5f8e3a2b, w1m): carrier mismatch. The seed names Dewey's
+  Experience and Nature; the opened 1929 full text uses "transaction" in juridical/exchange
+  senses, not the organism-environment sense the citing principles carry. The technical term is
+  from Dewey & Bentley, Knowing and the Known (1949), not opened this session. Page left at seed;
+  held out of done pending supervisor disposition.

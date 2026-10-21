@@ -18,7 +18,7 @@
   "Vipassana (insight)",
   "Viveka"
  ],
- "in_progress": null,
+ "in_progress": "Transaction",
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
@@ -41,10 +41,11 @@
   "Vipassana (insight)": "Reopened for QC: QC round 4 repairs applied (advisor, 2026-10-21): bounded source/definition/gloss repairs; pending focused verification",
   "Viveka": "Reopened for QC: QC round 4 repairs applied (advisor, 2026-10-21): bounded source/definition/gloss repairs; pending focused verification",
   "A certain blindness": "Reopened for QC: QC round 4 repairs applied (advisor, 2026-10-21): bounded source/definition/gloss repairs; pending focused verification",
-  "Acedia": "Reopened for QC: QC round 4 repairs applied (advisor, 2026-10-21): bounded source/definition/gloss repairs; pending focused verification"
+  "Acedia": "Reopened for QC: QC round 4 repairs applied (advisor, 2026-10-21): bounded source/definition/gloss repairs; pending focused verification",
+  "Transaction": "CARRIER MISMATCH HOLD (2026-10-21, worker-w1m-5f8e3a2b): the seed names Dewey's Experience and Nature; the opened 1929 full text (archive.org, Open Court/Allen & Unwin) uses 'transaction' in legal/juridical and exchange senses (pp. 174, 198-200 area), not the organism-environment sense the citing principles carry (P005/P064/P073/P144). The technical organism-environment 'transaction' is from Dewey & Bentley, Knowing and the Known (1949), not opened this session. Page left at seed; held out of done pending supervisor disposition (open Knowing and the Known, or a scholarly source on the transaction concept)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:12:50+00:00",
+ "updated": "2026-10-21T11:14:15+00:00",
  "band_done": false
 }
