@@ -240,7 +240,32 @@
      "note": "supervisor registration ST357-364 this session; story_check 0 errors each"
     }
    ]
+  },
+  "s1c-009": {
+   "status": "ready",
+   "angle": "D079/D157: Zhuangzi 17, tortoise in the mud and owl with the rat (Legge + Giles)",
+   "history": [
+    {
+     "t": "2026-10-21T12:19:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:19:40+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:19:40+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked vs Legge and Giles texts"
+    },
+    {
+     "t": "2026-10-21T12:19:40+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:19:34+00:00"
+ "updated": "2026-10-21T12:19:40+00:00"
 }

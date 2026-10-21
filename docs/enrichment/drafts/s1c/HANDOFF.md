@@ -14,5 +14,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-006 | Frege Receives a Letter, Russell Counts the Tortoises (letters via Philarchive; Russell via idealectic; SEP) | P047 | ready; upgrade to van Heijenoort and Portraits from Memory if possible |
 | s1c-007 | Angelina Uses the Front Door (Addams, Twenty Years at Hull-House ch. XI, Gutenberg 1325) | P100, P108 | ready |
 | s1c-008 | Twelve Sailors on the Salisbury (Lind Treatise 1772 ed.; Milne 2012; Tröhler) | P025 | ready |
+| s1c-009 | The Tortoise in the Mud and the Owl with the Rat (Zhuangzi 17; Legge, Giles) | D079, D157 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
