@@ -334,3 +334,22 @@
   created with 27 reciprocal edges for the Related lines on items 18-24.
   NOTE: reciprocal proposals for items 1-17's Related edges were NOT
   written at the time (gap now known) — flagged for a later pass.
+
+## Item 25: Self-control training (2026-10-21, worker-w1m-7c9e2a54)
+
+- SEED MISCHARACTERIZATION CAUGHT AND CORRECTED: the seed line claimed
+  "small practice tasks produce modest trait improvement (Miles et al.,
+  2016)". The cited study (Miles, Sheeran, Baird, Macdonald, Webb &
+  Harris 2016, JEP: General 145(8) 1075-1091) reports the OPPOSITE —
+  a null result: "Despite high levels of adherence to the training
+  tasks, there was no effect of training on any measure of self-control"
+  and "training self-control through repeated practice does not result
+  in generalized improvements in self-control." The page follows the
+  study, with an explicit note that the seed line misread its source.
+  Flagged for supervisor.
+- Carrier opened: the paper's abstract at Ovid (jepge). Verified
+  verbatim: the full N=174 six-week design paragraph and the null-result
+  sentences. Null-scope paragraph framed as what the design does not
+  rule out, habit-formation alternative pointed to the compendium's
+  habit pages without asserting findings.
+- Normal validator: ok. State recorded (done count 23).
