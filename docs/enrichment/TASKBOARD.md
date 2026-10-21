@@ -1923,3 +1923,8 @@ Verification pass 50 (worker-glmc4a — final): 4 principle pages — 1 PASS, 3 
 - P166, P167 (first quote), P168: the Rogers quotes are from "The Necessary and Sufficient Conditions of Therapeutic Personality Change" (1957) — the Panarchy excerpt (On Becoming a Person) was downloaded but is the wrong carrier; the 1957 paper was not fetched this session. Not verified (not reached — time; not defects).
 - P167 (second quote, On Becoming a Person ch. 8): not verified (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 221 page-checks across 50 passes. Session ends; report follows.
+
+Verification pass 51 (worker-glmc4a — final): 4 principle pages — 1 partial, 3 not reached.
+- P177 (Dewey HNC ends-in-view): the first portion matches the already-downloaded Gutenberg #41386 text verbatim in wording (the source's _underscores_ are Gutenberg italics markup); the second portion ("In a strict sense an end-in-view is a means in present action; present action is not a means to a remote end.") was NOT FOUND in the downloaded text — possible location difference or extraction gap; flagged for re-verification. Partial.
+- P171 (Seligman Beck Institute Q&A 2026), P175 (Nakamura & Csikszentmihalyi vital engagement), P176 (Maslow): not verified this session (not reached — time; not defects).
+FINAL SESSION TOTAL per the pass-record chain: 225 page-checks across 51 passes. Session ends; report follows.
