@@ -214,3 +214,21 @@ Karasek 1979 PDF, PubMed 14570524 (de Lange et al abstract), rider.edu Kaufman e
    Kaufman et al. PDF; 2009 proposal attribution supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 9 (16:20Z) — w1aa quote-fidelity verification, eighth batch
+
+Carriers opened fresh: Ting-Toomey "The Matrix of Face" PDF (diplomacy.edu), Öhman & Mineka
+2001 full-text PDF (whitman.edu), Glavaš et al. 2021 GEQ validation PDF, Wikipedia Groupthink.
+
+1. Face negotiation theory — blockquote VERBATIM vs core assumption 1 of the opened chapter;
+   all prose claims (identity-vulnerable situations, individualism-collectivism shaping
+   face concerns, dominating/avoiding/integrating style associations, face vs facework
+   definitions) verbatim-supported.
+2. Fear — blockquote VERBATIM vs the abstract; the defensive-behavior (immobility,
+   fight-flight, psychophysiological responses and feelings) and avoidance-and-escape
+   prose claims verbatim-supported in the paper body.
+3. Group cohesion theory — blockquote VERBATIM vs the Glavaš article; two-dimension,
+   four-dimension, 18-item GEQ and task/social descriptions verbatim-supported; the
+   groupthink cohesiveness sentence supported by the Wikipedia carrier.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
