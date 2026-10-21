@@ -11,7 +11,7 @@ Quine's ontological relativity concerns indeterminacy of reference: different tr
 
 ### Three names, one doctrine
 
-> "(Quine uses the terms 'ontological relativity' and 'inscrutability of reference', as well as 'indeterminacy of reference'. Some philosophers have sought to distinguish these doctrines, but in later work Quine makes it clear that he uses the terms simply as different names for the same thing. See Ricketts 2011, Roth, 1986, and Quine 1986d.)" — [Hylton and Kemp, "Willard Van Orman Quine", SEP, §6.2](https://plato.stanford.edu/entries/quine/)
+> "Quine uses the terms 'ontological relativity' and 'inscrutability of reference', as well as 'indeterminacy of reference'. Some philosophers have sought to distinguish these doctrines, but in later work Quine makes it clear that he uses the terms simply as different names for the same thing." — Hylton & Kemp, ["Willard Van Orman Quine", SEP, §6.2](https://plato.stanford.edu/entries/quine/)
 
 The doctrine says that some sentences can be translated in more than one way, where the versions "differ in the reference that they attribute to parts of the sentence, but not in the overall net import that they attribute to the sentence as a whole" ([SEP, §6.2](https://plato.stanford.edu/entries/quine/)). The famous example: one utterance can be rendered as "There's a rabbit", as "Rabbithood is manifesting itself there", or as "There are undetached rabbit parts". Nothing in the speaker's behaviour settles which reading is right; her own answer would be subject to the same indeterminacy. Quine generalised the point, holding that he "see[s] all objects as theoretical" ([SEP, §6.2](https://plato.stanford.edu/entries/quine/)).
 
