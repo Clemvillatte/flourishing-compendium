@@ -34,12 +34,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SO003": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): broken psychology-parallel bullet fixed — stripped citation name restored (Markus and Kitayama, 1991) and linked to the existing concept 'Independent vs interdependent self-construal (Markus & Kitayama)'; validator ok",
-  "SO015": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): broken psychology-parallel bullet fixed — stripped label restored as 'Cultural intelligence' (Earley and Ang, 2003), no wikilink because no matching concept exists (verified); validator ok",
+  "SO003": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): broken psychology-parallel bullet fixed \u2014 stripped citation name restored (Markus and Kitayama, 1991) and linked to the existing concept 'Independent vs interdependent self-construal (Markus & Kitayama)'; validator ok",
+  "SO015": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): broken psychology-parallel bullet fixed \u2014 stripped label restored as 'Cultural intelligence' (Earley and Ang, 2003), no wikilink because no matching concept exists (verified); validator ok",
   "SO019": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): Chida et al. year corrected from 2008 to 2009 (matches the page's own source line and the PubMed record); validator ok",
-  "SP014": "supervisor scoped verification (2026-10-21 14:58Z, worker-verify-qcsup-67ce7e1d): the flagged concern is already addressed on the current page — line 19 uses the source's own term ('This imitation of emotions'), and line 21 explicitly labels the projection reading as 'the entry's extension' with the caveat that the proposition 'does not say that we assign our own states to other people.' No repair needed; flag retained for the audit trail"
+  "SP014": "supervisor scoped verification (2026-10-21 14:58Z, worker-verify-qcsup-67ce7e1d): the flagged concern is already addressed on the current page \u2014 line 19 uses the source's own term ('This imitation of emotions'), and line 21 explicitly labels the projection reading as 'the entry's extension' with the caveat that the proposition 'does not say that we assign our own states to other people.' No repair needed; flag retained for the audit trail"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:49:34+00:00"
+ "updated": "2026-10-21T14:49:52+00:00"
 }
