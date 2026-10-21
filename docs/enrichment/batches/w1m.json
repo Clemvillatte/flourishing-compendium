@@ -38,7 +38,8 @@
   "Attribution theory",
   "Balance theory",
   "Base rate neglect / representativeness heuristic",
-  "Behavioral economics theory"
+  "Behavioral economics theory",
+  "Behavioral genetics models"
  ],
  "in_progress": null,
  "flagged": {
@@ -85,6 +86,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:56:05+00:00",
+ "updated": "2026-10-21T13:56:38+00:00",
  "band_done": false
 }
