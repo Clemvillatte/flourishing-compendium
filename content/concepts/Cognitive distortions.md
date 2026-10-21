@@ -8,13 +8,13 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Cognitive distortions are the systematic errors Beck found in the thinking of depressed patients: the idiosyncratic conceptualizations that led him to characterize many of the phenomena of depression in terms of a thought disorder ([Beck 1964, Archives of General Psychiatry 10(6), full text](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)). Identifying and correcting them became a core mechanism of cognitive therapy ([Beck 1964](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)).
+Cognitive distortions are the systematic errors Beck found in the thinking of depressed patients: the idiosyncratic conceptualizations that led him to characterize many of the phenomena of depression in terms of a thought disorder ([Beck 1964, Archives of General Psychiatry 10(6), full text](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)). Beck describes re-examining the evidence for patients' initial impressions and checking the logic of their conclusions ([Beck 1964](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)).
 
 > "This conclusion was drawn from the consistent finding of systematic errors, such as arbitrary inferences, selective abstraction, and overgeneralization in the idiosyncratic conceptualizations of the depressed patients." — [Beck 1964, p. 561, archive.org full text](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)
 
 ### The checking method
 
-The distortions are not a taxonomy of bad character; they are targets for a method of checking. Beck describes examining whether the initial impression of a situation was distorted or a conclusion jumped too quickly: a professor was downcast and complained that he was "slipping" because "nobody showed up" for a lecture, and on re-examining the evidence realized that in actuality most of the seats in the lecture hall had been filled ([Beck 1964](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)). The compendium's CO050 carries the same checking procedure forward from the Beck Institute's thought-testing worksheet.
+Beck describes examining whether the initial impression of a situation was distorted or a conclusion jumped too quickly: a professor was downcast and complained that he was "slipping" because "nobody showed up" for a lecture, and on re-examining the evidence realized that in actuality most of the seats in the lecture hall had been filled ([Beck 1964](https://archive.org/stream/ThinkingAndDepressionTheoryAndTherapy/Thinking%20and%20depression-%20theory%20and%20therapy_djvu.txt)).
 
 ### In the compendium
 
@@ -36,6 +36,8 @@ The distortions are not a taxonomy of bad character; they are targets for a meth
 - Beck, 1976
 
 - Burns, 1980
+
+- Beck, 2011
 
 ## Cited in psychology parallels
 

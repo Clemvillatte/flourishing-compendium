@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Circadian science studies the endogenous near-24-hour clocks that time physiology and behavior. Its human landmark is the finding that the electrically lit constructed environment is associated with reduced daytime sunlight exposure, increased light after sunset, and a delayed circadian clock compared with a week of summer camping under a natural light-dark cycle ([Wright et al. 2013, Current Biology 23(16):1554-1558, abstract](https://pubmed.ncbi.nlm.nih.gov/23910656/)).
+Circadian science studies the endogenous circadian timekeeping that times physiology and behavior. Wright et al. (2013) examined how that timekeeping responds to natural light: they found that the electrically lit constructed environment is associated with reduced exposure to sunlight during the day, increased light exposure after sunset, and a delayed circadian clock compared with a week of summer camping under a natural light-dark cycle ([Wright et al. 2013, Current Biology 23(16):1554-1558, abstract](https://pubmed.ncbi.nlm.nih.gov/23910656/)).
 
 > "Here we show that electrical lighting and the constructed environment is associated with reduced exposure to sunlight during the day, increased light exposure after sunset, and a delayed timing of the circadian clock as compared to a summer natural 14 hr 40 min:9 hr 20 min light-dark cycle camping." — [Wright et al. 2013, abstract, PubMed 23910656](https://pubmed.ncbi.nlm.nih.gov/23910656/)
 
@@ -46,7 +46,6 @@ After exposure to only natural light, the internal circadian clock synchronized 
 - [[D152 — Live by daily rhythms]]
 ## Cited in philosophy parallels
 
-**Circadian rhythm theory** — endogenous ~24-hour clocks time physiology and cognition; misalignment degrades mood and performance.
 ## Field
 
 Biophysiological · Psychological science
