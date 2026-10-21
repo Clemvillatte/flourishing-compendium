@@ -23,7 +23,7 @@ Across four studies involving humor, grammar and logic, low-scoring participants
 **Plain words**
 Choose one specific skill rather than rating your overall competence. Write down what you think you can do, then compare that estimate with a result you can inspect. Use any discrepancy to decide what to investigate or practise next.
 
-*For example:* Imagine predicting your score on a task, then checking the result: the gap between the two is the calibration you are training, not a verdict on your worth.
+*For example:* Imagine predicting how many questions you will answer correctly, completing the task, and comparing your prediction with the result.
 
 ## Sources
 

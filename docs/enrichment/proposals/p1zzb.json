@@ -84,19 +84,19 @@
    "into": "The examined life",
    "link": "SE014",
    "why": "A principle on naming and examining one's priorities",
-   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording). | QC milestone 2: why clause no longer presents the values audit as Socrates' own method; 38a locator verified against the numbered Lexundria Jowett edition (21d check also passed)."
+   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording). | QC milestone 2: why clause no longer presents the values audit as Socrates' own method; locator verification completed in the recheck round: Lexundria numbered edition sections 21 and 38 both FETCHED; 21d matches the MIT text word-for-word; the 38 passage differs between carriers (MIT: 'the life which is unexamined is not worth living'; Lexundria: 'the unexamined life is not worth living') - the page quote stays tied to the opened MIT text, the numbered edition confirms the section."
   },
   {
    "into": "Values",
    "link": "SE014",
    "why": "A principle on naming and examining one's priorities",
-   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording). | QC milestone 2: why clause no longer presents the values audit as Socrates' own method; 38a locator verified against the numbered Lexundria Jowett edition (21d check also passed)."
+   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording). | QC milestone 2: why clause no longer presents the values audit as Socrates' own method; locator verification completed in the recheck round: Lexundria numbered edition sections 21 and 38 both FETCHED; 21d matches the MIT text word-for-word; the 38 passage differs between carriers (MIT: 'the life which is unexamined is not worth living'; Lexundria: 'the unexamined life is not worth living') - the page quote stays tied to the opened MIT text, the numbered edition confirms the section."
   },
   {
    "into": "Authenticity",
    "link": "SE014",
    "why": "A principle on naming and examining one's priorities",
-   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording). | QC milestone 2: why clause no longer presents the values audit as Socrates' own method; 38a locator verified against the numbered Lexundria Jowett edition (21d check also passed)."
+   "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording). | QC milestone 2: why clause no longer presents the values audit as Socrates' own method; locator verification completed in the recheck round: Lexundria numbered edition sections 21 and 38 both FETCHED; 21d matches the MIT text word-for-word; the 38 passage differs between carriers (MIT: 'the life which is unexamined is not worth living'; Lexundria: 'the unexamined life is not worth living') - the page quote stays tied to the opened MIT text, the numbered edition confirms the section."
   },
   {
    "into": "Metacognition",
@@ -120,13 +120,13 @@
    "into": "Humility",
    "link": "SE018",
    "why": "A principle on acknowledging the limits of one's knowledge, following the Socratic example",
-   "notes": "SE018 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE018 occurrence; grounded in the opened MIT Classics Jowett Apology (21d passage quoted verbatim). | QC milestone 2: midpoint/only-updates generalizations removed; 21d locator verified against the numbered Lexundria Jowett edition."
+   "notes": "SE018 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE018 occurrence; grounded in the opened MIT Classics Jowett Apology (21d passage quoted verbatim). | QC milestone 2: midpoint/only-updates generalizations removed; 21d verified in the recheck round by FETCHING the Lexundria numbered edition (section 21 matches the MIT text word-for-word)."
   },
   {
    "into": "Cultural psychology",
    "link": "SE005",
-   "why": "A principle on the self as partly social, drawing on the field's central self-construal distinction",
-   "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mandatory mention search (self-construal); occurrence-checked, no SE005; grounded in the opened MIT full text (p. 224 abstract sentence quoted verbatim)."
+   "why": "A principle drawing on independent and interdependent self-construals",
+   "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub READ in full (its own body cites the same Markus-Kitayama 1991 PDF and quotes p. 225); no SE005 occurrence; grounded in the opened MIT full text (p. 224 abstract sentence quoted verbatim)."
   }
  ]
 }

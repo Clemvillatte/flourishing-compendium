@@ -9,8 +9,8 @@
   "S140",
   "SE005",
   "SE014",
-  "SE015",
-  "SE018"
+  "SE018",
+  "SE015"
  ],
  "in_progress": null,
  "flagged": {
@@ -22,11 +22,11 @@
   "S140": "Reopened for QC: QC milestone 2: unmarked VIII.22 borrowing; Marcus-attribution of compendium formulation; growth and anticipation claims",
   "SE005": "Reopened for QC: QC milestone 2: overstatement ('cross-cultural record'), mirrors metaphor, borrowed pp.226-227 wording unquoted, example overreach",
   "SE014": "Reopened for QC: QC milestone 2: Socrates-attribution of values audit; unchosen-values and no-audience authenticity claims; life-reorganizing outcome",
-  "SE015": "Reopened for QC: QC milestone 2: suggested-explanation status; occupational-placement overreach; trainable-accuracy generalization; VIA practice unverified",
+  "SE015": "Reopened for QC: QC recheck: example still overstates training; replace with prediction-result comparison",
   "SE018": "Reopened for QC: QC milestone 2: midpoint and only-updates generalizations; year-two prediction; staging contrast"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:20:01+00:00",
+ "updated": "2026-10-21T00:22:21+00:00",
  "band_done": false
 }
