@@ -35,5 +35,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-027 | A Bucketful of Rice (SN 3.13; Sujato only) | B169 | ready; second translation not reachable |
 | s1c-028 | Kali Tests the Gentle Housewife (MN 21; Sujato only) | B116, B105 | ready; Thanissaro page 404 |
 | s1c-029 | Wang Tai Has as Many Followers as Confucius (Zhuangzi 5; Eno, Legge) | D004, D127 | ready |
+| s1c-030 | The Ugly Man Duke Ai Could Not Forget (Zhuangzi 5.4; Eno, Legge) | D096, D163 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
