@@ -10,25 +10,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K378** — Cultivate your Compassionate Self
 
-Sit upright. Take one minute of slow, comfortable breathing — sensing "slowing down the body, slowing down the mind."
+Imagine yourself as a highly compassionate person, and explore the sense of age, facial expressions, body postures, voice tones and ways of thinking that belong to that role. Then practise adopting the role. This is like method acting, when one practises adopting and getting into a particular role ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)): you are not trying to feel kind, you are practising *being* the kind of person whose default response is kindness.
 
-Now imagine, in a step-by-step way, that you *are* a person who has developed compassionate wisdom, strength, and warmth — the kind of person people seek out when they are struggling. Imagine what their face would look like, how they would carry themselves, what their voice would sound like. Then, while holding that image, *be* them: face, posture, voice.
-
-From inside that persona, imagine bringing compassion to a specific situation in your life. Spend a few minutes practising responding to that situation from this Compassionate Self.
-
-Practice this daily (5-10 minutes). The aim is to practise shifting into a compassionate perspective, not just when circumstances invite it.
-
-This is a method-acting move, not a mood change. You're not trying to feel kind; you're practising *being* the kind of person whose default response is kindness.
-
-Instructions verified against the opened [Gilbert (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) description of the same exercise; the Kolts, *CFT Made Simple*, New Harbinger, 2016 attribution is inherited from the seed (the book was not opened this session).
+This version follows [Gilbert's (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) description of compassionate-self practice; the Kolts, *CFT Made Simple*, New Harbinger, 2016 attribution is inherited from the seed and is recorded in the ledger (the book was not opened this session).
 
 ### Protocol
 
-1. Sit upright and take one minute of slow, comfortable breathing. Target dimensions: Identity (who you practice being) and Emotion (warmth).
-2. Build the persona step by step: face, posture, voice of a person with compassionate wisdom, strength and warmth. Then hold the image and be them.
-3. Pick one specific situation in your life and spend a few minutes responding to it from inside the persona.
-4. If the persona feels thin or theatrical, keep the acting up anyway; the exercise runs through posture and voice, and feeling kind on cue is not required.
-5. Afterwards, note one moment when the persona's response differed from your default. Retain the daily slot; vary the situation you practise on.
+1. Imagine yourself as a highly compassionate person. Target dimensions: Identity (who you practice being) and Emotion (warmth).
+2. Explore the facial expression, posture, voice and ways of thinking associated with that role.
+3. Practise adopting the role; Gilbert suggests daily practice.
+4. Optional adaptation, not from the source: afterwards, note one moment when the role's response differed from your default, and vary the practice around what that shows.
 
 ### Evidence
 
@@ -48,7 +39,7 @@ The retained instructions themselves now rest on an opened carrier: the therapy'
 
 ### A guided version
 
-The book's own author recorded one: Russell Kolts's [Compassionate Self Meditation](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) (18:35; a recording on Insight Timer, not the book). His description:
+Russell Kolts's guided recording: [Compassionate Self Meditation](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) (18:35; a recording on Insight Timer, not a book). Its listing's description:
 
 > "This is an example of a Compassionate Self practice as used by Compassion-Focused Therapy (CFT) practitioners." — [Insight Timer listing](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation)
 
