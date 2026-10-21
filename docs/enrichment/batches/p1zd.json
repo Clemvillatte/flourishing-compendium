@@ -2,7 +2,6 @@
  "batch": "p1zd",
  "done": [
   "A019",
-  "A056",
   "A059",
   "A095",
   "A107",
@@ -32,10 +31,12 @@
   "BE002",
   "BE003"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "A056",
+ "flagged": {
+  "A056": "Reopened for QC: QC: clarify VII.3 possession/exercise and particular judgment, scope strict akrasia, remove diagnostic overreach; quotations independently verified"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T08:17:14+00:00",
- "band_done": true
+ "updated": "2026-10-21T14:26:42+00:00",
+ "band_done": false
 }
