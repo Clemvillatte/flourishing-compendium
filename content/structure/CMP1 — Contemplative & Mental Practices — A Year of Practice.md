@@ -128,10 +128,10 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Breath, Sound, Body](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/02_Breath_Sound_Body_Meditation.mp3) | Diana Winston, UCLA Mindful | 12 min |
 | [Guided Meditation on the Breath](https://www.audiodharma.org/talks/363) | Gil Fronsdal, AudioDharma | 14:43 |
 | [The Breath: Portal to Presence](https://www.tarabrach.com/meditation-the-breath-portal-to-presence-2/) | Tara Brach | 19:31 |
-| [MBSR Sitting Meditation, 20-minute version](https://palousemindfulness.com/meditations/sittingmeditation.html) | Palouse Mindfulness | 20 min |
+| [MBSR Sitting Meditation, 20-minute version](https://palousemindfulness.com/disks/sittingmeditation20min.mp3) | Palouse Mindfulness | 20 min |
 | [Calm, Ease](https://www.youtube.com/watch?v=XHvtIcaD194) | Thich Nhat Hanh, Plum Village | 20:24 |
 | [Guided Meditation on the Breath](https://www.audiodharma.org/talks/8) | Gil Fronsdal, AudioDharma | 30:13 |
-| [MBSR Sitting Meditation, 32-minute version](https://palousemindfulness.com/meditations/sittingmeditation.html) | Palouse Mindfulness | 32 min |
+| [MBSR Sitting Meditation, 32-minute version](https://palousemindfulness.com/disks/sittingmeditation.mp3) | Palouse Mindfulness | 32 min |
 | [Guided Mindfulness Meditation](https://www.audiodharma.org/talks/4013) | Gil Fronsdal, AudioDharma | 42:59 |
 
 A note on the last row: that session's own page describes it as "Aspects of mindfulness as taught by the Buddha" and does not name a breath anchor, so its placement on this shelf rests on its title as a general guided sit rather than on a carrier-stated focus.
@@ -140,7 +140,7 @@ A note on the last row: that session's own page describes it as "Aspects of mind
 
 | Session | Guide | Length |
 |---|---|---|
-| [Body and Sound Meditation](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 3 min |
+| [Body and Sound Meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/Body-Sound-Meditation.mp3) | Diana Winston, UCLA Mindful | 3 min |
 | [A Guided Meditation on the Body, Space, and Awareness](https://www.youtube.com/watch?v=5GSeWdjyr1c) | Yongey Mingyur Rinpoche | 14 min |
 | [A Listening Presence](https://www.tarabrach.com/meditation-a-listening-presence-2026-06-03-2027-min/) | Tara Brach | 20:27 |
 | [Resting in Reality](https://www.tarabrach.com/meditation-resting-in-reality-2/) | Tara Brach | 24 min |
@@ -166,9 +166,9 @@ A note on the last row: that session's own page describes it as "Aspects of mind
 | [Short Body Scan](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/Body-Scan-Meditation.mp3) | Diana Winston, UCLA Mindful | 3 min |
 | [Body Scan, excerpt](https://www.ummhealth.org/services-treatments/center-mindfulness/meditations) | Bob Linscott, UMass Memorial Health | 9 min |
 | [Non-Sleep Deep Rest](https://www.youtube.com/watch?v=KHIbgSN2qAU) | Andrew Huberman | 10:42 |
-| [Body Scan for Sleep](https://www.uclahealth.org/marc/mindful-meditations) | Diana Winston, UCLA Mindful | 13 min |
-| [Introductory iRest practice](https://shop.irest.org/pages/try-irest-now) | Richard Miller, iRest Institute | 15 min |
-| [Extended iRest practice](https://shop.irest.org/pages/try-irest-now) | Richard Miller, iRest Institute | 20 min |
+| [Body Scan for Sleep](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/Body-Scan-for-Sleep.mp3) | Diana Winston, UCLA Mindful | 13 min |
+| [Introductory iRest practice](https://cdn.shopify.com/s/files/1/0741/9877/8132/files/General_iRest_15_minutes_SL.mp3?v=1712181713) | Richard Miller, iRest Institute | 15 min |
+| [Extended iRest practice](https://cdn.shopify.com/s/files/1/0741/9877/8132/files/20_Min_iRest_Yoga_Nidra_Richard_Miller.mp3?v=1712182029) | Richard Miller, iRest Institute | 20 min |
 | [Guided Body Scan](https://www.audiodharma.org/talks/353) | Gil Fronsdal, AudioDharma | 25:05 |
 | [27-Minute Deep Relaxation](https://web.plumvillage.app/item/deep-relaxation-nourishing-body-and-mind) | Sister Chan Khong, Plum Village | 27:25 |
 | [Full iRest Yoga Nidra Practice](https://insighttimer.com/richardmiller/guided-meditations/full-irest-yoga-nidra-practice) | Richard Miller, Insight Timer | 36:53 |
