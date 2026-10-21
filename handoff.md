@@ -743,3 +743,20 @@ Remaining manifest (11): SO021 (next), SO036, SO042, SO050, SO063,
 SP007, SP017, SP021, SP022, SP025, SP028. Report deadline 07:00 UTC
 (fixed); SO021 started this round — may honestly remain in progress at
 the deadline. Full records in docs/enrichment/sources/p1zzg/.
+
+## p1zzg checkpoint (worker-p1zzg-f6a2bf71, 2026-10-21 ~06:31 UTC)
+
+Live state: 20/30 done (S106 S088 S110 S111 S114 S116 S109 S132 S138 SE013
+SE020 SE033 SE038 SE041 SE057 SE067 SO005 SO009 SE072 SO021). Advisor-
+accepted prose: S132 (round-2 scoped PASS), S138 (items-2-5 scoped pass),
+SE072 (post-repair PASS, APA-source scope), SO021 (post-repair SCOPED
+PASS, Gadamer p. 293), SE067 / SO005 / SO009 (consolidated post-repair
+SCOPED PASS). SE013: acceptance covers my quotation addition only (the
+other agent's body is theirs; supervisor sweep cd7634dac sits on top).
+SE041: EXPLICITLY UNRESOLVED on the page/section locator (state flag;
+quote verified from the opened mirror; carriers attempted all failed) —
+does not block other work. All scoped acceptances exclude the preserved
+Practice/parallels and their independent citations (inherited-reference
+exclusions recorded per ledger). Remaining manifest (10): SO036, SO042,
+SO050, SO063, SP007, SP017, SP021, SP022, SP025, SP028. Report deadline
+07:00 UTC (fixed). Full records: docs/enrichment/sources/p1zzg/.
