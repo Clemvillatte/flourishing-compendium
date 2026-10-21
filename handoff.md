@@ -22,6 +22,28 @@
   validator misses dropped Field blocks (three pages this session, self-caught
   in QC) — consider a validator check; PBT audit states separated (present vs
   reviewed vs verified vs integrated).
+- WORKER CHECKPOINT w1q (2026-10-21 ~15:05Z, worker-w1q-pplxy-7d4f2a91, T0 14:18:37Z, report
+  due 15:18:37Z; baton w1q HELD until final release at T+58): TEN ITEMS THIS SESSION, ALL
+  PUSHED AND VALIDATED (verification pass at T+45.5: 10/10 pages pass --fast-track vs HEAD,
+  build clean 5842 entries; final commit 65fa80ea + release commit to follow): items 1-7
+  (Speech Act Theory, Spiral of Silence, Strategic Contingencies, Structural injustice,
+  Super's Life-Span Life-Space, Symbolic Convergence, Symbolic Interaction) were pushed in
+  the earlier part of this session; items 8-10 this stretch: Telomere theory Blackburn
+  (c68b173e + QC repair ebd95b12), The Great Death (4656b287 + QC repair 70d0d596), The
+  body-mind unity in pain (ff440c8c + URL fix 48bf67e1 + QC repair 15ad4e49). MILESTONE QC
+  (items 6-10, advisor round at T+41.5): NOT CLEARED initially; all repairs applied and
+  re-pushed — Origin sections added to both Symbolic pages, unsupported inferences removed
+  from all three new pages (Nobel history, causal claims, unverified dates/authors, clinical
+  overreach), bold leads removed per humanizer. Full QC trail in
+  docs/enrichment/sources/w1q/ledger.md. ITEMS 1-2 QC FLAGS still marked "Reopened for QC" in
+  state — round 2 repairs were applied and both pages now pass validation, but formal
+  advisor re-clearance never ran; supervisor disposition welcome. EXACT NEXT ACTION for the
+  next w1q worker: (1) run advisor QC re-clearance for items 1-2 flags; (2) continue the
+  queue from rank 1091: The capabilities approach, then The commitment of the knight of
+  faith, The commonwealth of the good, The courage to act against impulse (see
+  docs/enrichment/bands/w1q-manifest.json for order); (3) note the two Telomere/Great-Death
+  carrier limitations recorded in the ledger (no raw-substring verification possible for
+  terebess.hu PDF author metadata and Gutenberg essay-level locators).
 
 - WORKER CHECKPOINT kpr (2026-10-21 ~14:58Z, worker-kpr-3fcf47d6, T0 14:12:32Z, report due
   15:12:32Z; baton HELD, clocked in): took over the stale kpr baton (owner-directed special
