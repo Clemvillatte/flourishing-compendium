@@ -30,3 +30,12 @@
 - All inherited principle links and sections preserved; no wikilinks removed.
 - Worked as supervisor band-work per the owner directive (supervisor baton
   covers it; band baton claimed for tooling with the supervisor role noted).
+
+## Validation correction
+- The first validation attempt FAILED (prose too short: 91 < 150) and the done
+  transition was correctly blocked; the commit message of f8699b0c4 ("validated;
+  band w1f COMPLETE 70/70") was therefore INACCURATE at push time. This commit
+  corrects the record: prose expanded (gloss on the three liberties), a Related
+  concepts section added (Freedom, Positive freedom, Escape from freedom), and
+  the item re-validated clean BEFORE this done transition. Band w1f is complete
+  only as of THIS commit.
