@@ -38,8 +38,8 @@ Sit still for two minutes and notice sensations in the chest, jaw or gut, withou
 - [Brewer, Cook and Bird (2016), "Alexithymia: a general deficit of interoception", Royal Society Open Science (open-access PDF, City Research Online)](https://openaccess.city.ac.uk/id/eprint/16737/1/Alexithymia:%20a%20general%20deficit%20of%20interoception.pdf)
 ## Psychology parallels
 
-- **[[Interoception|Interoception and emotion (Craig, Barrett)]]**, interoceptive accuracy correlates with emotional awareness and regulation (Craig, 2009; Barrett et al., 2019)
-- **[[Body scan in MBSR (Kabat-Zinn)|Body scan]] and mindfulness improve interoception**, systematic training improves accuracy (Khalsa et al., 2018; Tang et al., 2015)
+- **[[Interoception|Interoception and emotion (Craig, Barrett)]]** (Craig, 2009; Barrett et al., 2019)
+- **[[Body scan in MBSR (Kabat-Zinn)|Body scan]]** (Khalsa et al., 2018; Tang et al., 2015)
 
 ## Philosophy parallels
 
