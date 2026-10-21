@@ -113,3 +113,23 @@ Result: 3/3 quotation fidelity PASS, no defects this round.
 ALSO NOTED: batch-ledger string "Integrity (integritas: wholeness)" uses a colon while the
 page file is "Integrity (integritas — wholeness).md" — cosmetic mismatch only; page exists
 and _order.json references the real filename. No action needed.
+
+## Round 4 (16:28Z) — w1aa quote-fidelity verification, third batch
+
+Carriers opened fresh: humanscience.org Festinger 1954 PDF, PubMed 7878162 (Greenwald &
+Banaji 1995 abstract), UCSD Legge Great Learning pages (both URLs).
+
+1. Festinger — Hypothesis I, II, IV blockquotes VERBATIM; Hypothesis III in-text quote
+   VERBATIM (PDF extraction drops the apostrophe in "one's own" — carrier artifact);
+   Derivation A VERBATIM; hammer/political-candidate example faithfully paraphrased;
+   Human Relations 7(2) 1954 117-140 citation standard.
+2. Implicit attitudes — both blockquotes VERBATIM vs the PubMed abstract ("The identifying
+   feature of implicit cognition..." and "However, considerable evidence now supports...");
+   the conclusion/methodology/attention-focusing prose all supported by the abstract's own
+   wording. COSMETIC NOTE: the Sources row says "supports all three quotations" but the page
+   carries two blockquotes (the third is the paraphrased conclusion sentence) — no action needed.
+3. Investigation of things — all blockquotes and the ladder-chain quote VERBATIM on both UCSD
+   carriers (GreatLearning.html and GreatLearninge.html); the gewu-hinge and root-and-branches
+   prose claims supported by the opened text.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
