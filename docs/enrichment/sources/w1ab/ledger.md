@@ -135,3 +135,20 @@
 - Related: [[Default mode network]] row grounded by reading that page's body (Brewer 2011
   meditation contrast; bare link back to this page already present there).
 - QC: none required this item (cadence: first item + every 5th; this is item 2).
+
+## Memorized coping statements in CBT (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: e9eebecb (seed line + Sources stub + Cited-in X007 only). Validated
+  --fast-track --base e9eebecb: ok.
+- Carriers: FOCUS psychiatryonline PDF (10.1176/foc.4.2.173) BLOCKED (robots + Cloudflare
+  'Just a moment' page, 5.7KB) — rejected as carrier; the search snippet quoting it was
+  NOT used as evidence. OPENED INSTEAD: Crane & Watters, 'Cognitive Behavioral Therapy
+  Strategies', VA MIRECC CBT-D clinician guide PDF (8.9MB, downloaded and pdftotext'd):
+  title page (authors, companion to Wenzel-Brown-Karlin 2011) and the p. 100 COPING CARDS
+  passage quoted verbatim (definition + instructions + cashier example, incl. the guide's
+  own think/do example lines). Beck Institute worksheet PDF downloaded (368KB) but no
+  extractable 'coping card' text found — not used as a quote carrier.
+- Scope: the page keeps the compendium seed's Beck framing as framing only; the
+  definitional quotes are all from the opened VA guide. Related rows are comparative
+  clauses (Implementation intentions / Cognitive restructuring / Stress inoculation
+  training all exist as concept pages, titles verified via enrich_find).
+- QC: none required this item (item 3; cadence: first item + every 5th).
