@@ -12,13 +12,27 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 12** — Name your desire precisely
 
-Desire is appetite together with the consciousness of appetite; it is conatus aware of itself. Because desire is the essence, an imprecise desire produces an imprecise life. Spinoza's practice, used across the whole Ethics, is to translate vague appetites into specific ones: not "I want to be happy" but "I want this person's regard, this security, this freedom." Naming does not grant the desire; it makes it workable.
+In the Elwes translation, the scholium to Ethics III P9 says that "between appetite and desire there is no difference, except that the term desire is generally applied to men, in so far as they are conscious of their appetite", and so desire is "appetite with consciousness thereof" ([Spinoza, Ethics, Marxists Internet Archive](https://www.marxists.org/reference/subject/philosophy/works/ne/ethics.htm)). Definition 1 of the emotions adds that desire is "the actual essence of man, in so far as it is conceived, as determined to a particular activity by some given modification of itself". Spinoza says that by desire he means "all man's endeavours, impulses, appetites, and volitions", which "are, therefore, not seldom opposed one to another, according as a man is drawn in different directions, and knows not where to turn" (same source).
+
+That last passage supports the principle's practical side: if our desires vary and conflict, it helps to see which one is moving us. Spinoza does not tell the reader to rewrite vague appetites as specific ones, and I did not find the example "I want this person's regard, this security, this freedom" in any passage I read. The procedure is the compendium's extension of his account of consciousness of appetite.
 
 (Ethics III, P9 scholium; Desire, definition 1 of the affects.)
 
-**Plain words** Desire is appetite plus consciousness of appetite — conatus aware of itself. And an imprecise desire produces an imprecise life. Spinoza's practice: translate vague appetites into named ones. "I want more" is not a desire; it's a fog.
+### Scope
 
-*For example:* Someone "wants a change" for two years — and finally translates: not a change; specifically, fewer meetings, more craft, one honest colleague. The vague version was unfundable; the named version was achievable in a month.
+I read these passages through the Elwes translation and the [Stanford Encyclopedia](https://plato.stanford.edu/entries/spinoza-psychological/). I did not open Gollwitzer 1999, so the goal-specificity parallel is untested here. The claim that an imprecise desire "produces an imprecise life" is not in Spinoza.
+
+**Plain words**
+For Spinoza, desire is an appetite you are aware of. Being aware of what you want helps you see which of your drives are pulling you.
+
+**For example**
+Write down one thing you want, then write what it would give you. If two answers conflict, you have found two desires.
+
+## Sources
+
+- [Spinoza, Ethics (Elwes translation), Marxists Internet Archive](https://www.marxists.org/reference/subject/philosophy/works/ne/ethics.htm)
+- [Stanford Encyclopedia of Philosophy: Spinoza's Psychological Theory](https://plato.stanford.edu/entries/spinoza-psychological/)
+
 ## Psychology parallels
 
 - **Goal specificity effects**, the reliable finding that concrete goals outperform abstract intentions (Gollwitzer, 1999, implementation intentions)
