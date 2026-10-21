@@ -182,7 +182,7 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Wudang Taoist Wellness Academy, paid membership](https://www.taoistwellness.online/) | Master Gu and George Thompson | structured courses |
 | [Internal Arts Academy, paid subscription](https://damomitchell.com/) | Damo Mitchell, Lotus Nei Gong | structured courses |
 
-Verified free single-session Daoist recordings run short; the longer guided training in this tradition sits inside the academies above, labeled paid where paid.
+This shelf has not yet verified longer guided single sessions; the academies above are labeled paid where paid.
 
 ### Zen: shikantaza and koan
 
@@ -194,7 +194,7 @@ Verified free single-session Daoist recordings run short; the longer guided trai
 | [Body, Space and Mu](https://www.mountaincloud.org/wp-content/uploads/2020/08/Body-space-and-mu.mp3) | Henry Shukman, Mountain Cloud Zen Center | 15:32 |
 | [Resting. Settling, Grounding](https://www.mountaincloud.org/wp-content/uploads/2020/08/Resting-settling-grounding.....mp3) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
 
-Longer Zen sits are usually bell-marked silence rather than continuous guidance, so the guided recordings verified here stop at 25 minutes. For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
+This shelf has not yet verified longer guided sessions in this family. For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
 
 ### Walking meditation
 
