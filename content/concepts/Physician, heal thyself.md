@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Physician, heal thyself” — Gospel of Luke 4.23; Gospel of Luke 4.23, as cultural parallel.
 
-The saying comes from the scene in Nazareth where Jesus reads in the synagogue and is met with skepticism from his own townspeople. He anticipates their demand with the proverb: do the works here that we heard you did in Capernaum. As quoted in the King James Version:
+The saying is a proverb quoted in the verse: those who demand proof are invited to apply it first to the speaker. As quoted in the King James Version:
 
 > "And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country." (Luke 4:23, KJV, [Bible Gateway](https://www.biblegateway.com/passage/?search=Luke%204%3A23&version=KJV))
 

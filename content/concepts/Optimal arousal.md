@@ -34,7 +34,7 @@ The inverted-U shape shows up in the difficult condition: learning speeds up as 
 [[Y021 — Diagnose the mind's state before choosing a practice]]
 ## Cited in philosophy parallels
 
-performance and well-being peak at moderate arousal (Yerkes-Dodson).
+performance peaks at moderate arousal (Yerkes-Dodson).
 - Yerkes-Dodson
 - [[B009 — Walk the Middle Way]]
 - [[B036 — Tune, don't force — the lute string]]

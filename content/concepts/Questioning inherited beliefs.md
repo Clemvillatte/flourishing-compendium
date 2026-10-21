@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Questioning inherited beliefs” — Socrates, Apology.
 
-The Apology gives the pattern its founder. Told by the oracle that no one was wiser, Socrates tested it by examining the men most in repute — politicians, then poets, then craftsmen — and found the repute unearned. The examination of received opinion became his life's work, and at trial he refused to give it up: the daily conversation about virtue and the examined life were worth more than acquittal on other terms.
+In Plato's Apology, Socrates describes examining the people thought wise — politicians, then poets, then craftsmen — and defends before the jury his practice of daily examining himself and others. What the portrayal gives the concept is the shape of the work: received reputation is not evidence, and the examination that questions it can cost the examiner something.
 
 > "And I swear to you, Athenians, by the dog I swear! - for I must tell you the truth - the result of my mission was just this: I found that the men most in repute were all but the most foolish; and that some inferior men were really wiser and better." (Plato, Apology, Jowett translation, [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 

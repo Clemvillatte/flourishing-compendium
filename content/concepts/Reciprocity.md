@@ -7,11 +7,11 @@ file: "Reciprocity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-unconditional first moves build cooperation (Cialdini, 2001).
+(Gouldner, 1960).
 
-Gouldner's classic statement gives the norm its two demands: help those who have helped you, and do not injure those who have helped you. The compendium's angle, in the seed line above, is the other side of the mechanism: because receiving creates a pull to repay, a first move given without strings can start cooperation where an accounting would not.
+Gouldner's classic statement gives the norm its two demands: help those who have helped you, and do not injure those who have helped you.
 
-> "I suggest that a norm of reciprocity, in its universal form, makes two interrelated, minimal demands: (1) people should help those who have helped them, and (2) people should not injure those who have helped them." (Gouldner, 1960, p. 171, quoted in [Cristaudo, "On the norm of reciprocity", Mimesis Journals](https://mimesisjournals.com/ojs/index.php/tcrs/article/download/239/188/416))
+> "I suggest that a norm of reciprocity, in its universal form, makes two interrelated, minimal demands: (1) people should help those who have helped them, and (2) people should not injure those who have helped them." (Gouldner, 1960, p. 171, quoted in ["On the norm of reciprocity", Mimesis Journals](https://mimesisjournals.com/ojs/index.php/tcrs/article/download/239/188/416))
 
 - Axelrod, 1984
 - Gilligan, In a Different Voice
@@ -30,7 +30,7 @@ Gouldner's classic statement gives the norm its two demands: help those who have
 - Gouldner, 1960
 
 - Gouldner, "The Norm of Reciprocity"
-- [Gouldner's two minimal demands, quoted verbatim in Cristaudo, "On the norm of reciprocity", Mimesis Journals (2017)](https://mimesisjournals.com/ojs/index.php/tcrs/article/download/239/188/416) — opened source; quotation verified against this copy
+- ["On the norm of reciprocity", Mimesis Journals](https://mimesisjournals.com/ojs/index.php/tcrs/article/download/239/188/416) — opened source; Gouldner's two-demands sentence quoted verbatim with page reference (p. 171) as carried by this article
 
 ## Cited in psychology parallels
 

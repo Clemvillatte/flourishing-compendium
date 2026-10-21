@@ -13,7 +13,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 
 Attention · Psychological science
 
-The theory's most direct empirical support comes from a smartphone experience-sampling study by Killingsworth and Gilbert, which sampled people at random moments to ask what they were doing, thinking and feeling. What they found: people are thinking about what is not happening almost as often as about what is, and doing so typically makes them unhappy. On this theory the remedy is trained contact with the present — the practices of mindfulness and grounding — rather than a better-arranged future.
+The theory's most direct empirical support comes from a smartphone experience-sampling study by Killingsworth and Gilbert, which sampled people at random moments to ask what they were doing, thinking and feeling. What they found: people are thinking about what is not happening almost as often as about what is, and doing so typically makes them unhappy.
 
 > "We developed a smartphone technology to sample people's ongoing thoughts, feelings, and actions and found (i) that people are thinking about what is not happening almost as often as they are thinking about what is and (ii) found that doing so typically makes them unhappy." (Killingsworth & Gilbert, 2010, Science 330, 932, [abstract](https://pubmed.ncbi.nlm.nih.gov/21071660/))
 
