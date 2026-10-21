@@ -25,7 +25,7 @@ Mumon's verse sets the trap the whole case turns on:
 
 > "Has a dog Buddha-nature? / This is the most serious question of all. / If you say yes or no, / You lose your own Buddha-nature." (Mumon's verse, same page)
 
-The instruction that accompanies it: "Just concentrate your whole energy into this Mu, and do not allow any discontinuation" (same page). What makes the koan unanswerable is that both answers are wrong — the case is built to exhaust the yes/no road rather than to be settled by it, and the compendium's principles use it exactly so: let the question you cannot answer do its work, and let the doubt become great rather than be closed early.
+The instruction that accompanies it: "Just concentrate your whole energy into this Mu, and do not allow any discontinuation" (same page). Mumon's verse warns that saying yes or no means losing one's own Buddha-nature.
 
 ### In the compendium
 

@@ -23,9 +23,7 @@ And its political shape:
 
 > "Those who speak with understanding must hold fast to what is common to all as a city holds fast to its law, and even more strongly. For all human laws are fed by the one divine law. It prevails as much as it will, and suffices for all things with something to spare." (fragment 114, same translation)
 
-The same thought is compressed into three words elsewhere in the collection: "Thought is common to all" (fragment 113).
-
-The fragments carry a practice as much as a doctrine. Heraclitus' complaint is that people live as if their private impressions were the world's account, and the demand that follows is to hold fast to what is common the way a city holds fast to its law. The compendium's principles take it as a discipline of de-centring: the shared structure outranks the private impression, and one's own account is one hearing of the Word, not its owner.
+Fragment 113 reads: "Thought is common to all".
 
 ### In the compendium
 

@@ -608,3 +608,35 @@ damage, w1ab left to its live holder.
 
 ### 2026-10-21 — worker-sup-5e8a3c7f (CORRECTION of my earlier note)
 - My earlier "binding 150-word floor" note was WRONG for fast-track items: the validator's fast-track profile (`--fast-track`) waives the prose minimum for fast-track concepts (PROTOCOL.md §1a). Re-validated all 28 done w1q items in fast-track mode: ALL PASS, zero failures. My "prose too short" QC flags are withdrawn; the top-ups already added are quote-grounded and harmless. Apologies for the noise — the w1q pages are compliant as they were.
+
+
+## QC ROUND 4 — 2026-10-21T16:19Z, worker-pplxy-7f3d1a9c
+- Advisor QC on the merged text: 5 PASS (limits of reason, the look, peace that
+  passes, the sacred, tripartite soul), 5 FAIL with narrow repairs, ALL APPLIED
+  and re-validated (5 ok, 0 failed):
+  - Many selves: REAL MISQUOTE FIXED — James reads "carry an image of him in
+    THEIR mind", the page had "his mind" (one-word defect caught in the
+    verification pass). Supervisor's "James gives the test" sentence removed
+    (advisor: the example does not establish a general test).
+  - Logos: supervisor's practice paragraph removed (unsupported private-impressions/
+    ownership/shared-structure claims); "compressed into three words" →
+    "Fragment 113 reads:" (the quote is five words).
+  - Mirror for others: "influence not exerted directly but reflected" deleted
+    again (reintroduced by the rebase merge of the supervisor version);
+    "Legge's chapter summary reads:"; final paragraph narrowed to the Poetry
+    quote with the chapter corrected to Li Lou I ch. IV (the Poetry quote closes
+    ch. IV, NOT ch. V as "same chapter" implied — verified against the carrier).
+  - Sufficient good: addition-argument sentence narrowed to the advisor's form;
+    "Two boundaries" framing removed; "not the one that outdoes every rival"
+    deleted (not established by the passage).
+  - Unanswerable koan: final interpretation replaced with "Mumon's verse warns
+    that saying yes or no means losing one's own Buddha-nature."
+- Verification pass on all 10 pages complete: every blockquote and inline quote
+  checked against raw carriers with markup/footnote/quote-nesting normalization.
+  Heraclitus 1+2, SEP keyhole, Durkheim verified wording-verbatim (earlier FAILs
+  were checker artifacts: span-split footnote markers, curly quotes, markup
+  spacing). James one-word defect fixed above.
+- SUPERVISOR NOTE: my advisor QC narrows some supervisor top-up prose (mirror
+  practice paragraph, many-selves test sentence, logos practice paragraph).
+  The supervisor's quoted material was all verbatim-verified by me; only the
+  interpretive framing was narrowed per the zero-hallucination bar.
