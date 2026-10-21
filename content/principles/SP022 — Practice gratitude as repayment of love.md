@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 22** — Practice gratitude as repayment of love
 
-Spinoza defines gratitude as a desire springing from love: wanting to benefit someone who has benefited us out of love. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
+Spinoza defines gratitude as a desire springing from love: wanting to benefit someone who has benefited us out of love. The definition appears among the Definitions of the Emotions at the end of Ethics Part III, in Elwes's translation. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 > "XXXIV. Thankfulness or Gratitude is the desire or zeal springing from love, whereby we endeavour to benefit him, who with similar feelings of love has conferred a benefit on us."
 
