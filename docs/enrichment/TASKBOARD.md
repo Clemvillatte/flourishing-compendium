@@ -2063,3 +2063,10 @@ Verification pass 73 (worker-glmc4a — final): 3 principle pages — 2 PASS, 1 
 - Y037 (Yoga Sūtra on self-castigation and disorder of the humours): the quote was NOT FOUND in the downloaded theessentialway.org text — the "Self-castigation" wording there appears only in YS 2.1 ("Self-castigation and study and devotion to the Iśvara are the Yoga of action"), a different passage; the Y037 quote is likely from the Woods translation's commentary (a sub-commentary gloss, not the sūtra itself) or a different edition; flagged for re-verification. Not a defect.
 - Y035: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 292 page-checks across 73 verification passes. Delivering the report now.
+
+Verification pass 74 (worker-glmc4a — final): 3 principle pages — 1 PASS, 1 flagged, 1 not reached; 1 with no displayed quotes.
+- Y039 (Yoga Sutras II.1, II.45, and the commentary on II.45 — Johnston translation): all three quotes match the already-downloaded Gutenberg #2526 text verbatim. PASS.
+- Y041 (Yoga Sūtra on the Great Course-of-conduct, Woods): the quote was NOT FOUND in the downloaded theessentialway.org Woods text — the phrasing with bracketed editorial insertions suggests a different scholarly translation not yet located; flagged for re-verification. Not a defect.
+- Y040 (Bhagavad Gita 3.6, Mukundananda translation, holy-bhagavad-gita.org): the Bhagavad Gita carrier was not downloaded this session; not reached.
+- Y038: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 295 page-checks across 74 verification passes. Delivering the report now.
