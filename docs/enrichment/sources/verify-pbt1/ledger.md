@@ -715,3 +715,9 @@ abstract sentences — marked elision, acceptable. 1/1 PASS, no defects.
 
 Carrier opened fresh: fredsakademiet.dk compiled Gandhi satyagraha PDF. w1w "Satyagraha":
 blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 42 (17:01Z) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: GVSU Schwartz 2012 full text. w1w "Schwartz": all four quoted fragments
+(the definitional values passages and the affect passage) VERBATIM vs the opened carrier.
+1/1 PASS, no defects.
