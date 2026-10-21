@@ -12,11 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 42** — Learn to recognise disordered eating: when food becomes a problem
 
-Disordered eating (restrictive eating, binge eating, purging, obsessive food rules) is a clinical condition requiring treatment. It affects both physical and mental health and is not a choice.
+The seed uses "disordered eating" for what clinicians call eating disorders, and the two are not the same. Disordered eating refers to unhealthy behaviours and feelings around food that may share some features of an eating disorder, but the person does not meet the full DSM-5-TR criteria for a diagnosis ([Cleveland Clinic](https://health.clevelandclinic.org/disordered-eating-vs-eating-disorder)). The clinical conditions are anorexia nervosa, bulimia nervosa and binge-eating disorder. People with anorexia severely avoid or restrict food because of a distorted self-image or an intense fear of gaining weight, and people with bulimia binge and then try to prevent weight gain by vomiting or using laxatives ([NIMH](https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders)).
 
-**Plain words** Disordered eating — restriction, binging, purging, obsessive rules — is a clinical condition, not a discipline flex. It damages both body and mind and deserves real treatment. The food rules that run your life are a symptom with a therapy.
+The physical stakes are real. NIMH lists thinning of the bones, muscle wasting, damage to the heart and organ failure among the consequences of anorexia, and states that "Anorexia nervosa can be fatal" ([NIMH](https://www.nimh.nih.gov/health/publications/eating-disorders)). A meta-analysis of 36 studies found standardised mortality ratios of 5.86 for anorexia, 1.93 for bulimia and 1.92 for other eating disorders, and one in five people with anorexia who died had died by suicide ([Arcelus et al. 2011, PubMed](https://pubmed.ncbi.nlm.nih.gov/21727255/)). The same NIMH page says: "Eating disorders can be treated successfully." Treatment can combine psychotherapy, medical monitoring and nutritional counselling.
 
-*For example:* "I'm just being healthy" — said by someone whose food rules have eaten their social life, their mood, and their bone density. That's not health; that's the disorder's cover story. It's treatable.
+### Scope
+
+I did not open the APA 2022 text, and I did not find a source for the seed's claim that eating disorders are "not a choice". This page cannot say when a food rule becomes a disorder, which is a clinician's judgement.
+
+**Plain words**
+Food rules, bingeing or purging that take over your life can signal an eating disorder, and they are treatable. See a doctor or a mental health professional.
+
+**For example**
+If food rules cost you friendships, mood or health, write down what you eat, what you skip and what you feel, and take that record to a doctor.
+
+## Sources
+
+- [NIMH, Eating Disorders: What You Need to Know](https://www.nimh.nih.gov/health/publications/eating-disorders)
+- [NIMH, What Are Common Types of Eating Disorders?](https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders)
+- [Arcelus et al. 2011, Mortality rates in patients with anorexia nervosa and other eating disorders (PubMed)](https://pubmed.ncbi.nlm.nih.gov/21727255/)
+- [Cleveland Clinic, Disordered Eating vs. Eating Disorders](https://health.clevelandclinic.org/disordered-eating-vs-eating-disorder)
+
 ## Psychology parallels
 
 - **Eating disorders as clinical conditions**, anorexia, bulimia, and binge eating disorder are treatable conditions (APA, 2022)
