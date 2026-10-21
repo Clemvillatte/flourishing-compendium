@@ -20,3 +20,6 @@
 ## MO051 — procrastination and fatigue
 - Opened: Sirois & Pychyl 2013 abstract; Kühnel 2018 (PMID 30450062, 29456519); Prem 2018 Frontiers abstract/discussion (no sleep effect).
 - Seed claim "procrastination is often a signal of fatigue" is NOT the main finding; evidence mixed. Page rewritten as mood regulation first, fatigue as qualified. The principle title still says "signals fatigue": supervisor may want to soften the title/blockquote (I did not edit it).
+## PP052 — constraints
+- Opened: Stokes 2008 abstract (J Creative Behav 42(4), via CiNii); Stokes 2006 book description (OU library record, quote from publisher blurb); Theel & Sydow 2024 excerpt quoting Acar et al. 2019 p.97. Acar 2019 abstract page did not return text -> inverted-U attributed via secondary source, flagged on page.
+- Locator in file says "Stokes, 2006" — the paper is Stokes 2008 (JCB); book is 2006. Both cited on page. Seed "moderate constraints enhance more than complete freedom" supported only via inverted-U secondary quote.
