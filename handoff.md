@@ -1,3 +1,34 @@
+- WORKER CHECKPOINT w1m (2026-10-21 ~11:18Z, worker-w1m-5f8e3a2b, T+60 REPORT DUE 11:42:57Z
+  — reporting checkpoint; baton HELD, work continues while the session lives): took over the
+  STALE w1m baton (10/70 done at takeover). 6 CONCEPTS ENRICHED AND DONE THIS SESSION
+  (fast-track, all validator-clean, all quotes verbatim from opened carriers): The coloured
+  lens (Emerson Experience via Gutenberg #2945 + Gallegos 2017 perceptualism), The return of
+  the soul to its source (Plotinus Ennead IV.8.1 Armstrong via the archive.org Loeb full
+  text), A certain blindness (James essay via Gutenberg #16287), Acedia (Evagrius Praktikos 12
+  Dysinger via evagriusponticus.net), Vipassana (insight) (Thanissaro MN 10 + One Tool Among
+  Many via AccessToInsight), Viveka (Wikipedia definition + Vivekachudamani verse 20 in
+  Swami Madhavananda's translation, verified against the archive.org full text). 5 ITEMS ON
+  HOLDS (not done, flags + concept-namespace-audit.md entries recorded): State-dependent
+  intervention matching (identity-support hold, bounded WIP: Niederlohmann 2026 Frontiers in
+  Psychiatry PMC13200463), The examined past + The prior probability of the world (namespace
+  holds; Seneca De Ira 3.36 Stewart-translation quotes and Hume Enquiry X.1 quotes verified,
+  bounded pages saved), The seasons of illness (namespace hold; Ecclesiastes 3 Douay-Rheims
+  quote verified, bounded page saved), The urgency of time (hold at seed; no lawful Heidegger
+  carrier), The via media (SOURCE-PENDING: IEP carries Bernstein's relativist-pole quote only;
+  Wiktionary definition + Jones usage quote verified), Transaction (carrier-mismatch hold at
+  seed; the opened Experience and Nature uses 'transaction' in juridical/exchange senses; the
+  organism-environment term is Dewey & Bentley's Knowing and the Known, not opened). FIVE
+  advisor QC rounds this session (item-1; items-2-5 milestone x2 rounds of repairs; items-6-10
+  milestone x2 rounds); all routed repairs applied and pushed; final focused verification
+  PASSED items 7-8, held item 6 source-pending. BYTE-LEVEL PRESERVATION CHECK executed against
+  the true pre-session baseline (9fcf483ba): front-matter byte-identical and zero lost wikilink
+  markup on all 11 touched pages. EXACT NEXT ACTION for the next worker: the w1m manifest is
+  worked in order; remaining head-of-queue items after the holds: Value creation, Verum factum,
+  Via negativa, Voluntary simplicity, Walking off one's thoughts, Whole Trait Theory (then
+  the tail). Check docs/enrichment/batches/w1m.json flagged{} for the holds before re-taking
+  any held item; the principle-reserve request to the supervisor still stands on the TASKBOARD
+  (all p1* bands complete at claim time).
+
 - WORKER CHECKPOINT w1i (2026-10-21 ~08:53Z, worker-w1i-3a9d2f7e, T+60 REPORT DUE 09:06:05Z
   — reporting checkpoint; baton HELD, work continues while the session lives): took the released
   band at 45/70. 25 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
