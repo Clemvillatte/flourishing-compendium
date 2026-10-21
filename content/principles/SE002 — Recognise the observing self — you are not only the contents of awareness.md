@@ -16,7 +16,7 @@ There is a distinction between the contents of experience (thoughts, feelings, s
 
 **Plain words** There is a difference between a storm and the window you watch it from. Thoughts, feelings and sensations arrive, change and pass; the noticing of them does not come and go in the same way. Saying "there is panic" instead of "I am panic" leaves the storm untouched, but it moves you to the window. That shift, small as grammar, is what the observing self refers to.
 
-*For example:* The panic attack that says "you ARE the panic" — and the moment of noticing "there is panic occurring" — a distinction as small as grammar and as large as freedom. The contents raged; the observer was never in danger.
+*For example:* The panic attack that says "you ARE the panic" — and the moment of noticing "there is panic occurring" — a distinction as small as grammar and as large as freedom. The contents raged; the witness itself was not one of the contents.
 
 ### The observing self
 
