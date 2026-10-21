@@ -44,7 +44,8 @@
   "The stress-buffering model",
   "Theory of Work Adjustment",
   "Zuckerman’s Alternative Five-Factor Model",
-  "Theory-theory of mindreading"
+  "Theory-theory of mindreading",
+  "Transformational leadership theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -83,10 +84,11 @@
   "The stress-buffering model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1985 Psychological Bulletin paper copyrighted; quotes verified verbatim from opened Garfield Citation Classic essay by Cohen himself (open UPenn PDF) describing the review's hypotheses and findings; abstract of original read via DocsLib snippet only (not counted as opened); validated --fast-track",
   "Theory of Work Adjustment": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1984 book copyrighted; grounded on opened ERIC full text (Weiss 1970 Work Adjustment Project paper quoting the theory's propositions verbatim) + opened ERIC record of the 1968 revision monograph (attributed as ERIC summary); validated --fast-track",
   "Zuckerman’s Alternative Five-Factor Model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): sensation-seeking definition (Zuckerman 1994 p.27) + ZKPQ five-factor sentence verified verbatim from opened WKU review PDF; 1993 ZKPQ paper cited via carrier only (details not independently verified, noted); validated --fast-track",
-  "Theory-theory of mindreading": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): IEP Theory of Mind article opened; theory-theory definition + child-scientist + false-belief passages quoted verbatim; Gopnik & Wellman 1992 cited via IEP survey only (full text not open, noted); validated --fast-track"
+  "Theory-theory of mindreading": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): IEP Theory of Mind article opened; theory-theory definition + child-scientist + false-belief passages quoted verbatim; Gopnik & Wellman 1992 cited via IEP survey only (full text not open, noted); validated --fast-track",
+  "Transformational leadership theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Bass 1999 abstract opened on tandfonline and quoted verbatim; Burns 1978 cited via standard literature only (not independently opened, noted); four dimensions described from theory's standard account; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:34:45+00:00",
+ "updated": "2026-10-21T16:35:53+00:00",
  "band_done": false
 }
