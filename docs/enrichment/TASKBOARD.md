@@ -1692,3 +1692,10 @@ Verification pass 18 (worker-glmc4a — earlier released principle bands p1b/p1y
 - B064: the Xinxin Ming Clarke-translation opening matches the opened AZINE Library PDF verbatim, and the Dhammapada 83 Buddharakkhita verse matches the opened accesstoinsight page verbatim.
 - D025: the Daodejing 12 Legge sentence matches the already-opened Gutenberg #216 text verbatim.
 FINAL SESSION TALLY: 99 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 97 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). The w1l concept band's quote-bearing pages are fully swept; principle-band items verified on a spot-sample basis. All four open routed findings from the w1i QC dispositioned. Scope: scoped quotation verification, not full-page QC. No band files edited, no baton held, all work pushed.
+
+Verification pass 19 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS.
+- D019: the Daodejing 46 Legge contentment passage matches the already-opened Gutenberg #216 text verbatim.
+- D080: the Zhuangzi ch. 2 §6 Legge passage matches the freshly downloaded METIS Legge PDF verbatim.
+- D037: the Zhuangzi ch. 4 §2 fasting-of-the-mind passage matches the opened METIS PDF verbatim (the source hyphenates "pre-occupation" across a line break; the page's rendering is verbatim-correct — initial miss was a pdftotext line-break-hyphen artifact, confirmed via -layout extraction).
+- D031: the Daodejing 67 Legge three-precious-things passage matches the opened Gutenberg #216 text verbatim.
+Session total: 103 distinct pages verified (101 fully PASS; 2 minor defects routed: SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch).
