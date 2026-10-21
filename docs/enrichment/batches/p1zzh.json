@@ -2,15 +2,17 @@
  "batch": "p1zzh",
  "done": [
   "SP029",
-  "SP043"
+  "SP043",
+  "SP046"
  ],
  "in_progress": null,
  "flagged": {
   "SP029": "inherited: Seligman/Rotter bare references not opened this session",
-  "SP043": "inherited: Flavell 1979 and Ryle bare references not opened this session"
+  "SP043": "inherited: Flavell 1979 and Ryle bare references not opened this session",
+  "SP046": "inherited: Hayes et al. 2011 bare reference not opened this session"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:07:44+00:00",
+ "updated": "2026-10-21T04:09:17+00:00",
  "band_done": false
 }
