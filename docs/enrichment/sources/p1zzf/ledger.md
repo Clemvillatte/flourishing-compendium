@@ -42,3 +42,6 @@
 ## R048 — Practise ofo
 - Opened: Pratt Samoan dictionary (dokumen.pub full text: ofo, alofa entries), Oranga Tamariki tautua page, J Indigenous Wellbeing article (excerpt), Beehive Samoan Language Week speech (excerpt), Batson chapter PDF (excerpt), PMC book review of Batson.
 - KEY FLAG: seed "ofo = compassion" NOT supported — Pratt gives ofo = astonishment/wonder, salute, offer of food/services, first speech on presenting food; compassion is alofa. Modern senses not checked. Page discloses and describes alofa. Tuhiwai Smith 1999 (Māori) not tied to Samoan concept. Example labelled imagined.
+
+## R049 — Practise alofa
+- Opened: Pratt dictionary (alofa entry: love, compassion; a gift), Oranga Tamariki tautua, Beehive speech, PESA Agora (Tui Atua 2018 via secondary), Underwood chapter PDF (excerpt), Sprecher & Fehr 2005 (PDF excerpt). Tuhiwai Smith 1999 unread and not a Samoan source. Example labelled imagined.
