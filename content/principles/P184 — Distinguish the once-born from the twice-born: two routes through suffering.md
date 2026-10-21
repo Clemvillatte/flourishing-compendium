@@ -31,6 +31,7 @@ Imagine a friend saying that familiar reassurances no longer help. Ask what has 
 - [[ST369 — Tolstoy Hides the Rope|369. Tolstoy Hides the Rope]]
 - [[ST390 — The Tinker's Chains Fall Off in a Field|390. The Tinker's Chains Fall Off in a Field]]
 - [[ST410 — Tolstoy Hides the Rope|410. Tolstoy Hides the Rope]]
+- [[ST428 — The Tinker's Chains Fall Off in a Field|428. The Tinker's Chains Fall Off in a Field]]
 ## Psychology parallels
 
 - **Temperament**: a twin study estimated genetic contributions to personality differences; it did not test James's religious types ([Tellegen et al., 1988, abstract](https://pubmed.ncbi.nlm.nih.gov/3397862/)).
