@@ -9,7 +9,8 @@
   "SP070",
   "SP074",
   "SP077",
-  "SP083"
+  "SP083",
+  "SP085"
  ],
  "in_progress": null,
  "flagged": {
@@ -21,10 +22,11 @@
   "SP070": "inherited: Aron et al. 1992 bare reference not opened this session",
   "SP074": "inherited: Edmondson 1999 bare reference not opened this session",
   "SP077": "inherited: Janis 1972 bare reference not opened this session",
-  "SP083": "inherited: Park 2010 bare reference not opened this session"
+  "SP083": "inherited: Park 2010 bare reference not opened this session",
+  "SP085": "inherited: Steger 2012 bare reference not opened this session"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:19:45+00:00",
+ "updated": "2026-10-21T04:20:23+00:00",
  "band_done": false
 }

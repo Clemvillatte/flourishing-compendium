@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 85** — Cultivate the intellectual love of God
 
-The mind's highest good is the knowledge of God, and its highest joy is the love that follows from that knowledge, which Spinoza calls amor Dei intellectualis: the love of the whole that arises from understanding it. This love is unlike ordinary love in two ways: it cannot be lost (it is not attached to a perishable object), and it is its own reward (it generates no demand). Practically, notice whether your most valuable experiences include some version of this: understanding something so fully that affection follows automatically, with nothing asked in return.
+The love Spinoza means arises from understanding, not desire: "From the third kind of knowledge there necessarily arises an intellectual love of God" ([Ethics V P32 corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The pleasure in what is understood is "the greatest contentment of mind there can be," accompanied by the idea of God as its cause ([Ethics V P32 proof, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Its durability is structural: "A mind's intellectual love of God is part of the infinite love by which God loves God" ([Ethics V P36, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)), and "God's love of men and the mind's intellectual love of God are one and the same" ([Ethics V P36 corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Spinoza's summary in the note: "our salvation = happiness = freedom consists in a constant and eternal love toward God" ([Ethics V, note on 36, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
-(Ethics V, P27-33.)
+> "From the third kind of knowledge there necessarily arises an intellectual love of God." (Spinoza, Ethics V P32 corollary, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
-**Plain words** Amor Dei intellectualis: the intellectual love of God — the love of the whole that arises from understanding it. Unlike ordinary love, it's not competing for a perishable object, so it can't curdle into jealousy or loss. The mind's highest good and its highest joy, in one act.
+**Plain words**
+This love does not start as feeling; it starts as understanding, and the feeling follows it. That is why Spinoza calls it intellectual: the object is not a person who could leave or a prize that could be lost, but the necessary order that was there before you wanted anything. Its mark is one-directional dependence: understanding feeds the love, and the love feeds nothing back into your expectations. You cannot be abandoned by what you understand; you can only stop understanding it.
 
-*For example:* The astronomer's relationship to the universe — not worship exactly, but the love that comes from understanding — and the property that it never turns bitter when the universe does something harsh. Love built on understanding has a different failure mode than love built on wanting.
+**For example**
+Hypothetical illustration: the astronomer's affection for the sky survives every discovery that shrinks the earth's place in it, because the understanding, not the sky's favor, holds the affection up.
+
+(Ethics V, P32-33 and P36, with its corollary and note.)
+
 ## Psychology parallels
 
 - **[[Meaning|Meaning in life and coherence]]**, the eudaimonic research on understanding-based satisfaction (Steger, 2012, meaning research)
@@ -27,3 +32,7 @@ The mind's highest good is the knowledge of God, and its highest joy is the love
 
 - **The One and henosis** (Plotinus, Enneads)
 - **[[Deus sive natura|Deus sive natura loved]]** (Goethe, the Spinozist poems, West-oestlicher Divan)- **[[Amor dei intellectualis|Amor dei intellectualis]]** (Spinozism)
+
+## Sources
+
+- [Spinoza, Ethics, Bennett clear-language translation (earlymoderntexts.com)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf) — V P32 (proposition, proof, corollary), V P36 (proposition, corollary, note)
