@@ -12,7 +12,7 @@ Contempt for fame is the Stoic stance toward reputation: not the refusal of reco
 
 > "Fame is the shadow of virtue; it will attend virtue even against ​her will. But, as the shadow sometimes precedes and sometimes follows or even lags behind, so fame sometimes goes before us and shows herself in plain sight, and sometimes is in the rear, and is all the greater in proportion as she is late in coming" (Seneca, Letter 79, [Gummere translation, Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_79))
 
-The sentence does the Stoic work in one move: fame is derivative, a shadow cast by something else. A person who aims at the shadow mistakes the by-product for the thing, and Seneca's letter goes on to praise pursuing the ideal "even though few know it, or none" (same letter). The stance is contempt for fame as an aim, not hatred of fame as a fact; on Stoic terms reputation is a "preferred indifferent", worth having if it comes, never worth acting for.
+The sentence does the Stoic work in one move: fame is derivative, a shadow cast by something else. Seneca's letter goes on to praise pursuing the ideal "even though few know it, or none" (same letter). On Stoic terms reputation belongs to the indifferents: the [Stanford Encyclopedia's Stoicism entry](https://plato.stanford.edu/entries/stoicism/) states that "the mainstream Stoic view is that some indifferents – such as health, wealth, and reputation – are of a promoted or preferred type". Read that way, the stance this page's title names is a refusal to make reputation an aim rather than a refusal of recognition when it arrives.
 
 ## Related concepts
 
@@ -27,4 +27,4 @@ The sentence does the Stoic work in one move: fame is derivative, a shadow cast 
 - [[S112 — Handle fame without vanity]]## Sources
 
 - [Seneca, Moral Letters to Lucilius, Letter 79, Gummere translation (Wikisource)](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_79) — the fame-as-shadow passage, verified verbatim against the opened page (the carrier renders a zero-width space inside "against her will", noted here)
-- Seneca, Letters from a Stoic — seed citation; the Campbell selection's Letter 79 corresponds to the passage above
+- [Stanford Encyclopedia of Philosophy, Stoicism](https://plato.stanford.edu/entries/stoicism/) — the preferred-indifferent classification of reputation, verified verbatim against the opened page

@@ -383,3 +383,21 @@ page and here). Quote VERBATIM modulo that artifact. Seneca "preferred
 indifferent" framing supported by the opened SEP Stoicism entry via the
 S112 principle's prior citation (recorded on the S112 page). Campbell
 selection noted as seed citation.
+
+## Milestone QC round 1 (items 2-5) — repairs (worker-w1m-f9f8e50d)
+Advisor verdict: COM-B scoped PASS; Commitment scoped PASS after repairs;
+Companionate love FAIL -> done-mark REVERTED, NAMESPACE HOLD recorded in the
+batch flagged{} and concept-namespace-audit.md (compendium-created heading;
+bounded enrichment pushed; owner disposition requested); Contempt for fame
+FAIL -> repairs applied: SEP Stoicism opened and the preferred-indifferent
+classification verified verbatim ("health, wealth, and reputation" are
+preferred-type indifferents), Campbell correspondence claim removed,
+"refusal to make it a target" labelled as reading. Commitment: philosophical
+synthesis paragraph removed, quote boundaries fixed (both definition and
+behavioural-consequence quotes verified against full sentence boundaries in
+the opened PDF; the carrier hyphenates "deci- sions to persist-that is" —
+quote truncated at the clean boundary), seed references restored in Sources.
+COM-B: origin paragraph rewritten as the paper's own report, categorical
+claims softened, glosses narrowed to "listed as a citing principle" +
+possible-link framing, locators added. Contempt for fame Related-section
+warning (2 lines) accepted for fast-track.

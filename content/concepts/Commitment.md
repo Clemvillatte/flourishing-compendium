@@ -8,19 +8,19 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Commitment, in the relationship-research sense the compendium uses, is not a feeling of loyalty but a specific psychological state: the intent to persist in a relationship, a long-term orientation toward it, and a felt psychological attachment to it. C. E. Rusbult's investment model, grounded in interdependence theory, is the standard research account of how this state forms and what it does.
+Commitment, in the relationship-research sense the compendium uses, is a specific psychological state: the intent to persist in a relationship, a long-term orientation toward it, and a felt psychological attachment to it. C. E. Rusbult's investment model, grounded in interdependence theory, is the account this page carries of how the state forms and what it does.
 
-> "Commitment level is defined as intent to persist in a relationship, including long-term orientation toward the involvement as well as feelings of psychological attachment." (Rusbult, Martz & Agnew, 1998, [The Investment Model Scale, PDF](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf))
+> "Commitment level is defined as intent to persist in a relationship, including long-term orientation toward the involvement as well as feelings of psychological attachment" (Rusbult, Martz & Agnew, 1998, [The Investment Model Scale, PDF](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf))
 
 The model's core distinction is that commitment grows out of dependence. Satisfaction, poor alternatives and accumulated investments make a person dependent on a relationship; commitment is the psychological experience of that state. In the authors' summary:
 
 > "The Investment Model further extends Interdependence Theory by suggesting that feelings of commitment emerge as a consequence of increasing dependence." (Rusbult, Martz & Agnew, 1998)
 
-Two features make the construct useful for a flourishing writer. First, it is measurable: the Investment Model Scale asks people to rate items like "I want our relationship to last forever." Second, it predicts behaviour rather than merely naming it:
+The construct is measurable: the Investment Model Scale asks people to rate items like "I want our relationship to last forever." And it is defined by its behavioural consequence:
 
-> "Commitment is the psychological construct that directly influences everyday behavior in relationships, including decisions to persist." (Rusbult, Martz & Agnew, 1998)
+> "Commitment is the psychological construct that directly influences everyday behavior in relationships" (Rusbult, Martz & Agnew, 1998, [The Investment Model Scale, PDF](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf))
 
-The philosophical strand the seed names (Aristotle on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds) treats commitment as a form of the self's fidelity to its chosen loves; the research strand treats it as a state with causes and consequences. The two are compatible readings: the philosophers describe what commitment is for, the researchers describe what it is made of and what it does.
+The paper continues that commitment mediates the effects on persistence of the three bases of dependence. The seed also names a philosophical strand (Aristotle on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds); those sources are carried as the seed's references and were not opened for this page.
 
 ### In the compendium
 
@@ -36,6 +36,5 @@ The philosophical strand the seed names (Aristotle on friendship, Buber's I and 
 
 - [[R086 — Practise fidelity]]## Sources
 
-- [Rusbult, C. E., Martz, J. M., & Agnew, C. R. (1998), "The Investment Model Scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size", Personal Relationships 5, 357-391 — PDF at Northwestern (Finkel lab)](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf) — the commitment definition, the dependence claim and the behavioural-consequence claim
-- Aristotle, Nicomachean Ethics VIII — carried from the seed; not the carrier for any quotation above
-- Buber, I and Thou — carried from the seed; not the carrier for any quotation above
+- [Rusbult, C. E., Martz, J. M., & Agnew, C. R. (1998), "The Investment Model Scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size", Personal Relationships 5, 357-391 — PDF at Northwestern (Finkel lab)](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf) — the commitment definition, the dependence claim, the scale item and the behavioural-consequence passage
+- Seed references carried forward, not opened: Rusbult et al. 2001; Hayes et al. 2006; Aristotle, Nicomachean Ethics VIII; Buber, I and Thou; Sartre; de Beauvoir

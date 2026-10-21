@@ -14,21 +14,21 @@ The COM-B model is Susan Michie, Maartje van Stralen and Robert West's 2011 fram
 
 ### Origin
 
-The model appeared in a 2011 paper in Implementation Science, written to fix a practical problem in health research: a plethora of behaviour-change frameworks, none of which linked intervention design to a model of behaviour. The authors reviewed nineteen existing frameworks, found none satisfactory, and built the COM-B system as the hub of a larger "behaviour change wheel". Its three conditions were drawn from two older sources, one scientific and one legal. A 1991 US consensus meeting of behavioural theorists had identified skills, intention and absence of environmental constraints as prerequisites for a volitional behaviour. The authors pair it with the criminal-law triad:
+The model appeared in a 2011 paper in Implementation Science. The paper reports that its authors reviewed nineteen existing frameworks of behaviour change and, finding none of them satisfactory for linking intervention design to a model of behaviour, built the COM-B system as the hub of a larger "behaviour change wheel". The paper presents its three conditions as having two older sources, one scientific and one legal. It cites a 1991 US consensus meeting of behavioural theorists as having identified skills, intention and absence of environmental constraints as prerequisites for a volitional behaviour. The authors pair it with the criminal-law triad:
 
 > "Under US criminal law, in order to prove that someone is guilty of a crime one has to show three things: means or capability, opportunity, and motive." (Michie, van Stralen & West, 2011, [Implementation Science 6:42](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42))
 
 ### Core claims
 
-The three conditions, in the authors' own definitions:
+The three conditions, in the authors' definitions (all quotes from the same paper's pages on the behaviour system):
 
-> "Capability is defined as the individual's psychological and physical capacity to engage in the activity concerned. It includes having the necessary knowledge and skills." (Michie, van Stralen & West, 2011)
+> "Capability is defined as the individual's psychological and physical capacity to engage in the activity concerned. It includes having the necessary knowledge and skills." (Michie, van Stralen & West, 2011, [Implementation Science 6:42](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42), behaviour-system section)
 
-> "Opportunity is defined as all the factors that lie outside the individual that make the behaviour possible or prompt it." (Michie, van Stralen & West, 2011)
+> "Opportunity is defined as all the factors that lie outside the individual that make the behaviour possible or prompt it." (Michie, van Stralen & West, 2011, [Implementation Science 6:42](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42), behaviour-system section)
 
-> "Motivation is defined as all those brain processes that energize and direct behaviour, not just goals and conscious decision-making. It includes habitual processes, emotional responding, as well as analytical decision-making." (Michie, van Stralen & West, 2011)
+> "Motivation is defined as all those brain processes that energize and direct behaviour, not just goals and conscious decision-making. It includes habitual processes, emotional responding, as well as analytical decision-making." (Michie, van Stralen & West, 2011, [Implementation Science 6:42](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42), behaviour-system section)
 
-Each condition splits in two: physical and psychological capability, physical and social opportunity, reflective and automatic motivation.
+Each condition splits in two: physical and psychological capability, physical and social opportunity, reflective and automatic motivation. The model also allows for bidirectional influence between the components: as the paper puts it, opportunity can influence motivation, as can capability.
 
 ### How the system explains
 
@@ -38,16 +38,16 @@ An organising framework explains by giving a diagnosis grid. When a behaviour fa
 
 ### In everyday life
 
-Take someone who keeps meaning to walk more but does not. The COM-B diagnosis separates three different failures: not knowing what counts as enough exercise (psychological capability), living where no route feels safe after dark (physical opportunity), and intending to walk in the morning but reaching for the phone instead (automatic motivation winning over reflective). Each points to a different fix. (Illustrative scenario, not a reported participant or study result.)
+Take someone who keeps meaning to walk more but does not. The COM-B diagnosis separates three different possibilities: not knowing what counts as enough exercise (psychological capability), living where no route feels safe after dark (physical opportunity), and intending to walk in the morning but reaching for the phone instead (automatic motivation alongside reflective). Each possibility suggests a different place to look. (Illustrative scenario, not a reported participant or study result.)
 
 ### In the compendium
 
 The compendium uses the model as a diagnostic kindness, each principle as a comparison rather than a claimed influence.
 
-- [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]] — a bad day may be a missing capability (sleep, illness), and the model gives that explanation a formal place before character is blamed
-- [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — physical capability and automatic motivation are body-dependent conditions in the model's own terms
-- [[SE007 — Understand that the self has temporal depth — past, present, and future selves]] — reflective motivation, evaluations and plans, is where imagined future selves do their work
-- [[SP076 — Obey from understanding, not from fear]] — the model's split between reflective and automatic motivation gives the principle's distinction a modern vocabulary
+- [[BI012 — Understand that the body has limits — health, illness, and medication affect everything]] — listed as a citing principle; a bad day can be read as missing capability, though the model does not itself classify illness or fatigue
+- [[BI001 — Understand that the body is the foundation of the mind — physiology shapes psychology]] — listed as a citing principle; the model's physical capability and automatic motivation are the nearby hooks
+- [[SE007 — Understand that the self has temporal depth — past, present, and future selves]] — listed as a citing principle; reflective motivation, the model's label for evaluations and plans, is the component such temporal work would act through
+- [[SP076 — Obey from understanding, not from fear]] — listed as a citing principle; the model's reflective versus automatic motivation distinction is a possible modern vocabulary for the principle's contrast
 
 ## Field
 

@@ -10,20 +10,20 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Companionate love is the steady, entwined kind of love distinguished from passionate love in social-psychological research: the affection that grows between people whose lives are interdependent, rather than the intense longing of early romance. The compendium's heading adds the adversity clause, "in adversity", for the sense its linked principles use it: the love that shows up in presence and help during misfortune. The research term itself does not carry that qualifier.
 
-> "Companionate love ("the affection we feel for those with whom our lives are deeply entwined" p. 9)" (Berscheid & Walster, 1978, p. 9, as quoted in Neto & Menezes, [Estimates About Love for Self, Romantic Partners, and Parents, PDF](https://repositorio-aberto.up.pt/bitstream/10216/140062/2/536181.pdf))
+> "the affection we feel for those with whom our lives are deeply entwined" (Berscheid & Walster, 1978, p. 9, as quoted in Neto & Menezes, [Estimates About Love for Self, Romantic Partners, and Parents, PDF](https://repositorio-aberto.up.pt/bitstream/10216/140062/2/536181.pdf))
 
-The two loves were expected to age differently. As a review of the evidence put it:
+The two loves were expected to age differently. As the two-study investigation put it:
 
 > "Most theorists assume that the passage of time will have a very different impact on passionate versus companionate love. Passionate love is said to decline fairly quickly, while companionate love is thought to remain fairly stable (or actually increase) over time." (Hatfield, Pillemer, O'Brien & Le, 2008, abstract, [The Endurance of Love, PDF](https://www.elainehatfield.com/uploads/3/2/2/5/3225640/111._hatfield_pillemer_obrien__le_2008.pdf))
 
-The 2008 study then tested that assumption in 53 newlywed couples and 240 women married up to decades, and found a surprise: "time did have a corrosive effect on love" and "it appeared to have an equally detrimental effect on both passionate and companionate love" (same source). The old contrast survives in a metaphor the authors quote from earlier work: "Passionate love is a fragile flower—it wilts in time. Companionate love is a sturdy evergreen; it thrives with contact" (Hatfield & Walster, 1978, p. 125, quoted in the same paper). The evidence says the evergreen needs tending too.
+The 2008 investigation then tested that assumption in 53 newlywed couples and 240 women married up to decades, and found a surprise: "time did have a corrosive effect on love" and "it appeared to have an equally detrimental effect on both passionate and companionate love" (same source). The old contrast survives in a metaphor the authors quote from earlier work: "Passionate love is a fragile flower—it wilts in time. Companionate love is a sturdy evergreen; it thrives with contact" (Hatfield & Walster, 1978, p. 125, quoted in the same paper).
 
 ### In the compendium
 
 - [[A068 — Maintain friendships through presence in misfortune]] — the principle supplies the adversity half of the heading: showing up in a friend's misfortune is companionate love in action
-- [[A064 — Know the three kinds of friendship]] — Aristotle's useful friends versus friends of character maps onto the deep-entwining the definition names
-- [[ST150 — Million Dollar Baby's Shifting Mean]] — the story illustrates love that persists as a relationship changes form
-- [[K251 — Signature strengths in new ways]] — companionate love as a bond maintained by practices, not feelings alone
+- [[A064 — Know the three kinds of friendship]] — listed as a citing principle; Aristotle's friendship kinds are the seed's other philosophical anchor
+- [[ST150 — Million Dollar Baby's Shifting Mean]] — listed as a citing story
+- [[K251 — Signature strengths in new ways]] — listed as a citing kernel
 
 ## Related concepts
 
