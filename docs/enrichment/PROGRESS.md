@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-21 07:48 UTC (input revision `e5472b230`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 08:48 UTC (supervisor refreshes at every pass, at least hourly).
+As of 2026-10-21 08:19 UTC (input revision `5fce2e3d5`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 09:19 UTC (supervisor refreshes at every pass, at least hourly).
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,17 +8,17 @@ As of 2026-10-21 07:48 UTC (input revision `e5472b230`). Scope: principles and c
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2170 | 13 | 2183 | 99.4% |
-| Concepts | 761 | 1506 | 2267 | 33.6% |
-| **Combined** | **2931** | **1519** | **4450** | **65.9%** |
+| Principles | 2171 | 12 | 2183 | 99.5% |
+| Concepts | 803 | 1464 | 2267 | 35.4% |
+| **Combined** | **2974** | **1476** | **4450** | **66.8%** |
 
 ## Principles by forest
 
 | Forest | Recorded done | Total | Done % |
 |---|---|---|---|
 | M — Mesoamerican Principles | 53 | 55 | 96.4% |
-| SP — Spinozism Principles | 93 | 96 | 96.9% |
 | Y — Yoga-Vedanta Principles | 129 | 132 | 97.7% |
+| SP — Spinozism Principles | 94 | 96 | 97.9% |
 | B — Buddhist Principles | 195 | 198 | 98.5% |
 | K — Kyoto-School and Tibetan Principles | 70 | 71 | 98.6% |
 | P — Pragmatist and Process Principles | 195 | 196 | 99.5% |
