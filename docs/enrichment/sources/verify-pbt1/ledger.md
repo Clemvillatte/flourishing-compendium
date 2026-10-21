@@ -614,3 +614,14 @@ Seligman Learned Optimism excerpt PDF (eduteka).
 3. Optimism — blockquote VERBATIM vs the opened Seligman excerpt.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 32 (16:40Z) — w1ab quote-fidelity verification, eighth batch
+
+Carriers opened fresh: IEP "William of Ockham", Wikisource KJV Matthew, Gutenberg #216
+(Legge Tao Te Ching).
+
+1. Parsimony — blockquote VERBATIM vs the IEP entry.
+2. Pearls before swine — blockquote VERBATIM (Matthew 7:6 KJV).
+3. Non-striving — blockquote VERBATIM (Legge DDJ 37.1).
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
