@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K409** — Non-sleep deep rest (NSDR)
 
-Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew Huberman for guided practices that take the brain and body into a state of deep relaxation while you stay awake. The best-studied form is yoga nidra, an ancient Indian practice of systematic, guided rest. The aim is deliberate restoration: a session can restore energy, calm stress physiology, and support sleep without actually sleeping. You can use it as a midday recharge, as recovery after a poor night, or as a way to drift back to sleep when you wake in the night.
+Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew Huberman for guided practices that take the brain and body into a state of deep relaxation while you stay awake. The form examined in the studies below is yoga nidra, an ancient Indian practice of guided rest. Huberman presents it as deliberate restoration: a way to restore mental and physical energy without sleeping. You can use it as a midday recharge, as recovery after a poor night, or as a way to drift back to sleep when you wake in the night.
 
 ### Protocol
 
@@ -21,7 +21,7 @@ Non-sleep deep rest is an umbrella term coined by Stanford neuroscientist Andrew
 
 ### Evidence
 
-A positron emission tomography study using a dopamine tracer found that during yoga nidra, tracer binding in the ventral striatum fell by 7.9 per cent, which corresponds to a 65 per cent increase in endogenous dopamine release. Every participant reported a decreased desire for action during the meditation. In a randomised controlled trial with 362 adults, an 11-minute online yoga nidra audio practiced daily for two months improved well-being more than a waitlist, and reduced depression more than a 10-minute music control. Regular practice was linked to lower total daily cortisol output.
+A positron emission tomography study using a dopamine tracer estimated that during yoga nidra, tracer binding in the ventral striatum falls by 7.9 per cent, which the authors calculate as a 65 per cent increase in endogenous dopamine release. Every participant in that study reported a decreased desire for action during the meditation. In a randomised controlled trial with 362 adults, an 11-minute online yoga nidra audio, practiced ideally daily over two months, improved well-being more than a waitlist, though the effects were small (d = 0.08 to 0.16), and reduced depression more than a 10-minute music control (d = 0.13). Regular practice was associated with lower total daily cortisol output.
 
 ### A guided version
 
