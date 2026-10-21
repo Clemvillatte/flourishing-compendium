@@ -480,3 +480,23 @@
   citation is preserved in Sources as the compendium's line; no kernel source was opened
   (nothing about it claimed in the body).
 - QC cadence: item 14; next advisor milestone due at item 15 (NOT reached this session).
+
+## Nembutsu recitation (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Sources stub + Cited-in Y079). Validated --fast-track
+  --base 4b2bebc4f: ok.
+- Carrier opened: 'The Tannisho (Tract on Deploring the Heterodoxies)', trans. Tosui
+  Imadate, Eastern Buddhist Society, Otani Daigaku, Kyoto, 1928 — full text downloaded
+  from the Internet Archive scan (ia802801.us.archive.org PDF, 4.5MB) and pdftotext'd;
+  title/translator/verified from the printed title page. Chapter I (the awakening-of-
+  thought passage + the no-discrimination passage), chapter II (the sole-reason passage)
+  and chapter III (the good-man/wicked-man reversal + the self-power reasoning) quoted
+  verbatim with line-break hyphenation normalized (em-braces -> embraces etc.).
+- Carriers attempted and rejected: senmyouji.or.jp Tannisho chapter (robots-blocked,
+  fetch failed — not used). The Y079 pairing sentence is the compendium's own
+  comparison (stated as such); the Tannisho is the only claim carrier.
+- The 'Not a technique for earning salvation' subheading is grounded in chapters II-III
+  (no way other than the nembutsu; the reversal of the moral calculation); no claim
+  beyond the opened text.
+- QC cadence: item 15 — MILESTONE QC (items 11-15) NOT REACHED before the T+60 report
+  deadline; the next worker/supervisor should run it (Morphology, Movement snacks,
+  Multiple Trace Theory, Needs-based WIP, Nembutsu recitation).
