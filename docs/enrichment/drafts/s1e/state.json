@@ -20,7 +20,27 @@
      "note": "advisor QC round 1 applied; all quotes re-verified against opened sources"
     }
    ]
+  },
+  "s1e-002": {
+   "status": "qc_pending",
+   "angle": "D065 return to source: Casals - eighty years of two preludes and fugures each morning; the daily return that kept the light through exile and silence",
+   "history": [
+    {
+     "t": "2026-10-21T12:35:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:35:28+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:35:56+00:00",
+     "to": "qc_pending",
+     "note": "verified quotes from opened sources; NYT+WHHA concert facts"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:33:42+00:00"
+ "updated": "2026-10-21T12:35:56+00:00"
 }
