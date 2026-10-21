@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 66** — Treat marginalization as a clinical and social issue
 
-Treat marginalization — the social exclusion of individuals or groups from full participation in society — as both a clinical and a social issue. Marginalization predicts poor mental and physical health (Meyer, 2003; Paradies et al., 2015); it also requires social, not only individual, intervention.
+The studies behind this principle measure discrimination, stigma and racism, which are forms of marginalisation but not the whole of it. Meyer's review found, by meta-analysis, that lesbian, gay and bisexual people "have a higher prevalence of mental disorders than heterosexuals". He explains this through minority stress, in which "stigma, prejudice, and discrimination create a hostile and stressful social environment that causes mental health problems" ([Meyer 2003, Psychological Bulletin](https://www.hhri.org/publication/prejudice-social-stress-and-mental-health-in-lesbian-gay-and-bisexual-populations-conceptual-issues-and-research-evidence/)). The American Psychological Association summary adds that these differences "are not large but are relatively consistent across studies" ([APA](https://www.apa.org/about/policy/marriage)).
 
-**Plain words** Marginalisation is both a clinical and a social issue — exclusion from full participation damages health, and the treatment is partly clinical, partly structural. A therapist can help you cope with the wall; only policy moves the wall.
+Paradies and colleagues pooled 293 studies, mostly from the United States. Reported racism was linked with poorer mental health (negative mental health r = -.23; positive mental health r = -.13) and with poorer physical health (r = -.09). Effects "were stronger in cross-sectional compared with longitudinal data" ([Paradies et al. 2015, PLoS ONE](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/)). Both findings are associations, and the physical-health link is small.
 
-*For example:* The client's depression is real and treatable — and partly caused by the housing policy that concentrated disadvantage on their street. Treat the person; name the cause. Both are clinical acts.
+
+
+### What follows for practice
+
+Meyer's framework treats the stress as coming from the social environment, which is why the response can be both clinical and structural. The sources do not test whether policy changes improve individual outcomes. I did not open Berry 1997 on marginalisation as an acculturation strategy for this page, or Crocker et al.
+
+**Plain words**
+Exclusion and prejudice are linked with worse health. Treating a person's distress is worthwhile, and so is asking what in their surroundings keeps producing it.
+
+**For example**
+When you support someone who is struggling, ask one question about the setting as well as the symptom, such as whether they face discrimination at work, in housing or in services. If so, write down who could change that.
+
+## Sources
+
+- [Meyer 2003, Prejudice, Social Stress, and Mental Health in LGB Populations (HHRI summary)](https://www.hhri.org/publication/prejudice-social-stress-and-mental-health-in-lesbian-gay-and-bisexual-populations-conceptual-issues-and-research-evidence/)
+- [APA, Sexual Orientation and Marriage research summary](https://www.apa.org/about/policy/marriage)
+- [Paradies et al. 2015, Racism as a Determinant of Health (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/)
+
 ## Psychology parallels
 
 - The marginalization literature (Berry, 1997; Sam and Berry, 2010); collective self-esteem and marginalization (Crocker et al., 1994); minority stress (Meyer, 2003); the health-effects literature (Paradies et al., 2015).

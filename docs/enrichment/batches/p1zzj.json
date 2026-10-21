@@ -18,11 +18,12 @@
   "SO035",
   "SO037",
   "SO059",
-  "SO064"
+  "SO064",
+  "SO066"
  ],
- "in_progress": "SO066",
+ "in_progress": "SO068",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:24:24+00:00"
+ "updated": "2026-10-21T04:24:42+00:00"
 }
