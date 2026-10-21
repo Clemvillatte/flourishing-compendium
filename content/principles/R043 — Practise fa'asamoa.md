@@ -12,13 +12,31 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 305** — Practise fa'asamoa
 
-Live in accordance with the Samoan way. Fa'asamoa is not merely a set of customs but a way of being in the world that centres relationship, respect, and reciprocity. Where you are in a Samoan context, honour the fa'asamoa. More broadly, honour the cultural way of being of the communities you belong to or interact with.
+The seed names Tuhiwai Smith's Decolonizing Methodologies as a source. I did not open it, and it is not a Samoan source, so the claims below rest on Samoan-authored and Samoan-focused research.
+
+In a Family Centre study of Samoan perspectives on mental health, participants described a self that "exists in relationship to other people both living and those who have passed on" ([Tamasese, Peteru and Waldegrave project, via Dulwich Centre](https://dulwichcentre.com.au/wp-content/uploads/2020/01/Honouring_Samoan_ways_and_understandings_Multiple_sites_of_healing_Kiwi_Tamasese.pdf)). The report summary says mental wellness was described as "a state of relational harmony, where personal elements of spiritual, mental and physical are in balance", and that mental ill health was sometimes linked to breaches of forbidden and sacred relationships ([Ole Taeao Afua, Samoa Digital Library](https://sadil.ws/handle/123456789/973)).
+
+For practice, a Samoan research paper says engaging in fa'asamoa "reinforces the concepts of fa'aaloalo (respect), va fealoaloa'i (relational connections), alofa (love/compassion) and agaga fesoasoani (willingness to help)", and that support during fa'alavelave (family crisis) is a regular part of life ([Journal of Indigenous Wellbeing paper](https://journalindigenouswellbeing.co.nz/media/2024/05/We-are-not-brown-palagi-Navigating-cultural-boundaries-in-Samoan-research.pdf)). One study of Samoan and Tongan American elders reports that "mutual respect (vafealoaloa'i) and sacredness placed on human relations are core principles" ([Cultural Context of Health and Well-being](https://www.sadil.ws/bitstream/handle/123456789/1582/Cultural%20Context%20of%20Health%20and%20Well-being%20among%20Samoan%20and%20Tongan%20American%20Elders..pdf?sequence=1&isAllowed=y)).
 
 (Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies.)
 
-**Plain words** Live by the way of your community — fa'asamoa, the way of relationship, respect, and reciprocity — and more broadly, honour the way of whichever community you're standing in. A way of being isn't a costume; it's a coherence you either practise or perform.
+### Scope
 
-*For example:* Someone far from home who keeps the protocol at family gatherings — the seating, the order of speaking, the offerings — and finds it's not constraint but the thing that makes the gathering feel like home anywhere.
+These sources describe Samoan values; none tests whether practising fa'asamoa improves well-being, and none supports extending it to other communities' ways. I did not read any critique of its obligations.
+
+**Plain words**
+Fa'asamoa centres respect, love, service and care for relationships. What these ask of you depends on your family and village, so ask someone who lives it.
+
+**For example**
+Ask an older family member what is expected of you at the next family gathering, and then do it.
+
+## Sources
+
+- [Honouring Samoan ways and understandings (Dulwich Centre PDF)](https://dulwichcentre.com.au/wp-content/uploads/2020/01/Honouring_Samoan_ways_and_understandings_Multiple_sites_of_healing_Kiwi_Tamasese.pdf)
+- [Ole Taeao Afua, the new morning (Samoa Digital Library)](https://sadil.ws/handle/123456789/973)
+- [We are not brown-palagi: Navigating cultural boundaries in Samoan research (Journal of Indigenous Wellbeing)](https://journalindigenouswellbeing.co.nz/media/2024/05/We-are-not-brown-palagi-Navigating-cultural-boundaries-in-Samoan-research.pdf)
+- [Cultural Context of Health and Well-being among Samoan and Tongan American Elders (Samoa Digital Library)](https://www.sadil.ws/bitstream/handle/123456789/1582/Cultural%20Context%20of%20Health%20and%20Well-being%20among%20Samoan%20and%20Tongan%20American%20Elders..pdf?sequence=1&isAllowed=y)
+
 ## Psychology parallels
 
 - **Cultural identity and well-being** (Phinney, 1992)
