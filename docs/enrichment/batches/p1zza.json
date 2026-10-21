@@ -27,7 +27,8 @@
   "MO039",
   "MO042",
   "MO043",
-  "MO044"
+  "MO044",
+  "MO052"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,6 +44,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-21T01:38:42+00:00",
+ "updated": "2026-10-21T01:39:01+00:00",
  "band_done": false
 }
