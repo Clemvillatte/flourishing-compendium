@@ -288,11 +288,11 @@
   {
    "id": "K418",
    "title": "Six Healing Sounds (liuzi jue)",
-   "status": "done",
+   "status": "reopened",
    "sources": [
     "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
    ],
-   "notes": "NEW KERNEL created from the owner-uploaded Kohn Chinese Healing Exercises (Daoism Drive folder, opened this session): six sounds + organ associations + sound qualities + seasonal variations from the book; Daoyin jing (16b) closing quote verbatim; organ claims framed as TCM correspondence claims, not physiology; only slow-exhalation structure tied to modern evidence via K194 pointer; no trial invented. Validator clean (no-base profile); build ok 5845 entries."
+   "notes": "REOPENED FOR QC (advisor final-item round): (1) invented protocol details removed (any-order/six-reps/closing-minute/dosage/organ-matching were not in the source); (2) xu's description added (all six sound qualities now grounded); (3) K194 physiology bridge removed from Evidence — no trial cited, instructional gap stated on the page; (4) publisher verified from the PDF copyright page (University of Hawai'i Press, Latitude 20, (c) 2008; my Three Pines Press guess was wrong); (5) Daoyin jing locator reframed as historical-text locator (16a-b), not Kohn's printed page; (6) SUPERVISOR FLAG: the advisor directed removing the unsupported Operationalises mappings (MO050 etc.) but the validator forbids removing committed wikilinks — links restored to pass validation; mapping cleanup needs supervisor disposition. Remaining gap for full done: a complete source-supported modern sequence (not in the opened Kohn passages; the book gives sound qualities + seasonal counts + condition-specific prescriptions only)."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -332,11 +332,10 @@
   "K382",
   "K384",
   "K414",
-  "K415",
-  "K418"
+  "K415"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T15:52:01+00:00",
+ "updated": "2026-10-21T15:54:41Z",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",

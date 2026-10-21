@@ -14,20 +14,22 @@ The liuzi jue (六子訣), the Six Healing Breaths or Six Healing Sounds, is a s
 
 ### Protocol
 
-1. Sit or lie comfortably and take a few ordinary breaths. Target dimensions: Overt behaviour (the shaped exhalation) and Affect (settling through long out-breaths).
-2. Make each sound on a slow exhalation, one sound per breath cycle, in any order that matches how you feel. The traditional sound qualities, as the texts describe them: chui is a sharp expulsion of air; hu is the mildest, standard exhalation; si is a gentle release between slightly opened lips; he is a strong breath through the open mouth with a soft rasp in the throat; xi is a sigh, soft and from deep in the body.
-3. Repeat each sound six times, or work with the one or two sounds whose organ the tradition links to how you feel. The seasonal variation recorded in the texts: several xu exhalations in spring, hu in summer, chui in fall and winter.
-4. Close with a minute of quiet breathing and notice body and mood. The texts claim the practice expels dampness, dryness and heat and steadies excessive emotion; those are traditional correspondence claims, not modern physiological findings.
-5. A daily round of a few minutes is the traditional dosage; the tradition treats the practice as both therapeutic and preventive.
+1. Sit or lie comfortably and take a few ordinary breaths. Target dimensions: Overt behaviour (the shaped exhalation) and Affect (settling).
+2. Make each sound on the exhalation, one sound per breath cycle. The book's sound qualities: chui is a sharp expulsion of air with the lips almost closed and the mouth barely open, described as warming and relaxing; xu is a gentle expulsion with the mouth wide open, the air released from the bottom of the lungs, described as cooling; hu is the mildest, a blowing out with rounded lips; si is a gentle release between slightly opened lips; he is a strong breath through the open mouth with a soft rasp in the throat; xi is a sigh, soft and from deep in the body.
+3. The seasonal form recorded in the Daoyin jing: in spring, exhale several times with xu plus once each with hu and chui; in summer, several times with hu plus once each with xu and chui; in fall and winter, several times with chui plus once each with xu and hu.
+4. The condition-specific prescriptions in the tradition's early texts (for example a chui exercise repeated twenty times for chest discomfort) belong to those texts' medical frame; a complete modern step-by-step sequence is not given in the opened source, and this page does not invent one.
 
 ### Evidence
 
-The organ associations belong to the correspondence system of traditional Chinese medicine, which is how Kohn, a scholar of Daoism, presents them: a "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater", therapeutic and preventive in the tradition's own terms. No trial of the six sounds is cited in the opened source. What carries over to modern physiology is only the slow-exhalation structure, whose calming effects are covered by the slow-breathing kernel (K194). The classical closing promise of the practice, quoted in the Daoyin jing:
+The organ associations belong to the correspondence system of traditional Chinese medicine, which is how Kohn, a scholar of Daoism, presents them: a "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater", therapeutic and preventive in the tradition's own terms. No trial of the six sounds is cited in the opened source, and the book gives historical descriptions and seasonal counts rather than a complete modern sequence; the instructional gap is stated above rather than papered over. The classical closing promise of the practice, quoted in the Daoyin jing:
 
-> "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Daoyin jing, as quoted in Kohn, Chinese Healing Exercises, Daoyin jing section (16b) ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
+> "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Daoyin jing 16a–b (historical-text locator, as cited in Kohn, Chinese Healing Exercises) ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
 
 ## Operationalises
 
+- [[B038 — Practice mindfulness of breathing (anapanasati)|B038 Practice mindfulness of breathing (anapanasati)]]
+- [[BE046 — Learn to use the body to regulate emotion — posture, breath, movement|BE046 Learn to use the body to regulate emotion: posture, breath, movement]]
+- [[Y048 — Use the breath to steady attention|Y048 Use the breath to steady attention]]
 - [[D041 — Practice purity and stillness (qingjing)|D041 Practice purity and stillness (qingjing)]]
 - [[D055 — Don't force|D055 Don't force]]
 - [[B067 — Notice feeling tone first (vedana)|B067 Notice feeling tone first (vedana)]]
@@ -47,4 +49,4 @@ The organ associations belong to the correspondence system of traditional Chines
 
 ## Sources
 
-- [Kohn, L. (2008), Chinese Healing Exercises: The Tradition of Daoyin, Three Pines Press — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_) — the Six Breaths' organ associations and sound qualities (Daoyin jing section, pp. 16ab as cited; Three of the Six Healing Breaths passage), the seasonal variations, and the "still forms an important part of qigong practice today" assessment
+- [Kohn, L. (2008), Chinese Healing Exercises: The Tradition of Daoyin, University of Hawai'i Press (Latitude 20 Book), © 2008 — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_) — the Six Breaths' organ associations (Daoyin jing 16a–b as cited), the sound qualities (chui, xu, hu, si, he, xi passages), the seasonal exhalation counts, and the "still forms an important part of qigong practice today" assessment
