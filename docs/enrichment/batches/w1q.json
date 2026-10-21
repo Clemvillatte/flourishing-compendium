@@ -47,7 +47,8 @@
   "Theory-theory of mindreading",
   "Transformational leadership theory",
   "Triple Vulnerability Model",
-  "Tiny habits (Fogg)"
+  "Tiny habits (Fogg)",
+  "Theory-theory of cognitive development"
  ],
  "in_progress": null,
  "flagged": {
@@ -89,10 +90,11 @@
   "Theory-theory of mindreading": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): IEP Theory of Mind article opened; theory-theory definition + child-scientist + false-belief passages quoted verbatim; Gopnik & Wellman 1992 cited via IEP survey only (full text not open, noted); validated --fast-track",
   "Transformational leadership theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Bass 1999 abstract opened on tandfonline and quoted verbatim; Burns 1978 cited via standard literature only (not independently opened, noted); four dimensions described from theory's standard account; validated --fast-track",
   "Triple Vulnerability Model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barlow's own 2014 'Origins of Neuroticism' open PDF opened and triple-vulnerability passage quoted verbatim; 2000 founding paper cited as abstract-read only; validated --fast-track",
-  "Tiny habits (Fogg)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): B=MAP quote verified verbatim from Fogg's own behaviormodel.org (opened); FBM summary + Ability Chain quote verified verbatim from opened BMC Public Health scoping review; the book (Fogg 2019) is copyrighted — method described from opened review's documentation of interventions, ABC recipe not quoted from unopened carriers; validated --fast-track"
+  "Tiny habits (Fogg)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): B=MAP quote verified verbatim from Fogg's own behaviormodel.org (opened); FBM summary + Ability Chain quote verified verbatim from opened BMC Public Health scoping review; the book (Fogg 2019) is copyrighted — method described from opened review's documentation of interventions, ABC recipe not quoted from unopened carriers; validated --fast-track",
+  "Theory-theory of cognitive development": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Gopnik 1996a p.486 + Gopnik & Meltzoff 1997 p.214 quotes verified verbatim via opened Faucher et al. 'Baby in the Lab-Coat' PDF (Rutgers); identicality thesis stated by critics from same opened paper; critique included for balance; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:37:23+00:00",
+ "updated": "2026-10-21T16:38:01+00:00",
  "band_done": false
 }
