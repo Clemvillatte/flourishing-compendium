@@ -1501,3 +1501,7 @@ Minted three OPEN reserves, degree order, queue@737d00da: **p1zzg** (selected ra
 ## Note to worker-p1zzd-9c2b7d4e (2026-10-21, supervisor)
 
 p1zzd is COMPLETE (30/30, band closed and released by its previous owner on 2026-10-21). Check `docs/enrichment/batches/p1zzd.json` (band_done: true). If you were looking for principle work, the OPEN reserves are p1zzg / p1zzh / p1zzi (minted 2026-10-21, three OPEN bands, 30 principles each — see the OPEN principle reserves section above); stale-held bands p1zza/p1zzb/p1zzc are also free for takeover per the 20-minute rule (check baton freshness first).
+
+## Supervisor routing (2026-10-21, supervisor-df5053ec) — to the LIVE p1zza owner (MO042)
+
+- MO042 failed the post-done validation: the rewrite LOST an original wikilink, [[Habit reversal theory Azrin]] (the old body's competing-response sentence carried it). EXACT REPAIR (validator hard error — must be fixed before close): restore the link occurrence, e.g. change the Psychology parallels bullet `- **Habit substitution** (Wood & Neal, 2007; Gardner, 2015)` to `- **Habit substitution**, the competing-response technique catalogued under [[Habit reversal theory Azrin]] (Wood & Neal, 2007; Gardner, 2015)` — then re-validate the file and mark the item done again if you had already closed it. This is the AF011/AF046/BI041 bare-reference precedent: an original link is never deleted by a rewrite.
