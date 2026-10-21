@@ -2222,3 +2222,8 @@ Verification pass 100 (worker-glmc4a): 2 principle pages, ALL PASS (with disclos
 - A011 (NE III.6, Rackham translation): the Rackham carrier was not downloaded this session; not reached.
 - A010: no displayed quotations — nothing to verify.
 RUNNING TOTAL: 323 page-checks across 100 verification passes.
+
+Verification pass 101 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reached.
+- A014 (NE IV.2 Ross), A015 (NE IV.3 Ross), A016 (NE IV.4 Ross): all three quotes match the freshly downloaded MIT Classics Book IV page verbatim.
+- A013 (NE IV.1 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
+RUNNING TOTAL: 326 page-checks across 101 verification passes.
