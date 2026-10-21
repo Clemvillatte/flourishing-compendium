@@ -7,10 +7,27 @@ file: "Means as end"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-“Means as end” — Dewey, Experience and Education.
+"Means as end" is John Dewey's way of saying, in Experience and Education (1938), that means and ends are not two external things: what you do on the way is already part of the result. His own sentence comes from the chapter on freedom:
+
+> "But the fact still remains that an increased measure of freedom of outer movement is a means, not an end. The educational problem is not solved when this aspect of freedom is obtained. Everything then depends, so far as education is concerned, upon what is done with this added liberty." ([Dewey, Experience and Education (1938), ch. 5, extract PDF](https://lcl.media.mit.edu/resources/readings/experience-and-education.pdf))
+
+### What the continuity amounts to
+
+For Dewey, treating a means as an end in disguise is not a softhearted metaphor; it is a claim about consequences. The chapter's argument is that outer freedom, once obtained, is only raw material: its value is decided by what gets done with it ([same text](https://lcl.media.mit.edu/resources/readings/experience-and-education.pdf)). The book's last chapter is titled "Experience—The Means and Goal of Education", which is where the concept's seed line points: "education in order to accomplish its ends both for the individual learner and for society must be based upon experience--which is always the actual life-experience of some individual" ([Dewey 1938, ch. 8, full text](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf)).
+
+### In the compendium
+
+- [[B179 — The path is the goal]] cites this Deweyan idea as its philosophy parallel: the traveling is the arriving.
+
+## Related concepts
+
+- [[Ends-in-view]] — Dewey's own term for aims as provisional, revisable guides inside activity
+- [[Instrumentalism]] — Dewey's wider view of ideas and means as instruments
 
 ## Sources
 
+- [John Dewey, Experience and Education (1938), chapter 5 extract PDF, MIT Media Lab](https://lcl.media.mit.edu/resources/readings/experience-and-education.pdf) — the freedom-as-means passage, verbatim
+- [John Dewey, Experience and Education (1938), full text PDF](http://ruby.fgcu.edu/courses/ndemers/colloquium/experienceducationdewey.pdf) — chapter 8 title and opening sentence, verbatim
 - Dewey, Experience and Education
 
 ## Cited in philosophy parallels
