@@ -27,12 +27,13 @@
   round-2 sweep): source-bounded prose enforced, claim-bearing Related-concept glosses
   reduced to the 'listed for comparison' convention, authorship fixed (Reynolds-Tylus
   sole author; Harper lead author), unsupported seed predictive claims replaced,
-  Doris blockquote re-sourced to the opened NDPR review. EXACT NEXT ACTION: `python3
-  scripts/enrich_state.py w1l start "Relational ontology"` (next manifest item after
-  Revenge). Remaining manifest order: Relational ontology, Self-sufficiency,
+  Doris blockquote re-sourced to the opened NDPR review. Also enriched: Relational ontology
+  (Buber I and Thou, quotes verified vs opened text; Ubuntu/Interbeing/The relational self
+  linked). EXACT NEXT ACTION: `python3 scripts/enrich_state.py w1l start
+  "Self-sufficiency"` (next manifest item). Remaining manifest order: Self-sufficiency,
   Situational strategies, Skepticism answered by life, Skills training (DBT, CBT),
-  Social baseline, Social-network effects on behavior, Solidarity, Solitude (9 items;
-  w1l state 61/70 after Revenge).
+  Social baseline, Social-network effects on behavior, Solidarity, Solitude (8 items;
+  w1l state 62/70 after Relational ontology).
 
 - SUPERVISOR PASS (2026-10-21 06:49Z, supervisor-b7e3f9c2, T+60 REPORTING CHECKPOINT
   — reporting only, supervisor baton HELD, board healthy): (1) took over the stale p1zze
