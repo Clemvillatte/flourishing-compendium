@@ -7,7 +7,7 @@ file: "The Great Death"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-**The Great Death** — in the Rinzai Zen of the Japanese master Hakuin Ekaku, an experience of the death of the self, called daishi, that the practitioner passes through in the course of kōan training.
+The Great Death — in the Rinzai Zen of the Japanese master Hakuin Ekaku, an experience of the death of the self, called daishi, that the practitioner passes through in the course of kōan training.
 
 The phrase does not refer to physical dying. In the account of Hakuin's curriculum used here, the great death belongs to a staged training: it follows the arising of faith and insight, and it is not the end of the path.
 

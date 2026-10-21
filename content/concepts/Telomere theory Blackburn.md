@@ -7,7 +7,7 @@ file: "Telomere theory Blackburn"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-**Telomere theory Blackburn** — the telomere theory of ageing concerns telomere shortening and limits on cell division; research led by Elissa Epel with Elizabeth Blackburn examined associations between psychological stress and telomere-related measures in one study of healthy women.
+Telomere theory Blackburn — the telomere theory of ageing concerns telomere shortening and limits on cell division; research led by Elissa Epel with Elizabeth Blackburn examined associations between psychological stress and telomere-related measures in one study of healthy women.
 
 The seed pairs two distinct things that this page keeps distinct. On one side is the general telomere theory of ageing, summarised in a 2016 review in the journal Aging. On the other is a specific 2004 study, led by Elissa Epel with Blackburn as co-author, reported by UCSF's news office.
 

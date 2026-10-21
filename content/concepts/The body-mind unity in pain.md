@@ -7,7 +7,7 @@ file: "The body-mind unity in pain"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-**The body-mind unity in pain** — in Montaigne's essays, the suffering of pain is bound up with the mind's attitude toward it: apprehension, expectation and attachment shape how illness is borne.
+The body-mind unity in pain — in Montaigne's essays, the suffering of pain is bound up with the mind's attitude toward it: apprehension, expectation and attachment shape how illness is borne.
 
 The concept names a view Montaigne argues for in his essays: the mind's attitude toward health and disease is part of what makes them supportable or insupportable.
 
