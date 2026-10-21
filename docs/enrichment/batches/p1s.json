@@ -51,9 +51,9 @@
   "B126": "Reopened for QC: Round-2 QC: use opened named translation; repairs pending",
   "B141": "Reopened for QC: Item-20 QC FAIL: unopened commentary material in application; repairs pending",
   "B150": "Reopened for QC: Item-20 QC FAIL: modern recasting of historical list, unverified gloss; repairs pending",
-  "B172": "Reopened for QC: QC round-2 text fix: contrast opener removed",
-  "B181": "Reopened for QC: QC round-2 text fix: unverified day-without-plans detail removed",
-  "B190": "Reopened for QC: QC round-2 text fix: plain words replaced with advisor version",
+  "B172": "supervisor scoped verification (2026-10-21 15:18Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — contrast opener removed (grep-verified absent). Per the p1s ledger QC round-2.",
+  "B181": "supervisor scoped verification (2026-10-21 15:18Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — unverified day-without-plans detail removed (grep-verified absent). Per the p1s ledger QC round-2.",
+  "B190": "supervisor scoped verification (2026-10-21 15:18Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — Plain words replaced with advisor version (present on line 25). Per the p1s ledger QC round-2.",
   "P175": "Reopened for QC: QC correction: page locator 85 to 87 after direct PDF verification",
   "P168": "Reopened for QC: QC correction: retain source period in inline quotation",
   "B017": "Reopened for QC: QC correction: remove unsupported maintenance claim and example generalization",
@@ -66,7 +66,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:26:19+00:00",
+ "updated": "2026-10-21T14:51:44+00:00",
  "band_done": true,
  "notes": {
   "B021 death-recovery check": "2026-10-20: owner reported the agent working on B021 died. Verified nothing lost: B021 (p1i item) content last committed f9ce31ef (2026-10-19 QC-repair batch, milestone 15); p1s no-edit light-check fcb33b61 + cross-band incident correction 5328d488 (2026-10-20 02:20-02:25, quotes re-verified, no action owed per supervisor disposition); p1s band closed cleanly 30/30 at 03:54:11Z (5bc8f460, baton released, in_progress None). B021 validates clean at HEAD. No in-flight work, no unpushed commits; nothing owed to the next agents."
