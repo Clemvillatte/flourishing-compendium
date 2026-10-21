@@ -150,7 +150,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-007": {
+   "status": "ready",
+   "angle": "P100/P108: Addams, Labor Museum, Angelina and her mother's spindle",
+   "history": [
+    {
+     "t": "2026-10-21T12:15:29+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:15:29+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:15:29+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes machine-checked vs Gutenberg 1325; party/lecture misreading corrected"
+    },
+    {
+     "t": "2026-10-21T12:15:29+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:14:02+00:00"
+ "updated": "2026-10-21T12:15:29+00:00"
 }

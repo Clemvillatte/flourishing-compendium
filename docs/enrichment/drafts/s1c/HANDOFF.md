@@ -12,5 +12,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-004 | Qin Shi Cries Out Three Times and Leaves (Zhuangzi 3, Legge + Eno) | D095 | ready |
 | s1c-005 | Darwin Pictures the Sofa and the Smoky London House (DCP transcripts; Autobiography) | P039 | ready |
 | s1c-006 | Frege Receives a Letter, Russell Counts the Tortoises (letters via Philarchive; Russell via idealectic; SEP) | P047 | ready; upgrade to van Heijenoort and Portraits from Memory if possible |
+| s1c-007 | Angelina Uses the Front Door (Addams, Twenty Years at Hull-House ch. XI, Gutenberg 1325) | P100, P108 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
