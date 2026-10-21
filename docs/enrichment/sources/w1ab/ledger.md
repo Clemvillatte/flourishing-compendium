@@ -983,3 +983,12 @@
   summary with the 'only individual substances and qualities' clause). Related: Ockham's
   razor, Simplicity, Deliberate simplicity (navigational captions). Degree 1 — fast-track.
   Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Paideia (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the Wikipedia Paideia article, opened fresh (direct request) — three passages
+  verified verbatim (the rearing-and-education definition with the well-rounded ideal;
+  the curriculum list incl. gymnastics and the music/poetry/philosophy moral education;
+  the kalos kagathos 'beautiful and good' ideal). Seed's 'Greek tradition of formation'
+  framing grounded by the opened text. Related: Education as growth, Cardinal virtues,
+  Designing for virtue (navigational captions). Degree 1 — fast-track. Validation
+  --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
