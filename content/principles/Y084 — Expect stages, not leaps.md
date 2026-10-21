@@ -12,13 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 84** — Expect stages, not leaps
 
-The tradition maps wisdom's arrival as seven grounds (the sutra) elaborated by the commentary into a sequence from the first clear recognition of what must be done to the final irreversibility. The stages are given so practitioners can locate themselves, and the tradition explicitly allows the process to be gradual or sudden by disposition. Practically, locate your current stage honestly, and expect the transitions to arrive as consolidations rather than as fireworks.
+Sutra 2.27 gives the stages in one line:
 
-(YS 2.27, with Vyasa's elaboration in the Yoga-bhashya.)
+> For him [there is] insight seven-fold and advancing in stages to the highest.
 
-**Plain words** Wisdom's arrival is mapped as stages — from the first clear recognition of what must be done to final irreversibility — so practitioners can locate themselves. The tradition explicitly places people mid-path. Expect stages, not leaps; find your rung honestly.
+(Yoga Sutras 2.27, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, pp. 170-172, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-*For example:* Someone reads the stage map and finds themselves at "recognition, unstable" — instead of despairing at the distance to the top, they take the next rung's assignment. Maps exist to be located on.
+"Him" is the yogin in whom discernment has arisen. The commentary lists the seven. Four belong to insight and can be effected: "1. The thing to be escaped has been thought out; nor need [the yogin] think it out again. 2. The reasons for the thing to be escaped have dwindled away; nor need they dwindle away again. 3. The escape is directly perceived by the concentration of restriction. 4. The means of escape in the form of discriminative discernment has been cultivated." Three belong to the release of the mind-stuff: "5. The authority of the thinking-substance is ended", then the aspects (guna) come to rest "like rocks fallen from the top of the mountain peak", and finally the Self is "enlightened by himself and nothing more, is stainless and isolated."
+
+Read in order, the stages do run from a settled understanding to something final. The text does not tell the reader to locate themselves, and it does not say that transitions arrive as consolidations. Nor does it speak of "gradual or sudden by disposition" here; speeds differ in 1.21-22. Locating your own stage honestly is this page's suggestion, and the commentary places the last three beyond effort.
+
+**Plain words**
+
+The commentary describes seven stages of insight, four that effort can bring about and three that follow when effort is done. It is a map of the whole path. It is not a test for where you stand today.
+
+**For example**
+
+A woman reads the four effort stages and sees she has reached the first: she understands where her suffering comes from. Her next job is to stop having to think it out again.
+
 ## Psychology parallels
 
 - **Stage models of change**, the trans-theoretical model's utility for self-location (Prochaska & DiClemente, 1983)
@@ -26,3 +37,8 @@ The tradition maps wisdom's arrival as seven grounds (the sutra) elaborated by t
 ## Philosophy parallels
 
 - **[[The ladder of love|The ladder of love]]** (Plato, Symposium; Diotima's stages)
+
+## Sources
+
+- [Woods, The Yoga-System of Patanjali (1914), Yoga Sutra 2.27 with Vyasa and the Tika, pp. 170-172, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
+- The inherited claim that the tradition allows a gradual or sudden process by disposition is not supported by this passage and is not repeated.

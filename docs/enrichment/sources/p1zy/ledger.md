@@ -364,3 +364,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (differences only OCR hyphenation/formatting).
 - Seed repairs: AUM in the text is the name of Isvara, with repetition AND reflection on meaning, effects singleness of intent and removal of obstacles; "portable anchor" use is sound-only and labelled as the page's own. Mandukya not opened (page's Mandukya citation unverified).
 - Saturation: low.
+
+## Y084 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Woods YS 2.27 with Vyasa and the Tika (pp. 170-172).
+- Quotes verified: matched woods text (differences are footnote markers and list formatting).
+- Seed repairs: the seven forms are 4 effort-based insight stages plus 3 mind-stuff releases; "explicitly allows gradual or sudden by disposition", "locate your stage" and "consolidations" are not in the passage and are labelled as the page's own or removed.
+- Saturation: low.
