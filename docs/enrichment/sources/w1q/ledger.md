@@ -151,3 +151,9 @@ damage, w1ab left to its live holder.
 - Related-concept targets resolved before writing ([[Looking-glass self]] does NOT exist;
   replaced with [[Identity]] + grounded caption from the article's "selves are social
   products" sentence). Advisor QC falls at the items-6-10 boundary (next session).
+
+## Telomere theory Blackburn
+- Carriers opened: (1) Bernadotte et al. 2016, Aging 8(6), PMC4761709 — verbatim three-pillars definition confirmed in fetched text. (2) UCSF News (2004-11-29), institutional press release on the Epel/Blackburn PNAS study — verbatim findings + direct Elizabeth Blackburn quote confirmed in fetched text.
+- Concept-existence check: the seed title conflates two things — the general "telomere theory of aging" (Hayflick-limit lineage, three pillars per the Aging review) and the Blackburn-specific stress-telomere findings (Epel et al. 2004 PNAS). Page written to cover both, distinguished explicitly.
+- PubMed 15574496 and PNAS doi page both failed to fetch (JS-render / 403); UCSF News served as the verified carrier for the 2004 study, including the Blackburn theorist quote.
+- All quotes verbatim from fetched text; Related-concept targets resolved to Resilience, Burnout, Mindfulness (original picks Stress/Cortisol/Allostasis missing).
