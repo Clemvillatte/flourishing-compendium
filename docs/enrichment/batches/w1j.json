@@ -51,7 +51,8 @@
   "Concrete experience over abstraction",
   "Cortisol awakening response theory",
   "Creative identity",
-  "Critical distance"
+  "Critical distance",
+  "Desire experience-sampling"
  ],
  "in_progress": null,
  "flagged": {
@@ -80,10 +81,11 @@
   "Concrete experience over abstraction": "label is compendium summary not Dewey wording; enriched from Art as Experience ch III (marxists.org copy, opened) + SEP; stated on page",
   "Cortisol awakening response theory": "seed claim (indexes healthy HPA function and stress load) overstated vs opened reviews; page says so",
   "Creative identity": "Beghetto 2006 measures creative self-efficacy, not identity; page states this; Four C model added",
-  "Critical distance": "seed essay 'The Task of Hermeneutics' not opened; enriched from 'The Hermeneutical Function of Distanciation' ch.4 summary (Cambridge Core, opened); page states this"
+  "Critical distance": "seed essay 'The Task of Hermeneutics' not opened; enriched from 'The Hermeneutical Function of Distanciation' ch.4 summary (Cambridge Core, opened); page states this",
+  "Desire experience-sampling": "seed 'resisting them is effortful' overstated: study reports desires largely unproblematic; 8h/day is an extrapolation; page says so"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:13:13+00:00",
+ "updated": "2026-10-21T08:14:27+00:00",
  "band_done": false
 }
