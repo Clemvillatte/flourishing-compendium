@@ -14,21 +14,21 @@ Behaviorism is the school of psychology John B. Watson announced in a 1913 manif
 
 ### Origin
 
-Watson was an animal researcher at Johns Hopkins when he published "Psychology as the Behaviorist Views It" in Psychological Review (1913). The paper attacked introspective psychology for producing disputes about mental elements that no experiment could settle, and proposed to rebuild the field without its vocabulary:
+Watson published "Psychology as the Behaviorist Views It" in Psychological Review (1913). The paper attacked introspective psychology for producing disputes about mental elements that no experiment could settle, and proposed to rebuild the field without its vocabulary:
 
-> "never use the terms consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like." (Watson, 1913, [full text](http://psychclassics.yorku.ca/Watson/views.htm))
+> "never use the terms consciousness, mental states, mind, content, introspectively verifiable, imagery, and the like." (Watson, 1913, the paragraph beginning "This leads me to the point", [full text](http://psychclassics.yorku.ca/Watson/views.htm))
 
-> "It can be done in terms of stimulus and response, in terms of habit formation, habit integrations and the like." (Watson, 1913, [full text](http://psychclassics.yorku.ca/Watson/views.htm))
+> "It can be done in terms of stimulus and response, in terms of habit formation, habit integrations and the like." (Watson, 1913, the paragraph beginning "This leads me to the point", [full text](http://psychclassics.yorku.ca/Watson/views.htm))
 
 B. F. Skinner later extended the program, studying how consequences select behaviour through operant conditioning. His variant, radical behaviorism, does not deny inner life: on the [SEP account](https://plato.stanford.edu/entries/behaviorism/), Skinner allows talk of private events provided they are described in the same terms as public behaviour.
 
 ### Core claims
 
-The school discards consciousness as an object of observation:
+Watson's manifesto called for dropping consciousness as an object of observation:
 
-> "The time seems to have come when psychology must discard all reference to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation." (Watson, 1913)
+> "The time seems to have come when psychology must discard all reference to consciousness; when it need no longer delude itself into thinking that it is making mental states the object of observation." (Watson, 1913, the paragraph beginning "The time seems to have come", [full text](http://psychclassics.yorku.ca/Watson/views.htm))
 
-Skinner's radical behaviorism keeps the discipline without denying inner life:
+Skinner's radical behaviorism keeps the discipline without denying inner life. For Skinner, the objection to inner states is:
 
 > "not that they do not exist, but that they are not relevant in a functional analysis" (Skinner 1953, p. 35, quoted in Graham's [SEP entry on behaviorism](https://plato.stanford.edu/entries/behaviorism/), section 5)
 
@@ -36,7 +36,7 @@ The [SEP entry](https://plato.stanford.edu/entries/behaviorism/) condenses the d
 
 ### How the school explains
 
-The behaviorist "recognizes no dividing line between man and brute" (Watson, 1913, [full text](http://psychclassics.yorku.ca/Watson/views.htm)): the same vocabulary of stimulus, response and habit applies to humans and to the rats in Watson's own laboratory at Hopkins. On this view the place to look for the causes of behaviour is the environment: the stimuli that precede it and, in Skinner's extension, the consequences that follow it.
+The behaviorist "recognizes no dividing line between man and brute" (Watson, 1913, opening paragraph, [full text](http://psychclassics.yorku.ca/Watson/views.htm)): the same vocabulary of stimulus, response and habit applies to humans and to laboratory animals. On this view the place to look for the causes of behaviour is the environment: the stimuli that precede it and, in Skinner's extension, the consequences that follow it.
 
 ### Criticisms and limits
 
@@ -52,7 +52,7 @@ The compendium links the school to four principles, each as a comparison rather 
 
 - [[CO077 — Recognise the limits of introspection — you do not have privileged access to your own mind]] — collects experimental evidence that people often reconstruct rather than read off the reasons for their responses; a research-grounded echo of Watson's suspicion of introspective reports, though the principle does not reject introspection wholesale
 - [[B185 — Water the good seeds]] — Hanh's model of seeds growing stronger each time they are watered; the principle's own psychology parallels name reinforcement, and the resemblance to conditioning is the compendium's comparison
-- [[B029 — Follow the gradual training]] — the path as a staircase of small steps, an image that parallels the school's idea of behaviour built up incrementally
+- [[B029 — Follow the gradual training]] — the path as a staircase of small steps; a comparison about practice in stages, without identifying gradual Buddhist training with conditioning
 - [[P034 — Know that every view is from somewhere]] — every view has a position and history; read next to Watson, that suspicion extends to the view from inside one's own head
 
 ### In everyday life
@@ -74,7 +74,7 @@ Overt Behavior · Psychological science
 - [[Behavior analysis]] — behavior analysis is Skinner's research program within the broader school
 - [[Operant conditioning (Skinner)]] — the mechanism of consequences selecting behaviour
 - [[Classical conditioning theory]]
-- [[Habit formation]] — habits as the stimulus-response integrations Watson built on
+- [[Habit formation]] — habit formation is part of Watson's proposed vocabulary
 - [[The limits of introspection]] — later experimental work on what introspection can and cannot report
 
 ## Sources

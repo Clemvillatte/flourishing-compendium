@@ -267,3 +267,40 @@ each before writing, per the w1g lesson):
   carrier path: check archive.org/Google Books.
 - Transaction — seed: Dewey, Experience and Nature; carrier path:
   Gutenberg/archive.org (1925 text).
+
+## Behaviorism (worker-w1m-f9f8e50d, session 2026-10-21 14:19Z)
+Redo of the lost predecessor draft per the theory-page standard (school-of-thought
+form). Carriers opened: Watson 1913 "Psychology as the Behaviorist Views It"
+full text (psychclassics.yorku.ca/Watson/views.htm, raw HTML fetched and
+substring-checked) and Graham, "Behaviorism", SEP
+(plato.stanford.edu/entries/behaviorism/, raw HTML fetched and substring-checked).
+Quote-verification record (every quoted string substring-checked against the
+saved raw carrier text):
+- Manifesto opening quote: VERBATIM (carrier <P> block 4).
+- "The time seems to have come..." VERBATIM (opens carrier paragraph; quoted
+  with locator "the paragraph beginning 'The time seems to have come'").
+- "never use the terms consciousness..." and "It can be done in terms of
+  stimulus and response..." VERBATIM; both sit inside the carrier paragraph
+  beginning "This leads me to the point"; the predecessor's stitched ellipsis
+  quote was split into two contiguous excerpts per advisor round-2.
+- "recognizes no dividing line between man and brute": verbatim in the cleaned
+  carrier text; the raw HTML renders "brute ." with a stray space (carrier
+  artifact), so the page quotes mid-sentence without the final period.
+- Skinner 1953 p. 35 excerpt "not that they do not exist, but that they are not
+  relevant in a functional analysis": quoted-in from the SEP entry section 5
+  (Graham interrupts the sentence with "wrote Skinner"; only the contiguous
+  excerpt is quoted, attributed as cited-in).
+- Meehl sentence and "But by no means has behaviorism disappeared. Robust
+  elements of behaviorism survive..." and the "immensely popular research
+  program" phrase: VERBATIM vs the saved SEP HTML (Meehl quote's closing
+  "(Meehl 1978)" parenthetical is the SEP's, not quoted).
+Advisor QC: round 1 FAIL (overgeneralized school-vs-Watson claims, unsupported
+efficacy claims, template narration, stitched quote, missing locators) -> repairs
+applied; round 2 FAIL (remaining: school/Watson attribution, Hopkins ownership,
+linked-page reads, B029 mechanism import, locator style) -> repairs applied;
+round 3 closeout checks (baseline validation, front-matter bytes, wikilink
+preservation, ledger) -> all PASS: enrich_validate.py --base 1f190f132 ok,
+front-matter byte-identical, original wikilinks preserved (additions only).
+Hopkins detail removed (the 1913 text references the Hopkins animal lab but
+does not establish Watson's appointment in the opened excerpts). Fast-track
+profile used for degree (<15) but full theory-page standard applied.
