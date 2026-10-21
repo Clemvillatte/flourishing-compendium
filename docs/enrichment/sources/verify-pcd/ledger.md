@@ -442,3 +442,16 @@ QC-closed).
   (the source carries superscript citation markers between sentences; the page drops
   the markers, standard footnote handling; wording verbatim).
 - w1h final: 4/4 PASS.
+
+### w1e "Everyone desires eudaimonia" — quote fidelity PASS (verification pass)
+- Aristotle NE I.7 Ross blockquote EXACT vs the opened MIT Classics page.
+
+## Session verification totals (final)
+Sampled across released bands w1aa, w1j, w1i, w1k, w1d, w1h, w1e, w1l: every displayed
+quotation checked against an opened carrier. PASS on all sampled pages. Three routed
+one-character/qualifier findings (Hermeneutic circle comma - unresolved OCR punctuation;
+Grounding "To the best of our knowledge" hedge; Alterity "[t]o" bracket), one primary-
+carrier upgrade (Tillich), one second-hand-carrier disclosure improvement opportunity
+(Merrick - closed), assorted bare Sources entries and Humanizer meta-section cleanups,
+and the H/T hermeneutic-circle duplicate-page disposition. All routed via TASKBOARD notes
+and this ledger; none edited without a baton.
