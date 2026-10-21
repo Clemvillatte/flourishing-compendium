@@ -8,13 +8,13 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
 
-Beneficial speech, in the Bhagavad Gita's seventeenth chapter, is the positive half of an austerity of speech: words that cause no agitation, that are truthful, pleasing and beneficial ([BG 17.15, Wisdom Library translation](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)). The Buddha's standard in MN 58 has the same shape: the Tathagata states only what is factual, true and beneficial, with a sense of the proper time for saying it ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
+Beneficial speech, as the term is used by the pages linking here, is speech that is true and useful to the hearer rather than merely pleasing ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html); [BG 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)). The Gita names such words the austerity of speech ([BG 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)). The Abhaya Sutta records the Buddha's rule: he states only what is factual, true and beneficial, with a sense of the proper time for saying it ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
 
 > "Speaking words that cause no agitation and that are truthful, pleasing and beneficial, as well as reciting the Vedas, are all said to be austerities of speech." — [Bhagavad Gita 17.15, Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html)
 
 ### The Buddha's test
 
-The Abhaya Sutta sets out six cases. Words the Tathagata knows to be factual and true but unbeneficial are not said, whether endearing or not; beneficial words that are unendearing and disagreeable are said, but with a sense of the proper time ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). The translator's introduction condenses the factors to three: whether a statement is true, whether it is beneficial, and whether it is pleasing to others ([MN 58, Thanissaro, translator's introduction](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
+The Abhaya Sutta sets out six cases ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). Words the Tathagata knows to be factual and true but unbeneficial are not said, whether endearing or not; beneficial words that are unendearing and disagreeable to others are still said, at the proper time ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). The translator's introduction condenses the factors to three: whether a statement is true, whether it is beneficial, and whether it is pleasing to others ([MN 58, Thanissaro, translator's introduction](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
 
 > "In the case of words that the Tathagata knows to be factual, true, beneficial, but unendearing & disagreeable to others, he has a sense of the proper time for saying them." — [MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)
 
@@ -32,7 +32,7 @@ The Abhaya Sutta sets out six cases. Words the Tathagata knows to be factual and
 
 ## Facets
 
-- **three gates** — BG 17.15
+- **three gates** — the compendium's speech-gate check (K208), drawing on MN 58 and Sutta Nipata 3.3
 
 ## Related concepts
 
@@ -41,7 +41,7 @@ The Abhaya Sutta sets out six cases. Words the Tathagata knows to be factual and
 - [[Right speech]] — the Gita's teaching on speech that benefits, compared with the Buddhist right-speech practice the page names as its counterpart
 ## Sources
 
-- [Bhagavad Gita 17.15 (with Vaishnava commentaries), Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html) — the austerity of speech
+- [Bhagavad Gita 17.15 (translation with Vaishnava commentaries), Wisdom Library](https://www.wisdomlib.org/hinduism/book/shrimad-bhagavad-gita/d/doc420281.html) — the austerity of speech
 - [Abhaya Sutta, MN 58, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html) — the six cases and the proper-time standard
 - BG 17.15
 - Buddhist right speech
