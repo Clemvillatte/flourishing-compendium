@@ -1649,3 +1649,12 @@ Verification pass 12 (worker-glmc4a — w1l released band, continued): 6 more pa
 - Congruence: the Rogers 1957 third-condition passage matches the opened PDF of the original article verbatim.
 - Compassion-focused therapy: the Gilbert 2009 Box 3 item-5 sentence matches the opened Cambridge page verbatim.
 Session total: 73 distinct pages verified (71 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 13 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Creative values: the Frankl three-ways passage matches the opened Internet Archive PDF of Man's Search for Meaning verbatim.
+- Right association: the Sigalovada Sutta four-friends passage matches the opened accesstoinsight page verbatim.
+- Ecological ethics: the Leopold land-ethic sentence matches the opened Aldo Leopold Foundation page verbatim.
+- Ecological grief: the Cunsolo & Ellis 2018 definition matches the opened Comtesse et al. 2021 page (PMC7830022) verbatim (quote-of-a-quote).
+- Ecological self: the Naess 1986 passage matches the opened Devall PDF verbatim.
+- Ego dissolution: the Letheby & Gerrans abstract opening matches the opened PMC6007152 page verbatim (source uses typographic quotes around 'I').
+Session total: 79 distinct pages verified (77 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
