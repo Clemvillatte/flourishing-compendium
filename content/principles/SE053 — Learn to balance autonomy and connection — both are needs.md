@@ -22,7 +22,7 @@ Ryan and Deci's account proposes three basic psychological needs: competence, au
 ## Psychology parallels
 
 - **[[Self-determination|Self-determination theory (Deci & Ryan)]]**, autonomy, competence, and relatedness are three basic needs (Deci & Ryan, 2000; Ryan & Deci, 2017)
-- **Autonomy and connection are both necessary**, sacrificing either predicts lower well-being (Deci & Ryan, 2000; La Guardia et al., 2000)
+- **Autonomy and connection are both necessary** (Deci & Ryan, 2000; La Guardia et al., 2000)
 
 ## Philosophy parallels
 
