@@ -61,3 +61,7 @@
 - Seed "museum of an old decision" metaphor and couple anecdote removed.
 ## R093 — Levinas / ethics first
 - Opened: Lawrence 2019 (MDPI Religions 10(2):84) full text — verbatim quotes TI p.304 and pp.290-91 (Lingis 1969). TI itself not opened; "The face speaks"/"Thou shalt not kill" not in the article, not used. Invented cleaner's-chair anecdote replaced by a checkable listening practice.
+## R095 — trace of the Other
+- Opened: SEP Levinas (Bergo), quotes verbatim; SEP bibliography: Otherwise than Being = 1974 (French), Lingis trans. 1981; Totality and Infinity = 1961/1969.
+- CORRECTION made in the locator lines of R093 and R095: "Levinas, 1969, Otherwise Than Being" -> "Levinas, 1974/1981". Other principles by the same author (e.g. R094 etc., not mine) may carry the same wrong date; supervisor should grep "1969, Otherwise".
+- Primary texts not opened. "Never fully present / never fully knowable" in the blockquote is a gloss, flagged on page as inference.

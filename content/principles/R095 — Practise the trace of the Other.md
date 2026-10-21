@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 357** — Practise the trace of the Other
 
-Recognise that every person you encounter carries the trace of an absence, a dimension that exceeds your comprehension. The Other is never fully present, never fully knowable. Do not reduce them to what you can see. Honour what exceeds your grasp.
+Bettina Bergo's entry on Levinas in the Stanford Encyclopedia of Philosophy describes the trace as something the encounter with another person leaves behind: "The trace is mnemonic and bodily, as indicated, and it emerges from affective relationality", and "The trace introduces ambiguity into existence or being; it allows exceptional acts of generosity to phenomenalize" ([SEP, Emmanuel Levinas](https://plato.stanford.edu/entries/levinas/)). The entry also reads Levinas as saying that "a trace of the interruption persists in the subject, like a grain of sand in an oyster or a preconscious motivation to bear witness to the other's suffering".
 
-(Levinas, 1969, Otherwise Than Being; Levinas, 1961/1969, Totality and Infinity.)
+(Levinas, 1974/1981, Otherwise Than Being; Levinas, 1961/1969, Totality and Infinity.)
 
-**Plain words** Everyone carries more than you can see or know — a dimension that exceeds your grasp. Don't reduce people to what's visible: their file, their role, their worst moment. Honour what exceeds the data.
+### The Other is never my possession
 
-*For example:* The new colleague arrives as "the replacement hire" — until you learn she's also a carer, a widow, a marathoner; the trace is the reminder that the file was never the person.
+In Otherwise than Being (1974), the entry says, Levinas calls the dignity of responding to another person "illeity", a way of the other "concerning me without entering into conjunction with me". Because that other cannot be gathered into my thought or act, the principle is to avoid reducing someone to what you can see of them. That inference is mine, drawn from the entry. I have read the secondary entry only, not Levinas's own pages.
+
+**Plain words**
+Whoever stands in front of you is more than you can take in. Treat what you know about them as partial, and let them still surprise you.
+
+**For example**
+Pick one person you think you know well and ask one question you have never asked them, such as what they were worried about last year. Write down one thing you learned that contradicted your picture of them.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, Emmanuel Levinas (Bergo)](https://plato.stanford.edu/entries/levinas/)
+
 ## Psychology parallels
 
 - **[[Theory of mind|Theory of mind and its limits]]** (Apperly, 2011)

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 For Levinas, ethics comes before the theories we build to explain things. In Totality and Infinity he writes: "Morality is not a branch of philosophy, but first philosophy" (Levinas, 1969, p. 304, trans. Lingis, as quoted in [Lawrence, 2019, Religions 10(2)](https://www.mdpi.com/2077-1444/10/2/84)).
 
-(Levinas, 1961/1969, Totality and Infinity; Levinas, 1969, Otherwise Than Being.)
+(Levinas, 1961/1969, Totality and Infinity; Levinas, 1974/1981, Otherwise Than Being.)
 
 ### The face
 
