@@ -13,3 +13,10 @@
 - Video verified via YouTube oembed: u4dvONT-DNw 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath channel.
 - Operationalises converted from comma line to bullet list to clear the em-dash budget; all 7 original links preserved.
 - Validation: ok; build ok; push required rebase over w1n commit (race, resolved).
+
+## K161 — Loving-kindness meditation (2026-10-21)
+- Enriched existing kernel with Protocol (4 steps), Evidence, guided video, Sources.
+- Sources opened: PubMed 26579061 Zeng et al. 2015 meta-analysis (abstract via search: 24 studies, N=1759, medium effect sizes on daily positive emotions); PMC5704778 Fredrickson et al. 2017 (fetched: pooled 2 RCTs, N=339 midlife adults, dose-response stronger for LKM than mindfulness meditation).
+- Video verified via YouTube oembed: 3STenfbpZbI 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach'.
+- Operationalises converted to bullet list to clear the em-dash budget; all 3 original links preserved.
+- Validation: ok; build ok; saved and pushed.

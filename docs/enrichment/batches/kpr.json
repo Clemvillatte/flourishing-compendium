@@ -31,8 +31,14 @@
     {
       "id": "K161",
       "title": "Loving-kindness meditation",
-      "status": "todo",
-      "note": "enrich with protocol + evidence + video"
+      "status": "done",
+      "note": "enrich with protocol + evidence + video",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/26579061/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5704778/",
+        "https://www.youtube.com/watch?v=3STenfbpZbI"
+      ],
+      "video_verified": "oembed: 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach', Tara Brach"
     }
   ],
   "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger."
