@@ -119,3 +119,7 @@
 ## BI052 — Trauma physiology, bottom-up approaches
 - Opened: Brom et al. 2017 (PubMed 28585761, abstract); van de Kamp et al. 2023 J Trauma Stress 36(5):835-848 (PubMed 37702005); Scheeringa, BJPsych Bulletin 50(4), doi 10.1192/bjb.2025.10174 (Cambridge Core page; quotes verbatim). Also saw Cochrane/scoping SE review (PubMed 34290845: study quality mixed).
 - Changes: seed asserted "trauma lives in the body" and listed van der Kolk as support; reframed as contested, modest evidence, no superiority over trauma-focused CBT. Levine 1997, Ogden 2006, van der Kolk 2014 unopened -> bare refs. Page shows hits for the van der Kolk book critiques (Conversation, etc.) only via snippets, not cited.
+
+## BI055 — Notice body signals
+- Opened: Khalsa et al. 2018 (PubMed 29884281, abstract); Garfinkel et al. 2015 (PubMed 25451381, abstract; N=80). Craig 2009, Barrett 2019 unopened -> bare refs.
+- Removed: unsourced "hangry/memo" example claim of irritability-hunger link and "foundational skill" assertions; added accuracy-vs-confidence caveat. Practice line kept (generic).
