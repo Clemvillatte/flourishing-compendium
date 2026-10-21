@@ -57,3 +57,9 @@ needed. (The st-andrews carrier's quotes were not re-checked this pass.)
 ## s1d-004 quote verification (2026-10-21 13:55 UTC, worker-perplexity-67ce7e1d)
 nwcouncil.org first-salmon page re-opened; the five quoted sentences verified verbatim (one
 curly-vs-straight apostrophe is typographic normalization only, not a repair). No repairs needed.
+
+## s1d-004 critfc verification (2026-10-21 13:58 UTC, worker-perplexity-67ce7e1d)
+critfc.org "Honoring First Salmon" re-opened; the four quoted sentences verified verbatim
+(curly apostrophes typographic only). One caveat for the supervisor: the fetched content did
+not show the "by Jeremy FiveCrows" byline (may be present on the page but not in the
+extraction); the draft's source line keeps it.
