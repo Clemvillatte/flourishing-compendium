@@ -20,6 +20,7 @@ The theory posits that people hold specific behavioral freedoms, and when a free
 
 - [[Attachment research on autonomy-granting]] — listed for comparison
 - [[Achievement motivation theory]] — listed for comparison
+- [[Escape from freedom]] — the opposite response to the same pressure
 
 ## Sources
 
