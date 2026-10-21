@@ -9,7 +9,7 @@ FAIL on both items. Causes: founder attributions and four-threat definitions bey
 - Items 1-2: CONFIRMED PASS (repairs accepted).
 - Item 3 (Interactive activation model): FAIL, two defects — IAC/PDP Wikipedia paragraph beyond the opened source (removed with its Sources row); no locator for the quote and no citations beside factual prose (fixed: p. 376 located via per-page pdftotext; primary PDF cited in prose; "word superiority" framed as the model's explanation).
 - Item 4 (Interpersonal Deception Theory): FAIL, two defects — Wiley article not cited beside the opening-paragraph claims (fixed); moves-and-countermoves gloss overstated, cognitive-exertion claim dropped, paragraph re-anchored to the theory's own interactive framing (fixed).
-- Item 5 (Interpersonal psychoanalysis): FAIL, four defects — unsupported "set against Freudian drive theory" claim (removed); unattributed "participant observer" and undated 18-propositions phrasing (removed); longer Hopwood blockquote replaced with the short Sullivan fragment and an accurate secondary-carrier disclosure; selective-inattention sentence re-anchored to the opened overview.
+- Item 5 (Interpersonal psychoanalysis): FAIL, defects — unsupported "set against Freudian drive theory" claim (removed); unattributed "participant observer" claim and unsupported contrast framing (removed); longer Hopwood blockquote replaced with the short Sullivan fragment and an accurate secondary-carrier disclosure; selective-inattention sentence re-anchored to the opened overview. (The "18 propositions" defect belonged to item 4, IDT, not this item; ledger corrected.)
 - Repairs applied to all four items; revalidated against the pre-repair commit (see below).
 
 ## Validation baselines
@@ -25,5 +25,17 @@ FAIL on both items. Causes: founder attributions and four-threat definitions bey
 - Interpersonal psychoanalysis: PMC3675800 + Wikipedia extract via API. Degree 4. Saturation skipped.
 
 ## Session tooling notes
-- git push over HTTPS fails in this sandbox (sideband disconnect); use `python3 scripts/api_push.py 3` after every commit (established repo convention). The owner-provided token authenticates via Bearer on api.github.com only; the token as first received was truncated (92 chars); the complete value (93 chars, ending "m") authenticates as Clemvillatte. git-receive-pack rejects it in all tested forms.
-- Monotonic anchors: start epoch 1792572054 (08:40:54 UTC); anchor2 ~08:50:30 UTC; monotonic reading 851.16 s at 08:54:16 UTC.
+- git push over HTTPS fails in this sandbox (sideband disconnect); use `python3 scripts/api_push.py 3` after every commit (established repo convention). The owner-supplied token authenticates on api.github.com; git-receive-pack is not usable from this sandbox. The first push attempts failed because the locally-copied token string was truncated by its final character; the owner-supplied message text contains the complete value.
+- Monotonic anchors: start epoch 1792572054 (08:40:54 UTC); monotonic reading 851.16 s at 08:54:16 UTC. Epoch readings are wall-clock; the report deadline (09:40:54 UTC) is tracked from the wall-clock start reading.
+
+## Items-6-10 milestone QC (advisor)
+- Items 6-10: FAIL round 1, all repaired per the advisor's exact edits:
+  - Intuitive expertise: fireground/chess example removed; "rapid judgments" phrasing; opening re-anchored to the 2009 paper's purpose; "regularity of the environment" closer clause removed (dropped the opportunity-to-learn condition); two-conditions quote pinpointed to p. 520 (per-page pdftotext); heading neutralised.
+  - James-Lange: "body is not the aftermath" gloss removed and replaced with the advisor's bounded sentence; Lange attribution narrowed to naming only; modern-consensus paragraph narrowed to what the Wikipedia carrier reports; locator noted as opening section.
+  - Job characteristics model: Wikipedia-prose blockquote replaced with the Humphrey et al. 2007 peer-reviewed abstract quote, described as broader work-design review; "on average" removed from the 34% sentence; proposed-vs-demonstrated distinction added; sentence-level citations added. Front-matter verified byte-identical to pre-edit; 5/5 original wikilinks preserved.
+  - Kin Selection: Wikipedia-only carrier replaced with Bourke 2014 (Phil Trans R Soc B, PMC3982664); history asides (Darwin/Fisher/Haldane) dropped; Hamilton's rule retained with the review's empirical findings.
+  - Krumboltz: opening replaced with the advisor's four-factor sentence; "conditioning history" contrast deleted (the theory expressly includes inherited and environmental factors); associative-learning shortened; happenstance sentence re-anchored to the ERIC abstract; chapter colon retained.
+- Items 1-5 follow-up: sentence-level citation pass applied (item 1 path-analysis sentence; item 2 Phi sentences; item 3 resting-level formulation replaced with the source-bounded version; item 5 Sullivan sentence and personifications paragraph).
+- Degrees re-verified before certification: Intuitive expertise 8, James-Lange 6, Job characteristics model 5, Kin Selection 4, Krumboltz 4 (all <15, fast-track eligible).
+- Full 10-page validation vs pre-enrichment baseline 7f32ffed (parent of first item-6 commit): 10/10 ok.
+- Ledger corrections: item-5 18-propositions mis-entry fixed (belongs to item 4); credential note de-specified.

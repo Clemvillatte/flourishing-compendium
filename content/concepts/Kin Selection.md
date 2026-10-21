@@ -7,22 +7,22 @@ file: "Kin Selection"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Kin selection is a process whereby natural selection favours a trait because of its positive effects on the reproductive success of an organism's relatives, even when the trait costs the organism's own survival and reproduction. It can lead to the evolution of altruistic behaviour, and it is related to inclusive fitness, which counts the offspring an individual can ensure by supporting others, weighted by relatedness ([Wikipedia, Kin selection](https://en.wikipedia.org/wiki/Kin_selection)).
+Kin selection is the selection process behind altruistic behaviour toward relatives. It is treated within inclusive fitness theory, where it is paired with Hamilton's rule as the theory's central theorem ([Bourke, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC3982664/)).
 
-> "Kin selection is a process whereby natural selection favours a trait due to its positive effects on the reproductive success of an organism's relatives, even when at a cost to the organism's own survival and reproduction." ([Wikipedia, Kin selection](https://en.wikipedia.org/wiki/Kin_selection))
+> "Hamilton's rule is a central theorem of inclusive fitness (kin selection) theory and predicts that social behaviour evolves under specific combinations of relatedness, benefit and cost." (Bourke, [Hamilton's rule and the causes of social evolution](https://pmc.ncbi.nlm.nih.gov/articles/PMC3982664/), Philosophical Transactions of the Royal Society B, 2014, abstract)
 
-### How the gene's eye works
+### Hamilton's rule
 
-Darwin had already reflected on the puzzle of sterile social insects in On the Origin of Species (1859), arguing that a selection benefit to related organisms of the same stock would allow a trait to evolve even when it destroys the individual. J.B.S. Haldane joked that he would willingly die for two brothers or eight cousins, and R.A. Fisher mentioned a similar principle in 1930, but it was W.D. Hamilton in 1964 who generalised the concept and developed it mathematically, producing Hamilton's rule ([Wikipedia, Kin selection](https://en.wikipedia.org/wiki/Kin_selection)). The term kin selection itself was first used by John Maynard Smith in 1964.
+The rule states that a gene for any social action will undergo selection when the sum of indirect fitness (rb) and direct fitness (c) exceeds zero, where r is the relatedness of the social actor and recipient, and c and b are the changes brought about by the social action in the offspring numbers of the actor and the recipient ([Bourke, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC3982664/)). On this account an act that costs the actor offspring can still spread when the benefit to a relative, weighted by relatedness, outweighs the cost.
 
-Hamilton's rule states that kin selection causes genes to increase in frequency when the genetic relatedness of a recipient to an actor multiplied by the benefit to the recipient is greater than the reproductive cost to the actor. Hamilton proposed two mechanisms: kin recognition, and viscous populations in which local interactions tend to be among relatives by default, making cooperation possible without kin recognition ([Wikipedia, Kin selection](https://en.wikipedia.org/wiki/Kin_selection)).
+Bourke's review of studies in cooperatively breeding birds and mammals and eusocial insects reports that studies parametrizing Hamilton's rule demonstrate quantitatively that altruism occurs even when sociality is facultative, that in most cases it is under positive selection via indirect fitness benefits exceeding direct fitness costs, and that social behaviour commonly generates indirect benefits by enhancing the productivity or survivorship of kin ([Bourke, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC3982664/)).
 
 ## Field
 
 Sociocultural · Psychological science
 ## Sources
 
-- [Wikipedia, Kin selection](https://en.wikipedia.org/wiki/Kin_selection) — definition, history from Darwin through Haldane to Hamilton, Hamilton's rule and its two mechanisms
+- [Bourke (2014), Hamilton's rule and the causes of social evolution, Philosophical Transactions of the Royal Society B, PMC3982664](https://pmc.ncbi.nlm.nih.gov/articles/PMC3982664/) — the rule's definition, mechanism and empirical review
 
 ## Cited in philosophy parallels
 [[K008 — Expect the collapse of meaning; do not waste it]]

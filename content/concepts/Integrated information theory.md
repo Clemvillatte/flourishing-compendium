@@ -13,7 +13,7 @@ Giulio Tononi's 2004 formulation of integrated information theory (IIT) begins w
 
 ### What Phi measures
 
-Tononi proposed that the quantity of consciousness available to a system can be measured as the Phi value of a complex of elements. In the 2004 formulation, Phi is the amount of causally effective information that can be integrated across the informational weakest link of a subset of elements, and a complex is a subset of elements with Phi above zero that is not part of a subset of higher Phi ([Tononi, 2004](https://pubmed.ncbi.nlm.nih.gov/15522121/)).
+Tononi proposed that the quantity of consciousness available to a system can be measured as the Phi value of a complex of elements ([Tononi, 2004](https://pubmed.ncbi.nlm.nih.gov/15522121/)). The 2004 abstract states that a complex is a subset of elements with Phi above zero that is not part of a subset of higher Phi ([Tononi, 2004](https://pubmed.ncbi.nlm.nih.gov/15522121/)).
 
 A later review in the Internet Encyclopedia of Philosophy notes that the falsifiability of some implications the theory presents as predictions is a matter of controversy ([Fallon, IEP](https://iep.utm.edu/integrated-information-theory-of-consciousness/)).
 

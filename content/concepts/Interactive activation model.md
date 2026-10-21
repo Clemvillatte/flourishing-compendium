@@ -13,7 +13,7 @@ The interactive activation model is a model of letter and word perception publis
 
 ### How the pieces interact
 
-Each detector has a resting level of activation that reflects its long-term frequency of use: in the paper's example, nodes for high-frequency words rest higher than nodes for low-frequency words ([McClelland & Rumelhart, 1981](https://stanford.edu/~jlmcc/papers/McClellandRumelhart81.pdf)). Active neighbours push a detector up or pull it down, and word detectors feed back to reinforce the detectors for their constituent letters. The model explains the greater perceptibility of letters in words through this feedback.
+The model gives high-frequency word nodes higher resting levels than low-frequency word nodes ([McClelland & Rumelhart, 1981](https://stanford.edu/~jlmcc/papers/McClellandRumelhart81.pdf)). Active neighbours push a detector up or pull it down, and word detectors feed back to reinforce the detectors for their constituent letters. The model explains the greater perceptibility of letters in words through this feedback.
 
 ## Field
 
