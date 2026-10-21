@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 231** — Handle wealth without attachment
 
-Wealth is a preferred indifferent. The Stoic may have wealth but must not be attached to it. Seneca was wealthy and argued that the wise person can use wealth without being used by it. Hold wealth loosely: enjoy it, share it, do not depend on it.
+Marcus records where his own search for happiness did not end up:
 
-(Seneca, Letters 8, 17, 18, 41, 44, 62, 87, 108, 110, 119; Med. III.6, IV.3, VI.13; Disc. I.25, II.5, III.7; Ench. 15.)
+> "Thou hast had experience of many wanderings without having found happiness anywhere,--not in syllogisms, nor in wealth, nor in reputation, nor in enjoyment, nor anywhere. Where is it then? In doing what man's nature requires."
 
-**Plain words** Wealth is a preferred indifferent. A Stoic can have it but mustn't be attached. Seneca was rich and argued that the wise person uses wealth without being used by it. Hold it loosely: enjoy it, share it, don't depend on it.
+(Med. VIII.1, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-*For example:* Someone with money picks a smaller house, gives a fixed share each year, and sleeps well.
+The compendium applies the passage to wealth: money is one of the places Marcus looked and did not find it, and it remains useful for what it can buy. Stoics call wealth a [[Preferred indifferents|preferred indifferent]], a thing worth having that is not good in itself. The exercise is to notice whether your plans assume more money before they can begin.
+
+**Plain words** Keep the distinction between using money and needing it. Ask what a purchase is for, and whether the same end could be reached with less.
+
+*For example:* Imagined: someone with savings picks a smaller flat than the bank would finance, and gives a fixed share of income away each year.
+
+## Sources
+
+- [Meditations VIII.1, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
 
 ## Psychology parallels
 
