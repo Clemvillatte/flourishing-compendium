@@ -17,7 +17,7 @@ The two processes pull in opposite directions, and relevance is the switch. On a
 
 ### What people do about it
 
-The model's unsettling prediction is about relationships: the threat is managed by adjusting closeness itself. As Tesser writes in the 1988 statement of the model, "when relevance is high, the better the other's performance the less closeness or the more distance one will put between the self and other" (Tesser, 1988, p. 190, quoted in [Schmitt, Silvia & Branscombe, 2000](https://libres.uncg.edu/ir/uncg/f/P_Silvia_Intersection_2000.pdf)). A person can also protect self-evaluation by reducing the domain's relevance or by hindering the other's performance — the model's machinery for understanding envy between friends and the cooling of relationships after one member's success.
+The model's unsettling prediction is about relationships: the threat is managed by adjusting closeness itself. As Tesser writes in the 1988 statement of the model, "when relevance is high, the better the other's performance the less closeness or the more distance one will put between the self and other" (Tesser, 1988, p. 190, quoted in [Schmitt, Silvia & Branscombe, 2000](https://libres.uncg.edu/ir/uncg/f/P_Silvia_Intersection_2000.pdf)).
 
 ## Field
 
@@ -30,8 +30,8 @@ Sociocultural · Psychological science
 
 - [[SE050]] — A comparison with SE050 on how others' performance enters self-evaluation
 - [[Role model research]] — Lockwood and Kunda's study of when another's excellence lifts or deflates the self, in the role-model register
-- [[Envy]] — the affect that the comparison process produces when a close other excels
-- [[Schadenfreude]] — research on the model's threat finds self-evaluation threat intensifies pleasure at the other's misfortune
+- [[Envy]] — one affect the comparison process can produce when a close other excels in a self-relevant domain
+- [[Schadenfreude]] — a neighboring research line on the self-evaluation threat the model describes
 
 ## Sources
 

@@ -15,13 +15,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### Two gaps, two moods
 
-The theory's central claim is that the two kinds of gap feel different. An actual-ideal gap is missing something wanted; an actual-ought gap is facing something feared: "Discrepancies between the actual/own self-state (i.e., the self-concept) and ideal self-states ... signify the absence of positive outcomes, which is associated with dejection-related emotions (e.g., disappointment, dissatisfaction, sadness). In contrast, discrepancies between the actual/own self-state and ought self-states ... signify the presence of negative outcomes, which is associated with agitation-related emotions (e.g., fear, threat, restlessness)." The theory also holds that each domain can be taken from one's own standpoint or from a significant other's, so a person can carry their parents' ideal of them as well as their own.
+The theory's central claim is that the two kinds of gap predict different moods. Higgins's prediction: "Discrepancies between the actual/own self-state (i.e., the self-concept) and ideal self-states ... signify the absence of positive outcomes, which is associated with dejection-related emotions (e.g., disappointment, dissatisfaction, sadness). In contrast, discrepancies between the actual/own self-state and ought self-states ... signify the presence of negative outcomes, which is associated with agitation-related emotions (e.g., fear, threat, restlessness)." The theory also holds that each domain can be taken from one's own standpoint or from a significant other's, so a person can carry their parents' ideal of them as well as their own.
 
-The practical use is diagnostic. Low mood of the dejected kind points at an ideal gap, and anxiety of the agitated kind points at an ought gap; the first asks what hoped-for state has not arrived, the second what duty seems about to be violated. A person can then ask whose standard is in play, their own or someone else's — a question the theory builds in with its two standpoints.
+Within Higgins's framework, one question the theory suggests for a person in low or anxious mood is which gap is in play: whether a hoped-for state has not arrived, or a duty seems about to be violated. A second question follows from the theory's two standpoints: whose standard is in play, one's own or someone else's. These are questions the theory frames, not a diagnostic rule.
 
 ### In the compendium
 
-- [[E049 — Practise despair and its overcoming]] — despair as the affect of the unbridgeable gap
+- [[E049 — Practise despair and its overcoming]] — a comparison across frameworks: the compendium's despair principle beside a theory of gaps; see the principle for its own account
 
 ## Related concepts
 
@@ -33,6 +33,7 @@ The practical use is diagnostic. Low mood of the dejected kind points at an idea
 ## Sources
 
 - Higgins, E. Tory. "Self-Discrepancy: A Theory Relating Self and Affect." Psychological Review 94, no. 3 (1987): 319-340. [Full text PDF](https://www.columbia.edu/cu/psychology/higgins/papers/HIGGINS=PSYCH%20REVIEW%201987.pdf)
+- Higgins, 1987
 - Carver & Scheier, 1990
 
 ## Cited in psychology parallels

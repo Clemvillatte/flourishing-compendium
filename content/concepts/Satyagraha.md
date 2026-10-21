@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-Satyagraha (Sanskrit: satya, truth; agraha, holding fast) is Gandhi's name for non-violent resistance, coined in South Africa. Gandhi's own gloss runs:
+Satyagraha is Gandhi's name for non-violent resistance, coined in South Africa. Gandhi's own gloss runs:
 
 > "Satyagraha, then, is literally holding on to Truth and it means, therefore, Truth-force. Truth is soul or spirit. It is, therefore, known as soul-force." (Gandhi, articles on satyagraha, [compiled text PDF](https://www.fredsakademiet.dk/library/satyagraha.pdf))
 
@@ -16,7 +16,7 @@ The word was invented to mark a difference: "The word was coined in South Africa
 
 ### Sacrifice of self
 
-The moral core is the direction of the cost. As Gandhi writes in the same chapter: "Everybody admits that sacrifice of self is infinitely superior to sacrifice of other. Moreover, if this kind of force is used in a cause that is unjust, only the person using it suffers." The asymmetry is the safeguard: a satyagrahi who is wrong damages no one else. The force itself is described in the chapter on brute force versus love-force: "The force implied in this may be described as love-force, soul-force, or, more popularly but less accurately, passive resistance. This force is indestructible." (Hind Swaraj, ch. XVI)
+The moral core is the direction of the cost. As Gandhi writes in the same chapter: "Everybody admits that sacrifice of self is infinitely superior to sacrifice of other. Moreover, if this kind of force is used in a cause that is unjust, only the person using it suffers." Gandhi presents bearing the suffering oneself as the method's safeguard against one's own error: if the cause is unjust, the person who was wrong is the one who pays. The force itself is described in the chapter on brute force versus love-force: "The force implied in this may be described as love-force, soul-force, or, more popularly but less accurately, passive resistance. This force is indestructible." (Hind Swaraj, ch. XVI)
 
 ### In the compendium
 
@@ -26,8 +26,8 @@ The moral core is the direction of the cost. As Gandhi writes in the same chapte
 ## Related concepts
 
 - [[Ahimsa]] — the non-violence that makes holding to truth possible without harming the opponent
-- [[Courage — action despite fear]] — satyagraha as a weapon of the strong presupposes courage, not weakness
-- [[Ordering the soul]] — satyagraha asks for a self that can hold fast; the compendium's pages on ruling the self are its inner counterpart
+- [[Courage — action despite fear]] — the method is "not conceived as a weapon of the weak"; the courage pages are its natural companions
+- [[Ordering the soul]] — a comparison, not a claim of influence: the compendium's pages on ruling the self sit naturally beside a method that asks the actor to absorb the cost
 
 ## Sources
 

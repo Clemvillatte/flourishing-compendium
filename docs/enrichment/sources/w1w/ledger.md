@@ -285,3 +285,48 @@
 - Mortality facet kept as a facet heading without specific findings
   (none opened); the facet note states only the definitional risk side.
 - Normal validator: ok. State recorded (done count 22).
+
+## Advisor QC round 4 repairs (2026-10-21, worker-w1m-7c9e2a54)
+
+- Repairs applied to items 18-24 per advisor QC round 4:
+  - Satyagraha: "safeguard" claim re-attributed to Gandhi's presentation;
+    unverified Sanskrit gloss parenthetical removed (Gandhi's own
+    "holding on to Truth" gloss carries it); "weapon of the strong"
+    reworded to the verified "not conceived as a weapon of the weak";
+    Ordering the soul clause marked as comparison, not influence.
+  - Schadenfreude: "no native word covers it" removed; "best mapped"
+    removed; royal-road sentence PARAPHRASED (the extraction showed
+    "empiricial" — possible source typo — so the span is no longer
+    quoted); envy-diagnostic inference softened to a question; "effect
+    was not situational" narrowed to Study 2's finding; seed line
+    "gloating damages trust and invites reprisal" REPLACED with the
+    measured Pagliaro result (trust/invites-reprisal was not established
+    by the opened study — ledger item 19 claim corrected); benign/
+    malicious-envy prediction clause narrowed.
+  - Schwartz: closing paragraph recast as the page's reading of the
+    model, marked as such.
+  - SEM: unverified relevance-reduction/hindering sentence removed (only
+    the verified closeness adjustment retained); envy clause narrowed;
+    Schadenfreude clause made a neighboring-research-line note, factual
+    claim removed.
+  - Self-discrepancy: diagnostic framing reversed to Higgins-framework
+    questions, marked as theory-framed not a rule; E049 clause made a
+    comparison; seed citation line "- Higgins, 1987" restored.
+  - Self-conscious emotions: wording/appraisal distinction fixed;
+    "most painful member" superlative removed; Self-discrepancy clause
+    made a comparison between frameworks; seed citation lines
+    "Tracy et al., 2007" and "Tracy and Robins, 2004" restored.
+  - Sensation seeking: mortality facet de-claimed (no accident/health
+    outcome assertion); four-factors example marked as illustration;
+    curiosity clause narrowed.
+- KNOWN GAPS flagged for supervisor / verify pass (honest):
+  (1) Related-concepts counts below the 5-12 target: Satyagraha 3,
+  Schwartz 4, SEM 4, Self-discrepancy 4 — time-capped; candidates
+  needed reading before clauses could be written safely. (2) Reciprocal
+  proposals file (docs/enrichment/proposals/w1w.json) not yet created
+  for the new Related edges on items 18-24. (3) Schwartz ten defining
+  goals verified via prompted extraction against the opened full text,
+  not raw-text re-inspection. (4) ERIC ED226263 title/date not re-checked
+  against its title page. (5) Earlier ledger item 19 said the seed line
+  was grounded — corrected here.
+- Normal validator: 7/7 ok (full output, no tail filtering).
