@@ -8,7 +8,6 @@
   "AF051",
   "AF064",
   "AF074",
-  "AF080",
   "AT002",
   "AT015",
   "AT018",
@@ -32,7 +31,7 @@
   "AF076",
   "AF079"
  ],
- "in_progress": null,
+ "in_progress": "AF080",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -44,10 +43,11 @@
   "A118": "QC-CLOSED 2026-10-21: Rhetoric II.6/NE IV.9 rechecked; precise peer-advantages/coercion scope; ancient blame disclosed and rejected; source quotes verified; contemporary reflection labelled; inherited parallels unverified.",
   "A121": "QC-CLOSED 2026-10-21: Rhetoric I.2/II.1 opened, quotes verified; speech-earned ethos example and source links repaired; inherited parallels unverified.",
   "AF076": "QC-CLOSED 2026-10-21: four cited abstracts opened, quotes checked; stranger experiment/couple associations/cultural scope distinguished; disclosure promise removed; inherited parallels unverified.",
-  "AF079": "QC-CLOSED 2026-10-21: APA PTSD page opened, quotes checked, sparse hypothetical no longer asserts full pattern; earlier support distinguished from diagnosis; inherited parallels preserved, not reverified."
+  "AF079": "QC-CLOSED 2026-10-21: APA PTSD page opened, quotes checked, sparse hypothetical no longer asserts full pattern; earlier support distinguished from diagnosis; inherited parallels preserved, not reverified.",
+  "AF080": "Reopened for QC: QC: add severe-mania hospital-care exception and avoid implying depression is required for bipolar I"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:45:04+00:00",
+ "updated": "2026-10-21T14:45:10+00:00",
  "band_done": false
 }
