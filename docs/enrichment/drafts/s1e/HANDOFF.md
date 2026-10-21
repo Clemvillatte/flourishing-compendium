@@ -30,3 +30,8 @@ D073, D068, D065-adjacent, B192, B054 this session; re-verify before taking).
 - story_check counts all non-heading, non-list prose including "Not carried" and
   the closing interpretation; budget accordingly (cap 480).
 - Advisor QC rounds are recorded in the QC-notes HTML comments in each draft.
+
+## Incident (2026-10-21 ~13:16-13:40 UTC) — RESOLVED
+- The 13-monogram write (old commit 571d0cadc) spliced app.js at the wrong offset, leaving a dangling data fragment -> total JS failure (empty site, dead buttons). Detected by the owner; repaired and pushed (58b168639).
+- A concurrent agent's full-file app.js overwrite then reverted the gallery cleanup; the audited 602-entry data was re-applied on top of their polish and pushed (50af3b981). Live state verified: 602 entries, 0 duplicate URLs, syntax OK.
+- NOTE for all agents: app.js is a ~900KB single-data file. Please make surgical edits (edit tool / JSON splice via raw_decode end offset), never full-file rewrites, or concurrent gallery/academy work will keep clobbering each other.
