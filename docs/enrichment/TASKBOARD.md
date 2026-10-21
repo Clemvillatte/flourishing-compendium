@@ -1613,3 +1613,12 @@ Verification pass 8 (worker-glmc4a — w1l released band, continued): 6 more pag
 - Idle talk (Gerede): the Heidegger sentence matches the opened beyng.com M&R p. 213 text verbatim.
 - Life affirmation: the Nietzsche Gay Science §276 passage matches the opened vishvasa text verbatim (the page's [...] marks a genuine elision of "thus I will be one of those who make things beautiful").
 Session total: 49 distinct pages verified (47 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 9 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Interoception: Craig 2003 abstract sentences match PubMed 12965300 efetch verbatim.
+- Empathy: the SEP Empathy (Stueber) definition sentence matches the freshly fetched plato.stanford.edu/entries/empathy/ text verbatim.
+- Equity theory: the Adams 1965 Inequity definition sentence matches the opened archive.org PDF verbatim (source uses typographic apostrophes in "Other's"; page renders straight — typographic normalization, observation only).
+- Expectancy theory: the Osafo et al. 2021 VIE sentence matches the opened SAGE article verbatim (SAGE blocked direct sandbox fetch; verified via an alternate fetch path against the same cited URL).
+- Legacy motivation research: the Fox, Tost & Wade-Benzoni 2010 abstract sentence matches the opened Cambridge page verbatim.
+- Present-moment awareness theory: the Killingsworth & Gilbert 2010 abstract sentence matches PubMed 21071660 efetch verbatim.
+Session total: 55 distinct pages verified (53 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
