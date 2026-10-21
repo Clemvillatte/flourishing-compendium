@@ -271,3 +271,17 @@
   asserted — a first-draft invented "Handbook of Self and Identity"
   volume line was caught and removed before validation.
 - Normal validator: ok. State recorded (done count 21).
+
+## Item 24: Sensation seeking (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Zuckerman, 1994" + Facets stub (mortality research) + cited-in
+  E073/D077. Full rewrite.
+- Carriers opened: (1) Zuckerman, S. Eysenck & H. J. Eysenck 1978, SSS
+  cross-cultural paper — primary PDF (hanseysenck.com). Verified verbatim
+  the four-factor definitions passage. (2) Roberti, "A review of
+  behavioral and biological correlates of sensation seeking" — PDF
+  (WKU course copy). Verified verbatim the Zuckerman 1994 p.27 definition
+  as quoted there, and the four-dimensions partition sentence.
+- Mortality facet kept as a facet heading without specific findings
+  (none opened); the facet note states only the definitional risk side.
+- Normal validator: ok. State recorded (done count 22).
