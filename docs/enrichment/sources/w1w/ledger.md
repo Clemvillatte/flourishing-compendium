@@ -201,3 +201,19 @@
   et al. 2018 support) — kept as how-clause only on the envy pages, framed
   from the Smith 2009 envy-prime summary sentence in the opened PDF.
 - Normal validator: ok. State recorded (done count 17).
+
+## Item 20: Schwartz (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "1990, 1994" — Schwartz's theory of basic human values. Person/
+  theory index page. No identity flags. Full rewrite.
+- Carrier opened: Schwartz, "An Overview of the Schwartz Theory of Basic
+  Values", Online Readings in Psychology and Culture 2(1), 2012 — full text
+  at GVSU ScholarWorks (viewcontent.cgi). Verified verbatim: the values-
+  are-beliefs/goals definition sentences, all ten defining goals (Power
+  through Security), the circular-structure sentences, and both bipolar-
+  dimension passages. 1992/1994 originals cited via Wiley DOI (not opened).
+- Seed's malformed Cited-in line ("- - ## Cited in philosophy parallels")
+  separated into two proper empty sections (no links to lose).
+- Closing paragraph marked as the compendium's use ("for the compendium's
+  purposes... this page's reading"), no invented citations.
+- Normal validator: ok. State recorded (done count 18).
