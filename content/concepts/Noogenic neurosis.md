@@ -17,7 +17,11 @@ The chapter's definition paragraph runs:
 
 > "Noögenic neuroses do not emerge from conflicts between drives and instincts but rather from conflicts between various values; in other words, from moral conflicts, or, to speak in a more general way, from spiritual problems. Among such problems, existential frustration often plays a large role."
 
-The passage also notes that within logotherapy "spiritual" does not have a primarily religious connotation but refers to the specifically human dimension. The consequence Frankl draws is that the adequate therapy for such cases is logotherapy rather than psychotherapy in general.
+The passage also notes that within logotherapy "spiritual" does not have a primarily religious connotation but refers to the specifically human dimension. The consequence Frankl draws is that the adequate therapy for such cases is logotherapy rather than psychotherapy in general:
+
+> "It is obvious that in noögenic cases the appropriate and adequate therapy is not psychotherapy in general but rather logotherapy; a therapy, that is, which dares to enter the spiritual dimension of human existence." (Frankl, The Will to Meaning, [excerpt](https://www.panarchy.org/frankl/meaning.html))
+
+The concept arrives in the book's discussion of existential frustration: "Man's will to meaning can also be frustrated, in which case logotherapy speaks of 'existential frustration'" (same excerpt). The distinction matters for anyone trying to tell suffering apart from malfunction. A person can be working badly at the psychological level, or can be working well and still starving for meaning, and the two call for different responses. The compendium's principle on noogenic-neurosis awareness uses the concept as a screening question: before treating a condition of the mind, ask whether the trouble lies in the dimension of meaning — in values in conflict, in an aspiration to a meaningful existence with nowhere to put it. Frankl's claim is not that such cases are imaginary, but that they are misdiagnosed when read as drive conflicts.
 
 ### In the compendium
 
