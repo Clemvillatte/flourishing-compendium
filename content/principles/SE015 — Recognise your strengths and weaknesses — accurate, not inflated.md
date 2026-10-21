@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 15** — Recognise your strengths and weaknesses: accurate, not inflated
 
-Knowing your actual strengths (what you are good at) and weaknesses (what you struggle with) enables better decisions, better role fit, and more effective self-development. Inflated self-view is not confidence; it is miscalibration.
+Kruger and Dunning documented the cost of an inflated self-view:
 
-**Plain words** Know your actual strengths and weaknesses — accurate, not inflated. Inflated self-view leads to overreach and defensiveness; deflated to underreach and avoidance. The accurate version is the one that leads to right roles and real development.
+> Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it.
 
-*For example:* The person who lists "detail-oriented" on every application and misses every deadline — versus the one who says "big-picture, weak on follow-through, give me a finisher" — and gets the right roles. The accuracy wasn't modesty; it was placement.
+(Kruger & Dunning, 1999, Journal of Personality and Social Psychology 77(6); [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10626367/))
+
+In their studies, participants scoring in the bottom quartile on tests of humor, grammar and logic estimated themselves to be in the 62nd percentile on scores that put them in the 12th. The abstract links this miscalibration to a deficit in metacognitive skill, and in the same studies, improving participants' skills helped them recognize the limitations of their abilities. Accuracy about weaknesses is trainable, which is what makes it a practice rather than an insult.
+
+**Plain words**
+The research reason to know your weaknesses is placement, not humility theater. An accurate inventory tells you which roles to take, which to hand off, and what to practice. The Dunning finding adds a warning: the skills you most lack are the ones that make judging your lack harder, so the audit needs outside data: results, other people's reads, measured outcomes.
+
+*For example:* Imagine the person who lists "detail-oriented" on every application and misses every deadline, versus the one who says "big-picture, weak on follow-through, give me a finisher" and gets the right roles. The accuracy was not modesty; it was placement.
+
+## Sources
+
+- Kruger & Dunning, 1999, Journal of Personality and Social Psychology 77(6):1121-1134 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10626367/)
+
 ## Psychology parallels
 
 - **[[Character strengths (Peterson & Seligman)|Character strengths (Peterson & Seligman)]]**, identifying and using signature strengths raises well-being (Peterson & Seligman, 2004; Seligman et al., 2005)
@@ -30,4 +42,4 @@ Knowing your actual strengths (what you are good at) and weaknesses (what you st
 
 ## Practice
 
-- Identify your signature strengths (use VIA Character Strengths survey). Deliberately use them in new ways. Also identify your genuine weaknesses and design around them rather than denying them.
+Identify your signature strengths, for example with the VIA Character Strengths survey, and deliberately use them in new ways. Also identify your genuine weaknesses and design around them rather than denying them.

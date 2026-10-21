@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 10,
+ "revision": 11,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -97,6 +97,24 @@
    "link": "SE014",
    "why": "A principle on auditing one's values as the practical form of the examined life",
    "notes": "SE014 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE014 occurrence; grounded in the opened MIT Classics Jowett Apology (38a passage quoted verbatim, including Jowett's 'the life which is unexamined' wording)."
+  },
+  {
+   "into": "Metacognition",
+   "link": "SE015",
+   "why": "A principle on accurate self-assessment and the metacognitive cost of inflated self-views",
+   "notes": "SE015 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE015 occurrence; grounded in the opened PubMed abstract of Kruger & Dunning 1999 (dual-burden sentence quoted verbatim; percentile finding reported without quotation marks)."
+  },
+  {
+   "into": "Intellectual humility",
+   "link": "SE015",
+   "why": "A principle on accurate self-assessment and the metacognitive cost of inflated self-views",
+   "notes": "SE015 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE015 occurrence; grounded in the opened PubMed abstract of Kruger & Dunning 1999 (dual-burden sentence quoted verbatim; percentile finding reported without quotation marks)."
+  },
+  {
+   "into": "Dunning-Kruger effect",
+   "link": "SE015",
+   "why": "A principle on accurate self-assessment and the metacognitive cost of inflated self-views",
+   "notes": "SE015 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE015 occurrence; grounded in the opened PubMed abstract of Kruger & Dunning 1999 (dual-burden sentence quoted verbatim; percentile finding reported without quotation marks)."
   }
  ]
 }
