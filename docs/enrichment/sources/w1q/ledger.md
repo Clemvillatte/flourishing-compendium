@@ -233,3 +233,29 @@ damage, w1ab left to its live holder.
 - Validation: both pages ok at each repair step (Speech Act 2x ok; Spiral 3x ok; one
   interim FAIL was a staging pattern inside the theorist's own quoted words — resolved
   with an honest-ellipsis fragment, not a wording change).
+
+## THE CAPABILITIES APPROACH — 2026-10-21 ~15:53Z, worker-pplxy-7f3d1a9c
+- Fast-track theory page (degree 5: Freedom + A006/A096/R109/R110), written to the
+  EXEMPLARS theory skeleton. Single opened carrier: SEP "The Capability Approach"
+  (Robeyns & Byskov; first published 2011, substantive revision 2025, read from the
+  page). ALL quoted fragments verified as substrings of the RAW de-tagged HTML
+  downloaded directly (curl, 153,946 bytes), not via prompted extraction:
+  two-normative-claims definition (entry opening); "Capabilities are the doings and
+  beings that people can achieve if they so choose" (entry opening, truncated at the
+  source's own en dash); "Functionings simply denotes..." (sec 2.2); Sen fasting quote
+  (Sen 1992: 52, sec 3.2, genuinely Sen's wording per the entry's citation); Nussbaum
+  threshold fragment (Nussbaum 2000: 72, sec 3.3); Sen canonical-list fragment (Sen
+  2005a: 158, sec 3.3); "Two persons with similar sets of goods..." (paraphrased,
+  not quoted); 1974/1979 origins sentence; Aristotle/Smith/Marx tracing.
+- QC: 3 advisor rounds. Round 1 FAIL (locator errors: opening quote mislabelled sec
+  2.1; revision year wrong; missing standalone theorist quote; misattributed framing
+  inside quotes; A006/A096/Related glosses overreached the principles' actual content;
+  rhetorical-question staging). Round 2 not cleared (prompted extractions do not
+  establish raw wording). Round 3 scoped PASS after raw-HTML substring verification
+  + theorist quote (Sen fasting) moved to the opening with its own hyperlink.
+- The Sen and Nussbaum books (Creating Capabilities, Development as Freedom,
+  Women and Human Development) were NOT opened; they remain seed citation lines only.
+  The page's quotes are carried by the SEP entry with the entry's own citations.
+- Everyday-life wheelchair example labelled illustrative. Front-matter and all
+  original wikilinks preserved (incl. the merged duplicate seed line in the Cited-in
+  block). Validator ok at every step.

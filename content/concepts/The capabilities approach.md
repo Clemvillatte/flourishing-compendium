@@ -13,7 +13,7 @@ The capabilities approach is a way of evaluating how well a life is going, and h
 
 Sen's own example marks the difference a person's options make:
 
-> "'fasting' as a functioning is not just starving; it is choosing to starve when one does have other options." (Sen 1992: 52, quoted in the same entry, section 3.2)
+> "'fasting' as a functioning is not just starving; it is choosing to starve when one does have other options." (Sen 1992: 52, quoted in [Robeyns and Byskov, "The Capability Approach, section 3.2"](https://plato.stanford.edu/entries/capability-approach/), Stanford Encyclopedia of Philosophy)
 
 ### Origin
 
