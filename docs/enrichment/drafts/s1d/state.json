@@ -127,8 +127,23 @@
      "note": "advisor QC fixes applied (raw-verified quotes, attribution, order, facets); story_check ok"
     }
    ]
+  },
+  "s1d-007": {
+   "status": "ready",
+   "angle": "B036 Sona Sutta AN 6.55 - the vina player whose feet bled; tune effort like a lute string",
+   "history": [
+    {
+     "t": "2026-10-21T12:39:08+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:40:07+00:00",
+     "to": "ready",
+     "note": "single primary source (AN 6.55 Thanissaro), quotes verbatim, brackets flagged; story_check ok"
+    }
+   ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:37:50+00:00"
+ "updated": "2026-10-21T12:40:07+00:00"
 }
