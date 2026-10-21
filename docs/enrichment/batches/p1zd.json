@@ -8,7 +8,6 @@
   "AF051",
   "AF064",
   "AF074",
-  "AF076",
   "AF079",
   "AF080",
   "AT002",
@@ -32,7 +31,7 @@
   "A121",
   "A118"
  ],
- "in_progress": null,
+ "in_progress": "AF076",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -42,10 +41,11 @@
   "A116": "QC-CLOSED 2026-10-21: Rhetoric II.5/NE III.6 opened; quotes checked; hope condition restored, unsupported usefulness rule removed; advisor applied; inherited parallels unverified.",
   "A117": "QC-CLOSED 2026-10-21: Rhetoric II.8/NE II.6 opened; source quotes verified; advisor-confirmed description/advice separation and layoff example repaired; inherited parallels unverified.",
   "A118": "QC-CLOSED 2026-10-21: Rhetoric II.6/NE IV.9 rechecked; precise peer-advantages/coercion scope; ancient blame disclosed and rejected; source quotes verified; contemporary reflection labelled; inherited parallels unverified.",
-  "A121": "QC-CLOSED 2026-10-21: Rhetoric I.2/II.1 opened, quotes verified; speech-earned ethos example and source links repaired; inherited parallels unverified."
+  "A121": "QC-CLOSED 2026-10-21: Rhetoric I.2/II.1 opened, quotes verified; speech-earned ethos example and source links repaired; inherited parallels unverified.",
+  "AF076": "Reopened for QC: QC: Plain words conflates stranger physiology experiment with couples and implies general disclosure benefit"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:40:23+00:00",
+ "updated": "2026-10-21T14:41:48+00:00",
  "band_done": false
 }
