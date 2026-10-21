@@ -443,3 +443,17 @@
 - Mikulincer & Shaver 2007 kept as seed citation line only (not opened,
   no claims drawn).
 - Normal validator: ok. State recorded (done count 31).
+
+## Item 35: Samsara (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Wikipedia-only stub (32 words). Seed summary kept and grounded
+  in primary carriers; full rewrite.
+- Carriers opened: Thanissaro Bhikkhu, "Samsara" (2002, accesstoinsight
+  essay) — process-not-place passage verified verbatim; SN 15.11 Duggata
+  Sutta (accesstoinsight, Thanissaro tr.) — the inconstruable-beginning
+  formula and the "swelling the cemeteries" sentence verified verbatim
+  (trailing clause trimmed to fit dash rule; full sentence in source).
+- [[Craving]] replaced with existing [[Tanha]]; Karma/Nirvana/Avidya
+  confirmed existing.
+- Normal validator: ok (after Craving fix and dash trim). State
+  recorded (done count 33).
