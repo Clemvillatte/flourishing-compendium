@@ -72,3 +72,7 @@
 
 ## R079 — Practise care across distance
 - Opened (excerpts): Oxford Academic abstract of Held 2006, PubPub summary of Held, Cameron & Payne 2011 PDF (excerpt), Unfinishable Map summary, Frontiers 2022 revisit (snippet only; results not read), Lee & Feeley 2016 abstract. Tronto 2013, Singer 2015, Batson 2011 not used. Natural-world extension unverified in sources. Identifiable-victim effect small (r=.05) and contested, so not leaned on.
+
+## R092 — Practise listening as a moral act
+- Opened (excerpts): Buber quotes via Jenny Connected blog and Salisbury text excerpt (secondary, pp. 67-84 Knowledge of Man), Rogers & Farson 1957 PDF excerpt, Elliott et al. 2011 PubMed abstract. Rogers 1961 unread.
+- Seed "listening is the primary act of I-Thou": not found in Buber passages; flagged as the page's reading. Buber quotes are secondary-site quotations (primary text unopened).
