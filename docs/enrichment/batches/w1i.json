@@ -48,14 +48,14 @@
   "System justification theory": "RESOLVED by takeover session 2026-10-20: item completed with Jost, Banaji and Nosek 2004 as opened source; see w1i-notes.md session section. QC status: first-item advisor repairs applied, re-review pending.",
   "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) — repair-presence check, not a fresh source audit",
   "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md",
-  "Anxiety about the future": "Reopened for QC: milestone QC FAIL: future-direction claims not established; CA locator inside quotes; annotations too broad (MO005/SO070/A116/S115)",
-  "Beneficial speech": "Reopened for QC: milestone QC FAIL: opening conflation, facets attribution, citation precision",
-  "Body schema": "Reopened for QC: milestone QC FAIL: origin attribution, counterpart claim, locators, annotation wording",
-  "Benign versus malicious envy": "NAMESPACE route EXECUTED 2026-10-21 by worker-w1i-f6d3f54d: granulars [[Benign envy]] + [[Malicious envy]] created (van de Ven 2009 PubMed quotes verbatim), Category B audit entry updated, comparison page now links both granulars; full relational-exposition rewrite pending; content milestone-QC scoped PASS (advisor round 2)"
+  "Anxiety about the future": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; TITLE-SCOPE HOLD retained (seed title vs possibility-framing body; supervisor disposition)",
+  "Beneficial speech": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS",
+  "Body schema": "milestone QC CLOSED 2026-10-21 (advisor round 3): substantive PASS; Vallar citation added to the first tools sentence; seed-baseline checks 4/4 ok",
+  "Benign versus malicious envy": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; NAMESPACE INTEGRATION PENDING (proposals from citing principles to the granulars; full relational-exposition rewrite) — not a namespace-complete claim; granulars recorded as source-backed pages with saturation/integration pending"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:35:24+00:00",
+ "updated": "2026-10-21T06:37:37+00:00",
  "band_done": false,
  "new_concepts": [
   {

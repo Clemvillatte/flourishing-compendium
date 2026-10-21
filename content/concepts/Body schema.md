@@ -16,7 +16,7 @@ The body schema, as described by the neurologists Henry Head and Gordon Holmes i
 
 ### Tools join the schema
 
-Head and Holmes observed that the schema extends past the skin: anything that participates in the conscious movement of our bodies is added to the model of ourselves. The review's own example is a woman's power of localization extending to the feather in her hat ([Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)).
+Head and Holmes observed that the schema extends past the skin: anything that participates in the conscious movement of our bodies is added to the model of ourselves ([Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)). The review's own example is a woman's power of localization extending to the feather in her hat ([Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)).
 
 > "Anything which participates in the conscious movement of our bodies is added to the model of ourselves and becomes part of these schemata: a woman's power of localization may extend to the feather in her hat." — Head & Holmes 1911, quoted in [Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)
 
