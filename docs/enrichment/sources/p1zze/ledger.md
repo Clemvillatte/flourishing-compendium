@@ -65,3 +65,7 @@
 ## MO015 — Cultivate autonomy
 - Opened: Ryan & Deci 2000 abstract (PubMed/APA PsycNET); APA SDT summary page; Deci et al. 1994 abstract (PubMed/Wiley); Su & Reeve 2011 abstract (ERIC); Iyengar & Lepper 1999 (MIT PDF abstract); Crum & Langer 2007 abstract.
 - Seed example "hospital cleaner study ... saw their choices" is WRONG: the study is Crum & Langer 2007 (hotel room attendants, mindset that work is exercise), not about choice. Example replaced with labelled imagined case. Ryan & Deci 2017 and Reeve 2006 unopened (flagged as such).
+
+## MO023 — Specific and difficult goals
+- Opened: Locke & Latham 2002 abstract (PubMed); Kleingeld et al. 2011 abstract (PubMed); Ordóñez et al. 2009 abstract (AOM, HBS). Full texts not opened. Locke & Latham 2006, Latham & Locke 2007, Miner 2005 unopened.
+- Seed title "vagueness kills motivation" overstated: evidence is comparative performance, not destroyed motivation; noted on page. Added critics' side-effect evidence.
