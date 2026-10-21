@@ -31,3 +31,17 @@
   be verified; the model's origin is the 2001 JAP paper, which the page is
   grounded on. No claim made about any 2009 publication.
 - Related targets Flow and Burnout verified to exist. Validator ok.
+
+## Steelmanning the opposing view (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Concept-existence grounded: the term defined in the opened Wikipedia
+  Straw man article (Steelmanning section, sentence verified verbatim by
+  direct fetch); the practice grounded in the opened Gutenberg On Liberty
+  (#34901, ch. 2): Cicero passage, "knows only his own side of the case"
+  passage and "most plausible and persuasive form" passage all verbatim.
+- SEED CORRECTION: the seed's "Steelman before critique — Stuart Mill,
+  On Liberty" line implied Mill coined the phrase; the line is now
+  labelled the compendium's practice line (the term is modern; the case
+  for the practice is Mill's). Mill's first name corrected by removal.
+- Related targets Partial truths in every opinion and Epistemic humility
+  verified to exist. Validator ok.
