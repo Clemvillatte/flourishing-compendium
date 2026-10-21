@@ -131,3 +131,13 @@ damage, w1ab left to its live holder.
   digest ED462641 and NCDA article, both OPENED; Young 2011 p. 52 via multiple
   journal PDFs in search results). Flagged for the supervisor as a verification-
   method limitation, not as a quote doubt.
+
+## ITEM: Symbolic Convergence Theory (theory page; degree 4) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Carrier: "A Communication-Ecological Account of Groups", Frontiers in Psychology 2022
+  (PMC8868150, OPENED) — reproduces Bormann's own 1985 formulation ("the appearance of a
+  group consciousness...") and the 1985 fantasy-theme and 1996 rhetorical-vision
+  sentences; all three blockquotes verified against the opened PMC page. Author-list
+  slip (an invented second author name) was caught and removed before validation;
+  the page cites the article by title. An unopened-snippet gloss about
+  "events outside the here-and-now" was removed. Advisor QC for this item falls at
+  the next 5-item boundary (items 6-10) for the next worker/session.
