@@ -54,7 +54,8 @@
   "Cardinal virtues",
   "Being-toward-death",
   "Angst",
-  "Anamnesis"
+  "Anamnesis",
+  "Amor dei intellectualis"
  ],
  "in_progress": null,
  "flagged": {
@@ -103,10 +104,11 @@
   "Cardinal virtues": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Aquinas ST I-II q61 quotes (four cardinal virtues named; virtues contained under them; prudence principal; Cicero De Invent. Rhet. ii; Plotinus fourfold) verified verbatim via opened New Advent reproduction; Plato Republic cited via Aquinas's Plotinus line rather than directly; validated --fast-track",
   "Being-toward-death": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): replaced seed's Wikipedia citation with opened SEP Heidegger article (Wrathall); SZ quotes relayed by SEP verbatim; 'no one can die for me' from seed preserved as paraphrase; validated --fast-track",
   "Angst": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): seed's Heidegger BT §40/Kierkegaard/Tillich/Yalom line kept as structure; quotable material from opened SEP Heidegger article (anxiety as finitude disclosure; flight from nothingness); Kierkegaard/Tillich/Yalom described from standard accounts, not directly quoted; validated --fast-track",
-  "Anamnesis": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Plato Meno/Phaedo 73a-b anamnesis material quoted verbatim via opened SEP Plato article (Kraut); Meno slave boy described from the SEP's summary; validated --fast-track"
+  "Anamnesis": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Plato Meno/Phaedo 73a-b anamnesis material quoted verbatim via opened SEP Plato article (Kraut); Meno slave boy described from the SEP's summary; validated --fast-track",
+  "Amor dei intellectualis": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's quote 'Blessedness is virtue itself, not its reward' NOT found in the cited SEP Spinoza article (checked) — replaced with verbatim SEP quotes on third-kind knowledge, intellectual love, and Maimonides cue; owner may wish to restore the Ethics VP42 line from an opened primary carrier"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:42:56+00:00",
+ "updated": "2026-10-21T16:43:37+00:00",
  "band_done": false
 }

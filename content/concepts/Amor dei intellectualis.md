@@ -7,7 +7,7 @@ file: "Amor dei intellectualis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-The intellectual love of God — Spinoza's highest good: loving the one substance with the third kind of knowledge, a love that cannot become hate because it is directed at what is necessary. "Blessedness is virtue itself, not its reward" ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)).
+The intellectual love of God — Spinoza's highest good: loving the one substance with the third kind of knowledge, a love that cannot become hate because it is directed at what is necessary. In the SEP's words, "What, in the end, replaces the passionate love for ephemeral 'goods' is an intellectual love for an eternal, immutable good that we can fully and stably possess, God" ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)). The third kind of knowledge generates a love for its object, and "in this love consists not a passionate joy but an active one, even blessedness itself" ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)). Spinoza takes his cue from Maimonides' view of human eudaimonia: "the mind's intellectual love of God *is* our understanding of the universe, our virtue, our happiness, our well-being and our 'salvation'" ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)).
 
 ## Related concepts
 
