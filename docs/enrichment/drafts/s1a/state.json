@@ -645,7 +645,22 @@
      "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
+  },
+  "s1a-024": {
+   "status": "qc_pending",
+   "angle": "B043: Dipa Ma's own account of insight as watching — losses, heart failure, the course of practice, and anger/desire observed to arising and passing; distinct from ST095's daily-life angle",
+   "history": [
+    {
+     "t": "2026-10-21T12:28:12+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:28:46+00:00",
+     "to": "qc_pending",
+     "note": "item 2 drafted; all 16 body quotes verified vs opened Tricycle/dipama/Wikipedia raw HTML; distinct angle vs ST095 recorded; checker 0 errors"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:28:11+00:00"
+ "updated": "2026-10-21T12:28:46+00:00"
 }
