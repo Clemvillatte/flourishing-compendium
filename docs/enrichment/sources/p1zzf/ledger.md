@@ -104,3 +104,7 @@
 ## S028 — Distinguish between needing and wanting
 - Opened: Epictetus Enchiridion 1 and 15 (Carter, MIT Classics), Seneca Letter 2 (Gummere, Standard Ebooks), SEP Stoicism (preferred indifferents), Kasser & Ryan 1993 (PubMed abstract), Brown & Kasser 2005 (ERIC abstract). Discourses, Meditations, Seneca Ep.110, Laozi, Epicurus unread.
 - Flags: seed "needs = virtue, reason, necessities" blurs the Stoic view (only virtue good; necessities are preferred indifferents). Brown & Kasser 2005 is not a "sufficiency" paper (values/mindfulness/ecological behaviour). Kasser & Ryan correlational.
+
+## S036 — Do not postpone living well
+- Opened: Seneca De Brevitate Vitae ch.1 (Basore, Wikisource) + Quotle (Latin), Kasser & Sheldon 2009 (abstract), Killingsworth & Gilbert 2010 (PubMed + Harvard Gazette). Seneca ch.7/10, Meditations, Epictetus, James unread.
+- Flags: seed "predicts well-being more than material wealth" goes beyond the abstract (positive after controlling for material affluence). Mind-wandering study is about within-moment attention, not postponement. "Retirement/project/children" is page application.
