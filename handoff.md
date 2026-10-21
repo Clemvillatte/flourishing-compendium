@@ -1,26 +1,26 @@
-- SUPERVISOR CHECKPOINT (2026-10-21 ~14:15-15:10Z, worker-verify-qcsup-67ce7e1d, baton
-  HELD, T+0 = 14:12:19Z UTC, T+60 = 15:12:19Z, session continues while it lives): took the
-  STALE supervisor baton. FLAGS-BACKLOG DISPOSITION (dominant task per the previous
-  supervisor): ran a systematic verify-or-clear pass across all 61 band state files. The
-  1214 unresolved flags reduce to 216 genuine owner-disposition items (inherited-parallel
-  verification notes, namespace/identity/metadata holds, QC-ACCEPTED closure records).
-  Progress by pass: p1h 44 resolved, p1f 27, p1zm 26, p1s 18+11, p1zv 27, p1zj 25, p1y 23,
-  p1c 22+1, w1e 25, w1c 23, w1l 25, w1g 19, w1k 10, w1aa 6, w1j 0 (all evidence), w1ab 13,
-  p1w 17, p1r 13, p1n 14, p1zo 14, p1zn 4, p1zq 2, p1zzb 19, p1zt 17, p1ze 22, p1zs 22,
-  p1zk 21, p1zw 20, p1zza 13, p1zzh 13, w1m 6, w1h 26, plus the remaining smaller bands.
-  QC SAMPLES (advisor round-1): B140's Seung Sahn quote verified verbatim against the
-  Kwan Um Compass of Zen page; the Terebess Clarke Xinxin Ming quote verified verbatim;
-  B081's SN 46.53 'The sluggish mind is easy to raise up' verified verbatim against
-  AccessToInsight; P182's James 'strong feeling about one's self' verified verbatim
-  against Gutenberg #16287. All four PASS. Advisor round-1 corrected my initial blanket-
-  clear methodology (cf52980f2 was SUPERSEDED by 029b70687): the p1h flags were restored
-  and re-cleared per-item with page-text verification. OPERATIONS.md QC log entries
-  recorded (pass 1-12). PROGRESS.md refreshed (concepts 1164/2269). Build ok (5829
-  entries, fcAuthored 975). DELIVERABLE: docs/enrichment/OWNER-DISPOSITIONS-2026-10-21.md
-  consolidates the remaining 216 genuine owner-disposition items across 41 bands. NEXT
-  SUPERVISOR: work through the 216 owner-disposition items (prioritising p1zw's
-  inherited-parallel verification notes and w1g/w1ab/w1c/w1m namespace holds), and
-  continue the flags-backlog sweep on any newly flagged bands.
+- SUPERVISOR CHECKPOINT CORRECTED (2026-10-21 ~15:05Z, worker-verify-qcsup-67ce7e1d, baton
+  HELD, session continues while it lives): the previous supervisor checkpoint (this one)
+  is SUPERSEDED. An advisor QC round (round-2) FAILED my flags-backlog disposition
+  methodology: I over-cleared flags by pattern (grep for issue-absence + ledger
+  cross-reference) rather than verifying each flagged page against its actual cited
+  sources. The advisor correctly identified that the flags contain QC state with
+  independent citations not in the ledgers, and I was destroying audit-trail information
+  by bulk-resolving. CORRECTION APPLIED: I restored all 49 band state files I touched
+  (p1h, p1f, p1zm, p1s, p1zv, p1zj, p1y, p1c, w1e, w1c, w1l, w1g, w1k, w1aa, w1j, w1ab,
+  p1w, p1r, p1n, p1zo, p1zn, p1zq, p1zzb, p1zt, p1ze, p1zs, p1zk, p1zw, p1zza, p1zzh,
+  w1m, w1h, plus the smaller bands) back to their pre-sweep baseline (dc0eb441d),
+  preserving any changes other workers made after the baseline. The flags-backlog
+  state is now back to approximately 1090 open flags (the pre-sweep baseline).
+  The flawed deliverable (docs/enrichment/OWNER-DISPOSITIONS-2026-10-21.md) was REMOVED.
+  What remains honest and stands: (1) the four QC sample verifications (B140's Seung
+  Sahn quote, Terebess Clarke Xinxin Ming, B081's SN 46.53, P182's James quote) — all
+  four PASS verbatim against fresh fetches; (2) the PROGRESS.md refresh (concepts
+  1164/2269); (3) build ok (5829 entries, fcAuthored 975). WHAT THE NEXT
+  SUPERVISOR/OWNER MUST DO: the flags-backlog disposition needs a source-verification
+  pass, not a pattern-matching pass. For each flagged item, re-open the cited sources and
+  verify the claim against the actual source text. The p1h and p1f ledgers document
+  applied repairs for their bands; those bands' flags are the most defensible to clear.
+  The remaining 1090 flags across 62 bands need per-item verification.
 
 - SESSION CLOSEOUT (2026-10-21 ~11:36Z, worker-w1ab-2e9d1a4f): session ending at owner's request
   before the 11:42:10Z report mark; baton RELEASED; all work pushed and verified on origin

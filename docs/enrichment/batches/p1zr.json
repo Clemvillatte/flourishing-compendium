@@ -34,8 +34,8 @@
  ],
  "in_progress": null,
  "flagged": {
-  "AF059": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance]",
-  "AF063": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy]",
+  "AF059": "Reopened for QC: takeover QC round 3 (advisor): Practice outcome promise replaced with source-bounded guidance",
+  "AF063": "Reopened for QC: takeover QC round 4 (advisor): Plain-words staging + attention-training mechanism overstatement + For example construction + introduction framing accuracy",
   "AT068": "inherited-unverified attribution: Weil, Waiting for God (The discipline of attention) \u2014 philosophy-parallel bullet not verified against an opened source this session; supervisor review requested",
   "AT072": "inherited-unverified attributions: Nietzsche (The Gay Science), Tedeschi & Calhoun 1996, St John of the Cross (The dark night) \u2014 philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",
   "BE008": "inherited-unverified attributions: Buddhism (The middle way), Heraclitus (fragments) \u2014 philosophy-parallel bullets not verified against opened sources this session; supervisor review requested",

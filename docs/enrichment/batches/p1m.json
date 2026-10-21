@@ -35,11 +35,11 @@
  "in_progress": null,
  "flagged": {
   "B034": "Research-selection error: B034 is outside p1m and already complete in p1i. No B034 content or source-ledger edits were made; clear mistaken in_progress and continue with manifest B037.",
-  "B091": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction round 2: plain-words replicate replaced (advisor text)]",
-  "B101": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC correction round 2: plain words replaced, Shantideva 3.1 standalone blockquote]",
-  "B125": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC2: research-process wording in article (seed citation phrasing, opened-for-this-page phrasing)]",
-  "B139": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC2: Rilke sentences need immediate citation; ledger extraction wording]",
-  "B142": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC2: Kahan gloss outside protected link; seed-citation sentence wording; MN 18 ledger extraction wording]"
+  "B091": "Reopened for QC: QC correction round 2: plain-words replicate replaced (advisor text)",
+  "B101": "Reopened for QC: QC correction round 2: plain words replaced, Shantideva 3.1 standalone blockquote",
+  "B125": "Reopened for QC: QC2: research-process wording in article (seed citation phrasing, opened-for-this-page phrasing)",
+  "B139": "Reopened for QC: QC2: Rilke sentences need immediate citation; ledger extraction wording",
+  "B142": "Reopened for QC: QC2: Kahan gloss outside protected link; seed-citation sentence wording; MN 18 ledger extraction wording"
  },
  "missing_concepts": [
   {

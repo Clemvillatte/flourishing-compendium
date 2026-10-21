@@ -34,12 +34,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "D113": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC: causal sleep claims unsupported]",
-  "D122": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC repair verified]",
-  "D136": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC repair verified]",
-  "D167": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC: overextended commentary]",
-  "D191": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC: unlabelled reading; ch20 scope]",
-  "P007": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 9, ledger cross-ref): the flag describes a QC repair; the band ledger documents the repair as applied and validated. [orig: Reopened for QC: QC self-check: premature done; file not yet written]"
+  "D113": "Reopened for QC: QC: causal sleep claims unsupported",
+  "D122": "Reopened for QC: QC repair verified",
+  "D136": "Reopened for QC: QC repair verified",
+  "D167": "Reopened for QC: QC: overextended commentary",
+  "D191": "Reopened for QC: QC: unlabelled reading; ch20 scope",
+  "P007": "Reopened for QC: QC self-check: premature done; file not yet written"
  },
  "missing_concepts": [],
  "sources_checked": 0,
