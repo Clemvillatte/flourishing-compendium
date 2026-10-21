@@ -20,7 +20,7 @@ The studies' answers to the authors' three questions were yes, yes and no: stude
 
 **Plain words** The studies made deadlines real: grade penalties for late papers, a dollar a day for late proofreading. Within those settings, tighter schedules brought more errors caught and less enjoyment of the task. If you try this, the exercise is to spread dates across the work, then look at both whether it helped and what the schedule cost.
 
-*For example:* In [Study 2](https://people.duke.edu/~dandan/webfiles/PapersPI/Procrastination%20Deadlines%20and%20Performance.pdf), one proofreading group submitted one of three texts every seven days; another submitted all three at the end. The evenly spaced schedule produced more correctly detected errors.
+*For example:* In [Study 2](https://people.duke.edu/~dandan/webfiles/PapersPI/Procrastination%20Deadlines%20and%20Performance.pdf), one proofreading group submitted one of three texts every seven days; another submitted all three at the end. The evenly spaced schedule produced more correctly detected errors ([Ariely & Wertenbroch, 2002, Study 2](https://people.duke.edu/~dandan/webfiles/PapersPI/Procrastination%20Deadlines%20and%20Performance.pdf)).
 
 ## Sources
 
