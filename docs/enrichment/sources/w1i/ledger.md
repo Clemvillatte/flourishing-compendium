@@ -505,3 +505,8 @@ binge/intoxication, withdrawal/negative affect) verified VERBATIM. RESULT: all f
 pages awaiting QC (Ockham's razor, Obedience research, Neuroaesthetics, Neurobiology of
 addition) spot-checked PASS at the quote level this session — strong signal for the
 supervisor's formal QC round; no repairs found.
+
+## Held-item check: Neuroplasticity (2026-10-21 14:15 UTC, worker-perplexity-67ce7e1d)
+The handoff's standing hold re-checked: PubMed record 14737157 (Draganski 2004) still shows
+"No abstract available" — the blocker for the held Neuroplasticity item persists. The next
+worker still needs a different carrier (e.g. the journal page or a review quoting the findings).
