@@ -18,7 +18,7 @@ A progressive pathway through a year of qi gong. Choose the guided route below, 
 ## Start practicing
 
 ### Your first session
-[The Magic 5 morning routine](https://www.learnqigong.com/videos/)
+[The Magic 5 morning routine](https://www.youtube.com/watch?v=6iGAwLJOjJ0)
 
 **Teacher:** Christopher Grant and Daniela Hess, Learn Qigong studio
 **Duration:** 14 minutes
@@ -26,7 +26,7 @@ A progressive pathway through a year of qi gong. Choose the guided route below, 
 **Why start here:** A complete morning routine from a small studio with over two decades of teaching behind it, short enough to do on a bad day.
 
 ### Short on time
-[Tension-release routine](https://www.learnqigong.com/videos/) — 8 minutes, free, same library.
+[Tension-release routine](https://www.youtube.com/watch?v=zkgqvqr71qw) — 8 minutes, free, same studio.
 
 ### Prefer a structured course
 [Introduction to Qigong Theory and Practice](https://academy.longwhitecloudqigong.com) — a free structured course from John Munro's Long White Cloud Qigong, a network of over 450 instructors.
@@ -56,7 +56,7 @@ A progressive pathway through a year of qi gong. Choose the guided route below, 
 Build the daily habit before anything else.
 
 **Core practice**
-- [Magic 5 morning routine](https://www.learnqigong.com/videos/) — 14 min; free.
+- [Magic 5 morning routine](https://www.youtube.com/watch?v=6iGAwLJOjJ0) — 14 min; free.
 - [Introduction to Qigong Theory and Practice](https://academy.longwhitecloudqigong.com) — one lesson weekly; free course.
 
 **Weekly progression**
@@ -90,7 +90,7 @@ Build the daily habit before anything else.
 **Weeks 9–12 · Free**
 
 **Core practice**
-- Standing sessions on [YoQi's channel](https://videos.yoqi.com) — free content on their YouTube channel.
+- [5 Minutes of Zhan Zhuang Self Practice](https://videos.yoqi.com/video/959) — YoQi's standing-meditation series, set on a Thai lagoon; free with trial.
 - Wiki protocol [[K114 — Standing meditation (zhan zhuang)]] — build from five minutes, add one minute weekly.
 
 **Checkpoint**
@@ -102,8 +102,8 @@ Build the daily habit before anything else.
 **Weeks 13–16 · Free**
 
 **Core practice**
-- [QiGong for Vitality](https://www.youtube.com/@ThinkVitalityQiGong) — registered acupuncturist Jeffrey Chand's free library, sorted by length, theme, and level.
-- Structure: three morning sessions, two themed (sleep, anxiety, seasonal), one long class.
+- [Simple Qigong Routine — 10 Minute Practice](https://www.youtube.com/watch?v=566FRtbz_bw) — registered acupuncturist Jeffrey Chand's most popular routine.
+- [His full free library](https://www.youtube.com/@ThinkVitalityQiGong) — sorted by length, theme, and level. Structure: three morning sessions, two themed (sleep, anxiety, seasonal), one long class.
 
 **Checkpoint**
 - [ ] Three routines in regular rotation from memory of where they live.
@@ -114,7 +114,7 @@ Build the daily habit before anything else.
 **Weeks 17–20 · Free**
 
 **Core practice**
-- [Breath, Sound, Body meditation](https://www.uclahealth.org/uclamindful/guided-meditations) — UCLA Mindful, 12 min, free, with transcript.
+- [Breath, Sound, Body meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/02_Breath_Sound_Body_Meditation.mp3) — UCLA Mindful, 12 min, free audio; [transcripts and more languages](https://www.uclahealth.org/uclamindful/guided-meditations) on the library page.
 
 **Course material**
 - [[K111 — Interoceptive awareness]] and [[K102 — Body scan]] — the evidence-based cousins of "feeling the qi".
@@ -128,6 +128,7 @@ Build the daily habit before anything else.
 **Weeks 21–24 · Free**
 
 **Core practice**
+- [Healing Qigong for a Heavy Heart](https://www.youtube.com/watch?v=07T57Erqbr8) — a 24-minute class working with heart and lung energy; free.
 - [Emotional alchemy mini-course](https://longwhitecloudqigong.com/free-qigong-videos/) — free.
 
 **Course material**
@@ -142,7 +143,8 @@ Build the daily habit before anything else.
 **Weeks 25–28 · Free sequences; book paid**
 
 **Core practice**
-- Mimi Kuo-Deemer's free YouTube sequences via [her site](https://www.mimikuodeemer.com); her book *Qigong and the Tai Chi Axis* is this module's reading.
+- [8 Brocades Qigong Practice](https://www.youtube.com/watch?v=3K-0JpiJu-o) — Mimi Kuo-Deemer's full guided practice, 18 min; free.
+- [Qigong: The 18 Forms — Day 1](https://www.youtube.com/watch?v=EDrcUP9kqcs) — the first class of her six-part Shibashi series; free. Her book *Qigong and the Tai Chi Axis* is this module's reading.
 
 **Checkpoint**
 - [ ] One full sequence followed start to finish.
@@ -153,7 +155,8 @@ Build the daily habit before anything else.
 **Weeks 29–32 · Free lessons; full programs paid**
 
 **Core practice**
-- [Dr. Paul Lam's free lessons](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/) — a family physician whose Tai Chi for Arthritis program is recommended by the US Centers for Disease Control and Prevention for fall prevention.
+- [Tai Chi for Beginners — free lesson](https://www.youtube.com/watch?v=hIOHGrYCEJ4) — Dr. Paul Lam's free first lesson (44 min), from a family physician whose Tai Chi for Arthritis program is recommended by the US Centers for Disease Control and Prevention for fall prevention.
+- [His full free lessons page](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/) — beginner, energy, and arthritis programs.
 
 **Checkpoint**
 - [ ] Six beginner steps completed.
@@ -247,6 +250,3 @@ The claims above are traditional framing; the research summary lives in [[K201 �
 | ![](https://www.google.com/s2/favicons?domain=www.learnqigong.com&sz=64) | [Learn Qigong — courses](https://www.learnqigong.com/videos/) | The small studio's full working curriculum beyond the free video library. |
 | ![](https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64) | [QiGong for Vitality — free library](https://www.youtube.com/@ThinkVitalityQiGong) | Jeffrey Chand's free follow-along library, sorted by theme, length, and fitness level. |
 
-## Curation status
-
-This is a format prototype. The resource provenance was checked at the level of studios, institutes, and channels; individual sessions inside each library were not all inspected. The curation task for the next pass is to verify individual sessions and playlists within each library, so the module cards can link direct sessions rather than libraries.
