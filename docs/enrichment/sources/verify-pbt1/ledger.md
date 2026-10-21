@@ -465,3 +465,22 @@ Gevirtz fulltext, Wikipedia "Kalokagathia", Bilkent repository Wolt (EE VIII.3 s
    verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 22 (16:33Z) — w1aa quote-fidelity verification, twenty-first batch
+
+Carriers opened fresh: Gadamer "On the Circle of Understanding" PDF (Washington),
+Yuan Ding ICOMOS PDF, Wikipedia "Feng shui", OpenAIRE Triandis 1993 record,
+ERIC ED470007 (Hartung et al review).
+
+1. Hermeneutic circle — both blockquotes VERBATIM vs the opened Gadamer essay (the
+   earlier pcd-routed comma issue did not reproduce in this extraction: the current
+   page text matches the current extraction; noted, no action).
+2. Feng shui (harmonious environment) — all Yuan Ding paper quotations VERBATIM
+   (Ci-hai definition, kanyu term, Xue aim, sitting-north-facing-south, two problems,
+   Wudang re-definition); the Wikipedia inline quotations (wind-water literal, Form
+   branch, luopan) VERBATIM.
+3. Individualism collectivism theory Triandis — the 1993 cultural-syndrome definition
+   blockquote VERBATIM vs the OpenAIRE record; the Triandis/Brislin/Hui 1988 p. 274
+   one-liner and the Triandis 1994 p. 2 elaboration VERBATIM vs the opened ERIC review.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
