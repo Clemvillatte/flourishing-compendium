@@ -239,6 +239,15 @@
     "https://www.simplypsychology.org/interoception.html"
    ],
    "video_verified": "UCLA Mindful library (breath-sound-body) + honest self-guided note"
+  },
+  {
+   "id": "K406",
+   "title": "Compassionate letter to yourself",
+   "status": "done",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
+   ],
+   "notes": "Enriched 2026-10-21 worker-kpr-pplc-f3d97a21 from the owner-uploaded Kolts book (ch. 9, pp. 124-126): verbatim quotes (compassionate-self entering image p. 125; product rationale p. 124; sentence starters; no-right-or-wrong), protocol steps, qualities checklist, Related concepts added (Expressive writing, Self-compassion, CFT), Operationalises converted to list. Validator clean --base b9dbc3175."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -273,10 +282,11 @@
   "Scheduled empty time",
   "Rest as practice",
   "Cultivate your Compassionate Self",
-  "Compassion for a struggling version of yourself"
+  "Compassion for a struggling version of yourself",
+  "K406"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T15:37:04+00:00",
+ "updated": "2026-10-21T15:38:52+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
