@@ -20,7 +20,7 @@ The audience-transfer framing is the compendium's. The tradition describes accou
 
 ### Scope
 
-I read the hadith and muraqabah descriptions in secondary and online sources only; I did not open a classical Sufi text. The experiment suggested in the seed (recall the witness before each act) has no study behind it that I found. Watching-eyes research concerns painted eyes, not belief in a divine witness.
+The hadith and muraqabah descriptions on this page come from secondary and online sources; no classical Sufi text is quoted. The exercise suggested in the seed (recall the witness before each act) has no study behind it in the sources opened for this page. Watching-eyes research concerns painted eyes, not belief in a divine witness.
 
 **Plain words**
 Muraqabah is acting as though you are seen. The tradition frames this as awareness of God's presence, and it ranges from fear to hope.

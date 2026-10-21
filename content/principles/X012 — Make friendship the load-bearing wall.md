@@ -20,7 +20,7 @@ Vatican Saying 23 says friendship is desirable in itself though it begins in ben
 
 ### Scope
 
-The sources support friendship as security and as chosen for itself, with disagreement about the second point. I could not open a full text of Principal Doctrine 27, so I do not quote it. "Load-bearing wall" and the advice to schedule and invest in friendships are the compendium's, not Epicurus's. I did not open Holt-Lunstad 2010.
+The sources support friendship as security and as chosen for itself, with disagreement about the second point. A full text of Principal Doctrine 27 was not available, so it is not quoted. "Load-bearing wall" and the advice to schedule and invest in friendships are the compendium's, not Epicurus's. Holt-Lunstad 2010 is listed as further reading, not summarized here.
 
 **Plain words**
 For Epicurus, a friend is mainly security: you can count on them. He also says friendship is worth having for itself.

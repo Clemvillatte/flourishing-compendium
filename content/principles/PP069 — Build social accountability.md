@@ -22,7 +22,7 @@ Telling people can also backfire. In four experiments, Gollwitzer and colleagues
 
 ### Scope
 
-The seed's claim of a "well-documented effect" of accountability is stronger than what I found. I did not find a trial of an accountability partner who does not share the practice, and I did not open Best 2016. I read Gollwitzer 2009 only through a secondary summary.
+The seed's claim of a "well-documented effect" of accountability is stronger than the sources opened for this page support. No trial of an accountability partner who does not share the practice was found, and Best 2016 is listed as further reading, not summarized here. Gollwitzer 2009 is represented through a secondary summary.
 
 **Plain words**
 Reporting your progress to another person tends to help follow-through, but the evidence is modest.

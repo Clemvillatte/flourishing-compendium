@@ -22,7 +22,7 @@ Asch's experiments show how heavy the pressure is. On critical trials about one 
 
 ### Scope
 
-I opened Emerson's lines through a quotation page, not the essay in full, and Asch through secondary summaries, not his 1956 monograph. "A crowd of two" is the compendium's phrase; Emerson does not use it in the lines I read. The suggested exercise is the compendium's.
+Emerson's lines are quoted through a quotation page rather than the essay in full, and Asch through secondary summaries rather than his 1956 monograph. "A crowd of two" is the compendium's phrase; Emerson does not use it in the lines quoted. The suggested exercise is the compendium's.
 
 **Plain words**
 Emerson says agreement has a price: your own judgment. Asch shows how strong the pull is, and that one ally eases it.

@@ -20,7 +20,7 @@ The evidence on what rest does is correlational. A meta-analysis of 91 samples (
 
 ### Scope
 
-These studies concern recovery from paid work. I found no evidence here on whether scheduled rest keeps wellbeing practices from becoming stressful, which is the seed's claim. The evidence is correlational. I did not open Sonnentag 2018 directly.
+These studies concern recovery from paid work. The sources opened for this page give no evidence on whether scheduled rest keeps wellbeing practices from becoming stressful, which is the seed's claim. The evidence is correlational. Sonnentag 2018 is listed as further reading, not summarized here.
 
 **Plain words**
 Mentally leaving work, relaxing and doing something that builds skill are linked with feeling better. Rest that is planned in tends to be rest you get.

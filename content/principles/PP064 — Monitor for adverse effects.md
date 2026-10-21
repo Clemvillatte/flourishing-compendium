@@ -20,7 +20,7 @@ Monitoring is hard in practice. In a review of 231 mindfulness trials, 84.4% con
 
 ### Scope
 
-I did not find or open sources for the seed's claims about gratitude producing guilt or positive reframing feeling invalidating, so I do not state them as findings. I did not open Van Gordon 2017 or Dobkin 2021.
+Sources for the seed's claims about gratitude producing guilt or positive reframing feeling invalidating were not found or opened, so they are not stated as findings. Van Gordon 2017 and Dobkin 2021 are listed as further reading, not summarized here.
 
 **Plain words**
 Wellbeing practices can sometimes make people feel worse. Check how a practice is affecting you, and change or stop it if it does harm.

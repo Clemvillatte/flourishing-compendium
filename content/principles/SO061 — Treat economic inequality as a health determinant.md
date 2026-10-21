@@ -18,7 +18,7 @@ Individual studies disagree. A Norwegian register study with 58.5 million person
 
 ### Scope
 
-I did not open The Spirit Level, Snowdon 2010, Marmot 2004 or Kawachi and Berkman 2000. The seed's claim that inequality harms people "near the top" was not checked, and its example of a richer but more unequal society is not sourced.
+The Spirit Level, Snowdon 2010, Marmot 2004 and Kawachi and Berkman 2000 are listed as further reading, not summarized here. The seed's claim that inequality harms people "near the top" was not checked against an opened source, and its example of a richer but more unequal society is not sourced.
 
 **Plain words**
 Many studies link larger income gaps with worse health, but the effect sizes are modest and some large studies find none.
