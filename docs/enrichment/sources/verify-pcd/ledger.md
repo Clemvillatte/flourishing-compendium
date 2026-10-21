@@ -381,3 +381,7 @@ QC-closed).
 - Gullotta EOLSS blockquote EXACT vs the opened sample chapter PDF (the source uses
   curly double quotes around 'analytical psychology', the page renders single; wording
   verbatim, typographic difference only).
+
+### w1k "Attentional deployment theory" — quote fidelity PASS (verification pass)
+- Gross & Barrett 2011 sentence EXACT vs the opened PMC article (source italicizes
+  "Attentional deployment"; wording verbatim).
