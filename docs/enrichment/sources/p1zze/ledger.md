@@ -33,3 +33,7 @@
 - Opened: León-Portilla 1995 Voices of Mexico (search excerpt, UNAM PDF 3010); "Death in Mexico's Pre-Hispanic Poetry" Voices of Mexico (PDF 8019; Ayocuan, Garibay); León-Portilla 1999 Islands of History (Cuacuauhtzin fol. 26r); Hall et al. 2011 BMJ Support Palliat Care (PubMed 24653477, N=45; mixed: no distress difference, more hope).
 - SELF-CORRECTION: my first M012 draft quoted a translation of the "jade breaks" lines that did not match the fetched Islands of History text (it matched the Voices of Mexico translation). M012 now quotes the fetched Islands of History wording verbatim. M039 quotes the Voices of Mexico translation verbatim from its source excerpt.
 - Seed: "making is the only register death cannot reach" -> not claimed; sources show the poets doubting. Erikson unopened (bare ref).
+
+## M040 — Meet death with a made face
+- Opened: Florentine Codex Book VI OCR (funeral speeches/prayers on war dead — destination cosmology, out of scope; no counsel on affairs/farewells found); León-Portilla 1995 Voices of Mexico (poem quoted verbatim); Detering et al. 2010 BMJ (PubMed 20332506, N=309). Cozzolino unopened (bare).
+- Seed "composure not panic / affairs in order / farewells" NOT found in the Nahua text opened -> labelled modern application; seed "removes everyday anxiety" dropped (trial measured relatives' distress, not patients' anxiety).
