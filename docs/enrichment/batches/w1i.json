@@ -32,10 +32,10 @@
   "Working memory model Baddeley",
   "Worry theory cognitive avoidance Borkovec",
   "Akrasia (weakness of will)",
-  "Anxiety about the future",
   "Beneficial speech",
   "Benign versus malicious envy",
-  "Body schema"
+  "Body schema",
+  "Anxiety about the future"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,10 +47,11 @@
   "Stress cycle completion (Nagorski, Sapolsky)": "Attribution/title caveat: opened source names Emily and Amelia Nagoski; legacy Sapolsky link not certified. Supervisor rename/reference proposal in w1i-proposals.md; protected identifiers unchanged.",
   "System justification theory": "RESOLVED by takeover session 2026-10-20: item completed with Jost, Banaji and Nosek 2004 as opened source; see w1i-notes.md session section. QC status: first-item advisor repairs applied, re-review pending.",
   "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) — repair-presence check, not a fresh source audit",
-  "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md"
+  "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md",
+  "Anxiety about the future": "Reopened for QC: milestone QC FAIL: future-direction claims not established; CA locator inside quotes; annotations too broad (MO005/SO070/A116/S115)"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:27:11+00:00",
+ "updated": "2026-10-21T06:30:53+00:00",
  "band_done": false
 }
