@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 15** — Recognise your strengths and weaknesses: accurate, not inflated
 
-Kruger and Dunning documented the cost of an inflated self-view:
+Kruger and Dunning suggest an explanation for overestimation in their 1999 abstract:
 
 > Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it.
 
 (Kruger & Dunning, 1999, Journal of Personality and Social Psychology 77(6); [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/10626367/))
 
-In their studies, participants scoring in the bottom quartile on tests of humor, grammar and logic estimated themselves to be in the 62nd percentile on scores that put them in the 12th. The abstract links this miscalibration to a deficit in metacognitive skill, and in the same studies, improving participants' skills helped them recognize the limitations of their abilities. Accuracy about weaknesses is trainable, which is what makes it a practice rather than an insult.
+Across four studies involving humor, grammar and logic, low-scoring participants overestimated their standing. The abstract reports 12th-percentile performance and a 62nd-percentile self-estimate for the bottom-quartile participants. Improving participants' task skills also helped them recognize limitations in their abilities.
 
 **Plain words**
-The research reason to know your weaknesses is placement, not humility theater. An accurate inventory tells you which roles to take, which to hand off, and what to practice. The Dunning finding adds a warning: the skills you most lack are the ones that make judging your lack harder, so the audit needs outside data: results, other people's reads, measured outcomes.
+Choose one specific skill rather than rating your overall competence. Write down what you think you can do, then compare that estimate with a result you can inspect. Use any discrepancy to decide what to investigate or practise next.
 
-*For example:* Imagine the person who lists "detail-oriented" on every application and misses every deadline, versus the one who says "big-picture, weak on follow-through, give me a finisher" and gets the right roles. The accuracy was not modesty; it was placement.
+*For example:* Imagine predicting your score on a task, then checking the result: the gap between the two is the calibration you are training, not a verdict on your worth.
 
 ## Sources
 
@@ -42,4 +42,4 @@ The research reason to know your weaknesses is placement, not humility theater. 
 
 ## Practice
 
-Identify your signature strengths, for example with the VIA Character Strengths survey, and deliberately use them in new ways. Also identify your genuine weaknesses and design around them rather than denying them.
+Choose one specific skill. Write down what you think you can do with it, then compare that estimate with a result you can inspect, and use any discrepancy to decide what to investigate or practise next.
