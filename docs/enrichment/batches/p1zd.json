@@ -2,7 +2,6 @@
  "batch": "p1zd",
  "done": [
   "A019",
-  "A059",
   "A095",
   "A107",
   "A112",
@@ -32,12 +31,13 @@
   "BE003",
   "A056"
  ],
- "in_progress": null,
+ "in_progress": "A059",
  "flagged": {
-  "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope."
+  "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
+  "A059": "Reopened for QC: QC: VII.10 city/criminal quotations missing from parenthetical and Sources locator"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:28:35+00:00",
+ "updated": "2026-10-21T14:28:40+00:00",
  "band_done": false
 }
