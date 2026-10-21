@@ -24,3 +24,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Independent milestone advisor confirmed the prior Plain words left the aims too open. The rewrite distinguishes reported disagreement from Aristotle's public-education, virtue and leisure commitments, while retaining the open question about the precise liberal curriculum.
 - Replaced the silently corrected `No ne` transcription with a clean, complete, verbatim VIII.1 sentence about training and habituation. Checked every retained quotation fragment.
 - Removed an unsupported assertion about what most modern readers want. The contemporary reflection and parent-teacher example remain clearly separate from historical reporting.
+
+## A112
+
+- Opened [NE X.6](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html), [Politics VII.14](https://classics.mit.edu/Aristotle/politics.7.seven.html) and [Politics VIII.3](https://classics.mit.edu/Aristotle/politics.8.eight.html); checked the amusement, medicines, leisure and war/peace quotations.
+- Correction to the reopening hypothesis: the current card does not contain the initially suspected `necessary and useful` quotation. Checking the current file against the baseline rejected that hypothesis. No quotation was altered on that basis; the card's actual war/peace quotation matches the opened source.
+- Actual repair: split the bundled Politics source row into direct links to both books and remove the unused VII.15 parenthetical. Plain words now distinguishes recovery and intrinsically valued activity without the dismissive `slumping after work` phrasing.
+- Final practical reassurance is the compendium's reflection, not a claim that Aristotle supplied a contemporary theory of rest guilt. Protected material and inherited parallels preserved.

@@ -20,16 +20,17 @@ Leisure is the other term. In [Politics VIII.3 (Jowett, MIT Classics)](https://c
 
 Amusements "should be our medicines", whereas "leisure of itself gives pleasure and happiness and enjoyment of life". The same ordering runs through the state: "there must be war for the sake of peace, business for the sake of leisure" ([Politics VII.14](https://classics.mit.edu/Aristotle/politics.7.seven.html)).
 
-(Politics VII.14-15, VIII.3; NE X.6.)
+(Politics VII.14, VIII.3; NE X.6.)
 
-**Plain words** Rest is fine, and Aristotle says people need it. What he rejects is treating rest as the point of the day. He wants some of your time to go to activity that is its own reward, which in his own sense of leisure means learning and thought, and that is a different thing from slumping after work.
+**Plain words** Amusement helps us recover; Aristotle recognises that need. His question is what we recover for. Leisure, in this argument, includes activities worth doing for themselves, such as learning and thought. Rest after work and time spent on something we value have different places in that account. This need not become a reason to feel guilty about needing rest.
 
 For example (imagined): an evening of television after a heavy shift is amusement doing its proper job. Two evenings a week spent on a piece of music you are slowly learning, with no deadline, is closer to what he means by leisure.
 
 ## Sources
 
 - [Aristotle, Nicomachean Ethics X.6, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)
-- [Aristotle, Politics VII.14 and VIII.3, trans. Benjamin Jowett, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/politics.8.eight.html)
+- [Aristotle, Politics VII.14, trans. Benjamin Jowett, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/politics.7.seven.html)
+- [Aristotle, Politics VIII.3, trans. Benjamin Jowett, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/politics.8.eight.html)
 
 ## Psychology parallels
 
