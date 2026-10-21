@@ -2215,3 +2215,10 @@ Verification pass 99 (worker-glmc4a): 3 principle pages, ALL PASS (with disclose
 - A008 (NE I.7 Ross, "one swallow"): matches verbatim.
 - A005: no displayed quotations — nothing to verify.
 RUNNING TOTAL: 321 page-checks across 99 verification passes.
+
+Verification pass 100 (worker-glmc4a): 2 principle pages, ALL PASS (with disclosed observations); 1 not reached; 1 with no displayed quotes.
+- A009 (Eudemian Ethics VIII.3, Solomon 1915): quote #2 matches verbatim; quote #1 is present verbatim — the initial NOT FOUND was a footnote-marker artifact (the source prints "healthy in no part of 15 it" with a bracketed footnote number where the wiki page omits it); with the marker removed the wording matches verbatim. Disclosed.
+- A012 (NE III.10 Ross, MIT Classics): the quote is present verbatim — the initial NOT FOUND was a boundary-punctuation artifact (the wiki page closes the quote with "pains)." where the source continues "pains); self-indulgence" — the quote is truncated mid-sentence and the period is an editorial closure); the quote text itself matches verbatim. Disclosed.
+- A011 (NE III.6, Rackham translation): the Rackham carrier was not downloaded this session; not reached.
+- A010: no displayed quotations — nothing to verify.
+RUNNING TOTAL: 323 page-checks across 100 verification passes.
