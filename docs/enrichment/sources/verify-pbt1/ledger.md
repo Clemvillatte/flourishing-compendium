@@ -303,3 +303,20 @@ Imes 1978 author-hosted PDF, ERIC EJ735948 (Tylka 2006 abstract).
    supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 13 (16:33Z) — w1aa quote-fidelity verification, twelfth batch
+
+Carriers opened fresh: Beyond Fiasco PDF (re-opened for the Janis/Aldag-Fuller/Whyte
+quotes), Rogers 1959 chapter PDF (archive.org CDN host), Wikipedia "Groupthink"
+(re-opened for the Whyte origin and prevention passages).
+
+1. Groupthink theory — Janis 1972 p. 9 blockquote VERBATIM (as quoted in the review);
+   the "deterioration of mental efficiency" sentence VERBATIM; the Aldag & Fuller
+   standing assessment VERBATIM; the Whyte 1989 quote VERBATIM; Whyte 1952 Fortune
+   origin and the prevention procedures (critical evaluator, independent groups, devil's
+   advocate) verbatim-supported by the Wikipedia carrier.
+2. External-locus-of-evaluation research — blockquote VERBATIM (Rogers 1959 p. 210);
+   the internal-locus definition and the therapy-outcome sentences (client increasingly
+   experiences himself as the locus of evaluation) verbatim-supported (pp. 210, 216, 218).
+
+Result: 2/2 quotation fidelity PASS, no defects this round.
