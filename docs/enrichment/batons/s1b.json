@@ -20,7 +20,14 @@
    "at": "2026-10-21T12:03:51+00:00",
    "from": "storyteller-glm53-886c2f0e",
    "reason": "stale (1274 min); parallel claim by glm53-886c2f0e acknowledged in commit history"
+  },
+  {
+   "by": "worker-sup-5e8a3c7f",
+   "at": "2026-10-21T16:09:57+00:00",
+   "from": "storyteller-glm53-b71f3a90",
+   "reason": "supervisor force-release"
   }
  ],
- "released": false
+ "released": true,
+ "released_at": "2026-10-21T16:09:57+00:00"
 }

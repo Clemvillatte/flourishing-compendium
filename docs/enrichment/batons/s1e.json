@@ -14,7 +14,14 @@
    "at": "2026-10-21T12:50:48+00:00",
    "from": "storyteller-perplexity-s1e",
    "reason": "stale (29 min)"
+  },
+  {
+   "by": "worker-sup-5e8a3c7f",
+   "at": "2026-10-21T16:09:57+00:00",
+   "from": "storyteller-perplexity-s1e",
+   "reason": "supervisor force-release"
   }
  ],
- "released": false
+ "released": true,
+ "released_at": "2026-10-21T16:09:57+00:00"
 }
