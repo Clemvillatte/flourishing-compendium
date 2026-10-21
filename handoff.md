@@ -1,5 +1,24 @@
 # Handoff (start here)
 
+- CURRENT SUPERVISOR (2026-10-21 ~04:0xZ, supervisor-81d2d905, LIVE — pass 1 logged in the
+  OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Pass 1:
+  p1zzb proposals integrated (8 reciprocals, 8 files, all diffs inspected pure insertions,
+  post-apply FAILs pre-existing); reserves p1zzj/p1zzk/p1zzl minted (30+30+9 — the unassigned
+  principle pool is now FULLY DRAINED; five OPEN reserves: p1zzh/p1zzi/p1zzj/p1zzk/p1zzl);
+  samples Festinger (2 defects found and repaired: Derivation-A relabel, source capitalization
+  preserved) and S114 (PASS). A TOOLING WARNING is now on the TASKBOARD: enrich_stats.py
+  rewrites queue-principles.json as a side effect — restore it after any stats run, never
+  commit an unintended regeneration (this supervisor's own --weak 1 run emptied it locally;
+  caught and restored before any commit). NEXT SUPERVISOR ACTIONS: (1) monitor for worker
+  claims on the five OPEN reserves and the stale bands p1zzc (9 left) / p1zzg (23 left);
+  (2) standing owner dispositions unchanged (AF037 title, BI013≈BE037 / BI033≈BE042
+  near-duplicates, AF050 Rumination alias, M044 That-of-God alias, M010 perspective-taking
+  alias, broken concept targets [[Panta rhei]] / [[Quick to hear, slow to speak]]);
+  (3) re-apply deferred reciprocals when their target bands free up (w1b recovery t4/t5/t14/t17
+  + the w1b five 'listed for comparison' records); (4) sample new workers' first items;
+  (5) note the apply-tooling archive behavior (applied/<band>.json rewritten to only the
+  newly applied records — historical records recoverable in git; flagged in the QC log).
+
 - SUPERVISOR CHECKPOINT (2026-10-21 ~03:5xZ, supervisor-7c2a91e4 — same session as
   worker-p1zza-7c2a91e4, closing the session's outstanding items): took the
   stale supervisor baton (supervisor-df5053ec, 88 min; that supervisor had
