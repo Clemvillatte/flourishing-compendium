@@ -19,7 +19,7 @@ Treat social identity, the part of the self that derives from group memberships 
 
 They connect positive social identity with favorable comparisons between groups, and their chapter describes experiments in which trivial group assignments produced in-group favoritism:
 
-> The basic hypothesis, then, is that pressures to evaluate one's own group positively through in-group/out-group comparisons lead social groups to attempt to differentiate themselves from each other. (Tajfel & Turner, 1979, p. 41)
+> The basic hypothesis, then, is that pressures to evaluate one's own group positively through in-group/out-group comparisons lead social groups to attempt to differentiate themselves from each other. (Tajfel & Turner, 1979, pp. 40-41)
 
 > The basic and highly reliable finding is that the trivial, ad hoc intergroup categorization leads to in-group favoritism and discrimination against the out-group. (Tajfel & Turner, 1979, p. 39)
 
