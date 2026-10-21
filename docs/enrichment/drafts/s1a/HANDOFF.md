@@ -1,3 +1,48 @@
+# Lane s1a handoff — storyteller-pcx-7f3a2b1d (2026-10-21, session ending ~13:19Z)
+
+## This session (T+0 12:18:56Z - T+60 13:18:56Z; baton held throughout, refreshed)
+
+Took the STALE s1a baton at T+2; live supervisor present, so worker mode. Owner directive this
+session: zero-story principles in Daoism/Buddhism/Pragmatism first. ALL five session targets came
+from the STORIES-TASKBOARD zero-story pool (the lane's recorded slice D080/D039/D156/B074/B026/
+P182/P184 already had multiple drafts in flight) — BATCH SCOPE REQUEST posted in ROUTE.md; the
+supervisor has NOT yet cleared it. Items produced (all quotes raw-verified against opened carriers,
+all story_check 0 errors, all pushed):
+
+| item | target | title | status | note |
+|---|---|---|---|---|
+| s1a-023 | B192 | Franklin's Speckled Axe | qc_pending | first item; advisor round-1 FAIL -> all repairs applied; corpus catch ST184 recorded with distinct angle (morning+evening pairing); scope+duplication routed |
+| s1a-024 | B043 | Dipa Ma Watches Anger Arise and Pass | qc_pending | interviewer corrected to Jack Engler (Spring 2004); sense-desire/anger attribution fixed; MN 10 gap named; corpus catch ST095 recorded with distinct angle; round-3 SCOPED PASS |
+| s1a-025 | P187 | Einstein's Cosmic Religious Feeling | qc_pending | pivot from Deshan (ST365 collision); motive relation fixed both ways; continuity bounded; round-3 SCOPED PROSE PASS |
+| s1a-026 | B176 | Jim Forest Washes the Dishes | qc_pending | tangerine para rewritten per advisor; memorial-chain attribution; round-3 SCOPED PASS after bounded repairs |
+| s1a-027 | D065 | The Tenth Picture Is a Market | qc_pending | Kakuan verses; Kubota qualification quoted; mapping marked as compendium reading; round-3 SCOPED PASS |
+
+Rung-4 upgrades prepared and ROUTED (separation guard denies storyteller writes to content/stories —
+prepared in-lane, exact replacement bodies ready for the supervisor):
+- s1a-028-upgrade-ST184.md — six verbatim Autobiography quotes, primary source linked, 'at about 20'
+  removed, Principles converted to justified list (story_check published-context passed before revert).
+- s1a-029-upgrade-ST095.md — verified dipama.com/Tricycle/Wikipedia quotes; FLAG: the page's
+  'stirring rice' line is not in the opened carriers and is dropped from the prepared body.
+
+Advisor QC: item-1 round (FAIL -> repairs), items-2-5 milestone rounds 1-3 (round-1 FAIL all four ->
+repairs; round-2 FAIL with two bounded issues -> applied; round-3: 024/026/027 SCOPED PASS, 025
+SCOPED PROSE PASS after the continuity row was bounded). All five remain qc_pending: scope,
+ST184/ST095 duplication and registration are supervisor decisions (ROUTE.md).
+
+## For the next storyteller
+
+1. Read ROUTE.md first: the batch scope request and the two upgrade routes are pending supervisor
+   dispositions; do not re-do that work.
+2. The unclaimed zero-story pool (as of this session): D045, D065 (now drafted), B176 (drafted),
+   P191, P193, P192 — check STORIES-TASKBOARD and the corpus before taking (my drafts cover B043,
+   B176, B192, D065, P187; the supervisor's reserved batch 2 was P190/P189/P181 — P181 was taken by
+   s1a-018).
+3. Push races are frequent: enrich_save.sh's rebase conflicts on state.json are timestamp-only —
+   resolve by keeping the later 'updated' value; plain git push may also fail the fast-forward —
+   pull --rebase and retry.
+
+---
+
 # Lane s1a handoff — storyteller-dd542ab3 (2026-10-21, session ending)
 
 ## Statuses (all story_check 0 errors; all quotes raw-verified)
