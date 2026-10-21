@@ -843,3 +843,11 @@ shame-vs-guilt attribution contrast; pride facets) VERBATIM vs the opened carrie
 Carrier opened fresh: York University Frankfurt 1971 PDF. w1w "Second-order desires":
 all three quoted passages (second-order desire definition; wanton; freedom of the
 will) VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 61 (16:44Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carriers opened fresh: accesstoinsight.org Thanissaro "Samsara" 2002; SN 15.11 Duggata
+Sutta page. w1w "Samsara": all three quoted passages VERBATIM, with one minor note —
+the "Long have you thus experienced stress..." sentence ends with an em-dash in the
+carrier ("cemeteries —"), which the page renders as a period (trivial normalisation).
+1/1 PASS, no defects.
