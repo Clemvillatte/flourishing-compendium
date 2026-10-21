@@ -23,6 +23,8 @@ His example is a person with every reason to want death, who keeps living anyway
 
 > "if adversity and hopeless sorrow have completely taken away the relish for life; if the unfortunate one, strong in mind, indignant at his fate rather than desponding or dejected, wishes for death, and yet preserves his life without loving it- not from inclination or fear, but from duty- then his maxim has a moral worth." (same work)
 
+The worth is not in the outcome. Kant's image for the good will is a jewel whose value survives even fruitlessness: even if the will "should wholly lack power to accomplish its purpose, if with its greatest efforts it should yet achieve nothing", then, "like a jewel, it would still shine by its own light, as a thing which has its whole value in itself" (same work). That is the standing rule the compendium's applications inherit: the measure of acting against impulse is the acting, not the harvest — whether the result is a life kept, a resentment declined, or a fear faced.
+
 ### In the compendium
 
 The compendium applies the heading to the emotional impulses of ordinary life, not only to questions of duty.
