@@ -48,3 +48,5 @@
 - Opened (search excerpts): Tronto Moral Boundaries text copy (pirate.care PDF; quotes verbatim, page numbers not visible); FPQ article (p. 133 cited there); Bristol UP article. Seed locator pp. 127-130 unverified (FPQ cites p. 127 for attentiveness, 133 for competence); printed book not checked. Bandura 1977 parallel not opened. Pharmacist anecdote dropped.
 ## S108 — handle poverty with dignity
 - Opened: Seneca Letters 17 and 18 (Wikisource, fetched, verbatim quotes); Mani 2013 abstract; Wicherts & Scholten comment. Seed claim "Seneca practised voluntary poverty" corrected: Letter 18 prescribes 3-4 day rehearsals. Letters 87, Epictetus, Marcus, Musonius not opened; "dispreferred indifferent" not verified. Budget-dinner anecdote dropped.
+## SO017 — cultural evolution as real
+- Opened (search excerpts): Mesoudi et al. 2006 abstract (PubMed); Sperber 1997 PDF excerpt; Springer "If we are all cultural Darwinians" excerpt; Inglehart & Welzel intro (CUP). Seed's Boyd & Richerson, Laland 2010, Kendal 2011 not opened. "Participate consciously" is compendium's own. "We've always done it" anecdote dropped. Seed text uses "EEMM" jargon; dropped from body.

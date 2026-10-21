@@ -12,11 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 17** — Treat cultural evolution as real
 
-Treat cultural evolution — the change of cultural traits (norms, practices, beliefs, technologies) over time through variation, selection, and transmission — as real and ongoing. Cultures are not static essences; they are populations of practices that change through the EEMM's own variation-selection-retention cycle. The adaptive stance is to participate consciously in cultural evolution rather than to be passively carried by it.
+Mesoudi, Whiten and Laland argue that "human culture exhibits key Darwinian evolutionary properties", and that a science of cultural evolution can share its structure with evolutionary biology, using population-genetic models for "cultural microevolution" and archaeological methods for longer-term change ([Mesoudi et al. 2006, PubMed](https://pubmed.ncbi.nlm.nih.gov/17094820/)). This supports the seed's picture of cultures as changing populations of practices, not fixed essences.
 
-**Plain words** Cultures evolve — norms, practices, beliefs change over generations through variation and selection. No culture is a static essence; they're all works in progress, including yours. Tradition is a moving stream, not a museum.
+How closely the biological analogy holds is disputed. Sperber argues that cultural traits "don't in general replicate in the process of transmission, they transform", so describing change as selection among variants is misleading ([Sperber, Selection and attraction in cultural evolution](https://www.dan.sperber.fr/wp-content/uploads/1997_selection-and-attraction-in-cultural-evolution.pdf)). A later paper concludes there is "no insurmountable theoretical disagreement" between the two approaches, and that whether transmission is preservative or reconstructive is "ultimately an empirical question" ([Springer paper on cultural attraction](https://link.springer.com/article/10.1007/s10539-015-9490-2)).
 
-*For example:* "We've always done it this way" — the "always" is doing enormous work. The tradition is two generations old and was itself an innovation. Streams look still from far away.
+On observed change, Inglehart and Welzel analysed survey data from eighty-one societies and report that values change "in a predictable direction as socioeconomic development takes place" ([Cambridge University Press excerpt](https://assets.cambridge.org/97805216/09715/excerpt/9780521609715_excerpt.pdf)). That is one account of value change, not a general proof of cultural evolution.
+
+### Scope
+
+I did not open Boyd and Richerson, Laland et al. 2010 or Kendal et al. 2011. The idea that individuals can "participate consciously" in cultural evolution is the compendium's own, and none of these sources tests it.
+
+**Plain words**
+Cultures change over time, and researchers still argue about how best to describe that change. Treat your own traditions as things that have changed and can change.
+
+**For example**
+Pick one family or workplace custom and find out when and why it started.
+
+## Sources
+
+- [Mesoudi, Whiten and Laland 2006, Towards a unified science of cultural evolution (PubMed)](https://pubmed.ncbi.nlm.nih.gov/17094820/)
+- [Sperber, Selection and attraction in cultural evolution](https://www.dan.sperber.fr/wp-content/uploads/1997_selection-and-attraction-in-cultural-evolution.pdf)
+- [If we are all cultural Darwinians what's the fuss about? (Springer)](https://link.springer.com/article/10.1007/s10539-015-9490-2)
+- [Inglehart and Welzel, Modernization, Cultural Change, and Democracy, introduction (Cambridge)](https://assets.cambridge.org/97805216/09715/excerpt/9780521609715_excerpt.pdf)
+
 ## Psychology parallels
 
 - [[Cultural evolution theory|Cultural evolution theory]] (Boyd and Richerson, 1985; Richerson and Boyd, 2005; Mesoudi, 2011); gene-culture coevolution (Laland et al., 2010); cultural niche construction (Kendal et al., 2011); the empirical study of value change (Inglehart and Welzel, 2005).
