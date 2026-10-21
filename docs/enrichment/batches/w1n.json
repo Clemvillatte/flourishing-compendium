@@ -48,7 +48,8 @@
   "Gilligan's ethics-of-care theory",
   "Global Workspace Theory",
   "Goal-directed behavior theory",
-  "Guilt"
+  "Guilt",
+  "Habit discontinuity"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,5 +57,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 29,
- "updated": "2026-10-21T10:56:34+00:00"
+ "updated": "2026-10-21T10:57:04+00:00"
 }
