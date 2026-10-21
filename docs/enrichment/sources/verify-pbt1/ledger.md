@@ -727,3 +727,18 @@ Carrier opened fresh: GVSU Schwartz 2012 full text. w1w "Schwartz": all four quo
 Carrier opened fresh: Colorado Judge & Zapata PDF. w1q "Trait Activation Theory": both
 Tett & Burnett p.502 quotations VERBATIM (source marks lower-case-to-capital with
 brackets, standard quoting practice). 1/1 PASS, no defects.
+
+## Round 44 (17:05Z) — read-only spot-check of a live-band page (w1q)
+
+Carriers opened fresh: ERIC full text ED015511 and its ERIC bibliographic record.
+w1q "Theory of Work Adjustment": both quoted sentences VERBATIM vs the opened full text,
+BUT DEFECT ROUTED (attribution): the page credits the quotes to "Weiss, 'Occupational
+Reinforcers, Vocational Needs, and Job Satisfaction', Work Adjustment Project, 1970",
+whereas the linked ERIC document (ED015511) is Lofquist, Lloyd H. (1967), "A System for
+Predicting Outcomes of Vocational Counseling" (APA convention paper, Sep 5, 1967) —
+confirmed against the ERIC record itself. Repair requested: correct the attribution
+(author/title/year) or swap to the Weiss 1970 carrier.
+
+Routed defects to date: 7 (Fellow feeling locator; Intra-action Hammarström; Kairos Chase;
+Novelty research deviations; Nomadology therefore; Ordering the soul "is"; Theory of Work
+Adjustment Lofquist/Weiss attribution).
