@@ -8,41 +8,41 @@ tags: ["theory", "psych/clinical"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
 
-Contemporary psychodynamic theory is the modern descendant of psychoanalysis: the body of thinking that keeps Freud's core premise (experience shapes patterns outside awareness) while dropping the grand metapsychology. Contemporary practice is relational and developmental: it treats the person's recurring patterns, their attachment history, and what happens between therapist and patient as the material. Jonathan Shedler's widely cited review of the field states the evidence case bluntly:
+Contemporary psychodynamic theory is the umbrella term for the modern forms of psychoanalytic therapy. The account this page carries is Jonathan Shedler's widely cited 2010 review of contemporary psychodynamic practice and its evidence, which states the case bluntly:
 
 > "Empirical evidence supports the efficacy of psychodynamic therapy." (Shedler, 2010, abstract, [American Psychologist 65(2), PDF at the author's site](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf))
 
-> "Effect sizes for psychodynamic therapy are as large as those reported for other therapies that have been actively promoted as "empirically supported" and "evidence based."" (Shedler, 2010, abstract, [same PDF](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf))
+> "Effect sizes for psychodynamic therapy are as large as those reported for other therapies that have been actively promoted as “empirically supported” and “evidence based.”" (Shedler, 2010, abstract, [same PDF](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf); the sentence is the review's conclusion)
 
 ### Origin
 
-The contemporary form emerged from the empirical turn in psychodynamic research: Blagys and Hilsenroth's 2000 comparison of manualized psychodynamic and cognitive-behavioral technique found "Seven features reliably distinguished psychodynamic therapy from other therapies" (Shedler, 2010, reporting their findings). The theory's newer strands, attachment-based and mentalization-based work, grew from developmental research rather than from clinical doctrine.
+Shedler's review grounds the technique list in an empirical study: Blagys and Hilsenroth (2000) compared the process and technique of manualized psychodynamic therapy with manualized cognitive-behavioral therapy, and "Seven features reliably distinguished psychodynamic therapy from other therapies" (Shedler, 2010, reporting their findings). The review notes that its features "concern process and technique only, not underlying principles".
 
 ### Core claims
 
 Shedler's list of the distinguishing features gives the technique in practice:
 
-> "Psychodynamic therapy encourages exploration and discussion of the full range of a patient's emotions." (Shedler, 2010, feature 1)
+> "Psychodynamic therapy encourages exploration and discussion of the full range of a patient's emotions." (Shedler, 2010, feature 1, [PDF](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf))
 
-> "Psychodynamic therapists actively focus on and explore avoidances." (Shedler, 2010, feature 2)
+> "Psychodynamic therapists actively focus on and explore avoidances." (Shedler, 2010, feature 2, [PDF](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf))
 
-> "Psychodynamic therapists work to identify and explore recurring themes and patterns in patients' thoughts, feelings, self-concept, relationships, and life experiences." (Shedler, 2010, feature 3)
+> "Psychodynamic therapists work to identify and explore recurring themes and patterns in patients' thoughts, feelings, self-concept, relationships, and life experiences." (Shedler, 2010, feature 3, [PDF](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf))
 
-> "Psychodynamic therapists explore early experiences, the relation between past and present, and the ways in which the past tends to "live on" in the present." (Shedler, 2010, feature 4)
+> "Psychodynamic therapists explore early experiences, the relation between past and present, and the ways in which the past tends to “live on” in the present." (Shedler, 2010, feature 4, [PDF](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf))
 
 ### How the theory explains
 
-A psychodynamic account explains by personal history: the same early experiences of attachment shape the present, and the same defences that once protected a child now limit an adult. What the therapist watches for are not symptoms but patterns: themes that recur across relationships, avoidances that recur across sessions, and the way the patient's characteristic pattern shows up in the therapy relationship itself. The theory's modern form leans on two research traditions: attachment theory for where the patterns come from, and mentalization for what the work aims to add, the capacity to think about one's own and others' minds.
+A psychodynamic account explains by personal history: the feature list includes the recognition that past experience, especially early experiences of attachment figures, affects the present, and the review's examples are recurring patterns in thoughts, feelings, self-concept and relationships. What the therapist watches for are patterns: themes that recur across relationships, avoidances that recur across sessions, and the way the patient's characteristic pattern shows up in the therapy relationship itself.
 
 ### In everyday life
 
-The psychodynamic eye works outside therapy too: a person who keeps choosing emotionally unavailable partners is not failing at dating; a pattern is repeating, probably older than any current relationship, and the useful question is when it was learned and what it once protected. Naming the pattern, in this frame, is already a loosening of it. (Illustrative scenario, not a reported patient or study result.)
+Shedler's own illustration of feature 3: "a man who repeatedly finds himself drawn to romantic partners who are emotionally unavailable; a woman who regularly sabotages herself when success is at hand". The review notes that a patient may be acutely aware of such patterns "but feel unable to escape them", or unaware of them until the therapist helps him or her recognize them. (Reported examples from the review, not new scenarios.)
 
 ### In the compendium
 
-- [[Y022 — Work with samskaras as the deep layer]] — the Buddhist doctrine of samskaras and the psychodynamic doctrine of early patterns describe the same conviction: experience leaves deep structure that shapes the present
-- [[K008 — Expect the collapse of meaning; do not waste it]] — recurring patterns are exactly the meaning that returns, and the work is to read rather than only react to it
-- [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — both traditions train attention on what actually arises, affect and avoidance included
+- [[Y022 — Work with samskaras as the deep layer]] — the Buddhist doctrine of samskaras treats experience as leaving deep structure that shapes the present; the comparison with psychodynamic recurring patterns is the compendium's, offered as a resemblance rather than a claimed identity
+- [[K008 — Expect the collapse of meaning; do not waste it]] — listed as a citing principle
+- [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — listed as a citing principle
 - [[V1K Reference — Sources for Book IV]] — the reference page carrying the compendium's psychodynamic lineage sources
 
 ## Related concepts
@@ -53,6 +53,9 @@ The psychodynamic eye works outside therapy too: a person who keeps choosing emo
 - [[Mentalization-Based Treatment Model]] — the therapy built from it
 - [[Experiential avoidance theory]] — the ACT cousin of the psychodynamic focus on avoidance
 
+## Field
+
+Clinical Psychodynamic · Psychological science
 ## Cited in philosophy parallels
 [[K008 — Expect the collapse of meaning; do not waste it]]
 [[Y022 — Work with samskaras as the deep layer]]

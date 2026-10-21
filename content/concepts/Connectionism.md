@@ -14,7 +14,7 @@ Connectionism is the cognitive-science approach that models cognition as activit
 
 ### Origin
 
-The approach's modern career began in 1986, when David Rumelhart and James McClelland's Parallel Distributed Processing research group published a two-volume compendium of modeling techniques and psychological models:
+The approach's modern revival came in 1986, when David Rumelhart and James McClelland's Parallel Distributed Processing research group published a two-volume compendium of modeling techniques and psychological models:
 
 > "Connectionism sprang back onto the scene in 1986 with a monumental two-volume compendium of connectionist modeling techniques (volume 1) and models of psychological processes (volume 2) by David Rumelhart, James McClelland and their colleagues in the Parallel Distributed Processing (PDP) research group." (IEP, Connectionism, section 4)
 
@@ -32,11 +32,11 @@ And about processing:
 
 ### How the approach explains
 
-A network model explains cognition statistically rather than logically. Units stand for nothing in particular; a memory or a word's meaning is a pattern of activation spread across many units, and what a system knows is in its weights. Learning is error-driven weight change:
+A network model explains cognition statistically rather than logically. Representation can be local or distributed, and the IEP article distinguishes the two: in a "localist encoding" scheme "a particular unit will represent a particular piece of information", while in distributed coding "an entire collection of activation values is taken to represents something" (section 5). Much connectionist modelling uses the distributed form: a memory or a word's meaning is a pattern of activation spread across many units, and what a system knows is in its weights. Learning is error-driven weight change:
 
 > "Connectionist systems generally learn by detecting complicated statistical patterns present in huge amounts of data." (IEP, Connectionism, section 5)
 
-The famous early demonstration was the past-tense model: a network learned English verb forms and spontaneously reproduced children's u-shaped curve, over-applying "goed" mid-training, without any rule in the system:
+The famous early demonstration was the past-tense model. What Rumelhart and McClelland claimed their model showed was that the children's u-shaped learning curve, including the mid-training over-application of "goed", could arise without mechanisms that work by applying physically and functionally distinct rules to representations:
 
 > "all of the relevant information can be stored in superimposed fashion within the weights of a connectionist network" (IEP, Connectionism, section 6.a)
 
@@ -44,14 +44,14 @@ The standing objection comes from the classical camp: Fodor and Pylyshyn argued 
 
 ### In everyday life
 
-The connectionist picture of skill is the everyday one of practice: nobody memorises a rule for riding a bicycle; thousands of small adjustments, each nudged by error, leave the balance knowledge in the "weights" of the body. Skill as accumulated error-correction, not stored instructions. (Illustrative scenario, not a reported model or study result.)
+The past-tense model supplies the accessible everyday illustration: children who first say "went", then "goed", then "went" again are not learning and forgetting a rule; the connectionist claim is that the whole curve can come from graded weight change over examples. (Summary of the documented model, not a new scenario.)
 
 ### In the compendium
 
-- [[SE066 — Recognise the role of challenge in growth — difficulty develops self]] — the network's learning rule makes the connectionist case for challenge: error is the signal that drives weight change
-- [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — a statistical system is expected to be noisy; fallibility is its architecture, not its failure
-- [[SO034 — Treat knowledge as social]] — networks learn from the data they are fed, and human networks learn from each other
-- [[PP010 — Distinguish intrinsic from extrinsic aspirations]] — listed as a citing principle; what a network learns from depends on which inputs it is tuned to
+- [[SE066 — Recognise the role of challenge in growth — difficulty develops self]] — the connectionist account of learning from error is a possible frame for the principle's claim; the principle itself carries the claim
+- [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]] — listed as a citing principle
+- [[SO034 — Treat knowledge as social]] — listed as a citing principle
+- [[PP010 — Distinguish intrinsic from extrinsic aspirations]] — listed as a citing principle
 
 ## Related concepts
 
@@ -59,6 +59,9 @@ The connectionist picture of skill is the everyday one of practice: nobody memor
 - [[Classical conditioning theory]] — the earlier statistical-learning lineage
 - [[Attention Schema Theory]] — a modern theory in the network spirit
 
+## Field
+
+Quantitative General · Psychological science
 ## Cited in philosophy parallels
 [[SE066 — Recognise the role of challenge in growth — difficulty develops self]]
 [[CO014 — Understand that thinking is fallible and that wisdom includes knowing this]]
@@ -66,5 +69,5 @@ The connectionist picture of skill is the everyday one of practice: nobody memor
 [[SO034 — Treat knowledge as social]]
 ## Sources
 
-- [Internet Encyclopedia of Philosophy, "Connectionism" (ed. Berkeley et al.)](https://iep.utm.edu/connectionism/) — the definition, the 1986 PDP origin, the representation and processing claims, the learning characterization, the past-tense model, and the Fodor-Pylyshyn critique; all quotations verified verbatim against the opened page
+- [Internet Encyclopedia of Philosophy, "Connectionism"](https://iep.utm.edu/connectionism/) — the definition, the 1986 PDP resurgence, the representation and processing claims, the learning characterization, the past-tense model, and the Fodor-Pylyshyn critique; all quotations verified verbatim against the opened page (the article's byline was not verifiable from the opened HTML; no editor claim made)
 - Rumelhart, D., Hinton, G., & Williams, R. (1986), "Learning internal representations by error propagation", in Parallel Distributed Processing, Vol. 1 — the backpropagation paper named by the IEP article's references

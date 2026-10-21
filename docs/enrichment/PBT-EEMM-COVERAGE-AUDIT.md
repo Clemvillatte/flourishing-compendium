@@ -66,3 +66,15 @@ Seeds created (front-matter + source line; enrichment pending):
   proposals/w1m.json (Volume V header, V1K scope note, NAV-PSYCHOLOGY, book P).
 - Midlevel terms re-sourced honestly: the term does not appear in the Hofmann
   book; carrier is Twohig & Levin (USU DigitalCommons).
+
+
+## Addendum 2 (honest status, same session)
+
+This audit establishes PRESENCE and gaps, not richness. The nine new pages
+were written against verified quotes but have NOT yet been through advisor
+substantive QC (they are QC-pending; the 25 reciprocal + 5 inline proposals
+are pending supervisor integration). The mention searches were truncated by
+the tool cap; saturation is strong but not provably exhaustive. The owner's
+"all concepts present, rich and linked" goal is therefore: present = yes (for
+the core model layer), rich = pending QC, linked = pending proposal
+integration.

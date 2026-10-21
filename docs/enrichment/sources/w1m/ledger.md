@@ -434,3 +434,31 @@ in extraction; the sentence is quoted only up to the clean boundary
 therapies"). Mentalization/attachment framing of the seed is grounded via the
 existing wiki pages (Mentalization theory, Attachment theory) and Shedler's
 feature-4 attachment mention, not via a separate mentalization source.
+
+## Advisor QC round (items 6-8, run early because the actionable queue emptied) — repairs applied
+All three theory pages FAILED round 1; repairs applied this session:
+- SHARED: Field blocks restored on all three (my tail extraction had dropped
+  them; validator did not catch — noted for the supervisor as a validator gap).
+- COR: opening narrowed to the abstract-supported account; investment-failure
+  condition removed; counting-accounts/burnout-productivity/portfolio-criticism
+  passages deleted; handbook citation corrected to the opened page's byline
+  (Holmgreen per the Wiley page metadata; no author reconstruction);
+  everyday example relabelled as an illustration of possible resource threats.
+- Connectionism: "units stand for nothing" replaced with the IEP's own
+  localist/distributed distinction (both quoted); origin corrected to a 1986
+  resurgence ("sprang back"); past-tense claim narrowed to what R&M "claimed
+  their model showed" (no invented "without any rule" claim); bicycle example
+  removed (documented past-tense model used instead); invented mechanisms for
+  CO014/SO034/PP010 deleted (links preserved as "listed as a citing
+  principle"); IEP byline unverifiable from the opened HTML — no editor claim
+  made, noted here; THEORIST-QUOTE REQUIREMENT PENDING (current quotes are the
+  IEP article's own text, not a theorist passage; a primary-text quote remains
+  open work for the next pass).
+- Contemporary psychodynamic: Freud-metapsychology and Blagys-Hilsenroth
+  founding claims removed; page scoped explicitly to Shedler's account of
+  contemporary practice ("process and technique only" caveat quoted);
+  mentalization/attachment-origin claims removed (feature-4 attachment mention
+  retained as the review's own text); efficacy framed as the review's
+  conclusion; everyday example replaced with Shedler's reported illustrations;
+  samskaras comparison bounded as resemblance; nested quotes fixed; carrier
+  links added to all four feature quotations.
