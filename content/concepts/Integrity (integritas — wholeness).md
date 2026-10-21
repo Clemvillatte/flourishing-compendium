@@ -7,7 +7,7 @@ file: "Integrity (integritas — wholeness)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-The Latin word behind the English "integrity" is built for wholeness: Wiktionary derives integritas from integer ("complete, perfect") plus -tas, with "soundness" as its first sense ([Wiktionary, integritas](https://en.wiktionary.org/wiki/integritas)). A person's integrity, on this root reading, is the state of being in one piece, undivided. Cicero's De Officiis states the corresponding demand on a life directly:
+The Latin word behind the English "integrity" is built for wholeness: Wiktionary derives integritas from integer ("complete, perfect") plus -tas, with "soundness" as its first sense ([Wiktionary, integritas](https://en.wiktionary.org/wiki/integritas)). A person's integrity, on this root reading, is the state of being in one piece, undivided. Separately, and as a parallel discussion of propriety and consistency rather than an attestation of integritas itself, Cicero's De Officiis states a corresponding demand on a life:
 
 > "If there is any such thing as propriety at all, it can be nothing more than uniform consistency in the course of our life as a whole and all its individual actions. And this uniform consistency one could not maintain by copying the personal traits of others and eliminating one's own." (Cicero, De Officiis I.111, trans. Walter Miller, [Project Gutenberg #47001](https://www.gutenberg.org/ebooks/47001))
 

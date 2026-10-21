@@ -19,7 +19,7 @@ Plato, the Wikipedia article notes, coined agathos kai sophos, good and wise, to
 
 ### In the compendium
 
-- [[Kalokagathia]] sits on the philosophy-parallel side of the E-band and R-band virtue principles
+- [[Kalokagathia]]: this page's own subject, retained here for link integrity
 
 ## Related concepts
 

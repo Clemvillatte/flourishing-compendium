@@ -7,7 +7,7 @@ file: "Individualism collectivism theory Triandis"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-**Individualism collectivism theory Triandis** — Triandis — cultures differ in whether the self is autonomous or embedded; idiocentric and allocentric tendencies coexist.
+**Individualism collectivism theory Triandis** — Triandis — cultures differ in whether the self is autonomous or embedded.
 
 Triandis's theory treats individualism and collectivism not as two answers to one question but as whole patterns of subjective culture. His definition of a cultural syndrome, from the 1993 article that made the case:
 
@@ -15,9 +15,9 @@ Triandis's theory treats individualism and collectivism not as two answers to on
 
 The sharpest one-line statement of the difference is Triandis's own: "among individualists one is what one does; among collectivists one is what one's group does" (Triandis, Brislin and Hui 1988, p. 274, [as quoted in an ERIC-hosted review](https://files.eric.ed.gov/fulltext/ED470007.pdf)). He later elaborated the constructs as cultural syndromes or patterns of "beliefs, attitudes, self-definitions, norms, and values that are organized around some theme that can be identified in a society" (Triandis 1994, p. 2, [as quoted in the same review](https://files.eric.ed.gov/fulltext/ED470007.pdf)).
 
-At the person level the theory uses its own pair of terms, idiocentric and allocentric, and holds that both tendencies coexist in most people, sampled differently by situation. The two levels are kept distinct: a culture-level average is not a claim about the individual in front of you.
+The cultural syndrome the 1993 article defines is a property of shared subjective culture, and its criterion is explicit that within-culture variance of these constructs is small relative to between-cultures variance. The two levels are kept distinct: a culture-level average is not a claim about the individual in front of you.
 
-**Plain words** Cultures tilt: some toward defining you by your own choices, some by your groups' doings. But the tilt is a statistic about a population, not a verdict on the person in front of you, and everyone carries both tendencies.
+**Plain words** Cultures tilt: some toward defining you by your own choices, some by your groups' doings. But the tilt is a statistic about a population, not a verdict on the person in front of you.
 
 ## Sources
 

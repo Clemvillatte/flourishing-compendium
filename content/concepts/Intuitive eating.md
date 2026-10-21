@@ -19,7 +19,7 @@ The scale's development drew on Tribole and Resch's ten principles of intuitive 
 
 The study reports the scale's scores as internally consistent and stable over a three-week period, from data collected in four studies of 1,260 college women.
 
-**Plain words** Eating when the body asks, when the body asks,, stopping when it is full, and not using food to handle feelings. Three separate skills, and in the study's data they travel with well-being rather than with body mass, which moves in the opposite direction.
+**Plain words** Eating when the body asks, stopping when it is full, and not using food to handle feelings. Three separate skills, and in the study's data they travel with well-being rather than with body mass, which moves in the opposite direction.
 
 ### In the compendium
 
