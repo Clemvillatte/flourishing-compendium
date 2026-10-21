@@ -30,7 +30,7 @@ Before launching a venture, estimate the costs of a delayed launch. Record what 
 ## Psychology parallels
 
 - **[[Optimism bias / unrealistic optimism|Optimism bias / unrealistic optimism]]**, people underestimate their personal risk relative to others (Weinstein, 1980; Sharot, 2011)
-- **Optimism bias is partly functional**, moderate optimism supports mental health and persistence; extreme optimism leads to underpreparedness (Taylor & Brown, 1988; Sharot, 2011)
+- **Optimism bias is partly functional** — positive illusions are associated with higher motivation, greater persistence and more effective performance (Taylor & Brown, 1988), and optimism is vital to mental health (Sharot, 2011)
 
 ## Philosophy parallels
 

@@ -29,6 +29,7 @@ Take "I have a good heart". List the conceivable practical differences between i
 ## Sources
 
 - [Peirce, How to Make Our Ideas Clear (1878), Popular Science Monthly 12, peirce.org](https://www.peirce.org/writings/p119.html) — the pragmatic maxim verified verbatim
+- [Hayes et al. (2020). Process-based functional analysis can help behavioral science step up to novel challenges, Journal of Contextual Behavioral Science, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7445588/) — the functional-analysis row
 
 ## Practice kernels
 
@@ -38,7 +39,7 @@ Take "I have a good heart". List the conceivable practical differences between i
 - [[K135 — Workability check|K158 The workability question]]
 ## Psychology parallels
 
-- **[[Functional analysis|Functional analysis]]**, behavior understood by its function, not its form (Hayes et al., 2020)
+- **[[Functional analysis|Functional analysis]]** — the Hayes group's process-based renewal of functional analysis: organizing case information in terms of behavioural principles to identify the causal relationships that might be changed (Hayes et al., 2020)
 
 ## Philosophy parallels
 
