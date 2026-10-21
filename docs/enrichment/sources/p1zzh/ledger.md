@@ -8,3 +8,5 @@
 - Opened (search excerpts): Yang 2012 abstract; Stutz 2019 abstract; evening HIE meta-analysis abstract; Buman 2014 abstract. Seed "morning or afternoon is safest" unsupported, rephrased. Dolezal 2017 not opened. HIIT-class anecdote dropped.
 ## BI024 — exercise dose
 - Opened (search excerpts): Chekroud 2018 abstract (PubMed) and PMC commentary; Pearce 2022 (JAMA Psychiatry); Noetel 2024 abstract. Seed "30 min" vs Chekroud 45 min; "moderate-only sweet spot" contradicted for depression treatment (intensity-proportional). U-shape (too much) not verified; Schuch 2018, Kim 2019 not opened. Waiting-to-get-in-shape anecdote dropped.
+## BI025 — aerobic exercise for mood
+- Opened (search excerpts): Cochrane 2013 (Cooney) abstract/results; Cochrane update abstract (PubMed 41500513, 57 trials); Noetel 2024 BMJ results. Seed "aerobic is particularly effective" and "reliably" tempered; anxiety, BDNF claims not checked; Schuch 2018, Erickson 2015, Vivar 2013 not opened. Two-week walks anecdote dropped.
