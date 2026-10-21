@@ -261,3 +261,12 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
   the opening sentence; the verification detail stays here).
 - All six session items passed advisor round 3; the band's inherited QC debt is resolved;
   band closed.
+
+### w1j "Harsh self-criticism" — FULL PASS (verification pass, time not recorded)
+- Gilbert 2009 blockquote and both inline fragments EXACT vs the opened Cambridge Core
+  article; the meta-analysis numbers all grounded verbatim vs the opened PubMed abstracts:
+  Paranjothy & Wade 2024 (135 studies, 42,952 participants, r = .37, subgroups r = .20-.52)
+  and MacBeth & Gumley 2012 (20 samples from 14 studies, r = -0.54, CI -0.57 to -0.51,
+  all Neff Self Compassion Scale).
+- The page's disclosure that the longitudinal study was seen as a search excerpt only
+  stands; no change requested.
