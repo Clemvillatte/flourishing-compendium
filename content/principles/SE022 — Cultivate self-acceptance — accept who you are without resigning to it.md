@@ -18,12 +18,12 @@ Nietzsche gives the principle its classic formula:
 
 (Nietzsche, The Gay Science §276, Common translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/52881/pg52881.txt))
 
-The passage is an acceptance with work in it. Perceiving what is necessary as beautiful is an act of perception Nietzsche trains, not a verdict he waits for, and he still negates: the passage locates his negation in looking aside rather than accusing. The distinction the principle statement draws between acceptance and resignation follows the same line: the acceptance is in the stance toward the fact, and the growth work is left intact.
+In §276 Nietzsche expresses a wish to affirm necessity and abandon accusation. Applied here to self-acceptance, the passage suggests acknowledging a difficulty while considering which actions remain possible.
 
 **Plain words**
-Acceptance is not approval; it is refusing to spend the energy on accusation. The question the distinction turns on is what remains available after the acknowledgment: the person who has accepted the awkwardness can still take the course.
+Name one limitation you are willing to acknowledge. Separately, identify a change you would still like to attempt. Consider whether you can acknowledge the difficulty while pursuing that change.
 
-*For example:* Imagine accepting the social awkwardness, no more hours of post-party self-flagellation, and still taking the public speaking course.
+*For example:* Imagine acknowledging that you felt awkward at a party while considering whether to enroll in a public-speaking course.
 
 ## Sources
 
@@ -42,4 +42,4 @@ Acceptance is not approval; it is refusing to spend the energy on accusation. Th
 
 ## Practice
 
-Practise accepting yourself as you are, including imperfections. This is not resignation; it is the precondition for genuine change.
+Name one limitation you are willing to acknowledge, and one change you would still like to attempt alongside it.

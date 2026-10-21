@@ -11,11 +11,11 @@
   "SE014",
   "SE018",
   "SE015",
-  "SE022",
   "SE026",
   "SE031",
   "SE036",
-  "SE044"
+  "SE044",
+  "SE022"
  ],
  "in_progress": null,
  "flagged": {
@@ -29,10 +29,11 @@
   "SE014": "Reopened for QC: QC milestone 2: Socrates-attribution of values audit; unchosen-values and no-audience authenticity claims; life-reorganizing outcome",
   "SE015": "Reopened for QC: QC recheck: example still overstates training; replace with prediction-result comparison",
   "SE018": "Reopened for QC: QC milestone 2: midpoint and only-updates generalizations; year-two prediction; staging contrast",
-  "SE026": "Reopened for QC: QC: validator FAIL - body wikilink [[Self-compassion|self-compassion]] lost in rewrite; restoring"
+  "SE026": "Reopened for QC: QC: validator FAIL - body wikilink [[Self-compassion|self-compassion]] lost in rewrite; restoring",
+  "SE022": "Reopened for QC: QC milestone 3: growth-work and method attribution to Nietzsche; precondition causal claim; example outcome"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:26:04+00:00",
+ "updated": "2026-10-21T00:28:49+00:00",
  "band_done": false
 }
