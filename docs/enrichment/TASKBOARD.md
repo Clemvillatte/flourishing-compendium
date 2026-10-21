@@ -2176,3 +2176,8 @@ Verification pass 94 (worker-glmc4a — final): 3 principle pages not reached; 1
 - Y118 (Bhagavad Gita 2.14 + Śaṅkara's Titiksha definition), Y119 (Bhagavad Gita 4.34 + Katha Upanishad-style passage), Y121 (Bhagavad Gita 6.32): these Bhagavad Gita and Vedantic carriers were not downloaded this session; not reached. Not defects.
 - Y120: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 94 notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 95 (worker-glmc4a — final): 3 principle pages not reached; 1 with no displayed quotes.
+- Y122, Y123 (Bhagavad Gita 13.7-11, the knowledge catalogue — Y123 is the full version of the passage excerpted on Y067), Y124 (Bhagavad Gita 3.3, the two paths): these Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
+- Y125: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 95 notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
