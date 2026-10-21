@@ -55,8 +55,8 @@ must come from trustworthy, high-quality sources, ideally a playlist or a channe
 organisations); a website is acceptable when more relevant than a video. Applied to K411 and K412 picks. Some earlier
 kpr picks are smaller channels (Draw Breath, Declutter The Mind, FitMind, Naomi Goodlet, BE Light TT, The Zen Social
 Worker, Boundless Love Project, Embodied Mindfulness) — all verified genuine guided practices with transcripts, but
-flagged for upgrade to authoritative sources in a later QC pass. K411 Zuowang + K412 Inner Smile created; 20 kernels
-done in this session (4 new, 16 enriched).
+flagged for upgrade to authoritative sources in a later QC pass. K411 Zuowang + K412 Inner Smile created; 22 kernels
+done in this session (4 new, 18 enriched).
 
 ## How to claim
 

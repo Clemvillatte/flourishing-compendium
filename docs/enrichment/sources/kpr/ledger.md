@@ -75,3 +75,9 @@
 - Operationalises converted to bullets (dash budget); all original links preserved; existing adaptation note and Related kernels kept.
 - Validation: ok; build ok; saved and pushed.
 - Session total now: 21 kernels (4 new: K409, K410, K411, K412; 17 enriched: K100, K101, K102, K103, K104, K106, K110, K114, K116, K161, K162, K163, K164, K194, K201, K245, K400).
+
+## K385 — Cognitive acceptance: watch thoughts float by (2026-10-21)
+- Already had a 3-step protocol from Tolin's Doing CBT (kept verbatim); added Evidence: Marcks & Woods 2005 (PubMed 15701355, abstract via search: suppression group unable to suppress + increased distress after; acceptance group decreased discomfort not frequency; natural acceptors less obsessional/depressed/anxious) + Najmi et al. 2009 via PMC7692269 review table (distress higher after suppression than acceptance/focused distraction in OCD). Honest framing: reduces struggle not frequency; small lab analogues.
+- Guided version: ACT Toolkit 'Leaves on a stream' (8-min exercise, verified in earlier acttoolkit.com search snippet).
+- Operationalises bullet conversion + Related concepts added (Cognitive defusion, Acceptance, Detached mindfulness theory Wells, Rumination). Validation: ok; build ok; saved and pushed.
+- SESSION TOTAL: 22 kernels (4 new: K409, K410, K411, K412; 18 enriched: K100, K101, K102, K103, K104, K106, K110, K114, K116, K161, K162, K163, K164, K194, K201, K245, K400, K385).
