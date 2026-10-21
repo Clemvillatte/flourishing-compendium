@@ -330,3 +330,7 @@
   against its title page. (5) Earlier ledger item 19 said the seed line
   was grounded — corrected here.
 - Normal validator: 7/7 ok (full output, no tail filtering).
+  - Proposals gap partially closed: docs/enrichment/proposals/w1w.json
+  created with 27 reciprocal edges for the Related lines on items 18-24.
+  NOTE: reciprocal proposals for items 1-17's Related edges were NOT
+  written at the time (gap now known) — flagged for a later pass.
