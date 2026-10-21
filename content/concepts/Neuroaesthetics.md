@@ -15,7 +15,7 @@ Neuroaesthetics studies what happens in the brain when people have aesthetic exp
 
 The abstract continues that these experiences "involve appraisals of natural objects, artifacts, and environments", and that because aesthetic encounters are common in everyday life, exploring their biological bases "can deepen our understanding of human behavior in important domains such as mate selection, consumer behavior, communication, and art".
 
-The evidence the authors review shows that "aesthetic experiences emerge from the interaction between sensory-motor, emotion-valuation, and meaning-knowledge neural systems". In the authors' 2014 assessment, the discipline "is at a historical inflection point and is poised to enter the mainstream of scientific inquiry" ([all from the abstract](https://pubmed.ncbi.nlm.nih.gov/24768244/)). That last line is the authors' 2014 outlook, not a finding, and the field's standing since is outside this page's opened evidence.
+The evidence the authors review shows that "aesthetic experiences emerge from the interaction between sensory-motor, emotion-valuation, and meaning-knowledge neural systems". In plain terms, the review's account has an aesthetic experience built from three contributions: what the senses and motor system do with the object, what the emotion-and-value systems assign it, and what the meaning-and-knowledge systems bring to it. In the authors' 2014 assessment, the discipline "is at a historical inflection point and is poised to enter the mainstream of scientific inquiry" ([all from the abstract](https://pubmed.ncbi.nlm.nih.gov/24768244/)).
 
 ### In the compendium
 

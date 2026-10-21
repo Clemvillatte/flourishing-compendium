@@ -704,3 +704,31 @@
   different work — not proposed).
 - Post-repair validation: NORMAL track, 4 checked, 0 failures; prose 150+ each; front-matter
   and original wikilinks preserved. Status: round-4 submission with actual final page text.
+
+## MILESTONE QC items 16-19 round 4 (advisor: captions/proposals repairs -> applied) — 2026-10-21, worker-pxy1u
+- Round-4 verdicts: all four cores scoped PASS; blockers were the added relationship claims,
+  the reciprocal-caption direction, a public process note, and a mis-executed saturation search.
+  Repairs applied:
+  (a) The broken mention-search loop re-run correctly (explicit non-empty terms per concept;
+  the earlier 'neuroaesthetic' query had passed an empty string — acknowledged, results
+  discarded). Corrected searches found: the CO003 unlinked 'Occam's Razor, William of Ockham'
+  mention (inline proposal retained); 'Moral situation research' (SINGULAR) — a page that
+  itself discusses the Milgram experiments — now the grounded situationist link, with the
+  original 'Moral situations research' (PLURAL) link RESTORED after the validator flagged its
+  loss (both pages exist: near-duplicate cluster 'Moral situation research'/'Moral situations
+  research'/'The moral situation' flagged for the supervisor); 'Escape from freedom' added
+  (its page quotes Fromm on the surrender of independence); 'Allostasis theory' added to
+  Neurobiology of addiction (its page cites Koob & Le Moal 2008, the reward-and-stress
+  predecessor account).
+  (b) All Related captions narrowed or grounded: 'runs the same argument' equivalence cut;
+  'helping collapses' -> the target's own 'helping drops'; the Simplicity-as-practice
+  application claim cut; the Incentive-salience caption rewritten as two juxtaposed facts;
+  the Relapse caption rewritten per the advisor's wording (addiction through neurocircuitry
+  vs relapse through planning).
+  (c) All 23 proposal why clauses rewritten as DESTINATION-context sentences (they will read
+  as the link line on the target page), per the advisor's Disinterested-aesthetic-pleasure
+  and Incentive-salience examples.
+  (d) The Neuroaesthetics process note ('outside this page's opened evidence') removed and
+  replaced with the advisor's suggested plain-language three-contributions sentence.
+- Post-repair validation: NORMAL track, 4 checked, 0 failures; original wikilinks preserved
+  (validator-enforced); prose 150+ each. Round-5 submission with actual file contents.
