@@ -32,7 +32,8 @@
   "Two-process model of sleep",
   "Trust",
   "Wu (non-being)",
-  "Vigilance theory"
+  "Vigilance theory",
+  "Trichromatic theory of color vision"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,10 +60,11 @@
   "Two-process model of sleep": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Borbély et al. 2016 reappraisal PDF opened, model restatement + process S quotes verbatim; validated --fast-track",
   "Trust": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Mayer et al. 1995 PDF opened, definition + ability/benevolence/integrity quotes verbatim; validated --fast-track",
   "Wu (non-being)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Legge Daodejing (Gutenberg #216) opened, ch. XI + ch. II quotes verbatim; Buddhist-parallel comparison marked as comparison; validated --fast-track",
-  "Vigilance theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Oaten & Cheng 2006 study-program abstract opened and quoted verbatim; exercise/financial-monitoring companion studies cited as abstract-read (marked not-opened); broken Cited-in-parallels replicate left as-is per owner note; validated --fast-track"
+  "Vigilance theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Oaten & Cheng 2006 study-program abstract opened and quoted verbatim; exercise/financial-monitoring companion studies cited as abstract-read (marked not-opened); broken Cited-in-parallels replicate left as-is per owner note; validated --fast-track",
+  "Trichromatic theory of color vision": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Young 1802 and Helmholtz 1911 quotes verified verbatim against opened PMC reviews (Lee 2008 PMC3095437; Zeki 2022 PMC11514330); validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:22:22+00:00",
+ "updated": "2026-10-21T16:23:51+00:00",
  "band_done": false
 }
