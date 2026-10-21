@@ -2144,3 +2144,9 @@ FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verific
 Verification pass 88 (worker-glmc4a — final): 4 principle pages, all not reached (Upanishadic and Bhagavad Gita carriers not downloaded).
 - Y094 (Kena Upanishad 1.1-2, pupil/teacher exchange), Y095 (Bhagavad Gita 4.37-4.38, bhagavadgita.com), Y096 (Katha Upanishad 1.3.14, "razor's edge"), Y097 (Katha Upanishad 1.3.14, shlokam.org): these Upanishadic and Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 88 notes 4 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 89 (worker-glmc4a — final): 1 principle page flagged; 2 not reached; 1 with no displayed quotes.
+- Y098 (Bhagavad Gita 2.47-2.48, Arnold translation, cited as Gutenberg #2388): the quote was NOT FOUND in the freshly downloaded Gutenberg #2388 (Arnold "Song Celestial") text — the "Let right deeds be Thy motive" phrasing was absent; the quote may be from a different Arnold edition or a different verse numbering; flagged for re-verification. Not a defect.
+- Y099 (Bhagavad Gita 2.48), Y100 (Bhagavad Gita 2.50 — Mukunananda-style translations): the Bhagavad Gita carriers were not downloaded this session; not reached.
+- Y101: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 89 flags Y098 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
