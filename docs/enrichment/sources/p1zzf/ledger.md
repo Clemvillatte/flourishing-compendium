@@ -30,3 +30,7 @@
 ## R039 — Practise hau
 - Opened (excerpts): Te Aka (2 entries), Williams dictionary online, Mauss The Gift (MIT excerpt incl. Ranaipiri passage), HAU journal article on Mauss, JPS abstract on Ranapiri, Ryan & Frederick 1997 abstract. NZCER excerpt seen but dropped for length. Mead/Durie not read; Stoic pneuma/Qi parallels untouched, unopened.
 - Seed "do not take others' hau / do not deplete your own" not found in any source -> reframed as modern application; Ranaipiri "Hau is not the wind" contradicts the 'breath of life' gloss in that context, disclosed; hau-of-the-gift reading disputed (Firth, JPS).
+
+## R045 — Practise respect for matai
+- Opened (search excerpts): NPS American Samoa people page, Oranga Tamariki tautua page, ANU Press matai/tautua chapter, Transnational Samoan Chiefs (researchbank.ac.nz), Samoa Law Reform Commission discussion paper, Jagiellonian paper quoting Hofstede 2001 p.98.
+- Seed cites Tuhiwai Smith 1999 (Māori research-methods book) for Samoan philosophy: unsupported, disclosed. Seed "respect isn't worship of rank" kept as framing only; added land-eviction power as a counterweight. Hofstede power distance = acceptance of inequality, not respect: labelled loose parallel. Wikilink label "Respect for authority and social order" left intact.
