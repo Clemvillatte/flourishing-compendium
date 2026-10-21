@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 38** — Treat trust as social capital
 
-Treat trust — the general confidence that others will behave cooperatively and that institutions will function — as social capital. High-trust societies have better health, higher well-being, and stronger economies (Putnam, 2000; Wilkinson and Pickett, 2009). The adaptive stance is to build trust through cooperative behavior, not to deplete it through defection.
+Putnam's definition puts trust inside the capital:
 
-**Plain words** Trust is infrastructure — the confidence that others will cooperate and institutions will function. High-trust communities are healthier, wealthier, and easier to live in. And trust is built in small, boring, repeated keepings-of-word.
+> Whereas physical capital refers to physical objects and human capital refers to properties of individuals, social capital refers to connections among individuals — social networks and the norms of reciprocity and trustworthiness that arise from them.
 
-*For example:* The neighbour who returns the borrowed ladder on time, every time — that's the whole economy of trust, compounding quietly. The community's health is built from a hundred returned ladders.
+(Putnam, 2000, Bowling Alone, ch. 1, p. 19; [chapter excerpt](https://www.nytimes.com/books/first/p/putnam-alone.html))
+
+He adds the point that matters for the practice line: a society of many virtuous but isolated individuals is not necessarily rich in social capital (p. 19). The trust is a property of the connections, not of the individuals, which is why the principle statement treats it as infrastructure rather than personal virtue.
+
+**Plain words**
+Trust is infrastructure: the confidence that others will cooperate and institutions will function. High-trust communities are healthier, wealthier, and easier to live in. And trust is built in small, boring, repeated keepings-of-word.
+
+*For example:* Imagine the neighbour who returns the borrowed ladder on time, every time: that's the whole economy of trust, compounding quietly. The community's health is built from a hundred returned ladders.
+
+## Sources
+
+- Putnam, 2000, Bowling Alone: The Collapse and Revival of American Community, ch. 1 (p. 19) — [chapter excerpt](https://www.nytimes.com/books/first/p/putnam-alone.html)
+
 ## Psychology parallels
 
 - [[Putnam|Putnam]] (2000) on social capital; trust and health (Kawachi et al., 1999); generalized trust and cooperation (Ostrom and Ahn, 2009); the trust game literature (Berg et al., 1995).
