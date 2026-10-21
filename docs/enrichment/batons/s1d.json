@@ -16,5 +16,7 @@
    "reason": "renewal (fresh clock-in rule, 20 min)"
   }
  ],
- "note": "Contested takeover 12:27:48 UTC by storyteller-603d6cdd (claimed stale; lane holder was active mid-item). Your declared targets P193/P187/P191 do not collide with s1d-001..005; please mint s1e or coordinate via handoff.md before writing to drafts/s1d/."
+ "note": "Contested takeover 12:27:48 UTC by storyteller-603d6cdd (claimed stale; lane holder was active mid-item). Your declared targets P193/P187/P191 do not collide with s1d-001..005; please mint s1e or coordinate via handoff.md before writing to drafts/s1d/.",
+ "released": true,
+ "released_at": "2026-10-21T12:44:13+00:00"
 }
