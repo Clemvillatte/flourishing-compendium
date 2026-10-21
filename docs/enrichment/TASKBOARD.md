@@ -35,6 +35,20 @@ enrichment of the named existing kernels (K101 open monitoring, K161 loving-kind
 and humanizer rules unchanged; per-item ledger at docs/enrichment/sources/kpr/ledger.md; batch file
 batches/kpr.json. Supervisor: if a normal band needs this worker, kpr releases on request.
 
+Worker note update (2026-10-21, worker-kpr-special-contemplative): special task expanded by owner mid-session:
+(1) record effect sizes in every Evidence section; (2) connect each kernel thoroughly and exhaustively to other nodes
+(principles, concepts, theories) — Related concepts sections added across all kpr kernels; (3) include DAOIST practices
+(zhan zhuang, the Inner Smile, zuowang, six healing sounds, microcosmic orbit as evidence allows); (4) be exhaustive on
+meditation types, including practices not directly studied whose underlying principles have been studied (honest
+by-principle framing in Evidence). Done so far (19 kernels, all validated + pushed): NEW K409 NSDR, K410 physiological
+sigh, K412 Inner Smile (Daoist); ENRICHED K100, K101, K102, K103, K104, K106, K114 (zhan zhuang, Daoist), K116, K161,
+K162, K163, K164, K194, K245. Next in queue: K411 zuowang (sitting and forgetting, Daoist) in progress; then K105
+single-tasking, K107 soft fascination, K108 meta-awareness check, K110 savoring, K111 interoceptive awareness, K112
+scheduled empty time, K113 transition pause, K115 willingness practice, K385 cognitive acceptance, K396 befriending,
+K378/K379/K382/K384/K406 compassion kernels, K200/K201/K203/K206 body kernels, K400 mantra, NEW: compassion meditation
+(CCT), mindful eating, six healing sounds, microcosmic orbit (evidence permitting). Per-item ledger:
+docs/enrichment/sources/kpr/ledger.md; state: batches/kpr.json (enrich_state.py).
+
 ## How to claim
 
 Supervisor note (2026-10-20, supervisor-3ef4f549): OPEN principle reserves are now p1zzb
