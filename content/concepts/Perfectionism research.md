@@ -13,7 +13,7 @@ The research line begun by Paul Hewitt and Gordon Flett in 1991: perfectionism i
 
 > "We describe three dimensions of perfectionism: self-oriented perfectionism, other-oriented perfectionism, and socially prescribed perfectionism. Four studies confirm the multidimensionality of the construct and show that these dimensions can be assessed in a reliable and valid manner." — [Hewitt & Flett (1991), abstract (PubMed, PMID 2027080)](https://pubmed.ncbi.nlm.nih.gov/2027080/)
 
-The dimensions matter clinically, not only descriptively: in the study with 77 psychiatric patients, the three related differentially to personality-disorder and maladjustment indices, and the authors concluded that "a multidimensional approach to the study of perfectionism is warranted, particularly in terms of the association between perfectionism and maladjustment" ([Hewitt & Flett, 1991](https://pubmed.ncbi.nlm.nih.gov/2027080/)). Later work in the same tradition found each dimension rising over the 1989-2016 cohorts ([Curran & Hill, 2019, meta-analysis, PubMed 29283599](https://pubmed.ncbi.nlm.nih.gov/29283599/)).
+The dimensions carry clinical weight: in the study with 77 psychiatric patients, the three related differentially to personality-disorder and maladjustment indices, and the authors concluded that "a multidimensional approach to the study of perfectionism is warranted, particularly in terms of the association between perfectionism and maladjustment" ([Hewitt & Flett, 1991](https://pubmed.ncbi.nlm.nih.gov/2027080/)). Later work in the same tradition found each dimension rising over the 1989-2016 cohorts ([Curran & Hill, 2019, meta-analysis, PubMed 29283599](https://pubmed.ncbi.nlm.nih.gov/29283599/)).
 
 ### In the compendium
 
