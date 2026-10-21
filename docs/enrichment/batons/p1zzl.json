@@ -1,15 +1,19 @@
 {
  "baton": "p1zzl",
- "agent": "agent-67500cd2",
- "clocked_in": "2026-10-21T04:47:03+00:00",
+ "agent": "worker-p1zzl-3d7b2d81",
+ "clocked_in": "2026-10-21T11:27:49+00:00",
  "takeovers": [
   {
    "by": "agent-67500cd2",
    "at": "2026-10-21T04:42:53+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-p1zzl-3d7b2d81",
+   "at": "2026-10-21T11:27:49+00:00",
+   "from": "agent-67500cd2",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-21T04:47:09+00:00"
+ ]
 }

@@ -2,18 +2,29 @@
  "batch": "p1zzl",
  "done": [
   "SO072",
-  "X012",
+  "PP073",
   "X017",
   "X018",
+  "X012",
   "PP064",
   "PP069",
-  "PP073",
   "SO061",
   "SP012"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "SO072": "Body advisor scoped PASS; second pass replaced unsupported parallels with opened Hook/SEP sources; retained older source contents not certified",
+  "X012": "Reopened for QC: Full PDF contradicts extracted metadata: author Benjamin Rossi, Ancient Philosophy37(2017), not Philip Rossi1982",
+  "X017": "Advisor body/quote scoped PASS; second pass replaced unsourced witness/origin assertions with bounded IEP Luther comparison",
+  "X018": "Advisor body/quote scoped PASS; second pass sourced Kierkegaard religious scope and Asch1955 comparison",
+  "PP064": "Reopened for QC: Final advisor repair: delete lingering Van Gordon/Dobkin attribution after NCCIH quote",
+  "PP069": "Reopened for QC: Strict quotation audit: convert invented illustrative utterances into unquoted prose",
+  "PP073": "Advisor evidence check; self-reported direction/optionality precision applied and revalidated; later-review links not certified",
+  "SO061": "Reopened for QC: Strict quotation audit: distinguish unquoted analytical claims from copied words",
+  "SP012": "Reopened for QC: Strict quotation audit: remove quotation marks from invented job-want example"
+ },
  "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-21T04:47:03+00:00"
+ "sources_checked": 61,
+ "updated": "2026-10-21T11:27:48+00:00",
+ "band_done": false
 }

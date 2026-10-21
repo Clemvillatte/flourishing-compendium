@@ -12,23 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 18** — Accept nonconformity as the price and let society be gently wrong
 
-Emerson wrote that "Society everywhere is in conspiracy against the manhood of every one of its members" and that "Whoso would be a man must be a nonconformist" ([Emerson Central, Self-Reliance](https://emersoncentral.com/texts/essays-first-series/self-reliance/)). The same essay places the cost in the open: "The virtue in most request is conformity." It also sets a gentler standard: "it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude" (same source). Emerson's target, then, is dependence on the crowd's opinion, whether one is in company or alone.
+Emerson's challenge is to remain self-directed among other people, not merely when alone. He calls conformity a surrender of independence and writes:
 
-Asch's experiments show how heavy the pressure is. On critical trials about one third of responses went along with a unanimous wrong majority, and about 75% of participants did so at least once ([Simply Psychology](https://www.simplypsychology.org/asch-conformity.html)). Most responses were still independent: 63.2% of responses said what the participant saw, and 29 of 123 never yielded ([Pioneers of Human Behaviour](https://pioneersofhumanbehaviour.com/solomon-asch/)). When one confederate gave the correct answer, conformity fell from about 32% to 5% ([Simply Psychology](https://www.simplypsychology.org/asch-conformity.html)). Standing alone costs more than standing with one other person.
+> Whoso would be a man must be a nonconformist.
 
+([Self-Reliance, paragraph 7, National Humanities Center edition](https://nationalhumanitiescenter.org/pds/triumphnationalism/cman/text8/selfreliance.pdf).)
 
+Yet his ideal needn't be combative: paragraph 9 praises keeping the independence of solitude “with perfect sweetness” while among a crowd. Paragraph 14 also allows tomorrow's judgment to contradict today's ([Self-Reliance, paragraphs 9 and 14](https://nationalhumanitiescenter.org/pds/triumphnationalism/cman/text8/selfreliance.pdf); [full essay](https://emersoncentral.com/texts/essays-first-series/self-reliance/)).
 
-(Emerson, Self-Reliance.)
+### A psychological comparison
 
-### Scope
+In Asch's 1955 report, 123 male college students faced a unanimous group giving wrong answers about line lengths. Participants followed the wrong majority in 36.8% of critical judgments; about a quarter never yielded. A truthful partner reduced errors to one quarter of their rate under a unanimous majority. These findings concern public line judgments, not a test of Emerson's philosophy or proof that dissent is correct ([Asch, “Opinions and Social Pressure,” 1955, offprint pp. 3-5](https://www.columbia.edu/cu/psychology/terrace/w1001/readings/asch.pdf)).
 
-Emerson's lines are quoted through a quotation page rather than the essay in full, and Asch through secondary summaries rather than his 1956 monograph. "A crowd of two" is the compendium's phrase; Emerson does not use it in the lines quoted. The suggested exercise is the compendium's.
+### Plain words
 
-**Plain words**
-Emerson says agreement has a price: your own judgment. Asch shows how strong the pull is, and that one ally eases it.
+You can disagree without making disagreement your identity. Emerson leaves room both to hold your judgment among others and to change it later ([Self-Reliance, paragraphs 9 and 14](https://nationalhumanitiescenter.org/pds/triumphnationalism/cman/text8/selfreliance.pdf)).
 
-**For example**
-Pick one opinion you hold only because people around you hold it. Write down the evidence you would give a stranger, and see what remains.
+### For example
+
+Optional application (Cognition; Overt behaviour): write down one disputed judgment and the reasons behind it. Discuss it without borrowing the group's verdict or opposing it automatically. Afterwards compare the reasons offered; revise what no longer holds and retain what survives that examination.
 
 ## Sources
 
@@ -36,11 +38,21 @@ Pick one opinion you hold only because people around you hold it. Write down the
 - [Simply Psychology: Asch Conformity Experiment](https://www.simplypsychology.org/asch-conformity.html)
 - [Pioneers of Human Behaviour: Solomon Asch, the numbers, the papers and the record](https://pioneersofhumanbehaviour.com/solomon-asch/)
 
+- [Emerson, Self-Reliance excerpts with paragraph numbers (National Humanities Center)](https://nationalhumanitiescenter.org/pds/triumphnationalism/cman/text8/selfreliance.pdf)
+- [Asch 1955, Opinions and Social Pressure (Columbia offprint)](https://www.columbia.edu/cu/psychology/terrace/w1001/readings/asch.pdf)
+- [Kierkegaard, On the Dedication to “That Single Individual,” trans. Charles K. Bellinger (CCEL)](https://www.ccel.org/ccel/kierkegaard/untruth/files/untruth.html)
+
 ## Psychology parallels
 
-- **Conformity research and independence's costs**, the classic findings on the pressure of unanimity (Asch, 1956)
+- **Majority pressure**: Asch's line-judgment experiments examine independence and yielding under a unanimous majority; they do not show that the majority is usually wrong outside that setting ([1955 report](https://www.columbia.edu/cu/psychology/terrace/w1001/readings/asch.pdf)).
 
 ## Philosophy parallels
 
-- **The crowd is untruth** (Kierkegaard, as the cross-tradition echo)
-- **Do not go where the path may lead** (Emerson's own counsel)- **[[Self-reliance|Self-reliance]]** (Skeptic & Mesoamerican)
+- **Kierkegaard's single individual**: his challenge to the crowd concerns ethical and religious responsibility, explicitly distinguished from politics. It offers a comparison with Emerson's independence, not a rule that a minority opinion is true ([“On the Dedication to ‘That Single Individual,’” trans. Bellinger](https://www.ccel.org/ccel/kierkegaard/untruth/files/untruth.html)).
+- **[[Self-reliance|Self-reliance]]**: the principle's companion concept.
+
+## Related concepts
+
+- [[Conformity]]: the empirical question of how a majority influences a judgment.
+- [[Self-reliance]]: Emerson's larger concern with self-trust and public opinion.
+- [[Authenticity]]: compare living from one's commitments with merely performing agreement or dissent.

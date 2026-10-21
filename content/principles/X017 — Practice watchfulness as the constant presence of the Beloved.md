@@ -12,21 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 17** — Practice watchfulness as the constant presence of the Beloved
 
-Muraqabah comes from the Arabic root for watching or keeping vigil, and its textual root is the hadith of Gabriel. Asked about ihsan, the Prophet answers "That you worship Allah as if you are seeing Him, for though you don't see Him, He, verily, sees you" ([Dar al-Ifta, Egypt](https://www.dar-alifta.org/en/article/details/259/watchfulness-al-muraqabah)). A commentary in the Bukhari text on [Tohed](https://en.tohed.com/hadith/bukhari/50/) reads the two halves as two levels: mushahadah (witnessing) and muraqabah, the awareness that one is seen. An Islam Ansiklopedisi entry says the muraqaba of ordinary people is fear while that of the distinguished is hope ([Questions on Islam](https://questionsonislam.com/question/what-muraqaba-meditation)).
+Muraqabah joins awareness of God with attention to intentions and conduct. Egypt's Dar al-Ifta explains it through knowledge that God observes public actions and what a person conceals inwardly ([Dar al-Ifta, “Watchfulness”](https://www.dar-alifta.org/en/article/details/259/watchfulness-al-muraqabah)). This is a contemporary religious explanation drawing on scripture and hadith, rather than a modern psychological efficacy study.
 
-The audience-transfer framing is the compendium's. The tradition describes accountability before God, which is not the same as lovers' attention, though the hope level comes closer. A modern cousin is the watching-eyes literature. A meta-analysis of 15 experiments found a 35% reduction in the risk of antisocial behaviour when eye cues were present ([Dear, Dutton and Fox 2019, data record](https://data.mendeley.com/datasets/n8pxptkmfj/1)). Other meta-analyses found no effect on donations and an effect near zero on moral judgments ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10806148/)).
+The hadith of Gabriel gives a related account of ihsan:
 
-(The muraqabah practice; the tradition's counsel on ihsan, "worship as if you see Him.")
+> That you worship Allah as if you are seeing Him, for though you don't see Him, He, verily, sees you.
 
-### Scope
+([Sahih Muslim 8a, Book of Faith, account of ihsan](https://sunnah.com/muslim:8a).)
 
-The hadith and muraqabah descriptions on this page come from secondary and online sources; no classical Sufi text is quoted. The exercise suggested in the seed (recall the witness before each act) has no study behind it in the sources opened for this page. Watching-eyes research concerns painted eyes, not belief in a divine witness.
+Dar al-Ifta recommends remembrance of God through dhikr as a way to cultivate watchfulness. Its concern is the relation to God that informs ordinary conduct, including what remains unspoken ([“Watchfulness,” concluding guidance](https://www.dar-alifta.org/en/article/details/259/watchfulness-al-muraqabah)).
 
-**Plain words**
-Muraqabah is acting as though you are seen. The tradition frames this as awareness of God's presence, and it ranges from fear to hope.
+(The muraqabah practice; the tradition's counsel on ihsan.)
 
-**For example**
-For one day, before each task you would normally do for show, pause for one breath and recall who is truly watching. Note afterwards what changed.
+### Plain words
+
+You may appear patient while inwardly preparing a cutting reply. This practice asks you to attend to both, remembering that neither is hidden from God; it is more than looking composed to other people ([Dar al-Ifta](https://www.dar-alifta.org/en/article/details/259/watchfulness-al-muraqabah)).
+
+### For example
+
+Optional application (Attention; Overt behaviour): before one difficult reply, pause for remembrance and notice your intention. Afterwards, compare whether the reply expressed the care you intended. If the pause merely fuelled self-reproach, try a shorter cue or seek guidance; retain what helps you return to remembrance and responsible conduct. This is not a prescribed religious formula.
 
 ## Sources
 
@@ -35,12 +39,19 @@ For one day, before each task you would normally do for show, pause for one brea
 - [Questions on Islam: What is Muraqaba?](https://questionsonislam.com/question/what-muraqaba-meditation)
 - [Dear, Dutton and Fox 2019: data record (Mendeley)](https://data.mendeley.com/datasets/n8pxptkmfj/1)
 - [Watching eyes effect: imagined eyes (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10806148/)
+- [Sahih Muslim 8a, the hadith of Gabriel (Sunnah.com)](https://sunnah.com/muslim:8a)
+- [David M. Whitford, Martin Luther, “Theology of the Cross” (Internet Encyclopedia of Philosophy)](https://iep.utm.edu/luther/)
 
 ## Psychology parallels
 
-- **Audience effects and integrity priming**, the research on being watched, honesty, and quality (the watching-eyes findings; accountability research, as the modern cousins, with their limits noted)
+- **Self-monitoring**: a comparison for the exercise's attention to conduct, not an explanation of devotional awareness or evidence for its benefits.
 
 ## Philosophy parallels
 
-- **The always-already present witness** (cross-tradition echoes of the witness)
-- **[[Coram Deo|Coram Deo]]** (the Reformation's phrase, as the cross-tradition echo)
+- **[[Coram Deo|Coram Deo]]**: in Luther's account, righteousness before God differs from righteousness viewed before other people. This is a comparison of theological perspectives, not an assertion that Lutheran justification and muraqabah prescribe the same practice ([Whitford, “Theology of the Cross”](https://iep.utm.edu/luther/)).
+
+## Related concepts
+
+- [[Attention]]: follow the question of what guides awareness during ordinary action.
+- [[Self-monitoring (Michie et al.)]]: compare recording behaviour with the different religious concern of being seen by God.
+- [[Present-moment awareness theory]]: another reading route on returning attention; its psychological account does not establish devotional claims.

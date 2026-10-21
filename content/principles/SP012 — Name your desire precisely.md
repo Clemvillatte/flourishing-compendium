@@ -12,32 +12,41 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 12** — Name your desire precisely
 
-In the Elwes translation, the scholium to Ethics III P9 says that "between appetite and desire there is no difference, except that the term desire is generally applied to men, in so far as they are conscious of their appetite", and so desire is "appetite with consciousness thereof" ([Spinoza, Ethics, Marxists Internet Archive](https://www.marxists.org/reference/subject/philosophy/works/ne/ethics.htm)). Definition 1 of the emotions adds that desire is "the actual essence of man, in so far as it is conceived, as determined to a particular activity by some given modification of itself". Spinoza says that by desire he means "all man's endeavours, impulses, appetites, and volitions", which "are, therefore, not seldom opposed one to another, according as a man is drawn in different directions, and knows not where to turn" (same source).
+Spinoza places desire within our striving to persist. The note to Ethics III.9 describes appetite as striving considered in mind and body together, then offers this formulation:
 
-That last passage supports the principle's practical side: if our desires vary and conflict, it helps to see which one is moving us. Spinoza does not tell the reader to rewrite vague appetites as specific ones, and the example "I want this person's regard, this security, this freedom" is not in the passages quoted. The procedure is the compendium's extension of his account of consciousness of appetite.
+> Desire is appetite with consciousness thereof.
+
+([Ethics III.9, note, trans. R. H. M. Elwes](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm).)
+
+His later explanation complicates any simple boundary between unconscious appetite and conscious desire. In Definition of the Emotions I, he says appetite remains the same whether a person is conscious of it or not; the definition encompasses impulses and volitions that can pull someone in opposing directions ([Ethics III, Definition I, explanation](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). This is a philosophical account, not a claim that naming a want makes it wise or resolves its causes ([LeBuffe, section 1.3, on confused ideas and striving](https://plato.stanford.edu/entries/spinoza-psychological/)).
 
 (Ethics III, P9 scholium; Desire, definition 1 of the affects.)
 
-### Scope
+### Plain words
 
-These passages are read through the Elwes translation and the [Stanford Encyclopedia](https://plato.stanford.edu/entries/spinoza-psychological/). Gollwitzer 1999 was not opened, so the goal-specificity parallel is untested here. The claim that an imprecise desire "produces an imprecise life" is not in Spinoza.
+Wanting a different job might mean wanting more security, more time or more recognition. Ask which you mean before treating it as one settled wish. This is a reflective use of the principle, not a translation of Spinoza's definition.
 
-**Plain words**
-For Spinoza, desire is an appetite you are aware of. Being aware of what you want helps you see which of your drives are pulling you.
+### For example
 
-**For example**
-Write down one thing you want, then write what it would give you. If two answers conflict, you have found two desires.
+Optional exercise (Cognition; Motivation): write one want, then list two different things fulfilling it might give you. Compare those answers with a recent choice and revise the description if it doesn't fit. Keep the wording that better distinguishes the competing wants, and revisit it after your next choice. The exercise can sharpen a question without promising to settle what you should do.
 
 ## Sources
 
 - [Spinoza, Ethics (Elwes translation), Marxists Internet Archive](https://www.marxists.org/reference/subject/philosophy/works/ne/ethics.htm)
 - [Stanford Encyclopedia of Philosophy: Spinoza's Psychological Theory](https://plato.stanford.edu/entries/spinoza-psychological/)
+- [Spinoza, Ethics, trans. R. H. M. Elwes (Project Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm), III.9 note; Definition of the Emotions I.
+- [SN 56.11, trans. Bhikkhu Sujato (SuttaCentral)](https://suttacentral.net/sn56.11/en/sujato), the truth of the origin of suffering.
 
 ## Psychology parallels
 
-- **Goal specificity effects**, the reliable finding that concrete goals outperform abstract intentions (Gollwitzer, 1999, implementation intentions)
+- **Planning and monitoring**: practical comparisons, not evidence that Spinoza's account is a tested goal-setting intervention.
+
+## Related concepts
+
+- [[Conatus]]: the wider account of striving within which this page places desire.
+- [[Desire]]: compare the compendium's different philosophical uses of the term rather than treating them as one theory.
+- [[Desire analyzed]]: a reading route to another philosophical inquiry into wanting; the exercise above makes no claim to reproduce it.
 
 ## Philosophy parallels
 
-- **Know what you want** (Kierkegaard, Either/Or, the "Diapsalmata")
-- **Trishna as the structure of wanting** (Buddhist Second Noble Truth)
+- **Buddhist craving**: SN 56.11 distinguishes craving for sensual pleasures, continued existence and nonexistence in its account of suffering's origin. These are specific forms of craving within that teaching, not an interchangeable definition of Spinoza's account of striving ([SN 56.11, Sujato translation](https://suttacentral.net/sn56.11/en/sujato)).

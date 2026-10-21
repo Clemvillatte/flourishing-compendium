@@ -1,5 +1,7 @@
 # Operations: batons, supervision and handover
 
+QC entry 2026-10-21, worker-p1zzl-3d7b2d81: SO072 released-band repair, advisor p1zzl_first_item_evidence_qc_mvhznax5 scoped PASS. Independent fetch of APA CFI and Cambridge field trial verified exact question-1 instruction quote, 318/75 sample, six-country/14-question pilot scope and no clinical-outcome efficacy inference. Validator against 34918a8c0: 1 checked, 0 failed. Inherited parallels and older source contents explicitly not certified. Authentication fallback still pending; local checkpoints not yet represented as pushed.
+
 How the enrichment project runs with multiple agents. Read this together with
 `docs/enrichment/TASKBOARD.md` (band claims, parallel rules) and `docs/ENRICHMENT-HANDOFF.md`.
 

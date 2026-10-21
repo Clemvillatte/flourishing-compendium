@@ -1,0 +1,38 @@
+{
+  "reciprocal": [
+    {"into": "SO022 — Use cultural humility as a practice", "link": "SO072 — Use cultural formulation in clinical practice", "why": "a structured interview for asking about a person's cultural context"},
+    {"into": "Cultural psychology", "link": "SO072 — Use cultural formulation in clinical practice", "why": "a clinical application that asks about this person's understanding and circumstances"},
+    {"into": "Fusion of horizons", "link": "SO072 — Use cultural formulation in clinical practice", "why": "a clinical comparison for listening across different accounts of a problem"},
+    {"into": "Friendship", "link": "X012 — Make friendship the load-bearing wall", "why": "Epicurean friendship as confidence that help will be there"},
+    {"into": "Aristotelian friendship", "link": "X012 — Make friendship the load-bearing wall", "why": "compare shared virtuous activity with Epicurean security"},
+    {"into": "Ataraxia", "link": "X012 — Make friendship the load-bearing wall", "why": "friendship as a source of security in an Epicurean life"},
+    {"into": "Attention", "link": "X017 — Practice watchfulness as the constant presence of the Beloved", "why": "devotional attention to intention and conduct"},
+    {"into": "Self-monitoring (Michie et al.)", "link": "X017 — Practice watchfulness as the constant presence of the Beloved", "why": "compare behaviour tracking with devotional watchfulness"},
+    {"into": "Present-moment awareness theory", "link": "X017 — Practice watchfulness as the constant presence of the Beloved", "why": "a religious practice of returning attention through remembrance"},
+    {"into": "Conformity", "link": "X018 — Accept nonconformity as the price and let society be gently wrong", "why": "holding a revisable judgment under majority pressure"},
+    {"into": "Self-reliance", "link": "X018 — Accept nonconformity as the price and let society be gently wrong", "why": "Emerson's independence among other people, with room to change one's mind"},
+    {"into": "Authenticity", "link": "X018 — Accept nonconformity as the price and let society be gently wrong", "why": "dissent chosen for reasons rather than a performance of opposition"},
+    {"into": "Mindfulness", "link": "PP064 — Monitor for adverse effects", "why": "noticing unwanted changes during a meditation practice"},
+    {"into": "Outcome monitoring in psychological treatment", "link": "PP064 — Monitor for adverse effects", "why": "monitor unwanted changes as well as hoped-for gains"},
+    {"into": "Self-monitoring (Michie et al.)", "link": "PP064 — Monitor for adverse effects", "why": "record distress and functioning without treating a log as a safety test"},
+    {"into": "Self-monitoring (Michie et al.)", "link": "PP069 — Build social accountability", "why": "sharing an action record in a voluntary check-in"},
+    {"into": "Self-regulation", "link": "PP069 — Build social accountability", "why": "compare recorded progress with a goal before adjusting the next step"},
+    {"into": "Implementation intentions", "link": "PP069 — Build social accountability", "why": "progress reporting as a companion to planning when to act"},
+    {"into": "Psychological detachment", "link": "PP073 — Build rest into the system", "why": "time away from work and the question of feeling restored"},
+    {"into": "Recovery experiences", "link": "PP073 — Build rest into the system", "why": "try different breaks and compare how fatigue changes"},
+    {"into": "Recovery science", "link": "PP073 — Build rest into the system", "why": "distinguishing detachment associations from short-break experiments"},
+    {"into": "Social determinants of health", "link": "SO061 — Treat economic inequality as a health determinant", "why": "the disputed contextual effect of income distribution on health"},
+    {"into": "Social determinants of well-being", "link": "SO061 — Treat economic inequality as a health determinant", "why": "separating income distribution, living conditions and distinct outcomes"},
+    {"into": "Relative deprivation", "link": "SO061 — Treat economic inequality as a health determinant", "why": "income comparison as a possible pathway, distinct from established mortality causation"},
+    {"into": "Conatus", "link": "SP012 — Name your desire precisely", "why": "desire within Spinoza's account of striving"},
+    {"into": "Desire", "link": "SP012 — Name your desire precisely", "why": "distinguish competing wants without equating their names with their causes"},
+    {"into": "Desire analyzed", "link": "SP012 — Name your desire precisely", "why": "compare another philosophical approach to examining what one wants"}
+  ],
+  "inline": [],
+  "notes": [
+    "Worker-p1zzl-3d7b2d81 repair pass. These are proposals only, not applied changes.",
+    "Each reciprocal corresponds to one of the 27 Related concepts lines in the nine owned principle pages. No destination page was edited.",
+    "Destinations were read and corpus-searched; claims and limits are recorded in sources/p1zzl/*-repair-3d7b2d81.md.",
+    "The supervisor must check current baton/in-progress protection and existing links before integration. No worker invocation of enrich_apply.py."
+  ]
+}

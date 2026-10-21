@@ -1,0 +1,21 @@
+# SO072 repair evidence
+
+Agent: worker-p1zzl-3d7b2d81. Baseline: 34918a8c0. First repair item.
+
+- Opened APA CFI PDF: https://www.psychiatry.org/getmedia/5cc5329d-3bd4-4c6a-bae1-dfd0d6496f44/APA-DSM5TR-CulturalFormulationInterview.pdf . Verified 16 numbered questions, individual explanatory model, stressors/supports, cultural identity, help-seeking, relationship concerns; question 1 instructions require using the person's description in later questions. Blockquote copied verbatim from printed p. 1: “Focus on the individual’s own way of understanding the problem.” Introductory notice says not to use it as the sole basis for diagnosis and prohibits modification without permission.
+- Opened Lewis-Fernández et al. (2017), British Journal of Psychiatry 210:290-297: https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/feasibility-acceptability-and-clinical-utility-of-the-cultural-formulation-interview-mixedmethods-results-from-the-dsm5-international-field-trial/FD28CDEA89A308AA90C4BF7BAF335D4E . Abstract establishes 318 patients/75 clinicians, six countries, ratings and lower clinician feasibility; introduction/methods distinguish 14-item pilot from final 16-item form and establish service-domain study aims. Do not treat perceived utility as clinical-outcome efficacy.
+- Also opened 2026 adolescent pilot: https://pmc.ncbi.nlm.nih.gov/articles/PMC12807972/ . Abstract/method summary concerns six adolescents and three clinicians, perceived feasibility/utility, and a forthcoming implementation study. Correction notice visible. Not used as evidence in the page; no generalized claim that outcome research does not exist.
+- Removed public seed/editing-history statements and first-person unopened-source notes. Older sources retained as existing links, not certified as opened by this worker.
+- Existing Psychology/Philosophy parallels remain inherited and unverified (Sue, Hook, Gadamer, Buber, EEMM identification). No claim of whole-page certification.
+- Suggested note-format exercise is a compendium application, not evidence of effectiveness or a change to the APA measure. Variation: try a format; selection: compare against patient-stated concern/help; retention: keep or revise. Dimensions: Attention and Overt behaviour.
+- Search pass 1: cultural formulation international field trial, 318 and 75. Search pass 2: cultural formulation clinical assessment 16 questions. Both locate the established instrument, its introductory article and implementation/pilot studies. No new concept proposed.
+- Corpus searches: “cultural formulation”, “cultural humility”. Read SO022, Cultural psychology and Fusion of horizons before adding three reciprocal-path suggestions as Related concepts within this page only. No other page edited.
+- Validation against 34918a8c0: 1 checked, 0 failed; front matter, principle statement and all five prior URL targets preserved.
+- First-item independent advisor p1zzl_first_item_evidence_qc_mvhznax5: scoped PASS. Advisor independently fetched APA PDF and Cambridge article; verified quotation, counts, pilot/final distinction, perceived-utility limitation and optional exercise. Inherited parallels, older source content and saturation completion were explicitly not certified.
+
+## Second pass: parallel claims
+
+- Opened https://pubmed.ncbi.nlm.nih.gov/23647387/ : Hook et al.2013, four studies, construct and correlational associations with alliance/improvement. Replaced broken Sue/Aggarwal list; did not claim causation or a CFI trial.
+- Opened https://plato.stanford.edu/entries/gadamer/ : Jeff Malpas §3.2, fusion as dialogue/common context where neither side remains unaffected. Opened https://plato.stanford.edu/entries/buber/ : Michael Zank §3, encounter and instrumentality. Applied as explicitly philosophical comparisons, not clinical evidence.
+- Removed categorical “CFI is the clinical instrument of EEMM” claim. Optional compendium integration now clearly labelled and not an official-measure attribution.
+- This supersedes the earlier inherited-parallels flag for the three now-replaced entries. Older retained source-list contents remain uncertified; no guarantee of exhaustive citation coverage beyond the actual claims.

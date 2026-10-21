@@ -1,5 +1,7 @@
 # Enrichment task board
 
+Worker claim (2026-10-21, worker-p1zzl-3d7b2d81): taking RELEASED p1zzl for a bounded repair/QC pass over its nine recorded-done principles. Supervisor baton fresh; all principle manifests currently fully recorded done. First item SO072: remove reader-facing audit commentary, verify the CFI evidence, and improve Plain words and implementation. This is repair work, not nine new completions. No other band's content or state will be edited. Session clock and evidence notes: sources/p1zzl/session-3d7b2d81.md. API-scoped secure credential pending after Git transport failure.
+
 Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, then take a baton (see `docs/enrichment/OPERATIONS.md`), then claim work here.
 
 STORIES PIPELINE (2026-10-20, separate): narrative-object work lives in its own pipeline

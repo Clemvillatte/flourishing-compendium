@@ -12,23 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 69** — Build social accountability
 
-The closest evidence is a meta-analysis of 138 experiments on monitoring progress toward goals. Monitoring promoted goal attainment (d+ = 0.40), and it had larger effects "when the outcomes were reported or made public" ([Harkin et al. 2016, PubMed](https://pubmed.ncbi.nlm.nih.gov/26479070/)). In the full text, reporting the information to someone gave d+ = 0.47, public monitoring d+ = 0.55 and private monitoring d+ = 0.19 ([Harkin et al., author copy](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf)). A secondary summary says a trim-and-fill adjustment lowered the average effect to d+ = 0.19 ([The Growth Reads](https://thegrowthreads.com/article/productivity/accountability-partner/)).
+Harkin and colleagues combined 138 experiments involving 19,951 participants. Interventions that increased progress monitoring improved goal attainment on average, with an effect size of d = 0.40. Between-study moderator analyses found larger effects in studies where monitoring information was reported to someone or made public, and where it was physically recorded ([2016 meta-analysis, abstract](https://pubmed.ncbi.nlm.nih.gov/26479070/); [accepted manuscript, abstract p. 2](https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf)).
 
-Leahey and colleagues studied a 12-week team weight-loss competition. Weight loss was similar among teammates (ICC = 0.10), and higher reported social influence went with greater odds of a 5% weight loss (OR = 1.20) ([Leahey et al. 2012, Obesity](https://onlinelibrary.wiley.com/doi/abs/10.1038/oby.2012.18)). This is an observational study of teammates in a shared programme, not a test of an accountability partner who "just asks".
+The review concerns monitoring, not a guarantee for any particular partner arrangement. Reporting what happened also differs from announcing who you intend to become. In four experiments, Gollwitzer and colleagues found that noticed identity-related intentions could be acted on less intensively; the effect depended on commitment to the identity goal ([2009 study, abstract](https://pubmed.ncbi.nlm.nih.gov/19389130/)).
 
-Telling people can also backfire. In four experiments, Gollwitzer and colleagues found that identity-related intentions noticed by others were worked on less ([HabitDex summary](https://habitdex.com/methods/public-commitment)).
+### Plain words
 
-(Leahey et al., 2012; Best et al., 2016.)
+For a writer, a record of three mornings at the desk gives a partner something concrete to review. A plan to become disciplined is still an intention; progress reporting and public identity intentions are different questions in these studies ([Harkin et al.](https://pubmed.ncbi.nlm.nih.gov/26479070/); [Gollwitzer et al.](https://pubmed.ncbi.nlm.nih.gov/19389130/)).
 
-### Scope
+### For example
 
-The seed's claim of a "well-documented effect" of accountability is stronger than the sources opened for this page support. No trial of an accountability partner who does not share the practice was found, and Best 2016 is listed as further reading, not summarized here. Gollwitzer 2009 is represented through a secondary summary.
-
-**Plain words**
-Reporting your progress to another person tends to help follow-through, but the evidence is modest.
-
-**For example**
-Agree with one person that you will send them a short progress note each Sunday, with the actual number or fact, not a promise.
+Optional application (Motivation; Overt behaviour): agree with a willing person on one action and a brief weekly report of what happened. Share only what you consent to share. After two check-ins, compare the record with your goal and ask whether the arrangement helped you act. Change the timing or format if it did not; retain it only while useful. This is not a tested partner protocol.
 
 ## Sources
 
@@ -40,7 +34,13 @@ Agree with one person that you will send them a short progress note each Sunday,
 
 ## Psychology parallels
 
--  (Leahey et al., 2012)
+- **Progress monitoring**: the experimental evidence supporting the page's narrower account ([Harkin et al., abstract](https://pubmed.ncbi.nlm.nih.gov/26479070/)).
+
+## Related concepts
+
+- [[Self-monitoring (Michie et al.)]]: recording action before deciding whether to share a report.
+- [[Self-regulation]]: comparing what happened with the goal and adjusting the next step.
+- [[Implementation intentions]]: a companion question about planning when to act, distinct from reporting afterwards.
 
 <!-- fc: reflections
 Who could be your accountability partner? Have you asked?
