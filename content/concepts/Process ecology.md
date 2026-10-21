@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Process ecology” — Cobb, Is It Too Late?.
 
-Process ecology is John Cobb's reading of the ecological crisis through Whiteheadian process thought: reality is events in relation rather than self-subsisting substances, so ecology is not one topic among others but the way the world is built. A study of Cobb's ecological theology states the metaphysical core:
+Process ecology is the compendium's name for John Cobb's reading of ecology through Whiteheadian process thought. A study of Cobb's ecological theology states the metaphysical core:
 
-> "The core of process theology involves process philosophy, which rejects the dichotomy between mental and material realms and does not support the notion of 'every entity existing independently of all other entities.' Rather, it advocates for the idea that 'every event is largely composed of its relations with other events' (see Cobb 1972:33–35; 1992:2–3)." (From Process Philosophy to Process Theology: The Ecological Theological Perspective of John Cobb, [Studia Historiae Religiosum 122](https://journals.co.za/doi/pdf/10.7833/122-1-2130))
+> "The core of process theology involves process philosophy, which rejects the dichotomy between mental and material realms and does not support the notion of 'every entity existing independently of all other entities.' Rather, it advocates for the idea that 'every event is largely composed of its relations with other events' (see Cobb 1972:33–35; 1992:2–3)." (Renzhong Cui, [From Process Philosophy to Process Theology: The Ecological Theological Perspective of John Cobb, Scriptura 122 (2023:1), pp. 1–11](https://journals.co.za/doi/pdf/10.7833/122-1-2130))
 
 ### The ecological payoff
 
@@ -26,14 +26,14 @@ The same study ties the point to nature's value: "For him, nature has an intrins
 
 ## Related concepts
 
-- [[Interbeing]] — the Buddhist statement of the same anti-substance intuition
-- [[Deep ecology]] — the intrinsic-value stance process ecology shares
-- [[Ecological self]] — the identity that follows from it
+- [[Interbeing]] — a Buddhist account of mutual dependence
+- [[Deep ecology]] — a position on nature's intrinsic value
+- [[Ecological self]] — a related account of self and nature
 
 ## Sources
 
 - Cobb, Is It Too Late?
-- [From Process Philosophy to Process Theology: The Ecological Theological Perspective of John Cobb, Studia Historiae Religiosum](https://journals.co.za/doi/pdf/10.7833/122-1-2130) — the relations-not-substances core and the intrinsic-value passages
+- [Renzhong Cui, "From Process Philosophy to Process Theology: The Ecological Theological Perspective of John Cobb", Scriptura 122 (2023:1), pp. 1–11](https://journals.co.za/doi/pdf/10.7833/122-1-2130) — the relations-not-substances core and the intrinsic-value passages
 
 ## Cited in philosophy parallels
 

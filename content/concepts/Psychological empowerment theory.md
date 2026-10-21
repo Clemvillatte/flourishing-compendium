@@ -9,13 +9,13 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Psychological empowerment theory** — Spreitzer — empowerment is intrinsic task motivation rooted in meaning, competence, self-determination and impact.
 
-Psychological empowerment, in Gretchen Spreitzer's model, is not a grant from above but a set of cognitions about one's work. A validation study summarizes the definition:
+Psychological empowerment, in Spreitzer's model, is a motivational construct made of four cognitions about one's work role. A validation study summarizes the definition:
 
 > "Spreitzer sees psychological empowerment as a motivational construct manifested in four cognitions: meaning, competence, self-determination and impact." (Fadda et al., [Validation of a scale to measure parental psychological empowerment, JPHR 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5641652/))
 
 ### The four cognitions
 
-Meaning is the fit between the work and one's own ideals; competence is the belief one can perform skilfully; self-determination is choice in initiating and regulating one's actions; impact is the sense of producing intended effects. The same study adds that "taken together, these characteristics represent an active orientation to a work role, meaning that the individual aspires at shaping his role and environment, and feels competent in doing it". Empowerment thus sits close to intrinsic motivation and is measured by the 12-item Spreitzer scale.
+The same study adds that "taken together, these characteristics represent an active orientation to a work role, meaning that the individual aspires at shaping his role and environment, and feels competent in doing it". The construct is measured by the 12-item Spreitzer scale, with three items for each cognition.
 
 ### In the compendium
 
@@ -26,9 +26,9 @@ Meaning is the fit between the work and one's own ideals; competence is the beli
 
 ## Related concepts
 
-- [[Autonomy]] — the self-determination cognition in its fuller form
-- [[Locus of control]] — the impact belief's dispositional cousin
-- [[Community psychology theory]] — the field where empowerment research began
+- [[Autonomy]] — the broader concept behind self-determination
+- [[Locus of control]] — a related belief about one's influence on outcomes
+- [[Community psychology theory]] — a related tradition in empowerment research
 
 ## Sources
 

@@ -15,7 +15,7 @@ Protection motivation theory (PMT) is Ronald Rogers's account of how fear appeal
 
 ### The two appraisals
 
-Threat appraisal is the estimate of harm: how serious the consequences would be (severity) and how likely one is to meet them (vulnerability). Coping appraisal is the estimate of the response: whether the recommended action would work (response efficacy) and whether one can carry it out (self-efficacy). Fear alone does little; the seed line above compresses the point into severity plus vulnerability plus efficacy.
+The same article describes each process: "Threat appraisal is a process of estimating the severity and vulnerability of a threat, while coping appraisal refers to the process of evaluating the response efficacy and self-efficacy of the individual who is exposed to the threat". Coping appraisal further includes response barriers, which "emphasize the potential costs of coping mechanisms such as time, effort, money, etc.". The seed line above compresses the point into severity plus vulnerability plus efficacy.
 
 ### In the compendium
 
@@ -26,13 +26,13 @@ Threat appraisal is the estimate of harm: how serious the consequences would be 
 
 ## Related concepts
 
-- [[Risk perception]] — the threat-appraisal input
-- [[Terror management]] — what mortality threat does to motivation more broadly
-- [[Anxiety about the future]] — the felt side of anticipated harm
+- [[Risk perception]] — the perception behind threat appraisal
+- [[Terror management]] — a theory about mortality threat and motivation
+- [[Anxiety about the future]] — a related state of anticipated harm
 
 ## Sources
 
-- [Zhu, Wen, Chu, Zhang & Liu, "Consumers' Food Safety Risk Communication on Social Media Following the Suan Tang Zi Accident", IJERPH 2021, PMC8345550](https://pmc.ncbi.nlm.nih.gov/articles/PMC8345550/) — the two-process statement of PMT and its Rogers origin
+- [Zhu, Wen, Chu, Zhang & Liu, "Consumers' Food Safety Risk Communication on Social Media Following the Suan Tang Zi Accident", IJERPH 2021, PMC8345550](https://pmc.ncbi.nlm.nih.gov/articles/PMC8345550/) — the two-process statement of PMT and the appraisal descriptions
 
 ## Field
 

@@ -9,13 +9,13 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Premack principle** — higher-probability behaviours reinforce lower-probability ones; access to preferred activity is a reward.
 
-The Premack principle is David Premack's 1959 probability-differential hypothesis: behaviors an individual does more freely can reinforce behaviors they do less freely. A behavior-analytic tutorial states it in one line:
+The Premack principle is David Premack's 1959 probability-differential hypothesis. A behavior-analytic tutorial states it in one line:
 
 > "This approach has a long history beginning with Premack's (1959) probability-differential hypothesis (i.e., 'the Premack principle'), which stated that high-probability behavior reinforces low-probability behavior." (Jacobs, Morford, King & Hayes, [Predicting the Effects of Interventions, Behavior Analysis in Practice 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5459771/))
 
 ### What it replaces
 
-The principle's interest is that no stimulus needs to be named as "the reward": the opportunity to do the preferred activity is the reinforcer. The everyday arrangement: the low-probability task first, the high-probability activity contingent on it.
+The principle's interest is that the reinforcer is itself a behavior: the high-probability activity is the consequence for the low-probability one. The everyday arrangement: the low-probability task first, the high-probability activity contingent on it.
 
 ### In the compendium
 
@@ -26,9 +26,9 @@ The principle's interest is that no stimulus needs to be named as "the reward": 
 
 ## Related concepts
 
-- [[Behavioral activation]] — scheduling activity by reward value, a clinical application
-- [[Implementation intentions]] — if-then plans that arrange the contingency in advance
-- [[Reinforcement schedules (Ferster & Skinner)]] — the scheduling side of arranging reinforcers
+- [[Behavioral activation]] — a treatment that schedules activity
+- [[Implementation intentions]] — if-then plans for carrying out an intended action
+- [[Reinforcement schedules (Ferster & Skinner)]] — the arrangement of reinforcers over time
 
 ## Sources
 

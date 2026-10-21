@@ -15,7 +15,7 @@ Privacy regulation theory is Irwin Altman's 1975 account of privacy as an ongoin
 
 ### Openness and closedness
 
-The same article notes that Altman "emphasized the dialectical nature of the process that involves the regulation of input and output": the person opens and closes the self to others, and the desired level of contact moves with person, situation and culture.
+The same article notes that Altman "emphasized the dialectical nature of the process that involves the regulation of input and output": the boundary is continually adjusted rather than fixed.
 
 ### In the compendium
 
@@ -26,9 +26,9 @@ The same article notes that Altman "emphasized the dialectical nature of the pro
 
 ## Related concepts
 
-- [[Social penetration theory]] — disclosure as the self's opening, on the relationship side
-- [[Loneliness]] — the felt state when achieved contact falls below the desired level
-- [[Beneficial solitude research]] — the other side of the optimum
+- [[Social penetration theory]] — a theory about disclosure between people
+- [[Loneliness]] — a related state of unmet contact
+- [[Beneficial solitude research]] — research on the chosen side of the boundary
 
 ## Sources
 
