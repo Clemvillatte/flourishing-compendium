@@ -20,21 +20,21 @@ Now imagine being *with* this being. Sit in their presence. Let them extend kind
 
 If the image fades or feels awkward, return to the qualities (kindness, acceptance, understanding, encouragement) rather than the visual detail.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 10, "Using Compassionate Imagery", section on the perfect nurturer, printed pp. 147–151 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)); the practice is Deborah Lee's (2005).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 11, "Using Compassionate Imagery", section on the perfect nurturer, printed pp. 147–151 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)); the practice is Deborah Lee's (2005).
 
-> "British psychologist Deborah Lee developed a practice called the “perfect nurturer” or “ideal compassionate image” practice (Lee, 2005). This practice was designed to help self-critical clients learn to self-soothe and develop feelings of being accepted and cared for, by imagining an ideal figure who understands them, has compassion for them, and extends kindness, support, and encouragement." — Kolts, *CFT Made Simple*, ch. 10, p. 147 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
+> "British psychologist Deborah Lee developed a practice called the “perfect nurturer” or “ideal compassionate image” practice (Lee, 2005). This practice was designed to help self-critical clients learn to self-soothe and develop feelings of being accepted and cared for, by imagining an ideal figure who understands them, has compassion for them, and extends kindness, support, and encouragement." — Kolts, *CFT Made Simple*, ch. 11, p. 147 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 ### Protocol
 
 1. A minute of soothing rhythm breathing (see K378), then choose the qualities before the picture: kindness, acceptance, understanding, encouragement. Target dimensions: Self (who you turn to) and Affect (feeling accepted and cared for).
 2. Decide the being's form. It does not have to be a person:
 
-> "your compassionate image doesn’t even have to be a person. It could be an animal, or some other type of being. I know people who have used an ancient tree, for example." — Kolts, *CFT Made Simple*, ch. 10, p. 148 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
+> "your compassionate image doesn’t even have to be a person. It could be an animal, or some other type of being. I know people who have used an ancient tree, for example." — Kolts, *CFT Made Simple*, ch. 11, p. 148 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 3. Build the detail collaboratively with yourself: appearance, voice, how they greet you, what they are like when you struggle. If you have someone in your life who embodies the qualities (or a spiritual figure), you can use them.
 4. Sit in their presence and let the kindness arrive in whatever form works:
 
-> "Imagine her extending kindness and compassion to you, in whatever way would be most helpful and soothing." — Kolts, *CFT Made Simple*, ch. 10, p. 150 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
+> "Imagine her extending kindness and compassion to you, in whatever way would be most helpful and soothing." — Kolts, *CFT Made Simple*, ch. 11, p. 150 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 5. If difficult emotions come up mid-practice, the book's guidance is to keep the figure present: "If anxiety or other difficult emotions come up for you, imagine her there, understanding and supporting you." Then close gently, bringing "the feelings of being accepted, understood, and supported with you".
 
@@ -53,4 +53,4 @@ Kolts presents the perfect nurturer as an imagery practice for self-critical cli
 
 ## Sources
 
-- [Kolts, R. L. (2016), *CFT Made Simple*, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 10, "Using Compassionate Imagery", perfect nurturer section, pp. 147–151: Lee (2005) origin, qualities exploration, non-person forms, in-practice guidance for difficult emotions, closing
+- [Kolts, R. L. (2016), *CFT Made Simple*, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 11, "Using Compassionate Imagery", perfect nurturer section, pp. 147–151: Lee (2005) origin, qualities exploration, non-person forms, in-practice guidance for difficult emotions, closing
