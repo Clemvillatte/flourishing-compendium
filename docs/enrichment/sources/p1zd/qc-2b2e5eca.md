@@ -150,3 +150,10 @@ Independent psychology advisor passes AT015 and the final narrowed A118 body/sou
 - Checked every quotation. Replaced first-person research-process wording with the actual inference limit: those cognitive-training findings do not establish broad benefits of instrument practice or difficult reading.
 - Removed an unsupported certainty that one imagined hour of piano practice will improve performance and a bare Ericsson parenthetical not connected to a source passage in this card.
 - Plain words and example distinguish specific feedback from far-transfer assumptions. Protected content and inherited parallels unchanged.
+
+## AT077
+
+- Opened [Jha et al. 2025 abstract](https://pubmed.ncbi.nlm.nih.gov/40456956/) and [Roy and Subramanya 2025 abstract](https://pubmed.ncbi.nlm.nih.gov/40043592/); checked both quotation fragments, twelve studies/four RCTs/1,447 participants and reported limitations.
+- Removed first-person production-process voice, a universal claim that adjustment frequency has never been studied, and the unsupported assertion that personal notes are the best guide.
+- Kept the compendium's framework clearly a reflection tool rather than a validated intervention. Used the source's nonclinical population scope instead of assuming every participant was an adult; added the review's generalisation/follow-up caution.
+- Imagined changed-family-schedule example remains illustration. Protected content and inherited parallels unchanged.

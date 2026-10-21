@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 77** — Build attentional maintenance: ongoing practice and adaptation
 
-The "variation-selection-retention" loop is the compendium's own framework. The studies I opened did not test it. What the research does say about keeping a practice going is modest. A recent review of mindfulness training in military settings concludes that "implementation factors such as daily practice, trainers' familiarity with the military, and course content influence the extent of benefits" ([Jha, Izaguirre & Adler, 2025](https://pubmed.ncbi.nlm.nih.gov/40456956/)). It also calls for "continued research" and describes the findings as heterogeneous across program content, measures and participants.
+The "variation-selection-retention" loop is used here as a framework for reflection, distinct from the research on mindfulness training. A review of military settings concludes that "implementation factors such as daily practice, trainers' familiarity with the military, and course content influence the extent of benefits" ([Jha, Izaguirre & Adler, 2025](https://pubmed.ncbi.nlm.nih.gov/40456956/)). It also calls for "continued research" and describes the findings as heterogeneous across program content, measures and participants.
 
-A review of twelve studies in healthy adults (1,447 participants) found positive effects of both focused-attention and open-monitoring meditation on sustained attention, and notes that only four of the twelve were randomised trials ([Roy & Subramanya, 2025](https://pubmed.ncbi.nlm.nih.gov/40043592/)).
+A review of twelve studies in nonclinical participants (1,447 people) reported positive effects of both focused-attention and open-monitoring meditation on sustained attention. Only four of the twelve were randomised trials; the authors caution against generalising and call for longer follow-up ([Roy & Subramanya, 2025](https://pubmed.ncbi.nlm.nih.gov/40043592/)).
 
 (Jha et al., 2025; Roy & Subramanya, 2025.)
 
-**Plain words** Life changes, and a routine that suited one phase may not fit the next. The evidence suggests that daily practice and a fit with the setting matter, which supports adjusting your approach as circumstances change. How often to adjust, and what to keep, has not been studied, so your own notes on what works are the best guide.
+**Plain words** The military review highlights practice and programme context, but it does not establish one adjustment routine for everyone. As a practical reflection, ask whether your current arrangements still fit your responsibilities. Notes about what you tried and noticed can inform that question; they are not proof that an adjustment caused a benefit.
 
 For example (imagined): the focused-work block that suited you before a baby arrived becomes two shorter blocks. You keep the part that worked, which was a clear start ritual, and change the length.
 
