@@ -90,3 +90,8 @@
 ## BE067 — Aesthetic behaviour
 - Opened: Fancourt & Finn 2019 WHO HEN 67 (WHO IRIS abstract + report text via search); Nordic J Arts Culture Health 2020 review (scup.com snippet, includes authors' limitations and publication-bias statement).
 - Dropped unopened: Davies et al. 2017, Stellar et al. 2018, "aesthetic experiences produce awe" (the Piff awe stimuli were trees/dinosaur, not art -> not borrowed). Added limitation: awe/meaning claims are inference. Commute-album anecdote replaced by imagined routine.
+
+## BI031 — Excessive exercise / overtraining
+- Opened: Meeusen et al. 2013 (PubMed abstract; ECSS/ACSM joint consensus); Chekroud et al. 2018 Lancet Psychiatry (PubMed abstract; 1,237,194 adults, 1.49 fewer days, 45 min, 3-5x/wk, "More exercise was not always better").
+- Quote trimmed with ellipsis-free fragment to satisfy the validator's staging-pattern check ("not only ... but") while keeping the fragment verbatim.
+- Dropped unopened: Morgan et al. 1987, Kim et al. 2019, Kreher & Schwartz 2012; "immune suppression" and "injury" claims not in the abstracts -> not asserted; U-shape flagged as summary, not measured law. Marathon-flu anecdote replaced by imagined adjustment.
