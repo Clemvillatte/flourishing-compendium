@@ -20,7 +20,7 @@ The mean is calibrated against two failures. "The unduly humble man falls short 
 
 The practical bar is truthfulness about worth: claim what you have earned, no more and no less. On this account false modesty is not humility but the unduly-humble failure, underclaiming against your own merits.
 
-(NE IV.3; MM I.25.)
+(NE IV.3.)
 
 **Plain words** Pride here means being accurate about your own worth and willing to say it out loud. The calibration test: list what you actually built, led, carried or fixed, and make a claim that matches the list. Vanity claims more than the list supports; false modesty claims less. Neither is a virtue; accuracy is.
 

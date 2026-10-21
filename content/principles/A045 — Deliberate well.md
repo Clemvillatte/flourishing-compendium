@@ -20,7 +20,7 @@ The subjects worth deliberating are the ones where our effort counts and the out
 
 Good deliberation therefore considers the right things, in the right order, for the right amount of time, and reaches a conclusion. Fix the end first, then search the means and check each against possibility.
 
-(NE III.2-3, VI.9.)
+(NE III.3.)
 
 **Plain words** Deliberation starts after you have settled what you want. The doctor does not ask whether to heal; she asks how. Your version: state the end in one sentence, list the routes to it, strike the ones you cannot actually take, and pick. Anything you are turning over that you cannot change is not deliberation, however long you spend on it.
 
