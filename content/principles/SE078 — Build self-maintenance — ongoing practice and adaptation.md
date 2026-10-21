@@ -18,12 +18,12 @@ Aristotle grounds the ongoing work in how character is built at all:
 
 (Aristotle, Nicomachean Ethics II.1, 1103a-b, Ross translation; [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
-The same chapter derives the word itself from practice: moral virtue comes about as a result of habit, and ethike is formed by a slight variation from ethos, habit (NE II.1). If the self is built the way a craft is built, its maintenance is also continuous; the passage gives the builder no finishing line either. The compendium's variation-selection-retention loop in the seed statement is that idea in modern dress: practices are tried, kept if they work, redesigned when the life changes.
+Aristotle uses learning a craft to explain acquiring moral virtue through action. Applied here, that account suggests examining the actions through which you practise a quality you want to develop. Adjusting a routine when circumstances change is a proposed application, rather than a conclusion established by this passage.
 
 **Plain words**
-The habit framing says the practice is the thing being maintained, not the result. A routine that worked at thirty is not a failure at forty-five; it is a habit that no longer fits the current shape of the life. The maintenance move is redesign: keep the function the practice served, change its form to fit the life you actually have.
+Choose a quality you want to practise. Identify an action that expresses it and a workable opportunity to repeat that action. If the routine no longer fits your circumstances, consider changing the routine.
 
-*For example:* Imagine the morning routine that carried you through your twenties, run, journal, conquer, and the version with two kids that has to be redesigned rather than abandoned. Maintenance is the redesign.
+*For example:* Imagine a parent considering a shorter version of a former morning routine.
 
 ## Sources
 
