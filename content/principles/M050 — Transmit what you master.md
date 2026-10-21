@@ -16,7 +16,7 @@ The huehuetlatolli present their own counsel as an inheritance to be kept and ha
 
 > "Right here are a word or two which merit being taken, being guarded, being grasped, which our forefathers went putting in their coffers, in their reed chests; for all courtesy, all prudence come from [and] are taken from this." (Florentine Codex, Book 6, ch. 22, Anderson and Dibble translation, p. 125)
 
-The Internet Encyclopedia of Philosophy frames Aztec wisdom in the same direction: wisdom is "the practical ability to conduct one's life in such a way as to creatively participate in, reinforce, adapt, and extend into the future the way of life inherited from one's predecessors". A mastery that dies with its holder breaks that chain. The compendium's application: attach to your principal skill one apprentice (a junior colleague, a student, a child, a friend) and transmit deliberately: not only techniques but standards and the stance behind them.
+The Internet Encyclopedia of Philosophy frames Aztec wisdom in the same direction: wisdom is "the practical ability to conduct one's life in such a way as to creatively participate in, reinforce, adapt, and extend into the future the way of life inherited from one's predecessors". A mastery that dies with its holder breaks that chain. The compendium's application: attach to your principal skill one apprentice (a junior colleague, a student, a child, a friend) and transmit deliberately: the techniques, and also the standards and the stance behind them.
 
 (Florentine Codex, Book 6, ch. 22; IEP, "Aztec Philosophy".)
 
