@@ -42,7 +42,8 @@
   "Social capital theory Putnam",
   "Temporal dynamics of regulation",
   "Perception as interpretation",
-  "Perception precedes thought"
+  "Perception precedes thought",
+  "Reading the moment"
  ],
  "in_progress": null,
  "flagged": {
@@ -68,7 +69,7 @@
   "Order out of chaos": "Grounded in the opened authoritative source: Prigogine's Nobel Lecture, Time, Structure and Fluctuations (1977), fetched from nobelprize.org (trusted official source; PDF); two verbatim blockquotes — the Benard-convection passage (fluctuations amplified above a critical value, supermolecular order as a giant fluctuation stabilized by energy exchange, 'dissipative structures') and the abstract's claim that non-equilibrium may become a source of order. The seed names Prigogine and Stengers (the book Order Out of Chaos, 1984 — not opened, not characterized); the Nobel lecture is the author's own primary scientific text covering the same theory. Seed line and inherited source line preserved; the five seed principle links (P148, M040, P007, SP092, P174) preserved as bullets under In the compendium; P149 Cited-in preserved; lead-ins carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
   "Perception as interpretation": "label is compendium summary not Kant wording; page notes Kant's claim is universal structure not subjective interpretation",
   "Perception precedes thought": "De Anima text not opened (MIT archive returned no text); enriched from SEP Aristotle's Psychology; seed cites De Anima II but hierarchy claim is SEP section 4; page states this",
-  "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)",
+  "Reading the moment": "label is compendium summary; Zhouyi text not opened; enriched from SEP Yijing and SEP Chinese metaphysics excerpts; page states this",
   "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier",
   "Reinforcement schedules (Ferster & Skinner)": "Reopened for QC: QC acceptance round: PIE terminology explained, interval wording fixed",
   "Relational Developmental Systems Theory": "Reopened for QC: QC acceptance round: unsupported introduction claim removed",
@@ -82,6 +83,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:32:16+00:00",
+ "updated": "2026-10-21T08:32:51+00:00",
  "band_done": false
 }
