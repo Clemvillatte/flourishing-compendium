@@ -34,6 +34,9 @@ Imagine revising an essay. As a proposed exercise, ask one reader whether the ce
 
 - [John Dewey, The Quest for Certainty: A Study of the Relation of Knowledge and Action (1929), chapter I, pp. 6-8](https://archive.org/stream/questforcertaint032529mbp/questforcertaint032529mbp_djvu.txt): opened primary book transcription; practical uncertainty and the separation of knowing from doing.
 
+## Stories
+- [[ST362 — Frege Receives a Letter, Russell Counts the Tortoises|362. Frege Receives a Letter, Russell Counts the Tortoises]]
+
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty|Intolerance of uncertainty as a transdiagnostic risk factor]]** (Dugas et al., 1998): retained clinical research pointer; Dewey's argument is not a diagnosis or treatment recommendation.

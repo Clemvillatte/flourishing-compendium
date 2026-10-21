@@ -32,6 +32,9 @@ For a proposed exercise, imagine the guitar teacher who starts with the song you
 
 - [The Child and the Curriculum (Dewey, 1902), Project Gutenberg](https://www.gutenberg.org/ebooks/29259)
 
+## Stories
+- [[ST363 — Angelina Uses the Front Door|363. Angelina Uses the Front Door]]
+
 ## Psychology parallels
 
 - **[[The zone of proximal development|The zone of proximal development]]**

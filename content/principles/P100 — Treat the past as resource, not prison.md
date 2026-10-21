@@ -29,6 +29,9 @@ His warning in the same chapter concerns education: making the records of the pa
 - [[K142 — Narrative reconstruction|K142 Narrative reconstruction]]
 - [[K229 — Narrative redemption|K229 Narrative redemption]]
 - [[K232 — Life review|K232 Life review]]
+## Stories
+- [[ST363 — Angelina Uses the Front Door|363. Angelina Uses the Front Door]]
+
 ## Psychology parallels
 
 - **[[Narrative redemption sequences|Narrative redemption sequences]]**, predict well-being (McAdams, 2013)

@@ -35,6 +35,9 @@ The passage advises setting aside these emotions and desires so the mind can ret
 - [[K120 — The 90-second wave|K120 The 90-second wave]]
 - [[K159 — Affect labeling|K159 Affect labeling]]
 - [[K169 — Anger dissection|K169 Anger dissection]]
+## Stories
+- [[ST360 — Qin Shi Cries Out Three Times and Leaves|360. Qin Shi Cries Out Three Times and Leaves]]
+
 ## Psychology parallels
 
 - **[[Emotion differentiation|Emotion differentiation]]**, finely granular emotional labels predict better regulation (Barrett et al., 2001; Kashdan et al., 2015)

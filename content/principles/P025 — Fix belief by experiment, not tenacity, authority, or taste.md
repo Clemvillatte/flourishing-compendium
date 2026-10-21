@@ -22,6 +22,9 @@ The key line of the essay is the one that explains why only the last method work
 
 *For example:* A diet can be chosen by stubbornness, by an influencer, by vibes, or by tracking two weeks of actual energy levels. Only one of these can discover it is wrong. The first three will still feel correct when they fail, because nothing in the method checks.
 
+## Stories
+- [[ST364 — Twelve Sailors on the Salisbury|364. Twelve Sailors on the Salisbury]]
+
 ## Psychology parallels
 
 - **[[Confirmation bias|Confirmation bias and motivated reasoning]]** (Kunda, 1990; Nickerson, 1998)

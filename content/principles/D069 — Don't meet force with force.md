@@ -30,6 +30,9 @@ Imagine a client calling an invoice dishonest. Ask which charge they dispute. Co
 
 - [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — ch. 19, section 10 (the cataract of Lu), PDF page 95
 
+## Stories
+- [[ST357 — The Tiger Keeper's Advice to Yan He|357. The Tiger Keeper's Advice to Yan He]]
+
 ## Psychology parallels
 
 - **[[Nonviolent communication|Nonviolent communication]]**, observation, feeling, need, request defuses attack (Rosenberg, 2003)

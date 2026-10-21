@@ -32,6 +32,9 @@ You can have reasons for a view and still leave room for correction. Before deci
 
 Imagine a new colleague declining an invitation. Before deciding they dislike the team, ask whether another time would suit them. You need not invent a reassuring explanation either; their reason is still something to find out.
 
+## Stories
+- [[ST359 — Fayan Carries a Stone and Runs Out of Words|359. Fayan Carries a Stone and Runs Out of Words]]
+
 ## Psychology parallels
 
 - **[[Intellectual humility|Intellectual humility]]**: four studies associated recognition of fallibility with openness and attention to argument strength; they did not test Zen practice ([Leary et al., 2017, abstract](https://pubmed.ncbi.nlm.nih.gov/28903672/)).

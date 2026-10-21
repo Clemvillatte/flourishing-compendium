@@ -27,6 +27,9 @@ A plan can leave every available hour committed to the next task. Ask what you w
 
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/ebooks/216) — ch. 16, 40
 
+## Stories
+- [[ST358 — Tao Yuanming Walks Home After Eighty Days|358. Tao Yuanming Walks Home After Eighty Days]]
+
 ## Psychology parallels
 
 - **[[Effort-recovery cycles|Effort-recovery cycles]]**, well-being depends on oscillation between strain and recovery, not continuous output (Sonnentag and Fritz, 2007)

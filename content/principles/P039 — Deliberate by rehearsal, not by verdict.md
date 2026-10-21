@@ -22,6 +22,9 @@ The mechanism matters more than the metaphor. Dewey is explicit that this is an 
 
 *For example:* Before quitting a job, two people deliberate. One lists pros and cons on paper for a week. The other spends ten minutes walking through the actual Monday meeting — the words, the face of the manager, the drive home. The imagined scene collapses in ten seconds and the decision is made. The list was still going; the rehearsal had already finished.
 
+## Stories
+- [[ST361 — Darwin Pictures the Sofa and the Smoky London House|361. Darwin Pictures the Sofa and the Smoky London House]]
+
 ## Psychology parallels
 
 - **[[Episodic future thinking|Episodic future thinking]]**, improves decisions (Peters and Buchel, 2010)
