@@ -665,7 +665,27 @@
      "note": "supervisor verification: quotes verified against opened Tricycle + dipama.com pages"
     }
    ]
+  },
+  "s1a-025": {
+   "status": "qc_pending",
+   "angle": "D045: Deshan and the old woman's rice cakes — the full cart of commentaries emptied by one question, the candle, and the burning",
+   "history": [
+    {
+     "t": "2026-10-21T12:29:43+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:30:35+00:00",
+     "to": "researching",
+     "note": "PIVOT: original Deshan/D045 angle abandoned before drafting (ST365 published from s1d-001 covers Deshan for B129; a third duplicate-person draft is weak); s1a-025 is now the Einstein cosmic-religious-feeling story for P187 (zero-story, fresh narrative, no Einstein story in corpus)"
+    },
+    {
+     "t": "2026-10-21T12:30:58+00:00",
+     "to": "qc_pending",
+     "note": "item 3 drafted (pivot from Deshan recorded); 10/10 body quotes verified vs opened PDF and Wikipedia wikitext; checker 0 errors"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:30:22+00:00"
+ "updated": "2026-10-21T12:30:58+00:00"
 }
