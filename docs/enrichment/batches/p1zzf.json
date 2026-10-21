@@ -15,11 +15,12 @@
   "R049",
   "R058",
   "R067",
-  "R068"
+  "R068",
+  "R069"
  ],
- "in_progress": "R069",
+ "in_progress": "R075",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:20:59+00:00"
+ "updated": "2026-10-21T01:21:25+00:00"
 }

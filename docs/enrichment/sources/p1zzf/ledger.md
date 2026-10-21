@@ -57,3 +57,7 @@
 ## R068 — Practise motivational displacement
 - Opened (excerpts): Philopractice (quotes Caring), Noddings 2010 Abstracta, ERIC ED419801 summary, Batson chapter PDF, PMC review of Altruism in Humans. Caring ch.3 unread in full.
 - Seed "impulse to act / second phase / receptivity without displacement is mere sentiment": not found as such; Noddings says shift is temporary and "not necessarily toward his ends". Disclosed.
+
+## R069 — Practise care as a practice, not a feeling
+- Opened (excerpts): ANA guide chapter, Oxford ORA mobility-of-care paper, BMC Med Ethics 2026, PMC nurses study, PMC eating care-ethics paper, ERIC record of Goetz et al. 2010 abstract. Tronto 1993/2013 unread.
+- Seed "feeling is optional": not supported (caring about includes concern per secondary readings). Goetz 2010 is a review, not 'compassion training' (label retained, flagged). Fifth phase 'caring with' noted.
