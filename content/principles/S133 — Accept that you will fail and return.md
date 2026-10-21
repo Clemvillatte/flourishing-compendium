@@ -36,5 +36,5 @@ After something unsettles you, ask whether it is still happening. If it has ende
 
 ## Philosophy parallels
 
-- **Be gentle with yourself in the review** (Marcus Aurelius, Meditations VI.6)
+- **Be gentle with yourself in the review** (the compendium's own gloss on returning; no Meditations passage has been located for it, and Long's VI.6 concerns passing from one kind action to another, not self-review)
 - **[[The returning practice|The returning practice]]** (Buddhist tradition)
