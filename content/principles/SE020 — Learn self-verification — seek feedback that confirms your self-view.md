@@ -18,7 +18,7 @@ A meta-analysis of the critical tests found "ample evidence of self-enhancement 
 
 ### Scope
 
-These are mostly laboratory and couple studies. I found no source saying that people can learn to seek better feedback, which is the practical step the principle suggests. I did not open Swann 1983 or Swann et al. 2002.
+These are mostly laboratory and couple studies. No source opened for this page says that people can learn to seek better feedback, which is the practical step the principle suggests. Swann 1983 and Swann et al. 2002 are listed as further reading, not summarized here.
 
 **Plain words**
 We tend to trust feedback that matches what we already believe about ourselves, even when it is unflattering. Knowing this helps you ask who is giving you feedback and why you believe it.

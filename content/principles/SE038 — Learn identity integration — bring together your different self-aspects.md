@@ -18,7 +18,7 @@ Having many distinct self-aspects is a different idea. Linville's 1987 prospecti
 
 ### Scope
 
-I found no study that tests the principle's version: roles and contexts held together as a coherent whole. I did not open McConnell 2011. The exhaustion of maintaining separate facilities is not tested in these sources.
+No study opened for this page tests the principle's version: roles and contexts held together as a coherent whole. McConnell 2011 is listed as further reading, not summarized here. The exhaustion of maintaining separate facilities is not tested in these sources.
 
 **Plain words**
 Studies show that mixing strengths and weaknesses within each part of your identity protects you better when things are hard. Whether having more roles helps is unsettled.

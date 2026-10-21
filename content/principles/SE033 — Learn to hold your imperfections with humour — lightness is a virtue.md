@@ -18,7 +18,7 @@ So laughing at your flaws is not one thing. Joking at your own expense to win ap
 
 ### Scope
 
-The seed's "lightness is a virtue" is the compendium's judgement; the sources measure correlations. I did not open Kuiper 1992, Dozois 2009 or Martin 2007.
+The seed's "lightness is a virtue" is the compendium's judgement; the sources measure correlations. Kuiper 1992, Dozois 2009 and Martin 2007 are listed as further reading, not summarized here.
 
 **Plain words**
 Seeing your own flaws as funny can help when it keeps perspective. Joking at your own expense to win approval is a different habit with worse associations.

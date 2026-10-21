@@ -24,7 +24,7 @@ Introspection has limits too. Eurich describes internal self-awareness, which is
 
 ### Scope
 
-The Eurich findings come from an interview, and I did not open the paper. The seed's link between accurate self-assessment and wellbeing or better decisions (Sedikides 2004) was not checked. Vazire's samples are personality-rating studies, not studies of decision quality.
+The Eurich findings come from an interview, not an opened paper. The seed's link between accurate self-assessment and wellbeing or better decisions (Sedikides 2004) was not checked against an opened source. Vazire's samples are personality-rating studies, not studies of decision quality.
 
 **Plain words**
 You know some things about yourself better than anyone else does, and others know some things better than you. Both views are data.
