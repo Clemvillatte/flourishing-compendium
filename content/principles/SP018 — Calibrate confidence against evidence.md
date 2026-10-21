@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 18** — Calibrate confidence against evidence
 
-The definitions pair hope with doubt and confidence with despair: each confident state rides on an uncertain outcome, and each collapses into its negative when the outcome shifts. Spinoza's point is not that confidence is bad but that it is a loan against an unknown; the overconfident and the despairing are the same person at different moments of the same bet. Practically, state your confidence as a probability with a reason, so that events can update it instead of destroying it.
+Spinoza does not describe confidence as a loan against an unknown. In Elwes's translation, the definitions read: "Hope is an inconstant pleasure, arising from the idea of something past or future, whereof we to a certain extent doubt the issue", and fear is the matching pain. "Confidence is pleasure arising from the idea of something past or future, wherefrom all cause of doubt has been removed", and despair is the matching pain ([Ethics, Part III, Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)). So hope and fear are the states that carry doubt. Confidence and despair are what remain once doubt is gone, one pleasant and one painful.
+
+Spinoza adds that "there is no hope unmingled with fear, and no fear unmingled with hope", and that confidence springs from hope, and despair from fear, "when all cause for doubt as to the issue of an event has been removed" (same text).
 
 (Ethics III, definitions of Confidence and Despair.)
 
-**Plain words** Hope pairs with doubt, confidence with despair — each confident state rides an uncertain outcome and collapses into its negative when the outcome shifts. Confidence isn't bad; it's a claim about the world. Calibrate it against evidence, or the collapse is scheduled.
+### What this supports
 
-*For example:* The founder's "we're definitely raising this round" — 90% confidence on 40% evidence — and the despair that arrives on schedule with the rejection. The calibration wasn't pessimism; it would have been preparation.
+The text supports a narrower point than the seed's. Feeling sure of an outcome, good or bad, means the doubt has stopped, whether or not the evidence has. Advice to state confidence as a probability with a reason is the compendium's practical addition. Spinoza does not give it in the passages I opened, and I did not open a calibration study for this page. I also did not open Ethics IV on hope and fear.
+
+**Plain words**
+Hope and fear both contain doubt. Confidence and despair are what you feel once the doubt feels gone. Before you settle into either, ask what evidence removed the doubt.
+
+**For example**
+Before an uncertain event such as a job decision, write down what you expect to happen and one reason. After the outcome, compare it with what you wrote.
+
+## Sources
+
+- [Spinoza, Ethics, Part III, tr. Elwes (Project Gutenberg)](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)
+
 ## Psychology parallels
 
 - **Overconfidence and calibration**, the judgment literature's dissociation of confidence from accuracy (Moore and Healy, 2008, the two forms of overconfidence)
