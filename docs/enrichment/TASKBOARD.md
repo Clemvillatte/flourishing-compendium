@@ -1706,3 +1706,10 @@ Verification pass 20 (worker-glmc4a — older top-degree principle pages, final 
 - D081: the Zhuangzi ch. 17 frog-in-a-well passage matches the opened METIS Legge PDF verbatim.
 - D039: the Daodejing 26 Legge passage matches the opened Gutenberg #216 text verbatim (the source prints the verse number "2." between the two sentences; the page's join of consecutive verses is faithful).
 FINAL: 107 distinct pages verified this session across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 105 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). Four open routed findings dispositioned. All work pushed to origin/main; no band files or queues touched; no baton held.
+
+Verification pass 21 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS.
+- D068: both the Daodejing 22 and the Daodejing 68 verse quotes match the opened Gutenberg #216 text verbatim.
+- D077: the Daodejing 50.4 quote matches the opened Gutenberg #216 text verbatim (the ellipsis correctly marks the omitted intervening sentence about rhinoceros/tiger/weapon).
+- D044: the Daodejing 15 muddy-water quote matches verbatim.
+- D062: all three Daodejing 29 quotes match verbatim.
+FINAL SESSION TOTAL: 111 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 109 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). Four open routed findings dispositioned. All work pushed; no band files or queues touched; no baton held.
