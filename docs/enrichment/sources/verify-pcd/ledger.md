@@ -426,3 +426,8 @@ QC-closed).
 
 ### w1h "Self-concordance theory" — quote fidelity PASS (verification pass)
 - Sheldon & Elliot 1999 abstract sentences EXACT vs the opened PubMed record (10101878).
+
+### w1h "Righteous indignation (nemesis)" — quote fidelity PASS (verification pass)
+- Both Aristotle passages EXACT vs the opened MIT Classics pages (NE II.7 Ross; Rhetoric
+  II.9 Roberts).
+- w1h spot check: 2/2 PASS (Self-concordance theory, Righteous indignation).
