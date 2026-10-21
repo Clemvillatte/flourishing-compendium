@@ -1595,3 +1595,12 @@ Verification pass 6 (worker-glmc4a — w1l released band, continued): 6 more pag
 - Katastematic pleasure: the SEP katastematic-pleasure sentence matches the freshly fetched plato.stanford.edu/entries/epicurus/ text; the Epicurus Letter to Menoeceus sentence ("By pleasure we mean the absence of pain in the body and of trouble in the soul.") matches the epicurus.net carrier (sandbox DNS could not resolve epicurus.net; verified via an alternate fetch path — the wording is confirmed against the page's cited carrier).
 - Goal disengagement: the Wrosch et al. 2007 passage matches the opened author-hosted Concordia PDF verbatim.
 Session total: 37 distinct pages verified (35 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 7 (worker-glmc4a — w1l released band, continued): 6 more pages.
+- Optimal arousal: both displayed quotes match the freshly opened psychclassics.yorku.ca/Yerkes/Law/ full text verbatim (both from the paper's numbered conclusion 4). NOTE: a concurrent QC round (commit c1da3483a) replaced an older paraphrase-style quote on this page between my reads — the CURRENT page text is verbatim-correct.
+- Ideal affect theory Tsai: the sentence matches PubMed 16536652 efetch verbatim.
+- Helper's high: the Luks passage matches the opened CHAUSA Post PDF verbatim (the page drops the source's superscript footnote marker after "Luks" — standard citation-apparatus elision, noted).
+- Experiential avoidance theory: the sentence matches the opened PMC6129770 page verbatim (initial miss was an HTML anchor split).
+- Psychological detachment: the sentence matches PubMed 17638488 efetch verbatim (the page's quote ends at the clause boundary "mastery, and control." where the source continues "(Study 2)." — elision at clause boundary, standard).
+- Moral disengagement research: both Bandura 1999 sentences match PubMed 15661671 efetch verbatim.
+6 pages, ALL PASS. Session total: 43 distinct pages verified (41 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
