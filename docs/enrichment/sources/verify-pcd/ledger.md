@@ -95,3 +95,12 @@ external HTTP date confirmed). Real timeline: the whole w1aa round ran 14:21-14:
 commit c531d449f (first two pages) and 195ba8171 (round-1 summary) carry the true times.
 Corrected values inserted above; this note supersedes any conflicting time in the round-1
 TASKBOARD entry, which is being corrected in the same commit.
+
+### w1l "Life affirmation" — residual-risk item CLOSED (14:32Z real clock)
+The w1l batch flagged "residual risk on the exact tail of the 'without reservation...'
+fragment" (Merrick 2016; the predecessor's direct PDF fetch was Cloudflare-blocked). Re-verified
+via an opened fetch of the PhilArchive text (philarchive.org/archive/MERHNT): BOTH Merrick
+fragments appear verbatim, including the full tail "without reservation, even to suffering,
+even to guilt, even to everything that is questionable and strange in existence" and the
+central-aims sentence (both p. 63). The residual risk can be closed; the w1l flag can be
+retired by the supervisor.
