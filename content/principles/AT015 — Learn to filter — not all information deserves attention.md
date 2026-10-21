@@ -20,13 +20,13 @@ Forster and Lavie found that distractors entirely unrelated to the task can inte
 >
 > Forster & Lavie, Journal of Experimental Psychology: Applied (2008)
 
-These are laboratory tasks with brief displays. Carrying them over to newsletters and notifications is the compendium's extrapolation, though the direction is consistent: filtering that depends on willpower in the moment is unreliable, so it helps to remove sources before they arrive.
+These are laboratory tasks with brief displays, not comparisons of email filters or notification settings. Reducing avoidable inputs is a practical application proposed here, rather than an intervention tested in these experiments.
 
 (Lavie, 1995, 2005; Forster & Lavie, 2008.)
 
-**Plain words** You do not control what your mind takes in as much as you would like. Telling yourself to ignore something often fails, even when it is plainly irrelevant. What works better is changing the situation: take away the thing, or make the main task absorbing enough that the extras barely register.
+**Plain words** Knowing that something is irrelevant does not ensure you will ignore it. These studies distinguish perceptual demands from demands on cognitive control; making work harder or more absorbing is not a general remedy for distraction. For everyday reflection, ask which inputs you actually want to receive and which you could remove before they compete for attention.
 
-For example (imagined): you spend an afternoon unsubscribing from newsletters that you never act on. Nothing in your inbox now competes for a decision about whether to open it.
+For example (imagined): you unsubscribe from newsletters you never use. Other demands remain in your inbox, but these subscriptions no longer require a decision about opening them.
 
 ## Sources
 

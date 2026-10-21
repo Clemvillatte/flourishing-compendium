@@ -95,3 +95,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Searched Fan attention networks; opened [Fan et al. 2002](https://pubmed.ncbi.nlm.nih.gov/11970796/) and [Petersen and Posner 2012](https://pubmed.ncbi.nlm.nih.gov/22524787/).
 - Checked all quotes against the abstracts. The forty-person study both suggests uncorrelated efficiency estimates and reports interactions; it does not establish a fixed individual strength profile for each reader.
 - Plain words now preserves that boundary and labels the everyday question as reflection. Protected sections and inherited parallels unchanged.
+
+## AT015
+
+- Searched Lavie load theory; opened [Lavie 2005](https://pubmed.ncbi.nlm.nih.gov/15668100/), [Forster and Lavie 2008](https://pubmed.ncbi.nlm.nih.gov/18377168/) and [Lavie 1995](https://pubmed.ncbi.nlm.nih.gov/7790827/).
+- Verified the quoted fragments and the distinction between perceptual load and cognitive-control demands.
+- Removed a general recommendation to make the main task absorbing as if it followed directly from perceptual-load experiments. Newsletter filtering is now clearly a contemporary application, not a tested condition.
+- The imagined inbox example no longer asserts that removing newsletters removes every competing demand. Protected content and inherited parallels unchanged.
