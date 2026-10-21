@@ -395,3 +395,13 @@
   prose content rewritten beyond the restructuring; the page's own claims
   (Bryant definition, 2024 review) were already inline-cited with URLs.
 - Normal validator: ok. State recorded (done count 26).
+
+## Items 29-31: skip-ahead pass (2026-10-21, worker-w1m-7c9e2a54)
+
+- Sabbath, Second nature, Self as construction: pre-existing complete
+  pages that already meet the bar — normal validator ok, no changes
+  made, marked done (skip-ahead per protocol). No rewrites attempted.
+- NOT marked (still pending, bare seeds): Scholē (34 words), Secure base
+  (4 words) — full rewrites for a later pass. "Savoring's relational
+  costs" validator run errored on the apostrophe filename (tooling, not
+  content) — left untouched, flagged.
