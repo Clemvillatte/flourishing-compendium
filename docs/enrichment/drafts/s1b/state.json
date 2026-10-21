@@ -170,7 +170,22 @@
      "note": "advisor QC rounds 1-2 applied; final-file quotation check passed; story_check 0 errors"
     }
    ]
+  },
+  "s1b-008": {
+   "status": "qc_pending",
+   "angle": "D073: Zhuangzi 19 ferryman and archer — constant skill, solicitude for the prize degrades presence; ferryman's 'forgetting the water'",
+   "history": [
+    {
+     "t": "2026-10-21T12:17:42+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:18:08+00:00",
+     "to": "qc_pending",
+     "note": "first draft complete; quotes verbatim-verified against opened Legge PDF; advisor QC requested"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:15:45+00:00"
+ "updated": "2026-10-21T12:18:08+00:00"
 }
