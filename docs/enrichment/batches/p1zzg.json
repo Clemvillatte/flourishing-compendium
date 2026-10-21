@@ -4,20 +4,20 @@
   "S106",
   "S088",
   "S110",
-  "S114",
   "S116",
   "S109",
   "S111"
  ],
- "in_progress": null,
+ "in_progress": "S114",
  "flagged": {
   "S088": "Reopened for QC: QC round 3: replace added paragraph",
   "S106": "Reopened for QC: QC round 2 FAIL: remove rejected opening",
   "S109": "Reopened for QC: validator: lost link; reword as compendium category",
-  "S111": "Reopened for QC: QC milestone: application paragraph, plain words, example"
+  "S111": "Reopened for QC: QC milestone: application paragraph, plain words, example",
+  "S114": "Reopened for QC: QC milestone: plain words, example label"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:59:19+00:00",
+ "updated": "2026-10-21T01:59:21+00:00",
  "band_done": false
 }
