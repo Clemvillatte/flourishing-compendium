@@ -13,26 +13,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 RAIN is a four-step way of meeting a difficult emotion instead of fighting it. The acronym was first coined by Michele McDonald ([Brach, Mindful.org](https://www.mindful.org/tara-brach-rain-mindfulness-practice/)); Tara Brach presents the version below, and her guidebook to the practice is Radical Compassion. Her site introduces the tool as "an easy-to-remember tool for practicing mindfulness and compassion using the following four steps":
 
-> Recognize what is happening;
-> Allow the experience to be there, just as it is;
-> Investigate with interest and care;
-> Nurture with self-compassion.
+> - Recognize what is happening;
+> - Allow the experience to be there, just as it is;
+> - Investigate with interest and care;
+> - Nurture with self-compassion.
 > — [Tara Brach](https://www.tarabrach.com/rain/)
 
-Another rendering, which Brach lists on Mindful.org, gives the fourth step as "Natural awareness, which comes from not identifying with the experience."
+Another rendering, which Brach lists on [Mindful.org](https://www.mindful.org/tara-brach-rain-mindfulness-practice/), gives the fourth step as "Natural awareness, which comes from not identifying with the experience."
 
 ### Protocol
 
-1. Recognize what is going on: consciously acknowledge the thoughts, feelings and behaviors affecting you, with a simple mental whisper naming what you are most aware of.
+Adapted from Brach's [full practice description](https://www.tarabrach.com/rain-practice-radical-compassion/).
+
+1. Recognize what is going on: consciously acknowledge the thoughts, feelings and behaviors that are present, with a simple mental whisper naming what is most noticed.
 2. Allow the experience to be there, just as it is: let what has been recognized simply be there, without trying to fix or avoid anything. A quiet "it's ok" or "this belongs" can carry the allowance.
 3. Investigate with interest and care: ask what most wants attention, how the experience lives in the body, what is being believed, what the vulnerable place most needs, and attend to the felt sense rather than concepts.
 4. Nurture with self-compassion: sense what the wounded or hurting place most needs and offer a gesture of active care, a whispered message such as "I'm here with you" or a hand gently placed on the heart.
 
-After the steps, notice the quality of your own presence and rest in awareness. The guided version advises choosing something to work with that is charged but not overwhelming or traumatic.
+After the steps, notice the quality of awareness and rest there. The [guided version](https://www.youtube.com/watch?v=W8e_tAEM80k) advises choosing something to work with that is charged but not overwhelming or traumatic.
 
 ### Evidence
 
-An uncontrolled proof-of-concept study examined app-based RAIN for emotional eating ([Carrière, Siemers, Thapar & Knäuper, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304094/)): 49 Canadian adults who self-reported as emotional eaters ran a four-step image-sequence app whenever a non-homeostatic craving hit, over three weeks, after a one-hour group workshop. Its fourth step was Non-identify, rather than the Nurture step described here. Pre-post comparisons on ten eating and mindfulness measures moved in the intended direction, r between −0.58 and −0.28, and craving intensity, rated 1 to 10 before and after each exercise, fell by an average of 3.39 points. With no control group the design cannot show cause, the workshop was part of the package, and the changes cannot demonstrate the effectiveness of the Nurture version presented on this page.
+An uncontrolled proof-of-concept study examined app-based RAIN for emotional eating ([Carrière, Siemers, Thapar & Knäuper, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304094/)): 49 Canadian adults who self-reported as emotional eaters were asked to use a four-step image-sequence app whenever they experienced an urge to eat without physical hunger, over three weeks, after a one-hour group workshop. Its fourth step was Non-identify, rather than the Nurture step described here. Table 2 reports pre-post changes across ten eating-related and mindfulness measures, with reported r values ranging from −0.58 to −0.28, and craving intensity, rated 1 to 10 before and after each exercise, fell by an average of 3.39 points. With no control group the design cannot show cause, the workshop was part of the package, and the changes cannot demonstrate the effectiveness of the Nurture version presented on this page.
 
 ### A guided version
 
@@ -65,5 +67,5 @@ The Practice of RAIN, a 20:14 guided meditation led by Tara Brach on her own cha
 - [Brach, "RAIN: A Practice of Radical Compassion", tarabrach.com](https://www.tarabrach.com/rain-practice-radical-compassion/) — the step-by-step instructions
 - [Brach, "RAIN: Recognize, Allow, Investigate, Nurture", tarabrach.com](https://www.tarabrach.com/rain/) — the four steps and practice description
 - [Brach, "Feeling Overwhelmed? Try the RAIN Meditation", Mindful.org](https://www.mindful.org/tara-brach-rain-mindfulness-practice/) — McDonald origin attribution and the natural-awareness rendering
-- [Carrière, Siemers, Thapar & Knäuper (2024), proof-of-concept of app-delivered RAIN, Mhealth, PMC11304094](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304094/) — direct evidence
+- [Carrière, Siemers, Thapar & Knäuper (2024), proof-of-concept of app-delivered RAIN, Mhealth, PMC11304094](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304094/) — uncontrolled study of the Non-identify version
 - [The Practice of RAIN, guided meditation, Tara Brach, 20:14](https://www.youtube.com/watch?v=W8e_tAEM80k) — guided version
