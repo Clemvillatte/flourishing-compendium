@@ -181,3 +181,8 @@ damage, w1ab left to its live holder.
 - Third Related-concept lines added to warning pages (Structural injustice → Recognition; Super's Life-Span → Self-efficacy; body-mind unity → Mindfulness; all targets verified existing). Pushed 0cf8c41e.
 - Bounded Origin sections added to The Great Death and The body-mind unity in pain (no new facts; explicitly non-asserting on unverified dates/authors/locators). Pushed 0124c824.
 - Verification pass at T+45.5: 10/10 pages pass --fast-track validation; build clean (5842 entries).
+
+## Verification pass (T+48)
+- Quote re-verification against raw/cached carriers: Speech Act Theory (all 6 quotes confirmed in SEP raw HTML, incl. the insincere-promise abuse example — line breaks had hidden it in grep), Spiral of Silence (all quotes confirmed in Wikipedia raw HTML; 1974 Noelle-Neumann abstract quote confirmed in its saved carrier), Symbolic Interaction (all three Blumer premises confirmed in Wikipedia raw HTML), Symbolic Convergence (all three Bormann quotes re-confirmed verbatim via cached PMC8868150 fetch, including the carrier's own framing "In Bormann's (1985) own words").
+- Items 8-10 quotes were taken directly from fetched text this session (Telomere: PMC4761709 + UCSF News; Great Death: terebess.hu/zen/Hakuin.pdf; body-mind: Gutenberg vol. 18).
+- Items 3-5 retain the earlier recorded limitation (OpenAIRE JS-rendered, OUP 403; no raw substring possible).
