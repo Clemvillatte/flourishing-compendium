@@ -12,11 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 64** — Treat cultural adaptation of interventions as a necessity
 
-Treat the cultural adaptation of interventions — modifying psychological treatments, prevention programs, and public-health interventions for specific cultural contexts — as a necessity, not an optional refinement. Evidence-based interventions developed in WEIRD contexts do not automatically transfer; adaptation improves outcomes (Castro et al., 2010; Gone, 2011; Hall et al., 2016).
+The evidence favours adaptation, but "necessity" goes further than the studies do. The largest meta-analysis I opened covered 78 studies and 13,998 participants, 95% of them non-European American. It found "a medium effect size favoring the effectiveness of culturally adapted interventions over unadapted versions of the same intervention (g = .52)", with a larger effect for treatment (g = .76) than for prevention (g = .25) ([Hall et al. 2016, Behavior Therapy](https://www.psychologytoday.com/sites/default/files/Hall%20et%20al.%202016%20BT.pdf)). It is about psychological interventions in general, not only CBT.
 
-**Plain words** Interventions need cultural adaptation — a programme that works in one context needs translation to work in another. Not optional refinement; core engineering. Evidence-based plus culture-adapted, or it isn't evidence-based here.
+Castro, Barrera and Holleran Steiker are more cautious. Their review says adaptations "are effective when applied with certain subcultural groups, although they are less effective when applied with other subcultural groups", and that "current evidence regarding the effectiveness of cultural adaptations is promising but mixed" ([Castro et al. 2010, Annual Review of Clinical Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4262835/)). They add that adaptation "involves a planned, organized, iterative, and collaborative process" with participation from the target population, and that the cultural competence of the people delivering the programme matters.
 
-*For example:* The therapy protocol imported wholesale into a culture where talking about family shame to a stranger is itself the pathology — the technique was fine; the delivery was broken. Adapted, it works. Unadapted, it doesn't arrive.
+
+
+### Scope
+
+Hall's samples are mostly studies of adults with symptoms, and the comparison with unadapted versions is a subset of the evidence. I did not open Gone 2011, Patel et al. 2010 or Lewis-Fernández and Aggarwal.
+
+**Plain words**
+Do not assume a programme tested in one setting will work in another. Check it with the people it is for, and let them help shape what changes.
+
+**For example**
+Before running a wellbeing workshop for a new community, ask five members to read the materials and mark anything that would feel strange, shaming or irrelevant. Change those parts, then ask again.
+
+## Sources
+
+- [Hall et al. 2016, A Meta-Analysis of Cultural Adaptations of Psychological Interventions](https://www.psychologytoday.com/sites/default/files/Hall%20et%20al.%202016%20BT.pdf)
+- [Castro, Barrera and Holleran Steiker 2010, Issues and Challenges in the Design of Culturally Adapted Evidence-Based Interventions (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4262835/)
+
 ## Psychology parallels
 
 - [[Castro et al|Castro et al.]] (2010) on cultural adaptation; Gone (2011) on Indigenous healing; Hall et al. (2016) on cultural adaptation of cognitive-behavioral therapy; the cultural-formulation approach (Lewis-Fernández and Aggarwal, 2015); the global-mental-health literature (Patel et al., 2010).
