@@ -24,7 +24,6 @@ Each emotion and its wisdom are one mental activity seen two ways: "This deep aw
 ## Related concepts
 
 - [[The three poisons]] — the five poisons condense into the root three, with pride and jealousy counted as combinations ([Rigpa Wiki](https://www.rigpawiki.org/index.php?title=Five_poisons))
-- [[Buddha-nature]] — the commentary's image: conceptual thoughts and disturbing emotions are waves, mind itself the ocean
 - [[Wisdom]] — listed for comparison
 
 ## Sources
