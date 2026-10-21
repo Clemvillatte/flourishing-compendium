@@ -232,3 +232,28 @@ Carriers opened fresh: Ting-Toomey "The Matrix of Face" PDF (diplomacy.edu), Öh
    groupthink cohesiveness sentence supported by the Wikipedia carrier.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 10 (16:23Z) — w1aa quote-fidelity verification, ninth batch
+
+Carriers opened fresh: inters.org Jonas "Technology and Responsibility", Gutenberg #47001
+(Cicero De Officiis, Miller), Ashton & Lee 2007 HEXACO PDF, Wiktionary integritas.
+
+1. Intergenerational justice — blockquote (the full Jonas imperative) VERBATIM; "I can will
+   the present good..." and "addresses itself to public policy..." VERBATIM; the
+   predictive-science-of-long-range-effects paraphrase supported in substance by the essay's
+   knowledge-duty sentences ("the knowledge must be commensurate with the causal scale of
+   our action"; "predictive knowledge falls behind the technical knowledge... assumes
+   ethical importance").
+2. Integrity (integritas — wholeness) — Cicero blockquote VERBATIM (I.111); "goes against
+   the grain" VERBATIM (I.110); Cato passage VERBATIM (I.112). MINOR NOTE: the page says
+   Wiktionary gives "soundness" as the first sense of integritas — the opened English
+   "integritas" entry's first sense is "steadfast adherence to a strict moral or ethical
+   code" (the wholeness/soundness gloss belongs to the Latin integritās entry); the
+   etymology (integer + -itas) is confirmed. Substance correct; citation-precision nuance
+   only, no repair needed.
+3. HEXACO model of personality structure — both blockquotes VERBATIM vs the opened PDF
+   (abstract sentence and Honesty-Humility definition); the reciprocal-altruism reading of
+   H and A VERBATIM-supported.
+
+Result: 3/3 quotation fidelity PASS; one minor citation-precision note (Wiktionary sense),
+no defects.
