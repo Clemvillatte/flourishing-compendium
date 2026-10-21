@@ -46,7 +46,6 @@
   "Complicated grief research",
   "Competing response theory",
   "Cloninger's Psychobiological Model of Temperament and Character",
-  "Classical conditioning theory",
   "Cattell–Horn–Carroll theory",
   "Clear and distinct perception",
   "Chitta-vritti",
@@ -55,7 +54,8 @@
   "Communication Accommodation Theory",
   "Care ethics",
   "Commitment devices (Ariely & Wertenbroch)",
-  "Bystander effect theory Darley Latane"
+  "Bystander effect theory Darley Latane",
+  "Classical conditioning theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -111,7 +111,7 @@
   "Complicated grief research": "Reopened for QC: advisor QC round 6 repairs",
   "Competing response theory": "Reopened for QC: advisor QC round 6 repairs",
   "Cloninger's Psychobiological Model of Temperament and Character": "Reopened for QC: advisor QC round 6 repairs",
-  "Classical conditioning theory": "Reopened for QC: advisor QC round 6 repairs",
+  "Classical conditioning theory": "Reopened for QC: quote-share trim",
   "Cattell–Horn–Carroll theory": "Reopened for QC: advisor QC round 6 repairs",
   "Clear and distinct perception": "Reopened for QC: advisor QC round 6 repairs",
   "Chitta-vritti": "Reopened for QC: advisor QC round 6 repairs",
@@ -123,6 +123,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:13:50+00:00",
+ "updated": "2026-10-21T14:14:04+00:00",
  "band_done": false
 }
