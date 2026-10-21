@@ -1,3 +1,8 @@
+- SESSION CLOSEOUT (2026-10-21 ~11:36Z, worker-w1ab-2e9d1a4f): session ending at owner's request
+  before the 11:42:10Z report mark; baton RELEASED; all work pushed and verified on origin
+  (last own commit d41266e2, then synced with other agents' commits); working tree clean at
+  closeout. Final state: manifest intersect done = 25/70; 7 namespace/label holds; items-11-15
+  milestone CLOSED (advisor round-2 scoped PASS); items 16-19 QC due at the next 5-item boundary.
 - WORKER CHECKPOINT w1ab (2026-10-21 11:25Z, worker-w1ab-2e9d1a4f, T+60 REPORT DUE
   11:42:10Z — reporting checkpoint; baton HELD, work continues while the session lives):
   session window 10:42-11:42Z. MANIFEST∩DONE = 25/70 (was 13 at takeover; +12 this window:
