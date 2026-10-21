@@ -50,6 +50,17 @@
         "https://www.youtube.com/watch?v=rBdhqBGqiMc"
       ],
       "video_verified": "oembed: 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman"
+    },
+    {
+      "id": "K100",
+      "title": "Breath anchoring",
+      "status": "done",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/18329323/",
+        "https://pubmed.ncbi.nlm.nih.gov/23538911/",
+        "https://www.youtube.com/watch?v=ausxoXBrmWs"
+      ],
+      "video_verified": "oembed: '10 Minute Guided Meditation for Focus | Declutter The Mind'"
     }
   ],
   "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger."

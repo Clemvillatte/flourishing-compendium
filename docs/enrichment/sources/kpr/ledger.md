@@ -26,3 +26,9 @@
 - Sources opened: PubMed 36630953 Balban et al. 2023 abstract (remote RCT NCT05304000, daily 5-min breathwork vs mindfulness over 1 month, cyclic sighing greater mood improvement and respiratory rate reduction, p < 0.05); stanmed.stanford.edu (fetched via search snippet: 111 volunteers, cyclic sighers greatest daily improvement in positive feelings, respiratory-rate reduction correlated with positive affect); Huberman video rBdhqBGqiMc description + transcript via search (two inhales, extended exhale; occurs spontaneously in sleep when CO2 too high).
 - Video verified via YouTube oembed: rBdhqBGqiMc 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman.
 - Validation: ok; build ok; two push races with other workers resolved via pull --rebase.
+
+## K100 — Breath anchoring (2026-10-21)
+- Enriched existing kernel with Protocol (4 steps), Evidence, guided video, Sources.
+- Sources opened: PubMed 18329323 Lutz et al. 2008 (FAM = voluntary focusing of attention on a chosen object); PubMed 23538911 Mrazek et al. 2013 abstract (2-week mindfulness vs nutrition course, GRE reading comprehension + working memory up, distracting thoughts down, mediated by reduced mind wandering in distraction-prone participants).
+- Video verified via YouTube oembed: ausxoXBrmWs '10 Minute Guided Meditation for Focus | Declutter The Mind'.
+- Operationalises converted to bullet list; all 9 original links preserved. Validation: ok; build ok; saved and pushed.
