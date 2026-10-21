@@ -48,7 +48,7 @@
   "AT002": "SUPERVISOR OPEN: inherited Practice prescribes diagnosing a network bottleneck and different remedies, not established by cited ANT study. Body inference limits repaired; inherited text not certified.",
   "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified.",
   "AT021": "SUPERVISOR OPEN: inherited Practice calls gratitude an attentional exercise; writing study does not establish an attention mechanism. Body corrected; inherited Practice preserved, not certified.",
-  "AT048": "Reopened for QC: Final advisor: narrow preliminary support to the specific OM attentional-pattern prediction",
+  "AT048": "QC-CLOSED: final independent advisor precision applied; preliminary support limited to the specific OM attentional-pattern prediction. Twenty-card validator passed, protected metadata/originals/inherited content unchanged except terminal newlines.",
   "BE002": "QC-CLOSED 2026-10-21: primary PDF pp73/101/189 opened; quotes verified; stimulus/procedure/effect distinctions and historical scope repaired; inherited parallels unverified.",
   "AT046": "QC-CLOSED 2026-10-21: five sources opened; quote/result checks; broader positive review added, repeated-weekly-regimen limits and personal-reflection scope explicit; inherited parallels unverified.",
   "AT054": "QC-CLOSED 2026-10-21: both cited abstracts opened, quotes checked; process voice and imagined improvement guarantee removed; transfer inference scoped; inherited parallels unverified.",
@@ -56,6 +56,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T15:06:41+00:00",
+ "updated": "2026-10-21T15:08:09+00:00",
  "band_done": false
 }
