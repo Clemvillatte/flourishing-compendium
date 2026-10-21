@@ -30,6 +30,9 @@ Suppose someone urges you to speak more often in meetings simply because another
 
 - [Zhuangzi, James Legge translation (1891), ETH Zurich METIS edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — chapter 8, duck and crane passage quoted verbatim
 
+## Stories
+- [[ST351 — The Pheasant That Does Not Ask for a Coop|351. The Pheasant That Does Not Ask for a Coop]]
+
 ## Psychology parallels
 
 - **[[Organismic trust|Organismic trust]]**, well-being follows when goals match internalized values (Sheldon and Elliot, 1999)

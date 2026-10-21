@@ -57,6 +57,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST035 — Ivan Ilyich's Question]]
     - [[ST036 — Frankl Chooses the Attitude]]
     - [[ST037 — Ruben Loses the Hearing]]
+    - [[ST351 — The Pheasant That Does Not Ask for a Coop]]
   - [[ST-S01.06 — I.6 Relationships, Speech, and Leadership]]
     - [[ST038 — Three Friends and the Creator]]
     - [[ST039 — The Ruler Whose People Say We Did It]]
