@@ -13,7 +13,7 @@ Acceptance and committed action are two components of Acceptance and Commitment 
 
 ### What each half contributes
 
-Acceptance involves attending to thoughts, feelings and bodily sensations without judging them. Webster describes letting go of attempts to control unwanted inner experience while continuing to address external problems that can be changed. Committed action means pursuing personally valued directions while difficult thoughts and feelings remain present. The article presents psychological flexibility, the increased ability to adapt, as the main aim of ACT, and notes that evidence on efficacy was, at the time of writing, promising but still debated in reviews.
+Acceptance involves attending to thoughts, feelings and bodily sensations without judging them. Webster describes letting go of attempts to control unwanted inner experience while continuing to address external problems that can be changed. Committed action means pursuing personally valued directions while difficult thoughts and feelings remain present. Read together, the two components divide the work: acceptance addresses unwanted inner experience, committed action addresses what the person can still do. The article presents psychological flexibility, the increased ability to adapt, as the main aim of ACT, and notes that evidence on efficacy was, at the time of writing, promising but still debated in reviews.
 
 ### In the compendium
 
@@ -30,9 +30,7 @@ Acceptance involves attending to thoughts, feelings and bodily sensations withou
 
 ## Sources
 
-- Hayes, Strosahl and Wilson, 2011
-
-- a model comparison, not trial evidence for the sutra
+- Hayes, Strosahl and Wilson, 2011 (the six-process model's first presentation; see the opened Webster source)
 
 - [Webster, "Introduction to acceptance and commitment therapy" (Advances in Psychiatric Treatment 17(4), 2011, Cambridge Core)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introduction-to-acceptance-and-commitment-therapy/D67B44FDED4147CA35C1AA8FA9D3DDA5) — opened source for the Summary sentence, the acceptance and committed-action descriptions, the six components and the psychological flexibility aim
 

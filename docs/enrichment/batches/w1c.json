@@ -69,7 +69,8 @@
   "Conduct even in just war",
   "Creative advance",
   "Dialectical thinking",
-  "Embodied self"
+  "Embodied self",
+  "Acceptance alongside values-based action"
  ],
  "in_progress": null,
  "flagged": {
@@ -105,8 +106,8 @@
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-20T08:39:52+00:00",
- "band_done": false,
+ "updated": "2026-10-21T08:00:27+00:00",
+ "band_done": true,
  "new_concepts": [
   {
    "title": "Autonomous motivation",

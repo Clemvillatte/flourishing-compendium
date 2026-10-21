@@ -504,3 +504,14 @@ legacy schema (state keys + proposals) — MERGED, never replaced.
 - All four quoted spans verified verbatim against the unprompted fetch ("Every child or adult with ADHD whom I have ever evaluated...", "a fundamental characteristic of ADHD is that it varies according to the context...", "They perform well if the task is something that actually interests them...", "unless the task is especially interesting or scary", plus the importance question).
 - Seed's "novelty" claim (interest AND novelty) not supported by the opened source: page asserts interest and imminent unpleasantness only. Original "Other formulations in this library" section removed per the Crocker precedent (its only line repeated the unverified novelty claim). All original wikilinks preserved byte-exact.
 - Validation: fast-track PASS; build 5,720 ok.
+
+## Acceptance alongside values-based action closeout (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Takeover light check: page already at the bar (verbatim quote, Sources
+  URL, structure intact). QUOTE re-verified verbatim against the opened
+  Cambridge Core carrier (Webster 2011 Summary sentence exact; acceptance
+  and committed-action descriptions match the article's account).
+- REPAIRS: removed the internal audit note leaked into ## Sources ("a
+  model comparison, not trial evidence for the sutra"); replaced the bare
+  Hayes row with a scoped parenthetical; added one bounded synthesis
+  sentence to clear the 150-word concept minimum. Validator ok.
