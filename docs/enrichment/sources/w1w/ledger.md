@@ -53,3 +53,31 @@ supervisor-pending holds routed). Owner priority applied: Buddhist cluster first
   (DBT skill, candidate after acceptance/willingness check); Ten modes of
   Pyrrhonian suspension (SEP carrier available); The plain human being and
   The untroubled mind (referent unclear from queue — supervisor question).
+
+- Relationship categorisation (fast-track): rewrite from seed. Carrier: Fehr,
+  Friendship Processes ch.1 (Syracuse-hosted chapter PDF), OPENED; prototype
+  sentence, Aristotle-typology passage and two-axes sentence verified verbatim.
+- Repetition (fast-track): rewrite from seed. Carrier: Kierkegaard, Repetition
+  (Internet Archive full text), OPENED; opening formula and dialectic passage
+  verified verbatim.
+- Representativeness heuristic (fast-track): rewrite from seed. Carrier: Tversky
+  & Kahneman 1974 Science paper (U Florida-hosted PDF), OPENED; definition,
+  Steve example and error sentence verified verbatim. SUPERVISOR FLAG: overlaps
+  existing 'Base rate neglect representativeness heuristic' page (both cross-
+  referenced; merge is an owner decision).
+- Responsibility (fast-track): rewrite from seed. Carrier: Aristotle NE Book III
+  (Ross, Internet Classics Archive), OPENED; three passages verified verbatim.
+  Levinas/Bandura/Dewey seed citations kept without new claims (not opened).
+- Restorative environments (fast-track): rewrite from seed. Carrier: Kaplan
+  1995 abstract (ScienceDirect publisher page), OPENED; abstract verified
+  verbatim. Deep Blue PDF failed to parse; publisher abstract used instead.
+- Restorative rather than retributive (fast-track): rewrite from seed. Carrier:
+  Gilligan 2011 CHS retrospective (open), OPENED; care-ethic summary and
+  two-injunctions passage verified verbatim. The 1982 book itself is
+  access-restricted on archive.org; the retrospective is the opened carrier.
+- Righteousness (fast-track): rewrite from seed. Carrier: Mencius, Gaozi I
+  (Legge, ctext.org), OPENED; fish-and-bear's-paws passage verified verbatim.
+- Reverence (fast-track): rewrite from seed. Carrier: NDPR review of Woodruff's
+  Reverence (open academic review), OPENED; definition (p. 8) and courage
+  comparison (p. 67) quoted as quoted-by-review; the book itself is copyrighted
+  and unopened — quotes framed as quoted-in-review throughout.
