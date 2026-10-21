@@ -115,3 +115,7 @@
 ## CO016 — Belief perseverance
 - Opened: Ross, Lepper & Hubbard 1975 (PubMed 1185517 abstract); Lepper, Ross & Lau 1986 (PubMed 3701590 abstract); Wood & Porter 2019 (Springer PDF abstract + intro text, 10,100 subjects, 52 issues).
 - KEY CORRECTION: seed "fact-checking alone rarely changes minds" contradicted by Wood & Porter (corrections generally improve accuracy). Page reframed: perseverance persists in lab after debriefing; process debriefing works; corrections in politics usually help. Practice line rewritten (was "replace with alternative explanation ... beliefs abhor a vacuum", unsourced; Anderson et al. 1980 unopened). Anderson 1980, Nyhan & Reifler 2010 bare refs.
+
+## BI052 — Trauma physiology, bottom-up approaches
+- Opened: Brom et al. 2017 (PubMed 28585761, abstract); van de Kamp et al. 2023 J Trauma Stress 36(5):835-848 (PubMed 37702005); Scheeringa, BJPsych Bulletin 50(4), doi 10.1192/bjb.2025.10174 (Cambridge Core page; quotes verbatim). Also saw Cochrane/scoping SE review (PubMed 34290845: study quality mixed).
+- Changes: seed asserted "trauma lives in the body" and listed van der Kolk as support; reframed as contested, modest evidence, no superiority over trauma-focused CBT. Levine 1997, Ogden 2006, van der Kolk 2014 unopened -> bare refs. Page shows hits for the van der Kolk book critiques (Conversation, etc.) only via snippets, not cited.
