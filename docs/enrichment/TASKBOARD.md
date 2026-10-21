@@ -2160,3 +2160,9 @@ Verification pass 91 (worker-glmc4a — final): 2 principle pages not reached; 2
 - Y108 (Bhagavad Gita 14.24, bhagavadgita.com), Y109 (Bhagavad Gita 16.21, the three gates): the Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
 - Y106, Y107: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 91 notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 92 (worker-glmc4a — final): 1 principle page flagged; 2 not reached; 1 with no displayed quotes.
+- Y110 (Bhagavad Gita 16.1-3, Arnold-style translation "Fearlessness, singleness of soul"): the quote was NOT FOUND in the downloaded Gutenberg #2388 Arnold text — the word "Fearlessness" was absent; the quote may be from a different Arnold edition or another verse rendering; flagged for re-verification. Not a defect.
+- Y111 (Bhagavad Gita 18.2, sanyās/tyāg), Y112 (Bhagavad Gita 4.18, action in inaction): the Bhagavad Gita carriers were not downloaded this session; not reached.
+- Y113: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 92 flags Y110 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
