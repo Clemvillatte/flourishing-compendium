@@ -17,7 +17,7 @@ The paper is built as nine numbered hypotheses with corollaries. The first state
 
 > "To the extent that objective, non-social means are not available, people evaluate their opinions and abilities by comparison respectively with the opinions and abilities of others." (Hypothesis II)
 
-His examples mark the limit of objective testing: the opinion that an object is fragile can be tested by hitting it with a hammer, but no such test exists for the opinion that one political candidate is better than another, or that war is inevitable. Comparison, then, has a range: "The tendency to compare oneself with some other specific person decreases as the difference between his opinion or ability and one's own increases" (Hypothesis III), and "subjective evaluations of opinions or of abilities are stable when comparison is available with others who are judged to be close to one's opinions or abilities" (corollary to Hypothesis III).
+His examples mark the limit of objective testing: the opinion that an object is fragile can be tested by hitting it with a hammer, but no such test exists for the opinion that one political candidate is better than another, or that war is inevitable. Comparison, then, has a range: "The tendency to compare oneself with some other specific person decreases as the difference between his opinion or ability and one's own increases" (Hypothesis III), and "subjective evaluations of opinions or of abilities are stable when comparison is available with others who are judged to be close to one's opinions or abilities" (Derivation A, from Hypotheses I, II and III).
 
 > "There is a unidirectional drive upward in the case of abilities which is largely absent in opinions." (Hypothesis IV)
 
@@ -36,7 +36,7 @@ His examples mark the limit of objective testing: the opinion that an object is 
 
 ## Sources
 
-- [Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7(2), 117-140 — full-text reproduction](https://www.humanscience.org/docs/Festinger%20(1954)%20A%20Theory%20of%20Social%20Comparison%20Processes.pdf) — supports the Hypothesis I, II and IV quotations and the hammer example
+- [Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7(2), 117-140 — full-text reproduction](https://www.humanscience.org/docs/Festinger%20(1954)%20A%20Theory%20of%20Social%20Comparison%20Processes.pdf) — supports the Hypothesis I, II and IV quotations, the Hypothesis III sentence, Derivation A, and the hammer example
 - [Wikipedia, "Leon Festinger"](https://en.wikipedia.org/wiki/Leon_Festinger) — supports the biographical sentence
 
 ## Cited in psychology parallels
