@@ -43,12 +43,6 @@ Damen and colleagues tested whether a deliberate focus on the other person's poi
 - Further reading, not drawn on above: Holmes, 1968 (classic projection research named in the original seed)
 
 
-## Sources
-
-- classic projection research, Holmes, 1968
-
-- modern anchoring accounts
-
 ## Cited in psychology parallels
 
 - [[SP014 — Expect to imagine others as like yourself]]
