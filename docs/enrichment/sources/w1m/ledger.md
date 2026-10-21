@@ -537,3 +537,19 @@ computers..." passage, substring-verified against the extracted PDF text
 (the extraction renders the curly apostrophe in "today's" as a space; noted
 here). Quote added to the page with carrier link; validator-clean vs
 1f190f132; done-mark restored (QC-pending flag cleared).
+
+## Session closeout bookkeeping (worker-w1m-f9f8e50d, 2026-10-21)
+Final verification pass: all 8 session items validator-clean under their
+applicable profiles vs baseline 1f190f132 (Contempt for fame under fast-track,
+its correct profile: degree 4 < 15); all 9 PBT side-quest pages validator-clean
+vs their seed commits (08e221ff4 PBT, 8986c8cad EEMM, 84d7fbfd8 the seven
+seeds); exact-file quote re-verification for the two central PBT pages ALL OK.
+Free bands checked for taper-fit work: w1a's single remaining item
+("Participate in the world's becoming", Whitehead, degree 18 = normal track —
+too large for the taper window), w1n's "Creative selection" (flagged namespace
+hold, not worker-actionable), w1k's three items (not examined in detail;
+band released). w1m band state: all remaining manifest items are holds pending
+owner/supervisor disposition + the recorded Companionate love namespace hold.
+EXACT NEXT ACTION for the next w1m worker: nothing actionable in-band; the
+supervisor should consider closing the band or minting dispositions for the
+holds (see batches/w1m.json flagged{} and concept-namespace-audit.md).
