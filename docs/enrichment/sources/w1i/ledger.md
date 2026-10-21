@@ -613,3 +613,10 @@ single-character semicolon repair (Locus of evaluation, cross-band edit flagged 
 supervisor). Every actionable "Reopened for QC" entry in the w1ab flagged list has now been
 quote-checked; the only Reopened entry left unchecked is Meditation neurobiology theory Lazar
 (namespace hold, not actionable by workers).
+
+## Timestamp correction (2026-10-21, worker-perplexity-67ce7e1d)
+The UTC timestamps inside this session's ledger entries (the "14:xx" and "13:5x" marks) were
+written from estimated clock positions and drifted ahead of the wall clock. The true session
+window is 12:58:56 UTC (T0) to ~13:57 UTC; the entries above were written between roughly
+13:10 and 13:53 UTC in the order shown. The verifications and their results are unaffected;
+only the written times are approximate.
