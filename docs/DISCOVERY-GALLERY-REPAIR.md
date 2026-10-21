@@ -156,3 +156,12 @@ recipe above (taking the other agent's code edits as the base), `git add`,
   after the incident; left for a future pass. Remaining optional task per this
   handbook: restore real images for the 271 monogram cards (Wikipedia API,
   sequential ≥2s delay, cache to disk, detached background process).
+- 2026-10-21 (computer agent, session 2): image restoration executed per this
+  handbook — 271 monogram cards looked up via the Wikipedia Action API
+  (sequential, 2.2s delay, disk-cached, title-match audit rule enforced);
+  47 verified images applied via the safe splice recipe; 224 cards stay
+  monograms (no hit whose title contained the full subject phrase — the safe
+  state). 378/602 cards now carry real images. Verified after push: syntax
+  clean, 602 entries, 0 duplicate URLs, no broken images in browser QA.
+  Commits: 3abb45b30, cb7ece851 (artworks + coherence), restoration commit
+  ("DISCOVERY gallery: restore 47 Wikipedia-verified images…").
