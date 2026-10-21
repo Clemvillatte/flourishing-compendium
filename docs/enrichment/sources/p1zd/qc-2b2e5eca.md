@@ -31,3 +31,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Correction to the reopening hypothesis: the current card does not contain the initially suspected `necessary and useful` quotation. Checking the current file against the baseline rejected that hypothesis. No quotation was altered on that basis; the card's actual war/peace quotation matches the opened source.
 - Actual repair: split the bundled Politics source row into direct links to both books and remove the unused VII.15 parenthetical. Plain words now distinguishes recovery and intrinsically valued activity without the dismissive `slumping after work` phrasing.
 - Final practical reassurance is the compendium's reflection, not a claim that Aristotle supplied a contemporary theory of rest guilt. Protected material and inherited parallels preserved.
+
+## A113
+
+- Opened [NE VIII.10–12, Ross](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html); checked monarchy, tyranny, timocracy, parental love, aristocratic rule, the living-tool passage and the `qua man` qualification against the actual text.
+- Removed duplicated `that` before `qua man`. Plain words now presents household questions as contemporary reflection rather than asserting a general causal account of how all readers acquire habits at home.
+- Removed the unsupported claim about what most readers reject. The principle explicitly rejects the historical hierarchies without sanitising Aristotle's text.
+- Protected metadata, original principle sentence and inherited parallels preserved.
