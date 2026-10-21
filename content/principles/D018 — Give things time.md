@@ -34,6 +34,9 @@ Pulling bread out of the oven ten minutes early because you're hungry gets you d
 
 - [[K182 — Small-wins tracking|K182 Small-wins tracking]]
 - [[K223 — Meaning audit|K223 Meaning audit]]
+## Stories
+- [[ST382 — Thirty Years of Timekeepers|382. Thirty Years of Timekeepers]]
+
 ## Psychology parallels
 
 - **[[The progress principle|The progress principle]]**, well-being tracks perceived forward progress more than goal attainment (Amabile and Kramer, 2011)

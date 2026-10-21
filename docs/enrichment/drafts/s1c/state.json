@@ -383,9 +383,14 @@
      "t": "2026-10-21T12:24:54+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-21T12:25:19+00:00",
+     "to": "published",
+     "note": "supervisor registration this session"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:24:54+00:00"
+ "updated": "2026-10-21T12:25:19+00:00"
 }

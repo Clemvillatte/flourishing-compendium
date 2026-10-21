@@ -30,6 +30,9 @@ You do not have to decide what a loss means for the rest of your life to notice 
 - [Dhammacakkappavattana Sutta (SN 56.11), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) — the stress list and the comprehension task
 - [Dhammapada Piyavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html) — verse 212
 
+## Stories
+- [[ST381 — Kisa Gotami Goes from Door to Door|381. Kisa Gotami Goes from Door to Door]]
+
 ## Psychology parallels
 
 - **[[Dual-process theory|The dual-process model]]**, healthy grieving oscillates between loss- and restoration-focus (Stroebe and Schut, 1999)
