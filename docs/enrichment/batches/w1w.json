@@ -3,7 +3,9 @@
  "done": [
   "Samadhi",
   "Shamatha (calm abiding)",
-  "Tathata, suchness"
+  "Tathata, suchness",
+  "Rectification of the mind",
+  "The insatiability of craving"
  ],
  "in_progress": null,
  "flagged": {
@@ -11,7 +13,33 @@
   "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
   "Tathata, suchness": "RESOLVED (advisor round 1 repairs applied): scoped to treatise + verified SEP Zen passages; twofold negation/affirmation added; unsupported bridges removed; validated clean"
  },
- "missing_concepts": [],
+ "missing_concepts": [
+  {
+   "title": "Sati (mindfulness)",
+   "seed": "Access to Insight satipatthana materials; Thanissaro",
+   "why": "no page exists; concept already represented by existing Mindfulness (deg 42) and Anapanasati pages — supervisor/owner decision needed: create a distinct sati page or mark covered; worker did not duplicate"
+  },
+  {
+   "title": "Turning the mind",
+   "seed": "Linehan DBT distress-tolerance skill",
+   "why": "no page exists; DBT skill relevant to suffering alleviation; candidate for creation after checking existing acceptance/willingness pages"
+  },
+  {
+   "title": "Ten modes of Pyrrhonian suspension of judgement",
+   "seed": "SEP Pyrrhonism; Diogenes Laertius IX",
+   "why": "no page exists; candidate for creation from an open SEP carrier"
+  },
+  {
+   "title": "The plain human being",
+   "seed": "unknown",
+   "why": "no page exists; heading provenance unclear from owner queue — supervisor question on intended referent"
+  },
+  {
+   "title": "The untroubled mind",
+   "seed": "unknown",
+   "why": "no page exists; possible Stoic coinage — supervisor question on intended referent"
+  }
+ ],
  "sources_checked": 0,
- "updated": "2026-10-21T16:08:40+00:00"
+ "updated": "2026-10-21T16:10:15+00:00"
 }
