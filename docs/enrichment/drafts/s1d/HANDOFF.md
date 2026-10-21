@@ -44,3 +44,8 @@ fetched page. No repairs needed.
 Peirce "How to Make Our Ideas Clear" (peirce.org transcription) re-opened; the maxim, the
 habits sentence, the habit-identity sentence and the diamond/hardness sentence verified
 verbatim (the transcription's "that might conceivably" matches the draft). No repairs needed.
+
+## s1d-007 quote verification (2026-10-21 13:49 UTC, worker-perplexity-67ce7e1d)
+Sona Sutta AN 6.55 (Thanissaro) re-opened; the four quotations verified verbatim, including
+the translator's bracketed insertion printed as such. No repairs needed. (s1d-008 had one
+trailing comma restored, see commit 7e7c21971.)
