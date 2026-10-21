@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-21 06:16 UTC (input revision `537c82ecd`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 07:16 UTC (supervisor refreshes at every pass, at least hourly).
+As of 2026-10-21 06:46 UTC (input revision `a9f097ec9`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 07:46 UTC (supervisor refreshes at every pass, at least hourly).
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,21 +8,19 @@ As of 2026-10-21 06:16 UTC (input revision `537c82ecd`). Scope: principles and c
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2151 | 32 | 2183 | 98.5% |
-| Concepts | 719 | 1546 | 2265 | 31.7% |
-| **Combined** | **2870** | **1578** | **4448** | **64.5%** |
+| Principles | 2164 | 19 | 2183 | 99.1% |
+| Concepts | 749 | 1518 | 2267 | 33.0% |
+| **Combined** | **2913** | **1537** | **4450** | **65.5%** |
 
 ## Principles by forest
 
 | Forest | Recorded done | Total | Done % |
 |---|---|---|---|
-| M — Mesoamerican Principles | 48 | 55 | 87.3% |
 | SP — Spinozism Principles | 87 | 96 | 90.6% |
-| SO — Sociocultural | 69 | 76 | 90.8% |
+| M — Mesoamerican Principles | 53 | 55 | 96.4% |
 | Y — Yoga-Vedanta Principles | 129 | 132 | 97.7% |
 | B — Buddhist Principles | 195 | 198 | 98.5% |
 | K — Kyoto-School and Tibetan Principles | 70 | 71 | 98.6% |
-| SE — Self | 81 | 82 | 98.8% |
 | P — Pragmatist and Process Principles | 195 | 196 | 99.5% |
 | D — Daoist Principles | 192 | 192 | 100.0% |
 | S — Classical Stoicism | 140 | 140 | 100.0% |
@@ -32,9 +30,11 @@ As of 2026-10-21 06:16 UTC (input revision `537c82ecd`). Scope: principles and c
 | AF — Affect | 84 | 84 | 100.0% |
 | CO — Cognition | 83 | 83 | 100.0% |
 | PP — Positive Psychology and Wellbeing Science | 83 | 83 | 100.0% |
+| SE — Self | 82 | 82 | 100.0% |
 | AT — Attention | 78 | 78 | 100.0% |
 | BE — Overt Behavior | 78 | 78 | 100.0% |
 | MO — Motivation | 76 | 76 | 100.0% |
+| SO — Sociocultural | 76 | 76 | 100.0% |
 | BI — Biophysiological | 72 | 72 | 100.0% |
 | X — Extra Principles | 26 | 26 | 100.0% |
 
