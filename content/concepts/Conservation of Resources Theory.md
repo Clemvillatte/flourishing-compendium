@@ -22,7 +22,7 @@ The theory's central claim, as the abstract puts it, is that threat is about res
 
 > "what is threatening to them is the potential or actual loss of these valued resources" (Hobfoll, 1989, abstract, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/2648906/))
 
-A handbook summary of the theory states its best-known asymmetries: "loss is more salient than gain, and loss begets loss" ("Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27), chapter abstract; byline not fully verified from the opened page, noted in the band ledger).
+A handbook summary of the theory states its asymmetries: "loss is more salient than gain, and loss begets loss" ("Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27), chapter abstract).
 
 ### How the theory explains
 
@@ -34,7 +34,7 @@ A person juggling a new baby, a sick parent and a work deadline illustrates the 
 
 ### In the compendium
 
-- [[D055 — Don't force]] — the principle's warning against forcing reads as resource advice: forcing spends energy the account may not have
+- [[D055 — Don't force]] — listed as a citing principle; the resource framing is one lens on the principle's caution
 - [[BI062 — Learn to track physiological states — HRV, sleep, energy]] — listed as a citing principle; the model's resource framing is one way to organise what such tracking observes
 - [[MO010 — Understand that motivation has a physiological substrate — energy and health matter]] — listed as a citing principle
 - [[SP050 — Do not fight affect with reason alone]] — listed as a citing principle
@@ -55,5 +55,5 @@ Affect · Psychological science
 [[SP050 — Do not fight affect with reason alone]]
 ## Sources
 
-- [Hobfoll, S. E. (1989), "Conservation of resources: A new attempt at conceptualizing stress", American Psychologist 44(3), 513-524 — PubMed record, PMID 2648906](https://pubmed.ncbi.nlm.nih.gov/2648906/) — abstract-derived quotations: the model statement and the critique of prior stress models; the abstract's "project" is quoted as the record prints it
+- [Hobfoll, S. E. (1989), "Conservation of resources: A new attempt at conceptualizing stress", American Psychologist 44(3), 513-524 — PubMed record, PMID 2648906](https://pubmed.ncbi.nlm.nih.gov/2648906/) — abstract-derived quotations: the model statement and the critique of prior stress models
 - ["Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27) — carrier for the loss-salience statement and the defend-conserve-acquire sentence, from the opened chapter page's visible abstract

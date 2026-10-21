@@ -9,9 +9,13 @@ against the extracted book text.
 
 ## Verdict in one line
 
-The ACT-hexaflex process layer of PBT is well covered; the PBT/EEMM
-meta-model layer itself was almost entirely absent. This session created two
-enriched pages and seven seeds to close the core gaps; two judgment calls and
+Coverage states are reported separately below: PRESENT means a page exists
+(verified by title search); CONTENT REVIEWED means this session read it;
+RICHNESS VERIFIED means it passed advisor QC; CONNECTIONS INTEGRATED means
+the proposals were applied. The ACT-hexaflex layer is PRESENT (degrees
+cited); its pages were not content-reviewed this session. The PBT/EEMM
+meta-model layer was largely ABSENT and this session created nine pages
+(richness QC pending) plus pending link proposals; two judgment calls and
 three thin pages remain for owner/supervisor disposition.
 
 ## Covered (verified existing concept pages)

@@ -63,5 +63,5 @@ Clinical Psychodynamic · Psychological science
 [[B039 — Practice the four foundations of mindfulness (satipatthana)]]
 ## Sources
 
-- [Shedler, J. (2010), "The efficacy of psychodynamic psychotherapy", American Psychologist 65(2), 98-109 — PDF at the author's site](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf) — the abstract's efficacy claims, the seven-features sentence, and features 1-4; all quotations verified verbatim against the opened PDF
+- [Shedler, J. (2010), "The efficacy of psychodynamic psychotherapy", American Psychologist 65(2), 98-109 — PDF at the author's site](https://jonathanshedler.com/PDFs/Shedler%20(2010)%20Efficacy%20of%20Psychodynamic%20Psychotherapy.pdf) — the abstract's efficacy claims, the seven-features sentence, the limitations sentence, the feature 1-4 passages, and the feature-3 reported examples
 - Blagys & Hilsenroth (2000), the technique-comparison study reported in Shedler's review — carried via the same source

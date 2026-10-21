@@ -479,3 +479,18 @@ quotes re-verified against the PDF (the "live on" quote uses curly quotes in
 the PDF — page now matches). Baseline validation --base 1f190f132: 3/3 ok.
 Items 6-8 remain QC-pending until round-3; COR and CPD have no known
 outstanding repairs.
+
+## Round-3 scoped clearance (items 6-8)
+COR and CPD: ROUND-3 SCOPED PASS after closeout checks — public byline and
+workflow notes removed from COR (kept in ledger: the Wiley chapter's byline
+was not fully verified from the opened page; the PubMed abstract prints
+"project" where the paper body may read "protect" — quoted as the record
+prints it); CPD scoped explicitly to Shedler's account of practice, with the
+limitations quotation verified VERBATIM (endpoints checked) against
+shedler.txt; front-matter byte-identical, zero lost wikilinks, Field blocks
+preserved vs 1f190f132; baseline validation 2/2 ok. Both marked done.
+Connectionism REMAINS QC-PENDING (theorist-quote requirement unmet;
+done-mark reverted). PBT deliverable remains open per the advisor: the nine
+new pages need source-to-claim QC and the link proposals are pending
+integration (audit revised to separate present / content-reviewed / richness
+verified / connections integrated).
