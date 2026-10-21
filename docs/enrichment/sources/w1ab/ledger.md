@@ -43,3 +43,19 @@
   blockquote; conclusion narrowed to a source-scoped statement; Machiavellianism Related gloss
   removed (unsupported by the opened abstract). Reopened -> repaired -> validated --base 2fb2d8fb7:
   ok. CLOSED.
+
+## Milestone QC round (items 6-10, 2026-10-21)
+- 6 Learned optimism: milestone r1 (snippet-only citation removed pre-save; publisher quote demoted,
+  Seligman-Schulman peer-reviewed sentence promoted to blockquote, proposal framing, year verified
+  from opened UPenn bibliography) -> ACCEPTED (r2/r3).
+- 7 Letting-be: Minerva commentary dropped; Heidegger Discourse on Thinking p. 54/56 verbatim via
+  archive.org full text (same carrier as E102); QCT four-causes framed as illustration; translation
+  claim grounded in opened Dasein Foundation page -> ACCEPTED (r2/r3).
+- 8 Locus of evaluation: original Rogers PDF (Houghton Mifflin scan) retrieved, printed page
+  rendered to image and transcribed; blockquote verified against printed p. 119; Cited-in sections
+  restored exactly -> ACCEPTED (r2/r3).
+- 9 Machiavellianism: blockquote locator (Introduction), Cited-in restored, correlates presented
+  with sample specificity -> ACCEPTED (r3 after locator retry).
+- 10 Maladaptive perfectionism: "Unhealthy perfectionism" sentence as blockquote; H&F origin claim
+  replaced with supported attribution; Cited-in restored -> ACCEPTED (r3).
+- All items 6-10 validate ok against pre-enrichment baseline 2fb2d8fb7.
