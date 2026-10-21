@@ -23,7 +23,7 @@ And the social structures the signal protects predate any individual:
 
 > "Social species create emergent organizations beyond the individual– structures ranging from dyads and families to institutions and cultures." (same review)
 
-On this account the discomfort of loneliness is doing a job: like hunger, it is unpleasant on purpose, and the unpleasantness is the motive to reconnect.
+On this account the discomfort of loneliness is doing a job: like hunger, it is unpleasant on purpose, and the unpleasantness is the motive to reconnect. The reframe matters for how loneliness is met. A defect invites concealment or repair of the self, while a signal invites attention to what it indicates; the compendium's principle takes the second path, treating the ache as information about connection rather than as a verdict on the person feeling it.
 
 ### In the compendium
 

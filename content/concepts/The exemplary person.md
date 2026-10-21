@@ -19,7 +19,7 @@ And through what the person carries with them everywhere:
 
 > "Not even whilst he eats his meal will the 'superior man' forget what he owes to his fellow-men. Even in hurried leave-takings, even in moments of frantic confusion, he keeps true to this virtue." (same work)
 
-The same stretch of the text adds the social corollary: "Virtue dwells not alone: she must have neighbors." The exemplary person is not a solitary perfectionist; the practice is always owed to others.
+The same stretch of the text adds the social corollary: "Virtue dwells not alone: she must have neighbors." The exemplary person is not a solitary perfectionist; the practice is always owed to others. The scenes are small ones, and the smallness is the method: an archery match, a meal, a hurried departure. The compendium's reading is that virtue shows in the handling of forfeits and leave-takings before it shows in anything grand, which is what makes the figure imitable rather than remote.
 
 ### In the compendium
 
