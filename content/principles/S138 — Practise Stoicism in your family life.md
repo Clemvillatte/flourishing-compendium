@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 260** — Practise Stoicism in your family life
 
-The Stoic does not separate philosophy from family. Marcus writes about his debt to his family. Seneca writes to his mother. Epictetus discusses family duties. Treat your family life as the primary site of Stoic practice.
+The Meditations opens with a family accounting: Marcus lists, item by item, what he owes the people who raised him. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-(Med. I.1, I.5, I.11, I.15, I.16, I.17; Seneca, Letters 4, 63, 99, 104, 107; Disc. II.10, III.7; Ench. 3, 30, 33, 39, 40; Musonius Rufus, Lectures on marriage and family.)
+> "From my mother, piety and beneficence, and abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich."
 
-**Plain words** Family is not the distraction from your philosophy; it's the main venue. Marcus opened the Meditations thanking his family, and the Stoics treated household duties as practice with the highest stakes. The people who see you tired are the real training partners.
+(Med. I.1, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
+
+The compendium applies the opening to where practice happens: the habits of home are where character is formed and displayed. The exercise is to treat one household duty tonight — a greeting, a dinner — as the site of the work, not a delay before it.
+
+**Plain words** Marcus learned philosophy from the people in his household, and his private notebook opens by admitting it. The people in your kitchen see the unedited version of you, which makes them the practice.
 
 *For example:* The parent who stops rehearsing the day's grievances in the doorway, takes one breath, and walks in to make dinner — the same hard day, met differently.
+
+## Sources
+
+- [Meditations I.1, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt)
 ## Psychology parallels
 
 - **[[Family systems theory|Family systems theory]]** (Bowen, 1978)
