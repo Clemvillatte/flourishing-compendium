@@ -388,3 +388,26 @@ Haslam et al 2009 editorial PDF (dhi.ac.uk), Shalev 2018 (PMC), PubMed 24331897
    teachable-skill and trivialization prose claims verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 18 (16:31Z) — w1aa quote-fidelity verification, seventeenth batch
+
+Carriers opened fresh: Gutenberg #8438 (Nicomachean Ethics), Frontiers in Psychology
+6:344 abstract (McLain, Kefallonitis & Armani 2015).
+
+1. Kairos (the opportune moment) — all three quotations VERBATIM vs Gutenberg #8438
+   (Book II ch. IX passage, Book VI ch. IX good-counsel passage, Book III ch. X courage
+   passage). DEFECT ROUTED (no baton): the page's Sources row credits "trans. F. H.
+   Peters", but the opened ebook #8438 identifies the translator as D. P. Chase — and
+   the page's own in-text note ("the ebook names no translator") contradicts its Sources
+   row. Repair requested for supervisor/w1aa holder: Sources row translator Peters ->
+   Chase (or drop the translator name), and reconcile the in-text hedge.
+2. Humanity — both quotations VERBATIM vs Gutenberg #8438 ("Of the good man..." and
+   "Since then Friendship stands rather in the entertaining..."); the page's chapter
+   attributions (Book IX ch. VIII and Book VIII ch. VIII) are the standard locators and
+   are consistent with the passages' content.
+3. Intolerance of ambiguity — Budner definition blockquote VERBATIM (as quoted in the
+   review); the stable-tendency definition, tangible-negative-consequences sentence,
+   four reactions and three stimulus characteristics all verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS; 1 translator-attribution defect routed (Kairos,
+Peters should be Chase).
