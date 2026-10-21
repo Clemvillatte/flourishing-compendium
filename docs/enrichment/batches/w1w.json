@@ -7,11 +7,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Samadhi": "QC-PENDING (advisor round 1, 2026-10-21): repairs needed — ordinal claim, seeded/seedless equivalence unsupported; repairing",
-  "Shamatha (calm abiding)": "QC-PENDING (advisor round 1, 2026-10-21): repairs needed — opening quote is Thanissaro's reported-not-endorsed account; breath frequency claim; Samadhi gloss; repairing",
-  "Tathata, suchness": "QC-PENDING (advisor round 1, 2026-10-21): repairs needed — SEP now opened and verified; scope-to-treatise, twofold-aspect passage, unsupported bridges; repairing"
+  "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
+  "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
+  "Tathata, suchness": "RESOLVED (advisor round 1 repairs applied): scoped to treatise + verified SEP Zen passages; twofold negation/affirmation added; unsupported bridges removed; validated clean"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:08:04+00:00"
+ "updated": "2026-10-21T16:08:40+00:00"
 }
