@@ -12,9 +12,10 @@
   "Transactive memory systems",
   "The progress principle",
   "The coloured lens",
-  "The return of the soul to its source"
+  "The return of the soul to its source",
+  "The via media"
  ],
- "in_progress": "The seasons of illness",
+ "in_progress": null,
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
@@ -31,10 +32,11 @@
   "The examined past": "Reopened for QC: QC round 2 (advisor, 2026-10-21): namespace hold — the opened Seneca passage establishes daily self-examination, already represented by Daily self-examination; distinction unresolved, supervisor disposition requested (see concept-namespace-audit.md). Round-2 repairs applied: bounded opening, single verified quotation, empirical glosses reduced.",
   "The prior probability of the world": "Reopened for QC: QC round 2 (advisor, 2026-10-21): namespace hold — the Hume X.1 passage supports the body's content but not the heading's identity as a named concept; disposition requested (see concept-namespace-audit.md). Round-2 repairs applied: bounded opening, custom sentence narrowed and unquoted, external glosses reduced, inline links added.",
   "The return of the soul to its source": "Reopened for QC: QC round 2 (advisor, 2026-10-21): bounded repairs applied (opening limited to the IV.8.1 evidence, 'same self' removed, cross-tradition glosses reduced to wording grounds, inline links added); held for re-verification of the repaired text.",
-  "The seasons of illness": "NAMESPACE HOLD (2026-10-21, worker-w1m-5f8e3a2b): compendium coinage — Ecclesiastes 3 grounds the seasons passage (incl. 'a time to heal', verified verbatim against the Douay-Rheims text, Gutenberg #8300) but does not define 'The seasons of illness' as a concept; the illness application is the compendium's (BI012/B001/BI068/BI072/PP062). Bounded page saved per the QC round-2/3 pattern; held out of done pending supervisor disposition (see concept-namespace-audit.md)."
+  "The seasons of illness": "NAMESPACE HOLD (2026-10-21, worker-w1m-5f8e3a2b): compendium coinage — Ecclesiastes 3 grounds the seasons passage (incl. 'a time to heal', verified verbatim against the Douay-Rheims text, Gutenberg #8300) but does not define 'The seasons of illness' as a concept; the illness application is the compendium's (BI012/B001/BI068/BI072/PP062). Bounded page saved per the QC round-2/3 pattern; held out of done pending supervisor disposition (see concept-namespace-audit.md).",
+  "The urgency of time": "NAMESPACE HOLD (2026-10-21, worker-w1m-5f8e3a2b): compendium coinage over Heideggerian finitude; no source defines 'The urgency of time' as a concept. Being and Time was NOT opened this session (no lawful full-text carrier available quickly; owner's Drive/local library does not list Heidegger), so no quote can be verified — per the zero-hallucination rule the page is left at seed and held out of done pending supervisor disposition (rename to a source-defined neighbour e.g. Being-towards-death, or owner supplies a carrier). Citing principles: E054/Y096/AT069/K050/MO052."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:01:15+00:00",
+ "updated": "2026-10-21T11:02:12+00:00",
  "band_done": false
 }

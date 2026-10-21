@@ -351,3 +351,7 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   text, Gutenberg #8300), but the illness application is the compendium's own (citing principles
   BI012/B001/BI068/BI072/PP062). Bounded page saved at the fast-track bar; held out of done
   pending supervisor disposition.
+- The urgency of time (2026-10-21, worker-w1m-5f8e3a2b, w1m): compendium coinage over Heideggerian
+  finitude; no source defines the phrase. Being and Time not opened this session (no lawful carrier
+  at hand; owner library does not list Heidegger), so no verifiable quote — page left at seed and
+  held out of done pending supervisor disposition.
