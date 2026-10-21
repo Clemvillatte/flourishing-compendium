@@ -487,15 +487,20 @@
    ]
   },
   "s1a-021": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Bunyan Grace Abounding P184 twice-born",
    "history": [
     {
      "t": "2026-10-21T11:39:22+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:39:36+00:00",
+     "to": "qc_pending",
+     "note": ""
     }
    ]
   }
  },
- "updated": "2026-10-21T11:39:22+00:00"
+ "updated": "2026-10-21T11:39:36+00:00"
 }
