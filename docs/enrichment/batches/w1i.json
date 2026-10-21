@@ -36,7 +36,8 @@
   "Anxiety about the future",
   "Beneficial speech",
   "Body schema",
-  "Calling orientation"
+  "Calling orientation",
+  "Choice architecture"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,7 +57,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:38:26+00:00",
+ "updated": "2026-10-21T06:39:24+00:00",
  "band_done": false,
  "new_concepts": [
   {
