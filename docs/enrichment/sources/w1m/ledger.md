@@ -191,3 +191,15 @@
   Beauty are principles, not concepts) — the seed had no Related section
   either. Validator ok (fast-track).
 - QC-PENDING flag set (8th fresh item; supervisor sample requested).
+
+## Transactive memory systems (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 6 connections; well-defined psychology
+  construct, Wegner's own term). QUOTES verified against the freshly
+  fetched Harvard-hosted PDF of Wegner's 1987 chapter: both quoted
+  passages verbatim (incl. the 1985 definition with its citation).
+  The 'who knows what' framing is kept to the concept's plain-language
+  gloss, not quoted (not in the opened excerpt).
+- Related line (Distributed cognition / extended mind) preserved from
+  the seed. Validator ok (fast-track).
+- QC-PENDING flag set (9th fresh item; supervisor sample requested).

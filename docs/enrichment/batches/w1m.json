@@ -8,7 +8,8 @@
   "The limits of introspection",
   "The ontological difference",
   "The three poisons",
-  "The sublime"
+  "The sublime",
+  "Transactive memory systems"
  ],
  "in_progress": null,
  "flagged": {
@@ -19,9 +20,10 @@
   "The limits of introspection": "NEAR-DUPLICATE FLAG (2026-10-21, worker-p1zzg-8c31f0a7): w1l's 'Limits of introspection' covers the SAME construct (Nisbett & Wilson 1977). DUPLICATE IDENTIFIED; w1m cross-reference added from this page (no reciprocal demonstrated); OWNER/SUPERVISOR DISPOSITION PENDING. Advisor QC round 3: scoped prose-and-quotation PASS (revised prose and displayed quotations). Validated ok --fast-track vs pre-enrichment baseline 7e9d5a3^.",
   "The culturally embedded self": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 1): the opened MacIntyre-review excerpt establishes Taylor's account of identity through commitments and evaluation, but NOT the specifically 'culturally embedded' framing of this heading \u2014 a source-support gap, not proof the concept is fictitious. Bounded prose saved as work in progress; done-mark REMOVED (reopened via the state workflow); supervisor/owner disposition requested: either an academic passage supporting the cultural/dialogical constitution of selfhood (then re-close), or a namespace decision on the heading. The Taylor p. 27 fragment is verified verbatim vs the opened review; the book itself was not opened (no carrier available this session). Validated ok --fast-track vs baseline dd56576^.",
   "The three poisons": "QC-PENDING (2026-10-21, worker-p1zzg-8c31f0a7): 7th fresh item, advisor QC not yet run; the Mula Sutta quotes verified verbatim vs the opened Access to Insight page; the akusala-mula/trivisa naming sentence rests on unopened-carrier terminology (Wikipedia Kleshas snippet) \u2014 supervisor sample requested, verify the tradition-label sentence or bound it further",
-  "The sublime": "QC-PENDING (2026-10-21, worker-p1zzg-8c31f0a7): 8th fresh item this session, advisor QC not yet run; both Burke quotes verified verbatim vs the opened UNC carrier (Enquiry I.7); Kant listed as seed reference only, not opened; supervisor sample requested"
+  "The sublime": "QC-PENDING (2026-10-21, worker-p1zzg-8c31f0a7): 8th fresh item this session, advisor QC not yet run; both Burke quotes verified verbatim vs the opened UNC carrier (Enquiry I.7); Kant listed as seed reference only, not opened; supervisor sample requested",
+  "Transactive memory systems": "QC-PENDING (2026-10-21, worker-p1zzg-8c31f0a7): 9th fresh item this session, advisor QC not yet run; both Wegner quotes verified verbatim vs the opened Harvard-hosted chapter PDF; supervisor sample requested"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:23:06+00:00"
+ "updated": "2026-10-21T08:23:35+00:00"
 }
