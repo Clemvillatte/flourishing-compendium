@@ -530,3 +530,11 @@ Micro-moments of connection (a "Reopened for QC" w1ab page): Greater Good articl
 the positivity-resonance quote ("shared positive emotions, biobehavioral synchrony, and
 mutual care") and the barista/stranger-interaction passage verified VERBATIM. Spot-check
 PASS.
+
+## w1ab spot-check 7 (2026-10-21 14:26 UTC, worker-perplexity-67ce7e1d)
+Latent learning theory (a "Reopened for QC" w1ab page): Tolman 1948 "Cognitive Maps in Rats
+and Men" (psychclassics) re-opened; all four quoted sentences (field map, Blodgett's latent
+learning coinage, non-rewarded-trials learning, tentative map) verified VERBATIM. Spot-check
+PASS. Running tally of read-only spot-checks on the released w1ab band this session: 7 pages,
+all PASS at the quote level (Ockham's razor, Obedience research, Neuroaesthetics, Neurobiology
+of addiction, Learned optimism, Micro-moments of connection, Latent learning theory).
