@@ -189,3 +189,6 @@ damage, w1ab left to its live holder.
 
 ## Verification pass addendum — OUP carrier reopened
 - The OUP chapter carrier (academic.oup.com/book/58181/chapter/480373130, Mantouvalou, "Structures of Injustice, the Law, and Exploitative Work") that previously returned 403 now fetches successfully. All four quotes on the Structural injustice page re-verified VERBATIM against the opened page (including the Young definition sentence and the three responsibility sentences). The earlier "no raw-substring verification possible (OUP 403)" limitation is CLOSED for this carrier; the OpenAIRE JS-rendered limitation for Strategic Contingencies remains open.
+
+## Verification pass addendum 2 — OpenAIRE carrier reopened
+- Re-fetch of the OpenAIRE page (oamonitor.ireland.openaire.eu, DOI 10.2307/2391831) with raw HTML this time rendered the Hickson et al. 1971 abstract in the page's meta description tags. Both blockquotes on the Strategic Contingencies Theory page re-verified VERBATIM by substring against the saved raw HTML (output_64e0792133c84ff4b0cdf184ffab39a3.txt). The OpenAIRE JS-rendering limitation is CLOSED. Both previously-recorded carrier-verification limitations for this band are now closed; all 10 pages' quotes are verified against opened carriers.
