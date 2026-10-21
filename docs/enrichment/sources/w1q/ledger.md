@@ -511,3 +511,16 @@ damage, w1ab left to its live holder.
 - AT002/A056/A059/SE003 clauses kept to what those pages carry. Many-selves Related
   link points to this session's enriched page. Validator ok against baseline 6fd6b2e6a
   (1 warn: 1 Related line, fast-track bar). QC-pending for the next milestone.
+
+## THE SUFFICIENT GOOD — 2026-10-21T16:07Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Carrier: Project Gutenberg #8438 (Aristotle,
+  Nicomachean Ethics, trans. D. P. Chase), raw text downloaded; three quotes
+  substring-verified: the self-sufficiency definition ("which taken alone makes
+  life choice-worthy, and to be in want of nothing"), "Happiness is manifestly
+  something final and self-sufficient", and "Happiness has no lack of anything
+  but is self-sufficient" (all book I). Translation disclosed as Chase.
+- S008 clause narrowed ("the Stoic form of the claim, made stricter than
+  Aristotle's") to the sense S008 actually carries; PP004 and CO043 clauses drawn
+  from their own text. Related: kin headings The common good / The interconnected
+  good, bare links. Validator ok against baseline f66b30cc1 (1 warn: 2 Related
+  lines, fast-track bar). QC-pending for the next milestone.
