@@ -34,10 +34,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "PP014": "Reopened for QC: QC round 2 repairs: definition quote moved to blockquote with locator, example clause removed, M012/M019/M052/PP042/PP035 unsourced fragments removed"
+  "PP014": "ALIAS DEFECT (supervisor disposition needed): body link '[[Awe|Awe and well-being: a meta-analysis]]' asserts a nonexistent meta-analysis; protected markup, do not edit as worker. Prior QC flag was overwritten by reopen cmd — re-set 2026-10-21"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:24:25+00:00",
+ "updated": "2026-10-21T06:27:54+00:00",
  "band_done": false
 }
