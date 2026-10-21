@@ -300,3 +300,6 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 - Supervisor status on routed findings: the Hermeneutic circle comma, the Grounding
   hedge and the Homo faber Sources cleanup remain unrepaired as of this check —
   all still recorded for supervisor disposition; no action taken (no baton).
+
+### w1i "Inquiry" — quote fidelity PASS (verification pass)
+- Peirce blockquote EXACT vs the opened Wikisource text of The Fixation of Belief.
