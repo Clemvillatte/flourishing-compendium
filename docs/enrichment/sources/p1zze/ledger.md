@@ -28,3 +28,8 @@
 ## M034 — Dignity in every station
 - Opened: Florentine Codex Book VI OCR (noble-youth exhortation; ruler's prayer "I am a commoner; I who am a laborer"); Smith & Kim 2007 abstract (PubMed 17201570). R. H. Smith 2000 unopened (bare).
 - Seed claim "do not envy the other stations" NOT found in the opened text (grep envy/covet: only 'much envied' of war dead, unrelated). Page discloses and treats it as interpretation.
+
+## M039 — Defy mortality with beauty and song
+- Opened: León-Portilla 1995 Voices of Mexico (search excerpt, UNAM PDF 3010); "Death in Mexico's Pre-Hispanic Poetry" Voices of Mexico (PDF 8019; Ayocuan, Garibay); León-Portilla 1999 Islands of History (Cuacuauhtzin fol. 26r); Hall et al. 2011 BMJ Support Palliat Care (PubMed 24653477, N=45; mixed: no distress difference, more hope).
+- SELF-CORRECTION: my first M012 draft quoted a translation of the "jade breaks" lines that did not match the fetched Islands of History text (it matched the Voices of Mexico translation). M012 now quotes the fetched Islands of History wording verbatim. M039 quotes the Voices of Mexico translation verbatim from its source excerpt.
+- Seed: "making is the only register death cannot reach" -> not claimed; sources show the poets doubting. Erikson unopened (bare ref).

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 12** — Give your finest materials to the finest truths
 
-Nahua poets set the most precious materials beside the most serious questions. In the Cantares Mexicanos a singer asks what lasts: "Not forever on earth, only a little while here. Though it be of jade it falls apart, though it be gold it wears away, though it be quetzal plumage it is torn asunder." (Cantares Mexicanos fol. 17r, in León-Portilla's translation, quoted in León-Portilla, "Flower and Song", Islands of History, 1999). León-Portilla reads these lines as the thinkers' conclusion that "the only truth on earth" was poetry, "song and flowers".
+Nahua poets set the most precious materials beside the most serious questions. In the Cantares Mexicanos a singer asks what lasts: "Is it true that one lives on earth? Not forever on earth, only a little while here. Though jade it may be, it breaks; though gold it may be, it is crushed; though it be quetzal plumes, it shall not last." (Cantares Mexicanos fol. 17r, in León-Portilla's translation, quoted in León-Portilla, "Flower and Song", Islands of History, 1999). León-Portilla reads these lines as the thinkers' conclusion that "the only truth on earth" was poetry, "song and flowers".
 
 Precious materials stood for something specific. Maffie's account in the Internet Encyclopedia of Philosophy says Nahua education aimed at "a wise face and a strong, humanized heart", and that people with such a heart were likened "to well-formed quetzal plumage, jade, and turquoise", because these objects "faithfully and authentically present teotl's balance-and-purity". On this account, beauty, goodness and truth are not separated: what is "aesthetically valuable (or beautiful)" is "also morally valuable and epistemologically valuable (and conversely)". (Maffie, [Aztec Philosophy](https://iep.utm.edu/aztec-philosophy/)).
 
@@ -25,7 +25,7 @@ Nahua poets used jade, gold and quetzal feathers as images of what is rare and r
 
 ## Sources
 
-- [León-Portilla, M. (1999), "Flower and Song": Pre-Columbian literatures of Mesoamerica, Islands of History (translations from the Cantares Mexicanos, fols. 17r and 26r, as given in León-Portilla 1963)](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/)
+- [León-Portilla, M. (1999), "Flower and Song": Pre-Columbian literatures of Mesoamerica, Islands of History (translations from the Cantares Mexicanos, fol. 17r, as given in León-Portilla 1963)](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/)
 - [Maffie, J., Aztec Philosophy, Internet Encyclopedia of Philosophy (sections 4, 6 and 7; quotes Sahagún, Florentine Codex VI, p. 113)](https://iep.utm.edu/aztec-philosophy/)
 
 ## Psychology parallels
