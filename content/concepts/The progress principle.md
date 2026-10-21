@@ -7,9 +7,9 @@ file: "The progress principle"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-In an analysis of knowledge workers' diaries, Amabile and Kramer found that "nothing contributed more to a positive inner work life (the mix of emotions, motivations, and perceptions that is critical to performance) than making progress in meaningful work" ([The Power of Small Wins, Harvard Business Review, May 2011](https://hbr.org/2011/05/the-power-of-small-wins)). Even small wins boost it; small setbacks depress it. The finding concerns perceived progress in work that matters to the person doing it, not the size of the final goal.
+In an analysis of knowledge workers' diaries, Amabile and Kramer found that "nothing contributed more to a positive inner work life (the mix of emotions, motivations, and perceptions that is critical to performance) than making progress in meaningful work" ([The Power of Small Wins, Harvard Business Review, May 2011](https://hbr.org/2011/05/the-power-of-small-wins)).
 
-The article's own summary puts the asymmetry plainly: "Even small wins can boost inner work life tremendously. On the flip side, small losses or setbacks can have an extremely negative effect. And the work doesn't need to involve curing cancer in order to be meaningful. It simply must matter to the person doing it." ([same source](https://hbr.org/2011/05/the-power-of-small-wins))
+The publisher's summary adds: "Even small wins can boost inner work life tremendously. On the flip side, small losses or setbacks can have an extremely negative effect. And the work doesn't need to involve curing cancer in order to be meaningful. It simply must matter to the person doing it." ([same source](https://hbr.org/2011/05/the-power-of-small-wins))
 
 ### In the compendium
 
@@ -24,7 +24,7 @@ The article's own summary puts the asymmetry plainly: "Even small wins can boost
 
 ## Sources
 
-- [Amabile, T., & Kramer, S. (2011). The Power of Small Wins. Harvard Business Review, May 2011](https://hbr.org/2011/05/the-power-of-small-wins) — the diary-analysis finding and the inner-work-life definition
+- [Amabile, T., & Kramer, S. (2011). The Power of Small Wins. Harvard Business Review, May 2011](https://hbr.org/2011/05/the-power-of-small-wins) — accessed via the publisher's summary, which covers both quoted passages
 
 ## Cited in psychology parallels
 

@@ -232,3 +232,13 @@
   glosses reduced to bare per the standing QC practice).
 - QC-PENDING flag set (10th fresh item; the item-10 milestone QC is due
   next — supervisor or next worker to run it).
+
+## QC — item-10 milestone CLOSED (advisor, 2026-10-21)
+
+- The progress principle: scoped PASS after two prose repairs (the
+  seed's unconditional small-wins sentence and the 'perceived progress'
+  sentence deleted — not established by the returned summary; the
+  carrier disclosed as the PUBLISHER'S SUMMARY, which covers both
+  quoted passages; no assertion about the article body being paywalled).
+  Validated vs pre-enrichment baseline (3a453ec^). The item-10 milestone
+  closes as scoped PASS; NOT whole-band certification.
