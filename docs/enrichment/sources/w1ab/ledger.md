@@ -902,3 +902,11 @@
   Related: The will to meaning, Meaning-centred therapy, Existential meaning (navigational
   captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC
   not due (cadence).
+
+## ITEM: Not-one-not-two (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: MMK chapter 10 via the Wisdom Library translation (Tibetan-Sanskrit-English),
+  opened fresh — verses 10.1, 10.14 and 10.15 verified verbatim (the actor-and-act /
+  without-wood dilemma; the wood-is-not-fire verse; the self-and-grasped application verse).
+  Related: Buddhist emptiness of inherent nature, Dependent origination, Two truths
+  (navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
+  Advisor QC not due (cadence).
