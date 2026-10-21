@@ -75,3 +75,7 @@
 
 ## MO031 — Increase friction
 - Opened: Hollands et al. 2019 Cochrane abstract (PubMed) + discussion excerpt (Cochrane Library); Wood & Neal 2007 abstract (PubMed); FLoRA atlas entry on Ward et al. 2017 (2 failed replications recorded; Ruiz Pardo & Minda cited via search excerpt). Thaler & Sunstein 2008 and Gardner 2015 unopened. Seed "ten seconds of annoyance is often all the defence you need" unsupported -> dropped.
+
+## MO040 — Habit environment
+- Opened: Wood, Tam & Witt 2005 abstract (PubMed); Verplanken & Roy 2016 abstract (Bath portal; outcomes self-reported, noted); Lally et al. 2010 abstract (Wiley/APA). Wood & Neal 2007 abstract opened under MO031. Gardner 2015 unopened.
+- Seed claim "context design is more effective than willpower" not tested head-to-head in opened sources -> dropped; page claims only cue-dependence and slow formation.
