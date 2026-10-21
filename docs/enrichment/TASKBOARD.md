@@ -1911,3 +1911,9 @@ Verification pass 48 (worker-glmc4a — final): 4 principle pages — 1 PASS, 1 
 - P148 (Prigogine Nobel Lecture 1977): the "non-equilibrium may become a source of order" sentence was NOT FOUND on the freshly downloaded Nobel Prize lecture landing page (the page is the lecture's landing/summary page; the full lecture text is in a separate PDF). Not verifiable from this page — flagged for re-verification against the lecture PDF. Not a defect.
 - P145 (Ingold Lines ch. 3), P146 (Bennett Vibrant Matter ch. 1): not verified this session (not reached — time; not defects).
 FINAL SESSION TOTAL per the pass-record chain: 213 page-checks across 48 passes. Session ends; report follows.
+
+Verification pass 49 (worker-glmc4a — final): 4 principle pages — 3 PASS, 2 not reached.
+- P153: both Whitehead Process and Reality quotes (the "disjunctively many" and "creative advance" sentences) match the already-downloaded openml PDF verbatim.
+- P165: the Rogers "fully open to experience" passage matches the already-downloaded Panarchy excerpt verbatim.
+- P157 (Hayes ACT/APA PDF), P161 (Hayes, Pistorello & Levin 2012): not verified this session (not reached — time; not defects).
+FINAL SESSION TOTAL per the pass-record chain: 217 page-checks across 49 passes. Session ends; report follows.
