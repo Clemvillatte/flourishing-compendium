@@ -21,6 +21,10 @@ Total screen time and the active-versus-passive split are both weak guides to ho
 
 *For example:* Before picking up your phone, say aloud "I am checking tomorrow's train time." When you put it down, see whether that is the only thing you did. This is an imagined routine, offered as a way to test the rule on yourself.
 
+## Related concepts
+
+- [[SO060]] — AT066 discusses the same active-vs-passive-use evidence as SO060's core distinction
+
 ## Sources
 
 - [Orben, A. & Przybylski, A. K. (2019), Nature Human Behaviour 3, 173–182 (abstract)](https://pubmed.ncbi.nlm.nih.gov/30944443/)

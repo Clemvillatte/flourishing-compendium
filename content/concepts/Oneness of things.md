@@ -20,6 +20,10 @@ The Zhuangzi's second chapter contains the claim in this passage ([Zhuangzi 2, t
 - [[ST002 — The Butterfly Dream]]
 - [[K146 — Ego dissolution practice]]
 
+## Related concepts
+
+- [[SP005]] — SP005 (Spinoza: treat yourself as part of nature) makes a related claim in the Spinozist register; a comparative cross-link, not an identical statement
+
 ## Sources
 
 - Zhuangzi 2

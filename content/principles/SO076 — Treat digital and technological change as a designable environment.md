@@ -26,6 +26,10 @@ So "passive use harms, active use helps" is better stated as a tendency with exc
 
 *For example:* A household moves chargers out of the bedrooms and agrees on one screen-free day a week. The device is still there, but it no longer sits within reach at night.
 
+## Related concepts
+
+- [[SO060]] — SO076 quotes review-of-reviews evidence on social media and mental health, the same genre as SO060's Valkenburg umbrella-review point
+
 ## Sources
 
 - [Verduyn et al. (2017), Social Issues and Policy Review 11(1), 274-302](https://experts.illinois.edu/en/publications/do-social-network-sites-enhance-or-undermine-subjective-well-bein/) — abstract opened

@@ -31,10 +31,11 @@ The page lists two facets, "health function" and "and prosocial behaviour," the 
 
 ## Related concepts
 
+
 - [[Embodied social identity]] — listed for comparison
 - [[Intergroup contact]] — listed for comparison
 - [[Superordinate goals]] — listed for comparison
-
+- [[SO045]] — A compendium principle on group support and in-group preference
 ## Sources
 
 - [Tajfel & Turner, "The Social Identity Theory of Intergroup Behavior" (third-party hosted copy; pages 276-293 in that copy)](https://christosaioannou.com/Tajfel%20and%20Turner%201986.pdf) — definition, principles, interpersonal-intergroup continuum

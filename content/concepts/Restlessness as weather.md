@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Restlessness as weather” — BG 6.34-6.35.
 
+## Related concepts
+
+- [[SP005]] — SP005 (Spinoza: treat yourself as part of nature) makes a related claim in the Spinozist register; a comparative cross-link, not an identical statement
+
 ## Sources
 
 - BG 6.34-6.35

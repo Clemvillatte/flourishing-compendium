@@ -37,5 +37,7 @@ The scale paper's five studies, run in two community and three college samples, 
 
 ## Related concepts
 
+
 - [[Nature exposure]] — the contact side of the relationship; connectedness is the individual-difference side
 - [[Biophilia]]
+- [[SP005]] — SP005 (Spinoza: treat yourself as part of nature) makes a related claim in the Spinozist register; a comparative cross-link, not an identical statement

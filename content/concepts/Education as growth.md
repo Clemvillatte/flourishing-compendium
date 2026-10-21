@@ -28,12 +28,14 @@ Dewey's argument begins with the child's apparent lack. Immaturity, read compara
 ## Related concepts
 
 
+
 - [[Growth mindset]] — the belief side of the same growth reading
 - [[Habit formation]] — the mechanism by which capacities are built
 - [[Mastery orientation]] — the goal structure that keeps growth intrinsic
 - [[Learning by doing]] — Dewey's pedagogical method
 - [[Anti-authoritarian inquiry]] — the inquiry side of the same tradition
 - [[Instruments for human growth]] — Dewey's chapter 3 instrumentalities and the means of directing growth
+- [[SO058]] — SO058's philosophy parallel is the education-as-growth idea itself (Dewey)
 ## Sources
 
 - [Dewey, Democracy and Education (Project Gutenberg)](https://www.gutenberg.org/files/852/852-0.txt) — chapter 4, the three passages, verbatim.
