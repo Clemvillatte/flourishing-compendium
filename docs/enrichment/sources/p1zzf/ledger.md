@@ -10,3 +10,7 @@
 ## R030 — Practise kotahitanga
 - Opened: Te Aka Māori Dictionary entry (search excerpt), Ako Aotearoa 2025 resource (fetched, quotes verbatim), Te Ara Kotahitanga movements (search excerpt), Bandura 2001 (search excerpt of PDF). Mead 2003 not read (catalogue record only). Aristotle/Hegel parallels untouched, unopened.
 - Seed "unity without uniformity" is not a quotation from any opened source; page says so. Ako text also says "one mind and in unison"/"consensus" — tension disclosed. Added the 1892-1902 Kotahitanga Parliament history.
+
+## R033 — Practise utu
+- Opened (search excerpts, long): Te Ara Riri (utu = returning balance), Ahu & Hoare 2010 NZACL Yearbook 16 (quotes Firth 1929, Patterson), Global Policy utu paper (abstract/excerpt), Gouldner 1960 abstract. Mead 2003 and Durie 1994 not read.
+- Seed "proportional response" is a simplification: Patterson/Ahu & Hoare say utu often exceeds the original (dynamic balance) and may include vengeance/punishment. Gouldner's universality is a hypothesis in the abstract. Philosophy parallels (Aristotle NE V) untouched, unopened.
