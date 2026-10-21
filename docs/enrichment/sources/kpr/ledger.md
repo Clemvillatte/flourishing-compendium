@@ -6,3 +6,10 @@
 - Video verified via YouTube oembed: KHIbgSN2qAU "10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman", Huberman Lab Clips.
 - Advisor QC round 1 applied: effect sizes added, causal cortisol claim softened to "associated with", 65% labelled as authors' estimate, "best-studied" removed, Huberman framing attributed.
 - Validation: ok (prose 269 words, dash budget ok, sources ok); build ok.
+
+## K101 — Open monitoring (2026-10-21)
+- Enriched existing kernel with Protocol (4 steps), Evidence, guided video, Sources.
+- Sources opened: PubMed 18329323 Lutz et al. 2008 (abstract via search: OMM = nonreactive monitoring of content of experience moment to moment); PMC4627495 (open monitoring typically practiced after FA stability); PubMed 24135553 Ainsworth et al. 2013 (fetched: authors Ben Ainsworth et al.; OM and FA improved executive attention, relaxation control unchanged); PMC4171985 Lippelt et al. 2014 review (OMM broader attentional focus; divergent thinking significantly enhanced after OMM).
+- Video verified via YouTube oembed: u4dvONT-DNw 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath channel.
+- Operationalises converted from comma line to bullet list to clear the em-dash budget; all 7 original links preserved.
+- Validation: ok; build ok; push required rebase over w1n commit (race, resolved).

@@ -1,1 +1,39 @@
-{"band": "kpr", "worker": "worker-kpr-special-contemplative", "type": "kernel-special (owner assignment 2026-10-21)", "items": [{"id": "K409", "title": "Non-sleep deep rest (NSDR)", "status": "done", "sources": ["https://www.hubermanlab.com/nsdr", "https://pubmed.ncbi.nlm.nih.gov/11958969/", "https://pubmed.ncbi.nlm.nih.gov/40373021/", "https://www.youtube.com/watch?v=KHIbgSN2qAU"], "video_verified": "oembed: '10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman', Huberman Lab Clips"}, {"id": "K101", "title": "Open monitoring", "status": "todo", "note": "enrich with protocol + evidence + video"}, {"id": "K161", "title": "Loving-kindness meditation", "status": "todo", "note": "enrich with protocol + evidence + video"}], "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger."}
+{
+  "band": "kpr",
+  "worker": "worker-kpr-special-contemplative",
+  "type": "kernel-special (owner assignment 2026-10-21)",
+  "items": [
+    {
+      "id": "K409",
+      "title": "Non-sleep deep rest (NSDR)",
+      "status": "done",
+      "sources": [
+        "https://www.hubermanlab.com/nsdr",
+        "https://pubmed.ncbi.nlm.nih.gov/11958969/",
+        "https://pubmed.ncbi.nlm.nih.gov/40373021/",
+        "https://www.youtube.com/watch?v=KHIbgSN2qAU"
+      ],
+      "video_verified": "oembed: '10 Minute Non-Sleep Deep Rest (NSDR) to Restore Mental & Physical Energy | Dr. Andrew Huberman', Huberman Lab Clips"
+    },
+    {
+      "id": "K101",
+      "title": "Open monitoring",
+      "status": "done",
+      "note": "enrich with protocol + evidence + video",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/18329323/",
+        "https://pubmed.ncbi.nlm.nih.gov/24135553/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4171985/",
+        "https://www.youtube.com/watch?v=u4dvONT-DNw"
+      ],
+      "video_verified": "oembed: 'Open Monitoring Meditation – 20 Minutes – Draw Breath', Draw Breath"
+    },
+    {
+      "id": "K161",
+      "title": "Loving-kindness meditation",
+      "status": "todo",
+      "note": "enrich with protocol + evidence + video"
+    }
+  ],
+  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger."
+}
