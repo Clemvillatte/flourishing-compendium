@@ -49,3 +49,7 @@
 ## M051 — Rhythm larger than your moods
 - Opened: University Press of Colorado "Maya Daykeeping" excerpt (search excerpt; mentions Tedlock 1982/1992 as training account); Dai et al. 2014 abstract (INFORMS); Dai et al. 2015 abstract (PDF text); 2020 OBHDP abstract (ideas.repec; authors not confirmed from the snippet — cited by title). Tedlock's book NOT opened (secondary relay only).
 - Seed claims "calendar protects from mood-driven drift and burnout" unsupported -> dropped; the daykeeping system is divinatory, not just a schedule (disclosed on page).
+
+## M052 — Serve as a daykeeper serves
+- Opened: University Press of Colorado "Maya Daykeeping" excerpt (fetched; quotes pp. 9-12; author not stated in excerpt); Curry et al. 2018 (Tilburg research portal abstract; also on ScienceDirect).
+- Seed "daily service for decades; praying for the community; tending the fire" NOT stated in the excerpt (fetch explicitly: no lifelong-service statement). Tedlock book unopened. Lyubomirsky unopened (bare).
