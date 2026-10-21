@@ -95,3 +95,12 @@
 - Opened: Meeusen et al. 2013 (PubMed abstract; ECSS/ACSM joint consensus); Chekroud et al. 2018 Lancet Psychiatry (PubMed abstract; 1,237,194 adults, 1.49 fewer days, 45 min, 3-5x/wk, "More exercise was not always better").
 - Quote trimmed with ellipsis-free fragment to satisfy the validator's staging-pattern check ("not only ... but") while keeping the fragment verbatim.
 - Dropped unopened: Morgan et al. 1987, Kim et al. 2019, Kreher & Schwartz 2012; "immune suppression" and "injury" claims not in the abstracts -> not asserted; U-shape flagged as summary, not measured law. Marathon-flu anecdote replaced by imagined adjustment.
+
+## BI040 — Caffeine, anxiety and sleep
+- Opened (PubMed abstracts): Klevebrant & Frick 2022 Gen Hosp Psychiatry 74:22-31 (51.1% of 237 patients; 53.9% vs 1.7%; 400-750 mg ~5 cups; "little is known regarding smaller doses than 480 mg"); Hoppe et al. 2025 J Psychopharmacol 39(8):836-846 (150 mg, no differential anxiogenic effect; arousal and avoidance up); Drake 2013; Gardiner 2023 (opened for BI019).
+- Dropped unopened: Lara 2010, Broderick & Benjamin 2004, Clark & Landolt 2017. Added the 150 mg null as a limit.
+
+## M009 — Build bridges (philosophy principle, Mesoamerican / nepantla)
+- First attempt wrongly treated it as psychology; reverted (git checkout) before commit, then rewritten from the primary text.
+- Opened and verified raw: Anzaldúa, "(Un)natural bridges, (Un)safe spaces", preface to This Bridge We Call Home (2002), PDF (ailleurs.hypotheses.org) downloaded and text-matched: nepantleras definition (p. 1 per secondary citation), "Staying home ... comes from woundedness, and stagnates our growth", "To bridge means loosening our borders, not closing off to others", "to risk being wounded", "For nepantleras, to bridge is an act of will, an act of love..." Page locators: p. 1 and p. 3 attested by secondary sources; other quotes locator "Preface" only (page not confirmed).
+- Seed "third-culture and mediation functions" bullet replaced by Pettigrew & Tropp 2006 (opened), flagged as analogue. Engineer example kept in imagined form (seed example was unsourced). "labeled modern" line retained.
