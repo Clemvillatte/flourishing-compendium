@@ -40,7 +40,8 @@
   "Base rate neglect / representativeness heuristic",
   "Behavioral economics theory",
   "Behavioral genetics models",
-  "Big Two model of agency and communion"
+  "Big Two model of agency and communion",
+  "Burnout"
  ],
  "in_progress": null,
  "flagged": {
@@ -87,6 +88,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:57:22+00:00",
+ "updated": "2026-10-21T13:57:52+00:00",
  "band_done": false
 }
