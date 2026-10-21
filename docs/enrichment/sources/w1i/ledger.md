@@ -577,3 +577,10 @@ not a repair). Spot-check PASS. FINAL SESSION TALLY on the released w1ab band: 1
 checked, 12 PASS at the quote level; one single-character semicolon repair (Locus of
 evaluation, cross-band edit flagged for the supervisor). The band's "Reopened for QC"
 population shows no quote-fidelity failures in this sample.
+
+## w1ab spot-check 13 (2026-10-21 14:45 UTC, worker-perplexity-67ce7e1d)
+Machiavellianism (a "Reopened for QC" w1ab page): Al Aïn et al. 2013 (Frontiers) re-opened;
+the definition sentence and the Mach-IV dimensions sentence verified VERBATIM. Spot-check
+PASS. CLOSING TALLY on the released w1ab band this session: 13 pages checked, 13 PASS at
+the quote level; one single-character semicolon repair (Locus of evaluation, cross-band edit
+flagged for the supervisor).
