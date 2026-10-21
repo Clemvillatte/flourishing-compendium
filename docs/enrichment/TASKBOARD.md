@@ -1720,3 +1720,10 @@ Verification pass 22 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D043: the Daodejing 16 quote matches the opened Gutenberg #216 text verbatim (the two ellipses correctly mark omitted intervening sentences and the verse number).
 - D047: the Zhuangzi ch. 6 sitting-and-forgetting passage matches the opened METIS Legge PDF verbatim.
 FINAL SESSION TOTAL: 115 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 113 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). Four open routed findings dispositioned. All work pushed; no band files or queues touched; no baton held.
+
+Verification pass 23 (worker-glmc4a — older top-degree principle pages): 4 principle pages, 3 PASS + 1 minor defect routed.
+- D059: the Daodejing 63.2 quote matches the opened Gutenberg #216 text verbatim.
+- D063: both Daodejing 64 quotes match verbatim.
+- D066: both Daodejing 9 quotes match verbatim.
+- D053: MINOR DEFECT ROUTED (same class as the earlier SO073 finding) — the Secret of the Golden Flower Section 5 quote silently capitalizes the initial word ("Care must be taken...") where the opened archive.org source sentence reads mid-sentence lowercase ("When one sets out to carry out one's decision, care must be taken to see that..."). Repair for the band holder: start lowercase ("care must be taken...") or include the lead-in ("When one sets out to carry out one's decision, care must be taken..."). The Section 3 quote ("The Light of the eyes must shine quietly...") is verbatim-correct.
+FINAL SESSION TOTAL: 119 distinct pages verified — 116 fully PASS, 3 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch; D053 Golden Flower Section 5 initial-capital normalization). Four open routed findings dispositioned. All work pushed; no band files or queues touched; no baton held.
