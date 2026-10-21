@@ -12,18 +12,29 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 14** — Seek awe
 
-Awe is the experience of vastness that exceeds one's current understanding: the night sky, great music, vast landscapes, powerful crowds. Awe reliably produces the small-self effect, shifting attention from personal concerns to the larger whole. Research on awe shows associations with well-being, prosocial behaviour, and reduced inflammation markers, though the causal mechanisms are still under investigation.
+Awe is, in Piff and colleagues' words, "an emotional response to perceptually vast stimuli that transcend current frames of reference". Across five studies (N = 2,078), awe inductions "increased ethical decision-making (Study 2), generosity (Study 3), and prosocial values (Study 4)". In a naturalistic induction, standing in a grove of towering trees "enhanced prosocial helping behavior and decreased entitlement". The authors report that "the effects of awe on prosociality are explained, in part, by feelings of a small self" (Piff et al. 2015, J Pers Soc Psychol 108(6):883-899, [abstract](https://pubmed.ncbi.nlm.nih.gov/25984788/)).
 
-(Piff et al., 2015; Stellar et al., 2018; Bai et al., 2021.)
+On wellbeing, a six-study paper found that people who tend to feel more awe daily report lower daily stress. After awe was primed, compared with amusement, joy and pride, "individuals reported lower levels of daily stress". The authors conclude that awe "can put daily stressors into perspective in the moment" (Bai et al. 2021, J Pers Soc Psychol 120(4):837-860, [abstract](https://colab.ws/articles/10.1037%2Fpspa0000267)). This is not a meta-analysis, which the earlier version of this page implied.
 
-**Plain words** Awe is the feeling of vastness beyond your understanding: the night sky, great music, enormous landscapes. It reliably makes the self feel smaller and shifts attention to the bigger picture. It's linked with well-being, generosity and less inflammation.
+On inflammation, Stellar and colleagues found, across two studies, that "awe, measured in two different ways, was the strongest predictor of lower levels of proinflammatory cytokines" (interleukin-6; Emotion 15(2):129-133, 2015, [abstract](https://pubmed.ncbi.nlm.nih.gov/25603133/)). The study measured associations in healthy students, so it does not show that awe reduces inflammation.
 
-*For example:* Standing under a clear sky far from the city and finding your worries have shrunk.
+The word "reliably" in earlier text goes beyond what I opened: these are individual studies, and the causal chain from awe to health is untested here.
+
+**Plain words** Awe is the feeling of meeting something vast that you cannot fully take in. In studies it makes people feel smaller and act more generously, and it is linked with less daily stress. Whether it improves health is not established.
+
+*For example:* This is an imagined case. Under a clear sky far from the city, your worries feel smaller, and you offer to give someone a lift the next day.
+
+## Sources
+
+- [Piff et al. (2015), Awe, the small self, and prosocial behavior, J Pers Soc Psychol 108(6), 883-899](https://pubmed.ncbi.nlm.nih.gov/25984788/)
+- [Bai et al. (2021), Awe, daily stress, and elevated life satisfaction, J Pers Soc Psychol 120(4), 837-860](https://colab.ws/articles/10.1037%2Fpspa0000267)
+- [Stellar et al. (2015), Positive affect and markers of inflammation, Emotion 15(2), 129-133](https://pubmed.ncbi.nlm.nih.gov/25603133/)
 
 ## Psychology parallels
 
 - [[Awe|Awe and the small self]] (Piff et al., 2015)
-- [[Awe|Awe and well-being: a meta-analysis]] (Bai et al., 2021)
+- [[Awe|Awe and well-being: a meta-analysis]] (the linked label is inaccurate: Bai et al., 2021 reports six studies on daily stress and life satisfaction, not a meta-analysis)
+- Awe as the strongest predictor of lower IL-6 in two samples (Stellar et al., 2015; correlational)
 
 ## Philosophy parallels
 

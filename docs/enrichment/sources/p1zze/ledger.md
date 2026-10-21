@@ -99,3 +99,7 @@
 ## PP003 — Measurement humility
 - Opened: Lucas 2018 chapter in Handbook of Well-Being (fetched; quotes verbatim); Lucas & Lawless 2013 abstract (PubMed); Diener/Oishi/Tay 2018 abstract (Nature Hum Behav).
 - Seed example "sunny Friday vs rainy Monday" is NOT safe: Lucas & Lawless 2013 (~1M Americans) found no reliable weather effect; Yap et al. replications (via Lucas) found mood effects <1/10 of originals. Seed claims on cultural response biases, physiological measures (HRV, cortisol, inflammation) and "MULTIS method (Luhmann 2017)" not found in opened sources -> dropped; Luhmann/MULTIS flagged unopened. Reflections comment and Stories section preserved.
+
+## PP014 — Seek awe
+- Opened: Piff 2015 abstract (PubMed), Bai 2021 abstract (colab.ws mirror), Stellar 2015 abstract (PubMed).
+- Seed "Bai et al. 2021 meta-analysis" is WRONG: it is a six-study paper on awe, daily stress and life satisfaction. Wikilink label kept (validator requires) and flagged on the page. "Reliably" and "reduced inflammation" softened: Stellar 2015 is correlational. "Stellar et al., 2018" in the seed was not found/opened and was dropped.
