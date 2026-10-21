@@ -14,7 +14,7 @@ Miyamoto, Uchida and Ellsworth compared reports of mixed emotions in Japan and t
 
 ### The specific pattern
 
-The cultural difference is situational, not general. When respondents described situations where they felt mixed emotions, Japanese and Americans listed mostly similar situations. But when those situations were presented to another group, "Japanese reported more mixed emotions than Americans in the predominantly pleasant situations, whereas there were no cultural differences in mixed emotions in the predominantly unpleasant situations or the mixed situations" ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)). The appraisal of self-agency mediated that cultural difference in the pleasant situations, and a second study replicated the pattern by asking participants to recall past pleasant, unpleasant and mixed situations ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)).
+In these studies, the cultural difference depended on the situation ([Miyamoto, Uchida & Ellsworth, 2010](https://pubmed.ncbi.nlm.nih.gov/20515228/)). When respondents described situations where they felt mixed emotions, Japanese and Americans listed mostly similar situations ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)). But when those situations were presented to another group, "Japanese reported more mixed emotions than Americans in the predominantly pleasant situations, whereas there were no cultural differences in mixed emotions in the predominantly unpleasant situations or the mixed situations" ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)). The appraisal of self-agency mediated that cultural difference in the pleasant situations, and a second study replicated the pattern by asking participants to recall past pleasant, unpleasant and mixed situations ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)).
 
 The abstract situates the work against earlier correlation studies: previous cross-cultural comparisons had found East Asians more likely than Americans to feel dialectical emotions, while this study examined co-occurrence in a given situation ([same record](https://pubmed.ncbi.nlm.nih.gov/20515228/)).
 
@@ -34,6 +34,6 @@ Affect · Psychological science
 
 ## Sources
 
-- [Miyamoto, Uchida & Ellsworth, "Culture and mixed emotions: co-occurrence of positive and negative emotions in Japan and the United States", Emotion 10(3), 2010, PubMed record](https://pubmed.ncbi.nlm.nih.gov/20515228/) — the situational pattern, mediation and replication findings quoted verbatim from the abstract
+- [Miyamoto, Uchida & Ellsworth, "Culture and mixed emotions: co-occurrence of positive and negative emotions in Japan and the United States", Emotion 10(3), 2010, PubMed record](https://pubmed.ncbi.nlm.nih.gov/20515228/) — the summary and situational-pattern sentences quoted verbatim; the mediation, replication and earlier-research items paraphrased
 
 ## Cited in philosophy parallels

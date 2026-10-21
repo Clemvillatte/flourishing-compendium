@@ -7,7 +7,7 @@ file: "Misinformation effect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-The misinformation effect is the finding that exposure to misleading information after an event impairs memory for the event itself. Elizabeth Loftus, who reviewed roughly 30 years of the research programme in Learning & Memory, defines it this way ([Loftus, Learning & Memory 12(4), 2005](https://pubmed.ncbi.nlm.nih.gov/16027179/)):
+The misinformation effect is the impairment in memory for the past that arises after exposure to misleading information ([Loftus, 2005](https://pubmed.ncbi.nlm.nih.gov/16027179/)). Elizabeth Loftus, who reviewed roughly 30 years of the research programme in Learning & Memory, defines it this way ([same record](https://pubmed.ncbi.nlm.nih.gov/16027179/)):
 
 > "The misinformation effect refers to the impairment in memory for the past that arises after exposure to misleading information." ([Loftus, "Planting misinformation in the human mind", Learning & Memory 12(4), 2005, abstract](https://pubmed.ncbi.nlm.nih.gov/16027179/))
 
@@ -27,7 +27,7 @@ Loftus's abstract lists the questions the field has worked through: the conditio
 
 ## Sources
 
-- [Loftus, "Planting misinformation in the human mind: a 30-year investigation of the malleability of memory", Learning & Memory 12(4), 2005, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16027179/) — the definition quoted verbatim; the research-programme overview paraphrased
+- [Loftus, "Planting misinformation in the human mind: a 30-year investigation of the malleability of memory", Learning & Memory 12(4), 2005, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16027179/) — the definition and summary sentence quoted verbatim; the research-programme overview paraphrased
 
 ## Cited in psychology parallels
 

@@ -7,7 +7,7 @@ file: "Modesty norms research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Modesty norms research studies the cultural expectation to downplay one's achievements and what following that norm does to the person. Du and Jonas located the norm in a study published in the Scandinavian Journal of Psychology:
+Du and Jonas examined whether Chinese participants' compliance with the modesty norm affects self-esteem when mortality is salient ([Du & Jonas, 2015](https://pubmed.ncbi.nlm.nih.gov/25346396/)):
 
 > "Modesty has long been known as an important social norm in Eastern cultures, such as China, Japan, and Korea." ([Du & Jonas, Scand J Psychol 56(1), 2015, abstract](https://pubmed.ncbi.nlm.nih.gov/25346396/))
 
@@ -17,7 +17,7 @@ The study tested whether compliance with the modesty norm can maintain self-este
 
 > "In Study 1, following the modesty norm (i.e., explicit self-effacement) led to decreased implicit self-esteem, however, this was only the case if mortality was salient. In Study 2, violating the modesty norm (i.e., explicit self-enhancement) increased implicit self-esteem - however - again, this was only the case when mortality was salient." ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/))
 
-The abstract's conclusion is direct: "These findings indicate that self-esteem cannot be maintained through compliance with the modesty norm." The two studies were conducted with Chinese participants, and the effect appeared only when mortality was made salient, so the result is scoped to that collectivistic setting and that existential condition ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)).
+The abstract's conclusion is direct: "These findings indicate that self-esteem cannot be maintained through compliance with the modesty norm." ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)) The two studies were conducted with Chinese participants, and the effect appeared only when mortality was made salient, so the result is scoped to that collectivistic setting and that existential condition ([same record](https://pubmed.ncbi.nlm.nih.gov/25346396/)).
 
 ### In the compendium
 
@@ -26,7 +26,7 @@ The abstract's conclusion is direct: "These findings indicate that self-esteem c
 ## Related concepts
 
 - [[Humility]]
-- [[Terror management]] — the theory the study tested the modesty norm against
+- [[Terror management]] — the theory the study tested the modesty norm against ([Du & Jonas, 2015](https://pubmed.ncbi.nlm.nih.gov/25346396/))
 
 ## Sources
 

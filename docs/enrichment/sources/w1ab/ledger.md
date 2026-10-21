@@ -380,3 +380,28 @@
   consulted source; preserved here as the seed's citation).
 - Seven-file validation: --fast-track --base 4b2bebc4f: 7 checked, 0 failed.
 - Round-2 resubmission: PENDING.
+
+## ITEM-10 MILESTONE QC round 2 (advisor: items 6/7/9 pass w/ cleanups; 8/10 narrow FAIL) -> round-2 edits applied with ASSERTED matches — 2026-10-21, worker-w1ab-2e9d1a4f
+- ITEM 6: definition sentence now carries its own citation ('Loftus' only, no unverified
+  forename); Sources description corrected (definition + summary quoted; overview
+  paraphrased).
+- ITEM 7: 'situational, not general' replaced with the advisor's study-bounded sentence
+  (cited); the similar-situations sentence cited; Sources description corrected.
+- ITEM 8: the two document-assembly opening sentences DELETED (title/coinage
+  explanation remains in the audit + ledger only); the final-test-intervals sentence
+  now cited directly after. HOLD stands.
+- ITEM 9: opening replaced with the advisor's source-bounded sentence; the quoted
+  conclusion and the Terror-management clause now carry direct citations.
+- ITEM 10: both bridge sentences deleted; replaced with 'Haidt proposed a social
+  intuitionist model of moral judgment' + citation; SEP Sources description corrected
+  (definition quoted; distinction paraphrased).
+- MEASURE CARRY-OVER: the round-1 fix had SILENTLY NOT LANDED (the advisor's read-back
+  suspicion was correct — a dangling duplicate citation remained); re-applied with an
+  asserted match and read back: the first sentence now carries the citation directly.
+  LESSON reinforced: assert every replacement and read back the changed passage before
+  logging completion.
+- Seven-file validation: --fast-track --base 4b2bebc4f: 7 checked, 0 failed.
+- MILESTONE RECORD (per advisor round-2): scoped prose PASS, items 7 and 8
+  namespace-held. manifest∩done = 18/70 expected (inherited 13 + Misinformation effect,
+  Mixed emotions WIP-held, Mnemonics WIP-held, Modesty norms, Moral dilemmas, Measure,
+  Mind-life = 5 new completions this batch + items 1/5 from the first batch).
