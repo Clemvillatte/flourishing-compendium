@@ -7,7 +7,7 @@ file: "Intuitive expertise"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-Kahneman and Klein's 2009 paper examined the conditions separating skilled intuition from overconfident or biased impressions, comparing the heuristics-and-biases and naturalistic decision-making approaches ([Kahneman & Klein, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/)). The concept names the paper's subject: expertise whose rapid judgments are genuine skill.
+Kahneman and Klein's 2009 paper examined the conditions separating skilled intuition from overconfident or biased impressions, comparing the heuristics-and-biases and naturalistic decision-making approaches ([Kahneman & Klein, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19739881/)).
 
 > "Two conditions must be satisfied for skilled intuition to develop: an environment of sufficiently high validity and adequate opportunity to practice the skill." (Kahneman & Klein, [Conditions for intuitive expertise: a failure to disagree](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf), American Psychologist 64(6), 2009, p. 520)
 

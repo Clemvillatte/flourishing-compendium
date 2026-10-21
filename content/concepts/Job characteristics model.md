@@ -15,7 +15,7 @@ The job characteristics model is a theory of work design ([Wikipedia, Job charac
 
 The theory grew out of 1960s work redesign, which reacted against the simplification of jobs into repetitive tasks after routinized work was found to breed dissatisfaction ([Wikipedia, Job characteristics model](https://en.wikipedia.org/wiki/Job_characteristics_model)). In the 1980 revision, Hackman and Oldham added two moderators (knowledge and skill, and context satisfaction), removed absenteeism and turnover as outcomes, and concentrated attention on internal work motivation and other affective outcomes, following weak empirical support for some of the original outcome variables ([Wikipedia, Job characteristics model](https://en.wikipedia.org/wiki/Job_characteristics_model)).
 
-The meta-analytic result above comes from a review of broader work-design characteristics, not a direct test solely of the original five-characteristic model; within that review, motivational characteristics explained 34% of the variance in job satisfaction ([Humphrey, Nahrgang & Morgeson, 2007](https://pubmed.ncbi.nlm.nih.gov/17845089/)). The relationships the model proposes are associations this evidence supports; the review does not establish each as a demonstrated causal effect of the five characteristics.
+The meta-analytic result above comes from a review of broader work-design characteristics, not a direct test solely of the original five-characteristic model; within that review, motivational characteristics explained 34% of the variance in job satisfaction ([Humphrey, Nahrgang & Morgeson, 2007](https://pubmed.ncbi.nlm.nih.gov/17845089/)).
 
 ## Field
 

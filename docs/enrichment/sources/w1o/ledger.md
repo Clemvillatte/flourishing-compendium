@@ -39,3 +39,6 @@ FAIL on both items. Causes: founder attributions and four-threat definitions bey
 - Degrees re-verified before certification: Intuitive expertise 8, James-Lange 6, Job characteristics model 5, Kin Selection 4, Krumboltz 4 (all <15, fast-track eligible).
 - Full 10-page validation vs pre-enrichment baseline 7f32ffed (parent of first item-6 commit): 10/10 ok.
 - Ledger corrections: item-5 18-propositions mis-entry fixed (belongs to item 4); credential note de-specified.
+
+## Items-6-10 milestone — CLOSED (scoped PASS)
+Advisor round-2 verification: scoped PASS for items 6-10 reviewed prose and quotations; items-1-5 follow-up repairs accepted; one final mechanical fix applied (Kin Selection sign-convention sentence given its own Bourke citation). Baseline correction: the earlier 7f32ffed baseline was pre-item-6 only; the TRUE pre-session baseline is 66717298a (the clone commit, predating all ten rewrites), and the final 10-path validation was run against it: 10/10 ok. RECORD: Items 6-10 milestone closed, scoped PASS for the reviewed prose and quotations; items-1-5 follow-up repairs accepted; ten pages structurally validated against original session baseline 66717298a; whole-band certification excluded.

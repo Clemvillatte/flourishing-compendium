@@ -13,7 +13,7 @@ Interpersonal Deception Theory (IDT) is a theory of deceptive communication publ
 
 ### What makes it interpersonal
 
-IDT treats deceptive exchanges as interactions in which participants adjust their behaviour in response to one another. It groups intentional deception into falsification (lying), concealment (omitting material facts) and equivocation (skirting issues by changing the subject or responding indirectly) ([Wikipedia, Interpersonal deception theory](https://en.wikipedia.org/wiki/Interpersonal_deception_theory)).
+IDT treats deceptive exchanges as interactions in which participants adjust their behaviour in response to one another ([Wikipedia, Interpersonal deception theory](https://en.wikipedia.org/wiki/Interpersonal_deception_theory)). It groups intentional deception into falsification (lying), concealment (omitting material facts) and equivocation (skirting issues by changing the subject or responding indirectly) ([Wikipedia, Interpersonal deception theory](https://en.wikipedia.org/wiki/Interpersonal_deception_theory)).
 
 ## Field
 

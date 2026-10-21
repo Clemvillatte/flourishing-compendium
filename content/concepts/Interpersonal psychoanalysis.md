@@ -7,7 +7,7 @@ file: "Interpersonal psychoanalysis"
 tags: ["theory", "psych/clinical"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
-Interpersonal psychoanalysis is a school of psychoanalytic theory and treatment based on the work of the American psychiatrist Harry Stack Sullivan (1892-1949) ([Wikipedia, Interpersonal psychoanalysis](https://en.wikipedia.org/wiki/Interpersonal_psychoanalysis)). Sullivan's definition of personality, from The Interpersonal Theory of Psychiatry (1953), is the tradition's anchor:
+Interpersonal psychoanalysis is a school of psychoanalytic theory and treatment based on the work of the American psychiatrist Harry Stack Sullivan (1892-1949) ([Wikipedia, Interpersonal psychoanalysis](https://en.wikipedia.org/wiki/Interpersonal_psychoanalysis)). Hopwood and colleagues quote Sullivan's 1953 definition of personality ([Hopwood, Wright, Ansell & Pincus, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3675800/)):
 
 > "the relatively enduring pattern of recurrent interpersonal situations which characterize a human life" (Sullivan, 1953, pp. 110-111, quoted in [Hopwood, Wright, Ansell & Pincus, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3675800/))
 
