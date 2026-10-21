@@ -4,17 +4,18 @@
   "Klesha transmuted into wisdom",
   "Keystone habits",
   "Knowing-how versus knowing-that",
-  "Leadership research",
-  "Latent learning theory"
+  "Latent learning theory",
+  "Leadership research"
  ],
  "in_progress": null,
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
-  "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)"
+  "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
+  "Leadership research": "Reopened for QC: QC correction: milestone advisor round (Cited-in restore, abstract locator, source-scoped conclusion)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:55:42+00:00",
+ "updated": "2026-10-21T08:55:47+00:00",
  "band_done": false,
  "new_concepts": [
   {
