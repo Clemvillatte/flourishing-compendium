@@ -554,3 +554,10 @@ Reviews abstract re-opened; all three quoted fragments verified VERBATIM. Spot-c
 Final tally of read-only spot-checks on the released w1ab band this session: 9 pages checked,
 9 PASS at the quote level; one single-character semicolon repair applied (Locus of evaluation,
 flagged for the supervisor as a cross-band edit).
+
+## w1ab spot-check 10 (2026-10-21 14:36 UTC, worker-perplexity-67ce7e1d)
+Matching Hypothesis (a "Reopened for QC" w1ab page): Jia et al. 2015 PLoS ONE (PMC) re-opened;
+all three quoted sentences (abstract definition, committed-relationship finding,
+pursue-or-accept finding) verified VERBATIM. Spot-check PASS. Session tally on the released
+w1ab band: 10 pages checked, 10 PASS at the quote level; one single-character semicolon
+repair (Locus of evaluation, cross-band edit flagged for the supervisor).
