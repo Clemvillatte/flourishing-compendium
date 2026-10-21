@@ -7,13 +7,21 @@ file: "State-dependent intervention matching"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-the principle that arousal level dictates optimal technique (Yerkes-Dodson law; arousal regulation research).
+Niederlohmann proposes that a patient's momentary state can constrain productive use of a psychotherapy task. ([Niederlohmann, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13200463/))
+
+> "Psychotherapy does not fail only because techniques are poorly chosen or alliances are weak; it may also fail because the patient’s momentary state does not support productive use of the task." ([Niederlohmann, 2026, Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC13200463/))
+
+## Related concepts
+
+- [[Arousal regulation]]
+- [[State-matched emotion regulation]]
+- [[Metacognitive regulation of state]]
 
 ## Sources
 
 - Yerkes-Dodson law
-
 - arousal regulation research
+- [Niederlohmann, "Autonomic regulation constrains psychotherapeutic workability: a state-dependent translational model for psychotherapy and psychosomatics", Frontiers in Psychiatry, 2026, PMC13200463](https://pmc.ncbi.nlm.nih.gov/articles/PMC13200463/) — the abstract sentence quoted above, verified verbatim against the opened carrier
 
 ## Cited in psychology parallels
 
