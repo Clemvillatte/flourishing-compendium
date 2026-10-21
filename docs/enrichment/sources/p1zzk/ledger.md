@@ -44,3 +44,5 @@
 - Opened (search excerpts): AIFS summary; Gee et al. chapter PDF excerpt (definition verbatim); NIAA 2017 framework; QMHC paper. Seed cites SHRG 2004; the seven-domain model is from Gee 2014 / 2017 framework; 2004 framework itself not opened. Sleep/rest claim not found. Sleep-and-job anecdote dropped.
 ## R043 — fa'asamoa
 - Opened (search excerpts): Dulwich Centre PDF of Tamasese/Peteru/Waldegrave findings; Ole Taeao Afua summary (SADIL); Journal of Indigenous Wellbeing paper; Samoan/Tongan American elders paper. Seed's locator "Tuhiwai Smith 1999" is a Maori-authored methodology book, not a Samoan source: flagged, not opened; supervisor may replace locator with Tamasese et al. Extension to "any community's way" unsupported. Protocol anecdote dropped.
+## R072 — competence (Tronto)
+- Opened (search excerpts): Tronto Moral Boundaries text copy (pirate.care PDF; quotes verbatim, page numbers not visible); FPQ article (p. 133 cited there); Bristol UP article. Seed locator pp. 127-130 unverified (FPQ cites p. 127 for attentiveness, 133 for competence); printed book not checked. Bandura 1977 parallel not opened. Pharmacist anecdote dropped.
