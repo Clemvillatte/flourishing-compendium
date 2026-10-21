@@ -51,7 +51,8 @@
   "Obsessive attachment",
   "Ontological relativity",
   "Operant conditioning (Skinner)",
-  "Optimistic explanatory style"
+  "Optimistic explanatory style",
+  "Ordering the soul"
  ],
  "in_progress": null,
  "flagged": {
@@ -84,11 +85,12 @@
   "One principle at a time": "IDENTITY HOLD (advisor milestone QC 2026-10-21, worker-pxy2-w1ab): opened sources (MN 118, Seneca Letter 2) establish breathing meditation and reading advice, not 'One principle at a time' as a named concept; title also resembles a practical instruction excluded by protocol 1.0. Page revised to editorial-comparison wording and held out of done pending supervisor disposition.",
   "Ontological relativity": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Quine sec 6.2; quotes verified verbatim; advisor milestone QC repairs applied (opening scoped to indeterminacy of reference, unverified 1969 dating removed, Putnam relation described as compendium comparison)",
   "Operant conditioning (Skinner)": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): primary carrier opened = bfskinner.org Science and Human Behavior PDF; 3 theorist quotes verified verbatim; advisor milestone QC repairs applied (example labelled hypothetical, selectionist analogy removed); EXEMPLARS.md theory skeleton not re-read this session - theory-standard claim softened",
-  "Optimistic explanatory style": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Beck Institute Seligman Q&A; both quotes verified verbatim. FLAG for supervisor: P171 quotes the second passage with slightly different wording (a person action / the person defect) vs the opened source (your action / your permanent defect) - principle is out of my rewrite scope"
+  "Optimistic explanatory style": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Beck Institute Seligman Q&A; both quotes verified verbatim. FLAG for supervisor: P171 quotes the second passage with slightly different wording (a person action / the person defect) vs the opened source (your action / your permanent defect) - principle is out of my rewrite scope",
+  "Ordering the soul": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Gutenberg Jowett Republic; 443d-e passage quoted verbatim; Jowett archaic comma style kept as in source"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:29:57+00:00",
+ "updated": "2026-10-21T14:30:55+00:00",
  "band_done": false,
  "new_concepts": [
   {
