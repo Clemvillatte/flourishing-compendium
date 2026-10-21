@@ -13,7 +13,7 @@ The approach-inhibition theory of power is Dacher Keltner, Deborah Gruenfeld and
 
 ## Where it comes from
 
-The theory appeared in Psychological Review in 2003 as an integrative review, "Power, Approach, and Inhibition" (110(2), 265-284). It joined two literatures: research on social power and Gray's behavioural approach and inhibition systems.
+The theory appeared in Psychological Review in 2003 as an integrative review, "Power, Approach, and Inhibition" (110(2), 265-284). As the authors put it, they "derive predictions from recent theorizing about approach and inhibition" and review the relevant evidence ([Keltner, Gruenfeld & Anderson 2003](https://greatergood.berkeley.edu/dacherkeltner/docs/keltner.power.psychreview.2003.pdf)).
 
 ## How it works
 
@@ -21,11 +21,11 @@ The mechanism is the environment power creates. The powerful live in reward-rich
 
 ## What it explains
 
-The theory organises a wide range of findings under one heading: why the powerful stereotype more, take more risks and read others' emotions worse, and why the powerless deliberate, self-monitor and inhibit. It became, in later reviewers' words, "the dominant lens for empirical investigations of how power influences a person's cognition, affect, and behavior" ([Lanaj et al., meta-analytic test, PubMed record](https://pubmed.ncbi.nlm.nih.gov/41396532/)). Its boundary: the propositions are about relative tendencies, and later work examines when threats to power reverse the pattern.
+The theory organises a wide range of findings under one heading. On its account, the powerful show positive affect, attention to rewards, automatic information processing and disinhibited behaviour, while the powerless show negative affect, attention to threat, punishment and others' interests, controlled information processing and inhibited social behaviour ([Keltner, Gruenfeld & Anderson 2003](https://greatergood.berkeley.edu/dacherkeltner/docs/keltner.power.psychreview.2003.pdf)). The authors note that these are relative tendencies with moderators and consequences discussed in the review, not fixed traits.
 
 ## Everyday life
 
-Notice who in the room asks questions and who gauges reactions before speaking. The theory reads this not as character but as position: freedom loosens, constraint tightens. The practical upshot for anyone holding power is to install their own checks, since the position itself will not supply them.
+As an illustration of the pattern: notice who in the room asks questions freely and who gauges reactions before speaking. The theory would read this as one possible effect of position, not of character: freedom loosens, constraint tightens. For anyone holding power, the theory's implication is to install their own checks, since the position itself will not supply them.
 
 ## Field
 
@@ -36,14 +36,13 @@ Sociocultural · Psychological science
 - [[Social dominance theory]] — a neighbouring account of hierarchy
 - [[Pleasure-Arousal-Dominance Model]] — dominance in the psychology of affect
 - [[Status quo bias]] — how position favours what already is
-- [[Hierarchy of Needs Theory]] — another needs-and-power framework
+- [[Hierarchy of Needs Theory]] — a related needs-and-conditions framework
 - [[Dual-process theory]] — the automatic/controlled distinction the theory leans on
 
 ## Sources
 
 - Keltner, D., Gruenfeld, D. H., & Anderson, C. (2003). Power, approach, and inhibition. Psychological Review, 110(2), 265-284.
 - [Paper PDF (hosted at UC Berkeley Greater Good)](https://greatergood.berkeley.edu/dacherkeltner/docs/keltner.power.psychreview.2003.pdf) — abstract and propositions, verbatim (opened)
-- [Lanaj et al., The approach-inhibition theory of power: A meta-analytic test (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/41396532/) — dominance of the theory, verbatim (opened)
 
 ## Cited in psychology parallels
 

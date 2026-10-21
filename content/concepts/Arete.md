@@ -7,7 +7,7 @@ file: "Arete"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Arete (ἀρετή) is the Greek concept of excellence: a thing's "full realization of potential or inherent function," and in ethics, "moral virtue" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). The word is not praise but description: whatever a thing is for, done well.
+Arete (ἀρετή) is the Greek concept of excellence: a thing's "full realization of potential or inherent function," and in ethics, "moral virtue" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)).
 
 ### A thing's own excellence
 
@@ -15,7 +15,7 @@ The Greeks applied the word to anything: "the excellence of a chimney, the excel
 
 ### From effectiveness to virtue
 
-By the classical period the word had grown inward: "arete as applied to men had developed to include quieter virtues, such as dikaiosyne (justice) and sophrosyne (self-restraint)," and in Aristotle's Nicomachean Ethics the doctrine found "its fullest flowering" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). The tradition's summary of Aristotle: "Virtue (arete), then, is a habit or trained faculty of choice, the characteristic of which lies in moderation or observance of the mean" (Nicomachean Ethics II.6, quoted in [Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). Arete was the aim of paideia: training of body, speech and character toward excellence.
+By the classical period the word had grown inward: "arete as applied to men had developed to include quieter virtues, such as dikaiosyne (justice) and sophrosyne (self-restraint)," and in Aristotle's Nicomachean Ethics the doctrine found "its fullest flowering" ([Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). The tradition's summary of Aristotle: "Virtue (arete), then, is a habit or trained faculty of choice, the characteristic of which lies in moderation or observance of the mean relatively to the persons concerned, as determined by reason, i.e., by the reason by which the prudent man would determine it" (Nicomachean Ethics II.6, quoted in [Wikipedia, Arete](https://en.wikipedia.org/wiki/Arete)). Arete was the aim of paideia: training of body, speech and character toward excellence.
 
 ### The crossroads
 

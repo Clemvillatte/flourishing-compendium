@@ -15,14 +15,14 @@ The concept earns its keep in the contrast with amour-propre, the comparative se
 
 ### The moderator: pity
 
-Amour de soi is not selfishness run loose; in the state of nature it is tempered by pitié. In Cole's translation of the Discourse: "It is therefore certain that pity is a natural sentiment, which, by moderating in every individual the activity of self-love, contributes to the mutual preservation of the whole species" ([Rousseau, Discourse on Inequality, Cole translation, Project Gutenberg #11136](https://www.gutenberg.org/cache/epub/11136/pg11136.txt)).
+Amour de soi is not selfishness run loose; in the state of nature it is tempered by pitié. In the Discourse's English translation: "It is therefore certain that pity is a natural sentiment, which, by moderating in every individual the activity of self-love, contributes to the mutual preservation of the whole species" ([Rousseau, Discourse on Inequality, Project Gutenberg #11136](https://www.gutenberg.org/cache/epub/11136/pg11136.txt)).
 
 ### In the compendium
 
 - [[A066 — Be a friend to yourself first]] — self-love as friendship with oneself
 - [[A071 — Recognise that self-love is the foundation]] — the Rousseauian grounding
 - [[D107 — Trust your own nature]] — naturalness before social distortion
-- [[D002 — Practice ziran — naturalness]] — a Daoist cousin of the same trust
+- [[D002 — Practice ziran — naturalness]] — a Daoist teaching on naturalness
 
 ## Facets
 
@@ -32,14 +32,14 @@ Amour de soi is not selfishness run loose; in the state of nature it is tempered
 
 - [[Amor sui (right self-love)]] — the rational form of self-love Spinoza defends
 - [[Natural goodness of the unformed human]] — the natural self-love the doctrine rests on
-- [[Authentic versus hubristic pride]] — the psychological descendant of the contrast
-- [[Contingent self-esteem]] — worth that depends on others' view, amour-propre's modern face
-- [[Cultural recognition]] — the recognition need in its benign, institutional form
+- [[Authentic versus hubristic pride]] — a related psychology of self-worth
+- [[Contingent self-esteem]] — worth that depends on others' view
+- [[Cultural recognition]] — the recognition need in institutional form
 
 ## Sources
 
 - Rousseau, J.-J. (1755). Discourse on the Origin of Inequality.
-- [Rousseau, Discourse on Inequality (Cole translation, Project Gutenberg #11136)](https://www.gutenberg.org/cache/epub/11136/pg11136.txt) — pity moderating self-love, verbatim (opened)
+- [Rousseau, Discourse on Inequality (Project Gutenberg #11136)](https://www.gutenberg.org/cache/epub/11136/pg11136.txt) — pity moderating self-love, verbatim; translator uncredited in this edition (opened)
 - [Stanford Encyclopedia of Philosophy, Jean-Jacques Rousseau](https://plato.stanford.edu/entries/rousseau/) — amour de soi, amour-propre, inflamed forms, verbatim (opened)
 - Rousseau, J.-J. (1762). Emile.
 

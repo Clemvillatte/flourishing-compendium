@@ -11,26 +11,26 @@ Antifragility is Nassim Taleb's coinage for the third category that fragile and 
 
 ### Why the word was needed
 
-Taleb's argument, set out in Antifragile (2012), is that we had no word for things that gain from disorder. The fragile breaks under stress, the robust survives it unchanged, and a third class of systems, from immune responses to businesses run on trial and error, actually improve when stressed. Much of the book is a catalogue of ways modern life suppresses small stresses and so leaves systems exposed to large ones.
+Taleb's argument, set out in Antifragile (2012), is that we had no word for things that gain from disorder. The fragile breaks under stress, the robust survives it unchanged, and Taleb names a third class of systems that improve when stressed. The term has since been taken up beyond economics: researchers have proposed calculable measures of antifragility and applied them to biological networks such as the Arabidopsis thaliana cell-cycle ([Wikipedia, Antifragility](https://en.wikipedia.org/wiki/Antifragility)).
 
 ### The dose question
 
-The concept's practical difficulty is the dose: stress strengthens only up to a point, and damage beyond it is just damage. That boundary is what the compendium's practices around obstruction and adversity work on.
+The concept's practical difficulty is the dose: whether a given stressor strengthens or damages is a matter of degree and context, not a general law, and the theory does not say that adversity generally improves people. Where that line sits is what the compendium's practices around obstruction and adversity work on.
 
 ### In the compendium
 
-- [[A028 — Practice resilience in adversity]] — the Stoic training the term describes
+- [[A028 — Practice resilience in adversity]] — a Stoic training in adversity
 - [[P085 — Let obstruction do its work]] — the productive use of resistance
-- [[S019 — Prepare for adversity before it arrives]] — stress before the stressor
-- [[S091 — Practise negative visualisation]] — rehearsal as small, chosen shock
+- [[S019 — Prepare for adversity before it arrives]] — preparation before the stressor
+- [[S091 — Practise negative visualisation]] — rehearsal of what may come
 
 ## Related concepts
 
 - [[Y037]] — the tapas stop-line is the Yoga-Vedanta answer to the question this page names: when stress strengthens and when it damages
-- [[Hormetic exposure research]] — the biology of the dose curve
-- [[Stress inoculation training]] — the clinical application
-- [[Post-traumatic growth]] — the psychological version of getting better after shock
-- [[Psychological resilience theory Bonanno]] — the neighbouring research programme
+- [[Hormetic exposure research]] — the biology of dose-response curves
+- [[Stress inoculation training]] — a related stress-exposure practice
+- [[Post-traumatic growth]] — a related research field on outcomes after adversity
+- [[Psychological resilience theory Bonanno]] — a neighbouring research programme
 
 ## Sources
 
