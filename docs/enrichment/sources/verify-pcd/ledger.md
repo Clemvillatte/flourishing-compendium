@@ -364,3 +364,7 @@ QC-closed).
 
 ### w1k "Allostatic load" — quote fidelity PASS (verification pass)
 - McEwen 1998 blockquote EXACT vs the opened hosted NEJM PDF.
+
+### w1k "Amour-propre" — quote fidelity PASS (verification pass)
+- Rousseau Émile Book IV blockquote EXACT vs the opened Gutenberg full text (#5427,
+  Foxley translation).
