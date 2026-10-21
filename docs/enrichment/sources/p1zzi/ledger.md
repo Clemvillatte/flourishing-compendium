@@ -50,3 +50,6 @@
 ## R044 — tautua
 - Opened (search excerpts): Te Ara "Samoans" print page; Univ. of Auckland thesis (proverb, via Fa'aea & Enari 2021); AUT land-rights/urban women study (Tui Atua 2009 definition). Primary: Tui Atua 2009 (Su'esu'e Manogi) not opened — recommend. Locator in file untouched via {{LOC}}.
 - Both secondary; proverb translations vary ("authority"/"leadership"). Page includes Te Ara's note on generational disagreement.
+## R073 — responsiveness
+- Opened (search excerpts of the full text hosted at syllabus.pirate.care, an unofficial copy of Moral Boundaries; Bozalek et al. 2014 for page numbers; other secondary papers). Quotes verbatim from that copy. The copy's own page numbers were not visible; pp. 134-135 taken from Bozalek et al. (and Springer/other papers cite 135). The file's locator says pp. 127-130 — likely the four-phase section; supervisor may adjust to 134-136.
+- Seed Plain words ("willing to be answerable ... received as care") is a gloss; Tronto's text frames responsiveness around vulnerability/abuse and loss of autonomy. Page says so.

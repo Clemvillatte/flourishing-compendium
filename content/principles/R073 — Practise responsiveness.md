@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 335** — Practise responsiveness
 
-Be responsive to the other's perception of your care. Responsiveness is the fourth element of care. It is the willingness to be answerable to the other, to check whether your care is received as care, and to adjust accordingly.
+In Tronto's account, responsiveness is the fourth moral element of care. It "signals an important moral problem within care: by its nature, care is concerned with conditions of vulnerability and inequality". She continues: "The moral precept of responsiveness requires that we remain alert to the possibilities for abuse that arise with vulnerability" (Tronto, 1993, Moral Boundaries, [full text](https://syllabus.pirate.care/library/Joan%20C.%20Tronto/Moral%20Boundaries_%20A%20Political%20Argument%20for%20an%20Ethic%20of%20Care%20(416)/Moral%20Boundaries_%20A%20Political%20Argument%20for%20-%20Joan%20C.%20Tronto.pdf); pp. 134-135 in the Routledge edition, per [Bozalek et al., 2014](https://core.ac.uk/download/62635287.pdf)).
 
 (Tronto, 1993, Moral Boundaries, pp. 127-130.)
 
-**Plain words** Responsiveness: be answerable to how your care actually lands. Check with the person: is this received as care? Then adjust. The fourth element — the one that keeps care from becoming its own vanity project.
+### What the text asks
 
-*For example:* The helper who keeps bringing freezer meals and finally asks "is this actually useful?" — and learns what's needed is the Tuesday drive, which they'd never have guessed.
+Tronto's phrase is about being alert to abuse, and she adds that there is "always implicit in care the danger that those who receive care will lose their autonomy and their sense of independence". She lists paternalism and parochialism as the two primary dangers of care. The care-receiver's response is how the care-giver learns whether the care worked. The chapter's example is that "the patient feels better" or "the starving children seem healthier after being fed". The principle's line about checking whether care is "received as care" is a fair reading of this phase, though Tronto's own wording is about vulnerability and abuse.
+
+**Plain words**
+Care is not finished when you have done something kind. It is finished when the other person has been better off for it. Ask them, and listen to the answer.
+
+**For example**
+After helping someone, ask one open question a week later: "Has this been useful, and what would help more?" Change what you do on the basis of the answer, and mention what you changed.
+
+## Sources
+
+- [Tronto 1993, Moral Boundaries (full text)](https://syllabus.pirate.care/library/Joan%20C.%20Tronto/Moral%20Boundaries_%20A%20Political%20Argument%20for%20an%20Ethic%20of%20Care%20(416)/Moral%20Boundaries_%20A%20Political%20Argument%20for%20-%20Joan%20C.%20Tronto.pdf)
+- [Bozalek et al. 2014, Teaching in Higher Education 19(5)](https://core.ac.uk/download/62635287.pdf)
+
 ## Psychology parallels
 
 - **[[Responsive parenting|Responsive parenting]]** (Bernstein et al., 2014)
