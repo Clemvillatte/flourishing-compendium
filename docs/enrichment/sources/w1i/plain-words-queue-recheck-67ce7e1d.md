@@ -20,7 +20,10 @@ detector re-run is still needed):
   (M045-plainwords-repair-proposal-67ce7e1d.md).
 - S118 and Y071: 0% on direct re-check (listed 39%/41%) — appear clean on reading; recommend the
   official detector re-run before anyone edits them.
-- All other entries: parser failure ("no-sections") — no conclusion from this pass.
+- AF033: the "### Plain words" heading format broke my first parse; on direct read the Plain-words
+  PROSE is fresh — the 45% overlap is entirely shared citation-URL text (the paper title inside
+  the URL). Likely detector false positive; recommend the official re-run strip URLs.
+- All remaining entries computed below 25% on the fixed parse (mostly 0-7%).
 
 Supervisor action suggested: re-run the official detector to refresh the list (several entries
 may be stale or changed), and mint an owner band (or apply the five proposals) for the
