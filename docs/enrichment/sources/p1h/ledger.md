@@ -1271,3 +1271,34 @@ open).
   autonomic system... mediated by the vagal activity"). The flagged
   pooled-result wording and pitch outcome suggestion are absent. All
   components close.
+- **BE072 — Get addiction help without shame**: RESOLVED. The NIDA
+  DrugFacts definition blockquote ("Addiction is a chronic disease
+  characterized by drug seeking and use that is compulsive, or difficult to
+  control, despite harmful consequences.") verified VERBATIM against a fresh
+  fetch of the cited NIDA page; the voluntary-initial-decision and
+  ongoing-adjusted-treatment claims are the page's own sentences. The audit
+  language is absent; the compendium recommendation is labelled as the
+  compendium's. All components close.
+- **BI004 — Understand the stress response: cortisol, adrenaline, HPA axis**:
+  RESOLVED. The McEwen 2007 blockquote ("Beyond the 'flight-or-fight'
+  response to acute stress... promote adaptation ('allostasis').") verified
+  VERBATIM against a fresh fetch of the cited Physiological Reviews article
+  (abstract). The ANS/HPA-axis hallmark claim grounded in the article's own
+  sentence ("A hallmark of the stress response is the activation of the
+  autonomic nervous system and hypothalamo-pituitary-adrenal (HPA) axis");
+  the cortisol/catecholamine mediators claim grounded in the article's
+  mediator sentences. The cortisol-as-system wording defect is absent (the
+  current page names cortisol among mediators). All components close.
+- **BI010 — Regulate emotion through the body**: RESOLVED. The Zaccaro et
+  al. 2018 blockquote ("We found evidence of increased psychophysiological
+  flexibility...") verified VERBATIM against a fresh fetch of the cited
+  Frontiers article (Conclusions section) — the same carrier verification
+  as BI045 this session. The audit language is absent; the
+  no-guarantee-that-it-stops-anxious-thoughts scoping is honest. All
+  components close.
+- **CO002 — Match the thinking mode to the task**: RESOLVED. The Kahneman
+  2003 System 1/System 2 blockquote verified VERBATIM against a fresh fetch
+  of the cited author-hosted PDF. The requested qualifier is present and
+  strengthened on the current page: the Evans & Stanovich caution paragraph
+  names autonomy as Type 1's defining characteristic and decoupling as
+  Type 2's, with the labels-as-vocabulary rule. All components close.
