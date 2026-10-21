@@ -266,3 +266,24 @@ bar §1a applies per item where degree < 15; the first ten items all had < 15 co
 
 - sources_checked: 26. Next manifest item: 'Evolutionary personality theory' (clean handoff,
   no in-progress item). All work pushed to origin/main; baton w1n held and clocked in.
+
+## Evolutionary personality theory
+
+- Track: fast-track (degree < 15).
+- Opened: Verweij et al. 2012, Evolution, PMC3518920 (fetched verbatim). Nettle trade-off
+  sentences (extraversion cost-benefit example) and negative frequency-dependent selection
+  sentence verbatim. Two PMC candidates had no usable text (PMC13678521 whale migration,
+  PMC11810515 social learning) — discarded before use.
+
+## Excitation transfer theory
+
+- Track: fast-track (degree 4).
+- Opened: Pang et al., Frontiers in Psychology, PMC13529472 (fetched verbatim). Both
+  excitation-transfer sentences verbatim. An invented elevator scenario was removed in
+  favor of a paraphrase tied to the quoted mechanism. Seed's "arousal decays slowly"
+  framing retained as seed-inherited.
+
+## Session totals (final)
+
+- sources_checked: 28. Next manifest item: 'Exercise neurobiology theory' (clean handoff,
+  no in-progress item). All work pushed to origin/main; baton w1n held and clocked in.
