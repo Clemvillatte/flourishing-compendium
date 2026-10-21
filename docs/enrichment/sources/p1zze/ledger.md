@@ -79,3 +79,7 @@
 ## MO040 — Habit environment
 - Opened: Wood, Tam & Witt 2005 abstract (PubMed); Verplanken & Roy 2016 abstract (Bath portal; outcomes self-reported, noted); Lally et al. 2010 abstract (Wiley/APA). Wood & Neal 2007 abstract opened under MO031. Gardner 2015 unopened.
 - Seed claim "context design is more effective than willpower" not tested head-to-head in opened sources -> dropped; page claims only cue-dependence and slow formation.
+
+## MO041 — Disrupt bad habits
+- Opened: Quinn et al. 2010 (USC PDF, abstract + text); Neal et al. 2011 abstract (PubMed); Wood, Tam & Witt 2005 abstract; Marteau/Hollands/Fletcher 2012 abstract (PubMed). Gardner 2015 unopened.
+- CONTRADICTION flagged: seed "Removing the trigger is more effective than resisting the urge" is NOT supported; Quinn 2010 diary studies found vigilant monitoring worked for strong habits and stimulus control only for temptations. Page rewritten to say so; Practice line edited ("Do not rely on willpower; remove the trigger" -> keep watching for slips). Caveat: spontaneous strategy reports, not tests of designed environments.
