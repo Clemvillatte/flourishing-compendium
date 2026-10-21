@@ -18,12 +18,12 @@ Marcus grounds the release in the structure of time:
 
 (Marcus Aurelius, Meditations XII.1, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-He argues the point more sharply elsewhere: neither the future nor the past pains you, but only the present (Med. VIII.36, Long). The self-forgiveness the principle names works on the same structure: the wrongdoing is past, the amends are a present action, and the nightly tribunal is a present pain the person keeps re-issuing to themselves. Releasing it is not a verdict that the wrong was fine; it is declining to keep paying a present cost for what no present action can reach.
+Marcus directs attention toward present conduct. In VIII.36, he asks the reader to focus on the difficulty currently at hand. One suggested application is to distinguish actions still available, such as an apology or repair, from repeatedly reproaching yourself about the past.
 
 **Plain words**
-The sequence is: acknowledge, amend where possible, then stop re-sentencing. The distinction from excusing is that the wrong stays named and the amends stay real. What is released is the repetition, not the record.
+Name the action you regret. Identify any repair still possible and one step you can take now. Consider what further reflection would help you understand, decide or act.
 
-*For example:* Imagine the person who hurt a friend years ago, apologised, changed, and still runs the nightly tribunal. The amends were real; the sentence is complete.
+*For example:* Imagine someone who hurt a friend years ago, apologised, and changed; the question the application raises is which repair remains available now.
 
 ## Sources
 
