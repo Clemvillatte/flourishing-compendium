@@ -7,3 +7,10 @@
 - Limitation noted on page: Snyder does not use the phrase "wishful thinking". Snyder's account is cognitive (emotions follow goal pursuit, p. 252); the title's affect framing is the compendium's.
 - Plain words fully re-derived (old one was a replicate). For example relabelled as imagined.
 - Saturation: enrich_find mention "agency thinking"/"Snyder"; Hope concept read in full, 0 AF067 -> reciprocal proposed. PP015 (Cultivate hope as a process) is a sibling principle in another band; not edited.
+
+## AF081 — Recognise neurodivergent affect
+- Sources opened (raw HTML downloaded, text-matched): Walker, Neurodiversity: Some Basic Terms & Definitions (neuroqueer.com); Sasson et al. 2017, Sci Rep 7:40700 (nature.com; abstract + discussion).
+- Quotes verified verbatim: Walker neurodivergent definition; "culturally constructed fiction" and the "one normal or healthy type of brain or mind" phrase; Sasson "style, not substance, drives negative impressions of ASD". Walker's remark that some advocates still treat autism as pathology paraphrased.
+- Dropped unsourced claims: "Treating them as disordered creates unnecessary suffering" / "does harm"; "misdiagnosis and pathologisation ... common and harmful (Kerns 2015)". Kerns 2015 and Bellis 2018 not opened; kept as bare reference in the first parallels bullet, claims removed. Singer/Zhuangzi philosophy parallels untouched, unopened.
+- Limits written on page: Sasson covers autism only (not ADHD); the title's "not disordered" is flagged as a disputed framing.
+- For example rebuilt from the old (unsourced) flat-affect example, labelled imagined, linked to the transcript result.
