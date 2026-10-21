@@ -41,7 +41,8 @@
   "Self-overcoming",
   "Social capital theory Putnam",
   "Temporal dynamics of regulation",
-  "Perception as interpretation"
+  "Perception as interpretation",
+  "Perception precedes thought"
  ],
  "in_progress": null,
  "flagged": {
@@ -66,7 +67,7 @@
   "Oneness of things": "Grounded in the opened primary source: Zhuangzi Chapter 2, Watson translation (fetched from Terebess Asia Online; the oneness passage quoted verbatim — 'Heaven and earth were born at the same time I was, and the ten thousand things are one with me' through 'Better not to move, but to let things be!'; the editor's footnote marker 12 removed). Seed line preserved; inherited source line preserved; the four seed principle links (K228, D008, ST002, K146) preserved as bullets under In the compendium; B015/B143 Cited-in preserved; lead-in sentence carries inline citation; no priority claims about the chapter. Validated vs seed baseline c2a3ee47: ok.",
   "Order out of chaos": "Grounded in the opened authoritative source: Prigogine's Nobel Lecture, Time, Structure and Fluctuations (1977), fetched from nobelprize.org (trusted official source; PDF); two verbatim blockquotes — the Benard-convection passage (fluctuations amplified above a critical value, supermolecular order as a giant fluctuation stabilized by energy exchange, 'dissipative structures') and the abstract's claim that non-equilibrium may become a source of order. The seed names Prigogine and Stengers (the book Order Out of Chaos, 1984 — not opened, not characterized); the Nobel lecture is the author's own primary scientific text covering the same theory. Seed line and inherited source line preserved; the five seed principle links (P148, M040, P007, SP092, P174) preserved as bullets under In the compendium; P149 Cited-in preserved; lead-ins carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
   "Perception as interpretation": "label is compendium summary not Kant wording; page notes Kant's claim is universal structure not subjective interpretation",
-  "Perception precedes thought": "namespace-audit: opened DeAnimaII/III, dependencies/faculties/images do not define heading as named unit; distinguish chronological thesis from universal rule. File unchanged; supervisor route needed.",
+  "Perception precedes thought": "De Anima text not opened (MIT archive returned no text); enriched from SEP Aristotle's Psychology; seed cites De Anima II but hierarchy claim is SEP section 4; page states this",
   "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)",
   "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier",
   "Reinforcement schedules (Ferster & Skinner)": "Reopened for QC: QC acceptance round: PIE terminology explained, interval wording fixed",
@@ -81,6 +82,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:31:23+00:00",
+ "updated": "2026-10-21T08:32:16+00:00",
  "band_done": false
 }
