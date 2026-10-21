@@ -20,13 +20,14 @@ He adds that a speaker's "character may almost be called the most effective mean
 
 (Rhetoric I.2, II.1.)
 
-**Plain words** Aristotle says audiences trust speakers they judge sensible, decent and well disposed toward them, and that this can outweigh the argument. He is also clear that the trust is earned during the speech, by how someone speaks to these people about this question. The principle's advice to build credibility through character matches him in spirit, but he would not say that character works apart from how you speak.
+**Plain words** Aristotle asks how a speaker comes across as sensible, decent and well disposed toward the audience. Here the speech itself must give people reasons for that trust. For contemporary reflection, ask what your explanation shows about your judgement, honesty and concern for those listening. A good reputation alone does not meet this particular account of ethos.
 
-For example (imagined): a colleague with a record of being straight with people gets a fair hearing even when her slides are plain. If she then oversells a result in the meeting, the record helps her less.
+For example (imagined): a colleague explains a result, acknowledges its limits and answers the room's concerns without overselling it. Her manner of arguing gives listeners something to judge, even if they have never met her.
 
 ## Sources
 
-- [Aristotle, Rhetoric I.2 and II.1, trans. W. Rhys Roberts, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)
+- [Aristotle, Rhetoric I.2, trans. W. Rhys Roberts, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/rhetoric.1.i.html)
+- [Aristotle, Rhetoric II.1, trans. W. Rhys Roberts, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)
 
 ## Stories
 

@@ -59,3 +59,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Independent milestone advisor confirmed the distinction between source description and modern advice. The Rhetoric explicitly includes poverty and coerced humiliation; the Ethics connects shame with voluntary action. The rewrite preserves that difference instead of making unchosen shame definitionally unfounded.
 - Removed an unsupported claim that the original principle states a healthy/toxic distinction. Practical questions are labelled contemporary reflection, and the example no longer declares an unspecified old comment incapable of involving any wrong.
 - Protected metadata, original principle sentence and inherited parallels preserved; no clinical test is claimed.
+
+## A121
+
+- Opened [Rhetoric I.2](https://classics.mit.edu/Aristotle/rhetoric.1.i.html) and [II.1](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html); checked all modes-of-persuasion, belief, character, prior-opinion and trustworthiness quotation fragments.
+- Replaced the prior-reputation example with an imagined explanation whose handling of evidence and listeners' concerns displays character through the speech itself.
+- Plain words now stays with this particular source account rather than claiming that character simply outweighs argument.
+- Split the bundled Sources row into direct links to both opened books. Protected sections and inherited parallels unchanged.
