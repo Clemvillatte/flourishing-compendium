@@ -29,3 +29,5 @@
 ## PP059 — narrative arts
 - Opened: Kidd & Castano 2013 abstract (PMID 24091705); Panero et al. 2016 abstract via correction record (PMID 27762576; quote verbatim); preregistered meta-analyses abstract (PMID 38602788; authors not seen, cited by title); Mumper & Gerrig manuscript (APA PsycNet; "manuscript is not copy of record" — numbers could differ in final; replace with final version if the supervisor opens it).
 - Not opened: Mar & Oatley 2008 (locator cited it; mechanism "simulation" attributed to them in seed). Dropped locator. Seed claims on "theatre/film" not sourced; page limited to fiction reading.
+## PP074 — sleep
+- Opened: Krause et al. 2017 abstract (PMID 28515433). Not opened: Walker 2017 (Why We Sleep) — locator cited; the book has contested claims, not used. Seed claims on immune function and "no practice compensates" removed as unsourced. Page is thin: supervisor may want a sleep-duration/health source (e.g. consensus statement, Watson et al. 2015).

@@ -12,13 +12,19 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 74** — Treat sleep as foundational
 
-Sleep is not a luxury or a performance enhancer. It is a foundational condition of cognitive function, emotional regulation, and physical health. Sleep deprivation impairs attention, memory, emotional regulation, and immune function. The principle is not about optimisation. It is about the recognition that no well-being practice can compensate for chronic sleep deprivation.
+Krause and colleagues reviewed neuroimaging studies of sleep loss and found that it affects "attention and working memory, positive and negative emotion, and hippocampal learning". They stress that these effects do not simply reflect the absence of the benefits of sleep, but "several additional factors, including extended wakefulness" ([Krause et al., 2017, Nature Reviews Neuroscience 18(7)](https://pubmed.ncbi.nlm.nih.gov/28515433/)). The abstract is a statement about what has been studied and does not claim that sleep is the foundation of every other practice.
 
-(Walker, 2017; Krause et al., 2017.)
+The wider claim that no well-being practice can offset chronic sleep loss, as well as claims about immune function, are not shown by this review. The same goes for the trade-book version of the science, which I did not open.
 
-**Plain words** Sleep isn't a performance enhancer. It's a foundation of thinking, feeling and health. Deprivation impairs attention, memory, mood regulation and immunity. No well-being practice can compensate for losing it.
+**Plain words**
+Poor sleep changes how well you concentrate, remember, and manage feelings. If you are short on sleep, try fixing that before adding another self-improvement habit.
 
-*For example:* Every problem looks solvable at 8 hours of sleep and hopeless at 4.
+**For example**
+For one week, note the time you go to bed and the time you wake, plus a 1-to-5 rating for how clear your thinking was that afternoon. Compare the afternoons that followed the longer nights with those that followed the shorter ones.
+
+## Sources
+
+- [Krause et al. 2017, The sleep-deprived human brain](https://pubmed.ncbi.nlm.nih.gov/28515433/)
 
 ## Psychology parallels
 
