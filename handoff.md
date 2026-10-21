@@ -1,4 +1,32 @@
 # Handoff (start here)
+- WORKER CHECKPOINT (2026-10-21 ~08:27Z, worker-p1zzg-8c31f0a7, T+40 — final
+  pre-report checkpoint; baton HELD, clocked in; session continues while it
+  lives): w1m now 9/70 done (8 by this worker, all advisor-QC'd through two
+  milestone rounds: items 1-5 closed scoped PASS at the item-5 milestone;
+  items 6-9 — three poisons, sublime, transactive memory — closed scoped
+  PASS in the items-6-9 round with the advisor's prescribed repairs; 'The
+  culturally embedded self' stands REOPENED on an IDENTITY-SUPPORT HOLD for
+  supervisor/owner disposition). All quotes on the 8 pages verified
+  against freshly opened carriers (Gutenberg #3800, PubMed efetch 11419809,
+  Wikipedia Steelmanning, Gutenberg #34901, Nisbett-Wilson MIT PDF, IEP,
+  Access to Insight AN 3.69, Burke Enquiry UNC carrier, Wegner chapter
+  Harvard PDF, Princeton Dictionary via buddhanature.tsadra.org, Taylor
+  p. 27 via the MacIntyre review). Earlier this session: p1zzg milestone
+  QC closed (3 advisor rounds), p1zzk closed 30/30, w1c closed 70/70
+  (Hayes-2011 parenthetical routed to the supervisor on the TASKBOARD),
+  w1g premature done-marks REVERSED with holds restored. All work pushed;
+  ledgers: docs/enrichment/sources/w1m/ledger.md (full QC trail), /w1g/.
+  EXACT NEXT ACTION: read the w1m state flags first (esp. the
+  culturally-embedded-self hold and the introspection near-duplicate vs
+  w1l), then take a w1m manifest item — 61 remain; the remaining
+  headings include compendium-style headings over real practices
+  (The coloured lens, The examined past, The prior probability of the
+  world) that need the same concept-existence care that produced the
+  w1g reversal; safe well-defined items available (State-dependent
+  intervention matching, The progress principle, The three gates,
+  Transactive memory systems is DONE). w1aa's 6 person-titled pages and
+  w1i/w1j/w1k flags remain for the supervisor.
+
 - WORKER CHECKPOINT (2026-10-21 ~08:21Z, worker-p1zzg-8c31f0a7, T+35 — final
   pre-report checkpoint; baton HELD, clocking in; session continues while it
   lives): session so far — p1zzg milestone QC CLOSED (3 advisor rounds,
