@@ -41,7 +41,7 @@ The manager who helps a rival department succeed has made a move that loses from
 - [[K228 — Awe practice|K228 Awe practice]]
 ## Psychology parallels
 
-- **[[Self-transcendent experiences|Self-transcendent experiences]]**, feelings of unity and small-self reliably accompany awe and peak states (Yaden et al., 2017)
+- **[[Self-transcendent experiences|Self-transcendent experiences]]** — Yaden and colleagues' review unifies awe, peak experiences, flow and other states as self-transcendent: transient states marked by decreased self-salience and increased feelings of connectedness (Yaden et al., 2017)
 - **[[Awe|Awe research]]** (Keltner and Haidt, 2003)
 
 ## Philosophy parallels
