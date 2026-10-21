@@ -427,3 +427,9 @@ damage, w1ab left to its live holder.
   restored to its original position; validated ok against d2ef32c97^ with
   --fast-track. Ledger note for the supervisor: enrich_validate.py can print FAIL
   with exit code 0 when chained — worth a look.
+
+## THE LOGOS COMMON TO ALL — state fix — 2026-10-21T16:02Z, worker-pplxy-7f3d1a9c
+- The earlier "state done" for this item did not persist to the batch file (the
+  chained command around the front-matter FAIL likely exited early at validate; the
+  page itself had been pushed). Re-marked done here; page validated ok against its
+  pre-enrichment baseline after the front-matter fix (commit 3481ee2f7).
