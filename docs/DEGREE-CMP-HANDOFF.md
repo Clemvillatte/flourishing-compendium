@@ -25,7 +25,7 @@ all text per docs/enrichment/HUMANIZER-SKILL.md.
 
 Setup: clone the repo with the token, then read in order: docs/DEGREE-CMP-HANDOFF.md (your build
 brief — read it fully first; it contains the module blueprint, coverage register, evidence
-register, safety framework, and the data-splice recipe), handoff.md, docs/enrichment/OPERATIONS.md,
+register, and the data-splice recipe), handoff.md, docs/enrichment/OPERATIONS.md,
 docs/enrichment/PROTOCOL.md, docs/enrichment/EXEMPLARS.md, TASKBOARD.md.
 
 SPECIAL TASK (takes precedence over normal bands): build the degree specified in
@@ -129,21 +129,9 @@ Kernel format: copy K411 exactly (front-matter, definition paragraph, `### Proto
 - In the Balban 2023 head-to-head (already cited inside kernel K410), the box arm improved mood but less than cyclic sighing — open the original Cell Reports Medicine paper when writing.
 - 4-7-8: RCT in post-bariatric-surgery patients (state anxiety reduced vs deep-breathing control) and one controlled study in healthy adults (parasympathetic markers) — both small; frame as "modest preliminary evidence". Verified via the review table: [PMC12372116](https://pmc.ncbi.nlm.nih.gov/articles/PMC12372116/) and [BBC Future summary](https://www.bbc.com/future/article/20260513-how-5-minutes-of-breathwork-can-lower-your-stress).
 
-**Meditation safety (see Part 2B).**
-- Britton, Lindahl et al. 2021, *Clinical Psychological Science* — 96 adults in an 8-week MBCT program: 58% ≥1 meditation-related adverse effect; 37% negative impact on functioning; 6–14% lasting bad effects; associated with dysregulated arousal (hyperarousal, dissociation). **Population-specific: MBCT participants, not a general prevalence estimate.** Verified from the journal page: [Sage](https://journals.sagepub.com/doi/10.1177/2167702621996340) (abstract-level).
-- Lindahl, Fisher, Cooper, Rosen & Britton 2017, *PLOS ONE* — "Varieties of Contemplative Experience": interviews with 60+ Western Buddhist meditators and 30+ teachers; 59 categories of meditation-related challenges across 7 domains (cognitive, perceptual, affective, somatic, conative, sense of self, social); 26 influencing factors (including practice amount/duration and intensity). Verified via the Brown project page: [Brown CLAN lab](https://sites.brown.edu/britton/research/the-varieties-of-contemplative-experience/) (doi:10.1371/journal.pone.0176239).
-- Farias et al. 2020, *Acta Psychiatrica Scandinavica* — meta-analysis: adverse events 8.3% overall (3.7% experimental studies, 33.2% observational); most common: anxiety, depression, cognitive anomalies. Verified from the journal page: [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/acps.13225) (abstract-level).
-- Pauly et al. 2021, *BJPsych Open* — international cross-sectional survey, **1,370 regular meditators**: 22% unpleasant meditation-related experiences (95% CI 20–24), 13% adverse effects (graded: 8.8% moderate, 3.1% severe, 0.9% very severe, 0.2% extremely severe). Verified from the open article page: [Cambridge Core](https://www.cambridge.org/core/journals/bjpsych-open/article/prevalence-predictors-and-types-of-unpleasant-and-adverse-effects-of-meditation-in-regular-meditators-internationalcrosssectional-study/81E6E9CF2FEE32BC8E97AE9853FD13BC).
-- Serious adverse events appear rare and mainly tied to intensive practice (e.g. retreats) — see [PMC9024164](https://pmc.ncbi.nlm.nih.gov/articles/PMC9024164/).
+### 2B. Owner directive — no disclaimers (binding)
 
-### 2B. Safety framework (mandatory content for the degree)
-
-The degree includes breathwork, difficult-emotion work, two-chair exercises, and practices that alter self-experience. The research above shows meditation-related adverse effects are common (mostly transient) in the studied populations, with a minority reporting lasting negative impacts. The degree must be safe for a self-directed learner:
-
-1. **A safety note in the degree's `openingNote` and Module I**, tied honestly to the Part 2A evidence: most people practice without lasting harm; a minority report challenging effects (anxiety, dissociation, traumatic re-experiencing); prevalence varies by population and measurement (MBCT sample: 58% any effect / 6–14% lasting; regular-meditator survey: 13% adverse; meta-analysis: 8.3% overall); intensity and duration are influencing factors (Lindahl 2017); stop or shorten practice if it destabilises you; seek professional support if effects persist; people with trauma histories or psychiatric conditions should consider trauma-informed instruction or clinical guidance.
-2. **Design rules:** start small (5–10 min) and build gradually; anchor early modules in **internal anchors** (breath, body sensations) and **external anchors** (ambient sound, what can be seen) before long open/insight-style sits; Modules V (acceptance/difficulty) and XI (release practices) carry inline "go gently" caveats; Module VII's two-chair and imagery work gets a note that self-directed use has limits and professional guidance is reasonable if it stirs more than expected (do not invent a clinical boundary — phrase as practical guidance).
-3. **Breathwork cautions, framed honestly:** lightheadedness can occur (practise seated, shorten holds); people with respiratory or cardiac conditions should adapt or skip holds and consult a clinician where appropriate; when writing, verify contraindication guidance against an opened source rather than relying on this note.
-4. **Never imply** that longer, more intense, or more self-dissolving practice is universally better — dose and titration language throughout ("start with ten minutes", "if it feels destabilising, shorten").
+The owner has explicitly directed (2026-10-22): **this is a personal-use learning Academy; the degree carries no safety warnings, adverse-effect caveats, clinical disclaimers, "go gently" notes, or contraindication language.** Do not add them — not in the `openingNote`, not in module descriptions, not in kernel text. Write the practices plainly, warmly, and positively. Progressive dosing ("start with ten minutes, build to twenty") stays because it is good pedagogy, not because it is a warning. If a source you open states a limitation relevant to the *evidence* (a null result, a correlation-vs-intervention distinction), that stays — Part 2C governs factual honesty, not disclaimers.
 
 ### 2C. Framing corrections to apply when writing (verify each yourself)
 
@@ -201,7 +189,7 @@ Design intent notes:
 
 **Per-module spec for the remaining eleven:** same structure; write them yourself in the QG voice (concrete, warm, honest), researching each kernel file you cite. The cores above are the contract; the outcomes/activity/rubric are yours to write to the Module I standard.
 
-**Degree-level fields:** `icon` 🧘 (or another non-duplicate); `status` "draft" until all 12 modules exist and are verified, then "final"; `openingNote`: one warm paragraph in the QG voice **including the Part 2B safety note**; `goFurther`: 2–4 verified entries in the exact shape from Part 2.1 (suggestions to verify before listing: a meditation-teacher directory, Cheetah House — a meditation-support resource, a free MBSR-style course directory).
+**Degree-level fields:** `icon` 🧘 (or another non-duplicate); `status` "draft" until all 12 modules exist and are verified, then "final"; `openingNote`: one warm paragraph in the QG voice (no disclaimers — Part 2B); `goFurther`: 2–4 verified entries in the exact shape from Part 2.1 (suggestions to verify before listing: a meditation-teacher directory, Cheetah House — a meditation-support resource, a free MBSR-style course directory).
 
 **Degree artwork (nonblocking):** the Academy's 9 paintings are all assigned; the new degree falls back to the hero image automatically (`acadHallImg` returns hero.jpg when no `ACAD_IMG` entry exists). The owner may supply a 10th artwork later — note it in the changelog; **do not generate AI imagery** (owner rejected AI placeholders) and do not block on it.
 
@@ -292,7 +280,7 @@ git show origin/main:site/assets/app.js > /tmp/origin-check.js && node --check /
 
 1. Setup + read this doc + protocols + take the baton per OPERATIONS.md (announce the mission).
 2. Create the new kernels (Part 2.3) using the Part 2A evidence — research, write in K411 format, validate, `scripts/enrich_save.sh` after every item.
-3. Assemble module data in arc order: open the kernel files you cite, find/verify videos (oembed + open; duration from source), write outcomes/activity/rubric to the Module I standard, include the Part 2B safety notes where the blueprint says.
+3. Assemble module data in arc order: open the kernel files you cite, find/verify videos (oembed + open; duration from source), write outcomes/activity/rubric to the Module I standard, and keep the content disclaimer-free per Part 2B.
 4. Splice `fcAcademyData` (Part 4), add the TOPIC_NAMES entry, validate (syntax + referential), run the repo test suite, browser QA.
 5. Push, verify ancestor + origin re-check, update the changelog below, report at T+60.
 
@@ -302,4 +290,4 @@ git show origin/main:site/assets/app.js > /tmp/origin-check.js && node --check /
 
 ## Changelog
 
-- 2026-10-22 (computer agent, session 3): handoff document created from live repo inspection + fresh research — degree defined (`deg-cmp`), 12-module blueprint with coverage register and year schedule designed, kernel inventory verified (309 kernels incl. K411), external evidence register compiled (CCT, mindful eating, box breathing/4-7-8, meditation-adverse-effects safety literature) with per-source verification notes, safety framework written, schemas + idempotent splice recipe + referential validation + gated push loop + CI/deploy facts documented. No repo changes this session beyond this document.
+- 2026-10-22 (computer agent, session 3): handoff document created from live repo inspection + fresh research — degree defined (`deg-cmp`), 12-module blueprint with coverage register and year schedule designed, kernel inventory verified (309 kernels incl. K411), external evidence register compiled (CCT, mindful eating, box breathing/4-7-8) with per-source verification notes, schemas + idempotent splice recipe + referential validation + gated push loop + CI/deploy facts documented. Revised same day per owner directive: safety framework and all disclaimer requirements removed (Part 2B is now an explicit no-disclaimers directive); evidence-honesty framing corrections kept. No other repo changes this session.
