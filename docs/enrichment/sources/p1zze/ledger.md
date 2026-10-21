@@ -69,3 +69,6 @@
 ## MO023 — Specific and difficult goals
 - Opened: Locke & Latham 2002 abstract (PubMed); Kleingeld et al. 2011 abstract (PubMed); Ordóñez et al. 2009 abstract (AOM, HBS). Full texts not opened. Locke & Latham 2006, Latham & Locke 2007, Miner 2005 unopened.
 - Seed title "vagueness kills motivation" overstated: evidence is comparative performance, not destroyed motivation; noted on page. Added critics' side-effect evidence.
+
+## MO029 — Temptation bundling
+- Opened: Milkman/Minson/Volpp 2014 abstract (RePEc, plus Wharton Knowledge article in search results); Kirgios et al. 2020 abstract (RePEc). Schwartz et al. 2014 (seed co-citation for gym attendance) not opened/verified; flagged. Decay of effect and small marginal benefit of encouragement disclosed.
