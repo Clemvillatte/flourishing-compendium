@@ -1484,3 +1484,15 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   concept [[Cognitive reappraisal]] where appropriate.
 - Note for the supervisor: the inline target SE029 may sit in a live band;
   the apply script's ownership guard will defer if so.
+
+## State-matched emotion regulation (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Takeover light check: page at the bar (degree 3, fast-track). QUOTES
+  re-verified against freshly opened carriers: Gross 2015 flexibility
+  definition + "no one strategy is 'best' in any absolute sense" +
+  "context-dependent blends and sequences" (johnnietfeld.com PDF, exact);
+  Bonanno & Burton 2013 "fallacy of uniform efficacy" + three components
+  (TC Columbia PDF, exact). ALL VERBATIM.
+- REPAIRS: removed the dangling URL-less Sources fragment; added one
+  bounded sentence (extended process model stages, from the opened
+  review) to clear the 150-word concept minimum. Validator ok.

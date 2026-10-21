@@ -13,7 +13,7 @@ Emotion regulation flexibility is the matching of a regulation strategy to the c
 
 ### The assumption it answers
 
-The framework Gross cites comes from George Bonanno and Charles Burton, who name the opposing assumption the "fallacy of uniform efficacy": treating a particular strategy as consistently beneficial or maladaptive regardless of person and situation. Bonanno and Burton propose three components of flexibility that vary by person: "sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback". Gross adds that "no one strategy is 'best' in any absolute sense" and that skillful regulation involves "context-dependent blends and sequences of regulatory efforts".
+The framework Gross cites comes from George Bonanno and Charles Burton, who name the opposing assumption the "fallacy of uniform efficacy": treating a particular strategy as consistently beneficial or maladaptive regardless of person and situation. Bonanno and Burton propose three components of flexibility that vary by person: "sensitivity to context, availability of a diverse repertoire of regulatory strategies, and responsiveness to feedback". Gross adds that "no one strategy is 'best' in any absolute sense" and that skillful regulation involves "context-dependent blends and sequences of regulatory efforts". The same review's extended process model divides regulation into identification, selection and implementation stages, and places the matching question at the selection stage.
 
 ### In the compendium
 
@@ -28,8 +28,6 @@ The framework Gross cites comes from George Bonanno and Charles Burton, who name
 - [[Psychological flexibility]] — the ACT construct of persisting or changing behavior in the service of chosen values
 
 ## Sources
-
-- Gross's extended process model's situation-strategy matching
 
 - [Gross, "Emotion Regulation: Current Status and Future Prospects", Psychological Inquiry 26(1), 2015 (PDF)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the flexibility definition and the extended process model
 - [Bonanno and Burton, "Regulatory Flexibility: An Individual Differences Perspective on Coping and Emotion Regulation", Perspectives on Psychological Science 8(6), 2013 (PDF)](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf) — the fallacy of uniform efficacy and the three components
