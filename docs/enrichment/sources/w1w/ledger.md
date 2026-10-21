@@ -652,3 +652,5 @@
   ok. State recorded (done count 47).
   - Repair: prose floor top-up (129 -> 150+) with the abstract's
     evidence-range sentence; validator ok.
+  - Repair 2: dash-count fix (evidence list moved to colon form);
+    accent restored on Latané's. Validator ok.
