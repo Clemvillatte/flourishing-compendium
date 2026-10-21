@@ -37,6 +37,9 @@ Imagine leaving a demanding meeting with another task waiting. Pause to notice w
 
 - [[K108 — Meta-awareness check|K108 Meta-awareness check]]
 
+## Stories
+- [[ST409 — Eighty Years of Two Preludes and Fugues|409. Eighty Years of Two Preludes and Fugues]]
+
 ## Psychology parallels
 
 - **[[Limits of introspection|Limits of introspection]]** (Nisbett and Wilson, 1977)

@@ -43,9 +43,14 @@
      "t": "2026-10-21T12:35:56+00:00",
      "to": "qc_pending",
      "note": "verified quotes from opened sources; NYT+WHHA concert facts"
+    },
+    {
+     "t": "2026-10-21T12:37:37+00:00",
+     "to": "published",
+     "note": "supervisor registration ST409"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:37:05+00:00"
+ "updated": "2026-10-21T12:37:37+00:00"
 }
