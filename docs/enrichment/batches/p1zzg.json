@@ -11,7 +11,14 @@
   "S132"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "S088": "Reopened for QC: QC round 3: replace added paragraph (takeover check pending)",
+  "S106": "Reopened for QC: QC round 2 FAIL: remove rejected opening (takeover check pending)",
+  "S109": "Reopened for QC: QC: delete added category sentence and link (takeover check pending)",
+  "S111": "Reopened for QC: QC milestone: application paragraph, plain words, example (takeover check pending)",
+  "S114": "Reopened for QC: QC milestone: plain words, example label (takeover check pending)",
+  "S116": "Reopened for QC: QC milestone: quote wording, plain words (takeover check pending)"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
  "updated": "2026-10-21T03:56:27+00:00",
