@@ -1667,3 +1667,11 @@ Verification pass 14 (worker-glmc4a — w1l released band, continued): 6 more pa
 - Novelty seeking without commitment: the Verweij et al. 2010 Novelty Seeking sentence matches the opened PMC2963646 page verbatim.
 - Physician, heal thyself: the Luke 4:23 KJV passage matches the opened Bible Gateway page verbatim.
 Session total: 85 distinct pages verified (83 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 15 (worker-glmc4a — w1l released band, final sweep): 5 more pages, ALL PASS.
+- Cultural dimensions theory Hofstede: the 6d-model description matches the opened geerthofstede.com page verbatim.
+- Moral situations research: the situationism passage matches the opened NDPR page (Lawrence Blum's 2003 review of Doris's Lack of Character) verbatim (page truncates at the clause boundary before the fourth clause "that evaluatively inconsistent dispositions may cohabit in a single personality."; source uses typographic quotes).
+- Questioning inherited beliefs: both Plato Apology passages (Jowett) match the opened MIT Classics page verbatim.
+- Reciprocity: the Gouldner 1960 p. 171 norm-of-reciprocity sentence matches the opened Mimesis Journals PDF verbatim (quote-of-a-quote).
+- Reflective thinking: both Dewey How We Think sentences match the opened Gutenberg #37423 text verbatim (the definition sentence is wrapped in the file's underscore italics markup — rendering, not wording).
+FINAL SESSION TALLY: 90 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l and the P128 principle — 88 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch), 1 typographic observation (Solidarity inner quote marks). All four open routed findings from the w1i QC dispositioned (Addams/Dewey shoe quote VERIFIED; Calling carrier — no open carrier located; Burns-1980 list — open carrier located and verified; Anxiety title-scope — owner decision, supporting facts noted). Scope: scoped quotation verification (verbatim quote-vs-opened-source, locator spot-checks), not full-page QC. All work pushed; no band files edited; no baton held.
