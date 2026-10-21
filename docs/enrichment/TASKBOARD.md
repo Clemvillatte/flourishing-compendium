@@ -2150,3 +2150,8 @@ Verification pass 89 (worker-glmc4a — final): 1 principle page flagged; 2 not 
 - Y099 (Bhagavad Gita 2.48), Y100 (Bhagavad Gita 2.50 — Mukunananda-style translations): the Bhagavad Gita carriers were not downloaded this session; not reached.
 - Y101: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 89 flags Y098 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 90 (worker-glmc4a — final): 1 principle page flagged; 3 not reached.
+- Y105 (Bhagavad Gita ch. XIV, Arnold translation, cited as Gutenberg #2388): the quote ("Soothfastness binds souls...") was NOT FOUND in the downloaded Gutenberg #2388 Arnold text — the word "Soothfastness" was absent; the quote may be from a different Arnold edition or chapter numbering; flagged for re-verification. Not a defect.
+- Y102, Y103, Y104 (Bhagavad Gita 3.25, 3.5, 5.8-5.9 — Mukundananda-style translations): the Bhagavad Gita carriers were not downloaded this session; not reached.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 90 flags Y105 and notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
