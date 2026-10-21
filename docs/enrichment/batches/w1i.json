@@ -41,7 +41,8 @@
   "Circadian science",
   "Cognitive distortions",
   "Contemplation (theoria)",
-  "Conversation as method"
+  "Conversation as method",
+  "Dignity"
  ],
  "in_progress": null,
  "flagged": {
@@ -61,7 +62,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:47:11+00:00",
+ "updated": "2026-10-21T06:47:33+00:00",
  "band_done": false,
  "new_concepts": [
   {
