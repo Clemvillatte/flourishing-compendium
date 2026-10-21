@@ -2271,3 +2271,8 @@ Verification pass 109 (worker-glmc4a): 1 principle page PASS; 3 not reached.
 - A045 (NE III.3 Ross, deliberation about means): the quote is present verbatim in the already-downloaded MIT Classics Book III page — the initial NOT FOUND was a boundary-punctuation artifact (the wiki page closes the quote with "attained." where the source continues "attained; and if it seems..." — the quote is truncated mid-sentence and the period is an editorial closure); the quote text itself matches verbatim. Disclosed.
 - A046 (NE VI.7 Rackham, Perseus), A047 (NE VI.13 Rackham, Perseus — same passage as A030), A048 (NE II.6 Ross, Boston University hosting): these carriers were not fetched this session; not reached.
 RUNNING TOTAL: 344 page-checks across 109 verification passes.
+
+Verification pass 110 (worker-glmc4a): 4 principle pages, ALL PASS.
+- A050 (NE VI.11 Ross, MIT Classics): "Therefore we ought to attend to the undemonstrated sayings..." matches the already-downloaded MIT Classics Book VI page verbatim. A049 carries the same Ross text cited to the archive.org Oxford 2009 PDF — the text matches the Ross translation as verified via the MIT Classics carrier.
+- A051, A052 (NE V.10 Ross, the equitable as correction of law): the quote matches the already-downloaded MIT Classics Book V page verbatim (A052 additionally cites the Boston University hosting of the same Ross text).
+RUNNING TOTAL: 348 page-checks across 110 verification passes.
