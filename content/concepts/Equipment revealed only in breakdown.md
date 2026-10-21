@@ -7,15 +7,35 @@ file: "Equipment revealed only in breakdown"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-“Equipment revealed only in breakdown” — Heidegger, Being and Time.
+In Being and Time, Heidegger's famous example is the hammer: in ordinary use it is invisible, nothing but a transparent means of hammering. The tool's being is revealed only when it fails. The Stanford Encyclopedia of Philosophy compresses the analysis into a few sentences:
+
+> "We also encounter the occurrent in cases of a breakdown in our ability to fluidly cope with the world—when, for instance, 'a tool turns out to be damaged' (SZ 73). In such cases, our attention is drawn to the material foundations of available equipment, and 'pure occurrentness announces itself' (SZ 73)." ([SEP, Martin Heidegger](https://plato.stanford.edu/entries/heidegger/))
+
+The lesson is broader than tools. "Most inanimate objects that we encounter in our everyday lives are disclosed in the first instance as available", and "normally we are swept along in purposively engaging with available entities, which show up precisely in terms of their practical significance". The equipmental world is a smooth transparency that becomes visible at the points of friction — the tool that turns out to be damaged. What a thing is, for the most part, hides inside what it does.
+
+### In the compendium
+
+- [[ST266 — The Hammer Breaks]] is this concept's story
+- [[P031 — Choose vocabularies by what they let you do]] and [[SP088 — Expect the excellent to be difficult and rare]] are its principle parallels
+- [[D178 — Use tools without belonging to them]] names the everyday absorbed relation that breakdown interrupts
+
+## Related concepts
+
+- [[Embodied cognition]] — skilled coping as the background of the analysis
+- [[Embedded cognition]] — the environment as scaffold for transparent skill
+- [[Dynamic systems theory]] — smooth coping read as organism-environment coupling
+
+## Field
+
+Existential phenomenology · Philosophy
 
 ## Sources
 
 - Heidegger, Being and Time
+- [Wrathall, Martin Heidegger, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/) — opened source; all quotes verbatim (SZ 73 references as given in SEP)
 
+## Cited in philosophy parallels
 [[P031 — Choose vocabularies by what they let you do]]
 [[ST266 — The Hammer Breaks]]
 [[SP088 — Expect the excellent to be difficult and rare]]
-## Cited in philosophy parallels
-
-- [[D178 — Use tools without belonging to them]]
+[[D178 — Use tools without belonging to them]]
