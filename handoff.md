@@ -30,11 +30,12 @@
   Doris blockquote re-sourced to the opened NDPR review. Also enriched: Relational ontology
   (Buber I and Thou, quotes verified vs opened text; Ubuntu/Interbeing/The relational self
   linked). Also enriched: Self-sufficiency (Aristotle NE I.8 Ross quotes verified vs opened MIT
-  Classics text; Eudaimonia linked). EXACT NEXT ACTION: `python3 scripts/enrich_state.py
-  w1l start "Situational strategies"` (next manifest item). Remaining manifest order:
-  Situational strategies, Skepticism answered by life, Skills training (DBT, CBT),
-  Social baseline, Social-network effects on behavior, Solidarity, Solitude (7 items;
-  w1l state 63/70 after Self-sufficiency).
+  Classics text; Eudaimonia linked) and Situational strategies (Duckworth, Gendler &
+  Gross 2016 quote verified vs the publisher's abstract page). EXACT NEXT ACTION:
+  `python3 scripts/enrich_state.py w1l start "Skepticism answered by life"` (next
+  manifest item). Remaining manifest order: Skepticism answered by life, Skills
+  training (DBT, CBT), Social baseline, Social-network effects on behavior,
+  Solidarity, Solitude (6 items; w1l state 65/70 after Situational strategies).
 
 - SUPERVISOR PASS (2026-10-21 06:49Z, supervisor-b7e3f9c2, T+60 REPORTING CHECKPOINT
   — reporting only, supervisor baton HELD, board healthy): (1) took over the stale p1zze
