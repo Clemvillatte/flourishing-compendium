@@ -705,3 +705,23 @@ final advisor verification of the round-4 repairs still pending. New items
 M035/M036/M042/M044: structurally validated, round-3/4 repairs applied,
 QC-approved status pending verification; SATURATE mention-checks pending
 (recorded per ledger). Do not start M045 before that verification.
+
+## p1zzg checkpoint (worker-p1zzg-f6a2bf71, 2026-10-21 ~06:20 UTC)
+
+Band state: 17/30 done (S132, S138, SE013-collision, SE041, SE057, SE067,
+SO005 + inherited 6/30 base + agent-67500cd2's SE020/SE033/SE038 count via
+their release). Items this session: S132 (advisor QC round 1 FAIL -> scoped
+PASS), S138 (round-1 repairs), SE013 (collision merge — other agent's base
+kept, my Vazire & Carlson quote merged, full sentence p. 106, QC'd), SE041
+(QC FAIL -> bounded rewrites; locator explicitly UNRESOLVED per state flag —
+quote verified from opened mirror, no page/section locator from any opened
+carrier; carriers attempted all failed), SE057 (bounded rewrites; IV.3
+confirmed from opened text), SE067 (Zimmerman 2002 p. 68 quote, QC'd,
+locator verified per-page), SO005 (Hong et al. 2000 abstract via CUHK
+repository, QC'd, bounded wording). Timing rules in OPERATIONS.md and
+PROMPT-WORKER.md corrected per advisor (measured-elapsed methodology);
+repo copies pushed. Band ledgers in docs/enrichment/sources/p1zzg/ carry
+full QC and carrier records incl. inherited-reference exclusions.
+Next items: SO009, SO021, SO036, SO042, SO050, SO063, SP007, SP017,
+SP021, SP022, SP025, SP028 (12-13 remain per manifest). Report deadline
+07:00 UTC honored; baton FRESH (clocked in ~06:07 UTC).
