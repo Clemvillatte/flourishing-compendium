@@ -7,8 +7,6 @@ file: "Analytical Psychology"
 tags: ["theory", "psych/clinical"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
-**Analytical Psychology** — Jung — the psyche balances conscious and unconscious, speaks through archetypes and individuates toward wholeness.
-
 Analytical psychology is Carl Jung's school of psychology; the term was introduced in 1913 to define his psychological theory. The EOLSS overview chapter gives its scope:
 
 > "The term 'analytical psychology,' introduced by C.G. Jung (Kesswil 1875–Küsnacht 1961) in 1913 to define his psychological theory, refers to a complex and elaborate theoretical system concerning the organization of psychic life as it can be perceived in the manifestations of individual psychic experiences and in collective cultural expressions." (C. Gullotta, [Analytical Psychology, UNESCO EOLSS sample chapter](https://www.eolss.net/sample-chapters/c04/E6-27-02-02.pdf))

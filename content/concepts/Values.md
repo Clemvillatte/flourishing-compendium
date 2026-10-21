@@ -7,9 +7,7 @@ file: "Values"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-Values — the chosen directions that give action worth. In ACT they are the compass distinct from goals; in philosophy they are the objects of valuation that traditions rank differently (pleasure, virtue, meaning, liberation).
-
-In acceptance and commitment therapy, values are defined as qualities of ongoing action rather than achievable outcomes. The metaphor the literature uses is a compass: a direction you keep moving toward, never a destination you reach.
+In acceptance and commitment therapy, values are defined as qualities of ongoing action rather than achievable outcomes. The metaphor the literature uses is a compass: values are directions of travel, not destinations.
 
 > "Values are defined as chosen immediate qualities of ongoing patterns of action that are verbally established as reinforcers (Hayes et al., 1999)." (Zhang, Leeming, Smith, Chung, Hagger & Hayes, [ACT for Health Behavior Change](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769281/), Frontiers in Psychology 2018)
 
@@ -21,7 +19,7 @@ The same article separates values from goals with an example: "investing in fami
 
 - [[AF046 — Know that tolerance is not the goal; valued living is]] — ACT's acceptance skills serve chosen values
 - [[BE012 — Understand that behaviour is ultimately about values — action should serve what matters]] — committed action is designed to further values
-- [[BE062 — Engage in meaning-driven behaviour — act on values]] — a 2026 systematic review of 50 randomised trials on what values work changes
+- [[BE062 — Engage in meaning-driven behaviour — act on values]] — a values-intervention review principle
 - [[E104 — Practise the eternal recurrence]] — Nietzsche's test of which life one would endorse living again
 - [[P080 — Value is what fulfills conditions of flourishing]] — Dewey's valuing, tested by consequences
 - [[PP068 — Connect practices to values]] — self-concordance of goals with core values

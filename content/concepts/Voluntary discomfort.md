@@ -27,8 +27,8 @@ The letter's reasoning is timing: "It is precisely in times of immunity from car
 ## Related concepts
 
 - [[Premeditatio malorum]] — the sibling Stoic exercise: rehearsing loss before it happens
-- [[Hormetic exposure research]] — the modern research frame for dosed stressors
-- [[Desirable difficulties]] — learning science on difficulty that improves retention
+- [[Hormetic exposure research]] — the compendium's page on hormesis applies it to voluntary discomfort itself
+- [[Desirable difficulties]] — difficulty that produces durable learning gains, retrieval practice as the paradigm case
 
 ## Sources
 

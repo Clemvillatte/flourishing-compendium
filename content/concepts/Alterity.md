@@ -27,9 +27,9 @@ The Stanford article's gloss: Levinas aligns transcendence "with exteriority, in
 
 ## Related concepts
 
-- [[Intersubjectivity]] — the meeting of subjects, where alterity is respected or erased
-- [[Empathy]] — feeling into another, bounded by what remains other
-- [[Confirming the other]] — the relational stance that takes alterity seriously
+- [[Intersubjectivity]] — relations between subjects
+- [[Empathy]] — feeling into another person
+- [[Confirming the other]] — a related relational concept
 
 ## Sources
 
