@@ -20,10 +20,10 @@ The proposition's surrounding argument says of wonder that the mind "is determin
 
 > "the pleasure which arises from thinking too little of a man is called disdain." (Ethics III, P26 note, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-Elwes' names are veneration and disdain; contempt appears in the same region, with derision springing "from contempt of a thing which we hate or fear, and Scorn from contempt of folly, as veneration from wonder at prudence" (III, P52 note). Both are affects, which for Spinoza means they are to be governed by reason rather than obeyed. The compendium's exercise drawn from the definitions: as a practical exercise, identify the particular ability you admire or the judgment behind your dismissal, and ask what you actually know about the person.
+Elwes' names are veneration and disdain; contempt appears in the same region, with derision springing "from contempt of a thing which we hate or fear, and Scorn from contempt of folly, as veneration from wonder at prudence" (III, P52 note). The page's practical exercise, drawn from the definitions rather than an implication Spinoza states here: identify the particular ability you admire or the judgment behind your dismissal, and ask what you actually know about the person.
 
 **Plain words**
-When someone's competence stops you, that stopping is veneration: wonder at what they can do. When you feel good writing someone off, that feeling is disdain: pleasure at thinking too little of them. Neither is a verdict; both are affects, and the exercise either one suggests is the same: ask what you actually know about the person.
+When someone's skill strikes you as far beyond your own, Spinoza calls that wonder veneration. When you feel good writing someone off, that feeling is disdain: pleasure at thinking too little of them. Neither is a verdict; both are affects, and the exercise either one suggests is the same: ask what you actually know about the person.
 
 *For example:* A team has two experts, one the members venerate, one they quietly despise. Ask of each: what specifically does this one do well or badly?
 

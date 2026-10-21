@@ -16,12 +16,14 @@ The Emendation lists four modes of perception: "Perception arising from hearsay 
 
 > "Lastly, there is the perception arising when a thing is perceived solely through its essence, or through the knowledge of its proximate cause." (On the Improvement of the Understanding, §19, [Elwes](https://www.gutenberg.org/ebooks/1016))
 
-In Ethics II, P40, Note II, Spinoza instead names three kinds of knowledge: ordinary experience and signs belong to the first kind, reason to the second, intuition to the third. His example of the difference is the fourth proportional: with one, two, three given, "everyone can see that the fourth proportional is six", and this "is much clearer, because we infer the fourth number from an intuitive grasping of the ratio, which the first bears to the second". In the Emendation he illustrates the modes with his own case: "By hearsay I know the day of my birth, my parentage" (§20). The compendium's exercise: for a given belief, identify how it was acquired, and let that determine the trust it earns.
+In Ethics II, P40, Note II, Spinoza instead names three kinds of knowledge: ordinary experience and signs belong to the first kind, reason to the second, intuition to the third. The compendium's exercise: for a given belief, identify how it was acquired, and let that determine the trust it earns.
 
 **Plain words**
-Ask how a belief arrived. If somebody told you and you never checked, it is the hearsay mode. If it comes from your own unsorted experience, it is the second mode. If it comes from an inference, note whether the inference is adequate. And some things you simply see, the way you see that one, two, three gives six. The practical use is diagnosis: how a belief was acquired tells you what trust it has earned.
+Ask how a belief arrived. If somebody told you and you never checked, it is the hearsay mode. If it comes from your own unsorted experience, it is the second mode.
 
-*For example:* Spinoza's own illustrations: "By hearsay I know the day of my birth, my parentage" (Emendation §20); and the fourth proportional, where with one, two, three given, seeing that the fourth is six differs from applying the rule.
+If it comes from an inference, note whether the inference is adequate. And some things you simply see, the way you see that one, two, three gives six. The practical use is diagnosis: how a belief was acquired tells you what trust it has earned.
+
+*For example:* Spinoza's own illustrations: the fourth proportional, where with one, two, three given, "everyone can see that the fourth proportional is six", and this "is much clearer, because we infer the fourth number from an intuitive grasping of the ratio, which the first bears to the second" (Ethics II, P40, Note II); and "By hearsay I know the day of my birth, my parentage" (Emendation §20).
 
 ## Sources
 

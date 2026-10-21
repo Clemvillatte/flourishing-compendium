@@ -21,7 +21,7 @@ No external mark of truth is needed: "for the certitude of truth, no further sig
 **Plain words**
 You can know an answer before explaining how you know it. Spinoza calls method the work of reflecting on that knowledge. Start with something you understand and examine how that understanding differs from a guess.
 
-*For example:* Imagined: someone knows at a glance that their change is wrong. Reflecting on how that grasp differs from adding the numbers up is, in miniature, the work the treatise calls method.
+*For example:* Imagined: a learner works through and checks a calculation, then explains the reasoning used to establish the result.
 
 ## Sources
 

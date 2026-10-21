@@ -20,7 +20,7 @@ The mechanism, in his words: "The human mind is readily swayed this way or that 
 
 > "Superstition, then, is engendered, preserved, and fostered by fear." (Theological-Political Treatise, Preface, [Elwes](https://www.gutenberg.org/ebooks/989))
 
-The political use follows: "The mob has no ruler more potent than superstition" (Curtius, quoted in the preface), and prophets are most formidable "precisely at those times when the state is in most peril". Spinoza's own example is Alexander, who consulted seers when he first feared fortune, stopped consulting prophets after conquering Darius, and "once more turned to superstition" when frightened by reverses. The compendium's exercise drawn from the account: when an uncertain outcome frightens you, ask whether you are accepting an explanation because you have evidence for it or because it promises reassurance. Name the feared outcome, then examine what supports the explanation.
+The political use follows: "The mob has no ruler more potent than superstition" (Curtius, quoted in the preface), and prophets are most formidable "precisely at those times when the state is in most peril". The compendium's exercise drawn from the account: when an uncertain outcome frightens you, ask whether you are accepting an explanation because you have evidence for it or because it promises reassurance. Name the feared outcome, then examine what supports the explanation.
 
 **Plain words**
 Spinoza's account: fear sends people looking for an explanation, and in that state no plan is too futile to adopt. The diagnostic question the account suggests: when you catch yourself clinging to a story, ask what you are afraid of, and whether the story's support is evidence or reassurance.
