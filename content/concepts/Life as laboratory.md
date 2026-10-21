@@ -13,7 +13,7 @@ The compendium label "Life as laboratory" draws here on Addams's description of 
 
 Addams writes that she has "always objected to the phrase 'sociological laboratory' applied to us, because Settlements should be something much more human and spontaneous than such a phrase connotes" ([Addams, ch. XIII, "Public Activities and Investigations," Gutenberg #1325](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
 
-The stance is sharpened by her account of "the snare of preparation" — Tolstoy's phrase, which she adopts, for the habit of endless preparation that keeps young people "in a curious inactivity at the very period of life when they are longing to construct the world anew" ([Addams, ch. IV, "The Snare of Preparation," pp. 65–88, Gutenberg #1325](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)). Against that deferral she reports her own turning point: the period of mere passive receptivity had come to an end, and she "had at last finished with the ever-lasting 'preparation for life,' however ill-prepared I might be" ([Addams, ch. IV, Gutenberg #1325](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
+Addams attributes "the snare of preparation" to Tolstoy and describes it as keeping young people "in a curious inactivity at the very period of life when they are longing to construct the world anew" ([Addams, chapter IV](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)). Against that deferral she reports her own turning point: the period of mere passive receptivity had come to an end, and she "had at last finished with the ever-lasting 'preparation for life,' however ill-prepared I might be" ([Addams, ch. IV, Gutenberg #1325](https://www.gutenberg.org/cache/epub/1325/pg1325.txt)).
 
 ## Sources
 
