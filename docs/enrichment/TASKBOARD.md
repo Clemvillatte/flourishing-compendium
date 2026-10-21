@@ -1713,3 +1713,10 @@ Verification pass 21 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D044: the Daodejing 15 muddy-water quote matches verbatim.
 - D062: all three Daodejing 29 quotes match verbatim.
 FINAL SESSION TOTAL: 111 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 109 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). Four open routed findings dispositioned. All work pushed; no band files or queues touched; no baton held.
+
+Verification pass 22 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS.
+- D035: both Daodejing 80 quotes match the opened Gutenberg #216 text verbatim.
+- D041: both Classic of Purity quotes match the opened sacred-texts page verbatim (curl was Cloudflare-blocked; the fetch tool opened the page), and the Daodejing 45 quote matches verbatim.
+- D043: the Daodejing 16 quote matches the opened Gutenberg #216 text verbatim (the two ellipses correctly mark omitted intervening sentences and the verse number).
+- D047: the Zhuangzi ch. 6 sitting-and-forgetting passage matches the opened METIS Legge PDF verbatim.
+FINAL SESSION TOTAL: 115 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 113 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). Four open routed findings dispositioned. All work pushed; no band files or queues touched; no baton held.
