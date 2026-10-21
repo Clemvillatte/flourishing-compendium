@@ -33,8 +33,6 @@ The study used self-reports and observer ratings of working conditions across hu
 
 ## Cited in psychology parallels
 
-- ## Cited in philosophy parallels
-
 **Job demands-resources theory** — Demerouti, Bakker (2001 paper cited above).
 ## Field
 Affect · Psychological science

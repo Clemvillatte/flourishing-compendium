@@ -53,3 +53,13 @@
   lists). All three validated ok with --fast-track against their
   pre-enrichment baselines (07e5344^ / 2c2f007^ / 941ce67^) after
   repair. Re-verification pending next advisor round.
+
+## QC round 2 — w1m fresh items CLOSED (advisor, 2026-10-21)
+
+- Round-2 verdict: all three scoped content PASS after final mechanical
+  repairs (Sub specie URL locators + gloss quotes; JD-R malformed
+  placeholder removed; Steelmanning redundant opening dropped, trailing
+  practice-line sentence removed). Fast-track eligibility established
+  from FULL neighbour output (6/8/7 total connections). All validated ok
+  --fast-track vs pre-enrichment baselines. State flags set RESOLVED
+  (scoped PASS, inherited material and whole-band certification excluded).

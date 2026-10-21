@@ -7,7 +7,7 @@ file: "Sub specie aeternitatis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-"Under the aspect of eternity" — the English rendering of the Latin phrase in Spinoza's Ethics. A related Latin formulation appears at II, Prop. XLIV, Corollary II, where it is reason that perceives things this way. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
+Under the aspect of eternity is the English rendering of the Latin phrase in Spinoza's Ethics. A related Latin formulation appears at II, Prop. XLIV, Corollary II, where it is reason that perceives things this way. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 > "It is in the nature of reason to perceive things under a certain form of eternity (sub quâdam æternitatis specie)." (Ethics II, Prop. XLIV, Corollary II, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
@@ -15,7 +15,7 @@ The note to Ethics V, Prop. XXIX draws the contrast the phrase turns on:
 
 > "Things are conceived by us as actual in two ways; either as existing in relation to a given time and place, or as contained in God and following from the necessity of the divine nature." (Ethics V, Prop. XXIX, Note, same translation and source)
 
-Spinoza associates this second way of regarding something as true or real with understanding it under the form of eternity. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)) The next proposition states what this knowledge is: "Our mind, in so far as it knows itself and the body under the form of eternity, has to that extent necessarily a knowledge of God, and knows that it is in God, and is conceived through God." (Ethics V, Prop. XXX, same translation and source)
+Spinoza associates this second way of regarding something as true or real with understanding it under the form of eternity. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)) The next proposition states what this knowledge is: "Our mind, in so far as it knows itself and the body under the form of eternity, has to that extent necessarily a knowledge of God, and knows that it is in God, and is conceived through God." (Ethics V, Prop. XXX, [Elwes translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 ### In the compendium
 
