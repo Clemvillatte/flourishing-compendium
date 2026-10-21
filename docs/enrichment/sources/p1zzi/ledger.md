@@ -23,3 +23,6 @@
 ## PP052 — constraints
 - Opened: Stokes 2008 abstract (J Creative Behav 42(4), via CiNii); Stokes 2006 book description (OU library record, quote from publisher blurb); Theel & Sydow 2024 excerpt quoting Acar et al. 2019 p.97. Acar 2019 abstract page did not return text -> inverted-U attributed via secondary source, flagged on page.
 - Locator in file says "Stokes, 2006" — the paper is Stokes 2008 (JCB); book is 2006. Both cited on page. Seed "moderate constraints enhance more than complete freedom" supported only via inverted-U secondary quote.
+## PP058 — curiosity
+- Opened: Kashdan et al. 2009 abstract (PMID 20160913); Swan & Carmelli 1996 abstract (PMID 8893314).
+- Not opened: Kashdan et al. 2018 (five-dimensional curiosity scale) — locator cited it, dropped. Seed claims "relationship quality" supported only as correlation with positive social relations; "predicts engagement and meaning" -> "purpose in life" correlate. Later work finds CEI-II may be unidimensional (stretching/embracing r ~.85-1.0 per excerpts), not on page.
