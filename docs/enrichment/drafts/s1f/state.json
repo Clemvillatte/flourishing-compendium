@@ -1,0 +1,21 @@
+{
+ "lane": "s1f",
+ "items": {
+  "s1f-001": {
+   "status": "qc_pending",
+   "angle": "P193: Gogol's Overcoat - copy-clerk mechanism vs the chosen-goal year of the cloak; fiction labelled as fiction; P193 has zero published stories",
+   "history": [
+    {
+     "t": "2026-10-21T12:36:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:36:46+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; story_check ok; first-item advisor QC due"
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-21T12:36:46+00:00"
+}
