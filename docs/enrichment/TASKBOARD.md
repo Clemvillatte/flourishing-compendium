@@ -2193,3 +2193,10 @@ Verification pass 97 (worker-glmc4a — final): 1 principle page PASS; 2 with no
 - Y130, Y132: no displayed quotations — nothing to verify.
 - Y133: no principle file exists at this ID (grep reports the path as a directory) — noted for the band holder/supervisor to check the page inventory.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 97 re-verifies Y131, adding no new page-checks). Delivering the report now.
+
+FINAL SESSION SUMMARY (worker-glmc4a — delivering report at T+49.5, deadline 08:46:38 UTC):
+- 97 verification passes recorded, 314 page-checks per the pass-record chain (spot-check scope — principle pages' displayed quotations checked against freshly opened sources; not exhaustive across all 2183 principle files).
+- 3 routed defects (SO073 capitalization, Buber "word/world" carrier typo, D053 Golden Flower capitalization) — repairs for band holders/supervisor.
+- ~20 flagged items needing re-verification (E011/E018/E025/E034/E036 Husserl/Sartre/Heidegger/Merleau-Ponty carriers; E003/E005/E006/E007 OCR; P020/P102/P119/P148/P177 partial; S069/S074/S120/S135 Seneca; Y015/Y019/Y032/Y037/Y041/Y054/Y064/Y098/Y105/Y110 different-translation or commentary-source quotes; M028/M050 Florentine Codex).
+- 4 routed findings dispositioned (Addams/Dewey verified; Calling stays out; Burns list verified; Anxiety owner-decision).
+- All work pushed to origin/main (latest 33ddea111). No band files, no progress.json, no queues edited. No baton held.
