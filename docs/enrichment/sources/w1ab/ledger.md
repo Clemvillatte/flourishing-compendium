@@ -91,3 +91,27 @@
   standalone blockquote; vagal-tone sentence quoted as positive-emotions research).
 - Marmot and Meyer: holds recorded in concept-namespace-audit.md (Worker flags) with tentative
   identity for Marmot and no guess for Meyer.
+
+## Measure (mesure) (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f (takeover)
+- Baseline: 4b2bebc4f (pre-enrichment; seed line + Cited-in E058 only). Validated
+  `--fast-track --base 4b2bebc4f`: ok (warn: 1 Related line, fast-track scope).
+- Carrier opened BOTH ways: prompted fetch + UNPROMPTED raw download of
+  https://www.thetedkarchive.com/library/albert-camus-the-rebel (739KB html); all six quoted
+  passages confirmed verbatim against the raw text (limit-beyond-which-you-shall-not-go;
+  measure-by-which-to-judge; moderation-not-opposite-of-rebellion; nihilist-neglects-frontier;
+  thought-that-recognizes-limits; Heraclitus-Nemesis). Raw text does NOT name a translator
+  (no 'Bower' anywhere) — the 'trans. Bower' credit inherited from E058 was DROPPED per
+  advisor round 1. Section structure confirmed from the raw text: Part Five contains
+  'Moderation and Excess'.
+- QC round 1 (advisor, first-item cadence): FAIL -> repairs applied: opening narrowed to
+  what the opened text establishes ('the French term' + L'Homme révolté title removed);
+  'Camus denies that measure is the quiet middle path of the prudent' removed (E058's
+  wording is not evidence); revolutionary-thought scope restored ('the mind that wants to
+  stay alive' broadening removed); 'The logos common to all' Related row removed (Heraclitus
+  mention does not establish a logos connection); longer quotes moved to standalone
+  blockquotes with inline source links; 'all quotes verbatim' claim removed from the public
+  Sources row (kept here); 'Hubris and nemesis' row kept after reading that page's body
+  (Nemesis as punisher of hubris, same figure Camus names).
+- Note: the principle-queue question was re-verified with the correct manifest key
+  ('principles'): NO principle-band manifest items remain anywhere — concept work is the
+  only worker-available lane.
