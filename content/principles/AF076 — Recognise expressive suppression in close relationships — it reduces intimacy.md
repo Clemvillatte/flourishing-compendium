@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 The main experiments used strangers, not close pairs. Butler and colleagues had pairs of unacquainted women discuss an upsetting topic while one member either suppressed her emotional expression, responded naturally, or reappraised. "Suppression alone disrupted communication and magnified blood pressure responses in the suppressors' partners", and in a second study it "also reduced rapport and inhibited relationship formation" ([Butler et al., 2003](https://pubmed.ncbi.nlm.nih.gov/12899316/)).
 
-For close relationships there is separate work on couples. When dating partners suppressed their emotions while discussing a sacrifice, daily increases in suppression went with lower emotional well-being and relationship quality for both partners, and three months later suppression predicted "decreases in relationship satisfaction and increases in thoughts about breaking up" ([Impett et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22389432/)).
+Separate work followed dating couples. In a laboratory discussion of sacrifices, suppression was associated with emotional costs for the partner describing a sacrifice. In a 14-day diary study, increases in suppression during daily sacrifices went with lower well-being and relationship quality for both partners. Suppression also predicted "decreases in relationship satisfaction and increases in thoughts about breaking up" three months later ([Impett et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22389432/)). These associations do not establish what would happen if every couple disclosed more.
 
 > [...] using suppression is associated with worse interpersonal functioning.
 >
@@ -24,7 +24,7 @@ The costs may depend on culture. Butler, Lee and Gross found that the negative s
 
 (Butler et al., 2003; Impett et al., 2012; Gross & John, 2003.)
 
-**Plain words** Hiding a feeling from someone close can look like protecting them. The studies find it often does the opposite: the conversation gets worse and the other person's body shows stress too, even though they were told nothing. A feeling that is shared, calmly and at a sensible moment, tends to cost less than one held in.
+**Plain words** Keeping feelings hidden can have interpersonal costs, but the evidence differs across strangers, couples and cultural settings. The blood-pressure experiment was not a study of intimate partners. These findings invite reflection on how you communicate; they do not require sharing every feeling or establish that disclosure is always better.
 
 For example (imagined): you have had a bad week and answer "fine" when your partner asks. They sense something is off and cannot tell what. Saying "I had a rough week and I'm tired" gives them something to respond to.
 

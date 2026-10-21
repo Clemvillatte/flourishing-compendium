@@ -67,3 +67,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Replaced the prior-reputation example with an imagined explanation whose handling of evidence and listeners' concerns displays character through the speech itself.
 - Plain words now stays with this particular source account rather than claiming that character simply outweighs argument.
 - Split the bundled Sources row into direct links to both opened books. Protected sections and inherited parallels unchanged.
+
+## AF076
+
+- Search: Butler expressive suppression relationships. Opened abstracts for [Butler et al. 2003](https://pubmed.ncbi.nlm.nih.gov/12899316/), [Impett et al. 2012](https://pubmed.ncbi.nlm.nih.gov/22389432/), [Gross and John 2003](https://pubmed.ncbi.nlm.nih.gov/12916575/) and [Butler et al. 2007](https://pubmed.ncbi.nlm.nih.gov/17352561/).
+- Checked all quoted fragments. Distinguished the randomised stranger experiments from the couples laboratory/diary/follow-up associations.
+- Removed the unsupported general claim that calmly sharing a feeling costs less than withholding it. Plain words preserves the cultural and design qualifications rather than transferring a stranger blood-pressure result directly to intimacy.
+- The imagined conversation is illustration, not a disclosure intervention tested in those studies. Protected sections and inherited parallels preserved.
