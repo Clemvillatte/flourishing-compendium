@@ -49,11 +49,11 @@
   "S022": "Reopened for QC: QC: dread claim, dispreferred-indifferent classification, example outcome",
   "S032": "Reopened for QC: QC: empirical assurances, example concreteness, attribution",
   "S024": "Reopened for QC: QC: fears triad, citation labels",
-  "R102": "QC round 2 applied after done: pagination/publisher claims removed, Plain words triad removed, example generalized; ledger updated",
-  "R103": "QC round 2 applied after done: Rawls attribution, pagination claims removed, outcome claim removed; ledger updated"
+  "R102": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 applied after done: pagination/publisher claims removed, Plain words triad removed, example generalized; ledger updated]",
+  "R103": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC round 2 applied after done: Rawls attribution, pagination claims removed, outcome claim removed; ledger updated]"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T18:00:00+00:00",
+ "updated": "2026-10-21T16:20:00+00:00",
  "band_done": true
 }

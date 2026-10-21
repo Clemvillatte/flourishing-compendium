@@ -51,7 +51,7 @@
  ],
  "in_progress": "One koan",
  "flagged": {
-  "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
+  "Klesha transmuted into wisdom": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md]",
   "Latent learning theory": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)]",
   "Leadership research": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: QC correction: milestone advisor round (Cited-in restore, abstract locator, source-scoped conclusion)]",
   "Learned optimism": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: QC correction: advisor round 3 (locators, Cited-in restores, scoping)]",
@@ -78,7 +78,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:10:00+00:00",
+ "updated": "2026-10-21T16:20:00+00:00",
  "band_done": false,
  "new_concepts": [
   {
