@@ -26,6 +26,9 @@ A bounded exercise, offered as this page's application rather than a report of B
 **For example**
 An illustration of attending to change rather than a claim about what that attention achieves: you stop narrating a mood and simply feel it changing, blending, moving. Stepping back into the stream from the bank where the words were standing.
 
+## Stories
+- [[ST353 — The Four Clock Strokes Bergson Had Not Counted|353. The Four Clock Strokes Bergson Had Not Counted]]
+
 ## Sources
 
 - [Henri Bergson, An Introduction to Metaphysics, trans. T. E. Hulme (Putnam, 1912; PDF)](https://dl1.cuni.cz/pluginfile.php/633796/mod_resource/content/1/348886101-Bergson-Henri-An-Introduction-to-Metaphysics-Putnam-1912-pdf.pdf) — quotations verified against the scanned pages (printed pp. 7, 8, 11). The phrase "direct vision of the mind by the mind," associated with Bergson's account of intuition, was not verified in the consulted Hulme edition and is not quoted here.

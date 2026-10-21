@@ -172,6 +172,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST121 — The Creative Advance]]
     - [[ST122 — Augustine's Threefold Present]]
     - [[ST123 — Louise Learns the Language]]
+    - [[ST353 — The Four Clock Strokes Bergson Had Not Counted]]
   - [[ST-S03.07 — III.7 Growth, Education, Art, and Experience]]
     - [[ST124 — Dewey Finds Art in the Everyday]]
     - [[ST125 — Maslow and the Peak Experiences]]

@@ -16,7 +16,7 @@ Legge's version gives the bird ten steps for a mouthful of food and thirty for a
 
 > "Though its spirit would (there) enjoy a royal abundance, it does not think (such confinement) good." ([Zhuangzi 3 §4, Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-There is no capture or escape in this short passage, and no keeper offers the bird a bargain ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Its whole movement is a comparison between a demanding life outside and comfortable confinement that the bird does not seek ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+There is no capture or escape in this short passage, and no keeper offers the bird a bargain ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Its whole movement is a comparison between a demanding life outside and confinement that the bird does not seek ([Zhuangzi 3 §4](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
 
 The compendium reads the contrast as a question about whose standard of benefit is being used. An arrangement can look generous to the person designing it and still fail to suit the life expected to fit inside it. In an essay, the pheasant can help question an ideal of success that offers more provision while leaving less room for a person's way of living. This is an application of the comparison, not a claim that the text describes modern work or proves that every demand for change is harmful.
 
