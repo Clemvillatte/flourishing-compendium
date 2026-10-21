@@ -548,6 +548,11 @@
      "t": "2026-10-21T11:34:49+00:00",
      "to": "qc_pending",
      "note": "advisor round 1 repairs applied; final verification pending"
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -563,6 +568,11 @@
      "t": "2026-10-21T11:39:36+00:00",
      "to": "qc_pending",
      "note": ""
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -578,6 +588,11 @@
      "t": "2026-10-21T11:56:11+00:00",
      "to": "qc_pending",
      "note": ""
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   },
@@ -603,9 +618,14 @@
      "t": "2026-10-21T12:25:38+00:00",
      "to": "qc_pending",
      "note": "advisor round-1 FAIL repairs applied (opening, verbatim fixes, speckled-axe rebuild, unsupported precision removed, MN61 boundary stated); body-quote audit 20/20 + 4 table strings manual-check; checker 0 errors; stays qc_pending for supervisor disposition (ST184 duplication + off-slice scope)"
+    },
+    {
+     "t": "2026-10-21T12:27:50+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes re-verified against opened sources this session"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:26:23+00:00"
+ "updated": "2026-10-21T12:27:50+00:00"
 }

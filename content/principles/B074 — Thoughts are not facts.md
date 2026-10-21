@@ -34,6 +34,9 @@ The shift has a feel: you were the thought, and then you are the one watching it
 - [MN 20 (Vitakkasanthana Sutta), trans. Thanissaro Bhikkhu (accesstoinsight)](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)
 - [Bernstein et al. 2015, Decentering and Related Constructs (PubMed)](https://pubmed.ncbi.nlm.nih.gov/26385999/)
 
+## Stories
+- [[ST389 — The Ladder for Unskillful Thoughts|389. The Ladder for Unskillful Thoughts]]
+
 ## Psychology parallels
 
 - **[[Decentering|Decentering]]**, viewing thoughts as mental events (Bernstein et al., 2015)

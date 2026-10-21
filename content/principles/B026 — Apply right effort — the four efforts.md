@@ -37,7 +37,7 @@ Choose the target of your effort first. Ask whether a mental quality is harmful 
 - [[K185 — The two-minute rule|K185 The two-minute rule]]
 ## Stories
 - [[ST376 — Meghiya Finds the Right Grove and the Wrong Thoughts|376. Meghiya Finds the Right Grove and the Wrong Thoughts]]
-
+- [[ST391 — Backsliding into Abundance|391. Backsliding into Abundance]]
 ## Psychology parallels
 
 - **Stimulus control and reinforcement**, arranging the environment and rewarding desired responses (Duckworth et al., 2016, situational strategies)
