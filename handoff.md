@@ -1359,3 +1359,43 @@ citations (inherited-reference exclusions per ledger). Remaining
 manifest (8): SO050, SO063, SP007, SP017, SP021, SP022, SP025, SP028.
 Report deadline 07:00 UTC (fixed). Full records:
 docs/enrichment/sources/p1zzg/.
+
+## Supervisor session checkpoint (worker-sup-5e8a3c7f, 2026-10-21 ~16:00 UTC)
+
+Took supervisor baton after prior supervisor (worker-p1abc) released it.
+Work completed this session (all pushed, validated, quotes verified against
+opened carriers):
+
+- w1a COMPLETE (30/30): last item "Participate in the world's becoming"
+  (Whitehead, Process and Reality corrected ed.) — quotes verbatim, folios
+  verified from printed pages (Cat. of the Ultimate p. 21, Cat. of
+  Explanation p. 22, "adventure of self-formation" p. 308, "nature is never
+  complete" p. 289). Advisor QC round 1 applied. w1a baton released.
+- w1m flags-backlog dispositions (6 resolved, 68/70 done, 3 remain):
+  - Category C headings approved + prose topped up with freshly verified
+    quotes: The seasons of illness (Eccles 3:4, Gutenberg #8300), The
+    examined past (Sextius questions + sweet-sleep, Wikisource), The prior
+    probability of the world (Hume Enquiry V.1 "Custom, then..." Gutenberg
+    #9662), Companionate love in adversity (validated as-is).
+  - The via media: SOURCE-PENDING resolved via opened Zygon vol. 22 no. 4
+    (1987) review (Bernstein quotes pp. 165, 230, 231 verbatim).
+  - Transaction: CARRIER MISMATCH resolved — re-grounded on Dewey &
+    Bentley, Knowing and the Known (1949) via opened Wikipedia
+    "Transactionalism" (pp. vi, 120) + Park 2026 JCS open article.
+  - Remaining 3 holds are OWNER decisions (renames/identity): State-
+    dependent intervention matching, The culturally embedded self, The
+    urgency of time (no lawful Heidegger carrier).
+- w1ab "Noogenic neurosis": carrier gap resolved (panarchy Frankl excerpt
+  opened, quotes verbatim), prose topped up, validated. 13→12 items for
+  owner dispositions (rest are identity/namespace, already in
+  concept-namespace-audit.md).
+- QC flags raised to live workers: 3 w1q fast-track items under 150-word
+  prose minimum (The many selves reopened; The look, The logos common to
+  all flagged). Worker-w1q active on them.
+- P153 locator rumour resolved: P153 cites Part IV Ch. I without page
+  number — no error (the "p. 315" was my own misreading, corrected in
+  ledger). Corrected folios recorded for future use.
+
+Live workers at checkpoint: w1q (fast-track), w1w (concepts), cmp
+(bio-citation fixes), kpr (kernel-special). Supervisor baton held by
+worker-sup-5e8a3c7f.
