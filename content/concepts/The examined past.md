@@ -23,10 +23,10 @@ He reports following the custom himself: when the lamp is taken out of his sight
 
 ## Related concepts
 
-- [[The examined life]] — the Socratic demand the daily review turns into a habit
+- [[The examined life]]
 - [[Daily self-examination]] — the Senecan evening review appears there as the Stoic counterpart of Zengzi's daily check
-- [[Mood-congruent memory]] — a bias to keep in mind while reviewing, since what the review finds depends on what memory still holds
-- [[Premeditatio malorum]] — the forward-looking Stoic exercise this backward-looking review mirrors
+- [[Mood-congruent memory]]
+- [[Premeditatio malorum]]
 
 ## Sources
 

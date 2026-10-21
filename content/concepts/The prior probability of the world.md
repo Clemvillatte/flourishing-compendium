@@ -11,9 +11,9 @@ In Section X, Part I of the [Enquiry](https://www.gutenberg.org/ebooks/9662), Hu
 
 > "All probability, then, supposes an opposition of experiments and observations, where the one side is found to overbalance the other, and to produce a degree of evidence, proportioned to the superiority. A hundred instances or experiments on one side, and fifty on another, afford a doubtful expectation of any event; though a hundred uniform experiments, with only one that is contradictory, reasonably beget a pretty strong degree of assurance." (Hume, Enquiry Concerning Human Understanding, X.1, [Project Gutenberg #9662](https://www.gutenberg.org/ebooks/9662))
 
-Hume describes custom as making us expect future events to resemble past ones ([Enquiry](https://www.gutenberg.org/ebooks/9662)). His rule for testimony shows the idea doing its work: a report is credited or rejected according to how the balance of past experience stands against the event it reports. As he puts it in the same section, "no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish" (X.I).
+In Section V, Part I, Hume attributes our expectation that future events will resemble past ones to custom ([Enquiry](https://www.gutenberg.org/ebooks/9662)). His discussion of miracles in Section X weighs the evidence supplied by testimony against experience concerning the reported event, and states the balance as a rule:
 
-The title names the world itself as the tally: before any new observation, experience has already cast its votes, and the votes are unequal. A wise reader of events starts from that standing score rather than from the latest report.
+> "no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish" (Hume, Enquiry Concerning Human Understanding, X.I, [Project Gutenberg #9662](https://www.gutenberg.org/ebooks/9662))
 
 ### In the compendium
 
@@ -26,8 +26,8 @@ The title names the world itself as the tally: before any new observation, exper
 ## Related concepts
 
 - [[The problem of induction]] — what justifies expecting the tally to keep holding
-- [[Base rate neglect / representativeness heuristic]] — the modern name for ignoring the background tally when judging a single case
-- [[Bayesian brain]] — perception and belief modelled as prior probability meeting new evidence
+- [[Base rate neglect / representativeness heuristic]]
+- [[Bayesian brain]]
 
 ## Sources
 
