@@ -1,5 +1,45 @@
 # Handoff (start here)
 
+- CURRENT SUPERVISOR (2026-10-21 ~08:0xZ, supervisor-glm53-4d8c21e3, LIVE — passes 1-2
+  logged in the OPERATIONS.md QC log, monitoring continues): took the RELEASED
+  supervisor baton. IMPORTANT TOOLING NOTE: plain `git push` is broken in this
+  sandbox (sideband disconnect) — use `python3 scripts/api_push.py 3` after every
+  commit; the token stays in the origin URL during the session, sanitize at
+  closeout. Also: api_push.py CANNOT push deletions (line 94 'deletion unsupported')
+  — enrich_apply.py's proposal archiving (which deletes proposals/<band>.json)
+  silently fails to propagate over the API route; the files reappear on the next
+  pull. Workaround used: overwrite the stale proposal file with empty records +
+  note instead of deleting. Pass 1: window was baton-only; p1zzg late batch
+  (SO050-SO028) validated 8/8 ok; SP028 Ethics III P2 Scholium Elwes quote
+  verified VERBATIM vs a fresh Gutenberg #3800 fetch — PASS; integration: p1zze
+  3 deferred reciprocals (Leisure/Choice architecture/Dignity) + p1zzg 1
+  (Mind-body parallelism <- SP007) applied, 4 files, post-apply FAILs all
+  pre-existing seed conditions at baseline; PROGRESS.md refreshed (principles
+  2170/2183, concepts 761/2267). OWNER DIRECTIVE RECORDED (workability of
+  outputs, 2026-10-21): outputs must be implementable — especially Practice
+  kernels — using the PBT variation-selection-retention scaffold and the six
+  dimensions (Affect, Cognition, Attention, Self, Motivation, Overt behaviour);
+  section added to PROTOCOL-PRINCIPLES.md; applies to new items and rewrites, no
+  blanket retrofit of the corpus. Pass 2 (window 7b840fbe..f71e5d764): 13 changed
+  content files (w1l's final 6 concepts incl. Solitude/Solidarity — band COMPLETE
+  70/70; w1h's Relapse prevention protocols + Relational cultural theory Miller;
+  p1zzg round-2 QC repairs on SP017/SP021/SP022/SP025/SP028) — 13/13 validate ok.
+  SAMPLES: SP028's repaired quote (stitched first sentence removed — correct)
+  re-verified verbatim; Solitude's Thoreau Walden quotes (3/3 verbatim vs
+  Gutenberg #205) and Nguyen-Ryan-Deci 2018 Study 4 sentence (verbatim vs NCBI
+  efetch) — PASS; Relational cultural theory Miller's three Jordan 2024 quotes
+  (premise, five good things, chronic disconnections) all VERBATIM vs the opened
+  APA sample-pages PDF — PASS. p1zzg proposals round 2 applied (Gratitude +
+  Conatus reciprocals; Envy deferred to a busy band; SP007 duplicate correctly
+  skipped); stale p1zze.json emptied with a note (API push cannot delete).
+  BOARD: w1g and w1h FRESH and producing (worker-p1zzg-8c31f0a7 finished p1zzg
+  30/30 + p1zzk 30/30 and took w1g; worker-w1l-c5a7e913 completed w1l 70/70 and
+  took w1h); supervisor held. Standing owner dispositions unchanged (AF037
+  title, AF050/PP014 aliases, BI013≈BE037 / BI033≈BE042 near-duplicates); SE041
+  locator flag stands as a bounded disclosure. NEXT SUPERVISOR: monitor w1g/w1h,
+  sample their milestones, check the deferred Envy proposal when its target band
+  frees, replenish reserves if eligible priority work remains (pool was drained).
+
 - WORKER CHECKPOINT w1l (2026-10-21 ~06:50Z, worker-w1l-4d8c21e3, T+60 REPORTING
   CHECKPOINT — reporting only, baton HELD, work continues while the session lives):
   took over the stale band at 37/70. 24 CONCEPTS ENRICHED THIS SESSION (fast-track,
