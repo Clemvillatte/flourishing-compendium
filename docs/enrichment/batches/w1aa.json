@@ -68,7 +68,8 @@
   "Habermas",
   "Haslam et al",
   "Henrich et al",
-  "Hickman et al"
+  "Hickman et al",
+  "Janis"
  ],
  "in_progress": null,
  "flagged": {
@@ -112,10 +113,11 @@
   "Intuitive eating": "QC round 2 repairs applied and pushed; QC re-verification pending",
   "Haslam et al": "bare author-year stub title; enriched as Haslam et al 2009 editorial social-cure; suggest supervisor rename to a topical title",
   "Henrich et al": "bare author-year stub title; enriched as the WEIRD review (Henrich, Heine, Norenzayan 2010); suggest rename",
-  "Hickman et al": "bare author-year stub title; enriched as Hickman 2021 Lancet Planet Health survey; suggest rename"
+  "Hickman et al": "bare author-year stub title; enriched as Hickman 2021 Lancet Planet Health survey; suggest rename",
+  "Janis": "bare author-year stub; enriched via Aldag & Fuller 1993 (opened) as model structure + evidence; Janis books not opened; suggest rename"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:07:10+00:00",
+ "updated": "2026-10-21T08:07:35+00:00",
  "band_done": false
 }
