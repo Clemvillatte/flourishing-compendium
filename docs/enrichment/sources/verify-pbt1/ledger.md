@@ -858,3 +858,10 @@ Carriers opened fresh: SUNY Stony Brook Waters & Cummings 2000 PDF; Safer Societ
 Waters "Measuring Attachment" chapter PDF. w1w "Secure base": both quoted passages
 (Waters & Cummings thesis sentence; Ainsworth Infancy in Uganda passage) VERBATIM
 vs the opened carriers. 1/1 PASS, no defects.
+
+## Round 63 (16:45Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: New Advent Summa Theologiae I-II q61. w1q "Cardinal virtues":
+all four quoted passages (four cardinal virtues; containment under them; prudence
+principal; Cicero reduction citing De Invent. Rhet. ii) VERBATIM vs the opened carrier
+(page renders "reduce[d]" with bracket — standard). 1/1 PASS, no defects.
