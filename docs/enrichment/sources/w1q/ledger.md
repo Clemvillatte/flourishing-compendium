@@ -362,3 +362,18 @@ damage, w1ab left to its live holder.
   verified. Y027/Y132/Y050/X024 clauses kept to what those pages carry; Stillness/
   Anapanasati Related links bare (unchecked targets). Validator ok (1 warn: 2 Related
   lines, fast-track bar). QC-pending for the next milestone.
+
+## THE EVOLUTIONARY ACCOUNT OF LONELINESS — 2026-10-21T16:08Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Carrier: PMC2752489 (Cacioppo & Hawkley, "Perceived
+  Social Isolation and Cognition", Trends in Cognitive Sciences 2009;13(10):447-454,
+  doi 10.1016/j.tics.2009.06.005), raw download, three quotes substring-verified:
+  "The species Homo sapiens is fundamentally social..."; the physical-pain/social-pain
+  pair; "Social species create emergent organizations beyond the individual- structures
+  ranging from dyads and families to institutions and cultures." (source uses a hyphen
+  dash after "individual", preserved).
+- The seed's Cacioppo & Cacioppo 2018 (ETL chapter, paywalled) and Cacioppo et al. 2011
+  ("Social isolation", PubMed 21651565) were NOT opened (PubMed fetch bot-walled,
+  scispace PDF blocked); the page discloses this in one sentence and keeps the seed
+  citation lines unaltered. SO024/SO039/SP036/SO001 clauses kept to what those pages
+  carry; Micro-moments-of-connection Related link bare (unchecked). Validator ok
+  (1 warn: 2 Related lines, fast-track bar). QC-pending for the next milestone.
