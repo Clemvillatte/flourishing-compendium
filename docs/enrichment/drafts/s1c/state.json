@@ -755,7 +755,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-027": {
+   "status": "ready",
+   "angle": "B169: SN 3.13 A Bucketful of Rice (Sujato)",
+   "history": [
+    {
+     "t": "2026-10-21T12:43:08+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:43:08+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:43:08+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked; single translation"
+    },
+    {
+     "t": "2026-10-21T12:43:08+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:42:11+00:00"
+ "updated": "2026-10-21T12:43:08+00:00"
 }
