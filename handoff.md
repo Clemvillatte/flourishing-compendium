@@ -57,10 +57,9 @@
   markup on all 11 touched pages. EXACT NEXT ACTION for the next worker: the w1m manifest is
   worked in order; remaining head-of-queue items after the holds: Value creation, Verum factum,
   Via negativa, Voluntary simplicity, Walking off one's thoughts, Whole Trait Theory (then
-  the tail). UPDATE (~11:19Z, same session): Value creation (Zarathustra bestowing-virtue
-  passage, Gutenberg #1998), Verum factum (SEP Vico article quotes), Via negativa (SEP
+  the tail). UPDATE (~11:19Z, same session): Value creation (Zarathustra 'Thousand and One Goals' passage, Gutenberg #1998), Verum factum (SEP Vico article quotes), Via negativa (SEP
   Mysticism quotes) and Voluntary simplicity (Walden #205 quotes) are ALSO DONE and pushed —
-  10 concepts enriched this session in total. QC round 6 (advisor, ~11:21Z): all five late-session pages repaired — Value creation chapter
+  11 concepts enriched this session in total (6 early + 5 late-session, all late-session pages re-repaired through QC rounds 6-7). QC round 6 (advisor, ~11:21Z): all five late-session pages repaired — Value creation chapter
   corrected to 'The Thousand and One Goals', Verum factum quote boundaries fixed, Via negativa
   original cited-in block restored, Voluntary simplicity chapters corrected ('Where I Lived' /
   'Economy'), Kierkegaard letter quoted contiguously via the LRB review; glosses and process
