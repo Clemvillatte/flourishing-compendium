@@ -52,3 +52,6 @@ The team that welcomes everyone — as long as they cheer for the team. What's y
 %%
 Closed binds; open requires creative effort. Which is your current morality — and what would the opening require?
 -->
+
+## Stories
+- [[ST355 — Brekhunov Warms the Man He Underpaid|355. Brekhunov Warms the Man He Underpaid]]

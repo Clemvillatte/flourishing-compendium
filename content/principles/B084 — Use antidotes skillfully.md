@@ -30,6 +30,9 @@ The 4pm doom-scroll reads as restlessness, and restlessness has a counter: the w
 
 - [Vitakkasanthana Sutta (MN 20), Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html) — carpenter simile verified verbatim
 
+## Stories
+- [[ST354 — The Carpenter, the Corpse, and the Slowing Walker|354. The Carpenter, the Corpse, and the Slowing Walker]]
+
 ## Psychology parallels
 
 - **[[Emotion regulation|Emotion-regulation strategies selected by context]]**, outperform any single strategy (Gross, 2015; adaptive flexibility research)
