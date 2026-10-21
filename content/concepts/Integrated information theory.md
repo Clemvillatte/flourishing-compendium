@@ -7,23 +7,23 @@ file: "Integrated information theory"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-Integrated information theory (IIT) is a theory of consciousness introduced by Giulio Tononi in 2004. Its starting claim: consciousness is not a by-product of computation but identical to a system's capacity to integrate information. Tononi grounded the claim in two phenomenological properties, differentiation (the huge number of possible experiences) and integration (the unity of each experience), and proposed that the quantity of consciousness a system supports can be measured as a value called Phi.
+Giulio Tononi's 2004 formulation of integrated information theory (IIT) begins with two phenomenological properties of consciousness: differentiation, the availability of a very large number of conscious experiences, and integration, the unity of each such experience ([Tononi, 2004](https://pubmed.ncbi.nlm.nih.gov/15522121/)).
 
 > "According to the theory, consciousness corresponds to the capacity of a system to integrate information." (Tononi, [An information integration theory of consciousness](https://pubmed.ncbi.nlm.nih.gov/15522121/), BMC Neuroscience 5:42, 2004, abstract)
 
-### What Phi is meant to capture
+### What Phi measures
 
-Phi is the amount of causally effective information a system can integrate across its informational weakest link; a "complex" is a subset of elements with Phi above zero that is not contained in a subset of higher Phi. In the theory's later versions, the conscious system is the one whose cause-effect structure is maximally irreducible, which leads to the controversial implication that simple grids or feed-forward architectures could out-integrate brains in principle.
+Tononi proposed that the quantity of consciousness available to a system can be measured as the Phi value of a complex of elements. In the 2004 formulation, Phi is the amount of causally effective information that can be integrated across the informational weakest link of a subset of elements, and a complex is a subset of elements with Phi above zero that is not part of a subset of higher Phi ([Tononi, 2004](https://pubmed.ncbi.nlm.nih.gov/15522121/)).
 
-The theory has critics on scientific grounds: an IEP review notes that the falsifiability of some of the theory's "predictions" is itself a matter of controversy. Its appeal for the compendium is different: it treats unity of experience as a measurable property of how a system is organised, which is why principles about meaning, anxiety and the gaze cite it as a parallel.
+A later review in the Internet Encyclopedia of Philosophy notes that the falsifiability of some implications the theory presents as predictions is a matter of controversy ([Fallon, IEP](https://iep.utm.edu/integrated-information-theory-of-consciousness/)).
 
 ## Field
 
 Biophysiological · Psychological science
 ## Sources
 
-- [Tononi (2004), An information integration theory of consciousness, BMC Neuroscience 5:42, PMID 15522121](https://pubmed.ncbi.nlm.nih.gov/15522121/) — the theory's original claims, differentiation and integration, Phi
-- [Fallon, F., Integrated Information Theory of Consciousness, Internet Encyclopedia of Philosophy](https://iep.utm.edu/integrated-information-theory-of-consciousness/) — later versions, maximal irreducibility, falsifiability controversy
+- [Tononi (2004), An information integration theory of consciousness, BMC Neuroscience 5:42, PMID 15522121](https://pubmed.ncbi.nlm.nih.gov/15522121/) — the 2004 formulation, differentiation and integration, Phi
+- [Fallon, F., Integrated Information Theory of Consciousness, Internet Encyclopedia of Philosophy](https://iep.utm.edu/integrated-information-theory-of-consciousness/) — later versions of the theory, falsifiability controversy
 
 ## Cited in philosophy parallels
 [[SO025 — Prioritize the quality of relationships over the quantity]]

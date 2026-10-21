@@ -7,15 +7,13 @@ file: "Integrated Threat Theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Integrated Threat Theory is a social-psychological account of prejudice developed by Walter Stephan and Cookie Stephan. It holds that prejudice toward an outgroup grows from four kinds of perceived threat: realistic threats to a group's resources, safety or power; symbolic threats to its values and worldview; intergroup anxiety about dealing with the outgroup; and negative stereotypes, which set ingroup members to expect bad outcomes from contact.
+Integrated Threat Theory is an account of prejudice organised around four threat types: realistic threat, symbolic threat, intergroup anxiety and negative stereotypes. It is identified in the literature as the integrated threat theory of W. G. Stephan and Stephan (2000) ([Riek, Mania & Gaertner, 2006](https://pubmed.ncbi.nlm.nih.gov/17201592/)).
 
-> "According to the theory, four types of threat (realistic, symbolic, intergroup anxiety, and negative stereotypes) cause prejudice. These threats are thought to be caused in part by the amount and quality of intergroup contact." (Stephan, Diaz-Loving & Duran, [Integrated Threat Theory and Intercultural Attitudes](https://journals.sagepub.com/doi/10.1177/0022022100031002006), Journal of Cross-Cultural Psychology 31(2), 2000)
+> "According to the theory, four types of threat (realistic, symbolic, intergroup anxiety, and negative stereotypes) cause prejudice. These threats are thought to be caused in part by the amount and quality of intergroup contact." (Stephan, Diaz-Loving & Duran, [Integrated Threat Theory and Intercultural Attitudes](https://journals.sagepub.com/doi/10.1177/0022022100031002006), Journal of Cross-Cultural Psychology 31(2), 2000, abstract)
 
-### What the threats share
+Stephan, Diaz-Loving and Duran used the theory to examine Americans' and Mexicans' attitudes toward one another; their two path analyses found that all four threats were significant predictors of attitudes in one sample or the other. The quality of intergroup contact, described there as voluntary, positive, individualized and equal status, appears to play an important role in both intergroup anxiety and attitudes toward the other group ([Stephan, Diaz-Loving & Duran, 2000](https://journals.sagepub.com/doi/10.1177/0022022100031002006)).
 
-Each threat works through perception rather than fact: the theory concerns what ingroup members believe the outgroup might do, so two groups can face the same outgroup and feel different levels of threat. Contact is the other lever named in the early studies. In the original path analyses of American and Mexican attitudes, contact that was voluntary, positive, individualized and between equals predicted lower anxiety and more favourable attitudes.
-
-A later meta-analysis of 95 samples found that five threat types, including realistic and symbolic threat, each showed a positive relationship with negative outgroup attitudes, with the strength of some relationships depending on the outgroup's status (Riek, Mania & Gaertner 2006).
+A 2006 meta-analysis involving 95 samples reported positive relationships between five threat types and negative outgroup attitudes, with outgroup status moderating some of these relationships ([Riek, Mania & Gaertner, 2006](https://pubmed.ncbi.nlm.nih.gov/17201592/)).
 
 ## Field
 
