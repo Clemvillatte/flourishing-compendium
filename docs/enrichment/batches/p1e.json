@@ -116,7 +116,7 @@
   "A080": "Reopened for QC: Milestone QC: temporal-completion and borrowed-pleasure claims removed; content fix already applied and accepted",
   "A106": "RESOLVED by supervisor-pcx-fe429f3b: the parallels are bare references to canonical works with fair glosses (Dweck and Leggett 1988, the classic Psychological Review learning/performance-goal paper; Berkowitz and Bier 2007, the character-education review) - bounded: not freshly opened; the body quotes are the standard NE II.1 passages (the 'Neither by nature' and 'learn by doing' passages, verifiable against the Ross text); the locator line's I.9/X.9/Politics VIII.1 are thematic anchors for the character-education theme (X.9 is the NE's education/legislation conclusion; Politics VIII.1 is the education chapter) - bounded: not freshly verified against an opened carrier this session; no repair",
   "AT037": "RESOLVED by supervisor-pcx-fe429f3b: opened the Ohly et al. 2016 systematic review (Europe PMC - 'Attention Restoration Theory: A systematic review of the attention restoration potential of exposure to natural environments') - it supports the third bullet's honest hedge (the review notes the evidence base is unclear/limited); Kaplan 1995 and Kaplan and Berman 2010 (the ART founding papers) and McMahan and Estes 2015 (the nature-contact meta-analysis) remain bare references to canonical works with fair construct glosses (bounded: not freshly opened); the Neiye/Sabbath/Delphic philosophy parallels remain bare references (bounded); no repair - the page already carries the honest mixed-evidence note",
-  "AT064": "Reopened for QC: QC round 3: conditional PASS, applying literal Sources-entry fix",
+  "AT064": "RESOLVED by supervisor-pcx-fe429f3b: re-opened the Boettger et al. 2023 PMC page (PMC10525686) and confirmed the Sources entry is literal - the raw HTML carries 'The pooled effect across all studies was g = -0.14, with a 95% confidence interval (CI) of -0.24 to -0.03' and the Discussion carries 'The present meta-analysis essentially confirms the Brain Drain effect' (both verbatim, Unicode minus signs in the original); the Ward et al. 2017 abstract quote was already verified verbatim; the body carries the honest 'small and contested' note and the Ruiz Pardo and Minda replication caveat; the QC round 3 conditional PASS is accepted - the literal Sources-entry fix is confirmed applied; no further repair",
   "BE001": "Reopened for QC: QC rework round 2: advisor fixes applied, awaiting acceptance",
   "BE006": "RESOLVED by supervisor-pcx-fe429f3b: opened the Hanley, Iwata and McCord 2003 JABA review (Europe PMC - 'Functional analysis of problem behavior: a review', 'Functional analysis methodology focuses on the identification of variables that influence the occurrence of problem behavior'), confirming the functional-analysis construct gloss; Baer et al. 1968 (the foundational JABA dimensions paper), Hayes et al. 2011 (ACT) and Vilardaga et al. 2009 remain bare references to canonical works (bounded: not freshly opened); the Socrates/Nietzsche/Buddhism philosophy parallels remain bare references (bounded); no repair",
   "BE009": "Reopened for QC: QC round 2 FAIL: shaping source gap; opening source from PRIMARY-SOURCES.md",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:57:35+00:00",
+ "updated": "2026-10-21T13:57:51+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
