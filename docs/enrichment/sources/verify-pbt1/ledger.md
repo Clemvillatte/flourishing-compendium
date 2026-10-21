@@ -742,3 +742,8 @@ confirmed against the ERIC record itself. Repair requested: correct the attribut
 Routed defects to date: 7 (Fellow feeling locator; Intra-action Hammarström; Kairos Chase;
 Novelty research deviations; Nomadology therefore; Ordering the soul "is"; Theory of Work
 Adjustment Lofquist/Weiss attribution).
+
+## Round 45 (17:07Z) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: Pitzer Sternberg 1986 PDF. w1q "Triangular Theory of Love":
+three-components blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
