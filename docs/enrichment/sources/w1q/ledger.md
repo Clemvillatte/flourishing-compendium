@@ -404,3 +404,18 @@ damage, w1ab left to its live holder.
   Related link points to this session's enriched page; leap-of-faith link bare
   (seed-only target). Validator ok (1 warn: 2 Related lines, fast-track bar).
   QC-pending for the next milestone.
+
+## THE LIMITS OF REASON — 2026-10-21T16:03Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Carrier: Project Gutenberg #4705 (Hume, A Treatise of
+  Human Nature), raw text downloaded; two quotes substring-verified: the
+  combat-of-passion-and-reason passage ("Of the influencing motives of the will") and
+  "Reason is, and ought only to be the slave of the passions...". Section name given
+  from the text itself. Opening gives the page's three senses of the heading; no
+  invented attribution.
+- SE009/K065/BI063/CO003 clauses kept to what those pages carry (Nisbett-Wilson;
+  Tanabe metanoetics; the mood-symptom medical associations; cognitive load). Related
+  links point to existing concept pages (The limits of introspection / Cognitive load
+  theory / Introspection illusion); note for the supervisor: "The limits of
+  introspection" and "Limits of introspection" both exist as concepts — the same
+  duplicate-namespace pattern flagged before (hermeneutic circle precedent). Validator
+  ok. QC-pending for the next milestone.
