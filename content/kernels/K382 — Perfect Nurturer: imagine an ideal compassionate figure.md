@@ -34,7 +34,7 @@ Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 11, "Using Compa
 
 > "Imagine her extending kindness and compassion to you, in whatever way would be most helpful and soothing." — Kolts, *CFT Made Simple*, ch. 11, p. 150 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
-5. If difficult emotions come up mid-practice, the book's guidance is to keep the figure present: "If anxiety or other difficult emotions come up for you, imagine her there, understanding and supporting you." Then close gently, bringing "the feelings of being accepted, understood, and supported with you".
+5. If difficult emotions come up mid-practice, the book's guidance is to keep the figure present: "If anxiety or other difficult emotions come up for you, imagine her there, understanding and supporting you." ([Kolts, ch. 11, p. 150](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)) Then close gently, bringing "the feelings of being accepted, understood, and supported with you" ([Kolts, ch. 11, p. 150](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)).
 
 ### Evidence
 

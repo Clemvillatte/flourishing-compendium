@@ -24,8 +24,8 @@ Adapted from Kolts, *CFT Made Simple*, ch. 9, pp. 124–126 ([owner's Drive copy
 
 > "Now try to shift into the perspective of your compassionate self. Connect with your compassionate self, imagining yourself at your best—your calmest, your wisest, your most caring, your most confident and courageous." — Kolts, *CFT Made Simple*, ch. 9, p. 125 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
-2. Write about one difficulty from that perspective, starting from what is true. The book's sentence starters: "I am sad, and I feel distress. My distress is understandable because…" and then "I would like myself to know that…" Target dimensions: Self (who is writing) and Affect (warmth toward your own distress).
-3. Treat self-doubt (Am I doing it right? I'm not really feeling it) as normal comments the mind makes, and keep writing; "There is no right or wrong…you're just practicing, working with your compassionate self."
+2. Write about one difficulty from that perspective, starting from what is true. The book's sentence starters: "I am sad, and I feel distress. My distress is understandable because…" and then "I would like myself to know that…" ([Kolts, ch. 9, p. 125](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)). Target dimensions: Self (who is writing) and Affect (warmth toward your own distress).
+3. Treat self-doubt (Am I doing it right? I'm not really feeling it) as normal comments the mind makes, and keep writing; "There is no right or wrong…you're just practicing, working with your compassionate self." ([Kolts, ch. 9, p. 125](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 4. After a few sittings, reread and check the letter against the book's qualities: concern and encouragement, sensitivity to your distress, help facing feelings, understanding of your difficulties, non-judgment, genuine warmth.
 5. Keep the letter where hard moments find it; write others for different self-critical voices, and reread them in the moments you would normally turn on yourself.
 

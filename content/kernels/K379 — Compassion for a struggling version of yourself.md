@@ -14,11 +14,11 @@ After settling into your Compassionate Self (see K378; take a minute of slow bre
 
 From this compassionate perspective, look in on that struggling version of you. See how hard it is for them. Can you be moved by their suffering? Can you understand why they would feel this way, given what they've been through?
 
-Now imagine being *there with them*. Imagine only they can see or hear you. Consider how you would be there for them — how you might help them feel safe, how you might encourage them.
+Now imagine being there with them. Imagine only they can see or hear you. Consider how you would be there for them: how you might help them feel safe, how you might encourage them.
 
 > "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, *CFT Made Simple*, ch. 9, p. 122 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
-*If extending [[Self-compassion|self-compassion]] to yourself is too hard:* the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
+If extending [[Self-compassion|self-compassion]] to yourself is too hard: the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
 
 The exercise rehearses a compassionate perspective on distress.
 
