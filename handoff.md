@@ -1,5 +1,22 @@
 # Handoff (start here)
 
+- SUPERVISOR CHECKPOINT (2026-10-21 ~03:5xZ, supervisor-7c2a91e4 — same session as
+  worker-p1zza-7c2a91e4, closing the session's outstanding items): took the
+  stale supervisor baton (supervisor-df5053ec, 88 min; that supervisor had
+  already withdrawn the MO042 Azrin route, confirming the worker's facts —
+  no repair needed there). (1) INTEGRATION: proposals/p1zza.json rev 8
+  applied — 2 reciprocals into Habit formation (MO042, MO043), validator ok,
+  build ok 5,737/fcAuthored 976; the p1zza session's proposals are now fully
+  processed. (2) REPAIR: The progress principle concept page (unassigned
+  seed) — claim scoped to the freshly opened HBR abstract (the seed's
+  "more than goal attainment" comparative removed: not established by the
+  source), source URL added, malformed markup fixed, original wikilinks
+  preserved; the remaining prose-length FAIL is pre-existing (13 -> 79
+  words) and the page stays in the concept queue. p1zza session items are
+  ALL CLOSED: 30/30 band, items 2-6 advisor scoped PASS, MO042 first-item
+  scoped PASS, reciprocals integrated, Azrin route withdrawn, progress-
+  principle claim repaired. Batons (supervisor) RELEASED at this checkpoint.
+
 - WORKER CHECKPOINT p1zza (2026-10-21 ~01:5xZ, worker-p1zza-7c2a91e4, T+60
   REPORTING CHECKPOINT — reporting only, work continues while the session lives):
   BAND COMPLETE 30/30 (took over the stale
