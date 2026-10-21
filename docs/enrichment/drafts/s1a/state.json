@@ -385,7 +385,27 @@
      "note": "Complete source audit and checker green; independent review blocked by exhausted reviewer credits"
     }
    ]
+  },
+  "s1a-017": {
+   "status": "researching",
+   "angle": "D068: Han Xin crawls beneath the butcher's youth — yielding measured against the whole future, closed without revenge",
+   "history": [
+    {
+     "t": "2026-10-21T11:15:32+00:00",
+     "to": "researching"
+    }
+   ]
+  },
+  "s1a-018": {
+   "status": "researching",
+   "angle": "P181 from the boundary side: Duchenne's muscle of benevolence obeys only the feeling, not the will",
+   "history": [
+    {
+     "t": "2026-10-21T11:15:32+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-20T14:34:11+00:00"
+ "updated": "2026-10-21T11:15:32+00:00"
 }
