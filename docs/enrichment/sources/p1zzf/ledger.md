@@ -34,3 +34,7 @@
 ## R045 — Practise respect for matai
 - Opened (search excerpts): NPS American Samoa people page, Oranga Tamariki tautua page, ANU Press matai/tautua chapter, Transnational Samoan Chiefs (researchbank.ac.nz), Samoa Law Reform Commission discussion paper, Jagiellonian paper quoting Hofstede 2001 p.98.
 - Seed cites Tuhiwai Smith 1999 (Māori research-methods book) for Samoan philosophy: unsupported, disclosed. Seed "respect isn't worship of rank" kept as framing only; added land-eviction power as a counterweight. Hofstede power distance = acceptance of inequality, not respect: labelled loose parallel. Wikilink label "Respect for authority and social order" left intact.
+
+## R046 — Practise talanoa
+- Opened (excerpts): Vaioleti 2006 (WJE PDF abstract), Auckland talanoa-on-talanoa paper, Fiji Times, UNFCCC Talanoa note, IRMA summary of McAdams 2008 (secondary; chapter not read).
+- Seed "not debate or negotiation" overstated: Halapua used it in post-coup political dialogue; Fijian negotiator says it settles disputes. Reworded. McAdams parallel is conceptual only. ST240 story link and psychology bullet preserved.
