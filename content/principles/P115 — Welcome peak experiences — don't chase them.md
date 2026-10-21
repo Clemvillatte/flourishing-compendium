@@ -18,7 +18,7 @@ Maslow's description of the peak-experience, from Religions, Values, and Peak-Ex
 
 The principle's invitation follows from the end-in-itself character: attend to such an experience when it occurs without demanding a particular result from it. The preparations the practice kernels list (rest, gratitude, nature) are ordinary supports, offered as invitations rather than guarantees.
 
-(Maslow, Toward a Psychology of Being, 1962; Religions, Values, and Peak-Experiences, 1964.)
+(Maslow, Religions, Values, and Peak-Experiences, 1964.)
 
 **Plain words**
 When a moment of wholeness or awe arrives, give it your attention without asking it to prove anything. Afterwards, note what the experience was like rather than how to get it back. The kernels, rest, gratitude, nature exposure, are ordinary practices you can try; they are invitations, not levers that produce the experience.
@@ -41,7 +41,7 @@ Suppose a walk by the water becomes unexpectedly moving. You could stop and atte
 - [[K228 — Awe practice|K228 Awe practice]]
 ## Psychology parallels
 
-- **[[Awe|Awe research]]**, awe experiences predict well-being and prosociality (Yaden et al., 2017; Stellar et al., 2018)
+- **[[Awe|Awe research]]** — awe is among the self-transcendent states that the reviews associate with well-being and prosocial behaviour (Yaden et al., 2017; Stellar et al., 2017)
 
 ## Philosophy parallels
 
