@@ -51,5 +51,7 @@
    "from": "worker-p1zzb-6d4f8a91-supervisor",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T13:30:38+00:00"
 }
