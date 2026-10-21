@@ -589,3 +589,16 @@ Meditations).
 3. Non-retaliation — blockquote VERBATIM (Long translation, Book VI.5).
 
 Result: 2/3 verbatim PASS; 1 one-word deviation routed (Nomadology, thus vs therefore).
+
+## Round 30 (16:36Z) — w1ab quote-fidelity verification, sixth batch
+
+Carriers opened fresh: IEP "Johann Wolfgang von Goethe" (§4), wisdomlib Mulamadhyamakakarika
+ch. 10, PMC4592666 (Sarris et al 2015 World Psychiatry consensus statement).
+
+1. Morphology — blockquote VERBATIM vs IEP §4.
+2. Not-one-not-two — both blockquotes VERBATIM vs the opened wisdomlib translation
+   (MMK 10.1 and the 10.14 commentary line).
+3. Nutritional psychiatry — blockquote VERBATIM vs the opened PMC article (the sentence
+   appears in the consensus statement body, which matches the page's framing).
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
