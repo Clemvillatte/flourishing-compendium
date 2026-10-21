@@ -43,6 +43,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST022 — Mr. Rogers Feeds the Fish]]
     - [[ST023 — Simone Weil on Attention]]
     - [[ST411 — The Shrine the Nazis Could Not Burn]]
+    - [[ST419 — Poincare Leaves the Problem and Returns to Check It]]
   - [[ST-S01.04 — I.4 Action — Effortlessness, Timing, and Skill]]
     - [[ST024 — Wheelwright Pian Chides the Duke]]
     - [[ST025 — The Cicada Catcher's Stillness]]
