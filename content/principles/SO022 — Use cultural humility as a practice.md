@@ -18,12 +18,12 @@ Tervalon and Murray-García proposed the distinction in a physician-training con
 
 (Tervalon & Murray-García, 1998, Journal of Health Care for the Poor and Underserved 9(2), p. 117; [article PDF](https://med.umn.edu/sites/med.umn.edu/files/cultural_humility_versus_cultural_competence.jhealthpoorunderserved.1998.pdf))
 
-The same abstract rejects the training goal the term replaces: the traditional notion of competence as a detached mastery of a theoretically finite body of knowledge may not be appropriate for this area of physician education. The difference the principle statement turns on is in the grammar: competence takes a culture as an object that can be mastered; humility takes the learner as the thing that keeps being revised.
+The same abstract states that a competence-based approach may not be appropriate for this area of physician education. The article's definition presents cultural humility as a commitment to ongoing self-evaluation rather than as a completed state.
 
 **Plain words**
-The contrast is between a checklist and a practice. Competence, in the training sense the article rejects, treats a culture as a finite body of knowledge you could master and be done with; humility treats your own assumptions as the thing under revision, with no endpoint. Ask, don't assume, and expect the answer to revise you.
+Consider which assumptions you bring to an interaction. Ask what another person would find relevant to the situation before acting on an assumption.
 
-*For example:* Imagine the clinician who asks what the family does when someone is sick, versus the one who read a chapter and now knows how Chinese families work. The question can revise the questioner; the chapter cannot.
+*For example:* Imagine a clinician preparing to meet a new patient and listing the questions they would need answered, such as who the patient considers family and who makes decisions about care.
 
 ## Sources
 
@@ -40,4 +40,4 @@ The contrast is between a checklist and a practice. Competence, in the training 
 
 ## Practice
 
-- In intercultural contact, practice "not knowing" as a stance (see principle 33). In professional practice, use the cultural-formulation interview to understand the client's cultural context.
+- Consider what you would need to learn about a person's circumstances before making a health or workplace decision that affects them.
