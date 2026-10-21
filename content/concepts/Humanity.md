@@ -9,15 +9,15 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The Nicomachean Ethics does not treat humanity as a general fondness for the human race. What it praises is a disposition: the decent person takes the good of particular other people into his own account of what is worth doing, so that their good becomes part of what he acts for. Aristotle puts the point sharply in Book IX:
 
-> "Of the good man it is true likewise that he does many things for the sake of his friends and his country, even to the extent of dying for them, if need be." (Aristotle, Nicomachean Ethics, Book IX chapter VIII, trans. F. H. Peters, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
+> "Of the good man it is true likewise that he does many things for the sake of his friends and his country, even to the extent of dying for them, if need be…" (Aristotle, Nicomachean Ethics, Book IX chapter VIII, [Project Gutenberg ebook #8438](https://www.gutenberg.org/ebooks/8438); the ebook names no translator)
 
-The discussion of friendship makes the same choice on the side of action rather than feeling. The passage continues that those in whom this active fondness exists in due proportion are stable friends and their friendship permanent, which is the book's way of saying that the disposition, not the mood, is the virtue:
+The discussion of friendship makes a parallel point about which side of a relationship carries the virtue. The passage continues that those in whom this active fondness exists in due proportion are stable friends and their friendship permanent:
 
-> "Friendship stands rather in the entertaining, than in being the object of, the sentiment, and they are praised who are fond of their friends." (Aristotle, Nicomachean Ethics, Book VIII chapter III, trans. F. H. Peters, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
+> "Since then Friendship stands rather in the entertaining, than in being the object of, the sentiment, and they are praised who are fond of their friends…" (Aristotle, Nicomachean Ethics, Book VIII chapter VIII, [Project Gutenberg ebook #8438](https://www.gutenberg.org/ebooks/8438))
 
-The compendium pairs this Greek thread with Confucius because the two accounts agree on the active core: ren is defined in the Analects as loving all men, and the good man of Book IX is defined by what he does for the sake of friends and country. Both make humanity a practice with other people's good as its object, and both leave the warmth to follow the action rather than lead it.
+The Book IX passage goes on to say that the good man will throw away the good things others fight for, money and honours among them, to secure the kalon for himself, and that giving them up to a friend can be the more noble act. Both passages praise the person who loves, gives and acts for others, over the person who is loved, given to, and acted for.
 
-**Plain words** Humanity, on this account, is wanting good things for other people and doing something about it, not merely feeling warmly toward the human race.
+**Plain words** Humanity, on this account, is doing things for other people's good and loving them actively, not merely being fond of the human race in general.
 
 ### In the compendium
 
@@ -32,7 +32,8 @@ The compendium pairs this Greek thread with Confucius because the two accounts a
 
 ## Sources
 
-- [Aristotle, The Nicomachean Ethics, trans. F. H. Peters, Project Gutenberg ebook #8438](https://www.gutenberg.org/ebooks/8438): supports both quotations, Book IX ch. VIII and Book VIII ch. III
+- [Aristotle, The Nicomachean Ethics of Aristotle, Project Gutenberg ebook #8438](https://www.gutenberg.org/ebooks/8438): supports both quotations, Book IX ch. VIII and Book VIII ch. VIII (the ebook names no translator; chapter locators verified against the downloaded full text)
+- [The Analects, Book XII (Yan Yuan), trans. James Legge, Chinese Text Project](https://ctext.org/analects/yan-yuan): supports the ren-as-loving-all-men definition, 12.22
 
 ## Cited in philosophy parallels
 
