@@ -856,3 +856,12 @@
   intensive'). No dates asserted (not in the opened carrier). Related: Wu wei, Impermanence
   (navigational captions, existence-verified). Degree 1 — fast-track. Validation
   --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Non-abiding (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: A. Charles Muller's Diamond Sutra translation (from Kumarajiva's Chinese, Taisho
+  235), opened fresh — chapter 10 passages verified verbatim (the pure-aspiration rule; the
+  'aspiration that has no abode / If the mind abides, then this is not abiding' paradox).
+  The 'What the rule asks' section is an interpretation paragraph marked by its content (the
+  passage's own terms), no outside claims. Related: Non-attachment, Buddhist emptiness of
+  inherent nature, Letting-be (navigational captions). Degree 1 — fast-track. Validation
+  --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
