@@ -23,13 +23,13 @@ And when appetite overpowers reason, the third element takes sides:
 
 > "...in this struggle, which is like the struggle of factions in a State, his spirit is on the side of his reason..." (same book)
 
-The conclusion is put as a question the dialogue then answers: "we have alighted upon an easy question—whether the soul has these three principles or not?" (book IV, same translation), and the individual is assumed to "have the same three principles in his own soul which are found in the State".
+The conclusion is put as a question the dialogue then answers: "we have alighted upon an easy question—whether the soul has these three principles or not?" (book IV, same translation), and the individual is assumed to have "the same three principles in his own soul which are found in the State".
 
 ### In the compendium
 
 - [[AT002 — Know that attention has three networks — alerting, orienting, and executive control]] — the modern three-part division of attention
 - [[A056 — Recognise akrasia — weakness of will]] — the case of reason overpowered, named in Aristotle
-- [[A059 — Distinguish incontinence from vice]] — the same distinction, drawn in the ethics
+- [[A059 — Distinguish incontinence from vice]]
 - [[SE003 — Know that the self is multilayered — actual, ideal, and ought selves]] — the layered self of modern psychology
 
 ## Related concepts

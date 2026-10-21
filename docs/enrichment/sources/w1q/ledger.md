@@ -537,3 +537,25 @@ damage, w1ab left to its live holder.
   own text; Limits-of-reason Related link points to this session's page. Validator
   ok against baseline dc22b3970 (1 warn: 1 Related line, fast-track bar).
   QC-pending for the next milestone.
+
+## QC ROUND 2 — 2026-10-21T16:10Z, worker-pplxy-7f3d1a9c
+- Advisor QC on items 8-10 (tripartite soul, sufficient good, unanswerable koan):
+  3 scoped FAILs, all repairs applied and re-validated:
+  - Tripartite soul: inline quote fixed to exact substring ("...to have \"the same
+    three principles...\"" — the carrier reads "he has", the draft had "have" inside
+    the quotation marks); A059 clause removed (incontinence-vs-vice is not the
+    tripartite division), link kept bare.
+  - Sufficient good: opening rewritten to the advisor's narrow form; third quote
+    REMOVED (locator check showed it is Book X, not book I — mislocated in draft);
+    chapter number dropped (carrier headings do not establish ch. VII); S008/PP004/
+    CO043 clauses removed (unsupported comparisons), links kept bare; "ends the
+    adding" interpretation removed.
+  - Unanswerable koan: all flagged interpretations removed (opening definition,
+    "type of the whole genre", "refusal of the terms", the becoming-the-object
+    passage); replaced with the advisor's narrow text; K013/B046/K009/Y091 links
+    kept bare; Related clause narrowed to "the road of thinking, in Mumon's
+    phrase". Koan full-quote re-verified against the raw page with footnote
+    markup (dagger) stripped — verbatim confirmed.
+- Items 1-7 (limits of reason, logos, the look, many selves, mirror for others,
+  peace that passes, the sacred) remain QC-pending: advisor requires the actual
+  drafts, not summaries. Next session: full-draft QC round.
