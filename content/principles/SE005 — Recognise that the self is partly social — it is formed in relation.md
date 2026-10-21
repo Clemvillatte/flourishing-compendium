@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 5** — Recognise that the self is partly social: it is formed in relation
 
-Markus and Kitayama made the social formation of the self a matter of cross-cultural record:
+Markus and Kitayama's 1991 account distinguishes independent and interdependent self-construals:
 
 > Many Asian cultures have distinct conceptions of individuality that insist on the fundamental relatedness of individuals to each other. The emphasis is on attending to others, fitting in, and harmonious interdependence with them.
 
 (Markus & Kitayama, 1991, Psychological Review 98(2), p. 224; [full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf))
 
-The paper defines the contrast from both sides. The independent self is organized by reference to one's own internal repertoire of thoughts, feelings, and action; the interdependent self sees itself as part of an encompassing social relationship, its behavior organized to a large extent by the perceived thoughts, feelings, and actions of others (pp. 226-227). Both construals take the surrounding social context seriously; what differs is whether others fall inside or outside the self's boundary. Which mirrors do the forming varies by culture, and that mirrors do the forming is the shared ground.
+Markus and Kitayama distinguish descriptions of oneself centered on personal attributes from descriptions centered on relationships. Their account gives social context a role in both; relationships have a defining role in the interdependent self (pp. 226-227, 245).
 
 **Plain words**
-The sense of who you are is assembled from what your surroundings reflect back: your culture's default picture of a person, your family's assignments, your groups' roles. The practical move is to notice which ones you are standing in front of.
+A description of yourself might begin with a personal quality, such as curiosity, or with a relationship, such as being someone's sibling or colleague. Try both descriptions. Ask what each helps you explain about your choices.
 
-*For example:* Imagine the person who becomes "the funny one" because the friend group needed one, and "the responsible one" because the family did, and who discovers a decade later that part of the self was a role the room assigned. The mirrors were real; so was the image.
+*For example:* Imagine writing two self-descriptions, one that starts with personal qualities and one that starts with relationships, and noticing that each makes different choices easier to explain.
 
 ## Sources
 
@@ -43,4 +43,4 @@ The sense of who you are is assembled from what your surroundings reflect back: 
 
 ## Practice
 
-Where you can, name the mirror before accepting the reflection: whose expectation, which room, what culture's default. If you are from an individualist culture, a relational self is not weakness; if from a collectivist culture, autonomy is not selfishness.
+Write one self-description using personal qualities and another using relationships. Note what each includes and leaves out.

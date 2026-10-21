@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 12,
+ "revision": 13,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -77,8 +77,8 @@
   {
    "into": "Narrative identity",
    "link": "SE005",
-   "why": "A principle on the self being formed in relation, alongside the narrative account of the self",
-   "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE005 occurrence; grounded in the opened MIT full text of Markus & Kitayama 1991 (p. 224 abstract sentence quoted verbatim; pp. 226-227 construal definitions paraphrased without quotation marks)."
+   "why": "A principle on describing the self through relationships, alongside the narrative account of the self",
+   "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE005 occurrence; grounded in the opened MIT full text of Markus & Kitayama 1991 (p. 224 abstract sentence quoted verbatim; pp. 226-227 construal definitions paraphrased without quotation marks). | QC milestone 2: mirrors metaphor removed; why clause descriptive only."
   },
   {
    "into": "The examined life",
@@ -121,6 +121,12 @@
    "link": "SE018",
    "why": "A principle on calibrated self-evaluation, modeled by Socrates knowing what he does not know",
    "notes": "SE018 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE018 occurrence; grounded in the opened MIT Classics Jowett Apology (21d passage quoted verbatim)."
+  },
+  {
+   "into": "Cultural psychology",
+   "link": "SE005",
+   "why": "A principle on the self as partly social, drawing on the field's central self-construal distinction",
+   "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mandatory mention search (self-construal); occurrence-checked, no SE005; grounded in the opened MIT full text (p. 224 abstract sentence quoted verbatim)."
   }
  ]
 }
