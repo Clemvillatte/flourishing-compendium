@@ -47,7 +47,7 @@ If a colleague misstates your work in a meeting, correct the relevant fact witho
 ## Psychology parallels
 
 - **[[Soft startup|Soft startup]]**, conflicts introduced gently de-escalate and resolve better (Gottman)
-- **[[Assertiveness research|Assertiveness research]]**, aggression reliably loses long games
+- **[[Assertiveness research|Assertiveness research]]**
 
 ## Philosophy parallels
 
