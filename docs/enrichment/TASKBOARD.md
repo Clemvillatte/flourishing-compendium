@@ -2242,3 +2242,9 @@ Verification pass 104 (worker-glmc4a): 2 principle pages, ALL PASS; 2 not reache
 - A025 (NE IV.3 Ross — same passage as A015), A027 (NE IV.3 Ross, the proud man and honours): both match the already-downloaded MIT Classics Book IV page verbatim.
 - A026 (NE IV.5 Rackham, Perseus), A028 (NE I.10 Rackham, Perseus): the Perseus carriers were not fetched this session; not reached.
 RUNNING TOTAL: 335 page-checks across 104 verification passes.
+
+Verification pass 105 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reached.
+- A029 (NE IV.5 Ross — same passage as A017, verified against the already-downloaded MIT Classics Book IV page): matches verbatim. (The NOT FOUND against Book VI was a carrier mismatch in my check; the quote belongs to Book IV.)
+- A031 (NE VI.10 Ross, both quotes), A032 (NE VI.9 Ross): all match the freshly downloaded MIT Classics Book VI page verbatim.
+- A030 (NE VI.13 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
+RUNNING TOTAL: 338 page-checks across 105 verification passes.
