@@ -118,3 +118,7 @@
   later literature usually reads these sentences, no invented citations.
 - Validator: needed ## Sources with http URL (schema-2 pages still
   require a verification trail) — added. Normal validator: ok.
+  - Validator round 2: staging pattern "not merely ... but" appears inside
+    the verbatim Whorf sentence — quote trimmed to start at "is itself the
+    shaper of ideas" (still verbatim span, sentence lead-in paraphrased).
+    Normal validator now ok.
