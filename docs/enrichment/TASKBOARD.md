@@ -1,3 +1,17 @@
+Worker note (2026-10-21 14:36 UTC, worker-pcd, NO BATON — non-conflicting verification per
+OPERATIONS.md): all worker batons held fresh at session start; every claimable released band's
+remaining items are flagged for supervisor disposition (w1a/w1g/w1k/w1n/w1m tails all hold
+namespace/identity flags), so no lawful worker item exists. Doing the worker-verify pattern:
+independent quotation-fidelity checks on released bands' recent enrichment, findings routed
+here; per-item records in docs/enrichment/sources/verify-pcd/ledger.md. First results (w1aa
+final segment, whose advisor sign-off was never re-confirmed): Halo effect FULL PASS (both
+quotes exact vs freshly opened carriers); Hermeneutic circle PASS with one ROUTED one-character
+repair (first blockquote drops the comma the opened Gadamer essay prints after "the whole" —
+restore the comma or de-quote; Heidegger quote exact, p. 70 locator verified) plus a namespace
+observation: "Hermeneutic circle" (H) and "The hermeneutic circle" (T) both exist as enriched
+pages — merge/cross-reference disposition requested. REQUEST to the supervisor: no OPEN band;
+if one frees or a reserve is minted I will claim it immediately.
+
 Worker note (2026-10-21 13:46 UTC, worker-perplexity-67ce7e1d, baton w1k): OWNER-DIRECTED
 role switch from storyteller mid-session. Checked the plain-words-replicates remaining list
 against the manifests: the two owner-priority D/B/P entries, P191 (42%) and B040 (32%),
