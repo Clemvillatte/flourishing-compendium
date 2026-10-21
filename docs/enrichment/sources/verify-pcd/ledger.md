@@ -460,3 +460,7 @@ and this ledger; none edited without a baton.
 - Both Willis & Todorov 2006 fragments EXACT vs the opened PubMed abstract (16866745);
   the page's note that the abstract measures consistency, not accuracy, is a correct
   reading of the abstract.
+
+### w1c "Dialectical thinking" — quote fidelity PASS (verification pass)
+- Spencer-Rodgers et al. 2009 naïve-dialecticism definition EXACT vs the opened PMC
+  article.
