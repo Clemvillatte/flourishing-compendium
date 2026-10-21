@@ -2248,3 +2248,8 @@ Verification pass 105 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reache
 - A031 (NE VI.10 Ross, both quotes), A032 (NE VI.9 Ross): all match the freshly downloaded MIT Classics Book VI page verbatim.
 - A030 (NE VI.13 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
 RUNNING TOTAL: 338 page-checks across 105 verification passes.
+
+Verification pass 106 (worker-glmc4a): 1 principle page PASS; 3 not reached.
+- A033 (NE VI.6 Ross, intuitive reason): the quote is present verbatim in the already-downloaded MIT Classics Book VI page — the initial NOT FOUND was an ellipsis artifact (the wiki page opens with an editorial ellipsis "...and it cannot be any of the three" marking an omission, where the source reads "...and intuitive reason, and it cannot be any of the three..."); with the ellipsis removed the quoted text matches verbatim. Disclosed.
+- A034 (NE VI.3 and VI.6, Ross via Boston University hosting), A035 (NE VI.4 Rackham, Perseus), A036 (NE VI.7 Rackham, Perseus): these carriers were not fetched this session; not reached.
+RUNNING TOTAL: 339 page-checks across 106 verification passes.
