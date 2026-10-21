@@ -82,3 +82,11 @@
 ## BI019 — Caffeine
 - Opened (PubMed abstracts): Drake et al. 2013 J Clin Sleep Med 9(11):1195-1200 (400 mg at 0/3/6 h); Gardiner et al. 2023 Sleep Med Rev 69:101764 (authors/citation by fetch; 24 studies). Quotes verbatim.
 - Seed claims "half-life 5-6 h" and "caffeine worsens anxiety" (Lara 2010, Broderick & Benjamin 2004, Clark & Landolt 2017) unopened -> removed and omission stated on the page. "Cut-off around noon" replaced by the 8.8 h estimate with an imagined calculation. The 'sleep tracker' anecdote removed.
+
+## BE064 — Contemplative behaviour
+- Opened: Goyal et al. 2014 AHRQ Comparative Effectiveness Review (PubMed 24501780 abstract; JAMA IM 174(3):357-68 version noted). Quotes verbatim (41 trials, 2,993; SOE grades; "did not find any evidence ... superior").
+- Seed claims "reduced stress, improved emotion regulation" (Tang 2015; Goleman & Davidson 2017) unopened -> removed; Kabat-Zinn 1982 & Segal 2002 left as bare refs. Prayer/silence/retreat have no opened evidence; page says so. Weekend-retreat anecdote removed.
+
+## BE067 — Aesthetic behaviour
+- Opened: Fancourt & Finn 2019 WHO HEN 67 (WHO IRIS abstract + report text via search); Nordic J Arts Culture Health 2020 review (scup.com snippet, includes authors' limitations and publication-bias statement).
+- Dropped unopened: Davies et al. 2017, Stellar et al. 2018, "aesthetic experiences produce awe" (the Piff awe stimuli were trees/dinosaur, not art -> not borrowed). Added limitation: awe/meaning claims are inference. Commute-album anecdote replaced by imagined routine.
