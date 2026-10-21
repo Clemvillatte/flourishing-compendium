@@ -30,6 +30,8 @@ The Buddhist ancestor is [[Right effort]] — the four efforts are action-first 
 
 
 
+
+
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the compendium's activation concept for depression
 - [[Avoidance versus attentional engagement]] — the withdrawal-maintains-depression finding is BA's core account
 - [[Graded task assignment (Beck, BA)]] — the parent treatment the technique serves
@@ -37,6 +39,8 @@ The Buddhist ancestor is [[Right effort]] — the four efforts are action-first 
 - [[Behavior analysis]] — BA applies the operant logic of avoidance and reinforcement to depression
 - [[Behavioural chaining (applied behaviour analysis)]] — AF036 connects both through action-focused treatment
 - [[Pleasant activities scheduling (Lewinsohn)]] — Lewinsohn's activity scheduling is the earliest form of the activation treatment for depression
+- [[Treatment kernels]] — a classic kernel, now understood process-wise
+- [[Process-based therapy]] — the framework that reads activation as a process method
 ## Sources
 
 - Jacobson et al., 1996

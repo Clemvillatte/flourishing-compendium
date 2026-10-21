@@ -29,11 +29,14 @@ Workability is relative to a stated goal. The same article says "there must be t
 
 ## Related concepts
 
+
+
 - [[Behavior analysis]] — P078 connects both through its contextual treatment of action
 - [[Workability]] — workability is the criterion functional contextualism puts in place of literal truth
 - [[Pragmatism]] — the philosophical tradition the Counseling Psychologist paper places it in
 - [[Contextualism]] — the wider family of views
-
+- [[Extended Evolutionary Meta-Model]] — the philosophical position underlying the evolutionary grid
+- [[Context sensitivity]] — the principle functional contextualism generates
 ## Sources
 
 - [Hayes, Levin, Plumb-Vilardaga, Villatte and Pistorello, "Acceptance and Commitment Therapy and Contextual Behavioral Science: Examining the Progress of a Distinctive Model of Behavioral and Cognitive Therapy", Behavior Therapy 44(2), 180-198 (PMC author manuscript)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3635495/)

@@ -14,3 +14,8 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 Clinical Psychodynamic · Psychological science
 [[ST237 — The Vā and the Voyage]]
 ## Cited in philosophy parallels
+
+
+## Related concepts
+
+- [[Midlevel terms]] — the basic science beneath ACT's midlevel layer

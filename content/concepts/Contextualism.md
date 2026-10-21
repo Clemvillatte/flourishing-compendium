@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Contextualism” — Dewey, Human Nature and Conduct.
 
+## Related concepts
+
+- [[Context sensitivity]] — the worldview of seeing events in context
+
 ## Sources
 
 - Dewey, Human Nature and Conduct

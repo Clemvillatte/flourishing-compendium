@@ -23,6 +23,10 @@ The Buddhist cognate is [[Right intention]] — direction of the will as the fir
 - behavior organized by chosen values rather than momentary emotional states (Hayes, Strosahl and Wilson, 2011)
 - valued living predicts well-being beyond goal attainment (Wilson et al., 2010; Cohen and Sherman, 2014)
 
+## Related concepts
+
+- [[Extended Evolutionary Meta-Model]] — the grid that classifies values as a motivational-dimension process
+
 ## Sources
 
 - Hayes et al., 2011

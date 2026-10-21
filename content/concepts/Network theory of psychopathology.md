@@ -20,6 +20,11 @@ A Nature Reviews article gives a case: sleep problems induce fatigue, which can 
 ### Cautions
 
 The theory is framed as a hypothesis about causal structure. McNally and colleagues call computational methods for finding it "emerging", and a Frontiers commentary proposes an expanded approach in which nodes include biological and cognitive processes as well as symptoms ([Frontiers commentary](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01305/full)). The seed line "not latent disease entities" states the theory's claim, not a settled finding.
+## Related concepts
+
+
+- [[Process-based therapy]] — the network modelling PBT uses instead of latent-disease models
+- [[Tipping point (networks)]] — the abrupt-shift phenomenon network models are watched for
 ## Sources
 
 - [Borsboom, A network theory of mental disorders (Wiley, World Psychiatry 2017)](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20375)

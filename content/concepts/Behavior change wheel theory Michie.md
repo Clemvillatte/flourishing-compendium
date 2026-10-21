@@ -43,10 +43,11 @@ Overt Behavior · Psychological science
 
 ## Related concepts
 
+
 - [[COM-B model theory]] — the hub model the wheel is built around
 - [[Transtheoretical model (Prochaska & DiClemente)]]
 - [[Implementation intentions]]
-
+- [[Process-based therapy]] — a sibling framework for designing behaviour change from a behaviour system
 ## Sources
 
 - [Michie, van Stralen and West, The behaviour change wheel: A new method for characterising and designing behaviour change interventions (Implementation Science 6:42, 2011)](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42) — the abstract and COM-B definitions quoted above

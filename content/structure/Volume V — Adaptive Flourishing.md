@@ -11,7 +11,7 @@ legacy: {"volume": "", "book": "", "chapter": "", "parent": ""}
 
 # PRINCIPLES OF ADAPTIVE FLOURISHING
 
-(Process-Based Therapy & Extended Evolutionary Meta Model)
+[[Extended Evolutionary Meta-Model|(Process-Based Therapy & Extended Evolutionary Meta Model)]]
 
 
 ## Books

@@ -18,10 +18,13 @@ Thelen's infant work is the classic demonstration: "coordinated movement pattern
 
 ## Related concepts
 
+
+
 - [[Emergence]] — the general account of wholes exceeding their parts
 - [[Developmental psychopathology framework]] — the broader developmental framework
 - [[Embodied cognition]] — cognition as continuous organism-environment calibration
-
+- [[Tipping point (networks)]] — the stability-and-shift vocabulary tipping points come from
+- [[Extended Evolutionary Meta-Model]] — the systems vocabulary the grid draws on
 ## Facets
 
 - **views of behavior**

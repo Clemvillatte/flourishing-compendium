@@ -35,9 +35,10 @@ The compendium's seed line, "building the affiliative soothing system", names th
 
 ## Related concepts
 
+
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — a further therapy approach the wiki covers
 - [[Mindful self-compassion programme]] — the sibling compassion-based programme
-
+- [[Process-based therapy]] — a therapy tradition PBT can host through its kernels
 ## Sources
 
 - Gilbert, 2009

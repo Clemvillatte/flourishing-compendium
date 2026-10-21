@@ -35,9 +35,14 @@ Their review required direct observation of problem behavior under at least two 
 
 ## Related concepts
 
+
+
+
 - [[Behavior analysis]] — the ABC of behavior is the tradition's applied tool
 - [[Behavioral activation]]
-
+- [[Process-based therapy]] — the ten-step process-based diagnosis PBT reworks
+- [[Treatment kernels]] — the step that selects which kernel to apply
+- [[Mediators of change]] — the clinical analogue of identifying the mediating pathway
 ## Sources
 
 - Hayes et al., 2020
