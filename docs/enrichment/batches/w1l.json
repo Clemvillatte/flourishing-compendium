@@ -56,7 +56,8 @@
   "Psychological detachment",
   "Psychological reactance",
   "Questioning inherited beliefs",
-  "REACH model of forgiveness"
+  "REACH model of forgiveness",
+  "Reciprocity"
  ],
  "in_progress": null,
  "flagged": {
@@ -83,7 +84,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T06:38:46+00:00",
+ "updated": "2026-10-21T06:39:22+00:00",
  "band_done": false,
  "new_concepts": [
   {
