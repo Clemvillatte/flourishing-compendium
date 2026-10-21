@@ -16,14 +16,14 @@ Spinoza has no chapter on grief. The grief programme is a synthesis, as the loca
 
 Modern research is less clear on "one reliable way". Park's review of the meaning-making literature says "empirical research has failed to keep up" with theory, that some aspects of the model "appear to be well supported but others are not", and that the quality of meaning-making "may be at least as important as their quantity" ([Park 2010, Psychological Bulletin](https://pubmed.ncbi.nlm.nih.gov/20192563/)). A later paper adds that "there are also abundant studies showing the opposite" of a healthy effect ([Meaning making, adversity, and regulatory flexibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC3565080/)).
 
-(Ethics III, P6 and the affect definitions; V, the remedies as a program; the grief analysis is a synthesis.)
+(Ethics III, P6 and the affect definitions; V, the remedies as a program.)
 
 ### Scope
 
-I did not open Calhoun and Tedeschi 2004. Spinoza does not mention bereavement in the passages I read, and the question about what loss lets you see is the compendium's practice, not his.
+Calhoun and Tedeschi 2004 is listed as further reading, not summarized here. Spinoza never mentions bereavement in the cited passages; the question about what loss lets you see is the compendium's practice, not his.
 
 **Plain words**
-Spinoza says that understanding a feeling takes away its hold. Research on making meaning after loss is promising but mixed, so treat this as an invitation to understand, not as a guaranteed cure.
+Spinoza says that understanding a feeling takes away its hold. Research on making meaning after loss is promising but mixed; treat this as an invitation to understand, not a guaranteed cure.
 
 **For example**
 After a loss, write down one thing you now understand that you did not before. Come back to the page a month later and see whether it still seems true.
