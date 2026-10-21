@@ -7,7 +7,7 @@ file: "Creative activities"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Creative activities, in Tamlin Conner, Colin DeYoung and Paul Silvia's 2018 study, are the everyday making and doing people report day to day: time spent on creative goals rather than professional art. The study asked what such time does to how people feel the next day.
+Creative activities, in Tamlin Conner, Colin DeYoung and Paul Silvia's 2018 study, are what people report day to day as time spent on creative goals. The study asked what such time does to how people feel the next day.
 
 > "Lagged multilevel models revealed that people felt higher activated PA and flourishing following days when they reported more creative activity than usual. The other direction – PA predicting next-day creative activity – was not supported, suggesting that the cross-day effect was specific to creative activity predicting well-being." (Conner, DeYoung & Silvia 2018, [abstract](https://www.tandfonline.com/doi/abs/10.1080/17439760.2016.1257049))
 
