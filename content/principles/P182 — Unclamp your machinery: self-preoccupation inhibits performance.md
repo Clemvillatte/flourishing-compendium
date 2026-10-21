@@ -20,6 +20,9 @@ James states the law in the essay: "strong feeling about one's self tends to arr
 
 *For example:* As an illustration of the essay's law: a pianist might play flawlessly alone and fall apart with an audience, same fingers and same piece, plus a spectator installed inside the head. The essay's remedy is to evict the spectator for the duration; it is not a claim that releasing self-monitoring replaces practice.
 
+## Stories
+- [[ST396 — The Teller and the Doer|396. The Teller and the Doer]]
+
 ## Psychology parallels
 
 - **Self-focused attention and social anxiety**, self-monitoring can worsen performance (conceptual parallel; Clark and Wells, 1995)
