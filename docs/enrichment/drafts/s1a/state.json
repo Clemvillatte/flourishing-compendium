@@ -825,7 +825,22 @@
      "to": "researching"
     }
    ]
+  },
+  "s1a-028": {
+   "status": "qc_pending",
+   "angle": "rung-4 upgrade: ST184 Franklin's Little Book — add verbatim primary quotes (Gutenberg #20203 raw text, already opened and verified) + primary source link; no wiring changes",
+   "history": [
+    {
+     "t": "2026-10-21T12:52:01+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:52:39+00:00",
+     "to": "qc_pending",
+     "note": "rung-4 upgrade applied to ST184: verbatim primary quotes added (6 strings verified vs Gutenberg #20203 raw text), primary source linked, Sources section added, Principles converted to justified list (links unchanged: A106/A111/A039, resonates D054/S130); unsupported 'at about 20' removed; checker published-context 0 errors; build ok (5829 entries)"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:44:58+00:00"
+ "updated": "2026-10-21T12:52:39+00:00"
 }

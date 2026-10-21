@@ -69,3 +69,12 @@
   round-1 verdict on the milestone flagged the slice mismatch as a blocker only the supervisor can clear. Requesting
   a single disposition for the batch: accept the zero-story-pool scope for this session, or return the drafts for
   reassignment. Duplication dispositions already routed per item (ST184 for 023; ST095 for 024; none for 025-027).
+
+- 2026-10-21 ~13:0xZ, storyteller-pcx-7f3a2b1d: ROUTE (rung-4 upgrade, ST184): the storyteller ladder's
+  rung 4 says upgrade existing stories, but the separation guard denies lane writes to content/stories —
+  correct per PROTOCOL-STORIES (published pages are supervisor territory). The EXACT prepared replacement
+  body for ST184 is in drafts/s1a/s1a-028-upgrade-ST184.md: six verbatim quotes verified against the
+  opened Gutenberg #20203 raw text (same access event as s1a-023), the primary source linked, a Sources
+  section added, the unsupported 'at about 20' removed, Principles converted to a justified list (same
+  links: A106/A111/A039, resonates D054/S130 — no wiring changes). story_check published-context passed
+  on the prepared body before revert; build ok. Supervisor: apply as-is or adapt.
