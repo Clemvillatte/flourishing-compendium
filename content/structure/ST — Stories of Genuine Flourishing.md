@@ -144,6 +144,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST354 — The Carpenter, the Corpse, and the Slowing Walker]]
     - [[ST389 — The Ladder for Unskillful Thoughts]]
     - [[ST417 — Dighavu Puts the Sword Away Three Times]]
+    - [[ST427 — The Ladder for Unskillful Thoughts]]
   - [[ST-S02.05 — II.5 The Heart — Emotions and Immeasurables]]
     - [[ST077 — The Mother's Protection]]
     - [[ST078 — The Two Arrows]]
