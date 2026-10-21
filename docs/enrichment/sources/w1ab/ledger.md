@@ -500,3 +500,44 @@
 - QC cadence: item 15 — MILESTONE QC (items 11-15) NOT REACHED before the T+60 report
   deadline; the next worker/supervisor should run it (Morphology, Movement snacks,
   Multiple Trace Theory, Needs-based WIP, Nembutsu recitation).
+
+## ITEMS-11-15 MILESTONE QC round 1 (advisor: 11/15 targeted cleanups; 12/13/14 FAIL; label check on 12) -> repairs applied with ASSERTED matches — 2026-10-21, worker-w1ab-2e9d1a4f
+- TIMING CORRECTION (advisor-noted): the earlier ledger line saying the item-15 milestone
+  QC 'was not reached before the T+60 report deadline' was WRONG — the QC began at
+  11:14:45Z, ~27 min BEFORE the 11:42:10Z deadline. The deadline had not arrived.
+- ITEM 11 (Morphology): opening definition cited directly; 'best-known case' removed;
+  the 'an archetypal phenomenon' gloss removed; P112 bullet neutralized; Sources
+  description corrected (quoted AND paraphrased).
+- ITEM 12 (Movement snacks): the invented naming story ('so named in contrast with the
+  way meals punctuate a day'), the 'three one-minute climbs' detail (the abstract says
+  60 steps, not one minute) and the 'feasibility-scale' classification ALL REMOVED;
+  opening replaced with the advisor's study-bounded sentence; the interpretation
+  paragraph removed. LABEL HOLD: the opened record establishes 'exercise snacks', not
+  'movement snacks' — held out of done, audit entry added.
+- ITEM 13 (Multiple Trace Theory): bold seed sentence DELETED (same retained-seed
+  error class as Lazar/Microbiome/Miyamoto); opening attribution cited to the
+  Sutherland review; the review's nonhuman-animal-experiment focus stated; the Harand
+  anatomical qualification ('at least in its posterior part') and the 3-days/3-months
+  comparison restored; Related glosses reduced to bare links; the AT063 line corrected
+  (the CONCEPT page's Field block carries the AT063 link; AT063's own page does NOT
+  name this theory — verified by grep; the line now says exactly that).
+- ITEM 14 (Needs-based): the document-assembly opening and coinage explanation REMOVED
+  from the public body (kept in the audit + ledger); the page now opens with Sheldon
+  and Elliot's model (surnames); the entire 'For the sequencing idea...' synthesis
+  paragraph DELETED. LEDGER CORRECTION (advisor-noted): the earlier ledger line
+  claiming 'the series' maintenance kernels' citation was preserved in Sources was
+  WRONG — the file's Sources carries 'self-concordance research' (the seed's first
+  line); no kernel citation exists in the file and none was restored.
+- ITEM 15 (Nembutsu): the opening definition now quotes the Imadate footnote 3
+  verbatim ('Nembutsu in Japanese means "thinking of the Buddha," that is, of Amida.
+  In this case it is to invoke the name of Amida believing in the efficacy of his
+  Original Vow.') — verified in the downloaded text; the categorical not-a-technique
+  sentence DELETED; heading renamed 'Faith and Other Power'; 'most quoted saying' ->
+  'Chapter III states'; Y079 neutralized; Sources now cite the DOWNLOADED PDF URL
+  (ia802801...) rather than the landing page; description corrected (quoted AND
+  paraphrased, hyphenation normalized).
+- Five-file validation: --fast-track --base 4b2bebc4f: 5 checked, 0 failed.
+- manifest∩done = 21/70 (Movement snacks removed to label hold).
+- Round-2 resubmission: PENDING — the next worker/supervisor should run it (all round-1
+  repairs are applied and pushed; the advisor's round-1 verdicts for 11 and 15 were
+  'usable/pass after cleanup' and the cleanups are applied).

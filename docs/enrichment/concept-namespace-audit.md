@@ -380,3 +380,8 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   senses, not the organism-environment sense the citing principles carry. The technical term is
   from Dewey & Bentley, Knowing and the Known (1949), not opened this session. Page left at seed;
   held out of done pending supervisor disposition.
+- Movement snacks (2026-10-21, worker-w1ab-2e9d1a4f, w1ab): the opened source (Jenkins et
+  al. 2019, PMID 30649897) establishes the construct as stair-climbing "exercise snacks";
+  the page title's "movement snacks" label is not used by the opened record (the invented
+  etymology bridging the two was removed per advisor). Held out of done pending supervisor
+  disposition on the label/alias (rename to Exercise snacks or owner decision).
