@@ -98,3 +98,8 @@
 - Guided version: honestly noted as self-guided (three breaths are the guide; studied form is the written note). Related concepts: Attention residue, Attention management, Action over inertia.
 - Validation: ok; build ok; saved and pushed.
 - SESSION TOTAL: 25 kernels (4 new: K409, K410, K411, K412; 21 enriched: K100, K101, K102, K103, K104, K105, K106, K110, K113, K114, K115, K116, K161, K162, K163, K164, K194, K201, K245, K385, K400).
+
+## K108 — Meta-awareness check (2026-10-21)
+- Added Protocol (cued probes: 'Where is my attention right now?', name without judgment, gentle redirect), Evidence (Killingsworth & Gilbert 2010 full BREVIA text via Greater Good PDF: 2,250 adults, mind wandering 46.9% of samples, b = -8.79 P < 0.001, time-lag analyses suggest wandering causes unhappiness, 10.8% vs 4.6% variance), guided version = trackyourhappiness.org (the study's own free instrument, named in the paper).
+- Related concepts: Meta-awareness, Mindful attention, Rumination, Attention management. Validation: ok; build ok; saved and pushed.
+- SESSION TOTAL: 26 kernels (4 new, 22 enriched).
