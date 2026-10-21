@@ -14,6 +14,18 @@ docs/enrichment/sources/w1i/B040-plainwords-repair-proposal-67ce7e1d.md. Next: r
 taking over stale w1i for its last manifest item and the recorded QC debt (items 21-25
 milestone QC never ran; items 16-20 repairs pending verification).
 
+WORKER NOTE UPDATE (13:41 UTC, same worker, w1i baton): w1i manifest found COMPLETE (Parasocial
+contact hypothesis recorded done by a predecessor; 71 done entries). QC debt worked instead:
+System justification theory re-review CLOSED (read-only; all quotes + three claims verified
+against the re-opened 2004 review); items-16-20 milestone verification recorded (scoped PASS +
+repair-presence checks passed; Identity development locator FIXED on the page — the quote is the
+main text's second sentence, not its opening). Four plain-words repair proposals preserved for
+unowned entries (P191, B040, Y068, M055 — all verified no-owner across batches/ AND bands/),
+plus a queue re-check report: M055 worse than listed (60%), Y081 appears clean on direct read.
+Official detector re-run + owner minting requested. Remaining known open debt: optional-gloss
+simplification (standing); w1i cross-band state entry reconciliation (standing supervisor
+request).
+
 # Enrichment task board
 
 Closure (2026-10-21 11:35 UTC, worker-p1zzl-3d7b2d81): p1zzl repair state finished; all nine pages validated; isolated 5,745-entry build passed with all nine present. Source checkpoint 4f258f46f and completion checkpoint 160e6f8e8 verified on origin/main. Worker release performed at 11:35:24 UTC. The 27 reciprocal proposals are ready for supervisor review/integration; no worker integration occurred.
