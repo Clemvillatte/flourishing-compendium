@@ -66,7 +66,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Feng shui (harmonious environment)": "QC-pending: blockquote is Ci-hai lexicon definition reproduced in opened Yuan Ding ICOMOS paper (secondary carrier, provenance disclosed); awaiting supervisor acceptance under E016/E070/K001 precedent per TASKBOARD request",
+  "Feng shui (harmonious environment)": "RESOLVED 2026-10-21 (supervisor-df5053ec): Ci-hai blockquote verified character-for-character against the freshly opened ICOMOS Yuan Ding PDF (p. 2, 'Definitions of Fengshui' section); secondary-carrier quotation ACCEPTED under the E016/E070/K001 precedent with provenance disclosed on the page.",
   "Generative model theory": "skip-ahead quote verification: Clark 2013 blockquote re-verified character-for-character in the opened fil.ion.ucl.ac.uk PDF (ligature/line-break normalization only); degree 1",
   "Festinger": "Reopened for QC: advisor QC round 1: identity disposition pending supervisor (person-titled page on verification queue s2; keep as author-hub vs rename/merge into Social comparison); repairs applied (seed-line sentence removed, reader-addressing removed, Hyp IV standalone blockquote, 'most often' dropped, Wikipedia citation inline); item NOT done pending disposition",
   "Grit": "QC round 2: blockquote reduced to the Hou-verified fragment (p. 1087); master-trait contrast removed; abstract blockquote retained (fully verified)",
@@ -107,6 +107,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:20:13+00:00",
+ "updated": "2026-10-21 supervisor-df5053ec",
  "band_done": false
 }
