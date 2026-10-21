@@ -176,3 +176,18 @@
 - The Theravada/Mahayana naming sentence is bounded to the tradition
   labels as given in the Wikipedia Kleshas article snippet — hmm, NOT
   opened: see correction below.
+
+## The sublime (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 5 connections; well-defined aesthetic
+  category, canonical term since Burke). QUOTES verified against the
+  freshly fetched UNC carrier of the Enquiry Part I §7: both quoted
+  passages verbatim. Two drafted sentences (the safe-distance delight
+  reading from §7's continuation, and the Kant supersensible-vocation
+  sentence) were REMOVED before push — not in the opened excerpt.
+  Kant's Critique of Judgement listed in Sources as a seed reference
+  only, not opened.
+- No Related-concepts targets verified to exist for this page (Awe and
+  Beauty are principles, not concepts) — the seed had no Related section
+  either. Validator ok (fast-track).
+- QC-PENDING flag set (8th fresh item; supervisor sample requested).
