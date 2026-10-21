@@ -52,10 +52,10 @@
   "BE002": "QC-CLOSED 2026-10-21: primary PDF pp73/101/189 opened; quotes verified; stimulus/procedure/effect distinctions and historical scope repaired; inherited parallels unverified.",
   "AT046": "QC-CLOSED 2026-10-21: five sources opened; quote/result checks; broader positive review added, repeated-weekly-regimen limits and personal-reflection scope explicit; inherited parallels unverified.",
   "AT054": "QC-CLOSED 2026-10-21: both cited abstracts opened, quotes checked; process voice and imagined improvement guarantee removed; transfer inference scoped; inherited parallels unverified.",
-  "AT077": "Reopened for QC: QC: remove process voice and unsupported universal research-absence/best-guide claims"
+  "AT077": "QC-CLOSED 2026-10-21: both actual abstracts opened, quotations/counts checked; framework distinct from validated intervention, population/generalisation limits preserved; inherited parallels unverified."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T15:03:48+00:00",
+ "updated": "2026-10-21T15:04:58+00:00",
  "band_done": false
 }
