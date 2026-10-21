@@ -12,11 +12,13 @@
   "PP059",
   "PP074",
   "R016",
-  "R020"
+  "R020",
+  "R029",
+  "R031"
  ],
- "in_progress": "R029",
+ "in_progress": "R032",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:09:48+00:00"
+ "updated": "2026-10-21T04:10:10+00:00"
 }

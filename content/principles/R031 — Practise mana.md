@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 293** — Practise mana
 
-Recognise and uphold the inherent dignity and authority of every person. Mana is not earned or achieved; it is inherent. Your task is to recognise the mana of others, to uphold it through your actions, and to act in ways that are worthy of your own mana.
+Te Aka Māori Dictionary describes mana as "prestige, authority, control, power, influence, status, spiritual power, charisma", adding that it is "inherited at birth, the more senior the descent, the greater the mana". It also says that "A person or tribe's mana can increase from successful ventures or decrease through the lack of success", and that "The tribe give mana to their chief and empower him/her" ([Te Aka, mana](https://maoridictionary.co.nz/word/3424)).
 
 (Māori tikanga; Mead, 2003, Tikanga Māori; Durie, 1994, Whaiora.)
 
-**Plain words** Mana is inherent dignity and authority — not earned, not lost by circumstance. Your task is twofold: recognise and uphold everyone else's mana, and act in ways worthy of your own. Neither is a competition; both are practices.
+### What this means for the principle
 
-*For example:* The employer who gives the redundant worker the bad news in a way that preserves their standing — real information, real respect, real options — and is remembered for decades for exactly that.
+These sources do not say that mana is equal in every person or that it cannot change. The principle's reading, that every person has inherent dignity which others should uphold, is the compendium's interpretation. I did not open Mead 2003 or Durie 1994, which may state it more directly. Te Ara's glossary gives the short form as "authority, power, psychic force, prestige" ([Te Ara glossary](https://teara.govt.nz/en/glossary)).
+
+**Plain words**
+In the dictionary sense, mana is standing and authority that you inherit and that grows or shrinks with how you act. Acting in a way that protects other people's standing is a practice of mana.
+
+**For example**
+When you must give someone bad news, tell them privately, state the facts plainly, and name what options remain. Afterwards, ask yourself whether they left with their standing intact.
+
+## Sources
+
+- [Te Aka Māori Dictionary, mana](https://maoridictionary.co.nz/word/3424)
+- [Te Ara, Māori glossary](https://teara.govt.nz/en/glossary)
+
 ## Psychology parallels
 
 - **Self-dignity and self-worth** (Honneth, 1995)
