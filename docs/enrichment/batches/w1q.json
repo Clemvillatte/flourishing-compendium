@@ -53,7 +53,8 @@
   "Akrasia",
   "Cardinal virtues",
   "Being-toward-death",
-  "Angst"
+  "Angst",
+  "Anamnesis"
  ],
  "in_progress": null,
  "flagged": {
@@ -101,10 +102,11 @@
   "Akrasia": "fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): page was already enriched in an earlier session (IEP Aristotle's Ethics citation, A056/A059/SP026 principle links) but state never marked done; validated --fast-track against pre-session baseline, no changes needed",
   "Cardinal virtues": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Aquinas ST I-II q61 quotes (four cardinal virtues named; virtues contained under them; prudence principal; Cicero De Invent. Rhet. ii; Plotinus fourfold) verified verbatim via opened New Advent reproduction; Plato Republic cited via Aquinas's Plotinus line rather than directly; validated --fast-track",
   "Being-toward-death": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): replaced seed's Wikipedia citation with opened SEP Heidegger article (Wrathall); SZ quotes relayed by SEP verbatim; 'no one can die for me' from seed preserved as paraphrase; validated --fast-track",
-  "Angst": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): seed's Heidegger BT §40/Kierkegaard/Tillich/Yalom line kept as structure; quotable material from opened SEP Heidegger article (anxiety as finitude disclosure; flight from nothingness); Kierkegaard/Tillich/Yalom described from standard accounts, not directly quoted; validated --fast-track"
+  "Angst": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): seed's Heidegger BT §40/Kierkegaard/Tillich/Yalom line kept as structure; quotable material from opened SEP Heidegger article (anxiety as finitude disclosure; flight from nothingness); Kierkegaard/Tillich/Yalom described from standard accounts, not directly quoted; validated --fast-track",
+  "Anamnesis": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Plato Meno/Phaedo 73a-b anamnesis material quoted verbatim via opened SEP Plato article (Kraut); Meno slave boy described from the SEP's summary; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:41:46+00:00",
+ "updated": "2026-10-21T16:42:56+00:00",
  "band_done": false
 }
