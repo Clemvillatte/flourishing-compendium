@@ -1145,3 +1145,30 @@ open).
   confirmed in the same record; the second-half phone-break deficit is the
   paper's own finding. Round-1 repairs confirmed on the current page: the Fox
   byline is absent. All components close.
+- **AT042 — Note sleep's pull on attention**: RESOLVED. The Lim & Dinges 2010
+  blockquote ("Effect sizes ranged from small and nonsignificant (reasoning
+  accuracy: g = -0.125, 95% CI [-0.27, 0.02]) to large (lapses in simple
+  attention: g = -0.776, 95% CI [-0.96, -0.60], p < .001).") verified VERBATIM
+  against a fresh fetch of the cited PubMed 20438143 abstract; the 70
+  articles / 147 cognitive tests / six cognitive categories / short-term
+  (<48 hr) scope confirmed in the same abstract. Round-2 repairs confirmed on
+  the current page (evidence bound to the study's measures; no one-night
+  extrapolation). All components close.
+- **AT049 — Learn to use breath as an attentional anchor**: RESOLVED. The
+  Zaccaro et al. 2018 blockquote ("Slow breathing techniques promote autonomic
+  changes increasing Heart Rate Variability and Respiratory Sinus Arrhythmia
+  paralleled by Central Nervous System (CNS) activity modifications.")
+  verified VERBATIM against a fresh fetch of the cited Frontiers article. The
+  anchor-vs-pacing conflation is absent from the current page — the body
+  explicitly separates noticing an unaltered breath from paced-breathing
+  findings ("Effects reported for paced breathing should not be assumed for
+  simply noticing an unaltered breath"). All components close.
+- **AT051 — Practise loving-kindness as attention training**: RESOLVED. The
+  Fredrickson et al. 2008 blockquote ("Results showed that this meditation
+  practice produced increases over time in daily experiences of positive
+  emotions...") verified VERBATIM against a fresh fetch of the cited PubMed
+  18954193 abstract; the field-experiment-with-working-adults and
+  half-randomly-assigned design confirmed in the same abstract ("n = 139,
+  half of whom were randomly-assigned"). The negative-bias claim is correctly
+  withheld ("do not establish that this exercise changes negative attentional
+  bias"). All components close.
