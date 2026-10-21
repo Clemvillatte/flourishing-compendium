@@ -98,3 +98,5 @@
   "three channels" miscount. Normal validator: ok.
 - Links checked: Attachment theory and Restorative environments pages
   exist. In the compendium links grounded; E030/D035 cited-in preserved.
+  - Validator round 2: caught staging pattern "not only housing but" —
+    reworded. Normal validator now ok.

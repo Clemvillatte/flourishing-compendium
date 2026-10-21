@@ -16,7 +16,7 @@ Roots on this definition grow through place, birth, occupation, and one's social
 
 ### Root shock
 
-The modern clinical descendant of the idea is Mindy Thompson Fullilove's. Studying the displacement of American neighborhoods by urban renewal, she named the injury "root shock": "the traumatic stress reaction to the loss of all or part of one's emotional ecosystem" (Fullilove, 2004, p. 15). The image is botanical, and a twentieth-anniversary essay co-authored by Fullilove states its premise plainly: "Just as the health of the plant is dependent on its relationship – its rootedness – to its environment, so the health of each person is affected by their belonging to place and community." What is lost in displacement is not only housing but the web of attachments that made the environment one's own, the detailed knowledge of places and people by which a person knows who they are.
+The modern clinical descendant of the idea is Mindy Thompson Fullilove's. Studying the displacement of American neighborhoods by urban renewal, she named the injury "root shock": "the traumatic stress reaction to the loss of all or part of one's emotional ecosystem" (Fullilove, 2004, p. 15). The image is botanical, and a twentieth-anniversary essay co-authored by Fullilove states its premise plainly: "Just as the health of the plant is dependent on its relationship – its rootedness – to its environment, so the health of each person is affected by their belonging to place and community." Displacement costs a person more than housing; it costs the web of attachments that made the environment their own, the detailed knowledge of places and people by which a person knows who they are.
 
 ### In the compendium
 
