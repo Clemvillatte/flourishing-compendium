@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
 
-Benign envy is one of the two forms of envy distinguished by van de Ven, Zeelenberg and Pieters (2009): envy that motivates the envier to move up toward the envied person's position ([van de Ven et al. 2009, Emotion 9(3), abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The research empirically supports the distinction between this form and malicious envy, and discusses its implications for theories of cooperation, group performance and Schadenfreude ([van de Ven et al. 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)).
+Benign envy is one of the two forms of envy distinguished by van de Ven, Zeelenberg and Pieters (2009): envy that motivates the envier to move up toward the envied person's position ([van de Ven et al. 2009, Emotion 9(3), abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The parent emotion is defined in the same paper: envy is the painful emotion caused by the good fortune of others ([van de Ven et al. 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)). The research empirically supports the distinction between the benign form and malicious envy, and the authors discuss the implications of distinguishing the two envy types for theories of cooperation, group performance and Schadenfreude ([van de Ven et al. 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19485619/)).
 
 > "the experience of benign envy leads to a moving-up motivation aimed at improving one's own position" — [van de Ven, Zeelenberg & Pieters 2009, abstract, PubMed 19485619](https://pubmed.ncbi.nlm.nih.gov/19485619/)
 
