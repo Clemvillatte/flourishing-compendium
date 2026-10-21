@@ -1,0 +1,26 @@
+{
+ "lane": "s1e",
+ "items": {
+  "s1e-001": {
+   "status": "qc_pending",
+   "angle": "D045 empty cup: McClintock - expertise kept for the doing, expectation emptied from the seeing; the plant told her where to go",
+   "history": [
+    {
+     "t": "2026-10-21T12:27:58+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:27:58+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:33:42+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1 applied; all quotes re-verified against opened sources"
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-21T12:33:42+00:00"
+}
