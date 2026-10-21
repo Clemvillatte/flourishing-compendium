@@ -15,7 +15,7 @@ In Patañjali's yoga, ahimsa is the first of the five yamas, the restraints that
 
 ### Gandhi's engine
 
-Gandhi turned the floor into a political force. He read ahimsa as covering not only physical injury but hatred, harsh words and dishonesty, and said: "Nonviolence is common to all religions, but it has found the highest expression and application in Hinduism" (Gandhi, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
+Gandhi turned the floor into a political force. He read ahimsa as reaching past physical injury to hatred, harsh words and dishonesty, and said: "Nonviolence is common to all religions, but it has found the highest expression and application in Hinduism" (Gandhi, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
 
 ### In the compendium
 
@@ -35,8 +35,8 @@ Gandhi turned the floor into a political force. He read ahimsa as covering not o
 
 ## Sources
 
-- Wikipedia, Ahimsa — lead definition, yamas, Jainism, Buddhism, Gandhi (opened)
-- Anguttara Nikaya V.177 (Batchelor translation, as quoted in Wikipedia)
+- [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) — lead definition, yamas, Jainism, Buddhism, Gandhi, verbatim quotes (opened)
+- Anguttara Nikaya V.177 (Batchelor translation, as quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa))
 
 ## Cited in philosophy parallels
 
