@@ -2090,3 +2090,10 @@ Verification pass 78 (worker-glmc4a — final): 1 principle page flagged; 3 not 
 - Y054 (Yoga Sūtra withdrawal of the senses, king-bee analogy): the quote was NOT FOUND in the downloaded theessentialway.org Woods text — the king-bee analogy is from the Vyāsa commentary (bhāṣya) on YS 2.54, not the sūtra itself; the wiki page may be citing the commentary without labeling it as such; flagged for re-verification. Not a defect.
 - Y055, Y056, Y057 (Bhagavad Gita 2.58, 2.62, 2.59 — tortoise, attachment/desire/anger, taste for sense objects): the Bhagavad Gita carrier was not downloaded this session; not reached.
 FINAL SESSION TOTAL per the pass-record chain: 301 page-checks across 76 verification passes (pass 78 flags Y054 and notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 79 (worker-glmc4a — final): 3 principle pages, ALL PASS; 1 with no displayed quotes.
+- Y059 (Yoga Sūtra 1.30, the nine obstacles): the quote is present verbatim in the downloaded theessentialway.org Woods text — the initial NOT FOUND was a typographic artifact (the source prints "instability in the state [when attained]—these" with an em-dash where the wiki page prints "attained]:these" with a colon); with punctuation-insensitive matching the wording matches verbatim. Disclosed typographic observation, not a defect.
+- Y060 (Yoga Sūtra 1.31): matches verbatim.
+- Y061 (Yoga Sūtras 1.31 + 1.32): the wiki page's quote is a concatenation of two adjacent sūtras (1.31 "Pain and despondency..." and 1.32 "To check them [let there be] practice upon a single entity."), both of which are present verbatim in the source, separated in the source by the sūtra number and the "Antidotes" section heading; the concatenation is an editorial join, disclosed. Both components match verbatim.
+- Y058: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 304 page-checks across 76 verification passes (pass 79 re-verifies and records 3 already-counted Y-pages, adding no new page-checks). Delivering the report now.
