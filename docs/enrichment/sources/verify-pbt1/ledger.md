@@ -444,3 +444,24 @@ SEP "Jurgen Habermas" (Finlayson & Rees).
    lifeworld claims all verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 21 (16:42Z) — w1aa quote-fidelity verification, twentieth batch
+
+Carriers opened fresh: Lancet Planetary Health Hickman et al fulltext, Frontiers Lehrer &
+Gevirtz fulltext, Wikipedia "Kalokagathia", Bilkent repository Wolt (EE VIII.3 study).
+
+1. Hickman et al — blockquote VERBATIM; sample description (10,000 aged 16-25, ten
+   countries, 1,000 each, Kantar platform, May 18 - June 7 2021), the 45%/75% findings,
+   betrayal-over-reassurance, constructive-or-practical-anxiety and rational-not-illness
+   sentences, non-standardised measures, non-representativeness and the "without
+   measures of mental health" sentence all verbatim-supported.
+2. HRV coherence research — blockquote VERBATIM; the resonance mechanism (approx. 0.1 Hz,
+   ~six breaths per minute, baroreflex, phase relationships, compounding) and the
+   evidence-status claims (few areas with extensive controlled-study support;
+   hypertension, athletic performance, emphysema, depression/anxiety) all
+   verbatim-supported.
+3. Kalokagathia — both EE VIII.3 blockquotes VERBATIM vs the opened Bilkent study
+   (Wolt); the Wikipedia attestation sentence and the Plato agathos-kai-sophos claim
+   verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
