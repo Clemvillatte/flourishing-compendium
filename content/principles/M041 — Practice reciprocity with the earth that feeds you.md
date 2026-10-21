@@ -12,16 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 41** — Practice reciprocity with the earth that feeds you
 
-The milpa (the corn-field) is not a production facility in this tradition; it is a relationship: the land gives, the rain gives, the seed gives, and the farmer gives labor, care, offerings, and rest to the field (the fallow years are the land's sabbath). The modern translation of the principle is plain: eat as a participant in a web you did not build and owe something to. Practically, keep one practice of actual reciprocity with your food's ground: know your farmers, garden something, keep a fallow practice, or tithe to the land's care.
+The Food and Agriculture Organization's description of the Peninsular Maya milpa in Yucatán, Mexico, calls it "a traditional agroforestry system, formed by a polyculture". It says that the Maya "organize rituals and ceremonies to ask permission and give thanks for the use of nature to the supernatural powers that possess and care for natural resources", and that "the worldview and ceremonies resulting from the relationship established with nature through milpa management has been fundamental to the system's way of existence" ([FAO, Ich Kool: Mayan milpa](https://www.fao.org/giahs/giahs-around-the-world/mexico-ich-kool-mayan-milpa-system/en)). A study of the Tzeltal Maya of Tenejapa in Chiapas describes the milpa as a place for learning about oneself and about the ceremonial system, and for offering the harvest correctly ([SciELO México, 2017](https://www.scielo.org.mx/scielo.php?pid=S0185-25742017000200271&script=sci_abstract); read in Spanish via the abstract). These sources concern Maya communities, not the whole Mesoamerican world, and I found no source in them for a fallow "sabbath".
 
-(The milpa cycle as presented in the ethnographic literature; the Mesoamerican agricultural tradition.)
+The psychology of connection to nature is correlational. A meta-analysis of 30 samples (n = 8,523) found "a small but significant effect size (r = 0.19)", with those more connected to nature tending "to experience more positive affect, vitality, and life satisfaction". The authors note that the analysis examined "the strength of the relationship but not necessarily if one variable causes the other" (Capaldi et al. 2014, Front Psychol 5:976, [Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00976/full)).
 
-**Plain words** The milpa is a relationship, not a production facility: the land gives, the rain gives, the seed gives, and the farmer gives labor, care, offerings — and rest to the field (the fallow years are the land's sabbath). Eat as a participant in a web you didn't build and can't repay in full; act like it.
+**Plain words**
+Accounts of Maya milpa farming describe the field as part of a relationship that includes ceremony, thanks and permission-asking toward the land. People who feel more connected to nature report somewhat more positive feelings and vitality, though the studies cannot show which causes which. If you want to practise reciprocity with your food's ground, choose a small, regular act such as gardening, composting or buying from farmers you know.
 
-*For example:* The household that starts composting, not as a chore, but as the minimum rent for occupying a web — one small return in a relationship that's been all take.
+*For example:* A household starts composting as its small payment for living off a web of soil and farmers it did not build. This is an imagined case.
+
+## Sources
+
+- [FAO, Ich Kool: Mayan milpa of the Yucatan peninsula, Mexico, Globally Important Agricultural Heritage Systems](https://www.fao.org/giahs/giahs-around-the-world/mexico-ich-kool-mayan-milpa-system/en)
+- [La práctica de la milpa, el ch'ulel y el maíz como elementos articuladores de la cosmovisión sobre la naturaleza entre los tzeltales de Tenejapa (SciELO México, 2017; abstract)](https://www.scielo.org.mx/scielo.php?pid=S0185-25742017000200271&script=sci_abstract)
+- [Capaldi, C. A., Dopko, R. L. & Zelenski, J. M. (2014), The relationship between nature connectedness and happiness: a meta-analysis, Front Psychol 5, 976](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00976/full)
+
 ## Psychology parallels
 
-- **[[Nature connectedness|Nature connectedness and well-being]]**, the research showing that felt connection to nature predicts well-being and pro-environmental behavior (Mayer and Frantz's connectedness research, as framework; Kaplan, 1995, for restoration)
+- **[[Nature connectedness|Nature connectedness and well-being]]**, a meta-analysis of 30 samples found a small positive association with happiness (r = 0.19; Capaldi et al., 2014); Mayer & Frantz, 2004, and Kaplan, 1995, are cited in the original and were not opened
 
 ## Philosophy parallels
 

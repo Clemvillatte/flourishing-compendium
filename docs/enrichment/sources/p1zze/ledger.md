@@ -37,3 +37,7 @@
 ## M040 — Meet death with a made face
 - Opened: Florentine Codex Book VI OCR (funeral speeches/prayers on war dead — destination cosmology, out of scope; no counsel on affairs/farewells found); León-Portilla 1995 Voices of Mexico (poem quoted verbatim); Detering et al. 2010 BMJ (PubMed 20332506, N=309). Cozzolino unopened (bare).
 - Seed "composure not panic / affairs in order / farewells" NOT found in the Nahua text opened -> labelled modern application; seed "removes everyday anxiety" dropped (trial measured relatives' distress, not patients' anxiety).
+
+## M041 — Reciprocity with the earth
+- Opened: FAO GIAHS Ich Kool page (search excerpt); SciELO México Tzeltal milpa paper (Spanish abstract; journal/author not confirmed -> cited as SciELO México 2017); Capaldi, Dopko & Zelenski 2014 (Frontiers, abstract + results).
+- Seed "fallow years are the land's sabbath" and "Mesoamerican tradition generally" NOT supported by opened sources; scoped to Maya communities. Mayer & Frantz 2004, Kaplan 1995 unopened (bare refs).
