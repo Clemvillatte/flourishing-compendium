@@ -7,6 +7,18 @@ non-overlapping zero-story targets minted for s1e).
 - s1e-001: D045 (Keep the empty cup) — McClintock, "The Material Told Her Where to Go". Advisor QC round 1 applied; quotes re-verified against opened sources. Supervisor registered as ST408 (published).
 - s1e-002: D065 (Use the light, return to the insight) — Casals, "Eighty Years of Two Preludes and Fugues". Supervisor registered as ST409 (published). **ROUTE for supervisor: advisor milestone QC (2026-10-21) found corrections that the integrated ST409 page may still carry: (1) the unsupported causal bridge ("What carried him through it..."), (2) the private/public-source inference from the White House program, (3) the Prades silence claim and the "brought the Bach Cello Suites back into the world's repertoire" intro claim, neither established by the opened extracts, (4) the boycott wording — the opened sources attribute it to his stated position (NYT) and to public performances in capitals (WHHA), not an exceptionless lifelong practice. The corrected lane draft at docs/enrichment/drafts/s1e/s1e-002.md carries the fixes; please reconcile ST409 if its text predates them.**
 - s1e-003: B176 (Treat the present moment as the miracle) — Brother Lawrence, "The Noise and Clatter of the Kitchen". Advisor QC round 2 applied; all quotes re-certified verbatim against the downloaded raw Gutenberg texts (pg13871.txt, pg5657.txt). At qc_pending, awaiting supervisor registration.
+- s1e-004: D115 (Reward the student, not the system) — Marva Collins, Westside Prep. Em-dash budget fix; students-teaching-themselves passage carries DDJ 17 "we are as we are, of ourselves". qc_pending.
+- s1e-005: D041 (Keep your word while the world changes) — George Fox, Journal. CCEL quotes verified (ocean of light, the voice, Pendle Hill, stand still in the Light). qc_pending.
+- s1e-006: B075 (Search for the unfindable self) — Ramana Maharshi, the death-drama at 16. Honest caveat carried: Ramana's Vedantic positive Self differs from the Buddhist negative conclusion; the story carries the shared search, not the conclusion. qc_pending.
+- s1e-007: B095 (Let action arise from stillness) — Eugen Herrigel, Zen in the Art of Archery. Breath passages as spine; Yamada critique carried honestly ("It shoots" possible mistranslation; Awa never practiced Zen). qc_pending.
+- s1e-008: P191 (Joy is the felt signature of creation; distinct from pleasure) — Andrew Wiles, "September 19, and the Thing Was Still There". All quotes verified against the opened PBS NOVA transcript; the arc turns on joy arriving with the created proof while the world still believed it broken. qc_pending.
+
+## Sidequest (owner request, 2026-10-21 ~12:52 UTC)
+Academy DISCOVERY gallery cleanup, pushed as b8c885909 + 56715e551 + a57b619ac:
+- One card per URL: 767 entries deduped to 602 (0 duplicate URLs remain).
+- Head-cropping fixed: card images now object-fit: contain (no cut heads).
+- 118 mismatched person photos removed (monogram fallback, e.g. Nussbaum photo no longer on the Aristotle's Ethics card); 36 placeholder/wrong images restored from verified sources.
+- Remaining ~258 image-less cards render as styled monograms; restoring real images for them needs a follow-up (Wikipedia API rate-limited the session).
 
 ## Lane scope (non-overlapping with s1a/s1b/s1c/s1d and supervisor batches)
 Zero-story pool picks: D045, D065, B176, plus continued picks from the remaining
