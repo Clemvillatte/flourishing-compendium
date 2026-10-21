@@ -50,7 +50,8 @@
   "Movement snacks",
   "Obsessive attachment",
   "Obstruction as stimulus",
-  "One principle at a time"
+  "One principle at a time",
+  "Ontological relativity"
  ],
  "in_progress": null,
  "flagged": {
@@ -80,11 +81,12 @@
   "One koan": "IDENTITY/LABEL HOLD (advisor QC 2026-10-21, worker-pxy2-w1ab): 'One koan' may be a compendium label for the Rinzai assigned breakthrough-koan practice rather than a distinct named concept (Koan practice already exists). Page pushed as source-bounded WIP (quote carriers opened: SEP Japanese Zen sec.2 + Wikipedia Koan + Wikisource Gateless Gate index); held out of done pending supervisor disposition. Batch note correction: wikisource subpage/api returned 403/blocked; the wikisource INDEX page opened fine and supports Case 1 = Joshu's Dog (Senzaki/Reps).",
   "Obsessive attachment": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = Gutenberg Pusey Confessions Book IV + marxists.org Beauvoir ch2; both quotes verified verbatim; Symposium seed line preserved but not opened this session; sense follows citing principle E074 per protocol rule 6",
   "Obstruction as stimulus": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Gutenberg HNC Part Three I; all quotes verified verbatim; title is a compendium label for Dewey mechanism (hitch occasions thought) - mild namespace note for supervisor; Experience and Nature seed line preserved with pointer to P085 note",
-  "One principle at a time": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = Access to Insight MN 118 + Wikisource Seneca Letter 2; quotes verified verbatim; Buddhist seed + Stoic citing principle (S135) bridged"
+  "One principle at a time": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = Access to Insight MN 118 + Wikisource Seneca Letter 2; quotes verified verbatim; Buddhist seed + Stoic citing principle (S135) bridged",
+  "Ontological relativity": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Quine sec 6.2; quotes verified verbatim; Quine primary essay not freely openable - doctrine summarized via SEP per fast-track bar"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:25:53+00:00",
+ "updated": "2026-10-21T14:26:34+00:00",
  "band_done": false,
  "new_concepts": [
   {
