@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 12** — Understand that motivation is a resource to be managed, not just summoned
 
-Motivation is not infinite; it is a resource that can be spent, depleted, and restored. Managing motivation (protecting it from depletion, restoring it through rest and recovery) is as important as generating it.
+The principle's claim needs its modern correction stated up front: the model of willpower as a depletable resource is contested. Inzlicht and Berkman's review puts it: "Despite claims that self-control fails due to lack of capacity, a literal depletion of some resource that takes time to replenish... more and more studies are incompatible with the strong version of this claim". What survives is more precise:
 
-**Plain words** Motivation is a budget, not an ocean — it depletes, it needs restocking, and pretending otherwise is how people burn out in March. Manage it like money: spend it on the important, protect it from the leaky.
+> "self-control wanes over time not because people have no energy but because people experience a shift in motivation away from 'have-to' goals, which are carried out through a sense of obligation and duty, and instead come to prefer 'want-to' goals, which are fun, personally enjoyable, and meaningful" (Inzlicht & Berkman, 2015)
 
-*For example:* The over-committed month where every evening is "just one small thing" — by week three, nothing sounds good, including the things you love. That's often an empty account — and if it persists or deepens, it deserves a proper check-in with someone qualified.
+Mental fatigue is real; the same review argues that depletion and fatigue describe the same phenomenon, and that it yields to motivation: "Depletion and fatigue can be overcome with sufficient task-motivation". Managing motivation therefore means managing the have-to/want-to balance and recovery, not hoarding a fuel that may not exist.
+
+**Plain words** The old picture said willpower was a fuel tank that empties; the research does not support that. What actually happens: after a stretch of obligation your motivation tilts from have-to toward want-to, and effort starts to feel costly. Managing motivation means noticing the tilt: restore meaning to the task, schedule recovery the way you would after physical fatigue, or pay yourself in want-to time.
+
+*For example (imagined):* A month of obligatory evening tasks; by week three nothing sounds good, including the things you love. The reading is not an empty tank but a pile of have-to with no want-to in it; the fix is to schedule both, and if the flatness persists, to take it to someone qualified.
+
+## Sources
+
+- [Inzlicht, M., & Berkman, E. (2015). Six Questions for the Resource Model of Control (and Some Answers). Social and Personality Psychology Compass — PubMed Central open text](https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/) — the have-to/want-to shift, the fatigue identification and the task-motivation lever
 ## Psychology parallels
 
 - **Motivation as a resource to be managed**, motivation can be depleted by overuse and restored by rest (Inzlicht et al., 2015; Kurzban et al., 2013)
