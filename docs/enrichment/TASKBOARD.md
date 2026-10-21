@@ -2097,3 +2097,9 @@ Verification pass 79 (worker-glmc4a — final): 3 principle pages, ALL PASS; 1 w
 - Y061 (Yoga Sūtras 1.31 + 1.32): the wiki page's quote is a concatenation of two adjacent sūtras (1.31 "Pain and despondency..." and 1.32 "To check them [let there be] practice upon a single entity."), both of which are present verbatim in the source, separated in the source by the sūtra number and the "Antidotes" section heading; the concatenation is an editorial join, disclosed. Both components match verbatim.
 - Y058: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 304 page-checks across 76 verification passes (pass 79 re-verifies and records 3 already-counted Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 80 (worker-glmc4a — final): 2 principle pages — 1 PASS, 1 flagged; 2 with no displayed quotes.
+- Y063 (Yoga Sūtra 1.32, Johnston translation): "Steady application to a principle is the way to put a stop to these." matches the already-downloaded Gutenberg #2526 text verbatim. PASS.
+- Y064 (Yoga Sūtra on belief as mental approval, "like a good mother"): the quote was NOT FOUND in the downloaded theessentialway.org Woods text — the phrasing suggests a different translation or commentary not yet located; flagged for re-verification. Not a defect.
+- Y062, Y065: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 306 page-checks across 77 verification passes (pass 80 re-verifies Y063 and flags Y064, adding no new page-checks). Delivering the report now.
