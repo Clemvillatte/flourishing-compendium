@@ -1329,3 +1329,37 @@ open).
   ("large uncontrolled effect size estimates from pre- to post-treatment
   and follow-up"). The treatment-description scoping matches the source.
   All components close.
+- **D014 — Preserve your childlike vitality**: RESOLVED. All six displayed
+  Legge fragments verified VERBATIM against a fresh download of the cited
+  Gutenberg pg216 raw text (ch. 55 infant and vitality passages, ch. 10
+  breath-practitioner passage, ch. 28 simple-child return, ch. 55
+  force-warning). QC rounds 2-4 repairs confirmed in the current body: the
+  infant-mechanism and forcing-ages claims are absent; the ch. 10 passage is
+  correctly attributed to a practitioner's attention to breath. The
+  psychology-parallels items (Brown 2008, Piff 2015) remain inherited and
+  unopened — preserved per protocol, standing note for the owner.
+- **D056 — Follow the natural grain**: RESOLVED. All four displayed Legge
+  fragments verified VERBATIM against a fresh download of the cited ETH
+  Zurich Zhuangzi PDF (the method-of-Dao reply, the whetstone edge, the
+  natural-lines passage, the complicated-joint caution). QC round 2-3 repairs
+  confirmed: the knife-comparison is an unquoted paraphrase as recorded
+  ("the good cook's knife lasts a year, the ordinary cook's a month");
+  Plain words is a genuine re-derivation (stalled-work situation). The
+  inherited parallels (Gibson 1979, Miller & Rollnick 2013) remain unopened —
+  preserved per protocol.
+- **D061 — Act before things arise**: RESOLVED. All three displayed Legge
+  fragments verified VERBATIM against a fresh download of the cited
+  Gutenberg pg216 raw text (the early-action opening, the
+  rest-easily-held reasoning, the eve-of-success failure mode). QC round 3
+  repairs confirmed: the quote ends with the source's semicolon preserved;
+  the thousand-li image is absent; the sprout/heap illustrations are
+  paraphrases grounded in the chapter's own images. The inherited
+  parallels (Meichenbaum) remain unopened — preserved per protocol.
+
+NARROWLY-SCOPED NOTES (owner disposition welcome, no page change made): each
+of the three pages carries inherited psychology-parallels rows that were never
+opened by the band workers and are preserved per protocol (D014: Brown 2008,
+Piff et al. 2015; D056: Gibson 1979, Miller & Rollnick 2013; D061: Meichenbaum
+preventive coping). These are bare-reference rows, not claim-bearing prose;
+they were outside the p1h workers' opened sources and are recorded here as the
+honest boundary of this resolution.

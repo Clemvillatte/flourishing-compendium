@@ -65,9 +65,9 @@
   "in_progress": null,
   "flagged": {
     "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
-    "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
-    "D056": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
-    "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
+    "D014": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): all six Legge fragments verbatim vs fresh Gutenberg pg216 download; QC round 2-4 repairs confirmed on page; inherited parallels (Brown 2008, Piff 2015) preserved per protocol as bare references. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
+    "D056": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): all four Legge fragments verbatim vs fresh ETH Zurich Zhuangzi PDF download; knife-comparison is unquoted paraphrase per QC record; Plain words genuine re-derivation. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
+    "D061": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): all three Legge fragments verbatim vs fresh Gutenberg pg216 download; semicolon preserved; thousand-li image absent; sprout/heap paraphrases grounded. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
     "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)",
     "B081": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): SN 46.53 blockquote verbatim vs fresh AccessToInsight fetch; wet/dry fuel imagery and restless-mind reversal confirmed in sutta; unsupported physiology/effort claims absent. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
     "B112": "supervisor scoped verification (2026-10-21 15:14Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — Thich Nhat Hanh reference removed (grep-verified absent). Per the p1h ledger (rounds 1-3).",
