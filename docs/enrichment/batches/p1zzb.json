@@ -16,13 +16,12 @@
   "SE031",
   "SE036",
   "SE044",
-  "SO008",
   "SO022",
   "SO023",
   "SO029",
   "SE078"
  ],
- "in_progress": null,
+ "in_progress": "SO008",
  "flagged": {
   "MO061": "inherited psychology-parallel lines (Steger 2012/2006 'predicts motivation and goal attainment') not verified against an opened source - left untouched per protocol (link sections), routed to supervisor for verification or reduction",
   "MO062": "Reopened for QC: QC milestone round 2: practice classification reinstated rejected contrast",
@@ -39,10 +38,11 @@
   "SE031": "Reopened for QC: QC milestone 3: VIII.36 near-verbatim unquoted; self-forgiveness sequence unsupported by XII.1; sentence-complete verdict",
   "SE036": "Reopened for QC: QC milestone 3: joined quote splice; forgetfulness-only claim; camel-as-carrying-both reading; adaptation/betrayal claims",
   "SE044": "Reopened for QC: QC milestone 3: added period on scale item; settles-the-distinction framing; invented negative quotation; cost-more-authentic claim",
-  "SE078": "Reopened for QC: QC milestone 4: builder-finishing-line and VSR-equivalence claims; ethike/ethos borrowed wording; example staging"
+  "SE078": "Reopened for QC: QC milestone 4: builder-finishing-line and VSR-equivalence claims; ethike/ethos borrowed wording; example staging",
+  "SO008": "Reopened for QC: QC milestone 4: WHO nesting attribution; structure-to-body pathway; landlords metaphor; invented treatment result"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:36:37+00:00",
+ "updated": "2026-10-21T00:36:49+00:00",
  "band_done": false
 }
