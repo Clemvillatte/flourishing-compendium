@@ -26,3 +26,5 @@
 - Opened (search excerpts): Bolier 2013 (Springer); PMC9638203 summary of Bolier; PLOS ONE reanalysis (r ~ .10); Lally 2010 abstract (Wiley); Surrey interview. Sheldon 2013 and Lyubomirsky 2008 (seed citations) not opened. "Gains compound" not supported. Gym analogy dropped.
 ## PP067 — track what matters
 - Opened (search excerpts): Harkin 2016 abstract (PubMed) and APA summary; JMIR 2012 trial excerpt (authors not seen); Nature npj Digital Medicine review (journal name not seen on page; cited by title only); JMIR 2025 meta-analysis. Seed citations Park 2014, Bolier 2013 not opened for this claim. Calibration framing is the compendium's. Mood-vs-walk anecdote dropped.
+## PP070 — vary the form, keep the function
+- Opened (search excerpts): Lyubomirsky, Sheldon & Schkade 2005 (author PDF); Wiley handbook chapter summary; Oxford chapter (Layous & Lyubomirsky) describing the 10-week kindness trial. The original Sheldon et al. trial paper not opened (sources disagree on year 2012/2013, so no year given). Evidence is from the model authors; "keep the function" rule is the compendium's and untested. Wikilink to Savoring preserved.

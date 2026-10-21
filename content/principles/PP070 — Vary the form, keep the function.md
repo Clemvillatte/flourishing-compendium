@@ -12,13 +12,27 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 70** — Vary the form, keep the function
 
-When a practice goes stale, vary the form while keeping the function. If [[Savoring|savoring]] has become mechanical, change the context: savour a meal instead of a sunset, savour a conversation instead of a meal. If journaling has become a chore, change the format: voice instead of writing, morning instead of evening, structured instead of free. The function is what matters; the form is negotiable.
+The idea comes from research on hedonic adaptation. Lyubomirsky, Sheldon and Schkade proposed that activities offer the best chance of lasting gains because, unlike circumstances, they can be varied. In their path model, "only positive activity change predicted maintained happiness gains" at a later time point ([Lyubomirsky, Sheldon and Schkade 2005](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Sheldon-Schkade-2005.pdf)). The same group's later hedonic adaptation prevention model says variety can be added by "completing multiple activities simultaneously, alternating among activities, and altering their execution" ([Wiley handbook chapter summary](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118315927.ch21)).
+
+The direct test is a 10-week randomised trial. Participants who "performed a wide variety of kind acts showed increases in happiness", while those who repeated the same acts "showed decreases in happiness across the intervention" ([Oxford chapter by Layous and Lyubomirsky, as I read it](https://academic.oup.com/edited-volume/34277/chapter/290646819?guestAccessKey=)). That summary comes from the model's own authors, and I did not open the original paper. It is also one trial, in kindness.
 
 (Lyubomirsky et al., 2005; Sheldon et al., 2013.)
 
-**Plain words** When a practice goes stale, change the form and keep the function. If savouring sunsets has become mechanical, savour a meal or a conversation instead. Rotate the context so the attention stays fresh.
+### Scope
 
-*For example:* Journaling by voice on a walk instead of in the same notebook at the same desk.
+The seed's rule to keep the function while varying the form is the compendium's. These studies varied the acts within one practice, such as kindness, and did not test switching from writing to voice journaling. I found no evidence on that.
+
+**Plain words**
+Repeating the same act can wear down its benefit, and varying it may help, based on one kindness trial from the model's authors. Whether this holds for journaling or [[Savoring|savoring]] is untested.
+
+**For example**
+If you do one kind act a week, plan a different act each week for ten weeks and note which ones you would repeat.
+
+## Sources
+
+- [Lyubomirsky, Sheldon and Schkade 2005, Pursuing Happiness: The Architecture of Sustainable Change](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Sheldon-Schkade-2005.pdf)
+- [Making Happiness Last: the Hedonic Adaptation Prevention Model (Wiley handbook chapter)](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118315927.ch21)
+- [The Promise of Fostering Greater Happiness (Oxford Academic)](https://academic.oup.com/edited-volume/34277/chapter/290646819?guestAccessKey=)
 
 ## Psychology parallels
 
