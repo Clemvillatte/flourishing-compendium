@@ -182,3 +182,22 @@
 - How-clauses kept modest (Ahimsa definitional; courage grounded in
   "weapon of the strong" quote; Ordering the soul compendium-internal).
 - Normal validator: ok. State recorded (done count 16).
+
+## Item 19: Schadenfreude (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: single line "gloating damages trust and invites reprisal." + existing
+  Related links (Mudita, SP036) preserved. Full rewrite.
+- Carriers opened: (1) Smith, Powell, Combs & Schurtz 2009, "Exploring the
+  When and Why of Schadenfreude", SPP Compass 3(4) — course-hosted full PDF
+  (gruberpeplab.com). Verified verbatim: the Random House definition as
+  quoted in the paper, the three-conditions summary paragraph, and the
+  "royal road to schadenfreude" deservingness sentence. (2) Pagliaro,
+  Brambilla, Di Prinzio & Teresi 2019, Psicologia sociale — author-hosted
+  PDF. Verified verbatim: Study 1 negative-impression/avoidance result,
+  Study 2 no-competition-dependence result. The seed line "gloating damages
+  trust and invites reprisal" is now grounded by the Pagliaro findings.
+- Envy-route how-clauses: "malicious form predicts schadenfreude" grounded
+  in the opened Frontiers/PMC search results (van de Ven et al. 2015, Lange
+  et al. 2018 support) — kept as how-clause only on the envy pages, framed
+  from the Smith 2009 envy-prime summary sentence in the opened PDF.
+- Normal validator: ok. State recorded (done count 17).
