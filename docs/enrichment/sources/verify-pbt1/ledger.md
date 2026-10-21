@@ -334,3 +334,20 @@ Carriers opened fresh: Cohen/McClure/Yu 2007 PDF (worthylab.org), Deci & Ryan 20
    prima-facie/multiple-issue and closing-line prose claims all verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 15 (16:45Z) — w1aa quote-fidelity verification, fourteenth batch
+
+Carriers opened fresh: Philosophical Investigations full-text PDF (squarespace), SEP
+Merleau-Ponty (Toadvine, §6), Gutenberg #9662 (Hume Enquiry).
+
+1. Family resemblance — blockquote VERBATIM vs PI §67. COSMETIC NOTE: the page renders
+   the carrier's "same way.—And I shall say" as "same way. And I shall say" (em-dash
+   normalised to a period) — one-character style normalisation, no repair needed; the
+   thread/fibre prose paraphrase verbatim-supported.
+2. Flesh (chair) — blockquote VERBATIM vs SEP §6 (V&I 184/139); reversibility,
+   intercorporeity, anonymous sensibility and handshake claims all verbatim-supported.
+3. Induction from experience — both blockquotes VERBATIM vs Gutenberg #9662 (sec. IV
+   and V); the eggs passage and "firm reliance after a long course of uniform
+   experiments" prose paraphrase verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round (one cosmetic em-dash note).
