@@ -19,12 +19,12 @@ displayed quotation byte-for-byte, check locators and unquoted factual claims.
 ### Hermeneutic circle — PASS with one routed defect (~14:25Z)
 - Heidegger-in-Gadamer blockquote: EXACT vs fresh download of the cited
   faculty.washington.edu Gadamer PDF; the "p. 70" locator VERIFIED (printed page 70).
-- ROUTED FINDING (one character, word-for-word rule): the first blockquote drops a comma
-  the opened carrier's printed text carries — the essay reads "we must understand the
-  whole, from the individual and the individual from the whole" (comma after "whole";
-  visible in the scan's text layer and independently reproduced in Philobiblon 2018's
-  quotation of the same translation). The page reads "the whole from the individual".
-  Repair options: restore the comma, or paraphrase the fragment without quotation marks.
+- ROUTED FINDING (punctuation, UNRESOLVED — inspect rendered page before repairing): the
+  first blockquote may drop a comma the opened carrier carries. The scan's OCR text layer
+  reads "understand the whole\n,from the individual" (comma at line start) and
+  Philobiblon 2018 independently renders the same translation with the comma; but OCR
+  punctuation is not proof of the printed page. The rendered PDF page should be
+  inspected before any repair. If the comma is confirmed printed: restore it or de-quote.
 - NAMESPACE OBSERVATION for the supervisor: two separate enriched concept pages exist,
   "Hermeneutic circle" (Letter H, w1aa) and "The hermeneutic circle" (Letter T), both live
   with overlapping content and both linked from E079's parallels. If this is not the
@@ -169,7 +169,7 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
 
 ## w1p band (baton taken over 14:35Z real clock; 6 items remaining)
 
-### Social representation theory — advisor QC round 1 FAIL, repaired, PASS (14:45Z real clock)
+### Social representation theory — advisor QC round 1 FAIL, repaired, PASS PENDING confirmation (repaired ~14:40Z)
 - First pass (single Wikipedia carrier) failed advisor QC on the source bar. Opened a
   scholarly carrier: Höijer 2011, "Social Representations Theory — A New Theory for Media
   Research", Nordicom Review 32(2) 3-16 (GUPEA open PDF), which quotes Moscovici 1973
@@ -186,3 +186,33 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
 - Validator: PASS (fast-track profile). State: reopened then re-done.
 - w1p progress: 65/70 done. Remaining: Situated freedom, Social-Role Theory, Socioanalytic
   theory, Sociotropy-autonomy theory, Source monitoring.
+
+## w1p band — round-1 QC record (real clock readings: 14:19:04Z T0; 14:40:48Z w1p takeover; 14:50:37Z now)
+
+Six items enriched 14:35-14:45Z (Social representation theory repaired once at ~14:40Z).
+Milestone advisor QC round 1 (~14:47Z): ALL FIVE unconfirmed items FAIL with bounded
+repairs; Social representation theory's repaired version also still unconfirmed.
+Repairs applied 14:48-14:50Z, all six now awaiting round-2 confirmation:
+- Situated freedom: opening reframed as philosophical position; Merleau-Ponty carrier
+  chain made explicit (thesis quotes Detmer 1986 p. 86 with PoP p. 508 locator);
+  interpretation sentence restrained; Sartre quote punctuation fixed (period, not
+  inserted comma).
+- Social-Role Theory: causal claims qualified to "primarily"; biosocial sentence removed
+  (not in opened excerpt); ERIC carrier re-dated via its own title page — it is the 1988
+  APA conference paper, NOT the 1991 journal article (citation fixed); "are thought to
+  arise" hedge restored; BE019/AF036 clauses rewritten as theory-grounded statements.
+- Socioanalytic theory: labelled imagined everyday-life case added; Reputation as
+  indifferent gloss corrected to the Stoic sorting (page read); Identity-statuses and
+  Machiavellianism glosses corrected to cross-literature pointers; B119 clause labelled
+  as the compendium's own analogy; SE069 clause softened; publisher summaries attributed
+  to the publisher; origin participial tail removed.
+- Sociotropy-autonomy theory: opening attributed to Beck's cognitive model; "two failure
+  modes of autonomy" removed; SO013/D080 clauses rewritten; Maladaptive-perfectionism
+  gloss softened to "neighbouring construct"; Socioanalytic gloss reframed as
+  comparison; the 2018 core-belief finding sentence omitted (sample not read).
+- Source monitoring: author initials used (Johnson, M. K., Hashtroudi, S., Lindsay,
+  D. S.); first-person question removed; "deployed when the stakes demand it" removed;
+  MTM gloss corrected to its own page's declaration; misinformation gloss reworded;
+  citations added.
+State: all six reopened with reasons and re-done after repair; band_done restored only
+after QC round 2 confirms.

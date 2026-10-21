@@ -7,7 +7,7 @@ file: "Sociotropy-autonomy theory"
 tags: ["theory", "psych/self"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SELF"], "alternatePaths": []}
 ---
-Sociotropy-autonomy theory is Aaron Beck's account of two personality styles that make depression more likely when life hits where it hurts. Beck's cognitive model "posits that two personality vulnerabilities termed sociotropy and autonomy predispose to depression" ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/)). The two are investments of the self in different places:
+Sociotropy-autonomy theory is part of Beck's cognitive model of depression. Beck's model "posits that two personality vulnerabilities termed sociotropy and autonomy predispose to depression" ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/)), each sensitive to matching stressors. The two are investments of the self in different places:
 
 > "The sociotropic self-schemas concern self-evaluation in relation to interpersonal approval and acceptance. In contrast, the autonomous self-schemas concern self-evaluation in relation to independence, self-control and achievement." ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/))
 
@@ -17,20 +17,20 @@ Beck described the two modes in 1983. Sociotropy (social dependency) was describ
 
 ### What the theory explains
 
-The theory's working prediction is a match between person and event: "In each personality, life stressors congruent with the content of self-schemas lead to increased susceptibility to depression" ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/)). A sociotropic person is thrown by rejection, separation and interpersonal loss; an autonomous person by failure, constraint and loss of control. The 2018 study found the two styles also differ in core beliefs: sociotropy correlated with negative-self beliefs, autonomy with positive-self and negative-other beliefs ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/)).
+The theory's working prediction is a match between person and event: "In each personality, life stressors congruent with the content of self-schemas lead to increased susceptibility to depression" ([Otani et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/)). A sociotropic person is thrown by rejection, separation and interpersonal loss; an autonomous person by failure, constraint and loss of control.
 
 ### In the compendium
 
-- [[R101 — Practise relational autonomy]] and [[R077 — Practise relational autonomy]]: the theory names the two failure modes of autonomy — dependency and rigid self-sufficiency
-- [[SO013 — Treat cultural meaning as constructed, not given]]: the vulnerabilities are learned meanings, not facts about the person
-- [[D080 — Dissolve rigid right and wrong (qiwu)]]: the autonomous style's harsh self-judgment is a rigid standard doing the damage
+- [[R101 — Practise relational autonomy]] and [[R077 — Practise relational autonomy]]: the theory's dependency and defensive independence are psychological neighbours of what the principles guard against
+- [[SO013 — Treat cultural meaning as constructed, not given]]: the two styles are organized patterns of meaning about the self
+- [[D080 — Dissolve rigid right and wrong (qiwu)]]: the autonomous style's self-judgment is a form of rigidity
 
 ## Related concepts
 
 - [[Learned Helplessness Theory]] — the other classic cognitive account of depression vulnerability
-- [[Maladaptive perfectionism]] — the autonomous style's engine, in trait form
+- [[Maladaptive perfectionism]] — a neighbouring construct in the perfectionism/self-criticism literature
 - [[Metacognitive therapy (Wells)]] — a later cognitive approach to the same distress
-- [[Socioanalytic theory]] — Hogan's account of the same acceptance/status needs, read as normal motives rather than vulnerabilities
+- [[Socioanalytic theory]] — for comparison: Hogan reads acceptance and status as normal motives rather than vulnerabilities
 
 ## Field
 

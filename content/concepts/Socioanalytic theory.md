@@ -21,25 +21,27 @@ Reputation describes a person's behaviour; identity explains it. A review of the
 
 ### What the theory explains
 
-Hogan argued that "the agenda for personality theory is to explain individual differences among people in their ability to get along and get ahead" ([Hogan Assessments, Socioanalytic Theory](http://www.hoganassessments.com/sites/default/files/Socioanalytic%20Theory%20(2).pdf)). The theory's three master motives are summarized in the review as: "Homo Sapiens want to get along (and fear loneliness), get ahead (losing resources, status and control are depressive), and find meaning (chaos and unpredictability are anxiety provoking)" ([Gottlieb, Furnham and Klewe, 2021](https://www.scirp.org/pdf/psych_2021122114111230.pdf)). What connects identity to reputation is social skill: role-taking is "what translates motivation into accomplishment, and identity into successful reputation" ([same review](https://www.scirp.org/pdf/psych_2021122114111230.pdf)).
+The publisher's summary reports Hogan's agenda: "the agenda for personality theory is to explain individual differences among people in their ability to get along and get ahead" ([Hogan Assessments, Socioanalytic Theory](http://www.hoganassessments.com/sites/default/files/Socioanalytic%20Theory%20(2).pdf)). The theory's three master motives are summarized in the review as: "Homo Sapiens want to get along (and fear loneliness), get ahead (losing resources, status and control are depressive), and find meaning (chaos and unpredictability are anxiety provoking)" ([Gottlieb, Furnham and Klewe, 2021](https://www.scirp.org/pdf/psych_2021122114111230.pdf)). What connects identity to reputation is social skill: role-taking is "what translates motivation into accomplishment, and identity into successful reputation" ([same review](https://www.scirp.org/pdf/psych_2021122114111230.pdf)).
+
+An everyday-life case (imagined): a manager describes herself as direct and fair-minded. Her team, who experience the directness as sharp, describe her as intimidating. The first description is her identity; the second is her reputation.
 
 ### Origin
 
-Hogan first set out the theory in his 1983 Nebraska Symposium chapter, "A Socioanalytic Theory of Personality," drawing on evolutionary thinking, depth psychology and role theory; the review describes it as "an integration of evolutionary psychology, depth psychology and role theory" ([Gottlieb, Furnham and Klewe, 2021](https://www.scirp.org/pdf/psych_2021122114111230.pdf)).
+Hogan first set out the theory in his 1983 Nebraska Symposium chapter, "A Socioanalytic Theory of Personality." The review describes the theory as "an integration of evolutionary psychology, depth psychology and role theory" ([Gottlieb, Furnham and Klewe, 2021](https://www.scirp.org/pdf/psych_2021122114111230.pdf)).
 
 ### In the compendium
 
 - [[R077 — Practise relational autonomy]]: autonomy is pursued inside groups that grant acceptance and status
-- [[B119 — The self is a chariot — parts without an essence]]: the theory's identity/reputation split is a natural-science cousin of seeing the self as parts in play
+- [[B119 — The self is a chariot — parts without an essence]]: an analogy of the compendium's own making, not a claim of socioanalytic theory
 - [[B003 — Hold the self lightly (anatta)]]: identity as strategy rather than essence
-- [[SE069 — Recognise identity disturbances — when self is fragmented]]: identity is defined by strategies, which can fragment
+- [[SE069 — Recognise identity disturbances — when self is fragmented]]: identity is defined as strategies, and strategies can be disturbed
 
 ## Related concepts
 
 - [[Big Two model of agency and communion]] — the trait vocabulary for getting ahead and getting along
-- [[Reputation as indifferent]] — the Stoic counter-position: treating reputation as noise rather than data
-- [[Identity statuses (Marcia)]] — a developmental account of the identity side
-- [[Machiavellianism]] — the dark-side specialisation of getting ahead
+- [[Reputation as indifferent]] — the Stoic counter-position: reputation sorted among the things outside one's control
+- [[Identity statuses (Marcia)]] — a developmental account of identity, a different sense of the word
+- [[Machiavellianism]] — a construct from a different literature, on strategic self-interest
 - [[Social learning theory (Bandura)]] — how the strategies are acquired
 
 ## Field
