@@ -48,7 +48,7 @@ Imagine a phone call you have been avoiding because of anxiety about it. The exe
 - [[K121 — Dropping the struggle|K121 Dropping the struggle]]
 ## Psychology parallels
 
-- **[[Acceptance|Acceptance-based behavior therapy research]]**, acceptance reduces suffering at constant pain (McCracken, 1998; Vowles et al., 2014)
+- **[[Acceptance|Acceptance-based behavior therapy research]]** (McCracken, 1998; Vowles et al., 2014)
 
 ## Philosophy parallels
 

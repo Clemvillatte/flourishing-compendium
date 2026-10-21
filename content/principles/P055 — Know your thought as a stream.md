@@ -43,7 +43,7 @@ Read a sentence slowly. Notice what happens to your experience of the earlier wo
 - [[ST115 — The Prestige and the Duplicated Man|115. The Prestige and the Duplicated Man]]
 ## Psychology parallels
 
-- **[[Mind wandering|Mind-wandering research]]**, the stream is measurable and mostly self-referential (Killingsworth and Gilbert, 2010)
+- **[[Mind wandering|Mind-wandering research]]** (Killingsworth and Gilbert, 2010)
 
 ## Philosophy parallels
 

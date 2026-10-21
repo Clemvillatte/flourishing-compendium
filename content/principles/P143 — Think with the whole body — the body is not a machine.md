@@ -40,7 +40,7 @@ Compare walking while planning with attending to the walking. What, if anything,
 
 ## Psychology parallels
 
-- **[[Interoceptive awareness|Interoceptive awareness]]**, predicts emotion regulation (Mehling et al., 2009)
+- **[[Interoceptive awareness|Interoceptive awareness]]** (Mehling et al., 2009)
 - **[[Somatic psychotherapy|Somatic psychotherapy]]**, body-based processing of emotion (van der Kolk, 2014)
 
 ## Philosophy parallels
