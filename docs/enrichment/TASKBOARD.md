@@ -1935,3 +1935,8 @@ Verification pass 52 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - P188: all three James "The Moral Equivalent of War" quotes match the freshly downloaded Gutenberg #20768 text verbatim.
 - P189: the Dewey Experience and Nature aleatory-world passage matches the already-downloaded archive.org djvu text verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 229 page-checks across 52 passes. Session ends; report follows.
+
+Verification pass 53 (worker-glmc4a — final): 2 principle pages, ALL PASS.
+- P192: the Bergson Creative Evolution ch. III impetus-of-life passage matches the freshly downloaded Gutenberg #26163 (Mitchell) text verbatim.
+- P194: the Bergson Two Sources of Morality ch. 1 p. 27 expansion-of-self sentence matches the freshly downloaded archive.org djvu text verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 233 page-checks across 53 passes. Session ends; report follows.
