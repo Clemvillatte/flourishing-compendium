@@ -2,14 +2,27 @@
  "batch": "w1ab",
  "done": [
   "Klesha transmuted into wisdom",
-  "Keystone habits"
+  "Keystone habits",
+  "Knowing-how versus knowing-that"
  ],
  "in_progress": null,
  "flagged": {
-  "Klesha transmuted into wisdom": "Reopened for QC: QC correction: framing/attribution/citation repairs per advisor round 1"
+  "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:51:32+00:00",
- "band_done": false
+ "updated": "2026-10-21T08:52:36+00:00",
+ "band_done": false,
+ "new_concepts": [
+  {
+   "title": "Knowing-how",
+   "seed": "Ryle, The Concept of Mind 1949; SEP Knowledge How",
+   "why": "granular for the Knowing-how versus knowing-that comparison page (audit Category B rule 4)"
+  },
+  {
+   "title": "Knowing-that",
+   "seed": "Ryle, The Concept of Mind 1949; SEP Knowledge How",
+   "why": "granular for the Knowing-how versus knowing-that comparison page (audit Category B rule 4)"
+  }
+ ]
 }

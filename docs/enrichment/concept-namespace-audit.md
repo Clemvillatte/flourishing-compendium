@@ -89,7 +89,7 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - Autonomous versus controlled motivation -> granulars CREATED 2026-10-20 by worker-p1f-9d3f7c2b: [[Autonomous motivation]] + [[Controlled motivation]] (SDT, Ryan & Deci 2000 classic-definitions review, quotes verbatim from the opened selfdeterminationtheory.org PDF); comparison page rewritten as relational exposition linking both (principle connections proposed into MO011; application pending supervisor). Finer granulars (Identified motivation, Introjected motivation) remain under the first entry above for a future pass.
 - Process versus outcome focus
 - Problem vs. mystery
-- Knowing-how versus knowing-that
+- Knowing-how versus knowing-that -> granulars CREATED 2026-10-21 by worker-w1ab-7b9f5a1c: [[Knowing-how]] + [[Knowing-that]] (Ryle, The Concept of Mind 1949; quotes verbatim from the opened SEP "Knowledge How" entry); comparison page rewritten as relational exposition linking both (D072's link to the comparison page preserved).
 - Approach versus avoidance motivation
 - Fragile vs secure high self-esteem (Kernis)
 - Showing versus saying
