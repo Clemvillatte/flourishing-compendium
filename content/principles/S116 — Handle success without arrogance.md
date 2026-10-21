@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 238** — Handle success without arrogance
 
-Success is a preferred indifferent. The Stoic may be successful but must not let success inflate their ego. Marcus tells himself that his power is a responsibility, not a reward. Handle success as you handle adversity: with equanimity.
+Marcus describes how his adoptive father handled good fortune:
 
-(Med. I.1, I.6, I.9, I.16, I.17, II.1, IV.3, V.1, VI.7, VI.30, VII.5, IX.6; Seneca, Letters 20, 29, 41, 44, 73, 75, 79, 91, 94, 103, 123.)
+> "The things which conduce in any way to the commodity of life, and of which fortune gives an abundant supply, he used without arrogance and without excusing himself; so that when he had them, he enjoyed them without affectation, and when he had them not, he did not want them."
 
-**Plain words** Success is a preferred indifferent. A Stoic may succeed but mustn't let it swell the ego. Marcus tells himself his power is a responsibility, not a reward. Treat success as you treat adversity: evenly.
+(Med. I.16, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-*For example:* After a big win, you thank the team and go back to the plan.
+The compendium applies the portrait to success: the man is praised for using fortune's gifts without arrogance and for not missing them when they went. The exercise after a win is to enjoy it without display, and to notice what you begin calling your due.
+
+**Plain words** Use what came in, thank whoever helped, and go back to the plan. Watch for the moment the win starts feeling deserved.
+
+*For example:* Imagined: after a promotion, someone thanks the team and keeps their morning routine unchanged.
+
+## Sources
+
+- [Meditations I.16, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
 
 ## Psychology parallels
 
