@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 117** — Understand pity (eleos)
 
-Aristotle's definition builds the judgement in. Pity is "a feeling of pain caused by the sight of some evil, destructive or painful, which befalls one who does not deserve it, and which we might expect to befall ourselves or some friend of ours, and moreover to befall us soon" ([Rhetoric II.8, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). So it needs a belief that the person does not deserve the harm and a sense that you could suffer something similar. People who think they are "completely ruined" or "immensely fortunate" do not feel it, and "if you think nobody good, you will believe that everybody deserves evil fortune."
+Aristotle's definition includes a judgement about what someone deserves. Pity is "a feeling of pain caused by the sight of some evil, destructive or painful, which befalls one who does not deserve it, and which we might expect to befall ourselves or some friend of ours, and moreover to befall us soon" ([Rhetoric II.8, Roberts, MIT Classics](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html)). In this account, people who think themselves "completely ruined" or "immensely fortunate" cannot feel it. He adds: "if you think nobody good, you will believe that everybody deserves evil fortune."
 
 Closeness steers it. "it is when the sufferings of others are close to us that they excite our pity", so speakers use gestures and drama to "put the disasters before our eyes". Closeness of the wrong kind works against it, so that harm to someone very near is felt differently: "the terrible is different from the pitiful; it tends to cast out pity."
 
@@ -20,9 +20,9 @@ The Ethics counts pity among the feelings that "may be felt both too much and to
 
 (Rhetoric II.8; NE II.5-6.)
 
-**Plain words** Pity depends on two judgements: that the suffering is undeserved, and that it could happen to someone like you. Both can be wrong. Distance and unfamiliarity weaken it, and a vivid story strengthens it whether or not it is typical. So before acting on pity, ask whether the harm really was undeserved and whether your feeling matches the size of the need, not the vividness of the telling.
+**Plain words** Aristotle describes how pity arises, including the effects of likeness and nearness. That description is not a rule for deciding who should receive help. As a contemporary reflection, notice whose suffering feels close, whose seems remote, and how quickly you assume someone deserves their misfortune.
 
-For example (imagined): you feel for a colleague who was laid off. Asking whether it was truly outside their control keeps the pity accurate. Asking about the people you never hear about checks that vividness is not deciding for you.
+For example (imagined): a colleague loses their job. Before explaining why it happened, ask what they need. Then consider people whose difficulties you hear less about.
 
 ## Sources
 

@@ -45,3 +45,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Independent milestone advisor confirmed the source/advice boundary problem. Replaced the unsupported claim that fear becomes useless with Aristotle's descriptive hope-of-escape condition.
 - Plain words now marks the practical questions as contemporary reflection. The imagined public-speaking example offers a possible step without promising that dread will become preparation.
 - Protected content and inherited parallels preserved; no clinical claim or diagnostic criterion is supplied.
+
+## A117
+
+- Opened [Rhetoric II.8](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) and [NE II.6](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html); checked all definition, extreme-fortune, nearness and mean quotations.
+- Independent milestone advisor confirmed the need to separate descriptive theory from advice. Removed the unsupported equation of deservedness with personal control in the layoff example.
+- Plain words explicitly refuses to turn Aristotle's account into a test of eligibility for help. Contemporary questions concern assumptions, attention and need, not screening a distressed person for blame.
+- Trimmed repetition while preserving substantive quotations. Protected metadata and inherited parallels unchanged.
