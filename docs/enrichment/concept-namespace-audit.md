@@ -346,3 +346,8 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   PASS). The entry above is retained for history but is not an active hold; only the inherited
   Buddhism/Right View attribution remains unverified (stated on the page as a compendium link,
   not as established).
+- The seasons of illness (2026-10-21, worker-w1m-5f8e3a2b, w1m): compendium coinage. Ecclesiastes 3
+  grounds the seasons pattern and includes "a time to heal" (verified against the Douay-Rheims
+  text, Gutenberg #8300), but the illness application is the compendium's own (citing principles
+  BI012/B001/BI068/BI072/PP062). Bounded page saved at the fast-track bar; held out of done
+  pending supervisor disposition.
