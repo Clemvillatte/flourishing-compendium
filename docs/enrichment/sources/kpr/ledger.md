@@ -103,3 +103,10 @@
 - Added Protocol (cued probes: 'Where is my attention right now?', name without judgment, gentle redirect), Evidence (Killingsworth & Gilbert 2010 full BREVIA text via Greater Good PDF: 2,250 adults, mind wandering 46.9% of samples, b = -8.79 P < 0.001, time-lag analyses suggest wandering causes unhappiness, 10.8% vs 4.6% variance), guided version = trackyourhappiness.org (the study's own free instrument, named in the paper).
 - Related concepts: Meta-awareness, Mindful attention, Rumination, Attention management. Validation: ok; build ok; saved and pushed.
 - SESSION TOTAL: 26 kernels (4 new, 22 enriched).
+
+## K111 — Interoceptive awareness (2026-10-21)
+- Added Protocol (silent heartbeat check + count-and-compare + daily body check-in), Evidence (Pollatos et al. 2007 Hum Brain Mapp full PDF via search: high interoceptive awareness = more intense emotions, larger P300 to affective pictures, insula/S1/ACC/PFC activation; Füstös et al. 2013 PMC3831556: higher IA facilitated reappraisal downregulation in 28 participants; honest caveat: Zamariola et al. 2018 heartbeat-counting validity problems, >95% under-report, r ~ .16).
+- Guided version: self-guided honestly noted; UCLA Mindful Breath-Sound-Body as structured entry. Related concepts: Interoceptive awareness, Interoception, Emotion regulation, Emotion awareness.
+- Validation: ok; build ok; saved and pushed.
+- SESSION TOTAL: 27 kernels (4 new: K409, K410, K411, K412; 23 enriched: K100, K101, K102, K103, K104, K105, K106, K108, K110, K111, K113, K114, K115, K116, K161, K162, K163, K164, K194, K201, K245, K385, K400).
+- Next queue (documented above on TASKBOARD): K112 scheduled empty time, K396 befriending (Lundman 2015 RCT), K200 rest as practice, K396/K378/K379/K382/K384/K406 compassion family, new kernels: compassion meditation (CCT), mindful eating, six healing sounds, microcosmic orbit (evidence permitting).
