@@ -17,7 +17,7 @@ The paper is built as nine numbered hypotheses with corollaries. The first state
 
 > "To the extent that objective, non-social means are not available, people evaluate their opinions and abilities by comparison respectively with the opinions and abilities of others." (Hypothesis II)
 
-His examples mark the limit of objective testing: the opinion that an object is fragile can be tested by hitting it with a hammer, but no such test exists for the opinion that one political candidate is better than another, or that war is inevitable.
+His examples mark the limit of objective testing: the opinion that an object is fragile can be tested by hitting it with a hammer, but no such test exists for the opinion that one political candidate is better than another, or that war is inevitable. Comparison, then, has a range: "The tendency to compare oneself with some other specific person decreases as the difference between his opinion or ability and one's own increases" (Hypothesis III), and "subjective evaluations of opinions or of abilities are stable when comparison is available with others who are judged to be close to one's opinions or abilities" (corollary to Hypothesis III).
 
 > "There is a unidirectional drive upward in the case of abilities which is largely absent in opinions." (Hypothesis IV)
 
