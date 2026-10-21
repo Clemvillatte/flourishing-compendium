@@ -238,9 +238,14 @@
      "t": "2026-10-21T12:28:00+00:00",
      "to": "qc_pending",
      "note": "first draft complete; quotes verbatim-verified against opened Ud 1.10 page; advisor QC requested"
+    },
+    {
+     "t": "2026-10-21T12:29:03+00:00",
+     "to": "published",
+     "note": "supervisor verification: quotes verified against opened Ud1.10 page"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:28:00+00:00"
+ "updated": "2026-10-21T12:29:03+00:00"
 }
