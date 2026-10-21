@@ -12,13 +12,20 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 43** — Heal the instrument before trusting it
 
-The Emendation compares the seeker to a craftsman: to forge good tools you need good tools, so the first task is to make the understanding itself sound before using it on the highest questions. The mind that judges itself is the knife that cuts itself; the repair must come from method, not from the broken instrument's own intuitions. Practically, before forming big conclusions in a domain, check the state of the instrument: sleep, mood, conflicts of interest, and what you want to be true all deform the reading.
+The Emendation answers a regress worry with a workshop image: finding the method of truth might seem to need a prior method to find it, endlessly. Spinoza replies that the case is like material tools: "in order to work iron, a hammer is needed, and the hammer cannot be forthcoming unless it has been made; but, in order to make it, there was need of another hammer and other tools, and so on to infinity" ([TIE §30, Elwes](https://en.wikisource.org/wiki/On_the_Improvement_of_the_Understanding)). The regress is not vicious: the first tools were made "labouriously and imperfectly" with what nature supplied, and each finished tool made the next better ([TIE §30-31, Elwes](https://en.wikisource.org/wiki/On_the_Improvement_of_the_Understanding)).
 
-(Treatise on the Emendation of the Intellect, sections 16-17, the tools analogy.)
+The practical reading: the understanding you judge with is a tool with a state. Fatigue, mood, and what you want to be true all bend it, and its readings inherit that state. The remedy is gradual: begin with operations the instrument can manage, notice where it distorted, and let each correction improve the next reading. (Compendium reading of TIE §§30-31.)
 
-**Plain words** To forge good tools you need good tools — so the first task is making the understanding itself sound before using it on the highest questions. The mind that judges itself is the knife that sharpens itself: tricky, but doable. Heal the instrument before trusting its readings.
+> "So, in like manner, the intellect, by its native strength, makes for itself intellectual instruments, whereby it acquires strength for performing other intellectual operations, and from these operations again fresh instruments, or the power of pushing its investigations further, and thus gradually proceeds till it reaches the summit of wisdom." (Spinoza, Treatise on the Emendation of the Intellect §31, [Elwes translation, Wikisource](https://en.wikisource.org/wiki/On_the_Improvement_of_the_Understanding))
 
-*For example:* The person making life decisions on four hours of sleep and a feed-curated mood — the instrument is the first project. The big questions wait not because they're unimportant but because the tool currently reading them is bent.
+**Plain words**
+You cannot think straight about your thinking while your thinking is the bent tool doing the work. Spinoza defused the worry: nobody needed a perfect hammer to make the first hammer. A bad hammer still beats a rock. Your judgment does not need to be sound before you use it, but you do need to know how it is bent, or every reading it gives you inherits the bend.
+
+**For example**
+Someone decides whether to change careers on four hours of sleep and a strong wish for the answer to be "leave". A decision made with that instrument carries the bend. The modest fix: take an easier case first, see where the reading went wrong, and let the correction sharpen the next one.
+
+(Treatise on the Emendation of the Intellect §§30-31, Elwes translation.)
+
 ## Psychology parallels
 
 - **[[Metacognitive monitoring|Metacognitive monitoring]]**, the capacity to evaluate one's own thinking as thinking (Flavell, 1979)
@@ -27,3 +34,7 @@ The Emendation compares the seeker to a craftsman: to forge good tools you need 
 
 - **Know how before know that** (Ryle, The Concept of Mind)
 - **[[Physician, heal thyself|Physician, heal thyself]]** (Gospel of Luke 4.23, as cultural parallel)
+
+## Sources
+
+- [Spinoza, Treatise on the Emendation of the Intellect (On the Improvement of the Understanding), Elwes translation, Wikisource](https://en.wikisource.org/wiki/On_the_Improvement_of_the_Understanding) — §§30-31, the tools analogy and the intellect's native instruments
