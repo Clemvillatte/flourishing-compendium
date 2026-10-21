@@ -51,7 +51,8 @@
   "Guilt",
   "Habit discontinuity",
   "Habit reversal theory Azrin",
-  "Heart-rate-variability biofeedback"
+  "Heart-rate-variability biofeedback",
+  "Hebbian learning"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,5 +60,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 29,
- "updated": "2026-10-21T10:57:58+00:00"
+ "updated": "2026-10-21T10:58:32+00:00"
 }
