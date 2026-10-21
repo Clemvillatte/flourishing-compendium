@@ -9,3 +9,8 @@
 - Verbatim: repair attempts definition; "The failure of repair attempts is an accurate marker for an unhappy future."; 84 percent/six years sentence; 82% to "into the 90s"; "strictly observational and therefore correlational".
 - Seed problem: "repair within 48 hours" and "the longer the delay, the more the rupture calcifies" — no source found; page labels 48h as a rule of thumb. Also "capacity to repair predicts stability more than frequency of conflict" not stated in what I opened; removed.
 - Not opened: Gottman, Driver & Tabares 2015 (repair in newlyweds; J Family Psychotherapy 26(2)).
+## MO027 — progress visible
+- Opened: HBR 2011 "The Power of Small Wins" (summary text only; paywalled body — quote "nothing contributed more to a positive inner work life ... than making progress in meaningful work" from the page summary); Harkin et al. 2016 abstract (PubMed 26479070) + APA press release.
+- Seed claim "without feedback motivation declines" was unsourced; replaced with Harkin result. Page notes evidence is mostly health goals.
+## MO032 — public commitment
+- Opened: Epton, Currie & Armitage 2017 abstract (PMID 29189034); Harkin 2016 abstract. Seed claim "powerful motivational force" overstated; scoped to small effects and noted that announcement alone is not tested.
