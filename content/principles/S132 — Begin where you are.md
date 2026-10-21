@@ -12,13 +12,22 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 254** — Begin where you are
 
-You do not need to be a sage to begin. You do not need perfect circumstances. The prokopton (the person making progress) is the realistic Stoic ideal: not the sage but the person who is working toward wisdom. Begin with one practice, one principle, one day.
+Epictetus taught students who measured themselves against Socrates and were tempted to quit. A student asks why he should take pains at all, since nature made him dull; the reply is that dullness settles nothing. The person making progress is the realistic Stoic ideal — the working target of the school, ahead of the finished sage.
 
-(Disc. I.4, I.15, I.20, III.5, III.21; Ench. 1, 12, 29, 48, 51; Seneca, Letters 16, 71, 72, 75; Med. V.9, IX.29, X.1, XI.9.)
+> "What then, since I am naturally dull, shall I, for this reason, take no pains? I hope not. Epictetus is not superior to Socrates; but if he is not inferior, this is enough for me; for I shall never be a Milo, and yet I do not neglect my body; nor shall I be a Croesus, and yet I do not neglect my property; nor, in a word, do we neglect looking after anything because we despair of reaching the highest degree."
 
-**Plain words** You don't need to be wise to start, and you don't need good circumstances — Marcus started as a scared teenager, Epictetus started as a slave. The Stoic ideal isn't the perfect sage but the person making progress. One practice, one principle, one day.
+(Disc. I.2, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt).)
+
+The compendium's exercise is to pick the smallest practice in reach — the evening review, one distinction held for a day — and run it at your current size. Epictetus trains his body knowing he will never be Milo; the training is not cancelled by the gap.
+
+**Plain words** You will never be the best at this, and today's practice does not wait for that to change. A slow runner still runs. Ask what the smallest available action is tonight, and take it — badly if badly is what you have. Begin there, and repeat tomorrow.
 
 *For example:* The overwhelmed parent who can't fix their life tonight but does the evening review anyway — small, unimpressive, and the exact door everything else comes through.
+
+## Sources
+
+- [Epictetus, Discourses I.2, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt) — the single locator the body uses
+
 ## Psychology parallels
 
 - **[[Self-efficacy|Self-efficacy]]** (Bandura, 1977)
