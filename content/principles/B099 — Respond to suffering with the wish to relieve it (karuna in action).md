@@ -41,7 +41,7 @@ Imagine a friend caring for a sick relative. Ask whether bringing a meal tomorro
 - [[K248 — Positive greetings|K248 Positive greetings]]
 ## Psychology parallels
 
-- **[[Compassion|Compassion training]]**, increases affiliation and helping (Klimecki et al., 2013)
+- **[[Compassion|Compassion training]]** — compassion training increased positive affective experiences even in response to witnessing others' distress, with neural changes in regions associated with positive affect and affiliation (Klimecki et al., 2013)
 - **[[Empathic distress|Empathic distress as distinct from compassion]]** (Singer and Klimecki, 2014)
 
 ## Philosophy parallels
