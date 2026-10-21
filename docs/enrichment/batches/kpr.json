@@ -39,6 +39,17 @@
         "https://www.youtube.com/watch?v=3STenfbpZbI"
       ],
       "video_verified": "oembed: 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach', Tara Brach"
+    },
+    {
+      "id": "K410",
+      "title": "Physiological sigh (cyclic sighing)",
+      "status": "done",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/36630953/",
+        "https://stanmed.stanford.edu/cyclic-sighing-stress-relief/",
+        "https://www.youtube.com/watch?v=rBdhqBGqiMc"
+      ],
+      "video_verified": "oembed: 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman"
     }
   ],
   "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger."

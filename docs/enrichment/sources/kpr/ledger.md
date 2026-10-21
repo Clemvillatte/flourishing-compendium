@@ -20,3 +20,9 @@
 - Video verified via YouTube oembed: 3STenfbpZbI 'Guided Heart Meditation: Loving Kindness – Befriending our Lives, with Tara Brach'.
 - Operationalises converted to bullet list to clear the em-dash budget; all 3 original links preserved.
 - Validation: ok; build ok; saved and pushed.
+
+## K410 — Physiological sigh (cyclic sighing) (2026-10-21)
+- Created new kernel: protocol + evidence + guided video; registered in _order.json and chapter V1K-S01.08 after K409.
+- Sources opened: PubMed 36630953 Balban et al. 2023 abstract (remote RCT NCT05304000, daily 5-min breathwork vs mindfulness over 1 month, cyclic sighing greater mood improvement and respiratory rate reduction, p < 0.05); stanmed.stanford.edu (fetched via search snippet: 111 volunteers, cyclic sighers greatest daily improvement in positive feelings, respiratory-rate reduction correlated with positive affect); Huberman video rBdhqBGqiMc description + transcript via search (two inhales, extended exhale; occurs spontaneously in sleep when CO2 too high).
+- Video verified via YouTube oembed: rBdhqBGqiMc 'Reduce Anxiety & Stress with the Physiological Sigh | Huberman Lab Quantal Clip', Andrew Huberman.
+- Validation: ok; build ok; two push races with other workers resolved via pull --rebase.
