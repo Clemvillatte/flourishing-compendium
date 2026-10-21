@@ -555,7 +555,32 @@
      "note": ""
     }
    ]
+  },
+  "s1a-023": {
+   "status": "qc_pending",
+   "angle": "B192: young Franklin's book of thirteen virtues — morning question, evening examination, and the speckled axe",
+   "history": [
+    {
+     "t": "2026-10-21T12:21:19+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:21:19+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:22:35+00:00",
+     "to": "qc_pending",
+     "note": "first item drafted; quotes raw-verified; corpus catch (ST184) recorded with distinct angle; advisor QC round 1 requested"
+    },
+    {
+     "t": "2026-10-21T12:25:38+00:00",
+     "to": "qc_pending",
+     "note": "advisor round-1 FAIL repairs applied (opening, verbatim fixes, speckled-axe rebuild, unsupported precision removed, MN61 boundary stated); body-quote audit 20/20 + 4 table strings manual-check; checker 0 errors; stays qc_pending for supervisor disposition (ST184 duplication + off-slice scope)"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:22:19+00:00"
+ "updated": "2026-10-21T12:25:38+00:00"
 }
