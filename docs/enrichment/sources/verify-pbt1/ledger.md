@@ -661,3 +661,25 @@ morgeson.com DeRue & Morgeson 2007 PDF.
 3. Person-role fit research — blockquote VERBATIM (DeRue & Morgeson 2007).
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 36 (16:47Z) — w1ab quote-fidelity verification, twelfth batch
+
+Carriers opened fresh: studybuddhism.com Beru Khyentse Rinpoche commentary, Beck Institute
+Seligman Q&A, Gutenberg #1497 (Jowett Republic), SEP "Quine", Wiley Kristof-Brown et al. 2005
+PDF, PubMed 2101397 (Oetting & Beauvais abstract).
+
+1. Klesha transmuted into wisdom — blockquote VERBATIM vs studybuddhism.com.
+2. Optimistic explanatory style — blockquote VERBATIM vs the Beck Institute Q&A.
+3. Ordering the soul — DEFECT (minor): the page reads "...and is at peace with himself..."
+   where the Jowett text (Gutenberg #1497, Book IV) prints "...and at peace with himself..." —
+   a spurious "is" inserted. Word-for-word otherwise.
+4. Ontological relativity — blockquote VERBATIM vs SEP §6.2 (the SEP sentence ends with a
+   "See Ricketts 2011..." citation that the page's blockquote omits — normal list abridgment).
+5. Organizational research — blockquote VERBATIM vs the Kristof-Brown et al. (2005) abstract.
+6. Orthogonal Cultural Identification Theory — both blockquotes VERBATIM vs PubMed 2101397.
+
+Result: 5/6 PASS; defect #6 routed. This completes the full w1ab page sweep — all 17
+w1ab pages now carry fresh-source quotation-fidelity verification.
+
+Routed defects to date: 6 (Fellow feeling locator; Intra-action Hammarström; Kairos Chase;
+Novelty research deviations; Nomadology therefore; Ordering the soul "is").
