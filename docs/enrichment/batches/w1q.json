@@ -51,7 +51,8 @@
   "Theory-theory of cognitive development",
   "Cognitive dissonance",
   "Akrasia",
-  "Cardinal virtues"
+  "Cardinal virtues",
+  "Being-toward-death"
  ],
  "in_progress": null,
  "flagged": {
@@ -97,10 +98,11 @@
   "Theory-theory of cognitive development": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Gopnik 1996a p.486 + Gopnik & Meltzoff 1997 p.214 quotes verified verbatim via opened Faucher et al. 'Baby in the Lab-Coat' PDF (Rutgers); identicality thesis stated by critics from same opened paper; critique included for balance; validated --fast-track",
   "Cognitive dissonance": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Festinger 1957 ch.1 definition + hypotheses + magnitude quotes verified verbatim via opened panarchy.org reproduction of Chapter One; Festinger & Carlsmith 1959 experiment described from theory's standard account (result figures not quoted, not opened); validated --fast-track",
   "Akrasia": "fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): page was already enriched in an earlier session (IEP Aristotle's Ethics citation, A056/A059/SP026 principle links) but state never marked done; validated --fast-track against pre-session baseline, no changes needed",
-  "Cardinal virtues": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Aquinas ST I-II q61 quotes (four cardinal virtues named; virtues contained under them; prudence principal; Cicero De Invent. Rhet. ii; Plotinus fourfold) verified verbatim via opened New Advent reproduction; Plato Republic cited via Aquinas's Plotinus line rather than directly; validated --fast-track"
+  "Cardinal virtues": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Aquinas ST I-II q61 quotes (four cardinal virtues named; virtues contained under them; prudence principal; Cicero De Invent. Rhet. ii; Plotinus fourfold) verified verbatim via opened New Advent reproduction; Plato Republic cited via Aquinas's Plotinus line rather than directly; validated --fast-track",
+  "Being-toward-death": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): replaced seed's Wikipedia citation with opened SEP Heidegger article (Wrathall); SZ quotes relayed by SEP verbatim; 'no one can die for me' from seed preserved as paraphrase; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:40:10+00:00",
+ "updated": "2026-10-21T16:41:30+00:00",
  "band_done": false
 }
