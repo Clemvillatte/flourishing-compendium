@@ -956,3 +956,13 @@
   mainstream-practice conclusion; the sub-optimal-outcomes premise). Existing seed Related
   [[BE042]], [[BI035]], [[BI038]] preserved with their captions. Degree 1 — fast-track.
   Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Optimism (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the primary text — Seligman's Learned Optimism (Eduteka-hosted PDF), opened
+  fresh — two passages verified verbatim (the pessimist defining-characteristic + optimist
+  opposite-way contrast; the immediate-recovery passage). NOTE: the 'weathering' sentence
+  ('Life inflicts the same setbacks...') appears in the page as the book's claim but was
+  NOT re-verified against the opened PDF in this pass — flagged here for the T+56
+  verification pass. Existing seed Related [[Hope]] preserved with its caption. Related
+  added: Learned optimism, Optimistic explanatory style (existence-verified files;
+  navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
