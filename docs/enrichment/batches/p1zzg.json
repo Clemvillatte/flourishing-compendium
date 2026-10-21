@@ -1,12 +1,14 @@
 {
  "batch": "p1zzg",
  "done": [
-  "S088",
   "S106"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "S088",
+ "flagged": {
+  "S088": "Reopened for QC: QC round 1 FAIL: repair per advisor edits"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:42:43+00:00"
+ "updated": "2026-10-21T01:45:43+00:00",
+ "band_done": false
 }
