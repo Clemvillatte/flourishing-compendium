@@ -12,13 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 233** — Handle luxury without corruption
 
-Luxury is a preferred indifferent that can become corrupting. The Stoic may enjoy luxury but must be able to live without it. Seneca practised periodic poverty to test his freedom from luxury. Do not let comfort become dependency.
+Marcus compares two kinds of enjoyment:
 
-(Seneca, Letters 17, 18, 87, 123; Med. III.6, VI.13; Disc. I.9, II.9, III.7, III.12; Ench. 15; Musonius Rufus, Lectures.)
+> "Thou wilt not cease to lament till thy mind is in such a condition that what luxury is to those who enjoy pleasure, such shall be to thee, in the matter which is subjected and presented to thee, the doing of the things which are conformable to man's constitution; for a man ought to consider as an enjoyment everything which it is in his power to do according to his own nature."
 
-**Plain words** Luxury is a preferred indifferent that can corrupt. A Stoic may enjoy it but must be able to live without it. Seneca practised periodic poverty to test his freedom. Don't let comfort become dependency.
+(Med. X.33, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-*For example:* Skipping the car for a month to see how much you need it.
+The compendium applies the comparison to comfort: the passage does not forbid soft beds or good food, it asks where enjoyment is sought. The exercise is to test a comfort by going without it for a while, and watch what the missing does to your temper.
+
+**Plain words** Comfort is fine until you cannot do without it. Pick one comfort and skip it for a month; notice what you tell yourself in week one.
+
+*For example:* Imagined: someone takes the bus instead of the car for a month and finds the errands still get done.
+
+## Sources
+
+- [Meditations X.33, George Long translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt) — the single locator the body uses
 
 ## Psychology parallels
 
