@@ -268,5 +268,6 @@
    "reason": "stale (27 min)"
   }
  ],
- "released": false
+ "released": true,
+ "released_at": "2026-10-21T15:57:04+00:00"
 }
