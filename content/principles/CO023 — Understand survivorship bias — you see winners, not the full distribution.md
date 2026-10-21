@@ -18,7 +18,7 @@ The classic story concerns Abraham Wald's work for the Statistical Research Grou
 
 ### Scope
 
-I did not open Wald's memoranda or Mangel and Samaniego 1984, so the aircraft account rests on a secondary source. I did not open Merton and Barber 2004 or Taleb 2007, and I did not verify the size of the fund bias. I found no study here on whether advice from successful people is distorted by survivorship.
+Wald's memoranda and Mangel and Samaniego 1984 are not summarized here, so the aircraft account rests on a secondary source. Merton and Barber 2004 and Taleb 2007 are listed as further reading, and the size of the fund bias is not verified. No study here tests whether advice from successful people is distorted by survivorship.
 
 **Plain words**
 When you only see the winners, you cannot tell which of their habits caused the wins. You also need the failures who did the same things.

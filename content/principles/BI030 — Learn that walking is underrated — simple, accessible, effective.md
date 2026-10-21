@@ -18,7 +18,7 @@ On mood and stress, the evidence is about group walks. A study comparing group w
 
 ### Scope
 
-The creativity experiments were small, short, and used lab tasks. I read only search excerpts of Hanson and Jones 2015 and did not verify its walking-group findings, so I make no claim from it. The claim about walking meetings is not tested in these sources.
+The creativity experiments were small, short, and used lab tasks. Hanson and Jones 2015 appears here only through search excerpts and its walking-group findings are not verified, so no claim on this page rests on it. The claim about walking meetings is not tested in these sources.
 
 **Plain words**
 A walk can help you generate ideas, though not choose between them. Group walks outdoors are linked with lower stress and better wellbeing.

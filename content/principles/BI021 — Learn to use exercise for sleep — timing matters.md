@@ -18,7 +18,7 @@ On timing, a meta-analysis of 23 studies of single evening sessions in healthy a
 
 ### Scope
 
-The experiments mostly involve healthy, good sleepers and single sessions. The advice that morning or afternoon is "safest" has no direct support in the studies above. I did not open Dolezal 2017. Individual responses vary, so a personal test is more informative than a rule.
+The experiments mostly involve healthy, good sleepers and single sessions. The advice that morning or afternoon is "safest" has no direct support in the studies above, and Dolezal 2017 is listed as further reading rather than summarized here. Individual responses vary, so a personal test is more informative than a rule.
 
 **Plain words**
 Regular exercise helps sleep. Hard exercise in the last hour before bed may delay sleep, while earlier evening sessions usually do not.

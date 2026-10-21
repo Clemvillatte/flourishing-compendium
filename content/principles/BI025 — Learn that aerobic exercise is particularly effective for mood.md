@@ -18,7 +18,7 @@ On type, a network meta-analysis found moderate reductions in depression for wal
 
 ### Scope
 
-These sources are about depression. I did not check the claims about anxiety or BDNF and neuroplasticity, and I did not open Schuch 2018, Erickson 2015 or Vivar 2013. The claim that "the chemistry moved" is not tested here.
+These sources are about depression. The claims about anxiety and about BDNF and neuroplasticity are not tested here, and Schuch 2018, Erickson 2015 and Vivar 2013 are listed as further reading. The claim that "the chemistry moved" is not tested here.
 
 **Plain words**
 Moving regularly lifts depressive symptoms for many people, and walking works about as well as the other forms. The evidence is moderate in strength.

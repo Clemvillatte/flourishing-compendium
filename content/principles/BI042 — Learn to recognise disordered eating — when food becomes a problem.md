@@ -18,7 +18,7 @@ The physical stakes are real. NIMH lists thinning of the bones, muscle wasting, 
 
 ### Scope
 
-I did not open the APA 2022 text, and I did not find a source for the seed's claim that eating disorders are "not a choice". This page cannot say when a food rule becomes a disorder, which is a clinician's judgement.
+The APA 2022 text is listed as further reading, and no source was found here for the seed's claim that eating disorders are "not a choice". This page cannot say when a food rule becomes a disorder, which is a clinician's judgement.
 
 **Plain words**
 Food rules, bingeing or purging that take over your life can signal an eating disorder, and they are treatable. See a doctor or a mental health professional.

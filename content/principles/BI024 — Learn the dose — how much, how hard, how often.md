@@ -12,13 +12,13 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 24** — Learn the dose: how much, how hard, how often
 
-The "30 minutes, 3 to 5 times a week" figure does not match the sources I read, and the answer depends on the question. In a cross-sectional survey of 1.2 million US adults, exercisers reported 1.49 fewer days of poor mental health a month than matched non-exercisers, with the largest associations at durations of 45 minutes and frequencies of three to five times per week ([Chekroud et al. 2018, PubMed](https://pubmed.ncbi.nlm.nih.gov/30099000/)). That is a correlation from self-reports, and the commentary describes the lowest burden at "about 45 min of exercise 3 to 5 days per week" ([PMC commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC6349619/)).
+The "30 minutes, 3 to 5 times a week" figure does not match the sources summarized here, and the answer depends on the question. In a cross-sectional survey of 1.2 million US adults, exercisers reported 1.49 fewer days of poor mental health a month than matched non-exercisers, with the largest associations at durations of 45 minutes and frequencies of three to five times per week ([Chekroud et al. 2018, PubMed](https://pubmed.ncbi.nlm.nih.gov/30099000/)). That is a correlation from self-reports, and the commentary describes the lowest burden at "about 45 min of exercise 3 to 5 days per week" ([PMC commentary](https://pmc.ncbi.nlm.nih.gov/articles/PMC6349619/)).
 
 For preventing depression, a meta-analysis of 15 prospective studies found a curvilinear pattern. Half the recommended activity volume went with 18% lower risk and the full recommended volume (2.5 hours a week of brisk walking) with 25% lower risk, "with diminishing potential benefits and higher uncertainty" beyond that ([Pearce et al. 2022, JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2790780)). For treating depression, a network meta-analysis of randomised trials found that effects were "proportional to the intensity prescribed", so the evidence does not support a moderate-only sweet spot for treatment ([Noetel et al. 2024, PubMed](https://pubmed.ncbi.nlm.nih.gov/38355154/)).
 
 ### Scope
 
-I did not open Schuch 2018 or Kim 2019, and I did not verify the claim that too much exercise is linked to worse mental health. Most of the dose evidence is observational.
+Schuch 2018 and Kim 2019 are listed as further reading, and the claim that too much exercise is linked to worse mental health is not verified here. Most of the dose evidence is observational.
 
 **Plain words**
 Some regular activity is linked with better mental health, and the first steps up from none give the largest gain. For treating depression, harder exercise does better in trials.
