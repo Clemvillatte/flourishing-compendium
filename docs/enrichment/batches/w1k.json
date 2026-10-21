@@ -48,7 +48,8 @@
   "The Between",
   "The attention economy",
   "The four methods",
-  "The fourth rule of method"
+  "The fourth rule of method",
+  "The free market of ideas"
  ],
  "in_progress": null,
  "flagged": {
@@ -87,10 +88,11 @@
   "Risk perception": "Reopened for QC: QC round 5: uncited framing sentence; true baseline pinned",
   "The Between": "Buber I and Thou / Between Man and Man not opened; enriched from SEP Buber; vā link stated as analogy",
   "The attention economy": "seed states Ward 2017 brain-drain as settled; replications fail and meta-analyses disagree; page states this; Simon not opened",
-  "The fourth rule of method": "Part II only; links to debiasing are compendium extensions; page says so"
+  "The fourth rule of method": "Part II only; links to debiasing are compendium extensions; page says so",
+  "The free market of ideas": "label is later shorthand (Holmes 1919 free trade in ideas); Milton text has no market metaphor; page states this"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:36:30+00:00",
+ "updated": "2026-10-21T08:37:11+00:00",
  "band_done": false
 }
