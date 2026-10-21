@@ -157,8 +157,23 @@
      "note": "single primary source (James 1907 Lecture II via Brock transcription), quotes verbatim; story_check ok"
     }
    ]
+  },
+  "s1d-009": {
+   "status": "ready",
+   "angle": "B014 the raft parable from MN 22 - similes of the snake and the raft, views abandoned once across",
+   "history": [
+    {
+     "t": "2026-10-21T12:41:42+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:42:09+00:00",
+     "to": "ready",
+     "note": "single primary source (MN 22 Thanissaro), quotes verbatim, narrative context; story_check ok"
+    }
+   ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:41:24+00:00"
+ "updated": "2026-10-21T12:42:09+00:00"
 }
