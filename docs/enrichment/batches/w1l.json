@@ -38,11 +38,11 @@
   "Katastematic pleasure",
   "Legacy motivation research",
   "Leisure",
-  "Judging by where one rests",
   "Life affirmation",
   "Limits of introspection",
   "Experiential avoidance research",
-  "Experiential avoidance theory"
+  "Experiential avoidance theory",
+  "Judging by where one rests"
  ],
  "in_progress": null,
  "flagged": {
@@ -57,7 +57,7 @@
   "Embodied emotion theory": "Reopened for QC: advisor first-item QC: unsupported claims (independence/priority, re-enactment mechanism, compendium descriptions); repairs applied",
   "Experiential avoidance research": "Reopened for QC: QC repair: glosses must not make outside claims from wiki openings; add reciprocal theory link",
   "Ideal affect theory Tsai": "Reopened for QC: milestone advisor QC repairs: AA placement restored, temperament variance comparison, behavioral direction, naming history removed, blockquote normalization",
-  "Judging by where one rests": "NAMESPACE-PENDING: prose advisor-scoped-pass; Analects 2.10 passage verified but standalone-concept status unestablished; flagged in concept-namespace-audit.md Pending dispositions; supervisor disposition required before done.",
+  "Judging by where one rests": "Reopened for QC: QC repair: remove unsupported interpretation; glosses to comparison convention",
   "Life affirmation": "Milestone QC: OUT OF DONE, held for supervisor. Repairs applied: unsupported lineage claims removed, seed line deleted per advisor, Ridley + Merrick scholarly grounding added (both verbatim from opened extractions), Eternal-recurrence gloss removed. Merrick (HoPQ 33(1) 2016) provides the requested scholarly source identifying life affirmation as a central Nietzschean aim related to amor fati/GS 276. Needs one confirmation round before done.",
   "Katastematic pleasure": "Milestone QC: CONFIRMED closed (advisor round 2: mechanical corrections applied - inline citations added, translator-credit wording fixed; SEP catastematic/kinetic grounding verbatim). Item remains in done.",
   "Legacy motivation research": "Milestone QC: CONFIRMED closed (advisor round 2: final paragraph deleted, Cambridge citations added, consulted-not-opened wording). Item remains in done.",
@@ -65,7 +65,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T06:22:44+00:00",
+ "updated": "2026-10-21T06:22:51+00:00",
  "band_done": false,
  "new_concepts": [
   {

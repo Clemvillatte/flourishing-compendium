@@ -13,15 +13,15 @@ Analects 2.10 concerns assessing a person's character. In Legge's translation, C
 
 > See what a man does. Mark his motives. Examine in what things he rests. How can a man conceal his character? How can a man conceal his character? (Analects 2.10, Legge translation, [Chinese Text Project](https://ctext.org/analects/wei-zheng/zh))
 
-A practical reading is to consider the three observations together when assessing character: conduct, motives and the things in which the person rests. The passage is a manual for assessment, and its third step is the least obvious: what a person settles into when nothing is required of them — where effort stops and what they fall back on — shows character that polished conduct can hide.
+A practical reading is to consider the three observations together when assessing character: conduct, motives and the things in which the person rests.
 
 ## Related concepts
 
-- [[Character development]] — the long-term project the passage's assessment is about
-- [[Practical wisdom]] — the capacity to judge people and situations that the passage trains
-- [[Li — ritual propriety]] — the Confucian conduct whose inner alignment the assessment checks
-- [[Filial piety]] — a first-order Confucian observable of character
-- [[Character strengths (Peterson & Seligman)]] — the psychological catalogue of traits an assessor might look for
+- [[Character development]] — listed for comparison
+- [[Practical wisdom]] — listed for comparison
+- [[Li — ritual propriety]] — listed for comparison
+- [[Filial piety]] — listed for comparison
+- [[Character strengths (Peterson & Seligman)]] — listed for comparison
 
 ## Sources
 
