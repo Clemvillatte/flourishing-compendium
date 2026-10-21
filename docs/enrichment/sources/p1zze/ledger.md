@@ -57,3 +57,7 @@
 ## M054 — Light the New Fire periodically
 - Opened: Florentine Codex Book 7 (Anderson & Dibble) full OCR text from archive.org (Volume 7 file; quotes checked against readable lines: binding of the years, putting out fires, sweeping, renewal of clothing/goods, contents-list line on boring new fire on a sacrificial victim); Dai et al. 2014 and 2020 abstracts (opened earlier for M051).
 - Seed "once per year" and wellbeing benefit NOT in Codex: cycle is 52 years; yearly rhythm labelled as adaptation. Human sacrifice element disclosed. Chapter numbering of the fire-extinguishing passage uncertain in OCR, so cited by topic.
+
+## MO009 — Motivation is social
+- Opened: Aarts/Gollwitzer/Hassin 2004 abstract (Ovid); Goldstein/Cialdini/Griskevicius 2008 abstract (OUP) + full-text excerpt; Bohner & Schlüter towel-reuse replication PDF (journal not stated in fetched text); Wing & Jeffery 1999 (PubMed); Zhang et al. 2016 (eScholarship PDF).
+- Seed cites Sheldon & Elliot 1999 for "social support increases goal attainment": that paper is the self-concordance model, not social support; dropped. Hogan 2015, Festinger 1954, Cialdini 2001 unopened; kept as bare refs. Practice line (accountability) left as is: evidence on accountability itself not found; Zhang 2016 nuance added in body.
