@@ -7,7 +7,8 @@
   "SP068",
   "SP069",
   "SP070",
-  "SP074"
+  "SP074",
+  "SP077"
  ],
  "in_progress": null,
  "flagged": {
@@ -17,10 +18,11 @@
   "SP068": "milestone QC closed: scoped PASS (closeout round 2)",
   "SP069": "milestone QC closed: scoped PASS (closeout round 2)",
   "SP070": "inherited: Aron et al. 1992 bare reference not opened this session",
-  "SP074": "inherited: Edmondson 1999 bare reference not opened this session"
+  "SP074": "inherited: Edmondson 1999 bare reference not opened this session",
+  "SP077": "inherited: Janis 1972 bare reference not opened this session"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:18:50+00:00",
+ "updated": "2026-10-21T04:19:10+00:00",
  "band_done": false
 }
