@@ -1,30 +1,18 @@
 {
  "batch": "p1zza",
- "revision": 5,
+ "revision": 8,
  "reciprocal": [
-  {
-   "into": "Narrative redemption sequences",
-   "link": "SE042",
-   "why": "A principle about revising life narratives",
-   "notes": "SE042 body grounds the redemption/adaptation claim in McAdams & McLean 2013 (opened abstract, sagepub). Target page cites SE011/CO061/CO010/S058/CO060/P100 but not SE042. Checked 2026-10-21 by worker-p1zzb-7d2e9a41."
-  },
-  {
-   "into": "Acceptance",
-   "link": "AF039",
-   "why": "A principle about accepting feelings without fighting them",
-   "notes": "The Acceptance concept page lists ACT-grounded principles (E022, S001, B054, P156, PP081) but not AF039; checked 2026-10-21 by worker-p1zzb-7d2e9a41."
-  },
   {
    "into": "Habit formation",
    "link": "MO042",
    "why": "A principle on displacing an unwanted habit with a new response to the same cue",
-   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042's body grounds substitution in the opened Gardner et al. 2021 Appetite accepted manuscript (manifestation-vs-association distinction p. 8, substitution definition p. 13, apple-dominance mechanism p. 8). Checked 2026-10-21 by worker-p1zza-7c2a91e4."
+   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042 body grounds substitution in the opened Gardner et al. 2021 Appetite accepted manuscript (manifestation-vs-association distinction p. 8, substitution definition p. 13, apple-dominance mechanism p. 8). OBSERVED FACTS: the archived applied/p1zza.json at HEAD contains this record; neither target page currently links MO042; re-created as rev 6 for the next integration; when the unapplied additions entered the archive is not established by the transcript. Checked 2026-10-21 by worker-p1zza-7c2a91e4."
   },
   {
-   "into": "Habit reversal theory Azrin",
-   "link": "MO042",
-   "why": "A principle on habit substitution, the process the Gardner et al. 2021 review also names habit reversal",
-   "notes": "The Azrin concept page (stub: awareness training + competing response) cites MO021/SP076/E014/P073 but not MO042; the Gardner et al. manuscript names 'habit reversal' as a synonym of habit substitution (p. 8). Checked 2026-10-21 by worker-p1zza-7c2a91e4."
+   "into": "Habit formation",
+   "link": "MO043",
+   "why": "A principle on the role immediate rewards play in sustaining the repetitions that form habits",
+   "notes": "The Habit formation concept page covers context-dependent repetition and timeline but not reward; MO043 body grounds the reward angle in the opened Woolley-Fishbach 2017 abstract (PMID 27899467, persistence findings) and the NPR Life Kit Fogg transcript (emotion and habit wiring). Checked 2026-10-21 by worker-p1zza-7c2a91e4."
   }
  ]
 }

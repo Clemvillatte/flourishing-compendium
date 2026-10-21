@@ -57,6 +57,8 @@ Because the association is with context rather than goals, habit formation works
 
 
 
+
+
 - [[Graded task assignment (Beck, BA)]] — the gradual shaping the technique exploits
 - [[Learning by doing]] — the stable outcomes of repeated doing and undergoing
 - [[Habit]] — the page that now carries James's historical explanation of habit acquisition
@@ -66,6 +68,8 @@ Because the association is with context rather than goals, habit formation works
 - [[Behavioural chaining (applied behaviour analysis)]] — everyday routines as habit chains
 - [[Education as growth]] — listed for comparison
 - [[Y070]] — the three conditions of sutra 1.14, a long time, without interruption, with earnest attention, are the Yoga-Vedanta form of this page's consistency finding
+- [[MO042]] — A principle on displacing an unwanted habit with a new response to the same cue
+- [[MO043]] — A principle on the role immediate rewards play in sustaining the repetitions that form habits
 ## Sources
 
 - [Lally, van Jaarsveld, Potts and Wardle 2010, European Journal of Social Psychology](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674) — the 84-day study; asymptotic curve; 66-day median, 18-254 range.
