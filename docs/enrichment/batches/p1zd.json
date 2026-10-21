@@ -43,7 +43,7 @@
   "A118": "QC-CLOSED 2026-10-21: independent nine-card review applied; peer scope narrowed to honourable things shared by all/nearly all similar people; sources opened, quotes verified; inherited parallels unverified.",
   "A121": "QC-CLOSED 2026-10-21: Rhetoric I.2/II.1 opened, quotes verified; speech-earned ethos example and source links repaired; inherited parallels unverified.",
   "AF076": "QC-CLOSED 2026-10-21: four cited abstracts opened, quotes checked; stranger experiment/couple associations/cultural scope distinguished; disclosure promise removed; inherited parallels unverified.",
-  "AF079": "Reopened for QC: Independent milestone: body understates APA medication evidence; protected Practice needs supervisor review",
+  "AF079": "BODY QC-CLOSED; SUPERVISOR OPEN: inherited Practice says ordinary regulation skills are never sufficient. APA supports assessment/treatment options, not that universal claim. Medication body wording fixed per independent QC; see sources/p1zd/qc-2b2e5eca.md.",
   "AF080": "QC-CLOSED 2026-10-21: APA/NIMH bipolar explanations opened; quotes checked, hospital-care exception and bipolar I scope added; diagnosis distinct from help-seeking; inherited parallels unverified.",
   "AT002": "QC-CLOSED 2026-10-21: Fan 2002 and Petersen/Posner 2012 abstracts opened; quotes checked; correlation/interaction limits retained in Plain words; inherited parallels unverified.",
   "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified.",
@@ -54,6 +54,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:59:35+00:00",
+ "updated": "2026-10-21T15:00:48+00:00",
  "band_done": false
 }
