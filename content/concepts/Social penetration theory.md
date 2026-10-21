@@ -7,7 +7,28 @@ file: "Social penetration theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-**Social penetration theory** — Altman, Taylor — relationships deepen as disclosure moves from breadth to depth, guided by reciprocity.
+Social penetration theory is Irwin Altman and Dalmas Taylor's account of how relationships deepen: through self-disclosure that moves from outer layers toward inner ones. The Wikipedia article on the theory states its core claim:
+
+> "SPT posits that relationship development progresses through stages characterized by increasing breadth and depth of self-disclosure." ([Wikipedia, Social penetration theory](https://en.wikipedia.org/wiki/Social_penetration_theory))
+
+### Origin
+
+The theory was formulated by Altman of the University of Utah and Taylor of the University of Delaware in 1973 to understand the development of relationships between individuals. Altman and Taylor noted that relationships "involve different levels of intimacy of exchange or degree of social penetration" ([same article](https://en.wikipedia.org/wiki/Social_penetration_theory)).
+
+### Core claims
+
+The theory's picture of the person is layered:
+
+> "Social penetration theory uses the onion metaphor to show how we reveal deeper parts of ourselves as a relationship grows." ([same article](https://en.wikipedia.org/wiki/Social_penetration_theory))
+
+The same article records the process factors the theory names — uncertainty reduction, disclosure reciprocity, the assessment of rewards and cost, potential barriers, and de-penetration, the winding-down counterpart.
+
+### In the compendium
+
+- [[A100 — Practise reciprocity (antapodosis)]]
+- [[A063 — Recognise that friendship is necessary for flourishing]]
+- [[SO001 — Flourish socially]]
+- [[SO025 — Prioritize the quality of relationships over the quantity]]
 
 ## Field
 
@@ -17,3 +38,6 @@ Sociocultural · Psychological science
 [[A063 — Recognise that friendship is necessary for flourishing]]
 [[SO001 — Flourish socially]]
 [[SO025 — Prioritize the quality of relationships over the quantity]]
+## Sources
+
+- [Wikipedia, "Social penetration theory"](https://en.wikipedia.org/wiki/Social_penetration_theory) — the breadth-and-depth claim, the 1973 Altman-Taylor formulation, and the onion metaphor, verified against the raw HTML download
