@@ -847,15 +847,20 @@
    ]
   },
   "s1a-029": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "rung-4 upgrade: ST095 Dipa Ma — add verbatim quotes from the opened dipama.com teachings page and Tricycle interview; route to supervisor",
    "history": [
     {
      "t": "2026-10-21T12:53:40+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:57:16+00:00",
+     "to": "qc_pending",
+     "note": "upgrade prepared and ROUTED to supervisor (s1a-029-upgrade-ST095.md); stirring-rice line flagged"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:55:22+00:00"
+ "updated": "2026-10-21T12:57:16+00:00"
 }

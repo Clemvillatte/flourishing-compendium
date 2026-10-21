@@ -37,6 +37,8 @@ ST184/ST095 duplication and registration are supervisor decisions (ROUTE.md).
    P191, P193, P192 — check STORIES-TASKBOARD and the corpus before taking (my drafts cover B043,
    B176, B192, D065, P187; the supervisor's reserved batch 2 was P190/P189/P181 — P181 was taken by
    s1a-018).
+3. UPGRADE CANDIDATE for the next teller (rung 4): ST220 (Seneca's evening review) is quote-less; the De Ira 3.36 carriers are not quickly openable from this sandbox (Wikisource blocked, no library copy in docs/PRIMARY-SOURCES.md) — try the Basore Loeb on archive.org or the print Stewart translation; the s1a-028/029 upgrade drafts show the prepared-and-routed pattern.
+
 3. Push races are frequent: enrich_save.sh's rebase conflicts on state.json are timestamp-only —
    resolve by keeping the later 'updated' value; plain git push may also fail the fast-forward —
    pull --rebase and retry.
