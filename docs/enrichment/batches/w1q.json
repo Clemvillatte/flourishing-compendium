@@ -40,7 +40,8 @@
   "Theory of Planned Behavior",
   "Threatened Egotism Theory",
   "Trait Activation Theory",
-  "Theory of constructed emotion"
+  "Theory of constructed emotion",
+  "The stress-buffering model"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,10 +76,11 @@
   "Theory of Planned Behavior": "QC repair 2026-10-21 (advisor-flagged): unsupported 'failed resolutions usually control-belief' claim replaced with marked editorial application; habit-formation link description narrowed; OCR apostrophe restoration confirmed by visual inspection of scanned page",
   "Threatened Egotism Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1996 founding review quoted from opened Duke scholars abstract page (full text not open, noted); 1998 Bushman & Baumeister JPSP quotes verified verbatim from opened author-hosted PDF; validated --fast-track",
   "Trait Activation Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Tett & Burnett 2003 p.502 definitions verified verbatim via opened Judge & Zapata PDF; axiom + three-cue-group quote verified verbatim via opened Lievens et al 2008 Oxford Handbook chapter PDF; validated --fast-track",
-  "Theory of constructed emotion": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barrett 2017 SCAN open-access article (PMC5390700) opened; abstract + concept-categorization + variable-instances quotes verified verbatim; seed's 'Cited in philosophy parallels' section is a filename replicate (not wikilinks) — left as-is per owner note; validated --fast-track"
+  "Theory of constructed emotion": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barrett 2017 SCAN open-access article (PMC5390700) opened; abstract + concept-categorization + variable-instances quotes verified verbatim; seed's 'Cited in philosophy parallels' section is a filename replicate (not wikilinks) — left as-is per owner note; validated --fast-track",
+  "The stress-buffering model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1985 Psychological Bulletin paper copyrighted; quotes verified verbatim from opened Garfield Citation Classic essay by Cohen himself (open UPenn PDF) describing the review's hypotheses and findings; abstract of original read via DocsLib snippet only (not counted as opened); validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:32:09+00:00",
+ "updated": "2026-10-21T16:32:33+00:00",
  "band_done": false
 }
