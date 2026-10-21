@@ -39,6 +39,9 @@ A teaching can tell you what to notice; it cannot do your noticing. When you rea
 
 - [[K126 — Cognitive defusion|K126 Cognitive defusion]]
 - [[K137 — Language flexibility|K137 Language flexibility]]
+## Stories
+- [[ST365 — Deshan Cannot Answer|365. Deshan Cannot Answer]]
+
 ## Psychology parallels
 
 - **[[The limits of introspection|The limits of introspection]]**, and its complement, first-person data as necessary (Nisbett and Wilson, 1977)
