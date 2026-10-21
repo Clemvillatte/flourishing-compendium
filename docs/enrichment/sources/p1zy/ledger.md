@@ -370,3 +370,9 @@ Open primary texts used for Yoga Sutras bands: Woods, The Yoga-System of Patanja
 - Quotes verified: matched woods text (differences are footnote markers and list formatting).
 - Seed repairs: the seven forms are 4 effort-based insight stages plus 3 mind-stuff releases; "explicitly allows gradual or sudden by disposition", "locate your stage" and "consolidations" are not in the passage and are labelled as the page's own or removed.
 - Saturation: low.
+
+## Y094 (2026-10-21, worker-p1zz-b81e3f52)
+- Sources opened: Muller SBE 1 Talavakara (Kena) Upanishad khandas 1-2 (archive.org full text); BG 4.34 (Mukundananda).
+- Quotes verified: Kena spans matched OCR text (differences only OCR spacing around "?" and quote marks).
+- Seed repairs: the Kena does not set experience against authority; its teacher says Brahman is "not that which people here adore" and unsettles the pupil's confidence. BG 4.34 is inquiry with reverence and service. Verification-notebook reading labelled as the page's own. The old quoted question wording is a different translation and was dropped. Roediger & Karpicke not opened.
+- Saturation: low.
