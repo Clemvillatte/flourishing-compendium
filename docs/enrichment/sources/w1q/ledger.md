@@ -83,3 +83,15 @@ damage, w1ab left to its live holder.
   rule for reprinted quotes); the definition fragment is quoted with a leading ellipsis
   because the carrier's sentence starts mid-clause.
 - Validation --fast-track: ok. Advisor QC: items-4-5 milestone round due.
+
+## ITEM: Super's Life-Span, Life-Space Theory (theory page; degree 3) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Carriers: (1) Super 1980, "A life-span, life-space approach to career development",
+  Journal of Vocational Behavior 16(3), 282-298 — article abstract as reproduced by
+  OpenAIRE (all four abstract sentences verified against the opened page);
+  (2) Cardello, Parker-Bell and Shao, NCDA article — reproduces Super 1990 p. 288
+  ("The simultaneous combination of life roles constitutes the lifestyle...") and the
+  five stages, both verified against the opened page.
+- 'Leisurite coined by Super' claim (search-snippet only, not in an opened carrier)
+  was REMOVED; Related-concept targets resolved before writing ([[Identity development]],
+  [[Leisure]] exist; Vocational maturity / Role balance / Career development do not).
+- Validation --fast-track: ok. Items 1-5 milestone advisor QC round follows.
