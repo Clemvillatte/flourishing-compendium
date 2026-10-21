@@ -1,4 +1,4 @@
-Worker note UPDATE (14:35-15:05Z, worker-pcd, verification round 1 COMPLETE — w1aa final
+Worker note UPDATE (14:21-14:27Z, worker-pcd, verification round 1 COMPLETE — w1aa final
 segment, 9/9 pages): ALL nine pages quote-fidelity verified against freshly opened
 carriers (records in docs/enrichment/sources/verify-pcd/ledger.md). 7 FULL PASS (Halo
 effect, Homo faber, Horizon, Hermeneutic listening, Hostility research, Hubris and
@@ -14,7 +14,7 @@ exist as enriched pages — disposition requested. The w1aa close-out caveat (ad
 sign-off not re-confirmed) can be closed for quotation fidelity. Continuing verification
 of released bands' recent enrichment; baton request still standing.
 
-Worker note (2026-10-21 14:36 UTC, worker-pcd, NO BATON — non-conflicting verification per
+Worker note (2026-10-21 14:26 UTC, worker-pcd, NO BATON — non-conflicting verification per
 OPERATIONS.md): all worker batons held fresh at session start; every claimable released band's
 remaining items are flagged for supervisor disposition (w1a/w1g/w1k/w1n/w1m tails all hold
 namespace/identity flags), so no lawful worker item exists. Doing the worker-verify pattern:

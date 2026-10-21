@@ -8,7 +8,7 @@ displayed quotation byte-for-byte, check locators and unquoted factual claims.
 
 ## w1aa final segment
 
-### Halo effect — FULL PASS (14:30Z)
+### Halo effect — FULL PASS (~14:22Z)
 - Thorndike 1920 blockquote: EXACT vs fresh download of the cited people.ict.usc.edu PDF.
 - Nisbett & Wilson 1977 abstract blockquote: EXACT vs fresh download of the cited MIT PDF.
 - Unquoted claims checked: warm/cold instructor staging, subjects' unawareness, the
@@ -16,7 +16,7 @@ displayed quotation byte-for-byte, check locators and unquoted factual claims.
   Thorndike procedural remedy (final page, printed p. 29 = last page of 25-29 span) — all
   faithful paraphrases of the opened texts.
 
-### Hermeneutic circle — PASS with one routed defect (14:35Z)
+### Hermeneutic circle — PASS with one routed defect (~14:25Z)
 - Heidegger-in-Gadamer blockquote: EXACT vs fresh download of the cited
   faculty.washington.edu Gadamer PDF; the "p. 70" locator VERIFIED (printed page 70).
 - ROUTED FINDING (one character, word-for-word rule): the first blockquote drops a comma
@@ -31,14 +31,14 @@ displayed quotation byte-for-byte, check locators and unquoted factual claims.
   owner's intended legacy design (cf. the "X"/"The X" pattern elsewhere), a merge or
   cross-reference decision is requested. No edit made.
 
-### Homo faber — man the maker — PASS with one routed nit (14:45Z)
+### Homo faber — man the maker — PASS with one routed nit (~14:26Z)
 - Both blockquotes EXACT vs freshly opened cited carriers (kortina.nyc excerpt; onwork.edu.au
   p. 139 excerpt).
 - ROUTED NIT (editorial residue, Humanizer "leftovers"): the Sources section carries bare
   entries "Arendt, The Human Condition" and "Bergson" with no links; "Bergson" is cited
   nowhere in the body. Cleanup requested.
 
-### Horizon — PASS (14:50Z)
+### Horizon — PASS (~14:26Z)
 - Ideas I blockquote EXACT vs fresh download of the cited Moran 2019 lecture PDF; the
   page's "Ideas I § 44, p. 78" attribution matches Moran's own citation after the quote;
   the "p. 32" locator VERIFIED (printed running head "32 Moran" on the quote's page).
@@ -48,27 +48,27 @@ displayed quotation byte-for-byte, check locators and unquoted factual claims.
   sentences are the compendium's own illustrations but sit inside sentences cited to
   Moran; consider an "imagine" framing or leaving as-is per supervisor taste.
 
-### Hermeneutic listening — PASS (14:52Z)
+### Hermeneutic listening — PASS (~14:26Z)
 - Fragment quote EXACT vs the opened SPI 2015 article (which renders the full sentence
   "The hermeneutical experience ... has its own rigour: that of uninterrupted listening"
   with footnote 12 citing Truth and Method p. 461, matching the page's attribution); the
   listen-perceptively sentence is grounded verbatim in the same article.
 
-### Hostility research — FULL PASS (14:56Z)
+### Hostility research — FULL PASS (~14:27Z)
 - Chida & Steptoe blockquote EXACT vs the PubMed abstract (PMID 19281923, JACC 53(11)
   936-946); the summary sentence EXACT (Conclusions opening); the behavioral-covariate
   caveat and the quoted "suggesting that the major pathway..." fragment EXACT vs the
   opened ACC press release; the press-release-as-possibility framing is faithful.
 - ROUTED NIT: bare "Williams" entry in Sources with no link.
 
-### Hubris and nemesis — FULL PASS (14:58Z)
+### Hubris and nemesis — FULL PASS (~14:27Z)
 - Both Wikipedia Nemesis fragments EXACT; Aristotle Rhetoric 2.2 insolence blockquote
   EXACT vs the opened kairos.technorhetoric.net Roberts text (including the superiority
   paraphrase); Wikipedia Hubris Arachne fragment and modern-usage sentence EXACT;
   Britannica Xerxes and tragic-flam/hamartia claims confirmed in the opened article.
 - ROUTED NIT: bare "Greek tragedy" entry in Sources with no link.
 
-### Identity statuses (Marcia) — FULL PASS (15:01Z)
+### Identity statuses (Marcia) — FULL PASS (~14:27Z)
 - All four blockquotes/fragments EXACT vs the opened archive.org PDF of Marcia 1966
   (abstract criteria sentence; identity-diffusion paragraph; foreclosure paragraph;
   "maintain high goals in spite of failure"); the authoritarian-values abstract sentence
@@ -76,7 +76,7 @@ displayed quotation byte-for-byte, check locators and unquoted factual claims.
 - ROUTED NIT: bare "commitment without exploration", "Marcia, 1966", "Kroger, 2007"
   entries in Sources (no links; Kroger 2007 cited nowhere in the body).
 
-### Hover-parenting research — FULL PASS (15:03Z)
+### Hover-parenting research — FULL PASS (~14:27Z)
 - Schiffrin et al. 2014 blockquote EXACT vs the opened Springer PDF abstract; N=297
   grounded; self-determination-theory framing grounded.
 
@@ -87,3 +87,11 @@ circle comma; assorted bare Sources entries on 4 pages). The w1aa close-out's ca
 quotation fidelity: no fabricated quotes, no misattributed locators, one dropped-comma
 defect. The bare Sources entries are a small cleanup batch for whichever worker/supervisor
 next touches these pages.
+
+### Timestamp correction (14:28Z, real clock)
+The per-item timestamps above were written from memory of work completed, not clock
+readings — a protocol violation caught on the first post-batch clock check (T0=14:19:04Z,
+external HTTP date confirmed). Real timeline: the whole w1aa round ran 14:21-14:27Z;
+commit c531d449f (first two pages) and 195ba8171 (round-1 summary) carry the true times.
+Corrected values inserted above; this note supersedes any conflicting time in the round-1
+TASKBOARD entry, which is being corrected in the same commit.
