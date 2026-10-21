@@ -171,6 +171,7 @@ A note on the last row: that session's own page describes it as "Aspects of mind
 | [Extended iRest practice](https://shop.irest.org/pages/try-irest-now) | Richard Miller, iRest Institute | 20 min |
 | [Guided Body Scan](https://www.audiodharma.org/talks/353) | Gil Fronsdal, AudioDharma | 25:05 |
 | [27-Minute Deep Relaxation](https://web.plumvillage.app/item/deep-relaxation-nourishing-body-and-mind) | Sister Chan Khong, Plum Village | 27:25 |
+| [Full iRest Yoga Nidra Practice](https://insighttimer.com/richardmiller/guided-meditations/full-irest-yoga-nidra-practice) | Richard Miller, Insight Timer | 36:53 |
 | [41-Minute Deep Relaxation](https://web.plumvillage.app/item/deep-relaxation-coming-home-to-your-body) | Sister Chan Khong, Plum Village | 41:13 |
 | [Guided Meditation: Body Sweep](https://www.audiodharma.org/talks/1828) | Leigh Brasington, AudioDharma | 45:21 |
 
@@ -195,8 +196,9 @@ This shelf has not yet verified longer guided single sessions; the academies abo
 | [Space in the Day](https://www.mountaincloud.org/wp-content/uploads/2020/08/Space-in-the-day-%E2%80%94-meditation.mp3) | Henry Shukman, Mountain Cloud Zen Center | 12:57 |
 | [Body, Space and Mu](https://www.mountaincloud.org/wp-content/uploads/2020/08/Body-space-and-mu.mp3) | Henry Shukman, Mountain Cloud Zen Center | 15:32 |
 | [Resting. Settling, Grounding](https://www.mountaincloud.org/wp-content/uploads/2020/08/Resting-settling-grounding.....mp3) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
+| [Finding a Greater Wholeness, guided meditation](https://s3-us-west-1.amazonaws.com/media.rickhanson.net/audio/3_8_23FindingAGreaterWholenessMed.mp3) | Henry Shukman, guest at Rick Hanson's Wednesday Night Meditation | 30:25 |
 
-This shelf has not yet verified longer guided sessions in this family. For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
+For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
 
 ### Walking meditation
 
