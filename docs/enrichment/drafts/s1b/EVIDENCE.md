@@ -56,6 +56,8 @@ Independent first-candidate review and re-review returned substantive PASS for B
 ## Scope and publication boundary
 
 The owner's latest approval activates D107, B088 and P196 under s1b, with the scope request and exact proposed angles preserved in ROUTE.md for the supervisor's registry reconciliation. Each item must still pass duplicate review, advisor QC when due and story_check before ready; only the supervisor may choose separate-story versus ST120 enrichment for P196, register any ST number and write backlinks.
+- **s1b-006 re-verification addendum (2026-10-21, final pass):** the two Chang Chan commentary excerpts ("disturbance in his mind, accompanied by a change in his outward demeanour"; "became conscious of the fact that he was a human being") failed a naive single-stream string match because the printed commentary sits in a column whose lines interleave with the main text in plain extraction. A layout-mode extraction of PDF p. 56 (printed p. 50) confirms the commentary column reads: "There was disturbance in his mind, accompanied by a change in his outward demeanour; thus the birds became conscious of the fact that he was a human being. How could their instinct be deceived?" — both excerpts are consecutive words of that column and are verbatim correct. The DDJ 29 fragment was verified against the opened sacred-texts carrier (see the round-4 entry above).
+
 ## Rejected or unsuitable leads (session 2026-10-21)
 
 - B055 (maranasati): covered — ST343 (The Buddha's Last Words, DN 16) already links B055; the taskboard's zero-story pool entry was stale. No new story needed.
