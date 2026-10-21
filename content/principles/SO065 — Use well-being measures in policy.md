@@ -12,11 +12,29 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 65** — Use well-being measures in policy
 
-Use well-being measures in policy, alongside economic measures. The OECD's 2013 Guidelines on Measuring Subjective Well-being established a standard framework; national well-being accounts now exist in the UK, New Zealand, and elsewhere. The adaptive stance is to treat well-being as a design criterion of policy, not a byproduct.
+The OECD's 2013 Guidelines were, in the publisher's words, "the first attempt to provide international recommendations on collecting, publishing, and analysing subjective well-being data" ([OECD guidelines record, EU Publications Office](https://op.europa.eu/en/publication-detail/-/publication/4547136c-bab5-4491-8f0b-91bfda95a851)). They say such data can "complement other outcome measures", "support policy evaluation and cost-benefit analysis, particularly where non-market outcomes are involved", and help "identify potential policy problems" ([OECD Guidelines, PDF](https://www.oecd.org/content/dam/oecd/en/publications/reports/2013/03/oecd-guidelines-on-measuring-subjective-well-being_g1g28641/9789264191655-en.pdf)). That describes a recommended practice, not a settled standard, and the OECD has since issued a 2025 update ([OECD 2025 update](https://www.oecd.org/en/publications/oecd-guidelines-on-measuring-subjective-well-being-2025-update_9203632a-en/full-report/measuring-subjective-well-being_b4b53f27.html)).
 
-**Plain words** Well-being can be measured at the national level and used in policy — the frameworks exist, some governments use them. GDP was also once a new idea. What gets measured gets governed. Ask your policymakers what they're measuring.
+In the UK, the Prime Minister's 2010 programme aimed to measure progress by "how our lives are improving" and "quality of life", alongside the economy ([GOV.UK](https://www.gov.uk/government/collections/national-wellbeing)). The Office for National Statistics asks four personal well-being questions on a 0 to 10 scale, covering life satisfaction, worthwhile, happiness and anxiety ([ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/methodologies/personalwellbeingfrequentlyaskedquestions)). New Zealand's Treasury described its 2019 Wellbeing Budget as broadening "our definition of success" to include natural resources, people and communities ([NZ Treasury](https://www.treasury.govt.nz/sites/default/files/2019-06/b19-wellbeing-budget.pdf)).
 
-*For example:* The country that asks "how is life going?" alongside "how is the economy?" in official statistics — a boring administrative change that quietly reorders what counts as success. The spreadsheet is the policy.
+### Scope
+
+These sources show that well-being is measured and stated as a policy aim. I found no evidence here that the measures changed policy decisions or outcomes. I did not open the work by Diener, Clark, Veenhoven or the International Wellbeing Group.
+
+**Plain words**
+Governments can ask people how their lives are going and publish the results next to economic figures. Whether this changes decisions is a separate question.
+
+**For example**
+Find your national statistics office's well-being report and see which questions it asks.
+
+## Sources
+
+- [OECD guidelines on measuring subjective well-being (EU Publications Office)](https://op.europa.eu/en/publication-detail/-/publication/4547136c-bab5-4491-8f0b-91bfda95a851)
+- [OECD Guidelines on Measuring Subjective Well-being (2013 PDF)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2013/03/oecd-guidelines-on-measuring-subjective-well-being_g1g28641/9789264191655-en.pdf)
+- [OECD Guidelines (2025 update)](https://www.oecd.org/en/publications/oecd-guidelines-on-measuring-subjective-well-being-2025-update_9203632a-en/full-report/measuring-subjective-well-being_b4b53f27.html)
+- [GOV.UK: National wellbeing](https://www.gov.uk/government/collections/national-wellbeing)
+- [ONS: Personal well-being frequently asked questions](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/methodologies/personalwellbeingfrequentlyaskedquestions)
+- [New Zealand Treasury: The Wellbeing Budget 2019](https://www.treasury.govt.nz/sites/default/files/2019-06/b19-wellbeing-budget.pdf)
+
 ## Psychology parallels
 
 - [[OECD|OECD]] (2013) Guidelines; Diener (2000) on subjective well-being; Clark et al. (2018) on the economics of well-being; the International Wellbeing Group's framework (Foundations, 2017; Holmes, 2022); national well-being accounting (Veenhoven, 2010; Andonian, 2017).
