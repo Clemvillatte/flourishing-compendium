@@ -87,3 +87,29 @@ Carriers opened fresh: davidhume.org Treatise Bk III Pt III (Hume Texts Online),
 
 Result: 3/3 quotation fidelity PASS; 1 locator defect routed (Fellow feeling 3.3.1.1 should be 3.3.1.7).
 Ledger self-check: no band files edited this round.
+
+## Round 3 (16:22Z) — w1aa quote-fidelity verification, second batch
+
+Carriers opened fresh: Access to Insight AN 6.63 (Thanissaro), Wikipedia "Karma in Buddhism",
+Gutenberg #4280 (Meiklejohn CPR), SEP "Intentionality" (Jacob).
+
+1. Karma — blockquote ("Intention, I tell you, is kamma. Intending, one does kamma by way of
+   body, speech, & intellect.") VERBATIM; three-fold result paraphrase confirmed ("that which
+   arises right here & now, that which arises later [in this lifetime], and that which arises
+   following that"); the "standard summary" sentence confirmed near-verbatim in the Wikipedia
+   carrier ("The focus of interest shifted from physical action... to psychological process.")
+   — page says "moved" where carrier says "shifted", prose not quote: no defect, noted.
+2. Faculties of the mind — blockquote (CPR "Our knowledge springs from two main sources...")
+   VERBATIM; "thoughts without content are void; intuitions without conceptions, blind."
+   VERBATIM as quoted; the sense-understanding-reason sentence is a faithful abridged
+   paraphrase of the carrier's full sentence ("All our knowledge begins with sense, proceeds
+   thence to understanding, and ends with reason, beyond which nothing higher can be
+   discovered in the human mind...").
+3. Intentionality — both Brentano blockquotes VERBATIM vs the SEP entry; "No physical
+   phenomenon exhibits anything like it." VERBATIM; the SEP definition sentence VERBATIM;
+   the LU V attribution and the criterion-alone paraphrase supported by the entry's text.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
+ALSO NOTED: batch-ledger string "Integrity (integritas: wholeness)" uses a colon while the
+page file is "Integrity (integritas — wholeness).md" — cosmetic mismatch only; page exists
+and _order.json references the real filename. No action needed.
