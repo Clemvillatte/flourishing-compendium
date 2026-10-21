@@ -1363,3 +1363,43 @@ Piff et al. 2015; D056: Gibson 1979, Miller & Rollnick 2013; D061: Meichenbaum
 preventive coping). These are bare-reference rows, not claim-bearing prose;
 they were outside the p1h workers' opened sources and are recorded here as the
 honest boundary of this resolution.
+
+### QC repair round 2 (2026-10-21, supervisor-p1abc, advisor-directed)
+
+The milestone round-1 submission was NOT cleared; four targeted corrections
+applied and pushed (c309782e):
+
+- **CO064 REOPENED and REPAIRED**: the negative-metacognitions blockquote had
+  ended at 'I have no control over my worry/rumination.' with an inserted
+  period, truncating the source's sentence without an omission mark. FIXED:
+  the blockquote now reproduces the complete sentence, ending "...and
+  'Feeling like this means I am losing my mind' (Wells, 2009)." per the
+  opened PMC6246690 Introduction. Validates ok.
+- **AT063 Wiradhany paragraph re-verified against the directly opened
+  source**: PubMed 28840547 fetched directly (not search-only); the 14
+  tests / 5 significant / 2 Bayesian / 39 effect sizes / weak-association-
+  turning-nonsignificant / authors' questioning sentence all confirmed in
+  the actual abstract.
+- **D014/D056/D061 inherited-parallels rows were claim-bearing, not bare
+  references** (the round-1 characterisation was wrong): the rows carried
+  factual glosses ("play predicts emotional vitality in adults", "the
+  small-self effect", "skilled perception of action possibilities",
+  "works with, not against, a person's own motivation", "preparing in
+  advance reduces reactivity"). These glosses were never opened by any
+  worker. Reduced to bare references per the AF011/AF046/BI041 precedent
+  (wikilinks and citations kept, claim clauses removed); all three pages
+  validate ok. The inherited rows are now genuinely bare references and the
+  resolution boundary statement is accurate.
+- **Narrowed clearance language**: each resolution covers the specific
+  flagged defect(s) and the displayed quotations of that page — not a
+  whole-page certification. Where a resolution relied on a predecessor's
+  verification (AT039's Berman et al. 2008 claims; the ten
+  supervisor-scoped-verification notes), it is recorded as inherited
+  evidence, not re-verified this session. AT039's resolution covers the
+  flagged Fox byline, the Kang-Kurtzberg blockquote (verbatim, freshly
+  verified) and the flagged scope items; the Berman nature-walking claims
+  rest on the p1h worker's recorded verification.
+- **Original allegations preserved**: the 32 original flag values were
+  recovered from dd687e9d^ and are preserved in the state file alongside
+  each disposition ([ORIGINAL ALLEGATION: ...]), restoring the audit-trail
+  information.
