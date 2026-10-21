@@ -30,7 +30,7 @@ Adapted from Brach's [full practice description](https://www.tarabrach.com/rain-
 3. Investigate with interest and care: ask what most wants attention, how the experience lives in the body, what is being believed, what the vulnerable place most needs, and attend to the felt sense rather than concepts.
 4. Nurture with self-compassion: sense what the wounded or hurting place most needs and offer a gesture of active care, a whispered message such as "I'm here with you" or a hand gently placed on the heart.
 
-After the steps, notice the quality of awareness and rest there. The [guided version](https://www.youtube.com/watch?v=W8e_tAEM80k) advises choosing something to work with that is charged but not overwhelming or traumatic.
+After the steps, notice the quality of awareness and rest there. The [guided version](https://www.youtube.com/watch?v=W8e_tAEM80k) is Tara Brach's guided practice of the four steps, in which you choose what to work with.
 
 ### Evidence
 
