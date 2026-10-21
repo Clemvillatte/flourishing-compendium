@@ -49,3 +49,7 @@
 ## R058 — Practise filial piety (xiao)
 - Opened: ctext Analects 1 and 2 (Legge, fetched), Analects 4.18 (Legge via wengu.tartarie.com, search excerpt), Mencius 4A19 (Legge via mengtzu.com, excerpt), Child Development Chinese Malaysian abstract (excerpt), Dual FP review abstract (17 studies, Springer).
 - Seed "not mere obedience": Analects 2.5 literally says "not being disobedient" (explained as ritual propriety) — tension disclosed; 4.18 supports gentle remonstrance. Seed "debt you owe" absent in passages read. Mencius 4A18 and Berscheid 1994 / Mikulincer 2005 unopened. Two Philosophy bullets and the Xiao wikilink untouched.
+
+## R067 — Practise receptive caring
+- Opened: Noddings 2010 Abstracta text (excerpt), Philopractice page quoting Caring, Ghent thesis quoting Ickes 1993 p.588 (definition only). Caring 1984 and Starting at Home not read in full.
+- Seed "see the world from their perspective" tempered: Noddings explicitly rejects "putting myself in the other's shoes"/projection. "Receptivity is first phase" supported by "attention precedes empathy". Empathic accuracy vs receptivity: related not equivalent, noted.
