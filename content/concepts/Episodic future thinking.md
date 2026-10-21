@@ -11,7 +11,7 @@ Episodic future thinking is the mind's rehearsal of specific futures: vividly im
 
 > "Also referred to as *episodic future simulation* or *episodic foresight*, EFT denotes the capacity to vividly imagine and mentally simulate personally relevant future events." (Song et al., [Frontiers in Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655094/))
 
-The point of the simulation is to make the delayed consequences of present choices feel real. EFT "encourages individuals to construct detailed future scenarios, thereby rendering delayed outcomes of current health behaviors more salient, emotionally engaging, and subjectively real". The measured effect is patience: "evidence indicates that EFT reduces delay discounting, improves decision quality, and enhances executive functioning, motivation, and mood". A person who can pre-feel the future self receiving the benefit finds it easier to wait for that benefit.
+The point of the simulation, as the review presents it, is that EFT "encourages individuals to construct detailed future scenarios, thereby rendering delayed outcomes of current health behaviors more salient, emotionally engaging, and subjectively real". The review reports that "evidence indicates that EFT reduces delay discounting, improves decision quality, and enhances executive functioning, motivation, and mood", while noting that "the mechanisms through which EFT influences delay discounting and health behavior remain unclear".
 
 ### In the compendium
 

@@ -7,11 +7,11 @@ file: "Excitation transfer theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Excitation transfer theory is Dolf Zillmann's account of why feelings overflow their causes: arousal from one source intensifies reactions to whatever comes next, because arousal decays slowly. As a recent study summarizes it:
+Excitation transfer theory is Dolf Zillmann's account of emotional carryover: arousal from one source may intensify reactions to what follows. As a recent study summarizes it:
 
 > "excitation transfer theory indicates that residual arousal from a prior situation may amplify emotions and responses in a subsequent one (Zillmann, 1971, 1983)." (Pang et al., [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC13529472/))
 
-The mechanism is the mismatch between arousal's slow fade and experience's fast changes: "emotional arousal from one context can carry over to a subsequent context and influence later emotional responses". A feeling's intensity on arrival can thus be partly borrowed from the previous scene. What a feeling feels like is not fixed by what caused it; the residual excitement of one event supplies fuel to the next.
+The mechanism, as the same study puts it, is that "emotional arousal from one context can carry over to a subsequent context and influence later emotional responses". The amplification is stated as a possibility — residual arousal "may amplify emotions and responses in a subsequent one" — not as a rule of feeling.
 
 ### In the compendium
 

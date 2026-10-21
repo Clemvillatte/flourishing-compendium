@@ -7,11 +7,11 @@ file: "Equipment revealed only in breakdown"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-In Being and Time, Heidegger's famous example is the hammer: in ordinary use it is invisible, nothing but a transparent means of hammering. The tool's being is revealed only when it fails. The Stanford Encyclopedia of Philosophy compresses the analysis into a few sentences:
+In Being and Time, Heidegger's example is the tool: in ordinary use it is transparent, showing up only in terms of what it is for. The Stanford Encyclopedia of Philosophy compresses the analysis into a few sentences:
 
 > "We also encounter the occurrent in cases of a breakdown in our ability to fluidly cope with the world—when, for instance, 'a tool turns out to be damaged' (SZ 73). In such cases, our attention is drawn to the material foundations of available equipment, and 'pure occurrentness announces itself' (SZ 73)." ([SEP, Martin Heidegger](https://plato.stanford.edu/entries/heidegger/))
 
-The lesson is broader than tools. "Most inanimate objects that we encounter in our everyday lives are disclosed in the first instance as available", and "normally we are swept along in purposively engaging with available entities, which show up precisely in terms of their practical significance". The equipmental world is a smooth transparency that becomes visible at the points of friction — the tool that turns out to be damaged. What a thing is, for the most part, hides inside what it does.
+The lesson is broader than tools: "most inanimate objects that we encounter in our everyday lives are disclosed in the first instance as available". "Normally we are swept along in purposively engaging with available entities, which show up precisely in terms of their practical significance". In breakdown, attention is drawn to "the material foundations of available equipment" — the tool seen as a thing rather than used as a means.
 
 ### In the compendium
 

@@ -7,23 +7,23 @@ file: "Escape Theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Escape Theory is Roy Baumeister's account of what binge eating, self-harm and similar behaviors have in common: they are escapes from an aversive self-awareness one cannot bear. The mechanism, as stated in the eating-disorder literature:
+Escape Theory is Roy Baumeister's account of escape from aversive self-awareness. In the eating-disorder literature it explains binge eating as one such escape:
 
 > "Within contemporary affect-regulation and escape models, binge eating is seen as a negatively reinforced strategy for regulating overwhelming or aversive emotions, temporarily attenuating self-awareness and negative affect through distraction, sensory soothing or numbing." (Joshua et al., [Clinical Psychology & Psychotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13629275/))
 
-The escape runs away from self-evaluation toward the senses. "Escape theory holds that eating serves to disengage individuals from aversive self-evaluations and acute stressors", and in that state "individuals... may use eating as a coping tool to redirect attention away from painful self-evaluations and toward immediate sensory experiences" (Li et al., [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC13581934/)). The pattern is negatively reinforced: it works for the moment, which is why it repeats and why the underlying self-evaluation is never examined.
+The escape runs away from self-evaluation toward the senses. "[S]econd, escape theory holds that eating serves to disengage individuals from aversive self-evaluations and acute stressors", and in that state "individuals with lower body satisfaction may use eating as a coping tool to redirect attention away from painful self-evaluations and toward immediate sensory experiences" (Li et al., [Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC13581934/)). The pattern is negatively reinforced: it works for the moment, which is why it repeats.
 
 ### In the compendium
 
 - [[AF019 — Recognise the paradox of hedonic pursuit — chasing positive affect can reduce it]] is this concept's direct parallel
-- [[D133 — Don't dominate — the world can't be controlled]] and [[SP061 — Defend cheerfulness]] carry its adjacent edges
-- [[SP063 — Let the desire of the active mind be unlimited]] names the active mind that escape shuts down
+- [[SP061 — Defend cheerfulness]] and [[SP063 — Let the desire of the active mind be unlimited]] are linked principles
+- [[D133 — Don't dominate — the world can't be controlled]] is a linked principle
 
 ## Related concepts
 
-- [[Emotion regulation]] — the function the escape serves, badly
-- [[Rumination]] — the aversive self-focus the escape flees
-- [[Self-compassion]] — the alternative relation to one's own failures
+- [[Emotion regulation]]
+- [[Rumination]]
+- [[Self-compassion]]
 
 ## Field
 

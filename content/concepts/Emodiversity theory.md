@@ -7,9 +7,9 @@ file: "Emodiversity theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Emodiversity theory holds that emotional health depends on more than how positive or intense one's feelings are: it also depends on how many distinct emotions one experiences and how evenly. The construct is measured with Shannon's entropy, which "allows for a measure of both richness and evenness of diversity rather than one at the expense of the other (Quoidbach et al., 2014)" (Wright et al., [Behavioral Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC12838163/)). The claim is that this "diversity of emotional experience is postulated to go beyond simple emotion valence and intensity to provide an additional metric of a fulfilling emotional experience".
+Emodiversity theory concerns the diversity of emotional experience: how many distinct emotions one experiences, and how evenly. The construct is measured with Shannon's entropy, which "allows for a measure of both richness and evenness of diversity rather than one at the expense of the other (Quoidbach et al., 2014)" (Wright et al., [Behavioral Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC12838163/)). The theory's claim is that this "diversity of emotional experience is postulated to go beyond simple emotion valence and intensity to provide an additional metric of a fulfilling emotional experience".
 
-The idea treats the inner life like an ecosystem: a single dominant feeling, however pleasant, is a monoculture. A wider and more even spread of emotional experience, each emotion in moderation, is postulated to provide something a bare average of positivity misses.
+The evidence so far is not settled: the same review notes that emodiversity "has demonstrated mixed findings for its relative value in the examination of health and wellbeing".
 
 ### In the compendium
 

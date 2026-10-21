@@ -7,11 +7,11 @@ file: "Dunning-Kruger effect"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The Dunning-Kruger effect is the finding that the least skilled are the least able to see it. Justin Kruger and David Dunning's original abstract, from the Journal of Personality and Social Psychology, states the mechanism as a dual burden:
+The Dunning-Kruger effect is the finding, from Kruger and Dunning's four studies, that participants scoring in the bottom quartile on tests of humor, grammar and logic overestimated their performance and ability. The original abstract states the mechanism as a dual burden:
 
 > "Not only do these people reach erroneous conclusions and make unfortunate choices, but their incompetence robs them of the metacognitive ability to realize it." (Kruger & Dunning 1999, [JPSP 77(6):1121-1134, PubMed 10626367](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10626367&rettype=abstract&retmode=text))
 
-The numbers from their four studies are famous: "participants scoring in the bottom quartile on tests of humor, grammar, and logic grossly overestimated their test performance and ability. Although their test scores put them in the 12th percentile, they estimated themselves to be in the 62nd." The effect is not bravado; it is a metacognitive deficit, "the capacity to distinguish accuracy from error". The sting in the tail: "improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities" — the only cure for not knowing is learning.
+The numbers are famous: "Although their test scores put them in the 12th percentile, they estimated themselves to be in the 62nd." The authors link this miscalibration to deficits in "metacognitive skill, or the capacity to distinguish accuracy from error". They also report that "improving the skills of participants, and thus increasing their metacognitive competence, helped them recognize the limitations of their abilities".
 
 ### In the compendium
 

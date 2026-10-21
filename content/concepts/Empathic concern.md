@@ -11,7 +11,7 @@ Empathic concern is the other-oriented side of empathy: warmth felt for someone 
 
 > "when individuals face others' misfortunes, they experience two primary emotional responses: empathetic concern and personal distress. The former manifests as warm, other-oriented compassion, while the latter reflects self-centered discomfort and anxiety, each leading to different motivations and outcomes." (Zhao et al., [Behavioral Sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC13603700/))
 
-The two feelings look alike from outside but diverge in direction: one is self-centered discomfort, the other other-oriented warmth, and they lead to different motivations and outcomes. As the same article puts it, "empathy-based concern is a core motivator of altruistic behavior, prompting individuals to focus on others' well-being and inspiring prosocial actions".
+The two responses lead to different motivations and outcomes: one is other-oriented warmth, the other self-centered discomfort and anxiety. As the same article puts it, "empathy-based concern is a core motivator of altruistic behavior, prompting individuals to focus on others' well-being and inspiring prosocial actions".
 
 ### In the compendium
 
@@ -21,7 +21,7 @@ The two feelings look alike from outside but diverge in direction: one is self-c
 ## Related concepts
 
 - [[Empathy]] — the capacity of which concern is the other-oriented form
-- [[Compassion]] — the sustainable blend of empathy plus concern
+- [[Compassion]]
 - [[Empathy-altruism hypothesis]] — Batson's full argument
 
 ## Field
