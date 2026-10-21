@@ -22,11 +22,11 @@ The theory's central claim, as the abstract puts it, is that threat is about res
 
 > "what is threatening to them is the potential or actual loss of these valued resources" (Hobfoll, 1989, abstract, [PubMed record](https://pubmed.ncbi.nlm.nih.gov/2648906/))
 
-A handbook summary of the theory states its best-known asymmetries: "loss is more salient than gain, and loss begets loss" (Holmgreen, Conservation of Resources Theory, in The Handbook of Stress and Health, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27), chapter abstract).
+A handbook summary of the theory states its best-known asymmetries: "loss is more salient than gain, and loss begets loss" ("Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27), chapter abstract; byline not fully verified from the opened page, noted in the band ledger).
 
 ### How the theory explains
 
-A resource theory explains by accounting: on the model, a stressor is anything that threatens or takes away what a person values, and the abstract lists the threat, the actual loss, and the investment as the occasions of stress. The same handbook summary adds that the theory treats "the desire to defend, conserve, and acquire these valued resources" as what motivates behaviour in the face of stress (same chapter, abstract).
+A resource theory explains by accounting: on the model, a stressor is anything that threatens or takes away what a person values. The same handbook summary adds that the theory treats "the desire to defend, conserve, and acquire these valued resources" as what motivates behaviour in the face of stress (same chapter, abstract).
 
 ### In everyday life
 
@@ -41,9 +41,9 @@ A person juggling a new baby, a sick parent and a work deadline illustrates the 
 
 ## Related concepts
 
-- [[The job demands-resources model]] — the workplace-situation sibling built on the same resource logic
-- [[Burnout]] — a concept the theory's framework has been applied to
-- [[Ego depletion]] — a sibling account of energy as a depletable resource
+- [[The job demands-resources model]] — a navigation link to the workplace framework built on resource logic
+- [[Burnout]] — a navigation link within the stress-and-resources neighbourhood
+- [[Ego depletion]] — a navigation link within the same neighbourhood
 
 ## Field
 
@@ -56,4 +56,4 @@ Affect · Psychological science
 ## Sources
 
 - [Hobfoll, S. E. (1989), "Conservation of resources: A new attempt at conceptualizing stress", American Psychologist 44(3), 513-524 — PubMed record, PMID 2648906](https://pubmed.ncbi.nlm.nih.gov/2648906/) — abstract-derived quotations: the model statement and the critique of prior stress models; the abstract's "project" is quoted as the record prints it
-- [Holmgreen, L., "Conservation of Resources Theory", in The Handbook of Stress and Health, Wiley Online Library chapter](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27) — carrier for the loss-salience statement and the defend-conserve-acquire sentence, from the opened chapter page's visible text (byline as the opened page presents it)
+- ["Conservation of Resources Theory", a chapter of The Handbook of Stress and Health, Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/9781118993811.ch27) — carrier for the loss-salience statement and the defend-conserve-acquire sentence, from the opened chapter page's visible abstract

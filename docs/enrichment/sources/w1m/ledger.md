@@ -462,3 +462,20 @@ All three theory pages FAILED round 1; repairs applied this session:
   conclusion; everyday example replaced with Shedler's reported illustrations;
   samskaras comparison bounded as resemblance; nested quotes fixed; carrier
   links added to all four feature quotations.
+
+## Advisor round-2 verdicts and round-2.5 repairs (items 6-8)
+COR: "investment" clause removed (not in the PubMed abstract); handbook
+citation de-bylined (title + publisher, byline-verification note in ledger);
+burnout/JD-R/ego-depletion glosses reduced to navigation links. Connectionism:
+children-mechanism claim fixed to the model's reproduced progression;
+"error-driven" qualified to the error-correction models the article centres
+on; localist/distributed quotes verified VERBATIM vs the saved IEP HTML;
+THEORIST-QUOTE REQUIREMENT STILL UNMET -> done-mark REVERTED, QC-pending
+recorded in the batch flagged{}. CPD: Shedler's own limitations discussion
+opened and quoted (RCT count asymmetry, "an order of magnitude"); Related
+glosses reduced to navigation links; samskaras gloss bounded after reading
+Y022 (samskaras as subliminal impressions, Yoga Sutra 1.18 context); feature
+quotes re-verified against the PDF (the "live on" quote uses curly quotes in
+the PDF — page now matches). Baseline validation --base 1f190f132: 3/3 ok.
+Items 6-8 remain QC-pending until round-3; COR and CPD have no known
+outstanding repairs.

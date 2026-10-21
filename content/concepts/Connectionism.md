@@ -32,7 +32,7 @@ And about processing:
 
 ### How the approach explains
 
-A network model explains cognition statistically rather than logically. Representation can be local or distributed, and the IEP article distinguishes the two: in a "localist encoding" scheme "a particular unit will represent a particular piece of information", while in distributed coding "an entire collection of activation values is taken to represents something" (section 5). Much connectionist modelling uses the distributed form: a memory or a word's meaning is a pattern of activation spread across many units, and what a system knows is in its weights. Learning is error-driven weight change:
+A network model explains cognition statistically rather than logically. Representation can be local or distributed, and the IEP article distinguishes the two: in a "localist encoding" scheme "a particular unit will represent a particular piece of information", while in distributed coding "an entire collection of activation values is taken to represents something" (section 5). Much connectionist modelling uses the distributed form: a memory or a word's meaning is a pattern of activation spread across many units, and what a system knows is in its weights. In the error-correction models the article centres on, learning is weight change driven by the network's errors:
 
 > "Connectionist systems generally learn by detecting complicated statistical patterns present in huge amounts of data." (IEP, Connectionism, section 5)
 
@@ -44,7 +44,7 @@ The standing objection comes from the classical camp: Fodor and Pylyshyn argued 
 
 ### In everyday life
 
-The past-tense model supplies the accessible everyday illustration: children who first say "went", then "goed", then "went" again are not learning and forgetting a rule; the connectionist claim is that the whole curve can come from graded weight change over examples. (Summary of the documented model, not a new scenario.)
+The past-tense model supplies the accessible illustration: what the model reproduced was the reported progression in children's past-tense forms, from correct "went" to over-regularised "goed" and back, and the model's claim is that this curve can come from graded weight change over examples. (Summary of the documented model, not a new scenario.)
 
 ### In the compendium
 

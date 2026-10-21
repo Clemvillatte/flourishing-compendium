@@ -16,7 +16,7 @@ Contemporary psychodynamic theory is the umbrella term for the modern forms of p
 
 ### Origin
 
-Shedler's review grounds the technique list in an empirical study: Blagys and Hilsenroth (2000) compared the process and technique of manualized psychodynamic therapy with manualized cognitive-behavioral therapy, and "Seven features reliably distinguished psychodynamic therapy from other therapies" (Shedler, 2010, reporting their findings). The review notes that its features "concern process and technique only, not underlying principles".
+Shedler's review grounds the technique list in an empirical study: Blagys and Hilsenroth (2000) compared the process and technique of manualized psychodynamic therapy with manualized cognitive-behavioral therapy, and "Seven features reliably distinguished psychodynamic therapy from other therapies" (Shedler, 2010, reporting their findings). The review notes that its features "concern process and technique only, not underlying principles". The same review also flags the evidence's limits: "the number of randomized controlled trials for other forms of psychotherapy, notably CBT, is considerably larger than that for psychodynamic therapy, perhaps by an order of magnitude" (Shedler, 2010, limitations discussion).
 
 ### Core claims
 
@@ -40,7 +40,7 @@ Shedler's own illustration of feature 3: "a man who repeatedly finds himself dra
 
 ### In the compendium
 
-- [[Y022 — Work with samskaras as the deep layer]] — the Buddhist doctrine of samskaras treats experience as leaving deep structure that shapes the present; the comparison with psychodynamic recurring patterns is the compendium's, offered as a resemblance rather than a claimed identity
+- [[Y022 — Work with samskaras as the deep layer]] — the principle treats samskaras as subliminal impressions shaping the mind's flow; the resemblance to psychodynamic recurring patterns is the compendium's comparison, not a claimed identity
 - [[K008 — Expect the collapse of meaning; do not waste it]] — listed as a citing principle
 - [[B039 — Practice the four foundations of mindfulness (satipatthana)]] — listed as a citing principle
 - [[V1K Reference — Sources for Book IV]] — the reference page carrying the compendium's psychodynamic lineage sources
@@ -48,10 +48,10 @@ Shedler's own illustration of feature 3: "a man who repeatedly finds himself dra
 ## Related concepts
 
 - [[Psychoanalysis]] — the parent theory
-- [[Attachment theory]] — the developmental research base
-- [[Mentalization theory]] — the contemporary strand studying thinking about minds
-- [[Mentalization-Based Treatment Model]] — the therapy built from it
-- [[Experiential avoidance theory]] — the ACT cousin of the psychodynamic focus on avoidance
+- [[Attachment theory]] — a navigation link to the neighbouring developmental framework
+- [[Mentalization theory]] — a navigation link to the neighbouring framework on thinking about minds
+- [[Mentalization-Based Treatment Model]] — a navigation link to the therapy built from it
+- [[Experiential avoidance theory]] — a navigation link to the ACT concept nearest the psychodynamic focus on avoidance
 
 ## Field
 
