@@ -27,7 +27,7 @@ Hypothetical illustration: the parent who apologises for the unfair snap dischar
 ## Psychology parallels
 
 - **[[Guilt motivates reparative behaviour|Guilt motivates reparative behaviour]]**, guilt is associated with apology, confession, and reparation (Tangney et al., 2007)
-- **Chronic or disproportionate guilt is maladaptive**, guilt that persists despite repair, or that attaches to uncontrollable events, is associated with depression and OCD (Blatt et al., 1996)
+- **Chronic or disproportionate guilt is maladaptive**, guilt that persists despite repair, or that attaches to uncontrollable events, is associated with depression and OCD (Tangney et al., 2007; Shafran et al., 1996)
 
 ## Philosophy parallels
 
