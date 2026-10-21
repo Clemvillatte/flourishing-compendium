@@ -83,3 +83,7 @@
 ## MO041 — Disrupt bad habits
 - Opened: Quinn et al. 2010 (USC PDF, abstract + text); Neal et al. 2011 abstract (PubMed); Wood, Tam & Witt 2005 abstract; Marteau/Hollands/Fletcher 2012 abstract (PubMed). Gardner 2015 unopened.
 - CONTRADICTION flagged: seed "Removing the trigger is more effective than resisting the urge" is NOT supported; Quinn 2010 diary studies found vigilant monitoring worked for strong habits and stimulus control only for temptations. Page rewritten to say so; Practice line edited ("Do not rely on willpower; remove the trigger" -> keep watching for slips). Caveat: spontaneous strategy reports, not tests of designed environments.
+
+## MO050 — Self-compassion when procrastinating
+- Opened: Sirois & Pychyl 2013 abstract (White Rose PDF, fetched); Wohl et al. 2010 abstract (ISI Articles PDF via search excerpt) + a Washington.edu study summary (search excerpt, moderation by high procrastination); Sirois 2014 abstract (White Rose). Pychyl 2013 unopened.
+- Seed "guilt backfires; self-compassion gets you back faster" -> only correlational / mediation evidence; causal wording removed. Practice line softened.
