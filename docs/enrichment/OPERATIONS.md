@@ -33,25 +33,25 @@ Read `OWNER-UPDATE-2026-10-19.md` for the current correction requests and mainte
 - Check this directive after every pull and before choosing the next item. Short progress
   messages are checkpoints, not requests for permission to keep working.
 
-## Timing methodology (owner directive, 2026-10-21 — binding for all agents)
+## Timing and reporting (owner directive, 2026-10-21 — binding for all agents)
 
-A session was mis-timed on 2026-10-21 by trusting the sandbox clock; a band was
-also lost to a takeover during a message-queue gap. Rules for every session:
+Added after a mis-timed session on 2026-10-21 (a report was issued early because
+elapsed time was inferred from work completed rather than measured). Rules:
 
-1. NEVER anchor T (the T+60 reporting clock) to the sandbox's local clock alone.
-   VM clocks can lag real time by up to an hour at startup and can jump mid-
-   session when they sync. Verify real time against an external authority at
-   turn start, after each pass, and immediately before reporting:
-   `curl -sI https://github.com | grep -i '^date:'` (GitHub server clock),
-   cross-checked against the newest clock-in timestamps in `docs/enrichment/batons/`.
-2. T is the externally verified time at the moment the turn actually begins
-   executing. Owner messages can queue for an hour or more before execution; if
-   the verified time shows the intended T+60 has already passed, treat the
-   turn's actual start as a fresh T and say so in the report.
-3. CLOCK IN THE BATON IMMEDIATELY AT TURN START, before the setup reading. The
-   20-minute staleness threshold runs on real time, and a queued or slow start
-   can make a live agent's baton look abandoned to others (this caused the
-   p1zzg takeover on 2026-10-21). Re-clock-in after any long research stretch.
+1. At first execution, record the actual UTC start time and a monotonic
+   elapsed-time reading. Set the report deadline once, 60 minutes later; an
+   explicit owner deadline takes precedence.
+2. Check measured elapsed time after each pass and immediately before
+   reporting. Never estimate elapsed time from the amount of work completed.
+3. If clock readings disagree, cross-check UTC against a fresh external time
+   response (e.g. `curl -sI https://github.com | grep -i '^date:'`) without
+   assuming a cause for the discrepancy.
+4. Follow-up messages do not restart the timer. If a deadline has already
+   passed when you notice, acknowledge that fact rather than silently
+   scheduling another hour.
+5. On every resume, refresh remote baton status before editing and renew only
+   a baton you are authorised to hold. Save and heartbeat cadence remain
+   independent of the reporting deadline.
 
 ## Token efficiency (owner directive, 2026-10-19)
 

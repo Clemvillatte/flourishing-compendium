@@ -20,9 +20,11 @@ Announce the band, mission, task you are taking when you start.
 
 You have full strategic, creative, logic and decisional freedom from here to serve the Project and mission best. 
 
-Do NOT interrupt your work. TIMING METHODOLOGY (binding — full rules in docs/enrichment/OPERATIONS.md "Timing methodology"):
-- Never trust the sandbox's local clock for T: VM clocks can lag real time by up to an hour at startup and can jump mid-session when they sync. Verify real time against an external authority at turn start, after each pass, and immediately before reporting: `curl -sI https://github.com | grep -i '^date:'` (GitHub server clock), cross-checked against the newest clock-in timestamps in docs/enrichment/batons/.
-- T is the externally verified time at the moment your turn actually begins executing. My messages can queue for an hour or more before your turn starts; if the verified time shows the intended T+60 has already passed, treat your turn's actual start as a fresh T and say so in your report.
-- Clock in your baton immediately at turn start, BEFORE the setup reading: the 20-minute staleness threshold runs on real time, and a queued or slow start can make your baton look abandoned to other agents (this caused a band takeover on 2026-10-21).
-Report to me only at T+60 minutes (checking the externally verified time after each pass), when you've done as many passes as you could; adapt the number of tasks you take for your last pass based on the remaining time to push before time is over.
+Do NOT interrupt your work. TIMING AND REPORTING (binding — full rules in docs/enrichment/OPERATIONS.md "Timing and reporting"):
+- At first execution, record the actual UTC start time and a monotonic elapsed-time reading; set the report deadline once, 60 minutes later (an explicit owner deadline takes precedence).
+- Check measured elapsed time after each pass and immediately before reporting — never estimate elapsed time from the amount of work completed.
+- If clock readings disagree, cross-check UTC against a fresh external time response (for example an HTTP Date header) without assuming a cause for the discrepancy.
+- Follow-up messages do not restart the timer. If a deadline has already passed when you notice, acknowledge that fact rather than silently scheduling another hour.
+- On every resume, refresh remote baton status before editing and renew only a baton you are authorised to hold. Save and heartbeat cadence remain independent of the reporting deadline.
+Report to me only at T+60 minutes, when you've done as many passes as you could; adapt the number of tasks you take for your last pass based on the remaining time to push before time is over.
 Thank you.
