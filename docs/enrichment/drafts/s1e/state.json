@@ -150,7 +150,27 @@
      "note": "quotes verified from opened Herrigel text and Yamada critique"
     }
    ]
+  },
+  "s1e-008": {
+   "status": "qc_pending",
+   "angle": "P191 joy as creation's signature: Wiles on September 19, 1994 - the joy arrived with the thing created, before any recognition, while the world still believed the proof broken",
+   "history": [
+    {
+     "t": "2026-10-21T12:51:54+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:51:54+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:52:45+00:00",
+     "to": "qc_pending",
+     "note": "quotes verified from opened NOVA transcript"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:50:48+00:00"
+ "updated": "2026-10-21T12:52:45+00:00"
 }
