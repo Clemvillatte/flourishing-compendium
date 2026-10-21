@@ -70,3 +70,16 @@ damage, w1ab left to its live holder.
   the 'hospitals and manufacturing firms' gloss from an earlier draft was cut as
   unverified. Front-matter duplication slip caught and fixed before validation.
 - Validation --fast-track: ok. Advisor QC: due at the items-4-5 milestone round.
+
+## ITEM: Structural injustice (concept, Young 2011; degree 3) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Carrier: Virginia Mantouvalou, "Structures of Injustice, the Law, and Exploitative Work",
+  OUP 2024 chapter (academic.oup.com/book/58181/chapter/480373130) — reproduces Young's
+  canonical definition (Responsibility for Justice, 2011, p. 52) and summarizes her
+  forward-looking political responsibility. Both blockquotes verified verbatim against the
+  opened chapter. Rejected carriers (crawler/PDF parse failures): openedition PDF,
+  philarchive PDF; the OUP book page for Responsibility for Justice carries the book
+  abstract (linked in Sources).
+- Young's definition is quoted via the later carrier with its own credit line (house
+  rule for reprinted quotes); the definition fragment is quoted with a leading ellipsis
+  because the carrier's sentence starts mid-clause.
+- Validation --fast-track: ok. Advisor QC: items-4-5 milestone round due.
