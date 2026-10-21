@@ -1,57 +1,57 @@
 {
-  "batch": "w1w",
-  "done": [
-    "Samadhi",
-    "Shamatha (calm abiding)",
-    "Tathata, suchness",
-    "Rectification of the mind",
-    "Relationship categorisation",
-    "Repetition",
-    "Representativeness heuristic",
-    "Responsibility",
-    "Restorative environments",
-    "Restorative rather than retributive",
-    "Righteousness",
-    "Reverence"
-  ],
-  "in_progress": null,
-  "flagged": {
-    "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
-    "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
-    "Tathata, suchness": "RESOLVED (advisor round 1 repairs applied): scoped to treatise + verified SEP Zen passages; twofold negation/affirmation added; unsupported bridges removed; validated clean",
-    "Representativeness heuristic": "SUPERVISOR QUESTION (2026-10-21, worker-w1m-7c9e2a54): this manifest item overlaps the existing concept page 'Base rate neglect representativeness heuristic' (the graph shows both); the two pages now cross-reference; merge/rename is an owner decision per the namespace rule",
-    "Restorative environments": "QC 2026-10-21 (worker-sup-5e8a3c7f): prose below the binding 150-word minimum — needs verified top-up (same floor issue as w1q; see w1q ledger note)",
-    "Restorative rather than retributive": "QC 2026-10-21 (worker-sup-5e8a3c7f): prose below the binding 150-word minimum — needs verified top-up (same floor issue as w1q; see w1q ledger note)",
-    "Righteousness": "QC 2026-10-21 (worker-sup-5e8a3c7f): prose below the binding 150-word minimum — needs verified top-up (same floor issue as w1q; see w1q ledger note)",
-    "The insatiability of craving": "SUPERVISOR FLAG (2026-10-21, worker-w1m-7c9e2a54): this concept belongs to the w1x manifest, not w1w. I enriched its page and marked it done in w1w by mistake (my manifest scan listed it under w1w). Page edit is pushed, quote-verified and validator-clean; w1x has no batch file so no other worker state was touched. Disposition requested: keep the enrichment for w1x, or revert — owner/supervisor call. Removed from w1w done list to correct my records."
+ "batch": "w1w",
+ "done": [
+  "Samadhi",
+  "Shamatha (calm abiding)",
+  "Tathata, suchness",
+  "Rectification of the mind",
+  "Relationship categorisation",
+  "Repetition",
+  "Representativeness heuristic",
+  "Responsibility",
+  "Restorative environments",
+  "Restorative rather than retributive",
+  "Righteousness",
+  "Reverence"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
+  "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
+  "Tathata, suchness": "RESOLVED (advisor round 1 repairs applied): scoped to treatise + verified SEP Zen passages; twofold negation/affirmation added; unsupported bridges removed; validated clean",
+  "Representativeness heuristic": "SUPERVISOR QUESTION (2026-10-21, worker-w1m-7c9e2a54): this manifest item overlaps the existing concept page 'Base rate neglect representativeness heuristic' (the graph shows both); the two pages now cross-reference; merge/rename is an owner decision per the namespace rule",
+  "Restorative environments": "RESOLVED: topped up past the 150-word floor with verified material from the opened Visions review (four ART characteristics + core prediction); normal validator now ok",
+  "Restorative rather than retributive": "RESOLVED: topped up past the 150-word floor with verified quotes from the opened Justice Canada meta-analysis; normal validator now ok",
+  "Righteousness": "RESOLVED: topped up past the 150-word floor with a scale-of-goods reading of the opened Gaozi I passage, marked as interpretation; normal validator now ok",
+  "The insatiability of craving": "SUPERVISOR FLAG (2026-10-21, worker-w1m-7c9e2a54): this concept belongs to the w1x manifest, not w1w. I enriched its page and marked it done in w1w by mistake (my manifest scan listed it under w1w). Page edit is pushed, quote-verified and validator-clean; w1x has no batch file so no other worker state was touched. Disposition requested: keep the enrichment for w1x, or revert — owner/supervisor call. Removed from w1w done list to correct my records."
+ },
+ "missing_concepts": [
+  {
+   "title": "Sati (mindfulness)",
+   "seed": "Access to Insight satipatthana materials; Thanissaro",
+   "why": "no page exists; concept already represented by existing Mindfulness (deg 42) and Anapanasati pages — supervisor/owner decision needed: create a distinct sati page or mark covered; worker did not duplicate"
   },
-  "missing_concepts": [
-    {
-      "title": "Sati (mindfulness)",
-      "seed": "Access to Insight satipatthana materials; Thanissaro",
-      "why": "no page exists; concept already represented by existing Mindfulness (deg 42) and Anapanasati pages — supervisor/owner decision needed: create a distinct sati page or mark covered; worker did not duplicate"
-    },
-    {
-      "title": "Turning the mind",
-      "seed": "Linehan DBT distress-tolerance skill",
-      "why": "no page exists; DBT skill relevant to suffering alleviation; candidate for creation after checking existing acceptance/willingness pages"
-    },
-    {
-      "title": "Ten modes of Pyrrhonian suspension of judgement",
-      "seed": "SEP Pyrrhonism; Diogenes Laertius IX",
-      "why": "no page exists; candidate for creation from an open SEP carrier"
-    },
-    {
-      "title": "The plain human being",
-      "seed": "unknown",
-      "why": "no page exists; heading provenance unclear from owner queue — supervisor question on intended referent"
-    },
-    {
-      "title": "The untroubled mind",
-      "seed": "unknown",
-      "why": "no page exists; possible Stoic coinage — supervisor question on intended referent"
-    }
-  ],
-  "sources_checked": 0,
-  "updated": "2026-10-21T16:15:46+00:00"
+  {
+   "title": "Turning the mind",
+   "seed": "Linehan DBT distress-tolerance skill",
+   "why": "no page exists; DBT skill relevant to suffering alleviation; candidate for creation after checking existing acceptance/willingness pages"
+  },
+  {
+   "title": "Ten modes of Pyrrhonian suspension of judgement",
+   "seed": "SEP Pyrrhonism; Diogenes Laertius IX",
+   "why": "no page exists; candidate for creation from an open SEP carrier"
+  },
+  {
+   "title": "The plain human being",
+   "seed": "unknown",
+   "why": "no page exists; heading provenance unclear from owner queue — supervisor question on intended referent"
+  },
+  {
+   "title": "The untroubled mind",
+   "seed": "unknown",
+   "why": "no page exists; possible Stoic coinage — supervisor question on intended referent"
+  }
+ ],
+ "sources_checked": 0,
+ "updated": "2026-10-21T16:18:02+00:00"
 }

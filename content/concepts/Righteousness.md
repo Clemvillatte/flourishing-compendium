@@ -11,6 +11,10 @@ In Gaozi I, Mencius presents righteousness (yì, 义) as something a person can 
 
 > "So, I like life, and I also like righteousness. If I cannot keep the two together, I will let life go, and choose righteousness. I like life indeed, but there is that which I like more than life, and therefore, I will not seek to possess it by any improper ways. I dislike death indeed, but there is that which I dislike more than death, and therefore there are occasions when I will not avoid danger." (Mencius, Gaozi I, trans. James Legge, [Chinese Text Project](https://ctext.org/mengzi/gaozi-i/ens))
 
+### The scale of goods
+
+The passage is built like a set of scales. Fish and bear's paws are the homely version of a harder choice: life is liked, and righteousness is liked, and the case that matters is the one where both cannot be kept. What makes the choice intelligible is the comparative structure Mencius insists on — there is that which one likes more than life, and that which one dislikes more than death. A person who has nothing ranked above survival will, he argues, use any means to preserve it and avoid any danger by any means; the refusal to do so is evidence of the ranking. The reading is an interpretation of the passage's structure, offered as such: Mencius states the ranking and its effects, and leaves the rest to the reader's own case.
+
 ### Not saints only
 
 Mencius is explicit that the capacity is not the sages' private property. Of the heart that will not take life by improper means or avoid danger at the price of righteousness, he says: "All men have it; what belongs to such men is simply that they do not lose it."
