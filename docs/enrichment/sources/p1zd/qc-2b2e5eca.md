@@ -74,3 +74,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked all quoted fragments. Distinguished the randomised stranger experiments from the couples laboratory/diary/follow-up associations.
 - Removed the unsupported general claim that calmly sharing a feeling costs less than withholding it. Plain words preserves the cultural and design qualifications rather than transferring a stranger blood-pressure result directly to intimacy.
 - The imagined conversation is illustration, not a disclosure intervention tested in those studies. Protected sections and inherited parallels preserved.
+
+## AF079
+
+- Searched APA PTSD; opened the [American Psychiatric Association explanation](https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd), including symptom clusters, duration/impairment, acute stress and treatment.
+- Checked all quotations. Added an explicit distinction between diagnostic duration and when someone may seek support.
+- The prior imagined crash example claimed an intrusion/avoidance pattern its few details did not establish. The revised example makes that limit explicit and invites assessment without diagnosing.
+- No new treatment instructions or crisis-contact details introduced. Protected metadata and inherited parallels unchanged.

@@ -22,9 +22,9 @@ Diagnosis needs symptoms lasting more than a month that cause "significant distr
 
 (APA, 2025.)
 
-**Plain words** Some strong reactions after a frightening event follow a recognisable pattern: unwanted memories, avoiding reminders, a changed mood and sense of the world, and being constantly on edge. Taking this for plain bad temper or poor coping misses what is going on. That is the reason to ask a clinician, since PTSD has treatments built for it.
+**Plain words** Intrusive memories, avoidance and persistent changes in mood or alertness after trauma can be reasons to seek help. A clinician considers the full pattern, its duration and its effect on daily life. The one-month diagnostic threshold is not an instruction to endure distress before asking for support; the APA also describes treatment for earlier acute stress.
 
-For example (imagined): a person who was in a car crash snaps at family and grips the wheel at junctions. The pattern of intrusion, avoidance and being on edge points to asking a trauma-informed doctor or psychologist, and anger management alone would address only one visible part of it.
+For example (imagined): after a car crash, someone snaps at family and grips the wheel at junctions. Those reactions alone do not establish intrusion, avoidance or PTSD. An assessment can explore what is happening and what support would fit.
 
 ## Sources
 
