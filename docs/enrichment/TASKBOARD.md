@@ -1751,3 +1751,10 @@ Verification pass 25 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D094: the Zhuangzi ch. 20 mantis-and-cicada passage matches the opened METIS PDF verbatim.
 - D096: both Daodejing 12 quotes (the rhymed verse and the sage's-preference sentence) match the opened Gutenberg #216 text verbatim.
 Session total: 127 distinct pages verified (124 fully PASS; 3 minor defects routed).
+
+Verification pass 26 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS.
+- D103: the Daodejing 24 quote matches the opened Gutenberg #216 text verbatim.
+- D106: the Zhuangzi ch. 1 quail passage matches the opened METIS Legge PDF verbatim.
+- D109: the Daodejing 20 quote matches the opened Gutenberg #216 text verbatim.
+- D111: the Liezi ch. 2 sea-gulls sentence matches the freshly opened sacred-texts page verbatim (curl was Cloudflare-blocked; the fetch tool opened the page).
+FINAL SESSION TOTAL: 131 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 128 with all displayed quotations matching freshly opened sources verbatim, 3 minor editorial observations routed for repair (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch; D053 Golden Flower Section 5 initial-capital normalization). Four open routed findings reviewed and dispositioned (one stays excluded — Calling; one requires an owner decision — Anxiety title-scope; Addams/Dewey and Burns-1980 carriers verified). Scope: quotation audits, not full-page QC. All work pushed; no band files or queues touched; no baton held.
