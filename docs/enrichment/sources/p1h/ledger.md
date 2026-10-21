@@ -1105,3 +1105,13 @@ open).
   protocol, not the attention-fatigue mechanism). Round-2/3 repairs confirmed
   on the current page (replication figures in the authors' own terms;
   unsupported claims absent). All components close.
+- **AT013 — Learn to set attentional intentions**: RESOLVED. The
+  Gollwitzer & Sheeran 2006 blockquote ("Findings from 94 independent tests...
+  (d= .65) on goal attainment.") verified VERBATIM against a fresh fetch of the
+  cited Konstanz repository abstract. The process-findings gloss (accessibility
+  of specified opportunities; automation of goal-directed responses) is the
+  abstract's own claim ("both enhanced the accessibility of specified
+  opportunities and automated respective goal-directed responses"). The
+  application-to-attention bridge is labelled the compendium's. Round-1/2
+  repairs confirmed on the current page (comparison claims absent; scope
+  narrowed to the review's actual claims). All components close.

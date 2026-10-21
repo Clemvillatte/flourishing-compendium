@@ -91,7 +91,7 @@
     "BE052": "Reopened for QC: apply routed QC correction (worker-p1p note): 1970s heyday claim not in opened abstract — verify vs full text or drop",
     "BI045": "Reopened for QC: apply routed QC correction (worker-p1p note): 'pooled result' wording + pitch outcome suggestion not in source",
     "AT003": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Kaplan-Berman blockquote verbatim vs fresh PubMed 26162062 fetch; improvement gloss is the abstract's own claim; Hagger 23-lab small-effect-CI-includes-zero verified vs fresh PubMed 27474142 fetch; replication scoping labelled the compendium's own. Round-2/3 repairs confirmed on page. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
-    "AT013": "Reopened for QC: advisor milestone QC FAIL: unsupported ranking, effect promises beyond meta-analysis scope",
+    "AT013": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Gollwitzer-Sheeran 2006 blockquote verbatim vs fresh Konstanz repository fetch; process-findings gloss grounded in the abstract's own claims; application bridge labelled the compendium's. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
     "AT016": "Reopened for QC: advisor milestone QC FAIL: everyday-multitasking generalization, universal 200ms price, kitchen-pause mislabel",
     "AT035": "Reopened for QC: advisor milestone QC FAIL: frequency overstatement, causal-direction suppression, invented provenance, established-benefits framing",
     "AT039": "Reopened for QC: advisor milestone QC FAIL: byline wrong (no Fox), 414/conditions misdescribed, prevalence claim, mechanism overreach",
