@@ -41,14 +41,14 @@
   "Self-Categorization Theory",
   "Role Theory",
   "Self-as-doer theory",
-  "Self-determined personality growth",
-  "Self-doubt theory"
+  "Self-determined personality growth"
  ],
- "in_progress": null,
+ "in_progress": "Self-doubt theory",
  "flagged": {
-  "Self-doubt theory": "Category C-style garbled title: seed attribution Torti/Buelow not found in any opened source; construct is self-doubt (Arkin/Oleson program); rename to Self-doubt possible; audit entry filed"
+  "Self-doubt theory": "Reopened for QC: QC round 3: namespace hold — garbled title over the real self-doubt construct; rename candidate (Self-doubt); body repaired and quote-verified vs raw PDF; held out of done pending supervisor disposition"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:29:11+00:00"
+ "updated": "2026-10-21T13:31:33+00:00",
+ "band_done": false
 }
