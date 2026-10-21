@@ -18,6 +18,7 @@ The sentence does the Stoic work in one move: fame is derivative, a shadow cast 
 
 - [[Preferred indifferents]] — the Stoic class reputation belongs to
 - [[Acceptance alongside values-based action]] — the ACT cousin: act for values, let notice arrive or not
+- [[Memento mori]] — the sibling Stoic meditation on what outlasts a person
 
 ## Cited in philosophy parallels
 
