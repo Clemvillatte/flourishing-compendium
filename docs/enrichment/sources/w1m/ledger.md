@@ -494,3 +494,20 @@ done-mark reverted). PBT deliverable remains open per the advisor: the nine
 new pages need source-to-claim QC and the link proposals are pending
 integration (audit revised to separate present / content-reviewed / richness
 verified / connections integrated).
+
+## PBT/EEMM page QC round 1 (side quest) — repairs applied
+Both central pages repaired per advisor: openings narrowed (no "replace
+psychotherapy" framing), historical critique attributed as the book's
+argument, founding-paper references verified against the book's actual
+bibliography (Hayes & Hofmann 2018 Process-based CBT volume; Hofmann & Hayes
+2019 Clinical Psychological Science 7(1) 37-50), "smallest"/"master"/"most
+studied" rankings removed, everyday examples converted to hypothesis framing,
+compendium-scaffold claims scoped to new items and rewrites per OPERATIONS
+(the owner's workability directive), Tinbergen wording identified as the
+book's summary, EEMM origin attribution reduced to the book's own
+presentation. Exact-quote re-verification of every final blockquote against
+the extracted book text: ALL VERBATIM including curly punctuation (the
+Prologue "It's" apostrophe was corrected from straight to curly to match the
+source). Both pages validator-clean vs their seed baselines. The other seven
+PBT pages remain QC-pending (advisor noted; Midlevel terms carries the
+recorded fetch-extraction risk).

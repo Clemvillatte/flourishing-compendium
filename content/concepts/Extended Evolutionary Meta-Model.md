@@ -14,7 +14,7 @@ The Extended Evolutionary Meta-Model (EEMM) is the classification system at the 
 
 ### Origin
 
-The EEMM was developed by Steven C. Hayes and Stefan G. Hofmann as the organising backbone of process-based therapy. It answers a problem the book states plainly: psychotherapy's many schools talk about change in incommensurable vocabularies, so a common language for change processes was needed. Evolutionary theory supplies that language because it can describe any living system's behaviour without privileging one level of analysis.
+The book presents the EEMM as the organising backbone of process-based therapy. It answers a problem the book states plainly: psychotherapy's many schools talk about change in incommensurable vocabularies, so a common language for change processes was needed. The book's case is that evolutionary theory supplies that language, on the argument that any function of any life form has an evolutionary explanation.
 
 ### Core claims
 
@@ -28,22 +28,22 @@ The underlying evolutionary scheme compresses into an acronym the book is fond o
 
 ### How the model explains
 
-The EEMM explains by organising. Its grid has six psychological dimensions (affect, cognition, attention, self, motivation, overt behavior) and two further levels (biophysiological, sociocultural); within every cell, four evolutionary questions apply: what varies, what is selected, what is retained, and how context shapes all three. A clinician reading a client's problem through the grid asks not "which disorder is this?" but "which processes, at which levels, are stuck?" The book adds a fourth lens from Niko Tinbergen's ethology: a well-rounded evolutionary account of any phenomenon applies "four central questions of function, history, development, and mechanism" (Chapter 3). Change, on this model, means helping variation, selection, retention and context work adaptively in the client's network rather than maladaptively.
+The EEMM explains by organising. Its grid has six psychological dimensions (affect, cognition, attention, self, motivation, overt behavior) and two further levels (biophysiological, sociocultural); within every cell, four evolutionary questions apply: what varies, what is selected, what is retained, and how context shapes all three. A clinician reading a client's problem through the grid asks not "which disorder is this?" but "which processes, at which levels, are stuck?" The book also invokes Niko Tinbergen's ethology: "In a well-rounded evolutionary account, these concepts are applied to any phenomenon using Niko Tinbergen's (1963) four central questions of function, history, development, and mechanism" (Chapter 3; the wording is the book's summary, not a quotation from Tinbergen). Change, on this model, means helping variation, selection, retention and context work adaptively in the client's network rather than maladaptively.
 
 ### In everyday life
 
-The same grid reads a personal stuck pattern. Procrastination might be a motivation-dimension problem (avoidance selected by short-term relief), an attention-dimension problem (threatening tasks capture attention), or a sociocultural-level problem (a workplace that punishes mistakes). The EEMM's value is that it keeps these hypotheses distinct instead of collapsing them into one label. (Illustrative scenario, not a reported client or study result.)
+The same grid reads a personal stuck pattern, hypothetically and possibly in interaction: procrastination might involve a motivation-dimension process (avoidance selected by short-term relief), an attention-dimension process (threatening tasks capture attention), or a sociocultural-level process (a workplace that punishes mistakes). The EEMM's value is that it keeps these hypotheses distinct instead of collapsing them into one label. (Illustrative scenario, not a reported client or study result.)
 
 ### In the compendium
 
-The compendium's practice kernels are written to this scaffold: the six dimensions (affect, cognition, attention, self, motivation, overt behavior) and the variation-selection-retention logic are the standing method for describing what a practice does.
+The compendium's operations apply this scaffold to the writing of new practice kernels and to rewrites (not as a blanket retrofit of the existing corpus): the six dimensions and the variation-selection-retention logic are the standing method for describing what a practice does.
 
 ## Related concepts
 
 - [[Process-based therapy]] — the therapy framework the EEMM organises
 - [[Functional contextualism]] — the philosophical position underlying the evolutionary approach
 - [[Network theory of psychopathology]] — the companion approach for mapping where processes act
-- [[Psychological flexibility]] — the best-known process the grid accommodates
+- [[Psychological flexibility]] — a process from the ACT lineage the grid accommodates
 - [[Dynamic systems theory]] — the systems vocabulary the grid draws on
 
 ## Sources
