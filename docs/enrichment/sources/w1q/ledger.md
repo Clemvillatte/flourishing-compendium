@@ -162,3 +162,8 @@ damage, w1ab left to its live holder.
 - Carrier opened: Michel Mohr, chapter on Hakuin's curriculum (terebess.hu/zen/Hakuin.pdf) — two verbatim passages confirmed in fetched text (daishi 大死 definition; return-to-life requirement). Concept-existence check passed: "great death" (J. daishi) is a documented Hakuin curriculum term.
 - Quotes verbatim from fetched text. Not a named theory in the Western sense — treated as a concept with origin (Hakuin Ekaku 1686-1769), core claims, how-it-explains and everyday-life sections.
 - Related-concept targets: original picks (Satori kenshō, Memento mori — philosophic death awareness) missing → resolved to The commitment of the knight of faith, Memento mori, Resilience.
+
+## The body-mind unity in pain
+- Carrier opened: Montaigne, Essays (Gutenberg vol. 18, pg3598) — two verbatim passages confirmed in fetched text ("A man ought to moderate himself betwixt the hatred of pain and the love of pleasure"; "Suffering itself less afflicts the senses than the apprehension of suffering", Montaigne quoting Quintilian).
+- Process note: initial validation failed (Sources URL missing); the && chain skipped state transitions and ledger append on the first push — repaired in this entry; URL fix pushed as 48bf67e1.
+- Related targets: BI068 bare link preserved from stub; added [[Resilience]] (verified existing).
