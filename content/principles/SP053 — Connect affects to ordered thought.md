@@ -19,7 +19,7 @@ The two-way principle comes first (V, P1): the order and connection of ideas in 
 Its note adds: "By this power of rightly arranging and associating the bodily modifications we can guard ourselves from being easily affected by evil emotions", and gives a worked method: frame fixed practical precepts, commit them to memory, and rehearse them against the wrongs people actually commit, "so that our imagination may become fully imbued therewith, and that it may be always ready to our hand". The page's comparison, authored and not Spinoza's: the method resembles narrative work, in which events are written into a longer account. The page's exercise drawn from the propositions: write the affective event into that longer account, what preceded it, what it meant at the time, what it means now.
 
 **Plain words**
-Thought and body run together: the order of thoughts in the mind follows the order of the body's states, and the reverse also holds. So while you are calm, you can arrange your thinking about a charged event, and the body follows the arrangement. Spinoza's own worked example is unglamorous: prepare a fixed rule while you are not overwhelmed, and rehearse it against the wrongs people commit until the rule is the first thing that comes to hand.
+Use a calm period to choose a practical rule and rehearse how you will use it when someone wrongs you. Spinoza recommends preparing before contrary emotions overwhelm you. This page's written review is an authored exercise for practising that preparation.
 
 *For example:* Imagined: after an argument, someone writes down what was actually said, separates those observations from what each side assumed, and drafts the rule they want ready the next time the subject comes up.
 

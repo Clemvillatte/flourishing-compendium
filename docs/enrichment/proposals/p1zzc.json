@@ -1,6 +1,6 @@
 {
   "batch": "p1zzc",
-  "revision": 25,
+  "revision": 26,
   "reciprocal": [
     {
       "into": "Benign versus malicious envy",
@@ -143,8 +143,8 @@
     {
       "into": "A013 — Practice generosity (eleutheriotes)",
       "link": "SP059",
-      "why": "Aristotle's liberality is a mean concerning wealth; Spinoza's generositas is a desire to aid and befriend under reason's dictate. Same word, different accounts; the pages correct each other.",
-      "notes": "into=A013 principle; grep SP059: 0; Aristotle page already in the compendium's A-block"
+      "why": "Aristotle specifies right giving by recipient, amount, and time, given for the nobility of giving; Spinoza's generositas specifies the giver as one acting by reason's dictate to aid and befriend. Readers can compare the two specifications of a good giver.",
+      "notes": "into=A013 principle; opening read this pass (NE IV.1 Rackham, liberality as mean concerning wealth, right-giving conditions); grep SP059: 0"
     }
   ]
 }
