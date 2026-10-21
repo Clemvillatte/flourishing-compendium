@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 Sit with dignity and wakefulness. Settle on the breath. Then, in stages, offer these phrases: *May I be free from suffering. May I be as happy and healthy as it is possible for me to be. May I have ease of being.* Drop each phrase like a pebble into a deep well — then listen for any reaction in thoughts, feelings, or body. If self-kindness is hard, bring to mind a person (or pet) who loved you unconditionally; once you feel their love, return to offering it to yourself. Then move to a loved one, then a neutral stranger, then — optionally — a difficult person. Each stage: repeat the phrases, pause, listen.
 
-Adapted from Williams and Penman, *Mindfulness*, 2011, ch. 11 (attribution inherited from the seed; the book was not opened this session).
+Adapted from Williams and Penman, *Mindfulness*, 2011 (attribution inherited from the seed; the book was not opened this session; verification of the retained instructions against the book is pending).
 
 ### Protocol
 
@@ -34,13 +34,15 @@ A meta-analysis of 23 kindness-based meditation studies found life satisfaction 
 
 > "LKCM significantly enhanced life satisfaction in pre-post design (g = 0.312, k = 15, n = 451), but the significance disappeared in the additional meta-analysis based on randomized controlled trials (g = 0.106, k = 6, n = 404)" — [Gu et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/35532366/)
 
-The strongest evidence cited here concerns manualized clinical MBCT for people with recurrent depression in full or partial remission, which is not the same intervention as this book's self-help course: across 9 randomized trials (1,258 patients), relapse risk within 60 weeks was lower with MBCT than without it ([Kuyken et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27119968/)).
+Separately, a meta-analysis examined manualized clinical MBCT for people with recurrent depression in full or partial remission: across 9 randomized trials (1,258 patients), relapse risk within 60 weeks was lower with MBCT than without it ([Kuyken et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27119968/)). That analysis does not evaluate this individual practice.
 
 > "patients receiving MBCT had a reduced risk of depressive relapse within a 60-week follow-up period compared with those who did not receive MBCT (hazard ratio, 0.69; 95% CI, 0.58-0.82)" — [Kuyken et al. (2016)](https://pubmed.ncbi.nlm.nih.gov/27119968/)
 
 ### A guided version
 
-The authors host a free recording on the book's own site: [The Befriending Meditation, franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/). Their description of when to reach for it: "When life really begins to get you down…. When you feel angry, lost or alone… When you feel that you are your own worst enemy…"
+The authors host a free recording on the book's own site: [The Befriending Meditation, franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/). Their description of when to reach for it:
+
+> "When life really begins to get you down…. When you feel angry, lost or alone… When you feel that you are your own worst enemy…" — [franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/)
 
 ## Operationalises
 

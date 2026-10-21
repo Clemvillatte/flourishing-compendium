@@ -20,7 +20,7 @@ Now imagine being *there with them*. Imagine only they can see or hear you. Cons
 
 This is not a mood change; it's a perspective shift. You're practising the move from being *captured by* a threat to *being with* the part of you that's threatened.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9 (attribution inherited from the seed; the book was not opened this session).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016 (attribution inherited from the seed; the book was not opened this session; verification of the retained instructions against the book is pending).
 
 ### Protocol
 
@@ -42,7 +42,9 @@ The therapy family this exercise comes from targets high shame and self-criticis
 
 ### A guided version
 
-A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description: "In this exercise, you'll be guided on practicing self-compassion, through a time you were struggling."
+A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description:
+
+> "In this exercise, you'll be guided on practicing self-compassion, through a time you were struggling." — [Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/)
 
 ## Operationalises
 
@@ -66,6 +68,6 @@ A related guided practice: [Directing the Compassionate Self to ourselves, Balan
 
 ## Sources
 
-- [Kolts (2016), *CFT Made Simple*, New Harbinger, ch. 9](https://balancedminds.com/compassion-focused-therapy-audio/) — attribution inherited from the seed; the book was not opened this session; the linked recording is a related guided practice, not the book
+- Kolts (2016), *CFT Made Simple*, New Harbinger — attribution inherited from the seed; the book was not opened this session; the Balanced Minds link above is a related guided practice, not the book
 - [Longe et al. (2010), "Having a word with yourself: neural correlates of self-criticism and self-reassurance", NeuroImage, PubMed](https://pubmed.ncbi.nlm.nih.gov/19770047/)
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)

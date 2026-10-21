@@ -16,11 +16,11 @@ Now imagine, in a step-by-step way, that you *are* a person who has developed co
 
 From inside that persona, imagine bringing compassion to a specific situation in your life. Spend a few minutes practising responding to that situation from this Compassionate Self.
 
-Practice this daily (5-10 minutes). Over time you're building a muscle — the practiced shift into a compassionate perspective, not just when circumstances invite it.
+Practice this daily (5-10 minutes). The aim is to practise shifting into a compassionate perspective, not just when circumstances invite it.
 
 This is a method-acting move, not a mood change. You're not trying to feel kind; you're practising *being* the kind of person whose default response is kindness.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9 (attribution inherited from the seed; the book was not opened this session).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016 (attribution inherited from the seed; the book was not opened this session; verification of the retained instructions against the book is pending).
 
 ### Protocol
 
@@ -44,7 +44,9 @@ That is an association, not evidence that this exercise raises compassion.
 
 ### A guided version
 
-The book's own author recorded one: Russell Kolts's [Compassionate Self Meditation](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) (18:35, Insight Timer). His description: "This is an example of a Compassionate Self practice as used by Compassion-Focused Therapy (CFT) practitioners."
+The book's own author recorded one: Russell Kolts's [Compassionate Self Meditation](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) (18:35; a recording on Insight Timer, not the book). His description:
+
+> "This is an example of a Compassionate Self practice as used by Compassion-Focused Therapy (CFT) practitioners." — [Insight Timer listing](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation)
 
 ## Operationalises
 
@@ -69,6 +71,6 @@ The book's own author recorded one: Russell Kolts's [Compassionate Self Meditati
 
 ## Sources
 
-- [Kolts (2016), *CFT Made Simple*, New Harbinger, ch. 9](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) — attribution inherited from the seed; the book was not opened this session
+- Kolts (2016), *CFT Made Simple*, New Harbinger — attribution inherited from the seed; the book was not opened this session; the Insight Timer link above is a recording, not the book
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
 - [MacBeth & Gumley (2012), "Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology", Clinical Psychology Review, PubMed](https://pubmed.ncbi.nlm.nih.gov/22796446/)

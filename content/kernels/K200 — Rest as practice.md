@@ -23,11 +23,11 @@ Schedule one deliberate do-nothing period daily, 10 minutes, guilt-free. Rest is
 
 The cited studies examine micro-breaks and detachment from work, not a scheduled daily rest. A meta-analysis of experimental and quasi-experimental studies (22 independent samples, N = 2,335) found small effects of micro-breaks on vigor and fatigue; the pooled overall-performance effect was not statistically significant ([Albulescu et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36044424/)).
 
-> "statistically significant but small effects of micro-breaks in boosting vigor (d = .36, p < .001; k = 9, n = 913), reducing fatigue (d = .35, p < .001; k = 9, n = 803), and a non-significant effect on increasing overall performance (d = .16, p = .116)" — [Albulescu et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36044424/)
+> "statistically significant but small effects of micro-breaks in boosting vigor (d = .36, p < .001; k = 9, n = 913), reducing fatigue (d = .35, p < .001; k = 9, n = 803), and a non-significant effect on increasing overall performance (d = .16, p = .116; k = 15, n = 1132)." — [Albulescu et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36044424/)
 
 The psychological side of stepping away has its own meta-analysis: across 30 studies with 34 interventions (N = 3,725), interventions to improve detachment from work showed a small average effect (d = 0.36) ([Karabinski et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34096763/)). Detachment here means mentally stepping away from work during off-job time.
 
-> "interventions showed a significant positive effect on detachment from work (d = 0.36) on average" — [Karabinski et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34096763/)
+> "Interventions showed a significant positive effect on detachment from work (d = 0.36) on average" — [Karabinski et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/34096763/)
 
 The guilt this kernel names has a philosophical witness, in the essay that argued for shorter working hours ([Russell, 1932](https://harpers.org/archive/1932/10/in-praise-of-idleness/)).
 
