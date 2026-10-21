@@ -12,11 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 20** — Learn self-verification: seek feedback that confirms your self-view
 
-People are motivated not only to feel good about themselves (self-enhancement) but also to confirm their existing self-view (self-verification). This can maintain both accurate and inaccurate self-views. Knowing this helps you seek feedback that is both honest and useful.
+Swann and colleagues found that people with low self-esteem and high self-esteem both preferred feedback about their positive self-views, and both sought unfavourable feedback about their negative self-views. The authors conclude that all people are "simultaneously motivated to self-enhance and self-verify" ([Swann, Pelham and Krull 1989](https://labs.la.utexas.edu/swann/files/2016/03/sw_pel_krull.pdf)). In marriage, people with negative self-concepts were more committed to spouses who thought poorly of them than to spouses who thought well of them ([Swann, Hixon and De La Ronde 1992, abstract](https://scispace.com/journals/psychological-science-3stx2qo9/1992)).
 
-**Plain words** People are motivated not just to feel good about themselves but to confirm their existing self-view — self-verification. Which means we seek and prefer feedback that matches what we already believe, accurate or not. Check which of your self-beliefs you're just... maintaining.
+A meta-analysis of the critical tests found "ample evidence of self-enhancement strivings but little evidence of its prepotency", and that both motives matter but "control different response classes". When rejection risk is high, people appear to abandon self-verification, and when it is low, as in many secure marriages, they prefer self-verifying evaluations ([Kwang and Swann 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/20435799/)). Another paper reports that the verification effect was robust for cognitive responses (r = .30) but not significantly different from zero for affective responses ([Ayduk et al. manuscript](https://business.columbia.edu/sites/default/files-efs/pubfiles/6005/Ayduk_etal_SPPS_Rev3_SUBMITTED.pdf)). People tend to think a self-confirming evaluation is accurate, even when it feels worse.
 
-*For example:* The person who "knows" they're bad with money and unconsciously befriends the confirmation — every financial conversation reinforcing the identity, every budget abandoned on schedule. The self-view wasn't describing the behaviour; it was steering it.
+### Scope
+
+These are mostly laboratory and couple studies. I found no source saying that people can learn to seek better feedback, which is the practical step the principle suggests. I did not open Swann 1983 or Swann et al. 2002.
+
+**Plain words**
+We tend to trust feedback that matches what we already believe about ourselves, even when it is unflattering. Knowing this helps you ask who is giving you feedback and why you believe it.
+
+**For example**
+When feedback strikes you as obviously right, ask what evidence would change your mind, and ask someone who knows you differently.
+
+## Sources
+
+- [Swann, Pelham and Krull 1989, Agreeable fancy or disagreeable truth? (PDF)](https://labs.la.utexas.edu/swann/files/2016/03/sw_pel_krull.pdf)
+- [Swann, Hixon and De La Ronde 1992, Embracing the bitter truth (abstract listing)](https://scispace.com/journals/psychological-science-3stx2qo9/1992)
+- [Kwang and Swann 2010 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/20435799/)
+- [Ayduk et al., self-verification and affect (manuscript)](https://business.columbia.edu/sites/default/files-efs/pubfiles/6005/Ayduk_etal_SPPS_Rev3_SUBMITTED.pdf)
+
 ## Psychology parallels
 
 - **[[Self-verification theory (Swann)|Self-verification theory (Swann)]]**, people seek feedback that confirms their self-concept, even when negative (Swann, 1983; Swann et al., 2002)
