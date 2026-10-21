@@ -33,7 +33,7 @@ The same report defines the counterpart, verbatim: "While divergent production e
 
 ## Psychology parallels
 
-- **[[Divergent and convergent thinking|Divergent and convergent thinking]]**, creativity involves both generation and selection (Guilford, 1950; Runco, 2004)
+- **[[Divergent and convergent thinking|Divergent and convergent thinking]]** (Guilford, 1950; Runco, 2004)
 - **Creativity is associated with well-being**, creative activity predicts higher positive affect and life satisfaction (Conner et al., 2016; Silvia et al., 2014)
 - **Incubation and mind-wandering support creativity**, breaks and unfocused time enhance creative insight (Baird et al., 2012; Sio & Ormerod, 2009)
 
