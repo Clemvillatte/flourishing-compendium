@@ -127,3 +127,11 @@
 ## BI056 — Posture
 - Opened: Nair et al. 2015 (PubMed 25222091, abstract; N=74); Wilkes et al. 2017 (PubMed 27494342; N=61); Ranehill et al. 2015 (PubMed 25810452, title/listing, no abstract available); MSU Today 2017 on the CRSP special issue (cites no behavioural effect, felt power effect). Roskes 2014 unopened -> bare ref.
 - Changes: seed "energy" claim dropped (Wilkes abstract inconsistent on fatigue); effects scoped to brief lab sessions vs slumped (not vs neutral); power-pose distinction written; practice line softened.
+
+## BI058 — Somatic experiencing
+- Opened: Payne, Levine & Crane-Godreau 2015 Front Psychol 6 (PubMed 25699005; theory paper with composite case study, Levine is co-author); Brom et al. 2017 (PubMed 28585761); Kuhfuß et al. 2021 Eur J Psychotraumatol 12(1):1929023 (PubMed 34290845, scoping review of 16 studies). Levine 1997 unopened -> bare ref.
+- Seed said "clinical reports are positive" -> replaced with RCT + scoping review summary; "trusts the animal's process" rewritten. Payne 2015 flagged as theory, not outcome evidence.
+
+## BI063 — Medical causes of mood symptoms
+- Opened: Bode et al. 2021 JAMA Psychiatry 78(12):1375-83 (PubMed 34524390; 25 studies, N=348,014; OR 1.30; "considerably lower than previously assumed"); Siegmann et al. 2018 JAMA Psychiatry 75(6):577-84 (PubMed 29800939; 19 studies); Patel & McGuirk 2025 Am Fam Physician 112(3):294-300 (PubMed 40961307).
+- Anaemia and vitamin D: no source opened in this pass; the principle statement still lists them (kept untouched) but the page body does not assert them. Stover & Stover 2011, Chandra 2017 unopened -> bare refs. Seed example "year of low mood improved once B12 found" replaced with imagined GP visit (no outcome asserted).
