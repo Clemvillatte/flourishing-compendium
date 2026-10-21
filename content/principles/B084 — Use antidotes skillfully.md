@@ -35,7 +35,7 @@ The 4pm doom-scroll reads as restlessness, and restlessness has a counter: the w
 
 ## Psychology parallels
 
-- **[[Emotion regulation|Emotion-regulation strategies selected by context]]**, outperform any single strategy (Gross, 2015; adaptive flexibility research)
+- **[[Emotion regulation|Emotion-regulation strategies selected by context]]** — no one strategy is best in any absolute sense; skillful regulation involves context-dependent blends, and people may be maximally successful if they dynamically adjust the strategies they employ across situations (Gross, 2015)
 
 ## Philosophy parallels
 
