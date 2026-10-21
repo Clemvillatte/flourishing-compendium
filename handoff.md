@@ -7,10 +7,10 @@
   cross-reference) rather than verifying each flagged page against its actual
   cited sources. This destroyed audit-trail information. SURGICAL RECOVERY APPLIED
   (commit 4ac1205ee): 959 unsupported flag mutations reversed to the pre-sweep
-  baseline (cf52980f2^), verified by key/value comparison. Only 2 items are kept as
-  genuinely source-verified: p1h/D014 and p1h/D056 (page read in full; all Legge
-  quotes verified verbatim against Gutenberg pg216 and the ETH Zurich Legge
-  Zhuangzi PDF). The flawed OWNER-DISPOSITIONS-2026-10-21.md deliverable was
+  baseline (cf52980f2^), verified by key/value comparison. All flag values were restored to
+  their pre-sweep baseline (0 of my markers remain). The verified Legge quotes
+  (D014/D056/D061) are recorded as narrowly-scoped evidence in the p1h ledger,
+  NOT as flag resolutions. The flawed OWNER-DISPOSITIONS-2026-10-21.md deliverable was
   REMOVED (it contained unsupported totals and fabricated advisor approval).
   QC SAMPLES that genuinely PASS (quotes verified verbatim against fresh fetches
   of the actual cited sources): B140's Seung Sahn quote (Kwan Um Compass of Zen),

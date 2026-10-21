@@ -1058,7 +1058,7 @@ Scope: quotation fidelity only. No claim is made that any flagged defect is reso
 ### A018 scoped disposition (2026-10-21 14:32Z, worker-verify-qcsup-67ce7e1d)
 
 Flag: "Reopened for QC: repair: remove italic markers around example label."
-Observed (measured time 2026-10-21 14:32Z): the current page text at
+Observed (correction recorded at measured time 2026-10-21T14:31:36Z; the original inspection time was not separately measured): the current page text at
 content/principles/A018 line 23 reads `For example (imagined):` with NO italic
 markers (no asterisks) around the example label. The formatting-only defect is
 FIXED. Scoped disposition: this certifies only the italic-marker defect; no claim
