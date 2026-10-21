@@ -1064,3 +1064,29 @@ markers (no asterisks) around the example label. The formatting-only defect is
 FIXED. Scoped disposition: this certifies only the italic-marker defect; no claim
 is made about the rest of the page. The flag text is preserved unchanged in the
 state file for the audit trail.
+
+### Supervisor flags disposition batch (2026-10-21, supervisor-p1abc)
+
+Narrow, per-item verification pass on the band's standing "Reopened for QC" state
+flags (advisor direction: no bulk closure; only individually supported components
+close; flag values updated in place with the evidence; anything not verified stays
+open).
+
+- **A018 — Practice friendliness (philia)**: RESOLVED. (1) Formatting repair
+  (round 1: remove italic markers around the example label): verified on the
+  current page — the label reads "For example (imagined):" with no emphasis
+  markup. (2) Quote fidelity: the NE IV.6 blockquote ("Those on the contrary who
+  object to everything... in the right manner.") verified VERBATIM against a
+  fresh fetch of the cited Perseus Rackham text (em-dash included). The body's
+  "no special name of its own; it most closely resembles friendship without
+  affection" gloss is grounded in the same source passage ("But to this no
+  special name has been assigned, though it very closely resembles friendship").
+- **A100 — Practise reciprocity (antapodosis)**: RESOLVED. (1) Quote fidelity:
+  the NE V.5 blockquote ("But in the interchange of services... not on the basis
+  of equality.") verified VERBATIM against a fresh fetch of the cited Perseus
+  Rackham text, including the "But in" prefix (round-1 fix confirmed on page).
+  (2) Relationships claim (round 1 scoping): the body's "He extends the point to
+  the state, arguing that its very existence depends on proportionate
+  reciprocity" is grounded in Rackham's own following sentence: "The very
+  existence of the state depends on proportionate reciprocity" (same fresh
+  fetch). Plain words re-derive the proportion idea. Both components close.
