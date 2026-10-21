@@ -2255,3 +2255,9 @@ Verification pass 106 (worker-glmc4a): 1 principle page PASS; 3 not reached.
 - A033 (NE VI.6 Ross, intuitive reason): the quote is present verbatim in the already-downloaded MIT Classics Book VI page — the initial NOT FOUND was an ellipsis artifact (the wiki page opens with an editorial ellipsis "...and it cannot be any of the three" marking an omission, where the source reads "...and intuitive reason, and it cannot be any of the three..."); with the ellipsis removed the quoted text matches verbatim. Disclosed.
 - A034 (NE VI.3 and VI.6, Ross via Boston University hosting), A035 (NE VI.4 Rackham, Perseus), A036 (NE VI.7 Rackham, Perseus): these carriers were not fetched this session; not reached.
 RUNNING TOTAL: 339 page-checks across 106 verification passes.
+
+Verification pass 107 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reached.
+- A037 (NE VI.12 Ross, cleverness), A040 (NE VI.13 Ross, practical wisdom and moral virtue): both match the already-downloaded MIT Classics Book VI page verbatim.
+- A039 (NE VI Chase, particular details and experience): the quote is present verbatim in the Gutenberg #8438 text — the initial NOT FOUND was an ellipsis artifact (the wiki page inserts an editorial ellipsis "particular details... for which reason" marking the omission of "because it is apt to act, and action is concerned with details:"); with the ellipsis-marked omission handled, the quoted text matches verbatim. Disclosed.
+- A038 (NE VI.11 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
+RUNNING TOTAL: 342 page-checks across 107 verification passes.
