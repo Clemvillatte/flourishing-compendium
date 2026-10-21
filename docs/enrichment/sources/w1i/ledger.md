@@ -568,3 +568,12 @@ definition and the 1924 example sentence (with translation and the TTT 1/8/1924:
 verified VERBATIM. Spot-check PASS. SESSION TALLY on the released w1ab band: 11 pages
 checked, 11 PASS at the quote level; one single-character semicolon repair (Locus of
 evaluation, cross-band edit flagged for the supervisor).
+
+## w1ab spot-check 12 (2026-10-21 14:42 UTC, worker-perplexity-67ce7e1d)
+Letting-be (a "Reopened for QC" w1ab page): Dasein Foundation Gelassenheit page re-opened;
+the translation-family sentence verified VERBATIM in wording (the source prints double
+quotes and italicizes Gelassenheit; the page's single quotes are typographic normalization,
+not a repair). Spot-check PASS. FINAL SESSION TALLY on the released w1ab band: 12 pages
+checked, 12 PASS at the quote level; one single-character semicolon repair (Locus of
+evaluation, cross-band edit flagged for the supervisor). The band's "Reopened for QC"
+population shows no quote-fidelity failures in this sample.
