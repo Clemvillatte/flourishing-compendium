@@ -1,0 +1,13 @@
+{
+ "baton": "w1n",
+ "agent": "worker-verify-cde63853",
+ "clocked_in": "2026-10-21T08:15:07+00:00",
+ "takeovers": [
+  {
+   "by": "worker-verify-cde63853",
+   "at": "2026-10-21T08:15:07+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}

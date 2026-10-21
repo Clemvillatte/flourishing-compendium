@@ -75,5 +75,7 @@
    "from": "assistant-supervisor-4c1e7f9d",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T08:15:07+00:00"
 }
