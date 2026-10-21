@@ -368,3 +368,11 @@ QC-closed).
 ### w1k "Amour-propre" — quote fidelity PASS (verification pass)
 - Rousseau Émile Book IV blockquote EXACT vs the opened Gutenberg full text (#5427,
   Foxley translation).
+
+### w1k "Alterity" — quote fidelity PASS with one ROUTED one-character finding (verification pass)
+- Levinas TI 49 blockquote verified vs the opened SEP Levinas entry — wording EXACT with
+  one bracket nuance: the SEP prints the quote beginning mid-sentence as "[t]o think the
+  infinite..." (bracketed lowercase t, marking the SEP's own mid-sentence quotation of
+  Totality and Infinity); the page's blockquote begins "To think the infinite..." with a
+  capital T. ROUTED REPAIR options for the supervisor/next owner: render "[t]o think..."
+  as the carrier does, or de-quote the opening. The remainder of the passage is verbatim.
