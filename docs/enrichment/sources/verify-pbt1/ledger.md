@@ -195,3 +195,22 @@ Carriers opened fresh: PubMed 24405359 (Kounios & Beeman abstract), PubMed 17073
    the 146-studies, fixed-effects-limitation and Smyth-line prose claims all supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 8 (16:18Z) — w1aa quote-fidelity verification, seventh batch
+
+Carriers opened fresh: MIT-hosted Aldag & Fuller "Beyond Fiasco" PDF, movingforwardnetwork
+Karasek 1979 PDF, PubMed 14570524 (de Lange et al abstract), rider.edu Kaufman et al
+"Creativity polymathy" PDF.
+
+1. Janis — blockquote (symptoms list) VERBATIM; "moderate to high level of group cohesion"
+   VERBATIM in-text; five crises list, Moorhead 1982 quote, Tetlock 1979 findings and the
+   consequences list (limited alternatives, ignored new information, no contingency plans)
+   all verbatim-supported in the review.
+2. Karasek — blockquote VERBATIM; abstract model sentence, "instigators of action",
+   "modulates the release or transformation", symptoms-level-out, managers' strain,
+   lowest-status, and the de Lange et al 2003 quality-criteria summary (45 studies, 19
+   (42%), modest support, lagged effects) all verbatim-supported.
+3. Four-C model of creativity — blockquote (Table 1 definitions) VERBATIM vs the opened
+   Kaufman et al. PDF; 2009 proposal attribution supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
