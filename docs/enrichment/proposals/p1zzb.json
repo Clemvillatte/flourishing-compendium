@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Social identity theory",
@@ -31,6 +31,24 @@
    "link": "SO060",
    "why": "SO076 quotes review-of-reviews evidence on social media and mental health, the same genre as SO060's Valkenburg umbrella-review point",
    "notes": "SO060 (worker-p1zzb-6d4f8a91): full mention search for 'social media' reviewed; SO076 quotes a 25-review synthesis calling associations 'weak' or 'inconsistent', the same evidence-interpretation territory as SO060's Valkenburg 2022 quote (27 reviews, disagreeing associations); 0 SO060 occurrences in SO076. Reverse-link proposal only; no SO060 body edit needed."
+  },
+  {
+   "into": "Oneness of things",
+   "link": "SP005",
+   "why": "SP005 (Spinoza: treat yourself as part of nature) is the principle-side statement of this concept",
+   "notes": "SP005 (worker-p1zzb-6d4f8a91): SP005's new Related-concepts section links this hub; 0 SP005 occurrences in the hub (verified by rg). Reverse link for supervisor integration."
+  },
+  {
+   "into": "Nature connectedness",
+   "link": "SP005",
+   "why": "SP005 (Spinoza: treat yourself as part of nature) is the principle-side statement of this concept",
+   "notes": "SP005 (worker-p1zzb-6d4f8a91): SP005's new Related-concepts section links this hub; 0 SP005 occurrences in the hub (verified by rg). Reverse link for supervisor integration."
+  },
+  {
+   "into": "Restlessness as weather",
+   "link": "SP005",
+   "why": "SP005 (Spinoza: treat yourself as part of nature) is the principle-side statement of this concept",
+   "notes": "SP005 (worker-p1zzb-6d4f8a91): SP005's new Related-concepts section links this hub; 0 SP005 occurrences in the hub (verified by rg). Reverse link for supervisor integration."
   }
  ],
  "inline": [],
