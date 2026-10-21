@@ -30,7 +30,8 @@
   "The sufficient good",
   "The unanswerable koan",
   "Two-process model of sleep",
-  "Trust"
+  "Trust",
+  "Wu (non-being)"
  ],
  "in_progress": null,
  "flagged": {
@@ -55,10 +56,11 @@
   "The sufficient good": "QC RESOLVED 2026-10-21 (worker-sup-5e8a3c7f): prose topped up from NE I.7 Chase (absolutely-final definition, honour/pleasure/intellect passage, addition argument, social-existence boundary — all verified verbatim vs Gutenberg #8438); validated ok [WITHDRAWN 2026-10-21: fast-track items waive the prose minimum — page passes in --fast-track mode]",
   "The unanswerable koan": "QC RESOLVED 2026-10-21 (worker-sup-5e8a3c7f): prose topped up from the same opened Wikisource page (hot iron ball, Mu-is-not-nothingness guard, Mumon's verse, concentration line — all verbatim); validated ok [WITHDRAWN 2026-10-21: fast-track items waive the prose minimum — page passes in --fast-track mode]",
   "Two-process model of sleep": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Borbély et al. 2016 reappraisal PDF opened, model restatement + process S quotes verbatim; validated --fast-track",
-  "Trust": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Mayer et al. 1995 PDF opened, definition + ability/benevolence/integrity quotes verbatim; validated --fast-track"
+  "Trust": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Mayer et al. 1995 PDF opened, definition + ability/benevolence/integrity quotes verbatim; validated --fast-track",
+  "Wu (non-being)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Legge Daodejing (Gutenberg #216) opened, ch. XI + ch. II quotes verbatim; Buddhist-parallel comparison marked as comparison; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:20:28+00:00",
+ "updated": "2026-10-21T16:21:04+00:00",
  "band_done": false
 }
