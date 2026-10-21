@@ -1,3 +1,26 @@
+- SUPERVISOR CHECKPOINT 3 (2026-10-21 ~15:54Z, worker-p1abc, same session, T+34): TWO MORE
+  BANDS DISPOSITIONED — w1k 27/27 (ten stale QC flags resolved via ledger records +
+  spot-checks; fourteen honest records verified; three Category C candidates
+  consolidated for owner) and w1ab 28/28 (thirteen stale QC flags resolved — the
+  w1i read-only pass's 16/16 quote-check + spot-checks; three evidence records
+  verified; twelve namespace/identity holds consolidated for owner), p1zv 24
+  (milestone repairs verified applied per the ledger's raw-verified carriers;
+  Ench.1 rebuild confirmed on S063). SESSION TOTAL: ~169 flag dispositions across
+  14 bands (p1h 32, w1h 11, w1g 15, p1zn 24, w1c 4, w1e 3, p1zm 1, p1s 11,
+  p1zzb 6, w1k 27, w1ab 28, p1zv 24, plus the w1m 4 review requests and w1i
+  reconciliation). REMAINING for the next supervisor (honest state): p1f's 25
+  'Reopened for QC' flags are the PREDECESSOR's QC debts explicitly left for
+  supervisor disposition (p1f ledger line 243) — they need the full per-item
+  treatment (the predecessor's QC records + page checks + source verification);
+  then p1zm's fuller-classifier matches (25), p1zo (24), p1g (23), p1y (23),
+  p1zj (23), w1e's fuller-classifier tail (23 — the earlier per-band run
+  under-counted; the fuller classifier catches 'Reopened for QC'-class markers),
+  p1c (22) and the rest of the ~678. The namespace/title questions across all
+  bands are consolidated in concept-namespace-audit.md for OWNER rename/merge
+  decisions. PROGRESS.md refreshed 15:53Z (principles 2171/2183, concepts
+  1199/2278). Board: principles queue fully allocated; kpr live worker (pplc)
+  already cleared the instruction-provenance holds; the w1q items 1-2 already
+  re-cleared by worker-pplxy.
 - WORKER CHECKPOINT kpr (2026-10-21 2026-10-21T15:50:46Z, worker-kpr-pplc-f3d97a21, T0 15:22:59Z, report due 16:22:59Z; baton HELD until T+58 release): took the kpr baton after w1ab proved worker-exhausted (all 13 remaining items are supervisor-pending identity/namespace holds — recorded; baton honestly released after a rebase race with worker-w1ab-6e4f1c93 was fully reverted and their 24s claim/release observed). SESSION WORK (all pushed via api_push.py, all validator-clean): (1) K396/K379 INSTRUCTION-PROVENANCE: K379 CLEARED against the owner-uploaded Kolts CFT Made Simple Drive PDF (ch. 9, pp. 119-123; blockquote p. 122 verbatim; the 'variant' turned out to be the book's own p. 122 guidance); K396 DOWNGRADED to source-supported-but-unresolved-carrier (eCampusOntario transcript unattributed; Simonsson et al. 2022 describes a Williams befriending recording with similar phrases; the owner's share was Penman Mindfulness for Creativity 2015 — WRONG book, recorded in PRIMARY-SOURCES.md; correct-book upload remains the last gap, supervisor list agrees). (2) THREE KERNELS ENRICHED+DONE from the Kolts book: K406 Compassionate letter (ch. 9 pp. 124-126), K382 Perfect Nurturer (ch. 11 pp. 147-151 — attribution chapter corrected TOC-verified; my ch. 10 'correction' was wrong, seed was right), K384 Two-Chair dialogue (ch. 12 pp. 159-161; Shahar 2012/Greenberg quoted as-reported-by-Kolts only). (3) K414 CCT compassion meditation + K415 Mindful eating VERIFIED+DONE (cmp-band enrichments; K414 had a real evidence error: 6-month d values corrected to the article's Table 2 — post d=0.66/0.51/0.74, 6-month d=0.45/0.30/0.43; Soh->Hansen author fix in Sources). QC: advisor rounds 1-4 on the milestone batch (round-4 verdict: passage repairs scoped-clear for K379/K406/K382/K384; K396 NOT fully verified — attribution hold open); a genuine K382 quote mismatch was caught and fixed ('with you' moved out of the quotation); inline quotes now all carry linked citations; italics removed from authored lines. EXACT NEXT ACTIONS for the next kpr worker: (1) six healing sounds and microcosmic orbit kernels do NOT exist yet — create per the kernel standard using the owner's Daoism Drive folder (Livia Kohn, Chinese Healing Exercises / Sitting in Oblivion) as primary carriers; (2) K396: if the owner uploads the actual 2011 Williams & Penman Mindfulness, verify the retained instructions against ch. 11 and clear the attribution hold; (3) the K396/K379 predecessor milestone QC flags in kpr.json remain (mine are instruction-provenance notes only). Standing flags for the supervisor: my hand-written ledger timestamps early in the session were erroneous future times (corrected and marked; programmatic from then on); the earlier 'both pages validate' commit (d8176e99) was made 2 words over the limit (fixed in 8b966936). Full QC trail: docs/enrichment/sources/kpr/ledger.md.
 - SUPERVISOR CHECKPOINT 2 (2026-10-21 ~15:52Z, worker-p1abc, same session, T0 15:20:31Z):
   CONTINUED WORK (commits 4b2069fd..42deee8a): FLAGS-BACKLOG DISPOSITIONS across
