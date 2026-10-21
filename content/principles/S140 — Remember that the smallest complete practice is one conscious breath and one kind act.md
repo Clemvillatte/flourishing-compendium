@@ -18,12 +18,12 @@ Marcus counts what is actually needed:
 
 (Marcus Aurelius, Meditations II.5, Long translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
-The few things he means are not a system to install. In the same passage they are what is in hand: doing each act with perfect and simple dignity and feeling of affection, giving oneself relief from all other thoughts. Elsewhere the instruction shrinks to the present matter: attend to the matter which is before thee, whether it is an opinion or an act or a word (Med. VIII.22, Long). The principle statement's seed version of those few things is one breath taken with awareness and one kind act done with intention.
+Marcus emphasizes the small number of demands he is setting for himself. In II.5 he attends to the action at hand; VIII.22 likewise concerns the immediate situation, including what one thinks, says or does. Pausing for a breath and choosing a helpful act is a suggested application of this attention to the present.
 
 **Plain words**
-On a bad day the full practice is out of reach, and the practice anticipates that. Shrink to what is present: one breath taken on purpose, one small act done with intention. On Marcus's count these are the practice itself, not a scaled-down substitute, and the rest grows from repeating them.
+When a longer routine feels impractical, pause for one breath. Then choose a small helpful action available to you now.
 
-*For example:* Imagine a hospital waiting room where meditation, journaling and reading are all out of reach: one slow breath, then a coffee brought to the nurse. On this principle that is a complete practice, not a placeholder.
+*For example:* Imagine waiting at a hospital. You pause for a breath, then ask the person beside you whether they would like some water.
 
 ## Sources
 

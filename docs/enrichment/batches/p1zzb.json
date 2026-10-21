@@ -6,11 +6,11 @@
   "MO062",
   "MO071",
   "S139",
-  "S140",
   "SE005",
   "SE014",
   "SE015",
-  "SE018"
+  "SE018",
+  "S140"
  ],
  "in_progress": null,
  "flagged": {
@@ -18,10 +18,11 @@
   "MO062": "Reopened for QC: QC milestone round 2: practice classification reinstated rejected contrast",
   "MO071": "Reopened for QC: QC round 2: remove staging paragraph, fix review-panel attribution",
   "S133": "inherited philosophy-parallel 'Be gentle with yourself in the review (Med. VI.6)' attribution: opened Long VI.6 concerns not becoming like the wrongdoer, not self-review - link section left untouched per protocol, routed to supervisor for verification or re-attribution",
-  "S139": "Reopened for QC: QC round 2: Ench locator to Long numbering only; population claim to Epictetus' criticism"
+  "S139": "Reopened for QC: QC round 2: Ench locator to Long numbering only; population claim to Epictetus' criticism",
+  "S140": "Reopened for QC: QC milestone 2: unmarked VIII.22 borrowing; Marcus-attribution of compendium formulation; growth and anticipation claims"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:14:59+00:00",
+ "updated": "2026-10-21T00:19:32+00:00",
  "band_done": false
 }
