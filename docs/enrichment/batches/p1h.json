@@ -105,9 +105,9 @@
     "BI004": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): McEwen 2007 blockquote verbatim vs fresh Physiological Reviews fetch; ANS/HPA hallmark and cortisol/catecholamine mediator claims grounded in article's own sentences; cortisol-as-system defect absent. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
     "BI010": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Zaccaro flexibility blockquote verbatim vs fresh Frontiers fetch (same carrier as BI045); audit language absent; no-guarantee scoping honest. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
     "CO002": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Kahneman System 1/2 blockquote verbatim vs fresh author-hosted PDF fetch; requested qualifier present (Evans-Stanovich autonomy/decoupling caution). Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
-    "CO040": "Reopened for QC: closure QC round-1/2 repairs: scoped opening, underwriting suggestion restored, unverified locator dropped, plain words re-derived",
-    "CO042": "Reopened for QC: closure QC round-2 repairs: default-response wording, inference deleted, plain words/example replaced with attribute-substitution exercise",
-    "CO064": "Reopened for QC: closure QC repairs: treatment description per source, uncontrolled restored, plain words/example replaced, (CAS) introduced"
+    "CO040": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Camerer 1989 blockquote verbatim vs fresh CMU-hosted PDF download; study details (8 companies, 51 students, 2 months) and underwriting analogue grounded in the article's own text. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
+    "CO042": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Evans-Stanovich 2013 blockquote verbatim vs fresh Stanovich-hosted PDF download; default-response wording per source; Type 2 glosses the article's. Evidence in sources/p1h/ledger.md (supervisor disposition batch).",
+    "CO064": "RESOLVED by supervisor-p1abc 2026-10-21 (per-item verification): Normann-Morina 2018 metacognitions blockquote verbatim vs fresh PMC6246690 fetch; 25/15 counts and uncontrolled effect-size findings confirmed in abstract. Evidence in sources/p1h/ledger.md (supervisor disposition batch)."
   },
   "missing_concepts": [],
   "sources_checked": 15,

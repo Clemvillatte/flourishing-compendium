@@ -1302,3 +1302,30 @@ open).
   strengthened on the current page: the Evans & Stanovich caution paragraph
   names autonomy as Type 1's defining characteristic and decoupling as
   Type 2's, with the labels-as-vocabulary rule. All components close.
+- **CO040 — Beware curse-of-knowledge bias**: RESOLVED. The Camerer,
+  Loewenstein & Weber 1989 blockquote ("Better-informed agents should
+  ignore their additional information when forecasting the forecasts of
+  less-informed agents.") verified VERBATIM against a fresh download of the
+  cited CMU-hosted PDF (p. 1235 region); the study details confirmed in the
+  same text (eight actual companies, 51 Wharton students, two-month gap);
+  the underwriting analogue is the article's own ("The traders in these
+  markets are like investment banks who underwrite issues of corporate
+  securities"). Round-1 repairs confirmed on the current page: the
+  underwriting suggestion is restored as the authors' suggestion, the study
+  details match the article's own description. All components close.
+- **CO042 — Slow down when the stakes are high**: RESOLVED. The Evans &
+  Stanovich 2013 blockquote ("Default interventionism allows that most of
+  our behavior is controlled by Type 1 processes...") verified VERBATIM
+  against a fresh download of the cited Stanovich-hosted PDF. The
+  default-response wording matches the source's own terms; the
+  Type 2 working-memory/hypothetical-thinking gloss is the article's; the
+  vividness-substitution example is the authors'. All components close.
+- **CO064 — Examine beliefs about worry and rumination**: RESOLVED. The
+  Normann & Morina 2018 metacognitions blockquote ("Positive metacognitions
+  are beliefs about the need to engage in CAS activities...") verified
+  VERBATIM against a fresh fetch of the cited PMC6246690 record
+  (Introduction); the 25-studies/15-RCTs count and the large uncontrolled
+  pre-to-post effect-size findings confirmed in the same record's abstract
+  ("large uncontrolled effect size estimates from pre- to post-treatment
+  and follow-up"). The treatment-description scoping matches the source.
+  All components close.
