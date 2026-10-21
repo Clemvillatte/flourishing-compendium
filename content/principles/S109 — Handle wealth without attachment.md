@@ -18,7 +18,7 @@ Marcus records where his own search for happiness did not end up:
 
 (Med. VIII.1, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-The compendium applies the passage to wealth: money is one of the places Marcus looked and did not find it, and it remains useful for what it can buy. The exercise is to notice whether your plans assume more money before they can begin.
+The compendium applies the passage to wealth: money is one of the places Marcus looked and did not find it, and it remains useful for what it can buy. The compendium's category for such things is the [[Preferred indifferents|preferred indifferent]], a thing worth selecting that is not good in itself. The exercise is to notice whether your plans assume more money before they can begin.
 
 **Plain words** Ask what a purchase is for, and whether the same end could be reached with less.
 
