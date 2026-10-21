@@ -21,11 +21,19 @@ Zajonc's 1965 account, as the article summarizes it:
 
 > "Zajonc predicted that simple tasks would result in social facilitation within group settings, whereas more complicated tasks would not." ([same article](https://en.wikipedia.org/wiki/Social_facilitation))
 
-The article explains the mechanism in his terms: some tasks are easier to learn and perform because they require dominant responses — behavioral responses at the top of an organism's hierarchy. On this account, the presence of others enhances dominant responses; tasks eliciting non-dominant responses are, in the article's words, "harder to carry out", and Zajonc predicted facilitation would not occur for them.
+The article explains the mechanism in his terms:
+
+> "He argued that the presence of others serves as a source of arousal, and heightened arousal increases the likelihood of an organism to do better on well-learned or habitual responses. For this reason, arousal improves performance on simple, or well-learned tasks, but impairs performance on complex, or not well-learned tasks." ([same article](https://en.wikipedia.org/wiki/Social_facilitation))
+
+Dominant responses are behavioral responses at the top of an organism's behavioral repertoire; tasks eliciting non-dominant responses are, in the article's words, "harder to carry out" ([same article](https://en.wikipedia.org/wiki/Social_facilitation)).
+
+### In everyday life
+
+Illustrative scenario, not a reported finding: a runner goes faster when racing alongside others, and fumbles an unfamiliar card trick performed for the first time in front of friends. On Zajonc's account both are the same arousal at work.
 
 ### In the compendium
 
-- [[R002 — Practise humanity toward others]] — the practice of being with others
+- [[R002 — Practise humanity toward others]]
 - [[SO003 — Use the self-culture link, not a fixed self]] — self and culture in relation
 - [[R037 — Practise Te Whare Tapa Whā]] — the Māori health model
 - [[B166 — Chop wood, carry water]] — practice in ordinary tasks
