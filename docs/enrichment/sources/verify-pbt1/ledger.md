@@ -710,3 +710,8 @@ blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
 Carrier opened fresh: PMC5390700 (Barrett 2017 SCAN). w1q "Theory of constructed emotion":
 both quoted fragments VERBATIM vs the opened abstract; the page's "..." elides two intervening
 abstract sentences — marked elision, acceptable. 1/1 PASS, no defects.
+
+## Round 41 (16:59Z) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: fredsakademiet.dk compiled Gandhi satyagraha PDF. w1w "Satyagraha":
+blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
