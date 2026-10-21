@@ -120,10 +120,15 @@
      "t": "2026-10-21T12:35:15+00:00",
      "to": "ready",
      "note": "primary-source story, quotes verbatim from fetched peirce.org text; story_check ok"
+    },
+    {
+     "t": "2026-10-21T12:37:50+00:00",
+     "to": "ready",
+     "note": "advisor QC fixes applied (raw-verified quotes, attribution, order, facets); story_check ok"
     }
    ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:36:30+00:00"
+ "updated": "2026-10-21T12:37:50+00:00"
 }
