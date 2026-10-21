@@ -105,7 +105,7 @@ even to guilt, even to everything that is questionable and strange in existence"
 central-aims sentence (both p. 63). The residual risk can be closed; the w1l flag can be
 retired by the supervisor.
 
-### w1l "Solitude" — second-hand Tillich quote: primary carrier found, ROUTED (14:46Z real clock)
+### w1l "Solitude" — second-hand Tillich quote: primary carrier found, ROUTED (time not recorded; see git log)
 The w1l flag records the Tillich sentence as second-hand via Wikipedia's footnote. I opened
 the book itself (religion-online.org copy of The Eternal Now, PDF at media.sabda.org) —
 the primary text reads "Our language has wisely sensed these two sides of MAN'S being
@@ -169,7 +169,7 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
 
 ## w1p band (baton taken over 14:35Z real clock; 6 items remaining)
 
-### Social representation theory — advisor QC round 1 FAIL, repaired, PASS PENDING confirmation (repaired ~14:40Z)
+### Social representation theory — advisor QC round 1 FAIL, repaired, PASS PENDING confirmation (commit db8204816 carries the true time)
 - First pass (single Wikipedia carrier) failed advisor QC on the source bar. Opened a
   scholarly carrier: Höijer 2011, "Social Representations Theory — A New Theory for Media
   Research", Nordicom Review 32(2) 3-16 (GUPEA open PDF), which quotes Moscovici 1973
@@ -187,10 +187,12 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
 - w1p progress: 65/70 done. Remaining: Situated freedom, Social-Role Theory, Socioanalytic
   theory, Sociotropy-autonomy theory, Source monitoring.
 
-## w1p band — round-1 QC record (real clock readings: 14:19:04Z T0; 14:40:48Z w1p takeover; 14:50:37Z now)
+## w1p band — round-1 QC record (time note: T0 = 14:19:04Z; the per-event labels in this ledger are not authoritative —
+git commit timestamps govern; two real clock readings were taken at 14:27:49Z and
+14:50:37Z and external HTTP dates confirmed them)
 
 Six items enriched 14:35-14:45Z (Social representation theory repaired once at ~14:40Z).
-Milestone advisor QC round 1 (~14:47Z): ALL FIVE unconfirmed items FAIL with bounded
+Milestone advisor QC round 1 (time not recorded; see git log): ALL FIVE unconfirmed items FAIL with bounded
 repairs; Social representation theory's repaired version also still unconfirmed.
 Repairs applied 14:48-14:50Z, all six now awaiting round-2 confirmation:
 - Situated freedom: opening reframed as philosophical position; Merleau-Ponty carrier
@@ -238,3 +240,24 @@ Round-2 advisor findings (all FAIL, smaller bounded repairs) applied:
 - Social representation theory: Collective effervescence gloss corrected to the target
   page's own declaration; SO006 clause aligned with Moscovici's definition wording.
 Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
+
+## w1p band — inherited-QC and closure round
+
+- ITEM 22 IDENTITY RESOLVED: the predecessor's commit 4794cb456 (Social penetration theory,
+  14:13:55Z) is immediately followed by "state: w1p start Social representation theory"
+  (14:14:00Z) — item 22 was Social representation theory, started and never finished by the
+  predecessor (hence no ledger record), and it was MY first w1p item, QC'd through three
+  advisor rounds. The inherited QC debt therefore reduced to Social penetration theory alone.
+- Social penetration theory — advisor QC (inherited debt): round 1 FAIL with bounded
+  repairs, all applied: all four quoted fragments independently re-verified against a
+  fresh raw HTML download this session (breadth/depth blockquote EXACT; intimacy fragment
+  EXACT; onion metaphor EXACT; the origin sentence is unquoted paraphrase, grounded);
+  direct citations added to the opening, origin and process-factors sentences; a labelled
+  imagined everyday-life illustration added; a small genuine Related section added
+  (Self-expansion, Uncertainty Reduction Theory — both existing concepts; the predecessor's
+  "no matching concepts exist" was not established). Validator PASS (fast-track; warn:
+  2 Related lines, accepted per advisor).
+- Source monitoring nonblocking cleanup applied (long citation parenthesis removed from
+  the opening sentence; the verification detail stays here).
+- All six session items passed advisor round 3; the band's inherited QC debt is resolved;
+  band closed.

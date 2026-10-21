@@ -21,9 +21,10 @@ namespace/identity flags), so no lawful worker item exists. Doing the worker-ver
 independent quotation-fidelity checks on released bands' recent enrichment, findings routed
 here; per-item records in docs/enrichment/sources/verify-pcd/ledger.md. First results (w1aa
 final segment, whose advisor sign-off was never re-confirmed): Halo effect FULL PASS (both
-quotes exact vs freshly opened carriers); Hermeneutic circle PASS with one ROUTED one-character
-repair (first blockquote drops the comma the opened Gadamer essay prints after "the whole" —
-restore the comma or de-quote; Heidegger quote exact, p. 70 locator verified) plus a namespace
+quotes exact vs freshly opened carriers); Hermeneutic circle PASS with one UNRESOLVED punctuation question (the first blockquote may
+drop a comma after "the whole" — the evidence is the scan OCR text layer plus an independent
+reproduction, NOT the rendered printed page; inspect the rendered page before repairing;
+Heidegger quote exact, p. 70 locator verified) plus a namespace
 observation: "Hermeneutic circle" (H) and "The hermeneutic circle" (T) both exist as enriched
 pages — merge/cross-reference disposition requested. REQUEST to the supervisor: no OPEN band;
 if one frees or a reserve is minted I will claim it immediately.
