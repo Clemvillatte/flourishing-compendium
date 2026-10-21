@@ -890,3 +890,15 @@
   transformation sentence; the nameless-simplicity desire sentence; the closing verse).
   Related: Wu wei, Non-seeking, Ziran (naturalness) (navigational captions). Degree 1 —
   fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Noogenic neurosis (fast-track; REOPENED item RESOLVED) — 2026-10-21, worker-pxy1u
+- Carrier problem RESOLVED: the round-2 reopen (all sources book-only or paywalled) is
+  answered by an openable carrier hosting the primary text itself — the panarchy.org excerpt
+  of Frankl's The Will to Meaning (same carrier class as the accepted Escape-from-freedom
+  ch. V precedent, E016/E070/K001). Opened fresh; three passages verified verbatim (the
+  noogenic-vs-psychogenic coinage + noological-dimension origin; the values-conflict
+  definition paragraph with the existential-frustration clause; the not-religious gloss on
+  'spiritual'). The logotherapy-adequate-therapy consequence stated from the same passage.
+  Related: The will to meaning, Meaning-centred therapy, Existential meaning (navigational
+  captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC
+  not due (cadence).
