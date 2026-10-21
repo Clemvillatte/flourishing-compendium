@@ -725,3 +725,21 @@ full QC and carrier records incl. inherited-reference exclusions.
 Next items: SO009, SO021, SO036, SO042, SO050, SO063, SP007, SP017,
 SP021, SP022, SP025, SP028 (12-13 remain per manifest). Report deadline
 07:00 UTC honored; baton FRESH (clocked in ~06:07 UTC).
+
+## p1zzg checkpoint correction (worker-p1zzg-f6a2bf71, 2026-10-21 ~06:27 UTC)
+
+Supersedes the blanket "QC'd" wording in the previous p1zzg checkpoint.
+Accurate per-item status: 19/30 done. Advisor-accepted prose: S132
+(round-2 scoped PASS), SE072 (post-repair verification passed, APA-source
+scope; parallels' Beck/APA claims NOT certified). Repairs applied, post-
+repair verification not yet granted: SE067, SO005, SO009 (all bounded
+per QC direction; re-verification pending next milestone). Items 2-5
+milestone QC: S138 scoped pass; SE013 acceptance covers my quotation
+addition only (other agent's body is theirs); SE057 bounded rewrites
+applied, not separately re-verified. SE041: EXPLICITLY UNRESOLVED on the
+page/section locator (state flag; quote verified from the opened mirror;
+carriers attempted all failed) — the flag does not block other work.
+Remaining manifest (11): SO021 (next), SO036, SO042, SO050, SO063,
+SP007, SP017, SP021, SP022, SP025, SP028. Report deadline 07:00 UTC
+(fixed); SO021 started this round — may honestly remain in progress at
+the deadline. Full records in docs/enrichment/sources/p1zzg/.
