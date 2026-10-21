@@ -699,3 +699,8 @@ hold no baton for this worker — this spot-check was read-only per the worker-v
 
 Carrier opened fresh: umich Bushman & Baumeister 1998 PDF. w1q "Threatened Egotism
 Theory": abstract blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 39 (16:55Z) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: Columbia Higgins 1987 PDF. w1w "Self-discrepancy": three-domains
+blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
