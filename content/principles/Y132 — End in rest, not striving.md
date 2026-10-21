@@ -16,11 +16,11 @@ Three passages describe the end of practice as a settled state. Sutra 1.3 says: 
 
 ### Isolation and the lamp
 
-Sutra 4.34, the last of the work, reads: "Isolation is the inverse generation of the aspects, no longer provided with a purpose by the Self, or it is the Energy of Intellect grounded in itself" (p. 347). Here "isolation" is the translator's word for kaivalya. It describes the aspects having done their work and resolved into their cause. Arnold's Gita gives the lamp: "Steadfast a lamp burns sheltered from the wind; such is the likeness of the Yogi's mind shut from sense-storms and burning bright to Heaven" (ch. 6, Arnold). It continues: "call that state 'peace,' that happy severance Yoga; call that man the perfect Yogin!" (ch. 6, Arnold).
+Sutra 4.34, the last of the work, reads: "Isolation is the inverse generation of the aspects, no longer provided with a purpose by the Self, or it is the Energy of Intellect grounded in itself" (p. 347). Here "isolation" is the translator's word for kaivalya. It describes the aspects having done their work and resolved into their cause. Arnold's Gita gives the lamp: "Steadfast a lamp burns sheltered from the wind; Such is the likeness of the Yogi's mind Shut from sense-storms and burning bright to Heaven" (ch. 6, Arnold). It continues: "call that state 'peace,' That happy severance Yoga; call that man The perfect Yogin!" (ch. 6, Arnold).
 
 ### What is not in the sources
 
-I did not find the image of a lake settling in the passages I opened. Nothing in them says that striving is only a means that can be put down, and none speaks of a closing minute of non-doing at the end of each sitting. These are the principle's own reading and practical rule, and the verse number 6.19 is not checked because Arnold's verses are unnumbered.
+None of these passages mentions a lake settling, and none says that striving is only a means to be put down, or prescribes a closing minute of non-doing at the end of a sitting. The closing minute is the principle's own practical rule, and Arnold's verses are unnumbered, so the reference is to the chapter rather than a verse.
 
 **Plain words** The texts describe the aim as the Seer resting in itself, the mind like a lamp that does not flicker, and a state Arnold calls peace. They describe the destination, not a way of ending a daily practice. Closing each sitting with a minute of quiet is a modern addition.
 

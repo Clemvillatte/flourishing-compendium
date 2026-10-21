@@ -16,11 +16,11 @@ Sutra 1.11 defines memory: "Memory (smrti) is not-adding-surreptitiously (asampr
 
 ### How the commentary describes it
 
-Vyasa explains that a presented idea affected by the object known "gives a start to the corresponding subliminal-impression", and that this impression, once the right conditions arise, "brings forth [in its turn] a memory which [also] consists of the object known and of the process-of-knowing" (p. 31). He divides memory in two: "the-things-to-be-remembered are imagined (bhavita) or not imagined. In a dream the-things-to-be-remembered are imagined, whereas in waking the-things-to-be-remembered are not imagined" (p. 31).
+Vyasa explains that a presented idea affected by the object known "gives a start to the corresponding subliminal-impression", and that this impression, once the right conditions arise, "brings forth [in its turn] a memory which [also] consists of the object known and of the process-of-knowing" (p. 31). He divides memory in two: "the-things-to-be-remembered are imagined or not imagined. In a dream the-things-to-be-remembered are imagined, whereas in waking the-things-to-be-remembered are not imagined" (p. 31).
 
 ### What the principle adds
 
-The sutra defines memory by its fidelity to the original object, a definition about accuracy. The commentary I opened says nothing about grievances, fears, replay, life review or learning. Scheduling a review of the day before sleep is the principle's practical advice, not a reading of the sutra.
+The sutra defines memory by its fidelity to the original object, a definition about accuracy. The commentary stays with memory's accuracy; it says nothing about grievances, fears, replay, life review or learning. Scheduling a review of the day before sleep is the principle's practical advice, not a reading of the sutra.
 
 **Plain words** Patanjali's definition is short: memory is holding on to what was experienced, without adding to it. It comes from the stored impressions left by earlier experience. The idea of managing when and how you remember is the principle's own application.
 
