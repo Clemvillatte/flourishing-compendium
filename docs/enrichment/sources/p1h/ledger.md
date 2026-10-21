@@ -1032,3 +1032,25 @@ pages. Continuing to CO009.
   (5,718 entries, fcAuthored 976). Band closed 60/60. Acceptance is scoped to
   the reviewed passages and demonstrated repairs, not an independent source
   audit of all 60 items.
+
+## Supervisor evidence note (2026-10-21 14:30Z, worker-verify-qcsup-67ce7e1d)
+
+Narrowly scoped quote verification (does NOT resolve the flags; the "Reopened for
+QC: milestone QC round 3: evidence scoping repairs" markers on D014/D056/D061/B081
+remain open pending per-item source verification):
+
+- D014 (Preserve your childlike vitality): four Legge excerpts (DDJ 55 opener, 55
+  infant passage, 10 breath passage, 28 simple-child line) verified VERBATIM against
+  a fresh fetch of https://www.gutenberg.org/cache/epub/216/pg216.txt.
+- D056 (Follow the natural grain): four Legge Cook Ding excerpts (Zhuangzi 3)
+  verified VERBATIM against a fresh fetch of the ETH Zurich Legge PDF
+  (metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf).
+- D061 (Act before things arise): two Legge DDJ 64 excerpts verified VERBATIM
+  against the same Gutenberg pg216 fetch.
+- B081: the SN 46.53 AccessToInsight excerpt verified VERBATIM earlier this session.
+- B140: the Seung Sahn quote (Kwan Um Compass of Zen) and the Terebess Clarke
+  Xinxin Ming excerpt verified VERBATIM earlier this session.
+- P182: the James 'strong feeling about one's self' excerpt verified VERBATIM
+  against Gutenberg #16287 earlier this session.
+
+Scope: quotation fidelity only. No claim is made that any flagged defect is resolved.
