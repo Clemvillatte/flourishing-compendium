@@ -16,7 +16,7 @@ The biopsychosocial model is George Engel's 1977 proposal for medicine: a model 
 
 ### What it argues against
 
-The paper diagnoses the biomedical model as "embrac[ing] both reductionism... and mind-body dualism", and requiring "that disease be dealt with as an entity independent of social behavior". The boundaries between health and disease, Engel writes, "are far from clear and never will be clear, for they are diffused by cultural, social, and psychological considerations".
+The paper diagnoses the biomedical model as embracing both reductionism and mind-body dualism, and requiring "that disease be dealt with as an entity independent of social behavior". The boundaries between health and disease, Engel writes, "are far from clear and never will be clear, for they are diffused by cultural, social, and psychological considerations".
 
 ### In the compendium
 
@@ -35,7 +35,6 @@ The paper diagnoses the biomedical model as "embrac[ing] both reductionism... an
 ## Sources
 
 - Engel, 1977
-- **Social-ecological biopsychosocial model** — biopsychosocial factors act across nested social-ecological levels, from cells to society.
 - [Engel, "The Need for a New Medical Model: A Challenge for Biomedicine", Science 196:129-136 (1977), reprint PDF (University of Rochester)](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/medical-humanities/documents/Engle-Challenge-to-Biomedicine-Biopsychosicial-Model.pdf) — the summary passage, the reductionism/dualism diagnosis, and the health-disease boundaries passage
 
 ## Field
@@ -48,6 +47,8 @@ Quantitative General · Psychological science
 - [[R037 — Practise Te Whare Tapa Whā]]
 
 ## Cited in philosophy parallels
+
+Social-ecological biopsychosocial model — biopsychosocial factors act across nested social-ecological levels, from cells to society.
 
 - [[SO002 — Treat the person as embedded in nested systems]]
 - [[R037 — Practise Te Whare Tapa Whā]]

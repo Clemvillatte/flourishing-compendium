@@ -19,3 +19,12 @@ Milestone QC (items 6-11, advisor 2026-10-21) — repairs applied:
 - The rhythm of breath: reverted to NOT-done pending supervisor namespace disposition (coined title; content factual and pushed). QC disposition recorded here and in the batch flagged dict.
 
 Items 12-14 evidence notes appended per item below.
+
+Items 12-14 evidence notes (final QC pass):
+12. Biopsychosocial model — opened: URMC reprint PDF of Engel 1977 (Science 196:129-136), downloaded + pdftotext. Quotes: summary passage, reductionism/dualism diagnosis, "entity independent of social behavior", health-disease boundaries. QC repair: "the patient, the social context" claim verified present in opened PDF (Engel 1977, near "must also take into account"); bracket-verb fixed; bold Social-ecological line moved out of Sources into its original parallels section.
+13. Building on foundation — opened: MIT Classics NE Book II (Ross). Quote: builders-and-lyreplayers passage, verbatim. QC outcome: NOT counted done — coined title (Category C candidate); page factual and pushed; supervisor disposition requested.
+14. Cognitive distortions research — opened: PMC5763391 (Panourgia & Comoretto 2017). Quote: seven-types passage (summarizing Beck et al. 1979) + Beck 1976 roots sentence. QC repairs: attribution to the summarizing authors; "and anxiety"/"tested" claims trimmed.
+
+Amour-propre QC repair: amour-propre/amour de soi mapping established via Wikipedia "Amour de soi" (fetched); Discourse locator corrected to Second Part (verified against Gutenberg #11136 heading structure); Foxley rendering stated transparently.
+
+Band closeout: all 17 w1k manifest items handled — 13 done (one of which, Transfer of training, was already at bar from a prior session), 3 flagged pending supervisor disposition (The strong claim of the loud voice; The rhythm of breath; Building on foundation — all coined-title Category C candidates whose factual content was nevertheless written from verified quotes and pushed), 1 noted-only (The insatiability of desire — enriched, note-only flag). Remaining "2" in raw counts = the two unresolvable coined-title items awaiting disposition.

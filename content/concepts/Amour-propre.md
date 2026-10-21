@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Rousseau, Discourse on the Origin of Inequality), the comparative self-love that inflames envy.
 
-Amour-propre is the wiki's label for Rousseau's comparative, social form of self-regard: the self seen through others' eyes, needing to be preferred. Émile draws the line against plain self-love, and the passage makes the mechanism explicit; in Foxley's translation the comparative passion is rendered "selfishness".
+Amour-propre is the wiki's label for Rousseau's comparative, social form of self-regard: the self seen through others' eyes, needing to be preferred. The term's contrast, amour de soi, is self-love proper; Wikipedia's summary of the pair: amour-propre is "that kind of self-love" "in which one's opinion of oneself is dependent on what other people think and which arises only with society" ([Wikipedia, Amour de soi](https://en.wikipedia.org/wiki/Amour_de_soi)). Émile draws the line against plain self-love, and the passage makes the mechanism explicit; in Foxley's translation the comparative passion is rendered "selfishness".
 
 > "Self-love, which concerns itself only with ourselves, is content to satisfy our own needs; but selfishness, which is always comparing self with others, is never satisfied and never can be; for this feeling, which prefers ourselves to others, requires that they should prefer us to themselves, which is impossible." (Rousseau, [Émile, Book IV, Foxley translation](https://www.gutenberg.org/ebooks/5427))
 
@@ -32,7 +32,8 @@ The Discourse on the Origin of Inequality stages the arrival: people begin to "s
 
 - Rousseau, Discourse on the Origin of Inequality
 - [Rousseau, Émile (Foxley translation), Project Gutenberg #5427](https://www.gutenberg.org/ebooks/5427) — the self-love versus comparative selfishness passage, Book IV
-- [Rousseau, A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind, Project Gutenberg #11136](https://www.gutenberg.org/ebooks/11136) — the vanity/contempt versus envy/shame passage, Part I
+- [Wikipedia, "Amour de soi"](https://en.wikipedia.org/wiki/Amour_de_soi) — the amour-propre versus amour de soi contrast
+- [Rousseau, A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind, Project Gutenberg #11136](https://www.gutenberg.org/ebooks/11136) — the vanity/contempt versus envy/shame passage, Second Part
 
 ## Cited in philosophy parallels
 

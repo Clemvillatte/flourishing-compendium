@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Building on foundation” — Aristotle; Aristotle, Nicomachean Ethics II.
 
-Building on foundation is the page label for Aristotle's account of how virtue is built: not by insight alone, but by repeated acts that lay down the capacity the acts express. The Nicomachean Ethics II.1 passage gives the building image literally.
+Building on foundation is the page label for Aristotle's account of how virtue is built: by repeated acts that lay down the capacity the acts express. The Nicomachean Ethics II.1 passage gives the building image literally.
 
 > "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyreplayers by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts." (Aristotle, [Nicomachean Ethics II.1, Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html))
 
 ### What the foundation is
 
-The passage's surrounding claim is that "we are adapted by nature to receive them, and are made perfect by habit". The foundation is not a feeling or a decision; it is the exercised capacity itself, the same structure Aristotle gives the arts.
+The passage's surrounding claim is that "we are adapted by nature to receive them, and are made perfect by habit". The foundation is the exercised capacity itself, the same structure Aristotle gives the arts.
 
 ### In the compendium
 
