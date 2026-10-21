@@ -14,3 +14,9 @@
 - Dropped unsourced claims: "Treating them as disordered creates unnecessary suffering" / "does harm"; "misdiagnosis and pathologisation ... common and harmful (Kerns 2015)". Kerns 2015 and Bellis 2018 not opened; kept as bare reference in the first parallels bullet, claims removed. Singer/Zhuangzi philosophy parallels untouched, unopened.
 - Limits written on page: Sasson covers autism only (not ADHD); the title's "not disordered" is flagged as a disputed framing.
 - For example rebuilt from the old (unsourced) flat-affect example, labelled imagined, linked to the transcript result.
+
+## AT040 — Recognise the restorative power of awe
+- Sources opened (fetched): PubMed abstract Piff et al. 2015 (JPSP 108(6)); PubMed abstract Sturm et al. 2022 (Emotion 22(5)) plus eScholarship full-text snippets via search. Raw eScholarship PDF download was blocked (empty), so quotes come from fetched abstract text only.
+- Quotes: Piff definition; "a diminishment of the individual self and its concerns"; "in part, by feelings of a small self"; Sturm "anxiety, depression, and life satisfaction did not change from baseline in either group" (abstract: "Postintervention anxiety, ... did not change from baseline in either group"; quoted lower-case fragment).
+- Correction of seed: seed said awe walks "reduce depressive symptoms" — contradicted by Sturm; replaced. Anderson 2025 and Stellar 2018 unopened; removed from parallels. Title's "expands attention" flagged on page as not tested in these abstracts.
+- Example relabelled imagined.
