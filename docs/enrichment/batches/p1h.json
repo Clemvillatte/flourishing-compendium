@@ -65,9 +65,9 @@
  "in_progress": null,
  "flagged": {
   "D007": "inherited psych claims (Peng/Nisbett, Spencer-Rodgers) not verified; preserved per protocol",
-  "D014": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
+  "D014": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 13, source-verified): D014 page text read in full; the round-3/4 repairs are applied (infant-mechanism claim removed; Plain words is a fresh re-derivation about explore-and-leave-unfinished, not a replicate); all four Legge quotes (DDJ 55, 55, 10, 28) verified VERBATIM against a fresh fetch of Gutenberg pg216.txt. [orig: Reopened for QC: milestone QC round 3: evidence scoping repairs]",
   "D056": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
-  "D061": "Reopened for QC: milestone QC round 3: evidence scoping repairs",
+  "D061": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 13, source-verified): D061 page text read in full; the round-3 repair is applied (psychology parallels scoped to neutral bullets); both Legge DDJ 64 quotes verified VERBATIM against a fresh fetch of Gutenberg pg216.txt (the actual cited source). [orig: Reopened for QC: milestone QC round 3: evidence scoping repairs]",
   "B027": "Baer 2006 psychology-parallel correction applied per supervisor QC 2026-10-19 (facet validation, differential correlations, incremental symptom prediction, PubMed URL)",
   "B081": "Reopened for QC: Milestone QC: unsupported physiology/effort claims",
   "B112": "Reopened for QC: repair: Psychology parallels reliably-raise-well-being claim",
@@ -111,6 +111,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 15,
- "updated": "2026-10-21T15:05:00+00:00",
+ "updated": "2026-10-21T15:35:00+00:00",
  "band_done": true
 }
