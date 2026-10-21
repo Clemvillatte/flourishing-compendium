@@ -17,3 +17,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Independent milestone advisor confirmed the missing VII.10 locator. Added it at the criminal/city passage, in the parenthetical and in Sources.
 - Plain words now distinguishes choices and judgements without calling a person a rotten character; the historical medical analogies are not presented as clinical diagnoses.
 - The workplace scenario is explicitly an imagined analogy. Protected content and inherited parallels preserved.
+
+## A107
+
+- Searched Aristotle's educational aims; opened [NE X.9](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html), [Politics I.2](https://classics.mit.edu/Aristotle/politics.1.one.html) and [Politics VIII.1–3](https://classics.mit.edu/Aristotle/politics.8.eight.html).
+- Independent milestone advisor confirmed the prior Plain words left the aims too open. The rewrite distinguishes reported disagreement from Aristotle's public-education, virtue and leisure commitments, while retaining the open question about the precise liberal curriculum.
+- Replaced the silently corrected `No ne` transcription with a clean, complete, verbatim VIII.1 sentence about training and habituation. Checked every retained quotation fragment.
+- Removed an unsupported assertion about what most modern readers want. The contemporary reflection and parent-teacher example remain clearly separate from historical reporting.
