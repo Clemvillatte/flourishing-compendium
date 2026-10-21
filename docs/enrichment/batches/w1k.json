@@ -52,7 +52,8 @@
   "The free market of ideas",
   "The free spirit",
   "The golden rule",
-  "The hermeneutic circle"
+  "The hermeneutic circle",
+  "The relaxation response"
  ],
  "in_progress": null,
  "flagged": {
@@ -95,10 +96,11 @@
   "The free market of ideas": "label is later shorthand (Holmes 1919 free trade in ideas); Milton text has no market metaphor; page states this",
   "The free spirit": "enriched from Preface only (Harvey trans.); main aphorisms not read; page states this",
   "The golden rule": "facet inverted for Hillel not supported: both Analects and Hillel are negative formulations; Analects saying possibly interpolation per Brooks; page states this",
-  "The hermeneutic circle": "Truth and Method and Being and Time not opened; enriched from SEP Hermeneutics; page states this"
+  "The hermeneutic circle": "Truth and Method and Being and Time not opened; enriched from SEP Hermeneutics; page states this",
+  "The relaxation response": "seed dates 1975 (book); 1974 Psychiatry paper exists; book not opened; D/B links are compendium analogies"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:39:31+00:00",
+ "updated": "2026-10-21T08:40:13+00:00",
  "band_done": false
 }
