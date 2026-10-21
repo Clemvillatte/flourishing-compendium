@@ -70,3 +70,7 @@ Who-is-guiding citation for Yongey Mingyur Rinpoche now links to the Tergar bio 
 ### KRISTIN NEFF BIO CITATION FIXED
 
 Who-is-guiding citation for Kristin Neff now links to her bio (https://self-compassion.org/kristin-neff/, verified unprompted): created the scale that first measured self-compassion, co-developed Mindful Self-Compassion with Chris Germer. Previously the citation pointed at a YouTube video.
+
+### KELTNER BIO CITATION FIXED
+
+Dacher Keltner citation now links to his Greater Good profile (https://greatergood.berkeley.edu/profile/dacher_keltner, verified: founding director of the Greater Good Science Center and professor of psychology at UC Berkeley). Eve Ekman's link now names the Greater Good in Action program it points to. Andrew Huberman's Stanford page was attempted (med.stanford.edu/hubermanlab) but blocked from fetching — his citation remains on the YouTube recording link, flagged for the next worker.
