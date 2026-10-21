@@ -25,25 +25,32 @@
   near-duplicates (supervisor recommendation recorded on the TASKBOARD), w1e/w1g/w1l/w1c
   namespace holds; (5) replenish reserves as claimed (p1zzb/p1zzc + p1zz OPEN now). Git
   remote sanitized (token out of repo config).
-- WORKER CHECKPOINT p1zzb (2026-10-21 ~02:15Z, worker-p1zzb-6d4f8a91, session ending at the
-  user's T+60 timebox): 5 items done this session, all pushed (SO045 with first-item QC
-  closed after one fail->repair->scoped-pass round; SO052, SO054, SO058, SO060). Every
-  item carries verbatim quotes from sources actually opened (Tajfel & Turner 1979 via the
-  alnap PDF, layout- and page-specific extraction, pp. 39-41; Muldoon et al. 2019 via the
-  abiireland PDF; Bandura 2000 via the archived PDF; Hipp & Wo 2015 IESBS chapter PDF;
-  Kraus et al. 2012, Adler & Stewart 2010, Walton & Cohen 2011, Yeager et al. 2019,
-  Verduyn et al. 2015, Valkenburg 2022 all via PubMed E-utilities efetch abstracts).
-  Over-scoped inherited claims reduced in SO052 (health/well-being), SO054 (education/
-  opportunity/culture), SO060 (active-use benefit presented as settled). Per-item ledgers
-  at docs/enrichment/sources/p1zzb/. Proposals p1zzb.json rev 2: two reciprocals pending
-  integration (Social identity theory <- SO045; Growth mindset <- SO058). IMPORTANT OPEN
-  ITEM: the item-5 milestone advisor QC (SO052/SO054/SO058/SO060 batch) is DUE and NOT
-  run (timebox hit) — next worker or supervisor should run it first. Also routed: the SO
-  reference appendix lists Kraus et al. (2012) as JPSP 102(2) 291-303 (wrong; actual:
-  Psych Rev 119(3) 546-572) — supervisor disposition needed (not this band's file).
-  EXACT NEXT ACTION for the next worker: run the milestone QC, then
+- WORKER CHECKPOINT p1zzb (2026-10-21 01:47Z, worker-p1zzb-6d4f8a91, baton HELD, session
+  continuing inside the user's T+60 timebox; first explicit clock reading this session
+  was 01:34:37Z, so 02:34:37Z is only a conservative report-not-before point): 5 items
+  done this session, all pushed (SO045 with first-item QC closed after one
+  fail->repair->scoped-pass round; SO052, SO054, SO058, SO060). Milestone QC for
+  items 2-5 is IN FLIGHT: advisor round 1 FAIL (repairs applied), round 2 verdict —
+  SO054 scoped PASS, SO052/SO058/SO060 narrow repairs applied and pushed (commit
+  7878529b3, all four validated vs baseline 2eb608e4a); round 3 (diffs-only) pending.
+  Every item carries verbatim quotes from sources actually opened (Tajfel & Turner
+  1979 via the alnap PDF, layout- and page-specific extraction, pp. 39-41; Muldoon et
+  al. 2019 via the abiireland PDF; Bandura 2000 via the archived PDF; Hipp & Wo 2015
+  IESBS chapter PDF with quotes verified at printed p. 169; Kraus et al. 2012, Adler &
+  Stewart 2010, Walton & Cohen 2011, Yeager et al. 2019, Verduyn et al. 2015,
+  Valkenburg 2022 all via PubMed E-utilities efetch abstracts). Over-scoped inherited
+  claims reduced in SO052 (health/well-being), SO054 (education/opportunity/culture),
+  SO060 (active-use benefit presented as settled). Per-item ledgers at
+  docs/enrichment/sources/p1zzb/. Proposals p1zzb.json rev 3: two reciprocals pending
+  integration (Social identity theory <- SO045; Growth mindset <- SO058). Inherited
+  claim-bearing material on SO052/SO054/SO058/SO060 (Practice lines incl. SO052
+  "achievable wins", Philosophy-parallels, EEMM) is formally FLAGGED in the band
+  state machine for supervisor disposition. Also routed: the SO reference appendix
+  lists Kraus et al. (2012) as JPSP 102(2) 291-303 (wrong; actual: Psych Rev 119(3)
+  546-572) — supervisor disposition needed (not this band's file). EXACT NEXT ACTION
+  for the next worker: finish the milestone QC round-3 verdict if not recorded, then
   `python3 scripts/enrich_state.py p1zzb start SO073` and read the file. Remaining
-  manifest order: SO073, SP005. Batons (p1zzb) RELEASED at this checkpoint.
+  manifest order: SO073, SP005.
 - WORKER CHECKPOINT p1zza (2026-10-21 ~14:4xZ, worker-p1zza-d1c4f2a9 = supervisor-d1c4f2a9,
   session ending): 1/30 done. M025 completed this pass with the secure-base grounding (Waters
   & Cummings SUNY reprint opened raw; Bowlby 1988 p. 62 quotation via the disclosed Seba
