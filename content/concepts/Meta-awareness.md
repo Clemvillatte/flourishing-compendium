@@ -21,8 +21,9 @@ knowing what one is experiencing while experiencing it (Schooler et al., 2011).
 
 ## Related concepts
 
-- [[Mind wandering]] — thought about something other than the current activity, which noticing can catch
 
+- [[Mind wandering]] — thought about something other than the current activity, which noticing can catch
+- [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 ## Sources
 
 - Schooler et al., 2011

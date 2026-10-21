@@ -34,6 +34,8 @@ Martin Hoffman's developmental account treats empathic responses as a continuum 
 
 
 
+
+
 - [[Four immeasurables]] — the psychological cousin of the compassionate stance
 - [[Moral identity]] — the other-oriented capacity the moral self draws on
 - [[Narcissism versus healthy self-regard]] — the capacity whose absence marks the narcissistic side
@@ -44,6 +46,8 @@ Martin Hoffman's developmental account treats empathic responses as a continuum 
 - [[Sympathy]] — the care-for-another state the SEP distinguishes from congruent feeling
 - [[Perspective-taking]] — the cognitive route into another's situation
 - [[Empathic understanding]] — Rogers's disciplined accuracy about another's frame of reference
+- [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
+- [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 ## Sources
 - [Karsten R. Stueber, "Empathy", Stanford Encyclopedia of Philosophy (2024)](https://plato.stanford.edu/entries/empathy/) — definition, history of the term, contagion/sympathy distinctions, Hoffman and Batson, in-group bias and moral-insufficiency assessment
 
