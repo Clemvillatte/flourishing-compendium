@@ -32,3 +32,5 @@
 - Opened (search excerpts): Firth 2019 abstract; SMILES abstract (PubMed/BMC Med); Jacka reply (PubMed 30591059); Think Through Nutrition (secondary, fish oil). Seed's Sarris 2015, Lopresti 2013 not opened; "patterns beat nutrients" unconfirmed. Takeaway anecdote dropped.
 ## PP077 — limit alcohol and substance use
 - Opened (search excerpts): Koob & Volkow 2016 abstract; Alcohol and sleep I (PubMed); controlled-drinking vs abstinence review (Wiley, authors/journal not seen); PMC8858850. Seed's "abstinence may be the only workable option" is contradicted by the review: flagged and rephrased. Grant 2015 not opened. No source found for relationship/cognition costs. Anecdote dropped.
+## PP078 — connect to the natural world
+- Opened (search excerpts): Bratman 2015 abstract; Ohly 2016 abstract; White 2019 abstract. Seed claims "urban green space / street tree produce measurable benefits", "lowers stress physiology" and soft fascination (Kaplan) not verified; second study unnamed. 20-min park walk anecdote replaced with the 90-min design actually tested.
