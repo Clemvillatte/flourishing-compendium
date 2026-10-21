@@ -49,6 +49,15 @@ K378/K379/K382/K384/K406 compassion kernels, K200/K201/K203/K206 body kernels, K
 (CCT), mindful eating, six healing sounds, microcosmic orbit (evidence permitting). Per-item ledger:
 docs/enrichment/sources/kpr/ledger.md; state: batches/kpr.json (enrich_state.py).
 
+Worker note update 2 (2026-10-21, worker-kpr-special-contemplative): owner directive on videos — guided video links
+must come from trustworthy, high-quality sources, ideally a playlist or a channel/site offering many quality videos
+(e.g. Huberman Lab, Headspace, Tara Brach, Center for Mindful Self-Compassion, Pennebaker himself, official
+organisations); a website is acceptable when more relevant than a video. Applied to K411 and K412 picks. Some earlier
+kpr picks are smaller channels (Draw Breath, Declutter The Mind, FitMind, Naomi Goodlet, BE Light TT, The Zen Social
+Worker, Boundless Love Project, Embodied Mindfulness) — all verified genuine guided practices with transcripts, but
+flagged for upgrade to authoritative sources in a later QC pass. K411 Zuowang + K412 Inner Smile created; 21 kernels
+now done in this session.
+
 ## How to claim
 
 Supervisor note (2026-10-20, supervisor-3ef4f549): OPEN principle reserves are now p1zzb
