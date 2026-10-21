@@ -730,7 +730,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-026": {
+   "status": "ready",
+   "angle": "P026: Darwin, Lyell, Wallace letters June 1858 (Darwin Correspondence Project)",
+   "history": [
+    {
+     "t": "2026-10-21T12:42:11+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:42:11+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:42:11+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes checked vs fetched letter text; two lines from project pages"
+    },
+    {
+     "t": "2026-10-21T12:42:11+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:41:05+00:00"
+ "updated": "2026-10-21T12:42:11+00:00"
 }

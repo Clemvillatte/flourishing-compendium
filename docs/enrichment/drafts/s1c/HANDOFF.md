@@ -31,5 +31,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-023 | A Ghost Story Passes Through Nine Cambridge Heads (Bartlett 1920) | P098 | ready; 1932 book not opened |
 | s1c-024 | Feynman and the Wobbling Plate (Surely You're Joking; AJP 2007 abstract) | P053, P120 | ready; AJP paper itself not opened |
 | s1c-025 | Ji Xingzi Trains a Fighting Cock (Zhuangzi 19; Legge, Giles) | D183, D070 | ready |
+| s1c-026 | Darwin Asks Lyell Whether He Can Publish Honourably (DCP letters 2285, 2294, 2299) | P026 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
