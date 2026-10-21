@@ -586,3 +586,16 @@
 - Taper item. Normal validator: ok. State recorded (done count 42).
   - Repair: staging pattern "not simply pain but" reworded; page now
     passes normal validator.
+
+## Item 45: Servant leadership (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Greenleaf 1977 / Servant Leadership / Liden et al. 2008 (one
+  line). Seed citation lines kept; Liden noted as unopened empirical
+  tradition.
+- Carrier opened: Greenleaf Center "What is Servant Leadership?" page
+  (first-party). Verified verbatim: the servant-first definition, the
+  best-test passage, and the 1970 essay coinage sentence.
+- "Two extreme types" phrase quoted from essay via search snippets of
+  the same passage; core quotes verified on fetched page.
+- Taper item. Related links confirmed existing. Normal validator: ok.
+  State recorded (done count 43).
