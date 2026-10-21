@@ -30,7 +30,8 @@
   "Ahimsa",
   "Allostasis theory",
   "Amour de soi",
-  "Anger management"
+  "Anger management",
+  "Antifragility"
  ],
  "in_progress": null,
  "flagged": {
@@ -72,6 +73,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:46:49+00:00",
+ "updated": "2026-10-21T13:47:39+00:00",
  "band_done": false
 }
