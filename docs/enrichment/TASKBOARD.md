@@ -2232,3 +2232,8 @@ Verification pass 102 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reache
 - A017 (NE IV.5 Ross), A019 (NE IV.7 Ross), A020 (NE IV.8 Ross, both quotes): all match the already-downloaded MIT Classics Book IV page verbatim.
 - A018 (NE IV.6 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
 RUNNING TOTAL: 330 page-checks across 102 verification passes.
+
+Verification pass 103 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reached.
+- A021 (NE IV.9 Ross), A022 (NE II.7 Ross), A023 (NE V Ross): all three quotes match the already-downloaded MIT Classics pages (Books IV, II, and the freshly downloaded Book V) verbatim.
+- A024 (NE IV.1, Boston University hosting): the BU carrier was not fetched this session; not reached.
+RUNNING TOTAL: 333 page-checks across 103 verification passes.
