@@ -12,13 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 10** — Treat pain by its duration curve
 
-The Epicurean analysis of suffering: intense pain is brief, and chronic pain is mild, and the two rarely coexist at their worst; the fear of pain is usually worse than the pain's own arithmetic. (This is the tradition's doctrine, offered as a recollection practice; it is not a medical fact, and severe chronic pain deserves care rather than doctrine.) The practice is the deliberate questioning of the pain's curve (how long, how intense, in what direction) rather than the global dread of "pain" as a category. Practically, in the next illness or injury, write down the actual curve (intensity by hour), and compare it with the dread's forecast.
+Epicurus makes a claim about the shape of bodily pain, and it is a claim a person can check against their own experience. In Principal Doctrine 4 the sharp and the long-lasting kinds are separated by time:
 
-(Principal Doctrines 4 and the pain-limit doctrines.)
+> Continuous pain does not last long in the flesh, and pain, if extreme, is present a very short time, and even that degree of pain which barely outweighs pleasure in the flesh does not occur for many days together. Illnesses of long duration even permit of an excess of pleasure over pain in the flesh.
+>
+> (Principal Doctrines 4, Hicks, [Lexundria](https://lexundria.com/epic_kd/4/cf).)
 
-**Plain words** Pain has a shape: the intense kind is usually short, the long kind is usually mild, and the dread of "pain" as one big category is almost always worse than the arithmetic. Next time you're ill or hurt, write the actual curve — how bad, for how long — and compare it with the forecast. (A practice, not a medical claim; real chronic pain needs care.)
+The Vatican Sayings give it as a rule of thumb: "All bodily suffering is negligible; for that which causes acute pain has short duration, and that which endures long in the flesh causes but mild pain" (VS 4, Bailey, [Epicurean Friends](https://www.epicureanfriends.com/wcf/vatican-list-of-sayings/)). The Letter to Menoeceus carries it into the fourth line of the cure: the wise person understands "how either the duration or the intensity of evils is but slight" (Menoeceus 133, Hicks, [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0258:book=10:chapter=1)).
 
-*For example:* Someone dreads a dental procedure for two weeks, then times it: eleven minutes, four of them genuinely bad. The dread ran 672 hours; the pain ran four.
+### What the claim does and does not say
+
+Epicurus offers it as an observation, with no data. It is a doctrine from a school of philosophy, not a medical finding, and it should not be read as a promise to anyone in severe chronic pain, who needs care rather than a doctrine.
+
+**Plain words**
+Pain has two dials, how strong and how long. Epicurus says the two dials rarely sit at the top together: when it is fierce it usually ends soon, and when it lingers it has usually eased. Dread skips the dials and pictures one big, endless thing called pain. Drawing the actual curve puts the two dials back.
+
+**For example**
+Before a scheduled procedure, write two lines: how strong you expect the pain to get on a 0 to 10 scale, and for how long. Afterwards, write the real figures beside them. The gap between the forecast and the record is your own data, and it tells you how much of the dread was arithmetic and how much was picture.
+
+## Sources
+
+- [Principal Doctrines 4, Hicks translation, Lexundria](https://lexundria.com/epic_kd/4/cf)
+- [Vatican Sayings, Bailey translation, Epicurean Friends](https://www.epicureanfriends.com/wcf/vatican-list-of-sayings/) — VS 4
+- [Diogenes Laertius X, Hicks translation, Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0258:book=10:chapter=1) — Letter to Menoeceus 133
+
 ## Psychology parallels
 
 - **[[Affective forecasting|Affective forecasting errors]]**, the robust finding that people overestimate the intensity and duration of future pain (Wilson and Gilbert's impact-bias research, as the modern cousin)
