@@ -16,7 +16,7 @@ The research behind this principle is Eyal, Steffel and Epley (2018). They repor
 
 Why guessing fails: Epley and colleagues propose that people "adopt others' perspectives by serially adjusting from their own", and that "adjustments tend to be insufficient" because people stop once a plausible estimate is reached ([Epley et al. 2004](https://pubmed.ncbi.nlm.nih.gov/15382983/)). Kruger and colleagues found that e-mail senders overestimate how well their tone is understood, and attribute this to egocentrism ([Kruger et al. 2005](https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf)).
 
-The earlier page also said the practice "reduces conflict" and "improves relationship quality". None of the opened sources tested that, so those claims are removed. Epley 2004 is about guessing, not about asking, so it supports the problem and not the remedy.
+The studies cited here do not test whether the practice "reduces conflict" or "improves relationship quality". Epley 2004 is about guessing, not about asking, so it supports the problem and not the remedy.
 
 **Plain words** Imagining what someone thinks is a weaker route to understanding them than asking them. In 25 experiments, imagining did not make people more accurate, and asking did.
 

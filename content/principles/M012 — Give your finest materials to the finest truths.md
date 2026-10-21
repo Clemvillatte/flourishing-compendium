@@ -16,7 +16,7 @@ Nahua poets set the most precious materials beside the most serious questions. I
 
 Precious materials stood for something specific. Maffie's account in the Internet Encyclopedia of Philosophy says Nahua education aimed at "a wise face and a strong, humanized heart", and that people with such a heart were likened "to well-formed quetzal plumage, jade, and turquoise", because these objects "faithfully and authentically present teotl's balance-and-purity". On this account, beauty, goodness and truth are not separated: what is "aesthetically valuable (or beautiful)" is "also morally valuable and epistemologically valuable (and conversely)". (Maffie, [Aztec Philosophy](https://iep.utm.edu/aztec-philosophy/)).
 
-An earlier version of this page claimed the songs rank speech from jade and quetzal feathers (true) down to withered flowers and broken jade (false). The opened texts contain no such ranking, so it is dropped. Reading the principle as a rule about where to spend your best effort is an interpretation, not a claim from the songs.
+The songs do not rank speech from jade and quetzal feathers (true) down to withered flowers and broken jade (false); no such ranking appears in the texts cited here. Reading the principle as a rule about where to spend your best effort is an interpretation, not a claim from the songs.
 
 **Plain words**
 Nahua poets used jade, gold and quetzal feathers as images of what is rare and real, and they also said that even these things break and wear away. The modern application is a practical question about your own effort: are you spending your best care on what matters most to you?

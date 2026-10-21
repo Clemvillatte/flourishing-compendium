@@ -16,7 +16,7 @@ Two kinds of school are described in Sahagún's Florentine Codex: the calmecac, 
 
 The Codex passages quoted by Fitzgerald show how that was done. In the calmecac, pupils were "carefully… taught [by the priests] the songs which they called the god's songs", and "well were all taught the reckoning of the days, the book of dreams, and the book of years" (Book III, p. 65). They also practised penance: "they fasted for the space of five nights—not by day but by night" (Book III, p. 193). In the telpochcalli account, a speech in the Codex runs: "Let us instruct children; let us educate children. Let the word, the statement, motherhood, fatherhood come forth" (Book III, p. 51).
 
-The opened sources do not list the specific virtues "moderation, self-control, service and craft", so that list is dropped here.
+The Nahua sources cited here do not attach a fixed list of virtues such as "moderation, self-control, service and craft" to this schooling.
 
 **Plain words**
 Nahua schools were built around forming a person's character as well as teaching skills: songs, calendars, penance and discipline in the calmecac, and community work and training in the telpochcalli. Their stated aim was a wise face and a strong heart. You can borrow the idea without the institutions. Write down what you are practising, who you are learning from and what you are making, and treat that page as your syllabus.

@@ -21,7 +21,7 @@ Afterwards "everyone renewed his clothing and all the household goods". "Thus it
 
 The Codex does not say this improved anyone's wellbeing, and the cycle was 52 years, not one. A yearly rhythm is an adaptation.
 
-Across three archival studies, Google searches for "diet", gym visits and goal commitments "all increase following temporal landmarks (e.g., the outset of a new week, month, year, or semester; a birthday; a holiday)" (Dai, Milkman and Riis 2014, Management Science 60(10):2563-2582, [abstract](https://pubsonline.informs.org/doi/10.1287/mnsc.2014.1901)). A later paper found that a landmark still ahead can lower effort on a current goal ([Dai et al. 2020](https://ideas.repec.org/a/eee/jobhdp/v161y2020icp142-157.html)). No opened study tests a ceremony of ending things.
+Across three archival studies, Google searches for "diet", gym visits and goal commitments "all increase following temporal landmarks (e.g., the outset of a new week, month, year, or semester; a birthday; a holiday)" (Dai, Milkman and Riis 2014, Management Science 60(10):2563-2582, [abstract](https://pubsonline.informs.org/doi/10.1287/mnsc.2014.1901)). A later paper found that a landmark still ahead can lower effort on a current goal ([Dai et al. 2020](https://ideas.repec.org/a/eee/jobhdp/v161y2020icp142-157.html)). No study cited here tests a ceremony of ending things.
 
 **Plain words** Every so often, end something on purpose. Close the old commitment, clear out what has piled up, then start the replacement as a fresh decision. Do not wait for it to fall apart.
 
