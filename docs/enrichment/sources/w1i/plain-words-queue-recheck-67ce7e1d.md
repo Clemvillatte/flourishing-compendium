@@ -16,8 +16,12 @@ detector re-run is still needed):
   official detector re-run before anyone edits it.
 - Y068: proposal prepared (Y068-plainwords-repair-proposal-67ce7e1d.md) based on the official
   42% score; my parser could not independently confirm (marker mismatch).
+- M045: 45% on my re-check (listed 41%) — repair proposal prepared
+  (M045-plainwords-repair-proposal-67ce7e1d.md).
+- S118 and Y071: 0% on direct re-check (listed 39%/41%) — appear clean on reading; recommend the
+  official detector re-run before anyone edits them.
 - All other entries: parser failure ("no-sections") — no conclusion from this pass.
 
 Supervisor action suggested: re-run the official detector to refresh the list (several entries
-may be stale or changed), and mint an owner band (or apply the four proposals) for the
+may be stale or changed), and mint an owner band (or apply the five proposals) for the
 unowned entries P191, B040, Y068, M055.

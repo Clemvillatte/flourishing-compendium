@@ -19,9 +19,9 @@ contact hypothesis recorded done by a predecessor; 71 done entries). QC debt wor
 System justification theory re-review CLOSED (read-only; all quotes + three claims verified
 against the re-opened 2004 review); items-16-20 milestone verification recorded (scoped PASS +
 repair-presence checks passed; Identity development locator FIXED on the page — the quote is the
-main text's second sentence, not its opening). Four plain-words repair proposals preserved for
-unowned entries (P191, B040, Y068, M055 — all verified no-owner across batches/ AND bands/),
-plus a queue re-check report: M055 worse than listed (60%), Y081 appears clean on direct read.
+main text's second sentence, not its opening). Five plain-words repair proposals preserved for
+unowned entries (P191, B040, Y068, M055, M045 — all verified no-owner across batches/ AND bands/),
+plus a queue re-check report: M055 worse than listed (60%), Y081, S118 and Y071 appear clean on direct read.
 Official detector re-run + owner minting requested. Remaining known open debt: optional-gloss
 simplification (standing); w1i cross-band state entry reconciliation (standing supervisor
 request).
