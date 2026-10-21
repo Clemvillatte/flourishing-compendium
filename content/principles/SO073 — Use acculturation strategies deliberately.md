@@ -48,8 +48,8 @@ The same paper concludes that "the role of acculturation for adaptation may be l
 
 ## Philosophy parallels
 
-- Gadamer — the fusion of horizons — Thinker: Gadamer — Reference: Gadamer (1960), Part II. Stuart Hall — cultural identity as construction — Thinker: Stuart Hall — Reference: Hall (1990).
-- **Other:**, **EEMM link:** Acculturation strategy is the EEMM's context-selection at the individual level.
+- Gadamer, the fusion of horizons (Gadamer, 1960, Part II). Stuart Hall, cultural identity as construction (Hall, 1990).
+- **EEMM link:** Acculturation strategy is the EEMM's context-selection at the individual level.
 
 ## Practice
 
