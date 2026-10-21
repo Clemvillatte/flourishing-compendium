@@ -1,0 +1,30 @@
+---
+schema: 0
+id: "ST432"
+type: "story"
+title: "432.  Jim Forest Washes the Dishes"
+file: "ST432 — Jim Forest Washes the Dishes"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S02.08 — II.8 Daily Life — The Integration", "parent": ""}
+---
+
+Biographical account with primary text · Thich Nhat Hanh and Jim Forest, The Miracle of Mindfulness (the dishwashing and tangerine passages); Jim Forest's own retellings
+
+Jim Forest, an American Catholic peace activist, helped bring the book to English readers and wrote its afterword ([Jim Forest memorial page](https://jfi.ssu.ca/jim-forest)). Its most famous teaching scene is a kitchen: one evening Forest offered to wash the dishes, and Nhat Hanh answered: "There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes" ([The Miracle of Mindfulness](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)).
+
+The warning inside the second way is about the first: washing while "hurrying to get the dishes out of the way as if they were a nuisance" means "we are not alive during the time we are washing the dishes. In fact we are completely incapable of realizing the miracle of life while standing at the sink" ([The Miracle of Mindfulness](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)). The failure travels to the tea afterward, so that "we are incapable of actually living one minute of life"; Nhat Hanh's own report of the practice reads the other way: "The fact that I am standing there and washing these bowls is a wondrous reality" ([The Miracle of Mindfulness](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)).
+
+The same friend, the same lesson, a different fruit. Traveling together in the United States, they sat under a tree and shared a tangerine; Forest, absorbed in future plans, "popped a section of tangerine in his mouth and, before he had begun chewing it, had another slice ready to pop into his mouth again", and "He was hardly aware he was eating a tangerine". The correction was one sentence: "You ought to eat the tangerine section you've already taken". If he was eating anything, Nhat Hanh says, "he was \"eating\" his future plans" ([The Miracle of Mindfulness](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)).
+
+Forest later served a year in prison, 1969-70, for antiwar actions ([Jim Forest, "When America Met Thich Nhat Hanh"](https://jimandnancyforest.com/2021/12/when-america-met-thich-nhat-hanh/)), and Nhat Hanh sent him a short letter: "Do you remember the tangerine we shared when we were together? Your being there is like the tangerine. Eat it and be one with it. Tomorrow it will be no more" ([The Miracle of Mindfulness](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf)). Forest's own retelling added a correction the book does not print: he said the scene "isn't what happened", and that what actually helped was an instruction the book left out, "Wash each dish like it is the infant Christ", after which "I volunteered to do the dishes the rest of the week" ([Jim Forest memorial page](https://jfi.ssu.ca/jim-forest)).
+
+Read beside B176, the story is the principle's smallest units made flesh: a sink, one section of tangerine, a prison year. The miracle is not elsewhere; it is what is in your mouth and hands, and the test is whether you are there for it. ([B176](https://github.com/Clemvillatte/flourishing-compendium/blob/main/content/principles/B176%20%E2%80%94%20Treat%20the%20present%20moment%20as%20the%20miracle.md))
+
+**Principles:**
+- [[B176 — Treat the present moment as the miracle|B176 Treat the present moment as the miracle]]: the dishes, the tangerine and the prison letter carry the principle's training in its own scale, the ordinary act as the site of the miracle, absence at the sink as the failure, and the present treated as the whole of what there is; the walking-on-earth passage the principle body already quotes is deliberately not reused. ([The Miracle of Mindfulness](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf))
+
+## Sources
+- [Thich Nhat Hanh, The Miracle of Mindfulness — full text PDF (truthbrary.mpaq.org)](https://truthbrary.mpaq.org/BOOKS/Spirituality,%20Meditation,%20Self-finding%20%28Books%29/Zen%20Buddhism%20-%20Thich%20Nhat%20Hanh/The_Miracle_of_Mindfulness__An_Introductio_-_Thich_Nhat_Hanh.pdf): downloaded and read 2026-10-21; quotations verified against the extracted text layer.
+- [Jim Forest memorial page (jfi.ssu.ca)](https://jfi.ssu.ca/jim-forest): opened 2026-10-21; Jim Forest's own correction of the book's scene and the infant-Christ line.
+- [Jim Forest, "Learning from Thich Nhat Hanh" (2014)](https://jimandnancyforest.com/2014/01/nhat-hanh-2/) and ["When America Met Thich Nhat Hanh" (2021)](https://jimandnancyforest.com/2021/12/when-america-met-thich-nhat-hanh/): both opened 2026-10-21; the tangerine account and the 1969-70 prison year.
+- B176 definition text read in the working tree (content/principles/B176 — Treat the present moment as the miracle.md).

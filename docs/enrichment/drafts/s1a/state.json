@@ -808,9 +808,14 @@
      "t": "2026-10-21T12:32:37+00:00",
      "to": "qc_pending",
      "note": "item 4 drafted; body quotes verified vs book PDF + 3 Forest pages; checker 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:44:58+00:00",
+     "to": "published",
+     "note": "supervisor registration ST432"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:44:25+00:00"
+ "updated": "2026-10-21T12:44:58+00:00"
 }

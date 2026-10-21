@@ -32,6 +32,9 @@ The discipline that makes the claim usable is in the tea instruction: "Drink you
 
 - [Thích Nhất Hạnh, Wikiquote](https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) — The Miracle of Mindfulness (1999) quotes with page numbers
 
+## Stories
+- [[ST432 — Jim Forest Washes the Dishes|432. Jim Forest Washes the Dishes]]
+
 ## Psychology parallels
 
 - **[[Savoring|Savoring]]**, attending to and appreciating present experience (Bryant and Veroff, 2007)
