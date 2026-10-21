@@ -1089,3 +1089,9 @@ Band status: all 13 actionable manifest items handled (3 identity-held out of do
 - Person-role fit research: repairs applied (D086 clause; general vs creative self-efficacy); stays done.
 - Organismic trust: QC FAIL on overclaims + identity -> overclaims repaired, IDENTITY HOLD, out of done (merge/redirect candidate: Self-concordance theory).
 Final tally this session: 10 done, 3 identity-held (One koan, Obstruction as stimulus, One principle at a time) + Organismic trust held = 4 held, all pending supervisor disposition.
+
+### Verification pass + theory retrofit (worker-pxy2, pre-taper)
+- Neutral-prompt re-fetches (unprompted text, per advisor verification-gap note): Beck Institute Seligman Q&A PASS, DeRue & Morgeson 2007 PDF PASS, Augustine Confessions IV (Gutenberg Pusey) PASS, Jowett Republic IV 443d-e PASS - all displayed quotes match source text verbatim.
+- SEP Marcel secondary-reflection clause re-verified against opened page: supported.
+- Theory retrofit per binding EXEMPLARS.md skeleton: Operant conditioning (Skinner), Orthogonal Cultural Identification Theory (Origin / Core claims / How it explains / In everyday life sections added; example labelled illustrative scenario).
+- Ordering the soul: partial quote extended to 'concernment of man' for exactness.
