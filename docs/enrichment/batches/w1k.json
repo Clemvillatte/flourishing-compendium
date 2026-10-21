@@ -53,7 +53,8 @@
   "The free spirit",
   "The golden rule",
   "The hermeneutic circle",
-  "The relaxation response"
+  "The relaxation response",
+  "Transfer of training"
  ],
  "in_progress": null,
  "flagged": {
@@ -97,10 +98,11 @@
   "The free spirit": "enriched from Preface only (Harvey trans.); main aphorisms not read; page states this",
   "The golden rule": "facet inverted for Hillel not supported: both Analects and Hillel are negative formulations; Analects saying possibly interpolation per Brooks; page states this",
   "The hermeneutic circle": "Truth and Method and Being and Time not opened; enriched from SEP Hermeneutics; page states this",
-  "The relaxation response": "seed dates 1975 (book); 1974 Psychiatry paper exists; book not opened; D/B links are compendium analogies"
+  "The relaxation response": "seed dates 1975 (book); 1974 Psychiatry paper exists; book not opened; D/B links are compendium analogies",
+  "Transfer of training": "enriched from Barnett & Ceci 2002 abstract only; paper not opened; page states this"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:40:13+00:00",
+ "updated": "2026-10-21T08:40:42+00:00",
  "band_done": false
 }
