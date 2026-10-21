@@ -18,12 +18,12 @@ Baumeister and Leary's review is the source of the need framing:
 
 (Baumeister & Leary, 1995, Psychological Bulletin 117(3), abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/7777651/))
 
-The abstract also states what the need is for: frequent, nonaversive interactions within an ongoing relational bond, and links lack of attachments to a variety of ill effects on health, adjustment, and well-being. That is the substance of the principle statement's distinction between need and preference: preferences can be deferred without cost, and the review treats unsatisfied belongingness as carrying health and adjustment costs.
+The abstract states what the need is for in terms of interactions within relationships, and it reports associations between a lack of attachments and ill effects on health, adjustment and well-being. The article's title frames the need to belong as a fundamental human motivation.
 
 **Plain words**
-Belonging is the felt sense of being accepted and valued. The difference between a need and a preference is what deferral costs: the review links missing attachments to worse health, adjustment and well-being, which is why it calls the drive fundamental. The design question follows from the cost: where in your week is the ongoing bond being fed?
+Consider where in your week you spend time with people you know. Identify a group you could join.
 
-*For example:* Imagine the teenager who finds "family" in the worst available crowd: the need was legitimate, the supply was toxic.
+*For example:* Imagine considering joining a group in the coming month.
 
 ## Sources
 
