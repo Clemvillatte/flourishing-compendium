@@ -27,7 +27,7 @@
   "Neuroaesthetics",
   "Neurobiology of addiction"
  ],
- "in_progress": "Noogenic neurosis",
+ "in_progress": null,
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -50,11 +50,12 @@
   "Mnemonics and the availability of internalized text": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition",
   "Mixed emotions theory Miyamoto": "Reopened for QC: advisor item-10 round: bold seed claim removed; opened record supports cultural variation in mixed emotions but not a named 'Mixed emotions theory Miyamoto'; namespace hold (entry in concept-namespace-audit.md)",
   "Needs-based intervention sequencing": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition",
-  "Movement snacks": "Label/alias hold (advisor items-11-15 round 1): opened source establishes \"exercise snacks\" (Jenkins et al. 2019), not the page title \"Movement snacks\"; held out of done pending supervisor disposition on the label"
+  "Movement snacks": "Label/alias hold (advisor items-11-15 round 1): opened source establishes \"exercise snacks\" (Jenkins et al. 2019), not the page title \"Movement snacks\"; held out of done pending supervisor disposition on the label",
+  "Noogenic neurosis": "carrier gap: PMID 14138376 (Crumbaugh & Maholick 1964) has no abstract in PubMed; seed source is Frankl's book The Will to Meaning — next worker needs a lawful book carrier or quoting review"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:25:52+00:00",
+ "updated": "2026-10-21T11:26:07+00:00",
  "band_done": false,
  "new_concepts": [
   {

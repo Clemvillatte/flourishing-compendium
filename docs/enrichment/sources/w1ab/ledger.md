@@ -617,3 +617,7 @@
   & Maholick 1964, J Clin Psychol 20:200-7) — PubMed record has NO abstract text; nothing
   quotable. The seed's own source is Frankl's 'The Will to Meaning' (book). Reopened for
   the next worker: needs a lawful book carrier or a review quoting the concept.
+- Follow-up: the reopen command does not apply to non-done items; in_progress slot was
+  cleared by a DOCUMENTED DIRECT EDIT of docs/enrichment/batches/w1ab.json (in_progress:
+  Noogenic neurosis -> null) — the baseline file was never written, and the flag above
+  records the carrier gap for the next worker.
