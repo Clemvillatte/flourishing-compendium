@@ -330,3 +330,7 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 - w1i late-session sample final: 8/8 pages quote-fidelity PASS (Language games, Inquiry,
   Moral emotions, Naming the passions, Monastic hours, Parasocial contact hypothesis,
   Interdependent self-construal, Moral development research).
+
+### w1k "Redemption sequences" — quote fidelity PASS (verification pass)
+- Both Sawatzki and Thomsen 2025 sentences EXACT vs the opened PMC article (the source
+  italicizes "contamination"; wording verbatim).
