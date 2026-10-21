@@ -18,15 +18,15 @@ Gadamer's account of understanding treats tradition as something the participant
 
 (Gadamer, "Truth and Method", 2nd rev. ed., p. 293, [open full text, Internet Archive](https://archive.org/details/gadamer-truth-and-method).)
 
-The compendium applies this to cultural participation: a tradition changes through the people who understand and practise it, and on Gadamer's account those changes are not a failure of preservation — they are how the thing continues at all.
+Gadamer describes understanding as participation in the continuing formation of tradition. The compendium proposes a separate exercise for cultural participation: choose one practice and consider what you would retain, change or discuss with other participants.
 
-**Plain words** When you take part in a tradition — a holiday, a craft, a way of speaking — you are also moving it. Notice what you keep, what you drop, and what you add. The tradition that no participant can touch is not preserved; it has stopped.
+**Plain words** Choose a tradition you take part in. Describe how it is practised now and, where you know, how earlier participants practised it. Note what you would keep, change or ask about, and discuss those choices with others involved.
 
 *For example:* Imagined: a holiday dinner unrecognisable to great-grandmother — different foods, different faces — where the same function of gathering is served.
 
 ## Sources
 
-- [Gadamer, "Truth and Method", 2nd rev. ed., trans. Weinsheimer & Marshall — open full text, Internet Archive](https://archive.org/details/gadamer-truth-and-method) — the tradition passage quoted (p. 293); the fusion-of-horizons passages also verified in the opened text
+- [Gadamer, "Truth and Method", 2nd rev. ed., trans. Weinsheimer & Marshall — open full text, Internet Archive](https://archive.org/details/gadamer-truth-and-method) — the tradition passage quoted (p. 293)
 
 ## Psychology parallels
 
