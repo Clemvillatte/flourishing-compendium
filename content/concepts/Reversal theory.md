@@ -11,7 +11,7 @@ Reversal theory, associated with Michael Apter, holds that experience is organis
 
 ### Telic and paratelic
 
-Apter described the telic state as "a state of mind in which one conceives oneself to be pursuing an important goal, the behavior being subsidiary and chosen to achieve the goal", and the paratelic as one "in which the orientation is toward the behavior itself, together with its concomitant sensations, in this case any goal being conceived as subsidiary" ([Reversal theory: a new approach to psychotherapy, Anuario de Psicologia, PDF](https://www.raco.cat/index.php/anuariopsicologia/article/viewFile/64605/88631)). The telic state is "a serious one"; the paratelic is "a more lighthearted or playful one", oriented to the present moment.
+A paper on reversal theory in psychotherapy describes the telic state as "a state of mind in which one conceives oneself to be pursuing an important goal, the behavior being subsidiary and chosen to achieve the goal", and the paratelic as one "in which the orientation is toward the behavior itself, together with its concomitant sensations, in this case any goal being conceived as subsidiary" ([Reversal theory: a new approach to psychotherapy, Anuario de Psicologia, PDF](https://www.raco.cat/index.php/anuariopsicologia/article/viewFile/64605/88631)). The telic state is "a serious one"; the paratelic is "a more lighthearted or playful one", oriented to the present moment.
 
 ### Re-colouring arousal
 
