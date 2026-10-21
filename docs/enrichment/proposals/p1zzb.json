@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 19,
+ "revision": 20,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -132,73 +132,73 @@
    "into": "Self-compassion",
    "link": "SE022",
    "why": "A principle on accepting what one is without approving or resigning to it",
-   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
+   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub READ in full earlier in session (Neff construct; related hub - acceptance-adjacent); no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
   },
   {
    "into": "Acceptance",
    "link": "SE022",
    "why": "A principle on accepting what one is without approving or resigning to it",
-   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
+   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (ACT acceptance definition, Hayes et al. 2006 quote); related hub - the page's acceptance framing; no SE022 occurrence; grounded in the opened Gutenberg Common translation."
   },
   {
    "into": "Eudaimonic well-being",
    "link": "SE022",
    "why": "A principle on accepting what one is without approving or resigning to it",
-   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
+   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Ryan-Deci hedonic/eudaimonic distinction); related hub - Ryff's self-acceptance is a eudaimonic component; no SE022 occurrence; grounded in the opened Gutenberg Common translation."
   },
   {
    "into": "Forgiveness",
    "link": "SE031",
    "why": "A principle on releasing past wrongs after acknowledgement and amends",
-   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
+   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Arendt/Derrida release-of-debt framing; its Related section already links SE026/S045 but not SE031); no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 cited for its present-conduct instruction, described in the page's own wording without borrowing Long's phrasing)."
   },
   {
    "into": "Shame",
    "link": "SE031",
    "why": "A principle on releasing past wrongs after acknowledgement and amends",
-   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
+   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Tangney shame-vs-guilt distinction; its Related section already links SE026 but not SE031); no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim)."
   },
   {
    "into": "Rumination",
    "link": "SE031",
    "why": "A principle on releasing past wrongs after acknowledgement and amends",
-   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
+   "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Nolen-Hoeksema response styles; no SE031 occurrence); grounded in the opened Gutenberg Long text (XII.1 quoted verbatim)."
   },
   {
    "into": "Identity",
    "link": "SE036",
    "why": "A principle on reconsidering identity labels after life transitions, using Nietzsche's metamorphoses as an analogy",
-   "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (identity revision); occurrence-checked, no SE036 occurrence; grounded in the opened Gutenberg Common translation of Zarathustra (Two SEPARATE verbatim blockquotes: the opening sentence and the child passage, now split after the advisor flagged the earlier joined extract as a splice)."
+   "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (fixed-essence/construction/relation options); core topic hub; no SE036 occurrence; grounded in the opened Gutenberg Common translation of Zarathustra (two separate verbatim blockquotes)."
   },
   {
    "into": "Narrative identity",
    "link": "SE036",
    "why": "A principle on reconsidering identity labels after life transitions, using Nietzsche's metamorphoses as an analogy",
-   "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (identity revision); occurrence-checked, no SE036 occurrence; grounded in the opened Gutenberg Common translation of Zarathustra (Two SEPARATE verbatim blockquotes: the opening sentence and the child passage, now split after the advisor flagged the earlier joined extract as a splice)."
+   "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (story/revision faces of self); surfaced by the mention search (identity revision), which returned it directly; no SE036 occurrence; grounded in the opened Gutenberg Common translation."
   },
   {
    "into": "Authenticity",
    "link": "SE044",
    "why": "A principle distinguishing value-expressing action from impulse-driven action",
-   "notes": "SE044 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (authenticity); occurrence-checked, no SE044 occurrence; grounded in the opened Authenticity Scale document (item 11 quoted verbatim WITHOUT the terminal period, matching the carrier; attribution states the item is reproduced in the linked scale document; carrier typos in items 7 and 9 avoided)."
+   "notes": "SE044 (2026-10-21, worker-p1zzb-9d251b2e): hub READ in full earlier in session; core topic hub (not itself returned by the mention search - the search returned the Authentic existence hub and citing principles); no SE044 occurrence; grounded in the opened Authenticity Scale document (item 11 quoted verbatim without terminal period, matching the carrier)."
   },
   {
    "into": "Ubuntu",
    "link": "SE026",
    "why": "A principle on suffering as shared human material rather than a private defect",
-   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (common humanity) or parallels; occurrence-checked, no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim). Earlier session note claiming a verified SCS subscale item in Practice is CORRECTED: the item was quoted from memory and has been removed; the opened PDF's components passage alone does not verify item wording."
+   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Mbiti/Tutu relational humanness); chosen from the page's own philosophy parallels; no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim)."
   },
   {
    "into": "Shame",
    "link": "SE026",
    "why": "A principle on suffering as shared human material rather than a private defect",
-   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (common humanity) or parallels; occurrence-checked, no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim). Earlier session note claiming a verified SCS subscale item in Practice is CORRECTED: the item was quoted from memory and has been removed; the opened PDF's components passage alone does not verify item wording."
+   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Tangney shame-vs-guilt distinction); chosen from the page's own psychology parallels; no SE026 occurrence; grounded in the opened Neff 2003 PDF."
   },
   {
    "into": "Self-compassion",
    "link": "SE026",
    "why": "A principle on suffering as shared human material rather than a private defect",
-   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (common humanity) or parallels; occurrence-checked, no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim). Earlier session note claiming a verified SCS subscale item in Practice is CORRECTED: the item was quoted from memory and has been removed; the opened PDF's components passage alone does not verify item wording."
+   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub READ (Neff three-components construct, same source paper as the page's quote); parent-construct hub; no SE026 occurrence; grounded in the opened self-compassion.org PDF."
   }
  ]
 }
