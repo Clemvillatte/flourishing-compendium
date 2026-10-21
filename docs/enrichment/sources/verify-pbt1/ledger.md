@@ -494,3 +494,14 @@ Carrier opened fresh: Hulsheger & Schewe 2011 meta-analysis PDF (Maastricht repo
    monitoring-effort mechanism sentence VERBATIM-supported.
 
 Result: 1/1 quotation fidelity PASS, no defects this round.
+
+## Round 24 (16:33Z) — w1aa quote-fidelity verification, twenty-third batch
+
+Carrier opened fresh: OUP open chapter of Fricker, Epistemic Injustice (Introduction).
+
+1. Fricker — blockquote VERBATIM vs the opened OUP chapter; the two examples (police
+   not believing a black speaker; suffering harassment in a culture lacking the
+   concept) verbatim-supported; the "two-part analysis" prose claim supported by the
+   book's own framing.
+
+Result: 1/1 quotation fidelity PASS, no defects this round.
