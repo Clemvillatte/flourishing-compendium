@@ -19,3 +19,15 @@
   V P29 note two-ways sentence (9337-9341); V P30 sentence (9344-9348).
   ALL VERBATIM. Validator ok. Concept-existence: the phrase is the
   Ethics' own Latin; grounded in II P44 Cor. II.
+
+## The job demands-resources model (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 5 principle neighbours; real defined
+  construct). QUOTES verified against the freshly fetched PubMed efetch
+  record (PMID 11419809): both quoted sentences verbatim from the opened
+  abstract. NOTE: the abstract's first sentence carries the source's own
+  period artifact ("job resources. that are") — quoted fragments avoid it.
+- SEED CITATION NOTE: the seed's "Demerouti et al., 2009" year could not
+  be verified; the model's origin is the 2001 JAP paper, which the page is
+  grounded on. No claim made about any 2009 publication.
+- Related targets Flow and Burnout verified to exist. Validator ok.
