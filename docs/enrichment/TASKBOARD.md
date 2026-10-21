@@ -8,7 +8,9 @@ the advisor's direction neither page was edited; a ready, source-verified repair
 P191 (Bergson "Life and Consciousness" quotes opened and verified verbatim; fresh Plain words
 at 0% overlap; two advisor QC rounds) is preserved at
 docs/enrichment/sources/w1k/P191-plainwords-repair-proposal-67ce7e1d.md for the supervisor to
-mint an owner band or apply. B040 left untouched (no repair prepared). Next: releasing w1k,
+mint an owner band or apply. B040: repair proposal ALSO prepared this session (MN 10 quotes verified
+verbatim; fresh Plain words at 0% overlap; page untouched) at
+docs/enrichment/sources/w1i/B040-plainwords-repair-proposal-67ce7e1d.md. Next: releasing w1k,
 taking over stale w1i for its last manifest item and the recorded QC debt (items 21-25
 milestone QC never ran; items 16-20 repairs pending verification).
 
