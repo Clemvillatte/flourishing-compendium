@@ -17,8 +17,9 @@ The stillness is not mere silence: it is that condition in which the soul's powe
 
 ## Related concepts
 
-- [[Sabbath]]
 
+- [[Sabbath]]
+- [[M031]] — Pieper's leisure is defined against idleness, which this principle treats as the root disorder
 ## Sources
 
 - Pieper, Leisure: The Basis of Culture

@@ -11,8 +11,9 @@ Spinoza's solution to Descartes' dualism: mind and body are one reality expresse
 
 ## Related concepts
 
-- [[SP006]] — the principle that states the parallelism this concept explains: one thing, two attributes, correspondence without interaction
 
+- [[SP006]] — the principle that states the parallelism this concept explains: one thing, two attributes, correspondence without interaction
+- [[SP007]] — SP007 states the parallelism as Spinoza's Ethics II Prop. VII proposition: the order and connection of ideas is the same as the order and connection of things
 ## Sources
 - SEP Spinoza: https://plato.stanford.edu/entries/spinoza/
 

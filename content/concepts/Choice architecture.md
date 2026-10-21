@@ -37,8 +37,9 @@ The same analysis records the main limit: "Our analysis further reveals a modera
 
 ## Related concepts
 
-- [[Designing the environment for virtue]] — the Aristotle-grounded parallel of arranging settings so good acts get repeated
 
+- [[Designing the environment for virtue]] — the Aristotle-grounded parallel of arranging settings so good acts get repeated
+- [[MO031]] — friction design is choice architecture applied to habit change
 ## Sources
 
 - [Mertens, S., Herberz, M., Hahnel, U. J. J. & Brosch, T. (2022). The effectiveness of nudging: a meta-analysis of choice architecture interventions across behavioral domains. PNAS, 119(1), e2107346118 (corrected version)](https://www.pnas.org/doi/10.1073/pnas.2107346118) — definition, taxonomy, effect sizes, publication-bias finding

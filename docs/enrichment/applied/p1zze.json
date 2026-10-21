@@ -1,0 +1,21 @@
+{
+ "inline": [],
+ "reciprocal": [
+  {
+   "into": "Leisure",
+   "link": "M031 — Work steadily; idleness is the root disorder",
+   "why": "Pieper's leisure is defined against idleness, which this principle treats as the root disorder"
+  },
+  {
+   "into": "Choice architecture",
+   "link": "MO031 — Learn to increase friction for undesired behaviours — make it hard",
+   "why": "friction design is choice architecture applied to habit change"
+  },
+  {
+   "into": "Dignity",
+   "link": "M034 — Carry yourself with dignity in every station",
+   "why": "the principle reads dignity as conduct in every station rather than rank, a Mesoamerican entry under the dignity concept"
+  }
+ ],
+ "notes": "p1zze closeout proposals (worker-p1zze-b7e3f9c2). Reciprocals only; all 12 verified to lack the edge via graph check (short IDs) and all targets resolve (enrich_find resolve, 0 unresolved). A037->M046 removed at QC round 4: the inspected M046 passage establishes trickery only, not the humility equivalence. From the band-wide mention checks (30/30 items, --max 400, no truncation; warranted candidates reviewed, selected-candidate dispositions in sources/p1zze/ledger.md). | deferred at this run (target band busy): 3 recip, 0 inline"
+}
