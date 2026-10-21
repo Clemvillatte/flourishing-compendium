@@ -28,7 +28,6 @@ The guide's worked example shows a situation ("A cashier is rude to me.") follow
 ## Sources
 
 - [Crane, K. L. & Watters, K. M., Cognitive Behavioral Therapy Strategies (CBT-D clinician guide, VA MIRECC)](https://www.mirecc.va.gov/visn5/EBT/CBT-D/Cognitive_Behavioral_Therapy_Strategies.pdf) — the coping-cards passage and cashier example, quoted verbatim from the guide's p. 100
-- Beck's cognitive therapy's coping cards
 
 ## Cited in psychology parallels
 

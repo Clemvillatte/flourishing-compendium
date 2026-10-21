@@ -7,7 +7,7 @@ file: "Measure (mesure)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-In The Rebel, Camus connects measure with the limit that rebellion affirms. The rebel's refusal, he writes, means among other things that "there is a limit beyond which you shall not go", and this "no" affirms the existence of a borderline ([Camus, The Rebel, Part One](https://www.thetedkarchive.com/library/albert-camus-the-rebel)). That limit, once discovered, becomes a standard:
+In The Rebel, Camus connects measure with the limit that rebellion affirms. The rebel's refusal, he writes, means among other things that "there is a limit beyond which you shall not go", and this "no" affirms the existence of a borderline ([Camus, The Rebel, Part One](https://www.thetedkarchive.com/library/albert-camus-the-rebel)). ([Camus, The Rebel, 1951](https://www.thetedkarchive.com/library/albert-camus-the-rebel)) That limit, once discovered, becomes a standard:
 
 > "If the limit discovered by rebellion transfigures everything, if every thought, every action that goes beyond a certain point negates itself, there is, in fact, a measure by which to judge events and men." ([Camus, The Rebel, Part Five, "Moderation and Excess"](https://www.thetedkarchive.com/library/albert-camus-the-rebel))
 

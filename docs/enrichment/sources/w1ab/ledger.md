@@ -237,3 +237,25 @@
 - NOTE (advisor): item 1's round-1 FAIL -> repairs were applied but no subsequent PASS verdict
   was recorded; item 1 is included in the round-3 resubmission below.
 - Round-3 resubmission: in flight.
+
+## MILESTONE QC items 1-5 CLOSED (advisor round 3) — 2026-10-21, worker-w1ab-2e9d1a4f
+- VERDICTS: Measure (mesure) scoped content PASS (eligible for done); Meditation
+  neurobiology theory Lazar source-aligned prose PASS (namespace HOLD, keep reopened);
+  Memorized coping statements in CBT scoped coping-card prose PASS (namespace HOLD, keep
+  reopened); Microbiome theory source-aligned prose PASS (namespace HOLD, keep reopened);
+  Mind-life continuity scoped content PASS (eligible for done).
+- Round-3 citation cleanups applied: Measure opening sentence cited; Lazar design-paragraph
+  citation added; Microbiome CNS-communication quotation sentence cited; Mind-life opening
+  attribution and organizational-summary sentence cited.
+- BECK REFERENCE: the original seed line "Beck's cognitive therapy's coping cards, as the
+  modern cousin" was first reduced to "- Beck's cognitive therapy's coping cards" per round 2,
+  then REMOVED FROM THE PUBLIC SOURCES LIST per round 3 (it still makes an attribution no
+  opened source supports; the string is preserved verbatim here). The VA guide remains the
+  sole quote carrier for the coping-card explanation.
+- Final five-file validation: --fast-track --base 4b2bebc4f (explicit pre-session baseline):
+  5 checked, 0 failed.
+- MILESTONE RECORD: scoped prose review passed, with three unresolved namespace holds
+  (Lazar, coping statements, Microbiome theory — entries in concept-namespace-audit.md).
+  TWO NEW COMPLETED ITEMS: Measure (mesure), Mind-life continuity. THREE source-bounded
+  WIP items held open. manifest∩done = 15/70 (inherited 13 + 2 new; NOT 5 new completions,
+  NOT whole-band certification).

@@ -16,7 +16,7 @@ The 2005 study scanned 20 participants with extensive Insight meditation experie
 
 > "Brain regions associated with attention, interoception and sensory processing were thicker in meditation participants than matched controls, including the prefrontal cortex and right anterior insula. Between-group differences in prefrontal cortical thickness were most pronounced in older participants, suggesting that meditation might offset age-related cortical thinning. Finally, the thickness of two regions correlated with meditation experience. These data provide the first structural evidence for experience-dependent cortical plasticity associated with meditation practice." ([Lazar et al. 2005, abstract](https://pubmed.ncbi.nlm.nih.gov/16272874/))
 
-The design compares practitioners with controls rather than following trainees over time, so the thickness differences are associations the authors read as consistent with practice-dependent plasticity.
+The design compares practitioners with controls rather than following trainees over time, so the thickness differences are associations the authors read as consistent with practice-dependent plasticity ([Lazar et al. 2005, abstract](https://pubmed.ncbi.nlm.nih.gov/16272874/)).
 
 ### Function: activation during meditation
 
