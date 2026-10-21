@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 67** — Learn to use self-monitoring and feedback: track your growth
 
-Self-monitoring — tracking your own behaviour, progress, and patterns — provides feedback for growth. Without feedback, self-development is guesswork. With it, it is deliberate practice.
+Zimmerman's model of self-regulated learning runs through three phases — forethought, performance, and self-reflection — and he places self-observation in the performance phase, where the learner is acting. Tracking, on his account, is part of acting, not an audit afterwards.
 
-**Plain words** What gets measured gets managed, including your own growth. Track the thing — workouts, mood, spending, reactions — and patterns appear that memory alone will never hand you. Self-development without feedback is just vibing with extra steps.
+> "Self-observation refers to self-recording personal events or self-experimentation to find out the cause of these events. ... Self-monitoring, a covert form of self-observation, refers to one's cognitive tracking of personal functioning, such as the frequency of failing to capitalize words when writing an essay."
 
-*For example:* The manager convinced he's "terrible under pressure" keeps a simple note on his phone after each hard meeting: what happened, how he handled it. Six weeks of notes show he handled most of them fine. The tracked data overrules the remembered story, which was written by his three worst days.
+(Zimmerman, 2002, pp. 67-68, Theory Into Practice 41(2), [faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf).)
+
+The compendium applies this beyond study: the standard you compare your record against can be your own prior performance, which Zimmerman names as one basis of self-evaluation.
+
+**Plain words** Pick one behaviour you want to understand. For a week, write down what actually happened — when, how long, what got in the way. Then read the week back against what you expected. The record wins, because the impression in your head was written by the best or worst day, not the average one.
+
+*For example:* Imagined: a manager convinced he is "terrible under pressure" keeps a short note after each hard meeting — what happened, how he handled it. Six weeks of notes show he handled most of them fine.
+
+## Sources
+
+- [Zimmerman, "Becoming a Self-Regulated Learner: An Overview", Theory Into Practice 41(2), 2002 — faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf) — the self-observation and self-monitoring definitions quoted (pp. 67-68); the self-evaluation standards (p. 68)
+
 ## Psychology parallels
 
 - **Self-monitoring improves behaviour and self-regulation**, tracking behaviour improves outcomes (Zimmerman, 2002; Michie et al., 2011)
