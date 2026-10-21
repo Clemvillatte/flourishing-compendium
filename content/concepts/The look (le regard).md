@@ -11,7 +11,7 @@ The look (le regard) is Sartre's name for the experience of being seen by anothe
 
 ### Sartre's ground
 
-The Stanford Encyclopedia's Sartre entry describes the experience: absorbed at a keyhole, we suddenly hear footsteps, and have "an involuntary apprehension of ourselves as an object in the eyes of another; a 'pre-moral' experience of shame; a shudder of recognition that we are the object that the other sees" ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)). The entry summarizes the ontological result: in such an experience we become a "transcendence transcended". And it quotes Sartre's conclusion about what follows from it:
+The Stanford Encyclopedia's Sartre entry describes the experience: absorbed at a keyhole, we suddenly hear footsteps, and have "an involuntary apprehension of ourselves as an object in the eyes of another; a 'pre-moral' experience of shame; a shudder of recognition that we are the object that the other sees" ([SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/)). The entry summarizes the ontological result: in such an experience we become a "transcendence transcended". The shame is pre-moral in Sartre's account: it arrives before any judgement of what was done, as the plain fact of being an object for someone. And it quotes Sartre's conclusion about what follows from it:
 
 > "It is useless for human reality to seek to escape this dilemma: one must either transcend the Other or allow oneself to be transcended by him. The essence of the relations between consciousness is not the Mitsein (being-with); it is conflict." (Sartre, Being and Nothingness, quoted in [SEP, "Jean-Paul Sartre"](https://plato.stanford.edu/entries/sartre/), citing Sartre 1943 [1956: 429])
 

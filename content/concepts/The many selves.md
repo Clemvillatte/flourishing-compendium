@@ -19,7 +19,7 @@ The individuals fall into classes, and so do the selves:
 
 > "But as the individuals who carry the images fall naturally into classes, we may practically say that he has as many different social selves as there are distinct groups of persons about whose opinion he cares. He generally shows a different side of himself to each of these different groups." (same work)
 
-James's own judgement of the division is double: it "may be a discordant splitting, as where one is afraid to let one set of his acquaintances know him as he is elsewhere; or it may be a perfectly harmonious division of labor, as where one tender to his children is stern to the soldiers or prisoners under his command" (same work). The multiplicity is not itself a pathology; what matters is whether the division is split against itself or works as one labor.
+James's own judgement of the division is double: it "may be a discordant splitting, as where one is afraid to let one set of his acquaintances know him as he is elsewhere; or it may be a perfectly harmonious division of labor, as where one tender to his children is stern to the soldiers or prisoners under his command" (same work). The multiplicity is not itself a pathology; what matters is whether the division is split against itself or works as one labor. James gives the test in the same passage: the failing kind is the one that needs hiding, where a person is afraid to let one set of acquaintances know him as he is elsewhere.
 
 ### In the compendium
 

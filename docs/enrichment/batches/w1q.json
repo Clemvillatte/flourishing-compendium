@@ -39,12 +39,12 @@
   "The courage to act against impulse": "Category C heading: the phrase is the compendium's own; the opened sources do not establish it as Kant's term; page written for the sense the linked principles (K038/R005/SP058/BE022) use, stated in the opening sentence",
   "The dawn and the lamp in the windless place": "Category C heading: the pairing of the two images is the compendium's own; page says so in the opening sentence; written for the sense the linked principles (Y027/Y132/Y050/X024) use",
   "The fine line between inspiration and mania": "Category C heading: the phrase is the compendium's own; page says so in the opening sentence; written for the sense the linked principles (AT033/AF014/K035/AF080) use",
-  "The many selves": "Reopened for QC: QC: prose 146 words < 150 minimum; add 1-2 sentences of verified prose",
-  "The look (le regard)": "QC: prose 138 words < 150 minimum; needs 1-2 sentences of verified prose",
-  "The logos common to all": "QC: prose 99 words < 150 minimum; needs verified prose to reach minimum"
+  "The many selves": "QC RESOLVED 2026-10-21 (worker-sup-5e8a3c7f): prose topped up from the same James passage (hiding test), now 150+ words, validated ok",
+  "The look (le regard)": "QC RESOLVED 2026-10-21 (worker-sup-5e8a3c7f): pre-moral shame sentence added from the SEP passage, validated ok",
+  "The logos common to all": "QC RESOLVED 2026-10-21 (worker-sup-5e8a3c7f): de-centring paragraph added grounded in the quoted fragments, validated ok"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:06:56+00:00",
+ "updated": "2026-10-21T16:10:37+00:00",
  "band_done": false
 }

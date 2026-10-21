@@ -25,6 +25,8 @@ And its political shape:
 
 The same thought is compressed into three words elsewhere in the collection: "Thought is common to all" (fragment 113). What is common is not an average of opinions but the structure that opinions are about.
 
+The fragments carry a practice as much as a doctrine. Heraclitus' complaint is that people live as if their private impressions were the world's account, and the demand that follows is to hold fast to what is common the way a city holds fast to its law. The compendium's principles take it as a discipline of de-centring: the shared structure outranks the private impression, and one's own account is one hearing of the Word, not its owner.
+
 ### In the compendium
 
 - [[S006 — Remember that you are a citizen of the cosmos]] — the Stoic inheritance of the idea: the city of the cosmos and its law
