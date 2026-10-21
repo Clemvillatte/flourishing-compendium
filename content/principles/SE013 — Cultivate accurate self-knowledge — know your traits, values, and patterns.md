@@ -14,11 +14,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 Accurate self-knowledge needs the views of others. Vazire's model of self-other knowledge asymmetry predicts that the self is more accurate for traits low in observability, such as neuroticism, and others are more accurate for highly evaluative traits, such as intellect. In a study of 165 participants rated by four friends and up to four strangers, the self was the best judge of neuroticism-related traits, friends were the best judges of intellect-related traits, and all perspectives were equally good for extraversion-related traits ([Vazire 2010, PubMed](https://pubmed.ncbi.nlm.nih.gov/20085401/)). An earlier study found that close others were as accurate as the self in predicting daily behaviour measured over four days, and concluded that "there is no single perspective from which a person is known best" ([Vazire and Mehl 2008](https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1037/a0013314)).
 
-The same research group later summarised the division of labour directly:
+Vazire and Carlson describe the model's proposed asymmetry:
 
-> "the self has better information than others do for judging internal traits—traits defined primarily by thoughts and feelings, such as being anxious or optimistic—but that others have better information than the self for judging external traits—traits defined primarily by overt behavior, such as being boisterous or charming"
+> "Specifically, Vazire (2010) proposed that the self has better information than others do for judging internal traits—traits defined primarily by thoughts and feelings, such as being anxious or optimistic—but that others have better information than the self for judging external traits—traits defined primarily by overt behavior, such as being boisterous or charming"
 
-(Vazire & Carlson, 2011, Current Directions in Psychological Science, [author-hosted PDF](https://www.simine.com/docs/Vazire_&_Carlson_CDPS_2011.pdf).)
+(Vazire & Carlson, 2011, p. 106, Current Directions in Psychological Science, [author-hosted PDF](https://www.simine.com/docs/Vazire_&_Carlson_CDPS_2011.pdf).)
 
 Introspection has limits too. Eurich describes internal self-awareness, which is knowing yourself, and external self-awareness, which is knowing how others see you, and says that her team "found, again, pretty shockingly, that those two types of self-knowledge are not related" ([Harvard Business Review podcast](https://hbr.org/podcast/2018/06/how-to-become-more-self-aware)). She also says that people who spend a great deal of time in self-reflection tend to be less self-aware than people who do not.
 
