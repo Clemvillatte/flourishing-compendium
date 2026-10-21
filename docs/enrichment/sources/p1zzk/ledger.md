@@ -20,3 +20,5 @@
 - Opened (search excerpts): Wired Humanities toltecatl entry quoting FC X p.25 (Anderson & Dibble); Ryan & Deci 2000 abstract; Deci & Ryan 2008 abstract/conclusion. Seed's vessel/stone/seam and huehuetlatolli "smallest works" counsel not located. SDT does not test unobserved quality. Bricklayer anecdote dropped.
 ## PP027 — practise coherence
 - Opened (search excerpts): Springer chapter (quotes Antonovsky 1987 p.19 definition); Eriksson & Lindström 2006 PMC (abstract, discussion). Seed's "predicts resilience" not in the review; causality unconfirmed. Antonovsky 1987 not opened. Diagnosis anecdote replaced by 3-sentence practice. Springer chapter authors not seen.
+## PP054 — allow incubation
+- Opened (search excerpts): ERIC abstract of Sio & Ormerod 2009; PMC4956660 (authors/journal not seen; d = 0.29 from it); Sio & Ormerod CogSci 2009 paper. Seed corrections: "one of the most robust findings" overstated (d = 0.29, task-dependent); mechanism not settled; walking/showering/sleeping and Wallas not supported by opened sources. Shower anecdote dropped.
