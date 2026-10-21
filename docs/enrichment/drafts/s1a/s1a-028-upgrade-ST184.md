@@ -20,7 +20,6 @@ Franklin's chart is the first self-tracking protocol on record, three centuries 
 ---
 
 **Principles:**
-
 - [[A106 — Recognise that virtue is taught through habituation|A106 Recognise that virtue is taught through habituation]]: the little book operationalises habituation, one attended instance per day per virtue.
 - [[A111 — Practise leisure (scholē) as the end of work|A111 Practise leisure (scholē) as the end of work]]
 - [[A039 — Value experience over theory in practical matters|A039 Value experience over theory in practical matters]]: the tracking itself, not the theory of virtue, is where the change happened.

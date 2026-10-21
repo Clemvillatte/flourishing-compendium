@@ -18,7 +18,6 @@ She is the modern tradition's clearest case against the excuse of circumstance. 
 ---
 
 **Principles:**
-
 - [[B166 — Chop wood, carry water|B166 Chop wood, carry water]]: her instructions put the practice inside the household act itself.
 - [[B168 — Do one thing at a time|B168 Do one thing at a time]]
 - [[B097 — Wish well, starting with yourself|B097 Wish well, starting with yourself]]
