@@ -812,3 +812,16 @@
   have their supporting URLs in the canonical files; milestone CLOSED as scoped verification
   of the four revised pages and the proposal wording (linked target pages and proposal
   application remain with the supervisor).
+
+## ITEM: Neurogenesis theory (fast-track, theory-page skeleton) — 2026-10-21, worker-pxy1u
+- Carriers opened: Eriksson et al. 1998 Nat Med (PMID 9809557, abstract via efetch — founding
+  human evidence, two sentences quoted verbatim); Sorrells et al. 2018 Nature (PMID 29513649,
+  abstract via efetch — the 2018 challenge conclusion quoted verbatim; the learning-memory-
+  stress-exercise link quoted verbatim from the same abstract, grounding the seed's learning
+  and mood framing). Degree 1 (BI006) — fast-track eligible; theory-page skeleton followed
+  (definition + theorist quote, origin, core claims, objection section, compendium use).
+  Related: Neuroplasticity, Exercise neurobiology theory, Long-term potentiation account of
+  memory (3 links, existence-verified; saturation hunt skipped per fast-track rule — noted).
+  Validation --fast-track --base d1ba9c8f: ok. Advisor QC: not due this item (cadence: first
+  item + every 5th; this is the first post-milestone item — the next 5-boundary is the
+  items-21-25 batch with the manifest continuation).
