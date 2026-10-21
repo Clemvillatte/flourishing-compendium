@@ -24,10 +24,11 @@
   "S109": "RESOLVED 2026-10-21 takeover: QC asked deletion of the added category sentence and link — verified on current artifact: no preferred-indifferent classification sentence and no such wikilink remain in the file; history in sources/p1zzg/S109.md",
   "S111": "RESOLVED 2026-10-21 takeover: application paragraph, plain words, example — verified on current artifact matching the repaired ledger; history in sources/p1zzg/S111.md",
   "S114": "RESOLVED 2026-10-21 takeover: plain words, example label — verified on current artifact (example labelled as the compendium modern extension); history in sources/p1zzg/S114.md",
-  "S116": "RESOLVED 2026-10-21 takeover: quote wording, plain words — verified on current artifact (quote reads And the things... per source); history in sources/p1zzg/S116.md"
+  "S116": "RESOLVED 2026-10-21 takeover: quote wording, plain words — verified on current artifact (quote reads And the things... per source); history in sources/p1zzg/S116.md",
+  "SE041": "QC unresolved: McAdams & McLean 2013 quote verified from opened mirror but no page/section locator available from any opened source (carriers attempted failed); quote used only as bounded writing prompt. Item otherwise QC-repaired and validated."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:02:02+00:00",
+ "updated": "2026-10-21T06:12:19+00:00",
  "band_done": false
 }
