@@ -7,13 +7,13 @@ file: "Leader-member exchange theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Leader-member exchange (LMX) theory is a relationship-based approach to leadership developed by George Graen and Mary Uhl-Bien. Its core claim is that a leader does not lead a group uniformly: the leader builds relationships of different quality with each member, and those differences carry consequences.
+Leader-member exchange (LMX) theory emphasizes differences in the quality of relationships between leaders and individual members and is grounded in role and social exchange theories ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)).
 
-> "Over the past several decades, leader-member exchange (LMX) theory has emerged as one of the most influential frameworks in organizational psychology. Rooted in role and social exchange theories, LMX emphasizes qualitative differences in the dyadic relationship between leaders and members (Graen and Scandura, 1987; Graen and Uhl-Bien, 1995)." (Yamaura et al., [Revisiting leader-member exchange](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/), Frontiers in Psychology, 2026, review)
+> "Over the past several decades, leader-member exchange (LMX) theory has emerged as one of the most influential frameworks in organizational psychology. Rooted in role and social exchange theories, LMX emphasizes qualitative differences in the dyadic relationship between leaders and members (Graen and Scandura, 1987; Graen and Uhl-Bien, 1995)." (Yamaura et al., [Revisiting leader-member exchange](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/), Frontiers in Psychology, 2026, §1 Introduction)
 
 ### What a high-quality exchange is
 
-The theory is grounded in role and social exchange theories: through the role-formation process, leaders build social exchange relationships with members based on trust, obligation, and respect ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)). According to role theory, leaders assign important roles within an organization to members with high LMX, and these members receive support distinct from that provided to members with low LMX ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)). The same review reexamines the widely accepted belief that high-quality LMX relationships are uniformly beneficial, testing that belief against the "too much of a good thing" framework ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)).
+The theory is grounded in role and social exchange theories: through the role-formation process, leaders build social exchange relationships with members based on trust, obligation, and respect ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)). According to role theory, leaders assign important roles within an organization to members with high LMX, and these members receive support distinct from that provided to members with low LMX ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)). The same review reexamines whether high-quality LMX relationships are uniformly beneficial ([Yamaura et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13050747/)).
 
 ## Field
 
