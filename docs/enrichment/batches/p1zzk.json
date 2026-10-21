@@ -24,11 +24,12 @@
   "R017",
   "R019",
   "R043",
-  "R072"
+  "R072",
+  "S108"
  ],
- "in_progress": "S108",
+ "in_progress": "SO017",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:38:38+00:00"
+ "updated": "2026-10-21T04:39:12+00:00"
 }
