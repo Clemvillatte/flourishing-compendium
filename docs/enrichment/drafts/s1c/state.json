@@ -75,7 +75,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-004": {
+   "status": "ready",
+   "angle": "D095: Qin Shi cries three times at Lao Dan's funeral (Zhuangzi 3), Legge + Eno",
+   "history": [
+    {
+     "t": "2026-10-21T12:10:59+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:10:59+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:10:59+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes machine-checked vs Legge and Eno; chapter title and fault attribution corrected"
+    },
+    {
+     "t": "2026-10-21T12:10:59+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:09:16+00:00"
+ "updated": "2026-10-21T12:10:59+00:00"
 }
