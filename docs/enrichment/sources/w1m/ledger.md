@@ -203,3 +203,19 @@
 - Related line (Distributed cognition / extended mind) preserved from
   the seed. Validator ok (fast-track).
 - QC-PENDING flag set (9th fresh item; supervisor sample requested).
+
+## QC — items 6-9 batch (advisor, 2026-10-21)
+
+- Round-1 verdict: three poisons / sublime / transactive memory all FAIL
+  (scoped); the culturally-embedded-self hold STANDS (owner/supervisor
+  disposition, not a rewrite issue). Repairs applied using the advisor's
+  exact prescribed texts. Naming bridge for the three poisons VERIFIED
+  against the freshly opened Princeton Dictionary excerpt (via
+  buddhanature.tsadra.org). The second poisons blockquote (assembled
+  wording) omitted. All three validated ok --fast-track vs their
+  pre-enrichment baselines (02ee446^ / 5aaa929^ / de44044^).
+- MILESTONE DISPOSITION (per the advisor): three scoped prose-and-quotation
+  passes; Taylor's identity-support hold still outstanding; NOT whole-band
+  certification. Monotonic and wall clocks cross-checked consistent
+  (2005078289350 at 08:18:45Z; 2436064987926 at 08:25:56Z — delta 7m11s
+  on both clocks).

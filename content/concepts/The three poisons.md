@@ -7,15 +7,11 @@ file: "The three poisons"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The three poisons are greed (lobha), hatred or aversion (dosa), and delusion (moha): the three root afflictions of mind that Buddhist teaching names as the source of suffering and of the actions that keep it turning. In the Pali tradition they are called the three unwholesome roots (akusala-mula); the Mahayana traditions call them the three poisons (trivisa). ([Access to Insight, Mula Sutta](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html))
-
-The canonical naming is plain:
+The three poisons are greed, hatred or aversion, and delusion. ([Princeton Dictionary of Buddhism, as quoted at the Buddha-Nature site](https://buddhanature.tsadra.org/index.php?title=Greed,_hatred,_and_ignorance)) The Mula Sutta identifies the corresponding three as roots of what is unskillful. ([Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html))
 
 > "Monks, there are these three roots of what is unskillful. Which three? Greed is a root of what is unskillful, aversion is a root of what is unskillful, delusion is a root of what is unskillful." (Mula Sutta, AN 3.69, translated by [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an03/an03.069.than.html))
 
 The sutta then describes what a mind consumed by them is like, in terms that make the poisons' role in the here-and-now visible:
-
-> "A person like this — his mind overcome with evil, unskillful qualities born of greed... born of aversion... born of delusion, his mind consumed — dwells in suffering right in the here-&-now — feeling threatened, turbulent, feverish — and at the break-up of the body, after death, can expect a bad destination." (same source)
 
 
 ## Facets
