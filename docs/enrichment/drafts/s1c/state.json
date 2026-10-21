@@ -1,0 +1,31 @@
+{
+ "lane": "s1c",
+ "items": {
+  "s1c-001": {
+   "status": "ready",
+   "angle": "D069: Yan He consults Qu Boyu (Zhuangzi 4): mantis, tiger keeper, horse lover",
+   "history": [
+    {
+     "t": "2026-10-21T12:06:19+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:06:19+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:06:19+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes machine-verified vs Legge and Eno text"
+    },
+    {
+     "t": "2026-10-21T12:06:19+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
+  }
+ },
+ "updated": "2026-10-21T12:06:19+00:00"
+}
