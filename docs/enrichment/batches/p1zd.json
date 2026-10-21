@@ -25,14 +25,13 @@
   "AT002",
   "AT015",
   "AT021",
-  "AT048",
   "BE002",
   "AT046",
   "AF079",
   "AT054",
   "AT077"
  ],
- "in_progress": null,
+ "in_progress": "AT048",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -49,7 +48,7 @@
   "AT002": "SUPERVISOR OPEN: inherited Practice prescribes diagnosing a network bottleneck and different remedies, not established by cited ANT study. Body inference limits repaired; inherited text not certified.",
   "AT015": "QC-CLOSED 2026-10-21: three actual cited abstracts opened, quotes checked; perceptual/cognitive-load distinction preserved, task-absorption promise removed; inherited parallels unverified.",
   "AT021": "SUPERVISOR OPEN: inherited Practice calls gratitude an attentional exercise; writing study does not establish an attention mechanism. Body corrected; inherited Practice preserved, not certified.",
-  "AT048": "QC-CLOSED 2026-10-21: full Lutz review/Box2 and Tang abstract opened, quotes checked; style/tradition scope and learning-timetable limits explicit; inherited parallels unverified.",
+  "AT048": "Reopened for QC: Final advisor: narrow preliminary support to the specific OM attentional-pattern prediction",
   "BE002": "QC-CLOSED 2026-10-21: primary PDF pp73/101/189 opened; quotes verified; stimulus/procedure/effect distinctions and historical scope repaired; inherited parallels unverified.",
   "AT046": "QC-CLOSED 2026-10-21: five sources opened; quote/result checks; broader positive review added, repeated-weekly-regimen limits and personal-reflection scope explicit; inherited parallels unverified.",
   "AT054": "QC-CLOSED 2026-10-21: both cited abstracts opened, quotes checked; process voice and imagined improvement guarantee removed; transfer inference scoped; inherited parallels unverified.",
@@ -57,6 +56,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T15:05:28+00:00",
+ "updated": "2026-10-21T15:06:41+00:00",
  "band_done": false
 }
