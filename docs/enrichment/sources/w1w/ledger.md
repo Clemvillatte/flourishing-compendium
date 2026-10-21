@@ -650,3 +650,5 @@
   noted); quotes split at clean clause boundaries.
 - Taper item. Related links confirmed existing. Normal validator:
   ok. State recorded (done count 47).
+  - Repair: prose floor top-up (129 -> 150+) with the abstract's
+    evidence-range sentence; validator ok.
