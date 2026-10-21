@@ -14,3 +14,5 @@
 - Opened (search excerpts): Oppezzo & Schwartz 2014 abstract (Stanford PDF); AAA Lab page; Marselle 2014 abstract; PubMed 30893850 abstract. Hanson & Jones 2015 only seen via secondary excerpts, not used. Walking-meeting anecdote dropped. "Mood/stress improves" narrowed to group-walk evidence. Marselle 2014 as cited in the abstract: farmland vs urban; no depression difference.
 ## BI042 — disordered eating
 - Opened (search excerpts): NIMH publication and "common types" page; Arcelus 2011 abstract; Cleveland Clinic (secondary, used only for the disordered-eating vs eating-disorder distinction). APA 2022 not opened. "Not a choice" unsupported, dropped. Seed conflated disordered eating with eating disorders; clarified. "Cover story" anecdote dropped.
+## CO023 — survivorship bias
+- Opened (search excerpts): Brown et al. 1992 abstract; Elton et al. 1996 abstract; Cognitive Biases Academy (secondary) for Wald. Mangel & Samaniego 1984, Merton & Barber 2004, Taleb 2007 not opened. Seed's CEO-habits anecdote dropped. Wikilink [[Survivorship bias|...]] in link section untouched.

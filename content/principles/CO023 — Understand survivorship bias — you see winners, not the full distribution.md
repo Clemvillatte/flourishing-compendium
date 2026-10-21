@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "CO — Cognitio
 ---
 > **Principle 23** — Understand survivorship bias: you see winners, not the full distribution
 
-You observe successes (surviving companies, successful people, effective strategies) and draw conclusions from them while ignoring the failures that did not survive to be observed. This leads to systematically wrong conclusions about what works.
+Survivorship bias is documented best in finance, where the cost of ignoring failures has been measured. Brown, Goetzmann, Ibbotson and Ross analysed a sample truncated by survivorship and showed that the resulting volatility-return relationship "gives rise to the appearance of predictability" in mutual fund performance ([Brown et al. 1992](https://academic.oup.com/rfs/article/5/4/553/1590264)). Elton, Gruber and Blake tracked all funds that existed at the end of 1976, including those that later merged away, to estimate the bias, noting that "funds that disappear tend to do so due to poor performance" ([Elton et al. 1996](https://academic.oup.com/rfs/article/9/4/1097/1580100)). Looking only at funds that remain makes the average look better than it was.
 
-**Plain words** Survivorship bias: you observe the successes — surviving companies, effective strategies, the winners' habits — and draw conclusions from them while ignoring the failures that didn't survive to be observed. The graveyard is silent; the advice industry isn't.
+The classic story concerns Abraham Wald's work for the Statistical Research Group on aircraft vulnerability. As a secondary source describes it, damage reports came only from planes that returned, so hits to vital sections were under-represented in the sample, and Wald's memoranda estimated how fatal a hit to each section was ([Cognitive Biases Academy](https://cognitivebiases.academy/survivorship-bias)). The same page notes that the legend is simpler than his actual method.
 
-*For example:* The bestselling book about the habits of successful CEOs — and the unasked question: how many non-CEOs had the same habits? The survivors' routines are visible; the identical routines of the failed are in unmarked graves. Read the denominator.
+### Scope
+
+I did not open Wald's memoranda or Mangel and Samaniego 1984, so the aircraft account rests on a secondary source. I did not open Merton and Barber 2004 or Taleb 2007, and I did not verify the size of the fund bias. I found no study here on whether advice from successful people is distorted by survivorship.
+
+**Plain words**
+When you only see the winners, you cannot tell which of their habits caused the wins. You also need the failures who did the same things.
+
+**For example**
+Before you copy a strategy, ask how many people tried it and failed, and where you could find that count.
+
+## Sources
+
+- [Brown et al. 1992, Survivorship Bias in Performance Studies (Review of Financial Studies)](https://academic.oup.com/rfs/article/5/4/553/1590264)
+- [Elton, Gruber & Blake 1996, Survivor Bias and Mutual Fund Performance (Review of Financial Studies)](https://academic.oup.com/rfs/article/9/4/1097/1580100)
+- [Cognitive Biases Academy, Survivorship Bias (secondary)](https://cognitivebiases.academy/survivorship-bias)
+
 ## Psychology parallels
 
 - **[[Survivorship bias|Survivorship bias]]**, conclusions drawn from surviving cases are biased (Merton & Barber, 2004; Taleb, 2007)
