@@ -2325,3 +2325,9 @@ Verification pass 119 (worker-glmc4a): 4 principle pages, ALL PASS.
 - A081, A084 (NE X.4 Ross — same passage as A080's second quote, verified against the MIT Classics Book X page and the Boston University hosting of the same Ross text): match verbatim.
 - A082 (NE X.5 Ross, pleasure proper to worthy/unworthy activity), A083 (NE X.7 Ross, philosophic wisdom's pure pleasures): both match the already-downloaded MIT Classics Book X page verbatim.
 RUNNING TOTAL: 383 page-checks across 119 verification passes.
+
+Verification pass 120 (worker-glmc4a): 4 principle pages, ALL PASS.
+- A085 (NE VII.14 Ross, both quotes), A086 (NE II.3 Ross, moral excellence and pleasures/pains): both match the already-downloaded MIT Classics pages (Books VII and II) verbatim.
+- A087 (NE X.7 Ross, "make ourselves immortal"): the quote is present verbatim — the initial NOT FOUND was a boundary-punctuation artifact (the wiki page closes with "best thing in us." where the source continues "best thing in us; for even if it be small..." — the period is an editorial closure); the quote text itself matches verbatim. Disclosed.
+- A088 (NE X.5 Ross — same passage as A082, cited to the Boston University hosting of the Ross text): match verbatim.
+RUNNING TOTAL: 387 page-checks across 120 verification passes.
