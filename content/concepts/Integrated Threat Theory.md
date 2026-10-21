@@ -7,7 +7,7 @@ file: "Integrated Threat Theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Integrated Threat Theory is an account of prejudice organised around four threat types: realistic threat, symbolic threat, intergroup anxiety and negative stereotypes. It is identified in the literature as the integrated threat theory of W. G. Stephan and Stephan (2000) ([Riek, Mania & Gaertner, 2006](https://pubmed.ncbi.nlm.nih.gov/17201592/)).
+Integrated Threat Theory is an account of prejudice organised around four threat types: realistic threat, symbolic threat, intergroup anxiety and negative stereotypes ([Stephan, Diaz-Loving & Duran, 2000](https://journals.sagepub.com/doi/10.1177/0022022100031002006)). It is identified in the literature as the integrated threat theory of W. G. Stephan and Stephan (2000) ([Riek, Mania & Gaertner, 2006](https://pubmed.ncbi.nlm.nih.gov/17201592/)).
 
 > "According to the theory, four types of threat (realistic, symbolic, intergroup anxiety, and negative stereotypes) cause prejudice. These threats are thought to be caused in part by the amount and quality of intergroup contact." (Stephan, Diaz-Loving & Duran, [Integrated Threat Theory and Intercultural Attitudes](https://journals.sagepub.com/doi/10.1177/0022022100031002006), Journal of Cross-Cultural Psychology 31(2), 2000, abstract)
 
