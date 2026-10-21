@@ -846,3 +846,13 @@
   (fires extinguished, chest kindling, cleansing-renewal framing). Related: Ritual, Li —
   ritual propriety, Impermanence (navigational captions; existence-verified). Degree 1 —
   fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Nomadology (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the primary text itself — the Semiotext(e) 'Nomadology: The War Machine' edition
+  (Cornell ARL PDF, 'Originally appearing in A Thousand Plateaus, Translated by Brian
+  Massumi'), opened and fetched — four passages verified verbatim (the Toynbee does-not-move
+  passage; Axiom II 'the war machine is the invention of the nomads'; the smooth-space
+  'sole and veritable positive object (nomos)' clause; 'Movement is extensive; speed is
+  intensive'). No dates asserted (not in the opened carrier). Related: Wu wei, Impermanence
+  (navigational captions, existence-verified). Degree 1 — fast-track. Validation
+  --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
