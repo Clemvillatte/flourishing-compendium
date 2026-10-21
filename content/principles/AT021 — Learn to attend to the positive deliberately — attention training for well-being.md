@@ -24,13 +24,13 @@ Wadlinger and Isaacowitz trained 55 people to look toward positive words instead
 
 ### Writing down what went well
 
-A better-supported practice is a plain daily exercise. In Seligman and colleagues' randomized, placebo-controlled study, participants wrote "three things that went well each day and their causes every night for one week". This was one of two exercises that "made people happier (and less depressed) up to six months later" ([Seligman et al., 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)). It trains what you notice and remember, and it did not test gaze.
+A different line of work tested a writing exercise. In Seligman and colleagues' randomized, placebo-controlled Internet study, participants wrote "three things that went well each day and their causes every night for one week". Of 577 participants at baseline, 411 completed every follow-up. This was one of two exercises that "made people happier (and less depressed) up to six months later" ([Seligman et al., 2005](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf)). Longer benefits were associated with continuing the exercises. The study did not establish an attention-network mechanism or compare the exercise directly with gaze training.
 
 (Seligman et al., 2005; Wadlinger & Isaacowitz, 2008; Cristea et al., 2015.)
 
-**Plain words** You can bias what you notice, and the lab shows a short training can shift where people look. A computer drill for it has weak support as a treatment. The simpler habit of recording good things and why they happened has stronger support. Neither is denial. It balances a scan that tends to lean toward problems.
+**Plain words** Writing about good events and practising where to look on a screen are different activities with different evidence. The writing study supports a possible benefit in its sample, not a promise to every reader. If you try the exercise, there is no need to deny what went badly that day.
 
-For example (imagined): three lines a night in a notebook, one sentence on why each happened. A week in, you may find yourself noticing the good moments as they happen.
+For example (imagined): before bed you record a meal with a friend and a piece of work finished, then write what helped each happen. This does not require calling the whole day good.
 
 ## Sources
 

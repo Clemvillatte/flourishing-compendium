@@ -102,3 +102,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Verified the quoted fragments and the distinction between perceptual load and cognitive-control demands.
 - Removed a general recommendation to make the main task absorbing as if it followed directly from perceptual-load experiments. Newsletter filtering is now clearly a contemporary application, not a tested condition.
 - The imagined inbox example no longer asserts that removing newsletters removes every competing demand. Protected content and inherited parallels unchanged.
+
+## AT021
+
+- Searched Seligman three good things; opened [Wadlinger and Isaacowitz](https://pubmed.ncbi.nlm.nih.gov/18266522/), [Cristea et al. meta-analysis](https://pubmed.ncbi.nlm.nih.gov/25561486/) and [Seligman et al. full manuscript](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf).
+- Checked all quotations, including the six-month statement in the manuscript's discussion. Added baseline/completer counts and the association between continuation and longer benefits.
+- Removed a ranking of unlike literatures without a head-to-head comparison and a claim about a trained noticing mechanism not measured by the writing study.
+- Plain words now preserves sample and generalisation limits. Protected sections and inherited parallels unchanged.
