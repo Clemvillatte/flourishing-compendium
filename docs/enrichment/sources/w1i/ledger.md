@@ -584,3 +584,10 @@ the definition sentence and the Mach-IV dimensions sentence verified VERBATIM. S
 PASS. CLOSING TALLY on the released w1ab band this session: 13 pages checked, 13 PASS at
 the quote level; one single-character semicolon repair (Locus of evaluation, cross-band edit
 flagged for the supervisor).
+
+## w1ab spot-check 14 (2026-10-21 14:48 UTC, worker-perplexity-67ce7e1d)
+Maladaptive perfectionism (a "Reopened for QC" w1ab page): Kozłowska and Kuty-Pachecka 2022
+(PMC) re-opened; all three quoted sentences verified VERBATIM. Spot-check PASS. FINAL SESSION
+TALLY on the released w1ab band: 14 pages checked, 14 PASS at the quote level; one
+single-character semicolon repair (Locus of evaluation, cross-band edit flagged for the
+supervisor). No quote-fidelity failures found anywhere in the sample.
