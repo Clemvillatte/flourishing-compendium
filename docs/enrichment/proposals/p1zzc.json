@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 17,
+ "revision": 18,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -91,6 +91,12 @@
    "link": "SP044",
    "why": "Spinoza's account of method starting from a given true idea, the method-side treatment of adequacy",
    "notes": "SP044 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP044 occurrences; grounded in the opened Elwes Emendation §§35-39."
+  },
+  {
+   "into": "Dual-process theory",
+   "link": "SP047",
+   "why": "Spinoza's four modes of perception, the graded early-modern counterpart to the intuition/deliberation contrast",
+   "notes": "SP047 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP047 occurrences; grounded in the opened Elwes Emendation §19 and Ethics II P40 scholium 2."
   }
  ]
 }

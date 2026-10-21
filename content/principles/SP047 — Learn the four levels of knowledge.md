@@ -12,16 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 47** — Learn the four levels of knowledge
 
-Spinoza's graded epistemology, stated in the Ethics and elaborated in the Emendation: hearsay and convention; random experience; inference (reason proper, from common notions); and intuitive knowledge, which proceeds from the adequate idea of God's attributes to the essence of things directly. The map matters practically because each level has its own reliability and its own use; you cannot skip levels, and trouble begins when hearsay is trusted as intuition. Practically, sort your current beliefs in one domain into the four levels, and give each the trust its level earns.
+The Emendation reduces all perception to four modes: "Perception arising from hearsay or from some sign", "Perception arising from mere experience", perception "when the essence of one thing is inferred from another thing, but not adequately", and the fourth:
 
-(Ethics II, P40 scholium 2; Treatise on the Emendation of the Intellect, sections 19-26.)
+> "Lastly, there is the perception arising when a thing is perceived solely through its essence, or through the knowledge of its proximate cause." (On the Improvement of the Understanding, §19, [Elwes](https://www.gutenberg.org/ebooks/1016))
 
-**Plain words** The four levels of knowledge: hearsay and convention; random experience; inference from common notions (reason proper); and intuition — seeing the thing from its essence in one view. Learn the ladder; locate your current beliefs on it. Most of what you "know" is level one.
+The Ethics restates the ladder with the fourth-proportional example: tradesmen solve the proportion by rule or habit, but with one, two, three given, "everyone can see that the fourth proportional is six", and this "is much clearer, because we infer the fourth number from an intuitive grasping of the ratio, which the first bears to the second" (Ethics II, P40 scholium 2). The map matters practically because each level has its own reliability and its own use; trouble begins when hearsay is trusted as intuition. The compendium's exercise: sort your current beliefs in one domain into the four levels, and give each the trust its level earns.
 
-*For example:* Someone's opinions about the medication: hearsay ("they say"), one bad experience (random), the actual trial data (reason), and finally the doctor who sees the mechanism whole (intuition). Same drug, four levels — and only the top two are worth acting on.
+**Plain words**
+Most of what you know, you know the way you know your own birthday: somebody told you, and you never checked. That is level one. Level two is your own raw experience, unsorted. Level three is working out the cause from the effect, carefully. Level four is seeing the ratio itself: given one, two, three, you see the fourth is six without calculating. The practical use of the ladder is diagnosis: when a belief matters, ask which level it sits on, and trust it accordingly.
+
+*For example:* Opinions about a medication: "they say" (hearsay), one bad experience (random experience), the trial data (inference), and the doctor who sees the mechanism whole (intuition). Same drug, four levels, and the trust owed to each differs.
+
+## Sources
+
+- [Spinoza, On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/1016) — §19 (the four modes)
+- [Spinoza, Ethics, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/3800) — II, P40 scholium 2 (kinds of knowledge, fourth proportional)
+
 ## Psychology parallels
 
-- **[[Dual-process theory|Dual-process accounts]]**, the broad consensus that intuition and deliberation are distinct systems with distinct failure modes (Evans and Stanovich, 2013)
+- **[[Dual-process theory|Dual-process accounts]]** (Evans and Stanovich, 2013)
 
 ## Philosophy parallels
 
