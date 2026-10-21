@@ -20,8 +20,6 @@ On number, they report that students who stayed low in traumatic stress after a 
 
 Later work is mixed. In four daily-life studies, using different strategies at the same moment went with less negative affect once overall strategy use was held constant, while change in one strategy over time gave inconsistent results ([Blanke et al., 2020, Emotion](https://www.fsv.uni-jena.de/fsvmedia/159170/blanke-et-al-2020-postprint-emotion-regulation-variability.pdf)). A 2025 study of 2,939 people found more regulatory flexibility went with higher well-being, with "diminishing returns" at the top, and its measure did not target repertoire size ([Werner et al., 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12857431/)).
 
-The earlier version's "five or six" strategies had no source here and is removed.
-
 **Plain words**
 With one move for a bad feeling, you are stuck the day it is unavailable. Several moves of different kinds give you something else to try.
 

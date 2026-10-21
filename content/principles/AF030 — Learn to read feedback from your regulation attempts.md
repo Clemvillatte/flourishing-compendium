@@ -12,11 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 30** — Learn to read feedback from your regulation attempts
 
-A critical component of flexible regulation is the ability to notice whether a strategy is working and adjust. People who persist with an ineffective strategy (e.g., continuing to suppress when suppression is escalating distress) are worse off than those who shift.
+Bonanno and Burton make feedback the third part of regulatory flexibility, after sensitivity to context and repertoire. They define it as "the ability to monitor and use feedback about the efficacy of a chosen regulatory strategy over time so as to adjust or correct behavior when needed" (Regulatory Flexibility, Perspectives on Psychological Science 8(6), 2013, p. 594, [Columbia PDF](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)).
 
-**Plain words** A critical component of regulation: notice whether a strategy is working, and adjust. Persisting with an ineffective strategy — suppressing while it escalates, breathing while the panic climbs — is the common failure. Read the feedback loop.
+### The point at which flexibility is tested
 
-*For example:* The person doing box breathing through hour three of the spiral — loyal to the technique, ignoring the data — versus the one who notices it's not working and switches to a walk, a call, a change of room. The meta-skill outranks the skill.
+Choosing a strategy is a separate step. At the feedback stage the question is "whether the strategy that was selected had been effective" (p. 601). They quote Folkman and Moskowitz: "what might be considered effective coping at the outset of a stressful situation may be deemed ineffective later on" (p. 601).
+
+Their illustration is a nervous flyer who tries reappraisal, notices that her fear "is not abating", and switches to reading the in-flight magazine (pp. 601-602). It is a constructed case, not a study. They also call feedback "as yet underresearched" (p. 603), so the principle rests on a framework and limited studies.
+
+**Plain words**
+Trying something is half the job; checking whether it helped is the other half. Without the check, you repeat a method out of habit long after it stopped working.
+
+**For example**
+Pick a strategy, such as slow breathing, and before starting rate the feeling from 0 to 10. After a fixed few minutes, rate it again. If the number has not moved, change something: the method, the place, or the person you are with. The rating habit is a plain way of doing what the authors describe, not their protocol.
+
+## Sources
+
+- [Bonanno and Burton 2013 (PDF)](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf)
+
 ## Psychology parallels
 
 - **Responsivity to affective feedback is a component of flexibility**, monitoring whether a strategy is working and adjusting is a distinct regulatory skill (Blanke et al., 2020)
