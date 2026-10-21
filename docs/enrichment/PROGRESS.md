@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-21 11:31 UTC (input revision `c31ace74b`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 12:31 UTC (supervisor refreshes at every pass, at least hourly).
+As of 2026-10-21 12:10 UTC (input revision `f4df7cee0`). Scope: principles and concepts enrichment — not the whole wiki. Next update due by 13:10 UTC (supervisor refreshes at every pass, at least hourly).
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-21 11:31 UTC (input revision `c31ace74b`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 1069 | 1200 | 2269 | 47.1% |
-| **Combined** | **3240** | **1212** | **4452** | **72.8%** |
+| Concepts | 1087 | 1182 | 2269 | 47.9% |
+| **Combined** | **3258** | **1194** | **4452** | **73.2%** |
 
 ## Principles by forest
 
