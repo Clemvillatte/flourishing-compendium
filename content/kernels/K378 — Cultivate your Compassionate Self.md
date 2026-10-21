@@ -16,25 +16,31 @@ Now imagine, in a step-by-step way, that you *are* a person who has developed co
 
 From inside that persona, imagine bringing compassion to a specific situation in your life. Spend a few minutes practising responding to that situation from this Compassionate Self.
 
-Practice this daily (5-10 minutes). Over time you're building a muscle — the ability to shift into a compassionate perspective at will, not just when circumstances invite it.
+Practice this daily (5-10 minutes). Over time you're building a muscle — the practiced shift into a compassionate perspective, not just when circumstances invite it.
 
 This is a method-acting move, not a mood change. You're not trying to feel kind; you're practising *being* the kind of person whose default response is kindness.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9, printed pp. 115-128 (core exercise at pp. 120-121).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9 (attribution inherited from the seed; the book was not opened this session).
 
 ### Protocol
 
-1. Sit upright and take one minute of slow, comfortable breathing. Target dimensions: Identity (who you practice being) and Emotion (warmth on demand).
+1. Sit upright and take one minute of slow, comfortable breathing. Target dimensions: Identity (who you practice being) and Emotion (warmth).
 2. Build the persona step by step: face, posture, voice of a person with compassionate wisdom, strength and warmth. Then hold the image and be them.
 3. Pick one specific situation in your life and spend a few minutes responding to it from inside the persona.
-4. If the persona feels thin or theatrical, keep the acting up anyway; the practice works through the posture and voice, not through feeling kind on cue.
+4. If the persona feels thin or theatrical, keep the acting up anyway; the exercise runs through posture and voice, and feeling kind on cue is not required.
 5. Afterwards, note one moment when the persona's response differed from your default. Retain the daily slot; vary the situation you practise on.
 
 ### Evidence
 
-No trial isolates the Compassionate Self exercise from the rest of the CFT package. The therapy it comes from targets a specific audience: compassion-focused therapy "was developed for people who have mental health problems primarily linked to high shame and self-criticism" ([Leaviss & Uttley, 2015](https://pubmed.ncbi.nlm.nih.gov/25215860/)).
+The cited studies examine CFT as a therapy and the compassion-psychopathology correlation, not this exercise alone. The therapy it comes from targets a specific audience ([Leaviss & Uttley, 2015](https://pubmed.ncbi.nlm.nih.gov/25215860/)):
 
-The underlying correlate is well mapped. Across 20 samples from 14 studies, "we found a large effect size for the relationship between compassion and psychopathology of r=-0.54 (95% CI=-0.57 to -0.51; Z=-34.02; p<.0001)" ([MacBeth & Gumley, 2012](https://pubmed.ncbi.nlm.nih.gov/22796446/)). That is an association, not evidence that this exercise raises compassion.
+> "Compassion-focused therapy (CFT) is a relatively novel form of psychotherapy that was developed for people who have mental health problems primarily linked to high shame and self-criticism." — [Leaviss & Uttley (2015)](https://pubmed.ncbi.nlm.nih.gov/25215860/)
+
+The underlying correlate is well mapped across 20 samples from 14 studies ([MacBeth & Gumley, 2012](https://pubmed.ncbi.nlm.nih.gov/22796446/)):
+
+> "We found a large effect size for the relationship between compassion and psychopathology of r=-0.54 (95% CI=-0.57 to -0.51; Z=-34.02; p<.0001)" — [MacBeth & Gumley (2012)](https://pubmed.ncbi.nlm.nih.gov/22796446/)
+
+That is an association, not evidence that this exercise raises compassion.
 
 ### A guided version
 
@@ -63,6 +69,6 @@ The book's own author recorded one: Russell Kolts's [Compassionate Self Meditati
 
 ## Sources
 
-- [Kolts (2016), *CFT Made Simple*, New Harbinger, ch. 9, pp. 115-128](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) — the exercise's source, and the author's own guided recording
-- [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychiatry Research, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
+- [Kolts (2016), *CFT Made Simple*, New Harbinger, ch. 9](https://insighttimer.com/russellkolts/guided-meditations/compassionate-self-meditation) — attribution inherited from the seed; the book was not opened this session
+- [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
 - [MacBeth & Gumley (2012), "Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology", Clinical Psychology Review, PubMed](https://pubmed.ncbi.nlm.nih.gov/22796446/)

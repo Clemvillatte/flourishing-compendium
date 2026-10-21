@@ -271,16 +271,16 @@
   "K108",
   "K111",
   "Scheduled empty time",
-  "The Befriending meditation",
   "Rest as practice",
   "Cultivate your Compassionate Self",
   "Compassion for a struggling version of yourself"
  ],
- "in_progress": null,
- "updated": "2026-10-21T14:38:47+00:00",
+ "in_progress": "The Befriending meditation",
+ "updated": "2026-10-21T14:44:44+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
-  "Rest as practice": "near-duplicate check: K200 (body-recovery rest) vs K112 (attention-band empty time) — kept distinct by frame and evidence base; supervisor disposition welcome to merge"
+  "Rest as practice": "near-duplicate check: K200 (body-recovery rest) vs K112 (attention-band empty time) — kept distinct by frame and evidence base; supervisor disposition welcome to merge",
+  "The Befriending meditation": "Reopened for QC: milestone QC r1 FAIL repairs applied: bounded statements; unsupported inferences removed; author/journal metadata corrected (Gu et al.; JPSP; Psychol Med); quotes to standalone blockquotes with exact capitalization; book attributions marked inherited; validator + --base b9dbc3175 pass"
  }
 }

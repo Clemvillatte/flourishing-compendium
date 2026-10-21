@@ -20,7 +20,7 @@ Now imagine being *there with them*. Imagine only they can see or hear you. Cons
 
 This is not a mood change; it's a perspective shift. You're practising the move from being *captured by* a threat to *being with* the part of you that's threatened.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9, printed pp. 120-122 (exercise at pp. 121-122).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9 (attribution inherited from the seed; the book was not opened this session).
 
 ### Protocol
 
@@ -32,13 +32,17 @@ Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9, printed pp. 1
 
 ### Evidence
 
-No trial isolates this exercise from the CFT package it belongs to. The underlying contrast it trains has neural evidence. Participants in an fMRI task who imagined being self-reassuring after setbacks showed a different pattern from self-criticism: "self-reassurance was associated with left temporal pole and insula activation, suggesting that efforts to be self-reassuring engage similar regions to expressing compassion" ([Longe et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19770047/)). The same study's framing of the stakes: "self-criticism is strongly correlated with a range of psychopathologies, such as depression, eating disorders and anxiety. In contrast, self-reassurance is inversely associated with such psychopathologies" ([Longe et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19770047/)).
+The cited studies examine self-criticism and self-reassurance as mental states, and CFT as a therapy, not this exercise alone. In an fMRI study, participants were instructed to imagine being self-critical or self-reassuring in matched scenarios; the study compared those instructed states and did not test this exercise or measure symptom change ([Longe et al., 2010](https://pubmed.ncbi.nlm.nih.gov/19770047/)):
 
-The therapy family this exercise comes from "was developed for people who have mental health problems primarily linked to high shame and self-criticism" ([Leaviss & Uttley, 2015](https://pubmed.ncbi.nlm.nih.gov/25215860/)).
+> "Self-reassurance was associated with left temporal pole and insula activation, suggesting that efforts to be self-reassuring engage similar regions to expressing compassion" — [Longe et al. (2010)](https://pubmed.ncbi.nlm.nih.gov/19770047/)
+
+> "Self-criticism is strongly correlated with a range of psychopathologies, such as depression, eating disorders and anxiety. In contrast, self-reassurance is inversely associated with such psychopathologies" — [Longe et al. (2010)](https://pubmed.ncbi.nlm.nih.gov/19770047/)
+
+The therapy family this exercise comes from targets high shame and self-criticism ([Leaviss & Uttley, 2015](https://pubmed.ncbi.nlm.nih.gov/25215860/)).
 
 ### A guided version
 
-A free recording of the exercise itself exists: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description: "In this exercise, you'll be guided on practicing self-compassion, through a time you were struggling."
+A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description: "In this exercise, you'll be guided on practicing self-compassion, through a time you were struggling."
 
 ## Operationalises
 
@@ -62,6 +66,6 @@ A free recording of the exercise itself exists: [Directing the Compassionate Sel
 
 ## Sources
 
-- [Kolts (2016), *CFT Made Simple*, New Harbinger, ch. 9, pp. 120-122](https://balancedminds.com/compassion-focused-therapy-audio/) — the exercise's source; a free guided recording of the same exercise linked above
+- [Kolts (2016), *CFT Made Simple*, New Harbinger, ch. 9](https://balancedminds.com/compassion-focused-therapy-audio/) — attribution inherited from the seed; the book was not opened this session; the linked recording is a related guided practice, not the book
 - [Longe et al. (2010), "Having a word with yourself: neural correlates of self-criticism and self-reassurance", NeuroImage, PubMed](https://pubmed.ncbi.nlm.nih.gov/19770047/)
-- [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychiatry Research, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
+- [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
