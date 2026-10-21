@@ -21,11 +21,11 @@ The same record notes that the replication "has provided an initial demonstratio
 
 ## Related concepts
 
-- [[Conformity]] — the sibling line: yielding to peers rather than to authority
+- [[Conformity]] — the sibling line of social influence: yielding to peers rather than to authority
 - [[Moral disengagement research]] — how people rationalize what an authority asks of them
-- [[Moral situations research]] — the moral-psychology program that treats situations, not character, as the driver
-- [[Bystander effect theory Darley Latane]] — the other classic situational finding from the same research era
-- [[Obedience theory Milgram]] — the seed twin of this page; garbled title, flagged for supervisor disposition
+- [[Moral situations research]] — the situationist thesis in moral psychology; the obedience line runs the same argument with authority
+- [[Bystander effect theory Darley Latane]] — a sibling finding from the same situational tradition: helping collapses as witnesses diffuse responsibility
+- [[Obedience theory Milgram]] — the same Milgram line from the theory side
 
 ## Sources
 

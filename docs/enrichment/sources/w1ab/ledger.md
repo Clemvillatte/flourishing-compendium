@@ -670,3 +670,37 @@
 - Post-repair validation (NORMAL track, no fast-track flag): 4 checked, 0 failures; prose
   150+ words each; front-matter and all original wikilinks preserved (D165, B160, PP057,
   PP077). Status: round-3 re-verification submitted to the advisor.
+
+## MILESTONE QC items 16-19 round 3 (advisor: repairs specified -> applied) — 2026-10-21, worker-pxy1u
+- Round-3 verdicts: Ockham's razor core PASS (proposals not cleared), Obedience research revised
+  opening PASS (Related captions FAIL), Neuroaesthetics additions FAIL, Neurobiology of addiction
+  FAIL (two substantive wording errors). All repairs applied:
+  (a) Neurobiology of addiction: 'a drop in reward-system dopamine' -> 'reduced function in the
+  dopamine component of the reward system'; 'Each stage has its own circuit.' DELETED (the
+  stage-3 blockquote itself names basal ganglia + extended amygdala, which appear in earlier
+  stages) and replaced with the source-bounded sentence 'The framework describes reward,
+  withdrawal-related distress and craving through changes across several brain systems; some
+  regions appear in more than one stage.'; the title-signaling padding and the 'three-part'
+  intro repetition removed.
+  (b) Obedience research: the public editing note ('garbled title, flagged for supervisor
+  disposition') REMOVED from the published Related caption and moved to this ledger; the
+  Obedience theory Milgram caption now reads 'the same Milgram line from the theory side'.
+  SUPERVISOR FLAG (recorded here, not on the page): 'Obedience theory Milgram' is a
+  garbled-title near-duplicate of 'Obedience research' OUTSIDE the w1ab manifest — title fix
+  requested per the concept-verification-sweep precedent.
+  (c) Related captions and all 20 proposal why clauses audited as factual prose; unsupported
+  equivalences rewritten as labeled editorial comparisons or grounded in the target pages
+  (Relapse prevention protocols, Reward prediction error (Schultz), Incentive salience theory,
+  Moral situations research, Bystander effect theory, Deliberate simplicity, Disinterested
+  aesthetic pleasure, The aesthetic read before rewriting).
+  (d) Neuroaesthetics: the unsupported overlap-with-ordinary-perception clause removed ('The
+  field asks which neural systems carry these experiences' retained as a definition gloss);
+  the 2014 outlook line now explicitly scoped ('That last line is the authors' 2014 outlook,
+  not a finding').
+  (e) MENTION SEARCHES run (advisor's normal-track completion gate): Ockham's razor (found the
+  CO003 unlinked mention '(Occam's Razor, William of Ockham)' -> inline proposal added),
+  obedience/authority (B160 and Autonomy already linked; no new candidates), neuroaesthetic
+  (no unlinked candidates), addiction/craving/reward (AF011 cites Koob & Le Moal 2008, a
+  different work — not proposed).
+- Post-repair validation: NORMAL track, 4 checked, 0 failures; prose 150+ each; front-matter
+  and original wikilinks preserved. Status: round-4 submission with actual final page text.
