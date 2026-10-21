@@ -865,3 +865,16 @@ Carrier opened fresh: New Advent Summa Theologiae I-II q61. w1q "Cardinal virtue
 all four quoted passages (four cardinal virtues; containment under them; prudence
 principal; Cicero reduction citing De Invent. Rhet. ii) VERBATIM vs the opened carrier
 (page renders "reduce[d]" with bracket — standard). 1/1 PASS, no defects.
+
+## Round 64 (16:45Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: SEP "Plato" (Kraut). w1q "Anamnesis": quote 1 (Meno recollection
+passage) and quote 3 (Phaedo 75d forms passage) VERBATIM (marked fragment/truncation
+practice acceptable). DEFECT ROUTED (minor, word-level): quote 2 (Phaedo 73a-b) prints
+"...or from the information provided in the questions..." where the opened SEP prints
+"...or from information provided in the questions..." — a spurious "the" inserted.
+One-word repair requested.
+
+Routed defects to date: 8 (Fellow feeling locator; Intra-action Hammarström; Kairos Chase;
+Novelty research deviations; Nomadology therefore; Ordering the soul "is"; Theory of Work
+Adjustment Lofquist/Weiss attribution; Anamnesis spurious "the").
