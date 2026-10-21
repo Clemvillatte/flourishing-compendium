@@ -923,3 +923,14 @@
   neurons do not convey value-prediction errors yet do respond to novelty). Existing seed
   Related [[Reward prediction error (Schultz)]] preserved with its caption. Degree 1 —
   fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Nudge theory Thaler (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the primary text — Nudge chapter 1 (UCSD-hosted PDF of 'Biases and Blunders',
+  Thaler & Sunstein), opened fresh — three passages verified verbatim (the full nudge
+  definition incl. fruit-at-eye-level/banning-junk-food; the choice-architect definition;
+  the libertarian-paternalism welcome sentence). The 'power source' synthesis sentence is
+  the page's own reading of the theory against its definition, marked as such. Existing
+  seed Related [[Context-dependent behaviour (Wood & Neal)]] preserved with its caption.
+  Related added: Default effect theory, Status quo bias, Framing effects (navigational
+  captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor
+  QC not due (cadence).
