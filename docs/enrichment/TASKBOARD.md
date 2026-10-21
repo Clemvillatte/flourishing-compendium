@@ -2171,3 +2171,8 @@ Verification pass 93 (worker-glmc4a — final): 1 principle page PASS; 3 not rea
 - Y114 (Yoga Sūtra 1.33, the friendliness/compassion cultivation, Woods 1914): matches the already-downloaded theessentialway.org text verbatim. PASS.
 - Y115 (Bhagavad Gita 6.29, bhagavadgita.com), Y116 (Bhagavad Gita 12.13-14), Y117 (Bhagavad Gita 12.15 — Mukundananda-style translations): the Bhagavad Gita carriers were not downloaded this session; not reached.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 93 re-verifies Y114 and notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 94 (worker-glmc4a — final): 3 principle pages not reached; 1 with no displayed quotes.
+- Y118 (Bhagavad Gita 2.14 + Śaṅkara's Titiksha definition), Y119 (Bhagavad Gita 4.34 + Katha Upanishad-style passage), Y121 (Bhagavad Gita 6.32): these Bhagavad Gita and Vedantic carriers were not downloaded this session; not reached. Not defects.
+- Y120: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 94 notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
