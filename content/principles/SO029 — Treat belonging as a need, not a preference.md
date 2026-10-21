@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 29** — Treat belonging as a need, not a preference
 
-Treat belonging — the felt sense of being accepted, included, and valued by a group — as a need, not a preference. Belonging predicts well-being, health, and behavior; its absence predicts alienation, disengagement, and extremism (Baumeister and Leary, 1995; Walton and Cohen, 2007; Lambert et al., 2013).
+Baumeister and Leary's review is the source of the need framing:
 
-**Plain words** Belonging is a need, not a preference — the felt sense of being accepted and valued. Its absence predicts alienation, disengagement, and extremism. People join terrible groups when good ones are closed. Belonging is a nutrient with a dark side when it's missing.
+> Existing evidence supports the hypothesis that the need to belong is a powerful, fundamental, and extremely pervasive motivation.
 
-*For example:* The teenager who finds "family" in the worst available crowd — the need was legitimate, the supply was toxic. The need doesn't ask permission; it finds a vendor.
+(Baumeister & Leary, 1995, Psychological Bulletin 117(3), abstract; [PubMed](https://pubmed.ncbi.nlm.nih.gov/7777651/))
+
+The abstract also states what the need is for: frequent, nonaversive interactions within an ongoing relational bond, and links lack of attachments to a variety of ill effects on health, adjustment, and well-being. That is the substance of the principle statement's distinction between need and preference: preferences can be deferred without cost, and the review treats unsatisfied belongingness as carrying health and adjustment costs.
+
+**Plain words**
+Belonging is the felt sense of being accepted and valued. The difference between a need and a preference is what deferral costs: the review links missing attachments to worse health, adjustment and well-being, which is why it calls the drive fundamental. The design question follows from the cost: where in your week is the ongoing bond being fed?
+
+*For example:* Imagine the teenager who finds "family" in the worst available crowd: the need was legitimate, the supply was toxic.
+
+## Sources
+
+- Baumeister & Leary, 1995, Psychological Bulletin 117(3):497-529 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/7777651/)
+
 ## Psychology parallels
 
 -  (1995) on the need to belong; Walton and Cohen (2007) on belonging uncertainty; Lambert et al. (2013) on belonging and meaning; belonging and health (Holt-Lunstad et al., 2017); the belonging-intervention literature (Walton and Cohen, 2011).
