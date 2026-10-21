@@ -1095,3 +1095,12 @@ Final tally this session: 10 done, 3 identity-held (One koan, Obstruction as sti
 - SEP Marcel secondary-reflection clause re-verified against opened page: supported.
 - Theory retrofit per binding EXEMPLARS.md skeleton: Operant conditioning (Skinner), Orthogonal Cultural Identification Theory (Origin / Core claims / How it explains / In everyday life sections added; example labelled illustrative scenario).
 - Ordering the soul: partial quote extended to 'concernment of man' for exactness.
+
+### Final advisor verification round (worker-pxy2, pre-close)
+Repairs applied: Organismic trust opening grounded to abstract-supported claims; proposals cleaned
+(45 total: held-page links withdrawn, rejected origin gloss removed, 3 destination-describing
+glosses fixed); Attachment security clause on Obsessive attachment fixed; Orthogonal theory page
+restructured (standalone core-claim blockquote + separate how-the-model-works section);
+Skinner locators independently verified against PDF (p. 65 / p. 66, Chapter V Operant Behavior);
+accounting corrected: manifest 70, done 57, remaining 13 all identity-held (9 inherited + 4 this
+session). Full validator sweep of all session pages: 14/14 ok.
