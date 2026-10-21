@@ -18,7 +18,7 @@ Merleau-Ponty's image for the body-subject is printed in the Stanford Encycloped
 
 The application the page takes from it: the walking thinker below is not a quirk of the mind but a fact about the body-subject's setting, and the day can be scheduled around it. An application, not a claim the simile makes.
 
-(Merleau-Ponty, 1945/2012, Phenomenology of Perception, Introduction and Part I; Sartre, 1943/2003, Being and Nothingness, Part III.)
+(Merleau-Ponty, 1945/2012, Phenomenology of Perception, Introduction and Part I.)
 
 **Plain words**
 Your thinking happens somewhere, and the somewhere is not incidental: it happens in a body that is tired or rested, cramped or walking. When you plan your day, plan it around the body's condition rather than around the idea of a mind that floats above it. The question "when do you think best?" is a question about the body.
