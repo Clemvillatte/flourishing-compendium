@@ -3007,6 +3007,35 @@ function renderAcademy(){
 }
 
 /* ---------- Gallery (Degrees overview) ---------- */
+/* ═══ Direction A — Editorial Academy (2026-10-21 revamp; content untouched) ═══ */
+const ACAD_ROMAN = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII'];
+const ACAD_IMG = {
+  'deg-philosophy':'assets/academy/stoa.jpg',
+  'deg-contemplative':'assets/academy/zen.jpg',
+  'deg-qigong':'assets/academy/qigong.jpg'
+};
+function acadHallImg(deg){ return ACAD_IMG[deg.id] || 'assets/academy/hall.jpg'; }
+function acadRoman(n){ return ACAD_ROMAN[n-1] || String(n); }
+function degreeProgress(deg){
+  let done=0, total=0;
+  (deg.modules||[]).forEach(mid=>{
+    const m = moduleById(mid); if(!m) return;
+    (m.requiredMedia||[]).concat(m.optionalMedia||[]).forEach(r=>{
+      if(r && r.source_id){ total++; if(A.completed.has(r.source_id)) done++; }
+    });
+  });
+  return {done,total};
+}
+function acadProgressBar(done,total){
+  const pb = el('span','acad-pbar');
+  const pct = total ? Math.round(done/total*100) : 0;
+  pb.appendChild(el('span','acad-pbar-label',`${done}/${total} watched`));
+  const track = el('span','acad-pbar-track');
+  const fill = el('span','acad-pbar-fill'); fill.style.width = pct+'%';
+  track.appendChild(fill); pb.appendChild(track);
+  return pb;
+}
+
 function renderAcademyHome(){
   const wrap = el('div');
   const top = el('div','acad-topbar');
@@ -3033,72 +3062,78 @@ function renderAcademyHome(){
   top.appendChild(actions);
   wrap.appendChild(top);
 
-  // About note
-  const about = el('div','acad-sub');
-  about.style.padding='12px 0';
-  about.textContent = 'The Academy is the instructional sequence over the Learning Library — 308 curated source records drawn from missions M-01 through M-26 and the M-33 audit (verified against all seven eligibility gates). Records carry mission provenance; gate evidence varies by record (some inherit unresolved host-gate or duration questions). Views/likes do not matter. Curriculum status: draft.';
-  wrap.appendChild(about);
-
-  // Degree grid
-  const grid = el('div','acad-degree-grid');
-  for(const deg of window.fcAcademyData.degrees){
-    const card = el('div','acad-degree-card'); card.tabIndex=0; card.setAttribute('role','button'); card.setAttribute('aria-label', 'Open degree: ' + deg.title);
-    card.appendChild(el('div','acad-degree-icon', deg.icon||'🎓'));
-    card.appendChild(el('div','acad-degree-title', deg.title));
-    card.appendChild(el('div','acad-degree-desc', deg.description));
-    const meta = el('div','acad-degree-meta');
-    const chip = el('span','acad-chip', `${(deg.modules||[]).length} modules`);
-    meta.appendChild(chip);
-    if(deg.status==='draft'){ meta.appendChild(el('span','acad-chip draft','draft')); }
-    card.appendChild(meta);
+  // Degree halls — Editorial Academy (image plates, roman numerals, progress)
+  const grid = el('div','acad-hall-grid');
+  window.fcAcademyData.degrees.forEach((deg,i)=>{
+    const card = el('div','acad-hall'); card.tabIndex=0; card.setAttribute('role','button'); card.setAttribute('aria-label', 'Open degree: ' + deg.title);
+    const plate = el('div','acad-hall-plate');
+    plate.style.backgroundImage = `url('${acadHallImg(deg)}')`;
+    plate.appendChild(el('span','acad-hall-rn', acadRoman(i+1)+'.'));
+    if(deg.status==='draft'){ plate.appendChild(el('span','acad-chip draft acad-hall-status','draft')); }
+    card.appendChild(plate);
+    const body = el('div','acad-hall-body');
+    body.appendChild(el('div','acad-hall-title',deg.title));
+    body.appendChild(el('div','acad-hall-desc',deg.description));
+    const foot = el('div','acad-hall-foot');
+    const nMods = (deg.modules||[]).length;
+    foot.appendChild(el('span','acad-hall-meta',`${nMods} module${nMods!==1?'s':''}`));
+    const prog = degreeProgress(deg);
+    if(prog.total){ foot.appendChild(acadProgressBar(prog.done,prog.total)); }
+    body.appendChild(foot);
+    card.appendChild(body);
     card.onclick = () => { A.view='degreeDetail'; A.degree=deg.id; renderAcademy(); };
     card.onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); card.onclick(); } };
     grid.appendChild(card);
-  }
+  });
   wrap.appendChild(grid);
+
+  // About note — colophon
+  const about = el('div','acad-colophon');
+  about.textContent = 'The Academy is the instructional sequence over the Learning Library — 308 curated source records drawn from missions M-01 through M-26 and the M-33 audit (verified against all seven eligibility gates). Records carry mission provenance; gate evidence varies by record (some inherit unresolved host-gate or duration questions). Views/likes do not matter. Curriculum status: draft.';
+  wrap.appendChild(about);
   return wrap;
 }
 
 
-/* ---------- Degree detail ---------- */
+/* ---------- Degree detail (Editorial Academy: degree band + syllabus) ---------- */
 function renderDegreeDetail(degId){
   const deg = window.fcAcademyData.degrees.find(d=>d.id===degId);
   if(!deg) return el('div','acad-empty','Degree not found');
 
   const wrap = el('div','acad-detail');
-  const head = el('div','acad-detail-head');
-  const t = el('div');
-  t.appendChild(el('h2','acad-detail-title',deg.title));
+
+  // Degree band
+  const band = el('div','acad-band');
+  band.style.backgroundImage = `url('${acadHallImg(deg)}')`;
+  const bandInner = el('div','acad-band-inner');
   const back = el('button','acad-btn ghost','← Academy');
   back.onclick = () => { A.view='home'; renderAcademy(); };
-  head.appendChild(back);
-  head.appendChild(t);
-  wrap.appendChild(head);
-
-  wrap.appendChild(el('p','acad-detail-desc',deg.description));
+  bandInner.appendChild(back);
+  bandInner.appendChild(el('h2','acad-band-title',deg.title));
+  bandInner.appendChild(el('p','acad-band-desc',deg.description));
   const meta = el('div','acad-detail-meta');
   meta.appendChild(el('span','acad-chip',`${(deg.modules||[]).length} modules`));
   meta.appendChild(el('span','acad-chip academic','self-directed'));
+  const prog = degreeProgress(deg);
+  if(prog.total){ meta.appendChild(el('span','acad-chip',`${prog.done}/${prog.total} watched`)); }
   if(deg.status==='draft'){ meta.appendChild(el('span','acad-chip draft','draft — some modules lack Mastery-level sources')); }
-  wrap.appendChild(meta);
+  bandInner.appendChild(meta);
+  band.appendChild(bandInner);
+  wrap.appendChild(band);
+
+  // Two-column: sticky aside + syllabus
+  const cols = el('div','acad-degree-cols');
+  const aside = el('aside','acad-aside');
 
   // Shared opening module note (cleaned: strip internal ticket/agent codes)
   if(deg.openingNote){
     const clean = deg.openingNote.replace(/\s*\(M-\d+[^)]*\)\s*/g,' ').replace(/\s*HOME\d+[^)]*\s*/g,' ').replace(/\s{2,}/g,' ').trim();
-    if(clean) wrap.appendChild(el('p','acad-limitation',clean));
+    if(clean) aside.appendChild(el('p','acad-aside-note',clean));
   }
-
-  const list = el('div','acad-module-list');
-  (deg.modules||[]).forEach((mid,idx)=>{
-    const mod = moduleById(mid);
-    if(!mod) return;
-    list.appendChild(renderModuleCard(mod,idx+1));
-  });
-  wrap.appendChild(list);
 
   // Go Further: live-practice discovery cards (per-degree, optional)
   if(deg.goFurther && deg.goFurther.length){
-    const gf = el('div','acad-section');
+    const gf = el('div','acad-aside-gf');
     gf.appendChild(el('div','acad-section-title','Go further — find live practice'));
     const grid = el('div','acad-gf-grid');
     deg.goFurther.forEach(g=>{
@@ -3116,47 +3151,74 @@ function renderDegreeDetail(degId){
       grid.appendChild(card);
     });
     gf.appendChild(grid);
-    wrap.appendChild(gf);
+    aside.appendChild(gf);
   }
+  cols.appendChild(aside);
+
+  const main = el('div','acad-syllabus');
+  main.appendChild(el('div','acad-syllabus-h','The syllabus'));
+  (deg.modules||[]).forEach((mid,idx)=>{
+    const mod = moduleById(mid);
+    if(!mod) return;
+    main.appendChild(renderModuleCard(mod,idx+1));
+  });
+  cols.appendChild(main);
+  wrap.appendChild(cols);
   return wrap;
 }
 
-/* ---------- Module card (in degree list) ---------- */
+/* ---------- Module card (expandable syllabus entry) ---------- */
 function renderModuleCard(mod,num){
-  const card = el('div','acad-module'); card.tabIndex=0; card.setAttribute('role','button');
+  const card = el('div','acad-module'); card.tabIndex=0; card.setAttribute('role','button'); card.setAttribute('aria-expanded','false');
   const head = el('div','acad-module-header');
-  head.appendChild(el('span','acad-module-num',`Module ${num}`));
+  head.appendChild(el('span','acad-module-num',`Module ${acadRoman(num)}`));
   head.appendChild(el('span','acad-module-title',mod.title));
+  const mm = el('span','acad-module-mm');
+  if(mod.difficulty){ mm.appendChild(el('span','acad-chip',mod.difficulty)); }
+  if(mod.durationHours){ mm.appendChild(el('span','acad-chip',`${mod.durationHours}h`)); }
+  head.appendChild(mm);
   card.appendChild(head);
 
   if(mod.question){ card.appendChild(el('p','acad-module-question',mod.question)); }
-  const meta = el('div','acad-module-meta');
-  if(mod.difficulty){ meta.appendChild(el('span','acad-chip',mod.difficulty)); }
-  if(mod.durationHours){ meta.appendChild(el('span','acad-chip',`${mod.durationHours}h`)); }
-  card.appendChild(meta);
 
+  const body = el('div','acad-module-body');
   if(mod.outcomes && mod.outcomes.length){
     const ol = el('ul','acad-outcomes');
     mod.outcomes.slice(0,3).forEach(o=>ol.appendChild(el('li',null,o)));
-    card.appendChild(ol);
+    body.appendChild(el('div','acad-body-h','By the end of this module'));
+    body.appendChild(ol);
   }
 
-  // Required media
-  const reqs = (mod.requiredMedia||[]);
-  reqs.forEach(m=>{
-    const src = sourceById(m.source_id);
-    if(!src) return;
-    card.appendChild(renderMediaRow(src,m.level));
+  // Viewing list — level label once per group
+  const groups = {};
+  (mod.requiredMedia||[]).forEach(m=>{
+    const lvl = (m.level||'').trim();
+    (groups[lvl] = groups[lvl] || []).push(m);
+  });
+  Object.keys(groups).forEach(lvl=>{
+    if(lvl) body.appendChild(el('div','acad-viewgroup-label',lvl));
+    groups[lvl].forEach(m=>{
+      const src = sourceById(m.source_id);
+      if(!src) return;
+      body.appendChild(renderMediaRow(src,null));
+    });
   });
 
   if((mod.gaps||[]).length){
-    card.appendChild(el('div','acad-limitation',`Gap: ${mod.gaps[0]}`));
+    body.appendChild(el('div','acad-limitation',`Gap: ${mod.gaps[0]}`));
   }
 
+  const more = el('button','acad-btn ghost','Open module page →');
+  more.onclick = (e)=>{ e.stopPropagation(); A.view='moduleDetail'; A.module=mod.id; renderAcademy(); };
+  body.appendChild(more);
+  card.appendChild(body);
+
   card.onclick = (e)=>{
-    if(e.target.closest('.acad-media-row')) return; // let media click pass
-    A.view='moduleDetail'; A.module=mod.id; renderAcademy();
+    if(e.target.closest('.acad-media-row') || e.target.closest('.acad-btn')) return; // let inner clicks pass
+    const open = card.classList.toggle('open');
+    card.setAttribute('aria-expanded', open ? 'true' : 'false');
   };
+  card.onkeydown = (e)=>{ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); card.onclick(new MouseEvent('click',{bubbles:true})); } };
   card.style.cursor='pointer';
   return card;
 }
@@ -3167,8 +3229,12 @@ function renderMediaRow(src,level){
   if (src.source_id) { row.dataset.srcId = src.source_id; }
   const isWatched = !!(src.source_id && A.completed.has(src.source_id));
   if (isWatched) row.classList.add('watched');
-  const lv = el('span',`acad-media-level${(level||'').toLowerCase()==='mastery'?' mastery':''}${(level||'').toLowerCase()==='advanced'?' advanced':''}`, level||'');
-  row.appendChild(lv);
+  if(level){
+    const lv = el('span',`acad-media-level${(level||'').toLowerCase()==='mastery'?' mastery':''}${(level||'').toLowerCase()==='advanced'?' advanced':''}`, level);
+    row.appendChild(lv);
+  } else {
+    row.classList.add('no-level');
+  }
   const info = el('div','acad-media-info');
   info.appendChild(el('div','acad-media-title',src.title||'untitled'));
   info.appendChild(el('div','acad-media-host',[src.presenter,src.host].filter(Boolean).join(' · ')||''));
