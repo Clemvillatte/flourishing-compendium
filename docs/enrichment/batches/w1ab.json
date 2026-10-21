@@ -49,8 +49,6 @@
   "Overconfidence effects",
   "Movement snacks",
   "Obsessive attachment",
-  "Obstruction as stimulus",
-  "One principle at a time",
   "Ontological relativity",
   "Operant conditioning (Skinner)"
  ],
@@ -81,10 +79,10 @@
   "Noogenic neurosis": "carrier gap: PMID 14138376 (Crumbaugh & Maholick 1964) has no abstract in PubMed; seed source is Frankl's book The Will to Meaning — next worker needs a lawful book carrier or quoting review",
   "One koan": "IDENTITY/LABEL HOLD (advisor QC 2026-10-21, worker-pxy2-w1ab): 'One koan' may be a compendium label for the Rinzai assigned breakthrough-koan practice rather than a distinct named concept (Koan practice already exists). Page pushed as source-bounded WIP (quote carriers opened: SEP Japanese Zen sec.2 + Wikipedia Koan + Wikisource Gateless Gate index); held out of done pending supervisor disposition. Batch note correction: wikisource subpage/api returned 403/blocked; the wikisource INDEX page opened fine and supports Case 1 = Joshu's Dog (Senzaki/Reps).",
   "Obsessive attachment": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = Gutenberg Pusey Confessions Book IV + marxists.org Beauvoir ch2; both quotes verified verbatim; Symposium seed line preserved but not opened this session; sense follows citing principle E074 per protocol rule 6",
-  "Obstruction as stimulus": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Gutenberg HNC Part Three I; all quotes verified verbatim; title is a compendium label for Dewey mechanism (hitch occasions thought) - mild namespace note for supervisor; Experience and Nature seed line preserved with pointer to P085 note",
-  "One principle at a time": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = Access to Insight MN 118 + Wikisource Seneca Letter 2; quotes verified verbatim; Buddhist seed + Stoic citing principle (S135) bridged",
-  "Ontological relativity": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Quine sec 6.2; quotes verified verbatim; Quine primary essay not freely openable - doctrine summarized via SEP per fast-track bar",
-  "Operant conditioning (Skinner)": "fast-track done at theory-page standard (2026-10-21, worker-pxy2-w1ab): primary carrier opened = bfskinner.org Science and Human Behavior PDF; 3 theorist quotes verified verbatim (operant definition, strengthening, environment builds repertoire)"
+  "Obstruction as stimulus": "IDENTITY HOLD (advisor milestone QC 2026-10-21, worker-pxy2-w1ab): title is the compendium's label for the Dewey mechanism (hitch occasions thought); page content is source-bounded WIP (HNC Part Three I opened, quotes verbatim); held out of done pending supervisor disposition, same gate as One koan.",
+  "One principle at a time": "IDENTITY HOLD (advisor milestone QC 2026-10-21, worker-pxy2-w1ab): opened sources (MN 118, Seneca Letter 2) establish breathing meditation and reading advice, not 'One principle at a time' as a named concept; title also resembles a practical instruction excluded by protocol 1.0. Page revised to editorial-comparison wording and held out of done pending supervisor disposition.",
+  "Ontological relativity": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Quine sec 6.2; quotes verified verbatim; advisor milestone QC repairs applied (opening scoped to indeterminacy of reference, unverified 1969 dating removed, Putnam relation described as compendium comparison)",
+  "Operant conditioning (Skinner)": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): primary carrier opened = bfskinner.org Science and Human Behavior PDF; 3 theorist quotes verified verbatim; advisor milestone QC repairs applied (example labelled hypothetical, selectionist analogy removed); EXEMPLARS.md theory skeleton not re-read this session - theory-standard claim softened"
  },
  "missing_concepts": [],
  "sources_checked": 0,

@@ -24,7 +24,7 @@ Rinzai training begins by assigning a hosshi, a breakthrough kōan, usually the 
 
 - [[Koan practice]] — the parent practice; the single assigned breakthrough kōan is its Rinzai entry point.
 - [[The unanswerable koan]] — a companion treatment of why these words resist reasoned answers.
-- [[Beginner's mind]] — the fresh, non-expert stance of shoshin; a student meets the assigned word without a ready answer.
+- [[Beginner's mind]] — the fresh, non-expert stance of shoshin; linked for navigation, no influence claimed.
 
 ## Sources
 

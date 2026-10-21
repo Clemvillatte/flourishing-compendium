@@ -1062,3 +1062,10 @@
 - Obsessive attachment: fast-track done; Augustine Confessions IV (Pusey, Gutenberg) + Beauvoir Ethics of Ambiguity II (marxists.org) opened; quotes verbatim; sense follows E074 per rule 6; Symposium seed line preserved unopened.
 - Obstruction as stimulus: fast-track done; Dewey HNC Part Three I (Gutenberg) opened; quotes verbatim; mild label note in batch.
 - One principle at a time: fast-track done; MN 118 (Access to Insight) + Seneca Letter 2 (Wikisource) opened; quotes verbatim.
+
+### Milestone advisor QC round (worker-pxy2, items 2-6)
+- One principle at a time: QC FAIL -> repairs applied (editorial-comparison wording; duration claims removed); IDENTITY HOLD, out of done.
+- Ontological relativity: QC PASS with repairs -> applied (opening scoped to indeterminacy of reference; 1969 dating removed; Putnam relation = compendium comparison; Cultural relativism clause neutralised). Stays done.
+- Operant conditioning (Skinner): QC repairs applied (example labelled hypothetical; selectionist analogy and inner-drive claims removed). Stays done; EXEMPLARS.md theory skeleton not re-read this session, noted in batch.
+- Obstruction as stimulus: advisor blocker -> IDENTITY HOLD, out of done (compendium label), content stands as source-bounded WIP.
+- One koan: Beginner's mind clause made neutral navigation wording per earlier QC.

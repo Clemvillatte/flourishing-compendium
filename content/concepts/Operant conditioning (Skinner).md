@@ -18,7 +18,7 @@ The strengthening process itself is defined by its effect on frequency: "In oper
 
 ### How it explains, and where it reaches
 
-The theory's form is selectionist: consequences work on behaviour the way outcomes select variations elsewhere. No inner drive is needed for the account; the history of reinforcement and the current conditions do the work. Skinner's own summary of its reach: "Through operant conditioning the environment builds the basic repertoire with which we keep our balance, walk, play games, handle instruments and tools, talk, write, sail a boat, drive a car, or fly a plane" ([Skinner, 1953, p. 66](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf)). A daily-life instance: a person who checks their phone and each time finds a message builds the checking into a frequent act, because the consequence arrives right after the response.
+The mechanism the quotes carry is frequency: consequences change how often a class of responses occurs. Skinner's own summary of its reach: "Through operant conditioning the environment builds the basic repertoire with which we keep our balance, walk, play games, handle instruments and tools, talk, write, sail a boat, drive a car, or fly a plane" ([Skinner, 1953, p. 66](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf)). Imagine that checking a phone is followed by receiving a message, and checking becomes more frequent under those conditions; in this hypothetical, the message functions as reinforcement.
 
 ### In the compendium
 
