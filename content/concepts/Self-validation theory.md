@@ -38,7 +38,7 @@ Sociocultural · Psychological science
 [[M055 — End where the tradition ends — rooted, singing, serving, renewed]]
 ## Related concepts
 
-- [[Elaboration likelihood model]] — comparison: the same authors' model of when argument quality dominates thinking
+- [[Elaboration Likelihood Model]] — comparison: the same authors' model of when argument quality dominates thinking
 - [[Heuristic-Systematic Model of Persuasion]] — comparison: another persuasion framework with a role for metacognition
 
 ## Sources
