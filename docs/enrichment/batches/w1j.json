@@ -50,7 +50,8 @@
   "Compassionate love",
   "Concrete experience over abstraction",
   "Cortisol awakening response theory",
-  "Creative identity"
+  "Creative identity",
+  "Critical distance"
  ],
  "in_progress": null,
  "flagged": {
@@ -78,10 +79,11 @@
   "Being-toward": "QC history (genuineflourishing04): marked done pre-review; advisor milestone QC 2026-10-20 (item-20 round, multiple repair passes) applied post-done repairs - see prior flag entries in git history; advisor CONFIRMED PASS after repairs - acceptance recorded 2026-10-20, after completion",
   "Concrete experience over abstraction": "label is compendium summary not Dewey wording; enriched from Art as Experience ch III (marxists.org copy, opened) + SEP; stated on page",
   "Cortisol awakening response theory": "seed claim (indexes healthy HPA function and stress load) overstated vs opened reviews; page says so",
-  "Creative identity": "Beghetto 2006 measures creative self-efficacy, not identity; page states this; Four C model added"
+  "Creative identity": "Beghetto 2006 measures creative self-efficacy, not identity; page states this; Four C model added",
+  "Critical distance": "seed essay 'The Task of Hermeneutics' not opened; enriched from 'The Hermeneutical Function of Distanciation' ch.4 summary (Cambridge Core, opened); page states this"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:12:24+00:00",
+ "updated": "2026-10-21T08:13:13+00:00",
  "band_done": false
 }
