@@ -16,8 +16,8 @@ Notice five things you see, four you hear, three you can touch, two you smell, o
 
 1. Keep the eyes open, soft gaze, wherever you are sitting or standing. Take one slow breath.
 2. Name five things you can see, taking in their shapes, colors, and light. Move at a pace that actually looks.
-3. Then four things you can touch or feel: the chair against your back, fabric on skin, feet on the floor, air temperature.
-4. Continue down the list: three sounds, two smells, one taste. If a sense offers nothing, name a favorite of that kind instead; the point is arriving in the senses, not completing an inventory.
+3. Then four things you can hear: near and far, the loudest and the quietest.
+4. Continue down the list: three things you can touch or feel, two smells, one taste. If a sense offers nothing, name a favorite of that kind instead; the point is arriving in the senses, not completing an inventory.
 5. End with one long exhale. The whole sequence takes one to three minutes and works mid-panic, mid-meeting, or mid-night.
 
 ### Evidence

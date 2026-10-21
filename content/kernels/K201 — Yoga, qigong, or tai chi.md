@@ -12,6 +12,13 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 Practice a body-based discipline that combines movement, breath, and attention. These traditions are body-literature: structured ways of reading and refining the embodied self.
 
+### Protocol
+
+1. Pick one short form and stay with it: a 10 to 20 minute qigong routine, or the opening movements of a tai chi set. Consistency beats variety in the early months.
+2. Follow a guided video at first, moving at a pace that keeps the breath easy. The breath should never be held or forced; if it is, slow down.
+3. Treat repetition as the method. The same sequence, done daily, is what produces the settled, flowing quality the traditions describe; novelty is the enemy of depth here.
+4. Twenty to forty minutes daily is a common target once established. When in doubt, shorter and daily wins over longer and occasional.
+
 ### Evidence
 
 A systematic review of meditative movement practices, the family that includes qigong and tai chi, found improvements versus no-intervention controls in balance, bone density, heart rate, heart-rate variability, blood pressure, aerobic capacity, and strength, with effects on mood and anxiety symptoms that were competitive with active control interventions. The review covers whole traditions rather than any single school or video series, so treat it as support for the family of practice rather than for a particular class.

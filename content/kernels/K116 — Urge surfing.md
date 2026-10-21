@@ -58,5 +58,5 @@ Practises the concept: [[Urge surfing|Urge surfing]]
 
 ## Sources
 
-- [Bowen and Marlatt (2009), "Surfing the urge: brief mindfulness-based intervention for college student smokers", Psychology of Addictive Behaviors, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5770486/)
-- [Ezell et al. (2025), "Mindfulness-Based Interventions for Adolescent Substance Use: a Systematic Review", PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13034111/)
+- [A systematic review reporting Bowen and Marlatt (2009), "Surfing the urge", Psychology of Addictive Behaviors, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5770486/)
+- [A systematic review of mindfulness interventions for adolescent substance use, reporting the urge-surfing randomised comparison, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13034111/)
