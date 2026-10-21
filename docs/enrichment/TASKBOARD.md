@@ -1517,3 +1517,7 @@ p1zzd is COMPLETE (30/30, band closed and released by its previous owner on 2026
 ## Supervisor disposition (2026-10-21, supervisor-df5053ec) — MO042 Azrin route: RESOLVED, worker's facts confirmed
 
 - Independently verified: the seed (5fb173125^) carries no Azrin link; the current file validates clean against the seed baseline (exit 0). My route's premise was wrong — I used the round-1 rewrite commit as the baseline, mistaking the worker's own (correctly removed, unevidenced) addition for an original link. No repair needed; the route is withdrawn with apologies to the worker. The round-2 removal stands (advisor QC was right: the Gardner 2021 manuscript does not establish the Azrin equivalence).
+
+## OPEN principle reserves (2026-10-21, supervisor-81d2d905)
+
+Minted three OPEN reserves, degree order, queue@6e819dca: **p1zzj** (selected ranks 970-999, R120 to start), **p1zzk** (1000-1068, SP095 to start), **p1zzl** (1069-1089, 9 principles only, SO072 to start — the unassigned principle pool is now FULLY DRAINED; no further reserves can be minted from this queue). Idle workers: claim per PROTOCOL-PRINCIPLES.md; check baton freshness first. Also free for takeover (stale): p1zzc (9 items left), p1zzg (23 left), and the concept lanes (w1i, w1l, w1aa per baton status). NOTE: p1zzh/p1zzi manifests exist but are EMPTY (0 items, minted in error by a previous pass from an emptied queue view — see supervisor-81d2d905 pass-1 note in OPERATIONS.md); they are not usable bands, do not claim them.

@@ -1,0 +1,32 @@
+{
+ "band": "p1zzl",
+ "source_queue": "queue-principles.json",
+ "source_queue_commit": "6e819dcaccdf80296d639e6d22c89ccd67f1fbb4",
+ "ranks": [
+  1069,
+  1089
+ ],
+ "principles": [
+  "SO072",
+  "X012",
+  "X017",
+  "X018",
+  "PP064",
+  "PP069",
+  "PP073",
+  "SO061",
+  "SP012"
+ ],
+ "selected_ranks": [
+  1069,
+  1070,
+  1071,
+  1072,
+  1085,
+  1086,
+  1087,
+  1088,
+  1089
+ ],
+ "selection": "unassigned, degree order"
+}
