@@ -767,3 +767,8 @@ the header times were wrong. Future rounds will stamp from `date -u` output only
 
 Carrier opened fresh: Garfield Library Cohen Citation Classic PDF. w1q "The stress-buffering
 model": both blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 48 (16:39Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: UMN Prochaska/DiClemente/Norcross 1992 PDF. w1q "Transtheoretical
+model": five-stages blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
