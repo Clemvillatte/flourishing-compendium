@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Maladaptive perfectionism is the unhealthy pattern of perfectionism: high standards held so rigidly that they cost more than they return. The research literature contrasts it with the adaptive form this way:
 
-> "Unhealthy perfectionism is characterized by very high standards set for oneself, a feeling that what is done is never good enough, an intense fear of failure, and a lack of satisfaction with one's actions." ([Kozłowska and Kuty-Pachecka, Current Issues in Personality Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/))
+> "Unhealthy perfectionism is characterized by very high standards set for oneself, a feeling that what is done is never good enough, an intense fear of failure, and a lack of satisfaction with one's actions." ([Kozłowska and Kuty-Pachecka, Current Issues in Personality Psychology (2022), perfectionism section, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/))
 
 ### The measured construct and its correlates
 
@@ -32,3 +32,4 @@ The measurement tradition comes from Hewitt and Flett's 1991 Multidimensional Pe
 ## Cited in psychology parallels
 
 - [[D108 — Accept imperfection]]
+## Cited in philosophy parallels

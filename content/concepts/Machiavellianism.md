@@ -33,3 +33,4 @@ The standard instrument, the Mach-IV, "is a self-report Likert type scale which 
 ## Cited in psychology parallels
 
 - [[D164 — Discard scheming]]
+## Cited in philosophy parallels

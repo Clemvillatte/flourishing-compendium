@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Locus of evaluation is Carl Rogers's term for where a person's judgments and decisions come from. In On Becoming a Person (1961) he describes the shift he watches for as clients change:
 
-> "Another trend which is evident in this process of becoming a person relates to the source or locus of choices and decisions, or evaluative judgments. The individual increasingly comes to feel that this locus of evaluation lies within himself." ([Rogers, On Becoming a Person, Houghton Mifflin 1961, pp. 119-120, scan PDF](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf))
+> "Another trend which is evident in this process of becoming a person relates to the source or locus of choices and decisions, or evaluative judgments. The individual increasingly comes to feel that this locus of evaluation lies within himself." ([Rogers, On Becoming a Person, Houghton Mifflin 1961, p. 119, scan PDF](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf))
 
 Rogers goes on: less and less does the person look to others for approval or disapproval, for standards to live by, for decisions and choices, and the question that starts to matter is "Am I living in a way which is deeply satisfying to me, and which truly expresses me?" ([same text](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf)). An external locus, in this vocabulary, is reliance on others' opinions and outside standards; an internal locus is trust in one's own experience ([TherapyRoute](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute)).
 
@@ -24,6 +24,11 @@ Rogers goes on: less and less does the person look to others for approval or dis
 
 ## Sources
 
-- [Carl Rogers, On Becoming a Person: A Therapist's View of Psychotherapy (Houghton Mifflin, 1961), chapter scan PDF](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf) — the internal locus of evaluation passage, pp. 119-120
+- [Carl Rogers, On Becoming a Person: A Therapist's View of Psychotherapy (Houghton Mifflin, 1961), chapter scan PDF](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf) — the internal locus of evaluation passage, p. 119
 - [TherapyRoute, "Locus of Evaluation"](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute) — the internal/external contrast in Rogers's person-centred vocabulary
 - Rogers, 1961
+
+## Cited in psychology parallels
+
+- [[D096 — Don't let the outer displace the inner]]
+## Cited in philosophy parallels
