@@ -310,3 +310,6 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 
 ### w1i "Naming the passions" — quote fidelity PASS (verification pass)
 - Spinoza Ethics III Preface blockquote EXACT vs the opened Gutenberg text (#3800, Elwes).
+
+### w1i "Monastic hours" — quote fidelity PASS (verification pass)
+- Wikipedia Canonical-hours blockquote EXACT vs the opened article.
