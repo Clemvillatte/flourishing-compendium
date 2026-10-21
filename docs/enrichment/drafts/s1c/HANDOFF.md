@@ -16,5 +16,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-008 | Twelve Sailors on the Salisbury (Lind Treatise 1772 ed.; Milne 2012; Tröhler) | P025 | ready |
 | s1c-009 | The Tortoise in the Mud and the Owl with the Rat (Zhuangzi 17; Legge, Giles) | D079, D157 | ready |
 | s1c-010 | The Gift Nobody Accepted (SN 7.2; Thanissaro, Sujato) | B117, B162 | ready |
+| s1c-011 | Wang Ni Says "How Would I Know That?" Three Times (Zhuangzi 2; Eno, Legge) | D100 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.

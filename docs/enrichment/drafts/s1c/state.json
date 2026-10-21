@@ -300,7 +300,32 @@
      "note": "supervisor registration ST366/ST367"
     }
    ]
+  },
+  "s1c-011": {
+   "status": "ready",
+   "angle": "D100: Nie Que and Wang Ni, I don't know three times (Eno + Legge)",
+   "history": [
+    {
+     "t": "2026-10-21T12:21:44+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:21:44+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:21:44+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked"
+    },
+    {
+     "t": "2026-10-21T12:21:44+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:21:08+00:00"
+ "updated": "2026-10-21T12:21:44+00:00"
 }
