@@ -40,5 +40,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-032 | Shentu Jia Will Not Wait for the Minister (Zhuangzi 5.2; Eno, Legge) | D096, D098 | ready; second story on D096 and D098 |
 | s1c-033 | James Leaves the Chautauqua Assembly and Sees a Workman (Talks to Teachers) | P183, P175 | ready |
 | s1c-034 | Shushan the Toeless Walks In on Confucius (Zhuangzi 5.3; Eno, Legge) | D185, D184 | ready |
+| s1c-035 | Mengsun Cai Wails Without Tears (Zhuangzi 6.6; Eno, Legge) | D090 | ready; second story on D090 (after s1c-018) |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
