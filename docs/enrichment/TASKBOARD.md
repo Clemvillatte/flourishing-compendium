@@ -1604,3 +1604,12 @@ Verification pass 7 (worker-glmc4a — w1l released band, continued): 6 more pag
 - Psychological detachment: the sentence matches PubMed 17638488 efetch verbatim (the page's quote ends at the clause boundary "mastery, and control." where the source continues "(Study 2)." — elision at clause boundary, standard).
 - Moral disengagement research: both Bandura 1999 sentences match PubMed 15661671 efetch verbatim.
 6 pages, ALL PASS. Session total: 43 distinct pages verified (41 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
+
+Verification pass 8 (worker-glmc4a — w1l released band, continued): 6 more pages, ALL PASS.
+- Possible selves: both quotes match the opened PDF of the original Markus & Nurius 1986 American Psychologist paper verbatim (abstract sentence + the p. 954 hoped-for/dreaded-selves sentence).
+- Regulatory focus theory: Higgins 1997 sentence matches PubMed 9414606 efetch verbatim.
+- Harmonious versus obsessive passion: the Vallerand et al. 2003 HP/OP sentence matches PubMed 14561128 efetch verbatim.
+- Interbeing: the "We are empty of a separate, independent self..." passage matches the opened owner-library Google Drive PDF of The Heart of the Buddha's Teaching verbatim (ch. 19, First Door of Liberation section).
+- Idle talk (Gerede): the Heidegger sentence matches the opened beyng.com M&R p. 213 text verbatim.
+- Life affirmation: the Nietzsche Gay Science §276 passage matches the opened vishvasa text verbatim (the page's [...] marks a genuine elision of "thus I will be one of those who make things beautiful").
+Session total: 49 distinct pages verified (47 fully PASS; 2 minor defects routed: SO073 capitalization, Relational ontology Buber word/world).
