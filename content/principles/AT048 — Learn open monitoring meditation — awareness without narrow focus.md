@@ -22,9 +22,9 @@ They also describe the order of learning: open monitoring practices share "the i
 
 (Lutz et al., 2008.)
 
-**Plain words** Most meditation starts by holding attention on one thing, such as the breath. Open monitoring is the next stage. You stop holding on to any one thing and notice whatever comes up: a sound, a worry, a mood. The goal is to see the workings of your own mind more clearly, and not to empty it. It is usually learned after some focused practice has steadied the mind.
+**Plain words** In the practices described by this review, focused attention can prepare the way for open monitoring. The emphasis shifts from returning to one chosen object to noticing experience without making any object the centre. A sound, a worry or a mood can be noticed in that way. This describes a practice and its aim; it does not establish one learning sequence or timetable for every meditation tradition.
 
-For example (imagined): after several weeks of breath-focus practice, you sit for ten minutes with no anchor, noticing thoughts and sounds as they arise and, when you catch yourself carried away by one, simply noticing that too.
+For example (imagined): a practitioner familiar with focused attention notices a sound and then a thought, without deliberately selecting either as the next object to hold. The review gives no fixed number of weeks after which this transition must happen.
 
 ## Sources
 

@@ -109,3 +109,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked all quotations, including the six-month statement in the manuscript's discussion. Added baseline/completer counts and the association between continuation and longer benefits.
 - Removed a ranking of unlike literatures without a head-to-head comparison and a claim about a trained noticing mechanism not measured by the writing study.
 - Plain words now preserves sample and generalisation limits. Protected sections and inherited parallels unchanged.
+
+## AT048
+
+- Searched Lutz open monitoring; opened [Lutz et al. full review, especially Box 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC2693206/) and [Tang et al. abstract](https://pubmed.ncbi.nlm.nih.gov/25783612/).
+- Checked every quotation. Replaced `Most meditation` with the review's actual scope: two common styles within a selected Buddhist/secular framework.
+- Removed the imagined fixed several-week progression. The example now describes the attentional distinction without prescribing a universal transition timetable.
+- Retained the reviews' evidence limitations; protected metadata and inherited parallels unchanged.
