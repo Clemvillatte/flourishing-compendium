@@ -18,11 +18,11 @@ Nguyen distinguishes two ways a group's knowledge can fail — and argues the tw
 
 (Nguyen, 2020, "Echo Chambers and Epistemic Bubbles", Episteme 17(2), p. 142, [course-hosted PDF](https://www.cs.swarthmore.edu/~meeden/phil27/s24/papers/EpistemicBubbles.pdf).)
 
-The opened article's abstract adds the design point: "each type of structure requires a distinct intervention. Mere exposure to evidence can shatter an epistemic bubble, but may actually reinforce an echo chamber."
+In the abstract, Nguyen writes: "each type of structure requires a distinct intervention. Mere exposure to evidence can shatter an epistemic bubble, but may actually reinforce an echo chamber." (p. 141)
 
-**Plain words** Before assuming a group is closed, check which kind: are relevant voices simply missing from the feed, or are they present and being explained away as unreliable? The two cases call for different moves — one needs the missing sources added; the other needs the trust question addressed, not more evidence.
+**Plain words** List relevant sources missing from your group's discussion. Then note how the group judges outside sources and what reasons it gives for distrusting them. Consider whether to examine missing information, the treatment of sources, or both before choosing a response.
 
-*For example:* Imagined: a team where every member privately doubts a plan but each assumes the others support it — the vote looks unanimous.
+*For example:* Imagined: a team reviews its reading list, notices that no critic of its plan is included, and chooses one omitted argument to examine.
 
 ## Sources
 
@@ -39,4 +39,4 @@ The opened article's abstract adds the design point: "each type of structure req
 
 ## Practice
 
-- In information consumption, diversify sources deliberately. In group settings, invite dissent (see principle 35). In misinformation management, use prebunking rather than debunking (van der Linden, 2022).
+- Suggested practice: diversify information sources deliberately; in group settings, invite dissent (see principle 35). Treat prebunking as a technique to check the evidence for, not a settled rule.
