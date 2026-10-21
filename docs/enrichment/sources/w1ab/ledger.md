@@ -427,3 +427,19 @@
   Organicism/Nature/Becoming all empty) — the Related section is omitted (fast-track
   scope; validator warns only).
 - QC cadence: item 11; next advisor milestone due at item 15.
+
+## Movement snacks (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Cited-in D153). Validated --fast-track --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Jenkins et al. 2019, Appl Physiol Nutr Metab
+  44(6):681-4 (PMID 30649897, via esearch 'Jenkins exercise snacks stair climbing'; NOT
+  guessed). The full design-and-findings passage quoted verbatim from the abstract,
+  INCLUDING the authors' own 'absolute increase was modest' caveat (kept on the page).
+- The opening's 'so named in contrast with the way meals punctuate a day' is the
+  compendium's framing of the term (the study uses 'snacks' in quotes); the study itself
+  is the only claim carrier. The feasibility-scale caveat is stated on the page (small
+  randomized sample, 24 sedentary young adults; not a demonstration that snacks replace
+  longer exercise).
+- Related concepts: no adjacent concept pages exist (Exercise/Sedentary/Physical
+  activity/Cardiorespiratory title searches all empty) — Related section omitted
+  (fast-track scope; validator warns only).
+- QC cadence: item 12; next advisor milestone due at item 15.
