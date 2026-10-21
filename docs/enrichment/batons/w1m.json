@@ -1,7 +1,7 @@
 {
  "baton": "w1m",
- "agent": "worker-w1m-5f8e3a2b",
- "clocked_in": "2026-10-21T12:34:42+00:00",
+ "agent": "worker-w1m-5f8e3a2b-resumed",
+ "clocked_in": "2026-10-21T12:46:40+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing010",
@@ -38,6 +38,12 @@
    "at": "2026-10-21T12:34:42+00:00",
    "from": "worker-w1m-5f8e3a2b",
    "reason": "stale (27 min)"
+  },
+  {
+   "by": "worker-w1m-5f8e3a2b-resumed",
+   "at": "2026-10-21T12:46:40+00:00",
+   "from": "worker-w1m-5f8e3a2b",
+   "reason": "owner-directed role assumption: predecessor session died unpushed mid theory-page work (Behaviorism draft lost); resuming w1m for theory pages per the new binding theory standard"
   }
  ],
  "released": false
