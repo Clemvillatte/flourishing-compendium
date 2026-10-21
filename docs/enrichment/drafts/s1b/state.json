@@ -193,9 +193,14 @@
      "t": "2026-10-21T12:20:48+00:00",
      "to": "ready",
      "note": "advisor QC rounds 1-2 passed; substantive PASS as partial-angle story; quotation tests clean"
+    },
+    {
+     "t": "2026-10-21T12:21:48+00:00",
+     "to": "published",
+     "note": "supervisor registration ST368"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:20:48+00:00"
+ "updated": "2026-10-21T12:21:48+00:00"
 }

@@ -51,6 +51,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST339 — Jigoro Kano Turns the Push]]
     - [[ST340 — Fukuoka Learns to Do Nothing]]
     - [[ST357 — The Tiger Keeper's Advice to Yan He]]
+    - [[ST368 — The Ferryman and the Brass Buckle]]
   - [[ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning]]
     - [[ST031 — Zhuangzi Drums on a Basin]]
     - [[ST032 — The Skull by the Road]]

@@ -41,6 +41,9 @@ Imagine preparing an opening line and three points for a difficult conversation.
 - [[K191 — Single-loop learning|K191 Single-loop learning]]
 - [[K192 — Double-loop learning|K192 Double-loop learning]]
 - [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]]
+## Stories
+- [[ST368 — The Ferryman and the Brass Buckle|368. The Ferryman and the Brass Buckle]]
+
 ## Psychology parallels
 
 - **[[Planning fallacy|The planning fallacy]]**, plans systematically underestimate time and overestimate control (Kahneman and Tversky, 1979)
