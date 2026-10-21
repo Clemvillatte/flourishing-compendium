@@ -47,7 +47,7 @@
   "Cognitive ageing",
   "Cognitive biases"
  ],
- "in_progress": null,
+ "in_progress": "Ego depletion",
  "flagged": {
   "Radical freedom": "QC resolved 2026-10-20 (takeover genuineflourishing04): all quotes re-verified verbatim vs freshly opened SEP Sartre + SEP Existentialism; Aho framing sentence correctly attributed to the SEP entry with only the inner Sartre fragment in quotes; [2001, 296] locator added beside the body quote per supervisor route",
   "Restorative justice": "QC re-review resolved 2026-10-20 (genuineflourishing04): all quotes re-verified verbatim vs freshly opened IIRP full PDF; advisor follow-up applied — 'based largely on two forms' abstract framing, matched blockquote quotes, no duplicate framing sentence",
@@ -74,6 +74,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T11:59:16+00:00",
+ "updated": "2026-10-21T01:32:09+00:00",
  "band_done": false
 }
