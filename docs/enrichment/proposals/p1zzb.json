@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 16,
+ "revision": 17,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -163,6 +163,18 @@
    "link": "SE031",
    "why": "A principle on releasing past wrongs after acknowledgement and amends",
    "notes": "SE031 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE031 occurrence; grounded in the opened Gutenberg Long text (XII.1 quoted verbatim; VIII.36 past-does-not-pain claim paraphrased without quotation marks)."
+  },
+  {
+   "into": "Identity",
+   "link": "SE036",
+   "why": "A principle on revising identity through life transitions, imaged as Nietzsche's metamorphoses",
+   "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE036 occurrence; grounded in the opened Gutenberg Common translation of Zarathustra (Three Metamorphoses passage quoted verbatim)."
+  },
+  {
+   "into": "Narrative identity",
+   "link": "SE036",
+   "why": "A principle on revising identity through life transitions, imaged as Nietzsche's metamorphoses",
+   "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE036 occurrence; grounded in the opened Gutenberg Common translation of Zarathustra (Three Metamorphoses passage quoted verbatim)."
   }
  ]
 }

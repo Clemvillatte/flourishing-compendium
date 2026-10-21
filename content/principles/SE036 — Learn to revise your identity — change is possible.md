@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 36** — Learn to revise your identity: change is possible
 
-Identity can be revised. People change careers, religions, relationships, and values. The capacity to revise identity — to let go of an old self and construct a new one — is a foundation of adaptation and resilience.
+Nietzsche's image for identity change is a chapter about stages:
 
-**Plain words** Identity can be revised — people change careers, religions, relationships, values. The capacity to let go of an old self and construct a new one is the foundation of adaptation and resilience. Revision isn't betrayal of the old self; it's what living selves do.
+> Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child. Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea.
 
-*For example:* The athlete whose injury ends the identity at 24 — and the difference between the ones who are "former athletes" forever and the one who asks: "what does the discipline, the coaching, the body-knowledge become next?" The revision was the recovery.
+(Nietzsche, Thus Spake Zarathustra, "The Three Metamorphoses", Common translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/1998/pg1998.txt))
+
+The child is the destination of the sequence, and what the child has that the earlier stages lack is forgetfulness: a new beginning is only available to an identity that can drop what it was carrying. The principle statement's claim that revision is a foundation of adaptation rather than betrayal is the same point, stated for lives instead of spirits.
+
+**Plain words**
+The evidence is ordinary: people change careers, religions, relationships and values. The revision goes through a period of carrying both, which is what the camel in the parable is doing. The question that opens the new identity is the one in the practice line below.
+
+*For example:* Imagine the athlete whose injury ends the identity at 24, and the difference between the ones who are "former athletes" forever and the one who asks what the discipline, the coaching and the body-knowledge become next.
+
 ## Psychology parallels
 
 - **Identity revision across the lifespan**, people revise identity across life transitions (McAdams, 2001; Kroger, 2007)
