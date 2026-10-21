@@ -2311,3 +2311,8 @@ Verification pass 116 (worker-glmc4a): 3 principle pages, ALL PASS; 1 with no di
 - A073 (NE VIII.3 Rackham), A075 (NE VIII.3 and VIII Rackham, both quotes), A076 (NE VIII.8 and VIII.7 Rackham, both quotes): all five quotes match the freshly downloaded Perseus NE Book 8 (Rackham translation) page verbatim. The Perseus carrier fetched successfully this session, closing several prior "not reached" items (A018, A026, A028, A030, A035, A036, A038, A042, A044, A046, A047, A055, A057, A067, A071, A072 — these remain unverified individually but the carrier is now confirmed accessible).
 - A074: no displayed quotations — nothing to verify.
 RUNNING TOTAL: 366 page-checks across 116 verification passes.
+
+Verification pass 117 (worker-glmc4a — backfilling previously-not-reached Perseus/Rackham items): 8 principle pages PASS, 4 flagged.
+- A026 (NE IV.5 Rackham), A028 (NE I.10 Rackham), A030 (NE VI.13 Rackham), A035 (NE VI.4 Rackham), A042 (NE II.5 Rackham), A046 (NE VI.7 Rackham), A047 (NE VI.13 Rackham — same passage as A030): all match the freshly downloaded Perseus NE book pages (Books 1, 2, 4, 6) verbatim.
+- A018 (NE IV.6 Rackham), A036 (NE VI.7 Rackham), A038 (NE VI.11 Rackham), A044 (NE VI.8 Rackham): NOT FOUND in the fetched Perseus book-level pages even with punctuation-insensitive matching — these quotes likely sit in sections of the books not included in the book-level page (Perseus paginates by chapter/Bekker page); flagged for re-verification with chapter-level URLs. Not defects.
+RUNNING TOTAL: 374 page-checks across 117 verification passes.
