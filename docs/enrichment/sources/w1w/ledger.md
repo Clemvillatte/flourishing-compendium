@@ -515,3 +515,18 @@
   existing (The observing self, Self as construction, Self as process,
   Second-order desires).
 - Normal validator: ok. State recorded (done count 37).
+
+## Item 40: Superordinate goals (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: one line (Sherif Robbers Cave; Gaertner and Dovidio 2000).
+  Seed citation lines kept; G&D 2000 noted as common-identity extension,
+  not opened.
+- Carrier opened: Sherif et al., Intergroup Conflict and Cooperation
+  (Robbers Cave), ch. 8 (psychclassics.yorku.ca). Verified verbatim:
+  the superordinate-goals definition and the end-result summary
+  sentence. Water/truck examples described as reported in the study
+  (chapter text page did not return the water-supply sentence in the
+  extraction; described generically as engineered common problems).
+- Taper item (started 49.6, done in ~4 min). Related links confirmed
+  existing.
+- Normal validator: ok. State recorded (done count 38).
