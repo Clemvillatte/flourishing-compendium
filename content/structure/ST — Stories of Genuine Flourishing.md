@@ -230,6 +230,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST119 — Walter White Becomes Heisenberg]]
     - [[ST349 — The Sand-Table Farm]]
     - [[ST386 — Duchenne's Two Kinds of Smile]]
+    - [[ST425 — Duchenne's Two Kinds of Smile]]
   - [[ST-S03.06 — III.6 Time, Duration, and Novelty]]
     - [[ST120 — Bergson and the Melody]]
     - [[ST121 — The Creative Advance]]
