@@ -363,3 +363,9 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   the opened record. Source-bounded WIP pushed; held out of done pending supervisor
   disposition (rename to a source-defined neighbour such as the existing
   [[The testing effect / retrieval practice]] page, or owner decision).
+- Mixed emotions theory Miyamoto (2026-10-21, worker-w1ab-2e9d1a4f, w1ab): the opened record
+  (Miyamoto, Uchida & Ellsworth 2010, Emotion 10(3), PMID 20515228) supports research on
+  cultural variation in mixed emotions (Japan vs US, difference in predominantly pleasant
+  situations) but does not establish a named "Mixed emotions theory Miyamoto". The bold
+  seed sentence's broad East-Asian-vs-Western claim was removed from the page per advisor
+  item-10 round; source-bounded WIP pushed; held out of done pending supervisor disposition.

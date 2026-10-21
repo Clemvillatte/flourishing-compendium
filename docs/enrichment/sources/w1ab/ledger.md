@@ -344,3 +344,39 @@
   development/moral-emotions rows grounded in the abstract's own rationalist-vs-intuitionist
   framing.
 - QC cadence: item 10 — ITEM-10 MILESTONE QC DUE (advisor).
+
+## ITEM-10 MILESTONE QC round 1 (advisor: all five FAIL with targeted repairs) -> repairs applied — 2026-10-21, worker-w1ab-2e9d1a4f
+- CARRY-OVERS FIXED: Measure's opening citation now attached to the FIRST sentence (the
+  earlier patch had appended a duplicate after the following sentence — caught by the
+  advisor); Mind-life's 'The claim is organizational.' now carries its own citation.
+- ITEM 6 (Misinformation effect): CO055 gloss neutralized ('lists this topic as a
+  psychology parallel'); Reconstructive-memory and Memory-reconsolidation glosses removed
+  (bare links — the abstract does not identify reconsolidation as the mechanism);
+  citations added to the opening definition and the rich-false-memories sentence (now the
+  abstract's own wording, 'rich complex events that never, in fact, occurred'); Sources
+  description corrected (definition quoted; overview paraphrased).
+- ITEM 7 (Mixed emotions theory Miyamoto): bold seed sentence DELETED; opening replaced
+  with the advisor's source-bounded sentence (surnames only, per the record's initials);
+  AF006 gloss neutralized; Related rows reduced to bare links; citations added to the
+  mediation/replication and earlier-research sentences; NAMESPACE HOLD recorded in
+  concept-namespace-audit.md; item reopened (out of done).
+- ITEM 8 (Mnemonics; hold stands): opening replaced with the direct study description;
+  'restudying feels more effective' sentence DELETED; M014 gloss neutralized; the
+  'spaced-retrieval literature' line REMOVED from the public Sources (preserved here:
+  the seed's citation; no spaced-retrieval source was opened; nothing about it claimed);
+  experimental-design and 5-minute-result sentences re-grounded in the abstract's own
+  wording with citations.
+- ITEM 9 (Modesty norms): 'Du and Jonas' (record initials only); Humility gloss removed
+  (bare link — a compendium page's clause is not external evidence); D163 gloss
+  neutralized; citations added to the opening, the model-prediction sentence and the
+  scope sentence; Terror-management row kept, grounded directly in the study. No
+  namespace hold needed (the abstract explicitly studies the modesty norm).
+- ITEM 10 (Moral dilemmas): SEP 'Moral Dilemmas' entry OPENED (McConnell; definition and
+  the conflict/dilemma + ontological/epistemic distinctions quoted verbatim) and now
+  grounds the opening; the 'practical reading for dilemmas' passage DELETED; Haidt
+  moved under 'A model of moral judgment' (the abstract presents a model of moral
+  judgment, not a dilemma-structure account); R096 gloss neutralized; Related rows
+  reduced to bare links; the 'Haidt, 2012' line REMOVED from public Sources (not a
+  consulted source; preserved here as the seed's citation).
+- Seven-file validation: --fast-track --base 4b2bebc4f: 7 checked, 0 failed.
+- Round-2 resubmission: PENDING.

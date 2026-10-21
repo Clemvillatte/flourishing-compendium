@@ -17,11 +17,10 @@
   "Measure (mesure)",
   "Mind-life continuity",
   "Misinformation effect",
-  "Mixed emotions theory Miyamoto",
   "Modesty norms research",
   "Moral dilemmas"
  ],
- "in_progress": null,
+ "in_progress": "Mixed emotions theory Miyamoto",
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -41,11 +40,12 @@
   "Memorized coping statements in CBT": "Namespace hold (advisor rounds 2-3): scoped prose PASS, concept identity/title scope unresolved; held out of done pending supervisor disposition (entry in concept-namespace-audit.md); source-bounded WIP pushed",
   "Microbiome theory": "Namespace hold (advisor rounds 2-3): scoped prose PASS, concept identity/title scope unresolved; held out of done pending supervisor disposition (entry in concept-namespace-audit.md); source-bounded WIP pushed",
   "Mind-life continuity": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)",
-  "Mnemonics and the availability of internalized text": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition"
+  "Mnemonics and the availability of internalized text": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition",
+  "Mixed emotions theory Miyamoto": "Reopened for QC: advisor item-10 round: bold seed claim removed; opened record supports cultural variation in mixed emotions but not a named 'Mixed emotions theory Miyamoto'; namespace hold (entry in concept-namespace-audit.md)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:03:28+00:00",
+ "updated": "2026-10-21T11:07:53+00:00",
  "band_done": false,
  "new_concepts": [
   {
