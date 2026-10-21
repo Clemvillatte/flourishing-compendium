@@ -534,3 +534,21 @@ Carriers opened fresh: PubMed abstracts 9809557 (Eriksson et al 1998), 29513649
    opening sentence with the full Nadel & Moscovitch citation).
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 27 (16:38Z) — w1ab quote-fidelity verification, third batch
+
+Carriers opened fresh: Muller's Diamond Sutra translation (acmuller.net), PubMed 16027179
+(Loftus 2005 abstract), PMC6901356 (Zhang et al 2018 fulltext).
+
+1. Non-abiding — blockquote VERBATIM vs the opened Muller translation (§10 passage).
+2. Misinformation effect — blockquote VERBATIM (Loftus 2005 abstract first sentence).
+3. Novelty research — blockquote NOT character-exact vs the opened PMC fulltext. DEFECT
+   ROUTED (no baton on w1ab): the page prints "such as novelty, surprise, or reward
+   prediction errors" and "the BF broadcasts" where the paper prints "such as their
+   novelty, surprise, or reward prediction-errors [20–24]" and "BF broadcasts" — the
+   dropped "their", the added "the" and the dropped hyphen are small meaning-preserving
+   deviations, but the page presents the passage as a verbatim blockquote. Repair
+   requested for supervisor/w1ab holder: restore "their" and "prediction-errors", remove
+   "the", and either keep or silently normalise the citation bracket per house style.
+
+Result: 2/3 verbatim PASS; 1 minor verbatim-deviation defect routed (Novelty research).
