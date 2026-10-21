@@ -7,7 +7,13 @@ file: "Language games"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-“Language games” — Wittgenstein, Philosophical Investigations.
+The compendium uses "Language games" for Wittgenstein's later concept. The Wikipedia article on the concept:
+
+> "A language-game (German: Sprachspiel) is a philosophical concept developed by Ludwig Wittgenstein, referring to simple examples of language use and the actions into which the language is woven." ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy)))
+
+### Meaning as use
+
+The article carries Wittgenstein's own formulation: the concept was intended "to bring into prominence the fact that the speaking of language is part of an activity, or a form of life" ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy))). It also quotes the term's designation: forms of language simpler than the entirety of a language itself, "consisting of language and the actions into which it is woven" and connected by family resemblance ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy))). The article's illustration: "Depending on the context, for example, the utterance 'Water!' could be an order, the answer to a question, or some other form of communication" ([Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy))).
 
 ## Facets
 
@@ -22,6 +28,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Sources
 
 - Wittgenstein, Philosophical Investigations
+
+- [Wikipedia, Language game (philosophy)](https://en.wikipedia.org/wiki/Language_game_(philosophy)): the concept definition; the form-of-life quotation; the woven-actions designation; the Water! illustration
 
 [[AT054 — Learn to train attention through deliberate practice — not just meditation]]
 [[SO018 — Treat language as a cultural practice, not just a medium]]
