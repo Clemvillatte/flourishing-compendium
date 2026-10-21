@@ -24,7 +24,7 @@ The surprising move is what Dewey does with this. He refuses to separate the chi
 
 ## Stories
 - [[ST383 — Half an Hour with Cotton Seeds|383. Half an Hour with Cotton Seeds]]
-
+- [[ST422 — Half an Hour with Cotton Seeds|422. Half an Hour with Cotton Seeds]]
 ## Psychology parallels
 
 - **[[Experiential learning|Experiential learning cycle]]**, concrete experience, reflection, conceptualization, experimentation (Kolb, 1984)

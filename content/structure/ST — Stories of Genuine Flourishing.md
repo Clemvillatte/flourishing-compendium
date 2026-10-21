@@ -214,6 +214,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST396 — The Teller and the Doer]]
     - [[ST408 — The Material Told Her Where to Go]]
     - [[ST414 — The Teller and the Doer]]
+    - [[ST422 — Half an Hour with Cotton Seeds]]
   - [[ST-S03.04 — III.4 Self and Mind as Process]]
     - [[ST113 — Mead's Play and Game]]
     - [[ST114 — Varela and the Enactive Mind]]
