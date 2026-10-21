@@ -84,32 +84,36 @@
   near-duplicates (supervisor recommendation recorded on the TASKBOARD), w1e/w1g/w1l/w1c
   namespace holds; (5) replenish reserves as claimed (p1zzb/p1zzc + p1zz OPEN now). Git
   remote sanitized (token out of repo config).
-- WORKER CHECKPOINT p1zzb (2026-10-21 01:47Z, worker-p1zzb-6d4f8a91, baton HELD, session
-  continuing inside the user's T+60 timebox; first explicit clock reading this session
-  was 01:34:37Z, so 02:34:37Z is only a conservative report-not-before point): 5 items
-  done this session, all pushed (SO045 with first-item QC closed after one
-  fail->repair->scoped-pass round; SO052, SO054, SO058, SO060). Milestone QC for
-  items 2-5 is IN FLIGHT: advisor round 1 FAIL (repairs applied), round 2 verdict —
-  SO054 scoped PASS, SO052/SO058/SO060 narrow repairs applied and pushed (commit
-  7878529b3, all four validated vs baseline 2eb608e4a); round 3 (diffs-only) pending.
-  Every item carries verbatim quotes from sources actually opened (Tajfel & Turner
-  1979 via the alnap PDF, layout- and page-specific extraction, pp. 39-41; Muldoon et
-  al. 2019 via the abiireland PDF; Bandura 2000 via the archived PDF; Hipp & Wo 2015
-  IESBS chapter PDF with quotes verified at printed p. 169; Kraus et al. 2012, Adler &
+- WORKER CHECKPOINT p1zzb FINAL (2026-10-21, worker-p1zzb-6d4f8a91, band COMPLETE
+  30/30, baton RELEASED at this checkpoint): 7 items revised this session, all
+  pushed (SO045 first-item QC closed after one fail->repair->scoped-pass round;
+  SO052/SO054/SO058/SO060 milestone QC closed — advisor rounds 1-3: round-1 FAIL
+  with repairs applied, round-2 narrow repairs, round-3 scoped PASS on all four;
+  SO073 and SP005 taken after the milestone, each QC'd through round 1 FAIL and
+  round-2 repairs — SO073: Bierwiaczonek & Kunst 2021 opened and quoted against
+  Berry's integration hypothesis, marginalization constraints quoted, plain words
+  and Practice repaired; SP005: Spinoza Ethics III Preface + I P15 quoted from the
+  Bennett clear-language translation with PDF/printed locators, nonadjacent-passages
+  repair, glosses made literal per hub bodies). Every item carries verbatim quotes
+  from sources actually opened (Tajfel & Turner 1979 pp. 39-41; Muldoon et al. 2019;
+  Bandura 2000 pp. 75-76; Hipp & Wo 2015 printed p. 169; Kraus et al. 2012, Adler &
   Stewart 2010, Walton & Cohen 2011, Yeager et al. 2019, Verduyn et al. 2015,
-  Valkenburg 2022 all via PubMed E-utilities efetch abstracts). Over-scoped inherited
-  claims reduced in SO052 (health/well-being), SO054 (education/opportunity/culture),
-  SO060 (active-use benefit presented as settled). Per-item ledgers at
-  docs/enrichment/sources/p1zzb/. Proposals p1zzb.json rev 3: two reciprocals pending
-  integration (Social identity theory <- SO045; Growth mindset <- SO058). Inherited
-  claim-bearing material on SO052/SO054/SO058/SO060 (Practice lines incl. SO052
-  "achievable wins", Philosophy-parallels, EEMM) is formally FLAGGED in the band
+  Valkenburg 2022 via PubMed efetch; Berry 2005 pp. 705/708/709 + Bierwiaczonek &
+  Kunst 2021; Bennett Ethics). Over-scoped inherited claims reduced in SO052,
+  SO054, SO060, SO073, SP005. Per-item ledgers at docs/enrichment/sources/p1zzb/
+  with full QC history. Proposals p1zzb.json rev 5: EIGHT reciprocals pending
+  integration (Social identity theory <- SO045; Growth mindset <- SO058; Education
+  as growth <- SO058; AT066 <- SO060; SO076 <- SO060; Oneness of things /
+  Nature connectedness / Restlessness as weather <- SP005 — the last three as
+  comparative connections). Inherited claim-bearing material on all seven items
+  (Practice lines incl. SO052 "achievable wins", Philosophy-parallels, EEMM,
+  Berry 1997 full text, Bennett translation status) is formally FLAGGED in the band
   state machine for supervisor disposition. Also routed: the SO reference appendix
   lists Kraus et al. (2012) as JPSP 102(2) 291-303 (wrong; actual: Psych Rev 119(3)
-  546-572) — supervisor disposition needed (not this band's file). EXACT NEXT ACTION
-  for the next worker: finish the milestone QC round-3 verdict if not recorded, then
-  `python3 scripts/enrich_state.py p1zzb start SO073` and read the file. Remaining
-  manifest order: SO073, SP005.
+  546-572) — supervisor disposition needed (not this band's file). Caveat for the
+  supervisor: 30/30 done in the manifest does NOT mean 30 items independently
+  source-audited this session; inherited unverified material is flagged per item.
+  Band p1zzb has no remaining manifest items.
 - WORKER CHECKPOINT p1zza (2026-10-21 ~14:4xZ, worker-p1zza-d1c4f2a9 = supervisor-d1c4f2a9,
   session ending): 1/30 done. M025 completed this pass with the secure-base grounding (Waters
   & Cummings SUNY reprint opened raw; Bowlby 1988 p. 62 quotation via the disclosed Seba
