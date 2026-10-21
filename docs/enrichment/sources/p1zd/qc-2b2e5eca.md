@@ -116,3 +116,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked every quotation. Replaced `Most meditation` with the review's actual scope: two common styles within a selected Buddhist/secular framework.
 - Removed the imagined fixed several-week progression. The example now describes the attentional distinction without prescribing a universal transition timetable.
 - Retained the reviews' evidence limitations; protected metadata and inherited parallels unchanged.
+
+## BE002
+
+- Searched Skinner Science and Human Behavior; opened [Foundation PDF](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf), printed pp. 72–74, 100–102 and 188–190.
+- Checked every quotation at its printed-page locator. Replaced stimulus/procedure conflation and the assumption that food or relief necessarily reinforces with the book's organism/condition/effect criterion.
+- Plain words distinguishes positive/negative from good/bad and intended reward from observed reinforcing effect. The example invites investigation rather than promising a management intervention works.
+- Scoped the immediacy quotation to the interval-reinforcement discussion and the punishment interpretation to Skinner's account. Protected metadata and inherited parallels unchanged.

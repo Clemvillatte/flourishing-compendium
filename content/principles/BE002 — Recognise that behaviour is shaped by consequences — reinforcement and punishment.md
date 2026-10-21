@@ -12,23 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 2** — Recognise that behaviour is shaped by consequences: reinforcement and punishment
 
-Skinner defines reinforcement by its effect. Presenting something, such as food, is a positive reinforcer. Removing something, such as a loud noise, is a negative reinforcer ([Skinner, Science and Human Behavior, 1953, p. 73](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf)):
+Skinner defines reinforcement by its effect on a particular organism under particular conditions. Adding a stimulus, such as food, can reinforce a response; so can removing one, such as a loud noise. These are positive and negative reinforcement respectively, if they increase the response's probability ([Skinner, Science and Human Behavior, 1953, p. 73](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf)):
 
 > In both cases the effect of reinforcement is the same—the probability of response is increased.
 
-Punishment is the opposite pair: presenting a negative reinforcer or removing a positive one. Skinner was wary of it. Its main effect is not to erase the behaviour:
+Skinner describes punishment as presenting a negative reinforcer or removing a positive one. In his account, its main effect is not to erase the behaviour:
 
 > The most important effect of punishment, then, is to establish aversive conditions which are avoided by any behavior of "doing something else."
 >
 > Skinner, Science and Human Behavior (1953), p. 189
 
-If the punishment is avoided repeatedly, "the punished behavior eventually emerges". Timing matters too: "The rate varies with the immediacy of the reinforcement" (p. 101).
+If punishment is avoided repeatedly, "the punished behavior eventually emerges". In his discussion of interval reinforcement, he also notes: "The rate varies with the immediacy of the reinforcement" (p. 101).
 
 (Skinner, 1953, Ch. V, XII.)
 
-**Plain words** Behaviour that is followed by something good, or by relief from something bad, becomes more likely. Punishment pushes the other way, but Skinner argued that what it mostly teaches is how to avoid the punishment, and the original behaviour can return. To understand why a habit persists, look at what it pays off, and how quickly.
+**Plain words** Positive and negative mean adding and removing, not good and bad. A consequence counts as reinforcing because the response becomes more likely; calling something a reward does not establish that effect. Skinner's practical question is what changes when a consequence follows a response. His warning about punishment concerns avoidance and the possible return of the punished behaviour.
 
-For example (imagined): in a team where only the loudest complaint gets the manager's attention, the complaints grow. Responding promptly to calm requests changes what pays off.
+For example (imagined): loud complaints become more frequent after receiving a manager's attention. That pattern is a reason to investigate what attention is reinforcing, rather than assuming the manager's intended reward explains the result.
 
 ## Sources
 
