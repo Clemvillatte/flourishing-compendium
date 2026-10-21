@@ -450,7 +450,37 @@
      "note": "supervisor registration ST397"
     }
    ]
+  },
+  "s1c-016": {
+   "status": "ready",
+   "angle": "P131: Polymath1 (Gowers, Tao 2009)",
+   "history": [
+    {
+     "t": "2026-10-21T12:28:47+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:28:47+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:28:47+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes vs page excerpts; excerpt-only reading flagged"
+    },
+    {
+     "t": "2026-10-21T12:28:47+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
+<<<<<<< HEAD
  "updated": "2026-10-21T12:28:51+00:00"
 }
+=======
+ "updated": "2026-10-21T12:28:47+00:00"
+}
+>>>>>>> a3d5960e3 (s1c-016: Polymath1 (P131) ready)
