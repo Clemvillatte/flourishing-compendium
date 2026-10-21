@@ -12,12 +12,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "S088": "Reopened for QC: QC round 3: replace added paragraph (takeover check pending)",
-  "S106": "Reopened for QC: QC round 2 FAIL: remove rejected opening (takeover check pending)",
-  "S109": "Reopened for QC: QC: delete added category sentence and link (takeover check pending)",
-  "S111": "Reopened for QC: QC milestone: application paragraph, plain words, example (takeover check pending)",
-  "S114": "Reopened for QC: QC milestone: plain words, example label (takeover check pending)",
-  "S116": "Reopened for QC: QC milestone: quote wording, plain words (takeover check pending)"
+  "S088": "RESOLVED 2026-10-21 takeover (worker-p1zzg-f6a2bf71): QC round 3 replace added paragraph \u2014 verified on current artifact (application paragraph matches the repaired ledger; seed opening gone); predecessor QC history in sources/p1zzg/S088.md",
+  "S106": "RESOLVED 2026-10-21 takeover: QC round 2 rejected opening \u2014 verified removed on current artifact (body begins from Ench. IX); history in sources/p1zzg/S106.md",
+  "S109": "RESOLVED 2026-10-21 takeover: QC asked deletion of the added category sentence and link \u2014 verified on current artifact: no preferred-indifferent classification sentence and no such wikilink remain in the file; history in sources/p1zzg/S109.md",
+  "S111": "RESOLVED 2026-10-21 takeover: application paragraph, plain words, example \u2014 verified on current artifact matching the repaired ledger; history in sources/p1zzg/S111.md",
+  "S114": "RESOLVED 2026-10-21 takeover: plain words, example label \u2014 verified on current artifact (example labelled as the compendium modern extension); history in sources/p1zzg/S114.md",
+  "S116": "RESOLVED 2026-10-21 takeover: quote wording, plain words \u2014 verified on current artifact (quote reads And the things... per source); history in sources/p1zzg/S116.md"
  },
  "missing_concepts": [],
  "sources_checked": 0,
