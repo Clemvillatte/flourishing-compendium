@@ -9,13 +9,16 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The limits of introspection name what Nisbett and Wilson argued in their 1977 Psychological Review paper, "Telling More Than We Can Know: Verbal Reports on Mental Processes": that direct first-person access to one's own higher-order cognitive processes may be little or none. ([Nisbett & Wilson 1977, opened full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf))
 
-> "Evidence is reviewed which suggests that there may be little or no direct introspective access to higher order cognitive processes." — Nisbett & Wilson (1977), abstract, same source
+> "Evidence is reviewed which suggests that there may be little or no direct introspective access to higher order cognitive processes."
 
-The paper's review found subjects who are sometimes unaware of a stimulus that influenced their response, unaware of the response itself, or unaware that the stimulus affected it. Their proposal for what verbal reports actually rest on:
+— Nisbett & Wilson (1977), abstract, ([MIT-hosted full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf))
 
-> "It is proposed that when people attempt to report on their cognitive processes, that is, on the processes mediating the effects of a stimulus on a response, they do not do so on the basis of any true introspection. Instead, their reports are based on a priori, implicit causal theories, or judgments about the extent to which a particular stimulus is a plausible cause of a given response." — same source
+Nisbett and Wilson describe cases in which participants were unaware of a stimulus that importantly influenced a response, of the response itself, or of the connection between stimulus and response. ([MIT-hosted full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf)) Their proposal for what verbal reports actually rest on:
 
-The reports people give about their own thinking can therefore be true and useful without being read off from the thinking itself: they are plausible reconstructions from causal theory, vulnerable wherever the theory is wrong.
+> "It is proposed that when people attempt to report on their cognitive processes, that is, on the processes mediating the effects of a stimulus on a response, they do not do so on the basis of any true introspection. Instead, their reports are based on a priori, implicit causal theories, or judgments about the extent to which a particular stimulus is a plausible cause of a given response."
+
+— Nisbett & Wilson (1977), abstract, ([MIT-hosted full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf))
+
 
 ### In the compendium
 
@@ -25,8 +28,9 @@ The reports people give about their own thinking can therefore be true and usefu
 
 ## Related concepts
 
-- [[Introspection illusion]] — the follow-on finding that people over-trust their own introspective reports
-- [[Self-perception theory]] — the account of self-knowledge as inference from behaviour that Nisbett and Wilson built on
+- [[Introspection illusion]]
+- [[Self-perception theory]]
+- [[Limits of introspection]] — the same construct on a companion page (near-duplicate pair flagged for owner disposition)
 
 ## Sources
 

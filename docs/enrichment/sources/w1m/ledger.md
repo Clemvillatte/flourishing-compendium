@@ -92,3 +92,23 @@
   verified to exist. Validator ok (fast-track).
 - QC NOTE: advisor QC NOT yet run on this item (5th fresh item this
   session; QC-pending flag for the supervisor's next sample).
+
+## QC round 2 — items 4-5 (advisor, 2026-10-21)
+
+- Both FAIL round 1 (scoped); repairs applied: introspection — final
+  paragraph deleted (unestablished 'useful'/general-account turn),
+  (a)/(b)/(c) paraphrase re-attributed per the advisor's sentence with
+  citation, blockquote locators + URLs made explicit, Related glosses
+  reduced to bare; ontological difference — narrower opening, IEP's
+  own sentences in a standalone attributed blockquote, synthesis
+  paragraph replaced with the supported 'In this account, being is not
+  itself an entity.', Related glosses bare, access note moved here
+  (the seed's Heidegger primary texts were NOT opened this session).
+- NAMESPACE FINDING: 'The limits of introspection' (w1m) is a NEAR-
+  DUPLICATE of w1l's 'Limits of introspection' (same construct, same
+  source; counterpart read in full before certification). Both kept and
+  cross-linked per the Experiential-avoidance precedent; owner
+  disposition requested via state flag.
+- Both validated ok --fast-track after repair. Monotonic clock note:
+  wall-clock date +%s used throughout (no true monotonic source in the
+  sandbox); readings consistent with UTC at every cross-check.
