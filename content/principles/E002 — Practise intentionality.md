@@ -18,7 +18,7 @@ The doctrine the principle practises is Brentano's, from Psychology from an Empi
 
 The application is the page's question: since every act of mind aims at an object, the act is inspectable by its aim. The anxious example below runs the question.
 
-(Husserl, 1900-1901/2001, Logical Investigations, Investigation V; Husserl, 1913/1982, Ideas I, §84; Brentano, 1874/1995, Psychology from an Empirical Standpoint.)
+(Brentano, 1874/1995, Psychology from an Empirical Standpoint.)
 
 **Plain words**
 Consciousness is always consciousness of something — every act of mind is aimed at an object; there's no "pure" consciousness floating free. So pay attention to the aiming: what is your mind pointed at right now? The direction is the experience.

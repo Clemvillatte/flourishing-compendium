@@ -99,7 +99,7 @@
   "CO008": "psychology-parallels claims (Piaget 1954; Bruner 1966; Roediger and Karpicke 2006; Dunlosky et al. 2013) not verified against opened sources; the Kant A51/B75 passage verified; flagged for supervisor",
   "CO011": "psychology-parallels claims (Hayes et al. 2011; Gillanders et al. 2014; Masuda et al. 2004; Deacon et al. 2011) not verified against opened sources; flagged for supervisor",
   "CO039": "RESOLVED by supervisor-pcx-fe429f3b: bullet 1 supported (Weinstein 1980 is the classic comparative-risk study; the opened Harris and Hahn 2011 Psychological Review record confirms 'a robust finding... people judge negative events as less likely to happen to themselves'; opened Sharot 2011 covers the bias). Bullet 2 repaired: the 'moderate vs extreme / underpreparedness' framing appears in NEITHER opened carrier - Taylor and Brown 1988 PDF (MIT copy) opened: positive illusions associated with higher motivation, greater persistence, more effective performance; Sharot 2011 PDF (author copy) opened: optimism vital to mental health; the unsupported clause was removed and the bullet reworded to both carriers' own findings; validated",
-  "E002": "psychology-parallels claims (Posner and Petersen 1990; Corbetta and Shulman 2002) and the Husserl locators not verified against opened sources; the Brentano passage verified via Wikipedia's quotation; flagged for supervisor",
+  "E002": "RESOLVED by supervisor-pcx-fe429f3b: the two psychology-parallel bullets are bare references to real classic papers (Posner and Petersen 1990 attention system; Corbetta and Shulman 2002 goal-directed attention) - no claim clauses, left as-is; the inherited Husserl locators (Logical Investigations V; Ideas I section 84) had no body content and were removed from the locator line, leaving the Brentano carrier the body actually quotes; validated",
   "E016": "psychology-parallels claims (Gallagher 2005; Legrand 2006) and the Sartre Being and Nothingness locator not verified against opened sources; the Merleau-Ponty quotation verified via SEP; flagged for supervisor",
   "PP001": "ROUTED to owner (statement protected): the predecessor's flag stands on its own verification (Ryan & Deci 2001; Ryff 1989 do not establish the comparative claim); supervisor did NOT freshly re-open those carriers - no fresh confirmation claimed. Recommended replacement recorded previously: end the statement at 'Flourishing requires both.'",
   "PP021": "ROUTED to owner (statement protected): the predecessor's flag stands on its own verification (Ryan & Deci 2000; Freund et al. 2010 do not establish 'work that matters' or 'the best work'); supervisor did NOT freshly re-open those carriers - no fresh confirmation claimed. Recommended replacements recorded previously",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:43:17+00:00",
+ "updated": "2026-10-21T13:43:34+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
