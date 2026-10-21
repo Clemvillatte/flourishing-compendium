@@ -49,3 +49,10 @@ A free guided compassion meditation with the same loved-one-to-difficult-person 
 - [[K161 — Loving-kindness meditation]] — the goodwill-first sibling practice
 - [[K162 — Self-compassion practice]] — the step of the sequence aimed at one's own struggle
 - [[K396 — The Befriending meditation]] — the MBCT variant of widening goodwill
+
+## Sources
+
+- [Jazaieri et al. (2013), CCT RCT, Motivation and Emotion, full text PDF](https://ccare.stanford.edu/wp-content/uploads/2013/07/Jazaieri-et-al.-2013.pdf)
+- [Jazaieri et al. (2013), Enhancing Compassion RCT, Journal of Happiness Studies record](https://ideas.repec.org/a/spr/jhappi/v14y2013i4p1113-1126.html)
+- [Soh et al. (2021), CCT for caregivers RCT, JAMA Network Open, full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7941195/)
+- [Compassion Meditation, Greater Good in Action (guided practice opened)](https://ggia.berkeley.edu/practice/compassion_meditation)
