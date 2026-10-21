@@ -418,3 +418,8 @@ QC-closed).
 
 ### w1d "Attachment theory" — quote fidelity PASS (verification pass)
 - Shaver and Mikulincer 2005 Bowlby passage EXACT vs the opened UC Davis PDF.
+
+### w1d "Attention Network Test (ANT)" — quote fidelity PASS (verification pass)
+- Fan et al. 2002 abstract blockquote EXACT vs the opened hosted PDF.
+- w1d late-session spot check: 6/6 pages PASS (Attentional control theory, Attention
+  restoration, Arousal regulation, Attentional bias research, Attachment theory, ANT).
