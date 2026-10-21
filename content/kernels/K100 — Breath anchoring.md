@@ -27,6 +27,23 @@ In the framework paper that distinguished the two styles of meditation, focused 
 
 A calm, voice-only session is [10 Minute Guided Meditation for Focus by Declutter The Mind](https://www.youtube.com/watch?v=ausxoXBrmWs).
 
+## Related concepts
+
+- [[Focused-attention meditation]]
+- [[Anapanasati (mindfulness of breathing)]]
+- [[Anchors in focused attention meditation]]
+- [[Bare attention in mindfulness practice]]
+- [[Dispositional mindfulness]]
+- [[Attentional control training and the role of repeated redirection]]
+- [[Meta-awareness]]
+
+## Related kernels
+
+- [[K101 — Open monitoring]]
+- [[K102 — Body scan]]
+- [[K103 — Noting and labeling]]
+- [[K105 — Single-tasking]]
+
 ## Sources
 
 - [Lutz et al. (2008), "Attention regulation and monitoring in meditation", Trends in Cognitive Sciences, PubMed](https://pubmed.ncbi.nlm.nih.gov/18329323/)

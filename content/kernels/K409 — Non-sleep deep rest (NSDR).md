@@ -33,6 +33,16 @@ A zero-cost starting point is the [10-minute NSDR script narrated by Dr. Andrew 
 - [[B186 — Practice the art of resting|B186 Practice the art of resting]]
 - [[D039 — Make rest the root of activity|D039 Make rest the root of activity]]
 
+## Related concepts
+
+- [[The relaxation response]]
+- [[Sleep hygiene (CBT-I)]]
+- [[Sleep deprivation]]
+- [[Autonomic nervous system (sympathetic vs parasympathetic)]]
+- [[Discipline of rest]]
+- [[Progressive muscle relaxation (Jacobson)]]
+- [[Interoceptive awareness]]
+
 ## Related kernels
 
 - [[K203 — Nap protocol]]

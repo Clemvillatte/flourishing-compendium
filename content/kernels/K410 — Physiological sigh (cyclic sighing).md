@@ -33,6 +33,16 @@ A short demonstration and explanation by Dr. Andrew Huberman is [Reduce Anxiety 
 - [[D038 — Keep stillness — stillness masters restlessness|D038 Keep stillness: stillness masters restlessness]]
 - [[P139 — Know that cognition is embodied sense-making|P139 Know that cognition is embodied sense-making]]
 
+## Related concepts
+
+- [[Physiological sigh (Balban et al., Stanford)]]
+- [[Autonomic nervous system (sympathetic vs parasympathetic)]]
+- [[Emotion regulation]]
+- [[Self-regulation]]
+- [[Stress cycle completion (Nagorski, Sapolsky)]]
+- [[The relaxation response]]
+- [[HPA axis theory stress]]
+
 ## Related kernels
 
 - [[K194 — Slow breathing (5 to 6 breaths per minute)]]

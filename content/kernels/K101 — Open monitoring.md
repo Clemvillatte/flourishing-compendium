@@ -43,6 +43,15 @@ A calm 20-minute guided session, with a full transcript of the instructions, is 
 - [[B058 — Sit daily — consistency over intensity|B058 Sit daily: consistency over intensity]]
 - [[P066 — Rest in pure experience before the splits|P066 Rest in pure experience before the splits]]
 - [[P091 — Distinguish lived time from clock time|P091 Distinguish lived time from clock time]]
+## Related concepts
+
+- [[Open-monitoring meditation]]
+- [[Bare attention in mindfulness practice]]
+- [[Meta-awareness]]
+- [[Attentional breadth global vs local processing]]
+- [[Dispositional mindfulness]]
+- [[Detached mindfulness theory Wells]]
+
 ## Related kernels
 
 - [[K385 — Cognitive acceptance: watch thoughts float by]]

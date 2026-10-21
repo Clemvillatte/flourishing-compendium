@@ -37,6 +37,19 @@ A warm 27-minute guided session from a widely respected meditation teacher is [G
 - [[D031 — Treasure 1 — compassion (ci)|D031 Treasure 1: compassion (ci)]]
 - [[B051 — Practice loving-kindness (metta)|B051 Practice loving-kindness (metta)]]
 - [[P165 — Become fully functioning — open to experience|P165 Become fully functioning: open to experience]]
+## Related concepts
+
+- [[Metta (loving-kindness)]]
+- [[Compassion]]
+- [[Compassionate love]]
+- [[Positive emotions research]]
+- [[Compassion-focused therapy]]
+- [[Self-compassion]]
+- [[Mindful self-compassion programme]]
+- [[Empathic distress]]
+- [[Mudita (sympathetic joy)]]
+- [[Acts of kindness (Lyubomirsky)]]
+
 ## Related kernels
 
 - [[K396 — The Befriending meditation]]
