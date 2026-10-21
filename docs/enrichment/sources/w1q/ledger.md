@@ -433,3 +433,20 @@ damage, w1ab left to its live holder.
   chained command around the front-matter FAIL likely exited early at validate; the
   page itself had been pushed). Re-marked done here; page validated ok against its
   pre-enrichment baseline after the front-matter fix (commit 3481ee2f7).
+
+## THE LOOK (LE REGARD) — 2026-10-21T16:02Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4, with the duplicate "The gaze (le regard)" heading noted
+  in the opening sentence). Carrier: SEP "Jean-Paul Sartre" entry, raw download; three
+  quotes substring-verified: the keyhole/footsteps description with the "pre-moral
+  experience of shame" phrase (SEP's prose, attributed as such), "transcendence
+  transcended", and the Sartre passage "It is useless for human reality to seek to
+  escape this dilemma... it is conflict." with SEP's citation (Sartre 1943 [1956:
+  429]). Being and Nothingness itself is not public-domain-openable; only the
+  SEP-carried Sartre words are quoted.
+- The original page's two [[E035]] wikilinks preserved (second occurrence added under
+  Cited in philosophy parallels after a markup-count validator failure); The face /
+  A067 / E067 / K015 links preserved. The original's stray bottom note (the second
+  seed line) folded into the opening sentence. Wikipedia "The Look" link on the
+  original page pointed at the Roxette song article (fetched, no Sartre content);
+  replaced by the SEP carrier. Validator ok (1 warn: 1 Related line, fast-track bar).
+  QC-pending for the next milestone.

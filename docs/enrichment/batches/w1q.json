@@ -20,7 +20,8 @@
   "The exemplary person",
   "The fine line between inspiration and mania",
   "The limits of reason",
-  "The logos common to all"
+  "The logos common to all",
+  "The look (le regard)"
  ],
  "in_progress": null,
  "flagged": {
@@ -34,6 +35,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:00:33+00:00",
+ "updated": "2026-10-21T16:01:17+00:00",
  "band_done": false
 }
