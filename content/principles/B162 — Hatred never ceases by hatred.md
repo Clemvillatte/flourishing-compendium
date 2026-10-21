@@ -22,6 +22,9 @@ The verse is paired with the one that explains why: those who hold on to the tho
 
 *For example:* Two neighbours run the same dispute — a fence, a noise, a boundary. One retaliates at every escalation and the war compounds over years. The other brings the ladder once, without announcement, and the conflict ends; not because the grievance was resolved, but because one side stopped feeding it.
 
+## Stories
+- [[ST367 — The Gift Nobody Accepted|367. The Gift Nobody Accepted]]
+
 ## Psychology parallels
 
 - **[[Revenge|Revenge research]]**, retaliation escalates and worsens affect (Carlsmith et al., 2008)

@@ -26,6 +26,9 @@ The compendium suggests asking what an angry action is meant to accomplish. Are 
 
 Imagine drafting an email designed to humiliate someone who treated you unfairly. Before sending it, identify the specific conduct you want addressed and rewrite the request around that. The example offers a choice about your response; it does not assume the other person has moved on or that anger will immediately end.
 
+## Stories
+- [[ST367 — The Gift Nobody Accepted|367. The Gift Nobody Accepted]]
+
 ## Psychology parallels
 
 - **Hostility and cardiovascular risk**: a meta-analysis of prospective studies found associations with coronary outcomes and indications of publication bias; it does not prove a particular angry episode causes disease ([Chida and Steptoe, 2009, abstract](https://pubmed.ncbi.nlm.nih.gov/19281923/)).

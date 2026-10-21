@@ -29,6 +29,9 @@ The chapter's image is a traveler who keeps near what carries him even when some
 
 - [Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — chapter 26
 
+## Stories
+- [[ST366 — The Tortoise in the Mud and the Owl with the Rat|366. The Tortoise in the Mud and the Owl with the Rat]]
+
 ## Psychology parallels
 
 - **[[Risk perception|Risk perception]]** (Slovic, 1987)

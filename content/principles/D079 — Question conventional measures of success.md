@@ -33,6 +33,9 @@ The speaker names the crowd's pleasures precisely, then names his own object of 
 - [Zhuangzi, Legge trans., ETH Zurich PDF](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Part 1, sections 1-3
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 20
 
+## Stories
+- [[ST366 — The Tortoise in the Mud and the Owl with the Rat|366. The Tortoise in the Mud and the Owl with the Rat]]
+
 ## Psychology parallels
 
 - **[[Extrinsic aspirations|Extrinsic aspirations]]** (Kasser and Ryan, 1996; Kasser, 2002)
