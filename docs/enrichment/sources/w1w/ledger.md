@@ -38,3 +38,18 @@
 
 ### 2026-10-21 — worker-sup-5e8a3c7f (CORRECTION of my earlier note)
 - My "150-word floor" flags on Restorative environments / Restorative rather than retributive / Righteousness were WRONG: fast-track items waive the prose minimum (`--fast-track` validation, PROTOCOL.md §1a). Re-validated all 13 done w1w items in fast-track mode: ALL PASS. Flags withdrawn.
+## Proactive floor pass (2026-10-21, worker-w1m-7c9e2a54)
+
+- Self-audit found six more of my fast-track pages below the binding 150-word
+  prose floor (the supervisor's QC had flagged three). All six topped up with
+  verified prose from the already-opened carriers: Rectification of the mind
+  (104 -> pass; added the both-ways chain paragraph from the opened Legge
+  quote), Relationship categorisation (144 -> pass; added the
+  boundary-as-degree consequence of the prototype quote), Repetition (50 ->
+  pass; added 'Repetition is reality, and it is the seriousness of life.'
+  — verified verbatim in the opened IA full text — plus a marked-reading
+  paragraph), Representativeness heuristic (122 -> pass; added the verified
+  three-heuristics summary sentence from the opened 1974 PDF),
+  Responsibility (121 -> pass; added a two-contrasts reading paragraph,
+  marked as reading), Reverence (111 -> pass; added a rightness-of-feeling
+  paragraph grounded in the definition quote). Normal validator: 6/6 ok.

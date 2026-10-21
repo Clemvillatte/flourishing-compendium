@@ -15,6 +15,8 @@ Reverence, in Paul Woodruff's recovery of the virtue, is the capacity to feel aw
 
 Woodruff argues the virtue crosses traditions the way courage does. As the review quotes him: "If courage is what we think it is, then Jewish courage is no different in kind from Christian or Buddhist courage; indeed, we would be silly to call it by such names. Courage is courage, regardless of the religion of those who display it. Reverence is the same; it straddles boundaries between religions and bridges the gap between religious and secular life" (p. 67).
 
+The definition is careful in a way that matters for practice. The feelings named — awe, respect, shame — are not endorsed wholesale; the capacity is to have them "when these are the right feelings to have". Reverence is therefore a discriminating capacity, not a mood: the same virtue that respects the fellow human being also declines the tyrant the tribute of respect, since respect paid where it is not right is not reverence but servility. What the three feelings share is the recognition of something that outranks the self in the situation at hand.
+
 ### In the compendium
 
 - [[A021 — Practice shame (aidos)]] — the shame component of the virtue

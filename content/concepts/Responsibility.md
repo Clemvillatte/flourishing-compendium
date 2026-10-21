@@ -15,6 +15,8 @@ In Aristotle's account, responsibility begins with the voluntary: what has its m
 
 The inquiry stops where the person enters: "For every one ceases to inquire how he is to act when he has brought the moving principle back to himself and to the ruling part of himself; for this is what chooses." Choice is defined at the hinge between deliberation and desire: "The object of choice being one of the things in our own power which is desired after deliberation, choice will be deliberate desire of things in our own power; for when we have decided as a result of deliberation, we desire in accordance with our deliberation."
 
+The framework turns on two contrasts. The voluntary and the involuntary mark where praise and blame are in order, and the passage's examples are institutional — honours and punishments, the legislator's tools. And within the voluntary, choice is narrower than mere wishing: choice is deliberate desire for things in one's own power, so what a person holds responsible is what they could deliberate about and then do. On this reading, responsibility is not a feeling of guilt but a fact about where a chain of causes passes through a person.
+
 - Bandura, 2001
 - Dewey, Human Nature and Conduct
 
