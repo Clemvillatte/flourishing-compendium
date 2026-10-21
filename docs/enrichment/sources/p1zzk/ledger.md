@@ -16,3 +16,5 @@
 - Opened (search excerpts): FAMSI Curl translation of Cantares #40 (f.25rv); León-Portilla Trece poetas (Cuacuauhtzin song, Spanish); Stroebe & Schut 1999 abstract (PubMed). Seed's "cities fallen / flowers wilted" and "elegy then feast" sequence not found; DPM stresses oscillation not one voiced hour then return. Wake anecdote dropped.
 ## M047 — mastery as path
 - Opened (search excerpts): PhilArchive PUROWT survey (quotes FC 10:25; author not seen); UAEH study on toltecatl in León-Portilla; Macnamara 2014 PDF; Ericsson & Harwell 2019 (PMC). Seed claim that the tradition does not split mastery from wisdom is contradicted by the PhilArchive survey (tlamatini vs toltecatl). Csikszentmihalyi not opened. Carpenter anecdote dropped.
+## M049 — perfect the smallest work
+- Opened (search excerpts): Wired Humanities toltecatl entry quoting FC X p.25 (Anderson & Dibble); Ryan & Deci 2000 abstract; Deci & Ryan 2008 abstract/conclusion. Seed's vessel/stone/seam and huehuetlatolli "smallest works" counsel not located. SDT does not test unobserved quality. Bricklayer anecdote dropped.
