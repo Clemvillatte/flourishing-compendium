@@ -822,3 +822,10 @@ Carriers opened fresh: ERIC ED226263 (Tesser & Campbell 1982); UNC Greensboro
 Schmitt/Silvia/Branscombe 2000 PDF. w1w "Self-Evaluation Maintenance Theory": all five
 quoted passages (four from Tesser & Campbell 1982; the Tesser 1988 p.190 quotation)
 VERBATIM vs the opened carriers. 1/1 PASS, no defects.
+
+## Round 58 (16:42Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carriers opened fresh: Gruber Lab Smith et al. 2009 PDF; mbrambilla.com Pagliaro et al. 2019
+PDF. w1w "Schadenfreude": all four quoted passages (dictionary gloss; three-conditions
+passage with marked ellipses; both Pagliaro Study 1/Study 2 sentences) VERBATIM vs the
+opened carriers. 1/1 PASS, no defects.
