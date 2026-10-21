@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 55** — Build a creative identity
 
-The belief that one is a creative person predicts creative output. The belief is not about talent. It is about the willingness to identify as someone who makes things, tries things, and risks being judged. Research on creative self-efficacy shows that confidence in one's creative capacity predicts creative achievement, and that the confidence is built through repeated creative engagement, not through praise.
+The research behind this principle is on creative self-efficacy, which Tierney and Farmer define as "the belief one has the ability to produce creative outcomes". In two firms, they found that creative self-efficacy "predicted creative performance beyond the predictive effects of job self-efficacy" ([Tierney and Farmer 2002, Acad Manage J 45(6):1137-1148, abstract](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.2307/3069429)). A meta-analysis of 60 effect sizes from 41 papers (N = 17,226) found a medium overall link between creative self-efficacy and creativity measures (r = .39). The link was stronger for self-rated creativity (r = .53) and weaker for divergent-thinking tests (r = .23) and figural performance tasks (r = .19). The authors stress that results depend on whether creativity is measured by self-report or by objective tests ([Haase et al. 2018, Creativity Research Journal 30(1):1-16](https://www.tandfonline.com/doi/full/10.1080/10400419.2018.1411436)).
 
-(Beghetto, 2006; Tierney and Farmer, 2002.)
+So confidence goes with creative output, but the correlations are modest in test-based studies. Most of the evidence is correlational, so it does not show that adopting a creative identity causes more output.
 
-**Plain words** Calling yourself a creative person, in the sense of someone who makes things and risks being judged, predicts creative output more than talent does. The identity makes you practise, and practising builds the skill.
+How the confidence is built is also less settled than the earlier text said. In 1,322 middle and secondary students, Beghetto found that "teacher feedback on creative ability" was positively related to creative self-efficacy, along with mastery and performance-approach beliefs ([Beghetto 2006, Creativity Research Journal 18(4):447-457, abstract](https://scispace.com/journals/creativity-research-journal-38y50hb2/2006)). That is a correlational finding about feedback, so the seed claim "not through praise" is not supported. I did not find a source in which repeated creative engagement was tested as the cause.
 
-*For example:* Someone who starts saying "I write" and shows up every Saturday morning, however badly.
+A caution from a recent paper: higher creative self-efficacy predicted a larger positive bias in self-assessed creative performance, together with lower creative achievements ([Springer 2025](https://link.springer.com/article/10.1007/s11409-025-09432-2)). Confidence and skill are separate things.
+
+**Plain words** People who feel able to make things creatively tend to produce more creative work, though the link is medium-sized and mostly correlational. How that confidence grows is not settled, and feedback from others seems to matter.
+
+*For example:* This is an imagined case. Someone starts saying "I write", shows up every Saturday morning, and shares a draft with one reader whose feedback they trust.
+
+## Sources
+
+- [Tierney and Farmer (2002), Creative self-efficacy: its potential antecedents and relationship to creative performance (abstract)](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.2307/3069429)
+- [Haase, Hoff, Hanel and Innes-Ker (2018), A meta-analysis of the relation between creative self-efficacy and different creativity measurements](https://www.tandfonline.com/doi/full/10.1080/10400419.2018.1411436)
+- [Beghetto (2006), Creative self-efficacy: correlates in middle and secondary students (abstract listing)](https://scispace.com/journals/creativity-research-journal-38y50hb2/2006)
+- [Creativity, personality and task-related predictors of self-assessed creative performance (2025)](https://link.springer.com/article/10.1007/s11409-025-09432-2)
 
 ## Stories
 
@@ -27,7 +38,7 @@ The belief that one is a creative person predicts creative output. The belief is
 ## Psychology parallels
 
 - [[Creative self-efficacy|Creative self-efficacy]] (Tierney and Farmer, 2002)
-- [[Creative identity|Creative identity]] (Beghetto, 2006)
+- [[Creative identity|Creative identity]] (Beghetto, 2006; his paper measures creative self-efficacy, not identity as such)
 
 <!-- fc: reflections
 Do you consider yourself a maker of things? Whose definition are you using?
