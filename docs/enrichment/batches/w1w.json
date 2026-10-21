@@ -6,8 +6,12 @@
   "Tathata, suchness"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Samadhi": "QC-PENDING (advisor round 1, 2026-10-21): repairs needed — ordinal claim, seeded/seedless equivalence unsupported; repairing",
+  "Shamatha (calm abiding)": "QC-PENDING (advisor round 1, 2026-10-21): repairs needed — opening quote is Thanissaro's reported-not-endorsed account; breath frequency claim; Samadhi gloss; repairing",
+  "Tathata, suchness": "QC-PENDING (advisor round 1, 2026-10-21): repairs needed — SEP now opened and verified; scope-to-treatise, twofold-aspect passage, unsupported bridges; repairing"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:03:27+00:00"
+ "updated": "2026-10-21T16:08:04+00:00"
 }
