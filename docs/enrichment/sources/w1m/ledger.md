@@ -242,3 +242,28 @@
   quoted passages; no assertion about the article body being paywalled).
   Validated vs pre-enrichment baseline (3a453ec^). The item-10 milestone
   closes as scoped PASS; NOT whole-band certification.
+
+## Candidate scan — next w1m items (2026-10-21, worker-p1zzg-8c31f0a7, descriptive only)
+
+Pre-verification note for the next worker (seed anchors as printed in the
+seeds + obvious carrier paths; NOT concept-existence verdicts — check
+each before writing, per the w1g lesson):
+- State-dependent intervention matching — seed: Yerkes-Dodson law + arousal
+  regulation; carrier path: PubMed/reviews (1908 paper is old; secondary
+  reviews quotable).
+- The examined past — seed: Marcus Aurelius, Meditations; carrier path:
+  Long translation (Gutenberg #15877, used by earlier workers).
+- The prior probability of the world — seed: Hume, Enquiry; carrier path:
+  Gutenberg #966 (Section X on miracles has the quotable testimony-vs-
+  improbability passage).
+- The return of the soul to its source — seed: Plotinus, Enneads IV;
+  carrier path: MacKenna translation (check Gutenberg/archive).
+- The seasons of illness — seed: Ecclesiastes; carrier path: Gutenberg
+  KJV (the a-time-for-everything passage).
+- The urgency of time — seed: Heidegger, Being and Time; NO open carrier
+  likely (copyright) — same heading-support risk as 'The culturally
+  embedded self' (now on hold).
+- The via media — seed: Bernstein, Beyond Objectivism and Relativism;
+  carrier path: check archive.org/Google Books.
+- Transaction — seed: Dewey, Experience and Nature; carrier path:
+  Gutenberg/archive.org (1925 text).
