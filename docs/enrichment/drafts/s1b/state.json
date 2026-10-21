@@ -148,9 +148,14 @@
      "t": "2026-10-21T12:06:04+00:00",
      "to": "qc_pending",
      "note": "advisor QC round-2 repairs applied: narrow target-angles, no attempted-capture, evidence ledger updated to Wikisource carrier; awaiting round-3 disposition"
+    },
+    {
+     "t": "2026-10-21T12:07:06+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round-3 applied: gist-first opening restored, DDJ quote removed, John Murray imprint removed from public text"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:06:04+00:00"
+ "updated": "2026-10-21T12:07:06+00:00"
 }
