@@ -39,5 +39,7 @@
    "from": "worker-w1a-e54f7981",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T11:43:06+00:00"
 }
