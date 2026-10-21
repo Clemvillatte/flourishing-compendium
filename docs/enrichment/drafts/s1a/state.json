@@ -748,6 +748,11 @@
      "t": "2026-10-21T12:44:07+00:00",
      "to": "published",
      "note": "supervisor registration ST430"
+    },
+    {
+     "t": "2026-10-21T12:55:22+00:00",
+     "to": "qc_pending",
+     "note": "advisor round-2: SCOPED PASS; verification record corrected (16 prose + 4 table strings); stays qc_pending for supervisor scope/ST184 dispositions"
     }
    ]
   },
@@ -852,5 +857,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:53:40+00:00"
+ "updated": "2026-10-21T12:55:22+00:00"
 }
