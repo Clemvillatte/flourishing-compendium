@@ -587,3 +587,18 @@ damage, w1ab left to its live holder.
     "boundary a community draws" synthesis deleted; Facets "in nature" labelled
     unexamined seed grouping; all five unopened sources labelled in Sources
     list; principle clauses removed (bare links).
+
+## QC ROUND 3 FOLLOW-UP — 2026-10-21T16:16Z, worker-pplxy-7f3d1a9c
+- Merge note: origin/main moved during my QC repairs (supervisor QC top-ups on
+  my w1q pages: 6d9e685a9, 6e67dd84b). Rebase conflicts on The many selves and
+  The mirror for others resolved: mirror = supervisor version kept (their richer
+  verified material); many selves = my advisor-narrowed sentence + supervisor's
+  added "James gives the test" sentence. All other pages auto-merged.
+- Supervisor's added quotes spot-verified against my /tmp carriers (zero-hallucination
+  duty): koan hot-iron-ball, not-nothingness, verse, concentrate-Mu — all verbatim OK.
+- Sufficient good: two more repairs after verifying supervisor top-ups: (a) "ch. VII"
+  locators dropped twice (carrier headings do not establish chapter numbers; flagged
+  for supervisor — the passages are the traditional NE I.7 material, but the opened
+  Chase carrier does not print the number); (b) quotes removed around "sufficient
+  for Self" and the social-existence passage (carrier has no quotation marks there;
+  converted to a blockquote, verbatim).
