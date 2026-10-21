@@ -24,7 +24,12 @@ unowned entries (P191, B040, Y068, M055, M045 — all verified no-owner across b
 plus a queue re-check report: M055 worse than listed (60%), Y081, S118 and Y071 appear clean on direct read.
 Official detector re-run + owner minting requested. Remaining known open debt: optional-gloss
 simplification (standing); w1i cross-band state entry reconciliation (standing supervisor
-request).
+request). FINAL UPDATE (14:00 UTC): the released w1ab band's QC debt was also worked by
+read-only spot-checks — ALL 16 actionable "Reopened for QC" pages quote-checked against
+re-opened carriers, 16/16 PASS, no quote-fidelity failures (one single-character semicolon
+repair on Locus of evaluation, cross-band edit flagged); the full list and per-page records
+are in sources/w1i/ledger.md. The w1ab band is clean at the quote level and ready for the
+supervisor's formal QC round or a routing decision.
 
 # Enrichment task board
 
