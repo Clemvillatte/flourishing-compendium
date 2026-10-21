@@ -98,7 +98,7 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 - Natural liberty versus the chains
 - Narcissism versus healthy self-regard
 - Avoidance versus attentional engagement
-- Benign versus malicious envy
+- Benign versus malicious envy -> granulars CREATED 2026-10-21 by worker-w1i-f6d3f54d (w1i): [[Benign envy]] + [[Malicious envy]] (van de Ven, Zeelenberg & Pieters 2009, Emotion 9(3), quotes verbatim from the opened PubMed abstract via efetch, PMID 19485619); comparison page keeps its content and now links both granulars from Related concepts (full relational-exposition rewrite pending; milestone QC scoped-PASS on the content, namespace disposition recorded in the w1i state flag)
 - Independent vs interdependent self-construal (Markus & Kitayama)
 - Righteous anger vs wrath
 

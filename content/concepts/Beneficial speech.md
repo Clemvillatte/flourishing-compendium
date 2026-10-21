@@ -14,7 +14,7 @@ Beneficial speech, as the term is used by the pages linking here, is speech that
 
 ### The Buddha's test
 
-The Abhaya Sutta sets out six cases ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). Words the Tathagata knows to be factual and true but unbeneficial are not said, whether endearing or not; beneficial words that are unendearing and disagreeable to others are still said, at the proper time ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). The translator's introduction condenses the factors to three: whether a statement is true, whether it is beneficial, and whether it is pleasing to others ([MN 58, Thanissaro, translator's introduction](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
+The Abhaya Sutta sets out six cases ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). Words the Tathagata knows to be factual and true but unbeneficial are not said, whether endearing or not; for beneficial words that are unendearing and disagreeable to others, he has a sense of the proper time for saying them ([MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)). The translator's introduction condenses the factors to three: whether a statement is true, whether it is beneficial, and whether it is pleasing to others ([MN 58, Thanissaro, translator's introduction](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)).
 
 > "In the case of words that the Tathagata knows to be factual, true, beneficial, but unendearing & disagreeable to others, he has a sense of the proper time for saying them." — [MN 58, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html)
 
@@ -32,7 +32,7 @@ The Abhaya Sutta sets out six cases ([MN 58, Thanissaro translation](https://www
 
 ## Facets
 
-- **three gates** — the compendium's speech-gate check (K208), drawing on MN 58 and Sutta Nipata 3.3
+- **Speech criteria** — the words' tests in BG 17.15 and MN 58
 
 ## Related concepts
 

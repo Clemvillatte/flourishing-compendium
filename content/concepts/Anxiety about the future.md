@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
 
-The Concept of Anxiety (1844) locates anxiety in possibility: the existence of the self has possibilities, and anxiety is the felt pull of those possibilities, where we feel a "sympathetic antipathy" or an "antipathetic sympathy" in which we are both drawn towards and repelled by some possibility ([Lippitt & Evans, "Søren Kierkegaard", SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)). The phenomenon is future-facing in that structural sense: possibility is what is not yet.
+The Concept of Anxiety (1844) locates anxiety in possibility: the existence of the self has possibilities, and anxiety is the felt pull of those possibilities, where we feel a "sympathetic antipathy" or an "antipathetic sympathy" in which we are both drawn towards and repelled by some possibility ([Lippitt & Evans, "Søren Kierkegaard", SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)).
 
 > "Anxiety is not merely a pathological condition which is a symptom of disease, but part of the human condition itself. It is an awareness of freedom." — [Lippitt & Evans, "Søren Kierkegaard", SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)
 
@@ -19,8 +19,6 @@ The book's pseudonymous author is Vigilius Haufniensis ([Lippitt & Evans, "Søre
 > anxiety is the dizziness of freedom, which emerges when the spirit wants to posit the synthesis and freedom looks down into its own possibility, laying hold of finiteness to support itself. — Kierkegaard, The Concept of Anxiety (CA 61/SKS 4, 365), as quoted in [Lippitt & Evans, SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)
 
 > "Whoever has learned to be anxious in the right way has learned the ultimate" — Kierkegaard, The Concept of Anxiety (CA 155), as quoted in [Lippitt & Evans, SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)
-
-Haufniensis recommends learning to be anxious in the right way rather than eliminating anxiety, which he treats as the state that precedes a morally free action, one that always comes from a "leap" and cannot be seen as necessary ([Lippitt & Evans, "Søren Kierkegaard", SEP, §2](https://plato.stanford.edu/entries/kierkegaard/)).
 
 ### In the compendium
 

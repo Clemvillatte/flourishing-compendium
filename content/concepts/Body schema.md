@@ -8,11 +8,11 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter B", "parent": ""}
 ---
 
-The body schema, introduced by the neurologists Henry Head and Gordon Holmes in 1911, is the unconscious postural standard against which all subsequent changes of posture are measured before they enter consciousness ([Vallar 2025, J Neuropsychol, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)). Accounts differ on its exact relation to the body image; on the review's summary, the schema is an unconscious, on-line, real-time plastic representation of one's own body in space, derived mainly from proprioceptive inputs and interacting with motor systems for action, while the body image is its conscious counterpart ([Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)).
+The body schema, as described by the neurologists Henry Head and Gordon Holmes in 1911, is the unconscious postural standard against which all subsequent changes of posture are measured before they enter consciousness ([Vallar 2025, J Neuropsychol, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)). Accounts differ on its exact relation to the body image; on one account summarized in the review, the schema is an unconscious, on-line, real-time plastic representation of one's own body in space, derived mainly from proprioceptive inputs and interacting with motor systems for action, while the body image consists of conscious representations ([Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)).
 
 > "For this combined standard, against which all subsequent changes of posture are measured before they enter consciousness, we propose the word 'schema'." — Head & Holmes 1911, quoted in [Vallar 2025, PMC11923729](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)
 
-> "By means of perpetual alterations in position we are always building up a postural model of ourselves which constantly changes. Every new posture or movement is recorded on this plastic schema, and the activity of the cortex brings every fresh group of sensations evoked by altered posture into relation with it. Immediate postural recognition follows as soon as the relation is complete." — Head & Holmes 1911, quoted in [Vallar 2025, PMC11923729, "The heritage of the body schema and body image" section](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)
+> "By means of perpetual alterations in position we are always building up a postural model of ourselves which constantly changes. Every new posture or movement is recorded on this plastic schema, and the activity of the cortex brings every fresh group of sensations evoked by altered posture into relation with it. Immediate postural recognition follows as soon as the relation is complete." — Head & Holmes 1911, quoted in [Vallar 2025, PMC11923729, "Henry Head, Gordon Holmes and British neurology and psychology" section](https://pmc.ncbi.nlm.nih.gov/articles/PMC11923729/)
 
 ### Tools join the schema
 
@@ -27,7 +27,7 @@ Later writers put the point in plainer cases: the body-image of a motorist, an a
 - [[E013 — Practise the lived body (Leib)]] — Merleau-Ponty's lived body, experienced in ways that distinguish it in kind from all other things
 - [[D142 — Align the body]] — the Neiye's pairing of alignment and stillness, making the settled body a dwelling for essence
 - [[ST132 — The Blind Man's Cane]] — the story of Merleau-Ponty's cane example: the man feels the street at the tip, and the body's boundary follows the perceptual system
-- [[ST263 — The Phantom Hand]] — the story of a phantom hand (phantom-limb phenomena are discussed in the body-schema literature)
+- [[ST263 — The Phantom Hand]] — the story of a phantom hand
 - [[K307 — Body-schema noticing]] — the compendium's exercise: noticing the implicit sense of where the body ends and the world begins
 - [[ST282 — Fanon and the Look]] — Fanon's account of the body schema collapsing under the racializing look
 - [[K308 — Object-use phenomenology]] — cites the concept for its tool-use exercise

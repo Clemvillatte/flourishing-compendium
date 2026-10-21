@@ -37,6 +37,8 @@ Study 1 used guided recall in the Netherlands, a culture with separate words for
 
 
 
+- [[Benign envy]] — the moving-up form
+- [[Malicious envy]] — the pulling-down form
 - [[Social comparison]] — the upward comparison that splits envy's two forms
 - [[D117]] — D117's Daodejing 3 passage warns that rankings breed rivalry; the page distinguishes the forms envy then takes
 - [[SP016]] — Spinoza's account of emulation and its association with envy
