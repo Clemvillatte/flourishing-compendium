@@ -524,3 +524,16 @@ damage, w1ab left to its live holder.
   from their own text. Related: kin headings The common good / The interconnected
   good, bare links. Validator ok against baseline f66b30cc1 (1 warn: 2 Related
   lines, fast-track bar). QC-pending for the next milestone.
+
+## THE UNANSWERABLE KOAN — 2026-10-21T16:08Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 2 + 2 parallels). Carrier: Wikisource, The Gateless
+  Gate (Mumon, trans. Nyogen Senzaki and Paul Reps, 1934), case 1 "Joshu's Dog",
+  raw page downloaded; two quotes substring-verified: the Mu koan and Mumon's
+  comment ("Enlightenment always comes after the road of thinking is blocked").
+- Note for supervisor: Gutenberg #34619 "The Gateless Barrier" is a NOVEL (Lucas
+  Malet), not the Mumonkan — search result trap, disclosed here; the compendium's
+  [[The unanswerable koan]] page carries no link to it. Sacred-texts Mumonkan is
+  Cloudflare-walled this session. K013/B046/K009/Y091 clauses drawn from their
+  own text; Limits-of-reason Related link points to this session's page. Validator
+  ok against baseline dc22b3970 (1 warn: 1 Related line, fast-track bar).
+  QC-pending for the next milestone.
