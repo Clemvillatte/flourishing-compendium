@@ -12,11 +12,30 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 69** — Treat cultural bereavement as a real loss
 
-Treat cultural bereavement — the grief experienced by migrants and refugees at the loss of their homeland, language, and culture — as a real loss, not a vague nostalgia. Cultural bereavement is a recognized clinical syndrome (Eisenbruch, 1991; Papadopoulos, 2007).
+Eisenbruch introduced the term from his research with Cambodian refugees. He argued that cultural bereavement "gives meaning to the refugee's distress" and "complements the psychiatric diagnostic categories", and that it "should be given appropriate status in the nosology" ([Eisenbruch 1991, Social Science & Medicine](https://pubmed.ncbi.nlm.nih.gov/1957187/)). That last sentence is a proposal. I found no source showing it was adopted as a formal diagnosis, so "recognised clinical syndrome" in the seed overstates it.
 
-**Plain words** Cultural bereavement is real grief — the loss of homeland, language, and world, experienced by migrants and refugees. Not vague nostalgia; a recognised clinical loss. Grieve it properly. It deserves the same respect as any bereavement.
+His definition describes "the experience of the uprooted person - or group - resulting from loss of social structures, cultural values and self-identity". It includes continuing to live in the past, guilt over abandoning culture and homeland, and wanting to complete obligations to the dead ([quoted in a Canadian Family Physician review](https://pmc.ncbi.nlm.nih.gov/articles/PMC1414713/)). He also warned that some people who meet PTSD criteria may show "a sign of normal, even constructive, rehabilitation" (Eisenbruch 1991). So the term is meant to read distress in its cultural setting, not to add another disorder.
 
-*For example:* The grandfather weeping at a song from the old country, dismissed as "being sentimental" — that was a funeral for a whole world. It deserves the courtesy we give every funeral.
+A systematic review of migratory grief credits him with naming the distress that follows loss of homeland, identity and social connectedness ([Migratory grief: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10904569/)).
+
+
+
+### Scope
+
+The original work was with Southeast Asian refugees. I did not open Papadopoulos 2007, Bhugra 2004 or Fazel et al. 2005, and I found no test here of whether naming the loss reduces distress.
+
+**Plain words**
+Losing a homeland, language and way of life is a real bereavement. It can look like sentiment from outside, but it can also carry guilt, intrusive memories and unfinished duties to the dead.
+
+**For example**
+When someone who has migrated mentions a song, a dish or a festival from home, ask what it was like back there. Listen without steering them toward gratitude for the new country.
+
+## Sources
+
+- [Eisenbruch 1991, From post-traumatic stress disorder to cultural bereavement (PubMed)](https://pubmed.ncbi.nlm.nih.gov/1957187/)
+- [Migration, cultural bereavement and cultural identity (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1414713/)
+- [Migratory grief: a systematic review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10904569/)
+
 ## Psychology parallels
 
 - [[Eisenbruch|Eisenbruch]] (1991) on cultural bereavement; Papadopoulos (2007) on refugee mental health; the migration-and-mental-health literature (Bhugra, 2004); the refugee-trauma literature (Fazel et al., 2005).

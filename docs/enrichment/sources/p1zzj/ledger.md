@@ -39,3 +39,5 @@
 - Opened (excerpts): Meyer 2003 abstract (HHRI), APA research summary, Paradies 2015 (PMC abstract/results). These evidence discrimination/stigma/racism, not "marginalization" as exclusion generally; page says so. Crocker 1994, Berry 1997 (marginalization strategy) not opened. Seed's housing-policy depression example replaced; no study on policy-level intervention found.
 ## SO068 — rapid social change
 - Opened (excerpts): CUP blurb for Rosa; Nursing Inquiry summary of Rosa; BMC Public Health overview (mention of Ka'apu review: rapid cultural change unfavourable). Rosa's own book not opened (Rosa 2013 vs seed's "Rosa and Trejo-Mathys 2013" is the translation: not verified). Seed's village-to-city illness example dropped as unsourced; Ka'apu review itself not opened.
+## SO069 — cultural bereavement
+- Opened (abstract/excerpts): Eisenbruch 1991 abstract (PubMed); PMC1414713 (definition quote; journal identity as "Canadian Family Physician" NOT confirmed from excerpt — check); Migratory grief review. Seed's "recognized clinical syndrome" corrected: Eisenbruch proposes nosology status. Papadopoulos, Bhugra, Fazel not opened. Grandfather anecdote dropped.
