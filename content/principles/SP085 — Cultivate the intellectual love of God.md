@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 85** — Cultivate the intellectual love of God
 
-The love Spinoza means arises from understanding, not desire: "From the third kind of knowledge there necessarily arises an intellectual love of God" ([Ethics V P32 corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The pleasure in what is understood is "the greatest contentment of mind there can be," accompanied by the idea of God as its cause ([Ethics V P32 proof, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Its durability is structural: "A mind's intellectual love of God is part of the infinite love by which God loves God" ([Ethics V P36, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)), and "God's love of men and the mind's intellectual love of God are one and the same" ([Ethics V P36 corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Spinoza's summary in the note: "our salvation = happiness = freedom consists in a constant and eternal love toward God" ([Ethics V, note on 36, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
+Spinoza connects intellectual love specifically with the third kind of knowledge: "From the third kind of knowledge there necessarily arises an intellectual love of God" ([Ethics V P32 corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The pleasure in what is understood is "the greatest contentment of mind there can be," accompanied by the idea of God as its cause ([Ethics V P32 proof, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Its durability is structural: "A mind's intellectual love of God is part of the infinite love by which God loves God" ([Ethics V P36, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)), and "God's love of men and the mind's intellectual love of God are one and the same" ([Ethics V P36 corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Spinoza's summary in the note: "our salvation = happiness = freedom consists in a constant and eternal love toward God" ([Ethics V, note on 36, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 > "From the third kind of knowledge there necessarily arises an intellectual love of God." (Spinoza, Ethics V P32 corollary, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 **Plain words**
-This love does not start as feeling; it starts as understanding, and the feeling follows it. That is why Spinoza calls it intellectual: the object is not a person who could leave or a prize that could be lost, but the necessary order that was there before you wanted anything. Its mark is one-directional dependence: understanding feeds the love, and the love feeds nothing back into your expectations. You cannot be abandoned by what you understand; you can only stop understanding it.
+Spinoza connects taking pleasure in understanding with recognizing God as its cause. He calls the love arising from this particular kind of knowledge intellectual love; the passage does not promise that every strong intellectual interest makes someone immune to disappointment ([Ethics V P32 and its corollary, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
-Hypothetical illustration: the astronomer's affection for the sky survives every discovery that shrinks the earth's place in it, because the understanding, not the sky's favor, holds the affection up.
+Reading example: follow V P32 into its corollary. Mark the references to third-kind knowledge, pleasure, God as cause, and intellectual love.
 
-(Ethics V, P32-33 and P36, with its corollary and note.)
+(Ethics V, P32 and P36, with its corollary and note.)
 
 ## Psychology parallels
 

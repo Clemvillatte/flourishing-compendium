@@ -17,10 +17,10 @@ Spinoza's appendix to Part IV makes the social rule plain: it is "especially use
 > "It is especially useful to men to relate closely to one another, binding themselves by whatever bonds are apt to make them one, and—another absolute rule—to do whatever will strengthen their friendship." (Spinoza, Ethics IV appendix 12, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 **Plain words**
-Spinoza's claim is about fit, not status. A person among agreeing natures is aided in acting; among clashing natures he must constantly reshape himself to get along, which spends the power he would otherwise act with. Friendship among the rational has no debt structure: each benefits the other as an expression of his own nature, and the P71 note contrasts that with the bargain-like gratitude that only repays.
+A friendship can involve help and gratitude without being a bargain. Spinoza contrasts gratitude among free people with thanks prompted by blind desire, which he describes as more like a bargain or an inducement ([Ethics IV P71 note, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
-Hypothetical illustration: two colleagues who share a standard trade critique freely and each ends the term more capable; two who trade flattery keep a silent ledger instead.
+Hypothetical illustration: you help a friend with a difficult task and welcome their thanks without treating the help as a purchase of obedience.
 
 (Ethics IV, P70-71; appendix items 7 and 12.)
 

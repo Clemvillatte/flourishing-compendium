@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 77** — Want unity of minds, not uniformity of opinion
 
-Chapter 20 of the Theologico-Political Treatise states the case directly: "complete unanimity of feeling and speech is out of the question," so peace requires only that individuals give up acting on their own judgment, not judging itself ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)). Because all cannot think alike, the free commonwealth asks "that men may live together in harmony, however diverse, or even openly contradictory their opinions may be" ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)). Spinoza adds the practical reason: where belief is compelled, "the only lesson we can draw from such scenes is to flatter the persecutor, or else to imitate the victim," so formal assent is not worth holding above conviction ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)).
+Chapter 20 of the Theologico-Political Treatise states the case directly: "complete unanimity of feeling and speech is out of the question," so peace requires only that individuals give up acting on their own judgment, not judging itself ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)). Because all cannot think alike, the free commonwealth asks "that men may live together in harmony, however diverse, or even openly contradictory their opinions may be" ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)). Spinoza adds the practical reason: where belief is compelled, "The only lesson we can draw from such scenes is to flatter the persecutor, or else to imitate the victim," so formal assent is not worth holding above conviction ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)).
 
 > "it is imperative that freedom of judgment should be granted, so that men may live together in harmony, however diverse, or even openly contradictory their opinions may be." (Spinoza, Theologico-Political Treatise ch. 20, [Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/992/992-h/992-h.htm))
 
 **Plain words**
-Groups break in two different ways: they can splinter over opinions, or they can hold together by pretending everyone already agrees. The second looks like unity and is not; it is agreement about what may be said standing in for agreement about the aim. Spinoza's split is the durable one: everyone yields on what the group will do, nobody is required to yield on what they think of it. Opinions keep roaming; the plan holds.
+Citizens need not reach the same conclusions to live under common laws. In the democracy Spinoza describes, the majority's decision governs action while people retain their judgment and reason: "everyone submits to the control of authority over his actions, but not over his judgment and reason... the voice of the majority has the force of law" ([TTP ch. 20, Elwes](https://www.gutenberg.org/files/992/992-h/992-h.htm)).
 
 **For example**
-Hypothetical illustration: a family that requires matching opinions at every dinner goes quiet and then explosive; a family bound by shared work, with opinions left free, is still talking years later.
+Hypothetical illustration: two citizens vote differently on a proposal, then both follow the law adopted by the majority.
 
 (Theologico-Political Treatise, ch. 20.)
 

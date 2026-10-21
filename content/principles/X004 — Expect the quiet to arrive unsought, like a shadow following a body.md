@@ -17,7 +17,7 @@ Sextus tells the story as an accident: the painter Apelles, unable to render the
 > "they found that quietude, as if by chance, followed upon their suspense, even as a shadow follows its substance." (Sextus Empiricus, Outlines of Pyrrhonism I.12, [Bury translation](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
 
 **Plain words**
-The method gives up on calm as a goal, because aiming at it is one more verdict to defend. What it aims at is the balance; the calm is what the balance leaves behind, the way a shadow comes with the body without being chased. The practical difficulty is the checking: asking whether it has worked yet re-opens the question, and the question is what was disturbing you. The sponge story is the honest part: the effect arrived when the attempt stopped.
+The Sceptics did hope for quietude: Sextus names it the originating cause of the whole inquiry ([Outlines of Pyrrhonism I.6, Bury](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf)). What they expected was that deciding the questions would bring it; it came when the deciding was given up, "as if by chance." The practice keeps the hope and swaps the route: balance the arguments, let the suspense form, and the quiet is what follows it, "even as a shadow follows its substance." The sponge story is the honest part: the effect arrived when the attempt stopped.
 
 **For example**
 Hypothetical illustration: someone practising the balancing method keeps asking whether they are calm yet, and only gets calm the afternoon they forget to ask.
