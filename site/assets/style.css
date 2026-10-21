@@ -1763,3 +1763,6 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 .acad-media-row.no-level { grid-template-columns:1fr auto; padding-left:16px; }
 .acad-syllabus .acad-media-row { margin-bottom:0; border:1px solid var(--line); border-radius:10px; background:var(--panel); margin:0 0 -1px; }
 .acad-syllabus .acad-module-body .acad-btn { margin-top:14px; }
+
+/* polish: expanded module header tint needs breathing room (mobile QA) */
+.acad-module-header { padding:8px 10px; margin:0 -10px; border-radius:8px; }
