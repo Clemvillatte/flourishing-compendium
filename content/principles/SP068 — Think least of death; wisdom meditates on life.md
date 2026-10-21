@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 68** — Think least of death; wisdom meditates on life
 
-Spinoza grounds the maxim in the free person's manner of acting: the free person "isn't led by fear of death" but "wants the good directly," acting from the pursuit of what is advantageous rather than from avoidance of loss ([Ethics IV P67 demonstration, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). A related practice elsewhere in the tradition: [[Memento mori|memento mori]].
+Spinoza grounds the maxim in the free person's manner of acting: the free person "isn't led by fear of death" but "wants the good directly" ([Ethics IV P67 demonstration, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). For comparison: [[Memento mori|memento mori]].
 
 > "A free man thinks about death less than he thinks about anything else; his wisdom is a meditation on life, not on death." (Spinoza, Ethics IV P67, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 

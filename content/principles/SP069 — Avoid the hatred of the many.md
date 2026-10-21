@@ -17,7 +17,7 @@ Ethics IV P70 gives the free person's social rule: "A free man who lives among t
 > "So in declining favours we must take account of what is useful as well as of what is honourable." (Spinoza, Ethics IV P70 scholium, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 **Plain words**
-A favour sets up an expectation in the giver about what it was worth and what comes back, and those expectations differ between giver and receiver. Needed help should still be accepted, with thanks the giver can recognize. When declining a favour, decline in a way that does not look down on the gift or on the giver, because a clumsy refusal creates the very hatred it was meant to avoid.
+A favour sets up an expectation in the giver about what it was worth and what comes back, and those expectations differ between giver and receiver ([Ethics IV P70 proof, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Needed help should still be accepted, with thanks the giver can recognize ([Ethics IV P70 scholium, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). When declining a favour, decline in a way that does not look down on the gift or on the giver, because a clumsy refusal creates the very hatred it was meant to avoid ([Ethics IV P70 scholium, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
 **For example**
 Hypothetical illustration: you decline an expensive gift with thanks, without mocking its value to the giver.
