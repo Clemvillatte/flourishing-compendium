@@ -12,25 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 50** — Treat minority stress as a mechanism
 
-Meyer's review defines the framework in the main text:
-
-> "One elaboration of social stress theory may be referred to as minority stress to distinguish the excess stress to which individuals from stigmatized social categories are exposed as a result of their social, often a minority, position."
-
-And the model's abstract lists its processes:
+Meyer's review proposes minority stress as a framework for understanding mental-health disparities among lesbian, gay and bisexual people. The model's abstract lists its processes:
 
 > "The model describes stress processes, including the experience of prejudice events, expectations of rejection, hiding and concealing, internalized homophobia, and ameliorative coping processes."
 
-(Meyer, 2003, Psychological Bulletin 129(5), 674-697, [open author manuscript, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/).)
+([Meyer, 2003, Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/))
 
-The compendium keeps the model's own structure: the named stressors are the mechanism, and the model names coping processes alongside them rather than only harms.
+The model includes stress processes and coping processes; the compendium offers the following reflection as an adaptation.
 
-**Plain words** Where the stressors come from: events (prejudice), anticipation (expecting rejection), concealment (deciding what to hide), and internalized stigma. The model also names coping processes. Notice which of these is operating before deciding what would help.
+**Plain words** Describe a relevant situation. Separate any prejudiced event you experienced from a rejection you anticipated. Note decisions about disclosure and any coping response. Use those notes to identify questions you want to examine.
 
-*For example:* Imagined: at each new office someone calculates how much of themselves to disclose — the calculation itself, run repeatedly, is one of the processes the model names.
+*For example:* Imagined: a gay employee fears rejection at a new workplace and considers whether to mention his partner. He records that expectation separately from any prejudice he has actually encountered.
 
 ## Sources
 
-- [Meyer, "Prejudice, Social Stress, and Mental Health in Lesbian, Gay, and Bisexual Populations", Psychological Bulletin 129(5), 674-697 — open author manuscript, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/) — the minority-stress definition and the stress-processes sentence quoted; carrier disclosure: author manuscript deposited in PMC
+- [Meyer, "Prejudice, Social Stress, and Mental Health in Lesbian, Gay, and Bisexual Populations", Psychological Bulletin 129(5), 674-697 — open author manuscript, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/) — the stress-processes sentence quoted from the article's Abstract (publication range 674-697; carrier disclosure: author manuscript deposited in PMC)
 
 ## Psychology parallels
 
@@ -43,4 +39,4 @@ The compendium keeps the model's own structure: the named stressors are the mech
 
 ## Practice
 
-- Suggested practice: when minority stress may be relevant, consider the stress processes named in the model — prejudice events, expectations of rejection, concealment, internalized stigma — and the coping processes alongside them (see principle 75 for policy-level stressors).
+- Suggested practice: when minority stress may be relevant, consider the stress processes named in the model — prejudice events, expectations of rejection, concealment, internalized homophobia — and the coping processes alongside them (see principle 75 for policy-level stressors).
