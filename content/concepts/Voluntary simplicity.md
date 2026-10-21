@@ -11,7 +11,7 @@ Voluntary simplicity is the deliberate choice to live with less. Thoreau urges i
 
 > "Our life is frittered away by detail. An honest man has hardly need to count more than his ten fingers, or in extreme cases he may add his ten toes, and lump the rest. Simplicity, simplicity, simplicity! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb nail." (Thoreau, Walden, "Where I Lived, and What I Lived For", [Project Gutenberg #205](https://www.gutenberg.org/ebooks/205))
 
-The "Economy" chapter of the same book gives the measure of the choice: "a man is rich in proportion to the number of things which he can afford to let alone" ([Walden](https://www.gutenberg.org/ebooks/205)).
+The same chapter gives the measure of the choice: "a man is rich in proportion to the number of things which he can afford to let alone" ([Walden](https://www.gutenberg.org/ebooks/205)).
 
 ### In the compendium
 
