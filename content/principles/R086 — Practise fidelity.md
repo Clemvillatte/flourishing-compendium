@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 348** — Practise fidelity
 
-Be faithful to your commitments, to your relationships, and to your deepest self. Fidelity is Marcel's concept of the commitment that endures through time and through the temptation to abandon it. It is not mere persistence but the creative renewal of commitment.
+The Stanford Encyclopedia of Philosophy reads Marcel's fidelity as more than constancy. "The 'problem' posed by fidelity is that of constancy", but "fidelity—a belief in someone—requires presence in addition to constancy over time". "'Creative fidelity' consists in actively maintaining ourselves in a state of openness and permeability, in willing ourselves to remain open to the other", and "The truest fidelity is creative, that is, a fidelity that creates the self in order to meet the demands of fidelity" ([SEP, Gabriel Marcel](https://plato.stanford.edu/archives/win2025/entries/marcel/)).
 
 (Marcel, 1951a, Being and Having; Marcel, 1951b, The Mystery of Being.)
 
-**Plain words** Fidelity isn't just persisting — it's the creative renewal of commitment, again and again, through the temptation to drop it. The vow keeps the vow current; otherwise you're just a museum of an old decision. Renew it or it's not fidelity anymore, just habit.
+### Fidelity is to another person
 
-*For example:* The couple at year twenty who still book the anniversary trip, still ask the new questions — still married to the person each has become, not the person they were.
+The encyclopedia's notes add that fulfilling obligations out of duty is "mere 'constancy'" and, "lacking presence, cannot rise to the level of 'fidelity'". It also says that "fidelity always implies otherness" and that "it would seem improper to speak of fidelity to oneself in the sense that Marcel uses the term" ([SEP notes on Marcel](https://plato.stanford.edu/archives/fall2025/entries/marcel/notes.html)). The principle's phrase "to your deepest self" therefore goes beyond what is said here. Marcel's own texts (Being and Having; The Mystery of Being) were not opened.
+
+**Plain words**
+Keeping a promise is not enough. Fidelity means staying present to the person, and letting the commitment change you so that you can still meet them as they are now.
+
+**For example**
+For a relationship you've promised to keep, write down one thing you now do differently from five years ago because the other person changed. If you can't name one, ask them what they need that you haven't been giving.
+
+## Sources
+
+- [Stanford Encyclopedia of Philosophy, Gabriel (-Honoré) Marcel](https://plato.stanford.edu/archives/win2025/entries/marcel/)
+- [SEP, Notes to Gabriel Marcel](https://plato.stanford.edu/archives/fall2025/entries/marcel/notes.html)
+
 ## Psychology parallels
 
 - **[[Commitment|Commitment and relationship stability]]** (Rusbult et al., 2001)

@@ -55,3 +55,7 @@
 - Seed Plain words ("willing to be answerable ... received as care") is a gloss; Tronto's text frames responsiveness around vulnerability/abuse and loss of autonomy. Page says so.
 ## R074 — care for the dependent
 - Opened (search excerpts): SEP Feminist Ethics (win2015 archive) summarising Kittay 1999; IEP Care Ethics (quotes Kittay 1999 p. 113 principle). Kittay's own text and Tronto 2013 NOT opened — page says so. Seed "dependency is not deviation but norm" matches Kittay's argument; stated via SEP wording only. Suggest supervisor open Kittay ch. 3 on Taylor & Francis or a library copy.
+## R086 — fidelity
+- Opened (search excerpts): SEP Marcel entry (win2025) and its Notes (fall2025). Marcel's primary texts not opened (locator cites 1951a/b).
+- FLAG: principle blockquote says "faithful ... to your deepest self"; SEP notes: "fidelity always implies otherness. It would seem improper to speak of fidelity to oneself in the sense that Marcel uses the term." Page states this; supervisor may reword blockquote.
+- Seed "museum of an old decision" metaphor and couple anecdote removed.
