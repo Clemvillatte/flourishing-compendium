@@ -12,11 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 72** — Recognise self and depression: depression distorts self-view
 
-Depression produces a specific self-pattern: negative self-view, self-criticism, and feelings of worthlessness. This is a symptom, not a truth about the self. It is treatable.
+The American Psychiatric Association's public definition describes depression as a disorder that changes how a person feels, thinks and perceives:
 
-**Plain words** Depression lies about you, fluently, in your own voice: worthless, burdensome, always going to be this way. It's a symptom — the fever of the condition — not a truth you've finally been brave enough to face. When the depression lifts, the "truths" lift with it. Notice that.
+> "Depression (major depressive disorder) is a common and serious mental disorder that negatively affects how you feel, think, act, and perceive the world."
 
-*For example:* The person who "knows" she's a burden and has the evidence all organised to prove it gets effective treatment, and three months later can't reconstruct the argument. The evidence didn't change. The interpreter did.
+Its symptom list includes "Feeling worthless or excessively guilty."
+
+(APA, "What Is Depression?", [psychiatry.org](https://www.psychiatry.org/patients-families/depression/what-is-depression).)
+
+The compendium's reading: the negative self-view sits in the definition's territory — how you think and perceive — and in the symptom list it is filed alongside the sleep, energy and concentration changes, not apart from them as a verdict about the person.
+
+**Plain words** Notice the thought "worthless" arriving together with the other changes — sleep, energy, interest. That grouping is information: it is one of the symptoms, filed alongside the rest, not a conclusion about you reached by you.
+
+*For example:* Imagined: someone who "knows" she is a burden, with the evidence organised to prove it, receives effective treatment; three months later she cannot reconstruct the argument — the interpreter changed, not the evidence.
+
+## Sources
+
+- [APA, "What Is Depression?", psychiatry.org — opened page](https://www.psychiatry.org/patients-families/depression/what-is-depression) — the definition sentence and the "feeling worthless or excessively guilty" symptom quoted
+
 ## Psychology parallels
 
 - **Depression and negative self-view**, depression produces negative self-evaluation and worthlessness (APA, 2022; Beck, 1967)
