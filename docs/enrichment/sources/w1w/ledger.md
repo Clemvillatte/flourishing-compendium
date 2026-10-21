@@ -624,3 +624,16 @@
   idiosyncrasies reproduced verbatim.
 - Taper item. Related links confirmed existing. Normal validator: ok.
   State recorded (done count 45).
+
+## Item 48: Tacit knowledge research (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Polanyi, The Tacit Dimension (one line + two related links).
+  Seed line kept.
+- Carrier opened: The Tacit Dimension, chapter "Tacit Knowing"
+  (pp. 4-13) excerpt at tacit-knowledge-architecture.com. Verified
+  verbatim: the opening program sentence, the "not easy to say"
+  sentence, the face-recognition passage, and the identikit
+  "displays a knowledge that we cannot tell" sentence.
+- ST024 bare seed link moved to In the compendium. Related links
+  confirmed existing.
+- Taper item. Normal validator: ok. State recorded (done count 46).
