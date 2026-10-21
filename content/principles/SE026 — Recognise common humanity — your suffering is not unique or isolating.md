@@ -25,6 +25,11 @@ When reflecting on a failure, notice whether you are treating it as proof that s
 
 *For example:* Imagine a new mother convinced she is the only one failing at it, and the mothers' group where other members describe the same struggles.
 
+## Related concepts
+
+- [[Self-compassion]] — the construct this component belongs to (the scale paper's definition is quoted above)
+- [[Imperfection as human]] — the shared-condition reading of imperfection this principle supports
+
 ## Sources
 
 - Neff, 2003, Self and Identity 2(3):223-250 — [full text](https://self-compassion.org/wp-content/uploads/publications/empirical.article.pdf)
