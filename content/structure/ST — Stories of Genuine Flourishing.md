@@ -74,6 +74,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST378 — Wang Ni Says How Would I Know That Three Times]]
     - [[ST402 — The River Spirit Reaches the Sea]]
     - [[ST403 — Two Friends Sing Beside the Corpse of Sang Hu]]
+    - [[ST415 — The Blind Men and the Elephant]]
   - [[ST-S01.06 — I.6 Relationships, Speech, and Leadership]]
     - [[ST038 — Three Friends and the Creator]]
     - [[ST039 — The Ruler Whose People Say We Did It]]

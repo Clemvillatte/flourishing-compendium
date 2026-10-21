@@ -32,6 +32,7 @@ The monkeys' anger and pleasure turned on the order the acorns arrived in, not t
 ## Stories
 - [[ST370 — The Blind Men and the Elephant|370. The Blind Men and the Elephant]]
 - [[ST371 — A Banquet the Seabird Could Not Survive|371. A Banquet the Seabird Could Not Survive]]
+- [[ST415 — The Blind Men and the Elephant|415. The Blind Men and the Elephant]]
 ## Psychology parallels
 
 - **[[Dichotomous (black-and-white) thinking|Dichotomous (black-and-white) thinking]]**, predicts distress and interpersonal dysfunction
