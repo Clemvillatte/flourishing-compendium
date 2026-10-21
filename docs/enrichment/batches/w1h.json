@@ -66,7 +66,8 @@
   "Recognition",
   "Relapse prevention protocols",
   "Relational cultural theory Miller",
-  "Relational humility"
+  "Relational humility",
+  "Righteous indignation (nemesis)"
  ],
  "in_progress": null,
  "flagged": {
@@ -120,10 +121,11 @@
   "Nature connectedness": "Reopened for QC: milestone QC round 2: prose source link added",
   "Optimal experience": "Reopened for QC: milestone QC round 2: optimal-experience bridge sentence added",
   "PERMA model": "Reopened for QC: milestone QC round 2: Flourish title claim removed, prose link added",
-  "Relational cultural theory Miller": "fast-track enriched; title is garbled seed label (should be Relational-cultural theory) - rename needs supervisor; sources: Jordan 2024 APA sample pages (opened)"
+  "Relational cultural theory Miller": "fast-track enriched; title is garbled seed label (should be Relational-cultural theory) - rename needs supervisor; sources: Jordan 2024 APA sample pages (opened)",
+  "Righteous indignation (nemesis)": "seed cite NE IV.9 is wrong (IV.9 = shame); nemesis mean is NE II.7 (Ross, MIT Classics) + Rhetoric II.9; Aquinas II-II.158 is about anger, not nemesis; page states this"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:00:18+00:00",
+ "updated": "2026-10-21T08:01:18+00:00",
  "band_done": false
 }
