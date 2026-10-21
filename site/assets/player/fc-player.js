@@ -77,6 +77,10 @@
                              // solved (docs/ROADMAP.md, HANDOFF.md).
     setCrossfade: 4.0,       // seconds of crossfade when switching sets
     soloFade: 1.5,           // seconds of crossfade when soloing a layer
+    junctionFade: 0.012,     // seconds of equal-power crossfade at every
+                             // segment junction (see contentSpan note below)
+    trimSilence: true,       // schedule only each buffer's audible content
+                             // (strips AAC encoder priming/padding)
     normalizeLayers: true     // scale layer gains by 1/sqrt(N) to avoid clipping
   };
 
@@ -127,6 +131,54 @@
         : to + (from - to) * Math.cos(t * Math.PI / 2);     // from -> to
     }
     return arr;
+  }
+
+  // Audible content span of a decoded buffer. Encoders (raw ADTS AAC in
+  // particular) bake leading priming and trailing padding into files, and
+  // decodeAudioData returns them as near-silence; butt-joining such buffers
+  // puts a ~30-60 ms dip at every track boundary — an audible tick/gap that
+  // breaks focus on continuous material. The engine schedules only the
+  // content span, so joins land on real material. Memoized on the buffer.
+  function contentSpan(buf) {
+    if (buf._fcpSpan) return buf._fcpSpan;
+    var span = { offset: 0, duration: buf.duration };
+    try {
+      var sr = buf.sampleRate, len = buf.length, chans = buf.numberOfChannels;
+      var win = Math.max(1, Math.round(sr * 0.002)); // 2 ms analysis window
+      var cap = Math.min(Math.round(sr * 0.25), len >> 1); // trim cap: 250 ms
+      // body peak from the middle half of the buffer
+      var b0 = Math.floor(len * 0.25), b1 = Math.floor(len * 0.75), peak = 0, c, i;
+      for (c = 0; c < chans; c++) {
+        var bd = buf.getChannelData(c);
+        for (i = b0; i < b1; i++) { var v = Math.abs(bd[i]); if (v > peak) peak = v; }
+      }
+      var th = Math.max(peak * 0.005, 1e-4);
+      var winPeak = function (d, s) {
+        var p = 0;
+        for (var j = s; j < s + win && j < len; j++) { var w = Math.abs(d[j]); if (w > p) p = w; }
+        return p;
+      };
+      // leading silence: first window above threshold. If NO content is found
+      // within the cap, the silence is UNCERTAIN (could be an intentional
+      // quiet opening) — preserve that side rather than trim the whole cap.
+      var head = 0;
+      outer1: for (i = 0; i < cap; i += win) {
+        for (c = 0; c < chans; c++) if (winPeak(buf.getChannelData(c), i) > th) { head = i; break outer1; }
+      }
+      // trailing silence: last window above threshold, same uncertainty rule
+      var tail = 0;
+      outer2: for (i = len; i > len - cap; i -= win) {
+        for (c = 0; c < chans; c++) if (winPeak(buf.getChannelData(c), Math.max(0, i - win)) > th) { tail = len - i; break outer2; }
+      }
+      if (head + tail < len - win) span = { offset: head / sr, duration: (len - head - tail) / sr };
+      // safeguard: if most of the buffer reads as silence (or the body itself
+      // is below threshold — a fully silent/near-silent file), keep the full
+      // span — intentional quiet material (e.g. a silent layer segment)
+      // must not be shortened.
+      if (head + tail > len * 0.75 || peak <= th) span = { offset: 0, duration: buf.duration };
+    } catch (e) { /* analysis failed — keep the full span */ }
+    buf._fcpSpan = span;
+    return span;
   }
 
   // ---------- session (shared audio graph + multi-engine coordination) ----------
@@ -530,6 +582,8 @@
     this._nextLoopStart = null; // queued start of the next pass (set at wrap scheduling)
     this._schedLoopStart = 0;  // first track index of the pass the SCHEDULER is filling
     this._passOrigin = 0;      // ctx time when the current pass began (position is per-pass)
+    this._passOrigins = [];     // every scheduled pass origin, ascending — position() uses the latest at or before the clock
+    this._prevPassOrigin = null;
     this._pausedPos = 0;       // position within the pass, captured at pause
     this._pendingPassStart = false; // next scheduled segment begins a new pass
     this._pendingPassFade = 0.05;   // fade-in length for that pass-start segment
@@ -541,11 +595,17 @@
     this._everActivated = false;  // has ever been switched to / played (gain-ramp start point)
   }
 
+  Engine.prototype._spanOf = function (buf) {
+    if (!buf) return { offset: 0, duration: 0 };
+    if (this.opts.trimSilence === false) return { offset: 0, duration: buf.duration };
+    return contentSpan(buf);
+  };
+
   Engine.prototype.totalDuration = function () {
     var t = 0, n = this._segmentCount();
     for (var i = 0; i < n; i++) {
-      // decoded duration if known; otherwise estimate from segment 0 (or 60s)
-      t += this.buffers[i] ? this.buffers[i].duration : (this.buffers[0] ? this.buffers[0].duration : 60);
+      // decoded content duration if known; otherwise estimate from segment 0 (or 60s)
+      t += this.buffers[i] ? this._spanOf(this.buffers[i]).duration : (this.buffers[0] ? this._spanOf(this.buffers[0]).duration : 60);
     }
     return t;
   };
@@ -557,13 +617,15 @@
       return this._elapsedBefore(this.fallbackIndex) + (this.fallbackAudio.currentTime || 0);
     }
     if (!this.ctx || !this.buffers.length) return 0;
-    // position is per-pass: time since the current pass through the set began.
-    // the next pass is scheduled slightly ahead of the clock, so while the
-    // outgoing pass is still audible, position continues on the previous pass.
     if (this.state === 'playing') {
+      // position is per-pass: time since the current pass through the set began.
+      // Passes can be SCHEDULED ahead of the clock (lookahead 2.5 s; a short set
+      // wraps inside it), so use the latest scheduled origin at or before the
+      // clock — never a future one (which would read as a negative position).
       var now = this.ctx.currentTime;
-      if (now >= this._passOrigin) return now - this._passOrigin;
-      if (this._prevPassOrigin != null) return Math.min(now - this._prevPassOrigin, this.totalDuration());
+      for (var i = this._passOrigins.length - 1; i >= 0; i--) {
+        if (this._passOrigins[i] <= now) return Math.min(now - this._passOrigins[i], this.totalDuration());
+      }
       return 0;
     }
     return this._pausedPos || 0;
@@ -572,14 +634,14 @@
   Engine.prototype._elapsedBefore = function (i) {
     var t = 0;
     for (var k = 0; k < i; k++) {
-      t += this.buffers[k] ? this.buffers[k].duration : (this._fbDurations && this._fbDurations[k]) || 60;
+      t += this.buffers[k] ? this._spanOf(this.buffers[k]).duration : (this._fbDurations && this._fbDurations[k]) || 60;
     }
     return t;
   };
 
   // duration of a single segment (decoded, fallback-learned, or 60s estimate)
   Engine.prototype._segmentDuration = function (i) {
-    if (this.buffers[i]) return this.buffers[i].duration;
+    if (this.buffers[i]) return this._spanOf(this.buffers[i]).duration;
     if (this._fbDurations && this._fbDurations[i]) return this._fbDurations[i];
     return this.buffers[0] ? this.buffers[0].duration : 60;
   };
@@ -607,6 +669,7 @@
         self.ctx.decodeAudioData(buf, resolve, function (err) { reject(err); });
       });
     }).then(function (audioBuf) {
+      if (self.opts.trimSilence !== false) contentSpan(audioBuf); // memoize the span off the scheduling path
       self.buffers[i] = audioBuf;
       delete self._loading[i];
       if (self === self.session.activeEngine) self.ui.refreshTracks(); // durations become known as segments decode
@@ -670,7 +733,9 @@
       // decoded late), rebase before scheduling instead of stacking sources
       if (this.nextTime < this.ctx.currentTime - 0.05) {
         var newStart = this.ctx.currentTime + 0.06;
-        this._passOrigin += newStart - this.nextTime; // keep position continuous
+        var rebaseDelta = newStart - this.nextTime;
+        this._passOrigin += rebaseDelta; // keep position continuous
+        for (var ro = 0; ro < this._passOrigins.length; ro++) this._passOrigins[ro] += rebaseDelta;
         this.nextTime = newStart;
         this._frontIdx = idx;
         this.timelineStart = this.nextTime;
@@ -685,11 +750,18 @@
         this._schedLoopStart = idx;
         this._prevPassOrigin = this._passOrigin; // outgoing pass (may still be audible)
         this._passOrigin = when;
+        this._passOrigins.push(when);
+        // prune by time (keep recent past + queued future), not just count
+        var cut = this.ctx.currentTime - 60;
+        this._passOrigins = this._passOrigins.filter(function (t) { return t >= cut; });
         this._pendingPassStart = false;
       }
       var scheduled = this._scheduleSegment(idx, buf, when, 0, this._pendingPassFade, this._schedLoopStart);
       this._pendingPassFade = 0.05;
-      this.nextTime += buf.duration;
+      // advance by this source's timeline delta (its length minus the junction
+      // overlap its successor will start early by) so the next butt position
+      // equals this source's audible end
+      this.nextTime += (scheduled && scheduled._fcpAdvance) || this._spanOf(buf).duration;
       // wrap: after the pass-final segment (of the pass being scheduled),
       // the next pass starts at a new track. With rotatePasses, that track
       // is random (never the same start twice in a row); order within the
@@ -730,12 +802,35 @@
     src.buffer = buf;
 
     if (fadeIn == null) fadeIn = 0.05;
+    // a fade-in longer than the segment is meaningless and its ramp would
+    // overrun the junction tail curve (scheduling both on one param throws) —
+    // cap it at 85 % of the (content) length
+    if (fadeIn > 0.06) fadeIn = Math.min(fadeIn, dur * 0.85);
     var n = this._segmentCount();
     if (passLoopStart == null) passLoopStart = this._loopStart;
     // pass-final is judged against the pass this segment BELONGS to (the
     // queued plan's pass while scheduling ahead, not necessarily the audible one)
     var isPassFinal = idx === (passLoopStart + n - 1) % n;
-    var dur = buf.duration - offset;
+    var span = this._spanOf(buf);
+    var dur = span.duration - offset;
+
+    // ---- junction-aware fade ----
+    // When this segment butt-joins a still-sounding predecessor and no
+    // designed fade covers the junction, overlap the two by `junctionFade`
+    // seconds with complementary equal-power curves: the predecessor's tail
+    // fades out while this segment fades in over the same window. Any
+    // residual boundary step (encoder artifacts, non-continuous material)
+    // becomes inaudible instead of a click. Designed transitions (pass wrap
+    // fades, jump/resume fade-ins) keep their own curves and skip this.
+    var jf = 0;
+    var prev = this._jfPrev;
+    if (this.opts.junctionFade > 0 && offset === 0 && fadeIn <= 0.06 && dur > 0.2 &&
+        prev && prev.src && Math.abs(prev.end - when) < 0.001 &&
+        this.sources.indexOf(prev.src) >= 0) {
+      // ≤ 10 % of the shorter side: the overlap window must stay clear of any
+      // fade-in ramp on the predecessor (85 % cap above) on the same param
+      jf = Math.min(this.opts.junctionFade, dur / 10, prev.dur / 10);
+    }
 
     var g = this.ctx.createGain();
     if (fadeIn > 0.06) {
@@ -743,15 +838,48 @@
       g.gain.setValueAtTime(0.0001, when);
       g.gain.linearRampToValueAtTime(1, when + fadeIn);
     }
+    if (jf > 0) {
+      // equal-power crossfade across the junction overlap. The predecessor's
+      // curve goes on FIRST and the incoming curve is only committed after it
+      // succeeds — a throw mid-way rolls the predecessor back instead of
+      // leaving a half-applied crossfade.
+      var prevStart = when - jf;
+      try {
+        prev.gain.gain.setValueCurveAtTime(fadeCurve(1, 0.0001), prevStart, jf);
+      } catch (e1) { jf = 0; }
+      if (jf > 0) {
+        try {
+          g.gain.setValueCurveAtTime(fadeCurve(0.0001, 1), prevStart, jf);
+          when = prevStart;
+          prev.src._fcpTailJf = jf; // the successor starts jf before this source ends
+        } catch (e2) {
+          try {
+            prev.gain.gain.cancelScheduledValues(prevStart);
+            prev.gain.gain.setValueAtTime(1, prevStart);
+          } catch (e3) {}
+          jf = 0;
+        }
+      }
+    }
     if (isPassFinal) {
       // designed loop transition: fade the pass-final segment's tail out; the
-      // next pass fades back in over its own fade-in
-      g.gain.setValueAtTime(1, when + dur - this.opts.loopFadeOut);
-      g.gain.linearRampToValueAtTime(0.0001, when + dur - 0.05);
+      // next pass fades back in over its own fade-in. The fade is capped at
+      // 90% of the (content) duration so short segments can never push the
+      // fade start into the past or inside the junction curve, and the ramp
+      // end stays ordered after the fade start.
+      var fo = Math.min(this.opts.loopFadeOut, dur * 0.9);
+      var foAt = Math.max(when + jf + 0.001, when + dur - fo);
+      g.gain.setValueAtTime(1, foAt);
+      g.gain.linearRampToValueAtTime(0.0001, Math.max(foAt + 0.01, when + dur - 0.05));
     }
     src.connect(g); g.connect(this.gainNode || this.filter);
 
-    src.start(when, offset);
+    src._fcpSchedDur = dur; // scheduled (content) length, for position math
+    src._fcpFullDur = span.duration; // full content length (resume advance uses this)
+    src._fcpAdvance = dur - jf; // timeline delta the scheduler advances by
+    src._fcpWhen = when; // scheduled start (QA rendering)
+    src.start(when, span.offset + offset, dur);
+    this._jfPrev = { src: src, gain: g, end: when + dur, dur: dur };
     this.sources.push(src);
     src.onended = function () {
       var at = self.sources.indexOf(src);
@@ -767,7 +895,12 @@
           self._nextLoopStart = null;
         }
         self._frontIdx = next;
-        self.timelineStart += buf.duration;
+        // advance the timeline by this segment's FULL content length minus
+        // the junction overlap its successor started early by. The full
+        // length (not the scheduled remaining) matters for resumed sources:
+        // the resume path already subtracted the offset when it set
+        // timelineStart, so subtracting it here too would double-count it.
+        self.timelineStart += (this._fcpFullDur || buf.duration) - (this._fcpTailJf || 0);
       }
     };
     return src;
@@ -802,7 +935,8 @@
       // virtual start of the segment in the timeline, so position() stays exact
       this.timelineStart = resumeWhen - this.segOffset;
       this._passOrigin = resumeWhen - (this._pausedPos || 0);
-      this._prevPassOrigin = null; // the resumed pass is the only live pass
+      this._passOrigins = [this._passOrigin]; // the resumed pass is the only live pass
+      this._prevPassOrigin = null;
       // discard any stale scheduling flags from the pre-pause queued plan;
       // they are rebuilt below if the resumed segment is the pass-final
       this._pendingPassStart = false;
@@ -810,7 +944,7 @@
       this._schedLoopStart = this._loopStart; // the resumed segment belongs to the audible pass
       var resumed = this._scheduleSegment(idx, buf, resumeWhen, this.segOffset, this._resumeFade, this._loopStart);
       this._resumeFade = 0.05; // consumed; next resume is a normal one
-      this.nextTime = resumeWhen + (buf.duration - this.segOffset);
+      this.nextTime = resumeWhen + (this._spanOf(buf).duration - this.segOffset);
       // rebuild the queued plan from the AUDIBLE state: the successor of the
       // resumed segment is idx+1, unless the resumed segment is the pass-final,
       // in which case the queued next pass (or a fresh pick) begins
@@ -934,7 +1068,7 @@
     var fi = this._frontIdx;
     var buf = this.buffers[fi];
     if (!buf) return null;
-    var off = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), buf.duration);
+    var off = Math.min(Math.max(this.ctx.currentTime - this.timelineStart, 0), this._spanOf(buf).duration);
     this._pendingResume = { idx: fi, offset: off, pos: pos };
     return this._pendingResume;
   };
@@ -988,6 +1122,7 @@
     this._pausedPos = 0;
     this._pendingPassStart = false;
     this._prevPassOrigin = null;
+    this._passOrigins = [];
     this._nextLoopStart = null;
     this._schedLoopStart = 0;
     this._resumeFade = 0.05;
@@ -997,6 +1132,7 @@
 
   Engine.prototype._stopSources = function () {
     if (this.rafId) cancelAnimationFrame(this.rafId);
+    this._jfPrev = null; // no predecessor sounds after a stop — junction fades reset
     for (var i = 0; i < this.sources.length; i++) {
       try { this.sources[i].stop(); } catch (e) {}
     }

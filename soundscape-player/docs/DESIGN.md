@@ -39,9 +39,28 @@ from it:
   order within the pass preserved). **QUARANTINED — off by default and not
   enabled in any example.** For a continuous recording the last→first
   junction is the loop endpoint; rotating passes moves that un-faded hard
-  cut INSIDE a pass. Enabling it safely requires junction-aware fades or
-  cyclically seamless source material. The mechanism itself is spec-verified
-  (deterministic rotation check in `tests/spec.mjs`).
+  cut INSIDE a pass. The junction-aware fades below now cover every regular
+  junction, which was the prerequisite for safely lifting the quarantine —
+  but it stays off until the user opts in. The mechanism itself is
+  spec-verified (deterministic rotation check in `tests/spec.mjs`).
+- **Junction-aware fades (the anti-tick fix).** Raw ADTS AAC files decode
+  with encoder priming at the head and padding at the tail (measured ~30 ms
+  each on the user's sets); butt-joining such buffers puts a ~60 ms
+  near-silence dip at every track boundary — the audible tick that broke
+  focus. Two engine mechanisms fix it, both on by default:
+  - **Content trim (`trimSilence: true`).** At decode time each buffer is
+    scanned once (2 ms windows, threshold 0.5 % of body peak, 250 ms cap per
+    side) and only its audible span is scheduled — joins land on real
+    material, positions and durations use content spans.
+  - **Junction crossfade (`junctionFade: 0.012`).** Every regular junction
+    overlaps the outgoing tail with the incoming head by 12 ms with
+    complementary equal-power curves, so any residual boundary step is
+    inaudible. Designed transitions (the pass wrap's 3 s fade-out + 1.2 s
+    fade-in, jump/resume fade-ins) keep their own curves and skip the
+    junction fade. The scheduler advances by (duration − overlap), so the
+    next join is always butt-aligned with the audible end.
+  - The `<audio>` fallback path cannot crossfade (no per-segment gain
+    stage) — documented degradation.
 - **Layering is a scheduling concern, not synthesis.** This player plays
   files; it does not synthesize audio or generate music. But it CAN schedule
   multiple layers of the user's own material on independent timelines so
@@ -78,9 +97,12 @@ from it:
   `play()` and `dispose()` invalidate. A pending decode can never revive a
   stopped or disposed engine, and repeated clicks during a decode produce
   exactly one playback chain.
-- **Designed transitions.** The final segment of a pass fades out over ~3 s;
-  the next pass fades back in over ~1.2 s. Track jumps use a ~0.8 s fade-in;
-  random picks are jumps. Pause/resume is seamless.
+- **Designed transitions.** The final segment of a pass fades out over ~3 s
+  (capped at 90 % of the segment's content duration, so short segments can
+  never schedule the fade into the past); the next pass fades back in over
+  ~1.2 s. Track jumps use a ~0.8 s fade-in; random picks are jumps.
+  Pause/resume is seamless. Regular junctions use the 12 ms equal-power
+  crossfade above.
 - **Timer envelope.** The session timer fades out on a **dedicated gain
   stage** (`timerGain`), separate from user volume and the circadian trim.
   Changing or cancelling the timer clears the pending fade and restores the
@@ -207,8 +229,14 @@ Rules that hold in every mode:
 
 - Zero console/page errors during normal use.
 - Gapless joins when segments decode in time; rebase (never overlap) on underrun.
+  Regular junctions overlap by exactly `junctionFade` (12 ms, equal-power)
+  over trimmed content — no silence dip, no click; the pass wrap keeps its
+  designed fade (butt join, no junction fade). Sources never overlap by
+  more than the designed junction window.
 - Pause/resume preserves exact position (including across segment
-  boundaries); stop resets to idle.
+  boundaries); stop resets to idle. Per-pass position reads from the latest
+  pass origin at or before the audio clock — never negative, even when a
+  short pass is scheduled ahead of the clock.
 - Loop wraps are infinite. With `rotatePasses` enabled: the pass-final segment
   fades out, the next pass starts at a rotated track with a fade-in, the
   track-list highlight and the pause capture follow the rotation, and no two

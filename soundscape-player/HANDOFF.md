@@ -3,7 +3,7 @@
 Read this together with `AGENTS.md`, `docs/DESIGN.md`, and `docs/ROADMAP.md`.
 Everything needed to continue is in this repository; nothing else is required.
 
-## Current state (all verified by `tests/spec.mjs`, 99 checks green)
+## Current state (all verified by `tests/spec.mjs`, 123 checks green)
 
 - Segment engine complete: gapless ordered playback, infinite loop with
   designed wrap fade, pause/resume with exact position (across segment
@@ -36,15 +36,62 @@ Everything needed to continue is in this repository; nothing else is required.
   the user's premixed recordings; it does NOT synthesize or mix stems in
   the sense of generating music — "layered" means independent timelines of
   supplied material.
-- `rotatePasses` is still QUARANTINED — off by default, not enabled in any
-  example, and the docs (AGENTS.md / DESIGN.md / code comments) now say so
-  plainly. Mechanically correct (deterministic spec check), but for a
-  continuous recording the last→first junction is the loop endpoint and
-  rotation moves that un-faded hard cut inside a pass. Un-quarantining it
-  requires junction-aware fades (ROADMAP Phase 2, last open item).
+- JUNCTION-AWARE FADES ARE DONE — the tick between tracks is fixed. The
+  user reported an abrupt "tick" at every track boundary that broke focus.
+  Diagnosis (measured in a real browser, `tests/join-diag.mjs`): the raw
+  ADTS AAC files decode with ~30 ms of encoder priming at the head and
+  ~30 ms of padding at the tail, so every butt join dipped to near-silence
+  for ~60 ms. Fix, both ON by default (`trimSilence: true`,
+  `junctionFade: 0.012`):
+  - content trim: each buffer is scanned once at decode (2 ms windows,
+    threshold max(0.5 % of body peak, 1e-4), 250 ms cap per side) and only
+    its audible span is scheduled — positions, durations and the track list
+    all use content spans now;
+  - junction crossfade: every regular junction overlaps by 12 ms with
+    complementary equal-power curves; the scheduler advances by
+    (content duration − overlap) so joins stay butt-aligned; designed
+    transitions (pass wrap, jump/resume fade-ins) keep their own curves;
+  - the pass-final fade-out is now capped at 90 % of the content duration
+    (a latent negative-time bug on segments shorter than loopFadeOut);
+  - per-pass position now reads the latest scheduled pass origin at or
+    before the clock (a latent negative-position bug when a pass is
+    shorter than the 2.5 s lookahead).
+  Spec sections 15-16 lock it all (tests/qa-junction.html + fixtures/jf_*.wav,
+  two phase-continuous tones with baked silence; #real=1 mounts the real
+  the-dark-night wrap junction, segments 21 → 0). Beyond metadata checks
+  (trim offsets, exact 12 ms overlap, wrap exclusion, join continuity, resume
+  exactness), section 16 rewires an engine onto an OfflineAudioContext and
+  RENDERS through the ACTUAL _scheduleSegment code, measuring the output:
+  no silence dip, no click, no cancellation bump — on the fixture pair, on
+  the real 21→0 junction, and a NEGATIVE CONTROL (junctionFade 0 +
+  trimSilence false — the old behaviour) must still show the dip, proving
+  the acceptance test has teeth. The REAL set
+  was measured too: the-dark-night segments carry ~62 ms of priming+padding
+  TOTAL per segment (~30 ms per side), content edges on real audio. Segment
+  0000 additionally opens with ~300 ms of true silence: the trim is
+  CONSERVATIVE — when no content is found within the 250 ms scan cap, that
+  side is preserved (uncertain trim: codec padding vs intentional quiet
+  cannot be told apart, so quiet openings/silent layer segments keep their
+  full length). Note: the layered-pass period is now
+  sum(content) − (N−1)·junctionFade per pass (spec computes it that way). The
+  `<audio>` fallback still butt-joins (no per-segment gain stage) —
+  documented degradation. Review hardening from the verification pass:
+  sources are started with an explicit duration (the trimmed tail can
+  never sound), the junction-fade gain application is transactional
+  (a throw rolls the predecessor back — no half-applied crossfade), the
+  resume timeline advance uses the FULL content length (a resumed source
+  must not double-subtract its offset), the underrun rebase shifts the
+  pass-origin ring too, and the trim scanner refuses to trim when most of
+  a buffer reads as silence (can't tell priming from intentional quiet —
+  e.g. a silent layer segment keeps its full length).
+- `rotatePasses` — the engine prerequisite is delivered (every regular
+  junction is trimmed + crossfaded, and the real 21→0 rotation junction is
+  render-verified click/dip-free), but rotation is still OFF by default
+  pending the user's opt-in AND an ear check on the live site. Do not claim
+  it is "safe" from measurements alone.
 - Dev tooling: `package.json` pins playwright 1.59.0 + serve 14.2.3;
   `npm install && npx serve . -l 8791 & node tests/spec.mjs` from
-  `soundscape-player/` runs the full suite (spec sections 1-11). QA pages
+  `soundscape-player/` runs the full suite (spec sections 1-15). QA pages
   declare an inline favicon (`data:,`) so favicon 404s cannot pollute the
   console-error check.
 - Lifecycle hardening (second commit): stop() cancels the session timer
@@ -70,7 +117,8 @@ Everything needed to continue is in this repository; nothing else is required.
 
 ## Known limitations / next steps
 
-- `rotatePasses` quarantine (above) — needs junction-aware fades.
+- `rotatePasses` quarantine (above) — prerequisite now met; awaiting the
+  user's opt-in. The default ordered loop is safe for every set.
 - Continuous shuffle; "begin at random track" option (ROADMAP Phase 2).
 - Keyboard shortcuts, localStorage state, MediaSession position (Phase 3).
 - Offline caching, LRU buffer cache for very long sets (Phase 4). Decoded

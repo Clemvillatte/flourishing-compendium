@@ -57,8 +57,15 @@ Delivered in the initial implementation:
 - Acceptance (met, spec-verified): switching sets mid-playback crossfades;
       state (timer, volume, circadian) survives a switch; no orphaned sources
       — including rapid switches and stop during a fade.
-- [ ] Junction-aware fades — the prerequisite for safely un-quarantining
-      `rotatePasses` (see HANDOFF.md).
+- [x] Junction-aware fades — DONE: the prerequisite for safely un-quarantining
+      `rotatePasses`. Raw ADTS AAC decodes with ~30 ms of encoder priming
+      (head) and padding (tail); butt joins put a ~60 ms silence dip at every
+      track boundary — the audible tick that broke focus. Fix (both default):
+      `trimSilence` schedules only each buffer's scanned audible span, and
+      `junctionFade` (12 ms, equal-power) overlaps every regular junction;
+      designed transitions keep their own curves. Spec section 15 locks it
+      (trim offsets/lengths, exact overlap, wrap exclusion, join continuity,
+      resume exactness). `rotatePasses` stays off pending the user's opt-in.
 
 ## Phase 3 — Comfort and integration
 

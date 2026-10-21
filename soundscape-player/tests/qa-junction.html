@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="data:,">
+  <title>FCPlayer junction QA fixture</title>
+  <link rel="stylesheet" href="../assets/player/fc-player.css">
+  <style>
+    :root, [data-theme='dark'] {
+      --bg:#16150e; --panel:#1d1c13; --panel2:#232218; --text:#e8e3d1; --muted:#a49e89;
+      --line:#2c2b1d; --gold:#d3ad4e; --shadow-lg:0 12px 48px rgba(0,0,0,.55);
+      --font-display:'Fraunces', Georgia, serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: Georgia, serif; margin: 0; padding: 60px 24px; }
+    h1 { font-family: var(--font-display); font-size: 24px; }
+  </style>
+</head>
+<body>
+  <h1>FCPlayer junction QA</h1>
+  <script src="../assets/player/fc-player.js"></script>
+  <script>
+    // Two phase-continuous 440 Hz tones (fixtures/jf_*.wav), each with 40 ms
+    // of baked leading silence and 30 ms of trailing silence — mimicking raw
+    // ADTS AAC encoder priming/padding. A correct engine trims the silence
+    // and crossfades the junction; a naive butt join puts a 70 ms dip (an
+    // audible tick) between the two tones.
+    // With #real=1, the same page mounts the REAL wrap junction of
+    // the-dark-night (segment 21 → segment 0), so the spec can render and
+    // measure the rotation-critical join through the actual engine.
+    var real = /[#&]real=1/.test(location.hash);
+    window.__inst = FCPlayer.mount({
+      title: 'Junction QA',
+      subtitle: '2 × 0.5s tones · padded',
+      segments: real
+        ? ['../assets/audio/the-dark-night/segment_0021.aac', '../assets/audio/the-dark-night/segment_0000.aac']
+        : ['fixtures/jf_0.wav', 'fixtures/jf_1.wav']
+    });
+  </script>
+</body>
+</html>

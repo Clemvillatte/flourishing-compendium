@@ -47,7 +47,7 @@ async function newPage(browser, { recordStarts = false, decodeStub = null, url =
           if (idx >= 0) { set = i; break; }
         }
         if (set < 0) idx = window.__inst.engine.buffers.indexOf(this.buffer);
-        window.__starts.push({ when: when || 0, dur: this.buffer ? this.buffer.duration : 0, idx: idx, set: set });
+        window.__starts.push({ when: when || 0, dur: this._fcpSchedDur || (this.buffer ? this.buffer.duration : 0), offset: offset || 0, idx: idx, set: set });
         return os.apply(this, arguments);
       };
     });
@@ -86,10 +86,12 @@ async function main() {
     check(t.loopStart === 0 && t.frontIdx === 0 && t.highlight === 0, `after ordered wrap: loopStart=${t.loopStart} frontIdx=${t.frontIdx} highlight=${t.highlight} (all 0)`);
     check(t.pos < 4, `position is per-pass after wrap (${t.pos}s of ~15.2)`);
     check((await playing(page)), 'still playing after ordered wrap');
-    // no overlap between any two consecutive sources
+    // no overlap between any two consecutive sources, beyond the designed
+    // junction crossfade (junctionFade seconds, equal-power overlap)
     const overlaps = await page.evaluate(() => {
       var s = window.__starts, o = 0;
-      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - 0.005) o++;
+      var jf = (window.__inst.session.engines[0] && window.__inst.session.engines[0].opts.junctionFade) || 0;
+      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - jf - 0.005) o++;
       return o;
     });
     check(overlaps === 0, `no overlapping sources (${overlaps})`);
@@ -109,7 +111,7 @@ async function main() {
       var os = AudioBufferSourceNode.prototype.start;
       AudioBufferSourceNode.prototype.start = function (when, offset) {
         var idx = window.__inst.engine.buffers.indexOf(this.buffer);
-        window.__starts.push({ when: when || 0, dur: this.buffer ? this.buffer.duration : 0, idx: idx });
+        window.__starts.push({ when: when || 0, dur: this._fcpSchedDur || (this.buffer ? this.buffer.duration : 0), idx: idx });
         return os.apply(this, arguments);
       };
     });
@@ -134,7 +136,8 @@ async function main() {
       `rotation consistent: idx3=${t.order[3]} loopStart=${t.loopStart} frontIdx=${t.frontIdx} highlight=${t.highlight}`);
     const overlaps = await page.evaluate(() => {
       var s = window.__starts, o = 0;
-      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - 0.005) o++;
+      var jf = (window.__inst.session.engines[0] && window.__inst.session.engines[0].opts.junctionFade) || 0;
+      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - jf - 0.005) o++;
       return o;
     });
     check(overlaps === 0, `no overlapping sources (rotating) (${overlaps})`);
@@ -159,7 +162,7 @@ async function main() {
       var os = AudioBufferSourceNode.prototype.start;
       AudioBufferSourceNode.prototype.start = function (when, offset) {
         var idx = window.__inst.engine.buffers.indexOf(this.buffer);
-        window.__starts.push({ when: when || 0, dur: this.buffer ? this.buffer.duration : 0, idx: idx });
+        window.__starts.push({ when: when || 0, dur: this._fcpSchedDur || (this.buffer ? this.buffer.duration : 0), idx: idx });
         return os.apply(this, arguments);
       };
     });
@@ -181,7 +184,8 @@ async function main() {
     check(t.order[6] === 1 && t.loopStart === 1 && t.frontIdx === 1, `pass 3 starts at the forced k=1 and the front tracks it (order[6]=${t.order[6]} loopStart=${t.loopStart} frontIdx=${t.frontIdx})`);
     const overlaps = await page.evaluate(() => {
       var s = window.__starts, o = 0;
-      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - 0.005) o++;
+      var jf = (window.__inst.session.engines[0] && window.__inst.session.engines[0].opts.junctionFade) || 0;
+      for (var i = 1; i < s.length; i++) if (s[i].when < s[i - 1].when + s[i - 1].dur - jf - 0.005) o++;
       return o;
     });
     check(overlaps === 0, `no overlapping sources (forced rotation) (${overlaps})`);
@@ -449,7 +453,7 @@ async function main() {
           idx = ses[i].buffers.indexOf(this.buffer);
           if (idx >= 0) { tag = i; break; }
         }
-        window.__starts.push({ when: when || 0, dur: this.buffer ? this.buffer.duration : 0, layer: tag, idx: idx });
+        window.__starts.push({ when: when || 0, dur: this._fcpSchedDur || (this.buffer ? this.buffer.duration : 0), layer: tag, idx: idx });
         return os.apply(this, arguments);
       };
     });
@@ -463,7 +467,7 @@ async function main() {
     }, null, { timeout: 45000 });
     const t = await page.evaluate(() => {
       var s = window.__starts, e = window.__inst.session.engines;
-      var pass = e.map((x) => x.buffers.reduce((a, b) => a + b.duration, 0));
+      var pass = e.map((x) => x.buffers.reduce((a, b) => a + x._spanOf(b).duration, 0) - (x.buffers.length - 1) * x.opts.junctionFade); // scheduled period: content minus internal overlaps
       function gcd(a, b) { while (b) { var t2 = a % b; a = b; b = t2; } return a; }
       var sa = Math.round(pass[0] * 44100), sb = Math.round(pass[1] * 44100);
       var lcm = sa * sb / gcd(sa, sb) / 44100;
@@ -492,7 +496,8 @@ async function main() {
       s.forEach((x) => { (byLayer[x.layer] = byLayer[x.layer] || []).push(x); });
       Object.keys(byLayer).forEach((k) => {
         var g = byLayer[k];
-        for (var i = 1; i < g.length; i++) if (g[i].when < g[i - 1].when + g[i - 1].dur - 0.005) o++;
+        var jf = (window.__inst.session.engines[0] && window.__inst.session.engines[0].opts.junctionFade) || 0;
+        for (var i = 1; i < g.length; i++) if (g[i].when < g[i - 1].when + g[i - 1].dur - jf - 0.005) o++;
       });
       return o;
     });
@@ -751,6 +756,184 @@ async function main() {
     check(panel.before === '88px' && panel.after === '128px', `--fcp-fab-offset lifts the panel (${panel.before} -> ${panel.after})`);
     check(errors.length === 0, `no page errors (fab offset) ${errors.join('|')}`);
     await page.context().close();
+  }
+
+  /* ---- 15. junction-aware fades: content trim + junction crossfade ---- */
+  {
+    // fixtures/jf_*.wav are phase-continuous 440 Hz tones with 40 ms of leading
+    // and 30 ms of trailing silence baked in — mimicking raw ADTS AAC encoder
+    // priming/padding, the cause of the audible tick/dip between tracks. The
+    // engine must schedule only each buffer's content span and crossfade every
+    // regular junction by junctionFade (0.012 s, equal-power). Designed
+    // transitions (pass wrap) keep their own curves.
+    const { page, errors } = await newPage(browser, { recordStarts: true, url: `${BASE}/tests/qa-junction.html` });
+    await page.click('.fcp-btn');
+    await page.click('.fcp-play');
+    await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+    await page.waitForFunction(() => window.__starts.length >= 3, null, { timeout: 15000 });
+    const t = await page.evaluate(() => {
+      var s = window.__starts, e = window.__inst.engine;
+      return {
+        offsets: s.map((x) => +x.offset.toFixed(3)),
+        durs: s.map((x) => +x.dur.toFixed(3)),
+        overlap01: +(s[0].when + s[0].dur - s[1].when).toFixed(4),
+        wrapGap: +(s[1].when + s[1].dur - s[2].when).toFixed(4),
+        segDur: e._segmentDuration(0),
+        join: (function () { // continuity of the trimmed content at the join
+          var a = e.buffers[0].getChannelData(0), b = e.buffers[1].getChannelData(0);
+          var sa = e._spanOf(e.buffers[0]), sb = e._spanOf(e.buffers[1]);
+          var ea = a[Math.round((sa.offset + sa.duration) * e.buffers[0].sampleRate) - 1];
+          var fb = b[Math.round(sb.offset * e.buffers[1].sampleRate)];
+          return Math.abs(ea - fb);
+        })(),
+      };
+    });
+    check(t.offsets.every((o) => Math.abs(o - 0.04) < 0.003), `baked leading silence is trimmed from every scheduled source (${t.offsets})`);
+    check(t.durs.every((d) => Math.abs(d - 0.5) < 0.003), `scheduled length is the content span, not the raw file (${t.durs})`);
+    check(Math.abs(t.overlap01 - 0.012) < 0.003, `regular junction crossfades by junctionFade (${t.overlap01}s overlap)`);
+    check(Math.abs(t.wrapGap) < 0.003, `the pass wrap keeps its designed transition, no junction fade (${t.wrapGap}s gap)`);
+    check(Math.abs(t.segDur - 0.5) < 0.003, `track duration shows the trimmed content (${t.segDur.toFixed(3)}s of 0.57s raw)`);
+    check(t.join < 0.02, `trimmed join is continuous (boundary step ${t.join.toFixed(4)})`);
+    // pause/resume exactness across the crossfaded junction
+    await page.waitForFunction(() => window.__inst.engine._frontIdx === 1, null, { timeout: 15000 });
+    await page.evaluate(() => window.__inst.engine.pause());
+    const p1 = await page.evaluate(() => +window.__inst.engine.position().toFixed(3));
+    await page.waitForTimeout(300);
+    await page.evaluate(() => window.__inst.engine.play());
+    await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+    await page.waitForTimeout(500);
+    await page.evaluate(() => window.__inst.engine.pause());
+    const p2 = await page.evaluate(() => +window.__inst.engine.position().toFixed(3));
+    check(Math.abs((p2 - p1) - 0.44) < 0.12, `resume across a junction stays exact (${p1}s -> ${p2}s, ~0.44 expected after the ~60 ms play() startup)`);
+    check(errors.length === 0, `no page errors (junction fades) ${errors.join('|')}`);
+    await page.context().close();
+  }
+
+  /* ---- 16. junction-aware fades: rendered output + resume cursor ---- */
+  {
+    // (a) Resume cursor regression: pause WELL INSIDE a track, resume THROUGH
+    // the next boundary, then pause again — the captured segment/offset must
+    // match the expected audio position (the resume path must not subtract
+    // the resume offset twice in the timeline advance).
+    {
+      const { page, errors } = await newPage(browser, { recordStarts: true, url: `${BASE}/tests/qa-junction.html` });
+      await page.click('.fcp-btn');
+      await page.click('.fcp-play');
+      await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+      // wait until we are ~0.2 s into track 0 (well inside, not at a boundary)
+      await page.waitForFunction(() => window.__inst.engine._frontIdx === 0 && window.__inst.engine.position() > 0.2, null, { timeout: 15000 });
+      await page.evaluate(() => window.__inst.engine.pause());
+      const snap1 = await page.evaluate(() => ({ idx: window.__inst.engine.segIndex, off: +window.__inst.engine.segOffset.toFixed(3) }));
+      check(snap1.idx === 0 && Math.abs(snap1.off - 0.2) < 0.08, `pause well inside track 0 captures idx/off ({idx:${snap1.idx} off:${snap1.off}})`);
+      // resume and run 0.6 s — crosses the 0→1 junction (0.3 s remaining) plus 0.3 s into track 1
+      await page.evaluate(() => window.__inst.engine.play());
+      await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+      await page.waitForTimeout(700);
+      await page.evaluate(() => window.__inst.engine.pause());
+      const snap2 = await page.evaluate(() => ({ idx: window.__inst.engine.segIndex, off: +window.__inst.engine.segOffset.toFixed(3) }));
+      check(snap2.idx === 1 && Math.abs(snap2.off - 0.31) < 0.1, `after resuming through the junction the cursor is inside track 1 ({idx:${snap2.idx} off:${snap2.off}}, expected ~0.31)`);
+      // resume again for 0.2 s — position must advance by ~0.2 (no double-subtracted offset)
+      const pa = await page.evaluate(() => +window.__inst.engine.position().toFixed(3));
+      await page.evaluate(() => window.__inst.engine.play());
+      await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+      await page.waitForTimeout(250);
+      await page.evaluate(() => window.__inst.engine.pause());
+      const pb = await page.evaluate(() => +window.__inst.engine.position().toFixed(3));
+      const passed = ((pb - pa) % 1 + 1) % 1; // the 1 s pass may wrap
+      check(Math.abs(passed - 0.25) < 0.12, `second resume advances correctly (${pa}s -> ${pb}s, ${passed.toFixed(2)}s passed)`);
+      check(errors.length === 0, `no page errors (resume cursor) ${errors.join('|')}`);
+      await page.context().close();
+    }
+
+    // (b) Rendered output THROUGH THE ACTUAL ENGINE: rewire an engine onto
+    // an OfflineAudioContext and schedule with its real `_scheduleSegment`
+    // (real span logic, real duration arg, real curves, real wrap fades),
+    // then measure the rendered RESULT: no silence gap at a regular join, no
+    // click anywhere, no cancellation bump. A negative control (junctionFade
+    // 0 + trimSilence false — the OLD behaviour) must FAIL the no-dip check,
+    // proving the acceptance test has teeth. Run on the synthetic fixture
+    // pair AND on the real the-dark-night wrap junction (21 → 0).
+    const engineRender = (page, opts) => page.evaluate(async (o) => {
+      const e = window.__inst.engine;
+      e.ensureContext();
+      const bufs = await Promise.all([e.loadBuffer(0), e.loadBuffer(1)]);
+      if (o) Object.assign(e.opts, o);
+      const sr = bufs[0].sampleRate;
+      const spanSum = e._spanOf(bufs[0]).duration + e._spanOf(bufs[1]).duration;
+      const off = new OfflineAudioContext(1, Math.ceil((0.05 + spanSum + 0.6) * sr), sr);
+      // rewire the engine onto the offline context (its real scheduling code
+      // then runs against it: spans, duration arg, curves, wrap fades)
+      const old = { ctx: e.ctx, gainNode: e.gainNode, sources: e.sources, prev: e._jfPrev };
+      e.ctx = off;
+      e.gainNode = off.createGain(); e.gainNode.connect(off.destination);
+      e.sources = []; e._jfPrev = null;
+      const t0 = 0.05;
+      // pass: seg0 (pass start, designed fade-in), seg1 (pass-final), then
+      // the wrap back to seg0 (pass start) — the designed loop transition
+      let nt = t0;
+      const s0 = e._scheduleSegment(0, bufs[0], nt, 0, 1.2, 0); nt += s0._fcpAdvance;
+      const s1 = e._scheduleSegment(1, bufs[1], nt, 0, 0.05, 0); nt += s1._fcpAdvance;
+      const s2 = e._scheduleSegment(0, bufs[0], nt, 0, 1.2, 0);
+      const regularAt = s1._fcpWhen;   // regular junction (0 → 1)
+      const wrapAt = s2._fcpWhen;     // designed wrap (1 → 0)
+      const rendered = await off.startRendering();
+      // restore
+      Object.assign(e, { ctx: old.ctx, gainNode: old.gainNode, sources: old.sources, _jfPrev: old.prev });
+      const d = rendered.getChannelData(0);
+      const region = (from, to) => {
+        const j0 = Math.max(0, Math.floor(from * sr)), j1 = Math.min(d.length - 1, Math.floor(to * sr));
+        const win = Math.round(sr * 0.01);
+        const rms = [];
+        for (let s = j0; s + win <= j1; s += win) {
+          let r = 0; for (let i = s; i < s + win; i++) r += d[i] * d[i];
+          rms.push(Math.sqrt(r / win));
+        }
+        rms.sort((x, y) => x - y);
+        let maxDelta = 0, peak = 0;
+        for (let i = Math.max(1, j0); i <= j1; i++) {
+          maxDelta = Math.max(maxDelta, Math.abs(d[i] - d[i - 1]));
+          peak = Math.max(peak, Math.abs(d[i]));
+        }
+        return { med: rms[Math.floor(rms.length / 2)] || 0, min: rms[0] || 0, maxDelta, peak };
+      };
+      return {
+        regular: region(regularAt - 0.1, regularAt + 0.1), // tight: a wider window would catch the designed pass-start fade-in
+        preJoin: region(regularAt - 0.3, regularAt - 0.005), // predecessor tail side only
+        wrap: region(wrapAt - 0.3, wrapAt + 0.3),
+        spans: [e._spanOf(bufs[0]), e._spanOf(bufs[1])],
+        raws: [bufs[0].duration, bufs[1].duration],
+        jf: e.opts.junctionFade,
+      };
+    }, opts || null);
+    // (the engine records the scheduled start on the source for the test)
+    {
+      const { page, errors } = await newPage(browser, { url: `${BASE}/tests/qa-junction.html` });
+      const r = await engineRender(page);
+      check(r.regular.min > 0.5 * r.regular.med, `engine-rendered regular join has no level dip (min ${r.regular.min.toFixed(3)} vs median ${r.regular.med.toFixed(3)})`);
+      check(r.regular.maxDelta < 0.05, `engine-rendered regular join has no click (max delta ${r.regular.maxDelta.toFixed(4)})`);
+      check(r.regular.peak < 0.9 && r.regular.peak > 0.3, `engine-rendered join level is sane (peak ${r.regular.peak.toFixed(3)})`);
+      check(r.wrap.maxDelta < 0.05, `engine-rendered wrap junction has no click (max delta ${r.wrap.maxDelta.toFixed(4)}, natural tone delta is ~0.031)`);
+      // negative control: the OLD behaviour (no trim, no junction fade) must
+      // produce the dip the fix exists to remove
+      const n = await engineRender(page, { junctionFade: 0, trimSilence: false });
+      check(n.regular.min < 0.3 * n.regular.med, `negative control (old behaviour) DOES show the silence dip (min ${n.regular.min.toFixed(4)} vs median ${n.regular.med.toFixed(3)})`);
+      check(errors.length === 0, `no page errors (engine render) ${errors.join('|')}`);
+      await page.context().close();
+    }
+    {
+      const { page, errors } = await newPage(browser, { url: `${BASE}/tests/qa-junction.html#real=1` });
+      const r = await engineRender(page);
+      // seg0 of the real set opens with ~300 ms of NATURAL silence (uncertain
+      // trim — preserved by design), so the no-dip check uses the
+      // predecessor's tail side; the join itself must be click-free and level-sane.
+      check(r.preJoin.min > 0.2 * r.preJoin.med, `real-set 21 tail renders with no silence dip (min ${r.preJoin.min.toFixed(4)} vs median ${r.preJoin.med.toFixed(4)})`);
+      check(r.regular.maxDelta < 0.1, `real-set 21→0 join renders with no click (max delta ${r.regular.maxDelta.toFixed(4)})`);
+      check(r.regular.peak < 0.95, `real-set 21→0 join has no cancellation bump (peak ${r.regular.peak.toFixed(3)})`);
+      check(r.raws[0] - r.spans[0].duration > 0.03, `real seg21 tail padding is trimmed (${(r.raws[0] - r.spans[0].duration).toFixed(3)}s of ${r.raws[0]}s raw)`);
+      check(r.spans[1].offset === 0, `real seg0's long quiet opening is preserved, not trimmed (uncertain trim)`);
+      check(errors.length === 0, `no page errors (real-set render) ${errors.join('|')}`);
+      await page.context().close();
+    }
   }
 
   await browser.close();

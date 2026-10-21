@@ -79,8 +79,11 @@ QA requirements (see `docs/DESIGN.md` §5 for the full quality bar):
   menu + crossfade switching (state survival, position memory, rapid
   switches, stop mid-fade), layered sets (independent timelines, solo
   crossfades, combined-cycle math), the Endel order of the-dark-night
-  (digest manifest), the wiki asset sync + wiring markers, and the
-  `--fcp-fab-offset` host-page escape hatch. It captures page errors AND
+  (digest manifest), the wiki asset sync + wiring markers, the
+  `--fcp-fab-offset` host-page escape hatch, and the junction-aware fades
+  (content trim + 12 ms equal-power crossfade, sections 15-16: scheduled
+  metadata, rendered-output measurements on the fixture AND the real set,
+  resume-cursor regression). It captures page errors AND
   console errors. Add a spec case for every new behaviour you introduce.
 - The real wiki page is covered by `tests/wiki-qa.mjs` (both themes,
   1280 and 375 px, zero console errors). It needs `site/data/` (a deploy
