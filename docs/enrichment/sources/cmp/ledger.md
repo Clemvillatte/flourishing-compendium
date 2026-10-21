@@ -86,3 +86,7 @@ Sharon Salzberg citation now links to her own bio (https://www.sharonsalzberg.co
 ### EKMAN BIO CITATION FIXED
 
 Eve Ekman citation now links to her own site (https://www.eveekman.com/, verified unprompted: Senior Fellow at Greater Good Science Center at UC Berkeley, lead teacher for Cultivating Emotional Balance). Previously linked to the GGIA practice page it described.
+
+### WHO-IS-GUIDING SWEEP — SESSION CLOSE STATUS (wrap-up item 5)
+
+Fixed this session (each citation now links to an opened, unprompted-verified bio page with wording aligned to the bio's own text): Tara Brach, Yongey Mingyur Rinpoche, Kristin Neff, Dacher Keltner, Sister Chan Khong, Sharon Salzberg, Eve Ekman. Remaining, with reasons: Andrew Huberman (Stanford page blocked from fetching; YouTube link stands), Leigh Brasington (own-site bio exists but training sentence not extractable; AudioDharma link stands), Joseph Goldstein and Gil Fronsdal (links are the talk-archive/speaker pages the prose names; defensible as-is), Richard Miller, Master Gu, George Thompson, Dave Potter (first-party or institute pages already). Item 5 moves from PARTIAL to LARGELY DONE; the three flagged names are recorded for the next worker.
