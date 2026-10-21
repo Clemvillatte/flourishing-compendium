@@ -13,7 +13,7 @@ Mind-life continuity is the thesis Evan Thompson argues in Mind in Life: Biology
 
 ### What continuity means here
 
-The claim is organizational, not mystical. Thompson's twofold approach: to be a living organism is to realize a certain kind of self-organization, "one that entails an autonomous and normative and cognitive mode of being in relation to the world", and certain structural features of human conscious experience are constituted by self-organizing processes of the human body ([same document, Introduction](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)). The continuity thesis is also the bridge he builds between the enactive approach in cognitive science and phenomenology: both converge, he writes, on the proposition that subjectivity and consciousness have to be explicated in relation to the autonomy and intentionality of life, in a sense of life that encompasses the organism, the lived body and the life-world.
+The claim is organizational. Thompson's twofold approach: to be a living organism is to realize a certain kind of self-organization, "one that entails an autonomous and normative and cognitive mode of being in relation to the world", and certain features of the human mind, especially structural features of conscious experience, are constituted by self-organizing processes of the human body engaged with its environment ([same document, Introduction](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)). Later in the précis he writes that the enactive approach and phenomenology converge on the proposition that subjectivity and consciousness have to be explicated in relation to the autonomy and intentionality of life, in a sense of life that encompasses the organism, the lived body and the life-world ([same document](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf)).
 
 ### In the compendium
 
@@ -21,12 +21,12 @@ The claim is organizational, not mystical. Thompson's twofold approach: to be a 
 
 ## Related concepts
 
-- [[Enactivism]] — the research programme Thompson's book develops; the continuity thesis is its biological grounding
-- [[Embodied cognition]] — the book belongs to the embodied-mind literature Thompson co-authored with Varela and Rosch
+- [[Enactivism]] — the continuity thesis is presented within this research programme, which Thompson develops with Varela and Rosch in The Embodied Mind
+- [[Embodied cognition]]
 
 ## Sources
 
-- [Thompson, Précis of Mind in Life (Journal of Consciousness Studies author proof, evanthompson.me)](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf) — the deep-continuity thesis, the twofold approach and the enactive-phenomenology convergence passage, quoted verbatim from the Introduction
+- [Thompson, Précis of Mind in Life (Journal of Consciousness Studies author proof, evanthompson.me)](https://evanthompson.me/wp-content/uploads/2012/11/thompson_precis_jcs_author_proof.pdf) — the deep-continuity thesis and twofold approach, quoted verbatim from the Introduction; the enactive-phenomenology convergence passage, paraphrased, from later in the same document
 - Thompson, Mind in Life
 
 ## Cited in philosophy parallels

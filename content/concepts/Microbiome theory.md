@@ -9,25 +9,19 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Microbiome theory** — the gut microbial community functions as an organ influencing metabolism, immunity and behaviour.
 
-### An organ within an organ
+This entry discusses the scientific theory named in its title. The metabolic and immune aspects are supported by an article by O'Hara and Shanahan published in EMBO Reports in 2006. The abstract begins by stating that the intestinal microflora is "a positive health asset" that influences the normal structural and functional development of the mucosal immune system, and later states:
 
-The framing comes from a 2006 review in EMBO Reports by O'Hara and Shanahan, who call the intestinal microflora "a positive health asset" and credit it with influencing the normal structural and functional development of the mucosal immune system ([abstract, PubMed PMID 16819463](https://pubmed.ncbi.nlm.nih.gov/16819463/)). Their organ claim, in the abstract's own words:
+> "The flora has a collective metabolic activity equal to a virtual organ within an organ, and the mechanisms underlying the conditioning influence of the bacteria on mucosal homeostasis and immune responses are beginning to be unravelled." ([O'Hara & Shanahan, EMBO Reports, 2006, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16819463/))
 
-> "The flora has a collective metabolic activity equal to a virtual organ within an organ, and the mechanisms underlying the conditioning influence of the bacteria on mucosal homeostasis and immune responses are beginning to be unravelled." ([O'Hara & Shanahan, EMBO Reports, 2006](https://pubmed.ncbi.nlm.nih.gov/16819463/))
-
-The review also carries the liability side: in genetically susceptible individuals, components of the flora can contribute to inflammatory bowel diseases, which is why the authors see manipulating the flora toward its beneficial components as a promising therapeutic strategy.
+The same abstract notes that in genetically susceptible individuals, some components of the flora can become a liability and contribute to intestinal disorders including inflammatory bowel diseases, and that manipulating the flora to enhance its beneficial components is a promising therapeutic strategy.
 
 ### The behaviour half: microbiota-gut-brain axis
 
-The behaviour claim in this page's seed line rests on a later literature. Cryan and Dinan's 2012 review in Nature Reviews Neuroscience states the communication claim with its hedge intact:
-
-> "Accumulating data now indicate that the gut microbiota also communicates with the CNS--possibly through neural, endocrine and immune pathways--and thereby influences brain function and behaviour." ([abstract, PubMed PMID 22968153](https://pubmed.ncbi.nlm.nih.gov/22968153/))
-
-Their evidence base was germ-free animals, pathogenic infections, probiotics and antibiotics, and they frame the microbiota-gut-brain axis as "a tractable strategy for developing novel therapeutics for complex CNS disorders" — a research programme's direction, not a settled treatment claim.
+Behaviour is supported by Cryan and Dinan's review in Nature Reviews Neuroscience in 2012. The abstract states that accumulating data indicate "that the gut microbiota also communicates with the CNS--possibly through neural, endocrine and immune pathways--and thereby influences brain function and behaviour" ([abstract, PubMed PMID 22968153](https://pubmed.ncbi.nlm.nih.gov/22968153/)). The abstract ends by describing the microbiota-gut-brain axis as an emerging concept whose modulation may be a tractable strategy for developing novel therapeutics for complex CNS disorders.
 
 ### In the compendium
 
-- [[BI034 — Learn to eat for gut health — fibre, fermented foods, diversity]] applies the theory's diet lever: what feeds the flora changes it.
+- [[BI034 — Learn to eat for gut health — fibre, fermented foods, diversity]] lists this topic.
 
 ## Field
 
@@ -39,11 +33,11 @@ Biophysiological · Psychological science
 
 ## Related concepts
 
-- [[BI034]] — the fermented-foods trial and plant-diversity finding are the diet side of microbiome theory
+- [[BI034]]
 
 ## Sources
 
-- [O'Hara & Shanahan, "The gut flora as a forgotten organ", EMBO Reports 7(7), 2006, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16819463/) — the organ-within-an-organ and mucosal-immune claims quoted verbatim
-- [Cryan & Dinan, "Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour", Nature Reviews Neuroscience 13(10), 2012, PubMed record](https://pubmed.ncbi.nlm.nih.gov/22968153/) — the CNS-communication and behaviour claims quoted verbatim
+- [O'Hara & Shanahan, "The gut flora as a forgotten organ", EMBO Reports 7(7), 2006, PubMed record](https://pubmed.ncbi.nlm.nih.gov/16819463/)
+- [Cryan & Dinan, "Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour", Nature Reviews Neuroscience 13(10), 2012, PubMed record](https://pubmed.ncbi.nlm.nih.gov/22968153/)
 
 ## Cited in philosophy parallels

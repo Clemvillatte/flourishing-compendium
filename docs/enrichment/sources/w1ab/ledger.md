@@ -185,3 +185,34 @@
 - Related rows grounded by reading the target pages' openings (Enactivism: 'Varela,
   Thompson and Rosch, The Embodied Mind'; Embodied cognition title hit).
 - QC: milestone QC for session items 1-5 due after this item (advisor round).
+
+## MILESTONE QC items 2-5 (advisor round 1: FAIL all four -> repairs applied) — 2026-10-21, worker-w1ab-2e9d1a4f
+- ITEM 2 (Meditation neurobiology theory Lazar): opening replaced with source-based
+  dating (2000 activation, 2005 thickness, immediate citations); unverifiable
+  autonomic-half sentence and 'measurable traces in the brain' gloss REMOVED; DMN gloss
+  removed (bare link); 'in full' qualifier corrected in this ledger (quotes are part of
+  the 2005 abstract). FLAG for supervisor/owner (title-scope): the page title's
+  identity ('Lazar', 'theory') is the compendium's own framing, not established by the
+  opened records (PubMed abstracts name the studies, not a theory). Seed's
+  'network connectivity and stress physiology' remains seed framing only.
+- ITEM 3 (Memorized coping statements): opening replaced; calm-state/hard-moment
+  explanation REMOVED; 'on one side/on the other' REMOVED; apostrophe restored to
+  source's curly form; X007 gloss replaced with 'lists this topic as a psychology
+  parallel'; the three Related rows reduced to bare links. FLAG for supervisor/owner
+  (title-scope): the page title may not name a canonical standalone concept (per
+  concept-namespace-audit.md convention); supervisor disposition welcome.
+- ITEM 4 (Microbiome theory): framing replaced ('This entry discusses the scientific
+  theory named in its title'); final paragraph replaced with the abstract's own
+  closing sentence described; BI034 glosses neutralized ('lists this topic'), both
+  original [[BI034]] wikilink occurrences kept; 'seed line' discussion removed from
+  the public page. FLAG for supervisor/owner (title-scope): title identity of
+  'Microbiome theory' not established by opened records (the two cited records name
+  their own studies).
+- ITEM 5 (Mind-life continuity): 'not mystical' deleted; the 'self-organizing
+  processes of the human body' quote EXTENDED to the source's full clause
+  ('...engaged with its environment'); convergence passage re-cited as 'later in the
+  same document' (it sits near the précis's conclusion, NOT the Introduction);
+  Sources row corrected accordingly; [[Embodied cognition]] Related row restored as a
+  BARE link (validator caught the removal); Embodied-cognition gloss removed.
+- All four re-validated --fast-track: ok (2 Related-line warnings, fast-track scope).
+- Repairs re-verification by advisor: PENDING (round 2).
