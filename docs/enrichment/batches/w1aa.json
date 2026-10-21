@@ -41,7 +41,8 @@
   "Humanity",
   "Homecoming",
   "Idem and ipse",
-  "Implicit and explicit"
+  "Implicit and explicit",
+  "Implicit attitudes"
  ],
  "in_progress": null,
  "flagged": {
@@ -62,6 +63,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:50:33+00:00",
+ "updated": "2026-10-21T00:51:10+00:00",
  "band_done": false
 }
