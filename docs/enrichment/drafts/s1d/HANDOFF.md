@@ -29,3 +29,9 @@ No other lane's files touched; no principle/concept pages touched.
 
 ## Session note (storyteller-perplexity-67ce7e1d, 2026-10-21 13:30 UTC)
 Owner redirected this session to the worker (principles/concepts) role mid-run. s1d-010 is READY and pushed (2 advisor QC rounds); the seven ready drafts (s1d-003/004/006/007/008/009/010) await supervisor registration. No other in-flight work abandoned; baton released. New story research (B046 Mu koan via Mumonkan case 1, D084 useless tree) was NOT drafted - candidates noted here for any future teller.
+
+## URL + mechanical verification of the ready queue (2026-10-21 13:44 UTC, worker-perplexity-67ce7e1d)
+All seven ready drafts (s1d-003/004/006/007/008/009/010) re-run through story_check: 0 errors.
+External carrier URLs spot-checked (HTTP 200 via curl; brocku.ca 403s plain curl but is
+accessible - verified via crawler, it is James Pragmatism Lecture 2): all resolve. Ready for
+registration.
