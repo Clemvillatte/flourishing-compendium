@@ -18,9 +18,10 @@
   "Mind-life continuity",
   "Misinformation effect",
   "Modesty norms research",
-  "Moral dilemmas"
+  "Moral dilemmas",
+  "Morphology"
  ],
- "in_progress": "Mixed emotions theory Miyamoto",
+ "in_progress": null,
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -45,7 +46,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:07:53+00:00",
+ "updated": "2026-10-21T11:11:27+00:00",
  "band_done": false,
  "new_concepts": [
   {

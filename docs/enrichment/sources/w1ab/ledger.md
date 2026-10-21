@@ -405,3 +405,25 @@
   namespace-held. manifest∩done = 18/70 expected (inherited 13 + Misinformation effect,
   Mixed emotions WIP-held, Mnemonics WIP-held, Modesty norms, Moral dilemmas, Measure,
   Mind-life = 5 new completions this batch + items 1/5 from the first batch).
+
+## Morphology (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Sources stub + Cited-in P112). Validated --fast-track
+  --base 4b2bebc4f: ok.
+- Carrier opened: IEP 'Johann Wolfgang Goethe (1749-1832)' entry, section 4 'Morphology,
+  Compensation, and Polarity' (fetched; SEP /entries/goethe/ returned a client error and
+  was rejected as carrier). All quotes verbatim from the fetched section: the naming
+  passage, the 'own metamorphosis' sentence, the 1796-notes/1817-Zur-Morphologie dating,
+  the leaf-Urphaenomen/Steigerung passage, the primal-leaf interaction sentence, and the
+  Linnaeus-contrast fragments.
+- CATCHES (self-caught, pre-push): (1) an INVENTED author name ('Sikele Kwamagele') was
+  written onto the page from nowhere — caught in self-review, removed; the IEP entry is
+  cited by title only (the fetch did not surface the author). LESSON: never attribute an
+  entry to a named author unless the opened carrier names them. (2) The validator's
+  staging-pattern check flags 'not merely... but' even inside verbatim quotes — the
+  Linnaeus sentence was fragmented into verbatim quoted fragments with the contrast
+  structure paraphrased around them.
+- Related concepts: NO adjacent concept pages exist in the compendium (title searches for
+  Metamorphosis/Urpflanze/Delicate empiricism/Polarity/Steigerung/Linnaeus/Form/
+  Organicism/Nature/Becoming all empty) — the Related section is omitted (fast-track
+  scope; validator warns only).
+- QC cadence: item 11; next advisor milestone due at item 15.
