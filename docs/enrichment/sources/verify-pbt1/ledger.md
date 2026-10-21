@@ -426,3 +426,21 @@ Carriers opened fresh: Clark "Whatever next?" PDF (UCL Friston page), Craske et 
    criteria supported by the paper's own framing.
 
 Result: 2/2 quotation fidelity PASS, no defects this round.
+
+## Round 20 (16:38Z) — w1aa quote-fidelity verification, nineteenth batch
+
+Carriers opened fresh: Todd UNSW working-paper PDF, BibleGateway KJV Proverbs 3:9-10,
+SEP "Jurgen Habermas" (Finlayson & Rees).
+
+1. Frugality — blockquote VERBATIM (Lastovicka et al. 1999 definition as quoted in the
+   Todd paper); the NZ values-comparison prose supported (page's lists are non-exhaustive
+   subsets of the carrier's, presented as prose without exhaustiveness claims);
+   collectivist-side reading verbatim-supported.
+2. Firstfruits — blockquote VERBATIM vs BibleGateway KJV; Deuteronomy 26 ritual
+   paraphrase consistent with the cited passage.
+3. Habermas — discourse-rules blockquote VERBATIM vs SEP §3.1; "We understand a
+   speech-act..." VERBATIM; basic-form/parasitic, systems-and-lifeworlds,
+   irreducibility-thesis-failure, Alexy-representative-sample and always-already
+   lifeworld claims all verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
