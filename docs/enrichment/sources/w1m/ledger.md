@@ -326,3 +326,16 @@ derivation sentence, and the intervention-design sentence. Browser stopped
 after verification. No advisor round (item 2; cadence next due at item 5).
 Validator ok (--fast-track and --base vs 1f190f132 equivalent checks: front
 matter byte-identical, original wikilinks preserved).
+
+## Commitment (worker-w1m-f9f8e50d, session 2026-10-21 14:4xZ)
+Fast-track item (degree 7 < 15; not a named theory). Carrier: Rusbult, Martz
+& Agnew 1998 Investment Model Scale PDF at the Northwestern Finkel-lab host
+(curl-fetched, pdftotext, raw substring checks: definition quote VERBATIM,
+dependence sentence VERBATIM, "decisions to persist" sentence VERBATIM, scale
+item "I want our relationship to last forever." VERBATIM). Seed's "Rusbult et
+al., 2001" corrected to the opened 1998 paper in the public citation (the
+2001 chapter was Purdue-Cloudwalled; the 1998 paper carries the identical
+definition). Aristotle/Buber seed citations retained, marked as not carrying
+any quotation. Related concepts added from existing graph edges (Fidelity,
+Interdependence Theory, Relational maintenance); no new reciprocal proposals
+(edges already existed).
