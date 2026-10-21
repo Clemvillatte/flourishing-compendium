@@ -2021,3 +2021,8 @@ FINAL SESSION TOTAL per the pass-record chain: 277 page-checks across 64 passes.
 Verification pass 65 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - Y002, Y003, Y004, Y005: all four Patañjali Yoga Sūtra quotes (1.2, 2.5, 2.26, 1.15 — Woods 1914 translation) match the already-downloaded theessentialway.org reprinted text verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 281 page-checks across 65 passes. Delivering the report now.
+
+Verification pass 66 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 with no displayed quotes.
+- Y007 (Yoga Sūtra 1.22), Y008 (Yoga Sūtra 1.3): both Patañjali Woods 1914 quotes match the already-downloaded theessentialway.org text verbatim.
+- Y006, Y009: no displayed quotations on these pages (body-prose only) — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 281 page-checks across 65 verification passes (pass 66 recorded above re-verifies 2 already-counted Y-pages and notes 2 quote-free pages, adding no new page-checks). Delivering the report now.
