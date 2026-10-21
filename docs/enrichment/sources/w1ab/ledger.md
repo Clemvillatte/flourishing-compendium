@@ -837,3 +837,12 @@
   untouched) + Neurogenesis theory (grounded: the Sorrells contest) + Long-term potentiation
   account of memory (navigational caption). Degree 7 — fast-track. Validation
   --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: New Fire ceremony (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the seed's own Wikipedia link, opened fresh (rate-limited via fetch_url; retrieved
+  via direct request) — four passages quoted verbatim (52-year/calendar-round purpose; the
+  fires-out and chest kindling sequence; the sun's return; the Postclassic-wide origin note)
+  plus the sun-might-not-return belief sentence. Seed claims all grounded by the opened text
+  (fires extinguished, chest kindling, cleansing-renewal framing). Related: Ritual, Li —
+  ritual propriety, Impermanence (navigational captions; existence-verified). Degree 1 —
+  fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
