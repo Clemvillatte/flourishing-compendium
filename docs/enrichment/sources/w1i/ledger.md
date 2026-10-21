@@ -510,3 +510,8 @@ supervisor's formal QC round; no repairs found.
 The handoff's standing hold re-checked: PubMed record 14737157 (Draganski 2004) still shows
 "No abstract available" — the blocker for the held Neuroplasticity item persists. The next
 worker still needs a different carrier (e.g. the journal page or a review quoting the findings).
+
+## Held-item check: Movement snacks label (2026-10-21 14:17 UTC, worker-perplexity-67ce7e1d)
+Jenkins et al. 2019 (PMID 30649897) re-opened: the record's own terms are stair climbing
+exercise "snacks" (in quotes, per the title and abstract); the term "movement snacks" does
+NOT appear. Evidence recorded for the supervisor's pending disposition on the label hold.
