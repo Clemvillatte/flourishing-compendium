@@ -44,7 +44,8 @@
   "Conversation as method",
   "Dignity",
   "Ego depletion",
-  "Emotions as judgments"
+  "Emotions as judgments",
+  "Empathic distress"
  ],
  "in_progress": null,
  "flagged": {
@@ -64,7 +65,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:50:03+00:00",
+ "updated": "2026-10-21T06:50:30+00:00",
  "band_done": false,
  "new_concepts": [
   {
