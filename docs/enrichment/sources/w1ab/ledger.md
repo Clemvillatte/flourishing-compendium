@@ -1029,3 +1029,11 @@
   [[D075 — Don't underestimate challenges]] restored from the pre-edit file via git show
   before validation. Related: Planning fallacy, Dunning-Kruger effect, Optimism
   (navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
+
+## ITEM: Movement snacks (fast-track; prior worker's unfinished item COMPLETED) — 2026-10-21, worker-pxy1u
+- The page body was already written by a prior worker (the batch had it flagged/unfinished);
+  this pass: the Jenkins et al. 2019 abstract refetched and the page's quote verified
+  verbatim against it (the two passages match exactly); the missing Related-concepts
+  section added (Exercise neurobiology theory, Habit formation, Green exercise —
+  navigational captions); no body text changed. Degree 1 — fast-track. Validation
+  --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).

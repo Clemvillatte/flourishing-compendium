@@ -15,6 +15,12 @@ Jenkins and colleagues tested brief stair-climbing "exercise snacks" in sedentar
 
 - [[D153 — Move gently and regularly]] lists this topic as a psychology parallel.
 
+## Related concepts
+
+- [[Exercise neurobiology theory]] — the compendium's page on exercise and the brain
+- [[Habit formation]] — the compendium's page on habit formation
+- [[Green exercise (Barton, Pretty)]] — the compendium's page on green exercise
+
 ## Sources
 
 - [Jenkins et al., "Do stair climbing exercise 'snacks' improve cardiorespiratory fitness?", Applied Physiology, Nutrition, and Metabolism 44(6), 2019, PubMed record](https://pubmed.ncbi.nlm.nih.gov/30649897/) — the design and findings quoted verbatim from the abstract
