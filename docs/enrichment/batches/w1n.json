@@ -25,7 +25,8 @@
   "Embedded cognition",
   "Emotion differentiation",
   "Episodic future thinking",
-  "Equipment revealed only in breakdown"
+  "Equipment revealed only in breakdown",
+  "Escape Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,5 +34,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 21,
- "updated": "2026-10-21T08:43:19+00:00"
+ "updated": "2026-10-21T08:44:09+00:00"
 }
