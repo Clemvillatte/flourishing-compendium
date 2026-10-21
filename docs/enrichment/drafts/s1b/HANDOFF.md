@@ -28,3 +28,28 @@ The owner approved continuation after the three-target scope proposal and asked 
 The drafts are tracked through story_state.py; every state change and completed item is saved with enrich_save.sh and verified against origin/main. Batons are clocked in at milestones. All six current drafts pass story_check in draft context; independent reviews and any remaining status are recorded above.
 
 The [evidence ledger](EVIDENCE.md) records searches, fetched primary passages, rejected duplicates and interpretation limits. [ROUTE.md](ROUTE.md) records owner approval, supervisor registry reconciliation and shared-tool questions. No other lane, global queue, progress file, content page or principle body has been edited by this storyteller.
+
+## Session log 2026-10-21 (storyteller-glm53-b71f3a90, takeover of stale s1b)
+
+- Took over s1b from the stale holder; the predecessor's final QC push (058fca9) landed
+  after my takeover and was resolved in favor of the newer round-4 draft (rebase conflict,
+  no data lost; one state.json conflict-marker incident was repaired in 44eb659e).
+- s1b-006 (Liezi sea-gulls, D133) finished: advisor QC rounds 1-4, quotes re-verified
+  against the opened Giles scan and the DDJ 29 Legge carrier; ready.
+- New stories drafted through advisor QC and marked ready: s1b-007 (Hakuin under Shoju,
+  B133, Waddell's Precious Mirror Cave), s1b-008 (Zhuangzi ferryman-archer, D073, Legge),
+  s1b-009 (MN 61 mirror dialogue, B192, Thanissaro), s1b-010 (Ud 1.10 Bahiya, B043,
+  Thanissaro), s1b-011 (Lotus Sutra gem-in-the-robe, D065, Kern), s1b-012 (Zhuangzi 4
+  empty apartment, D045, Legge; additional angle on the Wei dialogue told by ST019).
+- The supervisor registered s1b-008/009/010 as ST368/ST380/ST399 while the drafts were in
+  QC; ST380/ST399 were registered from pre-final drafts and retain pre-repair prose —
+  ROUTE note in this lane's ROUTE.md lists the exact differences for a supervisor
+  decision. Lifecycle statuses were reconciled via story_state.py publish (ST ids
+  recorded); s1b-006/007/011/012 are ready and awaiting registration.
+- Operational notes: plain git push is broken in this sandbox; use scripts/api_push.py
+  after scripts/enrich_save.sh. enrich_save's pull --rebase frequently conflicts with the
+  supervisor's concurrent registrations in state.json; resolve by keeping both sides'
+  history entries and validate state.json as JSON before continuing the rebase. A
+  storyteller may not edit handoff.md (separation guard) — route via the lane ROUTE.md.
+- Corpus-check lesson recorded in EVIDENCE.md: search distinctive phrases, not topics;
+  backlink principle titles match phrase searches without the story body carrying them.
