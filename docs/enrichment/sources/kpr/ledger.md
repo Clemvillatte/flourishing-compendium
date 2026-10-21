@@ -293,3 +293,8 @@ K418 round-4 (advisor): B038 and D055 operationalisation claims removed (the adv
 ## VERIFICATION NOTE 2026-10-21T16:05:07Z (programmatic) — worker-kpr-pplc-f3d97a21: Longe et al. 2010 quote on K379 verified
 
 Fresh PubMed fetch (19770047): the abstract contains verbatim 'Self-reassurance was associated with left temporal pole and insula activation, suggesting that efforts to be self-reassuring engage similar regions to expressing compassion and empathy towards others.' The page's quote (which ends at 'compassion') matches word-for-word for every quoted word; it truncates the sentence before ' and empathy towards others'. Acceptable quotation (all words inside the marks appear in the source); noted here for the record, no repair needed.
+
+
+## FINAL ENTRY 2026-10-21T16:05:56Z (programmatic) — worker-kpr-pplc-f3d97a21: session closeout, baton release
+
+Run clock: T+42:57. All work saved and verified on origin/main through 0a3116ad3. Final verification sweep (fresh, post-rebase): all 8 kpr pages validate (5 against base b9dbc3175, 3 no-base), build clean (5845 entries), local main synced with origin (rebased over the cmp band's 3 commits with no conflicts). Baton release reason: the kpr band's remaining item (microcosmic orbit kernel, needs the Sitting in Oblivion carrier already in the owner's Drive) is a full item not finishable inside the taper window; K418 is honestly held at QC-pending with its complete-routine gap stated on the page and in kpr.json for the next worker. Releasing the kpr baton now so the next worker does not wait.
