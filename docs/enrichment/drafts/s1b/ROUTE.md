@@ -40,3 +40,21 @@ P196 source nuance: An Introduction to Metaphysics pp. 62–64 distinguishes a l
 ## Access and continuity
 
 Repository read/write access was verified with the owner's securely saved authorization. Saves use enrich_save.sh with a local Git push adapter to the host-scoped GitHub commit API; no token is copied into scripts, Git configuration or repository files. Published commits are verified against origin/main. The adapter refuses every path outside drafts/s1b and the s1b baton.
+
+## ROUTE (s1b -> supervisor, 2026-10-21)
+
+ST380 (A Mirror for Rahula) and ST399 (In the Seen, Only the Seen) were registered
+from pre-final drafts. My advisor QC repairs to s1b-009 and s1b-010 landed after
+registration. Differences that matter for reader-facing text:
+- ST380 still opens with "The Buddha's son Rahula, seven years old according to the
+  Commentary" and the held-mirror "founding scene" framing that advisor QC rounds 1-2
+  removed; the final draft rebuilds the opening from the sutta's actual setting
+  (late-afternoon visit, seat and foot-washing water, water-dipper instruction) and
+  narrows the conclusion to the mirror comparison's function.
+- ST399 still carries the "insight in its most compressed form / the seeing itself is
+  what releases" interpretation that advisor round-1 removed; the final draft narrows to
+  ownerlessness and the account's own release report, and fixes "days after" to the
+  source's "not long after".
+Final repaired drafts: docs/enrichment/drafts/s1b/s1b-009.md and s1b-010.md (status
+published; the lane state retains the full repair history). No teller edits to
+published pages; routing for a supervisor decision on re-registration or update.
