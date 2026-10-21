@@ -29,7 +29,7 @@ The compendium uses these findings as reasons to examine particular activities a
 
 **Plain words** Time on the same service can involve different activities. Those activities are worth distinguishing, but the reviews do not supply one rule that will help everyone. Record what you actually do and how you feel afterward before deciding which habit to change.
 
-*For example (imagined):* Someone logs a week of use: two evenings of messaging friends, three evenings of scrolling. At each entry they also note their mood afterward, so the record shows which activity actually leaves them better off.
+*For example (imagined):* Someone records a week of messaging and browsing, together with how they feel before and after each session, then chooses one activity to examine further.
 
 ## Psychology parallels
 

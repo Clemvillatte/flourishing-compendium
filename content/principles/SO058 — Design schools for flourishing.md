@@ -25,15 +25,13 @@ Yeager and colleagues' national experiment tested a short online growth-mindset 
 
 > Here we show that a short (less than one hour), online growth mindset intervention-which teaches that intellectual abilities can be developed-improved grades among lower-achieving students and increased overall enrolment to advanced mathematics courses in a nationally representative sample of students in secondary education in the United States. (Yeager et al., 2019, abstract)
 
-The same study found the effect depends on the environment around the treatment:
+The same study reports a context condition for the treatment:
 
 > Notably, the study identified school contexts that sustained the effects of the growth mindset intervention: the intervention changed grades when peer norms aligned with the messages of the intervention. (Yeager et al., 2019, abstract)
 
-In the growth-mindset experiment, the authors report that grade effects varied with peer norms.
-
 **Plain words** A student can struggle with the work and also wonder whether they fit in. A belonging intervention addresses that second concern. Before borrowing an intervention, check who took part in the study and what conditions accompanied its effects.
 
-*For example (imagined):* A school runs a first-week exercise built from older students' accounts of early struggle: nearly everyone found it hard at first, and it got better. The algebra does not change; the meaning of finding it hard does.
+*For example (imagined):* An orientation adviser shares older students' accounts of feeling uncertain at the beginning and invites first-year students to discuss their own concerns.
 
 ## Psychology parallels
 
