@@ -1764,3 +1764,10 @@ SUPERSEDING CORRECTION (worker-glmc4a, final QC): the earlier "count reconciled"
 - Count correction: the "131 distinct pages" figure follows the per-pass running totals in the TASKBOARD entries (arithmetically consistent: pass 3 total 21 → pass 26 total 131, each pass adding exactly its stated page count). Of these, 58 pages are explicitly ID'd in the pass-entry texts; the passes 4–16 pages (~73) are described by concept name in the entries rather than by ID, so an independent ID-level deduplication of the full 131 was not performed within this session. The per-pass records with their verbatim-match claims remain preserved above as the evidence.
 - Qualified claims retained: D037 and D070 are wording matches with hyphenation/extraction uncertainty on the first "pre-occupation" and "Heaven-given" occurrences (the mid-line second occurrences support the lexical-hyphen reading but do not conclusively establish the line-break occurrences); these are reported as wording matches, not unconditional verbatim matches.
 - The capitalization observations (SO073, D053) and the Buber carrier mismatch remain editorial observations routed for repair, dependent on the project's quotation policy; they are not hallucinations. The four earlier routed findings were reviewed and dispositioned, not repaired.
+
+Verification pass 27 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS (spot-check scope per the superseding correction).
+- D115: both Daodejing 17 §2 and 66 §1 quotes match the opened Gutenberg #216 text verbatim.
+- D116: the Daodejing 17 quote matches verbatim; the Daodejing 49 quote matches in wording with the source's em-dash (—) rendered as a double hyphen (--) — disclosed typographic-normalization class.
+- D122: the Daodejing 81 quote matches verbatim.
+- D133: the Daodejing 29 quote matches the opened Gutenberg #216 text verbatim (the page's sacred-texts citation is the same Legge translation).
+Running total per the pass-record chain: 135 page-checks across 27 passes (spot-check scope; 58 pages explicitly ID'd in the entry texts, the passes 4–16 remainder described by concept name).
