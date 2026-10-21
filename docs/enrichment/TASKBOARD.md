@@ -2207,3 +2207,11 @@ Verification pass 98 (worker-glmc4a — continuing per owner instruction): 4 pri
 - A004 (Nicomachean Ethics II.1, Chase translation, Gutenberg #8438): matches the freshly downloaded Gutenberg text verbatim.
 Note: the T+60 deadline (08:46:38 UTC) was noted as passed in error in the prior message — it had not yet passed at 08:37:59; corrected here. Owner has instructed continued work one item at a time.
 RUNNING TOTAL: 318 page-checks across 98 verification passes.
+
+Verification pass 99 (worker-glmc4a): 3 principle pages, ALL PASS (with disclosed observations); 1 with no displayed quotes.
+- A006 (NE I.8 Chase): the quote is present verbatim in the Gutenberg #8438 text — the initial NOT FOUND was a footnote-marker artifact (the source prints "Still [26] it is quite plain" with a bracketed footnote number where the wiki page omits it); with the footnote marker removed the wording matches verbatim. Disclosed.
+- A006 (NE I.9 Chase): matches verbatim.
+- A007 (NE I.13 Ross): the quote is present — the source reads "the appetitive and in general the desiring element in a sense shares in it, in so far as it listens to and obeys it" where the wiki page prints "shares in [a rational principle]" — a bracketed editorial substitution of the pronoun "it" with its antecedent; the surrounding text matches verbatim. Disclosed.
+- A008 (NE I.7 Ross, "one swallow"): matches verbatim.
+- A005: no displayed quotations — nothing to verify.
+RUNNING TOTAL: 321 page-checks across 99 verification passes.
