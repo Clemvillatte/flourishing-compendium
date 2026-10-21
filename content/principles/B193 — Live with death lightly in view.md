@@ -36,6 +36,9 @@ Say the facts to yourself plainly: I am subject to aging, illness, and death; I 
 - [Access to Insight: Upajjhatthana Sutta (AN 5.57), tr. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html) — the five facts for frequent reflection
 - [Access to Insight: Dhammapada ch. II (Dhp 21), tr. Thanissaro Bhikkhu](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.02.than.html) — the heedfulness verses
 
+## Stories
+- [[ST407 — Six Monks Answer in the Brick Hall|407. Six Monks Answer in the Brick Hall]]
+
 ## Psychology parallels
 
 - **[[Death reflection|Death reflection]]**, increases gratitude and decreases materialism (Cozzolino, 2006)

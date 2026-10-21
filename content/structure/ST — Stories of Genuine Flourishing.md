@@ -168,6 +168,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST095 — Dipa Ma Raises Two Children and Awakens]]
     - [[ST380 — A Mirror for Rahula]]
     - [[ST392 — Franklin's Speckled Axe]]
+    - [[ST407 — Six Monks Answer in the Brick Hall]]
 - [[ST-S03 — Part III — Pragmatist and Process Stories]]
   - [[ST-S03.01 — III.1 First Principles of Process]]
     - [[ST096 — Heraclitus and the River]]
