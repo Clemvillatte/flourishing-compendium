@@ -270,3 +270,23 @@ damage, w1ab left to its live holder.
   PRELIMINARY EXPECTORATION section of this edition). All four original wikilinks
   (E052/E042/B155/ST270) preserved; front-matter untouched. Validator ok (1 warn:
   2 Related lines, acceptable at fast-track bar). QC-pending for the next milestone.
+
+## THE COMMONWEALTH OF THE GOOD — 2026-10-21 ~16:00Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 2). Category C: "the commonwealth of the good" is the
+  compendium's own heading; neither Augustine nor Spinoza uses the phrase. Page states
+  this in the opening sentence and is written for the sense the linked Spinozism
+  principles use (SP079/SP091/K054 + ST209).
+- Carriers: IEP "Augustine: Political and Social Philosophy"
+  (iep.utm.edu/augustine-political-and-social-philosophy/, raw download, all four
+  Augustine quotes substring-verified: "collectively and allegorically as cities—the
+  City of God and the earthly city"; "where there is no justice there is no
+  commonwealth"; "No political state, nor even the institutional church, can be equated
+  with the City of God"; "pilgrims and foreigners") and Spinoza TIE (marxists.org
+  edition, opened: chief-good passage; "form a social order such as is most conducive
+  to the attainment of this character by the greatest number"; the helping-hand
+  happiness passage). Note: the general IEP Augustine article does NOT carry these
+  quotes; the political-and-social article is the correct carrier.
+- Augustine XIX.24 people-definition NOT quoted (no carrier opened verbatim; New
+  Advent/CCEL/logoslibrary fetch attempts failed). SP079/SP091/K054/ST209 wikilinks
+  preserved; front-matter untouched. Validator ok (1 warn: 2 Related lines, fast-track
+  bar). QC-pending for the next milestone.
