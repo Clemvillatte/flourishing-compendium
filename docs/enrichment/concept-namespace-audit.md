@@ -355,3 +355,11 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   finitude; no source defines the phrase. Being and Time not opened this session (no lawful carrier
   at hand; owner library does not list Heidegger), so no verifiable quote — page left at seed and
   held out of done pending supervisor disposition.
+- Mnemonics and the availability of internalized text (2026-10-21, worker-w1ab-2e9d1a4f, w1ab):
+  compendium coinage heading (PROTOCOL rule 6 route: written for the sense the linking
+  principle M014 uses, with the coinage stated on the page in one sentence). The opened
+  source (Roediger & Karpicke 2006, PMID 16507066) grounds the retrieval-practice content
+  but does not define the heading as a named concept; 'mnemonics' proper is not covered by
+  the opened record. Source-bounded WIP pushed; held out of done pending supervisor
+  disposition (rename to a source-defined neighbour such as the existing
+  [[The testing effect / retrieval practice]] page, or owner decision).

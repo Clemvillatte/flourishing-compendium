@@ -19,7 +19,7 @@
   "Misinformation effect",
   "Mixed emotions theory Miyamoto"
  ],
- "in_progress": null,
+ "in_progress": "Mnemonics and the availability of internalized text",
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -38,11 +38,12 @@
   "Meditation neurobiology theory Lazar": "Reopened for QC: advisor round-2: source-aligned prose accepted but concept identity/title scope unresolved — namespace hold recorded in concept-namespace-audit.md; held out of unconditional done",
   "Memorized coping statements in CBT": "Namespace hold (advisor rounds 2-3): scoped prose PASS, concept identity/title scope unresolved; held out of done pending supervisor disposition (entry in concept-namespace-audit.md); source-bounded WIP pushed",
   "Microbiome theory": "Namespace hold (advisor rounds 2-3): scoped prose PASS, concept identity/title scope unresolved; held out of done pending supervisor disposition (entry in concept-namespace-audit.md); source-bounded WIP pushed",
-  "Mind-life continuity": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)"
+  "Mind-life continuity": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)",
+  "Mnemonics and the availability of internalized text": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:02:24+00:00",
+ "updated": "2026-10-21T11:02:44+00:00",
  "band_done": false,
  "new_concepts": [
   {

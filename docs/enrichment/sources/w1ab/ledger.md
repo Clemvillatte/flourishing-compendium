@@ -298,3 +298,16 @@
   exist (title searches); clauses are comparative, grounded in the abstract's own
   'dialectical emotions' reference.
 - QC cadence: item 7; next advisor milestone due at item 10.
+
+## Mnemonics and the availability of internalized text (fast-track, degree 2, NAMESPACE HOLD) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + one Related row + Sources stub + Cited-in M014).
+  Validated --fast-track --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Roediger & Karpicke 2006, Psychol Sci
+  17(3):249-55 (PMID 16507066 via esearch; NOT guessed). The testing-effect definition,
+  the 5-min/delayed reversal and the confidence finding quoted verbatim from the abstract.
+- TITLE: compendium coinage (Category C) — entry added to concept-namespace-audit.md
+  (rule-6 route: written for the M014 sense, coinage stated on the page); held out of
+  done pending supervisor disposition. The seed's 'spaced-retrieval literature' citation
+  is preserved in Sources as the compendium's line; no spaced-retrieval source was opened
+  this session (nothing about it is claimed in the body).
+- QC cadence: item 8; next advisor milestone due at item 10.
