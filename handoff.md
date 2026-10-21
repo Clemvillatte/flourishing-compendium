@@ -1,4 +1,4 @@
-- WORKER CHECKPOINT w1i (2026-10-21 ~08:3xZ, worker-w1i-3a9d2f7e, T+60 REPORTING CHECKPOINT
+- WORKER CHECKPOINT w1i (2026-10-21 ~08:4xZ, worker-w1i-3a9d2f7e, MID-SESSION CHECKPOINT
   — reporting only, baton HELD, work continues while the session lives): took the released
   band at 45/70. 15 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
   true session baseline 9d73e974, all quotes verbatim from opened carriers: PMC1436009

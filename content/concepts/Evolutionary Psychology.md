@@ -7,13 +7,17 @@ file: "Evolutionary Psychology"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-The compendium uses "Evolutionary Psychology" for the research program associated with Leda Cosmides and John Tooby. The field's definition, as carried by the Wikipedia article:
+The compendium uses "Evolutionary Psychology" for the research program associated with Leda Cosmides and John Tooby. Their own primer defines it:
 
-> "Evolutionary psychology is a theoretical approach in psychology that examines cognition and behavior from a modern evolutionary perspective." ([Wikipedia, Evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology))
+> "Evolutionary psychology is an approach to psychology, in which knowledge and principles from evolutionary biology are put to use in research on the structure of the human mind." (Cosmides and Tooby, Evolutionary Psychology: A Primer, [UCSB-hosted PDF](https://www.cep.ucsb.edu/wp-content/uploads/2023/06/Evolutionary-Psychology-A-Primer-CosmidesTooby1993.pdf))
 
-### Domain-specific mechanisms
+### The mind the approach studies
 
-The approach involves domain-specific mechanisms: "Some mechanisms, termed domain-specific, deal with recurrent adaptive problems over the course of human evolutionary history" ([Wikipedia, Evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology)). The article states that "Evolutionary psychology, therefore, proposes that most of human psychological mechanisms are adapted to reproductive problems frequently encountered in Pleistocene environments" ([Wikipedia, Evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology)). It also states that the field's modern era "was ushered in, in particular, by Donald Symons' 1979 book The Evolution of Human Sexuality and Leda Cosmides and John Tooby's 1992 book The Adapted Mind" ([Wikipedia, Evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology)).
+The primer's summary of its object:
+
+> "In this view, the mind is a set of information-processing machines that were designed by natural selection to solve adaptive problems faced by our hunter-gatherer ancestors." (Cosmides and Tooby, Evolutionary Psychology: A Primer, [UCSB-hosted PDF](https://www.cep.ucsb.edu/wp-content/uploads/2023/06/Evolutionary-Psychology-A-Primer-CosmidesTooby1993.pdf))
+
+The primer notes that it "was written in 1993, based on lecture notes for our classes" and has appeared on the Center for Evolutionary Psychology website since the early 1990s (Cosmides and Tooby, [Primer](https://www.cep.ucsb.edu/wp-content/uploads/2023/06/Evolutionary-Psychology-A-Primer-CosmidesTooby1993.pdf)).
 
 ### In the compendium
 
@@ -38,6 +42,4 @@ Biophysiological · Psychological science
 
 ## Sources
 
-- Cosmides, Tooby
-
-- [Wikipedia, Evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology): the definition; the domain-specific mechanisms passage; the Pleistocene adaptation passage; the Cosmides-Tooby The Adapted Mind attribution
+- [Cosmides, L., and Tooby, J., Evolutionary Psychology: A Primer (written 1993; Center for Evolutionary Psychology, UCSB)](https://www.cep.ucsb.edu/wp-content/uploads/2023/06/Evolutionary-Psychology-A-Primer-CosmidesTooby1993.pdf): the definition; the information-processing-machines passage; the primer's own publication note

@@ -13,7 +13,7 @@ The compendium uses "Existential therapy" for the therapeutic tradition that wor
 
 ### Yalom's four themes
 
-The classification most associated with the tradition is Irvin Yalom's set of four concerns: "Yalom divides the common existential issues into four core themes, which are now widely accepted by many therapists and experts in the field" (Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)). "The four themes—death, freedom, isolation, and meaning—are categories that help reframe common problems individuals encounter as givens of human existence" (Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)). The article quotes Yalom on isolation directly: "Existential isolation refers to an unbridgeable gulf between oneself and any other being. It refers, too, to an isolation even more fundamental—a separation between the individual and the world." (Yalom, quoted in Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)).
+The article presents Yalom's four existential themes: "Yalom divides the common existential issues into four core themes, which are now widely accepted by many therapists and experts in the field" (Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)). "The four themes—death, freedom, isolation, and meaning—are categories that help reframe common problems individuals encounter as givens of human existence" (Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)). The article quotes Yalom on isolation directly: "Existential isolation refers to an unbridgeable gulf between oneself and any other being. It refers, too, to an isolation even more fundamental—a separation between the individual and the world." (Yalom, quoted in Schnipke and MacKay 2023, [PMC10132274](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/)).
 
 ### In the compendium
 
@@ -26,7 +26,7 @@ The classification most associated with the tradition is Irvin Yalom's set of fo
 
 - Yalom, 1980
 
-- [Schnipke, B., and MacKay, M. (2023), Existential Issues in Psychotherapy, Innovations in Clinical Neuroscience](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/): the existential-issues definition; the four-themes passages; the Yalom existential-isolation quotation
+- [Schnipke, B., and MacKay, M. (2023), Existential Issues in Psychotherapy, Innovations in Clinical Neuroscience 20(1-3):72-75](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132274/): the existential-issues definition (abstract); the four-themes passages; the Yalom existential-isolation quotation
 
 ## Cited in psychology parallels
 
