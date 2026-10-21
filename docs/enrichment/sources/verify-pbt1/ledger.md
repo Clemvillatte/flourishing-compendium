@@ -778,3 +778,8 @@ model": five-stages blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defe
 Carrier opened fresh: Nünning & Nünning open-access PDF. w1q "Worldmaking": Goodman
 blockquote VERBATIM vs the opened carrier (citation "Goodman 1992: 6" matches).
 1/1 PASS, no defects.
+
+## Round 50 (16:39Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: Taylor & Francis Oaten & Cheng 2006 article. w1q "Vigilance theory":
+both abstract blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
