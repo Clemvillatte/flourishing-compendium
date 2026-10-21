@@ -591,3 +591,8 @@ Maladaptive perfectionism (a "Reopened for QC" w1ab page): Kozłowska and Kuty-P
 TALLY on the released w1ab band: 14 pages checked, 14 PASS at the quote level; one
 single-character semicolon repair (Locus of evaluation, cross-band edit flagged for the
 supervisor). No quote-fidelity failures found anywhere in the sample.
+
+## Gentleness as virtue locator closure (2026-10-21 14:51 UTC, worker-perplexity-67ce7e1d)
+The advisor's round caveat (the "Book IV, Chapter VII" locator unverified by my fetch) is
+closed: the Chase translation's own heading preceding the meekness passage is confirmed as
+Book IV, Chapter VII (re-fetched and checked). The page's locator is accurate.
