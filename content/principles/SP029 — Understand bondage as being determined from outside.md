@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 29** — Understand bondage as being determined from outside
 
-Spinoza gives the condition its name at the start of the part of the Ethics he titles Human Bondage: it is the mind's lack of power to moderate and restrain the affects. The person in it is "not under his own control and is at the mercy of fortune," and "though he sees what would be better for him, he is compelled to go after something worse" (Ethics IV Preface). What does the determining is external: fortune, other people, whatever arrived last. The freedom opposite to this is not escape from causes but determination by one's own adequate ideas; the wise man, Spinoza writes at the close of the work, is "hardly troubled in spirit" and "always possesses true peace of mind" (Ethics V P42 scholium).
+Spinoza names the condition at the start of the part of the Ethics he titles Human Bondage: it is the mind's lack of power to moderate and restrain the affects. The person in it is "not under his own control and is at the mercy of fortune," and "though he sees what would be better for him, he is compelled to go after something worse" (Ethics IV Preface). A passion is, in his terms, "a confused idea through which a mind affirms of its body (or of some part of it) a greater or lesser force of existing than it had before" (Ethics III, General Definition of the Affects). The opposite condition: the wise man is "hardly troubled in spirit" and "always possesses true peace of mind" (Ethics V P42 scholium).
 
-> "What I have said makes it clear that we are driven about in many ways by external causes, and that we toss about like waves on the sea driven by contrary winds, not knowing our outcome and fate." (Spinoza, Ethics, close of Part III, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
+> "What I have said makes it clear that we are driven about in many ways by external causes, and that we toss about like waves on the sea driven by contrary winds, not knowing our outcome and fate." (Spinoza, Ethics III P59 scholium, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
 **Plain words**
-Most people's inner weather has outside authorship: a number on a screen decides the morning, a stranger's tone decides the evening. You have the feelings; something else wrote them. The test Spinoza implies is to trace one strong reaction back through its doorway. If it walked in through the eyes or ears, it was put there. Naming the doorway does not by itself free anyone, but it moves the question of authorship from the world to you, where it can be worked on.
+Spinoza means a specific thing by outside: what determines you comes from causes your understanding does not include. Receiving a strong feeling is not itself bondage. The test: whether the reaction stands on ideas you understand or on ideas you do not. Trace one reaction back to the idea that carries it. If you understand that idea and its causes, the reaction is yours. If you do not, it was determined from outside your understanding, and that is what he is talking about.
 
 **For example**
-Someone wakes, reaches for the phone, and reads a message marked urgent. By breakfast they are short with their family and never connect the two. The day's affect was assigned before the day began; that is bondage in miniature, determination from outside.
+Someone is stopped by an insult and cannot let it go, and later sees they were held by a confused idea of the insulter's power over them. After the idea becomes clear the reaction weakens, which matches the idea he is defending: bondage comes from confused ideas, and freedom comes from understanding them.
 
-(Ethics IV Preface and IV P47 note; V P42 scholium; the wave image closes Part III. Bennett clear-language translation.)
+(Ethics IV Preface; III, General Definition of the Affects; III P59 scholium; V P42 scholium. Bennett clear-language translation.)
 
 ## Psychology parallels
 
@@ -35,4 +35,4 @@ Someone wakes, reaches for the phone, and reads a message marked urgent. By brea
 
 ## Sources
 
-- [Spinoza, Ethics, Bennett clear-language translation (earlymoderntexts.com)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf) — IV Preface, IV P47 note, V P42 scholium, close of Part III
+- [Spinoza, Ethics, Bennett clear-language translation (earlymoderntexts.com)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf) — IV Preface; III General Definition of the Affects; III P59 scholium; V P42 scholium
