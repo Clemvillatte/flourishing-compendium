@@ -63,7 +63,8 @@
   "Voluntary discomfort",
   "Allostatic load",
   "Alterity",
-  "Amour-propre"
+  "Amour-propre",
+  "Analytical Psychology"
  ],
  "in_progress": null,
  "flagged": {
@@ -115,6 +116,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:51:30+00:00",
+ "updated": "2026-10-21T08:52:09+00:00",
  "band_done": false
 }
