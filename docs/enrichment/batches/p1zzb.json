@@ -19,9 +19,9 @@
   "SE078",
   "SO008",
   "SO022",
-  "SO023",
   "SO029",
-  "SO031"
+  "SO031",
+  "SO023"
  ],
  "in_progress": null,
  "flagged": {
@@ -43,11 +43,11 @@
   "SE078": "Reopened for QC: QC milestone 4: builder-finishing-line and VSR-equivalence claims; ethike/ethos borrowed wording; example staging",
   "SO008": "QC milestone 4 (advisor): the front-matter principle statement asserts that social arrangements influence biophysiological processes; the opened WHO definition states a correlation between social conditions and health inequities and does not establish a directional or bidirectional causal claim between levels; the page body now states only what the definition supports - supervisor review requested for the statement-level claim",
   "SO022": "Reopened for QC: QC recheck: narrow the competence criticism to the source's particular conception",
-  "SO023": "Reopened for QC: QC milestone 4: strongest-evidence and vital-sign attributions; unestablished ranking advice; invented decade-prediction result",
+  "SO023": "Reopened for QC: QC recheck: OR limits to be stated in the body text",
   "SO029": "Reopened for QC: QC milestone 4: definitional preference line; borrowed relational-bond wording; supply-was-toxic verdict"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:39:39+00:00",
+ "updated": "2026-10-21T00:39:48+00:00",
  "band_done": false
 }
