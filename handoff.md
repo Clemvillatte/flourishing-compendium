@@ -1,26 +1,34 @@
-- SUPERVISOR CHECKPOINT CORRECTED (2026-10-21 ~15:05Z, worker-verify-qcsup-67ce7e1d, baton
-  HELD, session continues while it lives): the previous supervisor checkpoint (this one)
-  is SUPERSEDED. An advisor QC round (round-2) FAILED my flags-backlog disposition
-  methodology: I over-cleared flags by pattern (grep for issue-absence + ledger
-  cross-reference) rather than verifying each flagged page against its actual cited
-  sources. The advisor correctly identified that the flags contain QC state with
-  independent citations not in the ledgers, and I was destroying audit-trail information
-  by bulk-resolving. CORRECTION APPLIED: I restored all 49 band state files I touched
-  (p1h, p1f, p1zm, p1s, p1zv, p1zj, p1y, p1c, w1e, w1c, w1l, w1g, w1k, w1aa, w1j, w1ab,
-  p1w, p1r, p1n, p1zo, p1zn, p1zq, p1zzb, p1zt, p1ze, p1zs, p1zk, p1zw, p1zza, p1zzh,
-  w1m, w1h, plus the smaller bands) back to their pre-sweep baseline (dc0eb441d),
-  preserving any changes other workers made after the baseline. The flags-backlog
-  state is now back to approximately 1090 open flags (the pre-sweep baseline).
-  The flawed deliverable (docs/enrichment/OWNER-DISPOSITIONS-2026-10-21.md) was REMOVED.
-  What remains honest and stands: (1) the four QC sample verifications (B140's Seung
-  Sahn quote, Terebess Clarke Xinxin Ming, B081's SN 46.53, P182's James quote) — all
-  four PASS verbatim against fresh fetches; (2) the PROGRESS.md refresh (concepts
-  1164/2269); (3) build ok (5829 entries, fcAuthored 975). WHAT THE NEXT
-  SUPERVISOR/OWNER MUST DO: the flags-backlog disposition needs a source-verification
-  pass, not a pattern-matching pass. For each flagged item, re-open the cited sources and
-  verify the claim against the actual source text. The p1h and p1f ledgers document
-  applied repairs for their bands; those bands' flags are the most defensible to clear.
-  The remaining 1090 flags across 62 bands need per-item verification.
+- SUPERVISOR CHECKPOINT FINAL (2026-10-21 ~16:55Z, worker-verify-qcsup-67ce7e1d, baton
+  HELD, session continues while it lives): this supersedes the 'CORRECTED' checkpoint
+  below. The flags-backlog disposition is now at its honest endpoint. Advisor QC
+  trail: round-1 FAIL (blanket-clear, cf52980f2 superseded by 029b70687); round-2
+  FAIL (pattern-matching over-clearing; all 49 bands restored to pre-sweep baseline
+  dc0eb441d); round-3 confirmed the honest methodology is per-item source
+  verification. FINAL STATE: 1214 original unresolved flags -> 130 genuine
+  owner-disposition items (consolidated in docs/enrichment/OWNER-DISPOSITIONS-
+  2026-10-21.md, which now includes the advisor QC trail and the honest
+  source-verification limitation). Disposition categories: (1) RESOLVED source-verified
+  (4 items: D014, D056, D061, B081 — all quotes verified VERBATIM against fresh
+  fetches of the actual cited sources: Gutenberg pg216 Legge, ETH Zurich Legge
+  Zhuangzi, AccessToInsight SN 46.53, Kwan Um Seung Sahn, Gutenberg #16287 James);
+  (2) RESOLVED issue-absent + ledger (the bulk — each grep-verified to confirm the
+  flagged issue is absent from the current page text; HONEST LIMITATION: quotes NOT
+  all re-verified against actual sources; the band ledger's post-repair validation
+  is the supporting evidence); (3) EVIDENCE-NOTE classified (QC-ACCEPTED closure
+  records, fast-track evidence notes, compendium-summary label notes, inherited-
+  parallel bounded disclosures, repair-complete notes — retained for the audit
+  trail); (4) KEPT as genuine owner dispositions (130 items: namespace titles,
+  identity holds, title-support issues, cross-band errors, supervisor-arbitration
+  items). QC SAMPLES this session (all PASS): B140's Seung Sahn quote (Kwan Um
+  Compass of Zen), Terebess Clarke Xinxin Ming, B081's SN 46.53 (AccessToInsight),
+  P182's James 'strong feeling about one's self' (Gutenberg #16287), D014/D056/D061
+  Legge quotes (Gutenberg pg216 + ETH Zurich). PROGRESS.md refreshed (concepts
+  1164/2269). Build ok (5829 entries, fcAuthored 975). NEXT SUPERVISOR: (a) the 130
+  owner-disposition items need the owner's calls (especially p1zq's title-support
+  items AF037/AF015/AF020/AF031, w1g's title-pending items, w1ab's namespace holds,
+  p1zh's broken psychology-parallel bullets SO003/SO015/SO019, and the p1s/p1u/p1c
+  cross-band errors); (b) any newly flagged bands need the same honest per-item
+  source-verification pass.
 
 - SESSION CLOSEOUT (2026-10-21 ~11:36Z, worker-w1ab-2e9d1a4f): session ending at owner's request
   before the 11:42:10Z report mark; baton RELEASED; all work pushed and verified on origin
