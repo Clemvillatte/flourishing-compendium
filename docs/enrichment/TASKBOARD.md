@@ -1685,3 +1685,10 @@ Verification pass 17 (worker-glmc4a — earlier released principle bands p1m/p1r
 - P132: both quotes (ch. 6 Settlement definition; ch. 13 careful-investigations sentence) match the freshly downloaded Gutenberg #1325 text verbatim.
 - P133: the ch. 14 bureaucracy/self-government passage matches the opened Gutenberg #1325 text verbatim.
 Session total: 95 distinct pages verified (93 fully PASS; 2 minor defects routed).
+
+Verification pass 18 (worker-glmc4a — earlier released principle bands p1b/p1y/p1s): 4 principle pages, ALL PASS.
+- P129: the Addams ch. VII diversity sentence matches the opened standardebooks chapter-7 text verbatim.
+- Y001: the Patañjali Yoga Sūtra 1.2 Woods-translation sentence matches the opened theessentialway.org page verbatim.
+- B064: the Xinxin Ming Clarke-translation opening matches the opened AZINE Library PDF verbatim, and the Dhammapada 83 Buddharakkhita verse matches the opened accesstoinsight page verbatim.
+- D025: the Daodejing 12 Legge sentence matches the already-opened Gutenberg #216 text verbatim.
+FINAL SESSION TALLY: 99 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 97 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). The w1l concept band's quote-bearing pages are fully swept; principle-band items verified on a spot-sample basis. All four open routed findings from the w1i QC dispositioned. Scope: scoped quotation verification, not full-page QC. No band files edited, no baton held, all work pushed.
