@@ -66,7 +66,8 @@
   "Feng shui (harmonious environment)",
   "Festinger",
   "Habermas",
-  "Haslam et al"
+  "Haslam et al",
+  "Henrich et al"
  ],
  "in_progress": null,
  "flagged": {
@@ -108,10 +109,11 @@
   "Kalokagathia": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Integrity (integritas: wholeness)": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Intuitive eating": "QC round 2 repairs applied and pushed; QC re-verification pending",
-  "Haslam et al": "bare author-year stub title; enriched as Haslam et al 2009 editorial social-cure; suggest supervisor rename to a topical title"
+  "Haslam et al": "bare author-year stub title; enriched as Haslam et al 2009 editorial social-cure; suggest supervisor rename to a topical title",
+  "Henrich et al": "bare author-year stub title; enriched as the WEIRD review (Henrich, Heine, Norenzayan 2010); suggest rename"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:05:49+00:00",
+ "updated": "2026-10-21T08:06:26+00:00",
  "band_done": false
 }
