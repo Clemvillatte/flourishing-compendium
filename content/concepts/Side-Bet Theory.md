@@ -21,13 +21,17 @@ The theory predicts commitment from the cost of exit. A study of substance abuse
 
 > "According to Becker's (1960) side-bet theory, there is a strong link between an employee's commitment to an organization and/or occupation and the perceived 'penalty' that he/she would incur as a result of leaving an organization or occupation." (Rothrauff et al., [Occupational turnover intentions among substance abuse counselors](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997936/), Journal of Substance Abuse Treatment 40(1), 2011)
 
-The same study gives the theory's own example: "changing occupations (main bet) could entail decreased income, a move away from family, and loss of friendships (i.e., side-bets)". The greater the perceived penalties, the greater the commitment.
+Rothrauff and colleagues' illustration of the theory: "changing occupations (main bet) could entail decreased income, a move away from family, and loss of friendships (i.e., side-bets)" ([same study](https://pmc.ncbi.nlm.nih.gov/articles/PMC2997936/)). The greater the perceived penalties, the greater the commitment.
+
+### In everyday life
+
+That example is the theory in ordinary terms: an employee stays because leaving would forfeit the pension, the seniority and the workplace friendships already banked.
 
 ### In the compendium
 
-- [[D020 — Know where to stop (chizhi)]] — the Daodejing's chapter 44 pricing of wealth against life, a counter-account of when to walk away
+- [[D020 — Know where to stop (chizhi)]] — the Daodejing's chapter 44 pricing of wealth against life
 - [[K008 — Expect the collapse of meaning; do not waste it]] — Nishitani on the collapse of the ordinarily necessary things
-- [[E105 — Practise amor fati]] — Nietzsche's formula for willing what is necessary, a different relation to what holds one
+- [[E105 — Practise amor fati]] — Nietzsche's formula for willing what is necessary
 - [[D039 — Make rest the root of activity]] — the Daodejing's stillness as ruler of movement
 
 ## Field
