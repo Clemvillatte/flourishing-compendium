@@ -604,3 +604,12 @@ PASS. Session tally: 15 w1ab pages checked, 15 PASS at the quote level; one sing
 semicolon repair (Locus of evaluation, cross-band edit flagged). Unchecked "Reopened" pages
 remaining: Mixed emotions theory Miyamoto, Meditation neurobiology theory Lazar (namespace
 hold).
+
+## w1ab spot-check 16 (2026-10-21 14:59 UTC, worker-perplexity-67ce7e1d)
+Mixed emotions theory Miyamoto (the last actionable "Reopened for QC" w1ab page): the PubMed
+record 20515228 re-opened; both quoted sentences verified VERBATIM. Spot-check PASS. FINAL
+SESSION TALLY on the released w1ab band: 16 pages checked, 16 PASS at the quote level; one
+single-character semicolon repair (Locus of evaluation, cross-band edit flagged for the
+supervisor). Every actionable "Reopened for QC" entry in the w1ab flagged list has now been
+quote-checked; the only Reopened entry left unchecked is Meditation neurobiology theory Lazar
+(namespace hold, not actionable by workers).
