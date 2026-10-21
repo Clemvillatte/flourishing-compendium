@@ -1,3 +1,5 @@
+# Handoff (start here)
+
 - WORKER CHECKPOINT p1zzg (2026-10-21 ~04:52Z, worker-p1zzg-f6a2bf71, T+60 REPORTING CHECKPOINT
   — reporting only, baton HELD, work continues while the session lives): took over the
   stale band at 7/30. (1) SIX INHERITED QC FLAGS: verified per-artifact and
@@ -10,33 +12,34 @@
   (Gutenberg #15877 fetched, section number verified), advisor round-1 repairs
   applied (locator, unestablished inferences, aphorism closer, example label).
   Both pages validate ok. EXACT NEXT ACTION: `python3 scripts/enrich_state.py
-  p1zzg start S110` — wait, S110 is done; next manifest item after S138 is SE013:
-  `python3 scripts/enrich_state.py p1zzg start SE013`. Remaining manifest order:
+  p1zzg start SE013` (next manifest item after S138). Remaining manifest order:
   SE013, SE020, SE033, SE038, SE041, SE057, SE067, SE072, SO005, SO009, SO021,
   SO036, SO042, SO050, SO063, SP007, SP017, SP021, SP022, SP025, SP028 (21 items;
   9/30 done). Advisor QC due at the item-5 milestone of this session's items
   (S132+S138 are items 1-2). Batons: p1zzg held, clocking in.
 
-# Handoff (start here)
-
-- CURRENT SUPERVISOR (2026-10-21 ~04:0xZ, supervisor-81d2d905, LIVE — pass 1 logged in the
+- CURRENT SUPERVISOR (2026-10-21 ~04:0xZ, supervisor-81d2d905, LIVE — passes 1-3 logged in the
   OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Pass 1:
   p1zzb proposals integrated (8 reciprocals, 8 files, all diffs inspected pure insertions,
   post-apply FAILs pre-existing); reserves p1zzj/p1zzk/p1zzl minted (30+30+9 — the unassigned
   principle pool is now FULLY DRAINED; five OPEN reserves: p1zzh/p1zzi/p1zzj/p1zzk/p1zzl);
   samples Festinger (2 defects found and repaired: Derivation-A relabel, source capitalization
-  preserved) and S114 (PASS). A TOOLING WARNING is now on the TASKBOARD: enrich_stats.py
+  preserved) and S114 (PASS). Pass 2: new-worker samples AF029 (p1zzc) and SP029 (p1zzh) both
+  PASS; the p1zzb-routed Kraus et al. 2012 SO-Appendix miscite repaired (PubMed PMID 22775498);
+  the four w1b deferred recovery records confirmed already satisfied (no action). Pass 3:
+  p1zzh proposal applied (1 reciprocal into Freedom, Spinoza I D7 clause); X026 sampled —
+  quote verified vs the Whitman Archive variorum, ONE truncation defect ROUTED to the live
+  p1zzc owner (TASKBOARD note). A TOOLING WARNING is on the TASKBOARD: enrich_stats.py
   rewrites queue-principles.json as a side effect — restore it after any stats run, never
   commit an unintended regeneration (this supervisor's own --weak 1 run emptied it locally;
-  caught and restored before any commit). NEXT SUPERVISOR ACTIONS: (1) monitor for worker
-  claims on the five OPEN reserves and the stale bands p1zzc (9 left) / p1zzg (23 left);
-  (2) standing owner dispositions unchanged (AF037 title, BI013≈BE037 / BI033≈BE042
-  near-duplicates, AF050 Rumination alias, M044 That-of-God alias, M010 perspective-taking
-  alias, broken concept targets [[Panta rhei]] / [[Quick to hear, slow to speak]]);
-  (3) re-apply deferred reciprocals when their target bands free up (w1b recovery t4/t5/t14/t17
-  + the w1b five 'listed for comparison' records); (4) sample new workers' first items;
-  (5) note the apply-tooling archive behavior (applied/<band>.json rewritten to only the
-  newly applied records — historical records recoverable in git; flagged in the QC log).
+  caught and restored before any commit). NEXT SUPERVISOR ACTIONS: (1) monitor the live
+  workers (p1zzc fresh — X026 route pending; p1zzg fresh; p1zzh fresh, producing) and sample
+  their next milestones; (2) verify the X026 route lands; (3) standing owner dispositions
+  unchanged (AF037 title, BI013≈BE037 / BI033≈BE042 near-duplicates, AF050 Rumination alias,
+  M044 That-of-God alias, M010 perspective-taking alias, broken concept targets [[Panta rhei]]
+  / [[Quick to hear, slow to speak]]); (4) note the apply-tooling archive behavior
+  (applied/<band>.json rewritten to only the newly applied records — historical records
+  recoverable in git; flagged in the QC log).
 
 - SUPERVISOR CHECKPOINT (2026-10-21 ~03:5xZ, supervisor-7c2a91e4 — same session as
   worker-p1zza-7c2a91e4, closing the session's outstanding items): took the
