@@ -28,6 +28,7 @@ The wiki's practices split along the same lines: attention practices (S084, AF06
 
 
 
+
 - [[Broaden-and-build]] — gratitude as positive affect that widens thought and builds resources
 - [[Hedonic adaptation]] — the taking-for-granted that gratitude counters
 - [[Savoring]] — attending to the good while it is here; gratitude's present-tense cousin
@@ -39,6 +40,7 @@ The wiki's practices split along the same lines: attention practices (S084, AF06
 - [[Joy]] — a neighbouring positive state the compendium treats as trainable attention
 - [[Prosocial spending]] — spending money to benefit others (Dunn, Aknin & Norton 2008)
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
+- [[SP022]] — A Spinozist account of gratitude as wanting to benefit someone who has benefited us out of love.
 ## Sources
 
 - [Emmons and McCullough, "Counting Blessings Versus Burdens," JPSP 84(2) 2003, pp. 377-389](https://emmons.faculty.ucdavis.edu/wp-content/uploads/sites/90/2015/08/2003_2-Emmons_McCullough_2003_JPSP.pdf) — the classic experiment, in full text

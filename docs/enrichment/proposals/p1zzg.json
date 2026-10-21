@@ -2,24 +2,10 @@
  "inline": [],
  "reciprocal": [
   {
-   "into": "Mind-body parallelism",
-   "link": "SP007 \u2014 Keep thought and world in parallel",
-   "why": "SP007 states the parallelism as Spinoza's Ethics II Prop. VII proposition: the order and connection of ideas is the same as the order and connection of things"
-  },
-  {
    "into": "Envy",
-   "link": "SP021 \u2014 Take envy seriously as hatred",
+   "link": "SP021 — Take envy seriously as hatred",
    "why": "Spinoza's definition connects envy with pain at another's good fortune and pleasure at their misfortune."
-  },
-  {
-   "into": "Gratitude",
-   "link": "SP022 \u2014 Practice gratitude as repayment of love",
-   "why": "A Spinozist account of gratitude as wanting to benefit someone who has benefited us out of love."
-  },
-  {
-   "into": "Conatus",
-   "link": "SP028 \u2014 See decisions as victories of the strongest appetite",
-   "why": "For comparison: Spinoza's account of mental decision and bodily appetite in Ethics III.2."
   }
- ]
+ ],
+ "notes": " | deferred at this run (target band busy): 1 recip, 0 inline"
 }
