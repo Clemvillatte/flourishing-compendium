@@ -49,7 +49,8 @@
   "Triple Vulnerability Model",
   "Tiny habits (Fogg)",
   "Theory-theory of cognitive development",
-  "Cognitive dissonance"
+  "Cognitive dissonance",
+  "Akrasia"
  ],
  "in_progress": null,
  "flagged": {
@@ -93,10 +94,11 @@
   "Triple Vulnerability Model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barlow's own 2014 'Origins of Neuroticism' open PDF opened and triple-vulnerability passage quoted verbatim; 2000 founding paper cited as abstract-read only; validated --fast-track",
   "Tiny habits (Fogg)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): B=MAP quote verified verbatim from Fogg's own behaviormodel.org (opened); FBM summary + Ability Chain quote verified verbatim from opened BMC Public Health scoping review; the book (Fogg 2019) is copyrighted — method described from opened review's documentation of interventions, ABC recipe not quoted from unopened carriers; validated --fast-track",
   "Theory-theory of cognitive development": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Gopnik 1996a p.486 + Gopnik & Meltzoff 1997 p.214 quotes verified verbatim via opened Faucher et al. 'Baby in the Lab-Coat' PDF (Rutgers); identicality thesis stated by critics from same opened paper; critique included for balance; validated --fast-track",
-  "Cognitive dissonance": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Festinger 1957 ch.1 definition + hypotheses + magnitude quotes verified verbatim via opened panarchy.org reproduction of Chapter One; Festinger & Carlsmith 1959 experiment described from theory's standard account (result figures not quoted, not opened); validated --fast-track"
+  "Cognitive dissonance": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Festinger 1957 ch.1 definition + hypotheses + magnitude quotes verified verbatim via opened panarchy.org reproduction of Chapter One; Festinger & Carlsmith 1959 experiment described from theory's standard account (result figures not quoted, not opened); validated --fast-track",
+  "Akrasia": "fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): page was already enriched in an earlier session (IEP Aristotle's Ethics citation, A056/A059/SP026 principle links) but state never marked done; validated --fast-track against pre-session baseline, no changes needed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:39:00+00:00",
+ "updated": "2026-10-21T16:39:12+00:00",
  "band_done": false
 }
