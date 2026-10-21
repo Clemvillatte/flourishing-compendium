@@ -19,11 +19,11 @@ The IEP's account notes that for Deleuze repetition has traditionally been subje
 
 - [[P101 — Repeat with difference — never pure repetition]]: carries the thesis as a practice instruction
 - [[P002 — Treat the world as events and doings, not things and substances]]: a process-first ontology
-- [[ST308 — Deliberate Practice]]: practice as repetition with variation
-- [[K148 — Variation against the story]]: variation used against fixed stories
-- [[CO056 — Use memory deliberately — encoding and retrieval matter]]: each retrieval re-encodes
-- [[K393 — The Habit Releaser]]: loosening automatic repetition
-- [[K241 — Seasonal redesign]]: redesigning with the seasons
+- [[ST308 — Deliberate Practice]]: deliberate practice
+- [[K148 — Variation against the story]]: variation against the story
+- [[CO056 — Use memory deliberately — encoding and retrieval matter]]: memory encoding and retrieval
+- [[K393 — The Habit Releaser]]: the habit releaser
+- [[K241 — Seasonal redesign]]: seasonal redesign
 
 ## Sources
 
