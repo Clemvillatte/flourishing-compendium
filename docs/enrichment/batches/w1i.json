@@ -88,11 +88,12 @@
   "Body schema": "milestone QC CLOSED 2026-10-21 (advisor round 3): substantive PASS; Vallar citation added to the first tools sentence; seed-baseline checks 4/4 ok",
   "Benign versus malicious envy": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; NAMESPACE INTEGRATION PENDING (proposals from citing principles to the granulars; full relational-exposition rewrite) — not a namespace-complete claim; granulars recorded as source-backed pages with saturation/integration pending",
   "Discipline of rest": "concept-status: compendium heading; the opened Rule passages describe rest regulated by rule, but the phrase itself was not verified as a source-defined term (QC round 2, worker-w1i-3a9d2f7e); supervisor disposition welcome",
-  "Designing for virtue": "concept-status RESOLVED (QC round 2): grounded in Desmet & Pohlmeyer 2013 Positive Design Framework via opened Pohlmeyer & Desmet 2017; the seed's Aristotle attribution kept as a labeled parallel (the Politics passage does not name the concept)"
+  "Designing for virtue": "concept-status RESOLVED (QC round 2): grounded in Desmet & Pohlmeyer 2013 Positive Design Framework via opened Pohlmeyer & Desmet 2017; the seed's Aristotle attribution kept as a labeled parallel (the Politics passage does not name the concept)",
+  "Naming the passions": "concept-status: compendium heading (Category C pattern) — the phrase is not Spinoza's; body grounded in Ethics III Definitions of the Emotions; owner disposition welcome"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T10:38:34+00:00",
+ "updated": "2026-10-21T10:40:53+00:00",
  "band_done": false,
  "new_concepts": [
   {
