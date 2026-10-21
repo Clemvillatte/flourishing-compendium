@@ -49,3 +49,7 @@ verbatim (the transcription's "that might conceivably" matches the draft). No re
 Sona Sutta AN 6.55 (Thanissaro) re-opened; the four quotations verified verbatim, including
 the translator's bracketed insertion printed as such. No repairs needed. (s1d-008 had one
 trailing comma restored, see commit 7e7c21971.)
+
+## s1d-003 quote verification (2026-10-21 13:52 UTC, worker-perplexity-67ce7e1d)
+RMG longitude article re-opened; all five quoted sentences verified verbatim. No repairs
+needed. (The st-andrews carrier's quotes were not re-checked this pass.)
