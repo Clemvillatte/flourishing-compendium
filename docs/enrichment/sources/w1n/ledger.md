@@ -226,3 +226,43 @@ bar §1a applies per item where degree < 15; the first ten items all had < 15 co
 - sources_checked: 21 items worked, all with at least one opened carrier; see entries
   above. Advisor QC milestones held at items 1, 5, 10 and 15; no milestone QC due
   before item 20 beyond repairs already recorded.
+
+## Embedded cognition
+
+- Track: fast-track (degree < 15).
+- Opened: Shapiro & Spaulding, SEP Embodied Cognition (plato.stanford.edu/entries/embodied-cognition/).
+  Embedded-cognition load sentence, task examples, and the embedded-vs-extended boundary
+  sentences verbatim.
+
+## Emotion differentiation
+
+- Track: fast-track (degree < 15).
+- Opened: Wang et al., Human Brain Mapping, PMC11626486 (definition quote verbatim) plus
+  Linn et al., Journal of Clinical Psychology, PMC8800422 (regulation-link quotes verbatim).
+  Two earlier PMC candidates (PMC10114667, PMC12572470) had no usable definition — discarded.
+
+## Episodic future thinking
+
+- Track: fast-track (degree < 15).
+- Opened: Song et al., Frontiers in Public Health, PMC13655094 (fetched verbatim). EFT
+  definition, future-scenario mechanism, and delay-discounting evidence sentences verbatim.
+
+## Equipment revealed only in breakdown
+
+- Track: fast-track (degree < 15).
+- Opened: Wrathall, SEP Martin Heidegger (plato.stanford.edu/entries/heidegger/). SZ 73
+  breakdown sentences and available-entity sentences verbatim; an invented missing-pen/jammed-road
+  example was removed (not in the opened text).
+
+## Escape Theory
+
+- Track: fast-track (degree 4).
+- Opened: Joshua et al., Clinical Psychology & Psychotherapy, PMC13629275 (binge-eating
+  affect-regulation sentence verbatim) plus Li et al., Frontiers in Psychology, PMC13581934
+  (escape-theory self-evaluation sentences verbatim). Seed's corrupted "Cited in parallels"
+  dash-run section dropped; intact philosophy-parallels list preserved.
+
+## Session totals
+
+- sources_checked: 26. Next manifest item: 'Evolutionary personality theory' (clean handoff,
+  no in-progress item). All work pushed to origin/main; baton w1n held and clocked in.
