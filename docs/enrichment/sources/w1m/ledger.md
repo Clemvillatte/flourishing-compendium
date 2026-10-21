@@ -355,3 +355,22 @@ Walster 1978 p.125, quoted-in) from the fetch extraction of the opened PDF;
 sandbox curl cannot reach that host, so no raw substring check was possible —
 residual verification risk recorded. Berscheid 2010 full text JS-walled at
 Annual Reviews (noted on page).
+
+## PBT/EEMM coverage audit + new pages (worker-w1m-f9f8e50d, session 2026-10-21, owner side-quest)
+Owner asked to verify wiki coverage of the PBT model + EEMM against his
+primary-source copy of Hofmann, Hayes & Lorscheid 2021, Learning Process-Based
+Therapy (Google Drive PDF, downloaded and extracted; quotes substring-checked
+against the extracted text). AUDIT: docs/enrichment/PBT-EEMM-COVERAGE-AUDIT.md.
+NEW PAGES (2 enriched + 7 enriched seeds): Process-based therapy (theory-page
+standard), Extended Evolutionary Meta-Model (theory-page standard), Treatment
+kernels, Context sensitivity, Variation-selection-retention, Tipping point
+(networks), Mediators of change, Tinbergen's four questions, Midlevel terms.
+All quotes verbatim from the book EXCEPT Midlevel terms: sourced from Twohig &
+Levin (USU DigitalCommons PDF) via fetch-service extraction (raw curl blocked);
+residual verification risk recorded. Midlevel terms does NOT appear in the
+Hofmann book — the initial seed attribution was corrected before enrichment.
+25 reciprocal proposals queued in proposals/w1m.json (PBT/EEMM saturation per
+owner request). Judgment calls flagged for owner: Committed action, plain
+Values, six EEMM dimensions as concept pages; thin pages flagged: Network
+theory of psychopathology (deg 5), Relational Frame Theory (deg 1),
+Contextualism (deg 2).

@@ -1,0 +1,130 @@
+{
+ "reciprocal": [
+  {
+   "into": "Psychological flexibility",
+   "link": "Process-based therapy",
+   "why": "the framework that grew from ACT's master process and now organises it in a larger grid"
+  },
+  {
+   "into": "Psychological flexibility",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the grid in which psychological flexibility is classified as a change process"
+  },
+  {
+   "into": "Network theory of psychopathology",
+   "link": "Process-based therapy",
+   "why": "the network modelling PBT uses instead of latent-disease models"
+  },
+  {
+   "into": "Network theory of psychopathology",
+   "link": "Tipping point (networks)",
+   "why": "the abrupt-shift phenomenon network models are watched for"
+  },
+  {
+   "into": "Functional analysis",
+   "link": "Process-based therapy",
+   "why": "the ten-step process-based diagnosis PBT reworks"
+  },
+  {
+   "into": "Functional analysis",
+   "link": "Treatment kernels",
+   "why": "the step that selects which kernel to apply"
+  },
+  {
+   "into": "Functional analysis",
+   "link": "Mediators of change",
+   "why": "the clinical analogue of identifying the mediating pathway"
+  },
+  {
+   "into": "Behavioral activation",
+   "link": "Treatment kernels",
+   "why": "a classic kernel, now understood process-wise"
+  },
+  {
+   "into": "Behavioral activation",
+   "link": "Process-based therapy",
+   "why": "the framework that reads activation as a process method"
+  },
+  {
+   "into": "Experiential avoidance theory",
+   "link": "Process-based therapy",
+   "why": "the most-studied maladaptive process in PBT's ACT lineage"
+  },
+  {
+   "into": "Dynamic systems theory",
+   "link": "Tipping point (networks)",
+   "why": "the stability-and-shift vocabulary tipping points come from"
+  },
+  {
+   "into": "Dynamic systems theory",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the systems vocabulary the grid draws on"
+  },
+  {
+   "into": "Functional contextualism",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the philosophical position underlying the evolutionary grid"
+  },
+  {
+   "into": "Functional contextualism",
+   "link": "Context sensitivity",
+   "why": "the principle functional contextualism generates"
+  },
+  {
+   "into": "Cognitive defusion",
+   "link": "Midlevel terms",
+   "why": "defusion is a paradigm midlevel term"
+  },
+  {
+   "into": "Acceptance",
+   "link": "Midlevel terms",
+   "why": "acceptance is a midlevel term paired with defusion"
+  },
+  {
+   "into": "Relational Frame Theory",
+   "link": "Midlevel terms",
+   "why": "the basic science beneath ACT's midlevel layer"
+  },
+  {
+   "into": "Habit formation",
+   "link": "Variation-selection-retention",
+   "why": "retention is the selection side of habit research"
+  },
+  {
+   "into": "Contextualism",
+   "link": "Context sensitivity",
+   "why": "the worldview of seeing events in context"
+  },
+  {
+   "into": "Cognitive defusion",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the grid that classifies defusion as a cognitive-dimension process"
+  },
+  {
+   "into": "Self-as-context",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the grid that classifies self-as-context as a self-dimension process"
+  },
+  {
+   "into": "Values clarification",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the grid that classifies values as a motivational-dimension process"
+  },
+  {
+   "into": "Present-moment awareness theory",
+   "link": "Extended Evolutionary Meta-Model",
+   "why": "the grid that classifies present-moment work as an attentional-dimension process"
+  },
+  {
+   "into": "Compassion-focused therapy",
+   "link": "Process-based therapy",
+   "why": "a therapy tradition PBT can host through its kernels"
+  },
+  {
+   "into": "Behavior change wheel theory Michie",
+   "link": "Process-based therapy",
+   "why": "a sibling framework for designing behaviour change from a behaviour system"
+  }
+ ],
+ "inline": []
+}
