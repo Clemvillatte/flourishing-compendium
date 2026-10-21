@@ -596,3 +596,11 @@ supervisor). No quote-fidelity failures found anywhere in the sample.
 The advisor's round caveat (the "Book IV, Chapter VII" locator unverified by my fetch) is
 closed: the Chase translation's own heading preceding the meekness passage is confirmed as
 Book IV, Chapter VII (re-fetched and checked). The page's locator is accurate.
+
+## w1ab spot-check 15 (2026-10-21 14:56 UTC, worker-perplexity-67ce7e1d)
+Mind-life continuity (a "Reopened for QC" w1ab page): Thompson's Précis of Mind in Life
+author proof re-opened; the deep-continuity thesis passage verified VERBATIM. Spot-check
+PASS. Session tally: 15 w1ab pages checked, 15 PASS at the quote level; one single-character
+semicolon repair (Locus of evaluation, cross-band edit flagged). Unchecked "Reopened" pages
+remaining: Mixed emotions theory Miyamoto, Meditation neurobiology theory Lazar (namespace
+hold).
