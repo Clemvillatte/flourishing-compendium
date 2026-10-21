@@ -122,6 +122,10 @@ no literature-review tone, no citation clutter beyond what grounds the claims. T
 everyday-life section carries the theory's value for the reader's life; the
 compounding connection is why the page exists. Scholarly apparatus (verbatim
 theorist quotes, locators) stays — but it serves the reader, not the discipline.
+Assume a reader with grounding in psychological science and philosophy: keep the
+technical precision, and orient it toward lived experience, workable
+distinctions and useful implications rather than broad academic surveying —
+not dumbed down, real-life, workable, pragmatic.
 
 ## The skeleton
 
