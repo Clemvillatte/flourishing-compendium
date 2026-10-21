@@ -7,11 +7,11 @@ file: "The logos common to all"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The logos common to all is Heraclitus' claim that the order by which all things happen is public: one account, holding always, that anyone can hear and no one owns. His fragments introduce it and complain that most people live as if they had a private one instead.
+The compendium's heading "the logos common to all" follows Heraclitus' references to what is common. In the opened Burnet translation, fragment 2 contrasts the common Word with the many living as if they had wisdom of their own.
 
 ### Heraclitus' ground
 
-The book opens on the Word:
+In Burnet's translation, fragment 1 reads:
 
 > "Though this Word is true evermore, yet men are as unable to understand it when they hear it for the first time as before they have heard it at all. For, though all things come to pass in accordance with this Word, men seem as if they had no experience of them..." (Heraclitus, fragment 1, trans. John Burnet, [Fragments of Heraclitus, Wikisource](https://en.wikisource.org/wiki/Fragments_of_Heraclitus_(annotated)))
 
@@ -23,14 +23,14 @@ And its political shape:
 
 > "Those who speak with understanding must hold fast to what is common to all as a city holds fast to its law, and even more strongly. For all human laws are fed by the one divine law. It prevails as much as it will, and suffices for all things with something to spare." (fragment 114, same translation)
 
-The same thought is compressed into three words elsewhere in the collection: "Thought is common to all" (fragment 113). What is common is not an average of opinions but the structure that opinions are about.
+The same thought is compressed into three words elsewhere in the collection: "Thought is common to all" (fragment 113).
 
 The fragments carry a practice as much as a doctrine. Heraclitus' complaint is that people live as if their private impressions were the world's account, and the demand that follows is to hold fast to what is common the way a city holds fast to its law. The compendium's principles take it as a discipline of de-centring: the shared structure outranks the private impression, and one's own account is one hearing of the Word, not its owner.
 
 ### In the compendium
 
-- [[S006 — Remember that you are a citizen of the cosmos]] — the Stoic inheritance of the idea: the city of the cosmos and its law
-- [[SP049 — Trust what is common to all]] — Spinoza's Ethics II, proposition 38: what is common to all and equally in the part and the whole can only be conceived adequately
+- [[S006 — Remember that you are a citizen of the cosmos]]
+- [[SP049 — Trust what is common to all]]
 
 ## Related concepts
 

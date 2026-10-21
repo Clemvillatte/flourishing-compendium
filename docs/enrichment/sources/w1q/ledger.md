@@ -559,3 +559,31 @@ damage, w1ab left to its live holder.
 - Items 1-7 (limits of reason, logos, the look, many selves, mirror for others,
   peace that passes, the sacred) remain QC-pending: advisor requires the actual
   drafts, not summaries. Next session: full-draft QC round.
+
+## QC ROUND 3 — 2026-10-21T16:14Z, worker-pplxy-7f3d1a9c
+- Advisor QC (full drafts) on items 1-7: 7 scoped FAILs, all repairs applied and
+  re-validated (7 ok, 0 failed, warnings only for short Related sections at
+  fast-track bar):
+  - Limits of reason: opening narrowed to advisor form; "instrument" paragraph
+    replaced; all four principle clauses removed (bare links), incl. the
+    unsupported medical-mood gloss.
+  - Logos: opening narrowed; "The book opens on the Word" → "In Burnet's
+    translation, fragment 1 reads:"; "not an average of opinions" synthesis
+    deleted; S006 Stoic-inheritance and SP049 clauses removed (bare links).
+  - The look: four principle clauses removed (bare links), removing the
+    unverified inline "I am my acts" gloss.
+  - Many selves: opening narrowed to social-selves scope; pathology sentence
+    replaced by James's own discordant/harmonious division framing; four
+    principle clauses removed (bare links).
+  - Mirror for others: opening narrowed; "influence not exerted directly but
+    reflected" paragraph deleted; four principle clauses removed (bare links);
+    "mirror" treated as the compendium's editorial heading.
+  - Peace that passes: opening narrowed; garrison interpretation and
+    "same shore from two sides" paragraphs deleted; Spinoza comparative glosses
+    removed (bare links); narrow verse sentence kept.
+  - The sacred: opening narrowed; Durkheim-theory paragraph now attributed to
+    Wikipedia's account and verified against the saved Wikipedia carrier
+    (group-interests and profane sentences substrings of the raw text);
+    "boundary a community draws" synthesis deleted; Facets "in nature" labelled
+    unexamined seed grouping; all five unopened sources labelled in Sources
+    list; principle clauses removed (bare links).

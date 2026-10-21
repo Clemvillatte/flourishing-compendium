@@ -7,7 +7,7 @@ file: "The mirror for others"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The mirror for others is the idea that a person's effect on other people begins with what they have made of themselves: before dealing with others, expecting them to be affected, deal with yourself. The seed names Mencius, on the great person's influence.
+The compendium's heading "the mirror for others" points here to Mencius' advice to examine oneself when one's actions do not bring the desired response.
 
 ### Mencius' ground
 
@@ -27,10 +27,10 @@ The passage the chapter closes with ties the inward turn to something received r
 
 ### In the compendium
 
-- [[M048 — Be a torch and a mirror]] — the Nahua wise man, "a light, a torch, a stout torch that does not smoke. A perforated mirror"
-- [[D128 — Learn from everyone]] — Daodejing 27: the good man is the teacher of the bad, the bad man the lesson of the good
-- [[A078 — Recognise that the best friendship is between the good]] — Aristotle's friendship of the good, in which each is the other's mirror
-- [[ST104 — Rorty's Vocabularies as Tools]] — the compendium's story of vocabularies as tools of influence
+- [[M048 — Be a torch and a mirror]]
+- [[D128 — Learn from everyone]]
+- [[A078 — Recognise that the best friendship is between the good]]
+- [[ST104 — Rorty's Vocabularies as Tools]]
 
 ## Related concepts
 

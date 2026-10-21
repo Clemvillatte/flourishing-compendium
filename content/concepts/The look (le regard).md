@@ -17,10 +17,10 @@ The Stanford Encyclopedia's Sartre entry describes the experience: absorbed at a
 
 ### In the compendium
 
-- [[E035 — Practise the gaze of the Other (le regard)]] — the keyhole case, "I am my acts", and the account of the self that appears only under the Other's gaze
-- [[E067 — Practise the look (le regard) as ontological]] — the look as how another subject enters your world, not a feeling about people
-- [[A067 — Practise equality in friendship]] — the counter-practice: mutual regard without mastery
-- [[K015 — Let things be what they are, on their own bottom]] — Nishitani's reversal of the instrumental gaze, letting things appear without being seized as objects
+- [[E035 — Practise the gaze of the Other (le regard)]]
+- [[E067 — Practise the look (le regard) as ontological]]
+- [[A067 — Practise equality in friendship]]
+- [[K015 — Let things be what they are, on their own bottom]]
 
 ## Related concepts
 
