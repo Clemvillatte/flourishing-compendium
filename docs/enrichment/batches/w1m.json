@@ -6,8 +6,7 @@
   "The job demands-resources model",
   "Steelmanning the opposing view",
   "The limits of introspection",
-  "The ontological difference",
-  "The culturally embedded self"
+  "The ontological difference"
  ],
  "in_progress": null,
  "flagged": {
@@ -16,7 +15,7 @@
   "Steelmanning the opposing view": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The ontological difference": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 3): scoped prose-and-quotation PASS after the punctuation restoration and citation placement. Validated ok --fast-track vs pre-enrichment baseline abca149^. Item-5 milestone CLOSED as scoped PASS (namespace resolution and whole-band certification excluded).",
   "The limits of introspection": "NEAR-DUPLICATE FLAG (2026-10-21, worker-p1zzg-8c31f0a7): w1l's 'Limits of introspection' covers the SAME construct (Nisbett & Wilson 1977). DUPLICATE IDENTIFIED; w1m cross-reference added from this page (no reciprocal demonstrated); OWNER/SUPERVISOR DISPOSITION PENDING. Advisor QC round 3: scoped prose-and-quotation PASS (revised prose and displayed quotations). Validated ok --fast-track vs pre-enrichment baseline 7e9d5a3^.",
-  "The culturally embedded self": "QC-PENDING (2026-10-21, worker-p1zzg-8c31f0a7): 6th fresh item this session, advisor QC not yet run; the Taylor p. 27 fragment verified verbatim vs the opened MacIntyre review (book not opened; only the review-printed fragment quoted); supervisor sample requested"
+  "The culturally embedded self": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 1): the opened MacIntyre-review excerpt establishes Taylor's account of identity through commitments and evaluation, but NOT the specifically 'culturally embedded' framing of this heading \u2014 a source-support gap, not proof the concept is fictitious. Bounded prose saved as work in progress; done-mark REMOVED (reopened via the state workflow); supervisor/owner disposition requested: either an academic passage supporting the cultural/dialogical constitution of selfhood (then re-close), or a namespace decision on the heading. The Taylor p. 27 fragment is verified verbatim vs the opened review; the book itself was not opened (no carrier available this session). Validated ok --fast-track vs baseline dd56576^."
  },
  "missing_concepts": [],
  "sources_checked": 0,

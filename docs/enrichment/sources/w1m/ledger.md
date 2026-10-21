@@ -148,3 +148,19 @@
   identity integration (deg 11) verified to exist. Validator ok
   (fast-track). QC-PENDING flag set (6th fresh item, beyond the item-5
   milestone; supervisor sample requested).
+
+## The culturally embedded self — QC round 1 (advisor, 2026-10-21)
+
+- Round-1 verdict: FAIL as submitted; repairs applied: the
+  Catholic/anarchist + Armenian/Quebecois examples and the
+  abstraction-from-self-interpretations sentence DELETED (search-snippet
+  support only — not opened carriers); opening narrowed to the advisor's
+  bounded sentence; the quote now introduced as MACINTYRE'S QUOTATION of
+  Taylor (splice preserved); Related glosses removed; access note moved
+  here: the book itself was NOT opened this session. BRLSI note
+  corrected: its wording DIFFERS from MacIntyre's — no claim that either
+  is a typo is established.
+- IDENTITY-SUPPORT HOLD: the opened excerpt does not establish the
+  specifically 'culturally embedded' framing as a defined Taylor concept.
+  Done-mark removed (reopened); bounded prose saved as WIP; supervisor
+  disposition requested (see the state flag).
