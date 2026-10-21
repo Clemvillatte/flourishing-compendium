@@ -36,3 +36,20 @@ supervisor-pending holds routed). Owner priority applied: Buddhist cluster first
   not stated on the opened page, so no date asserted. Validator fast-track: ok.
 - QC process: first-draft QC-PENDING flags (eb47d93) resolved after repairs
   (d3f2f59, 61c73e0, 07f58bb). All three items done and validated clean.
+
+- Rectification of the mind (fast-track, 2 connections): rewrite from seed. Carrier:
+  The Great Learning (Da Xue), Legge translation, Chinese Text Project
+  (ctext.org/liji/da-xue/ens), OPENED; quotes verified verbatim: the cultivation
+  chain (contiguous substrings) and the absent-mind passage (passion/terror/
+  fond regard/sorrow-and-distress sentence + 'When the mind is not present...').
+  2 Related lines (validator warn, acceptable at fast-track bar).
+- The insatiability of craving (fast-track, 3 connections): rewrite from seed.
+  Carrier: Schopenhauer, World as Will and Idea Vol. 1, Haldane-Kemp, Wikisource,
+  OPENED; §38 quotes verified verbatim ('All willing arises from want...' chain,
+  alms-to-the-beggar image).
+- Missing-page manifest items recorded (not created, per owner new-page rule):
+  Sati (mindfulness) — represented by existing Mindfulness (deg 42) and
+  Anapanasati pages, duplication question routed to supervisor; Turning the mind
+  (DBT skill, candidate after acceptance/willingness check); Ten modes of
+  Pyrrhonian suspension (SEP carrier available); The plain human being and
+  The untroubled mind (referent unclear from queue — supervisor question).
