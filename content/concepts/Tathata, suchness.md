@@ -35,6 +35,7 @@ The Zen tradition keeps the term. The Stanford Encyclopedia's entry on Japanese 
 - [[Buddhist emptiness of inherent nature]] — a further reading question: how does 'suchness' differ from absence of inherent nature?
 - [[Buddha-nature]] — the Zen tradition designates the way of being of "buddha-nature" by this term
 - [[Original enlightenment]] — a neighbouring term in the compendium's Zen hub
+- [[Wu wei]]
 
 ## Sources
 
