@@ -40,3 +40,7 @@
 ## AT076 — Learn to assess and monitor attention
 - Opened: Killingsworth & Gilbert 2010 Science (author-copy PDF text via search + Science abstract page + Harvard Gazette). Quotes verified: sampling question; 46.9% / 30% sentence; "less happy when their minds were wandering".
 - Removed unopened: Zimmerman 2002, Mrazek 2013, Tetlock 2005 (seed claims "self-monitoring improves attentional regulation", "calibration improves with tracking"). Page states no opened source tests logging as an intervention. Invented "9-to-11 a.m." example removed; imagined routine instead.
+
+## BE005 — Behaviour is specific
+- Opened: Gollwitzer & Sheeran 2006 abstract (Konstanz KOPS record; also WorldCat/ScienceDirect snippets agree). Quotes verified incl. d = .65, 94 independent tests, "spells out the when, where, and how of goal striving in advance".
+- Removed unopened: Michie et al. 2011, Martell et al. 2001 claims (kept as bare reference in parallels bullet). Page states meta-analysis tests if-then plans, not specificity of definitions in general. Example imagined, labelled.

@@ -12,15 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 5** — Recognise that behaviour is specific: general "be better" does not work
 
-Behaviour change is specific. "Exercise more" is not a behaviour; "walk 30 minutes after breakfast on weekdays" is. Specificity is the foundation of behavioural change.
+The strongest evidence for this principle concerns plans that name the situation. Gollwitzer and Sheeran start from the observation that "holding a strong goal intention ... does not guarantee goal achievement", and test an implementation intention that "spells out the when, where, and how of goal striving in advance" in the form "If situation Y is encountered, then I will initiate goal-directed behavior X!". Across "94 independent tests", such plans "had a positive effect of medium-to-large magnitude (d = .65) on goal attainment" (Gollwitzer & Sheeran 2006, [University of Konstanz repository](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)). The review also reports benefits for starting, shielding goal pursuit from unwanted influences, and disengaging from failing courses of action.
 
-**Plain words** "Exercise more" is a wish, not a behaviour. The brain can't run a wish — it needs a when, a where, and a how much. Vague goals produce vague results with perfect reliability.
+That meta-analysis tests if-then planning, so the broader claim that any specific behaviour definition is "necessary for change" goes beyond what it shows.
 
-*For example:* "Walk 30 minutes after breakfast, headphones on, out the side door" — that one runs on its own. The difference between the two sentences is the difference between hoping and executing.
+**Plain words**
+"Exercise more" gives you nothing to do at 7 a.m. on a Tuesday. A plan that fixes the when, the where and the first action does. In a review of 94 tests, people who made if-then plans reached their goals more often than people who only held the intention. Turn the goal into a sentence of the form "when X happens, I will do Y".
+
+*For example:* "When I finish breakfast on a weekday, I will put on my shoes and walk for thirty minutes out of the side door." This is an imagined plan in the if-then form the review tested.
+
+## Sources
+
+- [Gollwitzer, P. M. & Sheeran, P. (2006), Implementation intentions and goal achievement: a meta-analysis of effects and processes, Advances in Experimental Social Psychology 38, 69–119 (abstract)](https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f)
+
 ## Psychology parallels
 
-- **Behavioural specificity**, specific, concrete behaviour definitions are necessary for change (Michie et al., 2011; Martell et al., 2001)
-- **[[Implementation intentions|Implementation intentions (Gollwitzer)]]**, specific if-then plans increase goal attainment (Gollwitzer & Sheeran, 2006)
+- **[[Implementation intentions|Implementation intentions (Gollwitzer)]]**, if-then plans had a medium-to-large effect on goal attainment (d = .65) across 94 tests (Gollwitzer & Sheeran, 2006)
+- **Behavioural specificity** (Michie et al., 2011; Martell et al., 2001)
 
 ## Philosophy parallels
 
