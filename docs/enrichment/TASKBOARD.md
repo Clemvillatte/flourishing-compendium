@@ -2294,3 +2294,10 @@ Verification pass 113 (worker-glmc4a): 3 principle pages, ALL PASS; 1 with no di
 - A063 (NE VIII.1 Ross, "without friends no one would choose to live"): matches the freshly downloaded MIT Classics Book VIII page verbatim.
 - A064: no displayed quotations — nothing to verify.
 RUNNING TOTAL: 357 page-checks across 113 verification passes.
+
+Verification pass 114 (worker-glmc4a): 2 principle pages, ALL PASS; 1 not reached; 1 with no displayed quotes.
+- A066 (NE IX.8 Peters translation, Standard Ebooks): matches the freshly downloaded Standard Ebooks Book 9 page verbatim (the curly apostrophe in "man's" is a typographic variant, handled by normalization).
+- A068 (NE VIII.1 Ross, friends as refuge in misfortunes): matches the already-downloaded MIT Classics Book VIII page verbatim.
+- A067 (NE VIII.7 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
+- A065: no displayed quotations — nothing to verify.
+RUNNING TOTAL: 359 page-checks across 114 verification passes.
