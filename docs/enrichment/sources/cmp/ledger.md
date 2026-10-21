@@ -74,3 +74,7 @@ Who-is-guiding citation for Kristin Neff now links to her bio (https://self-comp
 ### KELTNER BIO CITATION FIXED
 
 Dacher Keltner citation now links to his Greater Good profile (https://greatergood.berkeley.edu/profile/dacher_keltner, verified: founding director of the Greater Good Science Center and professor of psychology at UC Berkeley). Eve Ekman's link now names the Greater Good in Action program it points to. Andrew Huberman's Stanford page was attempted (med.stanford.edu/hubermanlab) but blocked from fetching — his citation remains on the YouTube recording link, flagged for the next worker.
+
+### SISTER CHAN KHONG BIO CITATION FIXED
+
+Citation now links to her Plum Village bio (https://plumvillage.org/about/sister-chan-khong/, verified unprompted: first fully-ordained monastic disciple of Zen Master Thich Nhat Hanh, director of his humanitarian projects since the 1960s). Previously it linked to a meditations listing page. Leigh Brasington: his own bio page exists (leighb.com/bio.htm) but the prompt extraction could not confirm a training sentence, so his citation was left unchanged rather than risk a first-extraction claim.
