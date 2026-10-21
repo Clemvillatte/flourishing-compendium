@@ -1090,3 +1090,18 @@ open).
   reciprocity" is grounded in Rackham's own following sentence: "The very
   existence of the state depends on proportionate reciprocity" (same fresh
   fetch). Plain words re-derive the proportion idea. Both components close.
+- **AT003 — Recognise that attention is a limited resource**: RESOLVED. (1)
+  The Kaplan & Berman blockquote ("Research on executive functioning and on
+  self-regulation have each identified a critical resource...") verified VERBATIM
+  against a fresh fetch of the cited PubMed 26162062 abstract. (2) The
+  executive-functioning/self-regulation improvement gloss is the abstract's own
+  claim ("these studies have found improvements in executive-functioning
+  performance and self-regulation effectiveness"). (3) The Hagger 23-lab claim
+  verified against a fresh fetch of PubMed 27474142 ("Multiple laboratories
+  (k = 23, total N = 2,141)... the size of the ego-depletion effect was small
+  with 95% confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI
+  [-0.07, 0.15]"). (4) The ego-depletion replication scoping sentence is
+  correctly labelled the compendium's own (the replication concerns the tested
+  protocol, not the attention-fatigue mechanism). Round-2/3 repairs confirmed
+  on the current page (replication figures in the authors' own terms;
+  unsupported claims absent). All components close.
