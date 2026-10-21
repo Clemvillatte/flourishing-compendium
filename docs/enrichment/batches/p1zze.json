@@ -34,10 +34,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "PP014": "ALIAS DEFECT (supervisor disposition needed): body link '[[Awe|Awe and well-being: a meta-analysis]]' uses a misleading meta-analysis label for the cited studies, which are not meta-analyses; protected markup, do not edit as worker. Re-set 2026-10-21 QC round 4"
+  "PP014": "OWNER DISPOSITION REQUESTED (supervisor-b7e3f9c2, 2026-10-21): alias label 'Awe and well-being: a meta-analysis' is PROTECTED markup (validator rejects label changes — verified); the accurate note now follows the link on the page; the label itself needs the owner's edit"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:30:05+00:00",
+ "updated": "2026-10-21T06:46:38+00:00",
  "band_done": true
 }

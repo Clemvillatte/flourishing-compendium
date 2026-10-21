@@ -37,7 +37,7 @@ These findings do not establish that awe improves health: they are individual st
 ## Psychology parallels
 
 - [[Awe|Awe and the small self]] (Piff et al., 2015)
-- [[Awe|Awe and well-being: a meta-analysis]] (the linked label is inaccurate: Bai et al., 2021 reports six studies on daily stress and life satisfaction, not a meta-analysis)
+- [[Awe|Awe and well-being: a meta-analysis]] (the linked label is inaccurate: Bai et al., 2021 reports six studies on daily stress and life satisfaction, not a meta-analysis; label is protected markup — owner disposition requested)
 - Awe as the strongest predictor of lower IL-6 in two samples (Stellar et al., 2015; correlational)
 
 ## Philosophy parallels
