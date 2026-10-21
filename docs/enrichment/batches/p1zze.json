@@ -34,10 +34,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "PP014": "Reopened for QC: QC round 1: advisor found observational/experimental conflation, unverified Bai quotes, editing-log residue; repairs applied and revalidated"
+  "PP014": "Reopened for QC: QC round 2 repairs: definition quote moved to blockquote with locator, example clause removed, M012/M019/M052/PP042/PP035 unsourced fragments removed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:17:58+00:00",
- "band_done": true
+ "updated": "2026-10-21T06:24:25+00:00",
+ "band_done": false
 }

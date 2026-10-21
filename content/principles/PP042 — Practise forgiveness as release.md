@@ -16,7 +16,7 @@ The best evidence here is on forgiveness interventions, which are structured pro
 
 Self-forgiveness has been tested separately. Griffin and colleagues ran a six-hour workbook trial with 204 students who had wronged someone. Treatment "led to increases in self-forgiveness and decreases in self-condemnation", and the authors added that "replication trials are needed" ([Griffin et al. 2015](https://pubmed.ncbi.nlm.nih.gov/25621588/)). The studies cited here do not support the claim that effects are stronger for interpersonal than for self-forgiveness.
 
-The seed definition (not condoning, excusing or reconciling) is a common one in this literature. No source cited here states it in those words; treat it as a working definition and not as a quotation. Two earlier citations were wrong: Griffin et al. 2015 is a self-forgiveness trial, not a meta-analysis, and the 2014 meta-analysis is by Wade et al.
+The working definition here (not condoning, excusing or reconciling) is not stated in those words by any source cited here; treat it as a working definition, not a quotation. Griffin et al. 2015 is a self-forgiveness trial, not a meta-analysis; the 2014 meta-analysis is by Wade et al.
 
 **Plain words** Structured forgiveness programmes help people let go of resentment, and they tend to ease depression and anxiety somewhat. More time spent on the programme helped more. Self-forgiveness has a promising first trial, and little else was checked here.
 

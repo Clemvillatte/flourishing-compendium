@@ -12,7 +12,11 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 14** — Seek awe
 
-Awe is, in Piff and colleagues' words, "an emotional response to perceptually vast stimuli that transcend current frames of reference". Their research program ran five studies in total (N = 2,078). In a representative national sample, dispositional tendencies to experience awe predicted greater generosity in an economic game. In the follow-up experiments, inductions of awe "increased ethical decision-making (Study 2), generosity (Study 3), and prosocial values (Study 4)". In a naturalistic induction, standing in a grove of towering trees "enhanced prosocial helping behavior and decreased entitlement". The authors report that "the effects of awe on prosociality are explained, in part, by feelings of a small self" (Piff et al. 2015, J Pers Soc Psychol 108(6):883-899, [abstract](https://pubmed.ncbi.nlm.nih.gov/25984788/)).
+Awe, as Piff and colleagues define it:
+
+> "Awe is an emotional response to perceptually vast stimuli that transcend current frames of reference." — Piff, Dietze, Feinberg, Stancato & Keltner 2015, J Pers Soc Psychol 108(6):883-899, [abstract](https://pubmed.ncbi.nlm.nih.gov/25984788/)
+
+Their research program ran five studies in total (N = 2,078). In a representative national sample, dispositional tendencies to experience awe predicted greater generosity in an economic game. In the follow-up experiments, inductions of awe "increased ethical decision-making (Study 2), generosity (Study 3), and prosocial values (Study 4)". In a naturalistic induction, standing in a grove of towering trees "enhanced prosocial helping behavior and decreased entitlement". The authors report that "the effects of awe on prosociality are explained, in part, by feelings of a small self" (Piff et al. 2015, J Pers Soc Psychol 108(6):883-899, [abstract](https://pubmed.ncbi.nlm.nih.gov/25984788/)).
 
 On wellbeing, a six-study paper found that people who tend to feel more awe daily report lower daily stress. After awe was primed, compared with amusement, joy and pride, "individuals reported lower levels of daily stress". The authors conclude that awe "can put daily stressors into perspective in the moment" (Bai et al. 2021, J Pers Soc Psychol 120(4):837-860, [abstract](https://colab.ws/articles/10.1037%2Fpspa0000267)). This is not a meta-analysis.
 
@@ -22,7 +26,7 @@ These findings do not establish that awe improves health: they are individual st
 
 **Plain words** Awe is the feeling of meeting something vast that you cannot fully take in. In studies it makes people feel smaller and act more generously, and it is linked with less daily stress. Whether it improves health is not established.
 
-*For example:* An imagined practice case. Spend an evening under a clear sky far from the city and notice whether the day's worries feel smaller — the studies above measured small shifts of exactly that kind, in helpfulness and self-size, not guaranteed outcomes.
+*For example:* An imagined practice case. Spend an evening under a clear sky far from the city and notice whether the day's worries feel smaller.
 
 ## Sources
 
