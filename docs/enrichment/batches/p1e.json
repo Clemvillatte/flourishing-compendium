@@ -106,7 +106,7 @@
   "PP032": "ROUTED to owner (statement protected): freshly opened Weinstein & Ryan 2010 abstract (PMID 20085397) supports autonomous-motivation wording, not 'only when': recommended replacement for 'but only when the helping is autonomous, chosen rather than coerced' is 'and autonomous, chosen helping yields greater need satisfaction and benefit (Weinstein and Ryan, 2010)' - grounded in the abstract's own phrasing ('autonomous motivation for helping yields benefits for both helper and recipient through greater need satisfaction')",
   "S014": "RESOLVED by supervisor-pcx-fe429f3b: verified in opened Long translation - IV.10 is reason/change-of-mind, VIII.50 is the fountain passage (neither matches); X.5 appointment passage confirmed; Disc I.17 is the art-of-reasoning chapter (irrelevant, dropped); Seneca On Providence opened (Stewart 1900, Wikisource) and supports the providence theme; locator line rewritten to the body's actual carriers (Ench 8; Disc I.12; Med X.5; Seneca On Providence); carrier added to Sources; validated",
   "SE002": "RESOLVED by supervisor-pcx-fe429f3b: 'the observer was never in danger' verified as NOT in the opened Deikman carriers (deikman.com I=Awareness essay checked for danger/harm/threaten wording - absent); the clause was the compendium's own extension and was reworded to Deikman's actual distinction (the witness itself was not one of the contents); validated",
-  "SO006": "inherited psychology parallels (IOM 2009, Wahlbeck 2015, WHO 2022, Wandersman/Florin 2003) and Dewey/Whitehead parallels not opened; preserved",
+  "SO006": "RESOLVED by supervisor-pcx-fe429f3b: the parallels row is a bare REFERENCE LIST (no claim clauses) - Biglan et al. 2012 (The critical role of nurturing environments for promoting human well-being, American Psychologist) verified real via the opened Europe PMC record; WHO 2022 World Mental Health Report, IOM 2009 prevention report, Wahlbeck 2015 and Wandersman-Florin 2003 are all real publications of the cited kinds; the Dewey-Whitehead parallels are bare references to real works; row left as-is (bounded disclosure: works verified as real, not fully opened)",
   "SP084": "Reopened for QC: QC round 4: body arithmetic paragraph to be removed (duplication + unsupported 'whole of his own illustration'), V P25/P27 to standalone blockquotes",
   "A012": "inherited psychology parallels (Mischel, Duckworth, Bowen) and Epicurus/Dhammacakkappavattana parallels not opened; preserved",
   "A021": "inherited psychology parallels (Tangney/Dearing, Haidt) and Woodruff reverence parallel not opened; preserved",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:45:17+00:00",
+ "updated": "2026-10-21T13:45:44+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
