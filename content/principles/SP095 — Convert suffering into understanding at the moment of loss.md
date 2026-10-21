@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 95** — Convert suffering into understanding at the moment of loss
 
-The Spinozist answer to grief, assembled from the whole system: grief is sadness, sadness is diminished power, and the one reliable way to increase power under loss is understanding, the extraction of meaning in the strict sense (what was this, what did it give, what remains). Spinoza's determinism is the grief-work's quiet assistant: what happened could not have been otherwise, and the counterfactual rehearsal is the mind's refusal to hand over the geometry. Practically, in loss, keep the one question alive: what does this make me able to see that I could not see before?
+Spinoza has no chapter on grief. The grief programme is a synthesis, as the locator says, and the nearest textual anchor is Ethics V, Proposition 3: "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof", with the corollary that an emotion comes "more under our control, and the mind is less passive in respect to it, in proportion as it is more known to us" ([Ethics, Part V, Elwes](https://capone.mtsu.edu/rbombard/RB/Spinoza/ethica5.html)). Proposition 6 adds, in an abridged edition, that "insofar as the mind understands all things as necessary, it has a greater power over the affects" ([abridged Ethics](http://www.philosopher.eu/uncategorized/spinoza-ethics-abridged-core/)).
+
+Modern research is less clear on "one reliable way". Park's review of the meaning-making literature says "empirical research has failed to keep up" with theory, that some aspects of the model "appear to be well supported but others are not", and that the quality of meaning-making "may be at least as important as their quantity" ([Park 2010, Psychological Bulletin](https://pubmed.ncbi.nlm.nih.gov/20192563/)). A later paper adds that "there are also abundant studies showing the opposite" of a healthy effect ([Meaning making, adversity, and regulatory flexibility](https://pmc.ncbi.nlm.nih.gov/articles/PMC3565080/)).
 
 (Ethics III, P6 and the affect definitions; V, the remedies as a program; the grief analysis is a synthesis.)
 
-**Plain words** The Spinozist answer to grief: sadness is diminished power, and the one reliable way to increase power under loss is understanding — the extraction of meaning in the strict sense: what was this, what did it teach, what remains. Convert the suffering into understanding at the moment of loss.
+### Scope
 
-*For example:* The widow who, in the worst year, does the strange thing: studies the marriage — its mechanisms, its gifts, its patterns — and the grief doesn't vanish, but it starts carrying cargo instead of just weight. That's the conversion.
+I did not open Calhoun and Tedeschi 2004. Spinoza does not mention bereavement in the passages I read, and the question about what loss lets you see is the compendium's practice, not his.
+
+**Plain words**
+Spinoza says that understanding a feeling takes away its hold. Research on making meaning after loss is promising but mixed, so treat this as an invitation to understand, not as a guaranteed cure.
+
+**For example**
+After a loss, write down one thing you now understand that you did not before. Come back to the page a month later and see whether it still seems true.
+
+## Sources
+
+- [Spinoza, Ethics, Part V (Elwes translation)](https://capone.mtsu.edu/rbombard/RB/Spinoza/ethica5.html)
+- [Spinoza, Ethics, Abridged Core (philosopher.eu)](http://www.philosopher.eu/uncategorized/spinoza-ethics-abridged-core/)
+- [Park 2010, Making sense of the meaning literature (PubMed)](https://pubmed.ncbi.nlm.nih.gov/20192563/)
+- [Meaning making, adversity, and regulatory flexibility (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3565080/)
+
 ## Psychology parallels
 
 - **[[Meaning-making|Meaning-making and post-traumatic growth]]**, the research on the constructed benefits that predict adjustment to loss and trauma (Calhoun and Tedeschi, 2004; Park, 2010)

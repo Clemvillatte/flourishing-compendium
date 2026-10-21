@@ -12,13 +12,28 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 3** — Live by appearances, without adding verdicts
 
-The Pyrrhonist's fourfold observance: follow nature (the body's needs), the affections' pull, the laws and customs, and the craft's rules, all without adding a verdict about how things really are. The woodcutter saws straight without a philosophy of wood; the pilot steers without a theory of the sea. The practice is the subtraction of the added layer, not the paralysis of indecision. Practically, run one day guided entirely by appearances and rules (hunger, schedule, craft standards) with the verdicts suspended, and note the energy saved.
+Sextus Empiricus sets out the fourfold observance in Outlines of Pyrrhonism I.23-24, in Loeb-style translation: "Adhering, then, to appearances we live in accordance with the normal rules of life, undogmatically, seeing that we cannot remain wholly inactive." The four parts are "the guidance of Nature", "the constraint of the passions", "the tradition of laws and customs" and "the instruction of the arts" ([Outlines, Book I, Wofford College PDF](https://sites.wofford.edu/wp-content/uploads/OUTLINES%20OF%20PYRRHONISM.pdf)). He adds "But we make all these statements undogmatically" (same text).
+
+The Stanford Encyclopedia gives I.24 in another rendering: "By the necessitation of feelings, hunger conducts us to food and thirst to drink." It also records a scholarly dispute on whether this commits the Sceptic to any beliefs, citing Barnes's view that these observances need not ([SEP, Sextus Empiricus](https://plato.stanford.edu/entries/sextus-empiricus/)). The stated goal is "quietude in respect of matters of opinion" and "moderate feeling in respect of things unavoidable" (Outlines I.25-26, quoted in [Filozofia](https://www.sav.sk/journals/uploads/0917184910.31577filozofia.2026.81.4.4.pdf)).
 
 (Sextus Empiricus, Outlines, Book I, the fourfold observance; the carpenter example.)
 
-**Plain words** The carpenter saws straight without a philosophy of wood. Live the same way: eat when hungry, follow the law, honour the craft's standards — and skip the added layer of "what is all this really?" for a day. Not paralysis; subtraction. Notice how much energy the verdicts were eating.
+### Scope
 
-*For example:* The cook who has an awful week personally but still shows up, follows the recipe, plates the food, and finds the day is survivable without once deciding what the day "means."
+I did not find the seed's carpenter, woodcutter or pilot images in the passages I opened, so they are not attributed to Sextus here. The claim that suspending verdicts reduces rumination is also not sourced on this page, and I did not test a "day of appearances".
+
+**Plain words**
+Sextus says the Sceptic still eats when hungry, follows custom and law, and practises a craft, while holding back from claims about how things really are.
+
+**For example**
+For one day, handle a task by following your schedule and your craft's standards. Each time you catch yourself judging what the task "really means", note it and return to the next step.
+
+## Sources
+
+- [Sextus Empiricus, Outlines of Pyrrhonism, Book I (Wofford College PDF)](https://sites.wofford.edu/wp-content/uploads/OUTLINES%20OF%20PYRRHONISM.pdf)
+- [Sextus Empiricus (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/sextus-empiricus/)
+- [Epistemology and Ethics in Sextus' Outlines of Pyrrhonism (Filozofia)](https://www.sav.sk/journals/uploads/0917184910.31577filozofia.2026.81.4.4.pdf)
+
 ## Psychology parallels
 
 - **Rumination's cost and the relief of behavioral simplicity**, the findings that suspending evaluation reduces depressive loops (the rumination-inhibition research, as framework)

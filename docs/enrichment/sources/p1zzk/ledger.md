@@ -1,0 +1,2 @@
+## X003 — live by appearances
+- Opened (excerpts): Wofford Outlines PDF (Book I, Hicks/Bury-type wording; translator not stated in excerpt — I wrote "Loeb-style" in prose: CHECK, change if wanted); SEP Sextus; Filozofia article. Seed's carpenter/woodcutter/pilot images not found in opened text; locator mentions "the carpenter example" — not verified. Rumination-inhibition research claim ("as framework") not sourced. Cook anecdote dropped.
