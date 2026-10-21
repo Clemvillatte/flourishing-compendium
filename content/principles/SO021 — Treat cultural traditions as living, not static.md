@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 21** — Treat cultural traditions as living, not static
 
-Treat cultural traditions — religious, philosophical, artistic, culinary, familial — as living practices that change, not static essences to be preserved unchanged. The adaptive stance is to participate in tradition as a living conversation, not to embalm it. This is Gadamer's point: tradition is not the dead weight of the past but the ongoing fusion of horizons.
+Gadamer's account of understanding treats tradition as something the participant helps make:
 
-**Plain words** Traditions are living conversations, not embalmed corpses — they change, absorb, drop things, and pick things up. Participate in the conversation; don't freeze it. The tradition that can't change is already dead.
+> "Tradition is not simply a permanent precondition; rather, we produce it ourselves inasmuch as we understand, participate in the evolution of tradition, and hence further determine it ourselves."
 
-*For example:* The holiday dinner that's unrecognisable to great-grandmother — different foods, different faces, same function. The tradition didn't die; it evolved. That's what living things do.
+(Gadamer, "Truth and Method", 2nd rev. ed., p. 293, [open full text, Internet Archive](https://archive.org/details/gadamer-truth-and-method).)
+
+The compendium applies this to cultural participation: a tradition changes through the people who understand and practise it, and on Gadamer's account those changes are not a failure of preservation — they are how the thing continues at all.
+
+**Plain words** When you take part in a tradition — a holiday, a craft, a way of speaking — you are also moving it. Notice what you keep, what you drop, and what you add. The tradition that no participant can touch is not preserved; it has stopped.
+
+*For example:* Imagined: a holiday dinner unrecognisable to great-grandmother — different foods, different faces — where the same function of gathering is served.
+
+## Sources
+
+- [Gadamer, "Truth and Method", 2nd rev. ed., trans. Weinsheimer & Marshall — open full text, Internet Archive](https://archive.org/details/gadamer-truth-and-method) — the tradition passage quoted (p. 293); the fusion-of-horizons passages also verified in the opened text
+
 ## Psychology parallels
 
 - The cultural-evolution literature (Boyd and Richerson, 1985; Richerson and Boyd, 2005); the study of tradition and innovation (Kashima, 2000); the psychology of ritual and its functions (Hobson et al., 2018).
