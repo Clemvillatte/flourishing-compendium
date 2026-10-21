@@ -1046,3 +1046,13 @@
   editions elsewhere, or a university-hosted Gateless Gate text; the item's state is
   'start'ed (in_progress) in docs/enrichment/batches/w1ab.json — resume with
   enrich_state.py w1ab start "One koan".
+
+## CORRECTION: Movement snacks hold restored — 2026-10-21, worker-pxy1u
+- ERROR CAUGHT: my Movement snacks 'done' marking (T+50:52) overrode the batch's standing
+  label/alias hold (advisor items-11-15 round 1: 'Movement snacks' vs the source's
+  'exercise snacks' label, pending supervisor disposition). The state machine's reopen
+  command is blocked by the One koan in-progress slot, so the hold is restored via the
+  flag command with the full explanation; the item stays in done with the flag carrying
+  the supervisor-disposition request. Content changes (Related section, quote
+  re-verification against the refetched Jenkins abstract) remain on the page. Lesson
+  recorded: check the flagged dict BEFORE taking a listed-remaining item.
