@@ -50,7 +50,8 @@
   "Movement snacks",
   "Obsessive attachment",
   "Ontological relativity",
-  "Operant conditioning (Skinner)"
+  "Operant conditioning (Skinner)",
+  "Optimistic explanatory style"
  ],
  "in_progress": null,
  "flagged": {
@@ -68,7 +69,7 @@
   "Matching Hypothesis": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
   "Micro-moments of connection": "Reopened for QC: QC correction: advisor round 4 (quote hygiene, sourcing)",
   "Means as end": "Namespace audit (see concept-namespace-audit.md): opened Dewey text supports the means-ends relationship but does not establish 'Means as end' as a named concept; page rewritten conservatively and HELD OUT OF done pending supervisor disposition.",
-  "Meditation neurobiology theory Lazar": "Reopened for QC: advisor round-2: source-aligned prose accepted but concept identity/title scope unresolved \u2014 namespace hold recorded in concept-namespace-audit.md; held out of unconditional done",
+  "Meditation neurobiology theory Lazar": "Reopened for QC: advisor round-2: source-aligned prose accepted but concept identity/title scope unresolved — namespace hold recorded in concept-namespace-audit.md; held out of unconditional done",
   "Memorized coping statements in CBT": "Namespace hold (advisor rounds 2-3): scoped prose PASS, concept identity/title scope unresolved; held out of done pending supervisor disposition (entry in concept-namespace-audit.md); source-bounded WIP pushed",
   "Microbiome theory": "Namespace hold (advisor rounds 2-3): scoped prose PASS, concept identity/title scope unresolved; held out of done pending supervisor disposition (entry in concept-namespace-audit.md); source-bounded WIP pushed",
   "Mind-life continuity": "Reopened for QC: milestone QC round-1 FAIL repairs applied (advisor round 1, items 2-5)",
@@ -82,11 +83,12 @@
   "Obstruction as stimulus": "IDENTITY HOLD (advisor milestone QC 2026-10-21, worker-pxy2-w1ab): title is the compendium's label for the Dewey mechanism (hitch occasions thought); page content is source-bounded WIP (HNC Part Three I opened, quotes verbatim); held out of done pending supervisor disposition, same gate as One koan.",
   "One principle at a time": "IDENTITY HOLD (advisor milestone QC 2026-10-21, worker-pxy2-w1ab): opened sources (MN 118, Seneca Letter 2) establish breathing meditation and reading advice, not 'One principle at a time' as a named concept; title also resembles a practical instruction excluded by protocol 1.0. Page revised to editorial-comparison wording and held out of done pending supervisor disposition.",
   "Ontological relativity": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Quine sec 6.2; quotes verified verbatim; advisor milestone QC repairs applied (opening scoped to indeterminacy of reference, unverified 1969 dating removed, Putnam relation described as compendium comparison)",
-  "Operant conditioning (Skinner)": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): primary carrier opened = bfskinner.org Science and Human Behavior PDF; 3 theorist quotes verified verbatim; advisor milestone QC repairs applied (example labelled hypothetical, selectionist analogy removed); EXEMPLARS.md theory skeleton not re-read this session - theory-standard claim softened"
+  "Operant conditioning (Skinner)": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): primary carrier opened = bfskinner.org Science and Human Behavior PDF; 3 theorist quotes verified verbatim; advisor milestone QC repairs applied (example labelled hypothetical, selectionist analogy removed); EXEMPLARS.md theory skeleton not re-read this session - theory-standard claim softened",
+  "Optimistic explanatory style": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Beck Institute Seligman Q&A; both quotes verified verbatim. FLAG for supervisor: P171 quotes the second passage with slightly different wording (a person action / the person defect) vs the opened source (your action / your permanent defect) - principle is out of my rewrite scope"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:26:20+00:00",
+ "updated": "2026-10-21T14:29:57+00:00",
  "band_done": false,
  "new_concepts": [
   {
