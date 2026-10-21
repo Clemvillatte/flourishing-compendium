@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 43** — Carry your share of the communal work
 
-The tequio (communal labor) tradition: the community's roads, churches, fields, and festivals are built and maintained by every household's obligated labor days. The tradition treats the obligation not as a tax but as membership's substance: you are a member insofar as you show up. The modern translation is the commons' maintenance: every group you belong to runs on unpaid, unglamorous work, and your share is either being carried by someone or not being carried. Practically, in each group you value, take one concrete maintenance task per season, chosen without strategic value.
+Tequio comes from the Nahuatl word tequitl, "work or tribute". The Oaxaca state government describes it as a pre-Hispanic custom of cooperating in goods and labour to build, repair and preserve a community's surroundings (my translation of [Gobierno de Oaxaca, Tequios Bienestar](https://www.oaxaca.gob.mx/tequios-bienestar)).
 
 (The tequio and cargo traditions as presented in the ethnographic literature.)
 
-**Plain words** Tequio: the community's roads, churches, fields, and festivals are built by every household's obligated labor days — not a tax but membership's substance. You are a member insofar as you show up. Every group you belong to runs on unseen work; carry your share.
+### Obligation and its limits
 
-*For example:* The school parents' association where the same five people do everything — and the family that takes one real job (the uniforms, the canteen, the fete logistics) and becomes, instantly, a member.
+In the Zapotec community of Macuiltianguis, Mexico's forestry commission reports, tequio is a duty that all members must fulfil or pay someone else to do, and those who do not are recorded and fined by the community (my translation of [CONAFOR, Pedir permiso al bosque](https://www.gob.mx/conafor/articulos/pedir-permiso-al-bosque)). The Oaxaca constitution calls tequio an expression of solidarity according to each people's customs (Art. 12, as quoted, in Spanish, by [Tribunal Electoral, La expresión de solidaridad: el tequio](https://www.te.gob.mx/MaterialEstudioDefensoriaPE/Libros/1.29%20La%20expresi%C3%B3n%20de%20solidaridad%20el%20tequio.pdf)).
+
+A federal electoral court ruling holds that tequio is not absolute: it has limits where it harms members' fundamental rights, and it must be proportional, equitable and reasonable ([Tribunal Electoral, jurisprudence](https://www.te.gob.mx/juriselectoral/Juris/node/609)). The Tribunal study "La expresión de solidaridad" adds that in some communities tequio is no longer obligatory. The obligation is real but varies between communities.
+
+**Plain words**
+Belonging to a group means doing some of its unglamorous work. If you never do any, someone else is doing yours.
+
+**For example**
+Ask the organiser of a group you belong to for one standing job that nobody has claimed, and do it for the next three months. After that, check with the organiser whether it made a difference.
+
+## Sources
+
+- [Gobierno de Oaxaca, Tequios Bienestar](https://www.oaxaca.gob.mx/tequios-bienestar)
+- [CONAFOR, Pedir permiso al bosque](https://www.gob.mx/conafor/articulos/pedir-permiso-al-bosque)
+- [Tribunal Electoral, La expresión de solidaridad: el tequio](https://www.te.gob.mx/MaterialEstudioDefensoriaPE/Libros/1.29%20La%20expresi%C3%B3n%20de%20solidaridad%20el%20tequio.pdf)
+- [Tribunal Electoral, jurisprudence on tequio](https://www.te.gob.mx/juriselectoral/Juris/node/609)
+
 ## Psychology parallels
 
 - **Contribution identity and group belonging**, the research on how contributing to the group's maintenance increases belonging and well-being (the social-identity and collective-action literatures, as framework)

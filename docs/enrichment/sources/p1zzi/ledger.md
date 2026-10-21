@@ -71,3 +71,13 @@
 ## R115 — relational ethics in the digital age
 - Opened (search excerpts): five Springer papers + OUP ch. 8 of Vallor 2016 (list of twelve virtues, p.1 quote via Ethics & Info Tech 2019, care definition as paraphrased by that paper). Vallor's book not opened. Floridi 2013 NOT opened (SEP Ethics of AI page has nothing on it) — page says so; locator untouched.
 - Seed "The ethics of care, recognition and dialogue apply online as well" is the compendium's synthesis; Vallor does not say exactly that. Page is thin by design.
+## M023 — calpulli (root yourself in a people)
+- Opened (search excerpts): Britannica "Pre-Columbian civilizations: social and political organization" (calpulli); World History Encyclopedia "Aztec Society". Lockhart 1992 not opened. Britannica says the calpulli's kin structure is "open to question", no evidence of exogamy/unilineal descent — page says so; seed called it a "kin-neighborhood unit" outright. Page notes the institution was taxed/conscripted.
+## M024 — work rooted in the people it serves
+- Opened: Britannica "Nahua"; Oaxaca state interculturality plan (tequio as neighbour help). No source found for "milpa work is offered to the gods" or for "named beneficiaries preserve meaning" — page states this; supervisor may soften the principle body. Spanish sources translated (marked "my translation").
+## M027 — moderation in food and sleep
+- Opened: Florentine Codex Book 6 ch.22 excerpt (Dibble & Anderson) via Children and Youth in History; Utah Press table of contents for chapter title. Quotes verbatim. Seed items "sweets and chilies", "eat little at night" not found in excerpt -> not claimed. Locator says "father's and mother's speeches; Quetzalcoatl's counsel in the Toltec tradition" — the Quetzalcoatl attribution not verified. "Modern research has vindicated" removed (unsourced).
+## M043 — tequio
+- Opened (Spanish, translated): Oaxaca govt Tequios Bienestar; CONAFOR; TEPJF study on tequio; TEPJF jurisprudence (limits). "cargo traditions" in locator not covered. Ethnographic literature (Warman, Roldán) seen only quoted inside government documents.
+## M053 — cleansing and renewal
+- Opened: OUP "First Medicine" ch.11 abstract; Developing Destinies (quotes Sahagún 1969b p.155); Mutagenesis 2014 wood-smoke study; PMC Guatemalan postpartum study. No source found for limpia as emotional cleansing or for "scheduled cleansing as psychology"; page says so. Added a health caution about wood smoke. The seed "quarterly clearing dinner" anecdote was replaced.

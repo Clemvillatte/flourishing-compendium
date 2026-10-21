@@ -12,13 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 27** — Practice moderation in food and sleep, as taught
 
-The huehuetlatolli's most repeated physical counsel: do not sleep too much, do not eat to excess, do not gorge on sweets and chilies; rise before dawn; eat little at night. The counsel is not asceticism; it is the tradition's body-mind engineering, stated with the bluntness of a parent. The modern research has largely vindicated the engineering. Practically, take the elders' three specifics (sleep enough but not too much, eat to satisfaction not fullness, light at night) as a season's experiment.
+In Book VI of the Florentine Codex, chapter 22, a father counsels his son on how to sleep, drink and eat. The chapter title in the University of Utah Press edition reads "regarding prudence in public, and how to sleep, to drink, to eat, to talk, and how to dress" ([University of Utah Press, Florentine Codex Book 6](https://uofupress.com/books/florentine-codex-book-6/)). In the Dibble and Anderson translation, the first counsel is: "you are to be one who rises from sleep, one who holds vigil through the night. You are not to give yourself excessively to sleep". The eighth is: "Above all you are to be prudent in drink, in food ... you are not to take excessively" ([Children and Youth in History, excerpt of Sahagún, Book 6, ch. 22](https://cyh.rrchnm.org/primary-sources/442.html)).
 
 (Florentine Codex, Book VI, the father's and mother's speeches; also attributed to Quetzalcoatl's counsel in the Toltec tradition.)
 
-**Plain words** The elders' most repeated physical counsel, stated with parental bluntness: don't oversleep, don't overeat, go easy on the sweets, rise before dawn, eat little at night. Not asceticism — body-mind engineering, now largely vindicated by research. Just do what grandma said.
+### What the sources do not say
 
-*For example:* The person who's tried every optimisation app — and the biggest single change turns out to be the oldest advice in the book: earlier to bed, lighter dinners, up with the sun. The engineering was always there.
+The excerpt I read gives table manners alongside moderation, such as washing the hands before eating and not swallowing food unchewed. I did not find a line about sweets, chilies or eating little at night, so this page does not claim them. I also did not open research on sleep or eating that would support the claim of vindication.
+
+**Plain words**
+Do not sleep too much, do not eat too fast or too much, and get up early. The elders said it plainly, and it is still simple to try.
+
+**For example**
+For one week, fix a wake-up time and keep to it, and put your fork down once between mouthfuls. Note whether your mornings and your meals change.
+
+## Sources
+
+- [University of Utah Press, Florentine Codex Book 6, table of contents](https://uofupress.com/books/florentine-codex-book-6/)
+- [Sahagún, Florentine Codex Book 6, ch. 22 (Dibble and Anderson), excerpt at Children and Youth in History](https://cyh.rrchnm.org/primary-sources/442.html)
+
 ## Psychology parallels
 
 - **Sleep regularity and appetite regulation**, dietary-trial evidence for diet and meal timing, with program evidence for sleep (Jacka et al., 2017, the SMILES trial; Ilardi, 2009)
