@@ -35,4 +35,4 @@ Hypothetical illustration: two citizens vote differently on a proposal, then bot
 
 ## Sources
 
-- [Spinoza, A Theologico-Political Treatise, Part IV (chapters XVI-XX), Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/992/992-h/992-h.htm) — chapter XX, paragraphs 22, 58-59
+- [Spinoza, A Theologico-Political Treatise, Part IV (chapters XVI-XX), Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/992/992-h/992-h.htm) — chapter XX, paragraphs 22, 58-59 and 60 (the unanimity, harmony and persecution passages, and the action/judgment/majority passage)

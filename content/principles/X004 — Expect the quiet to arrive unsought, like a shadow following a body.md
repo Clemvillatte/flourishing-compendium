@@ -22,7 +22,7 @@ The Sceptics hoped that settling the questions would bring quietude; Sextus name
 **For example**
 Reading example: compare the Sceptics' hope of attaining quietude with the Apelles story. Distinguish their intended route from the unexpected result of suspending judgment.
 
-(Sextus Empiricus, Outlines of Pyrrhonism, Book I, chapter 12, the Apelles passage and the shadow image.)
+(Sextus Empiricus, Outlines of Pyrrhonism, Book I, chapters 6 and 12, the originating cause of Scepticism, the Apelles passage and the shadow image.)
 
 ## Psychology parallels
 
@@ -35,4 +35,4 @@ Reading example: compare the Sceptics' hope of attaining quietude with the Apell
 
 ## Sources
 
-- [Sextus Empiricus, Outlines of Pyrrhonism (selections), Bury translation, Manchester University](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf) — Book I, chapter 12 (the Apelles anecdote and the shadow image)
+- [Sextus Empiricus, Outlines of Pyrrhonism (selections), Bury translation, Manchester University](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf) — Book I, chapters 6 and 12 (the originating cause of Scepticism; the Apelles anecdote and the shadow image)

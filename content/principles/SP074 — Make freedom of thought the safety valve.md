@@ -35,4 +35,4 @@ Hypothetical illustration: a citizen follows a law while publicly explaining why
 
 ## Sources
 
-- [Spinoza, A Theologico-Political Treatise, Part IV (chapters XVI-XX), Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/992/992-h/992-h.htm) — chapter XX, paragraphs 18-20 and 2
+- [Spinoza, A Theologico-Political Treatise, Part IV (chapters XVI-XX), Elwes translation, Project Gutenberg](https://www.gutenberg.org/files/992/992-h/992-h.htm) — chapter XX, paragraphs 18-20, 23 and 60 (the free reason and judgment passage, the completed speech proviso, and the action/judgment passage)
