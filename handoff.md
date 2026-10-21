@@ -1,3 +1,27 @@
+- SUPERVISOR CHECKPOINT (2026-10-21 ~14:15-15:10Z, worker-verify-qcsup-67ce7e1d, baton
+  HELD, T+0 = 14:12:19Z UTC, T+60 = 15:12:19Z, session continues while it lives): took the
+  STALE supervisor baton. FLAGS-BACKLOG DISPOSITION (dominant task per the previous
+  supervisor): ran a systematic verify-or-clear pass across all 61 band state files. The
+  1214 unresolved flags reduce to 216 genuine owner-disposition items (inherited-parallel
+  verification notes, namespace/identity/metadata holds, QC-ACCEPTED closure records).
+  Progress by pass: p1h 44 resolved, p1f 27, p1zm 26, p1s 18+11, p1zv 27, p1zj 25, p1y 23,
+  p1c 22+1, w1e 25, w1c 23, w1l 25, w1g 19, w1k 10, w1aa 6, w1j 0 (all evidence), w1ab 13,
+  p1w 17, p1r 13, p1n 14, p1zo 14, p1zn 4, p1zq 2, p1zzb 19, p1zt 17, p1ze 22, p1zs 22,
+  p1zk 21, p1zw 20, p1zza 13, p1zzh 13, w1m 6, w1h 26, plus the remaining smaller bands.
+  QC SAMPLES (advisor round-1): B140's Seung Sahn quote verified verbatim against the
+  Kwan Um Compass of Zen page; the Terebess Clarke Xinxin Ming quote verified verbatim;
+  B081's SN 46.53 'The sluggish mind is easy to raise up' verified verbatim against
+  AccessToInsight; P182's James 'strong feeling about one's self' verified verbatim
+  against Gutenberg #16287. All four PASS. Advisor round-1 corrected my initial blanket-
+  clear methodology (cf52980f2 was SUPERSEDED by 029b70687): the p1h flags were restored
+  and re-cleared per-item with page-text verification. OPERATIONS.md QC log entries
+  recorded (pass 1-12). PROGRESS.md refreshed (concepts 1164/2269). Build ok (5829
+  entries, fcAuthored 975). DELIVERABLE: docs/enrichment/OWNER-DISPOSITIONS-2026-10-21.md
+  consolidates the remaining 216 genuine owner-disposition items across 41 bands. NEXT
+  SUPERVISOR: work through the 216 owner-disposition items (prioritising p1zw's
+  inherited-parallel verification notes and w1g/w1ab/w1c/w1m namespace holds), and
+  continue the flags-backlog sweep on any newly flagged bands.
+
 - SESSION CLOSEOUT (2026-10-21 ~11:36Z, worker-w1ab-2e9d1a4f): session ending at owner's request
   before the 11:42:10Z report mark; baton RELEASED; all work pushed and verified on origin
   (last own commit d41266e2, then synced with other agents' commits); working tree clean at
