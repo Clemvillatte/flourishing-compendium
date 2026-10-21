@@ -152,3 +152,21 @@
   clauses (Implementation intentions / Cognitive restructuring / Stress inoculation
   training all exist as concept pages, titles verified via enrich_find).
 - QC: none required this item (item 3; cadence: first item + every 5th).
+
+## Microbiome theory (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: edf5e57d (seed + Field + Cited-in BI034 + one Related row). Validated
+  --fast-track --base edf5e57d: ok.
+- Carriers opened: NCBI efetch PubMed records — O'Hara & Shanahan 2006 EMBO Rep
+  7(7):688-93 (PMID 16819463, via esearch; 'forgotten organ' title + organ-within-an-organ
+  abstract) and Cryan & Dinan 2012 Nat Rev Neurosci 13(10):701-12 (PMID 22968153, via
+  esearch; CNS-communication and microbiota-gut-brain-axis abstract). Two from-memory
+  PMID guesses (17142761, 23060150) returned unrelated papers — both rejected on sight;
+  esearch is the correct route (lesson recorded twice this session).
+- CATCH: the validator's banned-word check flags 'crucial' even inside verbatim quotes;
+  the O'Hara-Shanahan fragment 'a positive health asset that crucially influences...' was
+  shortened to the quoted fragment 'a positive health asset' with the rest paraphrased,
+  keeping verbatim fidelity on what remains in quotation marks.
+- The seed's metabolism/immunity/behaviour triad is now split by evidence: organ +
+  mucosal immunity (2006 review), behaviour via the hedged CNS-communication claim (2012
+  review, hedge 'possibly through neural, endocrine and immune pathways' kept).
+- QC: none required this item (item 4; cadence: first item + every 5th).
