@@ -30,7 +30,7 @@
   --font-mono:ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
   --accent-on-gold:#221d0d;
   /* graph view node colors */
-  --g-principle:#E4B52A; --g-kernel:#365CB1; --g-concept:#89BB82; --g-theory:#FB7B56; --g-story:#EDC493; --g-hub:#EEB68F; --g-disc:#8a7f5e; --g-saying:#b08bc0;
+  --g-principle:#E4B52A; --g-kernel:#365CB1; --g-concept:#89BB82; --g-theory:#FB7B56; --g-story:#B81616; --g-hub:#EEB68F; --g-disc:#8a7f5e; --g-saying:#b08bc0;
   --g-edge:rgba(90,84,60,.13);
   /* aliases used by runtime-injected styles (connections panel etc.) */
   --border:var(--line); --bg2:var(--panel2);
@@ -47,7 +47,7 @@
   --shadow:0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.3);
   --shadow-lg:0 12px 48px rgba(0,0,0,.55);
   --accent-on-gold:#17160c;
-  --g-principle:#E4B52A; --g-kernel:#365CB1; --g-concept:#89BB82; --g-theory:#FB7B56; --g-story:#EDC493; --g-hub:#EEB68F; --g-disc:#a89e79; --g-saying:#c4a3d4;
+  --g-principle:#E4B52A; --g-kernel:#365CB1; --g-concept:#89BB82; --g-theory:#FB7B56; --g-story:#B81616; --g-hub:#EEB68F; --g-disc:#a89e79; --g-saying:#c4a3d4;
   --g-edge:rgba(232,227,209,.10);
 }
 
