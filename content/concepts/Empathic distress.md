@@ -7,9 +7,9 @@ file: "Empathic distress"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-self-focused emotional reactivity that depletes rather than helps (Singer and Klimecki, 2014). The opened carrier is the training study by Klimecki, Leiberg, Ricard and Singer, which begins from the authors' caution that excessive sharing of others' negative emotions may be maladaptive ([Klimecki et al. 2014, Soc Cogn Affect Neurosci 9(6):873-879, abstract](https://pubmed.ncbi.nlm.nih.gov/23576808/)).
+Klimecki and colleagues caution that excessive sharing of others' negative emotions may be maladaptive ([Klimecki et al. 2014, Soc Cogn Affect Neurosci 9(6):873-879, abstract](https://pubmed.ncbi.nlm.nih.gov/23576808/)).
 
-The study's sequence: one group of participants was first trained in empathic resonance and subsequently in compassion. In response to videos depicting human suffering, empathy training — but not memory training in the control group — increased negative affect and brain activations in anterior insula and anterior midcingulate cortex. Subsequent compassion training reversed the increase in negative affect and augmented self-reports of positive affect ([Klimecki et al. 2014](https://pubmed.ncbi.nlm.nih.gov/23576808/)).
+The study's sequence: one group of participants was first trained in empathic resonance and subsequently in compassion ([Klimecki et al. 2014](https://pubmed.ncbi.nlm.nih.gov/23576808/)). In response to videos depicting human suffering, empathy training — but not memory training in the control group — increased negative affect and brain activations in anterior insula and anterior midcingulate cortex ([Klimecki et al. 2014](https://pubmed.ncbi.nlm.nih.gov/23576808/)). The authors report that subsequent compassion training could reverse the increase in negative affect and augment self-reports of positive affect ([Klimecki et al. 2014](https://pubmed.ncbi.nlm.nih.gov/23576808/)).
 
 > "We conclude that training compassion may reflect a new coping strategy to overcome empathic distress and strengthen resilience." — [Klimecki et al. 2014, abstract, PubMed 23576808](https://pubmed.ncbi.nlm.nih.gov/23576808/)
 
