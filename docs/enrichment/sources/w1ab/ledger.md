@@ -1005,3 +1005,13 @@
   - REPAIR: validation round 1 FAILED (lost original wikilink [[E072 — Practise avoiding
     the nihilist]] — the seed read was truncated before the parallels section); the link
     restored from the pre-edit file via git show, re-validated ok, fix pushed.
+
+## ITEM: One-pointedness (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the Wikipedia Samadhi article, opened fresh — two passages verified verbatim (the
+  Shankman cittas' ekaggata 'one-pointedness / unification of mind' rendering; the
+  exclusive-focus vs broader-state-of-awareness double sense for samadhi). The 'not tunnel
+  vision' paragraph is the page's reading of the double sense, marked as such. Existing seed
+  Related [[Right concentration]] preserved with its caption. Related added:
+  Focused-attention meditation, Anchors in focused attention meditation (navigational
+  captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC
+  not due (cadence).
