@@ -12,15 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 56** — Learn to use posture: upright posture affects mood
 
-Posture affects mood and energy. Upright, open posture is associated with better mood, confidence, and energy. Slouched, closed posture is associated with lower mood and energy.
+The best evidence comes from experiments that put people in an upright or slumped seat. Nair and colleagues strapped 74 participants' backs with physiotherapy tape to hold either posture through a speech stress task and found that "upright participants reported higher self-esteem, more arousal, better mood, and lower fear, compared to slumped participants". They concluded that "adopting an upright seated posture in the face of stress can maintain self-esteem, reduce negative mood, and increase positive mood compared to a slumped posture" (Nair et al. 2015, Health Psychol 34(6):632-641, [PubMed](https://pubmed.ncbi.nlm.nih.gov/25222091/)). A later trial of 61 people with mild to moderate depression suggested that an upright posture "may increase positive affect" and "decrease self-focus", though the authors flag that "the experiment was only brief and a non-clinical sample was used" (Wilkes et al. 2017, J Behav Ther Exp Psychiatry 54:143-149, [PubMed](https://pubmed.ncbi.nlm.nih.gov/27494342/)).
 
-**Plain words** Posture feeds mood — upright and open associates with better mood and energy; slouched and closed with lower. Not fake-it confidence; a physiological feedback loop. Sit like the mood you want, and the mood follows the meat.
+Wide, expansive "power poses" are a different and weaker claim. The 2015 replication attempt carries the title "no effect on hormones and risk tolerance in a large sample of men and women" (Ranehill et al. 2015, Psychol Sci 26(5):653-656, [PubMed](https://pubmed.ncbi.nlm.nih.gov/25810452/)). A pre-registered special issue found that holding power poses makes people feel more powerful, with no effect on behavioural measures (see [MSU Today](https://msutoday.msu.edu/news/2017/09/eleven-new-studies-suggest-power-poses-dont-work)).
 
-*For example:* The slump that deepens with the mood that deepens the slump — and the two-minute experiment of standing tall that interrupts the loop. The body led the mind out of the corner.
+**Plain words**
+In controlled studies, sitting upright rather than slumped led to somewhat better mood and self-esteem during a stressful task, and less focus on oneself. The effects were measured over short sessions, not over weeks. The popular claim that striking a wide "power pose" changes your hormones or your behaviour did not hold up. Sitting up is a cheap thing to try, but it is not a treatment for low mood.
+
+*For example:* Before a video call you notice you are folded over the laptop. You sit back, drop your shoulders, and see whether the next ten minutes feel any different. This is an imagined case, and you are the only judge of the result.
+
+## Sources
+
+- [Nair, S. et al. (2015), Do slumped and upright postures affect stress responses? A randomized trial, Health Psychol 34(6), 632–641](https://pubmed.ncbi.nlm.nih.gov/25222091/)
+- [Wilkes, C. et al. (2017), Upright posture improves affect and fatigue in people with depressive symptoms, J Behav Ther Exp Psychiatry 54, 143–149](https://pubmed.ncbi.nlm.nih.gov/27494342/)
+- [Ranehill, E. et al. (2015), Assessing the robustness of power posing, Psychol Sci 26(5), 653–656](https://pubmed.ncbi.nlm.nih.gov/25810452/)
+- [MSU Today (2017), Eleven new studies suggest power poses do not work](https://msutoday.msu.edu/news/2017/09/eleven-new-studies-suggest-power-poses-dont-work)
+
 ## Psychology parallels
 
-- **Posture and mood (Nair, Roskes)**, upright posture is associated with better mood and confidence (Nair et al., 2015; Roskes et al., 2014)
-- **Note: the "power pose" effect (hormonal changes) failed replication**, but the mood/posture association is supported (Ranehill et al., 2015; Nair et al., 2015)
+- **Posture and mood (Nair, Wilkes)**, in randomised trials an upright seated posture was linked to better mood and self-esteem under stress (Nair et al., 2015), and to more positive affect in mildly depressed adults (Wilkes et al., 2017); Roskes et al., 2014
+- **Power poses did not replicate for hormones or risk-taking**, (Ranehill et al., 2015); the feeling-of-power effect was reported in a pre-registered special issue without behavioural change (MSU Today, 2017)
 
 ## Philosophy parallels
 
@@ -30,4 +41,4 @@ Posture affects mood and energy. Upright, open posture is associated with better
 
 ## Practice
 
-- Use posture: when you notice slouching or collapsing, gently straighten. Upright, open posture supports mood and energy. Do not force; gently realign.
+- Use posture: when you notice slouching or collapsing, gently straighten. In short lab studies, upright sitting was linked to better mood under stress, so it is worth a try. Do not force it; gently realign.

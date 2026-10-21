@@ -123,3 +123,7 @@
 ## BI055 — Notice body signals
 - Opened: Khalsa et al. 2018 (PubMed 29884281, abstract); Garfinkel et al. 2015 (PubMed 25451381, abstract; N=80). Craig 2009, Barrett 2019 unopened -> bare refs.
 - Removed: unsourced "hangry/memo" example claim of irritability-hunger link and "foundational skill" assertions; added accuracy-vs-confidence caveat. Practice line kept (generic).
+
+## BI056 — Posture
+- Opened: Nair et al. 2015 (PubMed 25222091, abstract; N=74); Wilkes et al. 2017 (PubMed 27494342; N=61); Ranehill et al. 2015 (PubMed 25810452, title/listing, no abstract available); MSU Today 2017 on the CRSP special issue (cites no behavioural effect, felt power effect). Roskes 2014 unopened -> bare ref.
+- Changes: seed "energy" claim dropped (Wilkes abstract inconsistent on fatigue); effects scoped to brief lab sessions vs slumped (not vs neutral); power-pose distinction written; practice line softened.
