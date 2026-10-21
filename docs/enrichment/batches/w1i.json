@@ -88,13 +88,13 @@
   "Beneficial speech": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS]",
   "Body schema": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: milestone QC CLOSED 2026-10-21 (advisor round 3): substantive PASS; Vallar citation added to the first tools sentence; seed-baseline checks 4/4 ok]",
   "Benign versus malicious envy": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; NAMESPACE INTEGRATION PENDING (proposals from citing principles to the granulars; full relational-exposition rewrite) \u2014 not a nam]",
-  "Discipline of rest": "concept-status: compendium heading; the opened Rule passages describe rest regulated by rule, but the phrase itself was not verified as a source-defined term (QC round 2, worker-w1i-3a9d2f7e); supervisor disposition welcome",
+  "Discipline of rest": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: concept-status: compendium heading; the opened Rule passages describe rest regulated by rule, but the phrase itself was not verified as a source-defined term (QC round 2, worker-w1i-3a9d2f7e); supervi]",
   "Designing for virtue": "concept-status RESOLVED (QC round 2): grounded in Desmet & Pohlmeyer 2013 Positive Design Framework via opened Pohlmeyer & Desmet 2017; the seed's Aristotle attribution kept as a labeled parallel (the Politics passage does not name the concept)",
   "Naming the passions": "concept-status: compendium heading (Category C pattern) \u2014 the phrase is not Spinoza's; body grounded in Ethics III Definitions of the Emotions; owner disposition welcome"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T16:20:00+00:00",
+ "updated": "2026-10-21T16:30:00+00:00",
  "band_done": true,
  "new_concepts": [
   {

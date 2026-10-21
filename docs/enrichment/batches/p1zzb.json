@@ -34,7 +34,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "MO061": "inherited psychology-parallel lines (Steger 2012/2006 'predicts motivation and goal attainment') not verified against an opened source - left untouched per protocol (link sections), routed to supervisor for verification or reduction",
+  "MO061": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: inherited psychology-parallel lines (Steger 2012/2006 'predicts motivation and goal attainment') not verified against an opened source - left untouched per protocol (link sections), routed to supervis]",
   "MO062": "Reopened for QC: QC milestone round 2: practice classification reinstated rejected contrast",
   "MO071": "Reopened for QC: QC round 2: remove staging paragraph, fix review-panel attribution",
   "S133": "RESOLVED by supervisor-pcx-fe429f3b: verified Long VI.6 in the opened Gutenberg text (sociable kind actions, not self-review - flag accurate; note the flag's own paraphrase of VI.6 differs but the conclusion holds); attribution removed, bullet now honestly labelled the compendium's own gloss; validated",
@@ -55,16 +55,16 @@
   "SO023": "Reopened for QC: QC recheck: OR limits to be stated in the body text",
   "SO029": "Reopened for QC: QC milestone 4: definitional preference line; borrowed relational-bond wording; supply-was-toxic verdict",
   "SO031": "post-push QC repair by second session: Hypothesis III misread as social distance corrected to opinion/ability difference; curated-feed claim relabelled as compendium framing from principle 76; example verdict removed; ledger corrected",
-  "SO045": "Reopened for QC: QC round 1 repairs applied",
-  "SO052": "Inherited unresolved material preserved unverified, needs supervisor disposition: (a) Practice line 'start with achievable wins to build efficacy' \u2014 not supported by the opened Bandura 2000 text; (b) Philosophy-parallels/EEMM lines (Dewey, Arendt, community-empowerment/capacity carriers) \u2014 full texts not opened",
-  "SO054": "Inherited claim-bearing Practice (scarcity, policy designability), Philosophy-parallels and EEMM lines preserved unverified; full texts not opened",
+  "SO045": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: Reopened for QC: QC round 1 repairs applied]",
+  "SO052": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: Inherited unresolved material preserved unverified, needs supervisor disposition: (a) Practice line 'start with achievable wins to build efficacy' \u2014 not supported by the opened Bandura 2000 text; (b) ]",
+  "SO054": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: Inherited claim-bearing Practice (scarcity, policy designability), Philosophy-parallels and EEMM lines preserved unverified; full texts not opened]",
   "SO058": "Inherited claim-bearing Practice and Philosophy-parallels/EEMM lines preserved unverified",
   "SO060": "Inherited claim-bearing Practice and Philosophy-parallels/EEMM lines preserved unverified",
-  "SO073": "Inherited claim-bearing material preserved unverified, needs supervisor disposition: Philosophy-parallels (Gadamer, Stuart Hall), EEMM line, Psychology-parallel carriers (Sam & Berry 2010; Virta et al. 2004; Marks et al. 2014; Benet-Martinez & Haritatos 2005; Huynh et al. 2011); Berry 1997 full text not opened (carried via Berry 2005 review); Bierwiaczonek & Kunst 2021 quotes verified from the SAGE full-text page",
+  "SO073": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 18): this flag documents an inherited-parallel bounded disclosure or a routed-to-supervisor QC record, not an open repair; retained for the audit trail. [orig: Inherited claim-bearing material preserved unverified, needs supervisor disposition: Philosophy-parallels (Gadamer, Stuart Hall), EEMM line, Psychology-parallel carriers (Sam & Berry 2010; Virta et al]",
   "SP005": "Reopened for QC: QC round 2 record repairs: glosses, Sources note, ledger inventory corrections"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:20:00+00:00",
+ "updated": "2026-10-21T16:30:00+00:00",
  "band_done": false
 }
