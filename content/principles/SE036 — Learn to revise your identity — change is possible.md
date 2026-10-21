@@ -25,6 +25,10 @@ The evidence is ordinary: people change careers, religions, relationships and va
 
 *For example:* Imagine the athlete whose injury ends the identity at 24, and the difference between the ones who are "former athletes" forever and the one who asks what the discipline, the coaching and the body-knowledge become next.
 
+## Sources
+
+- Nietzsche, Thus Spake Zarathustra, "The Three Metamorphoses" (Thomas Common translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/1998/pg1998.txt)
+
 ## Psychology parallels
 
 - **Identity revision across the lifespan**, people revise identity across life transitions (McAdams, 2001; Kroger, 2007)
