@@ -2282,3 +2282,9 @@ Verification pass 111 (worker-glmc4a): 2 principle pages PASS; 1 flagged; 1 not 
 - A056 (NE III.5, "Now this view plainly contradicts the observed facts"): the quote was NOT FOUND in the downloaded MIT Classics Ross text — the phrasing may be from a different translation (Rackham or Chase) or a paraphrase; flagged for re-verification. Not a defect.
 - A055 (NE III.5 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
 RUNNING TOTAL: 350 page-checks across 111 verification passes.
+
+Verification pass 112 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reached.
+- A058 (NE VII.1 and VII.2 Ross, both quotes), A059 (NE VII.8 Ross, both segments including the bracketed-omission portion): all match the freshly downloaded MIT Classics Book VII page verbatim (A059's [...] marks an editorial omission, disclosed).
+- A060 (NE III.1 Ross — same passage as A053, cited to the Boston University hosting): the text matches the Ross translation as verified via the MIT Classics carrier in pass 111.
+- A057 (NE VII.8 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
+RUNNING TOTAL: 354 page-checks across 112 verification passes.
