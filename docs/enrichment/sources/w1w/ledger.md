@@ -53,3 +53,25 @@
   Responsibility (121 -> pass; added a two-contrasts reading paragraph,
   marked as reading), Reverence (111 -> pass; added a rightness-of-feeling
   paragraph grounded in the definition quote). Normal validator: 6/6 ok.
+
+## Item 15: Role model research (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: single line "Lockwood and Kunda, 1997". No w1w identity flags. Full
+  rewrite.
+- Carrier opened: Lockwood & Kunda 1997, "Superstars and Me: Predicting the
+  Impact of Role Models on the Self", JPSP 73(1) 91-103 — full-text PDF
+  hosted for class use at Wabash College
+  (persweb.wabash.edu/facstaff/hortonr/articles%20for%20class/lockwood%20and%20kunda.pdf).
+  Publication details confirmed on the document itself. Quotes verified
+  verbatim by prompted extraction against the opened PDF: the abstract's
+  relevance/attainability sentences; the "Whether superstars exert any
+  impact" summary; "A superstar will become a source of inspiration or
+  discouragement only if one compares oneself to this person."
+- Structure: definition para; ### Two gates (both abstract passages);
+  ### What this means for choosing who to emulate (reading marked as
+  practical reading); In the compendium (3 links); Sources with full
+  citation + seed line kept; Cited-in sections preserved exactly.
+- Emulation (zelos) page does not exist — link removed (validator caught).
+  Self-Evaluation Maintenance Theory page exists (w1w manifest item, not yet
+  done — link is valid navigation to a future page).
+- Normal validator: ok (prose floor met, 3+ Related lines, links resolve).
