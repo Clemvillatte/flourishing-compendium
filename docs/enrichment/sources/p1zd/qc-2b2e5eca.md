@@ -117,6 +117,7 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked every quotation. Replaced `Most meditation` with the review's actual scope: two common styles within a selected Buddhist/secular framework.
 - Removed the imagined fixed several-week progression. The example now describes the attentional distinction without prescribing a universal transition timetable.
 - Retained the reviews' evidence limitations; protected metadata and inherited parallels unchanged.
+- Final independent advisor: narrowed `preliminary support` from the review's ideas generally to the specific prediction about OM's attentional pattern. Applied before owner-requested early wrap.
 
 ## BE002
 
@@ -157,3 +158,10 @@ Independent psychology advisor passes AT015 and the final narrowed A118 body/sou
 - Removed first-person production-process voice, a universal claim that adjustment frequency has never been studied, and the unsupported assertion that personal notes are the best guide.
 - Kept the compendium's framework clearly a reflection tool rather than a validated intervention. Used the source's nonclinical population scope instead of assuming every participant was an adult; added the review's generalisation/follow-up caution.
 - Imagined changed-family-schedule example remains illustration. Protected content and inherited parallels unchanged.
+
+## Closing verification
+
+- Owner requested immediate wrap before the original one-hour cap. Twenty existing principle bodies/source sections upgraded in p1zd; no new principle created.
+- Independent body/source QC: nine Aristotle cards reviewed, all pass after the A118 precision follow-up; A113's authentic quotation retained after the advisor withdrew a false-negative objection. Six psychology/clinical cards pass body/source review after AF079 medication wording correction. AT046, BE002 and AF079 pass the final advisor check; AT048's final scope precision was applied.
+- AT054 and AT077 received direct-source checks and mechanical/protected-content validation; they are not represented as independently advisor-certified.
+- Five inherited title/Practice supervisor flags remain explicit: AF076, AF079, AF080, AT002, AT021. No inherited parallel sections were certified by this pass.

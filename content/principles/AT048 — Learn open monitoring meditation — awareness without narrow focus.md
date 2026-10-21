@@ -18,7 +18,7 @@ Lutz, Slagter, Dunne and Davidson separate two styles of meditation. Focused att
 >
 > Lutz et al., Trends in Cognitive Sciences (2008), Box 2
 
-They also describe the order of learning: open monitoring practices share "the initial use of FA training to calm the mind and reduce distractions". The central aim is "to gain a clear reflexive awareness of the usually implicit features of one's mental life". The neuroscience is early. In their words, "little is known about the neurophysiological processes involved in meditation", and findings on open monitoring "provide preliminary support" for their ideas. A later review agrees that "more methodologically rigorous studies are required" ([Tang et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25783612/)).
+They also describe the order of learning: open monitoring practices share "the initial use of FA training to calm the mind and reduce distractions". The central aim is "to gain a clear reflexive awareness of the usually implicit features of one's mental life". The neuroscience is early. In their words, "little is known about the neurophysiological processes involved in meditation", and findings on open monitoring "provide preliminary support" for a specific prediction about its attentional pattern. A later review agrees that "more methodologically rigorous studies are required" ([Tang et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25783612/)).
 
 (Lutz et al., 2008.)
 
