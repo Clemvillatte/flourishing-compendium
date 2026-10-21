@@ -358,3 +358,6 @@ Hermeneutic circle comma (unresolved OCR punctuation), Grounding hedge, Homo fab
 Hostility/Hubris/Identity-statuses bare Sources entries, H/T hermeneutic-circle duplicate
 pages, w1j Humanizer meta-section cleanups. No baton held; w1p released (band complete,
 QC-closed).
+
+### w1k "Voluntary discomfort" — quote fidelity PASS (verification pass)
+- Seneca Letter 18.5 blockquote EXACT vs the opened Wikisource text (Gummere).
