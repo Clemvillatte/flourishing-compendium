@@ -25,7 +25,7 @@ In the framework paper that distinguished the two styles of meditation, focused 
 
 ### A guided version
 
-A calm, voice-only session is [10 Minute Guided Meditation for Focus by Declutter The Mind](https://www.youtube.com/watch?v=ausxoXBrmWs).
+A free, high-quality guided session is the [Breathing Meditation (5 minutes) from UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations), recorded by Diana Winston, director of mindfulness education at UCLA's Mindful Awareness Research Center; the same page offers a whole library of guided practices.
 
 ## Related concepts
 
