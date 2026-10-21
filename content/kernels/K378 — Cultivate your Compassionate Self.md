@@ -10,9 +10,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K378** — Cultivate your Compassionate Self
 
-Imagine yourself as a highly compassionate person, and explore the sense of age, facial expressions, body postures, voice tones and ways of thinking that belong to that role. Then practise adopting the role. This is like method acting, when one practises adopting and getting into a particular role ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)): you are not trying to feel kind, you are practising *being* the kind of person whose default response is kindness.
+Imagine yourself as a highly compassionate person, and explore the sense of age, facial expressions, body postures, voice tones and ways of thinking that belong to that role. Then practise adopting the role. This is like method acting, when one practises adopting and getting into a particular role ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)).
 
-This version follows [Gilbert's (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) description of compassionate-self practice; the Kolts, *CFT Made Simple*, New Harbinger, 2016 attribution is inherited from the seed and is recorded in the ledger (the book was not opened this session).
+This version follows [Gilbert's (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) description of compassionate-self practice.
 
 ### Protocol
 
@@ -35,7 +35,7 @@ That is an association, not evidence that this exercise raises compassion.
 
 The retained instructions themselves now rest on an opened carrier: the therapy's founder describes the same exercise in the 2009 introductory article ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)):
 
-> "The client imagines themselves as a highly compassionate person and explores their sense of age, facial expressions, body postures, voice tones and styles of thinking. Clients can be encouraged to practise each day at becoming 'the compassionate self', with the appropriate facial expressions, voice tones and ways of thinking." — [Gilbert (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)
+> "The client imagines themselves as a highly compassionate person and explores their sense of age, facial expressions, body postures, voice tones and styles of thinking. Clients can be encouraged to practise each day at becoming ‘the compassionate self’, with the appropriate facial expressions, voice tones and ways of thinking." — [Gilbert (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)
 
 ### A guided version
 
@@ -66,6 +66,6 @@ Russell Kolts's guided recording: [Compassionate Self Meditation](https://insigh
 
 ## Sources
 
-- [Gilbert (2009), "Introducing compassion-focused therapy", Advances in Psychiatric Treatment](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) — opened carrier for the retained instructions; Kolts (2016), *CFT Made Simple* attribution inherited from the seed, book not opened
+- [Gilbert (2009), "Introducing compassion-focused therapy", Advances in Psychiatric Treatment](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) — opened carrier for the retained instructions; Kolts (2016), *CFT Made Simple*, New Harbinger attribution is inherited from the seed and recorded in the ledger
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
 - [MacBeth & Gumley (2012), "Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology", Clinical Psychology Review, PubMed](https://pubmed.ncbi.nlm.nih.gov/22796446/)
