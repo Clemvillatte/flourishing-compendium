@@ -92,3 +92,9 @@
 - Added Protocol (define next concrete step, timed block 30-90 min, remove switch temptations, note-and-return), Evidence (Monsell 2003 'Task switching' review, PubMed 12639695, abstract via search: slower + more error-prone immediately after switches; cost reduced but not eliminated by preparation), guided version (Slack deep-work practical guide, opened via search).
 - Related concepts: Attention residue, Attention management, Divided attention theory, Effortless attention. Validation: ok; build ok; saved and pushed.
 - SESSION TOTAL: 24 kernels (4 new, 20 enriched).
+
+## K113 — Transition pause (2026-10-21)
+- Added Protocol (3 breaths + one-line ready-to-resume note), Evidence (Leroy 2009 attention residue definition via ScienceDirect abstract: persistence of cognitive activity about Task A into Task B, fewer resources, impaired performance; ready-to-resume plan field study via APA PsycNET 2026 record: writing plans reduced residue and its link to exhaustion, N=50 x 4 daily diary occasions).
+- Guided version: honestly noted as self-guided (three breaths are the guide; studied form is the written note). Related concepts: Attention residue, Attention management, Action over inertia.
+- Validation: ok; build ok; saved and pushed.
+- SESSION TOTAL: 25 kernels (4 new: K409, K410, K411, K412; 21 enriched: K100, K101, K102, K103, K104, K105, K106, K110, K113, K114, K115, K116, K161, K162, K163, K164, K194, K201, K245, K385, K400).
