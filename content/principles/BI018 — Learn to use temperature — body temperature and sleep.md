@@ -12,15 +12,24 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 18** — Learn to use temperature: body temperature and sleep
 
-Body temperature drops during sleep. A cool bedroom (18-20°C) supports this drop and improves sleep. Warm baths or showers before bed (paradoxically) also help by triggering a subsequent temperature drop.
+A meta-analysis of 17 studies (13 with data for pooling) found that a warm shower or bath "of 40-42.5 °C was associated with both improved self-rated sleep quality and SE [sleep efficiency], and when scheduled 1-2 h before bedtime for little as 10 min significant shortening of SOL [sleep onset latency]". The authors propose that the mechanism is core body temperature falling after the warming, and they warn that "additional investigation is required" because of the scarcity of research on optimal timing, duration and exact mechanisms (Haghayegh et al. 2019, [PubMed](https://pubmed.ncbi.nlm.nih.gov/31102877/)).
 
-**Plain words** The body cools to sleep, so a cool bedroom (18–20°C) helps it happen — and the paradoxical trick: a warm bath before bed triggers the rebound cool-down that knocks you out. Use the physics; the body is a temperature machine.
+For the room itself, the review by Okamoto-Mizuno and Mizuno reports that "in real-life situations where bedding and clothing are used, heat exposure increases wakefulness and decreases slow wave sleep and rapid eye movement sleep", while "cold exposure does not affect sleep stages", provided bedding and clothing support thermoregulation (Okamoto-Mizuno & Mizuno 2012, [PubMed](https://pubmed.ncbi.nlm.nih.gov/22738673/)). Neither abstract gives a specific bedroom target such as 18 to 20 °C, so this page does not state one.
 
-*For example:* The hot shower that "wakes you up" at 10 p.m. doing the opposite an hour later — the cool-down kicks in, the eyelids follow. The body walked itself to sleep.
+**Plain words**
+Your body needs to cool down to fall asleep, and a warm shower or bath 1 to 2 hours before bed helped people fall asleep sooner in the studies reviewed, even for a short 10-minute soak. A hot bedroom works against you and a cooler one with good bedding does not. The research on timing is still thin, so treat these as things to try.
+
+*For example:* Tonight you take a ten-minute warm shower about an hour and a half before bed, and keep the bedroom cooler than the rest of the house. This is an imagined routine within the 1 to 2 hour window the meta-analysis covers, and how well it works for you is for you to notice.
+
+## Sources
+
+- [Haghayegh, S. et al. (2019), Before-bedtime passive body heating by warm shower or bath to improve sleep, Sleep Medicine Reviews 46, 124–135 (abstract)](https://pubmed.ncbi.nlm.nih.gov/31102877/)
+- [Okamoto-Mizuno, K. & Mizuno, K. (2012), Effects of thermal environment on sleep and circadian rhythm, J Physiol Anthropol 31, 14 (abstract)](https://pubmed.ncbi.nlm.nih.gov/22738673/)
+
 ## Psychology parallels
 
-- **Temperature and sleep**, cool bedroom (18-20°C) supports the natural body temperature drop (Okamoto-Mizuno & Mizuno, 2012; Harding et al., 2019)
-- **Warm bath/shower before bed improves sleep**, the subsequent temperature drop signals sleep onset (Haghayegh et al., 2019; Lushington et al., 2000)
+- **Warm bath or shower before bed**, 40-42.5 °C, 1-2 hours before bedtime, went with better sleep quality and efficiency and shorter time to fall asleep (Haghayegh et al., 2019)
+- **Thermal environment and sleep**, heat increases wakefulness and reduces slow wave and REM sleep in real-life bedding conditions (Okamoto-Mizuno & Mizuno, 2012)
 
 ## Philosophy parallels
 

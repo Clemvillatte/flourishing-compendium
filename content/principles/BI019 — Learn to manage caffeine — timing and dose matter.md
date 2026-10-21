@@ -12,15 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 19** — Learn to manage caffeine: timing and dose matter
 
-Caffeine is a stimulant that blocks adenosine (sleep pressure). It has a half-life of ~5-6 hours, meaning afternoon caffeine affects night sleep. Caffeine also worsens anxiety and disrupts sleep quality.
+In a randomised trial, 400 mg of caffeine taken at bedtime, 3 hours before or 6 hours before bedtime each had "significant effects on sleep disturbance relative to placebo", and the authors conclude that the reduction in total sleep time "suggests that caffeine taken 6 hours before bedtime has important disruptive effects on sleep" (Drake et al. 2013, [PubMed](https://pubmed.ncbi.nlm.nih.gov/24235903/)). A meta-analysis of 24 studies found that caffeine "reduced total sleep time by 45 min and sleep efficiency by 7%" and estimated that "coffee (107 mg per 250 mL) should be consumed at least 8.8 h prior to bedtime" to avoid reductions in total sleep time (Gardiner et al. 2023, [PubMed](https://pubmed.ncbi.nlm.nih.gov/36870101/)).
 
-**Plain words** Caffeine has a half-life of five to six hours — the 3 p.m. coffee is still half in your blood at 9 p.m., quietly taxing your sleep and winding your anxiety. Cut-off around noon is the move. The anxiety you medicate may be the coffee you bought.
+The abstracts cited here do not cover the half-life figure or the effect of caffeine on anxiety, so this page does not make those claims.
 
-*For example:* "I can drink coffee whenever, it doesn't affect me" — says the person whose sleep tracker shows the 2 p.m. latte as a lighter night. It affects you. It affects everyone. It's chemistry, not identity.
+**Plain words**
+Caffeine can cut sleep even when you drink it many hours before bed. In the trial, a 400 mg dose six hours before bedtime still disrupted sleep, and the meta-analysis suggested stopping coffee about nine hours before bed. Count back from your bedtime, not from a fixed time of day. Your own tolerance will differ, so use your own sleep as the test.
+
+*For example:* If you go to bed at 10:30 p.m., your last coffee would be around 1:30 p.m. This is an imagined calculation from the 8.8-hour estimate, and a personal check is to compare how you sleep after a week of earlier coffee.
+
+## Sources
+
+- [Drake, C. et al. (2013), Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed, J Clin Sleep Med 9(11), 1195–1200 (abstract)](https://pubmed.ncbi.nlm.nih.gov/24235903/)
+- [Gardiner, C. et al. (2023), The effect of caffeine on subsequent sleep: A systematic review and meta-analysis, Sleep Medicine Reviews 69, 101764 (abstract)](https://pubmed.ncbi.nlm.nih.gov/36870101/)
+
 ## Psychology parallels
 
-- **Caffeine and sleep**, caffeine has a half-life of ~5-6 hours; afternoon caffeine disrupts sleep (Drake et al., 2013; Clark & Landolt, 2017)
-- **Caffeine and anxiety**, caffeine can worsen anxiety and panic (Lara, 2010; Broderick & Benjamin, 2004)
+- **Caffeine and sleep**, caffeine at bedtime, 3 hours and 6 hours before bed each disrupted sleep (Drake et al., 2013); pooled across 24 studies, it cut total sleep time by 45 minutes (Gardiner et al., 2023)
 
 ## Philosophy parallels
 

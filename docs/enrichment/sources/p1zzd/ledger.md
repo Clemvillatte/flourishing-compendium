@@ -74,3 +74,11 @@
 - Opened (PubMed abstracts via search): Boden & Fergusson 2011 Addiction 106(5):906-14; Taylor et al. 2014 BMJ 348:g1151; Taylor et al. 2015 BMJ Open 5:e008774 (confounding caveat); Moore et al. 2007 Lancet 370:319-28. Quotes verbatim.
 - Dropped unopened: Koob & Le Moal 2008, Ziedonis 2008, Volkow 2016; seed claims "alcohol disrupts sleep", "nicotine is associated with increased anxiety", "short-term relief" not supported by opened sources -> sleep claim explicitly not made; "billed the next morning" rhetoric removed.
 - Example imagined, labelled; help-seeking line retained from the seed Practice.
+
+## BI018 — Temperature and sleep
+- Opened (PubMed abstracts): Haghayegh et al. 2019 Sleep Med Rev 46:124-135; Okamoto-Mizuno & Mizuno 2012 J Physiol Anthropol 31:14. Quotes verbatim.
+- Seed claim "18-20 °C bedroom" has no support in either abstract -> removed and the omission stated. Harding 2019, Lushington 2000 unopened, removed. Hot-shower example (10 p.m.) was unsourced -> imagined routine.
+
+## BI019 — Caffeine
+- Opened (PubMed abstracts): Drake et al. 2013 J Clin Sleep Med 9(11):1195-1200 (400 mg at 0/3/6 h); Gardiner et al. 2023 Sleep Med Rev 69:101764 (authors/citation by fetch; 24 studies). Quotes verbatim.
+- Seed claims "half-life 5-6 h" and "caffeine worsens anxiety" (Lara 2010, Broderick & Benjamin 2004, Clark & Landolt 2017) unopened -> removed and omission stated on the page. "Cut-off around noon" replaced by the 8.8 h estimate with an imagined calculation. The 'sleep tracker' anecdote removed.
