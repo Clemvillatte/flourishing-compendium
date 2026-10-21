@@ -51,5 +51,7 @@
    "from": "worker-w1m-5f8e3a2b-resumed",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T14:20:56+00:00"
 }
