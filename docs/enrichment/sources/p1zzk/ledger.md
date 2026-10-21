@@ -22,3 +22,5 @@
 - Opened (search excerpts): Springer chapter (quotes Antonovsky 1987 p.19 definition); Eriksson & Lindström 2006 PMC (abstract, discussion). Seed's "predicts resilience" not in the review; causality unconfirmed. Antonovsky 1987 not opened. Diagnosis anecdote replaced by 3-sentence practice. Springer chapter authors not seen.
 ## PP054 — allow incubation
 - Opened (search excerpts): ERIC abstract of Sio & Ormerod 2009; PMC4956660 (authors/journal not seen; d = 0.29 from it); Sio & Ormerod CogSci 2009 paper. Seed corrections: "one of the most robust findings" overstated (d = 0.29, task-dependent); mechanism not settled; walking/showering/sleeping and Wallas not supported by opened sources. Shower anecdote dropped.
+## PP066 — patience with timeline
+- Opened (search excerpts): Bolier 2013 (Springer); PMC9638203 summary of Bolier; PLOS ONE reanalysis (r ~ .10); Lally 2010 abstract (Wiley); Surrey interview. Sheldon 2013 and Lyubomirsky 2008 (seed citations) not opened. "Gains compound" not supported. Gym analogy dropped.
