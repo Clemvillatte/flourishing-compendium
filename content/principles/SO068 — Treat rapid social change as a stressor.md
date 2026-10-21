@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 68** — Treat rapid social change as a stressor
 
-Treat rapid social change — technological, economic, and cultural change — as a stressor. The mechanisms include the disruption of social networks, the loss of cultural meaning, and the acceleration of daily life (Rosa, 2013; Rosa and Trejo-Mathys, 2013).
+Rosa gives the concept: he separates technological acceleration, the acceleration of social change, and the acceleration of the pace of life. He argues that these shrink the "present", "a decreasing time period during which expectations based on past experience reliably match the future" ([Columbia University Press](https://cup.columbia.edu/book/social-acceleration/9780231519885/)). Subjectively, the faster pace is felt as "a lack of time" and, in his account, brings stress and anxiety ([Nursing Inquiry summary of Rosa](https://onlinelibrary.wiley.com/doi/full/10.1111/nin.12528)). This is a social theory, not a clinical finding.
 
-**Plain words** Rapid social change is a stressor in its own right — disrupted networks, lost meanings, accelerated pace. Not an excuse, an exposure. The treatment is partly community: keeping the threads while the fabric changes.
+The empirical support I opened is thin. An overview of 20 systematic reviews on social and societal resilience reports that "rapid cultural change" was associated with worse mental health in one review it covers ([BMC Public Health overview](https://link.springer.com/article/10.1186/s12889-025-25285-5)). The same overview finds the strongest favourable evidence for social support, relationship quality and family support, and says evidence for most factors is sparse or mixed. That fits the principle's point that community ties help, but it comes from reviews of crises and migration, not from a test of change itself.
 
-*For example:* The village-to-city generation with higher illness rates than either village or city natives — the move itself was the exposure. The ones who kept their associations and festivals did better. The threads were the treatment.
+
+
+### Scope
+
+Whether "rapid" change harms health by itself, apart from the poverty, displacement or loss that often come with it, remains open in what I read. I did not open Inglehart and Welzel, Vanden Abeele or Valkenburg, and I found no source for the seed's village-to-city illness comparison.
+
+**Plain words**
+Fast change can wear people down, and Rosa explains why. The better-supported protection is staying connected to people.
+
+**For example**
+During a big change at work or at home, keep one recurring commitment that does not change, such as a weekly meal or a standing call. Note whether it helps you feel steadier.
+
+## Sources
+
+- [Rosa, Social Acceleration (Columbia University Press)](https://cup.columbia.edu/book/social-acceleration/9780231519885/)
+- [Social acceleration, alienation, and resonance: Hartmut Rosa's writings applied to nursing](https://onlinelibrary.wiley.com/doi/full/10.1111/nin.12528)
+- [Overview of systematic reviews on social and societal resilience factors (BMC Public Health)](https://link.springer.com/article/10.1186/s12889-025-25285-5)
+
 ## Psychology parallels
 
 - The social-change literature (Inglehart and Welzel, 2005); cultural mismatch and acculturative stress (Berry, 1997); acceleration (Rosa, 2013); the digital-wellbeing literature (Vanden Abeele, 2021; Valkenburg et al., 2022).
