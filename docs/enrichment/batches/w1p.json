@@ -66,19 +66,21 @@
   "Social loafing theory Latane",
   "Social penetration theory",
   "Social representation theory",
-  "Situated freedom",
-  "Social-Role Theory",
-  "Socioanalytic theory",
   "Sociotropy-autonomy theory",
-  "Source monitoring"
+  "Source monitoring",
+  "Situated freedom",
+  "Social-Role Theory"
  ],
- "in_progress": null,
+ "in_progress": "Socioanalytic theory",
  "flagged": {
   "Self-doubt theory": "ATTRIBUTION FLAG (Category C classification withdrawn after advisor review: construct is source-defined): seed attribution Torti/Buelow not established by searches; construct is self-doubt (Arkin/Oleson program per opened carrier); optional rename to Self-doubt for owner; item marked done",
-  "Social representation theory": "Reopened for QC: advisor QC FAIL: single Wikipedia carrier below bar; new scholarly carrier (Hojer 2011 Nordicom) opened and repairs applied"
+  "Social representation theory": "Reopened for QC: advisor QC FAIL: single Wikipedia carrier below bar; new scholarly carrier (Hojer 2011 Nordicom) opened and repairs applied",
+  "Situated freedom": "Reopened for QC: advisor QC round 1 FAIL: bounded repairs required",
+  "Social-Role Theory": "Reopened for QC: advisor QC round 1 FAIL: bounded repairs",
+  "Socioanalytic theory": "Reopened for QC: advisor QC round 1 FAIL: bounded repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:45:19+00:00",
- "band_done": true
+ "updated": "2026-10-21T14:50:08+00:00",
+ "band_done": false
 }
