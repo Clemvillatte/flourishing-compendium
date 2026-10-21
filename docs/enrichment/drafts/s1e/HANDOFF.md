@@ -17,8 +17,8 @@ non-overlapping zero-story targets minted for s1e).
 Academy DISCOVERY gallery cleanup, pushed as b8c885909 + 56715e551 + a57b619ac:
 - One card per URL: 767 entries deduped to 602 (0 duplicate URLs remain).
 - Head-cropping fixed: card images now object-fit: contain (no cut heads).
-- 118 mismatched person photos removed (monogram fallback, e.g. Nussbaum photo no longer on the Aristotle's Ethics card); 36 placeholder/wrong images restored from verified sources.
-- Remaining ~258 image-less cards render as styled monograms; restoring real images for them needs a follow-up (Wikipedia API rate-limited the session).
+- Wrong-person photos removed in favor of a monogram fallback (e.g. Nussbaum photo no longer on the Aristotle's Ethics card). Final audit vs the pre-cleanup baseline (commit 571d0cadc): an image was kept only when the subject's name appears in the image URL; 13 first-name-only matches were reverted to monograms after the audit flagged them (Heckman shown with Stockdale's portrait, Locke with Gottman's, Beethoven with Wittgenstein's, Goodman with Mandela's, and similar).
+- 271 image-less cards (140 placeholder + 131 unverified) render as styled monograms; restoring real images for them needs a follow-up — the Wikipedia API rate-limited the session, and filename heuristics alone cannot verify a portrait.
 
 ## Lane scope (non-overlapping with s1a/s1b/s1c/s1d and supervisor batches)
 Zero-story pool picks: D045, D065, B176, plus continued picks from the remaining
