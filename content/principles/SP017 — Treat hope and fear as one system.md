@@ -12,13 +12,23 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 17** — Treat hope and fear as one system
 
-Hope and fear are defined as a joy or sadness born of the image of a future thing whose outcome is uncertain; they are inseparable, since hope cannot be without fear nor fear without hope. The pair is the mind's response to uncertainty, and Spinoza's analysis is unsentimental: as uncertainty goes, the pair goes, and the person who lives by them lives on a see-saw. The remedy is not to cultivate more hope but to reduce the uncertainty that feeds both.
+Spinoza defines the pair together at the end of Part III: hope is inconstant pleasure, fear inconstant pain, each arising from an idea of something past or future whose issue we doubt. His fourth-part argument joins them: hope cannot exist without fear, so neither emotion can be good in itself. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-(Ethics III, definitions of Hope and Fear; IV, P47 and P48.)
+> "XII. Hope is an inconstant pleasure, arising from the idea of something past or future, whereof we to a certain extent doubt the issue."
+>
+> "XIII. Fear is an inconstant pain arising from the idea of something past or future, whereof we to a certain extent doubt the issue (cf. III. xviii. note)."
 
-**Plain words** Hope and fear are one system: joy or sadness born of the image of an uncertain future thing. Hope cannot be without fear, nor fear without hope — the pair is the mind's response to uncertainty. Treat them as one weather system, not two problems.
+(Ethics III, Definitions of the Emotions XII and XIII, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-*For example:* The person oscillating all week between "it's going to be fine" and "it's going to be a disaster" — the same mechanism, alternating poles — and the Spinozist move that actually helps: shrinking the uncertainty with information, which quiets both poles at once.
+> "Emotions of hope and fear cannot be in themselves good... Emotions of hope and fear cannot exist without pain. For fear is pain (Def. of the Emotions, xiii.), and hope... cannot exist without fear."
+
+(Ethics IV, Prop. XLVII, same translation and source.)
+
+The note to that proposition adds the direction of travel: "the more we endeavour to be guided by reason, the less do we depend on hope; we endeavour to free ourselves from fear." The page's advice to shrink the underlying uncertainty is the compendium's own application, not something these passages state.
+
+**Plain words** Spinoza defines hope and fear in one breath: pleasure and pain, both inconstant, both about an outcome you doubt. Doubt is what feeds them, so they rise and fall together. Reason's direction is to depend on them less, not to pick a favourite pole.
+
+*For example:* Imagined: someone oscillates all week between "it will be fine" and "it will be a disaster" about a pending result; the pair is one mechanism responding to the same doubt.
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty]]**, with tolerance training as the clinical target (Dugas et al., 1998; uncertainty-tolerance research)
