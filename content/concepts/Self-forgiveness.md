@@ -25,4 +25,5 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - [[S066 — Be gentle with yourself in the review]]
 - - - 
+
 ## Cited in philosophy parallels

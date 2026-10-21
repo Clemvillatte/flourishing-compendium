@@ -27,6 +27,7 @@ Ask what has changed since you last made this plan. Look at the demands, resourc
 ### For example
 
 Suppose a family member is recovering from surgery. You could review this week's commitments with them and ask what help they want now, rather than assuming last month's arrangements will suffice.
+
 ## Psychology parallels
 
 - **[[Situation-sensitivity in self-regulation|Situation-sensitivity in self-regulation]]**, the research showing that matching strategy to context outperforms fixed strategy (Gross's situation-selection research; the person-environment fit literatures)

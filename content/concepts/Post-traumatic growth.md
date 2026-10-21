@@ -49,6 +49,7 @@ Robert Neimeyer's constructivist work adds the mechanism the facets below record
 - [[Stress-related growth]] — the sibling term the 2004 paper contrasts: it suggests lower-level stress, where posttraumatic growth focuses on major crises
 - [[Narrative identity theory McAdams]] — redemption in the wake of specific adversity
 - [[M020]] — the growth-after-adversity research qualifies the earth-as-trial reading: growth is documented but neither automatic nor universal
+
 ## Sources
 
 - Bonanno, 2004 — abstract: https://eric.ed.gov/?id=EJ684215

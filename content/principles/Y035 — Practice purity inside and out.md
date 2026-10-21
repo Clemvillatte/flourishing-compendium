@@ -35,6 +35,7 @@ Sutra 2.40 says "As a result of cleanliness there is disgust at one's own body a
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft) — pp. 181, 188-189
+
 ## Psychology parallels
 
 - **[[Situation selection|Situation selection and environmental design as regulation]]** (Gross, 2015, extended process model)

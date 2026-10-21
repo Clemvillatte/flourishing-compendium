@@ -20,4 +20,5 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Cited in psychology parallels
 
 - [[D180 — Delight in the ordinary]]
+
 ## Cited in philosophy parallels
