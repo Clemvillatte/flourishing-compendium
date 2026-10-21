@@ -388,3 +388,7 @@ QC-closed).
 
 ### w1k "Biopsychosocial model" — quote fidelity PASS (verification pass)
 - Engel 1977 abstract passage EXACT vs the opened Rochester-hosted PDF.
+
+### w1k "Cognitive distortions research" — quote fidelity PASS (verification pass)
+- Panourgia & Comoretto seven-distortions passage EXACT vs the opened PMC article
+  (the source italicizes the distortion names; wording verbatim).
