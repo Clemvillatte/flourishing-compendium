@@ -8,7 +8,6 @@
   "AF051",
   "AF064",
   "AF074",
-  "AT002",
   "AT015",
   "AT018",
   "AT021",
@@ -32,7 +31,7 @@
   "AF080",
   "A118"
  ],
- "in_progress": null,
+ "in_progress": "AT002",
  "flagged": {
   "A056": "QC-CLOSED 2026-10-21 worker-p1zd-2b2e5eca: NE VII.2-4 and VII.7 directly opened; authentic quotes retained; knowledge and strict-scope distinctions restored. Independent first-item advisor applied; inherited parallels outside scope.",
   "A059": "QC-CLOSED 2026-10-21: VII.7/8/10 opened, quote locators corrected, independent advisor confirmed. Historical medical analogy distinguished from diagnosis; inherited parallels unverified.",
@@ -45,10 +44,11 @@
   "A121": "QC-CLOSED 2026-10-21: Rhetoric I.2/II.1 opened, quotes verified; speech-earned ethos example and source links repaired; inherited parallels unverified.",
   "AF076": "QC-CLOSED 2026-10-21: four cited abstracts opened, quotes checked; stranger experiment/couple associations/cultural scope distinguished; disclosure promise removed; inherited parallels unverified.",
   "AF079": "QC-CLOSED 2026-10-21: APA PTSD page opened, quotes checked, sparse hypothetical no longer asserts full pattern; earlier support distinguished from diagnosis; inherited parallels preserved, not reverified.",
-  "AF080": "QC-CLOSED 2026-10-21: APA/NIMH bipolar explanations opened; quotes checked, hospital-care exception and bipolar I scope added; diagnosis distinct from help-seeking; inherited parallels unverified."
+  "AF080": "QC-CLOSED 2026-10-21: APA/NIMH bipolar explanations opened; quotes checked, hospital-care exception and bipolar I scope added; diagnosis distinct from help-seeking; inherited parallels unverified.",
+  "AT002": "Reopened for QC: QC: Plain words overstates 40-person uncorrelated estimates as individual strength diagnosis"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:47:55+00:00",
+ "updated": "2026-10-21T14:48:33+00:00",
  "band_done": false
 }
