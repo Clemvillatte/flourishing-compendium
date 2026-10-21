@@ -14,7 +14,8 @@
   "SE020",
   "SE033",
   "SE038",
-  "SE041"
+  "SE041",
+  "SE057"
  ],
  "in_progress": null,
  "flagged": {
@@ -27,6 +28,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:01:31+00:00",
+ "updated": "2026-10-21T06:02:02+00:00",
  "band_done": false
 }
