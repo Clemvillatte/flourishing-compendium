@@ -122,7 +122,7 @@
   "BE009": "Reopened for QC: QC round 2 FAIL: shaping source gap; opening source from PRIMARY-SOURCES.md",
   "BE019": "Reopened for QC: QC round 2 conditional PASS applied; recording acceptance",
   "BE022": "inherited Linehan 1993, Rizvi-Linehan 2005, Aristotle, Buddhist, Kant parallels not opened; preserved",
-  "BE036": "inherited Linehan, Leyro, Hayes, Buddhist, Nietzsche parallels not opened; preserved",
+  "BE036": "RESOLVED by supervisor-pcx-fe429f3b: opened the Leyro, Zvolensky and Bernstein 2010 Psychological Bulletin review (PubMed - 'Distress tolerance and psychopathological symptoms and disorders: a review of the empirical literature among adults'), confirming the distress-tolerance construct gloss; Linehan 1993 (DBT manual) and Hayes et al. 2011 (ACT) remain bare references to canonical therapy books with fair construct glosses (bounded: not freshly opened); the Buddhist/Nietzsche philosophy parallels remain bare references (bounded); no repair",
   "BI060": "RESOLVED by supervisor-pcx-fe429f3b: inherited locator defects fixed on A025 (phantom MM I.25 removed - Long Book I has only 17 sections) and A045 (unmatched VI.9 removed) - see those flags; the mental-health parallel row remains ROUTED for the next pass (Cramer et al. 2013 / Wang et al. 2010 carrier verification not performed this session)",
   "BI072": "inherited Sapolsky, Lövdén, Stern, Socrates, Neiye, Ecclesiastes parallels not opened; preserved",
   "CO006": "RESOLVED by supervisor-pcx-fe429f3b: opened the Mercier and Sperber 2011 BBS abstract (Europe PMC - 'the function of reasoning is argumentative... When the same problems are placed in a proper argumentative setting, people turn out to be skilled arguers') as the companion carrier for the cited 2017 book (same argumentative thesis): the third bullet's collaborative-reasoning gloss is a fair rendering of the argumentative theory's group thesis; the first two bullets (distributed cognition Hutchins 1995 and Clark and Chalmers 1998; transactive memory Wegner 1987) are bare references to canonical works with fair construct glosses (bounded: not freshly opened); the Ubuntu/Buber/Habermas philosophy parallels remain bare references (bounded); no repair",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:52:42+00:00",
+ "updated": "2026-10-21T13:53:03+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
