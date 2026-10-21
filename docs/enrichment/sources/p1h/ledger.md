@@ -1389,7 +1389,11 @@ applied and pushed (c309782e):
   worker. Reduced to bare references per the AF011/AF046/BI041 precedent
   (wikilinks and citations kept, claim clauses removed); all three pages
   validate ok. The inherited rows are now genuinely bare references and the
-  resolution boundary statement is accurate.
+  resolution boundary statement is accurate. [CORRECTED IN ROUND 3 — the
+  D061 "Early-intervention evidence" row had NO wikilink and NO citation, so
+  it was not reducible to a bare reference; it was REMOVED from the page
+  outright (history preserved in the round-3 note below). The remaining
+  inherited rows are genuinely bare references.]
 - **Narrowed clearance language**: each resolution covers the specific
   flagged defect(s) and the displayed quotations of that page — not a
   whole-page certification. Where a resolution relied on a predecessor's
@@ -1403,3 +1407,18 @@ applied and pushed (c309782e):
   recovered from dd687e9d^ and are preserved in the state file alongside
   each disposition ([ORIGINAL ALLEGATION: ...]), restoring the audit-trail
   information.
+
+### Round 3 correction (2026-10-21, supervisor-p1abc, advisor-caught)
+
+The round-2 statement that every inherited row "became a bare reference" was
+WRONG for one D061 row: "- **Early-intervention evidence across mental
+health**" had no wikilink and no citation. The interim round-2 text also
+wrongly exposed internal audit commentary on the public page ("(unverified
+inherited gloss; see ledger)"). The row has been REMOVED from the page
+outright; D061 validates ok vs the pre-repair baseline (c309782e^, 0
+failures). The p1h pass is reported as 32 SCOPED FLAG DISPOSITIONS: each
+resolution covers the specific flagged defect(s) and the displayed
+quotations of that page — not whole-page or whole-band certification.
+Predecessor-only evidence (AT039's Berman et al. 2008 claims; the ten
+supervisor scoped-verification notes) is explicitly excluded from this
+session's certification and remains available for future verification.
