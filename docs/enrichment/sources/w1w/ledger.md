@@ -486,3 +486,18 @@
   on the market"); no outside claims asserted. Closing diagnostic
   marked as the compendium's use.
 - Normal validator: ok. State recorded (done count 35).
+
+## Item 38: That thou art, read relationally (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Shankara's tradition on Chandogya 6.8.7" — SEED
+  MISCHARACTERIZATION flagged: Shankara's Advaita is the identity
+  reading; the relational reading is Ramanuja's Vishishtadvaita
+  (samanadhikaranya / coordinate predication). Seed line kept in
+  Sources with correction note.
+- Carrier opened: Sanatana Rahasya, "Tat tvam asi: three readings" —
+  verified verbatim: the three-readings sentence, the samanadhikaranya
+  passage, and the pastoral-weight passage ("The soul is not an
+  illusion to be seen through...").
+- No Buber claims asserted (page does not mention Buber). Closing
+  paragraph marked as the compendium's reading practice.
+- Normal validator: ok. State recorded (done count 36).
