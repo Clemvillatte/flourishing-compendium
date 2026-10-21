@@ -104,3 +104,14 @@
 - First attempt wrongly treated it as psychology; reverted (git checkout) before commit, then rewritten from the primary text.
 - Opened and verified raw: Anzaldúa, "(Un)natural bridges, (Un)safe spaces", preface to This Bridge We Call Home (2002), PDF (ailleurs.hypotheses.org) downloaded and text-matched: nepantleras definition (p. 1 per secondary citation), "Staying home ... comes from woundedness, and stagnates our growth", "To bridge means loosening our borders, not closing off to others", "to risk being wounded", "For nepantleras, to bridge is an act of will, an act of love..." Page locators: p. 1 and p. 3 attested by secondary sources; other quotes locator "Preface" only (page not confirmed).
 - Seed "third-culture and mediation functions" bullet replaced by Pettigrew & Tropp 2006 (opened), flagged as analogue. Engineer example kept in imagined form (seed example was unsourced). "labeled modern" line retained.
+
+## CO058 — Flashbulb memories
+- Opened (PubMed abstracts): Talarico & Rubin 2003 Psych Sci 14(5):455-61 (54 Duke students, 1/6/32 weeks; "not special in their accuracy ... only in their perceived accuracy"); Hirst et al. 2015 JEP:G 144(3):604-23 (10-year follow-up). Quotes verbatim. Neisser & Harsch 1992 unopened -> bare ref. Seed "accuracy declines at the same rate" tightened to "consistency".
+
+## CO017 — Availability heuristic
+- Opened: Tversky & Kahneman 1973 (abstract and the opening text of the paper via search; definition on p. 208); Pachur 2024 Cognition 246:105736 (PubMed, fetched; Bayesian re-analysis of Lichtenstein et al. 1978 and replications).
+- KEY FINDING: seed claim "media amplifies availability bias (Combs & Slovic 1979)" is not supported by the 2024 replication analysis: media over-represent dramatic risks but people's frequency judgments did not show the differential distortion outside Lichtenstein's original data. Combs & Slovic kept as bare reference; shark/plane/abduction claims (no source opened) removed.
+
+## CO016 — Belief perseverance
+- Opened: Ross, Lepper & Hubbard 1975 (PubMed 1185517 abstract); Lepper, Ross & Lau 1986 (PubMed 3701590 abstract); Wood & Porter 2019 (Springer PDF abstract + intro text, 10,100 subjects, 52 issues).
+- KEY CORRECTION: seed "fact-checking alone rarely changes minds" contradicted by Wood & Porter (corrections generally improve accuracy). Page reframed: perseverance persists in lab after debriefing; process debriefing works; corrections in politics usually help. Practice line rewritten (was "replace with alternative explanation ... beliefs abhor a vacuum", unsourced; Anderson et al. 1980 unopened). Anderson 1980, Nyhan & Reifler 2010 bare refs.
