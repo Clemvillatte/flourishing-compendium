@@ -37,6 +37,9 @@ The veteran teacher who still watches students with fresh eyes catches what the 
 
 - [[K126 — Cognitive defusion|K126 Cognitive defusion]]
 
+## Stories
+- [[ST408 — The Material Told Her Where to Go|408. The Material Told Her Where to Go]]
+
 ## Psychology parallels
 
 - **[[Growth mindset|Growth mindset]]**, beliefs about malleable ability shape persistence and outcomes (Dweck, 2006; effect sizes vary by context)
