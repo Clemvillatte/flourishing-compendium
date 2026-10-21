@@ -38,3 +38,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Removed duplicated `that` before `qua man`. Plain words now presents household questions as contemporary reflection rather than asserting a general causal account of how all readers acquire habits at home.
 - Removed the unsupported claim about what most readers reject. The principle explicitly rejects the historical hierarchies without sanitising Aristotle's text.
 - Protected metadata, original principle sentence and inherited parallels preserved.
+
+## A116
+
+- Opened [Rhetoric II.5, Roberts](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) and [NE III.6, Ross](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html); checked all definition, distance, deliberation and honour quotations.
+- Independent milestone advisor confirmed the source/advice boundary problem. Replaced the unsupported claim that fear becomes useless with Aristotle's descriptive hope-of-escape condition.
+- Plain words now marks the practical questions as contemporary reflection. The imagined public-speaking example offers a possible step without promising that dread will become preparation.
+- Protected content and inherited parallels preserved; no clinical claim or diagnostic criterion is supplied.

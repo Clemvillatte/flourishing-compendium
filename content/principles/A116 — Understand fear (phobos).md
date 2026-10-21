@@ -18,9 +18,9 @@ Fear also does work. He writes that "fear sets us thinking what can be done, whi
 
 (Rhetoric II.5; NE III.6.)
 
-**Plain words** Fear starts from a picture of harm that is coming. That makes it checkable: how bad would the harm be, how near is it, and what can I do about it? Aristotle does not treat fear as an enemy. It prompts planning, and fear of disgrace is the correct response to something disgraceful. It stops being useful when the picture is out of proportion or when nothing can be done.
+**Plain words** In Aristotle's account, fear concerns harm that seems serious and close enough to threaten us. It also involves some hope of escape, which makes deliberation possible. That is his description, not a test of whether someone's fear is reasonable or useful. As a contemporary reflection, ask what harm you expect, what evidence bears on it, and what help or preparation is possible.
 
-For example (imagined): before giving a talk you picture the room laughing. Asking what is most likely to happen, and what you could rehearse, tests the picture and turns the dread into preparation.
+For example (imagined): before giving a talk you picture the room laughing. You might separate what you know about the audience from what you imagine, then choose one useful rehearsal step.
 
 ## Sources
 
