@@ -30,7 +30,7 @@ For two weeks, keep hard sessions at least two hours before bed, and compare you
 
 - [Yang et al. 2012, Exercise training improves sleep quality in middle-aged and older adults (PubMed)](https://pubmed.ncbi.nlm.nih.gov/22884182/)
 - [Stutz et al. 2019, Effects of Evening Exercise on Sleep in Healthy Participants (Sports Medicine)](https://link.springer.com/article/10.1007/s40279-018-1015-0)
-- [The effects of evening high-intensity exercise on sleep in healthy adults (Sleep Medicine Reviews)](https://www.sciencedirect.com/science/article/abs/pii/S1087079221001209)
+- [The effects of evening high-intensity exercise on sleep in healthy adults (ScienceDirect)](https://www.sciencedirect.com/science/article/abs/pii/S1087079221001209)
 - [Buman et al. 2014, Does nighttime exercise really disturb sleep? (PubMed)](https://pubmed.ncbi.nlm.nih.gov/24933083/)
 
 ## Psychology parallels
