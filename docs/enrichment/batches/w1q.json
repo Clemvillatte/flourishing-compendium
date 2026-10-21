@@ -55,7 +55,8 @@
   "Being-toward-death",
   "Angst",
   "Anamnesis",
-  "Amor dei intellectualis"
+  "Amor dei intellectualis",
+  "Blessedness"
  ],
  "in_progress": null,
  "flagged": {
@@ -105,10 +106,11 @@
   "Being-toward-death": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): replaced seed's Wikipedia citation with opened SEP Heidegger article (Wrathall); SZ quotes relayed by SEP verbatim; 'no one can die for me' from seed preserved as paraphrase; validated --fast-track",
   "Angst": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): seed's Heidegger BT §40/Kierkegaard/Tillich/Yalom line kept as structure; quotable material from opened SEP Heidegger article (anxiety as finitude disclosure; flight from nothingness); Kierkegaard/Tillich/Yalom described from standard accounts, not directly quoted; validated --fast-track",
   "Anamnesis": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Plato Meno/Phaedo 73a-b anamnesis material quoted verbatim via opened SEP Plato article (Kraut); Meno slave boy described from the SEP's summary; validated --fast-track",
-  "Amor dei intellectualis": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's quote 'Blessedness is virtue itself, not its reward' NOT found in the cited SEP Spinoza article (checked) — replaced with verbatim SEP quotes on third-kind knowledge, intellectual love, and Maimonides cue; owner may wish to restore the Ethics VP42 line from an opened primary carrier"
+  "Amor dei intellectualis": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's quote 'Blessedness is virtue itself, not its reward' NOT found in the cited SEP Spinoza article (checked) — replaced with verbatim SEP quotes on third-kind knowledge, intellectual love, and Maimonides cue; owner may wish to restore the Ethics VP42 line from an opened primary carrier",
+  "Blessedness": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's 'blessedness is virtue itself, not its reward' quote NOT found in cited SEP Spinoza article (checked; cf. Amor dei flag) — replaced with verbatim SEP quotes on beatitudo; owner may wish to restore Ethics VP42 line from an opened primary carrier"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:43:37+00:00",
+ "updated": "2026-10-21T16:43:55+00:00",
  "band_done": false
 }
