@@ -471,3 +471,18 @@
   relational reading worked out there). Vedanta-schools sentence kept
   generic (no school claims asserted).
 - Normal validator: ok. State recorded (done count 34).
+
+## Item 37: The approval trap (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Fromm, Escape from Freedom (one line + related). Seed
+  citation line and cited-in links kept.
+- Carrier opened: Escape from Freedom full-text PDF (edarcipelago.com
+  hosting). Verified verbatim: the market-personality self-confidence
+  passage ("If he is sought after, he is somebody...") and the
+  pseudo-self passage ("...continuous approval and recognition by
+  others... if they know, he will know too, if he only takes their
+  word for it").
+- Market-personality framing grounded in the passage itself ("success
+  on the market"); no outside claims asserted. Closing diagnostic
+  marked as the compendium's use.
+- Normal validator: ok. State recorded (done count 35).
