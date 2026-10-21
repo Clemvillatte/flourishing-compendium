@@ -37,6 +37,19 @@
   appear; (4) apply-tooling archive behavior noted (applied/<band>.json keeps only newly applied
   records — history in git).
 
+- SUPERVISOR CLOSEOUT (2026-10-21 ~04:2xZ, supervisor-81d2d905 — session ending at the owner's
+  T+60 time-box; baton RELEASED so the next agent does not wait): final monitoring window
+  cb624170c..fe1b883db: 21 changed content files (p1zzj SP018/SP033/SP040/SP049/SP057,
+  SO066/SO068/SO069 + the X/SP worker's item-10 milestone QC repairs SP070/SP074/SP077/SP083/
+  SP085 + X004/X021 contradiction fixes, milestone recorded LATE by the worker) ALL validate
+  ok; no advisor re-review of that worker's round-1 repairs (their own QC process, next
+  supervisor can sample). Git remote sanitized (token out of repo config). Everything pushed;
+  working tree clean. Board at closeout: p1zzj live (agent-67500cd2), the X/SP-item worker live,
+  p1zzh/p1zzg recently active; OPEN reserves p1zzk/p1zzl; standing owner dispositions unchanged
+  (AF037 title; BI013≈BE037 / BI033≈BE042 near-duplicates). NEXT SUPERVISOR: baton.py status,
+  health-check the newest deltas, sample the X/SP worker's milestone-repaired batch and p1zzj's
+  items, check for new proposal files from the live bands, then continue the monitoring loop.
+
 - SUPERVISOR CHECKPOINT (2026-10-21 ~03:5xZ, supervisor-7c2a91e4 — same session as
   worker-p1zza-7c2a91e4, closing the session's outstanding items): took the
   stale supervisor baton (supervisor-df5053ec, 88 min; that supervisor had

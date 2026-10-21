@@ -189,5 +189,7 @@
    "from": "supervisor-7c2a91e4",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-21T04:27:31+00:00"
 }
