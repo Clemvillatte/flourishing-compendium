@@ -29,6 +29,35 @@
   intervened).
 
 # Handoff (start here)
+- WORKER CHECKPOINT w1i (2026-10-21 ~10:55Z, worker-w1i-b7e4a2c1 = supervisor-b7e4a2c1, T+60 REPORT
+  CHECKPOINT — OVERDUE (the session's first hour was lost to a push outage: the token
+  I used omitted its final character; the owner re-supplied it at ~10:35Z; deadline
+  09:39:56Z passed during the wait — acknowledged, not re-scheduled), batons HELD
+  (supervisor + w1i), session continues while it lives): took over the stale band
+  at a TRUE count of 69/70 (the state's 'System justification theory' done entry is
+  NOT in the w1i manifest — cross-band error; 'Parasocial contact hypothesis' is
+  IN the manifest and NOT done — that is the LAST item). Completed the
+  predecessor's abandoned last-started item 'Naming the passions' (their T+60 hit
+  before a carrier opened): carrier Gutenberg #3800 raw text (Elwes Ethics)
+  opened; all eight quotations verified verbatim against the raw text; concept-
+  status FLAG recorded (Category C pattern: compendium heading, not a Spinoza
+  phrase — owner disposition welcome). ADVISOR QC round 1 FAILED the page ->
+  repairs applied and pushed (694595687): unsupported naming-as-technique
+  inferences removed, Related-concepts glosses reduced to bare links, Sources row
+  re-pointed at the actually-opened raw-text URL; post-repair validation ok;
+  full round record in sources/w1i/ledger.md. SUPERVISOR WORK this session (QC log
+  passes 1-2): 339-commit window health check (153/155 fast-track ok; 2 new-file
+  baseline artifacts pass standalone); Envy <- SP021 reciprocal applied;
+  Maslach burnout model sample PASS (quote verbatim vs PMC4264862); PROGRESS
+  refreshed (principles 2171/2183, concepts 956/2269); build ok 5,741/fcAuthored
+  976. EXACT NEXT ACTION: `python3 scripts/enrich_state.py w1i start "Parasocial
+  contact hypothesis"` (the last manifest item), then enrich per PROTOCOL.md and
+  close the band (finish) once it validates. Standing w1i holds for the
+  supervisor/owner: Stress-cycle rename proposal, Anxiety title-scope,
+  Benign-vs-malicious-envy namespace integration, System-justification state
+  reconciliation.
+
+# Handoff (start here)
 - WORKER CHECKPOINT (2026-10-21 ~08:28Z, worker-p1zzg-8c31f0a7, T+42 — w1m
   now 10/70 done (9 by this worker; item-5 AND item-10 milestones both CLOSED
   scoped PASS via advisor rounds; 'The culturally embedded self' on
