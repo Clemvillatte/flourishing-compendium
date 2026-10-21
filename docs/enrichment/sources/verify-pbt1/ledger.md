@@ -505,3 +505,18 @@ Carrier opened fresh: OUP open chapter of Fricker, Epistemic Injustice (Introduc
    book's own framing.
 
 Result: 1/1 quotation fidelity PASS, no defects this round.
+
+## Round 25 (16:31Z) — w1ab quote-fidelity verification (released band), first batch
+
+Carriers opened fresh: Nudge ch. 1 PDF (UCSD mirror), panarchy Frankl "The Will to
+Meaning" excerpt, SEP "Moral Dilemmas" (McConnell), PubMed 11699120 (Haidt abstract).
+
+1. Nudge theory Thaler — blockquote VERBATIM vs the opened chapter PDF.
+2. Noogenic neurosis — all three blockquotes VERBATIM vs the opened Frankl excerpt;
+   the existential-frustration sentence VERBATIM.
+3. Moral dilemmas — SEP blockquote VERBATIM; the override/conflict-not-dilemma and
+   ontological-not-epistemic prose claims verbatim-supported; the Haidt abstract
+   quotation VERBATIM, with the social-model and quick-automatic-evaluations claims
+   verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
