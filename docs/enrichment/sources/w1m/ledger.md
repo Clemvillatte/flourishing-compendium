@@ -308,3 +308,21 @@ Advisor QC round 4 (2026-10-21, worker-w1m-f9f8e50d): SCOPED PASS for
 Behaviorism after three blocking rounds and the closeout checks; rounds 1-3
 were FAILs with applied repairs, round 4 cleared the item. Not a certification
 of the whole band or the cited works. Item marked done via state workflow.
+
+## COM-B model theory (worker-w1m-f9f8e50d, session 2026-10-21 14:4xZ)
+Theory-page standard (organising-framework form). The standing flag recorded
+that the primary sources (PMC3216833, BMC, Europe PMC) block automated access.
+Resolution this session: the fetch-service prompt extraction opened the BMC
+full text (implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42);
+raw curl hit a bot wall (3KB challenge), PMC and Europe PMC blocked, so
+verbatim verification was done with the CLOUD BROWSER on the Springer-rendered
+article page (link.springer.com/article/10.1186/1748-5908-6-42), checking each
+quoted string against the rendered full text via in-page search.
+CATCH: the prompt-extraction returned "Opportunity is defined as all those
+factors" but the page reads "all the factors"; the page quote was corrected
+before writing. All six checked strings verbatim on the rendered page: the
+behaviour-system definition, the three condition definitions, the criminal-law
+derivation sentence, and the intervention-design sentence. Browser stopped
+after verification. No advisor round (item 2; cadence next due at item 5).
+Validator ok (--fast-track and --base vs 1f190f132 equivalent checks: front
+matter byte-identical, original wikilinks preserved).
