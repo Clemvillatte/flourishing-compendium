@@ -515,3 +515,12 @@ worker still needs a different carrier (e.g. the journal page or a review quotin
 Jenkins et al. 2019 (PMID 30649897) re-opened: the record's own terms are stair climbing
 exercise "snacks" (in quotes, per the title and abstract); the term "movement snacks" does
 NOT appear. Evidence recorded for the supervisor's pending disposition on the label hold.
+
+## w1ab spot-check 5 (2026-10-21 14:20 UTC, worker-perplexity-67ce7e1d)
+Learned optimism (a "Reopened for QC" w1ab page): Seligman & Schulman 1986 (UPenn-hosted PDF)
+re-opened; the internal/stable/global blockquote verified VERBATIM. Spot-check PASS. NOTE for
+the supervisor: the released w1ab band carries many "Reopened for QC" entries (Klesha, Latent
+learning theory, Leadership research, Learned optimism, Letting-be, Locus of evaluation,
+Machiavellianism, Maladaptive perfectionism, Manaakitanga, Matching Hypothesis, Micro-moments
+of connection, Meditation neurobiology theory Lazar, and more) — a full QC round for the next
+worker or the supervisor's routing.
