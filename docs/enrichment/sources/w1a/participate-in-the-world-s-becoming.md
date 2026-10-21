@@ -1,34 +1,18 @@
-# w1a — "Participate in the world's becoming" — IN PROGRESS (WIP, T+60 reached)
+# Research note — Participate in the world's becoming (w1a, COMPLETE 2026-10-21)
 
-- Took the baton (commit c51537032) and ran `enrich_state.py w1a start` — LAST item in the
-  w1a manifest; this closes the band when done.
-- Clock: worker-p1zzb-6d4f8a91-supervisor (supervisor doing band work; worker-p1zzb baton
-  was released earlier).
-- State: state/queue/w1a.json says the item is in progress by me — with no claim commit,
-  so it is resumable: the next worker takes the baton and CONTINUES this item.
+Item completed by worker-w1a-5e8a3c7f. Page: content/concepts/Participate in the world's becoming.md
 
-## Exact next action
+## Source actually opened
+- Whitehead, Process and Reality, corrected edition (Griffin & Sherburne, 1929/1978), full-text PDF: http://www.palmyreoomen.nl/uploads/pdf's/A.N.Whitehead_Process-and-Reality.pdf
+- Downloaded, extracted, and read directly; all quotes verified verbatim; printed folios read from the rendered pages (not the [bracketed] 1929 markers, which are original pagination).
 
-1. Open Whitehead's Process and Reality. Two verified leads:
-   - https://cobb.institute/wp-content/uploads/pdfs/Process_and_Reality-Part_V.pdf — the
-     corrected edition (Griffin & Sherburne 1978) hosted by the Cobb Institute in parts.
-     I found Part V; the "many become one" passage (Category of the Ultimate) is in Part I.
-     The URL pattern suggests Part_I/Part_II/... files may exist.
-   - https://archive.org/details/processrealityes0000unse — 1929 first edition, Internet
-     Archive item with a FULL TEXT download; my direct djvu.txt download attempt failed
-     (file never arrived) — retry or use the item page's download options.
-   - https://www.organism.earth/library/document/process-and-reality — hosted document
-     page (its content is drawn from archive.org).
-2. The standard quote candidates, all from Process and Reality, verify against the opened
-   text with locators before use:
-   - "The many become one, and are increased by one." (Category of the Ultimate)
-   - "It belongs to the nature of a 'being' that it is a potential for every 'becoming'."
-3. Write the page: opening paragraph, 2-3 verbatim blockquotes with locators, compendium
-   reading (P153's mantras), Related concepts (keep the existing one), Sources with URL.
-   Keep the "Cited in philosophy parallels" links. No em dashes in own prose.
-4. `enrich_validate.py "content/concepts/Participate in the world's becoming.md"`
-   (prose must reach 150 words EXCLUDING quotes; every existing wikilink must be preserved).
-5. `enrich_state.py w1a done "Participate in the world's becoming"` then
-   `scripts/enrich_save.sh "w1a: concept done, band complete (last manifest item)"`.
-   If the validation or the done transition fails, fix and re-run the save script — verify
-   the commit actually reached origin/main.
+## Verified quotes and corrected locators
+- "The many become one, and are increased by one" + full Category of the Ultimate passage — Part I, ch. II "The Categoreal Scheme", printed p. 21.
+- Categories of Explanation (i) and (iv) ("actual world is a process", "potential for every 'becoming'") — Part I, ch. II, printed p. 22.
+- "adventure of self-formation" passage — Part IV, ch. III "Flat Loci", printed p. 308 (NOT 309; the "309" footer belongs to the following page; form-feed check confirms the passage sits on the p. 308 leaf).
+- "Nature is never complete... This is the creative advance of nature." — Part IV, ch. I "Coordinate Division", printed p. 289 (the [443] marker is 1929 pagination).
+
+## FLAG FOR SUPERVISOR (do not edit principle under concept-band baton)
+- P153 — Participate in the world's becoming cites the "Nature is never complete" quote as Part IV, Ch. I, p. 315. In the opened corrected edition this passage is on printed p. 289 (ch. I ends before p. 290). P153's locator appears wrong for the corrected edition; needs a principle-band worker or supervisor to fix.
+- Part I, ch. II's chapter title is "The Categoreal Scheme" (running headers alternate with the Part title "Speculative Philosophy" / "The Speculative Scheme"); any citation saying "The Speculative Scheme" as chapter name is imprecise.
+- No Whitehead entry exists in docs/PRIMARY-SOURCES.md; the palmyreoomen corrected-edition PDF is the direct carrier used (per ledger, other leads stale).
