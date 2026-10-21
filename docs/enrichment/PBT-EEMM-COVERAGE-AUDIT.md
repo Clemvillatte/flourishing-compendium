@@ -82,3 +82,15 @@ the tool cap; saturation is strong but not provably exhaustive. The owner's
 "all concepts present, rich and linked" goal is therefore: present = yes (for
 the core model layer), rich = pending QC, linked = pending proposal
 integration.
+
+## Addendum — QC state (2026-10-21, worker-w1m-f9f8e50d)
+Round-1 QC verdicts: Process-based therapy and Extended Evolutionary
+Meta-Model — scoped PASS (round 2/3, exact-file quote verification all OK).
+Treatment kernels, Context sensitivity, Variation-selection-retention,
+Tipping point (networks), Tinbergen's four questions — round-1 repairs
+applied and validated; not yet advisor-cleared. Mediators of change and
+Midlevel terms — QC-pending (substantive verification outstanding;
+Midlevel terms quotes from Twohig & Levin via fetch-extraction, residual
+risk recorded in the ledger). The side quest is NOT complete: theory-like
+depth per the owner's message 3, exhaustive saturation and proposal
+integration remain open.
