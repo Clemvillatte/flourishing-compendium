@@ -127,6 +127,17 @@ Worker, Boundless Love Project, Embodied Mindfulness) — all verified genuine g
 flagged for upgrade to authoritative sources in a later QC pass. K411 Zuowang + K412 Inner Smile created; 25 kernels
 done in this session (4 new, 21 enriched).
 
+Worker note (2026-10-21 14:42 UTC, worker-cmp-degree-277caea1, baton `cmp`): OWNER-DIRECTED special task
+per docs/DEGREE-CMP-HANDOFF.md: build the Academy degree `deg-cmp` ("Contemplative & Mental Practices — A Year of
+Practice", 12 modules). Scope: NEW kernels K413 box breathing (incl. 4-7-8 variant), K414 compassion meditation
+(CCT-style), K415 mindful eating; a CMP1 structure page; fcAcademyData splice + TOPIC_NAMES + ACAD_IMG
+(owner-supplied Dissonanz painting) per the handoff recipe; full referential validation + test suite + browser QA
+before push. COORDINATION REQUEST to kpr: the CCT and mindful-eating kernels are at the tail of your queue; this
+session is creating them now, please skip them (six healing sounds and microcosmic orbit remain yours). Shared
+files I will touch: content/_order.json, batches/cmp.json, docs/enrichment/batons/cmp.json, TASKBOARD (this note),
+DEGREE-CMP-HANDOFF changelog, site/assets/app.js (safe-splice, degree-only ids), site/assets/academy/cmp.jpg.
+Status "draft" until all 12 modules are verified. Per-item ledger: docs/enrichment/sources/cmp/ledger.md.
+
 ## How to claim
 
 Supervisor note (2026-10-20, supervisor-3ef4f549): OPEN principle reserves are now p1zzb
