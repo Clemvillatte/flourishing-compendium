@@ -78,3 +78,7 @@ Dacher Keltner citation now links to his Greater Good profile (https://greatergo
 ### SISTER CHAN KHONG BIO CITATION FIXED
 
 Citation now links to her Plum Village bio (https://plumvillage.org/about/sister-chan-khong/, verified unprompted: first fully-ordained monastic disciple of Zen Master Thich Nhat Hanh, director of his humanitarian projects since the 1960s). Previously it linked to a meditations listing page. Leigh Brasington: his own bio page exists (leighb.com/bio.htm) but the prompt extraction could not confirm a training sentence, so his citation was left unchanged rather than risk a first-extraction claim.
+
+### SALZBERG BIO CITATION FIXED
+
+Sharon Salzberg citation now links to her own bio (https://www.sharonsalzberg.com/about, verified: co-founder of the Insight Meditation Society in Barre, Massachusetts). Goldstein's Dharma Seed teacher page carries his talk archive but no bio sentence, so his link stays on the archive it names.
