@@ -88,3 +88,7 @@
 ## R098 — Practise the I-It relation without abandoning it
 - Opened (excerpts): Aeon Buber essay, Direction journal, Academia Buber paper, SlideServe summary (Buber 2004 p.21 quote, low reliability, flagged), Clark & Mills 1993 abstract (SAGE), WFRN glossary. Buber 1923/1965, Horkheimer & Adorno unread.
 - Seed "domination of I-It" phrase not found; consistent with "necessary but insufficient". Clark & Mills parallel loose (payment/need norms vs. mode of perception).
+
+## R108 — Practise deliberative community
+- Opened (excerpts): SEP Democracy (Habermas two-track), Involve, Fishkin & Luskin 2005, Critical Review critique of deliberative polling, World Happiness Report 2019 ch.3, Ghana thesis summarising Flavin & Keane 2012. Habermas 1996, Sandel 2009, Bohman 1996, Flavin & Keane full text unread.
+- Seed psychology parallel "civic participation and well-being": Flavin & Keane run life satisfaction -> participation (correlational, non-conflictual forms only); wellbeing benefit of participating not shown. "Your voice matters" is a value claim.
