@@ -49,10 +49,15 @@
      "t": "2026-10-21T12:22:21+00:00",
      "to": "ready",
      "note": "advisor fixes applied and verified; story_check ok; complementary angle to ST356 recorded"
+    },
+    {
+     "t": "2026-10-21T12:23:52+00:00",
+     "to": "published",
+     "note": "supervisor registration ST379"
     }
    ]
   }
  },
  "note": "unstarted candidates listed in HANDOFF.md only, per QC advice; one active item per lane",
- "updated": "2026-10-21T12:22:21+00:00"
+ "updated": "2026-10-21T12:23:52+00:00"
 }

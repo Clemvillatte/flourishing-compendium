@@ -25,7 +25,7 @@ The same discussion explains the warning: "returning eko, going back into the wo
 
 ## Stories
 - [[ST356 — The Shade Tree After the Great Death|356. The Shade Tree After the Great Death]]
-
+- [[ST379 — The Bottom of the Pail|379. The Bottom of the Pail]]
 ## Psychology parallels
 
 - **[[Ego dissolution|Ego dissolution]]**, temporary loss of self-boundary correlates with lasting well-being gains (Letheby and Griffiths, 2017)

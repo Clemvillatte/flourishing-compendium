@@ -133,6 +133,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST083 — Neo Takes the Red Pill]]
     - [[ST359 — Fayan Carries a Stone and Runs Out of Words]]
     - [[ST365 — Deshan Cannot Answer]]
+    - [[ST379 — The Bottom of the Pail]]
   - [[ST-S02.07 — II.7 Ethics and Relations]]
     - [[ST084 — Sigālaka's Six Directions]]
     - [[ST085 — The Quarrel at Kosambī]]
