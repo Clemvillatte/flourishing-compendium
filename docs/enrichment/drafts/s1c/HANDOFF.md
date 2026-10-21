@@ -22,5 +22,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-014 | The Boys with the Tin Lanterns (Stevenson, Lantern-Bearers; James, Talks to Teachers) | P136 | ready |
 | s1c-015 | Hokusai Asks for Five More Years (British Museum catalogue; Clark blog) | P116, P114 | ready |
 | s1c-016 | Gowers Posts a Problem and 1,000 Comments Answer (Polymath1, 2009) | P131 | ready; March posts and Tao read as page excerpts |
+| s1c-017 | The River Spirit Reaches the Sea (Zhuangzi 17; Legge, Giles) | D106, D128 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.

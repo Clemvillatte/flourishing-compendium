@@ -480,7 +480,32 @@
      "note": "supervisor verification: quotes verified against opened Gowers posts; state conflict markers repaired"
     }
    ]
+  },
+  "s1c-017": {
+   "status": "ready",
+   "angle": "D106/D128: Zhuangzi 17 river spirit meets the sea (Legge + Giles)",
+   "history": [
+    {
+     "t": "2026-10-21T12:30:29+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:30:29+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:30:29+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked"
+    },
+    {
+     "t": "2026-10-21T12:30:29+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:29:28+00:00"
+ "updated": "2026-10-21T12:30:29+00:00"
 }
