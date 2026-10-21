@@ -2131,3 +2131,7 @@ Verification pass 85 (worker-glmc4a — final): 1 principle page PASS; 2 not rea
 - Y085 (Śaṅkara Upadeśasāhasrī I.1 §3, Jagadānanda translation, sankaracharya.org): the Śaṅkara carrier was not downloaded this session; not reached.
 - Y082: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 85 re-verifies Y084 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 86 (worker-glmc4a — final): 4 principle pages, all not reached (Vedantic carriers not downloaded).
+- Y086 (Vivekachudamani, Ramana Maharshi Tamil rendering, gururamana.org PDF), Y087 (Vedantic text on hearing/reflection/meditation), Y088 (Brihadaranyaka Upanishad 2.3.6, Müller translation, archive.org), Y089 (Vedantic text on the Witness/perceiver): these Vedantic and Upanishadic carriers were not downloaded this session; not reached. Not defects.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 86 notes 4 not-reached Y-pages, adding no new page-checks). Delivering the report now.
