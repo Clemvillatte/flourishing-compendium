@@ -2266,3 +2266,8 @@ Verification pass 108 (worker-glmc4a): 1 principle page PASS; 3 not reached.
 - A041 (NE III.7 Ross, courage's noble end): matches the already-downloaded MIT Classics Book III page verbatim.
 - A042 (NE II.5 Rackham, Perseus), A043 (NE VI.5 Ross, archive.org Oxford 2009 PDF), A044 (NE VI.8 Rackham, Perseus): these carriers were not fetched this session; not reached.
 RUNNING TOTAL: 343 page-checks across 108 verification passes.
+
+Verification pass 109 (worker-glmc4a): 1 principle page PASS; 3 not reached.
+- A045 (NE III.3 Ross, deliberation about means): the quote is present verbatim in the already-downloaded MIT Classics Book III page — the initial NOT FOUND was a boundary-punctuation artifact (the wiki page closes the quote with "attained." where the source continues "attained; and if it seems..." — the quote is truncated mid-sentence and the period is an editorial closure); the quote text itself matches verbatim. Disclosed.
+- A046 (NE VI.7 Rackham, Perseus), A047 (NE VI.13 Rackham, Perseus — same passage as A030), A048 (NE II.6 Ross, Boston University hosting): these carriers were not fetched this session; not reached.
+RUNNING TOTAL: 344 page-checks across 109 verification passes.
