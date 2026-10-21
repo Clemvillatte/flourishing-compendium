@@ -41,3 +41,7 @@
 ## M041 — Reciprocity with the earth
 - Opened: FAO GIAHS Ich Kool page (search excerpt); SciELO México Tzeltal milpa paper (Spanish abstract; journal/author not confirmed -> cited as SciELO México 2017); Capaldi, Dopko & Zelenski 2014 (Frontiers, abstract + results).
 - Seed "fallow years are the land's sabbath" and "Mesoamerican tradition generally" NOT supported by opened sources; scoped to Maya communities. Mayer & Frantz 2004, Kaplan 1995 unopened (bare refs).
+
+## M046 — Cleverness joined to humility
+- Opened: Bazzett 2018 translation PDF (UBC; fetched with extraction of passages; the fetch returned extracted quotes, not raw page, so lineation was removed in the quoted text); Bell & D'Zurilla 2009 (PubMed 19299058); Cuijpers et al. 2019 (PubMed 29486804).
+- Seed "strategy flexibility outperforms brute persistence" NOT supported; dropped. "Humility" in the title not demonstrated by a passage; page quotes the twins' trickery only. D'Zurilla & Nezu framework replaced by the meta-analysis.
