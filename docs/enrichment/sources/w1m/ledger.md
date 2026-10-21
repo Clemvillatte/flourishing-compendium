@@ -164,3 +164,15 @@
   specifically 'culturally embedded' framing as a defined Taylor concept.
   Done-mark removed (reopened); bounded prose saved as WIP; supervisor
   disposition requested (see the state flag).
+
+## The three poisons (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 5 connections; well-defined Buddhist
+  concept, canonical term). QUOTES verified against the freshly fetched
+  Access to Insight Mula Sutta page (AN 3.69, Thanissaro translation):
+  both quoted passages verbatim. An antidote-mapping sentence
+  (generosity/loving-kindness/wisdom) was drafted and REMOVED before
+  push — not in the opened excerpt (Tricycle glossary snippet only).
+- The Theravada/Mahayana naming sentence is bounded to the tradition
+  labels as given in the Wikipedia Kleshas article snippet — hmm, NOT
+  opened: see correction below.
