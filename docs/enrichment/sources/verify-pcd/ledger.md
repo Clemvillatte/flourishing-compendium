@@ -104,3 +104,14 @@ fragments appear verbatim, including the full tail "without reservation, even to
 even to guilt, even to everything that is questionable and strange in existence" and the
 central-aims sentence (both p. 63). The residual risk can be closed; the w1l flag can be
 retired by the supervisor.
+
+### w1l "Solitude" — second-hand Tillich quote: primary carrier found, ROUTED (14:46Z real clock)
+The w1l flag records the Tillich sentence as second-hand via Wikipedia's footnote. I opened
+the book itself (religion-online.org copy of The Eternal Now, PDF at media.sabda.org) —
+the primary text reads "Our language has wisely sensed these two sides of MAN'S being
+alone. It has created the word 'loneliness'... 'solitude'...". The Wikipedia footnote
+(and hence the page's blockquote) drops "man's". ROUTED REPAIR for the supervisor/next
+w1l owner: swap the blockquote to the book's exact wording and cite the opened primary
+PDF (https://media.sabda.org/alkitab-2/Religion-Online.org%20Books/Tillich,%20Paul%20-%20The%20Eternal%20Now.pdf),
+adjusting the "taken from that footnote" sentence; WikiQuote cites the Scribner 1963
+printing at p. 11 if a page locator is wanted. No edit made (no baton).
