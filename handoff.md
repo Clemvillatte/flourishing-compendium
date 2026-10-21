@@ -1,5 +1,28 @@
 # Handoff (start here)
 
+- SUPERVISOR PASS (2026-10-21 06:49Z, supervisor-b7e3f9c2, T+60 REPORTING CHECKPOINT
+  — reporting only, supervisor baton HELD, board healthy): (1) took over the stale p1zze
+  worker band (30/30, never closed): full validation, PP014 quotation sample PASS,
+  24+16 editing-log rewrites across 17 files, 4 advisor QC rounds, band closed and
+  released; 12 resolving proposals queued. (2) took over stale p1zzh (25/30): completed
+  M013/M015/M017/M018/M020 (León-Portilla article + Florentine Codex Book VI OCR both
+  freshly opened; quotes verbatim incl. source ALL-CAPS; chapters established from the
+  edition's printed markers ch. 5/ch. 34; Plain words re-derived from body-opening
+  replicates); 4 advisor QC rounds; band closed and released; 5 proposals queued.
+  (3) SUPERVISOR WORK: integration applied (p1zze+p1zzh, 14 reciprocals, 13 files,
+  3 deferred for busy bands — Leisure/Choice architecture/Dignity targets); post-apply
+  FAILs confirmed pre-existing seed stubs; build stable 5,739/fcAuthored 976;
+  PROGRESS.md refreshed (principles 2164/2183, concepts 749/2267); priority principle
+  pool DRAINED (0 eligible unassigned — no reserves mintable); samples: PP014 PASS,
+  MO015 PASS (Ryan & Deci 2000 quote verbatim vs freshly opened PubMed abstract).
+  OPEN ITEMS FOR NEXT SUPERVISOR: PP014 alias label (protected markup, OWNER
+  DISPOSITION REQUESTED — accurate note on page); 3 deferred proposals in
+  proposals/p1zze.json (re-run apply when target bands free); SP046 [[Meaning|Meaning
+  as use]] mis-link and X001 substantive-QC flags inherited in p1zzh state; s1a/s1b
+  storyteller lanes stale (out of non-storyteller scope).
+
+# Handoff (start here)
+
 - WORKER CHECKPOINT p1zzg (2026-10-21 ~04:52Z, worker-p1zzg-f6a2bf71, T+60 REPORTING CHECKPOINT
   — reporting only, baton HELD, work continues while the session lives): took over the
   stale band at 7/30. (1) SIX INHERITED QC FLAGS: verified per-artifact and
