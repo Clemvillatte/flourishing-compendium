@@ -86,7 +86,7 @@
   "D065": "inherited psychology-parallels bibliographic references (Nisbett & Wilson 1977; Schooler et al. 2011) not verified against opened sources; flagged for supervisor",
   "BE026": "psychology-parallels references partially verified: Craske et al. 2014 abstract opened verbatim; Foa et al. 2007 and Craske et al. 2008 not opened; flagged for supervisor",
   "BI053": "psychology-parallels references partially verified: Craig 2009 abstract opened verbatim; Barrett et al. 2019, Khalsa et al. 2018, Tang et al. 2015 not opened; flagged for supervisor",
-  "B055": "psychology-parallels claims (Cozzolino 2006; Greenberg et al. 1986) not verified against opened sources; MN 131 locator inherited, not re-verified; flagged for supervisor",
+  "B055": "RESOLVED by supervisor-pcx-fe429f3b: the parallels bullet MISATTRIBUTED both findings to Cozzolino 2006 (the dual-existential-systems THEORY paper, Psychological Inquiry 17(4)) - the gratitude effect is Frias et al. 2011 (Death and gratitude: Death reflection enhances gratitude, Journal of Positive Psychology 6(2)) and the prosocial-intentions effect is Blackie and Cozzolino 2011 (Of blood and death, Psychological Science); bullet reworded with correct attributions; the inherited MN 131 locator had no body content (body quotes only AN 5.57) and was removed; the Greenberg et al. 1986 terror-management reference is a bare reference to the real classic; validated",
   "B084": "psychology-parallels claims (Gross 2015; adaptive flexibility research) not verified against opened sources; the five-antidotes tradition pairs inherited from the seed; flagged for supervisor",
   "B099": "Reopened for QC: QC: Metta Sutta passage is goodwill, not karuna-mechanism evidence; applying advisor-approved source-bounded replacements",
   "B100": "RESOLVED by supervisor-pcx-fe429f3b: verified against the Singer and Klimecki 2014 Current Biology paper (author-uploaded PDF opened) - empathic distress is defined as a strong aversive and self-oriented response to others' suffering with withdrawal motivation, and chronic empathic distress gives rise to negative health outcomes; the page's gloss (self-focused reactivity that depletes) is supported; no repair needed",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:46:24+00:00",
+ "updated": "2026-10-21T13:46:46+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

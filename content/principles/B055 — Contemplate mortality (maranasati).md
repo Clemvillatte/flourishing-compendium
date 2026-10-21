@@ -18,7 +18,7 @@ The Upajjhatthana Sutta lists five facts to recollect often, and death is the th
 
 The sutta pairs death with separation: "I will grow different, separate from all that is dear and appealing to me" — the reflection aimed at the grasping that passion for dear things produces ([AN 5.57, Thanissaro](https://www.accesstoinsight.org/tipitaka/an/an05/an05.057.than.html)). Death is certain and its timing is not; the contemplation uses that asymmetry as a priority filter rather than a gloom.
 
-(Upajjhatthana Sutta, AN 5.57; MN 131.)
+(Upajjhatthana Sutta, AN 5.57.)
 
 **Plain words**
 Most days you act as if you had unlimited time, and the inbox behaves as if you did too. Death contemplation is the counter-habit: run the to-do list past the fact that the list has a last item. The point is that the petty items shrink when they stand next to the fact, and what matters gets easier to see.
@@ -48,7 +48,7 @@ After attending a funeral, review your current priorities: name one standing arg
 
 ## Psychology parallels
 
-- **[[Death reflection|Death reflection]]**, increases gratitude and prosocial behavior (Cozzolino, 2006)
+- **[[Death reflection|Death reflection]]** — the specific, self-focused death-reflection construct (Cozzolino, 2006); death reflection enhanced gratitude in the Frias et al. (2011) experiment and prosocial intentions in Blackie and Cozzolino (2011)
 - **[[Terror management|Terror management theory]]** (Greenberg et al., 1986)
 
 ## Philosophy parallels
