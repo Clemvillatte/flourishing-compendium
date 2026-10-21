@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 45** — Read the Popol Vuh's warnings: arrogance falls
 
-The Popol Vuh, the K'iche' Maya creation book, tells two falls. The wooden people, the first attempt at humanity, "did not remember their Framer or their Shaper" and did not remember Heart of Sky, and they were destroyed (printed p. 70 in the Christenson translation). Seven Macaw, the bird who set himself above the newly framed people, is the book's portrait of arrogance:
+The Popol Vuh, the K'iche' Maya creation book, tells two falls. The wooden people, an attempted creation of humans, "did not remember their Framer or their Shaper" and did not remember Heart of Sky, and they were destroyed (printed p. 70 in the Christenson translation). Seven Macaw, the bird who set himself above the newly framed people, is the book's portrait of arrogance:
 
 > "I am great. I dwell above the heads of the people who have been framed and shaped. I am their sun. I am also their light. And I am also their moon." (Popol Vuh, trans. Christenson, p. 77)
 
-The narrator's verdict on him is that he "puffed himself up" because of his plumage, gold and silver, while "His vision did not reach beyond where he sat". The true humans of the book are the counter-case: made with "perfect" sight and perfect knowledge of everything beneath the sky, then deliberately blurred by Heart of Sky, "blinded like breath upon the face of a mirror", so that they could see only what was nearby (pp. 183-186). The compendium's reading of these passages: success that forgets its dependence ends as the wooden people ended, and the book treats limited sight as a design feature of the survivor, not a defect. The check to run at each genuine success: what did this depend on that I have stopped seeing?
+The narrator's verdict on him is that he "puffed himself up" because of his plumage, gold and silver, while "His vision did not reach beyond where he sat". The true humans of the book are the counter-case: made with "perfect" sight and perfect knowledge of everything beneath the sky, then deliberately blurred by Heart of Sky, "blinded like breath upon the face of a mirror", so that they could see only what was nearby (pp. 183-186). That is the extent of what the passages establish. The compendium's use of these episodes is as a prompt for examining success, not a claim about how successes necessarily end: after a success, separate what you contributed from what you are claiming credit for, and name the people and circumstances you relied on.
 
 (Popol Vuh, Christenson translation, printed pp. 70, 77-78, 183-186.)
 
-**Plain words** Getting above yourself starts with forgetting what held you up. The wooden people forgot their makers and were destroyed. Seven Macaw claimed to be the sun and was brought down. The humans who lasted were made seeing everything, then deliberately given limited sight so they would remember they were not gods. Ask of any success what it rested on that you no longer notice.
+**Plain words** After a success, separate what you contributed from what you are claiming credit for. Name the people and circumstances you relied on. The compendium uses these episodes as a prompt for that examination.
 
-*For example (imagined):* A founder begins describing the company as his own creation; the co-founders, the timing and the luck drop out of his account. The fall, when it comes, follows the book's old plot.
+*For example (imagined):* Before giving an award speech, a founder adds the colleagues who developed the product to her acknowledgements.
 
 ## Sources
 

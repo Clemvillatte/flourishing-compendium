@@ -215,3 +215,24 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
 
 | 2026-10-20 | supervisor-fuvwnqv | takeover (stale from supervisor-46a0925d) + p1zn closure + health check + 2 samples + integration + 3 reserves | Took the stale supervisor baton after closing p1zn as its worker (30/30; takeover at 24/30; last 6 items S134/S136/SE011/SE019/SE023/SE034 with verbatim quotes from opened sources; advisor QC first-item + milestone (3 rounds) + closure (2 rounds) all fail->repair->scoped-pass; S131 pass-13 route applied; full history in sources/p1zn/ledger.md; baton released). HEALTH CHECK (window 7f49eb39..HEAD): build ok (5,723 entries, fcAuthored 976); 210 changed content files validated with --base: 146 ok, 64 FAIL — ALL 64 confirmed pre-existing (63 seed conditions present at the baseline, verified by validating the baseline versions; 1 new file Harmonious passion, w1l Category-B granular, validates ok without --base; the --base run fails only for having no baseline) — 0 regressions. SAMPLES: Actively open-minded thinking (w1j) PASS — both Haran-Ritov-Mellers 2013 quotes verified verbatim against the freshly opened sjdm.org full text (AOT definition incl. the three tendencies; the "AOT predicted persistence" concluding sentence); the accuracy/calibration scoping note is accurate. SO040 (p1zo) PASS — all three Peirce 1877 §V quotes verified verbatim against the freshly opened peirce.org text (external-permanency fragment; every-man fragment; the full fundamental-hypothesis passage); minor humanizer note (aphoristic example closer "Institutions are slow so that truth can be fast") left for a future pass, not quote-fidelity. INTEGRATION: 13 pending proposal files reviewed (all why clauses reader-facing, no audit tails); applied 54 reciprocals across 53 concept files (27 deferred to busy bands, 5 obsolete archived); post-apply validation: 31 FAILs all confirmed pre-existing at HEAD by baseline-version validation; line-membership check: every removed line re-added identically (whitespace only), 0 lost lines, front-matter untouched; build ok (5,723, fcAuthored 976). A concurrent-push rebase conflict on p1zk/p1zs proposals was resolved by merging the live workers' new records with the deferred sets (p1zk 12, p1zs 6 records remain). RESERVES: p1zt (ranks 1050-1079, E046-M005), p1zu (1142-1171, PP016-S032), p1zv (1172-1201, S039-S126) minted — degree-order criterion continued per the recorded p1w precedent (B/D/P pool drained; owner veto applies). 583 unassigned principles remain in the queue. |
 | 2026-10-20 | supervisor-fuvwnqv | pass 2: window health check + Y115 sample | Window 8f8b2487..HEAD: 24 content files changed; 21 ok, 3 FAIL — all three are fast-track concept pages (Attentional breadth, Bad faith, Judging by where one rests) whose prose-minimum conditions pre-existed at the base and pass under --fast-track; 0 regressions; build ok. SAMPLE: Y115 (p1zq) PASS — the Bhagavad Gita 6.29 blockquote verified verbatim against the freshly opened bhagavadgita.com page ("With the mind harmonized by Yoga, he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere."); 6.32 cited in Sources only (no quote displayed, nothing to verify); sustained-practice and sorting-outcome claims removed by the worker's round-1 repairs as recorded. Board: 14 fresh live workers, all bands fresh or released; 27 deferred proposals remain for busy bands (next integration when bands free). |
+
+## QC log — worker-verify-8f4c21bd (supervisor + p1zza, 2026-10-21, continued)
+
+- Supervisor pass 1 (stale-baton takeover): 138-commit window health check — build ok
+  (5,737 entries, fcAuthored 976), 76 files inspected; 7 w1aa fast-track concept pages
+  sampled — QUOTATION CHECKS PASS where checked; fast-track ELIGIBILITY (per-item
+  selection-degree evidence) verified for only part of the seven — do NOT treat the
+  fast-track bar as certified for all w1aa output until the remaining degrees are
+  checked (advisor directive). Applied the 5 routed repairs (SE058, SE053, SO010,
+  SE075, R070 — all validated and pushed).
+- p1zza pass (items 1-5): M028 advisor HOLD resolved (untraceable Cottonwood quote
+  replaced with a page-image-verified Dibble/Anderson ch. 22 p. 122 passage; advisor
+  round-2 repairs applied); M045, M050, MO001, MO012 enriched from seeds (no Sources
+  sections) with opened-source grounding; advisor QC round on items 2-5 (all four
+  REPAIRED: over-strong readings reduced to what the opened passages establish,
+  attribution restored, unverified purposes/predictions removed, plain-words/example
+  de-staged, Guay et al. corrected to 29(8) 992-1004 per Crossref, IEP quote verified
+  against raw HTML, Ryan & Deci p. 69 locator directly verified); saturation mention
+  hunts run and recorded in the ledgers. All four re-validated clean (fail-closed
+  exit 0). Band state 21/30 after this round (M028, M045, M050, MO001, MO012 done
+  this session + prior 16).
