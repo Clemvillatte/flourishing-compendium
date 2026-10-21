@@ -64,7 +64,8 @@
   "Psychological resilience theory Bonanno",
   "Psychological well-being",
   "Recognition",
-  "Relapse prevention protocols"
+  "Relapse prevention protocols",
+  "Relational cultural theory Miller"
  ],
  "in_progress": null,
  "flagged": {
@@ -117,10 +118,11 @@
   "Narrative repair": "Reopened for QC: milestone QC round 2: prose source link added",
   "Nature connectedness": "Reopened for QC: milestone QC round 2: prose source link added",
   "Optimal experience": "Reopened for QC: milestone QC round 2: optimal-experience bridge sentence added",
-  "PERMA model": "Reopened for QC: milestone QC round 2: Flourish title claim removed, prose link added"
+  "PERMA model": "Reopened for QC: milestone QC round 2: Flourish title claim removed, prose link added",
+  "Relational cultural theory Miller": "fast-track enriched; title is garbled seed label (should be Relational-cultural theory) - rename needs supervisor; sources: Jordan 2024 APA sample pages (opened)"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T07:57:55+00:00",
+ "updated": "2026-10-21T07:59:24+00:00",
  "band_done": false
 }
