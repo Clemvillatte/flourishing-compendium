@@ -423,3 +423,23 @@
   order to be at leisure" — via Wikiquote's Pieper page (search-opened),
   attributed as Pieper citing Aristotle.
 - Normal validator: ok. State recorded (done count 30).
+
+## Item 33: Secure base (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Bowlby" + facet stub + Sources Bowlby/Bowlby 1988/Mikulincer &
+  Shaver 2007 + cited-in B194/SE048/M025 (the M025 link was outside the
+  Cited-in list in the seed — preserved as found). Full rewrite.
+- Carriers opened: (1) Waters & Cummings 2000, SUNY-hosted PDF — verified
+  verbatim "The secure base concept is central to the logic and
+  coherence..." sentence. NOTE: the paper's "to be attached is to use
+  someone preferentially as a secure base form which to explore"
+  sentence contains a source typo ("form") — PARAPHRASED in the page
+  ("for exploration"), not quoted, to avoid reproducing the typo.
+  (2) Waters "Measuring Attachment" chapter PDF (safersociety.org) —
+  verified verbatim the Ainsworth Infancy in Uganda (1967, p. 345)
+  excursions passage. (3) Bowlby 1988 "series of excursions" line —
+  PARAPHRASED (not in quotes) grounded in the opened academic PDF
+  snippet (DBS thesis) that quotes it; attribution kept.
+- Mikulincer & Shaver 2007 kept as seed citation line only (not opened,
+  no claims drawn).
+- Normal validator: ok. State recorded (done count 31).
