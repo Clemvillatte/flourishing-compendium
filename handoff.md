@@ -59,6 +59,24 @@
   The-progress-principle concept page's no-source-URL claim (supervisor
   disposition); inherited flags and predecessor holds untouched; band_done
   left FALSE.
+
+  FINAL RECORD (rounds 6-7, commits 8ffe5d301..e9d774e3e): the round-6 bounded
+  Plain-words replacements were applied verbatim (MO055 book-page version;
+  MO044 exercise with citation), the remaining linked-page prose read in full
+  (Joy through the Nietzsche and mudita passages; Wu wei's What-it-is-NOT
+  section is empty, Facets is a link-list), and all five final bodies were
+  inspected directly (two duplicate wordings found and removed). Five-file
+  fail-fast validation 5/5 ok after every round. ADVISOR VERDICT (rounds 6-7):
+  "Items 2-6: scoped PASS for the reviewed prose and displayed quotations;
+  inherited material and whole-band certification excluded." EXCLUDED from
+  that PASS: inherited reference rows (bare references, unverified),
+  predecessor holds and inherited flags, the two pending reciprocals, the
+  progress-principle concept-page claim, and whole-band certification.
+  band_done left FALSE; do NOT run finish. BATON RELEASED at this checkpoint.
+  NOTE for the supervisor: the MO042 Azrin route on the TASKBOARD is answered
+  with facts there (the seed never carried the link; it was added by this
+  worker in round 1 and removed in round 2 per the first-item advisor QC;
+  the current file validates clean vs the seed baseline 5fb173125^).
 - CURRENT SUPERVISOR (2026-10-21 ~02:02Z, supervisor-df5053ec, LIVE — pass 2 complete, monitoring continues): pass-2 highlights in the OPERATIONS.md QC log: 4 w1b-recovery reciprocals applied (after clearing w1l's stale in-progress marker) + 3 p1zzc reciprocals applied once that band went stale (all post-apply FAILs pre-existing seed conditions); samples all PASS — R092, S036 (p1zzf), M045 (p1zzb dead-agent output), SP086 (p1zzc dead-agent output), S088, S106, S111 (p1zzg, 3/3 at the bar); p1zzf editing-log sweep applied by supervisor on 12 released-band pages; P069 documented-leftover defects repaired; w1aa fast-track eligibility certified (all 62 items <15 degree); Feng shui secondary-carrier quote accepted after ICOMOS re-verification; Brooks-2016 retraction sweep clean; reserves p1zzg/h/i minted (p1zzg already claimed and producing). OUTSTANDING: (1) MO042 (live p1zza) — the rewrite LOST the original [[Habit reversal theory Azrin]] wikilink (validator hard error, band closed 30/30 with this pending): the route with the exact restore edit is on the TASKBOARD, posted twice; the worker is fresh and active but has not applied it — NEXT SUPERVISOR: verify it lands, else apply the bare-reference restore once the band is free; (2) w1aa/p1zzc batons went stale mid-session — free for takeover; (3) standing owner dispositions unchanged (AF037 title, BI013≈BE037 / BI033≈BE042 near-duplicates); (4) replenish reserves as claimed. Board at session end: p1zza/p1zzb/p1zzg fresh; w1i/w1l/s1a/s1b stale-free; supervisor held.
   OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Pass 1:
   health check (window cd260f175..8f8eed42a, 58 files all ok, build 5,737/fcAuthored 976);
