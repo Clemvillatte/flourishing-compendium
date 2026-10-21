@@ -1990,3 +1990,10 @@ Verification pass 60 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - S107: the Musonius Rufus Lecture IX (Lutz) passage matches the freshly downloaded StoicSource page verbatim.
 - S113: the Meditations VI.30 passage matches the already-downloaded Gutenberg #15877 text verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 261 page-checks across 60 passes. Delivering the report now.
+
+Verification pass 61 (worker-glmc4a — final): 4 principle pages — 2 PASS, 1 flagged, 1 not reached.
+- S115: the Meditations VI.9 (Casaubon) passage matches the already-downloaded Gutenberg #2680 text verbatim.
+- S117: the Meditations V.20 (Long) passage matches the already-downloaded Gutenberg #15877 text verbatim.
+- S120 (Seneca Moral Letters 83, Gummere): the quote's distinctive fragments were ABSENT from the freshly downloaded Gutenberg #2688 (Gummere Letters Vol. 1) — Letter 83 is likely in Vol. 2 (a different Gutenberg file); flagged for re-verification against the correct volume. Not a defect.
+- S118 (Epictetus Enchiridion 11, Long, Delphi Google Drive PDF): not verified this session (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 265 page-checks across 61 passes. Delivering the report now.
