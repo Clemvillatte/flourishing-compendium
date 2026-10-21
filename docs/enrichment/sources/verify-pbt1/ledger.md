@@ -829,3 +829,11 @@ Carriers opened fresh: Gruber Lab Smith et al. 2009 PDF; mbrambilla.com Pagliaro
 PDF. w1w "Schadenfreude": all four quoted passages (dictionary gloss; three-conditions
 passage with marked ellipses; both Pagliaro Study 1/Study 2 sentences) VERBATIM vs the
 opened carriers. 1/1 PASS, no defects.
+
+## Round 59 (16:43Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: rpforschools.net Tracy & Robins 2007 chapter PDF. w1w "Self-conscious
+emotions": all four quoted passages (family definition; appraisal-process steps;
+shame-vs-guilt attribution contrast; pride facets) VERBATIM vs the opened carrier
+(citation parentheticals elided with marked ellipses on the page — acceptable).
+1/1 PASS, no defects.
