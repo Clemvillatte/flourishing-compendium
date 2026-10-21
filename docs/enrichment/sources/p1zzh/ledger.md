@@ -49,3 +49,8 @@
 - M015: "the account quoted in León-Portilla's article" framing throughout; PW benefit-promise ("does things that solitary listening does not") replaced with an invitation without promised benefit.
 - M018: "what the songs call the divine ground" removed (not in source — the source phrase is "a heart rooted in God", now quoted); settling framed as an optional exercise.
 - All five revalidated ok; state cycled reopen->done per protocol. No flags raised this band (no unresolved items remain).
+
+## QC round 4 (final), 2026-10-21 — TIMESTAMP CORRECTION: the previous entry said "06:47Z" (hand-estimated); the actual clock reading at that save was 06:41:42Z (measured).
+- LOCATOR DERIVATIONS MOVED TO LEDGER (this entry supersedes the on-page notes): M017 thorny-face passage sits between the Fifth and Sixth Chapter headings of Book VI (ch. 5, the prayers to Tezcatlipoca when a ruler died); M020 newborn-greeting passage sits after the Thirty-fourth Chapter heading (ch. 34, the greetings to the newborn). Pages now carry only "Book VI, ch. 5" / "ch. 34" + source URL.
+- PLAIN WORDS RE-INSTALLED as ordinary-situation explanations (advisor-supplied wording): M015 (recording vs rehearsal), M017 (yes/no commitments people can check), M018 (what the work serves; pausing as optional modern exercise, not a translation of yolteotl), M020 (you do not owe every pain a lesson). The interpretation boundary stays once, in each body.
+- All five revalidated ok.

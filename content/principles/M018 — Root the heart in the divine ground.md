@@ -18,7 +18,7 @@ Yolteotl, "deified heart", is the term León-Portilla's account of the painter u
 
 (Yolteotl as presented in Leon-Portilla's account of the painter.)
 
-**Plain words** Yolteotl is the term the painter's account uses for a heart it calls "rooted in God"; the portrait is concrete — wisdom, God in the heart, works that put divinity into things. It is a description of where the account says good work comes from, not a technique. The application offered here is modest and optional: take a minute before important work to settle (breath, posture, attention), and notice whether the work comes differently.
+**Plain words** The painter described here understands the work as sacred. For an ordinary task, you might ask what you want the work to serve, beyond finishing it or impressing someone. Pausing to ask that question is an optional modern exercise, not a translation of yolteotl.
 
 *For example:* A painter takes a commission for a parish hall and treats the work as service to something sacred; the settling beforehand is part of the work, not a warm-up to it.
 ## Psychology parallels

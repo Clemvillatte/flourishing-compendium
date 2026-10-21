@@ -18,7 +18,7 @@ The account quoted in León-Portilla's article keeps a communal form: the Toltec
 
 (The performance context of the Cantares; the communal tradition of the songs.)
 
-**Plain words** What the quoted account shows is songs composed and sung among people. What that suggests for a life now is this page's recommendation rather than a finding: if all your art happens alone, try keeping one shared practice — choir, dance, playing with people — and see what it is like.
+**Plain words** Listening to a recording asks different things of you from joining a rehearsal. In the latter, you have a part to carry and other people are making it with you. Try keeping one such occasion alongside private listening; private listening need not disappear.
 
 *For example:* The person whose entire musical life is earbuds — joins the terrible, joyful community choir, and rediscovers that singing with others is a different organ than listening alone.
 ## Psychology parallels

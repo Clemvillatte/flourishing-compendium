@@ -16,9 +16,9 @@ The Florentine Codex's criticism is of a specific mismatch: the man whose "words
 
 > "It is just as if spiny, thorny were his face, his heart, his life; his words nowhere conform to his life, to his deeds" — the Florentine Codex on the presumptuous man, Book VI, ch. 5 ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
 
-(The ixtli presentation; the huehuetlatolli's counsel on conduct. Chapter established from the edition's own printed chapter markers: the passage sits between the Fifth and Sixth Chapter headings of Book VI.)
+(The ixtli presentation; the huehuetlatolli's counsel on conduct.)
 
-**Plain words** The Codex passage is a criticism of a mismatch: words and deeds that disagree. The application this page draws from it is everyday reliability — making your yes and your no mean the same thing to everyone who deals with you.
+**Plain words** When you say yes, be clear about what you are taking on. If you cannot do it, say no rather than letting someone plan around a promise you will not keep. Aim for commitments people can check against what actually happens.
 
 *For example:* A commitment changes — a deadline you agreed to slips — and you say so the same day, in plain words, to everyone who was counting on it. That is the readable version.
 ## Psychology parallels

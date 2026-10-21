@@ -16,9 +16,9 @@ The Nahua greeting to a newborn names the world plainly: earth is "a place of we
 
 > "Thou wert sent here on earth, a place of weariness, a place of pain, a place of affliction, a place of torment" — the greeting addressed to a newborn child, Florentine Codex Book VI, ch. 34 ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
 
-(The Cantares's earth-as-trial passages; the huehuetlatolli's counsel on endurance. Chapter established from the edition's own printed chapter markers: the passage sits after the Thirty-fourth Chapter heading of Book VI.)
+(The Cantares's earth-as-trial passages; the huehuetlatolli's counsel on endurance.)
 
-**Plain words** The tradition starts blunt: the earth is a hard place, and the greeting to a newborn says so outright. The counsel is not to enjoy the pain or to go looking for it. Learning from difficulty is optional and sits alongside relief and help: someone recovering from an illness can note what support would help next time without having to call the illness beneficial.
+**Plain words** You do not owe every painful experience a lesson. If something useful occurs to you, keep it; if nothing does, you can still seek help and want the pain to end. Looking for something usable does not require calling what happened good.
 
 *For example:* Someone recovering from a long illness identifies what would actually help if it returned — which friend to call, which form to fill — while taking every current treatment, and without calling the illness a gift.
 ## Psychology parallels
