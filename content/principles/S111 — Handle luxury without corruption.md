@@ -18,11 +18,11 @@ Marcus compares two kinds of enjoyment:
 
 (Med. X.33, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-The compendium applies the comparison to comfort: the passage does not forbid soft beds or good food, it asks where enjoyment is sought. The exercise is to test a comfort by going without it for a while, and watch what the missing does to your temper.
+Marcus compares luxury with the enjoyment of acting according to human nature. The compendium applies that comparison by asking what is worth doing when an added comfort is unavailable. Choose an ordinary responsibility and consider what makes it worth doing, and which comforts merely make it more pleasant.
 
-**Plain words** Comfort is fine until you cannot do without it. Pick one comfort and skip it for a month; notice what you tell yourself in week one.
+**Plain words** Ask of a comfort whether the task needs it or only goes more pleasantly with it.
 
-*For example:* Imagined: someone takes the bus instead of the car for a month and finds the errands still get done.
+*For example:* Imagined: someone does the washing up without the usual podcast, and the dishes still get done.
 
 ## Sources
 
