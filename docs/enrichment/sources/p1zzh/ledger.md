@@ -42,3 +42,10 @@
 - LOCATORS: Book VI OCR carries no printed page/chapter markers at either passage — no locator could be established from the opened edition; explicit "Locator unresolved" notes added on both pages (M017, M020) rather than guessed locators.
 - PROPOSALS: Ars longa->M013 REMOVED (interpretation not verifiable from the inspected stub). PTG->M020 kept (qualified wording matches the opened target page, which stresses resilience being common). Saturation summary corrected: flower-and-song mention results included the hub concept (proposed) and sibling principles M011/M012/M039/M055 (no-change: connected via the M-S03 layer, per the wiki's layer structure) — not reference pages only.
 - All five files read end-to-end after repairs; all five validate ok. 5 proposals remain, all resolving.
+
+## QC round 3 (final), 2026-10-21 06:47Z
+- LOCATORS RESOLVED: the edition's own printed chapter markers ARE in the OCR — thorny-face passage sits between the Fifth and Sixth Chapter headings (Book VI ch. 5, the prayers to Tezcatlipoca when a ruler died); newborn-greeting passage sits after the Thirty-fourth Chapter heading (Book VI ch. 34, the greetings to the newborn). Both pages updated to ch. 5 / ch. 34 with the derivation noted; "Locator unresolved" notes removed.
+- M013: opening now source-bounded ("The article places an elegy about impermanence beside Cuacuauhtzin's declaration..."); "one of the few things" dropped from PW.
+- M015: "the account quoted in León-Portilla's article" framing throughout; PW benefit-promise ("does things that solitary listening does not") replaced with an invitation without promised benefit.
+- M018: "what the songs call the divine ground" removed (not in source — the source phrase is "a heart rooted in God", now quoted); settling framed as an optional exercise.
+- All five revalidated ok; state cycled reopen->done per protocol. No flags raised this band (no unresolved items remain).

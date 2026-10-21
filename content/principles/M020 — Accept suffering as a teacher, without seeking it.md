@@ -14,9 +14,9 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 
 The Nahua greeting to a newborn names the world plainly: earth is "a place of weariness, a place of pain, a place of affliction, a place of torment". The greeting anticipates hardship; it does not say hardship improves people. The counsel this page carries is the middle: learning from difficulty is one option, and it sits alongside taking relief and help.
 
-> "Thou wert sent here on earth, a place of weariness, a place of pain, a place of affliction, a place of torment" — the greeting addressed to a newborn child, Florentine Codex Book VI ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
+> "Thou wert sent here on earth, a place of weariness, a place of pain, a place of affliction, a place of torment" — the greeting addressed to a newborn child, Florentine Codex Book VI, ch. 34 ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
 
-(The Cantares's earth-as-trial passages; the huehuetlatolli's counsel on endurance. Locator unresolved: the OCR scan carries no printed page or chapter marker at this passage.)
+(The Cantares's earth-as-trial passages; the huehuetlatolli's counsel on endurance. Chapter established from the edition's own printed chapter markers: the passage sits after the Thirty-fourth Chapter heading of Book VI.)
 
 **Plain words** The tradition starts blunt: the earth is a hard place, and the greeting to a newborn says so outright. The counsel is not to enjoy the pain or to go looking for it. Learning from difficulty is optional and sits alongside relief and help: someone recovering from an illness can note what support would help next time without having to call the illness beneficial.
 

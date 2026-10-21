@@ -47,14 +47,14 @@
   "X001": "inherited: Lord & Mussweiler reference studies (the paraphrased field toppers) not opened this session; substantive QC pending (milestone review covered items 6-10 only)",
   "X004": "post-item source-contradiction repaired (PH I.6 quietude-as-origin respected); round-2 closeout repair applied (descriptive plain words, reading example); inherited: Wegner 1994 bare reference",
   "X021": "post-item source-contradiction repaired (twofold manner kept, capitalization preserved); inherited: Bem self-perception research bare reference",
-  "M013": "Reopened for QC: advisor QC repairs: quotes made verbatim-caps per source (QUETZAL PLUMES), Nezahualcoyotl attribution removed (not in opened source), overreach removed (M013 prescription claim; M015 modern-invention claims; M017 ixtli=conduct; M018 causal claims; M020 forge/on-purpose framing), M020 quote shortened to exact prefix, locators de-guessed",
-  "M015": "Reopened for QC: advisor QC repairs: quotes made verbatim-caps per source (QUETZAL PLUMES), Nezahualcoyotl attribution removed (not in opened source), overreach removed (M013 prescription claim; M015 modern-invention claims; M017 ixtli=conduct; M018 causal claims; M020 forge/on-purpose framing), M020 quote shortened to exact prefix, locators de-guessed",
-  "M017": "Reopened for QC: advisor QC repairs: quotes made verbatim-caps per source (QUETZAL PLUMES), Nezahualcoyotl attribution removed (not in opened source), overreach removed (M013 prescription claim; M015 modern-invention claims; M017 ixtli=conduct; M018 causal claims; M020 forge/on-purpose framing), M020 quote shortened to exact prefix, locators de-guessed",
-  "M018": "Reopened for QC: advisor QC repairs: quotes made verbatim-caps per source (QUETZAL PLUMES), Nezahualcoyotl attribution removed (not in opened source), overreach removed (M013 prescription claim; M015 modern-invention claims; M017 ixtli=conduct; M018 causal claims; M020 forge/on-purpose framing), M020 quote shortened to exact prefix, locators de-guessed",
-  "M020": "Reopened for QC: advisor QC repairs: quotes made verbatim-caps per source (QUETZAL PLUMES), Nezahualcoyotl attribution removed (not in opened source), overreach removed (M013 prescription claim; M015 modern-invention claims; M017 ixtli=conduct; M018 causal claims; M020 forge/on-purpose framing), M020 quote shortened to exact prefix, locators de-guessed"
+  "M013": "Reopened for QC: QC round 3: M013 source-bounded opening; M015 account framing; M018 optional-exercise framing; locators resolved ch.5/ch.34 from printed chapter markers",
+  "M015": "Reopened for QC: QC round 3: M013 source-bounded opening; M015 account framing; M018 optional-exercise framing; locators resolved ch.5/ch.34 from printed chapter markers",
+  "M017": "Reopened for QC: QC round 3: M013 source-bounded opening; M015 account framing; M018 optional-exercise framing; locators resolved ch.5/ch.34 from printed chapter markers",
+  "M018": "Reopened for QC: QC round 3: M013 source-bounded opening; M015 account framing; M018 optional-exercise framing; locators resolved ch.5/ch.34 from printed chapter markers",
+  "M020": "Reopened for QC: QC round 3: M013 source-bounded opening; M015 account framing; M018 optional-exercise framing; locators resolved ch.5/ch.34 from printed chapter markers"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:37:01+00:00",
+ "updated": "2026-10-21T06:41:40+00:00",
  "band_done": false
 }

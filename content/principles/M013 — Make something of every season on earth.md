@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 13** — Make something of every season on earth
 
-The songs pair transience with making: flowers wither, friends leave, the earth is slippery — and the songs answer with the act of making, the poem, the feast, the house, the song. This page's practical reading: pair every honest meditation on loss with an act of making.
+The article places an elegy about impermanence beside Cuacuauhtzin's declaration that he suffers with songs yet creates them on earth. This page draws a practical suggestion from those passages: make something during the time available.
 
-> "NOT FOREVER ON EARTH, ONLY A LITTLE WHILE HERE. THOUGH JADE IT MAY BE, IT BREAKS; THOUGH GOLD IT MAY BE, IT IS CRUSHED; THOUGH IT BE QUETZAL PLUMES, IT SHALL NOT LAST. NOT FOREVER ON EARTH, ONLY A LITTLE WHILE HERE" — a song on the transience of life, in León-Portilla's translation ([Flower and Song](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
+> "NOT FOREVER ON EARTH, ONLY A LITTLE WHILE HERE. THOUGH JADE IT MAY BE, IT BREAKS; THOUGH GOLD IT MAY BE, IT IS CRUSHED; THOUGH IT BE QUETZAL PLUMES, IT SHALL NOT LAST. NOT FOREVER ON EARTH, ONLY A LITTLE WHILE HERE" — an elegy on the transience of life, in León-Portilla's translation ([Flower and Song](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
 
 (The Cantares Mexicanos, the flower-and-song poems; the tradition's pairing of beauty with ephemerality. The Cuacuauhtzin song in the same source opens the same theme: "I SUFFER WITH SONGS, YET I CREATE THEM ON EARTH".)
 
-**Plain words** The songs say the plain thing first: nothing here lasts, not jade, not gold, not feathers. Making something anyway is not a way to fix that; it is a way to spend the little while well. A poem does not stop the flowers drying, but it is one of the few things you can finish and hand to someone inside the short time. This page's reading: that is reason enough to make.
+**Plain words** The elegy says the plain thing first: nothing here lasts, not jade, not gold, not feathers. Making something anyway is not a way to fix that; it is a way to spend the little while well. A poem does not stop the flowers drying, but it can be finished and handed to someone inside the short time. This page's reading: that is reason enough to make.
 
 *For example:* The friend group that learned one of them is ill — and instead of (or along with) the casseroles, they make the book together: the photos, the letters, the one perfect evening. The making is the answer.
 ## Psychology parallels

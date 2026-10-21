@@ -14,9 +14,9 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 
 The Florentine Codex's criticism is of a specific mismatch: the man whose "words nowhere conform to his life, to his deeds". The quotation criticizes that disagreement directly. This page's application is everyday reliability: when what you say and what you do are the same thing, the people who deal with you can build on what you tell them.
 
-> "It is just as if spiny, thorny were his face, his heart, his life; his words nowhere conform to his life, to his deeds" — the Florentine Codex on the presumptuous man, Book VI ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
+> "It is just as if spiny, thorny were his face, his heart, his life; his words nowhere conform to his life, to his deeds" — the Florentine Codex on the presumptuous man, Book VI, ch. 5 ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
 
-(The ixtli presentation; the huehuetlatolli's counsel on conduct. Locator unresolved: the OCR scan carries no printed page or chapter marker at this passage.)
+(The ixtli presentation; the huehuetlatolli's counsel on conduct. Chapter established from the edition's own printed chapter markers: the passage sits between the Fifth and Sixth Chapter headings of Book VI.)
 
 **Plain words** The Codex passage is a criticism of a mismatch: words and deeds that disagree. The application this page draws from it is everyday reliability — making your yes and your no mean the same thing to everyone who deals with you.
 
