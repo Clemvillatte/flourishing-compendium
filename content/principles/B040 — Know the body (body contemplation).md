@@ -14,9 +14,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 The Satipatthana Sutta makes the body the first anchor of mindfulness, and it starts with the ordinary: "Furthermore, when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it." The breath gets the same plain attention: "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'" And the sutta adds a less comfortable exercise, reviewing the body as parts: "just as if a sack with openings at both ends were full of various kinds of grain," a monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin and full of various kinds of unclean things." The compendium's reading of the sequence: the body is the most available object of awareness there is, always reporting, and the training teaches seeing it as the principle says — a changing field rather than a fixed possession.
 
-(MN 10, Satipatthana Sutta; cf. MN 119, Kayagatasati Sutta.)
+([MN 10, Satipatthana Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html); cf. MN 119, Kayagatasati Sutta.)
 
-**Plain words** Sit, stand, walk, or lie down with awareness of the body — posture, breath, sensations — the body as a changing field rather than a fixed possession. The body is the most available object you'll ever have, and it's always reporting honestly.
+**Plain words** The practice is to notice what the body is doing while it does it: walking, standing, sitting, lying down, breathing in, breathing out. Posture and breath are always available, so they work as anchors. The point is not relaxation; it is to see the body plainly, as something that changes from moment to moment, rather than a thing you own and polish.
 
 *For example:* The first time you notice your shoulders live at your ears all day — the body had been filing this complaint for years.
 
