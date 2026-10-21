@@ -34,7 +34,8 @@
   "Akrasia (weakness of will)",
   "Anxiety about the future",
   "Beneficial speech",
-  "Benign versus malicious envy"
+  "Benign versus malicious envy",
+  "Body schema"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,6 +51,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:26:11+00:00",
+ "updated": "2026-10-21T06:27:11+00:00",
  "band_done": false
 }
