@@ -36,7 +36,7 @@ Imagine a client calling an invoice dishonest. Ask which charge they dispute. Co
 - [[ST424 — Han Xin Crawls Beneath the Butcher's Youth|424. Han Xin Crawls Beneath the Butcher's Youth]]
 ## Psychology parallels
 
-- **[[Nonviolent communication|Nonviolent communication]]**, observation, feeling, need, request defuses attack (Rosenberg, 2003)
+- **[[Nonviolent communication|Nonviolent communication]]**, a framework of observation, feeling, need, request (Rosenberg, 2003)
 - **[[De-escalation science|De-escalation science]]**
 
 ## Philosophy parallels

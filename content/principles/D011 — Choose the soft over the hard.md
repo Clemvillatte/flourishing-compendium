@@ -31,6 +31,7 @@ In a stalled argument, the soft move is to ask what the other person actually ne
 ## Sources
 
 - [The Tao Teh King, James Legge translation, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapters 36, 43, 76, 78
+- [Kashdan, T. B., & Rottenberg, J. R. (2010). Psychological flexibility as a fundamental aspect of health, Clinical Psychology Review 30(7), PMC full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2998793/) — the flexibility processes named in the Psychology-parallels row
 
 ## Stories
 

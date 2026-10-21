@@ -46,7 +46,7 @@ If a colleague misstates your work in a meeting, correct the relevant fact witho
 - [[ST424 — Han Xin Crawls Beneath the Butcher's Youth|424. Han Xin Crawls Beneath the Butcher's Youth]]
 ## Psychology parallels
 
-- **[[Soft startup|Soft startup]]**, conflicts introduced gently de-escalate and resolve better (Gottman)
+- **[[Soft startup|Soft startup]]**, how a conflict discussion begins predicts the couple's trajectory over six years (Carrere and Gottman, 1999)
 - **[[Assertiveness research|Assertiveness research]]**
 
 ## Philosophy parallels
