@@ -18,7 +18,7 @@ Tervalon and Murray-García proposed the distinction in a physician-training con
 
 (Tervalon & Murray-García, 1998, Journal of Health Care for the Poor and Underserved 9(2), p. 117; [article PDF](https://med.umn.edu/sites/med.umn.edu/files/cultural_humility_versus_cultural_competence.jhealthpoorunderserved.1998.pdf))
 
-The same abstract states that a competence-based approach may not be appropriate for this area of physician education. The article's definition presents cultural humility as a commitment to ongoing self-evaluation rather than as a completed state.
+The authors question treating this area of physician education as a body of knowledge a clinician can finish mastering. The article's definition presents cultural humility as a commitment to ongoing self-evaluation rather than as a completed state.
 
 **Plain words**
 Consider which assumptions you bring to an interaction. Ask what another person would find relevant to the situation before acting on an assumption.
