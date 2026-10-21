@@ -18,12 +18,12 @@ Socrates puts the daily examination of virtue at the center of the good life, an
 
 (Plato, Apology 38a, Jowett translation; [MIT Classics](https://classics.mit.edu/Plato/apology.html))
 
-The examination he means is practical: a daily asking what you actually care about, which is what a values audit is. In this rendering the worth of a life is something you can check, and the checking is itself what he calls the greatest good of man.
+Socrates connects a worthwhile life with continuing discussion of virtue and examination of oneself and others. One application is to name a priority and ask why you consider it worth pursuing.
 
 **Plain words**
-Most people carry values they never chose: a parent's picture of a good life, a school's, a feed's. An audit is a few sessions of asking, for each thing you are chasing, whether you would still chase it with no one watching. What survives that question is yours; what does not was borrowed, and it is better to know that than not.
+Pick something you say matters to you. Write down your reasons for pursuing it and a reason someone might question it. Consider whether you still endorse that priority, including priorities learned from family or community.
 
-*For example:* Imagine a person whose values turn out, on inspection, to be their parents' with no updates: the career, the house, the status. The audit question is: if nobody could see it, would I still want it? The answers reorganize a life.
+*For example:* Imagine considering a promotion. You list the reasons for accepting or declining, then ask which priorities you are willing to defend.
 
 ## Sources
 
@@ -43,4 +43,4 @@ Most people carry values they never chose: a parent's picture of a good life, a 
 
 ## Practice
 
-Clarify your values: what do you care about most? What would you want your life to stand for? Use values clarification exercises such as a card sort or a writing exercise, and distinguish your values from inherited ones.
+Examine competing priorities: for each, write your reasons for pursuing it and a reason someone might question it, and consider whether you still endorse it.

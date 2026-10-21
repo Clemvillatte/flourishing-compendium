@@ -6,11 +6,11 @@
   "MO062",
   "MO071",
   "S139",
-  "SE014",
   "SE015",
   "SE018",
   "S140",
-  "SE005"
+  "SE005",
+  "SE014"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,10 +20,11 @@
   "S133": "inherited philosophy-parallel 'Be gentle with yourself in the review (Med. VI.6)' attribution: opened Long VI.6 concerns not becoming like the wrongdoer, not self-review - link section left untouched per protocol, routed to supervisor for verification or re-attribution",
   "S139": "Reopened for QC: QC round 2: Ench locator to Long numbering only; population claim to Epictetus' criticism",
   "S140": "Reopened for QC: QC milestone 2: unmarked VIII.22 borrowing; Marcus-attribution of compendium formulation; growth and anticipation claims",
-  "SE005": "Reopened for QC: QC milestone 2: overstatement ('cross-cultural record'), mirrors metaphor, borrowed pp.226-227 wording unquoted, example overreach"
+  "SE005": "Reopened for QC: QC milestone 2: overstatement ('cross-cultural record'), mirrors metaphor, borrowed pp.226-227 wording unquoted, example overreach",
+  "SE014": "Reopened for QC: QC milestone 2: Socrates-attribution of values audit; unchosen-values and no-audience authenticity claims; life-reorganizing outcome"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:19:40+00:00",
+ "updated": "2026-10-21T00:19:47+00:00",
  "band_done": false
 }
