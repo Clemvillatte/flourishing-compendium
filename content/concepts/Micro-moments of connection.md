@@ -7,7 +7,7 @@ file: "Micro-moments of connection"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Micro-moments of connection is Barbara Fredrickson's name for the brief, warm exchanges she redefines love around in Love 2.0 (2013). A Greater Good summary of her view:
+Micro-moments of connection is this page's title for the construct Barbara Fredrickson's Love 2.0 (2013) calls positivity resonance. A Greater Good summary of her view:
 
 > "In her book Love 2.0, Barbara Fredrickson describes love as a momentary emotion that swells up and expands your awareness of your surroundings, your sense of self, and your ability to truly see another person. We experience a \"positivity resonance\" comprising three events: \"shared positive emotions, biobehavioral synchrony, and mutual care\" with the other person, writes Fredrickson, a psychology professor at the University of North Carolina at Chapel Hill." ([Greater Good Science Center, UC Berkeley](https://greatergood.berkeley.edu/article/item/what_is_love_scientists_have_answersbut_they_dont_all_agree))
 

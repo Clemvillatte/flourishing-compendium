@@ -75,3 +75,19 @@
 - 16 Micro-moments of connection: Greater Good (UC Berkeley) article (positivity resonance definition
   + stranger-interaction studies verbatim) + Fredrickson & Joiner PEP Lab PDF (vagal-tone upward
   spiral sentence verbatim). Validated ok.
+
+## QC round 4 (advisor, 2026-10-21 09:15-09:25 UTC)
+- 11 Manaakitanga ACCEPTED (headword out of quote; sense-1 locator; example intro reworded; neutral
+  Related glosses).
+- 13 Matching Hypothesis ACCEPTED (Abstract locator; Walster-as-seed replaced with the opened
+  Wikipedia attribution; Introduction passages quoted for evidence state + acceptance-probability
+  model; unsourced mechanism claims deleted).
+- 15 Means as end: NOT accepted as an enrichment — pre-enrichment body RESTORED (research retained
+  in this ledger: Dewey 1938 ch. 5 freedom-as-means passage and ch. 8 title + opening sentence,
+  verbatim from opened PDFs); item held out of done, flagged in batch + audit pending supervisor
+  disposition on whether 'Means as end' is a named concept.
+- 16 Micro-moments of connection ACCEPTED after reframe (page title framed as compendium wording
+  for the construct Fredrickson calls positivity resonance per the opened Greater Good article;
+  standalone blockquote; vagal-tone sentence quoted as positive-emotions research).
+- Marmot and Meyer: holds recorded in concept-namespace-audit.md (Worker flags) with tentative
+  identity for Marmot and no guess for Meyer.
