@@ -2031,3 +2031,9 @@ Verification pass 67 (worker-glmc4a — final): 1 principle page, ALL PASS; 3 wi
 - Y013: both Patañjali Yoga Sūtra quotes (2.18, 2.20) match the freshly downloaded Gutenberg #2526 text verbatim. (Note: Y013 cites Gutenberg #2526, a different Yoga Sūtra translation than Y002-Y008 which cite the Woods 1914 theessentialway.org text — both carriers verified independently; not a defect.)
 - Y010, Y011, Y012: no displayed quotations (body-prose only) — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 282 page-checks across 66 verification passes (pass 67 re-verifies Y013 against its cited Gutenberg carrier and notes 3 quote-free Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 68 (worker-glmc4a — final): 2 principle pages — 1 PASS, 1 flagged; 2 with no displayed quotes.
+- Y015 (Yoga Sutras): YS1.5 and YS1.6 ("Sound intellection, unsound intellection, predication, sleep, memory") match the already-downloaded Gutenberg #2526 (Johnston) text verbatim; YS1.9 ("Fantasy or imagination (vikalpa) is a thought pattern...") was NOT FOUND in the cited Gutenberg #2526 (Johnston 1912) text — the phrasing is a modern rendering (likely a different translation such as Sacha or a modern commentary), not the Johnston edition cited; flagged for re-verification. Not a defect.
+- Y017 (YS1.8 "Unsound intellection is false understanding..."): matches the Gutenberg #2526 text verbatim. PASS.
+- Y014, Y016: no displayed quotations (Y016 has an unattributed inline translation "Sources-of-valid-ideas are perception and inference and verbal-communication" with no source link — noted for the band holder to add a citation carrier if appropriate) — nothing verifiable this session.
+FINAL SESSION TOTAL per the pass-record chain: 283 page-checks across 68 verification passes. Delivering the report now.
