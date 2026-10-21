@@ -1015,3 +1015,7 @@
   Focused-attention meditation, Anchors in focused attention meditation (navigational
   captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC
   not due (cadence).
+  - REPAIR: validation round 1 FAILED (5 dashes in prose, max 3 — the validator counts
+    ' — ' constructions; also NOTE: enrich_validate returns exit 0 even on failure, so its
+    output must be checked for 'failed' before saving — the save+push chain ran despite
+    the failure, twice this session); dashes reduced to 3, re-validated ok, fix pushed.
