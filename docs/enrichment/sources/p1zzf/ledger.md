@@ -65,3 +65,7 @@
 ## R075 — Practise care as political
 - Opened (excerpts): Democratic Theory article on Caring Democracy, ILO Care work and care jobs (76.2%, 3.2x), ILO resolution, Marmot 2005 abstract (PubMed). Held 2006, Tronto 2013, Noddings 2002 unread.
 - Marmot parallel is loose (health inequalities, not care labour) — disclosed. Fairness is a value claim; data show distribution only.
+
+## R076 — Practise care for the self
+- Opened (excerpts): PMC Self-Compassion, Stress, and Coping (quotes Neff 2003a p.224), Maslach & Leiter 2016 (PMC). Noddings 2002 / Tronto 2013 self-care claim unverified; 'empty cup' unsourced.
+- Burnout is framed by M&L as person-job imbalance; seed's implication that self-care sustains caring is tempered. Self-compassion != rest, noted.
