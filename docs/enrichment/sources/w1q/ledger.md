@@ -390,3 +390,17 @@ damage, w1ab left to its live holder.
   quoted. A043/Y116/A120/S126 clauses kept to what those pages carry; Confucian-duty
   Related link bare (unchecked). Validator ok (1 warn: 2 Related lines, fast-track
   bar). QC-pending for the next milestone.
+
+## THE FINE LINE BETWEEN INSPIRATION AND MANIA — 2026-10-21T16:06Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Category C: compendium's own phrase; disclosed in the
+  opening sentence. Carrier: Project Gutenberg #60333 (Hollander selections, already
+  opened this session for the knight-of-faith page), two quotes substring-verified:
+  the Either/Or banquet passage ("the greatest superabundance of everything
+  thinkable... hover temptingly over the table") and "his soul is too sound and too
+  proud to waste itself on a mere intoxication" (Fear and Trembling, knight of
+  infinite resignation). Both are in the opened volume, cited to it.
+- AF080/AT033/AF014/K035 clauses kept to what those pages carry (APA duration line;
+  Kaplan ART; Kuppens emotional inertia; Chekawa five strengths). Knight-of-faith
+  Related link points to this session's enriched page; leap-of-faith link bare
+  (seed-only target). Validator ok (1 warn: 2 Related lines, fast-track bar).
+  QC-pending for the next milestone.
