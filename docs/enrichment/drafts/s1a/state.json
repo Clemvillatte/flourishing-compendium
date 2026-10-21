@@ -408,6 +408,11 @@
      "t": "2026-10-21T11:30:14+00:00",
      "to": "qc_pending",
      "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
+    },
+    {
+     "t": "2026-10-21T11:30:20+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 3: scoped PASS on content; off-slice scope hold remains"
     }
    ]
   },
@@ -448,9 +453,14 @@
      "t": "2026-10-21T11:30:14+00:00",
      "to": "qc_pending",
      "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
+    },
+    {
+     "t": "2026-10-21T11:30:20+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied verbatim; final verification pending; off-slice scope hold"
     }
    ]
   }
  },
- "updated": "2026-10-21T11:30:14+00:00"
+ "updated": "2026-10-21T11:30:20+00:00"
 }
