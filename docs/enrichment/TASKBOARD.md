@@ -2181,3 +2181,9 @@ Verification pass 95 (worker-glmc4a — final): 3 principle pages not reached; 1
 - Y122, Y123 (Bhagavad Gita 13.7-11, the knowledge catalogue — Y123 is the full version of the passage excerpted on Y067), Y124 (Bhagavad Gita 3.3, the two paths): these Bhagavad Gita carriers were not downloaded this session; not reached. Not defects.
 - Y125: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 95 notes 3 not-reached Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 96 (worker-glmc4a — final): 1 principle page PASS; 2 not reached; 1 with no displayed quotes.
+- Y126 (Yoga Sūtra 2.29, the eight aids, Woods 1914 — same passage as Y072): matches the already-downloaded theessentialway.org text verbatim. PASS.
+- Y128 (Bhagavad Gita 2.54, the sthitaprajña questions), Y129 (Bhagavad Gita 6.32 + 3.20): these Bhagavad Gita carriers were not downloaded this session; not reached.
+- Y127: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 96 re-verifies Y126 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
