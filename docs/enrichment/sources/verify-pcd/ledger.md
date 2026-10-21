@@ -415,3 +415,6 @@ QC-closed).
 
 ### w1d "Attentional bias research" — quote fidelity PASS (verification pass)
 - MacLeod et al. 2002 abstract blockquote EXACT vs the opened PubMed record (11866165).
+
+### w1d "Attachment theory" — quote fidelity PASS (verification pass)
+- Shaver and Mikulincer 2005 Bowlby passage EXACT vs the opened UC Davis PDF.
