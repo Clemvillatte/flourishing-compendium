@@ -1771,3 +1771,10 @@ Verification pass 27 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D122: the Daodejing 81 quote matches verbatim.
 - D133: the Daodejing 29 quote matches the opened Gutenberg #216 text verbatim (the page's sacred-texts citation is the same Legge translation).
 Running total per the pass-record chain: 135 page-checks across 27 passes (spot-check scope; 58 pages explicitly ID'd in the entry texts, the passes 4–16 remainder described by concept name).
+
+Verification pass 28 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS (spot-check scope).
+- D141: the Zhuangzi ch. 3 §2 cook passage matches the opened METIS Legge PDF verbatim.
+- D177: the Daodejing 73 quote matches the opened Gutenberg #216 text verbatim.
+- D189: both Daodejing 63 and 23 quotes match verbatim.
+- D190: the Zhuangzi ch. XIII wheelwright-knack sentence matches the opened METIS Legge PDF verbatim (note: the page's citation is incomplete — "Zhuangzi XIII, Legge." lacks a carrier link; a minor citation-completeness observation for the band holder, not a wording defect).
+Running total per the pass-record chain: 139 page-checks across 28 passes.
