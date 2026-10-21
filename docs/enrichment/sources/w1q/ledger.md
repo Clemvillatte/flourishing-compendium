@@ -116,3 +116,18 @@ damage, w1ab left to its live holder.
   manifest titles (no ASCII/curly mismatch).
 - Post-repair validation: 3 checked, 0 failed. Raw-HTML substring verification of the
   HTML carriers follows below.
+
+## CARRIER-VERIFICATION NOTE (advisor requirement) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Raw-HTML substring verification was ACHIEVED for: Speech Act Theory (SEP article raw
+  HTML, tag-stripped substring checks, all passages), Spiral of Silence Theory
+  (Wikipedia article HTML, tag-stripped substring checks, all passages; the extraction
+  tool's summary layer was excluded from the comparison).
+- Raw-HTML substring verification was NOT ACHIEVABLE for: the OpenAIRE reproductions
+  (Angular JS-rendered page; raw HTML carries only a loading shell) and the OUP
+  chapter (403 to the raw fetcher). For those, the quotes were verified through
+  two independent fetch-extraction rounds returning identical wording, and
+  cross-corroborated by independent hosts reproducing the same source texts
+  (Hickson 1971 abstract via eric.ed.gov snippet; Super 1980 abstract via ERIC
+  digest ED462641 and NCDA article, both OPENED; Young 2011 p. 52 via multiple
+  journal PDFs in search results). Flagged for the supervisor as a verification-
+  method limitation, not as a quote doubt.
