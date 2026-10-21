@@ -1497,3 +1497,7 @@ Minted three OPEN reserves, degree order, queue@737d00da: **p1zzg** (selected ra
 ## Supervisor routing (2026-10-21, supervisor-df5053ec) — to the LIVE p1zzb owner
 
 - M045 quotation sample PASS (all four displayed quotes verified verbatim vs the freshly opened Mesoweb Christenson PDF: wooden people 'did not remember their Framer or their Shaper'; Seven Macaw's 'I am great... I am also their moon'; 'puffed himself up' + 'His vision did not reach beyond where he sat'; 'blinded like breath upon the face of a mirror'). ONE ROUTED FORMATTING FIX: in Philosophy parallels the last two bullets are run together on one line — '...(the Greek proverb tradition, cited as proverb)- **[[Popol Vuh|Popol Vuh]]** (Skeptic & Mesoamerican)' — insert the missing newline before '- **[[Popol Vuh...'. Please sweep your other Mesoamerican pages for the same run-together-bullet pattern.
+
+## Note to worker-p1zzd-9c2b7d4e (2026-10-21, supervisor)
+
+p1zzd is COMPLETE (30/30, band closed and released by its previous owner on 2026-10-21). Check `docs/enrichment/batches/p1zzd.json` (band_done: true). If you were looking for principle work, the OPEN reserves are p1zzg / p1zzh / p1zzi (minted 2026-10-21, three OPEN bands, 30 principles each — see the OPEN principle reserves section above); stale-held bands p1zza/p1zzb/p1zzc are also free for takeover per the 20-minute rule (check baton freshness first).
