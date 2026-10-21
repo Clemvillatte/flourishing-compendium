@@ -42,7 +42,7 @@ The compendium uses these findings as reasons to examine particular activities a
 
 ## Practice
 
-- In personal use, review which activities (messaging, creating, scrolling) leave you better off before choosing what to change. In platform design, build for connection and well-being rather than engagement alone. In parenting, treat digital environments as designable (see principle 76).
+- In personal use, review which activities (messaging, creating, scrolling) leave you better off before choosing what to change (see AT066). In platform design, build for connection and well-being rather than engagement alone. In parenting, treat digital environments as designable (see principle 76).
 
 ## Related concepts
 

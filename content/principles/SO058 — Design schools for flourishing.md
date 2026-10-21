@@ -39,7 +39,7 @@ The same study reports a context condition for the treatment:
 
 ## Philosophy parallels
 
-- Vygotsky, the ZPD (Vygotsky, 1978). Dewey, education as growth (Dewey, 1916).
+- Vygotsky, the ZPD (Vygotsky, 1978). [[Education as growth]] (Dewey, 1916).
 - School design is the sociocultural context's most direct influence on child and adolescent development.
 
 ## Practice

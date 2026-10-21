@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 3,
+ "revision": 4,
  "reciprocal": [
   {
    "into": "Social identity theory",
@@ -13,6 +13,24 @@
    "link": "SO058",
    "why": "A compendium principle on designing school environments, including the national growth-mindset experiment",
    "notes": "SO058 (worker-p1zzb-6d4f8a91): Growth mindset.md body read substantively (contested-status section incl. Sisk et al. 2018; compendium list has no SO058); 0 SO058 occurrences. Reciprocal to the Related-concepts link on the principle page. Quotes verified vs opened PubMed efetch abstracts (Walton-Cohen 2011, Yeager et al. 2019)."
+  },
+  {
+   "into": "Education as growth",
+   "link": "SO058",
+   "why": "SO058's philosophy parallel is the education-as-growth idea itself (Dewey)",
+   "notes": "SO058 (worker-p1zzb-6d4f8a91): full mention search for 'growth mindset' reviewed; Education as growth.md lists [[Growth mindset]] in Related concepts and treats schooling as growth, SO058's exact territory; 0 SO058 occurrences in that concept page. The SO058 philosophy-parallels line now links [[Education as growth]] directly; this proposal is the reverse link for supervisor integration."
+  },
+  {
+   "into": "AT066",
+   "link": "SO060",
+   "why": "AT066 discusses the same active-vs-passive-use evidence as SO060's core distinction",
+   "notes": "SO060 (worker-p1zzb-6d4f8a91): full mention search for 'social media' reviewed; AT066 (Learn to use technology deliberately) quotes a 141-study meta-analysis on active vs passive use, the same distinction SO060 grounds in Verduyn et al. 2015 and Valkenburg 2022; 0 SO060 occurrences in AT066. SO060's Practice line now cross-references AT066; this proposal is the reverse link for supervisor integration."
+  },
+  {
+   "into": "SO076",
+   "link": "SO060",
+   "why": "SO076 quotes review-of-reviews evidence on social media and mental health, the same genre as SO060's Valkenburg umbrella-review point",
+   "notes": "SO060 (worker-p1zzb-6d4f8a91): full mention search for 'social media' reviewed; SO076 quotes a 25-review synthesis calling associations 'weak' or 'inconsistent', the same evidence-interpretation territory as SO060's Valkenburg 2022 quote (27 reviews, disagreeing associations); 0 SO060 occurrences in SO076. Reverse-link proposal only; no SO060 body edit needed."
   }
  ],
  "inline": [],
