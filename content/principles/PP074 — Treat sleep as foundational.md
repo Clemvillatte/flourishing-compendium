@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 74** — Treat sleep as foundational
 
-Krause and colleagues reviewed neuroimaging studies of sleep loss and found that it affects "attention and working memory, positive and negative emotion, and hippocampal learning". They stress that these effects do not simply reflect the absence of the benefits of sleep, but "several additional factors, including extended wakefulness" ([Krause et al., 2017, Nature Reviews Neuroscience 18(7)](https://pubmed.ncbi.nlm.nih.gov/28515433/)). The abstract is a statement about what has been studied and does not claim that sleep is the foundation of every other practice.
+Krause and colleagues reviewed neuroimaging studies of sleep loss and found that it affects "attention and working memory, positive and negative emotion, and hippocampal learning". They add that the effects reflect "several additional factors, including extended wakefulness", beyond the loss of sleep's benefits ([Krause et al., 2017, Nature Reviews Neuroscience 18(7)](https://pubmed.ncbi.nlm.nih.gov/28515433/)). The abstract is a statement about what has been studied and does not claim that sleep is the foundation of every other practice.
 
 The wider claim that no well-being practice can offset chronic sleep loss, as well as claims about immune function, are not shown by this review. The same goes for the trade-book version of the science, which I did not open.
 
