@@ -34,16 +34,18 @@
  ],
  "in_progress": null,
  "flagged": {
-  "S088": "RESOLVED 2026-10-21 takeover (worker-p1zzg-f6a2bf71): QC round 3 replace added paragraph — verified on current artifact (application paragraph matches the repaired ledger; seed opening gone); predecessor QC history in sources/p1zzg/S088.md",
-  "S106": "RESOLVED 2026-10-21 takeover: QC round 2 rejected opening — verified removed on current artifact (body begins from Ench. IX); history in sources/p1zzg/S106.md",
-  "S109": "RESOLVED 2026-10-21 takeover: QC asked deletion of the added category sentence and link — verified on current artifact: no preferred-indifferent classification sentence and no such wikilink remain in the file; history in sources/p1zzg/S109.md",
-  "S111": "RESOLVED 2026-10-21 takeover: application paragraph, plain words, example — verified on current artifact matching the repaired ledger; history in sources/p1zzg/S111.md",
-  "S114": "RESOLVED 2026-10-21 takeover: plain words, example label — verified on current artifact (example labelled as the compendium modern extension); history in sources/p1zzg/S114.md",
-  "S116": "RESOLVED 2026-10-21 takeover: quote wording, plain words — verified on current artifact (quote reads And the things... per source); history in sources/p1zzg/S116.md",
-  "SE041": "QC unresolved: McAdams & McLean 2013 quote verified from opened mirror but no page/section locator available from any opened source (carriers attempted failed); quote used only as bounded writing prompt. Item otherwise QC-repaired and validated."
+  "S088": "RESOLVED 2026-10-21 takeover (worker-p1zzg-f6a2bf71): QC round 3 replace added paragraph \u2014 verified on current artifact (application paragraph matches the repaired ledger; seed opening gone); predecessor QC history in sources/p1zzg/S088.md",
+  "S106": "RESOLVED 2026-10-21 takeover: QC round 2 rejected opening \u2014 verified removed on current artifact (body begins from Ench. IX); history in sources/p1zzg/S106.md",
+  "S109": "RESOLVED 2026-10-21 takeover: QC asked deletion of the added category sentence and link \u2014 verified on current artifact: no preferred-indifferent classification sentence and no such wikilink remain in the file; history in sources/p1zzg/S109.md",
+  "S111": "RESOLVED 2026-10-21 takeover: application paragraph, plain words, example \u2014 verified on current artifact matching the repaired ledger; history in sources/p1zzg/S111.md",
+  "S114": "RESOLVED 2026-10-21 takeover: plain words, example label \u2014 verified on current artifact (example labelled as the compendium modern extension); history in sources/p1zzg/S114.md",
+  "S116": "RESOLVED 2026-10-21 takeover: quote wording, plain words \u2014 verified on current artifact (quote reads And the things... per source); history in sources/p1zzg/S116.md",
+  "SE041": "QC unresolved: McAdams & McLean 2013 quote verified from opened mirror but no page/section locator available from any opened source (carriers attempted failed); quote used only as bounded writing prompt. Item otherwise QC-repaired and validated.",
+  "SP025": "TITLE SOURCE-SUPPORT (takeover QC 2026-10-21, worker-p1zzg-8c31f0a7): title's 'luxury' and 'drunkenness' terms are not established by the opened IV P44 Note (text names Avarice, Ambition, Lust); body is scoped to the quote; owner disposition on the protected title requested.",
+  "SP028": "TITLE SOURCE-SUPPORT (takeover QC 2026-10-21, worker-p1zzg-8c31f0a7): title's 'victories of the strongest appetite' framing is not the passage's wording (the scholium states the decision/appetite identity); body is scoped; owner disposition on the protected title requested."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:51:57+00:00",
+ "updated": "2026-10-21T08:05:00+00:00",
  "band_done": false
 }

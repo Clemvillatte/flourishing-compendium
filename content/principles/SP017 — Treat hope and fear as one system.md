@@ -20,15 +20,15 @@ Spinoza defines the pair together at the end of Part III: hope is inconstant ple
 
 (Ethics III, Definitions of the Emotions XII and XIII, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-> "Emotions of hope and fear cannot be in themselves good... Emotions of hope and fear cannot exist without pain. For fear is pain (Def. of the Emotions, xiii.), and hope... cannot exist without fear."
+> "Emotions of hope and fear cannot be in themselves good."
 
 (Ethics IV, Prop. XLVII, same translation and source.)
 
-The note to that proposition adds the direction of travel: "the more we endeavour to be guided by reason, the less do we depend on hope; we endeavour to free ourselves from fear." The page's advice to shrink the underlying uncertainty is the compendium's own application, not something these passages state.
+In the note, Spinoza connects greater guidance by reason with less dependence on hope and an effort to become free from fear.
 
-**Plain words** Spinoza defines hope and fear in one breath: pleasure and pain, both inconstant, both about an outcome you doubt. Doubt is what feeds them, so they rise and fall together. Reason's direction is to depend on them less, not to pick a favourite pole.
+**Plain words** While you await a result, the possibility of success may please you and the possibility of failure may hurt. Spinoza connects both responses to an outcome that remains uncertain. Their connection does not mean that their intensity must move together.
 
-*For example:* Imagined: someone oscillates all week between "it will be fine" and "it will be a disaster" about a pending result; the pair is one mechanism responding to the same doubt.
+*For example:* Imagined: someone awaiting a result alternates between anticipating good news and worrying about bad news.
 ## Psychology parallels
 
 - **[[Intolerance of uncertainty]]**, with tolerance training as the clinical target (Dugas et al., 1998; uncertainty-tolerance research)

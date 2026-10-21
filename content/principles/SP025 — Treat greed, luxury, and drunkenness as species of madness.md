@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 25** — Treat greed, luxury, and drunkenness as species of madness
 
-In the note to Ethics IV, Prop. XLIV, Spinoza argues that avarice, ambition and lust are species of madness. His reasoning is clinical: an emotion can so fix the mind in the contemplation of one object that it is unable to think of others. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
+In the note to Ethics IV, Prop. XLIV, Spinoza argues that avarice, ambition and lust are species of madness. His explanation concerns fixation: an emotion can hold the mind on one object so that it cannot think of others. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 > "But when a miser thinks of nothing but gain or money, or when an ambitious man thinks of nothing but glory, they are not reckoned to be mad, because they are generally harmful, and are thought worthy of being hated. But, in reality, Avarice, Ambition, Lust, &c., are species of madness, though they may not be reckoned among diseases."
 
 (Ethics IV, Prop. XLIV, Note, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-The passage's own explanation is fixation — emotions that keep the mind on one object so that it is unable to think of others; the miser and the ambitious man are not excepted, only blamed instead of treated. The page's watch-for-the-appetite-that-stopped-responding advice is the compendium's own application, not this passage's wording.
+Spinoza compares people absorbed in love, money or glory. His concern here is what happens when one object occupies the mind so completely that others disappear from attention. As a reflection exercise, ask whether you can still turn your attention to things outside a particular pursuit.
 
 **Plain words** Spinoza's test is fixation: one object takes the whole mind. The lover and the miser both count; we just laugh at one and hate the other instead of calling them mad. Ask of any pursuit whether other things can still get your attention.
 

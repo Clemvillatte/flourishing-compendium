@@ -12,17 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 21** — Take envy seriously as hatred
 
-Spinoza's definition of envy, in the table of emotions at the end of Ethics III, is unambiguous about its genus: envy is hatred, with a specific trigger. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
+In the Definitions of the Emotions at the end of Ethics III, Spinoza defines envy as a form of hatred. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 > "XXIII. Envy is hatred, in so far as it induces a man to be pained by another's good fortune, and to rejoice in another's evil fortune."
 
 (Ethics III, Definitions of the Emotions XXIII, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-The definition leaves no shade of longing in it: the two signs are pain at another's good and pleasure at their evil. The page's practical advice — treat the disturbance as diagnostic data and audit the comparison — is the compendium's own application, not the passage's wording.
+The definition names two signs: pain at another's good and pleasure at their evil.
 
-**Plain words** The two signs of envy are pain when they do well and a flicker of satisfaction when they don't. Spinoza files both under hatred. Naming the genus is the step the rebrandings skip.
+**Plain words** Try a two-part check: how did you react when another person succeeded, and how did you react when they suffered a setback? Feeling hurt by their success and pleased by their misfortune is the combination described in Spinoza's definition.
 
-*For example:* Imagined: someone calls their envy "benign" and motivational — and then notices their rival's failure did taste a little good. That taste is the diagnosis the definition predicts.
+*For example:* Imagined: a colleague receives an award, and you feel disappointed; when their next application fails, you feel pleased. Compare those two reactions with the definition.
 ## Psychology parallels
 
 - **[[Envy|Envy as upward-comparison distress]]**, the social-comparison account of when others' goods hurt (R. H. Smith, 2000, Handbook of Social Comparison)
