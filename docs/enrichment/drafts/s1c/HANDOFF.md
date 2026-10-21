@@ -46,3 +46,11 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-038 | Yi Erzi Asks Xu You to Take Him In (Zhuangzi 6.7; Eno, Legge) | P044, D067 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
+
+## Flags for the supervisor (s1c, end of run)
+
+- No advisor tool was available; QC was self-QC with string-checked quotes against opened texts.
+- Single-translation pages (second translation unreachable): s1c-027 (SN 3.13), s1c-028 (MN 21). Thanissaro pages on Access to Insight returned 404.
+- Upgrade candidates: s1c-006 (Frege/Russell via a reproduction of van Heijenoort and SEP; primary book not opened), s1c-013 (commentarial legend, Pali not read), s1c-015 (last words have no named source on the BM page), s1c-023 (Bartlett 1920 paper only; 1932 book not opened), s1c-031 (Jefferson's play not opened).
+- Second stories on already-covered principles: D098 (s1c-012, s1c-032, s1c-037), D096 (s1c-030, s1c-032), D090 (s1c-018, s1c-035). Drop or merge at the supervisor's discretion.
+- Principle pages that already narrate their own story and were skipped: D112, D140, D089, D110, B167, P136 (mountain-clearing), D046, D047.
