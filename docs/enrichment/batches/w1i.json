@@ -33,9 +33,9 @@
   "Worry theory cognitive avoidance Borkovec",
   "Akrasia (weakness of will)",
   "Benign versus malicious envy",
-  "Body schema",
   "Anxiety about the future",
-  "Beneficial speech"
+  "Beneficial speech",
+  "Body schema"
  ],
  "in_progress": null,
  "flagged": {
@@ -49,10 +49,12 @@
   "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) — repair-presence check, not a fresh source audit",
   "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md",
   "Anxiety about the future": "Reopened for QC: milestone QC FAIL: future-direction claims not established; CA locator inside quotes; annotations too broad (MO005/SO070/A116/S115)",
-  "Beneficial speech": "Reopened for QC: milestone QC FAIL: opening conflation, facets attribution, citation precision"
+  "Beneficial speech": "Reopened for QC: milestone QC FAIL: opening conflation, facets attribution, citation precision",
+  "Body schema": "Reopened for QC: milestone QC FAIL: origin attribution, counterpart claim, locators, annotation wording",
+  "Benign versus malicious envy": "NAMESPACE HOLD (milestone QC): page is an X-versus-Y comparison, which the concept protocol excludes; content scoped-PASS, disposition routed to the supervisor via the concept-namespace-audit process"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:31:14+00:00",
+ "updated": "2026-10-21T06:31:49+00:00",
  "band_done": false
 }
