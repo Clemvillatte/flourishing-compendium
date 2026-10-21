@@ -29,8 +29,17 @@ Pushed 2026-10-21 by worker-takeover-7d3a9c.
   recovered rather than assumed. LIMITATION: that fetch was a prompted text
   extraction, not a page-image check, so whether "intellectual phonies" and
   the singular "persists" are printed that way remains unverified against the
-  rendered PDF; a fresh fetch is robots-blocked. Item flagged for supervisor
-  page-image verification.
+  rendered PDF; a fresh fetch is robots-blocked.
+- RESOLVED 2026-10-21 ~01:23Z: page-image check performed via cloud browser on
+  the rendered PDF (paulineroseclance.com, first page). The abstract as
+  printed confirms verbatim: "internal experience of intellectual phonies",
+  the singular "persists in believing" (the paper's own grammatical error, now
+  page-image verified), "Numerous achievements... do not appear to affect the
+  impostor belief", "do not experience an internal sense of success", and the
+  body sentence "maintain a strong belief that they are not intelligent; in
+  fact they are convinced that they have fooled anyone who thinks otherwise."
+  The page-image check also confirms "over 150 highly successful women".
+  No further verification outstanding for this item.
 - The "Numerous achievements" sentence added during round-3 repairs came only
   from a search-result reproduction of the PDF's abstract (fresh fetch was
   robots-blocked); it has been REMOVED from the page and replaced with the

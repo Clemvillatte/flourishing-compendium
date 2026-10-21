@@ -85,7 +85,7 @@
   "Implicit and explicit": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Implicit attitudes": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Implicit learning research": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
-  "Impostor-phenomenon research": "QC repairs applied; REMAINING CHECK: 'intellectual phonies' and singular 'persists' are from a prompted text extraction, not a page-image verification of the rendered PDF (fresh fetch robots-blocked) — supervisor page-image check required",
+  "Impostor-phenomenon research": "QC repairs applied; page-image check on rendered PDF COMPLETED 2026-10-21 via cloud browser: 'intellectual phonies' and singular 'persists' confirmed printed as quoted (paper's own grammatical error); all four quotations page-image verified; QC re-verification by supervisor pending",
   "Impression-management burnout research": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Individualism collectivism theory Triandis": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
   "Individuality": "QC round 2 repairs applied and pushed (commits cffe2384..0f7de0ef); awaiting supervisor/advisor re-verification",
@@ -107,6 +107,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:19:28+00:00",
+ "updated": "2026-10-21T01:20:13+00:00",
  "band_done": false
 }
