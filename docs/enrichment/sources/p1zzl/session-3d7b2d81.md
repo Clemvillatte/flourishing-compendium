@@ -27,6 +27,14 @@ Agent: worker-p1zzl-3d7b2d81. No verified yopmail identity is exposed.
 - First successful checkpoint: **4f258f46f**, verified on origin/main at 2026-10-21T11:32:02Z. Local and remote heads matched after publication.
 - No pasted token was put in a command, repository file or remote URL. Secure form prefill was the only transfer of the provided token. No secret value was read from the credential store.
 - State/handoff closure and final checks follow this first checkpoint. Do not mistake earlier authentication-blocked notes for the current publication status.
+- Completion/state checkpoint **160e6f8e84dd88ca1b0ab9c1ba7cd619a8978989** published and independently fetched from GitHub; initial source checkpoint is **4f258f46f85cfd51028ab2d86f8ee85a27cf95c6**. Both were confirmed ancestors of origin/main.
+
+## Final verification
+
+- At 11:34 UTC, isolated build from a temporary copy of content/data-src succeeded: 5,745 entries, with all nine repaired principle records present and containing Plain words, For example and Related concepts. No generated production files were touched. The two additional manifest-discovered concepts in that build were upstream work, not this worker's additions.
+- Re-ran the official nine-page validator against 34918a8c0: 9 checked, 0 failed. Original front matter, principle statements, reflections and original links remain preserved. Reciprocal proposal count is 27, with every destination and link resolving.
+- Band state marked finished through enrich_state.py; all nine per-item flags now describe completed repair/QC rather than stale reopenings.
+- Authorized worker release performed with baton.py at 2026-10-21T11:35:24Z. This release and final verification record are being saved together; no supervisor baton was taken.
 
 ## Supervisor follow-up
 
