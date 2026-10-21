@@ -1,6 +1,6 @@
 {
   "batch": "p1zzc",
-  "revision": 26,
+  "revision": 27,
   "reciprocal": [
     {
       "into": "Benign versus malicious envy",
@@ -145,6 +145,18 @@
       "link": "SP059",
       "why": "Aristotle specifies right giving by recipient, amount, and time, given for the nobility of giving; Spinoza's generositas specifies the giver as one acting by reason's dictate to aid and befriend. Readers can compare the two specifications of a good giver.",
       "notes": "into=A013 principle; opening read this pass (NE IV.1 Rackham, liberality as mean concerning wealth, right-giving conditions); grep SP059: 0"
+    },
+    {
+      "into": "Amor dei intellectualis",
+      "link": "SP086",
+      "why": "The amor dei's signature property, per V, P20, is that it cannot be stained by envy or jealousy and is the most constant of the emotions; SP086 carries the property with the proof.",
+      "notes": "into=Amor dei intellectualis concept (thin stub, opening read); grep SP086: 0; already linked from SP086 philosophy parallels"
+    },
+    {
+      "into": "Envy",
+      "link": "SP086",
+      "why": "The concept's malicious envy aims to pull down a superior other; V, P20 explains why the common good defeats that motor, another's joy in the shared good fosters the love rather than threatening it.",
+      "notes": "into=Envy concept; opening read (benign/malicious envy, van de Ven 2009); grep SP086: 0"
     }
   ]
 }
