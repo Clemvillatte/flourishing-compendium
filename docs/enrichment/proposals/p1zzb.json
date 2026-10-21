@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 17,
+ "revision": 18,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -175,6 +175,12 @@
    "link": "SE036",
    "why": "A principle on revising identity through life transitions, imaged as Nietzsche's metamorphoses",
    "notes": "SE036 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE036 occurrence; grounded in the opened Gutenberg Common translation of Zarathustra (Three Metamorphoses passage quoted verbatim)."
+  },
+  {
+   "into": "Authenticity",
+   "link": "SE044",
+   "why": "A principle on authenticity scored against values and beliefs rather than impulses",
+   "notes": "SE044 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked earlier in session; no SE044 occurrence; grounded in the opened Authenticity Scale document (item 11 quoted verbatim; carrier typos in items 7 and 9 avoided, the two quoted items are clean)."
   }
  ]
 }

@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 44** — Recognise the difference between authenticity and self-indulgence
 
-Authenticity is not doing whatever you feel like. It is living in accord with your considered values, not your momentary impulses. Self-indulgence is following feelings; authenticity is following values.
+Wood and colleagues' Authenticity Scale is useful because it shows how the construct is measured, which settles the distinction:
 
-**Plain words** "I'm just being honest with myself" is not a license. Authenticity means acting from your considered values; self-indulgence means acting from your momentary impulses and calling it authenticity. One requires knowing yourself. The other requires avoiding yourself.
+> I live in accordance with my values and beliefs.
 
-*For example:* Snapping at your partner because you're "not going to pretend" is self-indulgence. Saying "I need twenty minutes before this conversation" because you genuinely don't want to say something cruel — that's authenticity with a bit of discipline bolted on.
+(Wood et al., 2008, Authenticity Scale, authentic-living item; [scale document](https://cic.edu/wp-content/uploads/2023/08/Authenticity-Scale.pdf))
+
+The other authentic-living items are of the same kind: standing by what you believe in, being true to yourself, living by your values. None of the twelve items reads "I do what I feel like in the moment". The instrument's own items make the principle's point: authenticity is scored against your values and beliefs, not against your impulses.
+
+**Plain words**
+The test the scale suggests: when you claim to be authentic, check which way the claim points. If it points at a value you would defend on an ordinary Tuesday morning, it is authenticity. If it points at an impulse you would not defend in an hour, it is self-indulgence wearing the word.
+
+*For example:* Imagine snapping at your partner because you are "not going to pretend", versus saying you need twenty minutes before the conversation because you do not want to say something cruel. The second one costs more in the moment and is the authentic act.
+
+## Sources
+
+- Wood, Linley, Maltby, Baliousis & Joseph, 2008, Journal of Counseling Psychology 55(3):385-399 (Authenticity Scale items) — [scale document](https://cic.edu/wp-content/uploads/2023/08/Authenticity-Scale.pdf)
+
 ## Psychology parallels
 
 - **Authenticity vs impulsivity**, authenticity involves considered values, not momentary impulses (Wood et al., 2008; Kernis & Goldman, 2006)
