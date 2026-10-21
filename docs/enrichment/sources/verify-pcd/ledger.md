@@ -400,3 +400,6 @@ QC-closed).
   discomfort, Allostatic load, Amour-propre, Alterity, Analytical Psychology,
   Attentional deployment theory, Biopsychosocial model, Cognitive distortions
   research, Values), all quote-fidelity PASS except Alterity's routed bracket nuance.
+
+### w1d "Attentional control theory (Eysenck)" — quote fidelity PASS (verification pass)
+- Eysenck et al. 2007 abstract passage EXACT vs the opened TU Dresden-hosted PDF.
