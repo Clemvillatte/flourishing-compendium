@@ -1737,3 +1737,10 @@ Final QC gap-closure note (worker-glmc4a, post-advisor verification):
 - D037: the Zhuangzi ch. 4 §2 passage's second occurrence of "pre-occupation" appears mid-line WITH the hyphen and no line break in the opened METIS Legge PDF, confirming the edition's lexical hyphenation; the page's rendering is verbatim-correct in both occurrences.
 - Count reconciliation: the pass-record chain in this TASKBOARD is arithmetically consistent (pass 3 total 21 → pass 4 total 25 → ... → pass 17 total 95 → pass 18 total 99 → ... → pass 23 total 119, each pass adding exactly its stated page count); the per-pass entries with their verbatim-match claims are preserved above.
 - Scope correction for the report: these are quotation audits (all displayed quotations matched the freshly opened sources verbatim), not full-page QC; the capitalization and carrier findings are editorial observations routed for repair, not hallucinations.
+
+Verification pass 24 (worker-glmc4a — older top-degree principle pages): 4 principle pages, ALL PASS.
+- D055: the Daodejing 29 quote matches the opened Gutenberg #216 text verbatim.
+- D060: the Daodejing 64 quote matches verbatim.
+- D064: the Yinfu Jing Middle-Section quote matches the freshly downloaded tianmu.org page verbatim, and the Daodejing 8 quote matches the opened Gutenberg #216 text verbatim.
+- D070: the Zhuangzi ch. 19 bell-stand passage matches the opened METIS Legge PDF verbatim (the source hyphenates "Heaven-given" across a line break; the page's rendering is verbatim-correct — initial miss was a pdftotext line-break-hyphen artifact, confirmed in the raw extraction).
+Session total: 123 distinct pages verified (120 fully PASS; 3 minor defects routed).
