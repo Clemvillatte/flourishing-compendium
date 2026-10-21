@@ -12,13 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 38** — Grieve without pretending, and without drowning
 
-The songs grieve directly: the friends are gone, the cities are fallen, the flowers of the songs have wilted. The tradition neither suppresses grief nor organizes life around it; the elegy is sung, and the feast follows. The principle is the tradition's emotional engineering: grief fully voiced, within the container of song and ritual, is a passage rather than a residence. Practically, give losses their voiced hour (written, sung, spoken to someone), and schedule the return to the feast deliberately.
+The Cantares Mexicanos grieve in the first person. In John Curl's translation of song 40, a singer says: "Only flowers are our adornment, only songs turn our suffering to delight on earth." Then comes: "not forever will we be friends here: only for a very brief moment and then we all go away to His house." Then: "I am sad, I grieve, I, Lord Nezahualcoyotl, when with flowers and songs I remember those princes who went away" ([Curl, Flower Songs of Nezahualcoyotl, FAMSI](https://www.famsi.org/research/curl/nezahualcoyotl2.html)). In another song, the speaker Cuacuauhtzin says "yo soy desdichado" (I am unfortunate) and, a few lines later, "gozad, gozad, amigos nuestros" (enjoy, enjoy, our friends) ([León-Portilla, Trece poetas del mundo azteca](https://historicas.unam.mx/publicaciones/publicadigital/libros/trece_poetas/04_04_poetas3.pdf)). Grief and enjoyment sit side by side inside one song.
+
+The seed's "elegy, then feast" sequence and ritual container are not in these texts.
+
+Psychology offers a close match. Stroebe and Schut's dual process model describes "a dynamic, regulatory coping process of oscillation, whereby the grieving individual at times confronts, at other times avoids" loss and restoration tasks, with respite from grieving as part of adaptive coping ([Stroebe and Schut 1999, PubMed](https://pubmed.ncbi.nlm.nih.gov/10848151/)).
 
 (The Cantares's elegies; the ritual containers of grief.)
 
-**Plain words** The songs grieve directly: the friends are gone, the cities are fallen, the flowers have wilted. Neither suppressed nor organized around — the elegy is sung, and the feast follows. Grief fully voiced, inside the container of song and ritual, is a passage rather than a residence.
+### Scope
 
-*For example:* The wake where the family finally tells every story, laughs at all the wrong moments, sings the old songs — and the grief moves, because it was given its full voice and its container.
+This differs from the seed: the model has people alternate, not voice grief fully first and then leave it. I did not test whether song or ritual helps with grief.
+
+**Plain words**
+The songs say the loss and the delight in one voice. Research on grief says healthy coping moves back and forth between facing the loss and resting from it.
+
+**For example**
+Give a loss one set time, such as twenty minutes of writing or singing, then do something restorative that you planned in advance, such as a meal with friends.
+
+## Sources
+
+- [Curl, The Flower Songs of Nezahualcoyotl (FAMSI)](https://www.famsi.org/research/curl/nezahualcoyotl2.html)
+- [León-Portilla, Trece poetas del mundo azteca (UNAM)](https://historicas.unam.mx/publicaciones/publicadigital/libros/trece_poetas/04_04_poetas3.pdf)
+- [Stroebe and Schut 1999, The dual process model of coping with bereavement (PubMed)](https://pubmed.ncbi.nlm.nih.gov/10848151/)
+
 ## Psychology parallels
 
 - **[[Grief's oscillation model|Grief's oscillation model]]**, the dual-process research showing that healthy grieving alternates confrontation and restoration (Stroebe and Schut's dual-process model, as framework)
