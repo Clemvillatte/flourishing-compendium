@@ -85,7 +85,9 @@ MUST be verified and done following the theory-page standard + skeleton in
 in the author's words, a how-it-explains section matched to the theory's FORM (what the
 theory does: mechanistic, functional, organising, metaphorical, meta-theoretical...),
 a real-life example, related concepts, sources. The page must serve the wiki's purpose:
-suffering alleviation, wisdom development, genuine flourishing.
+suffering alleviation, wisdom development, genuine flourishing — and its AUDIENCE:
+the writer and his curious readers, NOT academics or clinicians (owner directive
+2026-10-21): plain humanised language, terms defined in passing, reader-first.
 
 Skimmability rule (added 2026-10-19, owner request): the page must be scannable. Use short
 paragraphs (2-4 sentences) and `###` subheadings in sentence case between them. Never bold text

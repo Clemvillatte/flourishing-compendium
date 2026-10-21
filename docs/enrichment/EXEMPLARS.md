@@ -114,6 +114,15 @@ explicit through the principles that cite the theory (the cited-in block) and th
 everyday-life example. THE STANDARD BELOW IS BINDING for all theory work: every
 theory page must be verified and done following this model.
 
+AUDIENCE (owner directive, 2026-10-21): this is NOT an academic or clinician wiki.
+It is for a writer writing about Genuine Flourishing, and for his curious readers
+who want to improve their lives and genuinely flourish. Write for that reader:
+plain, humanised language; technical terms defined in passing, never left bare;
+no literature-review tone, no citation clutter beyond what grounds the claims. The
+everyday-life section carries the theory's value for the reader's life; the
+compounding connection is why the page exists. Scholarly apparatus (verbatim
+theorist quotes, locators) stays — but it serves the reader, not the discipline.
+
 ## The skeleton
 
 ```
