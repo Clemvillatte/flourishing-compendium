@@ -257,6 +257,15 @@
     "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
    ],
    "notes": "Enriched from the owner-uploaded Kolts book ch.10 pp.147-151: Lee (2005) origin quote, non-person forms quote, in-practice guidance quotes, 5-step protocol with Self/Affect dimensions, bounded evidence (Lee 2005 cited not opened), corrected attribution (ch.10, not ch.11). Validator clean."
+  },
+  {
+   "id": "K384",
+   "title": "Two-Chair dialogue: compassionate self ↔ vulnerable self (solo-adapted)",
+   "status": "done",
+   "sources": [
+    "https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP"
+   ],
+   "notes": "Enriched from owner-uploaded Kolts book ch.12 pp.159-161: two-chair definition quote, vulnerable-chair-first order quote, compassionate-address quote, chair-switching repair quote, Greenberg lineage + Shahar et al. 2012 pilot (as reported by Kolts, not opened), 5-step protocol, safety note retained. Validator clean (word-count and dash repairs)."
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -293,10 +302,11 @@
   "Cultivate your Compassionate Self",
   "Compassion for a struggling version of yourself",
   "K406",
-  "K382"
+  "K382",
+  "K384"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T15:40:09+00:00",
+ "updated": "2026-10-21T15:41:50+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
