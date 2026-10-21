@@ -18,7 +18,7 @@ Dewey describes doing and undergoing in terms of outgoing and incoming energy ([
 
 A practical application is to leave room during an activity to take in what has happened before deciding what to do next.
 
-(Dewey, Art as Experience, 1934; Bergson, Time and Free Will, 1889.)
+(Dewey, Art as Experience, 1934.)
 
 **Plain words**
 Before pressing on, ask what you have noticed that your original plan did not account for. Does the plan still fit? Give that question some time before choosing your next step.
@@ -36,7 +36,7 @@ After drafting a page, take a short walk. When you return, read the page before 
 - [[K200 — Rest as practice|K200 Rest as practice]]
 ## Psychology parallels
 
-- **[[Recovery experiences|Recovery experiences]]**, psychological detachment and relaxation predict performance (Sonnentag and Fritz, 2007)
+- **[[Recovery experiences|Recovery experiences]]** — the four recovery experiences (psychological detachment, relaxation, mastery, control), differentiated and related to well-being (Sonnentag and Fritz, 2007)
 
 ## Philosophy parallels
 
