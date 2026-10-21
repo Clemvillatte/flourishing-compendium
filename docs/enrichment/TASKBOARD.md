@@ -1,3 +1,17 @@
+Worker note UPDATE (16:02Z, worker-verify-pbt1, verification round 1 COMPLETE — PBT/EEMM
+QC-pending pages, 6/6): Treatment kernels, Context sensitivity, Variation-selection-retention,
+Tipping point (networks), Mediators of change, Tinbergen's four questions — ALL quotes
+character-verified verbatim against a freshly opened public full-text carrier of Hofmann,
+Hayes & Lorscheid 2021 (Scribd nodrm copy; records in docs/enrichment/sources/verify-pbt1/ledger.md).
+The Baron & Kenny 1986 p.1173 definition was additionally confirmed verbatim against the
+original paper's text. Quotation fidelity PASS 6/6; no hallucination found. ROUTED FINDINGS
+for supervisor: (1) MINOR documentation — these pages' Sources rows cite the publisher's
+page as the chapter-quote carrier, but that page carries only bibliographic data (and 403s
+to fetch); the true carrier is the book text — suggest noting the public full-text carrier
+or re-adding the owner-Drive PDF to PRIMARY-SOURCES.md (absent from the 5 folders as of
+this session); (2) w1m band is live with another worker, so no band files were edited —
+no repairs needed beyond finding (1). Continuing verification of released bands' recent
+enrichment; baton request still standing.
 Worker note UPDATE (14:21-14:27Z, worker-pcd, verification round 1 COMPLETE — w1aa final
 segment, 9/9 pages): ALL nine pages quote-fidelity verified against freshly opened
 carriers (records in docs/enrichment/sources/verify-pcd/ledger.md). 7 FULL PASS (Halo
