@@ -10,11 +10,12 @@
   "M033",
   "M038",
   "M047",
-  "M049"
+  "M049",
+  "PP027"
  ],
- "in_progress": "PP027",
+ "in_progress": "PP054",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:33:27+00:00"
+ "updated": "2026-10-21T04:33:47+00:00"
 }

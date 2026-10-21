@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 27** — Practise coherence
 
-Coherence, in the sense of Antonovsky's salutogenesis, is the experience that the world is comprehensible, manageable, and meaningful. It is not the belief that everything is fine. It is the sense that one can understand what is happening, that one has the resources to cope, and that the situation is worth coping with. Coherence predicts resilience and health.
+Antonovsky defined the sense of coherence as "a global orientation that expresses the extent to which one has a pervasive, enduring though dynamic feeling of confidence that (1) the stimuli from one's internal and external environments in the course of living are structured, predictable, and explicable; (2) the resources are available to one to meet the demands posed by these stimuli; and (3) these demands are challenges, worthy of investment and engagement" (Antonovsky 1987, p. 19, as quoted in [a Springer chapter on the concept](https://link.springer.com/chapter/10.1007/978-3-030-63135-2_4)). The three components are comprehensibility, manageability and meaningfulness. The same chapter says that perceiving events as comprehensible "does not mean that they are completely predictable or without difficulty", which matches the seed's point that coherence is not a belief that everything is fine.
+
+The health evidence is correlational. [Eriksson and Lindström's 2006 review](https://pmc.ncbi.nlm.nih.gov/articles/PMC2563977/) covered 458 publications and found the sense of coherence "strongly related to perceived health, especially mental health". The review adds that it "does not alone explain the overall health" and that longitudinal studies are needed to confirm causality. The seed's "predicts resilience" goes further than I found in this review.
 
 (Antonovsky, 1987; Eriksson and Lindstrom, 2006.)
 
-**Plain words** Antonovsky's coherence is the sense that life is understandable, manageable and meaningful. It isn't believing everything is fine. It's feeling you can make sense of what's happening, have resources to cope, and that it's worth the effort. It buffers stress.
+### Scope
 
-*For example:* After a diagnosis, a patient who understands the plan, has support and sees why it matters copes better.
+I did not read Antonovsky's 1987 book itself or test whether coherence can be deliberately practised.
+
+**Plain words**
+Coherence means feeling that life makes sense, that you can cope, and that the effort is worth it. People who score higher report better health, though that does not show that coherence causes it.
+
+**For example**
+After a setback, write three sentences: what I understand about it, what I can do or who can help, and why it matters to me. Notice which of the three is hardest to fill.
+
+## Sources
+
+- [Sense of Coherence (Springer chapter)](https://link.springer.com/chapter/10.1007/978-3-030-63135-2_4)
+- [Eriksson and Lindström 2006, Antonovsky's sense of coherence scale and the relation with health (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2563977/)
 
 ## Psychology parallels
 
