@@ -178,3 +178,20 @@ Letter to Menoeceus, psychclassics Wertheimer 1923 (Ellis translation).
    all verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 7 (16:16Z) — w1aa quote-fidelity verification, sixth batch
+
+Carriers opened fresh: PubMed 24405359 (Kounios & Beeman abstract), PubMed 17073523
+(Frattaroli abstract), Duckworth et al. 2007 primary PDF (timeandlearning.org), Hou et al.
+2021 meta-analysis PDF (Edinburgh).
+
+1. Grit — definition quote ("perseverance and passion for long-term goals", p. 1087)
+   VERBATIM in both the primary PDF and the Hou et al. meta-analysis; the abstract
+   blockquote VERBATIM (the page honestly flagged and normalised the PDF's equals-sign
+   font artifact); two-facet description supported by both carriers.
+2. Insight research — both blockquotes VERBATIM vs the PubMed abstract; the century-of-
+   research, brain-stimulation and exciting-new-area prose claims all supported.
+3. Journaling as self-reflection — both blockquotes VERBATIM vs the PubMed abstract;
+   the 146-studies, fixed-effects-limitation and Smyth-line prose claims all supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
