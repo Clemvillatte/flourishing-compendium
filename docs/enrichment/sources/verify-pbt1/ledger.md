@@ -569,3 +569,23 @@ tedkarchive link is a TOC landing page; the mirror carries the identical full te
    link) carries the passages; no repair strictly needed, noted for the record).
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 29 (16:33Z) — w1ab quote-fidelity verification, fifth batch
+
+Carriers opened fresh: Cornell Deleuze-Guattari Nomadology PDF, bkv.unifr.ch Aquinas
+Summa theologiae I q.10 a.2 (Latin), SEP "Heraclitus", Gutenberg #2680 (Long's
+Meditations).
+
+1. Nomadology — blockquote NEAR-VERBATIM with one word differing: the page prints
+   "It is thus false to define the nomad by movement" where the opened Cornell PDF
+   prints "It is therefore false...". DEFECT ROUTED (no baton): one-word repair
+   requested (thus -> therefore), with the caveat that the Massumi translation
+   circulated in multiple printings and the page's carrier should be re-checked
+   against its own cited edition.
+2. Nunc fluens — the Aquinas Latin quotation VERBATIM vs the opened bkv.unifr.ch text
+   ("dicit enim Boetius quod nunc fluens facit tempus, nunc stans facit aeternitatem");
+   the Heraclitus B12 quotation VERBATIM vs the SEP entry (with the Cleanthes-via-
+   Arius-Didymus provenance note matching the page's own annotation).
+3. Non-retaliation — blockquote VERBATIM (Long translation, Book VI.5).
+
+Result: 2/3 verbatim PASS; 1 one-word deviation routed (Nomadology, thus vs therefore).
