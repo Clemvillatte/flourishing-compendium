@@ -24,12 +24,12 @@
   "Walking off one's thoughts",
   "Whole Trait Theory",
   "Cohort model of speech perception",
-  "Allostasis theory",
   "Action Assembly Theory",
   "Action Identification Theory",
-  "Activity theory"
+  "Activity theory",
+  "Ahimsa"
  ],
- "in_progress": "Ahimsa",
+ "in_progress": "Allostasis theory",
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
@@ -64,10 +64,11 @@
   "Action Assembly Theory": "Reopened for QC: advisor QC round 2: factual repairs + source verification",
   "Action Identification Theory": "Reopened for QC: advisor QC round 2: source verification + example fix",
   "Activity theory": "Reopened for QC: advisor QC round 2: lineage sourcing + absolutes removed",
-  "Ahimsa": "Reopened for QC: advisor QC round 2: primary source add, superlative removed, metaphor softened"
+  "Ahimsa": "Reopened for QC: advisor QC round 2: primary source add, superlative removed, metaphor softened",
+  "Allostasis theory": "Reopened for QC: advisor QC round 2: framing fixes, rhetoric removed, related-link add"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:40:11+00:00",
+ "updated": "2026-10-21T13:40:37+00:00",
  "band_done": false
 }

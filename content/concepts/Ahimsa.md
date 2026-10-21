@@ -7,15 +7,15 @@ file: "Ahimsa"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Ahimsa (अहिंसा) is the principle of non-harm that runs through the Indic traditions: "the ancient Indian principle of nonviolence that applies to actions toward all living beings," and "a key virtue in Jainism, Buddhism, and Hinduism" ([Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)). It names a floor rather than a summit: before meditation, generosity or truth, do no injury.
+Ahimsa (अहिंसा) is the principle of non-harm that runs through the Indic traditions: "the ancient Indian principle of nonviolence that applies to actions toward all living beings," and "a key virtue in Jainism, Buddhism, and Hinduism" ([Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)). The compendium reads it as a starting floor: whatever else a practice does, it begins by doing no injury.
 
-### The floor of practice
+### In the primary texts
 
-In Patañjali's yoga, ahimsa is the first of the five yamas, the restraints that open the eight limbs, and commentators read the other four as supports of it ([Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)). Jainism treats it as the foremost of its five vows: "In Jainism, the understanding and implementation of ahimsa is more radical, scrupulous, and comprehensive than in any other religion" ([Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)). Buddhism puts it under the first precept, abstention from killing, and warns lay followers against trading in weapons, living beings, meat, intoxicants and poisons (Anguttara Nikaya V.177, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
+Patañjali lists ahimsa first among the five yamas, the restraints that open the eight limbs of yoga, and promises it a striking result: "Where non-injury is perfected, all enmity ceases in the presence of him who possesses it" (Yoga Sutra II.35, Johnston translation, [Project Gutenberg #2526](https://www.gutenberg.org/cache/epub/2526/pg2526.txt)). Johnston's gloss on the sutra reads: "Where the heart is full of kindness which seeks no injury to another, either in act or thought or wish, this full love creates an atmosphere of harmony, whose benign power touches with healing all who come within its influence." Jainism places it foremost among its five vows and works it out in unusual detail, down to diet and trade; Buddhism sets it under the first precept, abstention from killing, and warns lay followers against trading in weapons, living beings, meat, intoxicants and poisons (Anguttara Nikaya V.177, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
 
-### Gandhi's engine
+### From vow to politics
 
-Gandhi turned the floor into a political force. He read ahimsa as reaching past physical injury to hatred, harsh words and dishonesty, and said: "Nonviolence is common to all religions, but it has found the highest expression and application in Hinduism" (Gandhi, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
+Gandhi extended the principle into public life. He read ahimsa as reaching past physical injury to hatred, harsh words and dishonesty, and said: "Nonviolence is common to all religions, but it has found the highest expression and application in Hinduism" (Gandhi, quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa)).
 
 ### In the compendium
 
@@ -26,16 +26,18 @@ Gandhi turned the floor into a political force. He read ahimsa as reaching past 
 
 ## Related concepts
 
-- [[Four immeasurables]] — the wishes that grow on the floor ahimsa sets
-- [[Karuna]] — compassion as the felt form of non-harm
-- [[Metta (loving-kindness)]] — the meditative cultivation of goodwill it feeds
-- [[Right speech]] — ahimsa applied to words
+- [[Four immeasurables]] — the wishes that rest on non-harm
+- [[Karuna]] — compassion as the felt form of it
+- [[Metta (loving-kindness)]] — the meditative cultivation of goodwill
+- [[Right speech]] — non-harm applied to words
 - [[Satyagraha]] — Gandhi's politics built on it
 - [[Ethics as foundation]] — the same floor across traditions
 
 ## Sources
 
-- [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) — lead definition, yamas, Jainism, Buddhism, Gandhi, verbatim quotes (opened)
+- Patanjali, The Yoga Sutras, Book II, sutras 30 and 35 (Johnston translation, 1912).
+- [Project Gutenberg #2526, The Yoga Sutras of Patanjali](https://www.gutenberg.org/cache/epub/2526/pg2526.txt) — II.35 and commentary, verbatim (opened)
+- [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) — lead definition, Jainism, Buddhism, Gandhi, verbatim quotes (opened)
 - Anguttara Nikaya V.177 (Batchelor translation, as quoted in [Wikipedia, Ahimsa](https://en.wikipedia.org/wiki/Ahimsa))
 
 ## Cited in philosophy parallels
