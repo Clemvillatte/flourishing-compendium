@@ -10,21 +10,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K379** — Compassion for a struggling version of yourself
 
-After settling into your Compassionate Self (see K378 — take a minute of slow breathing, then imagine having the qualities of kindness, wisdom, confidence, and courage), bring to mind a specific situation where a struggling version of you is present — a moment when you were anxious, ashamed, or afraid.
+After settling into your Compassionate Self (see K378; take a minute of slow breathing, then imagine having the qualities of kindness, wisdom, confidence, and courage), bring to mind a specific situation where a struggling version of you is present: a moment when you were anxious, ashamed, or afraid.
 
 From this compassionate perspective, look in on that struggling version of you. See how hard it is for them. Can you be moved by their suffering? Can you understand why they would feel this way, given what they've been through?
 
 Now imagine being *there with them*. Imagine only they can see or hear you. Consider how you would be there for them — how you might help them feel safe, how you might encourage them.
 
-*A variant for when [[Self-compassion|self-compassion]] is too hard:* if extending compassion to *yourself* feels impossible, begin by imagining extending compassion to someone you care about who is struggling — then, once that's established, return to yourself.
+> "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, *CFT Made Simple*, ch. 9, p. 122 (owner's library copy)
+
+*If extending [[Self-compassion|self-compassion]] to yourself is too hard:* the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
 
 This is not a mood change; it's a perspective shift. You're practising the move from being *captured by* a threat to *being with* the part of you that's threatened.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016 (attribution inherited from the seed; the book was not opened this session; verification of the retained instructions against the book is pending).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016. The instructions were verified against the owner's library copy of the book: chapter 9, "Cultivating the Compassionate Self: A Method-Acting Approach", section "Extending Compassion to the Vulnerable Self" (pp. 119–123; the blockquote is on p. 122).
 
 ### Protocol
 
-1. Settle into the Compassionate Self first (see K378): a minute of slow breathing, then the face, posture and voice of someone with kindness, wisdom, confidence and courage. Target dimensions: Identity (who is looking) and Emotion (being moved rather than managing).
+1. Settle into the Compassionate Self first (see K378): a minute of slow breathing, then the perspective of someone with a kind motivation to help, deep wisdom, and confidence and courage. The book warns these qualities can feel vague imagined in a vacuum, so move quickly to applying them in one specific situation. Target dimensions: Identity (who is looking) and Emotion (being moved rather than managing).
 2. Bring to mind one specific moment where a struggling version of you was present: anxious, ashamed, or afraid. One memory, not the general category.
 3. Look in on that version of you from the compassionate perspective. Notice how hard it is for them, and whether you can understand why they would feel this way.
 4. Imagine being there with them, visible and audible only to them; work out how you would help them feel safe, and what encouragement would sound like.
@@ -67,7 +69,6 @@ A related guided practice: [Directing the Compassionate Self to ourselves, Balan
 - [[K162 — Self-compassion practice]]
 
 ## Sources
-
-- Kolts (2016), *CFT Made Simple*, New Harbinger — attribution inherited from the seed; the book was not opened this session; the Balanced Minds link above is a related guided practice, not the book
+- [Kolts, R. L. (2016), *CFT Made Simple*, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 9, "Extending Compassion to the Vulnerable Self", pp. 119–123: the anxious-self scenario, being touched by her suffering, being there with her; the start-with-someone-you-care-about guidance, p. 122
 - [Longe et al. (2010), "Having a word with yourself: neural correlates of self-criticism and self-reassurance", NeuroImage, PubMed](https://pubmed.ncbi.nlm.nih.gov/19770047/)
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)

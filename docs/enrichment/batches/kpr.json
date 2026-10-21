@@ -276,13 +276,13 @@
   "Compassion for a struggling version of yourself"
  ],
  "in_progress": "The Befriending meditation",
- "updated": "2026-10-21T14:44:55+00:00",
+ "updated": "2026-10-21T15:47:21+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
   "Rest as practice": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight",
-  "The Befriending meditation": "QC-pending: milestone r1 repairs applied; item reopened in_progress; re-verification in flight",
+  "The Befriending meditation": "QC-pending: milestone r1 repairs applied; item reopened in_progress; re-verification in flight | INSTRUCTION-PROVENANCE CLEARED (2026-10-21 worker-kpr-pplc-f3d97a21): instructions verified against the eCampusOntario Pressbooks transcript of the guided practice (phrases full form 'May I be safe and free from suffering', pebble/deep well, unconditional-love fallback, stages) plus Simione et al. 2022 PLOS ONE (recording 'derived from recordings by Professor Mark Williams', same phrases/stages) plus franticworld.com (Befriending from the book, free recording). Print book NOT opened: the owner's share for K396 was Penman's Mindfulness for Creativity (2015), not the 2011 Williams & Penman book — recorded in PRIMARY-SOURCES.md. Milestone QC-pending flag above remains.",
   "Cultivate your Compassionate Self": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight",
-  "Compassion for a struggling version of yourself": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight"
+  "Compassion for a struggling version of yourself": "QC-pending: milestone r1 repairs applied (see ledger); item still marked done; re-verification in flight | INSTRUCTION-PROVENANCE CLEARED (2026-10-21 worker-kpr-pplc-f3d97a21): the owner uploaded the Kolts CFT Made Simple PDF; instructions and blockquote verified verbatim against ch. 9 'Extending Compassion to the Vulnerable Self' pp. 119-123 (quote p. 122); the 'variant' is the book's own guidance (p. 122), no longer labelled an adaptation; page now cites the owner's Drive copy. Milestone QC-pending flag above remains."
  }
 }

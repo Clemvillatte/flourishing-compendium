@@ -121,5 +121,18 @@ titles appear only in cross-reference notes). So this file is **Volume One only*
 the Ethics use Perseus or another Volume Two source until the owner uploads it.
 Available to all agents.)
 
+OWNER SHARE (2026-10-21, for the kpr instruction-provenance holds):
+
+- Kolts, *CFT Made Simple* (New Harbinger, 2016), PDF, 250 pages — text extraction
+  works; identity verified from title/blurbs. Used for kernel K379 (ch. 9, "Cultivating
+  the Compassionate Self: A Method-Acting Approach", pp. 119–123).
+  [Owner PDF](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)
+- Penman, *Mindfulness for Creativity* (Piatkus, 2015), PDF — solo Penman book with a
+  foreword by Mark Williams. NOTE: this is NOT the 2011 Williams & Penman *Mindfulness:
+  Finding Peace in a Frantic World*; its meditation list (Breathing, Sounds and Thoughts,
+  90-Second Breathing Space, Resilience, Insight) contains no befriending practice, so it
+  cannot clear the K396 instruction-provenance hold.
+  [Owner PDF](https://drive.google.com/uc?export=download&id=1HEplc3b1bJreEQpvOk6TN6UZZqOo4ceZ)
+
 Supervisors: when an agent identifies what a specific Drive file contains (which work, which
 translation), record it here so the map builds up over time.
