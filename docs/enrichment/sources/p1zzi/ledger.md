@@ -68,3 +68,6 @@
 ## R114 — relational responsibility
 - Opened (search excerpts): OUP abstract of Young 2011 ch. 4; OUP chapter quoting Young 2011 p.104; SEP Global Justice. Young's own book not opened. Locator title "Responsibility and Structural Injustice, in Global Challenges (2004)" could not be verified (Young 2006 "Responsibility and Global Justice: A Social Connection Model" is the standard article); locator left untouched, supervisor to verify.
 - Page notes the critique (Lu) that responsibility can also be backward-looking.
+## R115 — relational ethics in the digital age
+- Opened (search excerpts): five Springer papers + OUP ch. 8 of Vallor 2016 (list of twelve virtues, p.1 quote via Ethics & Info Tech 2019, care definition as paraphrased by that paper). Vallor's book not opened. Floridi 2013 NOT opened (SEP Ethics of AI page has nothing on it) — page says so; locator untouched.
+- Seed "The ethics of care, recognition and dialogue apply online as well" is the compendium's synthesis; Vallor does not say exactly that. Page is thin by design.
