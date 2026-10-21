@@ -13,7 +13,7 @@ Viveka is discriminative discernment: the power to tell apart what is real from 
 
 In Advaita Vedanta, viveka is the first of the four prerequisites for the seeker, and the Vivekachudamani gives its classic definition:
 
-> "A firm conviction of the mind that Brahman is real and the universe unreal — this is designated as the discrimination between the Real and the unreal." (Vivekachudamani, verse 20, quoted in [Vedakshara, "Vivekachudamani"](https://vedakshara.com/en/articles/vivekachudamani/))
+> "A firm conviction of the mind to the effect that Brahman is real and the universe unreal, is designated as discrimination (Viveka) between the Real and the unreal." (Vivekachudamani, verse 20, translated by Swami Madhavananda, [Advaita Ashrama edition, Internet Archive](https://archive.org/details/vivekachudamani_madhavanandha))
 
 The same tradition places vairagya (detachment) next after viveka: "In the Vedanta, viveka is considered to be the first requirement of the spiritual journey, the next being vairagya (detachment), as a natural extension of viveka" ([Wikipedia, "Viveka"](https://en.wikipedia.org/wiki/Viveka)).
 
@@ -33,6 +33,6 @@ The same tradition places vairagya (detachment) next after viveka: "In the Vedan
 
 - Wikipedia Viveka: https://en.wikipedia.org/wiki/Viveka
 - [Wikipedia, "Viveka"](https://en.wikipedia.org/wiki/Viveka) — the definition sentence and the Vedanta sequence quoted above
-- [Vedakshara, "Vivekachudamani: Shankaracharya's Crest-Jewel of Discrimination"](https://vedakshara.com/en/articles/vivekachudamani/) — the verse 20 definition quoted above
+- [Vivekachudamani, verse 20, translated by Swami Madhavananda, Advaita Ashrama edition, Internet Archive](https://archive.org/details/vivekachudamani_madhavanandha) — the verse 20 definition quoted above
 
 ## Cited in philosophy parallels
