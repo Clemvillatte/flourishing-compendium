@@ -24,7 +24,7 @@ The liuzi jue (六子訣), the Six Healing Breaths or Six Healing Sounds, is a s
 
 The organ associations belong to the correspondence system of traditional Chinese medicine, which is how Kohn, a scholar of Daoism, presents them: a "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater", therapeutic and preventive in the tradition's own terms. No trial of the six sounds is cited in the opened source. What carries over to modern physiology is only the slow-exhalation structure, whose calming effects are covered by the slow-breathing kernel (K194). The classical closing promise of the practice, quoted in the Daoyin jing:
 
-> "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one's condition." — Daoyin jing, as quoted in Kohn, Chinese Healing Exercises, Daoyin jing section (16b) ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
+> "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Daoyin jing, as quoted in Kohn, Chinese Healing Exercises, Daoyin jing section (16b) ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
 
 ## Operationalises
 
