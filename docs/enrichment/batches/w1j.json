@@ -66,9 +66,10 @@
   "Fundamental attribution error",
   "Gate control theory of pain",
   "Grounding techniques",
-  "Harsh self-criticism"
+  "Harsh self-criticism",
+  "Hormetic exposure research"
  ],
- "in_progress": "Hormetic exposure research",
+ "in_progress": null,
  "flagged": {
   "Radical freedom": "QC resolved 2026-10-20 (takeover genuineflourishing04): all quotes re-verified verbatim vs freshly opened SEP Sartre + SEP Existentialism; Aho framing sentence correctly attributed to the SEP entry with only the inner Sartre fragment in quotes; [2001, 296] locator added beside the body quote per supervisor route",
   "Restorative justice": "QC re-review resolved 2026-10-20 (genuineflourishing04): all quotes re-verified verbatim vs freshly opened IIRP full PDF; advisor follow-up applied — 'based largely on two forms' abstract framing, matched blockquote quotes, no duplicate framing sentence",
@@ -108,6 +109,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:24:30+00:00",
+ "updated": "2026-10-21T08:25:10+00:00",
  "band_done": false
 }
