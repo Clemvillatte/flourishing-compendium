@@ -65,7 +65,8 @@
   "Framing effects",
   "Fundamental attribution error",
   "Gate control theory of pain",
-  "Grounding techniques"
+  "Grounding techniques",
+  "Harsh self-criticism"
  ],
  "in_progress": null,
  "flagged": {
@@ -102,10 +103,11 @@
   "Finitude": "seed source Heidegger Kant and the Problem of Metaphysics not opened; enriched from SEP Heidegger entry; page states this",
   "Flexibility as virtue": "seed gave no aphorism number; label is compendium summary; GS 159 and 296 identified (Common translation, Gutenberg); page states this",
   "Fundamental attribution error": "seed defines FAE as over-crediting the self (wrong; that is self-serving bias); depression-reversal claim unchecked; page corrects",
-  "Grounding techniques": "seed source Linehan 1993 not opened; evidence base for grounding is thin per 2026 critical review; page states this"
+  "Grounding techniques": "seed source Linehan 1993 not opened; evidence base for grounding is thin per 2026 critical review; page states this",
+  "Harsh self-criticism": "seed 'predicts psychopathology' overstated: sources show association; Gilbert 2009 is theory; page states this"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:23:46+00:00",
+ "updated": "2026-10-21T08:24:28+00:00",
  "band_done": false
 }
