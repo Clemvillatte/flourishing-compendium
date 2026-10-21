@@ -227,7 +227,7 @@
    ]
   },
   "s1b-010": {
-   "status": "qc_pending",
+   "status": "published",
    "angle": "B043: Ud 1.10 Bāhiya — 'in the seen only the seen'; insight in minimal form, release through non-clinging, the cow-and-calf ending",
    "history": [
     {
@@ -240,6 +240,11 @@
      "note": "first draft complete; quotes verbatim-verified against opened Ud 1.10 page; advisor QC requested"
     },
     {
+     "t": "2026-10-21T12:29:58+00:00",
+     "to": "ready",
+     "note": "advisor round-1 repairs applied; scoped quotation checks pass; partial-angle ownerlessness story"
+    },
+    {
      "t": "2026-10-21T12:29:03+00:00",
      "to": "published",
      "note": "supervisor verification: quotes verified against opened Ud1.10 page"
@@ -247,5 +252,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:29:03+00:00"
+ "updated": "2026-10-21T12:29:58+00:00"
 }
