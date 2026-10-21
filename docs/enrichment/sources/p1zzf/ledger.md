@@ -53,3 +53,7 @@
 ## R067 — Practise receptive caring
 - Opened: Noddings 2010 Abstracta text (excerpt), Philopractice page quoting Caring, Ghent thesis quoting Ickes 1993 p.588 (definition only). Caring 1984 and Starting at Home not read in full.
 - Seed "see the world from their perspective" tempered: Noddings explicitly rejects "putting myself in the other's shoes"/projection. "Receptivity is first phase" supported by "attention precedes empathy". Empathic accuracy vs receptivity: related not equivalent, noted.
+
+## R068 — Practise motivational displacement
+- Opened (excerpts): Philopractice (quotes Caring), Noddings 2010 Abstracta, ERIC ED419801 summary, Batson chapter PDF, PMC review of Altruism in Humans. Caring ch.3 unread in full.
+- Seed "impulse to act / second phase / receptivity without displacement is mere sentiment": not found as such; Noddings says shift is temporary and "not necessarily toward his ends". Disclosed.

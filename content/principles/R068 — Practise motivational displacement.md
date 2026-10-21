@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 330** — Practise motivational displacement
 
-Let your response to the other's need move you to action. Motivational displacement is the second phase of caring: it is the impulse to respond, to help, to act on behalf of the other. Receptivity without displacement is mere sentiment.
+Noddings describes motivational displacement as part of the carer's state of mind, together with receptive attention. In her words, "When I care, when I receive the other in the way we have been discussing, there is more than a feeling; there is also a motivational shift. My motive energy flows toward the other and perhaps, although not necessarily, towards his ends" ([Philopractice, quoting Caring](https://www.philopractice.org/noddings)). In a later paper she writes that "we put aside our own goals and purposes temporarily in order to assist in satisfying the expressed needs of the other" ([Noddings, Abstracta 2010](https://abstracta.journals.hhu.de/article/download/262/279/1056)). A teaching summary quotes her as saying displacement "involves stepping out of one's own personal frame of reference and into the other's" (Caring, p. 24, [ERIC document](https://files.eric.ed.gov/fulltext/ED419801.pdf)).
 
-(Noddings, 1984, Caring, ch. 3.)
+The words "temporarily" and "not necessarily towards his ends" matter. Noddings does not say the carer hands over the controls or does whatever the other wants. She also does not describe displacement as a second stage after receptivity in what I read. The ERIC summary calls it "a direct outcome of receptivity", which fits the seed's order only loosely.
 
-**Plain words** Motivational displacement: let the other's need take over the controls for a moment — your energy reorganised around responding to them. Receptivity without this is just sentiment: you were moved, and did nothing. The displacement is where caring gets legs.
+Batson's empathy-altruism hypothesis is the psychology parallel. He defines empathic concern as "other-oriented emotion elicited by and congruent with the perceived welfare of someone in need" and, after more than 30 experiments, concluded "tentatively" that it produces altruistic motivation ([Batson, chapter PDF](https://people.uncw.edu/hakanr/documents/batsononempathy.pdf)). A book review notes that high personal costs can override empathy, so the pull to act has limits ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10426832/)). Noddings's displacement is a philosophical description of carers' experience, not an experimental result.
 
-*For example:* Someone cancels their productive Saturday to drive a friend to the appointment — the day's plans didn't survive contact with the friend's need, and that's what caring looks like.
+**Plain words** Motivational displacement means your energy turns, for a while, toward what the other person needs. Noddings says the shift is temporary and not always toward what they ask for.
+
+*For example:* This is an imagined case. Someone gives up a free Saturday to drive a friend to a hospital appointment, and asks on the way what would help most.
+
+## Sources
+
+- [Philopractice, Nel Noddings (1929-2022), with extracts from Caring](https://www.philopractice.org/noddings)
+- [Noddings (2010), in Abstracta Special Issue V, 6-12](https://abstracta.journals.hhu.de/article/download/262/279/1056)
+- [ERIC document ED419801 (summary of Noddings's account)](https://files.eric.ed.gov/fulltext/ED419801.pdf)
+- [Batson, Prosocial Motives, Emotions, and Behavior (chapter PDF)](https://people.uncw.edu/hakanr/documents/batsononempathy.pdf)
+- [Book review of Batson's Altruism in Humans, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10426832/)
+- Noddings (1984), Caring, ch. 3: cited on the page, not read in full.
+
 ## Psychology parallels
 
 - **[[Empathy-altruism hypothesis|Empathy-altruism hypothesis]]** (Batson, 2011)
