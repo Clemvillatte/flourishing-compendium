@@ -143,3 +143,10 @@ These are inherited title/original-principle or Practice statements, outside thi
 - **AT021:** Inherited Practice calls gratitude an attentional exercise; the body now distinguishes the [writing study](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) from tested gaze training and an established attention mechanism.
 
 Independent psychology advisor passes AT015 and the final narrowed A118 body/source account. The five items above remain scoped supervisor flags even though their repaired bodies have been validated.
+
+## AT054
+
+- Searched attention-training generalisation; opened [Simons et al. 2016 abstract](https://pubmed.ncbi.nlm.nih.gov/27697851/) and [Melby-Lervåg and Hulme 2013 abstract](https://pubmed.ncbi.nlm.nih.gov/22612437/).
+- Checked every quotation. Replaced first-person research-process wording with the actual inference limit: those cognitive-training findings do not establish broad benefits of instrument practice or difficult reading.
+- Removed an unsupported certainty that one imagined hour of piano practice will improve performance and a bare Ericsson parenthetical not connected to a source passage in this card.
+- Plain words and example distinguish specific feedback from far-transfer assumptions. Protected content and inherited parallels unchanged.

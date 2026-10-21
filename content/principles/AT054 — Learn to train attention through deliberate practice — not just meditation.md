@@ -20,13 +20,13 @@ A meta-analysis of working-memory training reached a similar verdict: "no convin
 >
 > Melby-Lervåg & Hulme, Developmental Psychology (2013)
 
-Those reviews cover computer-based programs. They do not test practising an instrument or reading hard texts, and I found no study among those I opened that does.
+Those reviews address cognitive-training programs. Their findings do not by themselves establish whether practising an instrument or reading difficult texts improves attention more generally.
 
-(Ericsson et al., 1993; Melby-Lervåg & Hulme, 2013; Simons et al., 2016.)
+(Melby-Lervåg & Hulme, 2013; Simons et al., 2016.)
 
-**Plain words** Practice makes you better at the thing you practise. Whether it also makes you generally better at paying attention is not proven. A good reason to take up a demanding hobby is the hobby itself. Think of any gain in focus as a possible extra, and do not count on it.
+**Plain words** Improvement on a practised task does not automatically mean better attention everywhere. The reviews make that distinction important. A demanding hobby can be worth pursuing for its own sake; broader gains in focus need their own evidence. For reflection, be specific about what you are trying to learn and what feedback would show progress.
 
-For example (imagined): an hour of piano practice with a teacher correcting your mistakes will improve your piano playing. Expecting it to improve how well you concentrate on a spreadsheet is a larger claim than the evidence supports.
+For example (imagined): a teacher identifies a difficult piano passage and gives feedback as you practise it. Track what changes in that passage rather than assuming the work will also improve concentration on a spreadsheet.
 
 ## Sources
 
