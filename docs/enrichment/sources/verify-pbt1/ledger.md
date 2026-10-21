@@ -320,3 +320,17 @@ quotes), Rogers 1959 chapter PDF (archive.org CDN host), Wikipedia "Groupthink"
    experiences himself as the locus of evaluation) verbatim-supported (pp. 210, 216, 218).
 
 Result: 2/2 quotation fidelity PASS, no defects this round.
+
+## Round 14 (16:40Z) — w1aa quote-fidelity verification, thirteenth batch
+
+Carriers opened fresh: Cohen/McClure/Yu 2007 PDF (worthylab.org), Deci & Ryan 2000 PDF
+(selfdeterminationtheory.org), APS abstract page for Galinsky et al 2008.
+
+1. Explore-exploit trade-off research — blockquote VERBATIM; the no-known-optimal-solution,
+   expected/unexpected uncertainty and LC tonic/phasic claims all verbatim-supported.
+2. Eudaimonic motivation, intrinsic goals — blockquote VERBATIM (p. 243) and the
+   financial-success sentence VERBATIM (p. 244) vs the opened Deci & Ryan PDF.
+3. Galinsky et al — blockquote VERBATIM vs the APS abstract; empathy-detrimental,
+   prima-facie/multiple-issue and closing-line prose claims all verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
