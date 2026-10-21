@@ -12,7 +12,8 @@
   "SP083",
   "SP085",
   "X001",
-  "X004"
+  "X004",
+  "X021"
  ],
  "in_progress": null,
  "flagged": {
@@ -27,10 +28,11 @@
   "SP083": "inherited: Park 2010 bare reference not opened this session",
   "SP085": "inherited: Steger 2012 bare reference not opened this session",
   "X001": "inherited: Lord/Ross/Lepper 1979 and Mussweiler et al. 2000 bare references not opened this session",
-  "X004": "inherited: Wegner 1994 bare reference not opened this session"
+  "X004": "inherited: Wegner 1994 bare reference not opened this session",
+  "X021": "inherited: Bem self-perception research bare reference not opened this session"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:21:29+00:00",
+ "updated": "2026-10-21T04:22:02+00:00",
  "band_done": false
 }

@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 21** — Trust the law of compensation
 
-Emerson's essay Compensation: every act rewards itself; the thief steals from himself; the benefit cheats only the benefactor's growth. The claim is not the prosperity gospel's (that virtue is paid in money); it is psychological: acts shape the actor, and the actor's shape is the act's true wage. The distinct use is the re-pricing of choices by their self-shaping effect rather than their external yield. Practically, for one week, price each significant choice by what it makes you (not what it gets you), and let the pricing choose.
+Emerson's essay states the law as a fact about acts, not a promise about outcomes: "Every act rewards itself, or, in other words integrates itself, in a twofold manner; first in the thing, or in real nature; and secondly in the circumstance, or in apparent nature" ([Emerson, Compensation](https://www.gutenberg.org/files/2944/2944-h/2944-h.htm)). The reward inside the act is the actor's own change: "in labor as in life there can be no cheating. The thief steals from himself. The swindler swindles himself," for "the real price of labor is knowledge and virtue, whereof wealth and credit are signs" ([Emerson, Compensation](https://www.gutenberg.org/files/2944/2944-h/2944-h.htm)). The mechanism in one sentence: "Crime and punishment grow out of one stem" ([Emerson, Compensation](https://www.gutenberg.org/files/2944/2944-h/2944-h.htm)).
 
-(Emerson, Compensation.)
+> "Cause and effect, means and ends, seed and fruit, cannot be severed; for the effect already blooms in the cause, the end preexists in the means, the fruit in the seed." (Emerson, Compensation, [Essays — First Series, Project Gutenberg](https://www.gutenberg.org/files/2944/2944-h/2944-h.htm))
 
-**Plain words** Every act rewards itself: the thief steals from himself, the cheat only cheats his own growth. Not prosperity gospel — nothing about money — but psychological law: acts shape the actor, and the actor's shape is the real wage. Price your choices by what they make you, not what they get you.
+**Plain words**
+A choice has two yields: what it gets you and what it makes you, and the second cannot be counterfeited or stolen. Emerson's own example is labor's real price: the knowledge and virtue that only the actual work builds, of which the pay is only a sign. The shortcut and the honest route may end at the same title, but they build different people, and the person is the wage that stays.
 
-*For example:* Two colleagues can take the same shortcut to the promotion — one takes it, one doesn't — and five years on, the difference isn't the title, it's who each of them has become at meetings.
+**For example**
+Hypothetical illustration: two colleagues can take the same shortcut to the promotion; five years on, the difference is not the title but who each of them has become at meetings.
+
+(Emerson, Compensation, Essays — First Series.)
+
 ## Psychology parallels
 
 - **[[Self-perception theory|Self-perception theory]]**, the finding that we become what we repeatedly do, observing our acts as evidence of who we are (Bem's self-perception research, as the direct modern cousin)
@@ -27,3 +32,7 @@ Emerson's essay Compensation: every act rewards itself; the thief steals from hi
 
 - **[[Character as fate|Character as fate]]** (Heraclitus, Fragments)
 - **The sower's seed and the soil** (the acts-as-seeds image across traditions)
+
+## Sources
+
+- [Emerson, Essays — First Series (1841), Project Gutenberg](https://www.gutenberg.org/files/2944/2944-h/2944-h.htm) — the essay Compensation
