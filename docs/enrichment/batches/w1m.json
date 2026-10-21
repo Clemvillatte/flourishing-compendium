@@ -9,7 +9,8 @@
   "The ontological difference",
   "The three poisons",
   "The sublime",
-  "Transactive memory systems"
+  "Transactive memory systems",
+  "The progress principle"
  ],
  "in_progress": null,
  "flagged": {
@@ -21,9 +22,10 @@
   "The culturally embedded self": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-p1zzg-8c31f0a7, advisor round 1): the opened MacIntyre-review excerpt establishes Taylor's account of identity through commitments and evaluation, but NOT the specifically 'culturally embedded' framing of this heading \u2014 a source-support gap, not proof the concept is fictitious. Bounded prose saved as work in progress; done-mark REMOVED (reopened via the state workflow); supervisor/owner disposition requested: either an academic passage supporting the cultural/dialogical constitution of selfhood (then re-close), or a namespace decision on the heading. The Taylor p. 27 fragment is verified verbatim vs the opened review; the book itself was not opened (no carrier available this session). Validated ok --fast-track vs baseline dd56576^.",
   "The three poisons": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs \u2014 tradition-label sentence replaced by the advisor's narrow opening, the naming bridge VERIFIED against the freshly opened Princeton Dictionary excerpt (buddhanature.tsadra.org: 'three poisons' = raga/lobha, dvesa, moha, also known as the three 'unwholesome faculties' akusalamula); the second (assembled) blockquote OMITTED per the advisor's sound-repair option; the first Mula Sutta quote retained verbatim. Validated ok --fast-track vs baseline 02ee446^.",
   "The sublime": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs \u2014 opening replaced by the advisor's bounded sentence (no 'greatness that overwhelms', no 'influential modern definition' claim, no terror/beauty opposition); both Burke quotes kept with explicit \u00a77 locators + URLs; Kant kept as an inherited seed pointer. Validated ok --fast-track vs baseline 5aaa929^.",
-  "Transactive memory systems": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs \u2014 opening replaced by the advisor's sentence; 'full theoretical shape' removed; the 'genuinely collective' paragraph replaced by the definition-includes sentence + a clearly labelled imagined example; Related gloss reduced to the bare wikilink. Validated ok --fast-track vs baseline de44044^."
+  "Transactive memory systems": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs \u2014 opening replaced by the advisor's sentence; 'full theoretical shape' removed; the 'genuinely collective' paragraph replaced by the definition-includes sentence + a clearly labelled imagined example; Related gloss reduced to the bare wikilink. Validated ok --fast-track vs baseline de44044^.",
+  "The progress principle": "QC-PENDING + MILESTONE DUE (2026-10-21, worker-p1zzg-8c31f0a7): 10th fresh item this session \u2014 the item-10 milestone QC is due next (the items-6-9 round covered through item 9); both quotes verified verbatim vs the opened HBR page summary; supervisor/next worker to run the item-10 round"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:23:35+00:00"
+ "updated": "2026-10-21T08:26:50+00:00"
 }

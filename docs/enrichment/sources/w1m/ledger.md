@@ -219,3 +219,16 @@
   certification. Monotonic and wall clocks cross-checked consistent
   (2005078289350 at 08:18:45Z; 2436064987926 at 08:25:56Z — delta 7m11s
   on both clocks).
+
+## The progress principle (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Light-check + bounded enrichment. The seed already quoted the HBR
+  article accurately; the quote VERIFIED verbatim against the freshly
+  fetched HBR page (the article's own summary/abstract text, which
+  carries the full sentence including the inner-work-life definition).
+  Added: the article's small-wins/setbacks sentence quoted verbatim from
+  the same opened summary, an In-the-compendium block, and Related
+  concepts (Flow, Burnout — both verified to exist as concept files;
+  glosses reduced to bare per the standing QC practice).
+- QC-PENDING flag set (10th fresh item; the item-10 milestone QC is due
+  next — supervisor or next worker to run it).

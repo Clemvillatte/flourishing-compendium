@@ -9,6 +9,19 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 In an analysis of knowledge workers' diaries, Amabile and Kramer found that "nothing contributed more to a positive inner work life (the mix of emotions, motivations, and perceptions that is critical to performance) than making progress in meaningful work" ([The Power of Small Wins, Harvard Business Review, May 2011](https://hbr.org/2011/05/the-power-of-small-wins)). Even small wins boost it; small setbacks depress it. The finding concerns perceived progress in work that matters to the person doing it, not the size of the final goal.
 
+The article's own summary puts the asymmetry plainly: "Even small wins can boost inner work life tremendously. On the flip side, small losses or setbacks can have an extremely negative effect. And the work doesn't need to involve curing cancer in order to be meaningful. It simply must matter to the person doing it." ([same source](https://hbr.org/2011/05/the-power-of-small-wins))
+
+### In the compendium
+
+- [[D018 — Give things time]]
+- [[S090 — See that life is short and do not waste it]]
+- [[B179 — The path is the goal]]
+
+## Related concepts
+
+- [[Flow]]
+- [[Burnout]]
+
 ## Sources
 
 - [Amabile, T., & Kramer, S. (2011). The Power of Small Wins. Harvard Business Review, May 2011](https://hbr.org/2011/05/the-power-of-small-wins) — the diary-analysis finding and the inner-work-life definition
