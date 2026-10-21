@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 The American Psychiatric Association draws the line on duration and effect on daily life. Ordinary mood changes "typically last hours rather than days and are not accompanied by extreme changes in behavior or changes in functioning". Bipolar mood episodes last "from days to weeks" ([APA, What Are Bipolar Disorders?](https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders)).
 
-A manic episode is "a period of at least one week when a person is extremely high-spirited or irritable most of the day for most days". A hypomanic episode needs only four days in a row and brings less severe symptoms. A major depressive episode lasts at least two weeks.
+A manic episode is "a period of at least one week when a person is extremely high-spirited or irritable most of the day for most days". The [NIMH explanation](https://www.nimh.nih.gov/health/publications/bipolar-disorder) also includes manic symptoms so severe that hospital care is needed, without requiring a week to pass. A hypomanic episode needs at least four consecutive days; a major depressive episode lasts at least two weeks. Depression is not required for a bipolar I diagnosis.
 
 > Medication is the cornerstone of bipolar disorder treatment, though talk therapy (psychotherapy) can help many patients learn about their illness and adhere to medications, helping prevent future mood episodes.
 >
@@ -24,12 +24,13 @@ The same page says symptoms of a manic episode "commonly require hospital care t
 
 (APA, 2024.)
 
-**Plain words** Everyone's mood moves around. In bipolar disorder the shifts last for days or weeks, change behaviour and make daily life harder, and the high periods may be marked by much less sleep and more energy than usual. Only a clinician can say which it is, and the right treatment differs from what helps ordinary ups and downs.
+**Plain words** An unusual change in sleep, energy, activity and judgement deserves more attention than the label “moody”. A clinician considers the whole pattern and other possible explanations. The episode lengths help describe diagnoses; they are not instructions to postpone seeking care or to wait for both high and low periods.
 
-For example (imagined): someone has weeks of boundless energy, four hours of sleep and grand new projects, followed by weeks of flat exhaustion, and this repeats over years. Friends call it temperament. A pattern like that is worth taking to a doctor.
+For example (imagined): over several nights someone needs much less sleep, spends recklessly and behaves very differently from usual. That warrants prompt medical advice, not a diagnosis from this example.
 
 ## Sources
 
+- National Institute of Mental Health, [Bipolar Disorder](https://www.nimh.nih.gov/health/publications/bipolar-disorder) (revised 2025)
 - American Psychiatric Association, [What Are Bipolar Disorders?](https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders) (physician review April 2024)
 - National Institute of Mental Health, [Bipolar Disorder](https://www.nimh.nih.gov/health/topics/bipolar-disorder) (last reviewed December 2024)
 

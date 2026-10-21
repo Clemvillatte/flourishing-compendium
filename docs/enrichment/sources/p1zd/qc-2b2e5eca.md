@@ -81,3 +81,10 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked all quotations. Added an explicit distinction between diagnostic duration and when someone may seek support.
 - The prior imagined crash example claimed an intrusion/avoidance pattern its few details did not establish. The revised example makes that limit explicit and invites assessment without diagnosing.
 - No new treatment instructions or crisis-contact details introduced. Protected metadata and inherited parallels unchanged.
+
+## AF080
+
+- Searched NIMH mania; opened [APA bipolar disorders](https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders) and [NIMH Bipolar Disorder](https://www.nimh.nih.gov/health/publications/bipolar-disorder).
+- Checked the retained APA quotations. Added NIMH's severe/hospital-care exception to the usual manic-episode duration and clarified that depression is not required for bipolar I.
+- Plain words distinguishes diagnostic durations from when to seek care. The imagined example no longer suggests waiting through years of repeated highs and lows; it explicitly avoids diagnosing the person.
+- Protected metadata, original principle sentence and inherited parallels unchanged. No medication change or treatment regimen is advised.
