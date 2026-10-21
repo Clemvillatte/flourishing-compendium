@@ -46,7 +46,8 @@
   "Zuckerman’s Alternative Five-Factor Model",
   "Theory-theory of mindreading",
   "Transformational leadership theory",
-  "Triple Vulnerability Model"
+  "Triple Vulnerability Model",
+  "Tiny habits (Fogg)"
  ],
  "in_progress": null,
  "flagged": {
@@ -87,10 +88,11 @@
   "Zuckerman’s Alternative Five-Factor Model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): sensation-seeking definition (Zuckerman 1994 p.27) + ZKPQ five-factor sentence verified verbatim from opened WKU review PDF; 1993 ZKPQ paper cited via carrier only (details not independently verified, noted); validated --fast-track",
   "Theory-theory of mindreading": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): IEP Theory of Mind article opened; theory-theory definition + child-scientist + false-belief passages quoted verbatim; Gopnik & Wellman 1992 cited via IEP survey only (full text not open, noted); validated --fast-track",
   "Transformational leadership theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Bass 1999 abstract opened on tandfonline and quoted verbatim; Burns 1978 cited via standard literature only (not independently opened, noted); four dimensions described from theory's standard account; validated --fast-track",
-  "Triple Vulnerability Model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barlow's own 2014 'Origins of Neuroticism' open PDF opened and triple-vulnerability passage quoted verbatim; 2000 founding paper cited as abstract-read only; validated --fast-track"
+  "Triple Vulnerability Model": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Barlow's own 2014 'Origins of Neuroticism' open PDF opened and triple-vulnerability passage quoted verbatim; 2000 founding paper cited as abstract-read only; validated --fast-track",
+  "Tiny habits (Fogg)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): B=MAP quote verified verbatim from Fogg's own behaviormodel.org (opened); FBM summary + Ability Chain quote verified verbatim from opened BMC Public Health scoping review; the book (Fogg 2019) is copyrighted — method described from opened review's documentation of interventions, ABC recipe not quoted from unopened carriers; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:36:38+00:00",
+ "updated": "2026-10-21T16:37:23+00:00",
  "band_done": false
 }
