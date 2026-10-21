@@ -84,8 +84,8 @@ def main():
     lines.append('# Enrichment progress dashboard')
     lines.append('')
     lines.append(f'As of {now:%Y-%m-%d %H:%M} UTC (input revision `{head}`). '
-                 f'Scope: principles and concepts enrichment — not the whole wiki. '
-                 f'Next update due by {due:%H:%M} UTC (supervisor refreshes at every pass, at least hourly).')
+                 f'Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. '
+                 f'Refreshed at every supervisor pass and at every shift start; next update due by {due:%H:%M} UTC.')
     lines.append('')
     lines.append('"Recorded done" = listed in a band state file after validation; it does not by itself '
                  'certify that every claim passed source QC. "Not recorded done" = the remaining backlog.')
@@ -101,6 +101,46 @@ def main():
     lines.append(f'| **Combined** | **{len(pr_done)+len(co_done)}** | **{rem_pr+rem_co}** | '
                  f'**{len(principles)+len(concepts)}** | **{100*(len(pr_done)+len(co_done))/(len(principles)+len(concepts)):.1f}%** |')
     lines.append('')
+    # stories pipeline (separate lane registry; PROGRESS.md reports counts only)
+    stories = []
+    for fn in os.listdir(os.path.join(ROOT, 'content/stories')):
+        if re.match(r'^ST\d+ — .+\.md$', fn):
+            stories.append(fn)
+    lanes = {}
+    for sf in sorted(glob.glob(os.path.join(ROOT, 'docs/enrichment/drafts/s1*/state.json'))):
+        try:
+            d = json.load(open(sf))
+        except Exception:
+            continue
+        lane = d.get('lane') or os.path.basename(os.path.dirname(sf))
+        tally = {'published': 0, 'ready': 0, 'in_flight': 0}
+        for it in (d.get('items') or {}).values():
+            st = it.get('status')
+            if st == 'published' or it.get('st-id'):
+                tally['published'] += 1
+            elif st == 'ready':
+                tally['ready'] += 1
+            elif st not in (None, 'rejected'):
+                tally['in_flight'] += 1
+        lanes[lane] = tally
+    if stories or lanes:
+        lines.append('## Stories (separate pipeline)')
+        lines.append('')
+        lines.append(f'Published story pages (content/stories/ST*.md): {len(stories)}. '
+                     'Ready = drafts that passed lane QC and await supervisor registration; '
+                     'in flight = being drafted or researched. Lanes are listed in '
+                     'STORIES-TASKBOARD.md; storytellers never touch concept/principle pages.')
+        lines.append('')
+        lines.append('| Lane | Published (registered) | Ready (pending registration) | In flight |')
+        lines.append('|---|---|---|---|')
+        tp = tr = ti = 0
+        for lane in sorted(lanes):
+            v = lanes[lane]
+            tp += v['published']; tr += v['ready']; ti += v['in_flight']
+            lines.append(f'| {lane} | {v["published"]} | {v["ready"]} | {v["in_flight"]} |')
+        lines.append(f'| **All lanes** | **{tp}** | **{tr}** | **{ti}** |')
+        lines.append('')
+
     lines.append('## Principles by forest')
     lines.append('')
     lines.append('| Forest | Recorded done | Total | Done % |')
