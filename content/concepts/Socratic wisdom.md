@@ -11,7 +11,7 @@ Socratic wisdom is the wisdom Plato's Apology puts in Socrates' mouth after the 
 
 > "He, O men, is the wisest, who, like Socrates, knows that his wisdom is in truth worth nothing." (Plato, [The Apology of Socrates, Benjamin Jowett translation](https://www.gutenberg.org/ebooks/1656))
 
-Socrates explains that he goes about testing this claim against the reputed wise — politicians, poets, craftsmen — finding each wise in his craft but believing himself wise beyond it. The awareness of one's own ignorance, on this account, is the human wisdom the oracle affirmed, set against the wisdom that belongs to God alone.
+Socrates interprets the oracle's answer as showing the limits of human wisdom: in this passage, "God only is wise", while human wisdom is worth little or nothing ([Plato, Apology, same text](https://www.gutenberg.org/ebooks/1656)). The awareness of one's own ignorance, on this account, is the human wisdom the oracle affirmed.
 
 ### In the compendium
 
