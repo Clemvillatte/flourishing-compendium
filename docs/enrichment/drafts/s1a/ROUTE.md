@@ -78,3 +78,10 @@
   section added, the unsupported 'at about 20' removed, Principles converted to a justified list (same
   links: A106/A111/A039, resonates D054/S130 — no wiring changes). story_check published-context passed
   on the prepared body before revert; build ok. Supervisor: apply as-is or adapt.
+
+- 2026-10-21 ~13:1xZ, storyteller-pcx-7f3a2b1d: ROUTE (rung-4 upgrade, ST095): same pattern as s1a-028 —
+  prepared replacement body in drafts/s1a/s1a-029-upgrade-ST095.md: verbatim quotes from the opened
+  dipama.com teachings page, the opened Tricycle interview (Engler, Spring 2004) and the fetched
+  Wikipedia wikitext; Sources section added; wiring unchanged (B166/B168/B097 + resonates D077/PP047).
+  FLAG: the current page's 'anger could be watched while stirring rice' line is not in the opened
+  carriers; the prepared body drops it — restore only with a source. Supervisor: apply as-is or adapt.
