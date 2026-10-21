@@ -23,6 +23,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST337 — Su Shi Walks Through the Rain]]
     - [[ST358 — Tao Yuanming Walks Home After Eighty Days]]
     - [[ST382 — Thirty Years of Timekeepers]]
+    - [[ST388 — The Bones Go Back to the River]]
   - [[ST-S01.02 — I.2 Desire, Contentment, and the Economy of Want]]
     - [[ST009 — The Gourd Too Large to Use]]
     - [[ST010 — The Frog in the Well]]

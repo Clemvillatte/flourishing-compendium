@@ -29,7 +29,7 @@ A plan can leave every available hour committed to the next task. Ask what you w
 
 ## Stories
 - [[ST358 — Tao Yuanming Walks Home After Eighty Days|358. Tao Yuanming Walks Home After Eighty Days]]
-
+- [[ST388 — The Bones Go Back to the River|388. The Bones Go Back to the River]]
 ## Psychology parallels
 
 - **[[Effort-recovery cycles|Effort-recovery cycles]]**, well-being depends on oscillation between strain and recovery, not continuous output (Sonnentag and Fritz, 2007)
