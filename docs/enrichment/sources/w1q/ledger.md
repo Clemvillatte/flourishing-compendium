@@ -159,7 +159,7 @@ damage, w1ab left to its live holder.
 - All quotes verbatim from fetched text; Related-concept targets resolved to Resilience, Burnout, Mindfulness (original picks Stress/Cortisol/Allostasis missing).
 
 ## The Great Death
-- Carrier opened: Michel Mohr, chapter on Hakuin's curriculum (terebess.hu/zen/Hakuin.pdf) — two verbatim passages confirmed in fetched text (daishi 大死 definition; return-to-life requirement). Concept-existence check passed: "great death" (J. daishi) is a documented Hakuin curriculum term.
+- Carrier opened: chapter on Hakuin's curriculum (terebess.hu/zen/Hakuin.pdf) — two verbatim passages confirmed in fetched text (daishi 大死 definition; return-to-life requirement). Concept-existence check passed: "great death" (J. daishi) is a documented Hakuin curriculum term. CORRECTION (milestone QC): the fetched text does not state the chapter's author; the earlier "Michel Mohr" attribution was an unverified assumption and has been removed from the page (70d0d596).
 - Quotes verbatim from fetched text. Not a named theory in the Western sense — treated as a concept with origin (Hakuin Ekaku 1686-1769), core claims, how-it-explains and everyday-life sections.
 - Related-concept targets: original picks (Satori kenshō, Memento mori — philosophic death awareness) missing → resolved to The commitment of the knight of faith, Memento mori, Resilience.
 
