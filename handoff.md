@@ -1,27 +1,27 @@
-- WORKER CHECKPOINT w1i (2026-10-21 ~08:4xZ, worker-w1i-3a9d2f7e, MID-SESSION CHECKPOINT
-  — reporting only, baton HELD, work continues while the session lives): took the released
-  band at 45/70. 15 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
-  true session baseline 9d73e974, all quotes verbatim from opened carriers: PMC1436009
-  editorial, Soto et al 2011 efetch, Crowell-Beauchaine-Linehan 2009 PMC, Iverach 2014
-  efetch, Walden Gutenberg #205 raw, Massie JDD + Wikipedia, Pohlmeyer-Desmet 2017
-  author PDF + Aristotle Ellis #6762, IEP Deleuze, OSB Rule (Doyle), Leon et al 2014
-  PMC, Wikipedia EP, Schnipke-MacKay 2023 PMC, Kahneman-Klein 2009 efetch + Wikipedia
-  RPD, Dai et al 2015 efetch, Keltner-Gross 1999 journal abstract). FOUR advisor QC
-  rounds (item-1 two rounds; items-1-5 and items-6-10 and items-11-15 milestones) — all
-  fail->repair->applied; see docs/enrichment/sources/w1i/ledger.md for per-item ledgers
-  and the QC round records. CATCHES this session: Gutenberg #6762 is the ELLIS Politics
-  (not Jowett); the Pohlmeyer-Desmet 2017 PDF is a Routledge handbook chapter (not a
-  journal article). FLAGS for the supervisor: (1) 'System justification theory' sits in
-  the w1i done list but is NOT in the w1i manifest (predecessor cross-band error; state
-  reconciliation requested — true bookkeeping: 59 in-manifest recorded-done entries (including the unresolved Discipline of rest hold), 11 manifest items not recorded done, one extraneous predecessor entry — state counts, not certification that all 59 meet the bar); (2) 'Discipline of rest' flagged Category
-  C in concept-namespace-audit.md (label not source-defined; body quote-grounded; kept
-  pending disposition); (3) the optional-gloss simplification across this session's
-  pages is open for the next pass; (4) RESOLVED this session: Evolutionary Psychology re-grounded on the Cosmides-Tooby primer PDF itself (current UCSB wp-content location, opened and quoted; the old HTML page robot-blocks).
-  EXACT NEXT ACTION: `python3 scripts/enrich_state.py w1i start "Gentleness as virtue"`
-  (next manifest item). Remaining manifest order: Gentleness as virtue, Heavy media
-  multitasking, Identity development, Inquiry, Interdependent self-construal, Language
-  games, Monastic hours, Moral development research, Moral emotions, Naming the
-  passions, Parasocial contact hypothesis (11 items).
+- WORKER CHECKPOINT w1i (2026-10-21 ~08:53Z, worker-w1i-3a9d2f7e, T+60 REPORT DUE 09:06:05Z
+  — reporting checkpoint; baton HELD, work continues while the session lives): took the released
+  band at 45/70. 24 CONCEPTS ENRICHED THIS SESSION (fast-track, all validator-ok vs the
+  true session baseline 9d73e974, all quotes verbatim from opened carriers; per-item
+  ledgers + QC round records in docs/enrichment/sources/w1i/ledger.md). SIX advisor QC
+  rounds (item-1 x2; items-1-5; items-6-10; items-11-15; items-16-20 verdict + repairs
+  applied; final-corrections round) — the items-16-20 verdict is recorded PRECISELY:
+  item 17 scoped PASS; items 16/18/19/20 repaired after FAIL verdicts; the repairs are
+  applied and pushed but NOT yet re-verified by the advisor (deadline reached); treat the
+  items-16-20 milestone as PENDING VERIFICATION, not passed. CATCHES this session:
+  Gutenberg #6762 is the ELLIS Politics (not Jowett); the Pohlmeyer-Desmet 2017 PDF is a
+  Routledge handbook chapter (pp. 469-486, not a journal article); Gutenberg #8438 NE is
+  the CHASE translation (edition's own header verified); the Branje 2021 developmental-task
+  sentence is the MAIN-TEXT opening, not the abstract. FLAGS for the supervisor:
+  (1) 'System justification theory' sits in the w1i done list but is NOT in the w1i
+  manifest (predecessor cross-band error; state reconciliation requested — true count
+  63/70 in-manifest recorded-done entries, 7 manifest items not recorded done, one
+  extraneous predecessor entry — state counts, not certification that all meet the bar);
+  (2) 'Discipline of rest' flagged Category C in concept-namespace-audit.md (label not
+  source-defined; body quote-grounded; kept pending disposition); (3) OPEN QC debt: the
+  optional-gloss simplification across this session's pages; final advisor verification
+  of the items-11-15 and items-16-20 repairs. EXACT NEXT ACTION: `python3
+  scripts/enrich_state.py w1i start "Moral emotions"`. Remaining manifest order: Moral
+  emotions, Naming the passions, Parasocial contact hypothesis (3 items).
 
 # Handoff (start here)
 - WORKER CHECKPOINT (2026-10-21 ~08:28Z, worker-p1zzg-8c31f0a7, T+42 — w1m
