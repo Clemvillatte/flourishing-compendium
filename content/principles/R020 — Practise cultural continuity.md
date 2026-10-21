@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 282** — Practise cultural continuity
 
-Pass on your cultural knowledge, stories, and practices to the next generation. Cultural continuity is not nostalgia; it is a protective factor for wellbeing. Teach your children their language, their stories, and their ceremonies.
+Gee and colleagues define connection to culture as "Aboriginal and Torres Strait Islander peoples' capacity and opportunity to sustain and (re) create a healthy, strong relationship to their Aboriginal or Torres Strait Islander heritage", including "all of the associated systems of knowledge, law and practices that comprise this heritage" (Gee et al., 2014, p. 61, Working Together, ch. 4, [open PDF](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)).
 
 (Aboriginal SEWB framework; Dudgeon et al., 2014, Working Together.)
 
-**Plain words** Pass it on: the language, the stories, the ceremonies — teach them to the next generation deliberately. Cultural continuity is a protective factor, not nostalgia. What only you know dies with you; what you teach compounds.
+### What the chapter says
 
-*For example:* The grandfather who records himself telling the old stories properly — voices, names, mistakes and all — because "the version in my accent is the one that survives."
+The chapter says that "through ceremony and everyday cultural praxis" children, women and men "learn about their culture's systems of moral and ethical practices" (p. 60). It also states that when connections to these domains are disrupted, people "are likely to experience poorer SEWB", and "restoring or strengthening connections to these domains will be associated with increased SEWB" (p. 58). The authors add that the cultural loss from colonisation has been "profound" for some families, and that many Stolen Generations members and descendants feel "a deep grief and a longing to reconnect" (p. 61).
+
+This is an argument from the framework and from practice. The chapter does not report a test of language teaching or ceremony as a protective factor, so this page does not make that claim.
+
+**Plain words**
+Culture is passed on through doing it together. Where it has been interrupted, wellbeing is affected, and reconnecting is part of healing. It is not a hobby.
+
+**For example**
+Ask an Elder or a language centre in your own community what they would like recorded or taught, and offer to help on their terms. Ask what is for sharing and what is not.
+
+## Sources
+
+- [Gee, Dudgeon, Schultz, Hart and Kelly 2014, ch. 4, Working Together (2nd ed.), pp. 55-68](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf)
+
 ## Psychology parallels
 
 - **[[Intergenerational transmission|Intergenerational transmission]]** (Fivush et al., 2011)

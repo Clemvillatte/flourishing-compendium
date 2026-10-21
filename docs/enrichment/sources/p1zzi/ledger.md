@@ -31,3 +31,7 @@
 - Not opened: Mar & Oatley 2008 (locator cited it; mechanism "simulation" attributed to them in seed). Dropped locator. Seed claims on "theatre/film" not sourced; page limited to fiction reading.
 ## PP074 — sleep
 - Opened: Krause et al. 2017 abstract (PMID 28515433). Not opened: Walker 2017 (Why We Sleep) — locator cited; the book has contested claims, not used. Seed claims on immune function and "no practice compensates" removed as unsourced. Page is thin: supervisor may want a sleep-duration/health source (e.g. consensus statement, Watson et al. 2015).
+## R016 — family and kinship; R020 — cultural continuity
+- Opened: Gee, Dudgeon, Schultz, Hart & Kelly 2014, ch. 4 of Working Together 2nd ed. (open PDF, Telethon Kids). Quotes pp. 58-61 verbatim via fetch extraction; page numbers as returned by the extraction — please spot-check against the PDF.
+- Locator line in file attributes to "Dudgeon et al., 2014" (book editors); the chapter is Gee et al. 2014 — left locator, cited chapter correctly in body.
+- Seed claims removed: "totems" (not in chapter), "cultural continuity is a protective factor" (chapter does not test it; the phrase is not in its main text), "Teach your children their language" (not stated). Page notes kinship is local and carries burdens (p. 60). Invented anecdotes (auntie/grandfather) replaced with checkable asks to Elders. Cultural-sensitivity: pages direct readers to local Elders; supervisor may wish to confirm this stance.
