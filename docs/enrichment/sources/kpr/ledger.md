@@ -44,3 +44,8 @@
 - K116 Urge surfing: Bowen & Marlatt 2009 (123 smokers, 11-min instruction, fewer cigarettes over 7 days) + adolescent RCT via PMC13034111 (-26% vs -11%, d=0.64) with active-control caveat. Video: Naomi Goodlet td4d_mV29Wo (oembed-verified). Original Facets section preserved.
 - K163 Compassion-focused breathing: PMC7917055 RCT (96 participants, SRB and 6-bpm both > nature video on SDNN during practice) + PMC7176659 CMT study (40 participants, HRV higher during compassion practice than rest). Video: The Zen Social Worker y4X36wp6QJs (oembed-verified). Author names omitted where not verified in opened sources.
 - All validated ok; build ok; saved and pushed.
+
+## K164 / K245 (2026-10-21)
+- K164 Gratitude practice: 2025 preregistered meta-analysis (145 papers, 163 samples, 24,804 participants, 28 countries; well-being g = 0.19 [0.15, 0.22]) via PMC12280877 search snippet. Video oembed-verified: mzEbsYOdxyw 'Guided Gratitude Meditation 10 Minutes' (Barbara Heffernan). Related kernels: K110, K212, K280.
+- K245 Expressive writing: Frattaroli 2006 meta-analysis (PubMed 17073523; 146 randomised studies; average r = 0.075). Initial citation errors caught and fixed: wrong PMID (16836737 = unrelated tissue-engineering paper) and unverified specific moderator r values removed. Video oembed-verified: XsHIV9PxAV4 'The expressive writing method' (James Pennebaker). Duplicate legacy Operationalises block removed; all original links preserved; Facets section and 'Practises the concept' line kept.
+- Both validated ok; build ok; saved and pushed.
