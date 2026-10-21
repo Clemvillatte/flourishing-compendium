@@ -33,7 +33,7 @@ The opened original also rendered the belief in a second form: "Women who experi
 
 ## Sources
 
-- [Clance, P. R. and Imes, S. A. 1978, "The Impostor Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention," Psychotherapy: Theory, Research and Practice 15(3): 241-247, author's own hosted PDF](https://paulineroseclance.com/pdf/ip_high_achieving_women.pdf): supports all three quotations
+- [Clance, P. R. and Imes, S. A. 1978, "The Impostor Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention," Psychotherapy: Theory, Research and Practice 15(3): 241-247, author's own hosted PDF](https://paulineroseclance.com/pdf/ip_high_achieving_women.pdf): supports all four quotations
 
 ## Cited in psychology parallels
 

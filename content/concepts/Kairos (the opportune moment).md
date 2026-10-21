@@ -15,7 +15,7 @@ The Ethics keeps the thought by building the moment's rightness into its definit
 
 > "…you must have a proper end in view, pursue it in a right manner and right time." (Aristotle, Nicomachean Ethics, Book VI ch. IX in this translation, [Project Gutenberg #8438](https://www.gutenberg.org/ebooks/8438))
 
-Courage is defined the same way — the brave man withstands and fears "in respect of right objects, from a right motive, in right manner, and at right times" (Book III ch. X in this translation, same text). The same words spoken earlier or later are a different act, which is why the Ethics can call the timeliness a mark of the good rather than a stylistic extra. Librality is defined with the same clause: giving to the right people, the right amounts, at the right time. The timeliness is not separate from the act's being good: the same words said earlier or later are a different act with a different effect.
+Courage is defined the same way — the brave man withstands and fears "in respect of right objects, from a right motive, in right manner, and at right times" (Book III ch. X in this translation, same text). Liberality is defined with the same clause: giving to the right people, the right amounts, at the right time. The timeliness is not separate from the act's being good: the same words said earlier or later are a different act with a different effect.
 
 **Plain words** The same action is right once and wrong twice. Timing is not the finishing touch on a good decision; the good-decision list itself — right person, right proportion, right time — has timing as one of its items.
 
