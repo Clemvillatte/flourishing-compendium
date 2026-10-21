@@ -82,6 +82,7 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked all quotations. Added an explicit distinction between diagnostic duration and when someone may seek support.
 - The prior imagined crash example claimed an intrusion/avoidance pattern its few details did not establish. The revised example makes that limit explicit and invites assessment without diagnosing.
 - No new treatment instructions or crisis-contact details introduced. Protected metadata and inherited parallels unchanged.
+- Independent psychology milestone: body medication wording understated the APA account. Corrected it to present psychotherapy and medication as evidence-based treatment options. Inherited Practice's categorical `Ordinary regulation skills are not sufficient` is left unchanged and flagged for supervisor review, not certified.
 
 ## AF080
 
@@ -130,3 +131,15 @@ Worker: worker-p1zd-2b2e5eca. Opened sources and scoped checks in this session; 
 - Checked all retained quotations. Added the broader 20-RCT review's small positive pooled result rather than presenting the selected null reviews as the entire evidence base.
 - Removed first-person production-process voice and an unsupported ranking of sleep evidence against the other outcomes. Specified that these sources do not establish a repeated weekly sabbath regimen.
 - Plain words and imagined example are reflection, not a causal self-experiment or a guaranteed treatment. Protected metadata and inherited parallels unchanged.
+
+## Supervisor decisions from the independent psychology milestone
+
+These are inherited title/original-principle or Practice statements, outside this body-enrichment pass. They were not silently rewritten or certified.
+
+- **AF076:** Original title says suppression reduces intimacy; inherited Practice says to err toward expression and calls the intimacy cost high. The body now preserves the stranger/couple/design/cultural limits. Supervisor should decide how to qualify the original wording and avoid prescribing disclosure in unsafe circumstances ([checked studies](https://pubmed.ncbi.nlm.nih.gov/22389432/)).
+- **AF079:** Inherited Practice says ordinary regulation skills are not sufficient. The [APA account](https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd) supports assessment and evidence-based options, not that categorical claim for every reader.
+- **AF080:** Inherited Practice requires alternating depression, contradicting the bipolar I scope correctly explained in the revised body ([APA](https://www.psychiatry.org/patients-families/bipolar-disorders/what-are-bipolar-disorders), [NIMH](https://www.nimh.nih.gov/health/publications/bipolar-disorder)).
+- **AT002:** Inherited Practice asks readers to diagnose a network bottleneck and says each requires different remedies; the [ANT abstract](https://pubmed.ncbi.nlm.nih.gov/11970796/) does not establish that individual diagnostic/remedy scheme.
+- **AT021:** Inherited Practice calls gratitude an attentional exercise; the body now distinguishes the [writing study](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) from tested gaze training and an established attention mechanism.
+
+Independent psychology advisor passes AT015 and the final narrowed A118 body/source account. The five items above remain scoped supervisor flags even though their repaired bodies have been validated.

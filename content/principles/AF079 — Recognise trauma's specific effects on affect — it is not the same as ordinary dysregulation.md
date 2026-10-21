@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 The American Psychiatric Association describes PTSD as a condition that "may occur in people who have experienced or witnessed a traumatic event or series of traumatic events", while noting that "most individuals who experience traumas do not go on to develop PTSD". Its symptoms "fall into four categories": intrusion (unwanted memories, nightmares, flashbacks), avoidance of reminders, changes in cognition and mood, and changes in arousal and reactivity such as irritability, being "easily startled" and trouble sleeping ([APA, What is PTSD?](https://www.psychiatry.org/patients-families/ptsd/what-is-ptsd)).
 
-Diagnosis needs symptoms lasting more than a month that cause "significant distress or problems in the individual's daily functioning". Treatment is also specific: the APA names cognitive processing therapy, prolonged exposure and EMDR, with medication as an aid.
+Diagnosis needs symptoms lasting more than a month that cause "significant distress or problems in the individual's daily functioning". The APA describes both psychotherapy and medication as effective, evidence-based treatments. Its psychotherapy examples include cognitive processing therapy, prolonged exposure and EMDR.
 
 > One category of psychotherapy, cognitive behavior therapies (CBT), is very effective.
 >
