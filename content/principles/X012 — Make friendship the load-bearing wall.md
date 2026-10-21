@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 12** — Make friendship the load-bearing wall
 
-Of all the things wisdom provides for a happy life, the Epicureans held friendship is the greatest; and their reason is distinct from every other volume's treatment of relationship: friendship is the single reliable security, before wealth or status, because it is mutual and because its practice is itself the pleasure. The Garden was organized around this: a community of friends as the unit of good living. Practically, treat your friendships as infrastructure (scheduled, maintained, invested in) rather than as leisure.
+Epicurus treats friendship as a source of security. Principal Doctrine 28, as translated on [Epicurean Friends](https://www.epicureanfriends.com/wcf/faq-question/36-what-did-epicurus-say-about-the-value-of-friendship/), says that "in the space of life allotted to us the protection of friendship is the most sure and trustworthy". Vatican Saying 34 locates the benefit in confidence; Saint-Andre renders it "The use of friends is not that they are useful, but that we can trust in their usefulness" ([Saint-Andre translation](https://monadnock.net/epicurus/vatican-sayings.html)). Rosati quotes it as "It is not our friends' help that we need so much as the confidence of their help", and reads it to mean that the good of friendship rests on knowing what help a friend would give, not only on help actually given ([Rosati, PhilArchive](https://philarchive.org/archive/ROSSTE-2)).
+
+Vatican Saying 23 says friendship is desirable in itself though it begins in benefit; Saint-Andre renders it "Every friendship is an excellence in itself, even though it begins in mutual advantage" and notes that the Greek word means advantage or aid ([Saint-Andre translation](https://monadnock.net/epicurus/vatican-sayings.html)). Scholars dispute what this means. O'Keefe argues that it may come from later Epicureans and does not show altruism ([O'Keefe, PhilArchive](https://philarchive.org/archive/OKEIEF)).
 
 (Principal Doctrines 27-28; Vatican Sayings on friendship.)
 
-**Plain words** Of everything wisdom supplies, friendship is the load-bearing wall: the one security that's mutual, and whose use is itself the pleasure. Treat it like infrastructure — scheduled, maintained, invested in — not like leisure that happens if there's time.
+### Scope
 
-*For example:* The friend who's moved away but gets a standing Sunday call for fifteen years, because the call is booked like the mortgage payment — and held just as firmly.
+The sources support friendship as security and as chosen for itself, with disagreement about the second point. I could not open a full text of Principal Doctrine 27, so I do not quote it. "Load-bearing wall" and the advice to schedule and invest in friendships are the compendium's, not Epicurus's. I did not open Holt-Lunstad 2010.
+
+**Plain words**
+For Epicurus, a friend is mainly security: you can count on them. He also says friendship is worth having for itself.
+
+**For example**
+Name one friend you could ask for help tonight. If you cannot, that is the friendship to tend this week.
+
+## Sources
+
+- [Epicurean Friends: What did Epicurus say about the value of friendship?](https://www.epicureanfriends.com/wcf/faq-question/36-what-did-epicurus-say-about-the-value-of-friendship/)
+- [Saint-Andre: Vatican Sayings](https://monadnock.net/epicurus/vatican-sayings.html)
+- [Rosati: Squaring the Epicurean Circle (PhilArchive)](https://philarchive.org/archive/ROSSTE-2)
+- [O'Keefe: Is Epicurean Friendship Altruistic? (PhilArchive)](https://philarchive.org/archive/OKEIEF)
+
 ## Psychology parallels
 
 - **Social support's specific protective effects** (Holt-Lunstad et al., 2010; the friendship-intervention literatures, as framework)
