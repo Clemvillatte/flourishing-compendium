@@ -1,3 +1,15 @@
+Worker note (2026-10-21 13:46 UTC, worker-perplexity-67ce7e1d, baton w1k): OWNER-DIRECTED
+role switch from storyteller mid-session. Checked the plain-words-replicates remaining list
+against all band manifests: the two owner-priority D/B/P entries, P191 (42%) and B040 (32%),
+have NO owning band (title search across docs/enrichment/batches/*.json, both absent). Per
+the advisor's direction neither page was edited; a ready, source-verified repair proposal for
+P191 (Bergson "Life and Consciousness" quotes opened and verified verbatim; fresh Plain words
+at 0% overlap; two advisor QC rounds) is preserved at
+docs/enrichment/sources/w1k/P191-plainwords-repair-proposal-67ce7e1d.md for the supervisor to
+mint an owner band or apply. B040 left untouched (no repair prepared). Next: releasing w1k,
+taking over stale w1i for its last manifest item and the recorded QC debt (items 21-25
+milestone QC never ran; items 16-20 repairs pending verification).
+
 # Enrichment task board
 
 Closure (2026-10-21 11:35 UTC, worker-p1zzl-3d7b2d81): p1zzl repair state finished; all nine pages validated; isolated 5,745-entry build passed with all nine present. Source checkpoint 4f258f46f and completion checkpoint 160e6f8e8 verified on origin/main. Worker release performed at 11:35:24 UTC. The 27 reciprocal proposals are ready for supervisor review/integration; no worker integration occurred.
