@@ -130,6 +130,25 @@ Target: <= 5 minutes per simple item, <= 10 for research-heavy ones.
    NOT approved (owner, 2026-10-20): deferring the mention/saturation link hunt.
    Step 6 (SATURATE) and cross-link checks remain mandatory as written.
 
+## Workability of outputs (owner directive, 2026-10-21)
+
+Outputs must be WORKABLE: a reader of the page — especially a Practice kernel — should
+come away with a clear sense of how to implement it in their life, whatever situation
+they are in. Two scaffolds the owner endorses for making a process workable:
+
+- **PBT (variation–selection–retention):** state the practice as generate variations →
+  notice what worked and what did not (selection) → keep and repeat what works
+  (retention). A kernel that names all three stages is implementable; one that only
+  names the goal is not.
+- **The six dimensions:** a workable practice says which dimension it moves — Affect
+  (what you feel), Cognition (what you think), Attention (what you notice), Self
+  (who you take yourself to be), Motivation (what you want), and Overt behaviour
+  (what you actually do). One dimension is enough for a small kernel; name it.
+
+Apply this on new items and whenever a Practice kernel or For-example line is rewritten
+or repaired — no blanket retrofit of the existing corpus is required (owner: the work
+done so far stands; this governs what we write from here).
+
 ## Band structure
 
 Principles bands are minted on the TASKBOARD from `docs/enrichment/queue-principles.json`
