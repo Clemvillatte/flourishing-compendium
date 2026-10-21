@@ -280,3 +280,7 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 ### w1j "Integrity as consistency" — quote fidelity PASS (verification pass)
 - Both Emerson blockquotes EXACT vs the opened Emerson Central text of Self-Reliance
   (including the acrostic stanza's semicolon-dash punctuation).
+
+### w1j "Identity" — quote fidelity PASS (verification pass)
+- Olson SEP blockquote EXACT vs the opened Stanford Encyclopedia entry (Personal Identity,
+  section 1).
