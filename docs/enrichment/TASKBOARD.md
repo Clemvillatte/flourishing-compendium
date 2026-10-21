@@ -2114,3 +2114,8 @@ Verification pass 82 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 w
 - Y070 (Yoga Sūtra on practice confirmed by long cultivation, Woods 1914) and Y072 (Yoga Sūtra 2.29, the eight aids, Woods 1914): both quotes match the already-downloaded theessentialway.org reprinted text verbatim.
 - Y071, Y073: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 308 page-checks across 77 verification passes (pass 82 re-verifies and records 2 already-counted Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 83 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 with no displayed quotes.
+- Y075 (Yoga Sūtra on contemplation as concentration, Woods 1914) and Y076 (Yoga Sūtra on the three-in-one constraint, Woods 1914): both quotes match the already-downloaded theessentialway.org reprinted text verbatim.
+- Y074, Y077: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 310 page-checks across 77 verification passes (pass 83 re-verifies and records 2 already-counted Y-pages, adding no new page-checks). Delivering the report now.
