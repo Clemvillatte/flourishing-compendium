@@ -1898,3 +1898,10 @@ Verification pass 46 (worker-glmc4a — final): 4 principle pages — 3 wording 
 - P126: both James Will to Believe p. 202 quotes match the freshly downloaded Gutenberg #26659 text verbatim.
 - P119 (Csikszentmihalyi Flow p. 152 "resembles a game"): the passage was NOT FOUND in the extracted flow.txt (the PDF is a scanned text with partial OCR — 69KB extracted from a 505KB PDF); not verifiable from this extraction; flagged for re-verification. Not a defect.
 FINAL SESSION TOTAL per the pass-record chain: 205 page-checks across 46 passes. Session ends; report follows.
+
+Verification pass 47 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 not reached.
+- P135: both James Talks to Teachers quotes ("Hands off..." and "The first thing to learn in intercourse with others...") match the freshly downloaded Gutenberg #16287 text verbatim.
+- P136: both James "On a Certain Blindness" quotes (the spectator's-judgment passage and the clearing/pæan passage) match verbatim.
+- P137: the Rorty Contingency, Irony, and Solidarity introduction solidarity passage matches the freshly opened UNLV pragmatism-archive PDF verbatim (curl was anti-robot-blocked; the fetch tool opened it).
+- P139 (Varela, Thompson & Rosch Embodied Mind "embodied" definition): not verified this session (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 209 page-checks across 47 passes. Session ends; report follows.
