@@ -69,3 +69,9 @@ st-andrews (MacTutor) longitude page re-opened: the Harrison watch quote and the
 five-seconds sentence verified verbatim. NatGeo salmon article re-opened: the proper-respect
 sentence verified verbatim. ALL SEVEN ready s1d drafts are now quote-verified against opened
 carriers this session (one repair total: s1d-008 trailing comma). Ready for registration.
+
+## s1d-004 last carriers + correction of my own flag (2026-10-21 14:03 UTC)
+NLM 1957 Dalles Dam sentence and ictnews "first salmon feast still happens" sentence verified
+verbatim. The "powwow" sentence I flagged as missing from ictnews belongs to the NatGeo block
+and is verified verbatim against the NatGeo article (my extraction-context confusion, not a
+draft defect). s1d-004 fully verified; no repairs needed.
