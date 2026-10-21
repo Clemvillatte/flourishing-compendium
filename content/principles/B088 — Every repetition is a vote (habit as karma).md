@@ -38,6 +38,9 @@ The nightly wind-down scroll, read in the verse's terms: a thousand drops into o
 
 - [[K125 — The empty boat reflection|K125 The empty boat reflection]]
 
+## Stories
+- [[ST352 — The Cowherd After the Harvest|352. The Cowherd After the Harvest]]
+
 ## Psychology parallels
 
 - **[[Habit formation|Habit formation]]**, automaticity grows with repetition (Lally et al., 2010; Wood and Neal, 2007)
