@@ -124,6 +124,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST085 — The Quarrel at Kosambī]]
     - [[ST086 — The Bodhisattva and the Tigress]]
     - [[ST087 — Schindler's List]]
+    - [[ST356 — The Shade Tree After the Great Death]]
   - [[ST-S02.08 — II.8 Daily Life — The Integration]]
     - [[ST088 — Paṭācārā Washes Her Feet]]
     - [[ST089 — Layman Pang Sinks the Fortune]]

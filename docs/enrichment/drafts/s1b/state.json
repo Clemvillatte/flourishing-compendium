@@ -168,6 +168,11 @@
      "t": "2026-10-21T12:15:45+00:00",
      "to": "ready",
      "note": "advisor QC rounds 1-2 applied; final-file quotation check passed; story_check 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:18:49+00:00",
+     "to": "ready",
+     "note": "supervisor verification: quotes re-verified verbatim against opened cave.pdf this session (all 4 quotes found verbatim; shade-tree passage confirmed verbatim); state file drift only, draft content unchanged from advisor-approved commit 26e677ec1"
     }
    ]
   },
@@ -187,5 +192,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:18:08+00:00"
+ "updated": "2026-10-21T12:18:49+00:00"
 }

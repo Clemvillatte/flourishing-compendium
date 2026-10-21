@@ -23,6 +23,9 @@ The same discussion explains the warning: "returning eko, going back into the wo
 
 *For example:* As an application of the shape: after an experience of things falling away, notice the first ordinary demand that follows, a message to answer, an errand to run. Taking it up is the return.
 
+## Stories
+- [[ST356 — The Shade Tree After the Great Death|356. The Shade Tree After the Great Death]]
+
 ## Psychology parallels
 
 - **[[Ego dissolution|Ego dissolution]]**, temporary loss of self-boundary correlates with lasting well-being gains (Letheby and Griffiths, 2017)
