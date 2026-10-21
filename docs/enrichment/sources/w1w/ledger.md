@@ -559,3 +559,15 @@
   theoretical life, The contemplative life, Right concentration
   (all confirmed existing).
 - Taper item. Normal validator: ok. State recorded (done count 40).
+
+## Item 43: Techne (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Aristotle, Nicomachean Ethics VI (one line). Seed line kept.
+- Carrier opened: Aristotle, NE Book VI, Ross translation (Internet
+  Classics Archive). Verified verbatim: the techne definition
+  ("architecture is an art..." passage) and the phronesis contrast
+  sentence ("true and reasoned state of capacity to act with regard to
+  the things that are good or bad for man").
+- Closing craft-vs-science paragraph marked as the compendium's use.
+  Related links confirmed existing.
+- Taper item. Normal validator: ok. State recorded (done count 41).
