@@ -44,3 +44,15 @@
 ## BE005 — Behaviour is specific
 - Opened: Gollwitzer & Sheeran 2006 abstract (Konstanz KOPS record; also WorldCat/ScienceDirect snippets agree). Quotes verified incl. d = .65, 94 independent tests, "spells out the when, where, and how of goal striving in advance".
 - Removed unopened: Michie et al. 2011, Martell et al. 2001 claims (kept as bare reference in parallels bullet). Page states meta-analysis tests if-then plans, not specificity of definitions in general. Example imagined, labelled.
+
+## BE010 — Behaviour is social
+- Opened (PubMed abstracts via search+fetch): Wing & Jeffery 1999 (N=166; 76%/24% vs 95%/66%); Schultz et al. 2007 (boomerang; injunctive message eliminated it); Papakonstantinou et al. 2025 Nat Hum Behav (89 studies, d=0.1, vanished after publication-bias control). All quotes verbatim.
+- Dropped unopened: Cialdini 1990/2001 claim text (kept 1990 as bare ref), Hogan 2015. Seed "behaviour is contagious... you absorbed it" generalisation removed; hiking-boots anecdote removed; example imagined.
+
+## BE011 — Behaviour is measurable
+- Opened: Harkin et al. 2016 Psych Bull (PubMed abstract, 138 studies N=19,951, d+=0.40, moderators), APA press release. Quotes verbatim.
+- Dropped unopened: Michie 2011, Gardner 2015, Kluger & DeNisi 1996, Hattie & Timperley 2007 (the "feedback improves performance" bullet was removed because Kluger & DeNisi is known to report mixed effects and was not opened). "Food diary halves snacking" removed as unsourced. Self-monitoring concept link retained.
+
+## BE034 — Approach behaviours for shame
+- Opened: Rizvi & Linehan 2005 abstract (ScienceDirect author listing); de Hooge et al. 2018 Cogn Emot 32(8):1671-1677 (PubMed; authors/journal verified by fetch).
+- Seed claim "disclosure reduces shame (Brown 2010)" dropped (unopened, popular source). Linehan 1993 kept as bare ref. Added qualification: shame -> withdrawal is the typical portrayal, but de Hooge et al. found approach preference. Pilot limits stated (n=5, BPD, single-subject).
