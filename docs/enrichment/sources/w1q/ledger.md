@@ -259,3 +259,14 @@ damage, w1ab left to its live holder.
 - Everyday-life wheelchair example labelled illustrative. Front-matter and all
   original wikilinks preserved (incl. the merged duplicate seed line in the Cited-in
   block). Validator ok at every step.
+
+## THE COMMITMENT OF THE KNIGHT OF FAITH — 2026-10-21 ~16:08Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 5: The Great Death + E042/E052/B155 + ST270). Carrier:
+  Project Gutenberg #60333 (Hollander, Selections from the Writings of Kierkegaard,
+  Fear and Trembling included), raw HTML downloaded directly and quotes verified as
+  substrings: the one-more-movement definition; "movement of faith must ever be made
+  by virtue of the absurd"; "he clearly recognizes the impossibility..."; "He has
+  resigned everything absolutely..."; the green-grocer window passage (all in the
+  PRELIMINARY EXPECTORATION section of this edition). All four original wikilinks
+  (E052/E042/B155/ST270) preserved; front-matter untouched. Validator ok (1 warn:
+  2 Related lines, acceptable at fast-track bar). QC-pending for the next milestone.
