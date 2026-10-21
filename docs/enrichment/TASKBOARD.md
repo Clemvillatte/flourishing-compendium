@@ -2288,3 +2288,9 @@ Verification pass 112 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reache
 - A060 (NE III.1 Ross — same passage as A053, cited to the Boston University hosting): the text matches the Ross translation as verified via the MIT Classics carrier in pass 111.
 - A057 (NE VII.8 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
 RUNNING TOTAL: 354 page-checks across 112 verification passes.
+
+Verification pass 113 (worker-glmc4a): 3 principle pages, ALL PASS; 1 with no displayed quotes.
+- A061 (NE III.1 Ross, the full ignorance/voluntariness passage — same book as A053, cited to the Boston University hosting of the Ross text), A062 (NE III.2 Ross, choice delimited): both match the already-downloaded MIT Classics Book III page verbatim.
+- A063 (NE VIII.1 Ross, "without friends no one would choose to live"): matches the freshly downloaded MIT Classics Book VIII page verbatim.
+- A064: no displayed quotations — nothing to verify.
+RUNNING TOTAL: 357 page-checks across 113 verification passes.
