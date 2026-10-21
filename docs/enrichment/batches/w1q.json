@@ -35,7 +35,8 @@
   "Vigilance theory",
   "Trichromatic theory of color vision",
   "Worldmaking",
-  "Transtheoretical model (Prochaska & DiClemente)"
+  "Transtheoretical model (Prochaska & DiClemente)",
+  "Triangular Theory of Love"
  ],
  "in_progress": null,
  "flagged": {
@@ -65,10 +66,11 @@
   "Vigilance theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Oaten & Cheng 2006 study-program abstract opened and quoted verbatim; exercise/financial-monitoring companion studies cited as abstract-read (marked not-opened); broken Cited-in-parallels replicate left as-is per owner note; validated --fast-track",
   "Trichromatic theory of color vision": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Young 1802 and Helmholtz 1911 quotes verified verbatim against opened PMC reviews (Lee 2008 PMC3095437; Zeki 2022 PMC11514330); validated --fast-track",
   "Worldmaking": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Goodman p.6 'starts from worlds already on hand' + five-process summary verified verbatim against opened Nünning & Nünning PDF (libaac.de); primary book itself copyrighted, used via open carrier per rules; validated --fast-track",
-  "Transtheoretical model (Prochaska & DiClemente)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Prochaska/DiClemente/Norcross 1992 American Psychologist quotes verified verbatim from opened UMN PDF mirror; duplicate BE007 link from seed's stray line preserved in Field section; validated --fast-track"
+  "Transtheoretical model (Prochaska & DiClemente)": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Prochaska/DiClemente/Norcross 1992 American Psychologist quotes verified verbatim from opened UMN PDF mirror; duplicate BE007 link from seed's stray line preserved in Field section; validated --fast-track",
+  "Triangular Theory of Love": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): abstract + consummate-love passage verified verbatim from opened Pitzer PDF of Sternberg 1986; eight-kinds catalog summarized in prose from paper text; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:25:17+00:00",
+ "updated": "2026-10-21T16:25:43+00:00",
  "band_done": false
 }
