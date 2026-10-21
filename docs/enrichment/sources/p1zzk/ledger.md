@@ -4,3 +4,5 @@
 - Opened (excerpts): UW Self-Reliance text; Wikipedia project essay (secondary, cited for the interpretation); Kunda 1990 abstract (PubMed). Seed's "commitment to yesterday's positions against today's evidence" is an interpretation; evidence not in Emerson's text. Nyhan not opened. "Meditation" anecdote dropped.
 ## X024 — wake early
 - Opened (excerpts): Kouroo and Digital Thoreau Walden text; Chauhan et al. 2025 abstract. A Collabra synchrony paper (446 participants, no robust synchrony effect) was seen but dropped because its URL trips the banned-word check. Seed corrections: Thoreau decouples morning from the clock; "hour of the gods" not found; cortisol/peak cognition claim not sourced; synchrony evidence is mixed. Notification anecdote dropped.
+## BI059 — yoga nidra
+- Opened (search excerpts): Moszeik 2025 RCT (Wiley), Moszeik 2022 abstract (Springer), 2026 sleep meta-analysis abstract (journal name "Sleep and Breathing" inferred from DOI prefix s11325; not seen on page; verify). Trauma/PTSD, Datta 2017, Pence 2018 not opened. "20 minutes" seed replaced by studied doses (11, 30 min). Doomscroll anecdote dropped.

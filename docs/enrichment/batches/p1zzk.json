@@ -3,11 +3,12 @@
  "done": [
   "X003",
   "X019",
-  "X024"
+  "X024",
+  "BI059"
  ],
- "in_progress": "BI059",
+ "in_progress": "M026",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:30:48+00:00"
+ "updated": "2026-10-21T04:31:01+00:00"
 }
