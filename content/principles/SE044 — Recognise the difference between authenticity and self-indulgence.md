@@ -12,18 +12,18 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 44** — Recognise the difference between authenticity and self-indulgence
 
-Wood and colleagues' Authenticity Scale is useful because it shows how the construct is measured, which settles the distinction:
+Wood and colleagues' Authenticity Scale is a measure of dispositional authenticity. One of its items, reproduced in the linked scale document, reads:
 
-> I live in accordance with my values and beliefs.
+> I live in accordance with my values and beliefs
 
-(Wood et al., 2008, Authenticity Scale, authentic-living item; [scale document](https://cic.edu/wp-content/uploads/2023/08/Authenticity-Scale.pdf))
+(Wood et al., 2008, Authenticity Scale, item 11, reproduced in the linked [scale document](https://cic.edu/wp-content/uploads/2023/08/Authenticity-Scale.pdf))
 
-The other authentic-living items are of the same kind: standing by what you believe in, being true to yourself, living by your values. None of the twelve items reads "I do what I feel like in the moment". The instrument's own items make the principle's point: authenticity is scored against your values and beliefs, not against your impulses.
+The reproduced scoring key assigns item 11 to authentic living. In this measure, authentic living includes consistency with one's values and beliefs.
 
 **Plain words**
-The test the scale suggests: when you claim to be authentic, check which way the claim points. If it points at a value you would defend on an ordinary Tuesday morning, it is authenticity. If it points at an impulse you would not defend in an hour, it is self-indulgence wearing the word.
+Before acting on a strong feeling, identify a value you want the action to express. Consider whether another response would express that value better.
 
-*For example:* Imagine snapping at your partner because you are "not going to pretend", versus saying you need twenty minutes before the conversation because you do not want to say something cruel. The second one costs more in the moment and is the authentic act.
+*For example:* Imagine an argument in which you want to speak honestly without being cruel. You ask for twenty minutes to decide what to say.
 
 ## Sources
 
