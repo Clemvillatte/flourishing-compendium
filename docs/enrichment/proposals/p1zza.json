@@ -1,12 +1,18 @@
 {
  "batch": "p1zza",
- "revision": 6,
+ "revision": 7,
  "reciprocal": [
   {
    "into": "Habit formation",
    "link": "MO042",
    "why": "A principle on displacing an unwanted habit with a new response to the same cue",
    "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042 body grounds substitution in the opened Gardner et al. 2021 Appetite accepted manuscript (manifestation-vs-association distinction p. 8, substitution definition p. 13, apple-dominance mechanism p. 8). Re-created 2026-10-21 by worker-p1zza-7c2a91e4 after the 2f2099569 integration archived applied/p1zza.json without applying this record (it applied only the two inherited rev-3 records); the Azrin reciprocal proposed in rev 5 is WITHDRAWN per advisor round-2 QC (the opened source does not establish equivalence between habit reversal as a synonym and the Azrin technique)."
+  },
+  {
+   "into": "Habit formation",
+   "link": "MO043",
+   "why": "A principle on the role immediate rewards play in sustaining the repetitions that form habits",
+   "notes": "The Habit formation concept page covers context-dependent repetition and timeline but not reward; MO043 body grounds the reward angle in the opened Woolley-Fishbach 2017 abstract (PMID 27899467, persistence findings) and the NPR Life Kit Fogg transcript (emotion and habit wiring). Checked 2026-10-21 by worker-p1zza-7c2a91e4."
   }
  ]
 }
