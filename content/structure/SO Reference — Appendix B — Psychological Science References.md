@@ -115,7 +115,7 @@ Standard citations (no verified hyperlink at time of compilation):
 - Kitayama, S., Park, H., Sevincer, A. T., Karasawa, M., & Uskul, A. K. (2007). A cultural task analysis of implicit independence. Psychological Science, 18(4), 364–369.
 - Kitcher, P. (1990). The division of cognitive labor. Journal of Philosophy, 87(1), 5–22.
 - Koenig, H. G., King, D. E., & Carson, V. B. (2012). Handbook of Religion and Health (2nd ed.). Oxford University Press.
-- Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., & Keltner, D. (2012). Social class, solipsism, and contextualism. JPSP, 102(2), 291–303.
+- Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., & Keltner, D. (2012). Social class, solipsism, and contextualism. Psychological Review, 119(3), 546–572.
 - Lareau, A. (2011). Unequal Childhoods (2nd ed.). University of California Press.
 - Lewis-Fernández, R., & Aggarwal, N. K. (2015). Culture and psychiatric diagnosis. In B. J. Sadock et al. (Eds.), Kaplan & Sadock's Comprehensive Textbook of Psychiatry (10th ed.).
 - Marks, A. K., Ejesi, K., McCullough, M. B., & García Coll, C. (2014). Developmental implications of the immigrant paradox. Human Development, 57(2–3), 73–93.
