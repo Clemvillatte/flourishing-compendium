@@ -78,6 +78,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST403 — Two Friends Sing Beside the Corpse of Sang Hu]]
     - [[ST415 — The Blind Men and the Elephant]]
     - [[ST416 — A Banquet the Seabird Could Not Survive]]
+    - [[ST433 — The Pheasant That Does Not Ask for a Coop]]
   - [[ST-S01.06 — I.6 Relationships, Speech, and Leadership]]
     - [[ST038 — Three Friends and the Creator]]
     - [[ST039 — The Ruler Whose People Say We Did It]]

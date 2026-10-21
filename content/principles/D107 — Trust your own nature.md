@@ -32,7 +32,7 @@ Suppose someone urges you to speak more often in meetings simply because another
 
 ## Stories
 - [[ST351 — The Pheasant That Does Not Ask for a Coop|351. The Pheasant That Does Not Ask for a Coop]]
-
+- [[ST433 — The Pheasant That Does Not Ask for a Coop|433. The Pheasant That Does Not Ask for a Coop]]
 ## Psychology parallels
 
 - **[[Organismic trust|Organismic trust]]**, well-being follows when goals match internalized values (Sheldon and Elliot, 1999)
