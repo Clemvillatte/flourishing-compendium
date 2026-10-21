@@ -11,28 +11,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 > **Kernel K416** — RAIN (Recognize, Allow, Investigate, Nurture)
 
-RAIN is a four-step way of meeting a difficult emotion instead of fighting it. The acronym was first coined by the vipassana teacher Michele McDonald and made widely known by the psychologist and meditation teacher Tara Brach, who describes the practice like this:
+RAIN is a four-step way of meeting a difficult emotion instead of fighting it. The acronym was first coined by Michele McDonald and made widely known by Tara Brach, whose guidebook to the practice is *Radical Compassion*. Her site introduces it as "an easy-to-remember tool for practicing mindfulness and compassion using the following four steps":
 
-> "Simply put, RAIN awakens mindfulness and compassion, applies them to the places where we are stuck, and untangles emotional suffering." — [Tara Brach](https://www.tarabrach.com/rain/)
+> Recognize what is happening; Allow the experience to be there, just as it is; Investigate with interest and care; Nurture with self-compassion. — [Tara Brach](https://www.tarabrach.com/rain/)
 
-The steps, in Brach's current version, are Recognize what is happening; Allow the experience to be there, just as it is; Investigate with interest and care; Nurture with self-compassion. An older rendering of the same acronym ends with non-identification, the sense of having a feeling rather than being it.
+Another rendering, which Brach lists on Mindful.org, gives the fourth step as "Natural awareness, which comes from not identifying with the experience."
 
 ### Protocol
 
-1. Recognize: pause and name, in a quiet mental whisper, whatever is strongest right now. Anger, fear, hurt, judgment, plain overwhelm all count.
-2. Allow: let it be here without fixing, ignoring or feeding it. Allowance is not approval; it is the pause that stops the fight from adding a second layer.
-3. Investigate with care: sense where the feeling lives in the body, often throat, chest or belly, and ask what the most vulnerable place most needs.
-4. Nurture: offer that. A hand on the heart, a phrase of kindness, acceptance, forgiveness, whatever the place actually asks for. Then rest for a few moments in awareness itself.
+1. Recognize what is happening: pause and name, in a quiet mental whisper, whatever is strongest right now. Anger, fear, hurt, judgment, plain overwhelm all count.
+2. Allow the experience to be there, just as it is: without fixing, ignoring or feeding it.
+3. Investigate with interest and care: sense where the feeling lives in the body, often throat, chest or belly, and ask what the vulnerable place most needs.
+4. Nurture with self-compassion: offer that care, a hand on the heart or a phrase of kindness.
 
-The practice can run in full over twenty minutes, or in a light form in under a minute when something lands hard in daily life.
+The practice can run as a stand-alone meditation, or move through the steps when a challenging feeling arises. The guided version advises choosing something to work with that is charged but not overwhelming or traumatic.
 
 ### Evidence
 
-No randomized trial has tested RAIN alone. The single by-name study is a proof-of-concept: Carrière and colleagues (2024) gave 49 adults with overweight and emotional eating a brief app-delivered RAIN exercise, and at one month reported improvements in eating-related thoughts (r between −0.58 and −0.28) and weight loss (r = −0.38), with 41 of 49 still using the app. There was no control group, so the study cannot show cause. The family evidence is stronger than the direct evidence: RAIN bundles three processes that each carry their own literature, mindful attention to emotion, acceptance of what is present, and self-compassion. The Carrière paper's background summarizes the first two: experimentally induced mindful attention to present emotions predicted lower depression, perceived stress and self-harm impulses, and acceptance has been linked to lower reactivity and greater willingness to stay with unpleasant material. Treat the four steps as a well-designed assembly of studied parts rather than a tested package.
+Searches for trials of RAIN by name returned no randomized controlled trial of the practice as a standalone package. The one by-name study located is a proof-of-concept by Carrière, Siemers, Thapar and Knäuper (2024): 49 emotional eaters used a mobile app that presented the four RAIN steps as an illustrated image sequence, encouraged to run it whenever a non-homeostatic craving hit over a three-week period, alongside a one-hour group workshop on reward-based eating. Pre-post comparisons on ten eating and mindfulness questionnaires moved in the intended direction, r between −0.58 and −0.28, and craving intensity fell an average of 3.39 points immediately following exercises. With no control group the design cannot show cause, and the workshop was part of the package. RAIN combines processes that each have their own literatures, attention to present experience, acceptance, and self-compassion, but the studies behind those parts do not test RAIN itself.
 
 ### A guided version
 
-The Practice of RAIN, a 20:14 guided meditation led by Tara Brach on her own channel, [walks through all four steps](https://www.youtube.com/watch?v=W8e_tAEM80k).
+The Practice of RAIN, a 20:14 guided meditation led by Tara Brach on her own channel, [walks through all four steps](https://www.youtube.com/watch?v=W8e_tAEM80k); its description notes that "With practice, we can find our way home to open-hearted presence in the midst of whatever arises."
 
 ## Operationalises
 
@@ -43,22 +43,22 @@ The Practice of RAIN, a 20:14 guided meditation led by Tara Brach on her own cha
 ## Related concepts
 
 - [[Self-compassion]] — the Nurture step is self-compassion applied to one raw feeling
-- [[Radical acceptance]] — the Allow step in the Linehan sense of turning toward what is already here
+- [[Radical acceptance]] — the Allow step turns toward what is already here
 - [[Affect labeling]] — Recognize is the naming of what is present
-- [[Cognitive defusion]] — the old fourth step, non-identification, is defusion stated in contemplative terms
+- [[Cognitive defusion]] — the non-identification reading of the fourth step resembles defusion
 - [[Equanimity]] — the allowing posture that neither suppresses nor amplifies
 
 ## Related kernels
 
 - [[K123 — Radical acceptance]] — the acceptance-only cousin
 - [[K115 — Willingness practice]] — the same turning-toward, trained as a standalone stance
-- [[K116 — Urge surfing]] — a single-wave version of Allow
+- [[K116 — Urge surfing]] — the craving-specific relative
 - [[K385 — Cognitive acceptance: watch thoughts float by]] — the thought-level version
 - [[K395 — Exploring Difficulty meditation]] — a longer guided format over the same territory
 
 ## Sources
 
-- [Brach, "The RAIN of Self-Compassion", tarabrach.com](https://www.tarabrach.com/rain/) — the four steps and the practice description
-- [Brach, "Feeling Overwhelmed? Try the RAIN Meditation", Mindful.org](https://www.mindful.org/tara-brach-rain-mindfulness-practice/) — McDonald origin attribution
-- [Carrière et al. (2024), app-delivered RAIN proof-of-concept, Mindfulness, PMC11304094](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304094/) — direct evidence
+- [Brach, "RAIN: Recognize, Allow, Investigate, Nurture", tarabrach.com](https://www.tarabrach.com/rain/) — the four steps and practice description
+- [Brach, "Feeling Overwhelmed? Try the RAIN Meditation", Mindful.org](https://www.mindful.org/tara-brach-rain-mindfulness-practice/) — McDonald origin attribution and the natural-awareness rendering
+- [Carrière, Siemers, Thapar & Knäuper (2024), proof-of-concept of app-delivered RAIN, Mhealth, PMC11304094](https://pmc.ncbi.nlm.nih.gov/articles/PMC11304094/) — direct evidence
 - [The Practice of RAIN, guided meditation, Tara Brach, 20:14](https://www.youtube.com/watch?v=W8e_tAEM80k) — guided version
