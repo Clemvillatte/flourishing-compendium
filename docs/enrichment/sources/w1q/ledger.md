@@ -450,3 +450,12 @@ damage, w1ab left to its live holder.
   original page pointed at the Roxette song article (fetched, no Sartre content);
   replaced by the SEP carrier. Validator ok (1 warn: 1 Related line, fast-track bar).
   QC-pending for the next milestone.
+
+## THE MANY SELVES — 2026-10-21T16:06Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Carrier: Classics in the History of Psychology (York
+  University) chapter X text of James 1890, raw download; quotes substring-verified:
+  the many-social-selves principle (footnote marker omitted), the classes/groups
+  sentence, and the discordant-splitting vs harmonious-division-of-labor sentence.
+- SO003/P062/SE008/SE049 clauses kept to what those pages carry. Choice-of-self Related
+  link bare (unchecked target). Validator ok against pre-enrichment baseline e5285c9c4
+  (1 warn: 1 Related line, fast-track bar). QC-pending for the next milestone.
