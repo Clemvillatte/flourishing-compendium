@@ -42,12 +42,12 @@ Imagine returning to one difficult argument tomorrow with a written question. Th
 
 ## Psychology parallels
 
-- **[[Deliberate practice|Deliberate practice builds cognitive stamina]]**: this broader claim is not established by Ericsson et al.'s (1993) specialist musician comparison.
-- **Mindfulness and task performance**: the specific intervention and outcomes reported by Mrazek et al. (2013).
+- **[[Deliberate practice|Deliberate practice builds cognitive stamina]]** — Ericsson et al.'s (1993) specialist musicians: accumulated practice estimates were associated with expert performance; the authors explicitly limit this to a relationship, not proof that practice builds a general stamina.
+- **Mindfulness and task performance** — a two-week randomised trial: mindfulness training improved GRE reading comprehension and working memory while reducing mind wandering (Mrazek et al., 2013).
 
 ## Philosophy parallels
 
-- **[[The examined life|The examined life]]**: a related compendium theme, not empirical evidence for this title.
+- **[[The examined life|The examined life]]** — the examined life as deliberate, effortful attention to one's own thinking.
 - **[[Right effort|Right effort]]**: a related practice theme, not an equivalent of the tested intervention.
 - **[[The unity of the virtues|Virtue as habituated capacity]]**: compare Aristotle II.1 on moral virtue; do not substitute it for evidence about cognition.
 
