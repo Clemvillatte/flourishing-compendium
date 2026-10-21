@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 260** — Practise Stoicism in your family life
 
-Marcus credits his mother with piety, beneficence and simplicity of life. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
+Marcus credits his mother with piety, beneficence and simplicity of life, in the opening list of what he owes the people who raised him. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt))
 
 > "From my mother, piety and beneficence, and abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich."
 
