@@ -11,6 +11,10 @@ Symbolic interaction theory holds that people act toward things, other people in
 
 > "Humans act toward things on the basis of the meanings they ascribe to those things." (Blumer's first premise, [Wikipedia, "Symbolic interactionism"](https://en.wikipedia.org/wiki/Symbolic_interactionism), citing Blumer 1969)
 
+### Origin
+
+The tradition runs from George Herbert Mead's pragmatist social psychology to Herbert Blumer, who, per the opened carrier, coined the term and condensed the approach into the three premises quoted here.
+
 ### The three premises
 
 > "The meaning of such things is derived from, or arises out of, the social interaction that one has with others and the society." (Blumer's second premise, [Wikipedia, "Symbolic interactionism"](https://en.wikipedia.org/wiki/Symbolic_interactionism), citing Blumer 1969)
@@ -25,7 +29,7 @@ The approach treats thought itself as interaction turned inward. Symbolic intera
 
 ### In everyday life
 
-The theory reads small scenes: the same request lands differently as an order, a plea or a joke, and the difference is made in the exchange, not in the words alone. For a writer on flourishing, it relocates change: to alter what people do, one often has to alter what things mean to them, and meanings are negotiated, not decreed.
+The theory reads small scenes: the same request lands differently as an order, a plea or a joke, and the difference is made in the exchange, not in the words alone. For a writer on flourishing, it relocates change: to alter what people do, one often has to alter what things mean to them, and meanings are negotiated, not decreed. The everyday scenes above and below are illustrations of the theory's lens, not documented findings.
 
 ### In the compendium
 

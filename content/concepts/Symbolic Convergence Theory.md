@@ -19,13 +19,17 @@ A fantasy theme is a dramatizing message that sparks a chain reaction: members r
 
 > "'Rhetorical vision' refers to the more or less coherent integration of a group's fantasy types and themes." (Bormann 1996, quoted in ["A Communication-Ecological Account of Groups"](https://pmc.ncbi.nlm.nih.gov/articles/PMC8868150/))
 
+### Origin
+
+The theory is stated in the work of Ernest Bormann; the opened carrier article reproduces his 1985 and 1996 formulations, quoted above, in the course of its own account of groups. The formulations are the theory's own terms of art, and this page does not go beyond them into the theory's history.
+
 ### How convergence builds a group
 
 The theory's unit of analysis is the fantasy theme; its larger structure is the rhetorical vision, the composite drama into which the shared themes settle. A group that has converged symbolically has, in the theory's terms, a common consciousness: inside jokes trigger the whole story, shared enemies and heroes need no explanation, and the group's picture of the world feels simply like the world. The theory treats this convergence as a communication achievement, produced and reproduced every time the stories are retold.
 
 ### In everyday life
 
-The theory names a familiar experience: a group of strangers becomes a group the moment someone tells a story that the others take up and elaborate. Inside jokes, founding myths, complaints retold until they are polished into legends, all of these are fantasy themes in Bormann's sense. For a writer on flourishing, the theory offers a double lens: shared stories are how communities build cohesion and meaning, and they are also how a group can close itself into a shared unreality.
+The theory names a familiar experience: a group of strangers becomes a group the moment someone tells a story that the others take up and elaborate. Inside jokes, founding myths, complaints retold until they are polished into legends, all of these are fantasy themes in Bormann's sense. For a writer on flourishing, the theory offers a lens on how communities build cohesion and meaning through shared stories.
 
 ### In the compendium
 
@@ -38,7 +42,7 @@ The theory names a familiar experience: a group of strangers becomes a group the
 
 - [[Shared reality]] — the social-cognitive account of what the group's stories converge on
 - [[Narrative identity]] — the individual-level counterpart of stories building a self
-- [[Groupthink theory]] — the small-group failure mode that a converged consciousness can slide into
+- [[Groupthink theory]]
 
 ## Sources
 
