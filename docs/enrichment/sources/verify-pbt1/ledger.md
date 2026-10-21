@@ -837,3 +837,9 @@ emotions": all four quoted passages (family definition; appraisal-process steps;
 shame-vs-guilt attribution contrast; pride facets) VERBATIM vs the opened carrier
 (citation parentheticals elided with marked ellipses on the page — acceptable).
 1/1 PASS, no defects.
+
+## Round 60 (16:44Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: York University Frankfurt 1971 PDF. w1w "Second-order desires":
+all three quoted passages (second-order desire definition; wanton; freedom of the
+will) VERBATIM vs the opened carrier. 1/1 PASS, no defects.
