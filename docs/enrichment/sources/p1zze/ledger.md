@@ -106,3 +106,7 @@
 
 ## PP015 — Cultivate hope as a process
 - Opened: Snyder 2002 abstract (T&F), Cheavens et al. 2006 abstract (Springer). Seed "Cheavens 2005 ... predictor of well-being and health" is mislabelled: the paper is 2006, a pilot hope-therapy trial (n=32 completers), not health prediction. Seed "physical health / hope can be trained" softened to Snyder's correlational claim plus pilot evidence. Wikilink label retained (validator) and flagged.
+
+## PP028 — Mattering matters
+- Opened (via fetched/search excerpts): Flett 2022 review (J Psychoeduc Assess), 2026 systematic review of adolescent mattering (J Child Fam Stud), T&F 2021 article quoting George & Park 2016 p.206. Rosenberg & McCullough 1981 and George & Park 2016 originals NOT opened; cited as read through secondary sources.
+- Seed conflated interpersonal mattering (R&M 1981) with existential mattering (G&P 2016): now separated. "Independent of self-esteem and support" kept only as reported by Flett (unique variance in several studies); evidence is mostly correlational (systematic review: r -0.02 to -0.42 with depression).
