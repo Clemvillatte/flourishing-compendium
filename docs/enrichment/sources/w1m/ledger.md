@@ -578,3 +578,27 @@ Post-repair validation vs 84d7fbfd8: all clean. Mediators of change and
 Midlevel terms STAY QC-PENDING for substantive verification. The PBT side
 quest is NOT complete: theory-like depth, exhaustive saturation review and
 proposal integration remain open.
+
+## Items — The examined past + The prior probability of the world (2026-10-21, worker-w1m-7c9e2a54)
+
+- The examined past (fast-track, deg 8): predecessor draft verified rather than
+  replaced. Seneca De Ira 3.36 blockquote ("The spirit ought to be brought up
+  for examination daily.") re-verified VERBATIM against a fresh fetch of the
+  cited Wikisource Stewart carrier; lamp/wife/pardon paraphrases match the
+  opened text; contentious-dispute and reprimand details match. Repairs: two
+  Related lines lacked how-clauses ([[The examined life]], [[Mood-congruent
+  memory]]) — clauses added; no quotes changed. Validator fast-track: ok.
+- The prior probability of the world (fast-track, deg 7): predecessor draft was
+  thin (35 prose words). Hume X.I "All probability, then..." blockquote
+  re-verified VERBATIM against a fresh fetch of the cited Gutenberg #9662
+  (Selby-Bigge) carrier. Synthesis extended from the SAME opened carrier: the
+  testimony-against-miracles fragment ("no testimony is sufficient to establish
+  a miracle, unless the testimony be of such a kind, that its falsehood would
+  be more miraculous, than the fact, which it endeavours to establish") quoted
+  as a mid-sentence verbatim fragment of X.I, locator given; custom sentence
+  grounded in the opened X.I/Section V text. Related how-clauses added
+  ([[Base rate neglect / representativeness heuristic]], [[Bayesian brain]]).
+  Validator fast-track: ok. Committed c2f478d; advisor QC on this item below.
+- Band state after these two: 64/70 done; the 7 remaining not-done items are
+  all supervisor-pending holds (identity/namespace/source-pending) — worker
+  work in w1m is exhausted; baton to be released at the honest checkpoint.
