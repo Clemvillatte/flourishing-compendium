@@ -621,3 +621,32 @@
   cleared by a DOCUMENTED DIRECT EDIT of docs/enrichment/batches/w1ab.json (in_progress:
   Noogenic neurosis -> null) — the baseline file was never written, and the flag above
   records the carrier gap for the next worker.
+
+## MILESTONE QC items 16-19 (advisor round 1: FAIL all four -> repairs applied) — 2026-10-21, worker-pxy1u
+- Items: Ockham's razor, Obedience research, Neuroaesthetics, Neurobiology of addiction (the
+  post-milestone items of the predecessor's window, due at this boundary per the handoff).
+- Fresh verification before submission: all three PubMed abstracts (19209962, 24768244,
+  27475769) re-fetched via efetch and every quoted fragment matched verbatim; the IEP Ockham
+  entry re-fetched and all quoted fragments matched verbatim.
+- Advisor round 1 verdict: FAIL all four, repairs specified. Repairs applied:
+  (1) Ockham's razor: definition promoted to standalone blockquote; unverified 'c. 1287-1347'
+  dates replaced with the entry's own inference (born 1280-1285, died 1347-1349, verified by
+  fresh fetch); 'Ockham never makes it' retained with the entry's exact wording 'Ockham never
+  makes this assumption' (verified by fresh fetch); long paragraph split.
+  (2) Obedience research: the unsupported shock-procedure description re-grounded by OPENING
+  Burger 2009 (PMID 19209958, 'Replicating Milgram', Am Psychol 64(1):1-11) — its abstract
+  now supports the paradigm description (150 volts, learner's verbal protest, shock-generator
+  range, 79% continuation, 2006 rates 'only slightly lower'); the Elms abstract blockquote
+  promoted to standalone; 'experimental line opened by' replaced with a bounded formulation.
+  (3) Neuroaesthetics: 'the field named in the title' replaced with a plain definition;
+  definition blockquote standalone; 'poised to enter the mainstream' retained explicitly as
+  the authors' 2014 outlook.
+  (4) Neurobiology of addiction: the two edited-excerpt stage quotes replaced with complete
+  exact sentences as standalone blockquotes (the withdrawal sentence now includes the
+  'and dynorphin, in the neurocircuitry of the extended amygdala' tail); the third stage
+  (preoccupation/anticipation) added in full (the sentence is complete in the fresh fetch —
+  the predecessor's truncation note is superseded); 'the framework the review is known for'
+  replaced with 'describes a three-stage framework'.
+- Post-repair validation: --fast-track --base 4b2bebc4f: 4 checked, 0 failures; front-matter
+  and all original wikilinks preserved (D165, B160, PP057, PP077).
+- Status: repairs pending advisor re-verification (round 2).
