@@ -1,13 +1,20 @@
 {
  "baton": "w1p",
- "agent": "worker-w1p-efc902b7",
- "clocked_in": "2026-10-21T09:22:15+00:00",
+ "agent": "worker-w1n-c3f81a2e",
+ "clocked_in": "2026-10-21T11:32:21+00:00",
  "takeovers": [
   {
    "by": "worker-w1p-efc902b7",
    "at": "2026-10-21T09:01:25+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-w1n-c3f81a2e",
+   "at": "2026-10-21T11:32:21+00:00",
+   "from": "worker-w1p-efc902b7",
+   "reason": "stale (130 min)"
   }
- ]
+ ],
+ "released": false
 }
