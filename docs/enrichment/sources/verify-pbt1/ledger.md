@@ -783,3 +783,9 @@ blockquote VERBATIM vs the opened carrier (citation "Goodman 1992: 6" matches).
 
 Carrier opened fresh: Taylor & Francis Oaten & Cheng 2006 article. w1q "Vigilance theory":
 both abstract blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 51 (16:40Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carriers opened fresh: Lee 2008 PMC3095437; Zeki 2022 PMC11514330. w1q "Trichromatic
+theory of color vision": both blockquotes (Young 1802 via Lee; Helmholtz via Zeki)
+VERBATIM vs the opened carriers. 1/1 PASS, no defects.
