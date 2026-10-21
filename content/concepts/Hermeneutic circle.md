@@ -24,6 +24,7 @@ Entering the circle rightly means holding your anticipations of the whole lightl
 ## Related concepts
 
 - [[Fusion of horizons]]: the circular structure of understanding the fusion works within
+- [[The hermeneutic circle]] — the same circle under its letter-T title, following the SEP entry rather than Gadamer's essay
 
 ## Sources
 

@@ -36,6 +36,7 @@ This page describes the idea as the encyclopedia presents it. It does not examin
 
 ## Related concepts
 
+- [[Hermeneutic circle]] — the same circle worked out from Gadamer's own essay
 - [[Fusion of horizons]] — listed for comparison
 - [[Prejudice (Vorurteil)]] — listed for comparison
 - [[Thrownness]] — listed for comparison
