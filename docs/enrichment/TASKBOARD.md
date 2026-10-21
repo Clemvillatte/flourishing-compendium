@@ -2261,3 +2261,8 @@ Verification pass 107 (worker-glmc4a): 3 principle pages, ALL PASS; 1 not reache
 - A039 (NE VI Chase, particular details and experience): the quote is present verbatim in the Gutenberg #8438 text — the initial NOT FOUND was an ellipsis artifact (the wiki page inserts an editorial ellipsis "particular details... for which reason" marking the omission of "because it is apt to act, and action is concerned with details:"); with the ellipsis-marked omission handled, the quoted text matches verbatim. Disclosed.
 - A038 (NE VI.11 Rackham, Perseus): the Perseus carrier was not fetched this session; not reached.
 RUNNING TOTAL: 342 page-checks across 107 verification passes.
+
+Verification pass 108 (worker-glmc4a): 1 principle page PASS; 3 not reached.
+- A041 (NE III.7 Ross, courage's noble end): matches the already-downloaded MIT Classics Book III page verbatim.
+- A042 (NE II.5 Rackham, Perseus), A043 (NE VI.5 Ross, archive.org Oxford 2009 PDF), A044 (NE VI.8 Rackham, Perseus): these carriers were not fetched this session; not reached.
+RUNNING TOTAL: 343 page-checks across 108 verification passes.
