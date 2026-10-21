@@ -60,6 +60,29 @@ sources, writing pages, validating, saving. Follow the Token-efficient superskil
 session: no filler narration, no redundant re-reads or searches, no verbose status updates.
 Cheap first (local scripts, one search), expensive only when it changes the result.
 
+## Supervisor band work between passes (owner directive, 2026-10-21)
+
+Supervisors should work on bands when they don't have supervising tasks. The rule in one
+line: prioritise supervising tasks, and do band work between your passes.
+
+- A supervising task is anything in the "Supervisor duties" list below: pull-and-review,
+  health checks, quality sampling, integration of proposals, board upkeep (minting bands,
+  targets, attribution notes), handoff/QC-log updates, PROGRESS.md refresh.
+- If any supervising task is pending, do it first. Never let band work delay a pass.
+- When the pass is complete and nothing supervisory is pending (no proposals to apply, no
+  flags to resolve, no QC samples due, no bands to mint, PROGRESS.md fresh), the supervisor
+  does not sit idle: claim or resume a band's unfinished item and enrich it exactly like a
+  worker (state transitions, research, §1a fast-track bar where eligible, validation, save,
+  clock in). The supervisor baton does NOT block this; only the old rule did, and it is
+  repealed.
+- When a supervising task appears mid-item, finish the item's current state safely (save
+  WIP if mid-rewrite, or complete the item if it is minutes from done), then return to
+  supervision. Do not abandon a band item without either finishing it or pushing its WIP.
+- The supervisor should not hold a second baton for this: supervisor-band work is recorded
+  in the batch files and ledger like any worker's, and the supervisor baton's clock-in
+  covers it. If the platform requires a separate baton for tooling reasons, use the band's
+  own baton and note the supervisor role in the claim line.
+
 ## Batons
 
 There are two kinds of baton:
@@ -67,8 +90,11 @@ There are two kinds of baton:
 - **Supervisor baton** (`supervisor`): exactly one. The supervisor keeps an eye on GitHub and
   drives the project: reviews commits, samples quality (advisor QC), updates instructions,
   targets and attributions, runs integration (`enrich_apply.py` + validate + build), mints
-  new bands, keeps `handoff.md` and the QC log current. The supervisor mostly monitors
-  silently and does NOT enrich concept pages while holding the baton.
+  new bands, keeps `handoff.md` and the QC log current. Supervising tasks always take
+  priority. Between passes, when no supervising task is pending, the supervisor works on
+  bands like any worker (see the owner directive above): take an unfinished item from an OPEN
+  band, enrich it per the protocol at the applicable bar, and drop the band work the moment
+  a supervising task appears.
 - **Worker batons** (`worker-<band>`): one per band. A worker enriches the concepts of their
   band following `docs/enrichment/PROTOCOL.md`.
 
@@ -98,6 +124,11 @@ When you start a session (or come back from a break):
   20 minutes. A completed supervisor pass is NOT a reason to release the supervisor baton.
 
 ## Supervisor duties (in order)
+
+Rule of the role (owner directive, 2026-10-21): supervising tasks first, always. Work
+through this list in order; when everything on it is done and nothing is pending, do band
+work between passes instead of idling (full rule: "Supervisor band work between passes",
+above).
 
 Current priority (owner directive, 2026-10-19): ALL item types need work; principles first.
 Many principle bodies are AI-sounding and the "Plain words" sections are broken replicates;
