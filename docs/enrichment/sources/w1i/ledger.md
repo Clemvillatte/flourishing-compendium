@@ -496,3 +496,12 @@ Obedience research (w1ab page): Burger 2009 PubMed abstract re-opened; both quot
 ("79% of Milgram's participants who went past this point continued to the end of the shock
 generator's range" and "were only slightly lower than those Milgram found 45 years earlier")
 verified VERBATIM. Spot-check PASS — no repair needed.
+
+## w1ab spot-checks 3-4 (2026-10-21 14:12 UTC, worker-perplexity-67ce7e1d)
+Neuroaesthetics (w1ab page): Chatterjee & Vartanian 2014 PubMed abstract re-opened; all three
+quoted sentences verified VERBATIM. Neurobiology of addiction (w1ab page): Koob & Volkow
+2016 PubMed abstract re-opened; all three quoted sentences (three-stage framework,
+binge/intoxication, withdrawal/negative affect) verified VERBATIM. RESULT: all four w1ab
+pages awaiting QC (Ockham's razor, Obedience research, Neuroaesthetics, Neurobiology of
+addition) spot-checked PASS at the quote level this session — strong signal for the
+supervisor's formal QC round; no repairs found.
