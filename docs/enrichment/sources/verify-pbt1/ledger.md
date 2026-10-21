@@ -161,3 +161,20 @@ file docs/enrichment/sources/w1aa/Homecoming.md records the raw-text verificatio
    12% of world population, 67% undergraduates) all verbatim-supported in the manuscript.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 6 (16:14Z) — w1aa quote-fidelity verification, fifth batch
+
+Carriers opened fresh: SEP "Huayan Buddhism" (Van Norden & Jones), Wikisource Hicks
+Letter to Menoeceus, psychclassics Wertheimer 1923 (Ellis translation).
+
+1. Indra's net — blockquote VERBATIM vs SEP §1.3; the "is dependent for both its existence
+   and its identity" fragment VERBATIM; Fazang rafter/building, mirror halls, and the
+   one-is-all/universal-compassion claims all supported in the opened entry (§1.3, §4).
+2. Frugal plenty — blockquote VERBATIM vs Hicks's translation; all prose claims
+   (contentment with little, sweetest enjoyment, habituation to simple diet, fearless of
+   fortune, natural easily procured) verbatim-supported paraphrases of the letter.
+3. Gestalt perception — blockquote ("I stand at the window...") VERBATIM; the
+   stimuli-experience passage, smallest-interval and like-parts-band-together fragments
+   all verbatim-supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
