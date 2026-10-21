@@ -36,7 +36,7 @@ The Practice of RAIN, a 20:14 guided meditation led by Tara Brach on her own cha
 
 ## Operationalises
 
-- [[AF066 — Cultivate self-compassion: treat yourself as you would a good friend|AF066 Cultivate self-compassion: treat yourself as you would a good friend]]
+- [[AF066 — Cultivate self-compassion — treat yourself as you would a good friend|AF066 Cultivate self-compassion: treat yourself as you would a good friend]]
 - [[B182 — Separate pain from suffering — daily|B182 Separate pain from suffering: daily]]
 - [[B124 — Meet suchness — things as they are|B124 Meet suchness: things as they are]]
 
