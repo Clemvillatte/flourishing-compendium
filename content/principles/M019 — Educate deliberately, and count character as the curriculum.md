@@ -12,16 +12,25 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 19** — Educate deliberately, and count character as the curriculum
 
-The Nahua educational institutions (the calmecac for the priestly and noble track, the telpochcalli for the broader youth) held character as the explicit curriculum: moderation, self-control, service, and craft, taught through memorized speech, discipline, and the model of teachers. The principle survives the institutions: your formation is either designed or accidental, and the tradition is unambiguous about which it should be. Practically, write your own current curriculum in one page (what you are practicing, from whom you are learning, what you are memorizing, what you are making) and follow it as a student follows a syllabus.
+Two kinds of school are described in Sahagún's Florentine Codex: the calmecac, a school for sons of nobles with an emphasis on religion and military training and often run by priestly teachers, and the telpochcalli, the "youth house" for commoner boys (Fitzgerald 2019, citing Sahagún Book III). Maffie summarises the aim of Nahua education as "perfecting children by developing in them 'a wise face and a strong, humanized heart'" and fashioning character "into a 'well smoked, precious turquoise'", which "equips them with the means for keeping their balance on the slippery earth" (Maffie, [Aztec Philosophy](https://iep.utm.edu/aztec-philosophy/), citing Sahagún VI, p. 113).
 
-(The calmecac and telpochcalli as presented in the Florentine Codex and Leon-Portilla.)
+The Codex passages quoted by Fitzgerald show how that was done. In the calmecac, pupils were "carefully… taught [by the priests] the songs which they called the god's songs", and "well were all taught the reckoning of the days, the book of dreams, and the book of years" (Book III, p. 65). They also practised penance: "they fasted for the space of five nights—not by day but by night" (Book III, p. 193). In the telpochcalli account, a speech in the Codex runs: "Let us instruct children; let us educate children. Let the word, the statement, motherhood, fatherhood come forth" (Book III, p. 51). Fitzgerald's source for the telpochcalli being less severe is Caso, so that comparison is secondary.
 
-**Plain words** The Nahua schools held character as the explicit curriculum — moderation, self-control, service, craft — taught through memorized speech, discipline, and the model of teachers. The institutions are gone; the principle survives: your formation is either deliberate or it's whatever the feed did to you. Count character as the curriculum.
+Your own formation is then a design question. I did not find the specific virtues "moderation, self-control, service and craft" listed in the opened sources, so the page drops that list.
 
-*For example:* The self-taught coder who realises their education had no ethics course, no discipline, no craft tradition — and deliberately builds the telpochcalli back in: a mentor, a practice, a standard.
+**Plain words**
+Nahua schools were built around forming a person's character as well as teaching skills: songs, calendars, penance and discipline in the calmecac, and community work and training in the telpochcalli. Their stated aim was a wise face and a strong heart. You can borrow the idea without the institutions. Write down what you are practising, who you are learning from and what you are making, and treat that page as your syllabus.
+
+*For example:* A self-taught programmer notices her training never covered ethics or working with other people. She finds a mentor, picks one standard to practise each month and keeps a log. This is an imagined case.
+
+## Sources
+
+- [Maffie, J., Aztec Philosophy, Internet Encyclopedia of Philosophy (section 6, quoting Sahagún VI, p. 113)](https://iep.utm.edu/aztec-philosophy/)
+- [Fitzgerald, J. J. (2019), Unholy Pedagogy: Local Knowledge, Indigenous Intermediaries, and the Lessons from Spanish Colonial Learningscapes, 1400-1650, PhD dissertation, University of Oregon (quotes Sahagún, Florentine Codex Book III pp. 51, 65, 193)](https://scholarsbank.uoregon.edu/server/api/core/bitstreams/706d7d14-a150-4068-a302-5d019675356b/content)
+
 ## Psychology parallels
 
-- **[[Deliberate practice|Deliberate practice and curriculum effects]]**, the learning-science findings on structured formation (Ericsson's research, as framework)
+- **[[Deliberate practice|Deliberate practice and curriculum effects]]**, Ericsson's research on structured training is cited in the original and was not opened in this pass; it is a modern parallel, not evidence for Nahua schooling
 
 ## Philosophy parallels
 
