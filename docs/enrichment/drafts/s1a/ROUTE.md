@@ -13,3 +13,8 @@
   scan-verified — see its QC notes). No story pages, principle pages or registration were
   touched; both drafts pass story_check --context draft. (A handoff.md ROUTE attempt was
   reverted: the separation guard denies storyteller writes outside the lane paths.)
+- 2026-10-21 ~11:2xZ addendum: a third off-slice draft joined the hold — s1a-019 (Ciñcā
+  accuses the Buddha before the assembly; Dhammapada Atthakatha via the opened Burlingame
+  translation, Buddhist Legends XIII.9; targets B054 equanimity, with the equanimity mapping
+  explicitly marked as the compendium's interpretation since the commentary's own teaching
+  point is verse 176 on lying). Same handling requested as s1a-017/s1a-018.

@@ -425,7 +425,22 @@
      "note": "advisor QC round 2: repairs applied; scan-locator verification hold + off-slice scope hold"
     }
    ]
+  },
+  "s1a-019": {
+   "status": "qc_pending",
+   "angle": "B054: the worldly winds staged as the Ciñcā accusation; equanimity reading is the compendium's interpretation",
+   "history": [
+    {
+     "t": "2026-10-21T11:23:35+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:23:35+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC for this item pending"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T11:22:15+00:00"
+ "updated": "2026-10-21T11:23:35+00:00"
 }
