@@ -387,25 +387,35 @@
    ]
   },
   "s1a-017": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "D068: Han Xin crawls beneath the butcher's youth — yielding measured against the whole future, closed without revenge",
    "history": [
     {
      "t": "2026-10-21T11:15:32+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:18:59+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1: FAIL, repairs applied"
     }
    ]
   },
   "s1a-018": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "P181 from the boundary side: Duchenne's muscle of benevolence obeys only the feeling, not the will",
    "history": [
     {
      "t": "2026-10-21T11:15:32+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:18:59+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC round 1: FAIL, repairs applied"
     }
    ]
   }
  },
- "updated": "2026-10-21T11:15:32+00:00"
+ "updated": "2026-10-21T11:18:59+00:00"
 }
