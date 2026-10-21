@@ -423,3 +423,14 @@ written as comparisons from principle titles; SE066 tie (error as learning
 signal) noted as the network's own logic. Related concepts limited to
 existing pages (Hebbian learning, Classical conditioning theory, Attention
 Schema Theory); neural-network/PDP/deep-learning pages do not exist.
+
+## Contemporary psychodynamic theory (worker-w1m-f9f8e50d, session 2026-10-21 15:2xZ)
+Theory-page standard (school/skills form). Carrier: Shedler 2010 PDF at the
+author's own site (jonathanshedler.com — the author's designated publication
+of record; raw curl, pdftotext; all seven quoted strings substring-verified).
+Note: the PDF's printed footnote interleaves with the seven-features sentence
+in extraction; the sentence is quoted only up to the clean boundary
+("Seven features reliably distinguished psychodynamic therapy from other
+therapies"). Mentalization/attachment framing of the seed is grounded via the
+existing wiki pages (Mentalization theory, Attachment theory) and Shedler's
+feature-4 attachment mention, not via a separate mentalization source.
