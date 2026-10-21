@@ -351,3 +351,22 @@ Merleau-Ponty (Toadvine, §6), Gutenberg #9662 (Hume Enquiry).
    experiments" prose paraphrase verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round (one cosmetic em-dash note).
+
+## Round 16 (16:25Z) — w1aa quote-fidelity verification, fifteenth batch
+
+Carriers opened fresh: Gutenberg #34901 (Mill On Liberty), Markus & Kitayama 1991 PDF
+(MIT mirror), Spelke 1979 PDF (Harvard LDS lab).
+
+1. Individuality — all three blockquotes VERBATIM vs Gutenberg (the third correctly flags
+   that the sentence continues); the two in-text quotations ("The same things which are
+   helps...", "Customs are made for customary circumstances...") VERBATIM.
+2. Interdependence research — all three blockquotes VERBATIM vs the MIT-mirror PDF;
+   the abstract's opening sentence VERBATIM; MINOR NOTE: the page's prose list of
+   alternative names ("sociocentric, holistic, collective, allocentric, contextualist,
+   connected and relational") drops the carrier's "ensembled" and "constitutive" —
+   presented as prose without an exhaustiveness claim, so no defect; noted for the record.
+3. Intermodal perception — all three blockquotes and the summary line VERBATIM vs the
+   Spelke 1979 PDF; the mechanism prose (synchrony/tempo invariants, filmed percussion,
+   amodal reach) supported by the paper's own abstract and summary.
+
+Result: 3/3 quotation fidelity PASS, no defects this round (one minor list-abridgment note).
