@@ -31,7 +31,8 @@
   "Wise reasoning",
   "Working memory model Baddeley",
   "Worry theory cognitive avoidance Borkovec",
-  "Akrasia (weakness of will)"
+  "Akrasia (weakness of will)",
+  "Anxiety about the future"
  ],
  "in_progress": null,
  "flagged": {
@@ -47,6 +48,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:23:04+00:00",
+ "updated": "2026-10-21T06:24:13+00:00",
  "band_done": false
 }
