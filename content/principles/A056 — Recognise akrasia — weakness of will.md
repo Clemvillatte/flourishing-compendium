@@ -12,21 +12,21 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 56** — Recognise akrasia: weakness of will
 
-Socrates held that nobody judges one course best and then does another, so people only seem to act against their judgement because they are ignorant. Aristotle reports the view in [NE VII.2 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html) and rejects it:
+Socrates denied that someone could know the better course and act against it. Aristotle raises an objection in [NE VII.2 (Ross, MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html):
 
 > Now this view plainly contradicts the observed facts
 
-He keeps the experience and asks what is happening inside the person. First, "we use the word 'know' in two senses (for both the man who has knowledge but is not using it and he who is using it are said to know)". Second, passions change the body, so "incontinent people must be said to be in a similar condition to men asleep, mad, or drunk." Fluent talk proves nothing, because such a person's use of knowledgeable language "means no more than its utterance by actors on the stage." He also separates two ways to fail: "some men after deliberating fail, owing to their emotion, to stand by the conclusions of their deliberation, others because they have not deliberated are led by their emotion" (VII.7).
+His explanation distinguishes possessing knowledge from actively using it. Someone affected by passion may recite the right words, yet their utterance "means no more than its utterance by actors on the stage." He also distinguishes knowing a general rule from grasping the particular situation in which one acts. VII.3 ends with a qualification in Socrates' favour: knowledge proper is not overcome; perceptual knowledge is affected.
 
-(NE VII.2-3, VII.7.)
+He separates two ways to fail: "some men after deliberating fail, owing to their emotion, to stand by the conclusions of their deliberation, others because they have not deliberated are led by their emotion" (VII.7).
 
-**Plain words** Akrasia is doing what you yourself judge worse. Aristotle will not call that mere ignorance, because anyone can watch it happen. His explanation is that a belief can be yours without being in use at the moment you need it, like a drunk person who can still recite a proof. After a slip, a fair question is whether you had thought it through beforehand or reacted without stopping to think. Call it akrasia when it happens, and skip the story that you secretly wanted it all along.
+**Plain words** You can know a rule and still fail to bring it to bear on what you are doing. Being able to explain it afterwards does not settle what you understood in the moment. Aristotle's strict account concerns bodily appetites; he discusses failures involving anger, honour or gain in a qualified sense (VII.4). For reflection, ask whether you abandoned a considered decision or acted before deliberating. This is a prompt for examining a lapse, not a diagnosis of every regretted choice.
 
-For example (imagined): you know you should leave the party at midnight for tomorrow's early start. At two o'clock you can still list every reason to have left, and the list did nothing.
+For example (imagined): you decide to stop eating sweets, then reach for another. Afterwards, you can still explain your decision. What happened between deciding and reaching?
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics VII.2, VII.3 and VII.7, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)
+- [Aristotle, Nicomachean Ethics VII.2–4 and VII.7, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)
 
 ## Psychology parallels
 
