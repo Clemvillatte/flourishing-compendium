@@ -40,7 +40,6 @@ The reasoning comes just before it: "That which is at rest is easily kept hold o
 ## Psychology parallels
 
 - **Preventive coping and stress inoculation** (Meichenbaum)
-- **Early-intervention evidence across mental health** (unverified inherited gloss; see ledger)
 
 ## Philosophy parallels
 
