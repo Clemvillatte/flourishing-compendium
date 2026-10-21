@@ -18,6 +18,8 @@ Asch's experiments show how heavy the pressure is. On critical trials about one 
 
 
 
+(Emerson, Self-Reliance.)
+
 ### Scope
 
 I opened Emerson's lines through a quotation page, not the essay in full, and Asch through secondary summaries, not his 1956 monograph. "A crowd of two" is the compendium's phrase; Emerson does not use it in the lines I read. The suggested exercise is the compendium's.
