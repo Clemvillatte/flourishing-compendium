@@ -14,7 +14,7 @@ Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. 
 
 ### Protocol
 
-1. Name the slot in the calendar the night before, with the same weight as a meeting; ten minutes is a legitimate start. The dimension this kernel moves is Attention: what the mind notices when nothing supplies it.
+1. Name the slot in the calendar the night before, with the same weight as a meeting; ten minutes is a legitimate start. Target dimension: Attention — what the mind notices when nothing supplies it.
 2. Set the boundary in advance: no phone, no podcast, no book, no errand. A chair, a bench, or a slow walk all work; nothing arrives to fill the time.
 3. When the slot starts, let the mind do whatever it does: plan, drift, replay, go blank. There is no technique to perform and no state to reach.
 4. If restlessness arises, notice the urge to fill the time, and let the block run to its end.
@@ -22,7 +22,7 @@ Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. 
 
 ### Evidence
 
-Empty time as a scheduled practice has no direct trial; the studies below are nearest relatives, and each carries one piece of the picture. In Baird and colleagues' incubation study, a 12-minute undemanding task produced greater improvement on previously encountered creativity problems than demanding work, rest, or no break; the reported omnibus effect was η2 = .10. Rest did not show the incubation benefit, so the result does not establish that unfilled time improves creativity.
+This is a suggested self-guided protocol. The studies cited below do not directly test its daily schedule, duration or instructions. In Baird and colleagues' incubation study, a 12-minute undemanding task produced greater improvement on previously encountered creativity problems than demanding work, rest, or no break; the reported omnibus effect was η2 = .10. Rest did not show the incubation benefit, so the result does not establish that unfilled time improves creativity.
 
 > "Compared with engaging in a demanding task, rest, or no break, engaging in an undemanding task during an incubation period led to substantial improvements in performance on previously encountered problems." — [Baird et al. (2012)](https://www.cmhp.ucsb.edu/sites/default/files/2018-12/Baird%20et%20al.%20(2012)%20Inspired%20by%20distraction.pdf)
 
@@ -40,7 +40,7 @@ A field experiment found greater happiness after a time-saving purchase than aft
 
 ### A guided version
 
-The block needs no recording. A guided session can serve as an on-ramp: Tara Brach's [Letting Go of Doing](https://www.tarabrach.com/meditation-letting-go-doing-2/) (21:17, her official site; also on [her YouTube channel](https://www.youtube.com/watch?v=SI0lGXx2cs4)) begins with a body scan and then drops the doing.
+The block needs no recording. An optional guided alternative: Tara Brach's [Letting Go of Doing](https://www.tarabrach.com/meditation-letting-go-doing-2/) (21:17, her official site; also on [her YouTube channel](https://www.youtube.com/watch?v=SI0lGXx2cs4)) begins with a body scan and then drops the doing.
 
 ## Operationalises
 

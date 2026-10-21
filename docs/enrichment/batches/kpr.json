@@ -269,9 +269,12 @@
   "K105",
   "K113",
   "K108",
-  "K111",
-  "Scheduled empty time"
+  "K111"
  ],
- "in_progress": null,
- "updated": "2026-10-21T14:25:29+00:00"
+ "in_progress": "Scheduled empty time",
+ "updated": "2026-10-21T14:27:05+00:00",
+ "band_done": false,
+ "flagged": {
+  "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight"
+ }
 }
