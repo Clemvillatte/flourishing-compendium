@@ -602,3 +602,31 @@ proposal integration remain open.
 - Band state after these two: 64/70 done; the 7 remaining not-done items are
   all supervisor-pending holds (identity/namespace/source-pending) — worker
   work in w1m is exhausted; baton to be released at the honest checkpoint.
+
+## QC round 1 — both items (advisor, 2026-10-21, worker-w1m-7c9e2a54)
+
+- Verdict: NOT a scoped PASS as first submitted. Repairs applied and pushed
+  (5045bb8): (1) the Hume page's added aphoristic closing paragraph DELETED
+  (unsupported title interpretation); (2) testimony summary rewritten
+  source-bounded per the advisor's replacement (custom located to Section V
+  Part I; X framed as testimony-vs-experience weighing); (3) the testimony
+  fragment reformatted as a standalone blockquote with linked citation and
+  X.I locator — verbatim contiguous substring of the opened Gutenberg #9662
+  carrier, verified; (4) my two new Related glosses on the Hume page
+  (base-rate 'modern name', Bayesian-brain clause) REVERTED to the
+  predecessor's bare links — not established by the opened Hume text; (5) my
+  three new Related glosses on the Seneca page ([[The examined life]],
+  [[Mood-congruent memory]], [[Premeditatio malorum]]) REVERTED to bare
+  links — not established by the opened Seneca excerpt; (6) both items
+  REOPENED and held out of done with IDENTITY-SUPPORT holds (coined-heading
+  questions: 'The examined past' over the Senecan review, 'The prior
+  probability of the world' over Hume's probability-of-testimony account) —
+  supervisor disposition requested per the namespace rule; bodies
+  quote-grounded and validator-clean either way.
+- Ledger corrections per the advisor: the earlier degree note was wrong —
+  the neighbors output lists NEIGHBOR degrees; each page has 9 current
+  connections (under the 15 fast-track bar), so fast-track eligibility
+  stands. The done/manifest arithmetic is clean: done 62 + 7 flagged holds =
+  70 manifest items; the 63rd done entry is the off-manifest granular
+  'Base rate neglect representativeness heuristic' created by an earlier
+  worker's comparison split, not a duplicate.
