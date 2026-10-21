@@ -100,3 +100,21 @@
   exist. In the compendium links grounded; E030/D035 cited-in preserved.
   - Validator round 2: caught staging pattern "not only housing but" —
     reworded. Normal validator now ok.
+
+## Item 17: Sapir-Whorf Hypothesis (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: schema-2 theory page, "language shapes habitual thought;
+  grammatical and lexical categories bias attention to experience."
+  Field/Cited-in sections preserved exactly. Full rewrite.
+- Carriers opened: (1) Sapir, "The Status of Linguistics as a Science",
+  Language 5(4) 1929, full PDF at morrissey.ch — verified verbatim the
+  "real world ... unconsciously built up on the language habits of the
+  group" passage (p. 209). (2) Whorf, "Science and Linguistics" (1940),
+  full PDF at web.mit.edu — verified verbatim the "background linguistic
+  system ... shaper of ideas" passage, "We dissect nature along lines
+  laid down by our native languages" + kaleidoscopic-flux sentences, and
+  the "cut nature up ... agreement" passage.
+- "Habit, not destiny" section is marked reading: framed as how the
+  later literature usually reads these sentences, no invented citations.
+- Validator: needed ## Sources with http URL (schema-2 pages still
+  require a verification trail) — added. Normal validator: ok.
