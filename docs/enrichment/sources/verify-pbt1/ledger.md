@@ -851,3 +851,10 @@ Sutta page. w1w "Samsara": all three quoted passages VERBATIM, with one minor no
 the "Long have you thus experienced stress..." sentence ends with an em-dash in the
 carrier ("cemeteries —"), which the page renders as a period (trivial normalisation).
 1/1 PASS, no defects.
+
+## Round 62 (16:44Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carriers opened fresh: SUNY Stony Brook Waters & Cummings 2000 PDF; Safer Society
+Waters "Measuring Attachment" chapter PDF. w1w "Secure base": both quoted passages
+(Waters & Cummings thesis sentence; Ainsworth Infancy in Uganda passage) VERBATIM
+vs the opened carriers. 1/1 PASS, no defects.
