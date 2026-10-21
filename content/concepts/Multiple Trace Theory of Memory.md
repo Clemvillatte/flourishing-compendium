@@ -13,13 +13,13 @@ Multiple trace theory, proposed by Nadel and Moscovitch (Current Opinion in Neur
 
 ### The theory's status
 
-The same review, whose discussion focuses primarily on nonhuman animal experiments, gives both sides. Its most often supported claim, the abstract states, is "that episodic memory tasks should exhibit comparable severity of retrograde amnesia (RA) for recent and remote memories after extensive damage to the hippocampus (HPC)". By contrast, "there appears to be little or no experimental support for other core predictions, such as temporally limited RA after extensive HPC damage in semantic memory tasks, temporally limited RA for episodic memories after partial HPC damage, or the existence of storage of multiple HPC traces with repeated reactivations" ([same record](https://pubmed.ncbi.nlm.nih.gov/31584226/)). Despite those shortcomings, the authors note, it continues to be a highly cited hippocampal memory theory.
+The same review, whose discussion focuses primarily on nonhuman animal experiments, gives both sides ([same record](https://pubmed.ncbi.nlm.nih.gov/31584226/)). Its most often supported claim, the abstract states, is "that episodic memory tasks should exhibit comparable severity of retrograde amnesia (RA) for recent and remote memories after extensive damage to the hippocampus (HPC)". By contrast, "there appears to be little or no experimental support for other core predictions, such as temporally limited RA after extensive HPC damage in semantic memory tasks, temporally limited RA for episodic memories after partial HPC damage, or the existence of storage of multiple HPC traces with repeated reactivations" ([same record](https://pubmed.ncbi.nlm.nih.gov/31584226/)). Despite those shortcomings, the authors note, it continues to be a highly cited hippocampal memory theory ([same record](https://pubmed.ncbi.nlm.nih.gov/31584226/)).
 
 An fMRI study of 18 young, healthy participants, published in PLoS One in 2012, reports a pattern consistent with the theory: hippocampal activation "decreased over time for initially episodic, later semantic memories, but remained stable for consistently episodic ones", at least in its posterior part, while memories becoming semantic over time consolidated through progressive hippocampal disengagement ([Harand et al., PLoS One 7(8), 2012, abstract](https://pubmed.ncbi.nlm.nih.gov/22937055/)). The participants learned a series of pictures and were scanned at two recognition sessions, 3 days and 3 months later ([same record](https://pubmed.ncbi.nlm.nih.gov/22937055/)).
 
 ### In the compendium
 
-- [[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention]] — inherited Field-block link (the principle's own page does not name this theory).
+- [[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention]] lists this theory as a psychology parallel.
 
 ## Related concepts
 

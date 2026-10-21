@@ -541,3 +541,23 @@
 - Round-2 resubmission: PENDING — the next worker/supervisor should run it (all round-1
   repairs are applied and pushed; the advisor's round-1 verdicts for 11 and 15 were
   'usable/pass after cleanup' and the cleanups are applied).
+
+## ITEMS-11-15 MILESTONE CLOSED (advisor round 2: all five scoped PASS) — 2026-10-21, worker-w1ab-2e9d1a4f
+- VERDICTS: Morphology PASS (done after citation cleanup); Movement snacks PASS for the
+  study description (LABEL HOLD, out of done); Multiple Trace Theory PASS (done after
+  cleanup); Needs-based intervention sequencing PASS for the self-concordance
+  explanation (NAMESPACE HOLD, out of done); Nembutsu recitation PASS (eligible for done).
+- Round-2 finish edits applied: the AT063 public audit commentary REMOVED (the finding
+  is recorded here and in the state flag; the Field block's original AT063 wikilink is
+  preserved unchanged — the anomalous-link finding: the CONCEPT page's Field block carries
+  the AT063 link, but AT063's own page does not name this theory; grep-verified);
+  citation placements added (Morphology 'No static concept' + 1790-essay sentences; MTT
+  nonhuman-animal-scope, most-supported-prediction and 'Despite those shortcomings'
+  sentences; Needs-based opening attribution).
+- MILESTONE RECORD: items 11-15 closed — scoped prose PASS; Movement snacks and
+  Needs-based intervention sequencing held. 15 pages handled this session-window:
+  8 newly completed + 7 source-bounded held WIP (Lazar, Memorized, Microbiome, Mixed
+  emotions, Mnemonics, Movement snacks, Needs-based) = manifest∩done 21/70 (recomputed
+  from the actual state, not copied arithmetic).
+- Five-file validation: --fast-track --base 4b2bebc4f: 5 checked, 0 failures, all
+  original wikilinks preserved.

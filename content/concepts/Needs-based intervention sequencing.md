@@ -7,7 +7,7 @@ file: "Needs-based intervention sequencing"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Sheldon and Elliot's self-concordance model, published in the Journal of Personality and Social Psychology in 1999, has as its key construct, in the abstract's words:
+Sheldon and Elliot's self-concordance model, published in the Journal of Personality and Social Psychology in 1999, has as its key construct, in the abstract's words ([JPSP 76(3), 1999, PubMed record](https://pubmed.ncbi.nlm.nih.gov/10101878/)):
 
 > "The self-concordance of goals (i.e., their consistency with the person's developing interests and core values) plays a dual role in the model. First, those pursuing self-concordant goals put more sustained effort into achieving those goals and thus are more likely to attain them. Second, those who attain self-concordant goals reap greater well-being benefits from their attainment." ([Sheldon & Elliot, JPSP 76(3), 1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10101878/))
 
