@@ -34,7 +34,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "K051": "Reopened for QC: QC: advisor round-1 FAIL \u2014 scope and quote-attribution repairs",
+  "K051": "Reopened for QC: QC: advisor round-1 FAIL — scope and quote-attribution repairs",
   "K065": "Reopened for QC: QC: advisor batch round-1 repairs",
   "M007": "Reopened for QC: QC: advisor batch round-1 repairs",
   "M008": "Reopened for QC: QC: advisor batch round-1 repairs",
@@ -46,11 +46,11 @@
   "MO022": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO025": "Reopened for QC: QC: advisor batch round-1 repairs (items 7-12)",
   "MO049": "Reopened for QC: QC: advisor items 13-16 repairs",
-  "PP013": "protected wikilink label 'Gratitude and well-being meta-analysis' mislabels Wood et al. 2010 (a review, not a meta-analysis) \u2014 label changes are validator-protected; supervisor/owner decision needed",
+  "PP013": "protected wikilink label 'Gratitude and well-being meta-analysis' mislabels Wood et al. 2010 (a review, not a meta-analysis) — label changes are validator-protected; supervisor/owner decision needed",
   "PP019": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
-  "PP043": "Reopened for QC: QC repair: For example replaced with labelled imagined illustration",
+  "PP043": "supervisor scoped verification (2026-10-21 15:25Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — For example is now an imagined illustration (concrete engineer example). Per the p1zm ledger.",
   "PP063": "Reopened for QC: QC repair: plain-words significance wording replaced with detection-claim wording",
-  "PP068": "Reopened for QC: QC repair: unverified p. 482 locator removed from abstract attribution",
+  "PP068": "supervisor scoped verification (2026-10-21 15:25Z, worker-verify-qcsup-67ce7e1d): repair verified applied on the current page — unverified p. 482 locator removed from abstract attribution (line 17 says 'abstract' with no page); the pp. 482-497 in the citation is the article's legitimate page range. Per the p1zm ledger.",
   "PP072": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
   "PP082": "Reopened for QC: QC: advisor items 17-22 repairs (session interrupted before final confirm)",
   "R018": "Reopened for QC: milestone QC repairs (advisor round: scope, attribution, examples, plain words)",
@@ -64,6 +64,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:26:19+00:00",
+ "updated": "2026-10-21T14:52:31+00:00",
  "band_done": true
 }
