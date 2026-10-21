@@ -1,6 +1,6 @@
 {
   "batch": "p1zzc",
-  "revision": 21,
+  "revision": 22,
   "reciprocal": [
     {
       "into": "Benign versus malicious envy",
@@ -109,6 +109,18 @@
       "link": "SP059",
       "why": "Generosity by reason's dictate is the Spinozist structural counterpart of metta: aid and friendship as stance, not mood.",
       "notes": "into=Metta (loving-kindness); grep SP059: 0; concept already linked from SP059 philosophy parallels; opening sections not inspected in this pass, flagged for supervisor QC"
+    },
+    {
+      "into": "Forgiveness",
+      "link": "SP066",
+      "why": "IV, P46's rule of answering hatred with kindness is Spinoza's structural counterpart to forgiveness interventions, and III, P43 supplies the mechanism they presuppose.",
+      "notes": "into=Forgiveness concept; grep SP066: 0; linked from SP066 psychology parallels (Worthington REACH); opening sections not inspected this pass, flagged for supervisor QC"
+    },
+    {
+      "into": "D129 — Repay injury with virtue",
+      "link": "SP066",
+      "why": "Confucius corrects the proposal to repay injury with kindness in kind; Spinoza's IV, P46 gives the same correction with a stated mechanism, hatred quenched by love.",
+      "notes": "into=D129 principle; grep SP066: 0; the SP066 philosophy parallel links a renamed variant of this page; opening sections not inspected this pass, flagged for supervisor QC"
     }
   ]
 }
