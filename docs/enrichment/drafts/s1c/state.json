@@ -325,7 +325,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-012": {
+   "status": "ready",
+   "angle": "D098/D108: Ziyu's crooked body and Zilai's smith (Zhuangzi 6, Eno + Legge)",
+   "history": [
+    {
+     "t": "2026-10-21T12:22:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:22:40+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:22:40+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: all quotations string-checked incl. curly apostrophes"
+    },
+    {
+     "t": "2026-10-21T12:22:40+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:21:44+00:00"
+ "updated": "2026-10-21T12:22:40+00:00"
 }
