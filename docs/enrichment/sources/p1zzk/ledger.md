@@ -38,3 +38,5 @@
 - Opened (search excerpts): Whillans 2016 abstract (HBS); Hershfield 2016 PDF abstract; ScienceDaily on Whillans 2017; Harvard Magazine. Seed's "predicts well-being more strongly than material wealth" not supported (sources are about a preference, controlled for time affluence; correlational). Mogilner & Norton 2016 not opened. Weekend-job anecdote dropped.
 ## PP083 — well-being as practice
 - Opened (search excerpts): Panarchy.org Rogers excerpt (quote verbatim, 1953 essay in 1961 book); PMC8608581 (pp. 186-187 cite); Ryff 1989 PDF opening pages. Book itself not opened. "Practices maintained/varied" is the compendium's inference. Walking-couple anecdote dropped.
+## R017 — connection to spirituality
+- Opened (search excerpts): Bond University record of Gee et al. 2014; Kilcullen et al. JCU accepted manuscript (sample not seen); Queensland Health SEWB card guide. Seed attributes chapter to "Dudgeon et al., 2014" but chapter author is Gee et al.; editors are Dudgeon, Milroy, Walker. Chapter text not opened; "Dreaming as living reality" and fisherman anecdote unverified/dropped. Locator may need updating to Gee et al.
