@@ -46,7 +46,7 @@ Illustrative scenario, not a reported study result: imagine that checking a phon
 
 ## Sources
 
-- [B. F. Skinner, Science and Human Behavior (1953), PDF hosted by the B. F. Skinner Foundation](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — the definition of operant, operant conditioning as strengthening by probability, the environment building the basic repertoire (pp. 64-66).
+- [B. F. Skinner, Science and Human Behavior (1953), Chapter V "Operant Behavior", PDF hosted by the B. F. Skinner Foundation](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — the definition of operant and operant conditioning as strengthening (p. 65), the environment building the basic repertoire (p. 66).
 - Ferster & Skinner, Schedules of Reinforcement (1957) (seed citation).
 - Skinner, 1953 (seed citation, linked above).
 

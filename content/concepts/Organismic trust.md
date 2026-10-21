@@ -7,7 +7,7 @@ file: "Organismic trust"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-The seed names the finding behind this trust: when goals match a person's developing interests and core values, well-being follows. The research line is Sheldon and Elliot's self-concordance model (1999), an application of self-determination theory to personal goals; the trust is the wager it licenses, that one's own reactions are data worth consulting before adopting a goal.
+The seed names the research line behind this label: Sheldon and Elliot's self-concordance model (1999), an application of self-determination theory to personal goals. The page follows the sense the citing principle uses, trust in one's own nature consulted in the choice of goals.
 
 ### Goals that fit the person
 

@@ -24,7 +24,7 @@ Augustine's own explanation of why the grief reached "my very inmost soul" is th
 - [[Non-attachment]] — the contemplative counter-practice aimed at exactly this suffering.
 - [[Nonattachment]] — the Buddhist analysis of the same grip, from the other side.
 - [[Attachment theory]] — the developmental science of early bonds; a different register from the absolute object described here.
-- [[Attachment security]] — the secure pattern of those bonds, the far end of the spectrum.
+- [[Attachment security]] — the secure pattern of the bonds studied in attachment research.
 
 ## Sources
 

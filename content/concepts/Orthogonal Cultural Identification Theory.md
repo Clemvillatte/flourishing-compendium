@@ -13,11 +13,19 @@ A theory of cultural identity: identification with each culture is its own dimen
 
 ### Origin
 
-The theory comes from research on Native American and Mexican American youth, published by Eugene Oetting and Fred Beauvais in 1990-91 in the International Journal of the Addictions.
+The theory was presented by Eugene R. Oetting and Fred Beauvais, from research on Native American and Mexican American adolescents, published in the International Journal of the Addictions in 1990 (25(5A-6A):655-85).
 
 ### Core claims
 
-The theory's form is a measurement model turned world-view: because the dimensions are independent, any combination is possible. A person may hold a single identity, be strongly bicultural, lean to one culture, or identify weakly with any. The studies behind the abstract reported three findings: identification with Anglo culture tracked having Anglo friends and family acceptance of an Anglo marriage; identification with either culture was "a source of personal and social strength"; and that strength "does not translate automatically into less drug use", which followed the identified culture's own stance on drugs ([Oetting & Beauvais, 1990](https://pubmed.ncbi.nlm.nih.gov/2101397/)).
+The studies behind the abstract reported three findings:
+
+> "identification with either the minority or the majority culture is a source of personal and social strength" — but "this greater strength, however, does not translate automatically into less drug use, because drug use is related to how much the culture that the person identifies with approves or disapproves of drugs." — [Oetting & Beauvais (1990), abstract](https://pubmed.ncbi.nlm.nih.gov/2101397/)
+
+The abstract also reports that identification with Anglo (White American) culture tracked having Anglo friends and family acceptance of an Anglo marriage. These are findings from the studies, distinct from the theory's definitional claim above.
+
+### How the model works
+
+The theory's form is a measurement model: identification with each culture is scored on its own dimension. Because the dimensions are independent, any combination is possible: a single identity, strongly bicultural, leaning to one culture, or identifying weakly with any. The model replaces a continuum, where cultures sit at opposite ends and more of one means less of the other.
 
 ### In everyday life
 

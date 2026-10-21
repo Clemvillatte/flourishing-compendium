@@ -143,17 +143,12 @@
   {
    "into": "Classical conditioning theory",
    "link": "Operant conditioning (Skinner)",
-   "why": "Pavlov's respondent conditioning, the other half of the pair"
+   "why": "the conditioning theory Skinner's operant account is kept distinct from"
   },
   {
    "into": "Learned optimism",
    "link": "Optimistic explanatory style",
    "why": "explaining bad events as temporary, specific and changeable"
-  },
-  {
-   "into": "Learned Helplessness Theory",
-   "link": "Optimistic explanatory style",
-   "why": "the research line the explanatory-style work came out of"
   },
   {
    "into": "Attribution theory",
@@ -188,22 +183,7 @@
   {
    "into": "Person-organization fit",
    "link": "Organizational research",
-   "why": "the meta-analysis weighing this fit"
-  },
-  {
-   "into": "Self-concordance theory",
-   "link": "Organismic trust",
-   "why": "the research programme behind trusting one's reactions in goal choice"
-  },
-  {
-   "into": "Autonomous motivation",
-   "link": "Organismic trust",
-   "why": "the motive profile of goals that fit the person"
-  },
-  {
-   "into": "Self-determination",
-   "link": "Organismic trust",
-   "why": "the wider theory the self-concordance model applies"
+   "why": "the fit research family this survey page maps"
   },
   {
    "into": "Bicultural identity integration",
@@ -244,51 +224,6 @@
    "into": "Burnout",
    "link": "Perfectionism research",
    "why": "an outcome the perfectionism literature connects to the trait"
-  },
-  {
-   "into": "Koan practice",
-   "link": "One koan",
-   "why": "the single assigned breakthrough koan, the Rinzai entry into this practice"
-  },
-  {
-   "into": "The unanswerable koan",
-   "link": "One koan",
-   "why": "why these words resist reasoned answers"
-  },
-  {
-   "into": "Anapanasati (mindfulness of breathing)",
-   "link": "One principle at a time",
-   "why": "the single object held in Buddhist practice"
-  },
-  {
-   "into": "One koan",
-   "link": "One principle at a time",
-   "why": "the Zen form of holding one thing"
-  },
-  {
-   "into": "Habit stacking",
-   "link": "One principle at a time",
-   "why": "small behaviours attached to stable cues"
-  },
-  {
-   "into": "Belief as habit",
-   "link": "Obstruction as stimulus",
-   "why": "the material that obstruction works on"
-  },
-  {
-   "into": "Inquiry",
-   "link": "Obstruction as stimulus",
-   "why": "the activity a hitch sets off"
-  },
-  {
-   "into": "Insight problem-solving",
-   "link": "Obstruction as stimulus",
-   "why": "the experimental side of the same shift"
-  },
-  {
-   "into": "Antifragility",
-   "link": "Obstruction as stimulus",
-   "why": "a modern comparison, retained as comparison"
   }
  ],
  "inline": [
