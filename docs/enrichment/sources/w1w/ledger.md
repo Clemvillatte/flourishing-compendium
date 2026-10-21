@@ -662,3 +662,10 @@
   midwife, Tacit knowledge research, Social Impact Theory, The
   approval trap). Known gap remains: reciprocal proposals for items
   1-17 never written (flagged earlier in ledger).
+
+## Flags recorded (2026-10-21, T+56, worker-w1m-7c9e2a54)
+
+- "That thou art, read relationally": SEED MISCHARACTERIZATION —
+  relational reading is Ramanuja's, not Shankara's (see Item 38).
+- "Tat tvam asi": seed's "the ethical interpretation" / "the series'
+  Book I" citation lines vague and ungrounded (see Item 36).
