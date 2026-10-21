@@ -8,13 +8,25 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Savoring is the capacity to attend to, appreciate, and amplify positive experience — the deliberate up-regulation of good feeling by directing attention to emotionally relevant events in the past (reminiscence), the present (savoring proper), and the future (anticipation) ([Bryant, Oxford Research Encyclopedia entry](https://academic.oup.com/reference/62403/reference-article/555481967); [Bryant & Veroff, 2007, via Wikipedia summary](https://en.wikipedia.org/wiki/Savoring)). It was introduced as a construct by Fred Bryant in the 1980s precisely because psychology had mapped misery in fine detail and had almost nothing to say about how people enjoy; a 2024 review of nine randomised trials in adults with mental or physical health difficulties found savouring-based interventions promoted some positive changes — increased well-being, reduced depression and anxiety — with benefits clearer against no-intervention controls than active ones ([Springer systematic review of savouring interventions](https://link.springer.com/article/10.1007/s41042-024-00182-1)).
+Savoring is the capacity to attend to, appreciate, and amplify positive experience: the deliberate up-regulation of good feeling by directing attention to emotionally relevant events in the past (reminiscence), the present (savoring proper), and the future (anticipation) ([Bryant, Oxford Research Encyclopedia entry](https://academic.oup.com/reference/62403/reference-article/555481967); [Bryant & Veroff, 2007, via Wikipedia summary](https://en.wikipedia.org/wiki/Savoring)). It was introduced as a construct by Fred Bryant in the 1980s precisely because psychology had mapped misery in fine detail and had almost nothing to say about how people enjoy; a 2024 review of nine randomised trials in adults with mental or physical health difficulties found savouring-based interventions promoted some positive changes (increased well-being, reduced depression and anxiety), with benefits clearer against no-intervention controls than active ones ([Springer systematic review of savouring interventions](https://link.springer.com/article/10.1007/s41042-024-00182-1)).
 
-The mechanism is attention, not acquisition: the savoring person does not add anything to life but stops the good moment from passing unnoticed — which is why the compendium treats it as the positive-side twin of mindfulness ([[AF062 — Savour positive experiences — deliberately attend to and amplify them]]; [[PP012 — Savor positive experience]]). Its enemies are hurry and adaptation: [[Hedonic adaptation]] flattens repeated pleasures, and distraction dissolves them ([[D180 — Delight in the ordinary]] is the counter-move; [[P179 — Close the loop with savoring and review]] gives it a practice slot).
+The mechanism is attention, not acquisition: the savoring person does not add anything to life but stops the good moment from passing unnoticed, which is why the compendium treats it as the positive-side twin of mindfulness. Its enemies are hurry and adaptation: [[Hedonic adaptation]] flattens repeated pleasures, and distraction dissolves them.
 
-The distinction to hold: savoring is not pleasure-chasing. Chasing happiness directly produces less of it ([[D092 — Don't chase happiness directly]]); savoring is attention to what is already here — the coffee, the conversation, the finished task — and gratitude is its memory form ([[X011 — Bank gratitude for past pleasures, and draw on it in need]]; [[Gratitude]]).
+The compendium's principles carrying it:
 
-An example at its smallest: the evening review asks for one moment worth keeping, and then three breaths' attention to it — remembered, named, and let go ([[K157 — Evening review]]). The three-time rule: a pleasure savored in anticipation, in the moment, and in retrospect is lived three times ([[ST306 — Tim Lives Each Day Twice]]).
+- [[AF062 — Savour positive experiences — deliberately attend to and amplify them]]
+- [[PP012 — Savor positive experience]]
+- [[D180 — Delight in the ordinary]] — the counter-move against distraction
+- [[P179 — Close the loop with savoring and review]] — gives it a practice slot
+
+The distinction to hold: savoring is not pleasure-chasing. Chasing happiness directly produces less of it ([[D092 — Don't chase happiness directly]]); savoring is attention to what is already here (the coffee, the conversation, the finished task), and gratitude is its memory form.
+
+- [[X011 — Bank gratitude for past pleasures, and draw on it in need]]
+- [[Gratitude]]
+
+An example at its smallest: the evening review asks for one moment worth keeping, and then three breaths' attention to it: remembered, named, and let go ([[K157 — Evening review]]). The three-time rule: a pleasure savored in anticipation, in the moment, and in retrospect is lived three times.
+
+- [[ST306 — Tim Lives Each Day Twice]]
 
 ## Other formulations in this library
 
@@ -38,6 +50,9 @@ An example at its smallest: the evening review asks for one moment worth keeping
 - [[Death reflection]] — the specific, vivid contemplation of one's own death vs abstract mortality salience (Cozzolino 2006)
 ## Sources
 
+- [Bryant, F. B. "Savoring." Oxford Research Encyclopedia of Psychology](https://academic.oup.com/reference/62403/reference-article/555481967)
+- Bryant, F. B., & Veroff, J. (2007). Savoring: A New Model of Positive Experience. Lawrence Erlbaum. [Wikipedia summary](https://en.wikipedia.org/wiki/Savoring)
+- [Springer systematic review of savouring interventions (2024)](https://link.springer.com/article/10.1007/s41042-024-00182-1)
 - Bryant and Veroff, 2007
 - Bryant, 1989
 

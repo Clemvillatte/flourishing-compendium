@@ -381,3 +381,17 @@
   commentary; the numbered sutra 2.42 itself was not extractable from
   that page (extraction), hence the sutra quoted from wisdomlib.
 - Normal validator: ok. State recorded (done count 25).
+
+## Item 28: Savoring (2026-10-21, worker-w1m-7c9e2a54)
+
+- SKIP-AHEAD REPAIR: the seed page was already a full enriched page
+  (pre-batch work) but failed the normal validator: 16 dashes in prose
+  (principle links with em-dash titles embedded in prose paragraphs) and
+  no http URL in Sources.
+- Repairs: the three prose paragraphs restructured so principle links
+  sit in bullet lists (every [[link]] preserved, none deleted); Sources
+  given the Bryant ORE entry, Wikipedia summary, and 2024 Springer review
+  URLs already cited inline by the page; seed citation lines kept. No
+  prose content rewritten beyond the restructuring; the page's own claims
+  (Bryant definition, 2024 review) were already inline-cited with URLs.
+- Normal validator: ok. State recorded (done count 26).
