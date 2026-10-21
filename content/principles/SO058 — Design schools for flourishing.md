@@ -10,22 +10,51 @@ number: "58"
 navigation: {"track": "philosophy", "primaryPath": ["NAV-PHILOSOPHY", "NAV-PHIL-PP"], "alternatePaths": []}
 legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocultural", "chapter": "SO-S06 — LAYER VI — INSTITUTIONAL AND ECOLOGICAL DESIGN", "parent": ""}
 ---
+
 > **Principle 58** — Design schools for flourishing
 
-Design schools for adaptive flourishing. The evidence: belonging interventions improve achievement (Walton and Cohen, 2011); social-emotional learning improves academic and life outcomes (Durlak et al., 2011); growth-mindset interventions improve achievement for at-risk students (Yeager et al., 2019).
+Design schools for adaptive flourishing. Two of the intervention lines the principle draws on show how small, well-placed design changes move student outcomes.
 
-**Plain words** Schools can be designed for flourishing — belonging improves achievement, social-emotional learning improves everything, growth-mindset interventions help. Education isn't just content delivery; it's environment design for developing humans.
+Walton and Cohen's randomized trial worked on how students read early college adversity:
 
-*For example:* The school that spent the first week on belonging exercises — "everyone's new here, everyone struggles" — and watched the failure rate drop. The algebra didn't change; the feeling of being alone in it did.
+> The intervention aimed to lessen psychological perceptions of threat on campus by framing social adversity as common and transient. (Walton & Cohen, 2011, abstract)
+
+> The results suggest that social belonging is a psychological lever where targeted intervention can have broad consequences that lessen inequalities in achievement and health. (Walton & Cohen, 2011, abstract)
+
+Yeager and colleagues' national experiment tested a short online growth-mindset treatment:
+
+> Here we show that a short (less than one hour), online growth mindset intervention-which teaches that intellectual abilities can be developed-improved grades among lower-achieving students and increased overall enrolment to advanced mathematics courses in a nationally representative sample of students in secondary education in the United States. (Yeager et al., 2019, abstract)
+
+The same study found the effect depends on the environment around the treatment:
+
+> Notably, the study identified school contexts that sustained the effects of the growth mindset intervention: the intervention changed grades when peer norms aligned with the messages of the intervention. (Yeager et al., 2019, abstract)
+
+That context condition is the design point: an intervention lands where the school's daily norms already point the same way.
+
+**Plain words** A school teaches two things at once: the subject on the board, and what the day's structure tells students about themselves. The second one decides how a struggling student reads the struggle: as proof they do not belong, or as a stage everyone passes through. That reading can be touched directly, sometimes by something as small as older students' accounts of finding it hard at first. But the reading is also set by the environment: what peers treat as normal, what feedback rewards. Design the environment and the small interventions stop being drops in a bucket.
+
+*For example (imagined):* A school runs a first-week exercise built from older students' accounts of early struggle: nearly everyone found it hard at first, and it got better. The algebra does not change; the meaning of finding it hard does.
+
 ## Psychology parallels
 
--  (2011) on belonging interventions; Durlak et al. (2011) on social-emotional learning; Yeager et al. (2019) on growth mindset; the school-climate literature (Thapa et al., 2013); the Zone of Proximal Development (Vygotsky, 1978).
+- Walton and Cohen (2011) on belonging interventions; Durlak et al. (2011) on social-emotional learning; Yeager et al. (2019) on growth mindset; the school-climate literature (Thapa et al., 2013); the Zone of Proximal Development (Vygotsky, 1978).
 
 ## Philosophy parallels
 
-- Vygotsky — the ZPD — Thinker: Vygotsky — Reference: Vygotsky (1978). Dewey — education as growth — Thinker: Dewey — Reference: Dewey (1916).
-- **Other:**, **EEMM link:** School design is the sociocultural context's most direct influence on child and adolescent development.
+- Vygotsky, the ZPD (Vygotsky, 1978). Dewey, education as growth (Dewey, 1916).
+- School design is the sociocultural context's most direct influence on child and adolescent development.
 
 ## Practice
 
 - In teaching, build belonging and psychological safety. In curriculum, include social-emotional learning. In assessment, use mastery-oriented rather than performance-oriented feedback.
+
+## Related concepts
+
+- [[Growth mindset]] — the belief the national experiment taught
+- [[Psychological safety]] — the classroom-level precondition
+- [[Mastery orientation]] — the assessment-side counterpart
+
+## Sources
+
+- Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves academic and health outcomes of minority students. Science, 331(6023), 1447-1451. [Abstract (PubMed)](https://pubmed.ncbi.nlm.nih.gov/21415354/)
+- Yeager, D. S., et al. (2019). A national experiment reveals where a growth mindset improves achievement. Nature, 573(7774), 364-369. [Abstract (PubMed)](https://pubmed.ncbi.nlm.nih.gov/31391586/)
