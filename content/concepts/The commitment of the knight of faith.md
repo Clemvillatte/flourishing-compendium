@@ -36,7 +36,7 @@ The description of the knight is domestic: "he is lying on his elbows in the win
 
 ## Related concepts
 
-- [[The leap of faith]] — the movement the knight makes, in Kierkegaard's vocabulary
+- [[The leap of faith]]
 - [[The Great Death]] — Hakuin's staged Zen training; a comparison, not an influence
 
 ## Sources

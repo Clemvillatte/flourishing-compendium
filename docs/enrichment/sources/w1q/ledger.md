@@ -327,3 +327,10 @@ damage, w1ab left to its live holder.
   the phrase as either author's term" (flag + ledger); my entries' timestamps replaced
   with git commit timestamps; IEP passages noted as the encyclopedia author's prose
   except the marked Augustine words.
+
+## 5-ITEM MILESTONE CLEARED (advisor scoped PASS) — 2026-10-21T15:52Z, worker-pplxy-7f3d1a9c
+- Knight of faith: leap-of-faith Related gloss reduced to a bare link (seed-only
+  target; "Kierkegaard's vocabulary" not established by opened sources). Scoped PASS
+  recorded for the checked quotations, repairs, and link glosses.
+- Commonwealth of the good: scoped PASS; Category C caveat recorded as an
+  interpretive disclosure, not an unresolved QC failure.
