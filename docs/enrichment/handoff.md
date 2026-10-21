@@ -34,7 +34,7 @@
   correctly distinguishes the consulted-but-removed definition from the
   retained Abstract-locator quote; agrees with the final page.
 
-### Band p1zzg checkpoint — 2026-10-21 06:53 UTC (26/30 done)
+### Band p1zzg checkpoint — 2026-10-21 06:46 UTC verified (25/30 done; the 26/30 count in this heading was a miscount, corrected)
 - SP007 done: Ethics II Prop. VII + Note quoted verbatim (Elwes, Gutenberg
   #3800, opened); therapy claim labelled the compendium's own gloss;
   QC pending — next worker presents SP007 and SO063's ledger for review.
