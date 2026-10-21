@@ -27,5 +27,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-019 | Angulimala Is Told to Bear the Stones (MN 86; Thanissaro, Sujato) | B104, B107 | ready |
 | s1c-020 | The Old Cart at Beluva (DN 16; Vajira-Story, Sujato) | B194, B195 | ready |
 | s1c-021 | Six Monks Answer in the Brick Hall (AN 6.19; Thanissaro, Sujato) | B193 | ready |
+| s1c-022 | Marshall Drinks the Broth (Nobel Lecture 2005) | P022, P017 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
