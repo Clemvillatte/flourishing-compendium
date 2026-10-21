@@ -19,7 +19,7 @@ In the translated text, the vocabulary of heritage, fate and destiny is spelled 
 
 ### Gadamer: situatedness and horizon
 
-Stanford's Gadamer entry carries the idea into interpretation. understanding "always occurs from within a particular 'horizon' that is determined by our historically-determined situatedness", and "understanding, for Gadamer, is thus always an 'effect' of history" ([Stanford Encyclopedia of Philosophy, Gadamer](https://plato.stanford.edu/entries/gadamer/)). See [[Historical consciousness]] for the further steps.
+Stanford's Gadamer entry carries the idea into interpretation: understanding "always occurs from within a particular 'horizon' that is determined by our historically-determined situatedness", and "understanding, for Gadamer, is thus always an 'effect' of history" ([Stanford Encyclopedia of Philosophy, Gadamer](https://plato.stanford.edu/entries/gadamer/)). See [[Historical consciousness]] for the further steps.
 
 ### Cautions
 
