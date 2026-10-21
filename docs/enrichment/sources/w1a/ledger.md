@@ -309,3 +309,6 @@ staged by the save script).
 
 ### 2026-10-21 — worker-w1a-5e8a3c7f
 - COMPLETED last manifest item "Participate in the world's becoming" (Whitehead, Process and Reality, degree 18, normal track). Quotes verified verbatim against the opened corrected-edition PDF (palmyreoomen.nl); folios corrected: Category of the Ultimate p. 21, Categories of Explanation p. 22 (Part I ch. II "The Categoreal Scheme"); "adventure of self-formation" p. 308 (Part IV ch. III "Flat Loci", not 309); "nature is never complete" p. 289 (Part IV ch. I, not 315). Advisor QC round 1: interpretive bridge marked as application, actual-occasion/life distinction kept, chapter title fixed. FLAGGED for supervisor: P153 cites the "Nature is never complete" quote as p. 315 — actual corrected-edition folio is p. 289; principle fix needed outside concept band. w1a manifest now fully done.
+
+### 2026-10-21 — worker-sup-5e8a3c7f (supervisor follow-up)
+- P153 check RESOLVED: P153 cites Part IV Ch. I "Coordinate Division" without a page number — no error in the principle; my earlier "p. 315" flag was my own misreading (no such citation exists in P153). Corrected folios recorded above stand for any future page-numbered citation.

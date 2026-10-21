@@ -12,7 +12,7 @@ Item completed by worker-w1a-5e8a3c7f. Page: content/concepts/Participate in the
 - "adventure of self-formation" passage — Part IV, ch. III "Flat Loci", printed p. 308 (NOT 309; the "309" footer belongs to the following page; form-feed check confirms the passage sits on the p. 308 leaf).
 - "Nature is never complete... This is the creative advance of nature." — Part IV, ch. I "Coordinate Division", printed p. 289 (the [443] marker is 1929 pagination).
 
-## FLAG FOR SUPERVISOR (do not edit principle under concept-band baton)
-- P153 — Participate in the world's becoming cites the "Nature is never complete" quote as Part IV, Ch. I, p. 315. In the opened corrected edition this passage is on printed p. 289 (ch. I ends before p. 290). P153's locator appears wrong for the corrected edition; needs a principle-band worker or supervisor to fix.
+## FLAG FOR SUPERVISOR (resolved 2026-10-21, worker-sup-5e8a3c7f)
+- CHECKED P153 directly: it cites Part IV, "The Theory of Extension", Ch. I, "Coordinate Division" with NO page number — the citation is correct as it stands; no principle fix needed. (The "p. 315" in my earlier commit message was my own error — no such page citation exists in P153.) If a page number is ever added, the corrected-edition folio for this passage is p. 289.
 - Part I, ch. II's chapter title is "The Categoreal Scheme" (running headers alternate with the Part title "Speculative Philosophy" / "The Speculative Scheme"); any citation saying "The Speculative Scheme" as chapter name is imprecise.
 - No Whitehead entry exists in docs/PRIMARY-SOURCES.md; the palmyreoomen corrected-edition PDF is the direct carrier used (per ledger, other leads stale).
