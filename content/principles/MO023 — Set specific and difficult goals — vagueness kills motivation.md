@@ -13,7 +13,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 > **Principle 23** — Set specific and difficult goals: vagueness kills motivation
 
 
-Goal-setting theory comes from decades of experiments. Locke and Latham's review of 35 years of research covers the theory's "core findings", the mechanisms by which goals operate, the moderators of goal effects, and its limitations (American Psychologist 57(9):705-717, [abstract](https://pubmed.ncbi.nlm.nih.gov/12237980/)). I read only the abstract, not the full paper, so the details below come from other sources.
+Goal-setting theory comes from decades of experiments. Locke and Latham's review of 35 years of research covers the theory's "core findings", the mechanisms by which goals operate, the moderators of goal effects, and its limitations (American Psychologist 57(9):705-717, [abstract](https://pubmed.ncbi.nlm.nih.gov/12237980/)). Only the abstract was opened, not the full paper, so the details below come from other sources.
 
 One of those sources is a meta-analysis of group goals (Kleingeld, van Mierlo and Arends 2011, J Applied Psychology 96(6):1289-1304). It found that "specific difficult goals yield considerably higher group performance compared with nonspecific goals" (d = 0.80, k = 23). Moderately difficult and easy goals also helped, "but these effects were smaller" ([abstract](https://pubmed.ncbi.nlm.nih.gov/21744940/)). The same abstract warns that individual goals aimed at maximising personal performance did badly inside interdependent groups (d = -1.75, k = 6).
 

@@ -13,7 +13,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 > **Principle 67** — Recognise ADHD and motivation: interest-based, not importance-based
 
 
-Research on ADHD and motivation exists, but "interest-based, not importance-based" is a popular phrase, and I did not find it as a defined measure in the sources I opened. What those sources show is narrower.
+Research on ADHD and motivation exists, but "interest-based, not importance-based" is a popular phrase, and the opened sources do not present it as a defined measure. What those sources show is narrower.
 
 Reward timing. The World Federation of ADHD consensus statement, built from large studies and meta-analyses, reports in statement 65 that "Two meta-analyses, one with 21 studies and over 3,900 participants, the other with 15 studies with over a thousand participants, found that those diagnosed with ADHD have a moderate tendency to favor small immediate rewards over large delayed rewards" (Faraone et al. 2021, Neurosci Biobehav Rev 128:789-818, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8328933/)). That fits a pull toward the immediate over the important-but-distant.
 
@@ -21,7 +21,7 @@ Brain reward systems. A PET study of 45 adults with ADHD and 41 controls found a
 
 Stigma. The consensus statement's stated aim is to challenge misconceptions that "stigmatize affected people" and "prevent/delay treatment" (same source).
 
-**Plain words** For many people with ADHD, rewards that are far away feel weak, and tasks that offer nothing now are hard to start. Adding an immediate payoff or outside structure is a common suggestion, though the sources I opened do not test it. A clinician can assess whether ADHD is the cause.
+**Plain words** For many people with ADHD, rewards that are far away feel weak, and tasks that offer nothing now are hard to start. Adding an immediate payoff or outside structure is a common suggestion, though the opened sources do not test it. A clinician can assess whether ADHD is the cause.
 
 *For example:* This is an imagined case. An adult with ADHD works through a dull report in a library next to a friend who is also working, with a timer on. The task has an immediate structure that its distant deadline lacks.
 
