@@ -22,6 +22,7 @@ The Nonattachment Scale is a 30-item self-report measure of how nonattachment ap
 ## Related concepts
 
 - [[Cognitive flexibility]]
+- [[Non-attachment]] — the companion page for the same construct
 - [[Attachment theory]]: the interpersonal construct distinguished from nonattachment in the original scale paper ([Sahdra et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
 
 ## Sources
