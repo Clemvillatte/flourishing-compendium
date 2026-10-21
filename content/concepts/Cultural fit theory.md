@@ -7,7 +7,7 @@ file: "Cultural fit theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Cultural fit theory holds that a person's well-being depends less on their absolute values than on how well those values match the values of the people around them. The strongest opened test is Paul Hanel and colleagues' 2020 study in Nature Communications, which measured value congruence across 29 countries.
+Cultural fit theory is the claim that a person's well-being tracks how well their values match the values of the people around them. The strongest opened test is Paul Hanel and colleagues' 2020 study in Nature Communications, which measured value congruence across 29 countries.
 
 > "Using representative samples, we find that person-country and person-region value congruence predict six well-being measures (e.g., emotional well-being, relationship support; N = 54,673)." (Hanel et al. 2020, [Nature Communications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/))
 
@@ -20,7 +20,7 @@ The study's fine print matters for the theory. Value type moderates the directio
 ## Related concepts
 
 - [[Cultural embeddedness]] — the communitarian argument that culture constitutes the self
-- [[Cultural dimensions theory Hofstede]] — the value framework the fit studies use
+- [[Cultural dimensions theory Hofstede]] — a value framework used in cross-cultural research, listed for comparison
 - [[Person-organization fit]] — the workplace branch of the same fit idea
 - [[Congruence]] — Rogers' term for the matching of self and experience
 

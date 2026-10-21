@@ -11,7 +11,7 @@ Cybernetic Big Five Theory is Colin DeYoung's account of what the Big Five trait
 
 > "CB5T is an explanatory theory based on the best established model of personality structure, the Five-Factor Model or Big Five. Cybernetics is the study of principles governing goal-directed, adaptive mechanisms, whether those be thermostats or missile-guidance systems or animals. CB5T applies these principles to understand personality traits as reflections of variation in the parameters of evolved cybernetic mechanisms within the mind and brain" (DeYoung, Carey, Krueger & Ross 2016, [PMC4818974](https://pmc.ncbi.nlm.nih.gov/articles/PMC4818974/))
 
-The same paper calls the theory "the most extensive attempt to date" to link "each of the Big Five to variation in evolved mechanisms for the pursuit of goals, such as systems designed to respond to reward or to detect errors". The theory's reach is wide: its authors apply it to personality disorder, on the ground that it offers mechanistic explanations of the ten factors measured by the Big Five Aspect Scales, where the descriptive model offers only labels.
+The same paper calls the theory "the most extensive attempt to date" to link "each of the Big Five to variation in evolved mechanisms for the pursuit of goals, such as systems designed to respond to reward or to detect errors". The theory's reach is wide: its authors apply it to personality disorder, on the ground that it offers mechanistic explanations of the ten factors measured by the Big Five Aspect Scales.
 
 ### In the compendium
 
