@@ -255,3 +255,19 @@
   of the theory's use; ideal-gap/ought-gap diagnostic mapping grounded
   in the verified prediction passage.
 - Normal validator: ok. State recorded (done count 20).
+
+## Item 23: Self-conscious emotions (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: "Tracy et al., 2007" + "Tracy and Robins, 2004". Full rewrite.
+- Carrier opened: Tracy & Robins 2007, "Self-Conscious Emotions: Where
+  Self and Emotion Meet" — chapter PDF (rpforschools.net course copy).
+  Verified verbatim: the entry-requirement definition (including the
+  internal citation of Tracy & Robins 2004a), the full appraisal-steps
+  passage, the shame/guilt attribution contrast ("I'm a bad person" /
+  "I did a bad thing"), the embarrassment-needs-public-self sentence,
+  and the hubristic/achievement-oriented pride mirror passage.
+- The 2004 paper is quoted only as cited within the opened 2007 chapter
+  (attribution kept in-text); no unverified bibliographic details
+  asserted — a first-draft invented "Handbook of Self and Identity"
+  volume line was caught and removed before validation.
+- Normal validator: ok. State recorded (done count 21).
