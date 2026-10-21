@@ -16,17 +16,17 @@ Aristotle separates the two by what happens to choice and to regret. The self-in
 
 > The self-indulgent man, as was said, is not apt to repent; for he stands by his choice; but incontinent man is likely to repent. [...] wickedness is like a disease such as dropsy or consumption, while incontinence is like epilepsy; the former is a permanent, the latter an intermittent badness. And generally incontinence and vice are different in kind; vice is unconscious of itself, incontinence is not
 
-He adds that the incontinent person is "not a criminal; for he does not act of malice aforethought", and he is like a city that "passes all the right decrees and has good laws, but makes no use of them".
+He adds in VII.10 that the incontinent person is "not a criminal; for he does not act of malice aforethought", and he is like a city that "passes all the right decrees and has good laws, but makes no use of them".
 
-(NE VII.7-8.)
+(NE VII.7-8, VII.10.)
 
-**Plain words** Two people can do the same wrong thing from very different places. One still stands behind the right rule, breaks it, and feels the break. The other has made the wrong act their policy, so nothing in them objects. Aristotle's test is regret, together with whether the person knows what they are doing. Weakness comes and goes like a seizure, and a settled corruption stays. That is why a lapse should not be judged as if it were a rotten character.
+**Plain words** Two people can do the same wrong thing while judging it differently. One breaks a rule they still accept and regrets it. The other chooses the excess and considers that choice right. Aristotle distinguishes a failure to follow one's judgement from a settled mistaken judgement about what to pursue. His disease comparisons describe that difference; they are not modern clinical diagnoses. For reflection, ask about choice and regret before treating a lapse as the whole of someone's character.
 
-For example (imagined): two employees pad an expense claim. One does it after a hard month and winces every time the form comes up. The other treats it as a perk of the job. The act is the same, and the states behind it are not.
+As an analogy (imagined): two employees pad an expense claim. One regrets breaking a rule they accept. The other treats it as a rightful perk. The act is the same; the judgements behind it differ.
 
 ## Sources
 
-- [Aristotle, Nicomachean Ethics VII.7 and VII.8, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)
+- [Aristotle, Nicomachean Ethics VII.7, VII.8 and VII.10, trans. W. D. Ross, MIT Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.7.vii.html)
 
 ## Stories
 
