@@ -66,7 +66,8 @@
   "Incentive salience theory",
   "Information Manipulation Theory",
   "Information-gap theory of curiosity",
-  "Information-processing theory of cognitive development"
+  "Information-processing theory of cognitive development",
+  "Inhibitory learning model (Craske)"
  ],
  "in_progress": null,
  "flagged": {
@@ -74,5 +75,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 29,
- "updated": "2026-10-21T11:09:09+00:00"
+ "updated": "2026-10-21T11:09:40+00:00"
 }
