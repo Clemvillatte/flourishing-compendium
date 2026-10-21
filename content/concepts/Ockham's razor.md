@@ -36,6 +36,7 @@ The entry adds a caution: the assumption that the world is maximally simple is i
 ## Sources
 
 - [William of Ockham, Internet Encyclopedia of Philosophy, by Sharon Kaye](https://iep.utm.edu/ockham/) — the definition, the attribution history and Ockham's own formulation (section 2, "The Razor"), and the biographical dates (the entry's life discussion), quoted and paraphrased
+- [Thoreau, Walden (Gutenberg #205)](https://www.gutenberg.org/cache/epub/205/pg205.txt) — supports the Deliberate simplicity Related caption
 
 ## Cited in philosophy parallels
 

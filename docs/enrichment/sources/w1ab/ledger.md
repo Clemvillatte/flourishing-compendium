@@ -779,7 +779,7 @@
   freedom'); Berridge & Robinson 2016 PDF — title 'Liking, Wanting, and the Incentive-
   Sensitization Theory of Addiction', authors Kent C. Berridge and Terry E. Robinson,
   'Incentive salience or "wanting," a form of motivation' (caption grounded).
-  (b) REMOVED as unverifiable from URLs listed on the targets: the Asch majority-pressure
+  (b) REMOVED as not verified in this pass (no URLs listed on the target pages): the Asch majority-pressure
   finding (Conformity caption now 'the compendium's page on yielding to peers'); the
   bystander helping-drop finding (caption now 'the compendium's page on witnesses and
   helping'); the Brewer mindfulness-can-unwind treatment-effect claim (craving-to-addiction
@@ -794,3 +794,21 @@
   corrected. No new neighbors added.
 - Validation vs d1ba9c8f: 4 checked, 0 failures. Status: round-7 submission with the changed
   captions, the external excerpts and the validation result.
+
+## MILESTONE QC items 16-19 round 7 (advisor: final blockers -> applied; MILESTONE CLOSED) — 2026-10-21, worker-pxy1u
+- Round-8 advisor verdict: cores, baseline check, search logs and reciprocal wording scoped
+  PASS; two blockers applied: (a) the Dewey/Kant/Kierkegaard attributions REMOVED (bare
+  wikilinks), the Schopenhauer attribution, Conformity's 'yielding to peers', Moral situation
+  research's 'among its classics' and Obedience theory Milgram's 'theory side' reduced to
+  bare wikilinks; (b) the Thoreau paragraph read in FULL from the downloaded Walden text
+  ('I went to the woods because I wished to live deliberately, to front only the essential
+  facts of life, and see if I could not learn what it had to teach, and not, when I came to
+  die, discover that I had not lived.') — caption grounded; (c) the newly used evidence added
+  to the canonical Sources sections (Walden carrier on Ockham's razor; Bandura record and
+  Fromm ch. V excerpt on Obedience research; Berridge-Robinson, Schultz and Larimer records
+  on Neurobiology of addiction), each line recording what it supports; (d) ledger 'unverifiable'
+  labels corrected to 'not verified in this pass'.
+- Validation vs d1ba9c8f after all changes: 4 checked, 0 failures; retained factual captions
+  have their supporting URLs in the canonical files; milestone CLOSED as scoped verification
+  of the four revised pages and the proposal wording (linked target pages and proposal
+  application remain with the supervisor).

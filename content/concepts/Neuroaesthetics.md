@@ -23,9 +23,9 @@ The evidence the authors review shows that "aesthetic experiences emerge from th
 
 ## Related concepts
 
-- [[Consummatory experience]] — Dewey's concept from Art as Experience
-- [[Disinterested aesthetic pleasure]] — Kant's concept from the Critique of the Power of Judgment
-- [[The aesthetic]] — Kierkegaard's Either/Or usage of the same term
+- [[Consummatory experience]]
+- [[Disinterested aesthetic pleasure]]
+- [[The aesthetic]]
 - [[The self dissolving in aesthetic contemplation]] — a contemplative account of what it is like to be absorbed in something beautiful
 - [[K328 — Aesthetic attention]] — the attentional practice aimed at aesthetic experience
 

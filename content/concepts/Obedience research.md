@@ -21,11 +21,11 @@ The same record notes that the replication "has provided an initial demonstratio
 
 ## Related concepts
 
-- [[Conformity]] — the compendium's page on yielding to peers
+- [[Conformity]]
 - [[Moral disengagement research]] — Bandura's account of how moral self-sanctions get switched off
-- [[Moral situation research]] — the situationist literature that counts the obedience experiments among its classics
+- [[Moral situation research]]
 - [[Bystander effect theory Darley Latane]] — the compendium's page on witnesses and helping
-- [[Obedience theory Milgram]] — the same Milgram line from the theory side
+- [[Obedience theory Milgram]]
 - [[Escape from freedom]] — Fromm's account of why people surrender their freedom
 
 ## Sources
@@ -33,6 +33,8 @@ The same record notes that the replication "has provided an initial demonstratio
 - [Milgram, "Behavioral Study of Obedience", J Abnorm Psychol 67:371-8, 1963, PubMed record 14049516](https://pubmed.ncbi.nlm.nih.gov/14049516/) — the original paper's bibliographic record
 - [Burger, "Replicating Milgram: Would people still obey today?", Am Psychol 64(1):1-11, 2009, PubMed record 19209958](https://pubmed.ncbi.nlm.nih.gov/19209958/) — the partial replication's paradigm description and obedience-rate comparison, quoted verbatim from the abstract
 - [Elms, "Obedience lite", Am Psychol 64(1):32-6, 2009, PubMed record 19209962](https://pubmed.ncbi.nlm.nih.gov/19209962/) — a witness's appraisal of the original findings and the modern replication, quoted verbatim from the abstract
+- [Bandura, "Moral disengagement in the perpetration of inhumanities", Pers Soc Psychol Rev 3(3):193-209, 1999, PubMed record 15661671](https://pubmed.ncbi.nlm.nih.gov/15661671/) — supports the Moral disengagement research Related caption
+- [Fromm, Escape from Freedom, chapter V "Mechanisms of Escape" (excerpts)](https://www.panarchy.org/fromm/escapefreedom.html) — supports the Escape from freedom Related caption
 
 ## Cited in psychology parallels
 

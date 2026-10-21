@@ -31,13 +31,16 @@ Read plainly, the stages run from drug reward to drug distress to drug craving. 
 
 - [[Incentive salience theory]] — the Berridge-Robinson wanting theory; the review's definition uses the term "incentive salience"
 - [[The craving-to-addiction model]] — the compendium's model of craving and addiction
-- [[The insatiability of craving]] — the compendium's Schopenhauer page on craving
+- [[The insatiability of craving]]
 - [[Relapse prevention protocols]] — the protocol approaches relapse through cognitive-behavioural planning; the review describes addiction through neurocircuitry
 - [[Reward prediction error (Schultz)]] — midbrain dopamine neurons signaling reward prediction error
 
 ## Sources
 
 - [Koob & Volkow, "Neurobiology of addiction: a neurocircuitry analysis", Lancet Psychiatry 3(8):760-773, 2016, PubMed record 27475769](https://pubmed.ncbi.nlm.nih.gov/27475769/) — the three-stage framework and circuitry claims quoted verbatim from the abstract
+- [Berridge & Robinson, "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction", American Psychologist 71(8), 2016](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf) — supports the Incentive salience theory Related caption
+- [Schultz, "Dopamine reward prediction error coding", Dialogues Clin Neurosci 18(1), 2016, PMC4826767](https://pmc.ncbi.nlm.nih.gov/articles/PMC4826767/) — supports the Reward prediction error (Schultz) Related caption
+- [Larimer, Palmer & Marlatt, "Relapse Prevention: An Overview of Marlatt's Cognitive-Behavioral Model", Alcohol Res Health 23(2):151-160, 1999, PMC6760427](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) — supports the Relapse prevention protocols Related caption
 
 ## Cited in psychology parallels
 
