@@ -385,3 +385,6 @@ QC-closed).
 ### w1k "Attentional deployment theory" — quote fidelity PASS (verification pass)
 - Gross & Barrett 2011 sentence EXACT vs the opened PMC article (source italicizes
   "Attentional deployment"; wording verbatim).
+
+### w1k "Biopsychosocial model" — quote fidelity PASS (verification pass)
+- Engel 1977 abstract passage EXACT vs the opened Rochester-hosted PDF.
