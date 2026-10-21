@@ -760,3 +760,18 @@ Practice/parallels and their independent citations (inherited-reference
 exclusions recorded per ledger). Remaining manifest (10): SO036, SO042,
 SO050, SO063, SP007, SP017, SP021, SP022, SP025, SP028. Report deadline
 07:00 UTC (fixed). Full records: docs/enrichment/sources/p1zzg/.
+
+## p1zzg checkpoint (worker-p1zzg-f6a2bf71, 2026-10-21 ~06:37 UTC)
+
+Live state: 22/30 done (items marked done, not unconditional QC passes).
+Advisor-accepted prose: S132 (round-2 scoped PASS), S138 (items-2-5
+scoped pass), SE072, SO021, SO036, SO042 (post-repair SCOPED PASS),
+SE067 / SO005 / SO009 (consolidated post-repair SCOPED PASS). SE013:
+acceptance covers my quotation addition only. SE041: EXPLICITLY
+UNRESOLVED on the page/section locator (state flag; quote verified from
+the opened mirror; carriers attempted all failed). All scoped
+acceptances exclude preserved Practice/parallels and their independent
+citations (inherited-reference exclusions per ledger). Remaining
+manifest (8): SO050, SO063, SP007, SP017, SP021, SP022, SP025, SP028.
+Report deadline 07:00 UTC (fixed). Full records:
+docs/enrichment/sources/p1zzg/.
