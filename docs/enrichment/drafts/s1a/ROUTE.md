@@ -105,3 +105,13 @@
   s1a-025.md and s1a-026.md (round-3 scoped PASS; all checker-clean, quotes re-verified). Supervisor:
   re-run the registration sync (story_register.py or a manual narrative refresh) so the published pages
   match the final drafts. ST430 needs nothing.
+
+- 2026-10-21 ~13:2xZ, storyteller-pcx-7f3a2b1d: CROSS-LANE ANGLE AUDIT (for registration planning; no conflict
+  claimed — the conventions allow multiple stories per principle when recorded angles differ): s1b-009
+  (B192, Rahula root-text angle, ready) coexists with registered ST430 (Franklin, morning+evening
+  adaptation); s1b-010 (B043, Bahiya 'in the seen only the seen', ready) coexists with pending s1a-024
+  (Dipa Ma, insight-as-watching); s1b-011 (D065, jewel-in-the-robe, ready) and s1e-002 (D065, Casals
+  daily-return, ready) coexist with pending s1a-027 (Oxherding); s1e-003 (B176, Brother Lawrence,
+  qc_pending) coexists with registered ST432 (Jim Forest); s1f-002 (P187, Einstein telegram) overlaps
+  registered ST431 (Einstein) most closely — see the earlier note. All my targets were zero-story when
+  taken; the other lanes' drafts appeared concurrently.
