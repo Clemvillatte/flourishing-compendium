@@ -36,6 +36,29 @@
   artifact-repair round (citation placement, ledger fixes, saturation
   inspection, full PRIMARY-SOURCES read); the baton is HELD as of this
   checkpoint and will be released at the session's actual end.
+
+  CLOSEOUT UPDATE (rounds 3-5, commits e8924bf3b..15d79ffe8): the advisor's
+  artifact-level blockers were worked through five rounds. COMPLETED: MO044
+  duplication repaired; full sentence-citation audit (every factual sentence
+  across the five files now carries its established source link or is a
+  labelled exercise); MO053's stitched correlation quotation replaced by an
+  attributed paraphrase (no verbatim claim) and the withdrawal recorded in the
+  ledger with read-back; Schwartz locators verified against the PDF section
+  map (definitions = Study 1 Discussion; best-outcome question = introduction;
+  seven-samples = Study 1 Discussion); MO055 Plain words re-derived (progress
+  vs completion, within-person comparison, association not guarantee);
+  PRIMARY-SOURCES.md read in full; saturation outputs saved and inspected in
+  full (the Maximizing-versus-satisficing concept page already links MO053,
+  Control-theory already links MO055; no new reciprocals needed, reasons in
+  the ledgers); linked-page bodies read substantively (Joy, Wu wei, Eudaimonia
+  full bodies; the others' documented stubs). OUTSTANDING for the next
+  supervisor/agent: final artifact-level advisor confirmation of the round-5
+  repairs (the five files were re-validated 5/5 ok after each round; the
+  round-5 changes have not been re-reviewed); verify the repaired files read as
+  described; the two pending reciprocals in proposals/p1zza.json rev 8; the
+  The-progress-principle concept page's no-source-URL claim (supervisor
+  disposition); inherited flags and predecessor holds untouched; band_done
+  left FALSE.
 - CURRENT SUPERVISOR (2026-10-21 ~02:05Z, supervisor-df5053ec, LIVE — pass 1 in the OPERATIONS.md QC log, monitoring continues): took the STALE supervisor baton from worker-verify-8f4c21bd (40 min). Pass 1: dead-agent check (p1zza 24/30, p1zzb 23/30 with an SO045 in-progress marker, p1zzc 20/30 — all committed work verified on origin/main; batons stale = free for takeover); window health check ab3381aa3..HEAD (96 files, BE063 staging-in-quote repaired after re-opening the HBS record, build 5,737/fcAuthored 976); R092 sample PASS (all quotes re-verified vs opened sources); 103-reciprocal integration across 17 proposal files (pure-insertion delta verified, 43 post-apply FAILs all pre-existing seed conditions); routed-repair verification (SE058/SE053/SO010/E058 all landed); Y020/Y132 p1zy-route repairs applied (parentheticals verified vs raw Woods text, bhavita dropped, Arnold capitalization restored vs Gutenberg #2388, editing-log prose reader-facing); reserves p1zzg/p1zzh/p1zzi minted (three OPEN, queue@737d00da). NEXT SUPERVISOR ACTIONS: (1) sample the live p1zzf/w1aa workers' newest items; (2) the w1aa fast-track eligibility follow-up (partially certified, advisor directive); (3) standing owner dispositions: AF037 title, BI013≈BE037 / BI033≈BE042 near-duplicates; (4) p1zzb SO045 in-progress marker — next taker resumes there; (5) replenish reserves as claimed (p1zzg/h/i OPEN now). Git remote sanitized (token out of repo config).
   OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Pass 1:
   health check (window cd260f175..8f8eed42a, 58 files all ok, build 5,737/fcAuthored 976);
