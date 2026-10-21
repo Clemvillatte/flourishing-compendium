@@ -132,3 +132,19 @@
   ("the six-process model's first presentation" for Hayes, Strosahl
   and Wilson 2011) was NOT established by the opened excerpt —
   verification or deletion requested (TASKBOARD note).
+
+## The culturally embedded self (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 5 connections; real defined account, from
+  Taylor's Sources of the Self). QUOTE verified against the freshly
+  fetched MacIntyre review PDF (Philosophy and Phenomenological Research
+  54(1)): the p. 27 fragment exactly as the review prints it. The book
+  itself was NOT opened (no carrier available this session); the full
+  sentence was therefore NOT quoted — only the review-verified fragment,
+  with the carrier disclosed. A BRLSI lecture page reproducing the
+  passage was also fetched and carries "frame of horizon" (carrier
+  typo) — not used for quotation.
+- Related targets Social identity theory (deg 17) and Bicultural
+  identity integration (deg 11) verified to exist. Validator ok
+  (fast-track). QC-PENDING flag set (6th fresh item, beyond the item-5
+  milestone; supervisor sample requested).
