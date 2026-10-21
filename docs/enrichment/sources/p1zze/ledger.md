@@ -45,3 +45,7 @@
 ## M046 — Cleverness joined to humility
 - Opened: Bazzett 2018 translation PDF (UBC; fetched with extraction of passages; the fetch returned extracted quotes, not raw page, so lineation was removed in the quoted text); Bell & D'Zurilla 2009 (PubMed 19299058); Cuijpers et al. 2019 (PubMed 29486804).
 - Seed "strategy flexibility outperforms brute persistence" NOT supported; dropped. "Humility" in the title not demonstrated by a passage; page quotes the twins' trickery only. D'Zurilla & Nezu framework replaced by the meta-analysis.
+
+## M051 — Rhythm larger than your moods
+- Opened: University Press of Colorado "Maya Daykeeping" excerpt (search excerpt; mentions Tedlock 1982/1992 as training account); Dai et al. 2014 abstract (INFORMS); Dai et al. 2015 abstract (PDF text); 2020 OBHDP abstract (ideas.repec; authors not confirmed from the snippet — cited by title). Tedlock's book NOT opened (secondary relay only).
+- Seed claims "calendar protects from mood-driven drift and burnout" unsupported -> dropped; the daykeeping system is divinatory, not just a schedule (disclosed on page).
