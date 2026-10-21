@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 19,
+ "revision": 20,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -91,6 +91,12 @@
    "link": "SP044",
    "why": "Spinoza's account of method directed by a given true idea",
    "notes": "SP044 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP044 occurrences; grounded in the opened Elwes Emendation §§35-39."
+  },
+  {
+   "into": "Narrative therapy",
+   "link": "SP053",
+   "why": "the page's account of re-ordering a memory's position inside understanding, a Spinozist counterpart of re-authoring",
+   "notes": "SP053 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP053 occurrences; grounded in the opened Elwes Ethics V P1/P3/P10."
   }
  ]
 }
