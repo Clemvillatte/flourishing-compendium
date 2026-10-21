@@ -7,7 +7,7 @@ file: "Strategic Contingencies Theory"
 tags: ["theory", "psych/io"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-IO"], "alternatePaths": []}
 ---
-Strategic contingencies theory explains power inside organizations as a consequence of dependence. When a department copes with uncertainty that other departments face, occupies a central place in the workflow, and cannot easily be substituted, other departments come to depend on it, and that dependence is the source of its power.
+Strategic contingencies theory proposes that power inside organizations follows dependence between subunits. The theory relates the power of a subunit to its coping with uncertainty, substitutability and centrality: a subunit that copes with what others cannot predict, that occupies a central place, and that cannot easily be substituted, tends to accumulate power as other subunits come to depend on it.
 
 > "A strategic contingencies' theory of intraorganizational power is presented in which it is hypothesized that organizations, being systems of interdependent subunits, have a power distribution with its sources in the division of labor." (Hickson, Hinings, Lee, Schneck and Pennings, "A Strategic Contingencies' Theory of Intraorganizational Power", [Administrative Science Quarterly 16(2), 1971, article abstract](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.2307/2391831), as reproduced by OpenAIRE)
 
@@ -21,11 +21,11 @@ The theory was presented in 1971 by a team of organizational researchers, D. J. 
 
 ### How the theory explains power
 
-The three variables work together. Coping with uncertainty: a subunit that handles what others cannot predict, for example fluctuating demand or technical failures, becomes a resource others need. Centrality: the subunit's work touches many others, so its failures ripple. Substitutability: if nothing else can do its work as well, dependence on it is total. The abstract adds that the authors suggested possible measures for these variables.
+The abstract names the variables through which power is said to accrue: coping with uncertainty, substitutability and centrality, operating through the control of strategic contingencies for other dependent activities. It adds that the authors suggested possible measures for these variables. The abstract does not supply detailed definitions of the three variables; a fuller treatment would need the full paper or a scholarly explanation of it.
 
 ### In everyday life
 
-Illustrative scenario, not a reported case: a two-person firm where one partner maintains the only relationship with the firm's largest client. That partner copes with the uncertainty of the client leaving, sits at the center of the workflow, and is hard to replace; by the theory's terms, the balance of power inside the firm follows the dependence, whatever the partners' titles say. The same lens reads family life: the member everyone routes problems through holds quiet power.
+Hypothetical example involving units: a hospital's emergency department handles unpredictable arrivals, and many other departments depend on how it triages them. The theory directs attention to the dependencies such a position creates between the units, rather than to the personalities or the formal hierarchy.
 
 ### In the compendium
 

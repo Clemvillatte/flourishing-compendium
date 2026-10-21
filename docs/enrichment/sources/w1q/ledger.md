@@ -95,3 +95,24 @@ damage, w1ab left to its live holder.
   was REMOVED; Related-concept targets resolved before writing ([[Identity development]],
   [[Leisure]] exist; Vocational maturity / Role balance / Career development do not).
 - Validation --fast-track: ok. Items 1-5 milestone advisor QC round follows.
+
+## QC MILESTONE ROUND (items 3-5) — repairs applied, validated, pushed — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Strategic Contingencies Theory: opening reframed as proposal; "dependence is total"
+  removed; variable glosses cut to the abstract's own names; two-person-firm example
+  replaced with a labelled hospital-departments hypothetical; family-life extension
+  deleted.
+- Structural injustice: bounded opening (advisor-prescribed); "not guilty" blanket claim
+  replaced with bounded formulation; benefit claim replaced with the carrier's verbatim
+  sentence; sweatshop/housing examples grounded in the OPENED OUP book-page abstract;
+  volume title corrected (Browne and McKeown eds., What is Structural Injustice?, OUP
+  2024); "social connection" model named from the opened book abstract.
+- Super's Life-Span, Life-Space Theory: staged opening replaced with the abstract's own
+  definition; "introduced" -> "presents"; diagram-axes claim removed; "always playing
+  roles" qualified; current-vs-ideal procedure grounded in the OPENED ERIC digest
+  (ED462641); four theatres + nine roles added from the same digest; self-concept
+  caption grounded in the NCDA article's own gloss (Sharf 2016); diagnostic inference
+  removed and replaced with the NCDA-cited textbook assumption sentence.
+- State dangle checked: w1q.json in_progress is None, all five done entries match
+  manifest titles (no ASCII/curly mismatch).
+- Post-repair validation: 3 checked, 0 failed. Raw-HTML substring verification of the
+  HTML carriers follows below.
