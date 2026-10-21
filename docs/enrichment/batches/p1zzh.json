@@ -27,12 +27,12 @@
   "SP077": "item-10 milestone QC LATE: round-1 FAIL repaired (capitalization, 20:60 grounding); inherited: Janis 1972 bare reference",
   "SP083": "item-10 milestone QC LATE: round-1 FAIL repaired (note on 34 grounding, P38 blockquote); inherited: Park 2010 bare reference",
   "SP085": "item-10 milestone QC LATE: round-1 FAIL repaired (third-kind grounding, astronomer removed); inherited: Steger 2012 bare reference",
-  "X001": "inherited: Lord/Ross/Lepper 1979 and Mussweiler et al. 2000 bare references not opened this session",
-  "X004": "post-item source-contradiction repaired (PH I.6 quietude-as-origin respected); inherited: Wegner 1994 bare reference",
-  "X021": "post-item source-contradiction repaired (twofold manner kept); inherited: Bem self-perception research bare reference"
+  "X001": "inherited: Lord & Mussweiler reference studies (the paraphrased field toppers) not opened this session; item-11 QC handled in item-10 milestone LATE closeout",
+  "X004": "post-item source-contradiction repaired (PH I.6 quietude-as-origin respected); round-2 closeout repair applied (descriptive plain words, reading example); inherited: Wegner 1994 bare reference",
+  "X021": "post-item source-contradiction repaired (twofold manner kept, capitalization preserved); inherited: Bem self-perception research bare reference"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:27:02+00:00",
+ "updated": "2026-10-21T04:30:36+00:00",
  "band_done": false
 }
