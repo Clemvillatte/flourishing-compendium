@@ -16,13 +16,13 @@ From this compassionate perspective, look in on that struggling version of you. 
 
 Now imagine being there with them. Imagine only they can see or hear you. Consider how you would be there for them: how you might help them feel safe, how you might encourage them.
 
-> "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, *CFT Made Simple*, ch. 9, p. 122 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
+> "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, CFT Made Simple, ch. 9, p. 122 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 If extending [[Self-compassion|self-compassion]] to yourself is too hard: the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
 
 The exercise rehearses a compassionate perspective on distress.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9, "Cultivating the Compassionate Self: A Method-Acting Approach", section "Extending Compassion to the Vulnerable Self" (pp. 119–123; the blockquote is on p. 122).
+Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 9, "Cultivating the Compassionate Self: A Method-Acting Approach", section "Extending Compassion to the Vulnerable Self" (pp. 119–123; the blockquote is on p. 122).
 
 ### Protocol
 
@@ -69,6 +69,6 @@ A related guided practice: [Directing the Compassionate Self to ourselves, Balan
 - [[K162 — Self-compassion practice]]
 
 ## Sources
-- [Kolts, R. L. (2016), *CFT Made Simple*, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 9, "Extending Compassion to the Vulnerable Self", pp. 119–123: the anxious-self scenario, being touched by her suffering, being there with her; the start-with-someone-you-care-about guidance, p. 122
+- [Kolts, R. L. (2016), CFT Made Simple, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 9, "Extending Compassion to the Vulnerable Self", pp. 119–123: the anxious-self scenario, being touched by her suffering, being there with her; the start-with-someone-you-care-about guidance, p. 122
 - [Longe et al. (2010), "Having a word with yourself: neural correlates of self-criticism and self-reassurance", NeuroImage, PubMed](https://pubmed.ncbi.nlm.nih.gov/19770047/)
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)

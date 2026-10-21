@@ -244,3 +244,7 @@ Elapsed T+21:49. Advisor milestone round (items: K396/K379 provenance repairs + 
 (8) Validator gating: pipefail + explicit exit-code echo used; the earlier "both pages validate" commit message (d8176e99) was made while K396 was 2 words over — caught in the same session and fixed in 8b966936; lesson recorded.
 
 All five pages validate clean (exit 0, warnings only: Related-concepts counts on kernel-only pages). K406 quotes re-verified against the pdftotext extraction (sentence starters, no-right-or-wrong, entering image, product rationale all match incl. curly apostrophes and em-dashes).
+
+## ENTRY (programmatic) — worker-kpr-pplc-f3d97a21: milestone round-4 scoped clearance
+
+Round-4 verdict: K382 quote mismatch fixed ("with you" moved out of the quotation: page now reads 'bringing with you "the feelings of being accepted, understood, and supported"'); book-title italics removed from all lines authored this session; inline quotes now all carry linked citations with locators; side-by-side book excerpts verified for every K406/K382/K384 inline quote (PDF line breaks were the cause of earlier zero-count greps, not text divergence). Scoped-clear: the passage repairs for K379, K406, K382, K384 are scoped-clear; K396's recording-attribution issue remains EXPLICITLY UNRESOLVED (transcript unattributed; similar phrases do not establish identity) — do not report K396 as fully verified. K396's overall milestone QC flag remains for the supervisor.

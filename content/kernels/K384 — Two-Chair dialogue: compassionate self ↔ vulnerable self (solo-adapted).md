@@ -22,9 +22,9 @@ The aim is to hear your own fear or anger without being run by it.
 
 **Note:** This is a solo adaptation of a therapist-facilitated practice. If a difficult emotion (trauma, panic, intense shame) feels unworkable alone, stop and consider professional support: this practice is for building the everyday capacity, not for processing severe distress.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 12, "Embodying Compassion: Chair Work in CFT", two-chair work, printed pp. 159 to 161 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)); for several emotions at once Kolts points to the Multiple Selves exercise in ch. 14.
+Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 12, "Embodying Compassion: Chair Work in CFT", two-chair work, printed pp. 159 to 161 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP)); for several emotions at once Kolts points to the Multiple Selves exercise in ch. 14.
 
-> "In this practice, two chairs are set up, and the therapist assists the client in having a dialogue between a version of herself that represents the emotion with which she is struggling (such as anxiety, depression, or anger) and her wise, kind, confident compassionate self." — Kolts, *CFT Made Simple*, ch. 12, p. 159 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
+> "In this practice, two chairs are set up, and the therapist assists the client in having a dialogue between a version of herself that represents the emotion with which she is struggling (such as anxiety, depression, or anger) and her wise, kind, confident compassionate self." — Kolts, CFT Made Simple, ch. 12, p. 159 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 ### Protocol
 
@@ -50,4 +50,4 @@ Kolts situates chair work in the emotion-focused therapy tradition ("CFT draws h
 
 ## Sources
 
-- [Kolts, R. L. (2016), *CFT Made Simple*, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 12, two-chair work, pp. 159–161: setup, vulnerable-chair-first order, compassionate address, chair-switching repair; p. 155: Greenberg lineage and the Shahar et al. (2012) pilot study as reported by Kolts
+- [Kolts, R. L. (2016), CFT Made Simple, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 12, two-chair work, pp. 159–161: setup, vulnerable-chair-first order, compassionate address, chair-switching repair; p. 155: Greenberg lineage and the Shahar et al. (2012) pilot study as reported by Kolts
