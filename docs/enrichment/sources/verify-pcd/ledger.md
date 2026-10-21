@@ -376,3 +376,8 @@ QC-closed).
   Totality and Infinity); the page's blockquote begins "To think the infinite..." with a
   capital T. ROUTED REPAIR options for the supervisor/next owner: render "[t]o think..."
   as the carrier does, or de-quote the opening. The remainder of the passage is verbatim.
+
+### w1k "Analytical Psychology" — quote fidelity PASS (verification pass)
+- Gullotta EOLSS blockquote EXACT vs the opened sample chapter PDF (the source uses
+  curly double quotes around 'analytical psychology', the page renders single; wording
+  verbatim, typographic difference only).
