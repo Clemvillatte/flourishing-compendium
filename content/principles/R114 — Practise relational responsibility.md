@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 376** — Practise relational responsibility
 
-Recognise that your responsibilities extend beyond what you have individually caused. You are responsible for the structural conditions of your society, for the privilege you enjoy, and for the suffering that your way of life may produce. This is not a call for guilt but for action.
+Young separates two kinds of responsibility. The liability model assigns blame and repair for a wrong someone did. Her social connection model says that "all those who contribute by their actions to structural processes with some unjust outcomes share responsibility for the injustice", that this responsibility is "primarily forward-looking" and that it means "an obligation to join with others who share that responsibility in order to transform the structural processes to make their outcomes less unjust" ([Young, Responsibility for Justice, ch. 4 abstract, OUP](https://academic.oup.com/book/4381/chapter/146336683?searchresult=1)).
 
 (Young, 2004, "Responsibility and Structural Injustice," in Global Challenges; Young, 2011, Responsibility for Justice.)
 
-**Plain words** Your responsibility doesn't stop at what you personally caused — you're also responsible for structural conditions, the privilege you enjoy, the suffering your way of life may feed. Not guilt; action. The structure is maintained by everyone, including you.
+### Not guilt
 
-*For example:* Someone who checks their own conduct scrupulously — and then asks the harder question: who sews this, who picks this, who's downstream of this? — and changes what they fund.
+Young writes: "To the extent that we participate in the ongoing operations of a society in which injustice occurs, we ought to be held responsible. This does not, however, make us guilty or blameworthy or directly liable for paying compensation to victims of harm" (Young, 2011, p. 104, quoted in [an OUP chapter on settler colonialism](https://academic.oup.com/book/58181/chapter/480371363?searchresult=1)). That chapter's author disputes Young on this point and argues responsibility can also be backward-looking, so the question is still debated.
+
+On what to do, the Stanford Encyclopedia of Philosophy summarises four parameters for deciding where to act: power, privilege, interest and collective ability. For example, "middle-class clothing consumers have more discretionary income, choice and ability to absorb costs" than minimum-wage earners, so they can change their purchasing more easily ([SEP, Global Justice](https://plato.stanford.edu/archives/fall2019/entries/justice-global/)).
+
+**Plain words**
+You may not have caused an injustice, but you may be part of how it keeps running. That gives you a job to do alongside others. It does not make you guilty.
+
+**For example**
+Pick one structure you take part in, such as where your clothes or your pension come from. Find one group already working to change it, and give them a fixed amount of time or money this month.
+
+## Sources
+
+- [Young, Responsibility for Justice (2011), ch. 4 abstract](https://academic.oup.com/book/4381/chapter/146336683?searchresult=1)
+- [Settler colonialism chapter quoting Young 2011, p. 104](https://academic.oup.com/book/58181/chapter/480371363?searchresult=1)
+- [SEP, Global Justice](https://plato.stanford.edu/archives/fall2019/entries/justice-global/)
+
 ## Psychology parallels
 
 - **Moral responsibility and collective action** (Bandura, 2001)

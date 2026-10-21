@@ -65,3 +65,6 @@
 - Opened: SEP Levinas (Bergo), quotes verbatim; SEP bibliography: Otherwise than Being = 1974 (French), Lingis trans. 1981; Totality and Infinity = 1961/1969.
 - CORRECTION made in the locator lines of R093 and R095: "Levinas, 1969, Otherwise Than Being" -> "Levinas, 1974/1981". Other principles by the same author (e.g. R094 etc., not mine) may carry the same wrong date; supervisor should grep "1969, Otherwise".
 - Primary texts not opened. "Never fully present / never fully knowable" in the blockquote is a gloss, flagged on page as inference.
+## R114 — relational responsibility
+- Opened (search excerpts): OUP abstract of Young 2011 ch. 4; OUP chapter quoting Young 2011 p.104; SEP Global Justice. Young's own book not opened. Locator title "Responsibility and Structural Injustice, in Global Challenges (2004)" could not be verified (Young 2006 "Responsibility and Global Justice: A Social Connection Model" is the standard article); locator left untouched, supervisor to verify.
+- Page notes the critique (Lu) that responsibility can also be backward-looking.
