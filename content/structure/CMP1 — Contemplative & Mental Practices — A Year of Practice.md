@@ -44,13 +44,13 @@ Slow breathing at five to six breaths per minute, the physiological sigh, non-sl
 
 **Driving question: what if nothing needs fixing?**
 
-Willingness, cognitive acceptance, urge surfing, and exploring difficulty. The counterintuitive core of the contemplative family: what you resist persists, and what you allow moves. Core readings: [[K115 — Willingness practice]], [[K385 — Cognitive acceptance: watch thoughts float by]], [[K116 — Urge surfing]], [[K395 — Exploring Difficulty meditation]]. Electives: [[K120 — The 90-second wave]], [[K121 — Dropping the struggle]], [[K397 — Approach, don't avoid (the mouse in the maze)]], [[K386 — Try not to think of elephants]], [[K388 — Passengers on the bus (metaphor practice)]].
+Willingness, cognitive acceptance, urge surfing, and exploring difficulty. The counterintuitive core of the contemplative family: the practices ask for a willing, non-judging attention to what is already here. Core readings: [[K115 — Willingness practice]], [[K385 — Cognitive acceptance: watch thoughts float by]], [[K116 — Urge surfing]], [[K395 — Exploring Difficulty meditation]]. Electives: [[K120 — The 90-second wave]], [[K121 — Dropping the struggle]], [[K397 — Approach, don't avoid (the mouse in the maze)]], [[K386 — Try not to think of elephants]], [[K388 — Passengers on the bus (metaphor practice)]].
 
 ## Module VI — Loving-kindness
 
 **Driving question: can goodwill be trained?**
 
-Loving-kindness meditation, the befriending meditation, and sympathetic joy. The evidence here is dose-response shaped: minutes of practice predict change. Core readings: [[K161 — Loving-kindness meditation]], [[K396 — The Befriending meditation]], [[K166 — Sympathetic joy]]. Elective: [[K168 — Near-enemy audit]].
+Loving-kindness meditation, the befriending meditation, and sympathetic joy. In the trials, the amount of formal practice tracked the changes, an association worth knowing. Core readings: [[K161 — Loving-kindness meditation]], [[K396 — The Befriending meditation]], [[K166 — Sympathetic joy]]. Elective: [[K168 — Near-enemy audit]].
 
 ## Module VII — Self-compassion
 
