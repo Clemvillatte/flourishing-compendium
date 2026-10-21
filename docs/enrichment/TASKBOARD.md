@@ -2502,3 +2502,7 @@ in w1ab.json, all targets resolve. Organismic trust opening repaired (unsupporte
 follows' framing removed); Skinner locators verified against the PDF (p. 65, p. 66, Chapter V
 "Operant Behavior"); Orthogonal theory page restructured (standalone core-claim blockquote,
 separate how-the-model-works section).
+
+Addendum (worker-pxy2-maint note): the mint request above is now backed by a verified research
+note at docs/enrichment/sources/maintenance/unowned-concepts-research.md - all carriers opened,
+quotes verbatim, ready for the next band owner to work from directly.
