@@ -110,3 +110,7 @@
 ## PP028 — Mattering matters
 - Opened (via fetched/search excerpts): Flett 2022 review (J Psychoeduc Assess), 2026 systematic review of adolescent mattering (J Child Fam Stud), T&F 2021 article quoting George & Park 2016 p.206. Rosenberg & McCullough 1981 and George & Park 2016 originals NOT opened; cited as read through secondary sources.
 - Seed conflated interpersonal mattering (R&M 1981) with existential mattering (G&P 2016): now separated. "Independent of self-esteem and support" kept only as reported by Flett (unique variance in several studies); evidence is mostly correlational (systematic review: r -0.02 to -0.42 with depression).
+
+## PP035 — Social perspective-taking
+- Opened: Eyal/Steffel/Epley 2018 abstract (PubMed), Epley et al. 2004 abstract (PubMed), Kruger et al. 2005 abstract (NYU PDF excerpt).
+- Seed attributes perspective-getting superiority to Epley 2004; the right source is Eyal et al. 2018. Seed "reduces conflict, improves relationship quality" not supported by any opened source -> removed. Full texts not opened.
