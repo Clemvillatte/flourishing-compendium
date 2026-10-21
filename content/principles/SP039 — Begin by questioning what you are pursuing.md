@@ -16,16 +16,16 @@ The Emendation opens autobiographically:
 
 > "After experience had taught me that all the usual surroundings of social life are vain and futile... I finally resolved to inquire whether there might be some real good having power to communicate itself, which would affect the mind singly, to the exclusion of all else: whether, in fact, there might be anything of which the discovery and attainment would enable me to enjoy continuous, supreme, and unending happiness." (On the Improvement of the Understanding, §1, [Elwes](https://www.gutenberg.org/ebooks/1016))
 
-The usual objects are classified under "Riches, Fame, and the Pleasures of Sense" (§3), and the decision point comes when he sees they conflict with any new search: "I was forced to inquire which would prove the most useful to me" (§6). The move is the foundation of the treatise: before improving the means of life, examine the ends. The compendium's practical version: once a year, write down what you are actually optimizing for, and check whether it would survive the achievement.
+The usual objects are classified under "Riches, Fame, and the Pleasures of Sense" (§3), and the decision point comes when he sees they conflict with any new search: "I was forced to inquire which would prove the most useful to me" (§6). The pursuit is not condemned outright: §11 adds that the acquisition of wealth, sensual pleasure, or fame "is only a hindrance, so long as they are sought as ends not as means; if they be sought as means, they will be under restraint, and, far from being hindrances, will further not a little the end for which they are sought". The move is the foundation of the treatise: before improving the means of life, examine the ends. The compendium's exercise (authored, not Spinoza's): once a year, write down what you are actually optimizing for, and check whether it would survive the achievement.
 
 **Plain words**
-The treatise starts with a man noticing that his pursuits were inherited rather than chosen. Riches, fame, and pleasure arrive pre-installed; everyone around is chasing them, so the chase feels like a decision. Spinoza's first move is to put the whole list on trial, including the cost of abandoning it. The annual audit: write down what your days are actually arranged around, and check whether getting it would deliver what you expect.
+A pursuit can be useful without being what your whole life is for. Ask what your work or income is meant to make possible, then whether it serves that purpose. Spinoza's inquiry allows useful means while questioning what deserves to be the final end.
 
-*For example:* Someone mid-career runs the audit seriously: salary, title, house, each examined against the question the Emendation asks of every pursuit. The audit does not end the pursuit; it ends the autopilot version of it.
+*For example:* Imagined: someone asks whether the promotion they want would support the purpose they give for pursuing it, or whether the purpose has quietly become the promotion itself.
 
 ## Sources
 
-- [Spinoza, On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/1016) — §§1-6 (opening, the three ordinary objects, the inquiry)
+- [Spinoza, On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/1016) — §§1-11 (opening, the three ordinary objects, the inquiry, the means/ends qualification)
 
 ## Psychology parallels
 

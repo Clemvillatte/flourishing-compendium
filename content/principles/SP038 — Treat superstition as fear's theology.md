@@ -16,20 +16,20 @@ Spinoza opens the Theological-Political Treatise with the origin of the problem:
 
 > "Men would never be superstitious, if they could govern all their circumstances by set rules, or if they were always favoured by fortune" (Theological-Political Treatise, Preface, [Elwes](https://www.gutenberg.org/ebooks/989))
 
-The mechanism is need under uncertainty: "the human mind is readily swayed this way or that in times of doubt, especially when hope and fear are struggling for the mastery". In adversity, "no plan is then too futile, too absurd, or too fatuous for their adoption". His summary line:
+The mechanism, in his words: "The human mind is readily swayed this way or that in times of doubt, especially when hope and fear are struggling for the mastery". In adversity, "No plan is then too futile, too absurd, or too fatuous for their adoption". His summary line:
 
 > "Superstition, then, is engendered, preserved, and fostered by fear." (Theological-Political Treatise, Preface, [Elwes](https://www.gutenberg.org/ebooks/989))
 
-The political use follows: "The mob has no ruler more potent than superstition" (Curtius, quoted in the preface), and prophets are most formidable "precisely at those times when the state is in most peril". The compendium's generalization: panic-driven belief systems, personal or political, run on the fear underneath them. The practical instruction: when you notice yourself clinging to a rigid story, check first whether you are afraid, and treat the fear before debating the story.
+The political use follows: "The mob has no ruler more potent than superstition" (Curtius, quoted in the preface), and prophets are most formidable "precisely at those times when the state is in most peril". Spinoza's own example is Alexander, who consulted seers when he first feared fortune, stopped consulting prophets after conquering Darius, and "once more turned to superstition" when frightened by reverses. The compendium's exercise drawn from the account: when an uncertain outcome frightens you, ask whether you are accepting an explanation because you have evidence for it or because it promises reassurance. Name the feared outcome, then examine what supports the explanation.
 
 **Plain words**
-Superstition is what fear does when it needs a story. The frightened mind does not get more careful; it gets more credulous, because any plan feels better than none. Spinoza does not say the story is necessarily false; he says it was bought under pressure. When you catch yourself shopping for explanations at 3 a.m., notice the fear first. Deal with the fear, and the explanation on offer will look different after.
+Spinoza's account: fear sends people looking for an explanation, and in that state no plan is too futile to adopt. The diagnostic question the account suggests: when you catch yourself clinging to a story, ask what you are afraid of, and whether the story's support is evidence or reassurance.
 
-*For example:* Spinoza's own case: Alexander consulted seers when he first feared fortune, stopped consulting prophets after conquering Darius, and "once more turned to superstition" when frightened by reverses (Theological-Political Treatise, Preface).
+*For example:* Spinoza's example from the preface: Alexander turned to seers when he feared fortune, stopped consulting prophets after conquering Darius, and "once more turned to superstition" when frightened by reverses.
 
 ## Sources
 
-- [Spinoza, Theological-Political Treatise, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/989) — Preface, §§1-11 (superstition's origin, Alexander example, the Curtius quotation)
+- [Spinoza, Theological-Political Treatise, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/989) — Preface, numbered sentences 1-16 in this edition (the e-text's added sentence numbers; the Alexander case at 9-10, the Curtius quotation at 16)
 
 ## Psychology parallels
 
