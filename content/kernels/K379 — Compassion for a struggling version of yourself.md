@@ -16,17 +16,17 @@ From this compassionate perspective, look in on that struggling version of you. 
 
 Now imagine being *there with them*. Imagine only they can see or hear you. Consider how you would be there for them — how you might help them feel safe, how you might encourage them.
 
-> "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, *CFT Made Simple*, ch. 9, p. 122 (owner's library copy)
+> "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, *CFT Made Simple*, ch. 9, p. 122 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
 *If extending [[Self-compassion|self-compassion]] to yourself is too hard:* the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
 
 This is not a mood change; it's a perspective shift. You're practising the move from being *captured by* a threat to *being with* the part of you that's threatened.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016. The instructions were verified against the owner's library copy of the book: chapter 9, "Cultivating the Compassionate Self: A Method-Acting Approach", section "Extending Compassion to the Vulnerable Self" (pp. 119–123; the blockquote is on p. 122).
+Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016, ch. 9, "Cultivating the Compassionate Self: A Method-Acting Approach", section "Extending Compassion to the Vulnerable Self" (pp. 119–123; the blockquote is on p. 122).
 
 ### Protocol
 
-1. Settle into the Compassionate Self first (see K378): a minute of slow breathing, then the perspective of someone with a kind motivation to help, deep wisdom, and confidence and courage. The book warns these qualities can feel vague imagined in a vacuum, so move quickly to applying them in one specific situation. Target dimensions: Identity (who is looking) and Emotion (being moved rather than managing).
+1. Settle into the Compassionate Self first (see K378): a minute of slow breathing, then the perspective of someone with a kind motivation to help, deep wisdom, and confidence and courage. The book warns these qualities can feel vague imagined in a vacuum, so move quickly to applying them in one specific situation. Target dimensions: Self (who is looking) and Affect (being moved rather than managing).
 2. Bring to mind one specific moment where a struggling version of you was present: anxious, ashamed, or afraid. One memory, not the general category.
 3. Look in on that version of you from the compassionate perspective. Notice how hard it is for them, and whether you can understand why they would feel this way.
 4. Imagine being there with them, visible and audible only to them; work out how you would help them feel safe, and what encouragement would sound like.
