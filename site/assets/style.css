@@ -1766,3 +1766,14 @@ body.graph-mode #randView, body.graph-mode #wikiView { display:none; }
 
 /* polish: expanded module header tint needs breathing room (mobile QA) */
 .acad-module-header { padding:8px 10px; margin:0 -10px; border-radius:8px; }
+
+/* module detail page — Editorial Academy header */
+.acad-modpage-kicker {
+  font-size:11px; letter-spacing:.16em; text-transform:uppercase; font-weight:700;
+  color:var(--gold); margin:14px 0 6px; display:flex; align-items:center; gap:10px;
+}
+.acad-modpage-kicker::before { content:''; width:28px; height:1px; background:var(--gold); flex:none; }
+.acad-modpage-title { font-family:'Fraunces',Georgia,serif; font-size:clamp(24px,3.4vw,34px); font-weight:600; line-height:1.15; margin:2px 0 4px; }
+.acad-detail > .acad-module-question { margin-top:8px; }
+.acad-complete-toggle { display:flex; align-items:center; gap:10px; margin-top:20px; padding:12px 16px; background:var(--panel2); border:1px solid var(--line2); border-radius:12px; cursor:pointer; width:fit-content; }
+.acad-complete-toggle:hover { border-color:var(--gold); }

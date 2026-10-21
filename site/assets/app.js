@@ -3353,14 +3353,26 @@ function renderModuleDetail(modId){
   if(!mod) return el('div','acad-empty','Module not found');
   const wrap = el('div','acad-detail');
   if(modId) wrap.dataset.mod = modId; // Psychonaute-inspired per-module palette
-  const head = el('div','acad-detail-head');
+
+  // Degree context for the kicker line
+  const deg = window.fcAcademyData.degrees.find(d=>d.id===mod.degree_id);
+  const modIdx = deg ? (deg.modules||[]).indexOf(modId)+1 : 0;
+  const modTotal = deg ? (deg.modules||[]).length : 0;
+
+  // Header — Editorial Academy language
   const back = el('button','acad-btn ghost','← Degree');
   back.onclick = ()=>{ A.view='degreeDetail'; A.degree=mod.degree_id; renderAcademy(); };
-  head.appendChild(back);
-  head.appendChild(el('h2','acad-detail-title',mod.title));
-  wrap.appendChild(head);
-
+  wrap.appendChild(back);
+  if(deg && modIdx){
+    wrap.appendChild(el('div','acad-modpage-kicker',`Module ${acadRoman(modIdx)} of ${acadRoman(modTotal)} · ${deg.title}`));
+  }
+  wrap.appendChild(el('h2','acad-modpage-title',mod.title));
   if(mod.question){ wrap.appendChild(el('p','acad-module-question',mod.question)); }
+  const meta = el('div','acad-detail-meta');
+  if(mod.difficulty){ meta.appendChild(el('span','acad-chip',mod.difficulty)); }
+  if(mod.durationHours){ meta.appendChild(el('span','acad-chip',`${mod.durationHours}h`)); }
+  if(mod.requiredMedia){ meta.appendChild(el('span','acad-chip',`${(mod.requiredMedia||[]).length} essential item${(mod.requiredMedia||[]).length!==1?'s':''}`)); }
+  wrap.appendChild(meta);
   if(mod.description){ wrap.appendChild(el('p','acad-detail-desc',mod.description)); }
 
   // Psychonaute-inspired: module-specific reflection prompt (the "interaction twist")
@@ -3398,20 +3410,15 @@ function renderModuleDetail(modId){
   const prompt = MOD_PROMPTS[modId];
   if(prompt){
     const card = el('div','acad-module-prompt');
-    card.appendChild(el('div','acad-module-prompt-icon','\u{1F9E0}'));
+    card.appendChild(el('div','acad-module-prompt-label','Reflect as you go'));
     card.appendChild(el('div','acad-module-prompt-text',prompt));
     wrap.appendChild(card);
   }
 
-  const meta = el('div','acad-detail-meta');
-  if(mod.difficulty){ meta.appendChild(el('span','acad-chip',mod.difficulty)); }
-  if(mod.durationHours){ meta.appendChild(el('span','acad-chip',`${mod.durationHours}h`)); }
-  wrap.appendChild(meta);
-
   // Learning outcomes
   if(mod.outcomes && mod.outcomes.length){
     const sec = el('div','acad-section');
-    sec.appendChild(el('div','acad-section-title','Learning outcomes'));
+    sec.appendChild(el('div','acad-body-h','By the end of this module'));
     const ol = el('ul','acad-outcomes');
     mod.outcomes.forEach(o=>ol.appendChild(el('li',null,o)));
     sec.appendChild(ol);
@@ -3421,29 +3428,45 @@ function renderModuleDetail(modId){
   // Prerequisites
   if(mod.prerequisites && mod.prerequisites.length){
     const sec = el('div','acad-section');
-    sec.appendChild(el('div','acad-section-title','Prerequisites'));
+    sec.appendChild(el('div','acad-body-h','Before you begin'));
     const ol = el('ul','acad-outcomes');
     mod.prerequisites.forEach(p=>ol.appendChild(el('li',null,p)));
     sec.appendChild(ol);
     wrap.appendChild(sec);
   }
 
-  // Required media (full list)
+  // Viewing list — level label once per group (matches the degree syllabus)
   const sec = el('div','acad-section');
-  sec.appendChild(el('div','acad-section-title','Required media'));
+  sec.appendChild(el('div','acad-body-h','Viewing list'));
+  const groups = {};
   (mod.requiredMedia||[]).forEach(m=>{
-    const src = sourceById(m.source_id);
-    if(src) sec.appendChild(renderMediaRow(src,m.level));
+    const lvl = (m.level||'').trim();
+    (groups[lvl] = groups[lvl] || []).push(m);
+  });
+  Object.keys(groups).forEach(lvl=>{
+    if(lvl) sec.appendChild(el('div','acad-viewgroup-label',lvl));
+    groups[lvl].forEach(m=>{
+      const src = sourceById(m.source_id);
+      if(src) sec.appendChild(renderMediaRow(src,null));
+    });
   });
   wrap.appendChild(sec);
 
   // Optional extensions
   if((mod.optionalMedia||[]).length){
     const sec2 = el('div','acad-section');
-    sec2.appendChild(el('div','acad-section-title','Optional extensions'));
-    mod.optionalMedia.forEach(m=>{
-      const src = sourceById(m.source_id);
-      if(src) sec2.appendChild(renderMediaRow(src,m.level));
+    sec2.appendChild(el('div','acad-body-h','Optional extensions'));
+    const groups2 = {};
+    (mod.optionalMedia||[]).forEach(m=>{
+      const lvl = (m.level||'').trim();
+      (groups2[lvl] = groups2[lvl] || []).push(m);
+    });
+    Object.keys(groups2).forEach(lvl=>{
+      if(lvl) sec2.appendChild(el('div','acad-viewgroup-label',lvl));
+      groups2[lvl].forEach(m=>{
+        const src = sourceById(m.source_id);
+        if(src) sec2.appendChild(renderMediaRow(src,null));
+      });
     });
     wrap.appendChild(sec2);
   }
@@ -3451,7 +3474,7 @@ function renderModuleDetail(modId){
   // Related wiki readings
   if((mod.wiki_readings||[]).length){
     const sec3 = el('div','acad-section');
-    sec3.appendChild(el('div','acad-section-title','Related Compendium readings'));
+    sec3.appendChild(el('div','acad-body-h','Related Compendium readings'));
     const ol = el('ul','acad-outcomes');
     mod.wiki_readings.forEach(r=>{
       const li = el('li');
@@ -3468,9 +3491,10 @@ function renderModuleDetail(modId){
   // Activity / assessment
   if(mod.activity){
     const sec4 = el('div','acad-section');
-    sec4.appendChild(el('div','acad-section-title','Activity'));
+    sec4.appendChild(el('div','acad-body-h','Practice activity'));
     sec4.appendChild(el('p','acad-detail-desc',mod.activity));
     if(mod.rubric){
+      sec4.appendChild(el('div','acad-body-h','How you\u2019ll know it worked'));
       const ol = el('ul','acad-outcomes');
       mod.rubric.forEach(r=>ol.appendChild(el('li',null,r)));
       sec4.appendChild(ol);
@@ -3481,7 +3505,7 @@ function renderModuleDetail(modId){
   // Gaps / limitations
   if((mod.gaps||[]).length){
     const sec5 = el('div','acad-section');
-    sec5.appendChild(el('div','acad-section-title','Limitations & gaps'));
+    sec5.appendChild(el('div','acad-body-h','Limitations & gaps'));
     mod.gaps.forEach(g=>sec5.appendChild(el('div','acad-limitation',g)));
     wrap.appendChild(sec5);
   }
