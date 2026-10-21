@@ -7,24 +7,32 @@ file: "Via negativa"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-“Via negativa” — Pseudo-Dionysius, Mystical Theology; apophatic tradition.
+The via negativa is the negative way: approaching what cannot be said by denying what it is not. The Stanford Encyclopedia of Philosophy describes the apophatic approach it names:
+
+> "Apophatic mysticism (from the Greek 'apophasis,' meaning negation or 'saying away') is contrasted with kataphatic mysticism (from the Greek 'kataphasis,' meaning affirmation or 'saying with'). Apophatic mystics claim that nothing positive can be said about objects or states of affairs that they experience." (SEP, "Mysticism")
+
+The SEP credits the introduction of the via negativa to Christianity to Pseudo-Dionysius the Areopagite, "who... also wrote works in the kataphatic approach on religious symbolism and the names of God, while still stressing that God cannot be fully captured by any name" ([SEP, "Mysticism"](https://plato.stanford.edu/entries/mysticism/)). The compendium's seed names his Mystical Theology and Maimonides' Guide for the Perplexed I.58.
+
+### In the compendium
+
+- [[Y088 — Run not this, not this as a procedure]] — the Upanishadic neti neti run as a procedure
+- [[D022 — Subtract, don't add]] — the Daoist subtraction the way shares
+- [[D047 — Practice sitting and forgetting (zuowang)]] — the Daoist forgetting practice
+- [[S121 — Practise voluntary discomfort]] — the subtractive discipline applied to comfort
 
 ## Related concepts
 
 - [[Docta ignorantia]] — the coincidence of opposites as a limit of negation
+- [[Apophatic theology]]
+- [[Neti neti]]
+- [[The return of the soul to its source]]
 
 ## Sources
 
 - Pseudo-Dionysius, Mystical Theology
-
 - apophatic tradition
-
-## Cited in philosophy parallels
-
-- [[D022 — Subtract, don't add]]
-- [[D047 — Practice sitting and forgetting (zuowang)]]
-- [[S121 — Practise voluntary discomfort]]
-- [[Y088 — Run not this, not this as a procedure]]
+- Maimonides, Guide for the Perplexed I.58
+- [Stanford Encyclopedia of Philosophy, "Mysticism"](https://plato.stanford.edu/entries/mysticism/) — the apophatic/kataphatic passage and the Pseudo-Dionysius attribution quoted above, verified against the page text
 
 “The negative way” — Maimonides, Guide for the Perplexed I.58.
 - Maimonides, Guide for the Perplexed I.58

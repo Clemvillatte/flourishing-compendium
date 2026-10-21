@@ -18,7 +18,8 @@
   "Vipassana (insight)",
   "Viveka",
   "Value creation",
-  "Verum factum"
+  "Verum factum",
+  "Via negativa"
  ],
  "in_progress": null,
  "flagged": {
@@ -48,6 +49,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T11:17:15+00:00",
+ "updated": "2026-10-21T11:18:02+00:00",
  "band_done": false
 }
