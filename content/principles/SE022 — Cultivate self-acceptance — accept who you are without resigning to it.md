@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 22** — Cultivate self-acceptance: accept who you are without resigning to it
 
-Self-acceptance is the capacity to acknowledge and accept who you actually are — including flaws, limitations, and imperfections — without self-contempt or resignation. It is distinct from complacency; you can accept yourself and still grow.
+Nietzsche gives the principle its classic formula:
 
-**Plain words** Self-acceptance: acknowledging and accepting who you actually are — flaws, limitations, imperfections — without self-contempt and without resignation. Not approval of everything; an honest truce with the given. Acceptance is the ground; growth is the construction on it.
+> I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. _Amor fati_: let that henceforth be my love! I do not want to wage war with the ugly. I do not want to accuse, I do not want even to accuse the accusers.
 
-*For example:* The person who accepts the social awkwardness (no more hours of post-party self-flagellation) AND still takes the public speaking course. The acceptance didn't kill the development; the self-hate was never doing any of the work.
+(Nietzsche, The Gay Science §276, Common translation; [Gutenberg text](https://www.gutenberg.org/cache/epub/52881/pg52881.txt))
+
+The passage is an acceptance with work in it. Perceiving what is necessary as beautiful is an act of perception Nietzsche trains, not a verdict he waits for, and he still negates: the passage locates his negation in looking aside rather than accusing. The distinction the principle statement draws between acceptance and resignation follows the same line: the acceptance is in the stance toward the fact, and the growth work is left intact.
+
+**Plain words**
+Acceptance is not approval; it is refusing to spend the energy on accusation. The question the distinction turns on is what remains available after the acknowledgment: the person who has accepted the awkwardness can still take the course.
+
+*For example:* Imagine accepting the social awkwardness, no more hours of post-party self-flagellation, and still taking the public speaking course.
+
+## Sources
+
+- Nietzsche, The Gay Science §276 (Thomas Common translation) — [Gutenberg text](https://www.gutenberg.org/cache/epub/52881/pg52881.txt)
+
 ## Psychology parallels
 
 - **Self-acceptance and well-being**, unconditional self-acceptance is associated with better mental health and resilience (MacInnes, 2006; Chamberlain & Haaga, 2001)
@@ -30,4 +42,4 @@ Self-acceptance is the capacity to acknowledge and accept who you actually are �
 
 ## Practice
 
-- Practise accepting yourself as you are, including imperfections. This is not resignation; it is the precondition for genuine change. Acceptance of what is enables growth toward what could be.
+Practise accepting yourself as you are, including imperfections. This is not resignation; it is the precondition for genuine change.

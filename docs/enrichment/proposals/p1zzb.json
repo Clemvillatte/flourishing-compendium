@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 13,
+ "revision": 14,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -127,6 +127,24 @@
    "link": "SE005",
    "why": "A principle drawing on independent and interdependent self-construals",
    "notes": "SE005 (2026-10-21, worker-p1zzb-9d251b2e): hub READ in full (its own body cites the same Markus-Kitayama 1991 PDF and quotes p. 225); no SE005 occurrence; grounded in the opened MIT full text (p. 224 abstract sentence quoted verbatim)."
+  },
+  {
+   "into": "Self-compassion",
+   "link": "SE022",
+   "why": "A principle on accepting what one is without approving or resigning to it",
+   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
+  },
+  {
+   "into": "Acceptance",
+   "link": "SE022",
+   "why": "A principle on accepting what one is without approving or resigning to it",
+   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
+  },
+  {
+   "into": "Eudaimonic well-being",
+   "link": "SE022",
+   "why": "A principle on accepting what one is without approving or resigning to it",
+   "notes": "SE022 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (self-acceptance) or parallels; occurrence-checked, no SE022 occurrence; grounded in the opened Gutenberg Common translation (Gay Science 276 quoted verbatim, including the source's em dash and italics markers rendered as markdown)."
   }
  ]
 }
