@@ -1,0 +1,29 @@
+---
+schema: 0
+id: "ST403"
+type: "story"
+title: "403.  Two Friends Sing Beside the Corpse of Sang Hu"
+file: "ST403 — Two Friends Sing Beside the Corpse of Sang Hu"
+navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-ST"], "alternatePaths": []}
+legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "ST — Stories of Genuine Flourishing", "chapter": "ST-S01.05 — I.5 Psychological Freedom — Identity, Emotion, Death, Meaning", "parent": ""}
+---
+
+Philosophical anecdote · Zhuangzi, chapter 6, in Robert Eno's translation, cross-read with Legge's.
+
+Three friends, Zisanghu, Meng Zifan and Ziqinzhang, ask each other who could climb to Heaven, ride the mists and join in "a life of forgetfulness without any end." In Eno's wording they look at each other and smile with "no disagreement in their hearts." In Legge's, they laugh and do not perceive "the drift of the questions" ([Eno, §6.5](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content); [Legge, ch. 6 §6](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)). Some time later Zisanghu dies.
+
+Before the funeral, Confucius hears of it and sends his disciple Zigong to help. Zigong finds one friend chanting and the other plucking a zither, and then both singing: "You’ve returned to your true form / And we are still men!" He asks whether singing by a corpse is proper li. The two look at each other and laugh: "What does this one know about li?" ([Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content)).
+
+Zigong goes back and reports with alarm that they treat their own bodies as something unconnected to them, and sing without any change of expression. Confucius, in this telling, admits he made a mistake in sending him: the two men roam beyond the bounds and he roams within them. They are companions of the Creator, and for them death is like lancing a boil. Asked what his own guide is, he says: "As for me, I am among those who suffer the punishment of Heaven." In Legge: "I am in this under the condemning sentence of Heaven." Yet he shares a guiding image: fish forget themselves in rivers and lakes, and people forget themselves in the arts of the Dao ([Eno](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content); [Legge](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf)).
+
+The compendium reads this beside D090. The song does not deny that Zisanghu has died. It says he has returned, and it says in the same line that the singers are still here.
+
+Limits: we see only the friends' public conduct, never their private grief. It is Confucius, a figure the authors use as a mouthpiece, who explains them, and he explains himself as someone who cannot do what they do. The story offers no guidance for a person whose own bereavement is raw. The nearby tale of Zhuangzi's wife in chapter 18 has Zhuangzi ask himself whether he could "be singular and not affected" at first (Legge), and this one does not say whether the friends were.
+
+**Principles:**
+- [[D090 — Accept death as transformation]]: the friends' song names the death as a return and the survivors as still here.
+
+## Sources
+
+- [Robert Eno, Zhuangzi: The Inner Chapters, version 1.1 (2019), Indiana University ScholarWorks](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content), section 6.5.
+- [Zhuangzi, James Legge translation (1891), METIS English Classics, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf), ch. 6, section 6.
