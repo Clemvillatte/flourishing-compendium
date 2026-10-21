@@ -12,11 +12,19 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 33** — Learn to use commitment devices: pre-commit to future behaviour
 
-Commitment devices — arrangements that bind your future self to a choice (Ulysses and the sirens) — help overcome temporal discounting. Pre-committing to a behaviour (before temptation) increases follow-through.
+Bryan, Karlan and Nelson's review defines the term:
 
-**Plain words** Commitment devices are deals with your future self: bind the choice now, benefit later. Ulysses tied himself to the mast; you can leave the card at home, pre-book the session, sign up with a cancellation fee. Be your own myth.
+> "Broadly, a commitment device is an arrangement entered into by an individual with the aim of helping fulfill a plan for future behavior that would otherwise be difficult owing to intrapersonal conflict stemming from, for example, a lack of self-control." (Bryan, Karlan & Nelson, 2010)
 
-*For example:* The 6 a.m. class booked and paid the night before — the 6 a.m. self would never choose it, and doesn't have to. The choice was made by the person who was still rational.
+The same review distinguishes hard commitments, which "call for real economic penalties for failure, or rewards for success", from soft commitments that rely on psychological costs. The compendium's suggested use: when you can predict a specific conflict between your plan and your future behaviour, pay something in advance to make the wrong choice expensive.
+
+**Plain words** A commitment device is a deal you make now to make breaking your own plan costly later. The review's own boundary: painting your nails with foul-tasting treatment to stop biting is a device; automatic savings transfers to curb your own spending is one, while doing it to curb a spouse's is not. The mark of the real thing is that you would pay up front, with no other benefit, just to make the bad choice expensive.
+
+*For example (imagined):* A student who keeps missing the 6 a.m. gym slot books and pays for the class the night before; skipping it now costs the money.
+
+## Sources
+
+- [Bryan, G., Karlan, D., & Nelson, S. (2010). Commitment Devices. Annual Review of Economics, 2, 671–698 — full text reviewed from a publicly hosted copy of the article](http://houdekpetr.cz/!data/public_html/papers/economics_psychology/Bryan%20et%20al%202010.pdf) — the definition and the hard/soft distinction
 ## Psychology parallels
 
 - **[[Commitment devices (Ariely & Wertenbroch)|Commitment devices (Ariely & Wertenbroch)]]**, pre-commitment devices increase goal attainment (Ariely & Wertenbroch, 2002; Schwartz et al., 2014)
@@ -30,4 +38,4 @@ Commitment devices — arrangements that bind your future self to a choice (Ulys
 
 ## Practice
 
-- Use commitment devices: sign up in advance (and pay), schedule the behaviour, use apps that lock, make the commitment irreversible. Bind your future self before temptation.
+- When you can name a specific future conflict, pre-commit: sign up and pay in advance, schedule the behaviour, put money at stake, or make the commitment public. Pay something up front to make the wrong choice expensive.
