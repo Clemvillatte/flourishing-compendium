@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 5** — Recognise that the self is partly social: it is formed in relation
 
-The self is not purely individual; it is formed and maintained in relationship. Others' responses, social feedback, and cultural categories shape who you take yourself to be. The independent self (autonomous, unique) and the interdependent self (relational, contextual) are both real, and cultures differ in which predominates.
+Markus and Kitayama made the social formation of the self a matter of cross-cultural record:
 
-**Plain words** The self is formed and maintained in relationship — others' responses, social feedback, cultural categories shape who you take yourself to be. The independent self was always a rumour. This means: choose your mirrors carefully; you are partly made of them.
+> Many Asian cultures have distinct conceptions of individuality that insist on the fundamental relatedness of individuals to each other. The emphasis is on attending to others, fitting in, and harmonious interdependence with them.
 
-*For example:* The person who becomes "the funny one" because the friend group needed a funny one, and "the responsible one" because the family did — and the decade-later discovery that some of the self was a role the room assigned. The mirrors were real; so was the image.
+(Markus & Kitayama, 1991, Psychological Review 98(2), p. 224; [full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf))
+
+The paper defines the contrast from both sides. The independent self is organized by reference to one's own internal repertoire of thoughts, feelings, and action; the interdependent self sees itself as part of an encompassing social relationship, its behavior organized to a large extent by the perceived thoughts, feelings, and actions of others (pp. 226-227). Both construals take the surrounding social context seriously; what differs is whether others fall inside or outside the self's boundary. Which mirrors do the forming varies by culture, and that mirrors do the forming is the shared ground.
+
+**Plain words**
+The sense of who you are is assembled from what your surroundings reflect back: your culture's default picture of a person, your family's assignments, your groups' roles. The practical move is to notice which ones you are standing in front of.
+
+*For example:* Imagine the person who becomes "the funny one" because the friend group needed one, and "the responsible one" because the family did, and who discovers a decade later that part of the self was a role the room assigned. The mirrors were real; so was the image.
+
+## Sources
+
+- Markus & Kitayama, 1991, Psychological Review 98(2):224-253 — [full text](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf)
+
 ## Psychology parallels
 
 - **[[Independent vs interdependent self-construal (Markus & Kitayama)|Independent vs interdependent self-construal (Markus & Kitayama)]]**, Western cultures afford independent self; East Asian and many other cultures afford interdependent self (Markus & Kitayama, 1991; Cross et al., 2011)
@@ -31,4 +43,4 @@ The self is not purely individual; it is formed and maintained in relationship. 
 
 ## Practice
 
-- Recognise that your sense of self is partly cultural and relational. If you are from an individualist culture, remember that a relational self is not weak. If from a collectivist culture, remember that autonomy is not selfish.
+Where you can, name the mirror before accepting the reflection: whose expectation, which room, what culture's default. If you are from an individualist culture, a relational self is not weakness; if from a collectivist culture, autonomy is not selfishness.
