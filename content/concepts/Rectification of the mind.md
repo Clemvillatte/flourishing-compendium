@@ -17,7 +17,7 @@ The chain runs in both directions. Before the inward run, the text sets the outw
 
 ### What an unrectified mind misses
 
-The classic names the states that knock the mind crooked. In Legge's rendering, "If a man be under the influence of passion he will be incorrect in his conduct. He will be the same, if he is under the influence of terror, or under the influence of fond regard, or under that of sorrow and distress." The cost is not misconduct but absence:
+The classic names the states that knock the mind crooked. In Legge's rendering, "If a man be under the influence of passion he will be incorrect in his conduct. He will be the same, if he is under the influence of terror, or under the influence of fond regard, or under that of sorrow and distress." The text also describes a failure of attention:
 
 > "When the mind is not present, we look and do not see; we hear and do not understand; we eat and do not know the taste of what we eat." (The Great Learning, trans. James Legge, [Chinese Text Project](https://ctext.org/liji/da-xue/ens))
 

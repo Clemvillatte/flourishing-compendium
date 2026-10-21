@@ -122,3 +122,42 @@
     the verbatim Whorf sentence — quote trimmed to start at "is itself the
     shaper of ideas" (still verbatim span, sentence lead-in paraphrased).
     Normal validator now ok.
+
+## Advisor QC round 3 + repair pass (2026-10-21, worker-w1m-7c9e2a54)
+
+- CORRECTION: earlier `enrich_state.py done "Concept"` calls used the wrong
+  syntax (missing band argument) and failed silently — items 15-17 were NOT
+  recorded at first save. Re-run with `w1w done <Concept>`; readback confirms
+  done count 15, tail Role model research / Rootedness / Sapir-Whorf
+  Hypothesis. Earlier "done" claims in ledger entries for items 15-17 were
+  premature; the repairs below are part of the same pass.
+- Repairs applied per advisor:
+  - Sapir-Whorf: "Habit, not destiny" section replaced with SEP-grounded
+    "Strong and weak forms" (SEP relativism supplement fetched; verified:
+    single-essay caveat, stronger/weaker forms, linguistic determinism;
+    Sapir "was also the teacher of Whorf" verified). "Most quoted sentence"
+    reworded to plain attribution. SEP added to Sources. Related-concepts
+    section added; noted possible overlap with existing Linguistic
+    relativity page (supervisor decision).
+  - Rootedness: unsupported genealogy ("clinical descendant") replaced with
+    neutral transition; channels sentence (place/birth/occupation) removed
+    (not in opened excerpt); "not staying put" reading narrowed to the
+    definition's emphasis; detailed-knowledge elaboration removed;
+    Attachment theory / Restorative environments links made bare;
+    Wills-translation attribution dropped (unverified).
+  - Role model research: categorical "not neutral" softened to the paper's
+    "can be threatening and deflating" / "if anything, self-deflation";
+    scope set to this entry's treatment of one paper; practical-reading
+    section explicitly marked as this page's reading, not findings;
+    concept links moved to ## Related concepts.
+  - Floor top-ups repaired: Representativeness ("trained for" claim
+    removed), Relationship categorisation (graded typicality, not graded
+    membership), Responsibility (choice kept as one route, guilt/causal-
+    chain conclusion removed), Rectification (misconduct contradiction
+    fixed to failure-of-attention transition), Repetition (novelty-in-
+    conditions claim removed; practice examples marked as compendium
+    application), Reverence (tyrant/servility example removed — not in
+    opened review; replaced with verified Chapter 7 non-religious-virtue
+    quotes from NDPR).
+- Normal validator: 9/9 ok (3 warn-level Related-count notes on older
+  pages).

@@ -19,7 +19,7 @@ The category is built against the Greek doctrine of recollection:
 
 The old is not retrieved; it becomes again, and in becoming it is new. The book's formula for the stakes is shorter and harder: "Repetition is reality, and it is the seriousness of life." (Søren Kierkegaard, Repetition, [full text, Internet Archive](https://archive.org/stream/in.ernet.dli.2015.128273/2015.128273.Repetition_djvu.txt))
 
-The category is not nostalgia. Recollection looks at what has been and is finished; repetition is the same material taken forward into a life that is still being lived. Where recollection settles accounts with the past, repetition treats the past as something that can be lived again under new conditions, and the novelty is in the conditions. For a practice built on returning — the daily review, the repeated sitting, the revisited vow — the difference matters: the return is not a second-hand copy of the first time but a new event with the old content.
+The category is not nostalgia. Recollection looks at what has been and is finished; repetition takes the same material forward into a life still being lived. On the book's own account the novelty comes from the having-been: what is repeated has been, otherwise it could not be repeated, and that fact is what gives repetition its newness. In the compendium's terms — this application is the compendium's, not Kierkegaard's — the daily review, the repeated sitting, the revisited vow are returns of this kind: the old content become again in a life still in progress.
 
 ### In the compendium
 

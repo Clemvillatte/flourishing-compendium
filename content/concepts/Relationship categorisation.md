@@ -15,7 +15,7 @@ Relationship categorisation is the study of how people sort their relationships 
 
 The taxonomic habit is old: "there is a long history of attempts to create taxonomies of friendship, dating back to Aristotle, who delineated three kinds of friendship... In friendships based on utility, we are attracted to the other person because of what they can do for us. In friendships based on pleasure, we are attracted to the other person because we enjoy their company. In friendships based on goodness, we are attracted to the other person because of their virtuous character." Modern research sorts more plainly: "The two most common ways are along demographic lines (e.g., age, gender) and in terms of the level of intimacy or closeness."
 
-The prototype approach carries a consequence for how boundaries behave. If a relationship is judged by its match to a mental representation of a fuzzy set of features, then the line between friend and not-friend is a matter of degree rather than a test with necessary conditions: a relationship can be more or less of a friendship, and the sorting is done case by case against the prototype rather than by definition.
+The prototype approach carries a consequence for how boundaries behave. If a relationship is judged by its match to a mental representation of a fuzzy set of features, then the line between friend and not-friend is a matter of degree rather than a test with necessary conditions: a given relationship can be more or less typical of the prototype, and the sorting is done case by case against it rather than by definition.
 
 ### In the compendium
 
