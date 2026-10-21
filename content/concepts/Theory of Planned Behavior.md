@@ -15,7 +15,7 @@ The theory's own abstract states the core result of the research program:
 
 The model extends the theory of reasoned action to behaviors people control only incompletely, and its added construct carries most of the practical interest. In Ajzen's words: "Consistent with an emphasis on factors that are directly linked to a particular behavior, perceived behavioral control refers to people's perception of the ease or difficulty of performing the behavior of interest." Unlike locus of control, a generalized expectancy that stays stable across situations, perceived control "can, and usually does, vary across situations and actions." And on the behavior side: "According to the theory of planned behavior, performance of a behavior is a joint function of intentions and perceived behavioral control."
 
-For the compendium's purposes the model maps intention onto three levers rather than one: what one thinks of the act, what one believes others expect, and how hard one expects the act to be. A flourishing-oriented reading of failed resolutions is usually a control-belief problem dressed as a motivation problem, so the theory directs attention to anticipated impediments and obstacles rather than to exhortation.
+The model maps intention onto three levers rather than one: what one thinks of the act, what one believes others expect, and how hard one expects the act to be. The compendium's application: when a practice stalls, the model suggests examining all three determinants before assuming that weak motivation is the cause.
 
 ## Field
 
@@ -26,7 +26,7 @@ Sociocultural · Psychological science
 - [[Implementation intentions]] — the if-then bridge from intention to action
 - [[Self-efficacy]] — the neighboring control construct
 - [[Transtheoretical model (Prochaska & DiClemente)]] — staged change rather than belief-based change
-- [[Habit formation]] — what bypasses intention altogether
+- [[Habit formation]] — a related route from repetition to behavior
 
 ## Sources
 

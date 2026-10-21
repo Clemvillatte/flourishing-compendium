@@ -15,7 +15,7 @@ The theory's own summary of its three components:
 
 The amount of love depends on the absolute strength of the three components; the kind of love depends on their strengths relative to each other. That is what generates the theory's famous catalog: intimacy alone is liking, passion alone infatuation, commitment alone empty love, intimacy plus passion romantic love, intimacy plus commitment companionate love, passion plus commitment fatuous love, and all three together consummate love. On the last, Sternberg writes: "Consummate, or complete, love results from the full combination of the three components. It is a kind of love toward which many of us strive, especially in romantic relationships. Attaining consummate love can be analogous in at least one respect to meeting one's target in a weight-reduction program: Reaching the goal is often easier than maintaining it."
 
-That closing image carries the theory's practical point for a compendium on flourishing: love is not an achievement one banks but a balance one keeps. Each component responds to different inputs and decays on a different schedule, so maintaining a love means tending all three sides of the triangle, not just the one that first brought the couple together.
+That closing image carries the theory's practical point for a compendium on flourishing: love is not an achievement one banks but a balance one keeps. In Sternberg's words, "The attainment of consummate love is no guarantee that it will last," and its loss "is sometimes analogous to the gain of weight after a weight-reduction program: One is often not aware of the loss of the goal until it is far gone."
 
 ## Field
 
@@ -23,7 +23,7 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
-- [[Attachment theory]] — the developmental substrate the components sit on
+- [[Attachment theory]] — a neighboring research tradition on bonds
 - [[Companionate love in adversity]] — intimacy plus commitment under pressure
 - [[Compassionate love]] — a neighboring construct from a different tradition
 - [[Love]] — the hub page
