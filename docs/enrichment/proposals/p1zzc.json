@@ -1,6 +1,6 @@
 {
  "batch": "p1zzc",
- "revision": 16,
+ "revision": 17,
  "reciprocal": [
   {
    "into": "Benign versus malicious envy",
@@ -85,6 +85,12 @@
    "link": "SP039",
    "why": "Spinoza's rule to examine the ends before improving the means, set against Dewey's continuity of means and ends",
    "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §§1-6."
+  },
+  {
+   "into": "Adequate idea",
+   "link": "SP044",
+   "why": "Spinoza's account of method starting from a given true idea, the method-side treatment of adequacy",
+   "notes": "SP044 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP044 occurrences; grounded in the opened Elwes Emendation §§35-39."
   }
  ]
 }

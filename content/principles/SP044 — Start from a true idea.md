@@ -12,16 +12,24 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 44** — Start from a true idea
 
-Method, Spinoza argues, cannot begin from doubt; it begins from a given true idea, and reflects on it to learn what makes truth true, the way a good blacksmith studies a good hammer to learn forging. Doubt is not a foundation, because doubt can only be doubt about something. This makes Spinoza the anti-Cartesian of method: clear seeing is trained from real examples of clarity, not manufactured from universal suspicion. Practically, when confused, do not start from your doubts; start from the one thing you see most clearly in the situation, and build outward.
+Method, for Spinoza, cannot begin from doubt, because method itself is "reflective knowledge, or the idea of an idea", and "there can be no method without a pre-existent idea" (On the Improvement of the Understanding, §38). What it reflects on is a given true idea, studied to learn what truth is like:
 
-(Treatise on the Emendation of the Intellect, sections 33-39.)
+> "that will be a good method which shows us how the mind should be directed, according to the standard of the given true idea." (On the Improvement of the Understanding, §38, [Elwes](https://www.gutenberg.org/ebooks/1016))
 
-**Plain words** Method begins not from doubt but from a given true idea — reflect on it to learn what makes truth true, the way a blacksmith studies a good hammer to learn forging. Doubt is not a foundation: doubt can only be doubted in turn. Start from something true and study its structure.
+No external mark of truth is needed: "for the certitude of truth, no further sign is necessary beyond the possession of a true idea" (§35). The tools analogy guards against an infinite regress of methods: to work iron you need a hammer, but the first tools came from what nature supplied, and likewise "a true idea must necessarily first of all exist in us as a natural instrument" (§39). The compendium's label for Spinoza's position, the anti-Cartesian of method: clear seeing is trained from real examples of clarity rather than manufactured from universal suspicion. Practically, when confused, do not start from your doubts; start from the one thing you see most clearly in the situation, and build outward.
 
-*For example:* The person who tries to build their worldview from universal skepticism — and keeps sawing the branch they sit on — versus the one who starts from one solid known ("this much is true") and studies why it holds. The second one builds.
+**Plain words**
+You cannot build a method for finding truth out of suspicion, because suspicion needs something to be about. Spinoza's starting point is one true idea you already hold, examined closely: how do you know this one? What does its clarity feel like? That examination is the method. The smith's first hammer came from nature's raw tools; your first standard comes from an idea you already see truly. When confused, find your one clearest thing and study how you know it.
+
+*For example:* One person tries to build a worldview from universal skepticism and keeps sawing the branch they sit on. Another starts from one solid known, "this much is true", and studies why it holds. That is the method.
+
+## Sources
+
+- [Spinoza, On the Improvement of the Understanding, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/1016) — §§30-39 (tools analogy, true idea, method as idea of an idea)
+
 ## Psychology parallels
 
-- **[[Cognitive restructuring|Cognitive restructuring's reliance on evidence]]**, the CBT procedure of testing thoughts against data (Beck, 1976)
+- **[[Cognitive restructuring|Cognitive restructuring's reliance on evidence]]** (Beck, 1976)
 
 ## Philosophy parallels
 
