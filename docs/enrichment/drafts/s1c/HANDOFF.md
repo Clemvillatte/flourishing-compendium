@@ -29,5 +29,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-021 | Six Monks Answer in the Brick Hall (AN 6.19; Thanissaro, Sujato) | B193 | ready |
 | s1c-022 | Marshall Drinks the Broth (Nobel Lecture 2005) | P022, P017 | ready |
 | s1c-023 | A Ghost Story Passes Through Nine Cambridge Heads (Bartlett 1920) | P098 | ready; 1932 book not opened |
+| s1c-024 | Feynman and the Wobbling Plate (Surely You're Joking; AJP 2007 abstract) | P053, P120 | ready; AJP paper itself not opened |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
