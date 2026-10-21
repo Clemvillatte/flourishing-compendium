@@ -500,7 +500,22 @@
      "note": ""
     }
    ]
+  },
+  "s1a-022": {
+   "status": "qc_pending",
+   "angle": "MN 36 austerities pivot B026",
+   "history": [
+    {
+     "t": "2026-10-21T11:56:11+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T11:56:11+00:00",
+     "to": "qc_pending",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T11:39:36+00:00"
+ "updated": "2026-10-21T11:56:11+00:00"
 }
