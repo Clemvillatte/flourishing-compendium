@@ -980,7 +980,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-036": {
+   "status": "ready",
+   "angle": "P034/P008: Hao bridge (Zhuangzi 17, Legge + Giles)",
+   "history": [
+    {
+     "t": "2026-10-21T12:51:03+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:51:03+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:51:03+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked"
+    },
+    {
+     "t": "2026-10-21T12:51:03+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:49:58+00:00"
+ "updated": "2026-10-21T12:51:03+00:00"
 }
