@@ -272,10 +272,11 @@
   "K111",
   "Scheduled empty time",
   "The Befriending meditation",
-  "Rest as practice"
+  "Rest as practice",
+  "Cultivate your Compassionate Self"
  ],
  "in_progress": null,
- "updated": "2026-10-21T14:35:18+00:00",
+ "updated": "2026-10-21T14:37:31+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
