@@ -115,3 +115,23 @@
 - Note: the principle-queue question was re-verified with the correct manifest key
   ('principles'): NO principle-band manifest items remain anywhere — concept work is the
   only worker-available lane.
+
+## Meditation neurobiology theory Lazar (fast-track, degree 2) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: c49e9e02 (seed line + Field + Cited-in only; NO Sources section — validator
+  error caught, Sources added with the two PubMed URLs). Validated --fast-track: ok
+  (warn: 1 Related line, fast-track scope).
+- Sources opened: NCBI efetch PubMed records — Lazar et al. 2005 Neuroreport 16(17):1893-7
+  (PMID 16272874, cortical thickness abstract quoted verbatim in full) and Lazar et al.
+  2000 Neuroreport 11(7):1581-5 (PMID 10841380, fMRI/autonomic abstract quoted verbatim).
+  CATCH: a from-memory PMID guess (10842780) returned an unrelated cancer-nursing paper —
+  rejected, and the correct 2000 PMID found via esearch (Lazar SW + meditation). Do not
+  guess PMIDs from memory.
+- Scope notes: the seed's 'network connectivity and stress physiology' claim is carried
+  as the compendium's framing; the page's own prose supports cortical thickness (2005)
+  and attention/autonomic activation (2000) only, and states the cross-sectional
+  association limit of the 2005 design ('associations the authors read as consistent
+  with practice-dependent plasticity' — the abstract's own words are 'first structural
+  evidence for experience-dependent cortical plasticity').
+- Related: [[Default mode network]] row grounded by reading that page's body (Brewer 2011
+  meditation contrast; bare link back to this page already present there).
+- QC: none required this item (cadence: first item + every 5th; this is item 2).
