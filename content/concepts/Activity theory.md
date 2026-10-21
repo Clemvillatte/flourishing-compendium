@@ -9,23 +9,23 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 ## In plain words
 
-Activity theory is the cultural-historical account of mind that refuses to look at a person alone. It holds that what we think and want is shaped by shared, tool-mediated activity: by what a community does together, with what instruments, under which rules and divisions of labour. Its founders are the Soviet psychologists Vygotsky, Leontiev and, in the current generation, Yrjö Engeström.
+Activity theory (AT) is the Soviet-born school of psychology that refuses to study the person alone. Its unit of analysis is "object-oriented, collective and culturally mediated human activity, or activity system," a system that "includes the object (or objective), subject, mediating artifacts (signs and tools), rules, community and division of labor" ([Wikipedia, Activity theory](https://en.wikipedia.org/wiki/Activity_theory)). What we think and want is treated as a product of what a community does together, with what instruments, under which rules.
 
 ## Where it comes from
 
-The line runs from Vygotsky's tool-mediated action, through Leontiev's structure of activity, to Engeström's activity systems. Leontiev built a mobile hierarchy: activities are driven by motives, actions by goals, operations by the conditions at hand. In his 1975 lectures he described how parts shift level: "only in a second step can this goal, and, consequently, the action corresponding to the goal, be moved, so to speak, up the hierarchical ladder, and turn into a motive" ([Leontiev, Lecture 36, 1975](https://www.marxists.org/archive/leontev/works/1975/lecture.pdf)). What begins as a step in a larger activity can harden into its own motive.
+The school grew out of the "troika" of Vygotsky, Leont'ev and Luria at the Moscow Institute of Psychology: Vygotsky founded cultural-historical psychology, and Leont'ev, who "both developed and reacted against Vygotsky's work," formulated the general theory of activity ([Wikipedia, Activity theory](https://en.wikipedia.org/wiki/Activity_theory)). In Leont'ev's hierarchy, activities answer to motives, actions to conscious goals, operations to the conditions at hand, and the levels trade places: "only in a second step can this goal, and, consequently, the action corresponding to the goal, be moved, so to speak, up the hierarchical ladder, and turn into a motive" ([Leontiev 1975, Lecture 36](https://www.marxists.org/archive/leontev/works/1975/lecture.pdf)). Yrjö Engeström later developed the third generation, mainly in studies of work and organisations.
 
 ## How it works
 
-Engeström extended the triangle to whole activity systems, adding community, rules and division of labour to Vygotsky's subject, tools and object. In his 2001 formulation, "the emerging third generation of activity theory takes two interacting activity systems as its minimal unit of analysis," with five principles: activity system as unit of analysis, multi-voicedness, historicity, contradictions as the driving force of change, and expansive cycles as a possible form of transformation ([Engeström 2001, abstract](https://www.tandfonline.com/doi/abs/10.1080/13639080020028747)).
+Engeström's model widens Vygotsky's triangle of subject, tools and object by adding community, rules and division of labour ([Wikipedia, Activity theory](https://en.wikipedia.org/wiki/Activity_theory)). In his 2001 formulation, "The emerging third generation of activity theory takes two interacting activity systems as its minimal unit of analysis," with five principles: activity system as unit of analysis, multi-voicedness, historicity, contradictions as the driving force of change, and expansive cycles as a possible form of transformation ([Engeström 2001, abstract](https://www.tandfonline.com/doi/abs/10.1080/13639080020028747)).
 
 ## What it explains
 
-The theory explains why changing a practice means changing a system, not just a person's attitude: the same subject with different tools, rules and colleagues is a different actor. It also explains development as expansive learning, in which contradictions inside an activity system push participants to reconceptualise what they are doing together.
+The framework is used to analyse why practices hold together: a person's behaviour is read as one strand of a system that includes tools, rules and colleagues. Its developmental concept is expansive learning, in which contradictions inside an activity system push participants to reconceptualise what they are doing together ([Engeström 2001, abstract](https://www.tandfonline.com/doi/abs/10.1080/13639080020028747)).
 
 ## Everyday life
 
-A volunteer who joins a food kitchen arrives with motives of her own; the kitchen's tools, shift rules and role divisions quietly reshape what she notices and wants. When the work stops making sense, activity theory says: look for the contradiction in the system, not the flaw in the person. That is its lesson for wisdom development: flourishing is something a whole setting affords.
+As an illustration: a volunteer joining a food kitchen could be studied as entering a whole system, her tasks shaped by its rosters, tools and house rules, not just by her private motives. Where the work stops making sense, the theory directs attention to tensions among those elements.
 
 ## Field
 
@@ -36,7 +36,7 @@ Sociocultural · Psychological science
 - [[Vygotsky's sociocultural theory]] — the root tradition
 - [[The zone of proximal development]] — learning inside joint activity
 - [[Situated learning theory]] — the neighbouring account of practice
-- [[Flow]] — activity at its absorbing best
+- [[Flow]] — absorbing engagement with an activity
 - [[Vocabularies as tools]] — language as mediating instrument
 
 ## Sources
@@ -45,6 +45,7 @@ Sociocultural · Psychological science
 - [Leontiev 1975 lecture PDF (marxists.org)](https://www.marxists.org/archive/leontev/works/1975/lecture.pdf) — hierarchy-of-motives passage, verbatim (opened)
 - Engeström, Y. (2001). Expansive learning at work. Journal of Education and Work, 14(1), 133-156.
 - [Engeström 2001 abstract (Taylor & Francis)](https://www.tandfonline.com/doi/abs/10.1080/13639080020028747) — third-generation definition and five principles, verbatim (opened)
+- [Wikipedia, Activity theory](https://en.wikipedia.org/wiki/Activity_theory) — definition, lineage, components, levels (opened)
 
 ## Cited in philosophy parallels
 

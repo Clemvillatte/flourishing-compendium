@@ -24,12 +24,12 @@
   "Walking off one's thoughts",
   "Whole Trait Theory",
   "Cohort model of speech perception",
-  "Ahimsa",
   "Allostasis theory",
   "Action Assembly Theory",
-  "Action Identification Theory"
+  "Action Identification Theory",
+  "Activity theory"
  ],
- "in_progress": "Activity theory",
+ "in_progress": "Ahimsa",
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
@@ -63,10 +63,11 @@
   "Behaviorism": "NEXT-ITEM NOTE (2026-10-21, worker-w1m-5f8e3a2b-resumed): the predecessor session reported 'Behaviorism page done' but the reported enrichment was not found in the checked remote state (origin/main; page at seed) — the draft was not pushed before that session ended. Redo the page per the binding theory standard in docs/enrichment/EXEMPLARS.md (Watson/Skinner; school-of-thought form). Also outstanding from the predecessor: the 'formal/computational box' theory-page pattern is now demonstrated by Cohort model of speech perception (certified).",
   "Action Assembly Theory": "Reopened for QC: advisor QC round 2: factual repairs + source verification",
   "Action Identification Theory": "Reopened for QC: advisor QC round 2: source verification + example fix",
-  "Activity theory": "Reopened for QC: advisor QC round 2: lineage sourcing + absolutes removed"
+  "Activity theory": "Reopened for QC: advisor QC round 2: lineage sourcing + absolutes removed",
+  "Ahimsa": "Reopened for QC: advisor QC round 2: primary source add, superlative removed, metaphor softened"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:39:31+00:00",
+ "updated": "2026-10-21T13:40:11+00:00",
  "band_done": false
 }
