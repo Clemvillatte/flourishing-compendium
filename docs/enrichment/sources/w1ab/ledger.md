@@ -992,3 +992,13 @@
   framing grounded by the opened text. Related: Education as growth, Cardinal virtues,
   Designing for virtue (navigational captions). Degree 1 — fast-track. Validation
   --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Passive nihilism (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: the Wikipedia Nihilism article's Nietzsche section, opened fresh — two passages
+  verified verbatim (the passive/active distinction passage incl. the masking-behind-dogmas
+  gloss; the broad-cultural-phenomenon framing with the lose-values-and-ideals clause).
+  The seed's locus (The Will to Power notebooks) noted per the article's own citations;
+  the WP section-22 notebook text itself was NOT opened this pass (SEP fetch failed;
+  recorded here for the next worker as an optional primary upgrade). Related: Nihilism,
+  Will to power, Amor fati (navigational captions). Degree 1 — fast-track. Validation
+  --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
