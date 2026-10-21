@@ -443,3 +443,25 @@
   activity/Cardiorespiratory title searches all empty) — Related section omitted
   (fast-track scope; validator warns only).
 - QC cadence: item 12; next advisor milestone due at item 15.
+
+## Multiple Trace Theory of Memory (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Field + AT063 link + Cited-in empty). Validated
+  --fast-track --base 4b2bebc4f: ok.
+- Carriers opened: NCBI efetch PubMed records — Sutherland, Lee, McDonald & Lehmann 2020,
+  Hippocampus 30(8):842-50 ('Has multiple trace theory been refuted?', PMID 31584226 via
+  esearch) and Harand et al. 2012, PLoS One 7(8):e43495 (PMID 22937055 via esearch).
+  Both quoted verbatim: the 2020 review's standing statement, the most-often-supported
+  claim (comparable RA severity for recent and remote episodic memories after extensive
+  HPC damage), the 'little or no experimental support' list of other core predictions,
+  and the 2012 fMRI episodic-vs-semantic activation pattern.
+- BALANCE: the page carries the critical side (unsupported core predictions) alongside
+  the supportive fMRI finding — the theory's contested status is on the page, not just
+  the seed's favorable framing. The bold seed line is retained as compendium framing;
+  the body's claims are the opened records'.
+- The Field block's AT063 link is the page's own existing link (preserved); the 'In the
+  compendium' line describes it as what it is (a Field-block listing) — note for the
+  advisor: AT063 is a media-multitasking principle; the link is inherited seed
+  structure, preserved per the no-link-loss rule.
+- Related: Memory reconsolidation and Reconstructive memory exist (verified earlier);
+  comparative clauses only.
+- QC cadence: item 13; next advisor milestone due at item 15.
