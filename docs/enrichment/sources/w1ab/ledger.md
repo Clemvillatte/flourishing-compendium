@@ -1019,3 +1019,13 @@
     ' — ' constructions; also NOTE: enrich_validate returns exit 0 even on failure, so its
     output must be checked for 'failed' before saving — the save+push chain ran despite
     the failure, twice this session); dashes reduced to 3, re-validated ok, fix pushed.
+
+## ITEM: Overconfidence effects (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: Moore & Healy 2008, 'The trouble with overconfidence' (Psychol Rev, PMID
+  18426301), abstract fetched — three passages verified verbatim (the three-way
+  reconciliation of overestimation/overplacement/excessive precision; the
+  difficult-vs-easy task pattern; the overprecision persistence finding). CAUGHT before
+  save: a first draft guessed the psychology-parallel link; the seed's actual link
+  [[D075 — Don't underestimate challenges]] restored from the pre-edit file via git show
+  before validation. Related: Planning fallacy, Dunning-Kruger effect, Optimism
+  (navigational captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok.
