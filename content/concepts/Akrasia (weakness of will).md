@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
 
-Akrasia (ἀκρασία) is the ancient Greek term for weakness of will. In the modern discussion, akrasia is action contrary to one's present better judgment ([Stroud & Svirsky, "Weakness of Will", SEP, §3](https://plato.stanford.edu/entries/weakness-will/)). Aristotle treats it in Book VII of the Nicomachean Ethics; as [Kraut, "Aristotle's Ethics", SEP, §7](https://plato.stanford.edu/entries/aristotle-ethics/) glosses the Greek, akrasia is "incontinence", literally "lack of mastery".
+In the modern discussion, akrasia is action contrary to one's present better judgment ([Stroud & Svirsky, "Weakness of Will", SEP, §3](https://plato.stanford.edu/entries/weakness-will/)). Aristotle treats it in Book VII of the Nicomachean Ethics; as [Kraut, "Aristotle's Ethics", SEP, §7](https://plato.stanford.edu/entries/aristotle-ethics/) glosses the Greek, akrasia is "incontinence", literally "lack of mastery".
 
 > "In his dialogue the Protagoras, Socrates denies even the possibility of akrasia (weakness of will, incontinence)." — [Stroud & Svirsky, "Weakness of Will", SEP, §1](https://plato.stanford.edu/entries/weakness-will/)
 

@@ -43,10 +43,10 @@
   "Stress cycle completion (Nagorski, Sapolsky)": "Attribution/title caveat: opened source names Emily and Amelia Nagoski; legacy Sapolsky link not certified. Supervisor rename/reference proposal in w1i-proposals.md; protected identifiers unchanged.",
   "System justification theory": "RESOLVED by takeover session 2026-10-20: item completed with Jost, Banaji and Nosek 2004 as opened source; see w1i-notes.md session section. QC status: first-item advisor repairs applied, re-review pending.",
   "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) — repair-presence check, not a fresh source audit",
-  "Akrasia (weakness of will)": "Reopened for QC: first-item advisor QC FAIL: Hare direction wrong (he defended impossibility), section locators wrong, Holton attribution to fix, unsupported Related clauses to remove"
+  "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:17:42+00:00",
+ "updated": "2026-10-21T06:23:04+00:00",
  "band_done": false
 }
