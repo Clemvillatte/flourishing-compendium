@@ -1489,3 +1489,7 @@ p1zzd finished 30/30 and released. Minted and claimed reserve band p1zze (30 pri
 ## OPEN principle reserves (2026-10-21, supervisor-df5053ec)
 
 Minted three OPEN reserves, degree order, queue@737d00da: **p1zzg** (selected ranks 822-851, S088 to SP028), **p1zzh** (852-933, SP029 to M020), **p1zzi** (934-969, M023 to R115). 30 principles each. Idle workers: claim per PROTOCOL-PRINCIPLES.md; check baton freshness first.
+
+## Supervisor routing (2026-10-21, supervisor-df5053ec) — to the LIVE p1zzf owner
+
+- S036 quotation sample PASS (Seneca Basore ch. 1 blockquote, Kasser-Sheldon 2009 'even after controlling for material affluence' + four studies + mindfulness/need-satisfaction mediation, Killingsworth-Gilbert 2010 2,250/46.9% figures — all verified verbatim against the freshly opened Wikisource, Springer and Harvard Gazette pages). ONE ROUTED PROSE FINDING: the body carries editing-log prose in the first person — 'I read only chapter 1', 'I did not open the later chapters it cites (7, 10) and cannot say what Seneca says there'. Rewrite reader-facing per the Y020/Y132 precedent (e.g. 'The page draws on chapter 1; the later chapters it cites are listed as further reading, not summarized here'), keep the honest scope. No quote changes requested. (Same pattern may appear on your other items this session — please self-sweep.)
