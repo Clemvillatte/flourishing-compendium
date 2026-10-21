@@ -18,28 +18,24 @@
   9/30 done). Advisor QC due at the item-5 milestone of this session's items
   (S132+S138 are items 1-2). Batons: p1zzg held, clocking in.
 
-- CURRENT SUPERVISOR (2026-10-21 ~04:0xZ, supervisor-81d2d905, LIVE — passes 1-3 logged in the
-  OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Pass 1:
-  p1zzb proposals integrated (8 reciprocals, 8 files, all diffs inspected pure insertions,
-  post-apply FAILs pre-existing); reserves p1zzj/p1zzk/p1zzl minted (30+30+9 — the unassigned
-  principle pool is now FULLY DRAINED; five OPEN reserves: p1zzh/p1zzi/p1zzj/p1zzk/p1zzl);
-  samples Festinger (2 defects found and repaired: Derivation-A relabel, source capitalization
-  preserved) and S114 (PASS). Pass 2: new-worker samples AF029 (p1zzc) and SP029 (p1zzh) both
-  PASS; the p1zzb-routed Kraus et al. 2012 SO-Appendix miscite repaired (PubMed PMID 22775498);
-  the four w1b deferred recovery records confirmed already satisfied (no action). Pass 3:
-  p1zzh proposal applied (1 reciprocal into Freedom, Spinoza I D7 clause); X026 sampled —
-  quote verified vs the Whitman Archive variorum, ONE truncation defect ROUTED to the live
-  p1zzc owner (TASKBOARD note). A TOOLING WARNING is on the TASKBOARD: enrich_stats.py
-  rewrites queue-principles.json as a side effect — restore it after any stats run, never
-  commit an unintended regeneration (this supervisor's own --weak 1 run emptied it locally;
-  caught and restored before any commit). NEXT SUPERVISOR ACTIONS: (1) monitor the live
-  workers (p1zzc fresh — X026 route pending; p1zzg fresh; p1zzh fresh, producing) and sample
-  their next milestones; (2) verify the X026 route lands; (3) standing owner dispositions
-  unchanged (AF037 title, BI013≈BE037 / BI033≈BE042 near-duplicates, AF050 Rumination alias,
-  M044 That-of-God alias, M010 perspective-taking alias, broken concept targets [[Panta rhei]]
-  / [[Quick to hear, slow to speak]]); (4) note the apply-tooling archive behavior
-  (applied/<band>.json rewritten to only the newly applied records — historical records
-  recoverable in git; flagged in the QC log).
+- CURRENT SUPERVISOR (2026-10-21 ~04:2xZ, supervisor-81d2d905, LIVE — passes 1-7 logged in the
+  OPERATIONS.md QC log, monitoring continues): took the RELEASED supervisor baton. Passes 1-3:
+  p1zzb integration (8 recip); reserves p1zzj/p1zzk/p1zzl minted (pool fully drained — five OPEN
+  reserves); samples Festinger (2 repairs), S114, AF029, SP029, X026 (defect routed), R029
+  (editing-log route), X001 — all logged in the QC log. Pass 4: p1zza standing flags dispositioned
+  (AF050 and M010 aliases VERIFIED against freshly opened sources — both stand; M044 + broken
+  concept targets RESOLVED — sayings pages exist and links resolve). Passes 5-6: p1zzi's Kraus
+  SO-Appendix miscite repaired (PubMed PMID 22775498); routed repairs re-applied by supervisor
+  on released bands (X026 quote extended to the source's full sentence; R029/R031/PP074/PP052
+  first-person editing-log prose rewritten reader-facing). Pass 7: 21-file window all validate ok;
+  X001 sampled — all five Sextus/Bury fragments verbatim, PASS. TOOLING WARNING on the TASKBOARD:
+  enrich_stats.py rewrites queue-principles.json as a side effect — restore after any stats run.
+  Board at this checkpoint: p1zzj live (agent-67500cd2), p1zzh live, an X/SP-item worker live,
+  p1zzg live earlier; p1zzk/p1zzl reserves still OPEN. NEXT SUPERVISOR ACTIONS: (1) monitor the
+  live workers, sample their milestones; (2) pending owner dispositions unchanged (AF037 title,
+  BI013≈BE037 / BI033≈BE042 near-duplicates); (3) check the p1zzh/p1zzj proposals when they
+  appear; (4) apply-tooling archive behavior noted (applied/<band>.json keeps only newly applied
+  records — history in git).
 
 - SUPERVISOR CHECKPOINT (2026-10-21 ~03:5xZ, supervisor-7c2a91e4 — same session as
   worker-p1zza-7c2a91e4, closing the session's outstanding items): took the
