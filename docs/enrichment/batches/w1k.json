@@ -40,9 +40,10 @@
   "Risk perception",
   "Self-overcoming",
   "Social capital theory Putnam",
-  "Temporal dynamics of regulation"
+  "Temporal dynamics of regulation",
+  "Perception as interpretation"
  ],
- "in_progress": "Perception as interpretation",
+ "in_progress": null,
  "flagged": {
   "Koan practice": "QC round 3 RESOLVED: Showing versus saying / The limits of language glosses reduced to bare wikilinks (compendium-internal reading only); evidence-note correction: UNPROMPTED raw fetches = SEP section 2 and Mumonkan Case 1 (both retained blockquotes verified verbatim in raw text; two-methods sentence also confirmed); PROMPTED fetches = Wikipedia Koan and Case 29. Advisor round-3: everything else in the reviewed page passes.",
   "Abhyasa": "QC2 REPAIR: unverified seed opening paragraph removed per advisor (its YS 1.12-14 locator and counterpart claims were not verified from opened pages); all three edges preserved as bare Related links ([[Vairagya]], [[Habituation]], Attentional control training); all retained prose and quotes grounded in opened wisdomlib/Wikipedia pages. Validated vs baseline 9f08ef22: ok.",
@@ -64,7 +65,7 @@
   "Nepantla": "Grounded in the opened authoritative source: James Maffie, The Centrality of Nepantla in Conquest-Era Nahua Philosophy, Nahua Newsletter 44 (2007) — the actual PDF downloaded and read page-by-page (fetchers were blocked by robots; retrieved via curl from nahuanewsletter.org; the dead archive URL from the citation was resolved to the live wp-content URL); two verbatim blockquotes (the nepantla-process summary and the borderland sentence) plus the Duran gloss ('betwixt and between' (en medios) and 'neither one nor the other' (neutros)), all word-for-word from the PDF text. Seed repairs: the inherited Wikipedia-sourced body was replaced with grounded prose (inherited wording is not evidence); the unverified 'the tradition counsels staying in nepantla without prematurely resolving it' sentence dropped (not established by any opened source); the Anzaldúa borderlands sentence retained as inherited seed content under its own seed citation (Wikipedia was rate-limited during the rewrite, so it could not be re-opened; the claim is NOT asserted as verified — flagged for a future pass to ground Anzaldúa in an opened scholarly source). Seed source line preserved. Validated vs seed baseline c2a3ee47: ok.",
   "Oneness of things": "Grounded in the opened primary source: Zhuangzi Chapter 2, Watson translation (fetched from Terebess Asia Online; the oneness passage quoted verbatim — 'Heaven and earth were born at the same time I was, and the ten thousand things are one with me' through 'Better not to move, but to let things be!'; the editor's footnote marker 12 removed). Seed line preserved; inherited source line preserved; the four seed principle links (K228, D008, ST002, K146) preserved as bullets under In the compendium; B015/B143 Cited-in preserved; lead-in sentence carries inline citation; no priority claims about the chapter. Validated vs seed baseline c2a3ee47: ok.",
   "Order out of chaos": "Grounded in the opened authoritative source: Prigogine's Nobel Lecture, Time, Structure and Fluctuations (1977), fetched from nobelprize.org (trusted official source; PDF); two verbatim blockquotes — the Benard-convection passage (fluctuations amplified above a critical value, supermolecular order as a giant fluctuation stabilized by energy exchange, 'dissipative structures') and the abstract's claim that non-equilibrium may become a source of order. The seed names Prigogine and Stengers (the book Order Out of Chaos, 1984 — not opened, not characterized); the Nobel lecture is the author's own primary scientific text covering the same theory. Seed line and inherited source line preserved; the five seed principle links (P148, M040, P007, SP092, P174) preserved as bullets under In the compendium; P149 Cited-in preserved; lead-ins carry inline citations. Validated vs seed baseline c2a3ee47: ok.",
-  "Perception as interpretation": "namespace-audit: Kant primary and SEP McLear opened; no definition of exact thesis-like heading located; named conceptualism debate is contested. File unchanged; supervisor classification/rename/route needed.",
+  "Perception as interpretation": "label is compendium summary not Kant wording; page notes Kant's claim is universal structure not subjective interpretation",
   "Perception precedes thought": "namespace-audit: opened DeAnimaII/III, dependencies/faculties/images do not define heading as named unit; distinguish chronological thesis from universal rule. File unchanged; supervisor route needed.",
   "Reading the moment": "DEFERRED: namespace classification requested (compendium label for the Zhouyi timing tradition; no authoritative use of the exact heading found; seed restored; see sources/w1k worker-4d7a91c2 ledger)",
   "Redemption sequences": "Reopened for QC: QC 5-item milestone: verify introduction claims, scope coding sentence, attribute associations to opened carrier",
@@ -80,6 +81,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:30:25+00:00",
+ "updated": "2026-10-21T08:31:23+00:00",
  "band_done": false
 }
