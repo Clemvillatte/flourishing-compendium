@@ -12,13 +12,18 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 70** — Live among the free; friendship is the economy of the strong
 
-Only the free are maximally useful to one another, Spinoza argues, because exchanges among the rational compound power instead of draining it. The practical corollary is a friendship policy: your closest relationships are either places where your power is restored or places where it is taxed, and the strong person audits the portfolio. This is not utilitarian coldness; it is Spinoza's exact definition of friendship as mutual aid in strength. Practically, for each of your five closest people, ask: after time together, am I more or less able to act on my aims?
+Spinoza's appendix to Part IV makes the social rule plain: it is "especially useful to men to relate closely to one another, binding themselves by whatever bonds are apt to make them one, and... to do whatever will strengthen their friendship" ([Ethics IV appendix 12, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). The agreement of natures is what does the work: living "among individuals whose nature agrees with his own" aids and encourages a person's power of acting, while living among disagreeing natures forces him to change himself greatly to accommodate them ([Ethics IV appendix 7, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)). Among the free this compounds: "Only free men are very useful to one another, are united by the strongest bonds of friendship, and are equally loving in their attempts to benefit one another" ([Ethics IV P71, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf)).
 
-(Ethics IV, P70-71.)
+> "It is especially useful to men to relate closely to one another, binding themselves by whatever bonds are apt to make them one, and—another absolute rule—to do whatever will strengthen their friendship." (Spinoza, Ethics IV appendix 12, [Bennett clear-language translation](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf))
 
-**Plain words** Only the free are maximally useful to one another — exchanges among the rational compound power instead of draining it. The friendship policy: your closest relationships are your economy. Live among the free; it's not snobbery, it's compounding.
+**Plain words**
+Spinoza's claim is about fit, not status. A person among agreeing natures is aided in acting; among clashing natures he must constantly reshape himself to get along, which spends the power he would otherwise act with. Friendship among the rational has no debt structure: each benefits the other as an expression of his own nature, and the P71 note contrasts that with the bargain-like gratitude that only repays.
 
-*For example:* The two friendships on offer: one built on mutual complaining (draining), one built on mutual building (compounding) — and the year someone deliberately shifts their hours from the first to the second. The portfolio rebalance pays for itself.
+**For example**
+Hypothetical illustration: two colleagues who share a standard trade critique freely and each ends the term more capable; two who trade flattery keep a silent ledger instead.
+
+(Ethics IV, P70-71; appendix items 7 and 12.)
+
 ## Psychology parallels
 
 - **[[Self-expansion|Self-expansion through close relationships]]**, the model of relationships as sources of growth (Aron et al., 1992)
@@ -27,3 +32,7 @@ Only the free are maximally useful to one another, Spinoza argues, because excha
 
 - **[[Friendship|Friendship of the good]]** (Aristotle, Nicomachean Ethics VIII)
 - **[[Iron sharpens iron|Iron sharpens iron]]** (Proverbs 27.17)
+
+## Sources
+
+- [Spinoza, Ethics, Bennett clear-language translation (earlymoderntexts.com)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1665.pdf) — IV P70-71; IV appendix items 7 and 12

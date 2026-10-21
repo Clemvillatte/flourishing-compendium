@@ -5,7 +5,8 @@
   "SP043",
   "SP046",
   "SP068",
-  "SP069"
+  "SP069",
+  "SP070"
  ],
  "in_progress": null,
  "flagged": {
@@ -13,10 +14,11 @@
   "SP043": "milestone QC closed: scoped PASS (closeout round 2, repairs verified)",
   "SP046": "milestone QC closed: scoped PASS (closeout round 2)",
   "SP068": "milestone QC closed: scoped PASS (closeout round 2)",
-  "SP069": "milestone QC closed: scoped PASS (closeout round 2)"
+  "SP069": "milestone QC closed: scoped PASS (closeout round 2)",
+  "SP070": "inherited: Aron et al. 1992 bare reference not opened this session"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T04:17:53+00:00",
+ "updated": "2026-10-21T04:18:17+00:00",
  "band_done": false
 }
