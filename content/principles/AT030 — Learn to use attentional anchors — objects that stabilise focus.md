@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 30** — Learn to use attentional anchors: objects that stabilise focus
 
-An attentional anchor is a stable object (breath, body sensation, sound, mantra) that attention can return to when it wanders. Anchors provide a "home base" for attention that stabilises focus and reduces the effort of concentration.
+Lutz and colleagues describe focused attention meditation as "the voluntary focusing of attention on a chosen object". They say the practice develops three skills: a monitoring faculty that stays vigilant to distractions without destabilising the intended focus, the ability to disengage from a distracting object without further involvement, and the ability to redirect focus promptly to the chosen object ([Lutz et al. 2008, PDF copy](https://www.wisebrain.org/media/Papers/AttentionRegulationMeditation.pdf)). A methods review adds that the usual object is breath sensations, and that on noticing the mind has wandered the practitioner gently shifts attention back "without self-judgment" ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)).
 
-**Plain words** An anchor is something stable to come back to — breath, feet on the floor, a sound. Attention will drift; the anchor is the dock you return the boat to. You don't need a mind that never wanders, just a reliable place to land.
+Hasenkamp and colleagues modelled the experience as a cycle of four phases: mind wandering, awareness of mind wandering, shifting attention, and sustained attention. In their imaging study, default-mode regions were active during mind wandering, salience-network regions during awareness of it, and executive-network regions during shifting and sustained attention, with the pattern modulated by lifetime meditation experience ([Hasenkamp et al. 2012, summary](https://github.com/buddhist-uni/buddhist-uni.github.io/blob/main/_content/articles/mind-wandering-and-attention-during_hasenkamp-wendy-et-al.md)). The wandering is thus part of the practice, and the return is where the training happens.
 
-*For example:* In a tense meeting, one slow breath with feet flat on the floor — that's the anchor dropping. You come back to the room with something to hold.
+### Scope
+
+These sources concern breath-focused meditation in trained practitioners. I did not find direct support for objects other than the breath, such as feet on the floor in a meeting, and I did not open Bregman 1990 or Holmes 2018 on mantra. One secondary source says expertise reduces the effort of sustaining focus, citing Lutz et al.; I did not read that claim in the paper itself.
+
+**Plain words**
+An anchor is something you can return to. The practice is noticing that you drifted and coming back without blaming yourself.
+
+**For example**
+Choose one anchor, such as the feeling of breath at the nostrils, and each time you notice you have drifted, return to it once.
+
+## Sources
+
+- [Lutz et al. 2008, Attention regulation and monitoring in meditation (PDF copy)](https://www.wisebrain.org/media/Papers/AttentionRegulationMeditation.pdf)
+- [Conceptual and Methodological Issues in Research on Mindfulness and Meditation (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4627495/)
+- [Hasenkamp et al. 2012, Mind wandering and attention during focused meditation (summary)](https://github.com/buddhist-uni/buddhist-uni.github.io/blob/main/_content/articles/mind-wandering-and-attention-during_hasenkamp-wendy-et-al.md)
+
 ## Psychology parallels
 
 - **[[Anchors in focused attention meditation|Anchors in focused attention meditation]]**, breath and body sensations serve as stable anchors for returning attention (Lutz et al., 2008; Tang et al., 2015)
