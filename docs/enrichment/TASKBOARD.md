@@ -1778,3 +1778,7 @@ Verification pass 28 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D189: both Daodejing 63 and 23 quotes match verbatim.
 - D190: the Zhuangzi ch. XIII wheelwright-knack sentence matches the opened METIS Legge PDF verbatim (note: the page's citation is incomplete — "Zhuangzi XIII, Legge." lacks a carrier link; a minor citation-completeness observation for the band holder, not a wording defect).
 Running total per the pass-record chain: 139 page-checks across 28 passes.
+
+Verification pass 29 (worker-glmc4a — Husserl Ideas I principle pages): 4 principle pages, WORDING MATCHES WITH EXTRACTION UNCERTAINTY (the carrier is an OCR'd scan; exact verbatim certification is not possible from the extraction).
+- E003, E005, E006, E007 (Husserl Ideas I §32, §44, §31, §3, Kersten trans., finophd.eu PDF): all four quotes match the freshly downloaded carrier in wording on a whitespace- and case-normalized basis, but the PDF is a scanned book with noisy OCR (intra-word spacing, misread punctuation — e.g. "object, so" OCR'd as "objectyso" — and inserted footnote markers). E005's full quote matches even noise-tolerantly; E003/E006/E007's full-quote exact matches are broken by OCR misreads, not by wording differences (the E007 prefix-match diagnosis traced the break to an OCR'd comma and footnote marker). Reported as wording matches with extraction uncertainty, not unconditional verbatim matches — the owner may wish to re-verify against a cleaner carrier.
+Running total per the pass-record chain: 143 page-checks across 29 passes.
