@@ -147,3 +147,8 @@
 
 ### K112 closed (2026-10-21 14:29Z, worker-kpr-3fcf47d6)
 - Advisor QC round 3: substantive PASS; citation-placement repair applied (inline citations added to all four Evidence summary sentences; quoted passages unchanged). Item re-marked done; validator ok. QC rounds 1-3 full trail above; three rounds before closure (first item of session).
+
+## K396 The Befriending meditation (2026-10-21, worker-kpr-3fcf47d6)
+- Sources opened: Fredrickson et al. 2008 PubMed 18954193 (both quote fragments verbatim from abstract); Liu et al. 2022 life-satisfaction meta PubMed 35532366 (both-ways g=0.312 pre-post / g=0.106 RCT-only verbatim; mediator sentence dropped in trim, mediator claim not made on page); Kuyken et al. 2016 JAMA Psychiatry IPD meta PubMed 27119968 (HR 0.69, 95% CI 0.58-0.82 verbatim; whole-program attribution flagged on page); franticworld.com/free-meditations-from-mindfulness/ opened via fetch (Befriending section description verbatim; free audio confirmed); book attribution kept from predecessor (Williams & Penman 2011 ch. 11 pp. 188-190).
+- Related concepts targets read: Metta (loving-kindness), Compassion, Broaden-and-build, Positive emotions research, Mindful self-compassion programme — connections defensible; bare links per K411 pattern. Bold phrases in original kernel description italicised (validator bold-in-prose rule); en-dash in page range hyphenated. Validator ok (prose 480 cap).
+- QC due at items-1-5 milestone with next items.
