@@ -12,11 +12,28 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 38** — Learn identity integration: bring together your different self-aspects
 
-You have multiple self-aspects (roles, relationships, contexts). Integration — the capacity to hold these together into a coherent whole without denying any — is associated with well-being. Fragmentation (aspects that do not fit together) is associated with distress.
+The research on this question uses "integration" in a narrower sense than the principle does. In Showers' work, a compartmentalised self-structure sorts positive and negative traits into separate self-aspects, and an integrative one mixes both kinds in each aspect. In her 1992 study, compartmentalisation went with high self-esteem and low depression for people whose positive self-aspects were important, and with low self-esteem and high depression when the negative aspects were important ([Showers 1992, PubMed](https://pubmed.ncbi.nlm.nih.gov/1619548/)). A later review found that compartmentalised structures, "typically associated with the highest levels of self-esteem, may be vulnerable to instability", while integrative ones "may offer greater stability, increased resilience, and a means of coping with extreme stress" ([Showers and Zeigler-Hill 2007, Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2007.00472.x/full)). So the evidence favours integration mainly under stress, and it is not a general verdict.
 
-**Plain words** You have multiple self-aspects — roles, relationships, contexts. Integration: holding them together into a coherent whole without denying any. The fragmented self leaks energy; the integrated one carries its various rooms under one roof.
+Having many distinct self-aspects is a different idea. Linville's 1987 prospective study found that people higher in self-complexity were less prone to depression, perceived stress and illness after stressful events ([Linville 1987, PubMed](https://pubmed.ncbi.nlm.nih.gov/3572732/)). Replications have been mixed: one found the interaction was not consistent with stress protection and was explained by the number of traits endorsed ([Cognitive Therapy and Research](https://link.springer.com/article/10.1023/A:1026311222295)), and a review of 70 studies cited by Ryan and colleagues found the stress-buffer hypothesis had "at best, mixed support" ([Ryan et al. 2005](https://selfdeterminationtheory.org/SDT/documents/2005_RyanLaGuardiaRawsthorne_NAJP.pdf)).
 
-*For example:* The person who is one person at work, another at home, a third online — and the exhaustion of maintaining separate facilities — versus the one whose various rooms connect through one hallway. Integration isn't sameness; it's architecture.
+### Scope
+
+I found no study that tests the principle's version: roles and contexts held together as a coherent whole. I did not open McConnell 2011. The exhaustion of maintaining separate facilities is not tested in these sources.
+
+**Plain words**
+Studies show that mixing strengths and weaknesses within each part of your identity protects you better when things are hard. Whether having more roles helps is unsettled.
+
+**For example**
+Pick a role where you see only success or only failure, and write one strength and one weakness for it.
+
+## Sources
+
+- [Showers 1992, Compartmentalization of positive and negative self-knowledge (PubMed)](https://pubmed.ncbi.nlm.nih.gov/1619548/)
+- [Showers and Zeigler-Hill 2007 (Wiley)](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2007.00472.x/full)
+- [Linville 1987, Self-complexity as a cognitive buffer (PubMed)](https://pubmed.ncbi.nlm.nih.gov/3572732/)
+- [Reconsideration of Self-Complexity as a Buffer Against Depression (Springer)](https://link.springer.com/article/10.1023/A:1026311222295)
+- [Ryan, LaGuardia and Rawsthorne 2005 (PDF)](https://selfdeterminationtheory.org/SDT/documents/2005_RyanLaGuardiaRawsthorne_NAJP.pdf)
+
 ## Psychology parallels
 
 - **Identity integration and well-being**, coherent integration of self-aspects predicts well-being (Showers & Zeigler-Hill, 2007; McConnell, 2011)
