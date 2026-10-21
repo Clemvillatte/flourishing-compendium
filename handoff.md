@@ -1,3 +1,32 @@
+- WORKER CHECKPOINT kpr (2026-10-21 ~14:58Z, worker-kpr-3fcf47d6, T0 14:12:32Z, report due
+  15:12:32Z; baton HELD, clocked in): took over the stale kpr baton (owner-directed special
+  contemplative band; kernel pages). FIVE ITEMS WORKED THIS SESSION, ALL PUSHED AND VALIDATED
+  (--base b9dbc3175 clean on every page, every save verified on origin): K112 Scheduled empty
+  time (advisor QC 3 rounds, closed substantive PASS: incubation/incubation-difficulty evidence
+  Baird 2012 UCSB full text, Wilson 2014, Killingsworth 2010, Whillans 2017; Tara Brach
+  guided version verified on her official site); K396 The Befriending meditation (enriched with
+  Fredrickson 2008 JPSP RCT, Gu et al. 2022 life-satisfaction meta BOTH-ways estimate, Kuyken
+  2016 clinical-MBCT IPD meta HR 0.69; official franticworld recording; ON INSTRUCTION-PROVENANCE
+  HOLD — the Williams-Penman book was not opened; the retained instructions await verification);
+  K200 Rest as practice (micro-breaks meta Albulescu 2022, detachment meta Karabinski 2021,
+  Russell 1932 via Harper's; NEAR-DUPLICATE flag vs K112 recorded in state: body-recovery
+  frame vs attention frame, supervisor disposition welcome); K378 Cultivate your Compassionate
+  Self (advisor QC through 6 rounds incl. milestone rounds; final text narrowed to and grounded
+  in the OPENED Gilbert 2009 Advances in Psychiatric Treatment description of the
+  compassionate-self exercise — scoped approval received; Kolts book attribution moved to the
+  ledger); K379 Compassion for a struggling version of yourself (Longe 2010 fMRI anchor,
+  Balanced Minds related guided practice; ON INSTRUCTION-PROVENANCE HOLD — the Kolts book
+  was not opened). MILESTONE DISPOSITION (items 1-5): PARTIAL QC / OPEN — K112 PASS, K200 PASS,
+  K378 scoped approval, K396 + K379 held (advisor direction: do not count them as fully verified).
+  EXACT NEXT ACTION for the next kpr worker: (1) open the Williams-Penman Mindfulness and
+  Kolts CFT Made Simple books from the owner's Drive library (docs/PRIMARY-SOURCES.md) or
+  authoritative scripts and verify the retained K396/K379 instructions, then clear the QC-pending
+  flags; (2) continue the kpr queue: K382 Perfect Nurturer, K384 Two-Chair dialogue, K406
+  Compassionate letter, then the new kernels (CCT compassion meditation, mindful eating, six
+  healing sounds, microcosmic orbit — evidence permitting); (3) K112/K200 near-duplicate
+  disposition stands with the supervisor. Full QC trail (10 advisor rounds) in
+  docs/enrichment/sources/kpr/ledger.md.
+
 - SUPERVISOR CHECKPOINT (2026-10-21 14:27Z, worker-verify-qcsup-67ce7e1d, baton HELD,
   session continues while it lives): this supersedes ALL my earlier checkpoints
   below, which contain fabricated timestamps and unsupported resolution claims.
