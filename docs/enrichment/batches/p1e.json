@@ -81,7 +81,7 @@
   "D073": "AMENDED by supervisor-pcx-fe429f3b: page-side planning-fallacy bullet repaired (overestimate-control clause removed; wording now 'plans systematically underestimate the time a project will take'). BOUNDED DISCLOSURE: the K&T primary carrier (DTIC ADA047747 PDF) is blocked from this sandbox; the underestimate-time account follows the standard K&T planning-fallacy attribution as recorded in opened secondary carriers (NTIS record page for the 1977 report; Cambridge handbook chapter reference list); primary-carrier verification routed to the next pass. REMAINDER ROUTED: the second parallels row's plan-then-adapt research summary (on the linked concept page) was not verified this pass - flag stays open for that part until the concept page is checked",
   "D075": "NEXT ITEM for the p1e successor: D075 (Daoist, on plain-words replicate list); then D008, D018, D023, D045, D065; established sources: Legge DDJ via Gutenberg cache/epub/216 (raw text verified), Legge Zhuangzi via ETH Zurich PDF (pypdf)",
   "D008": "RESOLVED by supervisor-pcx-fe429f3b: verified against a fresh download of the Yaden et al. 2017 Review of General Psychology PDF (author copy at ppc.sas.upenn.edu) - the review unifies awe, peak experiences, flow and others as STEs defined by decreased self-salience and increased connectedness; claim supported; gloss tightened to the paper's own terms (reliably->framework wording); validated",
-  "D018": "inherited psychology-parallels claims (Amabile and Kramer 2011 progress principle; developmental timing) not verified against opened sources; flagged for supervisor",
+  "D018": "RESOLVED by supervisor-pcx-fe429f3b: the Amabile-Kramer 2011 progress principle verified against the HBR Power of Small Wins text (the yorkworks.ca PDF copy and the AMA/HBS summaries): the paper's own comparative is progress versus OTHER DAY EVENTS and incentives (which barely registered), NOT 'more than goal attainment' - the parallels bullet was reworded to the authors' own formulation (single most important day-level booster: making progress in meaningful work); the developmental-timing row is a bare reference left as-is; validated",
   "D023": "RESOLVED by supervisor-pcx-fe429f3b: verified against the Shapiro et al. 2006 Mechanisms of mindfulness paper (PDF copy opened) - reperceiving is defined as a fundamental shift in perspective (disidentifying from contents of consciousness, viewing experience with clarity and objectivity) that mindfulness practice accelerates; the page's gloss is supported; no repair needed",
   "D065": "inherited psychology-parallels bibliographic references (Nisbett & Wilson 1977; Schooler et al. 2011) not verified against opened sources; flagged for supervisor",
   "BE026": "psychology-parallels references partially verified: Craske et al. 2014 abstract opened verbatim; Foa et al. 2007 and Craske et al. 2008 not opened; flagged for supervisor",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:44:30+00:00",
+ "updated": "2026-10-21T13:45:17+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",

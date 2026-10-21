@@ -39,7 +39,7 @@ Pulling bread out of the oven ten minutes early because you're hungry gets you d
 
 ## Psychology parallels
 
-- **[[The progress principle|The progress principle]]**, well-being tracks perceived forward progress more than goal attainment (Amabile and Kramer, 2011)
+- **[[The progress principle|The progress principle]]** — of all the things that can boost emotions, motivation, and perceptions during a workday, the single most important is making progress in meaningful work (Amabile and Kramer, 2011)
 - **Developmental timing and readiness**
 
 ## Philosophy parallels
