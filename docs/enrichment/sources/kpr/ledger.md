@@ -125,3 +125,8 @@
 - Fix: spliced deg-qigong into fcAcademyData: 8th degree card (icon, title, description, status 'draft', openingNote with honest curation caveat), 12 modules (mod-qg-1..12) with outcomes/prerequisites/required+optional media/wiki_readings/activity/rubric/durationHours/difficulty, capstone on M12, 15 new sources (QG-M01-01..QG-M12-02) all verified this session (URLs opened or confirmed via search snippets; durations only where stated; presenters only where seen - GGIA presenter left blank rather than guessed).
 - wiki_readings ids fixed to short kernel codes (K105 etc.) after discovering wikiData ids are short codes; all 15 verified to resolve against built wikiData.json.gz. Academy home subtitle 'six degrees' -> 'eight degrees'. node --check passed; openSource() uses canonical_url so website sources play fine.
 - Saved and pushed. Next pass: verify individual sessions within each library (curation status note on the degree).
+
+## Go Further section (2026-10-21, owner request)
+- Academy degree detail (app.js renderDegreeDetail): new 'Go further — find live practice' section rendered for degrees carrying a goFurther array — image cards (favicon service URLs, honest and reliable rather than invented asset URLs; onerror fallback hides broken images), 8 links: Qigong Institute directory, TCHI class finder, LWC live classes, Mimi Kuo-Deemer live, YoQi on-demand, Dr. Paul Lam online lessons, Learn Qigong courses, QiGong for Vitality free library. All verified this session.
+- CSS added (.acad-gf-* classes) using existing vars. QG1 wiki page: mirrored 'Go further' markdown table with the same 8 links + favicons. node --check ok; build ok.
+- Saved and pushed.

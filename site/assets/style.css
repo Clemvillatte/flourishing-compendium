@@ -800,6 +800,15 @@ body.academy-mode #stage { overflow-y:auto; }
 .acad-btn.ghost { background:transparent; }
 
 .acad-degree-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:16px; }
+
+/* Go Further cards (degree detail) */
+.acad-gf-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:14px; margin-top:10px; }
+.acad-gf-card { display:flex; align-items:center; gap:12px; padding:14px; background:var(--panel,rgba(255,255,255,.03)); border:1px solid var(--border,rgba(255,255,255,.1)); border-radius:12px; text-decoration:none; color:inherit; transition:border-color .15s ease, box-shadow .15s ease; }
+.acad-gf-card:hover { border-color:var(--gold); box-shadow:var(--shadow); }
+.acad-gf-card img { width:44px; height:44px; border-radius:8px; flex:0 0 auto; object-fit:contain; background:#fff; padding:2px; }
+.acad-gf-body { min-width:0; }
+.acad-gf-title { font-weight:600; }
+.acad-gf-desc { font-size:12.5px; opacity:.75; line-height:1.45; margin-top:2px; }
 .acad-degree-card {
   background:var(--panel); border:1px solid var(--line); border-radius:14px;
   padding:20px 22px; display:flex; flex-direction:column; gap:9px;
