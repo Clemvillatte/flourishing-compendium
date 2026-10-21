@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 18** — Accept nonconformity as the price and let society be gently wrong
 
-Emerson's diagnosis: society everywhere is in a conspiracy against the manhood of every one of its members, and self-reliance therefore costs the comfort of agreement. The stance is not rebellion for its own sake; it is the refusal to let consensus be the argument. The tradition's gentleness matters: the nonconformist who makes nonconformity an identity has joined a crowd of two. Practically, hold one current opinion you have checked against nothing but agreement, and re-derive it from your own evidence.
+Emerson wrote that "Society everywhere is in conspiracy against the manhood of every one of its members" and that "Whoso would be a man must be a nonconformist" ([Emerson Central, Self-Reliance](https://emersoncentral.com/texts/essays-first-series/self-reliance/)). The same essay places the cost in the open: "The virtue in most request is conformity." It also sets a gentler standard: "it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude" (same source). Emerson's target, then, is dependence on the crowd's opinion, whether one is in company or alone.
 
-(Emerson, Self-Reliance.)
+Asch's experiments show how heavy the pressure is. On critical trials about one third of responses went along with a unanimous wrong majority, and about 75% of participants did so at least once ([Simply Psychology](https://www.simplypsychology.org/asch-conformity.html)). Most responses were still independent: 63.2% of responses said what the participant saw, and 29 of 123 never yielded ([Pioneers of Human Behaviour](https://pioneersofhumanbehaviour.com/solomon-asch/)). When one confederate gave the correct answer, conformity fell from about 32% to 5% ([Simply Psychology](https://www.simplypsychology.org/asch-conformity.html)). Standing alone costs more than standing with one other person.
 
-**Plain words** Society, Emerson says, is quietly conspiring against the selfhood of every one of its members — so agreeing with the room will cost you the very thing you're agreeing away. The stance isn't rebel-chic; it's simply refusing to let consensus do the work of an argument. And the gentleness matters: if nonconformity becomes your identity, you've just joined a crowd of two.
+### Scope
 
-*For example:* The only person in the meeting who says "I've checked why I believe this and the only reason left is that everyone here does" — and says it politely, once, and holds it.
+I opened Emerson's lines through a quotation page, not the essay in full, and Asch through secondary summaries, not his 1956 monograph. "A crowd of two" is the compendium's phrase; Emerson does not use it in the lines I read. The suggested exercise is the compendium's.
+
+**Plain words**
+Emerson says agreement has a price: your own judgment. Asch shows how strong the pull is, and that one ally eases it.
+
+**For example**
+Pick one opinion you hold only because people around you hold it. Write down the evidence you would give a stranger, and see what remains.
+
+## Sources
+
+- [Emerson Central: Self-Reliance](https://emersoncentral.com/texts/essays-first-series/self-reliance/)
+- [Simply Psychology: Asch Conformity Experiment](https://www.simplypsychology.org/asch-conformity.html)
+- [Pioneers of Human Behaviour: Solomon Asch, the numbers, the papers and the record](https://pioneersofhumanbehaviour.com/solomon-asch/)
+
 ## Psychology parallels
 
 - **Conformity research and independence's costs**, the classic findings on the pressure of unanimity (Asch, 1956)
