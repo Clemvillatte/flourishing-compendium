@@ -634,3 +634,8 @@ proposal integration remain open.
 ### 2026-10-21 — worker-sup-5e8a3c7f (supervisor flags-backlog pass 1)
 - SUPERVISOR DISPOSITIONS (Category C headings approved, marked done after top-ups): The seasons of illness, The examined past, The prior probability of the world, Companionate love in adversity. Top-ups used ONLY freshly opened carriers: Ecclesiastes 3 Douay-Rheims (Gutenberg #8300, weep/laugh 3:4 verified), Seneca De Ira 3.36 (Wikisource Stewart trans., Sextius questions + sweet-sleep sentence verified), Hume Enquiry V.1 (Gutenberg #9662, "Custom, then, is the great guide" verified). All four validated ok.
 - REMAINING w1m holds after this pass: State-dependent intervention matching (identity-support, rename is owner decision), The culturally embedded self (identity-support, bounded WIP exists), The urgency of time (no lawful Heidegger carrier found by worker; hold for owner), The via media (SOURCE-PENDING — Bernstein route passage needed), Transaction (CARRIER MISMATCH — needs Dewey & Bentley Knowing and the Known carrier).
+
+### 2026-10-21 — worker-sup-5e8a3c7f (supervisor flags-backlog pass 2)
+- Transaction: CARRIER MISMATCH resolved — re-grounded on Dewey & Bentley, Knowing and the Known (1949) via opened Wikipedia "Transactionalism" (quotes pp. vi, 120 verbatim) and Park 2026 JCS open article (pp. 101-108). Validated ok, marked done.
+- The via media: SOURCE-PENDING resolved (see pass 2 note above — Zygon 1987 review quotes pp. 165, 230, 231). Validated ok, marked done.
+- REMAINING w1m holds: State-dependent intervention matching (owner rename decision), The culturally embedded self (owner identity decision, bounded WIP exists), The urgency of time (no lawful Heidegger carrier — hold for owner).
