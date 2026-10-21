@@ -12,15 +12,15 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 9** — Treat the sociocultural level as measurable
 
-Wilkinson and Marmot's WHO booklet treats the social circumstances of health as findings that hold still long enough to be measured. Its first chapter states the case:
+Wilkinson and Marmot's WHO booklet summarises evidence on social position and health. Section 1, "The Social Gradient", reports:
 
-> "Poor social and economic circumstances affect health throughout life. People further down the social ladder usually run at least twice the risk of serious illness and premature death as those near the top. Nor are the effects confined to the poor: the social gradient in health runs right across society, so that even among middle-class office workers, lower ranking staff suffer much more disease and earlier death than higher ranking staff."
+> "Poor social and economic circumstances affect health throughout life. People further down the social ladder usually run at least twice the risk of serious illness and premature death as those near the top."
 
-(Wilkinson & Marmot, eds., 2003, "Social Determinants of Health: The Solid Facts", 2nd ed., ch. 1, [WHO IRIS open PDF](https://iris.who.int/server/api/core/bitstreams/5d15a937-5558-4f72-8fbd-90381d6f8528/content).)
+(Wilkinson & Marmot, eds., 2003, "Social Determinants of Health: The Solid Facts", 2nd ed., section 1, [WHO IRIS open PDF](https://iris.who.int/server/api/core/bitstreams/5d15a937-5558-4f72-8fbd-90381d6f8528/content).)
 
-The compendium takes this as one instance of its wider claim: social facts — a gradient across a whole society — can be established with evidence, and what can be established can be acted on by policy.
+The compendium uses this gradient as one example of a social pattern described with evidence. Its separate practical proposal is to gather relevant information before choosing changes to a community's arrangements.
 
-**Plain words** Before you redesign a group's arrangements, find out what is actually happening in them — survey the members, map who talks to whom, look at the numbers that already exist. The measurement is not the improvement; it is what keeps the redesign from being a guess.
+**Plain words** Before proposing a change, ask members about their priorities and examine relevant information about the group. Use those findings to inform a proposal, then check its results. Collecting data does not by itself establish what will work.
 
 *For example:* Imagined: two community programmes — one assumes what the neighbourhood needs, the other surveys it first and finds the priority is the bus route, not the workshops.
 
