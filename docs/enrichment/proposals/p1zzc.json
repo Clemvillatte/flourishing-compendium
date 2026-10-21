@@ -1,6 +1,6 @@
 {
   "batch": "p1zzc",
-  "revision": 23,
+  "revision": 24,
   "reciprocal": [
     {
       "into": "Benign versus malicious envy",
@@ -101,38 +101,38 @@
     {
       "into": "Friendship",
       "link": "SP059",
-      "why": "Spinoza's generosity unites the helper with the aided in friendship, the rational counterpart to Aristotle's friendship as the greatest external good.",
-      "notes": "into=Friendship (Aristotle/philosophy hub); grep SP059: 0; concept already linked from SP059 philosophy parallels; opening sections not inspected in this pass, flagged for supervisor QC"
+      "why": "Aristotle's perfect friendship wishes the friend's good for the friend's sake; Spinoza's generositas names the desire, under reason's dictate, to aid others and unite them in friendship, the Spinozist counterpart of the same bond.",
+      "notes": "into=Friendship concept; opening read this pass (Aristotle NE VIII, perfect friendship and its permanence); grep SP059: 0; linked from SP059 philosophy parallels"
     },
     {
       "into": "Metta (loving-kindness)",
       "link": "SP059",
-      "why": "Generosity by reason's dictate is the Spinozist structural counterpart of metta: aid and friendship as stance, not mood.",
-      "notes": "into=Metta (loving-kindness); grep SP059: 0; concept already linked from SP059 philosophy parallels; opening sections not inspected in this pass, flagged for supervisor QC"
+      "why": "Metta is trained as a stance before a feeling; Spinoza's generositas is likewise a desire by reason's dictate rather than a mood, goodwill as structure rather than feeling.",
+      "notes": "into=Metta (loving-kindness) concept; opening read this pass (stance-before-feeling reading, brahmaviharas); grep SP059: 0; linked from SP059 philosophy parallels"
     },
     {
       "into": "Forgiveness",
       "link": "SP066",
-      "why": "IV, P46's rule of answering hatred with kindness is Spinoza's structural counterpart to forgiveness interventions, and III, P43 supplies the mechanism they presuppose.",
-      "notes": "into=Forgiveness concept; grep SP066: 0; linked from SP066 psychology parallels (Worthington REACH); opening sections not inspected this pass, flagged for supervisor QC"
+      "why": "Forgiveness as the release of the claim to repayment, and IV, P46's rule of answering hatred with kindness, are two accounts of ending the retaliation chain.",
+      "notes": "into=Forgiveness concept; opening read this pass (Arendt: putting an end to something that could go on endlessly); grep SP066: 0; Worthington REACH linked from SP066 psychology parallels"
     },
     {
       "into": "D129 — Repay injury with virtue",
       "link": "SP066",
-      "why": "Confucius corrects the proposal to repay injury with kindness in kind; Spinoza's IV, P46 gives the same correction with a stated mechanism, hatred quenched by love.",
-      "notes": "into=D129 principle; grep SP066: 0; the SP066 philosophy parallel links a renamed variant of this page; opening sections not inspected this pass, flagged for supervisor QC"
+      "why": "Daodejing 63's maxim to recompense injury with kindness states the rule; Spinoza's III, P43 and IV, P46 supply the mechanism, hatred fed by reciprocation and quenched by love.",
+      "notes": "into=D129 principle; page read this pass (Daoist, DDJ 63 Legge, NOT Confucian; earlier Confucius attribution corrected); grep SP066: 0; SP066 philosophy parallel separately cites Analects 14.34"
     },
     {
       "into": "Reciprocity",
       "link": "SP071",
       "why": "Spinoza's IV, P70 identifies the estimate-mismatch mechanism inside reciprocity: the giver values the benefit by his own estimate, and undervalued thanks converts to pain and offence.",
-      "notes": "into=Reciprocity concept; grep SP071: 0; Cialdini synthesis linked from SP071 psychology parallels; opening sections not inspected this pass, flagged for supervisor QC"
+      "notes": "into=Reciprocity concept; opening read this pass (Cialdini, Axelrod); grep SP071: 0; linked from SP071 psychology parallels"
     },
     {
-      "into": "I fear the Greeks even bearing gifts",
-      "link": "SP071",
-      "why": "Laocoon's warning about crowd gifts and Spinoza's IV, P70 give the same advice from opposite premises: one suspects the giver's intent, the other the giver's estimate.",
-      "notes": "into=Virgil principle (Aeneid II); grep SP071: 0; linked from SP071 philosophy parallels; opening sections not inspected this pass, flagged for supervisor QC"
+      "into": "Conflict spirals",
+      "link": "SP066",
+      "why": "The concept names the escalation the feud runs on; Spinoza's III, P43 states its law, hatred increased by being reciprocated, and IV, P46 the exit.",
+      "notes": "into=Conflict spirals concept; opening read this pass (Gottman; cites B162 and SP030, no Spinoza principle); grep SP066: 0"
     }
   ]
 }
