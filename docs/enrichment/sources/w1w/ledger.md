@@ -571,3 +571,16 @@
 - Closing craft-vs-science paragraph marked as the compendium's use.
   Related links confirmed existing.
 - Taper item. Normal validator: ok. State recorded (done count 41).
+
+## Item 44: Stuckness as suffering (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Buddhism, Second Noble Truth (one line + bare AF052 link).
+  Seed line kept; AF052 moved to In the compendium section.
+- Carrier opened: SN 56.11 Dhammacakkappavattana Sutta (Thanissaro
+  translation, ibc-elibrary accesstoinsight mirror). Verified
+  verbatim: the Second Noble Truth origination formula and the Third
+  Noble Truth cessation sentence.
+- Stuckness framing marked as the page's reading of dukkha; no
+  etymology claims asserted. Related links confirmed existing (Tanha,
+  Samsara, Impermanence, The insatiability of craving, Acceptance).
+- Taper item. Normal validator: ok. State recorded (done count 42).
