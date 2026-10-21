@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Contemplation (theoria) is the activity Aristotle argues, in Nicomachean Ethics X.7-8, is valued for itself and most closely connected with happiness: the activity of thought that is prized for itself alone ([Aristotle, NE X.7-8, Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
+In Nicomachean Ethics X.7-8, Aristotle argues that contemplation is valued for itself and closely connects it with happiness: the activity of thought that is prized for itself alone ([Aristotle, NE X.7-8, Ross translation, MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
 ### The elimination argument
 

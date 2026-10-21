@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 
-Circadian science studies the endogenous circadian timekeeping that times physiology and behavior. Wright et al. (2013) examined how that timekeeping responds to natural light: they found that the electrically lit constructed environment is associated with reduced exposure to sunlight during the day, increased light exposure after sunset, and a delayed circadian clock compared with a week of summer camping under a natural light-dark cycle ([Wright et al. 2013, Current Biology 23(16):1554-1558, abstract](https://pubmed.ncbi.nlm.nih.gov/23910656/)).
+Wright et al. (2013) compared human circadian timing under electrically lit conditions and natural-light camping: they found that the electrically lit constructed environment is associated with reduced exposure to sunlight during the day, increased light exposure after sunset, and a delayed circadian clock compared with summer camping under a natural light-dark cycle ([Wright et al. 2013, Current Biology 23(16):1554-1558, abstract](https://pubmed.ncbi.nlm.nih.gov/23910656/)).
 
 > "Here we show that electrical lighting and the constructed environment is associated with reduced exposure to sunlight during the day, increased light exposure after sunset, and a delayed timing of the circadian clock as compared to a summer natural 14 hr 40 min:9 hr 20 min light-dark cycle camping." — [Wright et al. 2013, abstract, PubMed 23910656](https://pubmed.ncbi.nlm.nih.gov/23910656/)
 
