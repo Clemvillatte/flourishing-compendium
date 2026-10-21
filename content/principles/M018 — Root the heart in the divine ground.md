@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 18** — Root the heart in the divine ground
 
-Yolteotl, "deified heart", is the term the tradition's account of the painter uses: the tlacuilo is described as needing to become a yoltéotl, one with "a heart rooted in God". The good painter "is wise, God is in his heart. He puts divinity into things; he converses with his own heart." The state is named of the great artists and sages, and the texts present it as their interior condition. A present-day application, stated as such: settling yourself before important work is one way of working from a steadier place than anxiety or display.
+Yolteotl, "deified heart", is the term León-Portilla's account of the painter uses: the tlacuilo is described as needing to become a yoltéotl, one with "a heart rooted in God". The passage presents this as the painter's interior condition. This page's application, stated as such: settling yourself before important work is one way of working from a steadier place than anxiety or display.
 
-> "THE GOOD PAINTER IS WISE, GOD IS IN HIS HEART. HE PUTS DIVINITY INTO THINGS; HE CONVERSES WITH HIS OWN HEART." — the Toltec artist, in León-Portilla's translation ([Flower and Song](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
+> "THE GOOD PAINTER IS WISE, GOD IS IN HIS HEART. HE PUTS DIVINITY INTO THINGS; HE CONVERSES WITH HIS OWN HEART" — the Toltec artist, in León-Portilla's translation ([Flower and Song](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
 
-(Yolteotl as presented in Leon-Portilla; the painter's heart in the songs.)
+(Yolteotl as presented in Leon-Portilla's account of the painter.)
 
-**Plain words** Yolteotl is the Nahua term for a heart settled in what the songs call the divine ground; the painter's portrait makes it concrete — wisdom, God in the heart, works that put divinity into things. It is a description of where the tradition says good work comes from, not a technique. The application offered here is modest: take a minute before important work to settle (breath, posture, attention), and notice whether the work comes differently.
+**Plain words** Yolteotl is the term the painter's account uses for a heart rooted in what the songs call the divine ground; the portrait is concrete — wisdom, God in the heart, works that put divinity into things. It is a description of where the account says good work comes from, not a technique. The application offered here is modest: take a minute before important work to settle (breath, posture, attention), and notice whether the work comes differently.
 
-*For example:* Two carpenters with the same skill — one works from anxiety, checking every joint against imagined judgment; one works from a settled place, and you can feel the difference in the finished room before you can name it.
+*For example:* A painter takes a commission for a parish hall and treats the work as service to something sacred; the settling beforehand is part of the work, not a warm-up to it.
 ## Psychology parallels
 
 - **State-before-performance effects**, the research on pre-performance routines and arousal regulation (the implementation and arousal-regulation literatures)

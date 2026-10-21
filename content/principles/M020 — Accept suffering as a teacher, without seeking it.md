@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 20** — Accept suffering as a teacher, without seeking it
 
-The Nahua tradition's greeting to a newborn names the world plainly: earth is "a place of weariness, a place of pain, a place of affliction, a place of torment". The songs return to the same theme — life's difficulty is part of its gift, not a sign that something has gone wrong. The counsel the page carries is the middle: difficulty is expected and can be used, without being sought or worshipped. When hardship arrives, one working question is what can be learned from it.
+The Nahua greeting to a newborn names the world plainly: earth is "a place of weariness, a place of pain, a place of affliction, a place of torment". The greeting anticipates hardship; it does not say hardship improves people. The counsel this page carries is the middle: learning from difficulty is one option, and it sits alongside taking relief and help.
 
-> "Thou wert sent here on earth, a place of weariness, a place of pain, a place of affliction, a place of torment." — the greeting addressed to a newborn child, Florentine Codex Book VI ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
+> "Thou wert sent here on earth, a place of weariness, a place of pain, a place of affliction, a place of torment" — the greeting addressed to a newborn child, Florentine Codex Book VI ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
 
-(The Cantares's earth-as-trial passages; the huehuetlatolli's counsel on endurance.)
+(The Cantares's earth-as-trial passages; the huehuetlatolli's counsel on endurance. Locator unresolved: the OCR scan carries no printed page or chapter marker at this passage.)
 
-**Plain words** The tradition starts blunt: the earth is a hard place, and the songs do not pretend otherwise. The counsel is not to enjoy the pain or to go looking for it; it is to stop treating difficulty as a sign that something has gone wrong with your life. The practical move when hardship comes is to ask what, if anything, it is teaching — while still taking the relief and help that are available.
+**Plain words** The tradition starts blunt: the earth is a hard place, and the greeting to a newborn says so outright. The counsel is not to enjoy the pain or to go looking for it. Learning from difficulty is optional and sits alongside relief and help: someone recovering from an illness can note what support would help next time without having to call the illness beneficial.
 
-*For example:* After a brutal year, someone stops framing it as either a punishment or a trophy, asks what they would not have learned any other way, keeps the doctor's number, and lets the year end when it ends.
+*For example:* Someone recovering from a long illness identifies what would actually help if it returned — which friend to call, which form to fill — while taking every current treatment, and without calling the illness a gift.
 ## Psychology parallels
 
 - **[[Stress-related growth|Stress-related growth and antifragility's honest state]]**, the research on adversity's mixed effects (Calhoun and Tedeschi, 2004; the post-traumatic growth literature, with its replication debates noted)

@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 17** — Make a face that others can read
 
-The Florentine Codex pairs a trustworthy life with matched words and deeds; its warning case is the man whose "words nowhere conform to his life, to his deeds". The reading carried here: people can rely on you when what you say and what you do are the same thing, and the everyday application is plain reliability — do the people who depend on you know your actual state and standards, or must they guess?
+The Florentine Codex's criticism is of a specific mismatch: the man whose "words nowhere conform to his life, to his deeds". The quotation criticizes that disagreement directly. This page's application is everyday reliability: when what you say and what you do are the same thing, the people who deal with you can build on what you tell them.
 
-> "It is just as if spiny, thorny were his face, his heart, his life; his words nowhere conform to his life, to his deeds." — the Florentine Codex on the presumptuous man, Book VI ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
+> "It is just as if spiny, thorny were his face, his heart, his life; his words nowhere conform to his life, to his deeds" — the Florentine Codex on the presumptuous man, Book VI ([full text](https://archive.org/stream/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain/Volume%206,%20Book%206%20-%20Rhetoric%20and%20Moral%20Philosophy%20-%20%5BFlorentine%20Codex%20General%20History%20of%20the%20Things%20of%20New%20Spain%5D_djvu.txt))
 
-(The ixtli presentation; the huehuetlatolli's counsel on conduct.)
+(The ixtli presentation; the huehuetlatolli's counsel on conduct. Locator unresolved: the OCR scan carries no printed page or chapter marker at this passage.)
 
-**Plain words** "Face" here is a picture for what other people can read off you. The Codex's bad case is the man whose face is "spiny, thorny" — words and deeds that never match, so nobody knows where they stand with him. The good case is the person whose word and deed agree; you never have to guess. The everyday application is to make your yes and your no mean the same thing to everyone who deals with you.
+**Plain words** The Codex passage is a criticism of a mismatch: words and deeds that disagree. The application this page draws from it is everyday reliability — making your yes and your no mean the same thing to everyone who deals with you.
 
-*For example:* The manager whose team never knows which version will show up to the meeting — versus the one whose "yes" means yes and whose "no" arrives with reasons. Only one of them is building anything durable.
+*For example:* A commitment changes — a deadline you agreed to slips — and you say so the same day, in plain words, to everyone who was counting on it. That is the readable version.
 ## Psychology parallels
 
 - **[[Authenticity|Authenticity and predictability in trust]]**, the research linking behavioral consistency to trust formation (the trust literatures; Wood et al., 2008, authenticity research, as framework)

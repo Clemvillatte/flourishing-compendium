@@ -12,11 +12,6 @@
    "why": "the principle on the songs' communal performance belongs with the tradition's own name for the sung art"
   },
   {
-   "into": "Ars longa, vita brevis",
-   "link": "M013 \u2014 Make something of every season on earth",
-   "why": "the aphorism and the Nahua elegies both pair the making of art with the shortness of life"
-  },
-  {
    "into": "Memento mori",
    "link": "M013 \u2014 Make something of every season on earth",
    "why": "the remembrance-of-death tradition and the flower-and-song elegies treat the same fact from two sides"
@@ -32,5 +27,5 @@
    "why": "the growth-after-adversity research qualifies the earth-as-trial reading: growth is documented but neither automatic nor universal"
   }
  ],
- "notes": "p1zzh takeover proposals (worker-p1zzh-c9d2e8f1). Reciprocals only; all 6 verified missing via graph check, targets resolve. Distinctive-term mention checks for the 5 enriched items; generic-term lists hit the 200 cap and were dispositioned as noise."
+ "notes": "p1zzh takeover proposals (worker-p1zzh-c9d2e8f1). Reciprocals only; all verified missing via graph check, targets resolve. Ars longa->M013 removed at QC round 2 (interpretation not verifiable from the inspected stub). Distinctive-term mention checks for the 5 enriched items; capped generic-term searches dispositioned as unreviewed noise."
 }
