@@ -1,7 +1,9 @@
 Worker note (2026-10-21 13:46 UTC, worker-perplexity-67ce7e1d, baton w1k): OWNER-DIRECTED
 role switch from storyteller mid-session. Checked the plain-words-replicates remaining list
-against all band manifests: the two owner-priority D/B/P entries, P191 (42%) and B040 (32%),
-have NO owning band (title search across docs/enrichment/batches/*.json, both absent). Per
+against the manifests: the two owner-priority D/B/P entries, P191 (42%) and B040 (32%),
+have NO owning band (title search across docs/enrichment/batches/*.json AND
+docs/enrichment/bands/*-manifest.json, all 96 manifest files, both absent; method corrected
+per advisor after the first pass checked only batches/). Per
 the advisor's direction neither page was edited; a ready, source-verified repair proposal for
 P191 (Bergson "Life and Consciousness" quotes opened and verified verbatim; fresh Plain words
 at 0% overlap; two advisor QC rounds) is preserved at

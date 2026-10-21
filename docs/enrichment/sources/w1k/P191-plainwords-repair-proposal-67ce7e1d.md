@@ -1,7 +1,9 @@
 # P191 repair proposal (worker-perplexity-67ce7e1d, 2026-10-21, band w1k baton)
 
 P191 and B040 appear on the plain-words-replicates remaining list (42% / 32%) but have NO
-owning band in docs/enrichment/batches/*.json (checked by title search across all manifests).
+owning band (checked by title search across docs/enrichment/batches/*.json AND
+docs/enrichment/bands/*-manifest.json, all 96 manifest files; method corrected per advisor
+after the first pass checked only batches/).
 Per the advisor's direction the page was NOT edited directly; the original page is untouched
 on origin/main and this proposal preserves a ready, source-verified repair for the supervisor
 to mint an owner or apply.
