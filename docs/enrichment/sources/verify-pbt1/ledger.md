@@ -694,3 +694,8 @@ VERBATIM vs opened carriers. 2/2 PASS, no defects.
 Context note: the full w1aa and w1ab released-band sweeps are complete (Rounds 1-36);
 all recent concept enrichment on main comes from live bands (w1q/w1w/w1m), whose pages
 hold no baton for this worker — this spot-check was read-only per the worker-verify pattern.
+
+## Round 38 (16:52Z) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: umich Bushman & Baumeister 1998 PDF. w1q "Threatened Egotism
+Theory": abstract blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
