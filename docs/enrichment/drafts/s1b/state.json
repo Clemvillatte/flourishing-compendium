@@ -152,7 +152,7 @@
    ]
   },
   "s1b-007": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B133: Hakuin under Shōju Rōjin — pride crushed, Great Death koan work, breakthrough, and the charge to keep striving; the return as the hard half",
    "history": [
     {
@@ -163,9 +163,14 @@
      "t": "2026-10-21T12:10:58+00:00",
      "to": "qc_pending",
      "note": "first draft complete; all quotes verbatim-verified against opened cave.pdf; advisor QC requested"
+    },
+    {
+     "t": "2026-10-21T12:15:45+00:00",
+     "to": "ready",
+     "note": "advisor QC rounds 1-2 applied; final-file quotation check passed; story_check 0 errors"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:10:58+00:00"
+ "updated": "2026-10-21T12:15:45+00:00"
 }
