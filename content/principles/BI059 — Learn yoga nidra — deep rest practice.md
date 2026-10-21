@@ -16,7 +16,7 @@ Yoga nidra ("yogic sleep") is a guided practice of lying still while an audio vo
 
 An online randomised trial gave participants an 11-minute or a 30-minute version. Against a waiting-list control, the effect sizes were d = 0.08 to 0.19, and the 30-minute version produced reductions in stress (19%), anxiety (10%), depression (9%) and sleep disturbances (12%) ([Moszeik et al. 2025, Stress and Health](https://onlinelibrary.wiley.com/doi/full/10.1002/smi.70049)). The same paper notes that a review of 45 yoga nidra studies found only 13 with a randomised comparison, and only 5 of those with an active control. An earlier study of an 11-minute audio over 30 days (meditation group N = 341) found lower stress, higher well-being and better sleep, which the authors describe as "small effects" ([Moszeik, von Oertzen and Renner 2022, Current Psychology](https://link.springer.com/content/pdf/10.1007/s12144-020-01042-2.pdf)).
 
-For sleep, a 2026 meta-analysis pooled only five unique studies and rated the certainty of evidence "very low", calling the findings "preliminary and hypothesis-generating" ([Sleep and Breathing review](https://link.springer.com/article/10.1007/s11325-026-03685-0)).
+For sleep, a 2026 meta-analysis pooled only five unique studies and rated the certainty of evidence "very low", calling the findings "preliminary and hypothesis-generating" ([2026 systematic review and meta-analysis](https://link.springer.com/article/10.1007/s11325-026-03685-0)).
 
 
 
@@ -34,7 +34,7 @@ For four weeks, play an 11-minute guided yoga nidra recording once a day, as in 
 
 - [Moszeik et al. 2025, online yoga nidra RCT (Stress and Health)](https://onlinelibrary.wiley.com/doi/full/10.1002/smi.70049)
 - [Moszeik, von Oertzen and Renner 2022, short yoga nidra meditation (Current Psychology)](https://link.springer.com/content/pdf/10.1007/s12144-020-01042-2.pdf)
-- [Yoga nidra for sleep disturbances and insomnia: systematic review and meta-analysis (Sleep and Breathing)](https://link.springer.com/article/10.1007/s11325-026-03685-0)
+- [Yoga nidra for sleep disturbances and insomnia: systematic review and meta-analysis](https://link.springer.com/article/10.1007/s11325-026-03685-0)
 
 ## Psychology parallels
 
