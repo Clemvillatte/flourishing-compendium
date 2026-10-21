@@ -12,10 +12,6 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 228** — Handle illness with patience
 
-Illness is a dispreferred indifferent. The Stoic does not seek illness but does not let it destroy their peace. Epictetus, who was physically disabled, taught that illness does not touch the character. Face illness with patience and dignity.
-
-(Ench. IX.)
-
 Epictetus distinguishes an impediment to the body from an impediment to the will:
 
 > Sickness is an impediment to the body, but not to the will unless itself pleases.
