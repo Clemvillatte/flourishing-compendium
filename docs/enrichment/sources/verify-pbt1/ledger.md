@@ -638,3 +638,15 @@ Marcel" (Treanor & Sweetman), Wikipedia "Paideia".
    marking the elided intervening sentence.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 34 (16:44Z) — w1ab quote-fidelity verification, tenth batch
+
+Carriers opened fresh: Wikipedia "Samadhi", PubMed 18426301 (Moore & Healy abstract),
+Gutenberg #77585 (Augustine Confessions, Book IV).
+
+1. One-pointedness — blockquote VERBATIM (the Shankman-sourced ekaggata passage from
+   the Wikipedia article).
+2. Overconfidence effects — blockquote VERBATIM (Moore & Healy 2008 abstract opening).
+3. Obsessive attachment — blockquote VERBATIM (Confessions Book IV).
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
