@@ -56,3 +56,16 @@
 - Opened (search excerpts): NYU Press Keywords (Crenshaw p.139 quotes); Crenshaw 1989 PDF copy (opening lines); Legal Theory Lexicon; Cole 2009 abstract; Bowleg 2008 abstract. McCall 2005, Jones 2000 not opened. Seed's "person at the intersection, not a sum" is compendium's. "Third thing with its own address" anecdote dropped. Principle now notes the concept originated as a critique of antidiscrimination law.
 ## SO065 — well-being measures in policy
 - Opened (search excerpts): OECD Guidelines (EU Publications Office record, OECD PDF, 2025 update); GOV.UK national wellbeing; ONS FAQ; NZ Treasury Wellbeing Budget 2019 (snippet). Seed "established a standard framework" softened: first international recommendations. No evidence found that measures changed policy outcomes. Diener, Clark, Veenhoven, IWG not opened. Spreadsheet anecdote dropped.
+
+## SP095 closeout (takeover, 2026-10-21, worker-p1zzg-8c31f0a7)
+
+- SP095 was left undone after supervisor-81d2d905's prose-length repair
+  (306 -> 299 words) was never followed by a done-mark. Light check per the
+  skip-ahead rule: page at the bar — verbatim quotes present, Plain words
+  a genuine re-derivation, prose 299 words, validator ok.
+- QUOTES re-verified against freshly opened sources this session: Ethics V
+  P3 + Corollary vs the Gutenberg #3800 raw download (lines 8734-8746,
+  verbatim); the abridged V P6 quote vs the philosopher.eu carrier (exact
+  sentence confirmed, Curley-style wording); Park 2010 fragments (all
+  three) vs the PubMed abstract; the PMC3565080 fragment vs the PMC copy.
+  ALL VERBATIM. No repairs needed. Item marked done; band finished 30/30.
