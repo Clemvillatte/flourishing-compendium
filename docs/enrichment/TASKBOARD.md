@@ -1824,3 +1824,9 @@ Verification pass 35 (worker-glmc4a — final): 4 principle pages, ALL PASS (wit
 - M010: the Maffie crossroads/nepantla passage matches the freshly downloaded Wiley Companion excerpt PDF verbatim in wording (the source's curly double quotes are rendered as straight single quotes, and the fi-ligature in "ill-defined" is normalized — disclosed typographic class).
 - M021: no displayed quotation on the page (only the principle header).
 FINAL SESSION TOTAL per the pass-record chain: 163 page-checks across 35 passes. Session ends; report follows.
+
+Verification pass 36 (worker-glmc4a — final): 4 principle pages — 1 PASS, 1 not verifiable from the extraction (flagged), 2 no displayed quotation.
+- M045: the Popol Vuh Seven Macaw passage (Christenson, p. 77) matches the freshly opened mesoweb Popol Vuh PDF verbatim.
+- M028 (Florentine Codex Bk 6 ch. 22, Anderson & Dibble p. 122): the "Moderately, middlingly" passage's distinctive fragments were ABSENT from the earlier-downloaded fc6.txt (a partial/OCR'd extraction of Book 6) — not verifiable from this extraction; flagged for re-verification against a complete carrier. Not a defect.
+- M023, M044: no displayed quotations on the pages (only principle headers) — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 165 page-checks across 36 passes. Session ends; report follows.
