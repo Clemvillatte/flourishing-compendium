@@ -157,3 +157,8 @@ damage, w1ab left to its live holder.
 - Concept-existence check: the seed title conflates two things — the general "telomere theory of aging" (Hayflick-limit lineage, three pillars per the Aging review) and the Blackburn-specific stress-telomere findings (Epel et al. 2004 PNAS). Page written to cover both, distinguished explicitly.
 - PubMed 15574496 and PNAS doi page both failed to fetch (JS-render / 403); UCSF News served as the verified carrier for the 2004 study, including the Blackburn theorist quote.
 - All quotes verbatim from fetched text; Related-concept targets resolved to Resilience, Burnout, Mindfulness (original picks Stress/Cortisol/Allostasis missing).
+
+## The Great Death
+- Carrier opened: Michel Mohr, chapter on Hakuin's curriculum (terebess.hu/zen/Hakuin.pdf) — two verbatim passages confirmed in fetched text (daishi 大死 definition; return-to-life requirement). Concept-existence check passed: "great death" (J. daishi) is a documented Hakuin curriculum term.
+- Quotes verbatim from fetched text. Not a named theory in the Western sense — treated as a concept with origin (Hakuin Ekaku 1686-1769), core claims, how-it-explains and everyday-life sections.
+- Related-concept targets: original picks (Satori kenshō, Memento mori — philosophic death awareness) missing → resolved to The commitment of the knight of faith, Memento mori, Resilience.
