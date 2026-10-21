@@ -13,11 +13,11 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 > **Principle 60** — Design digital environments for flourishing
 
-Design digital environments, social media, platforms and the online public sphere, for adaptive flourishing. The distinction the research turns on is passive versus active use. Verduyn and colleagues tested it both in the lab and in the field:
+Design digital environments, social media, platforms and the online public sphere, for adaptive flourishing. One distinction examined in this literature is passive versus active use. Verduyn and colleagues tested it in the lab and in the field:
 
 > In Study 1, cueing people in the laboratory to use Facebook passively (rather than actively) led to declines in affective well-being over time. (Verduyn et al., 2015, abstract)
 
-Their field study found the mechanism:
+Describing their second study, the authors write:
 
 > It also demonstrated how passive Facebook usage leads to declines in affective well-being: by increasing envy. (Verduyn et al., 2015, abstract)
 
@@ -25,11 +25,11 @@ The broader literature is not settled. Valkenburg's umbrella review of 27 review
 
 > Even though the meta-analyses are supposed to rely on the same evidence base, they yielded disagreeing associations with well- and ill-being, especially for time spent on SM, active SMU, and passive SMU. (Valkenburg, 2022, abstract)
 
-The compendium's reading: keep the passive/active distinction as a working guide, treat the evidence as mixed, and remember the environment itself is adjustable.
+The compendium uses these findings as reasons to examine particular activities and their effects without assuming that active or passive use has one outcome for everyone.
 
-**Plain words** An app is a room someone built. Scrolling a feed is standing in the doorway watching other people's highlights; messaging a friend is sitting down with them. Same app, different rooms. The room was designed: autoplay, the placement of the like button, what the feed decides to show you. Because it was designed, you can re-choose your part in it: answer the messages first, leave the doorway when it stops giving you anything.
+**Plain words** Time on the same service can involve different activities. Those activities are worth distinguishing, but the reviews do not supply one rule that will help everyone. Record what you actually do and how you feel afterward before deciding which habit to change.
 
-*For example:* One person opens the app to answer three messages and closes it; another scrolls the feed for two hours. The difference between those two afternoons is a usage pattern, and the design of the app either invites it or discourages it.
+*For example (imagined):* Someone logs a week of use: two evenings of messaging friends, three evenings of scrolling. At each entry they also note their mood afterward, so the record shows which activity actually leaves them better off.
 
 ## Psychology parallels
 
@@ -42,12 +42,12 @@ The compendium's reading: keep the passive/active distinction as a working guide
 
 ## Practice
 
-- In personal use, prefer active (messaging, creating) to passive (scrolling) use. In platform design, build for connection and well-being rather than engagement alone. In parenting, treat digital environments as designable (see principle 76).
+- In personal use, review which activities (messaging, creating, scrolling) leave you better off before choosing what to change. In platform design, build for connection and well-being rather than engagement alone. In parenting, treat digital environments as designable (see principle 76).
 
 ## Related concepts
 
 - [[Digital well-being]] — the research field this principle draws on
-- [[Envy]] — the mechanism the field study found for passive use
+- [[Envy]] — an explanation examined in Verduyn and colleagues' Facebook study
 - [[Attention management]] — the personal-side counterpart of the design stance
 
 ## Sources

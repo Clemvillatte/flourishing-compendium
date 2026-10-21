@@ -17,19 +17,19 @@ Treat collective efficacy, a group's shared belief in its capacity to achieve go
 
 > Social cognitive theory extends the conception of human agency to collective agency. People's shared beliefs in their collective power to produce desired results are a key ingredient of collective agency. (Bandura, 2000, p. 75)
 
-The belief is a property of the group, not a tally of the members:
+Bandura treats perceived collective efficacy as a group-level property:
 
 > Therefore, perceived collective efficacy is not simply the sum of the efficacy beliefs of individual members. Rather, it is an emergent group-level property. (Bandura, 2000, p. 76)
 
 In their encyclopedia entry on collective efficacy and crime, Hipp and Wo describe what the 1997 Chicago study found:
 
-> The cross-sectional study indeed found that neighborhoods with higher levels of collective efficacy exhibited lower levels of violence (whether measured as perceived violence, violent victimization, or homicide events). (Hipp & Wo, 2015)
+> The cross-sectional study indeed found that neighborhoods with higher levels of collective efficacy exhibited lower levels of violence (whether measured as perceived violence, violent victimization, or homicide events). (Hipp & Wo, 2015, ch. "Collective efficacy and crime")
 
-The study's definition of the resource, as quoted in that entry, is "the willingness of local residents to intervene for the common good depends in large part on conditions of mutual trust and solidarity among neighbors" (Sampson et al., 1997, p. 919, as quoted in Hipp and Wo's encyclopedia entry). The compendium's reading: build the shared belief through finished collective projects, because each one is evidence the group uses for the next.
+Hipp and Wo also reproduce a proposed condition for residents' willingness to intervene: "the willingness of local residents to intervene for the common good depends in large part on conditions of mutual trust and solidarity among neighbors" (Sampson et al., 1997, p. 919, as quoted in Hipp & Wo, 2015).
 
-**Plain words** Collective efficacy is a group's working confidence that it can get things done, and it lives between the members rather than in any one of them. A committee of capable individuals who cannot work as a unit will still accomplish little together. What the group believes about itself, built on what it has actually finished, shapes how much effort it spends and how long it stays when results come slowly. For a street, a club or a team, the resource compounds: every completed project is evidence for the next attempt.
+**Plain words** Being capable yourself and believing that your group can act together are different judgments. Ask what the group thinks it can accomplish jointly and what coordination the task requires. In the neighborhood research, mutual trust and willingness to intervene are also part of the picture.
 
-*For example (imagined):* A street starts with one clean-up day. It goes well, so the same people try a crossing campaign, then a park revival. Each finished project makes the next one easier to start, which is the compounding the principle points at.
+*For example (imagined):* Residents planning a crossing campaign list which neighbors would actually show up and what the first attempt would require of them, before deciding what to promise the council.
 
 ## Psychology parallels
 

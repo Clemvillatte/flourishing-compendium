@@ -13,9 +13,9 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 > **Principle 58** — Design schools for flourishing
 
-Design schools for adaptive flourishing. Two of the intervention lines the principle draws on show how small, well-placed design changes move student outcomes.
+Design schools for adaptive flourishing. The studies below examine particular belonging and growth-mindset interventions in educational settings.
 
-Walton and Cohen's randomized trial worked on how students read early college adversity:
+Walton and Cohen's randomized trial involved 92 college freshmen; its abstract reports academic and health benefits for African-American students. The trial worked on how students read early college adversity:
 
 > The intervention aimed to lessen psychological perceptions of threat on campus by framing social adversity as common and transient. (Walton & Cohen, 2011, abstract)
 
@@ -29,9 +29,9 @@ The same study found the effect depends on the environment around the treatment:
 
 > Notably, the study identified school contexts that sustained the effects of the growth mindset intervention: the intervention changed grades when peer norms aligned with the messages of the intervention. (Yeager et al., 2019, abstract)
 
-That context condition is the design point: an intervention lands where the school's daily norms already point the same way.
+In the growth-mindset experiment, the authors report that grade effects varied with peer norms.
 
-**Plain words** A school teaches two things at once: the subject on the board, and what the day's structure tells students about themselves. The second one decides how a struggling student reads the struggle: as proof they do not belong, or as a stage everyone passes through. That reading can be touched directly, sometimes by something as small as older students' accounts of finding it hard at first. But the reading is also set by the environment: what peers treat as normal, what feedback rewards. Design the environment and the small interventions stop being drops in a bucket.
+**Plain words** A student can struggle with the work and also wonder whether they fit in. A belonging intervention addresses that second concern. Before borrowing an intervention, check who took part in the study and what conditions accompanied its effects.
 
 *For example (imagined):* A school runs a first-week exercise built from older students' accounts of early struggle: nearly everyone found it hard at first, and it got better. The algebra does not change; the meaning of finding it hard does.
 
@@ -51,8 +51,8 @@ That context condition is the design point: an intervention lands where the scho
 ## Related concepts
 
 - [[Growth mindset]] — the belief the national experiment taught
-- [[Psychological safety]] — the classroom-level precondition
-- [[Mastery orientation]] — the assessment-side counterpart
+- [[Psychological safety]]
+- [[Mastery orientation]]
 
 ## Sources
 

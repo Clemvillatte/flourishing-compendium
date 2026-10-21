@@ -21,15 +21,15 @@ Their framework ties resources and rank to patterns in cognition and behavior:
 
 > Diminished resources and lower rank create contexts that constrain social outcomes for lower-class individuals and enhance contextualist tendencies--that is, a focus on external, uncontrollable social forces and other individuals who influence one's life outcomes. In contrast, abundant resources and elevated rank create contexts that enhance the personal freedoms of upper-class individuals and give rise to solipsistic social cognitive tendencies--that is, an individualistic focus on one's own internal states, goals, motivations, and emotions. (Kraus et al., 2012, abstract)
 
-On health, Adler and Stewart's review of the SES-health literature found a gradient rather than a poverty threshold:
+Adler and Stewart describe research reporting graded associations between socioeconomic status and health:
 
 > The second era produced evidence for a graded association between SES and health where each improvement in education, income, occupation, or wealth is associated with better health outcomes. (Adler & Stewart, 2010, abstract)
 
 The compendium's reading: see class clearly, without shame or contempt.
 
-**Plain words** Class is more than money in the bank. It is the money, the schools it did or did not buy, the rank you feel walking into a room, and the habits all of that taught you: what to expect from institutions, what counts as normal. Those expectations are data, and the gradient through health outcomes is why the data matters: each rung of education, income and occupation carries real differences in what happens to people. Naming what you inherited lets you check which of it still works for you.
+**Plain words** To understand someone's circumstances, ask what resources they have and where they feel they stand compared with other people. Those are different questions. The health finding describes a pattern across socioeconomic positions, with individual outcomes still uncertain.
 
-*For example:* A workplace where nearly everyone went to the same kind of school reads as neutral from inside and as foreign from outside. That is a class effect running silently; naming it is what makes it visible.
+*For example (imagined):* Two interview participants report similar incomes but different perceived social standing. The researcher records both answers instead of treating income as the whole account of class.
 
 ## Psychology parallels
 
@@ -46,7 +46,7 @@ The compendium's reading: see class clearly, without shame or contempt.
 
 ## Related concepts
 
-- [[Bourdieu]] — the sociologist behind the inherited-habits reading of class
+- [[Bourdieu]]
 
 ## Sources
 

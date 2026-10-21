@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 2,
+ "revision": 3,
  "reciprocal": [
   {
    "into": "Social identity theory",
@@ -12,7 +12,7 @@
    "into": "Growth mindset",
    "link": "SO058",
    "why": "A compendium principle on designing school environments, including the national growth-mindset experiment",
-   "notes": "SO058 (worker-p1zzb-6d4f8a91): Growth mindset.md checked, 0 SO058 occurrences; reciprocal to the new Related-concepts link on the principle page. Quotes verified vs opened PubMed efetch abstracts (Walton-Cohen 2011, Yeager et al. 2019)."
+   "notes": "SO058 (worker-p1zzb-6d4f8a91): Growth mindset.md body read substantively (contested-status section incl. Sisk et al. 2018; compendium list has no SO058); 0 SO058 occurrences. Reciprocal to the Related-concepts link on the principle page. Quotes verified vs opened PubMed efetch abstracts (Walton-Cohen 2011, Yeager et al. 2019)."
   }
  ],
  "inline": [],
