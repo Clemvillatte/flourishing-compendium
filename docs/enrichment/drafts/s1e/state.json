@@ -2,7 +2,7 @@
  "lane": "s1e",
  "items": {
   "s1e-001": {
-   "status": "qc_pending",
+   "status": "published",
    "angle": "D045 empty cup: McClintock - expertise kept for the doing, expectation emptied from the seeing; the plant told her where to go",
    "history": [
     {
@@ -27,7 +27,7 @@
    ]
   },
   "s1e-002": {
-   "status": "qc_pending",
+   "status": "published",
    "angle": "D065 return to source: Casals - eighty years of two preludes and fugures each morning; the daily return that kept the light through exile and silence",
    "history": [
     {
