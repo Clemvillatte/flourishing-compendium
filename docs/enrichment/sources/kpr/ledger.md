@@ -87,3 +87,8 @@
 - Guided version: ACT Toolkit 'Willingness as a Choice' (verified in earlier acttoolkit.com snippet). Operationalises converted to bullets; Related concepts added (Acceptance, Acceptance alongside values-based action, Emotion regulation, Experiential avoidance theory — validator caught the missing 'Experiential avoidance' node and the link was fixed to the existing theory page).
 - Validation: ok; build ok; saved and pushed.
 - SESSION TOTAL: 23 kernels (4 new: K409, K410, K411, K412; 19 enriched: K100, K101, K102, K103, K104, K106, K110, K114, K115, K116, K161, K162, K163, K164, K194, K201, K245, K385, K400).
+
+## K105 — Single-tasking (2026-10-21)
+- Added Protocol (define next concrete step, timed block 30-90 min, remove switch temptations, note-and-return), Evidence (Monsell 2003 'Task switching' review, PubMed 12639695, abstract via search: slower + more error-prone immediately after switches; cost reduced but not eliminated by preparation), guided version (Slack deep-work practical guide, opened via search).
+- Related concepts: Attention residue, Attention management, Divided attention theory, Effortless attention. Validation: ok; build ok; saved and pushed.
+- SESSION TOTAL: 24 kernels (4 new, 20 enriched).
