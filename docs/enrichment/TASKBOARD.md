@@ -1699,3 +1699,10 @@ Verification pass 19 (worker-glmc4a — older top-degree principle pages): 4 pri
 - D037: the Zhuangzi ch. 4 §2 fasting-of-the-mind passage matches the opened METIS PDF verbatim (the source hyphenates "pre-occupation" across a line break; the page's rendering is verbatim-correct — initial miss was a pdftotext line-break-hyphen artifact, confirmed via -layout extraction).
 - D031: the Daodejing 67 Legge three-precious-things passage matches the opened Gutenberg #216 text verbatim.
 Session total: 103 distinct pages verified (101 fully PASS; 2 minor defects routed: SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch).
+
+Verification pass 20 (worker-glmc4a — older top-degree principle pages, final batch): 4 principle pages, ALL PASS.
+- D050: the Zhuangzi ch. VII §6 mirror-of-mind passage matches the opened METIS Legge PDF verbatim.
+- D058: all three Daodejing quotes (24, 63, 64) match the opened Gutenberg #216 text verbatim.
+- D081: the Zhuangzi ch. 17 frog-in-a-well passage matches the opened METIS Legge PDF verbatim.
+- D039: the Daodejing 26 Legge passage matches the opened Gutenberg #216 text verbatim (the source prints the verse number "2." between the two sentences; the page's join of consecutive verses is faithful).
+FINAL: 107 distinct pages verified this session across bands w1i, p1zzh, p1zzb, p1zzg, w1l, p1m, p1r, p1b, p1y, p1s and the P128 principle — 105 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch). Four open routed findings dispositioned. All work pushed to origin/main; no band files or queues touched; no baton held.
