@@ -12,13 +12,27 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 78** — Read institutions as arrangements of power
 
-The Political Treatise opens with a cold eye: right and power are the same thing in the state of nature, and civil right is the organized power of the commonwealth. This is not cynicism; it is engineering. Constitutions, contracts, and norms are machines for channeling appetite, and they work or fail by their fit with human nature as it is. Practically, when you deal with any institution, read its actual incentive structure (who is rewarded for what) rather than its mission statement, and design your own arrangements the same way.
+In the Political Treatise, Spinoza says that "each natural thing has as much right by nature as it has power to exist and operate", and that the state has "as much right as it has power", so "each citizen or subject has less right in proportion as the commonwealth itself is more powerful than he is" ([Political Treatise, ch. 2-3, Bennett](https://www.earlymoderntexts.com/assets/pdfs/spinoza1675.pdf)). He calls the right of a state "the power of a multitude, led as if by one mind", and a state's right depends on that collective power.
+
+The Stanford Encyclopedia reads this as a rejection of a moral conception of right, not as a positive normative claim. It adds that because the commonwealth's right is "determined by the collective power of a people", a sovereign who gives many subjects cause to conspire loses power and right ([SEP, Spinoza's Political Philosophy](https://plato.stanford.edu/entries/spinoza-political/)). The point is that institutions rest on what people will actually do and put up with.
 
 (Political Treatise, ch. 1-3.)
 
-**Plain words** Right and power are the same thing in the state of nature; civil right is the organized power of the commonwealth. Not cynicism — engineering. Constitutions, contracts, and norms are arrangements of power: read them that way, and you'll predict their behaviour.
+### Scope
 
-*For example:* The team charter that says "all voices equal" — and the org chart that says otherwise — and the Spinozist prediction for which document governs. Not bitterness; just reading the load-bearing wall instead of the paint.
+The sources support a naturalistic reading of right and power. The advice to compare incentive structures with mission statements is the compendium's practical extension, and I did not find it in the passages I opened. I did not open Chapter 1 of the Treatise.
+
+**Plain words**
+For Spinoza, right follows power. An institution holds only as much authority as the power and cooperation behind it. To predict how it behaves, look at what it can enforce and who it depends on.
+
+**For example**
+Take a rule your workplace announces and one it enforces. Write down who is rewarded or penalised for each, and see which one people follow.
+
+## Sources
+
+- [Spinoza, Political Treatise (Bennett translation)](https://www.earlymoderntexts.com/assets/pdfs/spinoza1675.pdf)
+- [Spinoza's Political Philosophy (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/spinoza-political/)
+
 ## Psychology parallels
 
 - **Rewarding A while hoping for B**, the classic analysis of incentive misalignment (Kerr, 1975, On the folly of rewarding A while hoping for B)
