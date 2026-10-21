@@ -590,7 +590,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-021": {
+   "status": "ready",
+   "angle": "B193: AN 6.19 six monks in the Brick Hall (Thanissaro + Sujato)",
+   "history": [
+    {
+     "t": "2026-10-21T12:34:29+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:34:29+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:34:29+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked vs both translations"
+    },
+    {
+     "t": "2026-10-21T12:34:29+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:33:51+00:00"
+ "updated": "2026-10-21T12:34:29+00:00"
 }
