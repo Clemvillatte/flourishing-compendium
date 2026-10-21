@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 18** — Learn accurate self-evaluation: neither inflated nor deflated
 
-Self-evaluation — how you judge your own traits, abilities, and worth — can be inflated (overconfident), accurate, or deflated (underconfident). Both extremes are problematic. Accurate self-evaluation is a foundation of good decisions and authentic relationships.
+Socrates' edge over the politician he examined was calibration, not knowledge:
 
-**Plain words** Self-evaluation can be inflated, accurate, or deflated — and both extremes are problematic: inflated leads to crashes and defensiveness, deflated to missed opportunities and avoidance. Aim for accurate: it's the stable ground. Accurate isn't modest; it's calibrated.
+> he knows nothing, and thinks that he knows. I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him.
 
-*For example:* The new hire who believes they're ready to lead on day one (inflated — first correction is devastating) and the one who believes they'll never be ready (deflated — never raises a hand). The accurate one — "strong on analysis, learning the rest" — is the one who's still standing in year two.
+(Plato, Apology 21d, Jowett translation; [MIT Classics](https://classics.mit.edu/Plato/apology.html))
+
+Inflated and deflated self-evaluation fail the same way from opposite ends: both are claims about a knowledge state the person has not checked. The politician thought himself wiser than he was; Socrates' only advantage was the accuracy of the self-assessment. The middle of the range is not a compromise between vanity and modesty but a different thing: a checked belief about your own abilities, correctable by the same audit in both directions.
+
+**Plain words**
+Self-evaluation goes wrong in two directions: the overconfident one overreaches and takes the correction as an attack; the underconfident one never raises a hand. The accurate position is the only one that updates, and the working question is the one the Socratic passage models: what do I actually know here, and what have I not checked?
+
+*For example:* Imagine the new hire who believes they are ready to lead on day one, and the one who believes they will never be ready. The one still standing in year two says: strong on analysis, learning the rest.
+
+## Sources
+
+- Plato, Apology 21d (Benjamin Jowett translation) — [MIT Classics](https://classics.mit.edu/Plato/apology.html)
+
 ## Psychology parallels
 
 - **[[Better-than-average effect / illusory superiority|Better-than-average effect / illusory superiority]]**, most people rate themselves above average (Svenson, 1981; Dunning et al., 1989)
@@ -31,4 +43,4 @@ Self-evaluation — how you judge your own traits, abilities, and worth — can 
 
 ## Practice
 
-- Calibrate your self-evaluation: seek feedback, test your assumptions, and notice where you might be over- or under-estimating. Ask: "what is the evidence?"
+Calibrate your self-evaluation: seek feedback, test your assumptions, and notice where you might be over- or under-estimating. Ask: what is the evidence?

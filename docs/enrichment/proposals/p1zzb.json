@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 11,
+ "revision": 12,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -115,6 +115,12 @@
    "link": "SE015",
    "why": "A principle on accurate self-assessment and the metacognitive cost of inflated self-views",
    "notes": "SE015 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE015 occurrence; grounded in the opened PubMed abstract of Kruger & Dunning 1999 (dual-burden sentence quoted verbatim; percentile finding reported without quotation marks)."
+  },
+  {
+   "into": "Humility",
+   "link": "SE018",
+   "why": "A principle on calibrated self-evaluation, modeled by Socrates knowing what he does not know",
+   "notes": "SE018 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked; no SE018 occurrence; grounded in the opened MIT Classics Jowett Apology (21d passage quoted verbatim)."
   }
  ]
 }
