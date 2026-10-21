@@ -13,11 +13,10 @@
   (not Jowett); the Pohlmeyer-Desmet 2017 PDF is a Routledge handbook chapter (not a
   journal article). FLAGS for the supervisor: (1) 'System justification theory' sits in
   the w1i done list but is NOT in the w1i manifest (predecessor cross-band error; state
-  reconciliation requested — true count 59/70); (2) 'Discipline of rest' flagged Category
+  reconciliation requested — true bookkeeping: 59 in-manifest recorded-done entries (including the unresolved Discipline of rest hold), 11 manifest items not recorded done, one extraneous predecessor entry — state counts, not certification that all 59 meet the bar); (2) 'Discipline of rest' flagged Category
   C in concept-namespace-audit.md (label not source-defined; body quote-grounded; kept
   pending disposition); (3) the optional-gloss simplification across this session's
-  pages is open for the next pass; (4) Evolutionary Psychology wants an academic-hosted
-  primary carrier (UCSB primer robot-blocked; Wikipedia used as disclosed carrier).
+  pages is open for the next pass; (4) RESOLVED this session: Evolutionary Psychology re-grounded on the Cosmides-Tooby primer PDF itself (current UCSB wp-content location, opened and quoted; the old HTML page robot-blocks).
   EXACT NEXT ACTION: `python3 scripts/enrich_state.py w1i start "Gentleness as virtue"`
   (next manifest item). Remaining manifest order: Gentleness as virtue, Heavy media
   multitasking, Identity development, Inquiry, Interdependent self-construal, Language

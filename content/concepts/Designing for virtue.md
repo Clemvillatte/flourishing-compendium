@@ -21,7 +21,7 @@ Their proposal for what design can do: "Design can create enabling (as well as h
 
 ### A comparison with Aristotle
 
-The seed grounds the page in Aristotle's Politics, where the lawgiver's attention runs over the city's situation, water, houses and walls:
+Aristotle discusses the city's location and drinking water in Politics VII, Chapter XI:
 
 > "And as great care should be taken of the health of the inhabitants, the first thing to be attended to is, that the city should have a good situation and a good position; the second is, that they may have good water to drink; and this not be negligently taken care of; for what we chiefly and most frequently use for the support of the body..." (Aristotle, Politics, Book VII, Chapter XI, Ellis translation, [Gutenberg #6762](https://www.gutenberg.org/cache/epub/6762/pg6762.txt), passage abridged)
 
