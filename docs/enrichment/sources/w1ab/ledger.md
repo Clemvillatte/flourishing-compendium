@@ -934,3 +934,15 @@
   Related added: Default effect theory, Status quo bias, Framing effects (navigational
   captions). Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor
   QC not due (cadence).
+
+## ITEM: Nunc fluens (fast-track) — 2026-10-21, worker-pxy1u
+- Carriers: (1) the primary Latin text — Aquinas, Summa theologiae I q.10 a.2 arg.1 via
+  the Bibliothek der Kirchenvater (bkv.unifr.ch), opened; the Boethius formula 'nunc
+  fluens facit tempus, nunc stans facit aeternitatem' verified verbatim; the English gloss
+  is flagged on the page as my own translation of the Latin. (2) SEP Heraclitus (sec. 3.1),
+  opened fresh — B12 translation and the 'some things stay the same only by changing'
+  reading verified verbatim. Seed's 'Heraclitus via the medieval reception' handled by
+  quoting the fragment (SEP) and the scholastic formula (Aquinas/Boethius) as the two
+  halves, with the link stated as the page's reading. Related: Impermanence, Participate
+  in the world's becoming, Pursue becoming, not arrival (navigational captions). Degree 1 —
+  fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
