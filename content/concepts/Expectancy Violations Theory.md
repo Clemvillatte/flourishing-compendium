@@ -7,23 +7,22 @@ file: "Expectancy Violations Theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-Expectancy Violations Theory (EVT) is Judee Burgoon's account of what happens when someone behaves differently from what we predicted. Burgoon's own encyclopedia entry says it "makes the counterintuitive claim that violations of expectations are sometimes preferable to confirmations of expectations", and that "positive violations can produce desirable results" ([Burgoon, International Encyclopedia of Interpersonal Communication](https://onlinelibrary.wiley.com/doi/10.1002/9781118540190.wbeic102)).
+Expectancy Violations Theory is Judee Burgoon's account of what happens in communication when behavior departs from what was expected. A study of partner support during smoking cessation states the core:
 
-### Where it came from
+> "According to Expectancy Violation Theory (Burgoon, 1995; Burgoon & Hale, 1988), when behavior deviates from expectations (i.e., expectancy violations), people experience changes in affect, attitudes, and behavior." (Derrick et al. 2018, [Addictive Behaviors](https://pmc.ncbi.nlm.nih.gov/articles/PMC5963996/))
 
-The theory "was initially formulated to account for the communicative effects of proxemics violations", meaning the use of space and distance between people. It arose "out of an effort to reconcile conflicting views of proxemics in human interactions". Burgoon's early model proposed that noticeable deviations from what we expect cause heightened arousal and spur us to review the relationship. Her original experiments did not confirm it, and she kept revising it ([A First Look at Communication Theory, instructor outline](https://www.afirstlook.com/edition-11/theory-resources/by-type/outline/Expectancy-Violations-Theory)).
+Two features carry the theory's weight. First, the violation is not itself the verdict: "Expectancy violations can be negative or positive, with valence influencing consequences" — the same surprise, from a trusted or an untrusted source, lands differently. Second, the violation causes arousal and attention: the theory "posits that (a) violations of expectations—whether positive or negative—cause arousal and focus on the meaning of the violation and (b) negative violations produce unfavorable evaluations" (Mitnick et al. 2021, [Journal of Family Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC8660929/)). The unexpected move makes the observer stop and interpret, and that pause is where both persuasion and misunderstanding are manufactured.
 
-### The core terms
+### In the compendium
 
-- Expectancy is "what is predicted to occur rather than what is desired", and it rests on context, relationship and communicator characteristics.
-- Violation valence is "the positive or negative value we place on the unexpected behavior, regardless of who does it".
-- Communicator reward valence is "the sum of the positive and negative attributes that the person brings to the encounter plus the potential he or she has to reward or punish in the future".
+- [[SO006 — Treat the social environment as a designable context]] is this concept's direct parallel
+- [[AF009 — Understand that affect is constructed, not discovered]] and [[AF011 — Know that affect has a biological substrate; do not moralise it]] carry its affect-side edges
+- [[AF082 — Recognise affect's biophysiological interfaces — sleep, pain, and illness are not separate]] is a linked principle
 
-The outline adds that when a violation is equivocal, one must look to the communicator reward valence. Burgoon holds that, all things being equal, the nature of the violation influences the response more than the violator's reward potential.
+## Related concepts
 
-### What the revised theory predicts
-
-Burgoon's abstract says expectations, if violated, "are arousing and trigger an appraisal process that may be moderated by the rewardingness of the violator". Positive violations are predicted to produce more favourable outcomes, and negative violations less favourable ones, than positive and negative confirmations respectively. In the later version Burgoon replaced "arousal" with an orienting response, or mental alertness. Arousal is no longer a necessary link to outcomes such as attraction and credibility, but a side effect of the partner's deviation (the same outline).
+- [[Confirmation bias]] — what expected behavior quietly slides past
+- [[Elaboration Likelihood Model]] — the other account of attention and persuasion
 
 ## Field
 
@@ -31,8 +30,8 @@ Sociocultural · Psychological science
 
 ## Sources
 
-- [Burgoon, "Expectancy Violations Theory", The International Encyclopedia of Interpersonal Communication, Wiley, 2015](https://onlinelibrary.wiley.com/doi/10.1002/9781118540190.wbeic102): the claim, origin in proxemics, abstract of predictions
-- [A First Look at Communication Theory, 11th ed., Expectancy Violations Theory outline](https://www.afirstlook.com/edition-11/theory-resources/by-type/outline/Expectancy-Violations-Theory): the core terms and the revision from arousal to orienting response
+- [Derrick et al. 2018, Expectancy Violations Predict Greater Relapse, Addictive Behaviors (PMC5963996)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5963996/) — opened source; quotes verbatim
+- [Mitnick et al. 2021, Impact of Expectation Violation on Relationship Satisfaction Across the Transition to Parenthood, Journal of Family Psychology (PMC8660929)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8660929/) — opened source; quote verbatim
 
 ## Cited in philosophy parallels
 [[SO006 — Treat the social environment as a designable context]]
