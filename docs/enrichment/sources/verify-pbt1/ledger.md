@@ -286,3 +286,20 @@ unreachable this session (archive.org rate-limits this sandbox).
 
 Result: 3/3 quotation fidelity PASS; 1 citation-author defect routed (Intra-action /
 Herskin->Hammarström).
+
+## Round 12 (16:30Z) — w1aa quote-fidelity verification, eleventh batch
+
+Carriers opened fresh: Stroebe & Schut dual-process PDF (wendyvanmieghem.com), Clance &
+Imes 1978 author-hosted PDF, ERIC EJ735948 (Tylka 2006 abstract).
+
+1. Grief's oscillation model — blockquote VERBATIM vs the abstract; loss/restoration
+   orientation and dosage-of-grieving (respite) prose claims supported by the abstract
+   and the paper's core content.
+2. Impostor-phenomenon research — all four quotations VERBATIM (including the abstract's
+   own ungrammatical "persists", correctly preserved); the over-150-women sample claim
+   verbatim-supported ("over 150 highly successful women" in the paper's opening).
+3. Intuitive eating — all three quotations VERBATIM vs the ERIC abstract; the 4 studies /
+   1,260 college women, 3-week stability and Tribole-Resch compression prose claims
+   supported.
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
