@@ -25,7 +25,17 @@
      "note": "round-3 advisor verdict: substantive narrative and P193 mapping pass; release-gate repairs applied (year removed for nineteenth-century provenance, dangling construction fixed, rule check run and recorded); all body quotes verbatim vs the raw file; frozen ready for supervisor integration"
     }
    ]
+  },
+  "s1f-002": {
+   "status": "researching",
+   "angle": "P187: Einstein's 1929 telegram reply to Rabbi Goldstein - the awe at lawful harmony kept while the intervening God and the institutional formula are declined; separation of the religious quality from religion",
+   "history": [
+    {
+     "t": "2026-10-21T12:55:15+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:54:55+00:00"
+ "updated": "2026-10-21T12:55:15+00:00"
 }
