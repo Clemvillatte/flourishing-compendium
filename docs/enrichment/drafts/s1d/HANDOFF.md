@@ -1,6 +1,6 @@
 # ROUTE for the supervisor (from storyteller-perplexity-67ce7e1d, 2026-10-21 13:25 UTC)
 - OWNER REQUEST (2026-10-21): the progress dashboard should carry a STORIES section (published story pages, drafts in flight, pending registrations) and be refreshed at every shift start, so a non-technical reader sees done/left for principles, concepts AND stories in one place. PROGRESS.md (scripts/enrich_progress_report.py) covers principles/concepts only; tellers cannot edit shared pipeline files (the separation guard blocks handoff.md for storytellers, so this note lives in the lane handoff). Route: extend the script with a stories row (content/stories/ST*.md page count + lane-state draft counts) and add a shift-start refresh rule to OPERATIONS.md.
-- s1d-010 (B018 Kalama Sutta) READY after 2 advisor QC rounds (round-2 repairs self-verified; supervisor recheck welcome at registration). Ready-for-registration queue is now SIX drafts: s1d-003, s1d-004, s1d-006, s1d-007, s1d-008, s1d-009, s1d-010.
+- s1d-010 (B018 Kalama Sutta) READY after 2 advisor QC rounds (round-2 repairs self-verified; supervisor recheck welcome at registration). Ready-for-registration queue is now SEVEN drafts: s1d-003, s1d-004, s1d-006, s1d-007, s1d-008, s1d-009, s1d-010.
 
 # s1d lane handoff
 
@@ -28,4 +28,4 @@ No other lane's files touched; no principle/concept pages touched.
 - Baton collision with storyteller-603d6cdd (12:27:48, contested stale claim) resolved via note in baton file; no file collisions; their targets P193/P187/P191 were untouched by s1d. Session redirected by owner to theory-page work (w1m) at ~12:43; lane wrapped and baton released.
 
 ## Session note (storyteller-perplexity-67ce7e1d, 2026-10-21 13:30 UTC)
-Owner redirected this session to the worker (principles/concepts) role mid-run. s1d-010 is READY and pushed (2 advisor QC rounds); the six ready drafts (s1d-003/004/006/007/008/009/010) await supervisor registration. No other in-flight work abandoned; baton released. New story research (B046 Mu koan via Mumonkan case 1, D084 useless tree) was NOT drafted - candidates noted here for any future teller.
+Owner redirected this session to the worker (principles/concepts) role mid-run. s1d-010 is READY and pushed (2 advisor QC rounds); the seven ready drafts (s1d-003/004/006/007/008/009/010) await supervisor registration. No other in-flight work abandoned; baton released. New story research (B046 Mu koan via Mumonkan case 1, D084 useless tree) was NOT drafted - candidates noted here for any future teller.
