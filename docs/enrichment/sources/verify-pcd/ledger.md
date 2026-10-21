@@ -431,3 +431,8 @@ QC-closed).
 - Both Aristotle passages EXACT vs the opened MIT Classics pages (NE II.7 Ross; Rhetoric
   II.9 Roberts).
 - w1h spot check: 2/2 PASS (Self-concordance theory, Righteous indignation).
+
+### w1h "Selective attention (Broadbent's filter model)" — quote fidelity PASS (verification pass)
+- Marsh et al. 2019 sentence EXACT vs the opened PMC article; Lavie 1995 fragment EXACT
+  vs the opened PubMed abstract.
+- w1h spot check final: 3/3 PASS.
