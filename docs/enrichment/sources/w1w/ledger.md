@@ -610,3 +610,5 @@
 - Loneliness-as-signal paragraph marked as the compendium's use.
   Related links confirmed existing.
 - Taper item. Normal validator: ok. State recorded (done count 44).
+  - Repair: original [[SO004 — Treat culture as both a resource and a
+    constraint]] seed link restored (validator caught lost link).

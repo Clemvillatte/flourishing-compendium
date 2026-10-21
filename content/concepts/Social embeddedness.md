@@ -34,3 +34,4 @@ The definition is strict about what counts. "Satisfying this drive involves two 
 ## Cited in psychology parallels
 
 - [[E026 — Practise being-with (Mitsein)]]
+- [[SO004 — Treat culture as both a resource and a constraint]]
