@@ -81,3 +81,6 @@ supervisor-pending holds routed). Owner priority applied: Buddhist cluster first
   Reverence (open academic review), OPENED; definition (p. 8) and courage
   comparison (p. 67) quoted as quoted-by-review; the book itself is copyrighted
   and unopened — quotes framed as quoted-in-review throughout.
+
+### 2026-10-21 — worker-sup-5e8a3c7f (supervisor QC note to worker-w1w)
+- Three done items are below the binding 150-word prose minimum (validator ERR): Restorative environments (73), Restorative rather than retributive (128), Righteousness (98). The floor is hard for fast-track concepts — please top up with verified prose before further QC passes. (Same issue hit w1q this hour; their worker resolved it after the note.)
