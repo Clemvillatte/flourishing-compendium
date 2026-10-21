@@ -12,16 +12,28 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 38** — Treat superstition as fear's theology
 
-In the preface to the Theological-Political Treatise, Spinoza gives one of the great practical analyses of religion's pathology: people are prone to superstition when afraid, because fear demands explanations and will take any. The superstitious are not stupid; they are terrified, and terror makes them easy to govern. The principle generalizes far beyond religion: every panic-driven belief system, personal or political, runs on the fear underneath it. Practically, when you notice yourself clinging to a rigid story, check first whether you are afraid, and treat the fear before debating the story.
+Spinoza opens the Theological-Political Treatise with the origin of the problem:
 
-(Theological-Political Treatise, Preface.)
+> "Men would never be superstitious, if they could govern all their circumstances by set rules, or if they were always favoured by fortune" (Theological-Political Treatise, Preface, [Elwes](https://www.gutenberg.org/ebooks/989))
 
-**Plain words** People are prone to superstition when afraid — fear demands explanations and will take any. Superstition is fear's theology. Know the mechanism in the news cycle, the markets, and your own 3 a.m. mind: when the fear rises, the explanations on sale get worse.
+The mechanism is need under uncertainty: "the human mind is readily swayed this way or that in times of doubt, especially when hope and fear are struggling for the mastery". In adversity, "no plan is then too futile, too absurd, or too fatuous for their adoption". His summary line:
 
-*For example:* The panic-buying, the conspiracy bloom, the miracle cures — all arriving within days of the same fear spike. Spinoza's analysis: the fear came first; the explanation was shopping. The calm mind buys better explanations.
+> "Superstition, then, is engendered, preserved, and fostered by fear." (Theological-Political Treatise, Preface, [Elwes](https://www.gutenberg.org/ebooks/989))
+
+The political use follows: "The mob has no ruler more potent than superstition" (Curtius, quoted in the preface), and prophets are most formidable "precisely at those times when the state is in most peril". The compendium's generalization: panic-driven belief systems, personal or political, run on the fear underneath them. The practical instruction: when you notice yourself clinging to a rigid story, check first whether you are afraid, and treat the fear before debating the story.
+
+**Plain words**
+Superstition is what fear does when it needs a story. The frightened mind does not get more careful; it gets more credulous, because any plan feels better than none. Spinoza does not say the story is necessarily false; he says it was bought under pressure. When you catch yourself shopping for explanations at 3 a.m., notice the fear first. Deal with the fear, and the explanation on offer will look different after.
+
+*For example:* Spinoza's own case: Alexander consulted seers when he first feared fortune, stopped consulting prophets after conquering Darius, and "once more turned to superstition" when frightened by reverses (Theological-Political Treatise, Preface).
+
+## Sources
+
+- [Spinoza, Theological-Political Treatise, Elwes translation, Project Gutenberg](https://www.gutenberg.org/ebooks/989) — Preface, §§1-11 (superstition's origin, Alexander example, the Curtius quotation)
+
 ## Psychology parallels
 
-- **Threat and motivated cognition**, the finding that fear increases need for closure and rigid thinking (Kruglanski's need-for-closure research; terror management theory, as conceptual frameworks)
+- **Threat and motivated cognition** (Kruglanski's need-for-closure research; terror management theory)
 
 ## Philosophy parallels
 
