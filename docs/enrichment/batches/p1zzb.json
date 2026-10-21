@@ -15,7 +15,7 @@
   "SE026",
   "SE031"
  ],
- "in_progress": null,
+ "in_progress": "SE036",
  "flagged": {
   "MO061": "inherited psychology-parallel lines (Steger 2012/2006 'predicts motivation and goal attainment') not verified against an opened source - left untouched per protocol (link sections), routed to supervisor for verification or reduction",
   "MO062": "Reopened for QC: QC milestone round 2: practice classification reinstated rejected contrast",
@@ -31,6 +31,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T00:24:49+00:00",
+ "updated": "2026-10-21T00:24:59+00:00",
  "band_done": false
 }
