@@ -9,84 +9,231 @@ discipline: "Applied Practice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-GUID"], "alternatePaths": []}
 legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "", "chapter": "", "parent": ""}
 ---
-A structured year of qi gong for someone who wants a real curriculum, not a pile of videos. Every resource below comes from a teacher or institution whose provenance was checked when this page was written: a physician-led tai chi institute, a veteran teacher network, an acupuncturist's practice library, and small studios with decades of teaching behind them. The design rule is variety without shallowness: each month has one focus, and each week inside it differs, so a year of practice never repeats the same session twice.
+A progressive pathway through a year of qi gong. Choose the guided route below, or browse the practice library and build your own. Every resource was checked for provenance when this page was written; what was inspected is stated, and what was not is labelled.
 
-## How the degree works
+**Level:** Beginners onward
+**Essential access:** The full guided year uses free resources
+**Practice rhythm:** Five or six sessions a week, 15 to 45 minutes; two rest days are part of the design
 
-- **Rhythm**: five or six practice days a week, 15 to 45 minutes. Two rest days are part of the design, not a failure.
-- **Format**: one live anchor per month (a course or a curriculum you follow in order) plus rotating short sessions for daily variety.
-- **Progression**: months 1 to 3 build the base (posture, breath, standing), months 4 to 6 build range (routines, body awareness, emotional work), months 7 to 9 widen the tradition (tai chi, walking, seasonal forms), months 10 to 12 deepen and integrate.
-- **Cost**: everything essential is free. Where a source also offers paid depth, it is marked.
+## Start practicing
 
-## The curriculum
+### Your first session
+[The Magic 5 morning routine](https://www.learnqigong.com/videos/)
 
-### Month 1 — Foundations: the daily habit
+**Teacher:** Christopher Grant and Daniela Hess, Learn Qigong studio
+**Duration:** 14 minutes
+**Access:** Free
+**Why start here:** A complete morning routine from a small studio with over two decades of teaching behind it, short enough to do on a bad day.
 
-The anchor is [Learn Qigong](https://www.learnqigong.com/videos/), a small studio with a genuinely free working curriculum: the [Magic 5](https://www.learnqigong.com/videos/) (a 14-minute morning routine) daily, with their 8-minute tension-release routine on heavy days. Alongside, begin [Long White Cloud Qigong's free Introduction to Qigong Theory and Practice course](https://academy.longwhitecloudqigong.com) one lesson a week, so the body learns while the mind understands why.
+### Short on time
+[Tension-release routine](https://www.learnqigong.com/videos/) — 8 minutes, free, same library.
 
-### Month 2 — Breath: the engine of the practice
+### Prefer a structured course
+[Introduction to Qigong Theory and Practice](https://academy.longwhitecloudqigong.com) — a free structured course from John Munro's Long White Cloud Qigong, a network of over 450 instructors.
 
-Work through Long White Cloud's free [Complete Natural Breath course](https://longwhitecloudqigong.com/free-qigong-videos/), and pair it with the wiki's slow-breathing kernel ([[K194 — Slow breathing (5 to 6 breaths per minute)]]), which carries the physiological evidence for why breath pacing settles the system.
+## Guided year
 
-### Month 3 — Standing: strength without movement
+| Module | Focus | Anchor resource | Milestone |
+|---|---|---|---|
+| 01 | Foundations | [Learn Qigong library](https://www.learnqigong.com/videos/) | Daily habit holds for four weeks |
+| 02 | Breath | [Complete Natural Breath course](https://longwhitecloudqigong.com/free-qigong-videos/) | Full breath cycle without forcing |
+| 03 | Standing | [YoQi channel](https://videos.yoqi.com) | 15 minutes of standing |
+| 04 | Routines | [QiGong for Vitality](https://www.youtube.com/@ThinkVitalityQiGong) | Three themed routines in regular rotation |
+| 05 | Body awareness | [UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations) | Body check-in without prompting |
+| 06 | Emotional work | [LWC emotional alchemy](https://longwhitecloudqigong.com/free-qigong-videos/) | One full module completed |
+| 07 | Flow | [Mimi Kuo-Deemer](https://www.mimikuodeemer.com) | One full sequence learned |
+| 08 | Tai chi bridge | [Dr. Paul Lam free lessons](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/) | Six beginner steps completed |
+| 09 | Walking | Wiki protocol + routine library | One outdoor session weekly |
+| 10 | Seasonal | Routine libraries by season | Seasonal framing in own words |
+| 11 | Depth | [LWC live classes](https://longwhitecloudqigong.com/) | One month with a teacher |
+| 12 | Integration | Your own design | A self-designed week |
 
-Standing meditation, zhan zhuang, is the tradition's quiet power station. Use the standing sessions on [YoQi's YouTube channel](https://www.youtube.com/@yoqi) (their short standing practices are free) and follow the wiki's protocol in [[K114 — Standing meditation (zhan zhuang)]] with its evidence layer. Begin with five minutes of standing per session and add one minute a week.
+---
 
-### Month 4 — Routines: a library to draw from
+### Module 01 · Foundations
+**Weeks 1–4 · Beginner · Free**
 
-Now the practice widens. [QiGong for Vitality](https://www.youtube.com/@ThinkVitalityQiGong), the free library of registered acupuncturist Jeffrey Chand, has follow-along routines sorted by length, theme, and fitness level. Structure the month as three morning-energy sessions, two themed sessions (sleep, anxiety, seasonal), and one long class.
+Build the daily habit before anything else.
 
-### Month 5 — Body awareness: listening inside
+**Core practice**
+- [Magic 5 morning routine](https://www.learnqigong.com/videos/) — 14 min; free.
+- [Introduction to Qigong Theory and Practice](https://academy.longwhitecloudqigong.com) — one lesson weekly; free course.
 
-Qi gong's claims about "feeling the qi" map loosely onto interoception, and it can be trained directly. Add [UCLA Mindful's Breath, Sound, Body meditation](https://www.uclahealth.org/uclamindful/guided-meditations) (12 minutes, free, with transcript) three times a week, supported by the wiki's [[K111 — Interoceptive awareness]] and [[K102 — Body scan]] kernels.
+**Weekly progression**
+1. Magic 5 every morning, no exceptions for the first week.
+2. Add the tension-release routine on heavy days.
+3. Add one theory lesson.
+4. Review: what changed in sleep and mood.
 
-### Month 6 — Emotional alchemy: the inner weather
+**Course material**
+- [[K105 — Single-tasking]] — the habit logic of one thing at a time.
+- [[K100 — Breath anchoring]] — the attentional base the routines train.
 
-Long White Cloud offers a free [emotional alchemy mini-course](https://longwhitecloudqigong.com/free-qigong-videos/) on working with emotion through the practice. Pair it with the wiki's [[K115 — Willingness practice]] and [[K385 — Cognitive acceptance: watch thoughts float by]] so the emotional work stays grounded in evidence-based acceptance.
+**Checkpoint**
+- [ ] Four consecutive weeks with at least five practice days each.
 
-### Month 7 — Flow: sequences as moving meditation
+---
 
-Mimi Kuo-Deemer's free YouTube sequences (via [her site](https://www.mimikuodeemer.com)) are choreographed moving meditation with precise, contemplative cueing. Alternate her sequences with your Month 4 routine library. Her book, *Qigong and the Tai Chi Axis*, is the degree's reading for this phase.
+### Module 02 · Breath
+**Weeks 5–8 · Free**
 
-### Month 8 — The tai chi bridge
+**Core practice**
+- [Complete Natural Breath course](https://longwhitecloudqigong.com/free-qigong-videos/) — free.
+- Wiki protocol [[K194 — Slow breathing (5 to 6 breaths per minute)]] with its evidence layer.
 
-Tai chi is qi gong's slow sibling with a deeper evidence trail. Begin [Dr. Paul Lam's free lessons](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/) — a family physician whose Tai Chi for Arthritis program is recommended by the US Centers for Disease Control and Prevention for fall prevention. Start with Tai Chi for Beginners in six easy steps.
+**Checkpoint**
+- [ ] A full breath cycle, slowed, without forcing.
 
-### Month 9 — Walking and the outdoors
+---
 
-Take the practice outside. Combine the wiki's [[K104 — Mindful walking]] protocol with qi gong walking forms from your routine library. This is also the month to add a weekly [Savoring Walk](https://ggia.berkeley.edu/practice/savoring_walk) from UC Berkeley's Greater Good in Action, which carries its own research lineage.
+### Module 03 · Standing
+**Weeks 9–12 · Free**
 
-### Month 10 — Seasonal practice
+**Core practice**
+- Standing sessions on [YoQi's channel](https://videos.yoqi.com) — free content on their YouTube channel.
+- Wiki protocol [[K114 — Standing meditation (zhan zhuang)]] — build from five minutes, add one minute weekly.
 
-Return to the routine library with the seasons as the organizer: Jeffrey Chand's seasonal routines, YoQi's free YouTube content, and the five-element framing from the Long White Cloud theory course. Same library, new lens, so nothing feels repeated.
+**Checkpoint**
+- [ ] Fifteen minutes of standing, shoulders loose.
 
-### Month 11 — Depth: longer forms and live teaching
+---
 
-Lengthen the sessions: 30 to 45 minute classes from the libraries you have already used, and consider one month of [Long White Cloud's live online classes](https://longwhitecloudqigong.com/) (subscription, with a free one-month trial) or [Dr. Paul Lam's full online lessons](https://www.onlinetaichiworkshops.com) (paid). A teacher's eye at month eleven is worth more than in month one.
+### Module 04 · Routines
+**Weeks 13–16 · Free**
 
-### Month 12 — Integration and the next step
+**Core practice**
+- [QiGong for Vitality](https://www.youtube.com/@ThinkVitalityQiGong) — registered acupuncturist Jeffrey Chand's free library, sorted by length, theme, and level.
+- Structure: three morning sessions, two themed (sleep, anxiety, seasonal), one long class.
 
-Design your own week: one standing day, one routine day, one tai chi day, one walking day, one free choice. Then carry the practice forward the way traditions intend: [find a teacher near you](https://www.qigonginstitute.org) through the Qigong Institute's directory, or a certified tai chi instructor through the [Tai Chi for Health Institute class finder](https://taichiforhealthinstitute.org/find-a-tai-chi-class/). For a Sydney-based practitioner both directories list local options.
+**Checkpoint**
+- [ ] Three routines in regular rotation from memory of where they live.
 
-## Degree requirements
+---
 
-- 80 per cent attendance across the year, counted monthly, not daily. Missing a week is not failing the degree.
-- One theory course completed (Months 1 to 2).
-- One minute of standing built up to at least 15 by Month 12.
-- One live or feedback moment with a teacher (Month 11).
-- A short written reflection at each month's end: what changed in the body, the sleep, the temper.
+### Module 05 · Body awareness
+**Weeks 17–20 · Free**
 
-## Evidence note
+**Core practice**
+- [Breath, Sound, Body meditation](https://www.uclahealth.org/uclamindful/guided-meditations) — UCLA Mindful, 12 min, free, with transcript.
 
-The tradition-level evidence for meditative movement is summarized in the wiki's [[K201 — Yoga, qigong, or tai chi]] kernel: systematic reviews find improvements versus inactive controls in balance, bone density, heart-rate variability, blood pressure, aerobic capacity, and strength, with mood effects competitive with active controls. This page makes no claims beyond that evidence; it is a curriculum, not a prescription.
+**Course material**
+- [[K111 — Interoceptive awareness]] and [[K102 — Body scan]] — the evidence-based cousins of "feeling the qi".
 
-## Sources
+**Checkpoint**
+- [ ] A body check-in happens without external prompting.
 
-- [Learn Qigong free video library](https://www.learnqigong.com/videos/)
-- [Long White Cloud Qigong free videos and courses](https://longwhitecloudqigong.com/free-qigong-videos/)
-- [QiGong for Vitality (Jeffrey Chand)](https://www.youtube.com/@ThinkVitalityQiGong)
-- [YoQi](https://videos.yoqi.com)
-- [Mimi Kuo-Deemer](https://www.mimikuodeemer.com)
-- [Tai Chi for Health Institute, free lessons](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/)
-- [UCLA Mindful guided meditations](https://www.uclahealth.org/uclamindful/guided-meditations)
-- [Greater Good in Action, Savoring Walk](https://ggia.berkeley.edu/practice/savoring_walk)
+---
+
+### Module 06 · Emotional work
+**Weeks 21–24 · Free**
+
+**Core practice**
+- [Emotional alchemy mini-course](https://longwhitecloudqigong.com/free-qigong-videos/) — free.
+
+**Course material**
+- [[K115 — Willingness practice]] and [[K385 — Cognitive acceptance: watch thoughts float by]] — the acceptance scaffolding.
+
+**Checkpoint**
+- [ ] One emotional practice used during a real upset.
+
+---
+
+### Module 07 · Flow
+**Weeks 25–28 · Free sequences; book paid**
+
+**Core practice**
+- Mimi Kuo-Deemer's free YouTube sequences via [her site](https://www.mimikuodeemer.com); her book *Qigong and the Tai Chi Axis* is this module's reading.
+
+**Checkpoint**
+- [ ] One full sequence followed start to finish.
+
+---
+
+### Module 08 · Tai chi bridge
+**Weeks 29–32 · Free lessons; full programs paid**
+
+**Core practice**
+- [Dr. Paul Lam's free lessons](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/) — a family physician whose Tai Chi for Arthritis program is recommended by the US Centers for Disease Control and Prevention for fall prevention.
+
+**Checkpoint**
+- [ ] Six beginner steps completed.
+
+---
+
+### Module 09 · Walking
+**Weeks 33–36 · Free**
+
+**Core practice**
+- Wiki protocol [[K104 — Mindful walking]], plus walking forms from the routine library.
+- One weekly [Savoring Walk](https://ggia.berkeley.edu/practice/savoring_walk) (UC Berkeley Greater Good in Action, 20 min).
+
+**Checkpoint**
+- [ ] One outdoor session weekly for four weeks.
+
+---
+
+### Module 10 · Seasonal
+**Weeks 37–40 · Free**
+
+**Core practice**
+- The same libraries, organized by season: seasonal routines in the QiGong for Vitality library, five-element framing from the theory course.
+
+**Checkpoint**
+- [ ] Explain the seasonal framing in your own words.
+
+---
+
+### Module 11 · Depth
+**Weeks 41–44 · Free trials, then paid**
+
+**Core practice**
+- [Long White Cloud live classes](https://longwhitecloudqigong.com/) — subscription with a free one-month trial.
+- [Dr. Paul Lam online lessons](https://www.onlinetaichiworkshops.com) — paid.
+
+**Checkpoint**
+- [ ] One month of live or feedback-based practice.
+
+---
+
+### Module 12 · Integration
+**Weeks 45–48 · Free**
+
+**Core practice**
+- Design your own week: one standing day, one routine day, one tai chi day, one walking day, one free choice.
+- Then find a teacher: [Qigong Institute directory](https://www.qigonginstitute.org) or the [Tai Chi for Health Institute class finder](https://taichiforhealthinstitute.org/find-a-tai-chi-class/). Both list options in Australia.
+
+**Checkpoint**
+- [ ] A self-designed week, practiced.
+- [ ] A local or online teacher identified.
+
+## Practice library
+
+### Free practice
+- [Learn Qigong video library](https://www.learnqigong.com/videos/) — Magic 5, tension release, heavy-heart class; small studio.
+- [Long White Cloud free videos and courses](https://longwhitecloudqigong.com/free-qigong-videos/) — theory course, breath course, emotional alchemy.
+- [QiGong for Vitality](https://www.youtube.com/@ThinkVitalityQiGong) — large follow-along library, channel.
+- [YoQi free content](https://videos.yoqi.com) — channel-level; on-demand library is paid.
+- [Mimi Kuo-Deemer sequences](https://www.mimikuodeemer.com) — channel-level, free sequences.
+- [Dr. Paul Lam free lessons](https://taichiforhealthinstitute.org/free-tai-chi-lessons-from-dr-paul-lam/) — beginner programs.
+- [UCLA Mindful meditations](https://www.uclahealth.org/uclamindful/guided-meditations) — cross-training, not qi gong.
+
+### Paid courses
+- [YoQi on-demand library](https://videos.yoqi.com) — subscription.
+- [Dr. Paul Lam online lessons](https://www.onlinetaichiworkshops.com) — subscription from about US$19.95 per two months.
+- [Long White Cloud live classes](https://longwhitecloudqigong.com/) — subscription, one-month free trial.
+
+## Evidence and traditions
+
+The claims above are traditional framing; the research summary lives in [[K201 — Yoga, qigong, or tai chi]]: systematic reviews find meditative movement improves balance, bone density, heart-rate variability, blood pressure, aerobic capacity, and strength versus inactive controls, with mood effects competitive with active controls. This page is a curriculum, not a prescription.
+
+## Completion checklist
+
+- [ ] 80 per cent attendance, counted monthly
+- [ ] One theory course (Modules 1–2)
+- [ ] Fifteen minutes of standing (Module 3)
+- [ ] One live or feedback moment with a teacher (Module 11)
+- [ ] A written reflection at each module's end
+
+## Curation status
+
+This is a format prototype. The resource provenance was checked at the level of studios, institutes, and channels; individual sessions inside each library were not all inspected. The curation task for the next pass is to verify individual sessions and playlists within each library, so the module cards can link direct sessions rather than libraries.
