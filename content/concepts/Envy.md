@@ -30,12 +30,14 @@ The French moralist saw the hiding: his maxim 27 reads, "People are often vain o
 
 
 
+
 - [[Social comparison]] — the comparison theory behind this emotion's mechanics
 - [[Schadenfreude]]
 - [[Mudita (sympathetic joy)]]
 - [[SE050]] — A comparison with SE050's account of evaluation by comparison
 - [[S082]] — A contemporary envy exercise drawing on Marcus's examination of outward show
 - [[SP086]] — The concept's malicious envy aims to pull down a superior other; V, P20 explains why the common good defeats that motor, another's joy in the shared good fosters the love rather than threatening it.
+- [[SP021]] — Spinoza's definition connects envy with pain at another's good fortune and pleasure at their misfortune.
 ## Sources
 
 - La Rochefoucauld, Reflections
