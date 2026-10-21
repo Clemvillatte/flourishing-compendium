@@ -457,3 +457,17 @@
   confirmed existing.
 - Normal validator: ok (after Craving fix and dash trim). State
   recorded (done count 33).
+
+## Item 36: Tat tvam asi (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: stub (one line + facets). Seed citation lines kept.
+- Carriers opened: Chandogya VI.8.7 in Muller's 1879 SBE translation,
+  reproduced in context at living-bread.org (quote verified verbatim);
+  Sanatana Rahasya Chandogya page (ninefold repetition + Sama Veda
+  attribution verified verbatim; also used for the "series of
+  demonstrations" framing). Seed's vague "the ethical interpretation"
+  citation kept as-is per seed-preservation rule.
+- Facets cross-linked to [[That thou art, read relationally]] (the
+  relational reading worked out there). Vedanta-schools sentence kept
+  generic (no school claims asserted).
+- Normal validator: ok. State recorded (done count 34).
