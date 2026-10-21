@@ -110,7 +110,27 @@
      "note": "quotes verified from opened CCEL Journal pages"
     }
    ]
+  },
+  "s1e-006": {
+   "status": "qc_pending",
+   "angle": "B075 thinker is another thought: Ramana's death-drama at sixteen - the search for the one who dies finds no examiner, only the I-thought; the teaching made it a method",
+   "history": [
+    {
+     "t": "2026-10-21T12:48:15+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:48:15+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:48:58+00:00",
+     "to": "qc_pending",
+     "note": "quotes verified from two opened sources"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:47:07+00:00"
+ "updated": "2026-10-21T12:48:58+00:00"
 }
