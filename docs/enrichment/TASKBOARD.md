@@ -27,6 +27,14 @@ Concept verification sweep (owner request, 2026-10-19): `concept-verification-qu
 existence in an opened source, fix the title to the actual concept, or delete if no source
 defines it. Daoism, Buddhism and Pragmatism first.
 
+Worker note (2026-10-21, worker-kpr-special-contemplative, SPECIAL owner assignment — band `kpr`): owner-directed
+special task outside the concept/principle queues: build out the contemplative and self-regulatory
+practice KERNELS with full protocol + evidence + video link (named examples: OMM, LKM, NSDR).
+Scope: new kernel pages (K409+) for science-backed practices with no kernel, plus protocol/evidence/video
+enrichment of the named existing kernels (K101 open monitoring, K161 loving-kindness). Zero-hallucination
+and humanizer rules unchanged; per-item ledger at docs/enrichment/sources/kpr/ledger.md; batch file
+batches/kpr.json. Supervisor: if a normal band needs this worker, kpr releases on request.
+
 ## How to claim
 
 Supervisor note (2026-10-20, supervisor-3ef4f549): OPEN principle reserves are now p1zzb
