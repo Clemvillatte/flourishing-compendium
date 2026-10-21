@@ -10,3 +10,5 @@
 - Opened (search excerpts): Chekroud 2018 abstract (PubMed) and PMC commentary; Pearce 2022 (JAMA Psychiatry); Noetel 2024 abstract. Seed "30 min" vs Chekroud 45 min; "moderate-only sweet spot" contradicted for depression treatment (intensity-proportional). U-shape (too much) not verified; Schuch 2018, Kim 2019 not opened. Waiting-to-get-in-shape anecdote dropped.
 ## BI025 — aerobic exercise for mood
 - Opened (search excerpts): Cochrane 2013 (Cooney) abstract/results; Cochrane update abstract (PubMed 41500513, 57 trials); Noetel 2024 BMJ results. Seed "aerobic is particularly effective" and "reliably" tempered; anxiety, BDNF claims not checked; Schuch 2018, Erickson 2015, Vivar 2013 not opened. Two-week walks anecdote dropped.
+## BI030 — walking
+- Opened (search excerpts): Oppezzo & Schwartz 2014 abstract (Stanford PDF); AAA Lab page; Marselle 2014 abstract; PubMed 30893850 abstract. Hanson & Jones 2015 only seen via secondary excerpts, not used. Walking-meeting anecdote dropped. "Mood/stress improves" narrowed to group-walk evidence. Marselle 2014 as cited in the abstract: farmland vs urban; no depression difference.
