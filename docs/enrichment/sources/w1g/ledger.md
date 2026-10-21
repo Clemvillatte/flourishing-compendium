@@ -1505,3 +1505,12 @@ Advisor QC found batch-level and per-item issues; all repaired. Findings and rep
   §§33ff sentence and the "first key result" observation sentence. PASS.
 - REPAIRS: added two bounded sentences (from the verified SEP content) to
   clear the 150-word concept minimum. Validator ok.
+
+## The quiet craftsman's life (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Takeover light check: page at the bar (degree 3, fast-track). QUOTE
+  re-verified against the freshly fetched ETH Zurich Legge PDF: Qing's
+  fasting sentence verbatim (ch. 19); Cook Ding's nineteen-years knife
+  details confirmed (ch. 3). PASS.
+- REPAIRS: added one bounded sentence (the fasting stages, from the
+  opened passage) to clear the 150-word concept minimum. Validator ok.

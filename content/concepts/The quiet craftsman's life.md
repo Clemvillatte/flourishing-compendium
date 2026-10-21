@@ -11,7 +11,7 @@ The compendium's heading for an ideal that runs through Zhuangzi: a life of skil
 
 > "After fasting for three days, I did not presume to think of any congratulation, reward, rank, or emolument (which I might obtain by the execution of my task)." (Qing the worker in wood, Zhuangzi 19, [Legge translation](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The quietness is twofold. The craftsman works without the noise of ambition, having put aside thought of rank, reward, and praise; and the skill itself grows quiet through long absorption, so that Cook Ding's knife, nineteen years and several thousand oxen in use, still has its edge, because it moves through the joints' interstices rather than hacking at bone. Zhuangzi's ruler reads the demonstration and takes from it a lesson about nourishing life.
+The quietness is twofold. The craftsman works without the noise of ambition, having put aside thought of rank, reward, and praise; The fasting in Qing's account progresses by stages: three days loses thought of rank and reward, five days loses thought of praise or blame, seven days forgets the self. And the skill itself grows quiet through long absorption, so that Cook Ding's knife, nineteen years and several thousand oxen in use, still has its edge, because it moves through the joints' interstices rather than hacking at bone. Zhuangzi's ruler reads the demonstration and takes from it a lesson about nourishing life.
 
 ## Related concepts
 
