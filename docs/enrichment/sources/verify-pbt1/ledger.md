@@ -772,3 +772,9 @@ model": both blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no defects.
 
 Carrier opened fresh: UMN Prochaska/DiClemente/Norcross 1992 PDF. w1q "Transtheoretical
 model": five-stages blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 49 (16:39Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: Nünning & Nünning open-access PDF. w1q "Worldmaking": Goodman
+blockquote VERBATIM vs the opened carrier (citation "Goodman 1992: 6" matches).
+1/1 PASS, no defects.
