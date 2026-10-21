@@ -50,7 +50,27 @@
      "note": "supervisor registration ST409"
     }
    ]
+  },
+  "s1e-003": {
+   "status": "qc_pending",
+   "angle": "B176 present moment as miracle: Brother Lawrence - the kitchen where business and prayer became the same thing; the straw picked up for love",
+   "history": [
+    {
+     "t": "2026-10-21T12:37:59+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:37:59+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:38:25+00:00",
+     "to": "qc_pending",
+     "note": "quotes verified against two Gutenberg editions of the primary text"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:37:37+00:00"
+ "updated": "2026-10-21T12:38:25+00:00"
 }
