@@ -62,7 +62,8 @@
   "Reflective thinking",
   "Regulatory focus theory",
   "Revenge",
-  "Relational ontology"
+  "Relational ontology",
+  "Self-sufficiency"
  ],
  "in_progress": null,
  "flagged": {
@@ -98,7 +99,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 19,
- "updated": "2026-10-21T06:49:42+00:00",
+ "updated": "2026-10-21T06:50:46+00:00",
  "band_done": false,
  "new_concepts": [
   {
