@@ -270,7 +270,22 @@
      "note": "advisor round-1 repairs applied; scoped quotation checks pass; partial-angle reverted-attention story"
     }
    ]
+  },
+  "s1b-012": {
+   "status": "qc_pending",
+   "angle": "D045: Zhuangzi 4 mind-fasting dialogue — Yan Hui's project to reform the Prince of Wei, the fasting of the mind, the empty apartment filled with light",
+   "history": [
+    {
+     "t": "2026-10-21T12:34:46+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:35:13+00:00",
+     "to": "qc_pending",
+     "note": "first draft complete; quotes verbatim-verified against opened Zhuangzi PDF; advisor QC requested; flag: D045 page's spirit-line quote spelling vs source"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:34:11+00:00"
+ "updated": "2026-10-21T12:35:13+00:00"
 }
