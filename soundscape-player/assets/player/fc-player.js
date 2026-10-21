@@ -1567,6 +1567,7 @@
       '  <div class="fcp-sub"></div>',
       '</div>',
       '<div class="fcp-row fcp-controls">',
+      '  <button class="fcp-ctl fcp-setrandom" type="button" hidden aria-label="Launch a random set" title="Launch a random set"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8" cy="8" r="1.1" fill="currentColor" stroke="none"/><circle cx="16" cy="8" r="1.1" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.1" fill="currentColor" stroke="none"/><circle cx="8" cy="16" r="1.1" fill="currentColor" stroke="none"/><circle cx="16" cy="16" r="1.1" fill="currentColor" stroke="none"/></svg></button>',
       '  <button class="fcp-ctl fcp-random" aria-label="Jump to a random track" title="Random track"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3h5v5"/><path d="M4 20L21 3"/><path d="M21 16v5h-5"/><path d="M15 15l6 6"/><path d="M4 4l5 5"/></svg></button>',
       '  <button class="fcp-play" aria-label="Play or pause"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="fcp-ic-play" d="M8 5v14l11-7z"/><path class="fcp-ic-pause" d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg></button>',
       '  <button class="fcp-ctl fcp-stop" aria-label="Stop" title="Stop"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1.5"/></svg></button>',
@@ -1633,6 +1634,7 @@
     this.subEl = this.panel.querySelector('.fcp-sub');
     this.playBtn = this.panel.querySelector('.fcp-play');
     this.randomBtn = this.panel.querySelector('.fcp-random');
+    this.setRandomBtn = this.panel.querySelector('.fcp-setrandom');
     this.stopBtn = this.panel.querySelector('.fcp-stop');
     this.posEl = this.panel.querySelector('.fcp-pos');
     this.totalEl = this.panel.querySelector('.fcp-total');
@@ -1653,6 +1655,7 @@
       if (self.session.playingState() === 'playing') self.session.pause(); else self.session.play();
     });
     this.randomBtn.addEventListener('click', function () { self.session.random(); });
+    if (this.setRandomBtn) this.setRandomBtn.addEventListener('click', function () { self._launchRandomSet(); });
     this.stopBtn.addEventListener('click', function () { self.session.stop(); });
     this.volEl.addEventListener('input', function () {
       self.volume = this.value / 100;
@@ -1734,12 +1737,28 @@
     return this.session.activeEngine;
   };
 
+  // Launch a random set (never the one already active): switch with the
+  // usual crossfade and make sure playback starts.
+  UI.prototype._launchRandomSet = function () {
+    var s = this.session;
+    if (!s || s.mode !== 'sets' || s.engines.length < 2) return;
+    var others = [];
+    for (var i = 0; i < s.engines.length; i++) {
+      if (s.engines[i] !== s.activeEngine) others.push(s.engines[i]);
+    }
+    var pick = others[Math.floor(Math.random() * others.length)];
+    if (!pick) return;
+    s.switchSet(pick.setId);
+    if (s.playingState() !== 'playing') s.play();
+  };
+
   // build the set menu (multi-set mounts only)
   UI.prototype._renderSets = function () {
     var self = this;
     if (!this.session) return;
     var many = this.session.mode === 'sets' && this.session.engines.length > 1;
     this.setsWrap.hidden = !many;
+    if (this.setRandomBtn) this.setRandomBtn.hidden = !many; // dice next to the shuffle
     if (!many) return;
     var frag = document.createDocumentFragment();
     for (var i = 0; i < this.session.engines.length; i++) {

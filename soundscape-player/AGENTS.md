@@ -84,8 +84,9 @@ QA requirements (see `docs/DESIGN.md` §5 for the full quality bar):
   (content trim + 12 ms equal-power crossfade, sections 15-16: scheduled
   metadata, rendered-output measurements on the fixture AND the real set,
   resume-cursor regression), the header-docked launcher + panelAnchor
-  dropdown geometry (section 17), and the iOS background keeper handover
-  cycle (section 18). It captures page errors AND
+  dropdown geometry (section 17), the iOS background keeper handover
+  cycle (section 18), and the random-set dice (section 19). It captures
+  page errors AND
   console errors. Add a spec case for every new behaviour you introduce.
 - The real wiki page is covered by `tests/wiki-qa.mjs` (both themes,
   1280 and 375 px, zero console errors). It needs `site/data/` (a deploy

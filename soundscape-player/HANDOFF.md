@@ -3,7 +3,7 @@
 Read this together with `AGENTS.md`, `docs/DESIGN.md`, and `docs/ROADMAP.md`.
 Everything needed to continue is in this repository; nothing else is required.
 
-## Current state (all verified by `tests/spec.mjs`, 154 checks green)
+## Current state (all verified by `tests/spec.mjs`, 160 checks green)
 
 - HEADER-DOCKED LAUNCHER (DONE, user-requested): the wiki's player button is
   no longer a floating corner FAB — `mount({ launcher: '#fcLauncher' })`
@@ -17,6 +17,13 @@ Everything needed to continue is in this repository; nothing else is required.
   The floating-FAB default is UNCHANGED for standalone pages (spec 14/17).
   QA fixtures: tests/qa-launcher.html (spec section 17); wiki-qa.mjs now
   asserts the docking geometry on the real page at 1280/375 px.
+- RANDOM-SET DICE (DONE, user-requested): a small dice button in the panel's
+  controls row, placed BEFORE the shuffle (random-track) button, visible only
+  on multi-set mounts (hidden on single-set/layered). One click picks a
+  random set that is NOT the active one, switches with the usual 4 s
+  crossfade, and makes sure playback is running (spec section 19 + wiki-qa
+  checks on the real page, all four viewports). Verified: it launches a
+  different set and keeps playing.
 - iOS LOCK-SCREEN HANDOVER (DONE, user-requested): iOS suspends Web Audio
   when the page is hidden (lock/app-switch) — no code can prevent that;
   `backgroundAudio: 'auto'` (default; iOS/iPadOS only, desktop unaffected)

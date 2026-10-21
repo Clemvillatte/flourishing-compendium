@@ -110,6 +110,17 @@ async function qa(theme, width, height, tag) {
   await page.waitForFunction(() => document.querySelectorAll('.fcp-track').length === 22, null, { timeout: 30000 });
   check(true, `[${tag}] The dark night switch settles (22 tracks, playing)`);
 
+  // the dice (random-set launcher) must switch to a different set and keep playing
+  const preDice = await page.evaluate(() => window.__fcInst.session.activeEngine.setId);
+  await page.click('.fcp-panel .fcp-setrandom');
+  await page.waitForFunction((prev) => window.__fcInst.session.activeEngine.setId !== prev, preDice, { timeout: 30000 });
+  const dice = await page.evaluate(() => ({ id: window.__fcInst.session.activeEngine.setId, st: window.__fcInst.session.playingState() }));
+  check(dice.id !== preDice, `[${tag}] dice launches a different set (${preDice} -> ${dice.id})`);
+  // the incoming set's state settles to playing once its first segment
+  // decodes (the 4 s crossfade covers the handover) — wait for it
+  await page.waitForFunction(() => window.__fcInst.session.playingState() === 'playing', null, { timeout: 15000 });
+  check(true, `[${tag}] dice keeps playback running`);
+
   // stop via the real transport button; engine idle
   await page.click('.fcp-panel .fcp-stop');
   await page.waitForFunction(() => window.__fcInst.session.activeEngine.state === 'idle', null, { timeout: 20000 });

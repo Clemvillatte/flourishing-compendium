@@ -1183,6 +1183,38 @@ async function main() {
     await bg.context().close();
   }
 
+  /* ---- 19. random-set launcher (dice button before the shuffle) ---- */
+  {
+    // single-set mount: the dice button stays hidden
+    const { page: p1, errors: e1 } = await newPage(browser, { url: `${BASE}/tests/qa.html` });
+    const single = await p1.evaluate(() => {
+      const b = document.querySelector('.fcp-setrandom');
+      return { exists: !!b, hidden: b ? b.hidden : null };
+    });
+    check(single.exists && single.hidden, 'single-set mount: the random-set button is hidden');
+    check(e1.length === 0, `no page errors (random-set single) ${e1.join('|')}`);
+    await p1.context().close();
+
+    // multi-set mount: clicking the dice launches a DIFFERENT set and plays
+    const { page: p2, errors: e2 } = await newPage(browser, { url: `${BASE}/tests/qa-multi.html` });
+    await p2.click('.fcp-btn');
+    const before2 = await p2.evaluate(() => ({ id: window.__inst.session.activeEngine.setId, st: window.__inst.session.playingState() }));
+    const vis = await p2.evaluate(() => {
+      const b = document.querySelector('.fcp-setrandom');
+      const r = b.getBoundingClientRect();
+      const sh = document.querySelector('.fcp-random').getBoundingClientRect();
+      return { hidden: b.hidden, before: r.right <= sh.left + 1 };
+    });
+    check(!vis.hidden && vis.before, 'random-set button sits before the shuffle in the controls row');
+    await p2.click('.fcp-setrandom');
+    await p2.waitForFunction((prev) => window.__inst.session.activeEngine.setId !== prev, before2.id, { timeout: 8000 });
+    const after2 = await p2.evaluate(() => ({ id: window.__inst.session.activeEngine.setId, st: window.__inst.session.playingState() }));
+    check(after2.id !== before2.id, `dice launches a different set (${before2.id} -> ${after2.id})`);
+    check(after2.st === 'playing', `dice starts playback (state ${after2.st})`);
+    check(e2.length === 0, `no page errors (random-set launch) ${e2.join('|')}`);
+    await p2.context().close();
+  }
+
   await browser.close();
   if (failures) {
     console.error(`\n${failures} check(s) FAILED`);

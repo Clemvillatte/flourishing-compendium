@@ -189,6 +189,12 @@ theme; it also defines fallbacks so it works standalone.
 
 MediaSession is wired (play/pause/stop, prev/next track) for OS media keys.
 
+**Random-set dice** — on multi-set mounts the controls row gains a small dice
+button before the shuffle (random-track) button: one click picks a random set
+that is not the active one, switches with the usual crossfade and makes sure
+playback is running (hidden on single-set and layered mounts; spec section
+19).
+
 **Docked launcher** — `mount({ launcher: <selector or element> })` docks the
 toggle button into a host-page element (e.g. a header slot) instead of the
 floating corner position: the button joins that layout as a compact icon
