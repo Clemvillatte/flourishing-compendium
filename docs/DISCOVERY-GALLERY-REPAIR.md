@@ -145,3 +145,14 @@ recipe above (taking the other agent's code edits as the base), `git add`,
   602-entry state re-applied after a racing full-file overwrite. Commits:
   b8c885909, 56715e551, 571d0cadc (broken splice, reverted content), 58b168639,
   50af3b981, b71754713.
+- 2026-10-21 late (computer agent, owner-directed takeover): end-to-end
+  verification pass of the repaired state, no code changes needed. Confirmed on
+  origin/main: node --check clean; 602 entries, 0 duplicate URLs; gallery
+  renders with pagination (Load more 120 + 482), search filter, monogram
+  fallback and object-fit contain; Academy (Editorial Academy redesign) intact;
+  all five views boot and switch with zero JS errors, desktop and mobile.
+  Pre-existing, out of scope: horizontal overflow on mobile from app chrome
+  (off-canvas right panel + nav overhang) — present on every view before and
+  after the incident; left for a future pass. Remaining optional task per this
+  handbook: restore real images for the 271 monogram cards (Wikipedia API,
+  sequential ≥2s delay, cache to disk, detached background process).
