@@ -875,3 +875,11 @@
   the editor's preface) as if it were Book VI text — removed; only the verified Meditations
   line remains. Related: Forgiveness, Anger, Anger examined early (navigational captions).
   Degree 1 — fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due.
+
+## ITEM: Non-seeking (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: Zen Mind, Beginner's Mind (the Stanford-hosted open PDF of the book), opened —
+  four passages verified verbatim (the without-gaining-ideas rule + its purpose caveat + the
+  Prajna Paramita basis; the wonderful-power/nothing-special passage; the when-you-give-up
+  passage; the forget-all-gaining-ideas summary). Chapter named ('Nothing Special', Part
+  One). Related: Beginner's mind, Non-striving (navigational captions). Degree 1 —
+  fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).

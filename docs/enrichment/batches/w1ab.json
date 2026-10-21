@@ -31,7 +31,8 @@
   "New Fire ceremony",
   "Nomadology",
   "Non-abiding",
-  "Non-retaliation"
+  "Non-retaliation",
+  "Non-seeking"
  ],
  "in_progress": null,
  "flagged": {
@@ -61,7 +62,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:58:05+00:00",
+ "updated": "2026-10-21T13:58:50+00:00",
  "band_done": false,
  "new_concepts": [
   {
