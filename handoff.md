@@ -23,8 +23,16 @@
   against the actual source text. The number of remaining open defects is
   NOT established by this session — the state file is a shared audit record with
   QC markers of varying semantics; the honest starting point is the pre-sweep
-  baseline state, verified by the per-key reconstruction (0 marker leaks, 0
-  discrepancies, 0 before-value mismatches at current origin). The p1h and p1f ledgers document applied repairs
+  baseline state, verified by the complete per-key reconstruction at origin
+  e6e5f0b08: 109 commits in interval cf52980f2^..e6e5f0b08; 25 of my commits
+  excluded by reviewed literal hash list (verified to actually change flag
+  values; admin commits that did not change flags were NOT excluded); 84
+  NON-EXCLUDED commits replayed per-key (these include my own administrative
+  commits that did not change flags, not only other workers); 56 band files
+  covered; unsuppressed before-value mismatch check using MISSING sentinel;
+  RESULT: 0 marker leaks, 0 discrepancies, 0 before-value mismatches. The audit
+  evidence (base hash, end hash, 25-hash exclusion list, zero-discrepancy
+  result) is recorded in the OPERATIONS.md QC log so it survives this session. The p1h and p1f ledgers document applied repairs
   comprehensively and are the most defensible bands to verify first.
 
 - SESSION CLOSEOUT (2026-10-21 ~11:36Z, worker-w1ab-2e9d1a4f): session ending at owner's request

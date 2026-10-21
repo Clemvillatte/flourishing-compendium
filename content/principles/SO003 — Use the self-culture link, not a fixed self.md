@@ -30,7 +30,7 @@ The authors also note limits. They "assume that, on average, relatively more ind
 
 ## Psychology parallels
 
--  (1991); Heine et al. (1999); Kitayama et al. (2007); Boucher (2011); Grossmann et al. (2012) on dialectical vs. analytic reasoning; Kağitçibaşi (2005) on the autonomous-related self.
+- **[[Independent vs interdependent self-construal (Markus & Kitayama)|Independent vs interdependent self-construal]]** (Markus and Kitayama, 1991); Heine et al. (1999); Kitayama et al. (2007); Boucher (2011); Grossmann et al. (2012) on dialectical vs. analytic reasoning; Kağitçibaşi (2005) on the autonomous-related self.
 
 ## Philosophy parallels
 

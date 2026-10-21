@@ -30,7 +30,7 @@ Reading cultural self-examination as a sociocultural form of metacognition and [
 
 ## Psychology parallels
 
--  (Earley and Ang, 2003); cultural humility (Tervalon and Murray-García, 1998; Hook et al., 2013); the critique of implicit-bias training's mixed evidence (Greenwald et al., 2009; Forscher et al., 2019).
+- **Cultural intelligence** (Earley and Ang, 2003); cultural humility (Tervalon and Murray-García, 1998; Hook et al., 2013); the critique of implicit-bias training's mixed evidence (Greenwald et al., 2009; Forscher et al., 2019).
 
 ## Philosophy parallels
 

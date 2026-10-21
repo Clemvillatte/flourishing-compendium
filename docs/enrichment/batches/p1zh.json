@@ -34,12 +34,12 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SO003": "Psychology parallels first bullet is broken (citation names stripped); needs repair",
-  "SO015": "Psychology parallels first bullet is broken (names stripped); needs repair",
-  "SO019": "Chida et al. is 2009 not 2008 (Psychology parallels bullet still says 2008)",
+  "SO003": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): broken psychology-parallel bullet fixed — stripped citation name restored (Markus and Kitayama, 1991) and linked to the existing concept 'Independent vs interdependent self-construal (Markus & Kitayama)'; validator ok",
+  "SO015": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): broken psychology-parallel bullet fixed — stripped label restored as 'Cultural intelligence' (Earley and Ang, 2003), no wikilink because no matching concept exists (verified); validator ok",
+  "SO019": "supervisor repair (2026-10-21 14:55Z, worker-verify-qcsup-67ce7e1d): Chida et al. year corrected from 2008 to 2009 (matches the page's own source line and the PubMed record); validator ok",
   "SP014": "III P27 is imitation of affects, not projection; page labels projection as the entry's extension"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-20T10:23:44+00:00"
+ "updated": "2026-10-21T14:49:17+00:00"
 }

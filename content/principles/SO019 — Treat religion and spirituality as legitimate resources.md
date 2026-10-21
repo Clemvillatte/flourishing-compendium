@@ -31,7 +31,7 @@ The claims about mental health and social connection (VanderWeele 2017, 2025; Va
 
 ## Psychology parallels
 
-- [[Chida et al|Chida et al.]] (2008) meta-analysis on religious involvement and mortality; VanderWeele et al. (2016) on religious service attendance and mortality; VanderWeele (2017, 2025) on religion and health; Hill and Pargament (2003) on religion as a coping resource; Koenig et al. (2012) handbook of religion and health.
+- [[Chida et al|Chida et al.]] (2009) meta-analysis on religious involvement and mortality; VanderWeele et al. (2016) on religious service attendance and mortality; VanderWeele (2017, 2025) on religion and health; Hill and Pargament (2003) on religion as a coping resource; Koenig et al. (2012) handbook of religion and health.
 
 ## Philosophy parallels
 
