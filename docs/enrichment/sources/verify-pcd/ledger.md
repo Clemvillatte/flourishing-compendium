@@ -291,3 +291,6 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
   pain, Grounding techniques, Harsh self-criticism, Hormetic exposure research, Identity,
   Integrity as consistency, Integrative Theory of Communication Work — all quote-fidelity
   PASS; routed defects recorded earlier (Grounding hedge; FAE/Humanizer cleanups).
+
+### w1j "Framing effects" — quote fidelity PASS (verification pass)
+- Tversky & Kahneman 1981 blockquote EXACT vs the opened PubMed abstract (7455683).
