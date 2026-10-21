@@ -48,6 +48,7 @@ Before a difficult conversation, set an intention to let the other person finish
 ## Stories
 - [[ST380 — A Mirror for Rahula|380. A Mirror for Rahula]]
 - [[ST392 — Franklin's Speckled Axe|392. Franklin's Speckled Axe]]
+- [[ST430 — Franklin's Speckled Axe|430. Franklin's Speckled Axe]]
 ## Psychology parallels
 
 - **Reflection and journaling**, expressive writing (Pennebaker and Beall, 1986)
