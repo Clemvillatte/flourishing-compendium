@@ -26,3 +26,7 @@
 ## R038 — Practise whakawhanaungatanga
 - Opened: Bishop et al. 2007 Te Kōtahitanga Phase 3 (fetched, quotes verbatim), Pettigrew & Tropp 2006 abstract, Paluck/Green/Green 2019 abstract. Mead, Durie, Pettigrew 1998 not read; Buber parallel untouched/unopened.
 - Seed "across cultural, social, personal difference" is an extension: the source is teacher-student relationships in mainstream schools. Achievement results attributed to the programme as a whole, not relationship-building alone.
+
+## R039 — Practise hau
+- Opened (excerpts): Te Aka (2 entries), Williams dictionary online, Mauss The Gift (MIT excerpt incl. Ranaipiri passage), HAU journal article on Mauss, JPS abstract on Ranapiri, Ryan & Frederick 1997 abstract. NZCER excerpt seen but dropped for length. Mead/Durie not read; Stoic pneuma/Qi parallels untouched, unopened.
+- Seed "do not take others' hau / do not deplete your own" not found in any source -> reframed as modern application; Ranaipiri "Hau is not the wind" contradicts the 'breath of life' gloss in that context, disclosed; hau-of-the-gift reading disputed (Firth, JPS).

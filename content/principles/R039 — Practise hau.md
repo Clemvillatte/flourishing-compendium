@@ -12,13 +12,28 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 301** — Practise hau
 
-Recognise the vital essence of life that animates all living things. Hau is the breath of life, the wind, the spirit that moves through all of creation. In tikanga, hau must be respected and protected. Do not take the hau of others; do not let your own hau be depleted.
+Hau has more than one meaning in the sources I opened. [Te Aka Māori Dictionary](https://maoridictionary.co.nz/word/38822) has one entry for "vital essence, vitality - of a person, place or object", and another for "wind, breeze, breath" ([second entry](https://maoridictionary.co.nz/word/924)). The older Williams dictionary entry gives "vitality of man, vital essence of land, etc." ([online dictionary](https://www.dictionary.maori.nz/hau)).
 
-(Māori tikanga; Mead, 2003, Tikanga Māori; Durie, 1994, Whaiora.)
+Hau is also known from Marcel Mauss's The Gift, which draws on an account by Tamati Ranaipiri given to Elsdon Best. In the translation Mauss used, it reads: "Hau is not the wind. Not at all." Mauss reads hau as the spirit of a gift that obliges a return ([Mauss, The Gift, excerpt](https://web.mit.edu/allanmc/www/mauss1.pdf)). That reading is disputed. Raymond Firth objected that Mauss turned the hau of the object into the hau of the giver ([Hau journal](https://www.journals.uchicago.edu/doi/pdf/10.14318/hau6.2.017)), and a later article that went back to the Māori-language text finds Best "both mistranslated and misinterpreted" Ranapiri ([Journal of the Polynesian Society](https://thepolynesiansociety.org/jps/index.php/JPS/article/view/374)). I read only the abstract of that last piece.
 
-**Plain words** Hau is the breath of life moving through all living things — and it must be respected and protected, in others and in yourself. Don't take what drains someone's hau; don't let your own run empty. Vitality is a shared substance, not private property.
+The seed's instructions, "do not take the hau of others; do not let your own hau be depleted", are not stated in any source I opened, so the page now treats them as a modern application and not as a tikanga rule. I did not find a source that frames hau as something a person can run short of.
 
-*For example:* Someone who notices certain friendships leave them fuller and certain "harmless" obligations leave them hollowed — and starts protecting their own breath like it belongs to the people who need them.
+For the psychology parallel, Ryan and Frederick (1997) studied subjective vitality, "a positive feeling of aliveness and energy". They report associations with psychological well-being and physical symptoms, and lower vitality in people with chronic pain than in matched controls ([abstract](https://pubmed.ncbi.nlm.nih.gov/9327588/)). That is a measured personal feeling. Hau, in the sources above, is broader, and applies to places and objects too.
+
+**Plain words** Hau is the vital essence of a person, place or object, and also the word for wind and breath. Its use in gift exchange is a famous but contested story. Subjective vitality is a related Western idea about personal energy, not a translation.
+
+*For example:* This is an imagined case. A person notices that some friendships leave them feeling more alive and some obligations leave them flat, and plans their week with that in mind.
+
+## Sources
+
+- [Te Aka Māori Dictionary, hau (vital essence)](https://maoridictionary.co.nz/word/38822) and [hau (wind, breath)](https://maoridictionary.co.nz/word/924)
+- [Williams Dictionary, hau](https://www.dictionary.maori.nz/hau)
+- [Mauss, The Gift (excerpt)](https://web.mit.edu/allanmc/www/mauss1.pdf)
+- [The force in the thing: Mauss' nonauthoritarian sociality, HAU 6(2)](https://www.journals.uchicago.edu/doi/pdf/10.14318/hau6.2.017)
+- [Ranapiri on the spirit of gift exchange, Journal of the Polynesian Society (abstract)](https://thepolynesiansociety.org/jps/index.php/JPS/article/view/374)
+- [Ryan and Frederick (1997), On energy, personality, and health, J Pers 65, 529-565 (abstract)](https://pubmed.ncbi.nlm.nih.gov/9327588/)
+- Mead (2003) and Durie (1994): cited on the page, not read.
+
 ## Psychology parallels
 
 - **[[Vitality|Vitality]]** (Ryan and Frederick, 1997)
