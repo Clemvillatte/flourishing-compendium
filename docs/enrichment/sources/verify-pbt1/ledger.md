@@ -683,3 +683,14 @@ w1ab pages now carry fresh-source quotation-fidelity verification.
 
 Routed defects to date: 6 (Fellow feeling locator; Intra-action Hammarström; Kairos Chase;
 Novelty research deviations; Nomadology therefore; Ordering the soul "is").
+
+## Round 37 (16:49Z) — read-only spot-check of a live-band page (w1w)
+
+Carrier opened fresh: WKU Roberti review PDF; hanseysenck.com 1978 Zuckerman/Eysenck PDF.
+No band files edited — finding routed here only. w1w "Sensation seeking" (worker-w1m rewrite):
+both quotes (Zuckerman 1994 p.27 definition via Roberti; 1978 four-factor passage)
+VERBATIM vs opened carriers. 2/2 PASS, no defects.
+
+Context note: the full w1aa and w1ab released-band sweeps are complete (Rounds 1-36);
+all recent concept enrichment on main comes from live bands (w1q/w1w/w1m), whose pages
+hold no baton for this worker — this spot-check was read-only per the worker-verify pattern.
