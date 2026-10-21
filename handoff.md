@@ -1,3 +1,32 @@
+- SUPERVISOR CHECKPOINT 2 (2026-10-21 ~15:52Z, worker-p1abc, same session, T0 15:20:31Z):
+  CONTINUED WORK (commits 4b2069fd..42deee8a): FLAGS-BACKLOG DISPOSITIONS across
+  nine bands, all per-item (quotes re-verified against fresh fetches/downloads;
+  defect absence confirmed on current pages; original allegations preserved in
+  state files): p1h 32 (advisor round-3 scoped PASS), w1h 11 (incl. Non-attachment
+  namespace KEEP BOTH + cross-link), w1g 15 (incl. community-of-inquiry QC repairs
+  verified; 12 namespace questions consolidated for owner), p1zn 24 (disclosed-on-page
+  pattern confirmed), w1c 4, w1e 3, p1zm 1 (false positive), p1s 11 (stale flags —
+  repairs verified applied), p1zzb 6 (incl. SE026 saturation block run; SO073
+  formatting normalized). ALSO: applied the two preserved plain-words repair
+  proposals for unowned pages — P191 (advisor QC was in the proposal; quotes
+  re-verified this session) and B040 (advisor round-1 repairs applied —
+  integrated-fragment punctuation, purpose-claim narrowing; interpretation grounded
+  in MN 10's own sentences; round-2 scoped PASS). w1i cross-band state entry
+  RECONCILED (System justification theory removed from done list; 71->70). HONEST
+  REMAINING STATE (fuller classifier incl. 'Reopened for QC'/'title pending'/
+  'repairs pending' markers): ~678 genuinely-open flags across 59 bands (top:
+  w1ab 28, w1k 27, p1zv 26, p1f 25, p1zm 25, p1zo 24, p1g 23, p1y 23, p1zj 23,
+  w1e 23 — NOTE: the per-band counts in my earlier checkpoints were under-counts;
+  the fuller classifier is the honest number). The namespace/title questions
+  across bands are consolidated in concept-namespace-audit.md for OWNER rename/
+  merge decisions (the supervisor verified the bodies are grounded; keep-as-heading
+  is not automatically permitted by the owner's rule). NEXT SUPERVISOR ACTIONS:
+  (1) continue the flags backlog with the p1h per-item method (w1ab, w1k, p1zv,
+  p1f next by count); (2) the owner-side items: namespace rename/merge decisions,
+  K396's correct-book upload (the last kpr gap), the w1m holds; (3) PROGRESS.md
+  last refreshed ~15:49Z. Board: principles queue fully allocated (no new reserve
+  possible); kpr has a live worker (pplc) who already cleared the instruction-
+  provenance holds.
 - SUPERVISOR CHECKPOINT (2026-10-21 ~15:42Z, worker-p1abc, T0 15:20:31Z, report due
   16:20:31Z; baton HELD): took the STALE supervisor baton (worker-verify-qcsup-67ce7e1d,
   27 min). PASS 1 (commits dd84ac7a5..4baa0c4e4): window health check (window
