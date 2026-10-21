@@ -815,3 +815,10 @@ w1w "Repetition": both blockquotes VERBATIM vs the opened carrier. 1/1 PASS, no 
 
 Carrier opened fresh: Internet Classics Archive Ross NE III.1. w1w "Responsibility":
 Aristotle blockquote VERBATIM vs the opened carrier. 1/1 PASS, no defects.
+
+## Round 57 (16:41Z, real clock) — read-only spot-check of a live-band page (w1w)
+
+Carriers opened fresh: ERIC ED226263 (Tesser & Campbell 1982); UNC Greensboro
+Schmitt/Silvia/Branscombe 2000 PDF. w1w "Self-Evaluation Maintenance Theory": all five
+quoted passages (four from Tesser & Campbell 1982; the Tesser 1988 p.190 quotation)
+VERBATIM vs the opened carriers. 1/1 PASS, no defects.
