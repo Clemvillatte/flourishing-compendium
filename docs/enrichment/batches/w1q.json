@@ -14,11 +14,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Speech Act Theory": "Reopened for QC: QC correction: advisor round 2 (attribution, locators, captions, staging)",
-  "Spiral of Silence Theory": "Reopened for QC: QC correction: advisor round 2 (primary theorist quote added via 1974 abstract carrier, predictions framing, scenario label)"
+  "Speech Act Theory": "QC re-clearance 2026-10-21 (worker-pplxy-7f3d1a9c): RESOLVED — advisor scoped PASS; all quoted fragments re-verified verbatim vs a fresh SEP fetch incl. the full QEII blockquote; Sources row covers section 3; everyday-life closer scoped to the entry's account. Round-2 repairs stand; no further action needed.",
+  "Spiral of Silence Theory": "QC re-clearance 2026-10-21 (worker-pplxy-7f3d1a9c): RESOLVED — advisor scoped PASS; quotes re-verified vs fresh Wikipedia fetch; 1974 p.43 punctuation established via the opened Fitzgerald-Amna Harvard-hosted PDF; theorist's own words added to Core claims. RESIDUAL THEORY-STANDARD NOTE: Core claims also quotes Wikipedia's lead definition (labelled) — no opened carrier supplies further theorist sentences; supervisor disposition welcome."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T15:02:11+00:00",
+ "updated": "2026-10-21T15:31:52+00:00",
  "band_done": false
 }

@@ -196,3 +196,40 @@ damage, w1ab left to its live holder.
 ## Verification pass addendum 3 — Super's carriers reopened
 - OpenAIRE page for Super 1980 (DOI 10.1016/0001-8791(80)90056-1) re-fetched with raw HTML: all three abstract blockquotes on the Super's Life-Span, Life-Space Theory page verified VERBATIM by substring against the saved raw HTML (output_b383602bd0f3408aaf7a1ad4fb8f46a6.txt). NCDA article re-fetched: the fourth blockquote ("The simultaneous combination of life roles constitutes the lifestyle...") confirmed verbatim, attributed to Super 1990 p. 288 as the page cites.
 - FINAL VERIFICATION STATUS: every blockquote on all 10 w1q pages this session is verified against an opened carrier. 10/10 pages pass --fast-track validation; build clean (5842 entries); working tree clean; all commits pushed to origin/main.
+
+## QC RE-CLEARANCE PASS (items 1-2 flags) — 2026-10-21 ~15:35Z, worker-pplxy-7f3d1a9c
+- Both "Reopened for QC" flags (round-2 repairs were applied but advisor re-clearance never
+  ran) taken to formal clearance through 4 advisor rounds.
+- SPEECH ACT THEORY: scoped PASS. All quoted fragments re-verified verbatim against a
+  fresh fetch of the SEP entry, including the previously unverified full QEII blockquote
+  ("My act thus misfires..." — complete in SEP section 2.2) and the Origin-section
+  fragments (revolution, enduring legacy, sustained investigation, section-2 title,
+  Searle 1975 — all exact). Repairs applied this pass: Sources row now covers section 3
+  (Searle's taxonomy criticism); the everyday-life closing generalisation scoped to the
+  entry's own account ("On the entry's account... at least within that community").
+- SPIRAL OF SILENCE THEORY: scoped PASS after repairs. Fresh Wikipedia fetch verified the
+  three previously unverified claims (1965/1972 West German federal election research;
+  the Glynn-1995 contested-fear-of-isolation clause; the dynamic-process sentence — page
+  paraphrases it without quotes, wording verified present). 1974 abstract-quote
+  punctuation: SciSpace raw HTML is WAF-blocked and its text layer strips sentence-final
+  periods (evidence: "sidewalks This example", "public lives If public opinion" in the
+  same reproduction); punctuation established by downloading the Fitzgerald & Amnå
+  "The popularization of unpopular ideas: Social cross-pressures and immigration
+  attitudes in Sweden" PDF (ces.fas.harvard.edu) and pdftotext-extracting it — it
+  reproduces the passage with the period after "judgment" and semicolon after
+  "human society", citing Noelle-Neumann 1974: 43. First citation attempt wrongly titled
+  the paper "Unpopular Ideas" with invented hosting metadata — caught by advisor round 3,
+  corrected from the opened PDF's title page (authors: Jennifer Fitzgerald, University of
+  Colorado at Boulder; Erik Amnå, Örebro University).
+- Bounded repair per advisor round 4: theorist's own words added to Core claims
+  ("this fear of isolating oneself … is an integral part of all processes of public
+  opinion", 1974 p. 43, honest ellipsis over the parenthetical, which contains a
+  validator-flagged staging pattern in the source's own wording); verification-history
+  clause (sentence punctuation) moved from the public Sources row to this ledger.
+- RESIDUAL THEORY-STANDARD NOTE (Spiral of Silence): Core claims also quotes Wikipedia's
+  lead definition (labelled as such); the opened carriers supply no further theorist
+  sentences beyond the p. 43 passage. Recorded in the state flag for supervisor/owner
+  disposition; not certified as fully meeting the EXEMPLARS theorist-words standard.
+- Validation: both pages ok at each repair step (Speech Act 2x ok; Spiral 3x ok; one
+  interim FAIL was a staging pattern inside the theorist's own quoted words — resolved
+  with an honest-ellipsis fragment, not a wording change).

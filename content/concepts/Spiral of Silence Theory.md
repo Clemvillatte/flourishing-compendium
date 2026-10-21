@@ -21,7 +21,11 @@ The model grew out of her research on West German federal elections.
 
 > "The spiral of silence theory is a political science and mass communication theory which states that an individual's perception of the distribution of public opinion influences that individual's willingness to express their own opinions." ([Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence), lead)
 
-The theory's engine is a "quasi-statistical sense" that helps an individual perceive the climate of opinion and estimate majority and minority opinion, together with a fear of isolation from social interaction, although the article notes that whether fear of isolation is a causal factor in willingness to speak out is contested. A textbook summary quoted in the article: "people who have believed that they hold a minority viewpoint on a public issue will remain in the background where their communication will be restrained; those who believe that they hold a majority viewpoint will be more encouraged to speak." In the article's description, citing her 1977 paper, an opinion that is reinforced this way "appears stronger than it is, while a suppressed opinion will seem weaker than it is."
+The theory's engine is a "quasi-statistical sense" that helps an individual perceive the climate of opinion and estimate majority and minority opinion, together with a fear of isolation from social interaction, although the article notes that whether fear of isolation is a causal factor in willingness to speak out is contested. The theorist's own formulation of that fear, from the same 1974 passage:
+
+> "this fear of isolating oneself … is an integral part of all processes of public opinion" (Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, p. 43](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x), as reproduced by [SciSpace](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr); the source continues the sentence with a parenthesis naming fear of separation and doubt about one's own capacity for judgment)
+
+A textbook summary quoted in the article: "people who have believed that they hold a minority viewpoint on a public issue will remain in the background where their communication will be restrained; those who believe that they hold a majority viewpoint will be more encouraged to speak." In the article's description, citing her 1977 paper, an opinion that is reinforced this way "appears stronger than it is, while a suppressed opinion will seem weaker than it is."
 
 ### How the spiral turns
 
@@ -52,7 +56,7 @@ Illustrative scenario, not a study result: someone withholds a dissenting view d
 
 ## Sources
 
-- Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, pp. 43-51](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x) — the quoted p. 43 passage, as reproduced by [SciSpace](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr); sentence punctuation follows its reproduction in Fitzgerald and Amnå, ["The popularization of unpopular ideas: Social cross-pressures and immigration attitudes in Sweden"](https://ces.fas.harvard.edu/uploads/files/events/Unpopular-ideas-Fitzgerald-Amna-Harvard-2020.pdf) (PDF hosted at ces.fas.harvard.edu)
+- Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, pp. 43-51](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x) — the quoted p. 43 passages, as reproduced by [SciSpace](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr) and by Fitzgerald and Amnå, ["The popularization of unpopular ideas: Social cross-pressures and immigration attitudes in Sweden"](https://ces.fas.harvard.edu/uploads/files/events/Unpopular-ideas-Fitzgerald-Amna-Harvard-2020.pdf) (PDF hosted at ces.fas.harvard.edu)
 - [Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence) — definition, origin, mechanism, criticisms; the article's description of the theory, including its citation of Noelle-Neumann 1977
 
 ## Field
