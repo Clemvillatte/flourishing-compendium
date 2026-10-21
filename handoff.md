@@ -20,8 +20,11 @@
   1164/2269). Build ok (5829 entries, fcAuthored 975). WHAT THE NEXT SUPERVISOR
   MUST DO: the flags-backlog needs per-item source verification — for each
   flagged item, re-open the cited sources and verify the specific flagged claim
-  against the actual source text. The ~1089 remaining open flags across 61 bands
-  are the honest starting point. The p1h and p1f ledgers document applied repairs
+  against the actual source text. The number of remaining open defects is
+  NOT established by this session — the state file is a shared audit record with
+  QC markers of varying semantics; the honest starting point is the pre-sweep
+  baseline state, verified by the per-key reconstruction (0 marker leaks, 0
+  discrepancies, 0 before-value mismatches at current origin). The p1h and p1f ledgers document applied repairs
   comprehensively and are the most defensible bands to verify first.
 
 - SESSION CLOSEOUT (2026-10-21 ~11:36Z, worker-w1ab-2e9d1a4f): session ending at owner's request
