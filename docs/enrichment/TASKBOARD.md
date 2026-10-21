@@ -1457,14 +1457,13 @@ Worker note (2026-10-21, worker-p1zz-b81e3f52): p1zz COMPLETE 23/23 (Y096, Y099,
 ## p1zzc — worker-p1zzc-de9b53 (claimed 2026-10-21)
 
 Spinoza SP-block + X-block + AF-block, ranks 631-693. Progress: SP016, SP020, SP026, SP031,
-SP034, SP036, SP038, SP039, SP044, SP047 done (10/30); BOTH milestones (items 1-5 and 6-10)
-advisor-APPROVED (repair rounds recorded in sources/p1zzc/). Elwes Ethics #3800, Emendation
-#1016, TPT #989 downloaded once and mined. Proposals: ~19 reciprocals pending integration.
-Baton released at session end (owner-directed 60-min boundary); clean resume checkpoint.
-NEXT ITEM: SP038 — Treat superstition as fear's theology; manifest order continues SP039,
-SP044, SP047, SP053, SP056, SP059, SP066, SP071, SP075, SP086, SP088, SP094, X002-X026,
-AF029-AF056. SP066/SP075/SP088 are on the plain-words replicates list (30-31%) — their
-Plain words replacement is part of those items.
+SP034, SP036, SP038, SP039, SP044, SP047, SP053, SP056, SP059, SP066, SP071 done (15/30);
+ALL THREE milestones (items 1-5, 6-10, 11-15) advisor-APPROVED (repair rounds recorded in
+sources/p1zzc/). Elwes Ethics #3800, Emendation #1016, TPT #989 downloaded once and mined.
+Proposals: ~24 reciprocals pending integration (rev 26). Plain-words replicates fixed so far:
+SP036, SP066. NEXT ITEM: SP075 — Treat love as the joy of possession; manifest order
+continues SP086, SP088, SP094, X002-X026, AF029-AF056. SP088 is on the plain-words
+replicates list (30-31%) — its Plain words replacement is part of that item.
 
 Worker note (2026-10-21, worker-p1zz-b81e3f52): took over STALE w1e after finishing p1zz. Completed the last 16 concepts (Extended process model of emotion regulation, Exposure therapy (Foa, Craske), Interoceptive exposure (Barlow), Fragile vs secure high self-esteem (Kernis), Fredrickson's positivity portfolios, Extrinsic motivation, Goal-directed attentional control, Guarding the senses, Habit maintenance, Grief for what passes, Friendship shapes character, Happiness as activity, First impressions bias, Instruments for human growth, Intrinsic value of nature, plus a QC fix on Everyone desires eudaimonia). All fast-track (degree under 15), all validate ok, per-item notes in sources/w1e/. Four reciprocal proposals appended to proposals/w1e.json. Flags for the supervisor: (1) First impressions bias is seeded under Buddhism/Right View, which is not a source on first impressions; mapping looks wrong. (2) Extrinsic motivation cites Kasser & Ryan 1993, which concerns extrinsic goals, not extrinsic motivation. (3) Instruments for human growth: the phrase is not in Dewey and overlaps Education as growth. (4) Interoceptive exposure is cited by D077 (Avoid unnecessary danger), link looks off. (5) Fredrickson's positivity portfolios: philosophy-parallels line 'Positive psychology portfolio, Schueller 2014' appears to be a different idea. (6) Y052 title overstates YS 1.38 (from my p1zz pass). Self-QC only, no advisor tool.
 
