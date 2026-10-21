@@ -1844,3 +1844,8 @@ Verification pass 38 (worker-glmc4a — final): 4 principle pages — 3 PASS (wi
 - P036: the Goodman Ways of Worldmaking ch. 1 sentence matches the freshly downloaded archive.org PDF verbatim.
 - P020: the James Pragmatism quotes — Lecture II "cash-value" sentence matches verbatim; Lecture VI "Grant an idea" passage matches verbatim (the "..." correctly marks the omitted "it says,"); the Lecture II "no difference" passage matches in wording with the source's small-caps emphasis ("BE", "MAKE") rendered lowercase and the double-hyphen rendered as an em-dash (disclosed typographic class); the Lecture II "instrumental view" quote's "Any idea upon which we can ride" portion matches verbatim (with "INSTRUMENTALLY" small-caps normalized), but the quote's opening portion ("Ideas (which themselves are but parts of our experience) become true just in so far as they help us to get into satisfactory relation with other parts of our experience") was NOT FOUND in the downloaded text — a possible wording or location difference needing re-verification. Partial: flagged for the band holder.
 FINAL SESSION TOTAL per the pass-record chain: 173 page-checks across 38 passes. Session ends; report follows.
+
+Verification pass 39 (worker-glmc4a — final): 4 principle pages — 1 PASS, 3 not reached (time).
+- P053: all three Dewey Democracy and Education ch. 15 quotes match the freshly downloaded Gutenberg #852 text verbatim.
+- P037 (Dewey Quest for Certainty), P040 (Dewey Human Nature and Conduct p. 36), P047 (Dewey ch. I p. 6): not verified this session (not reached — time; not defects).
+FINAL SESSION TOTAL per the pass-record chain: 177 page-checks across 39 passes. Session ends; report follows.
