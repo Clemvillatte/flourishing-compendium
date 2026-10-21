@@ -61,7 +61,8 @@
   "Boredom",
   "Autarky",
   "Acculturation theory Berry",
-  "Choking under pressure"
+  "Choking under pressure",
+  "Assertiveness training"
  ],
  "in_progress": null,
  "flagged": {
@@ -117,10 +118,11 @@
   "Boredom": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Eastwood 2012 definition and attentional account quoted via open PMC carriers quoting the paper (Elpidorou PMC4217586; PMC3842844); Eastwood 2012 original not directly opened; function-of-boredom material from Elpidorou PMC4217586; validated --fast-track",
   "Autarky": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): opened Wikipedia Autarkeia for Stoic/Epicurean quotes (seed's own carrier); Aristotle contemplative material kept as seed description (A095), not quoted; Epicurus Vatican Sayings and Cynic lines preserved from seed, not quoted from opened carrier; validated --fast-track",
   "Acculturation theory Berry": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Berry 1997 model quoted via open PMC reviews quoting the paper (PMC6997899, PMC5003760, PMC9461568, PMC4346023, PMC8168756); Berry 1997 original not directly opened; validated --fast-track",
-  "Choking under pressure": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Baumeister 1984 definition quoted verbatim via open PMC articles quoting it (PMC9263694); distraction and explicit-monitoring accounts quoted verbatim from opened PMC4322702; seed's Beilock 2010 framing retained in prose; Beilock 2010 original not directly opened; validated --fast-track"
+  "Choking under pressure": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Baumeister 1984 definition quoted verbatim via open PMC articles quoting it (PMC9263694); distraction and explicit-monitoring accounts quoted verbatim from opened PMC4322702; seed's Beilock 2010 framing retained in prose; Beilock 2010 original not directly opened; validated --fast-track",
+  "Assertiveness training": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Alberti & Emmons definition quoted via open PMC article citing it; Speed et al. 2018 findings quoted via PMC12379063; RCT outcomes from opened PMC11392326; Alberti & Emmons 2001 and Linehan 1993 kept as seed sources, not directly opened; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:46:32+00:00",
+ "updated": "2026-10-21T16:47:02+00:00",
  "band_done": false
 }
