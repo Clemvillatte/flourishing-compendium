@@ -484,3 +484,13 @@ ERIC ED470007 (Hartung et al review).
    one-liner and the Triandis 1994 p. 2 elaboration VERBATIM vs the opened ERIC review.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 23 (16:35Z) — w1aa quote-fidelity verification, twenty-second batch
+
+Carrier opened fresh: Hulsheger & Schewe 2011 meta-analysis PDF (Maastricht repository).
+
+1. Impression-management burnout research — both blockquotes VERBATIM (abstract
+   effect-size sentences); the 494-correlations/95-studies description and the
+   monitoring-effort mechanism sentence VERBATIM-supported.
+
+Result: 1/1 quotation fidelity PASS, no defects this round.
