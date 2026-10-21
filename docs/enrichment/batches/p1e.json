@@ -118,7 +118,7 @@
   "AT037": "inherited Kaplan-Berman, Ohly, McMahan-Estes refs and Neiye/Sabbath/Delphic parallels not opened; preserved",
   "AT064": "Reopened for QC: QC round 3: conditional PASS, applying literal Sources-entry fix",
   "BE001": "Reopened for QC: QC rework round 2: advisor fixes applied, awaiting acceptance",
-  "BE006": "inherited Hanley, Hayes, Vilardaga, Socrates/Nietzsche/Buddhism parallels not opened; preserved",
+  "BE006": "RESOLVED by supervisor-pcx-fe429f3b: opened the Hanley, Iwata and McCord 2003 JABA review (Europe PMC - 'Functional analysis of problem behavior: a review', 'Functional analysis methodology focuses on the identification of variables that influence the occurrence of problem behavior'), confirming the functional-analysis construct gloss; Baer et al. 1968 (the foundational JABA dimensions paper), Hayes et al. 2011 (ACT) and Vilardaga et al. 2009 remain bare references to canonical works (bounded: not freshly opened); the Socrates/Nietzsche/Buddhism philosophy parallels remain bare references (bounded); no repair",
   "BE009": "Reopened for QC: QC round 2 FAIL: shaping source gap; opening source from PRIMARY-SOURCES.md",
   "BE019": "Reopened for QC: QC round 2 conditional PASS applied; recording acceptance",
   "BE022": "inherited Linehan 1993, Rizvi-Linehan 2005, Aristotle, Buddhist, Kant parallels not opened; preserved",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:53:18+00:00",
+ "updated": "2026-10-21T13:53:37+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
