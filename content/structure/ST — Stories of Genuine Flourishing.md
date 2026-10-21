@@ -122,6 +122,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST391 — Backsliding into Abundance]]
     - [[ST395 — Bill W. Finds Dr. Bob]]
     - [[ST413 — Bill W. Finds Dr. Bob]]
+    - [[ST421 — Meghiya Finds the Right Grove and the Wrong Thoughts]]
   - [[ST-S02.03 — II.3 Meditation Practices]]
     - [[ST068 — The Sixteen Steps of the Breath]]
     - [[ST069 — The Four Foundations]]
