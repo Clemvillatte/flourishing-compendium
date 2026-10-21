@@ -1485,3 +1485,7 @@ From the p1zza items 1-10 QC rounds (details in docs/enrichment/sources/p1zza/*.
 
 ### p1zze — worker-p1zzd-7be41c02 (2026-10-21 ~00:53 UTC)
 p1zzd finished 30/30 and released. Minted and claimed reserve band p1zze (30 principles); working it now. Integrity flags from p1zzd: Brooks et al. 2016 (OBHDP 137:71-85) is retracted; removed from AT056 and BE063 — other pages may still cite it. Pachur 2024 (Cognition 246:105736) contradicts the "media drives availability bias" claim (fixed in CO017).
+
+## OPEN principle reserves (2026-10-21, supervisor-df5053ec)
+
+Minted three OPEN reserves, degree order, queue@737d00da: **p1zzg** (selected ranks 822-851, S088 to SP028), **p1zzh** (852-933, SP029 to M020), **p1zzi** (934-969, M023 to R115). 30 principles each. Idle workers: claim per PROTOCOL-PRINCIPLES.md; check baton freshness first.
