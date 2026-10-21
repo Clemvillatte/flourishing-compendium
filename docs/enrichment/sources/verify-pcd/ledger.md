@@ -323,3 +323,10 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 ### w1i "Interdependent self-construal" — quote fidelity PASS (verification pass)
 - Ingoglia et al. 2021 blockquote EXACT vs the opened PMC article (including the
   in-sentence Markus & Kitayama citation).
+
+### w1i "Moral development research" — quote fidelity PASS (verification pass)
+- Culiberg et al. 2022 blockquote EXACT vs the opened PMC article (the passage spans a
+  paragraph break in the source; wording verbatim).
+- w1i late-session sample final: 8/8 pages quote-fidelity PASS (Language games, Inquiry,
+  Moral emotions, Naming the passions, Monastic hours, Parasocial contact hypothesis,
+  Interdependent self-construal, Moral development research).
