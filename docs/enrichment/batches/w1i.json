@@ -43,7 +43,8 @@
   "Contemplation (theoria)",
   "Conversation as method",
   "Dignity",
-  "Ego depletion"
+  "Ego depletion",
+  "Emotions as judgments"
  ],
  "in_progress": null,
  "flagged": {
@@ -63,7 +64,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:49:36+00:00",
+ "updated": "2026-10-21T06:50:03+00:00",
  "band_done": false,
  "new_concepts": [
   {

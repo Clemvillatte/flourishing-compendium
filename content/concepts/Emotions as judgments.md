@@ -7,9 +7,18 @@ file: "Emotions as judgments"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-“Emotions as judgments” — Nussbaum, Upheavals of Thought; Stoic tradition.
+“Emotions as judgments” — the cognitivist theory that follows the Stoics in identifying emotions with judgments: my anger at someone is the judgment that I have been wronged by that person ([SEP, "Emotion", §2c-d](https://plato.stanford.edu/entries/emotion/)). Robert Solomon, Jerome Neu and Martha Nussbaum take this approach, and the entry notes that Nussbaum and Neu have explicitly rejected the label of judgmentalism while clarifying what sorts of judgments emotions are ([SEP, "Emotion", §2c-d](https://plato.stanford.edu/entries/emotion/)).
+
+> "On a common interpretation of their view, my anger at someone is the judgment that I have been wronged by that person. To generalize, the proposal is that an emotion E is a judgment that the formal object of E is instantiated (by some particular object X)." — [SEP, "Emotion", §2d](https://plato.stanford.edu/entries/emotion/)
+
+### The Nussbaum refinement
+
+The theory's modern refinements make the judgments motivational and phenomenologically salient: judgments understood as "enclosing a core desire" (Solomon), dynamic and able to "house…the disorderly motions of emotion" (Nussbaum 2001: 45), available to infants and animals through pre-linguistic acceptance of how the world seems, and capable of being held jointly with contradictory judgments — which is how the theory explains emotions' recalcitrance to reason ([SEP, "Emotion", §2d](https://plato.stanford.edu/entries/emotion/)).
 
 ## Sources
+
+- [Nussbaum, M. (2001). Upheavals of Thought. Cambridge University Press — discussed in SEP, "Emotion"](https://plato.stanford.edu/entries/emotion/)
+- [Kenny, A. & Goldie, P., "Emotion", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/emotion/) — the judgmentalism section, the Solomon-Neu-Nussbaum approach, the objections and refinements
 
 - Nussbaum, Upheavals of Thought
 
