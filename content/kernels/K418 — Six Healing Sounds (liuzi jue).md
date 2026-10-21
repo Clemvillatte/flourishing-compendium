@@ -10,11 +10,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K418** — Six Healing Sounds (liuzi jue)
 
-The liuzi jue (六子訣), the Six Healing Sounds, is a set of six exhalation patterns from the daoyin tradition of Chinese healing exercises. Each sound is made on the out-breath and is traditionally matched to one organ: he for the heart, hu for the spleen, xu for the liver, chui for the kidneys, si for the lungs, and xi for the Triple Heater, the traditional organ of digestion and energy processing. The practice appears in early texts such as the Daoyin jing and, in Kohn's assessment, "still forms an important part of qigong practice today" ([Kohn, Chinese Healing Exercises](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_)).
+The liuzi jue (六子訣, as Kohn prints the term), the Six Healing Sounds, is a set of six exhalation patterns from the daoyin tradition of Chinese healing exercises. Each sound is made on the out-breath and is traditionally matched to one organ: he for the heart, hu for the spleen, xu for the liver, chui for the kidneys, si for the lungs, and xi for the Triple Heater, the traditional organ of digestion and energy processing. The practice appears in early texts such as the Daoyin jing and, in Kohn's assessment, "still forms an important part of qigong practice today" ([Kohn, Chinese Healing Exercises](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_)).
 
 ### Protocol
 
-What follows combines two opened sources: Kohn's historical descriptions of the breaths and a modern general framework from a peer-reviewed description. It is not a complete, standardized modern routine; no opened source specifies one.
+What follows combines two opened sources: Kohn's historical descriptions of the breaths and a modern general framework from a peer-reviewed description. It is not a complete, standardized modern routine.
 
 #### Historical breathing descriptions
 
@@ -32,10 +32,8 @@ Kohn presents the organ associations as traditional Chinese medicine corresponde
 
 ## Operationalises
 
-- [[B038 — Practice mindfulness of breathing (anapanasati)|B038 Practice mindfulness of breathing (anapanasati)]]
 - [[BE046 — Learn to use the body to regulate emotion — posture, breath, movement|BE046 Learn to use the body to regulate emotion: posture, breath, movement]]
 - [[Y048 — Use the breath to steady attention|Y048 Use the breath to steady attention]]
-- [[D055 — Don't force|D055 Don't force]]
 
 ## Related kernels
 
