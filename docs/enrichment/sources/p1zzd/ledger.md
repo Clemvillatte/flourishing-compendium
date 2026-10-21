@@ -69,3 +69,8 @@
 ## BE058 — Balance solitude and sociality
 - Opened: Weinstein et al. 2023 Sci Rep 13:21160 (PubMed abstract + PMC full-text snippets; Tilburg repository). Quotes verified.
 - Dropped unopened: Long & Averill 2003 claim; Larson 1990 and Winnicott 1958 kept as bare refs in the concept-link bullet. Page now says no universal optimal balance; correlational design flagged.
+
+## BE044 — Limit substances
+- Opened (PubMed abstracts via search): Boden & Fergusson 2011 Addiction 106(5):906-14; Taylor et al. 2014 BMJ 348:g1151; Taylor et al. 2015 BMJ Open 5:e008774 (confounding caveat); Moore et al. 2007 Lancet 370:319-28. Quotes verbatim.
+- Dropped unopened: Koob & Le Moal 2008, Ziedonis 2008, Volkow 2016; seed claims "alcohol disrupts sleep", "nicotine is associated with increased anxiety", "short-term relief" not supported by opened sources -> sleep claim explicitly not made; "billed the next morning" rhetoric removed.
+- Example imagined, labelled; help-seeking line retained from the seed Practice.
