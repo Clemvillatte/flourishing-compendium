@@ -5,15 +5,16 @@
   "S088",
   "S109",
   "S110",
-  "S111"
+  "S111",
+  "S114"
  ],
- "in_progress": "S114",
+ "in_progress": null,
  "flagged": {
   "S088": "Reopened for QC: QC round 3: replace added paragraph",
   "S106": "Reopened for QC: QC round 2 FAIL: remove rejected opening"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:54:15+00:00",
+ "updated": "2026-10-21T01:54:32+00:00",
  "band_done": false
 }
