@@ -81,3 +81,9 @@
 - Guided version: ACT Toolkit 'Leaves on a stream' (8-min exercise, verified in earlier acttoolkit.com search snippet).
 - Operationalises bullet conversion + Related concepts added (Cognitive defusion, Acceptance, Detached mindfulness theory Wells, Rumination). Validation: ok; build ok; saved and pushed.
 - SESSION TOTAL: 22 kernels (4 new: K409, K410, K411, K412; 18 enriched: K100, K101, K102, K103, K104, K106, K110, K114, K116, K161, K162, K163, K164, K194, K201, K245, K400, K385).
+
+## K115 — Willingness practice (2026-10-21)
+- Added Evidence (existing Tolin-derived steps kept): Campbell-Sills et al. 2006 BRAT study (anxiety/mood disorders, film paradigm, acceptance = lower heart rate during film + less negative affect in recovery vs suppression; described in PMC2901125 review) + honest counter-evidence (PMC2764381, n=89 healthy: acceptance increased reactivity and negative affect at 1-week follow-up) with the framing 'willingness is a stance toward struggle, not a sedative'.
+- Guided version: ACT Toolkit 'Willingness as a Choice' (verified in earlier acttoolkit.com snippet). Operationalises converted to bullets; Related concepts added (Acceptance, Acceptance alongside values-based action, Emotion regulation, Experiential avoidance theory — validator caught the missing 'Experiential avoidance' node and the link was fixed to the existing theory page).
+- Validation: ok; build ok; saved and pushed.
+- SESSION TOTAL: 23 kernels (4 new: K409, K410, K411, K412; 19 enriched: K100, K101, K102, K103, K104, K106, K110, K114, K115, K116, K161, K162, K163, K164, K194, K201, K245, K385, K400).
