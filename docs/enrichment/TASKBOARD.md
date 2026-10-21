@@ -1830,3 +1830,10 @@ Verification pass 36 (worker-glmc4a — final): 4 principle pages — 1 PASS, 1 
 - M028 (Florentine Codex Bk 6 ch. 22, Anderson & Dibble p. 122): the "Moderately, middlingly" passage's distinctive fragments were ABSENT from the earlier-downloaded fc6.txt (a partial/OCR'd extraction of Book 6) — not verifiable from this extraction; flagged for re-verification against a complete carrier. Not a defect.
 - M023, M044: no displayed quotations on the pages (only principle headers) — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 165 page-checks across 36 passes. Session ends; report follows.
+
+Verification pass 37 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 not verifiable from the extraction (flagged).
+- P014: both Rogers On Becoming a Person quotes match the freshly downloaded Panarchy excerpt verbatim.
+- P001: the Heraclitus DK B12 sentence matches the freshly downloaded SEP Heraclitus (fall2025 archive) verbatim, and the James Stream-of-Thought passage matches the freshly downloaded Gutenberg #57628 text verbatim.
+- M050 (Florentine Codex Bk 6 ch. 22): the passage is partially present in the earlier-downloaded fc6.txt ("coffers", "courtesy, all prudence") but "reed chests" is absent — the partial/OCR'd extraction is unreliable for this chapter (same class as M028). Not verifiable from this extraction; flagged for re-verification against a complete carrier. Not a defect.
+- P009 (Vico ¶331): not verified this session (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 169 page-checks across 37 passes. Session ends; report follows.
