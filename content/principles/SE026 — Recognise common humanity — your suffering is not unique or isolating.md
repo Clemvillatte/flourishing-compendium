@@ -21,9 +21,9 @@ Neff's scale paper defines [[Self-compassion|self-compassion]] with this compone
 The same page frames the component as acknowledging that suffering, failure and inadequacies are part of the human condition (p. 224). The principle statement carries the second component on its own: the suffering is not a private defect but shared material.
 
 **Plain words**
-The component works by changing who is in the room. Suffering narrated as a private defect has an audience of one; narrated as part of the human condition, the audience is everyone who has failed at something. The move is not comparing miseries; it is reclassifying the experience from unique to shared.
+When reflecting on a failure, notice whether you are treating it as proof that something is wrong with you alone. Consider how another person might describe a similar difficulty.
 
-*For example:* Imagine the new mother convinced she is the only one failing at it, and the mothers' group where every "am I the only one who...?" is answered by twelve hands.
+*For example:* Imagine a new mother convinced she is the only one failing at it, and the mothers' group where other members describe the same struggles.
 
 ## Sources
 
@@ -42,4 +42,4 @@ The component works by changing who is in the room. Suffering narrated as a priv
 
 ## Practice
 
-When you suffer or fail, remind yourself: this is part of being human. Others have felt exactly this. I am not alone. The scale's own items model the phrasing: "I try to see my failings as part of the human condition."
+Describe the difficulty without treating it as evidence that you alone are flawed. Consider what you would say to another person facing something similar.

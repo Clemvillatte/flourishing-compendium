@@ -1,6 +1,6 @@
 {
  "batch": "p1zzb",
- "revision": 18,
+ "revision": 19,
  "reciprocal": [
   {
    "into": "Meaning",
@@ -181,6 +181,24 @@
    "link": "SE044",
    "why": "A principle on authenticity scored against values and beliefs rather than impulses",
    "notes": "SE044 (2026-10-21, worker-p1zzb-9d251b2e): hub occurrence-checked earlier in session; no SE044 occurrence; grounded in the opened Authenticity Scale document (item 11 quoted verbatim; carrier typos in items 7 and 9 avoided, the two quoted items are clean)."
+  },
+  {
+   "into": "Ubuntu",
+   "link": "SE026",
+   "why": "A principle on suffering as shared human material rather than a private defect",
+   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (common humanity) or parallels; occurrence-checked, no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim). Earlier session note claiming a verified SCS subscale item in Practice is CORRECTED: the item was quoted from memory and has been removed; the opened PDF's components passage alone does not verify item wording."
+  },
+  {
+   "into": "Shame",
+   "link": "SE026",
+   "why": "A principle on suffering as shared human material rather than a private defect",
+   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (common humanity) or parallels; occurrence-checked, no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim). Earlier session note claiming a verified SCS subscale item in Practice is CORRECTED: the item was quoted from memory and has been removed; the opened PDF's components passage alone does not verify item wording."
+  },
+  {
+   "into": "Self-compassion",
+   "link": "SE026",
+   "why": "A principle on suffering as shared human material rather than a private defect",
+   "notes": "SE026 (2026-10-21, worker-p1zzb-9d251b2e): hub surfaced by the mention search (common humanity) or parallels; occurrence-checked, no SE026 occurrence; grounded in the opened self-compassion.org PDF of Neff 2003 (p. 224 three-components sentence quoted verbatim). Earlier session note claiming a verified SCS subscale item in Practice is CORRECTED: the item was quoted from memory and has been removed; the opened PDF's components passage alone does not verify item wording."
   }
  ]
 }
