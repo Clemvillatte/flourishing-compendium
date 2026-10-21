@@ -12,13 +12,24 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 360** — Practise the I-It relation without abandoning it
 
-Do not seek to live entirely in I-Thou. The I-It relation is necessary for science, technology, and practical life. The problem is not I-It but the domination of I-It, the reduction of all relation to instrumentality. Use I-It for what it is good for, but do not let it consume the space of I-Thou.
+Buber (I and Thou, 1923) says both modes are needed: "without It man cannot live. But he who lives with It alone is not a man" ([Aeon](https://aeon.co/essays/all-real-living-is-meeting-the-sacred-love-of-martin-buber); also in [Direction](https://directionjournal.org/49/1/in-beginning-is-relation-reconceiving.html)). He adds that "every Thou in our world must become an It", which is a slide-deck quotation of Buber (2004 edition, p. 21), so treat the wording as unchecked ([SlideServe summary](https://www.slideserve.com/devona/martin-buber)). If that is right, nobody can stay in I-Thou, and the seed's advice not to try follows.
 
-(Buber, 1923/1970, I and Thou; Buber, 1965, The Knowledge of Man.)
+One commentator says Buber "refrains from a normative judgment" on I-It itself, calling it "necessary but insufficient" ([Academia paper](https://www.academia.edu/89005363/Tolerance_Empathy_or_Inclusion_Insights_from_Martin_Buber)). The seed's "domination of I-It" fits that reading, but I did not find the phrase in the sources I opened. Buber (1965, The Knowledge of Man) was not opened.
 
-**Plain words** Don't try to live entirely in I-Thou — you'd starve. The I-It relation (everything instrumental, functional, technical) is necessary for science and ordinary life. The disease is its domination: when no relation is left that isn't instrumental. Use the tool for tool-things; don't let it eat the meeting.
+The psychology parallel is loose. Clark and Mills (1993) describe communal relationships, where benefits are given "in response to a need" without expectation of repayment, and exchange relationships, where comparable benefits are expected in return ([Work and Family Researchers Network](https://wfrn.org/glossary/communal-relationships/); [Clark and Mills 1993 abstract](https://journals.sagepub.com/doi/10.1177/0146167293196003)). Their paper gives a nanny whose paid, exchange-based role supports a one-sided communal bond with the child. That shows the two can sit together. Buber's I-It is a way of perceiving, not a payment norm.
 
-*For example:* A doctor runs perfectly instrumentally — tests, protocols, throughput — and still, for thirty seconds, looks up and asks the human question. The I-It does the medicine; the I-Thou does the healing.
+**Plain words** You need the practical, instrumental way of dealing with the world. It lets you run tests, fix machines and manage a schedule. Trouble starts only when it is the only way you relate. Buber held that both are necessary and neither is enough alone.
+
+*For example:* This is an imagined case. A clinician follows every protocol, which is I-It at work, and then for half a minute asks how the patient is coping and listens to the answer.
+
+## Sources
+
+- [Aeon, All real living is meeting](https://aeon.co/essays/all-real-living-is-meeting-the-sacred-love-of-martin-buber)
+- [Direction Journal, In the Beginning Is Relation](https://directionjournal.org/49/1/in-beginning-is-relation-reconceiving.html)
+- [Tolerance, Empathy, or Inclusion? Insights from Buber](https://www.academia.edu/89005363/Tolerance_Empathy_or_Inclusion_Insights_from_Martin_Buber)
+- [Clark and Mills 1993 abstract](https://journals.sagepub.com/doi/10.1177/0146167293196003); [WFRN glossary](https://wfrn.org/glossary/communal-relationships/)
+- Buber (1923/1970, 1965), Horkheimer and Adorno: cited on the page, not read directly.
+
 ## Psychology parallels
 
 - **Instrumental vs. communal relationships** (Clark and Mills, 1993)

@@ -84,3 +84,7 @@
 ## R097 — Practise the ethical demand
 - Opened (excerpts): NDPR review of Løgstrup books, SDU Løgstrup paper, JSTOR description of The Ethical Demand, White Rose Løgstrup paper, PMC article quoting Batson 2011 (four motives). Levinas 1961, Løgstrup 1997 not read directly.
 - Seed "immediate, non-negotiable, independent of consequences": tempered — Løgstrup's demand is silent (no rule), requires judging what serves the other, and is unfulfillable. Batson 'moral obligation' ~ principlism: loose parallel.
+
+## R098 — Practise the I-It relation without abandoning it
+- Opened (excerpts): Aeon Buber essay, Direction journal, Academia Buber paper, SlideServe summary (Buber 2004 p.21 quote, low reliability, flagged), Clark & Mills 1993 abstract (SAGE), WFRN glossary. Buber 1923/1965, Horkheimer & Adorno unread.
+- Seed "domination of I-It" phrase not found; consistent with "necessary but insufficient". Clark & Mills parallel loose (payment/need norms vs. mode of perception).
