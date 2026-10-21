@@ -30,3 +30,5 @@
 - Opened (search excerpts): Lyubomirsky, Sheldon & Schkade 2005 (author PDF); Wiley handbook chapter summary; Oxford chapter (Layous & Lyubomirsky) describing the 10-week kindness trial. The original Sheldon et al. trial paper not opened (sources disagree on year 2012/2013, so no year given). Evidence is from the model authors; "keep the function" rule is the compendium's and untested. Wikilink to Savoring preserved.
 ## PP076 — eat for function
 - Opened (search excerpts): Firth 2019 abstract; SMILES abstract (PubMed/BMC Med); Jacka reply (PubMed 30591059); Think Through Nutrition (secondary, fish oil). Seed's Sarris 2015, Lopresti 2013 not opened; "patterns beat nutrients" unconfirmed. Takeaway anecdote dropped.
+## PP077 — limit alcohol and substance use
+- Opened (search excerpts): Koob & Volkow 2016 abstract; Alcohol and sleep I (PubMed); controlled-drinking vs abstinence review (Wiley, authors/journal not seen); PMC8858850. Seed's "abstinence may be the only workable option" is contradicted by the review: flagged and rephrased. Grant 2015 not opened. No source found for relationship/cognition costs. Anecdote dropped.
