@@ -57,7 +57,8 @@
   "Organizational research",
   "Orthogonal Cultural Identification Theory",
   "Participation",
-  "Perfectionism research"
+  "Perfectionism research",
+  "Person-role fit research"
  ],
  "in_progress": null,
  "flagged": {
@@ -96,11 +97,12 @@
   "Organizational research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = Wiley Kristof-Brown 2005 abstract; quote verbatim; Deci-Ryan 2000 autonomy side kept as seed line, carrier not opened this session (SDT PDFs 403 from sandbox); survey-label concept",
   "Orthogonal Cultural Identification Theory": "fast-track done at theory standard (2026-10-21, worker-pxy2-w1ab): carrier opened = PubMed PMID 2101397 abstract; quotes verbatim; theory elements present (definition quote, form, findings, example)",
   "Participation": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = SEP Marcel; all quotes verified verbatim; Marcel books themselves not independently openable (403-type), passages carried via SEP as in R090",
-  "Perfectionism research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = PubMed 2027080 + 29283599; all quotes verbatim; survey-label concept over the Hewitt-Flett line"
+  "Perfectionism research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carriers opened = PubMed 2027080 + 29283599; all quotes verbatim; survey-label concept over the Hewitt-Flett line",
+  "Person-role fit research": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): carrier opened = author-hosted DeRue & Morgeson 2007 PDF; quotes verbatim; seed had no explicit citation - primary source identified and linked"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:33:45+00:00",
+ "updated": "2026-10-21T14:34:22+00:00",
  "band_done": false,
  "new_concepts": [
   {
