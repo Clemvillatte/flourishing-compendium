@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
 
-Dignity, in Kant's Groundwork, is the worth that admits no equivalent: what is above all price and cannot be replaced by something else. Morality, and humanity as capable of it, is that which alone has dignity ([Kant, Groundwork, Abbott translation, Gutenberg #5682](https://www.gutenberg.org/ebooks/5682)).
+Dignity, in Kant's Groundwork, is the worth that is above all value and admits no equivalent: what cannot be replaced by something else ([Kant, Groundwork, Abbott translation, Gutenberg #5682](https://www.gutenberg.org/ebooks/5682)). Morality, and humanity as capable of it, is that which alone has dignity ([Kant, Groundwork, Abbott translation](https://www.gutenberg.org/ebooks/5682)).
 
 > "In the kingdom of ends everything has either value or dignity. Whatever has a value can be replaced by something else which is equivalent; whatever, on the other hand, is above all value, and therefore admits of no equivalent, has a dignity." — [Kant, Groundwork, Abbott translation](https://www.gutenberg.org/ebooks/5682)
 
