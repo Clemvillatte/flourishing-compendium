@@ -1,0 +1,2 @@
+## SO072 — cultural formulation in clinical practice
+- Opened (search excerpts): Lewis-Fernández DSM-5 Handbook appendix; WCP chapter; APA CFI form; BJPsych field trial abstract; Focus intro; Update on the CFI (14-item trial version). Seed "ten questions" corrected to 16. Seed's "it is the clinical instrument of principles 22 and 64" and the "spirits, curse" anecdote dropped. Aggarwal 2015/2016, Sue 2009, Hook 2013 not opened. No outcome evidence found.
