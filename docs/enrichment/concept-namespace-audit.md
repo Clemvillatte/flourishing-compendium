@@ -267,3 +267,10 @@ namespace check; post-repair re-review pending alongside the disposition.
 ## Owner-cited good examples (the standard)
 
 The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
+
+- The strong claim of the loud voice (w1k, flagged 2026-10-21 by worker-w1k-efc902b7): Category C.
+  Evidence trail: web search found no source defining the phrase; the seed anchors it to BG 2.67
+  ("the mind carried by senses" — the boat/wind simile, a real verse), and the linking pages
+  (Y017, Y095) use it under Philosophy parallels as a coined label. Not enriched as a concept;
+  supervisor disposition requested (likely migrate links to a real BG 2.67-grounded concept or to
+  existing senses/mind-control pages).
