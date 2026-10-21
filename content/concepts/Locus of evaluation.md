@@ -7,23 +7,23 @@ file: "Locus of evaluation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-Locus of evaluation is Carl Rogers's term for where a person's judgments of worth and value come from: "the source you rely on to judge your worth, make decisions, and evaluate your experiences - whether this source is internal (within yourself) or external (from others or outside standards)" ([TherapyRoute, locus of evaluation](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute)). Rogers introduced it in his account of how clients change in therapy, On Becoming a Person (1961), where the shift he watches for is a "shift in the locus of evaluation from outside to inside the self" ([Rogers 1961, quoted in summary PDF](https://gergostich.com/wp-content/uploads/2021/04/On-Becoming-a-Person-Summary.pdf)).
+Locus of evaluation is Carl Rogers's term for where a person's judgments and decisions come from. In On Becoming a Person (1961) he describes the shift he watches for as clients change:
 
-### What Rogers says about it
+> "Another trend which is evident in this process of becoming a person relates to the source or locus of choices and decisions, or evaluative judgments. The individual increasingly comes to feel that this locus of evaluation lies within himself." ([Rogers, On Becoming a Person, Houghton Mifflin 1961, pp. 119-120, scan PDF](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf))
 
-The sentence Rogers puts at the center of the helping relationship: "The more I can keep a relationship free of judgment and evaluation, the more this will permit the other person to reach the point where he recognizes that the locus of evaluation, the center of responsibility, lies within himself" ([Rogers 1961, quoted in summary PDF](https://gergostich.com/wp-content/uploads/2021/04/On-Becoming-a-Person-Summary.pdf)). The same passage carries the consequence: "The meaning and value of his experience is in the last analysis something which is up to him, and no amount of external judgment can alter this" ([same source](https://gergostich.com/wp-content/uploads/2021/04/On-Becoming-a-Person-Summary.pdf)). An external locus is learned, fed by conditions of worth acquired from others; an internal locus trusts the person's own experience ([TherapyRoute](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute)).
+Rogers goes on: less and less does the person look to others for approval or disapproval, for standards to live by, for decisions and choices, and the question that starts to matter is "Am I living in a way which is deeply satisfying to me, and which truly expresses me?" ([same text](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf)). An external locus, in this vocabulary, is reliance on others' opinions and outside standards; an internal locus is trust in one's own experience ([TherapyRoute](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute)).
 
 ### In the compendium
 
-- [[D096 — Don't let the outer displace the inner]] cites this concept as its psychology parallel for keeping self-judgment at home.
+- [[D096 — Don't let the outer displace the inner]] lists this concept as its psychology parallel: the Daodejing's outer displacing the inner and Rogers's external locus name a similar displacement from two traditions.
 
 ## Related concepts
 
-- [[Locus of control]] — Rotter's expectancy concept; a neighboring term about perceived control of outcomes, often confused with Rogers's locus of evaluation
+- [[Locus of control]] — Rotter's concept about perceived control of outcomes; a neighboring term
 - [[Deconditioning of learned self-concepts]] — dropping the introjected standards an external locus runs on
 
 ## Sources
 
-- [TherapyRoute, "Locus of Evaluation"](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute) — definition and internal/external contrast in Rogers's person-centred vocabulary
-- [Carl Rogers, On Becoming a Person (1961), passages quoted in summary PDF](https://gergostich.com/wp-content/uploads/2021/04/On-Becoming-a-Person-Summary.pdf) — verbatim Rogers quotations on the locus of evaluation
+- [Carl Rogers, On Becoming a Person: A Therapist's View of Psychotherapy (Houghton Mifflin, 1961), chapter scan PDF](https://psy-akademie.at/fileadmin/Media/WPA/Ausbildungen/PSYCHOTHERAPEUTISCHES_PROPAEDEUTIKUM_A-PP/Unterlagen/A.2/Carl_Rogers_On_Becoming_a_Person_Chapter_1_this_is_me.pdf) — the internal locus of evaluation passage, pp. 119-120
+- [TherapyRoute, "Locus of Evaluation"](https://www.therapyroute.com/article/locus-of-evaluation-by-therapyroute) — the internal/external contrast in Rogers's person-centred vocabulary
 - Rogers, 1961
