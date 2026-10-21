@@ -12,11 +12,17 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 63** — Treat migration and acculturation as a designable process
 
-Treat migration and acculturation — the process of adapting to a new cultural context — as a designable process, not a natural disaster. John Berry's model (1997) distinguishes four strategies: integration (maintaining the heritage culture while adopting the host culture), assimilation (abandoning the heritage culture), separation (maintaining the heritage culture without adopting the host culture), and marginalization (abandoning both). Integration predicts the best outcomes; marginalization the worst.
+Berry's model asks immigrants two questions: whether to maintain the heritage culture, and whether to interact with the wider society. The answers name four strategies — assimilation, separation, integration, marginalization — and he stresses the choice is real only where the receiving society allows it. ([Berry 2001, p. 619](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf))
 
-**Plain words** Migration and acculturation are designable processes, not natural disasters — Berry's model: integrate (keep heritage, adopt the new), assimilate, separate, marginalise. Integration — both — consistently does best. You can steer this; many people don't know it's steerable.
+> "When there is an interest in both maintaining one's original culture and engaging in daily interactions with other groups, integration is the option... Finally, when there is little possibility or interest in cultural maintenance (often for reasons of enforced cultural loss) and little interest in having relations with others (often for reasons of exclusion or discrimination), then marginalization is defined."
 
-*For example:* The family that keeps the language, the food, and the festivals while adopting the new country's civic life — kids in both worlds, fluent in both. That's integration, and it's the healthiest build on the menu.
+(Berry, 2001, p. 619, via [open PDF](https://utopia.duth.gr/xsakonid/index_htm_files/1_5_2015_Sapountzis_Berry_paper.pdf).)
+
+In the immigrant-youth samples he reviews, integration came with the better adaptations: "bicultural identities and integrationist attitudes predicted better psychological adaptation and school adjustment, with separated and marginalized identities being associated with least favorable outcomes" (p. 627). The compendium's "designable process" framing is its own gloss; Berry's assumption of free choice "is not always the case" when the receiving society constrains it (p. 619).
+
+**Plain words** Two questions name the four strategies: keep your heritage culture, and join the wider society? Yes to both is integration; no to both is marginalization. In Berry's samples integration went with the best adaptation, marginalization with the worst. Whether a family can steer this depends partly on the receiving society.
+
+*For example:* Imagined: a family keeps their language and festivals while joining the new country's civic life, and their children grow up fluent in both worlds.
 ## Psychology parallels
 
 - [[Berry|Berry]] (1997, 2005) on acculturation; Sam and Berry (2010) on acculturation and well-being; Virta et al. (2004) on identity and acculturation; the immigration paradox (Marks et al., 2014); the segmented-assimilation literature (Portes and Zhou, 1993).
