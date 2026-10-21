@@ -7,7 +7,7 @@ file: "Neuroaesthetics"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Neuroaesthetics studies what happens in the brain when people have aesthetic experiences, the appraisals they make of art, objects and surroundings. A 2014 review by Anjan Chatterjee and Oshin Vartanian in Trends in Cognitive Sciences states the field's scope:
+Neuroaesthetics studies what happens in the brain when people have aesthetic experiences, the appraisals they make of art, objects and surroundings. The field asks which neural systems are active when something is found beautiful or moving, and how far those systems overlap with the ones behind ordinary perception and emotion. A 2014 review by Anjan Chatterjee and Oshin Vartanian in Trends in Cognitive Sciences states the field's scope:
 
 > "Neuroaesthetics is an emerging discipline within cognitive neuroscience that is concerned with understanding the biological bases of aesthetic experiences." (Chatterjee & Vartanian 2014, [abstract](https://pubmed.ncbi.nlm.nih.gov/24768244/))
 
@@ -20,6 +20,14 @@ The evidence the authors review shows that "aesthetic experiences emerge from th
 ### In the compendium
 
 - [[PP057 — Pursue aesthetic experience]] lists this field as a psychology parallel.
+
+## Related concepts
+
+- [[Consummatory experience]] — the savoring side of the aesthetic encounter
+- [[Disinterested aesthetic pleasure]] — the Kantian account of aesthetic appraisal the field studies
+- [[The aesthetic]] — the philosophical root of the field's subject
+- [[The self dissolving in aesthetic contemplation]] — the contemplative phenomenology next to the neural account
+- [[K328 — Aesthetic attention]] — the attentional practice aimed at aesthetic experience
 
 ## Sources
 

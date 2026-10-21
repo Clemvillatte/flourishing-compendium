@@ -25,9 +25,17 @@ The entry adds a caution: the assumption that the world is maximally simple is i
 
 - [[D165 — Cut complexity back to simplicity]] lists this concept as a philosophy parallel.
 
+## Related concepts
+
+- [[Parsimony]] — the methodological virtue the razor turns into a rule for choosing between theories
+- [[Simplicity]] — the broader value the razor applies to theory choice
+- [[Simplicity as practice]] — the razor as a daily practice of cutting commitments
+- [[Deliberate simplicity]] — the lifestyle cousin: fewer possessions, fewer assumptions
+- [[Inference to the best explanation]] — the abduction the razor constrains: prefer the simpler adequate explanation
+
 ## Sources
 
-- [William of Ockham, Internet Encyclopedia of Philosophy, by Sharon Kaye, section 2 ("The Razor")](https://iep.utm.edu/ockham/) — the definition, the attribution history, Ockham's own formulation, and the biographical dates, quoted and paraphrased
+- [William of Ockham, Internet Encyclopedia of Philosophy, by Sharon Kaye](https://iep.utm.edu/ockham/) — the definition, the attribution history and Ockham's own formulation (section 2, "The Razor"), and the biographical dates (the entry's life discussion), quoted and paraphrased
 
 ## Cited in philosophy parallels
 

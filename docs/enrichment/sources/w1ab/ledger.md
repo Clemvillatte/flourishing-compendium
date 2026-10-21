@@ -650,3 +650,23 @@
 - Post-repair validation: --fast-track --base 4b2bebc4f: 4 checked, 0 failures; front-matter
   and all original wikilinks preserved (D165, B160, PP057, PP077).
 - Status: repairs pending advisor re-verification (round 2).
+
+## MILESTONE QC items 16-19 round 2 (advisor: 2 PASS / 2 FAIL -> repairs applied; normal-track upgrade) — 2026-10-21, worker-pxy1u
+- Round 2 verdicts: Ockham's razor PASS (citation fix only), Neuroaesthetics PASS, Obedience
+  research FAIL (two bounded claims), Neurobiology of addiction FAIL (missing plain-language
+  synthesis). Degree check (advisor request): Ockham's razor deg 1, Obedience research deg 3,
+  Neuroaesthetics deg 2, Neurobiology of addiction deg 1 — all fast-track-eligible, but as
+  live QC-correction items they were upgraded to NORMAL track per PROTOCOL §1a.
+- Repairs: Obedience research — 'a line that began with' replaced with a bounded publication
+  statement; the shock-procedure sentence removed entirely; Sources line now carries the
+  biographical-data attribution split (section 2 vs the entry's life discussion). Neurobiology
+  of addiction — opening rewritten as a direct definition; unquoted plain-language synthesis
+  of the three stages added (grounded in the abstract's 'involve' claims only, no treatment
+  claims); 'the framework the review is known for' replaced.
+- Normal-track upgrade on all four: ## Related concepts sections added (5 links each, all
+  targets verified to exist via title search; 'Obedience theory Milgram' is a garbled-title
+  near-duplicate OUTSIDE the w1ab manifest — flagged for supervisor disposition, linked, not
+  edited); 20 reciprocal proposals written to docs/enrichment/proposals/w1ab.json.
+- Post-repair validation (NORMAL track, no fast-track flag): 4 checked, 0 failures; prose
+  150+ words each; front-matter and all original wikilinks preserved (D165, B160, PP057,
+  PP077). Status: round-3 re-verification submitted to the advisor.
