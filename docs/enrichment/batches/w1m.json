@@ -27,9 +27,10 @@
   "Action Assembly Theory",
   "Action Identification Theory",
   "Activity theory",
-  "Ahimsa"
+  "Ahimsa",
+  "Allostasis theory"
  ],
- "in_progress": "Allostasis theory",
+ "in_progress": null,
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
@@ -69,6 +70,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T13:40:37+00:00",
+ "updated": "2026-10-21T13:41:00+00:00",
  "band_done": false
 }
