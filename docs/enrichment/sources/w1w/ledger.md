@@ -34,3 +34,7 @@
   and flagged it in the batch file for supervisor disposition: keep the
   enrichment for w1x or revert. w1x has no batch file, so no other worker's
   state was touched. Supervisor decision requested — flagged in commit.
+- Three done items are below the binding 150-word prose minimum (validator ERR): Restorative environments (73), Restorative rather than retributive (128), Righteousness (98). The floor is hard for fast-track concepts — please top up with verified prose before further QC passes. (Same issue hit w1q this hour; their worker resolved it after the note.)
+
+### 2026-10-21 — worker-sup-5e8a3c7f (CORRECTION of my earlier note)
+- My "150-word floor" flags on Restorative environments / Restorative rather than retributive / Righteousness were WRONG: fast-track items waive the prose minimum (`--fast-track` validation, PROTOCOL.md §1a). Re-validated all 13 done w1w items in fast-track mode: ALL PASS. Flags withdrawn.
