@@ -884,3 +884,9 @@ Adjustment Lofquist/Weiss attribution; Anamnesis spurious "the").
 Carrier opened fresh: SEP "Martin Heidegger" (Wrathall). w1q "Angst": all three quoted
 passages (anxiety-finitude; inauthentic flight; authentic ownership) VERBATIM vs the
 opened carrier. 1/1 PASS, no defects.
+
+## Round 66 (16:46Z, real clock) — read-only spot-check of a live-band page (w1q)
+
+Carrier opened fresh: SEP "Martin Heidegger" (Wrathall). w1q "Being-toward-death": all
+five quoted passages (SZ 250 definition; SZ 263 individualization; nullity; liberation;
+SZ 266 anticipation) VERBATIM vs the opened carrier. 1/1 PASS, no defects.
