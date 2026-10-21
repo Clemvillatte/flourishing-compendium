@@ -24,9 +24,7 @@ The compendium's principle on creative behaviour is BE059.
 
 ## Sources
 
-- Arendt, The Human Condition
 
-- Bergson
 
 - [The Human Condition, text excerpt hosted at kortina.nyc](https://kortina.nyc/notes/the-human-condition/): supports the first verbatim quotation
 - [The Human Condition (2013), p. 139 excerpt at onwork.edu.au](https://onwork.edu.au/bibitem/2013-Arendt,Hannah-The+Human+Condition-excerpt+p.139/): supports the second verbatim quotation

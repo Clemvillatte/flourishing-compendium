@@ -25,7 +25,6 @@ The compendium's principle on narcissistic patterns is SE070.
 
 ## Sources
 
-- Greek tragedy
 - [Aristotle, Rhetoric 2.2, trans. W. Rhys Roberts (1954), hosted at kairos.technorhetoric.net](https://kairos.technorhetoric.net/stasis/2017/honeycutt/aristotle/rhet2-2.html): supports the insolence definition, opened and verified
 - [Britannica, hubris](https://www.britannica.com/topic/hubris): supports the tragedy examples and the tragic-flaw framing
 - [Wikipedia, Hubris](https://en.wikipedia.org/wiki/Hubris): supports the Arachne example and the modern-usage definition

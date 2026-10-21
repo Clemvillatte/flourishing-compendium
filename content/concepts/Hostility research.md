@@ -26,7 +26,6 @@ The compendium's principle on meeting ill will with warmth is B080.
 
 ## Sources
 
-- Williams
 - [Chida, Y. and Steptoe, A. (2009). The Association of Anger and Hostility With Future Coronary Heart Disease: A Meta-Analytic Review of Prospective Evidence. Journal of the American College of Cardiology 53(11)](https://www.jacc.org/doi/10.1016/j.jacc.2008.11.044): supports the hazard-ratio quotation and summary
 - [American College of Cardiology press release on the meta-analysis](https://www.acc.org/about-acc/press-releases/2010/02/22/13/35/9-2): supports the behavioral-covariate caveat
 

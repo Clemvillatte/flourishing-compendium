@@ -34,9 +34,6 @@ The compendium's principle on identity foreclosure is SE037.
 
 ## Sources
 
-- commitment without exploration
-- Marcia, 1966
-- Kroger, 2007
 - [Marcia, J. E. (1966). Development and Validation of Ego-Identity Status. Journal of Personality and Social Psychology 3(5), 551-558](https://archive.org/download/marcia1966/marcia1966.pdf): supports all three verbatim quotations, opened and verified
 
 ## Cited in psychology parallels
