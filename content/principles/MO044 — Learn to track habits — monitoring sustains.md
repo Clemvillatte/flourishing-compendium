@@ -18,7 +18,7 @@ The review recommends self-monitoring to help identify cues and responses. It no
 
 **Plain words** A habit runs on cues you mostly never notice. A one-week diary of the snack, the time, the place, what came just before and who was there turns the invisible machinery into a list you can read. Once you can see the cue, you can consider giving it a different job.
 
-*For example:* The Verhoeven snacking diary above: seven days of recording what, when, where, after what, and with whom, and the diary group subsequently reported less unhealthy snacking than the no-diary group.
+*For example:* The Verhoeven snacking diary above: seven days of recording what, when, where, after what, and with whom, and the diary group subsequently reported less unhealthy snacking than the no-diary group ([Gardner et al., 2021, p. 14](https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf)).
 
 ## Sources
 
