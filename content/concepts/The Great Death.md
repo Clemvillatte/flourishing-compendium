@@ -11,6 +11,10 @@ The Great Death — in the Rinzai Zen of the Japanese master Hakuin Ekaku, an ex
 
 The phrase does not refer to physical dying. In the account of Hakuin's curriculum used here, the great death belongs to a staged training: it follows the arising of faith and insight, and it is not the end of the path.
 
+### Origin
+
+The great death belongs to the Zen curriculum of the Japanese master Hakuin Ekaku: the opened chapter describes daishi as what Hakuin calls the experience. The fetched passage does not state Hakuin's dates or the chapter's author, so none are asserted here.
+
 ### Core claims
 
 The account describes where the great death sits in the curriculum:

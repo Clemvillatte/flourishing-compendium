@@ -11,6 +11,10 @@ The body-mind unity in pain — in Montaigne's essays, the suffering of pain is 
 
 The concept names a view Montaigne argues for in his essays: the mind's attitude toward health and disease is part of what makes them supportable or insupportable.
 
+### Origin
+
+The view comes from Montaigne's Essays; the passages quoted below are from the Project Gutenberg edition of the Essays (vol. 18), from Montaigne's reflections on his own attitude to health and disease. The fetched text does not identify the essay-level locators or the translator, so none are asserted here.
+
 ### Core claims
 
 In the Essays, discussing his own attitude to health and disease, Montaigne writes:
