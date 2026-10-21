@@ -57,7 +57,8 @@
   "Anamnesis",
   "Amor dei intellectualis",
   "Blessedness",
-  "Communitarianism"
+  "Communitarianism",
+  "Boredom"
  ],
  "in_progress": null,
  "flagged": {
@@ -109,10 +110,11 @@
   "Anamnesis": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Plato Meno/Phaedo 73a-b anamnesis material quoted verbatim via opened SEP Plato article (Kraut); Meno slave boy described from the SEP's summary; validated --fast-track",
   "Amor dei intellectualis": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's quote 'Blessedness is virtue itself, not its reward' NOT found in the cited SEP Spinoza article (checked) — replaced with verbatim SEP quotes on third-kind knowledge, intellectual love, and Maimonides cue; owner may wish to restore the Ethics VP42 line from an opened primary carrier",
   "Blessedness": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's 'blessedness is virtue itself, not its reward' quote NOT found in cited SEP Spinoza article (checked; cf. Amor dei flag) — replaced with verbatim SEP quotes on beatitudo; owner may wish to restore Ethics VP42 line from an opened primary carrier",
-  "Communitarianism": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): SEP Communitarianism (Bell) definition + Rawls-reaction + Sandel/Taylor quotes verified verbatim from opened article; seed's MacIntyre After Virtue / Sandel Liberalism sources retained in spirit, now carried by opened SEP article; validated --fast-track"
+  "Communitarianism": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): SEP Communitarianism (Bell) definition + Rawls-reaction + Sandel/Taylor quotes verified verbatim from opened article; seed's MacIntyre After Virtue / Sandel Liberalism sources retained in spirit, now carried by opened SEP article; validated --fast-track",
+  "Boredom": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Eastwood 2012 definition and attentional account quoted via open PMC carriers quoting the paper (Elpidorou PMC4217586; PMC3842844); Eastwood 2012 original not directly opened; function-of-boredom material from Elpidorou PMC4217586; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:44:34+00:00",
+ "updated": "2026-10-21T16:45:27+00:00",
  "band_done": false
 }
