@@ -465,3 +465,18 @@
 - Related: Memory reconsolidation and Reconstructive memory exist (verified earlier);
   comparative clauses only.
 - QC cadence: item 13; next advisor milestone due at item 15.
+
+## Needs-based intervention sequencing (fast-track, degree 1, NAMESPACE HOLD) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 4b2bebc4f (seed line + Sources stubs + Cited-in Y126). Validated --fast-track
+  --base 4b2bebc4f: ok.
+- Carrier opened: NCBI efetch PubMed record — Sheldon & Elliot 1999, JPSP 76(3):482-97
+  (PMID 10101878, via esearch 'Sheldon goal striving need satisfaction'; several other
+  esearch phrasings returned nothing or unrelated papers — the classic was located via
+  its title words). The dual-role construct and the need-satisfaction mediation quoted
+  verbatim from the abstract.
+- TITLE: compendium coinage (Category C) — entry added to concept-namespace-audit.md
+  (rule-6 route: written for the Y126 sense, coinage stated on the page); held out of
+  done pending supervisor disposition. The seed's 'the series' maintenance kernels'
+  citation is preserved in Sources as the compendium's line; no kernel source was opened
+  (nothing about it claimed in the body).
+- QC cadence: item 14; next advisor milestone due at item 15 (NOT reached this session).

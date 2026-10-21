@@ -369,3 +369,9 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   situations) but does not establish a named "Mixed emotions theory Miyamoto". The bold
   seed sentence's broad East-Asian-vs-Western claim was removed from the page per advisor
   item-10 round; source-bounded WIP pushed; held out of done pending supervisor disposition.
+- Needs-based intervention sequencing (2026-10-21, worker-w1ab-2e9d1a4f, w1ab): compendium
+  coinage heading (rule-6 route: written for the Y126 sense, coinage stated on the page).
+  The opened source (Sheldon & Elliot 1999, PMID 10101878) grounds the self-concordance
+  content but does not define the heading as a named concept. Source-bounded WIP pushed;
+  held out of done pending supervisor disposition (cf. w1m's 'State-dependent intervention
+  matching' precedent).
