@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 22** — Practice gratitude as repayment of love
 
-Gratitude, in Spinoza's table, is the desire to do good to one who has done us good from love. It is an active affect, a form of strength, not a social nicety, and it is trained by noticing what has actually been given. Spinoza's reason is structural: the grateful person lives inside a web of acknowledged favors, which is both an accurate picture of reality (no one is self-made) and a position of power.
+In Spinoza's table of emotions, gratitude is a desire springing from love, not a social nicety: the effort to benefit someone who has benefited us out of love. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-(Ethics III, the definitions of Gratitude and Anger; the gratitude-vengeance pair.)
+> "XXXIV. Thankfulness or Gratitude is the desire or zeal springing from love, whereby we endeavour to benefit him, who with similar feelings of love has conferred a benefit on us."
 
-**Plain words** Gratitude is the desire to do good to one who has done us good from love — an active affect, a form of strength, not a nicety. Trained by noticing what has actually been given. The repayment of love keeps love in circulation.
+(Ethics III, Definitions of the Emotions XXXIV, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-*For example:* The person who keeps an actual ledger of what's been done for them — the mentor's hours, the friend's quiet rescue — and repays in kind, forward. The gratitude isn't polite; it's the mechanism by which the good stuff compounds.
+The definition places gratitude among the active affects: a desire that moves toward reciprocating love. The page's structural reading — the grateful person living inside a web of acknowledged favors — is the compendium's own application, not this passage's wording.
+
+**Plain words** Gratitude is wanting to benefit the person who benefited you out of love. It is desire, so it acts; it is love-sprung, so it aims at the giver. Noticing what has actually been given is what the repayment has to go on.
+
+*For example:* Imagined: someone keeps a mental ledger of the mentor's hours and the friend's quiet rescue, and repays them forward in kind.
 ## Psychology parallels
 
 - **[[Gratitude|Gratitude interventions]]**, modest but reliable effects on well-being (Wood et al., 2010)
