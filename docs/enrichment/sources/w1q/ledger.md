@@ -498,3 +498,16 @@ damage, w1ab left to its live holder.
   5b7cc956b (1 warn: 1 Related line, fast-track bar). QC-pending for the next
   milestone; supervisor note: this concept deserves a full pass on Otto/Leopold when
   carriers can be opened.
+
+## THE TRIPARTITE SOUL — 2026-10-21T16:06Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4 + second-seed parallels). Carrier: Project Gutenberg
+  #1497 (Plato, Republic, trans. Benjamin Jowett), raw text downloaded; four quotes
+  substring-verified: the Leontius passage (with honest ellipsis), "anger at times
+  goes to war with desire, as though they were two distinct things", the
+  struggle-of-factions passage ("his spirit is on the side of his reason"), and the
+  three-principles question + the same-three-principles sentence. The page notes the
+  companion heading "the divided soul" points to the same book (original second seed
+  folded into the opening sentence).
+- AT002/A056/A059/SE003 clauses kept to what those pages carry. Many-selves Related
+  link points to this session's enriched page. Validator ok against baseline 6fd6b2e6a
+  (1 warn: 1 Related line, fast-track bar). QC-pending for the next milestone.
