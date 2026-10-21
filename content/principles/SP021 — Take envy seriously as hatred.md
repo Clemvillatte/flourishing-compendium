@@ -18,7 +18,7 @@ In the Definitions of the Emotions at the end of Ethics III, Spinoza defines env
 
 (Ethics III, Definitions of the Emotions XXIII, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-The definition names two signs: pain at another's good and pleasure at their evil.
+The definition names two signs: pain at another's good and pleasure at their evil. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 **Plain words** Try a two-part check: how did you react when another person succeeded, and how did you react when they suffered a setback? Feeling hurt by their success and pleased by their misfortune is the combination described in Spinoza's definition.
 

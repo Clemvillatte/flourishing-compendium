@@ -13,7 +13,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 > **Principle 28** — See decisions as victories of the strongest appetite
 
 In the scholium to Ethics III, Prop. II, Spinoza argues that a mental decision and a bodily appetite are one and the same thing, called "decision" under the attribute of thought and a "conditioned state" under extension. He also explains why decisions feel free: people are conscious of their actions and unconscious of their causes. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
-> "It is plain that the dictates of the mind are but another name for the appetites, and therefore vary according to the varying state of the body... All these considerations clearly show that a mental decision and a bodily appetite, or determined state, are simultaneous, or rather are one and the same thing, which we call decision, when it is regarded under and explained through the attribute of thought, and a conditioned state, when it is regarded under the attribute of extension, and deduced from the laws of motion and rest."
+> "All these considerations clearly show that a mental decision and a bodily appetite, or determined state, are simultaneous, or rather are one and the same thing, which we call decision, when it is regarded under and explained through the attribute of thought, and a conditioned state, when it is regarded under the attribute of extension, and deduced from the laws of motion and rest."
 
 (Ethics III, Prop. II, Scholium, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 

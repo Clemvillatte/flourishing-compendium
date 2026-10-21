@@ -18,9 +18,9 @@ In the note to Ethics IV, Prop. XLIV, Spinoza argues that avarice, ambition and 
 
 (Ethics IV, Prop. XLIV, Note, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-Spinoza compares people absorbed in love, money or glory. His concern here is what happens when one object occupies the mind so completely that others disappear from attention. As a reflection exercise, ask whether you can still turn your attention to things outside a particular pursuit.
+Spinoza compares people absorbed in love, money or glory. His concern here is what happens when one object occupies the mind so completely that others disappear from attention. As a reflection exercise, ask whether you can still turn your attention to things outside a particular pursuit. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-**Plain words** Spinoza's test is fixation: one object takes the whole mind. The lover and the miser both count; we just laugh at one and hate the other instead of calling them mad. Ask of any pursuit whether other things can still get your attention.
+**Plain words** Think of a pursuit that has been filling your day. What has it pushed out of view? Use that question to reflect on Spinoza's description of absorption, not to decide whether someone is mentally ill.
 
 *For example:* Imagined: a comfort purchase becomes the whole evening — the planning, the buying, the next purchase already forming — and other things have stopped getting attention.
 ## Psychology parallels

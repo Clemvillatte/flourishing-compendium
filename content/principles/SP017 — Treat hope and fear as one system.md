@@ -24,7 +24,7 @@ Spinoza defines the pair together at the end of Part III: hope is inconstant ple
 
 (Ethics IV, Prop. XLVII, same translation and source.)
 
-In the note, Spinoza connects greater guidance by reason with less dependence on hope and an effort to become free from fear.
+In the note, Spinoza connects greater guidance by reason with less dependence on hope and an effort to become free from fear. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
 **Plain words** While you await a result, the possibility of success may please you and the possibility of failure may hurt. Spinoza connects both responses to an outcome that remains uncertain. Their connection does not mean that their intensity must move together.
 
