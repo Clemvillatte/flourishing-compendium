@@ -12,15 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 76** — Learn to assess and monitor attention: track your capacity
 
-Attentional capacity fluctuates and can be tracked. Simple self-assessment (daily attention rating, distraction log, focus quality) provides feedback for adjustment and maintenance.
+Killingsworth and Gilbert built a way of sampling attention in real life: a smartphone app that asked 2,250 adults at random moments "Are you thinking about something other than what you're currently doing?" They report that "mind wandering occurred in 46.9% of the samples and in at least 30% of the samples taken during every activity except making love", and that "people were less happy when their minds were wandering than when they were not" (Killingsworth & Gilbert 2010, [Science](https://www.science.org/doi/10.1126/science.1192439), full text via [author copy](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf)).
 
-**Plain words** Attention can be tracked like any capacity: a daily one-number rating, a distraction tally, a note on your best hours. Two weeks of data outperforms any theory about your own focus — the logs don't flatter you.
+That shows drift can be sampled from moment to moment with one question. It does not show that keeping a log improves focus. The study cited here does not test a daily attention rating or a distraction log as an intervention, so the claim that tracking helps is the compendium's working practice and not a finding.
 
-*For example:* The person who "knows" they focus best at night keeps a two-week log and discovers it's actually 9-to-11 a.m. — every day. The self-report was off by twelve hours.
+**Plain words**
+Attention comes and goes, and you can get a rough picture of it by asking yourself at random moments whether your mind is on what you are doing. In that phone study, minds had wandered in nearly half of the samples. Try it for two weeks and see what your own answers say before you decide when and how you focus best.
+
+*For example:* Set three random alarms a day. When one goes off, note whether your mind was on the task (yes or no) and what you were doing. This is an imagined routine in the style of the Killingsworth and Gilbert sampling, and what it shows is for you to discover.
+
+## Sources
+
+- [Killingsworth, M. A. & Gilbert, D. T. (2010), A wandering mind is an unhappy mind, Science 330(6006), 932](https://www.science.org/doi/10.1126/science.1192439) — sampling question and 46.9% figure from the [author copy](https://pdodds.w3.uvm.edu/files/papers/others/2010/killingsworth2010a.pdf)
+
 ## Psychology parallels
 
-- **Self-monitoring improves attentional regulation**, tracking attention provides feedback for adjustment (Zimmerman, 2002; Mrazek et al., 2013)
-- **Calibration and feedback improve performance over time**, tracking decisions and outcomes improves calibration (Tetlock, 2005)
+- **Experience sampling of mind wandering**, minds wandered in 46.9% of random smartphone samples, and people reported being less happy when they did (Killingsworth & Gilbert, 2010)
 
 ## Philosophy parallels
 

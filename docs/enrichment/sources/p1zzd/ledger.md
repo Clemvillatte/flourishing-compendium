@@ -32,3 +32,11 @@
 - KEY FINDING: Brooks et al. 2016 (OBHDP 137:71-85), cited by the seed ("Brooks et al., 2016"), is RETRACTED (notice 2024: authors "no longer have confidence in the integrity of the data"). Removed from AT056 and flagged. Other pages citing it: BE063 (my band, handle there), and check any others by grep "Brooks" + ritual; also cites in content/principles/BE045, B166, M053 contain "Gino" matches but not the Brooks 2016 string -> not verified, flagged to supervisor in taskboard.
 - Seed Smith & Vela 2001 (context-dependent memory, unopened) and Hobson 2017 (other claim "rituals improve performance and reduce anxiety") replaced: Hobson 2017 actually found reduced ERN, no performance change, no change in self-reported affect.
 - Quotes verified verbatim: Wood & Neal; Lally (two); retraction sentence; Hobson "no evidence that the reduction in neural monitoring led to performance deficit (nor a performance improvement)".
+
+## AT066 — Learn to use technology deliberately
+- Opened: Orben & Przybylski 2019 (PubMed/Nature abstract); Godard & Holtzman 2024 JCMC (OUP, fetched). Quotes verified against fetched/search text: "negative but small, explaining at most 0.4% of the variation in well-being"; "Most ESs were negligible (|r| < .10)"; passive-use moderator sentence.
+- Removed unopened: Fogg 2003, Eyal 2014, Valkenburg et al. 2022 claim "intentional use associated with better well-being". Flagged on page that neither paper tests deliberate vs habitual use. One 2026 preprint-like SEM (842 adults, digital balance) seen in search but venue unverified -> not used. Example (e-ink reader) unsourced -> replaced with imagined routine.
+
+## AT076 — Learn to assess and monitor attention
+- Opened: Killingsworth & Gilbert 2010 Science (author-copy PDF text via search + Science abstract page + Harvard Gazette). Quotes verified: sampling question; 46.9% / 30% sentence; "less happy when their minds were wandering".
+- Removed unopened: Zimmerman 2002, Mrazek 2013, Tetlock 2005 (seed claims "self-monitoring improves attentional regulation", "calibration improves with tracking"). Page states no opened source tests logging as an intervention. Invented "9-to-11 a.m." example removed; imagined routine instead.
