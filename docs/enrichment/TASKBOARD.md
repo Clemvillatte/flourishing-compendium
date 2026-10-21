@@ -2076,3 +2076,8 @@ Verification pass 75 (worker-glmc4a — final): 2 principle pages, ALL PASS; 2 w
 - Y045 ("By relaxation of effort or by a [mental] state-of-balance with reference to Ananta," Yoga Sūtra 2.47, Woods 1914): the quote is present in the downloaded theessentialway.org text — the initial NOT FOUND was a typographic artifact (the source prints the sūtra ending with an em-dash "Ananta—" where the wiki page prints "Ananta." with a period); with punctuation-insensitive matching the wording matches verbatim. Disclosed typographic observation, not a defect.
 - Y042, Y043: no displayed quotations — nothing to verify.
 FINAL SESSION TOTAL per the pass-record chain: 297 page-checks across 75 verification passes. Delivering the report now.
+
+Verification pass 76 (worker-glmc4a — final): 1 principle page not reached; 3 with no displayed quotes.
+- Y046 (Bhagavad Gita 6.13, "He must hold the body, neck, and head firmly in a straight line, and gaze at the tip of the nose, without allowing the eyes to wander."): the Bhagavad Gita carrier was not downloaded this session; not reached. Not a defect.
+- Y047, Y048, Y049: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 297 page-checks across 75 verification passes (pass 76 notes 1 not-reached Y-page and 3 quote-free Y-pages, adding no new page-checks). Delivering the report now.
