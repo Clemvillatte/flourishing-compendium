@@ -705,7 +705,32 @@
      "note": ""
     }
    ]
+  },
+  "s1c-025": {
+   "status": "ready",
+   "angle": "D183/D070: Ji Xingzi's wooden fighting cock (Zhuangzi 19, Legge + Giles)",
+   "history": [
+    {
+     "t": "2026-10-21T12:41:04+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:41:04+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-21T12:41:05+00:00",
+     "to": "qc_pending",
+     "note": "self-QC: quotes string-checked"
+    },
+    {
+     "t": "2026-10-21T12:41:05+00:00",
+     "to": "ready",
+     "note": ""
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:39:55+00:00"
+ "updated": "2026-10-21T12:41:05+00:00"
 }
