@@ -47,10 +47,9 @@
   "Passive nihilism",
   "One-pointedness",
   "Overconfidence effects",
-  "Movement snacks",
-  "One koan"
+  "Movement snacks"
  ],
- "in_progress": null,
+ "in_progress": "One koan",
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)",
@@ -74,8 +73,8 @@
   "Mixed emotions theory Miyamoto": "Reopened for QC: advisor item-10 round: bold seed claim removed; opened record supports cultural variation in mixed emotions but not a named 'Mixed emotions theory Miyamoto'; namespace hold (entry in concept-namespace-audit.md)",
   "Needs-based intervention sequencing": "Category C compendium coinage (per concept-namespace-audit.md entry): source-bounded WIP pushed, held out of done pending supervisor disposition",
   "Movement snacks": "Label/alias hold (advisor items-11-15 round 1) RESTORED by worker-pxy1u after my taper-window error: title 'Movement snacks' vs the opened source's 'exercise snacks' (Jenkins et al. 2019) remains the supervisor's disposition; my content pass (Related section added, abstract quote re-verified verbatim, page body unchanged) stands and is documented in the ledger; 'done' marking remains pending supervisor review of the label",
-  "Noogenic neurosis": "carrier gap: PMID 14138376 (Crumbaugh & Maholick 1964) has no abstract in PubMed; seed source is Frankl's book The Will to Meaning \u2014 next worker needs a lawful book carrier or quoting review",
-  "One koan": "fast-track enriched (2026-10-21, worker-pxy2-w1ab): quote carriers opened = Wikipedia Koan + SEP Japanese Zen; Gateless Gate primary text carriers (sacred-texts, wikisource subpage, neocities, e-buddhism) all 403/blocked from this sandbox - Mu case verified via Wikipedia/SEP instead"
+  "Noogenic neurosis": "carrier gap: PMID 14138376 (Crumbaugh & Maholick 1964) has no abstract in PubMed; seed source is Frankl's book The Will to Meaning — next worker needs a lawful book carrier or quoting review",
+  "One koan": "IDENTITY/LABEL HOLD (advisor QC 2026-10-21, worker-pxy2-w1ab): 'One koan' may be a compendium label for the Rinzai assigned breakthrough-koan practice rather than a distinct named concept (Koan practice already exists). Page pushed as source-bounded WIP (quote carriers opened: SEP Japanese Zen sec.2 + Wikipedia Koan + Wikisource Gateless Gate index); held out of done pending supervisor disposition. Batch note correction: wikisource subpage/api returned 403/blocked; the wikisource INDEX page opened fine and supports Case 1 = Joshu's Dog (Senzaki/Reps)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
