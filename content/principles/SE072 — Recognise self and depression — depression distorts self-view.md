@@ -20,11 +20,11 @@ Its symptom list includes "Feeling worthless or excessively guilty."
 
 (APA, "What Is Depression?", [psychiatry.org](https://www.psychiatry.org/patients-families/depression/what-is-depression).)
 
-The compendium's reading: the negative self-view sits in the definition's territory — how you think and perceive — and in the symptom list it is filed alongside the sleep, energy and concentration changes, not apart from them as a verdict about the person.
+The APA lists feelings of worthlessness or excessive guilt among possible symptoms of depression. The compendium suggests examining self-critical thoughts alongside changes in mood and functioning, rather than treating the feeling itself as a settled judgment about a person.
 
-**Plain words** Notice the thought "worthless" arriving together with the other changes — sleep, energy, interest. That grouping is information: it is one of the symptoms, filed alongside the rest, not a conclusion about you reached by you.
+**Plain words** Write down the self-critical thought and what was happening when it appeared. Note accompanying changes in sleep, energy or interest. Separate the feeling from specific events you can describe.
 
-*For example:* Imagined: someone who "knows" she is a burden, with the evidence organised to prove it, receives effective treatment; three months later she cannot reconstruct the argument — the interpreter changed, not the evidence.
+*For example:* Imagined: someone brings notes to a clinical appointment listing the thought "I am a burden", recent sleep changes and loss of interest.
 
 ## Sources
 
@@ -43,4 +43,4 @@ The compendium's reading: the negative self-view sits in the definition's territ
 
 ## Practice
 
-- When depressed, recognise that your negative self-view is a symptom, not a truth. Treat the depression; the self-view will follow. Do not make major self-judgments while depressed.
+- Suggested practice: note self-critical thoughts and accompanying changes in mood, sleep, energy or interest. Discuss persistent or concerning patterns with a qualified health professional.
