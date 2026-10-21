@@ -43,7 +43,7 @@ A person awaiting a medical procedure often suffers more in the days before it t
 ## Sources
 
 - Montaigne
-- Montaigne, Essays
+- Montaigne, Essays — https://www.gutenberg.org/cache/epub/3598/pg3598.html (Book III, "Of Managing the Will"; Hazlitt translation)
 
 ## Cited in philosophy parallels
 
