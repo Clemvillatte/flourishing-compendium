@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 306** — Practise tautua
 
-Te Ara lists tautua (service) among the values that go with fa'asamoa, alongside alofa (love), fa'aaloalo (respect), feagaiga and usita'i. It says that in the aiga (family), "giving and receiving tautua (service), fa'aaloalo (respect) and alofa (love) are crucial in social relations" ([Te Ara, Samoans](https://teara.govt.nz/en/samoans/print)). A Samoan proverb ties service to authority: "O le ala i le pule o le tautua", "the way to authority is through service" ([Auckland thesis citing Fa'aea and Enari, 2021](https://researchspace.auckland.ac.nz/server/api/core/bitstreams/06c25b41-4fc6-4c57-bb0f-3f0d378ba61e/content)).
+Te Ara lists tautua (service) among the values that go with fa'asamoa, alongside alofa (love), fa'aaloalo (respect), feagaiga and usita'i. It describes the aiga (family) as the central element of Samoan culture, where giving and receiving tautua, fa'aaloalo and alofa shape social relations ([Te Ara, Samoans](https://teara.govt.nz/en/samoans/print)). A Samoan proverb ties service to authority: "O le ala i le pule o le tautua", "the way to authority is through service" ([Auckland thesis citing Fa'aea and Enari, 2021](https://researchspace.auckland.ac.nz/server/api/core/bitstreams/06c25b41-4fc6-4c57-bb0f-3f0d378ba61e/content)).
 
 (Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies.)
 
