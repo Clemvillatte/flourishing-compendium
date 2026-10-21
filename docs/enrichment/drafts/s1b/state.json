@@ -200,7 +200,27 @@
      "note": "supervisor registration ST368"
     }
    ]
+  },
+  "s1b-009": {
+   "status": "qc_pending",
+   "angle": "B192: MN 61 mirror dialogue — the Buddha teaches his son Rahula self-examination before, during and after action",
+   "history": [
+    {
+     "t": "2026-10-21T12:22:15+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:22:32+00:00",
+     "to": "qc_pending",
+     "note": "first draft complete; quotes verbatim-verified against opened MN 61 page; advisor QC requested"
+    }
+   ]
   }
  },
+<<<<<<< HEAD
  "updated": "2026-10-21T12:21:48+00:00"
 }
+=======
+ "updated": "2026-10-21T12:22:32+00:00"
+}
+>>>>>>> 6fb6f9d (s1b-009: MN 61 mirror dialogue story for B192 drafted; quotes verified against opened page; qc_pending)
