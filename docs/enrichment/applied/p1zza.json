@@ -1,6 +1,6 @@
 {
  "batch": "p1zza",
- "revision": 4,
+ "revision": 5,
  "reciprocal": [
   {
    "into": "Narrative redemption sequences",
@@ -18,7 +18,13 @@
    "into": "Habit formation",
    "link": "MO042",
    "why": "A principle on displacing an unwanted habit with a new response to the same cue",
-   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042's body grounds substitution in the opened Lally-Gardner manuscript (apple-dominance passage) and the Gardner et al. 2023 one-fixed-substitute requirement. Checked 2026-10-21 by worker-p1zza-7c2a91e4."
+   "notes": "The Habit formation concept page cites MO038/MO035 but not MO042; MO042's body grounds substitution in the opened Gardner et al. 2021 Appetite accepted manuscript (manifestation-vs-association distinction p. 8, substitution definition p. 13, apple-dominance mechanism p. 8). Checked 2026-10-21 by worker-p1zza-7c2a91e4."
+  },
+  {
+   "into": "Habit reversal theory Azrin",
+   "link": "MO042",
+   "why": "A principle on habit substitution, the process the Gardner et al. 2021 review also names habit reversal",
+   "notes": "The Azrin concept page (stub: awareness training + competing response) cites MO021/SP076/E014/P073 but not MO042; the Gardner et al. manuscript names 'habit reversal' as a synonym of habit substitution (p. 8). Checked 2026-10-21 by worker-p1zza-7c2a91e4."
   }
  ]
 }
