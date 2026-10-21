@@ -51,7 +51,7 @@ Imagine a promotion with a higher salary that requires weekend travel, when you 
 - [[K215 — Assertiveness and boundaries|K215 Assertiveness and boundaries]]
 ## Psychology parallels
 
-- **[[Authenticity|Authenticity]]**, acting against core values produces self-alienation and burnout (Kernis and Goldman, 2006)
+- **[[Authenticity|Authenticity]]** (Kernis and Goldman, 2006)
 - **[[Person-role fit research|Person-role fit research]]**
 
 ## Philosophy parallels

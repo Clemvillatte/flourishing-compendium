@@ -47,7 +47,7 @@ Listen to a short melodic phrase and notice what remains of the earlier notes as
 
 ## Psychology parallels
 
-- **[[Mindfulness|Mindfulness research]]**, present-moment attention reduces rumination (Hofmann et al., 2010)
+- **[[Mindfulness|Mindfulness research]]** (Hofmann et al., 2010)
 
 ## Philosophy parallels
 

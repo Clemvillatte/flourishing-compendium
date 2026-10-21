@@ -46,7 +46,7 @@ Imagine someone who valued a role they can no longer hold. The question the prin
 - [[ST123 — Louise Learns the Language|123. Louise Learns the Language]]
 ## Psychology parallels
 
-- **[[Future self-continuity|Future self-continuity]]**, feeling connected to your future self predicts better decisions (Hershfield, 2011)
+- **[[Future self-continuity|Future self-continuity]]** (Hershfield, 2011)
 
 ## Philosophy parallels
 
