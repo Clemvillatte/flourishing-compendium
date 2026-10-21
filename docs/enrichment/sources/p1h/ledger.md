@@ -1172,3 +1172,30 @@ open).
   half of whom were randomly-assigned"). The negative-bias claim is correctly
   withheld ("do not establish that this exercise changes negative attentional
   bias"). All components close.
+- **AT063 — Check your multitasking habits**: RESOLVED. The Ophir et al. 2009
+  blockquote ("Results showed that heavy media multitaskers are more
+  susceptible to interference from irrelevant environmental stimuli and from
+  irrelevant representations in memory.") verified VERBATIM against a fresh
+  fetch of the cited PMC2747164 record; the task-switching deficit and
+  association-not-causation scoping grounded in the same abstract. The
+  Wiradhany & Nieuwenstein 2017 replication paragraph verified against the
+  PubMed 28840547 abstract (14 tests, five significant in the predicted
+  direction, two holding in a more conservative Bayesian analysis; 39 effect
+  sizes, weak association turning nonsignificant after correction for
+  small-study effects; the authors' own questioning sentence). The page's
+  audit/self-test guesses are absent. All components close.
+- **AT067 — Manage your sound environment**: RESOLVED. The Szalma & Hancock
+  2011 blockquote ("Collective findings identified continuous versus
+  intermittent noise, noise type, and type of task as the major distinguishing
+  characteristics that moderated response.") verified VERBATIM against a fresh
+  fetch of the cited ERIC EJ930167 record; the 242-studies count confirmed in
+  the same record (797 effect sizes). The blanket-law claim is absent; the
+  application is scoped to task-suited comparisons. All components close.
+- **AT075 — Get an evaluation if attention problems persist**: RESOLVED. Both
+  quotations verified VERBATIM against fresh fetches of their cited carriers:
+  the NIMH ADHD definition sentence (nimh.nih.gov publication page) and the
+  Faraone et al. 2021 consensus sentence ("When made by a licensed clinician,
+  the diagnosis of ADHD is well-defined and valid at all ages...", PMC8328933).
+  The clinical scoping is honest (descriptions concern ADHD, not every
+  concentration problem; health-professional referral recommended). All
+  components close.
