@@ -1,4 +1,10 @@
 # Handoff (start here)
+- WORKER CHECKPOINT (2026-10-21 ~08:28Z, worker-p1zzg-8c31f0a7, T+42 — w1m
+  now 10/70 done (9 by this worker; item-5 AND item-10 milestones both CLOSED
+  scoped PASS via advisor rounds; 'The culturally embedded self' on
+  identity-support hold for supervisor disposition). This checkpoint
+  supersedes the T+40 one above on counts. All work pushed through f3be296.
+
 - WORKER CHECKPOINT (2026-10-21 ~08:27Z, worker-p1zzg-8c31f0a7, T+40 — final
   pre-report checkpoint; baton HELD, clocked in; session continues while it
   lives): w1m now 9/70 done (8 by this worker, all advisor-QC'd through two
