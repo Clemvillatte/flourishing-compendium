@@ -7,7 +7,7 @@ file: "Interdependent self-construal"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-I"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
-The compendium uses "Interdependent self-construal" for one of the two self-views distinguished by Hazel Rose Markus and Shinobu Kitayama. A definition from the research literature:
+Interdependent self-construal describes a view of the self as fundamentally connected to other people. Ingoglia and colleagues define it as follows:
 
 > "An interdependent self‐construal may be defined as a constellation of thoughts, feelings, and actions which represents the self as being fundamentally connected to other people (Markus & Kitayama, 1991, 1994)." (Ingoglia, Musso, Inguglia et al. 2021, [Journal of Community Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9015453/))
 
@@ -33,7 +33,7 @@ The same passage continues: "Persons with a highly developed interdependent self
 
 - Cross et al., 2011
 
-- [Ingoglia, S., Musso, P., Inguglia, C., et al. (2021), Aligning personal and collective interests in emerging adults during the COVID-19 emergency in Italy, Journal of Community Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9015453/): the interdependent self-construal definition; the relationships-as-integral passage (both quoting Markus & Kitayama 1991, 1994)
+- [Ingoglia, S., Musso, P., Inguglia, C., et al. (2021), Aligning personal and collective interests in emerging adults during the COVID-19 emergency in Italy, Journal of Community Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC9015453/): Ingoglia and colleagues' definition and literature summary, citing Markus and Kitayama and other authors
 
 ## Cited in psychology parallels
 

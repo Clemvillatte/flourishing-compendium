@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The compendium uses "Identity development" for the Eriksonian research tradition on how a coherent sense of self forms. The field's framing, from a decade review:
 
-> "One of the key developmental tasks in adolescence and young adulthood is to develop a coherent sense of self and identity (Erikson, 1968)." (Branje, de Moor, Spitzer and Becht 2021, abstract, [Journal of Research on Adolescence 31(4):908-927](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/))
+> "One of the key developmental tasks in adolescence and young adulthood is to develop a coherent sense of self and identity (Erikson, 1968)." (Branje, de Moor, Spitzer and Becht 2021, opening sentence of the main text, [Journal of Research on Adolescence 31(4):908-927](https://pmc.ncbi.nlm.nih.gov/articles/PMC9298910/))
 
 ### Maturation and stability
 
