@@ -478,9 +478,14 @@
      "t": "2026-10-21T11:32:52+00:00",
      "to": "qc_pending",
      "note": "item-5 advisor round due next per cadence"
+    },
+    {
+     "t": "2026-10-21T11:34:49+00:00",
+     "to": "qc_pending",
+     "note": "advisor round 1 repairs applied; final verification pending"
     }
    ]
   }
  },
- "updated": "2026-10-21T11:32:52+00:00"
+ "updated": "2026-10-21T11:34:49+00:00"
 }
