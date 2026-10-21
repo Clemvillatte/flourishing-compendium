@@ -1870,3 +1870,10 @@ Verification pass 42 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 
 - P076: the Dewey HNC Part II deliberation passage matches verbatim (the "..." correctly marks the omitted intervening sentences "It starts from... tried out.").
 - P077 (Juarrero Dynamics in Action p. 27): not verified this session (not reached — time; not a defect).
 FINAL SESSION TOTAL per the pass-record chain: 189 page-checks across 42 passes. Session ends; report follows.
+
+Verification pass 43 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- P078: the Dewey HNC p. 238 fixed-principle passage matches the freshly downloaded Gutenberg #41386 text verbatim.
+- P079: all three Dewey HNC part 3 sec. 6 quotes match verbatim.
+- P081: both Dewey Experience and Nature ch. 10 quotes match the freshly downloaded archive.org djvu text verbatim.
+- P082: both Zhuangzi ch. 3 cook quotes match the freshly downloaded tianmu.org page verbatim, and the Dewey HNC habit passage matches verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 193 page-checks across 43 passes. Session ends; report follows.
