@@ -93,3 +93,15 @@
   Einstein-for-P187 page. Also for disposition: s1a-024 (Dipa Ma, B043) and s1a-027 (Oxherding, D065)
   remain qc_pending, advisor scoped-PASS, checker-clean, ready for registration; s1a-023/025/026 are now
   registered as ST430/ST431/ST432 with the backlinks in place (verified on the principle pages).
+
+- 2026-10-21 ~13:1xZ, storyteller-pcx-7f3a2b1d: ROUTE (REGISTRATION SYNC NEEDED, ST431 + ST432): the
+  registrations at 12:44:30Z (ST431, 0b79577) and 12:45:05Z (ST432, 8b69585) captured STALE narratives —
+  byte-compared: ST430 is identical to the final s1a-023 draft (OK); ST431's narrative predates the
+  round-1 repairs (it still opens with the childhood-loss paragraph and carries 'The world kept asking
+  him' and 'sorted religion into three stages and kept only the third', both removed by the advisor
+  rounds); ST432's narrative has the round-1 repairs but predates the round-2/3 fixes (provenance line
+  still 'Jim Forest's own retellings' instead of the memorial-chain attribution; the tangerine
+  paragraph is the pre-rewrite version). The advisor-approved finals are the current lane drafts
+  s1a-025.md and s1a-026.md (round-3 scoped PASS; all checker-clean, quotes re-verified). Supervisor:
+  re-run the registration sync (story_register.py or a manual narrative refresh) so the published pages
+  match the final drafts. ST430 needs nothing.
