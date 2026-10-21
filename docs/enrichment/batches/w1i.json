@@ -57,7 +57,7 @@
   "Discipline of rest",
   "Divergent thinking tests"
  ],
- "in_progress": null,
+ "in_progress": "Evolutionary Psychology",
  "flagged": {
   "Non-dual awareness": "RESOLVED milestone-five QC: exact definition blockquote added, NDA expanded; source and preservation checks pass",
   "Focused-attention meditation": "RESOLVED milestone-five QC: sentence-case subheading added; source and preservation pass",
@@ -66,18 +66,18 @@
   "Social cognitive career theory": "RESOLVED milestone-ten QC: source accuracy and preservation pass; three introduced bold bullet-label delimiters removed",
   "Stress cycle completion (Nagorski, Sapolsky)": "Attribution/title caveat: opened source names Emily and Amelia Nagoski; legacy Sapolsky link not certified. Supervisor rename/reference proposal in w1i-proposals.md; protected identifiers unchanged.",
   "System justification theory": "RESOLVED by takeover session 2026-10-20: item completed with Jost, Banaji and Nosek 2004 as opened source; see w1i-notes.md session section. QC status: first-item advisor repairs applied, re-review pending.",
-  "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) \u2014 repair-presence check, not a fresh source audit",
+  "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) — repair-presence check, not a fresh source audit",
   "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md",
   "Anxiety about the future": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; TITLE-SCOPE HOLD retained (seed title vs possibility-framing body; supervisor disposition)",
   "Beneficial speech": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS",
   "Body schema": "milestone QC CLOSED 2026-10-21 (advisor round 3): substantive PASS; Vallar citation added to the first tools sentence; seed-baseline checks 4/4 ok",
-  "Benign versus malicious envy": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; NAMESPACE INTEGRATION PENDING (proposals from citing principles to the granulars; full relational-exposition rewrite) \u2014 not a namespace-complete claim; granulars recorded as source-backed pages with saturation/integration pending",
+  "Benign versus malicious envy": "milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; NAMESPACE INTEGRATION PENDING (proposals from citing principles to the granulars; full relational-exposition rewrite) — not a namespace-complete claim; granulars recorded as source-backed pages with saturation/integration pending",
   "Discipline of rest": "concept-status: compendium heading; the opened Rule passages describe rest regulated by rule, but the phrase itself was not verified as a source-defined term (QC round 2, worker-w1i-3a9d2f7e); supervisor disposition welcome",
   "Designing for virtue": "concept-status RESOLVED (QC round 2): grounded in Desmet & Pohlmeyer 2013 Positive Design Framework via opened Pohlmeyer & Desmet 2017; the seed's Aristotle attribution kept as a labeled parallel (the Politics passage does not name the concept)"
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T08:22:19+00:00",
+ "updated": "2026-10-21T08:27:35+00:00",
  "band_done": false,
  "new_concepts": [
   {
