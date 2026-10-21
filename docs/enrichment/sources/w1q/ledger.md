@@ -141,3 +141,13 @@ damage, w1ab left to its live holder.
   the page cites the article by title. An unopened-snippet gloss about
   "events outside the here-and-now" was removed. Advisor QC for this item falls at
   the next 5-item boundary (items 6-10) for the next worker/session.
+
+## ITEM: Symbolic Interaction Theory (theory page; degree 4) — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Carrier: Wikipedia "Symbolic interactionism" article, raw HTML fetched and OPENED;
+  Blumer's three premises verified verbatim by substring check against the tag-stripped
+  article HTML (citing Blumer 1969), plus the Mead-Blumer lineage sentences, "inner
+  conversation", "minding" and the "true founder" note. The page cites the article's
+  carrier attribution rather than naming an essay title the article does not give.
+- Related-concept targets resolved before writing ([[Looking-glass self]] does NOT exist;
+  replaced with [[Identity]] + grounded caption from the article's "selves are social
+  products" sentence). Advisor QC falls at the items-6-10 boundary (next session).
