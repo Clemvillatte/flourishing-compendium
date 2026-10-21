@@ -7,19 +7,19 @@ file: "The prior probability of the world"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The heading names the background frequencies of the world: what has usually happened, which any new claim has to be weighed against before it is believed. Hume gives the classical statement in the Enquiry's discussion of miracle testimony:
+In Section X, Part I of the [Enquiry](https://www.gutenberg.org/ebooks/9662), Hume describes degrees of evidence through the balance of past experiments and observations:
 
-> "All probability, then, supposes an opposition of experiments and observations, where the one side is found to overbalance the other, and to produce a degree of evidence, proportioned to the superiority. A hundred instances or experiments on one side, and fifty on another, afford a doubtful expectation of any event; though a hundred uniform experiments, with only one that is contradictory, reasonably beget a pretty strong degree of assurance." (Hume, Enquiry Concerning Human Understanding, X.1)
+> "All probability, then, supposes an opposition of experiments and observations, where the one side is found to overbalance the other, and to produce a degree of evidence, proportioned to the superiority. A hundred instances or experiments on one side, and fifty on another, afford a doubtful expectation of any event; though a hundred uniform experiments, with only one that is contradictory, reasonably beget a pretty strong degree of assurance." (Hume, Enquiry Concerning Human Understanding, X.1, [Project Gutenberg #9662](https://www.gutenberg.org/ebooks/9662))
 
-Hume adds that the expectation this tally produces is not owed to reason: custom, "the great guide of human life", is what "makes us expect, for the future, a similar train of events with those which have appeared in the past" (Enquiry V.1).
+Hume describes custom as making us expect future events to resemble past ones ([Enquiry](https://www.gutenberg.org/ebooks/9662)).
 
 ### In the compendium
 
-- [[CO020 — Know the base rate neglect — you ignore background frequencies]] — the documented failure the heading guards against: judging by stereotype match while the background frequencies go unweighed (Tversky & Kahneman, 1974)
-- [[SP018 — Calibrate confidence against evidence]] — confidence treated as what remains when cause of doubt is removed, on Spinoza's definitions
-- [[K001 — Return to experience before the labels]] — the frequencies reach a person through facts known "just as they are", before one's own fabrications
-- [[P189 — Live in an aleatory world: accept the gamble, cultivate method]] — the world the frequencies describe is Dewey's gamble: risk accepted as a condition, method cultivated in response
-- [[P190 — Existence is both precarious and stable]] — the same world counted as both hazardous and recurrent
+- [[CO020 — Know the base rate neglect — you ignore background frequencies]] — discusses base rate neglect
+- [[SP018 — Calibrate confidence against evidence]] — discusses calibrating confidence against evidence
+- [[K001 — Return to experience before the labels]] — discusses returning to experience before the labels
+- [[P189 — Live in an aleatory world: accept the gamble, cultivate method]] — discusses living in an aleatory world
+- [[P190 — Existence is both precarious and stable]] — discusses existence as both precarious and stable
 
 ## Related concepts
 
