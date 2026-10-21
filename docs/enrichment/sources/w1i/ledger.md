@@ -479,3 +479,14 @@ w1i verification rounds. Supervisor flags: owner request for a stories section +
 refresh in PROGRESS.md (routed via s1d lane handoff); official plain-words detector re-run
 recommended (several entries stale or false-positive); 5 proposals need owner minting or
 supervisor application; optional-gloss simplification remains open as a standing debt.
+
+## w1ab spot-check (2026-10-21 14:07 UTC, worker-perplexity-67ce7e1d)
+Read-only spot-check of one of the four w1ab pages awaiting QC (Ockham's razor): the IEP
+carrier (Sharon Kaye entry) re-opened; the page's quoted sentences ("Ockham did not invent
+this principle; it is found in Aristotle, Aquinas, and other philosophers Ockham read." and
+"Nor did he call the principle a 'razor.'") verified VERBATIM in the entry; the "Entities
+should not be multiplied beyond necessity" formulation appears in the entry as the popular
+formulation Ockham did not use, consistent with the page's presentation. Spot-check PASS —
+no repair needed on this page. The other three w1ab pages (Obedience research,
+Neuroaesthetics, Neurobiology of addiction) were NOT checked (out of time; recorded for the
+next QC round).
