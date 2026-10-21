@@ -22,3 +22,7 @@
 ## R036 — Practise aroha
 - Opened: Te Aka entry (excerpt), Stewart et al. 2021 (fetched earlier), PESA Agora column (excerpt), Underwood chapter (excerpt). Mead/Durie not read. Schopenhauer/Nussbaum parallels untouched/unopened.
 - Seed "aroha = affective dimension of tikanga" not found in sources -> dropped; "equate aroha with compassion falls far short" disclosed. Fehr & Sprecher well-being findings seen only in a reposted PDF -> not used.
+
+## R038 — Practise whakawhanaungatanga
+- Opened: Bishop et al. 2007 Te Kōtahitanga Phase 3 (fetched, quotes verbatim), Pettigrew & Tropp 2006 abstract, Paluck/Green/Green 2019 abstract. Mead, Durie, Pettigrew 1998 not read; Buber parallel untouched/unopened.
+- Seed "across cultural, social, personal difference" is an extension: the source is teacher-student relationships in mainstream schools. Achievement results attributed to the programme as a whole, not relationship-building alone.
