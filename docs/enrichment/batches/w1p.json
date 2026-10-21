@@ -69,10 +69,11 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Self-doubt theory": "ATTRIBUTION FLAG (Category C classification withdrawn after advisor review: construct is source-defined): seed attribution Torti/Buelow not established by searches; construct is self-doubt (Arkin/Oleson program per opened carrier); optional rename to Self-doubt for owner; item marked done"
+  "Self-doubt theory": "ATTRIBUTION FLAG (Category C classification withdrawn after advisor review: construct is source-defined): seed attribution Torti/Buelow not established by searches; construct is self-doubt (Arkin/Oleson program per opened carrier); optional rename to Self-doubt for owner; item marked done",
+  "Social representation theory": "Reopened for QC: advisor QC FAIL: single Wikipedia carrier below bar; new scholarly carrier (Hojer 2011 Nordicom) opened and repairs applied"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:37:33+00:00",
+ "updated": "2026-10-21T14:41:15+00:00",
  "band_done": false
 }

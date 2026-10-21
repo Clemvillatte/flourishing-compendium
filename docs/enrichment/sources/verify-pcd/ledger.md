@@ -118,7 +118,7 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
 
 ## w1j late-session sample (worker-w1l-c5a7e913's 08:21-08:28Z batch, released band)
 
-### Fundamental attribution error — quote fidelity FULL PASS; Humanizer defects ROUTED (15:02Z real clock)
+### Fundamental attribution error — quote fidelity FULL PASS; Humanizer defects ROUTED (~14:31Z)
 - Ross 1977 blockquote EXACT vs the opened Internet Archive PDF text (fetched fresh).
 - Jones & Harris 1967 fragments EXACT vs the opened strategian.com abstract page; the
   three-experiment staging description grounded.
@@ -145,7 +145,7 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
   links. Same w1j-batch signature — one cleanup pass could humanise both pages' meta
   sections into a normal "Limits" or closing paragraph.
 
-### Grounding techniques — PASS with one routed defect (15:11Z real clock)
+### Grounding techniques — PASS with one routed defect (~14:33Z)
 - Hammond & Brown 2026 blockquote EXACT vs the opened PubMed abstract (40575850), including
   the screening numbers (1,894 results; 19 sources; 4 defined / 12 mentioned / 3 described)
   and the physiological-equilibrium + tentative-guidelines outcome sentence.
@@ -166,3 +166,23 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
   Sources — all four such sources are now independently verified against opened carriers
   by this round, so those notes can be retired; trailing Cited-in lists carry leftover
   seed fragments like "in anxiety management, and attention's binding to concrete stimuli").
+
+## w1p band (baton taken over 14:35Z real clock; 6 items remaining)
+
+### Social representation theory — advisor QC round 1 FAIL, repaired, PASS (14:45Z real clock)
+- First pass (single Wikipedia carrier) failed advisor QC on the source bar. Opened a
+  scholarly carrier: Höijer 2011, "Social Representations Theory — A New Theory for Media
+  Research", Nordicom Review 32(2) 3-16 (GUPEA open PDF), which quotes Moscovici 1973
+  p. xiii's twofold-function definition and Moscovici 1984 p. 38's objectification line,
+  and summarises anchoring/objectification with named subforms.
+- Repairs applied: Höijer's exact rendering of the 1973 definition replaces the Wikipedia
+  variant (the two carriers differ in minor wording; the page now quotes the carrier it
+  cites); anchoring/objectification blockquote is Höijer's own text; "Romanian-born" and
+  other unsourced biography removed; Durkheim lineage now cited to the opened Wikipedia
+  text; the everyday-life example is bounded as illustrative; related-concept glosses
+  bounded to each target page's declared opening; sentence-level citations added;
+  "not a settled doctrine" grounded; heading changed to "What the theory explains";
+  the long paragraph split.
+- Validator: PASS (fast-track profile). State: reopened then re-done.
+- w1p progress: 65/70 done. Remaining: Situated freedom, Social-Role Theory, Socioanalytic
+  theory, Sociotropy-autonomy theory, Source monitoring.
