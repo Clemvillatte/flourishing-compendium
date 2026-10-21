@@ -16,8 +16,8 @@ The liuzi jue (六子訣), the Six Healing Sounds, is a set of six exhalation pa
 
 1. Sit or lie comfortably and take a few ordinary breaths. Target dimensions: Overt behaviour (the shaped exhalation) and Affect (settling).
 2. Make each sound on the exhalation, one sound per breath cycle. The book's sound qualities: chui is a sharp expulsion of air with the lips almost closed and the mouth barely open, described as warming and relaxing; xu is a gentle expulsion with the mouth wide open, the air released from the bottom of the lungs, described as cooling; hu is the mildest, a blowing out with rounded lips; si is a gentle release between slightly opened lips; he is a strong breath through the open mouth with a soft rasp in the throat; xi is a sigh, soft and from deep in the body.
-3. The seasonal form recorded in the Daoyin jing: in spring, exhale several times with xu plus once each with hu and chui; in summer, several times with hu plus once each with xu and chui; in fall and winter, several times with chui plus once each with xu and hu.
-4. The modern form, as a peer-reviewed description has it: "one can either stand or kneel and calm the mind, breathing peacefully into the cinnabar field (Dan Tian; the navel), and then apply one of the six sounds, or all of them in a specific sequence according to one's particular needs" ([Shi et al. 2020](https://journals.sagepub.com/doi/full/10.1177/2158244020927024)). The sound is voiced softly or silently, and "the time of exhalation is either equal to or longer than that of the inhalation. Both should be carried out naturally, and not prolonged by force." Repetition counts vary by lineage and are not asserted here.
+3. The seasonal form, from the Yinshu as Kohn presents it: in spring, exhale several times with xu plus once each with hu and chui; in summer, several times with hu plus once each with xu and chui; in fall and winter, several times with chui plus once each with xu and hu.
+4. The modern form, as a peer-reviewed description has it: "one can either stand or kneel and calm the mind, breathing peacefully into the cinnabar field (Dan Tian; the navel), and then apply one of the six sounds, or all of them in a specific sequence according to one's particular needs" ([Shi et al. 2020](https://journals.sagepub.com/doi/full/10.1177/2158244020927024)). The sound is voiced softly or silently. "The time of exhalation is either equal to or longer than that of the inhalation. Both should be carried out naturally, and not prolonged by force." The opened sources specify no repetition count.
 
 ### Evidence
 
@@ -30,14 +30,11 @@ Kohn presents the organ associations as traditional Chinese medicine corresponde
 - [[B038 — Practice mindfulness of breathing (anapanasati)|B038 Practice mindfulness of breathing (anapanasati)]]
 - [[BE046 — Learn to use the body to regulate emotion — posture, breath, movement|BE046 Learn to use the body to regulate emotion: posture, breath, movement]]
 - [[Y048 — Use the breath to steady attention|Y048 Use the breath to steady attention]]
-- [[D041 — Practice purity and stillness (qingjing)|D041 Practice purity and stillness (qingjing)]]
 - [[D055 — Don't force|D055 Don't force]]
-- [[B067 — Notice feeling tone first (vedana)|B067 Notice feeling tone first (vedana)]]
-- [[MO050 — Learn to practise self-compassion when procrastinating — guilt backfires|MO050 Learn to practise self-compassion when procrastinating: guilt backfires]]
 
 ## Related kernels
 
-- [[K194 — Slow breathing (5 to 6 breaths per minute)]] — the modern, tested version of long out-breath calming
+- [[K194 — Slow breathing (5 to 6 breaths per minute)]] — a related slow-breathing practice
 - [[K100 — Breath anchoring]] — the attention skill underneath this practice
 - [[K201 — Yoga, qigong, or tai chi]] — the movement family the sounds belong to
 - [[K391 — Bring raisin mind to one routine activity]] — the same everyday-activity mindfulness, applied to breathing
