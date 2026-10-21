@@ -39,7 +39,8 @@
   "Calling orientation",
   "Choice architecture",
   "Circadian science",
-  "Cognitive distortions"
+  "Cognitive distortions",
+  "Contemplation (theoria)"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,7 +60,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T06:40:46+00:00",
+ "updated": "2026-10-21T06:41:27+00:00",
  "band_done": false,
  "new_concepts": [
   {
