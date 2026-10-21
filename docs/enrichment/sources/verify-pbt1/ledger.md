@@ -520,3 +520,17 @@ Meaning" excerpt, SEP "Moral Dilemmas" (McConnell), PubMed 11699120 (Haidt abstr
    verbatim-supported.
 
 Result: 3/3 quotation fidelity PASS, no defects this round.
+
+## Round 26 (16:35Z) — w1ab quote-fidelity verification, second batch
+
+Carriers opened fresh: PubMed abstracts 9809557 (Eriksson et al 1998), 29513649
+(Sorrells et al 2018), 25346396 (Du & Jonas 2015), 31584226 (Sutherland et al 2020).
+
+1. Neurogenesis theory — both blockquotes VERBATIM (the 1998 positive finding and the
+   2018 dissenting conclusion), faithfully preserving the field's live disagreement.
+2. Modesty norms research — both blockquotes VERBATIM (the Eastern-cultures sentence
+   and the two-study mortality-salience findings).
+3. Multiple Trace Theory of Memory — blockquote VERBATIM (Sutherland et al abstract
+   opening sentence with the full Nadel & Moscovitch citation).
+
+Result: 3/3 quotation fidelity PASS, no defects this round.
