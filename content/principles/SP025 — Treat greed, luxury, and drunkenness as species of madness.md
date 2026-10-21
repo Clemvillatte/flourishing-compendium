@@ -12,13 +12,17 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 25** — Treat greed, luxury, and drunkenness as species of madness
 
-In the scholium to IV P44, Spinoza says that greed, ambition, and lust for luxury are species of madness: fixed, self-reinforcing appetites that have outgrown their function and now consume the person. The analysis is important because it is mechanical, not moralistic; the miser is not evil, he is captured, and the capture is visible in his narrowing. Practically, watch for the appetite that has stopped responding to satisfaction: that is the signature of the transition from appetite to possession.
+In the note to Ethics IV, Prop. XLIV, Spinoza argues that avarice, ambition and lust are species of madness. His reasoning is clinical: an emotion can so fix the mind in the contemplation of one object that it is unable to think of others. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-(Ethics IV, P44 scholium; Letter 19 and the drunkard of Letter 58, treated below.)
+> "But when a miser thinks of nothing but gain or money, or when an ambitious man thinks of nothing but glory, they are not reckoned to be mad, because they are generally harmful, and are thought worthy of being hated. But, in reality, Avarice, Ambition, Lust, &c., are species of madness, though they may not be reckoned among diseases."
 
-**Plain words** Greed, ambition, and lust for luxury are species of madness: fixed, self-reinforcing appetites that have outgrown their function and now consume the person. The analysis is clinical, not moral — addiction three centuries before the term, in a scholium.
+(Ethics IV, Prop. XLIV, Note, Elwes translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt).)
 
-*For example:* The shopping behaviour that started as comfort and became the comfort — the mechanism serving itself. Spinoza's frame removes the moral theatre and replaces it with the clinical question: what is this appetite now for? Its original job ended years ago.
+The passage's own explanation is fixation — emotions that keep the mind on one object so that it is unable to think of others; the miser and the ambitious man are not excepted, only blamed instead of treated. The page's watch-for-the-appetite-that-stopped-responding advice is the compendium's own application, not this passage's wording.
+
+**Plain words** Spinoza's test is fixation: one object takes the whole mind. The lover and the miser both count; we just laugh at one and hate the other instead of calling them mad. Ask of any pursuit whether other things can still get your attention.
+
+*For example:* Imagined: a comfort purchase becomes the whole evening — the planning, the buying, the next purchase already forming — and other things have stopped getting attention.
 ## Psychology parallels
 
 - **Delay discounting and the narrowing of reward systems**, the behavioral-economics account of compulsive pursuit (Bickel et al., 2014)
