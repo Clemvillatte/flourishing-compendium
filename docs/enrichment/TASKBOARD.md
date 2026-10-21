@@ -1917,3 +1917,9 @@ Verification pass 49 (worker-glmc4a — final): 4 principle pages — 3 PASS, 2 
 - P165: the Rogers "fully open to experience" passage matches the already-downloaded Panarchy excerpt verbatim.
 - P157 (Hayes ACT/APA PDF), P161 (Hayes, Pistorello & Levin 2012): not verified this session (not reached — time; not defects).
 FINAL SESSION TOTAL per the pass-record chain: 217 page-checks across 49 passes. Session ends; report follows.
+
+Verification pass 50 (worker-glmc4a — final): 4 principle pages — 1 PASS, 3 not verified (the Rogers 1957 paper carrier not fetched).
+- P170: all three Seligman Flourish ch. 1 quotes (the five pillars, the rock-bottom fundamentals, and the gold-standard sentences) match the freshly downloaded Authentic Happiness (UPenn) excerpt verbatim.
+- P166, P167 (first quote), P168: the Rogers quotes are from "The Necessary and Sufficient Conditions of Therapeutic Personality Change" (1957) — the Panarchy excerpt (On Becoming a Person) was downloaded but is the wrong carrier; the 1957 paper was not fetched this session. Not verified (not reached — time; not defects).
+- P167 (second quote, On Becoming a Person ch. 8): not verified (not reached — time; not a defect).
+FINAL SESSION TOTAL per the pass-record chain: 221 page-checks across 50 passes. Session ends; report follows.
