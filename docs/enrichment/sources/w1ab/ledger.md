@@ -825,3 +825,15 @@
   Validation --fast-track --base d1ba9c8f: ok. Advisor QC: not due this item (cadence: first
   item + every 5th; this is the first post-milestone item — the next 5-boundary is the
   items-21-25 batch with the manifest continuation).
+
+## ITEM: Neuroplasticity (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier solution for the handoff's warning: the seed's own source (Draganski 2004, PMID
+  14737157) confirmed to carry NO abstract text in PubMed (citation record only, verified by
+  efetch); the opened carrier is Draganski & May 2008, Behav Brain Res (PMID 18378330, 'Training-
+  induced structural changes in the adult human brain', same first author) — three abstract
+  passages quoted verbatim (the beyond-maturation core claim; the modulators sentence; the
+  open-question sentence). The 2004 record is cited on the page as citation-only, with the
+  no-abstract fact stated in one sentence. Related preserved ([[Growth through practice]]
+  untouched) + Neurogenesis theory (grounded: the Sorrells contest) + Long-term potentiation
+  account of memory (navigational caption). Degree 7 — fast-track. Validation
+  --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
