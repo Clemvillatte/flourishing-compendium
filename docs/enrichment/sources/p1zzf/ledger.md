@@ -112,3 +112,7 @@
 ## S040 — Be a good friend
 - Opened: Seneca Letter 9 (Gummere, Standard Ebooks, fetched), Letter 3 (Seneca.ink snippet), Cohen & Wills 1985 (CMU abstract), Demir et al. 2015 (Semantic Scholar summary), adult friendship systematic review (PMC abstract). Meditations, Epictetus, Musonius, Aristotle, Buber unread.
 - Seed supported by Letter 9 (friend for practising friendship; happy without friends). Psychology studies largely correlational.
+
+## S062 — Do not grieve excessively
+- Opened: Seneca Letter 63 (Gummere, Standard Ebooks), Stroebe & Schut 1999 (PubMed abstract), Continuing Bonds (Routledge description), PGD in ICD-11/DSM-5-TR (Psychiatria Polska). Letter 99, Meditations, Discourses unread.
+- Flags: seed "excessive grief is a judgement that loss is unbearable" not found in Letter 63. Seneca also says "better to replace your friend" (tension with continuing bonds) but "memory of dead friends is sweet" (fits it). "Excessive" is clinically defined by duration/norms/impairment.
