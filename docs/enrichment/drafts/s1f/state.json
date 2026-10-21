@@ -3,7 +3,7 @@
  "items": {
   "s1f-001": {
    "status": "qc_pending",
-   "angle": "P193: Gogol's Overcoat - copy-clerk mechanism vs the chosen-goal year of the cloak; fiction labelled as fiction; P193 has zero published stories",
+   "angle": "P193: Gogol's Overcoat - the cloak months as the stretch of the copy clerk's life densest with chosen acts; the narrator marks him livelier; honest limits kept (the copying was loved; after the theft he acts with energy); fiction labelled as fiction",
    "history": [
     {
      "t": "2026-10-21T12:36:46+00:00",
@@ -13,9 +13,14 @@
      "t": "2026-10-21T12:36:46+00:00",
      "to": "qc_pending",
      "note": "draft complete; story_check ok; first-item advisor QC due"
+    },
+    {
+     "t": "2026-10-21T12:51:57+00:00",
+     "to": "qc_pending",
+     "note": "round-2 advisor repairs applied: sentence-final period restored, the two official visits separated, acquisition bridge restored, narrator quote shortened to exact fragment, opening rephrased around livelier, Britannica article opened for the 1842 date, duplicate Principles labels removed, state angle and HANDOFF synced; all body quotes re-verified against the raw file; story_check ok"
     }
    ]
   }
  },
- "updated": "2026-10-21T12:36:46+00:00"
+ "updated": "2026-10-21T12:51:57+00:00"
 }

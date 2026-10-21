@@ -13,7 +13,7 @@ targets in flight at claim time):
 
 | item | principle | story | angle |
 |------|-----------|-------|-------|
-| s1f-001 | P193 Consciousness is choice; where there is no choice, there is mechanism | Gogol, The Overcoat (Akaky Akakievich) | fiction, labelled as such: the copying life as mechanism pole; the cloak year as the chosen-goal pole; the ghost as the parody of choice |
+| s1f-001 | P193 Consciousness is choice; where there is no choice, there is mechanism | Gogol, The Overcoat (Akaki Akakievitch) | fiction, labelled as such: the cloak months as the stretch of life densest with chosen acts; the narrator marks him livelier; honest limits kept (the copying was loved; after the theft he acts with energy) |
 | s1f-002 | P187 Separate the religious quality of experience from religion | Einstein's 1929 telegram exchange with Rabbi Goldstein | the awe at lawful harmony kept while the intervening God and the institutions are declined |
 
 P191 (joy as the felt signature of creation; candidate: Marie Curie's glowing
