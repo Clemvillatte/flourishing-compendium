@@ -936,6 +936,253 @@ async function main() {
     }
   }
 
+  /* ---- 17. docked launcher: mount({ launcher }) puts the button in the host layout ---- */
+  {
+    const { page, errors } = await newPage(browser, { url: `${BASE}/tests/qa-launcher.html` });
+    const st = await page.evaluate(() => {
+      const btn = document.querySelector('.fcp-btn');
+      const slot = document.getElementById('slot');
+      return {
+        docked: btn.parentElement === slot,
+        inline: btn.classList.contains('fcp-inline'),
+        pos: getComputedStyle(btn).position
+      };
+    });
+    check(st.docked, 'launcher option docks the button into the host element');
+    check(st.inline && st.pos === 'static', `docked button is in-flow, not fixed (${st.pos})`);
+
+    // open the panel: it must drop below the button, right-aligned, in-viewport
+    await page.click('.fcp-btn');
+    await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('open'), null, { timeout: 5000 });
+    await page.waitForTimeout(300); // let the open transition (transform) settle before measuring
+    const g = await page.evaluate(() => {
+      const b = document.querySelector('.fcp-btn').getBoundingClientRect();
+      const p = document.querySelector('.fcp-panel').getBoundingClientRect();
+      const h = document.getElementById('hdr').getBoundingClientRect();
+      return { btnBottom: b.bottom, btnRight: b.right, hdrBottom: h.bottom, pTop: p.top, pRight: p.right, pLeft: p.left, pBottom: p.bottom, vw: innerWidth, vh: innerHeight };
+    });
+    check(g.pTop >= g.btnBottom - 0.5, `panel opens below the docked button (${g.pTop.toFixed(0)} >= ${g.btnBottom.toFixed(0)})`);
+    check(g.pTop >= g.hdrBottom + 7, `panel drops from the panelAnchor's bottom edge (${g.pTop.toFixed(0)} >= ${g.hdrBottom.toFixed(0)} + 8)`);
+    check(Math.abs(g.pRight - g.btnRight) < 1.5, `panel right-aligns with the button (${g.pRight.toFixed(0)} ~ ${g.btnRight.toFixed(0)})`);
+    check(g.pRight <= g.vw && g.pLeft >= 0 && g.pBottom <= g.vh + 0.5, 'panel stays inside the viewport');
+
+    // narrow viewport: the open panel must reposition (full-width margins)
+    await page.setViewportSize({ width: 375, height: 667 });
+    await page.waitForTimeout(300);
+    const g2 = await page.evaluate(() => {
+      const p = document.querySelector('.fcp-panel').getBoundingClientRect();
+      const b = document.querySelector('.fcp-btn').getBoundingClientRect();
+      return { pTop: p.top, pLeft: p.left, pRight: p.right, pBottom: p.bottom, btnBottom: b.bottom, vw: innerWidth, vh: innerHeight };
+    });
+    check(g2.pLeft >= 15 && g2.pRight <= g2.vw - 15, `narrow viewport: panel spans the width (${g2.pLeft.toFixed(0)}..${g2.pRight.toFixed(0)})`);
+    check(g2.pTop >= g2.btnBottom - 0.5, `narrow viewport: panel stays below the button (${g2.pTop.toFixed(0)} >= ${g2.btnBottom.toFixed(0)})`);
+    check(g2.pBottom <= g2.vh + 0.5, 'narrow viewport: panel fits the height');
+
+    // dispose: button leaves the slot, no errors
+    await page.evaluate(() => window.FCPlayer.dispose());
+    const after = await page.evaluate(() => ({
+      gone: !document.querySelector('.fcp-btn'),
+      slotEmpty: document.getElementById('slot').children.length === 0
+    }));
+    check(after.gone && after.slotEmpty, 'dispose removes the docked button from the host slot');
+    check(errors.length === 0, `no page errors (launcher) ${errors.join('|')}`);
+    await page.context().close();
+  }
+
+  /* ---- 18. background keeper: iOS lock-screen handover (backgroundAudio) ---- */
+  {
+    // negative control first: on desktop, 'auto' leaves the keeper OFF —
+    // hiding the page must NOT pause the engine or create a keeper
+    const { page, errors } = await newPage(browser, { url: `${BASE}/tests/qa.html` });
+    await page.click('.fcp-btn');
+    await page.click('.fcp-play');
+    await page.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+    await page.evaluate(() => {
+      Object.defineProperty(document, 'hidden', { configurable: true, get: () => true });
+      document.dispatchEvent(new Event('visibilitychange'));
+    });
+    const nc = await page.evaluate(() => ({
+      playing: window.__inst.session.playingState() === 'playing',
+      keeper: !!document.querySelector('.fcp-keeper')
+    }));
+    check(nc.playing && !nc.keeper, 'desktop (backgroundAudio auto): hiding the page does not pause the engine or create a keeper');
+    await page.evaluate(() => {
+      Object.defineProperty(document, 'hidden', { configurable: true, get: () => false });
+    });
+    check(errors.length === 0, `no page errors (keeper negative control) ${errors.join('|')}`);
+    await page.context().close();
+
+    // forced on: the full handover cycle
+    const { page: bg, errors: bgErrors } = await newPage(browser, { url: `${BASE}/tests/qa-bg.html` });
+    await bg.click('.fcp-btn');
+    await bg.click('.fcp-play');
+    await bg.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+    // wait for the keeper to be primed (concatenated blob built)
+    await bg.waitForFunction(() => {
+      var k = window.__inst.session._bgKeeper;
+      return k && k.primed === true;
+    }, null, { timeout: 15000 });
+    await bg.waitForTimeout(700); // settle at a known position
+    const before = await bg.evaluate(() => ({ pos: window.__inst.engine.position() }));
+
+    // hide: handover to the keeper
+    await bg.evaluate(() => {
+      Object.defineProperty(document, 'hidden', { configurable: true, get: () => true });
+      document.dispatchEvent(new Event('visibilitychange'));
+    });
+    await bg.waitForTimeout(400);
+    const hidden = await bg.evaluate(() => {
+      var s = window.__inst.session;
+      var k = s._bgKeeper;
+      var a = k.audio;
+      return {
+        enginePaused: s.playingState() !== 'playing',
+        keeperActive: k.active,
+        keeperPlaying: !a.paused && a.currentTime > 0,
+        loop: a.loop,
+        blob: (a.currentSrc || a.src || '').indexOf('blob:') === 0,
+        ct: a.currentTime
+      };
+    });
+    check(hidden.enginePaused, 'hidden: engine is paused (Web Audio suspended by the OS)');
+    check(hidden.keeperActive && hidden.keeperPlaying, 'hidden: the keeper audio element is playing');
+    check(hidden.loop && hidden.blob, 'hidden: the keeper plays the looping concatenated blob');
+    // position continuity at handover: keeper time ≈ engine position (+ head trims)
+    check(Math.abs(hidden.ct - before.pos) < 1.0, `hidden: keeper starts at the engine position (${hidden.ct.toFixed(2)} vs ${before.pos.toFixed(2)})`);
+
+    // let it play in the background for a moment, then come back
+    await bg.waitForTimeout(1000);
+    const midCt = await bg.evaluate(() => window.__inst.session._bgKeeper.audio.currentTime);
+    await bg.evaluate(() => {
+      Object.defineProperty(document, 'hidden', { configurable: true, get: () => false });
+      document.dispatchEvent(new Event('visibilitychange'));
+    });
+    await bg.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+    const back = await bg.evaluate(() => ({
+      pos: window.__inst.engine.position(),
+      keeperActive: window.__inst.session._bgKeeper.active,
+      keeperPaused: window.__inst.session._bgKeeper.audio.paused
+    }));
+    check(!back.keeperActive && back.keeperPaused, 'visible: hand-back deactivates and pauses the keeper');
+    check(back.pos >= midCt - 1.5 && back.pos <= midCt + 2.5, `visible: engine resumes at the keeper position (${back.pos.toFixed(2)} vs keeper ${midCt.toFixed(2)})`);
+
+    // the combined resource: total duration matches the span table, the
+    // raw<->engine mapping round-trips into a later segment, and the blob
+    // actually loops (seek near the end, play, verify the wrap)
+    const combined = await bg.evaluate(() => {
+      const s = window.__inst.session;
+      const k = s._bgKeeper;
+      const total = k.spans.reduce((a, x) => a + x.raw, 0);
+      const raw = s._bgRawAt(window.__inst.engine, 2, 1.0);
+      const back2 = s._bgFromRaw(window.__inst.engine, raw);
+      return { dur: k.audio.duration, total, raw, idx: back2.idx, off: back2.offset };
+    });
+    check(Math.abs(combined.dur - combined.total) < 0.5, `combined blob duration matches the span table (${combined.dur.toFixed(2)} ~ ${combined.total.toFixed(2)})`);
+    check(combined.idx === 2 && Math.abs(combined.off - 1.0) < 0.05, `raw<->engine mapping round-trips into a later segment (idx ${combined.idx}, off ${combined.off.toFixed(2)})`);
+    const wrapped = await bg.evaluate(async () => {
+      const k = window.__inst.session._bgKeeper;
+      const total = k.spans.reduce((a, x) => a + x.raw, 0);
+      const a = k.audio;
+      a.muted = true;
+      a.currentTime = total - 1.0;
+      await a.play();
+      await new Promise((r) => setTimeout(r, 2200));
+      const ct = a.currentTime;
+      a.pause();
+      a.muted = false;
+      return ct;
+    });
+    check(wrapped < 1.5, `the blob actually loops (wrapped to ${wrapped.toFixed(2)}s)`);
+
+    // delayed build: hide BEFORE the blob is ready — the handover must fall
+    // back to the current segment (mode 'segment'), hand back at the suspend
+    // point, then upgrade to the full set once built
+    {
+      const { page: pg, errors: pgErrors } = await newPage(browser, { url: `${BASE}/tests/qa-bg.html` });
+      // make the build deterministically slow (delay the last segment)
+      await pg.route('**/qa_2.aac', async (route) => {
+        await new Promise((r) => setTimeout(r, 2500));
+        await route.continue();
+      });
+      await pg.click('.fcp-btn');
+      await pg.click('.fcp-play');
+      await pg.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+      await pg.waitForTimeout(700);
+      const p0 = await pg.evaluate(() => window.__inst.engine.position());
+      // hide immediately — the blob cannot be primed yet
+      await pg.evaluate(() => {
+        Object.defineProperty(document, 'hidden', { configurable: true, get: () => true });
+        document.dispatchEvent(new Event('visibilitychange'));
+      });
+      await pg.waitForTimeout(400);
+      const seg = await pg.evaluate(() => {
+        const k = window.__inst.session._bgKeeper;
+        return {
+          active: k.active,
+          mode: k.mode,
+          playing: !k.audio.paused,
+          src: (k.audio.currentSrc || k.audio.src || '').indexOf('qa_0.aac') >= 0,
+          enginePaused: window.__inst.session.playingState() !== 'playing',
+          primed: k.primed
+        };
+      });
+      check(seg.active && seg.mode === 'segment' && seg.playing && seg.src, 'hide before the blob is ready: single-segment best-effort handover');
+      check(seg.enginePaused && !seg.primed, 'hide before the blob is ready: engine paused, blob still unprimed');
+      // come back: the engine must resume at (≈) the suspend point
+      await pg.evaluate(() => {
+        Object.defineProperty(document, 'hidden', { configurable: true, get: () => false });
+        document.dispatchEvent(new Event('visibilitychange'));
+      });
+      await pg.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+      const p1 = await pg.evaluate(() => window.__inst.engine.position());
+      check(Math.abs(p1 - p0) < 2.5, `segment-mode hand-back resumes at the suspend point (${p1.toFixed(2)} ~ ${p0.toFixed(2)})`);
+      // let the delayed build finish, then the next hide must use the full set
+      await pg.waitForFunction(() => window.__inst.session._bgKeeper.primed === true, null, { timeout: 15000 });
+      await pg.evaluate(() => {
+        Object.defineProperty(document, 'hidden', { configurable: true, get: () => true });
+        document.dispatchEvent(new Event('visibilitychange'));
+      });
+      await pg.waitForTimeout(400);
+      const upgraded = await pg.evaluate(() => {
+        const k = window.__inst.session._bgKeeper;
+        return { active: k.active, mode: k.mode, playing: !k.audio.paused, blob: (k.audio.currentSrc || k.audio.src || '').indexOf('blob:') === 0 };
+      });
+      check(upgraded.active && upgraded.mode === 'set' && upgraded.playing && upgraded.blob, 'after the delayed build completes: the full-set blob handover takes over');
+      check(pgErrors.length === 0, `no page errors (delayed build) ${pgErrors.join('|')}`);
+      await pg.context().close();
+    }
+
+    // non-ADTS sets (e.g. WAV segments): the concatenated blob must NOT be
+    // built (it would be a broken file) — the handover stays single-segment
+    {
+      const { page: pw, errors: pwErrors } = await newPage(browser, { url: `${BASE}/tests/qa-bg-wav.html` });
+      await pw.click('.fcp-btn');
+      await pw.click('.fcp-play');
+      await pw.waitForFunction(() => document.querySelector('.fcp-panel').classList.contains('is-playing'), null, { timeout: 8000 });
+      await pw.waitForTimeout(1500); // give a would-be build time to (wrongly) start
+      const gate = await pw.evaluate(() => {
+        const k = window.__inst.session._bgKeeper;
+        return { primed: k ? k.primed : null, exists: !!k, spans: k ? !!k.spans : null };
+      });
+      check(gate.exists && !gate.primed && !gate.spans, 'non-ADTS set: no concatenated blob is built');
+      await pw.evaluate(() => {
+        Object.defineProperty(document, 'hidden', { configurable: true, get: () => true });
+        document.dispatchEvent(new Event('visibilitychange'));
+      });
+      await pw.waitForTimeout(400);
+      const wseg = await pw.evaluate(() => {
+        const k = window.__inst.session._bgKeeper;
+        return { active: k.active, mode: k.mode, playing: !k.audio.paused };
+      });
+      check(wseg.active && wseg.mode === 'segment' && wseg.playing, 'non-ADTS set: single-segment handover still works');
+      check(pwErrors.length === 0, `no page errors (non-ADTS gate) ${pwErrors.join('|')}`);
+      await pw.context().close();
+    }
+
+    check(bgErrors.length === 0, `no page errors (keeper handover) ${bgErrors.join('|')}`);
+    await bg.context().close();
+  }
+
   await browser.close();
   if (failures) {
     console.error(`\n${failures} check(s) FAILED`);

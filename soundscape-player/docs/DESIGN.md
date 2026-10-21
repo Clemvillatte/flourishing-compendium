@@ -189,6 +189,42 @@ theme; it also defines fallbacks so it works standalone.
 
 MediaSession is wired (play/pause/stop, prev/next track) for OS media keys.
 
+**Docked launcher** — `mount({ launcher: <selector or element> })` docks the
+toggle button into a host-page element (e.g. a header slot) instead of the
+floating corner position: the button joins that layout as a compact icon
+button (class `fcp-inline`, in-flow `position: static`) and the open panel
+drops below it (right-aligned with the button, full-width margins ≤ 480 px,
+repositioned on resize, spec section 17). With `panelAnchor: <selector or
+ element>` the panel instead drops from that element's bottom edge — for
+hosts that dock the button into a tall header. Without the options nothing
+changes: floating button + bottom panel.
+
+**iOS lock-screen handover (background keeper)** — iOS (all browsers there
+are WebKit) suspends Web Audio the moment the page is hidden (screen lock,
+app switch); a plain `<audio>` element is the one thing it keeps sounding.
+`backgroundAudio: 'auto'` (the default; enables on iPhone/iPad only) hands
+playback to a dedicated `<audio>` element when the page goes hidden while
+playing: the element is unlocked inside the play gesture, Safari 16.4+
+also gets `navigator.audioSession.type = 'playback'` (keeps Web Audio
+audible with the ringer switch silent — the session type alone does NOT
+survive a screen lock), and the element is fed a single concatenated,
+looping blob of the active set's segment files — built lazily after play
+(the decode pass doubles as pre-decoding, so handing back is instant),
+started at the engine's exact position, and handed back to the engine at
+the element's exact position when the page returns. If the page is hidden
+before the blob is ready — or the set is not ADTS AAC (the only format
+whose files concatenate losslessly) — the handover degrades to playing the
+current segment only and the hand-back resumes at the suspend point. A
+failed keeper start leaves the engine paused at its captured position.
+Lock-screen play/pause works through the element's native controls (the
+hand-back respects a lock-screen pause). Degradations while
+backgrounded: butt-joined junctions (no 12 ms crossfade), no circadian
+filter, timers/JS pause, no set switching; not available in layers or
+`<audio>`-fallback mode. Verified by spec section 18 on desktop (the
+handover logic is view/visibility-driven and testable there, including
+the delayed-build and non-ADTS paths; the actual iOS lock behaviour needs
+a device check — see HANDOFF).
+
 Host pages with their own fixed bottom bar (e.g. the wiki's phone tab
 layout) set the `--fcp-fab-offset` CSS variable on `:root` to lift the
 floating button and panel clear of it; the default (unset) keeps the

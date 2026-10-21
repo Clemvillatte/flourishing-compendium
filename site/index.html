@@ -36,6 +36,10 @@
     <div class="topbar-utils">
       <button id="essayExportBtn" type="button" title="Export essay outline (Ctrl/Cmd+Shift+S)">Essay <span id="essayCountBadge">0</span></button>
       <button id="essayClearBtn" type="button" title="Clear the essay collection (reset to 0)" aria-label="Clear essay collection"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M18 6L6 18M6 6l12 12"/></svg></button>
+      <!-- soundscape player launcher: docks into the header (between the Essay
+           control and the help/backup cluster; on phones it sits between the
+           title and the theme toggle — the header keeps only those visible) -->
+      <span class="fcp-slot" id="fcLauncher"></span>
       <span class="tb-sep" aria-hidden="true"></span>
       <button id="treeToggle" class="colToggle" type="button" title="Toggle Library tree (⌘\)" aria-label="Toggle library tree"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="7" height="16" rx="1.5"/><path d="M13 6h8M13 12h8M13 18h8"/></svg></button>
       <button id="listToggle" class="colToggle" type="button" title="Toggle Search panel (⌘1)" aria-label="Toggle search panel"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg></button>
@@ -809,6 +813,8 @@ window.addEventListener('DOMContentLoaded', function () {
     ['bare-attention', 'Bare attention', 16]
   ];
   window.__fcInst = FCPlayer.mount({
+    launcher: '#fcLauncher', /* dock the toggle button into the header slot */
+    panelAnchor: '#topbar',  /* the panel drops from the header's bottom edge */
     setCrossfade: 4,
     sets: SETS.map(function (s) {
       return {

@@ -3,7 +3,47 @@
 Read this together with `AGENTS.md`, `docs/DESIGN.md`, and `docs/ROADMAP.md`.
 Everything needed to continue is in this repository; nothing else is required.
 
-## Current state (all verified by `tests/spec.mjs`, 123 checks green)
+## Current state (all verified by `tests/spec.mjs`, 154 checks green)
+
+- HEADER-DOCKED LAUNCHER (DONE, user-requested): the wiki's player button is
+  no longer a floating corner FAB — `mount({ launcher: '#fcLauncher' })`
+  (component option, class `fcp-inline`) docks it into the header slot the
+  wiring places in `.topbar-utils` right after the Essay control: on desktop
+  it sits between Essay (0) × and the help/backup cluster, on phones (where
+  the header keeps only brand + theme toggle visible) between the title and
+  the theme toggle — exactly where the user's red-cross screenshots asked.
+  `panelAnchor: '#topbar'` makes the open panel drop from the header's bottom
+  edge (right-aligned, full-width ≤ 480 px, resize-aware, dispose-safe).
+  The floating-FAB default is UNCHANGED for standalone pages (spec 14/17).
+  QA fixtures: tests/qa-launcher.html (spec section 17); wiki-qa.mjs now
+  asserts the docking geometry on the real page at 1280/375 px.
+- iOS LOCK-SCREEN HANDOVER (DONE, user-requested): iOS suspends Web Audio
+  when the page is hidden (lock/app-switch) — no code can prevent that;
+  `backgroundAudio: 'auto'` (default; iOS/iPadOS only, desktop unaffected)
+  hands playback to a plain `<audio>` element (the one thing iOS keeps
+  sounding) when the page goes hidden while playing, and back at the
+  element's exact position when the page returns. Details: Safari 16.4+
+  also gets `navigator.audioSession.type = 'playback'` in the play gesture
+  (ringer-switch audibility — it does NOT alone survive a lock); the keeper
+  element is unlocked with a 16-byte silent WAV inside the gesture; the
+  looping concatenated blob is built lazily after play (decode doubles as
+  pre-decoding; only for ADTS AAC sets — other formats keep a single-
+  segment best-effort handover); a mid-handover build never swaps the
+  element's src; a hide before the blob is ready degrades to the current
+  segment (mode 'segment') and hands back at the suspend point; a failed
+  keeper start leaves the engine paused at its captured position;
+  lock-screen pause is respected on hand-back; keeper tracks set switches
+  (generation token discards stale builds) and is torn down by stop/dispose
+  (paused first). Degradations while backgrounded (documented): butt-joined
+  junctions, no circadian filter, timers/JS pause, no set switching; not in
+  layers/fallback mode. Spec section 18 (tests/qa-bg.html + qa-bg-wav.html)
+  covers the full cycle, the delayed build, the non-ADTS gate, the loop wrap,
+  the blob duration/span-table consistency and the raw<->engine mapping on
+  desktop via faked visibilitychange — the actual iPhone lock behaviour
+  STILL NEEDS A DEVICE CHECK by the user (measurements prove the logic, not
+  the device). If the hand-back is ever silent on a real iPhone (context
+  left suspended by the OS), any tap re-arms it (a pointerdown retry is
+  wired).
 
 - Segment engine complete: gapless ordered playback, infinite loop with
   designed wrap fade, pause/resume with exact position (across segment

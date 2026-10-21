@@ -53,6 +53,31 @@
 .fcp-btn.is-playing::after {
   animation: fcp-breathe 4.6s ease-in-out infinite;
 }
+
+/* ---------- docked launcher (mount option `launcher`) ----------
+
+   The host page provides an element (e.g. a header slot, class fcp-slot);
+   the toggle button joins that layout as a compact icon button instead of
+   floating fixed in the corner, and the panel drops below it (positioned
+   by the component). Sizing matches common header icon buttons. */
+.fcp-slot { display: inline-flex; align-items: center; }
+.fcp-btn.fcp-inline {
+  position: static;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  background: var(--fcp-bg2);
+  color: var(--fcp-muted);
+  box-shadow: none;
+}
+.fcp-btn.fcp-inline:hover {
+  transform: none;
+  color: var(--fcp-text);
+  border-color: var(--fcp-gold);
+  background: var(--fcp-rowhover, rgba(255,255,255,.04));
+}
+.fcp-btn.fcp-inline .fcp-btn-icon { width: 15px; height: 15px; }
+.fcp-btn.fcp-inline::after { border-radius: 8px; inset: -4px; }
 @keyframes fcp-breathe {
   0%   { transform: scale(.92); opacity: 0; }
   35%  { opacity: .75; }
@@ -89,6 +114,15 @@
   visibility: visible;
   transform: none;
 }
+
+/* docked launcher: the panel drops below the button (top/right/left and
+   max-height are set by the component when it opens) */
+.fcp-panel.fcp-inline {
+  bottom: auto;
+  max-height: none;
+  transform: translateY(-6px) scale(.98);
+}
+.fcp-panel.fcp-inline.open { transform: none; }
 
 .fcp-head { margin-bottom: 14px; }
 .fcp-title {

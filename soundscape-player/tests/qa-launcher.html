@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="data:,">
+  <title>FCPlayer QA — docked launcher</title>
+  <link rel="stylesheet" href="../assets/player/fc-player.css">
+  <style>
+    :root, [data-theme='dark'] {
+      --bg:#16150e; --panel:#1d1c13; --panel2:#232218; --text:#e8e3d1; --muted:#a49e89;
+      --line:#2c2b1d; --gold:#d3ad4e; --shadow-lg:0 12px 48px rgba(0,0,0,.55);
+      --font-display:'Fraunces', Georgia, serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: Georgia, serif; margin: 0; }
+    header {
+      display:flex; align-items:center; gap:16px; height:54px; padding:0 18px;
+      background: var(--panel); border-bottom:1px solid var(--line);
+    }
+    header h1 { font-family: var(--font-display); font-size:17px; margin:0; flex:1; }
+    .utils { display:flex; align-items:center; gap:6px; }
+  </style>
+</head>
+<body>
+  <header id="hdr">
+    <h1>Host header</h1>
+    <div class="utils">
+      <span class="fcp-slot" id="slot"></span>
+      <button id="other" type="button">other</button>
+    </div>
+  </header>
+  <script src="../assets/player/fc-player.js"></script>
+  <script>
+    window.__inst = FCPlayer.mount({
+      launcher: '#slot',
+      panelAnchor: '#hdr',
+      title: 'QA set',
+      subtitle: '3 × 5s tones',
+      segments: ['fixtures/qa_0.aac', 'fixtures/qa_1.aac', 'fixtures/qa_2.aac']
+    });
+  </script>
+</body>
+</html>

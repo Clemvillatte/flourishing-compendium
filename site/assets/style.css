@@ -774,7 +774,10 @@ body.academy-mode.editor-open #academyView { width:calc(100% - 480px); }
 body:not(.rand-mode):not(.wiki-mode):not(.academy-mode):not(.graph-mode) #academyView { display:none; }
 body.academy-mode #hints { display:none; }
 body.academy-mode #hints.force-show { display:flex; }
-body.academy-mode #stats { display:inline; }
+/* academy shows the stats line, but NOT on phones: the ≤768px header hides
+   it there, and this override re-showing it pushes the utils cluster
+   (theme toggle, player launcher) offscreen */
+@media (min-width: 769px) { body.academy-mode #stats { display:inline; } }
 body.academy-mode { overflow-y:auto; }
 body.academy-mode #stage { overflow-y:auto; }
 

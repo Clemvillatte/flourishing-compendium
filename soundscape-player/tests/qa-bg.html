@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="data:,">
+  <title>FCPlayer QA — background keeper</title>
+  <link rel="stylesheet" href="../assets/player/fc-player.css">
+  <style>
+    :root, [data-theme='dark'] {
+      --bg:#16150e; --panel:#1d1c13; --panel2:#232218; --text:#e8e3d1; --muted:#a49e89;
+      --line:#2c2b1d; --gold:#d3ad4e; --shadow-lg:0 12px 48px rgba(0,0,0,.55);
+      --font-display:'Fraunces', Georgia, serif;
+    }
+    body { background: var(--bg); color: var(--text); font-family: Georgia, serif; margin: 0; padding: 60px 24px; }
+    h1 { font-family: var(--font-display); font-size: 24px; }
+  </style>
+</head>
+<body>
+  <h1>FCPlayer QA — background keeper</h1>
+  <script src="../assets/player/fc-player.js"></script>
+  <script>
+    // backgroundAudio: true forces the iOS lock-screen handover on, so the
+    // handover logic is testable on desktop Chromium (visibilitychange is
+    // faked from the spec; Playwright cannot emulate an iOS screen lock).
+    window.__inst = FCPlayer.mount({
+      title: 'QA set',
+      subtitle: '3 × 5s tones',
+      backgroundAudio: true,
+      segments: ['fixtures/qa_0.aac', 'fixtures/qa_1.aac', 'fixtures/qa_2.aac']
+    });
+  </script>
+</body>
+</html>

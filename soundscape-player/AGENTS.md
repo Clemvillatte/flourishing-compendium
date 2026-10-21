@@ -80,10 +80,12 @@ QA requirements (see `docs/DESIGN.md` §5 for the full quality bar):
   switches, stop mid-fade), layered sets (independent timelines, solo
   crossfades, combined-cycle math), the Endel order of the-dark-night
   (digest manifest), the wiki asset sync + wiring markers, the
-  `--fcp-fab-offset` host-page escape hatch, and the junction-aware fades
+  `--fcp-fab-offset` host-page escape hatch, the junction-aware fades
   (content trim + 12 ms equal-power crossfade, sections 15-16: scheduled
   metadata, rendered-output measurements on the fixture AND the real set,
-  resume-cursor regression). It captures page errors AND
+  resume-cursor regression), the header-docked launcher + panelAnchor
+  dropdown geometry (section 17), and the iOS background keeper handover
+  cycle (section 18). It captures page errors AND
   console errors. Add a spec case for every new behaviour you introduce.
 - The real wiki page is covered by `tests/wiki-qa.mjs` (both themes,
   1280 and 375 px, zero console errors). It needs `site/data/` (a deploy
@@ -127,6 +129,12 @@ The supported flow:
    runtime; `instance.loadSet(id)` / `instance.switchSet(id)` switch.
    Layered mounts: `FCPlayer.mount({ layers: [...] })` (see
    `docs/DESIGN.md` §3.6). The single-set mount API is unchanged.
+   Host-page layout: `launcher: <selector or element>` docks the toggle
+   button into that element (class `fcp-inline`; panel drops below it;
+   `panelAnchor` retargets the drop to e.g. the header). Mobile iOS:
+   `backgroundAudio` (default 'auto' = iPhone/iPad only) hands playback to
+   a plain `<audio>` element when the page is hidden so playback survives
+   a screen lock (see `docs/DESIGN.md` §3.7).
 5. Loop variety: `rotatePasses` is QUARANTINED — off by default, not enabled
    in any example. For a continuous recording the last→first junction is the
    loop endpoint; rotating passes moves that un-faded hard cut inside a

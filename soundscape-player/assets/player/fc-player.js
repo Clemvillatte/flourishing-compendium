@@ -29,6 +29,18 @@
  *    selection, session timer with its own gain-stage fade, volume,
  *    MediaSession, and a graceful <audio> element fallback if Web Audio AAC
  *    decoding is unavailable.
+ *  - DOCKED LAUNCHER: `mount({ launcher: <selector or element> })` docks the
+ *    toggle button into a host-page element (e.g. a header slot) instead of
+ *    the floating corner position — the button joins that layout as a compact
+ *    icon button (class fcp-inline) and the panel drops below it. With
+ *    `panelAnchor: <selector or element>` the panel instead drops from that
+ *    element's bottom edge (e.g. a tall header the button is docked into).
+ *    Without the options nothing changes: floating button + bottom panel.
+ *  - iOS LOCK-SCREEN HANDOVER: iOS suspends Web Audio when the page is hidden
+ *    (screen lock) — `backgroundAudio: 'auto'` (default; iOS/iPadOS only)
+ *    hands playback to a plain <audio> element (the one thing iOS keeps
+ *    sounding) fed a looping concatenated copy of the active set, and hands it
+ *    back to the engine at the exact position when the page returns.
  *
  * Usage:
  *   FCPlayer.mount({
@@ -81,7 +93,10 @@
                              // segment junction (see contentSpan note below)
     trimSilence: true,       // schedule only each buffer's audible content
                              // (strips AAC encoder priming/padding)
-    normalizeLayers: true     // scale layer gains by 1/sqrt(N) to avoid clipping
+    normalizeLayers: true,     // scale layer gains by 1/sqrt(N) to avoid clipping
+    backgroundAudio: 'auto'   // iOS lock-screen handover: 'auto' enables it on
+                             // iPhone/iPad only; true forces it on; false off.
+                             // See the background-keeper block below Session.
   };
 
   // rotatePasses note: for a continuous recording the last→first junction is the
@@ -97,6 +112,18 @@
     if (cls) n.className = cls;
     if (html != null) n.innerHTML = html;
     return n;
+  }
+
+  // 16-byte silent WAV — used to "unlock" an <audio> element inside a user
+  // gesture so iOS later allows it to play without one (background handover).
+  var SILENT_WAV = 'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=';
+
+  // iOS/iPadOS (all browsers are WebKit there): the only platform where Web
+  // Audio is suspended when the page is hidden while a plain <audio> element
+  // is allowed to keep sounding in the background.
+  function isAppleTouch() {
+    var ua = navigator.userAgent;
+    return /iPad|iPhone|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
   }
 
   function fmtTime(s) {
@@ -206,6 +233,7 @@
     this._soloIdx = null;     // layers mode: index of the soloed layer
     this._elapsedBase = 0;    // layers mode: elapsed play time (position display)
     this._playStart = 0;
+    this._bgKeeper = null;    // background keeper (iOS lock-screen handover)
   }
 
   Session.prototype.ensureContext = function () {
@@ -357,6 +385,12 @@
   };
 
   Session.prototype.play = function () {
+    // background keeper active (page hidden): control the <audio> element
+    if (this._bgKeeper && this._bgKeeper.active) {
+      var kp = this._bgKeeper.audio.play();
+      if (kp && kp.catch) kp.catch(function () {});
+      return;
+    }
     this.ensureContext();
     if (this.ctx.state === 'suspended') this.ctx.resume();
     if (this.mode === 'layers') {
@@ -368,9 +402,17 @@
     } else if (this.activeEngine) {
       this.activeEngine.play();
     }
+    // inside the user gesture: unlock + build the background keeper (no-op
+    // unless enabled — iOS/iPadOS by default)
+    this._bgPrepare();
   };
 
   Session.prototype.pause = function () {
+    // background keeper active (page hidden): control the <audio> element
+    if (this._bgKeeper && this._bgKeeper.active) {
+      try { this._bgKeeper.audio.pause(); } catch (e) {}
+      return;
+    }
     if (this.mode === 'layers') {
       if (!this.ctx) return;
       this._elapsedBase += Math.max(0, this.ctx.currentTime - this._playStart);
@@ -380,7 +422,293 @@
     }
   };
 
+  // ---------- background keeper (iOS lock-screen handover) ----------
+  //
+  // iOS suspends Web Audio the moment the page is hidden (screen lock, app
+  // switch) — no code can keep an AudioContext sounding in the background
+  // there; every iOS browser (Chrome included) is WebKit and behaves the same.
+  // What iOS DOES let keep sounding is a plain <audio> element, with
+  // lock-screen controls. So: while the page is used, the Web Audio engine
+  // plays (full quality — junction fades, set crossfades, filters); when the
+  // page goes hidden while playing, playback is handed to a dedicated
+  // <audio> element fed a single concatenated copy of the active set
+  // (looping, exact position), and handed back to the engine at the exact
+  // position when the page returns. Lock-screen play/pause works through the
+  // element's native controls (the OS pauses it directly; the hand-back
+  // respects that choice).
+  // Degradations while backgrounded: butt-joined junctions (no 12 ms
+  // crossfade), no circadian filter, timers/JS pause (the OS suspends scripts),
+  // no set switching. Not available in layers mode or <audio> fallback mode.
+
+  Session.prototype._bgEnabled = function () {
+    var o = this.opts.backgroundAudio;
+    return o === true || (o !== false && isAppleTouch());
+  };
+
+  // lazily create the keeper element + document listeners
+  Session.prototype._bgKeeperInit = function () {
+    if (this._bgKeeper) return this._bgKeeper;
+    var self = this;
+    var audio = el('audio', 'fcp-keeper');
+    document.body.appendChild(audio);
+    var k = this._bgKeeper = {
+      audio: audio,
+      engine: null,   // engine the blob was built for
+      blobUrl: null,
+      spans: null,   // per segment: {raw, head, content} of the concatenated set
+      primed: false,
+      active: false,
+      userPaused: false,
+      unlocked: false,
+      building: false,
+      gen: 0,        // build generation — stale builds are discarded
+      seekTo: null
+    };
+    audio.addEventListener('pause', function () { if (k.active) k.userPaused = true; });
+    audio.addEventListener('play', function () { if (k.active) k.userPaused = false; });
+    // a handover may race the blob's metadata load — apply the seek when ready
+    audio.addEventListener('loadedmetadata', function () {
+      if (k.active && k.seekTo != null) {
+        try { audio.currentTime = k.seekTo; } catch (e) {}
+        k.seekTo = null;
+      }
+    });
+    this._bgVis = function () { if (document.hidden) self._bgSuspend(); else self._bgResume(); };
+    document.addEventListener('visibilitychange', this._bgVis);
+    return k;
+  };
+
+  // called from play() — inside the user gesture: unlock the element now
+  // (iOS requires a gesture for the first play()), then build the blob.
+  Session.prototype._bgPrepare = function () {
+    if (this.mode === 'layers' || !this._bgEnabled()) return;
+    // Safari 16.4+: declare the page's audio as media playback. Web Audio
+    // defaults to the "ambient" session (the ringer switch mutes it);
+    // "playback" keeps it audible with the switch silent — and the handover
+    // below covers the screen lock, which the session type alone does not.
+    if (navigator.audioSession) {
+      try { navigator.audioSession.type = 'playback'; } catch (e) {}
+    }
+    var k = this._bgKeeperInit();
+    var a = k.audio;
+    if (!k.unlocked) {
+      k.unlocked = true;
+      a.src = SILENT_WAV;
+      a.muted = true;
+      var p = a.play();
+      var settle = function () { try { a.pause(); } catch (e) {} a.muted = false; };
+      if (p && p.then) p.then(settle, settle); else settle();
+    }
+    this._bgBuild();
+  };
+
+  // build (or rebuild) the concatenated blob + span table for the active
+  // engine. The decode pass doubles as pre-decoding: handing back is instant.
+  Session.prototype._bgBuild = function () {
+    var k = this._bgKeeper;
+    if (!k) return;
+    var eng = this.activeEngine;
+    if (!eng || eng.decodeFailed) return;
+    if (k.engine === eng && (k.primed || k.building)) return;
+    if (k.engine !== eng) {
+      if (k.blobUrl) { try { URL.revokeObjectURL(k.blobUrl); } catch (e) {} k.blobUrl = null; }
+      k.spans = null; k.primed = false; k.engine = eng;
+    }
+    // The concatenated blob is only valid for ADTS AAC inputs (raw AAC
+    // frames concatenate losslessly; other formats would produce a broken
+    // file). Non-AAC sets keep the single-segment best-effort handover.
+    var first = '';
+    if (eng.opts.segments && eng.opts.segments[0]) first = eng.opts.segments[0].split('?')[0];
+    else if (eng.opts.files && eng.opts.files[0]) first = eng.opts.files[0].name || '';
+    else if (eng.opts.source) first = (eng.opts.source.pattern || '').replace(/%0?4?d/, '0000');
+    if (!/\.aac$/i.test(first)) return;
+    var gen = ++k.gen;
+    var self = this;
+    k.building = true;
+    var jobs = [];
+    var n = eng._segmentCount();
+    for (var i = 0; i < n; i++) (function (i) {
+      jobs.push(eng._segmentData(i).then(function (buf) {
+        return eng.loadBuffer(i).then(function (ab) {
+          var s = eng._spanOf(ab);
+          return { i: i, buf: buf, raw: ab.duration, head: s.offset, content: s.duration };
+        });
+      }));
+    })(i);
+    Promise.all(jobs).then(function (rs) {
+      k.building = false;
+      if (gen !== k.gen || k.engine !== eng || self._disposed) return; // superseded / disposed
+      rs.sort(function (x, y) { return x.i - y.i; });
+      k.spans = rs.map(function (r) { return { raw: r.raw, head: r.head, content: r.content }; });
+      k.blobUrl = URL.createObjectURL(new Blob(rs.map(function (r) { return r.buf; }), { type: 'audio/aac' }));
+      k.primed = true;
+      // preload so a hidden handover can seek synchronously — but never
+      // swap the source of an element mid-handover (that restarts it); the
+      // next suspend picks the blob up
+      if (!k.active) {
+        var a = k.audio;
+        a.loop = true;
+        a.src = k.blobUrl;
+        a.preload = 'auto';
+      }
+    }).catch(function () { k.building = false; });
+  };
+
+  // raw (concatenated-file) position of an engine point (idx, content offset)
+  Session.prototype._bgRawAt = function (eng, idx, offset) {
+    var k = this._bgKeeper;
+    if (!k || !k.spans || idx >= k.spans.length) return null;
+    var raw = 0;
+    for (var i = 0; i < idx; i++) raw += k.spans[i].raw;
+    return raw + k.spans[idx].head + offset;
+  };
+
+  // engine point {idx, offset, pos} from a raw position (inverse of _bgRawAt)
+  Session.prototype._bgFromRaw = function (eng, raw) {
+    var k = this._bgKeeper;
+    if (!k || !k.spans) return null;
+    var cum = 0, pos = 0;
+    for (var i = 0; i < k.spans.length; i++) {
+      var s = k.spans[i];
+      if (raw < cum + s.raw) {
+        var off = Math.min(Math.max(raw - cum - s.head, 0), s.content);
+        return { idx: i, offset: off, pos: pos + off };
+      }
+      cum += s.raw;
+      pos += s.content;
+    }
+    // past the end (loop boundary): clamp to the set's end
+    var last = k.spans[k.spans.length - 1];
+    return { idx: k.spans.length - 1, offset: last.content, pos: pos };
+  };
+
+  // page hidden while playing: pause the engine (captures the exact position)
+  // and hand over to the keeper. Two modes: the full concatenated set
+  // (k.mode 'set') when the blob is primed, else the current segment only
+  // (k.mode 'segment', best effort — no looping, no advance).
+  Session.prototype._bgSuspend = function () {
+    var k = this._bgKeeper;
+    if (!k || !k.engine || this.mode === 'layers') return;
+    if (this.playingState() !== 'playing') return;
+    var eng = this.activeEngine;
+    if (!eng || eng !== k.engine || eng.decodeFailed) {
+      if (eng && eng !== k.engine) this._bgBuild(); // track the new set
+      return;
+    }
+    if (eng.state === 'playing') eng.pause();
+    var idx = eng.segIndex, offset = eng.segOffset;
+    var a = k.audio;
+    k.userPaused = false;
+    k.startFailed = false;
+    // the engine's committed pause point — the hand-back fallback when the
+    // keeper could not seek (or failed to start)
+    k.resumePt = { idx: idx, offset: offset, pos: eng._pausedPos || 0 };
+    if (k.primed && k.blobUrl) {
+      k.mode = 'set';
+      k.active = true;
+      if (a.src !== k.blobUrl) a.src = k.blobUrl;
+      a.loop = true;
+      a.volume = this.ui.getVolume();
+      var raw = this._bgRawAt(eng, idx, offset);
+      if (raw != null) {
+        k.seekTo = raw;
+        try { a.currentTime = raw; } catch (e) {} // works when metadata is loaded
+      }
+      var p = a.play();
+      if (p && p.catch) p.catch(function () { k.active = false; k.startFailed = true; });
+    } else {
+      // blob not ready (or not buildable for this format) — best effort:
+      // keep the current segment sounding; the set position is kept for
+      // the hand-back
+      k.mode = 'segment';
+      k.active = true;
+      a.loop = false;
+      a.src = eng._segmentURL(idx);
+      a.volume = this.ui.getVolume();
+      var head = 0;
+      if (eng.buffers && eng.buffers[idx]) head = eng._spanOf(eng.buffers[idx]).offset;
+      var t = offset + head;
+      k.seekTo = t;
+      try { a.currentTime = t; } catch (e) {}
+      var p2 = a.play();
+      if (p2 && p2.catch) p2.catch(function () { k.active = false; k.startFailed = true; });
+    }
+  };
+
+  // page visible again: hand playback back to the engine at the keeper's
+  // exact position (unless the user paused from the lock screen — stay
+  // paused). If the keeper never managed to seek or start, the engine stays
+  // at its suspend point.
+  Session.prototype._bgResume = function () {
+    var k = this._bgKeeper;
+    if (!k || !k.active) return;
+    k.active = false;
+    var a = k.audio;
+    var eng = this.activeEngine;
+    var wasPaused = k.userPaused;
+    try { a.pause(); } catch (e) {}
+    var resumed = false;
+    if (eng && eng === k.engine && !eng.decodeFailed && !k.startFailed) {
+      if (k.mode === 'set') {
+        var m = this._bgFromRaw(eng, a.currentTime || 0);
+        if (m) { this._bgApplyResume(eng, m.idx, m.offset, m.pos); resumed = true; }
+      } else if (k.resumePt) {
+        // single-segment best effort: map the element time back onto the
+        // segment (head trim if the buffer is decoded); if the seek never
+        // applied, stay at the suspend point
+        var rp = k.resumePt;
+        var head = 0;
+        if (eng.buffers && eng.buffers[rp.idx]) head = eng._spanOf(eng.buffers[rp.idx]).offset;
+        var t = a.currentTime || 0;
+        var off = rp.offset, pos = rp.pos;
+        if (t > 0.2) { off = Math.max(0, t - head); pos = rp.pos + (off - rp.offset); }
+        this._bgApplyResume(eng, rp.idx, off, pos);
+        resumed = true;
+      }
+      if (resumed && !wasPaused) {
+        eng.play();
+        // iOS can leave the context suspended after a lock; the first
+        // interaction with the page re-arms it if resume() alone failed
+        if (eng.ctx && eng.ctx.state !== 'running') this._bgWatchCtx(eng);
+      }
+    }
+    k.userPaused = false;
+    k.startFailed = false;
+    this.ui.update();
+  };
+
+  // set the engine's resume point (mirrors what pause() commits)
+  Session.prototype._bgApplyResume = function (eng, idx, offset, pos) {
+    eng._pendingResume = null;
+    eng.segIndex = idx;
+    eng.segOffset = offset;
+    eng._pausedPos = pos;
+    if (eng.state !== 'paused') eng.state = 'paused';
+  };
+
+  Session.prototype._bgWatchCtx = function (eng) {
+    var self = this;
+    var retry = function () {
+      document.removeEventListener('pointerdown', retry);
+      document.removeEventListener('keydown', retry);
+      if (self._disposed || !eng.ctx) return;
+      try { if (eng.ctx.state !== 'running') eng.ctx.resume(); } catch (e) {}
+    };
+    document.addEventListener('pointerdown', retry);
+    document.addEventListener('keydown', retry);
+  };
+
+  // stop the keeper if it is active (explicit stop, set switch, …) without
+  // touching the engine
+  Session.prototype._bgDeactivate = function () {
+    var k = this._bgKeeper;
+    if (!k) return;
+    if (k.active) { k.active = false; try { k.audio.pause(); } catch (e) {} }
+    k.userPaused = false;
+  };
+
   Session.prototype.stop = function () {
+    this._bgDeactivate(); // stop the background keeper if it is active
     this._switchGen++; // invalidate pending crossfade retirements
     // stop cancels the session timer outright: an old deadline (or its
     // pending fade timeout) must never stop a subsequently restarted session
@@ -429,6 +757,7 @@
     for (i = 0; i < this.engines.length; i++) if (this.engines[i].setId === id) target = this.engines[i];
     if (!target || target === this.activeEngine) return;
     var out = this.activeEngine;
+    this._bgDeactivate(); // the keeper must not outlive the set it plays
     this.ensureContext();
     if (this.ctx.state === 'suspended') this.ctx.resume();
     this._switchGen++;
@@ -478,6 +807,9 @@
     }
     this.ui.onSetSwitched(target);
     this.ui.update();
+    // keep the background keeper tracking the newly active set (no-op unless
+    // enabled; rebuilds the blob for it in the background)
+    if (this._bgKeeper && !this._bgKeeper.active) this._bgBuild();
   };
 
   Session.prototype._rampEngineGain = function (engine, to, dur, fromOverride) {
@@ -529,6 +861,14 @@
   Session.prototype.dispose = function () {
     this._disposed = true;
     this._switchGen++;
+    if (this._bgKeeper) {
+      if (this._bgVis) document.removeEventListener('visibilitychange', this._bgVis);
+      // removing an element does not stop it — pause before removal
+      try { this._bgKeeper.audio.pause(); } catch (e) {}
+      try { this._bgKeeper.audio.remove(); } catch (e) {}
+      if (this._bgKeeper.blobUrl) { try { URL.revokeObjectURL(this._bgKeeper.blobUrl); } catch (e) {} }
+      this._bgKeeper = null;
+    }
     if (this.tickId) clearInterval(this.tickId);
     if (this._timerTO) clearTimeout(this._timerTO);
     for (var i = 0; i < this.engines.length; i++) {
@@ -1256,8 +1596,37 @@
       '<div class="fcp-tracks" role="listbox" aria-label="Tracks"></div>',
     ].join('');
 
-    document.body.appendChild(this.btn);
+    // panelAnchor: optional selector/element the open panel drops from (its
+    // bottom edge + gap). Default: the docked button itself. Hosts that dock
+    // the button into a tall header pass the header, e.g. '#topbar'.
+    this.panelAnchor = null;
+    if (typeof opts.panelAnchor === 'string') this.panelAnchor = document.querySelector(opts.panelAnchor);
+    else if (opts.panelAnchor && opts.panelAnchor.nodeType === 1) this.panelAnchor = opts.panelAnchor;
+
+    // launcher: dock the toggle button into a host-page element (class
+    // fcp-inline) instead of the floating corner position. The panel stays on
+    // <body> but drops below the docked button (positioned in _placeInline).
+    this.launcherHost = null;
+    var host = null;
+    if (typeof opts.launcher === 'string') host = document.querySelector(opts.launcher);
+    else if (opts.launcher && opts.launcher.nodeType === 1) host = opts.launcher;
+    if (host) {
+      this.launcherHost = host;
+      this.btn.classList.add('fcp-inline');
+      this.panel.classList.add('fcp-inline');
+      host.appendChild(this.btn);
+    } else {
+      document.body.appendChild(this.btn);
+    }
     document.body.appendChild(this.panel);
+
+    // keep an open inline panel under the button when the viewport changes
+    if (this.launcherHost) {
+      this._onResize = function () {
+        if (self.panel.classList.contains('open')) self._placeInline();
+      };
+      window.addEventListener('resize', this._onResize);
+    }
 
     this.$ = function (sel) { return this.panel.querySelector(sel); };
     this.titleEl = this.panel.querySelector('.fcp-title');
@@ -1327,6 +1696,32 @@
   UI.prototype.togglePanel = function () {
     this.panel.classList.toggle('open');
     this.btn.classList.toggle('active', this.panel.classList.contains('open'));
+    if (this.launcherHost && this.panel.classList.contains('open')) this._placeInline();
+  };
+
+  // Position the panel as a dropdown: below the anchor (the docked button,
+  // or the `panelAnchor` element when the host provided one), right-aligned
+  // with the button (clamped to the viewport), full-width margins on narrow
+  // screens, never taller than the space below it.
+  UI.prototype._placeInline = function () {
+    if (!this.launcherHost) return;
+    var r = this.btn.getBoundingClientRect();
+    var vw = window.innerWidth, vh = window.innerHeight;
+    if (vw <= 480) {
+      this.panel.style.left = '16px';
+      this.panel.style.right = '16px';
+    } else {
+      this.panel.style.left = 'auto';
+      this.panel.style.right = Math.max(8, Math.round(vw - r.right)) + 'px';
+    }
+    var top = Math.max(8, Math.min(Math.round(r.bottom + 8), vh - 60));
+    if (this.panelAnchor) {
+      var ar = this.panelAnchor.getBoundingClientRect();
+      if (ar.height > 0) top = Math.max(top, Math.round(ar.bottom + 8));
+    }
+    this.panel.style.top = Math.min(top, Math.max(8, vh - 60)) + 'px';
+    this.panel.style.bottom = 'auto';
+    this.panel.style.maxHeight = Math.max(120, Math.round(vh - top - 12)) + 'px';
   };
 
   UI.prototype.getVolume = function () { return this.volume; };
@@ -1582,6 +1977,9 @@
         try {
           _current.session.dispose();
         } catch (x) {}
+        if (_current.ui && _current.ui._onResize) {
+          try { window.removeEventListener('resize', _current.ui._onResize); } catch (x) {}
+        }
         if (_current.ui && _current.ui.panel.parentNode) _current.ui.panel.remove();
         if (_current.ui && _current.ui.btn.parentNode) _current.ui.btn.remove();
         _current = null;

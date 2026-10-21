@@ -42,6 +42,14 @@ itself, not the repo root.
    <link rel="stylesheet" href="assets/player/fc-player.css">
    ```
 
+   In the header (`.topbar-utils`, right after the Essay control — on phones
+   the header keeps only brand + theme toggle visible, so the slot lands
+   between them there):
+
+   ```html
+   <span class="fcp-slot" id="fcLauncher"></span>
+   ```
+
    Before `</body>`:
 
    ```html
@@ -59,6 +67,8 @@ itself, not the repo root.
      if (mq.addEventListener) mq.addEventListener('change', fabOffset);
      var SETS = [/* 16 [slug, title, count] entries — see the page */];
      window.__fcInst = FCPlayer.mount({
+       launcher: '#fcLauncher', /* dock the toggle button into the header slot */
+       panelAnchor: '#topbar',  /* the panel drops from the header's bottom edge */
        setCrossfade: 4,
        sets: SETS.map(function (s) {
          return {
@@ -74,7 +84,7 @@ itself, not the repo root.
 ## QA (run before pushing any change to the wiring)
 
 - `soundscape-player` suite: `npx serve . -l 8791 --no-clipboard` + `node tests/spec.mjs`
-  (99 checks — includes the integration lock sections 12–14).
+  (154 checks — includes the integration lock sections 12–18).
 - Wiki page: build the data (`python3 scripts/build.py --src . --version test`
   from the repo root — `site/data/` is a deploy artifact), serve `site/` as
   the domain root, then `node tests/wiki-qa.mjs <url>` from `soundscape-player/`.
@@ -83,7 +93,15 @@ itself, not the repo root.
 ## Notes
 
 - The component is fully self-contained; the wiki's existing scripts and
-  styles are untouched apart from the added wiring block.
+  styles are untouched apart from the added wiring block and the header slot
+  (`.fcp-slot` span) the launcher docks into.
+- The player button is DOCKED IN THE HEADER via `launcher: '#fcLauncher'`
+  (user-approved placement, spec section 17 + wiki-qa geometry checks). The
+  `--fcp-fab-offset` wiring is kept as a harmless fallback for hosts that
+  remove the launcher option (the floating FAB position still honours it).
+- `backgroundAudio: 'auto'` (default) additionally gives iPhone/iPad users
+  continuous playback when the screen locks (handover to a plain `<audio>`
+  element — see `docs/DESIGN.md` §3.7 and HANDOFF.md; needs a device check).
 - To change the sets later, update both copies (or re-run the copy) — spec
   section 13 fails the suite if `site/` drifts from the component assets.
 - The wiki deploys via GitHub Pages on push to main; `site/` is uploaded as
