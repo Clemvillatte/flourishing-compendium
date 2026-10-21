@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 36** — Guard against epistemic failure modes
 
-Guard against the characteristic failure modes of collective knowledge — groupthink (Janis, 1972), polarization (Sunstein, 2002), echo chambers and epistemic bubbles (Nguyen, 2020), misinformation and conspiracy (Lewandowsky et al., 2012; van der Linden, 2022), and epistemic injustice (Fricker, 2007). The adaptive stance is to treat these as design problems, not moral failings.
+Nguyen distinguishes two ways a group's knowledge can fail — and argues the two need different repairs:
 
-**Plain words** Collective knowledge has failure modes — groupthink, polarisation, echo chambers, cascades. Know the failure modes like you know your own cognitive biases: not to eliminate them, but to install the alarms. Groups need checklists too.
+> "Loosely, an epistemic bubble is a social epistemic structure in which some relevant voices have been excluded through omission. Epistemic bubbles can form with no ill intent, through ordinary processes of social selection and community formation."
 
-*For example:* The unanimous decision that nobody privately agreed with — each person assuming the others believed it. Classic groupthink. The fix is embarrassingly simple: anonymous first votes.
+(Nguyen, 2020, "Echo Chambers and Epistemic Bubbles", Episteme 17(2), p. 142, [course-hosted PDF](https://www.cs.swarthmore.edu/~meeden/phil27/s24/papers/EpistemicBubbles.pdf).)
+
+The opened article's abstract adds the design point: "each type of structure requires a distinct intervention. Mere exposure to evidence can shatter an epistemic bubble, but may actually reinforce an echo chamber."
+
+**Plain words** Before assuming a group is closed, check which kind: are relevant voices simply missing from the feed, or are they present and being explained away as unreliable? The two cases call for different moves — one needs the missing sources added; the other needs the trust question addressed, not more evidence.
+
+*For example:* Imagined: a team where every member privately doubts a plan but each assumes the others support it — the vote looks unanimous.
+
+## Sources
+
+- [Nguyen, "Echo Chambers and Epistemic Bubbles", Episteme 17(2), 141-161 — course-hosted PDF](https://www.cs.swarthmore.edu/~meeden/phil27/s24/papers/EpistemicBubbles.pdf) — the bubble definition quoted (p. 142); the distinct-intervention sentence quoted from the article's abstract (p. 141)
+
 ## Psychology parallels
 
 - [[Janis|Janis]] (1972) on groupthink; Sunstein (2002) on the law of group polarization; Nguyen (2020) on echo chambers; Lewandowsky et al. (2012) on misinformation; van der Linden (2022) on inoculation against misinformation; Fricker (2007) on epistemic injustice.
