@@ -12,11 +12,23 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 8** — Treat the sociocultural level as nested within the biophysiological
 
-Treat the sociocultural level as the context in which the biophysiological level operates. The biophysiological level (sleep, nutrition, stress, exercise, interoception) is enacted in a social world — a family that eats together or alone, a workplace that permits or forbids sleep, a neighborhood that is safe or dangerous for exercise. The two levels are nested, and interventions at one level propagate to the other.
+The WHO states the nesting plainly:
 
-**Plain words** Your biology runs on social rails — sleep, food, stress, movement all happen in a social world. The family that eats together or alone, the job that permits rest or doesn't: your body's habits have social landlords. Fix the lease where you can.
+> Social determinants of health – broadly defined as the conditions in which people are born, grow, live, work and age, and people's access to power, money and resources – have a powerful influence on health inequities.
 
-*For example:* The insomniac who fixes their sleep by fixing their evening — the household quiet hours were the treatment. The melatonin was fighting the architecture.
+(WHO, Social determinants of health, topic page; [who.int](https://www.who.int/health-topics/social-determinants-of-health))
+
+Sleep, food, stress and movement are conditions of daily life in exactly that sense: they happen in a household, a workplace, a neighborhood. The page also names structural drivers of those conditions of daily life, such as macroeconomic and urbanization policies and governance, so the influence runs from structure to daily life to body. The principle statement's practical reading: interventions aimed at the conditions of daily life are aimed at the biophysiological level by another route.
+
+**Plain words**
+Your biology runs on social rails: sleep, food, stress and movement all happen in a social world. The family that eats together or alone, the job that permits rest or doesn't, are the landlords of your body's habits. Fix the lease where you can.
+
+*For example:* Imagine the insomniac who fixes their sleep by fixing their evening: the household quiet hours were the treatment, and the melatonin was fighting the architecture.
+
+## Sources
+
+- WHO, Social determinants of health (topic page, 2019) — [who.int](https://www.who.int/health-topics/social-determinants-of-health)
+
 ## Psychology parallels
 
 - [[The social gradient of health|The social gradient of health]] (Marmot, 2004; Marmot and Wilkinson, 2006) — health outcomes track social position; the social patterning of stress physiology (McEwen, 1998); the embodiment of social experience (Krieger, 2005); the social determinants of mental health (WHO, 2010).
