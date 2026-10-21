@@ -342,3 +342,19 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 
 ### w1k "Schadenfreude's relational costs" — quote fidelity PASS (verification pass)
 - Pagliaro et al. 2019 sentence EXACT vs the opened author-copy PDF (General discussion).
+
+### w1k "Being-in-the-world" — quote fidelity PASS (verification pass)
+- Wrathall SEP passage EXACT vs the opened Stanford Encyclopedia entry (section 2.2).
+
+## Verification-pass summary (final, this session)
+Taper-window spot checks, all quote-fidelity PASS: w1j batch 8/8 (Fundamental attribution
+error, Gate control theory, Grounding techniques, Harsh self-criticism, Hormetic exposure
+research, Identity, Integrity as consistency, Integrative Theory of Communication Work,
+Framing effects), w1i late items 8/8, w1k spot checks (Redemption sequences, Risk
+perception, Schadenfreude's relational costs, Being-in-the-world), w1aa final segment 9/9
+(earlier), w1l residual items 2 (Merrick closed; Tillich primary carrier found). No
+fabricated quotations found in any sampled page. Open routed findings for the supervisor:
+Hermeneutic circle comma (unresolved OCR punctuation), Grounding hedge, Homo faber/
+Hostility/Hubris/Identity-statuses bare Sources entries, H/T hermeneutic-circle duplicate
+pages, w1j Humanizer meta-section cleanups. No baton held; w1p released (band complete,
+QC-closed).
