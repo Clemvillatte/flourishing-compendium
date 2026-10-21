@@ -145,3 +145,10 @@
 - M046 passage inspected: Popol Vuh twins' ruse (Bazzett 2018) — attribution now accurate. M005 passage inspected: quotes the same Maya Daykeeping excerpt (upcolorado p.7, tz'ite' seeds) — M052/M005 relation accurate.
 - State check: the PP014 alias flag had been OVERWRITTEN by the later reopen command (single-slot flags) — re-set this round with the alias defect + supervisor-disposition-needed note.
 - All 19 touched/changed files revalidated after final edits: ALL OK.
+
+## QC round 4 (advisor verification fixes, final)
+- A037->M046 proposal REMOVED: the inspected M046 passage (Popol Vuh twins, Bazzett 2018) establishes trickery, not the cleverness-with-humility equivalence the why-clause asserted. Disposition recorded as no-change.
+- M024->M022 why-clause de-labeled ("Nahua" dropped — M022's text is Maya farming): now "complementary halves of a rooted life". Dignity->M034 and Self-forgiveness->PP042 why-clauses rewritten as substantive relationship clauses (public prose per protocol). proposals/p1zze.json: 12 reciprocals, all targets resolve (0 unresolved).
+- MO041 validated (was missing from the round-3 final list): ok. Changed-file list re-derived from git diff: 18 principle files edited by this worker (M012, M019, M022, M030, M031, M032, M034, M040, M041, M052, M054, MO023, MO041, MO050, MO067, PP014, PP035, PP042); M046/M051 were inspected, not edited. All 18 validated after final edits: ALL OK.
+- SCOPE CLAIM CORRECTED: the round-3 "everything else reviewed and dispositioned" overstated — the displayed 721-candidate review was itself output-truncated. What is actually established: band-wide mention checks run for all 30 items with no finder truncation; warranted candidates examined individually; selected-candidate dispositions recorded here; no exhaustive review of every generic lexical hit (not required by protocol). No further corpus-wide pass needed.
+- Alias flag reworded: "misleading meta-analysis label for the cited studies" (the studies are not meta-analyses; no claim made about publications elsewhere).

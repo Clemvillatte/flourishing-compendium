@@ -29,7 +29,7 @@
   {
    "into": "M024 \u2014 Root your work in the people it serves",
    "link": "M022 \u2014 Root yourself in a place",
-   "why": "the two Nahua rootedness principles, one in place and one in people, belong side by side"
+   "why": "rooting yourself in a place and rooting your work in the people it serves are complementary halves of a rooted life"
   },
   {
    "into": "Autonomous versus controlled motivation",
@@ -44,7 +44,7 @@
   {
    "into": "Self-forgiveness",
    "link": "PP042 \u2014 Practise forgiveness as release",
-   "why": "the self-forgiveness trial cited on this principle belongs with the self-forgiveness research concept"
+   "why": "the self-forgiveness trials cited on the principle are the studies the self-forgiveness concept collects"
   },
   {
    "into": "M005 \u2014 Read the signs of the times humbly",
@@ -52,14 +52,9 @@
    "why": "both principles draw on the same Maya Daykeeping excerpt, one for the divinatory reading and one for the service role"
   },
   {
-   "into": "A037 \u2014 Distinguish cleverness (deinotes) from practical wisdom",
-   "link": "M046 \u2014 Trust cleverness joined to humility",
-   "why": "Aristotle's caution that cleverness without practical wisdom will serve any end, and the Popol Vuh reading of the twins' trickery working only as ruse joined to humility, draw the same distinction"
-  },
-  {
    "into": "Dignity",
    "link": "M034 \u2014 Carry yourself with dignity in every station",
-   "why": "the Nahua principle on dignity of conduct in every station belongs on the dignity hub's principle lists"
+   "why": "the principle reads dignity as conduct in every station rather than rank, a Mesoamerican entry under the dignity concept"
   },
   {
    "into": "Daily awe",
@@ -67,5 +62,5 @@
    "why": "the Bai et al. study of awe and daily stress summarized on this principle is a study of awe in daily life"
   }
  ],
- "notes": "p1zze closeout proposals (worker-p1zze-b7e3f9c2). Reciprocals only; all 13 verified to lack the edge via graph check (short IDs) and all targets resolve (enrich_find resolve). From the full-band saturation mention pass (30/30 items, --max 400, complete output reviewed; core terms and no-change dispositions in sources/p1zze/ledger.md)."
+ "notes": "p1zze closeout proposals (worker-p1zze-b7e3f9c2). Reciprocals only; all 12 verified to lack the edge via graph check (short IDs) and all targets resolve (enrich_find resolve, 0 unresolved). A037->M046 removed at QC round 4: the inspected M046 passage establishes trickery only, not the humility equivalence. From the band-wide mention checks (30/30 items, --max 400, no truncation; warranted candidates reviewed, selected-candidate dispositions in sources/p1zze/ledger.md)."
 }

@@ -34,10 +34,10 @@
  ],
  "in_progress": null,
  "flagged": {
-  "PP014": "ALIAS DEFECT (supervisor disposition needed): body link '[[Awe|Awe and well-being: a meta-analysis]]' asserts a nonexistent meta-analysis; protected markup, do not edit as worker. Prior QC flag was overwritten by reopen cmd — re-set 2026-10-21"
+  "PP014": "ALIAS DEFECT (supervisor disposition needed): body link '[[Awe|Awe and well-being: a meta-analysis]]' uses a misleading meta-analysis label for the cited studies, which are not meta-analyses; protected markup, do not edit as worker. Re-set 2026-10-21 QC round 4"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T06:27:54+00:00",
+ "updated": "2026-10-21T06:29:47+00:00",
  "band_done": false
 }
