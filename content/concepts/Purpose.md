@@ -11,8 +11,9 @@ Purpose — the having of a why. Frankl's term for what enables bearing almost a
 
 ## Related concepts
 
-- [[Meaning]] — the broader concept in which purpose is one dimension in this compendium
 
+- [[Meaning]] — the broader concept in which purpose is one dimension in this compendium
+- [[MO061]] — A principle drawing on Frankl's account of meaning as motivation
 ## Sources
 - Wikipedia Purpose: https://en.wikipedia.org/wiki/Purpose
 

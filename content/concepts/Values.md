@@ -11,8 +11,9 @@ Values — the chosen directions that give action worth. In ACT they are the com
 
 ## Related concepts
 
-- [[BE062]] — the values-clarification review and Acting-on-Values trial test what acting on values does
 
+- [[BE062]] — the values-clarification review and Acting-on-Values trial test what acting on values does
+- [[SE014]] — A principle on naming and examining one's priorities
 ## Sources
 - Wikipedia Value (ethics): https://en.wikipedia.org/wiki/Value_(ethics)
 

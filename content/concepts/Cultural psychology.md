@@ -31,10 +31,16 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 ## Related concepts
 
 
+
+
+
 - [[SO044]] — the WEIRD critique principle; its psychology parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the review's central distinction, given its own page
 - [[Interdependent self-construal]] — the interdependent side of the distinction, given its own page
 - [[Moral foundations]] — the Shweder ethics the five foundations were derived from
+- [[SE005]] — A principle drawing on independent and interdependent self-construals
+- [[SO022]] — A principle on cultural humility as the practice the article defines against cultural competence
+- [[Cultural relativism]] — questions about cultural variation in customs and moral outlooks
 ## Sources
 
 - Markus and Kitayama, 1991

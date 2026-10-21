@@ -43,6 +43,7 @@ The principles make the sequence a practice. SE011, CO061 and CO010 give the nar
 
 
 
+
 - [[Narrative identity]] — the construct the sequences are coded within
 - [[Life story model]] — McAdams's full model, where the sequences live
 - [[Post-traumatic growth]] — the growth the redeemed story reports
@@ -50,6 +51,7 @@ The principles make the sequence a practice. SE011, CO061 and CO010 give the nar
 - [[Fixed views of self]] — the frozen story, the diagnostic contrast
 - [[Fusion of horizons]] — the narrative form the fusion often takes
 - [[Narrative identity theory McAdams]] — the coding scheme the McAdams program runs on
+- [[SE042]] — A principle about revising life narratives
 ## Cited in psychology parallels
 
 - [[P100 — Treat the past as resource, not prison]]

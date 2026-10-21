@@ -28,6 +28,10 @@ In an ordinary disagreement, try meeting the immediate practical need without ad
 **For example**
 A neighbor feud in which one side brings over the mail that could have been kept, instead of keeping it.
 
+## Related concepts
+
+- [[SP066]] — Daodejing 63's maxim to recompense injury with kindness states the rule; Spinoza's III, P43 and IV, P46 supply the mechanism, hatred fed by reciprocation and quenched by love.
+
 ## Sources
 
 - [The Tao Teh King, trans. James Legge (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — ch. 63 §1-2

@@ -40,10 +40,11 @@ The compendium builds its member-of-the-whole and kindness-to-strangers practice
 
 ## Related concepts
 
+
 - [[Citizen of the world]]
 - [[Oikeiosis]]
 - [[Hospitality]]
-
+- [[S107]] — A Stoic principle on the universe as the common fatherland
 ## Sources
 
 - [Kleingeld & Brown, Cosmopolitanism — Stanford Encyclopedia of Philosophy (opened)](https://plato.stanford.edu/entries/cosmopolitanism/)

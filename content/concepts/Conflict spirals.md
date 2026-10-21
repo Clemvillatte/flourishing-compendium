@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Conflict spirals” — Gottman.
 
+## Related concepts
+
+- [[SP066]] — The concept names escalation in close relationships; Spinoza's III, P43 offers a philosophical comparison, hatred increased by reciprocated hatred, and IV, P46 the recommended exit.
+
 ## Sources
 
 - Gottman

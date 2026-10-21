@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Identity — the answer to "who am I": whether a fixed essence (ātman), a construction of aggregates (anattā), a narrative (Ricoeur), or a relation ([[Ubuntu|Ubuntu]]). The graph's traditions offer every option.
 
+## Related concepts
+
+- [[SE036]] — A principle on reconsidering identity labels after life transitions, using Nietzsche's metamorphoses as an analogy
+
 ## Sources
 - SEP Personal Identity: https://plato.stanford.edu/entries/identity-personal/
 

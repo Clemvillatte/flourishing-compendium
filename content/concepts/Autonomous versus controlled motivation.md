@@ -15,6 +15,10 @@ This page holds the comparison between the two halves of the self-determination 
 
 Within extrinsic motivation the theory grades autonomy: "extrinsic motivation can vary greatly in the degree to which it is autonomous" (Ryan and Deci 2000). Ryan and Deci describe external regulation as the least autonomous form of extrinsic motivation. Identification is more autonomous, and integration is the most autonomous form. Introjection is internal regulation that remains controlling. For each half, see the granular pages above.
 
+## Related concepts
+
+- [[MO062]] — A principle on how reward categories related to intrinsic motivation in the reviewed studies
+
 ## Sources
 
 - Deci and Ryan, 2000

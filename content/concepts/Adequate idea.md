@@ -9,6 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 For Spinoza, an idea that is understood through its cause rather than through random association. Possessing adequate ideas is being active rather than passive ([SEP Spinoza](https://plato.stanford.edu/entries/spinoza/)).
 
+## Related concepts
+
+
+- [[SP044]] — Spinoza's account of method directed by a given true idea
+- [[SP056]] — The concept defines the idea-side of activity; SP056 works the affective side, how a joy becomes an activity when the ideas it springs from are adequate.
 ## Sources
 - SEP Spinoza: https://plato.stanford.edu/entries/spinoza/
 

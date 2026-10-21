@@ -43,6 +43,7 @@ Where the Buddhist mark stresses passing, the Daoist chapter stresses the return
 
 ## Related concepts
 
+
 - [[Buddhist emptiness of inherent nature]] — the arising and ceasing that chapter 24 ties to dependent origination
 - [[Anicca]] — the Buddhist member of this family, treated on its own page
 - [[Anatta]] — the not-self mark the same Three Marks group carries
@@ -53,7 +54,7 @@ Where the Buddhist mark stresses passing, the Daoist chapter stresses the return
 - [[The seasons of life]] — cyclical change across a life
 - [[Acceptance]] — the response the fact asks for
 - [[Mindfulness]] — the observation practice that watches states pass
-
+- [[S118]] — A Stoic principle on accepting loss as return
 ## Sources
 
 - Buddha, Dhammapada — [Dhammapada 20, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.than.html) — verse 277 quoted above

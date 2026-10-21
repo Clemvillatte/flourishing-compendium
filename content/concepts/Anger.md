@@ -18,8 +18,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 
 
+
 - [[Anger regulation research]] — the evidence base for how to work with anger
 - [[D074]] — D074 applies Daodejing 68's account of skilled action without anger
 - [[K040]] — Shantideva's account of hatred's effects in Bodhicharyavatara 6.1-5
 - [[SP030]] — A comparison with SP030 on hatred's self-perpetuation across traditions
 - [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
+- [[SP031]] — Spinoza's definitions of anger and revenge, with evil defined in the P39 note as pain that frustrates our longings

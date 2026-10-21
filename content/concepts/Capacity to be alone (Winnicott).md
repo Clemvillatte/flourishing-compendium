@@ -24,12 +24,15 @@ SE058 "Recognise self and solitude: the self needs alone time" treats solitude a
 
 ## Related concepts
 
+
+
 - [[Solitude]] — chosen aloneness compared here with Winnicott's account of contented aloneness
 - [[Loneliness]] — distressing disconnection contrasted with the contented aloneness the paper describes
 - [[Object relations theory]] — compare that page's account of internalised relationships with Winnicott's "good internal object"
 - [[Avoidance versus attentional engagement]] — avoidance-driven withdrawal distinguished from contented aloneness
 - [[The capacity to be alone]] — the sibling page carrying the same Winnicott citation
-
+- [[SE053]] — Winnicott's ego-relatedness offers a comparison: aloneness in the presence of support, read against this principle's autonomy-need
+- [[AF058]] — A principle about responding to loneliness, listed for comparison
 ## Sources
 
 - [Winnicott, "The Capacity to be Alone," International Journal of Psycho-Analysis 39(5) (1958), pp. 416-420](https://web.english.upenn.edu/~cavitch/pdf-library/Winnicott_Capacity_To_Be_Alone.pdf) — the primary text; all quotations verbatim; paper consulted as reproduced in The Collected Works of D. W. Winnicott, vol. 5

@@ -13,8 +13,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ## Related concepts
 
 
+
 - [[Social comparison]] — the upward comparison that splits envy's two forms
 - [[D117]] — D117's Daodejing 3 passage warns that rankings breed rivalry; the page distinguishes the forms envy then takes
+- [[SP016]] — Spinoza's account of emulation and its association with envy
 ## Sources
 
 - van de Ven, Zeelenberg and Pieters, 2009

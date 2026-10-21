@@ -31,10 +31,11 @@ The compendium's interest is the structure: an action taken while the discomfort
 
 ## Related concepts
 
+
 - [[Habituation]] — an account of the fear decrease with repeated exposure
 - [[Fear]] — the state the treatment works on
 - [[Distress tolerance (DBT)]] — the sister skill of acting while distressed
-
+- [[BE071]] — the compulsions this page teaches to recognise are the targets ERP treats
 ## Sources
 
 - Foa et al., 2007

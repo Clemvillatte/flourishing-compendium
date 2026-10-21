@@ -21,4 +21,6 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[ERG Theory]] — frustration-regression, for comparison with frustration's aggressive route
+- [[SP031]] — Spinoza's definitions of anger and revenge, alongside his discussion of frustrated longings

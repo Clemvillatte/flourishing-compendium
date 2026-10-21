@@ -19,8 +19,9 @@ The truthful person is the mean between the boaster and the mock-modest dissembl
 - Heidegger, Being and Time
 ## Related concepts
 
-- [[A019]] — A019 works through Nicomachean Ethics IV.7: truthfulness as the mean between boasting and mock modesty in how a person describes themselves.
 
+- [[A019]] — A019 works through Nicomachean Ethics IV.7: truthfulness as the mean between boasting and mock modesty in how a person describes themselves.
+- [[S076]] — A principle on the Stoic pairing of plain speech with honesty
 ## Sources
 
 - Aristotle, Nicomachean Ethics IV.7

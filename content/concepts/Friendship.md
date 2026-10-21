@@ -22,9 +22,11 @@ The other kinds dissolve when their grounds shift: "when the motive which made t
 
 
 
+
 - [[A076]] — A076 works out Aristotle's NE VIII account of friendship across unequal parties, with the verbatim VIII.7-8 proportionality and mothers passages behind the Friendship concept page.
 - [[S136]] — Seneca's version of friendship-as-practice: progress reported, passages marked, life shared (Letter 6)
 - [[SO025]] — Aristotle's quality-of-friendship standard applied to the relationship portfolio
+- [[SP059]] — Aristotle's perfect friendship wishes the friend's good for the friend's sake and lasts while the friends are good; Spinoza's generositas names the desire, under reason's dictate, to aid others and unite them in friendship. The accounts differ in ground; the pages illuminate each other.
 ## Sources
 
 - Aristotle, Nicomachean Ethics VIII

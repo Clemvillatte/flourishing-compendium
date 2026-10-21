@@ -20,10 +20,11 @@ The review traces the label to eudaimonism: "It lies instead in the actualizatio
 
 ## Related concepts
 
+
 - [[P014]]
 - [[Intrinsic motivation]]
 - [[Autonomous motivation]] — the review summarizes a study in which succeeding at an activity while feeling autonomous resulted in both happiness and vitality
-
+- [[SE022]] — A principle on accepting what one is without approving or resigning to it
 ## Sources
 
 - [Ryan and Deci, "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being", Annual Review of Psychology 52 (2001), pp. 141-166 (open PDF)](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf) — the hedonic/eudaimonic definition, the eudaimonism passage and Ryff and Keyes's six aspects

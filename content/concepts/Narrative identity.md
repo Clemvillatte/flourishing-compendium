@@ -31,6 +31,8 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 
 
 
+
+
 - [[Life story model]] — the psychological research tradition on life stories
 - [[Fixed views of self]] — the frozen story, an in-compendium contrast
 - [[Narrative therapy]] — the therapeutic rewriting of the story
@@ -41,6 +43,8 @@ The mechanism is plot. Narrative discourse "configures such heterogeneous concep
 - [[Narrative redemption sequences]] — the construct the sequences are coded within
 - [[CO010]] — listed for comparison
 - [[The seasons of life]] — the ancient image that human life has a temporal shape: stages that ask different things
+- [[SE005]] — A principle on describing the self through relationships, alongside the narrative account of the self
+- [[SE036]] — A principle on reconsidering identity labels after life transitions, using Nietzsche's metamorphoses as an analogy
 ## Sources
 
 - [SEP, "Paul Ricoeur" (Pellauer, Dauenhauer & Davidson)](https://plato.stanford.edu/entries/ricoeur/)

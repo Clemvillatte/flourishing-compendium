@@ -10,6 +10,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 “Respect” — Kant, Groundwork of the Metaphysics of Morals.
 
 - Hofstede, 2001
+## Related concepts
+
+- [[SP036]] — Spinoza's veneration, wonder at a person's excellence regarded as far surpassing ourselves
+
 ## Sources
 
 - Kant, Groundwork of the Metaphysics of Morals

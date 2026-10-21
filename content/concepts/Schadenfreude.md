@@ -17,4 +17,6 @@ gloating damages trust and invites reprisal.
 
 ## Related concepts
 
+
 - [[Mudita (sympathetic joy)]] — listed for comparison
+- [[SP036]] — Spinoza's account of pleasure arising from thinking too little of someone

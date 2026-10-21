@@ -25,12 +25,15 @@ Festinger's third hypothesis is the move the traditions anticipated: the cure fo
 
 ## Related concepts
 
+
+
 - [[Envy]] — the emotion upward comparison produces
 - [[Benign versus malicious envy]] — the fork in that emotion's road
 - [[Relative deprivation]] — the group-level version of the feeling
 - [[Contingent self-esteem]] — the self-esteem architecture comparison feeds on
 - [[Fragile vs secure high self-esteem (Kernis)]] — who is hurt by upward comparison
-
+- [[SO031]] — The principle applies Festinger's comparison theory to the everyday management of upward and downward comparison
+- [[SP016]] — Spinoza's definition of desire arising from imagining that others have the same desire
 ## Sources
 
 - [Social comparison theory (Wikipedia)](https://en.wikipedia.org/wiki/Social_comparison_theory) — Festinger's nine hypotheses, upward and downward comparison, self-esteem effects

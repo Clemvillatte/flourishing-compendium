@@ -28,10 +28,11 @@ The same overview describes reciprocal influences among events, thoughts, emotio
 
 ## Related concepts
 
+
 - [[Appraisal theory]]
 - [[Metacognitive therapy (Wells)]]
 - [[Rational Emotive Behavior Theory]]
-
+- [[K005]] — offers a Buddhist comparison concerning the mind's role in suffering
 ## Sources
 
 - [Wikipedia, Cognitive behavioral therapy — basic assumptions (opened)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)

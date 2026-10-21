@@ -39,9 +39,10 @@ Developmental · Psychological science
 
 ## Related concepts
 
+
 - [[Person-environment fit]] — the person and the setting as a pair
 - [[Social determinants of health]] — the outer systems as health's backdrop
-
+- [[SO008]] — A principle on daily-life conditions as the social side of biophysiological functioning
 ## Sources
 
 - [Bronfenbrenner, U. and Morris, P. A. The Bioecological Model of Human Development, ch. 14 in Handbook of Child Psychology, Vol. 1: Theoretical Models of Human Development (6th ed., Damon and Lerner, eds., Wiley 2006) (opened full text; edition and year verified against the Wiley Online Library record, https://onlinelibrary.wiley.com/page/book/10.1002/9780470147658/homepage/editorscontributors.html)](https://www.columbia.edu/cu/psychology/courses/3615/Readings/BronfenbrennerModelofDevelopment.pdf)

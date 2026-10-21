@@ -18,6 +18,10 @@ The entry explains what anticipatory being-toward-death does: the anticipation o
 
 - **authenticity** — Heidegger, Being and Time
 
+## Related concepts
+
+- [[S104]] — A Stoic practice of holding death in mind as a guide to life
+
 ## Sources
 
 - Heidegger, Being and Time

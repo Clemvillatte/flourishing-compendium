@@ -27,12 +27,13 @@ That third channel rests on the book's most quoted claim: "everything can be tak
 
 ## Related concepts
 
+
 - [[Life story model]] — the existential project the life story serves
 - [[The will to meaning]] — the drive stated as its own concept
 - [[Meaning-making]] — the research tradition that operationalized the search
 - [[Self-transcendence]] — what the search aims at, on Frankl's account
 - [[Post-traumatic growth]] — the growth the attitude-toward-suffering channel can produce
-
+- [[MO061]] — A principle drawing on Frankl's account of meaning as motivation
 ## Sources
 
 - Frankl, Man's Search for Meaning

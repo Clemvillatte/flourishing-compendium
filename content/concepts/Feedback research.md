@@ -13,6 +13,10 @@ timing and framing determine whether feedback helps or harms (Kluger and DeNisi,
 
 - specific, forward-looking feedback works
 
+## Related concepts
+
+- [[MO062]] — A principle recording the review's contrast between positive feedback and tangible rewards
+
 ## Sources
 
 - Kluger and DeNisi, 1996

@@ -17,9 +17,12 @@ The abstract suggests that "resilience is common and that it usually arises from
 
 ## Related concepts
 
+
+
 - [[Equanimity]]
 - [[Post-traumatic growth]]
-
+- [[S107]] — A Stoic principle on keeping conduct intact through displacement
+- [[S117]] — A Stoic principle on turning setbacks into material for the next attempt
 ## Sources
 - Wikipedia Psychological resilience: https://en.wikipedia.org/wiki/Psychological_resilience
 - [Masten, "Ordinary Magic: Resilience Processes in Development", American Psychologist 56(3), 2001 (PDF)](https://ocfcpacourts.us/wp-content/uploads/2020/06/Ordinary_Magic_Resilience_Process_000935.pdf) — the ordinariness conclusion, the everyday-magic passage, the abstract's conclusion and the protect-the-systems implication

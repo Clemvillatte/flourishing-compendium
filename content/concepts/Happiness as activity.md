@@ -34,6 +34,7 @@ So the claim is not that happiness is a pleasant feeling. He adds that the lives
 
 ## Related concepts
 
+
 - [[Eudaimonia]] — the Greek term for the state Aristotle defines
 - [[Eudaimonic well-being]] — the psychological research tradition that borrows the term
 - [[Happiness as by-product]] — the related idea that happiness follows from what we do
@@ -41,7 +42,7 @@ So the claim is not that happiness is a pleasant feeling. He adds that the lives
 - [[Flow]] — a modern study of absorbing activity, offered for comparison
 - [[Hedonic adaptation]] — why a state-based view of happiness is fragile
 - [[Eudaimonic motivation, intrinsic goals]] — a motivation account tied to this view
-
+- [[Everyone desires eudaimonia]] — the chapter I.4 agreement on the name, which the activity definition then fills in
 ## Sources
 
 - [Aristotle, Nicomachean Ethics I, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html): chapters 7, 8 and 9 read

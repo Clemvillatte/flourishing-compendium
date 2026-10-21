@@ -21,8 +21,9 @@ Once a problem is externalised, it can be put into a story-line: questions about
 
 ## Related concepts
 
-- [[Narrative identity]]
 
+- [[Narrative identity]]
+- [[SP053]] — the page's account of re-ordering a memory's position inside understanding, a Spinozist counterpart of re-authoring
 ## Sources
 
 - White and Epston, 1990

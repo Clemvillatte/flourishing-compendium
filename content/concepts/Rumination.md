@@ -48,6 +48,7 @@ The original theory predicted rumination would extend depressive episodes; the e
 
 
 
+
 - [[Anger regulation research]] — the ingredient that made venting backfire in Bushman's experiment
 - [[Lifestyle pillars of mental health]] — the symptom the anti-ruminative pillar targets
 - [[Mindful attention]] — the pattern mindful attention interrupts
@@ -60,6 +61,7 @@ The original theory predicted rumination would extend depressive episodes; the e
 - [[Metacognitive model of anxiety and depression (Wells)]] — the syndrome’s depressive expression, as this model analyses it
 - [[Experience plus reflection]] — the Deweyan pairing of experience and reflection (How We Think, 1910)
 - [[Express by shaping, not venting]] — Dewey's distinction between expression and discharge (Art as Experience)
+- [[SE031]] — A principle on releasing past wrongs after acknowledgement and amends
 ## Sources
 
 - [Nolen-Hoeksema, Wisco and Lyubomirsky 2008, "Rethinking Rumination," Perspectives on Psychological Science 3(5)](https://journals.sagepub.com/doi/full/10.1111/j.1745-6924.2008.00088.x) — the definition (p. 400); supported and unsupported findings; brooding/reflection split.

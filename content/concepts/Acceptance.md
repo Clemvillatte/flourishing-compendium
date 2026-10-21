@@ -29,6 +29,9 @@ The same paper is explicit that acceptance is instrumental: "Acceptance (and def
 
 
 
+
+
+
 - [[Experiential avoidance research]] — acceptance is defined as this avoidance's alternative, and the research line tests the pair
 - [[Experiential avoidance theory]] — the theoretical account of what acceptance is up against
 - [[Psychological flexibility]] — the outcome acceptance is one process inside
@@ -43,6 +46,9 @@ The same paper is explicit that acceptance is instrumental: "Acceptance (and def
 - [[AF037]] — a laboratory comparison of acceptance and suppression in patients with panic disorder
 - [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 - [[Empathic understanding]] — Rogers' name for understanding another's experience from inside their frame of reference
+- [[S118]] — A Stoic principle on accepting what was given back
+- [[AF039]] — A principle about accepting feelings without fighting them
+- [[SE022]] — A principle on accepting what one is without approving or resigning to it
 ## Sources
 
 - [Hayes, Luoma, Bond, Masuda & Lillis, "Acceptance and Commitment Therapy: Model, processes and outcomes", Behaviour Research and Therapy 44 (2006), full-text PDF](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf) — definition of acceptance; psychological flexibility; acceptance as method of values-based action

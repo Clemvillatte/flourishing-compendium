@@ -27,9 +27,10 @@ The definition covers both questions of fact and matters of opinion: a memory of
 
 ## Related concepts
 
+
 - [[Humility]] — the broader virtue; its page identifies intellectual humility as an epistemic subdomain
 - [[Perspective-getting]] — asking the other person for their view rather than imagining it; its page links intellectual humility as the guess held as a guess
-
+- [[SE015]] — A principle on comparing self-estimates with inspectable results
 ## Other formulations in this library
 
 These inherited formulations have not been verified here as findings about learning, decisions or relationships.

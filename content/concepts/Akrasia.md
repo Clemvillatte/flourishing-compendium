@@ -14,10 +14,12 @@ Akrasia is acting against one's better judgment — "knowing the better and doin
 
 
 
+
 - [[Boulesis (rational desire)]] — conflict between appetite and calculation, discussed in De Anima III.10
 - [[A056]] — A056 sets out Aristotle's reply to Socrates in Nicomachean Ethics VII: why acting against one's own judgement is possible, and the two ways it happens.
 - [[A059]] — A059 shows how Aristotle tells a lapse of will from settled vice, using choice, regret and self-awareness.
 - [[Temperance]] — one of the four cardinal virtues: the right ordering of pleasure and appetite
+- [[SP026]] — Spinoza's drunkard, who believes the words he would withhold when sober are spoken from free decision
 ## Sources
 - IEP Aristotle's Ethics: https://iep.utm.edu/aris-eth/
 

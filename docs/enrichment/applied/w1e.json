@@ -1,61 +1,43 @@
 {
-  "reciprocal": [
-    {
-      "into": "Goal-directed attentional control",
-      "link": "Attentional control training and the role of repeated redirection",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Effortless attention",
-      "link": "Attentional control training and the role of repeated redirection",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Body scan in MBSR (Kabat-Zinn)",
-      "link": "Attentional control training and the role of repeated redirection",
-      "why": "another practice of systematically redirecting attention, carried by the same principle AT050"
-    },
-    {
-      "into": "Attentional control training and the role of repeated redirection",
-      "link": "Body scan in MBSR (Kabat-Zinn)",
-      "why": "the scan is one long redirection exercise, moving attention region by region"
-    },
-    {
-      "into": "Differential Activation Hypothesis of depression",
-      "link": "Avoidance versus attentional engagement",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Behavior analysis",
-      "link": "Avoidance versus attentional engagement",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Avoidance versus attentional engagement",
-      "link": "Behavior analysis",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Habit maintenance",
-      "link": "Behavioural chaining (applied behaviour analysis)",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Behavior analysis",
-      "link": "Behavioural chaining (applied behaviour analysis)",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Behavior analysis",
-      "link": "Behavioural rehearsal role-play (DBT, social skills training)",
-      "why": "listed for comparison"
-    },
-    {
-      "into": "Avoidance versus attentional engagement",
-      "link": "Capacity to be alone (Winnicott)",
-      "why": "listed for comparison"
-    }
-  ],
-  "inline": [],
-  "notes": " | deferred at this run (target band busy): 12 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline | deferred at this run (target band busy): 13 recip, 0 inline Supervisor repair (2026-10-20): link \"Behavioural rehearsal / role-play (DBT, social skills training)\" resolved to the actual filename (hyphenation); 2 records linking \"Character as habits\" removed — target page no longer exists (namespace merge into [[Habit]]); re-targeting to Habit is a new semantic decision. | deferred at this run (target band busy): 11 recip, 0 inline | deferred at this run (target band busy): 11 recip, 0 inline"
+ "reciprocal": [
+  {
+   "into": "Cultural psychology",
+   "link": "Cultural relativism",
+   "why": "questions about cultural variation in customs and moral outlooks",
+   "notes": "w1e fast-track Cultural relativism: obviously missing reciprocal, target has no backlink (checked 2026-10-20)"
+  },
+  {
+   "into": "Process model of emotion regulation Gross",
+   "link": "Extended process model of emotion regulation",
+   "why": "the 2015 extension adds valuation and the identification, selection and implementation stages",
+   "notes": "w1e fast-track (worker-p1zz-b81e3f52): target page exists and the new page links to it; no backlink checked 2026-10-21"
+  },
+  {
+   "into": "Education as growth",
+   "link": "Instruments for human growth",
+   "why": "Dewey's chapter 3 instrumentalities and the means of directing growth",
+   "notes": "w1e fast-track (worker-p1zz-b81e3f52): target page exists and the new page links to it; no backlink checked 2026-10-21"
+  },
+  {
+   "into": "Habit",
+   "link": "Habit maintenance",
+   "why": "why well-formed habits persist after motivation fades (Gardner, Lally, Wardle 2012)",
+   "notes": "w1e fast-track (worker-p1zz-b81e3f52): target page exists and the new page links to it; no backlink checked 2026-10-21"
+  },
+  {
+   "into": "Happiness as activity",
+   "link": "Everyone desires eudaimonia",
+   "why": "the chapter I.4 agreement on the name, which the activity definition then fills in",
+   "notes": "w1e fast-track (worker-p1zz-b81e3f52): target page exists and the new page links to it; no backlink checked 2026-10-21"
+  }
+ ],
+ "inline": [
+  {
+   "into": "Interoceptive awareness",
+   "concept": "Emotion awareness",
+   "phrase": "emotional awareness",
+   "notes": "w1e Emotion awareness QC round 3: the page's sentence 'interoception is the foundation of emotional awareness' names the concept in plain text; schema fixed per advisor (concept key)"
+  }
+ ],
+ "notes": " | deferred at this run (target band busy): 3 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
 }

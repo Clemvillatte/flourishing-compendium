@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The Pyrrhonian skeptic's method: for any claim, assemble equally persuasive opposing arguments so that belief suspends itself ([[Epoché|epochē]]), and tranquility (ataraxia) follows "like a shadow following a body" ([IEP Pyrrhonism](https://iep.utm.edu/pyrrho/)).
 
+## Related concepts
+
+- [[X002]] — The concept names the equal weight of opposed judgments; X002 carries the working formula, no more this than that, that marks the equipollence and cancels itself along with the rest.
+
 ## Sources
 - IEP Pyrrhonism: https://iep.utm.edu/pyrrho/
 

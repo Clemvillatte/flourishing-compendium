@@ -27,12 +27,13 @@ The Buddhist parallel the compendium pairs with this page runs a gate instead of
 
 ## Related concepts
 
+
 - [[Parrhesia (frank speech)]]
 - [[Socratic elenchus]]
 - [[Authenticity]]
 - [[Prosocial honesty research]]
 - [[Deception research]]
-
+- [[S076]] — A principle on the Stoic rule against studied ornament in words
 ## Sources
 
 - [Laozi, Daodejing 81 (Legge translation, Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — the primary text; quotation verbatim.

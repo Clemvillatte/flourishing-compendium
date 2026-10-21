@@ -25,6 +25,10 @@ The 2002 paper's own abstract states the finding ([Schwartz et al., Maximizing v
 - [[D022 — Subtract, don't add]]
 - [[CO044 — Learn to satisfice — good enough is often optimal]]
 
+## Related concepts
+
+- [[X002]] — Where maximizers search for the best among near-equals, Sextus's formula marks the equals as equal and moves to quietude; the satisficing research and the formula are two treatments of the equal-options case.
+
 ## Sources
 
 - Schwartz et al., 2002

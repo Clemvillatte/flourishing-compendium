@@ -17,6 +17,10 @@ Self-transcendent experiences are temporary states in Yaden and colleagues' fram
 
 Their integrative review proposes an organizational framework and possible psychological and neurobiological mechanisms for these experiences ([Yaden et al., 2017](https://journals.sagepub.com/doi/10.1037/gpr0000102)). The authors identify further empirical research as needed to develop the account ([abstract](https://journals.sagepub.com/doi/10.1037/gpr0000102)).
 
+## Related concepts
+
+- [[Self-transcendence]] — listed for comparison
+
 ## Sources
 
 - Yaden et al., 2017

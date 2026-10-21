@@ -37,9 +37,11 @@ The contemplative traditions named it first: [[Impermanence]] is the law of whic
 
 
 
+
 - [[Gratitude]] — the taking-for-granted that gratitude counters
 - [[Natural and necessary]] — the modern finding behind the unnecessary-desire treadmill
 - [[AF070]] — The principle naming the tested variety moderator of adaptation, listed alongside the forecasting and treadmill principles
+- [[SP039]] — Spinoza's examination of wealth, fame and pleasure as objects of pursuit
 ## Sources
 
 - Lyubomirsky, 2011

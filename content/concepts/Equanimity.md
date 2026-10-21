@@ -51,6 +51,7 @@ The opinion, not the event, is where the trouble enters — the compendium's [[J
 
 
 
+
 - [[Freedom]] — the fruit of freedom of judgment (Stoic face)
 - [[Emotion regulation]] — the process model's target state, in the contemplative key
 - [[Four immeasurables]] — upekkha is the fourth immeasurable
@@ -62,6 +63,7 @@ The opinion, not the event, is where the trouble enters — the compendium's [[J
 - [[K052]] — listed for comparison: the even-minded stance defined and sourced on the concept page beside K052's lamrim instruction to level bias toward friend, enemy and stranger before cultivating love.
 - [[Right concentration]] — the eightfold path's concentration factor (the jhanas of DN 2)
 - [[Heart rate variability theory]] — beat-to-beat heart-rate variation as an index of self-regulation (Park & Thayer 2014)
+- [[S133]] — A principle on restoring equilibrium after being disturbed, with the disturbance assumed
 ## Sources
 
 - [Desbordes et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4350240/)

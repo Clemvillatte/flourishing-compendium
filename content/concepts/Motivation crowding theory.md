@@ -17,3 +17,8 @@ Affect · Psychological science
 [[A080 — Choose activities for their completeness]]
 [[P120 — Make activities autotelic — worth doing for their own sake]]
 [[D096 — Don't let the outer displace the inner]]
+
+
+## Related concepts
+
+- [[MO062]] — A principle on external rewards and intrinsic motivation in the reviewed studies

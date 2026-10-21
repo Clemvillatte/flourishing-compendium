@@ -17,6 +17,11 @@ Shikantaza is the Sōtō Zen practice commonly translated as just sitting, assoc
 
 The sitter relinquishes personal aims while continuing diligent meditation ([Nagatomo, §2](https://plato.stanford.edu/entries/japanese-zen/)). Nagatomo describes this as Dōgen's practice-realization, in which sitting is not a preliminary means of obtaining enlightenment later ([§2](https://plato.stanford.edu/entries/japanese-zen/)).
 
+## Related concepts
+
+
+- [[Gelassenheit]] — listed for comparison
+- [[Pure experience]] — listed for comparison
 ## Sources
 
 - Dogen, Shobogenzo

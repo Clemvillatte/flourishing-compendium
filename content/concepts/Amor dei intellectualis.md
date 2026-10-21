@@ -11,8 +11,9 @@ The intellectual love of God — Spinoza's highest good: loving the one substanc
 
 ## Related concepts
 
-- [[Amor sui (right self-love)]] — the Ethics' account of self-love grounded in power of acting
 
+- [[Amor sui (right self-love)]] — the Ethics' account of self-love grounded in power of acting
+- [[SP086]] — The amor dei's signature property, per V, P20, is that it cannot be stained by envy or jealousy and is the most constant of the emotions; SP086 carries the property with the proof.
 ## Sources
 - SEP Spinoza: https://plato.stanford.edu/entries/spinoza/
 

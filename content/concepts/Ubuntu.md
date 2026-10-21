@@ -35,6 +35,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 
 
 
+
 - [[Ren]] — the Confucian counterpart: humaneness realised in relation to others (comparison, not influence)
 - [[I and Thou]] — Buber: personhood comes alive in genuine encounter
 - [[The relational self]] — the psychological version of the claim that selves are made in connection
@@ -55,6 +56,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[R009]] — Mangena's account connects respect for elders with passing communal values and experience between generations.
 - [[AF058]] — A principle about responding to loneliness, listed for comparison
 - [[Participate: do with, not to]] — the Deweyan distinction: entering another's activity as a partner rather than using it as a means
+- [[SE026]] — A principle on suffering as shared human material rather than a private defect
 ## Sources
 
 - [Wikipedia, Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) — original seed citation

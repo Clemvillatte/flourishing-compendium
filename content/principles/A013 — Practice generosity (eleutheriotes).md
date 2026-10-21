@@ -48,6 +48,10 @@ Giving well means the right amount to the right people at the right time, for th
 - **The gift relationship** (Mauss, The Gift)
 - **Dāna (generosity) as first paramita** (Buddhist tradition)
 
+## Related concepts
+
+- [[SP059]] — Aristotle specifies right giving by recipient, amount, and time, given for the nobility of giving; Spinoza's generositas specifies the giver as one acting by reason's dictate to aid and befriend. Readers can compare the two specifications of a good giver.
+
 <!-- fc: reflections
 Think about the last time giving cost you something real. What made it feel different from giving that cost nothing, and which changed you more?
 %%

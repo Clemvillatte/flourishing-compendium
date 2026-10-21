@@ -1,5 +1,31 @@
-{"reciprocal": [
- {"into": "Narrative therapy", "link": "Narrative identity", "why": "the therapeutic rewriting works on the Ricoeurian story-self"},
- {"into": "Meaning-making", "link": "Narrative identity", "why": "the interpretive work stories do is the process behind narrative identity"},
- {"into": "The relational self", "link": "Narrative identity", "why": "both are non-substantial accounts of self: told with others, told as a story"}
-]}
+{
+ "reciprocal": [
+  {
+   "into": "Shikantaza, just sitting",
+   "link": "Gelassenheit",
+   "why": "listed for comparison"
+  },
+  {
+   "into": "Shikantaza, just sitting",
+   "link": "Pure experience",
+   "why": "listed for comparison"
+  },
+  {
+   "into": "Self-transcendent experiences",
+   "link": "Self-transcendence",
+   "why": "listed for comparison"
+  },
+  {
+   "into": "Cognitive distortions",
+   "link": "Right view",
+   "why": "listed for comparison"
+  },
+  {
+   "into": "Wise reasoning",
+   "link": "Wisdom",
+   "why": "listed for comparison"
+  }
+ ],
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 16 recip, 1 inline | deferred at this run (target band busy): 5 recip, 0 inline | deferred at this run (target band busy): 5 recip, 0 inline"
+}

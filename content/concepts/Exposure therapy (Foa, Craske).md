@@ -36,6 +36,8 @@ Foa and McLean describe how emotional processing theory led to two protocols: pr
 
 ## Related concepts
 
+
+
 - [[Graded exposure / systematic desensitisation (Wolpe)]] — the earlier form from which Craske says exposure therapy was derived
 - [[Response prevention (OCD treatment)]] — the ritual-blocking half of Foa's protocol for OCD
 - [[Interoceptive exposure (Barlow)]] — exposure applied to bodily sensations
@@ -45,7 +47,8 @@ Foa and McLean describe how emotional processing theory led to two protocols: pr
 - [[Affect labeling]] — one of Craske's eight strategies
 - [[Fear]] — the emotion exposure is meant to retrain
 - [[Evidence-based treatments (CBT, ACT, DBT, EMDR, medication) have robust evidence]] — the wider evidence picture
-
+- [[BE030]] — A principle examining safety behaviours during exposure
+- [[BE074]] — A principle on the behavioural symptoms that exposure-based PTSD treatments target
 ## Sources
 
 - [Craske, M. G., Treanor, M., Conway, C. C., Zbozinek, T., & Vervliet, B. (2014). Maximizing exposure therapy: An inhibitory learning approach. Behaviour Research and Therapy, 58, 10-23](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/): full text read; also the [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24864005/)

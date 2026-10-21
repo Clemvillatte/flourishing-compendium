@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Antifragility” — Taleb, 2012.
 
+## Related concepts
+
+- [[Y037]] — the tapas stop-line is the Yoga-Vedanta answer to the question this page names: when stress strengthens and when it damages
+
 ## Sources
 
 - Taleb, 2012

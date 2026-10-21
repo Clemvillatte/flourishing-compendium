@@ -13,8 +13,10 @@ majority pressure sways judgments even against perception (Asch, 1951).
 ## Related concepts
 
 
+
 - [[Escape from freedom]] — a comparison with Fromm's account of adopting a culturally prescribed personality
 - [[Social contagion]] — the normative-pressure version
+- [[SO032]] — A principle on social influence as measurable and manageable, grounded in Asch's own conclusion
 ## Sources
 
 - Asch, 1951

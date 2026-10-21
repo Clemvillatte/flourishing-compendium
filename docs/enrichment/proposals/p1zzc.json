@@ -1,174 +1,26 @@
 {
-  "batch": "p1zzc",
-  "revision": 28,
-  "reciprocal": [
-    {
-      "into": "Benign versus malicious envy",
-      "link": "SP016",
-      "why": "Spinoza's account of emulation and its association with envy",
-      "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in Ethics III, Definitions of the Affects XXXIII and its explanation (envy coupling at III.xxxii)."
-    },
-    {
-      "into": "Social comparison",
-      "link": "SP016",
-      "why": "Spinoza's definition of desire arising from imagining that others have the same desire",
-      "notes": "SP016 (worker-p1zzc-de9b53): hub inspected, 0 SP016 occurrences; grounded in the opened Elwes Ethics definition."
-    },
-    {
-      "into": "Compassion",
-      "link": "SP020",
-      "why": "Spinoza's account of pity as a pain that can mislead, and help under the guidance of reason as the alternative",
-      "notes": "SP020 (worker-p1zzc-de9b53): hub inspected, 0 SP016/SP020 occurrences; grounded in the opened Elwes Ethics (III, Def. XVIII; IV, P50 and note)."
-    },
-    {
-      "into": "Akrasia",
-      "link": "SP026",
-      "why": "Spinoza's drunkard, who believes the words he would withhold when sober are spoken from free decision",
-      "notes": "SP026 (worker-p1zzc-de9b53): hub inspected, 0 SP026 occurrences; grounded in the opened Elwes Ethics III, P2 scholium."
-    },
-    {
-      "into": "Anger",
-      "link": "SP031",
-      "why": "Spinoza's definitions of anger and revenge, with evil defined in the P39 note as pain that frustrates our longings",
-      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXVI/XXXVII; III P39 note)."
-    },
-    {
-      "into": "Frustration–aggression hypothesis",
-      "link": "SP031",
-      "why": "Spinoza's definitions of anger and revenge, alongside his discussion of frustrated longings",
-      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; the Elwes P39 note supplies the blocked-longing framing."
-    },
-    {
-      "into": "Revenge",
-      "link": "SP031",
-      "why": "Spinoza's definition of revenge as repayment desire through mutual hatred",
-      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics III, Def. XXXVII."
-    },
-    {
-      "into": "Guilt",
-      "link": "SP034",
-      "why": "Spinoza's definition of shame as pain over an act we believe others blame, set against the act-specific signal guilt carries",
-      "notes": "SP034 (worker-p1zzc-de9b53): hub inspected, 0 SP034 occurrences; grounded in the opened Elwes Ethics (III, Def. XXXI; IV, LVIII note)."
-    },
-    {
-      "into": "Anger examined early",
-      "link": "SP031",
-      "why": "Spinoza's definitions of anger and revenge",
-      "notes": "SP031 (worker-p1zzc-de9b53): hub inspected via mention search (revenge), SP031 not present; grounded in the opened Elwes Ethics definitions; the Seneca framing is the hub's own sourced content."
-    },
-    {
-      "into": "Schadenfreude",
-      "link": "SP036",
-      "why": "Spinoza's account of pleasure arising from thinking too little of someone",
-      "notes": "SP036 (worker-p1zzc-de9b53): hub inspected via mention search (contempt) and direct read (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P26 note."
-    },
-    {
-      "into": "Respect",
-      "link": "SP036",
-      "why": "Spinoza's veneration, wonder at a person's excellence regarded as far surpassing ourselves",
-      "notes": "SP036 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP036 occurrences; grounded in the opened Elwes Ethics III, P52 note."
-    },
-    {
-      "into": "Fear",
-      "link": "SP038",
-      "why": "Spinoza's account of superstition as engendered, preserved, and fostered by fear",
-      "notes": "SP038 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP038 occurrences; grounded in the opened Elwes TPT Preface."
-    },
-    {
-      "into": "Hedonic adaptation",
-      "link": "SP039",
-      "why": "Spinoza's examination of wealth, fame and pleasure as objects of pursuit",
-      "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §1."
-    },
-    {
-      "into": "Means-end continuity",
-      "link": "SP039",
-      "why": "the page's exercise of asking what a pursuit is meant to make possible",
-      "notes": "SP039 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP039 occurrences; grounded in the opened Elwes Emendation §§1-6."
-    },
-    {
-      "into": "Adequate idea",
-      "link": "SP044",
-      "why": "Spinoza's account of method directed by a given true idea",
-      "notes": "SP044 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP044 occurrences; grounded in the opened Elwes Emendation §§35-39."
-    },
-    {
-      "into": "Narrative therapy",
-      "link": "SP053",
-      "why": "the page's account of re-ordering a memory's position inside understanding, a Spinozist counterpart of re-authoring",
-      "notes": "SP053 (worker-p1zzc-de9b53): hub inspected (opening inspected), 0 SP053 occurrences; grounded in the opened Elwes Ethics V P1/P3/P10."
-    },
-    {
-      "into": "Friendship",
-      "link": "SP059",
-      "why": "Aristotle's perfect friendship wishes the friend's good for the friend's sake and lasts while the friends are good; Spinoza's generositas names the desire, under reason's dictate, to aid others and unite them in friendship. The accounts differ in ground; the pages illuminate each other.",
-      "notes": "into=Friendship concept; opening read this pass (Aristotle NE VIII); grep SP059: 0; accounts juxtaposed without equating grounds"
-    },
-    {
-      "into": "Metta (loving-kindness)",
-      "link": "SP059",
-      "why": "Metta is trained as a stance before a feeling; Spinoza's generositas is likewise a desire by reason's dictate rather than a mood, goodwill as structure rather than feeling.",
-      "notes": "into=Metta (loving-kindness) concept; opening read this pass (stance-before-feeling reading, brahmaviharas); grep SP059: 0; linked from SP059 philosophy parallels"
-    },
-    {
-      "into": "Forgiveness",
-      "link": "SP066",
-      "why": "Forgiveness as the release of the claim to repayment, and IV, P46's rule of answering hatred with kindness, are two accounts of ending the retaliation chain.",
-      "notes": "into=Forgiveness concept; opening read this pass (Arendt: putting an end to something that could go on endlessly); grep SP066: 0; Worthington REACH linked from SP066 psychology parallels"
-    },
-    {
-      "into": "D129 — Repay injury with virtue",
-      "link": "SP066",
-      "why": "Daodejing 63's maxim to recompense injury with kindness states the rule; Spinoza's III, P43 and IV, P46 supply the mechanism, hatred fed by reciprocation and quenched by love.",
-      "notes": "into=D129 principle; page read this pass (Daoist, DDJ 63 Legge, NOT Confucian; earlier Confucius attribution corrected); grep SP066: 0; SP066 philosophy parallel separately cites Analects 14.34"
-    },
-    {
-      "into": "Reciprocity",
-      "link": "SP071",
-      "why": "Spinoza's IV, P70 identifies the estimate-mismatch mechanism inside reciprocity: the giver values the benefit by his own estimate, and undervalued thanks converts to pain and offence.",
-      "notes": "into=Reciprocity concept; opening read this pass (Cialdini, Axelrod); grep SP071: 0; linked from SP071 psychology parallels"
-    },
-    {
-      "into": "Conflict spirals",
-      "link": "SP066",
-      "why": "The concept names escalation in close relationships; Spinoza's III, P43 offers a philosophical comparison, hatred increased by reciprocated hatred, and IV, P46 the recommended exit.",
-      "notes": "into=Conflict spirals concept; opening read this pass (Gottman; cites B162 and SP030, which is itself a Spinoza principle); grep SP066: 0; SP066 positioned as philosophical comparison, not an empirical law of conflict"
-    },
-    {
-      "into": "Adequate idea",
-      "link": "SP056",
-      "why": "The concept defines the idea-side of activity; SP056 works the affective side, how a joy becomes an activity when the ideas it springs from are adequate.",
-      "notes": "into=Adequate idea concept; opening read this pass (SEP Spinoza, activity/passivity); grep SP056: 0"
-    },
-    {
-      "into": "A013 — Practice generosity (eleutheriotes)",
-      "link": "SP059",
-      "why": "Aristotle specifies right giving by recipient, amount, and time, given for the nobility of giving; Spinoza's generositas specifies the giver as one acting by reason's dictate to aid and befriend. Readers can compare the two specifications of a good giver.",
-      "notes": "into=A013 principle; opening read this pass (NE IV.1 Rackham, liberality as mean concerning wealth, right-giving conditions); grep SP059: 0"
-    },
-    {
-      "into": "Amor dei intellectualis",
-      "link": "SP086",
-      "why": "The amor dei's signature property, per V, P20, is that it cannot be stained by envy or jealousy and is the most constant of the emotions; SP086 carries the property with the proof.",
-      "notes": "into=Amor dei intellectualis concept (thin stub, opening read); grep SP086: 0; already linked from SP086 philosophy parallels"
-    },
-    {
-      "into": "Envy",
-      "link": "SP086",
-      "why": "The concept's malicious envy aims to pull down a superior other; V, P20 explains why the common good defeats that motor, another's joy in the shared good fosters the love rather than threatening it.",
-      "notes": "into=Envy concept; opening read (benign/malicious envy, van de Ven 2009); grep SP086: 0"
-    },
-    {
-      "into": "Equipollence",
-      "link": "X002",
-      "why": "The concept names the equal weight of opposed judgments; X002 carries the working formula, no more this than that, that marks the equipollence and cancels itself along with the rest.",
-      "notes": "into=Equipollence concept (stub, opening read, IEP-linked); grep X002: 0; already linked from X002 philosophy parallels"
-    },
-    {
-      "into": "Maximizing versus satisficing",
-      "link": "X002",
-      "why": "Where maximizers search for the best among near-equals, Sextus's formula marks the equals as equal and moves to quietude; the satisficing research and the formula are two treatments of the equal-options case.",
-      "notes": "into=Maximizing versus satisficing concept; opening read (Cheek & Schwartz on Schwartz et al. 2002); grep X002: 0; Decision research linked from X002 psychology parallels"
-    }
-  ]
+ "batch": "p1zzc",
+ "revision": 28,
+ "reciprocal": [
+  {
+   "into": "Revenge",
+   "link": "SP031",
+   "why": "Spinoza's definition of revenge as repayment desire through mutual hatred",
+   "notes": "SP031 (worker-p1zzc-de9b53): hub inspected, 0 SP031 occurrences; grounded in the opened Elwes Ethics III, Def. XXXVII."
+  },
+  {
+   "into": "Fear",
+   "link": "SP038",
+   "why": "Spinoza's account of superstition as engendered, preserved, and fostered by fear",
+   "notes": "SP038 (worker-p1zzc-de9b53): hub inspected (opening/body inspected), 0 SP038 occurrences; grounded in the opened Elwes TPT Preface."
+  },
+  {
+   "into": "Reciprocity",
+   "link": "SP071",
+   "why": "Spinoza's IV, P70 identifies the estimate-mismatch mechanism inside reciprocity: the giver values the benefit by his own estimate, and undervalued thanks converts to pain and offence.",
+   "notes": "into=Reciprocity concept; opening read this pass (Cialdini, Axelrod); grep SP071: 0; linked from SP071 psychology parallels"
+  }
+ ],
+ "inline": [],
+ "notes": " | deferred at this run (target band busy): 3 recip, 0 inline"
 }

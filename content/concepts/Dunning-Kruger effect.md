@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 low performers overestimate their relative standing (Kruger & Dunning, 1999).
 
+## Related concepts
+
+- [[SE015]] — A principle on comparing self-estimates with inspectable results
+
 ## Sources
 
 - Kruger & Dunning, 1999

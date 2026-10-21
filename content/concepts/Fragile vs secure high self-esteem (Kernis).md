@@ -35,13 +35,14 @@ In his reply to commentators, Kernis clarifies that "My use of the term continge
 
 ## Related concepts
 
+
 - [[Contingencies of self-worth (Crocker)]] — the contingent half of the contrast, studied from another angle
 - [[Social comparison]] — comparison is one of the ways worth gets tied to outcomes
 - [[Narcissism versus healthy self-regard]] — Kernis says fragile forms tap an aspect of the narcissistic experience without being the same as narcissism
 - [[Authenticity]] — his proposed key to what makes self-esteem optimal
 - [[Self-esteem research]] — the wider literature on level versus quality of self-esteem
 - [[Self-compassion]] — an alternative basis for self-regard that does not depend on performance
-
+- [[S078]] — A Stoic principle on not being governed by others' opinions
 ## Sources
 
 - [Kernis, M. H. (2003). Toward a conceptualization of optimal self-esteem. Psychological Inquiry, 14(1), 1-26](https://www.semanticscholar.org/paper/TARGET-ARTICLE:-Toward-a-Conceptualization-of-Kernis/90e6fe5d604dee8d9662f988780b056c3989d13e): abstract only

@@ -31,6 +31,8 @@ R005 "Practise forgiveness" frames it as releasing the debt, not the memory, wit
 
 
 
+
+
 - [[Ubuntu]] — ubuntu grounded the TRC's restorative amnesty
 - [[Restorative justice]] — repair without revenge, the TRC lineage
 - [[Reconciliation]] — what released debt makes possible (B163)
@@ -40,6 +42,8 @@ R005 "Practise forgiveness" frames it as releasing the debt, not the memory, wit
 - [[Shame]] — what blocks self-forgiveness
 - [[Agape]] — listed for comparison
 - [[SP030]] — A comparison with SP030 on hatred, love and the response one chooses
+- [[SE031]] — A principle on releasing past wrongs after acknowledgement and amends
+- [[SP066]] — Forgiveness as the release of the claim to repayment, and IV, P46's rule of answering hatred with kindness, are two accounts of ending the retaliation chain.
 ## Sources
 
 - [Hannah Arendt, The Human Condition (1958), pp. 238-243, excerpt PDF](https://dl1.cuni.cz/pluginfile.php/1188468/mod_resource/content/1/Arendt_Human_Condition_Forgiveness.pdf) — irreversibility, acting anew, plurality, punishment as alternative

@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 identifying and correcting distortions is a core mechanism of cognitive therapy (Beck, 1976; Burns, 1980).
 
+## Related concepts
+
+- [[Right view]] — listed for comparison
+
 ## Sources
 
 - Beck, 1976

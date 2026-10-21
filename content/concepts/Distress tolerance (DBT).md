@@ -34,10 +34,11 @@ The compendium reads the two-form definition as the hinge between feeling and ac
 
 ## Related concepts
 
+
 - [[Emotion regulation]]
 - [[Dialectical behaviour therapy, emotion modulation]] — the therapy the module belongs to
 - [[Opposite action (Linehan)]] — a DBT skill that works through action
-
+- [[AF041]] — AF041 is the principle form of this page's construct: the capacity to bear intense affect without the act that makes it worse.
 ## Sources
 
 - Linehan, 1993

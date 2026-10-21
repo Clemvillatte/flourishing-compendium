@@ -18,4 +18,6 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
+
 - [[Forgiveness]] — the release of a debt: ending resentment and the claim to repayment without excusing the wrong
+- [[SP034]] — Spinoza's definition of shame as pain over an act we believe others blame, set against the act-specific signal guilt carries

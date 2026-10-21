@@ -1,110 +1,84 @@
 {
- "revision": 13,
- "records": [
+ "batch": "p1zv",
+ "revision": 14,
+ "reciprocal": [
   {
-   "action": "reciprocal",
-   "into": "Oikeiosis",
-   "link": "S039",
-   "why": "listed for comparison with concern for family members",
-   "notes": "Oikeiosis page read; it does not currently cite S039."
+   "into": "Truthfulness",
+   "link": "S076",
+   "why": "A principle on the Stoic pairing of plain speech with honesty",
+   "notes": "S076 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Truthfulness.md has no S076 occurrence; grounded in S076's Ench. 46 and Med. III.5/XI.15 quotes verified against the opened carriers."
   },
   {
-   "action": "reciprocal",
-   "into": "Premeditatio malorum",
-   "link": "S043",
-   "why": "listed for comparison with the morning rehearsal of the day's difficult people",
-   "notes": "Page read; has a Cited in philosophy parallels section that does not list S043."
+   "into": "Plain words over beautiful",
+   "link": "S076",
+   "why": "A principle on the Stoic rule against studied ornament in words",
+   "notes": "S076 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Plain words over beautiful.md cites no S-principles; grounded in S076's Med. III.5 'studied ornament' quote verified against the opened Gutenberg Long text."
   },
   {
-   "action": "reciprocal",
-   "into": "The rehearsal of virtue",
-   "link": "S043",
-   "why": "listed for comparison with rehearsing virtue before meeting difficult people",
-   "notes": "Page read; has a Cited in philosophy parallels section that does not list S043."
+   "into": "Fragile vs secure high self-esteem (Kernis)",
+   "link": "S078",
+   "why": "A Stoic principle on not being governed by others' opinions",
+   "notes": "S078 (2026-10-21, worker-p1zv-95f93b33): hub inspected, no S078 occurrence in the concept file; grounded in S078's Ench. 1 reputation-not-in-our-power claim verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor."
   },
   {
-   "action": "reciprocal",
+   "into": "Compassion",
+   "link": "S081",
+   "why": "A Stoic principle on pity for wrongdoers",
+   "notes": "S081 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Compassion.md cites neither S074 nor S081; grounded in S081's Med. II.13 pity-kinship quote verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor."
+  },
+  {
+   "into": "Envy",
+   "link": "S082",
+   "why": "A contemporary envy exercise drawing on Marcus's examination of outward show",
+   "notes": "S082 (2026-10-21, worker-p1zv-95f93b33): hub inspected, content/concepts/Envy.md has no S082 occurrence (its Cited in philosophy parallels section lists no S082); grounded in S082's Med. VI.13 stripping quote verified against the opened Long text. Milestone-QC revision: why clause neutralised per advisor; Envy.md read (La Rochefoucauld/Buddhist/Daodejing parallels; no S082 occurrence)."
+  },
+  {
+   "into": "Being-toward",
+   "link": "S104",
+   "why": "A Stoic practice of holding death in mind as a guide to life",
+   "notes": "S104 (2026-10-21, worker-p1zv-95f93b33): milestone-QC revision per advisor. Both pages READ: content/concepts/Being-toward.md (the compendium's fuller label page for Heidegger's being-toward-death; no S104 occurrence; this is the page S104's protected link [[Being-toward|Being-toward-death]] resolves to) and content/concepts/Being-toward-death.md (shorter variant, no S104 occurrence). Proposal retargeted to Being-toward. The Being-toward / Being-toward-death near-duplicate namespace question is recorded for supervisor disposition in the S104 ledger and state flag."
+  },
+  {
+   "into": "Cosmopolitanism",
+   "link": "S107",
+   "why": "A Stoic principle on the universe as the common fatherland",
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (SEP core definition: citizens of a single community; Diogenes kosmopolites) \u2014 the Musonius common-fatherland quote is the Stoic statement of the hub core; no S107 occurrence."
+  },
+  {
+   "into": "Resilience",
+   "link": "S107",
+   "why": "A Stoic principle on keeping conduct intact through displacement",
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Masten ordinary-magic developmental research) \u2014 conduct-through-displacement is the Stoic counterpart; no S107 occurrence."
+  },
+  {
+   "into": "Justice",
+   "link": "S113",
+   "why": "A Stoic principle on holding power as a friend of justice",
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Aristotle NE V, Plato Republic I, Rawls) \u2014 the VI.30 friend-of-justice wording is the Stoic member of the virtue family; no S113 occurrence."
+  },
+  {
+   "into": "Resilience",
+   "link": "S117",
+   "why": "A Stoic principle on turning setbacks into material for the next attempt",
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Masten) \u2014 setback-to-material is the Stoic counterpart to positive adaptation; no S117 occurrence."
+  },
+  {
+   "into": "Impermanence",
+   "link": "S118",
+   "why": "A Stoic principle on accepting loss as return",
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (cross-tradition hub: Heraclitus, Dao, anicca; Five Remembrances) \u2014 restored-not-lost is the Stoic member of the loss-acceptance family; no S118 occurrence."
+  },
+  {
+   "into": "Acceptance",
+   "link": "S118",
+   "why": "A Stoic principle on accepting what was given back",
+   "notes": "S107-S126 QC closeout (2026-10-21, worker-p1zv-95f93b33): hub READ substantively in QC closeout (Hayes et al. 2006 ACT definition, values-based action) \u2014 the Stoic restored-not-lost is the philosophical cognate; no S118 occurrence."
+  },
+  {
    "into": "Awe",
-   "link": "S052",
-   "why": "listed for comparison with the view from above as a practice of vast perspective",
-   "notes": "Page read; cites S100 for the Stoic statement but not S052."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Cognitive mediation of distress",
-   "link": "S054",
-   "why": "listed for comparison with separating the event from the interpretation that drives the response",
-   "notes": "Page read; cites S051 for Stoic judgement principles but not S054."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Appraisal theory",
-   "link": "S054",
-   "why": "listed for comparison with the Stoic version of the appraisal/emotion distinction",
-   "notes": "Page read; cites S071 for the Stoic version but not S054."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Amor fati",
-   "link": "S058",
-   "why": "listed for comparison with turning what happens into material rather than merely bearing it",
-   "notes": "Page read; cites S014 and S007 for the Stoic acceptance line but not S058."
-  },
-  {
-   "action": "reciprocal",
-   "into": "The doctrine of the mean",
-   "link": "S061",
-   "why": "listed for comparison with Aristotle's appropriate measure of anger against Seneca's stages",
-   "notes": "Page read; its Cited in philosophy parallels list includes S059 and S068 but not S061."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Graded exposure systematic desensitisation (Wolpe)",
-   "link": "S063",
-   "why": "listed for comparison with facing what you fear in graded steps",
-   "notes": "Page read; its Cited in philosophy parallels section lists no Stoic principles, and the psychology parallels list includes no S063."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Passions as judgments",
-   "link": "S064",
-   "why": "listed for comparison with the citadel as the mind free from passion making its judgments",
-   "notes": "Page read via mention search; links to The inner citadel concept but does not cite S064."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Self-compassion",
-   "link": "S066",
-   "why": "listed for comparison with gentleness toward yourself after a lapse",
-   "notes": "Page read; does not cite S066."
-  },
-  {
-   "action": "reciprocal",
-   "into": "The evening review",
-   "link": "S066",
-   "why": "listed for comparison with the gentle temper of the nightly audit",
-   "notes": "Page read; cites S065 but not S066."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Temperance",
-   "link": "S069",
-   "why": "Epictetus' exercise for weighing a pleasure against its aftermath",
-   "notes": "S069 takeover: Temperance read in full; no S069 backlink. Relationship supported by opened Enchiridion 34; no equivalence asserted between Aristotle and Epictetus."
-  },
-  {
-   "action": "reciprocal",
-   "into": "Self-regulation",
-   "link": "S069",
-   "why": "a philosophical exercise in pausing before a tempting choice",
-   "notes": "S069 takeover: Self-regulation read in full; no S069 backlink. Editorial comparison, not empirical validation of Epictetus' exercise."
+   "link": "S124",
+   "why": "A Stoic exercise in viewing human affairs from above",
+   "notes": "S124 (2026-10-21, worker-p1zv-95f93b33): hub READ substantively this session (Keltner & Haidt vastness/accommodation definition; small-self effect; the hub already links S100 as its Stoic statement and does not cite S124); why clause neutralised per QC round 1 (the causal behind-the-small-self-effect wording removed)."
   }
- ],
- "reciprocal: Forgiveness concept -> S074 (worker-p1zv-4db4ea8b, 2026-10-20)": {
-  "source": "content/principles/S074 — Forgive those who wrong you.md",
-  "target": "content/concepts/Forgiveness.md",
-  "link": "[[S074 — Forgive those who wrong you|S074 Forgive those who wrong you]]",
-  "why": "S074's psychology parallels row links the Forgiveness concept; the concept page cites the forgiveness-family principles (A060, B107, PP042) but not the Stoic principle S074.",
-  "notes": "Concept page is outside p1zv's band; reciprocal to be applied by supervisor via enrich_apply.py."
- }
+ ]
 }

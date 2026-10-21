@@ -52,6 +52,8 @@ R087 practises hope as a disposition and R125 applies it to the ecological futur
 
 
 
+
+
 - [[Optimism]] — the belief hope is not, per Marcel's distinction
 - [[Learned optimism]] — the trainable cousin from positive psychology
 - [[Despair]] — what hope refuses, the opposite pole
@@ -61,6 +63,8 @@ R087 practises hope as a disposition and R125 applies it to the ecological futur
 - [[Tragic optimism]] — the concept page lists this topic among its Related entries; this link returns it
 - [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 - [[Courage]] — one of the four cardinal virtues: acting well in the face of fear
+- [[Y064]] — the Yoga chain begins where Snyder's theory begins: an approval of the practice that fuels goal-directed energy and holds the goal in memory
+- [[AF067]] — Snyder's agency-plus-pathways definition of hope, applied as a practice
 ## Cited in philosophy parallels
 
 - [[R087 — Practise hope]]

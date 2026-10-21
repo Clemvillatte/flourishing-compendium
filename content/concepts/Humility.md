@@ -24,13 +24,14 @@ The tradition behind the construct is older and wider. Aquinas treats humility a
 
 ## Related concepts
 
+
 - [[Narcissism versus healthy self-regard]] — the virtue on the healthy side of the distinction
 - [[Intellectual humility]] — the epistemic subdomain: acknowledging gaps in one's knowledge
 - [[Fallibilism]] — the Peircean root of that epistemic version
 - [[Kenosis]] — the Christian self-emptying line behind the theological discussions
 - [[Modesty norms research]] — the display-side cousin: humility is about accurate self-view, not understatement
 - [[Better-than-average effect illusory superiority]] — the bias the accurate assessment is up against
-
+- [[SE018]] — A principle on acknowledging the limits of one's knowledge, following the Socratic example
 ## Sources
 
 - [Michalec, Papanagnou, Raj, Lundgren, Watkins, Marsick, Ziring & Vaid, "Exploring the presence and roles of humility when experiencing situations of uncertainty", AEM Education and Training, 2025, PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11745895/) — quotes Tangney 2000, pp. 73-74, key elements of humility, verbatim

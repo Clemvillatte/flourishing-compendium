@@ -17,6 +17,7 @@ Metta's cross-tradition family is the universal-love traditions: [[Agape|Kierkeg
 
 
 
+
 - [[Agape]] — Kierkegaard: unconditional love
 - [[Karuna]] — compassion, its companion brahmavihara
 - [[Four immeasurables]] — the brahmavihara set
@@ -28,6 +29,7 @@ Metta's cross-tradition family is the universal-love traditions: [[Agape|Kierkeg
 - Buddhist tradition, Metta Sutta
 - [[Care]] — the Buddhist training of wishing well
 - [[Right intention]] — listed for comparison
+- [[SP059]] — Metta is trained as a stance before a feeling; Spinoza's generositas is likewise a desire by reason's dictate rather than a mood, goodwill as structure rather than feeling.
 ## Sources
 
 - Buddha, Karaṇīya Metta Sutta (Sn 1.8)

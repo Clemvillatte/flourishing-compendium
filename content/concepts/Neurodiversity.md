@@ -22,9 +22,11 @@ The linked principles, MO067 on ADHD and motivation and BE073 on behavioural sym
 ## Related concepts
 
 
+
 - [[Neurodiversity paradigm]] — listed for comparison
 - [[ADHD — interest-based attention]] — listed for comparison
 - [[SE074]] — the self-pattern variation framing for the paradigm's 'different not less' claim
+- [[MO071]] — A principle illustrating Dodson's ADHD account of interest-based engagement as one instance of varying engagement patterns
 ## Sources
 
 - [Singer, Judy (1998), honours thesis "Odd People In" (catalogue description, University of Edinburgh Library)](https://discovered.ed.ac.uk/discovery/fulldisplay/alma9924298553202466/44UOE_INST:44UOE_VU2) — thesis title, institution, and place in the later book
