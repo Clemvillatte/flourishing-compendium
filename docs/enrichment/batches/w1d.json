@@ -74,7 +74,7 @@
  ],
  "in_progress": null,
  "flagged": {
-  "The eternal contribution": "compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses",
+  "The eternal contribution": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: compendium coinage, not a traditional term: page says so in its first sentence; written for the sense BE068 uses]",
   "Phenomenological methods in psychology": "ESM genealogy corrected per OWNER-UPDATE: Conner et al. 2009 (PMC2773515) opened; ESM traced to 1977 Csikszentmihalyi/Larson/Prescott pager study and naturalistic-idiographic traditions; source silent on Husserl, so no Husserl link asserted",
   "Showing versus saying": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC repair: translation re-attributed to Pears-McGuinness (verified vs opened text incl. prop. 7); 'shortest in the book' and intent-gloss removed; 6.41/6.42 added verbatim; Daoist/Zen marked as compar]",
   "Slow-paced breathing": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC repair: one-month duration restored; no subgroup overstatement; '[t]he enhancement' capitalization fixed; Balban framed as related evidence not rate-mechanism confirmation; review limitation (young]",
@@ -86,7 +86,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 153,
- "updated": "2026-10-21T16:20:00+00:00",
+ "updated": "2026-10-21T16:50:00+00:00",
  "qc_log": {
   "Escape from freedom": "approved after 4 advisor QC rounds: quotes verified against opened sources (panarchy ch. V excerpt, Wikipedia, IEP Totalitarianism 2.d, SEP Critical Theory 1.4); Simondon Individuation and The having mode removed from Related; cross-tradition links labelled comparisons; sources_checked: 4",
   "Eternal recurrence": "milestone advisor QC applied: practical-reading attribution qualified; AF069 described as the compendium's separate comparison; Panta rhei, Corsi e ricorsi and Three thousand realms claims externally verified; 'Thou art a God' capitalisation matches primary text",

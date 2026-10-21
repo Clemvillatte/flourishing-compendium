@@ -125,10 +125,10 @@
   "Optimal experience": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: milestone QC round 2: optimal-experience bridge sentence added]",
   "PERMA model": "RESOLVED 2026-10-21 (supervisor worker-verify-qcsup-67ce7e1d, flags-backlog pass 16, issue-absent + ledger): the flagged issue is not present in the current page text; the band ledger documents the repair as applied and validated. Limitation: quotes NOT re-verified against the actual source this pass; the ledger post-repair validation is the supporting evidence. [orig: Reopened for QC: milestone QC round 2: Flourish title claim removed, prose link added]",
   "Relational cultural theory Miller": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: fast-track enriched; title is garbled seed label (should be Relational-cultural theory) - rename needs supervisor; sources: Jordan 2024 APA sample pages (opened)]",
-  "Righteous indignation (nemesis)": "seed cite NE IV.9 is wrong (IV.9 = shame); nemesis mean is NE II.7 (Ross, MIT Classics) + Rhetoric II.9; Aquinas II-II.158 is about anger, not nemesis; page states this"
+  "Righteous indignation (nemesis)": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: seed cite NE IV.9 is wrong (IV.9 = shame); nemesis mean is NE II.7 (Ross, MIT Classics) + Rhetoric II.9; Aquinas II-II.158 is about anger, not nemesis; page states this]"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:20:00+00:00",
+ "updated": "2026-10-21T16:50:00+00:00",
  "band_done": false
 }

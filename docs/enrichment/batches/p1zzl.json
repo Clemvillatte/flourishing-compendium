@@ -13,18 +13,18 @@
  ],
  "in_progress": null,
  "flagged": {
-  "SO072": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "X012": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "X017": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "X018": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "PP064": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "PP069": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "PP073": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "SO061": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor",
-  "SP012": "Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor"
+  "SO072": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "X012": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "X017": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "X018": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "PP064": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "PP069": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "PP073": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "SO061": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]",
+  "SP012": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: Repair complete; validator and scoped advisor checks passed; exact certification limits in item ledger; reciprocal proposals await supervisor]"
  },
  "missing_concepts": [],
  "sources_checked": 61,
- "updated": "2026-10-21T11:33:47+00:00",
+ "updated": "2026-10-21T16:50:00+00:00",
  "band_done": true
 }

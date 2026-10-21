@@ -83,7 +83,7 @@
   "Stress cycle completion (Nagorski, Sapolsky)": "Attribution/title caveat: opened source names Emily and Amelia Nagoski; legacy Sapolsky link not certified. Supervisor rename/reference proposal in w1i-proposals.md; protected identifiers unchanged.",
   "System justification theory": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: QC re-review CLOSED 2026-10-21 (worker-perplexity-67ce7e1d, read-only verification pass): all four quotations re-verified verbatim against the opened author-hosted PDF (2004 review); the omitted trail]",
   "Stress mindset": "RESOLVED by takeover worker-w1i-f6d3f54d 2026-10-21: verified the milestone-5 repair landed (no challenge-appraisal seed sentence in the current file, inline citations present, validator ok) \u2014 repair-presence check, not a fresh source audit",
-  "Akrasia (weakness of will)": "first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md",
+  "Akrasia (weakness of will)": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 20): this flag documents a compendium-summary label note, a QC-closure scoped-PASS record, or a repair-complete note, not an open issue; retained for the audit trail. [orig: first-item advisor QC CLOSED 2026-10-21: scoped PASS after 3 repair rounds (Hare direction, locators, attributions, sentence citations, Related section removed); full history in sources/w1i/ledger.md]",
   "Anxiety about the future": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS; TITLE-SCOPE HOLD retained (seed title vs possibility-framing body; supervisor disposition)]",
   "Beneficial speech": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: milestone QC CLOSED 2026-10-21 (advisor round 3): scoped content PASS]",
   "Body schema": "EVIDENCE-NOTE (supervisor worker-verify-qcsup-67ce7e1d, 2026-10-21, pass 17): this flag documents a completed QC-closure or fast-track evidence record, not an open issue; retained for the audit trail. [orig: milestone QC CLOSED 2026-10-21 (advisor round 3): substantive PASS; Vallar citation added to the first tools sentence; seed-baseline checks 4/4 ok]",
@@ -94,7 +94,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 20,
- "updated": "2026-10-21T16:30:00+00:00",
+ "updated": "2026-10-21T16:50:00+00:00",
  "band_done": true,
  "new_concepts": [
   {
