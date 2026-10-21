@@ -12,11 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 50** — Treat minority stress as a mechanism
 
-Treat minority stress — the chronic stress experienced by members of stigmatized groups due to prejudice, discrimination, and concealment — as a mechanism of health disparities. Ilan Meyer's model (2003) distinguishes distal stressors (discrimination, violence), proximal stressors (internalized stigma, concealment, vigilance), and resilience factors (community, identity).
+Meyer's review defines the framework in the main text:
 
-**Plain words** Minority stress is a mechanism — chronic extra stress from prejudice, discrimination, and concealment, with health effects that compound over years. Not weakness; weather. Living under a permanent drizzle does measurable damage, whatever the umbrella.
+> "One elaboration of social stress theory may be referred to as minority stress to distinguish the excess stress to which individuals from stigmatized social categories are exposed as a result of their social, often a minority, position."
 
-*For example:* The constant low-grade calculus of "is it safe to be fully myself here" — run at every new office, every new neighbourhood — that calculation is the stressor. It's exhausting in a way the majority never runs the software.
+And the model's abstract lists its processes:
+
+> "The model describes stress processes, including the experience of prejudice events, expectations of rejection, hiding and concealing, internalized homophobia, and ameliorative coping processes."
+
+(Meyer, 2003, Psychological Bulletin 129(5), 674-697, [open author manuscript, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/).)
+
+The compendium keeps the model's own structure: the named stressors are the mechanism, and the model names coping processes alongside them rather than only harms.
+
+**Plain words** Where the stressors come from: events (prejudice), anticipation (expecting rejection), concealment (deciding what to hide), and internalized stigma. The model also names coping processes. Notice which of these is operating before deciding what would help.
+
+*For example:* Imagined: at each new office someone calculates how much of themselves to disclose — the calculation itself, run repeatedly, is one of the processes the model names.
+
+## Sources
+
+- [Meyer, "Prejudice, Social Stress, and Mental Health in Lesbian, Gay, and Bisexual Populations", Psychological Bulletin 129(5), 674-697 — open author manuscript, PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC2072932/) — the minority-stress definition and the stress-processes sentence quoted; carrier disclosure: author manuscript deposited in PMC
+
 ## Psychology parallels
 
 - [[Meyer|Meyer]] (2003) on minority stress; the LGBT-health literature (Institute of Medicine, 2011); internalized stigma (Corrigan et al., 2009); concealment and health (Pachankis, 2007); the stigma-and-health framework (Major and O'Brien, 2005).
@@ -28,4 +43,4 @@ Treat minority stress — the chronic stress experienced by members of stigmatiz
 
 ## Practice
 
-- In clinical work with stigmatized clients, assess minority stress. In community work, build resilience factors (community, identity, pride). In policy, reduce distal stressors (see principle 75).
+- Suggested practice: when minority stress may be relevant, consider the stress processes named in the model — prejudice events, expectations of rejection, concealment, internalized stigma — and the coping processes alongside them (see principle 75 for policy-level stressors).
