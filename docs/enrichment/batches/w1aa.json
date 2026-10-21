@@ -62,7 +62,8 @@
   "Investigation of things",
   "Journaling as self-reflection",
   "Kairos (the opportune moment)",
-  "Kalokagathia"
+  "Kalokagathia",
+  "Feng shui (harmonious environment)"
  ],
  "in_progress": null,
  "flagged": {
@@ -107,6 +108,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21 supervisor-df5053ec",
+ "updated": "2026-10-21 supervisor-df5053ec + Feng shui done (worker-takeover-7d3a9c)",
  "band_done": false
 }
