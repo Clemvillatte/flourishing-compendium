@@ -59,7 +59,8 @@
   "Blessedness",
   "Communitarianism",
   "Boredom",
-  "Autarky"
+  "Autarky",
+  "Acculturation theory Berry"
  ],
  "in_progress": null,
  "flagged": {
@@ -113,10 +114,11 @@
   "Blessedness": "QC repair + fast-track verified 2026-10-21 (worker-sup-5e8a3c7f): seed's 'blessedness is virtue itself, not its reward' quote NOT found in cited SEP Spinoza article (checked; cf. Amor dei flag) — replaced with verbatim SEP quotes on beatitudo; owner may wish to restore Ethics VP42 line from an opened primary carrier",
   "Communitarianism": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): SEP Communitarianism (Bell) definition + Rawls-reaction + Sandel/Taylor quotes verified verbatim from opened article; seed's MacIntyre After Virtue / Sandel Liberalism sources retained in spirit, now carried by opened SEP article; validated --fast-track",
   "Boredom": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Eastwood 2012 definition and attentional account quoted via open PMC carriers quoting the paper (Elpidorou PMC4217586; PMC3842844); Eastwood 2012 original not directly opened; function-of-boredom material from Elpidorou PMC4217586; validated --fast-track",
-  "Autarky": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): opened Wikipedia Autarkeia for Stoic/Epicurean quotes (seed's own carrier); Aristotle contemplative material kept as seed description (A095), not quoted; Epicurus Vatican Sayings and Cynic lines preserved from seed, not quoted from opened carrier; validated --fast-track"
+  "Autarky": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): opened Wikipedia Autarkeia for Stoic/Epicurean quotes (seed's own carrier); Aristotle contemplative material kept as seed description (A095), not quoted; Epicurus Vatican Sayings and Cynic lines preserved from seed, not quoted from opened carrier; validated --fast-track",
+  "Acculturation theory Berry": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Berry 1997 model quoted via open PMC reviews quoting the paper (PMC6997899, PMC5003760, PMC9461568, PMC4346023, PMC8168756); Berry 1997 original not directly opened; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:45:52+00:00",
+ "updated": "2026-10-21T16:46:14+00:00",
  "band_done": false
 }
