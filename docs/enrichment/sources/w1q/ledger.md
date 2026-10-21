@@ -419,3 +419,11 @@ damage, w1ab left to its live holder.
   introspection" and "Limits of introspection" both exist as concepts — the same
   duplicate-namespace pattern flagged before (hermeneutic circle precedent). Validator
   ok. QC-pending for the next milestone.
+
+## THE LOGOS COMMON TO ALL — front-matter fix — 2026-10-21T16:01Z, worker-pplxy-7f3d1a9c
+- The first push (d2ef32c97) reordered the file:/navigation:/legacy: front-matter
+  lines (validator FAIL against the pre-enrichment baseline, missed in the chained
+  command because validate exited 0 despite printing FAIL). Fixed: file: line
+  restored to its original position; validated ok against d2ef32c97^ with
+  --fast-track. Ledger note for the supervisor: enrich_validate.py can print FAIL
+  with exit code 0 when chained — worth a look.

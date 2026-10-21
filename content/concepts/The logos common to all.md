@@ -3,9 +3,9 @@ schema: 0
 id: "The logos common to all"
 type: "concept"
 title: "The logos common to all"
+file: "The logos common to all"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
-file: "The logos common to all"
 ---
 The logos common to all is Heraclitus' claim that the order by which all things happen is public: one account, holding always, that anyone can hear and no one owns. His fragments introduce it and complain that most people live as if they had a private one instead.
 
