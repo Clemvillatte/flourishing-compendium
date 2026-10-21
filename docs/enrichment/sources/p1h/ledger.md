@@ -1115,3 +1115,33 @@ open).
   application-to-attention bridge is labelled the compendium's. Round-1/2
   repairs confirmed on the current page (comparison claims absent; scope
   narrowed to the review's actual claims). All components close.
+- **AT016 — Cultivate single-tasking**: RESOLVED. The Monsell 2003
+  blockquote ("Subjects' responses are substantially slower and, usually, more
+  error-prone immediately after a task switch. This 'switch cost' is reduced,
+  but not eliminated, by an opportunity for preparation.") verified VERBATIM
+  against a fresh download of the cited NTU-hosted PDF (the source's curly
+  quotation marks render as straight in the page — standard normalization,
+  words and punctuation identical). Round-1 repairs confirmed on the current
+  page: the universal 200 ms claim is absent and replaced with the honest
+  scoping sentence ("The findings do not supply a fixed time penalty for an
+  everyday interruption"); the kitchen-pause mislabel is absent; the
+  application is narrowed to fewer avoidable task changes. All components close.
+- **AT035 — Recognise and work with mind-wandering**: RESOLVED. Both
+  blockquotes verified VERBATIM against fresh downloads of the cited carriers:
+  Killingsworth & Gilbert 2010 ("In conclusion, a human mind is a wandering
+  mind... comes at an emotional cost.", pdodds.uvm.edu PDF; the 46.9% figure
+  confirmed in the same text) and Mooneyham & Schooler 2013 ("However,
+  emerging evidence suggests that the role of mind-wandering is not entirely
+  pernicious... adaptive functions of the phenomenon.", metalab.ucsb.edu PDF).
+  Round-2 repairs confirmed on the current page: "happens constantly" and
+  "takes its title from" are absent; the time-lag claim is scoped to the
+  authors' interpretation ("The authors interpreted their time-lag analyses as
+  suggesting..."). All components close.
+- **AT039 — Learn to take real breaks**: RESOLVED. The Kang & Kurtzberg 2019
+  blockquote ("The results show that using cell phone for a break did not
+  allow brain to recharge as effectively...") verified VERBATIM against a
+  fresh fetch of the cited PMC7044622 record; the 414-participant count and
+  the shopping-list break design (phone / computer / paper / no break)
+  confirmed in the same record; the second-half phone-break deficit is the
+  paper's own finding. Round-1 repairs confirmed on the current page: the Fox
+  byline is absent. All components close.
