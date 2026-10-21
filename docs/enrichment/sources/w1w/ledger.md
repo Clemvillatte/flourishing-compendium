@@ -530,3 +530,5 @@
 - Taper item (started 49.6, done in ~4 min). Related links confirmed
   existing.
 - Normal validator: ok. State recorded (done count 38).
+  - Repair: original [[A069 — Seek concord (homonoia)]] link restored
+    (validator caught lost seed link on first save; fixed immediately).

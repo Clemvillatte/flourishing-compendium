@@ -31,6 +31,11 @@ At the Oklahoma camp, two groups of boys were first set against each other in co
 - Sherif, Robbers Cave
 - Gaertner and Dovidio, 2000 (seed citation; the common-identity model extends this work)
 
+## Cited in psychology parallels
+
+- [[P137 — Build solidarity without demanding consensus]]
+- [[A069 — Seek concord (homonoia)]]
+
 ## Cited in philosophy parallels
 
 - [[P137 — Build solidarity without demanding consensus]]
