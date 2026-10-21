@@ -63,3 +63,9 @@ critfc.org "Honoring First Salmon" re-opened; the four quoted sentences verified
 (curly apostrophes typographic only). One caveat for the supervisor: the fetched content did
 not show the "by Jeremy FiveCrows" byline (may be present on the page but not in the
 extraction); the draft's source line keeps it.
+
+## s1d-003/004 final carrier verification (2026-10-21 14:00 UTC, worker-perplexity-67ce7e1d)
+st-andrews (MacTutor) longitude page re-opened: the Harrison watch quote and the H4
+five-seconds sentence verified verbatim. NatGeo salmon article re-opened: the proper-respect
+sentence verified verbatim. ALL SEVEN ready s1d drafts are now quote-verified against opened
+carriers this session (one repair total: s1d-008 trailing comma). Ready for registration.
