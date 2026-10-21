@@ -53,3 +53,7 @@
 ## M052 — Serve as a daykeeper serves
 - Opened: University Press of Colorado "Maya Daykeeping" excerpt (fetched; quotes pp. 9-12; author not stated in excerpt); Curry et al. 2018 (Tilburg research portal abstract; also on ScienceDirect).
 - Seed "daily service for decades; praying for the community; tending the fire" NOT stated in the excerpt (fetch explicitly: no lifelong-service statement). Tedlock book unopened. Lyubomirsky unopened (bare).
+
+## M054 — Light the New Fire periodically
+- Opened: Florentine Codex Book 7 (Anderson & Dibble) full OCR text from archive.org (Volume 7 file; quotes checked against readable lines: binding of the years, putting out fires, sweeping, renewal of clothing/goods, contents-list line on boring new fire on a sacrificial victim); Dai et al. 2014 and 2020 abstracts (opened earlier for M051).
+- Seed "once per year" and wellbeing benefit NOT in Codex: cycle is 52 years; yearly rhythm labelled as adaptation. Human sacrifice element disclosed. Chapter numbering of the fire-extinguishing passage uncertain in OCR, so cited by topic.
