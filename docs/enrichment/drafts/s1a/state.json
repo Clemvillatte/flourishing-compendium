@@ -788,6 +788,11 @@
      "t": "2026-10-21T12:30:58+00:00",
      "to": "qc_pending",
      "note": "item 3 drafted (pivot from Deshan recorded); 10/10 body quotes verified vs opened PDF and Wikipedia wikitext; checker 0 errors"
+    },
+    {
+     "t": "2026-10-21T12:44:25+00:00",
+     "to": "published",
+     "note": "supervisor registration ST431"
     }
    ]
   },
@@ -807,5 +812,5 @@
    ]
   }
  },
- "updated": "2026-10-21T12:44:07+00:00"
+ "updated": "2026-10-21T12:44:25+00:00"
 }

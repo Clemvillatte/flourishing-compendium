@@ -22,6 +22,9 @@ This is Dewey's naturalistic proposal, not the position of all Buddhism or Daois
 
 *For example:* A person who has left their childhood tradition is often told they have lost something. The honest inventory is different: what they actually had were moments of awe, gratitude and moral seriousness. Those were the goods. The doctrines were the wrapping. Once the wrapping is gone, the goods still exist, and can be cultivated directly — through art, nature, service, silence.
 
+## Stories
+- [[ST431 — Einstein's Cosmic Religious Feeling|431. Einstein's Cosmic Religious Feeling]]
+
 ## Psychology parallels
 
 - **Intrinsic vs extrinsic religiosity**, intrinsic orientation predicts well-being independent of doctrine (conceptual parallel; Allport and Ross, 1967)
