@@ -38,7 +38,8 @@
   "Transtheoretical model (Prochaska & DiClemente)",
   "Triangular Theory of Love",
   "Theory of Planned Behavior",
-  "Threatened Egotism Theory"
+  "Threatened Egotism Theory",
+  "Trait Activation Theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -71,10 +72,11 @@
   "Transtheoretical model (Prochaska & DiClemente)": "QC repair 2026-10-21 (advisor-flagged): stage-matching intervention prescriptions replaced with marked compendium application grounded in verified recycling/definitions quotes",
   "Triangular Theory of Love": "QC repair 2026-10-21 (advisor-flagged): unsupported per-component decay claim replaced with verified Sternberg weight-reduction quotes; attachment link description narrowed",
   "Theory of Planned Behavior": "QC repair 2026-10-21 (advisor-flagged): unsupported 'failed resolutions usually control-belief' claim replaced with marked editorial application; habit-formation link description narrowed; OCR apostrophe restoration confirmed by visual inspection of scanned page",
-  "Threatened Egotism Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1996 founding review quoted from opened Duke scholars abstract page (full text not open, noted); 1998 Bushman & Baumeister JPSP quotes verified verbatim from opened author-hosted PDF; validated --fast-track"
+  "Threatened Egotism Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): 1996 founding review quoted from opened Duke scholars abstract page (full text not open, noted); 1998 Bushman & Baumeister JPSP quotes verified verbatim from opened author-hosted PDF; validated --fast-track",
+  "Trait Activation Theory": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Tett & Burnett 2003 p.502 definitions verified verbatim via opened Judge & Zapata PDF; axiom + three-cue-group quote verified verbatim via opened Lievens et al 2008 Oxford Handbook chapter PDF; validated --fast-track"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T16:30:23+00:00",
+ "updated": "2026-10-21T16:31:04+00:00",
  "band_done": false
 }
