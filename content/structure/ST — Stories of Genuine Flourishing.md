@@ -94,6 +94,7 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST384 — The Tree Is Spared; the Goose Is Killed]]
     - [[ST394 — The Pagoda Sways Like a Willow]]
     - [[ST412 — The Pagoda Sways Like a Willow]]
+    - [[ST420 — John Muir Rides the Storm in a Treetop]]
   - [[ST-S01.08 — I.8 Subtle Refinements]]
     - [[ST049 — The Pipes of Heaven]]
     - [[ST050 — The Fish Trap and the Rabbit Snare]]
