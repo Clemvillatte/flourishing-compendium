@@ -303,3 +303,7 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 
 ### w1i "Inquiry" — quote fidelity PASS (verification pass)
 - Peirce blockquote EXACT vs the opened Wikisource text of The Fixation of Belief.
+
+### w1i "Moral emotions" — quote fidelity PASS (verification pass)
+- Tangney, Stuewig and Mashek 2007 blockquote EXACT vs the opened PubMed abstract
+  (16953797, abstract opening sentence).
