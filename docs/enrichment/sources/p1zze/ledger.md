@@ -20,3 +20,7 @@
 ## M031 — Work steadily
 - Opened: Florentine Codex Book VI OCR text (riseth from sleep / heavy sleeper; "laughter, sleep, and our sustenance"; chapter numbers not confirmed); Richards et al. 2016 COBRA (PubMed 27461440, N=440). Martell 2010 unopened (bare ref).
 - Seed claims "idle person is the tradition's picture of the degenerating person" and "work without becoming a slave to work / rest as a duty" NOT found verbatim; rest/laughter/sleep as gifts found and quoted; overwork framed as interpretation. Title claim (idleness the root disorder) left untouched as principle statement.
+
+## M032 — Keep body and house clean
+- Opened: Florentine Codex Book VI OCR text (sweeping/washing/table instructions, quoted); Saxbe & Repetti 2010 abstract (SAGE; plus Journalist's Resource summary for the husbands' "largely null"); McMains & Kastner 2011 abstract opened but is about visual-cortex competition, not household clutter -> not cited.
+- Seed "tidying interventions improve mood" and "environmental order steadies attention and conduct" NOT supported by opened sources; page restated as correlational (wives only). Chapter numbers of the Codex passages not confirmed.
