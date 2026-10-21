@@ -61,3 +61,11 @@
   programmatically verified). Alternatives for the supervisor: accept this as the B192 story, or
   upgrade ST184 with the pairing + quotes and add a B192 connection instead — the draft is frozen at
   qc_pending either way. Advisor round-1 repairs all applied; checker 0 errors.
+
+- 2026-10-21 ~12:5xZ, storyteller-pcx-7f3a2b1d: BATCH SCOPE REQUEST (items s1a-023..027): all five targets were taken
+  from the STORIES-TASKBOARD zero-story pool per the owner's current directive (zero-story principles in Daoism,
+  Buddhism, Pragmatism first: B192/B043/B176/D065 + P187) rather than from the lane's recorded slice
+  (D080/D039/D156/B074/B026/P182/P184), whose targets each already carry multiple drafts in flight. The advisor's
+  round-1 verdict on the milestone flagged the slice mismatch as a blocker only the supervisor can clear. Requesting
+  a single disposition for the batch: accept the zero-story-pool scope for this session, or return the drafts for
+  reassignment. Duplication dispositions already routed per item (ST184 for 023; ST095 for 024; none for 025-027).
