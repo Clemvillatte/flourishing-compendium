@@ -7,15 +7,15 @@ file: "Value creation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-V"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter V", "parent": ""}
 ---
-For Nietzsche, value creation is the human act of assigning worth. Zarathustra states it in the chapter on the bestowing virtue:
+For Nietzsche, value creation is the human act of assigning worth. Zarathustra states it in the chapter on the thousand and one goals:
 
-> "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance! Therefore, calleth he himself 'man,' that is, the valuator. Valuing is creating: hear it, ye creating ones! Valuation itself is the treasure and jewel of the valued things. Through valuation only is there value; and without valuation the nut of existence would be hollow." (Nietzsche, Thus Spake Zarathustra, "On the Bestowing Virtue", Common translation, [Project Gutenberg #1998](https://www.gutenberg.org/ebooks/1998))
+> "Values did man only assign to things in order to maintain himself—he created only the significance of things, a human significance! Therefore, calleth he himself 'man,' that is, the valuator. Valuing is creating: hear it, ye creating ones! Valuation itself is the treasure and jewel of the valued things. Through valuation only is there value; and without valuation the nut of existence would be hollow." (Nietzsche, Thus Spake Zarathustra, "The Thousand and One Goals", Common translation, [Project Gutenberg #1998](https://www.gutenberg.org/ebooks/1998))
 
-The passage grounds the compendium's principle E107: the practice of creating values rather than receiving them ([Zarathustra, Gutenberg #1998](https://www.gutenberg.org/ebooks/1998)).
+On this passage, worth is not found ready-made in things: it is assigned, and the assigning is the human creative act.
 
 ### In the compendium
 
-- [[E107 — Practise the creation of values]] — the principle that names the practice directly
+- [[E107 — Practise the creation of values]]
 
 ## Related concepts
 
@@ -26,7 +26,7 @@ The passage grounds the compendium's principle E107: the practice of creating va
 
 - Nietzsche, The Gay Science
 - Thus Spoke Zarathustra
-- [Nietzsche, Thus Spake Zarathustra, translated by Thomas Common, Project Gutenberg #1998](https://www.gutenberg.org/ebooks/1998) — the bestowing-virtue passage quoted above
+- [Nietzsche, Thus Spake Zarathustra, translated by Thomas Common, Project Gutenberg #1998](https://www.gutenberg.org/ebooks/1998)
 
 [[ST295 — Prometheus Steals]]
 [[V2K — Kernels (Volume II)]]
