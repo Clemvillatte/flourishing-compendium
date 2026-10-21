@@ -15,7 +15,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 James's thesis in "The Will to Believe" is often read as permission to believe whatever you like. It is narrower: when a choice is genuine, live, forced, and momentous, and intellectual evidence cannot settle it, then your passional nature must decide, and declining to decide is itself a passional choice with the same risk of getting it wrong.
 
-> Our passional nature not only lawfully may, but must, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds; for to say, under such circumstances, "Do not decide, but leave the question open," is itself a passional decision,—just like deciding yes or no,—and is attended with the same risk of losing the truth. (James, "The Will to Believe," § IV, [Project Gutenberg](https://www.gutenberg.org/files/26659/26659-h/26659-h.htm))
+> Our passional nature not only lawfully may, but must, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds; for to say, under such circumstances, "Do not decide, but leave the question open," is itself a passional decision,—just like deciding yes or no,—and is attended with the same risk of losing the truth. (James, "The Will to Believe," § IV, p. 11, [Project Gutenberg](https://www.gutenberg.org/files/26659/26659-h/26659-h.htm))
 
 The rule applies only where evidence has genuinely run out; where evidence can decide, it should. The cases at issue are those where waiting is not neutral: acting without the belief is itself a way of choosing the other outcome.
 
@@ -30,19 +30,13 @@ The rule applies only where evidence has genuinely run out; where evidence can d
 ## Psychology parallels
 
 - **[[Self-efficacy|Self-efficacy]]**, belief in capability predicts initiation and persistence (Bandura, 1977)
-- **[[Placebo effects|Placebo effects]]**, expectation produces measurable physiological change (Kaptchuk et al., 2008) — belief and expectation produce measurable change (Kaptchuk et al., 2008)
+- **[[Placebo effects|Placebo effects]]**, expectation produces measurable physiological change (Kaptchuk et al., 2008)
 
 ## Philosophy parallels
 
 - **[[The will to believe|The will to believe]]** (James, The Will to Believe)
 - **[[The actualizing tendency|The actualizing tendency]]** (Rogers, On Becoming a Person)
 
-## Primary source (verbatim)
-
-> "Our passional nature not only lawfully may, but must, decide an option between propositions, whenever it is a genuine option that cannot by its nature be decided on intellectual grounds; for to say, under such circumstances, "Do not decide, but leave the question open," is itself a passional decision,—just like deciding yes or no,—and is attended with the same risk of losing the truth."
-> — William James, "The Will to Believe," in The Will to Believe and Other Essays in Popular Philosophy (Longmans, Green, 1896).
-> Locator: § IV, p. 11.
-> Open-access source: https://www.gutenberg.org/files/26659/26659-h/26659-h.htm
 
 <!-- fc: reflections
 Where in your life is the choice forced, momentous, and evidence genuinely insufficient — and the belief you act on actually yours to choose? What's the belief?
