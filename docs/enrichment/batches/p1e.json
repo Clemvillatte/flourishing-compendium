@@ -77,7 +77,7 @@
  "flagged": {
   "D011": "RESOLVED by supervisor-pcx-fe429f3b: 'outperforms on nearly every outcome' NOT in the opened source (PMC2998793 full text + abstract checked, zero 'outperform' hits); parallels line rewritten to the review's own scope (flexibility as fundamental aspect of health; absence linked to psychopathology); page repaired and validated",
   "D068": "RESOLVED by supervisor-pcx-fe429f3b: two bullets verified separately - (1) soft startup: verified against the Carrere and Gottman 1999 Family Process study and the Gottman Institute research summary (how a conflict discussion begins predicts its outcome and the couple's trajectory; the paper PDF at johngottman.net) - claim supported, no repair; (2) 'aggression reliably loses long games' had NO citation and no carrier - claim clause removed, reduced to bare reference per the AF011/AF046/BI041 precedent; validated",
-  "D069": "inherited psychology-parallels claim (Rosenberg 2003 NVC 'defuses attack') not verified against an opened source; flagged for supervisor",
+  "D069": "RESOLVED by supervisor-pcx-fe429f3b: the four-component model (observation, feeling, need, request) verified against a university-hosted excerpt of Rosenberg's own text (unm.edu course copy: the four components; observation without evaluation or people hear criticism) and multiple summaries of the 2003 book - the gloss is the model's own thesis correctly attributed to Rosenberg 2003 (advocacy, presented as such); no repair needed",
   "D073": "RESOLVED by supervisor-pcx-fe429f3b: planning-fallacy bullet verified against the K&T 1979/1982 definition as quoted in the Buehler-Griffin-Peetz chapter (underestimate the time required to complete a project despite past failures) - the 'and overestimate control' clause is NOT in the K&T account and was removed; DTIC 1977 report PDF located as lawful carrier; validated",
   "D075": "NEXT ITEM for the p1e successor: D075 (Daoist, on plain-words replicate list); then D008, D018, D023, D045, D065; established sources: Legge DDJ via Gutenberg cache/epub/216 (raw text verified), Legge Zhuangzi via ETH Zurich PDF (pypdf)",
   "D008": "RESOLVED by supervisor-pcx-fe429f3b: verified against a fresh download of the Yaden et al. 2017 Review of General Psychology PDF (author copy at ppc.sas.upenn.edu) - the review unifies awe, peak experiences, flow and others as STEs defined by decreased self-salience and increased connectedness; claim supported; gloss tightened to the paper's own terms (reliably->framework wording); validated",
@@ -134,7 +134,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 49,
- "updated": "2026-10-21T13:37:32+00:00",
+ "updated": "2026-10-21T13:37:46+00:00",
  "band_done": false,
  "takeover": {
   "by": "genuineflourishing35",
