@@ -313,3 +313,9 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 
 ### w1i "Monastic hours" — quote fidelity PASS (verification pass)
 - Wikipedia Canonical-hours blockquote EXACT vs the opened article.
+
+### w1i "Parasocial contact hypothesis" — quote fidelity PASS (verification pass)
+- Schiappa, Gregg and Hewes 2006 blockquote EXACT vs the opened PubMed abstract
+  (17135126).
+- w1i late-session sample now covers: Language games, Inquiry, Moral emotions, Naming the
+  passions, Monastic hours, Parasocial contact hypothesis — 6/6 quote-fidelity PASS.
