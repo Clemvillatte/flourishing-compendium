@@ -5,7 +5,8 @@
     "K413 — Box breathing",
     "K414 — Compassion meditation (CCT-style)",
     "K415 — Mindful eating",
-    "K416 — RAIN (Recognize, Allow, Investigate, Nurture)"
+    "K416 — RAIN (Recognize, Allow, Investigate, Nurture)",
+    "K417 — Shouyi (guarding the One)"
   ],
   "flagged": {},
   "new_kernels": [
@@ -36,5 +37,5 @@
       ]
     }
   ],
-  "sources_checked": 19
+  "sources_checked": 23
 }
