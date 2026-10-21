@@ -40,3 +40,5 @@
 - Opened (search excerpts): Panarchy.org Rogers excerpt (quote verbatim, 1953 essay in 1961 book); PMC8608581 (pp. 186-187 cite); Ryff 1989 PDF opening pages. Book itself not opened. "Practices maintained/varied" is the compendium's inference. Walking-couple anecdote dropped.
 ## R017 — connection to spirituality
 - Opened (search excerpts): Bond University record of Gee et al. 2014; Kilcullen et al. JCU accepted manuscript (sample not seen); Queensland Health SEWB card guide. Seed attributes chapter to "Dudgeon et al., 2014" but chapter author is Gee et al.; editors are Dudgeon, Milroy, Walker. Chapter text not opened; "Dreaming as living reality" and fisherman anecdote unverified/dropped. Locator may need updating to Gee et al.
+## R019 — connection to body
+- Opened (search excerpts): AIFS summary; Gee et al. chapter PDF excerpt (definition verbatim); NIAA 2017 framework; QMHC paper. Seed cites SHRG 2004; the seven-domain model is from Gee 2014 / 2017 framework; 2004 framework itself not opened. Sleep/rest claim not found. Sleep-and-job anecdote dropped.
