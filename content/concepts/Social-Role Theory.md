@@ -13,7 +13,7 @@ Social-Role Theory is Alice Eagly's account of sex differences and similarities 
 
 ### Origin
 
-Eagly formulated the theory in her 1987 book Sex Differences in Social Behavior: A Social-Role Interpretation, building on her earlier work on gender stereotypes as inferences from social roles. The book applied social-role thinking to meta-analyses of aggression, helping, social influence and group behaviour ([Eagly and Wood, 1988 APA paper](https://files.eric.ed.gov/fulltext/ED303721.pdf)).
+Eagly formulated the theory in her 1987 book Sex Differences in Social Behavior: A Social-Role Interpretation. Her earlier work treated gender stereotypes as inferences from social roles. The book applied social-role thinking to meta-analyses of aggression, helping, social influence and group behaviour ([Eagly and Wood, 1988 APA paper](https://files.eric.ed.gov/fulltext/ED303721.pdf)).
 
 ### Core claims
 
@@ -27,12 +27,14 @@ These role expectations "are thought to arise from the distribution of women and
 
 The theory gives a structural reading of gender differences: they arise primarily from role distributions, and the roles carry expectations that people tend to act out. In industrialized economies, roles are organized so that women are more likely to be homemakers and caretakers, and men primary providers in full-time paid work ([Eagly and Wood, 2016](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118663219.wbegss183)).
 
+An everyday-life illustration (imagined, not a documented study): in a family where one partner becomes the primary caregiver and the other the primary earner, each comes to be expected to be what the role rewards — the one attuned to the children's needs, the other to providing and leading. The theory would read those expectations as the role talking, not as fixed essences of the two people.
+
 ### In the compendium
 
 - [[SO055 — Treat gender as a cultural system]]: the theory is a mechanism account for how a culture's gender assignments become behaviour
 - [[SO006 — Treat the social environment as a designable context]]: roles are the designable part of the environment
-- [[BE019 — Learn to schedule pleasurable activities — enjoyment-driven behaviour]]: roles assign the activities that fill a person's days
-- [[AF036 — Learn to regulate through action — affect follows behaviour]]: enacting a role's activities shapes the person enacting them
+- [[BE019 — Learn to schedule pleasurable activities — enjoyment-driven behaviour]]
+- [[AF036 — Learn to regulate through action — affect follows behaviour]]
 
 ## Related concepts
 

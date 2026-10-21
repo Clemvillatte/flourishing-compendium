@@ -33,7 +33,7 @@ The theory remains popular mainly among European social psychologists, and is le
 
 - [[SO034 — Treat knowledge as social]]: the consensual universe is the theory's working image of knowledge as a collective achievement
 - [[SO018 — Treat language as a cultural practice, not just a medium]]: the code for naming and classifying is language doing cultural work
-- [[SO006 — Treat the social environment as a designable context]]: shared codes orient participants before any individual decides anything
+- [[SO006 — Treat the social environment as a designable context]]: shared codes help participants orient themselves
 - [[SO044 — Treat the WEIRD critique as a standing corrective]]: psychology's concepts get elaborated differently in different publics; the theory's own uneven geography is a live case
 
 ## Related concepts
@@ -42,7 +42,7 @@ The theory remains popular mainly among European social psychologists, and is le
 - [[Social construction of gender]] — shared categories doing their work in one domain
 - [[Situated cognition theory]] — thinking as scaffolded by settings and tools
 - [[Cultural evolution theory]] — how shared contents change across generations
-- [[Collective effervescence theory Durkheim]] — Durkheim's account of shared ritual states, the sociological root
+- [[Collective effervescence theory Durkheim]] — Durkheim's account of shared ritual intensity producing group solidarity
 - [[Social learning theory (Bandura)]] — the individual-side counterpart: learning from models
 - [[Phenomenology of the lifeworld]] — the familiar world of lived experience a community shares
 - [[Naive realism]] — people overestimate the objectivity of their own perception

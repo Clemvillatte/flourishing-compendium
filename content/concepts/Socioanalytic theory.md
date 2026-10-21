@@ -32,9 +32,9 @@ Hogan first set out the theory in his 1983 Nebraska Symposium chapter, "A Socioa
 ### In the compendium
 
 - [[R077 — Practise relational autonomy]]: autonomy is pursued inside groups that grant acceptance and status
-- [[B119 — The self is a chariot — parts without an essence]]: an analogy of the compendium's own making, not a claim of socioanalytic theory
-- [[B003 — Hold the self lightly (anatta)]]: identity as strategy rather than essence
-- [[SE069 — Recognise identity disturbances — when self is fragmented]]: identity is defined as strategies, and strategies can be disturbed
+- [[B119 — The self is a chariot — parts without an essence]]
+- [[B003 — Hold the self lightly (anatta)]]
+- [[SE069 — Recognise identity disturbances — when self is fragmented]]
 
 ## Related concepts
 

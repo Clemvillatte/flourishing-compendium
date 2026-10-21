@@ -7,7 +7,7 @@ file: "Source monitoring"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Source monitoring is the cognitive process by which a person attributes remembered information to its origin: whether something was seen, heard, imagined or read ([Johnson, M. K., Hashtroudi, S. and Lindsay, D. S., 1993](https://pubmed.ncbi.nlm.nih.gov/8346328/)). The framework comes from their 1993 synthesis of the same name. Their argument:
+Source monitoring is the cognitive process by which a person attributes remembered information to its origin: whether something was seen, heard, imagined or read ([Wikipedia, Source-monitoring error](https://en.wikipedia.org/wiki/Source-monitoring_error), whose introduction describes memory records being activated and evaluated through decision processes, with a memory thereby attributed to a source). The framework comes from Johnson, Hashtroudi and Lindsay's 1993 synthesis of the same name. Their argument:
 
 > "source monitoring is based on qualities of experience resulting from combinations of perceptual and reflective processes, usually requires relatively differentiated phenomenal experience, and involves attributions varying in deliberateness." (Johnson, Hashtroudi and Lindsay, [Source monitoring, Psychological Bulletin 114(1), 1993](https://pubmed.ncbi.nlm.nih.gov/8346328/), abstract)
 
@@ -24,7 +24,7 @@ The process runs on two speeds. Heuristic judgements are fast and unconscious, u
 ## Sources
 
 - [Johnson, M. K., Hashtroudi, S. and Lindsay, D. S. (1993), "Source monitoring", Psychological Bulletin 114(1), 3-28 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/8346328/) — the framework sentences quoted verbatim; abstract opened this session
-- [Wikipedia, "Source-monitoring error"](https://en.wikipedia.org/wiki/Source-monitoring_error) — the error definition, the heuristic/systematic distinction, and the disruption factors; raw HTML opened this session
+- [Wikipedia, "Source-monitoring error"](https://en.wikipedia.org/wiki/Source-monitoring_error) — the attribution-by-decision-processes description, the error definition, the heuristic/systematic distinction (systematic judgements are "slow and require a lot of conscious effort"), and the disruption factors; raw HTML opened this session
 
 ## Cited in psychology parallels
 

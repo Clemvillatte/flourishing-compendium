@@ -149,10 +149,10 @@ printing at p. 11 if a page locator is wanted. No edit made (no baton).
 - Hammond & Brown 2026 blockquote EXACT vs the opened PubMed abstract (40575850), including
   the screening numbers (1,894 results; 19 sources; 4 defined / 12 mentioned / 3 described)
   and the physiological-equilibrium + tentative-guidelines outcome sentence.
-- PMC 4936796: ROUTED DEFECT — the displayed quote "studies that empirically test the
-  efficacy ... do not exist" drops the article's opening hedge "To the best of our
-  knowledge," (the printed sentence begins "To the best of our knowledge, studies that
-  empirically test..."). Restore the hedge or de-quote. Minor paraphrase nuance in the
+- PMC 4936796: ROUTED FINDING — the displayed quote "studies that empirically test the
+  efficacy ... do not exist" is a contiguous verbatim fragment; the concern is the lost
+  epistemic qualifier "To the best of our knowledge," that opens the printed sentence.
+  Restore the hedge or de-quote the sentence. Minor paraphrase nuance in the
   same paragraph: the article says antidissociative skills "was related to a decrease in
   dissociation", the page says "followed by" — suggest aligning to "related to".
 - PMC 7001344: "empirical evidence is lacking" EXACT ("Whilst many therapies are advocated
@@ -214,5 +214,27 @@ Repairs applied 14:48-14:50Z, all six now awaiting round-2 confirmation:
   D. S.); first-person question removed; "deployed when the stakes demand it" removed;
   MTM gloss corrected to its own page's declaration; misinformation gloss reworded;
   citations added.
-State: all six reopened with reasons and re-done after repair; band_done restored only
-after QC round 2 confirms.
+State note (correction): the reopen command only allows one in-progress item at a time, so
+reopens were interleaved with repairs rather than batched; Social representation theory
+was repaired without a reopen (its repaired version was committed directly). band_done
+stays false until QC round 2 confirms.
+
+## w1p band — round-2 QC repairs applied (commit timestamps will carry true times)
+
+Round-2 advisor findings (all FAIL, smaller bounded repairs) applied:
+- Situated freedom: "same thesis" replaced with inline links; interpretation sentence
+  replaced with the restrained "Decisions have consequences for subsequent choices" + link;
+  "inside a situation one did not choose" → "within concrete circumstances".
+- Social-Role Theory: BE019/AF036 interpretive clauses removed (bare links retained per
+  validator occurrence rules); labelled imagined everyday-life illustration added;
+  origin participial tail removed.
+- Socioanalytic theory: B003/SE069/B119 clause text removed (bare links retained);
+  everyday-life case already labelled.
+- Sociotropy-autonomy: D080 clause removed (bare link retained); "defensive independence"
+  (from an unopened search snippet) removed from the R101/R077 clause.
+- Source monitoring: opening definition sentence re-cited to Wikipedia's
+  attribution-by-decision-processes introduction; systematic-judgement wording verified
+  verbatim against the opened raw HTML ("slow and require a lot of conscious effort").
+- Social representation theory: Collective effervescence gloss corrected to the target
+  page's own declaration; SO006 clause aligned with Moscovici's definition wording.
+Validator: all six PASS (fast-track). Awaiting round-3 confirmation.

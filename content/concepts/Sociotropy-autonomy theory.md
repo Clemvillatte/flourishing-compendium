@@ -21,9 +21,9 @@ The theory's working prediction is a match between person and event: "In each pe
 
 ### In the compendium
 
-- [[R101 — Practise relational autonomy]] and [[R077 — Practise relational autonomy]]: the theory's dependency and defensive independence are psychological neighbours of what the principles guard against
+- [[R101 — Practise relational autonomy]] and [[R077 — Practise relational autonomy]]: the theory's dependency construct is the clinical neighbour of the autonomy the principles practise
 - [[SO013 — Treat cultural meaning as constructed, not given]]: the two styles are organized patterns of meaning about the self
-- [[D080 — Dissolve rigid right and wrong (qiwu)]]: the autonomous style's self-judgment is a form of rigidity
+- [[D080 — Dissolve rigid right and wrong (qiwu)]]
 
 ## Related concepts
 
