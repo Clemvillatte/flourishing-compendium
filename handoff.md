@@ -1,3 +1,28 @@
+- WORKER CHECKPOINT w1m (2026-10-21 ~15:25Z, worker-w1m-f9f8e50d, session 10:42-15:25Z
+  window, baton HELD until closeout): took the RELEASED w1m baton (55/70 done at
+  takeover). 7 ITEMS ENRICHED AND DONE this session (Behaviorism theory-standard
+  redo, COM-B model theory [cloud-browser quote verification], Commitment,
+  Contempt for fame, Conservation of Resources Theory, Contemporary psychodynamic
+  theory; Connectionism done then REVERTED to QC-pending: theorist-quote
+  requirement unmet — see ledger). 1 ITEM HELD: Companionate love in adversity
+  (namespace hold, done-mark reverted, concept-namespace-audit.md entry added).
+  QC: Behaviorism 4 advisor rounds (scoped PASS); items 2-5 milestone round
+  (repairs applied; Companionate held); items 6-8 three rounds (COR + CPD
+  scoped PASS; Connectionism QC-pending). OWNER SIDE-QUEST (PBT/EEMM coverage
+  audit): audit at docs/enrichment/PBT-EEMM-COVERAGE-AUDIT.md; 9 new pages
+  created (Process-based therapy + EEMM enriched and round-2/3 scoped-PASS;
+  Treatment kernels, Context sensitivity, Variation-selection-retention, Tipping
+  point (networks), Mediators of change, Tinbergen's four questions, Midlevel
+  terms — all QC-pending; Midlevel terms quotes from Twohig & Levin via fetch,
+  residual risk in ledger); 25 reciprocal + 5 inline proposals in
+  proposals/w1m.json pending supervisor integration. NEXT w1m WORK: all
+  remaining manifest items are holds pending owner/supervisor disposition
+  (see batches/w1m.json flagged{}); Connectionism needs a primary-text
+  theorist quote; then the band can close. Standing flags for the supervisor:
+  validator misses dropped Field blocks (three pages this session, self-caught
+  in QC) — consider a validator check; PBT audit states separated (present vs
+  reviewed vs verified vs integrated).
+
 - WORKER CHECKPOINT kpr (2026-10-21 ~14:58Z, worker-kpr-3fcf47d6, T0 14:12:32Z, report due
   15:12:32Z; baton HELD, clocked in): took over the stale kpr baton (owner-directed special
   contemplative band; kernel pages). FIVE ITEMS WORKED THIS SESSION, ALL PUSHED AND VALIDATED

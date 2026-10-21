@@ -18,6 +18,10 @@ The approach's modern revival came in 1986, when David Rumelhart and James McCle
 
 > "Connectionism sprang back onto the scene in 1986 with a monumental two-volume compendium of connectionist modeling techniques (volume 1) and models of psychological processes (volume 2) by David Rumelhart, James McClelland and their colleagues in the Parallel Distributed Processing (PDP) research group." (IEP, Connectionism, section 4)
 
+The revival's founding statement is a theorist's passage, from the movement's own opening chapter by McClelland, Rumelhart and Hinton:
+
+> "In our view, people are smarter than today’s computers because the brain employs a basic computational architecture that is more suited to deal with a central aspect of the natural information processing tasks that people are so good at." (McClelland, Rumelhart & Hinton, 1986, "The Appeal of Parallel Distributed Processing", PDP Vol. 1, Chapter 1, [PDF at Stanford](https://stanford.edu/~jlmcc/papers/PDP/Chapter1.pdf))
+
 The revival was powered by a learning algorithm, backpropagation, which let multi-layer networks learn from their errors.
 
 ### Core claims
@@ -70,4 +74,5 @@ Quantitative General · Psychological science
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, "Connectionism"](https://iep.utm.edu/connectionism/) — the definition, the 1986 PDP resurgence, the representation and processing claims, the learning characterization, the past-tense model, and the Fodor-Pylyshyn critique; all quotations verified verbatim against the opened page (the article's byline was not verifiable from the opened HTML; no editor claim made)
+- [McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. (1986), "The Appeal of Parallel Distributed Processing", in Parallel Distributed Processing, Vol. 1: Foundations, Chapter 1 — PDF at Stanford](https://stanford.edu/~jlmcc/papers/PDP/Chapter1.pdf) — the theorists' own statement of the approach's wager
 - Rumelhart, D., Hinton, G., & Williams, R. (1986), "Learning internal representations by error propagation", in Parallel Distributed Processing, Vol. 1 — the backpropagation paper named by the IEP article's references

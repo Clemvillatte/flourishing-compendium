@@ -528,3 +528,12 @@ without --fast-track vs seed baselines: both ok. ROUND-2/3 SCOPED PASS
 recorded for Process-based therapy and Extended Evolutionary Meta-Model
 (scoped to these two pages; the other seven PBT pages, exhaustive saturation
 and the pending link integration remain open, per the advisor).
+
+## Connectionism closed (2026-10-21, ~15:30Z)
+Theorist-quotation requirement met: McClelland, Rumelhart & Hinton 1986, "The
+Appeal of Parallel Distributed Processing" (PDP Vol. 1, Chapter 1, Stanford-
+hosted author PDF) — the "In our view, people are smarter than today's
+computers..." passage, substring-verified against the extracted PDF text
+(the extraction renders the curly apostrophe in "today's" as a space; noted
+here). Quote added to the page with carrier link; validator-clean vs
+1f190f132; done-mark restored (QC-pending flag cleared).
