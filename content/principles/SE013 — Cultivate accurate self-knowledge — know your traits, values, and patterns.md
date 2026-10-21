@@ -16,7 +16,7 @@ Accurate self-knowledge needs the views of others. Vazire's model of self-other 
 
 Vazire and Carlson describe the model's proposed asymmetry:
 
-> "Specifically, Vazire (2010) proposed that the self has better information than others do for judging internal traits—traits defined primarily by thoughts and feelings, such as being anxious or optimistic—but that others have better information than the self for judging external traits—traits defined primarily by overt behavior, such as being boisterous or charming"
+> "Specifically, Vazire (2010) proposed that the self has better information than others do for judging internal traits—traits defined primarily by thoughts and feelings, such as being anxious or optimistic—but that others have better information than the self for judging external traits—traits defined primarily by overt behavior, such as being boisterous or charming."
 
 (Vazire & Carlson, 2011, p. 106, Current Directions in Psychological Science, [author-hosted PDF](https://www.simine.com/docs/Vazire_&_Carlson_CDPS_2011.pdf).)
 

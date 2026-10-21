@@ -26,7 +26,7 @@ The compendium takes this as a writing prompt for an identity transition, rather
 
 ## Sources
 
-- [McAdams & McLean (2013), "Narrative Identity", Current Directions in Psychological Science 22(3) — open course mirror of the published text](https://www.studeersnel.nl/nl/document/hogeschool-van-amsterdam/psychologie-de-basis/mc-adams-dan-p-and-kate-c-mc-lean-2013-narrative-identity/44583338) — the two-step passage quoted; publisher page: [doi.org/10.1177/0963721413475622](https://doi.org/10.1177/0963721413475622)
+- [McAdams & McLean (2013), "Narrative Identity", Current Directions in Psychological Science — open course mirror of the published text](https://www.studeersnel.nl/nl/document/hogeschool-van-amsterdam/psychologie-de-basis/mc-adams-dan-p-and-kate-c-mc-lean-2013-narrative-identity/44583338) — the two-step passage quoted; article identifier: [doi.org/10.1177/0963721413475622](https://doi.org/10.1177/0963721413475622)
 ## Psychology parallels
 
 - **Identity transitions and well-being**, how people navigate identity transitions affects well-being (Ibarra, 2003; McAdams & McLean, 2013)
