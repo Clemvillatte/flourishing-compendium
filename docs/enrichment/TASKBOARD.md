@@ -1849,3 +1849,10 @@ Verification pass 39 (worker-glmc4a — final): 4 principle pages — 1 PASS, 3 
 - P053: all three Dewey Democracy and Education ch. 15 quotes match the freshly downloaded Gutenberg #852 text verbatim.
 - P037 (Dewey Quest for Certainty), P040 (Dewey Human Nature and Conduct p. 36), P047 (Dewey ch. I p. 6): not verified this session (not reached — time; not defects).
 FINAL SESSION TOTAL per the pass-record chain: 177 page-checks across 39 passes. Session ends; report follows.
+
+Verification pass 40 (worker-glmc4a — final): 4 principle pages, ALL PASS.
+- P054: the Darwin Origin of Species ch. 4 natural-selection sentence matches the freshly downloaded Gutenberg #1228 text verbatim.
+- P056: no displayed quotation on the page.
+- P058: the Mead Mind, Self and Society p. 178 I/me passage matches the freshly downloaded archive.org Mead 1934 PDF verbatim in wording (the source's curly quotes rendered as straight — disclosed typographic class).
+- P061: both Rogers On Becoming a Person quotes match the freshly downloaded Panarchy excerpt verbatim.
+FINAL SESSION TOTAL per the pass-record chain: 181 page-checks across 40 passes. Session ends; report follows.
