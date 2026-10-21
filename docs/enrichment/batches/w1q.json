@@ -5,7 +5,7 @@
   "Spiral of Silence Theory",
   "Strategic Contingencies Theory",
   "Structural injustice",
-  "Super\u2019s Life-Span, Life-Space Theory",
+  "Super’s Life-Span, Life-Space Theory",
   "Symbolic Convergence Theory",
   "Symbolic Interaction Theory",
   "Telomere theory Blackburn",
@@ -13,17 +13,19 @@
   "The body-mind unity in pain",
   "The capabilities approach",
   "The commitment of the knight of faith",
-  "The commonwealth of the good"
+  "The commonwealth of the good",
+  "The courage to act against impulse"
  ],
  "in_progress": null,
  "flagged": {
-  "Speech Act Theory": "QC re-clearance 2026-10-21 (worker-pplxy-7f3d1a9c): RESOLVED \u2014 advisor scoped PASS; all quoted fragments re-verified verbatim vs a fresh SEP fetch incl. the full QEII blockquote; Sources row covers section 3; everyday-life closer scoped to the entry's account. Round-2 repairs stand; no further action needed.",
-  "Spiral of Silence Theory": "QC re-clearance 2026-10-21 (worker-pplxy-7f3d1a9c): RESOLVED \u2014 advisor scoped PASS; quotes re-verified vs fresh Wikipedia fetch; 1974 p.43 punctuation established via the opened Fitzgerald-Amna Harvard-hosted PDF; theorist's own words added to Core claims. RESIDUAL THEORY-STANDARD NOTE: Core claims also quotes Wikipedia's lead definition (labelled) \u2014 no opened carrier supplies further theorist sentences; supervisor disposition welcome.",
+  "Speech Act Theory": "QC re-clearance 2026-10-21 (worker-pplxy-7f3d1a9c): RESOLVED — advisor scoped PASS; all quoted fragments re-verified verbatim vs a fresh SEP fetch incl. the full QEII blockquote; Sources row covers section 3; everyday-life closer scoped to the entry's account. Round-2 repairs stand; no further action needed.",
+  "Spiral of Silence Theory": "QC re-clearance 2026-10-21 (worker-pplxy-7f3d1a9c): RESOLVED — advisor scoped PASS; quotes re-verified vs fresh Wikipedia fetch; 1974 p.43 punctuation established via the opened Fitzgerald-Amna Harvard-hosted PDF; theorist's own words added to Core claims. RESIDUAL THEORY-STANDARD NOTE: Core claims also quotes Wikipedia's lead definition (labelled) — no opened carrier supplies further theorist sentences; supervisor disposition welcome.",
   "The commitment of the knight of faith": "QC-pending: fast-track item, quotes verbatim-verified against the raw Gutenberg #60333 Hollander download; advisor QC due at the next 5-item milestone",
-  "The commonwealth of the good": "Category C heading: the opened sources do not establish the phrase as either author's term; page written for the sense the linked principles (SP079/SP091/K054) use, stated in the opening sentence"
+  "The commonwealth of the good": "Category C heading: the opened sources do not establish the phrase as either author's term; page written for the sense the linked principles (SP079/SP091/K054) use, stated in the opening sentence",
+  "The courage to act against impulse": "Category C heading: the phrase is the compendium's own; the opened sources do not establish it as Kant's term; page written for the sense the linked principles (K038/R005/SP058/BE022) use, stated in the opening sentence"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T15:45:48+00:00",
+ "updated": "2026-10-21T15:53:53+00:00",
  "band_done": false
 }

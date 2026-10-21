@@ -334,3 +334,17 @@ damage, w1ab left to its live holder.
   recorded for the checked quotations, repairs, and link glosses.
 - Commonwealth of the good: scoped PASS; Category C caveat recorded as an
   interpretive disclosure, not an unresolved QC failure.
+
+## THE COURAGE TO ACT AGAINST IMPULSE — 2026-10-21T16:03Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 5). Category C: compendium's own phrase; page says so in
+  the opening sentence. Carrier: Project Gutenberg #5682 (Kant, Fundamental Principles
+  of the Metaphysic of Morals, trans. T. K. Abbott), raw HTML downloaded and all three
+  quotes substring-verified: courage-as-temperament passage (with honest ellipsis);
+  "exclude the influence of inclination... even to the thwarting of all my
+  inclinations" (footnote marker omitted); the unfortunate-man passage (Abbott's
+  wording: "hopeless sorrow", "relish for life", "strong in mind", hyphen dashes).
+- Note: the widely-quoted "hopeless grief"/"taste for life" wording is NOT Abbott's;
+  the page follows the opened Abbott text. K038/R005/SP058/BE022 clauses kept to what
+  those pages carry (K038 verse paraphrase; Tutu quote; Spinoza Ethics III.59 note;
+  Linehan definition). Anger/Forgiveness Related links bare (seed-only or unchecked
+  targets). Validator ok. QC-pending for the next milestone.
