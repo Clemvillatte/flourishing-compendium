@@ -339,3 +339,6 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 - Both Slovic and Weber factor passages EXACT vs the opened Columbia white paper PDF
   (the page's ellipsis sits between two complete, verbatim sentences; the page renders
   the carrier's own quotation marks around "dread risk" / "unknown risk").
+
+### w1k "Schadenfreude's relational costs" — quote fidelity PASS (verification pass)
+- Pagliaro et al. 2019 sentence EXACT vs the opened author-copy PDF (General discussion).
