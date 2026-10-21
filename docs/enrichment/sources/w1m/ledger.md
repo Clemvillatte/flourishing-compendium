@@ -63,3 +63,18 @@
   from FULL neighbour output (6/8/7 total connections). All validated ok
   --fast-track vs pre-enrichment baselines. State flags set RESOLVED
   (scoped PASS, inherited material and whole-band certification excluded).
+
+## The limits of introspection (2026-10-21, worker-p1zzg-8c31f0a7)
+
+- Fast-track enriched (degree: 5 connections total; real defined
+  construct). The seed body was a broken fragment ("and its complement,
+  first-person data as necessary...") — replaced with a sourced account.
+  QUOTES verified against the freshly fetched MIT-hosted full text of
+  Nisbett & Wilson 1977: abstract opening sentence and the a-priori-
+  causal-theories sentence, both verbatim. The three-failures sentence
+  (a/b/c) paraphrased in prose rather than quoted.
+- Related targets Introspection illusion (deg 6) and Self-perception
+  theory (deg 2) verified to exist. Validator ok (fast-track).
+- QC NOTE: advisor QC NOT yet run on this item (4th fresh item; the
+  item-5 milestone is next). State flag records QC-pending for the
+  supervisor's next sample.
