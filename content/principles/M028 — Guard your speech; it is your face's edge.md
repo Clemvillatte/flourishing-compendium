@@ -12,16 +12,14 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 28** — Guard your speech; it is your face's edge
 
-The huehuetlatolli, the elders' words collected in Book VI of the Florentine Codex, carry a speech discipline: speak slowly, do not babble, do not interrupt, do not mock the old, the sick, the deaf, or the poor; do not speak vainly or boast; when you speak, let it be measured. Among the elders' surviving instructions, in the Codex's English rendering:
+Chapter 22 of Book VI presents a father's advice to his son about speaking slowly, deliberately and moderately, and softening his voice. The advice warns that hurried or loud speech can affect how others describe the speaker. The compendium applies this counsel to everyday conversations.
 
-> "Do not mock the old or the crippled… Do not become haughty on account of your beauty, for that is like a flower, it withers and fades." (attributed to the Florentine Codex, Book VI, [as quoted in the Cottonwood history of Mexico](https://cottonwood.world/histories/mexico/); translation chain not yet verified against a scholarly edition — see the ledger hold)
-
-Speech, in this tradition, is the primary instrument by which the face (the developed self) is known, and its care is a character practice, not an etiquette. A modern suggested exercise in this spirit: one conversation a day conducted with fully measured speech (no interruption, no mockery, no waste).
+> "Moderately, middlingly art thou to carry, to emit thy spirit, thy words. And thou art to improve, to soften thy words, thy voice." (Florentine Codex, Book 6, ch. 22, Anderson and Dibble translation, p. 122)
 
 **Plain words**
-The old speeches treat how you talk as part of who you are becoming. Speaking slowly, letting others finish, refusing to mock the weak: these are not manners but self-shaping. Try one conversation a day where you hold the line.
+When you have something to say, try saying it at a pace and volume you can control. A point can be delivered without shouting or rushing through it.
 
-*For example (imagined):* In a meeting where everyone performs, one person speaks last, slowly, once, and it is the sentence that gets minuted. The discipline showed; the face was legible.
+*For example (imagined):* During a tense meeting, someone pauses before stating a disagreement slowly and without raising their voice.
 
 ## Psychology parallels
 
@@ -34,7 +32,7 @@ The old speeches treat how you talk as part of who you are becoming. Speaking sl
 
 ## Practice
 
-- A modern suggested exercise: pick one conversation a day and hold the line in it: no interruption, no mockery, no boasting, nothing wasted.
+- A modern suggested exercise: choose one conversation in which to practise a deliberate pace and moderate volume.
 
 ## Related concepts
 
@@ -43,4 +41,4 @@ The old speeches treat how you talk as part of who you are becoming. Speaking sl
 
 ## Sources
 
-- [Florentine Codex, Book VI (as quoted in the Cottonwood history of Mexico)](https://cottonwood.world/histories/mexico/) — the "do not mock" instruction quoted above; the huehuetlatolli speech discipline is the tradition the Codex's Book VI records.
+- [Sahagún, Florentine Codex: General History of the Things of New Spain, Book 6: Rhetoric and Moral Philosophy, trans. Charles E. Dibble and Arthur J. O. Anderson (Santa Fe: School of American Research and University of Utah, 1969), ch. 22, p. 122 — archive.org scan](https://archive.org/details/volume-11-book-11-earthly-things-florentine-codex-general-history-of-the-things-of-new-spain_202406) — the speech counsel quoted above
