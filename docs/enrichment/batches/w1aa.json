@@ -64,7 +64,8 @@
   "Kairos (the opportune moment)",
   "Kalokagathia",
   "Feng shui (harmonious environment)",
-  "Festinger"
+  "Festinger",
+  "Habermas"
  ],
  "in_progress": null,
  "flagged": {
@@ -109,6 +110,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T03:50:30+00:00",
+ "updated": "2026-10-21T08:05:20+00:00",
  "band_done": false
 }
