@@ -1,5 +1,7 @@
 # Enrichment task board
 
+Repair milestone (2026-10-21 11:32 UTC, worker-p1zzl-3d7b2d81): all nine p1zzl principles repaired, 9/9 structural validation and six scoped advisor rounds. Seven source blockquotations, 27 Related concepts routes, 27 reciprocal proposals prepared for supervisor integration. First checkpoint pushed and verified at 4f258f46f after API authorization; these are repairs to previously done items, not new queue completions. No enrich_apply invocation or other-band page edit. Detailed scope and clock: sources/p1zzl/session-3d7b2d81.md.
+
 Worker claim (2026-10-21, worker-p1zzl-3d7b2d81): taking RELEASED p1zzl for a bounded repair/QC pass over its nine recorded-done principles. Supervisor baton fresh; all principle manifests currently fully recorded done. First item SO072: remove reader-facing audit commentary, verify the CFI evidence, and improve Plain words and implementation. This is repair work, not nine new completions. No other band's content or state will be edited. Session clock and evidence notes: sources/p1zzl/session-3d7b2d81.md. API-scoped secure credential pending after Git transport failure.
 
 Any agent starting on this repository: read `docs/ENRICHMENT-HANDOFF.md` first, then take a baton (see `docs/enrichment/OPERATIONS.md`), then claim work here.
