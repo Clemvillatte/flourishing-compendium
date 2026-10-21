@@ -9,6 +9,18 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Relational ontology” — Levinas, Totality and Infinity; Marcel, Being and Having; Ramose, African Philosophy Through Ubuntu.
 
+The claim shared by this family of thinkers is that relation comes before the relata. Buber's I and Thou gives it its clearest statement: there are two primary words, I-Thou and I-It, and they do not name things — they intimate relations. The I that speaks them is not a substance that then relates; it becomes what it is through the relation.
+
+> "Primary words do not signify things, but they intimate relations." (Buber, I and Thou, 1923, [text](https://archive.icann.org/en/ombudsman/martin-buber.htm))
+
+> "The primary word I-Thou establishes the world of relation. ... I become through my relation to the Thou; as I become I, I say Thou. All real living is meeting." (Buber, I and Thou, 1923, [text](https://archive.icann.org/en/ombudsman/martin-buber.htm))
+
+## Related concepts
+
+- [[Ubuntu]] — the African formulation of the same primacy (I am because we are)
+- [[The relational self]] — the self-concept version of the claim
+- [[Interbeing]] — the Buddhist formulation of mutual constitution
+
 ## Sources
 
 - Levinas, Totality and Infinity
@@ -18,6 +30,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Ramose, African Philosophy Through Ubuntu
 
 - Whitehead, Process and Reality
+- [Buber, I and Thou (1923), R. Gregor Smith translation (open text)](https://archive.icann.org/en/ombudsman/martin-buber.htm) — opened source; quoted fragments verified against this copy
 
 ## Cited in philosophy parallels
 
