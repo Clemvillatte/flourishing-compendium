@@ -103,3 +103,6 @@
 ## PP014 — Seek awe
 - Opened: Piff 2015 abstract (PubMed), Bai 2021 abstract (colab.ws mirror), Stellar 2015 abstract (PubMed).
 - Seed "Bai et al. 2021 meta-analysis" is WRONG: it is a six-study paper on awe, daily stress and life satisfaction. Wikilink label kept (validator requires) and flagged on the page. "Reliably" and "reduced inflammation" softened: Stellar 2015 is correlational. "Stellar et al., 2018" in the seed was not found/opened and was dropped.
+
+## PP015 — Cultivate hope as a process
+- Opened: Snyder 2002 abstract (T&F), Cheavens et al. 2006 abstract (Springer). Seed "Cheavens 2005 ... predictor of well-being and health" is mislabelled: the paper is 2006, a pilot hope-therapy trial (n=32 completers), not health prediction. Seed "physical health / hope can be trained" softened to Snyder's correlational claim plus pilot evidence. Wikilink label retained (validator) and flagged.

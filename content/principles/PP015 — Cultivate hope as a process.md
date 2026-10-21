@@ -12,18 +12,23 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "PP — Posit
 ---
 > **Principle 15** — Cultivate hope as a process
 
-Hope, in the Snyder tradition, is not a feeling but a cognitive process: the perception that one can generate pathways to desired goals and the motivation to pursue them. Hope predicts well-being, academic achievement, and physical health. The practical implication is that hope can be trained: identify goals, generate multiple pathways, and build agency beliefs.
+C. R. Snyder defined hope as "the perceived capability to derive pathways to desired goals, and motivate oneself via agency thinking to use those pathways". He also wrote that "higher hope consistently is related to better outcomes in academics, athletics, physical health, psychological adjustment, and psychotherapy" (Snyder 2002, Psychological Inquiry 13(4):249-275, [abstract](https://www.tandfonline.com/doi/abs/10.1207/S15327965PLI1304_01)). That is Snyder's own summary of mostly correlational work, so "predicts" is the safe verb and "causes" is not.
 
-(Snyder, 2002; Cheavens et al., 2005.)
+Can hope be trained? One small test says it may be. Cheavens, Feldman, Gum, Michael and Snyder ran an eight-session group programme on goal-pursuit skills, using a randomized wait-list design with 32 completers. The abstract reports "statistically significant improvements in the agency component of hope, life meaning, and self-esteem as well as reductions in symptoms of depression and anxiety", and concludes that "a brief hope intervention can increase some psychological strengths and reduce some symptoms" ([Cheavens et al. 2006, Social Indicators Research 77:61-78](https://link.springer.com/article/10.1007/s11205-005-5553-0)). The abstract names agency, not pathways thinking, as the part that improved. It is a pilot, so treat it as a promising lead and not as settled.
 
-**Plain words** In Snyder's account, hope isn't a mood but a way of thinking: believing you can find routes to a goal, and having the drive to pursue them. It predicts well-being, achievement and health, and it can be trained: set goals, plan several routes, keep your motivation.
+**Plain words** In Snyder's account, hope is a way of thinking, not a mood: you have a goal, you can see more than one route to it, and you believe you can use those routes. It is linked with better outcomes, and one small trial suggests the skills can be taught.
 
-*For example:* When the first route to a job falls through, someone with hope has a second and third in mind already.
+*For example:* This is an imagined case. When the first route to a job falls through, you already have a second route written down, and you pick it up the same week.
+
+## Sources
+
+- [Snyder (2002), Hope theory: Rainbows in the mind, Psychological Inquiry 13(4), 249-275 (abstract)](https://www.tandfonline.com/doi/abs/10.1207/S15327965PLI1304_01)
+- [Cheavens et al. (2006), Hope therapy in a community sample: a pilot investigation, Soc Indic Res 77, 61-78 (abstract)](https://link.springer.com/article/10.1007/s11205-005-5553-0)
 
 ## Psychology parallels
 
 - [[Hope|Hope theory]] (Snyder, 2002)
-- [[Hope|Hope as a predictor of well-being and health]] (Cheavens et al., 2005)
+- [[Hope|Hope as a predictor of well-being and health]] (Cheavens et al., 2005; the paper is dated 2006 in the journal and tests a hope-therapy pilot, not health prediction)
 
 ## Philosophy parallels
 
