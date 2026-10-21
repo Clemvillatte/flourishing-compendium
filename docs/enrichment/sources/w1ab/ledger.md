@@ -883,3 +883,10 @@
   passage; the forget-all-gaining-ideas summary). Chapter named ('Nothing Special', Part
   One). Related: Beginner's mind, Non-striving (navigational captions). Degree 1 —
   fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Non-striving (fast-track) — 2026-10-21, worker-pxy1u
+- Carrier: Laozi, Tao Teh King, Legge translation (Gutenberg #216), opened — chapter 37
+  verified verbatim (the does-nothing-yet-nothing-undone opening; the princes-and-kings
+  transformation sentence; the nameless-simplicity desire sentence; the closing verse).
+  Related: Wu wei, Non-seeking, Ziran (naturalness) (navigational captions). Degree 1 —
+  fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
