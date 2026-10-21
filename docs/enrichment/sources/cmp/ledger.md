@@ -39,3 +39,14 @@ Took the stale cmp baton per the 20-min rule. RAIN RESEARCH QUESTION RESOLVED BY
 - Evidence section bounded: passages describe historical practice, no evaluation of the adaptation; trial search (Oct 2026) found no shouyi RCT.
 - CMP1 audit corrections: talks/4013 row REMOVED from the FAM shelf (carrier does not establish breath focus; slot open); Shukman 30:25 row REMOVED from the Zen shelf (credentials do not establish shikantaza/koan content; slot open). Nidra 36:53 iRest row retained (track titled Full iRest Yoga Nidra Practice).
 - Earlier timestamps in this ledger were invented wall-clock guesses; replaced with recorded run-clock readings (T0 = 15:22:20 UTC). Note: commit f9dd8f8c carries only the baton heartbeat (its ledger message was premature — the fix script had failed on an assertion); this entry and the stamp fixes ship now.
+
+### T+35 (recorded clock): K417 QC ROUND 3 REPAIRS + DURATION-GAP CLAIM CORRECTED
+
+Advisor re-review of K417 (round 3) — repairs applied:
+- Step 2 rewritten: the "cannot be halted by force" quote was about vital energy, not breath instructions; replaced with the verse's own line ("Relax your qi and allow it to extend"); "single content of attention" replaced with the source's guard-the-One framing (handbook: primarily contentless, non-conceptual); four-fold alignment now paraphrased, not quoted (ebrary OCR noise).
+- Evidence paragraph reduced to the bounded statement only. Scope note: the October 2026 web searches returned no shouyi-specific trial among the results inspected; no systematic trial-database search was performed, and no family-evidence claim is made.
+- Zhuangzi/Laozi sentence deleted (the handbook excerpt does not identify the speaker; my quotation had silently edited wording). Taiping jing passage retained after unprompted verification (Kohn translation, Wikipedia carrier).
+- A guided version: family implication removed; K100 framed as a separately identified comparison.
+- CMP1: the FAM "slot is open" note deleted (30:13 and 32-min rows occupy that range; talks/4013 classification remains unresolved in the ledger only). Zen gap note stands (rows run to 25:01, so 30-45 genuinely open).
+- VALIDATION: previous round's "1 checked, 1 failed" was a real error I had missed by tailing the output — prose 512 > 480 words. This round trimmed and re-validated (see below).
+- DURATION-GAP CORRECTION: the T+21.2 entry claimed "RESOLVED FOR TWO OF THREE FAMILIES" — WITHDRAWN. After this QC round the Zen 30:25 Shukman row was also removed (credentials do not establish shikantaza/koan content), so duration coverage is resolved only for nidra (36:53 iRest, track title states the practice). FAM 30-45 and Zen 30-45 and Daoist 30-45 remain open, all with bounded notes or plain gap statements.

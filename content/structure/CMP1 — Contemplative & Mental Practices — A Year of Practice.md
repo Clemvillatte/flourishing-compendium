@@ -133,8 +133,6 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Guided Meditation on the Breath](https://www.audiodharma.org/talks/8) | Gil Fronsdal, AudioDharma | 30:13 |
 | [MBSR Sitting Meditation, 32-minute version](https://palousemindfulness.com/disks/sittingmeditation.mp3) | Palouse Mindfulness | 32 min |
 
-The 30-to-45 minute slot on this shelf is open. One candidate, a 42:59 AudioDharma session by Gil Fronsdal titled "Aspects of mindfulness as taught by the Buddha", was checked and left off this shelf: its own page does not name a breath anchor, so its technique is unverified pending a listen to the audio.
-
 ### Open monitoring (OMM)
 
 | Session | Guide | Length |
