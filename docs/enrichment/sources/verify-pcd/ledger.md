@@ -464,3 +464,7 @@ and this ledger; none edited without a baton.
 ### w1c "Dialectical thinking" — quote fidelity PASS (verification pass)
 - Spencer-Rodgers et al. 2009 naïve-dialecticism definition EXACT vs the opened PMC
   article.
+
+### w1c "Embodied self" — quote fidelity PASS (verification pass)
+- Monti et al. 2022 sentence EXACT vs the opened PMC article (source uses curly quotes
+  around 'self'; wording verbatim).
