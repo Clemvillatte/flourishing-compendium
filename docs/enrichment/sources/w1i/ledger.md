@@ -620,3 +620,21 @@ written from estimated clock positions and drifted ahead of the wall clock. The 
 window is 12:58:56 UTC (T0) to ~13:57 UTC; the entries above were written between roughly
 13:10 and 13:53 UTC in the order shown. The verifications and their results are unaffected;
 only the written times are approximate.
+
+### B040 supervisor application + QC (2026-10-21, supervisor-p1abc)
+
+The preserved B040 plain-words repair proposal (worker-perplexity-67ce7e1d)
+was applied by the supervisor this session: Plain words replicate (32%
+overlap) replaced with the 0%-overlap re-derivation; MN 10 URL added to the
+locator line; For example kept. QC: all three body quotations re-verified
+VERBATIM against a fresh fetch of the cited Thanissaro MN 10 carrier;
+advisor round-1 findings applied (integrated-fragment punctuation fixed —
+quotation marks now close immediately after "grain" and "unclean things"
+with sentence punctuation outside, the CO064 class; the categorical
+"the point is not relaxation" claim narrowed to a labelled application);
+the changing-body and not-clinging interpretations verified against the
+fetched MN 10 text itself (origination/passing-away; unsustained/not
+clinging). Advisor round-2 verdict: SCOPED PASS — Plain words replacement,
+MN 10 URL addition, and quotation passages checked; MN 119 (unopened) and
+unchanged page content outside the review. Baseline-aware validation ok
+(vs 2b08bd2e^).
