@@ -455,3 +455,8 @@ carrier upgrade (Tillich), one second-hand-carrier disclosure improvement opport
 (Merrick - closed), assorted bare Sources entries and Humanizer meta-section cleanups,
 and the H/T hermeneutic-circle duplicate-page disposition. All routed via TASKBOARD notes
 and this ledger; none edited without a baton.
+
+### w1e "First impressions bias" — quote fidelity PASS (verification pass)
+- Both Willis & Todorov 2006 fragments EXACT vs the opened PubMed abstract (16866745);
+  the page's note that the abstract measures consistency, not accuracy, is a correct
+  reading of the abstract.
