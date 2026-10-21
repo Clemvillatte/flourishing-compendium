@@ -225,7 +225,22 @@
      "note": "advisor rounds 1-2 passed; substantive PASS as partial-angle story"
     }
    ]
+  },
+  "s1b-010": {
+   "status": "qc_pending",
+   "angle": "B043: Ud 1.10 Bāhiya — 'in the seen only the seen'; insight in minimal form, release through non-clinging, the cow-and-calf ending",
+   "history": [
+    {
+     "t": "2026-10-21T12:27:44+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-21T12:28:00+00:00",
+     "to": "qc_pending",
+     "note": "first draft complete; quotes verbatim-verified against opened Ud 1.10 page; advisor QC requested"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:26:38+00:00"
+ "updated": "2026-10-21T12:28:00+00:00"
 }
