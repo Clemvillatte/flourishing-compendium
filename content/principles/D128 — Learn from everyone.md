@@ -22,6 +22,9 @@ The structure is the key. The good man is the teacher of the bad, and the bad ma
 
 *For example:* Two people both deal with the same difficult client. One treats the difficulty as the client's problem and endures it. The other notices what the difficulty is revealing about their own patience, and uses the encounter to locate where the patience is thin. Same client; only one of them is getting something out of the interaction besides a bill.
 
+## Stories
+- [[ST402 — The River Spirit Reaches the Sea|402. The River Spirit Reaches the Sea]]
+
 ## Psychology parallels
 
 - **[[Intellectual humility|Intellectual humility]]** (Leary et al., 2017), predicts learning from others

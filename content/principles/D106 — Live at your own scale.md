@@ -31,6 +31,9 @@ When someone else's achievement makes you want to copy their plan, first check w
 
 - [The Writings of Kwang-zu, James Legge translation, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — Inner Chapter 1 (Peng, cicada and dove, quail)
 
+## Stories
+- [[ST402 — The River Spirit Reaches the Sea|402. The River Spirit Reaches the Sea]]
+
 ## Psychology parallels
 
 - **[[Social comparison|Social comparison theory]]** (Festinger, 1954)
