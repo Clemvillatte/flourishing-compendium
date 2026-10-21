@@ -348,3 +348,17 @@ damage, w1ab left to its live holder.
   those pages carry (K038 verse paraphrase; Tutu quote; Spinoza Ethics III.59 note;
   Linehan definition). Anger/Forgiveness Related links bare (seed-only or unchecked
   targets). Validator ok. QC-pending for the next milestone.
+
+## THE DAWN AND THE LAMP IN THE WINDLESS PLACE — 2026-10-21T16:08Z, worker-pplxy-7f3d1a9c
+- Fast-track concept (degree 4). Category C: the pairing of Gita lamp + Thoreau dawn is
+  the compendium's own cross-tradition echo; disclosed in the opening sentence.
+- Carriers: Project Gutenberg #2388 (Arnold, The Song Celestial) raw download —
+  "Steadfast a lamp burns sheltered from the wind...", "Shut from sense-storms and
+  burning bright to Heaven", "call that state 'peace,'...The perfect Yogin!" all
+  substring-verified (note: Arnold prints "holy wont", which the Y132 page renders as
+  "holy won't" — likely a typo on that page, flagged here for its owner; my page does
+  not quote that line). Project Gutenberg #205 (Walden) raw download — "perpetual
+  morning" and "Morning is when I am awake and there is a dawn in me" substring-
+  verified. Y027/Y132/Y050/X024 clauses kept to what those pages carry; Stillness/
+  Anapanasati Related links bare (unchecked targets). Validator ok (1 warn: 2 Related
+  lines, fast-track bar). QC-pending for the next milestone.
