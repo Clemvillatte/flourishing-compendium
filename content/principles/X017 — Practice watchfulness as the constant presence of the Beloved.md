@@ -12,13 +12,30 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "X — Extra 
 ---
 > **Principle 17** — Practice watchfulness as the constant presence of the Beloved
 
-Muraqabah: the discipline of living as watched by the beloved (or, in the tradition's theistic terms, God), such that solitude and company become the same. The distinct psychological instrument is the audience-transfer: the felt audience moves from the crowd (whose approval corrupts) to the witness (whose presence dignifies). Practically, for one day, run the experiment of the transferred audience: before each act, briefly recall the witness, and note the change in quality of the doing.
+Muraqabah comes from the Arabic root for watching or keeping vigil, and its textual root is the hadith of Gabriel. Asked about ihsan, the Prophet answers "That you worship Allah as if you are seeing Him, for though you don't see Him, He, verily, sees you" ([Dar al-Ifta, Egypt](https://www.dar-alifta.org/en/article/details/259/watchfulness-al-muraqabah)). A commentary in the Bukhari text on [Tohed](https://en.tohed.com/hadith/bukhari/50/) reads the two halves as two levels: mushahadah (witnessing) and muraqabah, the awareness that one is seen. An Islam Ansiklopedisi entry says the muraqaba of ordinary people is fear while that of the distinguished is hope ([Questions on Islam](https://questionsonislam.com/question/what-muraqaba-meditation)).
+
+The audience-transfer framing is the compendium's. The tradition describes accountability before God, which is not the same as lovers' attention, though the hope level comes closer. A modern cousin is the watching-eyes literature. A meta-analysis of 15 experiments found a 35% reduction in the risk of antisocial behaviour when eye cues were present ([Dear, Dutton and Fox 2019, data record](https://data.mendeley.com/datasets/n8pxptkmfj/1)). Other meta-analyses found no effect on donations and an effect near zero on moral judgments ([PMC review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10806148/)).
 
 (The muraqabah practice; the tradition's counsel on ihsan, "worship as if you see Him.")
 
-**Plain words** Muraqabah is the deliberate transfer of your felt audience: from the crowd (whose approval quietly corrupts) to the witness (whose presence dignifies). Solitude and company become the same, because the one who matters is always attending. Run it for a day: before each act, recall the witness, and watch the quality of the doing change.
+### Scope
 
-*For example:* Someone who stops performing their generosity for the group chat — same donations, same effort, no screenshot — and finds the acts got quieter and larger at once.
+I read the hadith and muraqabah descriptions in secondary and online sources only; I did not open a classical Sufi text. The experiment suggested in the seed (recall the witness before each act) has no study behind it that I found. Watching-eyes research concerns painted eyes, not belief in a divine witness.
+
+**Plain words**
+Muraqabah is acting as though you are seen. The tradition frames this as awareness of God's presence, and it ranges from fear to hope.
+
+**For example**
+For one day, before each task you would normally do for show, pause for one breath and recall who is truly watching. Note afterwards what changed.
+
+## Sources
+
+- [Dar al-Ifta: Watchfulness (al-Muraqabah)](https://www.dar-alifta.org/en/article/details/259/watchfulness-al-muraqabah)
+- [Sahih Bukhari 50 with commentary (Tohed)](https://en.tohed.com/hadith/bukhari/50/)
+- [Questions on Islam: What is Muraqaba?](https://questionsonislam.com/question/what-muraqaba-meditation)
+- [Dear, Dutton and Fox 2019: data record (Mendeley)](https://data.mendeley.com/datasets/n8pxptkmfj/1)
+- [Watching eyes effect: imagined eyes (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10806148/)
+
 ## Psychology parallels
 
 - **Audience effects and integrity priming**, the research on being watched, honesty, and quality (the watching-eyes findings; accountability research, as the modern cousins, with their limits noted)
