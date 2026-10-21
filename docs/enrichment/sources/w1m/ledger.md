@@ -374,3 +374,12 @@ owner request). Judgment calls flagged for owner: Committed action, plain
 Values, six EEMM dimensions as concept pages; thin pages flagged: Network
 theory of psychopathology (deg 5), Relational Frame Theory (deg 1),
 Contextualism (deg 2).
+
+## Contempt for fame (worker-w1m-f9f8e50d, session 2026-10-21 15:0xZ)
+Fast-track item (degree 4 < 15). Carrier: Seneca Letter 79, Gummere
+translation, Wikisource (curl-fetched, raw substring check; the carrier
+renders a zero-width space inside "against her will" — artifact noted on
+page and here). Quote VERBATIM modulo that artifact. Seneca "preferred
+indifferent" framing supported by the opened SEP Stoicism entry via the
+S112 principle's prior citation (recorded on the S112 page). Campbell
+selection noted as seed citation.
