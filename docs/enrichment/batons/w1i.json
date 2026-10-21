@@ -32,15 +32,12 @@
    "at": "2026-10-21T10:37:53+00:00",
    "from": "worker-w1i-3a9d2f7e",
    "reason": "stale (104 min)"
-<<<<<<< HEAD
-=======
   },
   {
    "by": "worker-w1i-3a9d2f7e",
    "at": "2026-10-21T11:30:19+00:00",
    "from": "worker-w1i-b7e4a2c1",
    "reason": "stale (52 min)"
->>>>>>> 9a5f6a5 (baton: worker-w1i-3a9d2f7e takes over w1i)
   }
  ],
  "released": false
