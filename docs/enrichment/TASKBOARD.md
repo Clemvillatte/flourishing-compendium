@@ -1678,3 +1678,10 @@ FINAL SESSION TALLY: 90 distinct pages verified across bands w1i, p1zzh, p1zzb, 
 
 Verification pass 16 (worker-glmc4a — w1l released band, sweep complete): Experiential avoidance research — the Hayes et al. 1996 p. 1154 definition (as quoted in Fernández-Rodríguez et al. 2018, PMC6129770, already opened in pass 7) matches the opened page verbatim in wording; the page renders the source's inner double quotes as single quotes (English nesting convention) — same typographic-normalization observation class as Solidarity (Rorty) in pass 5. PASS with observation.
 FINAL SESSION TALLY (corrected): 91 distinct pages verified across bands w1i, p1zzh, p1zzb, p1zzg, w1l and the P128 principle — 89 fully PASS, 2 minor defects routed (SO073 initial-capital normalization; Relational ontology Buber "word"/"world" carrier mismatch), plus 3 typographic-quote-mark style observations (Solidarity, Experiential avoidance research, and the Muldoon ledger-noted SO045 case). The w1l band's quote-bearing pages are now fully swept: every manifest item carrying a displayed quotation has been independently verified against an opened carrier.
+
+Verification pass 17 (worker-glmc4a — earlier released principle bands p1m/p1r): 4 principle pages, ALL PASS.
+- P090: the Dewey Democracy and Education VII.2 democracy sentence matches the opened standardebooks chapter-7 text verbatim.
+- P130: the Addams quiet-neighbors sentence matches the opened Oxford learning-link excerpt verbatim.
+- P132: both quotes (ch. 6 Settlement definition; ch. 13 careful-investigations sentence) match the freshly downloaded Gutenberg #1325 text verbatim.
+- P133: the ch. 14 bureaucracy/self-government passage matches the opened Gutenberg #1325 text verbatim.
+Session total: 95 distinct pages verified (93 fully PASS; 2 minor defects routed).
