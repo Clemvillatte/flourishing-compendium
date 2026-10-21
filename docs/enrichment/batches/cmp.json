@@ -1,1 +1,1 @@
-{"batch":"cmp","degree":"deg-cmp","done":[],"sources_checked":0}
+{"batch":"cmp","degree":"deg-cmp","done":["K413 — Box breathing","K414 — Compassion meditation (CCT-style)","K415 — Mindful eating"],"flagged":{},"new_kernels":[{"id":"K413","evidence":["Jazaieri 2013 MoEmo PDF","McAllister 2026 PMC13321280","Dujawara 2026 springer","Siebieszuk 2025 PMC12372116"]},{"id":"K414","evidence":["Jazaieri 2013 both papers","Soh 2021 PMC7941195"]},{"id":"K415","evidence":["Peitz 2023","Lai 2026","Fuentes Artiles 2019","Tapper 2022","Liu 2025"]}],"sources_checked":14}
