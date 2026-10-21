@@ -25,5 +25,6 @@ Claimed targets (other lanes: please avoid): D069, D006 (second angle), B140, D0
 | s1c-017 | The River Spirit Reaches the Sea (Zhuangzi 17; Legge, Giles) | D106, D128 | ready |
 | s1c-018 | Two Friends Sing Beside the Corpse of Sang Hu (Zhuangzi 6; Eno, Legge) | D090 | ready |
 | s1c-019 | Angulimala Is Told to Bear the Stones (MN 86; Thanissaro, Sujato) | B104, B107 | ready |
+| s1c-020 | The Old Cart at Beluva (DN 16; Vajira-Story, Sujato) | B194, B195 | ready |
 
 Notes for the supervisor: no ST ids, backlinks or principle edits by this lane. No advisor tool was available in this session; QC was self-QC with machine-checked quotes against the opened carriers.
