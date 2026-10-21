@@ -12,13 +12,26 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 355** — Practise the primacy of ethics over ontology
 
-Recognise that the ethical relation precedes the ontological. Before you ask "what is being?" you must ask "what do I owe the Other?" Ethics is first philosophy, not a regional application of ontology.
+For Levinas, ethics comes before the theories we build to explain things. In Totality and Infinity he writes: "Morality is not a branch of philosophy, but first philosophy" (Levinas, 1969, p. 304, trans. Lingis, as quoted in [Lawrence, 2019, Religions 10(2)](https://www.mdpi.com/2077-1444/10/2/84)).
 
 (Levinas, 1961/1969, Totality and Infinity; Levinas, 1969, Otherwise Than Being.)
 
-**Plain words** Before "what is being?" comes "what do I owe this person?" — ethics is first philosophy, not an optional chapter after the metaphysics. In practice: when in doubt about the abstractions, start from the face in front of you.
+### The face
 
-*For example:* The committee that spends months drafting principles of "stakeholder engagement" — while the cleaner's chair in their own building sits empty of any say at all. Start where the demand already is.
+Of the other person who stands before me he writes: "The true essence of man is presented in his face, in which he is infinitely other than a violence like unto mine, opposed to mine and hostile ... He arrests and paralyzes my violence by his call, which does not do violence, and comes from on high" (Levinas, 1969, pp. 290-91, quoted in the same article). The face is therefore a claim made on me before I choose to give it a place in my plans.
+
+I read these lines in a scholarly article that quotes Levinas, not in the book itself. The phrase "Thou shalt not kill" is not in the text I opened, so this page does not quote it.
+
+**Plain words**
+Before you have decided what someone is to you, they are already someone you owe a response to. Take that claim seriously first, and do your theorising afterwards.
+
+**For example**
+In your next conversation, put your phone away and look at the person while they speak. Answer what they said before you answer what you were planning to say. Afterwards, note whether you would have responded differently.
+
+## Sources
+
+- [Lawrence 2019, "I'm a Pacifist": Peace in the Thought of Emmanuel Levinas, Religions 10(2), 84](https://www.mdpi.com/2077-1444/10/2/84)
+
 ## Psychology parallels
 
 - **[[Moral foundations|Moral foundations]]** (Haidt, 2012)

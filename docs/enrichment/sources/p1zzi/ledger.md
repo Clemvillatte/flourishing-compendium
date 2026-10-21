@@ -59,3 +59,5 @@
 - Opened (search excerpts): SEP Marcel entry (win2025) and its Notes (fall2025). Marcel's primary texts not opened (locator cites 1951a/b).
 - FLAG: principle blockquote says "faithful ... to your deepest self"; SEP notes: "fidelity always implies otherness. It would seem improper to speak of fidelity to oneself in the sense that Marcel uses the term." Page states this; supervisor may reword blockquote.
 - Seed "museum of an old decision" metaphor and couple anecdote removed.
+## R093 — Levinas / ethics first
+- Opened: Lawrence 2019 (MDPI Religions 10(2):84) full text — verbatim quotes TI p.304 and pp.290-91 (Lingis 1969). TI itself not opened; "The face speaks"/"Thou shalt not kill" not in the article, not used. Invented cleaner's-chair anecdote replaced by a checkable listening practice.
