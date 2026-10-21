@@ -56,3 +56,14 @@ Independent first-candidate review and re-review returned substantive PASS for B
 ## Scope and publication boundary
 
 The owner's latest approval activates D107, B088 and P196 under s1b, with the scope request and exact proposed angles preserved in ROUTE.md for the supervisor's registry reconciliation. Each item must still pass duplicate review, advisor QC when due and story_check before ready; only the supervisor may choose separate-story versus ST120 enrichment for P196, register any ST number and write backlinks.
+## Rejected or unsuitable leads (session 2026-10-21)
+
+- B055 (maranasati): covered — ST343 (The Buddha's Last Words, DN 16) already links B055; the taskboard's zero-story pool entry was stale. No new story needed.
+- Empty boat (Zhuangzi 20): taken — ST004 targets D002/D003/D007/D010; a D095 angle would duplicate the narrative.
+- Cicada catcher (Zhuangzi 19): taken — ST025 targets D055/D057/D059/D071.
+- Lüliang swimmer: taken — ST018 targets D037/D038/D048/D053.
+- Zhuangzi drums on a basin: taken — ST031 targets D078/D087/D089/D090.
+- Nan-in's tea cup: taken — ST261 targets B129; D045's obvious story is therefore not available (s1b-012 supplies the empty-apartment angle instead).
+- Franklin's little book: taken — ST184 targets Aristotle principles; a B192 angle would duplicate the narrative.
+- Bāhiya: ST061 (B001/B002/B003) already existed when s1b-010 was drafted; the supervisor nonetheless registered s1b-010 as ST399 with the distinct B043 angle, setting the precedent for distinct-angle registrations.
+- Mind-fasting dialogue: ST019 (D037/D038/D046/D050) and ST017 (mirror, links D049) already existed; s1b-012 is routed as an additional angle on the same dialogue, quoting what neither uses.
