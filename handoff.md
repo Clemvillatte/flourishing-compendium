@@ -1,5 +1,39 @@
 # Handoff (start here)
 
+- WORKER CHECKPOINT w1l (2026-10-21 ~06:50Z, worker-w1l-4d8c21e3, T+60 REPORTING
+  CHECKPOINT — reporting only, baton HELD, work continues while the session lives):
+  took over the stale band at 37/70. 24 CONCEPTS ENRICHED THIS SESSION (fast-track,
+  all validator-ok, all quotes verified against opened carriers: NCBI efetch PubMed
+  records, Gutenberg and MIT Classics primary texts, opened Frontiers/VCU/Mimesis
+  journal copies): Experiential avoidance research + theory (near-duplicate pair
+  flagged for owner disposition: theory carries the construct, research the empirical
+  study; cross-linked), Judging by where one rests (Legge verified vs Gutenberg #3330
+  after ctext robot-block), Life affirmation (retained quotes re-verified; Merrick
+  carries residual verification risk — Cloudflare-blocked carrier, noted in flags),
+  Limits of introspection (Nisbett & Wilson 1977), Memory reconsolidation (Nader 2000
+  + Schiller 2010), Meta-awareness (Schooler 2011; dangling bullet fixed), Mindful
+  self-compassion programme (Neff & Germer 2013), Moral disengagement research
+  (Bandura 1999), Moral situations research (Doris via opened NDPR review), Novelty
+  seeking without commitment (Cloninger via PMC2963646), Optimal arousal (Yerkes &
+  Dodson 1908 primary text), Physician heal thyself (Luke 4:23 KJV), Possible selves
+  (Markus & Nurius 1986 full text), Present-moment awareness theory (Killingsworth &
+  Gilbert 2010), Psychological detachment + Recovery experiences (Sonnentag & Fritz
+  2007; seed predictive claims replaced with supported structure), Psychological
+  reactance (Brehm via opened Frontiers review), Questioning inherited beliefs (Jowett
+  Apology), REACH model of forgiveness (Harper et al. 2014 — lead author corrected),
+  Reciprocity (Gouldner via opened Mimesis article), Reflective thinking (Dewey How
+  We Think, Gutenberg #37423), Regulatory focus theory (Higgins 1997), Revenge
+  (Carlsmith et al. 2008). THREE ADVISOR QC ROUNDS applied (milestones 5/10/20 +
+  round-2 sweep): source-bounded prose enforced, claim-bearing Related-concept glosses
+  reduced to the 'listed for comparison' convention, authorship fixed (Reynolds-Tylus
+  sole author; Harper lead author), unsupported seed predictive claims replaced,
+  Doris blockquote re-sourced to the opened NDPR review. EXACT NEXT ACTION: `python3
+  scripts/enrich_state.py w1l start "Relational ontology"` (next manifest item after
+  Revenge). Remaining manifest order: Relational ontology, Self-sufficiency,
+  Situational strategies, Skepticism answered by life, Skills training (DBT, CBT),
+  Social baseline, Social-network effects on behavior, Solidarity, Solitude (9 items;
+  w1l state 61/70 after Revenge).
+
 - SUPERVISOR PASS (2026-10-21 06:49Z, supervisor-b7e3f9c2, T+60 REPORTING CHECKPOINT
   — reporting only, supervisor baton HELD, board healthy): (1) took over the stale p1zze
   worker band (30/30, never closed): full validation, PP014 quotation sample PASS,
