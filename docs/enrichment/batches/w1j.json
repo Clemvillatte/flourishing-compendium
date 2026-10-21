@@ -68,7 +68,8 @@
   "Grounding techniques",
   "Harsh self-criticism",
   "Hormetic exposure research",
-  "Identity"
+  "Identity",
+  "Integrative Theory of Communication Work"
  ],
  "in_progress": null,
  "flagged": {
@@ -106,10 +107,11 @@
   "Flexibility as virtue": "seed gave no aphorism number; label is compendium summary; GS 159 and 296 identified (Common translation, Gutenberg); page states this",
   "Fundamental attribution error": "seed defines FAE as over-crediting the self (wrong; that is self-serving bias); depression-reversal claim unchecked; page corrects",
   "Grounding techniques": "seed source Linehan 1993 not opened; evidence base for grounding is thin per 2026 critical review; page states this",
-  "Harsh self-criticism": "seed 'predicts psychopathology' overstated: sources show association; Gilbert 2009 is theory; page states this"
+  "Harsh self-criticism": "seed 'predicts psychopathology' overstated: sources show association; Gilbert 2009 is theory; page states this",
+  "Integrative Theory of Communication Work": "seed attribution (Kramer) and gloss wrong: ITCW is Donovan and Hazlett 2024 (HCR), about communication as labour during health stressors; supervisor may want to re-map principles"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T08:26:36+00:00",
+ "updated": "2026-10-21T08:27:06+00:00",
  "band_done": false
 }
