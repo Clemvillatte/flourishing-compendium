@@ -33,3 +33,11 @@
 - SO050 full paragraph read back (awk range display): source paragraph
   correctly distinguishes the consulted-but-removed definition from the
   retained Abstract-locator quote; agrees with the final page.
+
+### Band p1zzg checkpoint — 2026-10-21 06:53 UTC (26/30 done)
+- SP007 done: Ethics II Prop. VII + Note quoted verbatim (Elwes, Gutenberg
+  #3800, opened); therapy claim labelled the compendium's own gloss;
+  QC pending — next worker presents SP007 and SO063's ledger for review.
+- Remaining: SP017, SP021, SP022, SP025, SP028 (5 items).
+- SE041 locator still unresolved (state flag). All session QC scoped
+  acceptances exclude inherited Practice/parallels citations.
