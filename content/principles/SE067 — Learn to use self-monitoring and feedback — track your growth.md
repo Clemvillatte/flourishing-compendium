@@ -12,21 +12,21 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 67** — Learn to use self-monitoring and feedback: track your growth
 
-Zimmerman's model of self-regulated learning runs through three phases — forethought, performance, and self-reflection — and he places self-observation in the performance phase, where the learner is acting. Tracking, on his account, is part of acting, not an audit afterwards.
+Zimmerman's model of self-regulated learning runs through three phases — forethought, performance, and self-reflection — and he places self-observation in the performance phase, where the learner is acting.
 
 > "Self-observation refers to self-recording personal events or self-experimentation to find out the cause of these events. ... Self-monitoring, a covert form of self-observation, refers to one's cognitive tracking of personal functioning, such as the frequency of failing to capitalize words when writing an essay."
 
-(Zimmerman, 2002, pp. 67-68, Theory Into Practice 41(2), [faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf).)
+(Zimmerman, 2002, p. 68, Theory Into Practice 41(2), [faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf).)
 
 The compendium applies this beyond study: the standard you compare your record against can be your own prior performance, which Zimmerman names as one basis of self-evaluation.
 
-**Plain words** Pick one behaviour you want to understand. For a week, write down what actually happened — when, how long, what got in the way. Then read the week back against what you expected. The record wins, because the impression in your head was written by the best or worst day, not the average one.
+**Plain words** Pick one behaviour you want to understand. For a week, write down what happened — when, how long, and what got in the way. Compare those entries with a stated goal or your earlier performance, then choose something to try next.
 
 *For example:* Imagined: a manager convinced he is "terrible under pressure" keeps a short note after each hard meeting — what happened, how he handled it. Six weeks of notes show he handled most of them fine.
 
 ## Sources
 
-- [Zimmerman, "Becoming a Self-Regulated Learner: An Overview", Theory Into Practice 41(2), 2002 — faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf) — the self-observation and self-monitoring definitions quoted (pp. 67-68); the self-evaluation standards (p. 68)
+- [Zimmerman, "Becoming a Self-Regulated Learner: An Overview", Theory Into Practice 41(2), 2002 — faculty-hosted PDF](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf) — the self-observation and self-monitoring definitions quoted (p. 68); the self-evaluation standards (p. 68)
 
 ## Psychology parallels
 
