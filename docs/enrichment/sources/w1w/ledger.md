@@ -612,3 +612,15 @@
 - Taper item. Normal validator: ok. State recorded (done count 44).
   - Repair: original [[SO004 — Treat culture as both a resource and a
     constraint]] seed link restored (validator caught lost link).
+
+## Item 47: The Socratic midwife (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Plato, Theaetetus + "The midwife of ideas" line + bare Y086
+  link. All seed citation lines kept; Y086 moved to In the compendium.
+- Carrier opened: Plato, Theaetetus (Jowett translation, Internet
+  Classics Archive). Verified verbatim: the midwifery-art passage
+  ("false idol or a noble and true birth"), the barrenness passage,
+  and the "not myself at all wise" sentence. Jowett's punctuation
+  idiosyncrasies reproduced verbatim.
+- Taper item. Related links confirmed existing. Normal validator: ok.
+  State recorded (done count 45).
