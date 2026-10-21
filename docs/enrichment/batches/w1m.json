@@ -11,12 +11,11 @@
   "The sublime",
   "Transactive memory systems",
   "The progress principle",
-  "The coloured lens",
   "The examined past",
   "The prior probability of the world",
   "The return of the soul to its source"
  ],
- "in_progress": null,
+ "in_progress": "The coloured lens",
  "flagged": {
   "Sub specie aeternitatis": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
   "The job demands-resources model": "RESOLVED 2026-10-21 (worker-p1zzg-8c31f0a7, advisor round 2): scoped prose-and-quotation PASS after round-1/2 repairs; excludes inherited material and whole-band certification; fast-track eligible (total connections 6/8/7, full neighbour output); validated ok --fast-track vs pre-enrichment baselines",
@@ -29,9 +28,13 @@
   "Transactive memory systems": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, advisor round on items 6-9): scoped prose-and-quotation PASS after repairs — opening replaced by the advisor's sentence; 'full theoretical shape' removed; the 'genuinely collective' paragraph replaced by the definition-includes sentence + a clearly labelled imagined example; Related gloss reduced to the bare wikilink. Validated ok --fast-track vs baseline de44044^.",
   "The progress principle": "QC CLOSED (2026-10-21, worker-p1zzg-8c31f0a7, item-10 milestone): scoped prose-and-quotation PASS after the advisor's two prose repairs (seed's strengthened/unconditional sentences deleted; 'publisher's summary' carrier disclosure fixed; Sources row identifies the accessed material as the publisher's summary covering both quotations). Validated ok --fast-track vs baseline 3a453ec^. Item-10 milestone CLOSED (scoped PASS; inherited material and whole-band certification excluded).",
   "State-dependent intervention matching": "IDENTITY-SUPPORT HOLD (2026-10-21, worker-w1m-5f8e3a2b, advisor QC round 1): heading names a practice guideline, not a source-defined concept — the term 'State-dependent intervention matching' is not established by the sources opened (web search returned no source defining it; the underlying matching practice IS source-grounded: Niederlohmann 2026, Frontiers in Psychiatry, PMC13200463, abstract sentence verified verbatim vs the opened raw HTML). Advisor verdict: FAIL for completion, do not enrich as a concept per PROTOCOL.md §1 step 0 + concept-namespace-audit.md rule 3; bounded source-bounded WIP saved per the advisor's minimal draft (abstract blockquote + one-line synthesis + bare Related links; original inherited citation lines restored unchanged, Yerkes-Dodson carrier NOT opened this session); done-mark BLOCKED pending supervisor/owner disposition: rename to a source-defined neighbour (candidates: State-matched emotion regulation, Arousal regulation), merge and migrate links, or supply a source defining the heading. In the compendium the heading sits under Y021/K199/ST327/V1K-S01/Y124.",
-  "The coloured lens": "CATEGORY C PATTERN (2026-10-21, worker-w1m-5f8e3a2b): compendium metaphor heading, not a term of art — no source defines 'The coloured lens' as a concept; the metaphor itself IS documented: perceptualism literature describes moods as colored lenses (Gallegos 2017, Philosophia, opened) and Emerson's Experience gives the canonical image (Gutenberg #2945 raw text, quote verified verbatim). Completed per the Naming-the-passions precedent: body quote-grounded, seed's Buddhism/Right View tie kept as compendium placement (no Buddhist-text claims made), owner disposition welcome."
+  "The coloured lens": "Reopened for QC: QC round 1 FAIL (advisor, 2026-10-21): prevalence claims removed, accessibility explanation removed, citing contexts read and In-the-compendium glosses rewritten from them, Related glosses reduced to grounded/bare; identity question (compendium metaphor heading) recorded in concept-namespace-audit.md; repairs applied, pending QC round 2",
+  "The examined past": "QC round 1 FAIL (advisor, 2026-10-21) -> repairs applied, pending QC round 2: translator corrected to Aubrey Stewart 1900 (verified from the Wikisource page header), 'fullest ancient description' removed, blockquotes reduced to verified fragments, ungrounded glosses removed, 'corrective rather than judicial' replaced with Seneca's own pleading imagery. Done-mark removal mechanically blocked (single in_progress slot held by The coloured lens); this flag records the reopen request. Distinction from Daily self-examination recorded in concept-namespace-audit.md.",
+  "The prior probability of the world": "QC round 1 FAIL (advisor, 2026-10-21) -> repairs applied, pending QC round 2: locator corrected to Enquiry X.1 (verified against the nearest preceding header in the Gutenberg file), prior-vs-base-rate conflation removed, custom sentence narrowed to the supported point, namespace issue recorded in concept-namespace-audit.md. Done-mark removal mechanically blocked (single in_progress slot); this flag records the reopen request.",
+  "The return of the soul to its source": "QC round 1 FAIL (advisor, 2026-10-21) -> repairs applied, pending QC round 2: mid-sentence descent quote cut and the willing-descent inference removed, garbled-OCR Armstrong note quote removed, ungrounded Related glosses made bare, synthesis kept close to the IV.8.1 evidence. Done-mark removal mechanically blocked (single in_progress slot); this flag records the reopen request."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T10:52:12+00:00"
+ "updated": "2026-10-21T10:55:53+00:00",
+ "band_done": false
 }

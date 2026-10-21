@@ -289,3 +289,28 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   as a named concept a tradition defines; the title is the seed's own phrase. Page rewritten
   conservatively at the fast-track bar and HELD OUT OF done pending supervisor disposition
   on whether the concept stands or should be renamed/migrated.
+- State-dependent intervention matching (2026-10-21, worker-w1m-5f8e3a2b, w1m): guideline-style
+  heading, not a source-defined concept. Web search found no source defining the phrase; the
+  underlying matching practice IS source-grounded (Niederlohmann 2026, Frontiers in Psychiatry,
+  PMC13200463, abstract verified verbatim against the opened raw HTML). Not enriched as a
+  concept per advisor QC round 1 (2026-10-21); bounded source-bounded WIP saved; done-mark
+  BLOCKED pending supervisor/owner disposition (rename to a source-defined neighbour,
+  merge and migrate links, or supply a defining source).
+- The coloured lens (2026-10-21, worker-w1m-5f8e3a2b, w1m): compendium metaphor heading. The
+  metaphor itself is documented (perceptualism in philosophy of emotion describes moods as
+  colored lenses, Gallegos 2017; Emerson's "many-colored lenses" passage in Experience,
+  verified against Gutenberg #2945), and the five citing principles (AT020/AT070/AT071/
+  CO054/CO081) concern state-colored noticing and recall, consistent with the metaphor as
+  referent. Enriched at the fast-track bar with a Category C-style flag; identity (including
+  the inherited Buddhism/Right View tie, unverified) left for owner disposition.
+- The examined past (2026-10-21, worker-w1m-5f8e3a2b, w1m): compendium-style heading. The
+  opened source (Seneca, De Ira 3.36, Stewart translation) establishes daily self-examination,
+  already represented by the existing [[Daily self-examination]] page; it does not establish
+  a distinct concept "The examined past". Page rewritten conservatively at the fast-track bar;
+  QC round 1 repairs applied (translator corrected to Aubrey Stewart 1900); distinctness from
+  Daily self-examination left for supervisor disposition.
+- The prior probability of the world (2026-10-21, worker-w1m-5f8e3a2b, w1m): compendium
+  coinage. The Hume passages (Enquiry X.1 probability; V.1 custom, verified against
+  Gutenberg #9662) ground the body's content but do not establish the heading as a named
+  concept. Page rewritten conservatively at the fast-track bar; namespace question left for
+  supervisor disposition.
