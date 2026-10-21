@@ -2124,3 +2124,10 @@ Verification pass 84 (worker-glmc4a — final): 4 principle pages, ALL PASS.
 - Y078 (Yoga Sūtra 1.18, Woods — same passage as Y022), Y080 (Yoga Sūtra 1.48 "truth-bearing"), Y081 (Yoga Sūtra on supernal activities as obstacles/perfections, Woods): all match the already-downloaded theessentialway.org text verbatim.
 - Y079 (Yoga Sūtras 1.27 + 1.28, "The word-expressing Him is the Mystic-syllable (pranava). Repetition of it and reflection upon its meaning [should be made]."): the wiki page's quote is a concatenation of two adjacent sūtras (1.27 and 1.28), both of which are present verbatim in the source, separated in the source by the sūtra numbers; the concatenation is an editorial join, disclosed. The source prints "( praṇava )" with a diacritic where the wiki page prints "(pranava)" — a diacritic normalization, disclosed. Both components match verbatim.
 FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 84 re-verifies and records 4 already-counted Y-pages, adding no new page-checks). Delivering the report now.
+
+Verification pass 85 (worker-glmc4a — final): 1 principle page PASS; 2 not reached; 1 with no displayed quotes.
+- Y084 (Yoga Sūtra on seven-fold insight, Woods 1914): matches the already-downloaded theessentialway.org text verbatim. PASS.
+- Y083 (Bhagavad Gita 6.10, Mukundananda translation): the Bhagavad Gita carrier was not downloaded this session; not reached.
+- Y085 (Śaṅkara Upadeśasāhasrī I.1 §3, Jagadānanda translation, sankaracharya.org): the Śaṅkara carrier was not downloaded this session; not reached.
+- Y082: no displayed quotations — nothing to verify.
+FINAL SESSION TOTAL per the pass-record chain: 314 page-checks across 77 verification passes (pass 85 re-verifies Y084 and notes 2 not-reached Y-pages, adding no new page-checks). Delivering the report now.
