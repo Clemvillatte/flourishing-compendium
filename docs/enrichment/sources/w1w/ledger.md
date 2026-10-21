@@ -654,3 +654,11 @@
     evidence-range sentence; validator ok.
   - Repair 2: dash-count fix (evidence list moved to colon form);
     accent restored on Latané's. Validator ok.
+
+## Proposals addendum (2026-10-21, T+55, worker-w1m-7c9e2a54)
+
+- Added 8 reciprocal proposal edges for items 34-49 (Second-order
+  desires, Tat tvam asi, Samsara, Social embeddedness, The Socratic
+  midwife, Tacit knowledge research, Social Impact Theory, The
+  approval trap). Known gap remains: reciprocal proposals for items
+  1-17 never written (flagged earlier in ledger).
