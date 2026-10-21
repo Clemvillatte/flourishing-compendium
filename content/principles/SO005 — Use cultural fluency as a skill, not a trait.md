@@ -12,11 +12,22 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 5** — Use cultural fluency as a skill, not a trait
 
-Treat cultural fluency — the ability to read, navigate, and switch among cultural codes — as a learnable skill, not a fixed endowment. This is particularly important for migrants, bicultural people, and anyone operating across cultural boundaries.
+Hong and colleagues studied how culture operates inside a person who carries more than one. Their paper's abstract describes what bicultural people do when the setting changes:
 
-**Plain words** Cultural fluency is a skill, not a blood type — reading, navigating, switching between cultural codes. Migrants and bicultural people do it daily; anyone can learn. It's not betrayal of your culture; it's multilingualism with behaviour.
+> "In a series of cognitive priming experiments, the authors simulated the experience of bicultural individuals (people who have internalized two cultures) of switching between different cultural frames in response to culturally laden symbols. The authors discuss how this dynamic, constructivist approach illuminates (a) when cultural constructs are potent drivers of behavior and (b) how bicultural individuals may control the cognitive effects of culture."
 
-*For example:* The employee who code-switches between the direct style of the head office and the indirect style of the family business — not two-faced, just bilingual. Fluent in both rooms.
+(Hong, Morris, Chiu, & Benet-Martínez, 2000, American Psychologist 55(7), 709-720, [published abstract, CUHK research repository](https://research.cuhk.edu.hk/en/publications/multiculrtiral-minds-a-dynamic-constructivist-approach-to-culture-2/).)
+
+The compendium reads this as support for treating cultural fluency as a skill: switching is something a person does in response to cues in the setting, which makes it learnable — what to read, which frame it calls up — rather than a fixed endowment a person either has or lacks.
+
+**Plain words** Notice which room you are in and which style it runs on — direct or indirect, formal or easygoing. Adjusting to it is not two-faced; it is the same move as matching your volume to the place. The cues can be learned, and so can the adjustment.
+
+*For example:* Imagined: an employee moves between the head office's direct style and the family business's indirect style, changing how bluntly feedback is given in each room — fluent in both rooms.
+
+## Sources
+
+- [Hong, Morris, Chiu, & Benet-Martínez, "Multicultural minds: A dynamic constructivist approach to culture and cognition", American Psychologist 55(7), 709-720 — published abstract, CUHK research repository](https://research.cuhk.edu.hk/en/publications/multiculrtiral-minds-a-dynamic-constructivist-approach-to-culture-2/) — the frame-switching passage quoted; abstract text as deposited on the authors' institutional record
+
 ## Psychology parallels
 
 - [[Bicultural identity integration|Bicultural identity integration]] (Benet-Martínez and Haritatos, 2005; Huynh et al., 2011); cultural frame-switching (Hong et al., 2000); cultural intelligence (Earley and Ang, 2003); the role of cultural fluency in migrant adaptation (Ward et al., 2001).
