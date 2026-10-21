@@ -20,10 +20,10 @@ Read as an analogy for everyday commitments, the warning suggests examining a ta
 
 (DDJ 69.)
 
-**Plain words**
+## Plain words
 Before calling a job easy, look beyond the familiar part. What will you need to learn or check? Leave room to change your estimate when you find out more.
 
-**For example**
+## For example
 Imagine pricing a fence repair. Inspect the posts as well as the broken panels before quoting, and explain how additional damage would affect the estimate.
 
 ## Sources
