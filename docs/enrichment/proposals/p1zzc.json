@@ -1,6 +1,6 @@
 {
   "batch": "p1zzc",
-  "revision": 24,
+  "revision": 25,
   "reciprocal": [
     {
       "into": "Benign versus malicious envy",
@@ -101,8 +101,8 @@
     {
       "into": "Friendship",
       "link": "SP059",
-      "why": "Aristotle's perfect friendship wishes the friend's good for the friend's sake; Spinoza's generositas names the desire, under reason's dictate, to aid others and unite them in friendship, the Spinozist counterpart of the same bond.",
-      "notes": "into=Friendship concept; opening read this pass (Aristotle NE VIII, perfect friendship and its permanence); grep SP059: 0; linked from SP059 philosophy parallels"
+      "why": "Aristotle's perfect friendship wishes the friend's good for the friend's sake and lasts while the friends are good; Spinoza's generositas names the desire, under reason's dictate, to aid others and unite them in friendship. The accounts differ in ground; the pages illuminate each other.",
+      "notes": "into=Friendship concept; opening read this pass (Aristotle NE VIII); grep SP059: 0; accounts juxtaposed without equating grounds"
     },
     {
       "into": "Metta (loving-kindness)",
@@ -131,8 +131,20 @@
     {
       "into": "Conflict spirals",
       "link": "SP066",
-      "why": "The concept names the escalation the feud runs on; Spinoza's III, P43 states its law, hatred increased by being reciprocated, and IV, P46 the exit.",
-      "notes": "into=Conflict spirals concept; opening read this pass (Gottman; cites B162 and SP030, no Spinoza principle); grep SP066: 0"
+      "why": "The concept names escalation in close relationships; Spinoza's III, P43 offers a philosophical comparison, hatred increased by reciprocated hatred, and IV, P46 the recommended exit.",
+      "notes": "into=Conflict spirals concept; opening read this pass (Gottman; cites B162 and SP030, which is itself a Spinoza principle); grep SP066: 0; SP066 positioned as philosophical comparison, not an empirical law of conflict"
+    },
+    {
+      "into": "Adequate idea",
+      "link": "SP056",
+      "why": "The concept defines the idea-side of activity; SP056 works the affective side, how a joy becomes an activity when the ideas it springs from are adequate.",
+      "notes": "into=Adequate idea concept; opening read this pass (SEP Spinoza, activity/passivity); grep SP056: 0"
+    },
+    {
+      "into": "A013 — Practice generosity (eleutheriotes)",
+      "link": "SP059",
+      "why": "Aristotle's liberality is a mean concerning wealth; Spinoza's generositas is a desire to aid and befriend under reason's dictate. Same word, different accounts; the pages correct each other.",
+      "notes": "into=A013 principle; grep SP059: 0; Aristotle page already in the compendium's A-block"
     }
   ]
 }

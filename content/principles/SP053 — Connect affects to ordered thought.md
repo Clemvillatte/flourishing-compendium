@@ -16,12 +16,12 @@ The two-way principle comes first (V, P1): the order and connection of ideas in 
 
 > "So long as we are not assailed by emotions contrary to our nature, we have the power of arranging and associating the modifications of our body according to the intellectual order." (Ethics V, P10, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-Its note adds: "By this power of rightly arranging and associating the bodily modifications we can guard ourselves from being easily affected by evil emotions", and gives a worked method: frame fixed practical precepts, commit them to memory, and rehearse them against the wrongs people actually commit, "so that our imagination may become fully imbued therewith, and that it may be always ready to our hand". The page's comparison, a Spinozist version of narrative work: the raw memory does not change; its position in the structure does. The page's exercise drawn from the propositions: write the affective event into a longer account, what preceded it, what it meant at the time, what it means now; the writing performs the ordering.
+Its note adds: "By this power of rightly arranging and associating the bodily modifications we can guard ourselves from being easily affected by evil emotions", and gives a worked method: frame fixed practical precepts, commit them to memory, and rehearse them against the wrongs people actually commit, "so that our imagination may become fully imbued therewith, and that it may be always ready to our hand". The page's comparison, authored and not Spinoza's: the method resembles narrative work, in which events are written into a longer account. The page's exercise drawn from the propositions: write the affective event into that longer account, what preceded it, what it meant at the time, what it means now.
 
 **Plain words**
-Emotion and thought run on the same wire in both directions: thoughts ordered, and the body's states follow that order. So while you are calm, you can arrange your thinking about a charged event, and the arrangement reaches the charge itself. Spinoza's own worked example is unglamorous: rehearse a fixed rule against the wrongs people commit until the rule is the first thing that comes to hand. The writing version: put the event in a longer story, with a before and an after.
+Thought and body run together: the order of thoughts in the mind follows the order of the body's states, and the reverse also holds. So while you are calm, you can arrange your thinking about a charged event, and the body follows the arrangement. Spinoza's own worked example is unglamorous: prepare a fixed rule while you are not overwhelmed, and rehearse it against the wrongs people commit until the rule is the first thing that comes to hand.
 
-*For example:* Imagined: someone re-tells a failed marriage inside an account of the economics, the ages, and the forces at work on both people. The same events, now part of an ordered account.
+*For example:* Imagined: after an argument, someone writes down what was actually said, separates those observations from what each side assumed, and drafts the rule they want ready the next time the subject comes up.
 
 ## Sources
 

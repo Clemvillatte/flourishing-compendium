@@ -16,12 +16,12 @@ The principle's mechanism is III, P43: "Hatred is increased by being reciprocate
 
 > "He, who lives under the guidance of reason, endeavours, as far as possible, to render back love, or kindness, for other men's hatred, anger, contempt, &c., towards him." (Ethics IV, P46, [Elwes](https://www.gutenberg.org/ebooks/3800))
 
-This is strategy, not resignation, and Spinoza says so in the note: "he, who strives to conquer hatred with love, fights his battle in joy and confidence; he withstands many as easily as one, and has very little need of fortune's aid." Retaliation feeds the other side's hatred, the first clause of III, P43; being loved by the object of hate pleases and draws effort to please in return, the second clause. IV, P73's note states the rule in one line: "hatred should be overcome with love". The proposition says the rational person endeavours this "as far as possible"; the argument is about what to attempt, and the outcome is left to the mechanism. The page's exercise drawn from the account: in your hardest relationship, one deliberate non-retaliation per week, and record what the system does.
+Spinoza argues that reciprocated hatred increases hatred (III, P43) and recommends attempting kindness "as far as possible". The note adds the fighter's condition: "he, who strives to conquer hatred with love, fights his battle in joy and confidence; he withstands many as easily as one, and has very little need of fortune's aid." Retaliation feeds the other side's hatred, the first clause of III, P43; being loved by the object of hate pleases and draws effort to please in return, the second clause. IV, P73's note states the rule in one line: "hatred should be overcome with love". The page's exercise drawn from the account: in your hardest relationship, one deliberate non-retaliation per week, and record what happens.
 
 **Plain words**
-When someone hates you and you hate back, both hates grow; that is III, P43. When they hate and you answer with kindness, their hatred loses the fuel you would have added, and can turn into something else; the proposition promises the endeavour, not the conversion. The instruction is not saintly. It is the mechanism doing its work.
+When someone hates you and you hate back, both hates grow; that is III, P43. Spinoza recommends answering with kindness as far as possible, because answering with hatred adds fuel to the growth. The rule tells you what to attempt; whether the other side's hatred turns is not in it.
 
-*For example:* Imagined: a rival spreads a rumour about you. The guided response, as far as possible, is to answer the rival's hostility with a specific kindness, acknowledging their good work where it is real, and to keep your own work good. No reconciliation is promised; what is promised is that you have not fed the growth.
+*For example:* Imagined: a rival spreads a rumour about you. When they later request a document you can legitimately share, you send it promptly, without adding a retaliatory insult.
 
 ## Sources
 
