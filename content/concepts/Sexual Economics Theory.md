@@ -15,24 +15,28 @@ Sexual Economics Theory is Roy Baumeister and Kathleen Vohs's proposal to analyz
 
 The theory applies market logic throughout:
 
-> "Economic principles suggest that the price of sex will depend on supply and demand, competition among sellers, variations in product, collusion among sellers, and other factors." (same abstract)
+> "Economic principles suggest that the price of sex will depend on supply and demand, competition among sellers, variations in product, collusion among sellers, and other factors." ([same author abstract](https://pubmed.ncbi.nlm.nih.gov/15582858/))
 
 The abstract lists the domains where the authors claim gender asymmetries appear: prostitution, courtship, infidelity and divorce, female competition, the sexual revolution and changing norms, unequal status between partners, cultural suppression of female sexuality, abusive relationships, rape, and sexual attitudes.
 
 ### Standing criticism
 
-The theory has been contested from the start. The Wikipedia article on it records the shape of the critique:
+The theory has been contested empirically. Laurie Rudman, Janell Fetterolf and Diana Sanchez tested the female-control claim against an alternative in a 2013 study:
 
-> "The sexual economics theory has been highly controversial from the start, due to its basis in a biologically deterministic worldview and its overreliance on Roy Baumeister's theoretical framework as well as highly questionable self-report survey data." ([Wikipedia, Sexual economics](https://en.wikipedia.org/wiki/Sexual_economics))
+> "The data did not support FCT's argument that women are motivated by sexual economics to restrict female sexuality (Baumeister & Twenge, 2002)." (Rudman, Fetterolf & Sanchez, [What motivates the sexual double standard?](https://pubmed.ncbi.nlm.nih.gov/23386660/), Personality and Social Psychology Bulletin 39(2), 2013, author abstract)
 
 A 2025 review by Norbert Meskó in Archives of Sexual Behavior contextualizes the theory within a multiple-perspectives approach and notes that efforts to eliminate or liberalize sexual-economic exchange have yielded mixed outcomes across historical and policy contexts.
+
+### In everyday life
+
+Illustrative application, not a reported study: the theory would read a courtship in which one partner waits for commitment before sex and the other presses for it as a negotiation over the price of a valued resource, with the waiting partner as seller. The reading is the theory's proposal, contested as above.
 
 ### In the compendium
 
 - [[SO029 — Treat belonging as a need, not a preference]] — the need-to-belong evidence, by the same first author, on what relationships supply
 - [[X023 — Live deliberately, and price things in life]] — Thoreau's Walden formulas on what a life costs, a different pricing
-- [[SO042 — Treat epistemic injustice as a real harm]] — Fricker on prejudice deflating a speaker's credibility, one lens on the theory's reception
-- [[SO019 — Treat religion and spirituality as legitimate resources]] — another account of resources exchanged in relationships
+- [[SO042 — Treat epistemic injustice as a real harm]] — Fricker on prejudice deflating a speaker's credibility
+- [[SO019 — Treat religion and spirituality as legitimate resources]] — religion and spirituality studied as resources linked to health outcomes
 
 ## Field
 
@@ -51,5 +55,5 @@ Sociocultural · Psychological science
 ## Sources
 
 - [Baumeister & Vohs, "Sexual economics: sex as female resource for social exchange in heterosexual interactions", Personality and Social Psychology Review 8(4), 339-363, 2004 (author abstract, PubMed 15582858)](https://pubmed.ncbi.nlm.nih.gov/15582858/) — the marketplace premise, the pricing claim, the domain list
-- [Wikipedia, "Sexual economics"](https://en.wikipedia.org/wiki/Sexual_economics) — documentation of the standing controversy
+- [Rudman, Fetterolf & Sanchez, "What motivates the sexual double standard? More support for male versus female control theory", Personality and Social Psychology Bulletin 39(2) (2013), author abstract, PubMed 23386660](https://pubmed.ncbi.nlm.nih.gov/23386660/) — the empirical challenge to the female-control claim
 - [Meskó, "The Multiple Perspectives Approach to Understanding Sexual-Economic Exchange", Archives of Sexual Behavior 54(9) (2025), PMC12675561](https://pmc.ncbi.nlm.nih.gov/articles/PMC12675561/) — the mixed-outcomes note on liberalizing sexual-economic exchange
