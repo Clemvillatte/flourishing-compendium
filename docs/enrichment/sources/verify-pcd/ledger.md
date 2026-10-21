@@ -436,3 +436,9 @@ QC-closed).
 - Marsh et al. 2019 sentence EXACT vs the opened PMC article; Lavie 1995 fragment EXACT
   vs the opened PubMed abstract.
 - w1h spot check final: 3/3 PASS.
+
+### w1h "Self psychology" — quote fidelity PASS (verification pass)
+- Rønning & Bjørkly 2017 selfobject-needs passage EXACT vs the opened PMC article
+  (the source carries superscript citation markers between sentences; the page drops
+  the markers, standard footnote handling; wording verbatim).
+- w1h final: 4/4 PASS.
