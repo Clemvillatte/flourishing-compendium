@@ -16,9 +16,9 @@ Winnicott treated the capacity to be alone as "one of the most important signs o
 
 > "Thus the basis of the capacity to be alone is a paradox; it is the experience of being alone while someone else is present." (Winnicott, 1958)
 
-**Plain words** You need time alone with yourself — not as punishment, not as failure to have plans, but as the place where you hear your own thoughts instead of everyone else's. The capacity to sit alone without a screen is a skill, and it's the soil everything else grows in.
+**Plain words** Being alone, in Winnicott's account, is a capacity you build, not a mood you either have or lack. It starts as being alone while someone supportive is present, and the support is gradually carried inside, until solitude stops feeling like abandonment. Time alone is where your own thoughts become audible; the capacity is what lets that be restful instead of empty.
 
-*For example:* The woman who drives twenty minutes to a coffee shop alone every Saturday morning isn't antisocial. She's collecting herself before the week takes her apart.
+*For example:* Imagined example: a woman spends Saturday morning alone at a coffee shop; the hour is where she hears her own thoughts instead of everyone else's.
 ## Psychology parallels
 
 - **Solitude and self-renewal**, constructive solitude is associated with self-reflection, creativity, and well-being (Larson, 1990; Long & Averill, 2003)

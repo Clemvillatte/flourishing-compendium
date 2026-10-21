@@ -16,7 +16,7 @@ Ryan and Deci's account proposes three basic psychological needs: competence, au
 
 > "The findings have led to the postulate of three innate psychological needs—competence, autonomy, and relatedness—which when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being." (Ryan & Deci, 2000, p. 68)
 
-**Plain words** You need two things that sound like opposites: to be your own person, and to belong to people. You can care about someone and still say honestly what you want; agreeing freely is not the same as agreeing because disagreement feels forbidden. Sacrifice either need long enough and you'll get sick of the trade.
+**Plain words** You need two things that sound like opposites: to be your own person, and to belong to people. You can care about someone and still say honestly what you want; agreeing freely is not the same as agreeing because disagreement feels forbidden. Frustrate either need long enough and motivation and well-being suffer.
 
 *For example:* A partner says, "I want to spend Sunday with you, and I also want to keep my afternoon class." They talk it through until each can accept the plan freely, rather than treating disagreement as disloyalty.
 ## Psychology parallels
@@ -32,7 +32,7 @@ Ryan and Deci's account proposes three basic psychological needs: competence, au
 
 ## Practice
 
-- Check both: am I maintaining my autonomy (my own values, choices, direction) and my connection (belonging, relationship)? If you sacrifice one for the other, both suffer.
+- Check both: am I maintaining my autonomy (my own values, choices, direction) and my connection (belonging, relationship)? Chronically frustrating either one tends to cost motivation and well-being.
 
 ## Sources
 

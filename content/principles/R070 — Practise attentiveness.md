@@ -28,8 +28,8 @@ Tronto's use of Weil makes the link explicit: "It is necessary, in a sense, to s
 
 ## Sources
 
-- [Simone Weil, "Reflections on the Right Use of School Studies with a View to the Love of God" (1942), Matheson Trust PDF](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf) — attention definition passage; opened
-- ["Ethics of Care: Analysis of a Moral Paradigm in Weil and Tronto," Supplemento ad Acta Philosophica](https://forum-phil.pusc.it/article/download/4948/2736/4519) — carries the Tronto "moral achievement" / "moral evil" framing (Moral Boundaries p. 127) and the Weil-suspension passage (p. 128); opened; secondary carrier, disclosed. The full Moral Boundaries PDF (pirate.care library) exceeds the fetcher's size limit; the article's own summary of the four categories is paraphrased, not quoted
+- [Simone Weil, "Reflections on the Right Use of School Studies with a View to the Love of God" (1942), Matheson Trust PDF](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf) — attention definition passage
+- ["Ethics of Care: Analysis of a Moral Paradigm in Weil and Tronto," Supplemento ad Acta Philosophica](https://forum-phil.pusc.it/article/download/4948/2736/4519) — carries the Tronto "moral achievement" / "moral evil" framing (Moral Boundaries p. 127) and the Weil-suspension passage (p. 128); secondary carrier, disclosed
 
 ## Psychology parallels
 

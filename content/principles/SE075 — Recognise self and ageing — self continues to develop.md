@@ -18,7 +18,7 @@ In Carstensen and colleagues' study of over 10 years of experience sampling, "ag
 
 **Plain words** Your later chapters can read differently from the early ones. On average, people's emotional experience tends to steady and even improve with age, so if your older years surprise you by being calmer, you have company.
 
-*For example:* The woman at seventy-five who says "I don't do parties I don't want to attend" isn't becoming difficult. She's becoming specific. Fifty years of data on her own preferences finally outranks forty years of being polite about them.
+*For example:* Imagined: a seventy-five-year-old declines most party invitations and reports that her ordinary days feel calmer than they did at forty. That matches the study's average finding, which describes groups, not a promise for any one person.
 ## Psychology parallels
 
 - **Self-development across the lifespan**, self-concept and identity continue to develop in older age (Carstensen et al., 2003; McAdams, 2001)

@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 10** — Treat the sociocultural level as interventionable
 
-Dewey's argument for treating the social level as a place to intervene is his definition of democracy itself: "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience" (1916, ch. 7). A society so constituted, he writes, "secures flexible readjustment of its institutions through interaction of the different forms of associated life". That is the principle's own opening: if institutions can be deliberately readjusted, then the sociocultural level is not fixed scenery but something a community can work on. The specifics of community, policy and cultural intervention listed in the parallels section are the applications to check; their evidence base belongs to those sources.
+Dewey's argument for treating the social level as a place to intervene is his definition of democracy itself: "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience" (1916, ch. 7). A society so constituted, he writes, "secures flexible readjustment of its institutions through interaction of the different forms of associated life". That is the principle's own opening: if institutions can be deliberately readjusted, then the sociocultural level is not fixed scenery but something a community can work on.
 
 > "A society which makes provision for participation in its good of all its members on equal terms and which secures flexible readjustment of its institutions through interaction of the different forms of associated life is in so far democratic." (Dewey, 1916, ch. 7)
 
