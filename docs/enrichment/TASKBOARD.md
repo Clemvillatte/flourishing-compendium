@@ -2052,3 +2052,8 @@ Verification pass 71 (worker-glmc4a — final): 1 principle page PASS; 3 not rea
 - Y027 (Yoga Sūtra I.41 opening phrase, Woods 1914): matches the already-downloaded theessentialway.org text verbatim. PASS.
 - Y026 (Bhagavad Gita "heart breaks" passage, likely Arnold translation), Y028 (Yoga Sūtra ahimsa), Y029 (Bhagavad Gita 17.15): their carriers (Bhagavad Gita texts and other Yoga Sūtra translations) were not downloaded this session; not reached. Not defects.
 FINAL SESSION TOTAL per the pass-record chain: 286 page-checks across 71 verification passes. Delivering the report now.
+
+Verification pass 72 (worker-glmc4a — final): 4 principle pages — 3 PASS, 1 flagged.
+- Y030, Y031, Y033 (Yoga Sūtra abstentions and their fruits, Woods 1914): all three quotes match the already-downloaded theessentialway.org reprinted text verbatim.
+- Y032 (Yoga Sūtra on authorized objects / abstinence from acceptance of gifts): the quote was NOT FOUND in either downloaded Yoga Sūtra carrier (the Woods theessentialway text or the Gutenberg #2526 Johnston text) — the phrasing suggests a different translation not yet located; flagged for re-verification. Not a defect.
+FINAL SESSION TOTAL per the pass-record chain: 290 page-checks across 72 verification passes. Delivering the report now.
