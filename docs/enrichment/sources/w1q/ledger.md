@@ -37,3 +37,23 @@ damage, w1ab left to its live holder.
   textbook summary is attributed to its carrier, not to Noelle-Neumann directly.
 - Validation --fast-track --base ca927d09: ok (Related-concepts warning resolved by adding
   a bare [[Herd morality]] link). Advisor QC: milestone round below.
+
+## QC ROUND 2 (advisor, items 1-2) — repairs applied and validated — 2026-10-21, worker-w1q-pplxy-7d4f2a91
+- Speech Act Theory: opening narrowed (unsupported status claim removed, Searle sentence
+  reduced to the verified claim); second Austin 1962 pp. 1-2 sentence added as theorist
+  core claim; Green's definition blockquote labelled 'the entry's formulation'; locators
+  fixed (felicity/QEII/lunch-promise passages verified in section 2.2 by nearest-heading
+  check on the raw HTML; definition in section 2; Austin quotes in section 1); Related
+  captions reduced to bare links; everyday-life staging cut; promise-breaker passage
+  attributed to the entry's section 9 (Speech Acts and Social Issues) by nearest-heading
+  check; process notes removed from Sources.
+- Spiral of Silence Theory: primary theorist quote added (1974 Journal of Communication
+  article abstract, 'To the individual, not isolating himself is more important than his
+  own judgment...' — abstract-derived, labelled as reproduced by SciSpace; the OUP and
+  Wiley pages serve no abstract text to the fetcher); the 1977 'appears stronger than it
+  is' sentence re-attributed to the Wikipedia article's description citing her 1977 paper
+  (NOT presented as her words); predictions framing in the opening; contested-causal
+  qualification on fear of isolation added (verified in article HTML); Groupthink
+  equivalence removed (bare link); everyday-life replaced with a labelled illustrative
+  scenario in third person; process notes removed from Sources.
+- Post-repair validation: 2 checked, 0 failed (--fast-track, base ca927d09).

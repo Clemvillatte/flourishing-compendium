@@ -7,9 +7,9 @@ file: "Spiral of Silence Theory"
 tags: ["theory", "psych/social"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-SOCIAL"], "alternatePaths": []}
 ---
-The spiral of silence is a theory of public opinion. It says that people watch the climate of opinion around them and speak up or fall silent accordingly: those who believe they hold the majority view talk, those who believe they hold a minority view go quiet, and the silence itself then shifts what everyone else perceives as the majority.
+The spiral of silence is a theory of public opinion. It predicts that people who believe they hold the majority view will be more willing to speak, and that people who believe they hold a minority view will tend to go quiet; the resulting silence then shifts what everyone else perceives as the majority.
 
-> "An opinion that is being reinforced in this way appears stronger than it is, while a suppressed opinion will seem weaker than it is." (Noelle-Neumann 1977, as cited in [Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence))
+> "To the individual, not isolating himself is more important than his own judgment. This appears to be a condition of life in human society; if it were otherwise, sufficient integration could not be achieved." (Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, article abstract](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr), as reproduced by SciSpace)
 
 ### Origin
 
@@ -21,7 +21,7 @@ The model grew out of her research on West German federal elections.
 
 > "The spiral of silence theory is a political science and mass communication theory which states that an individual's perception of the distribution of public opinion influences that individual's willingness to express their own opinions." ([Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence), lead)
 
-The theory's engine is a "quasi-statistical sense" that helps an individual perceive the climate of opinion and estimate majority and minority opinion, together with a fear of isolation from social interaction. A textbook summary quoted in the article: "people who have believed that they hold a minority viewpoint on a public issue will remain in the background where their communication will be restrained; those who believe that they hold a majority viewpoint will be more encouraged to speak."
+The theory's engine is a "quasi-statistical sense" that helps an individual perceive the climate of opinion and estimate majority and minority opinion, together with a fear of isolation from social interaction, although the article notes that whether fear of isolation is a causal factor in willingness to speak out is contested. A textbook summary quoted in the article: "people who have believed that they hold a minority viewpoint on a public issue will remain in the background where their communication will be restrained; those who believe that they hold a majority viewpoint will be more encouraged to speak." In the article's description, citing her 1977 paper, an opinion that is reinforced this way "appears stronger than it is, while a suppressed opinion will seem weaker than it is."
 
 ### How the spiral turns
 
@@ -35,7 +35,7 @@ Noelle-Neumann described the process as dynamic: predictions about public opinio
 
 ### In everyday life
 
-The theory names a quiet experience most readers know: holding back a view because the room seems against it. From the individual's perspective, "not isolating themself is more important than their own judgement", so the perceived climate, not the strength of one's reasons, often decides whether one speaks. For a writer on flourishing the practical edge is twofold: notice whether your own silence tracks the room's climate or your reasons, and notice when a room's loud consensus is partly an artefact of who is not talking.
+Illustrative scenario, not a study result: someone withholds a dissenting view during a meeting because they expect rejection. The theory directs attention to whether the apparent consensus partly reflects withheld opinions, and to the possibility that one's own silence is tracking the room's climate rather than one's reasons.
 
 ### In the compendium
 
@@ -47,13 +47,13 @@ The theory names a quiet experience most readers know: holding back a view becau
 ## Related concepts
 
 - [[Conformity]] — the pressure to align with others that the theory's fear-of-isolation mechanism builds on
-- [[Groupthink theory]] — the small-group version of opinion pressure suppressing dissent
+- [[Groupthink theory]]
 - [[Herd morality]]
 
 ## Sources
 
-- [Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence) — definition, origin, mechanism, criticisms; all quotations verified verbatim against the article's full text, including its citations of Noelle-Neumann 1977 and the theory's standard textbook summary
-- Noelle-Neumann 1977 and the 1974 model, as cited in that article
+- Noelle-Neumann, "The Spiral of Silence: A Theory of Public Opinion", [Journal of Communication 24(2), 1974, pp. 43-51](https://doi.org/10.1111/j.1460-2466.1974.tb00367.x) — article abstract, [as reproduced by SciSpace](https://scispace.com/papers/the-spiral-of-silence-a-theory-of-public-opinion-a8bbzrgyyr)
+- [Wikipedia, "Spiral of silence"](https://en.wikipedia.org/wiki/Spiral_of_silence) — definition, origin, mechanism, criticisms; the article's description of the theory, including its citation of Noelle-Neumann 1977
 
 ## Field
 

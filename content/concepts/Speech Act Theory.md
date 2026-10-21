@@ -7,7 +7,7 @@ file: "Speech Act Theory"
 tags: ["theory", "psych/cognition"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 ---
-Speech act theory holds that speaking is a form of acting. When someone promises, warns, apologises or congratulates, the utterance itself performs the act. The framework comes from J. L. Austin's book How to Do Things with Words (1962), was recast by John Searle, and it remains the standard way of asking what an utterance does, as distinct from what it says.
+Speech act theory examines acts performed in communicating, such as promising, warning and apologising. The framework comes from J. L. Austin's book How to Do Things with Words (1962); John Searle later criticized Austin's taxonomy and proposed another classification of speech acts.
 
 > "Along these lines it has by now been shown piecemeal, or at least made to look likely, that many traditional philosophical perplexities have arisen through a mistake-the mistake of taking as straightforward statements of fact utterances which are either (in interesting non-grammatical ways) nonsensical or else intended as something quite different." (Austin 1962, pp. 1–2, quoted in Mitchell Green, ["Speech Acts, section 1"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
 
@@ -17,9 +17,11 @@ Austin worked in the Ordinary Language movement, whose broad claim was that the 
 
 ### Core claims
 
-> "Accordingly, a speech act is a type of act that can be performed by speaker meaning that one is doing so." (Mitchell Green, ["Speech Acts, section 2"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
+> "It has come to be commonly held that many utterances which look like statements are either not intended at all, or only intended in part, to record or impart straightforward information about the facts" (Austin 1962, pp. 1–2, quoted in Mitchell Green, ["Speech Acts, section 1"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
 
-> "Austin, in How To Do Things With Words, details the conditions that must be met for a given speech act to be performed felicitously." (Mitchell Green, ["Speech Acts, section 1"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
+> "Accordingly, a speech act is a type of act that can be performed by speaker meaning that one is doing so." (the entry's formulation, Mitchell Green, ["Speech Acts, section 2"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
+
+> "Austin, in How To Do Things With Words, details the conditions that must be met for a given speech act to be performed felicitously." (Mitchell Green, ["Speech Acts, section 2.2"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
 
 The entry organises the field around the relation between what an utterance says and what it does; its second section is titled "Content, Force, and How Saying Can Make It So."
 
@@ -27,13 +29,13 @@ The entry organises the field around the relation between what an utterance says
 
 Austin's conditions of success sort failures into two kinds. A misfire is an attempt that fails to perform the act at all. An abuse is an act that goes through but falls short of a standard appropriate to its kind, of which the entry names sincerity as the paradigm condition.
 
-> "If I utter, before the QEII, 'I declare this ship the Noam Chomsky,' I have not succeeded in naming anything because I lack the authority to do so. My act thus misfires in that I've performed an act of speech but no speech act." (Mitchell Green, ["Speech Acts, section 1"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
+> "If I utter, before the QEII, 'I declare this ship the Noam Chomsky,' I have not succeeded in naming anything because I lack the authority to do so. My act thus misfires in that I've performed an act of speech but no speech act." (Mitchell Green, ["Speech Acts, section 2.2"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
 
-> "I promise to meet you for lunch tomorrow, but haven't the least intention of making good. Here I have promised all right, but the act is not felicitous because it is not sincere." (Mitchell Green, ["Speech Acts, section 1"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
+> "I promise to meet you for lunch tomorrow, but haven't the least intention of making good. Here I have promised all right, but the act is not felicitous because it is not sincere." (Mitchell Green, ["Speech Acts, section 2.2"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy)
 
 ### In everyday life
 
-The lunch-promise case is the theory's most portable lesson: an insincere promise still counts as a promise, and the failure it carries has a name. The entry adds a social dimension to this: an inveterate promise-breaker can end up "unable to perform the illocutionary act of promising" in his community, because others stop accepting his promises. What a person does with words over time shapes what their words can still do.
+The lunch-promise case carries the theory's useful distinction: an insincere promise can still count as a promise. The entry adds a social dimension in its section on speech acts and social issues: an inveterate promise-breaker can end up "unable to perform the illocutionary act of promising" in his community, because others stop accepting his promises. What a person does with words over time shapes what their words can still do.
 
 ### In the compendium
 
@@ -44,14 +46,14 @@ The lunch-promise case is the theory's most portable lesson: an insincere promis
 
 ## Related concepts
 
-- [[Language games]] — Wittgenstein's account of word meaning as use, a neighbouring tradition's treatment of language as activity
-- [[Linguistic relativity]] — asks how language shapes thought, where speech act theory asks what an utterance does
-- [[Framing effects]] — how presentation changes evaluation, a psychological cousin of the force-content distinction
-- [[Conversation as method]] — treats dialogue itself as the practice under study
+- [[Language games]]
+- [[Linguistic relativity]]
+- [[Framing effects]]
+- [[Conversation as method]]
 
 ## Sources
 
-- Mitchell Green, ["Speech Acts"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy (first published 2007, substantive revision 2020) — preamble, sections 1 and 2; all quotations verified against the article's full text
+- Mitchell Green, ["Speech Acts"](https://plato.stanford.edu/entries/speech-acts/), Stanford Encyclopedia of Philosophy (first published 2007, substantive revision 2020) — preamble; sections 1, 2 and 2.2; section 9 on social issues
 - Austin, How to Do Things with Words (1962), pp. 1–2, as quoted in the SEP entry
 
 ## Field

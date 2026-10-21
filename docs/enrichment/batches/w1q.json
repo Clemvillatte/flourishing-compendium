@@ -5,8 +5,12 @@
   "Spiral of Silence Theory"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Speech Act Theory": "Reopened for QC: QC correction: advisor round 2 (attribution, locators, captions, staging)",
+  "Spiral of Silence Theory": "Reopened for QC: QC correction: advisor round 2 (primary theorist quote added via 1974 abstract carrier, predictions framing, scenario label)"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T14:35:15+00:00"
+ "updated": "2026-10-21T14:39:17+00:00",
+ "band_done": false
 }
