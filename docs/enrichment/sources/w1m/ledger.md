@@ -304,3 +304,7 @@ front-matter byte-identical, original wikilinks preserved (additions only).
 Hopkins detail removed (the 1913 text references the Hopkins animal lab but
 does not establish Watson's appointment in the opened excerpts). Fast-track
 profile used for degree (<15) but full theory-page standard applied.
+Advisor QC round 4 (2026-10-21, worker-w1m-f9f8e50d): SCOPED PASS for
+Behaviorism after three blocking rounds and the closeout checks; rounds 1-3
+were FAILs with applied repairs, round 4 cleared the item. Not a certification
+of the whole band or the cited works. Item marked done via state workflow.
