@@ -13,7 +13,7 @@ The construct's classic definition is Budner's, quoted here as a later review gi
 
 Budner built the definition on a prior account of what makes a situation ambiguous: one that cannot be adequately structured or categorised because of insufficient cues, with novelty, complexity and insolubility as the three stimulus characteristics his scale used. The review adds that the perception of ambiguity can be threatening because it obscures potential harm, which explains why the threat reading is available at all: the unstructured situation could be hiding something. The same review notes his scale identified four possible reactions to ambiguity — phenomenological denial or submission, and operative denial or submission — which is why the construct covers behaviour and not just feeling.
 
-The compendium's cited line, Dugas and colleagues' 1998 work, moves the family forward into worry research: the rigid reaction is not to ambiguity in general but to uncertain future outcomes, and the rigidity predicts distress.
+The construct has since been carried into neighbouring literatures on uncertainty and worry, though the compendium's opened sources stop at the ambiguity literature itself, so this page does not follow it there.
 
 **Plain words** Ambiguous means you cannot yet tell what this is. Some people read that as a threat to be closed fast, some as something even desirable. The first reading is a reflex that can be noticed, and it is the one that gets heavy the longer the ambiguity lasts.
 

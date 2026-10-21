@@ -15,7 +15,7 @@ Triandis's theory treats individualism and collectivism not as two answers to on
 
 The sharpest one-line statement of the difference is Triandis's own: "among individualists one is what one does; among collectivists one is what one's group does" (Triandis, Brislin and Hui 1988, p. 274, [as quoted in an ERIC-hosted review](https://files.eric.ed.gov/fulltext/ED470007.pdf)). He later elaborated the constructs as cultural syndromes or patterns of "beliefs, attitudes, self-definitions, norms, and values that are organized around some theme that can be identified in a society" (Triandis 1994, p. 2, [as quoted in the same review](https://files.eric.ed.gov/fulltext/ED470007.pdf)).
 
-At the person level the theory uses its own pair of terms, idiocentric and allocentric, and holds that both tendencies coexist in most people, sampled differently by situation. This is the theory's main warning against its own misuse: a culture-level average does not tell you what an individual in front of you is doing.
+At the person level the theory uses its own pair of terms, idiocentric and allocentric, and holds that both tendencies coexist in most people, sampled differently by situation. The two levels are kept distinct: a culture-level average is not a claim about the individual in front of you.
 
 **Plain words** Cultures tilt: some toward defining you by your own choices, some by your groups' doings. But the tilt is a statistic about a population, not a verdict on the person in front of you, and everyone carries both tendencies.
 

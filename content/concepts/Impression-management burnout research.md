@@ -15,7 +15,7 @@ The same review found the contrast case weak rather than harmful: "Overall, deep
 
 The meta-analysis was based on 494 individual correlations drawn from a final sample of 95 independent studies, and its regression and mediation analyses confirmed that surface acting uniquely predicts impaired well-being. The compendium's reading of this for self-presentation is direct: the pretend version of the display is the expensive one, and the price is paid in exhaustion.
 
-**Plain words** Faking the feeling costs more energy than changing the feeling, and the bill arrives as burnout. Performing a self you do not actually feel is continuous work, hour after hour, and it is the kind of work that does not end when you finally go home.
+**Plain words** Faking the feeling takes effort, and the study associates that effort with burnout, proposing as its mechanism that faking consumes the same regulatory resources. Performing a self you do not feel is continuous work, hour after hour.
 
 ### In the compendium
 

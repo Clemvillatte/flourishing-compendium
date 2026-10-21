@@ -13,9 +13,9 @@ The Latin word behind the English "integrity" is built for wholeness: Wiktionary
 
 The same passage insists that the whole must be your own: what is proper for one is improper for another, and nothing is proper that "goes against the grain," that is, in direct opposition to one's natural genius. His worked example is Cato, who "had strengthened it by unswerving consistency and had remained ever true to his purpose and fixed resolve" (De Officiis I.112, [Project Gutenberg #47001](https://www.gutenberg.org/ebooks/47001)).
 
-So the older idea is not first honesty with others but intactness of self: the pieces of the life fit together, and they belong to the person living it rather than to the person being imitated.
+The demand the passage makes is not in the first place about honesty with others but about consistency: the same person across the whole course of a life and its individual actions, in a way that cannot be maintained by copying the traits of others.
 
-**Plain words** Integrity's root meaning is simpler than its reputation: being one thing. A life in one piece, consistent through its parts, and recognisably yours rather than assembled from other people's traits.
+**Plain words** Integrity's root meaning is simpler than its reputation: being one thing. A life consistent through its parts, and recognisably yours rather than assembled from other people's traits.
 
 ### In the compendium
 

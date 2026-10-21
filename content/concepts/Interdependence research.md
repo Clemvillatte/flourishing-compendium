@@ -23,7 +23,7 @@ The article's own abstract opens with the comparative claim: "People in differen
 
 ### In the compendium
 
-- [[P003 — Relation is primary]]: the principle that reads the research as evidence that persons are constituted by relation
+- [[P003 — Relation is primary]]: the principle that reads the research as evidence for the primacy of relation
 
 ## Related concepts
 
