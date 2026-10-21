@@ -532,3 +532,17 @@
 - Normal validator: ok. State recorded (done count 38).
   - Repair: original [[A069 — Seek concord (homonoia)]] link restored
     (validator caught lost seed link on first save; fixed immediately).
+
+## Item 41: Temporal distancing (2026-10-21, worker-w1m-7c9e2a54)
+
+- Seed: Bruehlman-Senecal and Ayduk, 2015 (one line). Seed citation
+  line kept.
+- Carrier opened: PubMed entry for the 2015 JPSP article (free
+  article). Verified verbatim from the abstract: the two guiding
+  questions, the studies 1a-2 hypothesis sentence, the studies 4-6
+  impermanence-focus sentence, and the conclusion sentence.
+- Abstract quotes keep the source's hyphenated compound
+  ("first 4 studies-impermanence focus") verbatim.
+- Taper item. Related links confirmed existing (Impermanence,
+  Self-distancing, Emotion regulation, Temporal discounting).
+- Normal validator: ok. State recorded (done count 39).
