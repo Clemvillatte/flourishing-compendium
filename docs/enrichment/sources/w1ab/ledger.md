@@ -170,3 +170,18 @@
   mucosal immunity (2006 review), behaviour via the hedged CNS-communication claim (2012
   review, hedge 'possibly through neural, endocrine and immune pathways' kept).
 - QC: none required this item (item 4; cadence: first item + every 5th).
+
+## Mind-life continuity (fast-track, degree 1) — 2026-10-21, worker-w1ab-2e9d1a4f
+- Baseline: 55b87a20 (seed line + Sources stub + Cited-in P140). Validated --fast-track
+  --base 55b87a20: ok.
+- Carrier opened: Thompson, 'Précis of Mind in Life: Biology, Phenomenology, and the
+  Sciences of Mind', JCS author proof PDF at evanthompson.me (429KB, downloaded +
+  pdftotext'd; title page confirmed Evan Thompson, Précis of Mind in Life). The
+  deep-continuity thesis quoted verbatim from the Introduction (lines 7-9 of the
+  extracted text); the twofold-approach and enactive-phenomenology convergence passages
+  read in the extracted text (the 'autonomous and normative and cognitive mode of being'
+  fragment quoted verbatim; the convergence proposition paraphrased with its three
+  life-senses kept).
+- Related rows grounded by reading the target pages' openings (Enactivism: 'Varela,
+  Thompson and Rosch, The Embodied Mind'; Embodied cognition title hit).
+- QC: milestone QC for session items 1-5 due after this item (advisor round).
