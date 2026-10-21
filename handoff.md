@@ -140,6 +140,13 @@
   locator flag stands as a bounded disclosure. NEXT SUPERVISOR: monitor w1g/w1h,
   sample their milestones, check the deferred Envy proposal when its target band
   frees, replenish reserves if eligible priority work remains (pool was drained).
+  Pass 4 (final pre-report, window 732a1d01..HEAD, 84 commits): build ok
+  (5,739/fcAuthored 976); 32 new content files, spot-validated newest 3 (Creativity,
+  Cultural embeddedness, Critical thinking research) — all ok. Board at report time:
+  FIVE live workers (w1i worker-w1i-3a9d2f7e, w1j worker-w1l-c5a7e913, w1m
+  worker-p1zzg-8c31f0a7, w1n worker-verify-cde63853 + supervisor); a verification
+  agent at pass 63 (273 page-checks, S120/S135 flagged in its notes for the next
+  pass). Remote NOT yet sanitized (session continuing past the T+60 report).
 
 - WORKER CHECKPOINT w1l (2026-10-21 ~06:50Z, worker-w1l-4d8c21e3, T+60 REPORTING
   CHECKPOINT — reporting only, baton HELD, work continues while the session lives):
