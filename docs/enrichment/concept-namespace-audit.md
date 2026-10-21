@@ -385,3 +385,12 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   the page title's "movement snacks" label is not used by the opened record (the invented
   etymology bridging the two was removed per advisor). Held out of done pending supervisor
   disposition on the label/alias (rename to Exercise snacks or owner decision).
+- Self-doubt theory (2026-10-21, worker-pcx-5d9e2a1b, w1p): garbled-title pattern over a real
+  concept. The seed credited "Torti, Buelow" as the theory's authors; two searches found no
+  such theory, and the opened carrier (Braslow, Guerrettaz, Arkin & Oleson 2012, Social and
+  Personality Psychology Compass 6(6)) treats self-doubt as a construct of the Arkin/Oleson
+  research program, not a named "self-doubt theory". Page rewritten conservatively at the
+  fast-track bar (all quotes verified verbatim against the raw PDF download); the seed's
+  unverifiable "Torti, Buelow" attribution and its "reassurance-seeking" strategy (not in the
+  opened carrier) were dropped. Possible rename to Self-doubt left for supervisor/owner
+  disposition.
