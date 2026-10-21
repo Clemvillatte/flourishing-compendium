@@ -1,16 +1,16 @@
 {
  "batch": "p1zzg",
  "done": [
-  "S088",
-  "S106"
+  "S106",
+  "S088"
  ],
  "in_progress": null,
  "flagged": {
-  "S088": "Reopened for QC: QC round 1 FAIL: repair per advisor edits",
+  "S088": "Reopened for QC: QC round 2 FAIL: remove rejected opening",
   "S106": "Reopened for QC: QC round 1 FAIL: repair per advisor edits"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-21T01:46:15+00:00",
+ "updated": "2026-10-21T01:48:37+00:00",
  "band_done": false
 }

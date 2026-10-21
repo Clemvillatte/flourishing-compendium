@@ -12,17 +12,13 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 210** — Be a good neighbour
 
-The Stoic is a good neighbour: considerate, helpful, not intrusive. Marcus tells himself to be a good citizen, which begins with being a good neighbour. Do not underestimate the importance of small acts of neighbourliness.
-
-(Med. VI.7.)
-
 Marcus tells himself to move from one social act to the next:
 
 > Take pleasure in one thing and rest in it, in passing from one social act to another social act, thinking of God.
 
 (Med. VI.7, George Long translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/15877/pg15877.txt).)
 
-Applying this instruction to neighbours is the compendium's practical reading of the passage.
+The passage asks for no grand civic gesture. It asks for attention to the next social act, and the next, taking each as it comes. The neighbours within reach are simply the nearest people to practise on.
 
 **Plain words** You do not need to feel close to everyone nearby to consider how your actions affect them. Ask what would be useful, and check before offering help that might be unwanted.
 
