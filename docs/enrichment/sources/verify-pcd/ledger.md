@@ -284,3 +284,10 @@ Validator: all six PASS (fast-track). Awaiting round-3 confirmation.
 ### w1j "Identity" — quote fidelity PASS (verification pass)
 - Olson SEP blockquote EXACT vs the opened Stanford Encyclopedia entry (Personal Identity,
   section 1).
+
+### w1j "Integrative Theory of Communication Work" — quote fidelity PASS (verification pass)
+- Donovan & Hazlett blockquote EXACT vs the opened Oxford Academic abstract.
+- w1j late-session batch now sampled: Fundamental attribution error, Gate control theory of
+  pain, Grounding techniques, Harsh self-criticism, Hormetic exposure research, Identity,
+  Integrity as consistency, Integrative Theory of Communication Work — all quote-fidelity
+  PASS; routed defects recorded earlier (Grounding hedge; FAE/Humanizer cleanups).
