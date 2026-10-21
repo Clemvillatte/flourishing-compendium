@@ -24,7 +24,7 @@ The key move is the last line. Destiny does not claim credit either — "when we
 
 ## Stories
 
-
+- [[ST377 — Ziyu Looks at His Reflection in the Well|377. Ziyu Looks at His Reflection in the Well]]
 ## Psychology parallels
 
 - **[[Secondary control|Secondary control]]**, adjusting the self rather than the world buffers distress (Rothbaum et al., 1982)

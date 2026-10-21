@@ -37,6 +37,9 @@ A finished piece can still have faults. Decide which shortcomings prevent it fro
 
 - [The Tao Teh King, Legge translation (Project Gutenberg)](https://www.gutenberg.org/cache/epub/216/pg216.txt) — chapter 45
 
+## Stories
+- [[ST377 — Ziyu Looks at His Reflection in the Well|377. Ziyu Looks at His Reflection in the Well]]
+
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion]]**, self-kindness versus harsh self-judgment predicts resilience (Neff, 2003; MacBeth and Gumley, 2012)

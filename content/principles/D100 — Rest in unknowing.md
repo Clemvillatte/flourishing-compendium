@@ -41,6 +41,9 @@ Zhuangzi's butterfly leaves a question open:
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 71
 - [Zhuangzi ch. 2 (tr. James Legge), via Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi): the butterfly dream
 
+## Stories
+- [[ST378 — Wang Ni Says How Would I Know That Three Times|378. Wang Ni Says How Would I Know That Three Times]]
+
 ## Psychology parallels
 
 - **[[Intellectual humility|Intellectual humility]]**, associated with better decisions and relationships (Leary et al., 2017)

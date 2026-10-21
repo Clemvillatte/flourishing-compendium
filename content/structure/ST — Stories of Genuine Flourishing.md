@@ -65,6 +65,8 @@ legacy: {"volume": "Volume III — Stories of Genuine Flourishing", "book": "", 
     - [[ST366 — The Tortoise in the Mud and the Owl with the Rat]]
     - [[ST370 — The Blind Men and the Elephant]]
     - [[ST371 — A Banquet the Seabird Could Not Survive]]
+    - [[ST377 — Ziyu Looks at His Reflection in the Well]]
+    - [[ST378 — Wang Ni Says How Would I Know That Three Times]]
   - [[ST-S01.06 — I.6 Relationships, Speech, and Leadership]]
     - [[ST038 — Three Friends and the Creator]]
     - [[ST039 — The Ruler Whose People Say We Did It]]
