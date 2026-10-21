@@ -12,13 +12,13 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 13** — Make something of every season on earth
 
-The songs return constantly to the pairing of transience and making: flowers wither, friends leave, the earth is slippery, and precisely because of this, the tradition says, make the poem, the feast, the house, the song. Art is the tradition's answer to impermanence, not as consolation but as the appropriate act of a transient being. Practically, pair every honest meditation on loss with an act of making; the pairing is the tradition's own prescription.
+The songs return constantly to the pairing of transience and making: flowers wither, friends leave, the earth is slippery, and the songs answer this with the act of making — the poem, the feast, the house, the song. The practical reading carried here: pair every honest meditation on loss with an act of making.
 
-> "Not forever on earth, only a little while here. Though jade it may be, it breaks; though gold it may be, it is crushed; though it be quetzal feathers, it shall not last. Not forever on earth, only a little while here." — Nezahualcoyotl's elegy, Cantares Mexicanos, in León-Portilla's translation ([Flowers and Fire](https://www.islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
+> "NOT FOREVER ON EARTH, ONLY A LITTLE WHILE HERE. THOUGH JADE IT MAY BE, IT BREAKS; THOUGH GOLD IT MAY BE, IT IS CRUSHED; THOUGH IT BE QUETZAL PLUMES, IT SHALL NOT LAST. NOT FOREVER ON EARTH, ONLY A LITTLE WHILE HERE." — a song on the transience of life, in León-Portilla's translation ([Flower and Song](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
 
-(The Cantares Mexicanos, the flower-and-song poems; Nezahualcoyotl's songs.)
+(The Cantares Mexicanos, the flower-and-song poems; the tradition's pairing of beauty with ephemerality.)
 
-**Plain words** Everything you love is already leaving — that is the songs' blunt premise. The tradition's answer is not to pretend otherwise; it is to make the feast, the friendship, the verse anyway, while the materials are still here. The making is not denial of the ending; it is the reply to it. So the season you are standing in is not a draft of your life; it is the only copy you get to write on.
+**Plain words** The songs say the plain thing first: nothing here lasts, not jade, not gold, not feathers. Making something anyway is not a way to fix that; it is a way to spend the little while well. A poem does not stop the flowers drying, but it is one of the few things you can finish and hand to someone inside the short time, which is why the tradition treats art as the fitting act for a transient being rather than as a consolation.
 
 *For example:* The friend group that learned one of them is ill — and instead of (or along with) the casseroles, they make the book together: the photos, the letters, the one perfect evening. The making is the answer.
 ## Psychology parallels

@@ -12,15 +12,15 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 18** — Root the heart in the divine ground
 
-Yolteotl, "deified heart," is the tradition's term for the highest state of the artist and the sage: a heart so rooted in the sacred ground of things that its works flow from wholeness. The term is usually applied to the great poets and craftspersons, but the state it names is a general human possibility: work flowing from a settled interior rather than from anxiety or display. Practically, before your most important work, take one minute to settle the heart (breath, posture, dedication), and let the work come from the settled place.
+Yolteotl, "deified heart", is the term the tradition's account of the painter uses: the tlacuilo is described as needing to become a yoltéotl, one with "a heart rooted in God". The good painter "is wise, God is in his heart. He puts divinity into things; he converses with his own heart." The state is named of the great artists and sages, and the texts present it as their interior condition. A present-day application, stated as such: settling yourself before important work is one way of working from a steadier place than anxiety or display.
 
-> "The good painter is wise, God is in his heart. He puts divinity into things; he converses with his own heart." — the Toltec artist, in León-Portilla's translation ([Flowers and Fire](https://www.islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
+> "THE GOOD PAINTER IS WISE, GOD IS IN HIS HEART. HE PUTS DIVINITY INTO THINGS; HE CONVERSES WITH HIS OWN HEART." — the Toltec artist, in León-Portilla's translation ([Flower and Song](https://islandsofhistory.org/volume-3/flower-and-song-pre-columbian-literatures-of-mesoamerica/))
 
-(Yolteotl as presented in Leon-Portilla; the poet's heart in the songs.)
+(Yolteotl as presented in Leon-Portilla; the painter's heart in the songs.)
 
-**Plain words** Yolteotl literally means something like a deified heart — the settled interior the great artists were said to have. The idea is not mystical padding; it is about where work comes from. The anxious performer checks the audience every second and runs dry; the rooted one draws on a full well. You do not have to be a Toltec sage to use it: one minute of settling before the work changes what flows into it.
+**Plain words** Yolteotl is the Nahua term for a heart settled in what the songs call the divine ground; the painter's portrait makes it concrete — wisdom, God in the heart, works that put divinity into things. It is a description of where the tradition says good work comes from, not a technique. The application offered here is modest: take a minute before important work to settle (breath, posture, attention), and notice whether the work comes differently.
 
-*For example:* Two carpenters with the same skill — one works from anxiety, checking every joint against imagined judgment; one works from yolteotl, and you can feel the difference in the finished room before you can name it.
+*For example:* Two carpenters with the same skill — one works from anxiety, checking every joint against imagined judgment; one works from a settled place, and you can feel the difference in the finished room before you can name it.
 ## Psychology parallels
 
 - **State-before-performance effects**, the research on pre-performance routines and arousal regulation (the implementation and arousal-regulation literatures)
