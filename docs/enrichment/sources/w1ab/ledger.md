@@ -946,3 +946,13 @@
   halves, with the link stated as the page's reading. Related: Impermanence, Participate
   in the world's becoming, Pursue becoming, not arrival (navigational captions). Degree 1 —
   fast-track. Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
+
+## ITEM: Nutritional psychiatry (fast-track) — 2026-10-21, worker-pxy1u
+- Seed-source identification: 'Sarris et al., 2015' resolved to the ISNPR consensus position
+  statement 'nutritional medicine in modern psychiatry' (Sarris et al., World Psychiatry
+  14(3):370-1, PMC4592666, open access) — matched by author, year and topic. Full text
+  opened via PMC (the PubMed record carries no abstract) — four passages verified verbatim
+  (the modifiable-targets/fundamental-role sentence; the robust-associations passage; the
+  mainstream-practice conclusion; the sub-optimal-outcomes premise). Existing seed Related
+  [[BE042]], [[BI035]], [[BI038]] preserved with their captions. Degree 1 — fast-track.
+  Validation --fast-track --base d1ba9c8f: ok. Advisor QC not due (cadence).
