@@ -20,7 +20,7 @@ Practice this daily (5-10 minutes). The aim is to practise shifting into a compa
 
 This is a method-acting move, not a mood change. You're not trying to feel kind; you're practising *being* the kind of person whose default response is kindness.
 
-Adapted from Kolts, *CFT Made Simple*, New Harbinger, 2016 (attribution inherited from the seed; the book was not opened this session; verification of the retained instructions against the book is pending).
+Instructions verified against the opened [Gilbert (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) description of the same exercise; the Kolts, *CFT Made Simple*, New Harbinger, 2016 attribution is inherited from the seed (the book was not opened this session).
 
 ### Protocol
 
@@ -41,6 +41,10 @@ The underlying correlate is well mapped across 20 samples from 14 studies ([MacB
 > "We found a large effect size for the relationship between compassion and psychopathology of r=-0.54 (95% CI=-0.57 to -0.51; Z=-34.02; p<.0001)" — [MacBeth & Gumley (2012)](https://pubmed.ncbi.nlm.nih.gov/22796446/)
 
 That is an association, not evidence that this exercise raises compassion.
+
+The retained instructions themselves now rest on an opened carrier: the therapy's founder describes the same exercise in the 2009 introductory article ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)):
+
+> "The client imagines themselves as a highly compassionate person and explores their sense of age, facial expressions, body postures, voice tones and styles of thinking. Clients can be encouraged to practise each day at becoming 'the compassionate self', with the appropriate facial expressions, voice tones and ways of thinking." — [Gilbert (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)
 
 ### A guided version
 
@@ -71,6 +75,6 @@ The book's own author recorded one: Russell Kolts's [Compassionate Self Meditati
 
 ## Sources
 
-- Kolts (2016), *CFT Made Simple*, New Harbinger — attribution inherited from the seed; the book was not opened this session; the Insight Timer link above is a recording, not the book
+- [Gilbert (2009), "Introducing compassion-focused therapy", Advances in Psychiatric Treatment](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) — opened carrier for the retained instructions; Kolts (2016), *CFT Made Simple* attribution inherited from the seed, book not opened
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
 - [MacBeth & Gumley (2012), "Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology", Clinical Psychology Review, PubMed](https://pubmed.ncbi.nlm.nih.gov/22796446/)

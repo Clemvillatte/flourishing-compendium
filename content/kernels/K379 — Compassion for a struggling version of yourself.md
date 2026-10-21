@@ -44,7 +44,7 @@ The therapy family this exercise comes from targets high shame and self-criticis
 
 A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description:
 
-> "In this exercise, you'll be guided on practicing self-compassion, through a time you were struggling." — [Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/)
+> "In this exercise you'll be guided on practicing self-compassion, through a time you were struggling." — [Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/)
 
 ## Operationalises
 

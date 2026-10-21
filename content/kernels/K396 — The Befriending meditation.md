@@ -42,7 +42,7 @@ Separately, a meta-analysis examined manualized clinical MBCT for people with re
 
 The authors host a free recording on the book's own site: [The Befriending Meditation, franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/). Their description of when to reach for it:
 
-> "When life really begins to get you down…. When you feel angry, lost or alone… When you feel that you are your own worst enemy…" — [franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/)
+> "When life really begins to get you down…. When you feel angry, lost or alone… When you feel close to despair… When you feel that you are your own worst enemy… The Befriending Meditation is here for you." — [franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/)
 
 ## Operationalises
 
