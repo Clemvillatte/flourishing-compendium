@@ -7,13 +7,13 @@ file: "Memory reconsolidation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-retrieving a memory makes it labile; new information during the reconsolidation window can alter the memory (Nader et al., 2000; Schiller et al., 2010).
+reactivated memories can become labile; new information during the reconsolidation window can alter the memory (Nader et al., 2000; Schiller et al., 2010).
 
-The foundational finding came from a fear-learning paradigm. Nader, Schafe and Le Doux reported that consolidated fear memories, when reactivated during retrieval, return to a labile state in which a protein synthesis inhibitor infused into the lateral and basal nuclei of the amygdala shortly after reactivation produces amnesia on later tests. The same treatment without reactivation left memory intact, and delaying the infusion until six hours after reactivation produced no amnesia — the window is time-limited.
+Nader and colleagues reported that consolidated fear memories, when reactivated during retrieval, return to a labile state in which a protein synthesis inhibitor infused into the lateral and basal nuclei of the amygdala shortly after reactivation produces amnesia on later tests. The same treatment without reactivation left memory intact, and delaying the infusion until six hours after reactivation produced no amnesia — the window is time-limited.
 
 > "Here we show that consolidated fear memories, when reactivated during retrieval, return to a labile state in which infusion of anisomycin shortly after memory reactivation produces amnesia on later tests, regardless of whether reactivation was performed 1 or 14 days after conditioning." (Nader et al., 2000, Nature 406, 722–726, [abstract](https://pubmed.ncbi.nlm.nih.gov/10963596/))
 
-A later study translated the finding to humans with a non-invasive technique. Schiller and colleagues provide evidence that old fear memories can be updated with non-fearful information provided during the reconsolidation window, after which fear responses are no longer expressed — an effect that lasted at least a year and was selective to reactivated memories.
+Schiller and colleagues investigated the updating of human fear memories with a non-invasive technique. In that study, old fear memories were updated with non-fearful information provided during the reconsolidation window, after which fear responses were no longer expressed — an effect that lasted at least a year and was selective to reactivated memories.
 
 > "We provide evidence that old fear memories can be updated with non-fearful information provided during the reconsolidation window. As a consequence, fear responses are no longer expressed, an effect that lasted at least a year and was selective only to reactivated memories without affecting others." (Schiller et al., 2010, Nature 463, 49–53, [abstract](https://pubmed.ncbi.nlm.nih.gov/20010606/))
 
