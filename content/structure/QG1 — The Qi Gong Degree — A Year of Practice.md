@@ -234,6 +234,19 @@ The claims above are traditional framing; the research summary lives in [[K201 �
 - [ ] One live or feedback moment with a teacher (Module 11)
 - [ ] A written reflection at each module's end
 
+## Go further — find live practice
+
+| | Where | Why follow it |
+|---|---|---|
+| ![](https://www.google.com/s2/favicons?domain=www.qigonginstitute.org&sz=64) | [The Qigong Institute — teacher directory](https://www.qigonginstitute.org) | Nonprofit directory of classes and online teachers, plus a research library. The way to find a teacher near you. |
+| ![](https://www.google.com/s2/favicons?domain=taichiforhealthinstitute.org&sz=64) | [Tai Chi for Health Institute — class finder](https://taichiforhealthinstitute.org/find-a-tai-chi-class/) | Certified instructors, in person or online; a physician-led institute with CDC-recommended programs. |
+| ![](https://www.google.com/s2/favicons?domain=longwhitecloudqigong.com&sz=64) | [Long White Cloud Qigong — live classes](https://longwhitecloudqigong.com/) | Live online classes with a one-month free trial, from a network of 450+ instructors worldwide. |
+| ![](https://www.google.com/s2/favicons?domain=www.mimikuodeemer.com&sz=64) | [Mimi Kuo-Deemer — live classes](https://www.mimikuodeemer.com) | Pay-what-you-can live-streamed classes with replay access. |
+| ![](https://www.google.com/s2/favicons?domain=videos.yoqi.com&sz=64) | [YoQi — on-demand library](https://videos.yoqi.com) | Qigong-yoga hybrid classes on demand; free practices on their YouTube channel. |
+| ![](https://www.google.com/s2/favicons?domain=www.onlinetaichiworkshops.com&sz=64) | [Dr. Paul Lam — online lessons](https://www.onlinetaichiworkshops.com) | Complete Tai Chi for Health programs by subscription; DVDs also available. |
+| ![](https://www.google.com/s2/favicons?domain=www.learnqigong.com&sz=64) | [Learn Qigong — courses](https://www.learnqigong.com/videos/) | The small studio's full working curriculum beyond the free video library. |
+| ![](https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64) | [QiGong for Vitality — free library](https://www.youtube.com/@ThinkVitalityQiGong) | Jeffrey Chand's free follow-along library, sorted by theme, length, and fitness level. |
+
 ## Curation status
 
 This is a format prototype. The resource provenance was checked at the level of studios, institutes, and channels; individual sessions inside each library were not all inspected. The curation task for the next pass is to verify individual sessions and playlists within each library, so the module cards can link direct sessions rather than libraries.
