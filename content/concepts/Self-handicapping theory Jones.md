@@ -13,11 +13,11 @@ Self-handicapping theory is the account, introduced by Steven Berglas and Edward
 
 ### Origin
 
-Berglas and Jones demonstrated the strategy in 1978 with a study in which participants who had received success feedback on unsolvable problems were later offered a choice between two supposed drugs before further trials. The review describes that induction as tapping "the heart of the self-doubt that produces self-handicapping".
+Berglas and Jones demonstrated the strategy in a 1978 experiment in which participants received success feedback on a test of intelligence that, for some, was comprised of difficult and other unsolvable problems, and were then offered a choice between two supposed drugs before further trials. Their abstract states the finding: "Males in the noncontingent-success condition were alone in preferring the performance-inhibiting drug, presumably because they wished to externalize probable failure on the retest" ([Berglas & Jones 1978, author abstract, PMID 650387](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=650387&retmode=text&rettype=abstract)). The review adds that Berglas and Jones "did not measure self-doubt in their initial demonstration of self-handicapping but rather inferred its presence".
 
 ### Core claims
 
-The review follows the strategy to its costs. The commonest handicaps, drugs, alcohol and procrastination among them, interfere with performance itself, so "protecting one's plausible perception of competence carries with it the cost of not enjoying success". The strategy also feeds on itself: preoccupation with the attributional implications of failure outweighs the desire to succeed, and the handicap keeps ability from ever being tested. The review adds that the strategy "serves to perpetuate feelings of self-doubt", since self-handicappers eschew diagnostic information about their ability levels.
+The review follows the strategy to its costs. It gives drugs, alcohol and procrastination as examples of handicaps that clearly interfere with performance outcomes, so "protecting one's plausible perception of competence carries with it the cost of not enjoying success". The strategy also feeds on itself: preoccupation with the attributional implications of failure outweighs the desire to succeed, and the handicap keeps ability from ever being tested. The review adds that the strategy "serves to perpetuate feelings of self-doubt", since self-handicappers often eschew diagnostic information about their ability levels.
 
 ### In everyday life
 

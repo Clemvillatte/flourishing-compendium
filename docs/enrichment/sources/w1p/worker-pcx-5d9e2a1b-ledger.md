@@ -28,3 +28,15 @@ Verdict: REPAIRS REQUIRED on all four; repairs applied in the same pass (not rec
 - Baseline-aware validation of all four pages vs 30472d506 (pre-content commit): 4 checked, 0 failed.
 - Advisor correction recorded: theorist-suffix titles are NOT automatic Category C; namespace holds are not propagated to source-defined constructs. Self-doubt theory remains held (distinct case: seed attribution error + rename candidacy).
 - Process note: for subsequent items, start-state is pushed BEFORE editing the page (per advisor).
+
+## Milestone QC closing round (items 1-5, advisor, 2026-10-21 ~T+22Z)
+
+Round-2 verdicts applied: Self-forgiveness BODY PASS (scoped); Self-expansion / Self-handicapping / Self-regulated learning REPAIRS applied as directed:
+- Self-expansion: §2 locators added to both blockquotes; reference-list verification note moved from page to ledger; "What happens over time" heading added; everyday-life replaced with the advisor's labelled illustrative scenario (dance class).
+- Self-handicapping theory Jones: theorist-voice requirement satisfied via the Berglas & Jones 1978 author abstract (PMID 650387, NCBI efetch, verified verbatim; the males/noncontingent-success finding sentence quoted and labelled author abstract); study description corrected (test comprised of some difficult and other unsolvable problems; the review's inferred-not-measured limitation added); "commonest handicaps" replaced with the review's examples wording; "often eschew" restored.
+- Self-regulated learning: "learning system vs study tips" sentence replaced with the advisor's feedback-cycle wording under a "The feedback loop" heading; everyday-life replaced with the labelled student scenario; Emotion regulation and Meta-awareness glosses reduced to bare comparisons; Self-efficacy destination verified (content/concepts/Self-efficacy.md exists and the link resolves to it); the forethought-phase self-efficacy claim verified in the opened carrier text.
+- Self-forgiveness: Forgiveness gloss repaired ("parent construct" -> "the interpersonal construct").
+- Self-doubt theory: NAMESPACE HOLD REVERSED per the advisor's explicit correction ("theory" suffix + source-defined construct is not Category C): item re-marked done; audit entry rewritten as an ATTRIBUTION FLAG; state flag updated accordingly. Standing flag for the owner remains only the optional rename (Self-doubt theory -> Self-doubt) and the unestablished Torti/Buelow seed attribution.
+- Degrees recorded (fast-track eligibility, all < 15): Self-doubt theory 4 principle edges + 1 concept edge; Self-expansion ~6 edges (4 principles + 2 concepts); Self-forgiveness ~7 (3 concepts + 4 principles); Self-handicapping theory Jones ~6 (2 concepts + 4 principles); Self-regulated learning theory ~7 (3 concepts + 4 principles).
+- Baseline-aware validation of all five pages vs 30472d506: 5 checked, 0 failed.
+Milestone CLOSED: items 1-5 complete (all marked done; no holds).

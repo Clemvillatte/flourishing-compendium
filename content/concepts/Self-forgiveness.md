@@ -24,7 +24,7 @@ The definition adapts Michael McCullough's three motivations for interpersonal f
 ## Related concepts
 
 - [[PP042]] — the interpersonal-forgiveness principle; the definition adapts that literature's three motivations
-- [[Forgiveness]] — the interpersonal parent construct whose three motivations the definition adapts
+- [[Forgiveness]] — the interpersonal construct whose three motivations the definition adapts
 - [[REACH model of forgiveness]] — comparison: the intervention model built for interpersonal forgiveness
 - [[Guilt]] — the self-reproach emotion that follows doing wrong
 

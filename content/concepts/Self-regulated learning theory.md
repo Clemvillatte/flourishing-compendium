@@ -21,11 +21,13 @@ The theory gives the process a three-part loop.
 
 > "The forethought phase refers to processes and beliefs that occur before efforts to learn; the performance phase refers to processes that occur during behavioral implementation, and self-reflection refers to processes that occur after each learning effort." ([same article](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/zimmerman_2002.pdf), p. 67)
 
-The cycle is what makes it a learning system rather than a set of study tips: self-reflections from earlier efforts feed the next round of forethought, and learners who fail to set specific goals or self-monitor fall into reactive self-regulation instead. Zimmerman also frames the learner's stance in one line: learning is "an activity that students do for themselves in a proactive way rather than as a covert event that happens to them in reaction to teaching".
+### The feedback loop
+
+Zimmerman describes a feedback cycle: self-reflections from earlier efforts to learn affect subsequent forethought, and learners who fail to set specific goals or to self-monitor fall into reactive self-regulation instead. He also frames the learner's stance in one line: learning is "an activity that students do for themselves in a proactive way rather than as a covert event that happens to them in reaction to teaching".
 
 ### In everyday life
 
-The article's own contrast: novices "fail to set specific goals or to self-monitor systematically", attempting to self-regulate reactively, while self-regulated learners set proximal goals and check their methods against them.
+Illustrative scenario, not a reported study result: a student plans a practice session, checks errors while working, then uses those errors to choose the next session's exercises.
 
 ### In the compendium
 
@@ -44,9 +46,9 @@ Affect · Psychological science
 [[S011 — Recognise the three topoi — the three disciplines]]
 ## Related concepts
 
-- [[Emotion regulation]] — comparison: the sibling theory whose cycles Zimmerman's loop resembles
+- [[Emotion regulation]] — comparison
 - [[Self-efficacy]] — the belief construct Zimmerman places in the forethought phase
-- [[Meta-awareness]] — comparison: the monitoring capacity the performance phase draws on
+- [[Meta-awareness]] — comparison
 
 ## Sources
 
