@@ -98,3 +98,17 @@ Band: w1u (69 concepts, previously unclaimed). Item 1: Continuing bonds.
   - "a globalization of caring relations would help enable people of different states and cultures to live in peace, to respect each others' rights, to care together for their environments, and to improve the lives of their children" — IEP quoting Held (opened)
 - Nussbaum Frontiers of Justice remains in the seed gloss on R079 but was not opened this session; not asserted on the page.
 - Related-concept targets verified to exist: Care as practice (links back), Care ethics (OK).
+
+## Supervisor QC repair round 2026-10-22 07:20Z (worker-sup-1022c-w1u)
+- All 7 QC-pending items repaired per the prior advisor's specs, then a round-2 advisor pass produced 8 targeted fixes; all applied and pushed.
+- Sources opened this round (replacing Wikipedia/metadata carriers where the specs required):
+  - Johnson & Johnson 2014, Anales de Psicología 30(3) — um.es journal-site PDF (redalyc PDF 404s); definition, interdependence premise, 685-studies line, grouping caveat, five conditions, "five essential elements" closer all verbatim; "195 years" confirmed against rendered PDF p.3.
+  - Axelrod 1984 The Evolution of Cooperation — Monoskop open copy; Axelrod & Hamilton 1981 Science — author-hosted umich PDF; Axelrod 2011 "Launching" JTB — umich preprint. Tournament, TIT FOR TAT, nice-strategies, w/destined-never-to-meet-again, shadow of the future, no-conscious-choice material all verbatim from these.
+  - Held 2006 The Ethics of Care — open PDF copy (voidnetwork.gr): scaling-up argument and p.168 concluding sentence quoted directly; IEP carrier dropped (site bot-walled); Oxford Academic book abstract re-verified.
+  - Spelke & Kinzler 2007 "Core Knowledge" — Columbia-hosted open PDF (siegler.tc.columbia.edu): four-systems + tentative fifth system quotes verbatim.
+  - Haase et al. 2018 — tandfonline full text: moderator numbers verbatim (r=.53 self-report vs .25 other; DT .23 vs .41 other-than-DT).
+  - Miller 2010 abstract — tandfonline, re-verified.
+  - SEP "The Correspondence Theory of Truth" — live fetch via curl (fetch_url IP-blocked): "often traced back", Russell 1912 p.129, family-of-theories, metaphysical-realism material verbatim.
+  - deikman.com pages — live site bot-walled; all quotes re-verified against Wayback Machine archived copies of deautomat/experimental/implications (opened); 1966 conclusion paragraph added as grounded prose.
+- Round-2 advisor fixes applied: "most often"→"often traced back"; fifth-system quote capitalisation restored; always-defect condition restored to the source's zero-repeat wording; OpenAlex stray-parenthesis fragment paraphrased; two slogan-like contrastive closers removed; Berlin-paradigm ibid replaced with explicit Baltes & Staudinger citation.
+- All 7 w1u flags now QC RESOLVED (round 2 recorded in w1u.json).
