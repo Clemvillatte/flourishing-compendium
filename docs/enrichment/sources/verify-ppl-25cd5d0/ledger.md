@@ -571,3 +571,22 @@ cited Internet Archive text (Welldon 1892 translation):
 - VIII.4: the perfect-friendship passage present word-for-word (OCR hyphenation at line
   breaks only).
 No routed findings.
+
+## Round 24 (2026-10-22, performed ~12:27-12:28Z measured; raw-text method)
+
+### The power paradox (w1t, done)
+
+1 quoted passage checked, 1 PASS — the Keltner blockquote verified verbatim against an
+unprompted raw fetch of the cited HBR October 2016 page, and the page's supporting claims
+(two decades of research, the rude/selfish/unethical pattern, the warning-signal counter and
+the three ethics of good power: empathy, gratitude and generosity) are all directly present
+on the carrier. No routed findings.
+
+### The zone of proximal development (w1t, done)
+
+1 quoted passage checked, 1 PASS — the Vygotsky p. 86 definition verified verbatim inside
+the cited Chaiklin paper (UCSD LCHC .doc, full text fetched; the carrier's italics markers
+around the quote are formatting). The page's "collaboration today... independently tomorrow"
+paraphrase is also supported (the carrier quotes Vygotsky 1934/1987, p. 211: "what the child
+is able to do in collaboration today he will be able to do independently tomorrow"). No
+routed findings.
