@@ -26,6 +26,8 @@ The paradox is the reason the compendium pairs happiness with objects outside it
 - [[Desire]] — the impulse whose too-predominant form Sidgwick analyses
 - [[Dialectic]] — the argumentative structure the paradox takes in Methods of Ethics
 
+[[P120 — Make activities autotelic — worth doing for their own sake]]
+
 ## Sources
 
 - Sidgwick, H. The Methods of Ethics, 1907 (seventh) edition, Book I, Ch. IV, §2 and Book II, Ch. III, §2. Online text: [LAITS, University of Texas at Austin](https://www.laits.utexas.edu/poltheory/sidgwick/me/me.b01.c04.s02.html) — passages quoted verbatim; raw-text check done 2026-10-22. Site note: "This text was scanned in from the 1907 (seventh) edition published by Macmillan and Company, London."
