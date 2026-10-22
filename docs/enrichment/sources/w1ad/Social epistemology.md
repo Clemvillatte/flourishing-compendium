@@ -11,3 +11,5 @@
 
 - QC-record correction (advisor round 3): the earlier note "three extraction paraphrases caught" overstates — the opening definition and the Kitcher sentence were found VERBATIM in the raw text once Markdown emphasis and nested quotation marks were handled in the check (formatting-related substring misses, not wording changes). The genuine repairs were: the "is hard to overstate" prestige fragment (dropped as unneeded), the doctrinal-paradox sentence (rewritten to the entry's own wording), the conciliationism sentence (added from the entry), the testimony "paradigm case" gloss (removed, not the entry's phrasing), and the "less crowded research programs" gloss (replaced with the entry's own continuation sentence).
 - Round-3 edits: the "The seed names the field's two founding references" sentence deleted; the further-reading line's "named in the seed, not opened this session" clause deleted (ledger-only).
+
+- MILESTONE DISPOSITION (items 6-10, advisor round 3): scoped PASS. Item 7 closed. Citation-finish edits applied (conciliationism and doctrinal-paradox sentences now carry inline entry links).

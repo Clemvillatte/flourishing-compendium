@@ -8,3 +8,5 @@
 - QC disposition: validator ok vs seed baseline; advisor QC not due this item (next milestone at item 10).
 
 - Advisor milestone round 2 (items 6-10) repairs applied: "full statement" claims replaced with "presented"; the "Age matters only as a proxy" sentence rewritten to the theory's own perceived-time-vs-chronological-age distinction; the "motivation, not capacity" gloss removed (MO070 line rewritten to a verifiable internal relationship); the 25-vs-75-year-old generalization replaced with a theory-allowing hypothetical framed on the 2006 abstract's own contexts; "By 2006 Carstensen put it more strongly" removed. The 2021 Carstensen retrospective was NOT opened for the individual-development attribution; the origin claims rest on the two abstracts' author lines only.
+
+- MILESTONE DISPOSITION (items 6-10, advisor round 3): scoped PASS. Item 8 closed at the theory-page standard. Finish edits: opening publication-history sentence removed (duplication with Origin); Origin sentence carries the 1999/2006 abstract links; the everyday-life illustration cites both abstracts and stays labelled as an illustration.

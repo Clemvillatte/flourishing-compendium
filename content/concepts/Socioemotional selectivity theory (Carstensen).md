@@ -8,13 +8,13 @@ tags: ["psych/developmental", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-DEVELOPMENTAL"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Socioemotional selectivity theory is a life-span theory of motivation: what people want from their social lives depends on how much time they feel they have left. Carstensen, Isaacowitz and Charles presented the theory in their 1999 American Psychologist article, and Carstensen restated it in Science in 2006.
+Socioemotional selectivity theory is a life-span theory of motivation: what people want from their social lives depends on how much time they feel they have left.
 
 > "Socioemotional selectivity theory claims that the perception of time plays a fundamental role in the selection and pursuit of social goals." (Carstensen, Isaacowitz & Charles, [1999, abstract](https://pubmed.ncbi.nlm.nih.gov/10199217/))
 
 ### Origin
 
-Carstensen, Isaacowitz and Charles presented the theory in their 1999 American Psychologist article, and the 2006 Science piece restates it.
+Carstensen, Isaacowitz and Charles presented the theory in their [1999 American Psychologist article](https://pubmed.ncbi.nlm.nih.gov/10199217/), and the [2006 Science piece](https://pubmed.ncbi.nlm.nih.gov/16809530/) restates it.
 
 ### Core claims
 
@@ -30,7 +30,7 @@ The mechanism is motivational: "constraints on time horizons shift motivational 
 
 ### In everyday life
 
-The malleability claim is the practical part. Imagine someone preparing to leave a city: with only a few days remaining, they might choose time with close friends over an event offering new acquaintances. This illustrates the theory's limited-time prediction; it is not a reported study result.
+The malleability claim is the practical part. Imagine someone preparing to leave a city: with only a few days remaining, they might choose time with close friends over an event offering new acquaintances. This illustrates the theory's limited-time prediction ([1999](https://pubmed.ncbi.nlm.nih.gov/10199217/), [2006](https://pubmed.ncbi.nlm.nih.gov/16809530/) abstracts); it is not a reported study result.
 
 ### In the compendium
 
