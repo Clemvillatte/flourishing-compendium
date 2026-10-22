@@ -129,8 +129,17 @@ gaps`.
 - Shelf inventory (80 rows): Five-minute rescues 7, Ten-minute mornings 6, Ba Duan
   Jin 6, Shibashi 1, zhan zhuang 2, Animal forms 4, Yi Jin Jing 2, Liu Zi Jue 2,
   Daoyin 4, Five elements/seasonal 5, Evening/sleep 4, Calm under pressure 8,
-  Walking 4, Seated/chair 4, Full classes 3, Tai chi bridge 2, Breath 5.
-  (Parser matrix in section 6.3.)
+  Walking 4, Seated/chair 4, Full classes 13 (ten are 45min+), Tai chi bridge 3,
+  Breath 5. (Parser matrix in section 6.3.)
+
+### 4.2b PARSER BUG FIXES (2026-10-22, second commit)
+
+The first version of the parser had two bugs, found and fixed after the initial
+commit: (1) parse_length mis-parsed H:MM:SS durations (treated the seconds group
+as hours), and (2) the stderr matrix dropped/misaligned the 45+ column (it
+totaled 70 against 80 sessions). Both are fixed; the matrix in section 6.3 is
+the corrected output and its columns sum to 80. If you edit the parser, re-verify
+the matrix total equals the session count.
 
 ### 4.2 Parser script — COMPLETE, working
 
@@ -169,12 +178,18 @@ stdout, shelf x time matrix to stderr. Verified output: 80 sessions, correct fie
   prompts: KEEP/REJECT for calm nature/East Asian aesthetic; REJECT rules: diagrams,
   text-heavy plates, cluttered engravings, grotesque imagery, busy human scenes,
   stereographs).
-- **52 curated KEEP images** with full metadata (file, alt, detail-page link,
+- **51 curated KEEP images** with full metadata (file, alt, detail-page link,
   full-size URL, query, dimensions) are in `/home/user/workspace/qg_keeps_curated.json`
   AND committed at `docs/enrichment/sources/qg/keeps_curated.json`. The image files
   themselves are in `/home/user/workspace/qg_pd_cache/` (named `NNN.jpg` for harvest
-  1, `b_NNN.jpg` for harvest 2). One is borderline: `071.jpg` is 600x601 (below the
-  640px threshold) — either allow a 1.07x upscale or drop it and pick another.
+  1, `b_NNN.jpg` for harvest 2). CAVEAT: a misattributed borderline entry (071.jpg,
+  600x601, wrong source URL) was removed after review. IMPORTANT: some image-review
+  batches returned 19 judgments for 20 submitted files, so a few KEEP/REJECT
+  assignments may be shifted by one position. Before generating the manifest,
+  RE-VERIFY every keep you intend to ship using filename-labeled contact sheets
+  (e.g. a grid image with the filename printed on each cell) so the mapping cannot
+  drift — do not trust the JSON's alt/URL pairing blindly, and never ship an image
+  you have not personally seen and matched to its filename.
 - **59 more candidates** (harvest 3, unreviewed) with metadata are in
   `/home/user/workspace/qg_h3_valid.json` AND committed at
   `docs/enrichment/sources/qg/h3_valid.json`; files at `qg_pd_cache/c_NNN.jpg`.

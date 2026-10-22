@@ -26,3 +26,18 @@ mirrors the CMP ledger: UTC-timestamped entries recording what was verified and 
   harvests, dedupe + PIL validation + visual curation via image inspection;
   52 curated keeps recorded in keeps_curated.json, 59 unreviewed candidates in
   h3_valid.json. Full state and remaining steps in docs/enrichment/sources/qg/HANDOFF-QG-GALLERY.md.
+
+## 2026-10-22 (UTC) — parser bug fixes and keeps metadata repair
+
+- Found and fixed two bugs in scripts/qg_gallery_data.py: (1) parse_length treated
+  the seconds group of H:MM:SS lengths as hours (7 full-class rows affected);
+  (2) the stderr matrix dropped the 45+ column (matrix totaled 70 against 80
+  sessions). After the fix the matrix columns sum to 80 and the ten 45min+ full
+  classes appear correctly. Corrected matrix recorded in HANDOFF-QG-GALLERY.md 6.3.
+- Removed one misattributed entry from keeps_curated.json (071.jpg: 600x601,
+  below the 640px threshold, and it carried the wrong source URL after a
+  construction-script bug). 52 -> 51 curated keeps.
+- Handoff amended: corrected shelf inventory (Full classes 13, Tai chi bridge 3),
+  corrected matrix, and added a mandatory re-verification instruction for image
+  keeps via filename-labeled contact sheets (some review batches returned 19
+  judgments for 20 files, so ordinal mapping may be shifted).
