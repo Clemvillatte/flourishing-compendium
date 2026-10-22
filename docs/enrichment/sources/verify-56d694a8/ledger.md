@@ -403,3 +403,9 @@ Round 39: citation guidance recorded for the supervisor; no page changes.
 2. **Social dominance theory** — the Pratto Encyclopedia legitimizing-myths sentence VERIFIED via the opened Wiley entry (the carrier's "groupbased" is a PDF-extraction artifact; the page's hyphenated form is correct). Three ROUTED items: the two Sidanius & Pratto 1999 p. 45 passages ("divine rights of kings"; "said to deserve") were not located in the cited Lausanne paper, and the Sidanius & Pratto 2001 passage was not located in the cited Emerald article — both carriers are large documents where extraction misses are possible; the next verify worker should re-check with looser prompts before treating them as defects.
 
 Round 40: 1 page closed, 1 quote verified, 3 routed items.
+
+## Round 41
+
+1. **Mysterium tremendum** — CLOSED: the correct archive.org text file (2015.261848.The-Idea_djvu.txt, found via the item metadata API) was opened and both Otto passages VERIFIED verbatim: the "gentle tide" sentence (the carrier's "tran-quil" is a line-break hyphenation the page correctly resolves) and the "hushed, trembling, and speechless humility" sentence (lowercase "mystery" matches the carrier exactly). The earlier routed note is resolved; no defect. PASS (complete).
+
+Round 41: 1 page closed, 2 quoted passages verified against the primary carrier.
