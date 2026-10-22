@@ -17,7 +17,7 @@ Aristotle gives contemplation the highest place in Nicomachean Ethics X.7. His r
 > But in a secondary degree the life in accordance with the other kind of virtue is happy; for the activities in accordance with this befit our human estate.
 > (Nicomachean Ethics X.8, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html).)
 
-How this ranking fits the rest of the Ethics is disputed. Richard Kraut's interpretation is that the philosopher still needs ethical virtue and practical wisdom, although exercising them is not the philosopher's ultimate end. He also distinguishes theoria from ordinary inquiry: it exercises an understanding already achieved ([Stanford Encyclopedia of Philosophy, §10](https://plato.stanford.edu/entries/aristotle-ethics/)).
+How this ranking fits the rest of the Ethics is disputed. Richard Kraut's interpretation is that the philosopher still needs ethical virtue, although exercising it is not the philosopher's ultimate end. He also distinguishes theoria from ordinary inquiry: it exercises an understanding already achieved ([Stanford Encyclopedia of Philosophy, §10](https://plato.stanford.edu/entries/aristotle-ethics/)).
 
 Politics VII.3 complicates a simple contrast between thinking and doing by treating self-contained contemplation as activity, not merely inactivity ([Benjamin Jowett translation](https://classics.mit.edu/Aristotle/politics.7.seven.html)). It does not follow that every review of a practical decision is theoria.
 
@@ -27,7 +27,7 @@ You can value understanding for its own sake without treating responsibilities t
 
 ### For example
 
-Imagine revisiting a mathematical proof you understand simply because you value understanding it. That is different from calculating a household budget or reviewing a difficult conversation. A week can contain both kinds of activity without confusing their purposes.
+Imagine attending to a mathematical proof you already understand, without trying to solve a new problem or settle a doubt. This is a possible illustration of exercising understanding already attained. Calculating a household budget or reviewing a difficult conversation serves a different purpose.
 
 ## Sources
 

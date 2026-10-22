@@ -17,3 +17,9 @@ The mathematical-proof example is an imagined illustration of revisiting underst
 The protected principle statement's integration claim remains unchanged. Owner/supervisor should retain the caveat that Aristotle ranks the lives and that the proposed practical integration does not resolve the scholarly dispute.
 
 Read Theoria, Phronesis, Sophia and Eudaimonia locally. Theoria already reciprocates A091. Phronesis and Eudaimonia reciprocals are proposed; no concept page was edited. The inherited Dewey, Dogen, Kolb and Schon references are not certified here. Repaired the collapsed Dogen/Theoria list line without changing its existing wikilink.
+
+## Independent milestone QC and correction
+
+Advisor gpt_6_luna reviewed the complete draft against the exact Ross sentence, Politics passage and scholarly excerpt. Applied two cautions: narrow the Kraut attribution to ethical virtue instead of adding an unprovided practical-wisdom requirement; and make the proof example explicitly exercise understanding already attained, without new inquiry or doubt. The example remains a possible illustration, not a claim that a reader has attained Aristotle's ideal.
+
+The same five-item milestone returned scoped passes without corrections for A053, E007, A023 and A078. None of those passes certifies unprovided inherited parallels, concept destinations or protected reflections.
