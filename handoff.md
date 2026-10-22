@@ -1518,3 +1518,17 @@ stay local.
   supervisor): Readiness-matched intervention (Harvard PDF 403), Pre-theoretical
   experience (Merleau-Ponty PDF host unreachable), Plain-language comprehension research
   (Oppenheimer PDF host unreachable).
+
+## Supervisor session part 5 (worker-sup-6dc18459, 12:09-12:11 UTC)
+
+- All w1ac-verification routed findings now DISPOSITIONED: RFT (PMC opens via fetch,
+  attribution corrected to Hayes & Barnes-Holmes 2004, journal p. 215); Readiness-matched
+  intervention (Harvard sdlab PDF opens via fetch, quotes exact, "dp little" is a scan
+  artifact); Pre-theoretical experience (TML Landes excerpt opens via fetch; source em
+  dash restored verbatim); Plain-language comprehension (UNM Oppenheimer PDF opens via
+  fetch, quote exact); Pre-understanding (beyng.com p. 192 glosses [beruft], [V ormeinung],
+  ["gesetzt"] and em dash restored verbatim); Philosopher-king (rebutted — quote exact vs
+  1497-0.txt). METHOD NOTE posted for verify workers: a carrier that fails curl is not
+  necessarily dead — try the fetch tool before routing.
+- Stubs flagged for the next w1ac-class workers: RFT 95 words, Pre-theoretical experience
+  53, Pre-understanding 49, Reinterpretation of the past 60, Creative values 95.
