@@ -366,3 +366,12 @@ Round 34: 4 pages, 6 quoted passages verified, 1 defect repaired.
 4. **The four views** — all three Diamond Sutra renderings VERIFIED via the opened BL blog page, the nyx.net text, and the Sunnyvale translation PDF. PASS.
 
 Round 35: 4 pages, 8 quoted passages verified, no defects; 2 routed items on The ethical.
+
+## Round 36
+
+1. **The fury of the virtuous** — three of four passages VERIFIED: the slave-revolt passage via the opened Berkeley lecture text; the "option of being weak" and "right of attributing" passages via the opened Wikiquote (Kennedy). One ROUTED item: the "these birds of prey are evil" line (GM I §13) was not located in either cited carrier (Berkeley PDF; Wikiquote Kennedy) — likely an extraction miss on the Wikiquote page, which the next verify worker should re-check with the Kaufmann rendering. PARTIAL.
+2. **The illusion of certainty** — all three Kahneman passages VERIFIED verbatim via the opened Quotepark and Lib Quotes pages. PASS.
+3. **The illusion of knowledge** — the Boorstin Discoverers passage VERIFIED via the opened Wikiquote; the "first came to light in 2002" line VERIFIED via the opened BBC article. One ROUTED item: the "greatest enemy of knowledge" line is cited to the BBC article but was not located in it on fetch — possible extraction miss or a mis-attribution for the next verify worker. PARTIAL.
+4. **The interdependence of freedoms** — both opened-carrier passages (marxists.org ch02) VERIFIED verbatim. The "To will oneself free" blockquote's carrier was not re-opened this round — ROUTED for completeness. PARTIAL.
+
+Round 36: 4 pages, 7 quoted passages verified, no defects; 3 routed items.
