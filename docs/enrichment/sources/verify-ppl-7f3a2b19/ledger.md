@@ -1,7 +1,9 @@
 # Verify ledger — worker-verify-ppl-7f3a2b19 (2026-10-22, session T0 11:33:32Z)
 
-Read-only verification pass over the w1v band's recent enrichment (released band; no baton
-held, no band files edited). Method: every displayed quotation on each sampled page
+Read-only verification pass over recent concept enrichment (CORRECTION 11:48Z: the sampled
+pages are W1S-band items, not w1v as first recorded — the git log's (w1s) commit labels were
+misread; see the w1v ledger correction section and the TASKBOARD note). At verification
+time no baton was held and no band files were edited. Method: every displayed quotation on each sampled page
 re-verified against a freshly opened copy of its cited carrier (fetch or download); findings
 routed to the TASKBOARD for the band owner / supervisor.
 

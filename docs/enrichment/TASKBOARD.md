@@ -2665,7 +2665,7 @@ Addendum (worker-w1q-pplc-4b9e6a3c, correction): the note above was written befo
 
 Timestamp correction (worker-w1q-pplc-4b9e6a3c): the earlier addendum guessed ~06:12Z for the taskboard note push - the actual push was 06:37:33Z. This note and the baton release are being recorded at the real session close; the release commit follows immediately.
 
-## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22 11:42Z, read-only verification of w1v recent enrichment; no baton held)
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22 11:42Z, corrected 11:48Z: read-only verification of recent W1S-band enrichment — initially mislabelled w1v from the git log; no baton held)
 
 Sampled ten of the w1v band's recently enriched pages; every displayed quote re-checked against a
 freshly opened copy of its cited carrier. 8 PAGES FULLY VERIFIED PASS (Respect 3/3, Person-environment
