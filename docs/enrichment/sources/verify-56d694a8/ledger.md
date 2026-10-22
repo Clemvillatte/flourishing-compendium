@@ -147,3 +147,12 @@ Round 11: 4 pages, 7 quoted passages verified, no defects.
 4. **Zuowang (sitting in forgetfulness)** — the Zhuangzi ch. 6 Legge passage VERIFIED verbatim against the opened ETH Zurich Legge PDF. PASS.
 
 Round 12: 4 pages, 6 quoted passages verified, 1 routed note.
+
+## Round 13 — morning sample continued
+
+1. **The polis** — both Aristotle Politics I.2 1253a passages VERIFIED verbatim via the opened Perseus text. PASS.
+2. **The walking philosopher** — SEP Peripatetics sentence VERIFIED verbatim. PASS.
+3. **The wider self** — Naess narrow-ego passage VERIFIED verbatim via the opened scispace PDF. PASS.
+4. **The taxonomy of desires** — both Epicurus Letter to Menoeceus §127 quotes VERIFIED verbatim via the opened EpicureanFriends text. PASS.
+
+Round 13: 4 pages, 6 quoted passages verified, no defects.
