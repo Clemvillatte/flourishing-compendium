@@ -208,3 +208,17 @@ Decisions:
 - Diener and Seligman 2002 citation carried from the seed; not independently opened this session.
 - Related concepts: Humanity, The free person loves all (both existing).
 - No reciprocal proposals (fast-track bar).
+
+### Better-than-average effect / illusory superiority (fast-track, deg 3)
+
+Sources opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6529486/ — PMC review "The hazards of perception". 70-90% Svenson 1981 summary sentence fetched verbatim.
+- https://pubmed.ncbi.nlm.nih.gov/3730094/ — McCormick et al. 1986 confirmation. Full abstract retrieved via search_web.
+- Multiple PMC reviews (PMC3835346, PMC10871514) carrying Svenson 1981 driving-study description, retrieved via the same search.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; CO038/SE018 Cited-in wikilinks preserved.
+- Error caught and fixed: Svenson 1981 DOI lookup initially used PMID 9805525 which is a different paper (1998 New Zealand); the primary record is not on PubMed; citation now carries no fabricated URL, only the opened reviews.
+- Related concepts: Humility (existing original).
+- No reciprocal proposals (fast-track bar).
