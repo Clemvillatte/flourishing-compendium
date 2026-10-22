@@ -346,3 +346,22 @@ Round 12 totals: 2 pages PASS, 1 routed. FINAL CUMULATIVE w1ac sample: 40 pages 
 Session verification total (all bands): 50 pages sampled across w1s-recent (10), w1ac (40);
 44 PASS or better, 6 defects+1 attribution repaired, 7 findings routed, 1 confabulated
 finding withdrawn. This closes the session's verification work.
+
+## Round 13 — w1s live-band pages, READ-ONLY (2026-10-22, executed ~12:06-12:08Z per clock
+proximity; no edits made to live-band pages, findings would have been routed)
+
+- DESPAIR — PASS 1/1: the Kierkegaard Sickness Unto Death passage verbatim vs the cited
+  sorenkierkegaard.org page (opened).
+- DIALOGICAL PHILOSOPHY — PASS 1/1: the Buber I and Thou opening passage (Smith trans.)
+  verbatim vs the cited bopsecrets.org page (opened; "I-Thou ." spacing in extraction is a
+  markup-stripping artifact).
+- DEVIL'S ADVOCATE — PASS 1/1: the Britannica definition verbatim vs the cited page
+  (opened via fetch).
+- DESIRABLE DIFFICULTIES — PASS 1/1: the Bjork and Bjork 2011 sentence verbatim vs the
+  cited UCLA lab PDF (freshly downloaded and opened).
+
+Round 13 totals: 4/4 PASS, no findings. SESSION VERIFICATION TOTALS (final): 54 pages
+sampled (50 released-band + 4 live-band read-only); 48 PASS or better; 6 defects + 1
+translator attribution repaired (all under baton claims, all validated and pushed);
+7 findings routed to owners/supervisor; 1 confabulated finding withdrawn with evidence;
+2 process errors (timestamps, cross-band edit) corrected in the record.
