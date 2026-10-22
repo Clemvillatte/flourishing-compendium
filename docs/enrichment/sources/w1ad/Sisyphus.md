@@ -1,0 +1,8 @@
+# w1ad evidence: Sisyphus
+
+- Item: Sisyphus (w1ad manifest, fast-track bar, degree 7 at start).
+- Carrier opened this session: Camus, The Myth of Sisyphus and Other Essays, trans. Justin O'Brien (1955), full text at Internet Archive https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt (downloaded raw; final chapter grepped; the OCR has mechanical artifacts, e.g. "thi nk s" for "thinks", "es-sential" for "essential"; all quoted passages read clean in context).
+- Quotations: all verified against the opened carrier: the "Sisyphus, proletarian of the gods" passage (block, verbatim incl. "There is no fate that cannot be surmounted by scorn"); "works every day in his life at the same tasks, and this fate is no less absurd. But it is tragic only at the rare moments when it becomes conscious" (opening paragraph); "That hour like a breathing-space which returns as surely as his suffering, that is the hour of consciousness"; "His fate belongs to him. His rock is his thing."; the closing two sentences (block). Quoted fragments embedded mid-sentence keep the source's capitalization (K207/K244 precedent).
+- Consistency: E057 quotes the same passages from the same translation; the page's compendium line matches E057's own reading ("the task does not become light, but it becomes yours").
+- Scope: final chapter only, per the fast-track bar; no claim about the essay's earlier chapters beyond what the opening paragraph states.
+- QC disposition: validator ok vs seed baseline 7b2d6ca; advisor QC not due this item (milestone QC due at item 5).
