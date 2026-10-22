@@ -288,3 +288,12 @@ Round 25: 4 pages, 7 quoted passages verified, no defects.
 4. **Outcome forecasting** — both Wilson & Gilbert 2003 passages VERIFIED verbatim via the opened PDF. PASS.
 
 Round 26: 4 pages, 9 quoted passages verified, no defects.
+
+## Round 27
+
+1. **Perceptual learning** — the Goldstone 1998 definition VERIFIED verbatim via the opened PDF (p. 586). PASS.
+2. **Personal engagement** — the Kahn 1990 definition (with "preferred self") VERIFIED verbatim via the opened archive.org PDF. PASS.
+3. **Placebo effects** — both Kaptchuk et al. 2008 passages (objective; conclusions) VERIFIED verbatim via the opened Harvard DASH PDF. PASS.
+4. **Pratyahara** — both Johnston Yoga Sutras renderings (II.54; II.55) VERIFIED verbatim against the opened Gutenberg 2526 text (line-wrapped; wording identical). PASS.
+
+Round 27: 4 pages, 7 quoted passages verified, no defects.
