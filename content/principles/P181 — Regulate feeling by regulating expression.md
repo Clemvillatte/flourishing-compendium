@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 James's most-quoted paragraph on emotion is not a metaphor: "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not" ([James, "The Gospel of Relaxation", 1899, Gutenberg](https://www.gutenberg.org/files/7442/7442-h/7442-h.htm)). The whole argument turns on one word — indirect. You cannot command a feeling to change; feelings do not take instruction. You can, on most days, command a posture, a sentence, a hand extended.
 
-The practical consequence is that "act confident" is not a cliché; it is the correct direction of causality for the parts you control. The feeling is not manufactured by pretending; it is caught by the action, the way a slow walk makes the walk actually slow.
+The practical consequence is that "act confident" is not a cliché; it is the correct direction of causality for the parts you control. The feeling is caught by the action, the way a slow walk makes the walk actually slow.
 
 > "Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not." (William James, "The Gospel of Relaxation", 1899, [Gutenberg](https://www.gutenberg.org/files/7442/7442-h/7442-h.htm))
 

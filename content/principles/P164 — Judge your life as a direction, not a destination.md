@@ -19,7 +19,7 @@ Rogers's proposed definition:
 The sentence does audit work. If the good life is a state, the audit question is "have I arrived?", and every bad month reads as evidence of exile. If it is a direction, the audit question is "am I moving?", and the same bad month can read as transit. The measurement tradition has a related structure. Ryff's dimensions of psychological well-being also include "Purpose in Life (a sense of meaning, goals, and directions in life), and Personal Growth (experiencing personal growth and development)" ([van Dierendonck 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/aphw.12398)): two of the six are direction words. The compendium's account is [[Eudaimonic well-being]].
 
 **Plain words**
-Two questions you can ask about your life: "have I arrived?" and "am I moving?" They sort the same facts differently. Arrived-questions make a rough year a verdict; moving-questions make it weather on a road. Rogers's rule says take the second question seriously, because the good life is not a place you get to keep; it is a way you get to keep going.
+Two questions you can ask about your life: "have I arrived?" and "am I moving?" They sort the same facts differently. Arrived-questions make a rough year a verdict; moving-questions make it weather on a road. Rogers's rule says take the second question seriously, because the good life is a way you get to keep going, more than a place you get to keep.
 
 *For example:* The two people at the same low point: one stalled, one moving — the direction question sorts them in a way the snapshot never could. Am I moving? That's the only audit that matters.
 

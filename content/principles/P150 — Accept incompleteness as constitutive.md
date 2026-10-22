@@ -18,7 +18,7 @@ Dewey's version of the point is moral: growth is something a person is doing, an
 
 > Since growth is the characteristic of life, education is all one with growing; it has no end beyond itself. ([Dewey, Democracy and Education, 1916, ch. 4, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-**Plain words** A draft is not a failed final version; it is the only version that can actually be worked on. The finished thing cannot be revised, which is why nothing interesting is ever finished. You, right now, are a process that has not yet ended, and the not-yet-ended part is what gives you something to do tomorrow. Waiting until you have it together is not caution; it is a misunderstanding of what kind of thing you are.
+**Plain words** A draft is not a failed final version; it is the only version that can actually be worked on. The finished thing cannot be revised, which is why nothing interesting is ever finished. You, right now, are a process that has not yet ended, and the not-yet-ended part is what gives you something to do tomorrow. Waiting until you have it together misunderstands what kind of thing you are.
 
 *For example:* In an imagined case, two people are both hesitant to start dating. One is waiting until their career, body and living situation are sorted. The other starts now, visibly unfinished, and meets someone who is also visibly unfinished. Three years later the first person's conditions have improved but the waiting has not stopped, because the conditions were never the actual barrier. The second one is in a relationship with a real person.
 

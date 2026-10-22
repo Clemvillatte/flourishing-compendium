@@ -18,7 +18,7 @@ Rogers takes the same point and gives it a name that carries the principle in it
 
 > "The good life is a process, not a state of being. It is a direction, not a destination." (Carl Rogers, On Becoming a Person, 1961, ch. 9, p. 186, [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf))
 
-**Plain words** Two people can be equally skilled and equally successful and still be doing two different things. One is defending a version of themselves they have already decided on; the other is still asking what they are capable of next. The difference is not ambition; it is tense. The moment you stop becoming and start having-become, the thing you are defending is a snapshot. Rogers's title is the instruction: the book is called On Becoming a Person, not On Having Become One.
+**Plain words** Two people can be equally skilled and equally successful and still be doing two different things. One is defending a version of themselves they have already decided on; the other is still asking what they are capable of next. The difference is tense, and ambition has nothing to do with it. The moment you stop becoming and start having-become, the thing you are defending is a snapshot. Rogers's title is the instruction: the book is called On Becoming a Person, not On Having Become One.
 
 *For example:* An artist who says "I have found my style" has just drawn the boundary of what they will next try. The artist who says "I am onto something" has not. Same talent, same track record, different tense — and a decade later only one of them is still interesting to themselves.
 

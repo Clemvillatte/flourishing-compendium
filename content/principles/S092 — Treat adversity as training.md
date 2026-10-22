@@ -20,7 +20,7 @@ The benefit is conditional, as the continuation of Epictetus's passage makes pla
 
 (Disc., "How we should struggle with circumstances"; Med., Gutenberg 2680.)
 
-**Plain words** A gym with no weights builds nothing. The hard thing in front of you is the weight: it looks like it is blocking your training, but it can be your training — if you use it the way an athlete uses the antagonist. The Stoic move is not pretending it does not hurt; it is asking what skill this repetition is for.
+**Plain words** A gym with no weights builds nothing. The hard thing in front of you is the weight: it looks like it is blocking your training, but it can be your training — if you use it the way an athlete uses the antagonist. The Stoic move is to ask what skill this repetition is for, hurt included.
 
 *For example:* A failed launch becomes the occasion to practise honesty with your team and customers.
 

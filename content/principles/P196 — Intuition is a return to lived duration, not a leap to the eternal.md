@@ -18,7 +18,7 @@ Bergson's intuition is a return to lived duration: the felt continuity of inner 
 
 Of the inner life he writes: "Whilst I was experiencing them they were so solidly organized, so profoundly animated with a common life, that I could not have said where any one of them finished or where another commenced. In reality no one of them begins or ends, but all extend into each other." (p. 11) Analysis, by contrast, is "the operation which reduces the object to elements already known, that is, to elements common both to it and other objects" (p. 7), while "intuition, if intuition is possible, is a simple act" (p. 8).
 
-This is a methodological claim, not a clinical prescription. Bergson is not rejecting intelligence; he is correcting a specific imbalance.
+This is a methodological claim, not a clinical prescription. Bergson is correcting a specific imbalance and keeps intelligence.
 
 **Plain words**
 A bounded exercise, offered as this page's application rather than a report of Bergson's method in action: for a minute or two, attend to a mood as it changes without naming what it is or why it is there. Attending to the change is the exercise; nothing here certifies that the exercise delivers intuition in Bergson's sense.

@@ -24,7 +24,7 @@ Flexibility is not agreeing with everything or changing with every wind. It is k
 
 ### For example
 
-Take someone who meditates, hates sitting still, and quits. The flexible move is not forcing the sitting; it is naming what was wanted, calm and attention, and trying a different vehicle for it while keeping the value. The example is illustrative; the sources do not promise the second attempt works.
+Take someone who meditates, hates sitting still, and quits. The flexible move is naming what was wanted, calm and attention, and trying a different vehicle for it while keeping the value. The example is illustrative; the sources do not promise the second attempt works.
 
 ## Psychology parallels
 

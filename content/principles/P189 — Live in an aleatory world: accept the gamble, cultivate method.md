@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 189** — Live in an aleatory world: accept the gamble, cultivate method
 
-Dewey's word for the world we actually live in is aleatory — dice-shaped, ruled by chance. "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble" ([Dewey 1925, Experience and Nature](https://archive.org/details/experiencenature00dewe)). The world is a scene of risk, its dangers irregular, inconstant, not to be counted upon. This is not a complaint; it is a description of the conditions, and the first move is to accept that description rather than fight it.
+Dewey's word for the world we actually live in is aleatory — dice-shaped, ruled by chance. "Man finds himself living in an aleatory world; his existence involves, to put it baldly, a gamble" ([Dewey 1925, Experience and Nature](https://archive.org/details/experiencenature00dewe)). The world is a scene of risk, its dangers irregular, inconstant, not to be counted upon. This is a description of the conditions, and the first move is to accept that description rather than fight it.
 
 The second move is the one that separates Dewey from fatalism: once the gamble is accepted, intelligence goes to work. Dewey explicitly endorses insurance, regulation and acknowledgment as intelligent responses — not advice to reject risk management, but to build methods that manage risk without pretending to eliminate it. Inquiry, planning, mutual aid: these are the moves you make with the dice already rolling.
 

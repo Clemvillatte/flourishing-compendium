@@ -23,7 +23,7 @@ The correction is not lawlessness: the equitable is "a correction of law where i
 The compendium's rule follows: meet the situation first, consult the rulebook second. The rule is a compressed record of how situations usually go, and the situation in front of you is the only place to check whether this is one of them.
 
 **Plain words**
-A rule is a summary of past situations, not a substitute for looking at this one. When a rule and a real case collide, the rule is not automatically wrong; it is silent where the case is unusual, and Aristotle's equity names exactly that gap. The compendium's exercise: for one decision currently being made by rule, write down what the actual situation would say if asked directly.
+A rule is a summary of past situations, not a substitute for looking at this one. When a rule and a real case collide, the rule is silent where the case is unusual, and Aristotle's equity names exactly that gap. The compendium's exercise: for one decision currently being made by rule, write down what the actual situation would say if asked directly.
 
 *For example:*
 As a compendium analogy, consider a no-exceptions rule against lying, and the case of hiding someone from people who mean them harm. Aristotle's test asks what the rule's legislator would have put into the rule knowing this case; the correction follows what the rule was for, not what it literally says.
