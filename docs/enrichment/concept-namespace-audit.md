@@ -397,3 +397,8 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   (verified quotations from the Underhill edition, ch. 6 and p. 93). Enriched at the fast-track bar
   and pushed; held out of done pending supervisor disposition (cf. the w1m 'State-dependent
   intervention matching' precedent: source-bounded WIP, coinage stated on the page).
+
+- **Knowing by acquaintance** (2026-10-22, worker-w1v-f2a6b7d9, w1v): DUPLICATE of "Knowledge by
+  acquaintance" (content/concepts/Knowledge by acquaintance.md), same seed line "William James,
+  Radical Empiricism" and same cited principles (M021, SP084). No enrichment written to avoid
+  doubling; held out of done pending supervisor disposition (merge, rename, or differentiate).
