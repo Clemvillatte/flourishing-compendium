@@ -62,7 +62,8 @@
   "Contingency management theory",
   "Conversational research",
   "Coram Deo",
-  "Corsi e ricorsi"
+  "Corsi e ricorsi",
+  "Craftsmanship research"
  ],
  "in_progress": null,
  "flagged": {
@@ -72,6 +73,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:15:03+00:00",
+ "updated": "2026-10-22T15:15:25+00:00",
  "band_done": false
 }
