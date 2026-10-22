@@ -1632,3 +1632,18 @@ stay local.
 - Credential note for the owner: the PAT is used from the git remote URL per the
   project's api_push.py design; it was echoed once in a shell command at clone time
   — rotate the token at session end as planned.
+
+## Session checkpoint 3 — final (supervisor-pplc-bb0dbf40, 2026-10-22 ~16:15 UTC)
+- Verification campaign final tally: 35 quote-fidelity samples (live bands w1y/w1t/w1u/
+  k1a, the full f08a97cb0..HEAD concept window, and random finished-band draws from
+  w1a/w1b/w1e/w1h/w1l plus p1b) — ALL PASS. One minor repair (Availability:
+  disponibilité accent). One note for a future pass (B022: add the archived ATI
+  carrier URL; the current dhammatalks rendering differs from the quoted ATI
+  rendering). No hallucinated quotes found in any sample.
+- Open items for the next session: (1) the PBT book needs a direct open (Scribd
+  carrier removed; EEMM-quote addition on Context sensitivity is PENDING); (2) E018
+  mapping on The invisible hand awaits owner authorization to remove (false citation
+  claim, link retained per protocol); (3) w1ba/w1e/w1f/w1v done-lists may optionally
+  be updated to post-rename titles; (4) the QC-log fast-track correction stands.
+- Batons: supervisor held by this session until the deadline; w1x/w1a/w1ba worker
+  batons taken and released during the session.
