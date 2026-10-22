@@ -9,9 +9,35 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The enlightenment” — Kant, "What Is Enlightenment?".
 
+### What it is
+
+Kant's 1784 answer to a Berlin journal's question defines enlightenment as a personal escape rather than an era: "Enlightenment is man's release from his self-incurred tutelage. Tutelage is man's inability to make use of his understanding without direction from another. Self-incurred is this tutelage when its cause lies not in lack of reason but in lack of resolution and courage to use it without direction from another. Sapere aude! [Dare to know!] 'Have courage to use your own reason!' - that is the motto of enlightenment" (Kant, "What is Enlightenment?", 1784, trans. Beck, [GHDI](https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3589)).
+
+### Where it comes from
+
+The essay appeared in the Berlinische Monatsschrift in December 1784. Kant's diagnosis of the obstacle is deliberately unflattering: "Laziness and cowardice are the reasons why so great a portion of mankind, after nature has long since discharged them from external direction... nevertheless remains under lifelong tutelage, and why it is so easy for others to set themselves up as their guardians" (Kant, "What is Enlightenment?", 1784, trans. Beck, [GHDI](https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3589)). The comfort is real: "If I have a book which understands for me, a pastor who has a conscience for me, a physician who decides my diet, and so forth, I need not trouble myself" (Kant, "What is Enlightenment?", 1784, trans. Beck, [GHDI](https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3589)).
+
+### Core claims
+
+The guardians keep the cattle tame by frightening them: "After the guardians have first made their domestic cattle dumb and have made sure that these placid creatures will not dare take a single step without the harness of the cart to which they are tethered, the guardians then show them the danger which threatens if they try to go alone" (Kant, "What is Enlightenment?", 1784, trans. Beck, [GHDI](https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3589)).
+
+The remedy is a specific freedom, not freedom in general: "The public use of one's reason must always be free, and it alone can bring about enlightenment among men. The private use of reason, on the other hand, may often be very narrowly restricted without particularly hindering the progress of enlightenment" (Kant, "What is Enlightenment?", 1784, trans. Beck, [GHDI](https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3589)). The citizen obeys in his post; as a scholar he argues before the reading public.
+
+### How it explains the Buddhist parallel
+
+B195 tells the practitioner to be a lamp unto himself, the Buddha's dying instruction. Kant's essay is the European echo with the obstacle named: the failure is not intelligence but resolve, and the guardians are often welcome. The compendium's reading joins them at the diagnosis: borrowing a lamp is comfortable, and the practice of enlightenment is the daily, initially wobbly act of walking without the harness.
+
+### An everyday example
+
+A woman has always let her partner handle the household finances. She knows enough to follow along, and says so. The step she has not taken is opening the accounts herself, on the grounds that she might get it wrong; the guardians in Kant's story, including the ones installed in her own head, call that reason enough.
+
+### Related concepts
+
+- [[B195 — Be a lamp unto yourself]]
+
 ## Sources
 
-- Kant, "What Is Enlightenment?"
+- Immanuel Kant, "What is Enlightenment?" (1784), trans. Lewis White Beck, in German History in Documents and Images: https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi:document-3589
 
 ## Cited in philosophy parallels
 
