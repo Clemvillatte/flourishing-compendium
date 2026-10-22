@@ -389,3 +389,16 @@ Decisions:
 - Related concepts: Alterity, The primacy of the ethical (both existing originals per neighbors).
 - Buber I and Thou book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Conflict spirals (fast-track, deg 4)
+
+Sources opened (fetch_url, fresh):
+- https://pubmed.ncbi.nlm.nih.gov/4020618/ — Levenson & Gottman 1983 JCCP 51(4):543-552. Full abstract retrieved via search_web (PubMed direct fetch blocked by robots).
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC1828692/ — Heyman et al. 2006 Journal of Family Psychology. Replication-failure abstract fetched verbatim.
+
+Decisions:
+- Fast-track eligibility: deg 4 < 15 confirmed.
+- Front-matter preserved; SP066 original wikilink preserved in Related; B162/SP030 Cited-in wikilinks preserved.
+- Replication problem honestly carried (the Heyman 2006 failure-to-replicate).
+- Related concepts: The pontifex, bridge-maker (existing original).
+- No reciprocal proposals (fast-track bar).
