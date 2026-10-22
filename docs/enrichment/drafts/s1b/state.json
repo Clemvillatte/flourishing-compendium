@@ -535,15 +535,20 @@
    ]
   },
   "s1b-024": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Compass: ongoing direction and finishable goal; primary-author/public-institution source search",
    "history": [
     {
      "t": "2026-10-22T15:39:54+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:44:51+00:00",
+     "to": "qc_pending",
+     "note": "VA compass narrative and ongoing goals distinction directly read; original Zettle version not claimed"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:42:49+00:00"
+ "updated": "2026-10-22T15:44:51+00:00"
 }
