@@ -31,9 +31,10 @@
   "Endowment effect",
   "Enemy-love",
   "Engagement",
-  "Eros"
+  "Eros",
+  "Error management theory"
  ],
- "in_progress": "Error management theory",
+ "in_progress": null,
  "flagged": {
   "Cooperative game research": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; always-defect condition restored to the source's zero-repeat wording (destined never to meet again); sentence-initial capitals preserved in quotations; contrastive closer removed",
   "Cooperative learning": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; the '195 years' figure confirmed against the rendered um.es PDF page 3 (printed wording, not an extraction error)",
@@ -45,5 +46,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T12:15:09+00:00"
+ "updated": "2026-10-22T12:15:50+00:00"
 }
