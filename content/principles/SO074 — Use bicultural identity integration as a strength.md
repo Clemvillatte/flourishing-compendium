@@ -22,7 +22,7 @@ The Benet-Martínez paper reports three studies testing whether perceived compat
 
 ## Psychology parallels
 
-- [[Benet-Martínez et al|Benet-Martínez et al.]] (2002) on bicultural identity integration; Benet-Martínez and Haritatos (2005) on BII and well-being; cultural frame-switching (Hong et al., 2000); the biculturalism-and-creativity literature (Saad et al., 2013); the bicultural stress literature (Sirin et al., 2013).
+- Benet-Martínez et al. (2002) on [[Bicultural identity integration|bicultural identity integration]]; Benet-Martínez and Haritatos (2005) on BII and well-being; cultural frame-switching (Hong et al., 2000); the biculturalism-and-creativity literature (Saad et al., 2013); the bicultural stress literature (Sirin et al., 2013).
 
 ## Philosophy parallels
 

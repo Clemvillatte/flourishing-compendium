@@ -33,7 +33,7 @@ Ridgeway (2011), Connell (2002) and Butler (1990), named in this entry, were not
 
 ## Psychology parallels
 
-- [[Ridgeway|Ridgeway]] (2011) on gender as a system of social relations; Connell (2002) on gender; the gender-and-health literature (Bird and Rieker, 2008); gender norms and well-being (Heilman et al., 2017); the role-congruence literature (Eagly and Karau, 2002).
+- Ridgeway (2011) on [[Social construction of gender|gender as a system of social relations]]; Connell (2002) on gender; the gender-and-health literature (Bird and Rieker, 2008); gender norms and well-being (Heilman et al., 2017); the role-congruence literature (Eagly and Karau, 2002).
 
 ## Philosophy parallels
 

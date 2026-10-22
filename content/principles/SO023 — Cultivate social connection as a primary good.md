@@ -31,7 +31,7 @@ Choose a relationship you want to maintain and identify a regular opportunity to
 
 ## Psychology parallels
 
-- [[Holt-Lunstad et al|Holt-Lunstad et al.]] (2010, 2017) on social relationships and mortality; House et al. (1988) on social relationships and health; Uchino (2006) on social support and physiology; Hawkley and Cacioppo (2010) on loneliness; the "loneliness epidemic" literature (Holt-Lunstad, 2017).
+- Holt-Lunstad et al. (2010, 2017) on social relationships and mortality; House et al. (1988) on social relationships and health; Uchino (2006) on social support and physiology; Hawkley and Cacioppo (2010) on loneliness; the "loneliness epidemic" literature (Holt-Lunstad, 2017).
 
 ## Philosophy parallels
 

@@ -31,7 +31,7 @@ A grandmother never talked about the war, and her grandchildren grow up wary wit
 
 ## Psychology parallels
 
-- [[Whitbeck et al|Whitbeck et al.]] (2004) on historical trauma; Gone (2011) on Indigenous healing; Yehuda et al. (2015, 2016) on intergenerational trauma and epigenetics; the critique of the epigenetic literature (Heard et al., 2018); the family-transmission literature (Solomon et al., 2014).
+- Whitbeck et al. (2004) on [[Historical trauma|historical trauma]]; Gone (2011) on Indigenous healing; Yehuda et al. (2015, 2016) on intergenerational trauma and epigenetics; the critique of the epigenetic literature (Heard et al., 2018); the family-transmission literature (Solomon et al., 2014).
 
 ## Philosophy parallels
 

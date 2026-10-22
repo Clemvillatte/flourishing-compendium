@@ -25,7 +25,7 @@ In discussing the ICSEY immigrant-youth project, Berry reports that "bicultural 
 *For example:* Imagined: a family continues using its heritage language and celebrating its festivals while taking part in local civic activities.
 ## Psychology parallels
 
-- [[Berry|Berry]] (1997, 2005) on acculturation; Sam and Berry (2010) on acculturation and well-being; Virta et al. (2004) on identity and acculturation; the immigration paradox (Marks et al., 2014); the segmented-assimilation literature (Portes and Zhou, 1993).
+- Berry (1997, 2005) on [[Acculturation theory Berry|acculturation]]; Sam and Berry (2010) on acculturation and well-being; Virta et al. (2004) on identity and acculturation; the immigration paradox (Marks et al., 2014); the segmented-assimilation literature (Portes and Zhou, 1993).
 
 ## Philosophy parallels
 

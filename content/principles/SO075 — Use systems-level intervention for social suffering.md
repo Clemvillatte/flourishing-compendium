@@ -27,7 +27,7 @@ For an exercise, identify a difficulty that several people share. Alongside the 
 For example: Suppose a support service closes before some residents finish work. Offering one person a later appointment addresses that person's request; reviewing the opening hours considers a change to the service itself. This is a hypothetical illustration, not a finding from the review.
 ## Psychology parallels
 
-- [[Biglan et al|Biglan et al.]] (2012) on nurturing environments; Wahlbeck et al. (2015) on population prevention; WHO (2022) World Mental Health Report; O'Connor et al. (2022) on suicide prevention; the social-determinants literature (Marmot and Wilkinson, 2006; WHO, 2010).
+- Biglan et al. (2012) on nurturing environments; Wahlbeck et al. (2015) on population prevention; WHO (2022) World Mental Health Report; O'Connor et al. (2022) on suicide prevention; the social-determinants literature (Marmot and Wilkinson, 2006; WHO, 2010).
 
 ## Philosophy parallels
 

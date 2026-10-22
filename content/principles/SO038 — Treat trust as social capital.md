@@ -31,7 +31,7 @@ Trust is infrastructure: the confidence that others will cooperate and instituti
 
 ## Psychology parallels
 
-- [[Putnam|Putnam]] (2000) on social capital; trust and health (Kawachi et al., 1999); generalized trust and cooperation (Ostrom and Ahn, 2009); the trust game literature (Berg et al., 1995).
+- Putnam (2000) on [[Social capital theory Putnam|social capital]]; trust and health (Kawachi et al., 1999); generalized trust and cooperation (Ostrom and Ahn, 2009); the trust game literature (Berg et al., 1995).
 
 ## Philosophy parallels
 

@@ -29,7 +29,7 @@ The sharper result was what the boys gave up for the difference itself: "the cle
 
 ## Psychology parallels
 
-- [[Tajfel et al|Tajfel et al.]] (1971) on minimal groups; in-group favoritism vs. out-group derogation (Brewer, 1999); out-group homogeneity (Park and Rothbart, 1982); the contact hypothesis and prejudice reduction (Pettigrew and Tropp, 2006; Saguy et al., 2011).
+- Tajfel et al. (1971) on minimal groups; in-group favoritism vs. out-group derogation (Brewer, 1999); out-group homogeneity (Park and Rothbart, 1982); the contact hypothesis and prejudice reduction (Pettigrew and Tropp, 2006; Saguy et al., 2011).
 
 ## Philosophy parallels
 

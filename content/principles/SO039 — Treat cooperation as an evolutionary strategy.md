@@ -21,7 +21,7 @@ A nine-page excerpt adapted from Axelrod's The Evolution of Cooperation asks the
 *For example:* Someone might keep helping a colleague who never returns it, stop after repeated unreturned favours, and then resume when the colleague starts pulling their weight. That is not bitterness; it is the accounting.
 ## Psychology parallels
 
-- [[Axelrod|Axelrod]] (1984) on the evolution of cooperation; Ostrom (1990) on governing the commons; Nowak (2006) on the five rules of cooperation; strong reciprocity (Fehr and Gächter, 2002); the interdependence-theory account of cooperation (Van Lange et al., 2014).
+- Axelrod (1984) on the evolution of cooperation; Ostrom (1990) on governing the commons; Nowak (2006) on the five rules of cooperation; strong reciprocity (Fehr and Gächter, 2002); the interdependence-theory account of cooperation (Van Lange et al., 2014).
 
 ## Philosophy parallels
 

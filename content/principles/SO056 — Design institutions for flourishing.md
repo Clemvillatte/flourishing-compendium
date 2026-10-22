@@ -29,7 +29,7 @@ The article's convergence claim is the design brief this principle endorses: "Bi
 
 ## Psychology parallels
 
-- [[Biglan et al|Biglan et al.]] (2012) on nurturing environments; Institute of Medicine (2009) on prevention; Wahlbeck et al. (2015) on population-level prevention; WHO (2022) World Mental Health Report; Ostrom (1990) on institutional design; nudge and choice architecture (Thaler and Sunstein, 2008).
+- Biglan et al. (2012) on nurturing environments; Institute of Medicine (2009) on prevention; Wahlbeck et al. (2015) on population-level prevention; WHO (2022) World Mental Health Report; Ostrom (1990) on institutional design; nudge and choice architecture (Thaler and Sunstein, 2008).
 
 ## Philosophy parallels
 

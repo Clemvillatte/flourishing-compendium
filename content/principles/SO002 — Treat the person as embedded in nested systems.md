@@ -30,7 +30,7 @@ Look at both the person's immediate settings and the connections between them. (
 *For example:* For a pupil struggling to concentrate, investigate conditions at school and at home rather than assuming the explanation lies only within the pupil.
 ## Psychology parallels
 
-- [[Bronfenbrenner|Bronfenbrenner]] (1979, 2005); the process-person-context-time (PPCT) model (Bronfenbrenner and Morris, 2006); developmental evidence that outcomes emerge from person-environment interactions over time (Lerner, 2006; Sameroff, 2010); social-epidemiological evidence on neighborhood effects on health (Diez Roux and Mair, 2010).
+- Bronfenbrenner (1979, 2005); the process-person-context-time (PPCT) model (Bronfenbrenner and Morris, 2006); developmental evidence that outcomes emerge from person-environment interactions over time (Lerner, 2006; Sameroff, 2010); social-epidemiological evidence on neighborhood effects on health (Diez Roux and Mair, 2010).
 
 ## Philosophy parallels
 

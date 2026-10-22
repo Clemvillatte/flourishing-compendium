@@ -30,7 +30,7 @@ The compendium uses this gradient as one example of a social pattern described w
 
 ## Psychology parallels
 
-- [[OECD|OECD]] (2013) Guidelines on Measuring Subjective Well-being; Diener (2000) on subjective well-being; Clark et al. (2018) on the economics of well-being; Foundations (2017) and Holmes (2022) on the International Wellbeing Group's framework; national well-being accounts (Veenhoven, 2010).
+- OECD (2013) Guidelines on Measuring Subjective Well-being; Diener (2000) on subjective well-being; Clark et al. (2018) on the economics of well-being; Foundations (2017) and Holmes (2022) on the International Wellbeing Group's framework; national well-being accounts (Veenhoven, 2010).
 
 ## Philosophy parallels
 

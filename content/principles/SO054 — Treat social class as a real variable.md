@@ -31,7 +31,7 @@ Adler and Stewart describe research reporting graded associations between socioe
 
 ## Psychology parallels
 
-- [[Bourdieu|Bourdieu]] (1984) on cultural capital; Lareau (2011) on class and childrearing; the social-class and health literature (Adler and Stewart, 2010); class and cognition (Kraus et al., 2012); scarcity (Mullainathan and Shafir, 2013).
+- Bourdieu (1984) on cultural capital; Lareau (2011) on class and childrearing; the social-class and health literature (Adler and Stewart, 2010); class and cognition (Kraus et al., 2012); scarcity (Mullainathan and Shafir, 2013).
 
 ## Philosophy parallels
 
@@ -44,7 +44,7 @@ Adler and Stewart describe research reporting graded associations between socioe
 
 ## Related concepts
 
-- [[Bourdieu]]
+- Bourdieu
 
 ## Sources
 

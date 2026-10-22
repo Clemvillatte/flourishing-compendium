@@ -36,7 +36,7 @@ When you read a statistic on one group, ask who within the group it leaves out.
 
 ## Psychology parallels
 
-- [[Crenshaw|Crenshaw]] (1989) on intersectionality; Cole (2009) on intersectionality in psychology; McCall (2005) on intersectional methodology; Bowleg (2008) on the challenges of intersectionality research; Jones (2000) on levels of racism.
+- Crenshaw (1989) on intersectionality; Cole (2009) on intersectionality in psychology; McCall (2005) on intersectional methodology; Bowleg (2008) on the challenges of intersectionality research; Jones (2000) on levels of racism.
 
 ## Philosophy parallels
 

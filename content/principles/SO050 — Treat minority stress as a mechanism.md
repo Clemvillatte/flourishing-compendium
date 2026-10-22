@@ -30,7 +30,7 @@ The model includes stress processes and coping processes; the compendium offers 
 
 ## Psychology parallels
 
-- [[Meyer|Meyer]] (2003) on minority stress; the LGBT-health literature (Institute of Medicine, 2011); internalized stigma (Corrigan et al., 2009); concealment and health (Pachankis, 2007); the stigma-and-health framework (Major and O'Brien, 2005).
+- Meyer (2003) on [[Minority stress theory|minority stress]]; the LGBT-health literature (Institute of Medicine, 2011); internalized stigma (Corrigan et al., 2009); concealment and health (Pachankis, 2007); the stigma-and-health framework (Major and O'Brien, 2005).
 
 ## Philosophy parallels
 

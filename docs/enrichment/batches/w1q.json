@@ -121,8 +121,14 @@
   "Choking under pressure": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Baumeister 1984 definition quoted verbatim via open PMC articles quoting it (PMC9263694); distraction and explicit-monitoring accounts quoted verbatim from opened PMC4322702; seed's Beilock 2010 framing retained in prose; Beilock 2010 original not directly opened; validated --fast-track",
   "Assertiveness training": "fast-track enriched 2026-10-21 (worker-sup-5e8a3c7f): Alberti & Emmons definition quoted via open PMC article citing it; Speed et al. 2018 findings quoted via PMC12379063; RCT outcomes from opened PMC11392326; Alberti & Emmons 2001 and Linehan 1993 kept as seed sources, not directly opened; validated --fast-track"
  },
- "missing_concepts": [],
+ "missing_concepts": [
+  {
+   "title": "Biglan et al",
+   "seed": "owner-directed person-node deletion (WORK-ORDER-2026-10-22)",
+   "why": "person/org index node deleted from content/concepts; assignment retired from manifest by supervisor"
+  }
+ ],
  "sources_checked": 0,
- "updated": "2026-10-21T16:47:02+00:00",
+ "updated": "2026-10-22T03:32:51+00:00",
  "band_done": false
 }

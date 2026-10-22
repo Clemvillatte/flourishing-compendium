@@ -33,7 +33,7 @@ Hipp and Wo also reproduce a proposed condition for residents' willingness to in
 
 ## Psychology parallels
 
-- [[Sampson et al|Sampson et al.]] (1997) on collective efficacy and neighborhood violence; Bandura (2000) on collective efficacy; community empowerment (Wallerstein, 2006); the community-capacity literature (Goodman et al., 1998).
+- Sampson et al. (1997) on [[Collective efficacy|collective efficacy]] and neighborhood violence; Bandura (2000) on collective efficacy; community empowerment (Wallerstein, 2006); the community-capacity literature (Goodman et al., 1998).
 
 ## Philosophy parallels
 

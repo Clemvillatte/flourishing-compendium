@@ -32,7 +32,7 @@ Biglan and colleagues propose that increasing the prevalence of nurturing enviro
 
 ## Psychology parallels
 
-- [[Biglan et al|Biglan et al.]] (2012) on nurturing environments; Institute of Medicine (2009) on preventing mental, emotional, and behavioral disorders; Wahlbeck et al. (2015) on population-level prevention; WHO (2022) World Mental Health Report; community-intervention evidence (Wandersman and Florin, 2003).
+- Biglan et al. (2012) on nurturing environments; Institute of Medicine (2009) on preventing mental, emotional, and behavioral disorders; Wahlbeck et al. (2015) on population-level prevention; WHO (2022) World Mental Health Report; community-intervention evidence (Wandersman and Florin, 2003).
 
 ## Philosophy parallels
 

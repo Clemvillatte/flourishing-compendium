@@ -30,7 +30,7 @@ The authors also call for work on "negative factors that prevent intergroup cont
 
 ## Psychology parallels
 
-- [[Allport|Allport]] (1954) on the contact hypothesis; Pettigrew and Tropp (2006) meta-analysis; Saguy et al. (2011) on contact and inequality; the extended-contact effect (Wright et al., 1997); the limits of contact (Dixon et al., 2010).
+- Allport (1954) on the [[Intergroup contact|contact hypothesis]]; Pettigrew and Tropp (2006) meta-analysis; Saguy et al. (2011) on contact and inequality; the extended-contact effect (Wright et al., 1997); the limits of contact (Dixon et al., 2010).
 
 ## Philosophy parallels
 

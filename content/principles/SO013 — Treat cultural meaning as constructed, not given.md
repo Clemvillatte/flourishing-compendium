@@ -29,7 +29,7 @@ At forty, someone who absorbed at fifteen that success means a bigger house asks
 
 ## Psychology parallels
 
-- [[Uchida et al|Uchida et al.]] (2004) on cultural constructions of happiness; Diener and Suh (2000) on culture and subjective well-being; Kitayama and Markus (2000) on culture and self; the cross-cultural well-being literature (Veenhoven, 2010; Andonian, 2017; Graham, 2017; Vergara, 2023).
+- Uchida et al. (2004) on cultural constructions of happiness; Diener and Suh (2000) on culture and subjective well-being; Kitayama and Markus (2000) on culture and self; the cross-cultural well-being literature (Veenhoven, 2010; Andonian, 2017; Graham, 2017; Vergara, 2023).
 
 ## Philosophy parallels
 

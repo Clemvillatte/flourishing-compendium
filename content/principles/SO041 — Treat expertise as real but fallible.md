@@ -29,7 +29,7 @@ Tetlock's *Expert Political Judgment* examined expert political forecasting. It 
 ## Psychology parallels
 
 - [[Deliberate practice|Deliberate practice]] (Ericsson et al., 1993)
-- [[Ericsson et al|Ericsson et al.]] (1993); Tetlock (2005) on expert political judgment; Kahneman and Klein (2009) on expert intuition; Goldstein and Gigerenzer (2002) on fast-and-frugal heuristics.
+- Ericsson et al. (1993) on [[Deliberate practice|deliberate practice]]; Tetlock (2005) on expert political judgment; Kahneman and Klein (2009) on expert intuition; Goldstein and Gigerenzer (2002) on fast-and-frugal heuristics.
 
 ## Philosophy parallels
 

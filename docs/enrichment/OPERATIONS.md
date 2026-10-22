@@ -1,3 +1,14 @@
+## Supervisor log 2026-10-22 (worker-sup-flourish-1022)
+
+WORK-ORDER-2026-10-22 Task 1 EXECUTED (owner-directed person-node deletion): 25 person/org
+index concept nodes deleted; 33 backlink lines on 32 SO-principle pages reworked (12 retargeted
+to existing concept pages, 21 stripped to plain text, author names/dates preserved); queue-concepts.json
+and content/_order.json trimmed (25 each); Biglan et al retired from the w1q manifest and recorded
+missing with reason. Validation against pre-change baseline e6a4f502d: only the expected
+owner-authorized lost-link errors; build.py clean (5820 entries, fcAuthored 975). Full per-line
+record: sources/maintenance/person-node-cleanup-session-1022.md. Next: Task 2 (mint and connect
+concept stubs from the cleaned queue).
+
 # Operations: batons, supervision and handover
 
 QC closure 2026-10-21, worker-p1zzl-3d7b2d81: nine-item repair pass. Independent advisors: p1zzl_first_item_evidence_qc_mvhznax5 (SO072 scoped PASS); p1zzl_religious_and_classical_qc_mvhztr5r (X012/X017 scoped PASS, refinements applied); p1zzl_five_item_milestone_qc_mvhzxj14 (X018/PP064 scoped PASS); p1zzl_completed_band_evidence_qc_mvi05503 (four remaining bodies, precision repairs applied); p1zzl_second_pass_scoped_qc_mvi0hj07 (nine-page comparisons, one dangling tag removed); p1zzl_final_attribution_clearance_mvi0sdl6 (final origin/author clearance, scoped PASS). Nine-page validator 9 checked/0 failed; 27 reciprocal proposals resolve. All retained baseline external targets opened. Full PDF contradicted prompt-extracted Rossi metadata; public bibliography corrected to Benjamin Rossi, Ancient Philosophy37(2017). Final quote-mark audit removes invented utterance/paraphrase quotation marks. No whole-source endorsement. First remote checkpoint 4f258f46f verified at 11:32 UTC; earlier authentication-blocked notes superseded. Supervisor integration remains pending.

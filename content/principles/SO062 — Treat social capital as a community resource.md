@@ -24,7 +24,7 @@ Kawachi and colleagues analysed data from 167,259 people in 39 US states: reside
 
 ## Psychology parallels
 
-- [[Putnam|Putnam]] (2000) on social capital; Kawachi et al. (1999) on social capital and health; bonding vs. bridging social capital (Putnam, 2000); the collective-efficacy literature (Sampson et al., 1997).
+- Putnam (2000) on [[Social capital theory Putnam|social capital]]; Kawachi et al. (1999) on social capital and health; bonding vs. bridging social capital (Putnam, 2000); the collective-efficacy literature (Sampson et al., 1997).
 
 ## Philosophy parallels
 

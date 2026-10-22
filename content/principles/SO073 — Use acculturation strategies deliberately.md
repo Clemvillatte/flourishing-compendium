@@ -44,7 +44,7 @@ The same paper concludes that "the role of acculturation for adaptation may be l
 
 ## Psychology parallels
 
-- [[Berry|Berry]] (1997, 2005); Sam and Berry (2010) on acculturation and well-being; Virta et al. (2004) on identity; the immigration paradox (Marks et al., 2014); the biculturalism literature (Benet-Martínez and Haritatos, 2005; Huynh et al., 2011).
+- Berry (1997, 2005); Sam and Berry (2010) on [[Acculturation theory Berry|acculturation]] and well-being; Virta et al. (2004) on identity; the immigration paradox (Marks et al., 2014); the biculturalism literature (Benet-Martínez and Haritatos, 2005; Huynh et al., 2011).
 
 ## Philosophy parallels
 

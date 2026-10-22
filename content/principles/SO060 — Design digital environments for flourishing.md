@@ -33,7 +33,7 @@ The compendium uses these findings as reasons to examine particular activities a
 
 ## Psychology parallels
 
-- [[Verduyn et al|Verduyn et al.]] (2017) on passive vs. active use; Kross et al. (2013) on Facebook and well-being; Valkenburg et al. (2022) on social media and well-being; Twenge et al. (2018) on smartphones and adolescent mental health; the digital-wellbeing literature (Vanden Abeele, 2021).
+- Verduyn et al. (2017) on passive vs. active use; Kross et al. (2013) on Facebook and well-being; Valkenburg et al. (2022) on social media and well-being; Twenge et al. (2018) on smartphones and adolescent mental health; the digital-wellbeing literature (Vanden Abeele, 2021).
 
 ## Philosophy parallels
 

@@ -22,7 +22,7 @@ A meta-analysis of 148 studies covering 308,849 participants found higher odds o
 
 ## Psychology parallels
 
-- [[Holt-Lunstad et al|Holt-Lunstad et al.]] (2010, 2017) on social isolation and mortality; Wilson et al. (2007) on loneliness and dementia; the ageing-and-social-connection literature (Cornwell and Waite, 2009); the elder-orphan problem (Carney et al., 2016).
+- Holt-Lunstad et al. (2010, 2017) on social isolation and mortality; Wilson et al. (2007) on loneliness and dementia; the ageing-and-social-connection literature (Cornwell and Waite, 2009); the elder-orphan problem (Carney et al., 2016).
 
 ## Philosophy parallels
 

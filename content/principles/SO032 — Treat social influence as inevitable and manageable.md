@@ -31,7 +31,7 @@ Social influence is inevitable: conformity, norm-following and obedience run dee
 
 ## Psychology parallels
 
-- [[Asch|Asch]] (1951, 1956) on conformity; Milgram (1963, 1974) on obedience; Cialdini (2001) on influence; normative vs. informational influence (Deutsch and Gerard, 1955); descriptive vs. injunctive norms (Cialdini et al., 1990).
+- Asch (1951, 1956) on [[Conformity|conformity]]; Milgram (1963, 1974) on obedience; Cialdini (2001) on influence; normative vs. informational influence (Deutsch and Gerard, 1955); descriptive vs. injunctive norms (Cialdini et al., 1990).
 
 ## Philosophy parallels
 

@@ -35,7 +35,7 @@ Pick one tradition you take part in. Write down what it gives you and one thing 
 
 ## Psychology parallels
 
-- [[Phinney|Phinney]] (1990) on ethnic identity; Phinney and Ong (2007) on the multigroup ethnic identity measure; Sellers et al. (1998) on racial identity; Cross (1991) on nigrescence; Stuart Hall (1990) on cultural identity as construction; Schwartz et al. (2010) on identity in cultural context.
+- Phinney (1990) on ethnic identity; Phinney and Ong (2007) on the multigroup ethnic identity measure; Sellers et al. (1998) on racial identity; Cross (1991) on nigrescence; Stuart Hall (1990) on cultural identity as construction; Schwartz et al. (2010) on identity in cultural context.
 
 ## Philosophy parallels
 

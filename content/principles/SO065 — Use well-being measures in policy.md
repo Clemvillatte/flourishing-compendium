@@ -37,7 +37,7 @@ Find your national statistics office's well-being report and see which questions
 
 ## Psychology parallels
 
-- [[OECD|OECD]] (2013) Guidelines; Diener (2000) on subjective well-being; Clark et al. (2018) on the economics of well-being; the International Wellbeing Group's framework (Foundations, 2017; Holmes, 2022); national well-being accounting (Veenhoven, 2010; Andonian, 2017).
+- OECD (2013) Guidelines; Diener (2000) on subjective well-being; Clark et al. (2018) on the economics of well-being; the International Wellbeing Group's framework (Foundations, 2017; Holmes, 2022); national well-being accounting (Veenhoven, 2010; Andonian, 2017).
 
 ## Philosophy parallels
 

@@ -38,7 +38,7 @@ When someone who has migrated mentions a song, a dish or a festival from home, a
 
 ## Psychology parallels
 
-- [[Eisenbruch|Eisenbruch]] (1991) on cultural bereavement; Papadopoulos (2007) on refugee mental health; the migration-and-mental-health literature (Bhugra, 2004); the refugee-trauma literature (Fazel et al., 2005).
+- Eisenbruch (1991) on cultural bereavement; Papadopoulos (2007) on refugee mental health; the migration-and-mental-health literature (Bhugra, 2004); the refugee-trauma literature (Fazel et al., 2005).
 
 ## Philosophy parallels
 

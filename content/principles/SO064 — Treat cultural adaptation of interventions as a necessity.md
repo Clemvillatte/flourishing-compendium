@@ -35,7 +35,7 @@ Before running a wellbeing workshop for a new community, ask five members to rea
 
 ## Psychology parallels
 
-- [[Castro et al|Castro et al.]] (2010) on cultural adaptation; Gone (2011) on Indigenous healing; Hall et al. (2016) on cultural adaptation of cognitive-behavioral therapy; the cultural-formulation approach (Lewis-Fernández and Aggarwal, 2015); the global-mental-health literature (Patel et al., 2010).
+- Castro et al. (2010) on cultural adaptation; Gone (2011) on Indigenous healing; Hall et al. (2016) on cultural adaptation of cognitive-behavioral therapy; the cultural-formulation approach (Lewis-Fernández and Aggarwal, 2015); the global-mental-health literature (Patel et al., 2010).
 
 ## Philosophy parallels
 

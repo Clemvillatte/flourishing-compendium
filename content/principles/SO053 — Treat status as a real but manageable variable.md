@@ -21,7 +21,7 @@ Marmot and Bobak's summary of the Whitehall programme states the finding in one 
 *For example:* Whitehall's civil servants were, by any reasonable standard, not poor; the heart disease still tracked the org chart. The body reads rank. Respect and control are nutrients.
 ## Psychology parallels
 
-- [[Marmot|Marmot]] (2004) on status syndrome; the Whitehall studies (Marmot et al., 1978, 1991); status and health (Sapolsky, 2005); the psychosocial-gradient literature (Wilkinson and Pickett, 2009).
+- Marmot (2004) on status syndrome; the Whitehall studies (Marmot et al., 1978, 1991); status and health (Sapolsky, 2005); the psychosocial-gradient literature (Wilkinson and Pickett, 2009).
 
 ## Philosophy parallels
 

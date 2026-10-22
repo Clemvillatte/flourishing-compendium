@@ -38,7 +38,7 @@ So "passive use harms, active use helps" is better stated as a tendency with exc
 
 ## Psychology parallels
 
-- [[Verduyn et al|Verduyn et al.]] (2017) on passive vs. active use; Valkenburg et al. (2022) on social media and well-being; the digital-wellbeing literature (Vanden Abeele, 2021); the attention-economy critique (Wu, 2016; Zuboff, 2019); adolescent mental health and technology (Twenge et al., 2018; Orben and Przybylski, 2019).
+- Verduyn et al. (2017) on passive vs. active use; Valkenburg et al. (2022) on social media and well-being; the digital-wellbeing literature (Vanden Abeele, 2021); the attention-economy critique (Wu, 2016; Zuboff, 2019); adolescent mental health and technology (Twenge et al., 2018; Orben and Przybylski, 2019).
 
 ## Philosophy parallels
 
