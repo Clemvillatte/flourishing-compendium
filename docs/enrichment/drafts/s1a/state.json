@@ -867,12 +867,17 @@
    ]
   },
   "s1a-030": {
-   "status": "researching",
+   "status": "returned",
    "angle": "D061: Bian Que ranks his eldest brother best — illness removed before it takes form, fame never leaving the house (Heguanzi, Shixian chapter)",
    "history": [
     {
      "t": "2026-10-22T04:03:53+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T04:30:41+00:00",
+     "to": "returned",
+     "note": "carrier block: ctext.org ip-blocked, zh.wikisource 429, en.wikipedia 429, BMJ robots-blocked; Heguanzi Shixian primary text NOT opened this session, no draft written. Research preserved: the three-brothers Bian Que parable (eldest brother removes disease before it takes form, fame never leaving the house; frame: Pang Xuan to King Zhaoxiang of Zhao; c. 3rd c. BCE) fits D061 exactly; next teller should try ctext.org Shixian via browser, zh.wikisource Heguanzi/世賢, or the Legge-style translation quoted in secondary carriers"
     }
    ]
   },
@@ -912,5 +917,5 @@
    ]
   }
  },
- "updated": "2026-10-22T04:26:47+00:00"
+ "updated": "2026-10-22T04:30:41+00:00"
 }
