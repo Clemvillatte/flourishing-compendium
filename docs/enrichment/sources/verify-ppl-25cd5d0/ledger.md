@@ -548,3 +548,26 @@ canon, concentration cultivated with virtue brings great fruit, and wisdom culti
 concentration brings great fruit" is not carried by the page's two opened carriers; suggest
 adding a carrier for that stock formula (it exists in the canon, e.g. in the sīla-samādhi-
 paññā sequences) or softening to what the two suttas support.
+
+## Round 23 (2026-10-22, performed ~12:31-12:32Z measured; raw-text method)
+
+### Emotion as construction (w1u, done)
+
+2 quoted passages checked, 2 PASS — both GS §290 passages (Kaufmann, slightly modified, via
+the cited Georgetown page) verified verbatim against an unprompted raw fetch: the "give style"
+block and the "second nature" block, as well as the inline fragments "reinterpreted and made
+sublime" and "long practice and daily work at it". The page's spaced dashes normalise the
+carrier's double hyphens. No routed findings.
+
+### Philia (w1s, done)
+
+5 quoted passages checked, 5 PASS — all verified against an unprompted raw fetch of the full
+cited Internet Archive text (Welldon 1892 translation):
+- VIII.1 opening: the quoted words are present; the djvu text layer interleaves OCR-garbled
+  marginal notes inside the sentence ("or^Love. ^^ virtue", "J* '?", "pensabie ;"), which the
+  page rightly omits.
+- VIII.3: all three fragments (old people/profit, young/pleasure, changes with the object)
+  present.
+- VIII.4: the perfect-friendship passage present word-for-word (OCR hyphenation at line
+  breaks only).
+No routed findings.
