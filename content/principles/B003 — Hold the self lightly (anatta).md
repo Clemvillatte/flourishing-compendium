@@ -12,13 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 3** — Hold the self lightly (anatta)
 
-The Buddha's second discourse puts it as a question: "Is form constant or inconstant?" Inconstant, say the monks. "And is that which is inconstant easeful or stressful?" Stressful. "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?" No. The discourse runs the interrogation across all five aggregates, and its positive formulation is the principle's logic: "Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease." A self would command its parts; the process does not obey. The training instruction: "every consciousness is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" The sutta's instruction is not to identify the aggregates as self. The principle's process framing — the "self" as a streaming composition with no fixed owner at the center — is the compendium's extension of that instruction, and its application: use the word "I" as a name for the working process, not as a solid referent.
+The Anatta-lakkhana Sutta examines form, feeling, perception, mental fabrications and consciousness. Each changes, can bring distress, and resists complete command; the teaching asks whether it is fitting to regard any of them as one's self. Its practical instruction is to loosen identification with these experiences. ([SN 22.59, Thanissaro Bhikkhu's translation](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
 
-(Anatta-lakkhana Sutta; Milindapanha.)
+The Milindapanha approaches the question through a chariot: a useful everyday name need not identify a separate, permanent entity. Nagasena applies the comparison to his own name. This does not require abandoning ordinary speech about people. ([Book II, chapter 1, §1, T. W. Rhys Davids's translation](https://www.sacred-texts.com/bud/sbe35/sbe3504.htm))
 
-**Plain words** The 'self' isn't a thing but a process — a streaming composition of perceptions, feelings, thoughts, and intentions with no fixed owner at the center. Use the word 'I' without believing in a solid referent. Lightening your grip on 'who I am' is strangely relaxing; the identity was heavy.
+Nor is not-self a licence to dismiss responsibility: MN 109 challenges the inference that actions therefore have no one to affect. The work remains examining attachment, rather than escaping accountability. ([MN 109](https://www.accesstoinsight.org/tipitaka/mn/mn.109.than.html))
 
-*For example:* The person who always treated mornings as not-for-them, dissolved by a year of dog-walking — the self was a habit, not a fact.
+**Plain words** A painful thought or mood need not settle who you are. Notice it without turning it into a permanent verdict, while still taking care over what you do next.
+
+*For example:* After criticism, you could notice shame before accepting it as proof of being a failure. Try asking what needs correcting; afterwards, check whether that response helped you repair the work without defending your whole identity.
+
+## Related concepts
+
+- [[Anatta]]: the Buddhist teaching of not-self.
+- [[Decentering]]: a psychological comparison concerning one's relationship to thoughts.
+- [[The bundle theory]]: a distinct philosophical account of personal identity.
 
 ## Stories
 
@@ -30,7 +38,7 @@ The Buddha's second discourse puts it as a question: "Is form constant or incons
 
 - **The self as narrative construct** (McAdams, 2013)
 - **[[Ego dissolution|Ego dissolution]]** (Letheby and Griffiths, 2017)
-- **[[Decentering|Decentering]]** (Bernstein et al., 2015)
+- **[[Decentering|Decentering]]**: Bernstein and colleagues propose meta-awareness, disidentification from internal experience and reduced reactivity to thought content as three related processes. This psychological model offers a comparison, not proof of a Buddhist metaphysical position. ([Bernstein et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5103165/))
 
 ## Philosophy parallels
 
@@ -43,6 +51,17 @@ The Buddha's second discourse puts it as a question: "Is form constant or incons
 
 - [[K387 — Carry the thought on paper]]
 - [[K123 — Radical acceptance|K123 Radical acceptance]]
+
+## Sources
+
+### Primary source (verbatim)
+
+> "This is not mine. This is not my self. This is not what I am."
+>
+> Anatta-lakkhana Sutta, SN 22.59, instruction concerning the aggregates; translated from the Pali by Thanissaro Bhikkhu (1993). [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html).
+
+- Milindapanha, Book II, chapter 1, §1, chariot discussion; translated by T. W. Rhys Davids. [Full passage](https://www.sacred-texts.com/bud/sbe35/sbe3504.htm).
+- MN 109, passage beginning with the monk's inference about actions and not-self; translated by Thanissaro Bhikkhu. [Full discourse](https://www.accesstoinsight.org/tipitaka/mn/mn.109.than.html).
 
 <!-- fc: reflections
 What identity are you currently holding as solid — a fixed self rather than a process? What would holding it lightly change?
