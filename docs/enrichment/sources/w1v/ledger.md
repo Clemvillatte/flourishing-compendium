@@ -71,3 +71,9 @@
 - Source opened: Wikipedia Placebo (verbatim trial-response/effect definition; Kirsch 1985 response-expectancy hypothesis). Kaptchuk 2008 kept as seed citation only (not opened this session).
 - Nunc stans started but not completed: Boethius carrier not located quickly (wrong Gutenberg ebooks; gutendex blocked); item left undone (start state superseded by next item).
 - Validator: ok (fast-track). Advisor QC: not due (item 13).
+
+## Moral dilemma research (fast-track, 2026-10-22)
+- Source opened: PubMed 11699120 (Haidt 2001 abstract, verbatim sentences). Kohlberg 1981 kept as seed citation only.
+- Note: PubMed abstract rendering contains a typo ("more consistent that") — avoided quoting that sentence; only clean contiguous sentences quoted.
+- Front-matter error (Letter P for Letter M) caught and fixed before save; validated against original front-matter.
+- Validator: ok (fast-track). Advisor QC: not due (item 14).
