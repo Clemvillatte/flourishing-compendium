@@ -15,3 +15,14 @@ The two preceding commits (35de8dc6f and ae5677c8d) and the 04:39:10Z ledger ent
 
 - Problem vs. mystery: enriched at fast-track bar, then held (comparison-page namespace question, PROTOCOL step 0). Body kept on page; done reverted; flagged for supervisor. QC round 1 (advisor) caught a quote error: "I touches me" must read "it touches me" (fixed); causal claim about examining a friendship removed; Fidelity/Being-in-the-world link glosses reduced. Evidence: SEP entry on Marcel (https://plato.stanford.edu/entries/marcel/) — quotes verified as reproduced there (Marcel 1949 p. 117/118; Marcel 1995 pp. 12, 19; Marcel 1951a p. 213).
 - Conformity: first draft repaired per QC round 1 — Marcel carryover links removed; Asch 1955 quote re-verified against the opened transcription carrier (panarchy.org/asch/social.pressure.1955.html) used by SO032; denominators restricted to critical trials; unverified private-answer and control-rate claims removed pending opened support. Bond & Smith 1996 cultural variation: not yet verified from an opened source; to be added only with one.
+
+### Contextual intelligence — fast-track §1a — DONE 2026-10-22T06:13Z (worker-w1r-pplc-6c2b4f90, takeover session)
+
+- prior state: seed stub (26 lines), degree 3 (fast-track eligible)
+- **the retraction is repaired**: this is the page whose predecessor's DONE claim was RETRACTED (the Sternberg 1984 p.271 quote was never verified against an opened carrier)
+- opened source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11050987/ — Suzuki, Caso, Yucel, Asad & Kokaze, "Contextualizing Positionality, Intersectionality, and Intelligence in the Anthropocene", Journal of Intelligence 2024
+- the page's two quote spans were copied verbatim from the freshly fetched article this session (triarchic summary sentence; successful-intelligence definition span)
+- the ledger's fallback instruction was honoured: the BBS-1984 sentence was NOT used (no carrier was ever opened); the page builds on the opened 2024 carrier only, which describes the contextual subtheory in Sternberg's own terms (adaptation to the environment)
+- seed source "Sternberg, 2019" kept in ## Sources, marked unopened
+- validation clean (--fast-track; one warning: 1 Related-concepts line, grounded in the opened article's "practical and wisdom-based skills" phrase; more links without opened evidence would violate the no-hallucination rule)
+- note for the next worker: the previous holder's in_progress marker for Problem vs. mystery was cleared by this done transition; their QC hold for that item is recorded earlier in this ledger (commit 70ba403ea) — check it before reworking that page

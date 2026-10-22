@@ -77,12 +77,12 @@
  "notes": "never-claimed tail band; fast-track pipeline",
  "done": [
   "Cultural resilience",
-  "Conformity"
+  "Problem vs. mystery",
+  "Conformity",
+  "Contextual intelligence"
  ],
- "in_progress": "Problem vs. mystery",
- "updated": "2026-10-22T06:07:22+00:00",
+ "in_progress": null,
+ "updated": "2026-10-22T06:12:39+00:00",
  "band_done": false,
- "flagged": {
-  "Problem vs. mystery": "comparison-page namespace question (owner X-vs-Y rule, PROTOCOL step 0) — enriched body kept, done reverted, needs supervisor disposition"
- }
+ "flagged": {}
 }
