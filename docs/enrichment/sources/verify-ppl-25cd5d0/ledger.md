@@ -1026,3 +1026,15 @@ through love and in love" fragment, and the intensification-of-inner-life senten
 verified verbatim against the raw Internet Archive text of the cited Frankl PDF (the same
 carrier text layer fetched unprompted for the Service page in round 13; OCR-tolerant
 match, words identical). No routed findings.
+
+## Round 46 (2026-10-22; inspection ~12:44-12:45Z; raw-text method with carrier fallback)
+
+### Goal-directed attention (w1r, fast-track done, commit 6b30f5f87)
+
+4 quoted passages checked, 4 PASS — the cited PubMed record (11994752) was verified via a
+search-engine snippet of that record and the publisher's (Nature) abstract page for the
+same article: the dorsal-system definition sentence, "is not involved in top-down
+selection", the "specialized for the detection of behaviourally relevant stimuli,
+particularly when they are salient or unexpected" sentence, and the "circuit breaker"
+sentence all appear word-for-word; the both-systems-in-neglect claim is likewise directly
+present. No routed findings.
