@@ -261,3 +261,12 @@ Section 68 ellipsis); all repaired pages re-validated; 2 routed notes (Baltes & 
 telephone-task quote in a paywalled body; Spinoza affects definitions via Taylor & Francis; plus
 the Kleitman quote in Lavie's gated chapter). Ledger and repairs pushed after every round; every
 save verified on origin/main.
+
+## Round 24 — final rounds
+
+1. **Justice sensitivity** — both quotes (the Schmitt et al. 2005 abstract opening; the "mixture of self-protective motives and moral concerns" line) VERIFIED verbatim via the opened CiNii abstract record. PASS.
+2. **Moral licensing** — both quotes VERIFIED verbatim: Monin & Miller 2001 via the opened PubMed abstract; Xiao et al. 2024 replication via the opened PMC article. PASS.
+3. **Mysterium tremendum** — both Otto passages VERIFIED in wording via multiple scholarly reproductions of The Idea of the Holy ch. IV (Britannica, light-en.org, Tradition Online); the page's archive.org carrier could not be downloaded directly this session (djvu fetch returned an error page) — ROUTED NOTE for a future verify worker to open the carrier; one capitalization variant noted (page "mystery inexpressible", reproductions "Mystery inexpressible"). PASS with note.
+4. **Nishkama karma** — the Vivekananda sentence VERIFIED verbatim against the opened primary text (Karma Yoga, ch. III "The Secret of Work"); the page's citation points to the Karma Yoga PDF, which contains the passage. PASS.
+
+Round 24: 4 pages, 6 quoted passages verified, no defects.
