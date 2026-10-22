@@ -500,3 +500,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   carrier honestly ("quoted verbatim as reproduced in an opened scholarly carrier"),
   so no defect — the inline blockquote link is the secondary carrier, not the book.
   Sample PASS. Thirteen samples this session, all PASS.
+- Supervisor verification sample 14 (2026-10-22 ~15:15 UTC): The razor's edge — the
+  Katha Upanishad 1.3.14 quote (Müller, SBE 15) checked against the carrier via the
+  Wayback Machine snapshot of the cited sacred-texts.com page (the live page
+  bot-walls scripts): verbatim, including the verse numbering context. Sample PASS.
+  Fourteen samples this session, all PASS.
