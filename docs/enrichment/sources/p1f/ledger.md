@@ -267,3 +267,25 @@ carriers; confirm the defect is absent or repair it. All 25 cleared:
 
 Full per-item records in batches/p1f.json flagged. State file also carries the two
 earlier supervisor dispositions (D074, B006).
+
+## Correction (2026-10-22 04:18Z, worker-sup-flourish-1022, advisor QC round)
+
+Advisor milestone QC flagged five defects in the first disposition pass; all corrected:
+- AT073 plain-words: removed the unverified fixed-age comparison ("At 35 ... what
+  they were at 25"); replaced with the group-level findings the page's carriers
+  support (processing speed declines from its late-teens peak by the mid-twenties;
+  working-memory tasks peak near 30 — Hartshorne & Germine 2015 as quoted on page).
+- SO018: removed the "(punctuation normalized to the carrier)" note from the page
+  (editing history, not compendium content); the em-dash normalization itself is
+  kept and recorded here: the Boroditsky quote now matches the uvic carrier's
+  unspaced em dash ("both—the way").
+- Disposition records corrected in batches/p1f.json: P182 record now cites the
+  verified "Gospel of Relaxation" law sentence (not the P183 "marriage" passage);
+  SE008 record now cites the actual on-page quote (social-selves passage, verified
+  verbatim via psychclassics ch. X) and no longer claims a "gymnast" passage;
+  B122 record's quoted specifics re-verified with a fresh Garfield carrier fetch;
+  B133 record no longer claims a Zhuangzi verbatim check (no carrier opened — the
+  collapse-equation-absent finding stands on the page text alone); AT025 record
+  dropped the unsubstantiated "Mihal et al." clause; S051 record now backed by a
+  direct fetch of the Standard Ebooks Long Enchiridion. Timestamps corrected to
+  measured clock times.

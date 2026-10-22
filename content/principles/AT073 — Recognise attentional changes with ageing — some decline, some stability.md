@@ -21,7 +21,7 @@ Two findings anchor this principle. Salthouse's summary of the cognitive-ageing 
 The stability half comes from Hartshorne and Germine's lifespan data (48,537 web participants plus normative test data): "Our results reveal considerable heterogeneity in when cognitive abilities peak: some abilities peak and begin to decline around high school graduation; some abilities plateau in early adulthood, beginning to decline in the 30s; still others do not peak until the 40s or later" (2015). In their data, processing speed peaks in the late teens, the working memory tasks near 30, emotion recognition shows "a long period of relative stability in performance between the ages of 40 and 60", and vocabulary peaks later still, around 65 in the web sample.
 
 **Plain words**
-Averages for large groups say the portfolio changes with age; the pattern of peaks and declines varies. At 35, on the averages these studies report, processing speed and working memory will not both be what they were at 25.
+Averages for large groups say the portfolio changes with age; the pattern of peaks and declines varies. On these averages, processing speed has already declined from its late-teens peak by the mid-twenties, while working-memory tasks peak near 30 — so the mix of abilities shifts with age.
 
 *For example:*
 Imagined: a person learning a new note-taking system at 25 versus 55, comparing after a week.
