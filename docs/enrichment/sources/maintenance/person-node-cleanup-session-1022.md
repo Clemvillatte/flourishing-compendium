@@ -32,3 +32,18 @@ Executed WORK-ORDER-2026-10-22 Task 1 under supervisor baton (owner-directed).
 - Note: queue-concepts.json was regenerated/edited by earlier sessions (map says "present there");
   rank shifts cannot disturb frozen manifests (bands/*-manifest.json own their concept lists; the
   queue is only read at mint time).
+
+## Manifest retirement follow-up (same session)
+
+The deletion map's "RETIRE assignment: none" was inaccurate: 10 band manifests referenced
+deleted nodes. Removed them (never-worked bands keep frozen remaining lists intact):
+w1ab 70->68 (Marmot, Meyer), w1ac 70->67 (Phinney, Ridgeway, Sampson et al),
+w1ad 70->69 (Tajfel et al), w1af 59->57 (Uchida et al, Whitbeck et al), w1t 70->69 (Berry),
+w1u 70->69 (Holt-Lunstad et al), w1v 70->68 (OECD, Putnam), w1x 70->68 (Verduyn et al, Allport),
+w1y 70->63 (Asch, Axelrod, Benet-Martínez et al, Bourdieu, Bronfenbrenner, Castro et al, Chida et al),
+w1z 70->67 (Crenshaw, Eisenbruch, Ericsson et al). The w1ab state's two moot identity/namespace
+HOLDs (Marmot, Meyer — pages now deleted) were retired; their original consolidation text is in
+git history at bad583638^..HEAD (this commit's parent).
+
+Task 2 note: the w1x baton was claimed by a live worker (worker-w1x-pplc-9c41f2e0) during this
+cleanup — the manifest edit removes only deleted nodes and does not touch their in-flight items.
