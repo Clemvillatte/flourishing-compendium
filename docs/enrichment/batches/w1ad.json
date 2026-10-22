@@ -23,7 +23,8 @@
   "Socioemotional selectivity theory (Carstensen)",
   "Socratic elenchus",
   "Solastalgia",
-  "Somatic marker hypothesis (Damasio)"
+  "Somatic marker hypothesis (Damasio)",
+  "The Rich Fool"
  ],
  "in_progress": null,
  "flagged": {
@@ -42,10 +43,11 @@
   "Seriousness (le sérieux)": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Seriousness (le sérieux).md",
   "Situation-sensitivity in self-regulation": "Category C candidate: coined compendium heading; nearest sourced constructs are Bonanno & Burton's context sensitivity and Aldao et al.'s ER flexibility; existing Context sensitivity page holds the PBT/EEMM construct of the same name; held out of done pending owner disposition (see concept-namespace-audit.md)",
   "Skepticism about the obvious": "Category C candidate: coined compendium heading; the opened SEP entry defines Pyrrhonist skepticism and the Ten Modes, not a distinct concept 'skepticism about the obvious'; held out of done pending owner disposition (see concept-namespace-audit.md)",
-  "Socioemotional wisdom": "Category C candidate: coined compendium heading ('socioemotional' is the compendium's qualifier; Erikson's term is 'wisdom'); held out of done per advisor round-2 verdict; on-page disclosure present; see concept-namespace-audit.md"
+  "Socioemotional wisdom": "Category C candidate: coined compendium heading ('socioemotional' is the compendium's qualifier; Erikson's term is 'wisdom'); held out of done per advisor round-2 verdict; on-page disclosure present; see concept-namespace-audit.md",
+  "The Rich Fool": "Previous page claimed SP025 reads the parable (night-time audit); SP025 only links it. Rewritten with verified KJV/WEB text; no scholarly commentary opened."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:40:14+00:00",
+ "updated": "2026-10-22T16:10:45+00:00",
  "band_done": false
 }
