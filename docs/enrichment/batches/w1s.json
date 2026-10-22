@@ -17,7 +17,10 @@
   "Physiological sigh (Balban et al., Stanford)",
   "Planning fallacy",
   "Respect",
-  "Second-order desires"
+  "Second-order desires",
+  "Secure base",
+  "Samsara",
+  "Samskara"
  ],
  "in_progress": null,
  "flagged": {
@@ -27,6 +30,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:37:45+00:00",
+ "updated": "2026-10-22T11:38:27+00:00",
  "band_done": false
 }
