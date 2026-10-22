@@ -181,3 +181,24 @@ Fast-track enrichment.
 - Synthesis grounded in the same opened text: the eternal verities
   sentence before the quoted finding; facts and values fusing.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-22 (UTC): Basic emotion theory (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Basic emotion theory.md (seed: Ekman,
+  Izard, universal emotions with distinct expressions).
+- Opened source: Paul Ekman, "Facial Expression and Emotion",
+  American Psychologist 48(4), 1993, PDF hosted at the University
+  of Cambridge https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf
+  (downloaded and text-extracted; the UCLA-hosted Ekman 1992 PDF
+  was robots-blocked, the 1993 review paper by the same author was
+  opened instead).
+- Verbatim blockquote: the emotion-family passage ("Just as it is
+  useful to think of expressions as constituting families...").
+- Synthesis grounded in the same opened paper: the robust evidence
+  for distinctive universal facial expressions for anger, fear,
+  enjoyment, sadness and disgust; the basic-emotion criteria are
+  Ekman's 1992 criteria as cited in this 1993 paper and the
+  Wikiversity summary of Ekman 1992 Table 1.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
