@@ -15,3 +15,9 @@
 - Sources opened: Stone chapter PDF via fetch (verbatim: "In essence, original enlightenment doctrine asserts... have only to realize it."); Wikipedia Hongaku (definition + 本覺/benjue/hongaku); Wikipedia Platform Sutra (verse "Fundamentally there is not a single thing. / Where could dust arise?" and "our natures are fundamentally pure, it is through false thoughts that suchness is covered up").
 - Note: Platform Sutra renderings cited to Wikipedia as carrier (sacred-texts Cloudflare-blocked from sandbox; no free scholarly translation opened). Fragments quoted contiguous verbatim.
 - Validator: ok (fast-track). Advisor QC: not due (item 3).
+
+## Pratyahara (fast-track, 2026-10-22)
+- Sources opened: Gutenberg ebook 2526 Johnston Yoga Sutras (raw text; verbatim II.29, II.54, II.55); Wikipedia Pratyahara (definition, fifth limb).
+- Repair: removed the pre-existing unverified tortoise quote fragment attributed to Wikipedia (simile not present in the opened Wikipedia article); tortoise simile now described as Y055's citation of Gita 2.58 (compendium-internal description).
+- Cited-in completed: Y054, Y055 added (both link the concept; section was empty).
+- Validator: ok (fast-track). Advisor QC: not due (item 4).
