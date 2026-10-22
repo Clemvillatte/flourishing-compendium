@@ -35,7 +35,8 @@
   "content/kernels/K134 — Two-truths drill.md",
   "content/kernels/K145 — Role-taking.md",
   "content/kernels/K235 — Abductive warm-ups.md",
-  "content/kernels/K210 — Active constructive responding.md"
+  "content/kernels/K210 — Active constructive responding.md",
+  "content/kernels/K143 — Self-complexity mapping.md"
  ],
  "in_progress": null,
  "queue": [
@@ -84,5 +85,5 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:00:01+00:00"
+ "updated": "2026-10-22T14:00:57+00:00"
 }
