@@ -102,3 +102,17 @@ integration holds (ROUTE.md entries added). enrich_save.sh's git push fails from
 
 Both ready after advisor round-4 scoped PASS; supervisor scope approval (B143, D180) and
 registration/backlinks remain the integration holds. Final commit this session: c9eb8d76.
+
+2026-10-22 session (storyteller-perplexity-1022d, lane s1a; artist-story tranche per owner):
+
+| item | target | title | status | note |
+|---|---|---|---|---|
+| s1a-035 | D041 | The Painter Who Kept the Water Still (Agnes Martin) | ready | 5 advisor rounds; 2 carriers (Writings PDF via archive.org + ACI biography) both opened, quotes re-verified against the downloaded PDF's text layer; the printed "hear inspiration dearly" ending was removed as ambiguous rather than normalized; ROUTE scope note: D041 zero-story when checked |
+| s1a-036 | D160 | The Slowest Vessel (Matisse cut-outs) | ready | 4 advisor rounds; 4 carriers (Grand Palais, Christie's, Louisiana text via absolutearts, MoMA) opened; B180 surplus mapping proposed and removed after reading B180's body; ROUTE scope note: D160 zero-story when checked |
+| s1a-037 | D102 | Jade in the Bosom (Hilma af Klint) | ready | 3 advisor rounds; 2 Guggenheim carriers opened (exhibition page + education PDF, the PDF re-inspected via its text layer); D022-retarget... see 038; D186 target rejected by advisor (no prior distinction) and retargeted to D102; ROUTE scope note |
+| s1a-038 | D022 | The Scales and the Speed (Brancusi) | qc_pending | 3 advisor rounds; research verified (Tate teachers' kit + ICR quotes page, Brummer Gallery 1926 + Dudley Dial 1927 citations); advisor rejected the D022 mapping (removing representational detail ≠ diminishing one's doing) and directed not to invent a bridge — RETARGETING FLAGGED FOR SUPERVISOR; D034 noted as an untested candidate host |
+| s1a-039 | B109 | The Letter Written for After (Beethoven) | ready | 3 advisor rounds; 2 carriers (Beethoven's Letters Wallace translation at Gutenberg, downloaded and text-searched + Beethoven-Haus Bonn Schicksal page); the word "testament" is on the repo banned-phrase list — the document is called "the Heiligenstadt letter" in the draft; ROUTE scope note: B109 zero-story when checked |
+
+035/036/037/039 are qc-cleared and ready; 038 stays qc_pending pending the supervisor's
+retargeting decision. All quotes verbatim against carriers opened this session; per-sentence
+inline carrier citations added per advisor instruction. Final commit this session: see git log.
