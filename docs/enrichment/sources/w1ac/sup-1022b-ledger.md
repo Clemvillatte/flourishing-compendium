@@ -54,3 +54,7 @@
 
 ## Retention and protention (fast-track bar)
 - Opened: SEP "Edmund Husserl" (Zahavi). Verbatim triad passage (primal impression / retention / protention, Hua 9/201) and the memory-distinction passage quoted exactly.
+
+## Retrieval (Wiederholung) (fast-track bar)
+- Opened: SEP "Martin Heidegger" (Wrathall). Verbatim: "Following Kierkegaard, Heidegger calls this process of taking over in an individualized way a received form of existence 'repetition'." Historizing paragraph paraphrased from the same opened article.
+- Note: intermittent "push failed" then success on retry — a second worker's commits raced the push; final state verified on origin/main (a2ce4c943).
