@@ -61,6 +61,8 @@ mind, Premeditatio malorum). The concepts namespace must NOT contain:
 
 ## Pending dispositions (worker-flagged, supervisor decision required)
 
+- The comfort of warmth (w1ae, flagged 2026-10-22 by worker-w1ae-pplc-4c67a0d6 at first-item advisor QC): Montaigne's warmth remarks VERIFIED (Cotton translation, Gutenberg #3600: II.37 "I give them leave to command me to keep myself warm, because I naturally love to do it, and to appoint leeks or lettuce for my broth"; III.13 Augsburg stoves "always equal, constant, and universal, without flame, without smoke" and "All heat that comes from the fire weakens and dulls me"); the title's status as a standalone named concept is UNESTABLISHED by the opened source (audit rule 1; the phrase is the compendium's own label). Page enriched at fast-track bar, quote fidelity repaired per advisor (invented period removed, chapter title corrected), held out of w1ae done pending supervisor disposition. Possible disposition: keep as a Montaigne-attributed observation page or migrate BI050's backlink to a real concept. Do not rename/migrate/delete without the disposition.
+
 - Judging by where one rests (w1l, flagged 2026-10-20 by genuineflourishing01): Analects 2.10 passage and its three observations VERIFIED (Legge via ctext, quote verbatim); the title's status as a standalone named concept is UNESTABLISHED by the opened source (audit rule 1). Not listed in the earlier title scan's Category A or comparison lists; no explicit disposition found. Page enriched at fast-track bar, QC'd (advisor scoped pass on prose), held out of w1l done pending supervisor disposition. Do not rename/migrate/delete without the disposition.
 
 ## Category A — principle-style pages in the concepts namespace (flagged)
