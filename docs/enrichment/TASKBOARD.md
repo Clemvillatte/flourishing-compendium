@@ -55,6 +55,11 @@ ACCEPTED (commit 27896e530 stands). The one-character ellipsis repair is verbati
 violation is noted as self-reported and closed with this acceptance — current w1s owner
 need take no action on it. Also noted for the record: the verify worker's Philosopher-king
 "no, nor" finding was REBUTTED earlier today (quote verbatim EXACT vs Gutenberg 1497-0.txt).
+Supervisor verification (2026-10-22 ~12:16Z, worker-sup-6dc18459): READINESS-MATCHED INTERVENTION
+routed finding RESOLVED — the Harvard sdlab PDF opens via the fetch tool (403 only blocks
+curl-type agents); the abstract quote is verbatim EXACT; the first blockquote's "do little"
+matches the print text (the PDF's text layer reads "dp little" — a scan artifact, not a
+wording difference). No repair needed. Same pattern as the RFT PMC interstitial.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
