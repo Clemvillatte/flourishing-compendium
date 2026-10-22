@@ -7,7 +7,7 @@ file: "Relational Frame Theory"
 tags: ["theory", "psych/clinical"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
-**Relational Frame Theory** — Hayes — human cognition is learned, arbitrarily applicable relating; human language creates the potential for a distinct form of suffering.
+Relational Frame Theory — Hayes — human cognition is learned, arbitrarily applicable relating; human language creates the potential for a distinct form of suffering.
 
 Steven Hayes and colleagues built RFT on one behavioral capacity: relating one event to another based on social convention rather than the events' physical properties. Teach a child that a name is an object, and the object is the name for free. Language and cognition grow from that capacity, and the theory has often been argued to provide the basic science foundation for Acceptance and Commitment Therapy.
 
