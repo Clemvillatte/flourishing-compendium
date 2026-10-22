@@ -165,3 +165,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - What the evidence does not test is stated on the page: contact-prejudice relations in existing settings, not a deliberate listening practice; outcomes are prejudice measures.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (K193 also revalidated clean after its related-concepts fix).
+
+## K246 — Self-monitoring (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Korotitsch & Nelson-Gray 1999 (Psychological Assessment 11(4):415-425), verified raw via curl of the grupoact.com.ar mirror PDF (933 KB, 11 pages), pypdf extraction; printed page numbers confirmed from running headers (PDF page 6 = printed 420). The APA PsycNet original is paywalled; mirror disclosed here.
+- All three blockquotes verified against the extracted raw text (de-hyphenated): the reactivity definition, the "fairly small but reliable" passage, and the prototypical-procedure list (a)-(f), all printed p. 420.
+- The seed's claim that observation "often begins the change" is downgraded honestly on the page: the review's reactive effects are called small, are documented mostly for clinical behaviors, and its maximal-reactivity conditions include motivation and goals, which this no-goal practice deliberately withholds; this is stated in "What this evidence does not test."
+- Protocol steps labelled as the compendium's practice form; step 2 ties recording-close-to-occurrence to the review's condition (e) rather than asserting a mechanism.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
