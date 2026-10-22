@@ -1,0 +1,470 @@
+[
+ {
+  "file": "qg_pd_cache/005.jpg",
+  "alt": "Blue Jays in Winter and Birds of Paradise in the Forest",
+  "link": "/images/ac819a37-d424-494d-add0-40899317ecf2",
+  "full": "https://images.pdimagearchive.org/collections/concealing-coloration/concealing-coloration-6.jpg",
+  "q": "bamboo",
+  "w": 1500,
+  "h": 1026
+ },
+ {
+  "file": "qg_pd_cache/006.jpg",
+  "alt": "Kimono design",
+  "link": "/images/a19c9e98-79c3-45bc-b123-3c1cf33646cc",
+  "full": "https://images.pdimagearchive.org/collections/unkindo-kimono-designs/yachigusav8ueno_0005.jpeg",
+  "q": "bamboo",
+  "w": 702,
+  "h": 976
+ },
+ {
+  "file": "qg_pd_cache/035.jpg",
+  "alt": "Water",
+  "link": "/images/e6bd090e-5448-4a5d-a322-ce91ad24db55",
+  "full": "https://images.pdimagearchive.org/collections/elements-and-temperaments-maerten-de-vos/water.jpg",
+  "q": "waves",
+  "w": 2448,
+  "h": 1992
+ },
+ {
+  "file": "qg_pd_cache/036.jpg",
+  "alt": "Kimono design",
+  "link": "/images/e2f6991d-c89e-490d-a6f2-787dd5d51707",
+  "full": "https://images.pdimagearchive.org/collections/unkindo-kimono-designs/yachigusav15ueno_0010.jpeg",
+  "q": "waves",
+  "w": 705,
+  "h": 982
+ },
+ {
+  "file": "qg_pd_cache/046.jpg",
+  "alt": "Snow-covered mountain (Mt. Fuji ) wreathed with clouds.",
+  "link": "/images/1d5f3535-a24a-4253-bce3-8045516c0a5b",
+  "full": "https://images.pdimagearchive.org/collections/herbert-geddes-life-in-japan/Snow-covered_mountain_(Mt._Fuji_)_wreathed_with_clouds;_low_ground_leading_down_to_water_in_foreground._(19955173811).jpg",
+  "q": "clouds",
+  "w": 1280,
+  "h": 1010
+ },
+ {
+  "file": "qg_pd_cache/049.jpg",
+  "alt": "Two men landing boat on beach.",
+  "link": "/images/fc846c5a-dedf-4899-ad4f-21565a3f1f29",
+  "full": "https://images.pdimagearchive.org/collections/herbert-geddes-life-in-japan/Two_men_landing_boat_on_beach._(19949920335).jpg",
+  "q": "clouds",
+  "w": 1280,
+  "h": 999
+ },
+ {
+  "file": "qg_pd_cache/061.jpg",
+  "alt": "A moonlight effect as seen from the balloon by M. Flammarion.",
+  "link": "/images/eb693f2c-1da6-4bcb-9c65-338ccee5f0c0",
+  "full": "https://images.pdimagearchive.org/collections/travels-in-the-air/travelsinair00flam_0227-edit.jpg",
+  "q": "clouds",
+  "w": 2457,
+  "h": 1602
+ },
+ {
+  "file": "qg_pd_cache/075.jpg",
+  "alt": "Orchid Blossoms",
+  "link": "/images/283ed236-a3b6-4f3a-bc07-799e5027756a",
+  "full": "https://images.pdimagearchive.org/collections/highlights-from-the-cleveland-museum-of-art-s-release-of-more-than-30k-images-of-public-domain-works/39975288263_bded8e51e0_c.jpg",
+  "q": "blossom",
+  "w": 645,
+  "h": 800
+ },
+ {
+  "file": "qg_pd_cache/076.jpg",
+  "alt": "Spring Morning in the Han Palace (detail)",
+  "link": "/images/7008bd36-d833-46bf-aa8a-0b675bc5726f",
+  "full": "https://images.pdimagearchive.org/collections/spring-morning-in-the-han-palace-17th-c/800px-Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_A.jpg",
+  "q": "blossom",
+  "w": 800,
+  "h": 460
+ },
+ {
+  "file": "qg_pd_cache/099.jpg",
+  "alt": "Eclipses and Phases of the Moon",
+  "link": "/images/47a22285-84a7-4756-8d60-41dc93ef334e",
+  "full": "https://images.pdimagearchive.org/collections/principles-of-light-and-color/principlesoflig00babb_0222.jpg",
+  "q": "moon",
+  "w": 1252,
+  "h": 2372
+ },
+ {
+  "file": "qg_pd_cache/108.jpg",
+  "alt": "Frontispiece to Fridtjof Nansen's *In Northern Mists: Arctic Exploration in Early Times*",
+  "link": "/images/a739b63d-bbf4-46da-b968-11ef2c262836",
+  "full": "https://images.pdimagearchive.org/collections/aurora-borealis-in-art/innorthernmistsa002nans_0008.jpg",
+  "q": "mist",
+  "w": 1748,
+  "h": 2476
+ },
+ {
+  "file": "qg_pd_cache/123.jpg",
+  "alt": "Little mountains raised in 1760 by the eruption of Mount Vesuvius, inland and offshore",
+  "link": "/images/934414b0-bceb-43b1-9a5b-c4ff1be3fb2b",
+  "full": "https://images.pdimagearchive.org/collections/campi-phlegraei/campi-phlegraei-13.jpg",
+  "q": "mountains",
+  "w": 1400,
+  "h": 747
+ },
+ {
+  "file": "qg_pd_cache/071.jpg",
+  "alt": "BORDERLINE: 600x601, below 640px threshold",
+  "full": "https://images.pdimagearchive.org/collections/visualising-bubbles/soap-bubble-21.jpg",
+  "q": "blossom",
+  "w": 600,
+  "h": 601,
+  "note": "idx 71 not in validated list; 600x601. Decide: slight upscale or drop."
+ },
+ {
+  "file": "qg_pd_cache/b_000.jpg",
+  "alt": "Narihira and Nij\u014d no Tsubone at the Fuji River",
+  "link": "/images/d509f085-2e72-4425-8e01-e32dbbdba88c",
+  "full": "https://images.pdimagearchive.org/collections/sketches-by-yoshitoshi-1882/8577909216_89b2de3385_c.jpg",
+  "q": "fuji",
+  "w": 800,
+  "h": 605
+ },
+ {
+  "file": "qg_pd_cache/b_002.jpg",
+  "alt": "Kites flying over old Edo during a festival in early spring",
+  "link": "/images/6bb58cd5-6ee6-4b43-9a83-e8198a9ac3ce",
+  "full": "https://images.pdimagearchive.org/collections/art-of-kite-flying/kite-flying-00025.jpg",
+  "q": "fuji",
+  "w": 3508,
+  "h": 2412
+ },
+ {
+  "file": "qg_pd_cache/b_003.jpg",
+  "alt": "Asakusa Hongan Temple in Edo",
+  "link": "/images/17062b70-d4c7-4fa9-bac8-79059e526155",
+  "full": "https://images.pdimagearchive.org/collections/art-of-kite-flying/kite-flying-00041.jpg",
+  "q": "fuji",
+  "w": 8984,
+  "h": 6190
+ },
+ {
+  "file": "qg_pd_cache/b_013.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/9c6f205a-7ec0-4667-8f73-1dabb328a201",
+  "full": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c4.jpg",
+  "q": "hokusai",
+  "w": 3228,
+  "h": 2252
+ },
+ {
+  "file": "qg_pd_cache/b_021.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/6c597ad0-9867-4105-aa04-dd4c2d84bcd0",
+  "full": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c19.jpg",
+  "q": "hokusai",
+  "w": 3236,
+  "h": 2212
+ },
+ {
+  "file": "qg_pd_cache/b_025.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/6622ffdd-e177-4790-9ed5-e1e24e4f6406",
+  "full": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c7.jpg",
+  "q": "hokusai",
+  "w": 3212,
+  "h": 2224
+ },
+ {
+  "file": "qg_pd_cache/b_026.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/5eaec654-8af3-4a4c-a54e-7d0488fa996e",
+  "full": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c11.jpg",
+  "q": "hokusai",
+  "w": 3240,
+  "h": 2236
+ },
+ {
+  "file": "qg_pd_cache/b_028.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/593a785e-936e-4cf0-9c13-8581d88168b9",
+  "full": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c1.jpg",
+  "q": "hokusai",
+  "w": 3244,
+  "h": 2240
+ },
+ {
+  "file": "qg_pd_cache/b_035.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/3857b986-53c9-4e14-9bb4-22a93e1e168c",
+  "full": "https://images.pdimagearchive.org/collections/hokusai-warriors/hokusai-c22.jpg",
+  "q": "hokusai",
+  "w": 3228,
+  "h": 2220
+ },
+ {
+  "file": "qg_pd_cache/b_050.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/a697d621-c4e5-4b23-9ca5-99927ca9111a",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/44711800391_f06d0dfa25_o.jpg",
+  "q": "wave design",
+  "w": 1339,
+  "h": 977
+ },
+ {
+  "file": "qg_pd_cache/b_051.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/a061f65e-a591-46c6-86e5-e8ed4627b969",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994123754_b84e5a89b0_o.jpg",
+  "q": "wave design",
+  "w": 1351,
+  "h": 980
+ },
+ {
+  "file": "qg_pd_cache/b_052.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/910856a9-1fce-47c6-baa5-83fd87ed2264",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803034805_153d7379fa_o.jpg",
+  "q": "wave design",
+  "w": 1410,
+  "h": 978
+ },
+ {
+  "file": "qg_pd_cache/b_053.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/8ec1e9f7-25c1-4f93-962b-e0f5fa36e819",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994126084_c017a133e0_o.jpg",
+  "q": "wave design",
+  "w": 1359,
+  "h": 963
+ },
+ {
+  "file": "qg_pd_cache/b_054.jpg",
+  "alt": "Chinese (Detail)",
+  "link": "/images/8ec1c2e7-92f2-4ec0-bf33-8e2ec7c7f62e",
+  "full": "https://images.pdimagearchive.org/collections/albert-racinet-s-l-ornement-polychrome-1869-73/43216769341_fa071b31f9_c.jpg",
+  "q": "wave design",
+  "w": 800,
+  "h": 797
+ },
+ {
+  "file": "qg_pd_cache/b_055.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/7ecd937c-acc3-41e4-9a63-3efa2d3262c6",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803031265_c5c79f217e_o.jpg",
+  "q": "wave design",
+  "w": 1386,
+  "h": 966
+ },
+ {
+  "file": "qg_pd_cache/b_056.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/3204085c-2257-417a-888a-59d8ad5e585b",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803040365_cd1fea78fd_o.jpg",
+  "q": "wave design",
+  "w": 1396,
+  "h": 976
+ },
+ {
+  "file": "qg_pd_cache/b_057.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/31be78c6-4266-4414-af75-67b6cc208810",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/44662902712_5a6a54f0de_o.jpg",
+  "q": "wave design",
+  "w": 1384,
+  "h": 966
+ },
+ {
+  "file": "qg_pd_cache/b_058.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/2f284a01-73c7-4788-a998-b9e54edaec35",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994120514_9cf3df4d11_o.jpg",
+  "q": "wave design",
+  "w": 648,
+  "h": 969
+ },
+ {
+  "file": "qg_pd_cache/b_059.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/1f2094a4-1852-4efd-8bc2-acdf822b0ad1",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803038685_4ff14826cc_o.jpg",
+  "q": "wave design",
+  "w": 668,
+  "h": 963
+ },
+ {
+  "file": "qg_pd_cache/b_060.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/15c42152-81ae-46fc-9819-4b87119225da",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994125164_f5915fca91_o.jpg",
+  "q": "wave design",
+  "w": 1345,
+  "h": 964
+ },
+ {
+  "file": "qg_pd_cache/b_061.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/124bc9e3-b4a6-4cab-bf61-14aca0d35152",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/30841404218_a93139bd5d_o.jpg",
+  "q": "wave design",
+  "w": 670,
+  "h": 982
+ },
+ {
+  "file": "qg_pd_cache/b_062.jpg",
+  "alt": "Image thumbnail",
+  "link": "/images/10cc3422-6673-48f1-a24a-3344e85685f1",
+  "full": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/44662899742_2ac90f2057_o.jpg",
+  "q": "wave design",
+  "w": 668,
+  "h": 964
+ },
+ {
+  "file": "qg_pd_cache/b_097.jpg",
+  "alt": "Kintar\u014d Riding the Carp",
+  "link": "/images/180583e8-ba8c-4227-aa2c-591caa8446ca",
+  "full": "https://images.pdimagearchive.org/collections/sketches-by-yoshitoshi-1882/8577909576_45b8a7a103_c.jpg",
+  "q": "carp",
+  "w": 800,
+  "h": 604
+ },
+ {
+  "file": "qg_pd_cache/b_098.jpg",
+  "alt": "Carp Swimming Against a Waterfall",
+  "link": "/images/17516964-6f84-44aa-9ea6-97d7ac9927d9",
+  "full": "https://images.pdimagearchive.org/collections/utagawa-hiroshige-last-great-master-of-ukiyo-e/40962681534_356c9daaef_b.jpg",
+  "q": "carp",
+  "w": null,
+  "h": null
+ },
+ {
+  "file": "qg_pd_cache/b_099.jpg",
+  "alt": "Le Ferrugineux, Le Tettard, Le Frangirouge",
+  "link": "/images/fef56106-943b-4548-8864-12cb98982af7",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0105.jpg",
+  "q": "carp",
+  "w": 2544,
+  "h": 3008
+ },
+ {
+  "file": "qg_pd_cache/b_100.jpg",
+  "alt": "Le Nigricant, L'aurore",
+  "link": "/images/f031ca76-8a5e-4103-91bb-664912023652",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0109.jpg",
+  "q": "carp",
+  "w": 2544,
+  "h": 3020
+ },
+ {
+  "file": "qg_pd_cache/b_101.jpg",
+  "alt": "L'arlequin",
+  "link": "/images/ec846a03-17f4-4c2c-a098-b4e32d913e6d",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0193.jpg",
+  "q": "carp",
+  "w": 2636,
+  "h": 3400
+ },
+ {
+  "file": "qg_pd_cache/b_102.jpg",
+  "alt": "L'albatre, La Roussette, Le Mul\u00e2tre",
+  "link": "/images/e01ec359-abbb-4e5b-872f-64289f0973f6",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0209.jpg",
+  "q": "carp",
+  "w": 2524,
+  "h": 2988
+ },
+ {
+  "file": "qg_pd_cache/b_103.jpg",
+  "alt": "Le Robino, Le Sombrun",
+  "link": "/images/d9c60f3e-37b7-4bbd-8747-0100347665f4",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0205.jpg",
+  "q": "carp",
+  "w": 2532,
+  "h": 3008
+ },
+ {
+  "file": "qg_pd_cache/b_104.jpg",
+  "alt": "Le Rougissant",
+  "link": "/images/d89e194d-be2c-43c7-96b4-458afb30d811",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0169.jpg",
+  "q": "carp",
+  "w": 2700,
+  "h": 3262
+ },
+ {
+  "file": "qg_pd_cache/b_105.jpg",
+  "alt": "Le Souci, La Capucine",
+  "link": "/images/d591620d-e6ab-4c90-bf6a-9aeb6bca3e7e",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0049.jpg",
+  "q": "carp",
+  "w": 2599,
+  "h": 3068
+ },
+ {
+  "file": "qg_pd_cache/b_106.jpg",
+  "alt": "Le Rouge-lys, Le Vari\u00e9",
+  "link": "/images/c00b7d3d-e2df-4f7b-8c06-fa737bff8abe",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0185.jpg",
+  "q": "carp",
+  "w": 2544,
+  "h": 3012
+ },
+ {
+  "file": "qg_pd_cache/b_107.jpg",
+  "alt": "Le Quintebande, Le Norimembre",
+  "link": "/images/967435bb-3961-4bd1-8e50-5c9fa45da3ad",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0101.jpg",
+  "q": "carp",
+  "w": 2552,
+  "h": 3040
+ },
+ {
+  "file": "qg_pd_cache/b_108.jpg",
+  "alt": "Le Rubis, Le Taches-mine",
+  "link": "/images/94deb40a-5347-45fa-9673-a7ad5d6b4795",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0117.jpg",
+  "q": "carp",
+  "w": 2524,
+  "h": 3032
+ },
+ {
+  "file": "qg_pd_cache/b_109.jpg",
+  "alt": "Le Bleuissant, Le semiblanc",
+  "link": "/images/77664157-b125-40f5-abbe-e71a74fc46a8",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0201.jpg",
+  "q": "carp",
+  "w": 2528,
+  "h": 2988
+ },
+ {
+  "file": "qg_pd_cache/b_110.jpg",
+  "alt": "Le Cr\u00e9ole, Le Frangimine",
+  "link": "/images/6fab84f0-dbb1-4f9c-bf9c-dffe71d61763",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0177.jpg",
+  "q": "carp",
+  "w": 2528,
+  "h": 3000
+ },
+ {
+  "file": "qg_pd_cache/b_111.jpg",
+  "alt": "Le Rouill\u00e9, Le Cerise, Le L\u00e9opard",
+  "link": "/images/65813248-b77b-40b9-9c25-81eaede0c47a",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0133.jpg",
+  "q": "carp",
+  "w": 2564,
+  "h": 3056
+ },
+ {
+  "file": "qg_pd_cache/b_113.jpg",
+  "alt": "Le Rubis-mouche, Le Nuageux",
+  "link": "/images/49730a56-df7b-4bfc-923d-dd08315c3aa0",
+  "full": "https://images.pdimagearchive.org/collections/chinese-fishes/histoirenaturell00bill_0093.jpg",
+  "q": "carp",
+  "w": 2532,
+  "h": 3044
+ },
+ {
+  "file": "qg_pd_cache/b_114.jpg",
+  "alt": "Gave Out a Grave, Concentrated Note",
+  "link": "/images/42346ed8-0382-4efa-94b2-849d117712c0",
+  "full": "https://images.pdimagearchive.org/collections/weird-islands/weird-islands-00003.jpeg",
+  "q": "carp",
+  "w": 1758,
+  "h": 1905
+ }
+]
