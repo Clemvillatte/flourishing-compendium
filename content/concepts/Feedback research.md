@@ -7,7 +7,13 @@ file: "Feedback research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-timing and framing determine whether feedback helps or harms (Kluger and DeNisi, 1996).
+Feedback research studies when telling someone how they did helps, and when it backfires. The field's most cited result belongs to Kluger and DeNisi's 1996 meta-analysis: feedback interventions improved performance on average (d = .41) while more than a third of them decreased it, so the question shifts from whether feedback works to which kind.
+
+> "The central assumption of FIT is that FIs change the locus of attention among 3 general and hierarchically organized levels of control: task learning, task motivation, and meta-tasks (including self-related) processes. The results suggest that FI effectiveness decreases as attention moves up the hierarchy closer to the self and away from the task." — [Kluger & DeNisi, Psychological Bulletin 119(2) (1996), 254–284, abstract](https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/)
+
+### Why timing and framing matter
+
+The attention account explains the older framing findings: feedback that steers attention to the work, specific, task-directed, tied to a goal, tends to help, while feedback that makes the receiver watch themselves, rank themselves or defend themselves tends to cost performance even when the information is accurate. That is the hinge both linked principles turn on: praise and blame work as instruments when they point at the task, and speech tested before it leaves is feedback aimed at the work rather than at the speaker.
 
 ## Other formulations in this library
 
@@ -20,6 +26,8 @@ timing and framing determine whether feedback helps or harms (Kluger and DeNisi,
 - [[Self-verification theory (Swann)]] — the theory predicts feedback is accepted insofar as it matches existing self-views
 ## Sources
 
+- [Kluger, A. N. & DeNisi, A., The effects of feedback interventions on performance, Psychological Bulletin 119(2) (1996), 254–284 — abstract via the Hebrew University research portal](https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/) — FIT attention claims quoted above
+- [Wiliam, D., Formative assessment in mathematics (2011), UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/1507217/1/Wiliam2011What2.pdf) — review of the meta-analysis's screening and moderator findings
 - Kluger and DeNisi, 1996
 
 ## Cited in psychology parallels

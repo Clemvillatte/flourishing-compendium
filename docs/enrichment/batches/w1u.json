@@ -38,7 +38,10 @@
   "Experiential grounding",
   "Experiential values",
   "Experimental reform",
-  "Expression as construction"
+  "Expression as construction",
+  "Feedback intervention research",
+  "Feedback research",
+  "Feedback intervention theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -49,9 +52,12 @@
   "Creative self-efficacy": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; the OpenAlex stray-parenthesis fragment now paraphrased rather than quoted; slogan-like closer removed; measurement caveat verbatim from opened Haase et al. 2018",
   "Cosmopolitan care": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): round-1 repairs stand; Held material re-verified this session against the opened Held 2006 book (open PDF copy, voidnetwork.gr) - the scaling-up argument and the p.168 concluding sentence quoted directly from the book, IEP carrier dropped; Oxford Academic book abstract re-verified",
   "Deautomatization": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): all deikman.com quotes re-verified verbatim against Wayback Machine archived copies of the author-site pages (deautomat/experimental/implications), opened this session; proposal framing grounded on the full 1966 opening sentence; conclusion paragraph added as grounded prose top-up; restructuring per spec",
-  "Expression as construction": "fast-track §1a (deg 2): Dewey Art as Experience ch. IV passages quoted verbatim from full-text carrier (narod.ru mirror, opened and verified); construction-in-time passage + boiling-over/discharge distinction; Related line added for Doing and undergoing; saturation otherwise skipped per §1a"
+  "Expression as construction": "fast-track §1a (deg 2): Dewey Art as Experience ch. IV passages quoted verbatim from full-text carrier (narod.ru mirror, opened and verified); construction-in-time passage + boiling-over/discharge distinction; Related line added for Doing and undergoing; saturation otherwise skipped per §1a",
+  "Feedback intervention research": "fast-track §1a: Kluger & DeNisi 1996 quotes verified verbatim against opened HUJI abstract page; p.255 definition and screening figures via opened Wiliam 2011 UCL PDF; validator ok",
+  "Feedback research": "fast-track §1a: Kluger & DeNisi 1996 quotes verified verbatim against opened HUJI abstract page; p.255 definition and screening figures via opened Wiliam 2011 UCL PDF; validator ok; humanizer staging-pattern ERR fixed",
+  "Feedback intervention theory": "theory-page skeleton applied (definition with theorist quote via Wiliam; origin; core claims in authors words from abstract; functional how-it-explains; marked illustrative example; 4 Related lines): fast-track §1a: Kluger & DeNisi 1996 quotes verified verbatim against opened HUJI abstract page; p.255 definition and screening figures via opened Wiliam 2011 UCL PDF; validator ok"
  },
  "missing_concepts": [],
- "sources_checked": 1,
- "updated": "2026-10-22T14:01:57+00:00"
+ "sources_checked": 3,
+ "updated": "2026-10-22T14:04:20+00:00"
 }
