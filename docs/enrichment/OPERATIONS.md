@@ -636,3 +636,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   checked against the archived Taylor & Francis abstract page (the live page
   bot-walls scripts; archive copy opened): verbatim. Sample PASS. Forty-one samples
   this session, all PASS.
+- Supervisor verification sample 42 (2026-10-22 ~16:38 UTC): Range-frequency theory
+  (random finished-band draw, w1p) — the Parducci basic-notion quote checked against
+  the opened Europe PMC full text (PMC3216058): verbatim. Sample PASS. Forty-two
+  samples this session, all PASS.
