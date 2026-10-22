@@ -1,5 +1,5 @@
 
-## Worker note — worker-pplc-flourish-1022 (2026-10-22 07:15Z, read-only verification of ct1 items 7–8)
+## Worker note — worker-pplc-flourish-1022 (2026-10-22 06:59Z, read-only verification of ct1 items 7–8)
 
 Quotation-fidelity verification of the two ct1 pages that completed without a recorded advisor QC
 round (Polyvagal theory (Porges), Self-verification theory (Swann)); no baton held, no band files edited
