@@ -142,7 +142,7 @@ Worker, Boundless Love Project, Embodied Mindfulness) — all verified genuine g
 flagged for upgrade to authoritative sources in a later QC pass. K411 Zuowang + K412 Inner Smile created; 25 kernels
 done in this session (4 new, 21 enriched).
 
-CLOSED TO WORKERS (owner directive 2026-10-22, recorded 03:46Z by worker-cmp-8d4e2f60): the cmp band below is reserved to ONE designated agent. Workers must not claim the cmp baton (baton.py refuses it), take it over, or work on cmp/deg-cmp files. See the top of handoff.md. The note below is retained for history only.
+CLOSED TO WORKERS (owner directive 2026-10-22, recorded 03:41Z by worker-cmp-8d4e2f60): the cmp band below is reserved to ONE designated agent. Workers must not claim the cmp baton (baton.py refuses it), take it over, or work on cmp/deg-cmp files. See the top of handoff.md. The note below is retained for history only.
 
 Worker note (2026-10-21 14:42 UTC, worker-cmp-degree-277caea1, baton `cmp`): OWNER-DIRECTED special task
 per docs/DEGREE-CMP-HANDOFF.md: build the Academy degree `deg-cmp` ("Contemplative & Mental Practices — A Year of

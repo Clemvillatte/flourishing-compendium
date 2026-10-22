@@ -1,13 +1,13 @@
 {
  "baton": "cmp",
  "agent": "OWNER-RESERVED",
- "clocked_in": "2026-10-22T03:43:00+00:00",
+ "clocked_in": "2026-10-22T03:41:20+00:00",
  "closed": true,
  "closed_reason": "Owner directive 2026-10-22: the contemplative project (cmp) has ONE designated agent; the cmp baton is CLOSED to all workers. Do not claim, take over, or work this band. Supervisor force-release clears this flag.",
  "takeovers": [
   {
    "by": "OWNER-DIRECTIVE-2026-10-22",
-   "at": "2026-10-22T03:43:00+00:00",
+   "at": "2026-10-22T03:41:20+00:00",
    "from": "worker-cmp-8d4e2f60",
    "reason": "owner: cmp closed to all workers; single designated contemplative agent only"
   },
