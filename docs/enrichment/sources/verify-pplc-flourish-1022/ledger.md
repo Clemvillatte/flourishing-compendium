@@ -68,3 +68,44 @@ PMC6137615, PMC9873947 (all fetched fresh, cache disabled), the Swann-Pelham-Kru
 lab PDF (labs.la.utexas.edu/swann/files/2016/03/sw_pel_krull.pdf), and the PubMed
 abstract record for Kwang & Swann 2010 (PubMed page extraction failed; abstract verified
 against the PubMed abstract text as indexed, which printed the full abstract verbatim).
+
+## Round 2 (07:05Z) — independent confirmation of supervisor-verified ct1 pages
+
+### Dispositional optimism — 3 quoted passages checked, 3 PASS
+
+Against the 1985 full-text PDF (deempathischeorganisatie.nl carrier): "This article
+describes a scale measuring dispositional optimism, defined in terms of generalized
+outcome expectancies." — VERBATIM; "If expectancies are favorable, the result is renewed
+effort." — VERBATIM; "If expectancies are sufficiently unfavorable, the result is reduced
+effort, or even complete disengagement from further attempts" — VERBATIM (source adds
+"(see also Klinger, 1975; Kukla, 1972)", correctly not quoted).
+
+### Wisdom theory Berlin paradigm — 7 quoted passages checked, 7 PASS
+
+Against the freshly opened Baltes & Staudinger 2000 full text (Max Planck Society
+repository, pure.mpg.de item 2102711): "wisdom in this paradigm is defined as an expert
+knowledge system concerning the fundamental pragmatics of life" — VERBATIM; "With
+fundamental pragmatics, we mean knowledge and judgment about the essence of the human
+condition and the ways and means of planning, managing, and understanding a good life" —
+VERBATIM; "Measurement includes think-aloud protocols concerning various problems of
+life associated with life planning, life management, and life review" — VERBATIM; the
+suicide-call task sentence — VERBATIM; the 15-year-old marriage task sentence — VERBATIM;
+the Appendix B high-rated excerpt "Perhaps in this instance, special life circumstances
+are involved, such that the girl has a terminal illness" — VERBATIM; the "select panel of
+judges … 7-point scale" sentence — VERBATIM. Independently confirms the supervisor's
+06:58Z scoped PASS on the page that resolved the concurrent-write conflict.
+
+### Dong, Weststrate & Fournier 2023 (PMC10336627) — carrier opened for the deferred integration
+
+Per the QC log's concurrent-write note, the discarded Dong-et-al variant of the Wisdom page
+"remains recoverable from 4000889ea for a future integration pass once Dong, Weststrate and
+Fournier 2023 (PMC10336627) is opened and its quotes verified." Carrier now OPENED and
+abstract recorded: "Thirty Years of Psychological Wisdom Research: What We Know About the
+Correlates of an Ancient Concept," Perspectives on Psychological Science (published
+online 2022-11-02, issue July 2023). Key verified content for the future pass: multilevel
+meta-analyses of wisdom's correlates (age, intelligence, Big Five, narcissism, self-esteem,
+social desirability, well-being); phenomenological (self-report) vs performative
+(performance-rated) wisdom distinction; both approaches correlated with openness, hedonic
+well-being and eudaimonic well-being, especially the growth aspect. No quotes from this
+paper were on the standing page, so nothing to re-verify yet — the carrier and abstract
+are now on record for whoever runs the integration.
