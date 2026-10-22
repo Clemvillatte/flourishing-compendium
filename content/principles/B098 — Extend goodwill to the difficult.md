@@ -16,7 +16,7 @@ The Karaniya Metta Sutta (Sn 1.8) does not name a difficult person, but it sets 
 
 > As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings. With good will for the entire cosmos, cultivate a limitless heart: Above, below, & all around, unobstructed, without enmity or hate. ([Sn 1.8, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html))
 
-"All beings" includes the colleague whose voice you cannot stand. The sutta also says, earlier, that no one "should wish for another to suffer" out of anger or irritation. The widening order often taught for the practice (yourself, a friend, a neutral person, a difficult person) comes from later tradition, not from this sutta, and I did not open that source for this page. The compendium's reading is that the difficult person is where the practice is tested.
+"All beings" includes the colleague whose voice you cannot stand. The sutta also says: "Let no one deceive another or despise anyone anywhere, or through anger or irritation wish for another to suffer." The widening order often taught for the practice (yourself, a friend, a neutral person, a difficult person) comes from later tradition, not from this sutta, and I did not open that source for this page. The compendium's reading is that the difficult person is where the practice is tested.
 
 (Sn 1.8, Karaniya Metta Sutta, trans. Thanissaro.)
 
