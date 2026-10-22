@@ -572,3 +572,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   the "nothing particularly Buddhist" passage) checked against the opened full-text
   PDF (the page's own carrier): all verbatim. Sample PASS. Twenty-nine samples this
   session, all PASS.
+- Supervisor verification sample 30 (2026-10-22 ~15:57 UTC): Forgiveness (random
+  finished-band draw, w1b) — all four Arendt Human Condition quotes checked against
+  the opened CUNI PDF (the page's own carrier): all verbatim (the first begins
+  mid-sentence in the source; lowercase opening is correct fragment convention).
+  Sample PASS. Thirty samples this session, all PASS.
