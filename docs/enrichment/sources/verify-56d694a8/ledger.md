@@ -539,3 +539,9 @@ Round 60: 1 page, 1 quoted passage verified, no defects.
 ## Session close (T+56)
 
 Final state: 60 rounds recorded in this ledger segment; all work committed and pushed to origin/main via api_push.py throughout; all repairs validated (0 failures across the session); maintenance baton to be released at T+58.
+
+## Round 61
+
+1. **Assertiveness research** — the Ames & Flynn passage VERIFIED verbatim via the opened APA press release; note the carrier itself prints "chocking" (the source's own typo), which the page faithfully reproduces — correct verbatim practice, not a defect. PASS.
+
+Round 61: 1 page, 1 quoted passage verified, no defects.
