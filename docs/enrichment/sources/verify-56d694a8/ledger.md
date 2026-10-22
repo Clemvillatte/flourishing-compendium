@@ -396,3 +396,10 @@ Round 38: 1 page closed, 1 routed item clarified.
 1. **The ethical** — routed items clarified: (a) the "aesthetical in man" passage — the cited carrier (PhilArchive paper) itself prints "whereby he becomes what he become", i.e. the carrier has the typo and the page's "becomes what he becomes" matches the standard Hong & Hong translation; recommendation for the supervisor: re-point the citation to a Hong-based carrier (e.g., a published Either/Or excerpt) rather than change the page's wording. (b) the "I choose absolutely" passage — confirmed on two looser re-fetches that it is not in the cited PhilArchive PDF; the citation needs a new carrier (the passage is from Either/Or II, the "either/or" choice essay).
 
 Round 39: citation guidance recorded for the supervisor; no page changes.
+
+## Round 40
+
+1. **Somatic experiencing (Levine)** — CLOSED: the Waking the Tiger figure-eight passage's third sentence ("By moving between these vortices...") VERIFIED on a third, looser fetch of the opened SuperSummary page (the two earlier misses were extraction failures). All three quoted passages on the page are now verified. PASS (complete).
+2. **Social dominance theory** — the Pratto Encyclopedia legitimizing-myths sentence VERIFIED via the opened Wiley entry (the carrier's "groupbased" is a PDF-extraction artifact; the page's hyphenated form is correct). Three ROUTED items: the two Sidanius & Pratto 1999 p. 45 passages ("divine rights of kings"; "said to deserve") were not located in the cited Lausanne paper, and the Sidanius & Pratto 2001 passage was not located in the cited Emerald article — both carriers are large documents where extraction misses are possible; the next verify worker should re-check with looser prompts before treating them as defects.
+
+Round 40: 1 page closed, 1 quote verified, 3 routed items.
