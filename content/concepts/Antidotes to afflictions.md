@@ -7,13 +7,11 @@ file: "Antidotes to afflictions"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-In the Buddhist tradition, each affliction has a counter that dissolves it: patience for anger, generosity for craving, wisdom for delusion. Santideva's sixth chapter treats anger at length as the affliction whose antidote, patience, must be cultivated deliberately.
+In Santideva's Bodhicaryavatara, patience is presented as the counter to anger, the affliction the sixth chapter treats at most length. The chapter's opening verses weigh the two against each other.
 
 > "As no negative force resembles anger, and no trial resembles patience, I shall therefore meditate on patience, with effort and in various ways." — Santideva, Bodhicaryavatara, ch. 6, v. 2 ([translation](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html))
 
-The exchange works by substitution rather than suppression. A single moment of hatred can devastate eons of accumulated merit, so the practitioner installs the opposing state instead of fighting the affliction head-on. Santideva also argues that suffering itself can serve as an antidote to arrogance, since it ripens into compassion for others in the same predicament.
-
-The Tibetan tradition develops this scheme in its own volumes; the principle in both is that negative states are countered with their opposites.
+Santideva warns that one moment of hatred can devastate merit amassed over thousands of eons, and that a mind hosting the thorn of anger finds no peace, sleep or stability ([ch. 6, vv. 1, 3](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)). He also lists advantages to suffering: with agony, arrogance disappears, compassion grows for those in recurring samsara, and negative conduct is shunned ([ch. 6, v. 21](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)).
 
 ## Sources
 

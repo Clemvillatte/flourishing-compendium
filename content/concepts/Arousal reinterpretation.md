@@ -8,13 +8,11 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Arousal reinterpretation is a reappraisal strategy for pre-performance anxiety. Alison Wood Brooks tested it across karaoke singing, public speaking and math tasks, finding that labelling anxious arousal as excitement outperforms trying to calm down.
+Arousal reinterpretation is a reappraisal strategy for pre-performance anxiety. Alison Wood Brooks tested it across karaoke singing, public speaking and math tasks, finding that labelling anxious arousal as excitement outperforms trying to calm down ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)).
 
 > "Compared to those who attempt to calm down, individuals who reappraise their anxious arousal as excitement feel more excited and perform better." — Brooks, abstract, Journal of Experimental Psychology: General, 2014 ([HBS](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869))
 
-The mechanism is arousal congruency. Anxiety and excitement are both high-arousal states, so the shift only requires changing the valence rather than the arousal level itself. Saying "I am excited" out loud moved participants toward an opportunity mindset instead of a threat mindset.
-
-The studies raised reported excitement and improved performance; reported anxiety did not fall. The technique works on the interpretation of arousal, not on its intensity.
+Brooks reports that brief self-talk such as saying "I am excited" helped participants adopt an opportunity mindset and improve their performance ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)). She interprets the findings as suggesting an important role for arousal congruency, the fact that anxiety and excitement are both high-arousal states ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)).
 
 ## Related concepts
 
@@ -31,7 +29,7 @@ The studies raised reported excitement and improved performance; reported anxiet
 
 ## Cited in philosophy parallels
 
-**Arousal reappraisal theory Brooks** — anxiety and excitement are physiologically similar; relabelling arousal as excitement improves performance under pressure.
+Arousal reappraisal theory Brooks — anxiety and excitement are physiologically similar; relabelling arousal as excitement improves performance under pressure.
 ## Field
 Affect · Psychological science
 [[AF003 — Learn the structure of your affect — valence and arousal]]

@@ -679,3 +679,10 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 
 - Quote opened source: Bodhicaryavatara ch. 6 v. 2 via the opened Buddhism and Healing translation page.
 - Verse 1 (hatred devastating merit) and v. 21 (advantages of suffering) also verbatim from the same opened page.
+
+## QC repair (advisor, items 4-7)
+
+- Affects: removed unopened claims (vocabulary-replacement history, desire/conatus sentence, joy/sadness terminology); restored Bennett gloss in D3 quote; pleasure/unpleasure definitions now quoted with locator; signals framing labelled as a reading.
+- Analytic vs holistic cognition: removed fundamental-attribution paragraph (not in opened abstract); social origins now attributed as the authors' speculation; namespace flagged in concept-namespace-audit.md.
+- Arousal reinterpretation: removed mechanism claims beyond the abstract (reported-anxiety-did-not-fall, rather-than-intensity); replaced with bounded abstract-supported summary; stripped bold from seed line; earlier ledger note about replication-snippet grounding retracted, that evidence was a search snippet, not an opened source.
+- Antidotes to afflictions: cut three-poisons generalisation (opened source covers anger/patience only), substitution mechanism, Tibetan paragraph and unverified quoted phrase; merit and suffering claims now attributed to Santideva with verse locators.
