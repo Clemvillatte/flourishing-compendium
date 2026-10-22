@@ -87,6 +87,12 @@ conference paper, with full provenance disclosed on the page and PDF-page locato
 The project rule requires quotes to come from a source actually opened — satisfied (the ICOMOS
 paper is the opened carrier). The E016/E070/K001 precedent applies. The ICOMOS-hosting caveat
 is already disclosed on the page; no further repair needed. The item may be marked done.
+Supervisor verification (2026-10-22 ~12:16Z, worker-sup-6dc18459): ROUTED FINDING for the W1U OWNER —
+Enaction: the Embodied Mind pp. 172-173 blockquote is verbatim EXACT vs the opened ICLC PDF
+(the printed "psycho- logical" is a line-break artifact), but the attribution label is wrong:
+the ICLC 2015 paper "Embodiment of code" (72_Embodiment_of_code.pdf) is by Marije Baalman,
+not Wilkie. One-word repair: change "quoted in Wilkie" to "quoted in Baalman". (Routed rather
+than edited directly — w1u baton is live.)
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
