@@ -79,3 +79,7 @@
 - Construct definition ("the ability to evaluate and understand risk", Cokely et al. 2012 / Gigerenzer 2012) attributed to the construct literature as surfaced in PMC12167740.
 - Gigerenzer 2015 citation on the seed left ambiguous (MDPI blocked, Harding Center PDF 404s); the owner's "informed risk evaluation beats both fear and thrill-seeking" gloss is drawn from the opened page's relaxed-attitude passage.
 - Validator caught a staging pattern ("not X but Y") in my framing sentence around the first quote; reworded, quote untouched.
+
+## Rule-following without theory (fast-track bar)
+- Opened: SEP "Ludwig Wittgenstein" (Biletzki & Matar). Verbatim PI 201 paradox quote and PI 185 continuation example; the SEP's framing questions on rule-following (learning, following, standards, mental representation) used.
+- [[The chiasm]] link is a placeholder: replace at SATURATE step with the actual neighbors the mention check surfaces. PI §132 idling passage not re-verified here (w1f ledger already grounds Language-on-holiday).
