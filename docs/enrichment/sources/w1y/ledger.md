@@ -117,3 +117,25 @@ Fast-track enrichment.
   (Experiment 3, availability section): first letters easier to
   retrieve than third letters.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-22 (UTC): Availability (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Availability.md (seed: Marcel, Being and
+  Having).
+- Opened source: Brian Treanor and Brendan Sweetman, "Gabriel
+  (-Honore) Marcel", Stanford Encyclopedia of Philosophy,
+  substantive revision September 13, 2026
+  https://plato.stanford.edu/entries/marcel/ (the disponibilite
+  section, quoting Marcel 1995 pp. 40-41 from Being and Having).
+- Verbatim blockquotes: the SEP definition of disponibilite, and the
+  Marcel 1995 p. 40 passage ("the person who is at my disposal is
+  the one who is capable of being with me with the whole of
+  himself when I am in need... For the one I am a presence; for the
+  other I am an object").
+- Synthesis grounded in the same opened passage: handiness of
+  resources, interconnected treatment of self and other, the
+  no-cases remark (Marcel 1995, p. 41), unavailability as the
+  impenetrable self.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.

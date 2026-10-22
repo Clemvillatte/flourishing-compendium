@@ -19,7 +19,8 @@
   "Authentic communication",
   "Authentic courage without props",
   "Authentic discourse",
-  "Availability heuristic"
+  "Availability heuristic",
+  "Availability"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,6 +29,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:07:02+00:00",
+ "updated": "2026-10-22T14:08:21+00:00",
  "band_done": false
 }
