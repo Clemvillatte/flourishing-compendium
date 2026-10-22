@@ -19,14 +19,15 @@
   "The interdependence of freedoms",
   "The ladder of love",
   "The layered soul",
-  "The laying on of hands"
+  "The laying on of hands",
+  "The invisible hand"
  ],
- "in_progress": "The invisible hand",
+ "in_progress": null,
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:06:57+00:00",
+ "updated": "2026-10-22T08:07:41+00:00",
  "band_done": false
 }
