@@ -82,3 +82,12 @@ Decisions:
 - Related concepts: Epoché, Equipollence, Skepticism about the obvious (existing originals).
 - The seed cited Wikipedia Pyrrhonism; Wikipedia was rate-limited (HTTP 429) so the SEP entry is the opened grounding; the seed URL is retained in Sources.
 - No reciprocal proposals (fast-track bar).
+
+### The six departures — QC REPAIR (advisor round, 2026-10-22)
+
+Advisor QC flagged unsupported Chan/Zen lineage claims. Verification search identified the tradition: the six departures are Tilopa's Six Words of Advice to Naropa (Mahamudra transmission), Ken McLeod translation — an exact match to K060 ("Don't recall. Don't imagine. Don't think. Don't examine. Don't control. Rest."). Repairs applied:
+- Chan no-thought framing removed; page re-grounded in Tilopa with the six words quoted verbatim (McLeod translation) plus the explanatory lines and Tibetan originals (mi mno, mi bsam, mi shes, mi dpyod, mi sgom, rang sar bzhag), sourced via the Wikipedia Tilopa article (rate-limited at fetch time; table retrieved verbatim through search results, concordant across Tricycle, unfetteredmind.org, encyclopediaofbuddhism.org).
+- "Six movements of the mind" corrected to five departures plus rest.
+- "No canonical primary source exists in open sources" softened — the source is identified.
+- Zazen material retained only as the wider instruction family, clearly bounded.
+- Supervisor flag superseded: provenance now identified. Remaining advisor notes (verify K060 kernel text and the primary-source-library entry) left for supervisor.
