@@ -137,3 +137,11 @@ Corrections from the final advisor verification round, applied:
   038 stays qc_pending).
 - Commit b693e557e's message says "15:40Z" but the observed reading for that save was
   15:38:15Z; recorded here rather than rewriting history.
+
+Carrier-only quotation audit completed (observed 15:44Z): every quoted span in all five drafts
+now traced to a carrier body — 035 (ACI + Writings PDF text layer), 036 (Grand Palais,
+Christie's re-fetched, Louisiana via absolutearts, MoMA), 037 (Guggenheim education PDF text
+layer, Guggenheim exhibition page re-fetched, Legge Tao Teh King re-fetched), 038 (ICR quotes
+page: fish quote and both 1927 Dudley quotes verbatim), 039 (Wallace translation HTML
+downloaded, Beethoven-Haus fetch). Four apparent misses were punctuation/accent artifacts;
+the 037 notebook quote is verbatim behind the PDF's two-column extraction interleave.
