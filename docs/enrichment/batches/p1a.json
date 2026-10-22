@@ -22,7 +22,6 @@
   "P073",
   "D087",
   "D055",
-  "D080",
   "D019",
   "D054",
   "E007",
@@ -32,11 +31,11 @@
   "A037",
   "A053"
  ],
- "in_progress": null,
+ "in_progress": "D080",
  "flagged": {
   "D087": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D087-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
   "D055": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D055-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
-  "D080": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D080-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
+  "D080": "Reopened for QC: Final quote audit: disclose publisher line-break hyphen normalisation",
   "D054": "SCOPED REPAIR AND ADVISOR QC COMPLETE. Protected statement compounds and reflection transformation guarantee need owner review; these protected fields were not edited. Inherited meditation dose-response reference not certified.",
   "D019": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D019-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
   "A053": "Reopened for QC: Final quote audit: separate citation metadata from quoted source sentence",
@@ -48,6 +47,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 41,
- "updated": "2026-10-22T12:25:23+00:00",
+ "updated": "2026-10-22T12:25:30+00:00",
  "band_done": false
 }
