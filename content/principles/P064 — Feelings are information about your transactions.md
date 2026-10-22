@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 64** — Feelings are information about your transactions
 
-Emotions are not inner decorations; they are the felt sense of how the organism-environment transaction is going. Read them as data about the situation, not as commands or verdicts.
+Emotions are the felt sense of how the organism-environment transaction is going. Read them as data about the situation, not as commands or verdicts.
 
 James states the reversal in the Principles of Psychology:
 

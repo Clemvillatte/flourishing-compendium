@@ -23,7 +23,7 @@ Dewey's account of deliberation in Human Nature and Conduct starts from blocked 
 The compendium's extension: the statement's "don't force a snap resolution" is a rule the compendium draws from Dewey's description; his text describes how deliberation works, and warns against choice by an impulse that "overrides all competitors", without stating a pacing rule.
 
 **Plain words**
-The stall is not dysfunction; it is the machine doing its work. Next time a decision hangs, run the competing movies to the end instead of forcing the coin-flip. One of the endings usually starts to feel like yours; that is the decision forming.
+The stall is the machine doing its work. Next time a decision hangs, run the competing movies to the end instead of forcing the coin-flip. One of the endings usually starts to feel like yours; that is the decision forming.
 
 *For example:* The compendium's hypothetical: the job offer tug-of-war, ambition pulling one way, family the other. Live each choice vividly for a week and watch which one gathers the rest of your life into it.
 

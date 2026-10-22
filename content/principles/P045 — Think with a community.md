@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 45** — Think with a community
 
-Peirce's essay "The Fixation of Belief" ends with the scientific method, but the essay's real conclusion is about who gets to check the answer. His formulation is stark: any man with sufficient experience and reason will be led to the one True conclusion — because reality does not change its behaviour based on individual opinion ([The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)). This makes thinking a public project, not a private one. The community of inquiry is not a peer-review nicety; it is the only mechanism by which an error you cannot see gets caught.
+Peirce's essay "The Fixation of Belief" ends with the scientific method, but the essay's real conclusion is about who gets to check the answer. His formulation is stark: any man with sufficient experience and reason will be led to the one True conclusion — because reality does not change its behaviour based on individual opinion ([The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief)). This makes thinking a public project, not a private one. The community of inquiry is the only mechanism by which an error you cannot see gets caught.
 
 Addams makes the same point from the ground. Twenty Years at Hull-House records her discovery that the settlement's plans for its neighbours kept failing until the neighbours were in the room ([Addams 1910, Gutenberg](https://www.gutenberg.org/ebooks/2396)). Thinking about people without them is not thinking — it is guessing dressed up as expertise.
 

@@ -18,7 +18,7 @@ The definition follows immediately, and it is one of the most quoted sentences i
 
 > "Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends, constitutes reflective thought." (John Dewey, How We Think, 1910, [Gutenberg](https://www.gutenberg.org/files/37423/37423-h/37423-h.htm))
 
-**Plain words** Having a hard week and having a hard week you learned from are two different events, and the difference is not the week. The unexamined version of you repeats the same mistake because nothing forced the lesson into words. The examined version compounds — the same mistake, named once, does not need to happen twice. This is not about being reflective by temperament; it is a schedule. Turn the experience over on purpose.
+**Plain words** Having a hard week and having a hard week you learned from are two different events, and the difference is not the week. The unexamined version of you repeats the same mistake because nothing forced the lesson into words. The examined version compounds — the same mistake, named once, does not need to happen twice. It is a schedule and does not depend on a reflective temperament. Turn the experience over on purpose.
 
 *For example:* Two people go through the same bad month at work. One complains about it and moves on. The other spends fifteen minutes on the last Friday writing down what actually went wrong and what they would do differently. A year later the second person has fifty small corrections applied; the first has had the same month twelve times.
 

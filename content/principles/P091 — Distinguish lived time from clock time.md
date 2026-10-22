@@ -19,7 +19,7 @@ Clock time is a grid of identical instants; lived duration is qualitative. Run y
 
 His term for the other thing is pure duration: "the form which the succession of our conscious states assumes when our ego lets itself live, when it refrains from separating its present state from its former states" (Bergson, Time and Free Will). His example of it is a tune: when we recall the notes of a tune, they are "melting, so to speak, into one another", and their totality "may be compared to a living being whose parts, although distinct, permeate one another". The clock counts positions; duration is the phrase. (Bergson, Time and Free Will, 1889.)
 
-**Plain words** The clock can give you the positions of the notes; it cannot give you the phrase. To hear a melody as a melody is to hear the notes that have already sounded together with the note now playing, and that hearing is what Bergson calls duration. The clock's report is not wrong; it is a report of a different thing.
+**Plain words** The clock can give you the positions of the notes; it cannot give you the phrase. To hear a melody as a melody is to hear the notes that have already sounded together with the note now playing, and that hearing is what Bergson calls duration. The clock's report is accurate, and it reports a different thing.
 
 *For example:* Take the passage's own demonstration: dwell too long on one note of a tune, and what tells you it is wrong is not the added length, which a clock could register, but the qualitative change caused in the whole of the musical phrase.
 

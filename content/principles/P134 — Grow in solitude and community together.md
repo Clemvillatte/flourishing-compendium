@@ -25,7 +25,7 @@ James gives solitude its own standing in his working definition of religion: "th
 The compendium's application: both phases are phases of growth, and a life can be scheduled to contain both.
 
 **Plain words**
-Dewey makes the person social to the root, and the same book tells adults not to trespass on the child's solitude. James counts experiences in solitude among the real ones. The two claims are not rivals; they name two phases. The compendium's exercise: look at this week's calendar and mark which hours are give and take and which are solitude, then check whether each phase has a place.
+Dewey makes the person social to the root, and the same book tells adults not to trespass on the child's solitude. James counts experiences in solitude among the real ones. The two claims name two phases. The compendium's exercise: look at this week's calendar and mark which hours are give and take and which are solitude, then check whether each phase has a place.
 
 *For example:*
 Consider the introvert who takes the lunch walk alone and joins the evening dinner. On the compendium's reading the walk is the untrespassed solitude and the dinner is the give and take of intercourse, and the schedule is what makes both real.

@@ -19,7 +19,7 @@ The ACT definition runs: values are "chosen, verbally constructed consequences o
 The compendium applies the distinction to the to-do list: "be a loving partner" cannot be ticked off, and the next hour is always available for it.
 
 **Plain words**
-A goal is a place; a value is a heading. You can finish a report, and you cannot finish being honest. The test of a value is that it can be acted on in the next hour, whatever this week's outcomes have been. That unfinishability is not a flaw; it is the design.
+A goal is a place; a value is a heading. You can finish a report, and you cannot finish being honest. The test of a value is that it can be acted on in the next hour, whatever this week's outcomes have been. That unfinishability is the design.
 
 *For example:* Suppose "be a loving partner" on a list next to "finish the report". As a modern application, the ACT distinction says one of these can be completed today and the other can only be practised today.
 

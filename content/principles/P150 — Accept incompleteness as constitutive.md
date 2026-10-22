@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Terrence Deacon's Incomplete Nature makes a technical-sounding point with a personal implication. The compendium cites it as a modern scientific parallel to the point below; this page does not quote Deacon, and his argument is on [his book's page](https://terrencedeacon.com/incomplete-nature).
 
-Dewey's version of the same point is moral rather than thermodynamic: growth is not something a person completes; it is something a person is doing. There is no state at which the growing person arrives and stops, which Dewey puts as "it has no end beyond itself" (quoted below). The two claims meet in a practical instruction: stop treating your current unfinished state as a temporary defect that must be fixed before life can begin.
+Dewey's version of the point is moral: growth is something a person is doing, and never something a person completes. There is no state at which the growing person arrives and stops, which Dewey puts as "it has no end beyond itself" (quoted below). The two claims meet in a practical instruction: stop treating your current unfinished state as a temporary defect that must be fixed before life can begin.
 
 > Since growth is the characteristic of life, education is all one with growing; it has no end beyond itself. ([Dewey, Democracy and Education, 1916, ch. 4, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 

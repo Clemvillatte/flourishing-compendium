@@ -28,7 +28,7 @@ The audit practice follows from the strands being distinct: since each is named 
 The design half rests on one word in Seligman's claim: buildable. If the strands respond to what is scheduled, then a week's calendar is not a neutral record of priorities but their approximate ranking. The audit question for each strand: did anything in the last seven days carry it, and is anything in the next seven scheduled to?
 
 **For example**
-A week with no meaningful conversations is not evidence about character; it is evidence about the calendar. Booking one recurring Thursday call is the design change that follows.
+A week with no meaningful conversations is evidence about the calendar. Booking one recurring Thursday call is the design change that follows.
 
 ## Related concepts
 

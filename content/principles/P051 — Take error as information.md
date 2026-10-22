@@ -13,7 +13,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 > **Principle 51** — Take error as information
 
-Peirce separates two mental states in "The Fixation of Belief." Belief is calm and satisfying; doubt is uneasy and dissatisfied, and it is doubt that pushes you to settle something. That discomfort is not a defect in the system; it is the mechanism that starts inquiry.
+Peirce separates two mental states in "The Fixation of Belief." Belief is calm and satisfying; doubt is uneasy and dissatisfied, and it is doubt that pushes you to settle something. That discomfort is the mechanism that starts inquiry.
 
 > The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle *inquiry*, though it must be admitted that this is sometimes not a very apt designation. (Peirce, "The Fixation of Belief," [Popular Science Monthly 12, 1877](https://www.peirce.org/writings/p107.html), section IV)
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 Deleuze's opening move in Difference and Repetition is to declare war on the most ordinary assumption in philosophy: that repetition is repetition of the same. He asks us to notice that when something truly repeats, something else has already changed — the state of the world, the agent, the context, the moment. "Repetition is not the same, it is not the same in each case" ([Deleuze 1968, Difference and Repetition, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/repetition-identity/)).
 
-Deleuze's target is not the boring habit; it is the dead habit. A practice repeated identically stops teaching; it becomes something you can do without noticing, which means it stops being something you are doing. The invitation is to keep the repetition and change what varies: same practice, fresh form.
+Deleuze's target is the dead habit. A practice repeated identically stops teaching; it becomes something you can do without noticing, which means it stops being something you are doing. The invitation is to keep the repetition and change what varies: same practice, fresh form.
 
 > "To repeat is to behave in such a way that... difference is not the same... The essence of repetition is to be found in the fact that the repetition is not the repetition of the same." (Gilles Deleuze, Difference and Repetition, 1968, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/repetition-identity/))
 

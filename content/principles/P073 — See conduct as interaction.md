@@ -21,7 +21,7 @@ The same section says the same thing from the other side: virtues and vices are 
 (Dewey, Human Nature and Conduct, 1922.)
 
 **Plain words**
-Your behavior is welded to your surroundings. Willpower works against everything already in place; the room, the schedule and the route home are the machinery the behavior runs on. Rearranging them is not cheating; it is the method Dewey is pointing at.
+Your behavior is welded to your surroundings. Willpower works against everything already in place; the room, the schedule and the route home are the machinery the behavior runs on. Rearranging them is the method Dewey is pointing at.
 
 *For example:* The jogger who wants to run but owns no shoes and sleeps badly has three places to work: the wanting, the couch habit, the shoes and the sleep. Dewey's point is that the third is a legitimate place to start, not a confession of weak will.
 
