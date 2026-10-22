@@ -67,9 +67,10 @@
   "Attentional bias theory MacLeod",
   "Autistic cognition: detail-focused processing",
   "State-matched emotion regulation",
-  "The analysis of experience into elements"
+  "The analysis of experience into elements",
+  "The quiet craftsman's life"
  ],
- "in_progress": "The quiet craftsman's life",
+ "in_progress": null,
  "flagged": {
   "Spontaneous right action": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): concept identity VERIFIED — the page body faithfully presents the tradition's teaching from the opened source (per the audit record and the w1g ledger's opened-carrier verification); the title is the compendium's heading, not the tradition's own term. Per the owner's namespace rule, keep-as-heading is not automatically permitted: the rename/merge decision (and its inbound-link effects) remains the OWNER's; consolidated in concept-namespace-audit.md. The QC-debt part of this flag is closed. [ORIGINAL: title pending supervisor disposition: compendium heading, not the tradition's term (zhixing heyi); flagged in concept-namespace-audit.md worker flags]",
   "The natural rhythm of warmth and cool": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): concept identity VERIFIED — the page body faithfully presents the tradition's teaching from the opened source (per the audit record and the w1g ledger's opened-carrier verification); the title is the compendium's heading, not the tradition's own term. Per the owner's namespace rule, keep-as-heading is not automatically permitted: the rename/merge decision (and its inbound-link effects) remains the OWNER's; consolidated in concept-namespace-audit.md. The QC-debt part of this flag is closed. [ORIGINAL: title pending supervisor disposition: compendium heading over a real Zhuangzi ch.6 image; flagged in audit worker flags]",
@@ -123,6 +124,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-22T08:21:38+00:00",
+ "updated": "2026-10-22T08:21:44+00:00",
  "band_done": false
 }
