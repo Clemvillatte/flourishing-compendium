@@ -962,7 +962,7 @@
    ]
   },
   "s1a-035": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D041 qingjing: Agnes Martin's stillness discipline",
    "history": [
     {
@@ -983,11 +983,16 @@
      "t": "2026-10-22T15:07:54+00:00",
      "to": "qc_pending",
      "note": "rewritten per advisor QC 1; quotes verbatim from opened carriers"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
     }
    ]
   },
   "s1a-036": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D160 slowest vessel: Matisse cut-outs",
    "history": [
     {
@@ -998,11 +1003,16 @@
      "t": "2026-10-22T15:09:31+00:00",
      "to": "qc_pending",
      "note": "draft complete; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
     }
    ]
   },
   "s1a-037": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "D186 hide your light: Hilma af Klint",
    "history": [
     {
@@ -1013,6 +1023,11 @@
      "t": "2026-10-22T15:14:09+00:00",
      "to": "qc_pending",
      "note": "draft complete; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
     }
    ]
   },
@@ -1032,7 +1047,7 @@
    ]
   },
   "s1a-039": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B109 examine fear: Beethoven testament",
    "history": [
     {
@@ -1043,9 +1058,14 @@
      "t": "2026-10-22T15:28:39+00:00",
      "to": "qc_pending",
      "note": "draft complete; awaiting advisor QC"
+    },
+    {
+     "t": "2026-10-22T15:34:26+00:00",
+     "to": "ready",
+     "note": "advisor QC passed; ready for supervisor review"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:28:39+00:00"
+ "updated": "2026-10-22T15:34:26+00:00"
 }
