@@ -229,3 +229,23 @@ p. 23):
 SUGGESTION (not a defect): the carrier is a blog quoting the book; if a scholarly or
 publisher carrier for Process and Reality is available, it would strengthen the Sources line.
 Quotes themselves match the canonical Process and Reality wording.
+
+## Round 9 (2026-10-22 ~12:25Z)
+
+### Dissonance reduction strategies (w1u, fast-track done)
+
+8 quoted passages checked, 8 PASS — all verified verbatim against fresh fetches of the cited
+panarchy.org Festinger excerpt: the hunger-comparison sentence, the elimination sentence, the
+behavioral-element sentence including its "simplest and easiest way" continuation, the
+stop-smoking example, the environment-change sentence, the adding-elements sentence, and the
+avoidance sentence. MINOR NOTE (Sources line): "Cooper, 2007" appears as bare text with no
+link; protocol prefers books without URLs to link to a verifiable location (publisher page or
+scholarly record). Not a quotation defect.
+
+### Verification in experience (w1t, fast-track done)
+
+2 quoted passages checked, 2 PASS — both verified verbatim, including James's characteristic
+capitalisation, against a fresh fetch of the cited Project Gutenberg Pragmatism Lecture VI
+text ("TRUE IDEAS ARE THOSE THAT WE CAN ASSIMILATE, VALIDATE, CORROBORATE AND VERIFY..." and
+"Truth HAPPENS to an idea. It BECOMES true, is MADE true by events... its veri-FICATION.").
+The cash-value framing is directly supported by the surrounding source text. No routed findings.
