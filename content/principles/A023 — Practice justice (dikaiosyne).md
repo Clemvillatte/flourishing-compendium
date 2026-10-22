@@ -12,18 +12,33 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 23** — Practice justice (dikaiosyne)
 
-The principle's definition of justice comes from NE V: Aristotle distinguishes justice as complete virtue toward others from the particular kinds, distributive and corrective.
+Aristotle's general account of justice concerns how virtue is exercised toward other people. He distinguishes it from particular questions of distribution and correction:
 
-> This form of justice, then, is complete virtue, but not absolutely, but in relation to our neighbour. And therefore justice is often thought to be the greatest of virtues, and 'neither evening nor morning star' is so wonderful; and proverbially 'in justice is every virtue comprehended'. (NE V, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html))
+> This form of justice, then, is complete virtue, but not absolutely, but in relation to our neighbour.
+> (Nicomachean Ethics V.1, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html).)
 
-The particular justice has two branches. Distributions of honour, money or the other divisible goods follow proportion, "and the unjust is what violates the proportion"; transactions between man and man are corrected by equality, where the judge "tries to equalize by means of the penalty, taking away from the gain of the assailant" (NE V). The principle's three questions (proportionate? fair? owed?) summarize those two branches.
+Distributive justice concerns shares of honour, money and other common goods. Its proportionality does not settle the relevant standard: V.3 records disagreement over whether merit means free status, wealth or excellence. Corrective justice instead considers an injury or wrongful gain and the equality to be restored ([V.2–4](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html)).
 
-(NE V.1-5.)
+The scholarly account in the Stanford Encyclopedia also notes unresolved questions about the scope and application of these structures. They are not interchangeable with every modern theory of justice ([Mark LeBar, §1.1](https://plato.stanford.edu/entries/justice-virtue/)).
 
-**Plain words**
-Aristotle splits fairness into two jobs. The first is dividing something up: pay, credit, places, honours. The fair division tracks proportion, not sameness. The second is repairing a transaction: if someone took more than their share or caused a loss, you even it out, whatever the two people's characters. Two different questions: what is proportional, and what is owed.
+### Plain words
 
-*For example:* Splitting a group project's credit by who did what is the first job; offering to redo a section you botched is the second.
+First ask what kind of problem you face. If you are dividing something, make the proposed basis of the shares explicit and examine its justification. If someone has suffered a wrongful loss, identify what correction is owed. Calling either arrangement fair does not supply the missing reasons.
+
+### For example
+
+Imagine a group allocating shared funds. One person proposes equal shares; another proposes shares based on need. That disagreement concerns the basis of distribution, not just arithmetic. Separately, if an accounting error pays one member another's agreed allocation, returning the mistaken payment is a correction. This is an illustration, not Aristotle's endorsement of either modern allocation proposal.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics V.1–4, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.5.v.html): general justice, distributive criteria and correction.
+- [Mark LeBar, "Justice as a Virtue", Stanford Encyclopedia of Philosophy, §1.1](https://plato.stanford.edu/entries/justice-virtue/): the scholarly interpretation and its unresolved questions.
+
+## Related concepts
+
+- [[Dikaiosyne]]: the virtue-word in this principle.
+- [[Justice]]: the broader philosophical comparison.
+- [[Procedural justice]]: fairness of procedure, a distinct question.
 
 ## Practice kernels
 
@@ -47,13 +62,14 @@ Aristotle splits fairness into two jobs. The first is dividing something up: pay
 - [[K365 — Public reasoning|K365 Public reasoning]]
 ## Psychology parallels
 
-- **[[Procedural justice|Procedural justice research]]**, perceived fairness of process predicts satisfaction and cooperation (Tyler, 2006)
-- **[[Moral foundations|Moral foundations theory]]**, fairness as a universal moral intuition (Haidt, 2012)
+- [[Procedural justice|Procedural justice research]] (Tyler, 2006)
+- [[Moral foundations|Moral foundations theory]] (Haidt, 2012)
 
 ## Philosophy parallels
 
 - **[[Justice|Justice as fairness]]** (Rawls, A Theory of Justice)
-- **[[The face|The face as ethical summons]]** (Levinas, Totality and Infinity)- **[[Dikaiosyne|Dikaiosyne]]** (Aristotelianism)
+- [[The face|The face as ethical summons]] (Levinas, Totality and Infinity)
+- [[Dikaiosyne|Dikaiosyne]] (Aristotelianism)
 
 
 <!-- fc: reflections
