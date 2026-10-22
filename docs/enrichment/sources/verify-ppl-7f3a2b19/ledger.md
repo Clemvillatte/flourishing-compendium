@@ -136,3 +136,34 @@ factual certification.
 
 Round totals: 3 pages sampled; 2 PASS, 1 defect repaired. w1ac baton released after this
 save. Still routed from round 2: Relational Frame Theory (PMC interstitial carrier).
+
+## Round-3 corrections and final QC pass (2026-10-22, measured 11:56:01Z; execution times of
+earlier notes in this ledger were estimates where not explicitly measured)
+
+1. REOPEN explanation corrected: for Reinterpretation of the past the plain validator FAILED
+   (prose 60 < 150, pre-existing — the page is fast-track eligible), so the shell `&&` chain
+   SKIPPED the reopen command; the following `done` then errored "already done; duplicate
+   work blocked". This was command sequencing, not a state-machine refusal. The item remains
+   done from the original w1ac work; no state change was needed.
+2. RECONCILIATION downgraded from PASS to PASS-WITH-UNRESOLVED-VARIANCE: the cited egreenway
+   carrier prints a comma after "does not," which the page omits; I called it a layout
+   artifact WITHOUT verifying that (the fetch noted the comma-free variant is attributed to
+   "Unbekannten" on the same page, not an established second Legge printing). Recorded as an
+   unresolved punctuation variance for the w1s/w1ac owner or supervisor; no page change.
+3. TRANSLATOR ATTRIBUTION DEFECT FOUND AND REPAIRED: the opened Gutenberg 52319 carrier is
+   the J. M. KENNEDY translation (title page: "Translated by J. M. Kennedy"), but the page
+   labeled the quotation "Zimmern translation" in both the blockquote citation and the
+   Sources row — the w1ac worker's attribution error. Both labels corrected to Kennedy
+   (commit 17fa23f5e); the quotation wording was already verbatim against this carrier.
+4. PASS scope narrowed: all rounds checked SELECTED QUOTATIONS (blockquotes and the inline
+   fragments extracted at sampling time), not every quotation on each page, and not
+   whole-page factual certification. Polanyi: all four quotations match apart from the
+   recorded mid-sentence capitalization variance.
+5. PROCESS EXCEPTION recorded: the Polanyi carrier-link correction on Tacit knowledge
+   research (the full-text-PDF relabel, commit pushed after the w1w release) was made
+   WITHOUT a live w1w baton claim — a parallel-rules violation on my part, recorded here;
+   the content change itself is verified sound.
+6. Fast-track eligibility for Reinterpretation of the past: its link-graph degree is well
+   under 15 (neighbors: 2 concepts, 1 kernel, few backlinks), so the fast-track bar applies
+   and the pre-existing 60-word prose count is not a defect introduced by this session
+   (this session's edit changed only quotation marks and labels).
