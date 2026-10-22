@@ -57,5 +57,7 @@
    "from": "worker-p1a-d9e5b9d0",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T15:43:33+00:00"
 }
