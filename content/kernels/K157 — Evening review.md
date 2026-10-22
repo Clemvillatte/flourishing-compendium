@@ -26,7 +26,7 @@ The empirical ground is the reflection research: "employees who spent the last 1
 
 ### A guided version
 
-Not applicable: the review is a written reflection, which is its own record. (Supervisor disposition, 2026-10-22: kernels whose practice is itself a written record are exempt from a separate recording, recorded in the kpr ledger.)
+Not applicable: the review is a written reflection, which is its own record.
 
 ## Operationalises
 

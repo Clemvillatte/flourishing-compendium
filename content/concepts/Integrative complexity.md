@@ -36,7 +36,7 @@ The integrative complexity viewpoint studies state complexity: the level of diff
 - Tetlock's integrative-complexity research, as framework
 
 - Tetlock's research, as framework
-- [Suedfeld, Tetlock & Streufert, "Conceptual/integrative complexity", in Smith (ed.), Motivation and personality: Handbook of thematic content analysis (1992), author copy](https://www2.psych.ubc.ca/~psuedfeld/Chapter.pdf) — definition and state-complexity passages quoted (ellipsis-marked abridgement, noted in the band ledger)
+- [Suedfeld, Tetlock & Streufert, "Conceptual/integrative complexity", in Smith (ed.), Motivation and personality: Handbook of thematic content analysis (1992), author copy](https://www2.psych.ubc.ca/~psuedfeld/Chapter.pdf) — definition and state-complexity passages quoted (ellipsis-marked abridgement)
 
 ## Cited in psychology parallels
 

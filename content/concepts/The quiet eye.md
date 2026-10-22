@@ -23,7 +23,7 @@ The fifth characteristic is the empirical core: "The duration of the quiet eye i
 
 ## Sources
 
-- Vickers, J. N. (2007). Perception, Cognition, and Decision Training: The Quiet Eye in Action — definition and duration findings quoted verbatim from the author's companion site: [quieteyesolutions.com, Introduction](http://www.quieteyesolutions.com/content/Vickers_2007/Introduction.htm); Vickers, J. N. (1996) free-throw durations as tabulated in Sirnik et al. (2022), recorded in the kpr ledger carrier check; raw-text check done 2026-10-22.
+- Vickers, J. N. (2007). Perception, Cognition, and Decision Training: The Quiet Eye in Action — definition and duration findings quoted verbatim from the author's companion site: [quieteyesolutions.com, Introduction](http://www.quieteyesolutions.com/content/Vickers_2007/Introduction.htm); Vickers, J. N. (1996) free-throw durations as tabulated in Sirnik et al. (2022).
 
 ## Cited in psychology parallels
 
