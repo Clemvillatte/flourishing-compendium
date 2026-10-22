@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The social selves are William James's term, in The Principles of Psychology (1890), for the version of a person that exists in other people's minds. His point is that there is not one of them. James opens the passage with the observation that a person's social self is simply the recognition they get from others, and that there are as many such selves as there are people who carry an image of that person.
 
-> "A man's Social Self is the recognition which he gets from his mates. Properly speaking, a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind. To wound any one of these his images is to wound him."
+> "A man's Social Self is the recognition which he gets from his mates. [...] Properly speaking, a man has as many social selves as there are individuals who recognize him and carry an image of him in their mind. To wound any one of these his images is to wound him."
 > — [James, Principles of Psychology, ch. X (1890), p. 294](https://psychclassics.yorku.ca/James/Principles/prin10.htm)
 
 James notes that these images fall into classes. Practically, then, a person has as many social selves as there are distinct groups whose opinion they care about. A young person who is demure with parents and teachers may swagger among friends. We do not show ourselves to our children as to our club companions.
