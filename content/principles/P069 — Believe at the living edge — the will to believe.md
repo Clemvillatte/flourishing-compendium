@@ -19,7 +19,7 @@ James's thesis in "The Will to Believe" is often read as permission to believe w
 
 The rule applies only where evidence has genuinely run out; where evidence can decide, it should. The cases at issue are those where waiting is not neutral: acting without the belief is itself a way of choosing the other outcome.
 
-**Plain words** Sometimes you are standing at a decision that will not wait and no amount of evidence can settle it for you. James's claim is that in that situation, refusing to choose is not safety; it is just another choice, with the same chance of being the wrong one. A belief you act on can help make the thing you believed possible actually happen, and that is why you are entitled to hold it.
+**Plain words** Sometimes you are standing at a decision that will not wait and no amount of evidence can settle it for you. James's claim is that in that situation, refusing to choose is just another choice, with the same chance of being the wrong one. A belief you act on can help make the thing you believed possible actually happen, and that is why you are entitled to hold it.
 
 *For example:* Nobody could prove the startup would work, and founders who believed it did the thousand unprovable tasks that made it true. The belief was a tool, not a conclusion.
 

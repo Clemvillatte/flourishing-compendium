@@ -20,7 +20,7 @@ The same teaching as a banquet: "Suppose that it passes by you. Do not detain it
 
 **Plain words** His exercise asks you to treat everything you have as on loan — the people, the work, the place. When a loan is called in, rehearse a different sentence: not "stolen from me" but "given back". It is a demanding exercise, not a mood — the grief stays real — and its point is to stop you acting as if the world broke a contract it never signed. What is actually yours is how you carry the loss.
 
-*For example:* When a friend moves abroad, the practice is not to choose between missing her and being grateful she was in your life, but to hold both.
+*For example:* When a friend moves abroad, the practice is to hold both missing her and being grateful she was in your life.
 
 ## Stories
 

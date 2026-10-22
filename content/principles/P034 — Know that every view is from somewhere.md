@@ -17,7 +17,7 @@ Nietzsche's conjecture in The Gay Science §354 is that our organs of knowing ne
 
 > Indeed, we have not any organ at all for *knowing* or for "truth"; we "know" (or believe, or fancy) just as much as may be *of use* in the interest of the human herd, the species; and even what is here called "usefulness" is ultimately only a belief, a fancy, and perhaps precisely the most fatal stupidity by which we shall one day be ruined. (Nietzsche, The Gay Science, §354, Common translation, [Gutenberg](https://www.gutenberg.org/files/52881/52881-0.txt))
 
-What follows is narrower than relativism. If consciousness is built for communication rather than for unmediated contact with reality, then a claim about the world is always made from inside a particular position, with its own history and interests, and that position can be named. Naming it is not giving up on truth; it is stating one of the conditions under which the claim was made, which is what makes checking it possible.
+What follows is narrower than relativism. If consciousness is built for communication rather than for unmediated contact with reality, then a claim about the world is always made from inside a particular position, with its own history and interests, and that position can be named. Naming it states one of the conditions under which the claim was made, which is what makes checking it possible.
 
 **Plain words** A claim you make comes with a history: what you have read, who has paid you, what has hurt you. That background shapes what you are likely to notice and what you are likely to skip. You cannot remove it; you can bring it into the open, which is the only version of neutrality that has ever actually worked.
 
