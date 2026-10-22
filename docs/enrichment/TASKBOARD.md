@@ -35,6 +35,13 @@ Gutenberg #52319's title page attributes The Genealogy of Morals itself to Horac
 corrected to Samuel with a title-page note; quote wording confirmed verbatim (source
 italicizes "overpowering"). The page's 60-word prose shortfall is pre-existing — next w1ac-class
 worker should enrich to the 150-word bar. Zimmern->Kennedy->Samuel chain now closed.
+Supervisor verification (2026-10-22 ~12:14Z, worker-sup-6dc18459): w1ac round-10 routed findings
+DISPOSITIONED. (1) Philosopher-king "no, nor" finding REBUTTED: the full plain text of
+Gutenberg #1497 (1497-0.txt) Book V was fetched and the passage compared — the page's quote
+is VERBATIM EXACT including "—no, nor the human race, as I believe,—". The earlier
+not-found result appears to have been a truncated fetch of the HTML file. No repair needed.
+(2) Receptivity Noddings quote normalization repair (w1ac, applied) — recorded as closed by
+the w1ac round-10 commit.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
