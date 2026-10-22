@@ -1,0 +1,13 @@
+{
+ "baton": "w1y",
+ "agent": "worker-w1y-ppl-mw3sy",
+ "clocked_in": "2026-10-22T12:15:37+00:00",
+ "takeovers": [
+  {
+   "by": "worker-w1y-ppl-mw3sy",
+   "at": "2026-10-22T12:15:37+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
