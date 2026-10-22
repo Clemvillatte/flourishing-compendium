@@ -630,6 +630,7 @@ function renderEntry(e) {
     html += '<button id="readPrev" class="read-step" title="Previous entry (↑)">◀</button>' +
       '<button id="readNext" class="read-step" title="Next entry (↓)">▶</button>' +
       '<button id="copyBtn" title="Copy this entry">Copy ⌘⇧C</button>' +
+      '<button id="linkCopyBtn" title="Copy a web address that opens this entry directly">Copy link</button>' +
       '<button id="essayAddBtn" title="Add this entry to your essay outline" aria-pressed="false">+ Add to essay</button>' +
       '<button id="editToggleBtn" class="edit-toggle" title="Edit this entry’s markdown in your browser">Edit ✏️</button>' +
       '<button id="readGraphBtn" class="edit-toggle" title="Show this entry and its connections in the Graph">Open in Graph →</button>';
@@ -664,8 +665,11 @@ function renderEntry(e) {
     a.addEventListener('click', () => { const t = byFile.get(a.dataset.file); if (t) select(t); }));
   readEl.querySelectorAll('.tag').forEach(t =>
     t.addEventListener('click', () => setTagFilter(t.dataset.tag)));
+  if (window.__deepLink) window.__deepLink.syncCardHash(e);
   const cb = readEl.querySelector('#copyBtn');
   if (cb) cb.addEventListener('click', () => copyEntry(e));
+  const lb = readEl.querySelector('#linkCopyBtn');
+  if (lb && window.__deepLink) window.__deepLink.wireLinkButton(lb, e);
   const eb = readEl.querySelector('#essayAddBtn');
   if (eb) eb.addEventListener('click', () => {
     if (typeof window.getEssayCollection !== 'function') return;
@@ -3814,3 +3818,77 @@ if(document.readyState!=='loading') initGallery();
    behaviour — including the wiki-link click delegation on the randomiser card —
    stays dead until the user clicks a tab. */
 if (window.fcSwitchView) window.fcSwitchView('rand');
+
+/* ═══ Deep links — owner feature, 2026-10-22 ═══
+   Every entry now has a shareable web address: #card=<file or id>.
+   Opening such a URL jumps straight to the entry in the wiki; while you
+   browse, the address bar always mirrors the open entry, and the "Copy
+   link" button on each entry copies that address to the clipboard. */
+(function () {
+  'use strict';
+  function cardTarget(e) { return e ? (e.file || e.id) : null; }
+  function cardHashFor(e) {
+    var t = cardTarget(e);
+    return t ? '#card=' + encodeURIComponent(t) : null;
+  }
+  function cardUrlFor(e) {
+    var h = cardHashFor(e);
+    return location.origin + location.pathname + (h || '');
+  }
+  var lastSynced = null;
+  function syncCardHash(e) {
+    /* keep the address bar in step with the open entry (wiki view only) */
+    if (document.body.classList.contains('rand-mode')) return;
+    var h = cardHashFor(e);
+    if (!h) return;
+    lastSynced = h;
+    if (location.hash !== h) {
+      try { history.replaceState(null, '', h); } catch (err) { /* best-effort only */ }
+    }
+  }
+  function wireLinkButton(btn, e) {
+    btn.__linkWired = true;
+    btn.addEventListener('click', function () {
+      var url = cardUrlFor(e);
+      function flash() {
+        btn.textContent = 'Copied';
+        setTimeout(function () { btn.textContent = 'Copy link'; }, 1500);
+      }
+      function fallback() {
+        var ta = document.createElement('textarea');
+        ta.value = url;
+        ta.setAttribute('readonly', '');
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); flash(); } catch (err) { window.prompt('Copy this address:', url); }
+        document.body.removeChild(ta);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(flash, fallback);
+      } else { fallback(); }
+    });
+  }
+  function openCardFromHash() {
+    var m = /^#card=(.+)$/.exec(location.hash);
+    if (!m) return false;
+    if (lastSynced === location.hash) return true; /* already showing it */
+    var t;
+    try { t = decodeURIComponent(m[1]); } catch (err) { t = m[1]; }
+    var e = byId.get(t) || byFile.get(t);
+    if (!e) return false;
+    window.fcWiki.open(cardTarget(e));
+    return true;
+  }
+  window.__deepLink = { syncCardHash: syncCardHash, wireLinkButton: wireLinkButton, cardUrlFor: cardUrlFor };
+  window.addEventListener('hashchange', openCardFromHash);
+  function boot() {
+    if (openCardFromHash()) return; /* a #card= address wins over the default view */
+    if (window.__currentEntry) syncCardHash(window.__currentEntry);
+    var btn = document.getElementById('linkCopyBtn');
+    if (btn && !btn.__linkWired && window.__currentEntry) wireLinkButton(btn, window.__currentEntry);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
+  else boot();
+})();
