@@ -507,3 +507,9 @@ Round 55: 1 page, 2 quoted passages verified, no defects.
 1. **Affordances** — the Gibson 1979 definition VERIFIED verbatim via the opened Michigan PDF. PASS.
 
 Round 56: 1 page, 1 quoted passage verified, no defects.
+
+## Round 57
+
+1. **Appearances as indifferents** — the Discourses III.3 passage VERIFIED via the opened classics.mit.edu page (the https fetch; the http variant redirects to the site home page — worth knowing for future workers): the opening sentence and both Q&A fragments match verbatim. PASS.
+
+Round 57: 1 page, 1 quoted passage verified, no defects.
