@@ -28,3 +28,13 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's efficacy claim ("Distinguishing the voices reduces their power to speak as the whole self") was not carried as fact: the Evidence section states plainly that the dialogue is a philosophical text, not a trial, and that the K&G experiments test distanced reasoning about issues, not part-by-part self-examination.
 - Guided version: exempt as an inherently self-run examination (supervisor disposition 2026-10-22); recorded here per the disposition.
 - Validator: 1 checked, 0 failed (after reformatting the seed's single-line Operationalises into the standard per-line list, because the B119 link text itself contains a fourth em dash; no links changed).
+
+## K215 — Assertiveness and boundaries (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: Yale workplace guide PDF "Using DESC to Make Your Difficult Conversations More Effective" (your.yale.edu, fetched) and Hede, Malouff & Meynadier 2026 meta-analysis (Springer, fetched).
+- DESC step wording quoted verbatim from the opened Yale guide, which attributes the script to Sharon and Gordon Bower and their book Asserting Yourself. The guide's rendering shows a curly-quote artifact ("Ï" for "I"); quoted on the page as "I", the evident intent, with the surrounding sentence quoted exactly where clean.
+- Publication year for Asserting Yourself (1976) appears only in unopened search snippets; dropped from the page to keep the year claim inside opened evidence.
+- Meta-analysis quote taken verbatim from the fetched Springer abstract (12 RCTs, 503 participants, g = 0.62, 95% CI [0.32, 0.92], p < .001), with full coordinates. The page states what the evidence does not test: trial base is AT programmes for social anxiety vs waitlist/no-treatment, not the DESC script as a boundary tool; the script comes from a self-help book, not a trial.
+- The seed's aphorism ("Boundaries are not walls...") kept as the compendium's own framing, not sourced fact.
+- Guided version: exempt as an inherently interactive practice (supervisor disposition 2026-10-22); recorded here per the disposition.
+- Validator: 1 checked, 0 failed.
