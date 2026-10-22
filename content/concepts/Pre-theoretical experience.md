@@ -11,11 +11,25 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The phenomenologists' name for the layer of experience that theory arrives too late to found: the world as already dealt with, the body as already having it. Merleau-Ponty's formula makes the body, rather than a judging subject, the general instrument of worldhood.
 
-> "Our body, rather, is the origin of all the others, it is the very movement of expression, it projects significations on the outside by giving them a place and sees to it that they begin to exist as things, beneath our hands and before our eyes. Even if our body does not impose definite instincts upon us from birth, as the animal's body does, then it at least gives the form of generality to our life and prolongs our personal acts into stable dispositions. Our nature, in this sense, is not an ancient custom, since custom presupposes nature's form of passivity. The body is our general means of having a world. Sometimes it restricts itself to gestures necessary for the conservation of life, and correlatively it posits a biological world around us. Sometimes, playing upon these first gestures and passing from their literal to their figurative sense, it brings forth a new core of signification through them — this is the case of new motor habits, such as dance." (Merleau-Ponty, Phenomenology of Perception, [Landes translation, excerpt at the Topological Media Lab](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf))
+### What theory builds on
+
+Merleau-Ponty names the ground directly: the lived contact with body, time and world that he calls pre-predicative knowledge, and the objective thought that grows out of it. His warning is that the growth can become a loss:
+
+> "I no longer pay attention to my body, to time, or to the world such as I live them in pre-predicative knowledge, that is, in the inner communication that I have with them. I only speak of my body as an idea, of the universe as an idea, and of the idea of space and of time. Thus is formed 'objective' thought (in Kierkegaard's sense) – the objective thought of common sense and of science – which in the end makes us lose contact with the perceptual experience of which it is nevertheless the result and the natural continuation." (Merleau-Ponty, Phenomenology of Perception, [Landes translation excerpts](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf))
+
+### The body knows its way
+
+The motor side of the same idea reaches the world without representations:
+
+> "The motor experience of our body is not a particular case of knowledge; rather, it offers us a manner of reaching the world and the object, a 'praktognosia,' that must be recognized as original, and perhaps as originary." (Merleau-Ponty, Phenomenology of Perception, [Landes translation excerpts](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf))
+
+> "My body has its world, or understands its world without having to go through 'representations,' or without being subordinated to a 'symbolic' or 'objectifying function.'" (Merleau-Ponty, Phenomenology of Perception, [Landes translation excerpts](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf))
+
+Read together, the passages give the concept its shape. Experience does not begin with a subject holding ideas about a world; it begins with a body already at home in one, handling it before any theory is formed. Objective thought is a late construction that works while the older contact keeps feeding it.
 
 ### In the compendium
 
-- [[E004 — Practise the lifeworld (Lebenswelt)]] — lists the concept among its philosophy parallels.
+- [[E004 — Practise the lifeworld (Lebenswelt)]] — the principle that makes this concept a practice: attend to the pre-theoretical world of lived experience and do not let the abstractions of science or theory replace it, since it is their ground.
 
 ## Related concepts
 
