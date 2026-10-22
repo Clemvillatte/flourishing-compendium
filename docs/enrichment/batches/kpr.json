@@ -294,6 +294,12 @@
    ],
    "notes": "QC-PENDING (advisor round-2: keep reopened, not done-with-flag): round-2 repairs applied and pushed — seasonal instructions reattributed to the Yinshu (verified on the rendered p.57), Shi quote capitalization fixed, repetition wording narrowed to 'the opened sources specify no repetition count', MO050/D041/B067 mappings removed (my own new-page links; committed first so the validator baseline matches), K194 equivalence removed, rendered-page visual check done (Daoyin jing quote on printed p.102 with 16b locator; seasonal passage on printed p.57). Residual for the supervisor: (a) a lineage carrier for the standard modern sequence (Chinese Health Qigong Association 2007 book, not opened — Shi et al. points there); (b) advisor round-3 clearance not yet obtained; treat K418 as WIP/QC-pending, not fully verified.",
    "note": "standardized-form study descriptions added + historical material rechecked (ledger 04:10:40Z); advisor round-1: NOT a complete routine — versions separated, traditional qualifiers restored, effect-size assessment recorded unfinished; complete-routine clearance remains pending (preparation/closing not established from a complete carrier)"
+  },
+  {
+   "id": "K419",
+   "title": "Microcosmic orbit (xiao zhoutian)",
+   "status": "qc-pending",
+   "note": "handoff-queue item created; carriers: Kohn Chinese Healing Exercises (Drive PDF, jade-inscription p.15, breath-cultivation p.126, neidan orbit p.178) + Kohn Sitting in Oblivion (Drive PDF, Jiang Weiqiao note p.13); no-trial evidence honesty; validator clean; build registers K419"
   }
  ],
  "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
@@ -336,7 +342,7 @@
   "K415"
  ],
  "in_progress": null,
- "updated": "2026-10-22T04:12:50+00:00",
+ "updated": "2026-10-22T04:13:55+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight",
