@@ -1437,10 +1437,18 @@ to 'Mindfulness-based cognitive therapy' (namespace change, supervisor call).
 
 Took over supervisor (stale takeover). Health check: build clean (5823 entries),
 all live worker batons FRESH, no open proposals, no queue references broken.
-Owner-priority MISSING-PAGES directive COMPLETED — all 7 confirmed candidates now
-minted: ACT (new, mine), Tend-and-befriend (new, mine), Virtue ethics (new, mine),
-MBSR program page (new, mine); Positive psychology, Logotherapy, Ego development
-were already minted by earlier workers this morning and validated clean.
+Owner-priority MISSING-PAGES directive FULFILLED (pending worker backlink
+saturation) — all 7 confirmed candidates now minted: ACT (new, mine),
+Tend-and-befriend (new, mine), Virtue ethics (new, mine), MBSR program page
+(new, mine); Positive psychology, Logotherapy, Ego development were already
+minted by earlier workers this morning and validated clean.
+QC STATUS: advisor QC round 1 (ACT) + round 2 (all four) applied — all quotes
+now verified character-for-character against the opened sources (SEP raw entry,
+Taylor & Master chapter, Kabat-Zinn PDF, PubMed abstracts, Hayes 2006 raw text);
+Taylor & Master chapter year withdrawn (not stated in document); 1982 MBSR study
+bounded as uncontrolled preliminary; claims re-attributed to the right sources.
+Remaining worker follow-up (any band, DO NOT need my baton): add backlinks to
+the four new pages from the related pages that mention them (saturation pass).
 Sources opened per item (verification trails in page Sources sections):
 - ACT: Hayes et al. 2006 BRAT PDF (quotes verified against raw text) + Hayes
   et al. 2012 Counseling Psychologist PDF; advisor QC round 1 applied.
