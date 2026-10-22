@@ -271,8 +271,15 @@ research); all other sampled items PASS.
     passage verified verbatim against a fresh fetch of the cited Larval
     Subjects carrier. No hallucinated quotes.
 
+## Round 24 (12:19Z) — Shamefastness (aidos) (w1s, commit c5cde3d9f)
+
+31. **Shamefastness (aidos) (w1s)** — 4 quoted passages checked, 4 PASS against
+    a fresh fetch of the cited MIT Classics carrier (NE IV.9, Ross): shame as
+    feeling not virtue, the age restriction, the good-man passage, and the
+    conditional-goodness line. No hallucinated quotes.
+
 ## Summary
 
-30 items checked, 27 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+31 items checked, 28 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first thirty items after repair.
+quotation-faithful at a 100% sample of its first thirty-one items after repair.
