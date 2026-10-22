@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 402** — Practise the constitution of meaning
 
-Husserl's term for what this principle describes is constitution. The Stanford Encyclopedia's Dan Zahavi states it with a citation to Ideas I: "Indeed, as Husserl already pointed out in Ideas I, the greatest and most important problems in phenomenology are related to the question of how objectivities of different kinds, from the prescientific to those of the highest scientific dignity, are constituted by consciousness." Constitution is Husserl's description of how anything is an object for us at all — not a claim that you choose your meanings. The tradition adds a caution: "the world cannot be reduced to or dissolved in consciousness, but nor can it be divorced from consciousness." You are not the author of reality. The compendium's extension (and it is an extension — Husserl describes structure, not choice): if the meaning of an event is constituted rather than found, it can be examined, and sometimes re-constituted. That is the responsibility this principle asks for — not for the facts, but for looking at how the meanings were constituted.
+Husserl's term for what this principle describes is constitution. In the Stanford Encyclopedia, [Dan Zahavi](https://plato.stanford.edu/archives/fall2026/entries/husserl/) states it with a citation to Ideas I (Hua 3/196): "Indeed, as Husserl already pointed out in Ideas I, the greatest and most important problems in phenomenology are related to the question of how objectivities of different kinds, from the prescientific to those of the highest scientific dignity, are constituted by consciousness." Constitution is Husserl's description of how anything is an object for us at all — not a claim that you choose your meanings. Zahavi adds a caution: "For Husserl, the world cannot be reduced to or dissolved in consciousness, but nor can it be divorced from consciousness." You are not the author of reality. The compendium's extension (and it is an extension — Husserl describes structure, not choice): if the meaning of an event is constituted rather than found, it can be examined, and sometimes re-constituted. That is the responsibility this principle asks for — not for the facts, but for looking at how the meanings were constituted.
 
-(Husserl, 1913/1982, Ideas I, §§47-56; Husserl, 1929/1960, Cartesian Meditations, §§22-28, 38-41.)
+(Zahavi, "Edmund Husserl", Stanford Encyclopedia of Philosophy, section 3, [fall 2026 edition](https://plato.stanford.edu/archives/fall2026/entries/husserl/); for the primary texts, see Husserl, Ideas I and Cartesian Meditations.)
 
 **Plain words** The world hands you events; what they mean for you is something your consciousness constitutes. Two people hear the same news; one hears disaster, the other hears a chance. That difference is worth noticing. When something feels like pure doom, ask: how did this come to mean disaster for me?
 
 *For example:* Two employees hear "the company is restructuring": one constitutes it as doom, one as the opening they've waited for. The announcement was the same; the meaning was constituted, not found.
+## Sources
+
+- Dan Zahavi, "Edmund Husserl", *Stanford Encyclopedia of Philosophy*, section 3: [fall 2026 edition](https://plato.stanford.edu/archives/fall2026/entries/husserl/)
+
 ## Stories
 
 - [[ST020 — Keith Jarrett Plays the Broken Piano|20. Keith Jarrett Plays the Broken Piano]]
