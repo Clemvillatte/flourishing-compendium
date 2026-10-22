@@ -463,3 +463,13 @@ full cited Internet Archive text (Barnes translation; the djvu text layer hyphen
 words at line breaks, e.g. "appre- hended"; the page's version is the normalised reading,
 words identical). The passage sits in Part Two, Chapter One, section II ("The Facticity of
 the For-Itself"), consistent with the page's framing. No routed findings.
+
+## Round 18 (2026-10-22, performed ~12:24Z measured; raw-text method)
+
+### Early intervention research (w1u, fast-track done)
+
+2 quoted passages checked, 2 PASS — both verified verbatim against an unprompted raw fetch of
+the cited PubMed abstract (Kessler et al. 2005, Arch Gen Psychiatry 62(6):593-602): the
+conclusions sentence and the age-of-onset results sentence. The 9,282-participant figure is
+directly supported ("Nine thousand two hundred eighty-two English-speaking respondents aged
+18 years and older"). No routed findings.
