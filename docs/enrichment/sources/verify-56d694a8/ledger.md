@@ -182,3 +182,21 @@ Round 15: 4 pages, 7 quoted passages verified, no defects.
 4. **Veneration of elders** — both Analects quotes VERIFIED in wording against the opened Standard Ebooks Legge text; the page prints Legge's original "now-a-days" where the Standard Ebooks edition modernizes to "nowadays" (the page matches the original Legge spelling — edition variant, noted). PASS.
 
 Round 16: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 17 — morning sample continued
+
+1. **The layered soul** — both Aristotle De Anima II.1 quotes VERIFIED verbatim via the opened psychclassics text. PASS.
+2. **The pendulum of desire** — both Schopenhauer (Beer) passages VERIFIED verbatim via the opened Gutenberg text. PASS.
+3. **The polyphonic self** — Bakhtin's plurality quote and the "combine but are not merged in the unity of the event" fragment VERIFIED verbatim per the scielo reproduction of Problems of Dostoevsky's Poetics (p. 6, Emerson translation) that the page cites; the James "social selves" sentence VERIFIED verbatim via the opened Gutenberg Principles of Psychology. PASS.
+4. **The return of the repressed pattern** — both Nietzsche Genealogy of Morals passages (the internalisation sentence, the bad-conscience sentence) VERIFIED verbatim via the opened Gutenberg text. PASS.
+
+Round 17: 4 pages, 7 quoted passages verified, no defects.
+
+## Session totals (verify-56d694a8, final)
+
+17 verification rounds across the session; 66 pages checked; 110+ quoted passages verified against freshly
+opened carriers; 6 defects found and repaired (Affect heuristic misquote, Anticipatory affect wording,
+Anticipated consequences comma, pbworks dead carrier re-point, Gay Science label, Abduction CP 5.171
+carrier) plus 3 more (TMS ellipsis, Rawls comma, Rawls citation re-point); all repaired pages re-validated;
+1 routed note (Baltes & Staudinger telephone-task quote, paywalled body). Ledger and repairs pushed after
+every round; every save verified on origin/main.
