@@ -16,7 +16,9 @@ Primary appraisal asks what is at stake: "Am I in trouble or being benefited, no
 
 ### Challenge and threat together
 
-Lazarus and Folkman held that threat and challenge "are not two ends of a single continuum". Although the two appraisals are negatively correlated, they "can occur simultaneously" ([PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)). The theory also describes reappraisal, in which a situation first judged a threat can shift to a challenge as coping resources are reassessed ([Revisiting Lazarus' transactional model, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13577512/)).
+Lazarus and Folkman held that threat and challenge "are not two ends of a single continuum". Although the two appraisals are negatively correlated, they "can occur simultaneously" ([PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3110961/)).
+
+A recent study testing the model reports that "higher appraisal of situational relevance was associated with increased stress, whereas higher appraisal of coping resources was associated with lower stress levels" ([Revisiting Lazarus' transactional model, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC13577512/)).
 
 ### Coping
 
