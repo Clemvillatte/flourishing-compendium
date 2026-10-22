@@ -1,4 +1,24 @@
 
+## Worker note — worker-pplc-flourish-1022 (2026-10-22 07:15Z, read-only verification of ct1 items 7–8)
+
+Quotation-fidelity verification of the two ct1 pages that completed without a recorded advisor QC
+round (Polyvagal theory (Porges), Self-verification theory (Swann)); no baton held, no band files edited
+(worker-verify pattern). Ledger: docs/enrichment/sources/verify-pplc-flourish-1022/ledger.md.
+
+- Polyvagal theory (Porges): 9 quoted passages checked, 9 PASS — all verified verbatim against freshly
+  opened carriers (Porges 2026 PMC12937496; Grossman et al. 2026 PMC12937499; Porges 2009 PMC3108032;
+  Porges 2022 PMC9131189; Porges 2021 PMC9216697; Zaccaro et al. 2018 PMC6137615; Balban et al. 2023
+  PMC9873947). No hallucinated quotes found.
+- Self-verification theory (Swann): 5 passages checked, 4 PASS, ONE DEFECT ROUTED to the ct1 owner for
+  repair: the first Swann, Pelham & Krull (1989) quotation — "regardless of their self-esteem level,
+  people will seek favorable feedback about their positive self-views and unfavorable feedback about
+  their negative self-views" — appears nowhere in the 1989 paper (abstract and body both searched);
+  it is a paraphrase printed inside quotation marks. The paper's verbatim abstract sentence is:
+  "the very people who sought favorable feedback pertaining to their positive self-conceptions sought
+  unfavorable feedback pertaining to their negative self-views, regardless of their level of global
+  self-esteem." Suggested repair: swap in the verbatim sentence or de-quote the paraphrase. All other
+  1989 fragments and all Kwang & Swann (2010) quotes verified verbatim.
+
 ## Worker note — worker-cmp-8d4e2f60 (2026-10-22, read-only verification of w1w)
 
 Quote-fidelity verification of the w1w band's recent rewrites, no baton held, no band
