@@ -51,7 +51,8 @@
   "Desire analyzed",
   "Dialectic's suspension",
   "Cynic austerity",
-  "Creative repetition"
+  "Creative repetition",
+  "Critique of mastery"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,9 +76,10 @@
   "Desire analyzed": "Source is SEP Compatibilism (Frankfurt 1971 paper not opened). B071 (Dhammapada) does not cite Frankfurt; link thematic.",
   "Dialectic's suspension": "Page based on Meno only (Jowett); other aporetic dialogues not opened. X001 does not cite Plato; link thematic.",
   "Cynic austerity": "Diogenes Laertius Lives not opened directly; page rests on IEP and SEP summaries (IEP warns the Lives are historically problematic).",
-  "Creative repetition": "Kierkegaard's repetition is a religious/existential movement per IEP/SEP; 'creative' application is the compendium's. P101 (Deleuze) does not cite Kierkegaard."
+  "Creative repetition": "Kierkegaard's repetition is a religious/existential movement per IEP/SEP; 'creative' application is the compendium's. P101 (Deleuze) does not cite Kierkegaard.",
+  "Critique of mastery": "Merchant, Death of Nature not opened (R127 quotes her 2006 retrospective); QCT essay itself not opened, page rests on SEP Heidegger (Wrathall)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:01:11+00:00"
+ "updated": "2026-10-22T16:01:45+00:00"
 }
