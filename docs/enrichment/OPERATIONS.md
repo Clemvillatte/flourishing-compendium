@@ -540,3 +540,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   page bot-walls scripts; Crossref carries the publisher's abstract): verbatim.
   Sample PASS. Twenty-two samples this session, all PASS (one accent repair); every
   concept page in the f08a97cb0..HEAD window is now verified or sampled clean.
+- Supervisor verification sample 23 (2026-10-22 ~15:37 UTC): ERP (exposure and
+  response prevention) (w1e's finished output, random draw) — all three Law &
+  Boisseau 2019 quotes checked against the opened Europe PMC full text (PMC6935308):
+  all verbatim. Sample PASS. Twenty-three samples this session, all PASS.
