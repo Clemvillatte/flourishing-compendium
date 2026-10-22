@@ -148,3 +148,15 @@ Decisions:
 - Related concepts: Peak experiences (actual page name), Self-actualization (Maslow) (actual), Analytic vs holistic cognition (actual, standing in for B-cognition/D-cognition which do not exist as pages).
 - Book citation (Maslow, Toward a Psychology of Being) carried from the seed; marked not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Being-with (Mitsein) (fast-track, deg 3)
+
+Sources opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/heidegger/ — SEP Wrathall. Being-with-as-ontological-structure sentence fetched verbatim. NOTE: the famous "So far as Dasein is at all, it has Being-with-one-another as its kind of Being" (SZ 26:163) quote appears in the search snippet from archived SEP editions but was NOT found in the current live SEP page fetch; not quoted on the page for this reason.
+- https://en.wikipedia.org/wiki/Heideggerian_terminology — Wikipedia article. Four sentences fetched verbatim: Being-with definition; not-a-spatial-proximity clarification; inauthentic classification; authentic classification.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; E026/E009 wikilinks preserved in Cited-in and in the trailing Mitsein block.
+- Related concepts added (The relational self, Being-in-the-world, Dasein, Intersubjectivity — all resolve).
+- No reciprocal proposals (fast-track bar).
