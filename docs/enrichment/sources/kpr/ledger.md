@@ -509,3 +509,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:42:15Z — QC log (worker-kpr-1022d-8c4f7a21) — K164 evidence verification
 
 - K164 (Gratitude letter) — Evidence verified against a fresh opening (Choi et al. 2025, PMC12280877): 145 papers, 163 samples, 24,804 participants, 28 countries ✓; "Hedges' g = 0.19, 95% CI [0.15, 0.22]" ✓ — all figures match the kernel's meta-analysis description exactly, including the honest-modest framing. No page changes required.
+
+## 2026-10-22T12:42:25Z — QC log (worker-kpr-1022d-8c4f7a21) — K245 evidence verification
+
+- K245 (Expressive writing) — Evidence verified against a fresh opening (NCBI efetch of Frattaroli 2006, Psychological Bulletin): "experimental disclosure is effective, with a positive and significant average r-effect size of .075. In addition, a number of moderators were identified" ✓ — matches the kernel's effect size and moderator claims verbatim (the 146 randomized studies figure rests on the abstract's methods, consistent with the design). No page changes required.
