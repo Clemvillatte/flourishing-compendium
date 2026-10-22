@@ -147,3 +147,22 @@ Hofstadter-translation PDF (contentarchive.wwf.gr):
 - The bauen/ich bin/"I dwell" claim is directly supported ("ich bin, du bist mean: I dwell,
   you dwell").
 No routed findings.
+
+## Round 5 (2026-10-22 ~12:13Z)
+
+### Embodiment (w1r, fast-track done)
+
+4 quoted passages checked, 4 PASS — all verified verbatim against a fresh fetch of the cited
+SEP entry (Toadvine, Merleau-Ponty, section 3): the "being-toward-the-world" passage, the
+bodily-space/"I can" passage, the intentional-arc passage (PP: 170/137), and "One's own body
+is in the world just as the heart is in the organism" (PP: 245/209). The Schneider/Gelb/
+Goldstein framing is also directly supported by the entry. No routed findings.
+
+### Disinterested aesthetic pleasure (w1r, fast-track done)
+
+4 quoted passages checked, 4 PASS — the two Kant Critique of Judgement quotes (Bernard
+translation, section 2) verified verbatim against a fresh fetch of Project Gutenberg
+#48433, including the surrounding palace/Iroquois-sachem/Rousseau passage that frames them;
+the SEP disinterested-pleasure sentence and the agreeable/good distinction verified verbatim
+against a fresh fetch of the SEP Kant's Aesthetics and Teleology entry (section 2.1.1).
+No routed findings.
