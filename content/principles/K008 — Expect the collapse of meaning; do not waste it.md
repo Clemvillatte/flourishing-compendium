@@ -19,7 +19,7 @@ Nishitani's Religion and Nothingness opens by locating the problem of religion a
 
 On pages 4-5, Nishitani describes a conversion from a self-centered mode of being, which always asks what use things have for us, to an attitude that asks for what purpose we ourselves exist. That change is where the problem of religion becomes personal rather than abstract.
 
-(Nishitani, Religion and Nothingness, ch. 1.)
+(Nishitani, Religion and Nothingness, ch. 1, pp. 3-5; the passage is quoted in [Graham Parkes](https://www.grahamparkes.net/wp-content/uploads/2023/04/K10-Parkes-Nishitani_Keiji-Practicing_Philosophy_as_a_Matter_of_Life_and_Death.pdf) and with page markers in [Buddhism: The Way of Emptiness](https://buddhism-thewayofemptiness.blog.nomagic.uk/what-is-religion-2/).)
 
 **Plain words** You might have clear reasons for pursuing a goal yet struggle to say what makes the whole effort worthwhile. Nishitani examines what happens when that question becomes a personal concern.
 

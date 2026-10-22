@@ -19,7 +19,7 @@ Nishida's opening concept in An Inquiry into the Good is pure experience. A comm
 
 The passage is quoted here from Shields, who gives pp. 3-4 of the Yale translation as its locator. A commentary on the book (Mitsuhara 2021, pp. 26-27) adds a caution that matters here: it is a mistake to reduce the concept to experience before judgment, because Nishida himself says there is neither absolutely pure nor absolutely non-pure experience; every experience is pure, depending on how one looks at it. Nishida also treats thinking and judging as activities that, while going on, can have the same immediate character as seeing a colour.
 
-(Nishida, An Inquiry into the Good, Part I, ch. 1.)
+(Nishida, An Inquiry into the Good, Part I, ch. 1; the opening definition is also quoted, with p. 3, in [Mapping the notion of everydayness in Japanese philosophy](https://www.jstage.jst.go.jp/article/psysoc/advpub/0/advpub_2023-B042/_pdf/-char/en) and in [Nishida Kitaro's experience theory](https://scispace.com/pdf/from-epistemology-to-the-standpoint-of-love-nishida-kitaros-xj5httzaw0.pdf).)
 
 **Plain words** An experience need not begin as a person observing a separate thing. Nishida also includes thinking and judging while they happen, so his account reaches beyond moments when you stop naming what you notice. The principle's point is that the report's division into "someone seeing" and "a thing seen" is not the whole of the experience it reports.
 
