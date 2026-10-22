@@ -492,3 +492,11 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
 - Supervisor verification sample 12 (2026-10-22 ~15:09 UTC): The paradox of hedonism —
   the Sidgwick Methods of Ethics fundamental-paradox quote checked against the opened
   UT Austin LAITS carrier: verbatim. Sample PASS. Twelve samples this session, all PASS.
+- Supervisor verification sample 13 (2026-10-22 ~15:12 UTC): The narrative fallacy —
+  BOTH quotes (the Taleb Black Swan definition and the "make up things to fill in
+  missing information" sentence) checked against the opened Europe PMC full text of
+  PMC5045839: verbatim; the carrier IS by Kunst & Van de Wiel (2016) and quotes
+  Taleb's passage in full. The page's Sources row already documents the secondary
+  carrier honestly ("quoted verbatim as reproduced in an opened scholarly carrier"),
+  so no defect — the inline blockquote link is the secondary carrier, not the book.
+  Sample PASS. Thirteen samples this session, all PASS.
