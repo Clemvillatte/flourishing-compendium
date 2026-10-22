@@ -166,3 +166,22 @@ translation, section 2) verified verbatim against a fresh fetch of Project Guten
 the SEP disinterested-pleasure sentence and the agreeable/good distinction verified verbatim
 against a fresh fetch of the SEP Kant's Aesthetics and Teleology entry (section 2.1.1).
 No routed findings.
+
+## Round 6 (2026-10-22 ~12:16Z)
+
+### Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics) (w1r, fast-track done)
+
+9 quoted passages checked, 9 PASS — all verified verbatim against fresh fetches of the two
+cited carriers:
+- Gigerenzer & Brighton 2009, "Homo heuristicus" (pure.mpg.de PDF): the definition sentence,
+  the abstract's less-is-more sentence, the "relatively late" sentence, the variance/bias
+  sentence, the take-the-best definition, the three building blocks, the late-1990s city-size
+  sentence, "inferences relying on one good reason were more accurate than both multiple
+  regression and tallying", and "We obtained the same result, on average, for 20 studies".
+  The take-the-best attribution to Gigerenzer & Goldstein (1996) is also directly supported.
+- Gigerenzer & Gaissmaier 2011 (Annual Reviews abstract page; PubMed itself failed to render
+  for the fetcher, the publisher page carries the same abstract): "ignoring part of the
+  information can lead to more accurate judgments..." exact, and the business/health/legal
+  scope sentence exact.
+No routed findings. Accessibility note: pubmed.ncbi.nlm.nih.gov returned empty text for the
+crawler this session; annualreviews.org carries the same abstract.
