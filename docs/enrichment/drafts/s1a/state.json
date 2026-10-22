@@ -865,7 +865,32 @@
      "note": "upgrade prepared and ROUTED to supervisor (s1a-029-upgrade-ST095.md); stirring-rice line flagged"
     }
    ]
+  },
+  "s1a-030": {
+   "status": "researching",
+   "angle": "D061: Bian Que ranks his eldest brother best — illness removed before it takes form, fame never leaving the house (Heguanzi, Shixian chapter)",
+   "history": [
+    {
+     "t": "2026-10-22T04:03:53+00:00",
+     "to": "researching"
+    }
+   ]
+  },
+  "s1a-031": {
+   "status": "qc_pending",
+   "angle": "B016: the Buddha tells the fire-worshipping monks at Gaya Head that the All itself is aflame with passion, aversion and delusion; a thousand minds released mid-sermon (SN 35.28)",
+   "history": [
+    {
+     "t": "2026-10-22T04:08:44+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T04:09:44+00:00",
+     "to": "qc_pending",
+     "note": "first item; story_check 0 errors; advisor QC in flight"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:57:26+00:00"
+ "updated": "2026-10-22T04:09:44+00:00"
 }
