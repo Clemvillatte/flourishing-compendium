@@ -112,3 +112,10 @@ Band: w1u (69 concepts, previously unclaimed). Item 1: Continuing bonds.
   - deikman.com pages — live site bot-walled; all quotes re-verified against Wayback Machine archived copies of deautomat/experimental/implications (opened); 1966 conclusion paragraph added as grounded prose.
 - Round-2 advisor fixes applied: "most often"→"often traced back"; fifth-system quote capitalisation restored; always-defect condition restored to the source's zero-repeat wording; OpenAlex stray-parenthesis fragment paraphrased; two slogan-like contrastive closers removed; Berlin-paradigm ibid replaced with explicit Baltes & Staudinger citation.
 - All 7 w1u flags now QC RESOLVED (round 2 recorded in w1u.json).
+
+## Worker QC round 2026-10-22 ~11:45Z (worker-pplc-w1u-6f0e, item: Correcting the instrument)
+- First-item advisor QC round 1: FAIL — concept-identity gate (is the phrase Bacon's?), overreads, unsupported equivalences in related-link clauses, missing inline citations.
+- Identity resolved honestly: "Correcting the instrument" is the compendium's seed label, NOT a Bacon phrase; disclosed on the page in one sentence. Grounding: IEP (opened, iep.utm.edu/francis-bacon) — organon means "instrument"; Bacon "clearly felt he was supplying a new instrument for guiding and correcting the mind in its quest for a true understanding of nature"; title glances at and replaces Aristotle's Organon.
+- Repairs applied: "deepest of them" ranking removed; "procedural rather than moral" dichotomy removed; "until" outcome-promise replaced with bounded Aphorism LXVIII phrasing; related-concept how-clauses marked as editorial comparisons; inline citations added on source-derived sentences; label status stated.
+- Sources opened: Hanover novorg.html (I.2, I.41, I.68 verbatim), Hanover excerpts 111bac2.html (I.39, I.40 verbatim), IEP Bacon page. All quotes on the page character-verified against these.
+- Validated --fast-track clean after repair; pushed 774b99492.
