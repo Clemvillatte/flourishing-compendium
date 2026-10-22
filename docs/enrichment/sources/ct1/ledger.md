@@ -73,3 +73,28 @@ The two-factor model of well-being, Flourishing scale, Dispositional optimism.
 - Advisor QC: applied the first-item lesson directly (no unverified claims, quotes
   re-verified against fetched pages before writing; blockquote in Why it matters; no
   stitched quotes; Wikipedia marked as Wikipedia-sourced).
+
+## Repair pass — Self-verification theory (Swann) (worker-ct1-ppl-7f3a2b19, 2026-10-22 ~11:38Z)
+
+- Trigger: routed finding (TASKBOARD 2026-10-22 06:59Z, worker-pplc-flourish-1022) alleged the
+  first Swann, Pelham & Krull (1989) quotation was a paraphrase printed inside quotation marks,
+  absent from the paper's abstract and body.
+- Re-verification: downloaded the cited carrier (labs.la.utexas.edu sw_pel_krull.pdf, JPSP
+  57(5) 782-791) and extracted the full text. DISPOSITION: quotation-fidelity allegation
+  WITHDRAWN — the quoted fragment "regardless of their self-esteem level, people will seek
+  favorable feedback about their positive self-views and unfavorable feedback about their
+  negative self-views" is verbatim in the paper's body, "Testing Our Assumptions" section,
+  printed p. 783 (running header confirms the printed number). No repair to the quotation.
+- Advisor QC round 1 (session first item): scoped PASS on the withdrawal, with two contextual
+  repairs required: (1) the page introduced the expectation quote as "In a classic experiment",
+  but the source sentence is the authors' stated expectation ("Two important assumptions
+  underlie our expectation that..."); (2) "All participants were, in the authors' phrase,
+  'simultaneously motivated to self-enhance and self-verify'" presented the authors' intro
+  proposal ("We suggest that all people are simultaneously motivated...") as
+  participant-level evidence — the phrase occurs only in that proposal in the paper.
+- Repairs applied: paragraph reframed — the 1989 studies introduced as built on the authors'
+  expectation (p. 783 locator added), the abstract's past-tense finding now carries the
+  outcome (extended verbatim to include "regardless of their level of global self-esteem"),
+  and the "simultaneously motivated" fragment attributed as the authors' proposal.
+  All three quoted fragments remain word-for-word substrings of the opened PDF.
+- Validator: 1 checked, 0 failed (plain, not fast-track). State: reopen -> done.
