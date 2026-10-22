@@ -573,7 +573,7 @@ Against the freshly opened Suzuki et al. 2024 (PMC11050987): the triarchic summa
 sentence; the successful-intelligence definition; "could not simply be understood as a
 cognitive trait as it could include practical and wisdom-based skills" — all VERBATIM.
 
-Session closed at 2026-10-22T07:14Z (T+28). Final totals: 13 rounds, 27 pages,
+Session closed at 2026-10-22T07:10Z (T+24). Final totals: 13 rounds, 27 pages,
 ~140 quoted passages checked. One defect routed (Self-verification theory). All other
 quotes verified verbatim against freshly opened carriers. See TASKBOARD.md worker note
 dated 06:59Z for the routed items.
