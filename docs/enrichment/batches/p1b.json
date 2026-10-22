@@ -69,15 +69,16 @@
   "E064",
   "D003",
   "B003",
-  "AF036"
+  "AF036",
+  "AT070"
  ],
- "in_progress": "AT070",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
   "D003": "Source-checked and validator passed. Independent advisor launch failed because platform credits were exhausted; supervisor independent QC still requested.",
   "AF036": "Replaced deterministic mood-after-action promises with graded valued activity, monitoring and clinical boundary. Veale2008, COBRA2016 and Cochrane2020 opened; source quote checked. Independent advisor unavailable; supervisor QC requested.",
   "B003": "Repaired duplicated Plain words, unsupported process framing and example; SN22.59, MN109, Milindapanha II.1.1 and Bernstein2015 opened; validator passed. Independent advisor remains unavailable; supervisor QC requested.",
-  "AT070": "Reopened for QC: Repair dismissive threat-filter metaphor, unsupported retraining claim and flying example; verify attention theory and distinguish bias evidence from treatment efficacy",
+  "AT070": "Source-checked repair: threat bias separated from danger judgements and treatment efficacy. Five opened sources; Pond2025 explicitly labelled preprint. Validator passed; independent advisor unavailable, supervisor QC requested.",
   "E013": "Reopened for QC: QC correction: quote ends mid-sentence; invented quotation in example",
   "A065": "Reopened for QC: QC correction: wine quote drops source parenthesis",
   "SE066": "Reopened for QC: QC correction: outcomes not established by Vygotsky source",
@@ -85,7 +86,7 @@
   "D114": "Reopened for QC: mis-marked done before start by operator error; rewriting now"
  },
  "missing_concepts": [],
- "sources_checked": 100,
- "updated": "2026-10-22T12:36:57+00:00",
+ "sources_checked": 105,
+ "updated": "2026-10-22T12:37:45+00:00",
  "band_done": false
 }
