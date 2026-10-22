@@ -190,3 +190,9 @@ Complete mental health model quote, Learned optimism quote.
 quote restored to verbatim + prose trimmed to validator range). 2 cosmetic notes routed
 (no action needed). Maintenance baton: claimed, used, released. All work pushed and
 verified on origin/main.
+
+## Addendum 6 (Positive psychology, 06:47Z) — QUOTES PASS (2 of 3)
+- Seligman & Csikszentmihalyi 2000 quotes — both verbatim against the PubMed abstract
+  (retrieved via NCBI eutils; the cited PubMed page itself rejected the fetch).
+- The third quote (Seligman's 1998 APA President's Address, UPenn .docx) was NOT re-verified
+  this round — no time before the session clock; flagged for the next verifier.
