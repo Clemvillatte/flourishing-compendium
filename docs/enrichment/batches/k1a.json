@@ -50,7 +50,8 @@
   "content/kernels/K237 — See-the-small practice.md",
   "content/kernels/K168 — Near-enemy audit.md",
   "content/kernels/K136 — The raft check.md",
-  "content/kernels/K150 — Values card-sort.md"
+  "content/kernels/K150 — Values card-sort.md",
+  "content/kernels/K345 — Positionality statement.md"
  ],
  "in_progress": null,
  "queue": [
@@ -99,7 +100,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:29:48+00:00",
+ "updated": "2026-10-22T14:30:30+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
@@ -110,6 +111,7 @@
   "content/kernels/K237 — See-the-small practice.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
   "content/kernels/K168 — Near-enemy audit.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
   "content/kernels/K136 — The raft check.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
-  "content/kernels/K150 — Values card-sort.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
+  "content/kernels/K150 — Values card-sort.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
+  "content/kernels/K345 — Positionality statement.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
  }
 }

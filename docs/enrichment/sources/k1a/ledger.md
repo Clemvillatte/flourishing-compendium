@@ -129,3 +129,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The outcome line ("Client experience of discrepancy between values and substance use behavior is related to better client outcomes (Apodaca & Longabaugh, 2009)") is stated as belonging to values work in counseling sessions, not to the card sort as a standalone intervention; the page explicitly records that direct trial evidence for the sort alone is not opened here. A SIU randomized pilot in undergraduates (search result, not opened) was NOT cited, per the zero-hallucination rule; noted here for the supervisor as a candidate for a future evidence pass.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K345 — Positionality statement (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Darwin Holmes 2020, "Researcher Positionality — A Consideration of Its Influence and Place in Qualitative Research — A New Researcher Guide," Shanlax International Journal of Education 8(4) (ERIC full-text PDF downloaded directly, text extracted with pypdf; quotes read from the raw extraction, not a search snippet).
+- The blockquote (the "good strong positionality statement" passage with its lenses/influences/insider-outsider list, quoting Savin-Baden & Major 2013) verified against the raw PDF text. The Savin-Baden & Major definition ("reflects the position that the researcher has chosen to adopt within a given research study") is in the same PDF and was read, but is not quoted on the page.
+- Protocol steps map one-to-one onto the quoted passage; step 4's one-sentence compression is labelled as the compendium's adaptation, not the research form. The seed's "not a disclaimer" and "see from somewhere, not from nowhere" framings are editorial and not attributed to a source.
+- What the evidence does not test is stated on the page: the guide is methods advice for qualitative researchers, and no empirical claim is made for the practice outside research.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
