@@ -94,3 +94,12 @@ Round 6: 2 pages, 8 quoted passages verified, no defects.
 carriers; 6 defects found and repaired (Affect heuristic misquote, Anticipatory affect wording,
 Anticipated consequences comma, pbworks dead carrier, Gay Science/Genealogy label, Abduction
 CP 5.171 carrier); all repaired pages re-validated; ledger and repairs pushed after every round.
+
+## Round 7 — morning sample continued (~11:54-11:58 UTC)
+
+1. **Creative destruction** — Schumpeter ch. VII sentence VERIFIED verbatim. PASS.
+2. **Dispositional optimism** — both Scheier & Carver 1985 quotes (p. 219 scale sentence; p. 222 expectancies sentence) VERIFIED verbatim against the opened full-text PDF. PASS.
+3. **Doing and undergoing** — Dewey "Having an Experience" sentence VERIFIED verbatim. PASS.
+4. **Ego integrity (Erikson)** — both Erikson quotes ("I know no better word for it than integrity"; the parents-love sentence) VERIFIED verbatim against the opened archive.org full text. PASS.
+
+Round 7: 4 pages, 6 quoted passages verified, no defects.
