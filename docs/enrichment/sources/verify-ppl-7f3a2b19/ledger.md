@@ -305,3 +305,26 @@ Round 10 totals: 2 pages PASS, 1 defect repaired, 1 routed. Cumulative w1ac samp
 checked (24 PASS, 1 PASS-with-unresolved-comma-variance, 4 defects+1 attribution repaired,
 4 routed: Relational Frame Theory interstitial, Pre-understanding p. 192 dropped glosses,
 Pre-theoretical experience dead carrier, Philosopher-king Jowett variant).
+
+## Round 11 — w1ac earlier pages (2026-10-22, executed ~12:05-12:07Z per clock proximity)
+
+- POST-CONVENTIONAL DEVELOPMENT — PASS 2/2: both Kohlberg 1968 passages verbatim vs the
+  cited PDF (freshly downloaded and opened; one OCR artifact in the carrier extraction:
+  "persons who bold them" where the printed text reads "hold" — the page prints the correct
+  word, Pygmalion-class artifact, no defect).
+- PRE-COMMITMENT AS WISDOM — PASS 2/2: the Seneca Letters 123 passage verbatim vs the cited
+  lettersfromastoic page (opened via fetch) and the Letters 116 passage verbatim vs the
+  cited monadnock Gummere page (opened via fetch).
+- PSYCHOLOGICAL ANDROGYNY — bem-2 PASS; DEFECT FOUND AND REPAIRED (under the w1ac baton):
+  bem-1 printed 'androgynous' in single quotes where the cited Bem 1974 abstract prints
+  "androgynous" in double quotes — restored verbatim. Fast-track validation 1 checked 0
+  failed.
+- READINESS-MATCHED INTERVENTION — ROUTED, CARRIER BLOCKED: the cited Harvard sdlab PDF
+  returns HTTP 403 to automated fetches; both Prochaska and DiClemente 1983 passages could
+  not be re-verified against the cited carrier this pass. Routed: re-point to an accessible
+  carrier and verify.
+
+Round 11 totals: 3 pages PASS, 1 defect repaired, 1 routed. Cumulative w1ac sample: 37 pages
+checked (27 PASS, 1 PASS-with-unresolved-comma-variance, 5 defects+1 attribution repaired,
+5 routed). This closes the session's sampling of the w1ac band (remaining unchecked pages:
+Plain-language comprehension research, Popol Vuh, Psychoneuroimmunology (PNI)).
