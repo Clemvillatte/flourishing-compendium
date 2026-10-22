@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The Epicurean "fourfold cure": don't fear god, don't worry about death, what is good is easy to get, what is terrible is easy to endure ([Wikipedia Tetrapharmakos](https://en.wikipedia.org/wiki/Tetrapharmakos)).
 
-The tetrapharmakos is Epicureanism compressed into four lines, a medicine chest for the four great fears. As preserved via Philodemos in a Herculaneum papyrus:
+The tetrapharmakos is Epicureanism compressed into four lines, a four-part remedy for the four great fears. As expressed by Philodemos and preserved in Herculaneum Papyrus 1005 (5.9-14):
 
 > "Don't fear god, Don't worry about death; What is good is easy to get, What is terrible is easy to endure" — Greek: "Ἄφοβον ὁ θεός, ἀνύποπτον ὁ θάνατος καὶ τἀγαθὸν μὲν εὔκτητον, τὸ δὲ δεινὸν εὐεκκαρτέρητον" ([Wikipedia Tetrapharmakos](https://en.wikipedia.org/wiki/Tetrapharmakos))
 
@@ -38,7 +38,7 @@ And on the duration of pain:
 ## Related concepts
 
 - [[Eudaimonia]] — the compendium's pairing for the flourishing the cure serves.
-- [[Apatheia]] — the Stoic counterpart to the Epicurean freedom from fear.
+- [[Apatheia]] — the compendium's Stoic pairing for freedom from disturbance.
 
 ## Sources
 

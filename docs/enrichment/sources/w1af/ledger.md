@@ -104,3 +104,12 @@ NOT repaired (no time before final save) — flagged for supervisor / next sessi
 - The tetralemma: reframe opening as one application (causal production) rather than the general definition; replace "what the tetralemma establishes" with narrower inherent-nature relationship.
 - The shattered self: restore exact capitalisation of the Herman excerpt ("traumatic" not "Traumatic"); keep Herman distinct from Janoff-Bulman; replace "not open-access" with "not independently consulted"; frame "the shattered self" as compendium label unless verified as Herman's terminology.
 - The tetrapharmakos: attribution explicitly through Wikipedia including papyrus locator; replace "medicine chest" with "four-part remedy"; verify or limit the Apatheia comparison.
+
+## QC repair round 2 (w1af, 2026-10-22, worker-pplc-6a2f9b17) — predecessor's 4 flagged repairs applied
+
+All four named repairs from the previous session's QC round applied, each verified against a freshly opened carrier:
+- The sovereign individual: Gutenberg #52319 re-opened; "The breeding of an animal" confirmed II.1 (section marker verified in the raw text), sovereign passage in II.2; breeding quote locator corrected to II.1; "not in BGE" note softened to "located in GM II.2"; the confused final Sources bullet rewritten; "memory" interpretation grounded in the text's own "an actual memory of the will" (II.2); Hegelian command-obedience equivalence replaced with a plain contrast clause.
+- The tetralemma: opening reframed as the causation application of the four-cornered examination (per the quoted SEP passage); Related clause narrowed to the svabhāva conclusion.
+- The shattered self: Ratcliffe/Ruddell/Smith 2014 (PMC4166378) re-fetched; Herman excerpt restored to the source's lowercase "traumatic"; "not open-access" replaced with "not independently consulted"; "the shattered self" framed as the compendium's label; Herman kept distinct from Janoff-Bulman.
+- The tetrapharmakos: Wikipedia Tetrapharmakos re-fetched; attribution made explicit per the carrier ("As expressed by Philodemos, and preserved in a Herculaneum Papyrus (1005, 5.9-14)"); "medicine chest" replaced with "four-part remedy"; Apatheia comparison limited to the compendium's-pairing form.
+All four pages pass --fast-track validation. The w1af queue continues from "The theory-ladenness of observation".

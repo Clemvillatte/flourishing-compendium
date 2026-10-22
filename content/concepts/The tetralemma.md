@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The tetralemma” — Nagarjuna, Mulamadhyamakakarika.
 
-The tetralemma is Nāgārjuna's four-cornered examination: any claim about how things come to be can be set out on four horns — from itself, from another, from both, from neither — and the Madhyamaka method is to show each horn fails. The Stanford Encyclopedia of Philosophy's entry states the structure:
+The tetralemma is a four-cornered examination. In the passage quoted below, Nāgārjuna applies it to how things come to be: from itself, from another, from both, or from neither. The Madhyamaka method is to show each horn fails. The Stanford Encyclopedia of Philosophy's entry states the structure:
 
 > "In his most well-known discussion of causation Nāgārjuna distinguishes four ways in which things could be causally be brought about. They could be produced 1. from themselves, or 2. from other things, or 3. from both themselves and from other things, or 4. from neither." (Westerhoff, [SEP: Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/))
 
@@ -23,7 +23,7 @@ And the upshot of rejecting all four:
 
 ## Related concepts
 
-- [[Buddhist emptiness of inherent nature]] — the compendium's pairing for what the tetralemma establishes.
+- [[Buddhist emptiness of inherent nature]] — the compendium's pairing for the quoted conclusion: none of the four alternatives allows cause and effect to exist with svabhāva.
 
 ## Sources
 

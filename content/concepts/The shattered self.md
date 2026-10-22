@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The shattered self” — Herman, Trauma and Recovery.
 
-The shattered self names what trauma does to a person's fundamental assumptions, including the assumption of one's own worth. Herman's formulation, as quoted in a peer-reviewed phenomenological study of trauma:
+The shattered self is the compendium's label for what trauma does to a person's fundamental assumptions, including the assumption of one's own worth. Herman's formulation, as quoted in a peer-reviewed phenomenological study of trauma:
 
-> "Traumatic events destroy the victim's fundamental assumptions about the safety of the world" (Herman, 1992/1997, p. 51, quoted in [Ratcliffe, Ruddell & Smith, 2014, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4166378/))
+> "traumatic events destroy the victim's fundamental assumptions about the safety of the world" (Herman, 1992/1997, p. 51, quoted in [Ratcliffe, Ruddell & Smith, 2014, Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4166378/))
 
 The same study places Herman's account alongside Janoff-Bulman's three beliefs, the third of which is the self:
 
@@ -35,7 +35,7 @@ Herman's stages of recovery are summarised in the same source:
 ## Sources
 
 - [Ratcliffe M, Ruddell M, Smith B (2014). What is a "sense of foreshortened future?" Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4166378/) — quotes Herman (1992/1997, p. 51) verbatim with locator; opened for this page.
-- Herman, Trauma and Recovery — book citation carried from the original entry; the book itself is not open-access, so quotes are carried through the opened peer-reviewed source with page locators.
+- Herman, Trauma and Recovery — book citation carried from the original entry; the book itself was not independently consulted, so quotes are carried through the opened peer-reviewed source with page locators.
 
 ## Cited in philosophy parallels
 
