@@ -7,22 +7,20 @@ file: "The taxonomy of desires"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The taxonomy of desires is Epicurus's classification, in his Letter to Menoeceus, of what we want into three grades: natural and necessary, natural but unnecessary, and vain or groundless. The point is practical, not scholarly. Which bucket a desire falls into decides how much effort it deserves.
+The taxonomy of desires is Epicurus's classification, in his Letter to Menoeceus, of what we want into natural, vain, and necessary. The passage is a sorting tool: it separates what a person needs from what they merely want.
 
 > "We must consider that of desires some are natural, others vain, and of the natural some are necessary and others merely natural; and of the necessary some are necessary for happiness, others for the repose of the body, and others for very life."
 > — Epicurus, Letter to Menoeceus §127, Bailey 1926 translation, via [EpicureanFriends](https://www.epicureanfriends.com/wcf/menoeceus/)
 
-The necessary bucket is the smallest. Food, shelter, friendship, the absence of bodily pain: these are what a person actually needs to live and to be at ease. The merely natural bucket covers things like variety in food or luxury in dress, which the body can enjoy but does not need. The vain bucket, kenai in the Greek, holds desires that have no natural floor at all: wealth, fame, power, status. Epicurus's objection to them is not that they are immoral, but that they are insatiable. Every satisfaction produces a new and larger one.
+The classification runs along two axes. First, a desire is either natural or vain. Second, a natural desire is either necessary or merely natural. Necessary desires split again into three: some are needed for happiness, some for the body's ease, and some for life itself.
 
-### Why the classification matters for suffering
+### How the classification is used
 
-The taxonomy is a tool for reducing suffering rather than increasing pleasure. Its premise is that most distress comes not from lacking what we need, but from wanting what we do not need. Hunger is satisfied by bread; the desire to be famous is not satisfied by any amount of fame. Sorting desires in advance is therefore a way of pre-empting the anxiety of chasing something that has no end state.
+The Letter gives one further instruction about the natural. Epicurus writes that "all that is natural is easy to be obtained, but that which is superfluous is hard", and that "bread and water produce the highest pleasure, when one who needs them puts them to his lips". The sorting is the practical point: a person who knows what is necessary can be supplied, and the search for what is superfluous can go on indefinitely.
 
 ## Sources
 
-- [Epicurus, Letter to Menoeceus §127-128, Bailey 1926 translation, EpicureanFriends](https://www.epicureanfriends.com/wcf/menoeceus/) — the opened carrier of the verbatim classification quote.
-- [Schang, F. (2016), Unisinos Journal of Philosophy 17(1), 63-68](https://revistas.unisinos.br/index.php/filosofia/article/download/fsu.2016.171.08/5612) — the kenai "empty" reading and the insatiability framing.
-- [Cassotis, M. (2011), Open Book Publishers, ch. 5](https://open.ubc.ca/ethics/chapter/letter-to-menoeceus/) — the three-category reading in plain terms.
+- [Epicurus, Letter to Menoeceus §127, Bailey 1926 translation, EpicureanFriends](https://www.epicureanfriends.com/wcf/menoeceus/) — the opened carrier of the verbatim classification quote and the natural-versus-superfluous and bread-and-water passages.
 
 ## Cited in psychology parallels
 
