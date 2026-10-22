@@ -22,7 +22,6 @@
   "A078",
   "A037",
   "P073",
-  "A023",
   "D087",
   "D055",
   "D080",
@@ -32,7 +31,7 @@
   "A091",
   "E007"
  ],
- "in_progress": null,
+ "in_progress": "A023",
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
@@ -41,10 +40,11 @@
   "D019": "Reopened for QC: Correct inherited composite quotation and replace repeated Plain words with needs-aware application",
   "A053": "Reopened for QC: Repair reversed voluntary-action test and avoid dismissing coercion or ignorance",
   "A091": "Reopened for QC: Present contemplation and practical virtue as ranked and interpretively contested, not a settled equality",
-  "E007": "Reopened for QC: Ground imaginative variation in an opened primary text; distinguish proposed invariants from proven essences"
+  "E007": "Reopened for QC: Ground imaginative variation in an opened primary text; distinguish proposed invariants from proven essences",
+  "A023": "Reopened for QC: Reframe pleasure-pain education without endorsing arbitrary suffering; clarify moral criterion"
  },
  "missing_concepts": [],
  "sources_checked": 36,
- "updated": "2026-10-22T12:09:20+00:00",
+ "updated": "2026-10-22T12:09:52+00:00",
  "band_done": false
 }
