@@ -24,7 +24,7 @@
   "content/kernels/K155 — Enough lines.md",
   "content/kernels/K247 — Motivational interviewing (self-directed).md"
  ],
- "in_progress": null,
+ "in_progress": "content/kernels/K133 — Holding as hypothesis.md",
  "queue": [
   "content/kernels/K137 — Language flexibility.md",
   "content/kernels/K169 — Anger dissection.md",
@@ -82,5 +82,5 @@
   "content/kernels/K155 — Enough lines.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms"
  },
  "band_done": false,
- "updated": "2026-10-22T15:35:33+00:00"
+ "updated": "2026-10-22T15:35:37+00:00"
 }
