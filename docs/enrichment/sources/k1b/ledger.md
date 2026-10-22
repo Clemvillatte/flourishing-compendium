@@ -161,3 +161,9 @@
 - Claims narrowed: the seed's "prevents the moving goalpost" labelled this practice's framing (not-covered paragraph); the studies measure dispositions and consumer decisions, not pre-written sufficiency lines; the China null result carried onto the page (pattern not universal).
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K247 Motivational interviewing (self-directed) (worker-k1b-pplx)
+- Sources opened this session: Resnicow and McMaster 2012 open-access article (IJBNPA 9:19, Springer; verbatim quotes: the two ruler questions, the probe examples, the probes-elicit sentence, the change-talk predictor sentence, the person-centered definition); BC Renal "What is MI?" PDF (Miller and Rollnick definitions; verbatim quotes: professional definition, Partnership and Evocation spirit definitions, the push-back caution with the dancing-not-wrestling sentence).
+- Claims narrowed: the self-directed version labelled an ADAPTATION on the page (MI built as a two-person conversation; the solo version keeps the questions and loses the relationship, listening, and practitioner); the clinical trials scoped to two-person counseling across health behavior change; the seed's question list mapped to the ruler + probes with the clinical wording quoted; the seed's "How ready am I" wording differs slightly from the clinical rulers (importance/confidence); noted here, page uses the clinical pair.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0 (one related-concepts warning resolved by adding a third link); workflow-narration grep clean.
