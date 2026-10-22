@@ -33,7 +33,8 @@
   "Digital ethics",
   "Emplotment (mise en intrigue)",
   "Defiance",
-  "Dialogism"
+  "Dialogism",
+  "Dichotomous (black-and-white) thinking"
  ],
  "in_progress": null,
  "flagged": {
@@ -41,9 +42,10 @@
   "Dehumanization research": "inherited seed 'infrahumanization predicts cruelty (Haslam 2006)' not in Haslam 2006 / Haslam&Loughnan 2014 abstracts; page states scope",
   "Dispositional mindfulness": "inherited seed cited Baer 2006 for well-being; Baer abstract speaks of facets/psychological symptoms; page uses Brown&Ryan 2003 + Baer 2006",
   "Emergence": "seed cites Morgan Emergent Evolution; not opened, SEP entry lacks Morgan; page sourced to SEP Emergent Properties only",
-  "Effort-recovery cycles": "inherited seed claim (well-being depends on oscillation) not stated in Sonnentag&Fritz 2007 abstract; page states scope"
+  "Effort-recovery cycles": "inherited seed claim (well-being depends on oscillation) not stated in Sonnentag&Fritz 2007 abstract; page states scope",
+  "Dichotomous (black-and-white) thinking": "Seed claim 'predicts distress and interpersonal dysfunction' is stronger than the scoping review (correlational, modest r); page states real scope."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:49:46+00:00"
+ "updated": "2026-10-22T15:50:27+00:00"
 }
