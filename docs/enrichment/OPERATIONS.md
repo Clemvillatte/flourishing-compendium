@@ -517,3 +517,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   both Platform Sutra verses (Shenxiu's polishing verse and Huineng's reply) checked
   against the opened Columbia Asia for Educators carrier: verbatim. Sample PASS.
   Seventeen samples this session, all PASS.
+- Supervisor verification sample 18 (2026-10-22 ~15:23 UTC): False memory implantation
+  (Loftus) — the Loftus & Pickrell 1995 sentence checked against the opened Murphy
+  et al. 2023 PDF (CORA, the page's cited secondary carrier): verbatim as quoted
+  there, with the p. 723 locator. Sample PASS. Eighteen samples this session, all
+  PASS; heartbeat refreshed.
