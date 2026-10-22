@@ -102,3 +102,9 @@
 - Note: Clear's sentence "It's not a strategy for starting, it's the whole thing" could not be quoted verbatim on the page because the staging detector flags the "it's not X, it's Y" pattern; paraphrased outside quotation marks with the rest of the passage quoted, ellipsis marked.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K327 Creative risk-taking (worker-k1b-pplx)
+- Sources opened this session: Tierney and Farmer 2011 full text PDF (JAP 96(2) 277-293, via Internet Archive scholarly-sources corpus; verbatim quotes: full abstract, the 2002 definition quote with its p. 1138 locator, the within-person gamma=.41 finding, the role-identity and supervisor-expectation findings, the contrary-to-expectation demands finding).
+- Claims narrowed: the seed's mechanism ("confidence is built through repeated exposure to the vulnerability of sharing") REJECTED on the page with the study's own contrary finding quoted (increased creativity requirements DECREASED efficaciousness; what grew confidence was role identity and supervisor expectations); the weekly-risk framing and the risk list labelled this practice's own; no trial of weekly creative risks stated.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
+- Validation: exit 0; workflow-narration grep clean.
