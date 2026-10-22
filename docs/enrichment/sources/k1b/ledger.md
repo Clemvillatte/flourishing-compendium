@@ -149,3 +149,9 @@
 - The example sentence and the practice steps labelled this practice's own; the Butler framing is the article's, quoted with attribution.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K129 Prediction log (worker-k1b-pplx)
+- Sources opened this session: Mellers et al. 2014 full text (Psychological Science 25(5) 1106-1115, via UC eScholarship; verbatim quotes: full abstract, the calibration/resolution results sentences, the "All three manipulations" Discussion sentence, the probability-training content sentences, the update-as-often-as-you-wish passage); Mellers et al., Drivers of Prediction Accuracy in World Politics (JARMAC, apa.org PDF; verbatim quotes: the key-predictors sentence, the 150,000-forecasts/743-participants sentence, the belief-updating and deliberation-time correlations with statistics).
+- Claims narrowed: the seed's "builds calibration" carried as the practice's aim, with the honest caveat that tournament calibration improvements came with training, teams and tracking; not-covered paragraph scopes the tournaments to geopolitical forecasts by trained volunteers on a scoring website, not personal beliefs in a notebook; the log has tracking and none of the rest.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
