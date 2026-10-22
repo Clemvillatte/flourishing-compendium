@@ -1689,13 +1689,13 @@ w1y band claimed and held; its 23-item queue was not started (owner cleanup took
   quote-mixing and Trinity-grammar findings applied).
 - W1T routed fixes done: Affordances carrier re-pointed to the live Charles University Gibson
   ch.8 PDF (quote verified exact); Adequate idea Spinoza em-dash restored to the Gutenberg
-  exact text ("Explanation.-I say intrinsic").
+  exact text ("Explanation.—I say intrinsic").
 - QC round 2 (advisor closing findings, all repaired and pushed): Confucian duty 13:18 quote
   restored to Muller exact ("his son"/"his father"); "the seed's source" phrasing removed from
   all session pages; Conceptual-metaphor front-matter restored to the pre-session original;
   attribution claims reworded to opened-source support (Dewey, Sandel, Communalism Big Two);
   Coram Deo Ps 34:15 verified in Institutes III.20 (chapter on prayer) and attributed exactly;
-  Conceptual-metaphar LOVE IS A JOURNEY expressions list completed to the source's last
+  Conceptual-metaphor LOVE IS A JOURNEY expressions list completed to the source's last
   sentence; Durkheim unsupported locator ("Book III, ch. IV") removed; Kelly and Constitutive-
   relationality em-dash spacing aligned to sources; Mehl definitions tense (was->is) and Vico
   §31 end-truncation repaired per the routed findings.
