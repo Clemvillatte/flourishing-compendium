@@ -156,3 +156,7 @@ Band: w1u (69 concepts, previously unclaimed). Item 1: Continuing bonds.
 - Validator errors caught and fixed in-passing: Endowment effect protected trailing seed markup restored; Error management theory stray legacy line in front matter removed (accidental push repaired to byte-for-byte seed); Experiential grounding dash count fixed; Experimental reform front-matter transcription error fixed before push.
 - Bulk re-validation at 12:23Z: all 17 session items (13-29) pass clean; all commits confirmed on origin/main.
 - Verified clock reading: 12:23:17Z (T+52.7). Standing supervisor flags unchanged: (1) Correcting-the-instrument identity gate; (2) Decision-making-research vs Maximizing-versus-satisficing overlap.
+
+## Round 6 — session close-out (2026-10-22 12:27Z)
+
+Session total: 17 items (13-29) enriched and pushed to origin/main, all validated clean in a final bulk revalidation pass. QC rounds 4 and 5 applied with repairs; verification pass fixed 8 pages further. Final commit at close: to be recorded by the T+58 final save. Baton w1u released at session end per taper schedule.
