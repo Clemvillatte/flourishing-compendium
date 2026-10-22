@@ -37,6 +37,11 @@ A tidy three-minute walkthrough, part of a larger library of ACT exercises, is [
 
 - [Masuda et al. (2004), "Cognitive defusion and self-relevant negative thoughts: examining the impact of a ninety year old technique", Behaviour Research and Therapy, full text](https://contextualscience.org/publications/masuda_hayes_sackett_twohig_2004)
 - [Masuda et al. (2009), "A Parametric Study of Cognitive Defusion", Behavior Modification](https://journals.sagepub.com/doi/10.1177/0145445508326259)
+- [Tyndall et al. (2017), "Differential Effects of Word-Repetition Rate on Cognitive Defusion of Believability and Discomfort of Negative Self-Referential Thoughts Postintervention and at One-Month Follow-Up", The Psychological Record](https://link.springer.com/content/pdf/10.1007/s40732-017-0227-2.pdf) — the repetition-rate trial: 32 participants, one word per 0.5/1/2 seconds for 30 seconds; the 1-second condition alone maintained reductions at one-month follow-up
+
+## Related concepts
+
+- [[Cognitive defusion]] — the mechanism this exercise trains
 
 ## Related kernels
 
