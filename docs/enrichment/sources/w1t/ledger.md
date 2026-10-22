@@ -234,3 +234,15 @@ Decisions:
 - Related concepts: Reversibility (existing original).
 - Gallagher 2005 book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Both-and (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/james/ — SEP Goodman. Tough-minded/tender-minded classification sentence and Bergson-critique PU 127 quote fetched verbatim. The fourth-lecture one-or-many reading appears in the IEP search result but IEP direct fetch was blocked by robots; not quoted on the page.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; P124 Cited-in wikilink and the original empty "- " bullet preserved; Facets bullet preserved.
+- Related concepts: The via media (existing original).
+- James A Pluralistic Universe book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
