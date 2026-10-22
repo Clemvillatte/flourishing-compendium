@@ -313,3 +313,53 @@ full Zencharoku wabi passage (Hirota 275); "Wabi reaches its peak of austerity i
 emptiness"; "awareness of the fundamental condition of existence is no cause for
 nihilistic despair..."; and the Raku "often asymmetrical and imperfect in form and
 finish" passage — all VERBATIM.
+
+## Round 8 (07:09Z) — further w1x pages
+
+### The leap of faith — 7 quoted passages checked, 7 PASS
+
+1. Wikipedia, Leap of faith — "the act of believing in or accepting something not on the
+   basis of reason" and "commonly associated with Danish philosopher Søren Kierkegaard" —
+   VERBATIM.
+2. SEP, Søren Kierkegaard — "a morally free action always comes from a 'leap' and cannot
+   be seen as necessary" — VERBATIM substring.
+3. Same — "Infinite resignation—the first move in the 'double movement' of faith—involves
+   the renunciation of important goods or commitments in favor of those considered to be
+   'higher'" — VERBATIM.
+4. Same — "whereas infinite resignation is something that I can achieve through my own
+   will, the knight of faith both recognizes his dependence upon a divine power beyond
+   himself and trusts in God's promises—even in the most extraordinary 'trial' of the
+   akedah—in a way that appears to an outsider like Johannes as 'absurd'" — VERBATIM
+   (source opens "But a key notion seems to be that whereas..."; quoted span exact).
+5. Same — "the true measure of Abraham's faith is less his willingness to sacrifice
+   Isaac than his trust and hope that he will 'receive him back'—in this life, not just
+   in eternity" — VERBATIM; "the knight of faith is able to take a genuine joy in the
+   finite world, receiving it back (in the form of Isaac or the princess) despite
+   having given it up in 'resignation'" — VERBATIM (source adds "Remarkably,").
+6. Same — "Faith and offense are opposite and rival passions, and neither can be fully
+   justified by reason" — VERBATIM.
+7. SEP, Existentialism — "the leap individualizes us; it cuts us off from the comforting
+   truths of the public and its blanket conceptions of right and wrong" — VERBATIM.
+
+### Unconscious processes — 8 quoted passages checked, 8 PASS
+
+1. Wikipedia, Unconscious mind — "the part of the psyche that is not available to
+   introspection" — VERBATIM; "exist beneath the surface of conscious awareness ... exert
+   an effect on conscious thought processes and behavior" — VERBATIM.
+2. Same — "ideas and drives that have been subject to the mechanism of repression:
+   anxiety-producing impulses in childhood are barred from consciousness, but do not
+   cease to exist, and exert a constant pressure in the direction of consciousness" —
+   VERBATIM.
+3. Same — the cognitive/adaptive/dumb unconscious sentence — VERBATIM substring.
+4. Same — "individuals automatically register and acquire more information than they are
+   consciously aware of or can consciously remember and report" — VERBATIM.
+5. SEP, Consciousness — Leibniz "petites perceptions" sentence — VERBATIM substring.
+6. Same — "Though unconscious automatic processes can be extremely efficient and rapid,
+   they typically operate in ways that are more fixed and predetermined than those which
+   involve conscious self-awareness" — VERBATIM; skill-acquisition sentence — VERBATIM
+   substring.
+7. SEP, Introspection — "No major contemporary philosopher believes that all of
+   mentality is available to be discovered by introspection" — VERBATIM; "more modest
+   than non-psychologists generally tend to assume" — VERBATIM substring.
+8. Wikipedia, Blindsight / Implicit memory / Unconscious inference quotes — not
+   re-verified this round (time-boxed); noted for a future pass.
