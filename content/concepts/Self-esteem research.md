@@ -7,7 +7,7 @@ file: "Self-esteem research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-esteem research, in the line of work associated with Michael Kernis, learned to ask not just how high a person's self-esteem is but what kind it is. The central finding of that line: the benefits of high self-esteem depend on its form.
+Self-esteem research, in the line of work associated with Michael Kernis, learned to distinguish the form of a person's self-esteem from its level. The central finding of that line: the benefits of high self-esteem depend on its form.
 
 > "High self-esteem can be fragile or secure depending upon the extent to which it is defensive or genuine, contingent or true, unstable or stable, and discrepant or congruent with implicit (nonconscious) feelings of self-worth" (Kernis, 2003, [abstract](https://www.semanticscholar.org/paper/TARGET-ARTICLE:-Toward-a-Conceptualization-of-Kernis/90e6fe5d604dee8d9662f988780b056c3989d13e)).
 
