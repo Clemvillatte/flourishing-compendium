@@ -363,3 +363,82 @@ finish" passage — all VERBATIM.
    than non-psychologists generally tend to assume" — VERBATIM substring.
 8. Wikipedia, Blindsight / Implicit memory / Unconscious inference quotes — not
    re-verified this round (time-boxed); noted for a future pass.
+
+## Round 9 (07:13Z) — final w1x pages
+
+### The reserve clause — 7 quoted passages checked, 7 PASS
+
+1. Robertson (2013) — Meditations 4.1 (Hays): "with a 'reserve clause'; it converts into
+   material for itself any obstacle that it meets with, just as fire when it gets the
+   mastery of what is thrown upon it" — VERBATIM substring.
+2. Same carrier — "Fate permitting" — VERBATIM ("we should pursue external goals with
+   the caveat: 'Fate permitting.'").
+3. Same carrier — Meditations 11.37: "with a 'reserve clause'; that they have in view our
+   neighbour's welfare; that they are proportionate to a thing's value" — VERBATIM
+   substring.
+4. Gutenberg, Long translation — "whatsoever it is that it doth now intend and
+   prosecute, it doth prosecute it with exception and reservation; so that whatsoever it
+   is that falls out contrary to its first intentions, even that afterwards it makes its
+   proper object" — VERBATIM substring.
+5. SEP, Epictetus — "pursue our ends 'with reservation' (Encheiridion 2), mindful that
+   god may not bring them to fruition" — VERBATIM substring; "that a thing is without
+   ultimate value and still act vigorously in pursuit of it, when doing so is in
+   accordance with one's rational character" — VERBATIM.
+6. SEP, Stoicism — "a selection can be correct even if Zeus decides not to produce the
+   indifferent that the agent pursues: like excellent dancing, virtuous selection of
+   indifferents does not require the acquisition of any object external to the agent in
+   order to count as successful" — VERBATIM.
+
+### The insatiability of craving — 7 quoted passages checked, 7 PASS
+
+1. Wikisource, WWR Vol. 1 Third Book (Haldane & Kemp) — "All willing arises from want,
+   therefore from deficiency, and therefore from suffering, The satisfaction of a wish
+   ends it; yet for one wish that is satisfied there remain at least ten which are
+   denied." — VERBATIM (the comma after "suffering" is in the source; the page notes the
+   scanned edition's typographic quirks).
+2. Same — "But even the final satisfaction is itself only apparent; every satisfied wish
+   at once makes room for a new one; both are illusions; the one is known to be so, the
+   other not yet." — VERBATIM.
+3. Same — "No attained object of desire can give lasting satisfaction, but merely a
+   fleeting gratification; it is like the alms thrown to the beggar, that keeps him
+   alive to-day that his misery may be prolonged till the morrow." — VERBATIM.
+4. Same — "so long as our consciousness is filled by our will ... we can never have
+   lasting happiness nor peace" — VERBATIM (source contains a soft-hyphen artifact
+   between "we are" and "given up"; the quoted text matches after artifact removal).
+5. SEP, Schopenhauer — "In a manner reminiscent of traditional Buddhism, he recognizes
+   that life is filled with unavoidable frustration and acknowledges that the suffering
+   caused by this frustration can itself be reduced by minimizing one's desires" —
+   VERBATIM.
+6. Wikipedia, Hedonic treadmill — "as a person makes more money, expectations and
+   desires rise in tandem, resulting in no permanent gain in happiness" — VERBATIM.
+7. Wikipedia, Dopamine — "In human drug addicts, 'wanting' becomes dissociated with
+   'liking' as the desire to use an addictive drug increases, while the pleasure
+   obtained from consuming it decreases due to drug tolerance" — VERBATIM.
+
+### Altruism — 5 quoted passages checked, 5 PASS (several secondary quotes deferred)
+
+1. SEP, Altruism — "Behavior is normally described as altruistic when it is motivated
+   by a desire to benefit someone other than oneself for that person's sake" —
+   VERBATIM; "we do not care about others for their sake. Altruism, in other words,
+   does not exist" — VERBATIM substring.
+2. SEP, Egoism — "Psychological egoism claims that each person has but one ultimate
+   aim: her own welfare" — VERBATIM.
+3. SEP, Auguste Comte — "Like the word 'sociology', the word 'altruism' was coined by
+   Comte" — VERBATIM.
+4. Wikipedia, Empathy-altruism — Batson hypothesis sentence and "participants in the
+   high-empathy condition helped at consistently high rates regardless of escape
+   difficulty" — VERBATIM.
+5. Deferred to a future pass (time-boxed): SEP Biological Altruism, SEP Love (Whiting),
+   SEP Ethics of Indian Buddhism (karuna), Wikipedia Warm-glow giving / Altruism
+   (antonym), Bhikkhu Bodhi, Britannica Four Noble Truths.
+
+## Session summary
+
+9 verification rounds, 15 pages, ~100 quoted passages checked against freshly opened
+carriers. One defect routed (Self-verification theory's first Swann-Pelham-Krull 1989
+quotation — paraphrase printed as quotation; repair suggestion supplied). One minor
+carrier-grade note routed (The illusion of certainty — quote-aggregator carriers). Three
+minor precision nuances recorded (Wisdom theory Berlin paradigm "Also," prefix;
+Importance of rest g = -0.776 referent; Lifeworld SEP continuation sentence). All other
+quotes verified verbatim. Ledger: this file. Routed findings: TASKBOARD.md, worker note
+dated 2026-10-22 06:59Z.
