@@ -179,3 +179,9 @@
 - Claims narrowed: the seed's 48-hour window labelled this practice's own on the page (the research's early-repair evidence concerns minutes into a conflict discussion, not days after a rift); the example sentence kept as the practice's own; the definition attributed to the Gottman Institute's published description of the research.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K225 Service and creation (worker-k1b-pplx)
+- Sources opened this session: Kahana et al. 2013 full text (PMC3910233, Journal of Aging and Health; verbatim quotes: the unique-contributions abstract sentence, the positive-not-negative-indicators sentence, the Wave-2-to-Wave-5 life-satisfaction findings with statistics, the generativity-meaningfulness sentences); Bangerter et al. 2015 full text (PMC4592331, The Gerontologist; verbatim quotes: the generativity definition, the rewarding-support findings, the generativity-leads-to-mental-well-being sentence, the sense-of-purpose sentence).
+- Claims narrowed: the weekly cadence and outlasts-the-week test labelled this practice's own; not-covered paragraph states the studies measure helping among older adults and parent-to-grown-child support, not a weekly service-or-creation practice; the positive-not-negative-indicators finding carried onto the page as a boundary (adds brightness, not a treatment for what is dark).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
