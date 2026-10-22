@@ -200,3 +200,12 @@ Anticipated consequences comma, pbworks dead carrier re-point, Gay Science label
 carrier) plus 3 more (TMS ellipsis, Rawls comma, Rawls citation re-point); all repaired pages re-validated;
 1 routed note (Baltes & Staudinger telephone-task quote, paywalled body). Ledger and repairs pushed after
 every round; every save verified on origin/main.
+
+## Round 18 — morning sample continued
+
+1. **The social selves** — James quotes VERIFIED verbatim via the opened Gutenberg Principles of Psychology text. PASS.
+2. **The taxonomy of passions** — the Spinoza Ethics IIIp9s desire/appetite passage VERIFIED verbatim via the opened SEP entry. PASS (the Joy/Sadness affects definitions, cited to a Taylor & Francis article, were not separately opened this session — routed as next-up).
+3. **The three disciplines** — both renderings of Discourses 3.2.1-2 VERIFIED verbatim: the Hard translation via the opened IEP page, the Oldfather translation via the opened Aitia journal article. PASS.
+4. **Transcendence** — the Maslow "two kinds" quote VERIFIED verbatim via the opened sloww.co page; the "Transcendence refers to..." definition VERIFIED verbatim via the opened reasonandmeaning page. The Jaspers Comprehensive quote is cited to the compendium's own principle page (internal cross-reference; the underlying Way to Wisdom pages were not re-opened this session — noted). PASS.
+
+Round 18: 4 pages, 6 quoted passages verified, no defects.
