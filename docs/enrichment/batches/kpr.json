@@ -342,7 +342,7 @@
   "K415"
  ],
  "in_progress": null,
- "updated": "2026-10-22T12:04:34+00:00",
+ "updated": "2026-10-22T12:05:19+00:00",
  "band_done": false,
  "flagged": {
   "Scheduled empty time": "Reopened for QC: QC correction: advisor round-2 bounded fixes (universal negative replaced with bounded statement; Target dimension wording; guided version as optional alternative); page updated, validator ok; QC resubmission in flight | QC VERDICT 2026-10-22T05:53Z (advisor round, worker-w1x-pplc-f5c2b209): KEEP QC-PENDING; verdict recorded in ledger 05:53Z entry with next-worker repair specs; K396 attribution repair and K378 invented-step removal applied this round (validator ok)",
