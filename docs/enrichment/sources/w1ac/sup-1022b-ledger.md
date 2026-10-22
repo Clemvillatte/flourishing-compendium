@@ -94,3 +94,8 @@
 - Verbatim: "We identified a 'salience network,' anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an 'executive-control network' that links dorsolateral frontal and parietal neocortices."
 - Dissociation findings (anxiety -> dACC node; executive performance -> lateral parietal nodes) restated from the same abstract.
 - The switching claim is grounded in the PNAS 2008 Sridharan/Levitin/Menon abstract (rFIC causal role, three experiments) surfaced via search; the seed's "switching between default and executive modes" wording is that paper's contribution, not Seeley's.
+
+## Schema Therapy Model (fast-track bar)
+- Opened: Wikipedia "Schema therapy" (quoting Young, Klosko & Weishaar 2003). The six-clause EMS definition is the standard Guilford wording; five domains and 18 schemas, four mode categories with vulnerable-child focus, verified against the opened page.
+- SE076's Linehan parallel retained as inherited (not re-opened).
+- "The wounded inner child" link removed (no page); replaced with Attachment theory + Mattering.
