@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The stimulus-response gap” — Epictetus, Enchiridion, the doctrine of the impression.
 
-The stimulus-response gap is the Stoic doctrine that between what happens and how we respond there is a judgement, and the judgement — not the event — carries the disturbance. The Enchiridion's fifth chapter states it:
+Here, "the stimulus-response gap" is an interpretive label for Epictetus's account of the impression: between what happens and how we respond there is a judgement, and the judgement — not the event — carries the disturbance. The Encheiridion's fifth chapter states it:
 
 > "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing." (Epictetus, [Encheiridion V, George Long translation, Gutenberg](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm))
 
@@ -21,7 +21,7 @@ The same chapter turns the doctrine into an instruction:
 
 And the first chapter supplies the underlying division of what is and is not ours:
 
-> "Of things some are in our power, and others are not. In our power are opinion, movement towards a thing, desire, aversion, turning from a thing; and in a word, whatever are our acts." (Epictetus, [Encheiridion I, Gutenberg](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm))
+> "Of things some are in our power, and others are not." (Epictetus, [Encheiridion I, Gutenberg](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm))
 
 ### In the compendium
 
