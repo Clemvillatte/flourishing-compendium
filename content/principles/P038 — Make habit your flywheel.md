@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 38** — Make habit your flywheel
 
-James's own image is the flywheel: "Habit is thus the enormous fly-wheel of society, its most precious conservative agent." And his practical instruction is exactly the principle's allocation of energy: "The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work." The compendium's application: put the recurring parts of life on autopilot — same breakfast, same route, same opening hour — so that the higher powers are free for their own proper work.
+William James's chapter on habit in *The Principles of Psychology* (1890) uses the flywheel for society as a whole: "Habit is thus the enormous fly-wheel of society, its most precious conservative agent." The principle takes the image down to the size of one life. James himself makes that step when he turns to education and personal conduct:
 
-(James, The Principles of Psychology, 1890.)
+> The great thing, then, in all education, is to make our nervous system our ally instead of our enemy. [...] For this we must make automatic and habitual, as early as possible, as many useful actions as we can, and guard against the growing into ways that are likely to be disadvantageous to us, as we should guard against the plague. The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. ([James 1890, ch. IV, "Habit", Classics in the History of Psychology](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
 
-**Plain words** Don't spend decision-power on cereal; spend it on anything that hasn't happened before. Hand the recurring parts of life to habit, and the rest of you is free for its own proper work.
+He also describes the opposite case:
 
-*For example:* A user fixes breakfast in advance and keeps the morning's deciding for the unfamiliar problem that arrives at work.
+> There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work, are subjects of express volitional deliberation. ([same chapter](https://psychclassics.yorku.ca/James/Principles/prin4.htm))
+
+The warning in the middle matters as much as the advice. Habits work for you or against you depending on which ones you automate, and James says to guard against the harmful ones "as we should guard against the plague."
+
+(James, *The Principles of Psychology*, 1890, ch. IV; the italics in the passage above are James's and are omitted here.)
+
+### Plain words
+
+Routine tasks should run on habit, so that your fresh attention goes to what is new. If you decide breakfast, route and start time from scratch every day, those decisions use up attention that something harder needed. Pick the useful actions, make them automatic, and keep a close eye on any habit that works against you.
+
+### For example
+
+Fix three things for the next month: what you eat for breakfast on weekdays, the time you start work, and where your keys live. Write them on a card. Once they feel automatic, spend the freed-up morning attention on one problem you have not solved before. If one of them turns out to work against you, change it soon.
+
+## Sources
+
+- William James, *The Principles of Psychology* (1890), ch. IV, "Habit": [Classics in the History of Psychology](https://psychclassics.yorku.ca/James/Principles/prin4.htm); also the same wording in James's *Psychology: Briefer Course*, ch. X, [Project Gutenberg](https://www.gutenberg.org/files/55262/55262-h/55262-h.htm)
 
 ## Stories
 - [[ST349 — The Sand-Table Farm|349. The Sand-Table Farm]]
