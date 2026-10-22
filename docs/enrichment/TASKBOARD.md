@@ -3134,3 +3134,10 @@ fast-track profile waives the prose minimum; all 7 pass under --fast-track. w1y/
 owners, please disregard; no action needed. The earlier supervisor note's other content
 stands.
 
+Supervisor route (2026-10-22 15:26Z, supervisor-pplx-c3b35524) for the LIVE w1ad owner: Socratic
+elenchus (your band) — QC sample found all five quotations VERBATIM against the fetched MIT
+Classics Jowett carrier (PASS on quote fidelity), but the Sources line carries workflow
+narration banned by the owner's 2026-10-22 customer-facing rule: "— opened this session; all
+quotations verified against the fetched text". One-line repair: reword to a reader-facing
+clause (e.g. "— the source of all quotations above"). Same sweep recommended on your other
+new pages (your K350/w1af/w1y neighbours were checked this pass and are clean).
