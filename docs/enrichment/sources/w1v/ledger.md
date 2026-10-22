@@ -28,3 +28,8 @@
 - NAMESPACE FLAG: "objectless contemplation" not verified as a term in any opened source; recorded in concept-namespace-audit.md and batch flagged; held out of done pending supervisor disposition.
 - Milestone fix applied to Original enlightenment (advisor): Platform Sutra reframed as the compendium's pairing (comparison), seed-provenance sentence removed, B087/Pali sentence narrowed to compendium-internal fact, Beginner's mind link removed (unverified), "Tendai" label removed from the comparison sentence.
 - Validator: ok (fast-track, both pages).
+
+## Mysterium tremendum (fast-track, 2026-10-22)
+- Source opened: archive.org in.ernet.dli.2015.261848 The Idea of the Holy (Harvey translation) full text. Verbatim: ch. IV "The feeling of it may at times come sweeping like a gentle tide, pervading the mind with a tranquil mood of deepest worship."; ch. IV creature-feeling passage; ch. VI "These two qualities, the daunting and the fascinating, now combine in a strange harmony of contrasts". OCR quote-marks normalised; words checked.
+- The sublime gloss verified against the linked page's own Burke content.
+- Validator: ok (fast-track). Advisor QC: not due (item 6).
