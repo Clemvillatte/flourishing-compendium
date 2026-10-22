@@ -13,7 +13,7 @@ The construct as the developmental literature defines it, verbatim from a review
 
 > Responsive parenting can be described using the framework of attachment theory, as the ability of the parent to actively connect with their child, and the capacity to read and respond to the child's needs.
 
-(Brooks et al., review in Infant Mental Health Journal, [opened full text](https://onlinelibrary.wiley.com/doi/full/10.1002/imhj.22037); the construct definition draws on Landry et al., 2008)
+(Morris, Price, McKenzie & Kemp, Infant Mental Health Journal, 2023, [opened full text](https://onlinelibrary.wiley.com/doi/full/10.1002/imhj.22037); the construct definition draws on Landry et al., 2008)
 
 The same review states the mechanism plainly: responsivity is the observable behavior key to promoting secure attachments, while attachment names the internal state of affectional bonding. To be responsive, the parent must respond in a timely, predictable and appropriate manner, and communicate that the child's interests, desires and interactions have importance and influence.
 
