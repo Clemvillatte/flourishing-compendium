@@ -54,5 +54,5 @@ A free, high-quality guided session is the [Body Scan (14 minutes) from UCLA Min
 
 ## Sources
 
-- [Sparacio et al. (2024), "Investigating the effect of individual mindfulness exercises on stress and well-being", Nature Human Behaviour, PubMed](https://pubmed.ncbi.nlm.nih.gov/39102931/)
+- [Sparacio et al. (2024), "Investigating the effect of individual mindfulness exercises on stress and well-being", Nature Human Behaviour, PubMed](https://pubmed.ncbi.nlm.nih.gov/38862815/)
 - [Fischer et al. (2017), "Phenomenological Fingerprints of Four Meditations: Differential Effects on Attention, Cognition, and Imagery", Frontiers in Psychology, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5241345/)
