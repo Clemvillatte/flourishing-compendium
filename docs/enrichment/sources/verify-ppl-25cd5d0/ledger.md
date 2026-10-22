@@ -185,3 +185,23 @@ cited carriers:
   scope sentence exact.
 No routed findings. Accessibility note: pubmed.ncbi.nlm.nih.gov returned empty text for the
 crawler this session; annualreviews.org carries the same abstract.
+
+## Round 7 (2026-10-22 ~12:18Z)
+
+### Potentiality to actuality (w1s, fast-track done)
+
+6 quoted passages checked, 6 PASS verbatim against a fresh fetch of the cited MIT Classics
+Metaphysics IX page (Ross): the IX.6 actuality/statue-of-Hermes passage, both IX.7 seed
+passages, the IX.8 "produced by an actually existing thing" passage, "actuality is prior to
+potency" (IX.8), and "the actuality is the end, and it is for the sake of this that the
+potency is acquired".
+MINOR LOCATOR ERROR (routed, low severity): the page attributes the "actuality is the end"
+quote to (IX.6); in the MIT Classics text it stands in Part 8, alongside the priority-of-
+actuality argument. Suggest the owner correct the locator to IX.8.
+
+### Narrative empathy (w1s, fast-track done)
+
+4 quoted passages checked, 4 PASS verbatim against a fresh fetch of the cited Mar & Oatley
+2008 PDF (yorku.ca): the simulation-of-the-social-world sentence, the empathic-growth
+sentence (p. 181), the "trains us to extend our understanding" sentence, and "brings close
+attention to distant worlds that would otherwise remain unknown". No routed findings.
