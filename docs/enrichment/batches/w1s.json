@@ -3,11 +3,12 @@
  "done": [
   "Oikeiosis",
   "Naive realism",
-  "Philia"
+  "Philia",
+  "Motor intentionality"
  ],
- "in_progress": "Motor intentionality",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:25:19+00:00"
+ "updated": "2026-10-22T11:27:02+00:00"
 }
