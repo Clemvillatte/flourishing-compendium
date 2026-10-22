@@ -11,17 +11,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 - Plato, Symposium, Diotima's ladder
 
-Eros, in Plato's Symposium, is examined rather than praised. Socrates reports his teacher Diotima's correction of the ordinary view: Eros is not a beautiful god but an intermediate power, wanting what it lacks:
+Eros, in Plato's Symposium, is examined rather than praised. Socrates reports his teacher Diotima's teaching, and the dialogue's core claim is that desire is aimed at immortality: "love is of immortality" ([Symposium, Jowett translation](https://www.gutenberg.org/ebooks/1600)). Diotima's own statement of the drive reads:
 
-> "Love is of something, and that which love desires is not that which love is or has; for no man desires that which he is or has." (Plato, [Symposium, Jowett translation](https://www.gutenberg.org/ebooks/1600))
+> "'Marvel not,' she said, 'if you believe that love is of the immortal, as we have several times acknowledged; for here again, and on the same principle too, the mortal nature is seeking as far as is possible to be everlasting and immortal: and this is only to be attained by generation, because generation always leaves behind a new existence in the place of the old.'" (Plato, [Symposium](https://www.gutenberg.org/ebooks/1600))
 
-Diotima's teaching then gives desire its direction: mortal things do not last, and eros is the drive to leave something behind:
-
-> "mortal nature is seeking as far as is possible to be everlasting and immortal: and this is only to be attained by generation, because generation always leaves behind a new existence in the place of the old." ([Symposium](https://www.gutenberg.org/ebooks/1600))
-
-Hence her formula that "conception and generation are an immortal principle in the mortal creature" ([Symposium](https://www.gutenberg.org/ebooks/1600)). Children, works, laws and fame are all, in the dialogue's accounting, attempts at this one immortality; "this is why men love the immortality of fame" ([Symposium](https://www.gutenberg.org/ebooks/1600)).
-
-The ladder that carries this desire upward, from one beautiful body to beauty itself, is the compendium's companion page: [[The ladder of love]].
+Hence her formula that "conception and generation are an immortal principle in the mortal creature" ([Symposium](https://www.gutenberg.org/ebooks/1600)). Children, works and laws are all, in the dialogue's accounting, attempts at this one immortality; the ladder that carries the desire upward, from one beautiful body to beauty itself, is the compendium's companion page: [[The ladder of love]].
 
 ## Related concepts
 

@@ -14,7 +14,7 @@ higher granularity predicts lower reactivity and better regulation (Barrett, 200
 
 - improves regulation (Barrett et al., 2001)
 
-Emotional granularity is Lisa Feldman Barrett's term for how finely a person distinguishes among their own feelings. The construct was measured as "emotion differentiation" before Barrett named it granularity in a 2004 Journal of Personality and Social Psychology article; the two names remain in use for the same thing ([Barrett 2004](https://affective-science.org/pubs/2004/FB2004.pdf); [Kashdan, Barrett & McKnight 2015](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
+Emotional granularity is L. F. Barrett's term for how finely a person distinguishes among their own feelings. The construct was measured as "emotion differentiation" before Barrett named it granularity in a 2004 Journal of Personality and Social Psychology article; the two names remain in use for the same thing ([Barrett 2004](https://affective-science.org/pubs/2004/FB2004.pdf); [Kashdan, Barrett & McKnight 2015](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
 
 The 2004 article sets out the individual difference in the words people use to report how they feel:
 
@@ -24,7 +24,7 @@ Those in the first group "reported their emotional experience in more precise, d
 
 > "According to recent research, upon experiencing intense distress, individuals who experience their emotions with more granularity are less likely to resort to maladaptive self-regulatory strategies such as binge drinking, aggression, and self-injurious behavior; show less neural reactivity to rejection; and experience less severe anxiety and depressive disorders." (Kashdan, Barrett & McKnight, [Unpacking emotion differentiation, 2015](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf), abstract)
 
-The proposed mechanism is informational: an emotion named precisely carries more guidance about what to do. The same review frames the construct's reach: "Being able to carefully perceive and distinguish the rich complexity in emotional experiences is a key component of psychological interventions" ([2015, abstract](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
+The proposed mechanism is informational: an emotion named precisely gives more guidance about what to do. The same review frames the construct's reach: "Being able to carefully perceive and distinguish the rich complexity in emotional experiences is a key component of psychological interventions" ([2015, abstract](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
 
 ## Related concepts
 
