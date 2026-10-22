@@ -645,3 +645,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   definition quote (with its nested self-directed-process citation) checked against
   the opened Europe PMC full text (PMC8383463): verbatim (curly-quote
   normalization only). Sample PASS. Forty-three samples this session, all PASS.
+- Supervisor verification sample 44 (2026-10-22 ~16:44 UTC): Affects (random
+  finished-band draw, w1q) — the Spinoza Ethics III D3 definition, the pleasure/
+  unpleasure definitions, and the love/hate definitions checked against the opened
+  Bennett PDF (earlymoderntexts.com): all verbatim (Bennett's bullet markers and
+  curly quotes normalized; wording identical). Sample PASS. Forty-four samples
+  this session, all PASS.
