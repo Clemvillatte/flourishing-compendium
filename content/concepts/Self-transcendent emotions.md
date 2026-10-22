@@ -15,6 +15,11 @@ Self-transcendent emotions are positive emotions that orient a person beyond the
 
 The finding comes from two cross-sectional studies: "In two different contexts (churchgoers in a European country and US university employees interested in meditation), results showed that the relation between religion (Study 1), spirituality (Study 2) and well-being is mediated by positive emotions" (Van Cappellen et al., 2016). The mediator was specific: the self-transcendent subset did the work, amusement and pride did not. What a person feels toward what is outside them, on this evidence, is part of how spirituality connects to well-being — not just what they believe or whom they sit beside.
 
+## Related concepts
+
+- [[Awe]]
+- [[Gratitude]]
+
 ## Sources
 
 - [Van Cappellen, P., Toth-Gauthier, M., Saroglou, V., & Fredrickson, B. L. (2016). Religion and well-being: The mediating role of positive emotions. Journal of Happiness Studies, 17(2), 485-505 (abstract)](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9)
