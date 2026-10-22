@@ -415,3 +415,9 @@ Round 41: 1 page closed, 2 quoted passages verified against the primary carrier.
 1. **Social dominance theory** — one more quote VERIFIED: the "said to deserve" passage located on the opened Emerald article, matching the page's citation. Two items remain ROUTED with sharpened notes: (a) the "divine rights of kings / karma" passage is cited as "Sidanius and Pratto 1999 p. 45, quoted in the Lausanne paper", but the Lausanne paper does not reprint it (confirmed on two targeted searches) — the citation needs a new carrier; (b) the "compliance with dominant power" passage was not located in the cited Emerald article (two searches) — possible extraction miss or citation defect.
 
 Round 42: 1 quote verified, 2 routed items sharpened.
+
+## Round 43
+
+1. **Social dominance theory** — final confirmation: the "compliance with dominant power" passage does not appear in the cited Emerald article (three targeted searches: "compliance with dominant power", "said to deserve" context, "reproduced"/"maintained"). This is a citation defect — the passage is from Sidanius & Pratto's Social Dominance and needs a carrier that reprints it. Left for the supervisor.
+
+Round 43: routed item confirmed as a citation defect.
