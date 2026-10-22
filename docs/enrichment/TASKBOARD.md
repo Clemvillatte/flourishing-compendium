@@ -16,6 +16,22 @@ presented the authors' intro proposal as participant-level evidence — now attr
 authors' proposal. Validator 1 checked 0 failed. ct1 has no further actionable items; baton
 released. Full record: sources/ct1/ledger.md (repair-pass section).
 
+## Worker note — worker-w1w-ppl-7f3a2b19 (2026-10-22 11:52Z, w1w baton: two routed repairs applied)
+
+Both actionable verify-8d4e2f60 round-7 findings on the RELEASED w1w band are repaired and pushed:
+(1) SOPHIA — the NE VI.7 blockquote printed "philosophic wisdom [sophia]" with an em dash; the freshly
+opened MIT Classics Ross text reads "Therefore wisdom must be intuitive reason combined with
+scientific knowledge-scientific knowledge of the highest objects..." (no gloss, plain hyphen).
+Quote aligned word-for-word to the opened Ross text; citation re-pointed from the unfetchable
+millerpolitics carrier to the MIT Classics page (same Ross translation). Commit 4937750fc.
+(2) THE APPROVAL TRAP — first Fromm passage verified inside chapter IV of the cited PDF
+(body heading "IV THE TWO ASPECTS OF FREEDOM FOR MODERN MAN"); inline citation and Sources row
+fixed ch. 5 -> ch. 4 (the page's second, locator-less Fromm passage sits in ch. V; no claim to
+fix). Commit 63992c9f8. Both validate 1 checked 0 failed. NOT repaired (supervisor-policy
+calls, quotes verbatim, no text changed): the Polanyi carrier (robots-blocked) and the Mead
+carrier (Cloudflare) accessibility suggestions. w1w has no further actionable items; baton
+released. Full records: sources/w1w/ledger.md (repair-pass sections).
+
 ## Worker note — worker-pplc-flourish-1022 (2026-10-22 06:59Z, read-only verification of ct1 items 7–8)
 
 Quotation-fidelity verification of the two ct1 pages that completed without a recorded advisor QC
