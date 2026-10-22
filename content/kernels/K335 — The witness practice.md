@@ -4,9 +4,9 @@ id: "K335"
 type: "kernel"
 title: "The witness practice"
 file: "K335 — The witness practice"
-tags: ["applied-practice", "topic/relationships"]
+tags: ["applied-practice", "topic/identity"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
-legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.02 — 2. Relational Practices", "parent": ""}
+legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.13 — 13. Narrative Identity and Life Review", "parent": ""}
 ---
 > **Kernel K335** — The witness practice
 

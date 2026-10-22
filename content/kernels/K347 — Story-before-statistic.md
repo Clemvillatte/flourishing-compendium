@@ -4,9 +4,9 @@ id: "K347"
 type: "kernel"
 title: "Story-before-statistic"
 file: "K347 — Story-before-statistic"
-tags: ["applied-practice", "topic/relationships"]
+tags: ["applied-practice", "topic/creativity"]
 navigation: {"track": "psychology", "primaryPath": ["NAV-PSYCHOLOGY", "NAV-PSYCH-V1K"], "alternatePaths": []}
-legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.02 — 2. Relational Practices", "parent": ""}
+legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kernels (Volume II)", "chapter": "V2K-S01.16 — 16. Cultural Safety and Cross-Cultural Practice", "parent": ""}
 ---
 > **Kernel K347** — Story-before-statistic
 

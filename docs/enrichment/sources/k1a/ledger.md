@@ -224,3 +224,8 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The paper is a theoretical account, stated as such in "What this evidence does not test": it is not an intervention study, and the seed's stories-vs-data contrast is carried as rationale, not a measured difference.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+### Repair note (2026-10-22, worker-k1a-pplx-9f2b31e7): front-matter drift on K335, K227, K347
+
+- During fast drafting, the YAML front matter of K335, K227, and K347 was reconstructed from memory instead of copied from the seed files, changing tags/navigation/legacy values (K335: topic/relationships and V2K-S01.02 instead of topic/identity and V2K-S01.13; K227: topic/vocation, empty alternatePaths, and V1K-S01.10 Vocation-Work-Money instead of topic/meaning+topic/time, NAV-THEM-MEANING, and V1K-S01.10 Meaning; K347: topic/relationships and V2K-S01.02 instead of topic/creativity and V2K-S01.16). The validator caught K347 immediately; K335 and K227 passed a post-commit check only because the drifted values had already been committed (the validator compares against HEAD), and an md5 audit against each file's seed commit exposed them.
+- All three files now carry front matter identical to their original seed commits (verified by diff against each file's first commit); body content is unchanged from the enriched versions. No other band's files touched. All remaining session items were audited the same way and matched their seeds.
