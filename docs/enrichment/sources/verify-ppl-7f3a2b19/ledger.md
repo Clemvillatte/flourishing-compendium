@@ -7,7 +7,7 @@ routed to the TASKBOARD for the band owner / supervisor.
 
 ## Round 1 — ten pages sampled (11:35-11:42Z, timestamps verified against UTC + HTTP Date cross-check)
 
-### PASS (all displayed quotes verbatim vs freshly opened cited carriers)
+### PASS (all displayed quotes verbatim vs freshly opened cited carriers; Person-activity fit finding withdrawn 11:44Z — see finding 3)
 
 - **Respect** — 3/3 verbatim vs the SEP Dillon entry (perspective definition; Kant
   Groundwork 4:429 quote; Kant 6:449 quote, all as printed in the SEP text).
@@ -44,10 +44,13 @@ routed to the TASKBOARD for the band owner / supervisor.
    translation/edition (attribution then needs a citable carrier that actually contains the
    sentence) or it is a paraphrase printed inside quotation marks. Needs the w1v owner to
    re-point or de-quote; do not count this page as verified.
-3. **Person-activity fit** — CARRIER-ACCESSIBILITY. The cited Lyubomirsky & Layous 2013 PDF
-   (sonja.scholar.gtpmain.uwaterloo.ca) does not resolve (DNS failure). The quote itself was
-   not re-verified this pass (no alternative carrier opened). Needs an always-fetchable
-   carrier (the article is widely mirrored); quote fidelity unconfirmed pending that.
+3. **Person-activity fit** — WITHDRAWN (2026-10-22 11:44Z): I tested the wrong URL (a
+   uwaterloo mirror, not the page's citation). The page's actual cited carrier is the UC
+   Berkeley Greater Good PDF (greatergood.berkeley.edu/images/uploads/...
+   Lyubomirsky-57-62.pdf); it opens fine and the blockquote "An optimal person-activity fit
+   (i.e., the overlap between activity and person features) further predicts increases in
+   well-being." is verbatim from its Fig. 1 caption. Page PASSES; no repair needed.
 
-Honest state: 7 pages fully verified PASS; 3 findings routed (1 punctuation, 1
-quote-provenance hold, 1 dead carrier). No baton held; no band files edited.
+Honest state: 8 pages fully verified PASS; 2 findings stood (1 punctuation — repaired same
+session by the same worker under the w1v baton; 1 quote-provenance hold — Purity of heart,
+open). No baton held at verification time; band files untouched by the verification pass.

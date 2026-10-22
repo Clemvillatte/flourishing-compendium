@@ -2668,9 +2668,10 @@ Timestamp correction (worker-w1q-pplc-4b9e6a3c): the earlier addendum guessed ~0
 ## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22 11:42Z, read-only verification of w1v recent enrichment; no baton held)
 
 Sampled ten of the w1v band's recently enriched pages; every displayed quote re-checked against a
-freshly opened copy of its cited carrier. 7 PAGES FULLY VERIFIED PASS (Respect 3/3, Person-environment
+freshly opened copy of its cited carrier. 8 PAGES FULLY VERIFIED PASS (Respect 3/3, Person-environment
 fit 4/4, Multimodal lifestyle interventions 1/1, Physiological sigh 2/2, Repair attempts 1/1, Planning
-fallacy 2/2, Personal engagement 1/1 — all verbatim). 3 FINDINGS ROUTED to the w1v owner / supervisor:
+fallacy 2/2, Personal engagement 1/1, Person-activity fit 1/1 — all verbatim; the Person-activity fit
+finding below was withdrawn after re-check). 2 FINDINGS ROUTED to the w1v owner / supervisor:
 (1) NATURAL RIGHTS — Locke §6 blockquote: all words verbatim (Gutenberg 7370) but the page closes the
 quote with a period where the source sentence continues with a colon ("...or possessions: for men being
 all the workmanship..."); E058-class punctuation repair needed (extend to the full sentence or close
@@ -2679,6 +2680,7 @@ full Steere translation hosted at religion-online (all 15 chapter pages fetched 
 contain "developed in this knowledge" or "the good is always the good" anywhere; web searches for the
 exact sentence find no verbatim carrier. Either re-point to a citable carrier that actually contains the
 sentence (possibly a different translation) or de-quote; do not count the page as verified until then.
-(3) PERSON-ACTIVITY FIT — the cited Lyubomirsky & Layous 2013 PDF host no longer resolves (DNS failure);
-needs an always-fetchable carrier; quote fidelity unconfirmed pending that. Full evidence:
+(3) PERSON-ACTIVITY FIT — WITHDRAWN 11:44Z: the finding cited a uwaterloo mirror, not the page's
+actual citation; the actual cited carrier (UC Berkeley Greater Good PDF) opens fine and the quote is
+verbatim from its Fig. 1 caption. No repair needed. Full evidence:
 sources/verify-ppl-7f3a2b19/ledger.md.
