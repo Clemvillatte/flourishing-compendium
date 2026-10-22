@@ -16,7 +16,7 @@ The Dhammapada runs one argument through four adjacent verses, from the dear, th
 
 > "From endearment springs grief, from endearment springs fear. For one who is wholly free from endearment there is no grief, whence then fear?" (Dhammapada 212, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.16.budd.html))
 
-> "Thus, the wise do not become attached, for fear arises from attachment. These [objects of attachment] pass away by themselves, so be firm and know this." (Shantideva, Bodhicharyavatara 8.19, [Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf))
+> "Thus, the wise do not become attached, for fear arises from attachment. These [objects of attachment] pass away by themselves, so be firm and know this." (Shantideva, Bodhicharyavatara 8.19, the Tibetan version as rendered in the [Wallace translation](https://thuvienhoasen.org/images/file/EUaZhZ1G0QgQANVp/shantideva-bodhicaryavatara-wallace.pdf))
 
 The verses are addressed to people who love; the instruction concerns the clutch. In the compendium's reading, the bird image is about pressure: neither crush nor release, hold with a grip the thing can survive.
 
