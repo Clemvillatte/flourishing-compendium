@@ -1,26 +1,31 @@
 # HANDOFF: CMP (Contemplative) gallery enrichment
 
-Status: **CHECKPOINT SAVED; RELEASE VERIFICATION INCOMPLETE. NOT
-approved for main.** The work is committed locally and pushed to the
-non-deploying checkpoint branch `checkpoint/cmp-gallery-enrichment`
-(verify it exists on the remote before relying on it). Do not push
-these commits to main until the two release blockers below are
-resolved and the advisor re-approves.
+Status: **RELEASE BLOCKERS RESOLVED (2026-10-22); branch rebased onto
+origin/main and QA re-run. Approved for main pending advisor
+re-verification.** The work lives on the non-deploying checkpoint
+branch `checkpoint/cmp-gallery-enrichment` (force-updated to the
+rebased history, since the pre-rebase commits were replaced).
 
-Local commits (not on origin/main):
-- 802db6b09 "academy: cmp gallery +8 verified sessions (47->55), omm/lkm/zen/walking gaps filled"
-- 0a9233eb7 "academy: cmp handoff" (superseded by later rewrites)
-- 2639b9f16 "academy: cmp ledger/handoff corrections (zen buckets, attribution note) + evidence preserved"
-- 56136538b "academy: cmp handoff status correction (checkpoint, release blockers)"
-- (the hash of any later handoff-only commit appears in git log)
+Commits (rebased, on top of origin/main at cf6bed4d4):
+- d0b6b0a58 "academy: cmp gallery +8 verified sessions (47->55), omm/lkm/zen/walking gaps filled"
+- 0b30dfc1e "academy: cmp handoff — gallery enrichment state and remaining steps"
+- 3882e6d18 "academy: cmp ledger/handoff corrections (zen buckets, attribution note) + evidence preserved"
+- 7991583ca "academy: cmp handoff status correction (checkpoint, release blockers)"
+- 7f270f68d "academy: cmp handoff lists checkpoint commit hashes"
+- 584bf17b0 "academy: cmp release blockers resolved (palouse lkm guide verified as dave potter via insight timer; all six recordings fully transcribed and classified)"
+- 756b36585 "academy: cmp handoff updated - release blockers resolved"
+- 77a247adc "academy: cmp app.js tail restored after rebase conflict resolution (one-line deg-cmp change only vs origin/main)"
+- c6b65b516 "academy: cmp evidence - add full transcripts for mc-restful and mc-space-feelings (missed in earlier copy)"
+- later evidence/ledger correction commits appear in git log
 
-Git relationship: local main is NOT rebased onto current origin/main.
-Local main sits on my last pushed commit (de9a4377c) plus the commits
-above; origin/main has since moved to 24fbf2a2c (107 incoming commits
-by other workers, Library and Wiki work; my top-of-log inspection saw
-no overlap with the scoped files, but a full diff against all 107
-was not run). Before any push to main: git pull --rebase origin main
-and re-check for conflicts on the scoped files.
+Git relationship: the branch IS rebased onto origin/main (cf6bed4d4
+at rebase time). The only rebase conflict was site/assets/app.js: the
+deg-cmp practiceSessions were merged into main's current
+fcAcademyData (deg-qigong 80 sessions and all other Academy data
+preserved from main); a first resolution accidentally dropped the
+file tail after the conflict markers, caught and fixed in 77a247adc
+(the app.js diff vs origin/main is exactly one line). Push to main
+must be a normal fast-forward push; never force-push main.
 
 Original session history (read only):
 ~/.perplexity/sessions/cffd561c-9be6-493e-b845-ede0686acb4f/
@@ -36,8 +41,11 @@ identity "Computer Agent" <computer@perplexity.ai>; PAT in
    (insighttimer.com/palousemindfulness); the track page for "MBSR
    Lovingkindness Meditation" credits Dave Potter (Palouse
    Mindfulness) with a printed duration of 13:17 matching the mp3's
-   ffprobe duration (797.09 s), and publishes a transcript matching
-   the recording's full vosk transcript. The profile bio documents
+   ffprobe duration (797.09 s), and publishes a full transcript that
+   corresponds closely to the recording's full vosk transcript (the
+   published wording matches the vosk wording of the opening and the
+   close and runs through the same sequence of stages; the vosk text
+   has recognition errors and is not literally equal). The profile bio documents
    that Dave Potter is a fully certified MBSR instructor trained
    through the University of Massachusetts Medical School, where Jon
    Kabat-Zinn founded the Center for Mindfulness. The CMP1 row and
@@ -50,14 +58,18 @@ identity "Computer Agent" <computer@perplexity.ai>; PAT in
    sampled recordings (Tara Brach 30 min, Palouse LKM, Palouse
    walking, three Mountain Cloud sits) were re-downloaded and fully
    transcribed with vosk over the entire files (no time limit);
-   transcripts preserved as evidence/full-*.txt with reproduction
-   commands in evidence/README.md. The original opening-sample
-   commands were not preserved by the earlier session; they are
-   superseded by these complete transcripts, and the README now says
-   so instead of the earlier unsourced "roughly 60 to 90 seconds"
-   claim. Classification from the full transcripts: all six are
-   continuous guided practice (opening posture setup through the
-   close); the Tara Brach recording self-identifies her as the guide
+   transcripts preserved as evidence/full-*.txt, with the executed
+   script, run log (UTC timestamps), re-download ffprobe durations
+   and a reproduction script preserved in evidence/
+   (run_transcribe.sh, transcribe-run.log, ffprobe-redownload.txt,
+   reproduce-full-transcripts.sh). The original session records
+   (session cffd561c...) are no longer present in this environment,
+   so the earlier opening-sample commands could not be recovered;
+   the complete transcripts supersede them, and the README no longer
+   carries the earlier unsourced "roughly 60 to 90 seconds" claim.
+   Classification from the full transcripts (each read in full): all
+   six are continuous guided practice with no intervening talk
+   segment; the Tara Brach recording self-identifies her as the guide
    at the opening.
 
 This file documents only the CMP gallery task. The Qi Gong gallery
@@ -113,11 +125,9 @@ correcting the earlier handoff's wrong claims):
   lkm 0/3/1/0/2/1/1/0, bodyscan 1/1/3/1/2/2/1/0, daoist 1/0/1/0/0/0/0/3,
   zen 0/0/6/1/1/1/0/0, walking 1/2/2/0/0/0/1/0.
 
-Attribution blocker for release: the Palouse LKM recording's
-guide is not identified by an opened source. See RELEASE BLOCKERS
-above; do not treat the institutional attribution as final. The
-walking row's Tara Brach attribution is printed on the Palouse
-walking page (saved at evidence/walk.html).
+Attribution: RESOLVED for the Palouse LKM row (Dave Potter, see
+RELEASE BLOCKERS above). The walking row's Tara Brach attribution
+is printed on the Palouse walking page (saved at evidence/walk.html).
 
 Parser fixes in scripts/cmp_gallery_data.py: H:MM:SS misparse,
 trailing-space guide split, matrix key order [5,10,15,20,30,45,'45+',None].
@@ -133,28 +143,34 @@ app.js safe-splice: deg-cmp practiceSessions 47 -> 55, verified
 prefix and suffix byte-identical, other degrees and fcGalleryData
 untouched, node --check OK.
 
-## QA (checks actually run in this session, all green at the time)
+## QA
 
-- python3 -m unittest discover -s scripts/tests: 30 OK
-- node --test scripts/tests/randomizer.test.cjs: 9 pass
-- node scripts/tests/routes.qa.cjs: ALL PASS (needs the :8765 server,
-  start it with the start_server tool, not bash)
-- python3 scripts/build.py: only the pre-existing HEAD warning
-  ("manifest references missing files: ['Nondual awareness']", Library
-  content, out of scope, do NOT fix here)
+Original session (all green at the time): unit tests 30 OK; node
+--test 9 pass; routes.qa.cjs ALL PASS; build.py only the pre-existing
+HEAD warning ('manifest references missing files: Nondual
+awareness'; Library content, out of scope); node --check OK;
+Playwright: 55 cards, 8 new sessions, no broken images, shelf filter
+and card clicks correct, zero page errors.
+
+Post-rebase re-run (2026-10-22, this session, on the rebased tree;
+server via start_server on :8765):
+- python3 -m unittest discover -s scripts/tests: OK (30 tests)
+- node --test scripts/tests/randomizer.test.cjs: 9 pass, 0 fail
+- node scripts/tests/routes.qa.cjs: ALL PASS
+- python3 scripts/build.py: OK (no missing-files warning in output)
 - node --check site/assets/app.js: OK
-- Playwright (run from /home/user/workspace/fc): 55 cards render; all
-  8 new sessions present; no broken images after scrolling each img
-  into view (lazy loading); the shelf select filters correctly
-  (Walking -> 6 cards); card click opens the correct URL in a new tab
-  (LK card -> https://palousemindfulness.com/disks/lovingkindness.mp3);
-  zero page errors. Selectors that differ from other galleries: session
-  cards are .apg-card; the shelf filter is a select element
-  (.acad-explorer-select), not chips; cards are div role=button that
-  open a new tab; degrees render as .acad-hall cards, click the
-  "Contemplative & Mental Practices" hall to open the gallery.
-  These were run on the current working tree; re-run them after any
-  rebase before release.
+- Structural scope proof vs origin/main: app.js byte-identical prefix
+  and suffix around the fcAcademyData assignment; all Academy data
+  deeply equal except deg-cmp.practiceSessions; deg-qigong deeply
+  equal with 80 sessions; app.js deg-cmp sessions exactly equal the
+  scripts/cmp_gallery_data.py parser output including thumbnails;
+  exactly 8 added rows by (title, url).
+- Playwright with hard assertions: 55 cards; all 8 new titles
+  present matched by title AND guide; all images load after
+  lazy-load scroll; Walking filter -> 6 cards; each of the 8 new
+  cards opens its exact URL in a new tab; zero page errors.
+  Selector note: match cards by title plus guide (several titles,
+  e.g. Walking Meditation, exist on more than one shelf row).
 
 ## Remaining steps, in order
 

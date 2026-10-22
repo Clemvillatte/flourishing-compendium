@@ -1,0 +1,12 @@
+== tb30.mp3
+duration=1800.007000
+== palouse-lk.mp3
+duration=797.094000
+== palouse-walk.mp3
+duration=378.758685
+== mc-mu.mp3
+duration=849.408000
+== mc-restful.mp3
+duration=812.832000
+== mc-space-feelings.mp3
+duration=611.304000

@@ -274,8 +274,11 @@ Two blockers from the gallery-enrichment checkpoint, resolved:
    credits "MBSR Lovingkindness Meditation" to Dave Potter
    (Palouse Mindfulness) with a printed duration of 13:17, matching
    the ffprobe duration of the linked mp3 (797.09 s), and publishes
-   a full transcript whose text matches the recording's vosk
-   transcript (opening and closing both verbatim-equal). The profile
+   a full transcript that corresponds closely to the recording's vosk
+   transcript: the published wording matches the vosk wording of the
+   opening and of the close, and both run through the same sequence
+   of practice stages; the vosk text contains recognition errors and
+   is not literally equal to the published transcript. The profile
    bio states Dave Potter is a fully certified MBSR instructor
    trained through the University of Massachusetts Medical School,
    where Jon Kabat-Zinn founded the Center for Mindfulness. The
@@ -285,8 +288,16 @@ Two blockers from the gallery-enrichment checkpoint, resolved:
    Evidence: it-lkm.html, it-profile.html (saved), full-palouse-lk.txt.
 2. Full-recording classification completed for all six sampled
    recordings. All six re-downloaded and fully transcribed with vosk
-   (small en-us 0.15 model, complete files, no time limit); exact
-   commands in evidence/README.md. Full transcripts preserved as
+   (small en-us 0.15 model, complete files, no time limit); the
+   executed script, run log with UTC timestamps, per-file ffprobe
+   durations of the re-downloads (all equal to the committed
+   ffprobe-durations.txt) and a reproduction script are preserved in
+   evidence/ (run_transcribe.sh, transcribe-run.log,
+   ffprobe-redownload.txt, reproduce-full-transcripts.sh). The
+   original session records cited in the handoff (session
+   cffd561c...) are no longer present in this environment, so the
+   earlier opening-sample commands could not be recovered; the
+   complete transcripts supersede them. Full transcripts preserved as
    evidence/full-*.txt. Classifications from the full transcripts:
    all six are continuous guided practice (guidance from the opening
    posture setup through the close), not talks containing practice.
@@ -295,3 +306,15 @@ Evidence pages saved live: it-lkm.html, it-profile.html (Insight
 Timer, browser UA). tb30 mp3 re-downloaded from the libsyn URL
 printed in the saved source page (the earlier direct guess failed;
 see README).
+
+Full-transcript classification detail (read in full, not openings
+only): all six are guided practice throughout, with no intervening
+talk or teaching segment: tb30 is a guided body scan opening into
+open awareness with a closing blessing; palouse-lk is the full
+lovingkindness arc (benefactor, receiving, self, loved ones,
+acquaintances, a difficult person, all beings); palouse-walk is
+continuous walking-meditation instruction; mc-mu, mc-restful and
+mc-space-feelings are continuous guided awareness instructions
+from posture setup to the close. The tb30 recording self-identifies
+the guide ("The following meditation is led by Tara Brach") at the
+opening.

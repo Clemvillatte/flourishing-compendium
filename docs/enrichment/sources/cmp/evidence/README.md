@@ -74,6 +74,15 @@ Preserved from /tmp so the verification chain survives the session.
 
 ## Reproduction
 
+The complete-recording transcripts (full-*.txt) were produced by the
+commands preserved in reproduce-full-transcripts.sh, executed via
+run_transcribe.sh with the log in transcribe-run.log (2026-10-22,
+13:29:25 to 13:32:52 UTC); ffprobe durations of the re-downloads are
+in ffprobe-redownload.txt and equal the values above. The original
+session records cited in the handoff are no longer present in this
+environment, so the earlier opening-sample commands could not be
+recovered; the complete transcripts supersede them.
+
 Recordings were downloaded from the URLs printed in the CMP1 rows
 (ffprobe outputs above). Parser output:
 `python3 scripts/cmp_gallery_data.py` (55 sessions; matrix on stderr).
