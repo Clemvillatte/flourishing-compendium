@@ -469,3 +469,20 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   source-defined carrier (e.g. "Pyrrhonist suspension of judgment"), or (c) fold into
   [[The ten modes]] / [[Doubt as method]]. Evidence trail:
   docs/enrichment/sources/w1ad/Skepticism about the obvious.md.
+- **The tyranny of the ideal** (2026-10-22, worker-pplc-6a2f9b17, w1af):
+  heading-provenance flag, marked done with on-page disclosure. No opened source defines
+  "the tyranny of the ideal" as a term; Nietzsche's own words in the quoted GM II.17-18
+  passage are "negative ideals", "secret self-tyranny", and the "constructive and tyrannous
+  nature" of the instinct of freedom. The heading is the compendium's (SE017 parallel).
+  Supervisor/owner disposition requested: (a) keep as the compendium's heading for the
+  negative-ideals teaching with the disclosure retained, or (b) fold toward a future
+  [[Bad conscience]] / [[The sovereign individual]] cluster. Evidence trail: w1af ledger.
+
+- **The undiminishing past** (2026-10-22, worker-pplc-6a2f9b17, w1af):
+  heading-provenance flag, marked done with on-page disclosure. No opened source defines
+  "the undiminishing past" as a term; the teaching is Fortune's argument in Consolation II.3
+  (memory of past felicity cannot be swept away) plus Boethius's counter (the worst sting is
+  to have been happy) and the reckon-up reply (II.4). The heading is the compendium's
+  (X011 parallel, "bank gratitude for past pleasures"). Supervisor/owner disposition
+  requested: (a) keep with disclosure, or (b) fold toward [[Gratitude]] / a future
+  Fortune's-wheel page. Evidence trail: w1af ledger.
