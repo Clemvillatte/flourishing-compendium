@@ -550,3 +550,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   it is not a being" quote verbatim vs the IEP article via the Wayback Machine
   snapshot (iep.utm.edu bot-walls scripts and the fetch tool; archive copy opened).
   Sample PASS. Twenty-four samples this session, all PASS.
+- Supervisor verification sample 25 (2026-10-22 ~15:43 UTC): Empiricism — experience
+  over argument (random finished-band draw) — the Hume "all our ideas are nothing but
+  copies of our impressions" quote checked against the opened Gutenberg Enquiry text
+  (ebook 9662): verbatim. Sample PASS. Twenty-five samples this session, all PASS.
