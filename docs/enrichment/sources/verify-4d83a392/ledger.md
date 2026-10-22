@@ -155,3 +155,16 @@ used for the locator fix, and released. Final commit: af46fa6ec.
   "a capacity to be aware of inner conflicts ... or to tolerate them ... and make peace
   with them"). Replaced with the verbatim wording plus [...] markers for the dropped
   parentheticals. Maintenance baton re-taken for this fix and released after.
+
+## Addendum 3 (Ego integrity (Erikson), 06:47Z) — QUOTES PASS
+- Carrier re-opened (archive.org djvu.txt,
+  [Erikson, Identity: Youth and Crisis](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt)).
+- Integrity definition quote and despair quote — verbatim (the two naive-ABSENT hits were OCR
+  hyphenation artifacts, "sig- nificant" / "al- ternate"; the full passages match).
+- The page honestly labels the two inherited references (Torges et al. 2005; The Life Cycle
+  Completed) as unverified in its pass.
+
+## Round totals
+9 pages quotation-checked this session: 8 QUOTES PASS, 2 defects found and fixed
+(two-factor model of well-being Keyes locator p.209->p.210; Ego development Integrated-stage
+quote restored to verbatim + prose trimmed back into validator range). Final commit:
