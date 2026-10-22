@@ -42,6 +42,8 @@ A tidy three-minute walkthrough, part of a larger library of ACT exercises, is [
 ## Related concepts
 
 - [[Cognitive defusion]] — the mechanism this exercise trains
+- [[Acceptance]] — the stance toward thoughts the exercise opens
+- [[Acceptance and Commitment Therapy]] — the therapy family the technique comes from
 
 ## Related kernels
 
