@@ -205,3 +205,9 @@
 - Bibliographic hygiene: unverified author lists removed from K133 (Rassin/Eerland) and K129 (drivers paper) citations; titles and URLs retained as verified from the fetches.
 - Delivery-standard gaps: fifth related kernels added to K350, K327, K348, K155, K209, K225, K240; K247 guided-version gap added to the k1b.json flagged dict (was ledger-only; total flagged now 27); K206 Psychology Tools audio claim now verified by fetching the page (audio-track description quoted, no narrator named on either page, narrator requirement left pending); K240 guided-version now cites the fetched GTD Episode 7 page with its Meg Edwards description.
 - All 14 touched pages re-validated exit 0 (K206 required three word-count trims).
+
+## 2026-10-22 — Verification pass (worker-k1b-pplx, taper window)
+- Full-band validation run on all 27 done items: 27 checked, 0 failed, exit 0.
+- Workflow-narration grep across all 27 pages: 3 hits, all inside verbatim source quotes (K233 "replicate" in the Konigorski N-of-1 definition; K327 "supervisor creative expectations" x2 in Tierney/Farmer quotes); no narration on any page.
+- Band state at pass: 27 of 30 queue items done and pushed; 3 remain unstarted (K238 Kill-the-Buddha drill, K243 The returning practice, K324 Constraint-based creation) — left for the next worker or supervisor reassignment; not claimed as done.
+- Open flags for supervisor: 27 guided-version entries in k1b.json flagged dict (26 gaps pending ruling; K206 cited with narrator-unverified caveat; K240 partial with GTD podcast noted); K348 seed stewardship claim unverifiable in the opened source (citation mismatch with seed's Cunsolo-Landman noted); K176 scan/OCR provenance note (round 3); advisor rounds 1-5 documented in this ledger.
