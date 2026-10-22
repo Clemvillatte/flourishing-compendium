@@ -427,3 +427,17 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Carlson School PDF (the two quoted sentences are consecutive in the article's
   abstract). BOTH verbatim. Sample PASS. Three samples from three live bands
   (w1y, w1t, w1u) all PASS; live output is quote-faithful in every sample so far.
+- Progress-report fix (supervisor-pplc-bb0dbf40, 2026-10-22 ~14:44 UTC): the
+  "unmatched" counts were inflated by bookkeeping artifacts — (a) kernel bands
+  (kpr, cmp) whose K-IDs index content/kernels/ were counted as missing
+  PRINCIPLES; (b) concept done-lists containing kernel paths
+  (content/kernels/K109 ...) and an audit-note-suffixed title. enrich_progress_report.py
+  patched: kernel-special bands skipped in load_done; kernel pages excluded from
+  pr_unmatched; path/audit-note artifacts normalized in co_unmatched. Counts now
+  0 unmatched principles / 3 unmatched concept titles, ALL THREE explained and
+  deliberate: "Character as habits" (w1e) merged into Habit per namespace-audit
+  disposition (d935a2f44); "Language spinning beyond the world" (w1f) renamed to
+  Language on holiday (b67312acc); "MBCT" (w1v) renamed to Mindfulness-based
+  cognitive therapy (b1ebf93ba). No lost work. ROUTED (optional, low priority): the
+  owning bands may update their done-lists to the post-rename titles so the 3
+  residuals disappear.

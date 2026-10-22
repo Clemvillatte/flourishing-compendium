@@ -17,12 +17,17 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'docs/enrichment/PROGRESS.md')
 
 def load_done():
-    """All recorded-done entries across band state files, deduplicated."""
+    """All recorded-done entries across band state files, deduplicated.
+    Kernel-special bands (e.g. kpr, whose IDs index content/kernels/) are
+    excluded: their IDs are kernel numbers, not principle IDs, and would
+    otherwise surface as phantom 'unmatched principles'."""
     ids, titles = set(), set()
     for f in glob.glob(os.path.join(ROOT, 'docs/enrichment/batches/*.json')):
         try:
             d = json.load(open(f))
         except Exception:
+            continue
+        if str(d.get('type', '')).startswith('kernel'):
             continue
         for x in d.get('done') or []:
             if isinstance(x, str):
@@ -56,9 +61,27 @@ def main():
         return re.sub(r'[^a-z0-9]', '', s.lower())
     by_norm = {norm(c): c for c in concepts}
     pr_done = done_ids & set(principles)
-    pr_unmatched = sorted(done_ids - set(principles))
+    # kernel pages (content/kernels) are indexed by K-IDs in kernel bands (kpr, cmp);
+    # they are not principles — drop them from the unmatched-principles count
+    kernels = {fn[:-3] for fn in os.listdir(os.path.join(ROOT, 'content/kernels'))
+               if fn.endswith('.md')}
+    pr_unmatched = sorted(x for x in (done_ids - set(principles)) if x not in kernels)
     co_done = {by_norm[norm(t)] for t in done_titles if norm(t) in by_norm}
-    co_unmatched = sorted(t for t in done_titles if norm(t) not in by_norm)
+    # concept done entries recorded as paths (content/kernels/...) or with trailing
+    # audit-note suffixes '(verify-...)' are bookkeeping artifacts, not concept titles;
+    # normalize them before matching so they do not surface as phantom unmatched
+    def co_norm(t):
+        t = re.sub(r' \(verify-[^)]*\)$', '', t)
+        if t.startswith('content/'):
+            t = t.split('/')[-1]
+        t = re.sub(r'\.md$', '', t)
+        return norm(t)
+    # kernel titles are not concept titles; entries pointing at kernel pages are
+    # bookkeeping artifacts from kernel-adjacent bands, not missing concept pages
+    kernel_norm = {norm(k) for k in kernels}
+    co_unmatched = sorted(t for t in done_titles
+                          if co_norm(t) not in by_norm
+                          and co_norm(t) not in kernel_norm)
 
     # per-forest tally
     forests = {}
