@@ -6,7 +6,8 @@
   "Philia",
   "Motor intentionality",
   "Object relations theory",
-  "Organism-environment transaction"
+  "Organism-environment transaction",
+  "Outcome forecasting"
  ],
  "in_progress": null,
  "flagged": {
@@ -16,6 +17,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:32:05+00:00",
+ "updated": "2026-10-22T11:32:31+00:00",
  "band_done": false
 }
