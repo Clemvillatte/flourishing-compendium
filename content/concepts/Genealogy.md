@@ -19,6 +19,8 @@ Those are the questions of this compendium as well. A value is examined for what
 
 - [[The hermeneutics of suspicion]] — genealogy is one of its methods: values read as symptoms rather than accepted as verdicts
 - [[Revaluation of all values]]
+- [[E103 — Practise self-overcoming (Selbstüberwindung)]] — the Nietzschean practice of examining and remaking one's own values
+- [[R050 — Practise connection across the ocean]] — relational practice viewed, like inherited values, as something to be examined rather than assumed
 
 ## Sources
 
