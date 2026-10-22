@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Natural rights are claims a person holds simply by being a person, prior to any law, contract, or grant. In Locke's Second Treatise they are secured by the law of nature itself, which reason can read without a legislature:
 
-> The state of nature has a law of nature to govern it, which obliges every one: and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions. ([Locke, Second Treatise of Government, §6](https://www.gutenberg.org/cache/epub/7370/pg7370.txt))
+> The state of nature has a law of nature to govern it, which obliges every one: and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions... ([Locke, Second Treatise of Government, §6](https://www.gutenberg.org/cache/epub/7370/pg7370.txt))
 
 ### Origin
 
