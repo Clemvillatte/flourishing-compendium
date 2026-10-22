@@ -249,3 +249,71 @@ capitalisation, against a fresh fetch of the cited Project Gutenberg Pragmatism 
 text ("TRUE IDEAS ARE THOSE THAT WE CAN ASSIMILATE, VALIDATE, CORROBORATE AND VERIFY..." and
 "Truth HAPPENS to an idea. It BECOMES true, is MADE true by events... its veri-FICATION.").
 The cash-value framing is directly supported by the surrounding source text. No routed findings.
+
+## Evidence audit and corrections (advisor-directed, 2026-10-22; audit performed between measured
+## clock readings 12:07:08Z (round-2 push) and 12:15:52Z)
+
+Scope correction: rounds 1-9 together cover 16 pages, not 13 (the count above omitted Witness
+consciousness, Dissonance reduction strategies and Verification in experience in the running
+narrative). All timestamps in the round headers above are WRONG estimates written from a
+mis-feeling of elapsed time; they are superseded by this section. Measured timeline (UTC,
+from `date -u`, cross-checked against commit timestamps on origin/main): T0 = 11:58:25;
+baseline reading 12:05:17 (T0+6:52); round-1 ledger pushed fefd08a5 just before 12:05;
+round-2 push 981c4223 at 12:07:08; rounds 3-9 pushed between 12:07:08 and 12:13:00
+(88cf097d0). The per-round headers above should be read as "performed between those
+measured readings"; the specific ~12:1xZ claims are retracted.
+
+Method correction (advisor): several round 2-9 checks used fetch prompts that included the
+quote text, which risks the extraction model echoing the prompt; those are not independent
+confirmations. Every affected carrier has now been re-verified against unprompted raw text
+(full-content fetch, compared directly or by substring match after normalising only
+whitespace, PDF line-breaks/hyphenation and typographic quote marks):
+
+- MIT NE Book I and wengu Zhongyong (round 1): already unprompted; unchanged, PASS.
+- Klein & Feltmate PMC full text (Vigilance decrement): already unprompted; defect stands
+  (see revised wording below).
+- Cambridge Core Birchwood page: raw extract re-verified; all five quotes present verbatim
+  (the raw page inserts "Reference X Y" citation markers inside parentheses; the page's
+  citation style matches the underlying journal text). PASS.
+- Cohen & Sherman 2014 PDF (raw): abstract blockquote and the self-integrity definition
+  sentence both present. PASS.
+- Gigerenzer & Brighton 2009 PDF (raw): all nine quoted passages present (flexible match
+  absorbing PDF hyphenation). PASS.
+- Annual Reviews G&G 2011 abstract page (raw): the ignoring-information sentence and the
+  business/health/legal scope sentence present verbatim. PASS.
+- Mar & Oatley 2008 PDF (raw): all four quoted sentences present. PASS.
+- Prigogine Nobel Lecture PDF (raw, full): all four quoted passages present verbatim. PASS.
+- Nobel 1977 summary page (raw): citation sentence verbatim. PASS.
+- Heidegger Building Dwelling Thinking PDF (raw, full): all four quoted passages present
+  verbatim, including the lowercase "it means to dwell." The carrier's text layer prints
+  "the buildingthat cultivates" (run together) in the numbered list; the page's spaced
+  "the building that cultivates" is a disclosed normalisation of an evident extraction
+  artifact, words identical. The bauen/ich bin claim is directly present. PASS.
+- Larval Subjects blog (raw): both quoted passages present. VERDICT RECLASSIFIED: the
+  matches establish only what the blog prints (the blog cites Process and Reality pp. 18
+  and 23); the earlier "matches Whitehead's canonical wording" claim is WITHDRAWN — no
+  opened edition of Process and Reality was consulted. The page's "Its" (blog has "It's")
+  and spacing normalisations stand as disclosed.
+- Aumdada Drig-Drisya page (raw): the carrier prints "the mind Is (its) seer" (capital I).
+  VERDICT RECLASSIFIED: match with a disclosed one-letter case normalisation, not a strict
+  verbatim match. The words otherwise match.
+- Panarchy Festinger excerpt (raw): all eight quoted sentences present (one carries the
+  carrier's italics markers around "environmental", dropped by the page; words identical).
+  PASS.
+- SEP Merleau-Ponty (raw): all four quoted passages present; the SEP prints double quotes
+  where the page uses single quotes, and a hyphen where the page uses a dash; words
+  identical. The Schneider/Gelb/Goldstein framing is present ("a brain-damaged patient
+  studied by Adhémar Gelb and Kurt Goldstein"). PASS.
+- SEP Kant's Aesthetics (raw): the disinterested-pleasure sentence verbatim. PASS.
+- MIT Metaphysics IX (raw, full): all six quoted passages present verbatim. The "actuality
+  is the end" quote stands in Part 8, confirming the locator error routed below.
+
+Revised wording for the Vigilance decrement finding (per advisor): the inspected cited
+carrier (full text) does not contain the clock-test description details (radar watch,
+blank clock face, double jumps, two-hour watch, "steepest fall in the first half hour",
+"task easy and operators trained and motivated"), and its "robust after the first half
+hour" sentence does not establish the claimed steepest-decline shape. The finding is a
+source-support gap: these details were not found in the inspected carrier; the owner
+should supply an opened supporting source (e.g. the Mackworth 1948 original or a review
+describing the Clock Test) or revise the paragraph to what Klein & Feltmate support. The
+finding does not establish that the details are false or invented.
