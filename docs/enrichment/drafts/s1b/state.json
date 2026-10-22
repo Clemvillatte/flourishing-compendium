@@ -473,7 +473,17 @@
      "note": "Full raw book p79 checked; brief narrative, source quote and original application; no extended script"
     }
    ]
+  },
+  "s1b-021": {
+   "status": "researching",
+   "angle": "Milk Milk Milk: experimental narrative from Masuda et al 2004; retain sample and inference limits",
+   "history": [
+    {
+     "t": "2026-10-22T15:33:28+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:33:22+00:00"
+ "updated": "2026-10-22T15:33:28+00:00"
 }
