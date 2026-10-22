@@ -1,7 +1,7 @@
 {
  "baton": "maintenance",
  "agent": "worker-maint-0a4b8e1f",
- "clocked_in": "2026-10-22T05:24:59+00:00",
+ "clocked_in": "2026-10-22T05:59:15+00:00",
  "takeovers": [
   {
    "by": "genuineflourishing25",
@@ -92,6 +92,12 @@
    "at": "2026-10-22T05:24:59+00:00",
    "from": "worker-core1022",
    "reason": "stale (96 min)"
+  },
+  {
+   "by": "worker-maint-0a4b8e1f",
+   "at": "2026-10-22T05:59:15+00:00",
+   "from": "worker-maint-0a4b8e1f",
+   "reason": "stale (34 min)"
   }
  ],
  "released": false
