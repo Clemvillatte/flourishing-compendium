@@ -447,3 +447,9 @@ Round 45: 1 page, 2 quoted passages verified, no defects.
 1. **Adequate idea** — the Spinoza Ethics II Definition IV sentence VERIFIED verbatim via the opened Gutenberg Elwes text ("By an adequate idea, I mean an idea which..."). The appended Explanation sentence is the standard Elwes continuation of the same definition (not re-extracted on this fetch — minor note, not a defect). PASS.
 
 Round 46: 1 page, 1 quoted passage verified.
+
+## Round 47
+
+1. **Aporia** — both Plato Meno passages (the torpedo-fish image 80a-b; the paradox 80d) VERIFIED verbatim via the opened classics.mit.edu Jowett text. PASS.
+
+Round 47: 1 page, 2 quoted passages verified, no defects.
