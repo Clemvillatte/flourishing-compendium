@@ -18,3 +18,9 @@
 - Verbatim quote (lecture I): "Philosophic reconstruction for the present is thus the endeavor to undo the entanglement and to permit the Baconian aspirations to come to a free and unhindered expression."
 - Second quoted fragment same lecture: "the purposeful energetic re-shaper of those phases of nature and life that obstruct social well-being" (checked word-for-word in the opened text).
 - Prefatory-note framing verified: lectures at the Imperial University of Japan in Tokyo, February and March.
+
+## Relational-interdependent self-construal (fast-track bar)
+- Opened: PubMed abstract via NCBI efetch (PMID 10794381), Cross, Bacon & Morris, JPSP 78(4), 2000.
+- Verbatim definition from abstract: "the tendency to think of oneself in terms of relationships with close others."
+- Study findings restated from the same abstract (closeness/commitment, decision-making, dyadic responsiveness).
+- Markus & Kitayama contrast scoped as the compendium's own framing (the opened source does not draw it).
