@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Hakuin's famous koan, the sound of one hand, is deliberately structured so that it cannot be answered. Hakuin introduced it to replace the Mu koan for some students, and the reason is usually given as its resistance to conceptual handling — you cannot think your way to the sound of one hand, and the attempt to do so is the actual mechanism ([Hakuin, Orategama and koan curriculum, Terebess](https://terebess.hu/zen/Hakuin.pdf)). The koan is a device that runs the conceptual mind until it gives out.
 
-The exhaustion is the method, not the failure. A student who holds "what is the sound of one hand?" for months produces progressively worse answers — first clever, then repetitive, then desperate — and the tradition treats this trajectory as the practice working. What remains when the concepts are used up is not blankness; it is a different kind of seeing, the one the koan was designed to produce.
+The exhaustion is the method, not the failure. A student who holds "what is the sound of one hand?" for months produces progressively worse answers — first clever, then repetitive, then desperate — and the tradition treats this trajectory as the practice working. What remains when the concepts are used up is a different kind of seeing, the one the koan was designed to produce.
 
 > "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully." (Hakuin, Orategama, trans. Philip Yampolsky, The Zen Master Hakuin: Selected Writings, 1971, p. 144, as quoted in [Great Doubt: Practicing Zen in the World](https://terebess.hu/zen/mesterek/greatdoubt.pdf) and [Carl Olson, 1989](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html))
 

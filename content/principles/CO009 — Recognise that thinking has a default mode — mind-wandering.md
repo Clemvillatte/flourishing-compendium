@@ -19,7 +19,7 @@ The mind at rest is not idle. Raichle's review describes the default mode networ
 What the mind does in that mode is reviewed by Mooneyham and Schooler: mind-wandering typically occurs at a significant cost to performance, its role is not entirely pernicious, and it may play a role in autobiographical planning and creative problem solving. (Mooneyham & Schooler, 2013.) Killingsworth and Gilbert's smartphone sampling found people thinking about what is not happening almost as often as about what is, and that doing so typically makes them unhappy. (Killingsworth & Gilbert, 2010.) The compendium's reading keeps both halves: the wandering is the mind's default, and neither its costs nor its possible uses settle how to treat it.
 
 **Plain words**
-Left unengaged, the mind does not go blank; it wanders. The research describes both costs (performance, mood) and possible uses (planning, creative problem solving). The compendium's reading matches the page's practice: notice where the mind went, rather than judging the wandering itself.
+Left unengaged, the mind wanders. The research describes both costs (performance, mood) and possible uses (planning, creative problem solving). The compendium's reading matches the page's practice: notice where the mind went, rather than judging the wandering itself.
 
 *For example:* Someone who fills every queue and walk with their phone has removed the unengaged moments the default mode runs in. The compendium's exercise is to leave one such interval unoccupied and notice where the mind goes.
 

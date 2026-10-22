@@ -21,7 +21,7 @@ From the whole's vantage, the boundaries that organise a fragment's decisions (s
 (DDJ 10, 39; Zhuangzi 2.)
 
 **Plain words**
-Take any two sides of a fight and zoom out: the two departments quarrelling over budget are one company, and the win and the loss are one event seen twice. Zooming out does not change the facts; it changes what your move lands on. A move made from the bigger picture is a different move, because what it counts as good has changed.
+Take any two sides of a fight and zoom out: the two departments quarrelling over budget are one company, and the win and the loss are one event seen twice. Zooming out leaves the facts alone and changes what your move lands on. A move made from the bigger picture is a different move, because what it counts as good has changed.
 
 **For example**
 The manager who helps a rival department succeed has made a move that loses from the department's seat and gains from the company's; the principle says the company's seat is the truer vantage.

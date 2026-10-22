@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 137** — Expect your seeing to change (the wise see differently)
 
-The Dhammapada's three verses on the marks are instructions in seeing. All conditioned things are impermanent; all conditioned things are unsatisfactory; all things are not-self; when one sees this with wisdom, one turns away from suffering. The verse does not tell the reader something new; it tells them to look until the seeing itself shifts. (Dhammapada 277-279.)
+The Dhammapada's three verses on the marks are instructions in seeing. All conditioned things are impermanent; all conditioned things are unsatisfactory; all things are not-self; when one sees this with wisdom, one turns away from suffering. The verse tells the reader to look until the seeing itself shifts. (Dhammapada 277-279.)
 
 > "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification." (Dhammapada 277, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
 

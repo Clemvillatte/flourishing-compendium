@@ -31,7 +31,7 @@ The gap is the material, not the obstacle. A friendship across rank or age runs 
 The better or more useful party should receive more affection than he bestows; the scaling, not identical contributions, is what keeps it fair.
 
 **Plain words**
-Cross-gap friendships do not run on identical contributions; they run on proportion. The grandmother is not shortchanged because the teenager brings energy and appetite where she brings memory; on Aristotle's rule the affection each side gives is scaled to what each is and gives, and that scaling is what keeps it fair. The practice is to notice what this person can give that a peer cannot, what you can give in return, and to keep the two columns proportional rather than identical.
+Cross-gap friendships run on proportion, with contributions that need not be identical. The grandmother is not shortchanged because the teenager brings energy and appetite where she brings memory; on Aristotle's rule the affection each side gives is scaled to what each is and gives, and that scaling is what keeps it fair. The practice is to notice what this person can give that a peer cannot, what you can give in return, and to keep the two columns proportional rather than identical.
 
 *For example:* A grandmother and teenager who bond over cooking get along because each lets the other be what they are.
 

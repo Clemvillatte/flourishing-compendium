@@ -27,7 +27,7 @@ The fear stays, at its correct size. "We have already seen that Courage is the o
 The brave act trades something valued (comfort, safety, standing) for a purpose judged nobler. The coward over-prices safety, the rash person under-prices it; both are mis-measuring the same ledger. And the virtue grows by repetition: small honest acts first, larger ones later, the capacity following the practice.
 
 **Plain words**
-Courage here is not the absence of fear; it is fear doing its job without running the show. It helps to think of every brave act as a trade: comfort for honesty, safety for someone else, an easy silence for a hard sentence. The practice is to catch yourself pricing the trade dishonestly, inflating the risk to excuse the retreat, and make the price honest before deciding.
+Courage here is fear doing its job without running the show. It helps to think of every brave act as a trade: comfort for honesty, safety for someone else, an easy silence for a hard sentence. The practice is to catch yourself pricing the trade dishonestly, inflating the risk to excuse the retreat, and make the price honest before deciding.
 
 *For example:* Aristotle's strict case is the soldier facing a noble death. A modern application: saying "that number is wrong" in the meeting, with the fear present and the voice steady.
 

@@ -24,7 +24,7 @@ Its conclusion is the sage's practice:
 
 > "Hence the sage puts away excessive effort, extravagance, and easy indulgence." (DDJ 29 §2)
 
-Read for ordinary life rather than statecraft, the chapter's point is about grip. The kingdom is the extreme case of something that cannot be got by active doing, and the verse generalises the risk: positions reverse, strength spoils, stores fall apart. The sage's response is subtractive. He does not find a better grip; he puts away the excessive effort itself.
+Read for ordinary life rather than statecraft, the chapter's point is about grip. The kingdom is the extreme case of something that cannot be got by active doing, and the verse generalises the risk: positions reverse, strength spoils, stores fall apart. The sage's response is subtractive. He puts away the excessive effort itself.
 
 (DDJ 29.)
 
