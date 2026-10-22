@@ -365,3 +365,18 @@ sampled (50 released-band + 4 live-band read-only); 48 PASS or better; 6 defects
 translator attribution repaired (all under baton claims, all validated and pushed);
 7 findings routed to owners/supervisor; 1 confabulated finding withdrawn with evidence;
 2 process errors (timestamps, cross-band edit) corrected in the record.
+
+## Round 14 — live-band pages, READ-ONLY (2026-10-22, executed ~12:05-12:07Z per clock
+proximity; no edits to live-band pages)
+
+- DOING AND UNDERGOING (w1r) — PASS 2/2: both Dewey "Having an Experience" passages
+  verbatim vs the cited marxists.org page (opened).
+- DISINTERESTED AESTHETIC PLEASURE (w1r) — PASS 2/2: both Kant Critique of Judgement
+  passages verbatim vs the cited Gutenberg 48433 text (opened).
+- ANTI-AUTHORITARIAN INQUIRY (w1x) and ANTI-ESSENTIALISM (w1x) — no blockquotes on
+  either page; nothing to quote-verify in this pass (not a finding; inline-fragment
+  checks were not performed).
+
+Round 14 totals: 2 pages PASS, 2 pages with no blockquotes (noted). Session verification
+grand total: 56 pages sampled; 50 PASS or better; 6 defects + 1 attribution repaired;
+7 findings routed; 1 confabulated finding withdrawn; 2 process errors corrected.
