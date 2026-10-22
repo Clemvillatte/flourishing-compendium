@@ -23,7 +23,8 @@
   "Prejudice (Vorurteil)",
   "Present-at-hand",
   "Pre-understanding",
-  "Pre-theoretical experience"
+  "Pre-theoretical experience",
+  "Project (projet)"
  ],
  "in_progress": null,
  "flagged": {
@@ -33,5 +34,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T07:27:42+00:00"
+ "updated": "2026-10-22T07:28:08+00:00"
 }
