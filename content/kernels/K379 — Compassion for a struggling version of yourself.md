@@ -44,7 +44,7 @@ The therapy family this exercise comes from targets high shame and self-criticis
 
 ### A guided version
 
-A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/). The site's description:
+A related guided practice: [Directing the Compassionate Self to ourselves, Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/) (17:43). The site's description:
 
 > "In this exercise you'll be guided on practicing self-compassion, through a time you were struggling." — [Balanced Minds](https://balancedminds.com/compassion-focused-therapy-audio/)
 
@@ -72,3 +72,4 @@ A related guided practice: [Directing the Compassionate Self to ourselves, Balan
 - [Kolts, R. L. (2016), CFT Made Simple, New Harbinger — owner's Drive copy of the book](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP) — ch. 9, "Extending Compassion to the Vulnerable Self", pp. 119–123: the anxious-self scenario, being touched by her suffering, being there with her; the start-with-someone-you-care-about guidance, p. 122
 - [Longe et al. (2010), "Having a word with yourself: neural correlates of self-criticism and self-reassurance", NeuroImage, PubMed](https://pubmed.ncbi.nlm.nih.gov/19770047/)
 - [Leaviss & Uttley (2015), "Psychotherapeutic benefits of compassion-focused therapy: an early systematic review", Psychol Med, PubMed](https://pubmed.ncbi.nlm.nih.gov/25215860/)
+- [Balanced Minds, "Directing the Compassionate Self – To Ourselves" (audio, 17:43)](https://balancedminds.com/compassion-focused-therapy-audio/) — a guided self-compassion practice from the same therapy family
