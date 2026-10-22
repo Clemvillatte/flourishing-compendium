@@ -2,7 +2,8 @@
  "batch": "w1y",
  "done": [
   "Bodhicitta",
-  "Apology research"
+  "Apology research",
+  "Aporia"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,5 +11,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T12:19:41+00:00"
+ "updated": "2026-10-22T12:21:47+00:00"
 }
