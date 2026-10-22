@@ -428,7 +428,17 @@
      "note": "Direct raw manuscript pp9-10 checked; no promise of symptom reduction; independent batch QC requested"
     }
    ]
+  },
+  "s1b-020": {
+   "status": "researching",
+   "angle": "Fly Fishing: distinguish a thought hook from the struggle that follows; author source search",
+   "history": [
+    {
+     "t": "2026-10-22T15:28:30+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:25:47+00:00"
+ "updated": "2026-10-22T15:28:30+00:00"
 }
