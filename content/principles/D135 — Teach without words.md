@@ -12,15 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 135** — Teach without words
 
-Chapter 2 of the Daodejing states the principle in one line, and chapter 43 gives it its most quoted image. Chapter 2: "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech" ([Daodejing 2.3, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). This is not a claim that speech is bad; it is a claim that the teaching that arrives through speech is the weakest channel.
+Chapter 2 of the Daodejing states the principle in one line, and chapter 43 gives it an image. In Legge's translation, chapter 2:
 
-Chapter 43 sharpens the point into an image: "The softest thing in the world dashes against and overcomes the hardest... That which has no substance enters where there is no space. This I know the advantage of the Dao of doing nothing" ([Daodejing 43, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The instruction that enters without substance — without lecture, without mandate — goes where the lecture cannot, because it does not trigger the defence.
+> Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech. ([Daodejing 2.3, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-> "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech." (Daodejing 2.3, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+Chapter 43 adds: "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice. I know hereby what advantage belongs to doing nothing (with a purpose). There are few in the world who attain to the teaching without words, and the advantage arising from non-action." ([Daodejing 43.1-2](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** People learn what they watch you do, and almost nothing from what you tell them to do. The parent who reads books raises readers; the one who mandates reading raises kids who hide comic books inside textbooks. Your example is the syllabus, and the reason the lecture keeps failing is that the lecture is competing with the example, and losing.
+Legge's last sentence calls the teaching without words rare. The compendium's reading is that example reaches where instruction cannot, because people can argue with a lecture and have nothing to argue with in a way of living.
 
-*For example:* Two parents both want their children to read. One mandates reading time and monitors it; the children learn to read the minimum and hide other things inside the textbooks. The other reads in front of the children, visibly, without announcing it; the children ask what the book is. Same goal; only one of them is using the channel that actually works.
+(Daodejing 2.3 and 43.1-2, trans. Legge.)
+
+### Plain words
+
+You teach most by how you live, and less by what you say. A person who treats others fairly teaches fairness without a word. Speaking still has its place. It is the weaker channel.
+
+### For example
+
+A new hire watches how the team lead handles a mistake: no blame, a quick fix, a note on what to change. Nobody explained the culture. The new hire absorbed it. This one is imagined.
+
+## Sources
+
+- Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Psychology parallels
 

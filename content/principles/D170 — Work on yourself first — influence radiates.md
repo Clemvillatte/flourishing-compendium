@@ -12,15 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 170** — Work on yourself first: influence radiates
 
-Chapter 54 of the Daodejing is one of the book's most quoted structural passages, and it runs as an explicit chain. Legge: "He who cultivates the Tao in himself, his virtue is genuine. He who cultivates the Tao in his family, his virtue is overflowing... He who cultivates the Tao in the kingdom, his virtue is universal" ([Daodejing 54, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The chain is not a metaphor about spreading kindness; it is a claim about the order of operations. The self is the first domino, and the family, the community, and the state are downstream of it.
+Chapter 54 of the Daodejing runs as a chain from the person outward. In Legge's verse rendering:
 
-The reason this is the actual mechanism is not spiritual; it is observational. People watch what you do with what you preach, and the alignment is the signal. A parent who lowers their own voice changes the temperature of the house in a way that no instruction can, because the instruction is competing with the behaviour and losing.
+> Tao when nursed within one's self, His vigour will make true; And where the family it rules What riches will accrue! The neighbourhood where it prevails In thriving will abound; And when 'tis seen throughout the state, Good fortune will be found. ([Daodejing 54.2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-> "He who cultivates the Tao in himself, his virtue is genuine. He who cultivates the Tao in his family, his virtue is overflowing." (Daodejing 54, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+Legge's next line states the pattern in prose: "In this way the effect will be seen in the person, by the observation of different cases; in the family; in the neighbourhood; in the state; and in the kingdom." ([Daodejing 54.3](https://www.gutenberg.org/cache/epub/216/pg216.txt)) The order of the chain is the claim: the person comes first, and the family, neighbourhood and state follow in turn.
 
-**Plain words** Your best tool for changing others is your own alignment. This is not a moral instruction about self-improvement; it is an observation about which mechanism actually moves people. The parent who wants a calmer house starts by lowering their own voice, and the house, slowly, calms — not because the children noticed the instruction, but because the environment changed.
+(Daodejing 54.2-3, trans. Legge.)
 
-*For example:* Two managers both want a more respectful team. One institutes a policy and polices violations; the team complies outwardly and changes nothing. The other starts showing up on time, listening without interrupting, and giving credit; the team starts doing the same without being asked. Same goal; only one of them used the channel that actually carries the signal.
+### Plain words
+
+If you want a calmer house, a better team or a kinder town, the chapter starts with the one person you control. Your own steadiness is the first thing that spreads outward. Do not wait for others to go first.
+
+### For example
+
+A parent who wants less shouting at home begins by lowering their own voice. Whether the house follows is not guaranteed, but the parent has done the one part that was theirs. This one is imagined.
+
+## Sources
+
+- Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Psychology parallels
 

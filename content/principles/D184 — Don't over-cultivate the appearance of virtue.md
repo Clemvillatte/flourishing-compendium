@@ -12,15 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 184** — Don't over-cultivate the appearance of virtue
 
-Chapters 18 and 38 of the Daodejing form the source pair for this principle, and both make a diagnostic rather than a moral claim. Chapter 18: "When the Great Dao was abandoned, it was then that benevolence and righteousness sprang up... When the six relations no longer lived at peace, it was then that we heard of filial sons" ([Daodejing 18, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The claim is not that benevolence is bad; it is that the appearance of benevolence is what you get when the underlying alignment has already failed. Filial sons are news precisely because harmony is gone.
+Chapters 18 and 38 of the Daodejing are the source pair for this principle. In Legge's translation, chapter 18:
 
-Chapter 38 completes the diagnosis with the hierarchy: "Superior virtue is not virtuous, and therefore has virtue. Inferior virtue does not let go of virtue, and therefore is without virtue" ([Daodejing 38, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The person who is holding on to virtue, performing it, announcing it, is the one who has already lost the substance of it. The mechanism is not hypocrisy so much as accounting: the moment the good deed needs an audience, the audience has become the product.
+> When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue. (Then) appeared wisdom and shrewdness, and there ensued great hypocrisy. When harmony no longer prevailed throughout the six kinships, filial sons found their manifestation. ([Daodejing 18.1-2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-> "When the Great Dao was abandoned, it was then that benevolence and righteousness sprang up." (Daodejing 18, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+Chapter 38 gives the sequence in steps: "when the Tao was lost, its attributes appeared; when its attributes were lost, benevolence appeared; when benevolence was lost, righteousness appeared; and when righteousness was lost, the proprieties appeared. Now propriety is the attenuated form of leal-heartedness and good faith, and is also the commencement of disorder." ([Daodejing 38.5-6](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** The LinkedIn post about the charity run is not a bad deed; it is a deed that needed an audience, and the audience was the actual product. This is the distinction the Daodejing is drawing. Trumpeted virtue is the symptom of lost alignment, not a stronger version of virtue. Be good quietly or not at all — not because the quiet version is more virtuous, but because the announced version has already started accounting, and accounting is not the same as goodness.
+The compendium's reading is that visible virtue is what remains when the underlying ease has failed, and that performing goodness for an audience takes the place of having it.
 
-*For example:* Two colleagues both volunteer the same amount of time. One posts about it weekly; the good deeds are now a content stream, and the team has learned to discount the mention. The other never mentions it; the reputation follows the behaviour. Same contribution; only one of them is doing the thing the post claims to be about.
+(Daodejing 18.1-2 and 38.5-6, trans. Legge.)
+
+### Plain words
+
+A person who has to announce their kindness has usually run short of the real thing. The passages say that the named virtues arrive after the natural ones are lost. So aim at the habit and not the display.
+
+### For example
+
+Someone posts about every donation they make. Another gives quietly and mentions it to nobody. The chapter points to the second as the one still in touch with the root. This one is imagined.
+
+## Sources
+
+- Laozi, *Daodejing* (*Tao Teh King*), trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Psychology parallels
 
