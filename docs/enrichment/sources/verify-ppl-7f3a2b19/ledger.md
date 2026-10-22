@@ -5,7 +5,7 @@ held, no band files edited). Method: every displayed quotation on each sampled p
 re-verified against a freshly opened copy of its cited carrier (fetch or download); findings
 routed to the TASKBOARD for the band owner / supervisor.
 
-## Round 1 — ten pages sampled (11:35-12:15Z)
+## Round 1 — ten pages sampled (11:35-11:42Z, timestamps verified against UTC + HTTP Date cross-check)
 
 ### PASS (all displayed quotes verbatim vs freshly opened cited carriers)
 

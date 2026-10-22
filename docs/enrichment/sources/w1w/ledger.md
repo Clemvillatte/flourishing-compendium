@@ -672,7 +672,7 @@
 
 - The good shepherd (2026-10-22, worker-w1w-pplc-7a3e91c2, resumed WIP from stale predecessor who started it without writing): FAST-TRACK. Identity: biblical image with two defined loci (Psalm 23; John 10), used by the compendium's SE048 (secure-base behaviour) and SE032 (inner ally). Source opened: King James Bible via Project Gutenberg ebook #10 (https://www.gutenberg.org/files/10/10-0.txt); quotes verified verbatim against the downloaded text: John 10:11-12 (good shepherd / hireling contrast), Psalm 23:1-2, Psalm 23:4 fragment ("for thou art with me"). No doctrinal claims beyond the texts; attachment pairing stated as compendium usage, not as a scholarly claim. Facets and Cited-in preserved.
 
-## Repair pass — Sophia (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:45Z)
+## Repair pass — Sophia (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:39Z)
 
 - Trigger: routed finding (verify-8d4e2f60 round 7): NE VI.7 blockquote printed "philosophic
   wisdom [sophia]" with an em dash; the opened MIT Classics Ross text reads "wisdom" with no
@@ -692,7 +692,7 @@
   Left for supervisor disposition (adding alternate carriers is a sourcing-policy call);
   no page text changed for them.
 
-## Repair pass — The approval trap (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:50Z)
+## Repair pass — The approval trap (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:40Z)
 
 - Trigger: routed finding (verify-8d4e2f60 round 7): the first Fromm passage is printed in
   chapter IV of the cited PDF while the page cited ch. 5.

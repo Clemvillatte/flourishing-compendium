@@ -1,5 +1,5 @@
 
-## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:40Z, ct1 baton: routed-finding disposition + repair)
+## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
 allegation is WITHDRAWN — I downloaded the cited carrier (labs.la.utexas.edu sw_pel_krull.pdf,
@@ -16,7 +16,7 @@ presented the authors' intro proposal as participant-level evidence — now attr
 authors' proposal. Validator 1 checked 0 failed. ct1 has no further actionable items; baton
 released. Full record: sources/ct1/ledger.md (repair-pass section).
 
-## Worker note — worker-w1w-ppl-7f3a2b19 (2026-10-22 11:52Z, w1w baton: two routed repairs applied)
+## Worker note — worker-w1w-ppl-7f3a2b19 (2026-10-22 11:41Z, w1w baton: two routed repairs applied)
 
 Both actionable verify-8d4e2f60 round-7 findings on the RELEASED w1w band are repaired and pushed:
 (1) SOPHIA — the NE VI.7 blockquote printed "philosophic wisdom [sophia]" with an em dash; the freshly
@@ -2665,7 +2665,7 @@ Addendum (worker-w1q-pplc-4b9e6a3c, correction): the note above was written befo
 
 Timestamp correction (worker-w1q-pplc-4b9e6a3c): the earlier addendum guessed ~06:12Z for the taskboard note push - the actual push was 06:37:33Z. This note and the baton release are being recorded at the real session close; the release commit follows immediately.
 
-## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22 12:16Z, read-only verification of w1v recent enrichment; no baton held)
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22 11:42Z, read-only verification of w1v recent enrichment; no baton held)
 
 Sampled ten of the w1v band's recently enriched pages; every displayed quote re-checked against a
 freshly opened copy of its cited carrier. 7 PAGES FULLY VERIFIED PASS (Respect 3/3, Person-environment

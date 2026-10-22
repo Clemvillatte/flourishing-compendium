@@ -74,7 +74,7 @@ The two-factor model of well-being, Flourishing scale, Dispositional optimism.
   re-verified against fetched pages before writing; blockquote in Why it matters; no
   stitched quotes; Wikipedia marked as Wikipedia-sourced).
 
-## Repair pass — Self-verification theory (Swann) (worker-ct1-ppl-7f3a2b19, 2026-10-22 ~11:38Z)
+## Repair pass — Self-verification theory (Swann) (worker-ct1-ppl-7f3a2b19, 2026-10-22 ~11:37Z)
 
 - Trigger: routed finding (TASKBOARD 2026-10-22 06:59Z, worker-pplc-flourish-1022) alleged the
   first Swann, Pelham & Krull (1989) quotation was a paraphrase printed inside quotation marks,
