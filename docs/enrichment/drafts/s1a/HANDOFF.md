@@ -117,13 +117,23 @@ registration/backlinks remain the integration holds. Final commit this session: 
 retargeting decision. All quotes verbatim against carriers opened this session; per-sentence
 inline carrier citations added per advisor instruction. Final commit this session: see git log.
 
-T+37-42 verification pass (same session): all five drafts re-run through story_check (0 errors),
-wikilinks resolve, word counts in band (035=376, 036=224, 037=225, 038=272, 039=313), and every
-block quote re-traced to an opened carrier in the session record. The 039 "Patience" quote was
-re-verified against the downloaded Wallace translation HTML itself ("It is decreed that I must
-now choose Patience for my guide! This I have done.") — an earlier text-extraction of that file
-was defective and briefly read as a 404 page; the source is sound. A sixth artist story (Cage's
-4'33") was researched but NOT drafted: both candidate hosts (B172 value silence, B057 anchored/
-open awareness) put the piece's meaning on a different axis than their bodies (talk restraint;
-choosing the tool by state), so the mapping would be forced — left for a session with time for
+Verification pass (observed clock readings 15:36:17Z-15:38:15Z, i.e. T+36:38-T+38:36; extended
+after advisor review): all five drafts re-run through story_check (0 errors), wikilinks resolve,
+word counts in band (035=376, 036=224, 037=225, 038=272, 039=313), and every quoted span
+re-traced to carrier bodies (fetched outputs, downloaded PDFs, or fresh re-fetches of the
+Christie's lot page, the Guggenheim exhibition page, and the Legge Tao Teh King text). The 039
+"Patience" quote was re-verified against the downloaded Wallace-translation HTML itself (the
+local beet.txt file was a Gutenberg 404 response from a failed download; beet.htm is the valid
+book text). A sixth artist story (Cage's 4'33") was researched but NOT drafted: both candidate
+hosts (B172 value silence, B057 anchored/open awareness) put the piece's meaning on a different
+axis than their bodies, so the mapping would be forced — left for a session with time for
 advisor QC rather than inventing the bridge.
+
+Corrections from the final advisor verification round, applied:
+- 035: ACI citations added immediately after the 1967-departure sentence and the 1974-studio
+  sentence; the adobe-brick quotation restored to the carrier's exact printed form
+  ("I had a vision of an adobe brick," she said. "And I thought...").
+- Draft front matter and meta tables aligned with story_state (035/036/037/039 ready;
+  038 stays qc_pending).
+- Commit b693e557e's message says "15:40Z" but the observed reading for that save was
+  15:38:15Z; recorded here rather than rewriting history.
