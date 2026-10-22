@@ -441,3 +441,10 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   cognitive therapy (b1ebf93ba). No lost work. ROUTED (optional, low priority): the
   owning bands may update their done-lists to the post-rename titles so the 3
   residuals disappear.
+- Supervisor verification sample 4 (2026-10-22 ~14:50 UTC): K190 Flow block (k1a's
+  output at the session's clone point) — both Csikszentmihalyi quotes ("the best
+  moments usually occur... difficult and worthwhile"; "optimal experience is thus
+  something that we make happen") checked against the owner's public Drive PDF
+  (downloaded and opened directly this session; the folder link on the page resolves
+  to the same file). BOTH verbatim. Sample PASS. Four samples from four live bands
+  (w1y, w1t, w1u, k1a) all PASS.
