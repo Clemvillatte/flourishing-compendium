@@ -53,7 +53,9 @@ The practical reading offered here is to remove unnecessary interference while r
 - **[[The unity of the virtues|Virtue as second nature]]** (Aristotle, Nicomachean Ethics II)
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
-## Primary source (verbatim)
+## Sources
+
+### Primary source (verbatim)
 
 > "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do."
 > — James Legge, trans., The Tao Teh King (Sacred Books of the East vol. 39, 1891).

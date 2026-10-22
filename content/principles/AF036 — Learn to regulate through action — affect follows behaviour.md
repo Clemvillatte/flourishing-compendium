@@ -25,7 +25,7 @@ For everyday use, treat the next action as an experiment. Choose a manageable st
 ## Related concepts
 
 - [[Behavioral activation]]: planned changes in activity and avoidance.
-- [[Experiential avoidance]]: what a behaviour helps someone escape.
+- [[Experiential avoidance theory]]: what a behaviour helps someone escape.
 - [[Values]]: what makes an activity worth choosing.
 
 ## Psychology parallels
