@@ -41,7 +41,13 @@
   "content/kernels/K324 \u2014 Constraint-based creation.md"
  ],
  "notes": "Minted 2026-10-22 by worker-k1b-pplx (worker-minted kernel band per k1a precedent; queue-kernels.json@HEAD re-measured with the validator's prose_text counter: 150 of 216 still <150 prose words; k1b = thinnest 30). Standard: K100 kernel exemplar (EXEMPLARS.md); ledger in docs/enrichment/sources/k1b/ledger.md. Protocol: PROTOCOL-THINKERS.md kernels plan + k1a conventions.",
- "flagged": {},
+ "flagged": {
+  "content/kernels/K137 \u2014 Language flexibility.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms (K176 additionally notes Fogg official design-page video walkthrough)",
+  "content/kernels/K169 \u2014 Anger dissection.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms (K176 additionally notes Fogg official design-page video walkthrough)",
+  "content/kernels/K173 \u2014 Creative hopelessness.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms (K176 additionally notes Fogg official design-page video walkthrough)",
+  "content/kernels/K233 \u2014 Weekly inquiry loop.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms (K176 additionally notes Fogg official design-page video walkthrough)",
+  "content/kernels/K176 \u2014 Habit stacking.md": "guided-version recording: none found or verified this session; absence flagged pending supervisor ruling; not claimed as an established exemption; page states the absence in plain reader terms (K176 additionally notes Fogg official design-page video walkthrough)"
+ },
  "band_done": false,
- "updated": "2026-10-22T15:09:41Z"
+ "updated": "2026-10-22T15:13:29Z"
 }

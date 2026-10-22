@@ -17,8 +17,8 @@ When anger rises, take it apart: the bodily sensation, the triggering event, the
 1. Catch the bodily sensation. Heat, set jaw, ready hands. Name where you feel it.
 2. Name the trigger. The event itself in camera terms: what happened, without the interpretation.
 3. Write the story. The sentence you are telling yourself about the trigger.
-4. Find the violated value. What did the story say was trampled? Fairness, respect, autonomy? Appraisal research ties anger to perceived unfairness and to blame directed outward rather than to values as such; this step is an adaptation.
-5. Look at the action urge. Research summarizes anger's action side as an antagonistic action tendency: the tendency "to do something against an unpleasant situation, to remove an obstacle of frustration, or to blame a perceived wrongdoer" (Kuppens et al., 2003, p. 255, quoted verbatim).
+4. Ask what the story is about. Is a goal being blocked, is something unfair, is blame pointing at someone, or is something else at stake? Appraisal research ties anger to blocked goals, unfairness and outward blame; naming which one is in play is the point of this step.
+5. Look at the action urge. Research summarizes anger's action side as an antagonistic action tendency: the tendency "to do something against an unpleasant situation, to remove an obstacle of frustration, or to blame a perceived wrongdoer" ([Kuppens et al., 2003, p. 255](https://lirias.kuleuven.be/retrieve/96184)).
 6. Ask the alignment question: "Is the action urge aligned with my values?" That wording is this practice's own; it does not come from either study.
 
 ## A guided version
@@ -27,7 +27,7 @@ The dissection runs on your own anger episode, in your own words, so no guided r
 
 ## Evidence
 
-The components come from two lines of work. The componential view of emotion holds that "The components of an emotion episode are the respective states of the five subsystems and the process consists of the coordinated changes over time" (Sander, Grandjean and Scherer, 2018, quoting Scherer, 2005, p. 697). For anger specifically, a study of five appraisal and action tendency components (goal obstacle, other accountability, unfairness, control, antagonism) found that "other accountability and arrogant entitlement, as an instance of unfairness, are specific appraisals for anger; and most important, (b) none of the components is necessary or sufficient for anger" (Kuppens et al., 2003, p. 254, quoted verbatim), and concluded that the relation between anger and these components is "a contingent association, meaning that they usually co-occur" (p. 254).
+The components come from two lines of work. The componential view of emotion holds that "The components of an emotion episode are the respective states of the five subsystems and the process consists of the coordinated changes over time" (Scherer, 2005, p. 697, as quoted in [Sander, Grandjean and Scherer, 2018](https://www.unige.ch/fapse/e3lab/application/files/5917/7755/4350/2018-Sander_Grandjean__Scherer-Emotion_review.pdf)). For anger specifically, a study of five appraisal and action tendency components (goal obstacle, other accountability, unfairness, control, antagonism) found that "other accountability and arrogant entitlement, as an instance of unfairness, are specific appraisals for anger; and most important, (b) none of the components is necessary or sufficient for anger" ([Kuppens et al., 2003, p. 254](https://lirias.kuleuven.be/retrieve/96184)), and concluded that the relation between anger and these components is "a contingent association, meaning that they usually co-occur" (p. 254).
 
 What the research does not cover: neither work tested a dissection practice or its outcomes. Kuppens et al. collected descriptions of recalled situations, and the component framing is their reading of the field. The values question in step 6 is this practice's own wording, not study material.
 
