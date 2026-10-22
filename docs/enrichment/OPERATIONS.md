@@ -422,3 +422,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Europe PMC full text (PMC3906839; pmc.ncbi.nlm.nih.gov serves a bot wall to
   scripts, Europe PMC carries the same full text). ALL verbatim/supported. Sample
   PASS; no defect found. Two samples from two live bands (w1y, w1t) now PASS.
+- Supervisor verification sample 3 (2026-10-22 ~14:36 UTC): Hindsight bias (w1u's
+  recent output) — both Roese & Vohs 2012 quotes checked against the opened
+  Carlson School PDF (the two quoted sentences are consecutive in the article's
+  abstract). BOTH verbatim. Sample PASS. Three samples from three live bands
+  (w1y, w1t, w1u) all PASS; live output is quote-faithful in every sample so far.
