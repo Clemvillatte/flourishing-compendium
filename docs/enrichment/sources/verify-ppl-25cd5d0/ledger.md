@@ -1084,3 +1084,12 @@ on citation route: this page cites them via a secondary source (Wilkie, "Embodim
 code", iclc.toplap.org PDF) rather than the book carrier used on the Enactivism page; the
 secondary PDF itself was not opened this session — the verification is against the primary
 book text. No routed findings.
+
+## Round 51 (2026-10-22; inspection ~12:45-12:46Z; raw-text method)
+
+### The dignity of self-expression (w1ae, fast-track done, commit 169289c5d)
+
+3 quoted passages checked, 3 PASS — the "end in himself" fragment, the value/dignity
+distinction sentence, and the "morality, and humanity as capable of it, is that which alone
+has dignity" sentence all verified verbatim against an unprompted raw fetch of the cited
+Gutenberg #5682 text (Abbott translation of the Groundwork). No routed findings.
