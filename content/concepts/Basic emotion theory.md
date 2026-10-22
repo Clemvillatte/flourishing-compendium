@@ -17,6 +17,10 @@ The theory's evidence base is the cross-cultural work on faces: Ekman reports ro
 
 Affect · Psychological science
 
+## Sources
+
+- [Paul Ekman, "Facial Expression and Emotion", American Psychologist 48(4), 1993 (PDF hosted at the University of Cambridge)](https://www.cl.cam.ac.uk/~pr10/iui/ekman93.pdf)
+
 ## Cited in parallels
 
 - [[AF009 — Understand that affect is constructed, not discovered]]
