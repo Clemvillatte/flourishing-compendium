@@ -17,7 +17,7 @@ The duty to parents is not mere support, and Confucius is blunt about the differ
 
 > "Nowadays filial piety means being able to feed your parents. But everyone does this for even horses and dogs. Without respect, what's the difference?" (2:7)
 
-It is also not blind obedience. The Analects asks for attention to the parents' condition — "Your parents' age should not be ignored. Sometimes it will be a source of joy, and sometimes it will be a source of apprehension" (4:21) — and it licenses respectful disagreement:
+It is also not blind obedience. The Analects asks for attention to the parents' condition, "Your parents' age should not be ignored. Sometimes it will be a source of joy, and sometimes it will be a source of apprehension" (4:21), and it licenses respectful disagreement:
 
 > "When you serve your mother and father it is okay to try to correct them once in a while. But if you see that they are not going to listen to you, keep your respect for them and don't distance yourself from them. Work without complaining." (4:18)
 
