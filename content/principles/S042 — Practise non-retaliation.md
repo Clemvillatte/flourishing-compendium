@@ -12,15 +12,34 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 164** — Practise non-retaliation
 
-When wronged, the Stoic does not retaliate. Marcus gives the reason in a line: "The best kind of revenge is, not to become like unto them." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk VI §5.) The refusal is of the imitation: answering injury with injury makes you what you punish. The practical test before responding: ask what needs correcting, and whether the proposed response adds harm simply to make the other person suffer.
+Marcus Aurelius answers the urge to retaliate in a single line, in George Long's translation:
 
-Epictetus asks where the anger comes from: "This man who has been mistaken and deceived about the most important things, and blinded... should we not destroy him? If you speak thus you will see how inhuman this is which you say, and that it is just as if you would say, Ought we not to destroy this blind and deaf man?... Man, you ought not to be affected contrary to nature by the bad things of another. Pity him rather; drop this readiness to be offended and to hate" (Epictetus, Discourses I.18, tr. Long.) The ground of it is what we are: "we are all born to be fellow-workers, as the feet, the hands, and the eyelids... for such therefore to be in opposition, is against nature; and what is it to chafe at, and to be averse from, but to be in opposition?" (Marcus, printed as Bk I §15 in the Gutenberg text.)
+> The best way of avenging thyself is not to become like the wrong doer. ([Meditations 6.6, trans. Long, Internet Classics Archive](https://classics.mit.edu/Antoninus/meditations.6.six.html))
 
-(Disc. I.18; Med., Gutenberg 2680.)
+The refusal is aimed at imitation. Answering injury with injury turns you into the thing you object to. A useful test before responding is to ask what the situation needs corrected, and whether the response you have in mind does any correcting or only adds suffering.
 
-**Plain words** Someone wrongs you. Before responding, two questions: what does this situation need to have corrected, and is the suffering you are tempted to add doing any correcting? Marcus's line keeps the arithmetic honest — if you become like the person who hurt you, you haven't won, you've doubled them.
+Epictetus asks where the anger comes from. In his chapter on not being angry at the errors of others, he proposes that the wrongdoer is "mistaken and deceived about the most important things, and blinded, not in the faculty of vision which distinguishes white and black, but in the faculty which distinguishes good and bad." He draws the conclusion himself:
 
-*For example:* Reporting a fraud to the authorities is justice. Posting the fraudster's address online is something else.
+> Man, you ought not to be affected contrary to nature by the bad things of another. Pity him rather; drop this readiness to be offended and to hate. ([Discourses 1.18, trans. Long, Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt))
+
+Marcus gives the ground of this at the start of Book 2, where he prepares himself for the difficult people he will meet that day:
+
+> I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him, For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another then is contrary to nature. ([Meditations 2.1, trans. Long](https://classics.mit.edu/Antoninus/meditations.2.two.html))
+
+(Meditations 6.6 and 2.1, trans. Long; Epictetus, Discourses 1.18, trans. Long.)
+
+### Plain words
+
+Someone wrongs you. Before you answer, ask two questions. What does this situation need to have put right? And will the pain you are tempted to add put anything right? Marcus's line keeps the sums honest: if you become like the person who hurt you, you have not won anything, and you have added one more of them.
+
+### For example
+
+Reporting a fraud to the authorities is justice. Posting the fraudster's home address online is something else.
+
+## Sources
+
+- Marcus Aurelius, *Meditations* 2.1 and 6.6, trans. George Long: [Internet Classics Archive, Book 2](https://classics.mit.edu/Antoninus/meditations.2.two.html); [Book 6](https://classics.mit.edu/Antoninus/meditations.6.six.html)
+- Epictetus, *Discourses* 1.18, trans. George Long (selection with the Encheiridion): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
 
 ## Stories
 
