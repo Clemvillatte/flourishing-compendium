@@ -43,3 +43,7 @@ A language learner stuck on a textbook that is far too advanced loses heart. Swi
 ## Practice
 
 - Cultivate competence: set achievable challenges, build mastery experiences, and seek optimal challenge (not too easy, not too hard). Feeling effective is a foundation of motivation.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

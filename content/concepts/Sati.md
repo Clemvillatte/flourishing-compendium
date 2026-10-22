@@ -49,3 +49,7 @@ Sati's cross-tradition family is the attention-traditions: Weil's attention as t
 - [[B188 — Use ordinary cues as bells]]
 - [[B189 — Ground in the body]]
 - [[B192 — Begin the day with intention; end it with review]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

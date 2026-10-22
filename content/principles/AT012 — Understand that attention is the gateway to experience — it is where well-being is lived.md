@@ -42,3 +42,7 @@ Filming a concert on a phone: you keep the video and lose the concert. The atten
 ## Practice
 
 - Ask: "what do I actually attend to over a day?" Track it. If your attention is spent on things that do not matter to you, this is an attentional allocation problem, not an attentional capacity problem.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

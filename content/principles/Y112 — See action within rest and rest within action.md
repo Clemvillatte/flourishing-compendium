@@ -42,3 +42,7 @@ A woman gardens on Sunday for two hours and notices the afternoon passed without
 
 - [Bhagavad Gita 4.18 to 4.20 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/4/verse/18/)
 - The inherited Csikszentmihalyi and Laozi parallels were not opened and no claim here rests on them.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

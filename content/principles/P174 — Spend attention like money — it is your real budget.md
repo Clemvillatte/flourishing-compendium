@@ -50,6 +50,10 @@ This is the whole reason the principle is framed as a budget rather than a chara
 > Locator: Ch. XI "Attention", p. 402.
 > Open-access source: https://psychclassics.yorku.ca/James/Principles/prin11.htm
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What's your current attention budget — where does it actually go, and does it match what you say your life is? What's the audit?
 %%

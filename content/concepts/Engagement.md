@@ -37,3 +37,7 @@ The two anchors agree on the central point: engagement is not relaxation, and it
 
 - [[R090 — Practise participation]]
 ## Cited in psychology parallels
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

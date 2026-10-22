@@ -49,3 +49,7 @@ The model and chapter concern interest development in learners; the compendium's
 ## Practice
 
 - When a task is boring, either (a) find something interesting or meaningful in it, (b) make it more engaging (gamify, challenge, novelty), or (c) accept that it will require more effort and plan accordingly.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

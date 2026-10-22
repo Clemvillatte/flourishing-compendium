@@ -38,6 +38,10 @@ An autotelic activity provides its own reason to continue: set the external bene
 - **[[Flow|Autotelic activity]]** (Csikszentmihalyi, Flow)
 - **[[Consummatory experience|Consummatory experience]]** (Dewey, Art as Experience)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What activity in your life is currently purely instrumental — done only for what it produces — that could actually become autotelic? What would the conversion require?
 %%

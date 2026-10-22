@@ -42,3 +42,7 @@ The questionnaire study links playfulness with life satisfaction; the interventi
 ## Practice
 
 - Engage in play: games, humour, spontaneity, fun. Do not dismiss play as childish. It is a well-being behaviour. Schedule it.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

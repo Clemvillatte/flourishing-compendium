@@ -56,3 +56,7 @@ The orientations did not reduce to demographics or job type: a homogeneous subse
 - [[A090 — Recognise that the theoretical life is not for everyone]]
 
 ## Cited in philosophy parallels
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

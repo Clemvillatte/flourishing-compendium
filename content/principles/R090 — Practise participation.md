@@ -36,3 +36,7 @@ The distinction underneath it is his problem/mystery pair: "A problem is somethi
 ## Sources
 
 - [Treanor & Sweetman, "Gabriel (-Honoré) Marcel", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcel/) — carrier of the participation passage from The Philosophy of Existentialism (trans. Harari, p. 15) and the problem/mystery passage (Marcel 1949, p. 117), both verified against the opened page; the Marcel books themselves were not independently opened
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

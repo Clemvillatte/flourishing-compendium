@@ -36,3 +36,7 @@ The same study found that, regardless of the quality of experience, respondents 
 - [[Flow]] — the state investigated in the 1989 study
 - [[Intrinsic motivation]]
 - [[Peak experiences]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

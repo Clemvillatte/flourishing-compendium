@@ -49,3 +49,7 @@ Vigor and dedication are the core dimensions, the direct positive opposites of b
 [[ST136 — Seligman Renames the Target]]
 [[P112 — Respect the material — work with its grain]]
 ## Cited in philosophy parallels
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

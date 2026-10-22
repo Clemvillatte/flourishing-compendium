@@ -38,6 +38,10 @@ The compendium's exercise: choose an activity and record whether pleasure accomp
 - **[[Consummatory experience|Consummatory experience]]** (Dewey, Art as Experience)
 - **The beautiful (kalon) as aim of action** (Aristotle, NE II.3)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Recall a time pleasure arrived uninvited because you were absorbed in doing something well. What was it like?
 %%

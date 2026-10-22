@@ -38,3 +38,7 @@ For example (imagined): a teacher who rewrites a lesson so a struggling student 
 
 - **[[Creative values|Creative values]]** (Frankl, Man's Search for Meaning)
 - **[[The function argument|Ergon]]** (Aristotle, Nicomachean Ethics I.7)
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

@@ -38,6 +38,10 @@ A game states the aim and reports the result of each move. To make an activity m
 - **Goals and feedback in flow** (Csikszentmihalyi, Flow)
 - **[[Ends-in-view|Ends-in-view]]** (Dewey, Human Nature and Conduct)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Where in your life does the activity lack clear goals or immediate feedback — the runner with no watch versus the one with splits? What's the actual feedback gap?
 %%

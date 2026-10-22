@@ -44,3 +44,7 @@ The person who optimises morning routines and focus blocks, and has nothing sche
 ## Practice
 
 - Ask: "what is my attention serving?" If it is serving distraction, rumination, or things that do not matter, redirect. Let the criterion be: does my attentional life support the life I want to live?
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

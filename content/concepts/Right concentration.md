@@ -55,3 +55,7 @@ B028 "Develop right concentration (samadhi)" carries the concept directly, and t
 - [[AT063 — Recognise attentional costs of media multitasking — heavy multitaskers have worse attention]]
 - [[MO060 — Recognise the role of flow in motivated well-being]]
 -
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

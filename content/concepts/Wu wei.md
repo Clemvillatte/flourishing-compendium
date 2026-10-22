@@ -374,3 +374,7 @@ The philosophical analysis matters because it identifies the structure of the pr
 
 “Non-forcing (wu wei)” — Laozi, Daodejing 37.
 - [[S055 — Do not argue with impressions]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

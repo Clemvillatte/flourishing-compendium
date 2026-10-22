@@ -17,3 +17,7 @@ engagement grows from material feedback (Csikszentmihalyi, 1990).
 
 - [[P112 — Respect the material — work with its grain]]
 ## Cited in philosophy parallels
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

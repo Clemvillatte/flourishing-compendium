@@ -45,3 +45,7 @@ Choose one craft and keep a log of dated practice sessions for a year. At each m
 
 - **The craftsman's life** (Sennett, The Craftsman, as modern analysis)
 - **One's own work** (BG 18.47)
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

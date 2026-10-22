@@ -46,3 +46,7 @@ List three things that made last month feel worth it. Mark each as a relationshi
 ## Practice
 
 - In meaning work, identify your own sources of meaning without assuming a religious form. In community work, respect both religious and secular participants.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

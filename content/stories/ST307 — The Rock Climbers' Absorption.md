@@ -19,3 +19,7 @@ The research programme's later development, including the experience-sampling me
 
 **Principles:** [[PP018 — Calibrate challenge to skill|PP018 Calibrate challenge to skill]], [[PP019 — Protect absorption|PP019 Protect absorption]], [[PP020 — Build feedback into practice|PP020 Build feedback into practice]]
 **Resonates:** [[D057 — Enter flow|D057 Enter flow]], [[D071 — Practice undivided attention|D071 Practice undivided attention]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

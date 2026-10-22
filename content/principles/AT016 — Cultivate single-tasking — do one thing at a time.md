@@ -41,3 +41,7 @@ When you move to another task, you take up a different set of instructions. In t
 ## Practice
 
 - Do one thing at a time. When working, close other tabs and applications. When listening, just listen. When eating, just eat. The quality of attention determines the quality of experience.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

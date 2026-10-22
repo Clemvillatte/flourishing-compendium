@@ -37,6 +37,10 @@ Thich Nhat Hanh describes taking time with each dish and being aware of the wate
 
 - **[[The dignity of labor|The dignity of labor]]** (Dewey, Democracy and Education)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Where is your work currently practice's interruption rather than practice itself? What would samu actually look like?
 %%

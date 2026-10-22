@@ -56,3 +56,7 @@ An activity has two layers you can watch: what you are doing, and what will come
 ## Practice
 
 As a compendium exercise, choose one activity and, mid-action, name what your attention is on: the doing, or the result. If it is on the result, return it to one concrete detail of the doing.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

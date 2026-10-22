@@ -38,6 +38,10 @@ For example (application): After service, a cook reviews how tasting, rememberin
 - **[[Wu wei|Wu wei as unsplit action]]** (Zhuangzi, Inner Chapters, the skill stories)
 - **[[The unity of the virtues|The unity of virtue and knowledge]]** (Socrates, in Plato's Protagoras)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Name three times you acted wholeheartedly. What do they share, and what would you conclude about who you are from them rather than from your self-descriptions?
 %%

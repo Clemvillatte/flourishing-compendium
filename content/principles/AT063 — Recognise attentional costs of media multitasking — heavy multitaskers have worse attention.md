@@ -47,3 +47,7 @@ In that study, the group reporting more simultaneous media use had more trouble 
 ## Practice
 
 - Reduce media multitasking: do not use phone while watching TV, do not have multiple screens open while working, do not text while doing other things. Single-tasking is both more effective and more satisfying.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

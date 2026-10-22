@@ -42,6 +42,10 @@ For example (imagined): an evening of television after a heavy shift is amusemen
 - **[[Consummatory experience|Consummatory experience]]** (Dewey, Art as Experience)
 - **[[Flow|Autotelic activity]]** (Csikszentmihalyi, Flow)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 How much of your free time is recovery, and how much is real leisure? What would you change?
 %%

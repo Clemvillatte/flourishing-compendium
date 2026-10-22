@@ -80,3 +80,7 @@ The contemplative traditions named it first: [[Impermanence]] is the law of whic
 - [[AF019 — Recognise the paradox of hedonic pursuit — chasing positive affect can reduce it]]
 - [[MO006 — Understand that wanting and liking are different systems]]
 - [[Savoring]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

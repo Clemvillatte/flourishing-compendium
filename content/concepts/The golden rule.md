@@ -62,3 +62,7 @@ Neither source says the rule is a complete moral theory. This page does not cove
 - [[AF066 — Cultivate self-compassion — treat yourself as you would a good friend]]
 - [[SE012 — Understand that the self is not the enemy — self-relation is a skill]]
 - [[SE025 — Cultivate self-compassion — treat yourself as you would a good friend]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

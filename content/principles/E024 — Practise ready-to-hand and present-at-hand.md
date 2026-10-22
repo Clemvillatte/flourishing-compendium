@@ -39,3 +39,7 @@ Section 16 examines equipment that is damaged, missing or obstructive. Presence-
 
 - **[[Ready-to-hand|Ready-to-hand]]** (Heidegger, Being and Time)
 - **[[Present-at-hand|Present-at-hand]]** (Heidegger, Being and Time)
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

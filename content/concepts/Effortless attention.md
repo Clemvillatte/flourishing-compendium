@@ -67,3 +67,7 @@ The compendium pairs the construct with the effortlessness materials listed belo
 
 - [[D053 — Balance alertness and ease]]
 - [[B049 — Rest in no-mind (mushin)]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

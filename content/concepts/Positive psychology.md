@@ -56,3 +56,7 @@ The field's standing usefulness for this compendium is structural: it is the dis
 ## Cited in philosophy parallels
 
 - [[Eudaimonia]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

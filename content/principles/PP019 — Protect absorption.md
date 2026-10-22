@@ -36,6 +36,10 @@ In nearly half the samples, people were thinking about something other than what
 
 - [[Mind wandering|Mind-wandering and unhappiness]] (Killingsworth and Gilbert, 2010)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What interrupts you most? Which of those could you remove?
 %%

@@ -44,3 +44,7 @@ The passage is a philosophical comparison, not a claim about the measured psycho
 ## Practice
 
 - Design for flow: choose activities with clear goals, immediate feedback, and optimal challenge. Eliminate distractions. Give yourself uninterrupted time. Flow is a peak motivational state.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

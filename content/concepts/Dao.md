@@ -59,3 +59,7 @@ The Dao is also the Chinese member of a family of concepts that name the self-or
 - [[D181 — Don't grieve over the past or chase the future]]
 - [[D184 — Don't over-cultivate the appearance of virtue]]
 - [[Y036 — Train contentment as a skill]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

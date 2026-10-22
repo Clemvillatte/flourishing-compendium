@@ -38,6 +38,10 @@ When you notice yourself replaying an error, describe what the task requires nex
 - **[[Effortless attention|Effortless attention]]** (Bruya, Effortless Attention, 2010)
 - **[[Wu wei|Wu wei (effortless action)]]** (Laozi, Daodejing 48)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Where is your current action blocked by self-conscious deliberation? What would unblocked flow actually look like?
 %%

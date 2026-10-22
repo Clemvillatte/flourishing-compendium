@@ -52,6 +52,10 @@ Dewey offers a related account of habit from the psychological side:
 - **[[Wu wei|Wu wei (effortless action)]]** (Laozi, Daodejing 64)
 - **[[Dao|The Dao — alignment with what is happening]]** (Daoism, Daodejing 25)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Where in your life is mastery — knowing-how in the muscles and timing — actually available, and where is it being replaced by deliberation? What's the flow?
 %%

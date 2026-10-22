@@ -58,6 +58,10 @@ The same abstract reports "weaker correlations when individuals were from an ind
 - **[[Dao|The Dao — alignment as felt flow]]** (Daoism, Daodejing 25)
 
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Where is your current challenge-skill balance off — too easy producing boredom, too hard producing anxiety? What's the actual adjustment?
 %%

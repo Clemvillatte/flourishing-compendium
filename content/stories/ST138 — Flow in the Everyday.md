@@ -18,3 +18,7 @@ The popular reading of flow is as peak performance. Csikszentmihalyi's own empha
 
 **Principles:** [[P155 — Make workability your everyday criterion|P155 Make workability your everyday criterion]], [[P158 — Choose values as directions, not destinations|P158 Choose values as directions, not destinations]], [[P162 — Take committed action — behavior is where values become real|P162 Take committed action: behavior is where values become real]]
 **Resonates:** [[D057 — Enter flow|D057 Enter flow]], [[PP018 — Calibrate challenge to skill|PP018 Calibrate challenge to skill]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

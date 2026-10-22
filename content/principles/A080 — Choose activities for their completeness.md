@@ -49,6 +49,10 @@ Prefer activities that are worth doing for their own sake; the pleasure in them 
 - **[[Consummatory experience|Consummatory experience]]** (Dewey, Art as Experience)
 - **[[Flow|Autotelic activity]]** (Csikszentmihalyi, Flow)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Which activities in your week are chosen for their own sake? Which exist only to produce something else?
 %%

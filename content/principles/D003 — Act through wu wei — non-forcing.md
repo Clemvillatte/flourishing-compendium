@@ -62,6 +62,10 @@ The practical reading offered here is to remove unnecessary interference while r
 > Locator: Daodejing, ch. 48.
 > Open-access source: https://www.sacred-texts.com/tao/taote.htm
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What are you currently shoving rather than working with? What does the "skilled hand" version of that same task look like?
 %%

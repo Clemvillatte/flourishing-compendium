@@ -22,3 +22,7 @@ The origin in climbers and other practitioners rather than in patients is part o
 
 **Principles:** [[P073 — See conduct as interaction|P073 See conduct as interaction]], [[P075 — Treat habits as will|P075 Treat habits as will]]
 **Resonates:** [[D057 — Enter flow|D057 Enter flow]], [[PP018 — Calibrate challenge to skill|PP018 Calibrate challenge to skill]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

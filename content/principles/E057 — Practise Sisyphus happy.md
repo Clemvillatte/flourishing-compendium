@@ -38,3 +38,7 @@ This does not say suffering is secretly pleasant. The sentence is an instruction
 
 - **[[Sisyphus|Sisyphus]]** (Camus, The Myth of Sisyphus)
 - **[[The absurd|The absurd hero]]** (Camus, The Myth of Sisyphus)- **[[The absurd|The absurd]]** (Existentialism & Phenomenology)
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

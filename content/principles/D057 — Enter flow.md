@@ -64,6 +64,10 @@ The knife passage carries the story's account of long practice: after nineteen y
 - **[[Dao|The Dao — the way things work]]** (Daoism, Daodejing 25)
 
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 When have you been so absorbed that self-consciousness disappeared? What was that state, and what produced it?
 %%

@@ -76,3 +76,7 @@ The seed's second facet is Csikszentmihalyi's flow, the sibling construct. Flow 
 ## Cited in philosophy parallels
 
 - [[P115 — Welcome peak experiences — don't chase them]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

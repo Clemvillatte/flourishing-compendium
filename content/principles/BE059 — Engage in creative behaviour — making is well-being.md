@@ -46,3 +46,7 @@ Suppose a beginner spends an evening painting a watercolour and notes their mood
 ## Practice
 
 - Engage in creative behaviour: make something regularly (draw, write, cook, build, play music). Do not require it to be "good"; the making itself is the benefit.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

@@ -43,6 +43,10 @@ Imagine debugging a program. For this proposed exercise, choose one reproducible
 - **[[Optimal experience|Optimal experience]]** (Csikszentmihalyi, Flow)
 - **[[Consummatory experience|Consummatory experience]]** (Dewey, Art as Experience)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What would engineering absorption — clear goals, immediate feedback, challenge matched to skill, protected time — actually look like for your current work? What's the design?
 %%

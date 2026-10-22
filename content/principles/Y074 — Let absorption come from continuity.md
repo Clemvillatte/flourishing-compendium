@@ -38,3 +38,7 @@ Nothing in this passage says that attention "stops returning and begins resting"
 ## Philosophy parallels
 
 - **[[Wu wei|Wu wei as the ripening of practice]]** (Zhuangzi, the skill stories)
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

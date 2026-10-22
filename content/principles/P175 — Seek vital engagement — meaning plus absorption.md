@@ -34,6 +34,10 @@ Here, meaning is subjective significance. The compendium applies the definition 
 - **[[Vital engagement|Vital engagement]]** (Nakamura and Csikszentmihalyi, "The Construction of Meaning Through Vital Engagement")
 - **[[Ends-in-view|Ends-in-view]]** (Dewey, Human Nature and Conduct)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 Where in your life is the activity actually both absorbing AND meaningful — vital engagement — rather than just one or neither? What's the vital engagement?
 %%

@@ -35,3 +35,7 @@ The same desire can come with a confused understanding or a clear one. Spinoza c
 
 - **[[Klesha transmuted into wisdom|Klesha transmuted into wisdom]]** (Tibetan tradition)
 - **[[The kingdom within|The kingdom within]]** (Gospel of Luke 17.21)
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

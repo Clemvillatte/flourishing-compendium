@@ -18,3 +18,7 @@ The book's practical claim is large: aesthetic experience is available in ordina
 
 **Principles:** [[P107 — Treat education as growth, not preparation|P107 Treat education as growth, not preparation]], [[P118 — Engineer flow — match challenge to skill|P118 Engineer flow: match challenge to skill]]
 **Resonates:** [[D057 — Enter flow|D057 Enter flow]], [[A035 — Cultivate art and craft (techne)|A035 Cultivate art and craft (techne)]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

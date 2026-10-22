@@ -45,3 +45,7 @@ Vygotsky gave the calibration a name: the zone of proximal development, "the dis
 **Psychological caveat (do not romanticize):** PTSD is real. Continuing symptoms do *not* mean a person's self has been "destroyed." The aphorism is a description of what is *possible*, not a promise of what is *inevitable*.
 
 **Psychological evidence (cited):** Research on post-traumatic growth (PTG) shows the relationship between trauma and growth is complex and heterogeneous. Reported growth and distress can coexist; outcomes vary between individuals. Some researchers call findings of post-traumatic growth "largely illusory" due to methodological flaws. The WIKI has not independently re-verified these studies. Do not treat the philosophical passage as the support for the psychological evidence; present them separately.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

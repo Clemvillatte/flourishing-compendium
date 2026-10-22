@@ -131,3 +131,7 @@ the absorption state in which action and awareness merge (Csikszentmihalyi, 1990
 - 2025-2026 reviews
 - 2025-2026 meta-analyses
 [[B049 — Rest in no-mind (mushin)]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

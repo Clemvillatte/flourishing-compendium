@@ -53,6 +53,10 @@ The Politics adds that "the enjoyment of good fortune and the leisure which come
 - **An experience** (Dewey, Art as Experience)- **[[Scholē|Scholē]]** (Aristotelianism)
 
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What does leisure mean in your week, as distinct from rest or entertainment? What did you do the last time you had it?
 %%

@@ -45,3 +45,7 @@ Imagine working at something until the noise around you only registers when it s
 ## Practice
 
 - Design for flow: choose tasks with clear goals, immediate feedback, and a challenge level that matches your skill (not too easy, not too hard). Eliminate distractions. Give yourself uninterrupted time.
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

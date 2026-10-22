@@ -57,3 +57,7 @@ The phenomenological arm is older than the smartphone. The compendium's E-princi
 - [[E006 — Practise the epoché in daily life]]
 - [[A044 — Learn from experience]]
 - [[P190 — Existence is both precarious and stable]]
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

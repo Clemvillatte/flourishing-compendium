@@ -67,3 +67,7 @@ The paper's rewards discussion is a 2000 summary of a research program that bega
 [[A016 — Practice proper ambition (philotimia)]]
 [[MO062 — Learn to use rewards wisely — reinforcement, not bribery]]
 ## Cited in philosophy parallels
+
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]

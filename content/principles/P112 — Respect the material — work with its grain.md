@@ -38,6 +38,10 @@ For Dewey, this is a process in time: both what comes from the maker and the obj
 - **The maker and the material** (Dewey, Art as Experience)
 - **[[Morphology|Morphology]]** (Goethe, scientific writings)
 
+## Related thinkers
+
+- [[T001 — Csikszentmihalyi, Mihaly|Csikszentmihalyi]]
+
 <!-- fc: reflections
 What material — wood, paint, words, team, relationship — are you currently fighting rather than working with? What's the grain?
 %%
