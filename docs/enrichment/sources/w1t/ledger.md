@@ -160,3 +160,15 @@ Decisions:
 - Front-matter preserved; E026/E009 wikilinks preserved in Cited-in and in the trailing Mitsein block.
 - Related concepts added (The relational self, Being-in-the-world, Dasein, Intersubjectivity — all resolve).
 - No reciprocal proposals (fast-track bar).
+
+### Belief evaluation in CBT (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://www.apa.org/education-career/ce/acceptance-commitment.pdf — Hayes, Pistorello & Levin 2011 The Counseling Psychologist 40(7):976-1002. Three sentences fetched verbatim: cognitive fusion; defusion/mindfulness flexibility sentence; decrease-in-believability desired-result sentence. CBT-comparison sentence also verified (reduce frequency, challenge validity, test in real world).
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Front-matter preserved; P020/SE069 Cited-in wikilinks preserved.
+- Related concepts: Cognitive defusion, Cognitive restructuring, Cognitive biases, Cash value (actual page name).
+- Beck citation carried from the seed; marked not independently opened this session.
+- No reciprocal proposals (fast-track bar).
