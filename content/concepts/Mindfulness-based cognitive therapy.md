@@ -1,9 +1,9 @@
 ---
 schema: 0
-id: "MBCT"
+id: "Mindfulness-based cognitive therapy"
 type: "concept"
-title: "MBCT"
-file: "MBCT"
+title: "Mindfulness-based cognitive therapy"
+file: "Mindfulness-based cognitive therapy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---

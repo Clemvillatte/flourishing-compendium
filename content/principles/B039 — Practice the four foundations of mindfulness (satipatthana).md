@@ -37,7 +37,7 @@ The 4pm slump run through the frame: body tired, feeling dull, mind foggy, patte
 
 ## Psychology parallels
 
-- **[[MBCT|MBCT's four-domain structure]]**, body scan, feeling tone, and thought labeling organize clinical programs (Kuyken et al., 2016)
+- **[[Mindfulness-based cognitive therapy|MBCT's four-domain structure]]**, body scan, feeling tone, and thought labeling organize clinical programs (Kuyken et al., 2016)
 
 ## Philosophy parallels
 

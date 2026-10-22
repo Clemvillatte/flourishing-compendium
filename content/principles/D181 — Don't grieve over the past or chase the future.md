@@ -39,7 +39,7 @@ Grief for the past is itself a present event, so feeling it is not the error. Th
 ## Psychology parallels
 
 - **[[Rumination|Rumination]]**, past-focused repetitive thought predicts depression (Nolen-Hoeksema, 2000)
-- **[[MBCT|MBCT]]** (Teasdale et al., 2000), reduces relapse by training present-moment awareness
+- **[[Mindfulness-based cognitive therapy|MBCT]]** (Teasdale et al., 2000), reduces relapse by training present-moment awareness
 
 ## Philosophy parallels
 
