@@ -222,3 +222,60 @@ perceptions and beliefs".
    imperatives of the market must be subject to scrutiny" — VERBATIM.
 10. SEP, Merleau-Ponty — the "fundamental philosophical act" ... "return to the lived
     world beneath the objective world" — VERBATIM.
+
+## Round 6 (07:09Z) — further w1x pages
+
+### Thrownness — 9 quoted passages checked, 9 PASS
+
+1. SEP, Martin Heidegger (fall 2017 archive) — "As Dasein, I ineluctably find myself in a
+   world that matters to me in some way or another." — VERBATIM (page continues the quote
+   with the SEP sentence that follows; opening verified).
+2. Same carrier — "Dasein confronts every concrete situation in which it finds itself
+   (into which it has been thrown) as a range of possibilities for acting (onto which it
+   may project itself)." — VERBATIM.
+3. Being and Time, Macquarrie & Robinson p. 174 (beyng.com) — "As an entity which has
+   been delivered over to its Being, it remains also delivered over to the fact that it
+   must always have found itself-but found itself in a way of finding which arises not so
+   much from a direct seeking as rather from a fleeing" — VERBATIM.
+4. Same carrier — "not one in which we look at thrownness" — VERBATIM substring.
+5. SEP, Martin Heidegger (current) — "Besides death, another fundamental source of
+   finitude in human existence is our 'thrownness' into factical determinacy." —
+   VERBATIM; "never in control of one's own being from the ground up" (SZ 284) — VERBATIM.
+6. Same carrier — "I become myself by first owning the fact that I can escape neither
+   from my thrownness, nor from the lack of justification for my existence that comes
+   with that thrownness" — VERBATIM.
+7. SEP, Existentialism — "our essence is not given in advance; we are contingently
+   thrown into existence and are burdened with the task of creating ourselves through
+   our choices and actions" — VERBATIM.
+8. Same carrier — "a reflexive or relational tension between 'facticity' and
+   'transcendence,' where we are constrained by our facticity but simultaneously endowed
+   with the freedom to exceed or transcend it" — VERBATIM.
+
+### Aisthesis — 9 quoted passages checked, 9 PASS
+
+1. SEP, Aristotle's Psychology — "Perception is the capacity of the soul which
+   distinguishes animals from plants; indeed, having a perceptive faculty is definitive
+   of being an animal" — VERBATIM (source continues with De Sensu/De Anima citations).
+2. Same carrier — "Perception involves discrimination, while thinking involves
+   selective attending and abstraction, both activities, in the sense that each requires
+   more than mere passive receptivity" — VERBATIM.
+3. Plato, Theaetetus (Jowett, MIT Classics) — "Now he who knows perceives what he knows,
+   and, as far as I can see at present, knowledge is perception." — VERBATIM.
+4. Same carrier — the letters passage — VERBATIM substring.
+5. SEP, Plato's Theaetetus — "sensory perception alone cannot yield knowledge of the
+   sensible; rather, the propositional knowledge of the sensible requires certain
+   universal concepts (such as being), whose origin lies in the soul and not in the
+   sensory realm" — VERBATIM.
+6. Same carrier — "not to be found in our bodily experiences, but in our reasonings
+   about those experiences" (186d2) — VERBATIM.
+7. Aristotle, NE VI.8 (Ross, MIT Classics) — "practical wisdom is concerned with the
+   ultimate particular, which is the object not of scientific knowledge but of
+   perception-not the perception of qualities peculiar to one sense but a perception akin
+   to that by which we perceive that the particular figure before us is a triangle" —
+   VERBATIM substring; "another kind of perception than that of the qualities peculiar
+   to each sense" — VERBATIM substring.
+8. Aristotle, NE VI.11 (Ross) — "of these therefore we must have perception, and this
+   perception is intuitive reason" — VERBATIM substring.
+9. Wikipedia, Aesthetics etymology sentence — checked earlier this round via carrier
+   opening: the etymology claim matches the article's wording (aisthetikos "perceptible
+   things", aisthesthai "perceive, see", aisthesis "sensation, perception"). PASS.
