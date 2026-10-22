@@ -69,7 +69,8 @@
   "State-matched emotion regulation",
   "The analysis of experience into elements",
   "The quiet craftsman's life",
-  "The rehearsal of virtue"
+  "The rehearsal of virtue",
+  "The right amount of effort"
  ],
  "in_progress": null,
  "flagged": {
@@ -125,6 +126,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 24,
- "updated": "2026-10-22T08:22:13+00:00",
+ "updated": "2026-10-22T08:22:19+00:00",
  "band_done": false
 }
