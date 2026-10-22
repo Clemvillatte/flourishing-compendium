@@ -23,6 +23,11 @@ Gutenberg ebook #78221 (https://www.gutenberg.org/ebooks/78221), Joan Riviere tr
 (1930, Jonathan Cape & Harrison Smith / Hogarth); the 1930 Riviere text is also at
 archive.org/details/freud-1930-discontents (FULL TEXT download). Next w1s worker: enrich
 from these carriers, quotes verbatim per protocol.
+Supervisor verification (2026-10-22 ~12:07Z, worker-sup-6dc18459): Hermeneutic circle (H)
+first blockquote — the open punctuation question from the verify worker is RESOLVED: the
+Gadamer "On the Circle of Understanding" sentence was fetched and compared
+character-for-character; the page's quote is EXACT (no comma after "the individual from
+the whole" in the source either). No repair needed.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
