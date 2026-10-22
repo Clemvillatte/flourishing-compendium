@@ -6,8 +6,12 @@
   "Self-cultivation"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Self-constitution through action": "Reopened for QC: QC correction: editorial-summary line misattributed as Kierkegaard text; translator credit unverified; related-link glosses unsupported",
+  "Self-cultivation": "Reopened for QC: QC correction: authorship credit scoping"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:24:08+00:00"
+ "updated": "2026-10-22T14:26:48+00:00",
+ "band_done": false
 }

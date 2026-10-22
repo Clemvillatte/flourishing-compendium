@@ -7,7 +7,7 @@ file: "Self-cultivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-cultivation is the deliberate work of forming one's own character, given its classical shape in the Confucian text The Great Learning. The text makes cultivation the hinge between inner work and outer life: a person made right is the precondition for a family regulated, a state governed, a kingdom at peace.
+In The Great Learning, self-cultivation is the deliberate work of forming one's own character. The text makes cultivation the hinge between inner work and outer life: a person made right is the precondition for a family regulated, a state governed, a kingdom at peace.
 
 > "From the Son of Heaven down to the mass of the people, all must consider the cultivation of the person the root of everything besides" (The Great Learning, Legge trans., [sacred-texts](https://sacred-texts.com/cfu/conf2.htm)).
 
@@ -30,7 +30,7 @@ The Confucian term of art for this practice is covered at [[Moral cultivation (x
 
 ## Sources
 
-- Confucius, The Great Learning (Daxue), J. Legge, trans. ([sacred-texts](https://sacred-texts.com/cfu/conf2.htm))
+- The Great Learning (Daxue), J. Legge, trans. ([sacred-texts](https://sacred-texts.com/cfu/conf2.htm))
 
 ## Cited in philosophy parallels
 
