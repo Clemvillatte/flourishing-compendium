@@ -293,3 +293,7 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Front-matter file-field typo introduced during drafting (dropped the "K204 — " prefix) was caught and corrected before validation and commit.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (front matter otherwise verbatim from the seed).
+
+### Extended verification pass (2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Frozen-baseline validation extended to all 26 kernels enriched this session (the 22 listed above plus K326 Incubation practice, K229 Narrative redemption, K195 Posture reset, K204 Phone-free first and last hour) against pre-session commit b4bc0ed39610b47be21adc61e283ab744bc14b81: 26 checked, 0 failed. All front matter, wikilinks, and protected content intact; all items pushed to origin/main.
