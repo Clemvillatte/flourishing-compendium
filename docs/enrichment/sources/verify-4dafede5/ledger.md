@@ -242,8 +242,16 @@ research); all other sampled items PASS.
     tandfonline abstract snippet (the page's cited carrier). No hallucinated
     quotes.
 
+## Round 20 (11:51Z) — Dialogical philosophy (w1u, commit 971eaa7ec)
+
+27. **Dialogical philosophy (w1u)** — 5 quoted passages checked, 5 PASS against
+    a fresh fetch of the Bureau of Public Secrets I and Thou passages (Smith
+    trans.): the twofold-attitude opening, "I become through my relation to the
+    Thou", the different-I sentence, the I-It/I-Thou worlds sentence, and "All
+    real living is meeting". No hallucinated quotes.
+
 ## Summary
 
-26 items checked, 23 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+27 items checked, 24 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-six items after repair.
+quotation-faithful at a 100% sample of its first twenty-seven items after repair.
