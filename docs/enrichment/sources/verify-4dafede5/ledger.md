@@ -99,8 +99,21 @@ research); all other sampled items PASS.
     "being-toward-the-world". The being-toward-the-world gloss is an unquoted
     faithful paraphrase of the SEP sentence. No hallucinated quotes.
 
+## Round 5 (11:31Z) — Theory of mind post-QC state (w1t, commit d67c21f28)
+
+12. **Theory of mind (w1t, post-repair page)** — 1 quoted passage + 2 factual
+    claims checked, all PASS: the Premack & Woodruff definition re-verified
+    (unchanged, Tanaka carrier); the Call & Tomasello "perception-goal
+    psychology" sentence verified verbatim against a fresh fetch of the
+    eva.mpg.de 2008 review PDF (source prints en dashes, page hyphens —
+    typographic normalization, words exact); the Baron-Cohen, Leslie & Frith
+    1985 percentages (85% typically developing / 86% Down syndrome / 20%
+    autistic passing) verified against the original paper's text via the
+    Rutgers PDF ("23 out of 27... 12 out of 14... (85% and 86%...)",
+    "16 of the 20 autistic children (80%) failed"). No hallucinated quotes.
+
 ## Summary
 
-11 items checked, 9 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+12 items checked, 10 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first eleven items after repair.
+quotation-faithful at a 100% sample of its first twelve items after repair.
