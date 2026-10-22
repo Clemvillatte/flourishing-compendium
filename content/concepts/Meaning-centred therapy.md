@@ -7,14 +7,44 @@ file: "Meaning-centred therapy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-“Meaning-centred therapy” — Breitbart et al., 2010.
+Meaning-centred therapy (also called meaning-centered psychotherapy, MCP) is a short-term treatment for people facing advanced cancer and the end of life. Where most cancer care targets the body or mood, this one targets the need to feel that one's life still means something. William Breitbart and colleagues at Memorial Sloan-Kettering Cancer Center created it, rooted in the writings of Viktor Frankl, the psychiatrist and Holocaust survivor who wrote Man's Search for Meaning (Montross Thomas, Meier and Irwin). The developers' own words from the first randomized controlled trial:
 
-## Sources
+> "In response to the need for short-term interventions to address spiritual well-being, we developed Meaning Centered Group Psychotherapy (MCGP) to help patients with advanced cancer sustain or enhance a sense of meaning, peace and purpose in their lives, even as they approach the end of life."
+>
+> (Breitbart, Rosenfeld, Gibson, Pessin, Poppito, Nelson, Tomarken, Kosinski Timm, Berg, Jacobson, Sorger, Abbey and Olden, "Meaning-centered group psychotherapy for patients with advanced cancer: a pilot randomized controlled trial", Psycho-Oncology 19(1), 2010, pp. 21-28. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3648880/))
 
-- Breitbart et al., 2010
+### Origin
+The therapy grew out of Frankl's existential account, in which the creation of meaning is a primary force of human motivation, created through chosen attitude in dire situations, connection with life, engaged work, and one's legacy (Montross Thomas et al.). A later review by Breitbart's group describes the lineage plainly: "Inspired primarily by the works of Viktor Frankl... and his emphasis on the importance of meaning in human existence, Meaning Centered Group Psychotherapy (MCGP) was initially conceived of as a group-based intervention for individuals with advanced cancer" (Saracino, Rosenfeld, Breitbart and Chochinov).
+
+### Core claims
+The therapy's claim: despair at the end of life is partly a crisis of meaning, and meaning can be worked on. The group program runs eight sessions, mixing teaching and experiential exercises on the sources of meaning. The trial evidence: four randomized trials by Breitbart and colleagues (2010, 2012, 2015, 2018) have tested the group and individual formats, the later ones in samples of 253 and 325 patients (Saracino et al.). In the first trial, 90 patients with stage III or IV solid tumor cancers were randomized to eight weeks of the meaning-centered group or to supportive group psychotherapy, with follow-up two months later. The published abstract reports:
+
+> "MCGP resulted in significantly greater improvements in spiritual well-being and a sense of meaning. Treatment gains were even more substantial (based on effect size estimates) at the second follow-up assessment. Improvements in anxiety and desire for death were also significant (and increased over time). There was no significant improvement on any of these variables for patients participating in SGP."
+>
+> (Breitbart et al. 2010. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3648880/))
+
+### How the therapy works
+The mechanism, tested directly in a 2017 analysis pooling two trials (124 meaning-centered vs 94 supportive-group patients), is the enhancement of meaning itself: "improvement due to MCGP is mediated by advanced cancer patients' enhanced sense of meaning" (Rosenfeld, Cham, Pessin and Breitbart). It assumes terminal suffering feeds on lost purpose, and reworks purpose through the Franklian routes: creative work, love and experience, and the attitude taken toward unavoidable suffering. Honest limits: the first trial's authors called for larger samples; the review notes attrition was problematic (only 35% attended all eight sessions, most often because they became too sick) and samples were mostly Caucasian women around 60 (Montross Thomas et al.).
+
+### In everyday life (illustrative scenario)
+The compendium's reader meets the idea where Frankl placed it: in the last human freedom. A woman with advanced cancer who feels her life is over is offered, in the group, the Franklian inventory instead of reassurance: what she has created, whom she has loved, what she can still choose her attitude toward. The documented pattern is that the despair of wanting death decreases as the sense of meaning rises; the therapy's wager is that this holds even when the body cannot be cured.
 
 ## Cited in psychology parallels
 
 - [[E065 — Practise noogenic neurosis awareness]]
 [[ST311 — Frankl's Why]]
 ## Cited in philosophy parallels
+
+## Related concepts
+
+- [[Noogenic neurosis]] — Frankl's term for the despair that comes from lack of meaning, the suffering this therapy treats
+- [[Existential meaning]] — the broader construct the program works on
+- [[Existential therapy]] — the family of treatments MCP belongs to
+- [[Existential mattering]] — the felt sense that one's life counts, what the sessions cultivate
+## Sources
+
+- [Breitbart, Rosenfeld, Gibson, Pessin et al., "Meaning-centered group psychotherapy for patients with advanced cancer: a pilot randomized controlled trial", Psycho-Oncology 19(1), 2010, pp. 21-28](https://pmc.ncbi.nlm.nih.gov/articles/PMC3648880/) — the verbatim abstract, design and outcomes of the first randomized trial
+- [Montross Thomas, Meier and Irwin, "Meaning-Centered Psychotherapy: A Form of Psychotherapy for Patients With Cancer", Current Psychiatry Reports](https://pmc.ncbi.nlm.nih.gov/articles/PMC4861219/) — the origin in Breitbart's group and Frankl's writings, the four sources of meaning, and the attrition and sample limitations
+- [Saracino, Rosenfeld, Breitbart and Chochinov, "Psychotherapy at the End of Life"](https://pmc.ncbi.nlm.nih.gov/articles/PMC6986450/) — the four RCTs (2010, 2012, 2015, 2018) and the Franklian lineage of the intervention
+- [Rosenfeld, Cham, Pessin and Breitbart, "Why is Meaning-Centered Group Psychotherapy (MCGP) effective?...", Psycho-Oncology, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5807154/) — the mediation finding that enhanced sense of meaning carries the treatment effect
+- [Wikipedia, "Logotherapy"](https://en.wikipedia.org/wiki/Logotherapy) — Frankl's three ways of discovering meaning and the last of the human freedoms
