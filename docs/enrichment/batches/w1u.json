@@ -1,11 +1,12 @@
 {
  "batch": "w1u",
  "done": [
-  "Continuing bonds"
+  "Continuing bonds",
+  "Deautomatization"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T06:02:32+00:00"
+ "updated": "2026-10-22T06:16:17+00:00"
 }

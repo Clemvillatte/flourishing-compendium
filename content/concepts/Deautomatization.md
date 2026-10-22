@@ -7,11 +7,26 @@ file: "Deautomatization"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-meditation dismantles automatic thought-perception links (Deikman, 1966).
+Deautomatization is Arthur Deikman's term, from his 1966 paper "De-automatization and the Mystic Experience", for what contemplative meditation does to the mind's habits of perception. Deikman's starting point is automatization: practice makes perception and action drop out of awareness. "Automatization is assumed to be a basic process in which the repeated exercise of an action or of a perception results in the disappearance from consciousness of its intermediate steps" ([Deikman, Experimental Meditation, author's site](https://www.deikman.com/experimental.html)). The APA Dictionary gives the everyday version: a skill becomes "routine" and requires "little if any conscious effort or direction" ([APA Dictionary](https://dictionary.apa.org/automatization)).
+
+Deikman's proposal is that meditation runs this in reverse: "De-automatization is the undoing of automatization, presumably by reinvestment of actions and percepts with attention" ([Deikman, Experimental Meditation, author's site](https://www.deikman.com/experimental.html)). In meditation the percept receives intense attention while abstract categorization is set aside, so "the active intellectual style is replaced by a receptive perceptual mode" ([Deikman 1966, author's site](https://www.deikman.com/deautomat.html)). The result Deikman describes is a temporary freshness: colors "may appear to have gained (temporarily) a new richness and vividness so that the natural world is seen in a 'fresh' state" ([Deikman, Implications, author's site](https://www.deikman.com/implications.html)).
+
+He is careful about what this is: "de-automatization is not a regression but rather an undoing of a pattern in order to permit a new and perhaps more advanced experience" ([Deikman, Experimental Meditation, author's site](https://www.deikman.com/experimental.html)). It is a hypothesis built from mystic literature and his own experiments, not a proof of unmediated access to reality.
+
+### In the compendium
+- [[D041 — Practice purity and stillness (qingjing)]] cites deautomatization: meditation dismantles automatic thought-perception links (Deikman, 1966).
+- [[B124 — Meet suchness — things as they are]] treats it as a hypothesis about meeting things as they are, not proof of seeing without interpretation.
+
+## Related concepts
+- [[Habituation]] — the learning-by-repetition side of the same automatizing process
+- [[Mind wandering]] — where attention goes when it is not reinvested in the percept
+- [[Default mode network]] — a later neural correlate of the self-directed chatter meditation quiets
 
 ## Sources
-
-- Deikman, 1966
+- [Deikman, "De-automatization and the Mystic Experience" (1966), author's site](https://www.deikman.com/deautomat.html) — the model
+- [Deikman, "Experimental Meditation", author's site](https://www.deikman.com/experimental.html) — automatization and its undoing
+- [Deikman, "Implications of Experimentally Induced Contemplative Meditation", author's site](https://www.deikman.com/implications.html) — vividness and perceptual expansion
+- [APA Dictionary of Psychology, "automatization"](https://dictionary.apa.org/automatization) — routine-skill sense of automatization
 
 ## Cited in psychology parallels
 
