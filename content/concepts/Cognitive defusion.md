@@ -43,6 +43,7 @@ The cross-tradition cognates are exact: [[Anatta]] and [[Self-as-context]] are t
 - [[Dual-process theory]] — Evans and Stanovich's Type 1/Type 2 distinction (2013)
 - [[Midlevel terms]] — defusion is a paradigm midlevel term
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies defusion as a cognitive-dimension process
+- [[Acceptance and Commitment Therapy]] — the protocol where defusion was developed
 ## Sources
 
 - Hayes et al., 2011

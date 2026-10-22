@@ -49,6 +49,7 @@ The same paper is explicit that acceptance is instrumental: "Acceptance (and def
 - [[S118]] — A Stoic principle on accepting what was given back
 - [[AF039]] — A principle about accepting feelings without fighting them
 - [[SE022]] — A principle on accepting what one is without approving or resigning to it
+- [[Acceptance and Commitment Therapy]] — the protocol that trains acceptance against experiential avoidance
 ## Sources
 
 - [Hayes, Luoma, Bond, Masuda & Lillis, "Acceptance and Commitment Therapy: Model, processes and outcomes", Behaviour Research and Therapy 44 (2006), full-text PDF](https://anxietyinstitute.com/wp-content/uploads/2021/12/Hayes-et-al.-2006.pdf) — definition of acceptance; psychological flexibility; acceptance as method of values-based action

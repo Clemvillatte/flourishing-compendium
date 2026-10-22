@@ -26,6 +26,7 @@ The compendium's [[B037 — Choose your companions wisely (kalyanamitta)]] is th
 - [[Social learning theory (Bandura)]] — the psychology behind learning from exemplars
 - [[A — Aristotelian Virtue Ethics and Practical Wisdom]] — the book that sets the virtue-ethics frame exemplarism extends
 - [[Phronesis]] — the practical wisdom that the "sage" exemplar embodies
+- [[Virtue ethics]] — the broader tradition this theory belongs to
 
 ## Sources
 - Zagzebski, L. (2017). Exemplarist Moral Theory. New York: Oxford University Press. (Internet Archive: https://archive.org/details/exemplaristmoral0000zagz)

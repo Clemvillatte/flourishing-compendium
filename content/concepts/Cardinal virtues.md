@@ -22,6 +22,7 @@ For the flourishing project the scheme matters as an early structural answer to 
 - [[Courage]] — the virtue of standing firm amid danger, known to the tradition as fortitude
 - [[Temperance]] — the right ordering of pleasure and appetite
 - [[Eudaimonia]] — the flourishing at which the virtues aim
+- [[Virtue ethics]] — the classical tradition behind this catalogue
 
 ## Sources
 

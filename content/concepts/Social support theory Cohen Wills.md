@@ -20,6 +20,7 @@ Cohen reports that the review found buffering patterns when studies measured per
 ## Related concepts
 
 - [[BI050]] — experiments that placed physical warmth in the same prepared-safety category as supportive others
+- [[Tend-and-befriend]] — the stress-response model that predicts support-seeking
 
 ## Sources
 

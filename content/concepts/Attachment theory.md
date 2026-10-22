@@ -38,6 +38,7 @@ The theory's account of how early bonds shape later relationships runs through m
 - [[Nonattachment]] — the contemplative ideal of freedom from clinging, distinct from avoidant deactivation
 - [[The capacity to be alone]] — the research tradition that later mapped the reliable other
 - [[SO029]] — A principle on belonging as a fundamental need, from the review that framed it
+- [[Tend-and-befriend]] — the stress-response model that draws on the caregiving system
 ## Sources
 
 - Mikulincer and Shaver, 2007

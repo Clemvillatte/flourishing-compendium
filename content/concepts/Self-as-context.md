@@ -39,6 +39,7 @@ Cross-tradition bridge: [[Anatta]] is the Buddhist account of the same insight �
 - [[Acceptance]] — the sibling process on the openness side
 - [[Authenticity]] — rival accounts of the self, in that page's own framing
 - [[The examined life]] — the Delphic self-knowledge that page names at this concept's root
+- [[Acceptance and Commitment Therapy]] — the protocol that trains this stance
 
 ## Sources
 

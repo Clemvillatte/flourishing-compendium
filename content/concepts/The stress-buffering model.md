@@ -40,6 +40,7 @@ Sociocultural · Psychological science
 - [[Social support theory Cohen Wills]] — the companion page on the same research program
 - [[Loneliness]] — what the absence of support amounts to
 - [[The evolutionary account of loneliness]] — why the system reacts so sharply to its absence
+- [[Tend-and-befriend]] — the affiliative stress response this model helps explain
 
 ## Sources
 

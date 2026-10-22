@@ -26,6 +26,7 @@ The Buddhist cognate is [[Right intention]] — direction of the will as the fir
 ## Related concepts
 
 - [[Extended Evolutionary Meta-Model]] — the grid that classifies values as a motivational-dimension process
+- [[Acceptance and Commitment Therapy]] — the committed-action half of the model
 
 ## Sources
 

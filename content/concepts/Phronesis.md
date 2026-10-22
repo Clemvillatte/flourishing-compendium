@@ -36,6 +36,7 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 - [[Moral identity]] — the practical wisdom that guides the moral self
 - [[MO034]] — grounds adaptive judgment about ends in Aristotle practical wisdom, the philosophical parallel MO034 names.
 - [[Wisdom]] — listed for comparison
+- [[Virtue ethics]] — the tradition that makes this wisdom central
 ## Sources
 
 - [Wikipedia, Phronesis](https://en.wikipedia.org/wiki/Phronesis) — the NE Book VI framework, the contrast with epistēmē and sophia, the young-geometers passage, and later uses including the Rhetoric, MacIntyre and the Aristotelian Phronesis Model.

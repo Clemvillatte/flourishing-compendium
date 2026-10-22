@@ -23,6 +23,7 @@ The compendium works this as a caution rather than a refutation: [[P005 — You 
 - [[Virtue]] — the empirical challenge that situations trump traits
 - [[Fundamental attribution error]] — the bias that makes situations invisible
 - [[Habit discontinuity]] — the research line on when situations change rather than reveal
+- [[Virtue ethics]] — the tradition this challenge targets
 
 ## Sources
 

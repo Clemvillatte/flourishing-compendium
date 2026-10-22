@@ -41,6 +41,7 @@ MBSR's design goal was a training vehicle for facing stress, pain and illness, n
 - [[P161]] — P161's psychology parallels link Mindfulness-based interventions, and its body quotes the ACT review's account of contact with the present moment (life occurs only in the now; values are lived out moment to moment). The Mindfulness page gives the clinical background behind that link.
 - [[Right mindfulness]] — the eightfold path's mindfulness factor (MN 10's four establishments)
 - [[S140]] — A Stoic principle on attending to the present matter as the core of practice
+- [[Mindfulness-based stress reduction]] — the eight-week program that secularized the training
 ## Sources
 
 - [Kabat-Zinn, "Mindfulness-Based Interventions in Context: Past, Present, and Future", Clinical Psychology: Science and Practice 10(2), 2003, full-text PDF](https://jonkabat-zinn.com/wp-content/uploads/2023/01/JonKabat-Zinn_MindfulnessBased-InterventionsContext.pdf) — operational definition; dharma origins; MBSR 1979 design

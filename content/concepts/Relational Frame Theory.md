@@ -28,6 +28,7 @@ Clinical Psychodynamic · Psychological science
 - [[Midlevel terms]] — the basic science beneath ACT's midlevel layer
 - [[AF039 — Learn acceptance — the willingness to have a feeling without fighting it]] — the acceptance skill ACT derives from this account of framing
 - [[Acceptance alongside values-based action]] — the clinical package RFT underwrites
+- [[Acceptance and Commitment Therapy]] — the applied clinical descendant
 
 ## Sources
 

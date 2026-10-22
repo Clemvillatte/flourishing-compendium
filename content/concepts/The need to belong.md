@@ -36,6 +36,7 @@ If belonging is a need rather than a taste, two practical consequences follow, a
 - [[Lifestyle pillars of mental health]] — the connection pillar's motivational base
 - [[Attachment security]] — a developmental research program on the same territory, offered as a comparison
 - [[The social self]] — the motivation the social self serves
+- [[Tend-and-befriend]] — the befriending side of the stress response
 ## Sources
 
 - Baumeister and Leary, 1995
