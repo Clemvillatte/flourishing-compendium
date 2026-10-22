@@ -135,3 +135,7 @@ Both compendium-heading flags (tyranny of the ideal, undiminishing past) recorde
 ## w1af progress note (2026-10-22, worker-pplc-6a2f9b17, T+39)
 
 The upright soul: enriched at the fast-track bar from the opened Gutenberg #1998 (Common trans.); all quotes verbatim from raw greps (Backworldsmen: "more upright and pure voice" / "Always more uprightly learneth it to speak, the ego"; Despisers of the Body: "Body am I entirely"). Flagged as compendium heading (Nietzsche's word "upright" is adverbial there); state note carries the flag. QC cadence next due at item 15.
+
+## w1af progress note (2026-10-22, worker-pplc-6a2f9b17, T+40)
+
+The vainglorious man: enriched at the fast-track bar from the opened Wikisource Page trans. of The Misanthrope (raw fetch, all quotes verbatim from the Act I scene 2 sonnet scene); flagged as compendium heading for Oronte in the state note. Items 6-12 done this session segment; QC round for 6-10 completed and pushed (e9bc4e44); next QC due at item 15.
