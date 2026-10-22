@@ -62,3 +62,7 @@
 - Source opened: MIT Classics NE Book IV (Ross translation, raw HTML fetched and parsed; verbatim IV.1 definition sentence, the relative-to-substance sentence, the meanness judgement).
 - Note: D136's parallel label says "(megaloprepeia)" but NE IV.1 liberality is eleutheriotes (magnificence/megaloprepeia is IV.2); page uses the IV.1 sense only; flagging the D136 label for supervisor.
 - Validator: ok (fast-track). Advisor QC: not due (item 11).
+
+## Prospective memory (fast-track, 2026-10-22)
+- Source opened: Wikipedia Prospective memory (verbatim definition; event/time-based examples; multi-process model sentence; 2007 McDaniel & Einstein book in references).
+- Validator: ok (fast-track). Advisor QC: not due (item 12).
