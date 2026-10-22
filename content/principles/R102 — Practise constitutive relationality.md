@@ -20,7 +20,7 @@ Sandel's argument is that some attachments do not merely influence you; they par
 
 (Sandel, Liberalism and the Limits of Justice; [opened text, Charles University repository](https://is.cuni.cz/studium/eng/predmety/index.php?do=download&did=330749&kod=JPB595).)
 
-The practice follows from the definition. When you audit your commitments, some are not objects you hold; they are part of the holder. The question for those is not whether you chose them, but how you are living them.
+The practice follows from the definition. When you audit your commitments, some are part of the holder and no object you hold. The question for those is not whether you chose them, but how you are living them.
 
 ### Plain words
 

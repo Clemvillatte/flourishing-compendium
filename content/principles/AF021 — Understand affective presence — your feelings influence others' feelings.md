@@ -20,7 +20,7 @@ The difference from emotional contagion is in what is measured. Contagion is the
 
 **Plain words** How you usually feel and how others usually feel around you are different questions. For the compendium's exercise, ask a trusted colleague how they tend to feel after conversations with you.
 
-*For example:* (Imagined case.) A manager asks two team members, separately, how they usually feel after a one-on-one. Both hesitate, then one says drained, the other says clearer. Two private answers are not the study's measurement; they are where the compendium's practice starts.
+*For example:* (Imagined case.) A manager asks two team members, separately, how they usually feel after a one-on-one. Both hesitate, then one says drained, the other says clearer. Two private answers do not stand in for the study's measurement. They are where the compendium's practice starts.
 
 ## Sources
 

@@ -18,7 +18,7 @@ Tutu's description of the praised person puts giving among the marks of ubuntu: 
 
 > "Whatever happens to the individual happens to the whole group, and whatever happens to the whole group happens to the individual. The individual can only say: 'I am, because we are; and since we are, therefore I am'." (Mbiti, African Religions and Philosophy, 1969, pp. 108-109, [as quoted in this paper](https://scholar.sun.ac.za/server/api/core/bitstreams/2890e98d-77ab-4395-ac16-d4e294d1a8ac/content))
 
-The compendium's application is the wealth reading in the principle: a person's plenty is measured at the point of distribution, so the one who has much and shares is honoured and the one who hoards is the embarrassment. The honour is not payment for the gift; it is the community saying where its life comes from.
+The compendium's application is the wealth reading in the principle: a person's plenty is measured at the point of distribution, so the one who has much and shares is honoured and the one who hoards is the embarrassment. The honour is the community saying where its life comes from.
 
 **Plain words** Watch what a gift does to the giver's standing, not just the receiver's. The person who quietly covers a colleague's shortfall becomes a name people say when they explain who holds the community together; the person who never does stays comfortable and peripheral. Giving is how membership shows itself. Start where the principle starts: from what you already have, freely, without staging it.
 
