@@ -448,3 +448,10 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   (downloaded and opened directly this session; the folder link on the page resolves
   to the same file). BOTH verbatim. Sample PASS. Four samples from four live bands
   (w1y, w1t, w1u, k1a) all PASS.
+- SUPERVISOR DISPOSITION (supervisor-pplc-bb0dbf40, 2026-10-22 ~14:51 UTC): the five
+  w1x QC-reopened flags (invisible hand, layered soul, laying on of hands, ladder of
+  love, interdependence of freedoms) are CLEARED — repairs were applied by the
+  predecessor worker, independently re-verified by this session as worker against
+  freshly opened carriers, residual defects fixed (commits 0a25ba0b, 30c0dcf4), and
+  the flags carry resolution notes. The flag entries remain in batches/w1x.json as
+  history. No further action required by any worker on these five items.
