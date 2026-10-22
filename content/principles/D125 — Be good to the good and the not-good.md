@@ -12,15 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 125** — Be good to the good and the not-good
 
-Chapter 49 of the Daodejing is one of the book's most radical passages, and the radicalism is structural rather than sentimental. Legge: "The sage has no fixed opinions; he takes the people's minds as his mind... To those who are good to me, I am good; and to those who are not good to me, I am also good — and thus all get to be good" ([Daodejing 49, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The sage's goodness is not a response to the other person's goodness; it is a policy that does not depend on it.
+Chapter 49 of the Daodejing sets out a policy of goodness that does not depend on how others behave. In Legge's translation:
 
-The second half of the chapter completes the move with sincerity: to the sincere I am sincere, and to the not-sincere I am also sincere — and thus all get to be sincere. This is the transformation the principle names. The sage's non-contingent behaviour is not generosity toward bad people; it is the mechanism by which bad behaviour stops being the only thing in the room.
+> The sage has no invariable mind of his own; he makes the mind of the people his mind. To those who are good (to me), I am good; and to those who are not good (to me), I am also good;--and thus (all) get to be good. To those who are sincere (with me), I am sincere; and to those who are not sincere (with me), I am also sincere;--and thus (all) get to be sincere. ([Daodejing 49.1-2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-> "To those who are good to me, I am good; and to those who are not good to me, I am also good — and thus all get to be good." (Daodejing 49, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+The sage's goodness is the same toward everyone, and Legge's last clause states the result: "thus (all) get to be good". The compendium reads this as a standing policy and not a reward for good behaviour. The chapter itself makes no claim about how often it works.
 
-**Plain words** If your kindness is a vending machine that only works for the deserving, it is not kindness; it is a transaction with better branding. The teacher who is as patient with the disruptive kid as with the star is not being naive — she is running a policy that does not require the other person to be good first, which is the only version of kindness that can actually change anyone. Ten years later, that kid remembers who stayed.
+(Daodejing 49.1-2, trans. Legge.)
 
-*For example:* Two teachers have the same difficult student. One's patience runs out and becomes conditional; the student learns that patience is a reward you have to earn and stops trying. The other's patience holds regardless of the behaviour, and the student starts to believe the patience is real. Same student; only one of them is in a position to be remembered ten years later.
+### Plain words
+
+Kindness that only works for people who deserve it is a transaction. The chapter describes the sage as good to the good and good to the not-good, and says that is how everyone ends up good. It is a standing policy. It asks nothing of the other person first.
+
+### For example
+
+Two teachers share a difficult student. One keeps her patience whatever the student does. The other's patience runs out once the student stops earning it. The chapter points to the first. This one is imagined.
+
+## Sources
+
+- Laozi, *Tao Teh King*, trans. James Legge: [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Psychology parallels
 

@@ -30,7 +30,7 @@ Concern about the disease, including in one who does not yet have it, is the saf
 
 Zhuangzi's butterfly leaves a question open:
 
-> "Now I do not know whether it was then I dreamt I was a butterfly, or whether I am now a butterfly dreaming I am a man." (Zhuangzi 2, tr. James Legge, via [Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi))
+> Formerly, I, Zhuang Zhou, dreamt that I was a butterfly, a butterfly flying about, feeling that it was enjoying itself. I did not know that it was Zhou. Suddenly I awoke, and was myself again, the veritable Zhou. I did not know whether it had formerly been Zhou dreaming that he was a butterfly, or it was now a butterfly dreaming that it was Zhou. ([Zhuangzi 2, Legge 1891 in the METIS English Classics edition, 2023](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
 **Plain words** Before settling an answer, separate what you have checked from what you are assuming. Name any missing information and how you could investigate it. You can make a provisional decision while remaining willing to revise it when new evidence arrives. The trouble Laozi names is believing you know what you have not verified, and the safeguard is staying bothered by that gap.
 
@@ -39,7 +39,7 @@ Zhuangzi's butterfly leaves a question open:
 ## Sources
 
 - [The Tao Teh King, Legge trans., Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt): chapter 71
-- [Zhuangzi ch. 2 (tr. James Legge), via Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi): the butterfly dream
+- [Zhuangzi ch. 2 (tr. James Legge, 1891), METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf): the butterfly dream
 
 ## Stories
 - [[ST378 — Wang Ni Says How Would I Know That Three Times|378. Wang Ni Says How Would I Know That Three Times]]
