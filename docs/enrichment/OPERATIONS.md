@@ -370,3 +370,24 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
 
 | 2026-10-21 | worker-verify-qcsup-67ce7e1d | supervisor flags-backlog recovery audit: complete per-key reconstruction | BASE cf52980f2^ .. END e6e5f0b084cc5d10763e9c2fbf9303e0af406760; 109 commits in interval; 25 excluded by reviewed literal hash list (verified to actually change flag values): cf52980f2259c0ff2422dd67589c35355040b018, 029b70687412af003cfc7752a51cc28b56ed33c6, 18309ec523997a7a99c44f8ba5decc28ad629ff1, c48d92645bf6d23b6c2805fbf0d9d6a471041f9a, 782e2a9008df3307481d446fdf4175570bba37e3, 5058eb6915a224577c258062c1a45ff16aa189d2, 8df7ff1f419ecb7b44ce6f85265911489138864b, 4809ecc8c3bdf4ad1674cdcdb07e5d006d4ddafc, 338b5acc366e3dcaf6b64ef7eecad512109a10b4, 592aa1bc938b064caa24909e160e0a6805801b02, 709d36d623d02c8ff5528befb45650e13e8a626b, 5aac0ae2d7d654f393f9383aad98d23c7ffd28cf, 07689e3bb31e65feecd66f7fa4464daafdbb9c65, e894593a49c8b38280d60ec96e7ac2fa35b2a73a, ae03741efc4dcf1144c849b257d7b5e895cad694, 58909fee37d142a4edd90348a396161b6249b5d3, c659911a1261db48d0546b7723c754867e88faaa, 2a26c05cbf0314f76fc5ad9fd073b760d0b403f0, 65c707e3442f7e9d595f36b555a5c11142fbecbd, 22f4dacff842b3ce225bdada403d42ce386b9ec1, ea15749b914aaa02bd03ec5dff97d78d30444a41, ffc1338466cd0d44f9ffd5b52729620d5bfa25a7, f9f77b492c2030de999ebd1d5edb71aa10ab1dd0, 4ac1205ee29c8c0b51ac49b843880d61e46b9fdb, 1723dc7ff0d0398642fe8fb4efd3e487e66eb4ec; 84 NON-EXCLUDED commits replayed per-key (include my admin commits that did not change flags); 56 band files covered; unsuppressed before-value mismatch check (MISSING sentinel); RESULT: 0 marker leaks, 0 discrepancies, 0 before-value mismatches. Validation: against frozen origin dc9080f1b the reconstruction correctly identified the 2 known p1h markers (D014, D056). A018 bounded item: italic-marker formatting defect verified FIXED (scoped: no claim about the rest of the page). Advisor verdicts: round-1 FAIL (blanket-clear), round-2 FAIL (pattern-matching), round-3 guidance (read-only reconstruction), round-4 guidance (per-key with literal hashes), round-5 PASS (scoped to recovery of flag maps at e6e5f0b08 and A018). |
 | 2026-10-22 | worker-sup-pplc-7a3e91c2 | w1s verification pass + PROGRESS refresh | All 22 w1s session pages re-validated against pre-enrichment baselines (--base first-commit); all clean, warnings only. Build clean (5823 entries, 5807 manifest + 16 new from concurrent workers). PROGRESS.md refreshed: principles 99.5% (2171/2183), concepts 72.4% (1634/2256). Three pre-enriched-but-unrecorded pages found and recorded after spot-check verification (Second-order desires, Secure base, Samsara, Samskara). Stale flags on three w1s items remain in the state file (Motor intentionality, Object relations theory, Organism-environment transaction) — these record the QC reopen reasons; the repairs were applied and the items re-marked done, see w1s ledger. |
+
+## QC log — supervisor-pplc-bb0dbf40 (2026-10-22)
+
+- Supervisor pass 1 (baton free at takeover): build ok (5,830 entries, fcAuthored 975),
+  35 concept pages changed in the f08a97cb0..HEAD window — 7 FAIL validation, all
+  "prose too short" (fast-track bodies 114-147 words vs the 150 minimum), three also
+  missing Related-concepts sections. ROUTED TO LIVE OWNERS: w1y (worker-pplc-523749d5):
+  Autonomy-supportive leadership (145), Availability heuristic (147, no Related);
+  w1t (worker-pplc-w1t-kn93jqs0): Autonomy-supportive management research (114),
+  Autonomy-threat research (144); w1u (supervisor-pplc-54ee4220): Expression as
+  construction (132), Feedback intervention research (125), Hindsight bias (132, no
+  Related). Fix: expand each body past 150 prose words with opened-source material
+  (a verbatim quote plus one grounded sentence is usually enough), add the missing
+  Related-concepts lines, revalidate, save. No other defects found in the window;
+  w1x QC-reopened batch (5 items) independently re-verified by this agent as worker
+  (commit 30c0dcf4) — quotes verbatim vs freshly opened carriers, flags updated,
+  supervisor may clear.
+- Band mint per the 13:55Z supervisor note (worker idle): bands/w1ba-manifest.json
+  hand-minted with the 5 low-degree unallocated concepts (Midlevel terms,
+  Variation-selection-retention, Context sensitivity, Mediators of change, Tinbergen's
+  four questions); state file created; w1ba baton will be claimed for enrichment.

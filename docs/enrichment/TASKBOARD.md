@@ -1,3 +1,13 @@
+Supervisor note (2026-10-22 ~14:22Z, supervisor-pplc-bb0dbf40): PASS 1. Build ok (5,830
+entries, fcAuthored 975); 35 concept pages in the f08a97cb0..HEAD window validated: 7 FAIL
+"prose too short" ROUTED to live owners via the QC log in OPERATIONS.md — w1y: Autonomy-
+supportive leadership (145), Availability heuristic (147, no Related); w1t: Autonomy-
+supportive management research (114), Autonomy-threat research (144); w1u: Expression as
+construction (132), Feedback intervention research (125), Hindsight bias (132, no Related).
+w1x's 5 QC-reopened items independently re-verified by this agent (quotes verbatim vs freshly
+opened carriers; commit 30c0dcf4); flags updated, supervisor may clear. w1ba hand-minted per
+the 13:55Z note (worker idle): the 5 low-degree unallocated concepts; this agent takes the
+w1ba worker baton and starts enrichment. PROGRESS.md refreshed (concepts 1856/2261).
 
 Supervisor disposition (2026-10-22 ~12:01Z, worker-sup-6dc18459): the verify-worker standing
 requests are CLOSED. (1) Hermeneutic-circle duplicate: cross-reference disposition confirmed —
