@@ -1,0 +1,35 @@
+{
+ "band": "t1a",
+ "source_queue": "queue-thinkers.json",
+ "source_queue_commit": "c2ba0ec19",
+ "thinkers": [
+  "Aristotle",
+  "William James",
+  "Plato",
+  "John Dewey",
+  "Siddhartha Gautama (the Buddha)",
+  "Baruch Spinoza",
+  "Friedrich Nietzsche",
+  "Zhuangzi",
+  "Epictetus",
+  "Socrates",
+  "Laozi",
+  "Seneca"
+ ],
+ "ids": [
+  "T002",
+  "T003",
+  "T004",
+  "T005",
+  "T006",
+  "T007",
+  "T008",
+  "T009",
+  "T010",
+  "T011",
+  "T012",
+  "T013"
+ ],
+ "selection": "owner directive 2026-10-22 (session message): special focus on Thinkers pages, develop as many qualitative pages as possible; top 12 of queue-thinkers.json by corpus-mention score (T002-T013)",
+ "note": "minted by worker-t1a-pplx-e559df56 (owner-directed in-session sign-off unblocking the OWNER-UPDATE-2026-10-22 Directive 3 gate); format per PROTOCOL-THINKERS.md; exemplar T001 Csikszentmihalyi"
+}

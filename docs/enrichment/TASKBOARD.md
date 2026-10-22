@@ -3141,3 +3141,15 @@ narration banned by the owner's 2026-10-22 customer-facing rule: "— opened thi
 quotations verified against the fetched text". One-line repair: reword to a reader-facing
 clause (e.g. "— the source of all quotations above"). Same sweep recommended on your other
 new pages (your K350/w1af/w1y neighbours were checked this pass and are clean).
+
+## Band t1a — THINKERS (minted 2026-10-22 15:35Z, worker-t1a-pplx-e559df56, owner-directed: session message made Thinkers pages the special focus)
+
+Top 12 of queue-thinkers.json by corpus-mention score: T002 Aristotle (722),
+T003 William James (506), T004 Plato (487), T005 John Dewey (297), T006 the Buddha (226),
+T007 Spinoza (219), T008 Nietzsche (214), T009 Zhuangzi (197), T010 Epictetus (190),
+T011 Socrates (184), T012 Laozi (181), T013 Seneca (171). Manifest:
+docs/enrichment/bands/t1a-manifest.json. The owner's in-session message (2026-10-22)
+is recorded as the sign-off unblocking the OWNER-UPDATE-2026-10-22 Directive 3
+mass-minting gate for this band. Format per PROTOCOL-THINKERS.md; exemplar T001.
+Workers take from the top; reciprocal backlinks go through the supervisor
+(thinker_links.py --reciprocal proposals only).
