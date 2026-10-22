@@ -9,9 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Self-determination theory draws a line between needs and wants that the compendium's principles rely on. The theory's foundation, in its authors' abstract: "Self-determination theory (SDT) maintains that an understanding of human motivation requires a consideration of innate psychological needs for competence, autonomy, and relatedness", and "needs specify the necessary conditions for psychological growth, integrity, and well-being" ([Deci and Ryan 2000](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)). The needs are few and universal: "innate psychological needs for competence, relatedness, and autonomy concern the deep structure of the human psyche, for they refer to innate and life-span tendencies toward achieving effectiveness, connectedness, and coherence" (ibid.).
 
-### Where wants come in
+### The needs side: universal, not culture-bound
 
-The same paper gives wants their place in the picture. Humans are "active, growth-oriented organisms who are naturally inclined toward integration of their psychic elements into a unified sense of self" (ibid.), but under nonsupportive conditions the theory predicts compensatory behavior: in extreme cases people "engage in psychological withdrawal or antisocial activity as compensatory motives for unfulfilled needs" (ibid.). Wants, on this account, are not free-standing; a want can be the shape a thwarted need takes. The theory also holds that "different goal contents have different relations to the quality of behavior and mental health", "specifically because different regulatory processes and different goal contents are associated with differing degrees of need satisfaction" (ibid.) — so the test of a want is whether it feeds a need.
+The universality claim is explicit: "according to SDT, the three basic psychological needs are universal and thus must be satisfied in all cultures for people to be optimally healthy" (ibid.). But the paper immediately distinguishes the needs from the specific goals people pursue: "there is considerable variability in the values and goals held in different cultures, suggesting that some of the avenues to basic need satisfaction may differ widely from culture to culture" (ibid.). The needs are constant; the avenues are cultural.
+
+### Why wants are not needs
+
+The paper's clearest statement of the distinction is its critique of Murray-style definitions of need: "this definition is so broad that one could substitute terms like motive, desire, or goal for need without losing any meaning. By this definition, almost anything that moves one to action is a need" (ibid., pp. 123-124). SDT rejects that breadth. When a desire runs unusually strong, the theory reads it as history, not need: "as with the case of an unusually strong desire for food, we would consider an unusually strong desire to be with other people not to be a reflection of a strong innate need for relatedness but instead to be a result, in part at least, of previous experiences" (ibid.). Thwarted needs produce substitutes: people "develop substitute motives, nonautonomous regulatory styles, and rigid behavior patterns" — "compensatory motives that do not really satisfy the thwarted basic needs but provide some collateral satisfaction" (ibid.), and in extreme cases may "engage in psychological withdrawal or antisocial activity as compensatory motives for unfulfilled needs" (ibid.).
 
 ### In the compendium
 
@@ -27,7 +31,7 @@ The same paper gives wants their place in the picture. Humans are "active, growt
 
 ## Sources
 
-- Deci, E. L., and Ryan, R. M., "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", Psychological Inquiry 11(4), 2000, pp. 227-268 — [author-hosted PDF](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf)
+- Deci, E. L., and Ryan, R. M., "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", Psychological Inquiry 11(4), 2000, pp. 227-268 — [author-hosted PDF](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf); all quotations verified against the PDF text, including pp. 123-124 on desire/goal substitutability
 
 ## Cited in psychology parallels
 

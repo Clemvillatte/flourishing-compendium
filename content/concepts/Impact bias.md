@@ -15,7 +15,7 @@ The abstract names two mechanisms. The first is attention: "one cause of the imp
 
 ### Why it matters here
 
-The bias is strongest for negative events: "people fail to anticipate how quickly they will cope psychologically with such events in ways that speed their recovery from them" (ibid.). That asymmetry is the empirical backing for the compendium's advice to distrust both the dread forecast and the euphoria forecast before acting on either.
+The abstract flags one asymmetry: "This is especially true when predicting reactions to negative events: People fail to anticipate how quickly they will cope psychologically with such events in ways that speed their recovery from them" (ibid.). That is the empirical backing for the compendium's advice to distrust the dread forecast before acting on it.
 
 ## Related concepts
 
@@ -26,7 +26,7 @@ The bias is strongest for negative events: "people fail to anticipate how quickl
 ## Sources
 
 - Wilson, T. D., and Gilbert, D. T., "Affective Forecasting: Knowing What to Want", Current Directions in Psychological Science 14(3), 2005 — [Sage abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)
-- Wilson and Gilbert, 2003 — seed citation carried over; the 2005 review covers the same ground and was the opened carrier
+- Wilson and Gilbert, 2003 — seed citation carried over; not opened this session, no quote attributed to it
 
 ## Cited in psychology parallels
 

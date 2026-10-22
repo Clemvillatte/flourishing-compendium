@@ -15,7 +15,7 @@ The principle covers both legal penalties and "the moral coercion of public opin
 
 ### What it rules out
 
-Mill immediately names the rejected grounds: "He cannot rightfully be compelled to do or forbear because it will be better for him to do so, because it will make him happier" (ibid.). Paternalism is the standing target. The principle "is meant to apply to human beings in the maturity of their faculties" — children and those unable to decide for themselves are outside its scope, a boundary Mill draws explicitly in the same chapter.
+Mill immediately names the rejected grounds: "He cannot rightfully be compelled to do or forbear because it will be better for him to do so, because it will make him happier" (ibid.). Paternalism is the standing target. The doctrine "is meant to apply only to human beings in the maturity of their faculties" — children and those unable to decide for themselves are outside its scope, a boundary Mill draws explicitly in the same chapter.
 
 ### In the compendium
 
@@ -24,7 +24,7 @@ The principle is the philosophy side of Y028: if non-harm is the ground of legit
 ## Related concepts
 
 - [[Natural liberty versus the chains]] — Rousseau's contrast, from the other side of the liberal tradition
-- [[Positive freedom]] — the later objection that Mill's principle presupposes an already-formed chooser
+- [[Positive freedom]] — the other side of the liberal tradition
 - [[Escape from freedom]] — Fromm's diagnosis of what people do with the liberty the principle protects
 
 ## Sources
