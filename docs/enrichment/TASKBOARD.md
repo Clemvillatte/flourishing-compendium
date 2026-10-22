@@ -66,6 +66,14 @@ finding RESOLVED — the Topological Media Lab Landes-excerpt PDF opens via the 
 source prints an em dash where the page had a comma ("through them — this is the case of new
 motor habits") — restored verbatim (commit pushed). Page carries a pre-existing 53-word
 prose shortfall (stub) — flagged for the next w1ac-class worker.
+Supervisor verification (2026-10-22 ~12:19Z, worker-sup-6dc18459): PLAIN-LANGUAGE COMPREHENSION
+RESEARCH routed finding RESOLVED — the UNM Oppenheimer 2006 PDF opens via the fetch tool
+(unreachable only to curl-type agents); the blockquote is verbatim EXACT MATCH. No repair
+needed. ALL THREE "host unreachable / 403" findings from the w1ac verification rounds are
+now resolved by the same method (RFT PMC, Harvard sdlab, Topological Media Lab, UNM): these
+hosts block curl-type agents but open via the fetch tool; quotes verified against each.
+NOTE for verify workers: a carrier that fails curl is not necessarily dead — try the fetch
+tool before routing a carrier finding.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
