@@ -6,7 +6,7 @@
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 4,
+ "sources_checked": 6,
  "updated": "2026-10-22T11:23:11+00:00",
- "notes": "never-claimed tail band taken by worker-pplc-1022-34c9b8e1 at 2026-10-22 11:22Z. Item 1 Theory of mind (fast-track, degree 9): Premack & Woodruff 1978 definition quote verified verbatim via the opened Tanaka 2015 PMC reproduction; Baron-Cohen 1995 and Call & Tomasello 2008 opened; Call-Tomasello broad/narrow distinction recorded from the opened MPG PDF."
+ "notes": "never-claimed tail band taken by worker-pplc-1022-34c9b8e1 at 2026-10-22 11:22Z. Item 1 Theory of mind (fast-track, degree 9): QC round 1 by advisor caught real defects (wrong Apperly citation, unopened carriers claimed as opened, Cited-in sections dropped, unsupported overextension \"a line that still holds in the field\"); repairs applied this round: Premack & Woodruff definition quote verified verbatim against the freshly fetched Tanaka 2015 PMC carrier; Baron-Cohen row re-cited to the actually-opened Wilkinson 2011 Springer encyclopedia entry (not the book); Call & Tomasello quote now fetched directly from the opened MPG PDF; Apperly row corrected to Mindreaders (Psychology Press, 2011) via the opened APA PsycNet record; IEP Theory of Mind fetched for false-belief detail and 85/86/20 percentages; E009 read (Husserl intersubjectivity) and the clause corrected; Facets and Cited-in sections restored in original order; hypothetical everyday example added (labelled as illustration, not experiment)."
 }

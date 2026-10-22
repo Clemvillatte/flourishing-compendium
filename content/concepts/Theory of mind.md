@@ -12,27 +12,43 @@ Theory of mind is the everyday ability to work out what other people believe, wa
 > "In saying that an individual has a theory of mind, we mean that the individual imputes mental states to himself and to others (either to conspecifics or other species). A system of inferences of this kind is properly viewed as a theory, first, because such states are not directly observable, and second, because the system can be used to make predictions, specifically about the behavior of other organisms."
 > — Premack and Woodruff (1978), p. 515, reproduced in [Tanaka 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390942/)
 
-The "theory" part matters. Beliefs and desires are not visible the way a table is. A person watching another person has only behaviour to go on: words, posture, where the eyes land. Reading a mind is inference from those cues, closer to a working model than to direct perception.
+In Premack and Woodruff's formulation, mental states cannot be observed directly. Attributing a belief or intention is inference, closer to a working model than to direct perception, and this framing is one account among several in the field.
 
-### What the field argues about
+### How it is studied
 
-The question Premack and Woodruff opened in chimpanzees has become a large research programme on people. Baron-Cohen's 1995 book Mindblindness argued that autism involves a delay or failure in building this model, which reframed some social difficulties as a difference in mindreading rather than indifference. On the animal side, Call and Tomasello's 2008 review drew a line that still holds in the field: chimpanzees do read goals and perceptions, but the evidence that they track another's false belief, the strictest reading of the term, is weak.
+The research that grew out of that question uses the false-belief task. Wimmer and Perner's original version has a character, Sally, hide a toy and leave the room; Anne moves the toy; the child is asked where Sally will look. Children generally pass around age four, answering that Sally will look where she left it. The task matters because passing it requires holding that someone can act on a belief that is false, which is the strictest test of reading a mind rather than reading behaviour. In Baron-Cohen, Leslie and Frith's 1985 study, 85 percent of typically developing children and 86 percent of children with Down syndrome passed, compared with 20 percent of autistic children. Baron-Cohen's 1995 book Mindblindness developed this into the mindblindness theory, which proposes that children and adults on the autism spectrum are delayed in developing this capacity; the [Encyclopedia of Child Behavior and Development](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) summarises it as such. It is a proposal about a developmental difference, not a settled account of autism.
+
+A parallel debate runs on the animal side. Call and Tomasello's 2008 review of thirty years of chimpanzee work concluded that chimpanzees understand goals, intentions, perceptions and knowledge, but that the evidence for a fully human-like belief-desire psychology is weak. In their words, "chimpanzees understand others in terms of a perception-goal psychology, as opposed to a full-fledged, human-like belief-desire psychology."
+
+For an everyday illustration: someone leaves a note on the fridge saying the last slice of cake is theirs, then goes out; a housemate eats it; the returning person goes straight to the fridge. Predicting that detour, rather than that they will re-read the note, is holding a belief about their belief.
 
 ### In the compendium
 
-- [[E009 — Practise intersubjectivity]] — treats reading another's state as a skill to practise, not an assumption to skip.
+- [[E009 — Practise intersubjectivity]] — the phenomenological counterpart: Husserl's account of how encountering another subject reveals that one's own perspective is only one among many.
+
+## Facets
+
+- **mind and its limits** — Apperly, 2011
 
 ## Related concepts
 
-- [[Perspective-taking]] — the deliberate act of stepping into another viewpoint; theory of mind supplies the model that act uses.
+- [[Perspective-taking]] — the deliberate act of stepping into another viewpoint, which theory of mind underwrites.
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside.
-- [[Mentalization theory]] — the clinical framing of the same capacity as a developing skill.
-- [[Egocentric projection in social inference]] — the characteristic failure of theory of mind: filling the other's head with one's own contents.
-- [[The illusion of transparency]] — the mind's opposite error: assuming one's own states are legible to others.
+- [[Mentalization theory]] — the clinical framing of mindreading as a developing skill.
+- [[Egocentric projection in social inference]] — a documented failure mode: filling the other's head with one's own contents.
+- [[The illusion of transparency]] — the complementary error: assuming one's own states are legible to others.
 
 ## Sources
 
-- [Premack, D. and Woodruff, G. (1978), Behavioral and Brain Sciences 1(4), 515-526](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/does-the-chimpanzee-have-a-theory-of-mind/1E96B02CD9850016B7C93BC6D2FEF1D0) — the origin of the term; definition passage at p. 515.
-- [Baron-Cohen, S. (1995), Mindblindness, MIT Press](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) — the autism and mindreading account.
-- [Call, J. and Tomasello, M. (2008), Trends in Cognitive Sciences 12(5), 187-192](https://www.eva.mpg.de/documents/Elsevier/Call_Does_TrendsCogSci_2008_1554401.pdf) — the chimpanzee evidence thirty years on.
-- [Apperly, I. (2011), Mindblindness review of ToM](https://link.springer.com/rwe/10.1007/978-3-031-70581-6_10-1) — mind and its limits facet.
+- [Premack, D. and Woodruff, G. (1978), Behavioral and Brain Sciences 1(4), 515-526](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/does-the-chimpanzee-have-a-theory-of-mind/1E96B02CD9850016B7C93BC6D2FEF1D0) — origin of the term; definition passage at p. 515.
+- [Tanaka, S. (2015), Theory and Psychology 25(4), PMC5390942](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390942/) — the opened carrier of the verbatim definition quote.
+- [Internet Encyclopedia of Philosophy, "Theory of Mind"](https://iep.utm.edu/theomind/) — false-belief task detail, Baron-Cohen Leslie Frith percentages, theory-theory versus simulation-theory framing, Apperly reading.
+- [Wilkinson, L. A. (2011), "Mindblindness", Encyclopedia of Child Behavior and Development](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) — the opened summary of Baron-Cohen's 1995 proposal.
+- [Call, J. and Tomasello, M. (2008), Trends in Cognitive Sciences 12(5), 187-192](https://www.eva.mpg.de/documents/Elsevier/Call_Does_TrendsCogSci_2008_1554401.pdf) — the chimpanzee evidence thirty years on; broad and narrow construals quoted from the opened PDF.
+- [Apperly, I. (2011), Mindreaders: The cognitive basis of "theory of mind", Psychology Press](https://psycnet.apa.org/record/2010-24131-000) — the "mind and its limits" facet; suggests moving away from the notion that mindreading consists simply of having a theory of mind.
+
+## Cited in psychology parallels
+
+- [[E009 — Practise intersubjectivity]]
+- 
+## Cited in philosophy parallels
