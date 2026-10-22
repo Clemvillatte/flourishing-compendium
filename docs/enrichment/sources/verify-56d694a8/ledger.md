@@ -471,3 +471,9 @@ Round 49: 1 page, 1 quoted passage verified, no defects.
 1. **Attachment theory** — 1 DEFECT REPAIRED: the Shaver & Mikulincer 2005 definition printed "psycho-biological" where the opened UC Davis PDF prints "psychobiological" — hyphen removed, validated ok. The second passage (attachment security) VERIFIED verbatim. PASS after repair.
 
 Round 50: 1 page, 2 quoted passages verified, 1 defect repaired.
+
+## Round 51
+
+1. **Adiaphora, the indifferents** — both Enchiridion passages (the opening dichotomy; the "by nature free" fragment) VERIFIED verbatim via the opened classics.mit.edu Long translation. PASS.
+
+Round 51: 1 page, 2 quoted passages verified, no defects.
