@@ -16,3 +16,10 @@
   1 principle connection (B173, deg 7) — well under 15, no fast cluster.
 - Validator --fast-track: ok (1 warning: no ## Related concepts section, acceptable at
   the fast-track bar).
+
+## Collision note (2026-10-22, T+38)
+
+- During push, a concurrent w1z commit ("enrich: Differing from the crowd (w1z)") landed on
+  origin/main first. Rebase resolved in their favor: the concept page on origin is w1z's
+  version; my commit carries only this ledger. My raw-verified Legge quote research is
+  preserved here for the supervisor's reconciliation.
