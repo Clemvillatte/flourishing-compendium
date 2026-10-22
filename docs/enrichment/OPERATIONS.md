@@ -522,3 +522,10 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   et al. 2023 PDF (CORA, the page's cited secondary carrier): verbatim as quoted
   there, with the p. 723 locator. Sample PASS. Eighteen samples this session, all
   PASS; heartbeat refreshed.
+- Supervisor verification samples 19-20 (2026-10-22 ~15:26 UTC): Feedback intervention
+  theory — the Kluger & DeNisi FIT abstract quote verbatim vs the opened HUJI record;
+  The four temperaments — the Galen summary quote verbatim vs the opened NLM
+  exhibition page (the [...] elision skips the choleric clause, which has a
+  grammatical hiccup in the NLM original; elision is correct). Both PASS. Twenty
+  samples this session, all PASS. The full f08a97cb0..HEAD concept window is now
+  verified or sampled.
