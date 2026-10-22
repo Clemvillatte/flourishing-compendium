@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K378** — Cultivate your Compassionate Self
 
-Imagine yourself as a highly compassionate person, and explore the sense of age, facial expressions, body postures, voice tones and ways of thinking that belong to that role. Then practise adopting the role. This is like method acting, when one practises adopting and getting into a particular role ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)).
+Imagine yourself as a highly compassionate person, and explore the sense of age, facial expressions, body postures, voice tones and ways of thinking that belong to that role. Then practise adopting the role. In the founder's description, "this is like method acting, when one practises adopting and getting into a particular role" ([Gilbert, 2009](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088)).
 
 This version follows [Gilbert's (2009)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) description of compassionate-self practice.
 
