@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 178** — Treat yourself as a process: self-compassion as process acceptance
 
-Rogers's paradox is one of the strangest and most useful sentences in psychotherapy: "The curious paradox is that when I accept myself just as I am, then I can change" ([Rogers 1961, On Becoming a Person, ch. 6](https://archive.org/details/onbecomingperson00carl)). The paradox disappears the moment you treat the self as a process rather than a product. You do not accept the self the way you accept a finished painting; you accept it the way you accept a working garden — which still needs watering, and still has weeds, and still is the thing you are growing.
+Rogers's paradox is one of the strangest and most useful sentences in psychotherapy: "the curious paradox is that when I accept myself as I am, then I change" ([Rogers 1961, On Becoming a Person, ch. 1, p. 17](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf)). The paradox disappears the moment you treat the self as a process rather than a product. You do not accept the self the way you accept a finished painting; you accept it the way you accept a working garden — which still needs watering, and still has weeds, and still is the thing you are growing.
 
 Neff's later research formalises the same move without the paradox: self-compassion has three components — self-kindness, common humanity, and mindfulness — and none of them require the self to be good, only to be honestly seen ([Neff 2003, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743650/)). Acceptance is not a verdict on the current state; it is the working condition the process needs to keep running.
 
-> "The curious paradox is that when I accept myself just as I am, then I can change." (Carl Rogers, On Becoming a Person, 1961, ch. 6, [Internet Archive](https://archive.org/details/onbecomingperson00carl))
+> "It seems to me to have value because the curious paradox is that when I accept myself as I am, then I change." (Carl Rogers, On Becoming a Person, 1961, ch. 1, p. 17, [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf))
 
 **Plain words** Self-hatred is often defended as motivation, and it is the opposite. The loop — beat yourself up, feel worse, seek relief in the exact behaviour you were beating yourself up for — runs on the punishment. Rogers's point is that you cannot improve something you will not look at honestly, and you cannot look at something honestly while you are busy hating it. Acceptance is not the end of growth; it is the room the growth happens in.
 

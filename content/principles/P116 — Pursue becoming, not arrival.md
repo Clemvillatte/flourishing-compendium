@@ -16,7 +16,7 @@ Maslow's core argument is that self-actualization is not a summit but a directio
 
 Rogers takes the same point and gives it a name that carries the principle in its grammar: On Becoming a Person — not "On Having Become One." His formulation is that the good life is not a fixed state to be reached but a direction, a process ([Rogers 1961, ch. 5, Internet Archive](https://archive.org/details/onbecomingperson00carl)). The tense is the whole claim.
 
-> "The good life is a process, not a state of being. It is a direction, not a destination." (Carl Rogers, On Becoming a Person, 1961, ch. 5, [Internet Archive](https://archive.org/details/onbecomingperson00carl))
+> "The good life is a process, not a state of being. It is a direction, not a destination." (Carl Rogers, On Becoming a Person, 1961, ch. 9, p. 186, [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf))
 
 **Plain words** Two people can be equally skilled and equally successful and still be doing two different things. One is defending a version of themselves they have already decided on; the other is still asking what they are capable of next. The difference is not ambition; it is tense. The moment you stop becoming and start having-become, the thing you are defending is a snapshot. Rogers's title is the instruction: the book is called On Becoming a Person, not On Having Become One.
 
