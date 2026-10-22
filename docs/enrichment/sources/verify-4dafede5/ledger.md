@@ -210,8 +210,15 @@ research); all other sampled items PASS.
     focalism and repair-mechanism paragraphs are unquoted paraphrases. No
     hallucinated quotes.
 
+## Round 16 (11:34Z) — Participatory decision-making (w1s, commit 63be8f8ba)
+
+23. **Participatory decision-making (w1s)** — 3 quoted passages checked, 3 PASS
+    against a fresh fetch of the Bandura 2001 full-text PDF (icdst.org): the
+    abstract's opening sentence, the three-modes-of-agency sentence, and the
+    collective-efficacy sentence. No hallucinated quotes.
+
 ## Summary
 
-22 items checked, 19 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+23 items checked, 20 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-two items after repair.
+quotation-faithful at a 100% sample of its first twenty-three items after repair.
