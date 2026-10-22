@@ -2,7 +2,8 @@
  "batch": "w1ae",
  "done": [
   "The completeness of rest",
-  "The intention-behavior gap"
+  "The intention-behavior gap",
+  "The corruption of amour-propre"
  ],
  "in_progress": null,
  "flagged": {
@@ -10,5 +11,5 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T12:25:51+00:00"
+ "updated": "2026-10-22T12:27:55+00:00"
 }
