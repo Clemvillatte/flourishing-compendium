@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 Sit with dignity and wakefulness. Settle on the breath. Then, in stages, offer these phrases: *May I be safe and free from suffering. May I be as happy and healthy as it is possible for me to be. May I have ease of being.* Drop each phrase like a pebble into a deep well — then listen for any reaction in thoughts, feelings, or body. If self-kindness is hard, bring to mind a person (or pet) who loved you unconditionally; once you feel their love, return to offering it to yourself. Then move to a loved one, then a neutral stranger, then, optionally, a difficult person. Each stage: repeat the phrases, pause, listen.
 
-Adapted from Williams and Penman, Mindfulness, 2011. The instructions above are taken from an unattributed transcript of a guided befriending practice (Meditation 7, eCampusOntario Pressbooks). A peer-reviewed study using a befriending practice describes its audio as "derived from recordings by Professor Mark Williams" and lists similar phrases and stages ([Simonsson et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9757557/)). The practice's recording is distributed free on the book's site ([franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/)); the transcript's connection to that recording is not stated by any opened source.
+The instructions above are taken from an unattributed transcript of a guided befriending practice (Meditation 7, eCampusOntario Pressbooks); the transcript's authorship is not established by any opened source. A peer-reviewed study describes its own befriending audio as "derived from recordings by Professor Mark Williams" with similar phrases and stages ([Simonsson et al. 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9757557/)). Williams and Penman distribute a befriending recording free on the Mindfulness book's site ([franticworld.com](https://franticworld.com/free-meditations-from-mindfulness/)); no opened source ties the transcript to that recording, so the two stand as related, not verified equivalents.
 
 ### Protocol
 
@@ -62,7 +62,7 @@ The authors host a free recording on the book's own site: [The Befriending Medit
 
 ## Related kernels
 
-- [[K161 — Loving-kindness meditation]] (complement — one is the general form, this is the MBCT four-stage form)
+- [[K161 — Loving-kindness meditation]] (complement — one is the general form, this is the staged form as the opened transcript gives it)
 - [[K162 — Self-compassion practice]]
 - [[K163 — Compassion-focused breathing]]
 
@@ -74,7 +74,7 @@ The authors host a free recording on the book's own site: [The Befriending Medit
 
 ## Sources
 
-- [Williams & Penman (2011), Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World](https://franticworld.com/free-meditations-from-mindfulness/) — the practice's source; guided audio free at the book's site (edition locator not yet verified)
+- [Williams & Penman (2011), Mindfulness: An Eight-Week Plan for Finding Peace in a Frantic World](https://franticworld.com/free-meditations-from-mindfulness/) — the book associated with the practice family; free guided audio on the book's site (edition locator not yet verified; the transcript's connection to this recording is not established by an opened source)
 - [Meditation 7 – Befriending, guided-recording transcript, eCampusOntario Pressbooks](https://ecampusontario.pressbooks.pub/app/uploads/sites/758/2020/02/Befriending.pdf) — verbatim instructions, phrases, pebble image, unconditional-love fallback and stage order
 - [Simonsson, Goldberg & Osika (2022), "Effects of a brief befriending meditation on human-animal relations", PLOS ONE](https://pmc.ncbi.nlm.nih.gov/articles/PMC9757557/) — peer-reviewed description of a befriending recording ("derived from recordings by Professor Mark Williams"), similar phrases and stages
 - [Fredrickson et al. (2008), "Open hearts build lives", J Pers Soc Psychol, PubMed](https://pubmed.ncbi.nlm.nih.gov/18954193/) — LKM randomized field experiment

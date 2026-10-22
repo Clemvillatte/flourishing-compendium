@@ -308,3 +308,19 @@ Monday's stand-up, and both count as points in one person's distribution.
   Psychology 80, 1011–1027 — abstract, PubMed PMID 11414368](https://pubmed.ncbi.nlm.nih.gov/11414368/)
 - [Fleeson, "Moving Personality Beyond the Person-Situation Debate: The Challenge and
   the Opportunity of Within-Person Variability" (PDF)](http://wholebeinginstitute.com/wp-content/uploads/W-Fleeson_Moving-Personality-Beyond-Person.pdf) — opened carrier for the Figure 2 caption quotation
+
+---
+## EXEMPLAR (kernels): K409 — Non-sleep deep rest (NSDR)
+
+The kernel pages are practice pages, not concept pages, so they follow a different standard from the concept exemplars above. The designated kernel exemplar is [K409 — Non-sleep deep rest (NSDR)](../../content/kernels/K409%20%E2%80%94%20Non-sleep%20deep%20rest%20(NSDR).md) (see the kpr ledger, docs/enrichment/sources/kpr/ledger.md, 2026-10-21 entry). It shows the standard in one page:
+
+### The kernel standard, section by section
+
+- A one-paragraph opening that says what the practice is, who introduced the modern form, and when you would reach for it — no efficacy claims in the opening.
+- A numbered **Protocol** whose steps come from an opened carrier (a book, a founder's article, or a verified official recording). No invented steps. An editorial adaptation must be labelled as such or kept out of the numbered steps.
+- **Evidence** that quotes the opened studies verbatim with locators, records effect sizes where reported, and states plainly what the studies do NOT test (a kernel page never implies the cited trials tested the page's own protocol).
+- **A guided version**: a free, official or creator-hosted recording with a working link, duration stated.
+- **Operationalises / Related concepts / Related kernels** sections tying the practice to the compendium's principles and concepts.
+- **Sources** with opened URLs and locators; per-item ledger entry in docs/enrichment/sources/kpr/ledger.md.
+
+QC-pending kernels (K418, K419, K112, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared.

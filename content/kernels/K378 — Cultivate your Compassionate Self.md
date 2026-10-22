@@ -19,7 +19,8 @@ This version follows [Gilbert's (2009)](https://www.cambridge.org/core/journals/
 1. Imagine yourself as a highly compassionate person. Target dimensions: Identity (who you practice being) and Emotion (warmth).
 2. Explore the facial expression, posture, voice and ways of thinking associated with that role.
 3. Practise adopting the role; Gilbert suggests daily practice.
-4. Optional adaptation, not from the source: afterwards, note one moment when the role's response differed from your default, and vary the practice around what that shows.
+
+An after-practice note of one moment when the role's response differed from your default is this wiki's own suggested adaptation, not from the source; it is kept out of the numbered steps above.
 
 ### Evidence
 
