@@ -7,11 +7,11 @@ file: "Antidotes to afflictions"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-In Santideva's Bodhicaryavatara, patience is presented as the counter to anger, the affliction the sixth chapter treats at most length. The chapter's opening verses weigh the two against each other.
+In Santideva's Bodhicaryavatara, the sixth chapter names patience as the counter to anger: "no negative force resembles anger, and no trial resembles patience" ([ch. 6, v. 2](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)).
 
 > "As no negative force resembles anger, and no trial resembles patience, I shall therefore meditate on patience, with effort and in various ways." — Santideva, Bodhicaryavatara, ch. 6, v. 2 ([translation](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html))
 
-Santideva warns that one moment of hatred can devastate merit amassed over thousands of eons, and that a mind hosting the thorn of anger finds no peace, sleep or stability ([ch. 6, vv. 1, 3](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)). He also lists advantages to suffering: with agony, arrogance disappears, compassion grows for those in recurring samsara, and negative conduct is shunned ([ch. 6, v. 21](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)).
+The chapter opens with the stakes: one moment of hatred devastates positive deeds amassed over thousands of eons ([ch. 6, v. 1](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)). A heart with the thorn of anger lodged in it gains no peace, joy, pleasure, sleep or stability ([ch. 6, v. 3](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)). Suffering is also given a use: with agony, arrogance disappears, compassion grows for those in recurring samsara, and negative conduct is shunned ([ch. 6, v. 21](https://buddhism.redzambala.com/shantideva/bodhisattva-behaviour-by-shantideva-part-6.html)).
 
 ## Sources
 
