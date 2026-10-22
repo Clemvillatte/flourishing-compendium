@@ -566,3 +566,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   finished-band draw, w1l) — the Carlsmith, Wilson & Gilbert 2008 abstract quote and
   the body's supporting claims checked against the opened Europe PMC abstract:
   verbatim/supported. Sample PASS. Twenty-eight samples this session, all PASS.
+- Supervisor verification sample 29 (2026-10-22 ~15:54 UTC): Mindfulness (random
+  finished-band draw, w1a) — all three Kabat-Zinn 2003 quotes (the operational
+  working definition, the "faithful in both spirit and substance" dharma line, and
+  the "nothing particularly Buddhist" passage) checked against the opened full-text
+  PDF (the page's own carrier): all verbatim. Sample PASS. Twenty-nine samples this
+  session, all PASS.
