@@ -1680,3 +1680,30 @@ w1y band claimed and held; its 23-item queue was not started (owner cleanup took
   (beyng pp. 314/318/321), Boethius, Kelly, LINCS, SEP Metaphor, Gyekye, Tversky-
   Kahneman, Dewey, SEP Communitarianism, Petry, Giordano, Rose, Berry/Pepper.
 - w1y band: 69/69 done, verified, baton released.
+
+## Worker session — worker-pplx-911559df (2026-10-22, w1y/w1t/k1a; supersedes the addendum above)
+
+- W1Y COMPLETE: all 69 manifest concepts covered (state done list has 63 entries; 6 pre-manifest
+  dones). The band's remaining 23 concepts were enriched fast-track this session with opened
+  primary carriers and verbatim quotes; advisor QC on the first item (Ciphers of transcendence;
+  quote-mixing and Trinity-grammar findings applied).
+- W1T routed fixes done: Affordances carrier re-pointed to the live Charles University Gibson
+  ch.8 PDF (quote verified exact); Adequate idea Spinoza em-dash restored to the Gutenberg
+  exact text ("Explanation.-I say intrinsic").
+- QC round 2 (advisor closing findings, all repaired and pushed): Confucian duty 13:18 quote
+  restored to Muller exact ("his son"/"his father"); "the seed's source" phrasing removed from
+  all session pages; Conceptual-metaphor front-matter restored to the pre-session original;
+  attribution claims reworded to opened-source support (Dewey, Sandel, Communalism Big Two);
+  Coram Deo Ps 34:15 verified in Institutes III.20 (chapter on prayer) and attributed exactly;
+  Conceptual-metaphar LOVE IS A JOURNEY expressions list completed to the source's last
+  sentence; Durkheim unsupported locator ("Book III, ch. IV") removed; Kelly and Constitutive-
+  relationality em-dash spacing aligned to sources; Mehl definitions tense (was->is) and Vico
+  §31 end-truncation repaired per the routed findings.
+- Prevention: scripts/enrich_validate.py now WARNS on workflow language on pages (owner
+  directive 2026-10-22 markers: "this session", "not opened", "inherited citation", "the seed's",
+  supervisor/band/kpr ledger, robots-blocked/captcha, QC-notes, supervisor disposition).
+- K1A checked and released: all 40 queue-listed kernels already enriched and DONE-marked;
+  the state queue field is stale (no action needed).
+- Flagged for supervisor: story pages still carry "QC notes (not prose)" blocks (stories are
+  pipeline territory, not edited by workers); w1ac's two remaining stubs (Reinterpretation of
+  the past 60 words, Creative values 95 words) left to the live w1ac holder.
