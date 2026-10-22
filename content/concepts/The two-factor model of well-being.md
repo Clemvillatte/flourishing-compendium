@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The two-factor model is Corey Keyes' answer to a measurement question with practical stakes: is mental health just the low end of mental illness, or its own thing? Working with confirmatory factor analyses of depression symptoms (CESD subscales) and psychological well-being scales, he found the data fit two correlated but separate latent factors — one for the presence and absence of mental illness, one for the presence and absence of mental health. His summary of what that means:
 
-> In short, mental health is not merely the absence of mental illness; it is not simply the presence of high levels of subjective well-being. Mental health is best viewed as a complete state consisting of the presence and the absence of mental illness and mental health symptoms. (Keyes, "The Mental Health Continuum: From Languishing to Flourishing in Life," Journal of Health and Social Behavior 43(2), 2002, p. 209, [open PDF](https://thefpr.org/wp-content/uploads/Keyes_flourishing.pdf))
+> In short, mental health is not merely the absence of mental illness; it is not simply the presence of high levels of subjective well-being. Mental health is best viewed as a complete state consisting of the presence and the absence of mental illness and mental health symptoms. (Keyes, "The Mental Health Continuum: From Languishing to Flourishing in Life," Journal of Health and Social Behavior 43(2), 2002, p. 210, [open PDF](https://thefpr.org/wp-content/uploads/Keyes_flourishing.pdf))
 
 ### The continuum it supports
 

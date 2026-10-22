@@ -119,6 +119,22 @@ repair on Locus of evaluation, cross-band edit flagged); the full list and per-p
 are in sources/w1i/ledger.md. The w1ab band is clean at the quote level and ready for the
 supervisor's formal QC round or a routing decision.
 
+worker-verify-4d83a392 (2026-10-22 05:51Z, no band available at resume): independent
+quotation-fidelity round on the owner-priority core-theory pages enriched hours earlier —
+MBCT, Learned Helplessness Theory, Meaning-centred therapy (w1v), Flourishing scale,
+The two-factor model of well-being (maintenance), Competence and Relatedness (ct1, read-only).
+All displayed quotes verbatim and all figures grounded against freshly opened carriers.
+One defect found and FIXED under the maintenance baton (taken while released, then re-released):
+two-factor model of well-being, first Keyes 2002 quote locator p. 209 -> p. 210 (verified
+page-by-page from the JSTOR PDF; both that quote and the criteria quote sit on printed p. 210;
+the p. 207 six-times locator was already correct). Advisor's inference concern on that page
+resolved as grounded (p. 210: "measures of subjective well-being fall into two clusters of
+symptoms: emotional and functional wellbeing"). Two cosmetic notes, no action needed: Saracino
+quote on Meaning-centred therapy uses "..." instead of [...] for a dropped citation
+parenthetical; ct1 pages were checked read-only since that band was held (now stale — free for
+takeover). Full per-page records: sources/verify-4d83a392/ledger.md. Supervisor items: none
+urgent; optional — formalise ct1's remaining manifest work or release the band.
+
 # Enrichment task board
 
 Closure (2026-10-21 11:35 UTC, worker-p1zzl-3d7b2d81): p1zzl repair state finished; all nine pages validated; isolated 5,745-entry build passed with all nine present. Source checkpoint 4f258f46f and completion checkpoint 160e6f8e8 verified on origin/main. Worker release performed at 11:35:24 UTC. The 27 reciprocal proposals are ready for supervisor review/integration; no worker integration occurred.
