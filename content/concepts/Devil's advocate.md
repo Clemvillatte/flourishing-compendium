@@ -13,21 +13,19 @@ The devil's advocate was a real office, not a figure of speech. In the Roman Cat
 
 ### Why the devil
 
-The name came from the job description. The promoter's "presentation of facts included everything unfavourable to the candidate in order to uncover any character flaws or misrepresentations of their life of heroic sanctity" ([Britannica](https://www.britannica.com/topic/devils-advocate)). The counterweight, arguing for the candidate, was the advocatus Dei, God's advocate. After the 1983 reform, Britannica notes, the promotor fidei "subsequently held little sway over the proceedings," and the phrase migrated into ordinary use: it now "describes anyone who champions a less accepted cause solely for the sake of argument" (same source).
-
-The idea survives the office. An argument that has survived a determined opponent deserves more trust than one that has never met one, which is why the idiom keeps its usefulness even where the Church post no longer functions as it did.
+The name came from the job description. The promoter's "presentation of facts included everything unfavourable to the candidate in order to uncover any character flaws or misrepresentations of their life of heroic sanctity" ([Britannica](https://www.britannica.com/topic/devils-advocate)). After the 1983 reform, Britannica notes, the promotor fidei "subsequently held little sway over the proceedings." The phrase had long since migrated into ordinary use: the same entry notes that the term "is popularly used to describe anyone who champions a less accepted cause solely for the sake of argument" (same source), and the 1911 Britannica already recorded that the phrase "has by an easy transference come to be used of any one who puts himself up, or is put up, for the sake of promoting debate, to argue a case in which he does not necessarily believe" ([1911 Britannica, Wikisource](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Advocatus_Diaboli)).
 
 ### In the compendium
 
 - [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] — the compendium turns the office into a habit: generate the counterargument yourself, on purpose
-- [[CO015 — Recognise confirmation bias — you seek evidence that supports what you already believe]] — the office existed because the case for a candidate would otherwise face no organized opposition
+- [[CO015 — Recognise confirmation bias — you seek evidence that supports what you already believe]] — the office institutionalized the counter-case: arguing against the candidate was a job, not an afterthought
 
 ## Related concepts
 
-- [[Confirmation bias]] — the tendency the office was built to counterbalance
-- [[Steelmanning the opposing view]] — the modern, friendly descendant: argue the other side at its best
-- [[Debiasing techniques]] — the family of deliberate countermeasures this role belongs to
-- [[Cognitive biases]] — the catalogue of one-sided thinking an institutional opponent helps check
+- [[Confirmation bias]] — the one-sided evidence-gathering an institutional opponent counterbalances (the compendium's use)
+- [[Steelmanning the opposing view]] — a related modern practice of arguing the other side at its best (editorial comparison)
+- [[Debiasing techniques]] — the family of deliberate countermeasures this role belongs to (editorial comparison)
+- [[Cognitive biases]] — the catalogue of one-sided thinking an institutional opponent helps check (editorial comparison)
 
 ## Sources
 
@@ -35,6 +33,9 @@ The idea survives the office. An argument that has survived a determined opponen
 
 - [Encyclopaedia Britannica, "devil's advocate"](https://www.britannica.com/topic/devils-advocate)
 
+- [1911 Encyclopaedia Britannica, "Advocatus Diaboli" (Wikisource)](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Advocatus_Diaboli) — the phrase's ordinary use, already recorded in 1911
+
+[[CO015 — Recognise confirmation bias — you seek evidence that supports what you already believe]]
 ## Cited in philosophy parallels
 
 - [[CO029 — Practise consider the opposite — deliberately generate counterarguments]]

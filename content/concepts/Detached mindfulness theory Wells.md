@@ -7,9 +7,7 @@ file: "Detached mindfulness theory Wells"
 tags: ["theory", "psych/attention"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-ATTENTION"], "alternatePaths": []}
 ---
-**Detached mindfulness theory Wells** — observing thoughts as passing events without engagement, and without suppressing them, reduces distress.
-
-Detached mindfulness is the central technique of metacognitive therapy, developed by Adrian Wells. It is a way of responding to a thought: notice it, and do nothing further with it. No analysis, no checking, no suppression, no acting on it. Wells defines the state this way:
+Detached mindfulness is a state and technique within metacognitive therapy, the approach developed by Adrian Wells. It is a way of responding to a thought: notice it, and do nothing further with it. No analysis, no checking, no suppression, no acting on it. Wells defines the state this way:
 
 > "A state of awareness of internal events, without responding to them with sustained evaluation, attempting to control, suppress them nor respond to them behaviourally. It is exemplified by strategies such as deciding not to worry in response to intrusive thoughts, but allowing the thought to occupy its own mental space without further action or interpretation in the knowledge that it is merely an event in the mind" (Wells, 2009, p. 71, [reprinted in Wills](https://study.sagepub.com/system/files/metcognitive_therapy.pdf)).
 
@@ -25,17 +23,17 @@ Wells sets the technique apart from meditation-based mindfulness training: "DM d
 
 ### What it works against
 
-The theory is mechanistic: detached mindfulness is engineered as the exact opposite of what Wells calls the cognitive attentional syndrome, the pattern that in his model keeps distress going. The syndrome "consists of worry and rumination; threat monitoring; and coping behaviours that are maladaptive because they impair flexible self-control and prevent corrective learning experiences" ([Wells 2009, summarized in Wills](https://study.sagepub.com/system/files/metcognitive_therapy.pdf)). A person who meets an intrusive thought with detached mindfulness starves that loop: the thought is allowed its own mental space, and no follow-up processing is fed to it. The claim that this reduces distress is the therapy's working hypothesis, tested case by case rather than assumed.
+In Wells's model, the pattern that keeps distress going is the cognitive attentional syndrome: it "consists of: (a) worry and rumination; (b) threat monitoring; and (c) coping behaviours that are maladaptive because they impair flexible self-control and prevent corrective learning experiences" ([Wells 2009, summarized in Wills](https://study.sagepub.com/system/files/metcognitive_therapy.pdf)). Detached mindfulness is meant to interrupt that pattern: the person notices the thought and suspends the conceptual processing and coping that would feed it. Whether the technique reduces distress is an empirical question; the sources opened here describe the model and the techniques, not trial outcomes.
 
 ### In everyday life
 
-Wells' tiger task shows the stance in miniature. The client is asked to picture a tiger and simply watch it: "The tiger may move, but don't make it move. It may blink but don't make it blink... Watch how the tiger has its own behaviour. Do nothing but simply watch the image, see how the tiger is simply a thought in your mind, that is separate from you and it has a behaviour all of its own" ([Wells, technique script](https://study.sagepub.com/system/files/metcognitive_therapy.pdf)). The point lands in the body: a thought can move on its own, without the thinker steering it, and nothing bad follows from letting it.
+Wells' tiger task shows the stance in miniature. The client is asked to picture a tiger and simply watch it: "The tiger may move, but don't make it move. It may blink but don't make it blink... Watch how the tiger has its own behaviour. Do nothing but simply watch the image, see how the tiger is simply a thought in your mind, that is separate from you and it has a behaviour all of its own" ([Wells, technique script](https://study.sagepub.com/system/files/metcognitive_therapy.pdf)). The exercise lets a person experience, rather than argue about, the difference between watching a thought and steering it.
 
 ## Related concepts
 
-- [[Cognitive attentional syndrome Wells]] — the pattern of worry, monitoring and coping that detached mindfulness is built to starve
+- [[Cognitive attentional syndrome Wells]] — the pattern of worry, monitoring and coping that the technique is meant to interrupt
 - [[Metacognitive model of anxiety and depression (Wells)]] — the parent model the technique belongs to
-- [[Decentering]] — the shared ingredient with other mindfulness traditions: thoughts as events, not facts
+- [[Decentering]] — the neighboring idea of thoughts as events rather than facts (editorial comparison)
 - [[Rumination]] — the conceptual processing detached mindfulness suspends
 - [[Metacognitive awareness]] — the meta-awareness of thought the technique trains
 

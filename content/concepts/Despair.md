@@ -7,13 +7,13 @@ file: "Despair"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Despair, in Kierkegaard's sense, is not an emotion but a structural fault in the self. The Sickness unto Death (1849), published under the pseudonym Anti-Climacus, opens by defining what a self is before it names how the self can go wrong. A person is "a synthesis of the infinite and the finite, of the temporal and the eternal, of freedom and necessity, in short, a synthesis," and "considered in this way a human being is still not a self" ([online text](https://sorenkierkegaard.org/sickness-unto-death.html)). Selfhood is the task of holding that synthesis together, and despair is its failure.
+Despair, in Kierkegaard's sense, is a technical category of the self rather than a mood report; it can be felt as hopelessness, but it names the misrelation underneath the feeling. The Sickness unto Death (1849), signed with the pseudonym Anti-Climacus ([Storm commentary, work listing](https://sorenkierkegaard.org/sickness-unto-death.html)), opens by defining what a self is before it names how the self can go wrong. A person is "a synthesis of the infinite and the finite, of the temporal and the eternal, of freedom and necessity, in short, a synthesis," and "considered in this way a human being is still not a self" ([online text](https://sorenkierkegaard.org/sickness-unto-death.html)). Selfhood is the task of holding that synthesis together, and despair is its failure.
 
 > "Despair is the misrelation in the relation of a synthesis that relates itself to itself. But the synthesis is not the misrelation; it is merely the possibility, or in the synthesis lies the possibility of the misrelation." (Kierkegaard, [The Sickness Unto Death](https://sorenkierkegaard.org/sickness-unto-death.html))
 
 ### The two refusals
 
-The misrelation can run in two directions. The despairing person may not will to be the self she is, or may will to be a self of her own making, in defiance of what she is. The book's compact statement of the goal is the mirror image of the fault: "in relating itself to itself and in willing to be oneself, the self rests transparently in the power that established it" ([same text](https://sorenkierkegaard.org/sickness-unto-death.html)). Despair is thus curable, on this account, by a right willing rather than by waiting out a feeling; the page's linked principle notes the two forms and their overcoming.
+The misrelation can run in two directions, and the text names both poles: "This form of despair is: in despair not to will to be oneself. Or even lower: in despair not to will to be a self. Or lowest of all: in despair to will to be someone else, to wish for a new self," with the opposite pole, "in despair to will to be oneself" ([Storm commentary text](https://sorenkierkegaard.org/sickness-unto-death.html)). The book's compact statement of the goal is the mirror image of the fault: "in relating itself to itself and in willing to be oneself, the self rests transparently in the power that established it" ([same text](https://sorenkierkegaard.org/sickness-unto-death.html)). The remedy, on this account, is a re-established relation to the power that established the self, not a change of mood.
 
 ### In the compendium
 
@@ -23,9 +23,9 @@ The misrelation can run in two directions. The despairing person may not will to
 ## Related concepts
 
 - [[Hope]] — what hope refuses, the opposite pole
-- [[Ego integrity (Erikson)]] — the developmental-psychology descendant: despair as the failure risk of a life's final reckoning
-- [[The ethical]] — a stage in Kierkegaard's own account of the self's task, adjacent to despair's cure
-- [[Anxiety about the future]] — the feeling-level kin of despair, where the self anticipates its own failure
+- [[Ego integrity (Erikson)]] — a distinct use of the same word: despair as the risk in a life's final reckoning (editorial comparison)
+- [[The ethical]] — a neighboring Kierkegaardian category (editorial comparison)
+- [[Anxiety about the future]] — the feeling-level kin of despair, where the self anticipates its own failure (editorial comparison)
 - [[Acedia]] — the older spiritual name for a neighboring condition, a refusal of the self's task
 
 ## Sources
