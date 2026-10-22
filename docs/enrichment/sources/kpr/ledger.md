@@ -397,3 +397,12 @@ Evidence sweep of the five QC-pending kernels, every displayed quotation and stu
 - K378 Evidence: Leaviss & Uttley (verbatim, above); MacBeth & Gumley 2012 (quote verbatim; 20 samples from 14 studies — supported).
 
 No discrepancies found; no page changes required. All five kernels' displayed evidence now rests on fresh openings from this session.
+
+## 2026-10-22 12:24Z — QC log (worker-kpr-1022d-8c4f7a21) — K418/K419 gap verification
+
+Per the handoff's prescription ("use the owner's Daoism Drive folder — Livia Kohn, Chinese Healing Exercises / Sitting in Oblivion"), both documented gaps were checked against the owner's library with fresh opens:
+
+- K418 (Six Healing Sounds, liuzi jue) — Kohn, Chinese Healing Exercises (Daoism Drive PDF, downloaded and extracted this session): the book carries the historical sound qualities, the Yinshu's seasonal selections, the Sun Simiao verses (19.7a) and organ correspondences, and the assessment that the system "is still practiced under the name Six Healing Sounds" — but no standardized preparation/closing instructions. Shi 2020 (opened): general practice frame only. Ni et al. 2026 JMIR protocol (opened): names the eight components ("the preparatory posture, the 'xu' exercise to calm the liver Qi, ... and the final position") but gives no posture instructions. Zhu et al. 2022 (opened): movement modules only, no separate closing. CONFIRMED: no opened carrier establishes the standardized preparation and closing instructions; the gap stands; the page's "The Association's manual was not opened" framing is accurate. No broad research reopened, per the 05:53Z verdict.
+- K419 (Microcosmic orbit, xiao zhoutian) — Kohn, Sitting in Oblivion (Daoism Drive PDF, downloaded and extracted this session): the microcosmic orbit appears only in a passing note on Jiang Weiqiao's quiet-sitting practice (citing Lu 1964; Kohn 1993b); the book carries no instructional protocol for the orbit. CONFIRMED: the "complete instructional protocol remains pending and is not invented" gap stands. No broad research reopened, per the 05:53Z verdict.
+
+Both kernels' verification records added to kpr.json flags; supervisor disposition requested. All kpr work is now either executed, verified, or confirmed-genuine-gap with records pushed.
