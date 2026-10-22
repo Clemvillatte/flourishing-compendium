@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### What it is
 
-In The Principles of Psychology, William James calls the self we can actually observe the empirical self, as against the pure ego. His definition is deliberately concrete: "The Empirical Self of each of us is all that he is tempted to call by the name of me" (James, Principles of Psychology, ch. X, [Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)). In its widest sense, "a man's Self is the sum total of all that he CAN call his, not only his body and his psychic powers, but his clothes and his house, his wife and children, his ancestors and friends, his reputation and works, his lands and horses, and yacht and bank-account" (James, Principles of Psychology, ch. X, [Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)).
+In The Principles of Psychology, William James calls the self we can actually observe the empirical self, as against the pure ego. His definition is deliberately concrete: "The Empirical Self of each of us is all that he is tempted to call by the name of me" (James, Principles of Psychology, ch. X, [Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)). In its widest sense, "a man's Self is the sum total of all that he CAN call his" (James, Principles of Psychology, ch. X, [Gutenberg #57628](https://www.gutenberg.org/cache/epub/57628/pg57628.txt)), the list running from body and psychic powers through house, friends, reputation and works to bank-account.
 
 ### What it carries
 
