@@ -42,7 +42,7 @@ And on the duration of pain:
 
 ## Sources
 
-- [Wikipedia: Tetrapharmakos](https://en.wikipedia.org/wiki/Tetrapharmakos) — the Philodemos/Herculaneum papyrus text with Greek, plus the four supporting Principal Doctrines, opened and fetched verbatim for this page.
+- [Wikipedia: Tetrapharmakos](https://en.wikipedia.org/wiki/Tetrapharmakos) — the Philodemos/Herculaneum papyrus text with Greek, plus the four supporting Principal Doctrines.
 - Wikipedia Tetrapharmakos: https://en.wikipedia.org/wiki/Tetrapharmakos
 
 ## Cited in philosophy parallels

@@ -23,9 +23,7 @@ What is left standing after the bracket is the field of intentional acts and the
 
 > "Strictly speaking, the epoché can be seen as the first step towards what Husserl terms the *transcendental reduction*, which is his name for the systematic analysis of the intentional correlation between subjectivity and world." ([SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/))
 
-The seed names the Cartesian Meditations, where Husserl ties the reduction to Descartes' method explicitly:
-
-> "Phenomenological reduction, as exclusion of all positing of existence, is nothing other than the radical carrying out of the Cartesian epoché." (Husserl, Cartesian Meditations §16, as quoted in [Philopedia: Edmund Husserl](https://philopedia.org/philosophers/edmund-gustav-albrecht-husserl/))
+The original entry names the Cartesian Meditations, where Husserl restates the method against Descartes' doubt: the reduction brackets the positing of the world in order to reach the field of consciousness that remains.
 
 ### In the compendium
 
@@ -36,13 +34,12 @@ The seed names the Cartesian Meditations, where Husserl ties the reduction to De
 - [[Epoché]] — the bracketing move itself, the first step of the reduction.
 - [[The natural attitude]] — the immersed stance the reduction suspends.
 - [[Suspension of the natural attitude]] — the reduction seen from the side of practice.
-- [[Perception as interpretation]] — the compendium's psychological neighbour: seeing is never raw, a claim the reduction methodologises.
+- [[Perception as interpretation]] — the wiki's psychological page on how seeing carries interpretation; the reduction is the methodological cousin of that idea.
 
 ## Sources
 
-- [Zahavi D. Edmund Husserl. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/husserl/) — the epoché, natural-attitude and transcendental-reduction passages, opened and fetched verbatim for this page.
-- [Philopedia: Edmund Husserl](https://philopedia.org/philosophers/edmund-gustav-albrecht-husserl/) — secondary carrier of the Cartesian Meditations §16 quote, with locator.
-- Husserl, Cartesian Meditations — book citation carried from the original entry; the SEP and Philopedia passages above are the opened carriers of the method's description.
+- [Zahavi D. Edmund Husserl. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/husserl/) — the epoché, natural-attitude and transcendental-reduction passages.
+- Husserl, Cartesian Meditations — book citation carried from the original entry; the Stanford Encyclopedia passages above carry the method's description.
 
 ## Cited in philosophy parallels
 

@@ -9,19 +9,19 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The theory-ladenness of observation” — Hanson, Patterns of Discovery.
 
-The theory-ladenness of observation is N. R. Hanson's thesis from Patterns of Discovery (1958): seeing is not the passive registration of retinal images. What a person sees is shaped by what they already know, and observers with different theories can look at the same thing and see different things. His sunrise example:
+The theory-ladenness of observation is the thesis N. R. Hanson argued in Patterns of Discovery (1958): seeing is not the passive registration of retinal images. What a person sees is shaped by what they already know, and observers with different theories can look at the same thing and see different things. The Stanford Encyclopedia's entry on theory and observation states the reach of the claim:
 
-> "Tycho and Kepler are to the sun what New-tonians and anti-Newtonians were to a falling apple. Is it the same thing they see? In one sense, yes: both have the same retinal image... But there is a sense in which what they see differs. Kepler sees the horizon dipping away from a fixed sun. Tycho sees the sun rising above a fixed horizon." (Hanson, Patterns of Discovery, p. 5, quoted in [CoursesHub, Philosophy of Science](https://courseshub.world/philosophy-of-science/part1/observation-theory))
+> "All observations and uses of observational evidence are theory laden in this sense (cf. Chang 2005; Azzouni 2004). As the example of the thermometer illustrates, analogues of Norwood Hanson's claim that seeing is a theory laden undertaking apply just as well to equipment generated observations (Hanson 1958, 19)." ([Boyd & Bogen, SEP: Theory and Observation in Science](https://plato.stanford.edu/entries/science-theory-observation/))
 
 ### What the thesis claims
 
-The difference between Tycho and Kepler is not an interpretation added after identical seeing. On Hanson's account the seeing itself differs, because the observers' knowledge organises the visual field differently. The Stanford Encyclopedia's entry on theory and observation notes the claim reaches instruments as well as eyesight:
+The thermometer example carries the point past eyesight. A reading only counts as evidence because of theoretical claims about what the device does under those conditions; an investigator can use the reading without being aware of those claims, and it still depends on them. If the claims were false, the reading's use would be undermined. On this account theory is not a filter laid over finished observations; it is part of what makes the observation an observation.
 
-> "analogues of Norwood Hanson's claim that seeing is a theory laden undertaking apply just as well to equipment generated observations (Hanson 1958, 19)" ([SEP: Theory and Observation in Science](https://plato.stanford.edu/entries/science-theory-observation/))
+The thesis answered a picture inherited from logical empiricism, in which observation was to serve as a pure basis for appraising theory. If observing is itself theory-laden, that separation cannot do the work it was designed for.
 
 ### The limit
 
-The same SEP entry is careful about what the thesis does not establish. On its account, the influence of theoretical commitments on what an observer finds salient is "neither inevitable nor irremediable", and merely noting that theory is involved in producing an empirical result does not by itself show the result cannot objectively test the theory. Whether the involvement is benign or straight-jacketing has to be judged case by case.
+The same entry is careful about what the thesis does not establish. On its account, theoretical commitments do influence what an investigator finds salient, "but their influence is neither inevitable nor irremediable" ([Boyd & Bogen, SEP](https://plato.stanford.edu/entries/science-theory-observation/)). Whether a given set of assumptions is benign or straight-jacketing for a result has to be judged case by case, and theory-ladenness by itself does not show that observations cannot test theories.
 
 ### In the compendium
 
@@ -29,15 +29,14 @@ The same SEP entry is careful about what the thesis does not establish. On its a
 
 ## Related concepts
 
-- [[Duck-rabbit seeing-as]] — the Gestalt figure Hanson's argument leans on: the picture is fixed, what flips is the seeing.
-- [[Context effects in perception]] — psychology's parallel finding that surrounding conditions shape what is perceived.
-- [[The science of science]] — the compendium's field where Hanson's thesis is a classic result.
+- [[Duck-rabbit seeing-as]] — the Gestalt figure that illustrates seeing-as: one picture, two seeings.
+- [[Context effects in perception]] — psychology's study of how surrounding conditions shape what is perceived.
+- [[The science of science]] — the field where Hanson's thesis is debated.
 
 ## Sources
 
-- [Boyd N, Bogen J. Theory and Observation in Science. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/science-theory-observation/) — the Hanson p. 19 claim and the limits discussion, opened and fetched for this page.
-- [CoursesHub, Philosophy of Science: Observation and Theory-Ladenness](https://courseshub.world/philosophy-of-science/part1/observation-theory) — secondary carrier of the Hanson p. 5 Tycho and Kepler passage, quoted with locator.
-- Hanson, Patterns of Discovery — book citation carried from the original entry; quotes are carried through the opened sources above with page locators.
+- [Boyd N, Bogen J. Theory and Observation in Science. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/science-theory-observation/) — the Hanson p. 19 claim and the limits discussion.
+- Hanson, Patterns of Discovery — book citation carried from the original entry; the page rests on the Stanford Encyclopedia's account of the thesis.
 
 ## Cited in philosophy parallels
 
