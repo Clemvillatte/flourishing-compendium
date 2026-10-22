@@ -7,7 +7,7 @@ file: "Situation-sensitivity in self-regulation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Situation-sensitivity in self-regulation is the research finding that people fare better when they match their regulatory strategy to the context instead of running one fixed strategy everywhere. Two review literatures converge on it: Bonanno and Burton's account of regulatory flexibility, and the emotion-regulation flexibility model of Aldao, Sheppes and Gross.
+Situation-sensitivity in self-regulation names the research on matching regulatory strategy to context: whether people do better when the strategy follows the situation than when one fixed strategy runs everywhere. Two review literatures examine that matching: Bonanno and Burton's account of regulatory flexibility, and the emotion-regulation flexibility model of Aldao, Sheppes and Gross.
 
 > "we define context sensitivity as the ability to perceive impinging demands and opportunities from the situational context as they emerge over and above the normative background of ongoing regulatory concerns and processes and to determine the most appropriate regulatory strategy in response to those demands or opportunities." (Bonanno & Burton, [Regulatory flexibility, Perspectives on Psychological Science 8(6), 2013](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf))
 
@@ -17,11 +17,10 @@ The emotion-regulation version states the same point from the strategy side: "ER
 
 ### In the compendium
 
-- [[M005 — Read the signs of the times humbly]] — the principle that cites this research as its psychology parallel: the daykeeper reads the day's character before diagnosing, and the research agrees the reading comes first
+- [[M005 — Read the signs of the times humbly]] — the principle that cites this research as its psychology parallel; its own body presents Maya daykeeping, the compendium's other face of reading a situation before acting
 
 ## Related concepts
 
-- [[Context sensitivity]] — Bonanno's own term for the perception half of the matching
 - [[Situation selection]] — the Gross process-model strategy of shaping contexts before they arrive
 
 ## Sources

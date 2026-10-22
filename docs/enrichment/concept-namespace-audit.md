@@ -432,3 +432,20 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   Supervisor disposition requested: keep as the NE whole-life-judgment carrier with the label
   disclosed on the page, or rename/merge to a source-defined carrier. Evidence: verify-ppl-25cd5d0
   ledger round 1; the w1r owner flagged the item "advisor QC pending".
+
+- **Situation-sensitivity in self-regulation** (2026-10-22, worker-w1ad-pplx-b7c41f2e, w1ad):
+  term-existence/identity flag. No opened source defines "situation-sensitivity in self-regulation"
+  as a named term; the seed anchors it to "Gross's situation-selection research; the
+  person-environment fit literatures". The two opened carriers define neighboring constructs:
+  Bonanno & Burton (2013) define "context sensitivity" within regulatory flexibility, and
+  Aldao, Sheppes & Gross (2015) define "ER flexibility" ("the ability to implement ER
+  strategies that are synchronized with contextual demands"). The page was enriched at the
+  fast-track bar with verbatim quotes and honest scope (no adaptiveness assumed), then held
+  OUT OF DONE pending disposition. Complication: an existing [[Context sensitivity]] page
+  (w1ba, PBT/EEMM lineage, Hofmann-Hayes-Lorscheid 2021) already holds the same English name
+  for a different construct, so a "merge into Context sensitivity" is NOT a simple rename.
+  Supervisor/owner disposition requested: (a) keep as the compendium's heading for the
+  ER-flexibility research line with the editorial label disclosed, (b) rename to a
+  source-defined carrier (e.g. "Emotion regulation flexibility"), or (c) fold into
+  [[Situation selection]] / a future flexibility page. Evidence trail: w1ad ledger entry
+  for the item (docs/enrichment/sources/w1ad/Situation-sensitivity in self-regulation.md).

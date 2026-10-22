@@ -6,3 +6,6 @@
 - Consistency: E057 quotes the same passages from the same translation; the page's compendium line matches E057's own reading ("the task does not become light, but it becomes yours").
 - Scope: final chapter only, per the fast-track bar; no claim about the essay's earlier chapters beyond what the opening paragraph states.
 - QC disposition: validator ok vs seed baseline 7b2d6ca; advisor QC not due this item (milestone QC due at item 5).
+
+- Advisor milestone round repairs applied: 1942 verified via the SEP Camus entry (opened this session; October 1942 publication of the French original) and added to Sources; heading renamed "The conscious descent"; the Boundary situations related row removed (the Camus-Jaspers comparison was the compendium's, not an opened source's); the Breakdown as breakthrough gloss grounded in that page's own Scheitern discussion (read this session); the closing block's citation made a full link instead of "same chapter"; quotations verified directly against the downloaded O'Brien full text (E057 used only to confirm the compendium's reading, not to authenticate Camus).
+- Degree note: the neighbors output showed the citing principle E057's degree (7), not the concept's; the concept has one principle neighbor.
