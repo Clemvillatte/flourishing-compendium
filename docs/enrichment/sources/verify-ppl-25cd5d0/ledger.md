@@ -483,3 +483,18 @@ verbatim against a raw download of the cited Project Gutenberg #1325 text (the p
 in the "Subjective Necessity of Social Settlements" essay included in the book). The page's
 second use of the "not confined to any one portion of a city" fragment is a substring of the
 same verified passage. No routed findings.
+
+## Round 20 (2026-10-22, performed ~12:29Z measured; raw-text method)
+
+### Aporia (w1y, fast-track done, commit 6935868b6)
+
+4 quoted passages checked, 4 PASS — all verified against unprompted raw fetches of the cited
+carriers:
+- Meno (Jowett, MIT Classics): the torpedo-fish passage and the enquiry-paradox passage both
+  verbatim.
+- Metaphysics III.1 (Ross, MIT Classics): the "discuss the difficulties well... untie a knot"
+  passage verbatim.
+- Etymonline: the etymology (aporos "impassable", from a- "not" + poros "passage"; aporia
+  "difficulty, perplexity") directly supported.
+Note: the first fetch of classics.mit.edu/Plato/meno.html returned the archive's home page;
+a fresh no-cache fetch returned the full Meno text. No routed findings.
