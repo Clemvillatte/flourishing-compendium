@@ -15,7 +15,7 @@ The reflex is robust enough to be a laboratory instrument. In a 2016 study, "All
 
 ### Why Linehan reached for it
 
-Linehan's DBT skills handout includes it among distress-tolerance skills, prescribing the technique as a distress-tolerance move: hold your breath and put your face in a bowl of cold water, or hold a cold pack on your eyes and upper cheeks, for about 30 seconds, keeping the water above 50°F and checking with a doctor first because very cold water decreases heart rate rapidly ([DBT skills handout](http://tri-life.org/wp-content/uploads/2020/05/TIPP-Skills_DBT.pdf)). It is a deliberate use of an ancient survival circuit: the brain reads cold water on the face as diving, and slows the heart whether or not the person is in crisis.
+Linehan's DBT skills handout includes the technique among distress-tolerance skills: hold your breath and put your face in a bowl of cold water, or hold a cold pack on your eyes and upper cheeks, for about 30 seconds, keeping the water above 50°F and checking with a doctor first because very cold water decreases heart rate rapidly ([DBT skills handout](http://tri-life.org/wp-content/uploads/2020/05/TIPP-Skills_DBT.pdf)). It is a deliberate use of a survival circuit: on the handout's account, the cold water on the face tells the brain the body is diving, and the heart slows.
 
 ### In the compendium
 
