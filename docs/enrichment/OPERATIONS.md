@@ -513,3 +513,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   sage — the Bhagavad Gita 12.13–14 quote (Mukundananda) checked against the opened
   holy-bhagavad-gita.org carrier: verbatim. Sample PASS. Sixteen samples this
   session, all PASS.
+- Supervisor verification sample 17 (2026-10-22 ~15:21 UTC): The mirror overturning —
+  both Platform Sutra verses (Shenxiu's polishing verse and Huineng's reply) checked
+  against the opened Columbia Asia for Educators carrier: verbatim. Sample PASS.
+  Seventeen samples this session, all PASS.
