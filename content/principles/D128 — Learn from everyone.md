@@ -12,15 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 128** — Learn from everyone
 
-Chapter 27 of the Daodejing is the source of this principle, and the source is more interesting than the paraphrase suggests. Legge: "A good walker leaves no tracks; a good speaker makes no slips... Therefore the good man is the teacher of the bad, and the bad man is the lesson of the good" ([Daodejing 27, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)). The chapter then states the price of ignoring this: not to value the teacher, nor to love the lesson, however intelligent you are, is to be in a state of great delusion. This is the mistake — not failing to find teachers, but failing to notice the ones already in the room.
+Chapter 27 of the Daodejing is the source of this principle. It opens with a run of skilled people who leave no trace of effort, then turns to the sage, who "is always skilful at saving men, and so he does not cast away any man". It closes with a relation between teacher and learner. In Legge's translation:
 
-The structure is the key. The good man is the teacher of the bad, and the bad man is the lesson of the good — the teaching flows in both directions. The person whose behaviour you admire is showing you something you can learn; the person whose behaviour you cannot stand is showing you something about yourself, and this is the part most people miss. The irritating client is not tuition you have to endure; they are tuition you are currently receiving.
+> Therefore the man of skill is a master (to be looked up to) by him who has not the skill; and he who has not the skill is the helper of (the reputation of) him who has the skill. If the one did not honour his master, and the other did not rejoice in his helper, an (observer), though intelligent, might greatly err about them. ([Daodejing 27.2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-> "The good man is the teacher of the bad, and the bad man is the lesson of the good. Not to value the teacher, nor to love the lesson, however intelligent, is greatly to err." (Daodejing 27, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+This page rests on Legge's wording alone. In it the relation runs both ways: the skilled person teaches, and the unskilled person gives the skilled one something to be skilled at. Both need to honour the arrangement, or they miss what is going on between them.
 
-**Plain words** Everyone you cross is data if you are collecting. The impressive person is a map; the irritating person is a mirror, and the mirror is the more useful of the two, because it shows you exactly where your patience is still under construction. This is not a moral instruction to like everyone; it is an instruction not to waste encounters — which is a much smaller ask.
+(Daodejing 27.1-2, trans. Legge.)
 
-*For example:* Two people both deal with the same difficult client. One treats the difficulty as the client's problem and endures it. The other notices what the difficulty is revealing about their own patience, and uses the encounter to locate where the patience is thin. Same client; only one of them is getting something out of the interaction besides a bill.
+### Plain words
+
+The chapter treats teacher and learner as a pair and not as a ranking. The one who knows gets to practise through the one who doesn't, and the one who doesn't gets taught. If either side despises the other, the exchange fails. So bring some respect to people on both sides of you, those further along and those behind.
+
+### For example
+
+A senior engineer reviews a junior colleague's code. She explains a better pattern, and in explaining it she sees a gap in her own habits. Both leave better off. This one is imagined.
 
 ## Stories
 - [[ST402 — The River Spirit Reaches the Sea|402. The River Spirit Reaches the Sea]]
