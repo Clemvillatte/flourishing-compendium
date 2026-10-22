@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 40** — Know the body (body contemplation)
 
-The Satipatthana Sutta makes the body the first anchor of mindfulness, and it starts with the ordinary: "Furthermore, when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it." The breath gets the same plain attention: "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'" And the sutta adds a less comfortable exercise, reviewing the body as parts: "just as if a sack with openings at both ends were full of various kinds of grain", a monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin and full of various kinds of unclean things". The compendium's reading of the sequence: the body is the most available object of awareness there is, always reporting, and the training teaches seeing it as the principle says — a changing field rather than a fixed possession.
+The Satipatthana Sutta (MN 10) lists the body first among its frames of reference for mindfulness, and it begins with the plainest things the body does. On posture:
 
-([MN 10, Satipatthana Sutta, Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html); cf. MN 119, Kayagatasati Sutta.)
+> Furthermore, when walking, the monk discerns, 'I am walking.' When standing, he discerns, 'I am standing.' When sitting, he discerns, 'I am sitting.' When lying down, he discerns, 'I am lying down.' Or however his body is disposed, that is how he discerns it. ([MN 10, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html))
 
-**Plain words** The practice is to notice what the body is doing while it does it: walking, standing, sitting, lying down, breathing in, breathing out. Posture and breath are always available, so they work as anchors. For this exercise, focus on noticing what is happening rather than trying to produce a particular feeling: seeing the body plainly, as something that changes from moment to moment, rather than a thing you own and polish.
+The breath gets the same unadorned treatment: "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.'" Later the sutta adds a harder exercise, reviewing the body part by part. A monk "reflects on this very body from the soles of the feet on up, from the crown of the head on down, surrounded by skin and full of various kinds of unclean things", in the way a man with good eyesight might look into a sack of mixed grain and name each kind.
 
-*For example:* The first time you notice your shoulders live at your ears all day — the body had been filing this complaint for years.
+In Thanissaro's translation each exercise closes the same way, with the monk remaining "unsustained by (not clinging to) anything in the world." The body is the most available object of awareness there is, and the training asks you to see it as it is while it moves and changes.
+
+(MN 10, Satipatthana Sutta; Thanissaro's translation abridges the repeated passages.)
+
+### Plain words
+
+Notice what the body is doing while it does it: walking, standing, sitting, lying down, breathing in, breathing out. Posture and breath are always there, so they make easy anchors. Name what is happening and leave it at that. You are not trying to produce a feeling.
+
+### For example
+
+Set a reminder for midday. When it goes off, stop and name your posture to yourself ("I am sitting"), then check where your shoulders are. If they are up near your ears, drop them and take one breath, then go back to what you were doing. Do the same at another fixed point in the day for a week and see which cue you actually remember.
+
+## Sources
+
+- Majjhima Nikaya 10, Satipatthana Sutta, trans. Thanissaro Bhikkhu: [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html)
 
 ## Stories
 
