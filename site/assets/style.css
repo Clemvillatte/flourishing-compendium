@@ -981,6 +981,45 @@ body.academy-mode #stage { overflow-y:auto; }
   border-left:3px solid var(--line2); padding:10px 14px; border-radius:0 8px 8px 0;
 }
 
+/* ---------- Practice session gallery (degree page) ---------- */
+.acad-practice-gallery { display:flex; flex-direction:column; gap:14px; margin-top:28px; padding-top:6px; border-top:1px solid var(--line); }
+.apg-heading { position:relative; padding-bottom:2px; }
+.apg-filters { margin-top:2px; }
+.apg-countwrap { margin-top:-4px; }
+.apg-count { font-size:11px; letter-spacing:.04em; }
+.acad-practice-gallery .gallery-grid { gap:16px; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); }
+.apg-card { border-radius:14px; box-shadow:0 1px 2px rgba(0,0,0,.04); transition:border-color .18s ease, transform .18s ease, box-shadow .18s ease; }
+.apg-card:hover, .apg-card:focus-visible {
+  border-color:var(--gold); transform:translateY(-3px);
+  box-shadow:0 10px 24px -8px rgba(0,0,0,.16);
+  outline:none;
+}
+.apg-media { position:relative; aspect-ratio:16/10; background:var(--panel2); overflow:hidden; }
+.apg-media-img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .35s ease; }
+.apg-card:hover .apg-media-img { transform:scale(1.04); }
+.apg-media::after {
+  content:''; position:absolute; inset:0; pointer-events:none;
+  background:linear-gradient(to top, rgba(10,9,4,.38), transparent 45%);
+}
+.apg-dur {
+  position:absolute; right:10px; bottom:10px; z-index:1;
+  font-size:10.5px; font-weight:600; letter-spacing:.03em; color:#f5f0dd;
+  background:rgba(12,11,6,.72); border:1px solid rgba(245,240,221,.18);
+  padding:3px 9px; border-radius:999px; backdrop-filter:blur(4px);
+}
+.apg-body { gap:5px; padding:12px 14px 14px; }
+.apg-title {
+  font-family:var(--font-display); font-size:15px; font-weight:600;
+  color:var(--text); line-height:1.35;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+}
+@media (max-width: 640px) {
+  .acad-practice-gallery .gallery-grid { grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:10px; }
+  .apg-body { padding:10px 12px 12px; }
+  .apg-title { font-size:13.5px; }
+  .acad-practice-gallery { padding-bottom:64px; }
+}
+
 .acad-explorer { display:flex; flex-direction:column; gap:16px; }
 .acad-explorer-filters { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
 .acad-explorer-search {

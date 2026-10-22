@@ -159,6 +159,11 @@ done in this session (4 new, 21 enriched).
 
 CLOSED TO WORKERS (owner directive 2026-10-22, recorded 03:41Z by worker-cmp-8d4e2f60): the cmp band below is reserved to ONE designated agent. Workers must not claim the cmp baton (baton.py refuses it), take it over, or work on cmp/deg-cmp files. See the top of handoff.md. The note below is retained for history only.
 
+OWNER DIRECTIVE (2026-10-22T03:51Z): the `cmp` baton is owner-reserved and this task is CLOSED to workers.
+The Academy is an independent project embedded in the website; enrichment workers have nothing to do with it
+(see the ACADEMY SEPARATION directive at the top of handoff.md). The CMP1 page now lives in academy/, outside
+the worker content/ tree. Historical record of the original commission follows —
+
 Worker note (2026-10-21 14:42 UTC, worker-cmp-degree-277caea1, baton `cmp`): OWNER-DIRECTED special task
 per docs/DEGREE-CMP-HANDOFF.md: build the Academy degree `deg-cmp` ("Contemplative & Mental Practices — A Year of
 Practice", 12 modules). Scope: NEW kernels K413 box breathing (incl. 4-7-8 variant), K414 compassion meditation
