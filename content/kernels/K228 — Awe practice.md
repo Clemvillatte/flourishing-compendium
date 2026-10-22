@@ -34,7 +34,7 @@ Outside the walk context, the awe walkers "reported greater increases in daily p
 
 ### A guided version
 
-None found this session; the absence is flagged in the band ledger pending a supervisor ruling.
+No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
 
 ## Operationalises
 

@@ -35,7 +35,7 @@ A separate comparison is research on self-distanced reasoning rather than on the
 
 ### A guided version
 
-None found this session; the absence is flagged in the band ledger pending a supervisor ruling.
+No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
 
 ## Operationalises
 
