@@ -34,6 +34,8 @@ Sociocultural · Psychological science
 ## Related concepts
 
 - [[Care]] — the empathy-altruism hypothesis: care's motivational science
+- [[Prosocial behaviour]] — the empathy-altruism account of prosocial triggers
+- [[Empathy]] — Batson's empathy-altruism hypothesis is built on the empathic concern this entry describes
 - [[Empathy-altruism hypothesis]] — the compendium's page for the hypothesis itself
 - [[Altruism]] — the general concept the theory specifies
 
