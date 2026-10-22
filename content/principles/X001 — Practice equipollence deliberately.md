@@ -17,7 +17,7 @@ Sextus defines the method as a skill with a target. Equipollence is "equality in
 > "Scepticism is an ability, or mental attitude, which opposes appearances to judgments in any way whatsoever, with the result that, owing to the equipollence of the objects and reasons thus opposed, we are brought firstly to a state of mental suspense and next to a state of 'unperturbedness' or quietude." (Sextus Empiricus, Outlines of Pyrrhonism I.4, [Bury translation](https://users.manchester.edu/Facstaff/SSNaragon/Online/texts/316/Sextus%20Empiricus,%20Pyrrhonism.pdf))
 
 **Plain words**
-The practice is argument construction with a purpose: you cannot force yourself to stop believing something, but you can build the opposing case until the two feel equal. When they feel equal, the verdict has nothing to grip, and Sextus says the agitation it was feeding goes with it. The tell that you have actually balanced them is not that you decided the other side is right; it is that deciding stopped feeling urgent.
+The practice is argument construction with a purpose: you cannot force yourself to stop believing something, but you can build the opposing case until the two feel equal. When they feel equal, the verdict has nothing to grip, and Sextus says the agitation it was feeding goes with it. The tell that you have actually balanced them is that deciding stopped feeling urgent.
 
 **For example**
 Hypothetical illustration: someone convinced a neighbour dislikes them writes the three best sentences for the reading that the neighbour is simply distracted; the evening stops itching once the two readings carry equal weight.

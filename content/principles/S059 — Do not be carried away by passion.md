@@ -22,7 +22,7 @@ Seneca's characterization of anger sets the bar for what a passion is: a short m
 
 Seneca's advice is about timing: reject straightway the first incentives to anger and resist its very beginnings, because once it begins to carry us away it is hard to get back into a healthy condition, since reason goes for nothing once passion has been admitted and given authority. The compendium's application is that timing: the work is at the first incentive, not after the passion has been given authority.
 
-**Plain words** A passion, on the Stoic account, is a judgment you have assented to, not a thing that happens to you. Anger is the clearest case: Seneca calls it a short madness, deaf to advice, excited by trifles. The training is not to stop feeling; it is to catch the movement at its first incentive, before reason has been evicted.
+**Plain words** A passion, on the Stoic account, is a judgment you have assented to, not a thing that happens to you. Anger is the clearest case: Seneca calls it a short madness, deaf to advice, excited by trifles. The training is to catch the movement at its first incentive, before reason has been evicted.
 
 *For example:* Being sad at a friend's departure is fitting. Spiralling for a week over it is the passion.
 

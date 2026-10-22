@@ -19,7 +19,7 @@ The book's last proposition gives the order of dependence: "Blessedness is not t
 The rarity argument is Spinoza's own: the way is hard because it is so seldom found; were it ready to hand, its neglect by almost all men would be inexplicable. The scholium's contrast behind it is the wise man, who "is scarcely at all disturbed in spirit... and always possesses true acquiescence of his spirit", against the ignorant man "driven only by his lusts". The page's exercise drawn from the account: when the practice is hard, do not conclude that you are unsuited; conclude that you are at the part of the curve the author himself priced.
 
 **Plain words**
-The last line of the Ethics is not a sigh; it is an argument. If the free life were easy to reach, its rarity would make no sense, because almost nobody neglects what is ready to hand. So the difficulty is part of the claim, not a defect in it. When the work is hard, that is the expected price, not a sign you took the wrong path.
+The last line of the Ethics is an argument. If the free life were easy to reach, its rarity would make no sense, because almost nobody neglects what is ready to hand. So the difficulty is part of the claim, not a defect in it. When the work is hard, that is the expected price, not a sign you took the wrong path.
 
 *For example:* Imagined: someone begins the practice expecting transformation in weeks, and finds years quoted instead. The re-budgeting is not disillusionment; the book ended by quoting the same price.
 

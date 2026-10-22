@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 ---
 > **Principle 34** — Treat knowledge as social
 
-Treat knowledge as social. Human knowledge is not the achievement of isolated minds; it is a collective achievement, distributed across communities of inquiry, institutions, and practices. This is the sociocultural version of the principle (treat cognition as embodied and embedded). The adaptive stance is to participate in knowledge communities deliberately.
+Treat knowledge as social. Human knowledge is a collective achievement, distributed across communities of inquiry, institutions, and practices. This is the sociocultural version of the principle (treat cognition as embodied and embedded). The adaptive stance is to participate in knowledge communities deliberately.
 
 **Plain words** Knowledge is social — not isolated minds achieving truths, but communities of inquiry, institutions, and practices. Even your own "private" thoughts are built from inherited language and concepts. Your mind has co-authors.
 
