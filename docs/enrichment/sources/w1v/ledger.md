@@ -66,3 +66,8 @@
 ## Prospective memory (fast-track, 2026-10-22)
 - Source opened: Wikipedia Prospective memory (verbatim definition; event/time-based examples; multi-process model sentence; 2007 McDaniel & Einstein book in references).
 - Validator: ok (fast-track). Advisor QC: not due (item 12).
+
+## Placebo effects (fast-track, 2026-10-22)
+- Source opened: Wikipedia Placebo (verbatim trial-response/effect definition; Kirsch 1985 response-expectancy hypothesis). Kaptchuk 2008 kept as seed citation only (not opened this session).
+- Nunc stans started but not completed: Boethius carrier not located quickly (wrong Gutenberg ebooks; gutendex blocked); item left undone (start state superseded by next item).
+- Validator: ok (fast-track). Advisor QC: not due (item 13).
