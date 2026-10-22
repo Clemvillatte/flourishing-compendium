@@ -115,3 +115,12 @@
   qc_pending) coexists with registered ST432 (Jim Forest); s1f-002 (P187, Einstein telegram) overlaps
   registered ST431 (Einstein) most closely — see the earlier note. All my targets were zero-story when
   taken; the other lanes' drafts appeared concurrently.
+
+- 2026-10-22, storyteller-perplexity-1022b: SCOPE REQUEST — s1a-031 (B016, "The All Is Aflame",
+  SN 35:28 Thanissaro on dhammatalks.org) drafted against the owner's zero-story
+  Daoism/Buddhism/Pragmatism priority; B016 is outside s1a's recorded slice, same pattern as
+  s1a-023/024/025/026. Requesting supervisor scope approval for the target. The draft is qc_pending
+  after advisor rounds 1-2 (repairs applied); registration and backlinks remain supervisor-only.
+  Two more items in flight this session: s1a-030 (D061, Bian Que / Heguanzi) and
+  s1a-032 (P192, Django Reinhardt / Givan) — same zero-story priority, same scope request if
+  they reach qc_pending.
