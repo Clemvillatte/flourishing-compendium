@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K418** — Six Healing Sounds (liuzi jue)
 
-The liuzi jue (六子訣, as Kohn prints it), the Six Healing Sounds, is a set of six exhalation patterns from the daoyin tradition. Each sound is made on the out-breath and tied to one organ: he for the heart, hu for the spleen, xu for the liver, chui for the kidneys, si for the lungs, and xi for the Triple Heater, the digestion and energy-processing organ in that system. It appears in early texts such as the Daoyin jing; in Kohn's assessment it "still forms an important part of qigong practice today" ([Kohn](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_)).
+The liuzi jue (六子訣, as Kohn prints it), the Six Healing Sounds, is a set of six exhalation patterns from the daoyin tradition. Each sound is made on the out-breath and tied, in the traditional correspondence system, to one organ: he for the heart, hu for the spleen, xu for the liver, chui for the kidneys, si for the lungs, and xi for the Triple Heater, the digestion and energy-processing organ in that system. It appears in early texts such as the Daoyin jing; in Kohn's assessment it "still forms an important part of qigong practice today" ([Kohn](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_)).
 
 ### Protocol
 
@@ -42,7 +42,7 @@ Repetitions differ: three per sound in that trial; six in the EEG study and a Pa
 
 ### Evidence
 
-Kohn presents the organ associations as traditional-medicine correspondences: "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater". The modern form has since served as the intervention in trials and protocols (COVID-19, Parkinson's, COPD; citations above). Henz & Schöllhorn's EEG study reports, for Liu Zi Jue, alpha-1 increased after 15 minutes compared to baseline (p = 0.027) and after 30 minutes (p = 0.034), the paper's technique-by-time comparison; the time main effects across both techniques were ηp² = 0.29 (alpha-1) and 0.23 (alpha-2). The 15-minute decrease belonged to Wu Qin Xi, the comparison technique. The classical closing promise:
+Kohn presents the organ associations as traditional-medicine correspondences: "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater". The modern form has since served as the intervention in trials and protocols (COVID-19, Parkinson's, COPD; citations above). Henz & Schöllhorn's EEG study reports, for Liu Zi Jue, alpha-1 increased after 15 minutes versus baseline (p = 0.027), and alpha-2 increased after 30 minutes versus 15 minutes (p = 0.041) ([Henz & Schöllhorn 2018](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02291/full)). The 15-minute decrease belonged to Wu Qin Xi, the comparison technique. The classical closing promise:
 
 > "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Kohn, Chinese Healing Exercises, printed p. 102, quoting Daoyin jing 16b ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
 
