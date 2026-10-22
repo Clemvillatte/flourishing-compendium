@@ -7,33 +7,37 @@ file: "Correcting the instrument"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-"Correcting the instrument" is Francis Bacon's opening move in the Novum Organum (1620). The Latin title means "new instrument," a replacement for Aristotle's Organon, and the instrument Bacon wants rebuilt is the understanding itself. His claim: a mind left to its own habits distorts what it registers, so the first task of knowledge is to check and correct the mind that observes.
+"Correcting the instrument" is this compendium's label for a doctrine Francis Bacon works out in the Novum Organum (1620); it is not Bacon's own phrase. The book's title trades on the Greek word organon, "instrument" or "tool": Bacon "clearly felt he was supplying a new instrument for guiding and correcting the mind in its quest for a true understanding of nature," one meant to replace Aristotle's Organon ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/francis-bacon/)). The label names that project. The mind is the instrument of inquiry, and on Bacon's account it needs checking before it is trusted.
 
 > "The unassisted hand, and the understanding left to itself, possess but little power. Effects are produced by the means of instruments and helps, which the understanding requires no less than the hand. And as instruments either promote or regulate the motion of the hand, so those that are applied to the mind prompt or protect the understanding." (Bacon, [Novum Organum](https://history.hanover.edu/texts/bacon/novorg.html), Book I, Aphorism II, Montague translation)
 
 ### The crooked mirror
 
-Bacon names the standing distortions idols, in four classes: of the tribe (built into human nature), of the cave (the individual's temperament and habits), of the marketplace (language), and of the theatre (received philosophical systems). His image for the deepest of them: "the human mind resembles those uneven mirrors, which impart their own properties to different objects, from which rays are emitted, and distort and disfigure them" (Book I, Aphorism XLI). The correction he prescribes is procedural rather than moral: tables of observation and patient induction, until "the understanding must be completely freed and cleared of them" (Book I, Aphorism LXVIII).
+The instrument, in Bacon's diagnosis, arrives bent. Book I, Aphorisms 39-68 catalogue the bends as "idols" in four classes, "calling the first idols of the tribe; the second idols of the den; the third idols of the market; the fourth idols of the theatre" ([Hanover text, Aphorism XXXIX](https://history.hanover.edu/courses/excerpts/111bac2.html)). Of the first class Bacon writes that "the human mind resembles those uneven mirrors, which impart their own properties to different objects, from which rays are emitted, and distort and disfigure them" ([Aphorism XLI](https://history.hanover.edu/texts/bacon/novorg.html)). The remedy, in his summary: "The formation of notions and axioms on the foundation of true induction, is the only fitting remedy, by which we can ward off and expel these idols" ([Aphorism XL](https://history.hanover.edu/courses/excerpts/111bac2.html)). Aphorism LXVIII closes the catalogue with a call for the idols to be abjured and renounced and the understanding "completely freed and cleared of them."
 
 ### In the compendium
 
-- [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] — the experimental version of the bent mirror: measurable distortion in what anxious and depressed minds register
-- [[AT070 — Recognise anxiety's effect on attention — threat capture]] — one specific warp of the instrument, threat capture
+- [[AT020 — Recognise attentional bias — anxiety and depression distort what you notice]] — the compendium pairs the doctrine with the experimental finding that anxious and depressed minds measurably distort what they notice
+- [[AT070 — Recognise anxiety's effect on attention — threat capture]] — the same pairing, for one named distortion
 
 ## Related concepts
 
-- [[Attentional bias research]] — the measured study of the distortions Bacon described in general terms
-- [[Confirmation bias]] — the idol of the tribe as experimental psychology renders it
-- [[Debiasing techniques]] — modern correctives in the same spirit as correcting the instrument
-- [[Cognitive biases]] — the catalogue Bacon's idols anticipated
-- [[Induction from experience]] — the method Bacon built as the corrected instrument
-- [[The problem of induction]] — what later philosophy made of that method
+- [[Attentional bias research]] — the experimental study of mind-distortion; an editorial comparison with Bacon's general diagnosis
+- [[Confirmation bias]] — a modern bias-catalogue entry in the spirit of the idols
+- [[Debiasing techniques]] — contemporary correctives that continue the project of checking the instrument
+- [[Cognitive biases]] — the systematic catalogue the idols foreshadow; an editorial comparison
+- [[Induction from experience]] — the method Bacon proposed as the corrected instrument
+- [[The problem of induction]] — the later philosophical history of that method
 
 ## Sources
 
 - Bacon, Novum Organum
 
 - [Bacon, Novum Organum (1620), Book I, Aphorisms I.1-I.68, Montague translation, Hanover College text](https://history.hanover.edu/texts/bacon/novorg.html)
+
+- [Hanover Historical Texts Project excerpts, Book I, Aphorisms XXXIX-XL](https://history.hanover.edu/courses/excerpts/111bac2.html)
+
+- [Internet Encyclopedia of Philosophy, "Francis Bacon" (1561-1626), section on the New Organon](https://iep.utm.edu/francis-bacon/)
 
 ## Cited in philosophy parallels
 
