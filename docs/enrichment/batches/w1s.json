@@ -31,9 +31,10 @@
   "Sorge",
   "The actualizing tendency",
   "Sympathy",
-  "Stress-related growth"
+  "Stress-related growth",
+  "Multiple self-aspects model (MSA)"
  ],
- "in_progress": "Multiple self-aspects model (MSA)",
+ "in_progress": null,
  "flagged": {
   "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
   "Object relations theory": "Reopened for QC: QC: attribution repairs (Fairbairn specificity, Winnicott grounding)",
@@ -43,6 +44,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T12:00:24+00:00",
+ "updated": "2026-10-22T12:01:05+00:00",
  "band_done": false
 }
