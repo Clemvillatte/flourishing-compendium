@@ -30,9 +30,10 @@
   "The problem of induction",
   "The quiet ego",
   "The return of the repressed pattern",
-  "The rhythm of small pauses"
+  "The rhythm of small pauses",
+  "The taxonomy of passions"
  ],
- "in_progress": "The taxonomy of passions",
+ "in_progress": null,
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -43,6 +44,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:14:56+00:00",
+ "updated": "2026-10-22T08:15:21+00:00",
  "band_done": false
 }
