@@ -144,3 +144,14 @@ All seven pages pass `scripts/enrich_validate.py` (7 checked, 0 failed) after th
 ## Final state
 All commits pushed and verified on origin/main; maintenance baton taken (released),
 used for the locator fix, and released. Final commit: af46fa6ec.
+
+## Addendum 2 (Ego development, ~06:48Z) — DEFECT FOUND AND FIXED
+- Carrier re-opened via direct fetch (curl) after the earlier 429: Wikipedia,
+  [Loevinger's stages of ego development](https://en.wikipedia.org/wiki/Loevinger%27s_stages_of_ego_development).
+- All other quoted strings verbatim (the ego-as-process sentence carries Wikipedia's [6]
+  citation markers in the original; dropping bracketed footnote numbers is standard).
+- DEFECT FIXED: the Integrated-stage quote was adapted, not verbatim ("awareness of or
+  tolerance for inner conflicts, and the ability to make peace with them" vs the article's
+  "a capacity to be aware of inner conflicts ... or to tolerate them ... and make peace
+  with them"). Replaced with the verbatim wording plus [...] markers for the dropped
+  parentheticals. Maintenance baton re-taken for this fix and released after.
