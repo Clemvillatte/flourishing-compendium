@@ -59,3 +59,14 @@ Decisions:
 - Front-matter preserved; X007 Cited-in wikilink preserved (original seed carried it).
 - Related concepts: Eudaimonia, Apatheia (existing originals).
 - No reciprocal proposals (fast-track bar).
+
+### The tetralemma (fast-track, deg 1)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/nagarjuna/ — Westerhoff, SEP Nāgārjuna. Two passages fetched verbatim: the four-ways-of-causal-production passage; the svabhāva conclusion. (Wikipedia Catuṣkoṭi returned HTTP 429; SEP is the opened grounding.)
+
+Decisions:
+- Fast-track eligibility: deg 1 < 15 confirmed.
+- Front-matter preserved; D080 Cited-in wikilink preserved. Initial write had file field "The tetralemma.md" — fixed to "The tetralemma" before validation.
+- Initial Related pick "Emptiness (śūnyatā)" did not resolve; replaced with [[Buddhist emptiness of inherent nature]] after validator caught it.
+- No reciprocal proposals (fast-track bar).
