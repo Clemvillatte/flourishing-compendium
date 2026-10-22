@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K419** — Microcosmic orbit (xiao zhoutian)
 
-The microcosmic orbit (xiao zhoutian) is a Daoist energy-circulation practice. In the inner-alchemy (neidan) material Kohn surveys, adepts circulate purified qi "along the central channels of the torso", opening a series of passes; a larger loop reaching to the feet is the macrocosmic orbit ([Kohn, Chinese Healing Exercises](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_)).
+The microcosmic orbit (xiao zhoutian) is a Daoist energy-circulation practice. In the inner-alchemy (neidan) material Kohn surveys, women adepts at the tradition's first stage "circulate the newly purified qi in the Microcosmic Orbit, guiding it along the central channels of the torso and opening a series of passes along the way"; a larger loop reaching to the feet is the macrocosmic orbit ([Kohn, Chinese Healing Exercises](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_)).
 
 ### Protocol
 
@@ -33,6 +33,7 @@ No clinical trial of the microcosmic orbit appears in the opened sources. Kohn p
 
 - [[Qi]] — the energy the orbit circulates
 - [[Dao]] — the tradition the practice belongs to
+- [[The rhythm of breath]] — the deep breathing the orbit's stages coordinate with
 
 ## Related kernels
 
