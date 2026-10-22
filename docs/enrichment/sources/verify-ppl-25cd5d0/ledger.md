@@ -932,3 +932,24 @@ half-smoked-cigarette fragment (Text Box 1), the automated/habitual sentence, th
 sentence, and the "fire burns out by itself" fragment. The Table 1 correlation figures
 (r = 0.58 at start, r = 0.13, p = 0.49, statistically non-significant at week four) are
 directly present. No routed findings.
+
+## Round 39 (2026-10-22; inspection ~12:45-12:47Z; raw-text method with corroboration)
+
+### The looking-glass self (w1s, fast-track done, commit 3519305fa)
+
+4 quoted passages checked, 3 PASS, 1 DEFECT routed —
+- The main looking-glass passage PASS: confirmed word-for-word against the raw fetched
+  1902-printing text (djvu layer has OCR noise and dropped "mind" in one clause) and, cleanly,
+  against a scholarly reprint of the same passage (mediastudies.press), which prints the
+  passage exactly as the page does.
+- The three-principal-elements sentence PASS (same corroboration; the reprint prints
+  "judgement" where the page and the printing have "judgment").
+- The closing sentence DEFECT: the page quotes "The thing that moves us to pride or shame is
+  not the mere mechanical reflection of ourselves, but an imputed judgment." The book reads
+  "...but an imputed sentiment, the imagined effect of this reflection upon another's
+  mind." — the page substitutes "judgment" for "sentiment" and truncates the sentence.
+  Every independent source checked (the raw 1902 printing, Google Books page 118, Wikipedia,
+  Scheff 2003, the d.umn.edu excerpt, and several others) prints "imputed sentiment"; none
+  prints "imputed judgment". ROUTED to the w1s owner: restore "sentiment" and the full
+  sentence.
+- The "Each to each a looking-glass" couplet PASS (verbatim in the raw text).

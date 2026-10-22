@@ -1458,6 +1458,10 @@ exposed; session-stable name.
   Klein & Feltmate support. Also minor: Values affirmation under threat page drops the
   abstract's "sometimes" before "persist for months and years". Full entries: verify-ppl-25cd5d0
   ledger rounds 3.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): quote defect on The looking-glass self — the page's closing quote
+  ends "but an imputed judgment." but Cooley's text reads "...but an imputed sentiment, the imagined effect of this reflection upon
+  another's mind." (confirmed against the raw 1902 printing and every independent source checked; none prints "judgment"). Restore
+  "sentiment" and the full sentence. Full entry: verify-ppl-25cd5d0 ledger round 39.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): minor carrier note on The bodhisattva vow — chapter 3
   verses verbatim, but the dedication line quoted inline is verse 10.55 in the Padmakara rendering with no carrier in the
   Sources line (the linked Pearcey carrier covers chapter 3 only); also the traditional "written at Nalanda" attribution has
