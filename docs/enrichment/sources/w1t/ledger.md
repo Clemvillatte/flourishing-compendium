@@ -284,3 +284,14 @@ Decisions:
 - Related concepts: Original enlightenment, Tathata suchness, The mirror overturning (all existing originals per neighbors).
 - Seed citations (Tathagatagarbha Sutra; Mahayana, Tathagatagarbha Sutra) preserved.
 - No reciprocal proposals (fast-track bar).
+
+### Capitalization (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://pubmed.ncbi.nlm.nih.gov/15301629/ — Gable, Reis, Impett, Asher 2004 JPSP 87(2):228-245. Full abstract retrieved via search_web (PubMed direct fetch blocked by robots). Key sentences: four-studies design; increased daily positive affect and well-being above and beyond the positive event itself; active-constructive responses enhance benefits; higher relationship well-being.
+
+Decisions:
+- Fast-track eligibility: deg 5 < 15 confirmed.
+- Front-matter preserved; Other-formulations bullet preserved; Active constructive responding original wikilink preserved; B053/B101 Cited-in wikilinks preserved.
+- Related concepts: Active constructive responding (existing original; the only concept neighbor).
+- No reciprocal proposals (fast-track bar).
