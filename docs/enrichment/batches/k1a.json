@@ -46,7 +46,8 @@
   "content/kernels/K144 — The chariot analysis.md",
   "content/kernels/K215 — Assertiveness and boundaries.md",
   "content/kernels/K223 — Meaning audit.md",
-  "content/kernels/K228 — Awe practice.md"
+  "content/kernels/K228 — Awe practice.md",
+  "content/kernels/K237 — See-the-small practice.md"
  ],
  "in_progress": null,
  "queue": [
@@ -95,13 +96,14 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:23:41+00:00",
+ "updated": "2026-10-22T14:27:37+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
   "content/kernels/K215 — Assertiveness and boundaries.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
   "content/kernels/K223 — Meaning audit.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
   "content/kernels/K228 — Awe practice.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
-  "content/kernels/K236 — Community of inquiry.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption"
+  "content/kernels/K236 — Community of inquiry.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
+  "content/kernels/K237 — See-the-small practice.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
  }
 }

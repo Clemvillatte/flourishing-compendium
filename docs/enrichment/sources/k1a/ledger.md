@@ -97,3 +97,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
   - K223 Kreiss and Schnell quote: verified against the raw Frontiers HTML (downloaded article page); the quoted sentence "activities grouped under culture/music, communication, intimacy, and sports are experienced as both highly meaningful and pleasant" appears verbatim in the abstract text of the page.
   - K228 both quotes: verified against the NCBI efetch raw abstracts (id=32955293 Sturm et al.; id=29715721 Keltner and Haidt); all quoted sentences match; the Sturm null-results sentence matches verbatim.
 - Guided versions: page sections now read "No verified guided version supplied" (not "None found", which implied a completed search); the five items remain flagged in the band state pending a supervisor ruling; they are NOT reported as fully kernel-standard cleared.
+
+## K237 — See-the-small practice (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: James Legge's translation of the Daodejing, Project Gutenberg edition (pg216.txt, downloaded directly with curl; no extraction layer). The Terebess Legge page (the project's usual carrier) blocked curl with an empty response; the Gutenberg edition of the same Legge translation was used instead and the substitution is recorded here.
+- All three blockquotes (Daodejing 52.4, 64.1, 63.2) compared character-for-character against the downloaded raw text (match). "The perception of what is small is (the secret of) clear-sightedness" is the chapter 52 line behind the kernel's name.
+- No empirical evidence opened: the page states plainly that the Daodejing is a classical wisdom text and that the seed's "cheapest and most effective" claim is editorial framing, not a study finding. The protocol is labelled as the compendium's weekly adaptation.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the five earlier items.
+- Validator: 1 checked, 0 failed.
