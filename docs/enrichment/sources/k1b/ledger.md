@@ -13,3 +13,9 @@
 - Claims narrowed: step 4 (violated value) labelled an ADAPTATION (appraisal research ties anger to unfairness/other-accountability, not values per se); step 6 alignment question labelled the practice's own wording, not study material; the component list in Evidence paraphrased rather than quoted to keep the em-dash budget (the abstract's list sentence contains two em dashes).
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K173 Creative hopelessness (worker-k1b-pplx)
+- Sources opened this session: Twohig et al. 2010 RCT full text (PMC2948415; verbatim quotes: creative-hopelessness phase description incl. the participant question and the brief-relief/greater-struggle sentence; Y-BOCS results; clinical response rates; all with the article as locator, PMC open access); Blackledge and Barnes-Holmes chapter PDF (contextualscience.org; verbatim quote of the beginning-stage definition; psychological flexibility definition quoted with its Hayes et al. 2004 p. 5 locator, held in reserve).
+- Claims narrowed: the seed's sentence "This approach has cost me more than it has given me" labelled the practice's own wording on the page; not-tested paragraph states the trial tested an eight-session therapist-delivered package (this audit was one phase), not a standalone self-administered exercise; response rates scoped to OCD patients in treatment.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
+- Validation: exit 0; workflow-narration grep clean (the only "session" matches are the trial's "eight sessions" description, clinical content).
