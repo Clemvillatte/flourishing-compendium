@@ -7,25 +7,25 @@ file: "Earned security"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Earned security is attachment researcher's term for a person who tells a coherent story about a difficult childhood: on the Adult Attachment Interview they describe negative early experiences, yet narrate them in the organized, balanced way that codes as secure. The name suggests security achieved later, against the odds. The seed line names the concept's key sources (Roisman et al., 2002; Siegel, 1999), and the 23-year Minnesota longitudinal study is the concept's decisive test.
+In Roisman and colleagues' retrospective definition, earned-secure adults coherently describe negative childhood experiences ([2002 abstract](https://pubmed.ncbi.nlm.nih.gov/12146743/)). The name suggests security achieved later, against the odds; the 2002 report presents data from a 23-year longitudinal study that tested whether earned-secures so defined actually have a history of insecure attachments. As that report summarizes the earlier findings:
 
 > "Past research with the Berkeley Adult Attachment Interview demonstrates that retrospectively defined earned-secures (who coherently describe negative childhood experiences) parent as effectively as do continuous-secures (who coherently describe positive childhood experiences), but manifest liabilities in the form of depressive symptomatology." (Roisman, Padrón, Sroufe & Egeland, [Child Development 2002](https://pubmed.ncbi.nlm.nih.gov/12146743/), abstract)
 
 ### The catch in the definition
 
-The Minnesota data complicated the origin story. "Discrepant with assumptions, retrospective earned-secures were not more likely than continuous-secures to have been anxiously attached in infancy and were observed in childhood and adolescence to have encountered among the most supportive and structured maternal parenting in a high-risk sample" ([same abstract](https://pubmed.ncbi.nlm.nih.gov/12146743/)). The adults who reported harsh childhoods had, by the observers' records, relatively supportive mothers; the reporting, not only the history, was doing work. A later mood-induction experiment from the same research group pointed the same way: among secure young adults, "individuals in a sadness condition were more likely to be classified as earned-secure" ([Roisman, Fortuna & Holland 2006](https://pubmed.ncbi.nlm.nih.gov/16460525/), abstract).
+The longitudinal data complicated the retrospective definition. "Discrepant with assumptions, retrospective earned-secures were not more likely than continuous-secures to have been anxiously attached in infancy and were observed in childhood and adolescence to have encountered among the most supportive and structured maternal parenting in a high-risk sample" ([same abstract](https://pubmed.ncbi.nlm.nih.gov/12146743/)). In this sample, the adults who coherently reported negative childhoods were not, by the study's observational records, the ones with the most negative recorded childhoods. A later mood-induction experiment from the same research group pointed the same way: among secure young adults, "individuals in a sadness condition were more likely to be classified as earned-secure" ([Roisman, Fortuna & Holland 2006](https://pubmed.ncbi.nlm.nih.gov/16460525/), abstract).
 
-The prospective definition fared better: "Prospectively defined earned-secures (operationalized using participants' infant attachment classifications) did indeed go on to have success in their close relationships" ([2002 abstract](https://pubmed.ncbi.nlm.nih.gov/12146743/)). People measurably insecure in infancy can end up secure and doing well; the complication is specific to how the retrospective interview sorts them.
+The prospective definition fared better: "Prospectively defined earned-secures (operationalized using participants' infant attachment classifications) did indeed go on to have success in their close relationships" ([2002 abstract](https://pubmed.ncbi.nlm.nih.gov/12146743/)). In this sample, then, the complication attaches to the retrospective definition rather than to the interview as such: the two ways of sorting earned-secures did not pick out the same people.
 
 ### In the compendium
 
-- [[SE047 — Recognise attachment patterns — early relationships shape self-relation]] — carries the attachment framework this concept belongs to
-- [[PP034 — Build secure attachment]] — the practical side: security as something relationships can build, with the research's own caution attached
+- [[SE047 — Recognise attachment patterns — early relationships shape self-relation]] — the attachment framework this concept belongs to
+- [[PP034 — Build secure attachment]] — an adjacent practice page; the studies above do not show how security is built
 
 ## Related concepts
 
-- [[Attachment security]] — earned security is attachment security reached through later relationships rather than early ones
-- [[The unreliability of memory]] — the Minnesota findings turn on the gap between remembered and observed childhood
+- [[Attachment security]] — the broader category this debated term belongs to
+- [[The unreliability of memory]] — the 2002 findings turn on the gap between remembered and observed childhood
 
 ## Sources
 
