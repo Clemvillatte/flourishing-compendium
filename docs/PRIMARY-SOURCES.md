@@ -31,6 +31,12 @@ edition (Perseus, MIT Classics, accesstoinsight, etc.) and note it in the batch 
 
 ## Files
 
+- Csikszentmihalyi (owner upload, 2026-10-22): https://drive.google.com/drive/folders/1v5wDIgdsQCpjd1LO8l0PPwBm67GbKJ2P?usp=sharing —
+  3 PDFs: *Flow: The Psychology of Optimal Experience* (Harper & Row, 1990;
+  file id `11wG6Y7PwYzlNIrcXJ8ErSZ7Pd8fQcEsb`, readable text, 314 PDF pages;
+  used for T001 exemplar quote verification, printed pp. 3–4 = PDF pp. 11–12);
+  *Flow and the Foundations of Positive Psychology* (collected works); *A Life
+  Worth Living: Contributions to Positive Psychology*.
 - https://drive.google.com/file/d/1eU1GCTO4eubhW8PoC5U5ai88doTtTWSO/view?usp=drive_link
 - https://drive.google.com/file/d/1cd4MJNIIPY6Wi2aJNMdgfy9Hc2a__sJN/view?usp=drive_link
 - https://drive.google.com/file/d/12TtAUzBZ-0e-Gb-X7FzNBCJYf9z5pAxc/view?usp=drive_link
