@@ -68,3 +68,8 @@
 
 ## Reversibility (fast-track bar)
 - Quotes reused from the compendium's own E018 page, which verified them against the Lingis chapter scan (doubleoperative.com PDF) and the archived SEP Merleau-Ponty article; not re-opened this session. Seed's "Eye and Mind" attribution retained as bibliography; the quotes themselves are from The Visible and the Invisible.
+
+## Revolt (fast-track bar)
+- Opened: Camus, The Myth of Sisyphus (O'Brien), Internet Archive djvu full text (partial — the streamed file truncated late, "Absurd Freedom" section intact) and the Swarthmore mirror of the closing chapter.
+- Verbatim: "One of the only coherent philosophical positions is thus revolt. It is a constant confrontation between man and his own obscurity. It is an insistence upon an impossible transparency. It challenges the world anew every second." (Absurd Freedom; also "It is not aspiration, for it is devoid of hope" and "the certainty of a crushing fate, without the resignation that ought to accompany it".)
+- Verbatim: "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." (closing chapter, Swarthmore mirror; also present in the IA PDF OCR per search snippet).
