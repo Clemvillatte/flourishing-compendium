@@ -30,10 +30,10 @@ The claim does not mean that every limit on another person is oppression. In Par
 ## Related concepts
 
 - [[Freedom]] — the parent idea; this concept states Beauvoir's condition on how freedom can be willed at all
-- [[Relational autonomy]] — contemporary autonomy research reaching a structurally similar conclusion from the philosophy of Jennifer Nedelsky
-- [[Recognition]] — Hegel's account of self-consciousness needing another self-consciousness, a line Beauvoir explicitly draws on
+- [[Relational autonomy]] — contemporary autonomy research on the social conditions of self-direction
+- [[Recognition]] — Hegel's account of self-consciousness needing another self-consciousness
 - [[Situated freedom]] — Beauvoir's companion point that freedom is always exercised in a situation, never in a vacuum
-- [[Escape from freedom]] — Fromm's diagnosis of the flight from the burden; the interdependence claim is one reason the burden cannot be escaped alone
+- [[Escape from freedom]] — Fromm's diagnosis of the flight from the burden of freedom
 
 ## Sources
 
