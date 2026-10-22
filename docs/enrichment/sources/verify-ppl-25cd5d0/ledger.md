@@ -79,3 +79,44 @@ APT 6(2)):
   signs..." — exact.
 No hallucinated quotes; no repairs needed; no routed findings. The owner's own "raw-verified"
 claim is independently confirmed.
+
+## Round 3 (T0+~10 min measured, 2026-10-22 ~12:08Z)
+
+### Vigilance decrement (w1t, fast-track done)
+
+2 quoted passages checked, 2 PASS — both verified verbatim against a fresh fetch of the full
+PMC text of Klein & Feltmate 2025, Frontiers in Cognition 4:1632885 (quote 1 = abstract
+opening; quote 2 = the Mackworth monograph paragraph, preceded in the source by "robust after
+the first half hour on the task").
+
+ROUTED DEFECT to the w1t owner (TASKBOARD): the page's opening description paragraph carries
+claims that are NOT in the page's only cited source (the PMC article; full text fetched,
+100,606 chars):
+- "Mackworth's Clock Test simulated a radar watch: a pointer stepping around a blank clock
+  face, with rare double jumps as the signal." — the article contains no "radar", "blank clock
+  face" or clock-test description of the 1948 study; its only clock references are Jenkins
+  (1958) "monitoring a clocklike device for double-step (the eponymous NH Mackworth Clock)
+  targets" and the "jump-clock task used by N. H. Mackworth" (Mackworth 1968a).
+- "Operators watching for two hours" — no "two hours"/"2 hours" anywhere in the article.
+- "with the steepest fall in the first half hour" — the article says the decrement "was shown
+  to be robust after the first half hour on the task"; that is a different claim (persistence
+  after 30 min, not steepest fall in the first 30 min).
+- "the task was easy and the operators were trained and motivated — the decrement was not
+  fatigue or indifference" — no support in the article (no such framing).
+The page's Sources line claims the PMC article is "the opened carrier for both verbatim
+passages and the historical summary of Mackworth's 1948 findings"; the summary portion is not
+carried by it. Fix: add a real second source for the clock-test description (e.g. Mackworth
+1948 original or a review that describes the Clock Test) or reduce the paragraph to what
+Klein & Feltmate support. The historical facts themselves are plausible; the issue is the
+zero-hallucination rule (claims must sit in an opened source).
+
+### Values affirmation under threat (w1t, fast-track done)
+
+3 quoted passages checked, 3 PASS — the four-sentence blockquote is the abstract of Cohen &
+Sherman 2014 verbatim (UCSB PDF); "an act that manifests one's adequacy and thus affirms one's
+sense of global self-integrity" appears verbatim; the persistence claims are supported by
+the abstract ("benefits that sometimes persist for months and years") and the article's
+education/health/relationship examples.
+MINOR NUANCE (optional tightening, no defect routed): the page says benefits "persist for
+months and years" where the abstract says "sometimes persist"; adding "sometimes" would match
+the source exactly.
