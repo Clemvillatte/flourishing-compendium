@@ -14,11 +14,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle sorts friendships by what they run on. Some are friendships of utility: "those who love each other for their utility do not love each other for themselves but in virtue of some good which they get from each other." Some are friendships of pleasure: "it is not for their character that men love ready-witted people, but because they find them pleasant." Both of these, he says, are "only incidental" — the friend is loved "as providing some good or pleasure": "Such friendships, then, are easily dissolved, if the parties do not remain like themselves." The third kind is different: "Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves." Among these are "those who wish well to their friends for their sake," who are "most truly friends." The compendium's practical point: you can be in any of the three at once, with different people. The utility and pleasure kinds are not fake — Aristotle himself calls them friendships — but they end when the benefit or the fun does. The character kind is where the friend's good is the point, and it is the one worth building.
 
-(NE VIII.3.)
+(Nicomachean Ethics VIII.3, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html).)
 
 **Plain words** Some friendships run on usefulness, some on fun, and some on admiring each other's character and wanting the other's good. The first two are fragile. The third lasts. Know which kind you're in, and where you can, aim for the third.
 
 *For example:* A colleague you only talk to about work and a friend you'd drive across the country for are not the same type of friend.
+
+## Sources
+
+- Aristotle, *Nicomachean Ethics* Book VIII, trans. W. D. Ross: [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)
 
 ## Stories
 

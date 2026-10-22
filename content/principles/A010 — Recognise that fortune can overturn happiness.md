@@ -14,11 +14,15 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle is blunt about luck: "the most prosperous may fall into great misfortunes in old age, as is told of Priam in the Trojan Cycle; and one who has experienced such chances and has ended wretchedly no one calls happy." He refuses both easy answers. The good-and-wise person is not invulnerable — "the happy man can never become miserable; though he will not reach blessedness, if he meet with fortunes like those of Priam" — and yet something holds: "Yet even in these nobility shines through, when a man bears with resignation many great misfortunes, not through insensibility to pain but through nobility and greatness of soul." The mechanism he gives is craft-like: "For the man who is truly good and wise, we think, bears all the chances life becomingly and always makes the best of circumstances, as a good general makes the best military use of the army at his command and a good shoemaker makes the best shoes out of the hides that are given him." The compendium's reading: do not expect invulnerability; expect the capacity to respond well to what comes.
 
-(NE I.9-10, I.11; EE VII.14.)
+(Nicomachean Ethics I.9-11, trans. W. D. Ross, [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html).)
 
 **Plain words** A good life can be wrecked by terrible luck, and Aristotle says so. What virtue gives you is resilience, not armour. You recover better, and you respond more wisely. So don't expect to be untouchable. Expect to be able to cope with what lands.
 
 *For example:* A well-run family business burns in a fire. The owners who have honest relationships and savings are the ones with something to rebuild from.
+
+## Sources
+
+- Aristotle, *Nicomachean Ethics* Book I, trans. W. D. Ross: [Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)
 
 ## Stories
 
