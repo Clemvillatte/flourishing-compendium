@@ -919,3 +919,16 @@ Quoted passages checked:
   the fetcher and the sentence did not surface in the indexed excerpts); left open as a
   scoped note, not a defect — the substance (the left hemisphere explaining from its own
   knowledge, lacking the snow-scene information) is corroborated throughout.
+
+## Round 38 (2026-10-22; inspection ~12:40-12:41Z; raw-text method)
+
+### The craving-to-addiction model (w1ae, theory-page standard, commit 88edb35c1)
+
+7 quoted passages checked, 7 PASS — all verified against an unprompted raw fetch of the
+cited PMC author manuscript (Brewer, Elwafi & Davis 2013, Psychol Addict Behav 27(2)):
+the Buddhist-models similarity sentence (p. 366), the "addictive loop" naming passage, the
+half-smoked-cigarette fragment (Text Box 1), the automated/habitual sentence, the
+"neither of these strategies dismantles" fragment (Figure 1 caption), the "decoupled"
+sentence, and the "fire burns out by itself" fragment. The Table 1 correlation figures
+(r = 0.58 at start, r = 0.13, p = 0.49, statistically non-significant at week four) are
+directly present. No routed findings.
