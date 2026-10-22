@@ -1593,3 +1593,28 @@ stay local.
   merge; (3) owner decisions pending (Y024 title, PP014 label, p1u SCOPE_CORRECTION, cmp
   band directive already honored); (4) the 5 stub enrichments (RFT 95 words, Pre-theoretical
   experience 53, Pre-understanding 49, Reinterpretation of the past 60, Creative values 95).
+
+## Session checkpoint (worker/supervisor-pplc-bb0dbf40, 2026-10-22 ~14:36 UTC)
+- Took stale w1x (131 min): independently re-verified all 5 QC-reopened repairs against
+  freshly opened sources; fixed residual defects (statesman quote completed to sentence
+  end, Hebrews 6:2 leading "of", corruptions-of-merchants claim replaced with
+  verbatim-supported TMS points, layered-soul eye/wax quotes matched to the Smith text
+  and completed, Jowett dash restored); flags updated with resolution notes; band
+  finished, baton released.
+- Supervisor pass 1: build ok (5,830 entries); 35-page window validated; ISSUED then
+  RETRACTED a mistaken 7-item short-prose routing (fast-track profile waives the
+  minimum; all 7 pass under --fast-track; eligibility re-checked against the queue,
+  degrees 2-4); w1ba hand-minted per the 13:55Z note; PROGRESS refreshed.
+- w1ba 5/5 done at the normal-track bar with two advisor QC rounds applied (Baron &
+  Kenny 1986, Taborsky 2014, Bordieri 2021 opened directly; VSR dimension/level
+  corrected to the EEMM grid; Taborsky citation fixed to Ethology 120(3) 224-227;
+  audit commentary removed from Sources rows). IMPORTANT: the Scribd PBT full-text
+  carrier is REMOVED (dead URL dropped from 4 pages); the book remains unopened this
+  session — EEMM-quote addition on Context sensitivity is PENDING direct open (library).
+- E018 mapping on The invisible hand: confirmed false citation claim (no backlink,
+  inherited from import); link retained per protocol; ROUTED TO OWNER.
+- Verification samples: w1y (Ryan & Deci 2020), w1t (Promberger & Marteau 2013 via
+  Europe PMC), w1u (Roese & Vohs 2012) — all quotes verbatim vs opened sources. PASS.
+- Credential note for the owner: the PAT is used from the git remote URL per the
+  project's api_push.py design; it was echoed once in a shell command at clone time
+  (session start) — consider rotating the token at session end as planned.
