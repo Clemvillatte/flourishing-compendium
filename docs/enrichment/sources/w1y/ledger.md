@@ -34,3 +34,26 @@ applied, then revalidated.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed
   (warn: fewer than 3 Related-concepts lines; the single pre-existing
   link preserved, saturation hunt skipped per the fast-track bar).
+
+## 2026-10-22 (UTC): Authentic communication (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Authentic communication.md (seed: "Buber,
+  I and Thou").
+- Opened source: Martin Buber, I and Thou, Part One, trans. Ronald
+  Gregor Smith (1937), full text via the Internet Archive
+  https://archive.org/stream/IAndThou_572/BuberMartin-i-and-thou_djvu.txt
+- Verbatim blockquote: "The relation to the Thou is direct. No
+  system of ideas, no foreknowledge, and no fancy intervene between
+  I and Thou. The memory itself is transformed, as it plunges out of
+  its isolation into the unity of the whole. No aim, no lust, and no
+  anticipation intervene between I and Thou." The archive.org OCR
+  renders the pronoun I as "/" throughout; the blockquote uses the
+  printed reading I. "All real living is meeting" in the synthesis
+  is likewise verbatim from the same opened text.
+- Synthesis grounded in the same source: the twofold world, primary
+  words I-Thou (spoken with the whole being) and I-It, meeting as
+  mutual.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed
+  (warn: no Related concepts section; none existed to preserve).
