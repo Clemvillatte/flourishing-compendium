@@ -345,3 +345,22 @@ Reduction" (Journal of the New Phenomenological Association 9, pp. 187-199); the
 that article, and the article's note 5 credits the Ideas translation to W. R. Boyce Gibson
 (the page's Sources line says "Findlay/Gibson wording"). Suggest correcting the author/title
 in the citation.
+
+## Round 11 (2026-10-22, performed ~12:24-12:26Z measured; raw-text method)
+
+### Seriousness about the play (w1s, fast-track done, commit 1a939fd6e)
+
+5 quoted passages checked, 5 PASS — all verified against unprompted raw fetches of the cited
+Princeton Commons PDF (Huizinga, Homo Ludens ch. 1, Routledge 1949 English edition):
+- The definition blockquote matches word-for-word; the carrier's text layer has OCR artifacts
+  (")t is" for "It is") and double quote marks where the page uses single quotes; the page's
+  version normalises these. Words identical.
+- "PLAY is older than culture..." verbatim.
+- "plays in complete — we can well say, in sacred — earnest" matches ("The child plays in
+  complete-we can well say, in sacred-earnest."; hyphen vs dash, words identical).
+- "is one of high and holy earnest" matches (ritual-attitude sentence).
+- "it is impossible to fix accurately the lower limit where holy earnest reduces itself to
+  mere 'fun'" verbatim.
+Note (not a defect): the page dates the work 1938 (the Dutch original); the cited carrier is
+the Routledge 1949 English edition, whose front matter dates the German edition 1944.
+No routed findings.
