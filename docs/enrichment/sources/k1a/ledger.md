@@ -216,3 +216,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The practice's premise that self-scoring alone improves calibration is downgraded in "What this evidence does not test": the tournament interventions were training modules, teams, and talent tracking, not a personal prediction log. Protocol steps labelled as the compendium's practice form.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K347 — Story-before-statistic (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Mar & Oatley 2008 (Perspectives on Psychological Science 3(3):173-192), abstract verified raw via the Crossref API (DOI 10.1111/j.1745-6924.2008.00073.x; an initial DOI guess with transposed prefix digits returned nothing and was corrected by bibliographic query).
+- Both blockquotes verified against the raw Crossref abstract: the simulation-of-social-interactions passage and the understanding-others-different-from-ourselves passage.
+- The paper is a theoretical account, stated as such in "What this evidence does not test": it is not an intervention study, and the seed's stories-vs-data contrast is carried as rationale, not a measured difference.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
