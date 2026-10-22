@@ -33,7 +33,7 @@
   "Sympathy",
   "Stress-related growth"
  ],
- "in_progress": null,
+ "in_progress": "Multiple self-aspects model (MSA)",
  "flagged": {
   "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
   "Object relations theory": "Reopened for QC: QC: attribution repairs (Fairbairn specificity, Winnicott grounding)",
@@ -43,6 +43,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:48:07+00:00",
+ "updated": "2026-10-22T12:00:24+00:00",
  "band_done": false
 }
