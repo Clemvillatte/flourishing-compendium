@@ -258,3 +258,17 @@ Also: earlier ledger claim "Anger Related-list trimmed to template" was WRONG �
 Attempted to trim the 14-row Related-concepts list to the 5-12 template. The validator's "original wikilinks" check compares against the current HEAD, not the pre-session baseline, so my own session-added rows are now protected. Trimming "Enemy as teacher" and "The courage to act against impulse" (both session additions, not pre-session originals per git show 0f1d43656^) triggers a LOST-links FAIL.
 
 Both rows restored (validate ok). The 14-row list is a cosmetic deviation from the 5-12 template range, not a source-fidelity issue. Deferred for a future pass (or supervisor intervention). Flagged for supervisor: consider relaxing the validator's protected-wikilink check to compare against the pre-session baseline, or apply the trim with an explicit supervisor-approved exception.
+
+### Bracketing (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/husserl/ — SEP Zahavi. Four sentences fetched verbatim from section 3: we-keep-it-to-investigate-but-bracket-its-validity; this-procedure-is-known-by-the-name-of-epoché; purpose-not-to-doubt sentence; Husserl-1931-lecture naivety quote (Hua 27/173).
+
+Note: the archived SEP editions (search results) carry different epoché sentences (around 1906; universal/local epoché); the current live page has the Zahavi section-3 text which is what I used.
+
+Decisions:
+- Fast-track eligibility: deg 5 < 15 confirmed.
+- Front-matter preserved; Pure experience original wikilink preserved; E001/Y014 Cited-in wikilinks preserved; trailing Methodological-bracketing block preserved.
+- Related concepts: Suspension of the natural attitude, Constitution of meaning (both existing originals per neighbors).
+- Husserl Cartesian Meditations book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
