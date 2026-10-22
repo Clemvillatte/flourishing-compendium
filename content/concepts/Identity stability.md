@@ -13,13 +13,13 @@ For Erikson, a stable identity is not a fixed set of traits. It is a felt contin
 
 > "The conscious feeling of having a personal identity is based on two simultaneous observations: the perception of the selfsameness and continuity of one's existence in time and space and the perception of the fact that others recognize one's sameness and continuity." ([Erikson, Identity: Youth and Crisis, 1968](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt))
 
-The inner observation needs the outer one. One feels the same, and one is recognized as the same by others whose recognition counts. Ego identity, his further term for the quality of this existence, is "the awareness of the fact that there is a selfsameness and continuity to the ego's synthesizing methods, the style of one's individuality," a style that must also "coincide with the sameness and continuity of one's meaning for significant others in the immediate community."
+The inner observation needs the outer one. One feels the same, and one is recognized as the same by others whose recognition counts. Ego identity, his further term for the quality of this existence, is in his words the awareness that there is a selfsameness and continuity to the ego's synthesizing methods and to the style of one's individuality, a style that must also line up with the sameness and continuity of one's meaning for significant others in the immediate community.
 
 ### What stability feels like
 
-His picture of the achieved end state is notably modest:
+His picture of the optimal sense is notably modest:
 
-> "An optimal sense of identity, on the other hand, is experienced merely as a sense of psychosocial well-being. Its most obvious concomitants are a feeling of being at home in one's body, a sense of 'knowing where one is going,' and an inner assuredness of anticipated recognition from those who count." ([Erikson, 1968](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt))
+> "An optimal sense of identity, on the other hand, is experienced merely as a sense of psychosocial well-being. Its most obvious concomitants are a feeling of being at home in one's body, a sense of "knowing where one is going," and an inner assuredness of anticipated recognition from those who count." ([Erikson, 1968](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt))
 
 ### In the compendium
 

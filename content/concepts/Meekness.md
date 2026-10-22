@@ -15,7 +15,7 @@ The Beatitudes give meekness its paradox: the word that sounds like weakness is 
 
 ### What the word carried
 
-Meekness is not passivity. The tradition behind the term treats it as strength under discipline, the disposition that absorbs insult without returning it and keeps its footing in conflict. The compendium's Daoist parallel makes the same point from another direction: yielding in conflict is how one remains whole. Aristotle's discussion of mildness in the Nicomachean Ethics and La Rochefoucauld's reflections, both listed among this entry's sources, trace the same virtue's fortunes in anger and in self-regard.
+The Beatitudes set meekness among the dispositions the world does not expect to win, and the entry's crosslinks in this compendium treat it as a live virtue rather than a synonym for weakness: the Daoist principle on yielding in conflict to remain whole is its nearest neighbor.
 
 ### In the compendium
 

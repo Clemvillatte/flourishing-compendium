@@ -21,13 +21,13 @@ The idealization matters, since truth and justification come apart. Putnam's own
 
 ### No God's Eye
 
-The view's famous denial: "There is no God's Eye point of view that we can know or usefully imagine; there are only the various points of view of actual persons reflecting various interests and purposes that their descriptions and theories subserve." The compendium's principles translate the stance: accept that the world admits many versions, and let truth change its face. The related concept [[Ontological relativity]] carries the Quinean ancestor of the same insight, and the principle on mental contrasting, linked below, shows the practical counterpart: which version of the world one works with is a choice with consequences.
+The view's famous denial: "There is no God's Eye point of view that we can know or usefully imagine; there are only the various points of view of actual persons reflecting various interests and purposes that their descriptions and theories subserve." The compendium's principles carry the stance across tracks: accepting that the world admits many versions, and letting truth change its face. The related concept [[Ontological relativity]] is a neighboring position on what questions about objects depend on, and the linked principles are crosslinks, not derivations.
 
 [[MO026 — Learn to use mental contrasting — visualise obstacle, not just outcome]]
 
 ## Related concepts
 
-- [[Ontological relativity]] — the Quinean ancestor of the view
+- [[Ontological relativity]] — a neighboring position on what questions about objects depend on
 
 ## Sources
 

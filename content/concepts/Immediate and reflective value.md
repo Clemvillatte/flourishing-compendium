@@ -21,7 +21,7 @@ The second term of the pair is the work of criticism. The passage turns on belie
 
 ### In the compendium
 
-The distinction underwrites the compendium's principle that immediate values should be honored and enriched rather than overridden, and it runs through the practice entries: [[ST308 — Deliberate Practice]] is reflection organized around skill, and [[K264 — Deliberation timeout]] marks the point at which deliberation itself stops paying. Reflection, for Dewey, is for the sake of "instituting and perpetuating more enduring and extensive values," not for replacing them.
+The distinction underwrites the compendium's principle that immediate values should be honored and enriched rather than overridden. The practice entries are crosslinks in the same neighborhood: [[ST308 — Deliberate Practice]] is reflection organized around skill, and [[K264 — Deliberation timeout]] marks a limit on deliberation itself.
 
 [[ST308 — Deliberate Practice]]
 [[K264 — Deliberation timeout]]

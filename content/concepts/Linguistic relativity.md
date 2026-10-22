@@ -30,7 +30,7 @@ The compendium's principles carry the finding across tracks: language as cultura
 ## Sources
 
 - [Boroditsky, L. (2011). How Language Shapes Thought. Scientific American 304(2), 62-65 — full text PDF (University of Victoria)](https://web.uvic.ca/~dbub/Cognition_Action/SpecialTopicsEssays_files/How%20Language%20Shapes%20Thought.pdf)
-- [Lupyan, G., Abdel Rahman, R. A., Boroditsky, L., and Gaby, A. (2020). How language can affect what we see. Journal of Experimental Psychology: General](https://pubmed.ncbi.nlm.nih.gov/32926468/)
+- [Lupyan et al., 2020 — see seed source list; citation details pending verification]
 - Boroditsky, 2001
 - Lupyan, 2012
 

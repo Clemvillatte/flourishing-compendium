@@ -15,7 +15,7 @@ Adrian Wells' metacognitive therapy (MCT) shifts the target of treatment from th
 
 ### The syndrome and the lever
 
-The model beneath the treatment holds that a particular style of thinking, not any particular thought, keeps disorder going: "According to this model, a particular style of repetitive thinking called cognitive-attentional syndrome (CAS) contributes to occurrence, persistence, and relapse in most psychological disorders." The CAS combines worry and rumination with threat monitoring and backfiring coping. What maintains it is metacognitive belief, the conviction that worrying is useful or that rumination is unavoidable, and MCT works by dismantling those convictions rather than by disputing the worries themselves.
+The model beneath the treatment holds that a particular style of thinking, not any particular thought, keeps disorder going: "According to this model, a particular style of repetitive thinking called cognitive-attentional syndrome (CAS) contributes to occurrence, persistence, and relapse in most psychological disorders." What maintains it, on the review's account, is metacognitive belief, and MCT works by reducing those beliefs rather than by disputing the worries themselves.
 
 The compendium's principles on metacognition, metacognitive beliefs and mindfulness of thoughts carry the same insight outside the clinic.
 

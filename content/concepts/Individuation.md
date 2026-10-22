@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Individuation” — Simondon, L'individuation.
 
-Gilbert Simondon built his philosophy around a reversal: the individual is not the starting point but the outcome. What exists first is a metastable field of tensions, and individuation is the operation by which something takes form within it. His name for the operation is transduction:
+Gilbert Simondon built his philosophy around a reversal: the individual is the outcome of a process rather than its premise. What exists first is a metastable field of tensions, and individuation is the operation by which something takes form within it. His name for the operation is transduction:
 
 > "This term denotes a process - be it physical, biological, mental or social - in which an activity gradually sets itself in motion, propagating within a given area, through a structuration of the different zones of the area over which it operates." ([Simondon, "The Genesis of the Individual," 1992 English translation](https://monoskop.org/images/b/bc/Simondon_Gilbert_1964_1992_The_Genesis_of_the_Individual.pdf))
 
@@ -23,7 +23,7 @@ The individual, on this account, is always partial and relative: a temporary res
 
 ### In the compendium
 
-The concept has a Jungian neighbor in [[Analytical Psychology]], where individuation names the psyche's movement toward wholeness, and a bridge in [[Ego psychology]]. Simondon's version is more radical: since individuation is a process without a final term, the compendium's principles on identity as verb and on individuation never being finished take their cue from him.
+The concept has a Jungian neighbor in [[Analytical Psychology]], where individuation names the psyche's movement toward wholeness, and a bridge in [[Ego psychology]]. The compendium's principles on identity as verb and on individuation never being finished keep the process open in both senses.
 
 ## Related concepts
 

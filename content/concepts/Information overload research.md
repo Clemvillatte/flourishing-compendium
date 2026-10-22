@@ -15,11 +15,11 @@ The research field starts from a capacity fact. Peter Gordon Roetzel's review of
 
 ### The inverted U
 
-The field's central empirical claim is a curve: performance first rises with information input, then falls past the point of processing capacity. "The prevailing view interprets this relationship as an inverted U curve," Roetzel writes, after noting that the decision output improves "between zero and the particular point at which the human information processing capacity is reached," and that beyond it the decision-maker "is being asked to handle more information than possible." More input past that point does not add knowledge; it subtracts from its use.
+The field's central reported finding is a curve: performance first rises with information input, then falls past the point of processing capacity. "The prevailing view interprets this relationship as an inverted U curve," Roetzel writes, after noting that the decision output improves "between zero and the particular point at which the human information processing capacity is reached," and that beyond it the decision-maker "is being asked to handle more information than possible."
 
 ### What overload does
 
-The documented effects run through work and feeling alike. The review reports decreases in decision performance in virtual communication, less systematic and less thorough search strategies, and mental and physical health effects from sustained exposure, including negative effects on emotions and perceived health. It also notes a quieter loss: overload "leads to less time devoted to contemplative activities." The concept earns its place in a flourishing compendium there, since the goods most at risk are attention, deliberation and rest.
+The review reports decreases in decision performance in virtual communication, less systematic and less thorough search strategies, and negative mental and physical health effects associated with sustained exposure, including effects on emotions and perceived health. It also notes a quieter loss: overload "leads to less time devoted to contemplative activities." The concept earns its place in a flourishing compendium there, since the goods most at risk are attention, deliberation and rest.
 
 The compendium's principles carry the field's warning into practice: [[CO003 — Know that thinking has limited capacity — cognitive load is real]] states the capacity fact directly, a principle on wisdom setting bounds to knowledge makes bounding knowledge part of wisdom rather than its enemy, and a saying on the far edge of knowledge names the paradox that expansion of information can shrink understanding.
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Knowledge by acquaintance” — William James, Radical Empiricism.
 
-James's radical empiricism divides knowledge into two kinds: the direct kind, in which the object is present to experience, and the mediate kind, which leads toward it. In "A World of Pure Experience" he writes of perception that "this is the type of case in which the mind enjoys direct 'acquaintance' with a present object. In the other types the mind has 'knowledge-about' an object not immediately there" ([James, Essays in Radical Empiricism, ch. 2](https://brocku.ca/MeadProject/James/James_1912/James_1912_02.html)).
+James's radical empiricism divides knowledge into two kinds: the direct kind, in which the object is present to experience, and the mediate kind, which leads toward it. In "A World of Pure Experience" he writes of perception: "This is the type of case in which the mind enjoys direct 'acquaintance' with a present object. In the other types the mind has 'knowledge-about' an object not immediately there" ([James, Essays in Radical Empiricism, ch. 2](https://brocku.ca/MeadProject/James/James_1912/James_1912_02.html)).
 
 The two kinds support each other rather than competing. "Where direct acquaintance is lacking, 'knowledge about' is the next best thing, and an acquaintance with what actually lies about the object, and is most closely related to it, puts such knowledge within our grasp." Knowledge of sensible realities, he says elsewhere, "comes to life inside the tissue of experience. It is made; and made by relations that unroll themselves in time" ([James, ERE, pp. 56, 61](https://warwick.ac.uk/fac/sci/dcs/research/em/wj_re_em/wjquotes/)).
 
@@ -23,7 +23,7 @@ For Weil, attention is a negative effort, a waiting rather than a seizing: thoug
 
 ### In the compendium
 
-The concept anchors the compendium's third-kind-of-knowledge principles: truth as something stood in rather than held, the third kind of knowledge sought directly, and contemplation applied to mastery. Acquaintance is what all conceptual knowledge is for; it is where the mind meets its object.
+The concept anchors the compendium's principles on truth as something stood in rather than held, on the third kind of knowledge sought directly, and on contemplation applied to mastery.
 
 [[M021 — Treat truth as something you stand in, not only something you hold]]
 
@@ -34,6 +34,7 @@ The concept anchors the compendium's third-kind-of-knowledge principles: truth a
 ## Sources
 
 - [James, W. (1912). Essays in Radical Empiricism, ch. 2 — Brock University Mead Project](https://brocku.ca/MeadProject/James/James_1912/James_1912_02.html)
+- [James quotations with sources, Warwick WJ&RE project page](https://warwick.ac.uk/fac/sci/dcs/research/em/wj_re_em/wjquotes/)
 - [Weil, S. (1942/1951). Reflections on the Right Use of School Studies with a View to the Love of God — Matheson Trust PDF](https://www.themathesontrust.org/papers/christianity/Weil-Reflections.pdf)
 
 ## Cited in philosophy parallels

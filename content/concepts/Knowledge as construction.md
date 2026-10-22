@@ -19,7 +19,7 @@ The constructive claim runs deeper than cooperation. Of the categories, Kant wri
 
 ### What construction does not mean
 
-The view is not the claim that the mind invents the world. Objects are still given, in intuition; what is constructed is their form and their combination. The compendium's psychological principle makes the transfer explicit in [[CO008 — Understand that thinking is constructivist — you build your understanding]], and the neighboring principles extend the construction from knowledge to persons and to the self itself: personhood understood as something built, and the ultimate nature of the self recognized as a useful construction.
+The view is not the claim that the mind invents the world. Objects are still given, in intuition; what is constructed is their form and their combination. The compendium's crosslinks extend the theme, including the psychological principle that [[CO008 — Understand that thinking is constructivist — you build your understanding]], and principles on personhood as something built and the self as a useful construction.
 
 [[SE080 — Recognise the ultimate nature of self — a useful construction]]
 [[M016 — Understand personhood as something built]]
