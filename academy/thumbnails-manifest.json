@@ -91,6 +91,16 @@
  },
  {
   "session_index": 9,
+  "title": "Meditation for Working with Difficulties",
+  "practice_type": "omm",
+  "practice_label": "Open monitoring",
+  "length_label": "7 min",
+  "generated_file": "assets/academy/sessions/s47.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994126084_c017a133e0_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 10,
   "title": "A Guided Meditation on the Body, Space, and Awareness",
   "practice_type": "omm",
   "practice_label": "Open monitoring",
@@ -100,7 +110,17 @@
   "source_title": "Circular effect of the clouds (Travels in the Air)"
  },
  {
-  "session_index": 10,
+  "session_index": 11,
+  "title": "Complete Meditation Instructions",
+  "practice_type": "omm",
+  "practice_label": "Open monitoring",
+  "length_label": "19 min",
+  "generated_file": "assets/academy/sessions/s48.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43803034805_153d7379fa_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 12,
   "title": "A Listening Presence",
   "practice_type": "omm",
   "practice_label": "Open monitoring",
@@ -110,7 +130,7 @@
   "source_title": "Effect produced by a vault of clouds (Travels in the Air)"
  },
  {
-  "session_index": 11,
+  "session_index": 13,
   "title": "Resting in Reality",
   "practice_type": "omm",
   "practice_label": "Open monitoring",
@@ -120,7 +140,17 @@
   "source_title": "Between two clouds, four miles high (Travels in the Air)"
  },
  {
-  "session_index": 12,
+  "session_index": 14,
+  "title": "30-Minute Meditation: Open Awareness",
+  "practice_type": "omm",
+  "practice_label": "Open monitoring",
+  "length_label": "30 min",
+  "generated_file": "assets/academy/sessions/s49.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/30841404218_a93139bd5d_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 15,
   "title": "Direct Experience",
   "practice_type": "omm",
   "practice_label": "Open monitoring",
@@ -130,7 +160,7 @@
   "source_title": "A Balloon Prospect from Above the Clouds"
  },
  {
-  "session_index": 13,
+  "session_index": 16,
   "title": "Self-Compassion Break",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -140,7 +170,7 @@
   "source_title": "Mother and child enjoying a summer outing (Documerica)"
  },
  {
-  "session_index": 14,
+  "session_index": 17,
   "title": "Loving Kindness Meditation",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -150,7 +180,7 @@
   "source_title": "Yamauba Breastfeeding Kintaro"
  },
  {
-  "session_index": 15,
+  "session_index": 18,
   "title": "Compassion Meditation",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -160,7 +190,17 @@
   "source_title": "Group Portrait of Women and Children, Granvin"
  },
  {
-  "session_index": 16,
+  "session_index": 19,
+  "title": "Lovingkindness Meditation",
+  "practice_type": "lkm",
+  "practice_label": "Loving-kindness",
+  "length_label": "13 min",
+  "generated_file": "assets/academy/sessions/s50.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/ogawa-kazumasa-s-hand-coloured-photographs-of-flowers-1896/32425997157_41e4d6de84_c.jpg",
+  "source_title": "Untitled Image by Ogawa Kazumasa from Some Japanese Flowers (1896)"
+ },
+ {
+  "session_index": 20,
   "title": "Embodied Metta",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -170,7 +210,7 @@
   "source_title": "Yamauba and Kintaro (MET)"
  },
  {
-  "session_index": 17,
+  "session_index": 21,
   "title": "Guided Metta",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -180,7 +220,7 @@
   "source_title": "Yamauba Holding Chestnuts while Kintaro Reaches"
  },
  {
-  "session_index": 18,
+  "session_index": 22,
   "title": "Guided Metta Meditation",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -190,7 +230,7 @@
   "source_title": "Yamauba and Kintaro Playing with a Cherry"
  },
  {
-  "session_index": 19,
+  "session_index": 23,
   "title": "Guided Lovingkindness Meditation",
   "practice_type": "lkm",
   "practice_label": "Loving-kindness",
@@ -200,7 +240,7 @@
   "source_title": "Yamauba Playing with Kintaro"
  },
  {
-  "session_index": 20,
+  "session_index": 24,
   "title": "Short Body Scan",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -210,7 +250,7 @@
   "source_title": "Six Studies of Pillows (Durer)"
  },
  {
-  "session_index": 21,
+  "session_index": 25,
   "title": "Body Scan, excerpt",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -220,7 +260,7 @@
   "source_title": "Self-portrait, Study of a Hand and a Pillow (Durer)"
  },
  {
-  "session_index": 22,
+  "session_index": 26,
   "title": "Non-Sleep Deep Rest",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -230,7 +270,7 @@
   "source_title": "Dream-land"
  },
  {
-  "session_index": 23,
+  "session_index": 27,
   "title": "Body Scan for Sleep",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -240,7 +280,7 @@
   "source_title": "Children asleep on bed during square dance"
  },
  {
-  "session_index": 24,
+  "session_index": 28,
   "title": "Introductory iRest practice",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -250,7 +290,7 @@
   "source_title": "Woman Reclining with Pipe (Kusakabe Kimbei)"
  },
  {
-  "session_index": 25,
+  "session_index": 29,
   "title": "Extended iRest practice",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -260,7 +300,7 @@
   "source_title": "The Flower o' the World Asleep"
  },
  {
-  "session_index": 26,
+  "session_index": 30,
   "title": "Guided Body Scan",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -270,7 +310,7 @@
   "source_title": "The Unicorn Rests in a Garden"
  },
  {
-  "session_index": 27,
+  "session_index": 31,
   "title": "27-Minute Deep Relaxation",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -280,7 +320,7 @@
   "source_title": "The Soldier's Dream of Home"
  },
  {
-  "session_index": 28,
+  "session_index": 32,
   "title": "Full iRest Yoga Nidra Practice",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -290,7 +330,7 @@
   "source_title": "A Eunuch's Dream"
  },
  {
-  "session_index": 29,
+  "session_index": 33,
   "title": "41-Minute Deep Relaxation",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -300,7 +340,7 @@
   "source_title": "The Sleeping Pedlar (asleep under a tree)"
  },
  {
-  "session_index": 30,
+  "session_index": 34,
   "title": "Guided Meditation: Body Sweep",
   "practice_type": "bodyscan",
   "practice_label": "Body scan / deep rest / NSDR",
@@ -310,7 +350,7 @@
   "source_title": "Inside a Dog-Tent (Amundsen)"
  },
  {
-  "session_index": 31,
+  "session_index": 35,
   "title": "Standing Meditation in 2 Minutes",
   "practice_type": "daoist",
   "practice_label": "Daoist stillness",
@@ -320,7 +360,7 @@
   "source_title": "Snow-covered Mt. Fuji wreathed with clouds (Geddes)"
  },
  {
-  "session_index": 32,
+  "session_index": 36,
   "title": "Taoist True Breathing",
   "practice_type": "daoist",
   "practice_label": "Daoist stillness",
@@ -330,7 +370,7 @@
   "source_title": "Tsuba: Mount Fuji in clouds, openwork"
  },
  {
-  "session_index": 33,
+  "session_index": 37,
   "title": "Free 4-part Taoist Wellness course",
   "practice_type": "daoist",
   "practice_label": "Daoist stillness",
@@ -340,7 +380,7 @@
   "source_title": "Lake Avernus and environs"
  },
  {
-  "session_index": 34,
+  "session_index": 38,
   "title": "Wudang Taoist Wellness Academy, paid membership",
   "practice_type": "daoist",
   "practice_label": "Daoist stillness",
@@ -350,7 +390,7 @@
   "source_title": "View of the crater lake Kawah Putih"
  },
  {
-  "session_index": 35,
+  "session_index": 39,
   "title": "Internal Arts Academy, paid subscription",
   "practice_type": "daoist",
   "practice_label": "Daoist stillness",
@@ -360,7 +400,7 @@
   "source_title": "Sunset over West Lake, Hanoi (Albert Kahn)"
  },
  {
-  "session_index": 36,
+  "session_index": 40,
   "title": "Exploring Space",
   "practice_type": "zen",
   "practice_label": "Zen guided sitting",
@@ -370,7 +410,17 @@
   "source_title": "Amida on a Lotus"
  },
  {
-  "session_index": 37,
+  "session_index": 41,
+  "title": "Space for Feelings",
+  "practice_type": "zen",
+  "practice_label": "Zen guided sitting",
+  "length_label": "10:11",
+  "generated_file": "assets/academy/sessions/s52.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/29775127757_522c854d25_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 42,
   "title": "Settling In",
   "practice_type": "zen",
   "practice_label": "Zen guided sitting",
@@ -380,7 +430,7 @@
   "source_title": "Fukami Jikyu In Moonlight"
  },
  {
-  "session_index": 38,
+  "session_index": 43,
   "title": "Space in the Day",
   "practice_type": "zen",
   "practice_label": "Zen guided sitting",
@@ -390,7 +440,27 @@
   "source_title": "Moon above the Sea of Daimotsu Bay - Benkei"
  },
  {
-  "session_index": 39,
+  "session_index": 44,
+  "title": "Restful Awareness",
+  "practice_type": "zen",
+  "practice_label": "Zen guided sitting",
+  "length_label": "13:33",
+  "generated_file": "assets/academy/sessions/s53.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903/43994123754_b84e5a89b0_o.jpg",
+  "source_title": "Untitled Image by Mori Yūzan from Hamonshu (1903)"
+ },
+ {
+  "session_index": 45,
+  "title": "Mu Meditation Intro",
+  "practice_type": "zen",
+  "practice_label": "Zen guided sitting",
+  "length_label": "14:09",
+  "generated_file": "assets/academy/sessions/s54.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/ogawa-kazumasa-s-hand-coloured-photographs-of-flowers-1896/40402285573_5aabdd2ae2_b.jpg",
+  "source_title": "Untitled Image by Ogawa Kazumasa from Some Japanese Flowers (1896)"
+ },
+ {
+  "session_index": 46,
   "title": "Body, Space and Mu",
   "practice_type": "zen",
   "practice_label": "Zen guided sitting",
@@ -400,7 +470,7 @@
   "source_title": "Tsuba: silhouetted cranes, reeds, and water"
  },
  {
-  "session_index": 40,
+  "session_index": 47,
   "title": "Resting. Settling, Grounding",
   "practice_type": "zen",
   "practice_label": "Zen guided sitting",
@@ -410,7 +480,7 @@
   "source_title": "The Bronze Buddha at Kamakura"
  },
  {
-  "session_index": 41,
+  "session_index": 48,
   "title": "Finding a Greater Wholeness, guided meditation",
   "practice_type": "zen",
   "practice_label": "Zen guided sitting",
@@ -420,7 +490,7 @@
   "source_title": "Asakusa Hongan Temple in Edo"
  },
  {
-  "session_index": 42,
+  "session_index": 49,
   "title": "An Introduction to Walking Meditation",
   "practice_type": "walking",
   "practice_label": "Walking meditation",
@@ -430,7 +500,7 @@
   "source_title": "Pilgrim Going Up Fujiyama"
  },
  {
-  "session_index": 43,
+  "session_index": 50,
   "title": "Happiness Break: Walk Your Way to Calm",
   "practice_type": "walking",
   "practice_label": "Walking meditation",
@@ -440,7 +510,17 @@
   "source_title": "Walking Couple by Moonlight"
  },
  {
-  "session_index": 44,
+  "session_index": 51,
+  "title": "Walking Meditation",
+  "practice_type": "walking",
+  "practice_label": "Walking meditation",
+  "length_label": "6 min",
+  "generated_file": "assets/academy/sessions/s51.jpg",
+  "source_image_url": "https://images.pdimagearchive.org/collections/highlights-from-the-cleveland-museum-of-art-s-release-of-more-than-30k-images-of-public-domain-works/46887555232_118d6d0cd7_o.jpg",
+  "source_title": "Chrysanthemums by a Stream by Follower of Ogata Korin (late 1700s–early 1800s)"
+ },
+ {
+  "session_index": 52,
   "title": "Walking Meditation",
   "practice_type": "walking",
   "practice_label": "Walking meditation",
@@ -450,7 +530,7 @@
   "source_title": "Japanese people hiking through mountains (Geddes)"
  },
  {
-  "session_index": 45,
+  "session_index": 53,
   "title": "Walking Meditation: Short Film and Tutorial",
   "practice_type": "walking",
   "practice_label": "Walking meditation",
@@ -460,7 +540,7 @@
   "source_title": "Four Women Travellers Outside Djupvasshytta Mountain Lodge"
  },
  {
-  "session_index": 46,
+  "session_index": 54,
   "title": "Zen and the Art of Walking Meditation",
   "practice_type": "walking",
   "practice_label": "Walking meditation",

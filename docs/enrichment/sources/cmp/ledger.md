@@ -180,3 +180,59 @@ script arrives (only if the graph view is still showing). QA: a new
 regression check delays graph.js by 3s and verifies the graph still
 populates (6 kind toggles); the direct-load check now also asserts the
 graph is populated, not just the view class. All 36 checks pass.
+
+## 2026-10-22 (UTC) — CMP gallery enrichment: +8 verified sessions (47 -> 55)
+
+Owner feedback: "The meditation content is still pretty poor, a daily
+meditator is going to get bored very quickly." Eight new verified
+sessions added to CMP1, filling the thin matrix buckets:
+
+- OMM 6-10 (0 -> 1): "Meditation for Working with Difficulties" —
+  Diana Winston, MARC (UCLA), 7 min mp3
+  (d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/04_...).
+- OMM 16-20 (0 -> 1): "Complete Meditation Instructions" — Diana
+  Winston, MARC, 19 min mp3 (...03_Complete_Meditation_Instructions).
+- OMM 21-30: "30-Minute Meditation: Open Awareness" — Tara Brach
+  (IMCW), 30 min, linked to her own page
+  (tarabrach.com/30-minute-meditation-open-awareness/).
+- LKM 11-15 (0 -> 1): "Lovingkindness Meditation" — Palouse
+  Mindfulness free MBSR course, 13 min mp3
+  (palousemindlessness.com/disks/lovingkindness.mp3).
+- Walking 6-10 (1 -> 2): "Walking Meditation" — guided by Tara Brach
+  on Palouse Mindfulness, 6 min mp3
+  (palousemindlessness.com/disks/walking-meditation.mp3).
+- Zen 6-10 (1 -> 2), 11-15 (3 -> 5): "Space for Feelings" (10:11),
+  "Restful Awareness" (13:33), "Mu Meditation Intro" (14:09) — Henry
+  Shukman (Mountain Cloud Zen Center, Sanbo Zen lineage), mp3s from
+  mountaincloud.org/intro-zone/. Zen shelf note updated five -> eight
+  Mountain Cloud sittings.
+
+Verification chain (zero hallucination): every session classified from
+the audio itself (vosk full transcripts of both MARC files; spot
+transcripts of all others), ffprobe durations on downloaded files
+(cross-checked against printed durations on the source pages), source
+pages opened live for attribution (MARC catalog, Mountain Cloud intro
+zone, Palouse pages, Tara Brach page). YouTube sessions were not used.
+
+Parser fixes in scripts/cmp_gallery_data.py (same defects the advisor
+found in the QG parser): parse_length mis-read H:MM:SS (treated the
+seconds group as hours), split_guide trailing-space host, and the matrix
+'45+' column read stderr keys in the wrong order so 45+ counts were
+displayed under the wrong header.
+
+Images: 8 new thumbnails s47-s54.jpg (640x400, cover-crop, scrim,
+labels) via scripts/cmp_thumbnails.py, from public-domain Japanese
+designs (Mori Yuzan Hamonshu 1903; Ogawa Kazumasa Some Japanese Flowers
+1896; Follower of Ogata Korin chrysanthemums) from the Art Institute of
+Chicago collection; c_006 rejected as a duplicate of an existing CMP
+manifest image. All 8 visually inspected; s51 regenerated with a 3% top
+crop to remove a white scan strip. Manifest re-keyed 47 old entries by
+(title, length_label) + 8 new entries.
+
+QA: unit tests 30 OK; node --test 9 pass; routes.qa.cjs ALL PASS;
+node --check OK; build emits only the pre-existing HEAD warning
+('manifest references missing files: Nondual awareness' — Library
+content, out of scope). Playwright: 55 cards render, all 8 new sessions
+present, no broken images after full lazy-load scroll, shelf select
+filters work (Walking -> 6 cards), card click opens the correct URL
+(new tab), zero page errors.

@@ -71,8 +71,9 @@ def parse_length(txt):
     txt = txt.strip()
     m = re.fullmatch(r'(\d+):(\d{2})(?::(\d{2}))?', txt)
     if m:
-        h = int(m.group(3) or 0)
-        return int(m.group(1)) * 60 + h * 3600 + int(m.group(2)), txt
+        if m.group(3):  # H:MM:SS
+            return int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3)), txt
+        return int(m.group(1)) * 60 + int(m.group(2)), txt
     m = re.fullmatch(r'(\d+)\s*min(?:utes)?', txt, re.I)
     if m:
         return int(m.group(1)) * 60, txt
@@ -92,7 +93,7 @@ def split_guide(cell):
     parts = [p.strip() for p in cell.split(',')]
     if len(parts) >= 2:
         return parts[0], ', '.join(parts[1:])
-    return cell, ''
+    return cell.strip(), ''
 
 
 def main():
@@ -146,10 +147,10 @@ def main():
         matrix[s['practice_type']][b] += 1
     hdr = ['pt'] + [lbl for _, lbl in BUCKETS] + ['no-dur']
     print('\t'.join(hdr), file=sys.stderr)
+    keys = [5, 10, 15, 20, 30, 45, '45+', None]
     for _, key, _ in SHELVES:
         row = matrix.get(key, {})
-        cells = [str(row.get(h, 0)) if h != '45+' else str(row.get('45+', 0)) for h, _ in BUCKETS]
-        cells.append(str(row.get(None, 0)))
+        cells = [str(row.get(k, 0)) for k in keys]
         print('\t'.join([key] + cells), file=sys.stderr)
 
     json.dump(sessions, sys.stdout, ensure_ascii=False, indent=1)

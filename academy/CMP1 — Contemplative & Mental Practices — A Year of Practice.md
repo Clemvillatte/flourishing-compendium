@@ -138,9 +138,12 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | Session | Guide | Length |
 |---|---|---|
 | [Body and Sound Meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/Body-Sound-Meditation.mp3) | Diana Winston, UCLA Mindful | 3 min |
+| [Meditation for Working with Difficulties](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/04_Meditation_for_Working_with_Difficulties.mp3) | Diana Winston, UCLA Mindful | 7 min |
 | [A Guided Meditation on the Body, Space, and Awareness](https://www.youtube.com/watch?v=5GSeWdjyr1c) | Yongey Mingyur Rinpoche | 14 min |
+| [Complete Meditation Instructions](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/03_Complete_Meditation_Instructions.mp3) | Diana Winston, UCLA Mindful | 19 min |
 | [A Listening Presence](https://www.tarabrach.com/meditation-a-listening-presence-2026-06-03-2027-min/) | Tara Brach | 20:27 |
 | [Resting in Reality](https://www.tarabrach.com/meditation-resting-in-reality-2/) | Tara Brach | 24 min |
+| [30-Minute Meditation: Open Awareness](https://www.tarabrach.com/30-minute-meditation-open-awareness/) | Tara Brach | 30 min |
 | [Direct Experience](https://www.audiodharma.org/talks/453) | Gil Fronsdal, AudioDharma | 35:45 |
 
 ### Loving-kindness and compassion (LKM)
@@ -150,6 +153,7 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Self-Compassion Break](https://www.youtube.com/watch?v=p7z3ybkn9DU) | Kristin Neff | 5:23 |
 | [Loving Kindness Meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/05_Loving_Kindness_Meditation.mp3) | Diana Winston, UCLA Mindful | 9 min |
 | [Compassion Meditation](https://ggia.berkeley.edu/practice/compassion_meditation) | Eve Ekman, Greater Good Science Center | 10 min |
+| [Lovingkindness Meditation](https://palousemindfulness.com/disks/lovingkindness.mp3) | Palouse Mindfulness | 13 min |
 | [Embodied Metta](https://www.tarabrach.com/meditation-embodied-metta-2/) | Tara Brach | 20:06 |
 | [Guided Metta](https://www.audiodharma.org/talks/44) | Gil Fronsdal, AudioDharma | 28:04 |
 | [Guided Metta Meditation](https://www.dharmaseed.org/talks/1331) | Joseph Goldstein, Dharma Seed | 38:21 |
@@ -188,13 +192,16 @@ This shelf has not yet verified longer guided single sessions; the academies abo
 | Session | Guide | Length |
 |---|---|---|
 | [Exploring Space](https://www.mountaincloud.org/wp-content/uploads/2020/08/Exploring-Space.mp3) | Henry Shukman, Mountain Cloud Zen Center | 10:08 |
+| [Space for Feelings](https://www.mountaincloud.org/wp-content/uploads/2020/08/Space-for-feelings.mp3) | Henry Shukman, Mountain Cloud Zen Center | 10:11 |
 | [Settling In](https://www.mountaincloud.org/wp-content/uploads/2020/08/Settling-in-1.mp3) | Henry Shukman, Mountain Cloud Zen Center | 12:40 |
 | [Space in the Day](https://www.mountaincloud.org/wp-content/uploads/2020/08/Space-in-the-day-%E2%80%94-meditation.mp3) | Henry Shukman, Mountain Cloud Zen Center | 12:57 |
+| [Restful Awareness](https://www.mountaincloud.org/wp-content/uploads/2020/08/Restful-awareness.mp3) | Henry Shukman, Mountain Cloud Zen Center | 13:33 |
+| [Mu Meditation Intro](https://www.mountaincloud.org/wp-content/uploads/2020/08/Mu-meditation-intro.mp3) | Henry Shukman, Mountain Cloud Zen Center | 14:09 |
 | [Body, Space and Mu](https://www.mountaincloud.org/wp-content/uploads/2020/08/Body-space-and-mu.mp3) | Henry Shukman, Mountain Cloud Zen Center | 15:32 |
 | [Resting. Settling, Grounding](https://www.mountaincloud.org/wp-content/uploads/2020/08/Resting-settling-grounding.....mp3) | Henry Shukman, Mountain Cloud Zen Center | 25:01 |
 | [Finding a Greater Wholeness, guided meditation](https://s3-us-west-1.amazonaws.com/media.rickhanson.net/audio/3_8_23FindingAGreaterWholenessMed.mp3) | Henry Shukman, guest at Rick Hanson's Wednesday Night Meditation | 30:25 |
 
-Every row on this shelf was sampled from the recording itself. The five Mountain Cloud sittings open with soundscape listening or body settling and rest in receptive, spacious awareness; the Body, Space and Mu sitting holds the Mu koan inside that pervasive awareness. The 30:25 row settles posture and grounding, then softens the sense of identity and rests in a wider quiet.
+Every row on this shelf was sampled from the recording itself. The eight Mountain Cloud sittings open with soundscape listening or body settling and rest in receptive, spacious awareness; the Body, Space and Mu and Mu Meditation Intro sittings hold the Mu koan inside that pervasive awareness. The 30:25 row settles posture and grounding, then softens the sense of identity and rests in a wider quiet.
 
 For a longer structured path in this style, Henry Shukman's The Way app offers a single-path guided program ([paid](https://apps.apple.com/us/app/the-way-meditation-zen/id6459996442)).
 
@@ -204,6 +211,7 @@ For a longer structured path in this style, Henry Shukman's The Way app offers a
 |---|---|---|
 | [An Introduction to Walking Meditation](https://web.plumvillage.app/item/walking-meditation-1) | Thich Nhat Hanh, Plum Village | 4:34 |
 | [Happiness Break: Walk Your Way to Calm](https://greatergood.berkeley.edu/podcasts/item/walk_your_way_to_calm_guided_meditation) | Dacher Keltner, Greater Good Science Center | 6:06 |
+| [Walking Meditation](https://palousemindfulness.com/disks/walking-meditation.mp3) | Tara Brach, Palouse Mindfulness | 6 min |
 | [Walking Meditation](https://www.youtube.com/watch?v=cvmfhdLo8fI) | Headspace | 10:19 |
 | [Walking Meditation: Short Film and Tutorial](https://web.plumvillage.app/item/walking-meditation-5) | Brother Khiet Minh, Plum Village | 10:55 |
 | [Zen and the Art of Walking Meditation](https://web.plumvillage.app/item/zen-and-the-art-of-walking-meditation-or-guided-practice-session) | Brother Phap Huu and Sister Hien Nghiem, Plum Village | 46:44 |
