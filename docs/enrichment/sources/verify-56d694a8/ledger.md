@@ -306,3 +306,12 @@ Round 27: 4 pages, 7 quoted passages verified, no defects.
 4. **Prospective memory** — both McDaniel & Einstein 2000 abstract passages VERIFIED verbatim via the opened Wiley record. PASS.
 
 Round 28: 4 pages, 8 quoted passages verified, no defects.
+
+## Round 29
+
+1. **Rationality research** — all three Stanovich passages VERIFIED verbatim via the opened Oxford Academic book page. PASS.
+2. **Ready-to-hand** — the Heidegger Being and Time §15 passage VERIFIED verbatim via the opened SEP winter-2016 archive. PASS.
+3. **Relatedness** — both Ryan & Deci 2000 passages VERIFIED verbatim via the opened SDT PDF. PASS.
+4. **Respect** — all three passages (the two Kant quotes; the Dillon framing line) VERIFIED verbatim via the opened SEP entry. PASS.
+
+Round 29: 4 pages, 9 quoted passages verified, no defects.
