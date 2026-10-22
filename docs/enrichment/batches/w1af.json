@@ -11,18 +11,20 @@
   "The theory-ladenness of observation",
   "The tool-being of equipment",
   "The transcendental reduction",
-  "The transformation of consciousness",
   "The traveler's eye"
  ],
- "in_progress": null,
+ "in_progress": "The transformation of consciousness",
  "flagged": {
   "The six departures": "FLAG: exact six-item list is the book's rendering; grounded in Chan no-thought family via opened Zazen article; supervisor should confirm commentary of origin from owner library",
   "The sovereign individual": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end",
   "The tetralemma": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end",
   "The shattered self": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end",
-  "The tetrapharmakos": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end"
+  "The tetrapharmakos": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end",
+  "The transformation of consciousness": "Namespace hold: compendium heading; body grounded in Jaspers Origin and Goal of History; owner disposition requested (keep as heading / fold into The Axial Age)",
+  "The traveler's eye": "QC milestone round: namespace hold — Letter 30 illustrates a literary device; no opened source defines 'the traveler's eye' as a concept; owner disposition requested (see concept-namespace-audit.md). Done-mark retained; supervisor/owner may reopen"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:17:14+00:00"
+ "updated": "2026-10-22T15:21:31+00:00",
+ "band_done": false
 }

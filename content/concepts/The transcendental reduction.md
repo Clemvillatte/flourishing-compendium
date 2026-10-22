@@ -17,13 +17,11 @@ The transcendental reduction is Husserl's name for the systematic analysis of th
 
 The reduction does not deny the world. Its aim, in the same account, is to suspend a dogmatic attitude, not reality itself:
 
-> "The purpose of the epoché is not to doubt, neglect, abandon, or exclude reality from our research; rather its aim is to suspend or neutralize a certain dogmatic *attitude* towards reality. We must take a step back from our naive and unexamined immersion in the world and thematize the fact that reality is always revealed and examined from some perspective or another." ([SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/))
+> "The purpose of the epoché is not to doubt, neglect, abandon, or exclude reality from our research; rather its aim is to suspend or neutralize a certain dogmatic *attitude* towards reality. We must take a step back from our naive and unexamined immersion in the world and thematize the fact that reality is always revealed and examined from some perspective or another." (Zahavi, [SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/), section 3)
 
-What is left standing after the bracket is the field of intentional acts and their contents, which the reduction then examines for its structures. The relation of the two steps:
+What is left standing after the bracket is the field of intentional acts and their contents, which the reduction then examines for its structures. The Stanford Encyclopedia account of the two steps:
 
-> "Strictly speaking, the epoché can be seen as the first step towards what Husserl terms the *transcendental reduction*, which is his name for the systematic analysis of the intentional correlation between subjectivity and world." ([SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/))
-
-The original entry names the Cartesian Meditations, where Husserl restates the method against Descartes' doubt: the reduction brackets the positing of the world in order to reach the field of consciousness that remains.
+> "Strictly speaking, the epoché can be seen as the first step towards what Husserl terms the *transcendental reduction*, which is his name for the systematic analysis of the intentional correlation between subjectivity and world." (Zahavi, [SEP: Edmund Husserl](https://plato.stanford.edu/entries/husserl/), section 3)
 
 ### In the compendium
 
@@ -39,7 +37,7 @@ The original entry names the Cartesian Meditations, where Husserl restates the m
 ## Sources
 
 - [Zahavi D. Edmund Husserl. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/husserl/) — the epoché, natural-attitude and transcendental-reduction passages.
-- Husserl, Cartesian Meditations — book citation carried from the original entry; the Stanford Encyclopedia passages above carry the method's description.
+- Husserl, Cartesian Meditations — the book named in the original entry; the quoted passages come from the Stanford Encyclopedia entry.
 
 ## Cited in philosophy parallels
 

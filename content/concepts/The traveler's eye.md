@@ -15,7 +15,7 @@ The traveler's eye is the outsider's way of seeing that Montesquieu built into t
 
 ### The reversal
 
-The letter's turn is the device in miniature. Rica changes out of his Persian dress to see what remains of the fascination, and the attention vanishes with the clothes:
+On the compendium's reading, the letter's turn is the device in miniature. Rica changes out of his Persian dress to see what remains of the fascination, and the attention vanishes with the clothes:
 
 > "I sank immediately into the merest nonentity. Sometimes I would be as much as an hour in a given company, without attracting the least notice, or having an opportunity given me to speak; but, if any one chanced to inform the company that I was a Persian I soon overheard a murmur all round me, \"Oh! ah! A Persian, is he? Most amazing! However can anybody be a Persian?\"" (Rica, Letter 30, [Davidson trans., Wikisource](https://en.wikisource.org/wiki/Persian_Letters/Letter_30))
 
@@ -27,14 +27,14 @@ The Parisians stare at the foreigner and cannot imagine being him. The satire cu
 
 ## Related concepts
 
-- [[Beginner's mind]] — the contemplative cousin: seeing without the layer of prior naming.
-- [[The theory-ladenness of observation]] — what the traveler's lack of local theory buys: fewer assumptions organising the seeing.
-- [[Duck-rabbit seeing-as]] — another case where what flips is the seeing, not the picture.
+- [[Beginner's mind]]
+- [[The theory-ladenness of observation]]
+- [[Duck-rabbit seeing-as]]
 
 ## Sources
 
 - [Montesquieu, Persian Letters, Letter 30, John Davidson translation (1899), Wikisource](https://en.wikisource.org/wiki/Persian_Letters/Letter_30) — Rica's letter on the curiosity of Parisians, both quoted passages.
-- Montesquieu, Persian Letters — book citation carried from the original entry; the Davidson translation above carries the quoted passages.
+- Montesquieu, Persian Letters (1721) — the work quoted above, in the Davidson translation.
 
 ## Cited in philosophy parallels
 

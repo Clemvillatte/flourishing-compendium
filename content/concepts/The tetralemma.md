@@ -28,7 +28,7 @@ And the upshot of rejecting all four:
 ## Sources
 
 - [Westerhoff JC. Nāgārjuna. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nagarjuna/) — the four-ways-of-causal-production passage and the svabhāva conclusion.
-- Nagarjuna, Mulamadhyamakakarika — book citation carried from the original entry; the Stanford Encyclopedia entry carries the relevant Mūlamadhyamakakārikā discussion.
+- Nagarjuna, Mūlamadhyamakakārikā — the work discussed in the Stanford Encyclopedia entry above.
 
 ## Cited in philosophy parallels
 

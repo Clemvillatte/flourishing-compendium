@@ -15,11 +15,11 @@ The tool-being of equipment is Heidegger's account, in Being and Time (1927), of
 
 ### What equipment is
 
-A hammer is hammering-toward-nails, and nails are toward boards, boards toward a house, the house toward dwelling. The quoted sentence gives the structure: each item is what it is only inside a totality of equipment, and each is an in-order-to. Heidegger adds that this is what makes equipment available in the first place:
+The p. 97 text supplies its own examples: "Equipment—in accordance with its equipmentality—always is *in terms of* [*aus*] its belonging to other equipment: ink-stand, pen, ink, paper, blotting pad, table, lamp, furniture, windows, doors, room." An item of equipment is what it is in terms of that belonging. Heidegger adds that this is what makes equipment available in the first place:
 
 > "Only because equipment has *this* 'Being-in-itself' and does not merely occur, is it manipulable in the broadest sense and at our disposal." (Being and Time §15, Macquarrie & Robinson trans., [p. 98](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.098.html))
 
-The companion idea is readiness-to-hand (Zuhandenheit): the mode of being equipment has while it is working, discussed on its own page. The two are separable for the wiki's purposes: this page names the being equipment has; that page names how it shows up in skilled use, and how it hides until it breaks.
+The companion idea is readiness-to-hand (Zuhandenheit), the mode of being equipment has while it is in use, discussed on its own page.
 
 ### In the compendium
 
@@ -30,13 +30,13 @@ The companion idea is readiness-to-hand (Zuhandenheit): the mode of being equipm
 - [[Ready-to-hand]] — the mode of being equipment has while in use; the hammer passage of Being and Time §15.
 - [[Present-at-hand]] — the contrasting mode in which equipment appears as an object with properties.
 - [[Equipment revealed only in breakdown]] — the equipmental web becomes visible when a tool fails.
-- [[Affordances]] — psychology's parallel: what an environment offers for action is a property of the relation, not of the object alone.
+- [[Affordances]]
 
 ## Sources
 
 - [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 97](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.097.html) — the "no such thing as an equipment", totality and "something in-order-to" sentences.
 - [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 98](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.098.html) — the "Being-in-itself" and manipulability sentences.
-- Heidegger, Being and Time — book citation carried from the original entry; the translation pages above carry the quoted passages.
+- Heidegger, Being and Time (Macquarrie & Robinson translation) — the work quoted above; the translation pages above carry the quoted passages.
 
 ## Cited in philosophy parallels
 

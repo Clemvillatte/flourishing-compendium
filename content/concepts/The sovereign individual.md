@@ -33,7 +33,7 @@ The sovereign individual is what this breeding task is for. Section 2 calls what
 ## Sources
 
 - [Nietzsche F. On the Genealogy of Morals (Gutenberg, Horace B. Samuel translation)](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm) — Second Essay §2; corrects the original entry's Beyond Good and Evil attribution.
-- Nietzsche, Beyond Good and Evil — carried from the original entry; the sovereign-individual passage is located in On the Genealogy of Morals II.2, not in Beyond Good and Evil.
+- Nietzsche, Beyond Good and Evil — cited in the original entry; the sovereign-individual passage is located in On the Genealogy of Morals II.2, not in Beyond Good and Evil.
 
 ## Cited in philosophy parallels
 

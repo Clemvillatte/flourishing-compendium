@@ -11,19 +11,19 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The transformation of consciousness is the compendium's heading for what Karl Jaspers described as the decisive change of the Axial Period: across China, India and the West, in the centuries between 800 and 200 B.C., human consciousness took on a new character. Jaspers dates the axis:
 
-> "It would seem that this axis of history is to be found in the period around 500 B.C., in the spiritual process that occurred between 800 and 200 B.C. It is there that we meet with the most deep-cut dividing line in history. Man, as we know him today, came into being. For short we may style this the 'Axial Period'." (Jaspers, [The Origin and Goal of History](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf), Bullock trans.)
+> "It would seem that this axis of history is to be found in the period around 500 B.C., in the spiritual process that occurred between 800 and 200 B.C. [...] Man, as we know him today, came into being. For short we may style this the 'Axial Period'." (Jaspers, [The Origin and Goal of History](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf), Bullock trans., printed p. 1)
 
 ### What changed
 
 The change is not a new doctrine but a new stance toward everything taken for granted:
 
-> "What is new about this age, in all three areas of the world, is that man becomes conscious of Being as a whole, of himself and his limitations." (Jaspers, [The Origin and Goal of History](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf))
+> "What is new about this age, in all three areas of the world, is that man becomes conscious of Being as a whole, of himself and his limitations." (Jaspers, [The Origin and Goal of History](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf), printed p. 2)
 
 Once consciousness turns on itself, the inherited material loses its immunity:
 
-> "As a result of this process, hitherto unconsciously accepted ideas, customs and conditions were subjected to examination, questioned and liquidated." (Jaspers, [The Origin and Goal of History](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf))
+> "As a result of this process, hitherto unconsciously accepted ideas, customs and conditions were subjected to examination, questioned and liquidated." (Jaspers, [The Origin and Goal of History](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf), printed p. 2)
 
-Jaspers' own claim about the legacy: "In this age were born the fundamental categories within which we still think today, and the beginnings of the world religions, by which human beings still live, were created." The transformation is thus not one event among others in his history; it is the line that made the questions of wisdom, suffering and the good life explicit questions.
+Jaspers' own claim about the legacy: "In this age were born the fundamental categories within which we still think today, and the beginnings of the world religions, by which human beings still live, were created." (printed p. 2) That the axial shift is where questions of wisdom, suffering and the good life became explicit questions is the compendium's use of his thesis, not his sentence.
 
 The original entry names Jaspers' Philosophy; the passages above are carried from The Origin and Goal of History, the work in which he states the thesis.
 
@@ -39,8 +39,8 @@ The original entry names Jaspers' Philosophy; the passages above are carried fro
 
 ## Sources
 
-- [Jaspers K. The Origin and Goal of History (Bullock translation, full-text scan)](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf) — the Axial Period dating, the new-consciousness and examination passages, and the fundamental-categories sentence.
-- Jaspers, Philosophy — book citation carried from the original entry; the scan above carries the quoted passages.
+- [Jaspers K. The Origin and Goal of History (Bullock translation, full-text scan)](https://mercaba.org/SANLUIS/Filosofia/autores/Contempor%C3%A1nea/Jaspers/The%20origin%20and%20goal%20of%20History.pdf) — the Axial Period dating (printed p. 1), the new-consciousness and examination passages and the fundamental-categories sentence (printed p. 2).
+- Jaspers, Philosophy — the book named in the original entry; the quoted passages come from The Origin and Goal of History.
 
 ## Cited in philosophy parallels
 

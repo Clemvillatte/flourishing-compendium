@@ -35,7 +35,7 @@ And the first chapter supplies the underlying division of what is and is not our
 ## Sources
 
 - [Epictetus. A Selection from the Discourses of Epictetus with the Encheiridion, trans. George Long (Project Gutenberg)](https://www.gutenberg.org/files/10661/10661-h/10661-h.htm) — Encheiridion chapters I and V, opened and fetched verbatim for this page.
-- Epictetus, Enchiridion, the doctrine of the impression — carried from the original entry; verified against the opened Long translation.
+- Epictetus, Enchiridion, the doctrine of the impression — cited in the original entry; verified against the Long translation.
 
 ## Cited in philosophy parallels
 

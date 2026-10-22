@@ -35,7 +35,7 @@ Herman's stages of recovery are summarised in the same source:
 ## Sources
 
 - [Ratcliffe M, Ruddell M, Smith B (2014). What is a "sense of foreshortened future?" Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4166378/) — quotes Herman (1992/1997, p. 51) verbatim with locator.
-- Herman, Trauma and Recovery — book citation carried from the original entry; the book itself was not independently consulted, so quotes are carried through the peer-reviewed source with page locators.
+- Herman, Trauma and Recovery — the book named in the original entry; quoted here at second hand through the peer-reviewed source with page locators.
 
 ## Cited in philosophy parallels
 

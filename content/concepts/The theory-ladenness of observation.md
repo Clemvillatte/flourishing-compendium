@@ -36,7 +36,7 @@ The same entry is careful about what the thesis does not establish. On its accou
 ## Sources
 
 - [Boyd N, Bogen J. Theory and Observation in Science. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/science-theory-observation/) — the Hanson p. 19 claim and the limits discussion.
-- Hanson, Patterns of Discovery — book citation carried from the original entry; the page rests on the Stanford Encyclopedia's account of the thesis.
+- Hanson, Patterns of Discovery (1958) — the book in which the thesis is argued; quoted here through the Stanford Encyclopedia's account.
 
 ## Cited in philosophy parallels
 
