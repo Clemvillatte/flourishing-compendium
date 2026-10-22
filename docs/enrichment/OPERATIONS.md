@@ -461,3 +461,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   printed page break, "27 SEPTEMBER 1974" header between the two halves; the joined
   text matches the page quote exactly). Sample PASS. Five samples from four live
   bands (w1y x2, w1t, w1u, k1a) all PASS.
+- Supervisor verification sample 6 (2026-10-22 ~14:55 UTC): Feedback intervention
+  research (w1u's recent output) — the Kluger & DeNisi 1996 abstract quote checked
+  against the opened HUJI research-registry page (carries the abstract). Verbatim.
+  Sample PASS. Six samples from four live bands (w1y x2, w1t, w1u x2, k1a) all PASS.
