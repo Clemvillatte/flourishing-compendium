@@ -9,12 +9,25 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Knowledge as construction” — Kant, Critique of Pure Reason.
 
-## Sources
+Kant's Copernican move makes the knower a contributor to the known. The mind brings forms that the world of experience then fills, and knowledge is the joint product. The Critique's own summary of the cooperation:
 
-- Kant, Critique of Pure Reason
+> "Without the sensuous faculty no object would be given to us, and without the understanding no object would be thought. Thoughts without content are void; intuitions without conceptions, blind." ([Kant, Critique of Pure Reason, A51/B75, Meiklejohn translation](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm))
+
+### The mind prescribes laws
+
+The constructive claim runs deeper than cooperation. Of the categories, Kant writes that they are "conceptions which prescribe laws à priori to phenomena, consequently to nature as the complex of all phenomena," and he presents the understanding as "prescribing laws to nature and even of rendering nature possible." The governing principle of the whole method: "we only cognize in things à priori that which we ourselves place in them."
+
+### What construction does not mean
+
+The view is not the claim that the mind invents the world. Objects are still given, in intuition; what is constructed is their form and their combination. The compendium's psychological principle makes the transfer explicit in [[CO008 — Understand that thinking is constructivist — you build your understanding]], and the neighboring principles extend the construction from knowledge to persons and to the self itself: personhood understood as something built, and the ultimate nature of the self recognized as a useful construction.
 
 [[SE080 — Recognise the ultimate nature of self — a useful construction]]
 [[M016 — Understand personhood as something built]]
+
+## Sources
+
+- [Kant, I. (1781/1787). Critique of Pure Reason, tr. J. M. D. Meiklejohn — Project Gutenberg (full text)](https://www.gutenberg.org/files/4280/4280-h/4280-h.htm)
+
 ## Cited in philosophy parallels
 
 - [[CO008 — Understand that thinking is constructivist — you build your understanding]]
