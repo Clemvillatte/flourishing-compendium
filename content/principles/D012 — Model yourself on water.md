@@ -20,7 +20,7 @@ Chapters 61 and 66 extend the low-place geometry. The rivers and seas are able t
 
 Chapter 78 adds the payoff: nothing in the world is softer or weaker than water, yet for attacking things firm and strong nothing takes precedence of it; everyone knows the soft overcomes the hard, though no one carries it out in practice ([DDJ 78, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-Read as practical advice, these passages connect benefiting others with accepting a low position and acting without contention. Chapter 8 ends with the text's account of non-contention: the person of highest excellence does not wrangle about a low position, so no one finds fault with him ([DDJ 8, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
+Read as practical advice, these passages connect benefiting others with accepting a low position and acting without contention. Chapter 8 ends with [[Non-contention|the text's account of non-contention]]: the person of highest excellence does not wrangle about a low position, so no one finds fault with him ([DDJ 8, Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
 (DDJ 8, 61, 66, 78.)
 

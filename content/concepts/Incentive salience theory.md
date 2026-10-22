@@ -29,9 +29,10 @@ An Annual Review of Psychology article evaluates the theory "30 years on", compa
 
 ## Related concepts
 
+
 - [[Reward prediction error (Schultz)]] — the wanting system the error signal feeds
 - [[Hedonic adaptation]] — a nearby topic on how pleasure from rewards fades
-
+- [[Neurobiology of addiction]] — includes exaggerated incentive salience in its three-stage account of addiction
 ## Sources
 
 - [Berridge and Robinson, "Liking, Wanting, and the Incentive-Sensitization Theory of Addiction", American Psychologist, 2016 (PDF)](https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/2016-Berridge-Robinson-Liking-wanting-IS-theory-of-addiction-Am-Psychol.pdf)

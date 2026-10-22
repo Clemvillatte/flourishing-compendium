@@ -21,9 +21,10 @@ The formula that keeps recurring in the dialogue is "doing one's own business, a
 
 ## Related concepts
 
+
 - [[Cardinal virtues]] — dikaiosyne is one of the four
 - [[Phronesis]] — the practical wisdom that directs it
-
+- [[A023]] — the principle's Aristotelian virtue term
 ## Sources
 
 - Aristotle, Nicomachean Ethics, Book V (Ross translation) — [Internet Classics Archive](http://classics.mit.edu/Aristotle/nicomachaen.5.v.html) — complete-virtue-in-relation-to-another passages

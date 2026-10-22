@@ -23,12 +23,13 @@ Asch himself read the result as a civic warning, not a curiosity:
 
 ## Related concepts
 
+
 - [[Obedience research]] — the authority-driven cousin; Asch's confederates are peers, Milgram's are not.
 - [[Groupthink theory]] — what happens when conformity takes over a decision-making group.
 - [[Social contagion]] — the normative-pressure version.
 - [[Escape from freedom]] — Fromm's account of why adopting a prescribed personality can feel easier than standing alone.
 - [[Individuality]] — what conformity trades away.
-
+- [[Social Impact Theory]] — Latané's force law is the structural account of the conformity effect the page describes
 ## Sources
 
 - [Wikipedia, "Asch conformity experiments"](https://en.wikipedia.org/wiki/Asch_conformity_experiments) — the 35.7% figure, the 74%/26% split, the normative-influence definition.

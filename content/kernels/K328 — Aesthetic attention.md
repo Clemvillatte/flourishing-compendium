@@ -15,3 +15,8 @@ Spend ten minutes with a work of art, a piece of music, a natural scene, or a cr
 ## Operationalises
 
 [[E010 — Practise the constitution of meaning|E010 Practise the constitution of meaning]], [[A035 — Cultivate art and craft (techne)|A035 Cultivate art and craft (techne)]], [[R065 — Practise the extension of knowledge (zhizhi)|R065 Practise the extension of knowledge (zhizhi)]]
+
+
+## Related concepts
+
+- [[Neuroaesthetics]] — studies the biological bases of aesthetic experiences

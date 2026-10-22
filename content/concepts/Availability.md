@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Availability” — Marcel, Being and Having.
 
+## Related concepts
+
+- [[Participation]] — Marcel's disponibilité, the interpersonal form of participation
+
 ## Sources
 
 - Marcel, Being and Having

@@ -21,8 +21,9 @@ In the compendium, A063 carries the necessity-for-flourishing claim, A064 the th
 
 ## Related concepts
 
-- [[A063]] — the principle that carries philia's necessity-for-flourishing claim
 
+- [[A063]] — the principle that carries philia's necessity-for-flourishing claim
+- [[A078]] — Aristotle's character-friendship account in NE VIII.3
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Books VIII-IX (1892 English edition, Cornell University Library scan, Internet Archive)](https://archive.org/details/cu31924012537001) — the verbatim VIII.1 opening, the VIII.3 utility/pleasure passages and the VIII.4 perfect-friendship passage

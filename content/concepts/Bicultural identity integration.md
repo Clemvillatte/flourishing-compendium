@@ -29,9 +29,10 @@ The two dimensions do different work. Distance versus overlap concerns how separ
 
 ## Related concepts
 
+
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]]
 - [[Acculturation theory Berry]]
-
+- [[Orthogonal Cultural Identification Theory]] — cultural identifications as independent dimensions
 ## Sources
 
 - [Benet-Martínez and Haritatos, Bicultural identity integration (BII): components and psychosocial antecedents (J Pers 73(4):1015-49, 2005), abstract](https://pubmed.ncbi.nlm.nih.gov/15958143/) — the blockquote and findings above

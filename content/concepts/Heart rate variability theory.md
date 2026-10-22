@@ -30,6 +30,7 @@ Biophysiological · Psychological science
 
 
 
+
 - [[Interoception]] — perceiving the internal signals HRV theory indexes
 - [[Self-regulation]] — the capacity the model indexes
 - [[Equanimity]] — the meditative analogue of autonomic balance
@@ -40,6 +41,7 @@ Biophysiological · Psychological science
 - [[Slow-paced breathing]] — the signal slow breathing increases
 - [[Parasympathetic activation]] — HRV is presented as an index of cardiac vagal tone and self-regulation, the parasympathetic territory this page covers.
 - [[BI062]] — the tracking practice built on the HRV marker, with the device-limitation evidence
+- [[Polyvagal theory (Porges)]] — Porges treats respiratory sinus arrhythmia as an index of ventral vagal tone and social engagement, while critics call equating RSA with cardiac vagal tone a category mistake (Ryle, 1949)
 ## Sources
 
 - [Park & Thayer 2014, "From the heart to the mind: cardiac vagal tone modulates top-down and bottom-up visual perception and attention to emotional stimuli," Frontiers in Psychology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4013470/)

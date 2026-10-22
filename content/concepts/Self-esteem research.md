@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 healthy self-esteem correlates with well-being when it is secure rather than fragile (Kernis, 2003).
 
+## Related concepts
+
+- [[Self-verification theory (Swann)]] — self-verification competes with the self-enhancement motive that anchors classic self-esteem findings
+
 ## Sources
 
 - Kernis, 2003

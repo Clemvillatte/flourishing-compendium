@@ -20,11 +20,14 @@ The compendium's [[B025 — Practice right livelihood]] and [[B152 — Align you
 ## Related concepts
 
 
+
+
 - [[B025 — Practice right livelihood]]: the Buddhist principle this research operationalizes
 - [[Person-environment fit]]: the umbrella construct
 - [[Values clarification]]: the practice of finding out what you actually value before matching
 - [[Purpose-linked practice]]: the companion way work becomes personal
-
+- [[Person-role fit research]] — the fit research family: whole workplace rather than role
+- [[Organizational research]] — the fit research family this survey page maps
 ## Sources
 - Kristof-Brown, A. L., Zimmerman, R. D., & Johnson, E. C. (2005). Consequences of individuals' fit at work: A meta-analysis of person-job, person-organization, person-group, and person-supervisor fit. Personnel Psychology, 58(2), 281–342. (Wiley: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1744-6570.2005.00672.x)
 

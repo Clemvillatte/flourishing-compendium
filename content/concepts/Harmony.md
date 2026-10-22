@@ -35,6 +35,10 @@ All three uses share a core: harmony requires parts that differ. There is no att
 - [[Confucian role ethics]] — the relational background of the Confucian sense
 - [[Ordering the soul]] — the Platonic side of the family
 
+## Related concepts
+
+- [[Ordering the soul]] — the musical figure the ordering is built on
+
 ## Sources
 
 - [Sassi, M. M. (2015). How Musical was Heraclitus' Harmony? A reassessment of 22 B 8, 10, 51 DK. Rhizomata — full text PDF (University of Pisa repository)](https://arpi.unipi.it/bitstream/11568/751024/2/Heraclitus'Harmony.%20rhiz-2015-0002.pdf)

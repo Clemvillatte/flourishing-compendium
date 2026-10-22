@@ -17,6 +17,10 @@ Book III.2 works by subtraction: choice is not appetite or anger, not wish, and 
 
 The word later moved to the centre of Stoic teaching: for Epictetus, prohairesis is the faculty that distinguishes human beings, and the only thing fully in our power ([Wikipedia, Prohairesis](https://en.wikipedia.org/wiki/Prohairesis)). The compendium's principles use the Aristotelian sense: A054 (Choose deliberately) builds on the subtraction passage, and S056 lists the concept among its philosophy parallels.
 
+## Related concepts
+
+- [[A053]] — NE III.2 distinguishes deliberate choice from voluntary action
+
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Book III, trans. W.D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — the verbatim passages from chapters 2 and 3

@@ -31,11 +31,12 @@ The error signal is not a curiosity; it is how learning gets its direction. In S
 
 ## Related concepts
 
+
 - [[Temporal-difference reinforcement learning]] — the algorithm family whose error term the dopamine signal matches
 - [[Incentive salience theory]] — the wanting system this signal feeds
 - [[K278 — Wanting-versus-liking separation]] — the dissociation the error signal's effects run on
 - [[Novelty research]] — novelty's grip on the same surprise channel
-
+- [[Neurobiology of addiction]] — a three-stage neurocircuitry account of addiction
 ## Other formulations in this library
 
 

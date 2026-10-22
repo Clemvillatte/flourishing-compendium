@@ -19,10 +19,11 @@ Gouldner's classic statement gives the norm its two demands: help those who have
 
 
 
+
 - [[Gratitude]] — the exchange structure gratitude sits in and can exceed
 - [[SO039]] — Axelrod's durability-of-relationship account of reciprocal cooperation
 - [[SP071]] — Spinoza's IV, P70 identifies the estimate-mismatch mechanism inside reciprocity: the giver values the benefit by his own estimate, and undervalued thanks converts to pain and offence.
-
+- [[Reciprocity norm theory Gouldner]] — the theory is the classic formal statement of the reciprocity idea this page covers
 ## Sources
 
 - Cialdini, 2001

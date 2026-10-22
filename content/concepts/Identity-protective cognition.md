@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 political and moral beliefs processed as identity threats (Kahan, 2013).
 
+## Related concepts
+
+- [[Self-verification theory (Swann)]] — both describe resisting information that threatens an established picture of who one is
+
 ## Sources
 
 - Kahan, 2013

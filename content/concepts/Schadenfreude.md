@@ -31,12 +31,13 @@ The pleasure is real and the price is social. A study of how schadenfreude expre
 
 ## Related concepts
 
+
 - [[Mudita (sympathetic joy)]] — listed for comparison: joy in another's good fortune is the mirror practice
 - [[SP036]] — Spinoza's account of pleasure arising from thinking too little of someone
 - [[Envy]] — the upstream emotion that disposes toward pleasure at the envied person's fall
 - [[Benign versus malicious envy]] — the envy pages sort the routes by which another's standing can be felt
 - [[Malicious envy]] — the pull-the-other-down motivation that schadenfreude rewards
-
+- [[Self-Evaluation Maintenance Theory]] — a neighboring research line on the self-evaluation threat the model describes
 ## Sources
 
 - Smith, R. H., Powell, C. A. J., Combs, D. J. Y., & Schurtz, D. R. (2009). "Exploring the When and Why of Schadenfreude." Social and Personality Psychology Compass 3(4): 530-546. [PDF](http://www.gruberpeplab.com/teaching/psych3131_summer2015/documents/6.1_Smith2009_ExploringWhenAndWhyOfSchadenfreude.pdf)

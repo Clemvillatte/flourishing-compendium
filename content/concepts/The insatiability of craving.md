@@ -34,10 +34,11 @@ Two modern findings restate the structure. The hedonic treadmill: "as a person m
 
 ## Related concepts
 
+
 - [[Tanha]] — the Buddhist name for craving
 - [[The craving-to-addiction model]] — the addiction-science model of wanting
 - [[Desire]] — the general concept this page gives a structure to
-
+- [[Neurobiology of addiction]] — includes a preoccupation/anticipation stage involving craving
 ## Sources
 
 - Schopenhauer

@@ -29,11 +29,12 @@ Bowlby's late formulation widens the scope to the whole of life: all of us, from
 
 ## Related concepts
 
+
 - [[Attachment theory]] — the theory whose central organizational concept this is
 - [[Rootedness]] — the need for rootedness that the base answers in development
 - [[Restorative environments]] — environments as bases for the restoration of attention
 - [[Being-at-home]] — the dwelling-side analogue of a base one returns to
-
+- [[Social embeddedness]] — Baumeister and Leary's two criteria (frequency + stable affective concern) are the adult-adaptation reading of the secure-base bond
 ## Sources
 
 - Waters, E., & Cummings, E. M. (2000). "A Secure Base From Which To Explore Close Relationships." [PDF](https://psychology.psy.sunysb.edu/attachment/online/waters_cummings.pdf)

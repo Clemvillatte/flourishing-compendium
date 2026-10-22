@@ -34,10 +34,11 @@ These results concern electrical-stimulus intensity and discrimination learning 
 
 ## Related concepts
 
+
 - [[PEN Model]]
 - [[Optimal arousal]] — the level of activation the regulation aims at
 - [[Arousal reinterpretation]] — changing what arousal is taken to mean
-
+- [[Sensation seeking]] — the arousal side of the appetite for intensity
 ## Sources
 
 - Yerkes-Dodson

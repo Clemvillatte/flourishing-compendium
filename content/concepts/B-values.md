@@ -9,6 +9,10 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “B-values” — Maslow, Toward a Psychology of Being.
 
+## Related concepts
+
+- [[Schwartz]] — Maslow's list of values worth living by, a cousin from humanistic psychology
+
 ## Sources
 
 - Maslow, Toward a Psychology of Being

@@ -12,8 +12,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 - Diener and Seligman, 2002
 ## Related concepts
 
-- [[Agape]] — listed for comparison
 
+- [[Agape]] — listed for comparison
+- [[Schwartz]] — one of the ten basic values in Schwartz's circle, on the self-transcendence side
 ## Sources
 
 - Hume, An Enquiry Concerning the Principles of Morals

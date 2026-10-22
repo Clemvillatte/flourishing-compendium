@@ -25,6 +25,10 @@ When experts judge risk, their responses correlate highly with technical estimat
 
 - perceived control and familiarity inflate risk tolerance (Slovic, 1987)
 
+## Related concepts
+
+- [[Sensation seeking]] — how risks are weighed, the trait's willingness half
+
 ## Sources
 
 - Slovic, 1987

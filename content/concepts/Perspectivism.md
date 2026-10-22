@@ -28,9 +28,10 @@ The same book gives the counter-move in the aphorism on the perspective that fla
 
 ## Related concepts
 
+
 - [[Will to power]]
 - [[Self-distancing]]
-
+- [[Ontological relativity]] — every description is from somewhere; the older family of views
 ## Sources
 
 - [Nietzsche, The Joyful Wisdom ("La Gaya Scienza"), trans. Thomas Common (Project Gutenberg #52124)](https://www.gutenberg.org/ebooks/52124) — aphorisms 299 and 78, quoted verbatim

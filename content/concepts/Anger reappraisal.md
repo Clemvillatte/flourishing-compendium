@@ -32,13 +32,14 @@ When used to down-regulate negative emotions, the review finds reappraisal leads
 
 ## Related concepts
 
+
 - [[Anger regulation research]] — reappraisal evidence applied to the specific case of anger
 - [[Cognitive reappraisal]] — the parent strategy this page applies to anger
 - [[Rumination]] — the rehearse-the-grievance mode Bushman's experiment caught increasing anger
 - [[Catharsis]] — the venting theory the experiment contradicts
 - [[Reappraisal's effectiveness depends on controllability]] — Gross discusses controllable stressors as a context in which reappraisal can be less adaptive than it is for uncontrollable stressors
 - [[Anger examined early]] — the early-examination practice the compendium pairs with interpretation change
-
+- [[Self-conscious emotions]] — reworking appraisals, the same lever in a different emotion family
 ## Sources
 
 - [Gross, J. J., "Emotion regulation: Current status and future prospects" (2015), Psychological Inquiry 26(1), 1-26](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — the cognitive-change definition (Cognitive Change subsection), the down-regulation findings, the intensity limit, and the controllability moderation (all verified against the opened PDF)

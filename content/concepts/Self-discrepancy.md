@@ -25,11 +25,12 @@ Within Higgins's framework, one question the theory suggests for a person in low
 
 ## Related concepts
 
+
 - [[SE003]] — listed for comparison
 - [[Self-Evaluation Maintenance Theory]] — the social side: other people's performance moves the same self-evaluations
 - [[Identity stability]] — the compendium's pages on how self-views hold or shift
 - [[Role model research]] — another theory of the gap between self and an outstanding other
-
+- [[Self-conscious emotions]] — a comparison between frameworks: Higgins's actual-ideal and actual-ought gaps beside the identity-goal appraisals
 ## Sources
 
 - Higgins, E. Tory. "Self-Discrepancy: A Theory Relating Self and Affect." Psychological Review 94, no. 3 (1987): 319-340. [Full text PDF](https://www.columbia.edu/cu/psychology/higgins/papers/HIGGINS=PSYCH%20REVIEW%201987.pdf)

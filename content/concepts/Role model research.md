@@ -27,11 +27,12 @@ The paper's evidence concerns self-views and reported inspiration; the applicati
 
 ## Related concepts
 
+
 - [[Self-Evaluation Maintenance Theory]] — the social-comparison question underneath this research: when another's success lifts or threatens the self
 - [[Exemplarism]] — the ethics tradition's version of the same two gates: attainable, relevant exemplars outperform extraordinary ones
 - [[Benign versus malicious envy]] — upward comparison that motivates rather than corrodes, the affective side of attainable models
 - [[Identity development]] — the long arc in which models are one input
-
+- [[Self-discrepancy]] — another theory of the gap between self and an outstanding other
 ## Sources
 
 - Lockwood, Penelope, and Ziva Kunda. "Superstars and Me: Predicting the Impact of Role Models on the Self." Journal of Personality and Social Psychology 73, no. 1 (1997): 91-103. [Full text PDF](https://persweb.wabash.edu/facstaff/hortonr/articles%20for%20class/lockwood%20and%20kunda.pdf)

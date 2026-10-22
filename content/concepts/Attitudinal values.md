@@ -19,6 +19,10 @@ Frankl fences the claim before he makes it: suffering is not being recommended. 
 
 The claim was earned, not theorized. Of the camp prisoners who "walked through the huts comforting others, giving away their last piece of bread", Frankl writes that they offer "sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances, to choose one's own way" (same text).
 
+## Related concepts
+
+- [[Schwartz]] — Frankl's values of stance toward suffering, a different axis of the same question
+
 ## Sources
 
 - Frankl, Man's Search for Meaning

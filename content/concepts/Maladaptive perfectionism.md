@@ -21,9 +21,10 @@ Hewitt and Flett (1991) described three dimensions of perfectionism: self-orient
 
 ## Related concepts
 
+
 - [[Harsh self-criticism]] — a companion process in the unhealthy pattern
 - [[Impostor-phenomenon research]] — the never-good-enough feeling it shares a family with
-
+- [[Perfectionism research]] — the Hewitt-Flett research on the three dimensions of perfectionism
 ## Sources
 
 - [Kozłowska and Kuty-Pachecka, "When perfectionists adopt health behaviors: perfectionism and self-efficacy as determinants of health behavior, anxiety and depression", Current Issues in Personality Psychology (2022), PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10699297/) — the unhealthy-perfectionism characterization, Hewitt and Flett's three dimensions, the socially prescribed perfectionism and depression association, and the psychological distress association, verbatim

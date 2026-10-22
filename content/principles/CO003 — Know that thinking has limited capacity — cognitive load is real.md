@@ -45,7 +45,7 @@ The principle lists "distraction" and "fatigue" too. None of the abstracts above
 ## Philosophy parallels
 
 - **[[The limits of reason|The limits of reason]]** (Hume, Treatise of Human Nature)
-- **[[Simplicity|Simplicity as a virtue]]** (Occam's Razor, William of Ockham)
+- **[[Simplicity|Simplicity as a virtue]]** ([[Ockham's razor|Occam's Razor, William of Ockham]])
 - **[[Wu wei|Wu wei as non-overload]]** (Daoism, Daodejing 48)
 
 ## Practice

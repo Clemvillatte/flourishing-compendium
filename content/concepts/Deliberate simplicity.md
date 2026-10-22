@@ -29,6 +29,10 @@ The chapter also recommends reducing the number of affairs one manages: "I say, 
 - [[X013 — Practice self-sufficiency as a scale, not as isolation]]: treats self-sufficiency as a matter of scale
 - [[X009 — Listen to the flesh's limits, and let them end the pursuit]]: attends to bodily limits
 
+## Related concepts
+
+- [[Ockham's razor]] — a simplicity criterion for comparing theories
+
 ## Sources
 
 - [Thoreau, H. D., Walden; or, Life in the Woods, chapter "Where I Lived, and What I Lived For"](https://www.gutenberg.org/cache/epub/205/pg205.txt): the live-deliberately sentence; the frittered-away-by-detail sentence; the simplify-simplify instruction; the thumb-nail arithmetic

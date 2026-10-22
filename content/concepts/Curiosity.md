@@ -27,12 +27,14 @@ Golman and Loewenstein describe the information-gap account: "In a review of the
 
 
 
+
 - [[Epistemic curiosity]]
 - [[Intrinsic motivation]]
 - [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside
 - [[Beginner's mind]] — the Zen practice of meeting experience as if for the first time
 - [[Creative evolution]] — Bergson's 1907 account of life as genuinely new
+- [[Sensation seeking]] — a neighboring disposition in the compendium's map of novelty-seeking traits
 ## Sources
 
 - Wikipedia Curiosity: https://en.wikipedia.org/wiki/Curiosity (inherited seed citation, not opened)

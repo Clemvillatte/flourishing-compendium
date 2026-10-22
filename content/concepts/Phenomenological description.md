@@ -25,10 +25,11 @@ Linked principles such as E003 (the natural attitude and its suspension) fit the
 
 ## Related concepts
 
+
 - [[Phenomenological methods in psychology]] — listed for comparison
 - [[Phenomenological psychology]] — listed for comparison
 - [[Phenomenological seeing]] — listed for comparison
-
+- [[E007]] — neighbouring method for comparison; not asserted identical to eidetic variation
 ## Sources
 
 - [Merleau-Ponty, Phenomenology of Perception, trans. Colin Smith (Routledge), Preface (full text on the Internet Archive)](https://archive.org/stream/merleaupontyphenomenologyofperception/Merleau-Ponty%20-%20Phenomenology%20of%20Perception_djvu.txt) — both Merleau-Ponty quotations

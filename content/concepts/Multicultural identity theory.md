@@ -22,11 +22,12 @@ The compendium's [[SE040 — Recognise identity and culture — your self is cul
 ## Related concepts
 
 
+
 - [[SE040 — Recognise identity and culture — your self is culturally shaped]]: the compendium principle this theory grounds
 - [[R111 — Practise the recognition of difference]]: the relational practice of holding two frames
 - [[The culturally embedded self]]: the companion concept for how culture shapes the self
 - [[Relational-interdependent self-construal]]: Cross's account of the self that is defined in relation rather than in isolation
-
+- [[Orthogonal Cultural Identification Theory]] — models allowing several identities
 ## Sources
 - Berry, J. W. (1997). Immigration, acculturation, and adaptation. Applied Psychology: An International Review, 46(1), 5–34.
 - Berry, J. W. (2005). Acculturation: Living successfully in two cultures. Applied Psychology, 29(4), 697–712. (PDF: https://dl.icdst.org/pdfs/files/6bb45352e822a3d8be6ac473b7232639.pdf)

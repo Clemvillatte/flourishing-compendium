@@ -28,11 +28,12 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[SE050]] — A comparison with SE050 on how others' performance enters self-evaluation
 - [[Role model research]] — Lockwood and Kunda's study of when another's excellence lifts or deflates the self, in the role-model register
 - [[Envy]] — one affect the comparison process can produce when a close other excels in a self-relevant domain
 - [[Schadenfreude]] — a neighboring research line on the self-evaluation threat the model describes
-
+- [[Self-discrepancy]] — the social side of self-evaluation: other people's performance moves the same self-evaluations Higgins's gaps describe
 ## Sources
 
 - Tesser, A., & Campbell, J. (1982). "Self-Definition: A Self-Evaluation Maintenance Strategy." [ERIC full text ED226263](https://files.eric.ed.gov/fulltext/ED226263.pdf)

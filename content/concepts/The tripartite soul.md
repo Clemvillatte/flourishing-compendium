@@ -34,8 +34,9 @@ The conclusion is put as a question the dialogue then answers: "we have alighted
 
 ## Related concepts
 
-- [[The many selves]] — the plural self in James's account
 
+- [[The many selves]] — the plural self in James's account
+- [[Ordering the soul]] — the three principles the Republic binds into one
 ## Sources
 
 - [Plato, The Republic, trans. Benjamin Jowett, Project Gutenberg #1497](https://www.gutenberg.org/cache/epub/1497/pg1497.txt) — the Leontius passage and the three-principles passages of book IV, opened and quoted verbatim

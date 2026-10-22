@@ -28,12 +28,13 @@ Maslach and Leiter locate the causes in the person-job mismatch rather than the 
 
 ## Related concepts
 
+
 - [[Acedia]] — the ancient cousin
 - [[Karasek]] — the demand-control account of strain
 - [[The job demands-resources model]] — the structural account
 - [[Work engagement]] — the opposite pole
 - [[The progress principle]] — progress in daily work
-
+- [[Perfectionism research]] — an outcome the perfectionism literature connects to the trait
 ## Sources
 
 - Maslach, C., & Leiter, M. P. (2016). Understanding burnout. World Psychiatry, 15(2), 103-104.

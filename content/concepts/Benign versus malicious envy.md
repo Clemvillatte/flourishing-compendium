@@ -37,11 +37,13 @@ Study 1 used guided recall in the Netherlands, a culture with separate words for
 
 
 
+
 - [[Benign envy]] — the moving-up form
 - [[Malicious envy]] — the pulling-down form
 - [[Social comparison]] — the upward comparison that splits envy's two forms
 - [[D117]] — D117's Daodejing 3 passage warns that rankings breed rivalry; the page distinguishes the forms envy then takes
 - [[SP016]] — Spinoza's account of emulation and its association with envy
+- [[Schadenfreude]] — the envy pages sort the routes by which another's standing can be felt, including its fall
 ## Sources
 
 - [van de Ven, N., Zeelenberg, M. & Pieters, R. (2009). Leveling up and down: the experiences of benign and malicious envy. Emotion, 9(3), 419-429. PubMed 19485619](https://pubmed.ncbi.nlm.nih.gov/19485619/) — the envy split, moving-up versus pulling-down, cross-language evidence

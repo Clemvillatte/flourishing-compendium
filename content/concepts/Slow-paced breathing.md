@@ -46,11 +46,13 @@ The 2023 Stanford trial is related evidence rather than a test of the review's r
 ## Related concepts
 
 
+
 - [[Heart rate variability theory]] — the signal the practice moves
 - [[Physiological sigh (Balban et al., Stanford)]] — the exhale-weighted form in its quickest unit
 - [[Pranayama]] — the tradition's own systematic account of paced breathing
 - [[Autonomic nervous system (sympathetic vs parasympathetic)]] — the system the vagal shift rides on
 - [[Parasympathetic activation]] — Slow-paced breathing is the practice this page's vagal-tone account draws on; both cite the same review.
+- [[Polyvagal theory (Porges)]] — slow breathing's parasympathetic shift is often framed in polyvagal terms, though Zaccaro et al. show the effect stands on its own evidence
 ## Cited in psychology parallels
 
 - [[D143 — Breathe like a baby]]

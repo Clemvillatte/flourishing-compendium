@@ -21,10 +21,11 @@ The Nonattachment Scale is a 30-item self-report measure of how nonattachment ap
 
 ## Related concepts
 
+
 - [[Cognitive flexibility]]
 - [[Non-attachment]] — the companion page for the same construct
 - [[Attachment theory]]: the interpersonal construct distinguished from nonattachment in the original scale paper ([Sahdra et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20155561/)).
-
+- [[Obsessive attachment]] — the Buddhist analysis of the same grip
 ## Sources
 
 - [Sahdra, Shaver and Brown, A Scale to Measure Nonattachment: A Buddhist Complement to Western Research on Attachment and Adaptive Functioning (2010), abstract](https://pubmed.ncbi.nlm.nih.gov/20155561/): definition, construct distinction and scale-development purpose.

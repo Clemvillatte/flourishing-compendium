@@ -33,11 +33,12 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
+
 - [[Impostor syndrome theory Clance Imes]] — an attribution pattern about one's own success
 - [[Fundamental attribution error]] — the signature bias of the internal habit
 - [[Appraisal theory]] — the neighbouring account of meaning and emotion
 - [[Cognitive reappraisal]] — the intervention side of changing explanations
-
+- [[Optimistic explanatory style]] — the broader psychology of explaining causes
 ## Sources
 
 - Heider, F. (1958). The Psychology of Interpersonal Relations. Wiley.

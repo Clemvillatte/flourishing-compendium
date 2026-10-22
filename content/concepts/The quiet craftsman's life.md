@@ -15,10 +15,11 @@ The quietness is twofold. The craftsman works without the noise of ambition, hav
 
 ## Related concepts
 
+
 - [[Wu wei]] — the effortless action the craftsman's skill matures into
 - [[Flow]] — the psychology of absorbed skilled activity
 - [[Craftsmanship research]] — the modern study of doing work well for its own sake
-
+- [[D141]] — the cook's careful handling of difficulty and preservation of his blade
 ## Sources
 
 - the series' Book II, principle 94

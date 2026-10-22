@@ -28,11 +28,12 @@ The compendium pairs relatedness with whanaungatanga (R026) and relational auton
 
 ## Related concepts
 
+
 - [[BE049 — Prioritise social connection — it is a basic need and health behaviour]] — listed for comparison
 - [[Competence]] — the companion need for felt effectiveness, with its own SDT literature
 - [[Social embeddedness]] — a neighbouring account of how social structure shapes the person
 - [[Social influences on motivation]] — how connection shapes what people want and internalize
-
+- [[A063]] — explicitly distinguished psychological comparison, not an equivalence with Aristotelian philia
 ## Sources
 
 - Deci and Ryan, 2000

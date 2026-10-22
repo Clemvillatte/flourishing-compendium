@@ -31,12 +31,18 @@ For habit and flourishing, phronesis names the skill the entire self-improvement
 
 
 
+
+
+
 - [[Virtue]] — Aristotle's name for the deliberative excellence virtue needs
 - [[Moral situation research]] — the experimental challenge that phronesis must answer
 - [[Moral identity]] — the practical wisdom that guides the moral self
 - [[MO034]] — grounds adaptive judgment about ends in Aristotle practical wisdom, the philosophical parallel MO034 names.
 - [[Wisdom]] — listed for comparison
 - [[Virtue ethics]] — the tradition that makes this wisdom central
+- [[Wisdom theory Berlin paradigm]] — an Aristotelian account of practical judgment, beside the Berlin paradigm's expertise-based scoring of responses to life problems
+- [[A091]] — practical wisdom distinguished from contemplation in the opened scholarly account
+- [[A037]] — the VI.12–13 contrast makes practical wisdom more than efficient means
 ## Sources
 
 - [Wikipedia, Phronesis](https://en.wikipedia.org/wiki/Phronesis) — the NE Book VI framework, the contrast with epistēmē and sophia, the young-geometers passage, and later uses including the Rhetoric, MacIntyre and the Aristotelian Phronesis Model.

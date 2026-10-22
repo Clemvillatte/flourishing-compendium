@@ -23,11 +23,12 @@ The condition Aristotle puts on the crown is the whole argument: "Now the man is
 
 ## Related concepts
 
+
 - [[Narcissism versus healthy self-regard]] — the emotion at the center of the fragile/secure distinction
 - [[Authentic versus hubristic pride]] — the two-facet model that splits this emotion into an achievement-oriented and a narcissistic form
 - [[Proper pride (megalopsychia)]] — the Aristotelian virtue this page quotes
 - [[Pride goes before destruction]] — the compendium's saying carrying the warning tradition
-
+- [[Self-conscious emotions]] — the positive member of the family, in both its hubristic and achievement forms
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Book IV chapter 3, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html) — the opened carrier of the quotations above.

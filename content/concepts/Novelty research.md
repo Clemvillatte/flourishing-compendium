@@ -23,10 +23,11 @@ The two findings converge: novelty is not processed as reward value but as salie
 
 ## Related concepts
 
+
 - [[Reward prediction error (Schultz)]] — novelty acts on the same surprise channel
 - [[Curiosity]] — the compendium's page on curiosity
 - [[Incentive salience theory]] — the compendium's page on incentive salience
-
+- [[Sensation seeking]] — the experimental study of the appetite for intensity the trait names
 ## Sources
 
 - [Zhang K, Chen CD, Monosov IE, "Novelty, Salience, and Surprise Timing Are Signaled by Neurons in the Basal Forebrain", Curr Biol 29(1):134-142, 2018 (epub Dec 20, 2018), PMID 30581022, PMC6901356](https://pmc.ncbi.nlm.nih.gov/articles/PMC6901356/) — the framing and findings, quoted verbatim from the abstract

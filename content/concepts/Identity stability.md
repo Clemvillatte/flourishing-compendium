@@ -31,6 +31,11 @@ The concept anchors a cluster of related entries and principles: [[Idem and ipse
 - [[Idem and ipse]] — the sameness-selfhood distinction in Ricoeur's terms
 - [[Self-verification theory (Swann)]] — the interpersonal side of the same question
 
+## Related concepts
+
+
+- [[Self-verification theory (Swann)]] — the theory's core rationale is that stable, confirmed self-views make the social world predictable
+- [[Self-discrepancy]] — the compendium's pages on how self-views hold or shift, beside Higgins's three domains
 ## Sources
 
 - [Erikson, E. H. (1968). Identity: Youth and Crisis. W. W. Norton — full text via Internet Archive](https://archive.org/stream/300656427ErikHEriksonIdentityYouthAndCrisis1WWNortonCompany1968/300656427-Erik-H-Erikson-Identity-Youth-and-Crisis-1-W-W-Norton-Company-1968_djvu.txt)

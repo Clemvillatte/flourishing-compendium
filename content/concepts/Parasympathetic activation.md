@@ -42,6 +42,7 @@ Lehrer and Gevirtz propose a baroreflex mechanism:
 
 
 
+
 - [[Autonomic nervous system (sympathetic vs parasympathetic)]] — the two-branch structure; this concept names the engagement of one branch, and the page shares the Lehrer and Gevirtz source
 - [[Heart rate variability theory]] — the theory of HRV as an index of cardiac vagal tone and self-regulation; the measure this concept's studies read
 - [[Respiratory sinus arrhythmia research]] — RSA, the breathing-tied heart rhythm, studied on its own page as an index of vagal tone
@@ -49,6 +50,7 @@ Lehrer and Gevirtz propose a baroreflex mechanism:
 - [[Slow-paced breathing]] — the practice the review's findings come from; its page quotes the same review
 - [[Metacognitive regulation of state]] — the down-shift’s physiological lever
 - [[BI048]] — cold-water facial technique used in distress-tolerance training
+- [[Polyvagal theory (Porges)]] — the theory's ventral vagal component is described by Porges as inhibiting sympathetic influences to the heart and dampening the HPA axis
 ## Sources
 
 - [Zaccaro A, Piarulli A, Laurino M, Garbella E, Menicucci D, Neri B, Gemignani A. 2018, Front Hum Neurosci 12:353](https://pmc.ncbi.nlm.nih.gov/articles/PMC6137615/) — systematic review of slow-breathing psycho-physiology; Background, Discussion and summary-of-findings quotes above

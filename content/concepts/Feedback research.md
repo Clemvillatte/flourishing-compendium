@@ -15,8 +15,9 @@ timing and framing determine whether feedback helps or harms (Kluger and DeNisi,
 
 ## Related concepts
 
-- [[MO062]] — A principle recording the review's contrast between positive feedback and tangible rewards
 
+- [[MO062]] — A principle recording the review's contrast between positive feedback and tangible rewards
+- [[Self-verification theory (Swann)]] — the theory predicts feedback is accepted insofar as it matches existing self-views
 ## Sources
 
 - Kluger and DeNisi, 1996

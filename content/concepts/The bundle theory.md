@@ -21,8 +21,9 @@ The positive claim follows: the rest of mankind, Hume ventures, "are nothing but
 
 ## Related concepts
 
-- [[SE080]] — A comparison with SE080's use of Hume's introspective test from the same Treatise section
 
+- [[SE080]] — A comparison with SE080's use of Hume's introspective test from the same Treatise section
+- [[D087]] — comparison of accounts of identity; no equivalence asserted
 ## Sources
 
 - Hume, A Treatise of Human Nature

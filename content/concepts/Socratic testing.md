@@ -23,10 +23,11 @@ The principles on behavioral experiments read the same structure clinically: a b
 
 ## Related concepts
 
+
 - [[Abduction]] — Peirce's account of where the belief to be tested comes from
 - [[Anti-authoritarian inquiry]] — the Deweyan version of the same testing
 - [[The problem of induction]] — the limit the account of the reason why runs into
-
+- [[The Socratic midwife]] — the midwife image is the standing picture for the testing method; each page should carry the other
 ## Sources
 
 - [Meno 97e5-98a7, MIT OCW translation](https://ocw.mit.edu/courses/24-200-ancient-philosophy-fall-2004/76a62d9a1d03d49cdea8e12f3d9f7ebf_tapmenok_l.pdf) — verbatim tied-down passage

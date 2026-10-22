@@ -1,12 +1,111 @@
 {
- "inline": [],
  "reciprocal": [
   {
-   "into": "Cultural psychology",
-   "link": "SO044 — Treat the WEIRD critique as a standing corrective",
-   "why": "SO044's psychology parallels list the cultural-variance literature (Henrich et al. 2010; Medin et al. 2017)",
-   "_audit_why": "the WEIRD critique is a core methodological result for cultural psychology; the concept page cites no SO044"
+   "into": "The bundle theory",
+   "link": "D087 — Hold identity lightly",
+   "why": "comparison of accounts of identity; no equivalence asserted"
+  },
+  {
+   "into": "Ziran (naturalness)",
+   "link": "D055 — Don't force",
+   "why": "naturalness and nonaction in the opened SEP Laozi discussion"
+  },
+  {
+   "into": "Responsibility",
+   "link": "A053 — Act voluntarily",
+   "why": "voluntary action, praise and blame in NE III.1"
+  },
+  {
+   "into": "Prohairesis",
+   "link": "A053 — Act voluntarily",
+   "why": "NE III.2 distinguishes deliberate choice from voluntary action"
+  },
+  {
+   "into": "Freedom",
+   "link": "A053 — Act voluntarily",
+   "why": "the concept already mentions A053 in prose but lacks an actual reciprocal wikilink"
+  },
+  {
+   "into": "Phronesis",
+   "link": "A091 — Integrate contemplation and action",
+   "why": "practical wisdom distinguished from contemplation in the opened scholarly account"
+  },
+  {
+   "into": "Eudaimonia",
+   "link": "A091 — Integrate contemplation and action",
+   "why": "the ranking of practical and contemplative lives concerns Aristotle's human good"
+  },
+  {
+   "into": "Phenomenological description",
+   "link": "E007 — Practise eidetic seeing",
+   "why": "neighbouring method for comparison; not asserted identical to eidetic variation"
+  },
+  {
+   "into": "Dikaiosyne",
+   "link": "A023 — Practice justice (dikaiosyne)",
+   "why": "the principle's Aristotelian virtue term"
+  },
+  {
+   "into": "Justice",
+   "link": "A023 — Practice justice (dikaiosyne)",
+   "why": "general and particular justice in the opened Book V account"
+  },
+  {
+   "into": "Philia",
+   "link": "A078 — Recognise that the best friendship is between the good",
+   "why": "Aristotle's character-friendship account in NE VIII.3"
+  },
+  {
+   "into": "Friendship",
+   "link": "A078 — Recognise that the best friendship is between the good",
+   "why": "grounds of friendship and concern for the friend"
+  },
+  {
+   "into": "Eudaimonia",
+   "link": "A078 — Recognise that the best friendship is between the good",
+   "why": "friendship's place in flourishing, without certifying a universal empirical benefit"
+  },
+  {
+   "into": "Phronesis",
+   "link": "A037 — Distinguish cleverness (deinotes) from practical wisdom",
+   "why": "the VI.12–13 contrast makes practical wisdom more than efficient means"
+  },
+  {
+   "into": "Virtue ethics",
+   "link": "A037 — Distinguish cleverness (deinotes) from practical wisdom",
+   "why": "the relation between good purpose, character and practical judgment"
+  },
+  {
+   "into": "Friendship",
+   "link": "A063 — Recognise that friendship is necessary for flourishing",
+   "why": "Aristotle's shared-life and beneficence argument"
+  },
+  {
+   "into": "Relatedness",
+   "link": "A063 — Recognise that friendship is necessary for flourishing",
+   "why": "explicitly distinguished psychological comparison, not an equivalence with Aristotelian philia"
+  },
+  {
+   "into": "Happiness as activity",
+   "link": "A001 — Make eudaimonia the organising end of your life",
+   "why": "the whole-life activity account in NE I.7–10"
+  },
+  {
+   "into": "Psychological well-being",
+   "link": "A001 — Make eudaimonia the organising end of your life",
+   "why": "Ryff's measured dimensions are compared without being equated with Aristotelian virtue"
+  },
+  {
+   "into": "Dao",
+   "link": "D141 — Care for life as the root of all endeavor",
+   "why": "the cook's method and its lesson in nourishing life"
+  },
+  {
+   "into": "The quiet craftsman's life",
+   "link": "D141 — Care for life as the root of all endeavor",
+   "why": "the cook's careful handling of difficulty and preservation of his blade"
   }
  ],
- "notes": "p1a proposals (genuineflourishing31), from SO044 enrichment. Reciprocals only; both targets verified to lack any SO044 link. | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline | deferred at this run (target band busy): 1 recip, 0 inline"
+ "inline": [],
+ "notes": "Worker-p1a-d9e5b9d0 scoped repair proposals only. Every listed destination was read and its proposed reciprocal was absent as an actual wikilink. Self-as-context and Anatta already link D087; Wu wei already links D055. No destination page edited; supervisor must refresh baton/protection status before integration."
 }

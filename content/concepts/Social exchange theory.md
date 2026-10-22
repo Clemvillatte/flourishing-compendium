@@ -18,6 +18,10 @@ Cropanzano and Mitchell's review examines the rules of exchange, the resources e
 >
 > Russell Cropanzano and Marie S. Mitchell, “Social Exchange Theory: An Interdisciplinary Review,” [abstract](https://journals.sagepub.com/doi/10.1177/0149206305279602). SET abbreviates social exchange theory.
 
+## Related concepts
+
+- [[Reciprocity norm theory Gouldner]] — Gouldner's moral norm is what backs the pattern of mutually contingent giving that exchange theory describes
+
 ## Sources
 
 - Homans, 1958

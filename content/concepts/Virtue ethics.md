@@ -17,6 +17,7 @@ Objections discussed in the entry include application (no codifiable decision pr
 
 ## Related concepts
 
+
 - [[Virtue]] — the trait itself, defined by the same tradition
 - [[Eudaimonia]] — the flourishing central to eudaimonist virtue ethics
 - [[Phronesis]] — the practical wisdom that guides the virtues
@@ -25,7 +26,7 @@ Objections discussed in the entry include application (no codifiable decision pr
 - [[Moral exemplarism]] — Zagzebski's exemplar-based form of the theory
 - [[Situationism]] — the empirical challenge to character traits
 - [[Virtue development research]] — the empirical study of how virtue grows
-
+- [[A037]] — the relation between good purpose, character and practical judgment
 ## Sources
 
 - Hursthouse, R., & Pettigrove, G. (2003, revised). Virtue Ethics. Stanford Encyclopedia of Philosophy. Opened at https://plato.stanford.edu/entries/ethics-virtue/

@@ -36,11 +36,12 @@ Most of this evidence is cross-sectional. A search excerpt from a recent longitu
 
 ## Related concepts
 
+
 - [[Self-compassion]] — listed for comparison
 - [[Compassion-focused therapy]] — listed for comparison
 - [[Shame]] — listed for comparison
 - [[Maladaptive perfectionism]] — listed for comparison
-
+- [[Perfectionism research]] — the companion mechanism in self-oriented perfectionism
 ## Sources
 
 - Gilbert, 2009

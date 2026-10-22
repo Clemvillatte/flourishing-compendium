@@ -25,6 +25,7 @@ The body principles give the modern instances: BI040 on caffeine, BI015 on sleep
 
 
 
+
 - [[Akrasia]] — acting against one's better judgment, the gap in self-command temperance addresses
 - [[Virtue]] — the class of excellences this belongs to
 - [[Desire]] — the material temperance orders rather than deletes
@@ -35,6 +36,7 @@ The body principles give the modern instances: BI040 on caffeine, BI015 on sleep
 - [[Wu wei]] — effortless ordering, the Daoist cousin of concord
 - [[Courage]] — one of the four cardinal virtues: acting well in the face of fear
 - [[Apatheia]] — the Stoic ideal of freedom from passion, not numbness
+- [[Ordering the soul]] — the harmonised condition Plato's passage names
 ## Sources
 
 - [Plato, Republic IV.430e, Shorey translation, Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0168%3Abook%3D4%3Asection%3D430e)

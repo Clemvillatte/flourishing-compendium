@@ -35,9 +35,10 @@ In that study, using signature strengths in a new way was one of two exercises t
 
 ## Related concepts
 
+
 - [[Moral situation research]] — the situationist debate the strengths revival enters
 - [[Moral courage research]] — the courage-side research line in the same area
-
+- [[Schwartz]] — a different catalog of the desirable: traits rather than motivational goals
 ## Sources
 
 - Peterson & Seligman, 2004

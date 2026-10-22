@@ -36,11 +36,12 @@ The overview reports mixed results. In the large Relapse Replication and Extensi
 
 ## Related concepts
 
+
 - [[Stress inoculation training]] — listed for comparison
 - [[Urge surfing]] — one of the urge-management techniques the overview describes
 - [[Self-efficacy]] — listed for comparison
 - [[Transtheoretical model (Prochaska & DiClemente)]] — listed for comparison
-
+- [[Neurobiology of addiction]] — a three-stage neurocircuitry account of addiction
 ## Sources
 
 - Marlatt & Gordon, 1985

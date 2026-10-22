@@ -13,6 +13,10 @@ Schopenhauer's third book describes what remains when a person stops using the w
 
 In §38, Schopenhauer describes this absorption as temporary relief from personal desires and distress. Social rank makes no difference to the state.
 
+## Related concepts
+
+- [[Neuroaesthetics]] — studies the biological bases of aesthetic experiences
+
 ## Sources
 
 - Schopenhauer, The World as Will and Representation III

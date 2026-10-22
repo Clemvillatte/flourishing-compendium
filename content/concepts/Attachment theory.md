@@ -33,12 +33,14 @@ The theory's account of how early bonds shape later relationships runs through m
 
 
 
+
 - [[Family systems theory]] — the developmental account of the bonds the family system is built on
 - [[Attachment security]] — the state the attachment system aims at
 - [[Nonattachment]] — the contemplative ideal of freedom from clinging, distinct from avoidant deactivation
 - [[The capacity to be alone]] — the research tradition that later mapped the reliable other
 - [[SO029]] — A principle on belonging as a fundamental need, from the review that framed it
 - [[Tend-and-befriend]] — the stress-response model that draws on the caregiving system
+- [[Obsessive attachment]] — the developmental science of bonds, kept distinct from the absolute object
 ## Sources
 
 - Mikulincer and Shaver, 2007

@@ -18,8 +18,9 @@ The chapter's opening lines make the renunciations explicit: giving up sageness 
 
 ## Related concepts
 
-- [[Y032]] — aparigraha's refusal to appropriate objects whose keeping is a disadvantage is the Yoga-Vedanta form of this ongoing discipline
 
+- [[Y032]] — aparigraha's refusal to appropriate objects whose keeping is a disadvantage is the Yoga-Vedanta form of this ongoing discipline
+- [[Ockham's razor]] — a simplicity criterion for comparing theories
 ## Sources
 
 - [Legge, Tao Te Ching ch. 19 (Sacred Texts)](https://www.sacred-texts.com/tao/taote.htm)

@@ -39,6 +39,10 @@ The authors' case is a smoker who lights up after being yelled at by his boss: t
 - [[Reinforcer Pathology Model]]
 - [[Desire experience-sampling]]
 
+## Related concepts
+
+- [[Neurobiology of addiction]] — a three-stage neurocircuitry account of addiction
+
 ## Sources
 
 - Brewer, J. A., Elwafi, H. M., & Davis, J. H. (2013). Craving to quit: psychological models and neurobiological mechanisms of mindfulness training as treatment for addictions. Psychology of Addictive Behaviors, 27(2), 366–379. Author manuscript: https://pmc.ncbi.nlm.nih.gov/articles/PMC3434285/ ; abstract: https://pubmed.ncbi.nlm.nih.gov/22642859/

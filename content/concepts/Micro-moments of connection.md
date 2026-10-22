@@ -21,9 +21,10 @@ The moments are momentary by definition, and the article reports studies of ever
 
 ## Related concepts
 
+
 - [[Ubuntu]] — a related concept from another tradition
 - [[Care]] — a related concept in the ethics of care
-
+- [[Polyvagal theory (Porges)]] — the theory's sociality claim parallels Kok and Fredrickson's finding that vagal tone reciprocally predicts positive emotions and social connectedness
 ## Sources
 
 - [Greater Good Science Center (UC Berkeley), "What Is Love? Scientists Have Answers—But They Don't All Agree"](https://greatergood.berkeley.edu/article/item/what_is_love_scientists_have_answersbut_they_dont_all_agree) — Fredrickson's positivity resonance definition and the stranger-interaction studies, verbatim

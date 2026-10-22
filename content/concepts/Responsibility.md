@@ -26,9 +26,10 @@ The framework turns on two contrasts. The voluntary and the involuntary mark whe
 
 ## Related concepts
 
+
 - [[P088]] — Dewey's reading of praise and blame as conditions that shape conduct (Human Nature and Conduct, part 1, section 1).
 - [[Rectification of the mind]] — the Confucian step of setting the mind right before holding it to account
-
+- [[A053]] — voluntary action, praise and blame in NE III.1
 ## Sources
 
 - Aristotle, Nicomachean Ethics III.1

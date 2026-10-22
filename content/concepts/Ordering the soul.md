@@ -21,11 +21,12 @@ The passage calls actions that preserve this harmony just and good, and those th
 
 ## Related concepts
 
+
 - [[The tripartite soul]] — the three principles the passage binds together, Plato's psychology of parts.
 - [[Temperance]] — the harmonised condition the passage names "entirely temperate".
 - [[Harmony]] — the musical figure Plato builds the ordering on.
 - [[The layered soul]] — a later echo of the same layered picture.
-
+- [[Satyagraha]] — a method that asks the actor to absorb the cost sits naturally beside the compendium's pages on ruling the self
 ## Sources
 
 - [Plato, The Republic, Book IV (trans. Benjamin Jowett), Project Gutenberg](https://www.gutenberg.org/files/1497/1497-0.txt) — the just man's ordered inner life, the scale image, the one temperate nature (443d-e).

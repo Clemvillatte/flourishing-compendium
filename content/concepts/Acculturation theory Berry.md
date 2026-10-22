@@ -27,10 +27,11 @@ Sociocultural · Psychological science
 ## Related concepts
 
 
+
 - [[Independent vs interdependent self-construal (Markus & Kitayama)]] — the self-construals that acculturation moves between
 - [[Bicultural identity integration]] — BII research measures acculturation attitudes and stress alongside bicultural identity
 - [[SO074]] — the strength-side counterpart of the acculturation strategies this concept maps: holding two identities as compatible rather than oppositional
-
+- [[Orthogonal Cultural Identification Theory]] — the categorical model the orthogonal model contrasts with
 ## Sources
 
 - PMC, "The concept of acculturation in epidemiological research" (systematic review): https://pmc.ncbi.nlm.nih.gov/articles/PMC6997899/

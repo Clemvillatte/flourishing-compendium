@@ -23,10 +23,11 @@ The overview also notes that people demand a high standard of evidence for unpal
 
 ## Related concepts
 
+
 - [[Belief perseverance effect]]
 - [[Motivated reasoning]]
 - [[Bias blind spot]]
-
+- [[Self-verification theory (Swann)]] — the general tendency to favor belief-consistent information, of which self-verification is the self-directed case
 ## Facets
 
 - **as the default** — Nickerson, 1998

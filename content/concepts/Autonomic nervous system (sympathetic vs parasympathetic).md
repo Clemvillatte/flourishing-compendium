@@ -28,10 +28,11 @@ The same source pairs this with the parasympathetic side's "rest and digest" pro
 
 ## Related concepts
 
+
 - [[Parasympathetic activation]] — the parasympathetic branch's activation
 - [[Slow-paced breathing]] — the breath practice the compendium treats as a direct autonomic regulator
 - [[Progressive muscle relaxation (Jacobson)]] — the other body-based regulation practice in this neighbourhood
-
+- [[Polyvagal theory (Porges)]] — the theory adds a proposed mammalian social-communication circuit on top of the classic sympathetic-parasympathetic division
 ## Sources
 
 - Lehrer & Gevirtz, 2014

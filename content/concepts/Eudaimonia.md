@@ -29,9 +29,13 @@ Its great Greek rival is [[Ataraxia]] — tranquility as the goal rather than ac
 
 
 
+
+
 - [[Virtue]] — the flourishing virtue is the road to
 - [[Future time perspective]] — flourishing as the long game the orientation serves
 - [[Boulesis (rational desire)]] — wishing to be happy is the NE III.2 example; choosing the acts is not
 - [[SE079]] — self-development serves eudaimonia, the principle's own ordering
 - [[Broaden-and-build]] — Fredrickson's theory of what positive emotions are for
 - [[Virtue ethics]] — the eudaimonist theory built around this target
+- [[A091]] — the ranking of practical and contemplative lives concerns Aristotle's human good
+- [[A078]] — friendship's place in flourishing, without certifying a universal empirical benefit

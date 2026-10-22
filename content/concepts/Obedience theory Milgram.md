@@ -24,11 +24,12 @@ Sociocultural · Psychological science
 ## Related concepts
 
 
+
 - [[Moral situation research]]: the moral-choice literature that reads Milgram's evidence
 - [[Conformity]]: the Asch line the obedience studies extend from pressure to command
 - [[Minority influence]]: the reverse case, where a few move the many
 - [[Implementation intentions]]: the if-then alternative to willpower, for refusing before the pressure arrives
-
+- [[Obedience research]] — experimental research on obedience to authority, listed for comparison
 ## Sources
 - Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371–378. (PDF: https://www.gvsu.edu/cms4/asset/F51281F0-00AF-E25A-5BF632E8D4A243C7/milgram_behavioral_study_1963.pdf)
 - Gilbert, S. J. (1981). Another look at the Milgram obedience studies. PSPB, 7(2).

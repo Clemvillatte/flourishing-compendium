@@ -26,9 +26,10 @@ The same review finds the bias is not uniform. Asian samples display significant
 
 ## Related concepts
 
+
 - [[Fundamental attribution error]]
 - [[Bias blind spot]]
-
+- [[Self-verification theory (Swann)]] — the tilt toward flattering explanations that verification theory predicts can reverse for negative self-views
 ## Sources
 
 - [Mezulis, Abramson, Hyde & Hankin 2004, Psychological Bulletin 130(5), 711-747 (PubMed)](https://pubmed.ncbi.nlm.nih.gov/15367078/) — the abstract, quoted verbatim

@@ -30,9 +30,11 @@ HRVB is a trainable breathing-and-feedback method with solid support for self-re
 ## Related concepts
 
 
+
 - [[Parasympathetic activation]] — The biofeedback procedure trains the slow diaphragmatic breathing this page explains.
 - [[Arousal regulation]] — a nearby topic on managing activation
 - [[BE046]] — A principle discussing slow breathing as an emotion-regulation practice
+- [[Polyvagal theory (Porges)]] — HRV biofeedback draws on vagal-tone interpretations of RSA; its best-supported mechanism is baroreflex strengthening (Lehrer & Gevirtz, 2014)
 ## Sources
 
 - [Lehrer and Gevirtz, "Heart rate variability biofeedback: how and why does it work?", Frontiers in Psychology 5:756, 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104929/)
