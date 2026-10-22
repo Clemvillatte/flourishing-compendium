@@ -28,7 +28,8 @@
   "Behavioral inhibition theory Gray",
   "Behavioral self-regulation theory",
   "Being-at-home",
-  "Boundary situations"
+  "Boundary situations",
+  "Challenge appraisals"
  ],
  "in_progress": null,
  "flagged": {
@@ -38,6 +39,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:33:49+00:00",
+ "updated": "2026-10-22T14:34:13+00:00",
  "band_done": false
 }
