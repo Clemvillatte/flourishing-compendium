@@ -7,7 +7,7 @@ file: "Potentiality to actuality"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Potentiality to actuality is Aristotle's central distinction in Metaphysics Book IX between a thing's capacity to become and its being in act. The original entry holds the oak in capacity; the grown tree holds it in act. What the distinction adds to everyday talk of "developing" is that the two states are not the same state at different times. A capacity is a real feature of the thing now, and the actuality is something further, which may or may not be reached.
+Potentiality to actuality is Aristotle's central distinction in Metaphysics Book IX between a thing's capacity to become and its being in act. The seed holds the oak in capacity; the grown tree holds it in act. What the distinction adds to everyday talk of "developing" is that the two states are not the same state at different times. A capacity is a real feature of the thing now, and the actuality is something further, which may or may not be reached.
 
 > "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'; we say that potentially, for instance, a statue of Hermes is in the block of wood and the half-line is in the whole, because it might be separated out, and we call even the man who is not studying a man of science, if he is capable of studying; the thing that stands in contrast to each of these exists actually." (Aristotle, [Metaphysics IX.6](https://classics.mit.edu/Aristotle/metaphysics.9.ix.html), translated by W. D. Ross)
 
