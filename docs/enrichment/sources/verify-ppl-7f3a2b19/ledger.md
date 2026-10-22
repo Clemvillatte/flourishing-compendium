@@ -328,3 +328,21 @@ Round 11 totals: 3 pages PASS, 1 defect repaired, 1 routed. Cumulative w1ac samp
 checked (27 PASS, 1 PASS-with-unresolved-comma-variance, 5 defects+1 attribution repaired,
 5 routed). This closes the session's sampling of the w1ac band (remaining unchecked pages:
 Plain-language comprehension research, Popol Vuh, Psychoneuroimmunology (PNI)).
+
+## Round 12 — w1ac final pages (2026-10-22, executed ~12:03-12:05Z per clock proximity)
+
+- POPOL VUH — PASS 3/3: all three Vucub-Caquix passages (Part I ch. 4, Goetz-Morley from
+  Recinos) verbatim vs the cited latinamericanstudies.org PDF (freshly downloaded and
+  opened).
+- PSYCHONEUROIMMUNOLOGY (PNI) — PASS 1/1: the Ader 2000 abstract verbatim vs the cited
+  PubMed page (opened via fetch).
+- PLAIN-LANGUAGE COMPREHENSION RESEARCH — ROUTED, CARRIER UNREACHABLE: the cited
+  Oppenheimer 2006 PDF host (cahill.people.unm.edu) fails to connect (curl 000); both
+  passages could not be re-verified against the cited carrier this pass. Routed: re-point
+  to an accessible carrier and verify.
+
+Round 12 totals: 2 pages PASS, 1 routed. FINAL CUMULATIVE w1ac sample: 40 pages checked
+(29 PASS, 1 PASS-with-unresolved-comma-variance, 5 defects+1 attribution repaired, 6 routed).
+Session verification total (all bands): 50 pages sampled across w1s-recent (10), w1ac (40);
+44 PASS or better, 6 defects+1 attribution repaired, 7 findings routed, 1 confabulated
+finding withdrawn. This closes the session's verification work.
