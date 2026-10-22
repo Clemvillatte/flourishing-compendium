@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 89** — Intervene at intention
 
-SN 12.38 locates the leverage point directly: what one intends, arranges and obsesses about is the support for the stationing of consciousness, and from that landing comes the production of renewed becoming, birth, aging and death, and the mass of suffering. The discourse does not tell a person to manage each action; it identifies intention as the place the chain is fed. (SN 12.38.)
+SN 12.38 locates the leverage point directly: what one intends, arranges and obsesses about is the support for the stationing of consciousness, and from that landing comes the production of renewed becoming, birth, aging and death, and the mass of suffering. The discourse identifies intention as the place the chain is fed, and does not tell a person to manage each action. (SN 12.38.)
 
 > "What one intends, what one arranges, and what one obsesses about: This is a support for the stationing of consciousness." (SN 12.38, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.038.than.html))
 

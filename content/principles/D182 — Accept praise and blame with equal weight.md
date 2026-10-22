@@ -28,7 +28,7 @@ The compendium brings the two passages together: DDJ 13 treats favour and disgra
 
 (DDJ 13; Zhuangzi 12.)
 
-**Plain words** DDJ 13's reasoning is that getting favour produces the apprehension of losing it, so the praised and the blamed position share a structure: both wait on someone else's next move. Zhuangzi 12 sets the other pole, a person whom the world's blame and praise can neither benefit nor injure. A practical reading: when a verdict arrives, notice whether you are treating it as information about the work or as news about yourself. The chapters do not promise indifference; they describe where each verdict is allowed to land.
+**Plain words** DDJ 13's reasoning is that getting favour produces the apprehension of losing it, so the praised and the blamed position share a structure: both wait on someone else's next move. Zhuangzi 12 sets the other pole, a person whom the world's blame and praise can neither benefit nor injure. A practical reading: when a verdict arrives, notice whether you are treating it as information about the work or as news about yourself. The chapters describe where each verdict is allowed to land, and promise no indifference.
 
 *For example:* Imagine finishing a piece of work that is reviewed both admiringly and harshly by different readers. You could sort each review into what it says about the work and what it says about the reviewer, and take only the first kind forward.
 

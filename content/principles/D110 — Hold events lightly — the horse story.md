@@ -18,7 +18,7 @@ The story is not a claim that misfortunes turn out to be blessings, which would 
 
 > "How do you know this is bad luck? How do you know this is good luck?" (Huainanzi, ch. 18, the old man's repeated reply, [Columbia University Press translation](https://cup.columbia.edu/book/huainanzi/9780231142048))
 
-**Plain words** The rejection that redirected you to the city where you met your person was not a lucky event that happened to look unlucky; it was an event whose verdict was not yet available. This is the distinction the story is actually making. Withholding the verdict is not optimism about outcomes; it is the recognition that the outcome is not yet in. The chain was always longer than the moment.
+**Plain words** The rejection that redirected you to the city where you met your person was not a lucky event that happened to look unlucky; it was an event whose verdict was not yet available. This is the distinction the story is actually making. Withholding the verdict recognises that the outcome is not yet in. It makes no bet on a good one. The chain was always longer than the moment.
 
 *For example:* Two people get the same rejection — a job, a program, a relationship. One treats it as a verdict on their worth and the story closes there. The other holds it lightly, without deciding what it means, and six months later the same event is part of a completely different narrative. Same event; only one of them was in a position to notice what came next.
 

@@ -28,7 +28,7 @@ The statement is a claim about intent; the schedule is a record of behavior. "I 
 
 ### For example
 
-Take the person who says they value fitness and owns a dusty bike, next to the person who rides it Tuesdays. The exercise is to write down what you claim to value, then find it in the week's calendar or not. The exercise does not say the calendar cannot change; it says next week's calendar is the place to look for the change.
+Take the person who says they value fitness and owns a dusty bike, next to the person who rides it Tuesdays. The exercise is to write down what you claim to value, then find it in the week's calendar or not. The exercise says next week's calendar is the place to look for the change.
 
 ## Psychology parallels
 

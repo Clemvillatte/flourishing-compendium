@@ -18,7 +18,7 @@ This is a claim about the nature of awakening, not a modest refusal to brag. The
 
 > "My supernatural power and marvelous activity: drawing water and carrying firewood." (Layman Pang, The Sayings of Layman Pang, [Terebess](https://terebess.hu/zen/layman-pang.html))
 
-**Plain words** The enlightenment you are waiting for is not going to arrive with fireworks, and if it does arrive with fireworks, that is not the thing. The awakened version of a person still has to do the dishes, still gets tired, still has to buy groceries. What changes is not the content of the day; it is the removal of the layer of commentary about how the day should be going. The specialness was never in the enlightenment; it was in the waiting.
+**Plain words** The enlightenment you are waiting for is not going to arrive with fireworks, and if it does arrive with fireworks, that is not the thing. The awakened version of a person still has to do the dishes, still gets tired, still has to buy groceries. What changes is the removal of the layer of commentary about how the day should be going. The content of the day stays. The specialness was never in the enlightenment; it was in the waiting.
 
 *For example:* Two practitioners both have a profound meditation experience. One spends the next year trying to reproduce it, treating ordinary days as failures to get back there. The other goes back to chopping wood and carrying water, and the experience is quietly absorbed into how the ordinary day is done. Only one of them is still practising a year later.
 

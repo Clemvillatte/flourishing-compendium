@@ -19,7 +19,7 @@ Chapter 49 of the Daodejing has the sage make "the mind of the people his mind",
 >
 > (Daodejing 49, Legge)
 
-The basis is not naivety. The sage "has in the world an appearance of indecision, and keeps his mind in a state of indifference to all", dealing with everyone "as his children". The sincerity is not a judgment about the other person; it is a refusal to let their conduct set his own.
+The basis is not naivety. The sage "has in the world an appearance of indecision, and keeps his mind in a state of indifference to all", dealing with everyone "as his children". The sincerity refuses to let their conduct set his own, and passes no judgment on the other person.
 
 (DDJ 49.)
 

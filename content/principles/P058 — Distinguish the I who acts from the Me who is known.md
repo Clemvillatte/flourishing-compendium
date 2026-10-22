@@ -24,7 +24,7 @@ The self has two phases. The "me" is the organized set of attitudes taken over f
 
 ### For example
 
-Imagine a meeting where you expect to agree, having learned to see yourself as the agreeable colleague. The exercise is to note that expectation before speaking, and afterward compare it with what was actually said. The comparison, between the internalized expectation and the response examined afterward, is the compendium's proposed application. The exercise does not promise the response will differ from the expectation; it makes the expectation visible and the response reviewable.
+Imagine a meeting where you expect to agree, having learned to see yourself as the agreeable colleague. The exercise is to note that expectation before speaking, and afterward compare it with what was actually said. The comparison, between the internalized expectation and the response examined afterward, is the compendium's proposed application. The exercise makes the expectation visible and the response reviewable. It cannot promise the response will differ.
 
 ## Psychology parallels
 

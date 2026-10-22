@@ -24,7 +24,7 @@ You arrive with raw material, not a finished house. Impulses can be organized in
 
 ### For example
 
-Take the belief "I'm just not a math person." The exercise is to read that as a report about the channel the impulses were organized into, not about the raw material: name the surrounding that organized it, a classroom, a teacher, a comparison, and name one new surrounding that would organize the same impulses differently, a course, a tutor, a project that needs the math. The exercise does not promise the new channel opens easily; it treats the trait as organized, not fixed.
+Take the belief "I'm just not a math person." The exercise is to read that as a report about the channel the impulses were organized into, not about the raw material: name the surrounding that organized it, a classroom, a teacher, a comparison, and name one new surrounding that would organize the same impulses differently, a course, a tutor, a project that needs the math. The exercise treats the trait as organized, not fixed, and promises no easy opening of the new channel.
 
 ## Psychology parallels
 

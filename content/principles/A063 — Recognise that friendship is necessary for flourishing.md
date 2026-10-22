@@ -25,7 +25,7 @@ When you make plans, include the people whose lives you want to share. Ask what 
 
 ### For example
 
-Imagine a promotion that would mean moving away from close friends. Consider what contact could continue and what would be lost, alongside pay, caring responsibilities and the work itself. This does not decide the choice in advance; it makes the friendships part of the decision.
+Imagine a promotion that would mean moving away from close friends. Consider what contact could continue and what would be lost, alongside pay, caring responsibilities and the work itself. This makes the friendships part of the decision and leaves the choice open.
 
 ## Sources
 

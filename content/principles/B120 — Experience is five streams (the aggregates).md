@@ -18,7 +18,7 @@ The conclusion covers all five streams with the same formula: any form whatsoeve
 
 > "Any form whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every form is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'" (SN 22.59, Anattalakkhana Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.059.than.html))
 
-**Plain words** A sunset is not one thing you are watching; it is five things happening at once — the light, the pleasure, the label "sunset," the wanting it to last, and the noticing of all four. The move the Buddha makes is not to deny the sunset; it is to ask, of each of the five, whether it could be the one who is watching. None of them is stable enough for the job. The conductor you keep looking for is a position in the score, not a person.
+**Plain words** A sunset is not one thing you are watching; it is five things happening at once — the light, the pleasure, the label "sunset," the wanting it to last, and the noticing of all four. The Buddha leaves the sunset alone and asks, of each of the five, whether it could be the one who is watching. None of them is stable enough for the job. The conductor you keep looking for is a position in the score, not a person.
 
 *For example:* Two people watch the same sunset. One experiences it as a self having an experience, and spends the next hour protecting the mood. The other notices the five streams — light, pleasure, label, wanting, noticing — arising and passing, and the mood protects itself. Same sunset; one of them is holding it with an open hand.
 

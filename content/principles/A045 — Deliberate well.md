@@ -22,7 +22,7 @@ Good deliberation therefore considers the right things, in the right order, for 
 
 (NE III.3.)
 
-**Plain words** Deliberation starts after you have settled what you want. The doctor does not ask whether to heal; she asks how. Your version: state the end in one sentence, list the routes to it, strike the ones you cannot actually take, and pick. Anything you are turning over that you cannot change is not deliberation, however long you spend on it.
+**Plain words** Deliberation starts after you have settled what you want. The doctor asks how to heal, never whether to. Your version: state the end in one sentence, list the routes to it, strike the ones you cannot actually take, and pick. Anything you are turning over that you cannot change is not deliberation, however long you spend on it.
 
 *For example:* Deciding how to respond to a delayed flight means looking at rebooking options, not rehearsing why the airline failed.
 

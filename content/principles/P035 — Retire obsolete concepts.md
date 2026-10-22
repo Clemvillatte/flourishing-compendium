@@ -24,7 +24,7 @@ A concept is a purchase made for a problem. When the problem is gone, the purcha
 
 ### For example
 
-Take the "boss/employee" vocabulary in a three-person collaborative studio. The exercise is to name what the vocabulary was purchased for, clear authority in a large hierarchy, and to check whether the studio still has that problem. The exercise does not prescribe the replacement; it makes the mismatch visible.
+Take the "boss/employee" vocabulary in a three-person collaborative studio. The exercise is to name what the vocabulary was purchased for, clear authority in a large hierarchy, and to check whether the studio still has that problem. The exercise makes the mismatch visible and leaves the replacement to you.
 
 ## Practice kernels
 

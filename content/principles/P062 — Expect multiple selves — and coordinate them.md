@@ -20,7 +20,7 @@ James's key insight follows immediately: because audiences fall into classes, th
 
 **Plain words** You are not one person who occasionally acts out of character; you are several versions of yourself that different audiences pull to the surface. The work-you and the family-you are not the same person, and neither is fake. The danger is when one self needs to be hidden from another group — that is where the structure starts to cost you energy and sleep. The task is to make sure they are not at war, and they need not become one.
 
-*For example:* A manager who is warm at home and cold with direct reports is not a hypocrite — they have two audiences pulling different sides. But the version where direct reports can never be told about the home life, and the partner can never be told about work, is the one that starts to fracture. Coordination is not transparency; it is making sure no self requires another to be hidden.
+*For example:* A manager who is warm at home and cold with direct reports is not a hypocrite — they have two audiences pulling different sides. But the version where direct reports can never be told about the home life, and the partner can never be told about work, is the one that starts to fracture. Coordination means making sure no self requires another to be hidden.
 
 ## Psychology parallels
 
