@@ -28,7 +28,8 @@
   "Status quo bias",
   "Sophrosyne",
   "System justification theory",
-  "State-dependent memory"
+  "State-dependent memory",
+  "Task-switching costs"
  ],
  "in_progress": null,
  "flagged": {
@@ -52,10 +53,11 @@
   "Status quo bias": "Seed says 'even when alternatives are better'; abstract does not say so and rational explanations are among those proposed. Full paper paywalled; abstract and secondary sources used.",
   "Sophrosyne": "Prior page claimed Delphi and Plato lineage without sources; removed. Page rests on Chase translation only; PP040 cites NE III.10.",
   "System justification theory": "Already enriched by w1i (overlap); validated, no change.",
-  "State-dependent memory": "Seed pairs Godden & Baddeley (physical context, replication failed in Murre 2021) with Eich (mood); page separates them. Goodwin 1969 added (abstract). Eich 1995 abstract only."
+  "State-dependent memory": "Seed pairs Godden & Baddeley (physical context, replication failed in Murre 2021) with Eich (mood); page separates them. Goodwin 1969 added (abstract). Eich 1995 abstract only.",
+  "Task-switching costs": "Rubinstein et al. 2001 (seed) not consulted. Lab ms costs; AT016 applies them to everyday practice (it says so)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:12:34+00:00",
+ "updated": "2026-10-22T16:12:59+00:00",
  "band_done": false
 }
