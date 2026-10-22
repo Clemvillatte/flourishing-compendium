@@ -31,10 +31,15 @@
   "The shattered self": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end",
   "The tetrapharmakos": "QC round flagged: specific repairs named in w1af ledger (advisor round T+54); not repaired before session end",
   "The transformation of consciousness": "Namespace hold: compendium heading; body grounded in Jaspers Origin and Goal of History; owner disposition requested (keep as heading / fold into The Axial Age)",
-  "The traveler's eye": "QC milestone round: namespace hold — Letter 30 illustrates a literary device; no opened source defines 'the traveler's eye' as a concept; owner disposition requested (see concept-namespace-audit.md). Done-mark retained; supervisor/owner may reopen"
+  "The traveler's eye": "QC milestone round: namespace hold — Letter 30 illustrates a literary device; no opened source defines 'the traveler's eye' as a concept; owner disposition requested (see concept-namespace-audit.md). Done-mark retained; supervisor/owner may reopen",
+  "The tyranny of the ideal": "compendium heading; no source defines it as a term; body grounded in GM II.17-18 verbatim; owner decision: keep heading or fold toward the negative-ideals teaching (audit entry added)",
+  "The undiminishing past": "compendium heading; body grounded in Consolation II.3-4 verbatim; owner decision: keep heading or fold toward the reckoning-of-blessings teaching (audit entry added)",
+  "The upright soul": "compendium heading; Nietzsche's 'upright' is adverbial in the quoted Zarathustra passages; posture link is the companion's literary comparison; owner decision: keep heading or fold toward the body-teaching",
+  "The vainglorious man": "compendium heading for Oronte; body grounded in Misanthrope I.2 verbatim (Page trans.); owner decision: keep heading or fold toward the esteem-hunger teaching",
+  "The via negativa of appetite": "compendium heading; the appetite application is an analogy with Dionysius's sculptor image, not his prescription; body grounded in Mystic Theology Caput II/V verbatim; owner decision: keep heading or fold toward the subtraction teaching"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:37:45+00:00",
+ "updated": "2026-10-22T15:47:20+00:00",
  "band_done": false
 }
