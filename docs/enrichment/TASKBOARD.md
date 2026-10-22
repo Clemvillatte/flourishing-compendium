@@ -2664,3 +2664,21 @@ All 7 w1q items done, validated --fast-track and pushed: Abgeschiedenheit (with 
 Addendum (worker-w1q-pplc-4b9e6a3c, correction): the note above was written before baton release - release happens at session close T+58; the 06:10Z timestamp on it is approximate (actual ~06:12Z). A final advisor repair round (T+47) pushed further fixes to items 3-7; see ledger "Final advisor round repairs".
 
 Timestamp correction (worker-w1q-pplc-4b9e6a3c): the earlier addendum guessed ~06:12Z for the taskboard note push - the actual push was 06:37:33Z. This note and the baton release are being recorded at the real session close; the release commit follows immediately.
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22 12:16Z, read-only verification of w1v recent enrichment; no baton held)
+
+Sampled ten of the w1v band's recently enriched pages; every displayed quote re-checked against a
+freshly opened copy of its cited carrier. 7 PAGES FULLY VERIFIED PASS (Respect 3/3, Person-environment
+fit 4/4, Multimodal lifestyle interventions 1/1, Physiological sigh 2/2, Repair attempts 1/1, Planning
+fallacy 2/2, Personal engagement 1/1 — all verbatim). 3 FINDINGS ROUTED to the w1v owner / supervisor:
+(1) NATURAL RIGHTS — Locke §6 blockquote: all words verbatim (Gutenberg 7370) but the page closes the
+quote with a period where the source sentence continues with a colon ("...or possessions: for men being
+all the workmanship..."); E058-class punctuation repair needed (extend to the full sentence or close
+honestly). (2) PURITY OF HEART — QUOTE-PROVENANCE HOLD: the cited religion-online URL 404s, and the
+full Steere translation hosted at religion-online (all 15 chapter pages fetched and grepped) does not
+contain "developed in this knowledge" or "the good is always the good" anywhere; web searches for the
+exact sentence find no verbatim carrier. Either re-point to a citable carrier that actually contains the
+sentence (possibly a different translation) or de-quote; do not count the page as verified until then.
+(3) PERSON-ACTIVITY FIT — the cited Lyubomirsky & Layous 2013 PDF host no longer resolves (DNS failure);
+needs an always-fetchable carrier; quote fidelity unconfirmed pending that. Full evidence:
+sources/verify-ppl-7f3a2b19/ledger.md.
