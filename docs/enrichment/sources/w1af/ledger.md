@@ -131,3 +131,7 @@ Round covered: The tyranny of the ideal, The uncanny, The undiminishing past, Th
 - The unexamined I: the PhilArchive carrier of Nishida's "On Descartes' Philosophy" was 403-blocked (bot wall) — page rests on the SEP entry as disclosed carrier, quotes re-verified against a raw full-text fetch (no-prompt); "built his philosophy from this fact" and the self-consciousness/longing claim removed; the SEP's own self-awareness description used instead; the Layer II reference dropped (the book's Layer II is the Kyoto nihility layer, K-S02, not a self-examination teaching; too vague to cite); K045 parallel kept as the seed's own gloss.
 - The unreliability of testimony: the miracle maxim extended to its full qualification ("mutual destruction of arguments..."); the modern application labeled as application; Related reduced to bare links.
 Both compendium-heading flags (tyranny of the ideal, undiminishing past) recorded in concept-namespace-audit.md. All five pages pass --fast-track validation. NEXT: continue the queue from the next w1af manifest item.
+
+## w1af progress note (2026-10-22, worker-pplc-6a2f9b17, T+39)
+
+The upright soul: enriched at the fast-track bar from the opened Gutenberg #1998 (Common trans.); all quotes verbatim from raw greps (Backworldsmen: "more upright and pure voice" / "Always more uprightly learneth it to speak, the ego"; Despisers of the Body: "Body am I entirely"). Flagged as compendium heading (Nietzsche's word "upright" is adverbial there); state note carries the flag. QC cadence next due at item 15.
