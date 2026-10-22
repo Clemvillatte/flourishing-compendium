@@ -250,8 +250,14 @@ research); all other sampled items PASS.
     Thou", the different-I sentence, the I-It/I-Thou worlds sentence, and "All
     real living is meeting". No hallucinated quotes.
 
+## Round 21 (11:56Z) — Theoria (w1t, commit 88ed31d54)
+
+28. **Theoria (w1t)** — 1 quoted passage checked, 1 PASS against a fresh
+    fetch of the cited aristotle-ethics.com carrier (NE X.8, Ross): the
+    God-contemplation subtraction argument. No hallucinated quotes.
+
 ## Summary
 
-27 items checked, 24 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+28 items checked, 25 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-seven items after repair.
+quotation-faithful at a 100% sample of its first twenty-eight items after repair.
