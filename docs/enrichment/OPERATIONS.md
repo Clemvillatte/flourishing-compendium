@@ -535,3 +535,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   FIXED: the page's first quote dropped the accent in "disponibilité" (SEP has the
   accented form); accent restored in the quoted sentence. Sample PASS after repair.
   Twenty-one samples this session, all PASS (one accent repair).
+- Supervisor verification sample 22 (2026-10-22 ~15:32 UTC): Authoritative parenting —
+  the Baumrind 1991 abstract passage checked via the Crossref API record (the Sage
+  page bot-walls scripts; Crossref carries the publisher's abstract): verbatim.
+  Sample PASS. Twenty-two samples this session, all PASS (one accent repair); every
+  concept page in the f08a97cb0..HEAD window is now verified or sampled clean.
