@@ -1072,3 +1072,15 @@ to go back to Egypt!") and the 14:33 sentence ("your children roam the wildernes
 forty years, suffering for your faithlessness") both verified verbatim against an
 unprompted raw fetch of the cited Sefaria page (Revised JPS, 2023); the page's ellipses
 correctly elide the intervening phrases. No routed findings.
+
+## Round 50 (2026-10-22; inspection ~12:43Z; cross-referenced method)
+
+### Enaction (w1u, done)
+
+2 quoted passages checked, 2 PASS — both passages ("By using the term embodied...", pp.
+172-173, and the two-claims summary) are the identical passages verified verbatim against
+the unprompted monoskop full-text PDF of The Embodied Mind in round 21 (Enactivism). Note
+on citation route: this page cites them via a secondary source (Wilkie, "Embodiment of
+code", iclc.toplap.org PDF) rather than the book carrier used on the Enactivism page; the
+secondary PDF itself was not opened this session — the verification is against the primary
+book text. No routed findings.
