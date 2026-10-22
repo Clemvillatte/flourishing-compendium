@@ -25,7 +25,7 @@ The motor side of the same idea reaches the world without representations:
 
 > "My body has its world, or understands its world without having to go through 'representations,' or without being subordinated to a 'symbolic' or 'objectifying function.'" (Merleau-Ponty, Phenomenology of Perception, [Landes translation excerpts](https://topologicalmedialab.net/xinwei/classes/readings/Merleau-Ponty/Merleau-Ponty_Phenomenology_of_Perception_Landes_Body_excerpts.pdf))
 
-Read together, the passages give the concept its shape. Experience does not begin with a subject holding ideas about a world; it begins with a body already at home in one, handling it before any theory is formed. Objective thought is a late construction that works while the older contact keeps feeding it.
+Read together, the two passages give the concept its shape. Experience does not begin with a subject holding ideas about a world; it begins with a body already at home in one, handling it before any theory is formed. Objective thought, in Merleau-Ponty's description, is the result and the natural continuation of that perceptual experience, and the same passage warns that it can make us lose contact with what it grew from.
 
 ### In the compendium
 

@@ -15,7 +15,7 @@ Creative values are Viktor Frankl's name for the first of the three routes to me
 
 The book's comment on the list: "The first, the way of achievement or accomplishment, is quite obvious. The second and third need further elaboration." Uemura identifies these routes as creative, experiential and attitudinal values, citing Frankl (1984, p. 133). In his account, creative values concern meaning found through creating a work or doing a deed. ([Uemura](https://www.davidpublisher.com/Public/uploads/Contribute/5baf1de27225a.pdf))
 
-### Why the route works
+### Work and self-transcendence
 
 Frankl's account of the route rests on his picture of the person as directed outward, toward something or someone beyond the self:
 
@@ -25,7 +25,7 @@ He adds a caution that the route cannot be walked by aiming at its rewards:
 
 > "For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself." (Frankl, Man's Search for Meaning, [Beacon Press edition, Internet Archive](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf))
 
-Taken together, the two passages give the creative route its shape. The work matters because it carries the person beyond themselves, and what the world gives back, recognition, success, even flourishing, arrives as a by-product that cannot be chased directly. Frankl calls the way of achievement the obvious one; the self-transcendence passage supplies its mechanism, and the success passage its limit.
+Taken together, the two passages give the creative route its shape in Frankl's account. The work matters because it carries the person beyond themselves, toward a cause or a person; and success, in this account, ensues as the unintended side-effect of that dedication rather than as its pursued goal. Frankl calls the way of achievement the obvious one; the self-transcendence passage supplies his picture of what the work serves, and the success passage its limit.
 
 ### In the compendium
 
