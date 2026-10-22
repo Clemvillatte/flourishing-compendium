@@ -281,3 +281,27 @@ Pre-theoretical experience dead carrier).
 
 Round 9 totals: 3 pages PASS, 1 defect repaired. Cumulative w1ac sample: 29 pages checked
 (22 PASS, 1 PASS-with-unresolved-comma-variance, 3 defects+1 attribution repaired, 3 routed).
+
+## Round 10 — w1ac earlier pages (2026-10-22, executed ~12:04-12:06Z per clock proximity)
+
+- PHENOMENAL AND NOUMENAL — PASS 2/2: both Kant CPR passages (Meiklejohn) verbatim vs the
+  cited Gutenberg 4280 file (opened).
+- PETITES PERCEPTIONS — PASS with an emphasis-only note: the Leibniz New Essays Preface
+  passage (Bennett) is verbatim vs the cited earlymoderntexts PDF except the carrier prints
+  Bennett's bullet emphasis markers ("To hear •this noise... to hear •its parts") where the
+  page prints the words plain — emphasis devices, not wording; no repair.
+- PHILOSOPHER-KING — ROUTED, CARRIER MISMATCH: the page's Jowett quotation prints "cities
+  will never have rest from their evils,—no, nor the human race, as I believe,—" but the
+  cited Gutenberg 1497 file reads "...evils,—nor the human race, as I believe,—" (no "no,").
+  The page's wording matches the widely printed Jowett text, so the likeliest repair is
+  re-pointing the citation to a Jowett edition that prints "no, nor" (or aligning the quote
+  to the cited file); needs the owner's/supervisor's carrier decision, so routed.
+- RECEPTIVITY — DEFECT FOUND AND REPAIRED (under the w1ac baton): the Noddings passage
+  printed 'engrossment' in single quotes where the cited uvm.edu PDF prints "engrossment" in
+  double quotes — quote-mark normalization; restored verbatim (double quotes). Fast-track
+  validation 1 checked 0 failed.
+
+Round 10 totals: 2 pages PASS, 1 defect repaired, 1 routed. Cumulative w1ac sample: 33 pages
+checked (24 PASS, 1 PASS-with-unresolved-comma-variance, 4 defects+1 attribution repaired,
+4 routed: Relational Frame Theory interstitial, Pre-understanding p. 192 dropped glosses,
+Pre-theoretical experience dead carrier, Philosopher-king Jowett variant).

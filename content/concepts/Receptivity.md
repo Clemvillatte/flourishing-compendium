@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 In Nel Noddings's ethics of care, receptivity is the carer's characteristic mode of attention. She later called it "engrossment," and she insisted it is reception rather than projection: the carer receives what the other conveys instead of analyzing the other against a pre-set ideal.
 
-> "This attention, which I called 'engrossment' in Caring (Noddings, 1984), is receptive; it receives what the cared-for is feeling and trying to express." (Noddings, [Caring in Education](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf))
+> "This attention, which I called \"engrossment\" in Caring (Noddings, 1984), is receptive; it receives what the cared-for is feeling and trying to express." (Noddings, [Caring in Education](https://www.uvm.edu/~rgriffin/NoddingsCaring.pdf))
 
 The relation closes on the other side too: "Without an affirmative response from the cared-for, we cannot call an encounter or relation caring."
 
