@@ -59,6 +59,10 @@ def age_min(st):
 
 def clock_in(baton, agent):
     st = remote_read(baton)
+    if st is not None and st.get('closed'):
+        print(f'REFUSED: {baton} is CLOSED to workers ({st.get("closed_reason", "owner directive")}). '
+              'Only a supervisor force-release (which clears the closed flag) can reopen it.')
+        return 1
     if st is None or st.get('released') or st.get('agent') is None:
         prev = (st or {}).get('agent')
         reason = 'free' if st is None else ('released' if st.get('released') else 'free')
@@ -94,6 +98,8 @@ def force_release(baton, agent):
     st.setdefault('takeovers', []).append({"by": agent, "at": iso(), "from": prev, "reason": "supervisor force-release"})
     st['released'] = True
     st['released_at'] = iso()
+    st.pop('closed', None)  # supervisor override clears an owner-directed closure
+    st.pop('closed_reason', None)
     local_write(baton, st)
     print(f'FORCE-RELEASED {baton} (was held by {prev}). Supervisor action recorded. Now push.')
     return 0
@@ -128,6 +134,8 @@ def status():
             continue
         if st.get('released'):
             print(f'{baton:12s} RELEASED (was {st.get("agent")})')
+        elif st.get('closed'):
+            print(f'{baton:12s} CLOSED TO WORKERS — {st.get("closed_reason", "owner directive")}')
         else:
             print(f'{baton:12s} held by {st.get("agent")} — clocked in {age_min(st):.0f} min ago '
                   f'({"FRESH" if age_min(st) < STALE_MIN else "STALE — free for takeover"})')
