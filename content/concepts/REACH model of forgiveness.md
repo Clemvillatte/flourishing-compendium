@@ -22,7 +22,7 @@ The model leads participants through five steps, built as an acronym: Recall the
 ## Sources
 
 - Worthington et al., 2014
-- [Harper, Worthington, Griffin, Lavelock, Hook, Vrana & Greer, "Efficacy of a Workbook to Promote Forgiveness: A Randomized Controlled Trial With University Students", Journal of Clinical Psychology 70(12), 1158–1169 (2014)](https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=1053&context=psyc_pubs) — opened source; five-step listing quoted verbatim; authorship and journal verified against the publication record
+- [Harper, Worthington, Griffin, Lavelock, Hook, Vrana & Greer, "Efficacy of a Workbook to Promote Forgiveness: A Randomized Controlled Trial With University Students", Journal of Clinical Psychology 70(12), 1158–1169 (2014)](https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=1053&context=psyc_pubs) — source; five-step listing quoted verbatim; authorship and journal verified against the publication record
 
 ## Cited in psychology parallels
 

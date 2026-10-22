@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 16** — Learn to use the "just 5 minutes" technique: lower the barrier to starting
 
-Fogg's behavior model is the opened source. Its abstract:
+Fogg's behavior model is the source. Its abstract:
 
 > "In this model (FBM), behavior is a product of three factors: motivation, ability, and triggers, each of which has subcomponents." ([Fogg, 2009, Persuasive '09, full text](https://storage.ghost.io/c/89/6e/896e4a8a-731d-46fb-a1c8-1b750eb08140/content/files/2024/03/BJ-Fogg--A-Behavior-Model-for-Persuasive-Design.pdf))
 

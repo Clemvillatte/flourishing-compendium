@@ -38,7 +38,7 @@ The original entry compresses a book and a research programme into a date. The c
 
 - Benson, 1975
 - [Benson, Beary & Carol (1974), The relaxation response, Psychiatry 37:37-46 (PubMed 4810622, no abstract)](https://pubmed.ncbi.nlm.nih.gov/4810622/) — record opened
-- [Bhasin et al. (2013), Relaxation response induces temporal transcriptome changes, PLoS ONE (PubMed 23650531)](https://pubmed.ncbi.nlm.nih.gov/23650531/) — opened source (abstract)
+- [Bhasin et al. (2013), Relaxation response induces temporal transcriptome changes, PLoS ONE (PubMed 23650531)](https://pubmed.ncbi.nlm.nih.gov/23650531/) — source (abstract)
 - [The Relaxation Response, Wikipedia](https://en.wikipedia.org/wiki/The_Relaxation_Response) — read via search excerpt
 - [Lichstein, Relaxation for Insomnia](https://www.med.upenn.edu/cbti/assets/user-content/documents/Lichstein_RelaxationforInsomnia-BTSD.pdf) — read via search excerpt
 

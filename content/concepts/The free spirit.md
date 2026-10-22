@@ -47,7 +47,7 @@ The preface is a later, retrospective piece in Nietzsche's own voice, and is not
 ## Sources
 
 - Nietzsche, Human, All Too Human
-- [Nietzsche, Human, All Too Human: A Book for Free Spirits, trans. Alexander Harvey (Project Gutenberg #38145)](https://www.gutenberg.org/ebooks/38145) — opened source (preface read)
+- [Nietzsche, Human, All Too Human: A Book for Free Spirits, trans. Alexander Harvey (Project Gutenberg #38145)](https://www.gutenberg.org/ebooks/38145) — source (preface read)
 
 [[SP026 — Study the drunkard, and keep your seat]]
 [[SP096 — Hold the whole as the daily measure]]

@@ -39,7 +39,7 @@ The original entry note cites Kasser (2002) and says the pursuit of possessions 
 - [Materialistic cues make us miserable: A meta-analysis of the experimental evidence for the effects of materialism on individual and societal well-being (Psychology & Marketing)](https://onlinelibrary.wiley.com/doi/full/10.1002/mar.21387)
 - [Materialism and Living Well (Handbook of Well-Being)](https://www.handbookofwellbeing.com/chapters/56-materialism-and-living-well.html)
 - [A Meta-Analysis on the Bidirectional Effects of Materialism (Cardiff ORCA PDF)](https://orca.cardiff.ac.uk/id/eprint/172978/1/cb.2409.pdf)
-- Kasser (2002), The High Price of Materialism, cited in the original entry and not opened directly
+- Kasser (2002), The High Price of Materialism, cited in the original entry at second hand
 
 ## Cited in psychology parallels
 

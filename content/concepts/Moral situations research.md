@@ -28,7 +28,7 @@ The book's practical lesson, as the reviewer reads it, is that ethical attention
 ## Sources
 
 - Doris, Lack of Character
-- ["Lack of Character: Personality and Moral Behavior (review)", Notre Dame Philosophical Reviews (2003)](https://ndpr.nd.edu/reviews/lack-of-character-personality-and-moral-behavior/) — opened source; situationist thesis quoted verbatim from the review; the three helping experiments and Doris's practical lesson as recounted by the reviewer
+- ["Lack of Character: Personality and Moral Behavior (review)", Notre Dame Philosophical Reviews (2003)](https://ndpr.nd.edu/reviews/lack-of-character-personality-and-moral-behavior/) — source; situationist thesis quoted verbatim from the review; the three helping experiments and Doris's practical lesson as recounted by the reviewer
 
 ## Cited in psychology parallels
 

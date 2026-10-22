@@ -37,7 +37,7 @@ Developmental psychology · Psychological science
 ## Sources
 
 - Thelen and Smith, 1994
-- [Grossi, Duchesne & Maney, Developmental and dynamic systems: insights for sex/gender research, Biology of Sex Differences (PMC13348645)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13348645/) — opened source; all quotes verbatim
+- [Grossi, Duchesne & Maney, Developmental and dynamic systems: insights for sex/gender research, Biology of Sex Differences (PMC13348645)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13348645/) — source; all quotes verbatim
 
 ## Cited in psychology parallels
 [[P007 — Expect emergence — wholes exceed their parts]]

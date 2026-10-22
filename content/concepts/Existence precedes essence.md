@@ -48,8 +48,8 @@ Sartre's own argument for the slogan rests on atheism: there is no God to hold a
 ## Sources
 
 - Sartre, Existentialism Is a Humanism
-- [Sartre, Existentialism Is a Humanism (lecture, 1945), English text, Marxists Internet Archive](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) — opened source; quotations verified
-- [Reynolds & Renaudie, Jean-Paul Sartre, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/) — opened source
+- [Sartre, Existentialism Is a Humanism (lecture, 1945), English text, Marxists Internet Archive](https://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm) — source; quotations verified
+- [Reynolds & Renaudie, Jean-Paul Sartre, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/sartre/) — source
 
 - Sartre, Existentialism is a Humanism
 

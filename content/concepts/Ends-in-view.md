@@ -56,7 +56,7 @@ Dewey is describing how purposeful action works. He does not offer a goal-settin
 ## Sources
 
 - Dewey, Human Nature and Conduct
-- [Dewey, Human Nature and Conduct (1922), Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — opened source; quotations verified against the full text
+- [Dewey, Human Nature and Conduct (1922), Project Gutenberg](https://www.gutenberg.org/cache/epub/41386/pg41386.txt) — source; quotations verified against the full text
 
 [[P040 — Keep means and ends continuous]]
 ## Cited in philosophy parallels

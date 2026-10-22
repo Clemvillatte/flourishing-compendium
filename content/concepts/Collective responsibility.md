@@ -32,8 +32,8 @@ The responsibility it names is shared rather than vested in a collective agent. 
 - Young, "Responsibility and Structural Injustice," in Global Challenges
 
 - Young, Global Challenges
-- [Young, "Responsibility and Global Justice: A Social Connection Model" (Social Philosophy and Policy 23(1), 2006, pp. 102-130)](https://www.cambridge.org/core/journals/social-philosophy-and-policy/article/abs/responsibility-and-global-justice-a-social-connection-model/9308EE478561C7CE31E1F5A8F26CBE04) — opened source (author's abstract) for both quotes; inherited Global Challenges citations not opened
-- [Marin, "Structural Responsibility" (2024)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BD6D560DB5A68105A5B47438F03FE7F/S0003055424001072a.pdf/structural_responsibility.pdf) — opened source for the shared-vs-collective distinction (author's prose, p. 1334, discussing Young with page references)
+- [Young, "Responsibility and Global Justice: A Social Connection Model" (Social Philosophy and Policy 23(1), 2006, pp. 102-130)](https://www.cambridge.org/core/journals/social-philosophy-and-policy/article/abs/responsibility-and-global-justice-a-social-connection-model/9308EE478561C7CE31E1F5A8F26CBE04) — source for the quotes (author's abstract) for both quotes; the inherited Global Challenges citations are carried at second hand
+- [Marin, "Structural Responsibility" (2024)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0BD6D560DB5A68105A5B47438F03FE7F/S0003055424001072a.pdf/structural_responsibility.pdf) — source for the shared-vs-collective distinction (author's prose, p. 1334, discussing Young with page references)
 
 [[K295 — Belonging practices]]
 [[ST236 — Ricky Baker Finds Hec]]

@@ -41,7 +41,7 @@ The study used non-standardised measures because none existed for its purposes, 
 ## Sources
 
 - 2021
-- [Hickman et al. (2021), Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey, Lancet Planetary Health 5(12):e863-e873](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00278-3/fulltext) — opened source; all quotations verified against the full text
+- [Hickman et al. (2021), Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey, Lancet Planetary Health 5(12):e863-e873](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00278-3/fulltext) — source; all quotations verified against the full text
 
 ## Cited in psychology parallels
 

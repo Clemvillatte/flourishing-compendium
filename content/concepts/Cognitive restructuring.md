@@ -39,9 +39,9 @@ The same review stresses that it is not one method but a collection: "Rather tha
 - Beck, 1976
 - Burns, 1980
 - Gross, 2015, for reappraisal
-- [Ezawa and Hollon, "Cognitive Restructuring and Psychotherapy Outcome: A Meta-Analytic Review" (Psychotherapy, 2023, PMC10440210)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/) — opened source for the definition and thought-record quotes
-- [Gross, "Emotion Regulation: Current Status and Future Prospects" (Psychological Inquiry, 2015)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — opened source for the reappraisal quote
-- [Mueser et al., "Evaluation of cognitive restructuring for post-traumatic stress disorder in people with severe mental illness" (British Journal of Psychiatry, 2015, PMC4450219)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4450219/) — opened source for the evidence-evaluation quote
+- [Ezawa and Hollon, "Cognitive Restructuring and Psychotherapy Outcome: A Meta-Analytic Review" (Psychotherapy, 2023, PMC10440210)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10440210/) — source for the definition and thought-record quotes
+- [Gross, "Emotion Regulation: Current Status and Future Prospects" (Psychological Inquiry, 2015)](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf) — source for the reappraisal quote
+- [Mueser et al., "Evaluation of cognitive restructuring for post-traumatic stress disorder in people with severe mental illness" (British Journal of Psychiatry, 2015, PMC4450219)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4450219/) — source for the evidence-evaluation quote
 
 ## Cited in psychology parallels
 

@@ -29,7 +29,7 @@ Affect · Psychological science
 
 ## Sources
 
-- [Wright, Jones & Johnson, Emodiversity Among U.S. Emerging Adults, Behavioral Sciences (PMC12838163)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12838163/) — opened source; quotes verbatim
+- [Wright, Jones & Johnson, Emodiversity Among U.S. Emerging Adults, Behavioral Sciences (PMC12838163)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12838163/) — source; quotes verbatim
 
 ## Cited in philosophy parallels
 [[CO074 — Cultivate creative thinking — divergent and convergent modes]]

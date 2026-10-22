@@ -52,7 +52,7 @@ The original entry's claim about a reversal of self-serving attribution in depre
 - Jones & Harris, 1967
 - [Ross (1977), The intuitive psychologist and his shortcomings, in Advances in Experimental Social Psychology 10:173-220 (text excerpt, Internet Archive)](https://ia800601.us.archive.org/21/items/15341_Readings/15341_Readings/Social_Cognition/Ross_Intuitive_Psychologist_in_Adv_Experiment_Soc_Psych_vol10_p173_text.pdf) — read via search excerpt
 - [Jones & Harris (1967), The attribution of attitudes, J Exp Soc Psychol 3(1):1-24 (abstract)](https://sciencedatabase.strategian.com/?p=6053) — read via search excerpt
-- [Malle (2006), The actor-observer asymmetry in attribution: a (surprising) meta-analysis, Psychol Bull 132:895-919 (PubMed 17073526)](https://pubmed.ncbi.nlm.nih.gov/17073526/) — opened source (abstract)
+- [Malle (2006), The actor-observer asymmetry in attribution: a (surprising) meta-analysis, Psychol Bull 132:895-919 (PubMed 17073526)](https://pubmed.ncbi.nlm.nih.gov/17073526/) — source (abstract)
 
 ## Cited in psychology parallels
 

@@ -29,7 +29,7 @@ The evidence does not support a firm claim that a phone on the desk costs workin
 
 ### What this page does not claim
 
-Simon's argument that information consumes attention, which the original entry's related-concept line attributes to this idea, was not opened here, and the market side of the attention economy is not covered.
+Simon's argument that information consumes attention, which the original entry's related-concept line attributes to this idea, is not covered here, and the market side of the attention economy is not covered.
 
 ### In the compendium
 

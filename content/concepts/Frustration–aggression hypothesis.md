@@ -48,4 +48,4 @@ Sociocultural · Psychological science
 - [Klandermans, "Frustration-aggression", Wiley-Blackwell Encyclopedia of Social and Political Movements](https://dn760107.eu.archive.org/0/items/scott19482/klandermans2013.pdf): the 1939 core assumption and definitions
 - [Dill and Anderson, "Effects of justified and unjustified frustration on aggression", Aggressive Behavior 21, 359-369, 1995 (abstract)](http://www.craiganderson.org/wp-content/uploads/caa/abstracts/1995-1999/95DA.2.html)
 - [Aversive events and aggression (review, Craig Anderson's site)](http://www.craiganderson.org/wp-content/uploads/caa/abstracts/2015-2019/17GA.pdf): instrumental aggression limit
-- Dollard, Doob, Miller, Mowrer and Sears, Frustration and Aggression, 1939 (not opened directly)
+- Dollard, Doob, Miller, Mowrer and Sears, Frustration and Aggression, 1939 (cited at second hand)

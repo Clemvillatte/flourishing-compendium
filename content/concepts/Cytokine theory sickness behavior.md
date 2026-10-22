@@ -29,7 +29,7 @@ Biophysiological · Psychological science
 ## Sources
 
 - Dantzer, 2007
-- [Dantzer & Kelley (2007), Twenty years of research on cytokine-induced sickness behavior, Brain, Behavior, and Immunity 21(2):153-160 (PMC1850954)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1850954/) — opened source; blockquote and fragments verbatim
+- [Dantzer & Kelley (2007), Twenty years of research on cytokine-induced sickness behavior, Brain, Behavior, and Immunity 21(2):153-160 (PMC1850954)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1850954/) — source; blockquote and fragments verbatim
 
 ## Cited in philosophy parallels
 [[PP075 — Move the body]]

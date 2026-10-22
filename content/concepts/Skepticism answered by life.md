@@ -49,8 +49,8 @@ He also does not end in dogmatism. Paragraph 129 recommends a "mitigated" scepti
 ## Sources
 
 - Hume, Enquiry, Section XII, the backgammon passage
-- [David Hume, An Enquiry concerning Human Understanding, Section XII, paras. 126, 128, 129 (Gutenberg #9662, Selby-Bigge ed.)](https://www.gutenberg.org/ebooks/9662) — opened source; Enquiry quotations verified against it
-- [David Hume, A Treatise of Human Nature, Book I, Part IV, Section VII (Gutenberg #4705)](https://www.gutenberg.org/ebooks/4705) — opened source; backgammon quotation verified against it
+- [David Hume, An Enquiry concerning Human Understanding, Section XII, paras. 126, 128, 129 (Gutenberg #9662, Selby-Bigge ed.)](https://www.gutenberg.org/ebooks/9662) — source; Enquiry quotations verified against it
+- [David Hume, A Treatise of Human Nature, Book I, Part IV, Section VII (Gutenberg #4705)](https://www.gutenberg.org/ebooks/4705) — source; backgammon quotation verified against it
 
 [[ST265 — Christy Brown's A]]
 [[M036 — Ask whether this life is real, and let the question sting]]

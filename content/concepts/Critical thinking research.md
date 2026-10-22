@@ -29,7 +29,7 @@ The test works by inviting a wrong-but-tempting answer and rewarding the second 
 ## Sources
 
 - Stanovich, West and Toplak, 2011
-- [Toplak, West & Stanovich (2011), The Cognitive Reflection Test as a predictor of performance on heuristics-and-biases tasks, Memory & Cognition 39(7):1275-1289 (PubMed 21541821)](https://pubmed.ncbi.nlm.nih.gov/21541821/) — opened source; blockquote and fragments verbatim
+- [Toplak, West & Stanovich (2011), The Cognitive Reflection Test as a predictor of performance on heuristics-and-biases tasks, Memory & Cognition 39(7):1275-1289 (PubMed 21541821)](https://pubmed.ncbi.nlm.nih.gov/21541821/) — source; blockquote and fragments verbatim
 
 ## Cited in psychology parallels
 

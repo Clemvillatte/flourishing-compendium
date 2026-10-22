@@ -52,8 +52,8 @@ Emerson does not define integrity, and his essay praises nonconformity and self-
 ## Sources
 
 - Emerson, Self-Reliance
-- [Emerson, Self-Reliance (Essays: First Series, 1841), Emerson Central](https://emersoncentral.com/texts/essays-first-series/self-reliance/) — opened source; quotations verified
-- [Cox, La Caze & Levine, Integrity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/integrity/) — opened source
+- [Emerson, Self-Reliance (Essays: First Series, 1841), Emerson Central](https://emersoncentral.com/texts/essays-first-series/self-reliance/) — source; quotations verified
+- [Cox, La Caze & Levine, Integrity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/integrity/) — source
 
 [[K250 — Virtue rehearsal]]
 [[K251 — Signature strengths in new ways]]

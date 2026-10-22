@@ -46,7 +46,7 @@ Only the opening summary of the chapter was available, so the account of how dis
 ## Sources
 
 - Ricoeur, "The Task of Hermeneutics"
-- [Ricoeur, The hermeneutical function of distanciation, in Hermeneutics and the Human Sciences, ed. and trans. J. B. Thompson (Cambridge University Press), chapter 4, pp. 93-106](https://www.cambridge.org/core/books/abs/hermeneutics-and-the-human-sciences/hermeneutical-function-of-distanciation/247F0246D6E6452B48F74C5CF30FF4E9) — opened source (chapter summary); quotations verified
+- [Ricoeur, The hermeneutical function of distanciation, in Hermeneutics and the Human Sciences, ed. and trans. J. B. Thompson (Cambridge University Press), chapter 4, pp. 93-106](https://www.cambridge.org/core/books/abs/hermeneutics-and-the-human-sciences/hermeneutical-function-of-distanciation/247F0246D6E6452B48F74C5CF30FF4E9) — source (chapter summary); quotations verified
 
 [[ST288 — Joel and Clementine Erase Each Other]]
 [[ST287 — Will Finishes the Story]]

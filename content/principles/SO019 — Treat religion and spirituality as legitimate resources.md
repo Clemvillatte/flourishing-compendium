@@ -18,7 +18,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 The review found reduced mortality in initially healthy populations (combined hazard ratio 0.82) but not in diseased ones (0.98), and the protection was "independent of behavioral factors (smoking, drinking, exercising, and socioeconomic status), negative affect, and social support." This cuts against the simple idea that religion helps only through healthier habits. A large cohort of 74,534 U.S. nurses found that attending services more than once a week was associated with 33% lower all-cause mortality than never attending (Li, Stampfer, Williams and VanderWeele, JAMA Internal Medicine 176(6), 2016; [PubMed](https://pubmed.ncbi.nlm.nih.gov/27183175/)). Both are observational associations, and neither study shows that religion causes the difference.
 
-The claims about mental health and social connection (VanderWeele 2017, 2025; VanderWeele et al. 2016) were not opened here, so the entry's stronger statement that "the evidence is substantial" is only partly checked.
+The claims about mental health and social connection (VanderWeele 2017, 2025; VanderWeele et al. 2016) are not covered here, so the entry's stronger statement that "the evidence is substantial" is only partly checked.
 
 **Plain words** Religious involvement, especially attending services, tends to go with longer survival in healthy people. That doesn't prove religion causes it. Even so, there is good reason to treat these communities and practices as serious resources and not as leftovers.
 

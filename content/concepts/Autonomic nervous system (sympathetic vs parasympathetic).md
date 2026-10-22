@@ -39,7 +39,7 @@ The same source pairs this with the parasympathetic side's "rest and digest" pro
 
 - Thayer et al., 2012
 
-- [Waxenbaum, Reddy and Das, "Anatomy, Autonomic Nervous System" (StatPearls, NCBI Bookshelf)](https://www.ncbi.nlm.nih.gov/books/NBK539845/) — opened source for the ANS definition, the three divisions, and the SNS and PNS effect descriptions
+- [Waxenbaum, Reddy and Das, "Anatomy, Autonomic Nervous System" (StatPearls, NCBI Bookshelf)](https://www.ncbi.nlm.nih.gov/books/NBK539845/) — source for the ANS definition, the three divisions, and the SNS and PNS effect descriptions
 
 ## Cited in psychology parallels
 

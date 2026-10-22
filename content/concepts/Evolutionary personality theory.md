@@ -31,7 +31,7 @@ Self · Psychological science
 ## Sources
 
 - Buss, Nettle
-- [Verweij et al. 2012, Maintenance of genetic variation in human personality, Evolution (PMC3518920)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3518920/) — opened source; quotes verbatim
+- [Verweij et al. 2012, Maintenance of genetic variation in human personality, Evolution (PMC3518920)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3518920/) — source; quotes verbatim
 
 ## Cited in philosophy parallels
 [[SE069 — Recognise identity disturbances — when self is fragmented]]

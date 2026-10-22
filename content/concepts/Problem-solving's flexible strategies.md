@@ -11,7 +11,7 @@ The page title is the wiki's label. The research line it points to is social pro
 
 > "the person focuses on the problem-solving goals and tries to identify as many potential solutions as possible, including both conventional and original solutions" (D'Zurilla, Nezu & Maydeu-Olivares 2004, Social Problem Solving: Theory and Assessment, ch. 1, "Problem-Solving Styles" section, [author-hosted PDF](https://www.ub.edu/gdne/documents/sps_chapter_in_APA_book.pdf))
 
-The model names the failure mode this skill replaces. The impulsivity-carelessness style is a dysfunctional problem-solving pattern in which a person "typically considers only a few solution alternatives, often impulsively going with the first idea that comes to mind" (same section). What the opened source supports is this contrast: generating many alternatives versus grabbing the first one.
+The model names the failure mode this skill replaces. The impulsivity-carelessness style is a dysfunctional problem-solving pattern in which a person "typically considers only a few solution alternatives, often impulsively going with the first idea that comes to mind" (same section). What the source supports is this contrast: generating many alternatives versus grabbing the first one.
 
 In the compendium, M046 anchors its "cleverness joined to humility" reading in this research line, treating the Popol Vuh twins' ruses and trained problem-solving skill as adjacent.
 

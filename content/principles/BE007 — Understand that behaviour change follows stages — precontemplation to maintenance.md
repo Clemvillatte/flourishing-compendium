@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BE — Overt Be
 ---
 > **Principle 7** — Understand that behaviour change follows stages: precontemplation to maintenance
 
-Prochaska and Velicer's transtheoretical model is the opened source. Its abstract:
+Prochaska and Velicer's transtheoretical model is the source. Its abstract:
 
 > "The transtheoretical model posits that health behavior change involves progress through six stages of change: precontemplation, contemplation, preparation, action, maintenance, and termination." ([Prochaska & Velicer, 1997, American Journal of Health Promotion 12, full text](https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/prochaska_1997_transtheoretical_model_of_health_behaviour_change.pdf))
 

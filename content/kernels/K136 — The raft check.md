@@ -31,7 +31,7 @@ And the line the check is named for:
 
 > "I have taught the Dhamma compared to a raft, for the purpose of crossing over, not for the purpose of holding onto. Understanding the Dhamma as taught compared to a raft, you should let go even of Dhammas, to say nothing of non-Dhammas." (MN 22, same translation)
 
-What this evidence does not test: the check as a practice. The simile is a teaching image from a canonical discourse, and the page makes no empirical claim about what retiring beliefs does; the seed's "no longer earns its keep" framing is editorial.
+What this evidence does not test: the check as a practice. The simile is a teaching image from a canonical discourse, and the page makes no empirical claim about what retiring beliefs does; the original entry's "no longer earns its keep" framing is editorial.
 
 ### A guided version
 

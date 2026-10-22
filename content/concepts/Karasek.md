@@ -41,8 +41,8 @@ A 2003 review of longitudinal research on the demand-control-(support) model app
 ## Sources
 
 - 1979
-- [Karasek, R. A. (1979), Job Demands, Job Decision Latitude, and Mental Strain: Implications for Job Redesign, Administrative Science Quarterly 24(2):285-308](https://movingforwardnetwork.org/wp-content/uploads/2023/04/Karasek_Job-Demands-Job-Decision-Latitude-and-Mental-Strain-Implications-for-Job-Redesign_1979.pdf) — opened source (PDF copy); quotations verified
-- [de Lange, Taris, Kompier et al. (2003), "The very best of the millennium": longitudinal research and the demand-control-(support) model, J Occup Health Psychol 8(4) (PubMed 14570524)](https://pubmed.ncbi.nlm.nih.gov/14570524/) — opened source (abstract)
+- [Karasek, R. A. (1979), Job Demands, Job Decision Latitude, and Mental Strain: Implications for Job Redesign, Administrative Science Quarterly 24(2):285-308](https://movingforwardnetwork.org/wp-content/uploads/2023/04/Karasek_Job-Demands-Job-Decision-Latitude-and-Mental-Strain-Implications-for-Job-Redesign_1979.pdf) — source (PDF copy); quotations verified
+- [de Lange, Taris, Kompier et al. (2003), "The very best of the millennium": longitudinal research and the demand-control-(support) model, J Occup Health Psychol 8(4) (PubMed 14570524)](https://pubmed.ncbi.nlm.nih.gov/14570524/) — source (abstract)
 
 ## Cited in psychology parallels
 

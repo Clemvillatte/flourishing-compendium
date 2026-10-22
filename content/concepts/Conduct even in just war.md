@@ -30,7 +30,7 @@ Even the aim of the war must be peace: "We do not seek peace in order to be at w
 ## Sources
 
 - Aquinas, Summa Theologiae II-II, q.40
-- [Aquinas, Summa Theologiae II-II, q.40 (New Advent English translation)](https://www.newadvent.org/summa/3040.htm) — opened source for all quotes
+- [Aquinas, Summa Theologiae II-II, q.40 (New Advent English translation)](https://www.newadvent.org/summa/3040.htm) — source for all quotes
 
 [[A108 — Practise habituation through repeated action]]
 [[A046 — See the particular]]

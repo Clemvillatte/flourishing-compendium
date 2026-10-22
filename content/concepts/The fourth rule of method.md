@@ -47,7 +47,7 @@ Only Part II was used. This page does not assess whether the rule works in pract
 ## Sources
 
 - Descartes, Discourse on Method
-- [Descartes, Discourse on the Method of Rightly Conducting One's Reason, trans. John Veitch (Project Gutenberg #59)](https://www.gutenberg.org/ebooks/59) — opened source (full text)
+- [Descartes, Discourse on the Method of Rightly Conducting One's Reason, trans. John Veitch (Project Gutenberg #59)](https://www.gutenberg.org/ebooks/59) — source (full text)
 
 [[SP062 — Moderate the pleasures of the table and of comfort]]
 [[P128 — Begin in conversation]]

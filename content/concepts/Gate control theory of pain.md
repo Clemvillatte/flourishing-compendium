@@ -47,9 +47,9 @@ The sources do not show that attention, mood or meditation close a spinal gate. 
 ## Sources
 
 - [Melzack & Wall (1965), Pain mechanisms: a new theory, Science 150:971-979 (PubMed 5320816)](https://pubmed.ncbi.nlm.nih.gov/5320816/) — record opened; no abstract available
-- [Mendell (2014), Constructing and deconstructing the gate theory of pain, Pain 155:210-216 (PubMed 24334188)](https://pubmed.ncbi.nlm.nih.gov/24334188/) — opened source (abstract)
-- [Lin et al. (2020), Mechanism of peripheral nerve stimulation in chronic pain, Pain Med 21 (PubMed 32804230)](https://pubmed.ncbi.nlm.nih.gov/32804230/) — opened source (abstract)
-- [Moayedi & Davis (2013), Theories of pain: from specificity to gate control, J Neurophysiol 109 (PubMed 23034364)](https://pubmed.ncbi.nlm.nih.gov/23034364/) — opened source (abstract)
+- [Mendell (2014), Constructing and deconstructing the gate theory of pain, Pain 155:210-216 (PubMed 24334188)](https://pubmed.ncbi.nlm.nih.gov/24334188/) — source (abstract)
+- [Lin et al. (2020), Mechanism of peripheral nerve stimulation in chronic pain, Pain Med 21 (PubMed 32804230)](https://pubmed.ncbi.nlm.nih.gov/32804230/) — source (abstract)
+- [Moayedi & Davis (2013), Theories of pain: from specificity to gate control, J Neurophysiol 109 (PubMed 23034364)](https://pubmed.ncbi.nlm.nih.gov/23034364/) — source (abstract)
 
 ## Field
 

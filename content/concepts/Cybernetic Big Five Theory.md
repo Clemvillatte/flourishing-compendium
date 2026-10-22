@@ -32,7 +32,7 @@ Self · Psychological science
 ## Sources
 
 - DeYoung, 2015
-- [DeYoung, Carey, Krueger & Ross (2016), 10 Aspects of the Big Five in the Personality Inventory for DSM-5, Personal Disorders 7(2):113-123 (PMC4818974)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4818974/) — opened source; CB5T description verbatim
+- [DeYoung, Carey, Krueger & Ross (2016), 10 Aspects of the Big Five in the Personality Inventory for DSM-5, Personal Disorders 7(2):113-123 (PMC4818974)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4818974/) — source; CB5T description verbatim
 - [DeYoung (2015), Cybernetic Big Five Theory, Journal of Research in Personality 56:33-58 (ScienceDirect record)](https://doi.org/10.1016/j.jrp.2014.07.004) — citation record; the author-hosted PDF is not directly accessible
 
 ## Cited in philosophy parallels

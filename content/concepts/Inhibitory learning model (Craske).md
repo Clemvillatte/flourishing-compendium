@@ -39,7 +39,7 @@ This page describes a research model for clinical treatment. It is not guidance 
 - [Exposure therapy augmentation: A review and extension of techniques informed by an inhibitory learning approach (PDF)](https://www.actbeyondocd.com/wp-content/uploads/2020/02/1-s2.0-S0272735817301885-main.pdf)
 - [Maximizing expectancy violation and exposure outcomes (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11721951/)
 - [Cognitive Restructuring Before Versus After Exposure (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9523819/)
-- Craske et al. (2008) and Craske et al. (2014), cited through the sources above and not opened directly
+- Craske et al. (2008) and Craske et al. (2014), cited through the sources above at second hand
 
 ## Cited in psychology parallels
 

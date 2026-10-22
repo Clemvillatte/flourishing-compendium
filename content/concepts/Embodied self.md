@@ -36,7 +36,7 @@ Monti and colleagues, citing Craig (2002), describe interoception as "the sense 
 - Barrett et al., 2019
 
 - Craig, 2009
-- [Monti, Porciello, Panasiti and Aglioti, "The inside of me: interoceptive constraints on the concept of self in neuroscience and clinical psychology" (Psychological Research 86(8), 2022, PMC9674731)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9674731/) — opened source for the thesis quote, the interoception description (with the review's inline Craig 2002 citation), and the deeply-embodied conclusion; Gallagher 2005, Legrand 2006, Barrett et al. 2019 and Craig 2009 cited at second hand
+- [Monti, Porciello, Panasiti and Aglioti, "The inside of me: interoceptive constraints on the concept of self in neuroscience and clinical psychology" (Psychological Research 86(8), 2022, PMC9674731)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9674731/) — source for the thesis quote, the interoception description (with the review's inline Craig 2002 citation), and the deeply-embodied conclusion; Gallagher 2005, Legrand 2006, Barrett et al. 2019 and Craig 2009 cited at second hand
 
 ## Cited in psychology parallels
 

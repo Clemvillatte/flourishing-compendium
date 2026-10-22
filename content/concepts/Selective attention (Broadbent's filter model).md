@@ -50,9 +50,9 @@ Her 2005 review adds a practical point: "simply instructing people to ignore goa
 - Broadbent, 1958
 - Treisman, 1964
 - Lavie, 1995
-- [Lavie (1995), Perceptual load as a necessary condition for selective attention, J Exp Psychol Hum Percept Perform 21 (PubMed 7790827)](https://pubmed.ncbi.nlm.nih.gov/7790827/) — opened source (abstract)
-- [Lavie (2005), Distracted and confused?: selective attention under load, Trends in Cognitive Sciences 9:75-82 (PubMed 15668100)](https://pubmed.ncbi.nlm.nih.gov/15668100/) — opened source (abstract)
-- [Marsh et al. (2019), How the deployment of visual attention modulates auditory distraction, Attention, Perception & Psychophysics (PMC6994418)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6994418/) — opened source; secondary account of Broadbent and Treisman
+- [Lavie (1995), Perceptual load as a necessary condition for selective attention, J Exp Psychol Hum Percept Perform 21 (PubMed 7790827)](https://pubmed.ncbi.nlm.nih.gov/7790827/) — source (abstract)
+- [Lavie (2005), Distracted and confused?: selective attention under load, Trends in Cognitive Sciences 9:75-82 (PubMed 15668100)](https://pubmed.ncbi.nlm.nih.gov/15668100/) — source (abstract)
+- [Marsh et al. (2019), How the deployment of visual attention modulates auditory distraction, Attention, Perception & Psychophysics (PMC6994418)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6994418/) — source; secondary account of Broadbent and Treisman
 - [Defining the Role of Attention in Hierarchical Auditory Processing (PMC8006147)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8006147/) — search excerpt; secondary account of the early-filter model
 
 ## Cited in psychology parallels

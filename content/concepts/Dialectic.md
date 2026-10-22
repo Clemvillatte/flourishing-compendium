@@ -35,7 +35,7 @@ In the Phenomenology of Spirit, the sides are "different definitions of consciou
 
 - Hegel, Science of Logic
 
-- [Maybee, J., Hegel's Dialectics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hegel-dialectics/) — opened source; blockquote and fragments verbatim
+- [Maybee, J., Hegel's Dialectics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hegel-dialectics/) — source; blockquote and fragments verbatim
 
 ## Cited in philosophy parallels
 

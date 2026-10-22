@@ -38,8 +38,8 @@ The paper does not claim that WEIRD findings are wrong. It says they cannot be a
 ## Sources
 
 - 2010
-- [Henrich, Heine & Norenzayan (2010), The weirdest people in the world?, Behavioral and Brain Sciences 33(2-3):61-83 (PubMed 20550733)](https://pubmed.ncbi.nlm.nih.gov/20550733/) — opened source (abstract)
-- [Henrich, Heine & Norenzayan, The Weirdest People in the World? (author manuscript, UBC)](https://www2.psych.ubc.ca/~ara/Manuscripts/Weird_People_BBS_Henrichetal.pdf) — opened source; sampling statistics verified
+- [Henrich, Heine & Norenzayan (2010), The weirdest people in the world?, Behavioral and Brain Sciences 33(2-3):61-83 (PubMed 20550733)](https://pubmed.ncbi.nlm.nih.gov/20550733/) — source (abstract)
+- [Henrich, Heine & Norenzayan, The Weirdest People in the World? (author manuscript, UBC)](https://www2.psych.ubc.ca/~ara/Manuscripts/Weird_People_BBS_Henrichetal.pdf) — source; sampling statistics verified
 
 ## Cited in psychology parallels
 

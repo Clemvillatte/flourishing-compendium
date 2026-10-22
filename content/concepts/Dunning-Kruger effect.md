@@ -32,7 +32,7 @@ Cognitive science · Psychology of judgment
 ## Sources
 
 - Kruger & Dunning, 1999
-- [Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. JPSP 77(6):1121-1134, PubMed abstract 10626367](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10626367&rettype=abstract&retmode=text) — opened source; all blockquotes and fragments verbatim
+- [Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it. JPSP 77(6):1121-1134, PubMed abstract 10626367](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=10626367&rettype=abstract&retmode=text) — source; all blockquotes and fragments verbatim
 
 ## Cited in psychology parallels
 [[CO025 — Know the Dunning-Kruger effect — incompetence is invisible to itself]]

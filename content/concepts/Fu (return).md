@@ -30,8 +30,8 @@ The chapter opens by asking for vacancy and stillness guarded with unwearying vi
 ## Sources
 
 - Laozi, Daodejing 16
-- [Laozi, Tao Te Ching, trans. James Legge (Sacred Texts Archive, chapter 16, on return and stillness)](https://www.sacred-texts.com/tao/taote.htm) — opened source; blockquote and fragments verbatim
-- [Wiktionary, 復 (fù), "to return"](https://en.wiktionary.org/wiki/復) — opened source; character gloss
+- [Laozi, Tao Te Ching, trans. James Legge (Sacred Texts Archive, chapter 16, on return and stillness)](https://www.sacred-texts.com/tao/taote.htm) — source; blockquote and fragments verbatim
+- [Wiktionary, 復 (fù), "to return"](https://en.wiktionary.org/wiki/復) — source; character gloss
 
 ## Cited in philosophy parallels
 

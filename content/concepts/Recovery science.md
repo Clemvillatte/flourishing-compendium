@@ -29,4 +29,4 @@ In the compendium, D039 makes rest the root of activity and D006 reads renewal i
 ## Sources
 
 - [Pladdys, J. (2024), Mitigating Workplace Burnout Through Transformational Leadership and Employee Participation in Recovery Experiences, HCA Healthcare Journal of Medicine 5(3):215 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249184/) — carrier of the verbatim Sonnentag et al. recovery definition and the psychological detachment definition
-- Research on psychological and physiological recovery — sleep, detachment, nature exposure — and its role in sustaining performance and health (original seed line; sleep and nature-exposure findings not verified in the opened source, so not asserted in the body)
+- Research on psychological and physiological recovery — sleep, detachment, nature exposure — and its role in sustaining performance and health (original seed line; sleep and nature-exposure findings not verified in the source, so not asserted in the body)

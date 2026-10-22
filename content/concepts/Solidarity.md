@@ -53,9 +53,9 @@ The Stanford entry lists objections to solidarity itself. One is Shklar's warnin
 - Rorty, Contingency, Irony, and Solidarity
 
 - Scholz, Political Solidarity
-- [Rorty, Contingency, Irony, and Solidarity, Introduction (UNLV copy)](https://cdclv.unlv.edu/pragmatism/rorty_intro_irony.pdf) — opened source; quotation verified
-- [Sangiovanni & Viehoff, Solidarity in Social and Political Philosophy, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/solidarity/) — opened source; Scholz quotation and objections
-- [Anderson (2016), Absurd Dignity: The Rebel and His Cause in Améry and Camus, Journal of French and Francophone Philosophy 24(3), 74-94](https://www.jffp.org/ojs/jffp/article/download/788/749) — opened source; Camus quotation at second hand
+- [Rorty, Contingency, Irony, and Solidarity, Introduction (UNLV copy)](https://cdclv.unlv.edu/pragmatism/rorty_intro_irony.pdf) — source; quotation verified
+- [Sangiovanni & Viehoff, Solidarity in Social and Political Philosophy, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/solidarity/) — source; Scholz quotation and objections
+- [Anderson (2016), Absurd Dignity: The Rebel and His Cause in Améry and Camus, Journal of French and Francophone Philosophy 24(3), 74-94](https://www.jffp.org/ojs/jffp/article/download/788/749) — source; Camus quotation at second hand
 
 ## Cited in philosophy parallels
 

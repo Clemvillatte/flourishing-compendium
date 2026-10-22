@@ -52,7 +52,7 @@ These are interpretations of Heidegger's philosophy by a commentator. They are n
 ## Sources
 
 - Heidegger, Kant and the Problem of Metaphysics
-- [Wrathall, Martin Heidegger, Stanford Encyclopedia of Philosophy (sections 2.4.1, 2.4.2)](https://plato.stanford.edu/entries/heidegger/) — opened source; quotations verified
+- [Wrathall, Martin Heidegger, Stanford Encyclopedia of Philosophy (sections 2.4.1, 2.4.2)](https://plato.stanford.edu/entries/heidegger/) — source; quotations verified
 - [Stanford Encyclopedia of Philosophy, Heidegger (winter 2023 archive)](https://plato.stanford.edu/archives/win2023/entries/heidegger/) — read via search excerpt
 
 ## Cited in philosophy parallels

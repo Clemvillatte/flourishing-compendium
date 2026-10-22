@@ -45,7 +45,7 @@ The overview reports mixed results. In the large Relapse Replication and Extensi
 ## Sources
 
 - Marlatt & Gordon, 1985
-- [Larimer, Palmer & Marlatt (1999), Relapse Prevention: An Overview of Marlatt's Cognitive-Behavioral Model, Alcohol Research & Health 23(2):151-160 (PMC6760427)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) — opened source; all quotations verified against it
+- [Larimer, Palmer & Marlatt (1999), Relapse Prevention: An Overview of Marlatt's Cognitive-Behavioral Model, Alcohol Research & Health 23(2):151-160 (PMC6760427)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/) — source; all quotations verified against it
 
 ## Cited in psychology parallels
 

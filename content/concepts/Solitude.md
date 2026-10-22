@@ -39,8 +39,8 @@ A few lines later he adds: "Solitude is not measured by the miles of space that 
 - [[SE058]] — listed for comparison
 ## Sources
 - Wikipedia Solitude: https://en.wikipedia.org/wiki/Solitude
-- [Nguyen, Ryan & Deci (2018), Solitude as an Approach to Affective Self-Regulation, Pers Soc Psychol Bull 44(1):92-106 (PubMed 29072531)](https://pubmed.ncbi.nlm.nih.gov/29072531/) — opened source (abstract)
-- [Thoreau, Walden, chapter Solitude (Gutenberg #205)](https://www.gutenberg.org/ebooks/205) — opened source; quotations verified
+- [Nguyen, Ryan & Deci (2018), Solitude as an Approach to Affective Self-Regulation, Pers Soc Psychol Bull 44(1):92-106 (PubMed 29072531)](https://pubmed.ncbi.nlm.nih.gov/29072531/) — source (abstract)
+- [Thoreau, Walden, chapter Solitude (Gutenberg #205)](https://www.gutenberg.org/ebooks/205) — source; quotations verified
 
 ## Cited in philosophy parallels
 

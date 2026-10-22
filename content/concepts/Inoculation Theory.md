@@ -36,7 +36,7 @@ Most of the newer evidence concerns misinformation, not everyday persuasion. The
 - [Roozenbeek, van der Linden, Goldberg, Rathje and Lewandowsky, "Psychological inoculation improves resilience against misinformation on social media", Science Advances 8(34), 2022 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/)
 - [Science news feature, "You won't believe this"](https://www.science.org/content/article/can-people-be-inoculated-against-misinformation)
 - [Countering Misinformation: Evidence, Knowledge Gaps, and Implications of Current Interventions (OSF PDF)](https://files.osf.io/v1/resources/b52um/providers/osfstorage/63297bd56c2401097a50924a?action=download&direct&version=4)
-- McGuire (1961, 1964) and McGuire and Papageorgis (1961), cited through the sources above and not opened directly
+- McGuire (1961, 1964) and McGuire and Papageorgis (1961), cited through the sources above at second hand
 
 ## Field
 

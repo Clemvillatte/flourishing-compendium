@@ -32,8 +32,8 @@ Affect · Psychological science
 
 - Barrett et al., 2001
 - Kashdan et al., 2015
-- [Wang et al., Negative Emotion Differentiation Promotes Cognitive Reappraisal, Human Brain Mapping (PMC11626486)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11626486/) — opened source; definition quote verbatim
-- [Linn et al., Alexithymia disrupts emotion regulation processes, Journal of Clinical Psychology (PMC8800422)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8800422/) — opened source; regulation-link quotes verbatim
+- [Wang et al., Negative Emotion Differentiation Promotes Cognitive Reappraisal, Human Brain Mapping (PMC11626486)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11626486/) — source; definition quote verbatim
+- [Linn et al., Alexithymia disrupts emotion regulation processes, Journal of Clinical Psychology (PMC8800422)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8800422/) — source; regulation-link quotes verbatim
 
 ## Cited in psychology parallels
 [[D095 — Moderate emotion — extremes injure vitality]]

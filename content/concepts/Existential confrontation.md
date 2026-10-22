@@ -52,11 +52,11 @@ The sources give a descriptive theory of what is confronted, and mixed evidence 
 ## Sources
 
 - Tillich, 1952
-- [Tillich, The Courage to Be (1952), excerpt, Fordham Internet History Sourcebooks](https://sourcebooks.web.fordham.edu/mod/1952tillich.asp) — opened source; quotations verified
+- [Tillich, The Courage to Be (1952), excerpt, Fordham Internet History Sourcebooks](https://sourcebooks.web.fordham.edu/mod/1952tillich.asp) — source; quotations verified
 - [Tillich, The Courage to Be, EBSCO Research Starters summary](https://www.ebsco.com/research-starters/literature-and-writing/courage-be-paul-tillich/) — read via search excerpt
 
 - Yalom, 1980
-- [Existential Psychotherapy, publisher summary, yalom.com](https://www.yalom.com/existential-psychotherapy/) — opened source
+- [Existential Psychotherapy, publisher summary, yalom.com](https://www.yalom.com/existential-psychotherapy/) — source
 - [Vos, Craig & Cooper (2015), Existential therapies: a meta-analysis of their effects on psychological outcomes, J Consult Clin Psychol 83(1):115-128](https://clinica.ispa.pt/sites/default/files/22._vos_et_al_2015.pdf) — read via search excerpt (abstract)
 
 ## Cited in psychology parallels

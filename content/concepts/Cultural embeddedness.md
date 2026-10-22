@@ -33,7 +33,7 @@ The idea cuts two ways for practice: the culture that made you is a resource, an
 
 - Sandel, Liberalism and the Limits of Justice
 
-- [Bell, D., Communitarianism, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/communitarianism/) — opened source; blockquote, Sandel fragment and MacIntyre sentence verbatim
+- [Bell, D., Communitarianism, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/communitarianism/) — source; blockquote, Sandel fragment and MacIntyre sentence verbatim
 
 [[SO004 — Treat culture as both a resource and a constraint]]
 [[ST256 — The Seventh Generation]]

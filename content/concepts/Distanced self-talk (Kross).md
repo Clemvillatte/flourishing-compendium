@@ -48,9 +48,9 @@ Grossmann and Kross (2014) report that across three experiments (N = 693), peopl
 - Kross et al., 2014
 
 - Moser et al., 2017
-- [Kross et al. (2014), Self-talk as a regulatory mechanism: how you do it matters, J Pers Soc Psychol 106:304-324 (PubMed 24467424)](https://pubmed.ncbi.nlm.nih.gov/24467424/) — opened source (abstract)
-- [Moser et al. (2017), Third-person self-talk facilitates emotion regulation without engaging cognitive control, Sci Rep (PubMed 28674404)](https://pubmed.ncbi.nlm.nih.gov/28674404/) — opened source (abstract)
-- [Grossmann & Kross (2014), Exploring Solomon's paradox, Psychol Sci (PubMed 24916084)](https://pubmed.ncbi.nlm.nih.gov/24916084/) — opened source (abstract)
+- [Kross et al. (2014), Self-talk as a regulatory mechanism: how you do it matters, J Pers Soc Psychol 106:304-324 (PubMed 24467424)](https://pubmed.ncbi.nlm.nih.gov/24467424/) — source (abstract)
+- [Moser et al. (2017), Third-person self-talk facilitates emotion regulation without engaging cognitive control, Sci Rep (PubMed 28674404)](https://pubmed.ncbi.nlm.nih.gov/28674404/) — source (abstract)
+- [Grossmann & Kross (2014), Exploring Solomon's paradox, Psychol Sci (PubMed 24916084)](https://pubmed.ncbi.nlm.nih.gov/24916084/) — source (abstract)
 
 ## Cited in psychology parallels
 

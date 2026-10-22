@@ -32,7 +32,7 @@ Cognitive science · Philosophy of mind
 
 - Clark, 2008
 - Robbins and Aydede, 2009
-- [Shapiro & Spaulding, Embodied Cognition, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/embodied-cognition/) — opened source; all quotes verbatim
+- [Shapiro & Spaulding, Embodied Cognition, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/embodied-cognition/) — source; all quotes verbatim
 
 ## Cited in psychology parallels
 [[E019 — Practise the chiasm]]

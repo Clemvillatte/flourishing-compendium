@@ -42,9 +42,9 @@ In a discussion of depression, Maj and colleagues quote the DSM-5 requirement th
 ## Sources
 
 - APA, 2022
-- [NIMH, "Caring for Your Mental Health"](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) — opened source for the two-weeks guidance sentence, its symptom list and the primary-care referral guidance
-- [NIMH, "Post-Traumatic Stress Disorder"](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd) — opened source for the PTSD diagnosis sentence
-- [Maj et al., "The clinical characterization of the adult patient with depression aimed at personalization of management" (World Psychiatry, 2020, PMC7491646)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491646/) — opened source quoting the DSM-5 distress/impairment criterion and the ICD-11 equivalent
+- [NIMH, "Caring for Your Mental Health"](https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health) — source for the two-weeks guidance sentence, its symptom list and the primary-care referral guidance
+- [NIMH, "Post-Traumatic Stress Disorder"](https://www.nimh.nih.gov/health/topics/post-traumatic-stress-disorder-ptsd) — source for the PTSD diagnosis sentence
+- [Maj et al., "The clinical characterization of the adult patient with depression aimed at personalization of management" (World Psychiatry, 2020, PMC7491646)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7491646/) — source quoting the DSM-5 distress/impairment criterion and the ICD-11 equivalent
 
 ## Cited in psychology parallels
 

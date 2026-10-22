@@ -36,7 +36,7 @@ Cook and colleagues summarize earlier research reporting that pain acceptance pr
 
 - Vowles et al., 2014
 
-- [Cook et al., "Chronic Pain Acceptance Incrementally Predicts Disability in Polytrauma-Exposed Veterans at Baseline and 1-Year Follow-Up" (Behaviour Research and Therapy, 2015, PMC5032639)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5032639/) — opened source for the McCracken & Vowles (2008, p. 216) definition, the willingness formulation and the predictive claim
+- [Cook et al., "Chronic Pain Acceptance Incrementally Predicts Disability in Polytrauma-Exposed Veterans at Baseline and 1-Year Follow-Up" (Behaviour Research and Therapy, 2015, PMC5032639)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5032639/) — source for the McCracken & Vowles (2008, p. 216) definition, the willingness formulation and the predictive claim
 
 ## Cited in psychology parallels
 

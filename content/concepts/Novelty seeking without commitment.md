@@ -23,7 +23,7 @@ Cloninger's model originally consisted of three temperament dimensions: Novelty 
 ## Sources
 
 - Cloninger, 1986
-- [Verweij et al., "A genome-wide association study of Cloninger's Temperament scales", Biological Psychology (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963646/) — opened source; model description and Novelty Seeking definition quoted verbatim
+- [Verweij et al., "A genome-wide association study of Cloninger's Temperament scales", Biological Psychology (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2963646/) — source; model description and Novelty Seeking definition quoted verbatim
 
 ## Cited in psychology parallels
 

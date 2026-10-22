@@ -51,9 +51,9 @@ The original entry's second source, Summa Theologiae II-II, q.158, is about ange
 ## Sources
 
 - Aristotle, NE IV.9
-- [Aristotle, Nicomachean Ethics Book II, trans. W. D. Ross (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — opened source; quotation verified
-- [Aristotle, Rhetoric Book II, trans. W. Rhys Roberts (MIT Classics)](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) — opened source; quotation verified
-- [Aquinas, Summa Theologiae II-II q.158 (New Advent)](https://www.newadvent.org/summa/3158.htm) — opened source; article 1 quotation verified
+- [Aristotle, Nicomachean Ethics Book II, trans. W. D. Ross (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — source; quotation verified
+- [Aristotle, Rhetoric Book II, trans. W. Rhys Roberts (MIT Classics)](https://classics.mit.edu/Aristotle/rhetoric.2.ii.html) — source; quotation verified
+- [Aquinas, Summa Theologiae II-II q.158 (New Advent)](https://www.newadvent.org/summa/3158.htm) — source; article 1 quotation verified
 - Aquinas, Summa Theologiae II-II.158
 
 [[K253 — The mean calibration]]

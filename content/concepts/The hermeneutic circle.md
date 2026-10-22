@@ -45,7 +45,7 @@ This page describes the idea as the encyclopedia presents it. It does not examin
 ## Sources
 
 - Gadamer, Truth and Method
-- [George, Hermeneutics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hermeneutics/) — opened source; Truth and Method and Being and Time not opened
+- [George, Hermeneutics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hermeneutics/) — source for the account; Truth and Method and Being and Time are cited at second hand
 
 - Heidegger, Being and Time
 

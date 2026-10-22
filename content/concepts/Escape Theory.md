@@ -32,8 +32,8 @@ Affect · Psychological science
 ## Sources
 
 - Baumeister
-- [Joshua et al., Addressing Schemas, Modes and Interoceptive Disconnection in Chronic Binge Eating Disorder, Clinical Psychology & Psychotherapy (PMC13629275)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13629275/) — opened source; quotes verbatim
-- [Li et al., Association between self-objectification and emotional eating, Frontiers in Psychology (PMC13581934)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13581934/) — opened source; quotes verbatim
+- [Joshua et al., Addressing Schemas, Modes and Interoceptive Disconnection in Chronic Binge Eating Disorder, Clinical Psychology & Psychotherapy (PMC13629275)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13629275/) — source; quotes verbatim
+- [Li et al., Association between self-objectification and emotional eating, Frontiers in Psychology (PMC13581934)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13581934/) — source; quotes verbatim
 
 ## Cited in philosophy parallels
 [[AF019 — Recognise the paradox of hedonic pursuit — chasing positive affect can reduce it]]

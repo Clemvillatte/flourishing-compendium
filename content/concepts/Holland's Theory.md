@@ -41,7 +41,7 @@ The congruence hypothesis has moderate support. For the essays, the safe wording
 - [Nye et al. 2012 abstract (PubMed)](https://pubmed.ncbi.nlm.nih.gov/26168474/)
 - [Personality and interests for selection: Theoretical perspectives (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10013216/)
 - [Concepts and Coefficients Based on John L. Holland's Theory of Vocational Choice (Psych, 2021; TUM repository)](https://mediatum.ub.tum.de/doc/1689523/document.pdf)
-- Holland (1959, 1973, 1985, 1997), cited in the sources above and not opened directly
+- Holland (1959, 1973, 1985, 1997), cited in the sources above at second hand
 
 ## Field
 

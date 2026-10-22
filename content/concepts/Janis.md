@@ -38,7 +38,7 @@ Early support, Aldag and Fuller say, rested almost entirely on retrospective cas
 ## Sources
 
 - 1972
-- [Aldag, R. J. & Fuller, S. R. (1993), Beyond Fiasco: A Reappraisal of the Groupthink Phenomenon and a New Model of Group Decision Processes, Psychological Bulletin 113(3):533-552](https://web.mit.edu/writing/2012/Grad_Summary_Readings/beyond_fiasco_final.pdf) — opened source; quotations verified
+- [Aldag, R. J. & Fuller, S. R. (1993), Beyond Fiasco: A Reappraisal of the Groupthink Phenomenon and a New Model of Group Decision Processes, Psychological Bulletin 113(3):533-552](https://web.mit.edu/writing/2012/Grad_Summary_Readings/beyond_fiasco_final.pdf) — source; quotations verified
 
 ## Cited in psychology parallels
 

@@ -33,7 +33,7 @@ The belief is a group-level property, not a tally of individual confidence: "per
 - Bandura, 2000
 
 - Bandura, 2001
-- [Bandura, "Exercise of Human Agency Through Collective Efficacy" (Current Directions in Psychological Science, 2000)](https://scalar.usc.edu/works/ismdia-590-community-data---s2019/media/Bandura2000.pdf) — opened source for all three quotes; Bandura 2001 not opened, kept as inherited citation
+- [Bandura, "Exercise of Human Agency Through Collective Efficacy" (Current Directions in Psychological Science, 2000)](https://scalar.usc.edu/works/ismdia-590-community-data---s2019/media/Bandura2000.pdf) — source for all three quotes; Bandura 2001 not opened, kept as inherited citation
 
 ## Cited in psychology parallels
 

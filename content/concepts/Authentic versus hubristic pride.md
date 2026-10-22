@@ -29,7 +29,7 @@ Tracy and Robins's two-facet model splits pride into two components with differe
 
 - Tracy & Robins, 2007
 - Tracy, Cheng, Robins and Trzesniewski, 2009
-- [Tracy, Cheng, Robins and Trzesniewski, "Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism" (Self and Identity 8(2):196-213, 2009, open PDF)](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf) — opened source for the facet definitions, the attributional account and the correlates
+- [Tracy, Cheng, Robins and Trzesniewski, "Authentic and Hubristic Pride: The Affective Core of Self-esteem and Narcissism" (Self and Identity 8(2):196-213, 2009, open PDF)](https://scispace.com/pdf/authentic-and-hubristic-pride-the-affective-core-of-self-4b4lave9ch.pdf) — source for the facet definitions, the attributional account and the correlates
 
 ## Cited in psychology parallels
 

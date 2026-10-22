@@ -34,7 +34,7 @@ For Buber, the two primary words are I-Thou and I-It: the first "can only be spo
 
 - this volume, Section VII
 
-- [Buber, I and Thou, trans. Ronald Gregor Smith (Internet Archive full text)](https://archive.org/details/IAndThou_572) — opened source; blockquote verbatim
+- [Buber, I and Thou, trans. Ronald Gregor Smith (Internet Archive full text)](https://archive.org/details/IAndThou_572) — source; blockquote verbatim
 
 ## Cited in philosophy parallels
 

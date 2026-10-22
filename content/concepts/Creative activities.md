@@ -27,7 +27,7 @@ The evidence is a 13-day daily diary study of 658 young adults, so it shows an o
 ## Sources
 
 - Conner et al., 2018
-- [Conner, DeYoung & Silvia (2018), Everyday creative activity as a path to flourishing, Journal of Positive Psychology 13(2):181-189 (Taylor & Francis abstract page)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2016.1257049) — opened source; blockquote verbatim
+- [Conner, DeYoung & Silvia (2018), Everyday creative activity as a path to flourishing, Journal of Positive Psychology 13(2):181-189 (Taylor & Francis abstract page)](https://www.tandfonline.com/doi/abs/10.1080/17439760.2016.1257049) — source; blockquote verbatim
 
 ## Cited in psychology parallels
 

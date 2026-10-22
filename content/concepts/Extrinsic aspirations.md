@@ -48,8 +48,8 @@ These are mainly correlational and self-report studies. The meta-analysis found 
 
 - Kasser and Ryan, 1996
 - [Kasser & Ryan (1996), Further examining the American dream, Pers Soc Psychol Bull 22(3):280-287 (abstract)](https://journals.sagepub.com/doi/10.1177/0146167296223006) — read via search excerpt
-- [Niemiec, Ryan & Deci (2009), The path taken, J Res Pers 43(3):291-306 (PubMed 20161160)](https://pubmed.ncbi.nlm.nih.gov/20161160/) — opened source (abstract)
-- [Dittmar, Bond, Hurst & Kasser (2014), The relationship between materialism and personal well-being: a meta-analysis, J Pers Soc Psychol 107(5) (PubMed 25347131)](https://pubmed.ncbi.nlm.nih.gov/25347131/) — opened source (abstract)
+- [Niemiec, Ryan & Deci (2009), The path taken, J Res Pers 43(3):291-306 (PubMed 20161160)](https://pubmed.ncbi.nlm.nih.gov/20161160/) — source (abstract)
+- [Dittmar, Bond, Hurst & Kasser (2014), The relationship between materialism and personal well-being: a meta-analysis, J Pers Soc Psychol 107(5) (PubMed 25347131)](https://pubmed.ncbi.nlm.nih.gov/25347131/) — source (abstract)
 
 - Kasser, 2002
 

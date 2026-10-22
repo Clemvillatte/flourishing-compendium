@@ -30,7 +30,7 @@ Biophysiological · Psychological science
 
 ## Sources
 
-- [Szuhany, Bugatti & Otto 2015, A meta-analytic review of the effects of exercise on BDNF, J Psychiatr Res 60:56-64, PubMed 25455510](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25455510&rettype=abstract&retmode=text) — opened source; blockquote and fragments verbatim
+- [Szuhany, Bugatti & Otto 2015, A meta-analytic review of the effects of exercise on BDNF, J Psychiatr Res 60:56-64, PubMed 25455510](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=25455510&rettype=abstract&retmode=text) — source; blockquote and fragments verbatim
 
 ## Cited in philosophy parallels
 [[BE040 — Learn to use exercise as a mental health behaviour — movement is antidepressant]]

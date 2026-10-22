@@ -43,9 +43,9 @@ Valentine and colleagues report that DBT skills training is being given as a sta
 - Linehan, 1993
 
 - Kelly, 2004
-- [Kells et al. (2020), Dialectical behaviour therapy skills reconsidered, Borderline Personality Disorder and Emotion Dysregulation (PMC6993331)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6993331/) — opened source; DBT structure, modules and session format
-- [Lakeman et al. (2022), Towards online delivery of Dialectical Behaviour Therapy: A scoping review, International Journal of Mental Health Nursing (PMC9305106)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9305106/) — opened source; format of skills groups
-- [Valentine et al. (2015), J Clin Psychol 71(1):1-20 (PubMed 25042066)](https://pubmed.ncbi.nlm.nih.gov/25042066/) — opened source; stand-alone evidence
+- [Kells et al. (2020), Dialectical behaviour therapy skills reconsidered, Borderline Personality Disorder and Emotion Dysregulation (PMC6993331)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6993331/) — source; DBT structure, modules and session format
+- [Lakeman et al. (2022), Towards online delivery of Dialectical Behaviour Therapy: A scoping review, International Journal of Mental Health Nursing (PMC9305106)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9305106/) — source; format of skills groups
+- [Valentine et al. (2015), J Clin Psychol 71(1):1-20 (PubMed 25042066)](https://pubmed.ncbi.nlm.nih.gov/25042066/) — source; stand-alone evidence
 
 ## Cited in psychology parallels
 

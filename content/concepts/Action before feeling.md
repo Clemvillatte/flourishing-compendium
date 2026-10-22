@@ -26,7 +26,7 @@ In II.4 Aristotle adds a guard: merely doing just acts is not yet being just. He
 ## Sources
 
 - Aristotle, Nicomachean Ethics II
-- [Aristotle, Nicomachean Ethics II (Ross translation), Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — opened source for the blockquoted passage and the habituation account of II.1 and II.4
+- [Aristotle, Nicomachean Ethics II (Ross translation), Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html) — source for the blockquoted passage and the habituation account of II.1 and II.4
 
 [[D069 — Don't meet force with force]]
 [[A108 — Practise habituation through repeated action]]

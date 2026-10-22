@@ -40,7 +40,7 @@ The abstract supports a modest claim: whether training carries over depends on w
 
 - Barnett & Ceci, 2002
 - Barnett and Ceci, 2002
-- [Barnett & Ceci (2002), When and where do we apply what we learn? A taxonomy for far transfer, Psychol Bull 128:612-637](https://pubmed.ncbi.nlm.nih.gov/12081085/) — opened source (abstract)
+- [Barnett & Ceci (2002), When and where do we apply what we learn? A taxonomy for far transfer, Psychol Bull 128:612-637](https://pubmed.ncbi.nlm.nih.gov/12081085/) — source (abstract)
 
 ## Cited in psychology parallels
 

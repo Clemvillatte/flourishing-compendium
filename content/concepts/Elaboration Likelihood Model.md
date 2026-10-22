@@ -30,8 +30,8 @@ Sociocultural · Psychological science
 ## Sources
 
 - Petty, Cacioppo
-- [Monahhova et al., Neurocognitive mechanisms of source credibility, Frontiers in Human Neuroscience (PMC13630730)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630730/) — opened source; quotes verbatim
-- [Xu, AI-assisted multimodal analysis of digital media-enabled intergenerational transmission, Frontiers in Psychology (PMC13658506)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13658506/) — opened source; peripheral-cue examples verbatim
+- [Monahhova et al., Neurocognitive mechanisms of source credibility, Frontiers in Human Neuroscience (PMC13630730)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13630730/) — source; quotes verbatim
+- [Xu, AI-assisted multimodal analysis of digital media-enabled intergenerational transmission, Frontiers in Psychology (PMC13658506)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13658506/) — source; peripheral-cue examples verbatim
 
 ## Cited in philosophy parallels
 [[D006 — Move by return (fu) — everything renews in cycles]]

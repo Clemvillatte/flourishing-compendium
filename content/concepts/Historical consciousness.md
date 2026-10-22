@@ -39,7 +39,7 @@ One reading for the essays, offered as an interpretation and not a claim from th
 
 - [Malpas, "Gadamer, Hans-Georg", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/gadamer/)
 - ["Gadamer, Hans-Georg", Internet Encyclopedia of Philosophy](https://iep.utm.edu/gadamer/)
-- Gadamer, Truth and Method, quoted only through the two entries above and not opened directly
+- Gadamer, Truth and Method, quoted only through the two entries above at second hand
 
 [[ST260 — Brentano's Direction]]
 [[ST098 — James and the Stream of Thought]]

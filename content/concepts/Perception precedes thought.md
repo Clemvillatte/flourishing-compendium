@@ -41,7 +41,7 @@ Shields also records that Aristotle does not treat the mind as simply another bo
 ## Sources
 
 - Aristotle, De Anima II
-- [Shields, Aristotle's Psychology, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle-psychology/) — opened source; De Anima text itself not opened
+- [Shields, Aristotle's Psychology, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle-psychology/) — source; De Anima text itself not opened
 
 [[B039 — Practice the four foundations of mindfulness (satipatthana)]]
 [[E020 — Practise embodiment as condition of possibility]]

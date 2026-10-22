@@ -41,7 +41,7 @@ The authors flag the status of their own claims: "some of the specific ideas dis
 ## Sources
 
 - Coan, 2011
-- [Beckes & Coan (2011), Social Baseline Theory: The Role of Social Proximity in Emotion and Economy of Action, Social and Personality Psychology Compass 5/12, 976-988](https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cd2617f9353680001816713/1557291392068/beckes.coan.2011.pdf) — opened source (author-hosted PDF); all quotations verified against it
+- [Beckes & Coan (2011), Social Baseline Theory: The Role of Social Proximity in Emotion and Economy of Action, Social and Personality Psychology Compass 5/12, 976-988](https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cd2617f9353680001816713/1557291392068/beckes.coan.2011.pdf) — source (author-hosted PDF); all quotations verified against it
 
 ## Cited in psychology parallels
 

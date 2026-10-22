@@ -42,7 +42,7 @@ Research that only contrasts mastery with performance goals "does not capture th
 - [ERIC document ED377212 (goal orientation and writing motivation)](https://files.eric.ed.gov/fulltext/ED377212.pdf)
 - [Understanding Motivation in Early Childhood: Disentangling the... (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837912/)
 - [Achievement Goals (University of Lausanne repository)](https://api.unil.ch/iris/server/api/core/bitstreams/b38d7c34-9025-447c-898e-752050600320/content)
-- Ames (1992), cited through the sources above and not opened directly
+- Ames (1992), cited through the sources above at second hand
 
 ## Cited in psychology parallels
 

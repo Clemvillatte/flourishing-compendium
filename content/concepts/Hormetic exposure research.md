@@ -44,8 +44,8 @@ Mattson's paper is about cells and organisms and does not test cold exposure, fa
 ## Sources
 
 - Mattson, 2008
-- [Mattson (2008), Hormesis defined, Ageing Res Rev 7:1-7 (PubMed 18162444)](https://pubmed.ncbi.nlm.nih.gov/18162444/) — opened source (abstract)
-- [Seery, Holman & Silver (2010), Whatever does not kill us, J Pers Soc Psychol 99:1025-1041 (PubMed 20939649)](https://pubmed.ncbi.nlm.nih.gov/20939649/) — opened source (abstract)
+- [Mattson (2008), Hormesis defined, Ageing Res Rev 7:1-7 (PubMed 18162444)](https://pubmed.ncbi.nlm.nih.gov/18162444/) — source (abstract)
+- [Seery, Holman & Silver (2010), Whatever does not kill us, J Pers Soc Psychol 99:1025-1041 (PubMed 20939649)](https://pubmed.ncbi.nlm.nih.gov/20939649/) — source (abstract)
 
 ## Cited in psychology parallels
 

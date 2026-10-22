@@ -47,9 +47,9 @@ In the Observer piece the authors describe their support for the social bonds id
 ## Sources
 
 - Davis et al., 2013
-- [Davis et al. (2011), Relational humility: conceptualizing and measuring humility as a personality judgment, Journal of Personality Assessment 93(3):225-234 (PubMed 21516581)](https://pubmed.ncbi.nlm.nih.gov/21516581/) — opened source (abstract)
+- [Davis et al. (2011), Relational humility: conceptualizing and measuring humility as a personality judgment, Journal of Personality Assessment 93(3):225-234 (PubMed 21516581)](https://pubmed.ncbi.nlm.nih.gov/21516581/) — source (abstract)
 - [Davis et al. (2013), Humility and the development and repair of social bonds: Two longitudinal studies, Self and Identity 12:58-77](https://scispace.com/papers/humility-and-the-development-and-repair-of-social-bonds-two-35p028rahk) — abstract read via search excerpt
-- [Davis & Hook (2013), Measuring Humility and Its Positive Effects, APS Observer](https://www.psychologicalscience.org/observer/measuring-humility-and-its-positive-effects) — opened source; quotations verified
+- [Davis & Hook (2013), Measuring Humility and Its Positive Effects, APS Observer](https://www.psychologicalscience.org/observer/measuring-humility-and-its-positive-effects) — source; quotations verified
 
 ## Cited in psychology parallels
 

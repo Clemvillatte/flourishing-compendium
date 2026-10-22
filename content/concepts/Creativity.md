@@ -31,7 +31,7 @@ A recent review in Frontiers in Psychology puts the working definition in plain 
 ## Sources
 
 - Wikipedia Creativity: https://en.wikipedia.org/wiki/Creativity
-- [Hennessey & Amabile (2010), Creativity, Annual Review of Psychology 61:569-598](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.093008.100416) — opened source; abstract blockquote verbatim
-- [Daikoku (2026), Towards a theory of human creativity sustained by embodied collective intelligence, Frontiers in Psychology (PMC13102783)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13102783/) — opened source; definition sentence verbatim
+- [Hennessey & Amabile (2010), Creativity, Annual Review of Psychology 61:569-598](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.093008.100416) — source; abstract blockquote verbatim
+- [Daikoku (2026), Towards a theory of human creativity sustained by embodied collective intelligence, Frontiers in Psychology (PMC13102783)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13102783/) — source; definition sentence verbatim
 
 ## Cited in philosophy parallels

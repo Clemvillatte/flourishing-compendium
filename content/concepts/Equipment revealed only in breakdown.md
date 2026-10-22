@@ -32,7 +32,7 @@ Existential phenomenology · Philosophy
 ## Sources
 
 - Heidegger, Being and Time
-- [Wrathall, Martin Heidegger, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/) — opened source; all quotes verbatim (SZ 73 references as given in SEP)
+- [Wrathall, Martin Heidegger, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/) — source; all quotes verbatim (SZ 73 references as given in SEP)
 
 ## Cited in philosophy parallels
 [[P031 — Choose vocabularies by what they let you do]]

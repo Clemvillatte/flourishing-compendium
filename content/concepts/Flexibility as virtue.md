@@ -41,7 +41,7 @@ Read together, the two aphorisms support a limited claim: fixity is socially rew
 ## Sources
 
 - Nietzsche, The Gay Science
-- [Nietzsche, The Joyful Wisdom (The Gay Science), trans. Thomas Common, 1910, Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt) — opened source; quotations verified (sections 159, 296, 297)
+- [Nietzsche, The Joyful Wisdom (The Gay Science), trans. Thomas Common, 1910, Project Gutenberg](https://www.gutenberg.org/cache/epub/52881/pg52881.txt) — source; quotations verified (sections 159, 296, 297)
 
 [[ST193 — Stockdale and the Epistle]]
 [[ST154 — John Nash and the Delusion's Signature]]

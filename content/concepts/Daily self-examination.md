@@ -33,7 +33,7 @@ The three points are relational: faithfulness in work done for others, sincerity
 
 - Zengzi, in the Analects 1.4
 
-- [Confucian Analects, Book I, trans. James Legge (Project Gutenberg, The Chinese Classics)](https://www.gutenberg.org/cache/epub/3330/pg3330.html) — opened source; blockquote verbatim
+- [Confucian Analects, Book I, trans. James Legge (Project Gutenberg, The Chinese Classics)](https://www.gutenberg.org/cache/epub/3330/pg3330.html) — source; blockquote verbatim
 
 ## Cited in philosophy parallels
 

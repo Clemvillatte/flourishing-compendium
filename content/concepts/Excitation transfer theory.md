@@ -32,7 +32,7 @@ Affect · Psychological science
 ## Sources
 
 - Zillmann
-- [Pang et al., Aggression in specialized Wushu Taolu training, Frontiers in Psychology (PMC13529472)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13529472/) — opened source; quotes verbatim
+- [Pang et al., Aggression in specialized Wushu Taolu training, Frontiers in Psychology (PMC13529472)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13529472/) — source; quotes verbatim
 
 ## Cited in philosophy parallels
 [[AF009 — Understand that affect is constructed, not discovered]]

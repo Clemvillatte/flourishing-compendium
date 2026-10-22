@@ -31,7 +31,7 @@ Clinical Psychodynamic · Psychological science
 ## Sources
 
 - Cicchetti, Rutter
-- [Toth & Cicchetti (2013), A Developmental Psychopathology Perspective on Child Maltreatment, Child Maltreatment (PMC4520222)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4520222/) — opened source; blockquote and fragments verbatim
+- [Toth & Cicchetti (2013), A Developmental Psychopathology Perspective on Child Maltreatment, Child Maltreatment (PMC4520222)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4520222/) — source; blockquote and fragments verbatim
 
 ## Cited in philosophy parallels
 [[AF035 — Recognise that avoidance is negatively reinforcing — it works short-term and maintains suffering long-term]]

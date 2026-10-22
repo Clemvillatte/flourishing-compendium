@@ -30,8 +30,8 @@ Sociocultural · Psychological science
 
 ## Sources
 
-- [Derrick et al. 2018, Expectancy Violations Predict Greater Relapse, Addictive Behaviors (PMC5963996)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5963996/) — opened source; quotes verbatim
-- [Mitnick et al. 2021, Impact of Expectation Violation on Relationship Satisfaction Across the Transition to Parenthood, Journal of Family Psychology (PMC8660929)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8660929/) — opened source; quote verbatim
+- [Derrick et al. 2018, Expectancy Violations Predict Greater Relapse, Addictive Behaviors (PMC5963996)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5963996/) — source; quotes verbatim
+- [Mitnick et al. 2021, Impact of Expectation Violation on Relationship Satisfaction Across the Transition to Parenthood, Journal of Family Psychology (PMC8660929)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8660929/) — source; quote verbatim
 
 ## Cited in philosophy parallels
 [[SO006 — Treat the social environment as a designable context]]

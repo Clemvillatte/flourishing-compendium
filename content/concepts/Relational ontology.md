@@ -30,7 +30,7 @@ The claim shared by this family of thinkers is that relation comes before the re
 - Ramose, African Philosophy Through Ubuntu
 
 - Whitehead, Process and Reality
-- [Buber, I and Thou (1923), R. Gregor Smith translation (open text)](https://archive.icann.org/en/ombudsman/martin-buber.htm) — opened source; quoted fragments verified against this copy
+- [Buber, I and Thou (1923), R. Gregor Smith translation (open text)](https://archive.icann.org/en/ombudsman/martin-buber.htm) — source; quoted fragments verified against this copy
 
 ## Cited in philosophy parallels
 

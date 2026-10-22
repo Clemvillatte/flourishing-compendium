@@ -31,7 +31,7 @@ Existential phenomenology · Philosophy
 ## Sources
 
 - Heidegger, Being and Time
-- [Varga & Guignon, Authenticity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/authenticity/) — opened source; all quotes verbatim
+- [Varga & Guignon, Authenticity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/authenticity/) — source; all quotes verbatim
 
 ## Cited in philosophy parallels
 [[D002 — Practice ziran — naturalness]]

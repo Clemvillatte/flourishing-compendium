@@ -34,7 +34,7 @@ Cognitive psychology · Psychological science
 ## Sources
 
 - Peters and Buchel, 2010
-- [Song et al., Applications of episodic future thinking in patients with chronic diseases, Frontiers in Public Health (PMC13655094)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655094/) — opened source; all quotes verbatim
+- [Song et al., Applications of episodic future thinking in patients with chronic diseases, Frontiers in Public Health (PMC13655094)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13655094/) — source; all quotes verbatim
 
 ## Cited in psychology parallels
 [[P039 — Deliberate by rehearsal, not by verdict]]

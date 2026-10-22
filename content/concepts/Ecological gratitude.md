@@ -42,8 +42,8 @@ The Chen study is a single online experiment with university students. It does n
 ## Sources
 
 - Mayer and Frantz, "The Connectedness to Nature Index"
-- [Mayer & Frantz (2004), The connectedness to nature scale: a measure of individuals' feeling in community with nature, J Environ Psychol 24(4):503-515](https://digitalcommons.oberlin.edu/faculty_schol/2433/) — opened source (abstract, via search)
-- [Chen, Liu, Fu, Guo & Chen (2022), The impact of gratitude on connection with nature, Front Psychol 13:908138](https://pmc.ncbi.nlm.nih.gov/articles/PMC9244548/) — opened source
+- [Mayer & Frantz (2004), The connectedness to nature scale: a measure of individuals' feeling in community with nature, J Environ Psychol 24(4):503-515](https://digitalcommons.oberlin.edu/faculty_schol/2433/) — source (abstract, via search)
+- [Chen, Liu, Fu, Guo & Chen (2022), The impact of gratitude on connection with nature, Front Psychol 13:908138](https://pmc.ncbi.nlm.nih.gov/articles/PMC9244548/) — source
 
 [[ST255 — The Green Fire Dies]]
 [[V2K-S01 — Part I — Science-Backed Kernels]]

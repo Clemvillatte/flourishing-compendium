@@ -63,8 +63,8 @@ Network clustering in a single cohort does not show the mimicry-and-feedback pro
 - Christakis and Fowler, 2007
 - Hatfield et al., 2014
 - [Hatfield, Bensman, Thornton & Rapson (2014), New perspectives on emotional contagion, Interpersona](https://ojs.interpersonajournal.com/index.php/ojs/article/download/419/3419.pdf) — read via search excerpt
-- [Fowler & Christakis (2008), Dynamic spread of happiness in a large social network, BMJ (PubMed 19056788)](https://pubmed.ncbi.nlm.nih.gov/19056788/) — opened source (abstract)
-- [Christakis & Fowler (2007), The spread of obesity in a large social network over 32 years, N Engl J Med 357:370-379 (PubMed 17652652)](https://pubmed.ncbi.nlm.nih.gov/17652652/) — opened source (abstract)
+- [Fowler & Christakis (2008), Dynamic spread of happiness in a large social network, BMJ (PubMed 19056788)](https://pubmed.ncbi.nlm.nih.gov/19056788/) — source (abstract)
+- [Christakis & Fowler (2007), The spread of obesity in a large social network over 32 years, N Engl J Med 357:370-379 (PubMed 17652652)](https://pubmed.ncbi.nlm.nih.gov/17652652/) — source (abstract)
 - [Hess & Fischer (2014), Emotional mimicry: why and when we mimic emotions](https://www.ursulakhess.com/resources/HF14.pdf) — read via search excerpt
 
 ## Cited in psychology parallels

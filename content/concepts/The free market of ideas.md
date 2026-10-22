@@ -48,8 +48,8 @@ Milton's case was made for his own time and this page does not examine whether t
 ## Sources
 
 - Milton, Areopagitica
-- [Milton, Areopagitica (Project Gutenberg #608)](https://www.gutenberg.org/ebooks/608) — opened source (full text)
-- [Marketplace of ideas, Wikipedia](https://en.wikipedia.org/wiki/Marketplace_of_ideas) — opened source
+- [Milton, Areopagitica (Project Gutenberg #608)](https://www.gutenberg.org/ebooks/608) — source (full text)
+- [Marketplace of ideas, Wikipedia](https://en.wikipedia.org/wiki/Marketplace_of_ideas) — source
 
 [[ST003 — The Useless Tree]]
 [[E002 — Practise intentionality]]

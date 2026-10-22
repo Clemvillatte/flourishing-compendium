@@ -27,7 +27,7 @@ The Stanford Encyclopedia's account of the Buddha says that the teaching of non-
 
 ### Relational (Ubuntu)
 
-Ubuntu itself was not opened for this page. The Stanford Encyclopedia's entry on African ethics, which does not use the word, quotes Menkiti on a related idea: personhood "is the sort of thing which has to be attained, and is attained in direct proportion as one participates in communal life". ([Gyekye, African Ethics, section 4](https://plato.stanford.edu/entries/african-ethics/)) This supports a relational view of personhood in African thought, but it should not be treated as a full account of Ubuntu.
+Ubuntu itself is cited at second hand. The Stanford Encyclopedia's entry on African ethics, which does not use the word, quotes Menkiti on a related idea: personhood "is the sort of thing which has to be attained, and is attained in direct proportion as one participates in communal life". ([Gyekye, African Ethics, section 4](https://plato.stanford.edu/entries/african-ethics/)) This supports a relational view of personhood in African thought, but it should not be treated as a full account of Ubuntu.
 
 ### What this page does not claim
 
@@ -45,9 +45,9 @@ These four answers are not rivals on one question. The Ricoeur and Ubuntu readin
 - [[Ubuntu]] — listed for comparison
 
 ## Sources
-- [Olson, Personal Identity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/identity-personal/) — opened source; quotations verified
-- [Pellauer & Dauenhauer, Paul Ricoeur, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ricoeur/) — opened source
-- [Siderits, Buddha, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buddha/) — opened source
-- [Gyekye, African Ethics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/african-ethics/) — opened source
+- [Olson, Personal Identity, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/identity-personal/) — source; quotations verified
+- [Pellauer & Dauenhauer, Paul Ricoeur, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ricoeur/) — source
+- [Siderits, Buddha, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buddha/) — source
+- [Gyekye, African Ethics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/african-ethics/) — source
 
 ## Cited in philosophy parallels

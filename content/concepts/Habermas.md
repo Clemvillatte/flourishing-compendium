@@ -45,7 +45,7 @@ Commentators disagree about whether the theory's central claims are established.
 ## Sources
 
 - 1981
-- [Finlayson & Rees, Jürgen Habermas, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/habermas/) — opened source; all quotations verified against it
+- [Finlayson & Rees, Jürgen Habermas, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/habermas/) — source; all quotations verified against it
 
 ## Cited in psychology parallels
 

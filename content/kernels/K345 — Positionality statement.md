@@ -27,7 +27,7 @@ From the new-researcher guide:
 
 > "A good strong positionality statement will typically include a description of the researcher's lenses (such as their philosophical, personal, theoretical beliefs and perspective through which they view the research process), potential influences on the research (such as age, political beliefs, social class, race, ethnicity, gender, religious beliefs, previous career), the researcher's chosen or pre-determined position about the participants in the project (e.g., as an insider or an outsider), the research-project context and an explanation as to how, where, when and in what way these might, may, or have influenced the research process (Savin-Baden & Major, 2013)." ([Darwin Holmes, 2020, Shanlax International Journal of Education 8(4)](https://files.eric.ed.gov/fulltext/EJ1268044.pdf))
 
-What this evidence does not test: the statement as a practice for people who are not researchers. The guide is methods advice for qualitative researchers, and the page makes no empirical claim about what writing the statement does; the seed's "not a disclaimer" framing is editorial.
+What this evidence does not test: the statement as a practice for people who are not researchers. The guide is methods advice for qualitative researchers, and the page makes no empirical claim about what writing the statement does; the original entry's "not a disclaimer" framing is editorial.
 
 ### A guided version
 

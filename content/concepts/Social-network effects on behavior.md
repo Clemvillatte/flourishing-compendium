@@ -39,9 +39,9 @@ Christakis and Fowler say their obesity clusters were not solely due to selectiv
 ## Sources
 
 - Christakis and Fowler, 2007, 2008
-- [Christakis & Fowler (2007), The spread of obesity in a large social network over 32 years, N Engl J Med (PubMed 17652652)](https://pubmed.ncbi.nlm.nih.gov/17652652/) — opened source (abstract)
-- [Christakis & Fowler (2008), The collective dynamics of smoking in a large social network, N Engl J Med (PubMed 18499567)](https://pubmed.ncbi.nlm.nih.gov/18499567/) — opened source (abstract)
-- [Shalizi & Thomas (2011), Homophily and Contagion Are Generically Confounded in Observational Social Network Studies, Sociological Methods & Research (PubMed 22523436)](https://pubmed.ncbi.nlm.nih.gov/22523436/) — opened source (abstract)
+- [Christakis & Fowler (2007), The spread of obesity in a large social network over 32 years, N Engl J Med (PubMed 17652652)](https://pubmed.ncbi.nlm.nih.gov/17652652/) — source (abstract)
+- [Christakis & Fowler (2008), The collective dynamics of smoking in a large social network, N Engl J Med (PubMed 18499567)](https://pubmed.ncbi.nlm.nih.gov/18499567/) — source (abstract)
+- [Shalizi & Thomas (2011), Homophily and Contagion Are Generically Confounded in Observational Social Network Studies, Sociological Methods & Research (PubMed 22523436)](https://pubmed.ncbi.nlm.nih.gov/22523436/) — source (abstract)
 
 ## Cited in psychology parallels
 

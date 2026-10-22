@@ -30,7 +30,7 @@ Clinical Psychodynamic · Psychological science
 ## Sources
 
 - Meehl, Zubin
-- [Colodro-Conde et al. (2017), A direct test of the diathesis–stress model for depression, Molecular Psychiatry (PMC5764823)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764823/) — opened source; blockquote and fragments verbatim
+- [Colodro-Conde et al. (2017), A direct test of the diathesis–stress model for depression, Molecular Psychiatry (PMC5764823)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5764823/) — source; blockquote and fragments verbatim
 
 ## Cited in philosophy parallels
 [[D107 — Trust your own nature]]

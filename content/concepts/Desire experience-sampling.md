@@ -58,7 +58,7 @@ The data fit a milder reading of the desire-reduction principles: most desires a
 ## Sources
 
 - Hofmann et al., 2012
-- [Hofmann, Baumeister, Förster & Vohs (2012), Everyday temptations: an experience sampling study of desire, conflict, and self-control, J Pers Soc Psychol 102(6):1318-1335 (PubMed 22149456)](https://pubmed.ncbi.nlm.nih.gov/22149456/) — opened source (abstract)
+- [Hofmann, Baumeister, Förster & Vohs (2012), Everyday temptations: an experience sampling study of desire, conflict, and self-control, J Pers Soc Psychol 102(6):1318-1335 (PubMed 22149456)](https://pubmed.ncbi.nlm.nih.gov/22149456/) — source (abstract)
 - [Same paper, full text](http://assets.csom.umn.edu/assets/lib/assets/AssetLibrary/2012/Hofmann_Baumeister_Forster_Vohs_2012_JPSP.pdf) — read via search excerpt
 - [Hofmann, Vohs & Baumeister (2012), What people desire, feel conflicted about, and try to resist in everyday life, Psychological Science 23:582](https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/hofmann_vohs_baumeister_2012_psych_science.pdf) — read via search excerpt
 

@@ -47,7 +47,7 @@ Most of this evidence is cross-sectional. A search excerpt from a recent longitu
 - Gilbert, 2009
 - [Gilbert (2009), Introducing compassion-focused therapy, Adv Psychiatr Treat 15:199-208](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/introducing-compassionfocused-therapy/ECBC8B7B87E90ABB58C4530CDEE04088) — read via search excerpt
 - [Paranjothy & Wade (2024), A meta-analysis of disordered eating and its association with self-criticism and self-compassion, Int J Eat Disord 57:473-536 (PubMed 38366726)](https://pubmed.ncbi.nlm.nih.gov/38366726/) — read via search excerpt
-- [MacBeth & Gumley (2012), Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology, Clin Psychol Rev 32 (PubMed 22796446)](https://pubmed.ncbi.nlm.nih.gov/22796446/) — opened source (abstract)
+- [MacBeth & Gumley (2012), Exploring compassion: a meta-analysis of the association between self-compassion and psychopathology, Clin Psychol Rev 32 (PubMed 22796446)](https://pubmed.ncbi.nlm.nih.gov/22796446/) — source (abstract)
 - [Self-criticism, experiential avoidance, social anxiety and depression, Current Psychology 2025](https://link.springer.com/article/10.1007/s12144-025-08264-2) — read via search excerpt only
 
 ## Cited in psychology parallels

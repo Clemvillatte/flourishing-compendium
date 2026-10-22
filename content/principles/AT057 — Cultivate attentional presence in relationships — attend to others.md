@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 57** — Cultivate attentional presence in relationships: attend to others
 
-Roberts and David's study of partner phubbing is the opened source. Their definition:
+Roberts and David's study of partner phubbing is the source. Their definition:
 
 > "Partner phubbing (Pphubbing) can be best understood as the extent to which an individual uses or is distracted by his/her cell phone while in the company of his/her relationship partner." ([Roberts & David, 2016, Computers in Human Behavior 54, abstract](https://www.studocu.com/en-us/document/university-of-alabama/english-composition/roberts-david-2016-got-100/107160974))
 

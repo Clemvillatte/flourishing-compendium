@@ -41,8 +41,8 @@ Cruwys and colleagues' 2013 population study of depression and group membership 
 ## Sources
 
 - 2009
-- [Haslam, Jetten, Postmes & Haslam (2009), Social identity, health and well-being: an emerging agenda for applied psychology, Applied Psychology 58(1):1-23](https://www.dhi.ac.uk/san/waysofbeing/data/communities-murphy-haslam-2009.pdf) — opened source (introductory pages); quotations verified
-- [Cruwys et al. (2013), Social group memberships protect against future depression, alleviate depression symptoms and prevent depression relapse, Social Science & Medicine 98:179-186 (PubMed 24331897)](https://pubmed.ncbi.nlm.nih.gov/24331897/) — opened source (abstract)
+- [Haslam, Jetten, Postmes & Haslam (2009), Social identity, health and well-being: an emerging agenda for applied psychology, Applied Psychology 58(1):1-23](https://www.dhi.ac.uk/san/waysofbeing/data/communities-murphy-haslam-2009.pdf) — source (introductory pages); quotations verified
+- [Cruwys et al. (2013), Social group memberships protect against future depression, alleviate depression symptoms and prevent depression relapse, Social Science & Medicine 98:179-186 (PubMed 24331897)](https://pubmed.ncbi.nlm.nih.gov/24331897/) — source (abstract)
 
 ## Cited in psychology parallels
 

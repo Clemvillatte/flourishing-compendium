@@ -45,7 +45,7 @@ Dewey is not arguing against abstraction as such. The same chapter treats thinki
 ## Sources
 
 - Dewey, Art as Experience
-- [Dewey, Having an Experience (Art as Experience, 1934, ch. III; reproduced from McDermott's The Philosophy of John Dewey)](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm) — opened source; quotations verified
+- [Dewey, Having an Experience (Art as Experience, 1934, ch. III; reproduced from McDermott's The Philosophy of John Dewey)](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm) — source; quotations verified
 - [Dewey's Aesthetics, Stanford Encyclopedia of Philosophy (section 2.3)](https://plato.stanford.edu/archives/win2020/entries/dewey-aesthetics/index.html) — search excerpt
 
 [[P042 — Learn by doing]]

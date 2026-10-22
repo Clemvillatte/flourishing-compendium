@@ -47,8 +47,8 @@ In that study, using signature strengths in a new way was one of two exercises t
 - Niemiec, 2018
 - the series' strengths kernels
 - Peterson and Seligman, 2004
-- [Seligman, Steen, Park and Peterson, "Positive Psychology Progress: Empirical Validation of Interventions" (final-revision manuscript PDF, Greater Good; published as American Psychologist 60(5):410-421, 2005, PubMed 16045394)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) — opened source for the study design sentence, the signature strengths exercise instructions and the six-month findings sentence; published-article details verified against [the PubMed record](https://pubmed.ncbi.nlm.nih.gov/16045394/)
-- [VIA Institute, "Character Strengths and Virtues: A Handbook and Classification"](https://www.viacharacter.org/character-strengths-and-virtues) — opened source for the 24-strengths and virtue-category structure and the descriptive-not-prescriptive characterization
+- [Seligman, Steen, Park and Peterson, "Positive Psychology Progress: Empirical Validation of Interventions" (final-revision manuscript PDF, Greater Good; published as American Psychologist 60(5):410-421, 2005, PubMed 16045394)](https://greatergood.berkeley.edu/images/uploads/Seligman-PosPsychProgress.pdf) — source for the study design sentence, the signature strengths exercise instructions and the six-month findings sentence; published-article details verified against [the PubMed record](https://pubmed.ncbi.nlm.nih.gov/16045394/)
+- [VIA Institute, "Character Strengths and Virtues: A Handbook and Classification"](https://www.viacharacter.org/character-strengths-and-virtues) — source for the 24-strengths and virtue-category structure and the descriptive-not-prescriptive characterization
 
 ## Cited in psychology parallels
 

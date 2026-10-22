@@ -32,7 +32,7 @@ French moralist tradition · Existential philosophy
 ## Sources
 
 - Pascal, Pensées
-- [Pascal's Pensées, trans. W. F. Trotter, Project Gutenberg ebook #18269](https://www.gutenberg.org/files/18269/18269-0.txt) — opened source; all blockquotes and fragments verbatim (fragments 131, 139, 163, 165)
+- [Pascal's Pensées, trans. W. F. Trotter, Project Gutenberg ebook #18269](https://www.gutenberg.org/files/18269/18269-0.txt) — source; all blockquotes and fragments verbatim (fragments 131, 139, 163, 165)
 
 ## Cited in philosophy parallels
 [[D155 — Watch the thieves within]]

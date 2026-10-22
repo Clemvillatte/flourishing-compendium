@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AT — Attentio
 ---
 > **Principle 33** — Learn to work with attentional fatigue: recognise and respond to depletion
 
-Kaplan's Attention Restoration Theory is the opened source. Its abstract:
+Kaplan's Attention Restoration Theory is the source. Its abstract:
 
 > "Directed attention plays an important role in human information processing; its fatigue, in turn, has far-reaching consequences." ([Kaplan, 1995, Journal of Environmental Psychology 15, abstract](https://www.sciencedirect.com/science/article/pii/0272494495900012))
 

@@ -51,7 +51,7 @@ Neither source says the rule is a complete moral theory. This page does not cove
 
 - Confucius, The Analects
 - [Csikszentmihalyi, Confucius, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/confucius/) — read via search excerpt
-- [Talmud Bavli, Shabbat 31a, Sefaria](https://www.sefaria.org/Shabbat.31a.6) — opened source
+- [Talmud Bavli, Shabbat 31a, Sefaria](https://www.sefaria.org/Shabbat.31a.6) — source
 - Hillel the Elder, Talmud
 
 [[Y058 — Practice moderation in everything]]

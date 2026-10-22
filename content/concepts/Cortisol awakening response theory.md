@@ -41,9 +41,9 @@ A 2019 study of salivary cortisol in healthy adults found the peak 20 minutes af
 
 ## Sources
 
-- [Fries, Dettenborn & Kirschbaum (2009), The cortisol awakening response (CAR): facts and future directions, Int J Psychophysiol 72 (PubMed 18854200)](https://pubmed.ncbi.nlm.nih.gov/18854200/) — opened source (abstract)
-- [Clow, Hucklebridge, Stalder et al. (2010), The cortisol awakening response: more than a measure of HPA axis function, Neurosci Biobehav Rev 35 (PubMed 20026350)](https://pubmed.ncbi.nlm.nih.gov/20026350/) — opened source (abstract)
-- [Evans, Smyth, Thorn et al. (2019), Salience versus magnitude in the measurement of the cortisol awakening response, Psychoneuroendocrinology 103 (PubMed 30731428)](https://pubmed.ncbi.nlm.nih.gov/30731428/) — opened source (abstract)
+- [Fries, Dettenborn & Kirschbaum (2009), The cortisol awakening response (CAR): facts and future directions, Int J Psychophysiol 72 (PubMed 18854200)](https://pubmed.ncbi.nlm.nih.gov/18854200/) — source (abstract)
+- [Clow, Hucklebridge, Stalder et al. (2010), The cortisol awakening response: more than a measure of HPA axis function, Neurosci Biobehav Rev 35 (PubMed 20026350)](https://pubmed.ncbi.nlm.nih.gov/20026350/) — source (abstract)
+- [Evans, Smyth, Thorn et al. (2019), Salience versus magnitude in the measurement of the cortisol awakening response, Psychoneuroendocrinology 103 (PubMed 30731428)](https://pubmed.ncbi.nlm.nih.gov/30731428/) — source (abstract)
 
 ## Field
 

@@ -30,7 +30,7 @@ For Tronto, good care has four elements: attention, responsibility, competence a
 ## Sources
 
 - Tronto, Moral Boundaries
-- [Laurin and Martin, "Towards democratic institutions: Tronto's care ethics inspiring nursing actions in intensive care" (Nursing Ethics, 2022, PMC9667078)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9667078/) — opened source quoting the Fisher-Tronto definition verbatim with the p. 103 locator, and the four phases and four elements
+- [Laurin and Martin, "Towards democratic institutions: Tronto's care ethics inspiring nursing actions in intensive care" (Nursing Ethics, 2022, PMC9667078)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9667078/) — source quoting the Fisher-Tronto definition verbatim with the p. 103 locator, and the four phases and four elements
 
 [[ST079 — Won't You Be My Neighbour]]
 [[BI013 — Prioritise sleep as the foundation of mental health]]

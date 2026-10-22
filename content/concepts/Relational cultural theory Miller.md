@@ -49,7 +49,7 @@ Jordan notes that the theory was "initially ignored then treated as 'dangerous,'
 
 ## Sources
 
-- [Jordan, J. V. (2024), Relational-Cultural Therapy, 3rd ed., American Psychological Association, Introduction (publisher sample pages)](https://www.apa.org/pubs/books/3842146-sample-pages.pdf) — opened source; quotations verified against it
+- [Jordan, J. V. (2024), Relational-Cultural Therapy, 3rd ed., American Psychological Association, Introduction (publisher sample pages)](https://www.apa.org/pubs/books/3842146-sample-pages.pdf) — source; quotations verified against it
 - [Comstock et al. (2008), Relational-Cultural Theory: A Framework for Bridging Relational, Multicultural, and Social Justice Competencies, Journal of Counseling & Development 86:279-287 (abstract)](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1556-6678.2008.tb00510.x) — abstract read via search excerpt
 
 ## Field

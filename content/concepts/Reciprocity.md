@@ -31,7 +31,7 @@ Gouldner's classic statement gives the norm its two demands: help those who have
 - Gouldner, 1960
 
 - Gouldner, "The Norm of Reciprocity"
-- ["On the norm of reciprocity", Mimesis Journals](https://mimesisjournals.com/ojs/index.php/tcrs/article/download/239/188/416) — opened source; Gouldner's two-demands sentence quoted verbatim with page reference (p. 171) as carried by this article
+- ["On the norm of reciprocity", Mimesis Journals](https://mimesisjournals.com/ojs/index.php/tcrs/article/download/239/188/416) — source; Gouldner's two-demands sentence quoted verbatim with page reference (p. 171) as carried by this article
 
 ## Cited in psychology parallels
 

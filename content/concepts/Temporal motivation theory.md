@@ -43,7 +43,7 @@ TMT treats procrastination as a motivation problem. The compendium's principle [
 - Expectancy × Value
 - Steel, 2007
 - [Steel & König (2006), Integrating theories of motivation, Acad Manage Rev 31(4):889-913 (abstract)](https://journals.aom.org/doi/10.5465/amr.2006.22527462) — read via search excerpt
-- [Steel (2007), The nature of procrastination, Psychol Bull 133:65-94 (PubMed 17201571)](https://pubmed.ncbi.nlm.nih.gov/17201571/) — opened source (abstract)
+- [Steel (2007), The nature of procrastination, Psychol Bull 133:65-94 (PubMed 17201571)](https://pubmed.ncbi.nlm.nih.gov/17201571/) — source (abstract)
 - [EasyChair preprint on public service motivation and time](https://easychair.org/publications/preprint/1fLm/open) — read via search excerpt (quotes Steel & König 2006, p. 897)
 - [What are you waiting for? Motivation, goal orientation and emotion regulation in ADHD and procrastination (PMC 13033046)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13033046/) — read via search excerpt (formula)
 

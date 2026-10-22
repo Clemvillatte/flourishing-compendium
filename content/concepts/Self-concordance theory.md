@@ -53,7 +53,7 @@ Both sources are abstracts, so the effect sizes and methods are not covered here
 - Sheldon and Elliot, 1999
 - Sheldon & Elliot, 1999
 - Sheldon et al., 2004
-- [Sheldon & Elliot (1999), Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model, J Pers Soc Psychol 76:482-497 (PubMed 10101878)](https://pubmed.ncbi.nlm.nih.gov/10101878/) — opened source (abstract)
+- [Sheldon & Elliot (1999), Goal striving, need satisfaction, and longitudinal well-being: the self-concordance model, J Pers Soc Psychol 76:482-497 (PubMed 10101878)](https://pubmed.ncbi.nlm.nih.gov/10101878/) — source (abstract)
 - [Sheldon et al. (2004), Self-concordance and subjective well-being in four cultures, J Cross-Cult Psychol 35(2):209-223](https://scholarship.miami.edu/esploro/outputs/journalArticle/Self-Concordance-and-Subjective-Well-Being-in-Four/991031599879802976) — abstract read via university repository record
 
 ## Cited in psychology parallels

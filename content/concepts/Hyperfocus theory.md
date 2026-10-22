@@ -40,7 +40,7 @@ Writers can use the term for a described experience, with a plain note that defi
 - [Focus on Hyperfocus: How ADHD Symptoms Impact Difficulty with Disengagement and Inattention (University of Richmond honors thesis)](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=2611&context=honors-theses)
 - [Attention Deficit/Hyperactivity Disorder (ADHD)-Related Strengths in Adults: A Scoping Review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13538910/)
 - [Testing the relation between ADHD and hyperfocus experiences (PubMed)](https://pubmed.ncbi.nlm.nih.gov/33126147/)
-- Hupfeld, Abagis and Shah (2019), "Living 'in the zone': Hyperfocus in adult ADHD", cited through the sources above and not opened directly
+- Hupfeld, Abagis and Shah (2019), "Living 'in the zone': Hyperfocus in adult ADHD", cited through the sources above at second hand
 
 ## Field
 

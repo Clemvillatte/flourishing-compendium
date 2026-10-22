@@ -28,8 +28,8 @@ The formula of the advance: "The many [entities] become one [entity], and are in
 ## Sources
 
 - Whitehead, Process and Reality
-- [Garland, "The Mystery of Creativity" (The Whitehead Encyclopedia)](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/) — opened source quoting Process and Reality pp. 21 and 349
-- [IEP, "Alfred North Whitehead"](https://iep.utm.edu/whitehead/) — opened source for the formula explanation
+- [Garland, "The Mystery of Creativity" (The Whitehead Encyclopedia)](https://encyclopedia.whiteheadresearch.org/entries/thematic/metaphysics/the-mystery-of-creativity/) — source quoting Process and Reality pp. 21 and 349
+- [IEP, "Alfred North Whitehead"](https://iep.utm.edu/whitehead/) — source for the formula explanation
 
 [[ST121 — The Creative Advance]]
 [[P092 — Live in a thick present]]

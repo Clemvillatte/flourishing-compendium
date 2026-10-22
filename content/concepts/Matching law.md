@@ -34,7 +34,7 @@ The law describes average allocation of behaviour across concurrent options, not
 - [Dynamic Response-by-Response Models of Matching Behavior in Rhesus Monkeys (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1389781/)
 - [The generalized matching law describes choice on concurrent variable-interval schedules of wheel-running reinforcement (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1284819/pdf/11453620.pdf)
 - [An application of the matching law to social dynamics (ERIC EJ780540)](https://files.eric.ed.gov/fulltext/EJ780540.pdf)
-- Herrnstein (1961), "Relative and absolute strength of response as a function of frequency of reinforcement", Journal of the Experimental Analysis of Behavior 4, 267-272, cited through the sources above and not opened directly
+- Herrnstein (1961), "Relative and absolute strength of response as a function of frequency of reinforcement", Journal of the Experimental Analysis of Behavior 4, 267-272, cited through the sources above at second hand
 
 ## Field
 

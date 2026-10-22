@@ -46,9 +46,9 @@ The studies concern one-off choices in surveys and experiments. They do not show
 ## Sources
 
 - Levin et al., 1998
-- [Levin, Schneider & Gaeth (1998), All frames are not created equal, Organ Behav Hum Decis Process 76:149-188 (PubMed 9831520)](https://pubmed.ncbi.nlm.nih.gov/9831520/) — opened source (abstract)
-- [Kühberger (2023), A systematic review of risky-choice framing effects, EXCLI J](https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/) — opened source
-- [Tversky & Kahneman (1981), The framing of decisions and the psychology of choice, Science 211:453-458 (PubMed 7455683)](https://pubmed.ncbi.nlm.nih.gov/7455683/) — opened source (abstract)
+- [Levin, Schneider & Gaeth (1998), All frames are not created equal, Organ Behav Hum Decis Process 76:149-188 (PubMed 9831520)](https://pubmed.ncbi.nlm.nih.gov/9831520/) — source (abstract)
+- [Kühberger (2023), A systematic review of risky-choice framing effects, EXCLI J](https://pmc.ncbi.nlm.nih.gov/articles/PMC10620856/) — source
+- [Tversky & Kahneman (1981), The framing of decisions and the psychology of choice, Science 211:453-458 (PubMed 7455683)](https://pubmed.ncbi.nlm.nih.gov/7455683/) — source (abstract)
 
 - Tversky & Kahneman, 1981
 

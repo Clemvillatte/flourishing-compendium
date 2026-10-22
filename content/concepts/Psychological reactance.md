@@ -25,7 +25,7 @@ The theory posits that people hold specific behavioral freedoms, and when a free
 ## Sources
 
 - Brehm, 1966
-- [Reynolds-Tylus, "Psychological Reactance and Persuasive Health Communication: A Review of the Literature", Frontiers in Communication 4, 56 (2019)](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/full) — opened source; quoted fragments verified against this copy
+- [Reynolds-Tylus, "Psychological Reactance and Persuasive Health Communication: A Review of the Literature", Frontiers in Communication 4, 56 (2019)](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2019.00056/full) — source; quoted fragments verified against this copy
 
 ## Cited in psychology parallels
 

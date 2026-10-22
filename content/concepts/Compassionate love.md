@@ -51,7 +51,7 @@ The participants in the first study were undergraduate students at a midwestern 
 - Underwood, 2008
 - Underwood, 2009
 - Berscheid, 2010
-- [Sprecher & Fehr (2005), Compassionate love for close others and humanity, Journal of Social and Personal Relationships 22(5):629-651](https://ggsc.berkeley.edu/images/uploads/Sprecher_Fehr_2005_Compassionate_love_for_close_others_and_humanity.pdf) — opened source; definition and findings verified
+- [Sprecher & Fehr (2005), Compassionate love for close others and humanity, Journal of Social and Personal Relationships 22(5):629-651](https://ggsc.berkeley.edu/images/uploads/Sprecher_Fehr_2005_Compassionate_love_for_close_others_and_humanity.pdf) — source; definition and findings verified
 - [Berscheid (2010), Love in the fourth dimension, Annual Review of Psychology 61](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.093008.100318) — abstract read via search excerpt
 - [Compassionate Love for a Romantic Partner Across the Adult Life Span (PMC5763452)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5763452/) — search excerpt; source of the Underwood (2009) quotations
 

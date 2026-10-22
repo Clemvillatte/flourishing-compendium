@@ -22,7 +22,7 @@ He adds that this takes effort, which fits the page's insistence that releasemen
 
 (Heidegger, Discourse on Thinking, Memorial Address.)
 
-**Plain words** In this text releasement means using things without treating them as the last word, and staying open to what they mean. Heidegger says it takes steady thinking. The wider reading of it as a general loosening of will and control comes from the Conversation that follows in the book, which was not opened for this page.
+**Plain words** In this text releasement means using things without treating them as the last word, and staying open to what they mean. Heidegger says it takes steady thinking. The wider reading of it as a general loosening of will and control comes from the Conversation that follows in the book, which is cited at second hand.
 
 For example (imagined): someone uses a phone for work, then leaves it in another room for dinner. They neither refuse it nor obey it.
 

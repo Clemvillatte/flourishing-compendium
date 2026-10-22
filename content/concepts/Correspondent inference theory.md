@@ -24,8 +24,8 @@ Sociocultural · Psychological science
 ## Sources
 
 - Jones & Davis, 1965
-- [Jones E E & Davis K E, From acts to dispositions, Advances in Experimental Social Psychology vol. 2 (Garfield Citation Classics, University of Pennsylvania)](https://garfield.library.upenn.edu/classics1979/A1979HZ31600001.pdf) — opened source; abstract blockquote and Jones commentary verbatim
-- [NPTEL lecture 11, Attribution (Indian Institute online course PDF)](https://archive.nptel.ac.in/content/storage2/courses/109104048/module/lecture11.pdf) — opened source; three-condition summary read
+- [Jones E E & Davis K E, From acts to dispositions, Advances in Experimental Social Psychology vol. 2 (Garfield Citation Classics, University of Pennsylvania)](https://garfield.library.upenn.edu/classics1979/A1979HZ31600001.pdf) — source; abstract blockquote and Jones commentary verbatim
+- [NPTEL lecture 11, Attribution (Indian Institute online course PDF)](https://archive.nptel.ac.in/content/storage2/courses/109104048/module/lecture11.pdf) — source; three-condition summary read
 
 ## Cited in philosophy parallels
 [[R070 — Practise attentiveness]]

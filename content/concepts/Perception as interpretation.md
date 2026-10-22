@@ -41,8 +41,8 @@ The link to modern psychology, such as predictive accounts of perception, is the
 ## Sources
 
 - Kant, Critique of Pure Reason
-- [Kant, Critique of Pure Reason, trans. J. M. D. Meiklejohn, Project Gutenberg](https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — opened source; quotation verified
-- [Rohlf, Immanuel Kant, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kant/) — opened source
+- [Kant, Critique of Pure Reason, trans. J. M. D. Meiklejohn, Project Gutenberg](https://www.gutenberg.org/cache/epub/4280/pg4280.txt) — source; quotation verified
+- [Rohlf, Immanuel Kant, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kant/) — source
 
 [[K001 — Return to experience before the labels]]
 [[BI053 — Cultivate interoceptive awareness — notice internal signals]]

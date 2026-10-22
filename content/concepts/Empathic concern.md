@@ -31,7 +31,7 @@ Social psychology · Emotion research
 ## Sources
 
 - Batson, 2011
-- [Zhao et al., People Who Identify with All of Humanity..., Behavioral Sciences (PMC13603700)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13603700/) — opened source; quotes verbatim
+- [Zhao et al., People Who Identify with All of Humanity..., Behavioral Sciences (PMC13603700)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13603700/) — source; quotes verbatim
 
 ## Cited in psychology parallels
 [[R048 — Practise ofo]]

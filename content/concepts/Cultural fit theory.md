@@ -30,7 +30,7 @@ Sociocultural · Psychological science
 
 ## Sources
 
-- [Hanel, Wolfradt, Wolf, de Holanda Coelho & Maio (2020), Well-being as a function of person-country fit in human values, Nature Communications 11:5150 (PMC7554046)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/) — opened source; blockquote and fragments verbatim
+- [Hanel, Wolfradt, Wolf, de Holanda Coelho & Maio (2020), Well-being as a function of person-country fit in human values, Nature Communications 11:5150 (PMC7554046)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7554046/) — source; blockquote and fragments verbatim
 
 ## Cited in philosophy parallels
 [[SO019 — Treat religion and spirituality as legitimate resources]]

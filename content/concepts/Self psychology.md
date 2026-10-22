@@ -40,8 +40,8 @@ Banai, Mikulincer and Shaver (2005) ran seven studies on the three needs and on 
 
 ## Sources
 
-- [Rønning & Bjørkly (2017), Residents' experiences of relationships with nurses in community-based supported housing, Journal of Multidisciplinary Healthcare 10 (PMC5340182)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5340182/) — opened source; selfobject and tripolar-self wording verified
-- [Banai, Mikulincer & Shaver (2005), "Selfobject" needs in Kohut's self psychology, Psychoanalytic Psychology 22(2):224-260 (Hebrew University record)](https://cris.huji.ac.il/en/publications/selfobject-needs-in-kohuts-self-psychology-links-with-attachment-/) — opened source (abstract)
+- [Rønning & Bjørkly (2017), Residents' experiences of relationships with nurses in community-based supported housing, Journal of Multidisciplinary Healthcare 10 (PMC5340182)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5340182/) — source; selfobject and tripolar-self wording verified
+- [Banai, Mikulincer & Shaver (2005), "Selfobject" needs in Kohut's self psychology, Psychoanalytic Psychology 22(2):224-260 (Hebrew University record)](https://cris.huji.ac.il/en/publications/selfobject-needs-in-kohuts-self-psychology-links-with-attachment-/) — source (abstract)
 
 ## Field
 

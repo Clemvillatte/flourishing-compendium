@@ -31,7 +31,7 @@ Aristotle's treatment carries the standing qualification: the self-sufficient go
 - Diogenes of Sinope
 - Aristotle, NE X.7
 - Aristotle, NE I.8, with qualification
-- [Aristotle, Nicomachean Ethics, Book I, W. D. Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) — opened source; quoted fragments verified against this copy
+- [Aristotle, Nicomachean Ethics, Book I, W. D. Ross translation (MIT Classics)](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html) — source; quoted fragments verified against this copy
 
 ## Cited in philosophy parallels
 

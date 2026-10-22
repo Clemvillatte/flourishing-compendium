@@ -17,7 +17,7 @@ Maslow credits the term to someone else: "This term, first coined by Kurt Goldst
 
 ### Scope of this page
 
-The 1943 paper is the earliest source opened for this page. The page's original citations are Maslow's later books (1968, 1970), which were not opened here, so the original entry wording about "full use and exploitation of talents" is not quoted. The link between the concept and growth or "becoming" comes from Maslow's Toward a Psychology of Being, also unopened. The compendium's principle SE065 (Learn self-actualization) adds a practical framing that Maslow's paper does not give.
+The 1943 paper is the earliest source cited for this page. The page's original citations are Maslow's later books (1968, 1970), which are cited at second hand, so the original entry wording about "full use and exploitation of talents" is not quoted. The link between the concept and growth or "becoming" comes from Maslow's Toward a Psychology of Being, also cited at second hand. The compendium's principle SE065 (Learn self-actualization) adds a practical framing that Maslow's paper does not give.
 
 ## Facets
 

@@ -31,7 +31,7 @@ The sutta then gives sixteen training steps, grouped over body, feelings, mind a
 ## Sources
 
 - Buddhism, Anapanasati Sutta
-- [Anapanasati Sutta (MN 118), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — opened source for the posture, the first-tetrad blockquote, the sixteen steps and the culmination chain
+- [Anapanasati Sutta (MN 118), Thanissaro translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — source for the posture, the first-tetrad blockquote, the sixteen steps and the culmination chain
 
 [[K194 — Slow breathing (5 to 6 breaths per minute)]]
 [[ST070 — Dōgen Just Sits]]

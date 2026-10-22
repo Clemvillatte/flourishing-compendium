@@ -29,7 +29,7 @@ He extends the thought to nature: "Their novelty arises from an internal impetus
 ## Sources
 
 - Bergson, Creative Evolution
-- [Bergson, Creative Evolution, trans. Arthur Mitchell (1911), Project Gutenberg ebook 26163](https://www.gutenberg.org/files/26163/26163-8.txt) — opened source; blockquote and fragment verbatim
+- [Bergson, Creative Evolution, trans. Arthur Mitchell (1911), Project Gutenberg ebook 26163](https://www.gutenberg.org/files/26163/26163-8.txt) — source; blockquote and fragment verbatim
 
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]
 [[P054 — Balance exploration and exploitation]]

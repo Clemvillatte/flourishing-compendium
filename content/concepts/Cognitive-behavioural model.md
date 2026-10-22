@@ -49,7 +49,7 @@ They add that "the efficacy of CBT is questionable for some problems", that many
 - Beck, 1976
 - [Beck Institute, Cognitive Model (PDF)](https://beckinstitute.org/wp-content/uploads/2024/05/Cognitive-Model.pdf) — read via search excerpt; quotation verified
 - [Cognitive Behavior Therapy, StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK470241/) — read via search excerpt
-- [Hofmann, Asnaani, Vonk, Sawyer & Fang (2012), The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses, Cognitive Therapy and Research 36(5):427-440 (PMC3584580)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580/) — opened source; quotations verified
+- [Hofmann, Asnaani, Vonk, Sawyer & Fang (2012), The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses, Cognitive Therapy and Research 36(5):427-440 (PMC3584580)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3584580/) — source; quotations verified
 
 ## Cited in psychology parallels
 

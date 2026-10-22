@@ -55,7 +55,7 @@ Peirce states its hypothesis as: "There are Real things, whose characters are en
 ## Sources
 
 - Peirce, "The Fixation of Belief"
-- [Peirce (1877), The Fixation of Belief, Popular Science Monthly 12:1-15, peirce.org](https://www.peirce.org/writings/p107.html) — opened source (full text)
+- [Peirce (1877), The Fixation of Belief, Popular Science Monthly 12:1-15, peirce.org](https://www.peirce.org/writings/p107.html) — source (full text)
 
 [[P037 — Live experimentally]]
 [[D016 — Distrust names and labels]]

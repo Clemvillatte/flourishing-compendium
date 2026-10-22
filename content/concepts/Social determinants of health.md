@@ -23,7 +23,7 @@ The Commission on Social Determinants of Health, set up by WHO in 2005 and chair
 
 ### In the compendium
 
-The principles listed apply this literature to flourishing: A006 (Expect flourishing to require external goods), P138 (Take responsibility for the social conditions of growth) and SO075 (Use systems-level intervention for social suffering). The sources above establish that health is patterned by social conditions and that WHO recommends structural action. They do not establish what any particular individual's flourishing requires. That extension is the compendium's. The original entry citation to Marmot (2004) was not opened for this revision.
+The principles listed apply this literature to flourishing: A006 (Expect flourishing to require external goods), P138 (Take responsibility for the social conditions of growth) and SO075 (Use systems-level intervention for social suffering). The sources above establish that health is patterned by social conditions and that WHO recommends structural action. They do not establish what any particular individual's flourishing requires. That extension is the compendium's. The original entry citation to Marmot (2004) is cited at second hand.
 
 ## Related concepts
 
