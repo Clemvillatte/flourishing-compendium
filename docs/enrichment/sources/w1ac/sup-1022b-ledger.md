@@ -47,3 +47,7 @@
 - Opened: Morris, Price, McKenzie & Kemp, IMHJ 2023 (Wiley open access, 10.1002/imhj.22037) — verbatim construct definition; NCBI Parenting Knowledge volume — developmental-outcome correlation sentence.
 - Author attribution corrected mid-item (fetch returned the byline: Sophie Stucley Morris et al.).
 - FLAG for supervisor: R073's psychology-parallel line cites "Bernstein et al., 2014" for responsive parenting. The construct literature centers on Landry, Bernard, Bornstein; the only Bernstein et al. 2014 found is a prenatal infant-face perception study (IMHJ 35, 233-244), not a responsive-parenting construct. Recorded via enrich_state flag.
+
+## Responsiveness (fast-track bar)
+- Opened: SEP "Emmanuel Levinas" (Bergo & Bettina). Verbatim: "In responding, I discover my responsibility to them." and "Above all, we do not choose to be responsible. Responsibility arises as if elicited, before we begin to think about it, by the approach of the other person."
+- Tronto quotes reused from the compendium's own R073 page (which opens the pirate.care full text); flagged as not independently re-opened this session.
