@@ -8,15 +8,15 @@ tags: ["psych/self", "psych/social", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Positive psychology names a turn in the discipline itself, away from repairing damage and toward studying the strengths and conditions that let a life go well. The field was launched publicly in the January 2000 special issue of the American Psychologist, guest-edited by Martin Seligman and Mihaly Csikszentmihalyi. Their introductory article opens with a sentence about what the new science would cover:
+Positive psychology names a turn in the discipline itself, toward studying the strengths and conditions that let a life go well alongside its long-standing work on repairing damage. Seligman called publicly for the reorientation in his 1998 APA Presidential Address; the January 2000 special issue of the American Psychologist, guest-edited by Seligman and Mihaly Csikszentmihalyi, then introduced the organized research agenda. The abstract opens with a sentence about what the new science would cover:
 
 > "A science of positive subjective experience, positive individual traits, and positive institutions promises to improve quality of life and prevent the pathologies that arise when life is barren and meaningless." (Seligman and Csikszentmihalyi, "Positive Psychology: An Introduction," American Psychologist 55(1), 2000, pp. 5-14, [PubMed 11392865](https://pubmed.ncbi.nlm.nih.gov/11392865/))
 
-The same article names the reason a new science was needed:
+The same abstract names the reason the reorientation was needed:
 
 > "The exclusive focus on pathology that has dominated so much of our discipline results in a model of the human being lacking the positive features that make life worth living." (ibid.)
 
-And it predicts the next century will see "a science and profession that will come to understand and build the factors that allow individuals, communities, and societies to flourish" ([ibid.](https://pubmed.ncbi.nlm.nih.gov/11392865/)).
+And the abstract predicts the next century will see "a science and profession that will come to understand and build the factors that allow individuals, communities, and societies to flourish" ([ibid.](https://pubmed.ncbi.nlm.nih.gov/11392865/)).
 
 ### The turn in Seligman's own thinking
 
