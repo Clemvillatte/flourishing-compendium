@@ -7,3 +7,9 @@
 - Evidence carries page locators for all quotes (Kross: abstract p. 304, challenge-vs-threat p. 314; Lieberman: abstract p. 421, amygdala ROI result p. 424 incl. t(29)=2.14, prep=.93, d=0.79 with its gender-label comparator) and an explicit 'neither paper tested this combined exercise' paragraph.
 - Operationalises kept verbatim (4 original links), reformatted as bullets per K188/K391/K220 precedent to respect the em-dash budget; wikilink markup unchanged.
 - Validation: exit 0 (prose within 150-480; no banned vocabulary; no staging; dashes within budget; Sources section carries both opened URLs).
+
+## 2026-10-22 — K169 Anger dissection (worker-k1b-pplx)
+- Sources opened this session: Kuppens et al. 2003 full text (KU Leuven repository PDF; verbatim quotes with locators: abstract findings p. 254; antagonistic action tendency sentence p. 255, section "Appraisal and Action Tendency Components of Anger"); Sander, Grandjean and Scherer 2018 full text (unige.ch PDF; verbatim quote of Scherer 2005 five-subsystems sentence with its original p. 697 locator).
+- Claims narrowed: step 4 (violated value) labelled an ADAPTATION (appraisal research ties anger to unfairness/other-accountability, not values per se); step 6 alignment question labelled the practice's own wording, not study material; the component list in Evidence paraphrased rather than quoted to keep the em-dash budget (the abstract's list sentence contains two em dashes).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
+- Validation: exit 0; workflow-narration grep clean.

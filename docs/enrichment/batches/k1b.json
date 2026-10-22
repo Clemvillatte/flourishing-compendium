@@ -1,7 +1,8 @@
 {
  "batch": "k1b",
  "done": [
-  "content/kernels/K137 \u2014 Language flexibility.md"
+  "content/kernels/K137 \u2014 Language flexibility.md",
+  "content/kernels/K169 \u2014 Anger dissection.md"
  ],
  "in_progress": null,
  "queue": [
@@ -39,5 +40,5 @@
  "notes": "Minted 2026-10-22 by worker-k1b-pplx (worker-minted kernel band per k1a precedent; queue-kernels.json@HEAD re-measured with the validator's prose_text counter: 150 of 216 still <150 prose words; k1b = thinnest 30). Standard: K100 kernel exemplar (EXEMPLARS.md); ledger in docs/enrichment/sources/k1b/ledger.md. Protocol: PROTOCOL-THINKERS.md kernels plan + k1a conventions.",
  "flagged": {},
  "band_done": false,
- "updated": "2026-10-22T15:04:16Z"
+ "updated": "2026-10-22T15:07:47Z"
 }
