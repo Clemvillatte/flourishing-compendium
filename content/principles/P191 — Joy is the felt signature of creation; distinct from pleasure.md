@@ -16,9 +16,13 @@ Bergson distinguishes pleasure from joy. Nature, he says, warns us by a clear si
 
 This is not a guarantee. Bergson is offering a phenomenological reading of the *experience* of joy, not a clinical test of whether someone is flourishing.
 
-**Plain words** Joy and pleasure are easy to mix up. Pleasure is the body saying thank you for maintenance: food eaten, rest taken, warmth found. Joy is what you feel when something exists that would not exist without you — a child grown, a thing built, an idea made real. This is a way of reflecting on your feelings, not a rule that every finished task should make you happy.
+### Plain words
 
-*For example:* The satisfaction after the good meal (pleasure: function performed) versus the thing that happens in the chest watching the kid ride the bike alone for the first time (joy: something new now exists). Same body, different currencies.
+Bergson separates two things we usually lump together. Pleasure keeps you going: a meal, a rest, a warm room. Joy comes when something exists that did not exist before: a child who has grown, a thing you built, an idea made real. His text is one thinker's description of the feeling. It does not claim that every finished task should make you happy.
+
+### For example
+
+A good meal is pleasure. Watching a child ride a bike alone for the first time is joy, because something new now exists. Same body, different feeling. This one is imagined.
 
 ## Philosophy parallels
 
