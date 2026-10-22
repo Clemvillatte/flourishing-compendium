@@ -80,8 +80,18 @@ research); all other sampled items PASS.
    quotation marks. Page re-validated with --fast-track (the applicable bar for
    this concept): 1 checked, 0 failed.
 
+## Round 3 (11:35Z) — Decision-making under uncertainty Gigerenzer (w1r, commit f0e0fc83d)
+
+10. **Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)
+    (w1r)** — 5 quoted passages checked, 5 PASS against a fresh fetch of the
+    PubMed abstract (21126183): the heuristics definition, the "empirical rather
+    than an a priori issue" sentence, the "ignoring part of the information"
+    accuracy sentence, the "business organizations, health care, and legal
+    institutions" fragment, and "indispensable". No hallucinated quotes; the
+    unquoted adaptive-reliance bullet also matches the abstract.
+
 ## Summary
 
-9 items checked, 7 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+10 items checked, 8 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first nine items after repair.
+quotation-faithful at a 100% sample of its first ten items after repair.
