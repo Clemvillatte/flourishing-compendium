@@ -193,8 +193,17 @@ research); all other sampled items PASS.
     page's attribution (Dewey & Bentley, Knowing and the Known 1949) is
     correct. No hallucinated quotes.
 
+## Round 14 (11:37Z) — Fast-and-frugal heuristics rebuild (w1r, commit bc22c0ec4)
+
+21. **Decision-making under uncertainty (Gigerenzer's fast-and-frugal
+    heuristics), rebuilt (w1r)** — 6 quoted passages checked, 6 PASS against a
+    fresh fetch of the Gigerenzer & Brighton 2009 Homo heuristicus PDF (MPG.PuRe
+    repository): the definition, the experimental-study sentence, the
+    less-is-more abstract fragment, the variance/bias sentence, the take-the-best
+    definition, and the three building blocks. No hallucinated quotes.
+
 ## Summary
 
-20 items checked, 17 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+21 items checked, 18 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty items after repair.
+quotation-faithful at a 100% sample of its first twenty-one items after repair.
