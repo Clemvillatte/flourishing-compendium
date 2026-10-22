@@ -29,9 +29,10 @@
   "E007",
   "A023",
   "A078",
-  "A091"
+  "A091",
+  "A037"
  ],
- "in_progress": "A037",
+ "in_progress": null,
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
@@ -47,6 +48,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 41,
- "updated": "2026-10-22T12:20:46+00:00",
+ "updated": "2026-10-22T12:21:15+00:00",
  "band_done": false
 }
