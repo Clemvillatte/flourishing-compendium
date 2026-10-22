@@ -1,7 +1,9 @@
 {
  "batch": "maintenance",
- "done": [],
- "in_progress": "Flourishing scale",
+ "done": [
+  "Flourishing scale"
+ ],
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
