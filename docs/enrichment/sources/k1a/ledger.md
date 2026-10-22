@@ -174,3 +174,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Protocol steps labelled as the compendium's practice form; step 2 ties recording-close-to-occurrence to the review's condition (e) rather than asserting a mechanism.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K301 — Seasonal noticing (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: (1) Capaldi, Dopko & Zelenski 2014 (Frontiers in Psychology 5:976), abstract verified raw against the NCBI efetch API (PMID 25249992, located via esearch; one rate-limit retry). (2) Richardson, Passmore, Lumber, Thomas & Hunt 2021 (International Journal of Wellbeing 11(1):8-33), abstract obtained via fetch_url extraction of the article page — the journal site was unreachable by direct curl from this sandbox (empty response on both the article and DOI resolution), so the second quote is extraction-verified, not raw; disclosed here per the raw-verification standard. Cross-check: the same abstract text appears in the search-indexed snippet of the article page.
+- Both blockquotes match the opened sources: the meta-analytic r = 0.19 passage, and the "time in nature was not the main (or significant) predictive nature-related factor" passage.
+- The seed's claim that connectedness predicts well-being independently of time in nature is carried by the 2021 study's finding, quoted directly; the page's "What this evidence does not test" states both carriers are correlational/cross-sectional and that the meta-analysis's connectedness construct is described there as a stable individual difference, so neither tests a seasonal noticing practice.
+- The seed's framing that the practice "counters the timelessness of digital life" is kept as the practice's own rationale, not as an evidence claim.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
