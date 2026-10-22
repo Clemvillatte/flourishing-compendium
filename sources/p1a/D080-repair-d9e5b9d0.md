@@ -21,3 +21,5 @@ Read Perspectivism, Epoché, Cognitive flexibility and Dichotomous (black-and-wh
 Advisor gpt_6_luna assessed the full D080 draft against the exact primary quotation and opened SEP excerpts. Scoped pass: no equivalence of all judgments, quotation exact, example clearly hypothetical. Applied the advisor's correction from "protest" to "become angry"; the source describes anger, not an explicit protest.
 
 The advisor could not source-check the accompanying D055 summary because that review packet lacked the Chan excerpt. D055 is therefore not represented as independently source-cleared by this milestone; it receives its own later evidence packet.
+
+Final source-transcription check re-fetched the exact passage. NOVA's text renders "affirmations" as "affirma- tions". The quotation normalises that line-break artifact and now explicitly discloses the normalisation in its attribution. No substantive wording or punctuation was changed. The later three-item milestone supplied the actual Chan excerpt for D055 and returned a scoped pass, recorded with D054.

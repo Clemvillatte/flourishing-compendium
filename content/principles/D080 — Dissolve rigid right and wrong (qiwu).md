@@ -15,7 +15,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 In Zhuangzi 2, a monkey-keeper offers three measures of acorns in the morning and four in the evening. When the monkeys become angry, he reverses the allocation and they are pleased. The daily total stays the same. Legge's translation draws this lesson:
 
 > Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible.
-> (Zhuangzi 2, §6, [Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/).)
+> (Zhuangzi 2, §6, [Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/); line-break hyphenation normalised.)
 
 Chad Hansen interprets the passage through the dependence of judgments on perspective. In this reading, understanding another position can make accommodation possible without requiring us to judge every position equally correct ([Stanford Encyclopedia of Philosophy, §§4.5, 4.8](https://plato.stanford.edu/entries/zhuangzi/)).
 
