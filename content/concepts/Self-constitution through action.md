@@ -19,10 +19,6 @@ Vilhelm puts the alternative plainly: "What I have said to you so often I say on
 
 The decisive choice is not primarily a choice between goods. "I choose absolutely, and I choose absolutely precisely through having chosen not to choose this thing or that" (Either/Or II). What gets chosen is the chooser: "One chooses oneself, not in one's immediacy, not as this contingent individual, one chooses oneself in one's eternal validity" (Either/Or II). The aesthetic life is not abolished by this choice — "the whole of the aesthetic returns in its relativity" (Either/Or II) — but it no longer sets the terms.
 
-## Field
-
-Philosophy · Existentialism
-
 ## Cited in philosophy parallels
 
 - [[B005 — Intention is karma]]
