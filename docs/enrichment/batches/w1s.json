@@ -32,15 +32,16 @@
   "The actualizing tendency",
   "Sympathy"
  ],
- "in_progress": null,
+ "in_progress": "Sublimation",
  "flagged": {
   "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
   "Object relations theory": "Reopened for QC: QC: attribution repairs (Fairbairn specificity, Winnicott grounding)",
   "Organism-environment transaction": "Reopened for QC: QC: remove snippet-sourced quote, ground origin",
-  "The looking-glass self": "taper time-cap: Cooley full-text carriers not reachable in window; needs a worker with time"
+  "The looking-glass self": "taper time-cap: Cooley full-text carriers not reachable in window; needs a worker with time",
+  "Sublimation": "taper time-cap: reliable full-text carrier for Civilisation and Its Discontents not reachable in window; needs a worker with time"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:46:12+00:00",
+ "updated": "2026-10-22T11:46:45+00:00",
  "band_done": false
 }
