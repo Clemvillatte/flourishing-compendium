@@ -29,7 +29,7 @@ A 2024 follow-up paper developed a communication work scale from a post-positivi
 
 ### What this page does not claim
 
-Nothing here shows that the theory describes how work-related communication builds shared meaning or identity. A supervisor may wish to rename the original entry gloss, or to move the compendium's principles to a concept that matches them, such as an organisational-identification page.
+Nothing here shows that the theory describes how work-related communication builds shared meaning or identity.
 
 ### In the compendium
 
