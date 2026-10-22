@@ -167,3 +167,9 @@
 - Claims narrowed: the self-directed version labelled an ADAPTATION on the page (MI built as a two-person conversation; the solo version keeps the questions and loses the relationship, listening, and practitioner); the clinical trials scoped to two-person counseling across health behavior change; the seed's question list mapped to the ruler + probes with the clinical wording quoted; the seed's "How ready am I" wording differs slightly from the clinical rulers (importance/confidence); noted here, page uses the clinical pair.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0 (one related-concepts warning resolved by adding a third link); workflow-narration grep clean.
+
+## 2026-10-22 — K133 Holding as hypothesis (worker-k1b-pplx)
+- Sources opened this session: Lord, Lepper and Preston 1984 abstract (PubMed 6527215; verbatim full abstract with the consider-the-opposite corrective-effect finding); Rassin and Eerland 2021 full text PDF (Journal of Police and Criminal Psychology, SAGE open; verbatim quotes: the exact Lord instruction wording, the less-biased-evaluation description, the wanting-to-be-fair-insufficient sentence, the clear-cut-practical-strategy sentence).
+- Claims narrowed: the suspension window and personal-belief framing labelled this practice's own; not-covered paragraph states the experiments tested instructions on participants judging social-issue evidence and personality impressions, not self-chosen suspension periods on personal beliefs.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
