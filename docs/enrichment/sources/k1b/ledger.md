@@ -124,3 +124,9 @@
 - Guided-version: all five gaps added to the k1b.json flagged dict (the earlier state-command ledger-only pattern corrected); K123 ledger entry notes that official Linehan teaching videos on radical acceptance exist (bpdvideo.com hosts Linehan reality-acceptance videos) but a guided practice recording for the kernel was not verified; pointer left for the supervisor.
 - PROCESS FIX (advisor): state commands are pushed immediately going forward (start-state push before editing).
 - All five pages re-validated exit 0; literature-wide-negative grep clean.
+
+## 2026-10-22 — K183 Behavioral experiment (worker-k1b-pplx)
+- Sources opened this session: Warnock-Parkes et al. 2025 full text PDF (Cognitive Behaviour Therapy, open access via Cardiff University repository; verbatim quotes: the behavioural-experiments definition, the experiential-vs-discussion sentences, the seven key steps as printed, the specific-observable-predictions passage with its example, the safety-behaviours-maintaining-beliefs sentence).
+- Claims narrowed: the meetings example labelled this page's own; not-covered states the guide is clinical guidance for therapists treating anxiety disorders and PTSD, drawn from the authors' treatment programs, and does not test self-run experiments on ordinary beliefs.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
