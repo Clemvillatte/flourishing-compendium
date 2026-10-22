@@ -71,15 +71,16 @@
   "Problem-solving's flexible strategies",
   "Problematic situations"
  ],
- "in_progress": null,
+ "in_progress": "Purpose-linked practice",
  "flagged": {
   "Objectless contemplation": "namespace check unresolved: no opened authoritative source defines 'objectless contemplation' as a term; page written at fast-track bar as the compendium's editorial label for the Cloud of Unknowing's prayer; held out of done pending supervisor disposition",
   "Knowing by acquaintance": "duplicate of existing concept 'Knowledge by acquaintance' (same seed: William James, Radical Empiricism; both files present in content/concepts). Held out of done pending supervisor disposition (merge or differentiate).",
   "Prospective memory": "Reopened for QC: QC milestone repair: fast-track bar requires authoritative (non-Wikipedia) carrier",
-  "Problem-solving's flexible strategies": "identity: no source defines the title; grounded in the D'Zurilla/Nezu social problem-solving model (advisor QC: withhold done pending supervisor disposition — keep as model carrier or migrate links to Problem-solving therapy); CO045 reverse-citation claim removed from prose"
+  "Problem-solving's flexible strategies": "identity: no source defines the title; grounded in the D'Zurilla/Nezu social problem-solving model (advisor QC: withhold done pending supervisor disposition — keep as model carrier or migrate links to Problem-solving therapy); CO045 reverse-citation claim removed from prose",
+  "Purpose-linked practice": "identity: no source defines 'purpose-linked practice'; grounded in the self-transcendent purpose construct (Yeager et al. 2014, opened) with editorial-label disclosure; supervisor disposition requested (keep or migrate links to [[Purpose]]); seed's well-being claim reduced to the source-supported persistence/self-regulation/GPA effects"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:04:21+00:00",
+ "updated": "2026-10-22T11:04:52+00:00",
  "band_done": false
 }
