@@ -169,6 +169,43 @@ def main():
         lines.append(f'| **All lanes** | **{tp}** | **{tr}** | **{tq}** | **{to}** |')
         lines.append('')
 
+    lines.append('## Kernels and thinkers (enrichment programs)')
+    lines.append('')
+    lines.append('Kernel and thinker pages live in `content/kernels/` and `content/thinkers/`. Recorded-done counts come from the kernel band state files; the kernel queue is not trimmed of already-enriched items, so raw queue length overstates the remaining work — the reconciliation rows below separate them.')
+    lines.append('')
+    lines.append('| Program | Pages | Recorded done | Queue (raw) | Queue minus done | Pages in neither done nor queue |')
+    lines.append('|---|---|---|---|---|---|')
+    kid = None
+    def _kids(items):
+        out = set()
+        for it in items:
+            s = it if isinstance(it, str) else json.dumps(it)
+            out.update(re.findall(r'K\d+', s))
+        return out
+    kdone = set()
+    for band in ('kpr', 'k1a'):
+        try:
+            s = json.load(open(os.path.join(ROOT, 'docs/enrichment/batches', band + '.json')))
+            kdone |= _kids(s.get('done', []))
+        except FileNotFoundError:
+            pass
+    kqueue = _kids(json.load(open(os.path.join(ROOT, 'docs/enrichment/queue-kernels.json'))))
+    kpages = set()
+    for fp in glob.glob(os.path.join(ROOT, 'content/kernels/*.md')):
+        kpages.update(re.findall(r'K\d+', os.path.basename(fp)))
+    lines.append(f'| Kernels | {len(kpages)} | {len(kdone)} | {len(kqueue)} | {len(kqueue - kdone)} | {len(kpages - (kdone | kqueue))} |')
+    tq = json.load(open(os.path.join(ROOT, 'docs/enrichment/queue-thinkers.json')))
+    tpages = set()
+    for fp in glob.glob(os.path.join(ROOT, 'content/thinkers/*.md')):
+        tpages.update(re.findall(r'T\d+', os.path.basename(fp)))
+    tqueue_ids = set()
+    for it in tq:
+        tqueue_ids.update(re.findall(r'T\d+', json.dumps(it)))
+    lines.append(f'| Thinkers | {len(tpages)} | (no thinker band state yet — see note) | {len(tq)} | — | — |')
+    lines.append('')
+    lines.append(f'- Thinker reconciliation: {len(tpages)} thinker page(s) exist ({", ".join(sorted(tpages)[:5])}…); the thinker queue holds {len(tq)} entries; no thinker band state file exists yet, so there is no recorded-done count for thinkers — the page count is the reconciled figure.')
+    lines.append(f'- Kernel reconciliation: {len(kdone & kqueue)} kernel IDs appear both in recorded-done and in the raw queue (the queue is not trimmed); {len(kpages - (kdone | kqueue))} kernel pages are tracked by neither (pages created outside the queue).')
+    lines.append('')
     lines.append('## Principles by forest')
     lines.append('')
     lines.append('| Forest | Recorded done | Total | Done % |')

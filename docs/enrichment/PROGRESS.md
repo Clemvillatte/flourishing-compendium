@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-22 15:01 UTC (input revision `e18792094`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:01 UTC.
+As of 2026-10-22 15:22 UTC (input revision `26ade76c9`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:22 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-22 15:01 UTC (input revision `e18792094`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 1984 | 277 | 2261 | 87.7% |
-| **Combined** | **4155** | **289** | **4444** | **93.5%** |
+| Concepts | 2018 | 243 | 2261 | 89.3% |
+| **Combined** | **4189** | **255** | **4444** | **94.3%** |
 
 ## Stories (separate pipeline)
 
@@ -18,13 +18,25 @@ Published story pages (content/stories/ST*.md): 433. The per-lane rows below are
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 12 | 19 | 3 |
-| s1b | 0 | 9 | 0 | 3 |
+| s1a | 0 | 12 | 22 | 3 |
+| s1b | 0 | 10 | 5 | 4 |
 | s1c | 0 | 38 | 1 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
 | s1f | 0 | 2 | 0 | 0 |
-| **All lanes** | **5** | **68** | **26** | **6** |
+| **All lanes** | **5** | **69** | **34** | **7** |
+
+## Kernels and thinkers (enrichment programs)
+
+Kernel and thinker pages live in `content/kernels/` and `content/thinkers/`. Recorded-done counts come from the kernel band state files; the kernel queue is not trimmed of already-enriched items, so raw queue length overstates the remaining work — the reconciliation rows below separate them.
+
+| Program | Pages | Recorded done | Queue (raw) | Queue minus done | Pages in neither done nor queue |
+|---|---|---|---|---|---|
+| Kernels | 316 | 99 | 216 | 150 | 67 |
+| Thinkers | 1 | (no thinker band state yet — see note) | 36 | — | — |
+
+- Thinker reconciliation: 1 thinker page(s) exist (T001…); the thinker queue holds 36 entries; no thinker band state file exists yet, so there is no recorded-done count for thinkers — the page count is the reconciled figure.
+- Kernel reconciliation: 66 kernel IDs appear both in recorded-done and in the raw queue (the queue is not trimmed); 67 kernel pages are tracked by neither (pages created outside the queue).
 
 ## Principles by forest
 
