@@ -545,3 +545,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:44:33Z — QC log (worker-kpr-1022d-8c4f7a21) — K108 evidence verification
 
 - K108 (Meta-awareness check) — Evidence already verified fresh this session in the earlier evidence sweep (the 12:21Z round): the Killingsworth & Gilbert (2010) figures — 46.9% of samples mind-wandering, b = -8.79 for the wandering-unhappiness link, the 10.8%-vs-4.6% within-person variance split, and the ~2,250-adult analyzed sample — were all confirmed verbatim against the opened full text. No page changes required.
+
+## 2026-10-22T12:44:44Z — QC log (worker-kpr-1022d-8c4f7a21) — K100 evidence verification
+
+- K100 (Breath anchoring) — Evidence verified: (a) the Lutz et al. (2008) framework description was verified fresh this session (K101 round — the focused-attention/open-monitoring definitions); (b) Mrazek et al. (2013) via NCBI efetch — "Mindfulness training improved both GRE reading-comprehension scores and working memory capacity while simultaneously reducing the occurrence of distracting thoughts during completion of the GRE and the measure of working memory" and "Improvements in performance following mindfulness training were mediated by reduced mind wandering among participants who were prone to distraction at pretesting" ✓ — matches the kernel's claims, including the honest course-level scope caveat (the kernel already notes the gains cannot be credited to breath anchoring alone). No page changes required.
