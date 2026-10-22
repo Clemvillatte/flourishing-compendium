@@ -1,7 +1,7 @@
 {
  "baton": "p1a",
  "agent": "worker-p1a-d9e5b9d0",
- "clocked_in": "2026-10-22T11:34:03+00:00",
+ "clocked_in": "2026-10-22T11:47:24+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -38,8 +38,12 @@
    "at": "2026-10-22T11:34:03+00:00",
    "from": "genuineflourishing32",
    "reason": "released"
+  },
+  {
+   "by": "worker-p1a-d9e5b9d0",
+   "at": "2026-10-22T11:47:24+00:00",
+   "from": "worker-p1a-d9e5b9d0",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T11:36:08+00:00"
+ ]
 }
