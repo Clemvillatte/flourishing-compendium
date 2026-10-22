@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### What it is
 
-In the myth, the Danaids, the daughters of Danaus, killed their husbands on their wedding night, and "were then condemned to spend eternity carrying water in a sieve or perforated jug" ([Wikipedia, "Danaïdes"](https://en.wikipedia.org/wiki/Dana%C3%AFdes)). Ancient Apulian underworld vases show them atoning "in Hades by eternally pouring water into a leaky vessel" ([Getty Museum didactic](https://www.getty.edu/art/exhibitions/ancient_underworld/downloads/underworld_krater_didactic.pdf)). The image the compendium anchors to it is Plato's, in the Gorgias: "the place in the souls of the uninitiated in which the desires are seated, being the intemperate and incontinent part, he compared to a vessel full of holes, because it can never be satisfied" (Plato, Gorgias 493b, trans. Jowett, [Gutenberg #1672](https://www.gutenberg.org/files/1672/1672-0.txt)). Plato's passage does not name the Danaids; the association of the leaking jar with them belongs to the later tradition ([The History of Art](https://www.thehistoryofart.org/john-william-waterhouse/danaides/)).
+Images of young women carrying water jars in Apulian Underworld scenes "are commonly identified as the daughters of the North African king Danaos, who were forced to marry their own cousins. All but one of the brides murdered their husbands on their wedding night. They atoned for this crime in Hades by eternally pouring water into a leaky vessel" ([Getty Museum didactic](https://www.getty.edu/art/exhibitions/ancient_underworld/downloads/underworld_krater_didactic.pdf)). The same source notes these depictions "predate the earliest surviving literary sources for this punishment." The image the compendium anchors to it is Plato's, in the Gorgias: "the place in the souls of the uninitiated in which the desires are seated, being the intemperate and incontinent part, he compared to a vessel full of holes, because it can never be satisfied" (Plato, Gorgias 493b, trans. Jowett, [Gutenberg #1672](https://www.gutenberg.org/files/1672/1672-0.txt)). Plato's passage does not name the Danaids.
 
 ### What it carries
 
@@ -22,9 +22,7 @@ The compendium connects this image with SP025, which reads greed, luxury and dru
 ## Sources
 
 - Plato, Gorgias 493a-494a, trans. Benjamin Jowett, Project Gutenberg #1672: https://www.gutenberg.org/files/1672/1672-0.txt
-- "Danaïdes," Wikipedia: https://en.wikipedia.org/wiki/Dana%C3%AFdes
 - Getty Museum, "The Underworld — Altamura Krater" didactic PDF: https://www.getty.edu/art/exhibitions/ancient_underworld/downloads/underworld_krater_didactic.pdf
-- "The Danaïdes by John William Waterhouse," The History of Art: https://www.thehistoryofart.org/john-william-waterhouse/danaides/
 
 ## Cited in philosophy parallels
 

@@ -15,7 +15,7 @@ The Bhagavad Gita's own statement of non-doership, and the compendium's anchor f
 
 ### What it carries
 
-In Mukundananda's rendering of these verses, the follow-up states the perception that dissolves the doer's claim: "illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them" (Bhagavad Gita 3.28, trans. Mukundananda, [Holy Bhagavad Gita](https://www.holy-bhagavad-gita.org/chapter/3/verse/28)). Nature's strands act, and the claim of a central author is not among them.
+In Mukundananda's rendering of these verses, the follow-up states the perception that dissolves the doer's claim: "illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them" (Bhagavad Gita 3.28, trans. Mukundananda, [Holy Bhagavad Gita](https://www.holy-bhagavad-gita.org/chapter/3/verse/28)).
 
 The compendium connects Y104, which gives up the doer's claim, with the distinction these verses draw between activity and identification as its doer. A compendium exercise drawn from the image is to notice an impulse and the accompanying sense of authorship.
 

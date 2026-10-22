@@ -15,9 +15,9 @@ The compendium uses this title for Aristotle's account of the pleasure a good pe
 
 ### What it carries
 
-Aristotle ties the pleasure to the activity, not to a reward arriving after it: "to each man the activity in accordance with his own disposition is most desirable, and, therefore, to the good man that which is in accordance with virtue" (Aristotle, Nicomachean Ethics X.6, trans. Ross, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). His conclusion about substitutes is blunt: "Happiness, therefore, does not lie in amusement" (Aristotle, Nicomachean Ethics X.6, trans. Ross, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
+Aristotle links a person's disposition with which activity they find desirable: "to each man the activity in accordance with his own disposition is most desirable, and, therefore, to the good man that which is in accordance with virtue" (Aristotle, Nicomachean Ethics X.6, trans. Ross, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)). His conclusion about substitutes is blunt: "Happiness, therefore, does not lie in amusement" (Aristotle, Nicomachean Ethics X.6, trans. Ross, [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html)).
 
-The compendium connects this with SP055, which prefers the affects of reason on the ground that they are stronger: on Aristotle's account, the pleasure of virtuous activity belongs to the activity itself, so it is available each time the activity is. A reflective question drawn from the page: when an act of generosity or courage is felt only as duty, is the pleasure absent because the act is wrong, or because the disposition that Aristotle says makes such activity desirable is not yet formed?
+The compendium connects this with SP055's preference for the affects of reason. A reflective question is which activities we find desirable and what those preferences might reveal about our dispositions.
 
 ## Sources
 
