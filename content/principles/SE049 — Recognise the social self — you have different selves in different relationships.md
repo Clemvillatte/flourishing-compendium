@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 49** — Recognise the social self: you have different selves in different relationships
 
-The self is not the same across relationships. You have a self with your parents, a self with your partner, a self at work, a self with friends. This is not falseness; it is the natural multiplicity of self-in-relation.
+The self is not the same across relationships. You have a self with your parents, a self with your partner, a self at work, a self with friends. This is the natural multiplicity of self-in-relation.
 
 James gave the observation its classic form:
 

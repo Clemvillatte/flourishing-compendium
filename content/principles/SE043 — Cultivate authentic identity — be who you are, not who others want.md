@@ -21,7 +21,7 @@ The same abstract reports: "Each subscale was strongly related to self-esteem an
 **Plain words**
 Try a decision audit: write down what you want to do, the value behind that choice, and the response you expect from other people. Where do those reasons agree, and where do they pull apart?
 
-*For example:* Imagine the accountant who secretly loves cooking and spends every dinner party animated, alive, funny, and every workday grey. The question is not whether to quit; it is how long the mask can be worn before it costs more than it pays.
+*For example:* Imagine the accountant who secretly loves cooking and spends every dinner party animated, alive, funny, and every workday grey. The question is how long the mask can be worn before it costs more than it pays.
 ## Sources
 
 - [Wood, A. M., Linley, P. A., Maltby, J., Baliousis, M., & Joseph, S. (2008), The Authentic Personality, Journal of Counseling Psychology 55(3), 385-399 (publisher abstract page, Ovid)](https://www.ovid.com/journals/jcoup/abstract/10.1037/0022-0167.55.3.385~the-authentic-personality-a-theoretical-and-empirical) — tripartite conception and well-being findings, abstract

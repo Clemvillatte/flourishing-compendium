@@ -18,7 +18,7 @@ The instructions are also unusually practical: the reflection happens three time
 
 > "Whenever you want to do a bodily action, you should reflect on it: 'This bodily action I want to do — would it lead to self-affliction, to the affliction of others, or to both? Would it be an unskillful bodily action, with painful consequences, painful results?'" (MN 61, Ambalatthika-rahulovada Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html))
 
-**Plain words** "Was that a good thing to do?" is the wrong question, because it invites a defence. "Did that action increase or decrease suffering, confusion and reactivity — for you, for them, or for both?" is the useful question, because it has an answer you can check. The blunt email that felt righteous is not resolved by deciding whether you were right; it is resolved by noticing what it actually did to the relationship, which is visible.
+**Plain words** "Was that a good thing to do?" is the wrong question, because it invites a defence. "Did that action increase or decrease suffering, confusion and reactivity — for you, for them, or for both?" is the useful question, because it has an answer you can check. The blunt email that felt righteous is resolved by noticing what it actually did to the relationship, which is visible.
 
 *For example:* Two managers deliver the same hard feedback. One spends the aftermath defending that the criticism was correct — which it was — and the relationship stays broken. The other runs the functional check instead: did this increase or decrease the total amount of suffering and confusion? Same correct criticism; one of them is still in a working relationship.
 

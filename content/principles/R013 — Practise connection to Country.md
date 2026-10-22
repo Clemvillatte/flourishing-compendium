@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 275** — Practise connection to Country
 
-Maintain a deep, living relationship with the land, waters, and places that constitute your identity. In Aboriginal and Torres Strait Islander traditions, Country is not property or scenery; it is a living entity with which you are in relationship. Spend time on Country, learn its stories, and care for it.
+Maintain a deep, living relationship with the land, waters, and places that constitute your identity. In Aboriginal and Torres Strait Islander traditions, Country is a living entity with which you are in relationship. Spend time on Country, learn its stories, and care for it.
 
 (Aboriginal SEWB framework; Social Health Reference Group, 2004, "Social and Emotional Wellbeing Framework," Department of Health and Ageing.)
 

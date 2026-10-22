@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 346** — Practise infinite responsibility
 
-Levinas's claim is not that you should feel guilty; it is about the order of things. Responsibility, in his account, does not come after freedom:
+Levinas's claim is about the order of things. Responsibility, in his account, does not come after freedom:
 
 > "But the other absolutely other—the Other—does not limit the freedom of the same; calling it to responsibility, it founds it and justifies it." (Levinas, Totality and Infinity, [Lingis translation, p. 197](https://wuecampus.uni-wuerzburg.de/moodle/pluginfile.php/2896578/mod_folder/content/0/Levinas,%20Totality%20%20Infinity,%20S.%2048-51,110-114,117-119,197-201.pdf))
 

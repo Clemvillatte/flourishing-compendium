@@ -16,7 +16,7 @@ The Stoic image is athletic. Epictetus: "It is circumstances (difficulties) whic
 
 Marcus proposes a way of framing obstruction. "For by these the mind doth turn and convert any impediment whatsoever, to be her aim and purpose. So that what before was the impediment, is now the principal object of her working; and that which before was in her way, is now her readiest way." (Marcus Aurelius, Meditations, Project Gutenberg ebook 2680; printed as Bk V §17.)
 
-The benefit is conditional, as the continuation of Epictetus's passage makes plain: "In my opinion no man has had a more profitable difficulty than you have had, if you choose to make use of it as an athlete would deal with a young antagonist." Adversity is not automatically virtue-building; it is the material, if you choose to make use of it. When hardship comes, ask: what virtue does this situation call for?
+The benefit is conditional, as the continuation of Epictetus's passage makes plain: "In my opinion no man has had a more profitable difficulty than you have had, if you choose to make use of it as an athlete would deal with a young antagonist." Adversity is material for virtue if you choose to make use of it. When hardship comes, ask: what virtue does this situation call for?
 
 (Disc., "How we should struggle with circumstances"; Med., Gutenberg 2680.)
 

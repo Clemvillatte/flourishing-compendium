@@ -20,7 +20,7 @@ Chapter 27 of the Daodejing is about the sage's economy of people. The chapter o
 >
 > (Daodejing 27, Legge)
 
-The chapter then makes the relationship reciprocal rather than charitable: "the man of skill is a master (to be looked up to) by him who has not the skill; and he who has not the skill is the helper of (the reputation of) him who has the skill." The unskilled are not the skilled's burden; they are part of what skill is for.
+The chapter then makes the relationship reciprocal rather than charitable: "the man of skill is a master (to be looked up to) by him who has not the skill; and he who has not the skill is the helper of (the reputation of) him who has the skill." The unskilled are part of what skill is for.
 
 (DDJ 27.)
 

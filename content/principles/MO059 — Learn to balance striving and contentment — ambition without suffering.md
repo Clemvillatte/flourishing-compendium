@@ -23,7 +23,7 @@ The passage is a philosophical comparison, not a claim that ambition stops produ
 
 **Plain words** Striving and contentment are usually presented as a choice: either you want things, or you are at peace. The alternative is holding both at once — pursuing goals with energy while also being at peace with what is. The skill is not alternating between the two but having them together.
 
-*For example:* Imagine someone working hard on a project who is also, at the same time, at peace with the possibility that it does not succeed. They are not resting from ambition; they are ambitious and content in the same hour.
+*For example:* Imagine someone working hard on a project who is also, at the same time, at peace with the possibility that it does not succeed. They are ambitious and content in the same hour.
 
 ## Sources
 
