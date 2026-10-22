@@ -413,3 +413,14 @@ Decisions:
 - Front-matter preserved; P065/P121 Cited-in wikilinks preserved.
 - Related concepts: Pure experience (existing).
 - No reciprocal proposals (fast-track bar).
+
+### Constructivist learning theory (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education) — Wikipedia article. Four sentences fetched verbatim: opening definition; Piaget assimilation/accommodation sentence; assimilation definition; accommodation definition.
+
+Decisions:
+- Fast-track eligibility: deg 5 < 15 confirmed.
+- Front-matter preserved; P009/CO008 Cited-in wikilinks preserved; Piaget/Bruner seed citations and the trailing philosophy-parallels block (Piaget 1954, Bruner 1966, CO008) preserved.
+- Related concepts: Situated learning theory, Social constructivist theory (both existing originals per neighbors).
+- No reciprocal proposals (fast-track bar).
