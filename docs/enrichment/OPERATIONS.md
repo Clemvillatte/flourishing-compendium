@@ -577,3 +577,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   the opened CUNI PDF (the page's own carrier): all verbatim (the first begins
   mid-sentence in the source; lowercase opening is correct fragment convention).
   Sample PASS. Thirty samples this session, all PASS.
+- Supervisor verification sample 31 (2026-10-22 ~16:00 UTC): The will to believe
+  (random finished-band draw, w1b) — the James "genuine option" passage and the
+  passional-nature thesis checked against the opened Gutenberg #26659 full text:
+  verbatim (Gutenberg's _underscores_ for italics normalized to the page's
+  *asterisks* — standard markdown italics rendering, wording identical). Sample
+  PASS. Thirty-one samples this session, all PASS.
