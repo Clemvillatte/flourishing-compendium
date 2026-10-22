@@ -895,7 +895,22 @@
      "note": "advisor round-3 SCOPED PASS; scope approval routed (B016 outside slice)"
     }
    ]
+  },
+  "s1a-032": {
+   "status": "qc_pending",
+   "angle": "P192: Django Reinhardt relearns the guitar after the 1928 caravan fire — third and fourth fingers permanently damaged, an entirely new technique built around the injury (Givan, The Music of Django Reinhardt; Britannica)",
+   "history": [
+    {
+     "t": "2026-10-22T04:20:28+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T04:26:47+00:00",
+     "to": "qc_pending",
+     "note": "item 2; story_check 0 errors; quotes verified vs opened Givan PDF and Britannica"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T04:20:07+00:00"
+ "updated": "2026-10-22T04:26:47+00:00"
 }
