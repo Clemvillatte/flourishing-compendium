@@ -282,3 +282,34 @@ perceptions and beliefs".
    (correction: an earlier draft of this entry described this check as done before the
    carrier was opened; the carrier was opened and the check completed immediately after,
    before this push.)
+
+## Round 7 (07:09Z) — further w1x pages
+
+### The illusion of knowledge — 4 quoted passages checked, 4 PASS
+
+1. Wikiquote, Daniel J. Boorstin — "The great obstacle to discovering the shape of the
+   earth, the continents, and the oceans was not ignorance, but the illusion of
+   knowledge." — VERBATIM; the Hawking-misattribution note ("Often misquoted as ... often
+   misattributed to Stephen Hawking") — VERBATIM.
+2. BBC Worklife (Robson 2022; direct fetch blocked by robots, verified via the article's
+   indexed full text) — "The illusion of knowledge – also called the 'illusion of
+   explanatory depth' – first came to light in 2002" — VERBATIM.
+3. Same carrier — "Rozenblit and Keil found that the participants' initial appraisals of
+   their understanding were often dramatically optimistic" — VERBATIM.
+4. Same carrier — "They assumed they could write paragraphs on the subject, but often
+   failed to offer more than the barest gist of an answer – and afterwards, many
+   expressed surprise at how little they knew" — VERBATIM.
+
+### Wabi-sabi — 10 quoted passages checked, 10 PASS
+
+All against the freshly opened SEP article Japanese Aesthetics (Parkes & Loughnane):
+the wabi/sabi translation sentence; the Manyōshū sabi passage; Kenkō's cherry-blossom
+question ("Are we to look at cherry blossoms only in full bloom, at the moon only when
+it is cloudless?" — the page quotes the continuation "...branches about to blossom or
+gardens strewn with faded flowers are worthier of our admiration", which is the article's
+continuation of the Kenkō quotation); the Nampōroku "less than adequate" sentence; the
+"Implements with minor imperfections" sentence; the tearoom egalitarianism sentence; the
+full Zencharoku wabi passage (Hirota 275); "Wabi reaches its peak of austerity in
+emptiness"; "awareness of the fundamental condition of existence is no cause for
+nihilistic despair..."; and the Raku "often asymmetrical and imperfect in form and
+finish" passage — all VERBATIM.
