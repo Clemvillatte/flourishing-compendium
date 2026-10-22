@@ -7,27 +7,27 @@ file: "Embodiment"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The thesis that the body is not a thing the self happens to occupy but the medium of all experience. The compendium takes the term from the phenomenological tradition: Marcel named it in Being and Having, and Merleau-Ponty worked it out in the Phenomenology of Perception. As the Stanford Encyclopedia's entry on Merleau-Ponty summarizes his view, the body's mode of existence is:
+In Merleau-Ponty's phenomenology, the body is the medium of experience rather than a thing the self happens to occupy; the Stanford Encyclopedia's entry on him summarizes his view of the body's mode of existence as follows:
 
-> "Through a contrast with pathological cases such as phantom limbs, Merleau-Ponty describes the body's typical mode of existence as 'being-toward-the-world'—a pre-objective orientation toward a vital situation that is explicable neither in terms of third-person causal interactions nor by explicit judgments or representations." (Carman, [Merleau-Ponty, Stanford Encyclopedia of Philosophy, section 3](https://plato.stanford.edu/entries/merleau-ponty/))
+> "Through a contrast with pathological cases such as phantom limbs, Merleau-Ponty describes the body's typical mode of existence as 'being-toward-the-world'—a pre-objective orientation toward a vital situation that is explicable neither in terms of third-person causal interactions nor by explicit judgments or representations." (Toadvine, [Merleau-Ponty, Stanford Encyclopedia of Philosophy, section 3](https://plato.stanford.edu/entries/merleau-ponty/))
 
 The body relates to space not as an object in a container but as a power:
 
-> "The body's relationship with space is therefore intentional, although as an 'I can' rather than an 'I think'; bodily space is a multi-layered manner of relating to things, so that the body is not 'in' space but lives or inhabits it." (Carman, [ibid.](https://plato.stanford.edu/entries/merleau-ponty/))
+> "The body's relationship with space is therefore intentional, although as an 'I can' rather than an 'I think'; bodily space is a multi-layered manner of relating to things, so that the body is not 'in' space but lives or inhabits it." (Toadvine, [ibid.](https://plato.stanford.edu/entries/merleau-ponty/))
 
 ### The intentional arc
 
-Merleau-Ponty's evidence includes the case of Schneider, a brain-injured veteran whose injury had disrupted the "intentional arc" — a passage the Encyclopedia quotes from the Phenomenology:
+Schneider, a brain-damaged patient studied by Adhémar Gelb and Kurt Goldstein, is Merleau-Ponty's extended case study; on the Encyclopedia's account, "his injury has disrupted the 'intentional arc' that" is described in a passage quoted from the Phenomenology:
 
-> "projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships. (PP: 170/137)" (Merleau-Ponty, [quoted in Carman, ibid.](https://plato.stanford.edu/entries/merleau-ponty/))
+> "projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships." (Merleau-Ponty, [quoted in Toadvine, ibid., PP: 170/137](https://plato.stanford.edu/entries/merleau-ponty/))
 
-The damaged arc shows what the intact one does: embodiment situates a life. Merleau-Ponty's own summary image: "One's own body is in the world just as the heart is in the organism" ([PP: 245/209, quoted in Carman, ibid.](https://plato.stanford.edu/entries/merleau-ponty/)).
+The damaged arc shows what the intact one does: embodiment situates a life. Merleau-Ponty's own summary image: "One's own body is in the world just as the heart is in the organism" ([PP: 245/209, quoted in Toadvine, ibid.](https://plato.stanford.edu/entries/merleau-ponty/)).
 
 ### In the compendium
 
 - [[E020 — Practise embodiment as condition of possibility]] — the principle that turns this concept into practice
 - [[E013 — Practise the lived body (Leib)]] — the lived body as a practice
-- [[R089 — Practise incarnation]] — the religious counterpart
+- [[R089 — Practise incarnation]] — Marcel's term for being a body rather than merely having one
 
 ## Related concepts
 

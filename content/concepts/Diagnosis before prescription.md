@@ -7,7 +7,7 @@ file: "Diagnosis before prescription"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-The rule that a physician must first determine what is wrong before deciding what to do about it. The compendium takes the term from Galen's therapeutic method: in his account, the observation of the body's signs is what licenses the inference to the underlying state, and the treatment follows from that state rather than from the symptoms alone. As the Stanford Encyclopedia's entry on Galen summarizes his position:
+The rule, in Galen's therapeutic method, that a physician must first determine what is wrong before deciding what to do about it: the observation of the body's signs is what licenses the inference to the underlying state, and the treatment follows from that state rather than from the symptoms alone ([Singer, Galen, SEP, section 3.3](https://plato.stanford.edu/entries/galen/)). As the entry summarizes his position:
 
 > "As we have seen Galen, unlike the Empiricists, believes that the observation of bodily signs—a complex range, for the ancient doctor—enables the expert to make inferences about the underlying bodily state and causal conditions." (Singer, [Galen, Stanford Encyclopedia of Philosophy, section 3.3](https://plato.stanford.edu/entries/galen/))
 
@@ -21,7 +21,7 @@ Galen's argument is that superficially similar symptoms can belong to different 
 
 > "Further, this knowledge of the workings of the body, its phusis, gives one an understanding of pathology—in particular, a differentiated pathology based on a knowledge of the different internal parts and the different forms diseases may take in them, despite superficially similar symptoms—which will in some cases enable one to make the right diagnosis, and therefore prescribe the correct treatment, where the Empiricist would not." (Singer, [Galen, Stanford Encyclopedia of Philosophy, section 3.2](https://plato.stanford.edu/entries/galen/))
 
-He concedes the rival position's practical record: "Galen believes that the Empiricist position, avoiding any statement about unseen entities and basing itself entirely on experience (empeiria, peira), will lead to the correct therapeutic result in many cases" ([Singer, section 3.2](https://plato.stanford.edu/entries/galen/)). The claim is not that diagnosis-less treatment never works, but that only diagnosis makes the treatment answerable to the actual condition.
+He concedes the rival position's practical record: "Galen believes that the Empiricist position, avoiding any statement about unseen entities and basing itself entirely on experience (empeiria, peira), will lead to the correct therapeutic result in many cases" ([Singer, section 3.2](https://plato.stanford.edu/entries/galen/)). Galen accepts that experience-based treatment often succeeds; his argument is that knowledge of the internal condition can distinguish some superficially similar cases and guide the treatment for them.
 
 ### In the compendium
 
