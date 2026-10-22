@@ -12,6 +12,20 @@ metadata:
 
 # Humanizer: remove AI writing patterns
 
+## Customer-facing pages (owner directive, 2026-10-22)
+
+The website is customer-facing. NO comment, note or anything that has nothing to
+do with the actual content belongs on a page. Pages must contain no workflow
+language, including: "this session" / "not opened this session" verification
+notes; "seed" / "inherited citation" jargon; supervisor, QC, ledger, band,
+baton, worker, board or owner references; fetch-failure narration (captcha,
+robots-blocked, paywall-interstitial); first-person process narration
+("I did not open..."). Honesty disclosures belong in the band ledger or QC log,
+never on the page; on the page, state scope limits in plain reader terms
+("cited at second hand", "the full article is paywalled"). Before pushing,
+grep your changed files for: session, supervisor, baton, band, ledger, flagged,
+seed, inherited, opened, QC.
+
 Rewrite AI-sounding text so it reads like the writer, not a chatbot. Keep what it says. Do not make anything up.
 
 ## Why AI text sounds the way it does

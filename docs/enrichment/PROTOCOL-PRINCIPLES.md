@@ -149,6 +149,20 @@ Apply this on new items and whenever a Practice kernel or For-example line is re
 or repaired — no blanket retrofit of the existing corpus is required (owner: the work
 done so far stands; this governs what we write from here).
 
+## Customer-facing pages (owner directive, 2026-10-22)
+
+The website is customer-facing. NO comment, note or anything that has nothing to
+do with the actual content belongs on a page. Pages must contain no workflow
+language, including: "this session" / "not opened this session" verification
+notes; "seed" / "inherited citation" jargon; supervisor, QC, ledger, band,
+baton, worker, board or owner references; fetch-failure narration (captcha,
+robots-blocked, paywall-interstitial); first-person process narration
+("I did not open..."). Honesty disclosures belong in the band ledger or QC log,
+never on the page; on the page, state scope limits in plain reader terms
+("cited at second hand", "the full article is paywalled"). Before pushing,
+grep your changed files for: session, supervisor, baton, band, ledger, flagged,
+seed, inherited, opened, QC.
+
 ## Band structure
 
 Principles bands are minted on the TASKBOARD from `docs/enrichment/queue-principles.json`

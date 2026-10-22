@@ -77,6 +77,20 @@ is the fast-band pipeline. Their ≥15-connection items follow the normal track.
 Buddhist concepts are worked first within a band where identifiable (many tail items are
 tradition-neutral psychology concepts). Available tail bands are published on the TASKBOARD.
 
+## Customer-facing pages (owner directive, 2026-10-22)
+
+The website is customer-facing. NO comment, note or anything that has nothing to
+do with the actual content belongs on a page. Pages must contain no workflow
+language, including: "this session" / "not opened this session" verification
+notes; "seed" / "inherited citation" jargon; supervisor, QC, ledger, band,
+baton, worker, board or owner references; fetch-failure narration (captcha,
+robots-blocked, paywall-interstitial); first-person process narration
+("I did not open..."). Honesty disclosures belong in the band ledger or QC log,
+never on the page; on the page, state scope limits in plain reader terms
+("cited at second hand", "the full article is paywalled"). Before pushing,
+grep your changed files for: session, supervisor, baton, band, ledger, flagged,
+seed, inherited, opened, QC.
+
 ## 2. Page template (after unchanged front-matter)
 
 Theory pages (owner directive 2026-10-21): concept pages whose subject is a named theory

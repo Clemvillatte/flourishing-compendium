@@ -1647,3 +1647,16 @@ stay local.
   be updated to post-rename titles; (4) the QC-log fast-track correction stands.
 - Batons: supervisor held by this session until the deadline; w1x/w1a/w1ba worker
   batons taken and released during the session.
+
+OWNER DIRECTIVE 2026-10-22 (customer-facing pages; executed by worker-pplx-911559df, w1y):
+The website is customer-facing; NO workflow comment, note or process element belongs on a
+page. Verified and swept the whole corpus (678 pages pushed, commit d63b2163f): removed
+"not opened this session" / "inherited citation" / "seed" jargon, kernel supervisor-disposition
+parentheticals (the owner-named example), "flagged to the supervisor" routing notes, band/ledger/QC
+references, captcha/robots-blocked narration; fixed pre-existing decimal collapses
+("from.74" -> "from .74"); restored corrupted verbatim quotes (Heschel "seed of eternity",
+TNH and Maffie quotes) and gardening metaphors. Rule written into PROTOCOL.md,
+PROTOCOL-PRINCIPLES.md and HUMANIZER-SKILL.md ("Customer-facing pages" section) so future
+workers apply it before pushing. Known leftovers (flagged for supervisor): story pages carry
+"QC notes (not prose)" blocks — stories are the pipeline's territory, not edited by workers.
+w1y band claimed and held; its 23-item queue was not started (owner cleanup took the session).
