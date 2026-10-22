@@ -30,7 +30,6 @@ The compendium pairs the finding with its contemplative counterweights: the empt
 ## Cited in psychology parallels
 
 - [[D088 — Don't take offense personally (the empty boat)]]
-- [[Y104 — Give up the doer's claim]]
-- [[SE024 — Recognise the self-serving bias — you take credit for success and blame failure on circumstances]]
-
+[[Y104 — Give up the doer's claim]]
+[[SE024 — Recognise the self-serving bias — you take credit for success and blame failure on circumstances]]
 ## Cited in philosophy parallels
