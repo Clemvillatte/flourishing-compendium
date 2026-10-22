@@ -110,7 +110,7 @@
   "Ending as completion"
  ],
  "in_progress": null,
- "updated": "2026-10-22T11:56:27+00:00",
+ "updated": "2026-10-22T11:59:27+00:00",
  "band_done": false,
  "flagged": {
   "Feng shui (harmonious environment)": "Fast-track enrichment (prior-session WIP, completed by worker-sup-1022c-w1r 2026-10-22): Wikipedia quotes re-verified verbatim this session (wind-water, Form branch tombs-to-homes, luopan); ICOMOS Yuan Ding and New World Encyclopedia quotes stand on the prior worker's recorded verification of the opened carriers",
@@ -119,9 +119,9 @@
   "Flourishing scale": "QC-pending: state-only approval of prior-session enrichment; Huppert and So 2013 PMC carrier not re-opened this session; next worker please re-open before certifying",
   "Explore-exploit trade-off research": "QC-pending: state-only approval of prior-session enrichment; Cohen McClure Yu 2007 worthylab PDF not re-opened this session; next worker please re-open before certifying",
   "Dive reflex (Linehan, Khalsa)": "Linehan handout procedural details (bowl/cold pack, 30 seconds, 50F, heart caution) recorded as awaiting verification - tri-life.org handout PDF renders blank; Khalsa et al. 2016 could not be matched to a dive-reflex paper; Lundstrom et al. 2025 and Konishi et al. 2016 quotes verified this session",
-  "Creative destruction": "Reopened for QC: milestone QC round-1 repairs pending (advisor findings, 2026-10-22)",
-  "Debiasing techniques": "Reopened for QC: applying milestone QC round-1 repairs",
-  "Decision": "Reopened for QC: applying milestone QC round-1 repairs",
-  "Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)": "Reopened for QC: applying milestone QC round-1 repairs; full-text search for the 2011 review underway"
+  "Creative destruction": "DISPOSITION 2026-10-22 worker-w1r-ppl-a202fa97: milestone QC closed — 4 advisor rounds, final verdicts all SCOPED PASS (round 4); repairs verified against opened carriers (Schumpeter PDF, Larrick PDF, Morewedge PDF, Tepley PDF, Gigerenzer-Brighton 2009 MPG.PuRe PDF, 2011 PubMed abstract); baseline-aware validation 0 failed; front-matter byte-identical to seed; no seed wikilinks lost; ledger: docs/enrichment/sources/w1r/items-2-5.md",
+  "Debiasing techniques": "DISPOSITION 2026-10-22 worker-w1r-ppl-a202fa97: milestone QC closed — 4 advisor rounds, final verdicts all SCOPED PASS (round 4); repairs verified against opened carriers (Schumpeter PDF, Larrick PDF, Morewedge PDF, Tepley PDF, Gigerenzer-Brighton 2009 MPG.PuRe PDF, 2011 PubMed abstract); baseline-aware validation 0 failed; front-matter byte-identical to seed; no seed wikilinks lost; ledger: docs/enrichment/sources/w1r/items-2-5.md",
+  "Decision": "DISPOSITION 2026-10-22 worker-w1r-ppl-a202fa97: milestone QC closed — 4 advisor rounds, final verdicts all SCOPED PASS (round 4); repairs verified against opened carriers (Schumpeter PDF, Larrick PDF, Morewedge PDF, Tepley PDF, Gigerenzer-Brighton 2009 MPG.PuRe PDF, 2011 PubMed abstract); baseline-aware validation 0 failed; front-matter byte-identical to seed; no seed wikilinks lost; ledger: docs/enrichment/sources/w1r/items-2-5.md",
+  "Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)": "DISPOSITION 2026-10-22 worker-w1r-ppl-a202fa97: milestone QC closed — 4 advisor rounds, final verdicts all SCOPED PASS (round 4); repairs verified against opened carriers (Schumpeter PDF, Larrick PDF, Morewedge PDF, Tepley PDF, Gigerenzer-Brighton 2009 MPG.PuRe PDF, 2011 PubMed abstract); baseline-aware validation 0 failed; front-matter byte-identical to seed; no seed wikilinks lost; ledger: docs/enrichment/sources/w1r/items-2-5.md"
  }
 }
