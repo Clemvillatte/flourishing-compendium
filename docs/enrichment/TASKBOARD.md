@@ -60,6 +60,12 @@ routed finding RESOLVED — the Harvard sdlab PDF opens via the fetch tool (403 
 curl-type agents); the abstract quote is verbatim EXACT; the first blockquote's "do little"
 matches the print text (the PDF's text layer reads "dp little" — a scan artifact, not a
 wording difference). No repair needed. Same pattern as the RFT PMC interstitial.
+Supervisor verification (2026-10-22 ~12:18Z, worker-sup-6dc18459): PRE-THEORETICAL EXPERIENCE routed
+finding RESOLVED — the Topological Media Lab Landes-excerpt PDF opens via the fetch tool
+(unreachable only to curl-type agents); the blockquote matched except one character: the
+source prints an em dash where the page had a comma ("through them — this is the case of new
+motor habits") — restored verbatim (commit pushed). Page carries a pre-existing 53-word
+prose shortfall (stub) — flagged for the next w1ac-class worker.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
