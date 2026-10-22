@@ -19,7 +19,7 @@ The breath instruction in the Anapanasati Sutta includes a step aimed at the agi
 The compendium applies that step to restlessness: the settling the sutta teaches is done with the breath, on the body, rather than by arguing with the spinning mind.
 
 **Plain words**
-The sutta's move for agitation is breath with an intention: breathe in calming bodily fabrication, breathe out calming it. It is not an argument you win with a spinning mind; it is a thing you do with the breath while the mind spins.
+The sutta's move for agitation is breath with an intention: breathe in calming bodily fabrication, breathe out calming it. It is something you do with the breath while the mind spins.
 
 *For example:* Suppose pre-presentation jitters. As a modern application, the sutta's step is a few minutes of breathing with the calming intention, observing the body.
 

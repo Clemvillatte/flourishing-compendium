@@ -21,7 +21,7 @@ The Dhammapada adds the wider frame: mind precedes all mental states, and they a
 > "Mind precedes all mental states. Mind is their chief; they are all mind-wrought." (Dhammapada 1, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
 **Plain words**
-Pick one mental state you keep rehearsing, and ask what it is living on. The rehearsal is the feeding. Check what you attend to in the first hour of the day and the last, since those hours are regular meals. The exercise is not to suppress anything; it is to notice what the attention is watering and choose the next watering deliberately.
+Pick one mental state you keep rehearsing, and ask what it is living on. The rehearsal is the feeding. Check what you attend to in the first hour of the day and the last, since those hours are regular meals. The exercise is to notice what the attention is watering and choose the next watering deliberately.
 
 *For example:* Imagine the news-check that ends with the same dread every time. Testing the mechanism would mean leaving the app unopened for three days and checking whether the dread has less to live on.
 

@@ -26,7 +26,7 @@ The Dhammapada makes a parallel point about the wise: they show no elation or de
 > "The wise show no elation or depression when touched by happiness or sorrow." (Dhammapada 83, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.06.budd.html))
 
 **Plain words**
-Take one preference you defend strongly, and check its size. It is a liking: it came from somewhere, it could have come out differently, and it does not have the authority it claims. The exercise is to keep the liking and drop the verdict, then notice whether the next hour changes. The exercise is not to want nothing; it is to check who is in charge of the wanting.
+Take one preference you defend strongly, and check its size. It is a liking: it came from somewhere, it could have come out differently, and it does not have the authority it claims. The exercise is to keep the liking and drop the verdict, then notice whether the next hour changes. The exercise is to check who is in charge of the wanting.
 
 *For example:* Imagine a traveler who stops ranking each meal against the last one. Nothing about the food has changed; what changes is how much of the meal there is left to notice.
 

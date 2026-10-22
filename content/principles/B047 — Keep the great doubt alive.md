@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 47** — Keep the great doubt alive
 
-Hakuin's famous formulation is not a single line but a tripod: a person who commits to the practice of Zen must be equipped with three essentials — a great root of faith, a great ball of doubt, and a great tenacity of purpose. "Lacking any one of them, he is like a tripod with only two legs" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). The doubt in question is not intellectual scepticism; it is the settled unease of being given a question that cannot be answered, and staying with it long enough for something to give way.
+Hakuin's famous formulation is not a single line but a tripod: a person who commits to the practice of Zen must be equipped with three essentials — a great root of faith, a great ball of doubt, and a great tenacity of purpose. "Lacking any one of them, he is like a tripod with only two legs" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). The doubt in question is the settled unease of being given a question that cannot be answered, and staying with it long enough for something to give way.
 
 Hakuin's key line is more compact than the tripod: "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). This is the point the principle carries: doubt is not an obstacle on the way to seeing; it is the mechanism by which the seeing is produced. The question that cannot be answered is the engine, not the problem.
 
