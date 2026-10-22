@@ -57,3 +57,25 @@ Fast-track enrichment.
   mutual.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed
   (warn: no Related concepts section; none existed to preserve).
+
+## 2026-10-22 (UTC): Authentic courage without props (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Authentic courage without props.md (seed:
+  "Aristotle, Nicomachean Ethics III").
+- Opened source: Aristotle, The Nicomachean Ethics of Aristotle,
+  trans. D. P. Chase, Project Gutenberg ebook #8438
+  https://www.gutenberg.org/files/8438/8438-0.txt (Book III courage
+  discussion; the Chase translation, 1847).
+- Verbatim blockquote: the passage on regular troops becoming
+  cowards when the danger exceeds their means, including "the
+  regulars' originally went into the danger under a notion of their
+  own superiority... having greater fear of death than of disgrace;
+  but this is not the feeling of the Brave man." An ellipsis covers
+  the militia parenthesis, as marked.
+- Synthesis grounded in the same opened text: the citizen soldier
+  passage (arises from a feeling of shame and desire of what is
+  noble, under penalties and honours) and "Brave, not on
+  compulsion, but from a sense of honour."
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
