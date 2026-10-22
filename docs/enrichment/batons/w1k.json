@@ -57,5 +57,7 @@
    "from": "worker-perplexity-67ce7e1d",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T07:17:14+00:00"
 }
