@@ -18,7 +18,7 @@
   "Correspondence theory of truth": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u): 'often traced back to' wording applied (matches SEP's own sentence, re-verified live via curl); quotes now standalone blockquotes incl. new Russell 1912 p.129 canonical quote; prose topped up with verbatim SEP material; glosses replaced with title-derived",
   "Creative self-efficacy": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u): AMJ 45(6) 1137-1148 named and linked via opened OpenAlex record; quote-of-a-quote chain explicit; measurement caveat verbatim-applied from opened Haase et al. 2018 full text (r=.53/.25; DT .23/.41); glosses title-derived",
   "Cosmopolitan care": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u): proposal framing applied; quotes standalone blockquotes with author pointers; full abstract re-fetched verbatim-verified; glosses neutralised; Ethics and Social Welfare 4(2) applied",
-  "Deautomatization": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u): proposal framing applied (1966 opening-sentence quote per spec, from the prior worker's 06:47Z fetch of deautomat.com); all quotes now standalone blockquotes; Habituation/Mind-wandering/DMN glosses replaced with neutral title-derived ones"
+  "Deautomatization": "QC RESOLVED 2026-10-22 (worker-sup-1022c-w1u, round 2): all deikman.com quotes re-verified verbatim against Wayback Machine archived copies of the author-site pages (deautomat/experimental/implications), opened this session; proposal framing grounded on the full 1966 opening sentence; conclusion paragraph added as grounded prose top-up; restructuring per spec"
  },
  "missing_concepts": [],
  "sources_checked": 0,
