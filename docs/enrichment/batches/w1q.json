@@ -64,7 +64,9 @@
     "Choking under pressure",
     "Assertiveness training",
     "Abgeschiedenheit",
-    "Absolute nothingness"
+    "Absolute nothingness",
+    "Affective chronometry",
+    "Affective chronometry"
   ],
   "in_progress": null,
   "flagged": {
@@ -131,6 +133,6 @@
     }
   ],
   "sources_checked": 0,
-  "updated": "2026-10-22T06:15:49+00:00",
+  "updated": "2026-10-22T06:30:10+00:00",
   "band_done": false
 }

@@ -652,3 +652,10 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 - **Abgeschiedenheit** (concept, fast-track §1a) — verified against the SEP Meister Eckhart entry, the Dysinger translation of *Von Abgeschiedenheit* (DW V:400-436), the Yale Walshe translation, and the Cambridge German-English dictionary; verbatim blockquotes drawn only from opened pages. Flag: none.
 
 - **Absolute nothingness** (concept, fast-track §1a) — verified against the SEP Nishida Kitaro entry and the SEP Kyoto School entry; Nishida blockquote (NKZ IX, 6) quoted at second hand from SEP, noted as such on the page. Flag: seed attributed the concept to An Inquiry into the Good; SEP dates it to the mid-1920s logic of place and the 1945 final essay, which the page now reflects.
+
+## Affective chronometry (item 3, fast-track)
+
+- Quote opened source: Davidson 2015 Emotion Review comment PDF — verbatim definition of affective chronometry with rise time and duration parameters confirmed.
+- Empirical claims grounded: Heller et al. 2013 (ventral striatum duration and well-being), Schaefer et al. 2013 (Purpose in Life and recovery), Schuyler et al. 2014 (amygdala recovery and neuroticism) — all reported in the opened Davidson comment.
+- Duration determinants grounded in opened Verduyn 2015 PDF (importance of event, rumination, end-of-episode definition).
+- Seed facets mentioned Barrett 2017 valence-first processing; dropped rather than restated without an opened source.
