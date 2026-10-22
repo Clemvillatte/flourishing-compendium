@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 150** — Accept incompleteness as constitutive
 
-Terrence Deacon's Incomplete Nature makes a technical-sounding point with a personal implication. The compendium cites it as a modern scientific parallel to the point below; this page does not quote Deacon, and his argument is on [his book's page](https://terrencedeacon.com/incomplete-nature).
+Terrence Deacon's Incomplete Nature is listed here as a possible modern parallel to the point below. This page does not quote or summarise Deacon; his argument is on [his book's page](https://terrencedeacon.com/incomplete-nature).
 
 Dewey's version of the point is moral: growth is something a person is doing, and never something a person completes. There is no state at which the growing person arrives and stops, which Dewey puts as "it has no end beyond itself" (quoted below). The two claims meet in a practical instruction: stop treating your current unfinished state as a temporary defect that must be fixed before life can begin.
 
@@ -20,7 +20,7 @@ Dewey's version of the point is moral: growth is something a person is doing, an
 
 **Plain words** A draft is not a failed final version; it is the only version that can actually be worked on. The finished thing cannot be revised, which is why nothing interesting is ever finished. You, right now, are a process that has not yet ended, and the not-yet-ended part is what gives you something to do tomorrow. Waiting until you have it together is not caution; it is a misunderstanding of what kind of thing you are.
 
-*For example:* Two people are both hesitant to start dating. One is waiting until their career, body and living situation are sorted. The other starts now, visibly unfinished, and meets someone who is also visibly unfinished. Three years later the first person's conditions have improved but the waiting has not stopped, because the conditions were never the actual barrier. The second one is in a relationship with a real person.
+*For example:* In an imagined case, two people are both hesitant to start dating. One is waiting until their career, body and living situation are sorted. The other starts now, visibly unfinished, and meets someone who is also visibly unfinished. Three years later the first person's conditions have improved but the waiting has not stopped, because the conditions were never the actual barrier. The second one is in a relationship with a real person.
 
 ## Psychology parallels
 
