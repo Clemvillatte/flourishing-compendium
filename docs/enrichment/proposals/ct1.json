@@ -34,8 +34,43 @@
    "into": "Micro-moments of connection",
    "link": "Polyvagal theory (Porges)",
    "why": "the theory's sociality claim parallels Kok and Fredrickson's finding that vagal tone reciprocally predicts positive emotions and social connectedness"
+  },
+  {
+   "into": "Ego development",
+   "link": "Self-verification theory (Swann)",
+   "why": "ego development concerns how self-conceptions mature; verification theory concerns how people defend them once formed"
+  },
+  {
+   "into": "Confirmation bias",
+   "link": "Self-verification theory (Swann)",
+   "why": "the general tendency to favor belief-consistent information, of which self-verification is the self-directed case"
+  },
+  {
+   "into": "Identity stability",
+   "link": "Self-verification theory (Swann)",
+   "why": "the theory's core rationale is that stable, confirmed self-views make the social world predictable"
+  },
+  {
+   "into": "Self-esteem research",
+   "link": "Self-verification theory (Swann)",
+   "why": "self-verification competes with the self-enhancement motive that anchors classic self-esteem findings"
+  },
+  {
+   "into": "Self-serving attribution bias",
+   "link": "Self-verification theory (Swann)",
+   "why": "the tilt toward flattering explanations that verification theory predicts can reverse for negative self-views"
+  },
+  {
+   "into": "Feedback research",
+   "link": "Self-verification theory (Swann)",
+   "why": "the theory predicts feedback is accepted insofar as it matches existing self-views"
+  },
+  {
+   "into": "Identity-protective cognition",
+   "link": "Self-verification theory (Swann)",
+   "why": "both describe resisting information that threatens an established picture of who one is"
   }
  ],
  "inline": [],
- "notes": "dropped Psychological safety relation: no source-supported lineage between PVT and workplace safety research was opened this run"
+ "notes": "7 PVT reciprocals (first item) + 7 Self-verification reciprocals (second item)"
 }

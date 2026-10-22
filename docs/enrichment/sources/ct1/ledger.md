@@ -48,3 +48,28 @@ The two-factor model of well-being, Flourishing scale, Dispositional optimism.
   removal of a staging pattern and in-prose bold.
 - Proposals: docs/enrichment/proposals/ct1.json, 7 reciprocal entries in the accepted
   schema (into/link/why), JSON valid.
+
+## ITEM: Self-verification theory (Swann) (concept page) — 2026-10-22, worker-9c31f0d8-ct1
+- Carriers (fetched and opened this session):
+  - Wikipedia "Self-verification theory" (both article URLs redirect same article): lead
+    definition; Swann development sentence; preference-study and marriage findings; criticism
+    section (self-verification limited to negative self-views, disputed).
+  - Swann, Pelham & Krull 1989 PDF (UT Austin lab site): "simultaneously motivated to
+    self-enhance and self-verify"; "regardless of their self-esteem level, people will seek
+    favorable feedback about their positive self-views and unfavorable feedback about their
+    negative self-views"; abstract sentence on negative self-conceptions.
+  - Kwang & Swann 2010, PSPR 14(3):263-280 (PubMed 20435799): "ample evidence of
+    self-enhancement strivings but little evidence of its prepotency"; "control different
+    response classes"; rejection-risk sentence.
+  - Swann, Hixon & De La Ronde 1992 "Embracing the bitter 'truth'" (Psychological Science,
+    scispace listing): full abstract verbatim, including the marital-commitment sentence
+    used as blockquote.
+  - Ayduk et al. manuscript PDF (Columbia): r = .30 cognitive / null affective sentence
+    (main text, attributed to the manuscript, not to the meta-analysis it cites).
+  - Swann 1983 chapter: bibliographic record only via Harvard publication page (title,
+    editors, volume, pages); no text quoted from the chapter itself.
+  - Sedikides et al. 2004: retained in Sources from the original stub; not quoted.
+- Validation --fast-track: ok on first pass (~430 prose words).
+- Advisor QC: applied the first-item lesson directly (no unverified claims, quotes
+  re-verified against fetched pages before writing; blockquote in Why it matters; no
+  stitched quotes; Wikipedia marked as Wikipedia-sourced).

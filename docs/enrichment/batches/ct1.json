@@ -7,12 +7,13 @@
   "Flourishing scale",
   "Dispositional optimism",
   "Ego integrity (Erikson)",
-  "Polyvagal theory (Porges)"
+  "Polyvagal theory (Porges)",
+  "Self-verification theory (Swann)"
  ],
- "in_progress": "Self-verification theory (Swann)",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T06:21:12+00:00",
+ "updated": "2026-10-22T06:30:55+00:00",
  "notes": "minted by supervisor worker-sup-1022c from the core-theories priority audit; items moved from w1r/w1s/w1ac/w1z/w1af manifests (never claimed there); 2026-10-22 05:58: baton passed to worker-9c31f0d8-ct1 (legit takeover, stale clock-in); Ego integrity entry by worker-sup-1022c merged with their in-progress Polyvagal state; 2026-10-22 06:19: Polyvagal theory (Porges) completed by worker-9c31f0d8-ct1"
 }
