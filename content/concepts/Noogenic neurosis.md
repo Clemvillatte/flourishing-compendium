@@ -32,6 +32,7 @@ The concept arrives in the book's discussion of existential frustration: "Man's 
 - [[The will to meaning]] — the compendium's page on the will to meaning
 - [[Meaning-centred therapy]] — the compendium's page on meaning-centred therapy
 - [[Existential meaning]] — the compendium's page on existential meaning
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 
 ## Sources
 

@@ -30,6 +30,7 @@ The book's comment on the list: "The first, the way of achievement or accomplish
 
 - [[The will to meaning]] — Frankl's underlying motivational concept
 - [[Meaning-making]] — the broader construct the three routes feed
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 
 ## Sources
 

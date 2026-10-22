@@ -49,6 +49,7 @@ On this reading meaning is assembled from deeds, encounters, and stances. Frankl
 - [[Purpose]] — the forward-facing edge of meaning
 - [[Mattering]] — the sense that one's life counts for something
 - [[MO061]] — A principle drawing on Frankl's account of meaning as motivation
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 ## Sources
 - SEP The Meaning of Life: https://plato.stanford.edu/entries/meaning-of-life/
 - Frankl, Man's Search for Meaning (PDF): https://antilogicalism.com/wp-content/uploads/2017/07/mans-search-for-meaning.pdf

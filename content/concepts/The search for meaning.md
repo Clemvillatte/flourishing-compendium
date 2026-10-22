@@ -34,6 +34,7 @@ That third channel rests on the book's most quoted claim: "everything can be tak
 - [[Self-transcendence]] — what the search aims at, on Frankl's account
 - [[Post-traumatic growth]] — the growth the attitude-toward-suffering channel can produce
 - [[MO061]] — A principle drawing on Frankl's account of meaning as motivation
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 ## Sources
 
 - Frankl, Man's Search for Meaning

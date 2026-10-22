@@ -36,6 +36,7 @@ His examples run to the defiant power of the human spirit, as logotherapy calls 
 - [[Learned optimism]] — Seligman's construct; the optimism the tragic version refuses to command
 - [[Amor fati]] — the Stoic-Nietzschean affirmation of fate, the philosophical cousin of saying yes in spite of
 - [[Hope]] — the stance's forward-looking component
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 
 ## Sources
 

@@ -22,6 +22,7 @@ The compendium's principle E066 practises the will to meaning directly, and the 
 - [[The search for meaning]] — the drive stated as its own concept
 - [[Meaning]] — links here from its own Related concepts, calling this Frankl's name for the drive that page describes
 - [[Creative values]] — links here from its own Related concepts, calling this Frankl's underlying motivational concept
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 
 ## Sources
 

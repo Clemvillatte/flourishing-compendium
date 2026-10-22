@@ -41,6 +41,7 @@ In a 2017 analysis pooling two trials (124 meaning-centered vs 94 supportive-gro
 - [[Existential meaning]] — the broader construct the program works on
 - [[Existential therapy]] — the family of treatments MCP belongs to
 - [[Existential mattering]] — the felt sense that one's life counts, what the sessions cultivate
+- [[Logotherapy]] — Frankl's school, the framework behind this idea
 ## Sources
 
 - [Breitbart, Rosenfeld, Gibson, Pessin et al., "Meaning-centered group psychotherapy for patients with advanced cancer: a pilot randomized controlled trial", Psycho-Oncology 19(1), 2010, pp. 21-28](https://pmc.ncbi.nlm.nih.gov/articles/PMC3648880/) — the verbatim abstract, design and outcomes of the first randomized trial
