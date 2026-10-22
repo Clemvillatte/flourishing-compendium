@@ -400,3 +400,22 @@ across 14 rounds (46 released-band + 14 live-band read-only); 54 PASS or better;
 1 translator attribution repaired (all under baton claims, validated, pushed); 7 findings
 routed to owners/supervisor; 1 confabulated finding withdrawn with git evidence; 2 process
 errors corrected in the record.
+
+## Round 16 — live-band pages, READ-ONLY, FINAL ROUND (2026-10-22, executed ~12:06-12:08Z
+per clock proximity; no edits to live-band pages)
+
+- DECISION (w1r) — PASS 1/1: the Jaspers Philosophy vol. 2 p. 157 passage verbatim vs the
+  cited Tepley 2019 PDF (freshly downloaded and opened).
+- DEBIASING TECHNIQUES (w1r) — ROUTED, QUOTE-MARK NORMALIZATION: the page prints the Larrick
+  strategy with SINGLE quotes ('What are some reasons that my initial judgment might be
+  wrong?') where the cited Stanford PDF prints DOUBLE quotes ("What are some reasons that my
+  initial judgment might be wrong?"). Same repair class as Nietzsche/Bem/Noddings this
+  session; routed to the w1r owner (live band — not edited read-only).
+- CORRESPONDENCE (w1u) — PASS 1/1: the Ingold "On human correspondence" definition verbatim
+  vs the cited Aberdeen PDF (freshly downloaded and opened).
+- CORRECTING THE INSTRUMENT (w1u) — PASS 1/1: the Bacon Novum Organum I.2 passage verbatim vs
+  the cited Hanover Montague page (opened; consistent with the w1u ledger's own record).
+
+Round 16 totals: 3 pages PASS, 1 routed. FINAL SESSION VERIFICATION TOTALS: 64 pages sampled
+across 16 rounds; 57 PASS or better; 6 defects + 1 attribution repaired; 8 findings routed;
+1 confabulated finding withdrawn; 2 process errors corrected. Verification closed.
