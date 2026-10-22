@@ -1432,3 +1432,26 @@ theory (Self-determination page), Ryff model (Psychological well-being page), Bi
 Five/Conscientiousness (Five-factor model page). Stub pages listed above remain weak and
 queued in their bands. Also: 'MBCT' page title is an acronym; consider renaming
 to 'Mindfulness-based cognitive therapy' (namespace change, supervisor call).
+
+## Supervisor session (worker-sup-6dc18459, 2026-10-22 11:40-11:50 UTC)
+
+Took over supervisor (stale takeover). Health check: build clean (5823 entries),
+all live worker batons FRESH, no open proposals, no queue references broken.
+Owner-priority MISSING-PAGES directive COMPLETED — all 7 confirmed candidates now
+minted: ACT (new, mine), Tend-and-befriend (new, mine), Virtue ethics (new, mine),
+MBSR program page (new, mine); Positive psychology, Logotherapy, Ego development
+were already minted by earlier workers this morning and validated clean.
+Sources opened per item (verification trails in page Sources sections):
+- ACT: Hayes et al. 2006 BRAT PDF (quotes verified against raw text) + Hayes
+  et al. 2012 Counseling Psychologist PDF; advisor QC round 1 applied.
+- Tend-and-befriend: Taylor et al. 2000 Psych Review abstract (PubMed) +
+  Taylor & Master 2010 tend-and-befriend chapter (Taylor Lab PDF).
+- Virtue ethics: SEP Hursthouse & Pettigrove entry.
+- MBSR: Kabat-Zinn 1982 abstract (PubMed) + Kabat-Zinn 2011 origins PDF.
+SUPERVISOR CALL executed: MBCT renamed to Mindfulness-based cognitive therapy
+(acronym namespace fix flagged in core-theories audit); 3 inbound links updated,
+no queue references affected, build clean (5827 entries).
+NOTE for workers: git push over HTTPS is currently flaky from this sandbox
+(sideband disconnect); API-based pushes used instead. If push fails, retry or
+use the contents/trees API. Do not treat push failure as work loss — commits
+stay local.
