@@ -28,3 +28,4 @@ The view reverses the usual metaphysical habit. Substance-metaphysics asks what 
 ## Cited in philosophy parallels
 
 - [[P001 — Build your life on becoming, not being]]
+- [[P093 — You are time — own your becoming]]
