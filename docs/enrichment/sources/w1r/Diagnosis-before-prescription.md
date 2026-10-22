@@ -9,3 +9,5 @@
 - Checks: validator fast-track with --base HEAD: ok, 0 failed (warning: fewer than 3 Related-concepts lines). Seed front matter and all three seed parallel links preserved byte-for-byte.
 
 - Repair round (advisor QC): the lead now opens with the SEP citation; the program-or-author claim about the term's adoption is removed; the exclusivity claim ("not that diagnosis-less treatment never works, but...") replaced with a bounded statement of what Galen accepts and what his argument distinguishes; Galen's text remains unopened and the page's substantive claims rest on the opened SEP entry.
+
+- Fixed-baseline raw-byte check (advisor-specified pre-enrichment baseline 88becb1a9^): git show undecoded stdout vs Path.read_bytes(), front-matter slices compared on byte delimiters (b'---\n') — byte-identical: true.

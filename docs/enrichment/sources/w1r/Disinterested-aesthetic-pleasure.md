@@ -10,3 +10,5 @@
 - Checks: validator fast-track with --base HEAD: ok, 0 failed (warning: fewer than 3 Related-concepts lines). Seed front matter and all seed links (E050, K299, D084) preserved.
 
 - Repair round (advisor QC): SEP entry author verified as Hannah Ginsborg (citation_author metadata); the Kant quotations are now cited to the Gutenberg text URL that was actually downloaded and verified (https://www.gutenberg.org/cache/epub/48433/pg48433.txt); the lead sentence carries the SEP citation; the SEP paragraph now states the agreeable/good contrast directly rather than "placing between two other kinds of liking".
+
+- Fixed-baseline raw-byte check (advisor-specified pre-enrichment baseline 36fbf2fb6^): git show undecoded stdout vs Path.read_bytes(), front-matter slices compared on byte delimiters (b'---\n') — byte-identical: true.

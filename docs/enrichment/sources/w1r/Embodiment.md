@@ -8,3 +8,5 @@
 - Checks: validator fast-track with --base HEAD: ok, 0 failed (warning: fewer than 3 Related-concepts lines). Seed front matter, all seed links and the seed's E020 Related line preserved.
 
 - Repair round (advisor QC): author attribution verified against the entry's citation_author metadata — Toadvine, not Carman; the "brain-injured veteran" description removed (the entry describes Schneider as "a brain-damaged patient studied by Adhémar Gelb and Kurt Goldstein"); the PP: 170/137 reference moved outside the quotation marks; R089 gloss corrected to Marcel's own framing ("being a body rather than merely having a body"), checked against R089's principle text; Marcel's Being and Having naming claim removed from the lead (not in the opened carrier).
+
+- Fixed-baseline raw-byte check (advisor-specified pre-enrichment baseline ee416c8ae^): git show undecoded stdout vs Path.read_bytes(), front-matter slices compared on byte delimiters (b'---\n') — byte-identical: true.

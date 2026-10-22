@@ -8,3 +8,5 @@
 - Checks: validator fast-track with --base HEAD: ok, 0 failed (warning: fewer than 3 Related-concepts lines). Seed front matter and both seed philosophy-parallel links (D035, E029) preserved; E030 added to the compendium section (it was a linked neighbor).
 
 - Repair round (advisor QC): the 1951 lecture date was removed from the page (the opened carrier is the Hofstadter translation text without a date; the date is not asserted); the bauen/ich bin etymology is now framed as Heidegger's own reading rather than a stated fact; the "exploratory counterpart" gloss for E029 corrected to "the restless seeing that Heidegger contrasts with dwelling", checked against E029's principle text; "care" gloss replaced with a direct statement of the fundamental character.
+
+- Fixed-baseline raw-byte check (advisor-specified pre-enrichment baseline e8fce9104^): git show undecoded stdout vs Path.read_bytes(), front-matter slices compared on byte delimiters (b'---\n') — byte-identical: true.
