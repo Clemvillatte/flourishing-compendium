@@ -1,21 +1,60 @@
 # HANDOFF: CMP (Contemplative) gallery enrichment
 
-Status at handoff: **work complete and committed locally, NOT yet
-pushed.** Local commits (on top of origin/main at last fetch):
+Status: **CHECKPOINT SAVED; RELEASE VERIFICATION INCOMPLETE. NOT
+approved for main.** The work is committed locally and pushed to the
+non-deploying checkpoint branch `checkpoint/cmp-gallery-enrichment`
+(verify it exists on the remote before relying on it). Do not push
+these commits to main until the two release blockers below are
+resolved and the advisor re-approves.
+
+Local commits (not on origin/main):
 - 802db6b09 "academy: cmp gallery +8 verified sessions (47->55), omm/lkm/zen/walking gaps filled"
-- 0a9233eb7 "academy: cmp handoff" (superseded by this rewrite)
-- one more commit with ledger/handoff corrections and evidence files
+- 0a9233eb7 "academy: cmp handoff" (superseded by later rewrites)
+- 2639b9f16 "academy: cmp ledger/handoff corrections (zen buckets, attribution note) + evidence preserved"
+- plus the handoff-status correction commit
 
-Remaining: advisor re-verification of the corrections below, push, CI
-check, live probe. This file documents only the CMP gallery task. The
-Qi Gong gallery task has its own handoff at
+Git relationship: local main is NOT rebased onto current origin/main.
+Local main sits on my last pushed commit (de9a4377c) plus the commits
+above; origin/main has since moved to 24fbf2a2c (107 incoming commits
+by other workers, Library and Wiki work; my top-of-log inspection saw
+no overlap with the scoped files, but a full diff against all 107
+was not run). Before any push to main: git pull --rebase origin main
+and re-check for conflicts on the scoped files.
+
+Original session history (read only):
+~/.perplexity/sessions/cffd561c-9be6-493e-b845-ede0686acb4f/
+(turns/ and tool_calls/). Repo: github.com/Clemvillatte/flourishing-
+compendium, checkout at /home/user/workspace/fc, branch main. Git
+identity "Computer Agent" <computer@perplexity.ai>; PAT in
+~/.git-credentials (never commit it).
+
+## RELEASE BLOCKERS (must resolve before pushing to main)
+
+1. Instructor qualification for the new Palouse LKM row. The owner's
+   instructor standard is a requirement, not an option. The recording
+   guide is not named on the Palouse page and the opening transcript
+   does not self-identify (do not claim "no name in the audio" beyond
+   what the sampled portion establishes). Either verify the guide and
+   a linked qualifying credential (possible lead: the Insight Timer
+   listing referenced on the Palouse page; the page also links a
+   Lovingkindness Meditation Script), or withhold/remove the row
+   before release. Do not reopen the existing shipped Palouse rows.
+
+2. Recording classification completeness. Only the two MARC files were
+   fully transcribed. The other six recordings were sampled at their
+   openings only; source-page descriptions are not published
+   transcripts, so full-session classification (guided practice vs a
+talk containing practice) is not yet established for: Tara Brach 30
+   min, Palouse LKM, Palouse walking, and the three Mountain Cloud
+   sits. Complete verification from the recordings (full vosk
+   transcripts; the model was at /tmp/vosk-model, likely gone, see
+evidence/README.md) or published transcripts, then re-classify. Also
+   preserve the original sampling commands or timestamps; the current
+   README says "roughly 60 to 90 seconds" without them.
+
+This file documents only the CMP gallery task. The Qi Gong gallery
+task has its own handoff at
 docs/enrichment/sources/qg/HANDOFF-QG-GALLERY.md; do NOT mix the two.
-
-Repo: github.com/Clemvillatte/flourishing-compendium, branch main,
-checkout at /home/user/workspace/fc. Original session history (read
-only): ~/.perplexity/sessions/cffd561c-9be6-493e-b845-ede0686acb4f/
-(turns/ and tool_calls/). Git identity "Computer Agent"
-<computer@perplexity.ai>; PAT in ~/.git-credentials (never commit it).
 
 ## Scope fence (do not cross)
 
@@ -66,14 +105,11 @@ correcting the earlier handoff's wrong claims):
   lkm 0/3/1/0/2/1/1/0, bodyscan 1/1/3/1/2/2/1/0, daoist 1/0/1/0/0/0/0/3,
   zen 0/0/6/1/1/1/0/0, walking 1/2/2/0/0/0/1/0.
 
-Attribution decision to flag for the owner: the Palouse LKM
-recording's individual guide is not named on the page or in the audio.
-The row is attributed to the publishing institution (Palouse
-Mindfulness Inc), matching the two pre-existing Palouse rows on the
-FAM shelf. The opened team and founder pages do not state a formal
-MBSR teaching credential for a named individual. If the owner requires
-a named, credentialed guide, remove the row or verify the guide via
-the Insight Timer listing referenced on the Palouse page.
+Attribution blocker for release: the Palouse LKM recording's
+guide is not identified by an opened source. See RELEASE BLOCKERS
+above; do not treat the institutional attribution as final. The
+walking row's Tara Brach attribution is printed on the Palouse
+walking page (saved at evidence/walk.html).
 
 Parser fixes in scripts/cmp_gallery_data.py: H:MM:SS misparse,
 trailing-space guide split, matrix key order [5,10,15,20,30,45,'45+',None].
@@ -89,7 +125,7 @@ app.js safe-splice: deg-cmp practiceSessions 47 -> 55, verified
 prefix and suffix byte-identical, other degrees and fcGalleryData
 untouched, node --check OK.
 
-## QA (all green)
+## QA (checks actually run in this session, all green at the time)
 
 - python3 -m unittest discover -s scripts/tests: 30 OK
 - node --test scripts/tests/randomizer.test.cjs: 9 pass
@@ -109,18 +145,18 @@ untouched, node --check OK.
   (.acad-explorer-select), not chips; cards are div role=button that
   open a new tab; degrees render as .acad-hall cards, click the
   "Contemplative & Mental Practices" hall to open the gallery.
+  These were run on the current working tree; re-run them after any
+  rebase before release.
 
 ## Remaining steps, in order
 
-1. Advisor re-verification: present the ledger entry, the corrected
-   bucket claims, the attribution note, and the evidence directory;
-   ask whether every requirement is now met.
-2. Resolve the Palouse LKM attribution decision with the owner if the
-   advisor still flags it (options: keep institutional attribution,
-   remove the row, or verify via Insight Timer).
-3. git pull --rebase origin main (concurrent workers push constantly;
-   re-check that none of the 107+ incoming commits touch the scoped
-   files), then push with git -c user.name="Computer Agent" -c
+1. Resolve the two RELEASE BLOCKERS above (LKM guide verification or
+   row removal; full-transcript classification for the six sampled
+   recordings).
+2. Advisor re-verification with the resolved blockers; do not push to
+   main without it.
+3. git pull --rebase origin main, re-check scoped files for
+   conflicts, then push with git -c user.name="Computer Agent" -c
    user.email="computer@perplexity.ai" push.
 4. Verify the commit landed in origin/main (merge-base check), check
    CI green via the GitHub API with the PAT, live-probe
