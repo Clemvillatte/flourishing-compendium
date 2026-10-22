@@ -39,3 +39,10 @@
 - K169: step 4 rewritten to ask whether a blocked goal, unfairness, outward blame or another concern is in play (no values-vs-appraisal claim); Scherer locator corrected to "Scherer, 2005, p. 697, as quoted in Sander, Grandjean and Scherer 2018"; inline source links added.
 - ALL PAGES: removed the self-referential "quoted verbatim" assurances from prose (the quotation marks plus citation carry the verification; the ledger keeps the provenance record); guided-version gaps recorded in k1b.json flagged dict for supervisor triage (all 5 items, none claimed as exemptions).
 - All five pages re-validated exit 0 after repairs.
+
+## 2026-10-22 — K218 Perspective-getting (worker-k1b-pplx)
+- Sources opened this session: Eyal, Steffel and Epley 2018 abstract (PubMed 29620401; verbatim quotes from the abstract: the 25-experiments finding, the decreased-accuracy sentence, the conversation experiment sentence, the new-information conclusion; citation JPSP 114(4) 547-571 per the PubMed record); Damen, Pollmann and Grassow 2021 full text (Frontiers in Communication 6:611187, open access; verbatim quotes: abstract participation/accuracy findings for the three studies, the study-2 dosage finding rho=-0.277 p=0.024 with its exact sentence).
+- Claims narrowed: the seed's "consistently outperforms" softened on the page ("the advantage is real but not automatic"; not-covered paragraph quotes study 1's null result verbatim and scopes the outcomes to prediction accuracy about money distributions, prices and attitudes); the seed's tension note with K366 preserved and made explicit.
+- Facets line and Practises-the-concept line kept from the seed; original Operationalises links kept verbatim.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
