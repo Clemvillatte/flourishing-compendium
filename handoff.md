@@ -1418,7 +1418,9 @@ words, all assigned to bands, none enriched yet): MBCT(w1v, now done), Learned H
 Theory(w1v, now done), Meaning-centred therapy(w1v, now done), Flourishing scale(w1r),
 Competence(w1r), Relatedness(w1s), Self-verification theory Swann(w1s), Polyvagal theory
 Porges(w1ac), Dispositional optimism(w1z), Ego integrity Erikson(w1z), Two-factor model of
-well-being(w1af), Wisdom theory Berlin paradigm(w1af). MISSING PAGES, reclassified after advisor QC audit (candidate coverage gaps, NOT confirmed
+well-being(w1af), Wisdom theory Berlin paradigm(w1af). OWNER DIRECTIVE (2026-10-22, after w1v session report): the MISSING-PAGES flag above is the
+owner's stated PRIORITY — mint/enrich these core-theory pages before further polish work.
+MISSING PAGES, reclassified after advisor QC audit (candidate coverage gaps, NOT confirmed
 missing — several were aliases; minting is supervisor/queue territory — FLAGGED):
 CONFIRMED CANDIDATES (no page or alias found): Acceptance and Commitment Therapy as a named
 theory (Psychological flexibility covers the core process but no ACT theory page),
