@@ -15,11 +15,17 @@
   "Dispositional awe",
   "Curiosity (Neugier)",
   "Creative impulse",
-  "Dehumanization research"
+  "Dehumanization research",
+  "Deception research"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Deception research": "inherited seed claim 'lying raises cognitive load and distress' not supported by DePaulo 1996 abstract; page corrected",
+  "Dehumanization research": "inherited seed 'infrahumanization predicts cruelty (Haslam 2006)' not in Haslam 2006 / Haslam&Loughnan 2014 abstracts; page states scope",
+  "Dispositional mindfulness": "inherited seed cited Baer 2006 for well-being; Baer abstract speaks of facets/psychological symptoms; page uses Brown&Ryan 2003 + Baer 2006",
+  "Emergence": "seed cites Morgan Emergent Evolution; not opened, SEP entry lacks Morgan; page sourced to SEP Emergent Properties only"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:38:14+00:00"
+ "updated": "2026-10-22T15:38:42+00:00"
 }
