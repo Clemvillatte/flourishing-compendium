@@ -330,3 +330,15 @@ Decisions:
 - Related concepts: Dialectical thinking, Dialectical sublation, Both-and (all existing).
 - De Docta Ignorantia book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Commitment-consistency dynamics (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://journals.sagepub.com/doi/10.1177/0146167201277008 — Guadagno, Asher, Demaine, Cialdini 2001 PSPB 27(7):879-886. Full abstract fetched verbatim.
+
+Decisions:
+- Fast-track eligibility: deg 5 < 15 confirmed.
+- Front-matter preserved; D121/D189 Cited-in wikilinks preserved.
+- Related concepts: Balance theory, Integrity as consistency (both existing originals per neighbors).
+- Cialdini 2001 book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
