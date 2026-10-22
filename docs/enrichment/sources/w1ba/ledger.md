@@ -86,3 +86,18 @@ All 5 items repaired per advisor review:
 - Midlevel terms: Sources row de-audited.
 - Validation gate fixed: repairs validated via checked exit code (subprocess returncode),
   not a piped tail that can mask failures.
+- Advisor round-2 repairs applied: VSR "two additional levels" wording now quoted from
+  the EEMM classification; Mediators — "the therapy hour and the homework are only
+  deliveries" removed (unsupported), final paragraph now ends on the test-procedure
+  point (grounded in the opened 1986 paper's method); Tinbergen — history/development
+  now distinguished explicitly (species' history vs person's lifetime, per the opened
+  Taborsky/Tinbergen material), clinical passage rewritten as questions the equal-
+  attention demand invites. TASKBOARD original note header corrected to the measured
+  14:10:51 UTC; retraction sits immediately above it. All 7 retracted items' fast-track
+  eligibility verified against the queue (degrees 2-4, all < 15): "no action needed"
+  now evidence-checked. Validation gated (exit 0, 5 checked 0 failed).
+- PBT book access: still not opened this session (Scribd 403, core.ac.uk and USU
+  Cloudflare-blocked). The EEMM classification quote added to Context sensitivity rests
+  on the EEMM page's supervisor-verified record; source QC for that one addition is
+  recorded as PENDING direct open. A bounded browser attempt may follow; if it fails,
+  the flag stands for the next verifier.

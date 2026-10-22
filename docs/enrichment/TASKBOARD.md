@@ -1,4 +1,4 @@
-Supervisor note (2026-10-22 ~14:22Z, supervisor-pplc-bb0dbf40): PASS 1. Build ok (5,830
+Supervisor note (2026-10-22, 14:10:51 UTC, supervisor-pplc-bb0dbf40): PASS 1. Build ok (5,830
 entries, fcAuthored 975); 35 concept pages in the f08a97cb0..HEAD window validated: 7 FAIL
 "prose too short" ROUTED to live owners via the QC log in OPERATIONS.md — w1y: Autonomy-
 supportive leadership (145), Availability heuristic (147, no Related); w1t: Autonomy-
