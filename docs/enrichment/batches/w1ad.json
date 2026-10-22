@@ -32,7 +32,8 @@
   "Task-switching costs",
   "Technology acceptance model",
   "Spotlight model of attention",
-  "TIPP skills (DBT)"
+  "TIPP skills (DBT)",
+  "Stress appraisal"
  ],
  "in_progress": null,
  "flagged": {
@@ -60,10 +61,11 @@
   "Task-switching costs": "Rubinstein et al. 2001 (seed) not consulted. Lab ms costs; AT016 applies them to everyday practice (it says so).",
   "Technology acceptance model": "Thematic link only; E102 (Gelassenheit) does not cite Davis. Abstracts and secondary summaries used; the MIS Quarterly full text was not opened.",
   "Spotlight model of attention": "Seed credits Posner only; zoom-lens refinement is Eriksen. AT017 rests on an emotion/attention-scope study, not Posner; link is metaphorical. Posner abstract only.",
-  "TIPP skills (DBT)": "Linehan 1993 manual not opened; page uses VA MIRECC teaching materials (not trials). Final P named Paired vs Progressive across sources."
+  "TIPP skills (DBT)": "Linehan 1993 manual not opened; page uses VA MIRECC teaching materials (not trials). Final P named Paired vs Progressive across sources.",
+  "Stress appraisal": "1984 book not opened; page uses secondary PMC articles quoting it. D110 link thematic. Related-concept links kept from seed, descriptions neutralised (unchecked)."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:14:09+00:00",
+ "updated": "2026-10-22T16:14:35+00:00",
  "band_done": false
 }
