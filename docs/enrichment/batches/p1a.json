@@ -27,12 +27,11 @@
   "D019",
   "A053",
   "D054",
-  "A091",
   "E007",
   "A023",
   "A078"
  ],
- "in_progress": null,
+ "in_progress": "A091",
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
@@ -40,13 +39,13 @@
   "D054": "SCOPED REPAIR AND ADVISOR QC COMPLETE. Protected statement compounds and reflection transformation guarantee need owner review; these protected fields were not edited. Inherited meditation dose-response reference not certified.",
   "D019": "Reopened for QC: Correct inherited composite quotation and replace repeated Plain words with needs-aware application",
   "A053": "Reopened for QC: Repair reversed voluntary-action test and avoid dismissing coercion or ignorance",
-  "A091": "Reopened for QC: Present contemplation and practical virtue as ranked and interpretively contested, not a settled equality",
+  "A091": "Reopened for QC: Milestone advisor: narrow Kraut attribution and distinguish proof contemplation from inquiry",
   "E007": "Reopened for QC: Ground imaginative variation in an opened primary text; distinguish proposed invariants from proven essences",
   "A023": "IN PROGRESS: justice, distribution criteria and correction. Initial reopen reason referred to a different topic and was mistaken; no principle content edited under that mistaken premise.",
   "A078": "Reopened for QC: Clarify Aristotle friendship types without calling pleasure/utility fake; add time, familiarity and non-instrumental application"
  },
  "missing_concepts": [],
  "sources_checked": 40,
- "updated": "2026-10-22T12:14:16+00:00",
+ "updated": "2026-10-22T12:15:40+00:00",
  "band_done": false
 }
