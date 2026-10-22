@@ -12,13 +12,34 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 58** — Sit daily: consistency over intensity
 
-The Dhammapada gives the picture of the smith: "One by one, little by little, moment by moment, a wise man should remove his own impurities, as a smith removes his dross from silver." Not in one heroic purge; the impurities go the way they came, gradually. Shunryu Suzuki makes the same point about the practice itself: "If you lose the spirit of repetition it will become quite difficult," and "Actual practice is repeating over and over again until you find out how to become bread." The compendium's image for the same truth: the mind trains the way a river cuts a gorge, by persistence. The exercise that follows is the principle's title: sit daily, briefly.
+The Dhammapada has a picture for slow, repeated work on the mind:
 
-(Dhammapada 239; Suzuki.)
+> One by one, little by little, moment by moment, a wise man should remove his own impurities, as a smith removes his dross from silver. ([Dhammapada 239, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html))
 
-**Plain words** Sit briefly, and sit daily. The practice is the repetition, not the size — five minutes, every day, is a sitting practice. Consistency is the advanced practice.
+The smith works in small passes. Nothing in the verse describes one large clearing out.
 
-*For example:* You sit for five minutes after your coffee, every day, including the days it feels like nothing.
+Shunryu Suzuki says the same about zazen when he talks about baking. Buddha, he says, wanted to learn how the wise of the past became wise, and he did it by converting dough into bread over and over until he succeeded. Then he admits the downside:
+
+> But we may find it not so interesting to cook the same thing over and over again every day. It is rather tedious, you may say. If you lose the spirit of repetition it will become quite difficult, but it will not be difficult if you are full of strength and vitality. ([Suzuki, *Zen Mind, Beginner's Mind*, "Repetition", Stanford PDF of the book](https://web.stanford.edu/~funn/ZenMindBeginners.pdf))
+
+Later in the same talk: "Actual practice is repeating over and over again until you find out how to become bread."
+
+So the instruction here is small and specific. Sit every day, for a short time, and treat the repetition itself as the practice.
+
+(Dhammapada 239; Suzuki, *Zen Mind, Beginner's Mind*, chapter "Repetition".)
+
+### Plain words
+
+Short and daily beats long and occasional. Five minutes every day counts as a sitting practice, including the days when it feels like nothing. Suzuki admits the repetition can be dull. His answer is to keep going and stay alert while you do.
+
+### For example
+
+Pick a cue you already have, such as finishing your morning coffee. Sit for five minutes right after it, every day for two weeks, and put a mark on a calendar each time. If you miss a day, sit the next day for the same five minutes; do not make up for it with a longer session.
+
+## Sources
+
+- Dhammapada, ch. 18 (Malavagga), v. 239, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.18.budd.html)
+- Shunryu Suzuki, *Zen Mind, Beginner's Mind* (1970), Part 2, "Repetition": [Stanford copy of the text](https://web.stanford.edu/~funn/ZenMindBeginners.pdf)
 
 ## Stories
 
