@@ -12,18 +12,34 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 399** — Practise eidetic seeing
 
-Eidetic seeing is Husserl's name for grasping an essence. Ideas I defines what gets seen:
+In Ideas I, Husserl distinguishes intuiting an individual object from intuiting an essence. Section 3 describes the difference:
 
-> The essence (Eidos) is a new sort of object. Just as the datum of individual or experiencing intuition is an individual object, so the datum of eidetic intuition is a pure essence. (Husserl, Ideas I §3, Kersten trans., [full-text PDF](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf))
+> The essence (Eidos) is a new sort of object. Just as the datum of individual or experiencing intuition is an individual object, so the datum of eidetic intuition is a pure essence.
+> (Husserl, Ideas I §3, p. 10, [F. Kersten translation](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf).)
 
-The method comes in §70: essences are seized by varying examples in free phantasy, as the geometer reshapes figures at will and runs through continuously modified possible shapings. What stays invariant through the variations is the essence. The principle's directive, vary the phenomenon in imagination and watch for the invariant, restates that method.
+Section 70 gives the geometer's freedom to reshape imagined figures as an example of clarifying essential possibilities. The aim is not to count features shared by a sample of actual things, but to consider what can change while an object remains of the kind being examined ([Ideas I §70, pp. 130–131](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf)).
 
-(Husserl, 1913/1982, Ideas I, §§3-4, 70-71; Husserl, 1952/1989, Ideas II.)
+Jaakko Belt offers a self-correcting interpretation: claimed eidetic insights can be mistaken and refined through renewed variation. His account keeps the inquiry open to further possibilities; it does not prescribe an exhaustive count of examples ([Belt, §2 and discussion of self-correction](https://link.springer.com/article/10.1007/s10516-021-09611-1)).
 
-**Plain words**
-Take something you think you know, like a good conversation. Imagine it going differently: louder, slower, with a stranger, on a walk. Some features fall away without the thing collapsing; those were decoration. The features you cannot remove without the conversation ceasing to be good are the essence. The exercise tests what matters by deletion.
+### Plain words
 
-*For example:* Vary "a good conversation" across twenty imaginary versions (cafes, walks, arguments, silences) and watch for what stays. If the invariant is that neither party is performing, the exercise has delivered an essence.
+Change features deliberately and ask whether you are still considering the same kind of thing. If a feature seems indispensable, examine further possibilities rather than declaring the matter settled. A limit in your imagination may also need questioning.
+
+### For example
+
+Consider a promise made aloud, in writing, or through an interpreter. Then imagine a statement intended only as an account of the past, without a commitment. Ask which changes preserve a promise and why. This is a starting exercise, not a certificate that you have discovered its essence.
+
+## Sources
+
+- [Edmund Husserl, Ideas I, F. Kersten translation, §§3–4 and 70–71](https://www.finophd.eu/wp-content/uploads/2018/01/Husserl-Ideas-First-Book.pdf): individual and eidetic intuition, and free phantasy.
+- [Jaakko Belt, "Eidetic Variation: a Self-Correcting and Integrative Account", Axiomathes](https://link.springer.com/article/10.1007/s10516-021-09611-1): the interpretation of revisability used here.
+- Husserl, Ideas II (1952/1989): further reading.
+
+## Related concepts
+
+- [[Eidos]]: the essence sought in this account.
+- [[Essence and accident]]: an Aristotelian comparison, not an identical method.
+- [[Phenomenological description]]: a neighbouring philosophical method.
 
 ## Stories
 
@@ -66,4 +82,3 @@ Take something you think you know, like a good conversation. Imagine it going di
 
 - **[[Eidos|Eidos]]** (Husserl, Ideas I)
 - **[[Essence and accident|Essence and accident]]** (Aristotle, Metaphysics)
-
