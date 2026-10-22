@@ -196,3 +196,15 @@ Decisions:
 - Front-matter preserved; The capacity to be alone / B173 / P134 original wikilinks preserved.
 - Related concepts: Privacy regulation theory, The capacity to be alone (both existing originals).
 - No reciprocal proposals (fast-track bar).
+
+### Benevolence (fast-track, deg 6)
+
+Source opened (fetch_url, fresh):
+- https://www.gutenberg.org/files/4320/4320-h/4320-h.htm — Hume EPM (1751). Three passages fetched verbatim: opening sentence on benevolent or softer affections; the nothing-can-bestow-more-merit sentence; the GENERAL/PARTICULAR footnote.
+
+Decisions:
+- Fast-track eligibility: deg 6 < 15 confirmed.
+- Front-matter preserved; Agape / Schwartz original wikilinks preserved; PP032 Cited-in wikilink preserved; R051 principle connection preserved via Related (The free person loves all).
+- Diener and Seligman 2002 citation carried from the seed; not independently opened this session.
+- Related concepts: Humanity, The free person loves all (both existing).
+- No reciprocal proposals (fast-track bar).
