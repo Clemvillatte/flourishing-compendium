@@ -501,3 +501,9 @@ Round 54: 1 page, 2 quoted passages verified, no defects.
 1. **Acceptance and Commitment Therapy** — both ACT definition passages VERIFIED verbatim via the opened Hayes et al. 2006 PDF (both are correctly cited to that carrier; the APA citation on the page is for other content). PASS.
 
 Round 55: 1 page, 2 quoted passages verified, no defects.
+
+## Round 56
+
+1. **Affordances** — the Gibson 1979 definition VERIFIED verbatim via the opened Michigan PDF. PASS.
+
+Round 56: 1 page, 1 quoted passage verified, no defects.
