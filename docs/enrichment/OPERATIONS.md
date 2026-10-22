@@ -620,3 +620,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   habits" namespace) — the Aristotle NE II.1 habituation passage checked against the
   opened MIT Classics carrier (Ross translation): verbatim in full. Sample PASS.
   Thirty-eight samples this session, all PASS.
+- Supervisor verification sample 39 (2026-10-22 ~16:26 UTC): Cortisol awakening
+  response theory (random finished-band draw, w1j) — both Fries, Dettenborn &
+  Kirschbaum 2009 quotes (the CAR definition and the "exact function... not
+  clarified" line) checked against the opened Europe PMC abstract: verbatim.
+  Sample PASS. Thirty-nine samples this session, all PASS.
