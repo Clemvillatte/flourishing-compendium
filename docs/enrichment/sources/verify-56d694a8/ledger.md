@@ -234,3 +234,12 @@ Round 20: 3 pages, 3 quoted passages verified, no defects.
 3. **The moment of vision (Augenblick)** — all three quotes VERIFIED verbatim against the opened beyng.com pages (translator's note and "When resolute..." on p. 376; the Section 68 temporal characterization on p. 387 — both citation URLs correct). DEFECT: the Section 68 quote skipped the source's intervening sentence ("This term must be understood in the active sense as an ecstasis.") without an ellipsis — REPAIRED: "[...]" inserted. Page re-validated ok.
 
 Round 21: 3 pages, 5 quoted passages verified, 1 defect repaired.
+
+## Round 22 — morning sample continued
+
+1. **Planning fallacy** — the Buehler, Griffin & Ross 1994 title quote VERIFIED verbatim against the opened PDF. PASS.
+2. **Prospect theory** — both K&T 1979 abstract sentences VERIFIED verbatim via the opened IDEAS/RePEc record. PASS.
+3. **The absurd** — both Camus Myth of Sisyphus passages (the "divested of illusions" definition; the "essentially a divorce" line) VERIFIED verbatim against the opened Colorado PDF. PASS.
+4. **Physiological sigh (Balban et al., Stanford)** — both abstract sentences VERIFIED verbatim via the opened PMC article. PASS.
+
+Round 22: 4 pages, 6 quoted passages verified, no defects.
