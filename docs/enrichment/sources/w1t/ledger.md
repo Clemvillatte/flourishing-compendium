@@ -50,3 +50,15 @@ Decisions:
 - Front-matter preserved (git diff starts after the closing ---); Facets bullet preserved; original Family systems theory related-concept preserved; A113/S138 Cited-in wikilinks preserved.
 - Scope honesty: page carries the sample limitation (affluent, well-educated, Caucasian) and the sufficient-not-necessary caveat.
 - No reciprocal proposals (fast-track bar).
+
+### Autonomy-supportive management research (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC6133074/ — Slemp, Kern, Patrick, Ryan 2018 Motivation and Emotion. Full abstract fetched verbatim. Key figures: 754 correlations across 72 studies, 83 unique samples, N=32,870. Deci & Ryan 2000 self-determination theory account via PubMed search result.
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Seed citation "Deci and Ryan, 2000" resolved to the Psychological Inquiry 2000 record via PubMed; kept as second Sources line. Note: the seed names Deci and Ryan 2000; the openable primary record for the management claim is the Slemp et al. 2018 meta-analysis. Page carries both.
+- Front-matter preserved (git diff starts after the closing ---); D134/SO057 Cited-in wikilinks preserved.
+- Related concepts added (Autonomy-supportive leadership, Autonomous motivation, Controlled motivation, Autonomous versus controlled motivation — all resolve).
+- No reciprocal proposals (fast-track bar).
