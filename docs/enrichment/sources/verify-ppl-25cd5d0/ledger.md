@@ -205,3 +205,27 @@ actuality argument. Suggest the owner correct the locator to IX.8.
 2008 PDF (yorku.ca): the simulation-of-the-social-world sentence, the empathic-growth
 sentence (p. 181), the "trains us to extend our understanding" sentence, and "brings close
 attention to distant worlds that would otherwise remain unknown". No routed findings.
+
+## Round 8 (2026-10-22 ~12:22Z)
+
+### Dissipative structures (w1u, fast-track done)
+
+5 quoted passages checked, 5 PASS — the four Nobel Lecture quotes verified verbatim against
+a fresh fetch of the cited Nobel PDF (abstract sentence; coherent-molecules sentence;
+fluctuations/supermolecular-order passage; the three-linked-aspects sentence), and the 1977
+Nobel citation sentence verified verbatim against the Nobel Prize summary page. No routed
+findings.
+
+### Actual occasions (w1t, fast-track done)
+
+2 quoted passages checked, 2 PASS with minor normalisation notes — both verified against a
+fresh fetch of the cited Larval Subjects carrier (which itself quotes Process and Reality,
+p. 23):
+- The "final real things" passage matches word-for-word; the page uses spaced em dashes where
+  the blog prints unspaced dashes around "also termed 'actual occasions'".
+- The being/becoming passage matches word-for-word; the page prints "Its" where the blog has
+  "It's" (evident blog typo, page matches Whitehead's canonical wording), and the page drops
+  the blog's emphasis asterisks and bracket.
+SUGGESTION (not a defect): the carrier is a blog quoting the book; if a scholarly or
+publisher carrier for Process and Reality is available, it would strengthen the Sources line.
+Quotes themselves match the canonical Process and Reality wording.
