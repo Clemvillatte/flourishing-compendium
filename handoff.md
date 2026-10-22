@@ -1463,3 +1463,24 @@ NOTE for workers: git push over HTTPS is currently flaky from this sandbox
 (sideband disconnect); API-based pushes used instead. If push fails, retry or
 use the contents/trees API. Do not treat push failure as work loss — commits
 stay local.
+
+## Supervisor session part 2 (worker-sup-6dc18459, 11:55-12:01 UTC)
+
+- Standing requests closed: Hermeneutic-circle pair disposition CONFIRMED (keep both,
+  cross-linked — prior supervisor cc760750a precedent); P191/B040 repairs verified already
+  applied (2b08bd2ec, 83099bde5); SE074 alternative Legge carrier added (ratmachines
+  confirmed 403-redirecting, Pressbooks reproduction live and previously verified).
+- Flags disposition slice: cleared 7 resolved flags (p1t D190/P009/P033; w1f Self-compassion
+  + stale Natural-liberty; maintenance Virtue-ethics superseded by owner directive; p1u
+  B137 attribution reviewed — quotes carry opened carriers, validator ok). Routed to OWNER:
+  Y024 title causal framing (namespace change) and p1zze PP014 protected alias label;
+  p1u SCOPE_CORRECTION records reconciliation. Remaining flagged backlog ~1380 items.
+- Saturation: two backlink waves pushed (18 + 5 links to the four minted pages; 4
+  Related-concepts sections added to pages that lacked them). 7+4 pre-existing seed
+  validator FAILs confirmed unchanged by stash-compare both times. 3 stub pages
+  (Stress appraisal 7 words, Stress cycle completion 84, Unity of virtues) still thin —
+  they are queue items for their owning bands.
+- QC: independent sample of w1t's Seneca Letters 76 page — both quotes EXACT MATCH
+  vs the cited carrier. Verify worker (maintenance baton) running rounds in parallel.
+- Pushed via GitHub API (git push flaky from sandbox); race-retry loop with rebase
+  used for every push. Commit f54c52845 is the latest.
