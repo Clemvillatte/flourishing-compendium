@@ -20,3 +20,7 @@ The training is not resignation to everything but a sorting of what is up to us 
 - Epictetus, Enchiridion (Internet Classics Archive translation) ([classics.mit.edu](https://classics.mit.edu/Epictetus/epicench.html))
 
 - Spinoza, Ethics, Part V (echo noted in the seed; not quoted on this page)
+
+## Cited in philosophy parallels
+
+- [[S001 — Distinguish what is up to you from what is not]]
