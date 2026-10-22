@@ -12,3 +12,8 @@
   em-dashes and one workflow-language marker ("not opened") in the Sources line.
 - Degree check via `enrich_find.py neighbors`: 1 principle connection (E096) — under 15.
 - Validator --fast-track: ok.
+
+## Verification-pass fix (2026-10-22, T+52)
+
+- Contrast-staging sentence ("not X but Y") removed per the maintenance sweep pattern;
+  meaning kept; revalidated ok.

@@ -12,3 +12,8 @@
   Impermanence, Process philosophy, The seasons of illness, Value creation, Vipassana) —
   under 15, no fast cluster.
 - Validator --fast-track: ok.
+
+## Verification-pass fix (2026-10-22, T+52)
+
+- Contrast-staging sentence ("not X but Y") removed per the maintenance sweep pattern;
+  meaning kept; revalidated ok.

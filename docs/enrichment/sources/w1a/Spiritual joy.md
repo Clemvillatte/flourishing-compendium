@@ -11,3 +11,8 @@
 - Degree check via `enrich_find.py neighbors`: 1 principle connection (B118, deg 8) and 1
   thinker link (Aristotle) — under 15 for the concept itself.
 - Validator --fast-track: ok.
+
+## Verification-pass fix (2026-10-22, T+52)
+
+- Contrast-staging sentence ("not X but Y") removed per the maintenance sweep pattern;
+  meaning kept; revalidated ok.
