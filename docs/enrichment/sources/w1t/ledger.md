@@ -272,3 +272,15 @@ Decisions:
 - Related concepts: Suspension of the natural attitude, Constitution of meaning (both existing originals per neighbors).
 - Husserl Cartesian Meditations book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Buddha-nature (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://www.wisdomlib.org/buddhism/essay/buddha-nature-lankavatara-sutra/d/doc1145037.html — Wisdomlib. Full Tathagatagarbha Sutra opening passage fetched verbatim: klesas/Tathagata-wisdom passage; all-have-pure-Tathagatagarbha passage; exists-eternally-and-without-change passage. Nine-similes description also verified on the same page.
+
+Decisions:
+- Fast-track eligibility: deg 5 < 15 confirmed.
+- Front-matter preserved; Facets bullet preserved; D171/D127 Cited-in wikilinks preserved; the original empty "- " bullet preserved.
+- Related concepts: Original enlightenment, Tathata suchness, The mirror overturning (all existing originals per neighbors).
+- Seed citations (Tathagatagarbha Sutra; Mahayana, Tathagatagarbha Sutra) preserved.
+- No reciprocal proposals (fast-track bar).
