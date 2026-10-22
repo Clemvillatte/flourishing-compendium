@@ -419,3 +419,13 @@ cited carriers:
 No routed findings. (Side note, not routed: the modern Britannica page's own line "Pope Leo X,
 in the early 15th century" is internally inconsistent with the 1911 entry's Leo X dates
 1513-1521; the compendium page does not use that claim, so nothing to fix on the page.)
+
+## Round 15 (2026-10-22, performed ~12:22-12:23Z measured; raw-text method)
+
+### Shaping (Skinner) (w1s, fast-track done, commit 2afeee3c4)
+
+2 quoted passages checked, 2 PASS — both verified against an unprompted raw fetch of the cited
+B. F. Skinner Foundation PDF (Science and Human Behavior, chapter VI): the sculptor passage
+(p. 91) and the successive-approximations passage (pp. 92-93) are both present, as is the
+pigeon-and-spot worked example the page summarises (turning toward, approach, head movement,
+beak contact). No routed findings.
