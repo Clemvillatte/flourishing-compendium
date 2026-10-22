@@ -18,7 +18,7 @@ Husserl's term for what this principle describes is constitution. The Stanford E
 
 **Plain words** The world hands you events; what they mean for you is something your consciousness constitutes. Two people hear the same news; one hears disaster, the other hears a chance. That difference is worth noticing. When something feels like pure doom, ask: how did this come to mean disaster for me?
 
-*For example:* Two employees hear "the company is restructuring": one constitutes it as doom, one as the opening they've waited for. The announcement was the same; the meaning was manufactured — and the manufacturer is always on-site.
+*For example:* Two employees hear "the company is restructuring": one constitutes it as doom, one as the opening they've waited for. The announcement was the same; the meaning was constituted, not found.
 ## Stories
 
 - [[ST020 — Keith Jarrett Plays the Broken Piano|20. Keith Jarrett Plays the Broken Piano]]
