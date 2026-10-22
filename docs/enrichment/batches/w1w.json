@@ -73,7 +73,7 @@
   "The complexity of the soul",
   "The dignified body"
  ],
- "in_progress": null,
+ "in_progress": "The discipline of non-response",
  "flagged": {
   "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
   "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
@@ -114,5 +114,5 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-22T08:42:40+00:00"
+ "updated": "2026-10-22T08:42:47+00:00"
 }
