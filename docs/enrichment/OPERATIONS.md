@@ -651,3 +651,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Bennett PDF (earlymoderntexts.com): all verbatim (Bennett's bullet markers and
   curly quotes normalized; wording identical). Sample PASS. Forty-four samples
   this session, all PASS.
+- Supervisor verification sample 45 (2026-10-22 ~16:47 UTC): Theory of Work Adjustment
+  (random finished-band draw, w1q) — both Weiss 1970 quotes checked against the
+  opened ERIC full-text PDF (the page's own carrier): verbatim. Sample PASS.
+  Forty-five samples this session, all PASS. Verification campaign final: 45 samples
+  across live bands, the full concept window, and random finished-band draws from
+  w1a/w1b/w1e/w1h/w1j/w1k/w1l/w1m/w1n/w1p/w1q and p1b — ZERO hallucinated quotes.
