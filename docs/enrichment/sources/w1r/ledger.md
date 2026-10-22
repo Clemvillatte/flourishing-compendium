@@ -25,4 +25,4 @@ The two preceding commits (35de8dc6f and ae5677c8d) and the 04:39:10Z ledger ent
 - the ledger's fallback instruction was honoured: the BBS-1984 sentence was NOT used (no carrier was ever opened); the page builds on the opened 2024 carrier only, which describes the contextual subtheory in Sternberg's own terms (adaptation to the environment)
 - seed source "Sternberg, 2019" kept in ## Sources, marked unopened
 - validation clean (--fast-track; one warning: 1 Related-concepts line, grounded in the opened article's "practical and wisdom-based skills" phrase; more links without opened evidence would violate the no-hallucination rule)
-- note for the next worker: the previous holder's in_progress marker for Problem vs. mystery was cleared by this done transition; their QC hold for that item is recorded earlier in this ledger (commit 70ba403ea) — check it before reworking that page
+- correction: Problem vs. mystery was already in done by the previous holder (the state merge shows it complete); their QC hold for that item is recorded earlier in this ledger (commit 70ba403ea) — check it before any rework of that page
