@@ -11,9 +11,14 @@ result as JSON on stdout, plus the practice-type x time matrix on stderr.
 Run from the repo root:
     python3 scripts/cmp_gallery_data.py > /tmp/sessions.json
 
-Thumbnail policy (owner change 3): YouTube sessions get the mqdefault.jpg
-thumbnail (verified to load before splicing); audio-only sessions get the
-per-practice-type artwork in site/assets/academy/ (existing images).
+Thumbnail policy (owner change 3, revised): every session uses a generated
+640x400 image in site/assets/academy/sessions/ with the practice type and
+time burned into the pixels. The images are public-domain artworks (and
+period photographs) curated per session from the Public Domain Image Archive;
+academy/thumbnails-manifest.json records each session's source image URL,
+source title, and generated file, and is the source of truth for the mapping.
+This script reads that manifest; rows missing from the manifest fall back to
+the per-practice-type artwork in site/assets/academy/.
 
 Rows with no single-session duration (multi-lesson courses, paid academies)
 carry duration_minutes: null and keep their printed label; they appear in the
@@ -25,6 +30,11 @@ import sys
 from pathlib import Path
 
 PAGE = Path('academy/CMP1 — Contemplative & Mental Practices — A Year of Practice.md')
+
+MANIFEST = None
+_mp = Path('academy/thumbnails-manifest.json')
+if _mp.exists():
+    MANIFEST = {str(e['session_index']): e for e in json.load(_mp.open())}
 
 # shelf heading -> practice_type key (stable ids used by the app)
 SHELVES = [
@@ -109,6 +119,13 @@ def main():
         sec, length_txt = parse_length(length)
         guide, host = split_guide(guide_cell)
         yid = yt_id(url)
+        thumb = None
+        if MANIFEST is not None:
+            row = MANIFEST.get(str(len(sessions)))
+            if row:
+                thumb = row['generated_file']
+        if thumb is None:
+            thumb = f'https://i.ytimg.com/vi/{yid}/mqdefault.jpg' if yid else ART[cur[0]]
         sessions.append({
             'title': title.strip(),
             'practice_type': cur[0],
@@ -118,7 +135,7 @@ def main():
             'url': url,
             'guide': guide,
             'host': host or guide,
-            'thumbnail': f'https://i.ytimg.com/vi/{yid}/mqdefault.jpg' if yid else ART[cur[0]],
+            'thumbnail': thumb,
         })
 
     # matrix

@@ -997,16 +997,6 @@ body.academy-mode #stage { overflow-y:auto; }
 .apg-media { position:relative; aspect-ratio:16/10; background:var(--panel2); overflow:hidden; }
 .apg-media-img { width:100%; height:100%; object-fit:cover; display:block; transition:transform .35s ease; }
 .apg-card:hover .apg-media-img { transform:scale(1.04); }
-.apg-media::after {
-  content:''; position:absolute; inset:0; pointer-events:none;
-  background:linear-gradient(to top, rgba(10,9,4,.38), transparent 45%);
-}
-.apg-dur {
-  position:absolute; right:10px; bottom:10px; z-index:1;
-  font-size:10.5px; font-weight:600; letter-spacing:.03em; color:#f5f0dd;
-  background:rgba(12,11,6,.72); border:1px solid rgba(245,240,221,.18);
-  padding:3px 9px; border-radius:999px; backdrop-filter:blur(4px);
-}
 .apg-body { gap:5px; padding:12px 14px 14px; }
 .apg-title {
   font-family:var(--font-display); font-size:15px; font-weight:600;
