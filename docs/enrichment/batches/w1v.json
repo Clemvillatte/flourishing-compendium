@@ -73,7 +73,7 @@
   "Rationality research",
   "Ready-to-hand"
  ],
- "in_progress": null,
+ "in_progress": "Reciprocity norm theory Gouldner",
  "flagged": {
   "Objectless contemplation": "namespace check unresolved: no opened authoritative source defines 'objectless contemplation' as a term; page written at fast-track bar as the compendium's editorial label for the Cloud of Unknowing's prayer; held out of done pending supervisor disposition",
   "Knowing by acquaintance": "duplicate of existing concept 'Knowledge by acquaintance' (same seed: William James, Radical Empiricism; both files present in content/concepts). Held out of done pending supervisor disposition (merge or differentiate).",
@@ -83,6 +83,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:06:49+00:00",
+ "updated": "2026-10-22T11:07:00+00:00",
  "band_done": false
 }
