@@ -41,3 +41,8 @@
 - Sources opened: MIT Classics NE Book III (Ross translation, raw HTML fetched and parsed; verbatim III.3 formula and III.2 subtraction passages); Wikipedia Prohairesis (Greek term, Aristotle first use, Epictetus faculty).
 - S056 title verified ("Prohairesis as the core self"); cited-in completed with A054 and S056.
 - Validator: ok (fast-track). Advisor QC: not due (item 7).
+
+## Nihilism (fast-track, 2026-10-22)
+- Sources opened: IEP Pratt "Nihilism" (definition, existential nihilism definition, Nietzsche summary — all verbatim); marxists.org de Beauvoir Ethics of Ambiguity Part II (verbatim: "Nihilism is disappointed seriousness which has turned back upon itself." plus the nihilist paragraph).
+- E072 description rewritten to match its actual basis (Beauvoir, not "hazard of attention").
+- Validator: ok (fast-track). Advisor QC: not due (item 8).
