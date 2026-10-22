@@ -465,3 +465,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   research (w1u's recent output) — the Kluger & DeNisi 1996 abstract quote checked
   against the opened HUJI research-registry page (carries the abstract). Verbatim.
   Sample PASS. Six samples from four live bands (w1y x2, w1t, w1u x2, k1a) all PASS.
+- Supervisor verification sample 7 (2026-10-22 ~14:57 UTC): Expression as construction
+  (w1u's recent output) — the Dewey Art as Experience ch. IV quote checked against the
+  opened full-text carrier (ddong.narod.ru): verbatim, full passage including the
+  closing "a form and order they did not at first possess". Sample PASS. Seven
+  samples from four live bands (w1y x2, w1t, w1u x3, k1a) all PASS.
