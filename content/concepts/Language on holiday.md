@@ -18,6 +18,8 @@ The same diagnosis appears at §38 in the famous phrase "philosophical problems 
 ## Related concepts
 
 - [[Distrust names and labels]] — language idling vs doing work is the Wittgenstein counterpart of the Daoist warning; reciprocal of the Related entry
+- [[Negative capability]] — Keats's capacity for staying with "uncertainties, mysteries, doubts, without any irritable reaching after fact and reason"; B070's philosophy parallels pair it with the Wittgenstein diagnosis
+- [[Naming the passions]] — Spinoza's geometric definitions of the emotions are words doing their work: each passion fixed by a definition that answers to "certain definite causes"
 
 ## Sources
 

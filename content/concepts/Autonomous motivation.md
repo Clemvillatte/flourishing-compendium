@@ -24,4 +24,4 @@ The theory holds that "extrinsic motivation can vary greatly in the degree to wh
 ## Sources
 
 - [Ryan and Deci, "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions", Contemporary Educational Psychology 25(1), 2000 (open PDF)](https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_IntExtDefs.pdf) — identification, integration and the autonomous-variation passage
-- [Ryan and Deci, "On Happiness and Human Potentials", Annual Review of Psychology 52, 2001 (open PDF)](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf) — autonomous activity and vitality
+- [Ryan and Deci, "On Happiness and Human Potentials", Annual Review of Psychology 52, 2001 (open PDF)](https://selfdeterminationtheory.org/SDT/documents/2001_RyanDeci_Happiness.pdf) — autonomous activity and vitality (Nix et al. 1999 finding, p. 147)
