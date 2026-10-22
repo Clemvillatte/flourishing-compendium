@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ### The connection is the point
 
-Dewey's explanation centres on perceiving the relationship between an action and its consequences ([Dewey, Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm)). The relation is not automatic; acting and suffering the result are two different things until the doer grasps the tie between them:
+Dewey's explanation centres on perceiving the relationship between an action and its consequences ([Dewey, Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm)):
 
 > "The action and its consequence must be joined in perception. This relationship is what gives meaning; to grasp it is the objective of all intelligence." (Dewey, [Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm))
 
@@ -21,7 +21,7 @@ Dewey uses the burning-hand example to stress perceiving the relation between ac
 
 ### Where art enters
 
-Dewey's interest in the pair is aesthetic. The same relation of outgoing and incoming energy, he argues, is what a work of art organises ([Dewey, Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm)):
+In his account of art, Dewey describes the relation between outgoing and incoming energy ([Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm)):
 
 > "In short, art, in its form, unites the very same relation of doing and undergoing, outgoing and incoming energy, that makes an experience to be an experience." (Dewey, [Having an Experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm))
 
