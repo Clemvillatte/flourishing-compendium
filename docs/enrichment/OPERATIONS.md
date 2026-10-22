@@ -509,3 +509,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   cultivation — the Daodejing 64 quote (Legge) checked against the opened MIT
   Internet Classics Archive page: verbatim. Sample PASS. Fifteen samples this
   session, all PASS.
+- Supervisor verification sample 16 (2026-10-22 ~15:19 UTC): The portrait of the
+  sage — the Bhagavad Gita 12.13–14 quote (Mukundananda) checked against the opened
+  holy-bhagavad-gita.org carrier: verbatim. Sample PASS. Sixteen samples this
+  session, all PASS.
