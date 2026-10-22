@@ -1,13 +1,20 @@
 {
  "baton": "w1x",
  "agent": "worker-w1x-pplc-9c41f2e0",
- "clocked_in": "2026-10-22T03:40:58+00:00",
+ "clocked_in": "2026-10-22T04:01:47+00:00",
  "takeovers": [
   {
    "by": "worker-w1x-pplc-9c41f2e0",
    "at": "2026-10-22T03:31:20+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-w1x-pplc-9c41f2e0",
+   "at": "2026-10-22T04:01:47+00:00",
+   "from": "worker-w1x-pplc-9c41f2e0",
+   "reason": "stale (21 min)"
   }
- ]
+ ],
+ "released": false
 }
