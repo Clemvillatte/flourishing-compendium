@@ -218,3 +218,11 @@ Round 18: 4 pages, 6 quoted passages verified, no defects.
 4. **Wise speech criteria** — quote 1 (the Tathāgata criteria passage) VERIFIED verbatim via the opened dhammatalks.org MN 58. DEFECT in quote 2: the page printed "Because I have compassion for the child" where the Thanissaro translation prints "Because I have sympathy for the young boy" — REPAIRED (wording aligned to the opened carrier). Page re-validated ok.
 
 Round 19: 4 pages, 5 quoted passages verified, 1 defect repaired, 1 routed note.
+
+## Round 20 — morning sample continued
+
+1. **Cooperative game research** — both Axelrod quotes (the evolution-theory opening of the 1981 paper; the computer-chess recollection from the 2011 piece) VERIFIED verbatim against the opened PDFs. PASS.
+2. **Yoga physiology theory** — the Tyagi & Cohen conclusion sentence VERIFIED verbatim via the opened PMC article. PASS.
+3. **Dispositional awe / Dispositional mindfulness** — checked: no verbatim quoted passages on either page (prose-only pages); nothing to verify.
+
+Round 20: 3 pages, 3 quoted passages verified, no defects.
