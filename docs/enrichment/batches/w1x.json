@@ -45,7 +45,7 @@
   "Tuckman group development model",
   "Ultradian performance rhythms"
  ],
- "in_progress": null,
+ "in_progress": "Ultradian rhythms in attention",
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -56,6 +56,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:22:13+00:00",
+ "updated": "2026-10-22T08:22:25+00:00",
  "band_done": false
 }
