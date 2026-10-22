@@ -808,3 +808,25 @@ Quoted passages checked:
   reads "discovered the body as object and target of power" (no "an"). If the IEP prints
   the fragment with "an" the page is faithful to its cited carrier; if not, the fragment
   adds a word to the book text. Left for the owner to check against the IEP.
+
+## Round 33 (2026-10-22; inspection ~12:38-12:39Z; raw-text method)
+
+### The cunning of reason (w1ae, fast-track done, commit 902c5c226)
+
+1 quoted passage + 4 inline fragments checked, all PASS — verified against an unprompted
+raw fetch of the cited hegel.net PDF (Batoche Books printing of the Sibree translation):
+the "cunning of reason" blockquote and the fragments "inseparable from the active
+development of a general principle", "It remains in the background, untouched and
+uninjured", "individuals are sacrificed and abandoned", and "The Idea pays the penalty of
+determinate existence and of corruptibility, not from itself, but from the passions of
+individuals" are all present. The last fragment is split in the PDF text layer by an
+inserted page footer ("G.W.F. Hegel, The Philosophy of History, 48") at the page break;
+words identical. The page's "p. 48 in this printing" locator is consistent with that footer.
+No routed findings.
+
+### The expanding circle (w1s, fast-track done, commit 0dca786e0)
+
+3 quoted passages checked, 3 PASS — the circle-of-altruism blockquote, the "arbitrary to
+restrict the principle of equal consideration" sentence, and the "only justifiable stopping
+place" sentence all verified verbatim against an unprompted raw fetch of the cited Wikipedia
+article (which carries them as a blockquote from the book, p. 120). No routed findings.
