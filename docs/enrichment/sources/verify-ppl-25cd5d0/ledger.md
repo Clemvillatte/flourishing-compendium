@@ -703,3 +703,24 @@ life") and the architectonic claim for practical reason and affiliation are attr
 Creating Capabilities pp. 33-34, but the page's Sources section lists no opened carrier for
 the book; the two quotes were not verifiable against the page's listed sources this session.
 Suggest adding a book carrier (publisher page or verified excerpt) or marking them.
+
+## Round 26 (2026-10-22; inspection time not recorded precisely; committed between pulls at 12:29:56Z and push)
+
+### Attribution research (w1y, fast-track done, commit 0d198a7f4)
+
+1 quoted passage checked, 1 PASS — the fundamental-attribution-error definition verified
+against an unprompted raw fetch of the cited Ross 1977 chapter PDF (OCR-tolerant match: the
+text layer garbles punctuation around "(Heider; 1958)'and" but the words are identical). The
+page's Heider framing ("people behave like intuitive psychologists") is directly supported by
+the chapter's own opening ("man... is an intuitive psychologist who seeks to explain
+behavior"). No routed findings.
+
+### Teshuva (return/repentance) (w1s, fast-track done, commit 1c7fad102)
+
+2 quoted passages checked, 2 PASS — the Maimonides definition blockquote and the "He who
+knows the hidden" fragment verified verbatim against an unprompted raw fetch of the cited
+Sefaria page (Mishneh Torah, Repentance 2:2, Touger translation; the page's ellipses
+correctly elide the proof-verses). The "same situation" standard-of-proof framing is
+supported by the same chapter's 2:1 text. Minor note (not routed): the shuv/"turn back"
+etymology line has no carrier in the page's Sources; basic Hebrew lexicography, but under
+the zero-hallucination rule a one-line source (e.g. a dictionary entry) would close it.
