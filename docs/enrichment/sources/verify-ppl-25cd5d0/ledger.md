@@ -60,3 +60,22 @@ quotation defect.
 Advisor QC (first item, per protocol cadence): scoped pass on both pages; refinements applied —
 verbatim comparisons redone against unprompted carrier fetches; the two routed findings above
 were added; verdicts remain quotation-scoped and recorded as such.
+
+## Round 2 (T0+~47 min, 2026-10-22 ~12:45Z)
+
+### Early-warning-signal detection in prevention research (w1u, fast-track done, commit 8748c9e25)
+
+5 quoted passages checked, 5 PASS — all verified verbatim against a fresh fetch of the cited
+Cambridge Core page (Birchwood, Spencer & McGovern 2000, "Schizophrenia: early warning signs",
+APT 6(2)):
+- Blockquote "Investigations (e.g. Herz & Melville, 1980...)" — exact.
+- "'Dysphoric' symptoms (depressed mood, withdrawal...)" — exact.
+- "more accurately conceptualised as 'early warning signs' of psychotic relapse..." — exact
+  substring of the source sentence.
+- "actively use coping strategies to intervene in the onset of psychosis" — exact substring
+  ("...people with psychosis actively use coping strategies to intervene in the onset of
+  psychosis (Reference McCandless-Glimcher et al, 1986).").
+- "The 'early warning signs' approach to relapse prevention seeks to identify the earliest
+  signs..." — exact.
+No hallucinated quotes; no repairs needed; no routed findings. The owner's own "raw-verified"
+claim is independently confirmed.
