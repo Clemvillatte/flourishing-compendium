@@ -312,7 +312,7 @@ Monday's stand-up, and both count as points in one person's distribution.
 ---
 ## EXEMPLAR (kernels): K409 — Non-sleep deep rest (NSDR)
 
-The kernel pages are practice pages, not concept pages, so they follow a different standard from the concept exemplars above. The designated kernel exemplar is [K409 — Non-sleep deep rest (NSDR)](../../content/kernels/K409%20%E2%80%94%20Non-sleep%20deep%20rest%20(NSDR).md) (see the kpr ledger, docs/enrichment/sources/kpr/ledger.md, 2026-10-21 entry). It shows the standard in one page:
+The kernel pages are practice pages, not concept pages, so they follow a different standard from the concept exemplars above. The provisional exemplar candidate is [K409 — Non-sleep deep rest (NSDR)](../../content/kernels/K409%20%E2%80%94%20Non-sleep%20deep%20rest%20(NSDR).md) (see the kpr ledger, docs/enrichment/sources/kpr/ledger.md, 2026-10-21 entry), pending verification: its Evidence section still needs verbatim quotations with locators to meet this standard, and its guided version needs confirmation against the narrator's official channel. It shows the target standard in one page:
 
 ### The kernel standard, section by section
 
@@ -323,4 +323,4 @@ The kernel pages are practice pages, not concept pages, so they follow a differe
 - **Operationalises / Related concepts / Related kernels** sections tying the practice to the compendium's principles and concepts.
 - **Sources** with opened URLs and locators; per-item ledger entry in docs/enrichment/sources/kpr/ledger.md.
 
-QC-pending kernels (K418, K419, K112, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared.
+QC-pending kernels (K418, K419, K112, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared. No kernel is yet a verified exemplar: K409 is the candidate awaiting its own verification round (Evidence quotations with locators; guided-version narrator confirmation).
