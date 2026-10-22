@@ -28,7 +28,7 @@ The lines are your own domains in your own notebook; no guided recording is cite
 
 The disposition research: "Seven samples revealed negative correlations between maximization and happiness, optimism, self-esteem, and life satisfaction, and positive correlations between maximization and depression, perfectionism, and regret" ([Schwartz et al., 2002](https://www.ovid.com/journals/jpspy/abstract/00005205-200211000-00012~maximizing-versus-satisficing-happiness-is-a-matter-of), abstract). The cross-cultural follow-up found the same pattern where choice is abundant: "in societies where choice is abundant (i.e., U.S. and Western Europe), maximizers reported less well-being than satisficers, and this difference was mediated by experienced regret. However, in the non-western society (China), maximizing was unrelated to well-being" ([Roets, Schwartz and Guan, 2012](https://works.swarthmore.edu/cgi/viewcontent.cgi?article=1002&context=fac-psychology), abstract). And the paper states the puzzle the "enough" line answers: "although a tendency to maximize in everyday choices and decisions can lead to better objective outcomes, it reduces an individual's well-being" (same article).
 
-What the research does not cover: the studies measure dispositions and everyday consumer decisions, not pre-written sufficiency lines in life domains. The seed's claim that setting the line in advance prevents a moving goalpost is this practice's framing; what the studies show is that the people who keep searching fare worse in regret and well-being, and the China result says the pattern is not universal.
+What the research does not cover: the studies measure dispositions and everyday consumer decisions, not pre-written sufficiency lines in life domains. What the studies show is that the people who keep searching fare worse in regret and well-being, and the China result says the pattern is not universal.
 
 ## Operationalises
 
@@ -50,6 +50,7 @@ What the research does not cover: the studies measure dispositions and everyday 
 3. [[K240 — The weekly review|K240 The weekly review]] — where the lines get reread
 4. [[K147 — I am becoming reframes|K147 "I am becoming" reframes]] — the identity side of the same stop
 5. [[K188 — Friction audit|K188 Friction audit]] — removing the pull toward more
+6. [[K237 — See-the-small practice|K237 See-the-small practice]] — the perception the line depends on
 
 ## Sources
 

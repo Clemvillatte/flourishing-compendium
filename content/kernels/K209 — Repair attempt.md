@@ -49,6 +49,7 @@ What the research does not cover: the studies observe couples in conflict conver
 2. [[K218 — Perspective-getting|K218 Perspective-getting]] — asking instead of assuming the rift's meaning
 4. [[K366 — Reflective listening: guess the meaning|K366 Reflective listening]] — the in-conversation cousin
 5. [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]] — the staying-with skill behind all repair
+6. [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]] — the weekly structure that catches unhealed rifts
 
 ## Sources
 

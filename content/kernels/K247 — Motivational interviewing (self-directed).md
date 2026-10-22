@@ -18,7 +18,7 @@ When ambivalent about a change, borrow the interviewer's chair and sit in it you
 2. Ask the two ruler questions, and write the numbers: how important, and how confident you could do it.
 3. Ask the probes, in the clinical order. The article's examples: "Why did you not choose a lower number, like a three or a four?" and "What might it take to get you to a higher number, like a six or a seven?" (same article). Answered honestly, in writing, these are where your own case for the change comes from.
 4. Weigh both sides as the method does. MI treats ambivalence as the normal material: "a person-centered counseling style for addressing the common problem of ambivalence about change" (Miller and Rollnick, professional definition, via [BC Renal](https://www.bcrenal.ca/resource-gallery/Documents/What_is_MI.pdf)). Costs of staying, benefits of changing, and the reverse.
-5. Let the answer be a maybe. The questions explore ambivalence; they do not force a resolution, and a 4 that becomes a 6 across a month of probes is the method working.
+5. Let the answer be a maybe. The questions explore ambivalence; they do not force a resolution, and the method claims nothing about what the number does next.
 
 ## A guided version
 

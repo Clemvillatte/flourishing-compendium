@@ -49,6 +49,7 @@ What the research does not cover: both papers are conceptual and qualitative. Cu
 2. [[K303 — Sensory nature immersion|K303 Sensory nature immersion]] — the attention that notices the change
 3. [[K205 — Nature exposure|K205 Nature exposure]] — the standing contact that gives the losses their weight
 4. [[K232 — Life review|K232 Life review]] — reviewing chapters of a life; here, chapters of a place
+5. [[K348 — Name the loss|K348 Name the loss]] — the naming this schedule opens with
 
 ## Sources
 

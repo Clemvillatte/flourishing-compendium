@@ -28,7 +28,7 @@ The naming happens in your own words about your own places; no guided recording 
 
 The grief is real and documented: in the communities the authors studied, "grief and mourning were prominent and recurring themes as people struggled to make sense of the environmental changes wrought upon their loved home environments" (p. 276). In Nunatsiavut, "This grief emerged from the loss of the ability to travel on the land and ice for food and for participating in health-sustaining land-based activities such as hunting and fishing, and deep concern around how to feed one's family and continue to live a traditional Inuit life" (p. 277). And the witnessing matters: "To bear witness to ecological losses personally, or to the suffering encountered by others as they bear their own losses, is to be reminded that climate change is not just an abstract scientific concept" (p. 279).
 
-What the research does not cover: the article documents grief in affected communities; it does not test the effects of naming that grief, and the claim that naming motivates stewardship, which appears in some popular accounts, is not established by this source. The practice here rests on what the source does say: the grief is real, mourning connects, and it questions what we value.
+What the research does not cover: the article documents grief in affected communities; it does not test the effects of naming that grief, and the claim that naming motivates stewardship is not established by this source. The practice here rests on what the source does say: the grief is real, mourning connects, and it questions what we value.
 
 ## Operationalises
 
@@ -49,6 +49,7 @@ What the research does not cover: the article documents grief in affected commun
 2. [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]] — the general form of staying with loss
 3. [[K303 — Sensory nature immersion|K303 Sensory nature immersion]] — the attention that notices what was lost
 4. [[K137 — Language flexibility|K137 Language flexibility]] — the sentence-craft this naming uses
+5. [[K225 — Service and creation|K225 Service and creation]] — what the naming sometimes turns into
 
 ## Sources
 

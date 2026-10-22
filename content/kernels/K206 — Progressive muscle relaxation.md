@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K206** — Progressive muscle relaxation
 
-Systematically tense and release muscle groups, one at a time. The exercise's own script: "Progressive muscle relaxation is an exercise that relaxes your mind and body by progressively tensing and relaxation muscle groups throughout your entire body. You will tense each muscle group vigorously, but without straining, and then suddenly release the tension and feel the muscle relax. You will tense each muscle for about 5 seconds" ([UC Berkeley Law script](https://www.law.berkeley.edu/archive/files/Progressive_Muscle_Relaxation.pdf)). The release window of ten or so seconds is the practice's convention; the scripts vary.
+Systematically tense and release muscle groups, one at a time. The exercise's own script: "Progressive muscle relaxation is an exercise that relaxes your mind and body by progressively tensing and relaxation muscle groups throughout your entire body. You will tense each muscle group vigorously, but without straining, and then suddenly release the tension and feel the muscle relax. You will tense each muscle for about 5 seconds" ([UC Berkeley Law script](https://www.law.berkeley.edu/archive/files/Progressive_Muscle_Relaxation.pdf)). The release window is the practice's convention; scripts vary.
 
 ## Protocol
 
@@ -24,13 +24,13 @@ From the same script, quoted:
 
 ## A guided version
 
-This exercise has real recordings, and a recording is the normal way to learn the order of the groups. Dartmouth's Student Wellness Center offers it as a guided recording on its mindfulness page, with the stated aim "Learn to recognize when and where you hold tension in your body and how to effectively release it, allowing yourself to fully relax" ([Dartmouth](https://students.dartmouth.edu/wellness-center/wellness-mindfulness/mindfulness-meditation/guided-recordings/progressive-muscle-relaxation)); Psychology Tools publishes a therapy audio track with its script ([psychologytools.com](https://www.psychologytools.com/tools/pdf-tools/progressive-muscle-relaxation-audio)). The narrator identities are not verified here.
+This exercise has real recordings, the normal way to learn the order of the groups. Dartmouth's Student Wellness Center offers it as a guided recording on its mindfulness page, with the stated aim "Learn to recognize when and where you hold tension in your body and how to effectively release it, allowing yourself to fully relax" ([Dartmouth](https://students.dartmouth.edu/wellness-center/wellness-mindfulness/mindfulness-meditation/guided-recordings/progressive-muscle-relaxation)); Psychology Tools publishes a therapy audio track: "A guided exercise designed to reduce stress by systematically tensing and relaxing different muscle groups to promote a state of calm" ([psychologytools.com](https://www.psychologytools.com/tools/pdf-tools/progressive-muscle-relaxation-audio)). No narrator is named on either page.
 
 ## Evidence
 
 A systematic review of 46 publications from 16 countries covering more than 3402 adults concluded that "The results show that PMR are effective in reducing stress, anxiety, and depression in adults," and that "the efficacy of PMR is heightened when implemented in conjunction with other interventions, surpassing its standalone efficacy" ([Muhammad Khir et al., 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10844009/)). The review's overall reading: "there has been large amount of evidence that supports the efficacy of PMR in reducing stress, anxiety, and depression among adults" (same article).
 
-What the review does not establish: it is a systematic review of heterogeneous studies, many with healthcare workers, and it does not isolate how many sessions, which timing, or which order of groups. The five-second hold is a script convention, not a tested parameter. The claim that the exercise trains you to distinguish tension from relaxation is a wellness-center description, not a study finding.
+What the review does not establish: it is a systematic review of heterogeneous studies, many with healthcare workers, and it does not isolate how many sessions, which timing, or which order of groups. The five-second hold is a script convention, not a tested parameter. The noticing claim is a wellness-center description, not a study finding.
 
 ## Operationalises
 

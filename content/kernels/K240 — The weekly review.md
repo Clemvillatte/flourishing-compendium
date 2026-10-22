@@ -23,13 +23,13 @@ The GTD original runs in three phases, quoted from the official checklist:
 
 ## A guided version
 
-The review is your own lists at your own desk; the official GTD site publishes a guided audio walk-through of the checklist for those who want a voice, but no recording is cited for this kernel version here.
+The review is your own lists at your own desk; the official GTD site publishes a guided episode, with "Senior GTD Coach Meg Edwards tak[ing] you through the entire process step by step" ([GTD Episode 7](https://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/)), but no recording is cited for this kernel version here.
 
 ## Evidence
 
-The review's logic is maintenance, not therapy: Allen's system treats the weekly pass as what keeps a trusted system trustworthy, and the checklist above is its official form. No trial tests the weekly review as such; its warrant is the experience of a half-century of practitioners, not a study.
+The review's logic is maintenance, not therapy: Allen's system treats the weekly pass as what keeps a trusted system trustworthy, and the checklist above is its official form. The cited checklist does not establish efficacy.
 
-What the research does not cover: there is no experiment isolating the weekly review, and this page claims none. The kernel-category sweep, the firing-or-starving language, and the feed-the-hungriest rule are this practice's own.
+What the research does not cover: the cited checklist does not establish efficacy, and this page claims none. The kernel-category sweep, the firing-or-starving language, and the feed-the-hungriest rule are this practice's own.
 
 ## Operationalises
 
@@ -50,7 +50,9 @@ What the research does not cover: there is no experiment isolating the weekly re
 2. [[K225 — Service and creation|K225 Service and creation]] — a category that often needs feeding
 4. [[K155 — Enough lines|K155 "Enough" lines]] — reviewed yearly, not weekly
 5. [[K129 — Prediction log|K129 Prediction log]] — the quarterly read this review schedules
+6. [[K152 — Committed action|K152 Committed action]] — where the fed practice goes
 
 ## Sources
 
 - [David Allen Company, GTD Weekly Review official checklist PDF (gettingthingsdone.com)](https://gettingthingsdone.com/wp-content/uploads/2016/04/GTD-WeeklyReview.pdf)
+- [GTD Times, "Episode #7 – Guided GTD Weekly Review," July 21, 2015](https://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/)

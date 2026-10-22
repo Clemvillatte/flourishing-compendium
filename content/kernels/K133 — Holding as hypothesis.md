@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K133** — Holding as hypothesis
 
-Treat a strongly held belief as a hypothesis for a defined period (24 hours, a week) before acting on it. The window is this practice's own; the move inside it is the oldest debiasing trick in the literature, consider-the-opposite, and its instruction wording survives intact.
+Treat a strongly held belief as a hypothesis for a defined period (24 hours, a week) before acting on it. The window is this practice's own; the move inside it is a named debiasing strategy from the social-judgment literature, consider-the-opposite, and its instruction wording survives intact.
 
 ## Protocol
 

@@ -47,6 +47,7 @@ What the research does not cover: the study did not test weekly creative risks, 
 2. [[K329 — Revision loop|K329 Revision loop]] — what to do with the work after the risk
 3. [[K185 — The two-minute rule|K185 The two-minute rule]] — sizing the risk to two minutes
 4. [[K152 — Committed action|K152 Committed action]] — the values-side of the same exposure
+5. [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]] — the weekly structure the risk lives in
 
 ## Sources
 

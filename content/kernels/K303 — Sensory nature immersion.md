@@ -28,7 +28,7 @@ The immersion is the place itself; no guided recording is cited for it here.
 
 The theory: "Directed attention plays an important role in human information processing; its fatigue, in turn, has far-reaching consequences. Attention Restoration Theory provides an analysis of the kinds of experiences that lead to recovery from such fatigue. Natural environments turn out to be particularly rich in the characteristics necessary for restorative experiences" (Kaplan, 1995, abstract). The experiment: "Participants who went on a 90-min nature walk showed reductions in self-reported rumination and decreases in sgPFC activity, whereas those who went on an urban walk did not show these effects" ([Bratman et al., 2015](https://www.pnas.org/doi/pdf/10.1073/pnas.1510459112), p. 8568).
 
-What the research does not cover: the rumination result comes from one controlled experiment with a small sample of healthy adults, and the authors themselves note the findings are "consistent with, but do not yet prove, a causal link." The 20-to-30-minute sitting window is this practice's own; neither source tested it, and Kaplan's article is theory, not trial.
+What the research does not cover: the rumination result comes from one controlled experiment with healthy participants, and the paper's own Discussion states it plainly: "Our results indicate that nature experience reduced rumination and sgPFC activation" (p. 8568). The 20-to-30-minute sitting window is this practice's own; neither source tested it, and Kaplan's article is theory, not trial.
 
 ## Operationalises
 
@@ -50,6 +50,7 @@ What the research does not cover: the rumination result comes from one controlle
 3. [[K350 — Seasonal mourning|K350 Seasonal mourning]] — the same places, on the loss side
 4. [[K206 — Progressive muscle relaxation|K206 Progressive muscle relaxation]] — the body-based alternative
 5. [[K111 — Interoceptive awareness|K111 Interoceptive awareness]] — turning the attention inward, the other direction
+6. [[K102 — Body scan|K102 Body scan]] — the indoor cousin of the same noticing
 
 ## Sources
 

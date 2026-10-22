@@ -24,7 +24,7 @@ The clinical guide's seven steps, quoted:
 6. "Review the outcome and generalized learning;"
 7. "Build on the learning by planning follow-up experiments."
 
-The step most people skip is step 3, and the guide is blunt about it: "it is vital that patients make specific observable predictions about what they think will happen in a given situation (e.g. the prediction 'I will be boring' could be made more specific and observable by adding 'Other people will look away and stop speaking to me')" (same article). Write the prediction down before you act; the sentence "I cannot speak up" predicts something observable or it predicts nothing. The meetings example is this practice's own.
+The guide is blunt about the prediction step: "it is vital that patients make specific observable predictions about what they think will happen in a given situation (e.g. the prediction 'I will be boring' could be made more specific and observable by adding 'Other people will look away and stop speaking to me')" (same article). Write the prediction down before you act; the sentence "I cannot speak up" predicts something observable or it predicts nothing. The meetings example is this practice's own.
 
 ## A guided version
 

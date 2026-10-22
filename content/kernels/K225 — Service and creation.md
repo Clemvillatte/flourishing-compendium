@@ -28,7 +28,7 @@ The act is your own hands on your own week; no guided recording is cited for it 
 
 The longitudinal panel (585 retirement-community elders, two waves three years apart): "altruistic attitudes, volunteering, and informal helping behaviors make unique contributions to the maintenance of life satisfaction, positive affect and other well being outcomes considered in this research," with the effects landing "primarily in the positive indicators of psychological well-being, but are not significantly associated with the negative outcomes" ([Kahana et al., 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3910233/)). The help-to-life-satisfaction link held across waves: "volunteering (*p* = .021) and informal helping (*p* = 0.045) at Wave 2, significantly influences life satisfaction at Wave 5" (same article). And the parent-support study adds the perception clause: "Parents who found giving support to be highly rewarding had lower levels of depressive symptoms when giving high amounts of tangible support" ([Bangerter et al., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4592331/)).
 
-What the research does not cover: the studies measure helping among older adults and support given by parents to grown children; they do not test a weekly service-or-creation practice, and the timeline framing (outliving your mood, outlasting the week) is this page's own. The finding that helping tracks the positive indicators and not the negative ones is worth keeping in view: this practice adds brightness; it is not a treatment for what is dark.
+What the research does not cover: the studies measure helping among older adults and support given by parents to grown children; they do not test a weekly service-or-creation practice, and the timeline framing (outliving your mood, outlasting the week) is this page's own. The finding that helping tracks the positive indicators and not the negative ones is worth keeping in view: these studies speak to positive states and do not address what the practice might do for darker ones.
 
 ## Operationalises
 
@@ -49,6 +49,7 @@ What the research does not cover: the studies measure helping among older adults
 3. [[K327 — Creative risk-taking|K327 Creative risk-taking]] — the creation half at higher stakes
 4. [[K240 — The weekly review|K240 The weekly review]] — where the weekly act gets its slot
 5. [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]] — the same weekly rhythm, turned inward
+6. [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]] — the staying-with side of service
 
 ## Sources
 
