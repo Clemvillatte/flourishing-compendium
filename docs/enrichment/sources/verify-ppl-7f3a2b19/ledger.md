@@ -419,3 +419,26 @@ per clock proximity; no edits to live-band pages)
 Round 16 totals: 3 pages PASS, 1 routed. FINAL SESSION VERIFICATION TOTALS: 64 pages sampled
 across 16 rounds; 57 PASS or better; 6 defects + 1 attribution repaired; 8 findings routed;
 1 confabulated finding withdrawn; 2 process errors corrected. Verification closed.
+
+## Round 17 — live-band pages, READ-ONLY, SESSION CLOSING ROUND (2026-10-22, executed
+~12:08-12:10Z per clock proximity; no edits to live-band pages)
+
+- AFFORDANCES (w1t) — ROUTED, CARRIER UNREACHABLE: the cited umich Gibson 1979 ch. 8
+  excerpt PDF fails to connect (curl 000); the quotation could not be re-verified against
+  the cited carrier this pass. Routed to the w1t owner: re-point to an accessible carrier.
+- ADEQUATE IDEA (w1t) — ROUTED, MINOR PUNCTUATION: the Spinoza Ethics II Definition IV
+  passage is verbatim vs the cited Gutenberg 3800 text except the page prints
+  "Explanation. I say intrinsic" where the source prints "Explanation.\u2014I say intrinsic"
+  (the source's em-dash after "Explanation." is dropped). One-character repair class;
+  routed to the w1t owner.
+- ACCEPTANCE AND COMMITMENT THERAPY — no blockquotes on the page; nothing to quote-verify
+  this pass (not a finding).
+- ADIAPHORA, THE INDIFFERENTS (w1t) — PASS 1/1: the Epictetus Enchiridion 1 (Carter)
+  passage verbatim vs the cited MIT Classics page (opened; consistent with the w1t
+  worker's own ledger record).
+
+Round 17 totals: 1 PASS, 2 routed, 1 no-blockquote note. ABSOLUTE FINAL SESSION TOTALS:
+68 pages sampled across 17 rounds; 58 PASS or better; 6 defects + 1 translator attribution
+repaired (all under baton claims, validated, pushed); 10 findings routed to owners/
+supervisor; 1 confabulated finding withdrawn with git evidence; 2 process errors corrected
+in the record. All session work pushed to origin/main; all batons released.
