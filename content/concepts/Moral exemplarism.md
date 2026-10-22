@@ -15,7 +15,7 @@ Moral exemplarism is Linda Zagzebski's theory that morality is best built from t
 
 The theory names its exemplars rather than analyzing them: "we point directly to exemplars of goodness like Confucius, Socrates, Jesus, Gandhi, Nelson Mandela, Holocaust rescuers, Jean Vanier, or many ordinary people who are known only to a small circle of acquaintances." Admiration is both how we find them and how the theory gets its practical purchase: "A virtue is a trait we admire in an exemplar." The definitions run downstream from there. "An admirable life is a life lived by an exemplar. A desirable life (a life of flourishing) is a life desired by an exemplar."
 
-The full book, Exemplarist Moral Theory (Oxford University Press, 2017), divides exemplars into heroes, saints, and sages, and treats emulation — learning the motive, not just the act — as the natural process of moral development.
+The full book, Exemplarist Moral Theory (Oxford University Press, 2017), divides exemplars into heroes, saints, and sages, and treats emulation, learning the motive and not just the act, as the natural process of moral development.
 
 The compendium's [[B037 — Choose your companions wisely (kalyanamitta)]] is the Buddhist twin, and [[D135 — Teach without words]] names the pedagogical claim that follows: the best instruction is a person worth copying.
 
