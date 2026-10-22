@@ -95,5 +95,12 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:14:04+00:00"
+ "updated": "2026-10-22T14:18:29+00:00",
+ "band_done": false,
+ "flagged": {
+  "content/kernels/K144 — The chariot analysis.md": "Reopened for QC: QC correction: advisor round-2 repairs",
+  "content/kernels/K215 — Assertiveness and boundaries.md": "Reopened for QC: QC correction: advisor round-2 repairs",
+  "content/kernels/K223 — Meaning audit.md": "Reopened for QC: QC correction: advisor round-2 repairs",
+  "content/kernels/K228 — Awe practice.md": "Reopened for QC: QC correction: advisor round-2 repairs"
+ }
 }

@@ -14,12 +14,12 @@ A community of inquiry is a group that takes a question and works on it together
 
 ### Protocol
 
-Steps 1 to 3 are Lipman's session as described in the opened account (Kizel, 2016); step 4 is the compendium's suggestion for using the method outside a classroom.
+Steps 1 to 3 are Lipman's session as described in Kizel's account; step 4 is the compendium's suggestion for using the method outside a classroom.
 
 1. Sit in a circle and read or watch a text or other prompt, a passage, a clip or a drawing, chosen because it raises questions.
 2. Collect the questions the prompt raises for each person, then decide together which question to discuss.
 3. Discuss the chosen question in Lipman's manner: students listen to one another with respect, build on one another's ideas, challenge one another to supply reasons for otherwise unsupported opinions, assist each other in drawing inferences from what has been said, and seek to identify one another's assumptions.
-4. For an everyday decision, two other people and one honest question are a working minimum. The scale is editorial; Lipman's method was built for classrooms, and the opened sources do not test it at this scale.
+4. For an everyday decision, two other people and one honest question are a working minimum. The scale is editorial; Lipman's method was built for classrooms, and the sources do not test it at this scale.
 
 ### Evidence
 
@@ -57,5 +57,5 @@ Practises the concept: [[Community|Community of inquiry]]
 
 ## Sources
 
-- [Kizel, A. (2016). "Philosophy with Children as an educational platform for self-determined learning," Cogent Education — opened this session; carries the Lipman 1991 p. 20 quotation and the session description](https://www.tandfonline.com/doi/full/10.1080/2331186X.2016.1244026)
-- [Mercier, H. & Sperber, D. (2011). "Why do humans reason? Arguments for an argumentative theory," Behavioral and Brain Sciences 34(2), 57-74 — abstract opened this session via PubMed](https://pubmed.ncbi.nlm.nih.gov/21447233/)
+- [Kizel, A. (2016). "Philosophy with Children as an educational platform for self-determined learning," Cogent Education — carries the Lipman 1991 p. 20 quotation and the session description](https://www.tandfonline.com/doi/full/10.1080/2331186X.2016.1244026)
+- [Mercier, H. & Sperber, D. (2011). "Why do humans reason? Arguments for an argumentative theory," Behavioral and Brain Sciences 34(2), 57-74 — abstract via PubMed](https://pubmed.ncbi.nlm.nih.gov/21447233/)
