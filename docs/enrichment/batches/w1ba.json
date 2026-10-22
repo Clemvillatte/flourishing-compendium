@@ -2,12 +2,13 @@
  "batch": "w1ba",
  "done": [
   "Midlevel terms",
-  "Variation-selection-retention"
+  "Variation-selection-retention",
+  "Context sensitivity"
  ],
- "in_progress": "Context sensitivity",
+ "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:15:39+00:00",
+ "updated": "2026-10-22T14:16:17+00:00",
  "band_done": false
 }

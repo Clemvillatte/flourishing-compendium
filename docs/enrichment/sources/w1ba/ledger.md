@@ -27,3 +27,10 @@
    claims). Sources row corrected per verify-pbt1's routed finding: the quote carrier is
    the book text (Scribd full-text copy, verified by that pass), not the publisher's
    page, which carries bibliographic data only. Validate ok.
+3. **Context sensitivity** — Ch 7 definition quote already verified verbatim by the
+   verify-pbt1 pass (opened Scribd carrier; their ledger). Body expanded past 150 at the
+   normal-track bar using the verified Ch 3 EEMM classification quote (carried on the
+   EEMM page's own record, supervisor-verified per verify-pbt1's note) plus interpretive
+   prose (the "not insight for its own sake" paragraph is gloss, no new factual claims).
+   Sources row re-pointed to the actual quote carrier per verify-pbt1's routed finding.
+   Validate ok.
