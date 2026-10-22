@@ -19,7 +19,8 @@
   "Liberality",
   "Prospective memory",
   "Placebo effects",
-  "Moral dilemma research"
+  "Moral dilemma research",
+  "Justice sensitivity"
  ],
  "in_progress": null,
  "flagged": {
@@ -28,6 +29,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T07:22:58+00:00",
+ "updated": "2026-10-22T07:23:28+00:00",
  "band_done": false
 }

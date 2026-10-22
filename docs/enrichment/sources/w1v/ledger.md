@@ -77,3 +77,7 @@
 - Note: PubMed abstract rendering contains a typo ("more consistent that") — avoided quoting that sentence; only clean contiguous sentences quoted.
 - Front-matter error (Letter P for Letter M) caught and fixed before save; validated against original front-matter.
 - Validator: ok (fast-track). Advisor QC: not due (item 14).
+
+## Justice sensitivity (fast-track, 2026-10-22)
+- Source opened: Wikipedia Justice sensitivity (verbatim definition; four-perspectives sentence). Schmitt et al. 2005 kept as seed citation only (not opened).
+- Validator: ok (fast-track). Advisor QC: not due (item 15).
