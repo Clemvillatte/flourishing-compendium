@@ -1,0 +1,13 @@
+{
+ "baton": "k1a",
+ "agent": "supervisor-a3b0be8e",
+ "clocked_in": "2026-10-22T13:35:25+00:00",
+ "takeovers": [
+  {
+   "by": "supervisor-a3b0be8e",
+   "at": "2026-10-22T13:35:25+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
