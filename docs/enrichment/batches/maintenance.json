@@ -2,13 +2,14 @@
  "batch": "maintenance",
  "done": [
   "Flourishing scale",
-  "Logotherapy"
+  "Logotherapy",
+  "Ego development"
  ],
- "in_progress": "Ego development",
+ "in_progress": null,
  "flagged": {
   "Virtue ethics": "existing content/concepts/Virtue.md covers it (mean, habituation, Anscombe, MacIntyre, VIA); separate Virtue ethics page would duplicate — owner decision"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T06:04:51+00:00"
+ "updated": "2026-10-22T06:10:59+00:00"
 }
