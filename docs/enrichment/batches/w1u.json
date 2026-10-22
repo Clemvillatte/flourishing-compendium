@@ -47,7 +47,10 @@
   "Illusion of explanatory depth",
   "Interoceptive inference",
   "Incubation",
-  "Future self-continuity"
+  "Future self-continuity",
+  "Fluency-driven illusory truth",
+  "Inattentional blindness",
+  "Genealogy"
  ],
  "in_progress": null,
  "flagged": {
@@ -67,9 +70,12 @@
   "Illusion of explanatory depth": "fast-track §1a: Rozenblit & Keil 2002 abstract, procedure and finding sentences quoted verbatim from opened Yale CogDevLab full-text PDF; Related lines for Overconfidence effects, Epistemic humility, The illusion of transparency; original citation lines preserved",
   "Interoceptive inference": "fast-track §1a: Seth 2013 abstract and concluding-remarks passages quoted verbatim from opened UCL FIL full-text PDF; Related lines for Predictive processing and Embodied self",
   "Incubation": "fast-track §1a: Sio & Ormerod 2009 abstract moderator sentences quoted verbatim from opened full-text PDF (gwern mirror); synthesis restricted to abstract-level claims; original citation lines (Kounios & Beeman, Baird, Poincaré) preserved in Sources; AT036 Related line preserved",
-  "Future self-continuity": "fast-track §1a: Ersner-Hershfield 2009 abstract quoted verbatim from opened author research page; Related line added for Temporal discounting; Hershfield 2011 original line preserved"
+  "Future self-continuity": "fast-track §1a: Ersner-Hershfield 2009 abstract quoted verbatim from opened author research page; Related line added for Temporal discounting; Hershfield 2011 original line preserved",
+  "Fluency-driven illusory truth": "fast-track; Fazio 2020 Collabra PDF opened, abstract quoted verbatim (two sentences incl. 'prior knowledge does not protect'); seed citation line and parallels preserved; fluency-vs-knowledge distinction kept honest.",
+  "Inattentional blindness": "fast-track; Simons & Chabris 1999 abstract verified via author's chabris.com publications page, two sentences quoted verbatim; similarity/difficulty and spatial-proximity findings from abstract; seed Related [[Attention]] line preserved; duplicate seed citation line deduplicated.",
+  "Genealogy": "fast-track; Nietzsche On the Genealogy of Morals Preface §3 quoted verbatim from Gutenberg full text (Samuel trans. 1913); translation noted; E089 seed link preserved after validator caught removal; added E103/E106/R050 parallels and hermeneutics-of-suspicion Related."
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-22T14:11:18+00:00"
+ "updated": "2026-10-22T14:13:39+00:00"
 }
