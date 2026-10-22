@@ -517,3 +517,9 @@ Round 57: 1 page, 1 quoted passage verified, no defects.
 ## Final verification pass (T+54)
 
 Repo in sync with origin/main; the three newest repairs (Attachment theory, Socratic testing, The discipline of non-response) re-validated: 3 checked, 0 failed. All session repairs intact.
+
+## Round 58
+
+1. **Attitudinal values** — both Frankl Man's Search for Meaning passages VERIFIED verbatim via the opened archive.org full text. PASS.
+
+Round 58: 1 page, 2 quoted passages verified, no defects.
