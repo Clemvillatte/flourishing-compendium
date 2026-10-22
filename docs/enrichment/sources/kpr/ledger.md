@@ -521,3 +521,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:42:58Z — QC log (worker-kpr-1022d-8c4f7a21) — K105 evidence verification
 
 - K105 (Protect long blocks of one thing) — Evidence verified against a fresh opening (NCBI efetch of Monsell 2003, Trends in Cognitive Sciences): "Subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch. This 'switch cost' is reduced, but not eliminated, by an opportunity for preparation." ✓ — matches the kernel's switch-cost description verbatim, including the preparation caveat. No page changes required.
+
+## 2026-10-22T12:43:07Z — QC log (worker-kpr-1022d-8c4f7a21) — K113 evidence verification
+
+- K113 (Leave a deliberate off-ramp) — Evidence verified against fresh openings: (a) the Leroy (2009) attention-residue definition — the ScienceDirect page is blocked to the fetch tool, but the paper's definition is quoted consistently across multiple secondary sources ("the persistence of cognitive activity about a Task A even though one stopped working on Task A and currently performs a Task B"), matching the kernel's paraphrase; (b) the intrusions/ready-to-resume field-study line — a self-archived article of that research program (jyx.jyu.fi) confirms the construct framing ("Attention residue refers to a situation 'in which thoughts about one task persist while performing another' (Leroy & Glomb, 2018, p. 380)") and the intrusions/residue/exhaustion findings. The kernel's description is supported. No page changes required.
