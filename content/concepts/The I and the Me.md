@@ -30,7 +30,7 @@ The compendium's use is a practice of placement: when the story of self feels fi
 
 ## Sources
 
-- Mead, George Herbert. Mind, Self and Society (1934), Section 22. [Section text](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_22.html)
+- Mead, George Herbert. Mind, Self and Society (1934), Section 22. [Section text](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_22.html); [full book PDF, Internet Archive](https://archive.org/details/mead-1934)
 - Mead, Mind, Self and Society
 
 ## Cited in philosophy parallels

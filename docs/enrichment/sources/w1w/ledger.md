@@ -704,3 +704,24 @@
   inside chapter V - the page claims no locator for it, so no change needed there.
 - Repair applied: inline citation and Sources row changed ch. 5 -> ch. 4.
 - Validator: 1 checked, 0 failed. State: reopen -> done.
+
+## Repair pass — carrier accessibility (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~12:02Z)
+
+- Trigger: the two verify-8d4e2f60 carrier-accessibility findings routed to the w1w owner.
+- THE I AND THE ME — re-verified both Mead quotes first-hand against the Internet Archive
+  full-book PDF of Mind, Self and Society (1934) (archive.org/details/mead-1934; direct
+  ia601500.us.archive.org copy): "The 'I' both calls out the 'me' and responds to it. Taken
+  together they constitute a personality as it appears in social experience." and "The 'I'
+  reacts to the self which arises through the taking of the attitudes of others." — both
+  verbatim (curly-quote forms). Confirmed the cited brocku carrier returns only a
+  Cloudflare challenge shell to automated fetches. Repair: added the Internet Archive
+  full-book PDF link alongside the original Section 22 citation in Sources (original
+  citation retained).
+- TACIT KNOWLEDGE RESEARCH — re-verified all four Polanyi quotes first-hand against a full
+  text PDF of The Tacit Dimension (1966): all four verbatim (one residual, minor: the page
+  embeds "this very act of communication displays a knowledge that we cannot tell"
+  mid-sentence with a lowercase 'this' where the book prints 'This' — a mid-sentence casing
+  normalization, left for the owner's judgment). Repair: added the Internet Archive book-scan
+  link (archive.org/details/tacitdimension0000pola) alongside the original excerpt citation
+  in Sources (original citation retained).
+- Validator: 2 checked, 0 failed.
