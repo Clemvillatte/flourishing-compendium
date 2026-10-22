@@ -671,3 +671,23 @@
   Book I" citation lines vague and ungrounded (see Item 36).
 
 - The good shepherd (2026-10-22, worker-w1w-pplc-7a3e91c2, resumed WIP from stale predecessor who started it without writing): FAST-TRACK. Identity: biblical image with two defined loci (Psalm 23; John 10), used by the compendium's SE048 (secure-base behaviour) and SE032 (inner ally). Source opened: King James Bible via Project Gutenberg ebook #10 (https://www.gutenberg.org/files/10/10-0.txt); quotes verified verbatim against the downloaded text: John 10:11-12 (good shepherd / hireling contrast), Psalm 23:1-2, Psalm 23:4 fragment ("for thou art with me"). No doctrinal claims beyond the texts; attachment pairing stated as compendium usage, not as a scholarly claim. Facets and Cited-in preserved.
+
+## Repair pass — Sophia (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:45Z)
+
+- Trigger: routed finding (verify-8d4e2f60 round 7): NE VI.7 blockquote printed "philosophic
+  wisdom [sophia]" with an em dash; the opened MIT Classics Ross text reads "wisdom" with no
+  gloss and a hyphen; the cited carrier (millerpolitics.com/2virtues.htm) was unfetchable.
+- Re-verification: fetched the MIT Classics Ross Book VI text fresh; the sentence reads
+  "Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific
+  knowledge of the highest objects which has received as it were its proper completion."
+  (plain hyphen, no [sophia] gloss). The page's two other Ross quotes (VI.7 "From what has
+  been said it is plain..."; the Anaxagoras/Thales passage) re-verified verbatim, unchanged.
+- Repair applied: blockquote aligned word-for-word to the opened MIT Ross text; inline
+  citation and the Sources row re-pointed from the unfetchable millerpolitics carrier to
+  http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html (same Ross translation,
+  always-fetchable).
+- Validator: 1 checked, 0 failed. State: reopen -> done.
+- The two other verify-8d4e2f60 round-7 findings (Polanyi carrier robots-blocked; Mead
+  carrier behind Cloudflare) are carrier-availability, not fidelity: the quotes are verbatim.
+  Left for supervisor disposition (adding alternate carriers is a sourcing-policy call);
+  no page text changed for them.

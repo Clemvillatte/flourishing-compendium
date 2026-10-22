@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-Sophia (Greek: theoretical or philosophic wisdom) is, in Aristotle's catalogue of the virtues of thought, the intellectual virtue that knows the necessary and eternal. The seed's definition stands, and Book VI of the Nicomachean Ethics gives it a precise shape: it is not one faculty but a union. "Therefore philosophic wisdom [sophia] must be intuitive reason combined with scientific knowledge—scientific knowledge of the highest objects which has received as it were its proper completion." ([Aristotle, Nicomachean Ethics VI.7, tr. Ross](https://www.millerpolitics.com/2virtues.htm))
+Sophia (Greek: theoretical or philosophic wisdom) is, in Aristotle's catalogue of the virtues of thought, the intellectual virtue that knows the necessary and eternal. The seed's definition stands, and Book VI of the Nicomachean Ethics gives it a precise shape: it is not one faculty but a union. "Therefore wisdom must be intuitive reason combined with scientific knowledge-scientific knowledge of the highest objects which has received as it were its proper completion." ([Aristotle, Nicomachean Ethics VI.7, tr. Ross](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
 
 ### What sophia knows
 
@@ -23,7 +23,7 @@ The object of sophia is the highest by nature, not the most useful to us: "From 
 
 ## Sources
 
-- Aristotle, Nicomachean Ethics, Book VI, tr. W. D. Ross. [Text of Book VI](https://www.millerpolitics.com/2virtues.htm)
+- Aristotle, Nicomachean Ethics, Book VI, tr. W. D. Ross. [Text of Book VI](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)
 - [Wikipedia Sophia](https://en.wikipedia.org/wiki/Sophia) (kept from seed)
 
 ## Cited in philosophy parallels
