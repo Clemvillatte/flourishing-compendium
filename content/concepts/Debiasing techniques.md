@@ -7,19 +7,19 @@ file: "Debiasing techniques"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Debiasing techniques are procedures for counteracting systematic errors of judgment. Richard Larrick's review chapter "Debiasing" (2004) sorts the attempts into motivational strategies (incentives, accountability), cognitive strategies (rules such as consider-the-opposite, training in statistical principles) and technological fixes that restructure the decision itself ([Larrick, Debiasing, ch. 16](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)). The common finding across the field is that biases rarely yield to willpower alone; they yield to procedures that change how the judgment is made.
+Debiasing techniques are procedures for counteracting systematic errors of judgment. Richard Larrick's review chapter "Debiasing" (2004) sorts the attempts into motivational strategies (incentives, accountability), cognitive strategies (rules such as consider-the-opposite, training in statistical principles) and technological fixes that restructure the decision itself ([Larrick, Debiasing, ch. 16](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)).
 
 ### Consider the opposite
 
-The best-attested general strategy in Larrick's review is also the simplest, and it has reduced overconfidence, hindsight bias and anchoring effects in experimental tests ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)):
+Larrick presents consider-the-opposite as a simple but general strategy, and reports that it has been effective at reducing overconfidence, hindsight biases and anchoring effects in the tests he reviews ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)):
 
-> "The strategy consists of nothing more than asking oneself, 'What are some reasons that my initial judgment might be wrong?'" (Larrick, [Debiasing](https://web.stanford.edu/~knutson/jdm/larrick04.pdf))
+> "The strategy consists of nothing more than asking oneself, 'What are some reasons that my initial judgment might be wrong?'" (Larrick, [Debiasing, ch. 16, Cognitive Strategies section](https://web.stanford.edu/~knutson/jdm/larrick04.pdf))
 
-It works, Larrick explains, by expanding an overly narrow sample of evidence to include what a one-sided memory search skipped ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)).
+It works, he explains, by expanding an overly narrow sample of evidence and making it more representative ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)).
 
 ### Accountability and training
 
-A second motivational lever is making people answerable for their decisions. Larrick reports that "the principal mechanism by which accountability improves decision making is pre-emptive self-criticism": people anticipate the flaws in their own arguments before anyone else can raise them ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)). Training can also work in one shot: two longitudinal experiments by Morewedge and colleagues found that a single session of playing a computer game or watching an instructional video "produced medium to large debiasing effects immediately" that "persisted at least 2 months later", across six biases including confirmation bias and anchoring ([Morewedge et al. 2015, full text](https://clsbe.lisboa.ucp.pt/system/files/assets/files/2016-paper-carey-morewedge.pdf)).
+A second motivational lever is making people answerable for their decisions. Larrick writes: "The principal mechanism by which accountability improves decision making is pre-emptive self-criticism" — people anticipate the flaws in their own arguments before anyone else can raise them ([ibid.](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)). Training can also work in one shot: two longitudinal experiments by Morewedge and colleagues found that a single session of playing a computer game or watching an instructional video "produced medium to large debiasing effects immediately" that "persisted at least 2 months later", across six biases including confirmation bias and anchoring ([Morewedge et al. 2015, full text](https://clsbe.lisboa.ucp.pt/system/files/assets/files/2016-paper-carey-morewedge.pdf)).
 
 ### In the compendium
 
@@ -31,7 +31,7 @@ The compendium pairs these findings with principles that turn them into practice
 
 ## Related concepts
 
-- [[Risk literacy]] — the knowledge base the cognitive strategies draw on
+- [[Risk literacy]] — listed for comparison
 - [[The fourth rule of method]] — listed for comparison
 
 ## Sources
