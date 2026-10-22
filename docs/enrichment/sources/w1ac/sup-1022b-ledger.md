@@ -105,3 +105,9 @@
 - Verbatim: "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)."
 - Four manifestations and the inward-behavior reframing restated from the same abstract.
 - "Buffers distress" phrasing scoped as the seed's gloss, not the paper's wording.
+
+## Selection by consequences (fast-track bar)
+- VERIFICATION: seed attributes the concept to Dewey, Human Nature and Conduct. The phrase is actually B. F. Skinner's, from "Selection by Consequences," Science 213(4507), 1981, pp. 501-504. Dewey's Human Nature and Conduct (Gutenberg 41386 full text opened and searched) does not use the phrase; Dewey does discuss consequences throughout but does not coin this term. Skinner's 1981 paper confirmed via PMC4331065 quoting the Science abstract verbatim and via the paper's own DOI.
+- Verbatim: "Selection by consequences is a causal mode found only in living things, or in machines made by living things. It was first recognized in natural selection, but it also accounts for the shaping and maintenance of the behavior of the individual and the evolution of cultures. In all three of these fields, it replaces explanations based on the causal modes of classical mechanics."
+- Verbatim: "The effect on the group, and not the reinforcing consequences for individual members, is responsible for the evolution of culture." (p. 502)
+- FLAG for supervisor: the concept's seed (and its inbound parallel from P043) cites Dewey. Either the seed's Dewey attribution should be corrected to Skinner on this page, or the compendium's principle P043's philosophy-parallel line needs the same correction. I have kept the page on Skinner (the actual source of the phrase) and noted the Dewey misattribution here rather than edit P043's own band file.
