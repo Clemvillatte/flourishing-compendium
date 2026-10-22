@@ -21,6 +21,7 @@ The compendium carries this in two principles: B061 (Trust original purity: noth
 
 - [[Buddha-nature]] — the wider Mahayana idea the doctrine builds on
 - [[Tathata, suchness]] — what the false thoughts cover, on the sutra's account
+- [[Beginner's mind]] — the Chan posture of meeting practice as if for the first time, possibilities open rather than attained
 
 ## Sources
 
