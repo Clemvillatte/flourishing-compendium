@@ -10,3 +10,8 @@
 - Chinese characters omitted (no opened source for bu zheng). CTEXT IP-blocked; Wikipedia Wu wei article does not mention 不爭 (checked).
 - Proposals: inline link D012 (its body discusses "the text's account of non-contention" without linking); reciprocal Wu wei.
 - Validator: ok (fast-track). Advisor QC: not due (item 2).
+
+## Original enlightenment (fast-track, 2026-10-22)
+- Sources opened: Stone chapter PDF via fetch (verbatim: "In essence, original enlightenment doctrine asserts... have only to realize it."); Wikipedia Hongaku (definition + 本覺/benjue/hongaku); Wikipedia Platform Sutra (verse "Fundamentally there is not a single thing. / Where could dust arise?" and "our natures are fundamentally pure, it is through false thoughts that suchness is covered up").
+- Note: Platform Sutra renderings cited to Wikipedia as carrier (sacred-texts Cloudflare-blocked from sandbox; no free scholarly translation opened). Fragments quoted contiguous verbatim.
+- Validator: ok (fast-track). Advisor QC: not due (item 3).
