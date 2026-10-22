@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 65** — Cultivate the fourfold stance toward people
 
-The tradition's most practical social psychology: steadiness of mind is cultivated by friendliness toward the happy, compassion toward the unhappy, delight toward the virtuous, and even-minded disregard (upeksha) toward the non-virtuous, the sutra's own category traditionally rendered "the wicked"; this compendium reads that category as the hostile and corrosive rather than as a license for contempt. Disregard here means even-minded non-engagement, not tolerating harm; where a relationship is abusive or dangerous, the practice is safety and boundaries, and the stance work comes later. Each stance is a prescription against the envy, contempt, and moral entanglement that churn the mind. Practically, when a person disturbs you, first identify which of the four conditions they are in, and apply the matching stance.
+Yoga Sutra 1.33 is the tradition's most practical social psychology. In Rama Prasada's translation:
 
-(YS 1.33.)
+> By cultivating habits of friendliness, compassion, complacency and indifference towards happiness, misery, virtue and vice (respectively) the mind becomes pure. ([YS 1.33, Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216632.html))
 
-**Plain words** The fourfold stance toward people, the tradition's most practical social psychology: friendliness toward the happy, compassion toward the unhappy, delight toward the virtuous, and even-minded disregard toward the non-virtuous. Four states, four kinds of person. The envy-killer and the smug-killer in one sutra.
+Swami Satchidananda renders the same sutra as "attitudes of friendliness toward the happy, compassion for the unhappy, delight in the virtuous, and disregard toward the wicked" ([quoted at Oyster Bay Yoga](https://www.oysterbayyoga.com/news/2021/2/28/6k6oduzgj63yaro617uikdc9q1e6br)). The compendium reads the last category (upeksha) as the hostile and corrosive, and not as a license for contempt. Disregard here means even-minded non-engagement. It does not mean tolerating harm: where a relationship is abusive or dangerous, the practice is safety and boundaries, and the stance work comes later.
 
-*For example:* Someone notices their reaction to a friend's good news is envy, not friendliness — and deliberately practices the delight instead, for their own mind's sake. The friend gets the joy twice; the envy starves.
+Practically, when a person disturbs you, identify which of the four conditions they are in and apply the matching stance.
+
+(YS 1.33, trans. Rama Prasada, 1924; Satchidananda as quoted.)
+
+### Plain words
+
+Match your attitude to the person in front of you. Be friendly toward the happy, kind toward the suffering, glad for the good, and even-handed toward the harmful. Each one protects your mind from envy, contempt and getting dragged in.
+
+### For example
+
+You notice your reaction to a friend's good news is envy. You practise the delight deliberately, for your own mind's sake. The friend gets the joy twice, and the envy loses its food.
+
+## Sources
+
+- Yoga Sutra 1.33, trans. Rama Prasada (1924): [Wisdom Library](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216632.html)
+- Yoga Sutra 1.33, trans. Swami Satchidananda, as quoted at [Oyster Bay Yoga](https://www.oysterbayyoga.com/news/2021/2/28/6k6oduzgj63yaro617uikdc9q1e6br)
+
 ## Psychology parallels
 
 - **[[Compassion]]**, effects on positive affect and social connectedness (Fredrickson et al., 2008); **envy research** as the mechanism countered (R. H. Smith, 2000, Handbook of Social Comparison)
