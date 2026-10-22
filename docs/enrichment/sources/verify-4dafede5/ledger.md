@@ -262,8 +262,17 @@ research); all other sampled items PASS.
     1 PASS against a fresh fetch of the cited Chaiklin UCSD carrier: the
     Vygotsky 1978 p. 86 definition. No hallucinated quotes.
 
+## Round 23 (11:58Z) — The restless world (w1t, commit 3e09f653a)
+
+30. **The restless world (w1t)** — 3 quoted passages checked, 3 PASS: the
+    Heraclitus fr. 12 and fr. 49a Burnet renderings confirmed verbatim by the
+    Wikisource annotated-fragments snippet (the cited carrier, rate-limited on
+    direct fetch), and the Whitehead Process and Reality actual-occasions
+    passage verified verbatim against a fresh fetch of the cited Larval
+    Subjects carrier. No hallucinated quotes.
+
 ## Summary
 
-29 items checked, 26 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+30 items checked, 27 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-nine items after repair.
+quotation-faithful at a 100% sample of its first thirty items after repair.
