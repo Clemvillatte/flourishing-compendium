@@ -57,7 +57,8 @@
   "Teotl",
   "Teshuva (return/repentance)",
   "The bodhisattva vow",
-  "The community of occasions"
+  "The community of occasions",
+  "The critique of ressentiment"
  ],
  "in_progress": null,
  "flagged": {
@@ -69,7 +70,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T12:30:59+00:00",
+ "updated": "2026-10-22T12:31:30+00:00",
  "band_done": false,
  "done_notes": {
   "Multiple self-aspects model (MSA)": "fast-track item upgraded to theory-page skeleton after first-item advisor QC (round 1): named-framework identity fixed (entry concerns McConnell's MSF; page title MSA kept, front-matter untouched), Principle 3 quoted verbatim with accessibility weighting, compartmentalization claims bounded as comparisons, Principles 1-3 and origin quotes verified verbatim against the author PDF (allenmcconnell.net/pdfs/msf-PSPR-2011.pdf), Rachel worked example used as documented primary-work example. Inherited citation 'Showers & Zeigler-Hill, 2007' not opened this session, labeled as inherited on the page. TITLE/ACRONYM FLAG for supervisor: page title says 'Multiple self-aspects model (MSA)' but the opened source names the 'multiple self-aspects framework (MSF)'; no rename attempted (front-matter protected)."
