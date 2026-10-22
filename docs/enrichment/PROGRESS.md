@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-22 12:20 UTC (input revision `215e6b8da`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 13:20 UTC.
+As of 2026-10-22 13:11 UTC (input revision `d1fc98722`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 14:11 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -8,9 +8,9 @@ As of 2026-10-22 12:20 UTC (input revision `215e6b8da`). Scope: principles and c
 
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
-| Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 1708 | 553 | 2261 | 75.5% |
-| **Combined** | **3879** | **565** | **4444** | **87.3%** |
+| Principles | 2170 | 13 | 2183 | 99.4% |
+| Concepts | 1821 | 440 | 2261 | 80.5% |
+| **Combined** | **3991** | **453** | **4444** | **89.8%** |
 
 ## Stories (separate pipeline)
 
@@ -35,11 +35,11 @@ Published story pages (content/stories/ST*.md): 433. The per-lane rows below are
 | SP — Spinozism Principles | 94 | 96 | 97.9% |
 | B — Buddhist Principles | 195 | 198 | 98.5% |
 | K — Kyoto-School and Tibetan Principles | 70 | 71 | 98.6% |
+| A — Aristotelian Virtue Ethics and Practical Wisdom | 121 | 122 | 99.2% |
 | P — Pragmatist and Process Principles | 195 | 196 | 99.5% |
 | D — Daoist Principles | 192 | 192 | 100.0% |
 | S — Classical Stoicism | 140 | 140 | 100.0% |
 | R — Relational Philosophies | 130 | 130 | 100.0% |
-| A — Aristotelian Virtue Ethics and Practical Wisdom | 122 | 122 | 100.0% |
 | E — Existentialism and Phenomenology | 113 | 113 | 100.0% |
 | AF — Affect | 84 | 84 | 100.0% |
 | CO — Cognition | 83 | 83 | 100.0% |
