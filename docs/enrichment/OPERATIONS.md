@@ -631,3 +631,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   tandfonline full text (the live page bot-walls scripts; archive copy opened):
   verbatim (curly-quote normalization only). Sample PASS. Forty samples this
   session, all PASS.
+- Supervisor verification sample 41 (2026-10-22 ~16:35 UTC): Information Manipulation
+  Theory (random finished-band draw, w1n) — both McCornack 1992 abstract quotes
+  checked against the archived Taylor & Francis abstract page (the live page
+  bot-walls scripts; archive copy opened): verbatim. Sample PASS. Forty-one samples
+  this session, all PASS.
