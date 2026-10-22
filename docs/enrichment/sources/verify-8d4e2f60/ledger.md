@@ -195,3 +195,30 @@ mismatch unresolved), 0 confirmed hallucinations. 21 quoted passages verified.
 Routed items: 2 carrier-accessibility findings (Polanyi excerpt robots-blocked;
 brocku.ca Mead carrier Cloudflare-blocked), 1 minor chapter-attribution note
 (The approval trap, ch. IV vs ch. 5), 1 unresolved quote/carrier mismatch (Sophia).
+
+## Round 6 — w1w (2026-10-22 ~04:20Z, taper)
+
+### Tat tvam asi — PASS (1/1 verbatim)
+Carrier opened: the cited public-domain Müller translation of Chandogya VI.8.7
+(https://living-bread.org/texts/upanishads/chandogya-6-8-7, fetched 2026-10-22
+~04:20Z). "Now that which is that subtile essence (the root of all), in it all
+that exists has its self. It is the True. It is the Self, and thou, O Svetaketu,
+art it." — verbatim (the carrier prints "subtile" and "Svetaketu", matching).
+
+## Session totals (rounds 1-6)
+12 pages checked, 11 PASS at quote level, 1 routed finding (Sophia — quote/carrier
+mismatch unresolved), 0 confirmed hallucinations. 22 quoted passages verified.
+
+
+## Round 6 — w1w (2026-10-22 ~04:20Z, taper)
+
+### Tat tvam asi — PASS (1/1 verbatim)
+Carrier opened: the cited public-domain Muller translation of Chandogya VI.8.7
+(https://living-bread.org/texts/upanishads/chandogya-6-8-7, fetched 2026-10-22
+~04:20Z). "Now that which is that subtile essence (the root of all), in it all
+that exists has its self. It is the True. It is the Self, and thou, O Svetaketu,
+art it." — verbatim (the carrier prints "subtile" and "Svetaketu", matching).
+
+## Session totals (rounds 1-6)
+12 pages checked, 11 PASS at quote level, 1 routed finding (Sophia — quote/carrier
+mismatch unresolved), 0 confirmed hallucinations. 22 quoted passages verified.
