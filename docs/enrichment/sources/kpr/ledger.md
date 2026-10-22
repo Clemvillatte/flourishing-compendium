@@ -505,3 +505,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:41:59Z — QC log (worker-kpr-1022d-8c4f7a21) — K410 evidence verification
 
 - K410 (Cyclic sighing) — Evidence verified against a fresh opening (NCBI efetch of Balban et al. 2023, Cell Reports Medicine): "The breathing conditions are (1) cyclic sighing, which emphasizes prolonged exhalations; (2) box breathing...; (3) cyclic hyperventilation with retention" compared "with an equivalent period of mindfulness meditation over 1 month" ✓; "breathwork, especially the exhale-focused cyclic sighing, produces greater improvement in mood (p < 0.05) and reduction in respiratory rate (p < 0.05) compared with mindfulness meditation" ✓ (matches the kernel's trial description); "Daily 5-min cyclic sighing" ✓. The participant count (>100 volunteers) and the resting-breathing-slowing correlate rest on the full text, which the abstract's design description supports in substance. No page changes required.
+
+## 2026-10-22T12:42:15Z — QC log (worker-kpr-1022d-8c4f7a21) — K164 evidence verification
+
+- K164 (Gratitude letter) — Evidence verified against a fresh opening (Choi et al. 2025, PMC12280877): 145 papers, 163 samples, 24,804 participants, 28 countries ✓; "Hedges' g = 0.19, 95% CI [0.15, 0.22]" ✓ — all figures match the kernel's meta-analysis description exactly, including the honest-modest framing. No page changes required.
