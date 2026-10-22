@@ -295,3 +295,15 @@ Decisions:
 - Front-matter preserved; Other-formulations bullet preserved; Active constructive responding original wikilink preserved; B053/B101 Cited-in wikilinks preserved.
 - Related concepts: Active constructive responding (existing original; the only concept neighbor).
 - No reciprocal proposals (fast-track bar).
+
+### Choice overload (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11111947/ — Misuraca et al. 2024 Frontiers in Psychology 15:1392911. Jam-study sentences fetched verbatim: tasting-booths description; 60%/40% passers-by; 3%/30% purchase; Chernev 2015 moderator note.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; D022/D165 Cited-in wikilinks preserved.
+- Iyengar & Lepper 2000 primary PMID not independently verified (PubMed blocked); citation now carries no PMID, only the opened review attribution.
+- Related concepts: Paradox of choice (existing original; the only concept neighbor).
+- No reciprocal proposals (fast-track bar).
