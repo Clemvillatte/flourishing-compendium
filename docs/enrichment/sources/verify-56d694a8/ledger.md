@@ -103,3 +103,12 @@ CP 5.171 carrier); all repaired pages re-validated; ledger and repairs pushed af
 4. **Ego integrity (Erikson)** — both Erikson quotes ("I know no better word for it than integrity"; the parents-love sentence) VERIFIED verbatim against the opened archive.org full text. PASS.
 
 Round 7: 4 pages, 6 quoted passages verified, no defects.
+
+## Round 8 — morning sample continued
+
+1. **Above the battle of the elements** — Emerson "Brahma" first two stanzas VERIFIED verbatim via [RPO Toronto](https://rpo.library.utoronto.ca/content/brahma-0). PASS.
+2. **Actor-networks** — both Latour Reassembling the Social quotes VERIFIED verbatim against the opened excerpt PDF (PDF text-layer ligatures required normalization; wording matches exactly). PASS.
+3. **Decision** — both Jaspers quotes (via Tepley 2019) VERIFIED verbatim against the opened PDF. PASS.
+4. **Decision-making research** — "Seven samples" sentence VERIFIED verbatim via the [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12416921/) (Schwartz et al. JPSP 2002); "Half a century ago, Simon..." sentence VERIFIED verbatim in the opened Iyengar/Wells/Schwartz Columbia PDF. PASS.
+
+Round 8: 4 pages, 7 quoted passages verified, no defects.
