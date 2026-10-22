@@ -12,15 +12,27 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 36** — Learn to regulate through action: affect follows behaviour
 
-[[Behavioral activation|Behavioural activation]] grew out of this insight, and its obstacle is exactly the trap the principle names: "people tell themselves that they will engage in a particular activity when they feel motivated or when they 'feel like it'. The solution is that they should always act according to the plan or activity schedule – not according to how they feel at the time." The instruction is blunt: "the longer they wait, the greater the likelihood that they will become even less motivated: if necessary, the task should be done now, even in an unmotivated way." Veale describes the rationale: "'Just doing it' leads to differences in the way the individual thinks and feels, which in turn increases motivation and changes the way others view them." The compendium's application is the principle's own line: move first, feel second, especially with something valued or social.
+[[Behavioral activation|Behavioural activation]] offers a clinical version of this principle: plan actions that matter, notice what avoidance is costing, and monitor what changes when you act. Veale's account asks people to begin with small changes, build gradually and review both their mood and whether an activity serves their values. ([Veale, 2008](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9))
 
-**Plain words** Here's the trick low mood plays: it takes away the wanting-to, then waits for the wanting-to to come back before you do anything. The therapy's answer reverses the order — do the thing unmotivated, and let motivation catch up. The walk first, the mood after.
+He explicitly warns against filling days with activity for its own sake. The point is to recover contact with valued parts of life, rather than to earn relief by becoming relentlessly productive. ([Veale, “Activity scheduling”](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9))
 
-*For example:* The depressed person who waits all Sunday for the mood to lift before doing anything — and the protocol that reverses the order: the walk first, the mood after. It feels backwards; the evidence says it's forwards.
+For everyday use, treat the next action as an experiment. Choose a manageable step, make room for the feeling you already have, then review the effect. A hard day does not mean you have failed at the exercise; persistent or severe depression deserves professional support rather than a demand to try harder.
+
+**Plain words** You do not always have to feel ready before taking a small step. Choose something worthwhile and doable, then see what it actually does for you.
+
+*For example:* If withdrawing from a friend is making life smaller, you could try a brief call rather than a long visit. Afterwards, note what happened to your mood and sense of connection; repeat, shorten or change the activity according to what you learn.
+
+## Related concepts
+
+- [[Behavioral activation]]: planned changes in activity and avoidance.
+- [[Experiential avoidance]]: what a behaviour helps someone escape.
+- [[Values]]: what makes an activity worth choosing.
+
 ## Psychology parallels
 
-- **Behavioural activation is an effective treatment for depression**, comparable to antidepressant medication and cognitive therapy (Dimidjian et al., 2011; Richards et al., 2016)
-- **Affect follows action**, activity scheduling improves mood even when the person does not feel like doing the activity (Jacobson et al., 1996)
+- **Behavioural activation** (Dimidjian et al., 2011; Richards et al., 2016): the COBRA trial found activation delivered by trained junior mental-health workers non-inferior to CBT for depression symptoms at 12 months in the adults studied. ([Richards et al., 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC5007415/))
+- **Activity scheduling** (Jacobson et al., 1996): a component of activation, alongside examining avoidance and monitoring consequences, rather than a guarantee that any activity will improve mood. ([Veale, 2008](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9))
+- **Evidence limits**: the Cochrane review found mostly low- to moderate-certainty evidence, with most findings short-term; it found no evidence of a difference in short-term efficacy between activation and CBT. ([Uphoff et al., 2020](https://www.cochrane.org/evidence/CD013305_behavioural-activation-therapy-depression-adults))
 
 ## Philosophy parallels
 
@@ -30,4 +42,12 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 
 ## Practice
 
-- When you feel low and unmotivated, do not wait to feel motivated. Choose a small, valued action (walk, call a friend, tidy one surface) and do it. The feeling follows.
+- Choose a small action connected with something you care about. Review its emotional and practical effects before deciding what to repeat or change; mood need not improve immediately.
+
+## Sources
+
+### Primary source (verbatim)
+
+> "The aim is to introduce small changes, building up the level of activity gradually towards long-term goals."
+>
+> David Veale, “Behavioural activation for depression” (2008), “Activity scheduling.” [Cambridge University Press](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/behavioural-activation-for-depression/EBC5FC0D9D550FFBE6F982B33BF91EE9).
