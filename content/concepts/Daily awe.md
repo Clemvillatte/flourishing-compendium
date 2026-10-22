@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Daily awe” — Keltner.
 
-Daily awe is the deliberate practice of meeting vastness on ordinary days: letting a sky, a tree, a piece of music or a stranger's kindness register as something larger than your current understanding. As a research topic it comes out of Dacher Keltner's emotion-research program, and the practice-relevant finding is twofold: awe shrinks the self in a healthy way, and a small weekly dose is enough to move daily emotion.
+Daily awe is the deliberate practice of meeting vastness on ordinary days: letting a sky, a tree, a piece of music or a stranger's kindness register as something larger than your current understanding. As a research topic it comes out of Dacher Keltner's emotion-research program. In the study below, awe is measured by its effects on the self: participants' photographs show themselves increasingly small against the landscape.
 
 > "Awe—a positive emotion elicited when in the presence of vast things not immediately understood—reduces self-focus, promotes social connection, and fosters prosocial actions by encouraging a 'small self.'" (Sturm, Holley, Keltner et al., Emotion 22(5):1044-1058, [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034841/))
 
 ### The awe-walk study
 
-In the clearest daily-life test, sixty healthy older adults took weekly 15-minute outdoor walks for eight weeks; half were oriented to experience awe on their walks. The awe walkers reported greater joy and prosocial positive emotions during their walks and displayed increasing smile intensity over the study. Outside the walk context, they "reported greater increases in daily prosocial positive emotions and greater decreases in daily distress over time" (same study). Anxiety, depression and life satisfaction did not shift in either group, so the honest summary is: awe practice nudges daily positive emotion and distress, and claims beyond that wait on further trials.
+One randomized study examined weekly 15-minute awe-oriented outdoor walks over eight weeks in healthy older adults. Compared with control walkers, participants assigned to awe walks "reported greater increases in daily prosocial positive emotions and greater decreases in daily distress over time" (same study). The study did not detect changes in post-intervention anxiety, depression or life satisfaction in either group, so the honest summary is that one trial found daily-emotion effects, and broader claims wait on further trials.
 
 ## Related concepts
 

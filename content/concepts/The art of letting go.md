@@ -15,11 +15,12 @@ The art of letting go is the Buddhist practice of releasing what has served its 
 
 ### What the practice trains
 
-The exercise is to hold things the way the traveler holds the raft: fully, while crossing. Modern goal research describes the same skill from the outside: people who can disengage from unattainable goals and re-engage with new ones fare better than people who cling, on measures of wellbeing and health. The compendium's principle MO058 carries that consequence. What the simile adds is the inner stance: gratitude for what carried you, and no complaint at leaving it on the shore.
+The exercise is to hold things the way the traveler holds the raft: fully, while crossing. Goal research describes the same skill from the outside: in three studies, people's ability to "abandon unattainable goals and reengage their efforts in alternative goals" went together with "ratings of high subjective well-being" (Wrosch et al., 2003, [PubMed](https://pubmed.ncbi.nlm.nih.gov/15018681/)). The compendium's principle MO058 carries that consequence. What the simile adds is the inner stance: gratitude for what carried you, and no complaint at leaving it on the shore.
 
 ## Sources
 
 - Alagaddupama Sutta (MN 22), the raft simile, translated from the Pali by Thanissaro Bhikkhu, AccessToInsight: [accesstoinsight.org/tipitaka/mn/mn.022.than.html](https://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html)
+- Wrosch, C., Scheier, M. F., Miller, G. E., Schulz, R., & Carver, C. S. (2003). Adaptive self-regulation of unattainable goals: goal disengagement, goal reengagement, and subjective well-being. Personality and Social Psychology Bulletin, 29(12), 1494-1508 — [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/15018681/)
 
 ## Cited in philosophy parallels
 

@@ -21,3 +21,12 @@ Fast-track item (§1a bar): seed page (Tuan seed line + one M022 citation), degr
 - Saturation hunt skipped per §1a (M022 link preserved unchanged).
 - Validator --fast-track: ok (1 warning: no ## Related concepts section, acceptable at the
   fast-track bar).
+
+## Advisor QC repair (2026-10-22, T+35)
+
+- Fixed "coined the term" -> "introduced the term into geography" per the opened Sinclair
+  passage (Tuan drew on Bachelard's poetics of space; the term's lineage predates him).
+- Removed the ungrounded "displacement, rootlessness" health-cost sentence and one
+  snippet-sourced tactile paraphrase; prose now sticks to the opened Sinclair carrier.
+- Degree check via `enrich_find.py neighbors`: concept sits outside dense fast clusters
+  (fewer than 15 connections).

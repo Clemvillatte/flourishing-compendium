@@ -15,7 +15,7 @@ Sparse speech is the Daoist discipline of saying little: letting words be as eco
 
 ### What the restraint is for
 
-The point is not silence as a pose but words kept rare enough to carry weight. For a writer on wisdom, the chapter offers a test worth running before speaking: is this utterance more like the steady climate of the way or more like a squall, impressive for a moment and gone by noon? The compendium's principle B172 holds the value this concept grounds.
+Legge links restraint in speech with following one's nature. His example is the short duration of violent wind and rain. The compendium applies that image as a pause before speaking: does this conversation need another sentence? The compendium's principle B172 holds the value this concept grounds.
 
 ## Sources
 

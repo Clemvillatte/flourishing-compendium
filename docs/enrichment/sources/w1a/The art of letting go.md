@@ -22,3 +22,12 @@ Fast-track item (§1a bar): seed page (Buddhism seed line + one MO058 citation),
 - Saturation hunt skipped per §1a (MO058 link preserved unchanged).
 - Validator --fast-track: ok (1 warning: no ## Related concepts section, acceptable at the
   fast-track bar).
+
+## Advisor QC repair (2026-10-22, T+35)
+
+- Opened the Wrosch 2003 carrier raw (PubMed E-utilities abstract, PMID 15018681:
+  PSPB 29(12):1494-1508). Grounded the goal-disengagement sentence to what the abstract
+  says (three studies, goal disengagement/reengagement associated with high subjective
+  well-being), added the citation and Sources entry. Page and validator: ok.
+- Degree check via `enrich_find.py neighbors`: concept sits outside dense fast clusters
+  (fewer than 15 connections).
