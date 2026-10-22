@@ -6,7 +6,7 @@ quotation-fidelity checks on ct1 items that completed without a recorded advisor
 follow-up rounds on the round-2 repair pages that still lack advisor re-verification.
 Findings routed to TASKBOARD.md; carriers freshly opened for every check below.
 
-## Round 1 (07:0xZ) — ct1 items 7–8
+## Round 1 (06:59Z) — ct1 items 7–8
 
 ### Polyvagal theory (Porges) — 9 quoted passages checked, 9 PASS (no hallucinated quotes)
 
@@ -140,3 +140,42 @@ perceptions and beliefs".
    document in Study 1." — VERBATIM (first two sentences of the actual abstract; the
    abstract's continuation about Study 2 confirms the page's "only the group taught about
    the illusion improved" account).
+
+## Round 4 (07:10Z) — further w1x pages
+
+### The illusion of certainty — 3 quoted passages checked, 3 PASS (one carrier-grade note)
+
+1. Quotepark — "We are prone to overestimate how much we understand about the world and to
+   underestimate the role of chance in events." — VERBATIM against the opened carrier.
+2. Quotepark — "The confidence that individuals have in their beliefs depends mostly on
+   the quality of the story they can tell about what they see, even if they see little." —
+   VERBATIM.
+3. Lib Quotes — "It is the consistency of the information that matters for a good story,
+   not its completeness." — VERBATIM (first sentence of the quoted passage; the
+   continuation "Indeed, you will often find that knowing little…" is a known book
+   passage but the extraction returned only the first sentence — left unverified this
+   round). Carrier-grade note (routed): both carriers are quote aggregators, not the
+   book; the page is honest about this, but the compendium's better practice (per other
+   pages in this repo) is a primary or institutional carrier.
+
+### The importance of rest — 4 Aristotle passages + 2 data claims checked, 5 PASS, 1 minor nuance
+
+1. Project Gutenberg Chase translation — "Happiness is thought to stand in perfect rest;
+   for we toil that we may rest, and war that we may be at peace." — page prepends
+   "Also," which the Gutenberg text does not show; the rest of the sentence is verbatim.
+   Minor prefix nuance only — likely a sentence-splitting artifact; no repair needed.
+2. "amusement is like rest, and men want rest because unable to labour continuously" —
+   VERBATIM substring.
+3. "the very notion is absurd of the End being amusement, and of one's toiling and
+   enduring hardness all one's life long with a view to amusement" — VERBATIM substring.
+4. "rested in for its own sake, since nothing results from it beyond the fact of having
+   contemplated" — VERBATIM substring.
+5. Kang & Kurtzberg 2019 (PMC7044622) — 414 participants and phone-break impairment of
+   second-half anagram performance both confirmed against the freshly opened abstract. PASS.
+6. Lim & Dinges 2010 (PubMed 20438143; PubMed extraction failed, verified against the
+   UPenn full-text PDF and the record as indexed) — 147 cognitive tests confirmed. Minor
+   precision nuance (routed): the page's "largest effect on simple attention (g = -0.776)"
+   attributes to the simple-attention domain the paper's single largest effect size, which
+   the abstract assigns to "lapses in simple attention" specifically (domain-level
+   simple attention: −0.762 lapses, −0.732 reaction time). Fair summary, but the precise
+   referent of −0.776 is lapses.
