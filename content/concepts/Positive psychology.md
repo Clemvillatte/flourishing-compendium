@@ -8,27 +8,27 @@ tags: ["psych/self", "psych/social", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Positive psychology names a turn in the discipline itself, away from repairing damage and toward studying the strengths and conditions that let a life go well. The field was launched publicly in the January 2000 special issue of the American Psychologist, guest-edited by Martin Seligman and Mihaly Csikszentmihalyi. Their introductory article begins with a sentence about what the science would cover:
+Positive psychology names a turn in the discipline itself, away from repairing damage and toward studying the strengths and conditions that let a life go well. The field was launched publicly in the January 2000 special issue of the American Psychologist, guest-edited by Martin Seligman and Mihaly Csikszentmihalyi. Their introductory article opens with a sentence about what the new science would cover:
 
-> "A science of positive subjective experience, positive individual traits, and positive institutions promises to improve quality of life and prevent the pathologies that arise when life is barren and meaningless." (Seligman and Csikszentmihalyi, "Positive Psychology: An Introduction," American Psychologist 55(1), 2000, pp. 5-14, [PubMed](https://pubmed.ncbi.nlm.nih.gov/11392865/))
+> "A science of positive subjective experience, positive individual traits, and positive institutions promises to improve quality of life and prevent the pathologies that arise when life is barren and meaningless." (Seligman and Csikszentmihalyi, "Positive Psychology: An Introduction," American Psychologist 55(1), 2000, pp. 5-14, [PubMed 11392865](https://pubmed.ncbi.nlm.nih.gov/11392865/))
 
-The same article names the reason the new science was needed:
+The same article names the reason a new science was needed:
 
 > "The exclusive focus on pathology that has dominated so much of our discipline results in a model of the human being lacking the positive features that make life worth living." (ibid.)
 
-It predicts the next century will see "a science and profession that will come to understand and build the factors that allow individuals, communities, and societies to flourish" (ibid.).
+And it predicts the next century will see "a science and profession that will come to understand and build the factors that allow individuals, communities, and societies to flourish" ([ibid.](https://pubmed.ncbi.nlm.nih.gov/11392865/)).
 
 ### The turn in Seligman's own thinking
 
-Seligman had spent his career on "the really bad stuff — helplessness, depression, panic" before he became APA president in 1998 and used the office to launch the field ([Seligman, APA President's Address 1998](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx)). In the address he framed the mission this way:
+Seligman used the phrase in his 1998 APA Presidential Address to name a reorientation of the discipline:
 
-> "The second area cries out for what I call 'positive psychology,' that is, a reoriented science that emphasizes the understanding and building of the most positive qualities of an individual: optimism, courage, work ethic, future-mindedness, interpersonal skill, the capacity for pleasure and insight, and social responsibility." (Seligman, APA President's Address, 1998)
+> "The second area cries out for what I call 'positive psychology,' that is, a reoriented science that emphasizes the understanding and building of the most positive qualities of an individual: optimism, courage, work ethic, future‑mindedness, interpersonal skill, the capacity for pleasure and insight, and social responsibility." (Seligman, [APA President's Address, 1998](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx))
 
-Earlier the same year he had written the phrase that the field still cites as its charter:
+He adds in the same speech that "since the end of World War II, psychology has moved too far away from its original roots, which were to make the lives of all people more fulfilling and productive, and too much toward the important, but not all-important, area of curing mental illness" ([ibid.](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx)).
 
-> "Psychology is not just the study of weakness and damage, it is also the study of strength and virtue." (Seligman, "Building Human Strength: Psychology's Forgotten Mission," APA Monitor, January 1998)
+The label was not Seligman's invention. A Vox history of the field notes the term was "coined in 1954 by humanistic psychologist Abraham Maslow" ([Vox](https://www.vox.com/the-highlight/2019/11/13/20955328/positive-psychology-martin-seligman-happiness-religion-secularism)). The 1998-2000 work turned the label into an organized research agenda. The same Vox piece recounts the origin story Seligman tells of weeding his garden, being distracted by his 5-year-old daughter Nikki, and being told by her that if she could change from a whiner by an act of will, he could stop being a grouch ([Vox](https://www.vox.com/the-highlight/2019/11/13/20955328/positive-psychology-martin-seligman-happiness-religion-secularism)). The moral Seligman drew is what the field made its research question: nurture character strengths rather than scold shortcomings.
 
-The 2000 special issue presented the three research targets: positive subjective experience (the past as satisfaction, the present as flow, the future as hope and optimism), positive individual traits, and positive institutions. Fifteen articles covered topics including autonomy and self-regulation, optimism and health, wisdom, and how talent and creativity come to fruition ([Seligman and Csikszentmihalyi 2000](https://pubmed.ncbi.nlm.nih.gov/11392865/)). Maslow had used the phrase "positive psychology" in 1954 ([Vox, on Seligman and the field's origins](https://www.vox.com/the-highlight/2019/11/13/20955328/positive-psychology-martin-seligman-happiness-religion-secularism)); the 1998-2000 work turned the label into an organized research agenda.
+The 2000 special issue covers the three targets named in its abstract — positive subjective experience, positive individual traits, and positive institutions — with 15 articles discussing "what enables happiness, the effects of autonomy and self-regulation, how optimism and hope affect health, what constitutes wisdom, and how talent and creativity come to fruition" ([Seligman and Csikszentmihalyi 2000](https://pubmed.ncbi.nlm.nih.gov/11392865/)). The abstract also notes that "Hope, wisdom, creativity, future mindedness, courage, spirituality, responsibility, and perseverance are ignored or explained as transformations of more authentic negative impulses" ([ibid.](https://pubmed.ncbi.nlm.nih.gov/11392865/)).
 
 The field's standing usefulness for this compendium is structural: it is the discipline's answer to the question the essays ask — what actually makes a life go well, and can the answer be tested?
 
@@ -49,13 +49,9 @@ The field's standing usefulness for this compendium is structural: it is the dis
 
 ## Sources
 
-- Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. American Psychologist, 55(1), 5-14. [PubMed 11392865](https://pubmed.ncbi.nlm.nih.gov/11392865/) — the abstract verbatim: three-part scope, pathology critique, the flourishing prediction
-- [Seligman, APA President's Address 1998 (Penn PPC archive, .docx)](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx) — the "positive psychology" framing sentence with its list of qualities
-- [Seligman, "Building Human Strength: Psychology's Forgotten Mission," APA Monitor 29(1), January 1998](https://www.scribd.com/document/979450091/1-Seligman-Building-human-strength-1) — the "strength and virtue" charter line and the three-missions history
-- [Satterfield, review of the 2000 special issue, PMC1071226](https://pmc.ncbi.nlm.nih.gov/articles/PMC1071226/) — the 15-article structure and the disease-model contrast
-- [Vox, "Is positive psychology all it's cracked up to be?"](https://www.vox.com/the-highlight/2019/11/13/20955328/positive-psychology-martin-seligman-happiness-religion-secularism) — Maslow's 1954 coinage, Seligman's epiphany narrative, the VIA context
-- [APA Monitor, "Positive psychology advances, with growing pains"](https://www.apa.org/monitor/2011/04/positive-psychology) — the field's goal statement and popular-press reception
-- [Seligman, "Positive Psychology: A Personal History" (Penn PPC)](https://ppc.sas.upenn.edu/sites/default/files/pppersonalhistory.pdf) — the 1998 founding-work week, the 24-strengths/VIA narrowing to six virtues
+- Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. American Psychologist, 55(1), 5-14. [PubMed 11392865](https://pubmed.ncbi.nlm.nih.gov/11392865/) — the full abstract, including the three-part scope, the pathology critique, the 15-article list of topics, the strengths-vs-impulses observation, and the flourishing prediction. Quoted verbatim above.
+- Seligman, M. E. P. (1998). [APA President's Address](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx), Positive Psychology Center, University of Pennsylvania. Opened and quoted verbatim above. Includes the Kosovo preface and the WWII-roots passage.
+- Smith, J. (2019, November 13). Is positive psychology all it's cracked up to be? [Vox](https://www.vox.com/the-highlight/2019/11/13/20955328/positive-psychology-martin-seligman-happiness-religion-secularism). Opened and quoted. Confirms Maslow coined the term in 1954 and recounts the Seligman-Nikki garden story.
 
 ## Cited in philosophy parallels
 
