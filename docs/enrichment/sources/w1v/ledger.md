@@ -96,3 +96,17 @@
 ## Problem vs. mystery (completed prior-session draft, 2026-10-22)
 - Found fully drafted in content/ (prior session died before state update; band item was still outstanding). All blockquotes verified against the opened SEP Marcel entry (Treanor & Sweetman): the p.117 problem/mystery passage, "problem that encroaches on its own data", and the evil passage all confirmed verbatim.
 - Validator: ok (fast-track). Marked done. (Satori start earlier was a bogus state — not in band manifest — cleared by starting this item.)
+
+## Prehension (fast-track, 2026-10-22)
+- Sources opened: SEP Process Philosophy (Seibt) — verbatim actual occasion/prehension sentence; Wikipedia Prehension — Latin derivation prehendere "to grasp" only (not the Whitehead sense).
+- Advisor milestone QC (items 16-19): FAIL pending attribution/scope repairs — Process and Reality origin claim to remove; P003/P072 characterization to narrow to listing facts. Repairs applied same session (see below).
+- Validator: ok (fast-track).
+
+## Prospect theory (fast-track, 2026-10-22)
+- Source opened: Kahneman & Tversky 1979 Econometrica 47(2) 263-291 — author-written abstract quoted verbatim via the RePEc bibliographic record (Econometrica abstract; the author-hosted Princeton PDF is a scanned image, opened only to confirm citation details).
+- Advisor milestone QC: FAIL pending prose repairs — "founding paper of behavioral economics" superlative to remove; pleasure/pain gloss to replace with abstract's value-function language; restore dropped Tversky & Kahneman 1992 source and Related concepts section from the seed. Repairs applied same session (see below).
+- Validator: ok (fast-track).
+
+## Advisor milestone QC items 16-19 (2026-10-22)
+- Verdict: all four FAIL pending repairs (quote anchors all pass). Repairs applied: Perceptual learning (single blockquote, removed "not just" construction and seed commentary, differentiation interpretation removed, B137/Y077 narrowed to listing facts); Prehension (SEP cited for the philosophical account, Wikipedia for Latin derivation only, origin claim removed); Prospect theory (superlative removed, value-function language restored, seed's Tversky & Kahneman 1992 and Related concepts restored, scope qualified to sure gains/losses); Problem vs. mystery (remaining quotes re-verified against SEP in a second targeted fetch; ledger provenance corrected: draft existed in content/ with no done entry — prior session's fate unknown, only the observed state recorded).
+- Also applied: Placebo effects "Other formulations" line corrected (legacy formulation flagged unverified rather than attributed to Kaptchuk 2008, which measured symptom outcomes); Justice sensitivity beneficiary-progression claim removed (relabeling history not verified).

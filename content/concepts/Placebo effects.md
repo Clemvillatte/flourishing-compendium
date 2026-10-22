@@ -21,7 +21,7 @@ The finding that the relationship and the ritual carry much of the effect gives 
 
 ## Other formulations in this library
 
-- expectation produces measurable physiological change (Kaptchuk et al., 2008)
+- expectation produces measurable physiological change (legacy formulation; the opened Kaptchuk 2008 trial measured self-reported symptom improvement, and this formulation is unverified against opened sources)
 
 ## Sources
 

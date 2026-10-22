@@ -11,7 +11,7 @@ Justice sensitivity is a personality trait describing individual differences in 
 
 > "Scales for justice sensitivity from three perspectives (victim, observer, perpetrator) were developed." ([Schmitt, Gollwitzer, Maes & Arbach, 2005, abstract](https://cir.nii.ac.jp/crid/1360574094333053312))
 
-The paper's findings include that victim sensitivity correlated with neuroticism and was, in the abstract's words, "a mixture of self-protective motives and moral concerns", while observer and perpetrator sensitivity reflected high moral standards ([2005 abstract](https://cir.nii.ac.jp/crid/1360574094333053312)). A current encyclopedia summary presents the field's perspective set as four, adding a beneficiary perspective to the roles a person can take toward an unjust event ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)).
+The paper's findings include that victim sensitivity correlated with neuroticism and was, in the abstract's words, "a mixture of self-protective motives and moral concerns", while observer and perpetrator sensitivity reflected high moral standards ([2005 abstract](https://cir.nii.ac.jp/crid/1360574094333053312)). A current encyclopedia summary presents the field's perspective set as four — the roles a person can take toward an unjust event ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)).
 
 The compendium pairs the construct with two principles that list it among their psychology parallels: R052 (Practise yi) and D130 (Leave vengeance to heaven's net).
 
