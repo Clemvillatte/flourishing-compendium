@@ -322,3 +322,12 @@ Round 29: 4 pages, 9 quoted passages verified, no defects.
 2. **Social dominance theory** — the Sidanius & Pratto 2011 one-sentence statement VERIFIED via the opened AWL paper; the legitimizing-myths definition VERIFIED via the opened Lausanne paper. The Pratto Encyclopedia and Emerald carriers were not opened before the taper window — ROUTED for the next verify worker. PARTIAL.
 
 Round 30: 2 pages, 5 quoted passages verified, 2 defects repaired.
+
+## Round 31
+
+1. **Spotlight vs floodlight attention** — both Navon 1977 passages VERIFIED verbatim via the opened Haifa CRIS record and the cognitionandculture.net PDF. PASS.
+2. **Sympatheia** — the Marcus Aurelius Meditations 6.38 (Long) passage VERIFIED verbatim via the opened classics.mit.edu page. PASS.
+3. **Technologies of the self** — the Foucault definition VERIFIED via the opened foucault.info essay; the carrier text contains a stray OCR character ("transform I themselves") that the page correctly cleans — not a defect. PASS.
+4. **Temporal discounting** — the Frederick, Loewenstein & O'Donoghue 2002 definitions VERIFIED verbatim via the opened PDF. PASS.
+
+Round 31: 4 pages, 5 quoted passages verified, no defects.
