@@ -58,7 +58,8 @@
   "content/kernels/K246 — Self-monitoring.md",
   "content/kernels/K301 — Seasonal noticing.md",
   "content/kernels/K302 — Ecological reciprocity.md",
-  "content/kernels/K335 — The witness practice.md"
+  "content/kernels/K335 — The witness practice.md",
+  "content/kernels/K227 — Time-affluence audit.md"
  ],
  "in_progress": null,
  "queue": [
@@ -107,7 +108,7 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T14:38:14+00:00",
+ "updated": "2026-10-22T14:39:03+00:00",
  "band_done": false,
  "flagged": {
   "content/kernels/K144 — The chariot analysis.md": "guided-version recording: none found this session; absence flagged pending supervisor ruling; not claimed as an established exemption",
@@ -126,6 +127,7 @@
   "content/kernels/K246 — Self-monitoring.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
   "content/kernels/K301 — Seasonal noticing.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
   "content/kernels/K302 — Ecological reciprocity.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
-  "content/kernels/K335 — The witness practice.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
+  "content/kernels/K335 — The witness practice.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling",
+  "content/kernels/K227 — Time-affluence audit.md": "guided-version recording: no verified guided version supplied; absence flagged pending supervisor ruling"
  }
 }

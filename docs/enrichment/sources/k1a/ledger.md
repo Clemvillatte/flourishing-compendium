@@ -200,3 +200,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Repair during this item: an early draft carried incorrect Operationalises and placeholder Related concepts; both were restored to the seed's own Operationalises (E008, A063, R055) and matched narrative-identity concepts before validation. No other band's files touched.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K227 — Time-affluence audit (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Whillans, Dunn, Smeets, Bekkers & Norton 2017 (PNAS 114(32):8523-8527), abstract verified raw against the NCBI efetch API (PMID 28739889, located via esearch).
+- Both blockquotes verified against the raw abstract: the wealth-to-time-scarcity sentence and the n = 6,271 time-saving-purchases finding plus the field-experiment sentence.
+- The seed's claim that time affluence predicts well-being more strongly than material wealth is explicitly downgraded in "What this evidence does not test": the opened study does not compare the two as predictors; it shows time-saving purchases are followed by greater life satisfaction and tested no audit practice. Protocol steps labelled as the compendium's practice form.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
