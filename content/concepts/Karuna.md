@@ -33,7 +33,8 @@ Karuna's cross-tradition family is the compassion-traditions: the Christian mise
 - [[D031 — Treasure 1 — compassion (ci)]]
 - [[D125 — Be good to the good and the not-good]]
 - [[B051 — Practice loving-kindness (metta)]]
-- - ## Cited in philosophy parallels
+
+## Cited in philosophy parallels
 
 - [[B052 — Practice compassion (karuna)]]
 - [[B099 — Respond to suffering with the wish to relieve it (karuna in action)]]
