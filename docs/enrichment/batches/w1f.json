@@ -74,10 +74,7 @@
   "Natural liberty versus the chains"
  ],
  "in_progress": null,
- "flagged": {
-  "Self-compassion": "RESOLVED 2026-10-20 by worker-w1a-e54f7981 (w1f takeover): dash budget 18/3 — rewording pass done, prose dashes now 0 (principle links moved to an In-the-compendium list, em dashes replaced with commas/colon), validator ok",
-  "Natural liberty versus the chains": "Category B comparison page (already listed in concept-namespace-audit.md); not enriched. Granular components if created: Rousseau natural liberty vs civil liberty (Social Contract I.8), checked only by title"
- },
+ "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
  "updated": "2026-10-21T11:41:20+00:00",
