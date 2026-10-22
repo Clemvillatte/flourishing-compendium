@@ -12,13 +12,26 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 ---
 > **Principle 63** — Let the desire of the active mind be unlimited
 
-Desire which springs from reason cannot be excessive, Spinoza demonstrates in IV P61; the proof is structural: such desire is the mind's own nature in action, and a nature cannot exceed itself. Every appetite that flatters a passive state damages the body or the life at its extreme; the desire born of understanding, at its extreme, is simply more understanding. The reading of this as the appetite to know is the tradition's application of the proposition. Practically, cultivate desire that springs from reason (understanding, craft, inquiry) rather than desire that flatters a passive state, and when other cravings disorder your life, route the general appetite for more into this reason-born channel.
+Part IV, proposition 61 of the Ethics says it in a title: "Desire which springs from reason cannot be excessive." The proof is short:
 
-(Ethics IV, P61; the desire-to-know reading is the traditional application.)
+> Hence desire, which arises from reason, that is, which is engendered in us in so far as we act, is the actual essence or nature of man, in so far as it is conceived as determined to such activities as are adequately conceived through man's essence only. Now, if such desire could be excessive, human nature considered in itself alone would be able to exceed itself, or would be able to do more than it can, a manifest contradiction. Therefore, such desire cannot be excessive. ([Ethics IV, P61, trans. Elwes, Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt))
 
-**Plain words** Desire which springs from reason cannot be excessive — the proof is structural: such desire is the mind's own nature in action, and a nature cannot exceed itself. The desire of the active mind can be unlimited; the passive appetites can't be trusted at any size.
+The contrast comes from earlier in the same Part. In P44 Spinoza says that "Love and desire may be excessive", because an emotion "may overcome all the rest of men's actions" and the desire arising from it can do the same. A desire rooted in understanding has no such overreach, since it is the mind acting from its own nature. Reading this as an appetite to know is the tradition's application and not Spinoza's wording in P61. The compendium follows that reading: when other cravings disorder your life, steer the general appetite for more toward understanding, craft and inquiry.
 
-*For example:* The appetite that grows with feeding — the money, the followers, the stimulation, always "more" — versus the desire to understand, which grows stronger and more itself. One expands by eating; the other expands by being.
+(Ethics IV, P44 and P61, trans. Elwes; the desire-to-know reading is an application, not Spinoza's text.)
+
+### Plain words
+
+Some wanting has no ceiling, and it ruins the people who feed it. Spinoza says the wanting that comes from understanding is different, because it is the mind doing what it does, and a mind cannot do more than it is. So if you must want more, want to understand more.
+
+### For example
+
+Think of the appetite that grows when fed: more money, more followers, more stimulation. Set it beside the wish to understand a subject properly, which tends to sharpen with use. Both feel like wanting. Only one of them has to be held in check.
+
+## Sources
+
+- Spinoza, *Ethics* Part IV, P44 and P61, trans. R. H. M. Elwes: [Project Gutenberg](https://www.gutenberg.org/cache/epub/3800/pg3800.txt)
+
 ## Psychology parallels
 
 - **[[Curiosity|Curiosity as a well-being strength]]**, the research linking trait curiosity to flourishing and to the reversal of boredom's costs (Kashdan, 2009, Curious?, as synthesis; Hidi's interest research)
