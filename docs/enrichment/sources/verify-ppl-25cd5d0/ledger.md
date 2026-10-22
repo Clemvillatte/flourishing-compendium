@@ -317,3 +317,31 @@ source-support gap: these details were not found in the inspected carrier; the o
 should supply an opened supporting source (e.g. the Mackworth 1948 original or a review
 describing the Clock Test) or revise the paragraph to what Klein & Feltmate support. The
 finding does not establish that the details are false or invented.
+
+## Round 10 (2026-10-22, performed between measured readings 12:17Z and 12:22Z; raw-text method)
+
+### Endowment effect (w1u, fast-track done, commit aac83af01)
+
+4 quoted passages checked, 4 PASS — all verified against unprompted raw fetches of the cited
+MIT PDF (Kahneman, Knetsch & Thaler 1990): the abstract sentence, the Thaler-naming sentence,
+the mug median/mean prices sentence, and the "fundamental characteristics of preferences"
+sentence. The loss-aversion classification is directly present ("This effect is a
+manifestation of 'loss aversion,' the generalization that losses are weighted substantially
+more than objectively commensurate gains"). The "market experience" framing is supported by
+the paper's conclusion ("nor should they be interpreted as mistakes likely to be eliminated
+by experience, training, or 'market discipline'"). No routed findings.
+
+### Reduction as return (w1s, fast-track done, commit 90e867fac)
+
+2 quoted passages checked, 2 PASS — the Husserl Ideas I §32 passage verified verbatim against
+an unprompted raw fetch of the cited J-Stage PDF (the quote appears inside that PDF, quoted
+with locator "Ideen I, § 32, pp. 99-100"), and the "leading back" sentence verified verbatim
+against an unprompted raw fetch of the cited PhilArchive page (Hayden Kee, "Phenomenological
+reduction in Merleau-Ponty's The Structure of Behavior").
+ROUTED to the w1s owner (minor, citation attribution): the Sources line credits the J-Stage PDF
+to "Nagai, Phenomenological Practice of the Epoché", but the article at that URL is Vincent
+Giraud, "Nishida's Concept of Pure Experience from the Standpoint of the Husserlian
+Reduction" (Journal of the New Phenomenological Association 9, pp. 187-199); the quote is in
+that article, and the article's note 5 credits the Ideas translation to W. R. Boyce Gibson
+(the page's Sources line says "Findlay/Gibson wording"). Suggest correcting the author/title
+in the citation.

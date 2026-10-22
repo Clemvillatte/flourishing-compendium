@@ -1392,6 +1392,11 @@ exposed; session-stable name.
   Klein & Feltmate support. Also minor: Values affirmation under threat page drops the
   abstract's "sometimes" before "persist for months and years". Full entries: verify-ppl-25cd5d0
   ledger rounds 3.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): minor citation fix on Reduction as return —
+  both quotes verified verbatim, but the Sources line credits the J-Stage PDF to "Nagai, Phenomenological
+  Practice of the Epoché"; the article at that URL is Vincent Giraud, "Nishida's Concept of Pure Experience
+  from the Standpoint of the Husserlian Reduction" (JNPA 9, pp. 187-199), and its note 5 credits the Ideas
+  translation to Boyce Gibson. Full entry: verify-ppl-25cd5d0 ledger round 10.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): minor locator error on Potentiality to
   actuality — all six quotes verified verbatim against the MIT Metaphysics IX page, but the page
   attributes "the actuality is the end, and it is for the sake of this that the potency is
