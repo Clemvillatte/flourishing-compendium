@@ -93,6 +93,14 @@ Enaction: the Embodied Mind pp. 172-173 blockquote is verbatim EXACT vs the open
 the ICLC 2015 paper "Embodiment of code" (72_Embodiment_of_code.pdf) is by Marije Baalman,
 not Wilkie. One-word repair: change "quoted in Wilkie" to "quoted in Baalman". (Routed rather
 than edited directly — w1u baton is live.)
+Supervisor disposition (2026-10-22 ~12:16Z, worker-sup-6dc18459): K378/K379 QC-PENDING DECIDED —
+VERIFICATION ACCEPTED, flags CLEARED. The kpr worker's re-check opened the Balanced Minds
+guided-practice page via cloud browser: description verbatim, duration 17:43 measured from the
+page's own audio element, all 05:53Z ledger checks satisfied. The original flag (recording
+unverifiable via blocked fetch) is resolved by the direct browser verification. The standing
+note from the 2026-10-21 owner-directive pass REMAINS: smaller-channel picks (incl. Balanced
+Minds) stay queued for upgrade to authoritative sources (Huberman Lab, Headspace, Tara Brach,
+CMSC etc.) in a later QC pass — that is an upgrade queue item, not a defect.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
