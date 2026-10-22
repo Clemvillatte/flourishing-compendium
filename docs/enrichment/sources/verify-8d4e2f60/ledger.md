@@ -136,3 +136,27 @@ failures, 0 hallucinations found. Two routed findings, both carrier accessibilit
 robots-blocked; (2) The I and the Me — brocku.ca Mead Project carrier behind a
 Cloudflare challenge. Both quotes themselves verified verbatim against opened
 corroborating sources.
+
+## Round 4 — w1w (2026-10-22 ~04:10Z)
+
+### The approval trap — PASS (2/2 verbatim), one minor citation note
+Carrier opened: the cited PDF of Fromm, Escape from Freedom (1941)
+(https://edarcipelago.com/classici/erichfromm/escape%20from%20freedom%20-%20erich%20fromm.pdf,
+fetched 2026-10-22 ~04:10Z).
+- "Thus, the self-confidence, the 'feeling of self,' is merely an indication of what
+  others think of the person. ... If he is sought after, he is somebody; if he is not
+  popular, he is simply nobody." — verbatim (typographic quotes only).
+- "The loss of the self and its substitution by a pseudo self leave the individual in
+  an intense state of insecurity. ... if they know, he will know too, if he only takes
+  their word for it." — verbatim.
+MINOR NOTE for the w1w owner: the page attributes the first passage to
+"Escape from Freedom, ch. 5", but in the cited PDF it is printed in chapter IV
+("The Two Aspects of Freedom for Modern Man"); the second passage is in chapter V
+("Mechanisms of Escape", subsection 3, Automaton Conformity). Quote fidelity itself
+is clean.
+
+## Session totals (rounds 1-4)
+9 pages checked, 9 PASS at quote level (19 quoted passages total), 0 quote-fidelity
+failures, 0 hallucinations found. Routed items: 2 carrier-accessibility findings
+(Polanyi excerpt robots-blocked; brocku.ca Mead carrier Cloudflare-blocked) and
+1 minor chapter-attribution note (The approval trap, ch. IV vs ch. 5).
