@@ -254,3 +254,8 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Front-matter drift (tags missing topic/compassion) was caught by the pre-save validation and corrected before commit; no drift was pushed.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+### Session verification pass (2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Frozen-baseline validation of all 22 kernels enriched this session (K236, K144, K215, K223, K228, K237, K168, K136, K150, K345, K180, K193, K221, K246, K301, K302, K335, K227, K239, K347, K127, K211) against the pre-session commit b4bc0ed39610b47be21adc61e283ab744bc14b81: 22 checked, 0 failed (front matter, wikilinks, protected content all intact).
+- K302 Kimmerer quotes upgraded to raw verification: direct curl of https://emergencemagazine.org/conversation/practical-reverence/ succeeded (the earlier "raw retrieval not attempted" note is superseded); both blockquotes confirmed present in the raw HTML (HTML-entity apostrophes decoded), matching the page text. The extraction disclosure above is retained for history.
