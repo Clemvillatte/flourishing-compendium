@@ -31,7 +31,8 @@
   "The inner citadel",
   "Pursue becoming, not arrival",
   "Participate in the world's becoming",
-  "Zhi zu (knowing sufficiency)"
+  "Zhi zu (knowing sufficiency)",
+  "Subitism"
  ],
  "in_progress": null,
  "flagged": {
@@ -46,9 +47,9 @@
  },
  "missing_concepts": [],
  "sources_checked": 8,
- "updated": "2026-10-22T15:46:00+00:00",
+ "updated": "2026-10-22T15:52:00+00:00",
  "band_done": true,
  "notes": {
-  "fast_track_leftovers_2026_10_22": "worker-pplx-w1a-4e6d8b90: corpus audit found 114 thin no-URL concept pages NOT present in any band manifest (queue leftovers; full list in commit history of this note). Working them at the \u00a71a fast-track bar under w1a with ownership verified per item; Daoist/Buddhist items first per \u00a71a. FLAGGED TO SUPERVISOR: these 114 items sit outside all manifests \u2014 reconcile or re-mint as you prefer. First item: Zhi zu (knowing sufficiency), Daodejing 33/44/46, Legge (Gutenberg 216) raw-verified quotes."
+  "fast_track_leftovers_2026_10_22": "worker-pplx-w1a-4e6d8b90: corpus audit found 114 thin no-URL concept pages NOT present in any band manifest (queue leftovers; full list in commit history of this note). Working them at the \u00a71a fast-track bar under w1a with ownership verified per item; Daoist/Buddhist items first per \u00a71a. FLAGGED TO SUPERVISOR: these 114 items sit outside all manifests \u2014 reconcile or re-mint as you prefer. First item: Zhi zu (knowing sufficiency), Daodejing 33/44/46, Legge (Gutenberg 216) raw-verified quotes. Second item: Subitism (Platform Sutra sections 16/39, Yampolsky via IEP Huineng article, fetched and verified)."
  }
 }
