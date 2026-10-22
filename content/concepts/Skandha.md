@@ -20,7 +20,7 @@ The skandha analysis is the Buddhist member of a family of deconstructive accoun
 - [[Anatta]] — the conclusion the aggregates support
 - [[Dukkha]] — the aggregates, clung to, as unsatisfactory
 - [[The bundle theory]] — Hume: perceptions without a perceiver
--  — the constructed self
+- The constructed self — the self as a narrative assembly
 
 ## Sources
 
