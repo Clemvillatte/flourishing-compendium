@@ -12,13 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 170** — Wash the dishes to wash the dishes
 
-The scene is Thich Nhat Hanh's student Jim, asked whether he knows how to wash dishes: "There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes." Jim chose the second way. The instruction behind it: "While washing the dishes one should only be washing the dishes, which means that while washing the dishes one should be completely aware of the fact that one is washing the dishes." The distinction is not about efficiency — the dishes end up equally clean — it is about where you are while doing it. The one washing to be done lives at the sink in the future, with the tea or the next task; the one washing to wash is at the sink. The compendium's image for the difference: two people can wash the same dish; one is in hell, one is free.
+In *The Miracle of Mindfulness* (1975), Thích Nhất Hạnh describes the evening his friend Jim Forest offered to wash up. He told Jim he would need to know the way to do it:
 
-(Thích Nhất Hạnh, The Miracle of Mindfulness.)
+> There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes. ([Plum Village excerpt](https://plumvillage.org/articles/a-tribute-to-jim-forest))
 
-**Plain words** Chores aren't in the way of your life; they are your life, happening. Wash the dish to wash the dish — the tea comes when it comes. Done "to get done," a task drags you past the only minutes you actually get. Same sink, same plate; you can be in it or out of it.
+Jim chose the second way. Thích Nhất Hạnh then says what the first way costs:
 
-*For example:* Washing the dishes while resenting the dishes, versus washing the dishes — warm water, squeaky plate, oddly meditative. Same sink.
+> If while washing dishes, we think only of the cup of tea that awaits us, thus hurrying to get the dishes out of the way as if they were a nuisance, then we are not "washing the dishes to wash the dishes." What's more, we are not alive during the time we are washing the dishes. ([Kalampedia, quoting the book](https://kalampedia.org/2024/08/01/thich-nhat-hanhs-miracle-of-mindfulness/))
+
+The plates come out equally clean either way. The difference is where the washer is. His own formulation is that "while washing the dishes one should be completely aware of the fact that one is washing the dishes."
+
+A small experiment has tested a version of this. Hanley and colleagues (2015) gave 51 college students either mindful or control dishwashing instructions. The mindful group scored higher on state mindfulness, showed more inspiration and less nervousness, and overestimated how long the washing took ([Mindfulness 6, 1095-1103](https://link.springer.com/article/10.1007/s12671-014-0360-9)). It is one study with students, and the mood changes were found on particular items, not across the whole scale.
+
+(Thích Nhất Hạnh, *The Miracle of Mindfulness*, 1975, "Washing the dishes to wash the dishes" and "The cup in your hands".)
+
+### Plain words
+
+The dishes get done either way. What you choose is whether you are there while it happens. Ten minutes at the sink spent thinking about tea are ten minutes spent nowhere. Feel the water, look at the plate, and let washing be the one thing you are doing.
+
+### For example
+
+Tonight, before the first plate, say to yourself "I am washing this plate." Wash the first five items while noticing the temperature of the water and the weight of each dish. When your mind runs to tomorrow, label it "planning" and return to the next dish. If a week of this is easy, pick a second chore, such as hanging out laundry, and do the same.
+
+## Sources
+
+- Thích Nhất Hạnh, *The Miracle of Mindfulness* (1975), excerpt: [Plum Village](https://plumvillage.org/articles/a-tribute-to-jim-forest); longer extract: [Kalampedia](https://kalampedia.org/2024/08/01/thich-nhat-hanhs-miracle-of-mindfulness/)
+- Hanley, A. W., Warner, A. R., Dehili, V. M., Canto, A. I., & Garland, E. L. (2015). Washing dishes to wash the dishes. *Mindfulness*, 6, 1095-1103: [abstract at Springer](https://link.springer.com/article/10.1007/s12671-014-0360-9)
 
 ## Stories
 
