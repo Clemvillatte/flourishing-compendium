@@ -702,3 +702,7 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 - Arousal reinterpretation: legacy arousal-congruent sentence deleted; task list reworded to avoid triad.
 - Analytic vs holistic cognition: opening sentence cited.
 - Status: report will state seven pages updated with two unresolved supervisor dispositions (comparison-page namespace; Antidotes identity), not seven cleared.
+
+## Post-release correction (T+54)
+
+- Absolute nothingness: the remaining seed attribution line ("Nishida, An Inquiry into the Good") was corrected to "Nishida Kitaro, Kyoto School" to match the opened SEP dating; page prose already carried the mid-1920s/1945 dating. Pushed 3d7a6808 after baton release (final verification round, own item only).
