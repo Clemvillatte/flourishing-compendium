@@ -7,13 +7,13 @@ file: "Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristic
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Fast-and-frugal heuristics are simple decision rules that ignore part of the available information and can still judge well under uncertainty. The name belongs to the research program of Gigerenzer and the ABC Research Group at the Max Planck Institute for Human Development, set out in the 1999 book Simple Heuristics That Make Us Smart and developed in later reviews. Gigerenzer and Brighton's summary definition:
+Fast-and-frugal heuristics are simple decision rules that ignore part of the available information and can still judge well under uncertainty. The term names the research program of Gigerenzer and the ABC Research Group, whose summary definition is:
 
 > "Heuristics are efficient cognitive processes that ignore information." (Gigerenzer & Brighton, [Homo heuristicus, Topics in Cognitive Science 1 (2009), 107-143](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content))
 
 ### Origin
 
-The program is explicit about its own start: "The experimental study of heuristics for inference began to attract researchers relatively late, after we published Simple Heuristics That Make Us Smart in 1999" ([ibid.](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)). The later Annual Review article by Gigerenzer and Gaissmaier consolidates the field, testing formal models of heuristic inference in business organizations, health care, and legal institutions ([2011 abstract](https://pubmed.ncbi.nlm.nih.gov/21126183/)).
+The program's studies were collected in the 1999 book Simple Heuristics That Make Us Smart. The article notes the book's effect on the field, without claiming a founding date: "The experimental study of heuristics for inference began to attract researchers relatively late, after we published Simple Heuristics That Make Us Smart in 1999" ([ibid.](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)). The later Annual Review article by Gigerenzer and Gaissmaier reviews research that tests formal models of heuristic inference, including in business organizations, health care, and legal institutions ([2011 abstract](https://pubmed.ncbi.nlm.nih.gov/21126183/)).
 
 ### The core claim
 
@@ -21,11 +21,11 @@ Against the view that heuristic decisions imply greater errors than "rational" d
 
 ### A worked example: take-the-best
 
-The program studies heuristics as explicit process models. Its most studied member is take-the-best: "a model of how people infer which of two objects has a higher value on a criterion, based on binary cue values retrieved from memory". It consists of three building blocks:
+The program studies heuristics as explicit process models; for brevity the article focuses on take-the-best, "a model of how people infer which of two objects has a higher value on a criterion, based on binary cue values retrieved from memory" ([2009, p. 110](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)). It consists of three building blocks:
 
 > "1. Search rule: Search through cues in order of their validity. 2. Stopping rule: Stop on finding the first cue that discriminates between the objects (i.e., cue values are 1 and 0). 3. Decision rule: Infer that the object with the positive cue value (1) has the higher criterion value." (Gigerenzer & Brighton, [2009, pp. 110-111](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content))
 
-To judge which of two cities is larger, a person using take-the-best goes through cues in order of how well they predict (say, whether the city is known first), and stops at the first cue that separates the two. Search is cheap, and in uncertain environments the strategy often predicts more accurately than strategies that weigh every cue.
+The article's own test used this heuristic on the city-size question: "In the late 1990s, our research group tested how accurately this simple heuristic predicts which of two cities has the larger population, using real-world cities and binary cues, such as whether the city has a soccer team in the major league" ([2009, p. 114](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)). The result surprised the researchers: "inferences relying on one good reason were more accurate than both multiple regression and tallying. We obtained the same result, on average, for 20 studies" ([ibid.](https://pure.mpg.de/rest/items/item_2099728_9/component/file_2563980/content)).
 
 ### In the compendium
 
@@ -35,7 +35,7 @@ To judge which of two cities is larger, a person using take-the-best goes throug
 
 ## Related concepts
 
-- [[Risk literacy]] — the program's educational counterpart: knowing when simple rules suffice
+- [[Risk literacy]] — listed for comparison
 - [[Strategic Contingencies Theory]] — listed for comparison
 
 ## Sources
