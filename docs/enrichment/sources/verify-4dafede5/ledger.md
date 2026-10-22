@@ -256,8 +256,14 @@ research); all other sampled items PASS.
     fetch of the cited aristotle-ethics.com carrier (NE X.8, Ross): the
     God-contemplation subtraction argument. No hallucinated quotes.
 
+## Round 22 (11:57Z) — The zone of proximal development (w1t, commit ce057013b)
+
+29. **The zone of proximal development (w1t)** — 1 quoted passage checked,
+    1 PASS against a fresh fetch of the cited Chaiklin UCSD carrier: the
+    Vygotsky 1978 p. 86 definition. No hallucinated quotes.
+
 ## Summary
 
-28 items checked, 25 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+29 items checked, 26 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-eight items after repair.
+quotation-faithful at a 100% sample of its first twenty-nine items after repair.
