@@ -339,3 +339,12 @@ Round 31: 4 pages, 5 quoted passages verified, no defects.
 3. **The Cynic's freedom** — all three quotes VERIFIED: the two Diogenes Laertius anecdotes (6.63; 6.69) via the opened LacusCurtius text; the IEP political reading via the opened IEP entry. PASS.
 
 Round 32: 3 pages, 8 quoted passages verified, no defects.
+
+## Round 33
+
+1. **Temptation bundling (Milkman)** — the abstract quote VERIFIED via the opened EconPapers record; the opening sentence differs only in the carrier's ASCII em-dash rendering ("bundling---a"), a non-defect. PASS.
+2. **The call of conscience** — all three Heidegger passages VERIFIED verbatim via the opened beyng.com pages (314; 343) and the dhspriory §56 document (the page's bracketed "[it]" correctly marks the omitted "but"). PASS.
+3. **The catalogue of virtues** — the Aristotle NE II (Ross) passages VERIFIED verbatim via the opened classics.mit.edu page. PASS.
+4. **The complexity of the soul** — both De Anima passages VERIFIED verbatim via the opened SEP entry (Aristotle's Psychology). PASS.
+
+Round 33: 4 pages, 7 quoted passages verified, no defects.
