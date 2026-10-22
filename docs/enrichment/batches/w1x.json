@@ -55,9 +55,10 @@
   "Above the battle of the elements",
   "Active inference",
   "Actor-networks",
-  "Adaptation research"
+  "Adaptation research",
+  "Addictive patterns"
  ],
- "in_progress": "Addictive patterns",
+ "in_progress": null,
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -68,6 +69,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:26:59+00:00",
+ "updated": "2026-10-22T08:27:13+00:00",
  "band_done": false
 }
