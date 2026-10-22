@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K112** — Scheduled empty time
 
-Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. Let the mind wander, settle, or do nothing. Protect this time as you would protect a meeting. The duration and cadence follow a practice guide, Leo Babauta's Zen Habits "The Art of Doing Nothing": "Focus on 5-10 minutes at a time" and "Do this for 5-10 minutes at a time, building up to 20-30 minutes"; "try to do this every day, or as much as possible" ([Zen Habits](https://zenhabits.net/the-art-of-doing-nothing/)).
+Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. Let the mind wander, settle, or do nothing. Protect this time as you would protect a meeting. The range and cadence adapt a practice guide's progression: Leo Babauta's Zen Habits "The Art of Doing Nothing" says "Focus on 5-10 minutes at a time" and "try to do this every day, or as much as possible"; its advanced stage says "Do this for 5-10 minutes at a time, building up to 20-30 minutes" ([Zen Habits](https://zenhabits.net/the-art-of-doing-nothing/)). The fixed 10-30 range and the calendar steps below are this wiki's adaptation of that progression, not a dose the guide prescribes.
 
 ### Protocol
 
@@ -75,4 +75,4 @@ The block needs no recording. An optional guided alternative: Tara Brach's [Lett
 - [Killingsworth & Gilbert (2010), "A wandering mind is an unhappy mind", Science, PubMed](https://pubmed.ncbi.nlm.nih.gov/21071660/)
 - [Whillans et al. (2017), "Buying time promotes happiness", PNAS, PubMed](https://pubmed.ncbi.nlm.nih.gov/28739889/)
 - [Tara Brach, "Meditation: Letting Go of Doing" (21:17), official site](https://www.tarabrach.com/meditation-letting-go-doing-2/) and [YouTube video](https://www.youtube.com/watch?v=SI0lGXx2cs4)
-- [Leo Babauta, "The Art of Doing Nothing", Zen Habits](https://zenhabits.net/the-art-of-doing-nothing/) — practice carrier for the duration range and daily cadence: 5-10 minutes at a time, building up to 20-30 minutes, every day or as much as possible
+- [Leo Babauta, "The Art of Doing Nothing", Zen Habits](https://zenhabits.net/the-art-of-doing-nothing/) — practice guide: start at 5-10 minutes at a time, every day or as much as possible; the advanced in-a-stressful-environment stage builds to 20-30 minutes. The kernel's fixed 10-30 range and its scheduling steps are an editorial adaptation of this progression
