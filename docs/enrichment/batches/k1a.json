@@ -6,7 +6,8 @@
   "content/kernels/K214 — Community participation.md",
   "content/kernels/K219 — Social accountability.md",
   "content/kernels/K208 — Speech gate.md",
-  "content/kernels/K217 — Sympathetic understanding drill.md"
+  "content/kernels/K217 — Sympathetic understanding drill.md",
+  "content/kernels/K119 — Response prevention.md"
  ],
  "in_progress": null,
  "queue": [
@@ -55,5 +56,5 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T13:43:30+00:00"
+ "updated": "2026-10-22T13:44:04+00:00"
 }
