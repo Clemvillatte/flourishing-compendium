@@ -7,11 +7,17 @@ file: "Availability heuristic"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-ease of recall is used as a proxy for frequency (Tversky & Kahneman, 1973, 1974).
+Ease of recall is used as a proxy for frequency. The heuristic was named and defined by Tversky and Kahneman in their 1974 Science review of judgment under uncertainty, where it is one of three heuristics alongside representativeness and anchoring:
+
+> "There are situations in which people assess the frequency of a class or the probability of an event by the ease with which instances or occurrences can be brought to mind. This judgmental heuristic is called availability." (Amos Tversky and Daniel Kahneman, [Judgment under Uncertainty: Heuristics and Biases, Science 185, pp. 1124-1131 (1974), availability section](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf))
+
+The heuristic usually works because common events are indeed easier to recall than uncommon ones. It turns misleading whenever something makes instances easy to retrieve for reasons other than frequency: vividness, recency, media coverage, or how a question is framed. Tversky and Kahneman's letter r example showed people overestimating words that begin with r and underestimating words that have r as the third letter, because first letters are easier to retrieve than third letters. For the wiki's purposes the availability heuristic matters as a standing source of distorted risk perception: salient stories of harm make threats feel more frequent than they are, and unsalient hazards get discounted.
 
 ## Sources
 
 - Tversky & Kahneman, 1973, 1974
+
+- [Amos Tversky and Daniel Kahneman, "Judgment under Uncertainty: Heuristics and Biases," Science 185 (4157), 1974, pp. 1124-1131 (PDF hosted at Stanford)](https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf)
 
 ## Cited in psychology parallels
 

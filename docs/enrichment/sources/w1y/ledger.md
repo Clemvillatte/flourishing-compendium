@@ -98,3 +98,22 @@ Fast-track enrichment.
   articulation of intelligibility, communication as letting another
   see with us (SZ 155 quoted in the entry), language derivative.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-22 (UTC): Availability heuristic (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/Availability heuristic.md (seed: ease of
+  recall as proxy for frequency, Tversky & Kahneman 1973, 1974).
+- Opened source: Tversky and Kahneman, "Judgment under Uncertainty:
+  Heuristics and Biases", Science 185 (4157), 1974, pp. 1124-1131,
+  PDF hosted at Stanford
+  https://stanford.edu/~jlmcc/Presentations/tversky_kahneman_1974.pdf
+- Verbatim blockquote: "There are situations in which people assess
+  the frequency of a class or the probability of an event by the
+  ease with which instances or occurrences can be brought to mind.
+  This judgmental heuristic is called availability."
+- Synthesis grounded in the opened paper and its letter r example
+  (Experiment 3, availability section): first letters easier to
+  retrieve than third letters.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
