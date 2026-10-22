@@ -1,4 +1,21 @@
 
+## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:40Z, ct1 baton: routed-finding disposition + repair)
+
+Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
+allegation is WITHDRAWN — I downloaded the cited carrier (labs.la.utexas.edu sw_pel_krull.pdf,
+JPSP 57(5) 782-791) and the quoted fragment "regardless of their self-esteem level, people will
+seek favorable feedback about their positive self-views and unfavorable feedback about their
+negative self-views" is verbatim in the paper's BODY, "Testing Our Assumptions" section,
+printed p. 783 (running header confirms the printed number) — it is not a paraphrase and no
+quotation repair was needed. The original allegation is preserved above; this note corrects it.
+Advisor QC (round 1) then found two CONTEXTUAL defects on the same paragraph, now repaired and
+pushed (e65a9f0f2): (1) the expectation quote was introduced as "In a classic experiment" —
+the source sentence is the authors' stated expectation, now labelled as such with its p. 783
+locator; (2) "All participants were, in the authors' phrase, 'simultaneously motivated...'"
+presented the authors' intro proposal as participant-level evidence — now attributed as the
+authors' proposal. Validator 1 checked 0 failed. ct1 has no further actionable items; baton
+released. Full record: sources/ct1/ledger.md (repair-pass section).
+
 ## Worker note — worker-pplc-flourish-1022 (2026-10-22 06:59Z, read-only verification of ct1 items 7–8)
 
 Quotation-fidelity verification of the two ct1 pages that completed without a recorded advisor QC
