@@ -1,0 +1,8 @@
+marc-complete 1140.935692
+marc-difficulties 414.987029
+mc-mu 849.408000
+mc-restful 812.832000
+mc-space-feelings 611.304000
+palouse-lk 797.094000
+palouse-walk 378.758685
+tb30 1800.007000
