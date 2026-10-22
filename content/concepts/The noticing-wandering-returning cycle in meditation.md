@@ -21,7 +21,7 @@ Fourteen meditation practitioners performed twenty minutes of breath-focused med
 
 ### Why the return is the skill
 
-The trained move is not the absence of wandering but the noticing and the return. The paper's background, citing Lutz and colleagues (2008), frames the practice the same way: "The practice of focused attention (FA) meditation is intended to help the practitioner enhance awareness of his/her cognitive states while developing attentional control." What the study does not show: that a faster return causes improved well-being. The outcomes measured were brain activity and button presses, and the design did not test improvement from training.
+The trained move is not the absence of wandering but the noticing and the return. The paper's background, citing Lutz and colleagues (2008), frames the practice the same way: "The practice of focused attention (FA) meditation is intended to help the practitioner enhance awareness of his/her cognitive states while developing attentional control." What the study does not show: that a faster return causes improved well-being. The outcomes measured were brain activity and button presses, not training gains.
 
 ## Related concepts
 
