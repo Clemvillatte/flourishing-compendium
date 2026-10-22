@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Pranayama" — Yoga tradition.
 
-The Yoga-sūtra defines the practice in one line, and then says what the line is for. Breath regulation is what remains of breathing once the inspiratory and expiratory movements are stopped; its fruit is not respiratory but mental, a mind made fit for concentration. The classical sequence runs posture, then breath, then attention: each stage settles the ground the next one stands on.
+The Yoga-sutra defines the practice in one line and then names its fruit. Pranayama is the stoppage of the inspiratory and expiratory movements of breath, which follows when "that" has been secured; the page's own word gloss reads "that" as the posture. The sequel names the result: the fitness of the mind for concentration.
 
 > "Regulation-of-breath (prāṇāyāma) is the stoppage of the inspiratory and expiratory movements (of breath) which follows, when that has-been-secured." (Yoga-sūtra 2.49, trans. Rama Prasada, [wisdomlib](https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216700.html))
 >
@@ -17,11 +17,11 @@ The Yoga-sūtra defines the practice in one line, and then says what the line is
 
 ### In the compendium
 
-- [[BI061 — Learn to use breath as the master regulator — many techniques]] — the modern evidence review behind the compendium's breath work; slow-breathing studies track autonomic changes and stress reduction that the tradition claimed in advance.
+- [[BI061 — Learn to use breath as the master regulator — many techniques]] — the principle's review of modern slow-breathing research; the sūtra pair gives the classical definition that research is read against.
 
 ## Related concepts
 
-- [[Slow-paced breathing]] — the tradition that first systematized paced breathing
+- [[Slow-paced breathing]] — the modern research version of paced breathing, defined there as slowing below ten breaths per minute
 
 ## Sources
 

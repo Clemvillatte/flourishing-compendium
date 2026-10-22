@@ -9,22 +9,28 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Sameness of the sage" — Zhuangzi, Inner Chapters.
 
-The Zhuangzi's second chapter, which Giles titles "The Identity of Contraries", argues that the disputes of the schools cancel each other: the Confucians and Mohists each deny what the other affirms, and "he who would reconcile affirmative with negative and negative with affirmative, must do so by the light of nature." The sage's response is not to pick a side but to stop treating the sides as the world's joints: "the true sage rejects all distinctions of this and that." A later chapter carries the same sameness into the sage's inner life, where gain and loss, misfortune and good fortune, even life and death, lose their grip.
+The concept's home is the second of the Inner Chapters, which Giles titles "The Identity of Contraries." The chapter watches the Confucian and Mihist schools argue past each other, each denying what the other affirmed, and sets the sage's answer apart from the quarrel.
 
-> "Joy, anger, sorrow, happiness, find no place in that man's breast; for to him all creation is One. And all things being thus united in One, his body and limbs are but as dust of the earth, and life and death, beginning and end, are but as night and day, and cannot destroy his peace. How much less such trifles as gain or loss, misfortune or good fortune?" (Zhuangzi XXI, T'ien Tzu Fang, [Giles translation, Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm))
+> "Hence the affirmatives and negatives of the Confucian and Mihist schools, each denying what the other affirmed and affirming what the other denied. But he who would reconcile affirmative with negative and negative with affirmative, must do so by the light of nature." (Zhuangzi II, Giles translation, [Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm))
+>
+> "Which being the case, the true sage rejects all distinctions of this and that. He takes his refuge in God, and places himself in subjective relation with all things." (Zhuangzi II, Giles translation, [Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm))
+
+A later chapter of the book, outside the Inner Chapters, carries the same sameness into the sage's inner life:
+
+> "Joy, anger, sorrow, happiness, find no place in that man's breast; for to him all creation is One. And all things being thus united in One, his body and limbs are but as dust of the earth, and life and death, beginning and end, are but as night and day, and cannot destroy his peace. How much less such trifles as gain or loss, misfortune or good fortune?" (Zhuangzi XXI, T'ien Tzu Fang, Giles translation, [Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm))
 
 ### In the compendium
 
-- [[K062 — Practice one taste]] — lists the concept among its philosophy parallels; the one-taste yoga of mahamudra makes the same move in a Tibetan Buddhist key, holding that differences stand while the essence is tasted as one across them.
+- [[K062 — Practice one taste]] — lists the concept among its philosophy parallels.
 
 ## Related concepts
 
-- [[Zhuangzi's laughter]] — the companion Zhuangzi concept, taken from the book's tone rather than its argument.
+- [[Zhuangzi's laughter]] — the compendium's other concept attributed to Zhuangzi.
 
 ## Sources
 
 - Zhuangzi, Inner Chapters
-- [Zhuangzi, Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles (1889), chapters I, II and XXI, Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm) — the opened carrier of the quotations above.
+- [Zhuangzi, Chuang Tzu: Mystic, Moralist, and Social Reformer, trans. Herbert A. Giles (1889), chapters II and XXI, Project Gutenberg](https://www.gutenberg.org/files/59709/59709-h/59709-h.htm) — the opened carrier of the quotations above.
 
 ## Cited in philosophy parallels
 

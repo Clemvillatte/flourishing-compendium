@@ -1,18 +1,18 @@
 {
- "batch": "w1ac",
- "done": [
-  "Reversal (fu)",
-  "Sameness of the sage",
-  "Santosha",
-  "Scholē",
-  "Pranayama",
-  "Pneuma"
- ],
- "in_progress": null,
- "flagged": {
-  "Reversal (fu)": "title romanization: DDJ 40 Chinese text conventionally reads fan (反, 'reversal'), the title's '(fu)' may be a mismatch — flagged for supervisor; front-matter untouched per protocol. QC: advisor round 1 fixes applied (quote line breaks restored, ch.58 referent narrowed, AF008 bullet narrowed, Wu wei line grounded in ch.40 + D003 title gloss)."
- },
- "missing_concepts": [],
- "sources_checked": 0,
- "updated": "2026-10-22T07:09:21+00:00"
+  "batch": "w1ac",
+  "done": [
+    "Reversal (fu)",
+    "Sameness of the sage",
+    "Santosha",
+    "Scholē",
+    "Pranayama",
+    "Pneuma"
+  ],
+  "in_progress": null,
+  "flagged": {
+    "Reversal (fu)": "title romanization: DDJ 40 Chinese text conventionally reads fan (反, 'reversal'), the title's '(fu)' may be a mismatch — flagged for supervisor; front-matter untouched per protocol. QC: advisor round 1 fixes applied (quote line breaks restored, ch.58 referent narrowed, AF008 bullet narrowed, Wu wei line grounded in ch.40 + D003 title gloss)."
+  },
+  "missing_concepts": [],
+  "sources_checked": 0,
+  "updated": "2026-10-22T07:09:21+00:00"
 }
