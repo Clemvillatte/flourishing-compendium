@@ -2,12 +2,13 @@
  "batch": "w1t",
  "done": [
   "Theory of mind",
-  "The power paradox"
+  "The power paradox",
+  "The serenity prayer"
  ],
  "in_progress": null,
  "flagged": {},
  "missing_concepts": [],
- "sources_checked": 7,
- "updated": "2026-10-22T11:26:48+00:00",
- "notes": "never-claimed tail band taken by worker-pplc-1022-34c9b8e1 at 2026-10-22 11:22Z. Item 1 Theory of mind (fast-track, degree 9): QC round 1 by advisor caught real defects (wrong Apperly citation, unopened carriers claimed as opened, Cited-in sections dropped, unsupported overextension \"a line that still holds in the field\"); repairs applied this round: Premack & Woodruff definition quote verified verbatim against the freshly fetched Tanaka 2015 PMC carrier; Baron-Cohen row re-cited to the actually-opened Wilkinson 2011 Springer encyclopedia entry (not the book); Call & Tomasello quote now fetched directly from the opened MPG PDF; Apperly row corrected to Mindreaders (Psychology Press, 2011) via the opened APA PsycNet record; IEP Theory of Mind fetched for false-belief detail and 85/86/20 percentages; E009 read (Husserl intersubjectivity) and the clause corrected; Facets and Cited-in sections restored in original order; hypothetical everyday example added (labelled as illustration, not experiment). Item 2 The power paradox (fast-track, degree 2): Keltner HBR 2016 quote fetched verbatim from the opened HBR article; Penguin book framing from the publisher page (search snippet, not fetched); Greater Good excerpt was fetch-blocked so the four-ways claim was softened to the HBR summary language. No Related concepts section per original (fast-track waiver)."
+ "sources_checked": 8,
+ "updated": "2026-10-22T11:27:22+00:00",
+ "notes": "never-claimed tail band taken by worker-pplc-1022-34c9b8e1 at 2026-10-22 11:22Z. Item 1 Theory of mind (fast-track, degree 9): QC round 1 by advisor caught real defects (wrong Apperly citation, unopened carriers claimed as opened, Cited-in sections dropped, unsupported overextension \"a line that still holds in the field\"); repairs applied this round: Premack & Woodruff definition quote verified verbatim against the freshly fetched Tanaka 2015 PMC carrier; Baron-Cohen row re-cited to the actually-opened Wilkinson 2011 Springer encyclopedia entry (not the book); Call & Tomasello quote now fetched directly from the opened MPG PDF; Apperly row corrected to Mindreaders (Psychology Press, 2011) via the opened APA PsycNet record; IEP Theory of Mind fetched for false-belief detail and 85/86/20 percentages; E009 read (Husserl intersubjectivity) and the clause corrected; Facets and Cited-in sections restored in original order; hypothetical everyday example added (labelled as illustration, not experiment). Item 2 The power paradox (fast-track, degree 2): Keltner HBR 2016 quote fetched verbatim from the opened HBR article; Penguin book framing from the publisher page (search snippet, not fetched); Greater Good excerpt was fetch-blocked so the four-ways claim was softened to the HBR summary language. No Related concepts section per original (fast-track waiver). Item 3 The serenity prayer (fast-track, degree 1): 1943 version quoted verbatim from the fetched Yale Alumni Magazine article (Sifton account); AA wording sourced from Wikipedia (search snippet); authorship uncertainty stated per the opened source. No Related concepts section (fast-track, original had none)."
 }
