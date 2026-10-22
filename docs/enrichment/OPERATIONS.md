@@ -596,3 +596,12 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   theory of moral reasoning (random finished-band draw, w1h) — the Kohlberg 1975
   invariant-sequence passage checked against the opened ASCD PDF (the page's own
   carrier): verbatim. Sample PASS. Thirty-four samples this session, all PASS.
+- Supervisor verification sample 35 (2026-10-22 ~16:14 UTC): B022 Set right intention
+  (random finished-band draw, p1b) — the SN 45.8 right-resolve quote checked against
+  both Thanissaro renderings: the page's wording is verbatim from the AccessToInsight
+  rendering (verified via the archived ATI page); the CURRENT dhammatalks.org
+  rendering has revised wording ("Resolve for renunciation, resolve for non-ill
+  will..."). The quote is faithful to a legitimate published Thanissaro rendering;
+  NOTE for a future pass: the page cites no carrier URL for this quote, and the
+  current rendering differs — adding the ATI archive URL as carrier would remove
+  the ambiguity. Sample PASS with note.
