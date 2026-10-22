@@ -13,7 +13,7 @@ Experiential grounding is this compendium's label for the working method of Jane
 
 > "The Settlement then, is an experimental effort to aid in the solution of the social and industrial problems which are engendered by the modern conditions of life in a great city. It insists that these problems are not confined to any one portion of a city." (Addams, [Twenty Years at Hull-House](https://www.gutenberg.org/ebooks/1325))
 
-The settlement's method runs from contact to claim: the residents lived among the people whose situation they discussed, and the settlement's claims about city life are offered as claims about a shared life — "It insists that these problems are not confined to any one portion of a city" ([same text](https://www.gutenberg.org/ebooks/1325)).
+The settlement's method runs from contact to claim: the residents lived among the people whose situation they discussed, and the settlement's claims about city life are offered as claims about a shared life: "It insists that these problems are not confined to any one portion of a city" ([same text](https://www.gutenberg.org/ebooks/1325)).
 
 In the compendium the idea supports [[P130 — Ground your views of others in their experience]] and [[D055 — Don't force]]: knowing what another's life is like begins where it is lived, and conclusions outrun their ground when they outrun that contact.
 
