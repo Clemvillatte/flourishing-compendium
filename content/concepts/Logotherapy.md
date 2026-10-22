@@ -28,9 +28,9 @@ The treatment page connects directly to the compendium's essays on meaning, suff
 
 - [[The search for meaning]] — Frankl's account of the same drive, treated from the drive's side
 - [[Meaning-centred therapy]] — the modern clinical descendant
-- [[Suffering as bearing]]
+- [[The meaning of suffering]]
 - [[Flow]] — Csikszentmihalyi's account of engaged absorption
-- [[Existential vacuum]] — the clinical target logotherapy treats
+- [[Existential therapy]] — the broader clinical family
 - [[PERMA model]] — Seligman's later five-element theory of well-being, including meaning
 
 ## Cited in psychology parallels
