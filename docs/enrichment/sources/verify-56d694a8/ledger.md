@@ -375,3 +375,11 @@ Round 35: 4 pages, 8 quoted passages verified, no defects; 2 routed items on The
 4. **The interdependence of freedoms** — both opened-carrier passages (marxists.org ch02) VERIFIED verbatim. The "To will oneself free" blockquote's carrier was not re-opened this round — ROUTED for completeness. PARTIAL.
 
 Round 36: 4 pages, 7 quoted passages verified, no defects; 3 routed items.
+
+## Round 37
+
+1. **The interdependence of freedoms** — the "To will oneself free" blockquote VERIFIED verbatim via the opened marxists.org ch02; with the earlier round's two passages, all three quotes on the page are now verified. PASS (complete).
+2. **Social intuitionist model (Haidt)** — all four quoted passages VERIFIED: the two definitions via the opened Revista de Historia de la Vida analysis PDF; the two dog/tail passages via the opened Protevi notes PDF. PASS.
+3. **Somatic experiencing (Levine)** — the "pendulation describes the shape" line VERIFIED via the opened metaphorex entry; the Waking the Tiger figure-eight passage partially confirmed via the opened SuperSummary page (the first two sentences match verbatim; the third sentence — "By moving between these vortices..." — was not extracted from the carrier on two fetches, likely an extraction miss, ROUTED for the next verify worker). PARTIAL.
+
+Round 37: 3 pages, 6 quoted passages verified, no defects; 1 routed item.
