@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Externals as indifferents is Epictetus' sorting of the world into what is yours and what is not. Body, property, reputation and office are external to the will; opinion, impulse, desire and aversion are your own acts. The Enchiridion opens with the division:
 
-> "Of things some are in our power, and others are not. In our power are opinion, movement towards a thing, desire, aversion; and in a word, whatever are our own acts: not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts." ([Epictetus, Enchiridion 1, trans. George Long](https://standardebooks.org/ebooks/epictetus/short-works/george-long/text/the-enchiridion))
+> "Of things some are in our power, and others are not. In our power are opinion (*ὑπόληψις*), movement towards a thing (*ὁρμή*), desire, aversion (*ἔκκλισις*, turning from a thing); and in a word, whatever are our own acts: not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts." ([Epictetus, Enchiridion 1, trans. George Long](https://standardebooks.org/ebooks/epictetus/short-works/george-long/text/the-enchiridion))
 
 ### Indifferent does not mean worthless
 

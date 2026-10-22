@@ -7,26 +7,34 @@ file: "Enemy as teacher"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-The enemy as teacher is Shantideva's revaluation of the person who harms you, worked out in chapter 6 of the Bodhicharyavatara, the eighth-century Indian guide to the bodhisattva's life. The chapter's frame sets the stakes: "There is no evil equal to hatred, and no spiritual practice equal to forbearance" (Śāntideva, verse 6.2, translated by Crosby and Skilton). The turn comes at the chapter's end, where the adversary is addressed almost fondly:
+The compendium's "enemy as teacher" heading refers to Śāntideva's argument about forbearance in chapter 6 of the Bodhicharyavatara. An adversary provides the occasion for a quality Śāntideva counts among the essential practices:
 
-> "Therefore, since he helps me on the path to Awakening, I should long for an enemy like a treasure discovered in the home, acquired without effort." ([Śāntideva, Bodhicharyavatara 6.107](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
+> "There is no evil equal to hatred, and no spiritual practice equal to forbearance. Therefore one should develop forbearance by various means, with great effort." ([Śāntideva, Bodhicharyavatara 6.2, Crosby and Skilton translation](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
 
 ### The argument
 
-The reasoning is almost bookkeeping. Forbearance needs an occasion, and the occasion is supplied by the person who intends harm: "In that case, it is really in dependence upon his malign intention that forbearance is produced, and in that case it is really he that is the cause of my forbearance. I must worship him as the True Dharma" (verse 6.111). Shantideva even assigns the reward: "Both he and I therefore, receive the reward of this forbearance. It should be given to him first, since the forbearance was first occasioned by him" (verse 6.108). The move only works because the chapter has already relocated the enemy: the true adversary is hatred itself, and the person who provokes you is, like the True Dharma, an unconscious cause of achievement (verse 6.109).
+The chapter's turn on the adversary comes in its closing verses:
+
+> "Therefore, since he helps me on the path to Awakening, I should long for an enemy like a treasure discovered in the home, acquired without effort." ([Bodhicharyavatara 6.107](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
+
+Śāntideva anticipates the objection that an enemy intended harm, not progress. His answer is that forbearance depends on precisely that hostile intention:
+
+> "In that case, it is really in dependence upon his malign intention that forbearance is produced, and in that case it is really he that is the cause of my forbearance. I must worship him as the True Dharma." ([Bodhicharyavatara 6.111](https://thebuddhistcentre.com/system/files/groups/files/bodhicaryavatara_-_chapter_on_patience.pdf))
+
+Verse 6.108 assigns the adversary the first share of the reward, since the forbearance was first occasioned by him. Verse 6.109 answers the objection from intention by analogy: the True Dharma is honoured without intending anyone's achievement, so intention is not what merit depends on.
 
 ### In the compendium
 
-- [[K039]] — the practice kernel drawn from this chapter, treating the enemy as the teacher of patience
-- [[B115 — Take the difficult person as teacher]] — the principle generalising the move beyond Buddhism
-- [[K034 — Be grateful to everyone]] — the chapter's gratitude conclusion, which the enemy teaching serves
+- [[K039]] — the principle from the Tibetan tradition that treats the enemy as the teacher of patience
+- [[B115 — Take the difficult person as teacher]] — the Buddhist principle stating the move toward difficult people
+- [[K034 — Be grateful to everyone]] — the mind-training slogan whose gratitude includes the harmful
 
 ## Related concepts
 
-- [[Patience]] — the virtue the enemy occasions
-- [[Anger]] — the real enemy the chapter identifies
-- [[Enemy-love]] — the Christian cousin that inverts the same polarity
-- [[Forgiveness]] — a related way of reworking the debt to a harmer
+- [[Patience]] — the disposition the adversary occasions
+- [[Anger]] — the response the chapter's practice replaces
+- [[Enemy-love]] — the Christian demand from the Sermon on the Mount
+- [[Forgiveness]] — the release of the debt to a harmer
 
 ## Sources
 
