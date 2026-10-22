@@ -24,7 +24,7 @@
   "Self-esteem research": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-esteem research.md",
   "Self-legislation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-legislation.md",
   "Self-making": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-making.md",
-  "Self-transformation over information": "RESOLVED WITH PROVENANCE CAVEAT (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor final-round repairs applied (label attribution scoped, translation credit removed, gloss removed); quotes verified verbatim against the opened third-party online copy (vdoc.pub) which states no edition/translator credits — SUPERVISOR RE-VERIFICATION AGAINST A PUBLISHER TEXT REQUESTED before this item counts as fully source-verified",
+  "Self-transformation over information": "OPEN — supervisor re-verification needed (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor final-round repairs applied (label attribution scoped, translation credit removed, gloss removed); quotes verified verbatim against the opened third-party online copy (vdoc.pub) of Hadot's Philosophy as a Way of Life, which states no edition/translator credits; the two Stoic sentences were returned as consecutive text by the extraction ('The text continues:') but adjacency is unverified against a publisher text — this item should NOT count as fully source-verified until re-checked",
   "Self-transcendent emotions": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-transcendent emotions.md",
   "Self-perception theory": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-perception theory.md",
   "Self-talk research": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): advisor QC rounds applied; page validates ok vs session baseline 2b5e69c2; see sources/w1ad/Self-talk research.md",
@@ -34,6 +34,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:50:30+00:00",
+ "updated": "2026-10-22T14:56:06+00:00",
  "band_done": false
 }
