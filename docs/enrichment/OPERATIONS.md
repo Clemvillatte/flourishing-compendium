@@ -489,3 +489,6 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
 - Supervisor verification sample 11 (2026-10-22 ~15:07 UTC): The holographic whole —
   the Leibniz Monadology §56 quote checked against the opened UCSD Latta/Rutherford
   PDF: verbatim. Sample PASS. Eleven samples this session, all PASS.
+- Supervisor verification sample 12 (2026-10-22 ~15:09 UTC): The paradox of hedonism —
+  the Sidgwick Methods of Ethics fundamental-paradox quote checked against the opened
+  UT Austin LAITS carrier: verbatim. Sample PASS. Twelve samples this session, all PASS.
