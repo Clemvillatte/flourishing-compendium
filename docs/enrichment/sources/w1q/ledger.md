@@ -659,3 +659,23 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 - Empirical claims grounded: Heller et al. 2013 (ventral striatum duration and well-being), Schaefer et al. 2013 (Purpose in Life and recovery), Schuyler et al. 2014 (amygdala recovery and neuroticism) — all reported in the opened Davidson comment.
 - Duration determinants grounded in opened Verduyn 2015 PDF (importance of event, rumination, end-of-episode definition).
 - Seed facets mentioned Barrett 2017 valence-first processing; dropped rather than restated without an opened source.
+
+## Affects (item 4, fast-track)
+
+- Quote opened source: Early Modern Texts Bennett translation of Ethics Part III, D3 verbatim.
+- Love/hate and joy/sadness definitions drawn from the same opened PDF; three-primary-affects structure grounded in the definitions of the affects.
+
+## Analytic vs holistic cognition (item 5, fast-track)
+
+- Quote opened source: PubMed abstract page for Nisbett et al. 2001; abstract verbatim.
+- The alice.id.tue.nl full-paper PDF was opened but image-based; abstract via PubMed used as the verbatim source instead.
+
+## Arousal reinterpretation (item 6, fast-track)
+
+- Quote opened source: HBS faculty page carrying the published abstract verbatim.
+- Reported-anxiety-did-not-fall detail grounded in the replication snippet (reference-global.com) and Brooks abstract; stated on page only as abstract-supported summary.
+
+## Antidotes to afflictions (item 7, fast-track)
+
+- Quote opened source: Bodhicaryavatara ch. 6 v. 2 via the opened Buddhism and Healing translation page.
+- Verse 1 (hatred devastating merit) and v. 21 (advantages of suffering) also verbatim from the same opened page.
