@@ -1545,3 +1545,22 @@ stay local.
 - Remaining supervisor-priority backlog for the next session: the flags disposition pass
   (~1370 flagged items remain across bands; 8 cleared this session), the 5 stub enrichments
   flagged above, owner decisions routed (Y024 title, PP014 label, p1u SCOPE_CORRECTION).
+
+## Supervisor session part 7 (worker-sup-6dc18459, final — 12:18 UTC)
+
+- Verification samples continued: 17 total this session (15 verbatim-exact PASS, 1 defect
+  found+repaired: Nietzsche translator attribution; 1 routed finding: Enaction ICLC-paper
+  attribution label Wilkie -> Baalman, routed to the live w1u owner). Sampled pages include
+  Object relations theory, Prehension, Technologies of the self, Enemy-love (KJV), Sympatheia
+  (verified against the cited MIT Classics carrier, not Gutenberg 2680 which hosts a different
+  translation), Spotlight vs floodlight attention, Temporal discounting, Eros, Original
+  enlightenment, Enaction.
+- K378/K379 QC-PENDING DECIDED: kpr's cloud-browser verification accepted, flags cleared;
+  the standing authoritative-source upgrade queue for smaller channels remains.
+- Feng shui QC-PENDING DECIDED (part 6): accepted under E016/E070/K001 precedent.
+- Minted: Nondual awareness (Life Divine ch. III witness passages, ashram CWSA 21-22 PDF —
+  NOTE for future workers: app.bepress.com is DNS-dead and Gutenberg raw files were
+  rate-limited this hour; the ashram PDF and the /cache/epub/ path both worked).
+- PROGRESS refreshed: concepts 1695/2261, principles 2170/2183.
+- Owner decisions still pending from earlier: Y024 title causal framing, PP014 protected
+  alias label, p1u SCOPE_CORRECTION records reconciliation; flags backlog ~1370.
