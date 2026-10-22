@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-21 15:56 UTC (input revision `92c230cb1`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:56 UTC.
+As of 2026-10-22 03:43 UTC (input revision `ffc468ff0`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 04:43 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-21 15:56 UTC (input revision `92c230cb1`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 1202 | 1076 | 2278 | 52.8% |
-| **Combined** | **3373** | **1088** | **4461** | **75.6%** |
+| Concepts | 1306 | 947 | 2253 | 58.0% |
+| **Combined** | **3477** | **959** | **4436** | **78.4%** |
 
 ## Stories (separate pipeline)
 
@@ -54,7 +54,7 @@ Published story pages (content/stories/ST*.md): 433. The per-lane rows below are
 
 ## Reconciliation notes
 
-- Recorded-done principle IDs with no current page: 38 (K100, K101, K102, K103, K104, K105, K106, K108, K110, K111…)
+- Recorded-done principle IDs with no current page: 37 (K100, K101, K102, K103, K104, K105, K106, K108, K110, K111…)
 - Recorded-done concept titles with no current page (even after normalizing punctuation): 6 (Character as habits, Compassion for a struggling version of yourself, Cultivate your Compassionate Self, Language spinning beyond the world, Rest as practice…)
 - Concept records are matched to pages on alphanumeric-normalized titles, so renames between colon and dash forms do not show as unmatched; true renames or deletions appear above and are counted as done, not as backlog.
 

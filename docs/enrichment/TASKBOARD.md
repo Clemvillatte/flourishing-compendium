@@ -1,3 +1,18 @@
+WORKER/SUPERVISOR NOTE (2026-10-22 03:47 UTC, worker-sup-flourish-1022, supervisor baton):
+WORK-ORDER-2026-10-22 Task 1 EXECUTED AND PUSHED (commits bad583638, dd2a5f840): 25 person/org
+index concept nodes deleted; 33 backlink lines on 32 SO-principle pages reworked (12 retargeted
+to existing concept pages, 21 stripped to plain text, author names/dates preserved); queue-concepts.json
+and content/_order.json trimmed; Biglan et al retired from w1q (missing, recorded reason); 10 band
+manifests cleaned of deleted-node references (w1ab, w1ac, w1ad, w1af, w1t, w1u, w1v, w1x, w1y, w1z);
+w1ab's two moot identity HOLDs retired. build.py clean (5820 entries). Full record:
+sources/maintenance/person-node-cleanup-session-1022.md. Task 2: w1ag minted from the cleaned queue
+(the only 5 genuinely unassigned items) and COMPLETED (commit 468cc4a9f): Language on holiday,
+Authentic pride, Autonomous motivation, Hubristic pride, Controlled motivation — all quotes
+re-verified verbatim vs freshly opened carriers, validated --fast-track clean, 2 grounded Related
+lines added to Language on holiday. The owner's named examples Aisthesis and Wabi-sabi sit in w1x,
+which has a LIVE worker (worker-w1x-pplc-9c41f2e0). PROGRESS.md refreshed 03:47 UTC. Next:
+supervisor flags backlog (p1f's 25 predecessor QC debts first per the last closeout).
+
 Worker note UPDATE (16:02Z, worker-verify-pbt1, verification round 1 COMPLETE — PBT/EEMM
 QC-pending pages, 6/6): Treatment kernels, Context sensitivity, Variation-selection-retention,
 Tipping point (networks), Mediators of change, Tinbergen's four questions — ALL quotes
