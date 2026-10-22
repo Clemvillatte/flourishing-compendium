@@ -38,7 +38,8 @@
   "Dynamic Skill Theory",
   "Divided attention theory",
   "Encoding strategies",
-  "Delay reduction hypothesis"
+  "Delay reduction hypothesis",
+  "Deconstruction of essences"
  ],
  "in_progress": null,
  "flagged": {
@@ -50,9 +51,10 @@
   "Dichotomous (black-and-white) thinking": "Seed claim 'predicts distress and interpersonal dysfunction' is stronger than the scoping review (correlational, modest r); page states real scope.",
   "Dynamic Skill Theory": "Seed 'predictable growth spurts' only holds for optimal-level skill under high support; PP018 is flow-based and does not cite Fischer.",
   "Encoding strategies": "Seed lists organisation as a Craik & Lockhart 1972 claim; the paper supports depth/elaboration, organisation not found in checked passages.",
-  "Delay reduction hypothesis": "Filed under SO046 (in-group bias) but SO046 never mentions delay/reinforcement; Chung & Herrnstein attribution unverified (hypothesis is Fantino 1969)."
+  "Delay reduction hypothesis": "Filed under SO046 (in-group bias) but SO046 never mentions delay/reinforcement; Chung & Herrnstein attribution unverified (hypothesis is Fantino 1969).",
+  "Deconstruction of essences": "Seed cites Garfield, Engaging Buddhism (not opened); SEP says svabhava-as-essence is NOT the main Madhyamaka target (substance is). B010 title 'nothing has a fixed essence' is looser than SEP."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:53:05+00:00"
+ "updated": "2026-10-22T15:54:02+00:00"
 }
