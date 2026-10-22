@@ -1418,11 +1418,15 @@ words, all assigned to bands, none enriched yet): MBCT(w1v, now done), Learned H
 Theory(w1v, now done), Meaning-centred therapy(w1v, now done), Flourishing scale(w1r),
 Competence(w1r), Relatedness(w1s), Self-verification theory Swann(w1s), Polyvagal theory
 Porges(w1ac), Dispositional optimism(w1z), Ego integrity Erikson(w1z), Two-factor model of
-well-being(w1af), Wisdom theory Berlin paradigm(w1af). MISSING PAGES (no concept page
-exists; minting is supervisor/queue territory — FLAGGED for supervisor): Acceptance and
-Commitment Therapy (only Psychological flexibility + Process-based therapy pages exist),
-Tend-and-befriend, Positive psychology (field page), Virtue ethics, Hope theory (Snyder),
-Logotherapy, Ego development (Loevinger), Conscientiousness, Subjective well-being
-(Diener; only two-factor model + flourishing scale stubs), MBSR program page (only the
-body-scan practice page exists). Also: 'MBCT' page title is an acronym; consider renaming
+well-being(w1af), Wisdom theory Berlin paradigm(w1af). MISSING PAGES, reclassified after advisor QC audit (candidate coverage gaps, NOT confirmed
+missing — several were aliases; minting is supervisor/queue territory — FLAGGED):
+CONFIRMED CANDIDATES (no page or alias found): Acceptance and Commitment Therapy as a named
+theory (Psychological flexibility covers the core process but no ACT theory page),
+Tend-and-befriend, Positive psychology as a field, Virtue ethics as a named theory,
+Logotherapy (Frankl school; Meaning-centred therapy page now links to it but no page exists),
+Ego development (Loevinger), MBSR program page (only the body-scan practice page). COVERED BY
+EXISTING PAGES (do NOT mint duplicates): Snyder hope theory (Hope page), Self-determination
+theory (Self-determination page), Ryff model (Psychological well-being page), Big
+Five/Conscientiousness (Five-factor model page). Stub pages listed above remain weak and
+queued in their bands. Also: 'MBCT' page title is an acronym; consider renaming
 to 'Mindfulness-based cognitive therapy' (namespace change, supervisor call).
