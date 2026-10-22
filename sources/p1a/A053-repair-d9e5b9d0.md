@@ -17,3 +17,5 @@ The new example is imagined and expressly excludes threats or compulsion. It doe
 Removed unsupported empirical predictions from the inherited locus-of-control and self-efficacy rows while preserving both exact original wikilinks and author/date references. The Rotter and Bandura works were not opened or certified here.
 
 Read Responsibility, Prohairesis and Freedom locally; none has an actual A053 wikilink (Freedom only mentions the identifier in prose). Missing reciprocals are proposed. No concept page was edited.
+
+Final quotation audit re-fetched the exact III.1 sentence and confirmed "the agent himself". Its attribution is on a separate blockquote line, not treated as part of Aristotle's sentence. The five-item milestone advisor returned a scoped pass with no correction to this content.

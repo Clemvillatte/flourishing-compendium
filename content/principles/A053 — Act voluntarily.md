@@ -14,7 +14,8 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle distinguishes voluntary from involuntary action when considering praise, blame and pardon. His account asks where an action originates and what the person knew:
 
-> Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action. (NE III.1, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
+> Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action.
+> (NE III.1, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
 Calling an action voluntary does not mean approving it or saying that it was chosen after deliberation. Aristotle explicitly distinguishes voluntary action from deliberate choice in III.2 ([Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
