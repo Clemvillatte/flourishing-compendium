@@ -698,3 +698,5 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 - K157 Evening review: enriched to standard. Carrier opened: Di Stefano et al. 2014 HBS working paper findings via HBR report (raw-text quote check). Honest framing: three-question format stated as editorial. Original Operationalises links preserved (D054, B192, P179). Guided version: exempt (written reflection is its own record, supervisor disposition). Verified: validate.py ok.
 
 - K241 Seasonal redesign: enriched to standard. Carrier opened: Wood Tam Witt 2005 abstract via PubMed (raw-text quote check). Honest framing: seasonal-redesign framing stated as editorial. Original Operationalises links preserved (D054, D091, B177, P101). Guided version: exempt (unguided, supervisor disposition). Verified: validate.py ok.
+
+- K130 Decatastrophizing: enriched to standard. Carrier opened: Wilson & Gilbert 2005 Current Directions abstract via Sage (raw-text quote check). Honest framing: four-question format stated as editorial protocol. Original Operationalises links preserved (D075, B069, P019). Guided version: exempt (unguided, supervisor disposition). Verified: validate.py ok.
