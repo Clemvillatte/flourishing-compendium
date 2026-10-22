@@ -892,3 +892,30 @@ unprompted raw fetch of the cited Sage abstract page (Barsade 2002, ASQ 47(4)); 
 "pleasant and unpleasant spread with roughly equal strength" framing is supported by the
 abstract's "No hypothesized differences in contagion effects due to the degree of
 pleasantness of the mood expressed". No routed findings.
+
+## Round 37 (2026-10-22; inspection ~12:43-12:44Z; raw-text method with carrier fallbacks)
+
+### The paradox of valuing a goal excessively (w1s, fast-track done, commit 6164212ef)
+
+2 quoted passages checked, 2 PASS — the cited PubMed record (21517168) is empty-text to this
+fetcher, so verification used a search-engine snippet of that same PubMed record: the
+hypothesis passage (the page's quote elides the abstract's opening "Instead," and begins
+with "valuing happiness could be self-defeating..." — words otherwise identical) and the
+full Study 1/Study 2 results sentence both appear word-for-word. No routed findings.
+
+### The interpreter module (w1s, fast-track done, commit 790546ddc)
+
+Quoted passages checked:
+- The interpreter-module summary ("Managing and interpreting all of this constant and
+  parallel activity...") PASS — confirmed word-for-word via a full-text copy of Gazzaniga's
+  text indexed in search results (the cited OUP chapter could not be opened directly).
+- The chicken-claw demonstration reply ("Oh, that's simple. The chicken claw goes with the
+  chicken, and you need a shovel to clean out the chicken shed.") PASS — confirmed via
+  multiple independent sources quoting Gazzaniga (Frontiers review citing Gazzaniga 2000,
+  Gazzaniga's own Scientific American/Discover retellings), including the fluent-confident
+  framing.
+- The "interpreted that response only in the context of its own sphere of knowledge"
+  sentence was NOT directly confirmed this session (the cited OUP chapter is paywalled to
+  the fetcher and the sentence did not surface in the indexed excerpts); left open as a
+  scoped note, not a defect — the substance (the left hemisphere explaining from its own
+  knowledge, lacking the snow-scene information) is corroborated throughout.
