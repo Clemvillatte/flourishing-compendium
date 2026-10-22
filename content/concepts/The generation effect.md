@@ -13,17 +13,17 @@ The generation effect is the memory finding that self-produced knowledge is reta
 
 ### What the experiments showed
 
-The advantage held across test formats and conditions, as the abstract states: "This held for measures of cued and uncued recognition, free and cued recall, and confidence ratings. The phenomenon persisted across variations in encoding rules, timed or self-paced presentation, presence or absence of test information, and between- or within-subjects designs." The generation task used rules like rhyme, association and antonym pairs: given a cue word, a relation rule and the first letter, the subject produced the target word themselves rather than reading it whole. The authors' conclusion was deliberately modest about mechanism: "It is concluded that the generation effect is real and that it poses an interesting interpretative problem."
+The advantage held across test formats and conditions, as the abstract reports: measures of cued and uncued recognition, free and cued recall, and confidence ratings all favoured the generated words, and the phenomenon persisted across variations in encoding rules, timed or self-paced presentation, presence or absence of test information, and between- or within-subjects designs. The authors' conclusion was deliberately modest about mechanism: "It is concluded that the generation effect is real and that it poses an interesting interpretative problem."
 
 ### How big it is
 
-A later meta-analysis summarised the field: "Meta-analytic techniques were used to summarize 445 effect sizes over 86 studies, thereby assessing the magnitude and 11 potential moderators of the generation effect. The size of the generation effect across the 86 studies was .40—a benefit of almost half a standard deviation of generation over reading" (Bertsch, Pesta, Wiscott & McDaniel, 2007, [Memory & Cognition, 35(2), 201–210](https://pubmed.ncbi.nlm.nih.gov/17645161/)). The compendium principle P042 carries the practical reading: learn by doing, because the producing is the encoding. A compendium exercise drawn from the effect is to close the source and restate the material in one's own words before checking, rather than re-reading. What the studies do not show: that any generation helps any material equally; the meta-analysis found the moderators mattered, with substantial variability across conditions.
+A later meta-analysis summarised the field: "Meta-analytic techniques were used to summarize 445 effect sizes over 86 studies, thereby assessing the magnitude and 11 potential moderators of the generation effect. The size of the generation effect across the 86 studies was .40—a benefit of almost half a standard deviation of generation over reading" (Bertsch, Pesta, Wiscott & McDaniel, 2007, [Memory & Cognition, 35(2), 201–210](https://pubmed.ncbi.nlm.nih.gov/17645161/)). The compendium principle P042 carries the practical reading: learn by doing. A compendium exercise drawn from the effect is to close the source and restate the material in one's own words before checking, rather than re-reading. What the studies do not show: that any generation helps any material equally; the meta-analysis found the moderators mattered, with substantial variability across conditions.
 
 ## Related concepts
 
 - [[Desirable difficulties]] — the family of findings where harder encoding yields better retention
-- [[The testing effect retrieval practice]] — the sibling finding that retrieving, not re-reading, is what memory keeps
-- [[Fluency-driven illusory truth]] — the complementary trap, where easy reading feels like learning
+- [[The testing effect retrieval practice]] — the sibling finding in the same family, where practice testing strengthens memory
+- [[Fluency-driven illusory truth]] — the complementary trap: easy processing mistaken for knowing
 
 ## Sources
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The holographic whole is Leibniz's picture, in the Monadology, of a universe in which every part mirrors the whole: each simple substance expresses all the others, so that the whole is present, from its own angle, in each piece. His formulation:
 
-> "And this connection or accommodation of all created things to each and of each to all the others, means that each simple substance has relations that express all the others, and, consequently, that it is a perpetual living mirror of the universe." (Leibniz, Monadology §56, trans. Robert Latta, rev. Donald Rutherford, [UCSD](https://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/translations/Monadology.pdf))
+> "Now this connection or accommodation of all created things to each and of each to all the others, means that each simple substance has relations that express all the others, and, consequently, that it is a perpetual living mirror of the universe." (Leibniz, Monadology §56, trans. Robert Latta, rev. Donald Rutherford, [UCSD](https://philosophyfaculty.ucsd.edu/faculty/rutherford/Leibniz/translations/Monadology.pdf))
 
 ### What the doctrine carries
 

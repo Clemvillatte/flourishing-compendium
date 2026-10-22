@@ -7,7 +7,7 @@ file: "The mirror overturning"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The mirror overturning is the move Huineng makes in the Platform Sutra's verse contest: Shenxiu pictures the mind as a mirror to be kept polished; Huineng answers that there is no mirror, no stand and no dust to begin with. The contest is set up by the Fifth Patriarch, who asks each disciple to "write a verse and bring it to me," promising the robe to whoever "has awakened to the cardinal meaning." Shenxiu, the head monk, writes his at midnight on the corridor wall:
+The mirror overturning is the move Huineng makes in the Platform Sutra's verse contest: Shenxiu pictures the mind as a mirror to be kept polished; Huineng answers that the tree is originally not a tree, the mirror has no stand, and there is no room for dust. The contest is set up, in the story the sutra tells, by the Fifth Patriarch, who asks each disciple to "write a verse and bring it to me," promising the robe to whoever "has awakened to the cardinal meaning." Shenxiu, the head monk, writes his at midnight on the corridor wall:
 
 > "The body is the bodhi tree, / The mind is like a clear mirror. / At all times we must strive to polish it, / And must not let the dust collect." (Platform Sutra, in [Sources of Chinese Tradition](https://afe.easia.columbia.edu/main_pop/ps/ps_china-huineng-platform-sutra.htm))
 
@@ -19,7 +19,7 @@ Huineng, working in the threshing room, hears the verse and judges that its auth
 
 ### What the overturning carries
 
-The two verses are the classical statement of the gradual and sudden paths. Shenxiu's mirror presumes a mind that accumulates defilement and must be worked on; Huineng's reply denies the premise rather than improving the method. The compendium's kernel K010 uses this as the model for stepping back from the ego to the field: the error is not dirty glass but the identification of awareness with one polished object. A compendium exercise drawn from the pair is to notice a moment of self-improvement effort and ask what is being taken as the mirror. What the sutra does not argue in this scene: that polishing practice is useless; later chapters of the Platform Sutra treat gradual discipline respectfully, and the verse pair survives as a tension the tradition kept rather than a verdict it closed.
+The two verses are the classical statement of the gradual and sudden paths. Shenxiu's mirror presumes a mind that accumulates defilement and must be worked on; Huineng's reply denies the premise rather than improving the method. The compendium connects this with K010's step back from the ego to the field: the polishing self and the polished mirror are both objects in the field, not the field itself. A compendium exercise drawn from the pair is to notice a moment of self-improvement effort and ask what is being taken as the mirror. What the sutra does not argue in this scene: that polishing practice is useless; Huineng's verse denies the premise of Shenxiu's mirror, not the value of discipline. The contest itself is a story the Platform Sutra tells, not a separately verified event.
 
 ## Related concepts
 
