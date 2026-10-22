@@ -44,9 +44,10 @@
   "Transcendence",
   "Tuckman group development model",
   "Ultradian performance rhythms",
-  "Ultradian rhythms in attention"
+  "Ultradian rhythms in attention",
+  "Valuation as growth-direction"
  ],
- "in_progress": "Valuation as growth-direction",
+ "in_progress": null,
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -57,6 +58,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:22:57+00:00",
+ "updated": "2026-10-22T08:23:34+00:00",
  "band_done": false
 }
