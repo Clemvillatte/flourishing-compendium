@@ -66,7 +66,7 @@
   "Anti-authoritarian inquiry",
   "Anti-essentialism"
  ],
- "in_progress": null,
+ "in_progress": "Anti-representationalism",
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -77,6 +77,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:29:49+00:00",
+ "updated": "2026-10-22T08:29:56+00:00",
  "band_done": false
 }
