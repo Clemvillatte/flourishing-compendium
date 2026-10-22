@@ -19,3 +19,9 @@
 - Claims narrowed: the seed's sentence "This approach has cost me more than it has given me" labelled the practice's own wording on the page; not-tested paragraph states the trial tested an eight-session therapist-delivered package (this audit was one phase), not a standalone self-administered exercise; response rates scoped to OCD patients in treatment.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
 - Validation: exit 0; workflow-narration grep clean (the only "session" matches are the trial's "eight sessions" description, clinical content).
+
+## 2026-10-22 — K233 Weekly inquiry loop (worker-k1b-pplx)
+- Sources opened this session: Konigorski, Ried-Larsen and Schmid, "Digital N-of-1 trials and their application in experimental physiology" (PMC13394772, full text; verbatim quotes: the replicate multi-crossover definition, the supplement-not-replacement sentence, the statistically-valid-estimates sentence); Shaffer et al. 2018 health psychology systematic review (PMC6128372, full text; verbatim quotes: the within-person definition, the rigor-limitation abstract sentence, repetitions-analogous-to-sample-size, the randomization recommendation).
+- Claims narrowed: the Monday/Friday weekly framing and the coffee/walk examples are the practice's own; not-tested paragraph states no study tested a one-week self-administered loop, the reviewed trials tested clinical treatments in multi-period designs, and the honest limits are the reviewers' own flags (too few repetitions, no randomization).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
+- Validation: exit 0; workflow-narration grep clean.
