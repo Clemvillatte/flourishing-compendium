@@ -15,7 +15,7 @@ Barsade's laboratory study put a trained confederate into small groups doing a m
 
 > "Using a 2 times 2 experimental design, with a trained confederate enacting mood conditions, the predicted effect of emotional contagion was found among group members, using both outside coders' ratings of participants' mood and participants' self-reported mood." ([Barsade, 2002, abstract](https://journals.sagepub.com/doi/10.2307/3094912))
 
-The downstream effects ran through the group's work: "the positive emotional contagion group members experienced improved cooperation, decreased conflict, and increased perceived task performance." Pleasant and unpleasant moods spread with roughly equal strength; the valence, not the contagiousness, differed ([Barsade, 2002, abstract](https://journals.sagepub.com/doi/10.2307/3094912)). One person's affective state, in other words, is a group input variable.
+The downstream effects ran through the group's work: "the positive emotional contagion group members experienced improved cooperation, decreased conflict, and increased perceived task performance." The study did not detect the predicted differences in contagion associated with mood pleasantness or energy level ([Barsade, 2002, abstract](https://journals.sagepub.com/doi/10.2307/3094912)). One person's affective state, in other words, is a group input variable.
 
 ### In the compendium
 

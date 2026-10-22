@@ -15,7 +15,7 @@ Their multi-study meta-analysis of ten UK studies (1,252 participants) asked wha
 
 > "Dose responses for both intensity and duration showed large benefits from short engagements in green exercise, and then diminishing but still positive returns." ([Barton and Pretty, 2010](https://pubmed.ncbi.nlm.nih.gov/20337470/))
 
-The benefit front-loads: the first minutes of moving in nature carry most of the measured change. "Every green environment improved both self-esteem and mood; the presence of water generated greater effects" ([Barton and Pretty, 2010](https://pubmed.ncbi.nlm.nih.gov/20337470/)). These are self-esteem and mood indicators, not clinical outcomes.
+Short engagements carried large benefits, with diminishing but still positive returns as duration grew. "Every green environment improved both self-esteem and mood; the presence of water generated greater effects" ([Barton and Pretty, 2010](https://pubmed.ncbi.nlm.nih.gov/20337470/)). These are self-esteem and mood indicators, not clinical outcomes.
 
 ### In the compendium
 

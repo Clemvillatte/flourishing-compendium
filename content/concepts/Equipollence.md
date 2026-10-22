@@ -13,7 +13,7 @@ Equipollence is the Pyrrhonian skeptic's balancing move. For any claim, the skep
 
 Katja Vogt's summary of the basic elements runs:
 
-> "The skeptic puts appearances and thoughts into opposition; this generates equipollence (isostheneia, lit. 'of equal weight') between several appearances and/or thoughts; suspension of judgment follows; with it comes tranquility; and the skeptic leads a life according to appearances (DL 9.62, 78, 106-107)." ([Vogt, SEP, Ancient Skepticism §4.2](https://plato.stanford.edu/entries/skepticism-ancient/))
+> "The skeptic puts appearances and thoughts into opposition; this generates equipollence (isostheneia, lit. 'of equal weight') between several appearances and/or thoughts; suspension of judgment follows; with it comes tranquility; and the skeptic leads a life according to appearances (DL 9.62, 78, 106–7)." ([Vogt, SEP, Ancient Skepticism §4.2](https://plato.stanford.edu/entries/skepticism-ancient/))
 
 The interesting part is what equipollence is for. The proto-skeptics began disturbed by the discrepancies among appearances and hoped to settle what was true and false; encountering views "of equal weight," they found themselves unable to decide, gave up, and experienced tranquility ([Vogt, SEP §4.4](https://plato.stanford.edu/entries/skepticism-ancient/)).
 

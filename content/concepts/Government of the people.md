@@ -13,7 +13,7 @@ Government of the people is the phrase Abraham Lincoln used at Gettysburg on Nov
 
 ### What the phrase carries
 
-The formula stacks three relations: government of the people (who holds it), by the people (who exercises it), for the people (whom it serves). Lincoln set it against the secession war being fought at the time, defining the conflict as a test of whether such a system "can long endure." The Library of Congress notes the speech equated the war's suffering with the effort to live up to the proposition that all men are created equal ([Library of Congress](https://www.loc.gov/item/2021689291/)). As a cultural parallel, the phrase supplies the democratic horizon of the compendium's principles on participation.
+The three prepositions can be read as government belonging to the people, exercised by them and serving them. Lincoln describes the Civil War as a test of whether a nation founded on liberty and equality can endure, and asks the living to continue the work of those who died ([Library of Congress transcription](https://www.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-inscribed.html)). The Library of Congress summary of the speech reads the war's suffering against the proposition that all men are created equal ([Library of Congress](https://www.loc.gov/item/2021689291/)).
 
 ### In the compendium
 
@@ -29,3 +29,5 @@ The formula stacks three relations: government of the people (who holds it), by 
 [[D158 — Don't tax yourself dry]]
 [[ST129 — Addams's Democracy as a Way of Life]]
 ## Cited in philosophy parallels
+
+- [[SP079 — Prefer democracy, and participate]]
