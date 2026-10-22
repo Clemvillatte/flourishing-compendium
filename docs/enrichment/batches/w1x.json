@@ -51,9 +51,10 @@
   "Vocation as calling",
   "Wise speech criteria",
   "Yoga physiology theory",
-  "Abduction"
+  "Abduction",
+  "Above the battle of the elements"
  ],
- "in_progress": "Above the battle of the elements",
+ "in_progress": null,
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -64,6 +65,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:25:37+00:00",
+ "updated": "2026-10-22T08:25:48+00:00",
  "band_done": false
 }
