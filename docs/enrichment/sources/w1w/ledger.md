@@ -705,7 +705,7 @@
 - Repair applied: inline citation and Sources row changed ch. 5 -> ch. 4.
 - Validator: 1 checked, 0 failed. State: reopen -> done.
 
-## Repair pass — carrier accessibility (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~12:02Z)
+## Repair pass — carrier accessibility (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:45Z)
 
 - Trigger: the two verify-8d4e2f60 carrier-accessibility findings routed to the w1w owner.
 - THE I AND THE ME — re-verified both Mead quotes first-hand against the Internet Archive

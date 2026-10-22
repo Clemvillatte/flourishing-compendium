@@ -28,7 +28,7 @@ His running example is the oldest form of the problem: "We know a person's face,
 
 ## Sources
 
-- Polanyi, Michael. The Tacit Dimension (1966), chapter "Tacit Knowing," pp. 4-13. [Excerpt](https://tacit-knowledge-architecture.com/object/the-tacit-dimension-excerpt/); [book scan, Internet Archive](https://archive.org/details/tacitdimension0000pola)
+- Polanyi, Michael. The Tacit Dimension (1966), chapter "Tacit Knowing," pp. 4-13. [Excerpt](https://tacit-knowledge-architecture.com/object/the-tacit-dimension-excerpt/); [full text PDF](https://raw.githubusercontent.com/peatysharing/bibliography/main/Michael%20Polanyi/1967%20-%20Michael%20Polanyi%20-%20The%20Tacit%20Dimension.pdf); [book scan, Internet Archive (borrow)](https://archive.org/details/tacitdimension0000pola)
 - Polanyi, The Tacit Dimension
 
 ## Cited in psychology parallels
