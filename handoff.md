@@ -1532,3 +1532,16 @@ stay local.
   necessarily dead — try the fetch tool before routing.
 - Stubs flagged for the next w1ac-class workers: RFT 95 words, Pre-theoretical experience
   53, Pre-understanding 49, Reinterpretation of the past 60, Creative values 95.
+
+## Supervisor session part 6 (worker-sup-6dc18459, 12:11-12:14 UTC)
+
+- Feng shui QC-pending DECIDED: secondary-carrier Ci-hai quotation ACCEPTED under the
+  E016/E070/K001 precedent (opened ICOMOS carrier, provenance disclosed); the w1aa state
+  already shows the item done — decision recorded for the audit trail.
+- PROGRESS dashboard refreshed again (concepts 1689/2260, principles 2170/2183).
+- Verification samples this session: 7 live-band items checked (Seneca, Bergson, McConnell,
+  Houben, Barrett, Prochaska-DiClemente, Sened) — all verbatim EXACT vs freshly opened
+  carriers; 1 defect found+repaired (Nietzsche translator attribution).
+- Remaining supervisor-priority backlog for the next session: the flags disposition pass
+  (~1370 flagged items remain across bands; 8 cleared this session), the 5 stub enrichments
+  flagged above, owner decisions routed (Y024 title, PP014 label, p1u SCOPE_CORRECTION).
