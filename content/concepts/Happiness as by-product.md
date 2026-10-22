@@ -9,9 +9,24 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Happiness as by-product” — Frankl, Man's Search for Meaning.
 
+The claim, in Frankl and before him in Mill, is that happiness is not something one can successfully aim at. It arrives as a side effect of caring about something else — a person, a work, an improvement — and the moment it becomes the target of attention it dissolves.
+
+> "Those only are happy (I thought) who have their minds fixed on some object other than their own happiness; on the happiness of others, on the improvement of mankind, even on some art or pursuit, followed not as a means, but as itself an ideal end. Aiming thus at something else, they find happiness by the way." — [John Stuart Mill, Autobiography, ch. 5 (1873), full text](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm)
+
+### Why scrutiny spoils it
+
+Mill continues: "Ask yourself whether you are happy, and you cease to be so." Enjoyments "will not bear a scrutinizing examination"; taken en passant they suffice, made the principal object they are "immediately felt to be insufficient." The mechanism matters for flourishing rather than mere consolation. A life organised around an external end has something for attention to rest on; a life organised around its own mood has only the mood to inspect, and inspection is exactly what moods cannot survive. Frankl's version, formed in the camps, reaches the same conclusion from the other direction: meaning is available even when happiness is not, and meaning is what happiness grows out of when it does.
+
+## Related concepts
+
+- [[Flow]] — absorption in an activity pursued for its own sake, the paradigm case of happiness arriving by the way
+- [[Hedonic adaptation]] — why the directly pursued pleasure keeps needing to be replaced
+
 ## Sources
 
 - Frankl, Man's Search for Meaning
+
+- [John Stuart Mill, Autobiography (1873), chapter 5, full text](https://www.gutenberg.org/files/10378/10378-h/10378-h.htm) — passage quoted verbatim above
 
 [[AF019 — Recognise the paradox of hedonic pursuit — chasing positive affect can reduce it]]
 ## Cited in philosophy parallels
