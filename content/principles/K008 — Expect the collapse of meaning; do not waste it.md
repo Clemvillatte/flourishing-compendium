@@ -27,7 +27,7 @@ On pages 4-5, Nishitani describes a conversion from a self-centered mode of bein
 
 ## Sources
 
-- [Keiji Nishitani, Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982 — Internet Archive catalog record for the edition](https://archive.org/details/religionnothingn0000nish_n5t7)
+- [Keiji Nishitani, Religion and Nothingness, University of California Press, 1982 — Internet Archive catalog record for the edition](https://archive.org/details/religionnothingn0000nish_n5t7)
 
 ## Psychology parallels
 

@@ -12,16 +12,26 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 66** — Recognise the role of challenge in growth: difficulty develops self
 
-Vygotsky gave the calibration a name: the zone of proximal development, "the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance or in collaboration with more capable peers" (*Mind in Society*, 1978, ch. 6, "Interaction between Learning and Development"). In Vygotsky's account of learning, what a learner cannot yet do alone but can do with help marks the functions still maturing, and his formula generalizes the point: "the only 'good learning' is that which is in advance of development" (same chapter). The compendium's application, broader than the original classroom research: deliberately seek appropriate challenge, the task just beyond independent reach but within reach with help.
+Vygotsky gave the calibration a name: the zone of proximal development, "the distance between the actual developmental level as determined by independent problem solving and the level of potential development as determined through problem solving under adult guidance or in collaboration with more capable peers" (Vygotsky, Mind in Society, 1978, ch. 6, "Interaction between Learning and Development"). In Vygotsky's account of learning, what a learner cannot yet do alone but can do with help marks the functions still maturing, and his formula generalizes the point: "the only 'good learning' is that which is in advance of development" (same chapter). The compendium's application, broader than the original classroom research: deliberately seek appropriate challenge, the task just beyond independent reach but within reach with help.
 
 **Plain words** There is a gap between what you can do alone and what you can do with help — a teacher, a coach, a more capable partner. Vygotsky's claim is that development happens in that gap: the good task is the one you cannot yet finish unaided but can finish with help. Challenge matters, and so does the help around it.
 
 *For example:* A user learning a demanding new skill pairs each stretch task with someone more capable — working alongside them first, then doing the same work alone, then stretching again — so the challenge stays just past independent reach.
 
+### The Nietzsche cousin
+
+"From the military school of life. —That which does not kill me, makes me stronger." (Twilight of the Idols, Maxims and Arrows 8; [English text](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm).) The German original: "Aus der Kriegsschule des Lebens. - Was mich nicht umbringt, macht mich stärker." ([German text](https://www.gutenberg.org/cache/epub/7203/pg7203.html).) Read it as a report of what can happen, not a promise.
+
+### What the research says
+
+Reported growth after adversity is real as a perception and contested as a change. In a US sample followed through the COVID-19 pandemic, "Perceptions of growth were largely unrelated to experienced positive changes and thus appear to be largely illusory" (Park et al., 2023). Reported growth and distress can coexist. The aphorism is a description, not the evidence.
+
 ## Sources
 
-- [L. S. Vygotsky, Mind in Society: The Development of Higher Psychological Processes, Harvard University Press, 1978 — full text, ch. 6](https://archive.org/stream/levs.vygotskymindinsocietythedevelopmentzlib.org/%5BLev_S._Vygotsky%5D_Mind_in_Society__The_Development(z-lib.org)_djvu.txt)
+- [L. S. Vygotsky, Mind in Society: The Development of Higher Psychological Processes, Harvard University Press, 1978 — full book; cited passages in chapter 6](https://archive.org/stream/levs.vygotskymindinsocietythedevelopmentzlib.org/%5BLev_S._Vygotsky%5D_Mind_in_Society__The_Development(z-lib.org)_djvu.txt)
 - [Friedrich Nietzsche, Götzen-Dämmerung (German text), Project Gutenberg — Sprüche und Pfeile 8](https://www.gutenberg.org/cache/epub/7203/pg7203.html)
+- [Friedrich Nietzsche, The Twilight of the Idols (English text), Project Gutenberg — Maxims and Arrows 8](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm)
+- [Park, Wilt, Russell and Fendrich (2023), "Does Perceived Post-Traumatic Growth During the COVID-19 Pandemic Reflect Actual Positive Changes?", PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10314967/)
 
 ## Psychology parallels
 
@@ -43,12 +53,6 @@ Vygotsky gave the calibration a name: the zone of proximal development, "the dis
 
 - [[K374 — "What happened to you?" (trauma-informed reframe)]] — **tension**
 - [[K375 — Setback, not relapse]] — **grounding**
-
-**Nietzsche's own formulation:** "Aus der Kriegsschule des Lebens. - Was mich nicht umbringt, macht mich stärker." (*Götzen-Dämmerung*, Sprüche und Pfeile 8, [Project Gutenberg German text](https://www.gutenberg.org/cache/epub/7203/pg7203.html).) Common English renderings: "What does not kill me, makes me stronger" and "What does not destroy me, makes me stronger." The English rendering is verified at *Twilight of the Idols*, Maxims and Arrows §8.
-
-**Psychological caveat (do not romanticize):** PTSD is real. Continuing symptoms do *not* mean a person's self has been "destroyed." The aphorism is a description of what is *possible*, not a promise of what is *inevitable*.
-
-**Psychological evidence:** Research on post-traumatic growth shows the relationship between trauma and growth is complex and heterogeneous. Reported growth and distress can coexist; outcomes vary between individuals, and researchers debate how much measured growth reflects genuine change rather than coping (for a prospective study in the debate, see ["Does Perceived Post-Traumatic Growth During the COVID-19 Pandemic Reflect Actual Positive Changes?"](https://pmc.ncbi.nlm.nih.gov/articles/PMC10314967/)). The aphorism and the research are separate matters: the philosophical sentence is not the evidence for the psychological findings.
 
 ## Related thinkers
 
