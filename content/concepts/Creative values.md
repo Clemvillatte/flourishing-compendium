@@ -15,6 +15,18 @@ Creative values are Viktor Frankl's name for the first of the three routes to me
 
 The book's comment on the list: "The first, the way of achievement or accomplishment, is quite obvious. The second and third need further elaboration." Uemura identifies these routes as creative, experiential and attitudinal values, citing Frankl (1984, p. 133). In his account, creative values concern meaning found through creating a work or doing a deed. ([Uemura](https://www.davidpublisher.com/Public/uploads/Contribute/5baf1de27225a.pdf))
 
+### Why the route works
+
+Frankl's account of the route rests on his picture of the person as directed outward, toward something or someone beyond the self:
+
+> "It denotes the fact that being human always points, and is directed, to something, or someone, other than oneself—be it a meaning to fulfill or another human being to encounter. The more one forgets himself—by giving himself to a cause to serve or another person to love—the more human he is and the more he actualizes himself." (Frankl, Man's Search for Meaning, [Beacon Press edition, Internet Archive](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf))
+
+He adds a caution that the route cannot be walked by aiming at its rewards:
+
+> "For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side-effect of one's dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself." (Frankl, Man's Search for Meaning, [Beacon Press edition, Internet Archive](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf))
+
+Taken together, the two passages give the creative route its shape. The work matters because it carries the person beyond themselves, and what the world gives back, recognition, success, even flourishing, arrives as a by-product that cannot be chased directly. Frankl calls the way of achievement the obvious one; the self-transcendence passage supplies its mechanism, and the success passage its limit.
+
 ### In the compendium
 
 - [[E062 — Practise meaning through creative work]] — the compendium's principle for this route
@@ -36,6 +48,6 @@ The book's comment on the list: "The first, the way of achievement or accomplish
 
 - Frankl, Man's Search for Meaning
 
-- [Viktor Frankl, Man's Search for Meaning (Beacon Press edition), full-text PDF, Internet Archive](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf) — blockquote and three-routes passage
+- [Viktor Frankl, Man's Search for Meaning (Beacon Press edition), full-text PDF, Internet Archive](https://dn790009.ca.archive.org/0/items/BetweenPastAndFutureHannahArendt/Man's%20Search%20For%20Meaning%20-%20Viktor%20Frankl.pdf) — blockquote, three-routes passage, self-transcendence passage and success passage
 
 - [Kenjiro Uemura, "The Fourth Meaning in Life", davidpublisher.com PDF](https://www.davidpublisher.com/Public/uploads/Contribute/5baf1de27225a.pdf) — supports the creative values label with its Frankl (1984, 133) citation
