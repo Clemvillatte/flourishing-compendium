@@ -377,3 +377,15 @@ Decisions:
 - Front-matter preserved; D140/P166 Cited-in wikilinks preserved.
 - Related concepts: The actualizing tendency (existing original).
 - No reciprocal proposals (fast-track bar).
+
+### Confirming the other (fast-track, deg 4)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/buber/ — SEP Zank & Braiterman. Three sentences fetched verbatim: the confirmation-of-the-I-mediated-by-the-other passage; the Distance-and-Relation-1951 setting; the form-of-otherness sentence.
+
+Decisions:
+- Fast-track eligibility: deg 4 < 15 confirmed.
+- Front-matter preserved; D126 Cited-in wikilink preserved; ST284 story wikilink preserved in the original trailing position.
+- Related concepts: Alterity, The primacy of the ethical (both existing originals per neighbors).
+- Buber I and Thou book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
