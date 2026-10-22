@@ -12,21 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 404** — Practise the reduction as ongoing
 
-Husserl's reduction turns inquiry towards how the world is experienced. Bracketing means setting aside reliance on a belief about what exists while describing that experience; it leaves the belief itself intact. He calls treating something as really there a "positing" ([Husserl, Ideas I §31, Kersten translation, UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm); [Beyer, §§5–6](https://plato.stanford.edu/archives/Win2023/entries/husserl/)).
+Husserl's reduction turns inquiry towards how the world is experienced. Bracketing changes how a belief is used in that inquiry: a conviction about what exists can remain intact while its use as a premise is suspended. ([Husserl, Ideas I §31, Kersten translation, UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm); [Beyer, §§5–6](https://plato.stanford.edu/archives/Win2023/entries/husserl/))
 
-> "We do not give up the positing we effected" (Ideas I §31, trans. F. Kersten, p. 59, [UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm)).
+Robert D. Walsh describes the repeated return to the natural attitude, in which the world is simply taken for granted. His reading makes renewal part of the method, rather than evidence that an earlier attempt was worthless. ([Walsh, pp. 212, 217, 222–223](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)) Even the language used to describe experience can carry assumptions that need examining: Walsh discusses Husserl's caution about calling transcendental experience a “stratum.” ([Walsh, p. 212, discussing Crisis §51](https://journals.ku.edu/auslegung/article/download/12981/12277/25612))
 
-Robert D. Walsh notes Husserl's repeated slipping back into the natural attitude: simply accepting the world as given. He presents the reduction as a practice requiring renewal. Walsh quotes Husserl's call to live it "as a habitual attitude which we resolve to take up once and for all" (Crisis §40, p. 150, quoted in Walsh p. 217), then adds "over and over again" ([Walsh, pp. 212, 217, 222–223](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
-
-(Husserl, 1954/1970, The Crisis, §§35-38, 71; Husserl, 1913/1982, Ideas I, §§31-33.)
+(Husserl, 1954/1970, The Crisis, §§35-38, 71; Husserl, Ideas I, §§31-33; the Kersten extracts used here identify the 1983 edition.)
 
 ### Plain words
 
-You begin by asking how something appears to you. While describing it, you may find yourself again relying on beliefs about what is really there. Continuing means noticing that shift and returning to the question about experience, rather than treating one attempt as the end of the work ([Walsh, pp. 222–223](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+Ask how something appears to you, then notice when your explanation starts taking things for granted again. Return to the description without demanding a final, assumption-free view. That return is part of the work. ([Walsh, pp. 222–223](https://journals.ku.edu/auslegung/article/download/12981/12277/25612))
 
 ### For example
 
-Walsh discusses Husserl's warning about describing transcendental experience as a "stratum". Such language comes from ordinary worldly experience; Husserl requires a transformation of its sense, not a ban on the metaphor. Even explanatory language needs checking for assumptions the method sets aside ([Walsh, p. 212, discussing Crisis §51](https://journals.ku.edu/auslegung/article/download/12981/12277/25612)).
+As a small exercise inspired by the method, describe how a familiar room appears from your chair. Reread for places where an explanation of the room has replaced its appearance, then revise those sentences. This exercise is a beginning in examining assumptions, not a claim to have completed the transcendental reduction.
+
+## Related concepts
+
+- [[Epoché]]: suspending reliance on a judgement.
+- [[The ongoing reduction]]: renewal of the phenomenological attitude.
+- [[Intentionality]]: experience as directed towards something.
 
 ## Stories
 
@@ -60,3 +64,13 @@ Walsh discusses Husserl's warning about describing transcendental experience as 
 - **Practice and habit** (Aristotle, Nicomachean Ethics II.1)
 
 - **[[Epoché|Epoché]]** (Existentialism & Phenomenology)
+
+## Sources
+
+### Primary source (verbatim)
+
+> "We do not give up the positing we effected"
+>
+> Edmund Husserl, Ideas I, §31, p. 59, translated by F. Kersten; 1983 edition identified by the [UCL extracts](https://www.homepages.ucl.ac.uk/~uctysar/Husserl%20I-C%20lects%20-%20Ideas%20extracts.htm). This is a sentence opening, not a complete sentence.
+
+- Robert D. Walsh, “Husserl's Epoche as Method and Truth,” pp. 212, 217, 222–223. [University of Kansas journal text](https://journals.ku.edu/auslegung/article/download/12981/12277/25612).
