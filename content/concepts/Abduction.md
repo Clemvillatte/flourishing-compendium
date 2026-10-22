@@ -15,7 +15,7 @@ Abduction is Peirce's name for the inference that introduces a hypothesis to exp
 
 ### Why it is a distinct kind of inference
 
-Peirce's own summary of its place in the triad: "Abduction is the process of forming an explanatory hypothesis. It is the only logical operation which introduces any new idea; for induction does nothing but determine a value, and deduction merely evolves the necessary consequences of a pure hypothesis" ([Peirce, CP 5.171, 1903, quoted in IEP, Peirce: Logic](https://iep.utm.edu/peir-log/)). The trigger is the surprise, and the conclusion is a suspicion, not a proof. Peirce later called it "Reasoning from Surprise to Inquiry" ([quoted in the Johns Hopkins abduction article](https://muse.jhu.edu/article/745412/pdf)).
+Peirce's own summary of its place in the triad: "Abduction is the process of forming an explanatory hypothesis. It is the only logical operation which introduces any new idea; for induction does nothing but determine a value, and deduction merely evolves the necessary consequences of a pure hypothesis" ([Peirce, CP 5.171, 1903, as quoted in Desclés, ILLC paper](https://resources.illc.uva.nl/CRAIPS/uploaded_files/inlineitem/1cr.aips.2.descles.pdf)). The trigger is the surprise, and the conclusion is a suspicion, not a proof. Peirce later called it "Reasoning from Surprise to Inquiry" ([quoted in the Johns Hopkins abduction article](https://muse.jhu.edu/article/745412/pdf)).
 
 The inference is not empty, and it is not a free guess: the hypothesis must already be the kind of thing that would make the fact "a matter of course." What abduction licenses is the adoption of the hypothesis as worth testing, not as true. Peirce in the logic-of-documents passage: "This step of adopting a hypothesis as being suggested by the facts, is what I call abduction" ([quoted in the Cambridge Compositional Abduction chapter](https://www.cambridge.org/core/books/compositional-abduction-and-scientific-interpretation/peirce-and-the-neopeirceans/C9419EFDE55E09BA3FC3C331CACE71A8)).
 
@@ -31,7 +31,8 @@ The compendium holds abduction for its plain usefulness in a flourishing practic
 ## Sources
 
 - [SEP, "Peirce on Abduction"](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html) — verbatim CP 5.189 schema and CP 5.172
-- [IEP, "Charles Sanders Peirce: Logic"](https://iep.utm.edu/peir-log/) — verbatim CP 5.171 triad quote
+- [IEP, "Charles Sanders Peirce: Logic"](https://iep.utm.edu/peir-log/) — IEP explanation of abduction; carrier of the CP 5.172 fragment
+- [Desclés, "Plausible hypothesis constructed by abduction", ILLC paper](https://resources.illc.uva.nl/CRAIPS/uploaded_files/inlineitem/1cr.aips.2.descles.pdf) — carrier of the verbatim CP 5.171 triad quote
 - [Johns Hopkins MUSE, abduction in scientific practice](https://muse.jhu.edu/article/745412/pdf) — "Reasoning from Surprise to Inquiry" quote
 - Peirce, Collected Papers (original citation line preserved)
 

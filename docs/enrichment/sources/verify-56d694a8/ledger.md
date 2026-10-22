@@ -58,3 +58,16 @@ Session total: 12 w1x pages (all), 2 w1w repairs, 3 w1v recent items, and 1 w1u-
 against freshly opened carriers; 32 quoted passages verified verbatim; 5 defects found and repaired; all repaired
 pages re-validated. No open findings remain from this session's rounds.
 
+
+## Round 4 — morning fast-track sample across released pages (~11:55-12:11 UTC)
+
+1. **Abduction** — CP 5.189 schema VERIFIED via [SEP](https://plato.stanford.edu/archives/fall2026/entries/abduction/peirce.html) (page's semicolon after "observed" matches the CP primary as reproduced in scholarly sources; SEP normalizes to a period — noted, no repair). CP 5.171 triad quote: wording VERIFIED (multiple scholarly reproductions; opened the [Desclés ILLC paper](https://resources.illc.uva.nl/CRAIPS/uploaded_files/inlineitem/1cr.aips.2.descles.pdf)), but the page's cited carrier (IEP) only prints the CP 5.172 fragment — REPAIRED: citation and Sources line re-pointed to the ILLC reproduction. Page re-validated ok.
+2. **Active inference** — Parr & Friston PMC quote VERIFIED verbatim. PASS.
+3. **Core knowledge theory** — Spelke PubMed abstract quotes VERIFIED verbatim (three quoted phrases word-for-word; quote opens mid-sentence without ellipsis — minor, no repair). PASS.
+4. **Addictive patterns** — Griffiths NTU PDF quote VERIFIED verbatim (page's "[A]" bracket marks the source's lowercase opening — correct scholarly practice). PASS.
+5. **Adaptation research** — Lucas quote VERIFIED verbatim in the [Current Directions abstract](https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00479.x/). PASS (note: the page also cites the JPSP PDF via gwern for other quotes — the checked quote is from Current Directions, which the page lists first).
+6. **Deautomatization** — Deikman author-site quotes VERIFIED verbatim. PASS.
+7. **Cooperative learning** — Johnson & Johnson 2014 quotes VERIFIED verbatim in the [SciELO full text](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-97282014000300008&lng=en&tlng=en) of the same article (Anales de Psicología 30(3), DOI 10.6018/analesps.30.3.201241) the page cites. PASS.
+8. **Affect heuristic r = -.74** — closed in round 2 (Efendić SAGE prints "original: r = −.74").
+
+Round 4: 7 pages, 11 quoted passages verified, 1 citation defect repaired (Abduction CP 5.171 carrier). All sampled morning fast-track pages are quotation-faithful after the Abduction repair.
