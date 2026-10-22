@@ -76,10 +76,12 @@
  ],
  "notes": "never-claimed tail band; fast-track pipeline",
  "done": [
-  "Cultural resilience"
+  "Cultural resilience",
+  "Problem vs. mystery",
+  "Conformity"
  ],
- "in_progress": "Problem vs. mystery",
- "updated": "2026-10-22T05:44:44+00:00",
+ "in_progress": null,
+ "updated": "2026-10-22T06:00:01+00:00",
  "band_done": false,
  "flagged": {}
 }
