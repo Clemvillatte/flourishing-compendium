@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Stillness under turbulence" — Laozi, Daodejing 15.
 
-Stillness under turbulence is the Daoist art of letting agitation settle instead of stirring it further. Its source image is chapter 15 of the Daodejing: the old masters of the way seemed "dull like muddy water," and the chapter's recipe for muddy water is not to churn it but to leave it be until it clears on its own.
+Stillness under turbulence is the Daoist art of letting agitation settle instead of stirring it further. Its source image is chapter 15 of the Daodejing: the old masters of the way seemed "dull like muddy water," and the chapter's recipe for muddy water is to leave it be until it clears on its own.
 
 > "Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear. Who can secure the condition of rest? Let movement go on, and the condition of rest will gradually arise." (Daodejing 15, James Legge translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 

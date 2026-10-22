@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Spiritual joy" — Aristotle, Nicomachean Ethics I.
 
-Spiritual joy, in the compendium's Aristotelian frame, is the gladness that belongs to a life going well: not a mood injected from outside but the felt side of eudaimonia, activity in accordance with virtue. Aristotle defines happiness as exactly that kind of working, and the Nicomachean Ethics argues it cannot be amusement, since everything else is chosen for the sake of it and it for nothing further.
+Spiritual joy, in the compendium's Aristotelian frame, is the gladness that belongs to a life going well: the felt side of eudaimonia, activity in accordance with virtue, rather than a mood injected from outside. Aristotle defines happiness as exactly that kind of working, and the Nicomachean Ethics argues it cannot be amusement, since everything else is chosen for the sake of it and it for nothing further.
 
 > "The question may be determined also by a reference to our definition of Happiness, that it is a working of the soul in the way of excellence or virtue of a certain kind." (Aristotle, Nicomachean Ethics, Book I, D.P. Chase translation, [Project Gutenberg](https://www.gutenberg.org/cache/epub/8438/pg8438.txt))
 

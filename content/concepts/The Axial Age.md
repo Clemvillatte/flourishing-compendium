@@ -15,7 +15,7 @@ The Axial Age is Karl Jaspers' name for the period roughly 800 to 200 BCE, when 
 
 ### Why a writer on flourishing would care
 
-The compendium's own subject matter — the wisdom traditions that ask what a good life is — is largely an inheritance of this period. The concept lets a writer see Buddhism, Confucianism, Greek philosophy and the Hebrew prophets not as isolated curiosities but as one era's shared turn of the human mind toward questions that transcend local custom. The compendium's principle E096 carries the practical reading.
+The compendium's own subject matter — the wisdom traditions that ask what a good life is — is largely an inheritance of this period. The concept lets a writer see Buddhism, Confucianism, Greek philosophy and the Hebrew prophets as one era's shared turn of the human mind toward questions that transcend local custom, rather than as isolated curiosities. The compendium's principle E096 carries the practical reading.
 
 ## Sources
 

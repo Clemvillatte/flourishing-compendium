@@ -15,7 +15,7 @@ System 1 and System 2 are Daniel Kahneman's names for the two modes of thinking 
 
 ### What the distinction is for
 
-Kahneman's picture is not of two brain parts but of a division of labor: System 1 runs automatically and cannot be switched off, while System 2 allocates attention and is costly to use, so it mostly endorses what System 1 has already concluded. For a writer on flourishing, the practical point is humility about one's own judgments: the fast system is skilled and fluent, and its errors are regular enough to be named. The compendium's principle E003 links the concept to the suspension of the natural attitude.
+Kahneman's picture is a division of labor rather than two brain parts: System 1 runs automatically and cannot be switched off, while System 2 allocates attention and is costly to use, so it mostly endorses what System 1 has already concluded. For a writer on flourishing, the practical point is humility about one's own judgments: the fast system is skilled and fluent, and its errors are regular enough to be named. The compendium's principle E003 links the concept to the suspension of the natural attitude.
 
 ## Sources
 
