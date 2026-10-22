@@ -348,10 +348,10 @@ try {
 /* ================= data & indexes ================= */
 const DATA = window.wikiData;
 const byFile = new Map(), byId = new Map();
-const ITEM_TYPES = new Set(['principle','kernel','story','concept','saying','reference','hub','discipline','guide','manuscript']);
+const ITEM_TYPES = new Set(['principle','kernel','story','concept','saying','thinker','reference','hub','discipline','guide','manuscript']);
 const TYPE_LABEL = { volume:'Volume', book:'Book', layer:'Layer', section:'Section', chapter:'Chapter',
   guide:'Guide', manuscript:'Manuscript',
-  principle:'Principle', kernel:'Kernel', story:'Story', concept:'Concept', saying:'Saying', reference:'Reference',
+  principle:'Principle', kernel:'Kernel', story:'Story', concept:'Concept', saying:'Saying', thinker:'Thinker', reference:'Reference',
   hub:'Hub', discipline:'Discipline' };
 
 for (let i = 0; i < DATA.length; i++) {

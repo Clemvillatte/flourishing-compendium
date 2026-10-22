@@ -3078,7 +3078,10 @@ docs/enrichment/PROTOCOL-THINKERS.md (read it before taking a thinkers band).
   inventory (targets resolve by construction), and `--reciprocal "Name" --id
   Txxx` to emit missing backlinks. Reciprocal backlinks into existing pages are
   applied by the supervisor only.
+- **Site integration done (supervisor, 2026-10-22)**: `thinker` type added to
+  the frontend (graph kind, sprites, legend, item types, labels);
+  NAV-SHARED-THINKERS navnode minted; T001 builds into wikiData and the graph.
 - **Kernels: queue-kernels.json** — 216 of 316 kernels are under 150 prose
   words and need enrichment to the K100 standard (read K100 and
   docs/enrichment/EXEMPLARS.md "Kernel exemplar" first). Bands: k1a, k1b, ...
-  K409 already compliant. Thin tail: K203 (51 words) is the thinnest.
+  K409 verified compliant per the kpr ledger (2026-10-21), still a candidate exemplar. Thin tail: K203 (51 words) is the thinnest.

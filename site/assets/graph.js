@@ -125,8 +125,8 @@ let findMatches = [], findIdx = 0;   // search cache (shared: bindEvents' handle
 // concepts/theories/stories are 4,500+ nodes and make the first launch laggy;
 // the full set is one click away on the toggle bar).
 const kindOn = { principle: true, kernel: true, concept: false, theory: false, story: false, saying: false };
-const KIND_LABEL = { principle: 'Principle', kernel: 'Kernel', concept: 'Concept', theory: 'Theory', story: 'Story', saying: 'Saying' };
-const KIND_PLURAL = { principle: 'Principles', kernel: 'Kernels', concept: 'Concepts', theory: 'Theories', story: 'Stories', saying: 'Sayings' };
+const KIND_LABEL = { principle: 'Principle', kernel: 'Kernel', concept: 'Concept', theory: 'Theory', story: 'Story', saying: 'Saying', thinker: 'Thinker' };
+const KIND_PLURAL = { principle: 'Principles', kernel: 'Kernels', concept: 'Concepts', theory: 'Theories', story: 'Stories', saying: 'Sayings', thinker: 'Thinkers' };
 
 /* ---------- dom ---------- */
 const $ = id => document.getElementById(id);
@@ -142,6 +142,7 @@ function kindOf(e) {
   if (e.type === 'hub') return 'hub';
   if (e.type === 'discipline') return 'discipline';
   if (e.type === 'saying') return 'saying';
+  if (e.type === 'thinker') return 'thinker';
   return null;
 }
 
@@ -162,6 +163,7 @@ function colors() {
     hub: cssVar('--g-hub') || cssVar('--text'),
     discipline: cssVar('--g-disc') || cssVar('--faint'),
     saying: cssVar('--g-saying') || '#b08bc0',
+    thinker: cssVar('--g-thinker') || '#c2743a',
     edge: cssVar('--g-edge') || 'rgba(90,84,60,0.13)',
     text: cssVar('--text'),
     halo: cssVar('--gold-bright') || '#ae8b1c',
@@ -200,7 +202,7 @@ function buildNodeSprites(c) {
   const coreR = S / 2 / SPRITE_GLOW;  // core fits inside; halo reaches the canvas edge
   const bg = parseColor(c.bg);
   nodeSpriteLight = (bg[0] * 0.299 + bg[1] * 0.587 + bg[2] * 0.114) > 150;
-  const kinds = ['principle', 'kernel', 'concept', 'theory', 'story', 'saying'];
+  const kinds = ['principle', 'kernel', 'concept', 'theory', 'story', 'saying', 'thinker'];
   nodeSprites = {};
   for (const k of kinds) {
     const base = parseColor(c[k]);

@@ -65,8 +65,9 @@ file in `content/` with matching keys, so no builder change is needed.
 6. `## Sources` — the sources actually opened while writing the page, with
    URLs, so quotes are verifiable.
 
-Word budget: 250–500 prose words total (excluding the interconnection list),
-consistent with the wiki's density conventions.
+Word budget: 250–500 visible prose words across the three narrative sections
+(story / why / position), plus 150–300 for the Core ideas bullets; the
+interconnection inventory is unbounded (it is generated, not written).
 
 ## The interconnection engine (exhaustiveness guarantee)
 
@@ -93,10 +94,21 @@ consistent with the wiki's density conventions.
   validate with `enrich_validate.py` (the wiki-link targets all resolve by
   construction), save, then run `--reciprocal` and let the supervisor apply
   the backlinks.
-- Mentions-count scores seed the queue: current top candidates include
-  Aristotle, William James, Dewey, Nietzsche, Confucius, Epictetus, Seneca,
-  Marcus Aurelius, the Buddha, Ryan & Deci, Bandura, Neff, Kahneman, Seligman.
-  The exemplar (Csikszentmihalyi, 40 principles + 19 concepts) is done.
+- Mentions-count scores seed the queue: canonical identities only, with alias
+  lists (Marcus Aurelius ≠ the standalone "Marcus" scan; Hadot, Ryan & Deci and
+  Hayes were added as explicit candidates; a "James" surname scan must be
+  resolved to William James by hand). Current top candidates include Aristotle,
+  William James, Dewey, Nietzsche, Confucius, Epictetus, Seneca, Marcus
+  Aurelius, the Buddha, Ryan & Deci, Bandura, Neff, Kahneman, Seligman. The
+  exemplar (Csikszentmihalyi, 40 principles + 19 concepts) is done.
+
+## QC note on the mention engine
+
+`thinker_links.py` inventories surname matches; that is a floor, not a guarantee
+of conceptual relationship. A principle citing the thinker as a psychology
+parallel does not make that doctrine the thinker's core idea; workers must
+read the mention contexts and classify each link honestly (his idea /
+collaborative work / editorial comparison with a tradition).
 
 ## Relation to Kernels
 
