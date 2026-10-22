@@ -135,5 +135,7 @@
    "from": "worker-verify-56d694a8",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T12:33:29+00:00"
 }
