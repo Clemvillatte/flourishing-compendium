@@ -14,7 +14,7 @@ higher granularity predicts lower reactivity and better regulation (Barrett, 200
 
 - improves regulation (Barrett et al., 2001)
 
-Emotional granularity is L. F. Barrett's term for how finely a person distinguishes among their own feelings. The construct was measured as "emotion differentiation" before Barrett named it granularity in a 2004 Journal of Personality and Social Psychology article; the two names remain in use for the same thing ([Barrett 2004](https://affective-science.org/pubs/2004/FB2004.pdf); [Kashdan, Barrett & McKnight 2015](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
+Emotional granularity is L. F. Barrett's term for how finely a person distinguishes among their own feelings. The construct also circulates as "emotion differentiation"; Barrett used the term granularity in a 2004 Journal of Personality and Social Psychology article, and the two names remain in use for the same thing ([Barrett 2004](https://affective-science.org/pubs/2004/FB2004.pdf); [Kashdan, Barrett & McKnight 2015](https://www.affective-science.org/wp-content/uploads/2024/04/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf)).
 
 The 2004 article sets out the individual difference in the words people use to report how they feel:
 
