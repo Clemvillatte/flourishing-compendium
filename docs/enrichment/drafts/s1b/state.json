@@ -360,7 +360,7 @@
    ]
   },
   "s1b-015": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "Taking off armour: changed context, protective habits and safe intimacy; P155/P156/D156",
    "history": [
     {
@@ -371,6 +371,11 @@
      "t": "2026-10-22T15:12:56+00:00",
      "to": "qc_pending",
      "note": "Primary narrative checked; no invented resolution; safety and uncertain attribution limits retained"
+    },
+    {
+     "t": "2026-10-22T15:31:43+00:00",
+     "to": "ready",
+     "note": "Independent advisor review complete; requested corrections applied; direct book locators verified"
     }
    ]
   },
@@ -445,5 +450,5 @@
    ]
   }
  },
- "updated": "2026-10-22T15:31:33+00:00"
+ "updated": "2026-10-22T15:31:43+00:00"
 }
