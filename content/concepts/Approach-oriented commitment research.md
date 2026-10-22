@@ -7,7 +7,7 @@ file: "Approach-oriented commitment research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Approach-oriented commitment research is the experimental literature on what commitments are made of. Its core contrast: an approach goal moves toward a desired outcome, an avoidance goal moves away from an aversive one. A recent review paper in the line states the pattern plainly.
+Approach-oriented commitment research is the experimental literature on what commitments are made of. Its core contrast: an approach goal moves toward a desired outcome, an avoidance goal moves away from an aversive one. A recent study in the line states the pattern plainly.
 
 > "Psychological research on human motivation repeatedly observed that approach goals (i.e., goals to attain success) increase task enjoyment and intrinsic motivation more strongly than avoidance goals (i.e., goals to avoid failure)." (Sakaki et al. 2024, [Cognitive, Affective & Behavioral Neuroscience](https://pmc.ncbi.nlm.nih.gov/articles/PMC11078806/))
 

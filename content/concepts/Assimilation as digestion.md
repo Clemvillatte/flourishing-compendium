@@ -13,11 +13,11 @@ Assimilation, in Plotinus's treatise on the virtues, is the soul's becoming like
 
 ### Two orders of virtue
 
-Plotinus reads Plato as dividing the work in two. The civic virtues order life here, but they "do not suffice for Likeness": "'Likeness to God,' he says, 'is a flight from this world's ways and things'", and "elsewhere he declares all the virtues without exception to be purifications" (same page). The higher virtues purify the soul, and the likeness they produce is not a posture copied but a state entered.
+Plotinus reads Plato as dividing the work in two. The civic virtues order life here, but "the civic does not suffice for Likeness": "'Likeness to God,' he says, 'is a flight from this world's ways and things'", and "elsewhere he declares all the virtues without exception to be purifications" (same page). The higher virtues purify the soul, and the likeness they produce is not a posture copied but a state entered.
 
 ### Why the digestive image
 
-The treatise speaks of measure, form, and purification; it does not use the image of digestion. That image is this page's own bridge, offered because it fits what Plotinus says happens: something is taken in, worked on, and turned into the constitution of the one who takes it in. Digestion, on this reading, is what purification looks like from inside. The bridge is flagged as such, and the Vedanta principle that pairs with this page carries its own, sourced account of assimilation as hearing, reflection, and long meditation.
+The passages opened here speak of measure, form, and purification. The image of digestion is this page's own bridge, offered because it fits what Plotinus says happens: something is taken in, worked on, and turned into the constitution of the one who takes it in. Digestion, on this reading, is what purification looks like from inside. The bridge is flagged as such, and the Vedanta principle that pairs with this page carries its own, sourced account of assimilation as hearing, reflection, and long meditation.
 
 ## Sources
 
