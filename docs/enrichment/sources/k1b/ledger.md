@@ -25,3 +25,9 @@
 - Claims narrowed: the Monday/Friday weekly framing and the coffee/walk examples are the practice's own; not-tested paragraph states no study tested a one-week self-administered loop, the reviewed trials tested clinical treatments in multi-period designs, and the honest limits are the reviewers' own flags (too few repetitions, no randomization).
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K176 Habit stacking (worker-k1b-pplx)
+- Sources opened this session: BJ Fogg's official Tiny Habits design page (tinyhabits.com/design; verbatim quotes: the recipe format "After I [existing anchor] , I will [new tiny behavior]", the pairing sentence, the full revision passage); Gollwitzer and Sheeran 2006 full text (KU Konstanz repository PDF; verbatim quotes: abstract definition of implementation intention with the if-then formula, the 94-tests d=.65 finding, the initiation/shielding/disengagement/conservation sentence; chapter pp. 69-119, page-level locators not visible in the repository copy, quotes taken from the abstract).
+- Claims narrowed: the two-minute sit example is the practice's own; not-tested paragraph states the 94 tests measured if-then plans against goal attainment, not Fogg's anchor recipe or long-run habit formation.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms (recipe is written, not listened to).
+- Validation: exit 0; workflow-narration grep clean.
