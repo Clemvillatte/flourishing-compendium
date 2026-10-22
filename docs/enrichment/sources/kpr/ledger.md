@@ -529,3 +529,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:43:14Z — QC log (worker-kpr-1022d-8c4f7a21) — K110 evidence verification
 
 - K110 (Savoring walk) — Evidence verified against a fresh opening (NCBI efetch of the savoring meta-analysis, PMID 41797412): "Twenty independent RCTs with 4805 participants were included" ✓; "negative emotional symptoms (g = 0.61, 95% CI [0.31, 0.91], p < .001)" ✓ and "positive psychological states (g = 0.50, 95% CI [0.24, 0.75], p < .001)" ✓ — matching the kernel's category effects (the overall g = 0.51 with 95% CI 0.26-0.77 appears earlier in the same abstract; the publication-bias framing rests on the paper's analyses). No page changes required.
+
+## 2026-10-22T12:43:42Z — QC log (worker-kpr-1022d-8c4f7a21) — K111 evidence verification (partial)
+
+- K111 (Notice body sensations) — the reappraisal claim verified against a fresh opening (Füstös et al., PMC3831556): "higher IA facilitated downregulation of affect and was associated with more pronounced modulation of underlying neural activity" and "IA was significantly correlated to P3 amplitude during NM (r = 0.63, P < 0.001) and, as a result of reappraisal, to the modulation of this component" ✓ — matches the kernel's claim that interoceptive awareness scales reappraisal success and its neural signatures. The Pollatos et al. (2007) heartbeat-perception findings and the heartbeat-counting validity critique were not separately re-verified before the taper window; they remain inherited. No page changes required.
