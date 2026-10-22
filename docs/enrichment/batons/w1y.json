@@ -18,5 +18,6 @@
  ],
  "holder": null,
  "state": "RELEASED",
- "released": false
+ "released": true,
+ "released_at": "2026-10-22T14:17:13+00:00"
 }
