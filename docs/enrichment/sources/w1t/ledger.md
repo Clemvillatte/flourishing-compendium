@@ -112,3 +112,15 @@ Decisions:
 - Front-matter preserved; CO001 and V1K Reference wikilinks preserved.
 - Related concepts added (Free Energy Principle, The prior probability of the world, Predictive processing, Context effects in perception, Embodied perception — all resolve).
 - No reciprocal proposals (fast-track bar).
+
+### Beck's cognitive model (fast-track, deg 3)
+
+Sources opened (fetch_url, fresh):
+- https://pubmed.ncbi.nlm.nih.gov/21731066/ — Disner, Beevers, Haigh, Beck 2011 Nature Reviews Neuroscience 12(8):467-477. Full abstract retrieved via search_web (Nature direct fetch blocked by robots). Key sentences: 40-years, elements (biased attention, biased processing, biased thoughts and rumination, biased memory, and dysfunctional attitudes and schemas), neural mechanism (increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control).
+- https://www.apa.org/pubs/journals/features/cap-cap0000253.pdf — APA Clinical Practice article on interpersonal schemas. Four sentences fetched verbatim: taxonomy of cognition (schemas / information processing and intermediate beliefs / automatic thoughts); depressive self-schema definition; automatic thoughts as cognitive by-products of activated schemas; CBT bottom-up fashion.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; X007 and M035 wikilinks preserved in the Field section.
+- Related concepts added (Cognitive restructuring, Cognitive mediation of distress, Cognitive distortions, Cognitive biases, Cognitive reappraisal — all resolve).
+- No reciprocal proposals (fast-track bar).
