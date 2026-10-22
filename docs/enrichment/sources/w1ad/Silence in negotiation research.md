@@ -1,0 +1,8 @@
+# w1ad evidence: Silence in negotiation research
+
+- Item: Silence in negotiation research (w1ad manifest, fast-track bar, degree 11 at start).
+- Carrier opened this session: Curhan, Overbeck, Cho, Zhang & Yang (2022), "Silence is golden: Extended silence, deliberative mindset, and value creation in negotiation", Journal of Applied Psychology 107(1), 78-94, author-hosted PDF https://web.mit.edu/curhan/www/docs/Publications/Curhan_Silence_is_Golden.pdf (downloaded, pdftotext-extracted; abstract and definitional passages grepped clean).
+- Quotations: abstract sentences on Studies 1-2 (block); "an extended silence can only occur when both parties are silent, regardless of which party initiates it" (definitional section, quoting the paper's own wording); "find no evidence for any associations between extended silence and the proportion of value claimed or subjective value of the counterpart" (abstract); Study 3 boundary condition sentence (abstract); Study 4 problem-solve comparison (abstract). All verbatim against the extracted text.
+- Seed repair: the seed body claimed silence "increases counterpart disclosure and improves outcomes relative to filling pauses". The opened carrier does NOT support a disclosure mechanism; the paper explicitly reports no evidence for the intimidation/value-claiming (social perception) view. The disclosure claim was therefore NOT carried over; the page presents the evidence-supported internal-reflection account. Recorded here per the no-hallucination rule.
+- Scope: single-study scope (the 2022 JAP five-study paper) per the fast-track bar; no claim beyond the paper.
+- QC disposition: validator ok vs seed baseline 7b2d6ca; advisor QC not due this item (cadence: next at item 5).
