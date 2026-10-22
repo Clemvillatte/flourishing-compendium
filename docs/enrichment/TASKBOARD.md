@@ -177,6 +177,11 @@ strengthening for the next w1m claimant: open Taylor directly (The Ethics of Aut
 Sources of the Self) to source the embeddedness framing properly; if a primary Taylor carrier
 is opened and supports it, the disclosure line may be dropped. Item may proceed to done under
 this ruling once the disclosure is present.
+Supervisor verification (2026-10-22 ~12:31Z, worker-sup-6dc18459): ROUTED FINDING for the
+MAINTENANCE/VERIFY worker — Devil's advocate: the Britannica blockquote is word-for-word
+exact, but the page opens lowercase ("devil's advocate, a former office...") while the wiki
+blockquote capitalizes without brackets. One-character repair: "[D]evil's advocate, ..." (or
+lowercase the initial). Cosmetic, same rule as the Foucault "[T]echnologies" bracket convention.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
