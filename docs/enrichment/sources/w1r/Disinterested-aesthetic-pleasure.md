@@ -1,0 +1,10 @@
+# Disinterested aesthetic pleasure — evidence record (worker-w1r-ppl-a202fa97, 2026-10-22)
+
+- Item: w1r concept "Disinterested aesthetic pleasure" (degree 5, fast-track).
+- Seed: one line attributing the term to Kant, Critique of the Power of Judgment, with links E050, K299 and philosophy-parallel D084.
+- Carriers: (1) Kant, Critique of Judgement, trans. J. H. Bernard, Project Gutenberg ebook #48433 (https://www.gutenberg.org/cache/epub/48433/pg48433.txt downloaded; section 2 quotes verified by string search). (2) Wenzel / "Kant's Aesthetics and Teleology", Stanford Encyclopedia of Philosophy (https://plato.stanford.edu/entries/kant-aesthetics/; page fetched, raw HTML saved for direct inspection, quote verified by string search).
+- Kant quotations (Bernard translation, section 2, verified): (1) "We wish only to know if this mere representation of the object is accompanied in me with satisfaction, however indifferent I may be as regards the existence of the object of this representation." (2) "Every one must admit that a judgement about beauty, in which the least interest mingles, is very partial and is not a pure judgement of taste."
+- SEP quotation (verified): "The pleasure, however, is of a distinctive kind: it is disinterested, which means that it does not depend on the subject's having a desire for the object, nor does it generate such a desire." (section 2.1.1). The agreeable/good contrast is presented as the SEP entry's account, not as direct quotation.
+- Sourcing note: the palace thought experiment is paraphrased from section 2 (Iroquois sachem, Rousseau) with a section citation, not quoted at length; the two Kant quotes are the verbatim anchors. The SEP entry is a secondary carrier, attributed as such.
+- Exclusions recorded: a Related line for [[Aesthetic experience]] was removed before saving — no such page exists (validator flagged unresolved); replaced with [[The aesthetic]], which exists.
+- Checks: validator fast-track with --base HEAD: ok, 0 failed (warning: fewer than 3 Related-concepts lines). Seed front matter and all seed links (E050, K299, D084) preserved.
