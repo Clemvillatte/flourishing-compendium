@@ -592,3 +592,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   (random finished-band draw, w1h) — the Aristotle NE IV.5 good-temper quote (Ross)
   checked against the opened MIT Classics carrier: verbatim. Sample PASS. Thirty-three
   samples this session, all PASS.
+- Supervisor verification sample 34 (2026-10-22 ~16:10 UTC): Cognitive-developmental
+  theory of moral reasoning (random finished-band draw, w1h) — the Kohlberg 1975
+  invariant-sequence passage checked against the opened ASCD PDF (the page's own
+  carrier): verbatim. Sample PASS. Thirty-four samples this session, all PASS.
