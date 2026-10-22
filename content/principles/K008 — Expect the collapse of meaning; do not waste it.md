@@ -25,6 +25,10 @@ On pages 4-5, Nishitani describes a conversion from a self-centered mode of bein
 
 *For example:* Imagine that, after a career ends, you are unsure what you want your days to be for. The compendium's exercise is to write down the questions you cannot yet answer.
 
+## Sources
+
+- [Keiji Nishitani, Religion and Nothingness, trans. Jan Van Bragt, University of California Press, 1982 — Internet Archive catalog record for the edition](https://archive.org/details/religionnothingn0000nish_n5t7)
+
 ## Psychology parallels
 
 - **[[Meaning-making|Meaning-making and post-traumatic growth]]** (Calhoun and Tedeschi, 2004; Park, 2010)
