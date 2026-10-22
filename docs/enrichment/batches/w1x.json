@@ -28,9 +28,10 @@
   "The pendulum of desire",
   "The polyphonic self",
   "The problem of induction",
-  "The quiet ego"
+  "The quiet ego",
+  "The return of the repressed pattern"
  ],
- "in_progress": "The return of the repressed pattern",
+ "in_progress": null,
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
@@ -40,6 +41,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:13:30+00:00",
+ "updated": "2026-10-22T08:13:53+00:00",
  "band_done": false
 }
