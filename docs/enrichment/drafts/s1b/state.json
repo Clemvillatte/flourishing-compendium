@@ -313,7 +313,107 @@
      "note": "advisor rounds 1-3 passed; additional-angle story on the Wei dialogue; mechanical corrections applied"
     }
    ]
+  },
+  "s1b-013": {
+   "status": "ready",
+   "angle": "Owner ACT scope: Holding a Pen; P157 willingness while retaining action, P177 process over outcome; no new source scripts",
+   "history": [
+    {
+     "t": "2026-10-22T15:07:58+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:10:09+00:00",
+     "to": "qc_pending",
+     "note": "Independent first-item source and substantive advisor QC launched"
+    },
+    {
+     "t": "2026-10-22T15:19:21+00:00",
+     "to": "ready",
+     "note": "Independent advisor PASS after source-verified corrections; p49 exact quote"
+    }
+   ]
+  },
+  "s1b-014": {
+   "status": "qc_pending",
+   "angle": "The Bicycle Factory: maintenance and proportionate sustained practice; P162",
+   "history": [
+    {
+     "t": "2026-10-22T15:10:11+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:10:58+00:00",
+     "to": "drafting",
+     "note": "Contributor original opened; maintenance after initial success, not a cure claim"
+    },
+    {
+     "t": "2026-10-22T15:11:54+00:00",
+     "to": "qc_pending",
+     "note": "Mechanical check complete; contributor original and attribution checked; permissions caution retained"
+    }
+   ]
+  },
+  "s1b-015": {
+   "status": "qc_pending",
+   "angle": "Taking off armour: changed context, protective habits and safe intimacy; P155/P156/D156",
+   "history": [
+    {
+     "t": "2026-10-22T15:11:55+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:12:56+00:00",
+     "to": "qc_pending",
+     "note": "Primary narrative checked; no invented resolution; safety and uncertain attribution limits retained"
+    }
+   ]
+  },
+  "s1b-016": {
+   "status": "qc_pending",
+   "angle": "Rope Bridge: small controllable actions when value-directed direction feels frightening",
+   "history": [
+    {
+     "t": "2026-10-22T15:12:57+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:14:38+00:00",
+     "to": "qc_pending",
+     "note": "Full author account read; small-test ending retained; no claimed reconciliation"
+    }
+   ]
+  },
+  "s1b-017": {
+   "status": "qc_pending",
+   "angle": "Sailing Boat: valued direction while distress remains; preserve effective pain relief caveat",
+   "history": [
+    {
+     "t": "2026-10-22T15:14:39+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:15:58+00:00",
+     "to": "qc_pending",
+     "note": "Independent fifth-item QC launched; effective pain relief exception retained"
+    }
+   ]
+  },
+  "s1b-018": {
+   "status": "qc_pending",
+   "angle": "Leaves on a Stream: noticing thoughts, returning after being hooked; P159/B074/P161",
+   "history": [
+    {
+     "t": "2026-10-22T15:15:59+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:19:21+00:00",
+     "to": "qc_pending",
+     "note": "Harris pp8-9 opened; Buddhist comparison independently bounded by MN20"
+    }
+   ]
   }
  },
- "updated": "2026-10-21T12:45:26+00:00"
+ "updated": "2026-10-22T15:19:21+00:00"
 }
