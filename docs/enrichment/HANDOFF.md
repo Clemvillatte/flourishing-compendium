@@ -16,3 +16,9 @@
 - Open supervisor holds: AF050 (Rumination alias mechanism claim, Bushman/
   Denson unopened), M010 (Perspective-taking alias, Galinsky unopened),
   M028 (provenance). Next item: M035 (in progress).
+
+## ct1 core-theories band status (2026-10-22 06:10Z, worker-sup-1022c)
+
+- Done and pushed (6 of 9, all QC'd): Competence, Relatedness, The two-factor model of well-being, Flourishing scale, Dispositional optimism, Ego integrity (Erikson). QC log: docs/enrichment/QC-ct1-2026-10-22.md; repairs in 7860c8402 and aae1bf1c3.
+- ct1 baton now held by worker-9c31f0d8-ct1 (legit takeover 05:56Z; they had Polyvagal theory in progress). Remaining: Polyvagal theory (Porges), Self-verification theory (Swann), Wisdom theory Berlin paradigm. Do not reclaim from a live holder.
+- Debt: docs/enrichment/proposals/ct1.json not created (SATURATE step 6); current ct1 holder should own it. Owner questions open: person-page policy, MBCT rename, missing-page minting queue (ACT theory, Tend-and-befriend, Positive psychology, Virtue ethics, Logotherapy, Ego development, MBSR program).
