@@ -429,3 +429,26 @@ B. F. Skinner Foundation PDF (Science and Human Behavior, chapter VI): the sculp
 (p. 91) and the successive-approximations passage (pp. 92-93) are both present, as is the
 pigeon-and-spot worked example the page summarises (turning toward, approach, head movement,
 beak contact). No routed findings.
+
+## Round 16 (2026-10-22, performed ~12:30-12:32Z measured; raw-text method)
+
+### Skillful responsiveness (w1s, fast-track done, commit f6a5d643e)
+
+3 quoted passages checked, 3 PASS — the Cook Ting blockquote and both inline Watson quotes
+("I go along with the natural makeup..." and "Whenever I come to a complicated place...")
+verified verbatim against an unprompted raw fetch of the cited Terebess carrier (Watson,
+Complete Works of Chuang Tzu, chapter 3). No routed findings.
+
+### Existential communication (w1u, fast-track done, commit e6fcbe7db)
+
+ACCESSIBILITY NOTE + partial verification: both cited existenz.us carriers return
+robots-blocked (bad_robots_code) to this fetcher, so the pages could not be opened raw.
+The Salamun quote ("Communication in the idea, and in its realisation by Existenz, will
+move a man closer to his fellow-man than will the intellect or a purpose, or primitive
+community.") was confirmed word-for-word via a search-engine snippet of the cited Salamun
+PDF (the index of the same document), and the "loving struggle" attribution is corroborated
+by multiple independent sources in the same search. The Sollie quote ("I am only in
+communication with another") could not be independently re-verified from this session; the
+w1u owner's commit message states both Jaspers quotes were raw-verified against the
+Existenz journal carriers. No defect found; the verification of that one quote remains
+open to a fetcher that can open existenz.us (or a Wayback capture).
