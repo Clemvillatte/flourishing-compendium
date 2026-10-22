@@ -19,7 +19,7 @@ And it quotes Sandel's own list of what those attachments look like from inside 
 
 The adjective "constitutive" does the philosophical work. A relation can be instrumental, entered for what it gets you, and then it is genuinely optional. But some relations are part of what one is: the family one is born into, the language one first spoke in, the history one carries. Setting them aside is not a choice among options but a partial unmaking of the self that would be doing the choosing. That is why the Sandelian self is often called encumbered, and why the view generates obligations that were never signed:
 
-> "What Charles Taylor calls 'higher, strongly evaluated goods' (Taylor 1989) — the goods we should feel committed to, those that generate moral obligations on us regardless of our actual preferences are not somehow invented by individuals, but rather they are located within the social world which provides one's framework of the lower and the higher." (same entry, section 2)
+> "What Charles Taylor calls 'higher, strongly evaluated goods' (Taylor 1989)—the goods we should feel committed to, those that generate moral obligations on us regardless of our actual preferences are not somehow invented by individuals, but rather they are located within the social world which provides one's framework of the lower and the higher." (same entry, section 2)
 
 For the compendium this is not a side argument but a foundation: [[R102 — Practise constitutive relationality]] treats the people one is bound to as part of the material of a flourishing life, and the neighboring ideas [[Communitarianism]] and [[Internal relations]] carry the same insight at the level of society and of metaphysics.
 
