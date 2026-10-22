@@ -1000,7 +1000,22 @@
      "note": "draft complete; awaiting advisor QC"
     }
    ]
+  },
+  "s1a-037": {
+   "status": "qc_pending",
+   "angle": "D186 hide your light: Hilma af Klint",
+   "history": [
+    {
+     "t": "2026-10-22T15:14:09+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:14:09+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:09:31+00:00"
+ "updated": "2026-10-22T15:14:09+00:00"
 }
