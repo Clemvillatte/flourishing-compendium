@@ -24,3 +24,16 @@ Decisions:
 - Seed says "the tradition's own commentary; this book's rendering" — the exact six-item list (recall, imagine, think, examine, control, rest) is the compendium author's rendering. Grounded in the canonical no-thought family via the opened Zazen article; no canonical primary source for the exact six-item list exists in open sources. FLAGGED for supervisor: recommend confirming the rendering's commentary of origin from the owner's primary-source library.
 - Related concepts: Shikantaza, just sitting (existing original).
 - No reciprocal proposals (fast-track bar).
+
+### The sovereign individual (fast-track, deg 1)
+
+Source opened (fetch_url, fresh):
+- https://www.gutenberg.org/files/52319/52319-h/52319-h.htm — Nietzsche, On the Genealogy of Morals (Samuel translation), Second Essay §2. Two passages fetched verbatim: the ripest-fruit/sovereign-individual sentence; the paradoxical-task opening question.
+- Cross-checked: https://www.gutenberg.org/files/4363/4363-h/4363-h.htm — Beyond Good and Evil §19 fetched in full; the sovereign-individual passage is NOT in BGE. Seed attribution corrected on the page with an honest note.
+
+Decisions:
+- Fast-track eligibility: deg 1 < 15 confirmed.
+- Front-matter preserved; MO015 Cited-in wikilink preserved.
+- Seed mis-attribution (BGE → Genealogy II.2) documented on the page and here; no fabricated BGE locators.
+- Related concepts: Autonomy, Master-slave dialectic (existing originals).
+- No reciprocal proposals (fast-track bar).
