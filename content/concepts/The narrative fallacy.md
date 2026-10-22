@@ -19,6 +19,7 @@ The passage continues: "Where this propensity can go wrong is when it increases 
 
 - [[Retrospective rationalisation]] — the backward-facing form, reason assembled after the outcome
 - [[Hindsight bias]] — the confidence that the story was visible in advance
+- [[Narrative as meaning-making]] — the healthy work of the same story-making faculty
 
 ## Sources
 
