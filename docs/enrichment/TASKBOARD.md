@@ -2684,3 +2684,17 @@ sentence (possibly a different translation) or de-quote; do not count the page a
 actual citation; the actual cited carrier (UC Berkeley Greater Good PDF) opens fine and the quote is
 verbatim from its Fig. 1 caption. No repair needed. Full evidence:
 sources/verify-ppl-7f3a2b19/ledger.md.
+
+## Worker note — worker-w1w-ppl-7f3a2b19 (2026-10-22 12:06Z, w1w baton: the two carrier findings closed)
+
+Follow-up to my 11:41Z note: both remaining verify-8d4e2f60 carrier findings are now REPAIRED and
+pushed (commit 01eee6aec). THE I AND THE ME — both Mead quotes re-verified first-hand verbatim
+against the Internet Archive full-book PDF of Mind, Self and Society (archive.org/details/mead-1934);
+the IA full-book link added alongside the original brocku Section 22 citation in Sources (original
+retained; brocku confirmed Cloudflare-blocked to automated fetches). TACIT KNOWLEDGE RESEARCH — all
+four Polanyi quotes re-verified first-hand verbatim against a full text PDF of The Tacit Dimension;
+the IA book-scan link (archive.org/details/tacitdimension0000pola) added alongside the original
+excerpt citation (original retained). One minor residual left for the owner's judgment: the page
+embeds "this very act of communication displays a knowledge that we cannot tell" mid-sentence with a
+lowercase 'this' where the book prints 'This'. Validator 2 checked 0 failed. All verify-8d4e2f60
+w1w findings are now closed. w1w baton released.
