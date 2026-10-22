@@ -12,13 +12,29 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 2** — Practice ziran: naturalness
 
-The Daodejing grounds this principle in a chain of models: "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is." The last step is the principle in one line — the Dao does not imitate anything; it is simply itself. Ziran, usually rendered naturalness or spontaneity, names what is so of itself: a thing acting from its own nature rather than by external compulsion (see [[Ziran (naturalness)]]). The compendium's application to a life: let things, people, and yourself be what they are, and act from your own nature rather than from scripts, fronts, and borrowed standards. The cost of ignoring this is practical, not moral: "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it." What is forced has to be held up; what is self-so holds itself.
+Ziran, usually rendered "naturalness" or "spontaneity", means what is so of itself (see [[Ziran (naturalness)]]). Chapter 25 of the Daodejing ends a chain of models with the Dao itself:
 
-(DDJ 25; Liezi.)
+> Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is. ([Legge, Tao Teh King 25.4, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** Stop performing a version of yourself. Ziran means letting things be what they are — including you. When you act from your own nature instead of borrowed scripts, things stop feeling like effort, because they fit. Forcing a persona is exhausting precisely because it's not natural.
+The last line says the Dao follows nothing outside itself. The principle asks the same of a person: act from your own nature, and not from scripts, fronts or borrowed standards. Chapter 29 gives the practical cost of forcing things:
 
-*For example:* The friend who's quiet at parties but lights up one-on-one stops dragging themselves to clubs and hosts dinners instead — and suddenly they're 'social' without trying.
+> The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it. ([Legge, Tao Teh King 29.1](https://www.gutenberg.org/cache/epub/216/pg216.txt))
+
+The chapter is about ruling, so applying it to one's own life is the compendium's reading. It is a fair one: what is forced has to be held up by effort, and what is natural holds itself.
+
+(DDJ 25 and 29, trans. Legge.)
+
+### Plain words
+
+Stop performing a version of yourself. Ziran means letting things be what they are, and that includes you. A persona takes constant effort to keep up. When your actions fit your own nature, they cost less.
+
+### For example
+
+A friend who is quiet at parties but lively one-on-one stops dragging themselves to clubs and starts hosting small dinners. Nothing about them changed. They stopped working against their own grain.
+
+## Sources
+
+- Laozi, Daodejing (Tao Teh King), chs. 25 and 29, trans. James Legge, *The Texts of Taoism* (1891): [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Stories
 

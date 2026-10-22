@@ -23,11 +23,15 @@ Chapter 64 adds: "before a thing has given indications of its presence, it is ea
 
 There is a counterweight in chapter 63.3: "he who is continually thinking things easy is sure to find them difficult. Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties." Early action here is not casual action. The sage takes the easy stage seriously because it is the cheap one.
 
-(DDJ 63-64.)
+(DDJ 63-64, trans. Legge, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt).)
 
 **Plain words** Problems are cheapest when they are small. The text's examples are things that are brittle or tiny: they come apart with little force. The same problem a year on is harder to shift, so the time to deal with it is while it is still easy, and without assuming it will stay easy.
 
 *For example:* Imagine a small crack you notice in a wall. Filling it today is a tube of filler and ten minutes. Leaving it means that a year from now you are asking what the damp has done.
+
+## Sources
+
+- Laozi, Daodejing (Tao Teh King), chs. 63-64, trans. James Legge, *The Texts of Taoism* (1891): [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Stories
 

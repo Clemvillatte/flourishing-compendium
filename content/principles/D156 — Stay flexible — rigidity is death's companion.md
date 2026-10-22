@@ -30,11 +30,15 @@ The principle's phrase "death's companion" is a paraphrase of Legge's "concomita
 
 The text speaks of bodies, plants, armies and trees. Extending it to opinions and plans is the compendium's reading, and it is a fair one: those too can set hard long before anything forces them to.
 
-(DDJ 76.)
+(DDJ 76, trans. Legge, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt).)
 
 **Plain words** Push on something alive and it gives a little, then comes back. Push on something dead and it either holds or snaps. Laozi applies the test to bodies, plants and armies. The compendium applies it to the rest of what you carry around: a plan, an opinion, a way of doing things. The stiff ones feel safe, but stiffness often means the thing has stopped taking in new information.
 
 *For example:* Imagine a plan you made in January that March has overtaken. The supple move is to rewrite it. The rigid move is to defend it, because changing it feels like admitting you were wrong.
+
+## Sources
+
+- Laozi, Daodejing (Tao Teh King), ch. 76, trans. James Legge, *The Texts of Taoism* (1891): [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
 
 ## Stories
 - [[ST375 — John Muir Rides the Storm in a Treetop|375. John Muir Rides the Storm in a Treetop]]
