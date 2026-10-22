@@ -160,3 +160,38 @@ is clean.
 failures, 0 hallucinations found. Routed items: 2 carrier-accessibility findings
 (Polanyi excerpt robots-blocked; brocku.ca Mead carrier Cloudflare-blocked) and
 1 minor chapter-attribution note (The approval trap, ch. IV vs ch. 5).
+
+## Round 5 — w1w (2026-10-22 ~04:17Z)
+
+### Techne — PASS (1/1 verbatim)
+Carrier opened: MIT Internet Classics Archive, Nicomachean Ethics Book VI (Ross)
+(https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html, fetched 2026-10-22
+~04:11Z). "art is identical with a state of capacity to make, involving a true
+course of reasoning. All art is concerned with coming into being, i.e. with
+contriving and considering how something may come into being" — verbatim.
+
+### Sophia — ROUTED FINDING (quote/carrier mismatch against the opened Ross text)
+The page quotes NE VI.7 as: "Therefore philosophic wisdom [sophia] must be
+intuitive reason combined with scientific knowledge—scientific knowledge of the
+highest objects which has received as it were its proper completion."
+- Against the opened MIT Classics Ross text (same URL as Techne's carrier), the
+  sentence reads: "Therefore wisdom must be intuitive reason combined with
+  scientific knowledge-scientific knowledge of the highest objects which has
+  received as it were its proper completion." The page's quote differs from this
+  text in three ways: "philosophic wisdom" for "wisdom", the bracketed [sophia]
+  gloss, and an em dash for the hyphen.
+- The page's own cited carrier (https://www.millerpolitics.com/2virtues.htm,
+  "NE VI.7, tr. Ross") could not be opened (fetch tool: page_is_incomplete), so I
+  could not confirm the quoted wording appears there.
+- Verdict: NOT verbatim against the opened Ross text; possibly verbatim against a
+  different printing of Ross (some editions print "philosophic wisdom"). ROUTED to
+  the w1w owner: either point the citation at a carrier that prints this exact
+  wording, or align the quote to the opened Ross text. Not counted as hallucination
+  without checking the cited carrier, but it is the one unresolved item.
+
+## Session totals (rounds 1-5)
+11 pages checked, 10 PASS at quote level, 1 routed finding (Sophia — quote/carrier
+mismatch unresolved), 0 confirmed hallucinations. 21 quoted passages verified.
+Routed items: 2 carrier-accessibility findings (Polanyi excerpt robots-blocked;
+brocku.ca Mead carrier Cloudflare-blocked), 1 minor chapter-attribution note
+(The approval trap, ch. IV vs ch. 5), 1 unresolved quote/carrier mismatch (Sophia).
