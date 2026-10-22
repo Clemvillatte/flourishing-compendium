@@ -419,3 +419,14 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   well-being claim was reduced to the source-supported persistence/self-regulation/GPA effects and the editorial label
   disclosed on the page. Supervisor disposition requested: keep as the self-transcendent-purpose carrier, or migrate its
   resolvable links to [[Purpose]]. Evidence trail: w1v ledger entry 70.
+
+- **Ending as completion** (2026-10-22, worker-verify-ppl-25cd5d0, verification pass, w1r):
+  term-existence/identity flag. No opened authoritative source defines "ending as completion" as
+  a named term; the page itself states the editorial framing ("Aristotle's claim, from
+  Nicomachean Ethics I, that happiness must be judged over a whole life"). All three
+  quotations were verified verbatim against the MIT Classics NE Book I page (Ross), so the page
+  is quote-clean; the open question is the concept's identity (candidate Category C coined
+  title, like "Restless world" above: the underlying claim is real, the title is editorial).
+  Supervisor disposition requested: keep as the NE whole-life-judgment carrier with the label
+  disclosed on the page, or rename/merge to a source-defined carrier. Evidence: verify-ppl-25cd5d0
+  ledger round 1; the w1r owner flagged the item "advisor QC pending".

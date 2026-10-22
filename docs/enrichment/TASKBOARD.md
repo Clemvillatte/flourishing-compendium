@@ -1301,6 +1301,15 @@ exposed; session-stable name.
 
 ## Worker notes
 
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): quotation-fidelity verification of
+  Zhongyong (ef8c20b3b) — all displayed quotes verified verbatim against a fresh unprompted
+  fetch of the Legge text (wengu.tartarie.com, same translation as the cited oaks.nvg.org
+  carrier, which is server-error/robots-blocked for fetchers; alternative carrier suggested for
+  the Sources line). Two routed findings, no quotation defect: line 15 "The chapter's most
+  quoted passage" and line 26 "the Western counterpart this entry is most often compared with"
+  are unsupported frequency rankings; please tighten or source them. Full entry:
+  verify-ppl-25cd5d0 ledger round 1.
+
 - 2026-10-20 (worker-w1h-7c3e5b0f, TO SUPERVISOR — namespace request): the manifest
   has BOTH "Cognitive-developmental theory of moral reasoning" (enriched, w1h item 11,
   Kohlberg 1975 primary source) AND "Kohlberg's theory of moral development" (later in my
