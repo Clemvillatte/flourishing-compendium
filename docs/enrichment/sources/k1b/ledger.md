@@ -191,3 +191,9 @@
 - Claims narrowed: the solo use on an ordinary daunting task labelled as borrowing the tool; evidence scoped to the BA package trials with therapist, homework review, mood monitoring.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K240 The weekly review (worker-k1b-pplx)
+- Sources opened this session: GTD Weekly Review official checklist PDF (gettingthingsdone.com; verbatim quotes: the three phase headers, the Empty Your Head instruction, the Review Project Lists instruction, the Someday/Maybe instruction, the Be Creative and Courageous instruction); the guided-version mention of the GTD guided audio walk-through rests on the official site's "Episode #7 – Guided GTD Weekly Review" podcast page seen in search results this session (page content visible in results; not separately fetched — noted here for the supervisor).
+- Claims narrowed: no trial isolates the weekly review, stated plainly on the page with no package evidence claimed; the kernel-category sweep and firing-or-starving language labelled this practice's own; the GTD source is a productivity method, not research, and the page says so.
+- Guided version: PARTIAL — official GTD guided audio exists for the checklist version (podcast page, not separately fetched); the kernel-category version has no recording; gap flagged with the nuance recorded here and in k1b.json.
+- Validation: exit 0; workflow-narration grep clean.
