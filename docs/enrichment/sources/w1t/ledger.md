@@ -222,3 +222,15 @@ Decisions:
 - Error caught and fixed: Svenson 1981 DOI lookup initially used PMID 9805525 which is a different paper (1998 New Zealand); the primary record is not on PubMed; citation now carries no fabricated URL, only the opened reviews.
 - Related concepts: Humility (existing original).
 - No reciprocal proposals (fast-track bar).
+
+### Body representation (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/bodily-awareness/ — SEP De Vignemont. Three sentences fetched verbatim: minimal definition of body representation; representation-of-the-body-for-action; body-schema/body-image distinction stock-in-trade sentence. Gallagher 2005 sensorimotor-function reading also verified via the same search (Gallagher 2008).
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; E017/E018 Cited-in wikilinks preserved.
+- Related concepts: Reversibility (existing original).
+- Gallagher 2005 book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
