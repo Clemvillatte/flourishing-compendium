@@ -99,3 +99,9 @@
 - Opened: Wikipedia "Schema therapy" (quoting Young, Klosko & Weishaar 2003). The six-clause EMS definition is the standard Guilford wording; five domains and 18 schemas, four mode categories with vulnerable-child focus, verified against the opened page.
 - SE076's Linehan parallel retained as inherited (not re-opened).
 - "The wounded inner child" link removed (no page); replaced with Attachment theory + Mattering.
+
+## Secondary control (fast-track bar)
+- Opened: Rothbaum, Weisz & Snyder 1982 JPSP 42(1) abstract via scispace (full abstract surfaced by search; abstract text quoted verbatim).
+- Verbatim: "People attempt to gain control not only by bringing the environment into line with their wishes (primary control) but also by bringing themselves into line with environmental forces (secondary control)."
+- Four manifestations and the inward-behavior reframing restated from the same abstract.
+- "Buffers distress" phrasing scoped as the seed's gloss, not the paper's wording.
