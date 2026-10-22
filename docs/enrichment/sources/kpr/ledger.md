@@ -385,3 +385,15 @@ Full quote-audit pass on this session's edits, all against fresh full downloads:
 - K112 wording narrowed per the advisor: the "the guide itself prescribes no fixed dose" sentence replaced with "The fixed 10-30 range and the calendar steps below are this wiki's suggestions." (the broader claim went beyond the verified finding).
 - The 12:17Z audit entry is scoped as verifying selected quotations and instructions, not every claim across all five pages.
 - Next verification item (advisor-directed): K396's Evidence section (Fredrickson, Gu, Kuyken quotations and study claims), then K379's Longe evidence, then K112's study claims if unchecked.
+
+## 2026-10-22 12:22Z — verification round 2 (worker-kpr-1022d-8c4f7a21) — evidence sections
+
+Evidence sweep of the five QC-pending kernels, every displayed quotation and study-design claim checked against a fresh opening of its own source:
+
+- K396 Evidence: Fredrickson 2008 (both quotes verbatim via NCBI efetch; n = 139 working adults, field experiment, half randomly assigned — all supported); Gu 2022 (quote verbatim; 23 studies; pre-post g = 0.312 significant, RCT g = 0.106 not significant — supported); Kuyken 2016 (quote verbatim; 9 studies with individual patient data, 1,258 patients, 60-week follow-up, HR 0.69, 0.58-0.82 — all supported; the page's "does not evaluate this individual practice" scoping is accurate).
+- K379 Evidence: Longe 2010 (both quotes verbatim; "matched scenarios" supported — one scenario type a personal setback, the second a matched neutral event; no symptom-change claim in the abstract); Leaviss & Uttley 2015 (quote verbatim).
+- K112 Evidence: Baird 2012 (UCSB PDF downloaded; blockquote verbatim; incubation 12 min; η2 = .10 is the Exposure × Incubation interaction in the mixed-model ANOVA; the undemanding task beat rest and no-break at p < .01 and rest showed no benefit — all supported); Wilson 2014 (quote verbatim; 11 studies, 6-15 minutes — supported); Killingsworth & Gilbert 2010 (quote verbatim); Whillans 2017 (quote verbatim; field experiment — supported).
+- K200 Evidence: Albulescu 2022 (quote verbatim; 22 independent samples, N = 2,335 — supported); Karabinski 2021 (quote verbatim; 30 studies, 34 interventions, N = 3,725 — supported); Russell 1932 (Harper's archive page opened; quote verbatim).
+- K378 Evidence: Leaviss & Uttley (verbatim, above); MacBeth & Gumley 2012 (quote verbatim; 20 samples from 14 studies — supported).
+
+No discrepancies found; no page changes required. All five kernels' displayed evidence now rests on fresh openings from this session.
