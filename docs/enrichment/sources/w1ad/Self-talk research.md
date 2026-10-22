@@ -1,0 +1,4 @@
+# Self-talk research (w1ad, worker-w1ad-pplx-a91f2c03, 2026-10-22)
+
+- Opened: (1) PubMed abstract for Hardy, Hall & Hardy 2005, "Quantifying athlete self-talk" (https://pubmed.ncbi.nlm.nih.gov/16195042/) — the closing Vygotsky sentence quoted verbatim, and the study descriptions (295 athletes Study 1; 164 volleyball players Study 2; competition > practice; individual > team) taken from the same abstract; (2) PubMed abstract for Hatzigeorgiadis et al. 2011 meta-analysis (https://pubmed.ncbi.nlm.nih.gov/26167788/) — five sentences quoted verbatim (32 studies/62 effect sizes; ES = .48; fine vs gross; novel vs well-learned; instructional vs motivational; training moderator).
+- Verification limits: both sources opened as PubMed abstracts, not full texts; effect-size detail beyond the abstract not used. No Related-concepts section added (no verified neighbours checked in time); S125 link preserved.
