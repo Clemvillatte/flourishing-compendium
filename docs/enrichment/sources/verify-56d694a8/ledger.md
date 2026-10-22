@@ -156,3 +156,11 @@ Round 12: 4 pages, 6 quoted passages verified, 1 routed note.
 4. **The taxonomy of desires** — both Epicurus Letter to Menoeceus §127 quotes VERIFIED verbatim via the opened EpicureanFriends text. PASS.
 
 Round 13: 4 pages, 6 quoted passages verified, no defects.
+
+## Round 14 — morning sample continued
+
+1. **The unity of the soul** — both Republic IV Jowett passages VERIFIED verbatim via the opened Gutenberg text (one comma-vs-em-dash punctuation variant between editions, words identical; the page already flags normalised rendering). PASS.
+2. **The vanity of desire** — both Schopenhauer passages (via Beer) VERIFIED verbatim via the opened Gutenberg text. PASS.
+3. **The meek** — both WEB verses (Matthew 5:5, Psalm 37:11) VERIFIED verbatim via the opened BibleGateway pages. PASS.
+
+Round 14: 3 pages, 5 quoted passages verified, no defects.
