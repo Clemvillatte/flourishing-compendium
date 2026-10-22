@@ -276,3 +276,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - What the evidence does not test is stated on the page: the study is correlational, its outcome is generativity in late-midlife adults rather than well-being or healing, and it tested no rewrite exercise; the meaning-within-pain framing is labelled the practice's rationale.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (front matter copied verbatim from the seed).
+
+## K195 — Posture reset (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Nair, Sagar, Sollers, Consedine & Broadbent 2015 (Health Psychology 34(6):632-641), abstract verified raw against the NCBI efetch API (PMID 25222091, located via esearch; two wrong-PMID fetches discarded en route).
+- The blockquote matches the raw RESULTS text verbatim: "Upright participants reported higher self-esteem, more arousal, better mood, and lower fear, compared to slumped participants."
+- What the evidence does not test is stated on the page: taped seated postures in a laboratory stress task, not a stand-up reset between activities; outcomes were affect and cardiovascular responses, not attention. The seed's "body is part of cognition" framing is labelled the practice's rationale, and the page notes the trial's manipulation was seated.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed (front matter copied verbatim from the seed).
