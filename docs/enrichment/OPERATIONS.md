@@ -455,3 +455,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   freshly opened carriers, residual defects fixed (commits 0a25ba0b, 30c0dcf4), and
   the flags carry resolution notes. The flag entries remain in batches/w1x.json as
   history. No further action required by any worker on these five items.
+- Supervisor verification sample 5 (2026-10-22 ~14:53 UTC): Availability heuristic
+  (w1y's recent output) — the Tversky & Kahneman 1974 availability-definition quote
+  checked against the opened Stanford PDF: verbatim (the passage spans the journal's
+  printed page break, "27 SEPTEMBER 1974" header between the two halves; the joined
+  text matches the page quote exactly). Sample PASS. Five samples from four live
+  bands (w1y x2, w1t, w1u, k1a) all PASS.
