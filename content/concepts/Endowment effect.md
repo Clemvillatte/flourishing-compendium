@@ -38,3 +38,8 @@ The mug experiment made the point with objects. Cornell students were randomly g
 - [[CO032 — Recognise the endowment effect — you value what you own more]]
 [[D028 — Hoarding invites loss]]
 ## Cited in philosophy parallels
+
+possessions inflate in subjective value and bind behavior (Kahneman, Knetsch and Thaler, 1991).
+- Kahneman, Knetsch and Thaler, 1991
+- [[D028 — Hoarding invites loss]]
+[[CO032 — Recognise the endowment effect — you value what you own more]]
