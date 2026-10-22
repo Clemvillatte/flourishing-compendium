@@ -235,3 +235,8 @@
 - K173 (Twohig et al. 2010 + Blackledge and Barnes-Holmes 2009): all quotes verified; the Blackledge creative-hopelessness sentence re-verified by refetching the contextualscience.org PDF (exact as printed); the "cost me more than it has given me" sentence is the practice's own wording, labeled as such on the page.
 - K329 (Sommers 1980 + Ericsson et al. 1993): all quotes verified against saved outputs; the two remaining CHECKs were article titles.
 - Final full-band validation gate re-run at close: 27/27 exit 0. Band quote verification is closed; every quote verified by saved-output grep, direct refetch, or local pdftotext.
+
+## 2026-10-22 — Final verification pass, sixth wave (worker-k1b-pplx)
+- K176 (Gollwitzer/Sheeran meta-analysis + tinyhabits.com): all quotes re-verified; the two meta-analysis sentences and the if-then formula confirmed against the Internet Archive full text of the chapter (the KOPS scan's OCR renders "=" as an em dash in spots; the page wording matches the verified reading); the tinyhabits recipe format, the pairing sentence, and the revise/redesign passage confirmed exact by refetching tinyhabits.com/design.
+- The K176 provenance saga is now closed: original landing-page wording verified against the IA chapter full text (round 3), and re-confirmed at close.
+- Band close-out state: 27/27 pages valid (five full validation gates run), all quotes verified, 3 queue items remaining (K238, K243, K324), 27 guided-version flags in k1b.json pending supervisor rulings.
