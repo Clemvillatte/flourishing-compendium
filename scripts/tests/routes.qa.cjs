@@ -33,9 +33,19 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
 
   const grid = await page.evaluate(() => {
     const g = document.querySelector('.acad-practice-gallery .gallery-grid');
-    return { cols: getComputedStyle(g).gridTemplateColumns.split(' ').length, cards: g.querySelectorAll('.apg-card').length };
+    const inner = document.querySelector('.acad-inner');
+    const card = g.querySelector('.apg-card');
+    return {
+      cols: getComputedStyle(g).gridTemplateColumns.split(' ').length,
+      cards: g.querySelectorAll('.apg-card').length,
+      galleryWidth: g.getBoundingClientRect().width,
+      innerWidth: inner.clientWidth,
+      cardWidth: card ? card.getBoundingClientRect().width : 0
+    };
   });
   ok('practice gallery has 4 columns at 1280px', grid.cols === 4, JSON.stringify(grid));
+  ok('gallery spans the full page width', grid.galleryWidth >= grid.innerWidth - 76, 'gallery=' + Math.round(grid.galleryWidth) + ' inner=' + grid.innerWidth);
+  ok('cards at least as large as before (~230px+)', grid.cardWidth >= 230, 'card=' + Math.round(grid.cardWidth));
 
   await go('#practice=deg-cmp', '.acad-practice-gallery');
   ok('#practice=deg-cmp bar mirrors', (await page.evaluate(() => location.hash)) === '#practice=deg-cmp');

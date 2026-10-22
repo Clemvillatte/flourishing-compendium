@@ -2818,6 +2818,9 @@ function moduleById(id){ return window.fcAcademyData.modules[id]; }
 
 /* ---------- State (no persistent storage — sandbox) ---------- */
 const A = { view:'home', degree:null, module:null, filters:{q:'',topic:'',level:''}, completed:new Set() };
+/* The practice gallery of the rendered degree page, waiting to be appended
+   beside it (full width) by renderAcademy once the page itself is in. */
+let pendingPracticeGallery = null;
 try { A.completed = new Set(JSON.parse(localStorage.getItem('acadWatched') || '[]')); } catch (e) {}
 function saveWatched(){ try { localStorage.setItem('acadWatched', JSON.stringify([...A.completed])); } catch (e) {} }
 
@@ -3003,8 +3006,15 @@ function renderAcademy(){
   const root = $('academyRoot');
   if(!root) return;
   root.innerHTML='';
+  /* A practice gallery can live beside the scroll column, full width;
+   * clear any stale one from a previous render. */
+  Array.from(root.parentNode.children).forEach(function(n){ if (n.classList.contains('acad-practice-gallery')) n.remove(); });
   if(A.view==='sourceExplorer'){ root.appendChild(renderSourceExplorer()); return; }
-  if(A.view==='degreeDetail' && A.degree){ root.appendChild(renderDegreeDetail(A.degree)); return; }
+  if(A.view==='degreeDetail' && A.degree){
+    root.appendChild(renderDegreeDetail(A.degree));
+    if (pendingPracticeGallery){ root.parentNode.appendChild(pendingPracticeGallery); pendingPracticeGallery = null; }
+    return;
+  }
   if(A.view==='moduleDetail' && A.module){ root.appendChild(renderModuleDetail(A.module)); return; }
   root.appendChild(renderAcademyHome());
 }
@@ -3176,11 +3186,13 @@ function renderDegreeDetail(degId){
     if(!mod) return;
     main.appendChild(renderModuleCard(mod,idx+1));
   });
-  if(deg.practiceSessions && deg.practiceSessions.length){
-    main.appendChild(renderPracticeGallery(deg));
-  }
   cols.appendChild(main);
   wrap.appendChild(cols);
+  /* The guided-practice gallery is handed to the caller instead of living
+     inside this 960px page: appended beside it in the scroll container it
+     spans the full width, so the cards stay at least as large as they
+     ever were beside an aside that has nothing to say to them. */
+  pendingPracticeGallery = (deg.practiceSessions && deg.practiceSessions.length) ? renderPracticeGallery(deg) : null;
   return wrap;
 }
 

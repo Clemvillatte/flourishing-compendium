@@ -152,3 +152,16 @@ card links. Implemented alongside the enrichment work:
 - Verified: node --check, 30 unit tests, 9 randomiser tests, build.py all
   green; Playwright QA desktop 1280px and mobile 375px.
 - docs/DEEP-LINKS.md documents the new address formats.
+
+## 2026-10-22 (UTC) — Owner-directed follow-up: practice gallery full width
+
+Owner feedback after the first push: with 4 columns the gallery cards had
+shrunk (the grid sat inside the 960px degree column, beside a useless
+aside) and the gallery did not use the page width. The practice gallery is
+now rendered beside the degree page in the scroll container, outside both
+the 960px .acad-detail and the 1180px .acad-scroll column: it spans the
+full .acad-inner content width (1208px at a 1280px viewport) with the same
+4-column grid, so cards are ~290px wide, larger than the ~275px they were
+before the 4-column change. Stale galleries are cleared on every Academy
+re-render. QA re-run: all 34 checks pass (routes, mirroring, 4 columns,
+full width, card size, mobile 2 columns, zero console errors).
