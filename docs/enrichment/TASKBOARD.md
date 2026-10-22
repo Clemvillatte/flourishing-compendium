@@ -3,16 +3,16 @@
 
 Quote-fidelity verification of the w1w band's recent rewrites, no baton held, no band
 files edited (worker-verify pattern). Ledger: docs/enrichment/sources/verify-8d4e2f60/ledger.md
-(pushed through round 6).
+(pushed through round 7).
 
-- 12 pages checked, 11 PASS, 22 quoted passages verified verbatim against freshly opened
+- 13 pages checked, 12 PASS, 23 quoted passages verified verbatim against freshly opened
   carriers: The Socratic midwife (Theaetetus/Jowett), Social Impact Theory (Latane
   1981 abstract), Social embeddedness (Baumeister & Leary 1995 full PDF — note: noisy
   two-column scan, needs column-aware extraction), Servant leadership (Greenleaf
   Center), Tacit knowledge research (Polanyi, corroborated), Stuckness as suffering
   (SN 56.11/Thanissaro), The I and the Me (Mead Section 22, corroborated),
   Superordinate goals (Sherif chap. 8), Techne (Ross NE VI.4), The approval trap (Fromm),
-  Tat tvam asi (Muller, Chandogya VI.8.7).
+  Tat tvam asi (Muller, Chandogya VI.8.7), That thou art read relationally (Ramanuja passage).
   No hallucinated quotes found in this sample.
 - Two ROUTED FINDINGS for the w1w owner, both carrier accessibility: the Polanyi
   excerpt carrier (tacit-knowledge-architecture.com) is robots-blocked, and the Mead

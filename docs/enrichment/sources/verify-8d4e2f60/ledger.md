@@ -222,3 +222,17 @@ art it." — verbatim (the carrier prints "subtile" and "Svetaketu", matching).
 ## Session totals (rounds 1-6)
 12 pages checked, 11 PASS at quote level, 1 routed finding (Sophia — quote/carrier
 mismatch unresolved), 0 confirmed hallucinations. 22 quoted passages verified.
+
+
+## Round 7 — w1w (2026-10-22 ~04:25Z, taper)
+
+### That thou art, read relationally — PASS (1/1 verbatim)
+Carrier opened: the cited Sanatana Rahasya page on the three readings of tat tvam
+asi (https://www.sanatanarahasya.com/philosophy/darshanas/tat-tvam-asi-three-readings/,
+fetched 2026-10-22 ~04:25Z). The Ramanuja passage "the same one God is named twice,
+once as the world-cause and once as the inner Self of the soul, so the soul is real
+and distinct yet wholly dependent" — verbatim, from the page's opening paragraph.
+
+## Session totals (rounds 1-7)
+13 pages checked, 12 PASS at quote level, 1 routed finding (Sophia — quote/carrier
+mismatch unresolved), 0 confirmed hallucinations. 23 quoted passages verified.
