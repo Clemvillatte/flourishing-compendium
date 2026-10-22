@@ -12,7 +12,7 @@ Vairagya is dispassion — not numbness, but the release of the grip on outcomes
 > "The consciousness of self-mastery in one who is free from craving for objects seen or heard about is non-attachment."
 > — [Patañjali, Yoga Sūtra 1.15, trans. Swami Satchidananda, Integral Yoga Magazine](https://integralyogamagazine.org/patanjalis-words-practice-the-path-to-self-mastery/)
 
-Two features of the definition carry the teaching. First, the objects renounced include the heard-about as well as the seen — not just the pleasures in front of a person but the imagined ones, promised rewards included. Second, what marks vairagya is not the absence of objects but the consciousness of mastery in their presence. The sūtra does not describe someone who has escaped temptation; it describes someone who no longer thirsts, and knows it.
+Two features of the definition carry the teaching. First, the objects renounced include the heard-about as well as the seen: both the pleasures in front of a person and the imagined ones, promised rewards included. Second, what marks vairagya is not the absence of objects but the consciousness of mastery in their presence. The sūtra does not describe someone who has escaped temptation; it describes someone who no longer thirsts, and knows it.
 
 The distinction matters because vairagya is easily counterfeited. Suppression looks like dispassion but is still a form of gripping — holding the mind shut against a desire that remains. The real thing is quieter: attention simply does not seize on the impression when it appears. Vyāsa's classical commentary makes the same point, defining it as the consciousness of indifference that persists even when the desirable objects are in contact.
 
