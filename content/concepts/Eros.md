@@ -15,7 +15,7 @@ Eros, in Plato's Symposium, is examined rather than praised. Socrates reports hi
 
 > "'Marvel not,' she said, 'if you believe that love is of the immortal, as we have several times acknowledged; for here again, and on the same principle too, the mortal nature is seeking as far as is possible to be everlasting and immortal: and this is only to be attained by generation, because generation always leaves behind a new existence in the place of the old.'" (Plato, [Symposium](https://www.gutenberg.org/ebooks/1600))
 
-Hence her formula that "conception and generation are an immortal principle in the mortal creature" ([Symposium](https://www.gutenberg.org/ebooks/1600)). Children, works and laws are all, in the dialogue's accounting, attempts at this one immortality; the ladder that carries the desire upward, from one beautiful body to beauty itself, is the compendium's companion page: [[The ladder of love]].
+Hence her formula that "conception and generation are an immortal principle in the mortal creature" ([Symposium](https://www.gutenberg.org/ebooks/1600)). Children are the dialogue's plain case of this immortality; the ladder that carries the desire upward, from one beautiful body to beauty itself, is the compendium's companion page: [[The ladder of love]].
 
 ## Related concepts
 
