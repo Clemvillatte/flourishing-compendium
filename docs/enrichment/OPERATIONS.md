@@ -671,3 +671,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   finished-band draw, w1v) — the Aristotle NE III.3 choice-definition quote checked
   against the opened MIT Classics carrier (Ross): verbatim. Sample PASS. Forty-eight
   samples this session, all PASS.
+- Supervisor verification sample 49 (2026-10-22 ~16:59 UTC): Santosha (random
+  finished-band draw, w1w) — the Yoga-sutra 2.42 commentary passage checked against
+  the opened wisdomlib carrier: verbatim except one dropped comma after "in,"
+  (the carrier's rendering has an artifact comma there; the page's reading is the
+  natural one). Sample PASS with note. Forty-nine samples this session, all PASS.
