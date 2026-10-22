@@ -328,4 +328,4 @@ practices (e.g. a nap, which needs only an alarm) are exempt from the
 guided-recording requirement; the exemption must be recorded in the kpr
 ledger.
 
-QC-pending kernels (K418, K419, K112, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared. No kernel is yet a verified exemplar: K409 is the candidate awaiting its own verification round (Evidence quotations with locators; guided-version narrator confirmation).
+QC-pending kernels (K418, K419, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared. K112 was cleared by supervisor QC pass 2026-10-22 (claims verified against the Baird 2012 and Wilson 2014 full texts; ledger entry in kpr ledger). No kernel is yet a verified exemplar: K409 is the candidate awaiting its own verification round (Evidence quotations with locators; guided-version narrator confirmation).
