@@ -90,8 +90,17 @@ research); all other sampled items PASS.
     institutions" fragment, and "indispensable". No hallucinated quotes; the
     unquoted adaptive-reliance bullet also matches the abstract.
 
+## Round 4 (11:28Z) — Motor intentionality (w1s, commit 463bd05bc)
+
+11. **Motor intentionality (w1s)** — 3 quoted passages checked, 3 PASS against a
+    fresh fetch of the SEP Merleau-Ponty entry (Toadvine, plato.stanford.edu/
+    entries/merleau-ponty/): the full "I can rather than an I think" blockquote,
+    the inline "an 'I can' rather than an 'I think'" fragment, and
+    "being-toward-the-world". The being-toward-the-world gloss is an unquoted
+    faithful paraphrase of the SEP sentence. No hallucinated quotes.
+
 ## Summary
 
-10 items checked, 8 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+11 items checked, 9 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first ten items after repair.
+quotation-faithful at a 100% sample of its first eleven items after repair.
