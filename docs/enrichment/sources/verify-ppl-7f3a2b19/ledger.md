@@ -442,3 +442,21 @@ Round 17 totals: 1 PASS, 2 routed, 1 no-blockquote note. ABSOLUTE FINAL SESSION 
 repaired (all under baton claims, validated, pushed); 10 findings routed to owners/
 supervisor; 1 confabulated finding withdrawn with git evidence; 2 process errors corrected
 in the record. All session work pushed to origin/main; all batons released.
+
+## Round 18 — mixed released/live pages, READ-ONLY (2026-10-22, executed ~12:09-12:11Z per
+clock proximity; no edits)
+
+- ACCEPTANCE (w1a, released) — PASS 1/1: the Hayes et al. 2006 acceptance definition
+  verbatim vs the cited anxietyinstitute.com PDF (freshly downloaded and opened; extraction
+  has curly apostrophes, page wording identical).
+- AFFECTIVE CHRONOMETRY (w1q, released) — PASS 1/1: the Davidson 2015 Emotion Review
+  comment passage verbatim vs the cited PDF (freshly downloaded and opened).
+- ABSOLUTE NOTHINGNESS (w1q, released) — PASS 1/1: the Nishida NKZ IX, 6 passage verbatim
+  vs the cited SEP entry (opened via fetch).
+- ACTION OVER INERTIA (w1t, live) — PASS 1/1: the Aristotle NE II.1 Ross passage verbatim
+  vs the cited austria-forum.org page (opened).
+
+Round 18 totals: 4/4 PASS, no findings. ABSOLUTE FINAL SESSION TOTALS: 72 pages verified
+across 18 rounds (58 released-band + 14 live-band read-only); 62 PASS or better; 6 defects +
+1 translator attribution repaired; 10 findings routed; 1 confabulated finding withdrawn with
+git evidence; 2 process errors corrected in the record. Session verification closed.
