@@ -297,3 +297,12 @@ Round 26: 4 pages, 9 quoted passages verified, no defects.
 4. **Pratyahara** — both Johnston Yoga Sutras renderings (II.54; II.55) VERIFIED verbatim against the opened Gutenberg 2526 text (line-wrapped; wording identical). PASS.
 
 Round 27: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 28
+
+1. **Prehension** — the Seibt SEP passage VERIFIED verbatim via the opened SEP entry. PASS.
+2. **Problem vs. mystery** — both Marcel passages (the p. 117 problem/mystery definition; the "common property" line) VERIFIED verbatim via the opened SEP entry. PASS.
+3. **Prohairesis** — both Aristotle NE III.3 (Ross) quotes VERIFIED verbatim via the opened classics.mit.edu page. PASS.
+4. **Prospective memory** — both McDaniel & Einstein 2000 abstract passages VERIFIED verbatim via the opened Wiley record. PASS.
+
+Round 28: 4 pages, 8 quoted passages verified, no defects.
