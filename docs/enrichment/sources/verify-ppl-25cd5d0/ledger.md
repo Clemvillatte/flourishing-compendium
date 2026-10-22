@@ -830,3 +830,22 @@ No routed findings.
 restrict the principle of equal consideration" sentence, and the "only justifiable stopping
 place" sentence all verified verbatim against an unprompted raw fetch of the cited Wikipedia
 article (which carries them as a blockquote from the book, p. 120). No routed findings.
+
+## Round 34 (2026-10-22; inspection ~12:37-12:38Z; raw-text method)
+
+### The free person (w1s, fast-track done, commit 06493ddcd)
+
+3 quoted passages checked, 3 PASS — Ethics IV Prop. LXVII ("A free man thinks of death
+least of all things..."), Prop. LXX (avoiding favours from the ignorant) and Prop. LXXII
+(never acts fraudulently) all verified verbatim against an unprompted raw fetch of the
+cited Gutenberg #971 text (Elwes). The page's paraphrase-quote of the proof's "lives under
+the guidance of reason, who is not led by fear... but who directly desires that which is
+good" is also directly present. No routed findings.
+
+### Government of the people (w1r, fast-track done, commit 3b47728d4)
+
+1 quoted passage checked, 1 PASS — the Gettysburg closing sentence verified verbatim
+against an unprompted raw fetch of the cited Library of Congress standard-text
+transcription (including "under God" in the new-birth clause, matching the standard
+text). The page's "can long endure" framing is likewise directly present in the address.
+No routed findings.
