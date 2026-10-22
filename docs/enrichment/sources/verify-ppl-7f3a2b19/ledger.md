@@ -97,7 +97,7 @@ requested); 2 carrier-accessibility improvements applied under the w1w baton (Th
 the Me, Tacit knowledge research). This was a quotation-fidelity check, not whole-page
 factual certification.
 
-## Round 2 — w1ac recent pages (2026-10-22, measured ~12:10Z; read-only, no baton, no edits)
+## Round 2 — w1ac recent pages (2026-10-22, executed ~11:49-11:51Z per measured clock; read-only, no baton, no edits)
 
 - REGULATORY MODE THEORY — PASS 2/2: both Kruglanski et al. 2000 definitions verbatim vs the
   cited Columbia PDF (freshly downloaded and opened).
