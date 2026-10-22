@@ -529,3 +529,13 @@ Round 58: 1 page, 2 quoted passages verified, no defects.
 1. **Bodhicitta** — ROUTED: the "to achieve Buddha-hood for the welfare of all beings" fragment was not located in the opened Lotsawa House Shantideva chapter 1 (possible extraction miss or a different verse); the other carrier is a Google Drive PDF (not openable in the remaining time). Left for the next verify worker.
 
 Round 59: 1 routed item.
+
+## Round 60
+
+1. **Attentiveness** — the Weil "Reflections on the Right Use of School Studies" definition VERIFIED verbatim via the opened Matheson Trust PDF. PASS.
+
+Round 60: 1 page, 1 quoted passage verified, no defects.
+
+## Session close (T+56)
+
+Final state: 60 rounds recorded in this ledger segment; all work committed and pushed to origin/main via api_push.py throughout; all repairs validated (0 failures across the session); maintenance baton to be released at T+58.
