@@ -435,3 +435,9 @@ Post-compaction rounds 24-43 plus the verification pass: 52 distinct pages worke
 1. **Nishkama karma** — citation loop closed: the Vivekananda sentence VERIFIED verbatim against the page's actual cited carrier (the opened Karma Yoga PDF), in addition to the earlier ramakrishnavivekananda.info verification. Fully double-sourced. PASS.
 
 Round 44: 1 citation loop closed.
+
+## Round 45
+
+1. **Actual occasions** — both Whitehead Process and Reality passages VERIFIED via the opened Larval Subjects carrier (found on a looser re-fetch after an extraction miss): the "final real things" sentence matches (dash-spacing variant only), and the "becoming" passage matches with the page correctly cleaning the carrier's "It's" typo to "Its". PASS.
+
+Round 45: 1 page, 2 quoted passages verified, no defects.
