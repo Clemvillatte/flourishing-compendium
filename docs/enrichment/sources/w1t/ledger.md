@@ -402,3 +402,14 @@ Decisions:
 - Replication problem honestly carried (the Heyman 2006 failure-to-replicate).
 - Related concepts: The pontifex, bridge-maker (existing original).
 - No reciprocal proposals (fast-track bar).
+
+### Conjunctive relations (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://www.gutenberg.org/files/32547/32547-h/32547-h.htm — James Essays in Radical Empiricism (1912). Three sentences fetched verbatim: statement of fact; does-full-justice passage; face-value passage.
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Front-matter preserved; P065/P121 Cited-in wikilinks preserved.
+- Related concepts: Pure experience (existing).
+- No reciprocal proposals (fast-track bar).
