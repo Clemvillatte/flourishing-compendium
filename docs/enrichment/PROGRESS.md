@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-22 15:41 UTC (input revision `b30b7bc66`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:41 UTC.
+As of 2026-10-22 15:42 UTC (input revision `158d78228`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:42 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-22 15:41 UTC (input revision `b30b7bc66`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 2049 | 212 | 2261 | 90.6% |
-| **Combined** | **4220** | **224** | **4444** | **95.0%** |
+| Concepts | 2050 | 211 | 2261 | 90.7% |
+| **Combined** | **4221** | **223** | **4444** | **95.0%** |
 
 ## Stories (separate pipeline)
 
@@ -36,7 +36,7 @@ Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. R
 | Thinkers | 2 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 36 | — |
 
 - Thinker reconciliation: 2 thinker page(s) exist (T001, T002…); the thinker queue holds 36 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 1 recorded done. No completion percentage is computed: the program has no defined completion denominator.
-- Kernel reconciliation: 0 kernel IDs appear in more than one band done list (duplicate entries, counted once); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 187 kernel pages are not recorded done; 123 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
+- Kernel reconciliation: 1 kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is ['K112'] — recorded both by K-ID and by title); 4 done entries are recorded by title rather than K-ID (matched to their K-pages by title); 0 recorded-done kernel IDs have no current page; 187 kernel pages are not recorded done; 123 queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).
 - Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
 ## Principles by forest

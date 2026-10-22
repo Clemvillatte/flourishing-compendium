@@ -222,6 +222,8 @@ def main():
                 title_matched.add(kpage_titles[s2])
     from collections import Counter
     kcnt = Counter(kdone_ids)
+    for kid_ in title_matched:
+        kcnt[kid_] += 1
     kdone = set(kdone_ids) | title_matched
     kqueue = _kids(json.load(open(os.path.join(ROOT, 'docs/enrichment/queue-kernels.json'))))
     kpages = set()
@@ -245,7 +247,7 @@ def main():
     lines.append(f'| Thinkers | {len(tpages)} | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | {len(tq)} | — |')
     lines.append('')
     lines.append(f'- Thinker reconciliation: {len(tpages)} thinker page(s) exist ({", ".join(sorted(tpages)[:5])}…); the thinker queue holds {len(tq)} entries{t1a_note}. No completion percentage is computed: the program has no defined completion denominator.')
-    lines.append(f'- Kernel reconciliation: {len(kdup)} kernel IDs appear in more than one band done list (duplicate entries, counted once); {len(title_matched)} done entries are recorded by title rather than K-ID (matched to their K-pages by title); {len(kdone - kpages)} recorded-done kernel IDs have no current page; {len(kpages - kdone)} kernel pages are not recorded done; {len(kqueue - kdone)} queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).')
+    lines.append(f'- Kernel reconciliation: {len(kdup)} kernel IDs are recorded in more than one done entry (duplicate records, counted once; the current overlap is {sorted(kdup.keys())} — recorded both by K-ID and by title); {len(title_matched)} done entries are recorded by title rather than K-ID (matched to their K-pages by title); {len(kdone - kpages)} recorded-done kernel IDs have no current page; {len(kpages - kdone)} kernel pages are not recorded done; {len(kqueue - kdone)} queued IDs are absent from the done set (a queue-set figure, not a page count — the queue is not trimmed of done items and needs reconciliation).')
     lines.append('- Stories carry no completion denominator in their registry; the Stories section above reports counts only.')
     lines.append('')
     lines.append('## Principles by forest')
