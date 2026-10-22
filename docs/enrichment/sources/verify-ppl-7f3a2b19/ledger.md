@@ -180,3 +180,22 @@ earlier notes in this ledger were estimates where not explicitly measured)
 Round 4 totals: 3/3 selected-quotation PASS. w1ac sample now: 9 pages checked across rounds
 2-4 (6 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect repaired + translator
 attribution repaired, 1 routed — Relational Frame Theory PMC interstitial).
+
+## Round 5 — w1ac earlier pages (2026-10-22, executed ~11:58-12:00Z per clock proximity to the 11:57:28Z measurement)
+
+- PREJUDICE (VORURTEIL) — PASS 1/1: the Gadamer Truth and Method p. 289 passage verbatim
+  vs the cited Wikiquote page (opened via fetch; wording and em-dash phrase match exactly).
+- PRESENT-AT-HAND — PASS (full blockquote): all parts of the Heidegger Being and Time p. 104
+  passage (Macquarrie-Robinson) verified verbatim vs the cited beyng.com page, including the
+  middle sentences ("It becomes 'equipment'... unswerving presence-at-hand."). Note: the
+  carrier prints "observed" in italics; the page prints it plain — an emphasis-only
+  difference, wording identical.
+- PRE-MORTEM TECHNIQUE — PASS 2/2: both Klein 2007 HBR passages verbatim vs the cited PDF
+  (freshly downloaded and opened).
+- PYGMALION EFFECTS — PASS 2/2: both Rosenthal and Jacobson 1968 ch. 7 passages verbatim vs
+  the cited Tufts PDF, with one carrier-extraction artifact noted: the PDF extraction prints
+  "ch~idren" (OCR tilde) where the printed text reads "children"; the page prints the
+  correct word (Hermeneutic-circle-comma class: extraction artifact, no page defect).
+
+Round 5 totals: 4/4 selected-quotation PASS. Cumulative w1ac sample: 13 pages checked
+(10 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect+attribution repaired, 1 routed).
