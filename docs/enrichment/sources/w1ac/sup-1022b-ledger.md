@@ -83,3 +83,8 @@
 ## Rule-following without theory (fast-track bar)
 - Opened: SEP "Ludwig Wittgenstein" (Biletzki & Matar). Verbatim PI 201 paradox quote and PI 185 continuation example; the SEP's framing questions on rule-following (learning, following, standards, mental representation) used.
 - [[The chiasm]] link is a placeholder: replace at SATURATE step with the actual neighbors the mention check surfaces. PI §132 idling passage not re-verified here (w1f ledger already grounds Language-on-holiday).
+
+## Rule-governed behavior (fast-track bar)
+- Opened: EBSCO Research Starters "Rule-Governed Behavior" (full page fetched).
+- Verbatim: "Rule-governed behavior refers to actions that are controlled by verbal stimuli outlining expected behaviors and their consequences." Skinner's "contingency-specifying stimulus" quoted; the two-contingency framing attributed to Hayes and Zettle as reported by EBSCO.
+- Insensitivity-to-changing-consequences problem restated from the same opened page; pliance/tracking not defined there, so not restated.
