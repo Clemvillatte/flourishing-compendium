@@ -74,19 +74,19 @@
  ],
  "in_progress": null,
  "flagged": {
-  "E012": "Opened and checked UCL Kersten extracts, Walsh pp212/217/222-223 and SEP Beyer. Corrected used-edition metadata; simplified Plain words, bounded exercise and precise quote. Validator passed; independent advisor unavailable, supervisor QC requested.",
-  "D003": "Source-checked and validator passed. Independent advisor launch failed because platform credits were exhausted; supervisor independent QC still requested.",
-  "AF036": "Replaced deterministic mood-after-action promises with graded valued activity, monitoring and clinical boundary. Veale2008, COBRA2016 and Cochrane2020 opened; source quote checked. Independent advisor unavailable; supervisor QC requested.",
-  "B003": "Repaired duplicated Plain words, unsupported process framing and example; SN22.59, MN109, Milindapanha II.1.1 and Bernstein2015 opened; validator passed. Independent advisor remains unavailable; supervisor QC requested.",
-  "AT070": "Source-checked repair: threat bias separated from danger judgements and treatment efficacy. Five opened sources; Pond2025 explicitly labelled preprint. Validator passed; independent advisor unavailable, supervisor QC requested.",
-  "E013": "Reopened for QC: QC correction: quote ends mid-sentence; invented quotation in example",
-  "A065": "Reopened for QC: QC correction: wine quote drops source parenthesis",
-  "SE066": "Reopened for QC: QC correction: outcomes not established by Vygotsky source",
-  "P038": "Reopened for QC: QC correction: inference and mechanical claim beyond James source",
-  "D114": "Replaced quotation scaffolding and self-erasing example; DDJ8/22/66 and Ryckman1994 opened, precise Legge quote retained. Validator passed; independent advisor unavailable, supervisor QC requested."
+  "E012": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): independent verification pass — \"We do not give up the positing we effected\" verified verbatim against a fresh fetch of the UCL Kersten extracts (§31 p. 59); Walsh stratum discussion paraphrased not quoted; validator ok. One defect found and FLAGGED FOR SUPERVISOR: the seed Practice-kernels line \"[[K318 — Absurd-revolt practice|K354 The absurd practice]]\" is a stale seed alias (no K354 kernel exists; K318 already linked correctly in the same list) — removal is blocked by the validator original-markup guard (seed commit c2a3ee47a), so the repair needs supervisor/owner action; my deletion was reverted and the page re-validated ok. Same stale alias on E011/A010 (p1b) and S007 (another band).",
+  "D003": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): independent verification pass — Legge ch. 48 quote verified verbatim against a fresh fetch of sacred-texts; ch. 37 paraphrase grounded; supervisor fb661ad6 psychology-parallel claim reduction verified present on the page; validator ok.",
+  "AF036": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): independent verification pass — Veale quote \"The aim is to introduce small changes, building up the level of activity gradually towards long-term goals.\" verified verbatim against a fresh fetch of the Cambridge APT page; the activity-for-its-own-sake warning and mood/values monitoring sentences grounded in the same fetched source; graded framing and clinical boundary present; validator ok.",
+  "B003": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): independent verification pass — SN 22.59 formula \"This is not mine. This is not my self. This is not what I am.\" verified verbatim against a fresh fetch of the Thanissaro accesstoinsight page; Milindapanha and MN 109 claims match their cited carriers as paraphrase (no quotation marks); validator ok.",
+  "AT070": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): independent verification pass — Eysenck et al. 2007 abstract quote verified verbatim against a fresh PubMed fetch; threat-bias/danger-judgement separation and the Pond 2025 preprint label verified on the page; validator ok.",
+  "E013": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): the reopened defects (mid-sentence quote; invented quotation in example) were repaired in QC round 2/3 per the ledger; verified on the current page — the \"agent of perception\" quote now carries the full source sentence; all three SEP spans re-verified verbatim against a fresh fetch of the SEP Merleau-Ponty entry; validator ok.",
+  "A065": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): the wine-quote parenthesis defect was repaired per the ledger (wine passage paraphrased; verbatim quote only on the final clause); all three quotes verified verbatim against a fresh fetch of the MIT NE VIII page, including the source renderings \"by reason of own nature\" and \"good-and goodness\" which are the MIT text itself; validator ok.",
+  "SE066": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): the outcomes-overreach defect was repaired per the ledger (atrophy/gym-dose outcomes removed); verified on the current page — body narrowed to Vygotsky assisted-learning account, application labelled broader than the classroom research, For example replaced with a supported-learning action; ZPD quotes recorded as mechanically verified against the downloaded Mind in Society PDF; validator ok.",
+  "P038": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): the flywheel-mechanical-gloss and details-dont-matter inference defects were repaired per the ledger; verified on the current page — both removed; both James quotes verified verbatim against a fresh fetch of the psychclassics ch. IV text; validator ok.",
+  "D114": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22): independent verification pass — Legge ch. 66 closing \"Because he does not strive, no one finds it possible to strive with him.\" verified verbatim against a fresh fetch of sacred-texts; ch. 8/22 companion images grounded as paraphrase; Ryckman 1994 sample size (160) present; validator ok."
  },
  "missing_concepts": [],
  "sources_checked": 110,
- "updated": "2026-10-22T12:42:15+00:00",
+ "updated": "2026-10-22T14:03:41+00:00",
  "band_done": false
 }
