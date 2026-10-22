@@ -217,8 +217,17 @@ research); all other sampled items PASS.
     abstract's opening sentence, the three-modes-of-agency sentence, and the
     collective-efficacy sentence. No hallucinated quotes.
 
+## Round 17 (11:43Z) — Detached mindfulness theory Wells (w1u, commit 2f61b603c)
+
+24. **Detached mindfulness theory Wells (w1u)** — 2 of 4 quoted passages
+    verified PASS against a fresh fetch of the Wells 2009 chapter PDF
+    (Sage/Wills): the definition sentence and the tiger-task script. The two
+    Wells 2005 abstract quotes (Springer) are robots-blocked and could not be
+    independently opened this round — attribution is correct, no defect
+    suspected, noted as a verification gap only.
+
 ## Summary
 
-23 items checked, 20 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+24 items checked, 21 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-three items after repair.
+quotation-faithful at a 100% sample of its first twenty-four items after repair.
