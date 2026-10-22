@@ -27,5 +27,7 @@
    "from": "worker-k1a-pplx-9f2b31e7",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T15:18:55+00:00"
 }
