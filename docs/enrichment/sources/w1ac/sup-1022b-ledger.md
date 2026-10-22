@@ -65,3 +65,6 @@
 - Verbatim GM II.13: "there is no 'being' behind doing, working, becoming; 'the doer' is a mere appanage to the action. The action is everything."
 - Fischhoff claims restated as cited on the compendium's own CO024 page (not re-opened).
 - [[Resentment]] link replaced with [[The critique of ressentiment]] (no Resentment page exists).
+
+## Reversibility (fast-track bar)
+- Quotes reused from the compendium's own E018 page, which verified them against the Lingis chapter scan (doubleoperative.com PDF) and the archived SEP Merleau-Ponty article; not re-opened this session. Seed's "Eye and Mind" attribution retained as bibliography; the quotes themselves are from The Visible and the Invisible.
