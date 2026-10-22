@@ -1,0 +1,4 @@
+# Self-making (w1ad, worker-w1ad-pplx-a91f2c03, 2026-10-22)
+
+- Opened: Thus Spake Zarathustra, Common translation, Project Gutenberg full text (https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) — fetched once; page quotes verified verbatim against the returned text: "Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea. Aye, for the game of creating..."; "To create new values—that, even the lion cannot yet accomplish: but to create itself freedom for new creating—that can the might of the lion do."; the camel framing ("load-bearing spirit in which reverence dwelleth") is verbatim.
+- Verification limits: quotes are from the Common translation (public-domain), not Kaufmann or Hollingdale; the page says so. Related-concept links are bare links, no relationship claims.
