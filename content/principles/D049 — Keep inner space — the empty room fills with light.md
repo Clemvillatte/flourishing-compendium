@@ -12,13 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 49** — Keep inner space: the empty room fills with light
 
-When Yan Hui asks for the method, Zhongni (Confucius, as Zhuangzi depicts him) tells him it is "the fasting of the mind": listening with the spirit, which "is free from all preoccupation and so waits for (the appearance of) things." Then comes the image: "Look at that aperture (left in the wall); the empty apartment is filled with light through it. Felicitous influences rest (in the mind thus emblemed), as in their proper resting place." Legge's comparison carries the principle: a mind free from preoccupation is like the empty apartment receiving light. The passage is careful about what this is — it distinguishes "(the body) seated and (the mind) galloping abroad," so the emptiness it means is mental, not just a gap in a diary. The compendium's exercise, in that spirit: don't furnish your mind wall to wall. Keep a daily reserve of unfilled time and let it stay unfilled — not as a waiting room for the next task, but as practice in being unoccupied.
+In the fourth chapter of the Zhuangzi, Yan Hui asks Confucius for a method and is told it is "the fasting of the mind". Confucius says to listen past the ears and past the mind, to the spirit, which "is free from all pre-occupation and so waits for (the appearance of) things". He then gives the image that this principle takes its title from:
 
-(Zhuangzi 4.)
+> Look at that aperture (left in the wall); the empty apartment is filled with light through it. Felicitous influences rest (in the mind thus emblemed), as in their proper resting place.
 
-**Plain words** Don't fill every hour, or every corner of your head. Zhuangzi's picture is an empty room that lets in light. A packed day is a furnished room — nothing else can arrive. Keep some time unfilled on purpose, and leave it that way.
+(Zhuangzi 4, "Man in the World, Associated with Other Men", trans. Legge, *Sacred Books of the East* vol. 39, [text](http://www.100jia.net/texte/zhuangzi/zhuangzilegge1.htm).)
 
-*For example:* You leave Sunday morning unplanned — no errands, no meetups. It stays empty, and you don't quietly fill it with your phone.
+Light reaches the far wall because nothing stands in its path. The passage also names the way this goes wrong: when the influences do not rest, "we have what is called (the body) seated and (the mind) galloping abroad." Sitting still is not enough. The emptiness Zhuangzi means belongs to the mind, so an empty hour in a diary only helps if the mind is allowed to be unoccupied in it.
+
+### Plain words
+
+Picture a room packed with furniture. Light from the window hits the wardrobe and stops there. Clear the room and the light reaches every corner. Zhuangzi treats a mind the same way: when every hour and every corner of your head is already furnished with plans and worries, little else can arrive. So leave some time unfilled on purpose, and let it stay unfilled.
+
+### For example
+
+Pick one morning a week, say Sunday, with nothing planned and the phone in another room. Afterwards, note what you did with the hour. If you ended up scrolling or tidying up errands, change the setup (the phone goes out of the house, or the hour moves to a walk) and try again next week. Keep whichever version leaves the hour open. The dimension you are training is Attention.
+
+## Sources
+
+- Zhuangzi, ch. 4, trans. James Legge, *The Texts of Taoism* (Sacred Books of the East, vol. 39, 1891), online edition: [100jia.net](http://www.100jia.net/texte/zhuangzi/zhuangzilegge1.htm)
 
 ## Stories
 
@@ -58,3 +70,8 @@ Shower thoughts exist because the shower is unfurnished. What's your last unfurn
 %%
 Empty time is where processing, insight, and recovery happen. What's the cost of having none?
 -->
+
+## Related concepts
+
+- [[D046 — Practice fasting of the mind (xinzhai)]] — draws on the same Yan Hui dialogue and gives the listening instruction that comes before the light image
+- [[D045 — Keep the empty cup]] — Daodejing 11 makes the same point with a wheel hub and a clay vessel: the use is in the empty space
