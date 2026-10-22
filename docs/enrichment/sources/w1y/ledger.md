@@ -161,3 +161,23 @@ Fast-track enrichment.
   SDT literature as summarised in the same review's references);
   controlling style as the opposite.
 - Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
+
+## 2026-10-22 (UTC): B-values (worker-pplc-523749d5)
+
+Fast-track enrichment.
+
+- Item: content/concepts/B-values.md (seed: Maslow, Toward a
+  Psychology of Being).
+- Opened source: Abraham H. Maslow, Religions, Values, and
+  Peak-Experiences (Kappa Delta Pi, 1964; Penguin edition
+  ISBN 0 14 00.4262 8), full text PDF
+  https://churchofbodmod.com/wp-content/uploads/2025/07/Religions-Values-and-Peak-Experience.pdf
+  (the B-values passage and Appendix G; the oaks.nvg.org text page
+  was down, the PDF was opened instead).
+- Verbatim blockquotes: the "most important finding" passage and the
+  first three numbered B-values of Appendix G (Truth, Goodness,
+  Beauty) with their parenthetical lists; the remaining list items
+  summarised in prose without quotation.
+- Synthesis grounded in the same opened text: the eternal verities
+  sentence before the quoted finding; facts and values fusing.
+- Validation: enrich_validate.py --fast-track 1 checked, 0 failed.
