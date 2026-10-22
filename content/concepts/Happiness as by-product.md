@@ -15,7 +15,7 @@ The claim, in Frankl and before him in Mill, is that happiness is not something 
 
 ### Why scrutiny spoils it
 
-Mill continues: "Ask yourself whether you are happy, and you cease to be so." Enjoyments "will not bear a scrutinizing examination"; taken en passant they suffice, made the principal object they are "immediately felt to be insufficient." The mechanism matters for flourishing rather than mere consolation. A life organised around an external end has something for attention to rest on; a life organised around its own mood has only the mood to inspect, and inspection is exactly what moods cannot survive. Frankl's version, formed in the camps, reaches the same conclusion from the other direction: meaning is available even when happiness is not, and meaning is what happiness grows out of when it does.
+Mill continues: "Ask yourself whether you are happy, and you cease to be so." Enjoyments "will not bear a scrutinizing examination"; taken en passant they suffice, made the principal object they are "immediately felt to be insufficient." The mechanism matters for flourishing rather than mere consolation: on Mill's account, enjoyment holds up only while attention rests on something besides itself. The seed citation to Frankl's Man's Search for Meaning marks the same insight from the other direction — the title names meaning, not happiness, as what a life can aim at.
 
 ## Related concepts
 

@@ -15,7 +15,7 @@ Hospitality is the welcome owed to the stranger who arrives. In the tradition ru
 
 ### What the stranger is owed
 
-Kant's formulation is deliberately narrow. The stranger has "a right of visitation," not a right to be treated as a guest; the claim does not exceed what the host can give without ceasing to be host. Derrida's later reading pushes on precisely this limit: any hospitality that sets conditions — a threshold, a language, a question of who owns the house — is no longer pure hospitality, and yet an unconditional welcome with no conditions cannot be lived by anyone. The concept is useful to flourishing because it names a virtue that only exists in the act of accepting some cost to one's own boundary. Levinas sharpens it further: the face of the other makes a demand before any negotiation has begun.
+Kant's formulation is deliberately narrow. The stranger has "a right of visitation," not a right to be treated as a guest; the claim does not exceed what the host can give without ceasing to be host. The later tradition takes the question further. Levinas placed welcome at the heart of ethics: the face of the other calls us to responsibility before any laws or calculations. Derrida, extending this, insisted on unconditional openness to the arrival of the other, while acknowledging the tension — hospitality in practice necessitates conditions and limitations, yet unconditional hospitality calls for their transcendence — a tension he called an aporia rather than a problem to be solved ([Cambridge Public Humanities, On Hospitality](https://www.cambridge.org/core/journals/public-humanities/article/on-hospitality-levinas-derrida-ratty-and-mole/96395EF97BA1302F25246AF6E0ED8E7C)). For flourishing, the concept names a virtue that exists only in the act of accepting some cost to one's own boundary.
 
 ## Related concepts
 
@@ -28,6 +28,7 @@ Kant's formulation is deliberately narrow. The stranger has "a right of visitati
 - Levinas, Totality and Infinity
 
 - [Kant, Perpetual Peace: A Philosophical Essay (1795), full text](https://www.gutenberg.org/files/50922/50922-h/50922-h.htm) — passage quoted verbatim above
+- [On Hospitality: Levinas, Derrida, Ratty, and Mole, Public Humanities (Cambridge Core)](https://www.cambridge.org/core/journals/public-humanities/article/on-hospitality-levinas-derrida-ratty-and-mole/96395EF97BA1302F25246AF6E0ED8E7C) — characterisations of Levinas and Derrida paraphrased above
 
 ## Cited in philosophy parallels
 

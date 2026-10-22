@@ -13,9 +13,13 @@ Generativity is Erikson's name for the adult concern for guiding and providing f
 
 > "McAdams and de St. Aubin's approach described generativity as an arrangement of seven empirically grounded facets including desire, cultural demand, concern, belief, commitment, action, and narration." — [Rubinstein et al., The Gerontologist 55(4) (2015), full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4542587/)
 
-### How the facets connect
+### How the theory explains generativity
 
-The same review gives the causal spine of the model: "cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind." Belief leads to commitment, commitment initiates action, "and ultimately, the multifaceted connection of these components is assembled through narration of the life story." The last step is why the theory belongs beside narrative identity: one becomes generative through doing things for others and through telling a life story in which those things cohere. For flourishing, the theory's promise is that midlife meaning is not a mood but a buildable structure — a concern fed by demand, desire, and faith in people, expressed in acts, and given form in story.
+The same review gives the causal spine of the model: "cultural demand in combination with inner desire (for agentic immortality and communal nurturance) fosters a conscious concern for future generations. Concern for future generations is strengthened by a belief in the goodness of humankind." Belief is said to lead to generative commitment. "Generative commitment subsequently can initiate generative action." "Ultimately, the multifaceted connection of these components is assembled through narration of the life story." The last step is why the theory belongs beside narrative identity: one becomes generative through doing things for others and through telling a life story in which those things cohere. For flourishing, the theory's promise is that midlife meaning is not a mood but a buildable structure — a concern fed by demand, desire, and faith in people, expressed in acts, and given form in story.
+
+### In everyday life
+
+The model began as a measurement program: its everyday face is the Loyola Generativity Scale, a self-report measure of generative concern that the 1992 studies validated against reports of actual generative acts, such as teaching a skill, and against themes of generativity in autobiographical accounts ([McAdams & de St. Aubin 1992, abstract via Semantic Scholar](https://www.semanticscholar.org/paper/A-theory-of-generativity-and-its-assessment-through-McAdams-Aubin/7f22484c3ede554d3ae7f2b1e8af1232aaec2d47)).
 
 ## Related concepts
 
