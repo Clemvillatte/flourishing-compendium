@@ -44,11 +44,17 @@ All routed items from round 1 were checked against freshly opened carriers:
 3. **Anti-essentialism (6 quotes)** — PhilArchive Knoll paper is LIVE (direct download fails, but the archive page opens and prints the BGE 108 Kaufmann quote): PASS. HAH quote: the Knoll paper prints it starting mid-passage; full wording verified verbatim via the [Brunel Entertext paper](https://www.brunel.ac.uk/creative-writing/research/entertext/documents/entertext043/Steven-Michels-Nietzsches-Aphoristic-Turn.pdf) (Hollingdale translation). Stanford Gay Science PDF: aphorism-54 passage PASS verbatim. Philoscopia: notebook line and attribution PASS. HMC: aphorism 51 PASS verbatim. DEFECT: the perspectival-seeing quote was labeled "The Gay Science" but its carrier (Philoscopia) attributes it to On the Genealogy of Morals III §12 — REPAIRED (label corrected).
 4. **Affect heuristic, r = -.74** — VERIFIED: the [Efendić et al. 2022 SAGE paper](https://journals.sagepub.com/doi/10.1177/19485506211056761) prints "original: r = −.74 [−0.92, −0.30]", i.e. it is the original Finucane et al. 2000 figure, as the page states. No repair needed; routed item closed.
 
-## Summary
+## Round 3 — spot checks on other released bands' recent work (~12:17-12:32 UTC)
 
-Round 2: 15 quoted passages checked, all verified verbatim; 2 defects repaired (dead pbworks citation re-pointed;
-perspectival-seeing quote mislabeled Gay Science instead of Genealogy III §12). Combined with round 1: all 12
-pages of the w1x batch now fully verified, 27 quoted passages checked against opened carriers, 5 defects found
-and repaired, all repaired pages re-validated (enrich_validate ok). The w1x fast-track batch is
-quotation-faithful at 100% of the sample after repair.
+1. **w1w repair: Sophia (commit 4937750fc)** — VERIFIED: the [MIT Ross text](http://classics.mit.edu/Aristotle/nicomachaen.6.vi.html) prints the repaired quote verbatim ("Therefore wisdom must be intuitive reason combined with scientific knowledge-..."). PASS.
+2. **w1w repair: The approval trap (commit 63992c9f8)** — VERIFIED: the Fromm passage is in the cited PDF verbatim, and the chapter locator ch. 4 is correct (the quote falls between the ch. IV marker "THE TWO ASPECTS OF FREEDOM FOR MODERN MAN" and the ch. V marker in the PDF text). PASS.
+3. **w1v: Recovery science (Sonnentag quotes)** — VERIFIED via the [PMC carrier](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249184/): both quotes verbatim. PASS.
+4. **w1v: Reciprocity norm theory Gouldner (1960, p. 171)** — the cited Polanyi-archive scan page is live but the quote is not on the item page; the quote wording and page number are confirmed verbatim by multiple scholarly reproductions of the 1960 article opened this session. PASS with note.
+5. **w1v repair: Natural rights Locke §6 ellipsis (commit 27896e530)** — VERIFIED against the [Gutenberg text](https://www.gutenberg.org/cache/epub/7370/pg7370.txt): the source sentence continues with a colon after "possessions" ("...possessions: for men being all the workmanship..."), so the ellipsis close is honest. PASS.
+
+## Final summary
+
+Session total: 12 w1x pages (all), 2 w1w repairs, 3 w1v recent items, and 1 w1u-routed numeric claim checked
+against freshly opened carriers; 32 quoted passages verified verbatim; 5 defects found and repaired; all repaired
+pages re-validated. No open findings remain from this session's rounds.
 
