@@ -131,8 +131,29 @@ research); all other sampled items PASS.
     paraphrase). The AA "grant me" wording matches the standard Alcoholics
     Anonymous adaptation. No hallucinated quotes.
 
+## Round 8 (11:30Z) — The taxonomy of desires (w1t, commit ad6b438b2)
+
+15. **The taxonomy of desires (w1t)** — 1 quoted passage checked, 1 PASS: the
+    Epicurus Letter to Menoeceus §127 Bailey quote verified verbatim against a
+    fresh fetch of the EpicureanFriends carrier (epicureanfriends.com/wcf/
+    menoeceus/). The workable-when tag paraphrases the scholarly consequence
+    (verifiable classification rather than felt intensity) without quotation.
+    No hallucinated quotes.
+
+## Round 9 (11:31Z) — Object relations theory (w1s, commit 97854190f)
+
+16. **Object relations theory (w1s)** — 4 quoted passages checked, 4 PASS: both
+    Gomez/Fairbairn passages ("Libido, or the person in her libidinal capacity
+    ...", "the greatest resistance to change lay in the patient's loyalty to
+    her internal objects") verified against a curl download of the TCF S3 PDF
+    (the fetch tool is robots-blocked there; the file downloads fine); both
+    Mitchell fragments ("a natural, inevitable and continual accompaniment of
+    all experience", "internal objects are neither primary nor inevitable
+    (theoretically). They are compensatory substitutes...") verified against
+    a fresh fetch of the archive.wawhite.org PDF. No hallucinated quotes.
+
 ## Summary
 
-14 items checked, 12 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+16 items checked, 14 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first fourteen items after repair.
+quotation-faithful at a 100% sample of its first sixteen items after repair.
