@@ -583,3 +583,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   verbatim (Gutenberg's _underscores_ for italics normalized to the page's
   *asterisks* — standard markdown italics rendering, wording identical). Sample
   PASS. Thirty-one samples this session, all PASS.
+- Supervisor verification sample 32 (2026-10-22 ~16:03 UTC): Experience plus
+  reflection (random finished-band draw, w1b) — the Democracy and Education passages
+  ("experience is trying" / "it is undergoing" / "measures the fruitfulness" / the
+  thinking-as-connection definition) checked against the opened Gutenberg #852 text:
+  all verbatim. Sample PASS. Thirty-two samples this session, all PASS.
