@@ -136,3 +136,15 @@ Decisions:
 - Typo caught: "transcoded" corrected to "transcended" (matches the SEP source).
 - The Look link corrected to the actual page name "The look (le regard)".
 - No reciprocal proposals (fast-track bar).
+
+### Being-values (B-values) (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://en.wikipedia.org/wiki/Abraham_Maslow — Wikipedia article on Maslow. Full B-values section fetched verbatim: being-cognition/deficiency-cognition sentence; full 14-item list with associated terms.
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Front-matter preserved; A083 Cited-in wikilink and P117 inline wikilink preserved.
+- Related concepts: Peak experiences (actual page name), Self-actualization (Maslow) (actual), Analytic vs holistic cognition (actual, standing in for B-cognition/D-cognition which do not exist as pages).
+- Book citation (Maslow, Toward a Psychology of Being) carried from the seed; marked not independently opened this session.
+- No reciprocal proposals (fast-track bar).
