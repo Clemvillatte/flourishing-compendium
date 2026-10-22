@@ -12,15 +12,31 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 138** — Take responsibility for the social conditions of growth
 
-Dewey's account of growth in Democracy and Education refuses to locate it inside the individual. "Society continues to exist by transmission, by communication; it may fairly be said to exist in transmission, in communication" ([Dewey 1916, Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)). Growth is not a private project that happens to take place near other people; the others are part of the mechanism. School, family and workplace are not the setting of growth; they are the material it is made of.
+Dewey's Democracy and Education places growth inside a social setting and not inside the individual alone. He writes of the surroundings that shape a person:
 
-Addams's Twenty Years at Hull-House is the ground-level version of the same claim: every attempt the settlement made to improve its neighbours' lives failed until the neighbours were in the room, and the settlement was itself changed by what it learned ([Addams 1910, Gutenberg](https://www.gutenberg.org/ebooks/2396)). You cannot design someone else's growth from outside; you can only be a condition inside it.
+> The social environment consists of all the activities of fellow beings that are bound up in the carrying on of the activities of any one of its members. It is truly educative in its effect in the degree in which an individual shares or participates in some conjoint activity. ([Dewey, Democracy and Education, 1916, ch. 2, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-> "The individual has a very good time in society, if he can get into it... But to have a good time is not the same thing as to grow; and the conditions of growth are not identical with those of individual pleasure." (John Dewey, Democracy and Education, 1916, [Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
+In chapter 1 he puts the same point about society itself:
 
-**Plain words** Every time you manage, teach, parent or host, you are not just a person having a day; you are the weather someone else is developing inside. The manager who comes in short-tempered has not had a bad morning, she has changed the temperature of ten other people's work. This is not a guilt trip; it is an accurate job description. Once you see yourself as a condition rather than a character, the same day produces different behaviour; you start managing the room, not just your mood.
+> Society not only continues to exist by transmission, by communication, but it may fairly be said to exist in transmission, in communication. ([Dewey 1916, ch. 1, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
-*For example:* Two managers both have a hard week. One lets the frustration show and treats it as personal; the team absorbs the mood and lowers their voice. The other takes five minutes before the meeting, names the week out loud, and asks the team what they need; the same difficulty is now shared information rather than ambient weather. Same difficulty; one of them was the environment.
+On this account school, family and workplace belong to the process of growing, and so those who run them take part in other people's growth.
+
+The step the compendium draws from this is its own: if you set the conditions in a room, a team or a household, you share responsibility for what grows there.
+
+(Dewey, Democracy and Education, ch. 1 and 2.)
+
+### Plain words
+
+Other people's development partly depends on the conditions you create around them. A manager's mood and habits become part of what her team works inside. So pay attention to the conditions you are setting, and not only to your own day.
+
+### For example
+
+Two managers both have a hard week. One lets the frustration show and the team goes quiet. The other names the week at the start of the meeting and asks what the team needs. The difficulty is the same, but the conditions the team works under are not. This one is imagined.
+
+## Sources
+
+- John Dewey, *Democracy and Education* (1916), ch. 1 and 2: [Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)
 
 ## Psychology parallels
 
