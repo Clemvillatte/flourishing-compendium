@@ -19,7 +19,7 @@ The moment of vision belongs to resoluteness, Heidegger's term for the person wh
 
 And the temporal characterization, in Section 68:
 
-> "In resoluteness, the Present is not only brought back from distraction with the objects of one's closest concern, but it gets held in the future and in having been. That Present which is held in authentic temporality and which thus is authentic itself, we call the 'moment of vision'. It means the resolute rapture with which Dasein is carried away to whatever possibilities and circumstances are encountered in the Situation as possible objects of concern, but a rapture which is held in resoluteness."
+> "In resoluteness, the Present is not only brought back from distraction with the objects of one's closest concern, but it gets held in the future and in having been. That Present which is held in authentic temporality and which thus is authentic itself, we call the 'moment of vision'. [...] It means the resolute rapture with which Dasein is carried away to whatever possibilities and circumstances are encountered in the Situation as possible objects of concern, but a rapture which is held in resoluteness."
 
 ([Being and Time, M&R p. 387, beyng.com](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.387.html).)
 

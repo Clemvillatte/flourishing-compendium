@@ -226,3 +226,11 @@ Round 19: 4 pages, 5 quoted passages verified, 1 defect repaired, 1 routed note.
 3. **Dispositional awe / Dispositional mindfulness** — checked: no verbatim quoted passages on either page (prose-only pages); nothing to verify.
 
 Round 20: 3 pages, 3 quoted passages verified, no defects.
+
+## Round 21 — morning sample continued
+
+1. **Debiasing techniques** — both Larrick quotes (the "What are some reasons that my initial judgment might be wrong?" strategy; the accountability mechanism sentence) VERIFIED verbatim against the opened PDF. PASS.
+2. **The taxonomy of vices** — both Aristotle Nicomachean Ethics II quotes (the virtue-mean definition; the brave-man relativity passage) VERIFIED verbatim via the opened Boston University full text. PASS.
+3. **The moment of vision (Augenblick)** — all three quotes VERIFIED verbatim against the opened beyng.com pages (translator's note and "When resolute..." on p. 376; the Section 68 temporal characterization on p. 387 — both citation URLs correct). DEFECT: the Section 68 quote skipped the source's intervening sentence ("This term must be understood in the active sense as an ecstasis.") without an ellipsis — REPAIRED: "[...]" inserted. Page re-validated ok.
+
+Round 21: 3 pages, 5 quoted passages verified, 1 defect repaired.
