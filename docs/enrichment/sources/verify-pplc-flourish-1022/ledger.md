@@ -508,3 +508,52 @@ PDF, a Canadian thesis quoting Deikman 1969 p. 200, and a Boston University revi
 5. Deferred: the vividness quote from deikman.com/implications.html ("may appear to
    have gained (temporarily) a new richness and vividness...") — carrier blocked, not
    verified this round.
+
+## Round 12 (07:12Z) — final w1u completed pages (read-only checks)
+
+### Correspondence theory of truth — 6 quoted passages checked, 6 PASS
+
+All against the freshly opened SEP article The Correspondence Theory of Truth (David):
+Aristotle's Metaphysics 1011b25 formulation; "virtually identical formulations can be
+found in Plato (Cratylus 385b2, Sophist 263b)"; "truth is correspondence to, or with,
+a fact—a view that was advocated by Russell and Moore early in the 20th century";
+Russell's "Thus a belief is true when there is a corresponding fact, and is false when
+there is no corresponding fact"; the broad reading ("truth consists in a relation to
+reality..."); "an extended family of theories and, more often, theory sketches" — all
+VERBATIM.
+
+### Core knowledge theory — 8 quoted passages checked, 8 PASS
+
+1. Spelke 2000 (PubMed abstract as indexed) — "such as reading and calculation and
+   complex cognitive achievements such as formal science and mathematics may depend on a
+   set of building block systems that emerge early in human ontogeny and phylogeny" —
+   VERBATIM substring (the abstract opens "Complex cognitive skills such as reading
+   and calculation..."; the PubMed record prints "Compex" — a PubMed indexing typo, not
+   the page's).
+2. Same — "These core knowledge systems show characteristic limits of domain and task
+   specificity: Each serves to represent a particular class of entities for a particular
+   set of purposes." — VERBATIM.
+3. Same — "By combining representations from these systems, however, human cognition may
+   achieve extraordinary flexibility." — VERBATIM.
+4. Same — "may contribute to understanding unique features of human knowledge" —
+   VERBATIM substring.
+5. Spelke & Kinzler 2007 (Columbia-hosted PDF) — "Human cognition is founded, in part,
+   on four systems for representing objects, actions, number, and space." — VERBATIM.
+6. Same — "It may be based, as well, on a fifth system for representing social
+   partners." — VERBATIM.
+7. Same — "serve to represent inanimate objects and their mechanical interactions,
+   agents and their goal-directed actions, sets and their numerical relationships of
+   ordering, addition and subtraction, and places in the spatial layout and their
+   geometric relationships" — VERBATIM.
+8. Same — "deep roots in human phylogeny and ontogeny, and it guides and shapes the
+   mental lives of adults" — VERBATIM.
+
+## Session totals (final)
+
+12 rounds, 25 pages, ~130 quoted passages checked against freshly opened carriers.
+Defects routed: 1 (Self-verification theory — paraphrase printed as quotation; repair
+suggestion supplied). Minor notes routed: dead archived-Asch carrier (Conformity),
+quote-aggregator carriers (The illusion of certainty), g = -0.776 referent precision
+(Importance of rest), "Also," prefix (Wisdom theory Berlin paradigm — resolved as
+artifact), Deikman comma (Deautomatization — no repair needed). Deferred items recorded
+in the relevant round entries. All other quotes verified verbatim.
