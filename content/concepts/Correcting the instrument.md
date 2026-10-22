@@ -7,7 +7,7 @@ file: "Correcting the instrument"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-"Correcting the instrument" is this compendium's label for a doctrine Francis Bacon works out in the Novum Organum (1620); it is not Bacon's own phrase. The book's title trades on the Greek word organon, "instrument" or "tool": Bacon "clearly felt he was supplying a new instrument for guiding and correcting the mind in its quest for a true understanding of nature," one meant to replace Aristotle's Organon ([Internet Encyclopedia of Philosophy](https://iep.utm.edu/francis-bacon/)). The label names that project. The mind is the instrument of inquiry, and on Bacon's account it needs checking before it is trusted.
+"Correcting the instrument" is this compendium's label for a doctrine Francis Bacon works out in the Novum Organum (1620); it is not Bacon's own phrase. The label names what the aphorisms say: the understanding is the instrument with which anything is known, and it needs checking before it is trusted. Bacon's own instrument language, from the second aphorism of Book I:
 
 > "The unassisted hand, and the understanding left to itself, possess but little power. Effects are produced by the means of instruments and helps, which the understanding requires no less than the hand. And as instruments either promote or regulate the motion of the hand, so those that are applied to the mind prompt or protect the understanding." (Bacon, [Novum Organum](https://history.hanover.edu/texts/bacon/novorg.html), Book I, Aphorism II, Montague translation)
 
@@ -36,8 +36,6 @@ The instrument, in Bacon's diagnosis, arrives bent. Book I, Aphorisms 39-68 cata
 - [Bacon, Novum Organum (1620), Book I, Aphorisms I.1-I.68, Montague translation, Hanover College text](https://history.hanover.edu/texts/bacon/novorg.html)
 
 - [Hanover Historical Texts Project excerpts, Book I, Aphorisms XXXIX-XL](https://history.hanover.edu/courses/excerpts/111bac2.html)
-
-- [Internet Encyclopedia of Philosophy, "Francis Bacon" (1561-1626), section on the New Organon](https://iep.utm.edu/francis-bacon/)
 
 ## Cited in philosophy parallels
 

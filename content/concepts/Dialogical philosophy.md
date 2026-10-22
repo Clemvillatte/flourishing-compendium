@@ -7,26 +7,26 @@ file: "Dialogical philosophy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Dialogical philosophy is philosophy that takes the relation, not the solitary thinker, as the basic unit. Its paradigm is Martin Buber's I and Thou (1923), a short book built on one distinction: every "I" is spoken with a companion. The self that says "I-It" faces a world of objects to use and describe; the self that says "I-Thou" faces a presence that answers back.
+Dialogical philosophy, as this page uses the term, is Martin Buber's account of the self as made in relation, worked out in I and Thou. The book's core distinction is that every "I" is spoken with a companion. The self that says "I-It" faces a world of objects to use and describe; the self that says "I-Thou" faces a presence that answers back.
 
-> "To man the world is twofold, in accordance with his twofold attitude. The attitude of man is twofold, in accordance with the twofold nature of the primary words which he speaks. The primary words are not isolated words, but combined words. The one primary word is the combination I-Thou. The other primary word is the combination I-It." (Buber, [I and Thou](https://www.bopsecrets.org/gateway/passages/buber.htm), trans. Ronald Gregor Smith)
+> "To man the world is twofold, in accordance with his twofold attitude. The attitude of man is twofold, in accordance with the twofold nature of the primary words which he speaks. The primary words are not isolated words, but combined words. The one primary word is the combination I-Thou." (Buber, [I and Thou](https://www.bopsecrets.org/gateway/passages/buber.htm), trans. Ronald Gregor Smith)
 
 ### The self that meeting makes
 
 Buber's claim is that the self is not a given that then relates; it is made in the relating. "I become through my relation to the Thou; as I become I, I say Thou," and again: "For the I of the primary word I-Thou is a different I from that of the primary word I-It" ([I and Thou, Smith trans.](https://www.bopsecrets.org/gateway/passages/buber.htm)). The two attitudes organize different worlds: "As experience, the world belongs to the primary word I-It. The primary word I-Thou establishes the world of relation" (same text). His most quoted line compresses the whole position: "All real living is meeting" (same text; Walter Kaufmann's later translation renders it "All actual life is encounter").
 
-The I-It is not a mistake to be eliminated. Buber's point is proportion: a life run entirely in the I-It, however efficient, is a life without meeting, and it is meeting that a person is built for.
+The I-It is not a mistake to be eliminated. Buber's point is proportion: a life run entirely in the I-It, however efficient, is a life without meeting.
 
 ### In the compendium
 
-- [[M006 — Name your in-between states]] — nepantla names the between-ness that dialogical philosophy treats as the self's native address
+- [[M006 — Name your in-between states]] — nepantla, the Nahuatl name for being between worlds, is the compendium's parallel from another tradition; a cross-reference, not an equivalence
 - [[PP035 — Practise social perspective-taking]] — the compendium pairs Buber's meeting with the research on whether imagining another's view actually reaches it
 
 ## Related concepts
 
-- [[Positioning theory]] — a later dialogical account of self, built on positions taken and assigned in talk (editorial comparison)
-- [[The polyphonic self]] — the many-voiced self in the dialogical tradition (editorial comparison)
-- [[Correspondence]] — Ingold's answer to what beings do inside a relation: answer to one another over time
+- [[Positioning theory]] — Harré's account of identity made moment by moment in conversation (editorial comparison)
+- [[The polyphonic self]] — Bakhtin's plurality of unmerged voices, transferred to persons (editorial comparison)
+- [[Correspondence]] — Ingold's answer to what beings do inside a relation: answer to one another over time (editorial comparison)
 
 ## Sources
 
