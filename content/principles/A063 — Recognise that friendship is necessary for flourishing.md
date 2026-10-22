@@ -12,16 +12,33 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 63** — Recognise that friendship is necessary for flourishing
 
-Aristotle argues that wealth and power do not remove the need for friends:
+Aristotle argues that wealth and power do not remove the need for friends. His question includes the opportunity to care for someone, rather than only the help one might receive:
 
-> "For without friends no one would choose to live, though he had all other goods"
+> For without friends no one would choose to live, though he had all other goods; even rich men and those in possession of office and of dominating power are thought to need friends most of all; for what is the use of such prosperity without the opportunity of beneficence, which is exercised chiefly and in its most laudable form towards friends?
 > (NE VIII.1, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
 
-He asks what prosperity is for without opportunities to benefit friends. In misfortune, he says, people regard friends as their refuge. Friendship helps the young avoid error and supports older people whose abilities are weakening. For people in their prime, friends encourage noble actions and help them think and act. (NE VIII.1.)
+The argument concerns a life shared in activity and goodwill. It does not require treating every acquaintance as a close friend or using another person as insurance against misfortune ([NE VIII.1–3](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)). A practical application is to make friendship part of deliberation about how to live, rather than something considered only after other commitments are fixed.
 
-**Plain words** Picture having every comfort you want. Who would you want to share it with? Whose troubles would you make time for? Aristotle's point includes the chance to care for other people. A practical response is to make room for friends in your plans, even when nothing is wrong and you need no help yourself.
+### Plain words
 
-*For example:* Suppose a promotion would require moving away from close friends. Give those friendships a place in the decision alongside the salary.
+When you make plans, include the people whose lives you want to share. Ask what care and time you can realistically offer, as well as what you hope to receive. The question is what a relationship means in your life, not whether you can achieve a particular number of friends.
+
+### For example
+
+Imagine a promotion that would mean moving away from close friends. Consider what contact could continue and what would be lost, alongside pay, caring responsibilities and the work itself. This does not decide the choice in advance; it makes the friendships part of the decision.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VIII.1–3, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html): friendship, beneficence and shared life.
+- [Holt-Lunstad, Smith and Layton, "Social Relationships and Mortality Risk: A Meta-analytic Review", PLOS Medicine 7(7), 2010](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316): the observational synthesis discussed below.
+- [Liz Mineo, Harvard Gazette, 11 April 2017, report on the Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/): the institutional account discussed below.
+- Waldinger and Schulz (2023): further reading.
+
+## Related concepts
+
+- [[Philia]]: Aristotle's friendship vocabulary.
+- [[Friendship]]: the broader philosophical discussion.
+- [[Relatedness]]: a psychological comparison, not an interchangeable term.
 
 ## Stories
 
@@ -75,8 +92,8 @@ He asks what prosperity is for without opportunities to benefit friends. In misf
 - [[K364 — Cosmopolitan reflection|K364 Cosmopolitan reflection]]
 ## Psychology parallels
 
-- **Social relationships and mortality risk**, meta-analyses show social connection predicts survival as strongly as smoking cessation (Holt-Lunstad, Smith and Layton, 2010)
-- **The longest study on adult development**, the Harvard Study of Adult Development finds quality of relationships as the strongest predictor of life satisfaction (Waldinger and Schulz, 2023)
+- **Social relationships and mortality risk**: stronger social relationships were associated with higher survival odds across 148 prospective studies (OR 1.50; 95% CI 1.42 to 1.59), not a 50% increase in lifespan. The review's broad social measures are not identical to Aristotle's friendship and do not show the individual effect of making another friend ([Holt-Lunstad, Smith and Layton, 2010](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316)).
+- **Harvard Study of Adult Development**: a 2017 institutional report attributes to Waldinger an association between relationship satisfaction at 50 and health at 80 in longitudinal cohorts. This concerns later health, not a universal ranking of predictors of life satisfaction; the report is not the 2023 book ([Harvard Gazette](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)).
 
 ## Philosophy parallels
 
