@@ -12,10 +12,12 @@
   "Original enlightenment",
   "Pratyahara"
  ],
- "in_progress": null,
- "flagged": {},
+ "in_progress": "Objectless contemplation",
+ "flagged": {
+  "Objectless contemplation": "namespace check unresolved: no opened authoritative source defines 'objectless contemplation' as a term; page written at fast-track bar as the compendium's editorial label for the Cloud of Unknowing's prayer; held out of done pending supervisor disposition"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T07:04:47+00:00",
+ "updated": "2026-10-22T07:10:31+00:00",
  "band_done": false
 }

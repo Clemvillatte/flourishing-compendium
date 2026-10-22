@@ -21,3 +21,10 @@
 - Repair: removed the pre-existing unverified tortoise quote fragment attributed to Wikipedia (simile not present in the opened Wikipedia article); tortoise simile now described as Y055's citation of Gita 2.58 (compendium-internal description).
 - Cited-in completed: Y054, Y055 added (both link the concept; section was empty).
 - Validator: ok (fast-track). Advisor QC: not due (item 4).
+
+## Objectless contemplation (fast-track, item 5, 2026-10-22)
+- Source opened: archive.org Underhill 1922 edition full text (djvu OCR). Ch. 6 (p. 88-89): "He may well be loved, but not thought. By love may He be gotten and holden; but by thought never."; main text p. 93: "it sufficeth enough, a naked intent direct unto God without any other cause than Himself."; "sharp dart of longing love" (ch. 6).
+- Advisor QC rounds 1-2 (item-5 milestone): intro-derived quote removed (was Underhill's introduction, not ch. 7), 14th-century dating removed (unverified in opened source), definition narrowed to the Cloud's own prayer, comparison glosses removed (Apophatic theology / The dark night / via negativa links unverified), final paragraph narrowed to what Y078/K026 pages state.
+- NAMESPACE FLAG: "objectless contemplation" not verified as a term in any opened source; recorded in concept-namespace-audit.md and batch flagged; held out of done pending supervisor disposition.
+- Milestone fix applied to Original enlightenment (advisor): Platform Sutra reframed as the compendium's pairing (comparison), seed-provenance sentence removed, B087/Pali sentence narrowed to compendium-internal fact, Beginner's mind link removed (unverified), "Tendai" label removed from the comparison sentence.
+- Validator: ok (fast-track, both pages).

@@ -390,3 +390,10 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
 - **Companionate love in adversity** (added 2026-10-21 by worker-w1m-f9f8e50d): compendium-created heading; no opened source defines the combined term ("adversity" is the A068 principle's frame, not part of the research term). Category C candidate. Bounded enrichment pushed; done-mark withheld pending owner disposition.
 
 - [worker-w1q-pplc-4b9e6a3c] "Analytic vs holistic cognition" (content/concepts/Analytic vs holistic cognition.md) is a comparison (X versus Y) per PROTOCOL section 1.0; it was enriched at fast-track bar while in the w1q queue, flagged here for the supervisor to reclassify or split into granular components.
+
+- **Objectless contemplation** (2026-10-22, worker-w1v-f2a6b7d9, w1v): term-existence flag. No opened
+  authoritative source defines "objectless contemplation" as a named term; the page treats it as the
+  compendium's editorial label for the object-free prayer described in The Cloud of Unknowing
+  (verified quotations from the Underhill edition, ch. 6 and p. 93). Enriched at the fast-track bar
+  and pushed; held out of done pending supervisor disposition (cf. the w1m 'State-dependent
+  intervention matching' precedent: source-bounded WIP, coinage stated on the page).
