@@ -1,5 +1,17 @@
 # Storyteller scope and integration handoff
 
+## ACT owner priority, 2026-10-22 UTC
+
+The current owner request explicitly expands this lane to narrative objects from The Big Book of ACT Metaphors. New local IDs are s1b-013 through s1b-026. Do not confuse them with the twelve earlier lane items described below.
+
+- Source/coverage register: `ACT-COVERAGE.md`, 38 main-index metaphor names and 37 Appendix J rows, 66 unique names after normalization. These are metadata and proposed routes, not 66 completed stories.
+- Narrative drafts: `s1b-013.md` through `s1b-026.md`. Check each item's current `state.json` status and YAML before registration; final-batch advisor corrections may still be in progress.
+- Independent source/QC reviews cover the first item, fifth item, tenth item, and contributor batches. Findings and source-quality limitations are summarized in `ACT-HANDOFF.md`.
+- Owner-facing priority is registration plus bidirectional links. This worker has not edited `content/stories`, principle files, global progress, proposal queues or any other lane.
+- Preserve source-version distinctions, short quotations and clearly labeled editorial applications. Gillanders permits use/copying subject to a non-profit condition; confirm intended-use compatibility rather than treating this as blanket commercial permission.
+
+The supervisor should consider these owner-priority ACT objects before reviving the earlier optional backlog below.
+
 2026-10-21 · storyteller-caa860fe · session caa860fe-4fba-431e-bbb9-9b371897aec5
 
 The owner explicitly approved continuation in response to the proposed D107/B088/P196 s1b assignment: "Keep going, you have 30 minutes before cut off, plenty of time to find and push a few qualitative stories." Lane s1b is now claimed by storyteller-caa860fe. This lane-owned note records owner authorization and asks the supervisor to reconcile the central registry; no shared registry is edited by the storyteller.

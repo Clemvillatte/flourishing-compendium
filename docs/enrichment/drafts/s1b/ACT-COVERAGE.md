@@ -33,7 +33,7 @@ The book's index supplies these names and locators. Exact object wording and sub
 | Man in the Hole | [30](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155 | Briefly referenced example; inspect original before retelling |
 | The Master Storyteller | [80-81](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159 | Needs source-level narrative research |
 | Muntu | [123](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P160 | Fiction attribution and original novel need checking |
-| Passengers on the Bus | [113, 161](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157, P162 | Briefly referenced; source-level narrative research needed |
+| Passengers on the Bus | [113, 161](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P156, P157, P162 | s1b-026; independent recovery prompt and later non-demonising commentary |
 | The Pendulum | [37-38](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155, P157 | Needs source-level narrative research |
 | Prince and the Beggar | [122](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P160 | Existing ST335; do not create a duplicate |
 | Quicksand | [20, 22, 30](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155, P157 | Existing ST332; retain metaphor-versus-physical-safety boundary |
@@ -61,7 +61,7 @@ These are all rows under the Metaphors heading on printed pp. 205-206. The prima
 | Bubble in the Road | Committed action | [Hayes et al., 1999, pp. 229-230](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P162; original needed |
 | Chessboard | Self-as-context | [Hayes et al., 1999, pp. 190-192, 219, 268](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P160; existing ST333 |
 | Chinese Handcuffs | Control as the problem | [Hayes et al., 1999, pp. 104-105](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155; original needed |
-| Compass | Values | [Zettle, 2007, pp. 124-125](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P158; original needed |
+| Compass | Values | [Zettle, 2007, pp. 124-125](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-024; independent VA version opened; listed Zettle version still needed |
 | Expanding Balloon | Willingness | [Hayes et al., 1999, p. 248](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157; original needed |
 | Expanding Circle | Committed action | [Luoma et al., 2007, pp. 167-168](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P162; original needed |
 | Falling in Love | Control as the problem | [Zettle, 2007, pp. 170-171](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155; original needed |
@@ -77,9 +77,9 @@ These are all rows under the Metaphors heading on printed pp. 205-206. The prima
 | Magic Pill | Values | [Zettle, 2007, pp. 197-198](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P158; original needed |
 | Man in the Hole | Control as the problem | [Hayes et al., 1999, pp. 101-104](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155; original needed |
 | Master Storyteller | Defusion | [Harris, 2009, p. 119](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159; original needed |
-| Passengers on the Bus | Acceptance | [Hayes et al., 1999, pp. 157-158](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157, P162; original needed |
+| Passengers on the Bus | Acceptance | [Hayes et al., 1999, pp. 157-158](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-026; independent prompt version opened; listed 1999 version still needed |
 | Path Up the Mountain | Values | [Hayes et al., 1999, pp. 221-222](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P158; original needed |
-| Polygraph | Control as the problem | [Hayes et al., 1999, pp. 123-124](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155; original needed |
+| Polygraph | Control as the problem | [Hayes et al., 1999, pp. 123-124](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-025; author manuscript version opened; listed 1999 version still needed |
 | Quicksand | Control as the problem | [Hayes, 2005, pp. 3-4](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155, P157; existing ST332 |
 | Shark Tank Polygraph | Control as the problem | [Hayes, 2005, p. 30](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155; original needed |
 | Skidding | Committed action | [Luoma et al., 2007, p. 170](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P162; original needed |
@@ -87,7 +87,7 @@ These are all rows under the Metaphors heading on printed pp. 205-206. The prima
 | The Sky and the Weather | Self-as-context | [Harris, 2009, p. 175](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P160; existing ST334 |
 | Swamp | Willingness | [Hayes et al., 1999, pp. 247-248](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157; original needed |
 | Take Your Keys with You | Willingness | [Hayes et al., 1999, pp. 248-250](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157; original needed |
-| Tug-of-War with a Monster | Control as the problem | [Hayes et al., 1999, p. 109](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155; independent Cambridge account located; verify its open ending |
+| Tug-of-War with a Monster | Control as the problem | [Hayes et al., 1999, p. 109](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-023; opened scholarly adaptation; open box distinguished from later protocol |
 | Two Computers | Defusion | [Walser and Westrup, 2007, pp. 92-94](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159; original needed |
 | Two Scales | Willingness | [Hayes et al., 1999, pp. 133-134](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157, P156; s1b-019 uses independently opened author manuscript |
 | We Are Fish Swimming in Our Thoughts | Defusion | [Hayes, 2005, p. 55](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159; original needed |
