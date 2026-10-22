@@ -41,7 +41,8 @@
   "Delay reduction hypothesis",
   "Deconstruction of essences",
   "Expectation-disconfirmation",
-  "Duck-rabbit seeing-as"
+  "Duck-rabbit seeing-as",
+  "Default effect theory"
  ],
  "in_progress": null,
  "flagged": {
@@ -56,9 +57,10 @@
   "Delay reduction hypothesis": "Filed under SO046 (in-group bias) but SO046 never mentions delay/reinforcement; Chung & Herrnstein attribution unverified (hypothesis is Fantino 1969).",
   "Deconstruction of essences": "Seed cites Garfield, Engaging Buddhism (not opened); SEP says svabhava-as-essence is NOT the main Madhyamaka target (substance is). B010 title 'nothing has a fixed essence' is looser than SEP.",
   "Expectation-disconfirmation": "Seed 'performance minus expectation' simplifies Oliver 1980 (additive expectation + disconfirmation). D121 lists it as a psychology parallel but its prose cites only Daodejing 63.",
-  "Duck-rabbit seeing-as": "Duck-rabbit figure itself not named in the SEP entries opened; PI II text not opened. Y018 (vikalpa) does not cite Wittgenstein."
+  "Duck-rabbit seeing-as": "Duck-rabbit figure itself not named in the SEP entries opened; PI II text not opened. Y018 (vikalpa) does not cite Wittgenstein.",
+  "Default effect theory": "K060 (rest/non-doing) does not mention defaults; link unsupported. Seed 'implicit recommendation' covers only the endorsement channel of three."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:55:20+00:00"
+ "updated": "2026-10-22T15:55:57+00:00"
 }
