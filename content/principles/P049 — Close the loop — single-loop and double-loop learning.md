@@ -12,13 +12,27 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 49** — Close the loop: single-loop and double-loop learning
 
-Argyris coined the terms himself, and gave the thermostat as his analogy: "a thermostat that automatically turns on the heat whenever the temperature in a room drops below 68 degrees is a good example of single-loop learning. A thermostat that could ask, 'Why am I set at 68 degrees?' and then explore whether or not some other temperature might more economically achieve the goal of heating the room would be engaging in double-loop learning." Single loop corrects the action; double loop questions the setting the action serves. The compendium's ordering rule: when results disappoint, fix the action first. If the same disappointment keeps returning, treat the repetition as an invitation to examine the assumption behind the action — it does not prove the assumption is wrong; it earns the question. Re-fixing the action while never asking is redecorating a house built on the wrong street. At that point, change loops: ask the thermostat's question about your own setting.
+Chris Argyris separates two kinds of learning in his 1991 Harvard Business Review article. Problem solving, he writes, "is an example of single-loop learning. You identify an error and apply a particular remedy to correct it. But genuine learning involves an extra step, in which you reflect on your assumptions and test the validity of your hypotheses." He explains with a thermostat:
 
-(Dewey's inquiry cycle; formalized by Argyris and Schon, 1978.)
+> I have coined the terms "single loop" and "double loop" learning to capture this crucial distinction. To give a simple analogy: a thermostat that automatically turns on the heat whenever the temperature in a room drops below 68 degrees is a good example of single-loop learning. A thermostat that could ask, "Why am I set at 68 degrees?" and then explore whether or not some other temperature might more economically achieve the goal of heating the room would be engaging in double-loop learning. ([Argyris, "Teaching Smart People How to Learn", HBR 1991, course-reserve PDF](https://www.libs.uga.edu/reserves/docs/main-archive/2022/main-fall2022/han-eadu8410e/w6_argyris-teaching-smart-people-how-to-learn.pdf))
 
-**Plain words** Two kinds of fixing exist. One changes what you do; the other changes what you were aiming at in the first place. Argyris's picture: a thermostat turns the heat on when the room is cold — that's the first kind. Asking why it's set to 68 degrees is the second. When something goes wrong, start with the first kind of fix; if the same thing keeps going wrong, you've earned the second question.
+Argyris adds that skilled professionals are often very good at single-loop learning and "often so bad at double-loop learning", because they rarely fail and so have not learned to learn from failure.
 
-*For example:* Missing the gym again — new schedule (single loop); miss it again and ask 'do I actually value this goal?' (double loop). The second question is where the fix lives.
+The compendium's ordering rule is its own, not Argyris's: when a result disappoints, fix the action first. If the same disappointment keeps returning, the repetition is a reason to ask about the assumption behind the action. It does not show the assumption is wrong, but it earns the question.
+
+(Argyris, "Teaching Smart People How to Learn", *Harvard Business Review* 69(3), 1991, 99-109.)
+
+### Plain words
+
+There are two ways to fix a problem. One changes what you do. The other changes what you were aiming at. Argyris's thermostat turns the heat on when the room is cold, which is the first kind. Asking why it is set to 68 is the second kind. Start with the first kind. If the same thing keeps going wrong, ask the second question.
+
+### For example
+
+You miss the gym three weeks running. First, change the schedule: move it to before work. If you still miss it, ask whether you want the goal as you set it. Perhaps the real aim is to feel less stiff, and a daily walk would do that. Write the old goal and the revised goal side by side.
+
+## Sources
+
+- Chris Argyris, "Teaching Smart People How to Learn", *Harvard Business Review* 69(3), 1991, 99-109 (reading copy): [University of Georgia course reserve](https://www.libs.uga.edu/reserves/docs/main-archive/2022/main-fall2022/han-eadu8410e/w6_argyris-teaching-smart-people-how-to-learn.pdf)
 
 ## Stories
 
