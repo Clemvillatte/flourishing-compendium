@@ -12,15 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 174** — Own little
 
-The Dhammapada verse usually cited for this principle names the mechanism directly: health is the greatest gain, contentment the greatest wealth — and the one who is content has, by that fact, the most ([Dhammapada 204, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html)). The claim is not that possessions are bad; it is that the accounting people use to measure wealth is incomplete, because the cost of each item is paid in something other than money.
+The Dhammapada verse most often cited for this principle is in the chapter on happiness:
 
-Every object you own owns a slice of your attention in return. A closet is a board meeting you attend daily. This is why the load is not simply the physical weight: it is the maintenance, the worry, the decisions, the insurance, the finding of the other cable. The lighter the load, the freer the practice — and the reason is mechanical, not aesthetic.
+> Health is the most precious gain and contentment the greatest wealth. A trustworthy person is the best kinsman, Nibbana the highest bliss. ([Dhammapada 204, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html))
 
-> "Health is the greatest gain, contentment the greatest wealth." (Dhammapada 204, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.14.than.html))
+Thanissaro Bhikkhu translates the same lines as a list: "Freedom from illness: the foremost good fortune. Contentment: the foremost wealth. Trust: the foremost kinship. Unbinding: the foremost ease." ([Dhammapada 204, Access to Insight PDF](https://accesstoinsight.org/lib/authors/thanissaro/dhammapada.pdf))
 
-**Plain words** Moving apartments reveals the actual inventory: half the boxes were cited at second hand since the last move. The load was mostly weight, not wealth. This is the accounting error the principle is about — the objects were counted as assets and never audited for their attention cost. Owning little is not a moral position about materialism; it is the choice to keep the tax bill low enough that you can still think.
+The verse ranks contentment as wealth. It does not say how many possessions to own. The compendium draws the practical step from it: each thing you own asks for some upkeep and attention, so a smaller inventory leaves more of both for practice. That step is the compendium's reading and not a line in the verse.
 
-*For example:* Two people have the same income. One has filled the apartment with things that each need a small decision, a small repair and a small worry; the evenings are spent managing the inventory. The other owns less, and the same evenings are spent on things that are not inventory. Same income; very different attention budgets.
+(Dhammapada 204, trans. Buddharakkhita; Thanissaro's wording for 202-204.)
+
+### Plain words
+
+The verse counts contentment as a form of wealth. If every object needs a decision, a repair or a worry, owning a lot costs attention as well as money. Owning less is one way to have more of that attention back.
+
+### For example
+
+Two people have the same income. One fills the flat with things that each need small decisions and repairs, and spends evenings on the inventory. The other owns less, and spends the same evenings on something else. This one is imagined.
+
+## Sources
+
+- Dhammapada 204, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.15.budd.html)
+- Dhammapada 202-204, trans. Thanissaro Bhikkhu: [Access to Insight PDF](https://accesstoinsight.org/lib/authors/thanissaro/dhammapada.pdf)
 
 ## Psychology parallels
 
