@@ -83,10 +83,13 @@
   "A065": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22, scoped quotation verification): wine-parenthesis repair confirmed on the current page (wine passage paraphrased; verbatim quote only on the final clause); all three quotes re-verified VERBATIM against a fresh fetch of the MIT NE VIII page — the odd renderings \"by reason of own nature\" and \"good-and goodness\" ARE the MIT text itself. Not re-certified: inherited link sections. See sources/p1b/A065.md.",
   "SE066": "REPAIRED-THEN-VERIFIED (worker-p1b-pplx-a91f2c03, 2026-10-22): body outcome-claims confirmed absent (QC round 2 repair stands); the three claim-bearing Psychology-parallels rows REDUCED TO BARE REFERENCES this session per the AF011/AF046/BI041 precedent (challenge necessary for development; flow and growth; adversity produces growth — none re-verified against their carriers this session); ZPD quotes stand on the predecessor ledger mechanical verification. Validator ok. Advisor QC round 1 applied. See sources/p1b/SE066.md.",
   "P038": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22, scoped quotation verification): both repaired inferences confirmed absent from the current page; both James quotes re-verified VERBATIM against a fresh fetch of the psychclassics ch. IV text. Not re-certified: inherited link sections. See sources/p1b/P038.md.",
-  "D114": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22, independent verification pass, advisor-reviewed): Legge ch. 66 closing quote re-verified VERBATIM against a fresh fetch of sacred-texts; ch. 8/22 companion images grounded as paraphrase; Ryckman 1994 row re-verified against a fresh PubMed fetch (160 university men and women; narcissism and sensation seeking). Advisor QC round 1 applied. See sources/p1b/D114.md."
+  "D114": "RESOLVED (worker-p1b-pplx-a91f2c03, 2026-10-22, independent verification pass, advisor-reviewed): Legge ch. 66 closing quote re-verified VERBATIM against a fresh fetch of sacred-texts; ch. 8/22 companion images grounded as paraphrase; Ryckman 1994 row re-verified against a fresh PubMed fetch (160 university men and women; narcissism and sensation seeking). Advisor QC round 1 applied. See sources/p1b/D114.md.",
+  "A004": "dangling wikilink [[D004]] (bare-ID form; target exists as 'D004 — Cultivate de — your embodied character-power') — introduced by supervisor commit 92c5eec33; worker repair blocked by the validator original-markup guard; needs supervisor retarget",
+  "A005": "dangling wikilink [[S031]] (bare-ID form; target exists as 'S031 — Do what is fitting, not what is easy') — introduced by supervisor commit 3985c466f; worker repair blocked by the validator original-markup guard; needs supervisor retarget",
+  "B056": "dangling wikilink [[AT034]] (bare-ID form; target exists as 'AT034 — Cultivate metacognitive awareness of attention — notice when attention drifts') — introduced by supervisor commit 9ad66c1ae; worker repair blocked by the validator original-markup guard; needs supervisor retarget"
  },
  "missing_concepts": [],
  "sources_checked": 110,
- "updated": "2026-10-22T14:08:06+00:00",
+ "updated": "2026-10-22T14:14:50+00:00",
  "band_done": false
 }
