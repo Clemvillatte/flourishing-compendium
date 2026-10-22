@@ -54,9 +54,10 @@
   "Situated embodiment",
   "Situationism",
   "Skillful coping",
-  "Social dominance theory"
+  "Social dominance theory",
+  "Social intuitionist model (Haidt)"
  ],
- "in_progress": "Social intuitionist model (Haidt)",
+ "in_progress": null,
  "flagged": {
   "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
   "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
@@ -97,5 +98,5 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-22T08:37:19+00:00"
+ "updated": "2026-10-22T08:37:33+00:00"
 }
