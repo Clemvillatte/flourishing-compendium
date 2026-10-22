@@ -17,9 +17,9 @@ The body relates to space not as an object in a container but as a power:
 
 ### The intentional arc
 
-Schneider, a brain-damaged patient studied by Adhémar Gelb and Kurt Goldstein, is Merleau-Ponty's extended case study; on the Encyclopedia's account, his injury has disrupted an arc that the entry quotes from the Phenomenology as follows:
+Schneider, a brain-damaged patient studied by Adhémar Gelb and Kurt Goldstein, is Merleau-Ponty's extended case study. According to the entry, Schneider's injury disrupted the intentional arc. Merleau-Ponty describes this arc as one that:
 
-> "projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships." (Merleau-Ponty, [quoted in Toadvine, ibid., PP: 170/137](https://plato.stanford.edu/entries/merleau-ponty/))
+"projects around us our past, our future, our human milieu, our physical situation, our ideological situation, and our moral situation, or rather, that ensures that we are situated within all of these relationships" (PP: 170/137, [quoted in Toadvine](https://plato.stanford.edu/entries/merleau-ponty/)).
 
 The damaged arc shows what the intact one does: embodiment situates a life. Merleau-Ponty's own summary image: "One's own body is in the world just as the heart is in the organism" ([PP: 245/209, quoted in Toadvine, ibid.](https://plato.stanford.edu/entries/merleau-ponty/)).
 
