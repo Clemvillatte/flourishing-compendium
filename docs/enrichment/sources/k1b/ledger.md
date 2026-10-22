@@ -173,3 +173,9 @@
 - Claims narrowed: the suspension window and personal-belief framing labelled this practice's own; not-covered paragraph states the experiments tested instructions on participants judging social-issue evidence and personality impressions, not self-chosen suspension periods on personal beliefs.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K209 Repair attempt (worker-k1b-pplx)
+- Sources opened this session: Gottman Institute "5 Steps to Fight Better" page (verbatim quotes: the red-light braking passage, the get-through-to-the-spouse sentence, the ease/deaf-ears contrast); Gottman Institute article via YES Magazine (verbatim quotes: the repair-attempt definition, the first-three-minutes finding, the emotional-closeness-over-logic finding, the receptiveness passage, the change-of-topic arousal finding).
+- Claims narrowed: the seed's 48-hour window labelled this practice's own on the page (the research's early-repair evidence concerns minutes into a conflict discussion, not days after a rift); the example sentence kept as the practice's own; the definition attributed to the Gottman Institute's published description of the research.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
