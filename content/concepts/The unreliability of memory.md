@@ -19,9 +19,9 @@ Modern psychology reaches the same place by a different route. Bartlett, in the 
 > "Remembering … is an imaginative reconstruction, or construction, built out of the relation of our attitude towards a whole mass of organized past reactions or experiences."
 > — [F. C. Bartlett, Remembering (1932), as quoted in the Learning and Memory dictionary, Encyclopedia.com](https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/reconstructive-memory)
 
-What is retrieved is rebuilt from fragments plus expectation, and the confidence felt in a memory is a property of the reconstruction, not a certificate of its accuracy. This is why confidence and correctness come apart — a witness can be certain and wrong, and an implanted scene can feel exactly like a lived one.
+What is retrieved is rebuilt from fragments plus expectation, and the confidence felt in a memory is a property of the reconstruction, not a certificate of its accuracy. This is why confidence and correctness come apart: a witness can be certain and wrong, and an implanted scene can feel exactly like a lived one.
 
-The practical consequence is a change in stance toward one's own past. Not disbelief — most memories are broadly serviceable — but a standing discount on vividness and certainty, especially where the memory flatters or protects.
+The practical consequence is a change in stance toward one's own past. Not disbelief, since most memories are broadly serviceable, but a standing discount on vividness and certainty, especially where the memory flatters or protects.
 
 ## Related concepts
 
