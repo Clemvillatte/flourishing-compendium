@@ -19,3 +19,11 @@
    removed from prose; the "not from the PBT book" negative claim and the "shared
    handles basic science does not yet supply" gloss removed as unsupported; prose
    expanded past the 150-word minimum on the normal track. Validate ok.
+2. **Variation-selection-retention** — VRSCDL quote already verified verbatim by the
+   2026-10-21 verify-pbt1 pass against the public Scribd full-text copy (their ledger;
+   Scribd 403s for this session, so no fresh open — quote left as verified by that
+   opened-carrier record). Body expanded past the 150-word normal-track bar by unpacking
+   the acronym's own letters as a clinical checklist (interpretive prose, no new factual
+   claims). Sources row corrected per verify-pbt1's routed finding: the quote carrier is
+   the book text (Scribd full-text copy, verified by that pass), not the publisher's
+   page, which carries bibliographic data only. Validate ok.
