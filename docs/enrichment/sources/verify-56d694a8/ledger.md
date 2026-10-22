@@ -138,3 +138,12 @@ Round 10: 4 pages, 6 quoted passages verified, 3 defects repaired.
 4. **The politics of recognition** — the Taylor misrecognition sentence VERIFIED verbatim via the opened IEP page. PASS.
 
 Round 11: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 12 — morning sample continued
+
+1. **The serenity prayer** — both the AA wording and the 1943 version VERIFIED verbatim via the opened Yale Alumni Magazine article. PASS.
+2. **Vocation as calling** — both Weber ch. III quotes VERIFIED verbatim via the opened Marxists.org text. PASS.
+3. **Wisdom theory Berlin paradigm** — the two framework quotes (think-aloud protocols criteria sentence, p. 122; the closing metaheuristic characterization, p. 122) VERIFIED verbatim via the opened [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11392856/). ROUTED NOTE: the telephone-call task quote (p. 126) and the marriage-task / Appendix B / judges quotes (pp. 126, 136) are from the paywalled article body and could not be independently verified from an open carrier this session; the page cites them with page numbers, but the supervisor may want a carrier check if an open copy of the Baltes & Staudinger 2000 article surfaces.
+4. **Zuowang (sitting in forgetfulness)** — the Zhuangzi ch. 6 Legge passage VERIFIED verbatim against the opened ETH Zurich Legge PDF. PASS.
+
+Round 12: 4 pages, 6 quoted passages verified, 1 routed note.
