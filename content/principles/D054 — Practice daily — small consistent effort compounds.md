@@ -19,7 +19,7 @@ The Daodejing describes large undertakings beginning with something small:
 
 Wilhelm's commentary on The Secret of the Golden Flower also urges continuity in its light-circulation practice. Its hundred-day instruction belongs to that specific spiritual setting, with qualifications about effort and bodily constitution ([commentary on sections 3 and 8](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt)).
 
-A separate health-behaviour study followed 96 volunteers for 12 weeks using self-reported automaticity. Modelled times to reach 95% of the automaticity plateau ranged from 18 to 254 days. The abstract reports:
+A separate health-behaviour study recruited 96 volunteers for 12 weeks using self-reported automaticity. Eighty-two supplied sufficient data for analysis; 39 of the 62 fitted models showed a good fit. Modelled times to reach 95% of the automaticity plateau ranged from 18 to 254 days. The abstract reports:
 
 > Missing one opportunity to perform the behaviour did not materially affect the habit formation process.
 > ([Lally et al., 2010, publisher's abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674).)
@@ -28,7 +28,7 @@ These observations concern eating, drinking and activity habits. They do not est
 
 ### Plain words
 
-Choose a practice and a time or cue that gives you a realistic opportunity to return to it. Notice whether the arrangement is workable. A missed occasion need not become a reason to abandon the practice, and repetition does not remove the need to review what you are practising.
+Choose a practice and a time or cue that gives you a realistic opportunity to return to it. If you miss one occasion, you need not assume that habit formation must start again from zero. Whether the practice itself is useful still needs review.
 
 ### For example
 
