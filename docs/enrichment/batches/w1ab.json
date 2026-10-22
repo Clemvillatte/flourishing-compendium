@@ -63,7 +63,7 @@
   "Memorized coping statements in CBT",
   "Microbiome theory"
  ],
- "in_progress": null,
+ "in_progress": "Mixed emotions theory Miyamoto",
  "flagged": {
   "Klesha transmuted into wisdom": "QC r1+r2 CLOSED: repairs applied, validated vs pre-enrichment baseline 2fb2d8fb7; see docs/enrichment/sources/w1ab/ledger.md",
   "Latent learning theory": "SUPERVISOR VERIFICATION 2026-10-21 (worker-p1abc): the QC correction VERIFIED APPLIED on the current page — the w1ab ledger records the advisor-round repairs as applied and re-validated; the w1i read-only verification pass independently quote-checked the actionable 'Reopened for QC' pages 16/16 PASS against re-opened carriers (recorded in sources/w1i/ledger.md); spot-checked this session (Learned optimism: locators present in Sources, Cited-in restored; Machiavellianism: origin claim absent). The state flag was stale. [ORIGINAL: Reopened for QC: QC correction: milestone advisor round (blockquote, Y078 gloss, scoped opening)]",
@@ -103,7 +103,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:24:13+00:00",
+ "updated": "2026-10-22T08:24:14+00:00",
  "band_done": false,
  "new_concepts": [
   {
