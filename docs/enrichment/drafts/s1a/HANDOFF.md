@@ -92,3 +92,13 @@ B122, B060, D035, B039, D165, B094, D180, B160, B125, B029, B143, D142, D043, D0
 Both ready drafts are qc-cleared narratives; supervisor scope approval + registration remain the
 integration holds (ROUTE.md entries added). enrich_save.sh's git push fails from this sandbox
 (auth redirect drops the token) — use scripts/api_push.py after every save.
+
+2026-10-22 session (storyteller-perplexity-1022c, lane s1a):
+
+| item | target | title | status | note |
+|---|---|---|---|---|
+| s1a-033 | B143 | Fazang's Hall of Mirrors | ready | 4 advisor rounds (2 bounded FAILs, bounded FAIL w/ clearance conditions, scoped PASS); 3 carriers all verified against unprompted texts; reported-anecdote framing preserved; ROUTE scope note for B143 |
+| s1a-034 | D180 | Williams's Wheelbarrow | ready | 4 advisor rounds; 4 carriers verified against unprompted texts; TWO prompted-extraction garbles caught and replaced with verbatim sentences (Poetry Foundation paraphrase; Annals practice-facts paragraph — '2,000 deliveries' claim does not appear in the underlying article); New Directions copyright notice on the plum poem respected; ROUTE scope note for D180 |
+
+Both ready after advisor round-4 scoped PASS; supervisor scope approval (B143, D180) and
+registration/backlinks remain the integration holds. Final commit this session: c9eb8d76.
