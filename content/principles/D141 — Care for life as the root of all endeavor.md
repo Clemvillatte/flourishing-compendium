@@ -12,22 +12,34 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 141** — Care for life as the root of all endeavor
 
-The principle's source chapter is Zhuangzi 3, "Nourishing the Lord of Life" (Legge's title). Its opening sets the program: accordance with the Central Element of our nature is the way to preserve the body, maintain the life, nourish our parents, and complete our term of years (§1).
+Zhuangzi 3 opens with the danger of spending a limited life pursuing unlimited knowledge. Its cook offers an image of careful action: his knife passes through openings rather than cutting against the bones, and remains sharp after nineteen years. Even this experienced worker changes his pace at a difficult joint:
+
+> Nevertheless, whenever I come to a complicated joint, and see that there will be some difficulty, I proceed anxiously and with caution, not allowing my eyes to wander from the place, and moving my hand slowly.
+> (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+
+Afterwards he wipes the knife and puts it away. The ruler hears a lesson in [[Yangsheng (cultivating vitality)|yangsheng]], nourishing life:
 
 > Excellent! I have heard the words of my cook, and learned from them the nourishment of (our) life. (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
-The cook says his knife has remained sharp through nineteen years of use. He follows the openings, slows his hand at a complicated joint, and wipes the knife clean before putting it away. Wen Hui takes this account as a lesson in nourishing life (§2). The principle's directive, nourishing life ([[Yangsheng (cultivating vitality)|yangsheng]]) as the base practice, is the compendium's application of that lesson.
+The analogy makes care part of how work is done. Applying it to a modern workload requires judgment; this story establishes no clinical treatment or guarantee of longevity.
 
-(Zhuangzi 3; yangsheng literature.)
+(Zhuangzi 3 §2.)
 
-**Plain words**
-You still have work to do. The question is how to do it while looking after yourself. Before adding another demand, consider what it would require and what room you want to leave for ordinary care.
+### Plain words
 
-*For example:* Imagine planning a demanding project by scheduling sleep, meals and daily movement first, then fitting the work into what remains.
+When a task becomes difficult, find where the difficulty lies before pushing harder. You may need a slower pace, a different method or help. Include looking after yourself in the arrangement, instead of treating it as a reward available only after everything is finished.
+
+### For example
+
+Imagine an editor whose extra assignment would remove the lunch break every day. Try a smaller assignment for one week. This means accepting less work. Check whether that arrangement leaves room for meals and the agreed work; keep it if workable, or renegotiate.
 
 ## Sources
 
 - [Zhuangzi, Chapter 3, "Nourishing the Lord of Life", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — §1 program; §2 the cook and ruler Wen Hui
+
+## Related concepts
+
+- [[Yangsheng (cultivating vitality)]]: the tradition of nourishing life that this story illustrates.
 
 ## Stories
 
@@ -61,7 +73,7 @@ You still have work to do. The question is how to do it while looking after your
 - [[K206 — Progressive muscle relaxation|K206 Progressive muscle relaxation]]
 ## Psychology parallels
 
-- **[[Lifestyle psychiatry|Lifestyle psychiatry]]**, exercise, sleep, diet, and nature contact have meta-analytic support as mental-health interventions (Firth et al., 2019)
+- [[Lifestyle psychiatry|Lifestyle psychiatry]] (Firth et al., 2019)
 
 ## Philosophy parallels
 
