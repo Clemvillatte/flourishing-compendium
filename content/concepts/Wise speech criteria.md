@@ -21,7 +21,7 @@ In the other four cases — untrue, unbeneficial, or both — he does not say th
 
 ### The infant image
 
-The sutta grounds the criteria in an image before it gives the list. A child puts a stick or pebble in its mouth; the father would take it out "even if it meant drawing blood. Why is that? Because I have compassion for the child" ([MN 58, trans. Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/MN/MN58.html)). Speech that hurts is sometimes the removal of something harmful; the timing question is how to do that without unnecessary damage.
+The sutta grounds the criteria in an image before it gives the list. A child puts a stick or pebble in its mouth; the father would take it out "even if it meant drawing blood. Why is that? Because I have sympathy for the young boy" ([MN 58, trans. Thanissaro Bhikkhu](https://www.dhammatalks.org/suttas/MN/MN58.html)). Speech that hurts is sometimes the removal of something harmful; the timing question is how to do that without unnecessary damage.
 
 ## Related concepts
 

@@ -209,3 +209,12 @@ every round; every save verified on origin/main.
 4. **Transcendence** — the Maslow "two kinds" quote VERIFIED verbatim via the opened sloww.co page; the "Transcendence refers to..." definition VERIFIED verbatim via the opened reasonandmeaning page. The Jaspers Comprehensive quote is cited to the compendium's own principle page (internal cross-reference; the underlying Way to Wisdom pages were not re-opened this session — noted). PASS.
 
 Round 18: 4 pages, 6 quoted passages verified, no defects.
+
+## Round 19 — morning sample continued
+
+1. **Tolerance without indifference** — the James "On a Certain Blindness" passage VERIFIED verbatim via the opened monadnock.net text. PASS.
+2. **Tuckman group development model** — the "I hit on four stages" passage VERIFIED verbatim in the opened Group Facilitation reprint PDF. PASS.
+3. **Ultradian performance rhythms** — the APA BRAC definition VERIFIED verbatim via the opened APA Dictionary entry. ROUTED: the Kleitman 1961 p. 361 quote sits in Lavie's paywalled Springer chapter body; not verifiable from an open carrier this session (chapter page fetched, body gated).
+4. **Wise speech criteria** — quote 1 (the Tathāgata criteria passage) VERIFIED verbatim via the opened dhammatalks.org MN 58. DEFECT in quote 2: the page printed "Because I have compassion for the child" where the Thanissaro translation prints "Because I have sympathy for the young boy" — REPAIRED (wording aligned to the opened carrier). Page re-validated ok.
+
+Round 19: 4 pages, 5 quoted passages verified, 1 defect repaired, 1 routed note.
