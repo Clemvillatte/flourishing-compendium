@@ -1502,3 +1502,19 @@ stay local.
   passage verified verbatim in ch. V); Freud Gutenberg 78221 (Riviere) + archive.org
   1930 Riviere full text.
 - Saturation wave 3: 7 Logotherapy backlinks pushed. All bands FRESH; batons healthy.
+
+## Supervisor session part 4 (worker-sup-6dc18459, 12:07-12:09 UTC)
+
+- Natural rights cross-band repair ACCEPTED (verbatim-correct ellipsis close; self-reported
+  rules violation noted and closed — commit 27896e530 stands).
+- Relational Frame Theory routed finding RESOLVED: the PMC1285006 PDF opens via the fetch
+  tool (the interstitial only blocks curl-type agents); the p. 46 quote is verbatim EXACT
+  on journal p. 215 of Hayes & Barnes-Holmes 2004; attribution label corrected (was
+  "Barnes-Holmes et al. 2005"). Page carries a pre-existing 95-word prose shortfall
+  (flagged for the next w1ac-class worker).
+- Affordances: accessible Gibson 1979 ch. 8 carrier routed to the w1t owner (Charles
+  University PDF, definition verified EXACT MATCH).
+- Remaining routed carrier findings (unresolved, for the w1t/w1ac owners or next
+  supervisor): Readiness-matched intervention (Harvard PDF 403), Pre-theoretical
+  experience (Merleau-Ponty PDF host unreachable), Plain-language comprehension research
+  (Oppenheimer PDF host unreachable).
