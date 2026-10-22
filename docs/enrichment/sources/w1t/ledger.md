@@ -124,3 +124,15 @@ Decisions:
 - Front-matter preserved; X007 and M035 wikilinks preserved in the Field section.
 - Related concepts added (Cognitive restructuring, Cognitive mediation of distress, Cognitive distortions, Cognitive biases, Cognitive reappraisal — all resolve).
 - No reciprocal proposals (fast-track bar).
+
+### Being-for-others (fast-track, deg 6)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/sartre/ — SEP Reynolds & Renaudie. Verbatim: transcendence-transcended sentence; keyhole-example sentence; footsteps/shame sentence; ontological-shift sentence; dyadic-conflict sentence. All four quotes verified against the opened SEP text.
+
+Decisions:
+- Fast-track eligibility: deg 6 < 15 confirmed.
+- Front-matter preserved; Being and beings / E035 / E067 original wikilinks preserved in Related; E036/E068 Cited-in wikilinks preserved.
+- Typo caught: "transcoded" corrected to "transcended" (matches the SEP source).
+- The Look link corrected to the actual page name "The look (le regard)".
+- No reciprocal proposals (fast-track bar).
