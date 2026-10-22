@@ -167,3 +167,16 @@ earlier notes in this ledger were estimates where not explicitly measured)
    under 15 (neighbors: 2 concepts, 1 kernel, few backlinks), so the fast-track bar applies
    and the pre-existing 60-word prose count is not a defect introduced by this session
    (this session's edit changed only quotation marks and labels).
+
+## Round 4 — w1ac recent pages (2026-10-22, started after the 11:57:10Z measurement)
+
+- RECOVERY RESEARCH — PASS 1/1: the Sonnentag 2018 "recovery paradox" sentence verbatim vs
+  the cited University of Helsinki PDF (freshly downloaded and opened).
+- RECONFIGURATION OF NARRATIVE — PASS 1/1: the Ricoeur Time and Narrative vol. 1 p. 3
+  quotation verbatim as printed in the cited Malan 2017 scielo article (opened via fetch).
+- PSYCHODYNAMIC ACCOUNTS OF EGO DEFENSE AND RATIONALIZATION — PASS 1/1: the Vaillant 2011
+  passage verbatim vs the cited PubMed abstract (opened via fetch).
+
+Round 4 totals: 3/3 selected-quotation PASS. w1ac sample now: 9 pages checked across rounds
+2-4 (6 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect repaired + translator
+attribution repaired, 1 routed — Relational Frame Theory PMC interstitial).
