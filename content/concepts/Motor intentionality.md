@@ -22,6 +22,7 @@ The idea is the backbone of Merleau-Ponty's Phenomenology of Perception (1945). 
 
 - [[Body schema]]: the pre-conscious system of movement and spatial equivalences that carries this intentionality
 - [[Embodied cognition]]: the research tradition that treats thinking as running on this bodily grip
+- [[Situated cognition]]: cognition shaped by the place and task the body is engaged with
 - [[Ready-to-hand]]: Heidegger's parallel description of equipment used without thematic awareness
 - [[Habit]]: the sedimented "habit body" through which motor intentionality is stored
 
