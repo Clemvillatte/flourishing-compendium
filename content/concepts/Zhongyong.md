@@ -19,7 +19,7 @@ The chapter's most quoted passage then names the two states the title points to:
 
 The mean is not lukewarm moderation. Equilibrium (zhōng) is the mind before feelings arise; harmony (hé) is feelings that have arisen and hit their due measure. The aim is not to dilute emotion but to have it strike precisely — neither the worthy's overreaching nor the petty man's falling short, as a later chapter puts it.
 
-Two features distinguish the Confucian mean from a calculus of averages. First, it is internal: chapter 1 grounds it in what Heaven has conferred, and the practitioner guards it "when he is alone," in what the text singles out as watchfulness over the secret and the minute. Second, it is ordinary. The zhongyong is the constant use of the mean — practiced in daily conduct, not reserved for crises. "The path may not be left for an instant. If it could be left, it would not be the path."
+Two features distinguish the Confucian mean from a calculus of averages. First, it is internal: chapter 1 grounds it in what Heaven has conferred, and the practitioner guards it "when he is alone," in what the text singles out as watchfulness over the secret and the minute. Second, it is ordinary. The zhongyong is the constant use of the mean, practiced in daily conduct and not reserved for crises. "The path may not be left for an instant. If it could be left, it would not be the path."
 
 ## Related concepts
 
