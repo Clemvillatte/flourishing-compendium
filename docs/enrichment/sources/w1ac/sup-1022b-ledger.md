@@ -51,3 +51,6 @@
 ## Responsiveness (fast-track bar)
 - Opened: SEP "Emmanuel Levinas" (Bergo & Bettina). Verbatim: "In responding, I discover my responsibility to them." and "Above all, we do not choose to be responsible. Responsibility arises as if elicited, before we begin to think about it, by the approach of the other person."
 - Tronto quotes reused from the compendium's own R073 page (which opens the pirate.care full text); flagged as not independently re-opened this session.
+
+## Retention and protention (fast-track bar)
+- Opened: SEP "Edmund Husserl" (Zahavi). Verbatim triad passage (primal impression / retention / protention, Hua 9/201) and the memory-distinction passage quoted exactly.
