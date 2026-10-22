@@ -18,12 +18,16 @@ The thought "I am a failure" arrives like any appearance; something in you recei
 
 The Enchiridion draws the ownership line: "What then is your own? The use of appearances" (Ench. 6). A thought is not yours until you assent to it. The Stoic practises standing at that gap: watch the thought arrive, name it, decide.
 
-(Disc. I.1; Ench. 6.)
+(Epictetus, Discourses I.1 and Enchiridion 6, trans. Long, [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt).)
 
 **Plain words**
-A thought arrives the way a sound arrives: unasked. The Stoic claim is that between the arrival and your next action there is a gap, and in that gap stands the part of you that can look at the thought instead of from inside it. The exercise is small: when "I'm a failure" shows up, say the sentence back to yourself with "I'm noticing the thought that..." in front of it. The thought loses nothing by being watched; the watcher gains the freedom to decide whether to act on it.
+A thought arrives the way a sound arrives: unasked. The Stoic claim is that between the arrival and your next action there is a gap, and in that gap stands the part of you that can look at the thought instead of from inside it. The exercise is small: when "I'm a failure" shows up, try a modern exercise from cognitive defusion work, not an Epictetus one: say the sentence back to yourself with "I'm noticing the thought that..." in front of it. The thought loses nothing by being watched; the watcher gains the freedom to decide whether to act on it.
 
 *For example:* Noticing "there's the 'I'm a failure' thought again" and seeing it as weather.
+
+## Sources
+
+- Epictetus, *Discourses* I.1 and *Enchiridion* 6, trans. George Long (selection): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
 
 ## Stories
 

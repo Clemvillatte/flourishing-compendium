@@ -16,14 +16,18 @@ The command comes with a fate attached: "love those men whom thy fate it is to l
 
 > "For how shall even the most fierce and malicious that thou shalt conceive, be able to hold on against thee, if thou shalt still continue meek and loving unto him." (Marcus Aurelius, Meditations XI.16, Casaubon)
 
-The correction he scripts for the wrongdoer runs: "My son, we were not born for this, to hurt and annoy one another; it will be thy hurt not mine, my son" — delivered "tenderly without any harshness of words", and "that nobody be privy to it, but himself alone". Kindness to enemies included; strength, not weakness.
+The correction he scripts for the wrongdoer runs: "My son, we were not born for this, to hurt and annoy one another; it will be thy hurt not mine, my son" — delivered "tenderly without any harshness of words", and "that nobody be privy to it, but himself alone". Marcus counts kindness to enemies as a strength.
 
-(Med. VI.35, XI.16, Casaubon.)
+(Med. VI.35, XI.16, trans. Casaubon, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
 **Plain words**
 Marcus' version of kindness has a script: when someone wrongs you, correct them like a parent, not a prosecutor — we were not born to hurt and annoy one another — gently, in private, without an audience. The reasoning is competitive as much as warm: a truly meek person is unconquerable, because the fierce and malicious have no move against someone who keeps responding with warmth. It reaches strangers, family and enemies, and it counts most when you are tired or provoked.
 
 *For example:* Holding the door and meeting the eyes of a cashier whose day has clearly been terrible.
+
+## Sources
+
+- Marcus Aurelius, *Meditations* 6.35 and 11.16, trans. Meric Casaubon (1634), in the Project Gutenberg edition with W. H. D. Rouse's introduction: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
 ## Stories
 

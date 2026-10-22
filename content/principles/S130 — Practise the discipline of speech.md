@@ -12,13 +12,25 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 252** — Practise the discipline of speech
 
-Epictetus gives the discipline as a standing rule for company: "Be for the most part silent, or speak merely what is necessary, and in few words." Discourse is allowed when occasion calls for it, but he steers it away from blaming, praising, and comparing people — and if you land among strangers, "be silent." The rule reaches content, not just volume: "Never call yourself a philosopher, nor talk a great deal among the unlearned about theorems, but act conformably to them." At dinner, he says, "don't talk how persons ought to eat, but eat as you ought." And his image for the whole discipline is the sheep: "sheep don't throw up the grass to show the shepherds how much they have eaten; but, inwardly digesting their food, they outwardly produce wool and milk." The compendium's application: speech is an action like any other — true, useful, aimed, and only when needed. When speaking would not serve, silence is not the absence of an act; it is the act.
+Epictetus treats speech as part of conduct, with a standing rule for company:
 
-(Med. III.5, IV.16, V.9, VI.8, XI.15; Disc. III.21; Ench. 24, 33, 35, 42, 45, 46; Seneca, Letters 75, 94, 108, 123.)
+> Be for the most part silent, or speak merely what is necessary, and in few words. ([Enchiridion 33, trans. Carter](https://classics.mit.edu/Epictetus/epicench.html))
+
+Conversation is allowed "sparingly" when the occasion calls for it, but he steers it away from "the vulgar topics of conversation", and "principally" away from talk about people, "so as either to blame, or praise, or make comparisons." If you find yourself among strangers, "be silent."
+
+The rule covers what you say as well as how much. In Enchiridion 46: "Never call yourself a philosopher, nor talk a great deal among the unlearned about theorems, but act conformably to them. Thus, at an entertainment, don't talk how persons ought to eat, but eat as you ought." The same section gives the sheep image: "sheep don't throw up the grass to show the shepherds how much they have eaten; but, inwardly digesting their food, they outwardly produce wool and milk."
+
+The compendium's application is that speech is an act like any other, so it can be true, useful and aimed, and it is only worth doing when needed. Silence, when speaking would not help, is also an act.
+
+(Epictetus, Enchiridion 33 and 46, trans. Elizabeth Carter, [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html).)
 
 **Plain words** Words are actions, so treat speaking like shooting: true, useful, aimed, and only when needed. The Stoics trained the tongue as hard as the temper. If a sentence isn't true or isn't useful, silence is the virtuous move.
 
 *For example:* In a heated meeting, the one person who says nothing during the pile-on — then offers a single accurate sentence that cools it, and stops there.
+## Sources
+
+- Epictetus, *Enchiridion* 33 and 46, trans. Elizabeth Carter: [Internet Classics Archive](https://classics.mit.edu/Epictetus/epicench.html)
+
 ## Stories
 
 - [[ST063 — Scrooge's Three Ghosts|63. Scrooge's Three Ghosts]]

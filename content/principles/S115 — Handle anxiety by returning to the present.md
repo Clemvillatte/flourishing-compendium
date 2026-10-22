@@ -18,12 +18,16 @@ Marcus advises returning after disturbing events:
 
 Elsewhere he writes that "our life is short; we must endeavour to gain the present time with best discretion and justice" (Med. IV.21). For worry about an upcoming event, the compendium applies these passages by asking what can be done now: prepare a slide, check a figure, or request information. This is a practical application to situational worry; the passages do not establish a clinical definition of anxiety.
 
-(Med. VI.9, IV.21, Casaubon.)
+(Med. VI.9, IV.21, trans. Casaubon, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
 **Plain words**
 Before a difficult event, you may find yourself rehearsing a bad outcome. Bring the question down to something you can do now: check the next slide, rehearse your opening, or ask for information you need. Marcus's "out of tune" image allows for being unsettled and then returning. Here, the practical aim is to resume a chosen task while worry may still be present.
 
 *For example:* Before a big presentation, you do the next task on the list rather than imagine the room.
+
+## Sources
+
+- Marcus Aurelius, *Meditations* 4.21 and 6.9, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
 ## Stories
 

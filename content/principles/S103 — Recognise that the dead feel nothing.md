@@ -18,12 +18,16 @@ The disjunction is stated plainly: "as concerning death, that either dispersion,
 
 The fear is of dying, not of death. Marcus points at every ending you have already passed through: "from opinion also there is an absolute cessation, which is as it were the death of it. In all this there is no hurt... What matter of grief or sorrow dost thou find in any of these?" (Med. IX.19). Dying is a process; death is the rest that follows it.
 
-(Med. VI.26, VII.22, IX.19, Casaubon.)
+(Med. VI.26, VII.22, IX.19, trans. Casaubon, [Project Gutenberg](https://www.gutenberg.org/cache/epub/2680/pg2680.txt).)
 
 **Plain words**
-The argument is a fork: if death ends consciousness, there is nobody left to feel anything; if consciousness continues in some other form, that is a transition you will meet with a mind, not a blank. Either way the state of being dead contains no suffering, because suffering needs a subject. What is frightening is dying, the process — and that is brief. Look closely at which of the two you fear, and see whether it is the process rather than the state.
+Marcus lists the possibilities and the compendium turns them into a fork: if death ends consciousness, there is nobody left to feel anything; if consciousness continues in some other form, that is a transition you will meet with a mind, not a blank. Either way the state of being dead contains no suffering, because suffering needs a subject. What is frightening is dying, the process — and that is brief. Look closely at which of the two you fear, and see whether it is the process rather than the state.
 
 *For example:* Imagine a person with a terminal diagnosis spending her last weeks arranging things for her family, and finding the fear shrinks as the arrangements grow.
+
+## Sources
+
+- Marcus Aurelius, *Meditations* 6.26, 7.22 and 9.19, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 
 ## Stories
 
