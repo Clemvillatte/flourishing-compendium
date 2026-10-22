@@ -11,7 +11,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 
 Steven Hayes and colleagues built RFT on one behavioral capacity: relating one event to another based on social convention rather than the events' physical properties. Teach a child that a name is an object, and the object is the name for free. From that seed they grow language, cognition, and the clinical account of suffering that became ACT.
 
-> "Despite the conservatism of an RFT approach, therefore, a new type of behavioral process is suggested and a new technical term is offered. The new process is arbitrarily applicable relational responding (or framing events relationally)" (Hayes, Fox, et al. 2001, p. 46, [quoted in Barnes-Holmes et al. 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC1285006/pdf/15540506.pdf))
+> "Despite the conservatism of an RFT approach, therefore, a new type of behavioral process is suggested and a new technical term is offered. The new process is arbitrarily applicable relational responding (or framing events relationally)" (Hayes, Fox, et al. 2001, p. 46, quoted in [Hayes & Barnes-Holmes 2004, p. 215](https://pmc.ncbi.nlm.nih.gov/articles/PMC1285006/pdf/15540506.pdf))
 
 The three defining properties of a frame are mutual entailment, combinatorial entailment, and transformation of stimulus function: what a thing means, and what it can do to you, travels through the relation.
 
@@ -34,7 +34,7 @@ Clinical Psychodynamic · Psychological science
 
 - Hayes, Barnes-Holmes, and Roche (Eds.), Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition, 2001
 
-- [Barnes-Holmes et al., "Relational operants: Processes and implications: A response to Palmer's review of Relational Frame Theory," PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1285006/pdf/15540506.pdf) — the opened carrier of the p. 46 quotation above.
+- [Hayes, S. C., & Barnes-Holmes, D. (2004), "Relational operants: Processes and implications: A response to Palmer's review of Relational Frame Theory," PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1285006/pdf/15540506.pdf) — the opened carrier of the p. 46 quotation above (the quotation appears on journal page 215 of this article).
 
 ## Cited in philosophy parallels
 
