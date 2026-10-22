@@ -3992,7 +3992,12 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
     if (!document.body || typeof MutationObserver !== 'function') return;
     var obs = new MutationObserver(function(){
       if (!booted) return;
-      if (document.body.classList.contains('academy-mode') && !document.body.classList.contains('editor-open')){
+      var b = document.body.classList;
+      /* the Academy owns the bar only when no other view's mode is active:
+         opening a wiki card from an Academy page leaves academy-mode on
+         alongside wiki-mode (pre-existing behaviour), and the card address
+         must win the bar there */
+      if (b.contains('academy-mode') && !b.contains('editor-open') && !b.contains('wiki-mode') && !b.contains('graph-mode') && !b.contains('rand-mode')){
         if (window.__fcAcademyRoute && window.__fcAcademyRoute.resync) window.__fcAcademyRoute.resync();
         return;
       }
