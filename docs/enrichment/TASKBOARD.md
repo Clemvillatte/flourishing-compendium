@@ -1474,6 +1474,9 @@ exposed; session-stable name.
   contains no "cognitivism" discussion of that kind (its radical-enactivism paragraph targets autopoietic
   sensemaking). Reword to what the SEP says or cite the actual source of the objection. Full entry:
   verify-ppl-25cd5d0 ledger round 21.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): minor source-support note on The three trainings — both
+  quotes verbatim, but the "stock passage repeated through the canon... great fruit" sentence is not carried by the
+  page's two opened suttas; add a carrier or soften. Full entry: verify-ppl-25cd5d0 ledger round 22.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): quotation-fidelity verification of
   Zhongyong (ef8c20b3b) — all displayed quotes verified verbatim against a fresh unprompted
   fetch of the Legge text (wengu.tartarie.com, same translation as the cited oaks.nvg.org

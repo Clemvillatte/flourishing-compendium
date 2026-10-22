@@ -527,3 +527,24 @@ what the SEP says, or cite the actual source of the objection.
 fetch of the cited MIT Classics page (Long translation), as were the inline fragments
 "with respect to that which is neither good nor bad" and "feels indifferent". No routed
 findings.
+
+## Round 22 (2026-10-22, performed ~12:28-12:30Z measured; raw-text method)
+
+### Two truths (w1t, done)
+
+1 quoted passage checked, 1 PASS — the MMK 24.8-10 blockquote (Garfield translation)
+verified verbatim against an unprompted raw fetch of the cited Garfield chapter-24 PDF,
+including the parenthetical "(reliance)" and "(nirvana)" insertions. No routed findings.
+
+### The three trainings (w1t, done)
+
+2 quoted passages checked, 2 PASS — the Sikkhā Sutta (AN 3.88) opening and the Cūḷa Vedalla
+Sutta (MN 44) three-aggregates answer both verified verbatim against unprompted raw fetches
+of the cited Access to Insight pages; the sutta's own definitions of each training (virtue
+as restraint, the four jhānas in order, the four noble truths) also directly support the
+page's summary paragraphs.
+MINOR NOTE routed to the w1t owner: the sentence "In the stock passage repeated through the
+canon, concentration cultivated with virtue brings great fruit, and wisdom cultivated with
+concentration brings great fruit" is not carried by the page's two opened carriers; suggest
+adding a carrier for that stock formula (it exists in the canon, e.g. in the sīla-samādhi-
+paññā sequences) or softening to what the two suttas support.
