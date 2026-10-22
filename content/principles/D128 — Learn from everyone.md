@@ -28,6 +28,10 @@ The chapter treats teacher and learner as a pair and not as a ranking. The one w
 
 A senior engineer reviews a junior colleague's code. She explains a better pattern, and in explaining it she sees a gap in her own habits. Both leave better off. This one is imagined.
 
+## Sources
+
+- [Daodejing 27.2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
+
 ## Stories
 - [[ST402 — The River Spirit Reaches the Sea|402. The River Spirit Reaches the Sea]]
 

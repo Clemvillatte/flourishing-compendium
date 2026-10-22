@@ -22,6 +22,11 @@ Neff's later research formalises the same move without the paradox: self-compass
 
 *For example:* Two people both want to eat better. One runs on self-criticism and ends up stress-eating after every harsh inner comment. The other stops the war and just tracks what actually happens. A month later the second one is eating better; the first is still fighting the same fight. The war was not motivation; it was a cost, paid every day, with nothing to show for it.
 
+## Sources
+
+- [Rogers 1961, On Becoming a Person, ch. 1, p. 17](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf)
+- [Neff 2003, PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3743650/)
+
 ## Psychology parallels
 
 - **[[Self-compassion|Self-compassion research]]** (Neff, 2003; MacBeth and Gumley, 2012; self-forgiveness, Hall and Fincham, 2005)

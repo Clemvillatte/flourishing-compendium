@@ -22,6 +22,10 @@ Chapter 24 is the negative side of the same principle: those who display themsel
 
 *For example:* Two colleagues have the same record of good work. One mentions it in every meeting; the team has learned to discount the mention. The other never mentions it; the work arrives and the reputation follows the work. Same record; only one of them is believed.
 
+## Sources
+
+- [Daodejing 70, James Legge translation, Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
+
 ## Psychology parallels
 
 - **[[Expressed humility|Expressed humility]]**, accurate self-presentation without self-promotion predicts leader effectiveness (Owens et al., 2013)

@@ -22,6 +22,12 @@ Hakuin's key line is more compact than the tripod: "At the bottom of great doubt
 
 *For example:* Two students both hit a wall in their practice. One concludes they are doing it wrong and looks for a better technique. The other sits with the question they cannot answer — what is this? — and stays with it past the discomfort. Only one of them is in the territory where the tripod stands.
 
+## Sources
+
+- [Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)
+- [Great Doubt: Practicing Zen in the World](https://terebess.hu/zen/mesterek/greatdoubt.pdf)
+- [Carl Olson, 1989](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html)
+
 ## Stories
 
 - [[ST070 — Dōgen Just Sits|70. Dōgen Just Sits]]

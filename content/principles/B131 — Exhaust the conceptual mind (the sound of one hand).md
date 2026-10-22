@@ -22,6 +22,12 @@ The exhaustion is the method, not the failure. A student who holds "what is the 
 
 *For example:* Two people try to still their thinking during meditation. One suppresses each thought as it appears, which produces more thoughts about suppressing. The other holds an unanswerable question and lets the mind chase it. After months, only one of them is quieter; the other has just become very good at arguing with themselves.
 
+## Sources
+
+- [Hakuin, Orategama and koan curriculum, Terebess](https://terebess.hu/zen/Hakuin.pdf)
+- [Great Doubt: Practicing Zen in the World](https://terebess.hu/zen/mesterek/greatdoubt.pdf)
+- [Carl Olson, 1989](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html)
+
 ## Psychology parallels
 
 - **[[Incubation|Incubation]]**, stepping away from analytical effort precedes insight (Kounios and Beeman, 2014)

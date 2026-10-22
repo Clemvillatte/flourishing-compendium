@@ -22,6 +22,10 @@ This is why the practical move is not always inner work. If the behaviour is pro
 
 *For example:* Two people both want to stop scrolling at night. One works on their resolve and fails nightly. The other moves the charger to the kitchen and the behaviour changes within a week. Same person, same willpower; only one of them changed the actual mechanism.
 
+## Sources
+
+- [Dewey, Experience and Nature, and the organism-environment transaction; see SEP on Dewey](https://plato.stanford.edu/entries/dewey/)
+
 ## Psychology parallels
 
 - **[[Situationism|Situationism]]**, situations shape behavior more than traits predict (Ross and Nisbett, 1991)

@@ -22,6 +22,11 @@ This is Dewey's naturalistic proposal, not the position of all Buddhism or Daois
 
 *For example:* A person who has left their childhood tradition is often told they have lost something. The honest inventory is different: what they actually had were moments of awe, gratitude and moral seriousness. Those were the goods. The doctrines were the wrapping. Once the wrapping is gone, the goods still exist, and can be cultivated directly — through art, nature, service, silence.
 
+## Sources
+
+- [Muse](https://muse.jhu.edu/pub/93/oa_monograph/chapter/2262824)
+- [Dewey, A Common Faith, 1934, as excerpted at Harvard Square Library](https://www.harvardsquarelibrary.org/theology-philosophy/john-dewey-a-common-faith/)
+
 ## Stories
 - [[ST431 — Einstein's Cosmic Religious Feeling|431. Einstein's Cosmic Religious Feeling]]
 

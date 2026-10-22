@@ -22,6 +22,13 @@ Rogers takes the same point and gives it a name that carries the principle in it
 
 *For example:* An artist who says "I have found my style" has just drawn the boundary of what they will next try. The artist who says "I am onto something" has not. Same talent, same track record, different tense — and a decade later only one of them is still interesting to themselves.
 
+## Sources
+
+- [Maslow, A Theory of Human Motivation, 1943, Archive.org](https://archive.org/stream/TheoryOfHumanMotivation/Maslow%20-%20A%20Theory%20of%20Human%20Motivation_djvu.txt)
+- [Toward a Psychology of Being, 1962, Internet Archive](https://archive.org/details/towardapsychology0000masl)
+- [Rogers 1961, ch. 5, Internet Archive](https://archive.org/details/onbecomingperson00carl)
+- [PDF copy](https://teots.org/wp-content/uploads/2021/08/On-becoming-a-person-by-Rogers-Carl-R.-z-lib.org_.pdf)
+
 ## Stories
 - [[ST397 — Hokusai Asks for Five More Years|397. Hokusai Asks for Five More Years]]
 

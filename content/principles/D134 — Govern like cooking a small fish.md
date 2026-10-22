@@ -30,6 +30,10 @@ The chapters describe a system left to run and a system pushed, with different o
 
 *For example:* Two managers run the same team. One checks in daily, adjusts constantly, and cannot understand why the team never develops its own judgement. The other sets the boundary once and stops touching it; the team develops, and the results arrive without the manager's hand on the wheel. Same team; only one of them is cooking a small fish.
 
+## Sources
+
+- [Daodejing 60.1-2, trans. Legge, Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt)
+
 ## Stories
 
 - [[ST341 — I, Pencil|341. I, Pencil]]

@@ -22,6 +22,10 @@ The consequence is that the question "is this worldview the true one?" is replac
 
 *For example:* Two managers run the same team through the same volatile year. One holds the original plan as a matter of principle and treats the deviation as failure. The other treats the plan as a tool that fit last year's conditions, replaces it, and the team adapts. Same year; only one of them is using the toolkit.
 
+## Sources
+
+- [Dewey, The Quest for Certainty, and instrumentalism; see SEP on Dewey's instrumentalism](https://plato.stanford.edu/entries/dewey/)
+
 ## Psychology parallels
 
 - **[[Cognitive flexibility|Cognitive flexibility]]**, deploying different frameworks by context predicts mental health (Kashdan and Rottenberg, 2010)
