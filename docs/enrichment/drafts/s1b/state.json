@@ -500,7 +500,7 @@
    ]
   },
   "s1b-022": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "Hands as Thoughts: experiential attention and retained thoughts; independent author handout search",
    "history": [
     {
@@ -511,6 +511,11 @@
      "t": "2026-10-22T15:36:58+00:00",
      "to": "qc_pending",
      "note": "Tenth-item advisor launched; author later-version source, exact quote and skills-training caution checked"
+    },
+    {
+     "t": "2026-10-22T15:42:49+00:00",
+     "to": "ready",
+     "note": "Independent tenth-item advisor passed facts, quotations and matrices; requested clinical-utility clarification applied"
     }
    ]
   },
@@ -540,5 +545,5 @@
    ]
   }
  },
- "updated": "2026-10-22T15:42:43+00:00"
+ "updated": "2026-10-22T15:42:49+00:00"
 }
