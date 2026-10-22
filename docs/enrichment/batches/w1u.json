@@ -64,7 +64,8 @@
   "Interest development research",
   "Instrumental reason",
   "Hermeneutics of the self",
-  "Intergenerational responsibility"
+  "Intergenerational responsibility",
+  "Internal relations"
  ],
  "in_progress": null,
  "flagged": {
@@ -101,9 +102,10 @@
   "Interest development research": "fast-track; Hidi & Renninger 2006 paywalled at T&F; abstract verified via Semantic Scholar page and quoted verbatim; phase descriptions kept at abstract level; no unverified claims from the article body.",
   "Instrumental reason": "fast-track; primary texts blocked to crawler (marxists.org 4xx, no open Gutenberg carrier); verbatim quotes taken from Stanford Encyclopedia of Philosophy Critical Theory entry (opened, trusted) as the authoritative carrier; seed citations to Horkheimer/Adorno and Habermas preserved; Habermas characterisation kept minimal.",
   "Hermeneutics of the self": "fast-track; Oneself as Another copyrighted; open-access Truc 2011 (Études Ricœuriennes, ricoeur.pitt.edu) used as opened carrier for idem/ipse explication and the embedded Ricoeur quotation; Ricoeur paraphrase kept minimal and attributed.",
-  "Intergenerational responsibility": "fast-track; Jonas 1984 imperative quoted verbatim via open-access Mangone 2021 (SN Social Sciences, PMC7797197); Gardiner kept as seed citation, characterised minimally (worst effects on voiceless, benefits of inaction now); R112/R121 seed links preserved."
+  "Intergenerational responsibility": "fast-track; Jonas 1984 imperative quoted verbatim via open-access Mangone 2021 (SN Social Sciences, PMC7797197); Gardiner kept as seed citation, characterised minimally (worst effects on voiceless, benefits of inaction now); R112/R121 seed links preserved.",
+  "Internal relations": "fast-track; Process and Reality not freely openable; open primary carrier is Whitehead's Science and the Modern World (Gutenberg 68611, ch. VII 'Relativity') where the doctrine is stated and quoted verbatim; seed citation to Process and Reality preserved and noted as where the metaphysics is completed; boundary clause (internal for the event, not necessarily the relata) preserved."
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-22T14:25:54+00:00"
+ "updated": "2026-10-22T14:26:30+00:00"
 }
