@@ -7,7 +7,7 @@ file: "Self-trust"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-trust is the conviction Emerson puts at the head of Self-Reliance: that one's own perception, worked and tested, is a fit instrument for living, and that deferring it wholesale to others is a kind of self-loss.
+Self-trust is the conviction Emerson puts at the head of Self-Reliance: that one's own perception is a fit instrument for living, and that deferring it wholesale to others is a kind of self-loss.
 
 > "Trust thyself: every heart vibrates to that iron string" (Emerson, "Self-Reliance," [Gutenberg](https://www.gutenberg.org/files/2944/2944-h/2944-h.htm)).
 

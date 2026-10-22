@@ -8,10 +8,10 @@
   "Self-esteem research",
   "Self-legislation",
   "Self-making",
+  "Self-transformation over information",
+  "Self-transcendent emotions",
   "Self-perception theory",
   "Self-talk research",
-  "Self-transcendent emotions",
-  "Self-transformation over information",
   "Self-trust",
   "Serene acceptance of necessity",
   "Seriousness (le sérieux)"
@@ -23,10 +23,17 @@
   "Self-deception": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): scoped opening and closing; unverified Barnes credit removed (handout states no translator); attribution 'quoted in Buffalo course handout'; revalidated ok",
   "Self-esteem research": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): proposal framing; Conversely- quote opening restored; citation year corrected to 2017 from the printed header; revalidated ok",
   "Self-legislation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): dignity claim narrowed; neutral navigation to E107/Value creation; Abbott credit verified from the Gutenberg title page; revalidated ok",
-  "Self-making": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): scoped opening; uncredited translator removed (Gutenberg page states none); categorical closing narrowed; revalidated ok"
+  "Self-making": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): scoped opening; uncredited translator removed (Gutenberg page states none); categorical closing narrowed; revalidated ok",
+  "Self-transformation over information": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs",
+  "Self-transcendent emotions": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs",
+  "Self-perception theory": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs",
+  "Self-talk research": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs",
+  "Self-trust": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs",
+  "Serene acceptance of necessity": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs",
+  "Seriousness (le sérieux)": "Reopened for QC: QC correction (advisor final round): bounded prose/provenance repairs"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:43:38+00:00",
+ "updated": "2026-10-22T14:48:49+00:00",
  "band_done": false
 }

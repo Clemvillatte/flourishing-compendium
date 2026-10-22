@@ -17,7 +17,7 @@ The mechanism is a trade: security for freedom. "The serious man gets rid of his
 
 ## Sources
 
-- de Beauvoir, S. (1947). The Ethics of Ambiguity, B. Frechtman, trans., ch. II ([online text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm))
+- de Beauvoir, S. (1947). The Ethics of Ambiguity, ch. II ([online text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm); the online copy states no translator credit)
 
 ## Cited in philosophy parallels
 

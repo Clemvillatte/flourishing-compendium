@@ -17,7 +17,7 @@ The training is not resignation to everything but a sorting of what is up to us 
 
 ### The Spinoza echo
 
-The seed's second source repeats the same thought as a claim about the emotions. Spinoza's Ethics, Part V: "The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary" ([Ethics V, Prop. VI, Elwes trans., Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html)). Understanding necessity, on this account, is not resignation; it is the condition of the mind's power over its own passions.
+The seed's second source offers a comparison in the emotions' terms. Spinoza's Ethics, Part V: "The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary" ([Ethics V, Prop. VI, Elwes trans., Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html)). Understanding necessity, on this account, goes with greater power over the emotions.
 
 ## Sources
 

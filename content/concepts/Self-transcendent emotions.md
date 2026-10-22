@@ -7,13 +7,13 @@ file: "Self-transcendent emotions"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-transcendent emotions are positive emotions that orient a person beyond their own concerns — awe, gratitude, love and peace in the study the compendium seeds this page from — typically in response to something perceived as greater or better than the self.
+Self-transcendent emotions are the class of positive emotions a 2016 study classifies as awe, gratitude, love and peace, studied for their role in the relation between spirituality and well-being.
 
 > "Distinguishing between more and less relevant positive emotions in a religious/spiritual context, it was found that the effect was mediated by self-transcendent positive emotions (awe, gratitude, love, and peace) but not by other positive emotions (amusement and pride)" (Van Cappellen et al., 2016, [abstract](https://research.dial.uclouvain.be/entities/publication/05d717de-4f1e-4476-ac20-6b5841527af9)).
 
 ### The study behind the quote
 
-The finding comes from two cross-sectional studies: "In two different contexts (churchgoers in a European country and US university employees interested in meditation), results showed that the relation between religion (Study 1), spirituality (Study 2) and well-being is mediated by positive emotions" (Van Cappellen et al., 2016). The mediator was specific: the self-transcendent subset did the work, amusement and pride did not. What a person feels toward what is outside them, on this evidence, is part of how spirituality connects to well-being — not just what they believe or whom they sit beside.
+The finding comes from two cross-sectional studies: "In two different contexts (churchgoers in a European country and US university employees interested in meditation), results showed that the relation between religion (Study 1), spirituality (Study 2) and well-being is mediated by positive emotions" (Van Cappellen et al., 2016). The authors reported statistical mediation by the self-transcendent subset in these two samples; the cross-sectional design does not establish a causal pathway.
 
 ## Related concepts
 
