@@ -615,3 +615,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   (random finished-band draw, w1k) — the Ward, Duke, Gneezy & Bos 2017 brain-drain
   abstract quote checked against the opened EconPapers carrier (the page's own
   citation): verbatim. Sample PASS. Thirty-seven samples this session, all PASS.
+- Supervisor verification sample 38 (2026-10-22 ~16:23 UTC): Character development
+  (random finished-band draw, w1j; the page that absorbed the merged "Character as
+  habits" namespace) — the Aristotle NE II.1 habituation passage checked against the
+  opened MIT Classics carrier (Ross translation): verbatim in full. Sample PASS.
+  Thirty-eight samples this session, all PASS.
