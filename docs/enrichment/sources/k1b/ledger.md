@@ -46,3 +46,10 @@
 - Facets line and Practises-the-concept line kept from the seed; original Operationalises links kept verbatim.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K232 Life review (worker-k1b-pplx)
+- Sources opened this session: Butler 1963 chapter reprint PDF (Springer, New Thoughts on Old Age; verbatim abstract quote: the universal-occurrence postulate and the candor/serenity/wisdom sentence); Al-Ghafri, Al-Mahrezi and Chan 2021 meta-analysis full text (PMC8683455, open access; verbatim quotes: the 15-RCT abstract results with the -0.54 and -0.20 sensitivity-analysis effect sizes, the Butler definition as quoted in the article, the recollecting/evaluating/assigning-meaning sentence).
+- Claims narrowed: the seed's "builds narrative coherence, which predicts well-being" is labelled this practice's framing, NOT established by the opened sources (not-covered paragraph); the tested version is scoped to structured interventions for older adults with depression outcomes; Butler's claim scoped to a naturally occurring process in older people.
+- Note for supervisor: the Westerhof and Slatman 2019 meta-analysis (Wiley) full text did not render through the fetcher (only title/authors/references); the open-access Pan African Medical Journal meta-analysis was used instead.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
