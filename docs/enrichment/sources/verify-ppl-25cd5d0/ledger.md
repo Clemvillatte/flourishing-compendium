@@ -120,3 +120,30 @@ education/health/relationship examples.
 MINOR NUANCE (optional tightening, no defect routed): the page says benefits "persist for
 months and years" where the abstract says "sometimes persist"; adding "sometimes" would match
 the source exactly.
+
+## Round 4 (2026-10-22 ~12:10Z)
+
+### Witness consciousness in the Drig-Drisya-Viveka procedure (w1t, fast-track done)
+
+1 quoted passage checked, PASS with one minor deviation — the verse blockquote matches the
+cited Aumdada carrier (Tejomayananda translation notes, verse 1) word-for-word EXCEPT the
+carrier prints "the mind Is (its) seer" (capital I, evidently a carrier typo mid-sentence)
+where the page has "the mind is (its) seer". Single-letter case difference; suggest the owner
+align to the carrier or keep the normalisation with a note. No other defects; the attribution
+line honestly marks the Śaṅkara-circle attribution as an inherited seed reference.
+
+### Dwelling (w1r, fast-track done)
+
+4 quoted passages checked, 4 PASS — all verified verbatim against a fresh fetch of the cited
+Hofstadter-translation PDF (contentarchive.wwf.gr):
+- "The way in which you are and I am... it means to dwell." — exact, including the carrier's
+  lowercase "it means to dwell."
+- The numbered three-point list ("1. Building is really dwelling...") — exact (the carrier
+  extraction renders "buildingthat" without a space at one point; the page's spaced version
+  matches the printed PDF text).
+- "The fundamental character of dwelling is this sparing and preserving..." — exact.
+- "The nature of building is letting dwell... Only if we are capable of dwelling, only then
+  can we build" — exact with a correct ellipsis.
+- The bauen/ich bin/"I dwell" claim is directly supported ("ich bin, du bist mean: I dwell,
+  you dwell").
+No routed findings.
