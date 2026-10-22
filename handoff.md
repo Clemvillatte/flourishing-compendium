@@ -1618,3 +1618,17 @@ stay local.
 - Credential note for the owner: the PAT is used from the git remote URL per the
   project's api_push.py design; it was echoed once in a shell command at clone time
   (session start) — consider rotating the token at session end as planned.
+
+## Session checkpoint 2 (supervisor-pplc-bb0dbf40, 2026-10-22 ~15:44 UTC)
+- Verification campaign: 25 quote-fidelity samples across live bands (w1y, w1t, w1u,
+  k1a) and random finished-band draws (w1e), plus the full f08a97cb0..HEAD concept
+  window — ALL PASS; one minor repair (Availability: disponibilité accent restored).
+- w1x QC flags formally cleared (supervisor disposition in the QC log); E018 mapping
+  routed to owner; enrich_progress_report.py fixed (phantom unmatched counts
+  37/52 -> 0/3, residuals are explained renames); PROGRESS regenerated.
+- Scribd PBT full-text carrier is REMOVED (dead URL dropped from 4 pages); the PBT
+  book remains unopened this session — the EEMM-quote addition on Context
+  sensitivity is flagged PENDING direct open (library access needed by next verifier).
+- Credential note for the owner: the PAT is used from the git remote URL per the
+  project's api_push.py design; it was echoed once in a shell command at clone time
+  — rotate the token at session end as planned.
