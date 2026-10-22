@@ -623,3 +623,5 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 - Nap opportunity vs measured sleep distinguished (20-min timer ≠ 20 min lab sleep).
 - Timing rule narrowed to expert guidance tied to bedtime; "what studies do not test" narrowed to the cited comparison.
 - Guided version: SUPERVISOR DISPOSITION — kernels for inherently unguided practices (a nap needs only an alarm) are exempt from the recording requirement; exemption recorded here and in EXEMPLARS.md. k1a shares kpr's ledger for kernel-track continuity (single kernel evidence ledger).
+
+- K186 Don't-break-the-chain: enriched to standard. Carriers opened: Lally et al. 2010 (Wiley full-text abstract, raw-text quote check); Isaac's 2007 Lifehacker origin post + CBS News quoting the chain passage. Honest framing: Seinfeld attribution disowned by Seinfeld; "never break it" absolutism qualified by Lally's "missing one opportunity did not materially affect" finding. Editorial step 3 labelled. Guided version: exempt (unguided practice, supervisor disposition above). Verified: validate.py ok.
