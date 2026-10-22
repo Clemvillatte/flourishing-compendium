@@ -545,3 +545,9 @@ Final state: 60 rounds recorded in this ledger segment; all work committed and p
 1. **Assertiveness research** — the Ames & Flynn passage VERIFIED verbatim via the opened APA press release; note the carrier itself prints "chocking" (the source's own typo), which the page faithfully reproduces — correct verbatim practice, not a defect. PASS.
 
 Round 61: 1 page, 1 quoted passage verified, no defects.
+
+## Round 62
+
+1. **Cardinal virtues** — both Aquinas Summa II-II Q61 passages VERIFIED verbatim via the opened New Advent page. PASS.
+
+Round 62: 1 page, 2 quoted passages verified, no defects.
