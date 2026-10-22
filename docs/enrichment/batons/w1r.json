@@ -33,5 +33,7 @@
    "from": "worker-w1r-pplc-6c2b4f90",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T07:44:01+00:00"
 }
