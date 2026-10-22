@@ -22,7 +22,8 @@
   "Samsara",
   "Samskara",
   "Purity of heart",
-  "Repair attempts"
+  "Repair attempts",
+  "Reappraisal's effectiveness depends on controllability"
  ],
  "in_progress": null,
  "flagged": {
@@ -32,6 +33,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:39:49+00:00",
+ "updated": "2026-10-22T11:40:08+00:00",
  "band_done": false
 }
