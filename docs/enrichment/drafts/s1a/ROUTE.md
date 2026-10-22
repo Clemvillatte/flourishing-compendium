@@ -124,3 +124,10 @@
   Two more items in flight this session: s1a-030 (D061, Bian Que / Heguanzi) and
   s1a-032 (P192, Django Reinhardt / Givan) — same zero-story priority, same scope request if
   they reach qc_pending.
+
+- 2026-10-22, storyteller-perplexity-1022b (status update): s1a-032 (P192, Django Relearns the Guitar)
+  is qc_pending after two advisor repair rounds (impairment corrected per Givan's chapter, page
+  locators verified, interpretation bounded to practical adaptation); s1a-031 (B016) is READY
+  after round-3 scoped pass. Both need supervisor scope approval before registration; s1a-030
+  (Bian Que, D061) was returned with preserved research — primary-text carriers blocked this
+  session (ctext ip-block, wikisource/wikipedia 429, BMJ robots).
