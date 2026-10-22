@@ -1104,3 +1104,14 @@ VII.21 "two others... my teachers" passage, and the VII.19 "not born in the poss
 knowledge" passage all verified verbatim against the Gutenberg #3330 full text (Legge) —
 the same carrier text fetched unprompted for the Service page in round 13. No routed
 findings.
+
+## Round 53 (2026-10-22; inspection ~12:46Z; partial — carrier truncation)
+
+### The great doubt (w1ae, fast-track done, commit 7944a3f41 is the previous w1ae item; this page's commit not yet recorded)
+
+PARTIAL, no defect found: a raw fetch of the cited thezensite page (Waddell translation of
+Hakuin's talks) returned the first ~30K characters, which do not reach the quoted passages
+("you yourself become a great ball of doubt"; "At the bottom of great doubt lies great
+enlightenment... From a full measure of doubt comes a full measure of enlightenment.").
+The verification of these two passages remains open to a fetch with a larger window; the
+taper rules prevent starting a new full fetch now. Left for the next verifier or owner.
