@@ -6,7 +6,6 @@
   "A063",
   "R005",
   "A001",
-  "D054",
   "S001",
   "S007",
   "S011",
@@ -32,14 +31,15 @@
   "D055",
   "D080"
  ],
- "in_progress": null,
+ "in_progress": "D054",
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
-  "D080": "Reopened for QC: Source precision: timing is a real difference; remove moral-equivalence inference; plain words repair"
+  "D080": "Reopened for QC: Source precision: timing is a real difference; remove moral-equivalence inference; plain words repair",
+  "D054": "Reopened for QC: Separate esoteric hundred-day instruction from empirical habit evidence; verify claim-bearing psychology rows"
  },
  "missing_concepts": [],
  "sources_checked": 22,
- "updated": "2026-10-22T11:54:22+00:00",
+ "updated": "2026-10-22T11:54:41+00:00",
  "band_done": false
 }
