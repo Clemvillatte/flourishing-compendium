@@ -15,7 +15,7 @@ Experiential values are one of the three routes to meaning in Viktor Frankl's lo
 
 The middle route is the experiential one: meaning received rather than made, through what a person experiences or whom a person meets. Its paradigm case, in the book, is love: "The salvation of man is through love and in love" ([same text](https://archive.org/details/viktor-emil-frankl-mans-search-for-meaning)). The camp narrative gives the category its setting: "This intensification of inner life helped the prisoner find a refuge from the emptiness, desolation and spiritual poverty of his existence, by letting him escape into the past" ([same text](https://archive.org/details/viktor-emil-frankl-mans-search-for-meaning)).
 
-The other two routes mark the boundary of the category. A deed makes meaning; suffering, taken the right way, becomes one; but experiential values are meaning that arrives through encounter, and the book treats them as fully as real as the made kind.
+The other two routes mark the boundary of the category. A deed makes meaning; suffering, taken the right way, becomes one; but experiential values are meaning that arrives through encounter, and the book treats them as every bit as real as the made kind.
 
 In the compendium the idea supports [[M021 — Treat truth as something you stand in, not only something you hold]] and [[E063 — Practise meaning through love]].
 
