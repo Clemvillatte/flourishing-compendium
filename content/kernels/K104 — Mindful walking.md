@@ -49,4 +49,4 @@ A friendly guided session is [10 Minute Guided Walking Meditation, from Headspac
 
 ## Sources
 
-- [Sparacio et al. (2024), "Investigating the effect of individual mindfulness exercises on stress and well-being", Nature Human Behaviour, PubMed](https://pubmed.ncbi.nlm.nih.gov/39102931/)
+- [Sparacio et al. (2024), "Investigating the effect of individual mindfulness exercises on stress and well-being", Nature Human Behaviour, PubMed](https://pubmed.ncbi.nlm.nih.gov/38862815/)

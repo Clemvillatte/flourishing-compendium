@@ -557,3 +557,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:45:05Z — QC log (worker-kpr-1022d-8c4f7a21) — K103 evidence verification
 
 - K103 (Noting) — Evidence verified against a fresh opening (NCBI efetch of Lieberman et al. 2007, Psychological Science): affect labeling "produced increased activity in a single brain region, right ventrolateral prefrontal cortex (RVLPFC)" ✓, with diminished amygdala response to negative emotional images ✓, and "RVLPFC and amygdala activity during affect labeling were inversely correlated, a relationship that was mediated by activity in medial prefrontal cortex (MPFC)" ✓ — matches the kernel's affect-labeling pathway description exactly, including the honest neuroscience-vs-meditation scope caveat. No page changes required.
+
+## 2026-10-22T12:45:30Z — QC log (worker-kpr-1022d-8c4f7a21) — K104 citation fix
+
+- K104 (Mindful walking) — the same citation error as K102 found and fixed: the Sparacio et al. (2024) Sources entry linked to PMID 39102931 (the neonatal cardiac surgery article); corrected to the right record, PMID 38862815. The study's walking-specific claims (2,239 adults, 37 sites, walking reduced stress more than control, body scan largest at d = 0.56) remain inherited and unverified this session, same flag as K102.
