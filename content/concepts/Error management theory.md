@@ -19,7 +19,7 @@ Error management theory (EMT) is Martie Haselton and David Buss's account of why
 
 ### Origin
 
-The theory was introduced in a 2000 Journal of Personality and Social Psychology article on biases in cross-sex mind reading, written while both authors were at the University of Texas at Austin ([JPSP 2000](https://pubmed.ncbi.nlm.nih.gov/10653507/)).
+The theory was introduced in a 2000 Journal of Personality and Social Psychology article on biases in cross-sex mind reading, published from the Department of Psychology at the University of Texas at Austin ([JPSP 2000](https://pubmed.ncbi.nlm.nih.gov/10653507/)).
 
 ### Core claims in the authors' words
 
