@@ -488,7 +488,17 @@
      "note": "Primary 2004 paper read in full; experimental result and explicit limits retained"
     }
    ]
+  },
+  "s1b-022": {
+   "status": "researching",
+   "angle": "Hands as Thoughts: experiential attention and retained thoughts; independent author handout search",
+   "history": [
+    {
+     "t": "2026-10-22T15:35:00+00:00",
+     "to": "researching"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:34:51+00:00"
+ "updated": "2026-10-22T15:35:00+00:00"
 }
