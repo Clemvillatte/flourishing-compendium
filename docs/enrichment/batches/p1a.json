@@ -29,9 +29,10 @@
   "A078",
   "A091",
   "A037",
-  "A053"
+  "A053",
+  "D080"
  ],
- "in_progress": "D080",
+ "in_progress": null,
  "flagged": {
   "D087": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D087-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
   "D055": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D055-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
@@ -47,6 +48,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 41,
- "updated": "2026-10-22T12:25:30+00:00",
+ "updated": "2026-10-22T12:26:38+00:00",
  "band_done": false
 }
