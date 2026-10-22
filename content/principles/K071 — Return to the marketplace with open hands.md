@@ -12,13 +12,29 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "K — Kyoto-
 ---
 > **Principle 71** — Return to the marketplace with open hands
 
-The Zen ox-herding pictures' final image, adopted by the Kyoto School as its own conclusion: after all the stages, the sage returns to the marketplace with open hands (the tenth picture's title), bestowing no teachings, simply available. This is the final principle because it is where all the others were going: the collapse, the nothingness, the mind training, the patience, the exchange, the graduated path, the sky and the waves, the confession, all of it is for the sake of being ordinary and available among people. Practically, let the week end in the marketplace: a meal with someone, a hand given where it is useful, no display.
+The tenth and last of the Ten Oxherding Pictures, with verses by the twelfth-century Zen teacher Kakuan Shien, shows the one who has found the ox going back into town. The title differs by translator: "Entering the marketplace with giving hands" (Loori and Tanahashi), "Entering the City with Bliss-bestowing Hands" (D. T. Suzuki), "Entering the Marketplace with Extended Hands" (Victor Sogen Hori). The verse in Loori and Tanahashi's translation reads:
 
-(The ox-herding pictures, the tenth; Nishitani's return to the ordinary; the tradition of the bodhisattva in the world.)
+> You go into the marketplace barefooted, unadorned, smeared with mud, covered with dust, smiling. Using no supernatural power you bring the withered trees to bloom. ([Kakuan, Ten Oxherding Pictures X, trans. Loori and Tanahashi, in Essential Zen, 1994](https://terebess.hu/english/Kuoan4.html))
 
-**Plain words** The last of the ox-herding pictures shows the sage returning to the marketplace with open hands: no teachings, just available. It's the final principle because everything pointed here: the collapse, the nothingness, the mind work, all of it ends up as being useful and plain in ordinary life.
+Suzuki's rendering of the preface adds that the sage's "thatched cottage gate is closed, and even the wisest know him not", and that he "is found in company with wine-bibbers and butchers, he and they are all converted into Buddhas" ([Suzuki, Manual of Zen Buddhism, 1956](https://philosophy.lander.edu/oriental/reader/reader/x5038.html)). The sequence ends with ordinary company, and the transformation happens without display.
 
-*For example:* After years of practice, someone is simply the person who always has time for the neighbour's problem.
+This is the compendium's final principle, and the placement is the compendium's own. The earlier ones about collapse, nothingness and mind training are practised so that the person can be ordinary and available among people. Practically, let the week end in the marketplace: a meal with someone, a hand given where it is useful, no display.
+
+(Kakuan Shien, Ten Oxherding Pictures, picture X.)
+
+### Plain words
+
+The last picture does not show a person on a mountain. It shows someone walking into town, dusty and smiling, available to whoever is there. After all the practice, the test is how you are with other people.
+
+### For example
+
+After years of practice, someone is simply the person who always has time for a neighbour's problem.
+
+## Sources
+
+- Kakuan Shien, *Ten Oxherding Pictures*, trans. John Daido Loori and Kazuaki Tanahashi, in *Essential Zen* (1994), pp. 141-144: [Terebess](https://terebess.hu/english/Kuoan4.html)
+- Same series, trans. D. T. Suzuki, *Manual of Zen Buddhism* (1956): [Lander University reader](https://philosophy.lander.edu/oriental/reader/reader/x5038.html)
+- Same series, trans. Victor Sogen Hori: [Ordinary Zen Sangha](https://ordinaryzensangha.org/ten-oxherding-pictures/)
 
 ## Psychology parallels
 
