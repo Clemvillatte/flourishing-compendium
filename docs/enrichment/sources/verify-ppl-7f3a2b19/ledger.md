@@ -217,3 +217,25 @@ Round 5 totals: 4/4 selected-quotation PASS. Cumulative w1ac sample: 13 pages ch
 
 Round 6 totals: 4/4 selected-quotation PASS. Cumulative w1ac sample: 17 pages checked
 (14 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect+attribution repaired, 1 routed).
+
+## Round 7 — w1ac earlier pages (2026-10-22, executed ~11:59-12:01Z per clock proximity)
+
+- PRIDE — PASS 2/2: both Aristotle NE IV.3 passages verbatim vs the cited MIT Classics
+  page (opened).
+- POSITIVITY OFFSET — PASS 2/2: both Norris, Gollan, Berntson and Cacioppo 2010 passages
+  verbatim vs the cited PMC article (opened via fetch).
+- PRE-REFLECTIVE CONSCIOUSNESS — PASS: the Sartre Being and Nothingness passage verbatim vs
+  the cited SEP entry (opened via fetch; "they are a dozen" is italicized in the SEP, plain
+  on the page — emphasis-only difference).
+- PRE-UNDERSTANDING — PASS 1/1 + ONE ROUTED FINDING: the Heidegger B&T §32 p. 191 passage
+  verbatim vs the cited beyng.com page. The p. 192 passage has a word-for-word MISMATCH: the
+  page silently DROPS the beyng.com edition's inline German glosses that the carrier prints
+  inside the sentence — "appeal [beruft] to what 'stands there'", "assumption [Vor-meinung]
+  of the person", "'taken for granted' [gesetzt] with the interpretation" (the site's
+  extraction prints "[V ormeinung]"). Routed for the w1ac owner/supervisor: either restore
+  the bracketed glosses verbatim, or re-point the citation to an edition of the
+  Macquarrie-Robinson translation without inline glosses. The translation's own words
+  otherwise match exactly (verified normalized).
+
+Round 7 totals: 3 pages PASS, 1 finding routed. Cumulative w1ac sample: 21 pages checked
+(17 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect+attribution repaired, 2 routed).
