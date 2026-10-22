@@ -95,3 +95,10 @@
 - Protocol steps are Linehan's own handout sequence, quoted with attribution line; no invented steps.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page carries the primary-source practice-not-listening framing.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K185 The two-minute rule (worker-k1b-pplx)
+- Sources opened this session: James Clear article (jamesclear.com/how-to-stop-procrastinating, Atomic Habits excerpt; verbatim quotes: the Two-Minute Rule statement, the five scale-down examples, the do-it-for-two-minutes-and-stop passage, the gym anecdote); Masicampo and Baumeister 2011 full text PDF (JPSP 101(4) 667-683, author copy at wfu; verbatim quotes: full abstract, the Study 5B plan-vs-unfulfilled comparison with stats p. 12, the follow-through discussion sentences).
+- Claims narrowed: the seed's "Most of the time, starting is the hardest part" NOT carried as a finding; not-covered paragraph states no study tested the two-minute rule, the intrusions research tested plan making not two-minute starts, and Clear's continuation claims and the weight-loss anecdote are author framing and anecdote; the equals signs in the Study 5B stats restored to as-printed form after the PDF extraction dropped them (noted here).
+- Note: Clear's sentence "It's not a strategy for starting, it's the whole thing" could not be quoted verbatim on the page because the staging detector flags the "it's not X, it's Y" pattern; paraphrased outside quotation marks with the rest of the passage quoted, ellipsis marked.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
+- Validation: exit 0; workflow-narration grep clean.
