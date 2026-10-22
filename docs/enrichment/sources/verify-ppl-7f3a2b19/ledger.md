@@ -199,3 +199,21 @@ attribution repaired, 1 routed — Relational Frame Theory PMC interstitial).
 
 Round 5 totals: 4/4 selected-quotation PASS. Cumulative w1ac sample: 13 pages checked
 (10 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect+attribution repaired, 1 routed).
+
+## Round 6 — w1ac earlier pages (2026-10-22, executed after the 11:58:13Z measurement)
+
+- PNEUMA — PASS 2/2: the Aristotle On the Motion of Animals X passage verbatim vs the cited
+  MIT Classics page (opened); the SEP Stoicism pneuma passage (Nemesius 47J) verbatim vs the
+  cited SEP entry (opened via fetch).
+- PRANAYAMA — PASS 2/2: Yoga-sutra 2.49 and 2.53 (Rama Prasada) verbatim vs the two cited
+  wisdomlib pages (opened via fetch).
+- REVERSAL (FU) — PASS 1/1: the Daodejing 40 Legge verse verbatim vs the cited Gutenberg 216
+  page (opened).
+- SAMENESS OF THE SAGE — PASS 2/2: both Zhuangzi II Giles passages verbatim vs the cited
+  Gutenberg 59709 text. Two extraction artifacts explained the initial mismatches: (a) the
+  first passage has a translator footnote interpolated mid-sentence in the extraction
+  ("Mih Tzŭ was a philosopher...") — the page's quote correctly follows the main text;
+  (b) the second has a footnote marker after "God" ("God ,") — wording identical.
+
+Round 6 totals: 4/4 selected-quotation PASS. Cumulative w1ac sample: 17 pages checked
+(14 PASS, 1 PASS-with-unresolved-comma-variance, 1 defect+attribution repaired, 1 routed).
