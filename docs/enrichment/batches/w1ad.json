@@ -13,10 +13,13 @@
  "flagged": {
   "Self-constitution through action": "Reopened for QC: QC correction: editorial-summary line misattributed as Kierkegaard text; translator credit unverified; related-link glosses unsupported",
   "Self-cultivation": "Reopened for QC: QC correction: authorship credit scoping",
-  "Self-deception": "Reopened for QC: QC correction: opening over-specified; Barnes credit unverified for the handout; closing gloss over-generalized"
+  "Self-deception": "Reopened for QC: QC correction: opening over-specified; Barnes credit unverified for the handout; closing gloss over-generalized",
+  "Self-esteem research": "Reopened for QC: QC correction: proposal framing, quote opening, citation year",
+  "Self-legislation": "Reopened for QC: QC correction: dignity claim narrowed, seed-reference replaced",
+  "Self-making": "Reopened for QC: QC correction: scoped opening, translator credit removed"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:32:59+00:00",
+ "updated": "2026-10-22T14:36:32+00:00",
  "band_done": false
 }

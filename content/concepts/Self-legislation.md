@@ -13,11 +13,11 @@ Self-legislation is Kant's name for the structure of moral authority: the princi
 
 ### The two-sided structure
 
-The passage is built on a double claim: the will is subject to law, and it is the author of that law. Kant introduces the principle behind this as "the idea of the will of every rational being as a universally legislative will" (Groundwork, Abbott trans.). Neither side can drop: without law there is no binding, and without self-given law there is no dignity — "Autonomy then is the basis of the dignity of human and of every rational nature" (Groundwork, Abbott trans.).
+The passage is built on a double claim: the will is subject to law, and it is the author of that law. Kant introduces the principle behind this as "the idea of the will of every rational being as a universally legislative will" (Groundwork, Abbott trans.). Kant connects autonomy with dignity: "Autonomy then is the basis of the dignity of human and of every rational nature" (Groundwork, Abbott trans.).
 
 ### The failure mode
 
-Heteronomy is the will going out of itself for its law: "If the will seeks the law which is to determine it anywhere else than in the fitness of its maxims to be universal laws of its own dictation, consequently if it goes out of itself and seeks this law in the character of any of its objects, there always results heteronomy. The will in that case does not give itself the law, but it is given by the object through its relation to the will" (Groundwork, Abbott trans.). The seed of the concept in the compendium also runs through Nietzsche's value-creation; that side is carried by [[E107 — Practise the creation of values]] and [[Value creation]].
+Heteronomy is the will going out of itself for its law: "If the will seeks the law which is to determine it anywhere else than in the fitness of its maxims to be universal laws of its own dictation, consequently if it goes out of itself and seeks this law in the character of any of its objects, there always results heteronomy. The will in that case does not give itself the law, but it is given by the object through its relation to the will" (Groundwork, Abbott trans.). For the compendium's value-creation material, see [[E107 — Practise the creation of values]] and [[Value creation]].
 
 ## Related concepts
 
