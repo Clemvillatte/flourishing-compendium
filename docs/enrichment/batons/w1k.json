@@ -63,5 +63,7 @@
    "from": "worker-sup-1022c-w1k",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T08:20:19+00:00"
 }
