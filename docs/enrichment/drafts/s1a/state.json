@@ -877,7 +877,7 @@
    ]
   },
   "s1a-031": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "B016: the Buddha tells the fire-worshipping monks at Gaya Head that the All itself is aflame with passion, aversion and delusion; a thousand minds released mid-sermon (SN 35.28)",
    "history": [
     {
@@ -888,9 +888,14 @@
      "t": "2026-10-22T04:09:44+00:00",
      "to": "qc_pending",
      "note": "first item; story_check 0 errors; advisor QC in flight"
+    },
+    {
+     "t": "2026-10-22T04:20:07+00:00",
+     "to": "ready",
+     "note": "advisor round-3 SCOPED PASS; scope approval routed (B016 outside slice)"
     }
    ]
   }
  },
- "updated": "2026-10-22T04:09:44+00:00"
+ "updated": "2026-10-22T04:20:07+00:00"
 }
