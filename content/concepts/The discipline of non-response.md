@@ -7,7 +7,7 @@ file: "The discipline of non-response"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The discipline of non-response is the Stoic practice of not adding a reflexive answer to an impression. The technique is stated in the Enchiridion's most quoted line: "Men are disturbed not by things, but by the views which they take of them" (Enchiridion 5; [buboquote collection](https://www.buboquote.com/en/author/61-epictetus)). Between the impression and the response there is a judgment, and the judgment is the only movable part.
+The discipline of non-response is the Stoic practice of not adding a reflexive answer to an impression. The technique is stated in the Enchiridion's most quoted line: "Men are disturbed not by things, but by the views which they take of things" (Enchiridion 5; [Higginson translation, Metis edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Enchiridion_English.pdf)). Between the impression and the response there is a judgment, and the judgment is the only movable part.
 
 ### The training
 
@@ -26,7 +26,7 @@ The practice requires repetition because impressions arrive with the force of fa
 ## Sources
 
 - [Enchiridion, section 5, translation comparison](https://enchiridion.tasuki.org/display:Code:ec,twh,pem,sw/section:5) — verbatim Enchiridion 5
-- [buboquote, Epictetus quotations](https://www.buboquote.com/en/author/61-epictetus) — verbatim "disturbed not by things"
+- [Epictetus, Enchiridion, Higginson translation (Metis edition)](https://metis.ethz.ch/wp-content/uploads/2023/03/Enchiridion_English.pdf) — verbatim "disturbed not by things"
 - [The Collector, 5 Ways to Be Happy According to Epictetus](https://www.thecollector.com/5-ways-to-be-happy-epictetus/) — verbatim Enchiridion 1 lament quote
 - Epictetus, Enchiridion (original citation lines preserved)
 
