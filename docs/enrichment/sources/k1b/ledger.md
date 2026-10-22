@@ -185,3 +185,9 @@
 - Claims narrowed: the weekly cadence and outlasts-the-week test labelled this practice's own; not-covered paragraph states the studies measure helping among older adults and parent-to-grown-child support, not a weekly service-or-creation practice; the positive-not-negative-indicators finding carried onto the page as a boundary (adds brightness, not a treatment for what is dark).
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K175 Graded task assignment (worker-k1b-pplx)
+- Sources opened this session: Jacobson, Martell and Dimidjian BA chapter PDF (University of Kent reading archive; verbatim quotes: the graded-task-assignment definition sentences, the break-down-into-components explanation, the mental-rehearsal passage, the mastery-of-one-component sentence, the break-down-further sentence, the reassign-smaller-portion sentence); Gautam et al. 2020 (PMC7001356, previously opened this session for K128, re-quoted with its successive-approximation and graded-tasks sentences).
+- Claims narrowed: the solo use on an ordinary daunting task labelled as borrowing the tool; evidence scoped to the BA package trials with therapist, homework review, mood monitoring.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
