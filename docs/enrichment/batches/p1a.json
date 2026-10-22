@@ -4,7 +4,6 @@
   "R055",
   "D001",
   "A063",
-  "D055",
   "R005",
   "A001",
   "D054",
@@ -32,12 +31,13 @@
   "A053",
   "D087"
  ],
- "in_progress": null,
+ "in_progress": "D055",
  "flagged": {
-  "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example"
+  "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
+  "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example"
  },
  "missing_concepts": [],
  "sources_checked": 17,
- "updated": "2026-10-22T11:50:18+00:00",
+ "updated": "2026-10-22T11:51:37+00:00",
  "band_done": false
 }
