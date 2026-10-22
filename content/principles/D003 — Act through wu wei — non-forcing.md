@@ -12,17 +12,21 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 3** — Act through wu wei: non-forcing
 
-The Daodejing's word for the right kind of action is wu wei, and chapter 37 gives it in one line: "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do." The sage is the human version of the same: "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech."
+In chapter 48, the Daodejing describes following the Dao as a gradual reduction in deliberate doing. Chapter 37 presents the Dao as accomplishing things without acting for the sake of acting. Read together, these passages invite a question about effort: which part helps the task, and which part merely satisfies our wish to control it? ([James Legge's translation, chapters 37 and 48](https://www.sacred-texts.com/tao/taote.htm))
 
 ### A subtractive discipline
 
-Chapter 48 puts it as subtraction: "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do." Chapter 63 names the manner in passing: acting without thinking of acting, conducting affairs without feeling their trouble. As a practical analogy, consider a skilled hand working with its material rather than against it: forcing is effort still fighting the material, and wu wei is what effort looks like once it stops. The compendium reads wu wei, offered as a reading, as a skill that can be practised.
+The practical reading offered here is to remove unnecessary interference while remaining answerable for what happens. A gardener still waters a seedling; pulling its stem will not make it grow faster. The distinction asks for judgement about the particular situation, rather than a rule that less effort is always better.
 
-(DDJ 2, 37, 48, 63.)
+**Plain words** Before pushing harder, check whether you are helping. Ease your grip where it gets in the way; do the work that still needs doing.
 
-**Plain words** Wu wei means doing things without shoving: no gripping or straining. When you notice yourself pushing hard, ask whether the push is doing the work or getting in its way.
+*For example:* A teacher could give a class more time to attempt a problem before offering another explanation. She watches whether pupils make progress, keeps the pause when it helps, and changes her approach when they are simply stuck.
 
-*For example:* Imagine a teacher who sets a problem and lets the students wrestle with it instead of directing every step.
+## Related concepts
+
+- [[Wu wei]]: action without unnecessary forcing.
+- [[Ziran (naturalness)]]: room for things to develop in their own way.
+- [[Dao]]: the wider teaching within which non-forcing belongs.
 
 ## Stories
 - [[ST339 — Jigoro Kano Turns the Push|339. Jigoro Kano Turns the Push]]
@@ -38,7 +42,7 @@ Chapter 48 puts it as subtraction: "He who devotes himself to learning (seeks) f
 ## Psychology parallels
 
 - **[[Flow|Flow]]**, autotelic absorption with challenge-skill balance (Csikszentmihalyi, 1990)
-- **[[Flow|Flow neuroimaging]]** (Barnett & Vasiu, 2026 systematic review of nine studies), some flow studies report reduced activity in core default-mode-network regions, interpreted as reduced self-referential processing; samples were small and the tasks short and artificial. [Review](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1690499/full)
+- **[[Flow|Flow neuroimaging]]**: a review of nine studies reports changes in brain networks associated with self-referential thought and attentional control during flow. The authors call for larger, more diverse samples and causal and longitudinal research; these findings concern flow, not a test of Daoist wu wei. ([Barnett and Vasiu, systematic review](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1690499/full))
 - **[[Effortless attention|Effortless attention]]** (Bruya, 2010)
 
 ## Philosophy parallels
