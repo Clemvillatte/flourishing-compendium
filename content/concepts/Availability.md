@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Availability translates Gabriel Marcel's disponibilite, set out in Being and Having. It names a general state or disposition of a person rather than a schedule: the measure in which my resources, material, emotional, intellectual and spiritual, are at hand to offer to someone or to a situation. The Stanford Encyclopedia's article on Marcel gives the definition and its nearness to handiness:
 
-> "Thus, the term disponibilite refers to the measure in which I am available to someone, the state of having my resources at hand to offer; and this availability or unavailability of resources is a general state or disposition." (Brian Treanor and Brendan Sweetman, [Gabriel (-Honore) Marcel, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcel/), substantive revision September 13, 2026)
+> "Thus, the term disponibilité refers to the measure in which I am available to someone, the state of having my resources at hand to offer; and this availability or unavailability of resources is a general state or disposition." (Brian Treanor and Brendan Sweetman, [Gabriel (-Honore) Marcel, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcel/), substantive revision September 13, 2026)
 
 Marcel's own contrast, quoted in the same article, is between the person and the temporary loan:
 

@@ -530,3 +530,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   grammatical hiccup in the NLM original; elision is correct). Both PASS. Twenty
   samples this session, all PASS. The full f08a97cb0..HEAD concept window is now
   verified or sampled.
+- Supervisor verification sample 21 + repair (2026-10-22 ~15:30 UTC): Availability —
+  both Marcel quotes verbatim vs the opened SEP article; MINOR DEFECT found and
+  FIXED: the page's first quote dropped the accent in "disponibilité" (SEP has the
+  accented form); accent restored in the quoted sentence. Sample PASS after repair.
+  Twenty-one samples this session, all PASS (one accent repair).
