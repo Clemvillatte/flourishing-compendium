@@ -21,6 +21,7 @@ The phenomenologists' name for the layer of experience that theory arrives too l
 
 - [[Pre-reflective consciousness]] — the Sartrean account of awareness that reflection never founds
 - [[Present-at-hand]] — the companion Heideggerian concept for what theory reduces things to
+- [[Hermeneutic circle]] — the circle of interpretation the fore-structure sets
 
 ## Sources
 

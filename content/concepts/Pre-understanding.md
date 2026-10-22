@@ -23,6 +23,7 @@ Heidegger's argument in §32 is that interpretation never starts from zero. It i
 
 - [[Prejudice (Vorurteil)]] — Gadamer's development of the same fore-structure into a rehabilitation of prejudice
 - [[Present-at-hand]] — the companion Heideggerian concept, also from Being and Time
+- [[Hermeneutic circle]] — the circle Heidegger's fore-structure grounds
 
 ## Sources
 
