@@ -24,3 +24,10 @@
 - Verbatim definition from abstract: "the tendency to think of oneself in terms of relationships with close others."
 - Study findings restated from the same abstract (closeness/commitment, decision-making, dyadic responsiveness).
 - Markus & Kitayama contrast scoped as the compendium's own framing (the opened source does not draw it).
+
+## Repentance (fast-track bar)
+- Opened: Spinoza, Ethics, Elwes translation (Project Gutenberg 3800-h).
+- Verbatim: "XXVII. Repentance is pain accompanied by the idea of some action, which we believe we have performed by the free decision of our mind." (Definitions of the Emotions, XXVII)
+- Verbatim: "Repentance is not a virtue, or does not arise from reason; but he who repents of an action is doubly wretched or infirm." (IV, Prop. LIV)
+- Note-to-P54 concession paraphrased, with the quoted fragment "bring more good than harm" checked in the opened text.
+- Aristotle A061 cross-reference scoped: the compendium's A061 page, not the opened Spinoza text, supplies the NE III.1 test.
