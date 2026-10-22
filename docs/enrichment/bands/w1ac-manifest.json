@@ -13,7 +13,6 @@
   "Plain-language comprehension research",
   "Pneuma",
   "Poiesis as disclosing",
-  "Polyvagal theory (Porges)",
   "Popol Vuh",
   "Positivity offset",
   "Post-conventional development",
@@ -73,5 +72,12 @@
   "Scholē",
   "Secondary control",
   "Selection by consequences"
- ]
+ ],
+ "removed_to_ct1": {
+  "moved": [
+   "Polyvagal theory (Porges)"
+  ],
+  "reason": "owner directive 2026-10-22: core theories priority band ct1",
+  "when": "2026-10-22T05:30:00Z"
+ }
 }

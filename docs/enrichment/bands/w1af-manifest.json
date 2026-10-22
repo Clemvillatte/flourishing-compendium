@@ -18,7 +18,6 @@
   "The transcendental reduction",
   "The transformation of consciousness",
   "The traveler's eye",
-  "The two-factor model of well-being",
   "The tyranny of the ideal",
   "The uncanny",
   "The undiminishing past",
@@ -57,11 +56,18 @@
   "Vā",
   "Whanaungatanga",
   "Will as multi-faceted",
-  "Wisdom theory Berlin paradigm",
   "Workaholism research",
   "World-historical individual",
   "Worry research",
   "Zhi zu (knowing sufficiency)",
   "Zhuangzi's laughter"
- ]
+ ],
+ "removed_to_ct1": {
+  "moved": [
+   "The two-factor model of well-being",
+   "Wisdom theory Berlin paradigm"
+  ],
+  "reason": "owner directive 2026-10-22: core theories priority band ct1",
+  "when": "2026-10-22T05:30:00Z"
+ }
 }

@@ -1,0 +1,18 @@
+{
+ "band": "ct1",
+ "source_queue": "queue-concepts.json",
+ "source_queue_commit": "477b0ea4",
+ "concepts": [
+  "Flourishing scale",
+  "Competence",
+  "Relatedness",
+  "Self-verification theory (Swann)",
+  "Polyvagal theory (Porges)",
+  "Dispositional optimism",
+  "Ego integrity (Erikson)",
+  "The two-factor model of well-being",
+  "Wisdom theory Berlin paradigm"
+ ],
+ "selection": "owner directive 2026-10-22 (after user message): core thinkers and core theories at the forefront of the pipeline; items are weak core-theory stubs (4-20 prose words) rescued from unworked/released bands w1r/w1s/w1ac/w1z/w1af per the w1v core-theories audit",
+ "note": "thinkers live inside theory pages (person nodes removed by owner 2026-10-22); missing-page minting (ACT, Tend-and-befriend, Positive psychology, Virtue ethics, Logotherapy, Ego development, MBSR program) queued after these 9"
+}

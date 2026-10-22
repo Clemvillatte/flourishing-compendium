@@ -1,0 +1,13 @@
+{
+ "baton": "ct1",
+ "agent": "worker-sup-1022c",
+ "clocked_in": "2026-10-22T05:18:46+00:00",
+ "takeovers": [
+  {
+   "by": "worker-sup-1022c",
+   "at": "2026-10-22T05:18:46+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}

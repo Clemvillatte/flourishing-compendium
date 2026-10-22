@@ -31,7 +31,6 @@
   "Reappraisal's effectiveness depends on controllability",
   "Redescription",
   "Reduction as return",
-  "Relatedness",
   "Repair attempts",
   "Respect",
   "Samsara",
@@ -40,7 +39,6 @@
   "Secure base",
   "Self-complexity",
   "Self-examination",
-  "Self-verification theory (Swann)",
   "Sensorimotor accounts of perception",
   "Seriousness about the play",
   "Service",
@@ -76,5 +74,13 @@
   "The interpreter module",
   "The looking-glass self",
   "The paradox of valuing a goal excessively"
- ]
+ ],
+ "removed_to_ct1": {
+  "moved": [
+   "Relatedness",
+   "Self-verification theory (Swann)"
+  ],
+  "reason": "owner directive 2026-10-22: core theories priority band ct1",
+  "when": "2026-10-22T05:30:00Z"
+ }
 }

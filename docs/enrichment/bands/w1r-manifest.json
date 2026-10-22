@@ -6,7 +6,6 @@
   1220
  ],
  "concepts": [
-  "Competence",
   "Conformity",
   "Construal-level theory",
   "Contextual intelligence",
@@ -38,7 +37,6 @@
   "Facial feedback",
   "Filial piety",
   "Flourishing as capability",
-  "Flourishing scale",
   "Flower and song",
   "Goal-directed attention",
   "Government of the people",
@@ -76,5 +74,13 @@
   "Mindfulness's clarity mechanism",
   "Mood-congruent memory",
   "Moral universals research"
- ]
+ ],
+ "removed_to_ct1": {
+  "moved": [
+   "Competence",
+   "Flourishing scale"
+  ],
+  "reason": "owner directive 2026-10-22: core theories priority band ct1",
+  "when": "2026-10-22T05:30:00Z"
+ }
 }

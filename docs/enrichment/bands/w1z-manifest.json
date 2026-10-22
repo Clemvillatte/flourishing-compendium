@@ -39,7 +39,6 @@
   "Discernment of spirits",
   "Dispositional awe",
   "Dispositional mindfulness",
-  "Dispositional optimism",
   "Divided attention theory",
   "Domination critique",
   "Duck-rabbit seeing-as",
@@ -50,7 +49,6 @@
   "Ecological rationality",
   "Ecological spirituality",
   "Effort-recovery cycles",
-  "Ego integrity (Erikson)",
   "Ego strength",
   "Eidos",
   "Elpis (hope)",
@@ -73,5 +71,13 @@
   "Expectation fulfilment theory of dreaming",
   "Expectation-disconfirmation",
   "Experiential purchases"
- ]
+ ],
+ "removed_to_ct1": {
+  "moved": [
+   "Dispositional optimism",
+   "Ego integrity (Erikson)"
+  ],
+  "reason": "owner directive 2026-10-22: core theories priority band ct1",
+  "when": "2026-10-22T05:30:00Z"
+ }
 }
