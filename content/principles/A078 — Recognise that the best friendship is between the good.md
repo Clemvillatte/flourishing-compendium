@@ -12,18 +12,34 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 78** — Recognise that the best friendship is between the good
 
-The principle's source is Aristotle's account of the kinds of friendship in NE VIII: friendships of utility and pleasure are incidental, ending when the advantage or pleasure ends, while the friendship of the good is for the friend's own sake.
+Aristotle distinguishes friendships grounded in usefulness, pleasure and good character. He ranks the last kind highest:
 
-> Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves. Now those who wish well to their friends for their sake are most truly friends; for they do this by reason of own nature and not incidentally; therefore their friendship lasts as long as they are good-and goodness is an enduring thing. (NE VIII, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html))
+> Perfect friendship is the friendship of men who are good, and alike in virtue; for these wish well alike to each other qua good, and they are good themselves.
+> (Nicomachean Ethics VIII.3, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html).)
 
-Aristotle adds that such friendships are infrequent because such men are rare, and that they require time and familiarity: "men cannot know each other till they have 'eaten salt together'" (VIII). The principle's directive follows as an application: if you want good friends, become a good person.
+This friendship is also useful and pleasant; those benefits do not disqualify it. Its ground is the friend's character, rather than a benefit that disappears when circumstances change. Aristotle says it requires time, familiarity and tested trust, not just a quick wish to become friends ([VIII.3–4](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html)).
 
-(NE VIII.3, VIII.4, IX.5; EE VII.2.)
+Bennett Helm's scholarly account raises a further question: does admiring good character sufficiently explain caring for this particular person? The relation between valuing someone's qualities and valuing the person remains philosophically contested ([Stanford Encyclopedia of Philosophy, §§1.1–1.2](https://plato.stanford.edu/entries/friendship/)).
 
-**Plain words**
-Aristotle asks why two people value each other. Some value what they get done together; some value the fun; and some value the person themselves, for their own sake. The first two are real, and both end when the use or the fun ends. The third kind lasts, as Aristotle says, as long as they are good.
+### Plain words
 
-*For example:* Think of a friendship that survived a bad year on your side, and ask why the other person stayed. If the answer is about who you are rather than what the friendship provides, that is the kind he means.
+Ask whether your concern extends beyond what someone supplies to you. Enjoying their company and helping each other can belong to that concern. You need not grade every relationship against an ideal before offering kindness, nor turn a friend into a project for your own improvement.
+
+### For example
+
+Imagine that a friend admits acting unfairly at work. You might listen, encourage an honest correction and decline to help conceal it. Caring for the person need not mean endorsing the action. This is a proposed application, not a test that certifies either person's virtue.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VIII.2–4 and 8, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.8.viii.html): grounds of friendship, time and familiarity, and refusing wrongful services.
+- [Bennett Helm, "Friendship", Stanford Encyclopedia of Philosophy, §§1.1–1.2](https://plato.stanford.edu/entries/friendship/): mutual caring and the problem of valuing a particular person.
+- Aristotle, Nicomachean Ethics IX.5; Eudemian Ethics VII.2: further reading.
+
+## Related concepts
+
+- [[Philia]]: Aristotle's friendship vocabulary.
+- [[Friendship]]: the broader philosophical discussion.
+- [[Eudaimonia]]: the question of flourishing to which friendship contributes.
 
 ## Stories
 
