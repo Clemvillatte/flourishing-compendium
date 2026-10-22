@@ -13,9 +13,9 @@ The full range of the soul is the compendium's name for what Aristotle's definit
 
 ### Why "soul" and not "behavior"
 
-Aristotle's word for what flourishes is psyche, soul, the living person's whole set of capacities: the rational, the desiring that can listen to reason, the bodily feelings that accompany both. The definition's structure takes the range seriously. A good life is activity of soul, so it cannot be reduced to a single metric, pleasure, comfort, achievement, because the soul has more than one excellence, and the clause "if there are more than one virtue" instructs that each be exercised, the best and most complete included. One excellence, honed alone, is a partial reading of the definition, the way a lyre-player who plays only one string is not yet a good lyre-player.
+Aristotle's word for what flourishes is psyche, soul, the living person's whole set of capacities: the rational, the desiring that can listen to reason, the bodily feelings that accompany both. The definition's structure takes the range seriously. A good life is activity of soul, so it cannot be reduced to a single metric, pleasure, comfort, achievement, because the soul has more than one excellence, and the clause "if there are more than one virtue" instructs that each be exercised, the best and most complete included. On the inclusive reading the compendium favors, one excellence honed alone is a partial reading of the definition, since the clause asks for the best and most complete exercise, not the most convenient one.
 
-The compendium pairs the concept with the modern finding that emotional life has a range worth keeping: a full soul registers the whole scale, and flourishing measured on it is fuller than flourishing measured on satisfaction alone.
+The compendium pairs the concept with its emodiversity principle: a full soul registers the whole scale, and flourishing measured on it is a richer thing than flourishing measured on satisfaction alone.
 
 ### In the compendium
 

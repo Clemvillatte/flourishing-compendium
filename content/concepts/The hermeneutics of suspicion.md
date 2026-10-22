@@ -13,9 +13,9 @@ The hermeneutics of suspicion is Paul Ricoeur's name, from Freud and Philosophy,
 
 ### What suspicion reads for
 
-Each master decoded a different hiding place: Marx, interests dressed as ideals; Nietzsche, weakness dressed as virtue; Freud, wishes dressed as reasons. What they share, in Ricoeur's formulation, is the pairing of suspicion with an interpretive art; the suspicion is not the end point but the instrument. The Stanford Arcade summary of Ricoeur's opening pages quotes the structure: interpretation splits into two "interpretations of interpretation," the one "as recollection of meaning, the other as the reduction of illusions and lies of consciousness," with the three masters dominating the second school. The reading practice that results asks, of any self-description, whose interest it serves, what it cannot say, and what the surface's smoothness is doing.
+What the three share, in Ricoeur's formulation, is the pairing of suspicion with an interpretive art; the suspicion is not the end point but the instrument. The reading practice that results asks, of any self-description, whose interest it serves and what the surface's smoothness is doing.
 
-The compendium treats suspicion as a tool with a scope, not a worldview. Paired with the hermeneutics of faith, it becomes critical distance: read the surface twice, once with sympathy and once with suspicion, and the gap between the readings is where understanding starts.
+The compendium treats suspicion as a tool with a scope, not a worldview. Paired with the hermeneutics of faith, it becomes critical distance: read the surface with sympathy and with suspicion in turn, and the gap between the two readings is where understanding starts.
 
 ### In the compendium
 
@@ -32,7 +32,6 @@ The compendium treats suspicion as a tool with a scope, not a worldview. Paired 
 ## Sources
 
 - [Ricoeur quotes (Wikiquote)](https://en.wikiquote.org/wiki/Paul_Ric%C5%93ur) — 'false consciousness' sentence (Freud and Philosophy, p. 33) verified verbatim
-- [Stanford Humanities Center, From Suspicion to Solidarity](https://shc.stanford.edu/arcade/interventions/suspicion-solidarity) — two interpretations of interpretation, masters of suspicion passage
 
 - Ricoeur, Freud and Philosophy
 

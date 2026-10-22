@@ -11,7 +11,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 
 The theory extends the psychology of individual mental models to teams. Its founding statement is the Cannon-Bowers, Salas and Converse chapter of 1993, and the definition later papers quote runs:
 
-> "knowledge structures held by team members that enable them to form accurate explanations and expectations for the task, and in turn, coordinate their actions and adapt their behaviour to the demands of the task and other team members" (Cannon-Bowers et al. 1993, quoted in [Crema et al., helicopter pilots' views of air traffic controllers](https://pure.coventry.ac.uk/ws/portalfiles/portal/13702448/Online_Authors_Post_Print_Version.pdf))
+> "knowledge structures held by team members that enable them to form accurate explanations and expectations for the task, and in turn, coordinate their actions and adapt their behaviour to the demands of the task and other team members" (Cannon-Bowers et al. 1993, quoted in [helicopter pilots' views of air traffic controllers, Coventry University repository](https://pure.coventry.ac.uk/ws/portalfiles/portal/13702448/Online_Authors_Post_Print_Version.pdf))
 
 ### What makes the models work
 
@@ -35,7 +35,7 @@ Affect · Psychological science
 
 ## Sources
 
-- [Crema et al., helicopter pilots' views of air traffic controllers (Coventry repository)](https://pure.coventry.ac.uk/ws/portalfiles/portal/13702448/Online_Authors_Post_Print_Version.pdf) — Cannon-Bowers et al. 1993 definition and compatible-models implication
+- [Helicopter pilots' views of air traffic controllers (Coventry University repository)](https://pure.coventry.ac.uk/ws/portalfiles/portal/13702448/Online_Authors_Post_Print_Version.pdf) — Cannon-Bowers et al. 1993 definition and compatible-models implication
 - [National Academies, Human-AI Teaming chapter 3](https://www.nationalacademies.org/read/26355/chapter/5) — contents of shared mental models, team mental model
 
 - Cannon-Bowers, Salas and Converse, 1993, in Individual and Group Decision Making: Current Issues (ed. Castellan), pp. 221-246

@@ -21,7 +21,7 @@ The compendium reads the portrait as a practice target: the moments when one act
 
 ### In the compendium
 
-- [[E075 — Practise the free man (l'homme libre)]] — the exemplar as a practice principle
+- [[E075 — Practise the free man (l'homme libre)]] — the practice principle, whose title carries de Beauvoir's French term for her own account of the free man
 
 ## Related concepts
 

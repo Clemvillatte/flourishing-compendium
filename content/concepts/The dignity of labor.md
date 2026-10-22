@@ -7,7 +7,7 @@ file: "The dignity of labor"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The dignity of labor is John Dewey's claim, in Democracy and Education, that work belongs to the educative life of a person rather than serving as its payment plan. His chapter on the vocational aspects of education attacks the sorting of children into laborers and gentlemen, and the sentence that carries the concept has become the book's most quoted:
+The dignity of labor is John Dewey's claim, in Democracy and Education, that work belongs to the educative life of a person, not to its payment plan. His chapter on the vocational aspects of education attacks the sorting of children into laborers and gentlemen, and the sentence that carries the concept reads:
 
 > "The dominant vocation of all human beings at all times is living — intellectual and moral growth." (Dewey, [Democracy and Education, chapter 23](https://standardebooks.org/ebooks/john-dewey/democracy-and-education/text/chapter-23), 1916)
 

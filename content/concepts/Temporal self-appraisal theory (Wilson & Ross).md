@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Temporal self-appraisal theory is Anne Wilson and Michael Ross's account of how people use their past selves as material for feeling good now. The theory's engine is subjective temporal distance: how far away a past period feels, a feeling that tracks its meaning for the present rather than the calendar. Their 2003 review states the claim:
 
-> "People generally view themselves as improving over time, relative to their peers. We suggest that this sense of improvement is sometimes illusory, and motivated by the desire to enhance the current self." (Ross and Wilson, [Autobiographical Memory and Conceptions of Self](https://www.psychologicalscience.org/journals/current-directions/1467-8721.01228/), Current Directions in Psychological Science 12(3), 2003)
+> "People generally view themselves as improving over time, relative to their peers. We suggest that this sense of improvement is sometimes illusory, and motivated by the desire to enhance the current self." (Ross and Wilson, [Autobiographical Memory and Conceptions of Self](https://www.psychologicalscience.org/journals/current-directions/1467-8721.01228/), Current Directions in Psychological Science, 2003)
 
 ### How the distance bends
 

@@ -12,13 +12,14 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 The looking-glass self is Charles Horton Cooley's account, from Human Nature and the Social Order (1902), of how the social self is built. We come to know ourselves the way we come to know our face: by imagining it as it appears to another. The book's own statement:
 
-> "As we see our face, figure, and dress in the glass, and are interested in them because they are ours, and pleased or otherwise with them according as they do or do not answer to what we should like them to be; so in imagination we perceive in another's mind some thought of our appearance, manners, aims, deeds, character, friends, and so on, and are variously affected by it." (Cooley, [Human Nature and the Social Order](https://archive.org/stream/humannaturesocia00cooluoft/humannaturesocia00cooluoft_djvu.txt), 1902, ch. 5 "The Social Self")
+> "Each to each a looking-glass
+> Reflects the other that doth pass." (Cooley, [Human Nature and the Social Order](https://archive.org/stream/humannaturesocia00cooluoft/humannaturesocia00cooluoft_djvu.txt), 1902, ch. 5 "The Social Self")
 
 ### The three elements
 
-Cooley breaks the reflection into steps, and his list is the concept's durable core: "A self-idea of this sort seems to have three principal elements: the imagination of our appearance to the other person; the imagination of his judgment of that appearance, and some sort of self-feeling, such as pride or mortification." He is careful about what the mirror metaphor hides: "The comparison with a looking-glass hardly suggests the second element, the imagined judgment, which is quite essential. The thing that moves us to pride or shame is not the mere mechanical reflection of ourselves, but an imputed judgment." The self-feeling answers the imagined verdict, not the reflection.
+Cooley breaks the reflection into steps, and his list is the concept's durable core: a self-idea of this sort has three principal elements, the imagination of our appearance to the other person, the imagination of his judgment of that appearance, and some sort of self-feeling, such as pride or mortification. He is careful about what the mirror metaphor hides: "The comparison with a looking-glass hardly suggests the second element, the imagined judgment, which is quite essential. The thing that moves us to pride or shame is not the mere mechanical reflection of ourselves, but an imputed judgment." The self-feeling answers the imagined verdict, not the reflection.
 
-The verse Cooley set over the passage gives the reciprocal form: "Each to each a looking-glass / Reflects the other that doth pass." The compendium's use is both insight and caution. The insight is that the self is socially fed; the caution is that the mirror is imagined, so a self built wholly on it is built on guesses, and those guesses can be examined rather than obeyed.
+The compendium's use is both insight and caution. The insight is that the self is socially fed; the caution is that the mirror is imagined, so a self built wholly on it is built on guesses, and those guesses can be examined rather than obeyed.
 
 ### In the compendium
 
@@ -28,7 +29,7 @@ The verse Cooley set over the passage gives the reciprocal form: "Each to each a
 
 ## Related concepts
 
-- [[Taking the role of the other]] — Cooley's neighboring account of the social self
+- [[Taking the role of the other]] — the compendium's page on the role-taking idea, placed here as a neighbor
 - [[The social self]] — Cooley's version of the same idea
 - [[Social validation]] — the giving side of the imagined judgment
 

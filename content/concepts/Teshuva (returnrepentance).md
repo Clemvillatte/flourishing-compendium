@@ -13,9 +13,9 @@ Teshuva is the Jewish practice of return. The word comes from the root shuv, to 
 
 ### The steps in order
 
-Maimonides' definition has the repentant person do three things: abandon the sin, regret it, and then say out loud what has been resolved in the heart. The confession matters because it makes the turn public to oneself; the regret matters because teshuva is not complete without sorrow over the past; and the resolution matters most, because the future is what the turning is for. He adds a demanding standard of proof: the repentant person must reach the level where "He who knows the hidden will testify concerning him that he will never return to this sin again." The same situation, the person, the opportunity, and the sin does not recur; only then has the return happened.
+Maimonides' definition has the repentant person leave the sin behind and regret it, and then say out loud what has been resolved in the heart. The resolution carries the weight, because the future is what the turning is for, and he adds a demanding standard: the repentant person must reach the level where "He who knows the hidden will testify concerning him that he will never return to this sin again." How that standard is read, and how strictly the tradition applies it, is discussed in the surrounding chapters of the Laws of Repentance.
 
-The practice also carries the tradition's leniency toward the repentant. Teshuva is available at any moment and requires no intermediary, which is why the compendium pairs it with repair behaviours and with self-forgiveness: the turn is toward the relationship or the life one left, and the past's unchangeability is met with regret and amends rather than endless self-punishment.
+The compendium pairs the practice with repair behaviours and with self-forgiveness: the turn is toward the relationship or the life one left, and the past's unchangeability is met with regret and amends rather than endless self-punishment.
 
 ### In the compendium
 
@@ -25,7 +25,7 @@ The practice also carries the tradition's leniency toward the repentant. Teshuva
 
 ## Related concepts
 
-- [[Fu (return)]] — the Confucian tradition's own concept of return
+- [[Fu (return)]] — a neighboring tradition's concept of return
 - [[The returning practice]] — the compendium's generic return practice
 - [[The noticing-wandering-returning cycle in meditation]] — the contemplative form of the same movement
 
