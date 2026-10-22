@@ -7,21 +7,25 @@ file: "The serenity prayer"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The serenity prayer is Reinhold Niebuhr's three-part petition: accept what cannot be changed, change what should be changed, and know which is which. It is best known through Alcoholics Anonymous, which prints it as "God grant me the serenity to accept the things I cannot change, courage to change the things I can, and the wisdom to know the difference."
+The serenity prayer is Reinhold Niebuhr's three-part petition: accept what cannot be changed, change what should be changed, and know which is which. It is best known through Alcoholics Anonymous, whose version the Yale Alumni Magazine's investigation records as:
+
+> "God grant me the serenity to accept the things I cannot change, courage to change the things I can and wisdom to know the difference."
+> — the Alcoholics Anonymous wording, recorded in [Yale Alumni Magazine, 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html)
+
+Niebuhr's own preferred version, according to his daughter Elisabeth Sifton, runs differently:
 
 > "God, give us grace to accept with serenity the things that cannot be changed, courage to change the things that should be changed, and the wisdom to distinguish the one from the other."
-> — the 1943 version, in [Elisabeth Sifton's account](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html)
+> — the 1943 version, in [Sifton's account via Yale Alumni Magazine](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html)
 
-The interesting word is serenity, not courage or wisdom. The prayer asks for calm first, which suggests the hardest part is not acting but not acting when acting would only churn.
+The two differences are small and telling. Niebuhr's version asks for grace, and says "should be changed" rather than "can". Both versions pair acceptance with action, and both ask for the judgement to tell their occasions apart.
 
 ### The authorship question
 
-Niebuhr, a theologian at Union Theological Seminary, used the prayer in a 1943 sermon in Heath, Massachusetts, according to his daughter Elisabeth Sifton's account. The Yale Alumni Magazine's investigation records that he himself conceded the possibility of having assimilated the concept from an earlier, forgotten source, while maintaining that he believed he had originated it. The most commonly quoted "grant me" wording is the Alcoholics Anonymous adaptation, not Niebuhr's own sentence.
+Sifton records that her father composed the prayer in the summer of 1943, in Heath, Massachusetts, and first used it in an ordinary Sunday morning service at the Heath Union Church that summer. The prayer has long drawn doubts about its authorship, and Niebuhr's own answer was modest. He conceded the possibility of having assimilated the concept from some earlier, forgotten source, while saying he believed he had originated it. Alcoholics Anonymous adopted the prayer during or soon after the Second World War, and did not at first attribute it to anyone.
 
 ## Sources
 
-- [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the opened carrier of the 1943 version, the Sifton account of the 1943 Heath sermon, and Niebuhr's own statement on authorship.
-- [Wikipedia, Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer) — the Alcoholics Anonymous wording and the adoption history.
+- [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the opened carrier of the 1943 version, the AA wording, Sifton's account of the 1943 Heath sermon, and Niebuhr's own statement on authorship.
 
 ## Cited in psychology parallels
 
