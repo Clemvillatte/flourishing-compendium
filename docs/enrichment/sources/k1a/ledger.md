@@ -121,3 +121,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - Protocol is labelled as the compendium's review form; the simile's own questions carry the steps. The seed's "no longer earns its keep" is labelled editorial; no empirical claim is made (the page states the simile is a teaching image, not a trial).
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K150 — Values card-sort (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: the original Personal Values Card Sort PDF from UNM CASAA (downloaded directly with curl, text extracted with pypdf; pile headers "IMPORTANT TO ME / VERY IMPORTANT TO ME / NOT IMPORTANT TO ME" and card wording such as "AUTONOMY, to be self-determined and independent" read from the raw PDF text) and the SAMHSA TIP 39 update Chapter 3 (NBK571068, fetched; the sorting instructions and the discrepancy-outcome line quoted from the fetched text).
+- The three piles, the deck and the top-ten step are anchored on the opened sources; the solo-use sentence-writing and the discrepancy-watching are labelled as the clinical tradition's moves, not invented steps.
+- The outcome line ("Client experience of discrepancy between values and substance use behavior is related to better client outcomes (Apodaca & Longabaugh, 2009)") is stated as belonging to values work in counseling sessions, not to the card sort as a standalone intervention; the page explicitly records that direct trial evidence for the sort alone is not opened here. A SIU randomized pilot in undergraduates (search result, not opened) was NOT cited, per the zero-hallucination rule; noted here for the supervisor as a candidate for a future evidence pass.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
