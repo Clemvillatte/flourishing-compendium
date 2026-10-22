@@ -9,7 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Karuna (Pali; Sanskrit karuṇā) is compassion — the second of the four brahmaviharas: the wish to relieve suffering when it is seen. Where metta wishes all beings well, karuna responds to their pain; the Pali glosses distinguish them as the desire to bring happiness (metta) and the desire to remove harm (karuna).
 
-The compendium's reading (principles B052, B099, B100): karuna is compassion in action — not pity (which looks down) but the wish to relieve, kept free of the near enemy of pity (B100). It grounds the Mahāyāna expansion: the bodhisattva vow to engage the world's suffering (B156) and the ethical baseline that protecting others, you protect yourself (B157). The Dhammapada's famous line (B162): hatred never ceases by hatred; hatred ceases by love.
+The compendium's reading (principles B052, B099, B100): karuna is compassion in action — not pity (which looks down) but the wish to relieve, kept free of the near enemy of pity (B100). It grounds the Mahāyāna expansion: the bodhisattva vow to engage the world's suffering (B156) and the ethical baseline that protecting others, you protect yourself (B157). The Dhammapada's eternal law (v. 5, cited by B162): hatred is never appeased by hatred; by non-hatred alone is hatred appeased.
+
+> "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal." (Dhammapada 5, trans. Acharya Buddharakkhita, [AccessToInsight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
 Karuna's cross-tradition family is the compassion-traditions: the Christian misericordia, the Daoist ci (D031), the Dalai Lama's universal responsibility, and psychology's compassion-focused therapy. What distinguishes karuna is its pairing with wisdom — compassion without insight becomes empathic distress; insight without compassion becomes detachment.
 
@@ -24,9 +26,9 @@ Karuna's cross-tradition family is the compassion-traditions: the Christian mise
 - [[Four immeasurables]] — karuna is the second of the four immeasurables
 ## Sources
 
-- Buddhist tradition, Four Brahmaviharas
-- Santideva, Bodhicaryavatara
-- Buddha, Dhammapada
+- Dhammapada, chapter 1 (Yamakavagga: Pairs), verse 5, translated from the Pali by Acharya Buddharakkhita, AccessToInsight: [accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
+- Santideva, Bodhicaryavatara (listed in prior sources; not quoted in the body, no carrier opened)
+- Four Brahmaviharas (Buddhist tradition; carried from the page's prior sources)
 
 - [[D031 — Treasure 1 — compassion (ci)]]
 - [[D125 — Be good to the good and the not-good]]
