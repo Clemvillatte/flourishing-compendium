@@ -93,8 +93,8 @@
 - Source opened: Goldstone 1998 author-hosted PDF (pcl.sitehost.iu.edu) via fetch — abstract sentence and p. 586 definition quoted verbatim; four mechanisms from the abstract; differentiation detail sentence from the same abstract text.
 - Validator: ok (fast-track). Advisor QC: not due (item 16; next due item 20).
 
-## Problem vs. mystery (completed prior-session draft, 2026-10-22)
-- Found fully drafted in content/ (prior session died before state update; band item was still outstanding). All blockquotes verified against the opened SEP Marcel entry (Treanor & Sweetman): the p.117 problem/mystery passage, "problem that encroaches on its own data", and the evil passage all confirmed verbatim.
+## Problem vs. mystery (existing draft completed and verified, 2026-10-22)
+- Found already drafted in content/ with no done entry in the band state; how it came to exist is unknown — only the observed state is recorded here. All blockquotes verified against the opened SEP Marcel entry (Treanor & Sweetman) in two targeted fetches: the p.117 problem/mystery passage, "problem that encroaches on its own data", the evil passage, the common-property quote (1951a, p. 213), "the mysterious is not the unknowable" (1949, p. 118), the participation-hinge sentence, and the broken world quote (1995, p. 12).
 - Validator: ok (fast-track). Marked done. (Satori start earlier was a bogus state — not in band manifest — cleared by starting this item.)
 
 ## Prehension (fast-track, 2026-10-22)
@@ -110,3 +110,7 @@
 ## Advisor milestone QC items 16-19 (2026-10-22)
 - Verdict: all four FAIL pending repairs (quote anchors all pass). Repairs applied: Perceptual learning (single blockquote, removed "not just" construction and seed commentary, differentiation interpretation removed, B137/Y077 narrowed to listing facts); Prehension (SEP cited for the philosophical account, Wikipedia for Latin derivation only, origin claim removed); Prospect theory (superlative removed, value-function language restored, seed's Tversky & Kahneman 1992 and Related concepts restored, scope qualified to sure gains/losses); Problem vs. mystery (remaining quotes re-verified against SEP in a second targeted fetch; ledger provenance corrected: draft existed in content/ with no done entry — prior session's fate unknown, only the observed state recorded).
 - Also applied: Placebo effects "Other formulations" line corrected (legacy formulation flagged unverified rather than attributed to Kaptchuk 2008, which measured symptom outcomes); Justice sensitivity beneficiary-progression claim removed (relabeling history not verified).
+
+## Final verification pass (2026-10-22, pre-final save)
+- Advisor re-verification of the repair set: remaining blockers fixed — production commentary ("The seed's citation is...", "opened to confirm", "retained") removed from all public prose; Perceptual learning: "field's standard synthesis" and B137 characterization removed; Prehension: attribution split (SEP for the philosophical account, Wikipedia for etymology only), P003/P072 listing verified by inspection of the principle pages; Problem vs. mystery: secondary-reflection explanation removed, related-concept glosses removed (links kept), ledger provenance corrected; Prospect theory: superlative and pleasure/pain gloss removed, CO031 related-concept entry restored, Tversky & Kahneman 1992 retained in Sources, seed line rephrased as "the library's line"; Placebo effects: interpretive bridge removed, legacy caveat phrased as citation limitation; Justice sensitivity: seed commentary removed, founding-paper phrasing.
+- Validator on the final revision: ok, 0 failed (gated run, log at /tmp/w1v-v2.log).

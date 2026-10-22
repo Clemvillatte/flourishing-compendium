@@ -15,14 +15,14 @@ Marcel's clearest formulation:
 
 A problem's solver is interchangeable. The broken watch is the same watch whoever opens it, and the fix is "common property, that consequently can, at least in theory, be rediscovered by anybody at all" ([Marcel 1951a, p. 213, in SEP](https://plato.stanford.edu/entries/marcel/)). A mystery resists this. Marcel calls it a "problem that encroaches on its own data" ([Marcel 1995, p. 19, in SEP](https://plato.stanford.edu/entries/marcel/)): the data of the question include the person asking it. Evil is his worked example: "Evil which is only stated or observed is no longer evil which is suffered: in fact, it ceases to be evil. In reality, I can only grasp it as evil in the measure in which it *touches* me—that is to say, in the measure in which I am *involved*" ([Marcel 1995, p. 19, in SEP](https://plato.stanford.edu/entries/marcel/)). A mystery is not a problem you happen not to have solved yet: "The mysterious is not the unknowable, the unknowable is only the limiting case of the problematic" ([Marcel 1949, p. 118, in SEP](https://plato.stanford.edu/entries/marcel/)).
 
-The distinction is not a counsel of vagueness. Marcel's secondary reflection is a discipline for thinking about mysteries without pretending the thinker stands outside them. Treanor and Sweetman, in the Stanford Encyclopedia, read the distinction as hinging on "the notion of participation," and tie it to Marcel's picture of the modern broken world as "on the one hand, riddled with problems and, on the other, determined to allow no room for mystery" ([Marcel 1995, p. 12, in SEP](https://plato.stanford.edu/entries/marcel/)).
+Treanor and Sweetman, in the Stanford Encyclopedia, read the distinction as hinging on "the notion of participation," and tie it to Marcel's picture of the modern broken world as "on the one hand, riddled with problems and, on the other, determined to allow no room for mystery" ([Marcel 1995, p. 12, in SEP](https://plato.stanford.edu/entries/marcel/)).
 
 ## Related concepts
 
-- [[Participation]] — the stance that fits a mystery, since the inquirer is involved in what is asked.
-- [[Availability]] — the interpersonal shape of not treating another person as a problem to manage.
-- [[Fidelity]] — Marcel's account of a commitment that stays alive by renewing presence.
-- [[Being-in-the-world]] — the Heideggerian parallel to involvement as a condition of inquiry.
+- [[Participation]]
+- [[Availability]]
+- [[Fidelity]]
+- [[Being-in-the-world]]
 
 ## Sources
 
