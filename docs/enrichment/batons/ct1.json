@@ -39,5 +39,7 @@
    "from": "worker-pplc-1022-34c9b8e1",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T11:38:50+00:00"
 }
