@@ -29,7 +29,7 @@ The theory is the ancestor of a whole research line on ritual and synchrony, fro
 
 ## Sources
 
-- [Durkheim, Émile, The Elementary Forms of the Religious Life (1912; Swain translation 1915), Book III, ch. IV, open full text](https://studfile.net/preview/16670754/page:12/) — the effervescence passages quoted verbatim.
+- [Durkheim, Émile, The Elementary Forms of the Religious Life (1912; Swain translation 1915), the effervescence passages, open full text](https://studfile.net/preview/16670754/page:12/) — quoted verbatim.
 
 ## Field
 
