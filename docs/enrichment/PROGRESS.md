@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-22 03:43 UTC (input revision `ffc468ff0`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 04:43 UTC.
+As of 2026-10-22 06:09 UTC (input revision `7c09418f3`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 07:09 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-22 03:43 UTC (input revision `ffc468ff0`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 1306 | 947 | 2253 | 58.0% |
-| **Combined** | **3477** | **959** | **4436** | **78.4%** |
+| Concepts | 1333 | 922 | 2255 | 59.1% |
+| **Combined** | **3504** | **934** | **4438** | **79.0%** |
 
 ## Stories (separate pipeline)
 
@@ -18,13 +18,13 @@ Published story pages (content/stories/ST*.md): 433. The per-lane rows below are
 
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
-| s1a | 0 | 8 | 19 | 2 |
+| s1a | 0 | 10 | 21 | 3 |
 | s1b | 0 | 9 | 0 | 3 |
 | s1c | 0 | 38 | 0 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
 | s1f | 0 | 2 | 0 | 0 |
-| **All lanes** | **5** | **64** | **25** | **5** |
+| **All lanes** | **5** | **66** | **27** | **6** |
 
 ## Principles by forest
 
