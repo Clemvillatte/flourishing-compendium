@@ -284,3 +284,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - What the evidence does not test is stated on the page: taped seated postures in a laboratory stress task, not a stand-up reset between activities; outcomes were affect and cardiovascular responses, not attention. The seed's "body is part of cognition" framing is labelled the practice's rationale, and the page notes the trial's manipulation was seated.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (front matter copied verbatim from the seed).
+
+## K204 — Phone-free first and last hour (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Chang, Aeschbach, Duffy & Czeisler 2015 (PNAS 112(4):1232-1237), abstract verified raw against the NCBI efetch API (PMID 25535358, fetched directly).
+- The blockquote matches the raw abstract verbatim: the LE-eBook versus printed book results sentence.
+- What the evidence does not test is stated on the page: the study compared evening reading on a light-emitting device with a printed book; it did not test a phone-free hour, and the morning half of the rule is explicitly labelled the practice's own rationale, as is the own-terms framing. The evening half of the rule is the half the study bears on.
+- Front-matter file-field typo introduced during drafting (dropped the "K204 — " prefix) was caught and corrected before validation and commit.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed (front matter otherwise verbatim from the seed).
