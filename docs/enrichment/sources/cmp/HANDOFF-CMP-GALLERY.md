@@ -11,7 +11,8 @@ Local commits (not on origin/main):
 - 802db6b09 "academy: cmp gallery +8 verified sessions (47->55), omm/lkm/zen/walking gaps filled"
 - 0a9233eb7 "academy: cmp handoff" (superseded by later rewrites)
 - 2639b9f16 "academy: cmp ledger/handoff corrections (zen buckets, attribution note) + evidence preserved"
-- plus the handoff-status correction commit
+- 56136538b "academy: cmp handoff status correction (checkpoint, release blockers)"
+- (the hash of any later handoff-only commit appears in git log)
 
 Git relationship: local main is NOT rebased onto current origin/main.
 Local main sits on my last pushed commit (de9a4377c) plus the commits
