@@ -112,3 +112,35 @@ All seven pages pass `scripts/enrich_validate.py` (7 checked, 0 failed) after th
   p. 209 -> p. 210.
 - 2 cosmetic notes (no action required): Saracino quote ellipsis style on
   Meaning-centred therapy; ct1-band pages were checked read-only (band held, stale).
+
+## Addendum (second round, ~06:35-06:45Z)
+
+### Dispositional optimism.md (ct1, stale-held; read-only check, no edits) — QUOTES PASS
+- Abstract quote ("This article describes a scale measuring dispositional optimism...") — verbatim
+  against the full-text PDF (pdftotext),
+  [deempathischeorganisatie.nl PDF](https://www.deempathischeorganisatie.nl/wp-content/uploads/2020/02/Beroemd-artikel-van-Scheier-en-Carver-uit-1985-over-de-effecten-van-optimisme.pdf).
+- Expectancy-effort quote (p. 222) — verbatim, same carrier.
+- The four-week undergraduate symptom study claim (pp. 219-220) — grounded verbatim in the
+  abstract ("subjects who initially reported being highly optimistic were subsequently less
+  likely to report being bothered by symptoms (even after correcting for initial
+  symptom-report levels)").
+
+### Logotherapy.md (maintenance, released) — QUOTES PASS
+- All six quoted strings (Third Viennese School, will-to-meaning summary and strong
+  formulation, paradoxical-intention sentence, three-ways passage, last-of-the-human-freedoms
+  quote) — verbatim against the
+  [Wikipedia Logotherapy article](https://en.wikipedia.org/wiki/Logotherapy). The page
+  honestly labels the Frankl passages as quoted-as-they-appear-in-Wikipedia rather than
+  from the book directly.
+
+### Ego development.md (maintenance, released) — NOT VERIFIED THIS ROUND (open QC item)
+- The cited carrier (Wikipedia, "Loevinger's stages of ego development") could not be
+  re-opened: Wikipedia rate-limited the fetch (429). The page's quotes were already
+  re-labelled by the supervisor's own QC round (commit d453cb0f4) as the article's
+  summaries rather than direct Loevinger quotes. Flag for the next verifier: re-open the
+  Wikipedia article and character-check the ego-as-process, sequentiality and stage
+  description quotes.
+
+## Final state
+All commits pushed and verified on origin/main; maintenance baton taken (released),
+used for the locator fix, and released. Final commit: af46fa6ec.
