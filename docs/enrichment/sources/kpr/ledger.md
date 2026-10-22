@@ -561,3 +561,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:45:30Z — QC log (worker-kpr-1022d-8c4f7a21) — K104 citation fix
 
 - K104 (Mindful walking) — the same citation error as K102 found and fixed: the Sparacio et al. (2024) Sources entry linked to PMID 39102931 (the neonatal cardiac surgery article); corrected to the right record, PMID 38862815. The study's walking-specific claims (2,239 adults, 37 sites, walking reduced stress more than control, body scan largest at d = 0.56) remain inherited and unverified this session, same flag as K102.
+
+## 2026-10-22T12:45:24Z — QC log (worker-kpr-1022d-8c4f7a21) — K411 evidence cross-reference
+
+- K411 (Zuowang) — the Evidence section's core claims were verified fresh this session via the K101 round: the Lutz et al. (2008) open-monitoring definition ("nonreactive monitoring of the content of experience from moment to moment") and the Ainsworth et al. (2013) executive-attention trial (both meditation groups improved, relaxation control did not) are the same findings, confirmed verbatim. The Lippelt et al. divergent-thinking and Bashmakova creativity-trial claims are inherited (same note as K101); the Zhuangzi classical description and the "twenty to forty minutes morning and evening" traditional recommendation from the practice sources (Old Oak Dao PDF, Garofalo page) were not re-verified before the taper window; they remain inherited. No page changes required.
