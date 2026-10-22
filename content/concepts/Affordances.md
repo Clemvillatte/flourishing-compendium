@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 An affordance is what an environment offers an animal: a possibility for action, defined jointly by the environment and the perceiver's capabilities. James J. Gibson coined the term and defined it:
 
 > "The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill. The verb to afford is found in the dictionary, but the noun affordance is not. I have made it up. I mean by it something that refers to both the environment and the animal in a way that no existing term does. It implies the complementarity of the animal and the environment."
-> — [Gibson, The Ecological Approach to Visual Perception (1979), p. 127, ch. 8 excerpt PDF](https://web.eecs.umich.edu/~stellayu/teach/2023action/papers/1979gibsonAffordance.pdf)
+> — [Gibson, The Ecological Approach to Visual Perception (1979), p. 127, ch. 8 excerpt PDF](https://dl1.cuni.cz/pluginfile.php/595142/mod_resource/content/3/05%20-%20Gibson%20-%20The%20Ecological%20Approach%20To%20Visual%20Perception%20-%20ch%208.pdf)
 
 The definition's oddity is its refusal to file the property anywhere. A surface that affords walking is not walkable in the way it is gray or flat; walkability depends on legged animals of a certain size, and grayness does not. Affordances are therefore relational: they are facts about the animal-environment pair, not the object alone, and not the animal's projection onto it either.
 
@@ -24,7 +24,7 @@ The concept has since traveled into design, where interfaces are judged by what 
 
 ## Sources
 
-- [Gibson, J. J. (1979), The Ecological Approach to Visual Perception, ch. 8, p. 127, PDF](https://web.eecs.umich.edu/~stellayu/teach/2023action/papers/1979gibsonAffordance.pdf) — the opened carrier for the verbatim definition.
+- [Gibson, J. J. (1979), The Ecological Approach to Visual Perception, ch. 8, p. 127, excerpt PDF](https://dl1.cuni.cz/pluginfile.php/595142/mod_resource/content/3/05%20-%20Gibson%20-%20The%20Ecological%20Approach%20To%20Visual%20Perception%20-%20ch%208.pdf) — the opened carrier for the verbatim definition.
 
 ## Cited in psychology parallels
 

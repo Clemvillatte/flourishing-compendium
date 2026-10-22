@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 An adequate idea, in Spinoza's Ethics, is an idea that has within itself everything a true idea needs. Spinoza's definition:
 
-> "By an adequate idea, I mean an idea which, in so far as it is considered in itself, without relation to the object, has all the properties or intrinsic marks of a true idea. Explanation. I say intrinsic, in order to exclude that mark which is extrinsic, namely, the agreement between the idea and its object (ideatum)."
+> "By an adequate idea, I mean an idea which, in so far as it is considered in itself, without relation to the object, has all the properties or intrinsic marks of a true idea. Explanation.—I say intrinsic, in order to exclude that mark which is extrinsic, namely, the agreement between the idea and its object (ideatum)."
 > — [Spinoza, Ethics, Part II, Definition IV, Project Gutenberg](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm)
 
 The exclusion in the explanation is the philosophical move. Truth is usually defined from the outside: an idea is true if it matches its object. Spinoza calls that agreement extrinsic and declines to rest anything on it — a finite mind cannot step outside its own ideas to compare idea with object. What a finite mind can do is examine the idea's internal structure: what follows from it, what it connects to, whether it is deduced from what precedes or merely pasted onto experience.
