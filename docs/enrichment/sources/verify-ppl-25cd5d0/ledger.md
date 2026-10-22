@@ -473,3 +473,13 @@ the cited PubMed abstract (Kessler et al. 2005, Arch Gen Psychiatry 62(6):593-60
 conclusions sentence and the age-of-onset results sentence. The 9,282-participant figure is
 directly supported ("Nine thousand two hundred eighty-two English-speaking respondents aged
 18 years and older"). No routed findings.
+
+## Round 19 (2026-10-22, performed ~12:26Z measured; raw-text method)
+
+### Experiential grounding (w1u, fast-track done, commit 22a56ad9a)
+
+1 quoted passage checked, 1 PASS — the Hull-House settlement definition blockquote verified
+verbatim against a raw download of the cited Project Gutenberg #1325 text (the passage sits
+in the "Subjective Necessity of Social Settlements" essay included in the book). The page's
+second use of the "not confined to any one portion of a city" fragment is a substring of the
+same verified passage. No routed findings.
