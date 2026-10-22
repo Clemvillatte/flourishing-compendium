@@ -12,13 +12,17 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 318** — Practise zhengming (rectification of names)
 
-Use language accurately and call things by their proper names. Asked what he would do first if entrusted with a state, Confucius answered: "What is necessary is to rectify names." The reason is a chain that runs from naming to conduct: "If names be not correct, language is not in accordance with the truth of things. If language be not in accordance with the truth of things, affairs cannot be carried on to success." (Confucius, The Analects 13.3, tr. Legge.)
+Use language accurately and call things by their proper names. Asked what he would do first if entrusted with a state, Confucius answered: "What is necessary is to rectify names." The reason is a chain that runs from naming to conduct: "If names be not correct, language is not in accordance with the truth of things. If language be not in accordance with the truth of things, affairs cannot be carried on to success." (Confucius, The Analects 13.3, tr. Legge, [Standard Ebooks](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13).)
 
-One modern application is personal: "What the superior man requires is just that in his words there may be nothing incorrect." For a life rather than a state: be precise in your speech, honest in your self-descriptions, and clear about what you mean. Sloppy naming gives sloppy action somewhere to hide.
+One modern application is personal: "What the superior man requires, is just that in his words there may be nothing incorrect." (13.3, same translation) For a life rather than a state: be precise in your speech, honest in your self-descriptions, and clear about what you mean. Sloppy naming gives sloppy action somewhere to hide.
 
 **Plain words** Call things what they are. A "break" that is really a leaving, a "commitment" you don't intend to keep — soft names make the situation easier to say and harder to see, and you cannot act well on what you cannot see. The discipline is plain naming: first in speech, then in what you do about it.
 
 *For example:* The manager who stops calling layoffs "right-sizing" and starts calling them layoffs — and finds the team can finally plan around the truth instead of the fog.
+## Sources
+
+- Confucius, *The Analects* 13.3, trans. James Legge, *The Chinese Classics* vol. 1: [Standard Ebooks edition, Book XIII](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13)
+
 ## Stories
 
 - [[ST241 — The Child at the Well|241. The Child at the Well]]

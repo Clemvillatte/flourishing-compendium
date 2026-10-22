@@ -16,11 +16,15 @@ Maintain hope as a disposition, not merely as an expectation of specific outcome
 
 The future hope faces is not guaranteed but possible, and its most elaborate expression is relational: "I hope in thee for us" — which Marcel calls "perhaps the most adequate and the most elaborate expression" of what the verb to hope suggests. (Ibid.)
 
-(Marcel, 1951b, The Mystery of Being; Marcel, 1967, The Philosophy of Existentialism, "On the Ontological Mystery.")
+(Marcel, Homo Viator, "Sketch of a Phenomenology and a Metaphysic of Hope", p. 36, as quoted in [Routledge Encyclopedia of Philosophy](https://www.rep.routledge.com/articles/thematic/hope/v-1/sections/marcel-on-hope); "I hope in thee for us", p. 60, as quoted in [Springer](https://link.springer.com/chapter/10.1007/978-3-030-46489-9_5).)
 
 **Plain words** The optimist has a theory about how things turn out; hope is something you do in the dark — and usually not alone. Marcel's phrase points at another person: I hope in you, for us. In practice, stay available to someone through an uncertain stretch — no promises about the outcome, no pretending to know — which is a different act from crossing your fingers.
 
 *For example:* The patient who reads the five-year survival stats — takes the hit, doesn't look away — and then books the holiday anyway. That's hope: informed, unflinching, still walking.
+## Sources
+
+- Gabriel Marcel, *Homo Viator* (1945; English 1951/1962), pp. 36 and 60, as quoted in the [Routledge Encyclopedia of Philosophy, "Hope", section 5](https://www.rep.routledge.com/articles/thematic/hope/v-1/sections/marcel-on-hope), [Springer](https://link.springer.com/chapter/10.1007/978-3-030-46489-9_5) and [Cheshire Calhoun, Ch. 5](https://cheshirecalhoun.com/wp-content/uploads/2013/05/Ch5Hope.doc.pdf)
+
 ## Stories
 
 - [[ST248 — Buber and the Tree|248. Buber and the Tree]]

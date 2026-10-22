@@ -14,15 +14,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 Va tapuia is the sacred register of the vā: the relationship itself is tapu, set apart and carrying restrictions. Tui Atua's definition, quoted in a journal article on teu le va:
 
-> "The Samoan word va tapuia, includes the term 'tapu,' within. The term literally refers to the sacred (tapu-ia) relationship (va) between man and all things, animate and inanimate. It implies that in our relationships with all things, living and dead, there exists a sacred essence, a life force beyond human reckoning." (Tui Atua Tupua Tamasese Taisi Efi, 2007, p. 3, as quoted in Anae, "Teu le Va: Toward a Native Anthropology", Pacific Studies 33(2), 2010)
+> "The Samoan word va tapuia, includes the term 'tapu,' within. The term literally refers to the sacred (tapu-ia) relationship (va) between man and all things, animate and inanimate. It implies that in our relationships with all things, living and dead, there exists a sacred essence, a life force beyond human reckoning." (Tui Atua Tupua Tamasese Taisi Efi, 2007, p. 3, as quoted in [Anae, "Teu le Va: Toward a Native Anthropology", Pacific Studies 33(2), 2010](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/))
 
 In his colloquium paper he names the working parts — "tapu or taboo, feagaiga or sacred covenants and tuaoi or boundaries" (p. 2) — and the four harmonies they help illustrate: "harmony with the cosmos; harmony with the environment; harmony with one's fellow men; and harmony with one's self" (p. 2). He discusses the brother-sister relation as an instance: "The feagaiga is both status and covenant" (p. 10). This page's suggested application: before treating a relationship as an instrument for getting things done, ask what restrictions and obligations attach to it, and whether you are honouring them.
 
-(Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies; Wendt, 1996.)
+(Tui Atua Tupua Tamasese Taisi Efi, 2007, p. 3, as quoted in [Anae, 2010, Pacific Studies 33(2)](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/).)
 
 **Plain words** Some relations are set apart: they carry obligations and restrictions, not just exchanges. Va tapuia is the name for that quality of a relation. A practical question to ask of any relationship: what is owed to it beyond what it gets me?
 
 *For example:* Imagine being invited to a gathering where you do not know the protocols, and asking the host which apply, rather than assuming you already know.
+## Sources
+
+- Melani Anae, "Teu le Va: Toward a Native Anthropology", *Pacific Studies* 33(2), 2010, quoting Tui Atua Tupua Tamasese Taisi Efi (2007), p. 3: [BYU-Hawaii digital collections](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/)
+- The page's quotations from Tui Atua's colloquium paper (pp. 2 and 10) were carried over from an earlier pass and were not re-opened this session
+
 ## Stories
 
 - [[ST239 — Ho'oponopono Sets It Right|239. Ho'oponopono Sets It Right]]

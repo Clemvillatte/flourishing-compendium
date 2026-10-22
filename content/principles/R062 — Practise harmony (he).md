@@ -14,15 +14,20 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 
 The chapter this principle rests on is Analects 13.23, where the contrast is drawn in one couplet. Legge's translation, with the Chinese:
 
-> "The Master said, 'The superior man is affable, but not adulatory; the mean man is adulatory, but not affable.'" (Analects 13.23; Legge, The Chinese Classics, Vol. 1 — 君子和而不同、小人同而不和)
+> "The Master said, 'The superior man is affable, but not adulatory; the mean man is adulatory, but not affable.'" (Analects 13.23, trans. Legge, [Standard Ebooks](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13); 君子和而不同、小人同而不和)
 
-Robert Eno's translation makes the underlying terms plain: "The junzi acts in harmony with others but does not seek to be like them; the small man seeks to be like others and does not act in harmony" (Eno, The Analects of Confucius, 2015, open access, Indiana University). On this page's reading of the couplet, he (harmony) is accord among different parts, and tong (being alike) is the counterfeit that looks like it. The application this page suggests: when a group agrees instantly, treat the agreement as a fact to check; when it argues, listen for the composition.
+Robert Eno's translation makes the underlying terms plain: "The junzi acts in harmony with others but does not seek to be like them; the small man seeks to be like others and does not act in harmony" ([Eno, The Analects of Confucius, 2015, 13.23, open access, Indiana University](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)). On this page's reading of the couplet, he (harmony) is accord among different parts, and tong (being alike) is the counterfeit that looks like it. The application this page suggests: when a group agrees instantly, treat the agreement as a fact to check; when it argues, listen for the composition.
 
-(Confucius, The Analects 12.23, 13.23, 13.27; The Analects 1.12.)
+(Confucius, The Analects 13.23.)
 
 **Plain words** Working with someone does not require copying them. The couplet distinguishes getting along from trying to be alike; it does not say agreement is a defect.
 
 *For example:* Imagine two colleagues who can work together while continuing to differ about one part of a plan.
+## Sources
+
+- Confucius, *The Analects* 13.23, trans. James Legge: [Standard Ebooks, Book XIII](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13)
+- Confucius, *The Analects* 13.23, trans. Robert Eno (2015): [Indiana University PDF](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
+
 ## Stories
 
 - [[ST241 — The Child at the Well|241. The Child at the Well]]
