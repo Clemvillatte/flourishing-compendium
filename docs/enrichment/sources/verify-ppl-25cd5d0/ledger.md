@@ -1038,3 +1038,15 @@ selection", the "specialized for the detection of behaviourally relevant stimuli
 particularly when they are salient or unexpected" sentence, and the "circuit breaker"
 sentence all appear word-for-word; the both-systems-in-neglect claim is likewise directly
 present. No routed findings.
+
+## Round 47 (2026-10-22; inspection ~12:46-12:47Z; raw-text method)
+
+### HPA axis theory stress (w1r, fast-track done, commit 6710bd960)
+
+6 quoted passages checked, 6 PASS — the opening function blockquote, the neural-mechanisms
+sentence, the ACTH cascade passage, the glucocorticoid-feedback sentence, the chronic-cost
+blockquote, and the "chronic basal hypersecretion, sensitized stress responses, even
+adrenal exhaustion" fragment all verified against an unprompted raw fetch of the cited
+PMC article (Herman et al. 2016). One-word note (not routed as a defect): the article
+prints "adrenocorticotrophic hormone" where the page has the standard "adrenocorticotropic"
+spelling; the rest of the passage is word-for-word. No routed findings.
