@@ -15,11 +15,15 @@ Serene acceptance of necessity is the Stoic discipline of wanting what happens r
 
 The training is not resignation to everything but a sorting of what is up to us from what is not. Epictetus puts the negative half plainly: "if you are averse to sickness, or death, or poverty, you will be wretched. Remove aversion, then, from all things that are not in our control" (Enchiridion 2). What is not in our control includes the event; what is in our control is the use of it: "Sickness is a hindrance to the body, but not to your ability to choose, unless that is your choice" (Enchiridion 9). The serenity in the name is not passivity but the calm of a will that has stopped fighting the part of the world it never controlled.
 
+### The Spinoza echo
+
+The seed's second source repeats the same thought as a claim about the emotions. Spinoza's Ethics, Part V: "The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary" ([Ethics V, Prop. VI, Elwes trans., Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html)). Understanding necessity, on this account, is not resignation; it is the condition of the mind's power over its own passions.
+
 ## Sources
 
 - Epictetus, Enchiridion (Internet Classics Archive translation) ([classics.mit.edu](https://classics.mit.edu/Epictetus/epicench.html))
 
-- Spinoza, Ethics, Part V (echo noted in the seed; not quoted on this page)
+- Spinoza, Ethics, Part V, Proposition VI, R. H. M. Elwes, trans. ([Project Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html))
 
 ## Cited in philosophy parallels
 
