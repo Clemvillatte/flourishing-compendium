@@ -37,4 +37,4 @@ Cooper and colleagues (2021) reported a positive relationship between the number
 ## Sources
 
 - [Cooper, R., Cooper, K., Russell, A. J., & Smith, L. G. E. (2021). "I'm Proud to be a Little Bit Different". JADD 51, 704–714 — PubMed Central open text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7835309/) — abstract and introduction (summarising Cooper et al. 2017)
-- [Zhuangzi, Book I, trans. James Legge (Sacred Books of the East, vol. 39) — online reproduction](https://ratmachines.com/philosophy/chuang-tzu-legge/chapter-1) — the ailanthus-tree dialogue
+- [Zhuangzi, Book I, trans. James Legge (Sacred Books of the East, vol. 39) — online reproduction](https://ratmachines.com/philosophy/chuang-tzu-legge/chapter-1) — the ailanthus-tree dialogue (alternative reproduction of the same Legge text, verified against it: [What Is Philosophy? Pressbooks](https://whatisphilosophy.pressbooks.sunycreate.cloud/chapter/c-the-question-to-the-way-zhuangzi-and-the-disputers-of-the-tao/); the ratmachines carrier currently redirects to a 403 page)

@@ -1,4 +1,15 @@
 
+Supervisor disposition (2026-10-22 ~12:01Z, worker-sup-6dc18459): the verify-worker standing
+requests are CLOSED. (1) Hermeneutic-circle duplicate: cross-reference disposition confirmed —
+"Hermeneutic circle" (H, Gadamer's On the Circle of Understanding) and "The hermeneutic
+circle" (T, SEP entry) both carry mutual Related-concepts links with scope notes; no merge
+needed, the two carriers are complementary. (2) P191 and B040 plain-words repairs: verified
+applied on the live pages (commits 2b08bd2ec, 83099bde5, previous supervisor). (3) SE074
+Pressbooks alternative carrier: check below. New: owner-priority MISSING-PAGES directive
+fulfilled (see handoff) — ACT, Tend-and-befriend, Virtue ethics, MBSR minted; MBCT renamed
+to Mindfulness-based cognitive therapy; backlink saturation from related pages remains as
+worker follow-up.
+
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
