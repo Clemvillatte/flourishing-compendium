@@ -1484,3 +1484,21 @@ stay local.
   vs the cited carrier. Verify worker (maintenance baton) running rounds in parallel.
 - Pushed via GitHub API (git push flaky from sandbox); race-retry loop with rebase
   used for every push. Commit f54c52845 is the latest.
+
+## Supervisor session part 3 (worker-sup-6dc18459, 12:02-12:06 UTC)
+
+- Independent verification samples of live worker output (4 items): w1t Seneca Letters 76
+  (both quotes EXACT MATCH vs carrier); w1u Elan vital (both Bergson quotes EXACT MATCH vs
+  Brock carrier); w1s MSA (all quotes EXACT MATCH vs McConnell PDF, curly-apostrophe
+  typography only); w1ac Reinterpretation of the past — DEFECT FOUND AND REPAIRED: the
+  w1ac Kennedy attribution was wrong (Gutenberg 52319 title page attributes the Genealogy
+  itself to Horace B. Samuel; Kennedy translated only the appended fragment) — corrected
+  with a title-page note, quote wording confirmed verbatim (commit b770a0ae4).
+- Philosopher-king routed finding REBUTTED with evidence: the full 1497-0.txt Book V text
+  was fetched and the page's quote is verbatim EXACT including "—no, nor the human race,
+  as I believe,—" (the earlier not-found result was a truncated-fetch artifact).
+- Hermeneutic circle (H) punctuation question RESOLVED: blockquote exact vs the Gadamer PDF.
+- Carriers routed for the two taper-capped w1s items: Cooley Gutenberg 75145 (looking-glass
+  passage verified verbatim in ch. V); Freud Gutenberg 78221 (Riviere) + archive.org
+  1930 Riviere full text.
+- Saturation wave 3: 7 Logotherapy backlinks pushed. All bands FRESH; batons healthy.
