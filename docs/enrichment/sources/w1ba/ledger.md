@@ -45,3 +45,7 @@
    only on the two verified quotes and the EEMM classification quote). Sources row
    re-pointed to the actual carrier; Baron & Kenny 1986 added as the original source.
    Validate ok.
+   REPAIR (same item): the first done marker was pushed with a validator FAIL
+   (4 em-dashes in prose, max 3 — the humanizer's dash budget). Dashes reduced to 3
+   by rewording two sentences; revalidated ok. The earlier commit message's "validate
+   ok" was wrong at the time it was written; this entry records the true sequence.
