@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Anticipated consequences are what Dewey's account of deliberation works on. His definition: "deliberation is a dramatic rehearsal (in imagination) of various competing possible lines of action" ([Dewey, Human Nature and Conduct, Part 3, §3, Brock University text](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey_1922_17.html)). The rehearsal is the point:
 
-> "Thought runs ahead and foresees outcomes, and thereby avoids having to await, the instruction of actual failure and disaster. An act overtly tried out is irrevocable, its consequences cannot be blotted out. An act tried out in imagination is not final or fatal. It is retrievable."
+> "Thought runs ahead and foresees outcomes, and thereby avoids having to await the instruction of actual failure and disaster. An act overtly tried out is irrevocable, its consequences cannot be blotted out. An act tried out in imagination is not final or fatal. It is retrievable."
 
 ([Dewey 1922, Part 3, §3, Brock text](https://brocku.ca/MeadProject/Dewey/Dewey_1922/Dewey_1922_17.html).)
 
