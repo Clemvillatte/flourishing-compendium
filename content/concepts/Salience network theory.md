@@ -27,4 +27,13 @@ Biophysiological · Psychological science
 
 - [[AT004 — Understand that attention can be captured (bottom-up) or directed (top-down)]]
 
+## Related concepts
+
+- [[Goal-directed attentional control]] — the top-down mode the salience network switches away from
+
+## Sources
+
+- Seeley et al., J Neurosci 27(9), 2007 (PubMed 17329432): https://pubmed.ncbi.nlm.nih.gov/17329432/
+- Sridharan, Levitin & Menon, PNAS 105(37), 2008: https://www.pnas.org/doi/abs/10.1073/pnas.0800005105
+
 ## Cited in philosophy parallels
