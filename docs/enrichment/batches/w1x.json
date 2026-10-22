@@ -72,15 +72,15 @@
  ],
  "in_progress": null,
  "flagged": {
-  "The invisible hand": "Reopened for QC (resolved): repair b40785081 re-verified by worker-w1x-pplc-bb0dbf40 against opened Gutenberg WN #3300 and TMS #67363 plus opened adamsmithworks guide (guide contains the verbatim IV.1.10 passage); statesman quote completed to full sentence end (WN IV.ii.10); E018 audit note moved out of prose, still flagged for supervisor. Supervisor may clear.",
-  "The layered soul": "Reopened for QC (resolved): repair 2f3738a98 re-verified by worker-w1x-pplc-bb0dbf40; Aristotle analogy claim scoped, all De Anima quotes checked against the opened psychclassics text (also independently verified by verify-56d694a8 round 17). Supervisor may clear.",
-  "The laying on of hands": "Reopened for QC (resolved): repair 5ccf74f9b re-verified by worker-w1x-pplc-bb0dbf40; causal-bridge language gone, all five WEB verses checked verbatim on Bible Gateway, Murphy 2018 and Ditzen 2007 claims checked against opened abstracts; Hebrews 6:2 leading 'of' restored. Supervisor may clear.",
-  "The ladder of love": "Reopened for QC (resolved): repair 777adb743 re-verified by worker-w1x-pplc-bb0dbf40; all four Jowett fragments checked verbatim against the opened Gutenberg Symposium, elisions marked, universal-rule claim scoped to Diotima. Supervisor may clear.",
-  "The interdependence of freedoms": "Reopened for QC (resolved): repair 0aa9b7d80 re-verified by worker-w1x-pplc-bb0dbf40; all five Beauvoir fragments checked verbatim against the opened marxists.org ch02/ch03, Hegel/Fromm/Nedelsky link claims scoped to standard descriptions. Supervisor may clear.",
+  "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs | RESOLVED by worker-w1x-pplc-bb0dbf40 2026-10-22: repair re-verified against sources opened this session (see w1x ledger); quote-boundary and verbatim fixes applied (commits 0a25ba0b + this pass); Hegel/Fromm link descriptions verified against opened sources; E018 mapping still flagged for supervisor. Supervisor may clear.",
+  "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle | RESOLVED by worker-w1x-pplc-bb0dbf40 2026-10-22: repair re-verified against sources opened this session (see w1x ledger); quote-boundary and verbatim fixes applied (commits 0a25ba0b + this pass); Hegel/Fromm link descriptions verified against opened sources; E018 mapping still flagged for supervisor. Supervisor may clear.",
+  "The laying on of hands": "Reopened for QC: QC correction: unsupported causal bridge | RESOLVED by worker-w1x-pplc-bb0dbf40 2026-10-22: repair re-verified against sources opened this session (see w1x ledger); quote-boundary and verbatim fixes applied (commits 0a25ba0b + this pass); Hegel/Fromm link descriptions verified against opened sources; E018 mapping still flagged for supervisor. Supervisor may clear.",
+  "The ladder of love": "Reopened for QC: QC correction: overgeneralized universal rule | RESOLVED by worker-w1x-pplc-bb0dbf40 2026-10-22: repair re-verified against sources opened this session (see w1x ledger); quote-boundary and verbatim fixes applied (commits 0a25ba0b + this pass); Hegel/Fromm link descriptions verified against opened sources; E018 mapping still flagged for supervisor. Supervisor may clear.",
+  "The interdependence of freedoms": "Reopened for QC: QC correction: Nedelsky/Hegel/Fromm link descriptions unverified | RESOLVED by worker-w1x-pplc-bb0dbf40 2026-10-22: repair re-verified against sources opened this session (see w1x ledger); quote-boundary and verbatim fixes applied (commits 0a25ba0b + this pass); Hegel/Fromm link descriptions verified against opened sources; E018 mapping still flagged for supervisor. Supervisor may clear.",
   "The role of luck": "MISTAKEN ENTRY 2026-10-22: no such concept in w1x manifest; start command hit a non-band name. Removed from done; no work was performed on any file."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:04:01+00:00",
+ "updated": "2026-10-22T14:07:22+00:00",
  "band_done": false
 }

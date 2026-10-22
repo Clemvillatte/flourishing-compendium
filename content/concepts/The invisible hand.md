@@ -25,7 +25,7 @@ In The Theory of Moral Sentiments the phrase describes the landlord who cannot p
 
 ### What the phrase does and does not claim
 
-Smith does not claim self-interest is always benign, and he spends the surrounding chapters describing the corruptions of merchants and the deceit that motivates industry ([TMS IV.1](https://www.adamsmithworks.org/documents/tms-reading-guide-part-iv)). The claim is narrower: some social outcomes are produced by the structure of the situation rather than by anyone's intention, and Smith draws the consequence for the lawgiver directly:
+Smith does not claim self-interest is always benign: the same Part describes the rich as naturally selfish and rapacious, and says the industry of mankind is kept in motion by a deception ([TMS IV.1](https://www.adamsmithworks.org/documents/tms-reading-guide-part-iv)). The claim is narrower: some social outcomes are produced by the structure of the situation rather than by anyone's intention, and Smith draws the consequence for the lawgiver directly:
 
 > "The statesman, who should attempt to direct private people in what manner they ought to employ their capitals, would not only load himself with a most unnecessary attention, but assume an authority which could safely be trusted, not only to no single person, but to no council or senate whatever, and which would nowhere be so dangerous as in the hands of a man who had folly and presumption enough to fancy himself fit to exercise it."
 

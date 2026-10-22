@@ -13,7 +13,7 @@ The ladder of love is the staged ascent Diotima describes in Plato's Symposium (
 
 The stages are given in order, and the climb is described as a discipline of widening:
 
-> "He who would proceed aright in this matter should begin in youth to visit beautiful forms; and first, if he be guided by his instructor aright, to love one such form only, out of that he should create fair thoughts; and soon he will of himself perceive that the beauty of one form is akin to the beauty of another [...] and will become a lover of all beautiful forms; in the next stage he will consider that the beauty of the mind is more honourable than the beauty of the outward form [...] until he is compelled to contemplate and see the beauty of institutions and laws [...] and after laws and institutions he will go on to the sciences [...] drawing towards and contemplating the vast sea of beauty."
+> "He who would proceed aright in this matter should begin in youth to visit beautiful forms; and first, if he be guided by his instructor aright, to love one such form only—out of that he should create fair thoughts; and soon he will of himself perceive that the beauty of one form is akin to the beauty of another [...] and will become a lover of all beautiful forms; in the next stage he will consider that the beauty of the mind is more honourable than the beauty of the outward form [...] until he is compelled to contemplate and see the beauty of institutions and laws [...] and after laws and institutions he will go on to the sciences [...] drawing towards and contemplating the vast sea of beauty."
 
 ([Plato, Symposium, Diotima's speech, Jowett translation, Project Gutenberg](https://www.gutenberg.org/files/1600/1600-h/1600-h.htm).)
 
