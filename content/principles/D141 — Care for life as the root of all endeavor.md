@@ -19,7 +19,8 @@ Zhuangzi 3 opens with the danger of spending a limited life pursuing unlimited k
 
 Afterwards he wipes the knife and puts it away. The ruler hears a lesson in [[Yangsheng (cultivating vitality)|yangsheng]], nourishing life:
 
-> Excellent! I have heard the words of my cook, and learned from them the nourishment of (our) life. (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+> Excellent! I have heard the words of my cook, and learned from them the nourishment of (our) life.
+> (Zhuangzi 3 §2, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
 
 The analogy makes care part of how work is done. Applying it to a modern workload requires judgment; this story establishes no clinical treatment or guarantee of longevity.
 
