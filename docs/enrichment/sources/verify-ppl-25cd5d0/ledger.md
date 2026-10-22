@@ -403,3 +403,19 @@ cited carriers:
 - Frankl, Man's Search for Meaning (Internet Archive PDF): the self-transcendence passage
   verbatim (page normalises the PDF's em dashes to spaced dashes; words identical).
 No routed findings.
+
+## Round 14 (2026-10-22, performed ~12:38-12:39Z measured; raw-text method)
+
+### Devil's advocate (w1u, fast-track done)
+
+6 quoted passages checked, 6 PASS — all verified against unprompted raw fetches of the two
+cited carriers:
+- Britannica "devil's advocate" page: the definition sentence, the presentation-of-facts
+  sentence, "subsequently held little sway over the proceedings", and the "popularly used"
+  sentence are all verbatim; the Sixtus V 1587 and John Paul II 1983 (Divinus Perfectionis
+  Magister) claims are directly present.
+- 1911 Encyclopaedia Britannica "Advocatus Diaboli" (Wikisource): the "easy transference"
+  sentence is verbatim.
+No routed findings. (Side note, not routed: the modern Britannica page's own line "Pope Leo X,
+in the early 15th century" is internally inconsistent with the 1911 entry's Leo X dates
+1513-1521; the compendium page does not use that claim, so nothing to fix on the page.)
