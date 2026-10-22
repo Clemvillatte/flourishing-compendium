@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K302** — Ecological reciprocity
 
-One act each month that gives something back to the living world: plant something native, reduce a form of consumption, support a conservation effort, compost. The practice is not environmentalism as an abstract cause; it is the older idea, articulated most fully in Indigenous harvesting protocols, that a gift received calls for a gift returned. Reach for it when the ledger between your life and the world it draws on has gone too long unbalanced.
+One act each month that gives something back to the living world: plant something native, reduce a form of consumption, support a conservation effort, compost. The practice is not environmentalism as an abstract cause; it is an older idea, found in Indigenous harvesting protocols, that a gift received calls for a gift returned. Reach for it when the ledger between your life and the world it draws on has gone too long unbalanced.
 
 ### Protocol
 
@@ -18,7 +18,7 @@ The monthly menu is the seed's; the shape of the giving follows the Honorable Ha
 
 1. Choose one act per month from the menu: plant something native, reduce a form of consumption, support a conservation effort, compost.
 2. Let the act answer an actual taking. The guidelines below pair taking with reciprocity: give thanks for what has been given, and return something the place can use.
-3. Keep the act small and local enough to sustain. A monthly act that survives the year beats a grand gesture that does not.
+3. Keep the act small and local enough to sustain. [Editorial, not from the carriers:] a monthly act that survives the year is the aim, not a grand gesture.
 
 ### Evidence
 
@@ -30,7 +30,7 @@ From Kimmerer's account of the Honorable Harvest:
 
 From the meta-analysis of connection to nature and proenvironmental behavior:
 
-> "A random-effects model demonstrated a positive and significant association between connection to nature and PEB (r = 0.42, 95% CI 0.36, 0.47, p < 0.001). People who are more connected to nature reported greater engagement in PEB." (Abstract, [Whitburn, Linklater, Abrahamse & Iwankiw, 2019, Conservation Biology 34(1), 180-193](https://doi.org/10.1111/cobi.13381))
+> "A random-effects model demonstrated a positive and significant association between connection to nature and PEB (r = 0.42, 95% CI 0.36, 0.47, p < 0.001). People who are more connected to nature reported greater engagement in PEB." (Abstract, [Whitburn, Linklater & Abrahamse, 2019, Conservation Biology 34(1), 180-193](https://doi.org/10.1111/cobi.13381))
 
 What this evidence does not test: the practice. The meta-analysis is correlational; it does not show that performing monthly acts builds connection, and the Honorable Harvest is presented as an Indigenous ethic Kimmerer describes, not a tested intervention for well-being.
 
@@ -60,4 +60,4 @@ No verified guided version supplied; the absence is flagged in the band ledger p
 ## Sources
 
 - [Kimmerer, R. W. (interview). "Practical Reverence," Emergence Magazine](https://emergencemagazine.org/conversation/practical-reverence/)
-- [Whitburn, J., Linklater, W., Abrahamse, W. & Iwankiw, N. (2019). "Meta-analysis of human connection to nature and proenvironmental behavior," Conservation Biology 34(1), 180-193](https://doi.org/10.1111/cobi.13381)
+- [Whitburn, J., Linklater, W. & Abrahamse, W. (2019). "Meta-analysis of human connection to nature and proenvironmental behavior," Conservation Biology 34(1), 180-193](https://doi.org/10.1111/cobi.13381)

@@ -18,14 +18,14 @@ The steps are the compendium's practice form; the findings the form leans on are
 
 1. Choose one target and define it so a stranger could spot an occurrence: hours of sleep, phone pickups, minutes of practice.
 2. Record each occurrence, or a daily count, in the same place every time. The review below links recording close to each occurrence with stronger effects.
-3. Make no resolutions and apply no corrections during the monitoring period. The point is to see the baseline as it is.
+3. Make no resolutions and apply no corrections during the monitoring period. The point is to record the week as it happens, not to fix it.
 4. Read the week's record as data, not as a verdict. Whatever moved, moved; whatever the compendium's claims rest on is stated in the Evidence section, not in the seed's optimism.
 
 ### Evidence
 
 From the overview of self-monitoring research in assessment and treatment:
 
-> "Reactivity refers to the change in the frequency of a target behavior that is a result of the self-monitoring procedure." (p. 420, [Korotitsch & Nelson-Gray, 1999, Psychological Assessment 11(4), 415-425](https://doi.org/10.1037/1040-3590.11.4.415))
+> "…reactivity refers to the change in the frequency of a target behavior that is a result of the self-monitoring procedure." (p. 420, [Korotitsch & Nelson-Gray, 1999, Psychological Assessment 11(4), 415-425](https://doi.org/10.1037/1040-3590.11.4.415))
 
 The same review sizes the effect and its conditions:
 
@@ -33,9 +33,9 @@ The same review sizes the effect and its conditions:
 
 And it names what maximizes reactivity, which this practice deliberately withholds:
 
-> "A prototypical self-monitoring procedure that would maximize reactivity would be one in which (a) target responses are well-defined and motoric, (b) the client is motivated to change, (c) explicit goals for change are formulated, (d) reinforcement is provided contingent on reactive effects, (e) recordings are made just before each occurrence of the target behavior, and (f) concurrent response requirements are minimized." (p. 420)
+> "…a prototypical self-monitoring procedure that would maximize reactivity would be one in which (a) target responses are well-defined and motoric, (b) the client is motivated to change, (c) explicit goals for change are formulated, (d) reinforcement is provided contingent on reactive effects, (e) recordings are made just before each occurrence of the target behavior, and (f) concurrent response requirements are minimized." (p. 420)
 
-What this evidence does not test: the no-goal form. The review documents reactivity mostly in clinical populations with behaviors targeted for change, and its conditions for maximal reactivity include motivation and explicit goals; the practice's premise, that observation alone "often begins the change," leans on reactive effects the review itself calls small.
+What this evidence does not test: the no-goal form. The review documents reactivity mostly in clinical populations with behaviors targeted for change, and its conditions for maximal reactivity include explicit goals and contingent reinforcement, which this practice deliberately withholds; the practice's premise, that observation alone "often begins the change," leans on reactive effects the review itself calls small.
 
 ### A guided version
 

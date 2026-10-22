@@ -30,7 +30,7 @@ From the study that examined several nature-related factors at once:
 
 > "A consistent pattern of results emerged across multiple analytical approaches (i.e., correlations, linear regression, dominance analyses, commonality analysis), wherein time in nature was not the main (or significant) predictive nature-related factor for wellbeing. Rather, nature connectedness and engaging with nature through simple activities (e.g., smelling flowers) consistently emerged as being the significant and prominent factors in predicting and explaining variance in mental health and wellbeing." (Abstract, [Richardson, Passmore, Lumber, Thomas & Hunt, 2021, International Journal of Wellbeing 11(1), 8-33](https://doi.org/10.5502/ijw.v11i1.1267))
 
-What this evidence does not test: the practice itself. The meta-analysis is correlational, and its connectedness measure is described there as a stable individual difference; the 2021 study is a cross-sectional survey of a UK national sample. Neither study tested a seasonal noticing practice, and neither licenses a claim that noticing seasons causes well-being.
+What this evidence does not test: the practice itself. The meta-analysis is correlational, and its connectedness measure is described there as a stable individual difference; the 2021 study surveyed a UK national sample. Neither study tested a seasonal noticing practice, and neither licenses a claim that noticing seasons causes well-being.
 
 ### A guided version
 

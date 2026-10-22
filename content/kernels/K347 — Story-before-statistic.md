@@ -10,7 +10,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K347** — Story-before-statistic
 
-When encountering a group different from your own, seek stories before statistics. Statistics describe; stories let you run the simulation. The page leans on the narrative-empathy account of fiction quoted below, and claims nothing about outcomes the study did not measure. Reach for it when a group has become a demographic in your mind.
+When encountering a group different from your own, seek stories before statistics. Statistics describe; stories let you run the simulation. The page leans on a theoretical account of fiction, quoted below; it is a rationale, not a measured finding. Reach for it when a group has become a demographic in your mind.
 
 ### Protocol
 
@@ -28,7 +28,7 @@ From Mar and Oatley's account of the function of fiction:
 
 > "Engaging in the simulative experiences of fiction literature can facilitate the understanding of others who are different from ourselves and can augment our capacity for empathy and social inference." (same abstract)
 
-What this evidence does not test: the practice. The paper is a theoretical account of literary fiction's function, not an intervention study; it does not show that seeking stories before statistics improves social cognition, and the seed's contrast between stories and data is carried as rationale, not as a measured difference.
+What this evidence does not test: the practice. The paper is a theoretical account of literary fiction's function, not an intervention study; it does not show that seeking stories before statistics improves social cognition, and the stories-versus-data contrast is carried as the practice's rationale, not as a measured difference.
 
 ### A guided version
 

@@ -10,14 +10,14 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "V2K — Kern
 ---
 > **Kernel K335** — The witness practice
 
-Once a week, tell someone a story from your week and have them tell it back. The retelling is a mirror: what the listener kept, dropped, and reweighted shows what you emphasized, what you buried, and how the framing did the meaning's work. It suits anyone curious about the narrative choices quietly constructing a sense of who they are.
+Once a week, tell someone a story from your week and have them tell it back. The retelling gives you a comparison to study: what the listener kept, dropped, and reweighted. Reading that comparison as a mirror of your own emphasis and omission is the practice's editorial premise, not a demonstrated effect; the retelling also reflects the listener's attention. It suits anyone curious about the narrative choices quietly constructing a sense of who they are.
 
 ### Protocol
 
 The steps are the compendium's practice form; the finding the form leans on is quoted in the Evidence section.
 
 1. Choose one story from the week, five minutes or less, and tell it to a willing listener straight through.
-2. Ask the listener to retell it back to you in their own words. No corrections during the retelling; corrections are the data.
+2. Ask the listener to retell it back to you in their own words. No corrections during the retelling; save corrections for the comparison afterward.
 3. Compare the two versions: what survived, what vanished, what changed valence, what the retelling centered instead. Note one framing choice to watch for next week.
 
 ### Evidence

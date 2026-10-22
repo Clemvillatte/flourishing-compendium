@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K227** — Time-affluence audit
 
-A periodic review of whether you are trading time for money in ways that diminish well-being, and, where possible, a reversal of the trade: money spent to buy back hours. The claim the page can stand on is narrower than the seed's, and is quoted below. Reach for it when the calendar is full and the bank account is not the thing starving.
+A periodic review of whether you are trading time for money in ways that diminish well-being, and, where possible, a reversal of the trade: money spent to buy back hours. The finding quoted below is narrower than the practice's inherited framing suggests. Reach for it when the calendar is full and the bank account is not the thing starving.
 
 ### Protocol
 
@@ -28,7 +28,7 @@ From the study of buying time:
 
 > "Using large, diverse samples from the United States, Canada, Denmark, and The Netherlands (n = 6,271), we show that individuals who spend money on time-saving services report greater life satisfaction. A field experiment provides causal evidence that working adults report greater happiness after spending money on a time-saving purchase than on a material purchase." (same abstract)
 
-What this evidence does not test: the seed's comparative claim that time affluence predicts well-being more strongly than material wealth. The opened study shows time-saving purchases are followed by greater life satisfaction in the samples and experiment described; it does not compare time affluence against wealth as predictors, and it did not test an audit practice of any kind.
+What this evidence does not test: the comparative claim that time affluence predicts well-being more strongly than material wealth. In the surveys described, spending on time-saving services was associated with greater life satisfaction; in the field experiment, working adults reported greater happiness after a time-saving purchase than after a material purchase. The study did not compare time affluence against wealth as predictors, and it tested no audit practice of any kind.
 
 ### A guided version
 

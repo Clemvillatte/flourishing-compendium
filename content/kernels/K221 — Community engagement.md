@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K221** — Community engagement
 
-Time spent in a community not one's own, listening rather than advising. The evidence base is the intergroup contact literature, which has tested what happens when people from different groups actually meet. It suits the seasons when one's own way of life has quietly become the way things are done, and the cure for that is not reading but company.
+Time spent in a community not one's own, listening rather than advising. The evidence base is the intergroup contact literature, which has tested what happens when people from different groups actually meet. It suits the seasons when one's own way of life has quietly become the way things are done.
 
 ### Protocol
 
@@ -18,7 +18,7 @@ The steps are the compendium's practice form; the findings the form leans on are
 
 1. Go where you are a guest: a congregation, a language class, a volunteer shift, a neighborhood association, any community whose daily life is not yours.
 2. Listen before speaking, and do not advise. The role is guest and student; the moment advice starts, the practice becomes something else.
-3. Keep returning. The contact literature's effects are associated with contact as an ongoing fact, not a single visit.
+3. Keep returning. [Editorial suggestion, not from the carrier:] repeated visits make the comparison richer than a single one.
 4. The seed's framing of what the practice dissolves is a gloss: what the opened research associates with contact is reduced prejudice toward the group, and the page claims no more than that.
 
 ### Evidence
@@ -31,7 +31,7 @@ The same abstract tempers the recipe:
 
 > "A global indicator of Allport's optimal contact conditions demonstrates that contact under these conditions typically leads to even greater reduction in prejudice. Closer examination demonstrates that these conditions are best conceptualized as an interrelated bundle rather than as independent factors. Further, the meta-analytic findings indicate that these conditions are not essential for prejudice reduction." (same abstract)
 
-What this evidence does not test: the practice as designed here. The studies measure contact and prejudice in existing settings, not a deliberate listening practice, and the outcomes are prejudice measures, not cross-cultural perspective or wisdom.
+What this evidence does not test: the practice as designed here. The meta-analysis aggregates studies of contact and prejudice; it did not test a deliberate listening practice, and the outcomes are prejudice measures, not cross-cultural perspective or wisdom.
 
 ### A guided version
 

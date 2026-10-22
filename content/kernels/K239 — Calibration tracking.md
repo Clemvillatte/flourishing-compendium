@@ -18,7 +18,7 @@ The steps are the compendium's practice form; the finding the form leans on is q
 
 1. Before an outcome resolves, write the prediction as a probability: "70% this ships by Friday."
 2. When the outcome lands, record hit or miss next to the stated probability.
-3. After twenty or so scored predictions, compare stated confidence against the hit rate. A run of 70% claims hitting half the time is the audit result; treat it as data, not as shame.
+3. [Editorial review schedule, not from the carrier:] after twenty or so scored predictions, compare hit rate within each probability band: of the predictions you called 70%, how many hit? Treat the result as data, not as shame.
 
 ### Evidence
 
@@ -28,7 +28,7 @@ From the geopolitical forecasting tournament study:
 
 > "Training, teaming, and tracking are psychological interventions that dramatically increased the accuracy of forecasts." (same abstract)
 
-What this evidence does not test: the practice. The study's interventions were tournament training modules, teams, and talent tracking for geopolitical forecasters; it did not test a personal prediction log, and the practice's premise that self-scoring alone improves calibration leans on the tournament findings about training and feedback rather than on a tested diary method.
+What this evidence does not test: the practice. In this study, "tracking" meant placing the top 2% of Year 1 performers into elite teams, not keeping a personal log; the study does not show that self-scoring improves calibration, and this page claims no such effect. The practice of comparing hit rates within probability bands is offered as editorial form, not as a tested method, and the twenty-prediction review point is an editorial schedule, not an established threshold.
 
 ### A guided version
 
@@ -44,7 +44,7 @@ No verified guided version supplied; the absence is flagged in the band ledger p
 ## Related concepts
 
 - [[Overconfidence effects]]
-- [[Outside view / reference class forecasting|Outside view reference class forecasting]]
+- [[Outside view reference class forecasting]]
 - [[Affective forecasting]]
 
 ## Related kernels
