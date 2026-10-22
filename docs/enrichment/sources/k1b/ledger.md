@@ -1,0 +1,8 @@
+
+## 2026-10-22 — K137 Language flexibility (worker-k1b-pplx)
+- Sources opened this session: Kross et al. 2014 full text (umich PDF, verbatim quotes: abstract sentence on challenge-vs-threat appraisals; the exact non-first-person instruction including the Jane example; abstract conclusion sentence); Lieberman et al. 2007 full text (sanlab PDF, verbatim quotes: abstract amygdala/RVLPFC sentence; the affect-labeling task description "chose the correct affect label (e.g., ''scared,'' ''angry,'' ''happy,'' ''surprised'')"; the gender-label comparison result sentence).
+- Claims narrowed: the seed's rephrasing examples ("I failed" -> "this attempt did not work"; "I am anxious" -> "I notice tension and quickened breath") labelled EDITORIAL, not attributed to either paper; the not-tested paragraph states neither trial ran this page's written sentence-swap (Kross tested introspective self-talk under social stress; Lieberman tested picture-labeling in a scanner).
+- Guided version: EXEMPT as inherently self-run (the rewording works on the practitioner's own sentences; no third-party script can supply them), per supervisor disposition of 2026-10-22 for this class.
+- Protocol anchored in the Kross 2014 non-first-person instruction (quoted verbatim with locator); step 3 anchored in the Lieberman 2007 affect-labeling task wording (quoted verbatim).
+- Operationalises kept verbatim (4 original links), reformatted as bullets per K188/K391/K220 precedent to respect the em-dash budget; wikilink markup unchanged.
+- Validation: exit 0 (prose within 150-480; no banned vocabulary; no staging; dashes within budget; Sources section carries both opened URLs).
