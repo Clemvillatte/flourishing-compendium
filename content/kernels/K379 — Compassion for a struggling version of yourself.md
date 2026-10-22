@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K379** — Compassion for a struggling version of yourself
 
-After settling into your Compassionate Self (see K378; take a minute of slow breathing, then imagine having the qualities of kindness, wisdom, confidence, and courage), bring to mind a specific situation where a struggling version of you is present: a moment when you were anxious, ashamed, or afraid.
+After settling into your Compassionate Self (see K378; thirty seconds or so of soothing-rhythm breathing, then the qualities of kindness, wisdom, confidence, and courage), bring to mind a specific situation where a struggling version of you is present: a moment when you were anxious, ashamed, or afraid.
 
 From this compassionate perspective, look in on that struggling version of you. See how hard it is for them. Can you be moved by their suffering? Can you understand why they would feel this way, given what they've been through?
 
@@ -18,7 +18,7 @@ Now imagine being there with them. Imagine only they can see or hear you. Consid
 
 > "Imagine that this strong, compassionate version of you could be there with her. Imagine you’re there with her, and only she can see or hear you. Consider how you would be there for this struggling version of yourself—how you might help her to feel safe, how you might encourage her." — Kolts, CFT Made Simple, ch. 9, p. 122 ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1uN4kJ9GGbWVIlzNAxeOPsO9w6VYJr-iP))
 
-If extending [[Self-compassion|self-compassion]] to yourself is too hard: the book's own guidance for clients with entrenched shame and self-criticism is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
+If extending [[Self-compassion|self-compassion]] to yourself is too hard: the book's guidance for entrenched shame is to begin with someone you care about: imagine a situation in which they are struggling and extend compassion to that person, then return to yourself once self-criticism has softened (ch. 9, p. 122).
 
 The exercise rehearses a compassionate perspective on distress.
 
@@ -26,11 +26,11 @@ Adapted from Kolts, CFT Made Simple, New Harbinger, 2016, ch. 9, "Cultivating th
 
 ### Protocol
 
-1. Settle into the Compassionate Self first (see K378): a minute of slow breathing, then the perspective of someone with a kind motivation to help, deep wisdom, and confidence and courage. The book warns these qualities can feel vague imagined in a vacuum, so move quickly to applying them in one specific situation. Target dimensions: Self (who is looking) and Affect (being moved rather than managing).
+1. Settle into the Compassionate Self first (see K378): thirty seconds or so of soothing-rhythm breathing (the guide waits thirty seconds to a minute, printed p. 120), then the perspective of someone with a kind motivation to help, deep wisdom, and confidence and courage. These qualities can feel vague in a vacuum, the book warns, so move quickly to one specific situation. Target dimensions: Self (who is looking) and Affect (being moved rather than managing).
 2. Bring to mind one specific moment where a struggling version of you was present: anxious, ashamed, or afraid. One memory, not the general category.
 3. Look in on that version of you from the compassionate perspective. Notice how hard it is for them, and whether you can understand why they would feel this way.
 4. Imagine being there with them, visible and audible only to them; work out how you would help them feel safe, and what encouragement would sound like.
-5. Afterwards, note whether the move from captured by to being with happened, and at which step; retain the slot and vary the memory.
+5. Throughout the exercise, make the scene vivid: imagine what you are feeling, doing, and experiencing with as much detail as possible (Kolts, p. 122).
 
 ### Evidence
 
