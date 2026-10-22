@@ -173,3 +173,12 @@ Round 14: 3 pages, 5 quoted passages verified, no defects.
 4. **Tight loose culture theory Gelfand** — both abstract sentences VERIFIED verbatim via the opened PubMed record. PASS.
 
 Round 15: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 16 — morning sample continued
+
+1. **Values affirmation research** — the "cardinal motive" sentence VERIFIED verbatim in the opened Sherman et al. 2021 PDF (soft-hyphen artifacts in the PDF text layer required normalisation); the other three quotes VERIFIED verbatim via the opened [Ehret & Sherman 2014 article](https://journals.sagepub.com/doi/10.1177/2372732214549472). PASS.
+2. **Ultradian rhythms in attention** — the Lavie chapter abstract sentence VERIFIED verbatim via the opened Springer chapter page. PASS.
+3. **The rhythm of small pauses** — both quotes present on the opened Terebess page; the second VERIFIED verbatim, the first matches in wording with a punctuation normalization (source "ten minutes-sitting walking, sitting"; page "ten minutes — sitting, walking, sitting") and a dropped opening "It" — noted, no repair. PASS.
+4. **Veneration of elders** — both Analects quotes VERIFIED in wording against the opened Standard Ebooks Legge text; the page prints Legge's original "now-a-days" where the Standard Ebooks edition modernizes to "nowadays" (the page matches the original Legge spelling — edition variant, noted). PASS.
+
+Round 16: 4 pages, 7 quoted passages verified, no defects.
