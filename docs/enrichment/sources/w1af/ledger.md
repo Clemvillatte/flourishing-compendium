@@ -91,3 +91,16 @@ Advisor QC flagged unsupported Chan/Zen lineage claims. Verification search iden
 - "No canonical primary source exists in open sources" softened — the source is identified.
 - Zazen material retained only as the wider instruction family, clearly bounded.
 - Supervisor flag superseded: provenance now identified. Remaining advisor notes (verify K060 kernel text and the primary-source-library entry) left for supervisor.
+
+## Advisor QC round (w1af, 2026-10-22 T+54) — outcomes
+
+Repaired and pushed:
+- The six departures: re-grounded in Tilopa's Six Words of Advice (McLeod translation, exact K060 match); Chan/Zen lineage claims removed. Commit 75489848.
+- The ten modes: five-mode seed listing removed from opening; "fixed sequence" and orphan quote removed. Commit 434958bd.
+- The stimulus-response gap: Encheiridion I quote restored to exact excerpt (Greek parentheticals had been silently dropped — quote fidelity failure); opening reframed as interpretive label. Commit 434958bd.
+
+NOT repaired (no time before final save) — flagged for supervisor / next session:
+- The sovereign individual: verify "The breeding of an animal..." is II.1 not II.2; soften "does not appear in BGE" to "located in Genealogy II.2"; fix the final BGE source bullet (logically confused); remove unsupported "memory" interpretation and the Hegelian command-obedience equivalence.
+- The tetralemma: reframe opening as one application (causal production) rather than the general definition; replace "what the tetralemma establishes" with narrower inherent-nature relationship.
+- The shattered self: restore exact capitalisation of the Herman excerpt ("traumatic" not "Traumatic"); keep Herman distinct from Janoff-Bulman; replace "not open-access" with "not independently consulted"; frame "the shattered self" as compendium label unless verified as Herman's terminology.
+- The tetrapharmakos: attribution explicitly through Wikipedia including papyrus locator; replace "medicine chest" with "four-part remedy"; verify or limit the Apatheia comparison.
