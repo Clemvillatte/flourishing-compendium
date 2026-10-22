@@ -7,6 +7,7 @@ file: "The illusion of knowledge"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
+
 The illusion of knowledge is the gap between how much a person thinks they understand and how much they can actually produce on demand. The name comes from the historian Daniel Boorstin, who put it in The Discoverers as the obstacle to discovery:
 
 > "The great obstacle to discovering the shape of the earth, the continents, and the oceans was not ignorance, but the illusion of knowledge." (Boorstin, The Discoverers, 1983, p. 86, [Wikiquote](https://en.wikiquote.org/wiki/Daniel_J._Boorstin))
@@ -32,9 +33,8 @@ The bias has been studied in the lab under the name illusion of explanatory dept
 - [[Curse of knowledge]] — the mirror-image difficulty of imagining not knowing what one knows
 - [[Intellectual humility]] — the character trait the illusion argues for
 
-## Sources
 
-- Daniel Boorstin
+## Sources
 
 - [Wikiquote, Daniel J. Boorstin](https://en.wikiquote.org/wiki/Daniel_J._Boorstin) — The Discoverers 1983 p. 86 quote and the misattribution note, opened and checked word-for-word
 - [David Robson, The 'illusion of knowledge' that makes people overconfident, BBC Worklife, 16 August 2022](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident) — the Rozenblit and Keil study summary, opened and quoted verbatim
