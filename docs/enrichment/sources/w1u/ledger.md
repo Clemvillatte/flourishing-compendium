@@ -34,3 +34,67 @@ Band: w1u (69 concepts, previously unclaimed). Item 1: Continuing bonds.
   - APA Dictionary automatization: "the development of a skill or habit to a point at which it becomes routine and requires little if any conscious effort or direction." — https://dictionary.apa.org/automatization
 - Related-concept targets verified to exist: Habituation, Mind wandering, Default mode network (OK).
 - Note: journal/volume for the 1966 paper not re-verified on the opened author-site pages; year and title taken from the compendium seed and D041/B124 pages.
+
+## Cooperative game research (fast-track)
+- Degree check: 3 connections (Superordinate goals, D114, SO038) -> fast-track eligible (<15).
+- IS IT A CONCEPT check: PASS — the label names Axelrod's research program (The Evolution of Cooperation, 1984); the compendium's own label, not a term from a source.
+- Quotes opened and verified verbatim (Wikipedia, The Evolution of Cooperation, opened this session):
+  - "cooperates on the first move, and subsequently echoes (reciprocates) what the other player did on the previous move." (tit for tat)
+  - "the best-performing strategies were nice: that is, they were never the first to defect."
+  - "rationality and deliberate choice are not necessary, nor trust nor even consciousness, as long as there is a pattern that benefits both players"
+- Repair: Wikipedia's "depends crucially on the probability... that the players will meet again" paraphrased without quoting, to avoid the validator's banned word inside a quote.
+- Related-concept targets verified to exist: Superordinate goals (links back to this page), Trust (OK).
+
+## Cooperative learning (fast-track)
+- Degree check: 3 connections (Superordinate goals, A072, P090) -> fast-track eligible (<15).
+- IS IT A CONCEPT check: PASS — established term in educational psychology (Johnson and Johnson).
+- Quotes opened and verified verbatim (Wikipedia, Cooperative learning, opened this session):
+  - "Cooperative learning is an educational approach which aims to organize classroom activities into academic and social learning experiences."
+  - "how participants' goals are structured determines the ways they interact and the interaction pattern determine the outcomes of the situation."
+  - "students in cooperative learning settings compared to those in individualistic or competitive learning settings, achieve more, reason better, gain higher self-esteem, like classmates and the learning tasks more and have more perceived social support" (Wikipedia citing Johnson and Johnson's meta-analysis)
+  - "There is much more to cooperative learning than merely arranging students into groups."
+- Related-concept target verified: Superordinate goals (its page links back: "the classroom application of interdependence").
+- Seed citation Johnson and Johnson 1989 (Cooperation and Competition) kept in Facets; book itself not opened this session.
+
+## Core knowledge theory (fast-track)
+- Degree check: 2 connections (K342, ST128) -> fast-track eligible (<15).
+- IS IT A CONCEPT check: PASS — named theory (Spelke's core knowledge).
+- Note: seed's domain list (objects, number, agency, space) NOT verifiable in the opened Spelke 2000 abstract, so the page now claims only what the abstract states; the Spelke and Kinzler 2007 PDF could not be opened this session (dead link).
+- Quotes opened and verified verbatim (Spelke 2000, "Core knowledge", American Psychologist, PubMed record):
+  - "such as reading and calculation and complex cognitive achievements such as formal science and mathematics may depend on a set of building block systems that emerge early in human ontogeny and phylogeny"
+  - "These core knowledge systems show characteristic limits of domain and task specificity: Each serves to represent a particular class of entities for a particular set of purposes"
+  - "By combining representations from these systems, however, human cognition may achieve extraordinary flexibility"
+  - "may contribute to understanding unique features of human knowledge" (infant and primate studies)
+- Related-concept targets verified to exist: Piaget's theory of cognitive development, Theory-theory of cognitive development (OK).
+
+## Correspondence theory of truth (fast-track)
+- Degree check: 2 connections (R056, ST137) -> fast-track eligible (<15).
+- IS IT A CONCEPT check: PASS — standard term in philosophy (SEP entry exists).
+- Quotes opened and verified verbatim (Stanford Encyclopedia of Philosophy, "The Correspondence Theory of Truth", opened this session):
+  - Aristotle's definition: "To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true" (Metaphysics 1011b25)
+  - "virtually identical formulations can be found in Plato (Cratylus 385b2, Sophist 263b)"
+  - "the view that truth is correspondence to, or with, a fact — a view that was advocated by Russell and Moore early in the 20th century"
+  - "explicitly embracing the idea that truth consists in a relation to reality, i.e., that truth is a relational property involving a characteristic relation (to be specified) to some portion of reality (to be specified)"
+- Related-concept targets verified to exist: Truthfulness, Partial truths in every opinion (OK).
+
+## Creative self-efficacy (fast-track)
+- Degree check: 4 connections (Creative identity, Person-role fit research, K327, PP055) -> fast-track eligible (<15).
+- IS IT A CONCEPT check: PASS — Tierney and Farmer's construct (2002).
+- Quotes opened and verified verbatim:
+  - "the belief one has the ability to produce creative outcomes" — Tierney and Farmer 2002 p. 1138, quoted verbatim in Haase et al. 2018 (tandfonline full text, opened)
+  - "tested a new construct, creative self-efficacy, tapping employees' belief that they can be creative in their work roles" — OpenAlex record for DOI 10.2307/3069429 (opened)
+  - "creative self-efficacy also predicted creative performance beyond the predictive effects of job self-efficacy" — same record
+  - Meta-analytic r = .39, 60 effect sizes, 41 papers — Haase et al. 2018 (opened)
+- Related-concept targets verified to exist: Self-efficacy, Creative identity (OK).
+
+## Cosmopolitan care (fast-track)
+- Degree check: 3 connections (Care as practice, V2K-S01, R079) -> fast-track eligible (<15).
+- IS IT A CONCEPT check: PASS — Miller's named position (2010), developed from the care tradition.
+- Quotes opened and verified verbatim:
+  - "I develop the foundation for cosmopolitan care, an underexplored variety of moral cosmopolitanism" — Miller 2010 abstract (tandfonline, opened)
+  - "the need for an alternative account of moral cosmopolitanism as cosmopolitan care" — Miller 2010 abstract
+  - "a duty to care" — Miller 2010 abstract
+  - "such other moral theories as Kantian morality and utilitarianism demand impartiality above all, the ethics of care understands the moral import of ties to families and groups" — Held, OUP book abstract (opened)
+  - "a globalization of caring relations would help enable people of different states and cultures to live in peace, to respect each others' rights, to care together for their environments, and to improve the lives of their children" — IEP quoting Held (opened)
+- Nussbaum Frontiers of Justice remains in the seed gloss on R079 but was not opened this session; not asserted on the page.
+- Related-concept targets verified to exist: Care as practice (links back), Care ethics (OK).
