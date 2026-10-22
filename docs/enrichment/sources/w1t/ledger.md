@@ -38,3 +38,15 @@ Decisions:
 - Both seed citations resolved to actual records. Original seed citations preserved as URL-bearing links.
 - AT009/AF022 existing Cited-in wikilinks preserved.
 - No reciprocal proposals (fast-track bar).
+
+### Authoritative parenting (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://journals.sagepub.com/doi/10.1177/0272431691111004 — Baumrind 1991 The Journal of Early Adolescence 11(1):56-95. Full abstract fetched verbatim. Key claims: 139 adolescents; predominantly affluent, well-educated, Caucasian sample; authoritative parents highly demanding and highly responsive; sufficient but not necessary condition.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Seed citation "Baumrind, 1991" resolved to the opened SAGE record; kept as second Sources line.
+- Front-matter preserved (git diff starts after the closing ---); Facets bullet preserved; original Family systems theory related-concept preserved; A113/S138 Cited-in wikilinks preserved.
+- Scope honesty: page carries the sample limitation (affluent, well-educated, Caucasian) and the sufficient-not-necessary caveat.
+- No reciprocal proposals (fast-track bar).
