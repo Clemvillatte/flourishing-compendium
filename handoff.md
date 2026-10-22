@@ -1709,3 +1709,11 @@ w1y band claimed and held; its 23-item queue was not started (owner cleanup took
 - Flagged for supervisor: story pages still carry "QC notes (not prose)" blocks (stories are
   pipeline territory, not edited by workers); w1ac's two remaining stubs (Reinterpretation of
   the past 60 words, Creative values 95 words) left to the live w1ac holder.
+- Cleanup passes 3-5 (same session): long-tail leakage swept from a further ~370 pages —
+  "was/were not opened" variants, "opened this session", "the opened X" phrasing, "inherited
+  citations", "the owner's seed", "seed grouping", band/kpr-ledger references, supervisor-
+  disposition note on K157. Non-story content is now marker-clean: "this session", "not
+  opened", "inherited citation", "the seed's", ledger and disposition markers all zero
+  (grep-verifiable). The only remaining "opened" is inside a protected fc:reflections
+  comment (not rendered). Stories still carry "QC notes" blocks (pipeline, supervisor).
+
