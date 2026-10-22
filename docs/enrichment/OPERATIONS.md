@@ -399,3 +399,15 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   no repair needed. The "no Related concepts section" notes are warnings only, not
   fails. Lesson recorded: check the item's track before treating a default-profile
   validation failure as a defect.
+- E018 mapping investigation (supervisor-pplc-bb0dbf40, 2026-10-22 14:29 UTC):
+  the inherited link [[E018 — Practise the reversibility of flesh]] on The invisible
+  hand's "Cited in philosophy parallels" is a FALSE citation claim — E018's own
+  Philosophy parallels section cites only Flesh (chair) and Reversibility, with no
+  backlink; thematically unrelated (Smith's economics metaphor vs Merleau-Ponty's
+  phenomenology of touch); present since the initial import commit c2a3ee47a, so it
+  is an inherited generation artifact, not an enrichment cross-link. PROTOCOL.md
+  forbids deleting an original link line, so the link STAYS with this unresolved
+  flag. ROUTED TO OWNER: the link claims a citation that does not exist; removal
+  needs owner authorization (or a one-line correction to E018's parallels, which
+  would be equally unsupported). The adjacent D017 (Trust emergent order) link is
+  the apt parallel and is unaffected.
