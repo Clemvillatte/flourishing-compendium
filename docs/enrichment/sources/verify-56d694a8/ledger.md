@@ -421,3 +421,7 @@ Round 42: 1 quote verified, 2 routed items sharpened.
 1. **Social dominance theory** — final confirmation: the "compliance with dominant power" passage does not appear in the cited Emerald article (three targeted searches: "compliance with dominant power", "said to deserve" context, "reproduced"/"maintained"). This is a citation defect — the passage is from Sidanius & Pratto's Social Dominance and needs a carrier that reprints it. Left for the supervisor.
 
 Round 43: routed item confirmed as a citation defect.
+
+## Verification pass (T+45)
+
+All 12 pages repaired this session re-validated against current HEAD (after pulling origin/main): Socratic testing, The discipline of non-response, Affect heuristic, Anticipatory affect, Anticipated consequences, Anti-authoritarian inquiry, Anti-essentialism, Abduction, The invisible hand, The veil of ignorance, Wise speech criteria, The moment of vision (Augenblick). 12 checked, 0 failed (three cosmetic warnings about Related-concepts line counts only). All repairs intact and valid on origin/main.
