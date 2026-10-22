@@ -11,7 +11,7 @@ quality of conversation, not quantity, predicts well-being (Mehl et al., 2010).
 
 Conversational research is Matthias Mehl's research program on what everyday talk, recorded as it actually happens, reveals about well-being. Its method is the Electronically Activated Recorder, a device participants wear that records snippets of ambient sound, so the study sees conversation itself rather than memories of it. In the original 2010 study, the coding categories were plain:
 
-> "Small talk was defined as an uninvolved conversation of a banal nature (i.e., only trivial information was exchanged; e.g., 'What do you have there? Popcorn? Yummy!'). A substantive conversation was defined as an involved conversation of a substantive nature (i.e., meaningful information was exchanged; e.g., 'She fell in love with your dad? So, did they get divorced soon after?')." ([Mehl, Vazire, Holleran and Clark 2010, Psychological Science 21(4):539-541, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2861779/))
+> "Small talk was defined as an uninvolved conversation of a banal nature (i.e., only trivial information is exchanged; e.g., 'What do you have there? Popcorn? Yummy!'). A substantive conversation was defined as an involved conversation of a substantive nature (i.e., meaningful information is exchanged; e.g., 'She fell in love with your dad? So, did they get divorced soon after?')." ([Mehl, Vazire, Holleran and Clark 2010, Psychological Science 21(4):539-541, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2861779/))
 
 The findings gave both quantity and quality a role:
 

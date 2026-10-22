@@ -1,7 +1,7 @@
 {
  "baton": "w1y",
  "agent": "worker-pplx-911559df",
- "clocked_in": "2026-10-22T14:51:49+00:00",
+ "clocked_in": "2026-10-22T15:20:50+00:00",
  "takeovers": [
   {
    "by": "worker-w1y-ppl-mw3sy",
@@ -26,8 +26,12 @@
    "at": "2026-10-22T14:51:49+00:00",
    "from": "supervisor-pplx-db993127",
    "reason": "released"
+  },
+  {
+   "by": "worker-pplx-911559df",
+   "at": "2026-10-22T15:20:50+00:00",
+   "from": "worker-pplx-911559df",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T15:18:54+00:00"
+ ]
 }
