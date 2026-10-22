@@ -15,6 +15,10 @@ Steven Hayes and colleagues built RFT on one behavioral capacity: relating one e
 
 The three defining properties of a frame are mutual entailment, combinatorial entailment, and transformation of stimulus function: what a thing means, and what it can do to you, travels through the relation.
 
+## Field
+
+Clinical Psychodynamic · Psychological science
+
 ### In the compendium
 
 - [[ST237 — The Vā and the Voyage]] — the story that draws on this theory.
