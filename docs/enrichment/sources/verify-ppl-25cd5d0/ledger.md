@@ -868,3 +868,27 @@ es903183r — the same document): the definition sentence, both effect sizes (d 
 d = 0.54 with the exact confidence intervals), the dose-response sentence, and the
 water-presence sentence all appear word-for-word. The 10 UK studies / 1,252 participants
 figures are directly present. No routed findings.
+
+## Round 36 (2026-10-22; inspection ~12:44-12:45Z; raw-text method with carrier fallback)
+
+### The hermeneutics of suspicion (w1s, fast-track done, commit 374baf867)
+
+2 quoted passages checked, 2 PASS —
+- The "false consciousness" blockquote verified against a search-engine snippet of the cited
+  Wikiquote page (Wikiquote returned 429 to the fetcher; the snippet is the index of the same
+  cited document and matches the page's quote word-for-word, including the bracketed
+  insertion, with the same Freud and Philosophy p. 33 attribution; the book passage is
+  independently corroborated by several scholarly sources quoting the Savage translation).
+- The Stanford Arcade passages ("two interpretations of interpretation... as recollection of
+  meaning, the other as the reduction of illusions and lies of consciousness") verified
+  verbatim against an unprompted raw fetch of the cited SHC page (which quotes Ricoeur's
+  opening pages). No routed findings.
+
+### Group affective synchronisation (w1r, fast-track done, commit 394136142)
+
+3 quoted passages checked, 3 PASS — the definition fragment, the 2x2 experimental-design
+sentence, and the cooperation/conflict/performance sentence all verified verbatim against an
+unprompted raw fetch of the cited Sage abstract page (Barsade 2002, ASQ 47(4)); the
+"pleasant and unpleasant spread with roughly equal strength" framing is supported by the
+abstract's "No hypothesized differences in contagion effects due to the degree of
+pleasantness of the mood expressed". No routed findings.
