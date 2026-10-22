@@ -45,11 +45,11 @@ What the research does not cover: the studies measure helping among older adults
 
 ## Related kernels
 
-2. [[K152 — Committed action|K152 Committed action]] — the values-first version of the same hour
-3. [[K327 — Creative risk-taking|K327 Creative risk-taking]] — the creation half at higher stakes
-4. [[K240 — The weekly review|K240 The weekly review]] — where the weekly act gets its slot
-5. [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]] — the same weekly rhythm, turned inward
-6. [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]] — the staying-with side of service
+1. [[K152 — Committed action|K152 Committed action]] — the values-first version of the same hour
+2. [[K327 — Creative risk-taking|K327 Creative risk-taking]] — the creation half at higher stakes
+3. [[K240 — The weekly review|K240 The weekly review]] — where the weekly act gets its slot
+4. [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]] — the same weekly rhythm, turned inward
+5. [[K319 — Non-avoidant grief work|K319 Non-avoidant grief work]] — the staying-with side of service
 
 ## Sources
 

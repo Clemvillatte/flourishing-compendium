@@ -28,7 +28,7 @@ The log is your own predictions on your own page; no guided recording is cited f
 
 The tournament results: five research groups competed over two years, and "Results showed that probability training, team collaboration, and tracking improved both calibration and resolution"; "All three manipulations significantly reduced forecasting errors" ([Mellers et al., 2014](https://escholarship.org/content/qt4rg4n9vr/qt4rg4n9vr.pdf)). The training itself worked on the same muscles this log works: "Probability training guided forecasters to consider reference classes; average multiple estimates from existing models, polls, and expert panels; extrapolate over time when variables were continuous; and avoid judgmental traps such as overconfidence, the confirmation bias, and base-rate neglect" (same article).
 
-What the research does not cover: the tournaments scored geopolitical forecasts by trained volunteers on a scoring website, not personal beliefs and fears in a notebook. The calibration improvements came with training, team collaboration, and tracked performance feedback; a solo notebook is an adaptation with none of that machinery. The habit borrows the tournament's logic, not its results.
+What the research does not cover: the tournaments scored geopolitical forecasts by trained volunteers on a scoring website, not personal beliefs and fears in a notebook. The calibration improvements came with the tournament's training, teaming, and tracking manipulations; a solo notebook is an adaptation with none of that machinery. The habit borrows the tournament's logic, not its results.
 
 ## Operationalises
 

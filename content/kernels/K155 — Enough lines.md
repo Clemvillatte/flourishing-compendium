@@ -46,11 +46,11 @@ What the research does not cover: the studies measure dispositions and everyday 
 
 ## Related kernels
 
-2. [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]] — the felt side of enough
-3. [[K240 — The weekly review|K240 The weekly review]] — where the lines get reread
-4. [[K147 — I am becoming reframes|K147 "I am becoming" reframes]] — the identity side of the same stop
-5. [[K188 — Friction audit|K188 Friction audit]] — removing the pull toward more
-6. [[K237 — See-the-small practice|K237 See-the-small practice]] — the perception the line depends on
+1. [[K280 — Gratitude for sufficiency|K280 Gratitude for sufficiency]] — the felt side of enough
+2. [[K240 — The weekly review|K240 The weekly review]] — where the lines get reread
+3. [[K147 — I am becoming reframes|K147 "I am becoming" reframes]] — the identity side of the same stop
+4. [[K188 — Friction audit|K188 Friction audit]] — removing the pull toward more
+5. [[K237 — See-the-small practice|K237 See-the-small practice]] — the perception the line depends on
 
 ## Sources
 

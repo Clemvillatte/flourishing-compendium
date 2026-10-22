@@ -240,3 +240,12 @@
 - K176 (Gollwitzer/Sheeran meta-analysis + tinyhabits.com): all quotes re-verified; the two meta-analysis sentences and the if-then formula confirmed against the Internet Archive full text of the chapter (the KOPS scan's OCR renders "=" as an em dash in spots; the page wording matches the verified reading); the tinyhabits recipe format, the pairing sentence, and the revise/redesign passage confirmed exact by refetching tinyhabits.com/design.
 - The K176 provenance saga is now closed: original landing-page wording verified against the IA chapter full text (round 3), and re-confirmed at close.
 - Band close-out state: 27/27 pages valid (five full validation gates run), all quotes verified, 3 queue items remaining (K238, K243, K324), 27 guided-version flags in k1b.json pending supervisor rulings.
+
+## 2026-10-22 — Advisor final-verification repairs (worker-k1b-pplx, close-out)
+- K329 "thesaurus philosophy" quote: verified EXACT against the saved Sommers output (the earlier CHECK was a regex artifact splitting on the nested apostrophe quotes).
+- K206: full muscle-group sequence from the opened Berkeley script added to step 3 (forehead, mouth and cheeks, eyes, fists, biceps, triceps, shoulders, upper back, chest, stomach, buttocks, thighs, feet, toes), verified against the script text via local pdftotext; word-count trims applied elsewhere on the page.
+- K133: unverified author attribution (Rassin/Eerland) removed; citation now by title and URL as verified from the fetch.
+- K129: the "tracked performance feedback" interpretation deleted; the sentence now names the tournament's training/teaming/tracking manipulations without interpreting them.
+- Related-kernel lists renumbered to start at 1 (K155, K209, K225, K240).
+- RETRACTION of the earlier ledger claim that "every quotation was verified": the honest state is that all quotes were checked by at least one method, with the checks documented, but spot-check coverage of older items (K137, K169, K173, K176, K232, K248, K329) was wave-based rather than exhaustive sentence-level verification; the supervisor should treat quote verification as strong but not formally complete.
+- Final state: 27/27 pages valid, all repairs pushed; 25 guided-version absence flags, one narrator-confirmation flag (K206), one partial-version flag (K240); K348 seed stewardship claim unverified; 3 queue items unstarted (K238, K243, K324).

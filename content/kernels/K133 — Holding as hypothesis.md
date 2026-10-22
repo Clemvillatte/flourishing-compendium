@@ -15,7 +15,7 @@ Treat a strongly held belief as a hypothesis for a defined period (24 hours, a w
 ## Protocol
 
 1. Name the belief and its window. One sentence, one date range.
-2. Run the classic question against it, the one Lord's participants were given: "Ask yourself at each step whether you would have made the same high or low evaluations had exactly the same study produced results on the other side of the issue" ([Lord et al., 1984, instruction as quoted in Rassin and Eerland 2021](https://journals.sagepub.com/doi/pdf/10.1177/0032258X211038888?download=true)). In the personal version: would I judge this evidence the same way if it pointed the other way?
+2. Run the classic question against it, the one Lord's participants were given: "Ask yourself at each step whether you would have made the same high or low evaluations had exactly the same study produced results on the other side of the issue" ([Lord et al., 1984, instruction as quoted in a 2021 debiasing review](https://journals.sagepub.com/doi/pdf/10.1177/0032258X211038888?download=true)). In the personal version: would I judge this evidence the same way if it pointed the other way?
 3. Write the opposite case as its own paragraph, not as a rebuttal. Steel, not straw.
 4. Act on the belief inside the window only where waiting costs more than being wrong. The hypothesis period is not paralysis; it is a pause sized to the stakes.
 5. At the close, write the verdict: kept, revised, or dropped, with one line of reasoning.
@@ -26,7 +26,7 @@ The suspension runs on your own belief in your own notebook; no guided recording
 
 ## Evidence
 
-The strategy's case: "In both experiments the induction of a consider-the-opposite strategy had greater corrective effect than more demand-laden alternative instructions to be as fair and unbiased as possible" ([Lord, Lepper and Preston, 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/), abstract). The finding matters because of what it beat: trying hard to be fair did less than actually asking the opposite question. As later reviewers put it, "merely wanting to be fair and objective alone seems to be insufficient," and "we need a clear-cut practical strategy in order to overcome the natural human predisposition that inhibits us from perceiving and considering competing alternatives" ([Rassin and Eerland, 2021](https://journals.sagepub.com/doi/pdf/10.1177/0032258X211038888?download=true)).
+The strategy's case: "In both experiments the induction of a consider-the-opposite strategy had greater corrective effect than more demand-laden alternative instructions to be as fair and unbiased as possible" ([Lord, Lepper and Preston, 1984](https://pubmed.ncbi.nlm.nih.gov/6527215/), abstract). The finding matters because of what it beat: trying hard to be fair did less than actually asking the opposite question. As later reviewers put it, "merely wanting to be fair and objective alone seems to be insufficient," and "we need a clear-cut practical strategy in order to overcome the natural human predisposition that inhibits us from perceiving and considering competing alternatives" (["Have you considered the opposite?" 2021](https://journals.sagepub.com/doi/pdf/10.1177/0032258X211038888?download=true)).
 
 What the research does not cover: the experiments tested instructions given to participants judging evidence about social issues and personality impressions, not a self-chosen suspension period on a personal belief. The timing window and the personal-belief framing are this practice's own; what the studies establish is that the opposite question, asked for real, does work that good intentions do not.
 
@@ -56,4 +56,4 @@ Practises the concept: [[Holding as hypothesis|Holding as hypothesis]]
 ## Sources
 
 - [Lord, Lepper and Preston 1984, "Considering the opposite: a corrective strategy for social judgment," Journal of Personality and Social Psychology 47(6), 1231-1243 (abstract via PubMed)](https://pubmed.ncbi.nlm.nih.gov/6527215/)
-- [Rassin and Eerland 2021, "Have you considered the opposite? A debiasing strategy for judgment in criminal investigation," Journal of Police and Criminal Psychology (full text PDF)](https://journals.sagepub.com/doi/pdf/10.1177/0032258X211038888?download=true)
+- ["Have you considered the opposite? A debiasing strategy for judgment in criminal investigation" (full text PDF)](https://journals.sagepub.com/doi/pdf/10.1177/0032258X211038888?download=true)

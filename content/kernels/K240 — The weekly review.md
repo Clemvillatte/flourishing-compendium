@@ -48,9 +48,9 @@ What the research does not cover: the cited checklist does not establish efficac
 
 1. [[K233 — Weekly inquiry loop|K233 Weekly inquiry loop]] — the question version of the same hour
 2. [[K225 — Service and creation|K225 Service and creation]] — a category that often needs feeding
-4. [[K155 — Enough lines|K155 "Enough" lines]] — reviewed yearly, not weekly
-5. [[K129 — Prediction log|K129 Prediction log]] — the quarterly read this review schedules
-6. [[K152 — Committed action|K152 Committed action]] — where the fed practice goes
+3. [[K155 — Enough lines|K155 "Enough" lines]] — reviewed yearly, not weekly
+4. [[K129 — Prediction log|K129 Prediction log]] — the quarterly read this review schedules
+5. [[K152 — Committed action|K152 Committed action]] — where the fed practice goes
 
 ## Sources
 
