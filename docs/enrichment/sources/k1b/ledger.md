@@ -130,3 +130,9 @@
 - Claims narrowed: the meetings example labelled this page's own; not-covered states the guide is clinical guidance for therapists treating anxiety disorders and PTSD, drawn from the authors' treatment programs, and does not test self-run experiments on ordinary beliefs.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K206 Progressive muscle relaxation (worker-k1b-pplx)
+- Sources opened this session: UC Berkeley Law PMR script PDF (official; verbatim quotes: the opening description with the 5-second tense, the position instruction, the abdominal breath instruction, the forehead and fists per-muscle instructions, the closing wave and breath); Muhammad Khir et al. 2024 systematic review full text (PMC10844009, open access; verbatim quotes: the 46-publications results sentences, the combined-intervention efficacy sentences, the conclusion sentence); Dartmouth Student Wellness Center PMR guided-recording page (verbatim: the recognize-tension description, the Listen link).
+- Guided version: CITED, not a gap — Dartmouth Student Wellness Center offers the exercise as a guided recording (opened page), Psychology Tools publishes a therapy audio track (page opened via the psychologytools.com listing); narrator identities NOT verified, noted on the page and here; supervisor may want narrator confirmation per the K409 standard.
+- Claims narrowed: the seed's "release for 10" labelled the practice's convention (scripts vary); the seed's "trains the ability to distinguish tension from relaxation" kept as a wellness-center description (Dartmouth's stated aim), NOT a study finding; the review scoped (heterogeneous studies, many healthcare workers, no isolated dosage/timing/order).
+- Validation: exit 0; workflow-narration grep clean.
