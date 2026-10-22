@@ -18,7 +18,7 @@ Nagarjuna's Madhyamaka makes the same move structurally: phenomena are empty of 
 
 > "Whatever is dependently co-arisen, that is explained to be emptiness." (Nagarjuna, Mulamadhyamakakarika 24.18, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nagarjuna/))
 
-**Plain words** You have been looking for the one who is watching, as though awareness were a person standing behind your eyes. The nondual claim is not that this person is hidden; it is that the position is structural and no one occupies it. The watching is not being done to the world by a spectator. The watching and the world are one event. This is why trying to observe your own dancing never works — the observer you are trying to install is made of the dancing.
+**Plain words** You have been looking for the one who is watching, as though awareness were a person standing behind your eyes. The nondual claim is that the position is structural and no one occupies it. The watching is not being done to the world by a spectator. The watching and the world are one event. This is why trying to observe your own dancing never works — the observer you are trying to install is made of the dancing.
 
 *For example:* Two dancers both try to get better. One works by watching themselves, correcting from the outside; the performance becomes stiff and self-conscious. The other stops trying to observe and just dances; the watching happens, but no one is doing it from a distance. The second one is the better dancer, and the first one is still looking for the audience.
 

@@ -20,7 +20,7 @@ The consequence the chapter draws is blunt: "If they do not got these things, th
 
 (Zhuangzi 18; DDJ 44.)
 
-**Plain words** The test is not whether you enjoy good things. It is what happens to your baseline when they leave. Every item on Zhuangzi's list is pleasant, and none of them is yours. Peg your contentment to them and the peg moves whenever they do. The chapter's alternative is not doing without; it is asking what your enjoyment is made of when the inputs are ordinary.
+**Plain words** The test is not whether you enjoy good things. It is what happens to your baseline when they leave. Every item on Zhuangzi's list is pleasant, and none of them is yours. Peg your contentment to them and the peg moves whenever they do. The chapter's alternative is to ask what your enjoyment is made of when the inputs are ordinary.
 
 *For example:* The person who can only enjoy the beach when the weather's perfect has rented their peace from the forecast.
 

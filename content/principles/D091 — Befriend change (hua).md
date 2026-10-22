@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 91** — Befriend change (hua)
 
-The principle runs on hua (化), transformation: the Zhuangzi's word for what is happening to everything, always. The dying man is "passing through his change"; the dreamer wakes as "the veritable Zhou"; the difference between Zhou and the butterfly is "a case of what is called the Transformation of Things" (Zhuangzi 2, 6). The Daodejing puts the same observation in the register of return: things flourish, then each returns to its root. Change is not an event that happens to the world; it is the world's normal operation.
+The principle runs on hua (化), transformation: the Zhuangzi's word for what is happening to everything, always. The dying man is "passing through his change"; the dreamer wakes as "the veritable Zhou"; the difference between Zhou and the butterfly is "a case of what is called the Transformation of Things" (Zhuangzi 2, 6). The Daodejing puts the same observation in the register of return: things flourish, then each returns to its root. Change is the world's normal operation.
 
 > "All things alike go through their processes of activity, and (then) we see them return (to their original state)." (DDJ 16, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 

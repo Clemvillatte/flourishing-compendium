@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Layman Pang's famous verse is the whole principle in four lines. Asked to describe the Zen of the great masters, he replied: "My supernatural power and marvelous activity: drawing water and carrying firewood" ([Layman Pang, The Sayings of Layman Pang, Terebess](https://terebess.hu/zen/layman-pang.html)). The joke is precise — what the tradition calls the miraculous is the ordinary, done fully. No levitation, no light: hauling water and stacking wood.
 
-This is a claim about the nature of awakening, not a modest refusal to brag. The awakened person's day is not more spectacular than the unawakened person's day; it is the same day, without the extra layer of commentary. The students who arrive expecting fireworks keep waiting, and the schedule never changes — wake, tea, garden, teach, sleep.
+This is a claim about the nature of awakening, not a modest refusal to brag. The awakened person's day is the same day as the unawakened person's, without the extra layer of commentary. The students who arrive expecting fireworks keep waiting, and the schedule never changes — wake, tea, garden, teach, sleep.
 
 > "My supernatural power and marvelous activity: drawing water and carrying firewood." (Layman Pang, The Sayings of Layman Pang, [Terebess](https://terebess.hu/zen/layman-pang.html))
 

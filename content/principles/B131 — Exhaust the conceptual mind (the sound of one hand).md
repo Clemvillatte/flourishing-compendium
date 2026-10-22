@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 131** — Exhaust the conceptual mind (the sound of one hand)
 
-Hakuin's famous koan, the sound of one hand, is deliberately structured so that it cannot be answered. Hakuin introduced it to replace the Mu koan for some students, and the reason is usually given as its resistance to conceptual handling — you cannot think your way to the sound of one hand, and the attempt to do so is the actual mechanism ([Hakuin, Orategama and koan curriculum, Terebess](https://terebess.hu/zen/Hakuin.pdf)). The koan is not a riddle with a hidden answer; it is a device that runs the conceptual mind until it gives out.
+Hakuin's famous koan, the sound of one hand, is deliberately structured so that it cannot be answered. Hakuin introduced it to replace the Mu koan for some students, and the reason is usually given as its resistance to conceptual handling — you cannot think your way to the sound of one hand, and the attempt to do so is the actual mechanism ([Hakuin, Orategama and koan curriculum, Terebess](https://terebess.hu/zen/Hakuin.pdf)). The koan is a device that runs the conceptual mind until it gives out.
 
 The exhaustion is the method, not the failure. A student who holds "what is the sound of one hand?" for months produces progressively worse answers — first clever, then repetitive, then desperate — and the tradition treats this trajectory as the practice working. What remains when the concepts are used up is not blankness; it is a different kind of seeing, the one the koan was designed to produce.
 

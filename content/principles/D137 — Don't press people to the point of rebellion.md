@@ -18,7 +18,7 @@ The middle verses are practical hygiene, not ideology: let people not be thought
 
 > "When the people do not fear what they ought to fear, that which is their great dread will come on them." (Daodejing 72.1, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** A parent who reads every message, tracks every location and vetoes every friend has not made a safer child — they have made a child with only one path: get better at hiding. The parent who keeps some room — an obvious, boring room — keeps the child talking. This is not softness; it is physics of rebellion. Tighten the pressure and you build the explosion; keep a door open and the pressure has somewhere to go. Chapter 72 calls this leaving people not weary of what their life depends on.
+**Plain words** A parent who reads every message, tracks every location and vetoes every friend has not made a safer child — they have made a child with only one path: get better at hiding. The parent who keeps some room — an obvious, boring room — keeps the child talking. This is the physics of rebellion. Tighten the pressure and you build the explosion; keep a door open and the pressure has somewhere to go. Chapter 72 calls this leaving people not weary of what their life depends on.
 
 *For example:* Two managers both want better punctuality from a struggling team. One institutes sign-in sheets and docking for every lateness; the other sets the boundary once and stops watching. A month later the first manager has perfect records and a quiet team where half the staff have started looking at other jobs. Same target — one team still feels like it has somewhere to breathe.
 

@@ -20,7 +20,7 @@ The excerpt ties shoshin to not-attaining: "In the beginner's mind there is no t
 
 (Suzuki, Zen Mind, Beginner's Mind.)
 
-**Plain words** The expert's mind is full. Full of what it already knows about this person, this morning, this skill, and the fullness is what leaves no room. The practice is not to fake ignorance; it is to notice when you have stopped looking because you already know what you will find, and to look once more as if the outcome were open.
+**Plain words** The expert's mind is full. Full of what it already knows about this person, this morning, this skill, and the fullness is what leaves no room. The practice is to notice when you have stopped looking because you already know what you will find, and to look once more as if the outcome were open.
 
 *For example:* The twenty-year marriage that stays warm does it by occasionally meeting a stranger at breakfast: same person, beginner's eyes.
 

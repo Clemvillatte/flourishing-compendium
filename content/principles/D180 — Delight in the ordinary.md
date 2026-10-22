@@ -18,7 +18,7 @@ The Zhuangzi takes the same insight and sharpens it into a paradox. True pleasur
 
 > "They should think their (coarse) food sweet; their (plain) clothes beautiful; their (poor) dwellings places of rest; and their common (simple) ways sources of enjoyment." (Daodejing 80.4, James Legge translation, [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
-**Plain words** Two people eat the same meal. One is scanning for the next better restaurant before the plates are cleared; the other notices the food is actually good. The second one is not more virtuous — they have simply stopped treating the current moment as a waiting room for a better one. Contentment is not low ambition; it is the absence of the running commentary that keeps downgrading what you already have. Ecstasy is easy to buy and easy to lose. Noticing that the food is sweet is a skill, and it is the rarer one.
+**Plain words** Two people eat the same meal. One is scanning for the next better restaurant before the plates are cleared; the other notices the food is actually good. The second one is not more virtuous — they have simply stopped treating the current moment as a waiting room for a better one. Contentment is the absence of the running commentary that keeps downgrading what you already have. Ecstasy is easy to buy and easy to lose. Noticing that the food is sweet is a skill, and it is the rarer one.
 
 *For example:* A traveller spends thousands to reach a famous lookout at sunset, surrounded by crowds, phones up, all recording. The same sunset lands on their own balcony three days later with no one watching, and lands harder. Nothing about the light changed. The balcony had been there the whole time.
 

@@ -16,7 +16,7 @@ The Dhammapada's three verses on the marks are instructions in seeing. All condi
 
 > "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. This is the path to purification." (Dhammapada 277, [Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html))
 
-SN 12.23 gives the training chain explicitly: knowledge and vision of things as they actually are has concentration as its prerequisite, concentration has pleasure, pleasure serenity, serenity rapture, rapture joy, joy conviction. Seeing differently is not a lucky insight; it is the end of a trainable sequence, which is why the practice sections below exist. (SN 12.23.)
+SN 12.23 gives the training chain explicitly: knowledge and vision of things as they actually are has concentration as its prerequisite, concentration has pleasure, pleasure serenity, serenity rapture, rapture joy, joy conviction. Seeing differently is the end of a trainable sequence, which is why the practice sections below exist. (SN 12.23.)
 
 > "joy has conviction as its prerequisite, rapture has joy as its prerequisite, serenity has rapture as its prerequisite, pleasure has serenity as its prerequisite, concentration has pleasure as its prerequisite, knowledge & vision of things as they actually are present has concentration as its prerequisite" (SN 12.23, [Thanissaro, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.023.than.html))
 

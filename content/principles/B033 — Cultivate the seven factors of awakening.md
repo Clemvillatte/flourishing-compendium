@@ -18,7 +18,7 @@ The instruction runs both directions. When the mind is restless, those same thre
 
 > "As for mindfulness, I tell you, that serves every purpose." (SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-**Plain words** The seven factors are not a curriculum; they are an instrument panel. A sluggish mind calls for energy and rapture; a restless mind calls for calm and concentration. Applying the wrong factor at the wrong moment is not just useless; it is actively counterproductive — rapture given to a restless mind is dry grass on a large fire. Mindfulness is the gauge that tells you which condition you are currently in. This is the single most common practice error: working harder on the factor you are already strong in, instead of the one the moment is missing.
+**Plain words** The seven factors work like an instrument panel. A sluggish mind calls for energy and rapture; a restless mind calls for calm and concentration. Applying the wrong factor at the wrong moment is not just useless; it is actively counterproductive — rapture given to a restless mind is dry grass on a large fire. Mindfulness is the gauge that tells you which condition you are currently in. This is the single most common practice error: working harder on the factor you are already strong in, instead of the one the moment is missing.
 
 *For example:* Two people both feel their meditation is stale. One doubles down on discipline and effort; the staleness gets worse. The other notices the mind is sluggish, not weak, and deliberately cultivates joy and interest — the factor that was actually missing. Same symptom; only one of them read the instrument panel before choosing a tool.
 

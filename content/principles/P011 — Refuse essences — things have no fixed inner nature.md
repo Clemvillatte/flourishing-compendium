@@ -18,7 +18,7 @@ Nietzsche makes the same move a generation earlier and more aggressively: there 
 
 > "We see a complicated network of similarities overlapping and criss-crossing: sometimes overall similarities, sometimes similarities of detail. I can think of no better expression to characterize these similarities than 'family resemblances'." (Wittgenstein, Philosophical Investigations §66, [The Literature Network](https://www.literature-net.com/wittgenstein/philosophical-investigations/))
 
-**Plain words** A concept that fits every case like a glove fits no case at all. The argument about whether chess, solitaire and tag are "really" games dissolves once you notice that "game" was never a bordered category — it was a family, and families have overlapping traits, not essences. This is not a licence for vagueness; it is a licence to use concepts loosely and flexibly, and to stop treating a tool as a mirror.
+**Plain words** A concept that fits every case like a glove fits no case at all. The argument about whether chess, solitaire and tag are "really" games dissolves once you notice that "game" was never a bordered category — it was a family, and families have overlapping traits, not essences. It is a licence to use concepts loosely and flexibly, and to stop treating a tool as a mirror.
 
 *For example:* Two people argue about whether someone is "really" an introvert. One treats introversion as a bordered natural kind and the argument goes in circles. The other treats it as a family-resemblance cluster, notes that the person shares some traits with introverts and some with extroverts, and the argument dissolves. Same person; only one of them is still arguing.
 

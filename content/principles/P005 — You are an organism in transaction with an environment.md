@@ -18,7 +18,7 @@ This is why the practical move is not always inner work. If the behaviour is pro
 
 > Habits are not individual possessions or inner forces; rather, they are transactions between organisms and environments, functions making adaptation or reconstruction possible. ([Stanford Encyclopedia of Philosophy, "John Dewey", summarising Dewey](https://plato.stanford.edu/entries/dewey/))
 
-**Plain words** Can't stop scrolling in bed? The reflex is to work on the self — more discipline, more resolve, more self-talk. The transaction view says: charge the phone in the kitchen. Same person, different transaction, different outcome. Willpower is the weakest lever; the room is a strong one. This is not an argument against inner work; it is an argument about which lever to pull first.
+**Plain words** Can't stop scrolling in bed? The reflex is to work on the self — more discipline, more resolve, more self-talk. The transaction view says: charge the phone in the kitchen. Same person, different transaction, different outcome. Willpower is the weakest lever; the room is a strong one. This is an argument about which lever to pull first.
 
 *For example:* Two people both want to stop scrolling at night. One works on their resolve and fails nightly. The other moves the charger to the kitchen and the behaviour changes within a week. Same person, same willpower; only one of them changed the actual mechanism.
 

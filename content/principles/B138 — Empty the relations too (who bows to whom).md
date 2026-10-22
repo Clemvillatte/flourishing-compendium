@@ -21,7 +21,7 @@ Section IV extends it to acts between parties: charity is practiced without rega
 > "In the practice of charity a Bodhisattva should be detached. That is to say, he should practice charity without regard to appearances; without regard to sound, odor, touch, flavor or any quality." (Diamond Sutra IV, [Price and Wong Mou-Lam translation](https://ia802808.us.archive.org/18/items/the_diamond_sutra_english/the_diamond_sutra_english.pdf))
 
 **Plain words**
-Take your most patterned relationship and name the two roles you each play: the anxious one and the avoidant one, the responsible one and the charming one. For one conversation, hold both roles as costumes rather than cast. The exercise is not to act differently; it is to notice each time you hand the other their costume, and each time you reach for your own.
+Take your most patterned relationship and name the two roles you each play: the anxious one and the avoidant one, the responsible one and the charming one. For one conversation, hold both roles as costumes rather than cast. The exercise is to notice each time you hand the other their costume, and each time you reach for your own.
 
 *For example:* Imagine the couple who stop being "the anxious one" and "the avoidant one": the labels loosened, and the love got roomier.
 
