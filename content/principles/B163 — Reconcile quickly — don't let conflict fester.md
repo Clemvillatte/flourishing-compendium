@@ -16,13 +16,13 @@ The verse in the Dhammapada's first chapter that addresses quarrels is verse 6:
 
 > There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels. ([Dhammapada 6, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-Verses 3 to 5 in the same chapter describe how hatred is kept alive and how it ends (see B162). Verse 6 adds a reason to end a quarrel sooner: the time to do it is limited. The compendium reads this as an argument for quick repair. The verse does not say how quickly, and I did not open a source for the monks' quarrel at Kosambi, so this page does not tell that story.
+Verses 3 to 5 in the same chapter describe how hatred is kept alive and how it ends. Verse 6 adds a reason to end a quarrel sooner: the time to do it is limited. The compendium reads this as an argument for quick repair; the verse itself does not say how quickly. The story linked below tells of a quarrel among monks.
 
 (Dhammapada 6, trans. Buddharakkhita.)
 
 ### Plain words
 
-A rift left alone usually grows harder to raise. The Dhammapada gives one reason to act now: we do not have unlimited time with each other. A short, awkward conversation this week is easier than the same conversation next year.
+A rift can get harder to raise the longer it sits. The Dhammapada gives one reason to act now: we do not have unlimited time with each other. A short, awkward conversation this week is easier than the same conversation next year.
 
 ### For example
 
