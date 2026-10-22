@@ -278,8 +278,14 @@ research); all other sampled items PASS.
     feeling not virtue, the age restriction, the good-man passage, and the
     conditional-goodness line. No hallucinated quotes.
 
+## Round 25 (12:20Z) — Bodhicitta (w1y, commit 2337f4bb9)
+
+32. **Bodhicitta (w1y)** — 4 quoted verses checked, 4 PASS against a fresh
+    fetch of the cited Lotsawa House carrier (Śāntideva, Bodhicaryavatara ch. 1,
+    Pearcey trans.): verses 1.10, 1.15, 1.16 and 1.17. No hallucinated quotes.
+
 ## Summary
 
-31 items checked, 28 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+32 items checked, 29 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first thirty-one items after repair.
+quotation-faithful at a 100% sample of its first thirty-two items after repair.
