@@ -20,7 +20,7 @@ P069 (Believe at the living edge) and P099 (Let anticipation do its work) both l
 
 ## Other formulations in this library
 
-- expectation produces measurable physiological change (legacy formulation; the 2008 trial's measures were self-reported symptom outcomes, and no opened source in this entry supports the physiological wording)
+- expectation produces measurable physiological change (legacy formulation; the cited 2008 trial measured self-reported symptom outcomes and does not establish this physiological claim — [Kaptchuk et al., 2008](https://dash.harvard.edu/server/api/core/bitstreams/7312037d-e1d2-6bd4-e053-0100007fdf3b/content))
 
 ## Sources
 

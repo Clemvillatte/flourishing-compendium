@@ -11,7 +11,7 @@ Prospective memory is remembering to carry out an intended action at the right f
 
 > "Prospective memory situations involve forming intentions and then realizing those intentions at some appropriate time in the future." ([McDaniel & Einstein, 2000, abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775))
 
-The seed's citation is the authors' 2007 book, Prospective Memory: An Overview and Synthesis of an Emerging Field. The 2000 paper's account of how retrieval works, in its own words:
+The 2000 paper's account of how retrieval works, in its own words:
 
 > "We present data supporting both views and argue that people use multiple approaches for solving the problem of retrieving an intention (prospective memory) after a delay." ([McDaniel & Einstein, 2000, abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775))
 
@@ -22,7 +22,7 @@ The two views the paper weighs are strategic monitoring of the environment for t
 ## Sources
 
 - [McDaniel, M. A., & Einstein, G. O. (2000), "Strategic and automatic processes in prospective memory retrieval: a multiprocess framework", Applied Cognitive Psychology 14, S127-S144 — abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775) — the verbatim abstract sentences
-- McDaniel, M. A., & Einstein, G. O. (2007). Prospective memory: An overview and synthesis of an emerging field. Sage Publications Ltd. — the seed's citation
+- McDaniel, M. A., & Einstein, G. O. (2007). Prospective memory: An overview and synthesis of an emerging field. Sage Publications Ltd.
 - [Prospective memory, Wikipedia](https://en.wikipedia.org/wiki/Prospective_memory) — the event-based and time-based distinction
 
 ## Cited in psychology parallels

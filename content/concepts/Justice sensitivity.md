@@ -7,7 +7,7 @@ file: "Justice sensitivity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-J"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter J", "parent": ""}
 ---
-Justice sensitivity is a personality trait describing individual differences in how readily people perceive injustice and how strongly they respond to it cognitively, emotionally, and behaviorally ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)). The construct's founding paper is Schmitt et al., 2005, which built the scales; its abstract states what was developed:
+Justice sensitivity is a personality trait describing individual differences in how readily people perceive injustice and how strongly they respond to it cognitively, emotionally, and behaviorally ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)). Schmitt et al. (2005) developed justice-sensitivity scales from three perspectives; the abstract states what was developed:
 
 > "Scales for justice sensitivity from three perspectives (victim, observer, perpetrator) were developed." ([Schmitt, Gollwitzer, Maes & Arbach, 2005, abstract](https://cir.nii.ac.jp/crid/1360574094333053312))
 

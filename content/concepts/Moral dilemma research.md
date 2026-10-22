@@ -11,7 +11,7 @@ Moral dilemma research studies judgment in cases where moral requirements confli
 
 > "The crucial features of a moral dilemma are these: the agent is required to do each of two (or more) actions; the agent can do each of the actions; but the agent cannot do both (or all) of the actions. The agent thus seems condemned to moral failure; no matter what she does, she will do something wrong (or fail to do something that she ought to do)." ([McConnell, "Moral Dilemmas", SEP](https://plato.stanford.edu/entries/moral-dilemmas/))
 
-The psychological side of that research asks what produces the judgments. The seed's sources are Kohlberg, 1981 and Haidt, 2001; the opened carrier is Haidt's 2001 paper, which opens by naming the field's dominant assumption:
+The psychological side of that research asks what produces the judgments. Haidt's 2001 paper opens by naming the field's dominant assumption:
 
 > "Research on moral judgment has been dominated by rationalist models, in which moral judgment is thought to be caused by moral reasoning." ([Haidt, 2001, abstract](https://pubmed.ncbi.nlm.nih.gov/11699120/))
 
@@ -27,7 +27,7 @@ The social intuitionist model Haidt presents states that moral judgment is gener
 
 - [McConnell, T., "Moral Dilemmas", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/moral-dilemmas/) — the verbatim definition of the dilemma cases
 - [Haidt, J. (2001), "The emotional dog and its rational tail: a social intuitionist approach to moral judgment", Psychological Review 108(4), 814-834, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11699120/) — the verbatim abstract sentences
-- Kohlberg, 1981 — the seed's citation, retained
+- Kohlberg, 1981 — further reading
 
 ## Cited in psychology parallels
 
