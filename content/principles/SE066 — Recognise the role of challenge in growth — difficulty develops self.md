@@ -19,9 +19,9 @@ Vygotsky gave the calibration a name: the zone of proximal development, "the dis
 *For example:* A user learning a demanding new skill pairs each stretch task with someone more capable — working alongside them first, then doing the same work alone, then stretching again — so the challenge stays just past independent reach.
 ## Psychology parallels
 
-- **Challenge and growth**, appropriate challenge is necessary for development (Vygotsky, 1978; Csikszentmihalyi, 1990)
-- **Optimal challenge**, challenge that matches skill (not too easy, not too hard) produces flow and growth (Csikszentmihalyi, 1990)
-- **Post-traumatic growth**, adversity can produce growth (Tedeschi & Calhoun, 1996; Joseph & Linley, 2006)
+- **Challenge and growth** (Vygotsky, 1978; Csikszentmihalyi, 1990)
+- **Optimal challenge** (Csikszentmihalyi, 1990)
+- **Post-traumatic growth** (Tedeschi & Calhoun, 1996; Joseph & Linley, 2006)
 
 ## Philosophy parallels
 
