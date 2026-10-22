@@ -1,33 +1,34 @@
 {
-  "batch": "w1ac",
-  "done": [
-    "Reversal (fu)",
-    "Sameness of the sage",
-    "Santosha",
-    "Scholē",
-    "Pranayama",
-    "Pneuma",
-    "Personal projects",
-    "Petites perceptions",
-    "Phenomenal and noumenal",
-    "Philosopher-king",
-    "Plain-language comprehension research",
-    "Poiesis as disclosing",
-    "Popol Vuh",
-    "Positivity offset",
-    "Post-conventional development",
-    "Pragmatic solidarity",
-    "Pre-commitment as wisdom",
-    "Pre-mortem technique",
-    "Pre-reflective consciousness"
-  ],
-  "in_progress": null,
-  "flagged": {
-    "Reversal (fu)": "title romanization: DDJ 40 Chinese text conventionally reads fan (反, 'reversal'), the title's '(fu)' may be a mismatch — flagged for supervisor; front-matter untouched per protocol. QC: advisor round 1 fixes applied (quote line breaks restored, ch.58 referent narrowed, AF008 bullet narrowed, Wu wei line grounded in ch.40 + D003 title gloss).",
-    "Positivity offset": "seed line overgeneralizes the ESM finding (claims 'improves comprehension, trust, and recall'; opened source supports identification of risks via prospective hindsight and lower judged competence for needless complexity) - flagged for supervisor; front-matter untouched.",
-    "Pragmatic solidarity": "Bernstein quote in page is from The Abuse of Evil p.29, not the seed's 'The Pragmatic Turn'; Rorty quotes are from CIS as reprinted in the opened OBP book - flagged for supervisor."
-  },
-  "missing_concepts": [],
-  "sources_checked": 0,
-  "updated": "2026-10-22T07:19:08+00:00"
+ "batch": "w1ac",
+ "done": [
+  "Reversal (fu)",
+  "Sameness of the sage",
+  "Santosha",
+  "Scholē",
+  "Pranayama",
+  "Pneuma",
+  "Personal projects",
+  "Petites perceptions",
+  "Phenomenal and noumenal",
+  "Philosopher-king",
+  "Plain-language comprehension research",
+  "Poiesis as disclosing",
+  "Popol Vuh",
+  "Positivity offset",
+  "Post-conventional development",
+  "Pragmatic solidarity",
+  "Pre-commitment as wisdom",
+  "Pre-mortem technique",
+  "Pre-reflective consciousness",
+  "Prejudice (Vorurteil)"
+ ],
+ "in_progress": null,
+ "flagged": {
+  "Reversal (fu)": "title romanization: DDJ 40 Chinese text conventionally reads fan (反, 'reversal'), the title's '(fu)' may be a mismatch — flagged for supervisor; front-matter untouched per protocol. QC: advisor round 1 fixes applied (quote line breaks restored, ch.58 referent narrowed, AF008 bullet narrowed, Wu wei line grounded in ch.40 + D003 title gloss).",
+  "Positivity offset": "seed line overgeneralizes the ESM finding (claims 'improves comprehension, trust, and recall'; opened source supports identification of risks via prospective hindsight and lower judged competence for needless complexity) - flagged for supervisor; front-matter untouched.",
+  "Pragmatic solidarity": "Bernstein quote in page is from The Abuse of Evil p.29, not the seed's 'The Pragmatic Turn'; Rorty quotes are from CIS as reprinted in the opened OBP book - flagged for supervisor."
+ },
+ "missing_concepts": [],
+ "sources_checked": 0,
+ "updated": "2026-10-22T07:24:45+00:00"
 }
