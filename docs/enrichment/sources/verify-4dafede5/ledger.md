@@ -112,8 +112,16 @@ research); all other sampled items PASS.
     Rutgers PDF ("23 out of 27... 12 out of 14... (85% and 86%...)",
     "16 of the 20 autistic children (80%) failed"). No hallucinated quotes.
 
+## Round 6 (11:28Z) — The power paradox (w1t, commit 7ae1414ec)
+
+13. **The power paradox (w1t)** — 1 quoted passage checked, 1 PASS: the Keltner
+    blockquote verified verbatim against a fresh fetch of the HBR 2016 article
+    (hbr.org/2016/10/dont-let-power-corrupt-you). The page's unquoted claims
+    (rude/selfish/unethical pattern; empathy, gratitude and generosity as the
+    counter-practice) match the article's summary. No hallucinated quotes.
+
 ## Summary
 
-12 items checked, 10 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+13 items checked, 11 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twelve items after repair.
+quotation-faithful at a 100% sample of its first thirteen items after repair.
