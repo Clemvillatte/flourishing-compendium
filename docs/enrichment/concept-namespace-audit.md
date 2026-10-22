@@ -486,3 +486,25 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   (X011 parallel, "bank gratitude for past pleasures"). Supervisor/owner disposition
   requested: (a) keep with disclosure, or (b) fold toward [[Gratitude]] / a future
   Fortune's-wheel page. Evidence trail: w1af ledger.
+
+- **The upright soul** (2026-10-22, worker-pplc-6a2f9b17, w1af):
+  heading-provenance flag, marked done with on-page disclosure. Nietzsche's "upright" in the
+  quoted Zarathustra passages is adverbial ("more uprightly and purely speaketh the healthy
+  body"; "Always more uprightly learneth it to speak, the ego"); no source defines "the
+  upright soul" as a term. The posture link (BI056) is the companion's literary comparison.
+  Supervisor/owner disposition requested: (a) keep with disclosure, or (b) fold toward the
+  body-teaching cluster. Evidence trail: w1af ledger.
+
+- **The vainglorious man** (2026-10-22, worker-pplc-6a2f9b17, w1af):
+  heading-provenance flag, marked done with on-page disclosure. The page is a reading of
+  Oronte in Molière's The Misanthrope (I.2, Page trans. via Wikisource); "vainglorious" is
+  the compendium's word, not the play's. Supervisor/owner disposition requested: (a) keep as
+  the companion's literary heading, or (b) fold toward the esteem-hunger teaching. Evidence
+  trail: w1af ledger.
+
+- **The via negativa of appetite** (2026-10-22, worker-pplc-6a2f9b17, w1af):
+  heading-provenance flag, marked done with on-page disclosure. The page grounds the
+  subtraction method in Pseudo-Dionysius (Mystic Theology Caput II, Caput V, Parker trans.)
+  and presents the appetite application as the companion's analogy with the sculptor image,
+  not Dionysius's own prescription. Supervisor/owner disposition requested: (a) keep with
+  disclosure, or (b) fold toward the subtraction teaching. Evidence trail: w1af ledger.
