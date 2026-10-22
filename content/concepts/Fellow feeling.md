@@ -9,11 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Fellow feeling is the eighteenth-century sentimentalist name for the human tendency to catch other people's emotions and be moved by their joys and sorrows. In Hume's Treatise the mechanism carrying it is sympathy, and Book III opens its account of the virtues with that force.
 
-> "As in strings equally wound up, the motion of one communicates itself to the rest; so all the affections readily pass from one person to another, and beget correspondent movements in every human creature." (Hume, [A Treatise of Human Nature, 3.3.1.1](https://davidhume.org/texts/t/3/3/full))
+> "As in strings equally wound up, the motion of one communicates itself to the rest; so all the affections readily pass from one person to another, and beget correspondent movements in every human creature." (Hume, [A Treatise of Human Nature, 3.3.1.7](https://davidhume.org/texts/t/3/3/full))
 
 ### What Hume's account says
 
-The minds of all men are similar in their feelings and operations, and no one is actuated by any affection of which others are not in some degree susceptible. What the senses show of another person's passion is only its causes or effects, in voice and gesture; from these the observer's mind forms so lively an idea of the passion that it is converted into the passion itself. Sympathy, on this account, is a very powerful principle in human nature, producing the sentiment of morals in the artificial virtues.
+"The minds of all men are similar in their feelings and operations, nor can any one be actuated by any affection, of which all others are not, in some degree, susceptible" ([3.3.1.7](https://davidhume.org/texts/t/3/3/full)). What the senses show of another person's passion is only its effects, in voice and gesture: "my mind immediately passes from these effects to their causes, and forms such a lively idea of the passion, as is presently converted into the passion itself" ([3.3.1.7](https://davidhume.org/texts/t/3/3/full)). The Treatise draws the conclusion plainly: "sympathy is a very powerful principle in human nature", one that "has a great influence on our taste of beauty" and "produces our sentiment of morals in all the artificial virtues" ([3.3.1.10](https://davidhume.org/texts/t/3/3/full)).
 
 ### In the compendium
 
