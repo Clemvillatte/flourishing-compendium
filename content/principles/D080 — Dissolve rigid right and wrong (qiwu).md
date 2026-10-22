@@ -12,22 +12,32 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 80** — Dissolve rigid right and wrong (qiwu)
 
-The principle comes from Zhuangzi 2, "The Adjustment of Controversies" (Legge's title), and its emblem is the monkey-keeper: he offers the monkeys three measures of acorns in the morning and four in the evening, they are angry; he switches to four in the morning and three in the evening, and they are pleased. The total never changes.
+In Zhuangzi 2, a monkey-keeper offers three measures of acorns in the morning and four in the evening. When the monkeys become angry, he reverses the allocation and they are pleased. The daily total stays the same. Legge's translation draws this lesson:
 
-> His two proposals were substantially the same, but the result of the one was to make the creatures angry, and of the other to make them pleased - an illustration of the point I am insisting on. Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible. (Zhuangzi 2 §6, Legge, [METIS English Classics edition](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+> Therefore the sagely man brings together a dispute in its affirmations and denials, and rests in the equal fashioning of Heaven. Both sides of the question are admissible.
+> (Zhuangzi 2, §6, [Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/).)
 
-The principle's application follows: hold positions lightly, and ask what the other side is seeing that you are not.
+Chad Hansen interprets the passage through the dependence of judgments on perspective. In this reading, understanding another position can make accommodation possible without requiring us to judge every position equally correct ([Stanford Encyclopedia of Philosophy, §§4.5, 4.8](https://plato.stanford.edu/entries/zhuangzi/)).
 
-(Zhuangzi 2.)
+### Plain words
 
-**Plain words**
-The monkeys' anger and pleasure turned on the order the acorns arrived in, not the amount. The same offer, arranged differently, landed differently. The chapter's sage responds by admitting both sides of a question and resting.
+Before treating a disagreement as a contest between sense and nonsense, find out what each person is responding to. The total may be unchanged while the timing matters to them. You can take that difference seriously and still question a claim that lacks support.
 
-*For example:* Compare the two allocations yourself: three in the morning and four at night, then four in the morning and three at night. Ask which you would prefer, and notice that nothing about the total changed.
+### For example
+
+Imagine two colleagues dividing the same hours of work. One wants an earlier shift because of caring responsibilities. Check whether changing the arrangement would meet both people's needs before dismissing the preference as a refusal to do a fair share.
 
 ## Sources
 
-- [Zhuangzi, Chapter 2, "The Adjustment of Controversies", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) — the monkey-keeper story and the sage's resting place
+- [Zhuangzi, Chapter 2, §6, James Legge translation, NOVA Open Publishing](https://pressbooks.nvcc.edu/eng255/chapter/the-zhuangzi/): the monkey-keeper passage quoted above.
+- [Chad Hansen, "Zhuangzi", Stanford Encyclopedia of Philosophy, §§4.5 and 4.8](https://plato.stanford.edu/entries/zhuangzi/): perspective, accommodation and the limits of relativism.
+- [Zhuangzi, Chapter 2, "The Adjustment of Controversies", Legge translation (1891), METIS English Classics edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf): another edition.
+
+## Related concepts
+
+- [[Perspectivism]]: a philosophical comparison.
+- [[Epoché]]: a comparison with suspension of judgment.
+- [[Dichotomous (black-and-white) thinking]]: a psychological comparison.
 
 ## Stories
 - [[ST370 — The Blind Men and the Elephant|370. The Blind Men and the Elephant]]
@@ -36,8 +46,7 @@ The monkeys' anger and pleasure turned on the order the acorns arrived in, not t
 - [[ST416 — A Banquet the Seabird Could Not Survive|416. A Banquet the Seabird Could Not Survive]]
 ## Psychology parallels
 
-- **[[Dichotomous (black-and-white) thinking|Dichotomous (black-and-white) thinking]]**, predicts distress and interpersonal dysfunction
-- **Cognitive flexibility is protective** (Dichotomous Thinking Index)
+- [[Dichotomous (black-and-white) thinking|Dichotomous (black-and-white) thinking]]
 
 ## Philosophy parallels
 
