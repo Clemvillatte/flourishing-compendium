@@ -48,3 +48,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The monthly rhythm and the feed/prune close are labelled as the compendium's editorial choices, not the published method.
 - Guided version: exempt as an inherently written reflection (supervisor disposition 2026-10-22); recorded here per the disposition.
 - Validator: 1 checked, 0 failed.
+
+## K228 — Awe practice (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: Sturm et al. 2022 (Emotion 22(5):1044-1058, PubMed 32955293, fetched) and Keltner & Haidt 2003 (Cognition and Emotion 17(2):297-314, PubMed 29715721, fetched).
+- Both blockquotes compared against the fetched PubMed abstracts (match): the two-appraisals definition (Keltner & Haidt) and the trial description plus small-self and daily-distress results (Sturm et al.).
+- The trial's null results are quoted on the page ("Postintervention anxiety, depression, and life satisfaction did not change from baseline in either group") per the kernel standard's honesty bar.
+- Protocol steps 1-2 anchored on the opened trial (15-min weekly outdoor walks, oriented to experience awe); the vastness menu is labelled as the compendium's, drawn from the page seed; step 3 is editorial. The seed's "reliably produces" softened to what the trial supports, with the older-adult sample limit stated.
+- Guided version: exempt as a self-guided walk by design (supervisor disposition 2026-10-22); recorded here per the disposition.
+- Validator: 1 checked, 0 failed.
