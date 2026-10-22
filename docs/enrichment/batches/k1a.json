@@ -11,7 +11,8 @@
   "content/kernels/K244 — Public commitment.md",
   "content/kernels/K109 — Quiet eye.md",
   "content/kernels/K189 — Challenge-skill calibration.md",
-  "content/kernels/K112 — Scheduled empty time.md"
+  "content/kernels/K112 — Scheduled empty time.md",
+  "content/kernels/K207 — Deep listening.md"
  ],
  "in_progress": null,
  "queue": [
@@ -60,5 +61,5 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T13:46:24+00:00"
+ "updated": "2026-10-22T13:46:58+00:00"
 }
