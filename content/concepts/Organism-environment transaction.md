@@ -18,7 +18,7 @@ In a transaction, the terms exist only together. A buyer is a buyer only inside 
 
 ### Origin
 
-Dewey first signalled the direction in "The Reflex Arc" (1896), where stimulus and response are not two events joined but one continuous circuit. Experience and Nature (1925) widened the claim: experience is the interaction of organism and environment. Knowing and the Known (1949) then fixed the vocabulary, presenting transaction as the most advanced level of inquiry, beyond self-action and interaction. The transactional approach, they wrote, claims "the right to see together, extensionally and durationally, much that is talked about conventionally as if it were composed of irreconcilable separates."
+Dewey had found the word "transaction" advantageous in earlier writings, as the introduction to Bentley's Inquiry into Inquiries notes, and his final collaboration with Bentley, Knowing and the Known (1949), fixed the vocabulary, placing "the viewing of physical nature and human society from the transactional as against the inter-actional or self-actional point of view" at the centre of the approach. What the transactional view rules out is exactly the picture of a ready-made mind confronting a ready-made world: the participants, the names, and the things named take shape together inside the event.
 
 ### A real-life example
 

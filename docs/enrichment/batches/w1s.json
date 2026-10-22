@@ -9,8 +9,13 @@
   "Organism-environment transaction"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
+  "Object relations theory": "Reopened for QC: QC: attribution repairs (Fairbairn specificity, Winnicott grounding)",
+  "Organism-environment transaction": "Reopened for QC: QC: remove snippet-sourced quote, ground origin"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:29:24+00:00"
+ "updated": "2026-10-22T11:32:05+00:00",
+ "band_done": false
 }
