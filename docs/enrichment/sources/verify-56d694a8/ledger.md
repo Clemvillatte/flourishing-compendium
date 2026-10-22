@@ -270,3 +270,12 @@ save verified on origin/main.
 4. **Nishkama karma** — the Vivekananda sentence VERIFIED verbatim against the opened primary text (Karma Yoga, ch. III "The Secret of Work"); the page's citation points to the Karma Yoga PDF, which contains the passage. PASS.
 
 Round 24: 4 pages, 6 quoted passages verified, no defects.
+
+## Round 25
+
+1. **Liberality** — both Aristotle NE IV.1 (Ross) quotes VERIFIED verbatim via the opened classics.mit.edu page. PASS.
+2. **Moral dilemma research** — the McConnell SEP quote and both Haidt 2001 abstract quotes VERIFIED verbatim via the opened SEP entry and PubMed abstract. PASS.
+3. **Motor intentionality** — the Toadvine SEP Merleau-Ponty passage VERIFIED verbatim via the opened SEP entry. PASS.
+4. **Non-contention** — both Legge Daodejing quotes (ch. 8; ch. 68) VERIFIED verbatim against the opened Gutenberg 216 text (line-wrapped in the plain text; wording identical). PASS.
+
+Round 25: 4 pages, 7 quoted passages verified, no defects.
