@@ -43,6 +43,7 @@ No verified guided version supplied; the absence is flagged in the band ledger p
 
 - [[The standpoint determines what appears]]
 - [[Epistemic humility]]
+- [[Hermeneutic circle]]
 
 ## Related kernels
 

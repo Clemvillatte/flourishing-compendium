@@ -138,3 +138,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - What the evidence does not test is stated on the page: the guide is methods advice for qualitative researchers, and no empirical claim is made for the practice outside research.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K180 — Feedback loops (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: the Argyris & Schön (1978, p. 3) single-loop/double-loop definition passage, quoted verbatim in a GWU Minerva scholarly PDF (www2.gwu.edu, downloaded directly, text extracted with pypdf; the passage verified against the raw extraction, PDF line-break hyphenation noted). The infed.org Argyris profile used by the earlier K191 session now blocks direct fetch (mirror returns an HTML notice; infed upload URLs return 404 HTML), so the GWU PDF is the verifiable carrier used here; recorded for the supervisor.
+- Protocol steps 3-4 are labelled as the compendium's personal practice built on the theory's two loops; steps 1-2 (tracking and review) are the practice's own scaffolding, not attributed to Argyris & Schön.
+- What the evidence does not test is stated on the page: the theory concerns organizations and organizational performance; the personal extension is editorial.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
