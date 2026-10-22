@@ -4021,6 +4021,20 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
 
   function safeDecode(t){ try { return decodeURIComponent(t); } catch (err) { return t; } }
 
+  /* The graph view's script loads after this one; an address can open the
+     graph before it exists. Poll briefly and activate the moment it lands,
+     but only if the graph view is still the one showing. */
+  function waitForGraph(){
+    if (window.fcGraph) { window.fcGraph.activate(); return; }
+    var tries = 0;
+    var iv = setInterval(function(){
+      if (window.fcGraph) {
+        clearInterval(iv);
+        if (document.body.classList.contains('graph-mode')) window.fcGraph.activate();
+      } else if (++tries > 300) { /* ~30s: give up quietly */ clearInterval(iv); }
+    }, 100);
+  }
+
   /* Replay an address into its page. Card addresses belong to the card
      module above; anything unmatched leaves the default view alone. */
   function applyRoute(){
@@ -4039,7 +4053,15 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
         if (window.__openEditorSidebar) window.__openEditorSidebar();
         return true;
       }
-      if (v === 'rand' || v === 'wiki' || v === 'graph') { window.fcSwitchView(v); return true; }
+      if (v === 'rand' || v === 'wiki' || v === 'graph') {
+        var hadGraph = !!window.fcGraph;
+        window.fcSwitchView(v);
+        /* graph.js is the last script the boot loader runs; when the address
+           opens the graph before it lands, the view switch's activate() call is
+           dropped and the graph stays blank. Activate as soon as it arrives. */
+        if (v === 'graph' && !hadGraph) waitForGraph();
+        return true;
+      }
       return false;
     }
     if (h === '#explorer') {

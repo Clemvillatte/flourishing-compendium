@@ -165,3 +165,18 @@ full .acad-inner content width (1208px at a 1280px viewport) with the same
 before the 4-column change. Stale galleries are cleared on every Academy
 re-render. QA re-run: all 34 checks pass (routes, mirroring, 4 columns,
 full width, card size, mobile 2 columns, zero console errors).
+
+## 2026-10-22 (UTC) — Owner-reported bug: #view=graph opened a blank graph
+
+Owner report: entering the Graph via the tab works, but opening
+https://clemvillatte.github.io/flourishing-compendium/#view=graph leaves
+the graph blank ("Arranging the graph..." then nothing). Cause: graph.js
+is the last script boot.js loads; when the address opens the graph view
+before the script lands, the view switch's `if (window.fcGraph)
+fcGraph.activate()` is silently dropped and never retried, so the canvas
+never builds. Fix in the view router: when the graph address is applied
+and fcGraph is not yet present, poll briefly and activate the moment the
+script arrives (only if the graph view is still showing). QA: a new
+regression check delays graph.js by 3s and verifies the graph still
+populates (6 kind toggles); the direct-load check now also asserts the
+graph is populated, not just the view class. All 36 checks pass.

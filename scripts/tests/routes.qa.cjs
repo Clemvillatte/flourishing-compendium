@@ -77,6 +77,28 @@ async function errs(page) { return await page.evaluate(() => window.__errs || ['
 
   await go('#view=graph', '#graphView');
   ok('#view=graph renders Graph', await page.evaluate(() => document.body.classList.contains('graph-mode')));
+  ok('graph populated on direct load', await page.evaluate(() => document.querySelectorAll('#graphToggles > *').length > 0));
+
+  /* ---- the graph route races graph.js (loaded last by boot.js) ---- */
+  {
+    const gctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
+    const gp = await gctx.newPage();
+    // delay graph.js so the route applies before the script lands
+    await gp.route('**/assets/graph.js*', async route => {
+      await new Promise(r => setTimeout(r, 3000));
+      await route.continue();
+    });
+    await gp.goto(BASE + '?race=1#view=graph', { waitUntil: 'domcontentloaded' });
+    // without the fix: graph-mode turns on but nothing ever populates
+    await gp.waitForFunction(() => document.querySelectorAll('#graphToggles > *').length > 0, null, { timeout: 15000 });
+    ok('graph populates when the address beats graph.js to the page', true);
+    const gstate = await gp.evaluate(() => ({
+      mode: document.body.classList.contains('graph-mode'),
+      toggles: document.querySelectorAll('#graphToggles > *').length
+    }));
+    ok('delayed graph fully active', gstate.mode && gstate.toggles > 0, JSON.stringify(gstate));
+    await gctx.close();
+  }
 
   await go('#view=edit', '#editorSidebar');
   ok('#view=edit opens editor sidebar', await page.evaluate(() => document.body.classList.contains('editor-open')));
