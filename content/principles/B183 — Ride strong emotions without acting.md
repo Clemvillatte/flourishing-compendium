@@ -12,15 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 183** — Ride strong emotions without acting
 
-Thich Nhat Hanh's teaching on anger is the clearest formulation of this principle, and it comes as an image rather than a rule. A mother cooking for her family in the kitchen, he says, sees the pot boiling over and does not throw the pot out the window; she simply turns down the flame. "The practice is not to suppress or to fight against the feeling, but to recognize the feeling and to take care of it" ([Nhat Hanh, The Heart of the Buddha's Teaching, Archive.org](https://archive.org/details/heartofbuddhaste0000nhat)). The emotion is not the problem; the acting-on-it is the problem.
+Thich Nhat Hanh's teaching on feelings in The Heart of the Buddha's Teaching is the clearest modern statement of this principle:
 
-The Buddha's simile in MN 20 for the meditator dealing with distracting, forceful thoughts is the same move applied to the mind: when a thought will not go away, you attend to the body and make the mind quiet, like a man walking fast who asks himself why he is walking fast, and then walks slowly ([MN 20, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)). The instruction is not to stop feeling; it is to stop the feeling from driving the vehicle.
+> The practice of not clinging to or rejecting feelings is an important part of meditation. If we face our feelings with care, affection, and nonviolence, we can transform them into a kind of energy that is healthy and nourishing. ([Thich Nhat Hanh, The Heart of the Buddha's Teaching, PDF copy](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf))
 
-> "The practice is not to suppress or to fight against the feeling, but to recognize the feeling and to take care of it." (Thich Nhat Hanh, The Heart of the Buddha's Teaching, [Archive.org](https://archive.org/details/heartofbuddhaste0000nhat))
+He also writes that "To suppress our pain is not the teaching of inclusiveness. We have to receive it, embrace it, and transform it." (same PDF, [text](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf))
 
-**Plain words** The wave is survivable; the decisions made inside it usually are not. The furious drive home rehearsing the resignation is not itself the problem — the problem is sending the email while still at the peak. Feel the emotion fully in the body, let it peak, and act only when it has passed. This is not suppression, which stores the emotion for later with interest; it is the recognition that the emotion and the decision are two separate events, and merging them is how both get ruined.
+The early texts have a related instruction for forceful thoughts. In MN 20 the Buddha says that if unskillful thoughts still arise, the monk "should attend to the relaxing of thought-fabrication with regard to those thoughts". The simile follows: a man walking quickly thinks, 'Why am I walking quickly? Why don't I walk slowly?' So he walks slowly, then stands, sits and lies down, "giving up the grosser posture" and taking up "the more refined one" ([MN 20, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)). The step is gradual and each stage is a little quieter.
 
-*For example:* Two people get the same infuriating email. One replies immediately while still shaking; the reply is sent and cannot be un-sent, and the relationship is damaged for years. The other parks outside the house, breathes, waits, and writes the same sharp points the next morning with a clear head. Same anger; only one of them still has the option to be effective.
+The compendium's reading is that a feeling can be fully felt while the choice to act is made separately.
+
+(Heart of the Buddha's Teaching, chapter on the aggregates; MN 20, trans. Thanissaro.)
+
+### Plain words
+
+You can feel an emotion fully without acting on it straight away. The furious drive home is a bad time to write the resignation. Feel it, let it ease, and decide after. That is not suppression, which Thich Nhat Hanh rejects in the passage above. The emotion and the decision are two events.
+
+### For example
+
+Two people get the same infuriating email. One replies at once, while shaking. The other parks outside the house, breathes, and writes the same sharp points the next morning. This one is imagined.
+
+## Sources
+
+- Thich Nhat Hanh, *The Heart of the Buddha's Teaching*: [PDF copy](https://www.dwms.org/uploads/8/7/8/7/87873912/thich_nhat_hanh_-_the_heart_of_buddhas_teaching.pdf)
+- MN 20, Vitakkasanthana Sutta, trans. Thanissaro Bhikkhu: [Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html)
 
 ## Psychology parallels
 
