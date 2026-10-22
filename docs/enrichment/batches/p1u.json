@@ -34,7 +34,6 @@
  ],
  "in_progress": null,
  "flagged": {
-  "B137": "Ownership overlap detected after p1u rewrite: already done p1p; source-verified p1u rewrite preserved protected content, supervisor attribution review needed",
   "SCOPE_CORRECTION": "Manifest correct; worker misread B IDs. B152/B137/B149 restored in 1f71a89a; ignore erroneous done/flags for B125 B137 B139 B140 B149 B152 B157 B163 B164 B165. Supervisor may reconcile via approved tooling; details in p1u ledger."
  },
  "missing_concepts": [],
