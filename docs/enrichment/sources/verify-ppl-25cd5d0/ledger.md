@@ -978,3 +978,14 @@ definition and the "as many social selves" passage are verbatim (the carrier ins
 footnote marker "[2]" after "wound him." which the page rightly omits, and italics markers
 around "a man has... recognize him"; words identical). The pirate-youth passage the page
 paraphrases is present verbatim in the carrier. No routed findings.
+
+## Round 42 (2026-10-22; inspection ~12:43-12:44Z; raw-text method with carrier fallback)
+
+### Affective dynamics framework (w1t, done)
+
+2 quoted passages checked, 2 PASS — the cited PubMed record (25822133) was verified via a
+search-engine snippet of that same record (the fetcher is blocked from PubMed content): the
+opening sentence and the concluding sentence both appear word-for-word, as do the 793
+effect sizes / 79 studies figures and the definitions of the three measures (variability as
+within-person standard deviation, instability as magnitude of consecutive changes, inertia
+as autocorrelation). No routed findings.
