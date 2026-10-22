@@ -12,15 +12,28 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 162** — Hatred never ceases by hatred
 
-The Dhammapada verse is one of the most quoted lines in all of Buddhist literature, and it is worth reading slowly because it makes a claim, not an appeal. "Never here by enmity are those with enmity all stilled, in this world; by non-enmity they are stilled — this an eternal truth" ([Dhammapada 5, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html)). The Buddha is not saying that non-hatred is more virtuous; he is saying that hatred, as a mechanism, does not stop hatred. It escalates it.
+The Dhammapada opens with a pair of verses about hatred. Verse 5 reads, in Buddharakkhita's translation:
 
-The verse is paired with the one that explains why: those who hold on to the thought "he abused me, he struck me, he overpowered me, he robbed me" keep their hatred alive ([Dhammapada 3-4, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html)). The keeping-alive is done by rehearsal. Every retelling of the injury feeds the fire it claims to be responding to.
+> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal. ([Dhammapada 5, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-> "Never here by enmity are those with enmity all stilled, in this world; by non-enmity they are stilled — this an eternal truth." (Dhammapada 5, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html))
+Thanissaro Bhikkhu's version is plainer: "Hostilities aren't stilled through hostility, regardless. Hostilities are stilled through non-hostility: this, an unending truth." ([Dhammapada 3-6, Access to Insight PDF](https://accesstoinsight.org/lib/authors/thanissaro/dhammapada.pdf))
 
-**Plain words** Two fires do not put each other out; they merge into a bigger fire and split the bill. This is not a moral instruction about being the better person; it is a mechanical observation about what retaliation actually does. The neighbour war that ends, ends because one side brings the ladder; not capitulation, just a fire extinguisher made of decency. If your current strategy for ending someone's hostility is your own hostility, the strategy has already failed.
+Verses 3 and 4 give the reason in the same chapter. People who keep going over "He abused me, he struck me, he overpowered me, he robbed me" do not still their hatred, and people who do not keep going over it do. The verse is a claim about what hatred does. It does not ask you to be nicer.
 
-*For example:* Two neighbours run the same dispute — a fence, a noise, a boundary. One retaliates at every escalation and the war compounds over years. The other brings the ladder once, without announcement, and the conflict ends; not because the grievance was resolved, but because one side stopped feeding it.
+(Dhammapada 3-5, trans. Buddharakkhita; 3-6, trans. Thanissaro.)
+
+### Plain words
+
+Fighting hostility with hostility gives you two hostile people. The Dhammapada says it stops when one side stops feeding it, and that starts with how you retell the injury to yourself. Decency here is practical, because it is the only thing that has ever ended these fights.
+
+### For example
+
+Two neighbours argue over a fence. One answers every escalation in kind and the dispute runs on for years. The other puts the grievance down, sorts out the practical matter calmly, and the dispute ends. This one is imagined.
+
+## Sources
+
+- Dhammapada 3-5, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
+- Dhammapada 3-6, trans. Thanissaro Bhikkhu: [Access to Insight PDF](https://accesstoinsight.org/lib/authors/thanissaro/dhammapada.pdf)
 
 ## Stories
 - [[ST367 — The Gift Nobody Accepted|367. The Gift Nobody Accepted]]

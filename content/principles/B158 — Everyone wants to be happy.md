@@ -12,15 +12,30 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 158** — Everyone wants to be happy
 
-The Dhammapada verses most often cited for this principle run as a pair: "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill" ([Dhammapada 129-130, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)). The instruction to put yourself in the place of another is not presented as advanced compassion; it is presented as the obvious reading of a shared condition — everyone trembles, everyone fears.
+Dhammapada 129-130 gives the shared condition:
 
-The Metta Sutta makes the same move with an instruction rather than a claim: cherish all living beings the way a mother cherishes her only child ([Karaniya Metta Sutta, Sn 1.8, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)). The bar is not warm feeling; it is recognition that the person in front of you is running the same operating system — wanting to be well, wanting the pain to stop — even when the surface behaviour is hostile.
+> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill. ([Dhammapada 129, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
 
-> "All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill." (Dhammapada 129-130, Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
+The next verse, 130, says life is dear to all. Both then draw the same conclusion about harming others. The instruction treats the shared fear as plain fact and asks nothing more than that you see it.
 
-**Plain words** The customer screaming at the barista is not a different species from you. Underneath the volume is a person whose day is collapsing, running the same wish you run when your day collapses: let this stop hurting. This is not a demand to like them or to accept the behaviour; it is a recognition that the cruelty is a language, not a nature. Start from the shared ground and the intervention changes; you stop trying to win against them and start trying to lower the temperature.
+The Metta Sutta (Sn 1.8) makes the same move as a practice: "As a mother would risk her life to protect her child, her only child, even so should one cultivate a limitless heart with regard to all beings." ([Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)) The sutra also says: "May all beings be happy at heart."
 
-*For example:* Two people deal with the same hostile customer. One treats the hostility as the fact and matches it; the interaction escalates. The other hears the wish underneath the volume and responds to that; the interaction ends. Same customer; only one of them is going to have a calm afternoon.
+The compendium's reading is that everyone in front of you wants to be well. That includes people who are acting badly. It does not ask you to like them or accept their behaviour.
+
+(Dhammapada 129-130, trans. Buddharakkhita; Karaniya Metta Sutta, trans. Thanissaro.)
+
+### Plain words
+
+The customer shouting at the barista wants the same thing you want on a bad day, which is for the hurt to stop. Starting from that shared ground changes what you try to do. You stop trying to win and start trying to lower the temperature.
+
+### For example
+
+A customer is shouting about a wrong order. The barista hears the frustration under the volume, says "I can see this ruined your morning, let me fix it", and the shouting drops. This one is imagined.
+
+## Sources
+
+- Dhammapada 129-130, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)
+- Karaniya Metta Sutta (Sn 1.8), trans. Thanissaro Bhikkhu: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)
 
 ## Psychology parallels
 
