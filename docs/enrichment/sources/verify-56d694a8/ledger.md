@@ -71,3 +71,12 @@ pages re-validated. No open findings remain from this session's rounds.
 8. **Affect heuristic r = -.74** — closed in round 2 (Efendić SAGE prints "original: r = −.74").
 
 Round 4: 7 pages, 11 quoted passages verified, 1 citation defect repaired (Abduction CP 5.171 carrier). All sampled morning fast-track pages are quotation-faithful after the Abduction repair.
+
+## Round 5 — morning sample continued (~12:12-12:16 UTC)
+
+1. **Continuing bonds** — APA Dictionary definition VERIFIED verbatim. PASS.
+2. **Correspondence theory of truth** — all four SEP quotes (Aristotle/Metaphysics, the narrow-view sentence, Russell's Problems of Philosophy sentence, the relational-property sentence) VERIFIED verbatim; one apparent mismatch is only em-dash spacing (page " — ", SEP "—"), a typographic non-defect. PASS.
+3. **Cosmopolitan care** — Miller abstract sentence VERIFIED verbatim. PASS.
+4. **Contextual intelligence** — Suzuki et al. 2024 Sternberg triarchic quote VERIFIED verbatim. PASS.
+
+Round 5: 4 pages, 7 quoted passages verified, no defects.
