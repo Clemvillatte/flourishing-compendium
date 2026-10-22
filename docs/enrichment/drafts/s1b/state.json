@@ -415,15 +415,20 @@
    ]
   },
   "s1b-019": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Two Scales: willingness and distress are distinct questions; independently published ACT overview",
    "history": [
     {
      "t": "2026-10-22T15:21:29+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:25:47+00:00",
+     "to": "qc_pending",
+     "note": "Direct raw manuscript pp9-10 checked; no promise of symptom reduction; independent batch QC requested"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:21:29+00:00"
+ "updated": "2026-10-22T15:25:47+00:00"
 }
