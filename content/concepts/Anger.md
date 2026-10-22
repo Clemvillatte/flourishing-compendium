@@ -35,7 +35,7 @@ The same passage continues that anger's first impulses are fierce, and that one 
 
 Shantideva treats hatred in the sixth chapter of the Bodhicharyavatara as what destroys accumulated merit.
 
-> "Whatever wholesome deeds, Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger." (Shantideva, Bodhicharyavatara VI.1, [Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf))
+> "Whatever wholesome deeds. Such as venerating the Buddhas, and generosity, That have been amassed over a thousand aeons Will all be destroyed in one moment of anger." (Shantideva, Bodhicharyavatara VI.1, [Batchelor translation](https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf))
 
 His verses on what hatred does to the person who holds it run in the same direction as Seneca's.
 

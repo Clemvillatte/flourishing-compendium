@@ -246,3 +246,9 @@ Decisions:
 - Related concepts: The via media (existing original).
 - James A Pluralistic Universe book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Anger QC reopen (advisor round-3)
+
+Shantideva VI.1 quote punctuation corrected: raw PDF extraction shows "Whatever wholesome deeds." with a period, my earlier quote merged lines with a comma. Fixed to match raw PDF character-for-character (period retained, line-merge only).
+
+Also: earlier ledger claim "Anger Related-list trimmed to template" was WRONG — the trim restored the 4 protected bare-ID wikilinks but the list still carries 14 concept rows (exceeds the 5-12 template). Not yet repaired (deferred for next pass).
