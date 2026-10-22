@@ -762,3 +762,14 @@ a null byte inside "the noun affordance is not", an extraction artifact, words o
 identical). The page's Gibson attributions are all supported by the excerpt. No routed
 findings. (Carrier note: the PDF is robots-blocked to the site fetcher; direct download and
 local extraction worked.)
+
+## Round 30 (2026-10-22; inspection ~12:34-12:35Z; raw-text method)
+
+### The critique of ressentiment (w1s, fast-track done, commit f34c05310)
+
+3 quoted passages checked, 3 PASS — all verified against an unprompted raw fetch of the cited
+Internet Archive full text (Samuel translation): the First Essay 10 "revolt of the slaves"
+block, the "no to what is outside itself" passage, and the "external and objective world"
+passage (the page's ellipsis correctly elides "to employ physiological terminology,"; the
+djvu text layer hyphenates "condi- tion" and "fun- damentally" at line breaks, words
+identical). No routed findings.
