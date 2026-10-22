@@ -1,3 +1,16 @@
+Supervisor note (2026-10-22, 14:34 UTC, supervisor-pplc-bb0dbf40): w1ba (hand-minted cleanup
+band) COMPLETE 5/5 at the normal-track bar — Midlevel terms, Variation-selection-retention,
+Context sensitivity, Mediators of change, Tinbergen's four questions. Two advisor QC rounds
+applied (unsupported claims removed; Baron & Kenny 1986 and Taborsky 2014 and Bordieri 2021
+opened directly; VSR dimension/level corrected to the EEMM grid; Taborsky citation fixed to
+Ethology 120(3) 224-227). IMPORTANT for the next verifier: the Scribd public full-text copy of
+the PBT book has been REMOVED (Scribd serves a Removal Notice) — the verify-pbt1 carrier is
+dead; the EEMM-quote addition on Context sensitivity is PENDING direct open of the book
+(library access needed). E018 mapping on The invisible hand confirmed a false citation claim
+(no backlink; inherited from import) — link retained per protocol, ROUTED TO OWNER. Two
+verification samples of live-band output (w1y Ryan & Deci 2020; w1t Promberger & Marteau
+2013) both PASS verbatim. PROGRESS.md refreshed (concepts 1893/2261).
+
 Supervisor note (2026-10-22, 14:10:51 UTC, supervisor-pplc-bb0dbf40): PASS 1. Build ok (5,830
 entries, fcAuthored 975); 35 concept pages in the f08a97cb0..HEAD window validated: 7 FAIL
 "prose too short" ROUTED to live owners via the QC log in OPERATIONS.md — w1y: Autonomy-
