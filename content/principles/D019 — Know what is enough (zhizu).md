@@ -12,26 +12,41 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 19** — Know what is enough (zhizu)
 
-The Daodejing connects contentment and knowing when to stop with freedom from shame and blame: "Who is content / Needs fear no shame. / Who knows to stop / Incurs no blame." (DDJ 44.)
+Chapter 44 of the Daodejing asks what a person would sacrifice for fame and wealth. Its closing verse connects contentment with knowing when to stop:
 
-> There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency. (Daodejing 46, Legge trans., [Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
+> Who is content
+> Needs fear no shame.
+> Who knows to stop
+> Incurs no blame.
+> (Daodejing 44, [James Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-As a practical exercise, choose what would count as sufficient before taking on further commitments. The principle's directive to define sufficiency in advance (money, food, achievement, attention) frames that choice.
+Chapter 46 calls contentment's sufficiency "enduring and unchanging" ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)). Alan Chan's interpretation adds a distinction: naturalness includes basic human needs, while self-gratifying desire can keep expanding without an end ([Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/)).
 
-(DDJ 44, 46.)
+As an application, decide what would meet a need before allowing every further opportunity to become a requirement. That is different from treating an unmet need as sufficient or asking someone else to accept deprivation.
 
-**Plain words**
-Ask what you want the next gain to provide. If you decide you already have enough for that purpose, you can stop. The fact that more is available need not decide the matter for you.
+### Plain words
 
-*For example:* Imagine a freelancer choosing three clients a week as a workable limit. When a fourth inquiry arrives, they can refer to that decision when deciding whether to accept more work.
+Ask what you want the next gain to provide and whether you already have enough for that purpose. Include genuine obligations in that judgment. You can then weigh another gain against what obtaining it would require, rather than assuming that more is always necessary.
+
+### For example
+
+Imagine a freelancer deciding how many clients to accept. They first consider essential costs and caring responsibilities, then choose a workable limit. When another inquiry arrives, they can revisit that judgment instead of assuming that either accepting or refusing is automatically the wiser choice.
 
 ## Related concepts
 
 - [[D030]] — zhizu (knowing enough) is the DDJ 33 root of the contentment argument D030 draws from DDJ 44/46; the two are the limit and the asset
+- [[Sufficiency]]: the philosophical question of enough.
+- [[Contentment with sufficiency]]: the Daoist comparison.
+- [[Aspiration index]]: research on the relative importance of life goals.
 
 ## Sources
 
 - [Laozi, Daodejing 44 and 46, Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm) — full chapter texts
+- [Alan Chan, "Laozi", Stanford Encyclopedia of Philosophy, §7](https://plato.stanford.edu/entries/laozi/): basic needs and self-gratifying desire.
+- [Kasser and Ryan, "A dark side of the American dream", Journal of Personality and Social Psychology 65 (1993), 410–422, PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/8366427/): relative financial aspirations and well-being.
+- [Kahneman and Deaton, "High income improves evaluation of life but not emotional well-being", PNAS (2010)](https://www.pnas.org/doi/10.1073/pnas.1011492107): the earlier income finding.
+- [Jebb et al., "Happiness, income satiation and turning points around the world", Nature Human Behaviour (2018)](https://www.nature.com/articles/s41562-017-0277-0): regional variation.
+- [Killingsworth, Kahneman and Mellers, "Income and emotional well-being: A conflict resolved", PNAS (2023)](https://www.pnas.org/doi/10.1073/pnas.2208661120): the later reanalysis.
 
 ## Stories
 
@@ -70,8 +85,8 @@ Ask what you want the next gain to provide. If you decide you already have enoug
 - [[K227 — Time-affluence audit|K227 Time-affluence audit]]
 ## Psychology parallels
 
-- **Income and well-being**, diminishing, context-dependent returns rather than a universal plateau (Kahneman and Deaton, 2010; Jebb et al., 2018; Killingsworth, Kahneman and Mellers, 2023)
-- **[[Aspiration index|Aspiration index]]**, materialistic aspirations predict lower well-being (Kasser and Ryan, 1993)
+- **Income and well-being**: the 2023 reanalysis found different patterns across the happiness distribution, not a plateau shared by everyone. These were cross-sectional associations, not evidence of what a particular person's next income increase would cause ([Killingsworth, Kahneman and Mellers, 2023](https://www.pnas.org/doi/10.1073/pnas.2208661120)); compare [Kahneman and Deaton, 2010](https://www.pnas.org/doi/10.1073/pnas.1011492107) and [Jebb et al., 2018](https://www.nature.com/articles/s41562-017-0277-0).
+- [[Aspiration index|Aspiration index]]: placing financial success more centrally than other goals was associated with poorer well-being and adjustment in the samples studied. This concerns relative aspirations, not income alone, and does not establish causation ([Kasser and Ryan, 1993, abstract](https://pubmed.ncbi.nlm.nih.gov/8366427/)).
 
 ## Philosophy parallels
 
