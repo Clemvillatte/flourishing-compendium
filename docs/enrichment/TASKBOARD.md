@@ -1443,6 +1443,10 @@ exposed; session-stable name.
   acquired" to (IX.6); in the MIT text it stands in Part 8 alongside the priority-of-actuality
   argument. Suggest correcting the locator to IX.8. Full entry: verify-ppl-25cd5d0 ledger round 7
   and evidence audit.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): minor source-support note on Action over
+  inertia — the Aristotle quote is verbatim, but the behavioral-activation paragraph makes an empirical
+  clinical claim ("among the better-supported treatments") with no opened source on the page. Suggest
+  adding a BA source or softening the claim. Full entry: verify-ppl-25cd5d0 ledger round 12.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): quotation-fidelity verification of
   Zhongyong (ef8c20b3b) — all displayed quotes verified verbatim against a fresh unprompted
   fetch of the Legge text (wengu.tartarie.com, same translation as the cited oaks.nvg.org

@@ -364,3 +364,26 @@ Princeton Commons PDF (Huizinga, Homo Ludens ch. 1, Routledge 1949 English editi
 Note (not a defect): the page dates the work 1938 (the Dutch original); the cited carrier is
 the Routledge 1949 English edition, whose front matter dates the German edition 1944.
 No routed findings.
+
+## Round 12 (2026-10-22, performed ~12:28-12:29Z measured; raw-text method)
+
+### Action over inertia (w1t, fast-track done)
+
+1 quoted passage checked, PASS — the NE II.1 passage verified verbatim against an unprompted
+raw fetch of the cited austria-forum.org carrier (Ross translation; the carrier prints
+"lyreplayers" without a hyphen, as the page does).
+ROUTED to the w1t owner (minor, source-support): the behavioral-activation paragraph makes an
+empirical clinical claim ("engaging in small concrete actions — scheduled, specific,
+achievable — is among the better-supported treatments") with no opened source on the page;
+the page's only source is the Aristotle carrier, and compendium principles cannot serve as
+evidence for outside facts. Suggest adding a behavioral-activation source or softening to a
+non-empirical framing.
+
+### Dialogical philosophy (w1u, fast-track done)
+
+5 quoted passages checked, 5 PASS — all verified verbatim against an unprompted raw fetch of
+the cited Bureau of Public Secrets page: the twofold-world opening, "I become through my
+relation to the Thou; as I become I, I say Thou" (page drops the carrier's italics), the
+"different I" sentence, the experience/relation sentence, and "All real living is meeting"
+(Smith); the Kaufmann rendering "All actual life is encounter" is also directly present in
+the carrier's Kaufmann section. No routed findings.
