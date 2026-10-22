@@ -80,3 +80,17 @@ Round 4: 7 pages, 11 quoted passages verified, 1 citation defect repaired (Abduc
 4. **Contextual intelligence** — Suzuki et al. 2024 Sternberg triarchic quote VERIFIED verbatim. PASS.
 
 Round 5: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 6 — final morning sample (~12:18-12:27 UTC)
+
+1. **Creative self-efficacy** — all five quotes VERIFIED verbatim: the Tierney & Farmer definition ("the belief one has the ability to produce creative outcomes", p. 1138) and all four meta-analysis sentences (N = 17226; r = .39; r = .53 vs .25; r = .23 vs .41) against the opened [Haase et al. 2018 full text](https://www.tandfonline.com/doi/full/10.1080/10400419.2018.1411436); the OpenAlex abstract sentence ("predicted creative performance beyond the predictive effects of job self-efficacy") verified via the reconstructed OpenAlex abstract. PASS.
+2. **Competence** — White 1959 definition sentence and both Ryan & Deci 2000 quotes (p. 57 "innate needs for competence, autonomy, and relatedness"; p. 58 CET sentence) VERIFIED verbatim against the opened carriers (archive.org White PDF; SDT open PDF). PASS.
+
+Round 6: 2 pages, 8 quoted passages verified, no defects.
+
+## Session totals (verify-56d694a8)
+
+6 verification rounds; 23 pages checked; 50+ quoted passages verified against freshly opened
+carriers; 6 defects found and repaired (Affect heuristic misquote, Anticipatory affect wording,
+Anticipated consequences comma, pbworks dead carrier, Gay Science/Genealogy label, Abduction
+CP 5.171 carrier); all repaired pages re-validated; ledger and repairs pushed after every round.
