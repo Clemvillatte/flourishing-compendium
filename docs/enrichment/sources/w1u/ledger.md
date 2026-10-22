@@ -4,7 +4,7 @@ Band: w1u (69 concepts, previously unclaimed). Item 1: Continuing bonds.
 
 ## Continuing bonds
 - Degree check: 4 connections (2 concepts + 2 principles) -> fast-track eligible (<15).
-- Sample-size claim removed in repair: the opened PDF supports the two-year design but not a specific N; no N appears on the page.
+- QC repair (advisor, first item): wrong author list fixed (Stroebe, Abakoumkin, Stroebe, Schut); N corrected to 60 bereaved spouses per the opened PDF's abstract; findings rewritten to the study's actual reported pattern; Stroebe quote capitalization restored; Field 2006 cited by its actual title and abstract content (normative/adaptive/maladaptive under conditions), attachment-theory distinction dropped as unsupported by the opened record; glosses on D089/S062/related concepts trimmed to what target pages and opened sources state; 2023 systematic review (79 studies) added as opened source.
 - IS IT A CONCEPT check: PASS. "Continuing bonds" is a defined term in bereavement research,
   introduced by Klass, Silverman and Nickman, Continuing Bonds: New Understandings of Grief (1996).
   Confirmed in opened sources: APA Dictionary entry; Wikipedia; Utrecht repository PDFs; Routledge book page.
