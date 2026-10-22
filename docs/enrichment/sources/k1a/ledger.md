@@ -191,3 +191,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's framing "you receive from the world and owe something back" is carried by the Kimmerer quotes rather than asserted as an evidence claim.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K335 — The witness practice (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Pasupathi, Stallworth & Murdoch 1998 (Discourse Processes 26(1):1-25), abstract obtained via fetch_url extraction of the Taylor & Francis PDF page — tandfonline is blocked to direct curl from this sandbox, and Crossref holds no abstract for this DOI (verified), so the two blockquotes are extraction-verified against the publisher page, disclosed here per the raw-verification standard. Cross-check: identical abstract text appears in the search-indexed publisher snippet.
+- Both blockquotes match the opened source: the social-context-of-recollection sentence and the attentive-vs-distracted-listener result ("difficult to distinguish from the situations with no listener and with no recounting at all").
+- The practice's premise that the retelling reveals the teller's framing choices is labelled the compendium's rationale in "What this evidence does not test"; the study tested movie-excerpt recall, not a weekly retelling exercise.
+- Repair during this item: an early draft carried incorrect Operationalises and placeholder Related concepts; both were restored to the seed's own Operationalises (E008, A063, R055) and matched narrative-identity concepts before validation. No other band's files touched.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
