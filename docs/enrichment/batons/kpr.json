@@ -69,5 +69,7 @@
    "from": "supervisor-pplc-54ee4220",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T15:07:32+00:00"
 }
