@@ -23,7 +23,7 @@ The chapter's logic is that even one who needs nothing remains bound to the exam
 
 > Even as the unknowing toil, wedded to sense,
 > So let the enlightened toil, sense-freed, but set
-> To bring the world deliverance, and its bliss;
+> To bring the world deliverance, and its bliss
 > Not sowing in those simple, busy hearts
 > Seed of despair.
 > ([Bhagavad Gita, ch. III, Arnold](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))

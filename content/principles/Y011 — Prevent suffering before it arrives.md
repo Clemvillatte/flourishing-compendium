@@ -16,7 +16,7 @@ Patanjali's line is "That which is to be escaped is pain yet to come" (Yoga Sutr
 
 ### Why only future pain
 
-"Pain past, that is, transferred beyond experience, cannot properly be called ... a thing to be escaped." Present pain "in its own moment [of existence] has attained experience; so it cannot at the next moment be so changed that it can be escaped." Consequently "only that pain which is yet to come is that which hinders the yogin" (Vyasa, in Woods, p. 139). The pain that can still be changed is the pain that has not happened.
+"Pain past, that is, transferred beyond experience, cannot properly be called... a thing to be escaped." Present pain "in its own moment [of existence] has attained experience; so it cannot at the next moment be so changed that it can be escaped." Consequently "only that pain which is yet to come is that which hinders the yogin" (Vyasa, in Woods, p. 139). The pain that can still be changed is the pain that has not happened.
 
 ### Where it points
 

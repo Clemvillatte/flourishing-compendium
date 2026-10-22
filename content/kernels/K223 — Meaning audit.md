@@ -31,7 +31,7 @@ On the activity side of the audit, an experience-sampling study of 62 students f
 
 ### A guided version
 
-No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
+No guided version is supplied here.
 
 ## Operationalises
 

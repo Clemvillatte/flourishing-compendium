@@ -29,7 +29,7 @@ Seneca calls the line "indeed a great benefit", and gives two reasons: "such a p
 
 ## Sources
 
-- Stoics, Seneca, Letters (inherited seed citation)
+- Stoics, Seneca, Letters
 
 - [Seneca, Ad Lucilium Epistulae Morales, Vol. I, Gummere translation (Internet Archive)](https://archive.org/details/AdLuciliumEpistulaeMoralesVolI) — Letter VI, the Hecato passage, verified verbatim
 

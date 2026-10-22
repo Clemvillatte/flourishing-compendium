@@ -7,7 +7,7 @@ file: "Nutritional psychiatry"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Nutritional psychiatry is the field that treats diet and nutrition as targets for the prevention and treatment of mental disorders. The seed's source is the founding consensus statement of the International Society for Nutritional Psychiatry Research, led by Jerome Sarris:
+Nutritional psychiatry is the field that treats diet and nutrition as targets for the prevention and treatment of mental disorders. The original entry's source is the founding consensus statement of the International Society for Nutritional Psychiatry Research, led by Jerome Sarris:
 
 > "Diet and nutrition offer key modifiable targets for the prevention of mental disorders and have a fundamental role in the promotion of mental health." (Sarris et al., 2015, [World Psychiatry, PMC4592666](https://pmc.ncbi.nlm.nih.gov/articles/PMC4592666/))
 

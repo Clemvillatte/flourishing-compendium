@@ -7,7 +7,7 @@ file: "Overconfidence effects"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-Overconfidence effects are the family of biases in which people rate themselves, their performance or their knowledge too highly. The seed's source is Don Moore and Paul Healy's reconciliation of the field, whose abstract sorts the phenomenon into three:
+Overconfidence effects are the family of biases in which people rate themselves, their performance or their knowledge too highly. The original entry's source is Don Moore and Paul Healy's reconciliation of the field, whose abstract sorts the phenomenon into three:
 
 > "The authors present a reconciliation of 3 distinct ways in which the research literature has defined overconfidence: (a) overestimation of one's actual performance, (b) overplacement of one's performance relative to others, and (c) excessive precision in one's beliefs." (Moore & Healy 2008, [Psychol Rev, PMID 18426301](https://pubmed.ncbi.nlm.nih.gov/18426301/))
 

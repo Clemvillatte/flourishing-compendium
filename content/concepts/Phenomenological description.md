@@ -13,7 +13,7 @@ Phenomenological description is the practice of setting out experience as it is 
 
 ### Heidegger's wording
 
-Being and Time §7 puts the method differently. The Stanford Encyclopedia of Philosophy quotes Heidegger's definition: "'phenomenology' means ... to let that which shows itself be seen from itself in the very way in which it shows itself from itself," and notes that in doing so he "explicitly parodies Husserl's call, 'To the things themselves!'" ([SEP, Phenomenology](https://plato.stanford.edu/entries/phenomenology/)).
+Being and Time §7 puts the method differently. The Stanford Encyclopedia of Philosophy quotes Heidegger's definition: "'phenomenology' means... to let that which shows itself be seen from itself in the very way in which it shows itself from itself," and notes that in doing so he "explicitly parodies Husserl's call, 'To the things themselves!'" ([SEP, Phenomenology](https://plato.stanford.edu/entries/phenomenology/)).
 
 ### Description or interpretation
 

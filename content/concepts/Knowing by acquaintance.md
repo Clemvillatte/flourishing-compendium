@@ -7,7 +7,7 @@ file: "Knowing by acquaintance"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-K"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter K", "parent": ""}
 ---
-Knowing by acquaintance is direct knowledge: you know a thing by standing in the experience of it rather than by holding a description of it. The label is Russell's; the seed attributes it to William James's Essays in Radical Empiricism, where the doctrine is stated differently, as pure experience. The SEP entry on James gives the core of that doctrine:
+Knowing by acquaintance is direct knowledge: you know a thing by standing in the experience of it rather than by holding a description of it. The label is Russell's; the original entry attributes it to William James's Essays in Radical Empiricism, where the doctrine is stated differently, as pure experience. The SEP entry on James gives the core of that doctrine:
 
 > Knowing can easily be explained as a particular sort of relation towards one another into which portions of pure experience may enter.
 

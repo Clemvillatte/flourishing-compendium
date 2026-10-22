@@ -26,7 +26,7 @@ For example (imagined): a teacher who rewrites a lesson so a struggling student 
 
 ## Sources
 
-- Viktor Frankl, Man's Search for Meaning, pp. 111-115, as quoted on [Ed Batista's page](https://edbatista.com/2010/04/life.html) (a secondary reproduction; the book itself was not opened)
+- Viktor Frankl, Man's Search for Meaning, pp. 111-115, as quoted on [Ed Batista's page](https://edbatista.com/2010/04/life.html) (a secondary reproduction)
 - Dik & Duffy (2009), [Calling and Vocation at Work](https://static1.squarespace.com/static/5f515c06be95ce214b7e209d/t/615fe7e3c9bccf523c874fbc/1633675256037/Dik,+B.+J.,+&+Duffy,+R.+D.+(2009).+Calling+and+Vocation+at+Work:+Definitions+and+prospects+for+research+and+practice.+The+Counseling+Psychologist,+37,+424%E2%80%93+450.), pp. 424-450
 
 ## Psychology parallels

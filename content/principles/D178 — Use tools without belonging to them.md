@@ -14,8 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Daodejing 27 describes skilful action through travel without tracks, speech without faults and reckoning without tallies. It then describes closing that needs no bolts or bars and binding that uses no strings or knots ([Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm)).
 
-> the skilful reckoner uses no tallies;
-
+> the skilful reckoner uses no tallies
 (Daodejing 27, excerpt, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
 These are images of skill in the text, not evidence that a person who uses an instrument lacks mastery. This principle applies them as a question about habit: is a tool helping with the task you chose, or have its prompts begun to decide what you do? Needing assistance is not itself a failure.

@@ -15,7 +15,7 @@ Jeffrey Young built schema therapy for the clients cognitive therapy was failing
 
 (Young, Klosko & Weishaar, Schema Therapy: A Practitioner's Guide, 2003, as quoted in [Wikipedia, "Schema therapy"](https://en.wikipedia.org/wiki/Schema_therapy))
 
-Eighteen schemas are grouped into five domains, each tied to a category of unmet childhood need: disconnection and rejection, impaired autonomy and performance, impaired limits, other-directedness, and overvigilance and inhibition. The seed's examples, abandonment and defectiveness, both sit in the first domain.
+Eighteen schemas are grouped into five domains, each tied to a category of unmet childhood need: disconnection and rejection, impaired autonomy and performance, impaired limits, other-directedness, and overvigilance and inhibition. The original entry's examples, abandonment and defectiveness, both sit in the first domain.
 
 The second construct is the mode. Modes are momentary mind states which every human being experiences, consisting of a cluster of schemas and coping styles. Four categories are standard: child modes (vulnerable child is the focus of therapy), maladaptive coping modes, dysfunctional internalized parent modes, and the healthy adult mode. The compendium's [[SE076 — Recognise clinical self-symptoms — when self-problems require evaluation]] cites this model as one of the evidence-based treatments for self-related disorders, alongside Linehan's dialectical behavior therapy.
 

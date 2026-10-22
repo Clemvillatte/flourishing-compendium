@@ -20,7 +20,7 @@ The SMILES trial was a 12-week single-blind trial in 67 adults with moderate to 
 
 ### Scope
 
-I did not open Sarris et al. 2015 or Lopresti et al. 2013, which the seed cites, so I cannot confirm the claim that patterns beat single nutrients or supplements. These trials tested diet as a treatment for depression or low mood, not as a way to feel better in general, and none addressed ideology.
+I did not open Sarris et al. 2015 or Lopresti et al. 2013, which the original entry cites, so I cannot confirm the claim that patterns beat single nutrients or supplements. These trials tested diet as a treatment for depression or low mood, not as a way to feel better in general, and none addressed ideology.
 
 **Plain words**
 Trials suggest that improving the overall pattern of what you eat can modestly lift low mood. The strongest result comes from one small study, so treat it as promising, not settled.

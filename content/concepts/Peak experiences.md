@@ -21,7 +21,7 @@ The book's religious thesis is that peak experience is the natural core of relig
 
 ### And flow
 
-The seed's second facet is Csikszentmihalyi's flow, the sibling construct. Flow processes and peak experiences share several key characteristics — intense concentration, centering of attention on a limited stimulus field, altered time sense, self-forgetfulness, needing no goals or rewards external to itself — but there are essential differences: while peak experience denotes a high level of stimulation or euphoria, flow is not associated with an increased level of stimulation ([Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience)). P115's principle holds the practical rule: welcome peak experiences, do not chase them.
+The original entry's second facet is Csikszentmihalyi's flow, the sibling construct. Flow processes and peak experiences share several key characteristics — intense concentration, centering of attention on a limited stimulus field, altered time sense, self-forgetfulness, needing no goals or rewards external to itself — but there are essential differences: while peak experience denotes a high level of stimulation or euphoria, flow is not associated with an increased level of stimulation ([Wikipedia, Peak experience](https://en.wikipedia.org/wiki/Peak_experience)). P115's principle holds the practical rule: welcome peak experiences, do not chase them.
 
 ### In the compendium
 

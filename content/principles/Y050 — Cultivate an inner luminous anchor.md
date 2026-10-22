@@ -44,4 +44,3 @@ A man whose mind jumps around in silence pictures a small steady light in his ch
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutra 1.36 with Vyasa and the Tika, pp. 74-75, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
 - [Bhagavad Gita 6.19 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/19/)
-- The inherited Holmes & Mathews (2010) and Plotinus parallels were not opened and no claim here rests on them.

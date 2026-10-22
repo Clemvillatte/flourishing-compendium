@@ -18,7 +18,7 @@ The model distinguishes activity features, person features, and the fit between 
 ## Sources
 
 - [Lyubomirsky, Sonja and Layous, Kristin, "The How, Why, What, When, and Who of Happiness: Mechanisms Underlying the Success of Positive Activity Interventions", Current Directions in Psychological Science 22(1), 2013, pp. 57-62, author-site PDF](https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Lyubomirsky-Layous-2013.pdf) — the abstract supplies the PAI description and the positive-activity model; the body supplies the moderators and the dosage examples quoted above
-- Parks, Della Porta, Pierce, Zilca and Lyubomirsky, 2012 — the seed's citation for the concept; the paper was not opened for this item
+- Parks, Della Porta, Pierce, Zilca and Lyubomirsky, 2012 — cited as the concept's origin
 
 ## Cited in psychology parallels
 

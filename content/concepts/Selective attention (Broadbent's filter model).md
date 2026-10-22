@@ -8,7 +8,7 @@ tags: ["psych/attention", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-ATTENTION"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Selective attention is the capacity to process some information and not other information, and Broadbent's filter model (1958) was the first influential account of how that happens: a limited-capacity channel with a filter in front of it. Treisman (1964) revised it with attenuation, and Lavie (1995) later tied the early-or-late question to perceptual load. The summaries below come from later papers; the original 1958 and 1964 texts were not opened.
+Selective attention is the capacity to process some information and not other information, and Broadbent's filter model (1958) was the first influential account of how that happens: a limited-capacity channel with a filter in front of it. Treisman (1964) revised it with attenuation, and Lavie (1995) later tied the early-or-late question to perceptual load. The summaries below come from later papers; the original 1958 and 1964 texts are cited at second hand.
 
 ### Broadbent: an early filter
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SO — Sociocul
 
 > Sense of community is a feeling that members have of belonging, a feeling that members matter to one another and to the group, and a shared faith that members' needs will be met through their commitment to be together.
 
-(McMillan and Chavis, "Sense of Community: A Definition and Theory," Journal of Community Psychology 14(1), 1986, 6-23, p. 9. Quoted at second hand from [a 2023 Wisconsin survey study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10314672/) and [Rotman and Wu's chapter](https://pure.royalholloway.ac.uk/ws/files/23169540/03LEIMEISTERchap03.pdf); the original article is paywalled at [Wiley](https://onlinelibrary.wiley.com/doi/10.1002/1520-6629(198601)14:1%3C6::AID-JCOP2290140103%3E3.0.CO;2-I) and only its abstract was opened.)
+(McMillan and Chavis, "Sense of Community: A Definition and Theory," Journal of Community Psychology 14(1), 1986, 6-23, p. 9. Quoted at second hand from [a 2023 Wisconsin survey study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10314672/) and [Rotman and Wu's chapter](https://pure.royalholloway.ac.uk/ws/files/23169540/03LEIMEISTERchap03.pdf); the original article is paywalled at [Wiley](https://onlinelibrary.wiley.com/doi/10.1002/1520-6629(198601)14:1%3C6::AID-JCOP2290140103%3E3.0.CO;2-I).)
 
 The definition has two directions in it. Members' needs are met, and members "matter to one another and to the group," so the person is both served by the community and counted on by it. In Rotman and Wu's summary of the theory, influence "is a bidirectional concept that encompasses both the member's influence over the group and the reciprocal affect the group has on its individual members."
 

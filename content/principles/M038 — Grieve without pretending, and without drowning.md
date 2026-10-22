@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 
 The Cantares Mexicanos grieve in the first person. In John Curl's translation of song 40, a singer says: "Only flowers are our adornment, only songs turn our suffering to delight on earth." Then comes: "not forever will we be friends here: only for a very brief moment and then we all go away to His house." Then: "I am sad, I grieve, I, Lord Nezahualcoyotl, when with flowers and songs I remember those princes who went away" ([Curl, Flower Songs of Nezahualcoyotl, FAMSI](https://www.famsi.org/research/curl/nezahualcoyotl2.html)). In another song, the speaker Cuacuauhtzin says "yo soy desdichado" (I am unfortunate) and, a few lines later, "gozad, gozad, amigos nuestros" (enjoy, enjoy, our friends) ([León-Portilla, Trece poetas del mundo azteca](https://historicas.unam.mx/publicaciones/publicadigital/libros/trece_poetas/04_04_poetas3.pdf)). Grief and enjoyment sit side by side inside one song.
 
-The seed's "elegy, then feast" sequence and ritual container are not in these texts.
+The original entry's "elegy, then feast" sequence and ritual container are not in these texts.
 
 Psychology offers a close match. Stroebe and Schut's dual process model describes "a dynamic, regulatory coping process of oscillation, whereby the grieving individual at times confronts, at other times avoids" loss and restoration tasks, with respite from grieving as part of adaptive coping ([Stroebe and Schut 1999, PubMed](https://pubmed.ncbi.nlm.nih.gov/10848151/)).
 
@@ -22,7 +22,7 @@ Psychology offers a close match. Stroebe and Schut's dual process model describe
 
 ### Scope
 
-This differs from the seed: the model has people alternate, not voice grief fully first and then leave it. I did not test whether song or ritual helps with grief.
+This differs from the original entry: the model has people alternate, not voice grief fully first and then leave it. I did not test whether song or ritual helps with grief.
 
 **Plain words**
 The songs say the loss and the delight in one voice. Research on grief says healthy coping moves back and forth between facing the loss and resting from it.

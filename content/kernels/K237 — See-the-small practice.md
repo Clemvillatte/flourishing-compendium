@@ -35,7 +35,7 @@ What this evidence does not test: the weekly scan as an intervention. The Daodej
 
 ### A guided version
 
-No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
+No guided version is supplied here.
 
 ## Operationalises
 

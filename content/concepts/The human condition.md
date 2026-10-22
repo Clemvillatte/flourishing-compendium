@@ -28,7 +28,7 @@ Arendt lists the conditions: "the conditions of human existence—life itself, n
 
 ## Sources
 
-- Hannah Arendt, The Human Condition (inherited seed citation)
+- Hannah Arendt, The Human Condition
 
 - [Arendt, The Human Condition, Doubleday edition (Internet Archive)](https://archive.org/details/the-human-condition-hannah-arendt) — Prologue passages verified verbatim
 

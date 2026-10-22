@@ -14,7 +14,7 @@ B. F. Skinner's account of learning by consequences: behaviour that operates on 
 
 ### Origin
 
-The system is laid out in Science and Human Behavior (1953), with the schedules of reinforcement worked out in Ferster and Skinner (1957) (seed citation).
+The system is laid out in Science and Human Behavior (1953), with the schedules of reinforcement worked out in Ferster and Skinner (1957) (original citation).
 
 ### Core claims
 
@@ -47,8 +47,8 @@ Illustrative scenario, not a reported study result: imagine that checking a phon
 ## Sources
 
 - [B. F. Skinner, Science and Human Behavior (1953), Chapter V "Operant Behavior", PDF hosted by the B. F. Skinner Foundation](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — the definition of operant and operant conditioning as strengthening (p. 65), the environment building the basic repertoire (p. 66).
-- Ferster & Skinner, Schedules of Reinforcement (1957) (seed citation).
-- Skinner, 1953 (seed citation, linked above).
+- Ferster & Skinner, Schedules of Reinforcement (1957) (original citation).
+- Skinner, 1953 (original citation, linked above).
 
 ## Cited in psychology parallels
 

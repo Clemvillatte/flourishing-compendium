@@ -16,7 +16,7 @@ Rorty's term for the words a person uses to justify their actions, beliefs, and 
 
 > "She has radical and continuing doubts about the final vocabulary she currently uses because she has been impressed by other vocabularies... she realizes that arguments phrased in her present vocabulary can neither underwrite nor dissolve these doubts... she does not think that her vocabulary is closer to reality than others, that it is in touch with a power, not herself." (Rorty, Contingency, Irony, and Solidarity, p. 73, as quoted in [Party Studies vol. 1](https://monoskop.org/images/e/eb/Party_Studies_vol_1_2021.pdf))
 
-The seed's "tool choice, not a mirror" framing follows Rorty's critique of language as representation (Philosophy and the Mirror of Nature, 1979; not opened for this page, named as inherited attribution). The compendium's application: when a description of yourself keeps closing options, try redescribing the same facts in words that contain a next step. This is an application of the ironist's doubt, not a claim that any particular redescription is true.
+The original entry's "tool choice, not a mirror" framing follows Rorty's critique of language as representation (Philosophy and the Mirror of Nature, 1979 for this page, named as inherited attribution). The compendium's application: when a description of yourself keeps closing options, try redescribing the same facts in words that contain a next step. This is an application of the ironist's doubt, not a claim that any particular redescription is true.
 
 ### Plain words
 

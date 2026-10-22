@@ -7,7 +7,7 @@ file: "The seasons of energy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The seasons of energy is the acceptance that a person's capacities are not constant. There are times of high output and times of low, and the low times are not defects in an otherwise steady machine. The seed for the entry is Ecclesiastes 3:1–8:
+The seasons of energy is the acceptance that a person's capacities are not constant. There are times of high output and times of low, and the low times are not defects in an otherwise steady machine. The original entry for the entry is Ecclesiastes 3:1–8:
 
 > "To every thing there is a season, and a time to every purpose under the heaven: a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; ... a time to weep, and a time to laugh; a time to mourn, and a time to dance."
 > — [Ecclesiastes 3:1–4, King James Version, Bible Hub](https://biblehub.com/kjv/ecclesiastes/3.htm)
@@ -23,7 +23,7 @@ One caution travels with the idea. There is a difference between a season and a 
 
 ## Sources
 
-- [Ecclesiastes 3:1–8, King James Version, Bible Hub](https://biblehub.com/kjv/ecclesiastes/3.htm) — the opened carrier for the verbatim passage (inherited seed: Ecclesiastes 3:1–8).
+- [Ecclesiastes 3:1–8, King James Version, Bible Hub](https://biblehub.com/kjv/ecclesiastes/3.htm) — the opened carrier for the verbatim passage (original citation: Ecclesiastes 3:1–8).
 
 ## Cited in philosophy parallels
 

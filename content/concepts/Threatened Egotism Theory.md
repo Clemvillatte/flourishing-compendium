@@ -32,7 +32,7 @@ Sociocultural · Psychological science
 
 ## Sources
 
-- Baumeister, R. F., Smart, L., & Boden, J. M. (1996). Relation of Threatened Egotism to Violence and Aggression: The Dark Side of High Self-Esteem. Psychological Review, 103(1), 5-33. — abstract read on [scholars.duke.edu](https://scholars.duke.edu/publication/658308) (opened); full text not opened
+- Baumeister, R. F., Smart, L., & Boden, J. M. (1996). Relation of Threatened Egotism to Violence and Aggression: The Dark Side of High Self-Esteem. Psychological Review, 103(1), 5-33. — abstract read on [scholars.duke.edu](https://scholars.duke.edu/publication/658308) (opened); full text not consulted for quotations
 - Bushman, B. J., & Baumeister, R. F. (1998). Threatened Egotism, Narcissism, Self-Esteem, and Direct and Displaced Aggression. Journal of Personality and Social Psychology, 75(1), 219-229. — opened and quoted verbatim from the [author-hosted PDF](https://websites.umich.edu/~bbushman/bb98.pdf)
 
 ## Cited in philosophy parallels

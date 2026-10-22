@@ -38,7 +38,7 @@ A recent paper in the Journal of the Experimental Analysis of Behavior writes th
 - ["Goals and Habits in the Brain" (Max Planck repository PDF)](https://pure.mpg.de/rest/items/item_2615036_3/component/file_2617849/content)
 - [Balleine, Daw and O'Doherty, "Multiple Forms of Value Learning" (Princeton PDF; title truncated in the opened record)](http://www.princeton.edu/~ndaw/bdo08.pdf)
 - [Stimulus control of habits: Evidence for both stimulus specificity and devaluation insensitivity in a dual-response task, Journal of the Experimental Analysis of Behavior (Wiley)](https://onlinelibrary.wiley.com/doi/10.1002/jeab.898)
-- Balleine and Dickinson, 1998, Neuropharmacology 37, 407-419 (named in the sources above; not opened directly)
+- Balleine and Dickinson, 1998, Neuropharmacology 37, 407-419 (named in the sources above)
 
 ## Field
 

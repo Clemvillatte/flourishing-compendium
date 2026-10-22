@@ -31,7 +31,7 @@ The review's summary of findings is careful about the effect: "These studies col
 
 - [Kuo, Fitzpatrick, Ip and Uliaszek, The who and what of validation (2022, PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9116024/) — definition, invalidation asymmetry, functions of validation
 
-- Pratt, 2002 (inherited citation, not opened this session)
+- Pratt, 2002
 
 ## Cited in psychology parallels
 

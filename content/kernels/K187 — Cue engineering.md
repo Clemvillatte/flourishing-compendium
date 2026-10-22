@@ -27,7 +27,7 @@ The base rate finding: in the diary studies, "between a third and a half of all 
 
 ### A guided version
 
-Not applicable: cue engineering is the rearrangement of a physical environment, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: cue engineering is the rearrangement of a physical environment, not a recording.
 
 ## Operationalises
 

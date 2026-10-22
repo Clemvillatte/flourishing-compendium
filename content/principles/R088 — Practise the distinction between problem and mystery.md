@@ -31,7 +31,7 @@ He also distinguishes mystery from the unknowable: "The mysterious is not the un
 ## Sources
 
 - [Treanor and Sweetman, "Gabriel (-Honoré) Marcel," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcel/) — carries the canonical problem/mystery definition (Being and Having, Farrer translation, p. 117), the not-the-unknowable passage (p. 118), the encroaches-on-its-own-data shorthand and the evil passage (The Philosophy of Existentialism, pp. 19-20), plus the questioner-interchangeability analysis; opened; secondary carrier, disclosed
-- Marcel, The Mystery of Being (1951) and "On the Ontological Mystery" — the seed's citations; not directly opened; not relied on for any quotation above. Work titles and pages for the quoted passages resolved from the SEP bibliography: Being and Having (1949, Farrer translation) and The Philosophy of Existentialism (1995, Harari translation)
+- Marcel, The Mystery of Being (1951) and "On the Ontological Mystery" — the original entry's citations; not directly opened; not relied on for any quotation above. Work titles and pages for the quoted passages resolved from the SEP bibliography: Being and Having (1949, Farrer translation) and The Philosophy of Existentialism (1995, Harari translation)
 
 ## Psychology parallels
 

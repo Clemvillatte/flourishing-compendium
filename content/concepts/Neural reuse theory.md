@@ -21,7 +21,7 @@ Anderson's own hypothesis rests on the "simple observation that evolutionary con
 
 Flusberg's commentary agrees the article marshals strong evidence against strictly modular views, but argues that neural reuse "still suffer[s] from some of the same difficulties these modular views have", because it keeps a fixed "working" for each circuit and still maps high-level functions one-to-one onto a distributed set of circuits ([Flusberg, Neural reuse commentary, PDF](http://www.stephenflusberg.com/uploads/2/6/9/4/26942597/2010_toskosdils_flusberg_-_redeployment.pdf)). A commentary from Claremont notes that Anderson predicts a function's phylogenetic age should correlate with how localized it is in the brain ([Claremont Colleges, PDF](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1084&context=pitzer_fac_pub)).
 
-### Reading the seed note
+### Reading the original entry note
 
 "Recycled across functions rather than dedicated to single tasks" matches the abstract. The theory says regions are not dedicated to single high-level tasks, and it keeps each circuit's low-level contribution constant; it does not say any region can do anything.
 ## Related concepts

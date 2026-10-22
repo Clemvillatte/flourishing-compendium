@@ -36,8 +36,8 @@ BE024 "Learn to use chaining: link behaviours into sequences" is the compendium'
 
 - [Slocum & Tiger, "An assessment of the efficiency of and child preference for forward and backward chaining," Journal of Applied Behavior Analysis 44(4) (2011), pp. 793-805](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251282/) — definitions of the three procedures; the comparison findings and their caution
 - [Wikipedia, "Chaining"](https://en.wikipedia.org/wiki/Chaining) — the behavior-chain structure (discriminative stimulus, terminal reinforcer); backward chaining for severe delays
-- Martin & Pear, 2019 — original seed citation; not directly consulted
-- Cooper et al., 2007 — original seed citation; not directly consulted
+- Martin & Pear, 2019 — original original citation; not directly consulted
+- Cooper et al., 2007 — original original citation; not directly consulted
 
 ## Cited in psychology parallels
 

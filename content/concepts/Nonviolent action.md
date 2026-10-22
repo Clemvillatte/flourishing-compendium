@@ -21,9 +21,9 @@ The 198 methods fall into three main groups: protest and persuasion, noncooperat
 
 A summary on Philopedia lists four mechanisms of change: conversion, accommodation, nonviolent coercion and disintegration ([Philopedia, Gene Sharp](https://philopedia.org/thinkers/gene-sharp/)). It also defines nonviolent action as deliberate, organized conflict that excludes physical violence but "may nonetheless be highly coercive". The civil resistance bibliography notes the consent theory "has since been much debated" ([Civil Resistance bibliography](https://civilresistance.info/section/introduction-nonviolent-action/1-theory-methods-and-examples/1b-strategic-theory-dynamics)).
 
-### Reading the seed note
+### Reading the original entry note
 
-The seed is a bare citation, so the page above states what the work actually argues. In the sources I opened, nonviolent action is presented as a method of struggle that works through withdrawn consent; I did not find a moral argument in them, so treat any ethical claim as outside this entry.
+The original entry is a bare citation, so the page above states what the work actually argues. In the sources I opened, nonviolent action is presented as a method of struggle that works through withdrawn consent; I did not find a moral argument in them, so treat any ethical claim as outside this entry.
 
 ## Sources
 
@@ -33,7 +33,7 @@ The seed is a bare citation, so the page above states what the work actually arg
 - [Gene Elmer Sharp (Philopedia)](https://philopedia.org/thinkers/gene-sharp/)
 - [198 Ways To Seize Power, Without Anyone Getting Hurt (Flintoff)](https://flintoff.org/power-and-how-to-seize-it)
 - [Civil Resistance bibliography, strategic theory](https://civilresistance.info/section/introduction-nonviolent-action/1-theory-methods-and-examples/1b-strategic-theory-dynamics)
-- Sharp, The Politics of Nonviolent Action: seed reference, not opened directly.
+- Sharp, The Politics of Nonviolent Action: original reference
 
 [[D068 — Yield in conflict to remain whole]]
 [[V1K-S01 — PART I — SCIENCE-BACKED KERNELS]]

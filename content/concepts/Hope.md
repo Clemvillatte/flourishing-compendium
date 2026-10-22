@@ -23,7 +23,7 @@ Gabriel Marcel's distinction, carried in R087, separates hope from prediction: h
 
 ### In the compendium
 
-R087 practises hope as a disposition and R125 applies it to the ecological future, where the test case lives: working for a future that is not guaranteed, planting trees under whose shade one will never sit. The Stoic caution in the seed's citation list, Epictetus on the passions, marks the classical worry that hope is a passion to be examined; Spinoza's Ethics III and Aquinas's theological virtue carry the classical analyses, and Camus's Sisyphus the limit case.
+R087 practises hope as a disposition and R125 applies it to the ecological future, where the test case lives: working for a future that is not guaranteed, planting trees under whose shade one will never sit. The Stoic caution in the original entry's citation list, Epictetus on the passions, marks the classical worry that hope is a passion to be examined; Spinoza's Ethics III and Aquinas's theological virtue carry the classical analyses, and Camus's Sisyphus the limit case.
 
 - [[R087 — Practise hope]] — hope as disposition, the refusal to despair
 - [[R125 — Practise ecological hope]] — hope applied to the ecological future

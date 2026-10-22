@@ -25,13 +25,13 @@ The compendium reads the state across its traditions: the Buddhist don't-know mi
 
 ## Related concepts
 
-- [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge (inherited description, unverified here)
+- [[Docta ignorantia]] — the Renaissance Christian reception that named the state a form of knowledge (description carried from the original entry)
 - [[Beginner's mind]] — the shoshin counterpart, both cited from B048
 
 ## Sources
 
 - [Plato, Apology, Jowett translation, MIT Classics](https://classics.mit.edu/Plato/apology.html) — the blockquote and the politicians, poets, artisans and enemies passages.
-- Plato, Apology — the seed's citation; the Greek text was not opened this round.
+- Plato, Apology — cited as the concept's origin.
 
 ## Cited in philosophy parallels
 

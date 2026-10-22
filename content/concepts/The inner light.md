@@ -28,8 +28,8 @@ The tractate's instruction is preparation: "one must come to the sight with a se
 
 ## Sources
 
-- Plotinus, Enneads (inherited seed citation)
-- cross-volume echo (inherited seed note)
+- Plotinus, Enneads
+- cross-volume echo (inherited original note)
 
 - [Plotinus, Enneads vol. 1, Armstrong translation, Loeb 440 (Internet Archive)](https://archive.org/details/plotinus-in-seven-volumes.-vol.-1-loeb-440) — Ennead I.6.9 verified verbatim
 

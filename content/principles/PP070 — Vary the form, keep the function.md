@@ -20,7 +20,7 @@ The direct test is a 10-week randomised trial. Participants who "performed a wid
 
 ### Scope
 
-The seed's rule to keep the function while varying the form is the compendium's. These studies varied the acts within one practice, such as kindness, and did not test switching from writing to voice journaling. I found no evidence on that.
+The original entry's rule to keep the function while varying the form is the compendium's. These studies varied the acts within one practice, such as kindness, and did not test switching from writing to voice journaling. I found no evidence on that.
 
 **Plain words**
 Repeating the same act can wear down its benefit, and varying it may help, based on one kindness trial from the model's authors. Whether this holds for journaling or [[Savoring|savoring]] is untested.

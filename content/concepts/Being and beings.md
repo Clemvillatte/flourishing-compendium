@@ -35,7 +35,7 @@ E100 "Practise the ontological difference" is the compendium's version: do not c
 - [Wrathall, "Martin Heidegger," Stanford Encyclopedia of Philosophy (2025)](https://plato.stanford.edu/entries/heidegger/) — being as "that which determines entities as entities"; ontic and ontological; kinds of being; later beyng
 - [Korab-Karpowicz, "Martin Heidegger (1889-1976)," Internet Encyclopedia of Philosophy](https://iep.utm.edu/heidegge/) — the ontological difference; forgetfulness of Being; Da-sein as the site of disclosure
 - [Dahlstrom, "Martin Heidegger" (essay PDF, hosted by Boston University)](https://www.bu.edu/philo/files/2019/09/d-martin-heidegger.pdf) — Contributions to Philosophy; the fundamental question of the ground of being; Seyn
-- Heidegger, Contributions to Philosophy — original seed citation; not directly consulted
+- Heidegger, Contributions to Philosophy — original original citation; not directly consulted
 
 [[SP064 — Trust nothing more useful than other people]]
 [[K383 — Safe Place with an affiliative welcome]]

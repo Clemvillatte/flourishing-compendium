@@ -17,7 +17,7 @@ The entry's summary of the plot work: through their plots, narratives are "a syn
 
 ## Sources
 
-- [Pellauer, David and Dauenhauer, Bernard, "Paul Ricoeur", Stanford Encyclopedia of Philosophy (2002, revised)](https://plato.stanford.edu/entries/ricoeur/) — the narrative-discourse passages on sense-making, plot configuration and narrative identity quoted above (the seed's "Ricoeur, Time and Narrative", hyperlinked to the entry's treatment)
+- [Pellauer, David and Dauenhauer, Bernard, "Paul Ricoeur", Stanford Encyclopedia of Philosophy (2002, revised)](https://plato.stanford.edu/entries/ricoeur/) — the narrative-discourse passages on sense-making, plot configuration and narrative identity quoted above (the original entry's "Ricoeur, Time and Narrative", hyperlinked to the entry's treatment)
 
 [[ST323 — Guido Makes It a Game]]
 [[SE081 — Give style to one's character]]

@@ -19,9 +19,9 @@ The abstract also says diagnosticity and salience explain some findings, but "th
 
 A philosophical critique says Baumeister et al. are taken to have offered the canonical formulation of the negativity bias, and that their review is the paper "most often cited" on it. The critique argues the bias "should be rejected" because the hypothesis "is never adequately clarified" ([Rethinking the Negativity Bias, Review of Philosophy and Psychology](https://link.springer.com/article/10.1007/s13164-018-0382-7)). That is one author's view; the critique's abstract proposes "alternative hedonic hypotheses".
 
-### Scope of the seed claim
+### Scope of the original entry claim
 
-The seed says negative events elicit "stronger and faster reactions". The abstract supports stronger, and speed in impression formation ("quicker to form"). I did not open Rozin and Royzman (2001), so no claim here rests on it.
+The original entry says negative events elicit "stronger and faster reactions". The abstract supports stronger, and speed in impression formation ("quicker to form"). I did not open Rozin and Royzman (2001), so no claim here rests on it.
 
 ## Related concepts
 
@@ -32,7 +32,7 @@ The seed says negative events elicit "stronger and faster reactions". The abstra
 - [Baumeister et al., "Bad is Stronger than Good", Review of General Psychology, 2001 (abstract)](https://journals.sagepub.com/doi/10.1037/1089-2680.5.4.323)
 - [Bad is stronger than good (Meaning Lab, Cody Kommers)](https://codykommers.substack.com/p/bad-v-good)
 - [Rethinking the Negativity Bias (Springer)](https://link.springer.com/article/10.1007/s13164-018-0382-7)
-- Rozin and Royzman, 2001: seed reference, not opened directly.
+- Rozin and Royzman, 2001: original reference
 
 ## Cited in psychology parallels
 

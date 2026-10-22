@@ -19,9 +19,9 @@ The Cambridge chapter version opens with a story of two siblings: people "immedi
 
 Two commentaries challenge how little role the model gives to reasoning. One presents evidence that fast moral intuitions "are actually shaped and informed by prior reasoning", and concludes the findings "limit the strong claims of the social intuitionist model concerning the irrelevance of conscious deliberation" ([The intelligence of the moral intuitions, PubMed](https://pubmed.ncbi.nlm.nih.gov/12529062/)). The other argues that "moral reasoning may sometimes disrupt the automatic process of judgment formation" and that automatic judgments "may reflect the 'automatization' of judgment goals based on prior moral reasoning" ([Is the emotional dog wagging its rational tail, or chasing it?, Taylor and Francis](http://www.tandfonline.com/doi/abs/10.1080/13869790500492680)).
 
-### Reading the seed claim
+### Reading the original entry claim
 
-The seed says moral judgments "often precede reasoning". The abstract hedges with "usually" and "generally", so it does not claim reasoning never matters. Keep the intuitionist claim attributed to Haidt rather than stated as settled.
+The original entry says moral judgments "often precede reasoning". The abstract hedges with "usually" and "generally", so it does not claim reasoning never matters. Keep the intuitionist claim attributed to Haidt rather than stated as settled.
 
 ## Related concepts
 

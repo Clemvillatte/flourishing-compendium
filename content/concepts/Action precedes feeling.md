@@ -59,8 +59,8 @@ The lines below describe what the compendium's principles do with the concept; t
 
 - [Aristotle, Nicomachean Ethics II.1, 1103a-b, trans. W. D. Ross (Wikisource)](https://en.wikisource.org/wiki/Nicomachean_Ethics_(Ross)/Book_Two) — the builders-and-lyre-players passage
 - [William James, The Principles of Psychology, vol. II, ch. XXV, pp. 449-450 (Classics in the History of Psychology, York University)](https://psychclassics.yorku.ca/James/Principles/prin25.htm) — the emotion passages
-- Aristotle, Nicomachean Ethics II (original citation kept from the seed)
-- William James, Principles of Psychology (original citation kept from the seed)
+- Aristotle, Nicomachean Ethics II (original citation kept from the original entry)
+- William James, Principles of Psychology (original citation kept from the original entry)
 
 [[MO046 — Learn to start — the hardest part is beginning]]
 [[BE001 — Understand that behaviour is the foundation — what you do shapes how you feel, think, and are]]

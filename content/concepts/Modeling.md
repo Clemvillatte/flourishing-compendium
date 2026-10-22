@@ -23,9 +23,9 @@ The ERIC paper reports that Bandura (1989) distinguished acquisition from perfor
 
 A medical-education study of learning from clinical teachers found that students "evidenced the powerful impact of direct and vicarious reinforcement" ([Springer, BMC Medical Education](https://link.springer.com/article/10.1186/s12909-018-1251-x?error=cookies_not_supported&code=dfae7289-7823-43ea-b1b7-02b9c7ffd29f)).
 
-### Note on seed citations
+### Note on original citations
 
-The seed cites Bandura 1977 and 1997. I did not open either book. The quotations above come from secondary sources that quote Bandura, and are marked as such.
+The original entry cites Bandura 1977 and 1997. I did not open either book. The quotations above come from secondary sources that quote Bandura, and are marked as such.
 
 ### Other formulations in this library
 
@@ -44,8 +44,8 @@ The seed cites Bandura 1977 and 1997. I did not open either book. The quotations
 - [Bandura and the Bobo Doll (ERIC PDF)](https://files.eric.ed.gov/fulltext/ED499095.pdf)
 - [6.4 Observational Learning (Modeling), Psychology 2e (OpenStax)](https://openstax.org/books/psychology-2e/pages/6-4-observational-learning-modeling)
 - [Observational learning (Britannica)](https://www.britannica.com/science/observational-learning)
-- [A skill to be worked at: using social learning theory to explore the ... (Springer, BMC Medical Education; title truncated in the copy I opened)](https://link.springer.com/article/10.1186/s12909-018-1251-x?error=cookies_not_supported&code=dfae7289-7823-43ea-b1b7-02b9c7ffd29f)
-- Bandura, 1977 and 1997: seed references, not opened directly.
+- [A skill to be worked at: using social learning theory to explore the... (Springer, BMC Medical Education; title truncated in the copy I opened)](https://link.springer.com/article/10.1186/s12909-018-1251-x?error=cookies_not_supported&code=dfae7289-7823-43ea-b1b7-02b9c7ffd29f)
+- Bandura, 1977 and 1997: original references
 
 ## Cited in psychology parallels
 

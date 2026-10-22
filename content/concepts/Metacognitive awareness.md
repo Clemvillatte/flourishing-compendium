@@ -23,7 +23,7 @@ The authors report that the two factors were reliable and intercorrelated (r = .
 
 Measurement is contested. A validation study with Indian students retained a 40-item model, and its factor analysis produced six factors, not the original eight ([Validation of Metacognitive Awareness Inventory, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8552251/)). The inventory is a self-report, so it records what people report about their thinking. Another paper describes metacognitive awareness as "an off-line measure of metacognitive knowledge" captured before or after the problem-solving activity ([arXiv case study](https://arxiv.org/html/2410.06267v1)).
 
-### Note on the seed reference
+### Note on the original entry reference
 
 The earlier line cited Flavell (1979) and Nelson (1996) without text. I opened Flavell's article for the page on [[Metacognition]]. Nelson (1996) was not opened.
 
@@ -39,7 +39,7 @@ The earlier line cited Flavell (1979) and Nelson (1996) without text. I opened F
 - [Metacognitive awareness and academic achievement in college students (ERIC PDF)](https://files.eric.ed.gov/fulltext/EJ854832.pdf)
 - [Validation of Metacognitive Awareness Inventory (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8552251/)
 - [Can metacognition predict your success in solving problems? (arXiv)](https://arxiv.org/html/2410.06267v1)
-- Flavell, 1979 and Nelson, 1996: seed references; Flavell is opened on the Metacognition page, Nelson was not opened.
+- Flavell, 1979 and Nelson, 1996: original references; Flavell is opened on the Metacognition page, Nelson was not opened.
 
 ## Cited in psychology parallels
 

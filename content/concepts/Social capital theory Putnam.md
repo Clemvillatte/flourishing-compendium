@@ -25,7 +25,7 @@ The rest of the essay spells out why the stock matters. A community rich in civi
 
 Putnam's later discussion of the concept, reported in Thomas Lee's 2025 primer on social capital, distinguishes two types by the company they keep ([Lee, 2025](https://catalogimages.wiley.com/images/db/pdf/9781394312658.excerpt.pdf)). Bonding capital joins people who are alike ([Lee, 2025](https://catalogimages.wiley.com/images/db/pdf/9781394312658.excerpt.pdf)). Bridging capital reaches across groups ([Lee, 2025](https://catalogimages.wiley.com/images/db/pdf/9781394312658.excerpt.pdf)). Putnam credits the pairing's "getting by" and "getting ahead" formulation to sociologist Xavier de Souza Briggs, and offers his own image: "Bonding social capital constitutes a kind of sociological superglue, whereas bridging social capital provides a sociological WD-40" (Putnam, 2020, p. 23, quoted in [Lee, 2025](https://catalogimages.wiley.com/images/db/pdf/9781394312658.excerpt.pdf)).
 
-One boundary on this entry. The seed names Bourdieu alongside Putnam. No Bourdieu text has been opened for this entry, and it covers Putnam's version of the theory alone.
+One boundary on this entry. The original entry names Bourdieu alongside Putnam. No Bourdieu text has been opened for this entry, and it covers Putnam's version of the theory alone.
 
 ## In the compendium
 

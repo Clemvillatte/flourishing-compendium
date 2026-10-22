@@ -20,7 +20,7 @@ The scale paper's five studies, run in two community and three college samples, 
 - [Mayer, F. Stephan and Frantz, Cynthia McPherson, "The connectedness to nature scale: A measure of individuals' feeling in community with nature", Journal of Environmental Psychology 24(4), 2004, pp. 503-515, Oberlin repository record](https://digitalcommons.oberlin.edu/faculty_schol/2433/) — the abstract supplies the CNS description, the five-study validation summary, and the well-being and self-nature overlap claims quoted above
 - [Capaldi, Dopko and Zelenski, "The relationship between nature connectedness and happiness: a meta-analysis", Frontiers in Psychology 5:976, 2014](https://www.frontiersin.org/article/10.3389/fpsyg.2014.00976/abstract) — the abstract supplies the 30-sample meta-analytic effect sizes and moderators
 - Mayer and Frantz's connectedness research, as framework
-- Kaplan, 1995, for restoration — inherited seed citation; not opened for this item
+- Kaplan, 1995, for restoration — inherited original citation for this item
 
 ## Cited in psychology parallels
 

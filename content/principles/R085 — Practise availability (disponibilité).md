@@ -32,7 +32,7 @@ The encyclopaedia summary of his usage: disponibilité "refers to the measure in
 
 - [Treanor and Sweetman, "Gabriel (-Honoré) Marcel," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcel/) — carries direct Marcel quotations with citations: the at-my-disposal definition, "unavailability is invariably rooted in some measure of alienation", the no-cases passage, the open-and-exposed passage; opened
 - [Cali and Gustafson, "Marcel on Friendship in a Digital Age," Journal of Dialogic Ethics 5(1)](https://www.dialogic-ethics.org/uploads/1/3/8/4/138406736/vol._5_no._1_cali_gustafson.pdf) — carries direct Marcel quotations with citations: the man-in-the-room presence passage, the presence-refreshes passage; opened. Both are secondary carriers of Marcel's texts, disclosed
-- Marcel, Being and Having (1949/1951) and The Philosophy of Existentialism — the seed's citations; the primary texts were not directly opened; the quotations above are carried by the two opened sources
+- Marcel, Being and Having (1949/1951) and The Philosophy of Existentialism — the original entry's citations; the primary texts were not directly opened; the quotations above are carried by the two opened sources
 
 ## Psychology parallels
 

@@ -33,7 +33,7 @@ His argument for why the face is not a physical feature runs through the analysi
 ## Sources
 
 - [Levinas, Totality and Infinity (Lingis translation), course excerpt PDF with pp. 48-51, 110-114, 117-119, 197-201, University of Würzburg](https://wuecampus.uni-wuerzburg.de/moodle/pluginfile.php/2896578/mod_folder/content/0/Levinas,%20Totality%20%20Infinity,%20S.%2048-51,110-114,117-119,197-201.pdf) — face definition (p. 50), "you shall not commit murder" (p. 199), "The Other is the sole being I can wish to kill" (pp. 198-199), obligation (p. 201); opened
-- Levinas, "Substitution," in Otherwise Than Being — cited by the seed; not directly opened; not relied on for any quotation above
+- Levinas, "Substitution," in Otherwise Than Being — cited by the original entry; not directly opened; not relied on for any quotation above
 
 ## Psychology parallels
 

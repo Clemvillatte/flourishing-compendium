@@ -41,4 +41,3 @@ A man says he meditates daily. He counts his calendar and finds eight sittings i
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.21 and 1.22 with Vyasa and the Tika, pp. 47-48, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited Bjork (desirable difficulties) and Aristotle (the mean) parallels were not opened and no claim here rests on them.

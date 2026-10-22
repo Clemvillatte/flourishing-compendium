@@ -37,8 +37,8 @@ BE021 "Learn to use behavioural rehearsal: practise before performing" carries t
 - [Cowperthwait, Wyatt, Fang & Neacsiu, "Skills Training in DBT: Principles and Practicalities," The Oxford Handbook of Dialectical Behaviour Therapy (2018), pp. 167-200](https://academic.oup.com/edited-volume/38169/chapter/333009837) — behavioral rehearsal in DBT and the skills-group evidence
 - [Linehan, DBT Skills Training Manual (2nd ed. 2015), reproducible teaching notes](https://www.guilford.com/add/linehan7_old/lin-p-all-teaching.pdf?t=1) — the rehearsal procedures quoted
 - [Miltenberger, Zerger, Novotny & Livingston, "Behavioral Skills Training to Promote Social Behavior of Individuals with Autism" (2017), pp. 325-342](https://link.springer.com/content/pdf/10.1007/978-3-319-62995-7_19.pdf) — the BST definition
-- Linehan, 1993 — original seed citation; not directly consulted
-- Kelly, 2004 — original seed citation; not directly consulted
+- Linehan, 1993 — original original citation; not directly consulted
+- Kelly, 2004 — original original citation; not directly consulted
 
 ## Cited in psychology parallels
 

@@ -7,7 +7,7 @@ file: "Graded task assignment (Beck, BA)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-Graded task assignment is the practice of breaking a task into steps ordered from least to most demanding, so that each completed step makes the next more likely. The technique comes from Aaron Beck's cognitive therapy for depression and survives in behavioral activation; the seed's second source, Bandura and Schunk's 1981 experiment, supplies the mechanism: proximal subgoals build competence, self-efficacy and interest where distal goals do nothing.
+Graded task assignment is the practice of breaking a task into steps ordered from least to most demanding, so that each completed step makes the next more likely. The technique comes from Aaron Beck's cognitive therapy for depression and survives in behavioral activation; the original entry's second source, Bandura and Schunk's 1981 experiment, supplies the mechanism: proximal subgoals build competence, self-efficacy and interest where distal goals do nothing.
 
 ### The clinical technique
 

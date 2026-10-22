@@ -13,7 +13,7 @@ This line of research asks what a child's worth gets staked on. Its sharpest ins
 
 ### What autonomy support does
 
-The comparison the seed points to was run directly. Roth, Assor, Niemiec, Ryan, and Deci compared conditional positive regard, conditional negative regard, and autonomy support as parenting practices and concluded: "even parents' use of conditional positive regard as a socialization practice has adverse emotional and academic consequences, relative to autonomy support" ([Developmental Psychology, 2009](https://selfdeterminationtheory.org/SDT/documents/2009_RothAssorNiemiecRyanDeci.pdf)). The compendium's use stays with what these studies measured: conditional regard is the practice associated with compulsion, resentment, and poor coping, and autonomy support the comparison practice. On that footing, respecting another's nature counts as a flourishing practice rather than permissiveness.
+The comparison the original entry points to was run directly. Roth, Assor, Niemiec, Ryan, and Deci compared conditional positive regard, conditional negative regard, and autonomy support as parenting practices and concluded: "even parents' use of conditional positive regard as a socialization practice has adverse emotional and academic consequences, relative to autonomy support" ([Developmental Psychology, 2009](https://selfdeterminationtheory.org/SDT/documents/2009_RothAssorNiemiecRyanDeci.pdf)). The compendium's use stays with what these studies measured: conditional regard is the practice associated with compulsion, resentment, and poor coping, and autonomy support the comparison practice. On that footing, respecting another's nature counts as a flourishing practice rather than permissiveness.
 
 ## Sources
 

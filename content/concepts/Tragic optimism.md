@@ -21,7 +21,7 @@ The chapter is careful about what the stance does not allow. Optimism is a capac
 
 > "It must be kept in mind, however, that optimism is not anything to be commanded or ordered. One cannot even force oneself to be optimistic indiscriminately, against all odds, against all hope." (same text, p. 162)
 
-His examples run to the defiant power of the human spirit, as logotherapy calls it: the quadriplegic student who writes that he views his life as abundant with meaning, and the Vietnam prisoners of war who described captivity, in Frankl's summary of the Yale research, as a growth experience. The seed's Lebowitz et al., 2022 citation is preserved below; this session did not trace it to a source, and no claim from it appears on the page.
+His examples run to the defiant power of the human spirit, as logotherapy calls it: the quadriplegic student who writes that he views his life as abundant with meaning, and the Vietnam prisoners of war who described captivity, in Frankl's summary of the Yale research, as a growth experience. The original entry's Lebowitz et al., 2022 citation is preserved below; this session did not trace it to a source, and no claim from it appears on the page.
 
 ### In the compendium
 

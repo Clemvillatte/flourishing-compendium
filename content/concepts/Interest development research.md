@@ -15,7 +15,7 @@ The research program begun by Suzanne Hidi and K. Ann Renninger treats interest 
 
 ### What the phases change
 
-The model's core claim, in the seed line's wording, is that interest grows with knowledge and value. The first two phases are situational: attention caught by something in the environment, then held. The later phases are individual: the person begins to re-engage on their own, and stored knowledge and stored value start to feed each other, each round of engagement adding knowledge that makes the next engagement more rewarding. The practical payoff is that a fledgling interest is fragile in exactly the phase where help matters most, and that questions of value, not just enjoyment, decide whether an early interest survives. Later reviews of research on this model treat the four-phase account as the standard underpinning of the field.
+The model's core claim, in the original entry line's wording, is that interest grows with knowledge and value. The first two phases are situational: attention caught by something in the environment, then held. The later phases are individual: the person begins to re-engage on their own, and stored knowledge and stored value start to feed each other, each round of engagement adding knowledge that makes the next engagement more rewarding. The practical payoff is that a fledgling interest is fragile in exactly the phase where help matters most, and that questions of value, not just enjoyment, decide whether an early interest survives. Later reviews of research on this model treat the four-phase account as the standard underpinning of the field.
 
 ## Related concepts
 

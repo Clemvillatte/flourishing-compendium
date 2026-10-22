@@ -43,12 +43,12 @@ The Yoga Sutra offers a comparison in abhyasa: "the restraint of these mental ac
 - [[AT019]] — The principle naming the notice-and-return cycle that focused-attention training practises
 ## Sources
 
-- [Posner & Petersen, "The attention system of the human brain," Annual Review of Neuroscience 13 (1990), pp. 25-42](https://doi.org/10.1146/annurev.ne.13.030190.000325) — original seed citation; not directly consulted, described here through the 2012 retrospective
+- [Posner & Petersen, "The attention system of the human brain," Annual Review of Neuroscience 13 (1990), pp. 25-42](https://doi.org/10.1146/annurev.ne.13.030190.000325) — original original citation; not directly consulted, described here through the 2012 retrospective
 - [Petersen & Posner, "The Attention System of the Human Brain: 20 Years After" (2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3413263/) — restatement of the 1990 networks; anterior cingulate and conflict; roles in regulating cognition and emotion; training and meditation evidence
 - [Hasenkamp, Wilson-Mendenhall, Duncan & Barsalou, "Mind wandering and attention during focused meditation," NeuroImage 59 (2012), pp. 750-760](https://doi.org/10.1016/j.neuroimage.2011.07.008) — the four-interval cycle and its brain networks ([author PDF](https://wendyhasenkamp.net/wp-content/uploads/2016/02/hasenkamp-neuroimage-2012.pdf))
 - [Prakash, Fountain-Zaragoza, Kramer, Samimy & Wegman, "Mindfulness and Attention: Current State-of-Affairs and Future Considerations," Journal of Cognitive Enhancement 4(3) (2020), pp. 340-367](https://doi.org/10.1007/s41465-019-00144-5) — review of 57 training studies; executive gains, mixed alerting and orienting
 - [Satguru Bodhinatha Veylanswami (trans.), Patanjali: The Yoga Sutras, 1.12-1.13](https://www.himalayanacademy.com/saivite-scriptures/patanjalis-yoga-sutras/) — the abhyasa passages quoted
-- mindfulness attention literature — original seed citation
+- mindfulness attention literature — original original citation
 
 ## Cited in psychology parallels
 

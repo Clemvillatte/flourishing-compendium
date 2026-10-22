@@ -34,7 +34,7 @@ The scheme treats vice as a positional error rather than an alien substance, whi
 ## Related concepts
 
 - [[The tripartite soul]] — the psychology the doctrine of the mean presupposes
-- [[B034 — Know the five hindrances]] — inherited principle link
+- [[B034 — Know the five hindrances]] — principle link
 - [[Courage]] — the virtue whose vices the text names most carefully
 
 ## Sources

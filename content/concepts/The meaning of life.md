@@ -29,7 +29,7 @@ The reversal continues: "Our answer must consist, not in talk and meditation, bu
 
 ## Sources
 
-- Frankl, Man's Search for Meaning (inherited seed citation)
+- Frankl, Man's Search for Meaning
 
 - [Frankl, Man's Search for Meaning (Internet Archive)](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl) — the life-expects-from-us, Nietzsche-epigraph and specificity passages verified verbatim
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the robust bias toward over-crediting the self (Ross, 1977); self-serving attribution and its reversal in depression research.
 
-The seed's definition is wrong. The fundamental attribution error (FAE) is not a bias toward over-crediting the self. Ross (1977) named it as a bias about explaining other people's behavior, and the seed's own second line states it correctly. Over-crediting the self belongs to a different idea, self-serving attribution, which the compendium keeps as a separate concept. The page below separates the two.
+The original entry's definition is wrong. The fundamental attribution error (FAE) is not a bias toward over-crediting the self. Ross (1977) named it as a bias about explaining other people's behavior, and the original entry's own second line states it correctly. Over-crediting the self belongs to a different idea, self-serving attribution, which the compendium keeps as a separate concept. The page below separates the two.
 
 ### What Ross described
 
@@ -27,7 +27,7 @@ Jones and Nisbett's actor-observer hypothesis says people explain their own beha
 
 ### What was not checked
 
-The seed's claim about a reversal of self-serving attribution in depression research was not checked for this page. The meta-analysis above covers valence only, and no depression source was opened.
+The original entry's claim about a reversal of self-serving attribution in depression research was not checked for this page. The meta-analysis above covers valence only, and no depression source was opened.
 
 ### In the compendium
 

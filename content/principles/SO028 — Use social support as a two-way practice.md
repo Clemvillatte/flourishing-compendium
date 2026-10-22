@@ -20,7 +20,7 @@ For giving, Brown and colleagues followed older married adults for five years. M
 
 ### Scope
 
-I did not open Cutrona and Russell 1990 or the full texts of these studies. The seed's claim that receiving support buffers stress holds only for perceived availability, and Brown et al. found receiving had no independent effect on mortality. Reciprocity as an "adaptive stance" is the compendium's, and the sources do not test it. I found nothing on refusing help.
+I did not open Cutrona and Russell 1990 or the full texts of these studies. The original entry's claim that receiving support buffers stress holds only for perceived availability, and Brown et al. found receiving had no independent effect on mortality. Reciprocity as an "adaptive stance" is the compendium's, and the sources do not test it. I found nothing on refusing help.
 
 **Plain words**
 Knowing support is available protects against stress. In two studies, helping others, not being helped, predicted longer life. Both directions matter, but the evidence differs.

@@ -7,7 +7,7 @@ file: "Orienting response theory Sokolov"
 tags: ["theory", "psych/attention"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-ATTENTION"], "alternatePaths": []}
 ---
-The orienting response was named by Pavlov, who called it the "what is it" reflex. A Springer entry defines it as "the reflexive response to an environmental stimulus such that there is a transient orientation of the individual to the stimulus", first described by Sechenov in the 1850s, and notes that it declines with repeated exposure ([Orienting Response, Springer Nature Link](https://link.springer.com/rwe/10.1007/978-0-387-79948-3_1317?error=cookies_not_supported&code=0e0f7933-48e7-4f7b-9ebf-34658732e26a)). Sokolov's contribution was a mechanism for why it fades and returns, which makes the theory more specific than the seed's description of novel stimuli capturing attention.
+The orienting response was named by Pavlov, who called it the "what is it" reflex. A Springer entry defines it as "the reflexive response to an environmental stimulus such that there is a transient orientation of the individual to the stimulus", first described by Sechenov in the 1850s, and notes that it declines with repeated exposure ([Orienting Response, Springer Nature Link](https://link.springer.com/rwe/10.1007/978-0-387-79948-3_1317?error=cookies_not_supported&code=0e0f7933-48e7-4f7b-9ebf-34658732e26a)). Sokolov's contribution was a mechanism for why it fades and returns, which makes the theory more specific than the original entry's description of novel stimuli capturing attention.
 
 ### The comparator model
 
@@ -19,7 +19,7 @@ A review of concealed-information research states that the response is elicited 
 
 ### Limits
 
-One article on orienting and habituation notes that Sokolov proposed a match-mismatch comparator but "no attempt was made by him and his followers to specify the nature of this mechanism" ([Article on orienting and habituation, PDF hosted on Gershon Ben-Shakhar's site; file title "UNCORRECTED PROOF"](https://www.openu.ac.il/personal_sites/gershon-ben-shakhar/BGP2002.pdf)). Wikipedia's habituation page lists rival accounts, among them the Groves and Thompson dual-process theory, so the comparator model is one explanation among several ([Wikipedia, Habituation](https://en.wikipedia.org/wiki/Habituation)). The seed's "exploration of the source" fits the "fixing of sensory receptors" at the stimulus, but it is not stated as exploration in these sources.
+One article on orienting and habituation notes that Sokolov proposed a match-mismatch comparator but "no attempt was made by him and his followers to specify the nature of this mechanism" ([Article on orienting and habituation, PDF hosted on Gershon Ben-Shakhar's site; file title "UNCORRECTED PROOF"](https://www.openu.ac.il/personal_sites/gershon-ben-shakhar/BGP2002.pdf)). Wikipedia's habituation page lists rival accounts, among them the Groves and Thompson dual-process theory, so the comparator model is one explanation among several ([Wikipedia, Habituation](https://en.wikipedia.org/wiki/Habituation)). The original entry's "exploration of the source" fits the "fixing of sensory receptors" at the stimulus, but it is not stated as exploration in these sources.
 ## Related concepts
 
 - [[Habituation]] — the decline in response that Sokolov's model explains

@@ -19,9 +19,9 @@ On Wikipedia's account, Pascual-Leone proposed that mental power rises from one 
 
 Cowan summarises the shared claim: neo-Piagetians held that cognitive changes "indirectly resulted from improvements in the foundations of cognitive processing, including processing speed... processing resources including energy and working memory capacity... and the ability to bind items together to form more complex dependencies" ([Cowan, Why and how to study working memory development, PDF](https://memory.psych.missouri.edu/assets/doc/articles/2020/Cowan-2020-Lannee-psychologique-why-and-how-WM.pdf)). The theories differ on what grows. A Wikipedia passage says Halford objected to Case's definition of capacity, arguing that mental capacity "cannot be specified in reference to executive functions".
 
-### Fit with the seed
+### Fit with the original entry
 
-The seed names Case and Demetriou and speaks of working memory capacity and domain-specific operations. That matches Case on capacity and Demetriou on domains, but it sums five distinct theories into one line.
+The original entry names Case and Demetriou and speaks of working memory capacity and domain-specific operations. That matches Case on capacity and Demetriou on domains, but it sums five distinct theories into one line.
 ## Related concepts
 
 - [[Information-processing theory of cognitive development]] — the broader framework the neo-Piagetians draw on
@@ -31,7 +31,7 @@ The seed names Case and Demetriou and speaks of working memory capacity and doma
 - [Post-Piagetian Perspectives of Cognitive Development (Oxford Academic)](https://academic.oup.com/edited-volume/61768/chapter/553520912?guestAccessKey=)
 - [Neo-Piagetian theories of cognitive development (Wikipedia)](https://en.wikipedia.org/wiki/Neo-Piagetian_theories_of_cognitive_development)
 - [Demetriou, "Piaget and the Neo-Piagetians", SAGE Encyclopedia of Theory in Psychology (Academia.edu listing)](https://www.academia.edu/9462515/Demetriou_A_in_press_Piaget_and_the_Neo_Piagetians_In_H_Miller_Ed_The_SAGE_Encyclopedia_of_Theory_in_Psychology)
-- [A Neo-Piagettian Approach to Development During the ... (ERIC PDF; title truncated)](https://files.eric.ed.gov/fulltext/ED199089.pdf)
+- [A Neo-Piagettian Approach to Development During the... (ERIC PDF; title truncated)](https://files.eric.ed.gov/fulltext/ED199089.pdf)
 - [Cowan, Why and how to study working memory development (PDF)](https://memory.psych.missouri.edu/assets/doc/articles/2020/Cowan-2020-Lannee-psychologique-why-and-how-WM.pdf)
 
 ## Field

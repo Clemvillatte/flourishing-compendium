@@ -18,7 +18,7 @@ Chapter 45 of the Daodejing runs a list of reversals: what is fullest seems empt
 >   Shall find his vigour long endure.
 > Of greatest fulness, deemed a void,
 >   Exhaustion ne'er shall stem the tide.
-> Do thou what's straight still crooked deem;
+> Do thou what's straight still crooked deem
 >   Thy greatest art still stupid seem,
 > And eloquence a stammering scream.
 >

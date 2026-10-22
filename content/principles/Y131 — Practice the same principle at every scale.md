@@ -44,4 +44,3 @@ On the first Saturday of the month, a woman runs the whole day like a sitting. S
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 3.4 with Vyasa and the Tika, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
 - [Bhagavad Gita 6.29, 6.31, 6.32 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/29/)
-- The inherited Barnett & Ceci (2002) and Emerald Tablet parallels were not opened and no claim here rests on them.

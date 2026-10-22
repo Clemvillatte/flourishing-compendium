@@ -23,7 +23,7 @@ The ERIC record says the paper "holds that young children are limited in their k
 
 A recent review describes metacognition as "the capacity to reflect on, evaluate and control first-order cognitive processes such as decision-making, memory and perception", and distinguishes stable beliefs about one's capacities from local evaluations of performance ([The future of metacognition research, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11139654/)). A mathematics-education review quotes a later definition by Flavell, Miller and Miller (2002): "any knowledge or cognitive activity that takes as its object, or regulates, any aspect of any cognitive activity" ([Springer](https://link.springer.com/content/pdf/10.1007/s11858-010-0245-x.pdf?error=cookies_not_supported&code=03ad0a30-4dcd-4d55-8ee4-8b97d1f9a935)).
 
-### A caution on the seed gloss
+### A caution on the original entry gloss
 
 The earlier line on this page, "noticing that even your framework is a mental event", is an interpretive reading, not Flavell's wording. In the text I opened, Flavell is describing monitoring of cognitive tasks, not the status of frameworks. Treat the gloss as the wiki's bridge to contemplative themes and keep the two apart in essays.
 
@@ -54,7 +54,7 @@ The earlier line on this page, "noticing that even your framework is a mental ev
 - [Semantic Scholar entry for Flavell, 1979](https://www.semanticscholar.org/paper/Metacognition-and-Cognitive-Monitoring:-A-New-Area-Flavell/ee652f0f63ed5b0cfe0af4cb4ea76b2ecf790c8d)
 - [The future of metacognition research: Balancing construct breadth with measurement rigor (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11139654/)
 - [Metacognition research in mathematics education (Springer)](https://link.springer.com/content/pdf/10.1007/s11858-010-0245-x.pdf?error=cookies_not_supported&code=03ad0a30-4dcd-4d55-8ee4-8b97d1f9a935)
-- Dunlosky and Metcalfe, 2009: seed reference, not opened directly.
+- Dunlosky and Metcalfe, 2009: original reference
 
 ## Cited in psychology parallels
 

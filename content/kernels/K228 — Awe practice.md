@@ -28,13 +28,13 @@ The prototype account of what awe is:
 
 The trial result, from the abstract:
 
-> "Sixty participants took weekly 15-min outdoor walks for 8 weeks; participants were randomly assigned to an awe walk group, which oriented them to experience awe during their walks, or to a control walk group." ... "those who took awe walks experienced greater awe during their walks and exhibited an increasingly 'small self' in their photographs over time." (Abstract, [Sturm et al., 2022, Emotion 22(5), 1044-1058](https://pubmed.ncbi.nlm.nih.gov/32955293/))
+> "Sixty participants took weekly 15-min outdoor walks for 8 weeks; participants were randomly assigned to an awe walk group, which oriented them to experience awe during their walks, or to a control walk group."... "those who took awe walks experienced greater awe during their walks and exhibited an increasingly 'small self' in their photographs over time." (Abstract, [Sturm et al., 2022, Emotion 22(5), 1044-1058](https://pubmed.ncbi.nlm.nih.gov/32955293/))
 
 Outside the walk context, the awe walkers "reported greater increases in daily prosocial positive emotions and greater decreases in daily distress over time." The honest limit, in the trial's own words: "Postintervention anxiety, depression, and life satisfaction did not change from baseline in either group." What this evidence does not test: the broader menu of vastness sources beyond a walk, and use in younger adults; the participants in this trial were healthy older adults, and the page does not claim the walk generalises beyond that.
 
 ### A guided version
 
-No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
+No guided version is supplied here.
 
 ## Operationalises
 

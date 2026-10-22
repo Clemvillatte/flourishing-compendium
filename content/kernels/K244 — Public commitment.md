@@ -26,7 +26,7 @@ In the Iowa City program, "residents were told that the results of the study wou
 
 ### A guided version
 
-Not applicable: a public commitment is a declaration made to people, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: a public commitment is a declaration made to people, not a recording.
 
 ## Operationalises
 

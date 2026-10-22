@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Habermas” — 1981.
 
-The date points to Jürgen Habermas's The Theory of Communicative Action (1981), the start of his mature work and a framework that combines a theory of meaning and action, a typology of social action, a social ontology and a critical social theory. This page summarises that work and the discourse rules the compendium draws on, using the Stanford Encyclopedia's entry; the 1981 book itself was not opened.
+The date points to Jürgen Habermas's The Theory of Communicative Action (1981), the start of his mature work and a framework that combines a theory of meaning and action, a typology of social action, a social ontology and a critical social theory. This page summarises that work and the discourse rules the compendium draws on, using the Stanford Encyclopedia's entry.
 
 ### Communicative action
 

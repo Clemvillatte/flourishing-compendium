@@ -17,9 +17,9 @@ In an earlier paper, Melzack lists the inputs: sensory inputs from skin, viscera
 
 The 2001 abstract says chronic pain syndromes are "often characterized by severe pain associated with little or no discernible injury or pathology" and that the relationship with chronic stress "is poorly understood", so the theory offers "a new conceptual framework". A handbook chapter summary notes it was proposed "largely on the basis of phantom limb phenomena" ([Wiley, The Neuromatrix in Behavioral Medicine](https://onlinelibrary.wiley.com/doi/10.1002/9781118453940.ch35)).
 
-### Reading the seed note
+### Reading the original entry note
 
-The seed says pain is "not a simple sensory input". That is accurate to the abstract, which says somatic sensory input "is only a part" of the influences on the output pattern. The neuromatrix is described as "genetically determined and modified by sensory experience", so the theory does not treat pain as imaginary or independent of the body. It is a theory; I did not open an independent test of its claims.
+The original entry says pain is "not a simple sensory input". That is accurate to the abstract, which says somatic sensory input "is only a part" of the influences on the output pattern. The neuromatrix is described as "genetically determined and modified by sensory experience", so the theory does not treat pain as imaginary or independent of the body. It is a theory; I did not open an independent test of its claims.
 ## Sources
 
 - [Melzack, Pain and the neuromatrix in the brain (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11780656/)

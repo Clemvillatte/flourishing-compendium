@@ -36,7 +36,7 @@ SE058 "Recognise self and solitude: the self needs alone time" treats solitude a
 ## Sources
 
 - [Winnicott, "The Capacity to be Alone," International Journal of Psycho-Analysis 39(5) (1958), pp. 416-420](https://web.english.upenn.edu/~cavitch/pdf-library/Winnicott_Capacity_To_Be_Alone.pdf) — the primary text; all quotations verbatim; paper consulted as reproduced in The Collected Works of D. W. Winnicott, vol. 5
-- Winnicott, 1958 — original seed citation; the paper consulted in the linked reproduction
+- Winnicott, 1958 — original original citation; the paper consulted in the linked reproduction
 
 ## Cited in psychology parallels
 

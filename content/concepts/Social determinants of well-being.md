@@ -23,7 +23,7 @@ Both sources are explicit that these are correlational. Helliwell writes that "t
 
 ### In the compendium
 
-The principles listed (for example A006, SO001, SO009, P138 and R107) treat the social setting as part of what flourishing needs. The sources above support a narrower claim: life evaluations vary systematically with trust, support and the other social variables, and a stronger social environment is associated with smaller losses under adversity. The compendium's further step, that a good life requires particular social arrangements, is its own argument. The seed citation to Marmot (2004) was not opened for this revision.
+The principles listed (for example A006, SO001, SO009, P138 and R107) treat the social setting as part of what flourishing needs. The sources above support a narrower claim: life evaluations vary systematically with trust, support and the other social variables, and a stronger social environment is associated with smaller losses under adversity. The compendium's further step, that a good life requires particular social arrangements, is its own argument. The original entry citation to Marmot (2004) was not opened for this revision.
 
 ## Related concepts
 

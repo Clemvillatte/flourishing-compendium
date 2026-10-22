@@ -7,7 +7,7 @@ file: "Mitochondrial theory of psychology"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-In the sources I opened, the idea goes by the name mitochondrial psychobiology, not "mitochondrial theory of psychology". It is defined as "the study of the interactions between psychological states and the biological processes that take place within mitochondria", and it also examines how mitochondrial biology influences "neural, endocrine, and immune systems known to transduce psychological experiences into health outcomes" ([Mitochondrial Psychobiology Lab, research themes](https://www.picardlab.org/research.html); [Picard, Trumpff and Burelle, 2019, PubMed](https://pubmed.ncbi.nlm.nih.gov/32637466/)). Treat the seed title as a wiki label for this field.
+In the sources I opened, the idea goes by the name mitochondrial psychobiology, not "mitochondrial theory of psychology". It is defined as "the study of the interactions between psychological states and the biological processes that take place within mitochondria", and it also examines how mitochondrial biology influences "neural, endocrine, and immune systems known to transduce psychological experiences into health outcomes" ([Mitochondrial Psychobiology Lab, research themes](https://www.picardlab.org/research.html); [Picard, Trumpff and Burelle, 2019, PubMed](https://pubmed.ncbi.nlm.nih.gov/32637466/)). Treat the original entry title as a wiki label for this field.
 
 ### The framework
 
@@ -23,7 +23,7 @@ A PNAS study of postmortem brain tissue found that "higher well-being is linked 
 
 ### How to use it
 
-The claim in the seed that mitochondria "shape brain function, mood and ageing" is supported as a hypothesis and as associations, not as an established mechanism in humans. In essays, say that mitochondria are one proposed pathway by which stress becomes biology.
+The claim in the original entry that mitochondria "shape brain function, mood and ageing" is supported as a hypothesis and as associations, not as an established mechanism in humans. In essays, say that mitochondria are one proposed pathway by which stress becomes biology.
 ## Related concepts
 
 - [[Allostatic load]] — mitochondrial allostatic load extends this idea to the cell

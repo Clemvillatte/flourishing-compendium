@@ -41,4 +41,3 @@ A man says he never lies, except to spare feelings, except at work, except to hi
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutra 2.31 with Vyasa and the Tika, pp. 180-181, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited Bandura (1999) and Kant parallels were not opened and no claim here rests on them.

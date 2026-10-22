@@ -13,7 +13,7 @@ The compendium uses "Difference and repetition" for Gilles Deleuze's pairing of 
 
 ### Repetition without identity
 
-The IEP's account notes that for Deleuze repetition has traditionally been subjected to the law of the identical, as saying the same thing at different moments ([IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)). His alternative is compressed into one line of the book: "Difference inhabits repetition" (Deleuze, Difference and Repetition, p. 76, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)). The eternal return, on this reading, is only the repetition of that which differs-from-itself: "The subject of the eternal return is not the same but the different, not the similar but the dissimilar, not the one but the many . . ." (Deleuze, Difference and Repetition, p. 126, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)).
+The IEP's account notes that for Deleuze repetition has traditionally been subjected to the law of the identical, as saying the same thing at different moments ([IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)). His alternative is compressed into one line of the book: "Difference inhabits repetition" (Deleuze, Difference and Repetition, p. 76, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)). The eternal return, on this reading, is only the repetition of that which differs-from-itself: "The subject of the eternal return is not the same but the different, not the similar but the dissimilar, not the one but the many. . ." (Deleuze, Difference and Repetition, p. 126, quoted in [IEP, Gilles Deleuze](https://iep.utm.edu/deleuze/)).
 
 ### In the compendium
 

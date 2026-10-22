@@ -26,7 +26,7 @@ The mortality evidence for social connection is large and stable. In the meta-an
 
 ### A guided version
 
-Not applicable: this practice is attendance with other people, not a guided recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: this practice is attendance with other people, not a guided recording.
 
 ## Operationalises
 

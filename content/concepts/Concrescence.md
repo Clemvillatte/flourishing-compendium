@@ -29,7 +29,7 @@ The inner quote, "the many become one, and are increased with one", is Whitehead
 ## Sources
 
 - [Desmet R, Irvine AD. Alfred North Whitehead. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/whitehead/) — the concrescence summary with the Process and Reality 1929c [1985: 21] and [1985: 240] locators, opened for this page.
-- Whitehead, Process and Reality — book citation carried from the seed; not independently opened this session.
+- Whitehead, Process and Reality — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

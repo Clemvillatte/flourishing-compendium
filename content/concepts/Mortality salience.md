@@ -29,7 +29,7 @@ The classic effect has since been tested at scale. A 2022 pre-registered multi-l
 
 - [Burke, Martens and Faucher, "Two decades of terror management theory: a meta-analysis of mortality salience research", Personality and Social Psychology Review 14(2), 2010, pp. 155-195, PubMed record 20097885](https://pubmed.ncbi.nlm.nih.gov/20097885/) — the MS hypothesis statement, scope (164 articles, 277 experiments), effect size and moderators quoted above
 - [Klein et al., "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement", Collabra: Psychology 8(1), article 35271, 2022](https://online.ucpress.edu/collabra/article/8/1/35271/186959/Many-Labs-4-Failure-to-Replicate-Mortality-Salience) — the 2022 multi-lab replication outcome quoted above
-- Greenberg, Pyszczynski and Solomon, 1986 — the seed's citation for the theory's origin; the 1986 chapter was not opened for this item
+- Greenberg, Pyszczynski and Solomon, 1986 — cited as the theory's origin
 
 ## Cited in psychology parallels
 

@@ -12,7 +12,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 The Daodejing's fortieth chapter describes the Dao as moving by contraries and associates its activity with weakness. Chapter 9 warns against carrying a vessel when it is full and against repeatedly feeling a point that has been sharpened. Chapter 58 places happiness and misery beside one another, and asks who knows what either will come to in the end.
 
 > "The movement of the Tao
-> By contraries proceeds;
+> By contraries proceeds
 > And weakness marks the course
 > Of Tao's mighty deeds." (Daodejing 40, [Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 

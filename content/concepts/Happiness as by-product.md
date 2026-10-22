@@ -15,7 +15,7 @@ The claim, in Frankl and before him in Mill, is that happiness is not something 
 
 ### Why scrutiny spoils it
 
-Mill continues: "Ask yourself whether you are happy, and you cease to be so." Enjoyments "will not bear a scrutinizing examination"; taken en passant they suffice, made the principal object they are "immediately felt to be insufficient." The mechanism matters for flourishing rather than mere consolation: on Mill's account, enjoyment holds up only while attention rests on something besides itself. The seed citation to Frankl's Man's Search for Meaning marks the same insight from the other direction: the title names meaning, not happiness, as what a life can aim at.
+Mill continues: "Ask yourself whether you are happy, and you cease to be so." Enjoyments "will not bear a scrutinizing examination"; taken en passant they suffice, made the principal object they are "immediately felt to be insufficient." The mechanism matters for flourishing rather than mere consolation: on Mill's account, enjoyment holds up only while attention rests on something besides itself. The original entry citation to Frankl's Man's Search for Meaning marks the same insight from the other direction: the title names meaning, not happiness, as what a life can aim at.
 
 ## Related concepts
 

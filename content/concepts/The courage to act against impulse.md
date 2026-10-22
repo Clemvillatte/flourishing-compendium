@@ -7,7 +7,7 @@ file: "The courage to act against impulse"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The courage to act against impulse is the strength to do what reason or duty calls for while inclination pushes the other way. The phrase is the compendium's own heading; the seed names Kant's Groundwork, and the passage it rests on is Kant's account of acting from duty against inclination.
+The courage to act against impulse is the strength to do what reason or duty calls for while inclination pushes the other way. The phrase is the compendium's own heading; the original entry names Kant's Groundwork, and the passage it rests on is Kant's account of acting from duty against inclination.
 
 ### Kant's ground
 

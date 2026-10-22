@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 
 Chapter 13 lists the marks of true knowledge, and one of them is about where a person likes to be:
 
-> Humbleness; freedom from hypocrisy; non-violence; forgiveness; ... an inclination for solitary places and an aversion for mundane society; constancy in spiritual knowledge; and philosophical pursuit of the Absolute Truth ... all these I declare to be knowledge, and what is contrary to it, I call ignorance.
+> Humbleness; freedom from hypocrisy; non-violence; forgiveness; ... an inclination for solitary places and an aversion for mundane society; constancy in spiritual knowledge; and philosophical pursuit of the Absolute Truth... all these I declare to be knowledge, and what is contrary to it, I call ignorance.
 
 (BG 13.8-12, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/13/verse/8/); the page prints the five verses as one passage.)
 

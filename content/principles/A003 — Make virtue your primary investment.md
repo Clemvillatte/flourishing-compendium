@@ -23,7 +23,7 @@ Aristotle starts Book II by saying where virtue comes from. In Ross's translatio
 
 ### A state, not a feeling
 
-In II.5 he argues that [[Virtue|Virtue (arete)]] is not a passion, because "we feel anger and fear without choice, but the virtues are modes of choice or involve choice." It is a "state of character." In II.6 he adds what kind: "a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it." The same chapter says virtue "makes a man good and ... makes him do his own work well".
+In II.5 he argues that [[Virtue|Virtue (arete)]] is not a passion, because "we feel anger and fear without choice, but the virtues are modes of choice or involve choice." It is a "state of character." In II.6 he adds what kind: "a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which the man of practical wisdom would determine it." The same chapter says virtue "makes a man good and... makes him do his own work well".
 
 ### Wording of the principle
 

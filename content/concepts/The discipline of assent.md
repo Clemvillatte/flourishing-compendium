@@ -27,7 +27,7 @@ The discipline is possible because the understanding has a nature to work with:
 
 > "What is the cause of assenting to anything? The fact that it appears to be true. It is not possible then to assent to that which appears not to be true. Why? Because this is the nature of the understanding: to incline to the true, to be dissatisfied with the false, and in matters uncertain to withhold assent." (Discourses 1.28, [same translation](https://standardebooks.org/ebooks/epictetus/discourses/george-long/text/single-page))
 
-The work, as the chapter on progress puts it, lies "in assent and suspension of assent, that you be not deceived" (Discourses 1.4, same translation). The seed's Spinoza line is preserved in the formulations below; the page's quotes are all Epictetus, the anchor the seed names.
+The work, as the chapter on progress puts it, lies "in assent and suspension of assent, that you be not deceived" (Discourses 1.4, same translation). The original entry's Spinoza line is preserved in the formulations below; the page's quotes are all Epictetus, the anchor the original entry names.
 
 ### In the compendium
 

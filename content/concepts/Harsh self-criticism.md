@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 predicts psychopathology (Gilbert, 2009).
 
-The seed's wording needs a limit. The sources opened for this page show that harsh self-criticism is associated with psychopathology, and Gilbert's paper is a theoretical and clinical account, not a prediction study. The word "predicts" should be read as "goes with" unless a study shows otherwise over time.
+The original entry's wording needs a limit. The sources opened for this page show that harsh self-criticism is associated with psychopathology, and Gilbert's paper is a theoretical and clinical account, not a prediction study. The word "predicts" should be read as "goes with" unless a study shows otherwise over time.
 
 ### Gilbert's account
 

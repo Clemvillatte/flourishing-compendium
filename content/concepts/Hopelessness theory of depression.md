@@ -38,7 +38,7 @@ The theory describes a risk pathway in a research model, not a diagnosis a reade
 
 ## Sources
 
-- [Abramson, Metalsky and Alloy, "Hopelessness depression: A theory-based subtype of depression", Psychological Review 96(2), 358-372, 1989 (bibliographic record; not opened in full)](https://philpapers.org/rec/ABRHDA)
+- [Abramson, Metalsky and Alloy, "Hopelessness depression: A theory-based subtype of depression", Psychological Review 96(2), 358-372, 1989 (bibliographic record in full)](https://philpapers.org/rec/ABRHDA)
 - [Liu, Kleiman, Nestor and Cheek, "The Hopelessness Theory of Depression: A Quarter Century in Review", Clinical Psychology: Science and Practice 22(4), 345-365, 2015 (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4689589/)
 - [Negative attributional style, hopelessness depression and endogenous depression (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11153969/)
 

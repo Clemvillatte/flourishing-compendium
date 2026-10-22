@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Relational humility” — Davis et al., 2013.
 
-Relational humility is Don Davis and colleagues' model of humility as a judgment other people make about someone, not a trait a person simply reports about themselves. The 2013 paper the seed cites tested whether it strengthens social bonds over time; the model and its scale come from a 2011 paper by the same team.
+Relational humility is Don Davis and colleagues' model of humility as a judgment other people make about someone, not a trait a person simply reports about themselves. The 2013 paper the original entry cites tested whether it strengthens social bonds over time; the model and its scale come from a 2011 paper by the same team.
 
 ### The definition
 

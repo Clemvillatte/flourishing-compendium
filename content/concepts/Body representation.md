@@ -37,7 +37,7 @@ The entry also notes a controversy: whether the body schema should be conceived 
 ## Sources
 
 - [De Vignemont F. Bodily Awareness. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/bodily-awareness/) — the body-representation definition and schema/image distinction, opened for this page.
-- Gallagher S (2005). How the Body Shapes the Mind. Oxford University Press — book citation carried from the seed; not independently opened this session.
+- Gallagher S (2005). How the Body Shapes the Mind. Oxford University Press — book citation carried from the original entry
 
 ## Cited in psychology parallels
 

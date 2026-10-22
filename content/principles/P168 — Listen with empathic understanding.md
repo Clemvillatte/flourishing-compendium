@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 In a 1975 article, Carl Rogers describes what he calls an unappreciated way of being with another person. The empathic way of being has several facets, and the first is a move into the other person's world ([Rogers, "Empathic: An Unappreciated Way of Being," 1975](https://clinica.ispa.pt/sites/default/files/83._carl_rogers_empathic.pdf)):
 
-> It means entering the private perceptual world of the other and becoming thoroughly at home in it. It involves being sensitive, moment to moment, to the changing felt meanings which flow in this other person, to the fear or rage or tenderness or confusion or whatever, that he/she is experiencing. It means temporarily living in his/her life, moving about in it delicately without making judgments ...
+> It means entering the private perceptual world of the other and becoming thoroughly at home in it. It involves being sensitive, moment to moment, to the changing felt meanings which flow in this other person, to the fear or rage or tenderness or confusion or whatever, that he/she is experiencing. It means temporarily living in his/her life, moving about in it delicately without making judgments...
 
 (Abridged; the passage continues. Rogers, "Empathic: An Unappreciated Way of Being," 1975; PDF p. 3 of 10.)
 

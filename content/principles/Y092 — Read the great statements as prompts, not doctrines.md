@@ -45,4 +45,3 @@ A man writes "thou art that" on a card and feels pleased for a day. In the secon
 - [Muller, The Upanishads, Part I (SBE 1, 1879), Chandogya 6.8.7 (p. 101) and refrain through 6.16; Aitareya-Aranyaka "Knowledge is Brahman" (p. 246), Internet Archive](https://archive.org/details/upanishads01mluoft)
 - [Brihadaranyaka Upanishad 1.4.10, Muller translation as shown at brhat.in](https://www.brhat.in/openlibrary/special/brihadaranyaka-upanishad/1-4-10) (read as a search excerpt)
 - [Mandukya Upanishad verse 2, Swami Krishnananda's edition](https://www.swami-krishnananda.org/mand/mand_invoc.html) (read as a search excerpt)
-- The inherited Cohen & Sherman (2014) parallel was not opened and no claim here rests on it.

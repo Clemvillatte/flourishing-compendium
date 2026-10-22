@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Compassionate love” — Underwood, 2008.
 
-Compassionate love is a form of love centred on the good of another person. Lynn Underwood's conceptual work (the seed cites 2008 and 2009) frames it as "attitudes and actions related to giving of self for the good of the other", and Susan Sprecher and Beverley Fehr's 2005 scale made it measurable. Berscheid's 2010 review counts it among four types of love in adult relationships.
+Compassionate love is a form of love centred on the good of another person. Lynn Underwood's conceptual work (the original entry cites 2008 and 2009) frames it as "attitudes and actions related to giving of self for the good of the other", and Susan Sprecher and Beverley Fehr's 2005 scale made it measurable. Berscheid's 2010 review counts it among four types of love in adult relationships.
 
 ### Definitions
 

@@ -7,7 +7,7 @@ file: "Hyperfocus theory"
 tags: ["theory", "psych/attention"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-ATTENTION"], "alternatePaths": []}
 ---
-Hyperfocus is not a settled theory. Ashinoff and Abu-Akel describe it as "a phenomenon that reflects one's complete absorption in a task, to a point where a person appears to completely ignore or 'tune out' everything else", but add that it "is poorly defined within the literature" and that "there is no single consensus to what constitutes hyperfocus" ([Ashinoff and Abu-Akel, Psychological Research, 2021, abstract](https://cris.iucc.ac.il/en/publications/hyperfocus-the-forgotten-frontier-of-attention/)). The seed note's idea of absorption turning into lock-in matches how clinicians describe it, but the evidence is thinner than the name suggests.
+Hyperfocus is not a settled theory. Ashinoff and Abu-Akel describe it as "a phenomenon that reflects one's complete absorption in a task, to a point where a person appears to completely ignore or 'tune out' everything else", but add that it "is poorly defined within the literature" and that "there is no single consensus to what constitutes hyperfocus" ([Ashinoff and Abu-Akel, Psychological Research, 2021, abstract](https://cris.iucc.ac.il/en/publications/hyperfocus-the-forgotten-frontier-of-attention/)). The original entry note's idea of absorption turning into lock-in matches how clinicians describe it, but the evidence is thinner than the name suggests.
 
 ### Operational definition
 
@@ -15,7 +15,7 @@ Their review proposes four testable features: hyperfocus is induced by task enga
 
 ### The lock-in side
 
-The clinical origin of the term emphasises difficulty switching. The review quotes a definition of hyperfocusing as "'locking on' to a task in patients with ADHD who have a difficulty of shifting their attention from one subject to another, especially if the subject is about their interests" (Conner, 1994, quoted there). Hupfeld, Abagis and Shah's working definition, as quoted in a student thesis, lists "timelessness, failure to attend to the world, ignoring personal needs, difficulty stopping and switching tasks, feelings of total engrossment in the task, and feeling 'stuck' on small details" ([University of Richmond honors thesis](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=2611&context=honors-theses)). That is the narrowing the seed describes.
+The clinical origin of the term emphasises difficulty switching. The review quotes a definition of hyperfocusing as "'locking on' to a task in patients with ADHD who have a difficulty of shifting their attention from one subject to another, especially if the subject is about their interests" (Conner, 1994, quoted there). Hupfeld, Abagis and Shah's working definition, as quoted in a student thesis, lists "timelessness, failure to attend to the world, ignoring personal needs, difficulty stopping and switching tasks, feelings of total engrossment in the task, and feeling 'stuck' on small details" ([University of Richmond honors thesis](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=2611&context=honors-theses)). That is the narrowing the original entry describes.
 
 ### The strength side
 

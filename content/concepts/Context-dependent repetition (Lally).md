@@ -42,7 +42,7 @@ The abstract also reports that missing one opportunity did not materially affect
 
 - [Lally et al., 2010, How are habits formed — Wiley abstract (opened)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674)
 - Lally et al., 2010
-- Gardner, 2015 (original seed reference; not consulted)
+- Gardner, 2015 (original original reference; not consulted)
 
 ## Cited in psychology parallels
 

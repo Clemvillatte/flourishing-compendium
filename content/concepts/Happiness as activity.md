@@ -48,7 +48,7 @@ So the claim is not that happiness is a pleasant feeling. He adds that the lives
 ## Sources
 
 - [Aristotle, Nicomachean Ethics I, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html): chapters 7, 8 and 9 read
-- The seed line cites only "Nicomachean Ethics I", so the chapter numbers above are from the text itself.
+- The original entry line cites only "Nicomachean Ethics I", so the chapter numbers above are from the text itself.
 
 [[ST121 — The Creative Advance]]
 [[K047 — Let all joy be traced to the wish for others' happiness]]

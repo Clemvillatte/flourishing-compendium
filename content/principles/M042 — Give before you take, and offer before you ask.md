@@ -30,7 +30,7 @@ The tradition ties receiving knowledge to a morally regulated exchange. The adap
 
 ## Practice
 
-- Adopt the first-fruits rule in one domain: the first hour of the workday given to the highest thing, the first portion of income given away, the first fruits of any harvest shared. (The one-domain rule is this principle's own adaptation; the seed's calendar attribution was not verified and is not repeated.)
+- Adopt the first-fruits rule in one domain: the first hour of the workday given to the highest thing, the first portion of income given away, the first fruits of any harvest shared. (The one-domain rule is this principle's own adaptation; the original entry's calendar attribution was not verified and is not repeated.)
 
 ## Related concepts
 

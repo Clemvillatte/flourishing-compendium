@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The inner citadel” — Hadot, The Inner Citadel; Stoics, Marcus Aurelius, Meditations.
 
-Pierre Hadot, the historian of ancient philosophy, is the author of The Inner Citadel, a study of the Meditations of Marcus Aurelius (Harvard, 1998). Hadot is known for reading ancient philosophy as a set of spiritual exercises, "practices ... intended to effect a modification and a transformation in the subjects who practice them", in the definition Wikipedia quotes from him. On the Stoic account, the inner citadel is the mind's own ground: the place of judgment, which external things cannot force.
+Pierre Hadot, the historian of ancient philosophy, is the author of The Inner Citadel, a study of the Meditations of Marcus Aurelius (Harvard, 1998). Hadot is known for reading ancient philosophy as a set of spiritual exercises, "practices... intended to effect a modification and a transformation in the subjects who practice them", in the definition Wikipedia quotes from him. On the Stoic account, the inner citadel is the mind's own ground: the place of judgment, which external things cannot force.
 
 The word citadel does not appear in the Casaubon translation of the Meditations, the edition used here, but the book circles the idea. Marcus tells himself that the retreat people seek in the country or by the sea is available anywhere, at any hour (Book 4.3):
 

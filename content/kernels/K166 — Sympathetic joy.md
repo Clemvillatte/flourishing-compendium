@@ -26,7 +26,7 @@ The practice is the Buddhist brahmavihāra of muditā, defined as "sympathetic j
 
 ### A guided version
 
-Not applicable: the practice is a sentence said to oneself on seeing another's success, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a sentence said to oneself on seeing another's success, not a recording.
 
 ## Operationalises
 

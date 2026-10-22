@@ -27,7 +27,7 @@ The preface's instruction list opens with "Love the earth and sun and the animal
 
 ## Sources
 
-- Whitman's own claim (inherited seed citation)
+- Whitman's own claim
 
 - [Whitman, Preface to the 1855 first edition of Leaves of Grass (Internet Archive)](https://archive.org/details/LeavesOfGrass1855Edition) — the "very flesh shall be a great poem" passage verified verbatim from the scan's text
 - [Whitman, Leaves of Grass (Project Gutenberg)](https://www.gutenberg.org/files/1322/1322-0.txt) — "Song of Myself" §21 and "I Sing the Body Electric" §§1, 8 verified verbatim

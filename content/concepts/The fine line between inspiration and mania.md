@@ -7,7 +7,7 @@ file: "The fine line between inspiration and mania"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The fine line between inspiration and mania is the difference between being animated by what is real and being carried off by the intoxication of possibility. The phrase is the compendium's own heading; the seed names Kierkegaard's Either/Or, whose aesthete lives exactly on this line.
+The fine line between inspiration and mania is the difference between being animated by what is real and being carried off by the intoxication of possibility. The phrase is the compendium's own heading; the original entry names Kierkegaard's Either/Or, whose aesthete lives exactly on this line.
 
 ### Kierkegaard's line
 

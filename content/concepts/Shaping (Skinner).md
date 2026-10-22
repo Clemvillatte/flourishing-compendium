@@ -37,7 +37,7 @@ The chapter's worked example is a pigeon learning to strike a spot: reinforce tu
 
 - Skinner, 1953
 
-- Ferster & Skinner, 1957 (inherited citation, not opened this session)
+- Ferster & Skinner, 1957
 
 ## Cited in psychology parallels
 

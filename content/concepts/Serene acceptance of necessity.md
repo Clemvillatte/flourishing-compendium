@@ -7,7 +7,7 @@ file: "Serene acceptance of necessity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Serene acceptance of necessity is the Stoic discipline of wanting what happens rather than demanding that what happens match one's wishes. Its seed text is chapter 8 of Epictetus's Enchiridion; the seed notes an echo in Spinoza's Ethics Part Five.
+Serene acceptance of necessity is the Stoic discipline of wanting what happens rather than demanding that what happens match one's wishes. Its seed text is chapter 8 of Epictetus's Enchiridion; the original entry notes an echo in Spinoza's Ethics Part Five.
 
 > "Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well" (Epictetus, Enchiridion 8, [MIT Classics](https://classics.mit.edu/Epictetus/epicench.html)).
 
@@ -17,7 +17,7 @@ The training is not resignation to everything but a sorting of what is up to us 
 
 ### The Spinoza echo
 
-The seed's second source offers a comparison in the emotions' terms. Spinoza's Ethics, Part V: "The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary" ([Ethics V, Prop. VI, Elwes trans., Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html)). Understanding necessity, on this account, goes with greater power over the emotions.
+The original entry's second source offers a comparison in the emotions' terms. Spinoza's Ethics, Part V: "The mind has greater power over the emotions and is less subject thereto, in so far as it understands all things as necessary" ([Ethics V, Prop. VI, Elwes trans., Gutenberg](https://www.gutenberg.org/cache/epub/975/pg975-images.html)). Understanding necessity, on this account, goes with greater power over the emotions.
 
 ## Sources
 

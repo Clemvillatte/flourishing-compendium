@@ -8,7 +8,7 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-Gratitude is the felt recognition of a benefit received: attention to what was given, by whom, and the impulse to acknowledge or return it. The classical anchors carried in the seed are Seneca's On Benefits, the sustained ancient meditation on giving, receiving and returning, and Aristotle's Nicomachean Ethics VIII.14, where benefits between unequals call for a proportional answering affection. The psychological study of gratitude begins from the same observation: it is an emotion about a source.
+Gratitude is the felt recognition of a benefit received: attention to what was given, by whom, and the impulse to acknowledge or return it. The classical anchors carried in the original entry are Seneca's On Benefits, the sustained ancient meditation on giving, receiving and returning, and Aristotle's Nicomachean Ethics VIII.14, where benefits between unequals call for a proportional answering affection. The psychological study of gratitude begins from the same observation: it is an emotion about a source.
 
 ### The attention theory
 
@@ -47,7 +47,7 @@ The wiki's practices split along the same lines: attention practices (S084, AF06
 - [Algoe, "Find, Remind, and Bind," 2012](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2012.00439.x) — the relationship theory
 - [Algoe, Gable and Maisel, "It's the little things," 2010](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6811.2010.01273.x) — gratitude versus indebtedness in couples
 - [Wood, Froh and Geraghty, "Gratitude and well-being," 2010 (review)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3010965/) — the theoretical integration
-- Carried from the seed: Aristotle, Nicomachean Ethics VIII.14; Seneca, On Benefits; Cicero, De Natura Deorum; Spinoza; Cozzolino, 2006; Seligman et al., 2005; Wood et al., 2010
+- Carried from the original entry: Aristotle, Nicomachean Ethics VIII.14; Seneca, On Benefits; Cicero, De Natura Deorum; Spinoza; Cozzolino, 2006; Seligman et al., 2005; Wood et al., 2010
 
 ## Cited in principles
 

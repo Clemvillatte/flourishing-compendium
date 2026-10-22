@@ -18,7 +18,7 @@ For Levinas, ethics comes before the theories we build to explain things. In Tot
 
 ### The face
 
-Of the other person who stands before me he writes: "The true essence of man is presented in his face, in which he is infinitely other than a violence like unto mine, opposed to mine and hostile ... He arrests and paralyzes my violence by his call, which does not do violence, and comes from on high" (Levinas, 1969, pp. 290-91, quoted in the same article). The face is therefore a claim made on me before I choose to give it a place in my plans.
+Of the other person who stands before me he writes: "The true essence of man is presented in his face, in which he is infinitely other than a violence like unto mine, opposed to mine and hostile... He arrests and paralyzes my violence by his call, which does not do violence, and comes from on high" (Levinas, 1969, pp. 290-91, quoted in the same article). The face is therefore a claim made on me before I choose to give it a place in my plans.
 
 I read these lines in a scholarly article that quotes Levinas, not in the book itself. The phrase "Thou shalt not kill" is not in the text I opened, so this page does not quote it.
 

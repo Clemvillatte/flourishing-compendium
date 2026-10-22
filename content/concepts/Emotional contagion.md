@@ -28,7 +28,7 @@ A point of dispute is whether mimicry and contagion are the same thing. Hess and
 
 That study followed 4,739 people in the Framingham Heart Study from 1983 to 2003. Its authors report that "longitudinal statistical models suggest that clusters of happiness result from the spread of happiness and not just a tendency for people to associate with similar individuals". A friend within a mile who becomes happy raised the probability of being happy by 25% (95% confidence interval 1% to 57%), and the effect decays with time and with geographical separation. The wide interval is worth noticing.
 
-The 2007 paper cited in the seed reports that in 12,067 people, a person's chance of becoming obese rose by 57% (95% CI 6 to 123) if a friend became obese in a given interval. ([Christakis & Fowler 2007, New England Journal of Medicine 357:370-379](https://pubmed.ncbi.nlm.nih.gov/17652652/)) This is about body weight, so it supports the seed's word "behavior" at most indirectly and says nothing about mood.
+The 2007 paper cited in the original entry reports that in 12,067 people, a person's chance of becoming obese rose by 57% (95% CI 6 to 123) if a friend became obese in a given interval. ([Christakis & Fowler 2007, New England Journal of Medicine 357:370-379](https://pubmed.ncbi.nlm.nih.gov/17652652/)) This is about body weight, so it supports the original entry's word "behavior" at most indirectly and says nothing about mood.
 
 ### What the sources do not show
 

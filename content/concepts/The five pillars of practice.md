@@ -28,7 +28,7 @@ Johnston's rendering gives each condition a word: duration ("followed long"), co
 
 ## Sources
 
-- the series' Book I, YS 1.14's three conditions, expanded here by the tradition (inherited seed citation)
+- the series' Book I, YS 1.14's three conditions, expanded here by the tradition
 
 - [Patanjali, Yoga Sutras, Book I, Charles Johnston translation (Sacred Texts Archive)](https://sacred-texts.com/hin/ysp/ysp02.htm) — sutra I.14
 - [Wikipedia, "Yoga Sutras of Patanjali"](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali) — the abhyasa/vairagya pairing for YS 1.12-15

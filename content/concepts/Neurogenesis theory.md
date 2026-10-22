@@ -17,7 +17,7 @@ The theory's status in humans is contested. A 2018 study that directly counted y
 
 > "We conclude that recruitment of young neurons to the primate hippocampus decreases rapidly during the first years of life, and that neurogenesis in the dentate gyrus does not continue, or is extremely rare, in adult humans." (Sorrells et al. 2018, [abstract](https://pubmed.ncbi.nlm.nih.gov/29513649/))
 
-The same abstract records what had made the idea attractive: in mammals the process "has been linked to learning and memory, stress and exercise". That link is why the debate matters for mood and learning, and why the seed line names learning and mood regulation.
+The same abstract records what had made the idea attractive: in mammals the process "has been linked to learning and memory, stress and exercise". That link is why the debate matters for mood and learning, and why the original entry line names learning and mood regulation.
 
 ### In the compendium
 

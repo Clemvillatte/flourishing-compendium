@@ -23,7 +23,7 @@ A risk-governance chapter quotes Kahan (2016): under directional goals people "u
 
 ### Limits
 
-Wikipedia flags that whether citizens are "more likely to be rational or rationalizing has not been determined" in political decisions ([Wikipedia](https://en.wikipedia.org/wiki/Motivated_reasoning)). I did not open Kahan (2013) or Nickerson (1998) directly; the seed cites them, so treat claims attributed to them here as unverified.
+Wikipedia flags that whether citizens are "more likely to be rational or rationalizing has not been determined" in political decisions ([Wikipedia](https://en.wikipedia.org/wiki/Motivated_reasoning)). I did not open Kahan (2013) or Nickerson (1998) directly; the original entry cites them, so treat claims attributed to them here as unverified.
 
 ## Facets
 
@@ -48,7 +48,7 @@ Wikipedia flags that whether citizens are "more likely to be rational or rationa
 - [Motivated Reasoning (Springer Nature reference entry)](https://link.springer.com/rwe/10.1007/978-3-032-06918-4_134-1?error=cookies_not_supported&code=308576ee-aeea-49bf-9b5b-c1b7aaad218b)
 - [Summary of Kunda 1990 (Studysmart)](https://www.studysmart.ai/en/summaries/the-case-for-motivated-reasoning-kunda-kunda/)
 - [Motivated reasoning (Wikipedia)](https://en.wikipedia.org/wiki/Motivated_reasoning)
-- Kahan, 2013 and Nickerson, 1998: seed references, not opened directly.
+- Kahan, 2013 and Nickerson, 1998: original references
 
 ## Cited in psychology parallels
 

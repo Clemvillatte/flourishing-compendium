@@ -43,4 +43,3 @@ A woman knows she tends to bite back when her brother mentions money. Before the
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.35-2.39, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
 - Gollwitzer, P. M. (1999), Implementation Intentions: Strong Effects of Simple Plans, American Psychologist 54(7), 493-503 ([full text, prospectivepsych.org](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf); the quoted line is from the introduction).
-- The inherited Epictetus and Rumi parallels were not opened and no claim here rests on them.

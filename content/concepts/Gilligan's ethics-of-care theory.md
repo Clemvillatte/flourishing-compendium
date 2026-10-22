@@ -37,7 +37,7 @@ A recent paper on Cambridge Core notes that the "dualistic framing of care versu
 - [Griffin, A First Look at Communication Theory, "Different Voice" (PDF)](https://www.afirstlook.com/docs/diffvoice.pdf)
 - [Gilligan and complexity: reinterpreting the "ethic of care" (University of the Free State PDF)](https://scholar.ufs.ac.za/server/api/core/bitstreams/536b529b-21e1-4633-a0ff-06cb314600cd/content)
 - [The Abstract Other: Exploring the Care Ethical Potential of Contextualized Abstraction (Cambridge Core PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5AE774301EE8D7DEF46CD0358FA96914/S0887536725100329a.pdf/abstract_other_exploring_the_care_ethical_potential_of_contextualized_abstraction.pdf)
-- Gilligan, In a Different Voice (1982), cited in the sources above and not opened directly
+- Gilligan, In a Different Voice (1982), cited in the sources above at second hand
 
 ## Field
 

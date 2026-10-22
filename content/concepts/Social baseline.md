@@ -7,7 +7,7 @@ file: "Social baseline"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Social baseline theory (SBT) holds that the human brain treats the company of other people as its default condition, so being with trusted others costs less effort than managing alone. The 2011 statement of the theory is by Lane Beckes and James A. Coan (the seed credits Coan, 2011). It starts from economy of action, the principle that "all organisms must take in more energy than they expend".
+Social baseline theory (SBT) holds that the human brain treats the company of other people as its default condition, so being with trusted others costs less effort than managing alone. The 2011 statement of the theory is by Lane Beckes and James A. Coan (the original entry credits Coan, 2011). It starts from economy of action, the principle that "all organisms must take in more energy than they expend".
 
 ### What the theory claims
 

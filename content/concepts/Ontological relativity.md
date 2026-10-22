@@ -28,7 +28,7 @@ The doctrine says that some sentences can be translated in more than one way, wh
 ## Sources
 
 - [Hylton, Peter and Gary Kemp, "Willard Van Orman Quine", Stanford Encyclopedia of Philosophy, §6.2](https://plato.stanford.edu/entries/quine/) — indeterminacy of reference, the three names for one doctrine, the rabbit example, all objects as theoretical.
-- Quine, Ontological Relativity and Other Essays (seed citation; doctrines summarized via the SEP article above).
+- Quine, Ontological Relativity and Other Essays (original citation; doctrines summarized via the SEP article above).
 
 ## Cited in philosophy parallels
 

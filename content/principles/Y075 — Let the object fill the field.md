@@ -41,4 +41,3 @@ A cellist plays a slow passage and afterwards cannot say what she was thinking. 
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 3.3 and 3.4 with Vyasa and the Tika, pp. 204-205, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited Psychology and Philosophy parallels on this page were not opened and no claim here rests on them.

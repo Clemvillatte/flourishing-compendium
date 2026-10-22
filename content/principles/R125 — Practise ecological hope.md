@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 387** — Practise ecological hope
 
-Solnit writes in Hope in the Dark: "Hope just means another world might be possible, not promised, not guaranteed" ([Bookmate excerpt](https://bookmate.com/books/YfQd7YsJ/quotes)). Elsewhere she says "Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency" ([Goodreads](https://www.goodreads.com/quotes/219323-hope-is-not-a-lottery-ticket-you-can-sit-on)). Both quotes support the seed's "hope as practice". Macy and Brown (2014) and Orr (2011) were not opened.
+Solnit writes in Hope in the Dark: "Hope just means another world might be possible, not promised, not guaranteed" ([Bookmate excerpt](https://bookmate.com/books/YfQd7YsJ/quotes)). Elsewhere she says "Hope is not a lottery ticket you can sit on the sofa and clutch, feeling lucky. It is an axe you break down doors with in an emergency" ([Goodreads](https://www.goodreads.com/quotes/219323-hope-is-not-a-lottery-ticket-you-can-sit-on)). Both quotes support the original entry's "hope as practice". Macy and Brown (2014) and Orr (2011) were not opened.
 
 The tree-planting line is not a source-backed quotation here. Quote Investigator traces the closest early match to an 1866 sermon by Hyacinthe Loyson and a London paper in 1868 that called it an "Indian proverb" ([Quote Investigator](https://quoteinvestigator.com/page/91/?ref=hackernoon.com)). Cicero has the poet Caecilius Statius planting trees that will be of use to another age ([Forest Nation](https://forestnation.com/blog/this-quote-says-all/)).
 

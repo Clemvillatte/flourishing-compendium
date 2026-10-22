@@ -27,7 +27,7 @@ Coincidentia oppositorum is the coincidence of opposites, the doctrine Nicholas 
 ## Sources
 
 - [Priest G, Berto F, Weber Z. Dialetheism. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dialetheism/) — the Cusa passage with the Heron 1954 I.4 citation, opened for this page.
-- Nicholas of Cusa, De Docta Ignorantia — book citation carried from the seed; not independently opened this session.
+- Nicholas of Cusa, De Docta Ignorantia — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

@@ -7,7 +7,7 @@ file: "Moral obligation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Moral obligation is the sense that one must act, whatever one feels. The seed cites Batson (2011) on obligation and empathy. In the sources I opened, Batson does not use the phrase as a heading; his nearest category is principlism, "motivation with the ultimate goal of upholding some moral principle—for example, a principle of fairness or justice, or the utilitarian principle of greatest good for the greatest number" (Batson 2011, p. 220, quoted in the [Stanford Encyclopedia, Empirical Approaches to Altruism](https://plato.stanford.edu/archives/fall2021/entries/altruism-empirical/index.html)).
+Moral obligation is the sense that one must act, whatever one feels. The original entry cites Batson (2011) on obligation and empathy. In the sources I opened, Batson does not use the phrase as a heading; his nearest category is principlism, "motivation with the ultimate goal of upholding some moral principle—for example, a principle of fairness or justice, or the utilitarian principle of greatest good for the greatest number" (Batson 2011, p. 220, quoted in the [Stanford Encyclopedia, Empirical Approaches to Altruism](https://plato.stanford.edu/archives/fall2021/entries/altruism-empirical/index.html)).
 
 ### Batson on empathy versus principle
 

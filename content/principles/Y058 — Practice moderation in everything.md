@@ -16,7 +16,7 @@ Krishna's rule about moderation comes in the sixth chapter of the Gita, just bef
 
 ### What the passage covers
 
-The text names four areas: eating, resting, sport and what Arnold renders as being "measured in wish and act", plus a regular sleeping and waking rhythm. It treats the extreme in both directions as a fault, whether excess (feasting, idle sleep) or deprivation (fasting, vigils). The next lines connect the settled life to a steady mind: "When the man, so living, centres on his soul the thought straitly restrained ... then is he Yukta" (ch. 6, Arnold).
+The text names four areas: eating, resting, sport and what Arnold renders as being "measured in wish and act", plus a regular sleeping and waking rhythm. It treats the extreme in both directions as a fault, whether excess (feasting, idle sleep) or deprivation (fasting, vigils). The next lines connect the settled life to a steady mind: "When the man, so living, centres on his soul the thought straitly restrained... then is he Yukta" (ch. 6, Arnold).
 
 ### What is added
 

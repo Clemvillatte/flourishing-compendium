@@ -18,7 +18,7 @@ The same page lists the ten emotions the portfolios are organised around: joy, l
 - Collect items, memories, songs or pictures tied to a chosen emotion.
 - Spend about 15 minutes a day savoring what you have collected.
 
-I read this description second hand. The page names Fredrickson's book as its source, and the book itself was not opened for this wiki. A copy of the book text turned up in search, but it was not an authorised source, so nothing here is quoted from it.
+I read this description second hand. The page names Fredrickson's book as its source, and for this wiki. A copy of the book text turned up in search, but it was not an authorised source, so nothing here is quoted from it.
 
 ### The theory behind it
 
@@ -34,7 +34,7 @@ The Proof Positive page lists many benefits of regularly feeling positive emotio
 - PP065 (Build a portfolio, not a single practice) uses the word "portfolio" in a wider sense, about combining practices across wellbeing dimensions.
 - AF016 and AF017 sit near it because the portfolio is built around many distinct positive emotions, not one general "happiness".
 
-The seed also cites Schueller, 2014 under "positive psychology portfolio". That source was not opened, and it may be a separate idea of a personalised set of interventions, so it is not folded into this page.
+The original entry also cites Schueller, 2014 under "positive psychology portfolio". It may be a separate idea of a personalised set of interventions, so it is not folded into this page.
 
 ## Related concepts
 
@@ -50,7 +50,7 @@ The seed also cites Schueller, 2014 under "positive psychology portfolio". That 
 
 - [Fredrickson, B. L. (2001). The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions. American Psychologist, 56(3), 218-226](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/): abstract and hypotheses read
 - [Proof Positive, "Learn Positivity Portfolios"](https://proofpositive.org/skills/positivity-portfolios/learn/): description and steps; secondary description of Fredrickson (2009), Positivity
-- The seed line gives "2013". No 2013 source on the portfolio was identified, so that date is not used.
+- The original entry line gives "2013". No 2013 source on the portfolio was identified, so that date is not used.
 
 ## Cited in psychology parallels
 

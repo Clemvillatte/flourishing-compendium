@@ -31,5 +31,5 @@ The formulation in Gaudium et Spes 26 is structural, not aggregative: "the commo
 - **[[Communitarianism|Communitarianism]]** (MacIntyre, After Virtue)
 
 ## Sources
-- Aristotle, Politics I.1 and III.9, tr. Benjamin Jowett — opened and verified verbatim: https://classics.mit.edu/Aristotle/politics.1.one.html ; https://classics.mit.edu/Aristotle/politics.3.three.html
-- Vatican II, Gaudium et Spes 26 — official English text, opened and verified verbatim: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
+- Aristotle, Politics I.1 and III.9, tr. Benjamin Jowett — verified verbatim: https://classics.mit.edu/Aristotle/politics.1.one.html; https://classics.mit.edu/Aristotle/politics.3.three.html
+- Vatican II, Gaudium et Spes 26 — official English text, verified verbatim: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Finitude” — Heidegger, Kant and the Problem of Metaphysics.
 
-Finitude is the condition of being limited: in time, in the possibilities open to us, and in how we can know things. The seed cites Heidegger's Kant and the Problem of Metaphysics (1929). That book was not available to open for this page, so the account below rests on the Stanford Encyclopedia of Philosophy's reading of Heidegger on finitude, mostly from Being and Time, and the Kant-book connection stays unverified here.
+Finitude is the condition of being limited: in time, in the possibilities open to us, and in how we can know things. The original entry cites Heidegger's Kant and the Problem of Metaphysics (1929). That book was not available to open for this page, so the account below rests on the Stanford Encyclopedia of Philosophy's reading of Heidegger on finitude, mostly from Being and Time, and the Kant-book connection stays unverified here.
 
 ### Finitude as a limit on possibilities
 
@@ -29,11 +29,11 @@ Besides death, the entry names "thrownness" into factical determinacy as a "fund
 
 ### Finitude in knowing
 
-An earlier version of the same encyclopedia entry says that, for Heidegger, human beings as Dasein are essentially finite, and that an infinite being would understand things directly, while we must understand them indirectly by "taking-as". ([Stanford Encyclopedia, earlier edition](https://plato.stanford.edu/archives/win2023/entries/heidegger/)) This is the closest the opened sources come to the Kantian theme of limits on knowledge that the seed's book title points to.
+An earlier version of the same encyclopedia entry says that, for Heidegger, human beings as Dasein are essentially finite, and that an infinite being would understand things directly, while we must understand them indirectly by "taking-as". ([Stanford Encyclopedia, earlier edition](https://plato.stanford.edu/archives/win2023/entries/heidegger/)) This is the closest the opened sources come to the Kantian theme of limits on knowledge that the original entry's book title points to.
 
 ### What this page does not show
 
-These are interpretations of Heidegger's philosophy by a commentator. They are not psychological findings, and the 1929 Kant book was not read. The seed also lists Jaspers (Philosophy), Heidegger (Being and Time) and James (The Varieties of Religious Experience) as sources; none of them were opened for this page.
+These are interpretations of Heidegger's philosophy by a commentator. They are not psychological findings, and the 1929 Kant book was not read. The original entry also lists Jaspers (Philosophy), Heidegger (Being and Time) and James (The Varieties of Religious Experience) as sources; none of them were opened for this page.
 
 ### In the compendium
 

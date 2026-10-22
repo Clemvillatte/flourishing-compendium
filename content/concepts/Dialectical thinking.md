@@ -33,7 +33,7 @@ Its three main concepts: "The theory of change asserts that the universe is unpr
 - Peng and Nisbett, 1999
 
 - Spencer-Rodgers et al., 2010
-- [Spencer-Rodgers, Boucher, Mori, Wang and Peng, "The Dialectical Self-Concept: Contradiction, Change, and Holism in East Asian Cultures" (Personality and Social Psychology Bulletin 35(1), 2009, PMC2811254)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/) — opened source for the definition, the three-concept passage and the findings sentence; Peng & Nisbett 1999 and Spencer-Rodgers et al. 2010 not opened, kept as inherited citations
+- [Spencer-Rodgers, Boucher, Mori, Wang and Peng, "The Dialectical Self-Concept: Contradiction, Change, and Holism in East Asian Cultures" (Personality and Social Psychology Bulletin 35(1), 2009, PMC2811254)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2811254/) — opened source for the definition, the three-concept passage and the findings sentence; Peng & Nisbett 1999 and Spencer-Rodgers et al. 2010 cited at second hand
 
 ## Cited in psychology parallels
 

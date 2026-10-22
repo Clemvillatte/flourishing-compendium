@@ -8,7 +8,7 @@ tags: ["psych/biophys", "psych/cognition", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Predictive processing is the framework in which mind and world are modeled as one loop of prediction and correction. Andy Clark's 2013 target article, the paper the seed names, states the claim in its abstract:
+Predictive processing is the framework in which mind and world are modeled as one loop of prediction and correction. Andy Clark's 2013 target article, the paper the original entry names, states the claim in its abstract:
 
 > "Brains, it has recently been argued, are essentially prediction machines. They are bundles of cells that support perception and action by constantly attempting to match incoming sensory inputs with top-down expectations or predictions. This is achieved using a hierarchical generative model that aims to minimize prediction error within a bidirectional cascade of cortical processing."
 > — [Clark 2013, "Whatever next? Predictive brains, situated agents, and the future of cognitive science", Behavioral and Brain Sciences 36(3):181-204 (PubMed record)](https://pubmed.ncbi.nlm.nih.gov/23663408/)

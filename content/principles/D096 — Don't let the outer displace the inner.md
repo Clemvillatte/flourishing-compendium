@@ -14,9 +14,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Daodejing 12 describes colours, music, flavours, the chase and sought-after rare objects as disturbing perception, mind or conduct. In Legge's verse:
 
-> "Colour's five hues from th' eyes their sight will take;
-> Music's five notes the ears as deaf can make;
-> The flavours five deprive the mouth of taste;
+> "Colour's five hues from th' eyes their sight will take
+> Music's five notes the ears as deaf can make
+> The flavours five deprive the mouth of taste
 > The chariot course, and the wild hunting waste
 > Make mad the mind; and objects rare and strange,
 > Sought for, men's conduct will to evil change." (Daodejing 12, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))

@@ -27,7 +27,7 @@ The toolkit chapter of the behavioural-economics literature summarises the mecha
 
 ### A guided version
 
-Not applicable: the audit is an inspection of one's own environment, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the audit is an inspection of one's own environment, not a recording.
 
 ## Operationalises
 

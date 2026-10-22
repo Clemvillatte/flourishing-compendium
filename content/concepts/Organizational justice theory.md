@@ -7,7 +7,7 @@ file: "Organizational justice theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Colquitt's 2001 validation study in the Journal of Applied Psychology tested how many kinds of fairness employees distinguish. Confirmatory factor analyses "supported a 4-factor structure to the measure, with distributive, procedural, interpersonal, and informational justice as distinct dimensions", a solution that "fit the data significantly better than a 2- or 3-factor solution using larger interactional or procedural dimensions" ([Colquitt, On the dimensionality of organizational justice, 2001, PubMed](https://pubmed.ncbi.nlm.nih.gov/11419799/)). The seed's four labels therefore need one change: Colquitt splits interactional justice into interpersonal and informational parts, so the four are distributive, procedural, interpersonal and informational.
+Colquitt's 2001 validation study in the Journal of Applied Psychology tested how many kinds of fairness employees distinguish. Confirmatory factor analyses "supported a 4-factor structure to the measure, with distributive, procedural, interpersonal, and informational justice as distinct dimensions", a solution that "fit the data significantly better than a 2- or 3-factor solution using larger interactional or procedural dimensions" ([Colquitt, On the dimensionality of organizational justice, 2001, PubMed](https://pubmed.ncbi.nlm.nih.gov/11419799/)). The original entry's four labels therefore need one change: Colquitt splits interactional justice into interpersonal and informational parts, so the four are distributive, procedural, interpersonal and informational.
 
 ### What each dimension covers
 
@@ -15,7 +15,7 @@ A Wiley review summarises employees' four evaluations as "just pay and outcomes,
 
 ### Outcomes
 
-Colquitt's abstract reports predictive validity "on important outcomes, including leader evaluation, rule compliance, commitment, and helping behavior". Commitment is named; trust is not in that abstract, so the seed's "trust" is not confirmed here (PubMed).
+Colquitt's abstract reports predictive validity "on important outcomes, including leader evaluation, rule compliance, commitment, and helping behavior". Commitment is named; trust is not in that abstract, so the original entry's "trust" is not confirmed here (PubMed).
 
 ### Limits and disagreement
 

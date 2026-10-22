@@ -29,7 +29,7 @@ Aristotle treats the companion term, pleasure, as something that arrives at the 
 
 > “And Pleasure perfects the Working. But Pleasure does not perfect it in the same way as the Faculty and Object of Perception do... Furthermore, Pleasure perfects the act of Working not in the way of an inherent state but as a supervening finish, such as is bloom in people at their prime.” (Aristotle, Nicomachean Ethics X.4, [Chase translation](https://www.gutenberg.org/files/8438/8438-h/8438-h.htm))
 
-Nietzsche, in the aphorism the seed names, makes the same move from sensation to affirmation, and adds a shareable direction. The New Year passage ties joy to what a person can say yes to, and the later aphorism names the social form of it, the capacity to join in another’s good fortune rather than only their losses:
+Nietzsche, in the aphorism the original entry names, makes the same move from sensation to affirmation, and adds a shareable direction. The New Year passage ties joy to what a person can say yes to, and the later aphorism names the social form of it, the capacity to join in another’s good fortune rather than only their losses:
 
 > “I want more and more to perceive the necessary characters in things as the beautiful:—I shall thus be one of those who beautify things. Amor fati: let that henceforth be my love! ... And all in all, to sum up: I wish to be at any time hereafter only a yea-sayer!” (Nietzsche, The Gay Science 276, [Common translation](https://americanliterature.com/author/friedrich-nietzsche/book/the-gay-science/book-fourth-sanctus-januarius))
 
@@ -44,7 +44,7 @@ Nietzsche, in the aphorism the seed names, makes the same move from sensation to
 - [[B101 — Rejoice in others' happiness (mudita as practice)]] and [[B118 — Cultivate gladness — joy is part of the path]] — the Buddhist trainable forms, sympathetic and path-bound
 - [[D021 — Reduce desires (guayu)]] — the Daoist pairing: thinned desire, simpler satisfactions
 - [[D180 — Delight in the ordinary]] — the everyday register the compendium gives its own page
-- [[K047 — Let all joy be traced to the wish for others' happiness]] — the story-side rule the seed’s kernel carries
+- [[K047 — Let all joy be traced to the wish for others' happiness]] — the story-side rule the original entry’s kernel carries
 
 - Aristotle
 - Nietzsche, The Gay Science

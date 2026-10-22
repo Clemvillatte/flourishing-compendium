@@ -44,8 +44,8 @@ BI054 "Learn body scan meditation: systematic body awareness" carries the practi
 - [Kabat-Zinn, "Mindfulness-Based Interventions in Context: Past, Present, and Future," Clinical Psychology: Science and Practice (2003)](https://onlinelibrary.wiley.com/doi/full/10.1093/clipsy.bpg016) — MBSR's 1979 origin and 8-week format
 - [Treves et al., "A meta-analysis of the effects of mindfulness meditation training on self-reported interoception," Scientific Reports 15 (2025), article 38889](https://doi.org/10.1038/s41598-025-22661-4) — 29 RCTs, g = 0.31 on self-reported interoception; objective measures weaker
 - [Gibson, "Mindfulness, Interoception, and the Body: A Contemporary Perspective," Frontiers in Psychology 10 (2019), article 2012](https://www.frontiersin.org/article/10.3389/fpsyg.2019.02012/full) — mixed objective evidence; awareness not automatically calming
-- Kabat-Zinn, 1982 — original seed citation
-- Kabat-Zinn, 1990 — original seed citation
+- Kabat-Zinn, 1982 — original original citation
+- Kabat-Zinn, 1990 — original original citation
 
 ## Cited in psychology parallels
 

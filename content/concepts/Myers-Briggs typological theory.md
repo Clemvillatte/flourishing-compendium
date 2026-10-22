@@ -25,7 +25,7 @@ Stein and Swan say the MBTI's dichotomy definitions "differ drastically from dim
 
 ### Using it in essays
 
-The seed note, popular despite weak psychometrics, matches the critical literature, but it leaves out the publisher-side findings above. Use the framework to discuss Jungian typology and the history of personality testing, not as evidence of fixed types.
+The original entry note, popular despite weak psychometrics, matches the critical literature, but it leaves out the publisher-side findings above. Use the framework to discuss Jungian typology and the history of personality testing, not as evidence of fixed types.
 ## Related concepts
 
 - [[Five-factor model of personality]] — the trait model Stein and Swan contrast with MBTI dichotomies

@@ -25,7 +25,7 @@ D135 (Teach without words) argues that the teaching which arrives through speech
 
 - [The 1961 Bobo doll paper, Journal of Abnormal and Social Psychology 63, 575-582, full text at Classics in the History of Psychology](http://psychclassics.yorku.ca/Bandura/bobo.htm) — the verbatim results passages
 - [Observational learning, Wikipedia](https://en.wikipedia.org/wiki/Observational_learning) — the definition sentence
-- Bandura, 1977 — the seed's citation
+- Bandura, 1977 — the original entry's citation
 
 ## Cited in psychology parallels
 

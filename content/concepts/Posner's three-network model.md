@@ -19,8 +19,8 @@ The original review's premises, as the 2012 update summarizes them, are that the
 ## Sources
 
 - [Petersen, Steven E. and Posner, Michael I., "The attention system of the human brain: 20 years after", Annual Review of Neuroscience 35, 2012, pp. 73-89, PubMed Central full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC3413263/) — the 2012 restatement of the three networks, the three original premises, and the newer frontoparietal and cingulo-opercular networks quoted above
-- Posner and Petersen, 1990, "The attention system of the human brain", Annual Review of Neuroscience 13 — the original article; not opened for this item (covered through the 2012 update's restatement)
-- Fan et al., 2002 — the Attention Network Test paper cited in the seed; not opened for this item
+- Posner and Petersen, 1990, "The attention system of the human brain", Annual Review of Neuroscience 13 — the original article for this item (covered through the 2012 update's restatement)
+- Fan et al., 2002 — the Attention Network Test paper cited in the original entry for this item
 
 ## Cited in psychology parallels
 

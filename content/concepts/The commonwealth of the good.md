@@ -7,7 +7,7 @@ file: "The commonwealth of the good"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The commonwealth of the good is the compendium's own heading for the ideal of a community held together by the highest good its members hold in common; the opened sources do not establish the phrase as either author's term. The seed names Augustine's City of God, and the Spinozism principles that link here carry a related idea in Spinoza's own words.
+The commonwealth of the good is the compendium's own heading for the ideal of a community held together by the highest good its members hold in common; the opened sources do not establish the phrase as either author's term. The original entry names Augustine's City of God, and the Spinozism principles that link here carry a related idea in Spinoza's own words.
 
 ### Augustine's two cities
 

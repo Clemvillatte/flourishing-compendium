@@ -20,7 +20,7 @@ The 2017 national framework describes the domain as "feeling strong and healthy 
 
 ### Scope
 
-The seven-domain wording above comes from Gee et al. and the 2017 framework, which postdate the 2004 framework the seed names, and I did not open the 2004 document itself. I found no source saying that rest or sleep belong to this domain. The domains are interconnected and not meant to be separate checklist items.
+The seven-domain wording above comes from Gee et al. and the 2017 framework, which postdate the 2004 framework the original entry names, and I did not open the 2004 document itself. I found no source saying that rest or sleep belong to this domain. The domains are interconnected and not meant to be separate checklist items.
 
 **Plain words**
 In this framework, caring for the body means feeling strong, healthy and able to take part in life, and it is tied to mind, family, community and Country.

@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Self psychology** — Kohut — development and therapy hinge on selfobject experiences: mirroring, idealisation and twinship.
 
-Self psychology is the psychoanalytic theory Heinz Kohut introduced in the mid-1970s as a further development of psychoanalysis, with a model of development and a model of therapy. It treats the self as the central part of the personality, built and kept stable through relationships with significant others. The sources below are secondary descriptions and one empirical study; Kohut's own books were not opened.
+Self psychology is the psychoanalytic theory Heinz Kohut introduced in the mid-1970s as a further development of psychoanalysis, with a model of development and a model of therapy. It treats the self as the central part of the personality, built and kept stable through relationships with significant others. The sources below are secondary descriptions and one empirical study; Kohut's own books are cited at second hand.
 
 ### The self and its selfobjects
 

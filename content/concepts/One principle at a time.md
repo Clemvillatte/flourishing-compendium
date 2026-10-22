@@ -30,7 +30,7 @@ Mindfulness of breathing is the object the sutta names. The compendium draws an 
 
 - [Anapanasati Sutta, MN 118 (trans. Thanissaro Bhikkhu), Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html) — the single object of mindfulness of breathing.
 - [Seneca, Moral Letters to Lucilius, Letter 2 (trans. R. M. Gummere), Wikisource](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2) — lingering among a limited number of master-thinkers; the often-moved plant.
-- Buddhist tradition (seed citation).
+- Buddhist tradition (original citation).
 - The Stoic use is documented in [[S135 — Practise one principle at a time]].
 
 ## Cited in philosophy parallels

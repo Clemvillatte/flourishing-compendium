@@ -26,7 +26,7 @@ The empirical ground is the consider-the-opposite strategy: "individuals who are
 
 ### A guided version
 
-Not applicable: the drill is an argument written for oneself, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the drill is an argument written for oneself, not a recording.
 
 ## Operationalises
 

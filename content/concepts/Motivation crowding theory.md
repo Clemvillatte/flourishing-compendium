@@ -17,9 +17,9 @@ A Frey summary for the Australian Productivity Commission says social psychologi
 
 Festré and Garrouste (2015) note that "the empirical relevance of motivation crowding out is a controversial issue in economics and psychology", partly because two literatures grew from "different theoretical traditions" ([Theory and evidence in psychology and economics, EconPapers](https://econpapers.repec.org/article/blajecsur/v_3a29_3ay_3a2015_3ai_3a2_3ap_3a339-356.htm)). A later review of altruistic crowding-out presents 13 behavioural economics models and concludes that the effect can be explained "in many (at least 13) different ways", so competing models remain open ([Review of behavioral economics models, Wiley](https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12606)).
 
-### Reading the seed note
+### Reading the original entry note
 
-The seed credits Frey and Deci. The sources show Frey and Jegen's economic theory and Deci and colleagues' meta-analysis, which I read only as summarised by Frey, so treat Deci's results as reported there. The seed phrase "activities once freely chosen" is not in the passages I opened. Say "interesting tasks" when quoting the meta-analysis summary.
+The original entry credits Frey and Deci. The sources show Frey and Jegen's economic theory and Deci and colleagues' meta-analysis, which I read only as summarised by Frey, so treat Deci's results as reported there. The original entry phrase "activities once freely chosen" is not in the passages I opened. Say "interesting tasks" when quoting the meta-analysis summary.
 ## Field
 
 Affect · Psychological science

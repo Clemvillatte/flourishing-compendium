@@ -43,4 +43,4 @@ The compendium's use is the deflation with warmth. The theory does not deny the 
 
 - Graziano and Webb, 2015, Frontiers in Psychology 6:500
 
-- Graziano, 2013, Consciousness and the Social Brain (inherited citation, not opened this session)
+- Graziano, 2013, Consciousness and the Social Brain

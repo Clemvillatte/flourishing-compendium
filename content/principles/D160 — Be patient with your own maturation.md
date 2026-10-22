@@ -14,8 +14,8 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Chapter 41 of the Daodejing is about what the Tao looks like from outside: the brightest way "seems light to lack", progress "seems drawing back", its even way "like a rugged track". Among the sentence-makers' images is the one this principle takes: "A vessel great, it is the slowest made."
 
-> A vessel great, it is the slowest made;
->   Loud is its sound, but never word it said;
+> A vessel great, it is the slowest made
+>   Loud is its sound, but never word it said
 >   A semblance great, the shadow of a shade.
 >
 > (Daodejing 41, Legge)

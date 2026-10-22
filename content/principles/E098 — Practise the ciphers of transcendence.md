@@ -16,7 +16,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 ([Stanford Encyclopedia of Philosophy, "Karl Jaspers"](https://plato.stanford.edu/entries/jaspers/), on Jaspers's Philosophy (1932). Quoted at second hand; the volumes themselves were not consulted.)
 
-The Encyclopedia says ciphers "might be encountered in nature, in art, in religious symbolism, or in metaphysical philosophy." Its key point is that they cannot be cashed in: "in alluding to transcendence, they also withhold transcendent knowledge from consciousness, and ... they can only act as indices of the impossibility of such knowledge." The fitting attitude is "foundering or failing (Scheitern)." Jaspers also treats religious figures as ciphers, "not as factual elements of deity, but as symbolic ciphers of human possibility."
+The Encyclopedia says ciphers "might be encountered in nature, in art, in religious symbolism, or in metaphysical philosophy." Its key point is that they cannot be cashed in: "in alluding to transcendence, they also withhold transcendent knowledge from consciousness, and... they can only act as indices of the impossibility of such knowledge." The fitting attitude is "foundering or failing (Scheitern)." Jaspers also treats religious figures as ciphers, "not as factual elements of deity, but as symbolic ciphers of human possibility."
 
 Love, suffering and the encounter with the other, named in the original entry, do not appear in the sources opened here.
 

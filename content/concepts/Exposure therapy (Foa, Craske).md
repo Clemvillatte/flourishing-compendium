@@ -53,7 +53,7 @@ Foa and McLean describe how emotional processing theory led to two protocols: pr
 
 - [Craske, M. G., Treanor, M., Conway, C. C., Zbozinek, T., & Vervliet, B. (2014). Maximizing exposure therapy: An inhibitory learning approach. Behaviour Research and Therapy, 58, 10-23](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/): full text read; also the [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24864005/)
 - [Foa, E. B., & McLean, C. P. (2016). The efficacy of exposure therapy for anxiety-related disorders and its underlying mechanisms: The case of OCD and PTSD. Annual Review of Clinical Psychology, 12, 1-28](https://pubmed.ncbi.nlm.nih.gov/26565122/): abstract only
-- The seed line also cites Foa et al., 2007. That work was not opened for this page, and no claim here depends on it.
+- The original entry line also cites Foa et al., 2007. That work was not opened for this page, and no claim here depends on it.
 
 ## Cited in psychology parallels
 

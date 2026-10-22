@@ -7,7 +7,7 @@ file: "Narrative redemption sequences"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Narrative redemption sequences are the story-shape in which a bad scene turns good. Dan McAdams and colleagues introduced the coding scheme in 2001: in a redemption sequence, "the bad is redeemed, salvaged, mitigated, or made better in light of the ensuing good," while a contamination sequence runs the other way, "the good is spoiled, ruined, contaminated, or undermined by what follows it" ([McAdams, Reynolds, Lewis, Patten and Bowman, PSPB 27 (2001), p. 474, quoted in the Sedikides and Wildschut handbook chapter](https://www.southampton.ac.uk/~crsi/Sedikides%20and%20Wildschut%202016.pdf)). The finding the seed names, predict well-being, is the programme's most robust result.
+Narrative redemption sequences are the story-shape in which a bad scene turns good. Dan McAdams and colleagues introduced the coding scheme in 2001: in a redemption sequence, "the bad is redeemed, salvaged, mitigated, or made better in light of the ensuing good," while a contamination sequence runs the other way, "the good is spoiled, ruined, contaminated, or undermined by what follows it" ([McAdams, Reynolds, Lewis, Patten and Bowman, PSPB 27 (2001), p. 474, quoted in the Sedikides and Wildschut handbook chapter](https://www.southampton.ac.uk/~crsi/Sedikides%20and%20Wildschut%202016.pdf)). The finding the original entry names, predict well-being, is the programme's most robust result.
 
 ### The evidence
 

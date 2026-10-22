@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
 
-Saṃsāra (Sanskrit, literally "wandering-on") is the beginningless cycle of birth, death, and rebirth driven by karma and ignorance. The seed's summary stands, and the early texts give it a sharper edge: samsara is a process, not a place. Thanissaro Bhikkhu: "Samsara literally means 'wandering-on.' Many people think of it as the Buddhist name for the place where we currently live — the place we leave when we go to nibbana. But in the early Buddhist texts, it's the answer, not to the question, 'Where are we?' but to the question, 'What are we doing?' Instead of a place, it's a process: the tendency to keep creating worlds and then moving into them." ([Thanissaro, "Samsara," 2002](https://accesstoinsight.org/lib/authors/thanissaro/samsara.html))
+Saṃsāra (Sanskrit, literally "wandering-on") is the beginningless cycle of birth, death, and rebirth driven by karma and ignorance. The original entry's summary stands, and the early texts give it a sharper edge: samsara is a process, not a place. Thanissaro Bhikkhu: "Samsara literally means 'wandering-on.' Many people think of it as the Buddhist name for the place where we currently live — the place we leave when we go to nibbana. But in the early Buddhist texts, it's the answer, not to the question, 'Where are we?' but to the question, 'What are we doing?' Instead of a place, it's a process: the tendency to keep creating worlds and then moving into them." ([Thanissaro, "Samsara," 2002](https://accesstoinsight.org/lib/authors/thanissaro/samsara.html))
 
 ### No discoverable beginning
 

@@ -16,7 +16,7 @@ The sutra is about restraint, not simply slow breathing. "When there is this [st
 
 ### What the practice looks like
 
-Sutra 2.50 describes it as "External or internal or suppressed in fluctuation and is regulated in place and time and number and is protracted and subtile" (Woods, p. 193). The commentary sets it out in terms of holding the breath after exhaling, after inhaling, or both, measured by "so many inspirations and expirations" (pp. 193-194). The principle's "make the long and subtle deliberate" matches "protracted and subtile", and "regulated in ... number" supports a fixed count.
+Sutra 2.50 describes it as "External or internal or suppressed in fluctuation and is regulated in place and time and number and is protracted and subtile" (Woods, p. 193). The commentary sets it out in terms of holding the breath after exhaling, after inhaling, or both, measured by "so many inspirations and expirations" (pp. 193-194). The principle's "make the long and subtle deliberate" matches "protracted and subtile", and "regulated in... number" supports a fixed count.
 
 ### What it is said to do
 

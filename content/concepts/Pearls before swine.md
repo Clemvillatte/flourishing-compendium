@@ -11,7 +11,7 @@ Pearls before swine is the image Jesus uses in the Sermon on the Mount for the r
 
 > "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you." (Matthew 7:6, [KJV, Wikisource](https://en.wikisource.org/wiki/Bible_(King_James)/Matthew))
 
-The seed inverts the warning into counsel about where to spend your best: not everything holy should be offered everywhere, because the offering can be trampled and the offerer torn. The saying is a rule of fit — of matching the fineness of the material to the capacity of the receiver — rather than a rule of contempt.
+The original entry inverts the warning into counsel about where to spend your best: not everything holy should be offered everywhere, because the offering can be trampled and the offerer torn. The saying is a rule of fit — of matching the fineness of the material to the capacity of the receiver — rather than a rule of contempt.
 
 ### In the compendium
 

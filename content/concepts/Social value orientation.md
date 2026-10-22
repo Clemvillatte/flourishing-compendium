@@ -23,7 +23,7 @@ A meta-analysis by Balliet, Parks and Joireman of 82 studies found a "significan
 
 ### In the compendium
 
-The principles listed (for example S030, BE056 and D117) concern acting for others and not stirring envy. The sources above show that SVO is a laboratory measure of allocation choices, and that it correlates modestly with cooperation in games. They do not show that SVO changes with practice or character development, and they do not test real-world kindness. The seed citation to Van Lange et al. (2007) was not opened for this revision. I did not locate the original Messick and McClintock (1968) paper, so the origin of the construct is not described here.
+The principles listed (for example S030, BE056 and D117) concern acting for others and not stirring envy. The sources above show that SVO is a laboratory measure of allocation choices, and that it correlates modestly with cooperation in games. They do not show that SVO changes with practice or character development, and they do not test real-world kindness. The origin of the construct (Messick and McClintock 1968) is not described here.
 
 ## Related concepts
 

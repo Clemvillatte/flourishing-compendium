@@ -26,7 +26,7 @@ The mechanism is egocentric anchoring: "the authors propose that people adopt ot
 
 ### A guided version
 
-Not applicable: the practice is writing another's view of oneself, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is writing another's view of oneself, not a recording.
 
 ## Operationalises
 

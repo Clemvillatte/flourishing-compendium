@@ -7,7 +7,7 @@ file: "Narcissism versus healthy self-regard"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Narcissism versus healthy self-regard is the distinction between self-worth that must be defended and self-worth that is settled. The seed names both anchors: Paulhus and Williams's 2002 paper, which fixed narcissism's place in the Dark Triad, and Kernis's 2003 work on optimal self-esteem, which showed that the difference between healthy and unhealthy high self-regard is not level but fragility.
+Narcissism versus healthy self-regard is the distinction between self-worth that must be defended and self-worth that is settled. The original entry names both anchors: Paulhus and Williams's 2002 paper, which fixed narcissism's place in the Dark Triad, and Kernis's 2003 work on optimal self-esteem, which showed that the difference between healthy and unhealthy high self-regard is not level but fragility.
 
 ### The fragility account
 

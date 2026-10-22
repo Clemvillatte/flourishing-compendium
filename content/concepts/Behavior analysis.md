@@ -41,7 +41,7 @@ P078 "Read action in its context: always" emphasises contextual judgement and na
 
 - [Skinner, Science and Human Behavior (1953), ch. V "Operant Behavior" and ch. VII "Operant Discrimination"](https://www.bfskinner.org/wp-content/uploads/2014/02/ScienceHumanBehavior.pdf) — the three-term contingency (p. 108), the operant (pp. 64-66), probability of response (p. 87), the selection analogy (p. 90)
 - [Graham, "Behaviorism," Stanford Encyclopedia of Philosophy (rev. 2023)](https://plato.stanford.edu/entries/behaviorism/) — psychological behaviorism's program, the Chomsky 1959 critique, qualia and representation objections, current status
-- Skinner — original seed citation
+- Skinner — original original citation
 
 ## Cited in psychology parallels
 

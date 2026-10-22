@@ -15,7 +15,7 @@ Clore and Byrne (1974), quoted on Wikipedia, state: "(a) a variety of social com
 
 ### The balance of rewards and costs
 
-The seed's "balance" corresponds to the Byrne and Rhamey (1965) law of attraction: attraction "toward a person is a positive linear function of the proportion of weighted positive reinforcements associated with him" over all weighted positive and negative reinforcements ([Reinforcement, Affect, and Interpersonal Attraction, J-STAGE](https://www.jstage.jst.go.jp/article/psysoc/18/3/18_1975.142/_pdf/-char/ja)). It is a ratio of reinforcements, not an accounting of relationship costs, which is the territory of social exchange theory. An A-level factsheet adds that, in the model, "praise, attention, or admiration" keep attraction going, which is the nearest to the seed's "simple attention" (the factsheet is a school resource, not a primary source).
+The original entry's "balance" corresponds to the Byrne and Rhamey (1965) law of attraction: attraction "toward a person is a positive linear function of the proportion of weighted positive reinforcements associated with him" over all weighted positive and negative reinforcements ([Reinforcement, Affect, and Interpersonal Attraction, J-STAGE](https://www.jstage.jst.go.jp/article/psysoc/18/3/18_1975.142/_pdf/-char/ja)). It is a ratio of reinforcements, not an accounting of relationship costs, which is the territory of social exchange theory. An A-level factsheet adds that, in the model, "praise, attention, or admiration" keep attraction going, which is the nearest to the original entry's "simple attention" (the factsheet is a school resource, not a primary source).
 
 ### Evidence and limits
 

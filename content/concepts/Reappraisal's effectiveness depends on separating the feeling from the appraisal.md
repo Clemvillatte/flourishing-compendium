@@ -7,7 +7,7 @@ file: "Reappraisal's effectiveness depends on separating the feeling from the ap
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-The concept says that reappraisal works by changing the appraisal, not by tampering with the feeling, so the person has to be able to tell the two apart. The seed sentence is "changing the appraisal changes the felt response (Gross & John, 2003; Webb et al., 2012)." Both papers were opened. They support the seed sentence, and the title's stronger claim, that effectiveness depends on separating feeling from appraisal, is tested by neither. The nearest evidence for that is labelled below.
+The concept says that reappraisal works by changing the appraisal, not by tampering with the feeling, so the person has to be able to tell the two apart. The original entry sentence is "changing the appraisal changes the felt response (Gross & John, 2003; Webb et al., 2012)." Both papers were opened. They support the original entry sentence, and the title's stronger claim, that effectiveness depends on separating feeling from appraisal, is tested by neither. The nearest evidence for that is labelled below.
 
 ### What reappraisal is
 

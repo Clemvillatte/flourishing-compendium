@@ -50,7 +50,7 @@ Freedom is the hub the family pages break into faces, and the principle tracks c
 - [[A053]] — the concept already mentions A053 in prose but lacks an actual reciprocal wikilink
 ## Sources
 
-- [SEP, Theories of Freedom](https://plato.stanford.edu/entries/freedom-variants/) — original seed citation
+- [SEP, Theories of Freedom](https://plato.stanford.edu/entries/freedom-variants/) — original original citation
 - [SEP, Positive and Negative Liberty](https://plato.stanford.edu/entries/liberty-positive-negative/) — Berlin's two questions (1969, pp. 121-22) and MacCallum's triadic analysis
 - [Epictetus, Enchiridion (Internet Classics Archive)](https://classics.mit.edu/Epictetus/epicench.html) — chapter 1: what is in our control
 - [IEP, Spinoza on Free Will and Freedom](https://iep.utm.edu/spinoza-free-will-determinism/) — Ethics I def. 7 and the activity reading of freedom

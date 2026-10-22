@@ -26,7 +26,7 @@ The practice is an instance of what Butler called the life review: "I conceive o
 
 ### A guided version
 
-Not applicable: the letter is itself the artefact; a recording would duplicate it. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the letter is itself the artefact; a recording would duplicate it.
 
 ## Operationalises
 

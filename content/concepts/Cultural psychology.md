@@ -49,7 +49,7 @@ Markus and Kitayama's contrast pairs that interdependent view with the independe
 
 - Shweder, 1991
 
-- [Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. Psychological Review, 98(2), 224-253 (full PDF)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf) — supports the definition, the two construals and all quoted passages (pp. 224-226); Shweder 1991 kept from the seed line, not opened this session
+- [Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. Psychological Review, 98(2), 224-253 (full PDF)](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Markus_Kitayama_1991_Culture_and_the_self.pdf) — supports the definition, the two construals and all quoted passages (pp. 224-226); Shweder 1991 kept from the original entry line
 
 ## Cited in psychology parallels
 

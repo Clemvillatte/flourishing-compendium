@@ -23,7 +23,7 @@ A critical paper in the Duke repository argues that "melioration is in fact defi
 
 ### Reading the addiction link
 
-The seed note says melioration "traps addiction". The 1991 abstract supports a narrower claim: that activities with an "addiction-like interaction between value and rate" invite overinvestment. Use that wording.
+The original entry note says melioration "traps addiction". The 1991 abstract supports a narrower claim: that activities with an "addiction-like interaction between value and rate" invite overinvestment. Use that wording.
 
 ## Related concepts
 

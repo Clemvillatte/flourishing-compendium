@@ -11,9 +11,9 @@ Psychological control, in the research the compendium cites, is a specific kind 
 
 > "In both cross-sectional and longitudinal analyses, psychological control, particularly as perceived by preadolescents and adolescents, is consistently predictive of youth internalized problems (depression) and, in some cases, externalized problems (delinquency). In contrast, behavioral control is related primarily to externalized problems." (Barber, 1996, [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.1996.tb01915.x))
 
-### A correction to the seed wording
+### A correction to the original entry wording
 
-The seed line says that controlling parenting predicts internalizing and externalizing problems. Barber's abstract is narrower: the link to internalized problems is consistent, the link to externalized problems appears only "in some cases," and behavioral control, relates mainly to externalized problems. So the two kinds of control should not be merged. The ERIC record summarises the same paper as "three studies that tested the measurement of psychological control and its associations with adolescent behavior problems" ([ERIC EJ545015](https://eric.ed.gov/?id=EJ545015)).
+The original entry line says that controlling parenting predicts internalizing and externalizing problems. Barber's abstract is narrower: the link to internalized problems is consistent, the link to externalized problems appears only "in some cases," and behavioral control, relates mainly to externalized problems. So the two kinds of control should not be merged. The ERIC record summarises the same paper as "three studies that tested the measurement of psychological control and its associations with adolescent behavior problems" ([ERIC EJ545015](https://eric.ed.gov/?id=EJ545015)).
 
 ### What the study can and cannot show
 

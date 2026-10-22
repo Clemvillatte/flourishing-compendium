@@ -29,7 +29,7 @@ At the Oklahoma camp, two groups of boys were first set against each other in co
 
 - Sherif, Muzafer, O. J. Harvey, B. Jack White, William R. Hood, and Carolyn W. Sherif. Intergroup Conflict and Cooperation: The Robbers Cave Experiment (1954/1961), ch. 8. [Chapter text](https://psychclassics.yorku.ca/Sherif/chap8.htm)
 - Sherif, Robbers Cave
-- Gaertner and Dovidio, 2000 (seed citation; the common-identity model extends this work)
+- Gaertner and Dovidio, 2000 (original citation; the common-identity model extends this work)
 
 ## Cited in psychology parallels
 

@@ -30,7 +30,7 @@ Nahua poets used jade, gold and quetzal feathers as images of what is rare and r
 
 ## Psychology parallels
 
-- **Goal conflict and well-being**, Emmons & King (1988) is cited in the original page; not opened in this pass and not used to support the claim above
+- **Goal conflict and well-being**, Emmons & King (1988) is cited in the original page in this pass and not used to support the claim above
 
 ## Philosophy parallels
 

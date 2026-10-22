@@ -44,7 +44,7 @@ Clary and colleagues put the core functionalist point this way: "people can and 
 - [A Need-based Theory of Persuasion (University of Hong Kong repository PDF)](https://hub.hku.hk/bitstream/10722/127187/1/Content.pdf?accept=1): comparison of the two taxonomies; matching hypothesis
 - [Current Research in Social Psychology, University of Iowa (PDF)](https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/5.21.pdf): the five functions most researchers use
 - [Clary et al., Journal of Personality and Social Psychology 74(6), 1998 (PDF)](https://users.nber.org/~rdehejia/!@$DRM/Lecture%2009/supplemental/Clary%20et%20al.pdf): the functionalist premise
-- Smith, Bruner and White, Opinions and Personality, 1956 (named in the sources above; not opened directly)
+- Smith, Bruner and White, Opinions and Personality, 1956 (named in the sources above)
 
 ## Field
 

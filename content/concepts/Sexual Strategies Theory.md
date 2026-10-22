@@ -53,4 +53,4 @@ Sociocultural · Psychological science
 ## Sources
 
 - [Buss & Schmitt, "Sexual strategies theory: an evolutionary perspective on human mating", Psychological Review 100(2), 204-232, 1993 (author abstract, PubMed 8483982)](https://pubmed.ncbi.nlm.nih.gov/8483982/) — the program statement and the adaptive-problems list
-- [Buss, "Sexual Strategies Theory" (1998 chapter, author-hosted PDF)](https://labs.la.utexas.edu/buss/files/2015/09/SST-1998.pdf) — the repertoire-of-strategies statements; extraction normalizes the PDF's broken "i n"/"a n" spacing, noted in the band ledger
+- [Buss, "Sexual Strategies Theory" (1998 chapter, author-hosted PDF)](https://labs.la.utexas.edu/buss/files/2015/09/SST-1998.pdf) — the repertoire-of-strategies statements; the PDF's broken "i n"/"a n" spacing is normalized in the quotations

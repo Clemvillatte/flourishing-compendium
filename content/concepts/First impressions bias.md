@@ -26,7 +26,7 @@ The research is about perception of others, not about the self or about sufferin
 
 ### Links to the Buddhist and Daoist pages
 
-The seed ties this concept to Right View, and D088 (the empty boat) is listed under it. Neither the Right View page nor the empty-boat parable is a source on first impressions. The compendium's own Right view page treats it as the first factor of the Eightfold Path, a different subject. Any claim that early Buddhist texts address first-impression bias would need its own source, which this page does not have, so none is made.
+The original entry ties this concept to Right View, and D088 (the empty boat) is listed under it. Neither the Right View page nor the empty-boat parable is a source on first impressions. The compendium's own Right view page treats it as the first factor of the Eightfold Path, a different subject. Any claim that early Buddhist texts address first-impression bias would need its own source, which this page does not have, so none is made.
 
 ## Related concepts
 
@@ -36,13 +36,13 @@ The seed ties this concept to Right View, and D088 (the empty boat) is listed un
 - [[Cognitive biases]] — the wider family
 - [[Fundamental attribution error]] — another bias in how we read other people
 - [[Beginner's mind]] — a contemplative counterpart that suspends early conclusions
-- [[Right view]] — the seed's comparison point; the connection is thematic, not supported by a source here
+- [[Right view]] — the original entry's comparison point; the connection is thematic, not supported by a source here
 
 ## Sources
 
 - [Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100-ms exposure to a face. Psychological Science, 17(7), 592-598](https://pubmed.ncbi.nlm.nih.gov/16866745/): abstract only
 - [Asch, S. E. (1946). Forming impressions of personality. Journal of Abnormal and Social Psychology, 41, 258-290](https://gwern.net/doc/psychology/personality/1946-asch.pdf): Experiment VI read in full text
-- The seed line gives "Buddhism, Right View" as its source. No source on first impressions was found there.
+- The original entry line gives "Buddhism, Right View" as its source. No source on first impressions was found there.
 
 [[D088 — Don't take offense personally (the empty boat)]]
 [[Y003 — Recognize misperception as the root error]]

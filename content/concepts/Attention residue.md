@@ -51,8 +51,8 @@ The lines below describe what the compendium's principles do with the concept; t
 ## Sources
 
 - [Sophie Leroy, "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks", Organizational Behavior and Human Decision Processes 109(2):168-181 (2009), abstract](https://econpapers.repec.org/article/eeejobhdp/v_3a109_3ay_3a2009_3ai_3a2_3ap_3a168-181.htm) — both quotations on this page
-- Leroy, 2009 (original citation kept from the seed)
-- Leroy & Glomb, 2018 (original citation kept from the seed; not opened this session)
+- Leroy, 2009 (original citation kept from the original entry)
+- Leroy & Glomb, 2018 (original citation kept from the original entry)
 
 ## Facets
 

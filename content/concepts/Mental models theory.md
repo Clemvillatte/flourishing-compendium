@@ -15,7 +15,7 @@ The article lists three. Each mental model "represents what is common to a disti
 
 ### Where errors come from
 
-The seed note says errors come from considering too few models. The sources give two causes. First, load: "the greater the number of models humans have to construct, the greater the likelihood that we will draw an incorrect conclusion" (PNAS profile). Second, the principle of truth, which has "an unexpected consequence: it leads... to systematic errors in deduction".
+The original entry note says errors come from considering too few models. The sources give two causes. First, load: "the greater the number of models humans have to construct, the greater the likelihood that we will draw an incorrect conclusion" (PNAS profile). Second, the principle of truth, which has "an unexpected consequence: it leads... to systematic errors in deduction".
 
 The best-known case is the illusory inference. In a card problem where only one of three assertions is true, with an ace in two of them, "nearly everyone" says an ace is possible, yet it is not, because two assertions would then be true ([Mental Models, CUMINCAD PDF](https://papers.cumincad.org/data/works/att/e5c4.content.pdf)). Experiments on a set of such problems "yielded only 15% correct responses, whereas a contrasting set of control problems... yielded 91% correct responses", and the fallacies "tend to be compelling and to elicit judgments of high confidence", so they work as "cognitive illusions" (PNAS article). Illusions "can be reduced by making what is false more salient" (CUMINCAD PDF). Three experiments corroborated them and "eliminated a number of alternative explanations" ([PubMed](https://pubmed.ncbi.nlm.nih.gov/10476604/)).
 

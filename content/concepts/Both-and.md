@@ -33,7 +33,7 @@ The passage James borrows from Bergson gives the both-and reading its shape:
 ## Sources
 
 - [Goodman R. William James. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/james/) — the A Pluralistic Universe summary and the Bergson-critique quote, opened for this page.
-- James W (1909). A Pluralistic Universe — book citation carried from the seed; not independently opened this session.
+- James W (1909). A Pluralistic Universe — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

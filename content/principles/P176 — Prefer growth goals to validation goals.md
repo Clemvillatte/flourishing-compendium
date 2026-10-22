@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 
 In extracts from Toward a Psychology of Being, Abraham Maslow draws a line between deficiency motivation and growth motivation. Of healthy people he writes ([Maslow, Toward a Psychology of Being, "Deficiency motivation and growth motivation (1955)"](https://www.panarchy.org/maslow/being.1955.html)):
 
-> So far as motivational status is concerned, healthy people have sufficiently gratified their basic needs for safety, belongingness, love, respect and self-esteem so that they are motivated primarily by trends to self-actualization ...
+> So far as motivational status is concerned, healthy people have sufficiently gratified their basic needs for safety, belongingness, love, respect and self-esteem so that they are motivated primarily by trends to self-actualization...
 
 (Abridged; the sentence continues with Maslow's definitions of self-actualization.)
 

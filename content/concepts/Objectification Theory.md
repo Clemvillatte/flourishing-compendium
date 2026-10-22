@@ -13,9 +13,9 @@ Fredrickson and Roberts (1997) offer the theory "as a framework for understandin
 
 The abstract says such accumulated experiences "may help account for an array of mental health risks that disproportionately affect women: unipolar depression, sexual dysfunction, and eating disorders" and that the theory "illuminates why changes in these mental health risks appear to occur in step with life-course changes in the female body".
 
-### Reading the seed note
+### Reading the original entry note
 
-The seed's "flow disruption" is a gloss: the abstract speaks of fewer opportunities for "peak motivational states", and I did not open the full text to check whether it uses the word flow. The abstract also uses "may" and "can", so the seed's "leads to" is stronger than the authors' hedged phrasing.
+The original entry's "flow disruption" is a gloss: the abstract speaks of fewer opportunities for "peak motivational states", and I did not open the full text to check whether it uses the word flow. The abstract also uses "may" and "can", so the original entry's "leads to" is stronger than the authors' hedged phrasing.
 
 ### Later research
 

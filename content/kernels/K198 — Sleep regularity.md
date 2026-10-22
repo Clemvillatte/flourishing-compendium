@@ -26,7 +26,7 @@ In the largest test to date, researchers "calculated Sleep Regularity Index (SRI
 
 ### A guided version
 
-Not applicable: the practice is a stable schedule, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a stable schedule, not a recording.
 
 ## Operationalises
 

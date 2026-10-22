@@ -24,7 +24,7 @@ A retired electrician starts teaching a neighbour's teenager basic wiring on Sat
 
 ## Sources
 
-- [McAdams & de St. Aubin (1992), A theory of generativity and its assessment, J. Pers. Soc. Psychol. 62(6), 1003-1015](https://scispace.com/papers/a-theory-of-generativity-and-its-assessment-through-self-2t8h9767og): abstract opened; full text not opened
+- [McAdams & de St. Aubin (1992), A theory of generativity and its assessment, J. Pers. Soc. Psychol. 62(6), 1003-1015](https://scispace.com/papers/a-theory-of-generativity-and-its-assessment-through-self-2t8h9767og): abstract opened; full text not consulted for quotations
 - [Failure to Meet Generative Self-Expectations is Linked to Poorer Cognitive-Affective Well-Being, J. Gerontol. B (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7328033/): abstract opened
 - [On the quality of adjustment to retirement: The longitudinal role of personality traits and generativity, J. Pers. 86(3), 435-449](https://pmc.ncbi.nlm.nih.gov/articles/PMC5690892/): abstract opened
 

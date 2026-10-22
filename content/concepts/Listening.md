@@ -7,7 +7,7 @@ file: "Listening"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-Listening, in the dialogical tradition, is the act by which another person becomes more than noise. The seed names Buber's I and Thou and Levinas's Totality and Infinity, and the tradition's clearest statements are Buber's, from The Knowledge of Man:
+Listening, in the dialogical tradition, is the act by which another person becomes more than noise. The original entry names Buber's I and Thou and Levinas's Totality and Infinity, and the tradition's clearest statements are Buber's, from The Knowledge of Man:
 
 > Genuine conversation, and therefore every actual fulfilment of relation between men, means acceptance of otherness.
 

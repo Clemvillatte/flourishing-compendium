@@ -32,4 +32,4 @@ The brake has an engine behind it. Asked what perfect virtue looks like, Confuci
 - **[[The categorical imperative|The categorical imperative]]** (Kant, Groundwork of the Metaphysics of Morals)- **[[Shu|Shu]]** (Relational traditions)
 
 ## Sources
-- Confucius, Analects 15.24, 12.2 and 6.30, tr. James Legge — full text, opened and verified verbatim: https://sacred-texts.com/cfu/conf1.htm
+- Confucius, Analects 15.24, 12.2 and 6.30, tr. James Legge — full text, verified verbatim: https://sacred-texts.com/cfu/conf1.htm

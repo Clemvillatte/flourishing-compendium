@@ -13,8 +13,8 @@ Shravana, manana, nididhyasana is the three-step method of Advaita Vedanta: hear
 
 The article lists the steps with their functions:
 
-- Sravana, hearing, in which the teacher explains the meaning of the scriptures to the pupil;
-- Manana, reflection, in which the pupil reflects repeatedly on the meaning of the scriptures through reasoning and discussion with the teacher;
+- Sravana, hearing, in which the teacher explains the meaning of the scriptures to the pupil
+- Manana, reflection, in which the pupil reflects repeatedly on the meaning of the scriptures through reasoning and discussion with the teacher
 - Nididhyasana, meditation. ([same article](https://en.wikipedia.org/wiki/Nididhy%C4%81sana))
 
 Nididhyasana itself is "profound and repeated meditation", in Advaita Vedanta meditation on Brahman and contemplation of the mahavakyas, the great Upanishadic statements such as "That art Thou", to realize the identity of Atman and Brahman. The same article records that in Dvaita Vedanta, Madhva describes nididhyasana as dhyana, continuous meditation, which follows sravana and manana and leads to direct realization.

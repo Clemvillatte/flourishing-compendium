@@ -20,7 +20,6 @@ Spinoza's proof is that images of things are modifications of our own body. If t
 
 This proposition does not say that we assign our own states to other people. It says that picturing a similar person in an emotion makes us feel a like emotion. Reading it as projection, with the warning that "your map of other people is mostly autobiography," is the entry's extension. The same mechanism does explain why a reading of someone else can be coloured by one's own state. Spinoza adds a limit: "If, however, we hate the said thing like ourselves, we shall, to that extent, be affected by a contrary, and not similar, emotion."
 
-The psychology parallel on egocentric projection (Holmes, 1968) and the Hume and Smith parallels were not opened.
 
 **Plain words** Spinoza says that when we picture someone like us feeling something, we start to feel something like it ourselves. That is why other people's moods can spread to us, and it also means our picture of their inner life is built partly from our own feelings.
 

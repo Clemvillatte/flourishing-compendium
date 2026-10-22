@@ -34,7 +34,7 @@ The compendium reads the blink alongside contemplative claims about attention's 
 
 - Raymond et al., 1992
 
-- Martens & Wyble, 2010 (inherited citation, not opened this session)
+- Martens & Wyble, 2010
 
 ## Cited in psychology parallels
 

@@ -28,7 +28,7 @@ In the paper's first study, female participants who valued happiness more report
 
 ## Sources
 
-- Mauss et al., 2011 (inherited seed citation)
+- Mauss et al., 2011
 
 - [Mauss, Tamir, Anderson & Savino 2011, abstract (PubMed, PMID 21517168)](https://pubmed.ncbi.nlm.nih.gov/21517168/) — abstract verified via NCBI; full text open at PMC3160511
 

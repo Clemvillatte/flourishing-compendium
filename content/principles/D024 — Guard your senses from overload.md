@@ -14,9 +14,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 In Legge's Daodejing 12, colors, music and flavors are described as impairing the senses, while racing and hunting madden the mind. The warning extends to rare objects: pursuing them can lead people into wrongdoing.
 
-> Colour's five hues from th' eyes their sight will take;
-> Music's five notes the ears as deaf can make;
-> The flavours five deprive the mouth of taste;
+> Colour's five hues from th' eyes their sight will take
+> Music's five notes the ears as deaf can make
+> The flavours five deprive the mouth of taste
 > The chariot course, and the wild hunting waste
 > Make mad the mind; and objects rare and strange,
 > Sought for, men's conduct will to evil change.

@@ -49,5 +49,5 @@ Who benefits when we tell sufferers their pain is training? How could this idea 
 -->
 
 ## Sources
-- Epictetus, Discourses, "How we should struggle with circumstances" (I.24), tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (the impediment passage is printed as Bk V §17 in that text)
+- Epictetus, Discourses, "How we should struggle with circumstances" (I.24), tr. George Long — verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (the impediment passage is printed as Bk V §17 in that text)

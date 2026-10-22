@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The relaxation response” — Benson, 1975.
 
-The relaxation response is Herbert Benson's name for the body's counterpart to the stress response, elicited by a simple mental practice. The seed cites 1975, which is the year of the popular book by Benson and Miriam Klipper. Benson, Beary and Carol had already published an article with the same title in Psychiatry in [1974](https://pubmed.ncbi.nlm.nih.gov/4810622/). The page rests on a PubMed record for that article (no abstract available), a PubMed abstract of a later study, and secondary descriptions of the book. The book itself was not opened.
+The relaxation response is Herbert Benson's name for the body's counterpart to the stress response, elicited by a simple mental practice. The original entry cites 1975, which is the year of the popular book by Benson and Miriam Klipper. Benson, Beary and Carol had already published an article with the same title in Psychiatry in [1974](https://pubmed.ncbi.nlm.nih.gov/4810622/). The page rests on a PubMed record for that article (no abstract available), a PubMed abstract of a later study, and secondary descriptions of the book. The book itself was not opened.
 
 ### What it is
 
@@ -21,7 +21,7 @@ A later study from Benson's group measured gene expression in blood before and a
 
 ### Limits
 
-The seed compresses a book and a research programme into a date. The compendium links the response to stillness and calm in Daoist and Buddhist principles; the sources opened here do not support equating Benson's technique with samatha or passaddhi, and the link is the compendium's own analogy. This page does not summarise clinical trials on blood pressure or sleep.
+The original entry compresses a book and a research programme into a date. The compendium links the response to stillness and calm in Daoist and Buddhist principles; the sources opened here do not support equating Benson's technique with samatha or passaddhi, and the link is the compendium's own analogy. This page does not summarise clinical trials on blood pressure or sleep.
 
 ### In the compendium
 

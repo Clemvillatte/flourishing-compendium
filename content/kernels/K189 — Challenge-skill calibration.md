@@ -27,7 +27,7 @@ The carrier is the primary text itself, verified in the owner's copy ([Csikszent
 
 ### A guided version
 
-Not applicable: calibration is an adjustment made inside a live activity, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: calibration is an adjustment made inside a live activity, not a recording.
 
 ## Operationalises
 

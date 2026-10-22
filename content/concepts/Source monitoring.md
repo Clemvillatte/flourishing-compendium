@@ -23,8 +23,8 @@ The process runs on two speeds. Heuristic judgements are fast and unconscious, u
 
 ## Sources
 
-- [Johnson, M. K., Hashtroudi, S. and Lindsay, D. S. (1993), "Source monitoring", Psychological Bulletin 114(1), 3-28 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/8346328/) — the framework sentences quoted verbatim; abstract opened this session
-- [Wikipedia, "Source-monitoring error"](https://en.wikipedia.org/wiki/Source-monitoring_error) — the attribution-by-decision-processes description, the error definition, the heuristic/systematic distinction (systematic judgements are "slow and require a lot of conscious effort"), and the disruption factors; raw HTML opened this session
+- [Johnson, M. K., Hashtroudi, S. and Lindsay, D. S. (1993), "Source monitoring", Psychological Bulletin 114(1), 3-28 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/8346328/) — the framework sentences quoted verbatim; abstract
+- [Wikipedia, "Source-monitoring error"](https://en.wikipedia.org/wiki/Source-monitoring_error) — the attribution-by-decision-processes description, the error definition, the heuristic/systematic distinction (systematic judgements are "slow and require a lot of conscious effort"), and the disruption factors; raw HTML
 
 ## Cited in psychology parallels
 

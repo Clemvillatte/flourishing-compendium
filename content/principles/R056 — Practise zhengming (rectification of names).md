@@ -40,4 +40,4 @@ One modern application is personal: "What the superior man requires is just that
 - **Language and reality** (Wittgenstein, Tractatus Logico-Philosophicus)
 
 ## Sources
-- Confucius, Analects 13.3, tr. James Legge — full text, opened and verified verbatim: https://sacred-texts.com/cfu/conf1.htm
+- Confucius, Analects 13.3, tr. James Legge — full text, verified verbatim: https://sacred-texts.com/cfu/conf1.htm

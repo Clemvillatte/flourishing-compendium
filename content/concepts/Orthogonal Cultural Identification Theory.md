@@ -49,6 +49,6 @@ Sociocultural · Psychological science
 ## Sources
 
 - [Oetting, E. R., & Beauvais, F. (1990). Orthogonal cultural identification theory: The cultural identification of minority adolescents. Int J Addict 25(5A-6A):655-85. Abstract, PubMed PMID 2101397](https://pubmed.ncbi.nlm.nih.gov/2101397/) — the orthogonal claim, the three study findings.
-- Oetting, Beauvais (seed citation, linked above).
+- Oetting, Beauvais (original citation, linked above).
 
 ## Cited in philosophy parallels

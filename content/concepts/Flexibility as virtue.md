@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Flexibility as virtue” — Nietzsche, The Gay Science.
 
-The seed gives no section number. Two aphorisms in The Gay Science (The Joyful Wisdom, 1882) fit the label. Neither uses the phrase "flexibility as virtue", and the label is the compendium's summary. The quotations come from the 1910 Thomas Common translation on Project Gutenberg.
+The original entry gives no section number. Two aphorisms in The Gay Science (The Joyful Wisdom, 1882) fit the label. Neither uses the phrase "flexibility as virtue", and the label is the compendium's summary. The quotations come from the 1910 Thomas Common translation on Project Gutenberg.
 
 ### Aphorism 159: every virtue has its time
 

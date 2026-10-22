@@ -7,7 +7,7 @@ file: "The unanswerable koan"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-"The unanswerable koan" is the compendium's heading, illustrated here by case 1 of the Gateless Gate, the thirteenth-century collection of Mumon. The seed names the Zen tradition and that collection.
+"The unanswerable koan" is the compendium's heading, illustrated here by case 1 of the Gateless Gate, the thirteenth-century collection of Mumon. The original entry names the Zen tradition and that collection.
 
 ### Joshu's dog
 

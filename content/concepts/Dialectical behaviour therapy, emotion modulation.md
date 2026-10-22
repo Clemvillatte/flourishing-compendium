@@ -41,7 +41,7 @@ DBT treats the problem as trainable rather than as weakness of will: "Emotion dy
 
 - Linehan, 1993
 
-- [Neacsiu, A. D., Bohus, M., & Linehan, M. M. (2015). "Dialectical Behavior Therapy skills: an intervention for emotion dysregulation", in Emotion in Personality and Psychopathology (chapter PDF)](https://www.psychopap.com/wp-content/uploads/2020/02/NecsiuBohusLinehan2013DialecticalBehaviorTherapyskills_Aninterventionforemotiondysregulation..pdf) — supports all quoted passages; Linehan 1993 kept from the seed line, not opened this session
+- [Neacsiu, A. D., Bohus, M., & Linehan, M. M. (2015). "Dialectical Behavior Therapy skills: an intervention for emotion dysregulation", in Emotion in Personality and Psychopathology (chapter PDF)](https://www.psychopap.com/wp-content/uploads/2020/02/NecsiuBohusLinehan2013DialecticalBehaviorTherapyskills_Aninterventionforemotiondysregulation..pdf) — supports all quoted passages; Linehan 1993 kept from the original entry line
 
 ## Cited in psychology parallels
 

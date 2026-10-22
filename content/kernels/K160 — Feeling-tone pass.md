@@ -26,7 +26,7 @@ The instruction descends from the second establishment of mindfulness in the Sat
 
 ### A guided version
 
-Not applicable: the pass is a moment of naming done in the course of a day, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the pass is a moment of naming done in the course of a day, not a recording.
 
 ## Operationalises
 

@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Gate control theory of pain** — Melzack, Wall — spinal gates regulated by descending signals and touch determine how much pain reaches the brain.
 
-Ronald Melzack and Patrick Wall published the theory as "Pain mechanisms: a new theory" in Science in 1965 ([PubMed 5320816](https://pubmed.ncbi.nlm.nih.gov/5320816/)). It remains historically central. The seed's summary is a fair outline of the idea, but the theory is not accepted as correct in its original form.
+Ronald Melzack and Patrick Wall published the theory as "Pain mechanisms: a new theory" in Science in 1965 ([PubMed 5320816](https://pubmed.ncbi.nlm.nih.gov/5320816/)). It remains historically central. The original entry's summary is a fair outline of the idea, but the theory is not accepted as correct in its original form.
 
 ### What the theory proposed
 
@@ -17,7 +17,7 @@ The neuroscientist Lorne Mendell describes the original aim: to provide a mechan
 
 > "It incorporated recently discovered mechanisms of presynaptic control of synaptic transmission from large and small sensory afferents, which was suggested to 'gate' incoming information depending on the balance between these inputs." (Mendell 2014, Pain 155:210-216, [PubMed 24334188](https://pubmed.ncbi.nlm.nih.gov/24334188/))
 
-Other features he lists are the convergence of small and large sensory inputs on spinal neurons that pass information to the forebrain, and "the ability of descending control pathways to affect the biasing established by the gate". These correspond to the seed's "touch" (large-fibre input) and "descending signals".
+Other features he lists are the convergence of small and large sensory inputs on spinal neurons that pass information to the forebrain, and "the ability of descending control pathways to affect the biasing established by the gate". These correspond to the original entry's "touch" (large-fibre input) and "descending signals".
 
 ### What has not held up
 

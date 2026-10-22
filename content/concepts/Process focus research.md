@@ -7,7 +7,7 @@ file: "Process focus research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Process focus research asks whether attending to the means of a goal, the steps and actions, works better than attending to its desired result. A 2025 Springer paper on academic engagement states the distinction in the terms of Freund and colleagues: outcome focus "centers on the desired result and answers 'why' questions (e.g., attaining high grades)," while process focus "emphasizes the means of reaching that result and answers 'how' questions" ([Springer, Outcome focus up against process focus in academic engagement](https://link.springer.com/article/10.1007/s10212-025-00995-x)). The seed cites Vallerand (2010) and Zimmerman (2000), which were not opened for this revision.
+Process focus research asks whether attending to the means of a goal, the steps and actions, works better than attending to its desired result. A 2025 Springer paper on academic engagement states the distinction in the terms of Freund and colleagues: outcome focus "centers on the desired result and answers 'why' questions (e.g., attaining high grades)," while process focus "emphasizes the means of reaching that result and answers 'how' questions" ([Springer, Outcome focus up against process focus in academic engagement](https://link.springer.com/article/10.1007/s10212-025-00995-x)). The original entry cites Vallerand (2010) and Zimmerman (2000), which were not opened for this revision.
 
 ### The founding experiment
 

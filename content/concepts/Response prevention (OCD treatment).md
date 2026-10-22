@@ -21,7 +21,7 @@ Foa and colleagues randomly assigned patients with contamination obsessions and 
 
 ### In the compendium
 
-The seed sentence says that blocking compulsions is essential for exposure to work. The trial above supports a milder reading: adding ritual prevention to exposure gave a better outcome than exposure alone, and exposure alone still produced improvement. It is also one trial in one symptom group. The seed citations (Foa et al., 2007; Abramowitz et al., 2019) were not opened for this revision, so they are kept as listed but not relied on here. The principles below that use the term, BE029 and BE071, apply it to compulsive behaviour in general. The source covers treatment of diagnosed OCD, not everyday habits.
+The original entry sentence says that blocking compulsions is essential for exposure to work. The trial above supports a milder reading: adding ritual prevention to exposure gave a better outcome than exposure alone, and exposure alone still produced improvement. It is also one trial in one symptom group. The original entry citations (Foa et al., 2007; Abramowitz et al., 2019) were not opened for this revision, so they are kept as listed but not relied on here. The principles below that use the term, BE029 and BE071, apply it to compulsive behaviour in general. The source covers treatment of diagnosed OCD, not everyday habits.
 
 ## Related concepts
 

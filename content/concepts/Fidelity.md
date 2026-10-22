@@ -35,8 +35,8 @@ The sources opened here support reading Marcel's fidelity as presence and openne
 ## Sources
 
 - [Stanford Encyclopedia of Philosophy, "Gabriel (-Honoré) Marcel" (Winter 2025), sections 9 and 12](https://plato.stanford.edu/archives/win2025/entries/marcel/): constancy versus presence, disponibilité, creative fidelity, hope
-- Marcel, Being and Having (the seed's primary source; not quoted directly here)
-- Further reading from the seed, not drawn on above: Levinas, Otherwise than Being
+- Marcel, Being and Having (the original entry's primary source; not quoted directly here)
+- Further reading from the original entry, not drawn on above: Levinas, Otherwise than Being
 
 ## Cited in philosophy parallels
 

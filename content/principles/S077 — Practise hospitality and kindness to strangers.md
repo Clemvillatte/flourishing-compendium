@@ -41,5 +41,5 @@ What does it mean to be a fellow citizen of someone you will never meet?
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (world-city passage printed as Bk VI §39; vine passage as Bk V §6; "doth not that suffice thee" as Bk IX §43)
-- Epictetus, Discourses, "How we may discover the duties of life from names", and Enchiridion 30, tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (world-city passage printed as Bk VI §39; vine passage as Bk V §6; "doth not that suffice thee" as Bk IX §43)
+- Epictetus, Discourses, "How we may discover the duties of life from names", and Enchiridion 30, tr. George Long — verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html

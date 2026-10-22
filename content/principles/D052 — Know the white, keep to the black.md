@@ -12,7 +12,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 52** — Know the white, keep to the black
 
-The principle comes from one of the three "knows ... yet" stanzas of Daodejing 28. Legge renders it:
+The principle comes from one of the three "knows... yet" stanzas of Daodejing 28. Legge renders it:
 
 > "Who knows how white attracts, / Yet always keeps himself within black's shade, / The pattern of humility displayed, / Displayed in view of all beneath the sky; / He in the unchanging excellence arrayed, / Endless return to man's first state has made." (DDJ 28, Legge trans., [Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 

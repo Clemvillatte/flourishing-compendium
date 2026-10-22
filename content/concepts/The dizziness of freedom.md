@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The dizziness of freedom is Søren Kierkegaard's image for anxiety, introduced in The Concept of Anxiety (1844) under the pseudonym Vigilius Haufniensis. Its point is a distinction: fear has a definite object, while anxiety is a response to possibility itself, to the open field of one's own choices.
 
-> "Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss . . . Hence, anxiety is the dizziness of freedom." (Kierkegaard, The Concept of Anxiety, 1844, quoted in [Marino, The Danish Doctor of Dread](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf), New York Times, 2012)
+> "Anxiety may be compared with dizziness. He whose eye happens to look down into the yawning abyss becomes dizzy. But what is the reason for this? It is just as much in his own eyes as in the abyss. . . Hence, anxiety is the dizziness of freedom." (Kierkegaard, The Concept of Anxiety, 1844, quoted in [Marino, The Danish Doctor of Dread](https://web.stanford.edu/~jsabol/existentialism/NYT_Kierkegaard.pdf), New York Times, 2012)
 
 ### What the image claims
 

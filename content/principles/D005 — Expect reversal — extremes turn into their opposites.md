@@ -15,7 +15,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 Chapter 40 of the Daodejing gives the rule as a property of the Dao itself:
 
 > "The movement of the Tao
-> By contraries proceeds;
+> By contraries proceeds
 > And weakness marks the course
 > Of Tao's mighty deeds." (Daodejing 40, [Legge](https://www.gutenberg.org/files/216/216-h/216-h.htm))
 

@@ -26,7 +26,7 @@ Foucault examines this relationship in ancient Greek and Roman sexual ethics, in
 
 ## Sources
 
-- Foucault, The History of Sexuality vol. 2 (inherited citation, not opened this session)
+- Foucault, The History of Sexuality vol. 2
 
 - [Gutting and Oksala, "Michel Foucault", Stanford Encyclopedia of Philosophy (2003, revised)](https://plato.stanford.edu/entries/foucault/) — the ancient ethics of self-formation; the entry's bibliography dates Le souci de soi (Care of the Self) to 1984, translated 1986, the third volume of the series
 

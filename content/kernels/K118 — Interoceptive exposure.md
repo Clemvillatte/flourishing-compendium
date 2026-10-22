@@ -26,7 +26,7 @@ The component-control meta-analysis of 72 studies with 4064 participants, review
 
 ### A guided version
 
-Not applicable as a recording: the exposure is the deliberate induction of sensations in the body, not a listening exercise. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable as a recording: the exposure is the deliberate induction of sensations in the body, not a listening exercise.
 
 ## Operationalises
 

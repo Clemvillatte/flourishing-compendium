@@ -18,7 +18,7 @@ The overall pooled effect of the interventions was 0.31 (95% CI 0.26 to 0.36, I-
 
 ### In the compendium
 
-BE011 (Recognise that behaviour is measurable — tracking improves outcomes) and S086 (Be honest with yourself) link here. The 2009 study covered physical activity and eating in adults. It did not test tracking for mood, habits or other goals, and the seed sources on those (Michie et al., 2011; Gardner, 2015; Lally et al., 2010; Park et al., 2014) were not opened for this page.
+BE011 (Recognise that behaviour is measurable — tracking improves outcomes) and S086 (Be honest with yourself) link here. The 2009 study covered physical activity and eating in adults. It did not test tracking for mood, habits or other goals, and the original entry sources on those (Michie et al., 2011; Gardner, 2015; Lally et al., 2010; Park et al., 2014) were not opened for this page.
 
 ## Facets
 

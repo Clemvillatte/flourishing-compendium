@@ -27,7 +27,7 @@ The evidence for exposure and response prevention in OCD is strong: in the rando
 
 ### A guided version
 
-Not applicable as a recording: response prevention is the deliberate absence of a behaviour inside a live situation, guided in the clinical setting by a therapist rather than a track. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable as a recording: response prevention is the deliberate absence of a behaviour inside a live situation, guided in the clinical setting by a therapist rather than a track.
 
 ## Operationalises
 

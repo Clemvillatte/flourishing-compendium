@@ -20,7 +20,7 @@ The word names two distinct research traditions, and the compendium uses both. T
 
 ### The self-compassion facet
 
-The seed's second facet has its own trial base. Ferrari and colleagues' 2019 meta-analysis of 27 randomized controlled trials found self-compassion interventions improved 11 psychosocial outcomes, with large effects for rumination (g = 1.37), moderate effects for self-compassion (g = 0.75), stress (g = 0.67), depression (g = 0.66) and mindfulness itself (g = 0.62), stronger for group than individual delivery, with the caveat that publication bias may be present ([Ferrari et al., Mindfulness 10 (2019), full text](https://self-compassion.org/wp-content/uploads/2019/08/Ferrari2019.pdf)).
+The original entry's second facet has its own trial base. Ferrari and colleagues' 2019 meta-analysis of 27 randomized controlled trials found self-compassion interventions improved 11 psychosocial outcomes, with large effects for rumination (g = 1.37), moderate effects for self-compassion (g = 0.75), stress (g = 0.67), depression (g = 0.66) and mindfulness itself (g = 0.62), stronger for group than individual delivery, with the caveat that publication bias may be present ([Ferrari et al., Mindfulness 10 (2019), full text](https://self-compassion.org/wp-content/uploads/2019/08/Ferrari2019.pdf)).
 
 ### In the compendium
 

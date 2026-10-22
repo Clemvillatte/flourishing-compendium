@@ -18,7 +18,7 @@ Britannica describes the calpulli as a "corporate group" of households, translat
 
 ### What is uncertain
 
-The same article says "the structure of the calpulli is open to question". Some sources call it a kin group, but there is "no evidence ... of either exogamy or unilineal descent", and it shows internal ranking (same entry). So "local kin-neighborhood" is a fair shorthand but not a settled description. A World History Encyclopedia article describes the calpolli as "a collection of families connected either by blood or long association" with its own temple, where members performed religious rituals and festivals together ([World History Encyclopedia](https://www.worldhistory.org/article/845/aztec-society/)).
+The same article says "the structure of the calpulli is open to question". Some sources call it a kin group, but there is "no evidence... of either exogamy or unilineal descent", and it shows internal ranking (same entry). So "local kin-neighborhood" is a fair shorthand but not a settled description. A World History Encyclopedia article describes the calpolli as "a collection of families connected either by blood or long association" with its own temple, where members performed religious rituals and festivals together ([World History Encyclopedia](https://www.worldhistory.org/article/845/aztec-society/)).
 
 These sources describe a hierarchical, taxed and conscripted institution, so the modern principle takes the idea of being tied to named neighbours without the rest of that system.
 

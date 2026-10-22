@@ -50,7 +50,7 @@ The concept anchors the attention track: AT054 trains attention through delibera
 - [[X017]] — devotional attention to intention and conduct
 ## Sources
 
-- [Wikipedia, Attention](https://en.wikipedia.org/wiki/Attention) — original seed citation; James's definition
+- [Wikipedia, Attention](https://en.wikipedia.org/wiki/Attention) — original original citation; James's definition
 - [William James, The Principles of Psychology (1890), chapter 11: Attention](https://psychclassics.yorku.ca/James/Principles/prin11.htm) — the definition and "my experience is what I agree to attend to"
 - [Simone Weil, letter to Joë Bousquet, 13 April 1942](https://en.wikiquote.org/wiki/Simone_Weil) — "the rarest and purest form of generosity"; letter context examined at [kfitz.info](https://kfitz.info/la-plus-rare-et-la-plus-pure/)
 - [Herbert Simon, "Designing Organizations for an Information-Rich World" (1971), pp. 40-41](https://www.jackvinson.com/blog/2008/05/07/information-overload-is-so-1971) — the scarcity of attention

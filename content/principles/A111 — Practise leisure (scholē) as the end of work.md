@@ -14,7 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 
 Aristotle states the ordering in two places. In the Politics, VII.14, in Jowett's translation:
 
-> "The whole of life is further divided into two parts, business and leisure, war and peace ... there must be war for the sake of peace, business for the sake of leisure, things useful and necessary for the sake of things honorable."
+> "The whole of life is further divided into two parts, business and leisure, war and peace... there must be war for the sake of peace, business for the sake of leisure, things useful and necessary for the sake of things honorable."
 > — Aristotle, Politics VII ([MIT Classics](https://classics.mit.edu/Aristotle/politics.7.seven.html))
 
 In the Nicomachean Ethics X.7 (Ross): "happiness is thought to depend on leisure; for we are busy that we may have leisure, and make war that we may live in peace." ([MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html))

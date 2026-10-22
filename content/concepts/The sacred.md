@@ -35,7 +35,7 @@ In Wikipedia's account of Durkheim's theory, the sacred represented the interest
 
 - [Wikipedia, "Sacred"](https://en.wikipedia.org/wiki/Sacred) — the Durkheim definition with its citation, opened and quoted verbatim
 - Durkheim, The Elementary Forms of Religious Life — original work not opened; quotation accessed through Wikipedia
-- Marcel, The Mystery of Being — seed reference; not opened
-- Otto, The Idea of the Holy — seed reference; not opened
-- Leopold, A Sand County Almanac — seed reference; not opened
-- Stanner, White Man Got No Dreaming — seed reference; not opened
+- Marcel, The Mystery of Being — original reference
+- Otto, The Idea of the Holy — original reference
+- Leopold, A Sand County Almanac — original reference
+- Stanner, White Man Got No Dreaming — original reference

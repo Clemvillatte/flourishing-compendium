@@ -27,7 +27,7 @@ The carrier here is scripture, not trials: no study tests a speech gate, and non
 
 ### A guided version
 
-Not applicable: the practice happens in the pause before speaking, not in a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice happens in the pause before speaking, not in a recording.
 
 ## Operationalises
 

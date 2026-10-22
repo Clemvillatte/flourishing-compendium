@@ -26,7 +26,7 @@ The physiological ground for not matching escalation is Gottman's concept of flo
 
 ### A guided version
 
-Not applicable: the practice is a live response to provocation, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a live response to provocation, not a recording.
 
 ## Operationalises
 

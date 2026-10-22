@@ -31,7 +31,7 @@ The same entry gives the close's shape:
 ## Sources
 
 - [Leddy T, Puolakka K. Dewey's Aesthetics. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dewey-aesthetics/) — the an-experience consummation passages with the AE: 43 locator, opened for this page.
-- Dewey, Art as Experience — book citation carried from the seed; not independently opened this session.
+- Dewey, Art as Experience — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

@@ -37,7 +37,7 @@ MBT is a clinical treatment delivered by trained therapists, and the evidence ab
 - [Bateman and Fonagy, Mentalization-Based Treatment, Kaplan and Sadock chapter (UCL repository PDF)](https://discovery.ucl.ac.uk/id/eprint/1489633/3/Fonagy_MBT%20chapter%20for%20Kaplan%20and%20Sadock%20complete%20071015.pdf)
 - [Mentalization-based treatment of BPD (PubMed)](https://pubmed.ncbi.nlm.nih.gov/15061343/)
 - [Fonagy and Luyten, "Attachment, Mentalization, and the Self" (UCL repository PDF)](https://discovery.ucl.ac.uk/id/eprint/1535395/1/Fonagy%20Luyten_with%20figures.pdf)
-- [Mentalization and Psychosis: A Rationale for the Use of ... (Springer; title truncated in the copy I opened)](https://link.springer.com/content/pdf/10.1007/s10879-019-09449-0.pdf)
+- [Mentalization and Psychosis: A Rationale for the Use of... (Springer; title truncated in the copy I opened)](https://link.springer.com/content/pdf/10.1007/s10879-019-09449-0.pdf)
 - [Is mentalization-based therapy effective in treating the symptoms of borderline personality disorder? (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6900007/)
 - [Mentalization based treatment for borderline personality disorder (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/)
 - [A Randomized-Controlled Trial of Mentalization-Based Treatment (PubMed)](https://pubmed.ncbi.nlm.nih.gov/33262710/)

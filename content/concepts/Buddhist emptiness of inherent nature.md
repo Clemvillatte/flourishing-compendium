@@ -43,7 +43,7 @@ K011 "See the ego's groundlessness as its nature, not its failure" treats the co
 - [Westerhoff, "Nāgārjuna," Stanford Encyclopedia of Philosophy (2010; rev. 2026)](https://plato.stanford.edu/entries/nagarjuna/) — svabhāva analysis; superimposition; the no-master-argument reading; emptiness of emptiness
 - [Arnold, "Madhyamaka Buddhist Philosophy," Internet Encyclopedia of Philosophy](https://iep.utm.edu/madhyamaka-buddhist-philosophy/) — the empty set of ultimately existent things; the 24.1/24.20 exchange
 - [Garfield (trans.), Nāgārjuna, Mūlamadhyamakakārikā, ch. 24](https://kokyohenkel.weebly.com/uploads/1/2/7/4/127410773/nagarjuna_-_mulamadhyamakakarika_ch_24__garfield_.pdf) — verses 1, 18, 19, 20, 36, 40
-- Nagarjuna, Mulamadhyamakakarika — original seed citation; consulted in Garfield's translation (hyperlinked above)
+- Nagarjuna, Mulamadhyamakakarika — original original citation; consulted in Garfield's translation (hyperlinked above)
 
 [[V1K-S03 — PART III — COVERAGE MAP]]
 [[K015 — Let things be what they are, on their own bottom]]

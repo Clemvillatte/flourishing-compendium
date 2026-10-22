@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 
 Chapter 13's list of what counts as knowledge includes this line about company:
 
-> ... service of the Guru ... an inclination for solitary places and an aversion for mundane society ...
+> ... service of the Guru... an inclination for solitary places and an aversion for mundane society...
 
 (BG 13.8-12, trans. Swami Mukundananda, [holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/13/verse/8/).)
 

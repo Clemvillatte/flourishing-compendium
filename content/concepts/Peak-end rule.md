@@ -11,7 +11,7 @@ Kahneman, Fredrickson, Schreiber and Redelmeier (1993) exposed subjects to two a
 
 ### The rule in plain terms
 
-An Oxford note describes it this way: "Painful episodes are evaluated on the basis of how bad the pain is at its worst and how bad it is at the end. The duration of the pain counts for almost nothing", so "an episode with more pain than another can easily be judged less bad" ([More pain or less? Oxford, PDF](https://users.ox.ac.uk/~sfop0060/pdf/More%20pain%20or%20less.pdf)). The seed's "disproportionately shaped by the peak and the final moments" matches the abstract.
+An Oxford note describes it this way: "Painful episodes are evaluated on the basis of how bad the pain is at its worst and how bad it is at the end. The duration of the pain counts for almost nothing", so "an episode with more pain than another can easily be judged less bad" ([More pain or less? Oxford, PDF](https://users.ox.ac.uk/~sfop0060/pdf/More%20pain%20or%20less.pdf)). The original entry's "disproportionately shaped by the peak and the final moments" matches the abstract.
 
 ### Pleasant experiences and other uses
 
@@ -19,7 +19,7 @@ Do, Rupert and Wolford (2008) reported "strong evidence that the peak-end rule a
 
 ### Limits
 
-The laboratory trials involved cold water and short films, so applying the rule to life as a whole is an extension. I did not open Redelmeier and Kahneman (1996), the seed's second reference, so the medical-procedure evidence is not summarised here.
+The laboratory trials involved cold water and short films, so applying the rule to life as a whole is an extension. I did not open Redelmeier and Kahneman (1996), the original entry's second reference, so the medical-procedure evidence is not summarised here.
 
 ## Other formulations in this library
 
@@ -31,7 +31,7 @@ The laboratory trials involved cold water and short films, so applying the rule 
 - [More pain or less? (Oxford PDF)](https://users.ox.ac.uk/~sfop0060/pdf/More%20pain%20or%20less.pdf)
 - [Evaluations of pleasurable experiences: The peak-end rule (Psychonomic Bulletin and Review)](https://link.springer.com/article/10.3758/PBR.15.1.96?error=cookies_not_supported&code=59ea7587-1af2-436c-8053-e467f8b1fc8e)
 - [Ending on a High Note: Adding a Better End to Effortful Study (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2970645/)
-- Redelmeier and Kahneman, 1996: seed reference, not opened directly.
+- Redelmeier and Kahneman, 1996: original reference
 
 ## Cited in psychology parallels
 

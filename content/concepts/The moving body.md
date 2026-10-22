@@ -29,7 +29,7 @@ The chapter's examples are the feather in a hat kept at a safe distance without 
 
 ## Sources
 
-- Merleau-Ponty (inherited seed citation)
+- Merleau-Ponty
 
 - [Merleau-Ponty, Phenomenology of Perception, Colin Smith translation (Internet Archive)](https://archive.org/details/merleaupontyphenomenologyofperception) — the catches-and-comprehends and general-medium passages verified verbatim
 

@@ -10,8 +10,8 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 The seasons of the body is this compendium's label for the observation that the body has its own times. Ecclesiastes states: "To every thing there is a season, and a time to every purpose under the heaven: A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted" ([Ecclesiastes 3:1-2 KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV)).
 
 > "To every thing there is a season, and a time to every purpose under the heaven:
-> A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;
-> A time to kill, and a time to heal; a time to break down, and a time to build up;
+> A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted
+> A time to kill, and a time to heal; a time to break down, and a time to build up
 > A time to weep, and a time to laugh; a time to mourn, and a time to dance;"
 > — Ecclesiastes 3:1-4 (KJV, [Bible Gateway](https://www.biblegateway.com/passage/?search=Ecclesiastes+3&version=KJV))
 

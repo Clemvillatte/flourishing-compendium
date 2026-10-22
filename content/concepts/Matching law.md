@@ -27,7 +27,7 @@ The law describes average allocation of behaviour across concurrent options, not
 
 ## Sources
 
-- [Further Analysis of the Matching Law to Describe Two ... (ERIC EJ767623; title truncated in the copy I opened)](https://files.eric.ed.gov/fulltext/EJ767623.pdf)
+- [Further Analysis of the Matching Law to Describe Two... (ERIC EJ767623; title truncated in the copy I opened)](https://files.eric.ed.gov/fulltext/EJ767623.pdf)
 - [The behavioral economics of consumer brand choice: Establishing a methodology (ScienceDirect)](https://www.sciencedirect.com/science/article/pii/S0167487003000084)
 - [A Model for Residence Time in Concurrent Variable Interval Performance (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1790879/)
 - [Baum, "Matching, undermatching, and overmatching in studies of choice", Journal of the Experimental Analysis of Behavior 32, 269-281, 1979 (abstract)](https://onlinelibrary.wiley.com/doi/10.1901/jeab.1979.32-269)

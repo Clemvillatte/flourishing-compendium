@@ -7,7 +7,7 @@ file: "Moral outrage research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-The seed line says indignation at injustice motivates prosocial action, citing Batson and colleagues (2007). That paper says something different. Its abstract defines moral outrage as "anger at the violation of a moral standard" and separates it from "personal anger at being harmed and empathic anger at seeing another for whom one cares harmed". Across two experiments the authors "found evidence of personal anger and empathic anger, but little evidence of moral outrage" ([Batson et al., 2007, European Journal of Social Psychology 37(6), 1272-1285, Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.434)).
+The original entry line says indignation at injustice motivates prosocial action, citing Batson and colleagues (2007). That paper says something different. Its abstract defines moral outrage as "anger at the violation of a moral standard" and separates it from "personal anger at being harmed and empathic anger at seeing another for whom one cares harmed". Across two experiments the authors "found evidence of personal anger and empathic anger, but little evidence of moral outrage" ([Batson et al., 2007, European Journal of Social Psychology 37(6), 1272-1285, Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.434)).
 
 ### What Batson's team found
 

@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 the generalization literature's conditions for practice effects crossing contexts (Barnett and Ceci, 2002).
 
-Barnett and Ceci's article is a framework for classifying studies of far transfer, and it does not itself list conditions under which transfer happens. The seed's wording, "conditions for practice effects crossing contexts", is a fair paraphrase of the framework's purpose, and this page reports the article from its PubMed abstract only. The full paper was not opened.
+Barnett and Ceci's article is a framework for classifying studies of far transfer, and it does not itself list conditions under which transfer happens. The original entry's wording, "conditions for practice effects crossing contexts", is a fair paraphrase of the framework's purpose, and this page reports the article from its PubMed abstract only.
 
 ### What the authors argue
 

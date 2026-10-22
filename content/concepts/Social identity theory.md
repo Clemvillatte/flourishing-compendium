@@ -22,7 +22,7 @@ It is easy to read the theory as saying that group identity breeds hostility. Ha
 
 ### In the compendium
 
-The page lists two facets, "health function" and "and prosocial behaviour," the second tied to Cialdini and colleagues (1997). Neither Cialdini et al. nor Jetten, Haslam and Alexander's The Social Cure, also among the seed sources, was opened for this page, so the facets are not supported here. They are the compendium's extension. Principles such as SO051 (Use group identity for social cure) rest on that unopened literature, and R101 and R102 on relational autonomy and constitutive relationality come from different traditions.
+The page lists two facets, "health function" and "and prosocial behaviour," the second tied to Cialdini and colleagues (1997). Neither Cialdini et al. nor Jetten, Haslam and Alexander's The Social Cure, also among the original entry sources, was opened for this page, so the facets are not supported here. They are the compendium's extension. Principles such as SO051 (Use group identity for social cure) rest on that unopened literature, and R101 and R102 on relational autonomy and constitutive relationality come from different traditions.
 
 ## Facets
 

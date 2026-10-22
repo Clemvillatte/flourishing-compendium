@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 (Kasser and Ryan, 1996; Kasser, 2002), wealth, fame, and image goals correlate with lower well-being even when achieved.
 
-The correlational part of the seed holds. The "even when achieved" part is supported only by a later study, not by the 1996 paper, and Kasser (2002), a book, was not opened for this page. The effects across studies are small to moderate.
+The correlational part of the original entry holds. The "even when achieved" part is supported only by a later study, not by the 1996 paper, and Kasser (2002) is cited at second hand. The effects across studies are small to moderate.
 
 ### Kasser and Ryan (1996)
 

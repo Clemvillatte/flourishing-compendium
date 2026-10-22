@@ -36,7 +36,7 @@ A PMC commentary calls the theory "the prevailing and dominant theoretical persp
 - [Sexual Orientation and Marriage, research summary (APA)](https://www.apa.org/about/policy/marriage)
 - [NIH Public Access manuscript on prejudice events and physical health (Reginfo.gov PDF; title not shown in the copy I opened)](https://www.reginfo.gov/public/do/eoDownloadDocument?pubId=&eodoc=true&documentID=5604)
 - [Health Disparities by Sexual Orientation: Implications of Genetic and Environmental Explanations (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10175091/)
-- [Theoretical Extensions of Minority Stress Theory for Sexual Minority ... (Wiley; title truncated)](https://onlinelibrary.wiley.com/doi/10.1111/jftr.12246)
+- [Theoretical Extensions of Minority Stress Theory for Sexual Minority... (Wiley; title truncated)](https://onlinelibrary.wiley.com/doi/10.1111/jftr.12246)
 
 ## Field
 

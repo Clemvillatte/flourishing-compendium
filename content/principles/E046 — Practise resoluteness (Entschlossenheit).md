@@ -14,8 +14,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 
 For Heidegger, resoluteness answers the call of conscience by taking responsibility for one's possibilities ([Being and Time, §60, p. 343, Macquarrie and Robinson translation](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc)). It keeps a person involved in practical concerns and relationships: choosing happens within an existing situation, with the possibilities it actually offers ([§60, pp. 344–346](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc)).
 
-> Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible;
-
+> Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible
 (Heidegger, Being and Time, §60, p. 346; [opened text](https://dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime08.doc), excerpt from a longer sentence.)
 
 ### Plain words

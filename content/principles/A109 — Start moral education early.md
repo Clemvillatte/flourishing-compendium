@@ -18,7 +18,7 @@ Aristotle's argument runs through habit: "states of character arise out of like 
 
 The habit that matters is liking the right things: "we ought to have been brought up in a particular way from our very youth, as Plato says, so as both to delight in and to be pained by the things that we ought; for this is the right education" (II.3).
 
-Book X connects receptiveness to argument with prior habituation: "the soul of the student must first have been cultivated by means of habits for noble joy and noble hatred, like earth which is to nourish the seed", because "he who lives as passion directs will not hear argument that dissuades him, nor understand it if he does" (X.9).
+Book X connects receptiveness to argument with prior habituation: "the soul of the student must first have been cultivated by means of habits for noble joy and noble hatred, like earth which is to nourish the original entry", because "he who lives as passion directs will not hear argument that dissuades him, nor understand it if he does" (X.9).
 
 (NE II.1, II.3, X.9, W. D. Ross translation.)
 

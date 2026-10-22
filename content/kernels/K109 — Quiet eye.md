@@ -26,7 +26,7 @@ The core empirical finding, in Vickers' own summary: "The duration of the quiet 
 
 ### A guided version
 
-Not applicable as a recording: the practice is a fixation held inside a live action. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable as a recording: the practice is a fixation held inside a live action.
 
 ## Operationalises
 

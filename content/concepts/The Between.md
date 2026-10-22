@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The Between” — Buber, I and Thou.
 
-"The between" (das Zwischen) is Martin Buber's name for the space of real encounter between one person and another. The seed cites I and Thou (1923); Between Man and Man is the later dialogical parallel. Neither book was opened for this page, so Buber's own wording is not quoted. The account rests on the Stanford Encyclopedia of Philosophy's entry on Buber (Zank and Braiterman).
+"The between" (das Zwischen) is Martin Buber's name for the space of real encounter between one person and another. The original entry cites I and Thou (1923); Between Man and Man is the later dialogical parallel. Neither book was opened for this page, so Buber's own wording is not quoted. The account rests on the Stanford Encyclopedia of Philosophy's entry on Buber (Zank and Braiterman).
 
 ### The idea
 
@@ -48,7 +48,7 @@ The entry does not discuss the Pacific notions of vā that the compendium's prin
 ## Sources
 
 - Buber, I and Thou
-- [Zank & Braiterman, Martin Buber, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buber/) — opened source; Buber's books not opened
+- [Zank & Braiterman, Martin Buber, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buber/) — source for the account; Buber's books are cited at second hand
 - Buber, Between Man and Man, as the dialogical parallel
 
 ## Cited in philosophy parallels

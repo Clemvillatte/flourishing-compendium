@@ -26,7 +26,7 @@ In the randomised, placebo-controlled internet study, the gratitude visit produc
 
 ### A guided version
 
-Not applicable: the exercise is a letter delivered to a person, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the exercise is a letter delivered to a person, not a recording.
 
 ## Operationalises
 

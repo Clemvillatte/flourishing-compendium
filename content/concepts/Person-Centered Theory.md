@@ -7,11 +7,11 @@ file: "Person-Centered Theory"
 tags: ["theory", "psych/clinical"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-CLINICAL"], "alternatePaths": []}
 ---
-Carl Rogers built his theory on the actualizing tendency, defined as "the inherent tendency of the organism to develop all its capacities in ways which serve to maintain or enhance the organism" (quoted from Van Belle in [Bozarth, A Theoretical Reconceptualization of ..., ADPCA PDF; title truncated](https://adpca.org/wp-content/uploads/2020/11/Bozarth-Therapeutic-PCJ-3_1.pdf)). Joseph and Murphy describe it as "a universal human motivation resulting in growth, development, and autonomy of the individual" and say that people are intrinsically motivated to become more fully functioning "when the right social environmental conditions are present" ([Joseph and Murphy, Person-Centered Approach, Positive Psychology, and Relational Helping, SAGE](https://journals.sagepub.com/doi/10.1177/0022167812436426)).
+Carl Rogers built his theory on the actualizing tendency, defined as "the inherent tendency of the organism to develop all its capacities in ways which serve to maintain or enhance the organism" (quoted from Van Belle in [Bozarth, A Theoretical Reconceptualization of..., ADPCA PDF; title truncated](https://adpca.org/wp-content/uploads/2020/11/Bozarth-Therapeutic-PCJ-3_1.pdf)). Joseph and Murphy describe it as "a universal human motivation resulting in growth, development, and autonomy of the individual" and say that people are intrinsically motivated to become more fully functioning "when the right social environmental conditions are present" ([Joseph and Murphy, Person-Centered Approach, Positive Psychology, and Relational Helping, SAGE](https://journals.sagepub.com/doi/10.1177/0022167812436426)).
 
 ### Six conditions, not three
 
-The seed lists the three attitudes most often cited. Joseph and Murphy note that "most psychologists will be familiar with the three conditions of unconditional positive regard, empathy, and congruence, but it is important to note that there were six conditions that taken together described the facilitative social environment". The other three are psychological contact between therapist and client, client incongruence (vulnerable or anxious), and the client's perception, "at least to a minimal degree", of the therapist's regard and empathy (same article; the six are listed in [NCBI Bookshelf, Person-Centered Therapy](https://www.ncbi.nlm.nih.gov/books/NBK589708/)). Rogers called them necessary and sufficient for therapeutic personality change (1957).
+The original entry lists the three attitudes most often cited. Joseph and Murphy note that "most psychologists will be familiar with the three conditions of unconditional positive regard, empathy, and congruence, but it is important to note that there were six conditions that taken together described the facilitative social environment". The other three are psychological contact between therapist and client, client incongruence (vulnerable or anxious), and the client's perception, "at least to a minimal degree", of the therapist's regard and empathy (same article; the six are listed in [NCBI Bookshelf, Person-Centered Therapy](https://www.ncbi.nlm.nih.gov/books/NBK589708/)). Rogers called them necessary and sufficient for therapeutic personality change (1957).
 
 ### The three attitudes in Rogers's words
 
@@ -29,7 +29,7 @@ The ADPCA history says Rogers later stressed that the relationship these attitud
 
 - [Joseph and Murphy, Person-Centered Approach, Positive Psychology, and Relational Helping (SAGE)](https://journals.sagepub.com/doi/10.1177/0022167812436426)
 - [Person-Centered Therapy (Rogerian Therapy) (NCBI Bookshelf)](https://www.ncbi.nlm.nih.gov/books/NBK589708/)
-- [Bozarth, A Theoretical Reconceptualization of ... (ADPCA PDF; title truncated, author name from the PDF's file name)](https://adpca.org/wp-content/uploads/2020/11/Bozarth-Therapeutic-PCJ-3_1.pdf)
+- [Bozarth, A Theoretical Reconceptualization of... (ADPCA PDF; title truncated, author name from the PDF's file name)](https://adpca.org/wp-content/uploads/2020/11/Bozarth-Therapeutic-PCJ-3_1.pdf)
 - [Tod and Wadsworth, Person-Centered Approach (LJMU PDF)](https://researchonline.ljmu.ac.uk/id/eprint/20434/1/Person-Centered%20Approach.pdf)
 - [The History of the PCA (ADPCA)](https://adpca.org/the-history-of-the-pca/)
 

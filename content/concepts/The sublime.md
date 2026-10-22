@@ -28,7 +28,7 @@ Burke's reason for the "strongest emotion" claim:
 ## Sources
 
 - [Burke, A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (1757), Part I, §7 — opened text carrier (UNC)](https://www.viscomi.sites.oasis.unc.edu/viscomi/Burke/sublime/I.7.htm) — both quoted passages verbatim
-- Kant, Critique of Judgement (inherited seed reference)
+- Kant, Critique of Judgement (inherited original reference)
 
 ## Cited in philosophy parallels
 

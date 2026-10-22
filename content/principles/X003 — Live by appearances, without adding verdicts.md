@@ -20,7 +20,7 @@ The Stanford Encyclopedia gives I.24 in another rendering: "By the necessitation
 
 ### Scope
 
-I did not find the seed's carpenter, woodcutter or pilot images in the passages I opened, so they are not attributed to Sextus here. The claim that suspending verdicts reduces rumination is also not sourced on this page, and I did not test a "day of appearances".
+I did not find the original entry's carpenter, woodcutter or pilot images in the passages I opened, so they are not attributed to Sextus here. The claim that suspending verdicts reduces rumination is also not sourced on this page, and I did not test a "day of appearances".
 
 **Plain words**
 Sextus says the Sceptic still eats when hungry, follows custom and law, and practises a craft, while holding back from claims about how things really are.

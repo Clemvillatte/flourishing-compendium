@@ -33,7 +33,7 @@ The Stanford Encyclopedia places the critique in its setting: "Communitarian thi
 
 ## Sources
 
-- Sandel, Democracy's Discontent (inherited seed citation, not opened)
+- Sandel, Democracy's Discontent
 - [Michael Sandel, interviewed by Benjamin Balint, An Interview with Michael Sandel (Sources Journal, Spring 2021)](https://www.sourcesjournal.org/articles/an-interview-with-michael-sandel) — Sandel's own statement defining the unencumbered self quoted above
 - [Daniel Bell, Communitarianism, Stanford Encyclopedia of Philosophy (first published 2001, substantive revision 7 June 2024)](https://plato.stanford.edu/entries/communitarianism/) — the communitarian framing passage quoted above
 

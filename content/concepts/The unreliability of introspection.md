@@ -16,7 +16,7 @@ The classic modern statement is Nisbett and Wilson's 1977 review:
 
 Their proposal was not that people are always wrong about themselves. It was about mechanism: when asked to report on how a stimulus affected a response, people do not consult a memory of the mediating process — there is often no such memory to consult. Instead they apply implicit causal theories about what plausibly causes what. The reports can be accurate, but their accuracy tracks plausibility, not observation.
 
-The seed for this entry is Nietzsche's Beyond Good and Evil (inherited seed reference, not consulted this pass), where the same suspicion is stated as a matter of psychology rather than experiment. The convergence matters: a philosopher's diagnostic and a laboratory program reach the same caution by different routes.
+The original entry for this entry is Nietzsche's Beyond Good and Evil (inherited original reference, not consulted this pass), where the same suspicion is stated as a matter of psychology rather than experiment. The convergence matters: a philosopher's diagnostic and a laboratory program reach the same caution by different routes.
 
 The practical upshot is not to abandon self-report but to stop treating it as testimony from the inside. Confidence in one's own account of why one acted is not evidence that the account is right.
 

@@ -21,9 +21,9 @@ The companion study by McCornack, Levine and colleagues tested whether altered i
 
 The theory has a direct challenger. Jacobs, Dawson and Brashers argue that IMT "ignores the role of implicatures in deception" and proposes "a dubious editing model of deception". In their replication "none of the results are consistent with IMT predictions"; instead "the results uniformly support a model of deceptive message design based on conversational implicature" ([Jacobs, Dawson and Brashers, 1996, University of Illinois record](https://experts.illinois.edu/en/publications/information-manipulation-theory-a-replication-and-assessment/)).
 
-### Reading the seed claim
+### Reading the original entry claim
 
-The seed note says deception works through subtle violations "rather than inventing wholesale lies". That fits the Wikipedia gloss and the omission and equivocation categories, but the 1992 abstract itself says only that the violations are covert. Use "covert violation of conversational expectations" as the core claim.
+The original entry note says deception works through subtle violations "rather than inventing wholesale lies". That fits the Wikipedia gloss and the omission and equivocation categories, but the 1992 abstract itself says only that the violations are covert. Use "covert violation of conversational expectations" as the core claim.
 
 ## Related concepts
 

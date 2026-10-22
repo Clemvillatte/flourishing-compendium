@@ -7,7 +7,7 @@ file: "The tripartite soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The tripartite soul is Plato's division of the soul into three elements: reason, spirit, and appetite. The seed names the Republic, book IV; the compendium also carries the same material under the heading "the divided soul", which points to the same book.
+The tripartite soul is Plato's division of the soul into three elements: reason, spirit, and appetite. The original entry names the Republic, book IV; the compendium also carries the same material under the heading "the divided soul", which points to the same book.
 
 ### Plato's ground
 

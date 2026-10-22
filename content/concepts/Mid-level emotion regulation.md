@@ -9,11 +9,11 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 strategies deployed in the moment beat both suppression and venting (Gross, 2015).
 
-James Gross's extended process model gives the seed's "mid-level" its structure. Regulation there is not a separate faculty but one valuation system acting on another ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)):
+James Gross's extended process model gives the original entry's "mid-level" its structure. Regulation there is not a separate faculty but one valuation system acting on another ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)):
 
 > Emotion regulation occurs when one valuation system (which I refer to as a second-level valuation system) takes another valuation system (one that is generating emotion, which I refer to as a first-level valuation system) as a target and evaluates it either negatively or positively, activating action impulses that are intended to modify the activity in the first-level valuation system.
 
-The evidence behind the seed's first half is the reappraisal-versus-suppression record. Reappraisal, used to down-regulate negative emotion, decreases negative experience, "has no impact on or even decreases sympathetic nervous system responses", and either leaves memory intact or improves it. Suppression "leads to decreased positive but not negative emotion experience", increases sympathetic activation, worsens memory, and carries social costs: lesser liking and greater cardiovascular responses in interaction partners ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)).
+The evidence behind the original entry's first half is the reappraisal-versus-suppression record. Reappraisal, used to down-regulate negative emotion, decreases negative experience, "has no impact on or even decreases sympathetic nervous system responses", and either leaves memory intact or improves it. Suppression "leads to decreased positive but not negative emotion experience", increases sympathetic activation, worsens memory, and carries social costs: lesser liking and greater cardiovascular responses in interaction partners ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)).
 
 ### The venting half
 
@@ -23,7 +23,7 @@ The case against venting is even shorter. Brad Bushman's punching-bag experiment
 
 ### The guard
 
-The seed's rule is a default, not a law. Gross's own caution is that "the outcome profile that is 'best' in a particular case will depend upon the details of the person, the situation, and the goals that person has in that situation", and that reappraisal "breaks down" at very high emotion intensity, where distraction may work better ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)).
+The original entry's rule is a default, not a law. Gross's own caution is that "the outcome profile that is 'best' in a particular case will depend upon the details of the person, the situation, and the goals that person has in that situation", and that reappraisal "breaks down" at very high emotion intensity, where distraction may work better ([Gross, 2015](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)).
 
 ### In the compendium
 

@@ -11,7 +11,7 @@ Schachter described the finding in a later reflection: "precisely the same physi
 
 ### The experiment
 
-The original report says that subjects injected with epinephrine and "told precisely what they would feel and why" proved "relatively immune to any effects of the manipulated cognitions", while those without an adequate explanation of their bodily state were more open to the cues around them. It summarises: "Given a state of sympathetic activation, for which no immediately appropriate explanation is available, human subjects can be readily manipulated into states of euphoria, anger, and amusement" ([Schachter and Singer, 1962, PDF copy on gwern.net](https://gwern.net/doc/psychology/1962-schachter.pdf)). The seed's "the same arousal can become different emotions" matches this.
+The original report says that subjects injected with epinephrine and "told precisely what they would feel and why" proved "relatively immune to any effects of the manipulated cognitions", while those without an adequate explanation of their bodily state were more open to the cues around them. It summarises: "Given a state of sympathetic activation, for which no immediately appropriate explanation is available, human subjects can be readily manipulated into states of euphoria, anger, and amusement" ([Schachter and Singer, 1962, PDF copy on gwern.net](https://gwern.net/doc/psychology/1962-schachter.pdf)). The original entry's "the same arousal can become different emotions" matches this.
 
 The authors themselves flagged a weakness in the data: in the anger condition, patterns were "particularly troubling" because they made it "impossible to evaluate unequivocally the effects of the state of physiological arousal" (same PDF).
 

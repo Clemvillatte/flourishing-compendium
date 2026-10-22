@@ -14,7 +14,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 
 > people living in modern societies provide their lives with unity and purpose by constructing internalized and evolving narratives of the self.
 
-(McAdams, "The Psychology of Life Stories," Review of General Psychology 5(2), 2001, 100-122, abstract, describing his life story model of identity; [SAGE page](https://journals.sagepub.com/doi/10.1037/1089-2680.5.2.100). Only the abstract was opened, since the article is behind a paywall.)
+(McAdams, "The Psychology of Life Stories," Review of General Psychology 5(2), 2001, 100-122, abstract, describing his life story model of identity; [SAGE page](https://journals.sagepub.com/doi/10.1037/1089-2680.5.2.100). The full article is behind a paywall; the abstract is open.)
 
 In a later summary McAdams and McLean define narrative identity as "a person's internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose" ([Current Directions in Psychological Science, 2013, abstract](https://is.muni.cz/el/1421/podzim2013/PSB_443/um/5__Oct_29__Narrative_Identity.pdf)).
 
@@ -26,7 +26,7 @@ So the research tradition ties identity, as a story, to a sense of unity and pur
 
 ## Sources
 
-- [McAdams, D. P. (2001). The Psychology of Life Stories. Review of General Psychology 5(2), 100-122 (abstract)](https://journals.sagepub.com/doi/10.1037/1089-2680.5.2.100) — abstract opened; full text paywalled
+- [McAdams, D. P. (2001). The Psychology of Life Stories. Review of General Psychology 5(2), 100-122 (abstract)](https://journals.sagepub.com/doi/10.1037/1089-2680.5.2.100) — abstract; full text paywalled
 - [McAdams, D. P., & McLean, K. C. (2013). Narrative Identity. Current Directions in Psychological Science 22(3), 233-238](https://is.muni.cz/el/1421/podzim2013/PSB_443/um/5__Oct_29__Narrative_Identity.pdf) — abstract and opening lines read in a course copy
 
 ## Psychology parallels

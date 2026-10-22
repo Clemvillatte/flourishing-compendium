@@ -15,7 +15,7 @@ Aggression research is the modern psychological study of harm-doing, and its wor
 
 The clauses do real work. Intent separates aggression from accidental harm, and the belief-and-avoidance clause rules out consensual hurt, the dentist's drill and the sparring partner, where the target is not trying to escape. The review also separates violence, "aggression that has extreme harm as its goal (e.g., death)," from aggression at large: "All violence is aggression, but many instances of aggression are not violent." The framework Anderson and Bushman offer, the general aggression model, treats cognition, affect and arousal as the routes by which situational and personal inputs reach aggressive behavior, and reads personality as a set of stable knowledge structures that interpret events and guide behavior.
 
-The compendium's use is the containment insight in the seed line: instrumental, reluctant conflict is rarer and more containable than reactive escalation. The definitional work supports it, since aggression research distinguishes planned harm from the hot, reactive kind that spirals, and the practices the compendium collects, reluctant entry into conflict, last-resort treatment of weapons, aim at the escalation spiral rather than the person.
+The compendium's use is the containment insight in the original entry line: instrumental, reluctant conflict is rarer and more containable than reactive escalation. The definitional work supports it, since aggression research distinguishes planned harm from the hot, reactive kind that spirals, and the practices the compendium collects, reluctant entry into conflict, last-resort treatment of weapons, aim at the escalation spiral rather than the person.
 
 ### In the compendium
 

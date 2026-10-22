@@ -36,7 +36,7 @@ The same overview describes reciprocal influences among events, thoughts, emotio
 ## Sources
 
 - [Wikipedia, Cognitive behavioral therapy — basic assumptions (opened)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
-- Original seed reference: Beck, 1976 (not consulted; bibliographic date not verified)
+- Original original reference: Beck, 1976 (not consulted; bibliographic date not verified)
 
 ## Cited in psychology parallels
 

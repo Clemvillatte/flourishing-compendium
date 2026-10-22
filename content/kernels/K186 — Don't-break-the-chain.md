@@ -24,7 +24,7 @@ The habit-formation evidence sits in tension with the technique's "never break i
 
 ### A guided version
 
-Not applicable: the practice is a calendar and a marker; there is nothing to be guided through. (Supervisor disposition, 2026-10-22: kernels for unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a calendar and a marker; there is nothing to be guided through.
 
 ## Operationalises
 

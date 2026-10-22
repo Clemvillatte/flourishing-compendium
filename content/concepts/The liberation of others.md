@@ -25,7 +25,7 @@ Two points distinguish the page. First, the work is other-directed but not self-
 
 ## Related concepts
 
-- [[ST162 — Anna Karenina and the Narrowing]] — inherited story link
+- [[ST162 — Anna Karenina and the Narrowing]] — story link
 - [[The interdependence of freedoms]] — the condition this concept turns into a task
 - [[Recognition]] — the Hegelian background of self-consciousness needing another
 - [[ST162 — Anna Karenina and the Narrowing]] — the negative image: liberation as private escape

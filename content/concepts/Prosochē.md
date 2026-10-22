@@ -22,6 +22,6 @@ The attention is continuous because the danger never sleeps. Epictetus says God 
 - [Stanford Encyclopedia of Philosophy, "Epictetus"](https://plato.stanford.edu/entries/epictetus/) — the constant-vigilance passage on screening impressions
 - [Epictetus, Discourses, George Long translation (MIT Classics)](https://classics.mit.edu/Epictetus/discourses.1.one.html) — the "where is your work" passage (1.4) and the guardian passage (1.14)
 - [Internet Encyclopedia of Philosophy, "Epictetus"](https://iep.utm.edu/epictetu/) — rational beings can attend to their use of impressions and assent or not assent
-- [Wikipedia, "Prosoche"](https://en.wikipedia.org/wiki/Prosoche) — the original carrier cited by the seed line
+- [Wikipedia, "Prosoche"](https://en.wikipedia.org/wiki/Prosoche) — the original carrier cited by the original entry line
 
 ## Cited in philosophy parallels

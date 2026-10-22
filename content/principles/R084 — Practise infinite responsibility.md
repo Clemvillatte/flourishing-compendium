@@ -29,7 +29,7 @@ So the call to responsibility is not a constraint your freedom reluctantly obeys
 ## Sources
 
 - [Levinas, Totality and Infinity (Lingis translation), course excerpt PDF with pp. 48-51, 110-114, 117-119, 197-201, University of Würzburg](https://wuecampus.uni-wuerzburg.de/moodle/pluginfile.php/2896578/mod_folder/content/0/Levinas,%20Totality%20%20Infinity,%20S.%2048-51,110-114,117-119,197-201.pdf) — responsibility founding freedom (pp. 197, 200), irrecusable responsibility (p. 201); opened
-- Levinas, "Substitution," in Otherwise Than Being — cited by the seed; the linked complete-book PDF domain no longer resolves; not relied on for any quotation above
+- Levinas, "Substitution," in Otherwise Than Being — cited by the original entry; the linked complete-book PDF domain no longer resolves; not relied on for any quotation above
 
 ## Psychology parallels
 

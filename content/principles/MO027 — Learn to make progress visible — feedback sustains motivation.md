@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "MO — Motivati
 ---
 > **Principle 27** — Learn to make progress visible: feedback sustains motivation
 
-Seeing progress is not decoration on top of motivation. Amabile and Kramer's research on inner work life concluded that "nothing contributed more to a positive inner work life ... than making progress in meaningful work" ([Harvard Business Review, 2011](https://hbr.org/2011/05/the-power-of-small-wins)).
+Seeing progress is not decoration on top of motivation. Amabile and Kramer's research on inner work life concluded that "nothing contributed more to a positive inner work life... than making progress in meaningful work" ([Harvard Business Review, 2011](https://hbr.org/2011/05/the-power-of-small-wins)).
 
 The experimental evidence points the same way. A meta-analysis of 138 randomised studies (N = 19,951) found that interventions prompting people to monitor their goal progress raised goal attainment (d+ = 0.40), and the effect was larger when progress was physically recorded or made public ([Harkin et al., 2016, Psychological Bulletin](https://pubmed.ncbi.nlm.nih.gov/26479070/)). The studies were mostly about personal health goals, so the result is strongest there ([APA summary](https://www.apa.org/news/press/releases/2015/10/progress-goals)).
 

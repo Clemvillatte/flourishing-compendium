@@ -18,7 +18,7 @@ Krishna tells Arjuna to bring the wandering mind back under the soul's control e
 > But, as often as the heart
 > Breaks--wild and wavering--from control, so oft
 > Let him re-curb it, let him rein it back
-> To the soul's governance;
+> To the soul's governance
 >
 > — Bhagavad Gita 6.26 (Arnold, The Song Celestial; [Gutenberg 2388](https://www.gutenberg.org/files/2388/2388-h/2388-h.htm))
 

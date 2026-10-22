@@ -20,7 +20,7 @@ The construct is measurable: the Investment Model Scale asks people to rate item
 
 > "Commitment is the psychological construct that directly influences everyday behavior in relationships" (Rusbult, Martz & Agnew, 1998, [The Investment Model Scale, PDF](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf))
 
-The paper continues that commitment mediates the effects on persistence of the three bases of dependence. The seed also names a philosophical strand (Aristotle on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds); those sources are carried as the seed's references and were not opened for this page.
+The paper continues that commitment mediates the effects on persistence of the three bases of dependence. The original entry also names a philosophical strand (Aristotle on friendship, Buber's I and Thou, Sartre and de Beauvoir on choosing one's bonds); those sources are carried as the original entry's references and were not opened for this page.
 
 ### In the compendium
 
@@ -37,4 +37,4 @@ The paper continues that commitment mediates the effects on persistence of the t
 - [[R086 — Practise fidelity]]## Sources
 
 - [Rusbult, C. E., Martz, J. M., & Agnew, C. R. (1998), "The Investment Model Scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size", Personal Relationships 5, 357-391 — PDF at Northwestern (Finkel lab)](https://faculty.wcas.northwestern.edu/eli-finkel/documents/60_RusbultMartzAgnew1998_PersonalRelationships.pdf) — the commitment definition, the dependence claim, the scale item and the behavioural-consequence passage
-- Seed references carried forward, not opened: Rusbult et al. 2001; Hayes et al. 2006; Aristotle, Nicomachean Ethics VIII; Buber, I and Thou; Sartre; de Beauvoir
+- Seed references carried forward: Rusbult et al. 2001; Hayes et al. 2006; Aristotle, Nicomachean Ethics VIII; Buber, I and Thou; Sartre; de Beauvoir

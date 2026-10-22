@@ -15,7 +15,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 Daodejing 68 places restraint beside skill in fighting: the opening verse describes a fighter without martial display or resort to rage.
 
 > "He who in (Tao's) wars has skill
-> Assumes no martial port;
+> Assumes no martial port
 > He who fights with most good will
 > To rage makes no resort."
 > (DDJ 68, [Legge's translation](https://www.gutenberg.org/files/216/216-h/216-h.htm))

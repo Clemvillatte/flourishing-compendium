@@ -43,4 +43,4 @@ Self · Psychological science
 ## Sources
 
 - [Otani, K. et al. (2018), "Marked differences in core beliefs about self and others, between sociotropy and autonomy: personality vulnerabilities in the cognitive model of depression", Neuropsychiatric Disease and Treatment (PMC open access)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5877496/) — the model statement, the two self-schema definitions, the congruency prediction and the core-belief findings; opened this session
-- [Beck Institute, Sociotropy-Autonomy Scale documentation (PDF)](https://beckinstitute.org/wp-content/uploads/2021/06/SAS-Full-Documents.pdf) — Beck's 1983 definitions of the two modes (p. 272) and the SAS development history; PDF opened this session
+- [Beck Institute, Sociotropy-Autonomy Scale documentation (PDF)](https://beckinstitute.org/wp-content/uploads/2021/06/SAS-Full-Documents.pdf) — Beck's 1983 definitions of the two modes (p. 272) and the SAS development history; publisher PDF

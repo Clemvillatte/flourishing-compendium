@@ -49,8 +49,8 @@ Biophysiological · Psychological science
 cognition is probabilistic inference; beliefs are priors that shape perception (Knill & Richards, 1996; Hohwy, 2013).
 ## Sources
 - [Thagard P. Cognitive Science. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/cognitive-science/) — the Bayesian approach and predictive-processing summary opened for this page.
-- Knill DC, Richards W (eds.) (1996). Perception as Bayesian Inference. Cambridge University Press — book citation carried from the seed; not independently opened this session.
-- Hohwy J (2013). The Predictive Mind. Oxford University Press — book citation carried from the seed; not independently opened this session.
+- Knill DC, Richards W (eds.) (1996). Perception as Bayesian Inference. Cambridge University Press — book citation carried from the original entry
+- Hohwy J (2013). The Predictive Mind. Oxford University Press — book citation carried from the original entry
 
 ## Cited in psychology parallels
 [[V1K Reference — Sources for Book IV]]

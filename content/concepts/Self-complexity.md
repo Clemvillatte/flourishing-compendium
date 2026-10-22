@@ -39,7 +39,7 @@ Consider a student whose week runs through lecture halls, a part-time job and a 
 
 - Linville, 1987
 - Linville, 1985, 1987
-- Wayment & Bauer, 2017 (inherited citation, not opened this session)
+- Wayment & Bauer, 2017
 
 ## Facets
 

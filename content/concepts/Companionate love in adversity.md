@@ -21,7 +21,7 @@ The 2008 investigation then tested that assumption in 53 newlywed couples and 24
 ### In the compendium
 
 - [[A068 — Maintain friendships through presence in misfortune]] — the principle supplies the adversity half of the heading: showing up in a friend's misfortune is companionate love in action
-- [[A064 — Know the three kinds of friendship]] — listed as a citing principle; Aristotle's friendship kinds are the seed's other philosophical anchor
+- [[A064 — Know the three kinds of friendship]] — listed as a citing principle; Aristotle's friendship kinds are the original entry's other philosophical anchor
 - [[ST150 — Million Dollar Baby's Shifting Mean]] — listed as a citing story
 - [[K251 — Signature strengths in new ways]] — listed as a citing kernel
 
@@ -41,4 +41,4 @@ The 2008 investigation then tested that assumption in 53 newlywed couples and 24
 
 - [Neto & Menezes, "Estimates About Love for Self, Romantic Partners, and Parents", PDF at the University of Porto repository](https://repositorio-aberto.up.pt/bitstream/10216/140062/2/536181.pdf) — carrier for the Berscheid & Walster (1978) verbatim definitions and the Berscheid (2010, p. 12) aliases sentence ("strong liking, friendship love, philias, conjugal love, and storge")
 - [Hatfield, E., Pillemer, J. T., O'Brien, M. U., & Le, Y. (2008), "The Endurance of Love: Passionate and Companionate Love in Newlywed and Long-Term Marriages", Interpersona 2(1), 35-64, PDF at the author's site](https://www.elainehatfield.com/uploads/3/2/2/5/3225640/111._hatfield_pillemer_obrien__le_2008.pdf) — the temporal-course assumption, the corrosive-effect finding, and the fragile-flower metaphor
-- Berscheid, 2010, Love in the Fourth Dimension, Annual Review of Psychology 61:1-25 — the seed citation; full text JS-walled at the publisher, its p. 12 sentence carried via the Porto paper
+- Berscheid, 2010, Love in the Fourth Dimension, Annual Review of Psychology 61:1-25 — the original entry citation; full text JS-walled at the publisher, its p. 12 sentence carried via the Porto paper

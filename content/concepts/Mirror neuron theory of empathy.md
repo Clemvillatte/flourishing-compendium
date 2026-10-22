@@ -7,7 +7,7 @@ file: "Mirror neuron theory of empathy"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-The mirror neuron theory of empathy extends a finding from macaque premotor cortex. A commentary in Brain describes it: "the same neurons also discharged in a highly reproducible way as the monkey observed a human experimenter making a similar grasp" ([Is the mirror cracked?, Brain](https://academic.oup.com/brain/article/138/7/2109/2053652?login=false)). The theory then links this matching to "higher level concepts such as action 'understanding', imitation, empathy", which the same commentary calls the "direct-matching hypothesis". The seed sentence on this page states the idea; the sources below show that the empathy step is the disputed part.
+The mirror neuron theory of empathy extends a finding from macaque premotor cortex. A commentary in Brain describes it: "the same neurons also discharged in a highly reproducible way as the monkey observed a human experimenter making a similar grasp" ([Is the mirror cracked?, Brain](https://academic.oup.com/brain/article/138/7/2109/2053652?login=false)). The theory then links this matching to "higher level concepts such as action 'understanding', imitation, empathy", which the same commentary calls the "direct-matching hypothesis". The original entry sentence on this page states the idea; the sources below show that the empathy step is the disputed part.
 
 ### The case in favour
 
@@ -42,5 +42,5 @@ Biophysiological · Psychological science
 - [From Neurons to Social Beings: Short Review of the Mirror Neuron System Research (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5810456/)
 - [Rizzolatti and Sinigaglia, review of Hickok's book (UCSC-hosted PDF)](https://bpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/0/158/files/2015/04/Rizzolatti-Sinigaglia-Review.pdf?bid=158)
 - [Pictures of pain: their contribution to the neuroscience of empathy (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4408436/)
-- [The role of the mirror neuron system in action understanding ... (Tilburg repository; title truncated in the copy I opened)](http://arno.uvt.nl/show.cgi?fid=114188)
+- [The role of the mirror neuron system in action understanding... (Tilburg repository; title truncated in the copy I opened)](http://arno.uvt.nl/show.cgi?fid=114188)
 - [The Empathic Brain of Psychopaths (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7241099/?utm)

@@ -26,7 +26,7 @@ The term comes from Argyris and Schön's theory of organizational learning: "whe
 
 ### A guided version
 
-Not applicable: the practice is a correction made in the course of acting, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a correction made in the course of acting, not a recording.
 
 ## Operationalises
 

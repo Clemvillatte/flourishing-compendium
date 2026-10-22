@@ -31,7 +31,7 @@ Ubuntu itself was not opened for this page. The Stanford Encyclopedia's entry on
 
 ### What this page does not claim
 
-These four answers are not rivals on one question. The Ricoeur and Ubuntu readings speak mainly to the characterization question, and the Buddhist non-self argument is aimed at the persistence question and at the sense of an owning "I". The seed's claim that the graph's traditions offer "every option" is a statement about the compendium, not a survey of the field.
+These four answers are not rivals on one question. The Ricoeur and Ubuntu readings speak mainly to the characterization question, and the Buddhist non-self argument is aimed at the persistence question and at the sense of an owning "I". The original entry's claim that the graph's traditions offer "every option" is a statement about the compendium, not a survey of the field.
 
 ### In the compendium
 

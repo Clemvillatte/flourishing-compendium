@@ -27,7 +27,7 @@ The carrier is a philosopher's prescription, not a trial: no study is cited for 
 
 ### A guided version
 
-Not applicable: the drill requires a live interlocutor who can confirm or correct the restatement; no recording can play that part. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the drill requires a live interlocutor who can confirm or correct the restatement; no recording can play that part.
 
 ## Operationalises
 

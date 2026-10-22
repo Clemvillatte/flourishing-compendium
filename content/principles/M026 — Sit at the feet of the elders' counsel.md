@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 
 Sahagún titled Book VI of the Florentine Codex "Rhetoric and Moral Philosophy and Theology" of the Mexica people. The [Library of Congress](https://www.loc.gov/item/2021667851/) says he collected its texts around 1547 from oral recitations by Nahua elders, known as Huehuetlahtolli ("Ancient word"). In Chapter XXI, as quoted in [a study of the huehuetlatolli](https://journals.lapub.co.uk/index.php/HB/article/download/2615/1793/7896), a father tells his son: "hear the words; place, inscribe in the chambers of thy heart the word or two which our forefathers departed leaving: the old men, the old women". Another speech, given when a child is about to start school, says: "if thou hearest something which seemeth not correct, thou art not to laugh". So the elders ask the young to weigh the counsel, and they warn against mocking it.
 
-A [survey of Book VI](https://read.dukeupress.edu/hahr/article/51/1/135/151804/Florentine-Codex-General-History-of-the-Things-of) lists exhortations for domestic life and ceremonies at the birth of children. I found no marriage speech, which the seed mentions.
+A [survey of Book VI](https://read.dukeupress.edu/hahr/article/51/1/135/151804/Florentine-Codex-General-History-of-the-Things-of) lists exhortations for domestic life and ceremonies at the birth of children. I found no marriage speech, which the original entry mentions.
 
 The psychology is mixed. In [Grossmann et al. 2010](https://www.socialpsychology.org/download/7318/GrossmannNaVarnumParkKitayamaNisbett2010.pdf), older participants made more use of reasoning that recognised multiple perspectives, compromise and the limits of knowledge. A [review of wisdom measurement](https://academic.oup.com/psychsocgerontology/article/73/8/1393/4769351) says a linear link between age and wisdom is unlikely, and [Kunzmann](https://www.lw.uni-leipzig.de/fileadmin/Fakult%C3%A4t_LeWi/Psychologie/Entwicklungspsychologie/Kunzmann-January_2024.pdf) concludes that older people are not, on average, wiser than young adults.
 
@@ -22,7 +22,7 @@ The psychology is mixed. In [Grossmann et al. 2010](https://www.socialpsychology
 
 ### Scope
 
-Book VI itself was not opened. The seed's "unguarded tenderness and unflinching directness" is not tested here.
+Book VI itself was not opened. The original entry's "unguarded tenderness and unflinching directness" is not tested here.
 
 **Plain words**
 Nahua elders gave the young counsel at important moments and asked them to keep it and weigh it. Age does not guarantee wisdom, so choose elders for what they have lived through and ask them a specific question.

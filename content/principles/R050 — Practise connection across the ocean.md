@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 312** — Practise connection across the ocean
 
-Hau'ofa argues that the usual picture of the Pacific as small, remote islands is a colonial framing, and that older Pacific peoples saw their world differently: "Our ancestors ... viewed their world as 'a sea of islands' rather than as 'islands in the sea'" (Hau'ofa, 1994, p. 153, "Our Sea of Islands", The Contemporary Pacific 6(1), [open PDF](https://www.history.ucsb.edu/wp-content/uploads/HauofaOurSeaOfIslands.pdf)). They "sailed to trade and to marry, thereby expanding social networks for greater flows of wealth" (pp. 153-154).
+Hau'ofa argues that the usual picture of the Pacific as small, remote islands is a colonial framing, and that older Pacific peoples saw their world differently: "Our ancestors... viewed their world as 'a sea of islands' rather than as 'islands in the sea'" (Hau'ofa, 1994, p. 153, "Our Sea of Islands", The Contemporary Pacific 6(1), [open PDF](https://www.history.ucsb.edu/wp-content/uploads/HauofaOurSeaOfIslands.pdf)). They "sailed to trade and to marry, thereby expanding social networks for greater flows of wealth" (pp. 153-154).
 
 (Pacific philosophy; Hau'ofa, 1994, "Our Sea of Islands," The Contemporary Pacific, 6(1), 148-161.)
 

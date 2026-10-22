@@ -44,4 +44,4 @@ Biophysiological · Psychological science
 - [The Hebb Synapse Before Hebb: Theories of Synaptic Function in Learning and Memory Before Hebb (1949) (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8566713/)
 - [Synaptic Ensemble Underlying the Selection and Consolidation of Neuronal Circuits during Learning (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5332426/)
 - [Non-Hebbian spike-timing-dependent plasticity in cerebellar circuits (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3542521/)
-- Hebb, The Organization of Behavior (1949), quoted in the sources above and not opened directly
+- Hebb, The Organization of Behavior (1949), quoted in the sources above at second hand

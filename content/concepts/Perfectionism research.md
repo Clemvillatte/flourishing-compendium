@@ -29,7 +29,7 @@ The dimensions carry clinical weight: in the study with 77 psychiatric patients,
 
 - [Hewitt, P. L., & Flett, G. L. (1991). Perfectionism in the self and social contexts. J Pers Soc Psychol 60(3):456-70. Abstract, PubMed PMID 2027080](https://pubmed.ncbi.nlm.nih.gov/2027080/) — the three dimensions, the psychiatric-sample findings.
 - [Curran, T., & Hill, A. P. (2019). Perfectionism is increasing over time. Abstract, PubMed PMID 29283599](https://pubmed.ncbi.nlm.nih.gov/29283599/) — cohort trends 1989-2016.
-- Hewitt and Flett, 1991 (seed citation, linked above).
+- Hewitt and Flett, 1991 (original citation, linked above).
 
 ## Cited in psychology parallels
 

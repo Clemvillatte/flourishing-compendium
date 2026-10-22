@@ -30,8 +30,8 @@ Each dimension is a question about a setback: does the cause look permanent or t
 ## Sources
 
 - [Seligman on explanatory style, Beck Institute Q&A about Agency (2026)](https://beckinstitute.org/blog/a-qa-with-dr-martin-seligman-on-how-agency-shapes-human-action-part-1/) — both quotations verbatim from the interview page.
-- Seligman, 1990 (seed citation; Learned Optimism, not opened this session).
-- optimistic attribution style research (seed citation).
+- Seligman, 1990 (original citation; Learned Optimism).
+- optimistic attribution style research (original citation).
 
 ## Cited in psychology parallels
 

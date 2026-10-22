@@ -57,7 +57,7 @@ The three stages give a place to locate what goes wrong. Gross separates regulat
 
 - [Gross, J. J. (2015). Emotion regulation: Current status and future prospects. Psychological Inquiry, 26(1), 1-26](https://www.tandfonline.com/doi/full/10.1080/1047840X.2014.940781) (full text read at [this copy](http://www.johnnietfeld.com/uploads/2/2/6/0/22606800/gross_2015.pdf)): the extended process model, valuation, the three stages, failure and misregulation
 - [Gross, J. J. (2014). Chapter 1 in Handbook of Emotion Regulation, 2nd ed.](https://dl.icdst.org/pdfs/files4/bd153eea518b5226e4fcbf13507c1b81.pdf): definitions of the five families
-- The seed line cites Gross, 1998; that paper was not opened for this page. The five-family claim here rests on the 2015 and 2014 texts above.
+- The original entry line cites Gross, 1998; that paper was not opened for this page. The five-family claim here rests on the 2015 and 2014 texts above.
 
 ## Cited in psychology parallels
 

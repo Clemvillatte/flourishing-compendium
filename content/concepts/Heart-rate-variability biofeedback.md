@@ -12,7 +12,7 @@ Heart-rate-variability biofeedback (HRVB) is a training method in which a person
 
 ### How it is thought to work
 
-The seed note for this page credits vagal tone. Lehrer and Gevirtz are more specific: "The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor", with "the effect on the vagal afferent pathway to the frontal cortical areas" proposed more recently. So vagal pathways are one candidate, and the baroreflex account has more support in their review.
+The original entry note for this page credits vagal tone. Lehrer and Gevirtz are more specific: "The most supported possible mechanism is the strengthening of homeostasis in the baroreceptor", with "the effect on the vagal afferent pathway to the frontal cortical areas" proposed more recently. So vagal pathways are one candidate, and the baroreflex account has more support in their review.
 
 ### What the trials show
 

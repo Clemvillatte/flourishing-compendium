@@ -7,7 +7,7 @@ file: "Leadership research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-L"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter L", "parent": ""}
 ---
-Leadership research is the social-scientific study of leading: what leaders do, what effects they have, and under what conditions. The field's reviews map it by theory families rather than by a single definition. A 2009 Annual Review of Psychology survey by Bruce Avolio (the seed source's author), Fred Walumbwa and Todd Weber states the scope:
+Leadership research is the social-scientific study of leading: what leaders do, what effects they have, and under what conditions. The field's reviews map it by theory families rather than by a single definition. A 2009 Annual Review of Psychology survey by Bruce Avolio (the original entry source's author), Fred Walumbwa and Todd Weber states the scope:
 
 > "We begin by examining authentic leadership and its development, followed by work that takes a cognitive science approach. We then examine new-genre leadership theories, complexity leadership, and leadership that is shared, collective, or distributed." ([Avolio, Walumbwa and Weber 2009, abstract](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.60.110707.163621))
 

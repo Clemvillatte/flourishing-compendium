@@ -30,7 +30,7 @@ The same source says the Buddha also compared restlessness and worry to slavery,
 - [Dharmafarer, A 1.2 On the Abandoning of Hindrances (PDF)](https://www.themindingcentre.org/dharmafarer/wp-content/uploads/2009/12/16.3-Nivarana-Pahana-Vagga-a1.2-piya.pdf)
 - [The Jhanas in Theravada Buddhist Meditation (BuddhaSasana)](https://www.budsas.org/ebud/jhanas/jhanas03.htm)
 - [The Hindrance of Restlessness and Worry (Insight Meditation Center PDF)](https://www.insightmeditationcenter.org/wp-content/uploads/newsletters/pdf/07_2008.pdf)
-- The series' Book I: seed reference, not opened directly.
+- The series' Book I: original reference
 
 [[B034 — Know the five hindrances]]
 [[Y105 — Know the three strands]]

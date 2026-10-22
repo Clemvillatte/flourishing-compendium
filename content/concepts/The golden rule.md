@@ -9,13 +9,13 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The golden rule” — Confucius, The Analects.
 
-The golden rule names a family of sayings that tell people to treat others as they would wish to be treated, or not to treat them as they would not wish to be. This page compares two of the oldest textual forms in the seed: a line from the Analects and Hillel's answer in the Talmud. The sources are the Stanford Encyclopedia of Philosophy entry on Confucius (read via search excerpt) and the Talmud passage on Sefaria (opened). Neither the Analects nor the Talmud was read in the original language.
+The golden rule names a family of sayings that tell people to treat others as they would wish to be treated, or not to treat them as they would not wish to be. This page compares two of the oldest textual forms in the original entry: a line from the Analects and Hillel's answer in the Talmud. The sources are the Stanford Encyclopedia of Philosophy entry on Confucius (read via search excerpt) and the Talmud passage on Sefaria (opened). Neither the Analects nor the Talmud was read in the original language.
 
 ### The Analects
 
 The Stanford Encyclopedia gives the saying as: "Do not impose upon others those things that you yourself do not desire" (12.2, cf. 5.12, 15.24). It notes that the saying uses "a formulation similar to that of the 'Golden Rule' of the Christian Bible (Matthew 7:12 and Luke 6:31)". ([Stanford Encyclopedia, Confucius, section 4](https://plato.stanford.edu/entries/confucius/))
 
-The entry adds a caution. Read as an axiomatic moral imperative, this passage differs from the exemplar-based and situational conversations usual in the Analects, and some scholars, including E. Bruce Brooks, "believe these passages to be interpolations". It also warns that treating the saying as an abstract principle "has been influenced by their perceived similarity to the Biblical examples". The seed's compendium principle on reciprocity (shu) should be read with this in mind.
+The entry adds a caution. Read as an axiomatic moral imperative, this passage differs from the exemplar-based and situational conversations usual in the Analects, and some scholars, including E. Bruce Brooks, "believe these passages to be interpolations". It also warns that treating the saying as an abstract principle "has been influenced by their perceived similarity to the Biblical examples". The original entry's compendium principle on reciprocity (shu) should be read with this in mind.
 
 ### Hillel
 
@@ -25,7 +25,7 @@ In the Talmud (Shabbat 31a), a gentile asks to be taught the whole Torah while s
 
 ### How they compare
 
-Both formulations are negative: they forbid imposing what one dislikes. The seed marks Hillel's version as "inverted", but the sources opened do not show an inversion relative to the Analects, so this page does not repeat that label. The difference lies in context. Hillel gives the rule as a summary of the entire Torah, while in the Analects it is one saying among many about how a person of benevolence behaves.
+Both formulations are negative: they forbid imposing what one dislikes. The original entry marks Hillel's version as "inverted", but the sources opened do not show an inversion relative to the Analects, so this page does not repeat that label. The difference lies in context. Hillel gives the rule as a summary of the entire Torah, while in the Analects it is one saying among many about how a person of benevolence behaves.
 
 ### Limits
 

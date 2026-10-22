@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The fourth rule of method” — Descartes, Discourse on Method.
 
-In Part II of the Discourse on the Method, René Descartes reduces the many precepts of logic to four rules. The fourth is the one the seed names. This page quotes John Veitch's English translation from the Project Gutenberg text, which was opened.
+In Part II of the Discourse on the Method, René Descartes reduces the many precepts of logic to four rules. The fourth is the one the original entry names. This page quotes John Veitch's English translation from the Project Gutenberg text, which was opened.
 
 ### The rule
 

@@ -19,7 +19,7 @@ The Cambridge paper says patients with the same diagnosis "often show highly var
 
 ### What is not yet shown
 
-A psychiatric genetics paper says that "for the most part, treatment selection in psychiatric practice remains a trial-and-error proposition", and that two GWAS meta-analyses of antidepressant response (N > 2200) found no genome-wide significant associations, which suggests response is highly polygenic ([Psychiatric Genetics and the Future of Personalized Treatment, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632650/)). The seed's claim that "monitoring and adapting is more effective than one-size-fits-all" rests on Cheyne and Poulsen (2019) and Ferrer et al. (2020). I could not open either, and nothing I opened measures the effectiveness of monitoring and adapting, so treat that claim as unverified. For essays, the safer statement is the one the sources support: responses vary within a diagnosis, and matching treatments to individuals is an aim whose predictors are still being developed.
+A psychiatric genetics paper says that "for the most part, treatment selection in psychiatric practice remains a trial-and-error proposition", and that two GWAS meta-analyses of antidepressant response (N > 2200) found no genome-wide significant associations, which suggests response is highly polygenic ([Psychiatric Genetics and the Future of Personalized Treatment, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632650/)). The original entry's claim that "monitoring and adapting is more effective than one-size-fits-all" rests on Cheyne and Poulsen (2019) and Ferrer et al. (2020). I could not open either, and nothing I opened measures the effectiveness of monitoring and adapting, so treat that claim as unverified. For essays, the safer statement is the one the sources support: responses vary within a diagnosis, and matching treatments to individuals is an aim whose predictors are still being developed.
 
 ## Sources
 
@@ -29,8 +29,8 @@ A psychiatric genetics paper says that "for the most part, treatment selection i
 - [Pharmacogenomics and personalized medicine in neuropsychiatry (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3407812/)
 - [Precision psychiatry: predicting predictability (Cambridge)](https://www.cambridge.org/core/journals/psychological-medicine/article/precision-psychiatry-predicting-predictability/7A51DBDF832F47502DE677D0FE0A9BE6)
 - [Psychiatric Genetics and the Future of Personalized Treatment (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632650/)
-- Cheyne and Poulsen, 2019: seed reference, not opened directly.
-- Ferrer et al., 2020: seed reference, not opened directly.
+- Cheyne and Poulsen, 2019: original reference
+- Ferrer et al., 2020: original reference
 
 ## Cited in psychology parallels
 

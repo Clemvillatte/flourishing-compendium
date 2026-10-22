@@ -35,7 +35,7 @@ The authors proposed that biased attribution processes underlie perseverance phe
 
 - [Ross L, Lepper MR, Hubbard M (1975). Perseverance in self-perception and social perception: biased attributional processes in the debriefing paradigm. Journal of Personality and Social Psychology, 32(5):880-892](https://pubmed.ncbi.nlm.nih.gov/1185517/) — the original two-experiment demonstration.
 - [Lepper MR, Ross L, Lau RR (1986). Persistence of inaccurate beliefs about the self: perseverance effects in the classroom. Journal of Personality and Social Psychology, 50(3):482-491](https://pubmed.ncbi.nlm.nih.gov/3701590/) — the classroom replication, opened via the same search.
-- Anderson CA, Lepper MR, Ross L (1980). Perseverance of social theories: the role of explanation in the persistence of discredited information. Journal of Personality and Social Psychology, 39(6):1037-1049 — book citation carried from the seed; not independently opened this session.
+- Anderson CA, Lepper MR, Ross L (1980). Perseverance of social theories: the role of explanation in the persistence of discredited information. Journal of Personality and Social Psychology, 39(6):1037-1049 — book citation carried from the original entry
 - Ross et al., 1975
 - Anderson et al., 1980
 

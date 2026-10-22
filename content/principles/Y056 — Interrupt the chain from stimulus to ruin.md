@@ -42,4 +42,3 @@ A man notices he has spent an hour looking at a rival's page. He recognises the 
 ## Sources
 
 - [Bhagavad Gita 2.62 and 2.63 (Swami Mukundananda translation), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/2/verse/62/)
-- The inherited Kavanagh, Andrade and May (2005), Buddhist dependent-origination and Plato parallels were not opened and no claim here rests on them.

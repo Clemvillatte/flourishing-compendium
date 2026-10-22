@@ -39,7 +39,7 @@ The entry quotes Husserl on what the bracketing excludes:
 ## Sources
 
 - [Zahavi D. Edmund Husserl. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/husserl/) — the epoché section, opened for this page.
-- Husserl, Cartesian Meditations — book citation carried from the seed; not independently opened this session.
+- Husserl, Cartesian Meditations — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

@@ -15,7 +15,7 @@ An internal relation is a relation that enters into what its terms are. On the u
 
 ### What turns on it
 
-The chapter presents the doctrine carefully rather than absolutely: the relatednesses of an event are internal "so far as concerns that event, though not necessarily so far as concerns the other relata." The seed citation to Process and Reality marks the later, fuller development of the metaphysics. The everyday question the doctrine raises for a life is illustrative rather than demonstrated: if a person's relations were internal to them in this way, a life would not be a self that happens to have relationships but a self partly made of them.
+The chapter presents the doctrine carefully rather than absolutely: the relatednesses of an event are internal "so far as concerns that event, though not necessarily so far as concerns the other relata." The original entry citation to Process and Reality marks the later, fuller development of the metaphysics. The everyday question the doctrine raises for a life is illustrative rather than demonstrated: if a person's relations were internal to them in this way, a life would not be a self that happens to have relationships but a self partly made of them.
 
 ## Related concepts
 

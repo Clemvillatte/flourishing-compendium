@@ -30,7 +30,7 @@ For example (imagined): before a tense conversation with your sister, you remind
 
 - [Stanford Encyclopedia of Philosophy, Huayan Buddhism](https://plato.stanford.edu/entries/buddhism-huayan/), section 1.3
 - [Stanford Encyclopedia of Philosophy, The Kyoto School](https://plato.stanford.edu/entries/kyoto-school/), sections 3.2, 3.5
-- Nishitani, Religion and Nothingness, p. 148, as quoted in Qin, [Interpenetration on the Field of Śūnyatā](https://philarchive.org/archive/QINIOT-2) (secondary quotation; the book itself was not opened)
+- Nishitani, Religion and Nothingness, p. 148, as quoted in Qin, [Interpenetration on the Field of Śūnyatā](https://philarchive.org/archive/QINIOT-2) (secondary quotation)
 
 ## Psychology parallels
 

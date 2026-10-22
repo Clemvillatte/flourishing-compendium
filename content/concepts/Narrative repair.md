@@ -18,7 +18,7 @@ The IEP summary distinguishes two kinds of moral damage that can affect the cohe
 ## Sources
 
 - [Gotlib, Anna, "Feminist Ethics and Narrative Ethics", Internet Encyclopedia of Philosophy](https://iep.utm.edu/fem-e-n/) — the counterstory definition (quoting Lindemann 2001, p. 150), the narrative-constitution premise, and the two kinds of moral damage
-- Lindemann Nelson, Hilde, Damaged Identities, Narrative Repair, Cornell University Press, 2001 — the seed's citation; the book was not opened for this item
+- Lindemann Nelson, Hilde, Damaged Identities, Narrative Repair, Cornell University Press, 2001 — the original entry's citation
 
 [[V2K-S01 — Part I — Science-Backed Kernels]]
 [[ST227 — Tutu and the Truth Commission]]

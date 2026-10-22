@@ -47,7 +47,7 @@ The same article records the distinction Heidegger draws:
 
 - [Wrathall M. Martin Heidegger. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heidegger/) — the being-with summary, opened for this page.
 - [Wikipedia: Heideggerian terminology](https://en.wikipedia.org/wiki/Heideggerian_terminology) — the Being-with (Mitsein) definition and authentic/inauthentic distinction, opened for this page.
-- Heidegger, Being and Time — book citation carried from the seed; not independently opened this session.
+- Heidegger, Being and Time — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

@@ -44,9 +44,9 @@ For an illustration: someone who did not see a cake being eaten still expects th
 
 ## Sources
 
-- Baron-Cohen, 1995 — inherited seed reference; the book's proposal is summarised in the opened Wilkinson encyclopedia entry below.
+- Baron-Cohen, 1995 — inherited original reference; the book's proposal is summarised in the opened Wilkinson encyclopedia entry below.
 - Premack and Woodruff, 1978
-- Apperly, 2011 — inherited seed reference, consulted via search results only.
+- Apperly, 2011 — inherited original reference, consulted via search results only.
 - [Premack, D. and Woodruff, G. (1978), Behavioral and Brain Sciences 1(4), 515-526](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/does-the-chimpanzee-have-a-theory-of-mind/1E96B02CD9850016B7C93BC6D2FEF1D0) — origin of the term; definition passage at p. 515.
 - [Tanaka, S. (2015), Theory and Psychology 25(4), PMC5390942](https://pmc.ncbi.nlm.nih.gov/articles/PMC5390942/) — the opened carrier of the verbatim definition quote.
 - [Internet Encyclopedia of Philosophy, "Theory of Mind"](https://iep.utm.edu/theomind/) — false-belief task detail, Baron-Cohen Leslie Frith percentages, theory-theory versus simulation-theory framing, Apperly reading.

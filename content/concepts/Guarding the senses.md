@@ -20,7 +20,7 @@ The Dhammapada's chapter on the monk begins with restraint at each sense door:
 
 ### Indriya-samvara in the discourses
 
-The Pali term the seed uses, indriya-samvara, appears as "restraint over the sense faculties" in the Samannaphala Sutta (Digha Nikaya 2). Its account of how a monk guards the doors of his senses:
+The Pali term the original entry uses, indriya-samvara, appears as "restraint over the sense faculties" in the Samannaphala Sutta (Digha Nikaya 2). Its account of how a monk guards the doors of his senses:
 
 > On seeing a form with the eye, he does not grasp at any theme or details by which — if he were to dwell without restraint over the faculty of the eye — evil, unskillful qualities such as greed or distress might assail him.
 
@@ -30,10 +30,9 @@ The Pali term the seed uses, indriya-samvara, appears as "restraint over the sen
 
 Chapter 12 uses the same human facts for a different argument. Legge's verse rendering:
 
-> Colour's five hues from th' eyes their sight will take;
-> Music's five notes the ears as deaf can make;
-> The flavours five deprive the mouth of taste;
-
+> Colour's five hues from th' eyes their sight will take
+> Music's five notes the ears as deaf can make
+> The flavours five deprive the mouth of taste
 (Daodejing 12, trans. James Legge, [Project Gutenberg](https://www.gutenberg.org/cache/epub/216/pg216.txt).) Its prose line then says the sage "seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes." Here the worry is that overstimulation dulls the senses and feeds craving. This text does not mention evil qualities or a training sequence.
 
 ### What the two share, and where they differ

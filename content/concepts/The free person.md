@@ -34,7 +34,7 @@ The compendium reads the portrait as a practice target: the moments when one act
 - [Spinoza, Ethics Part IV (Elwes translation, Project Gutenberg)](https://www.gutenberg.org/ebooks/971) — Props. LXVII, LXX, LXXII verified verbatim
 - [SEP, Spinoza entry](https://plato.stanford.edu/entries/spinoza/)
 
-- de Beauvoir, The Ethics of Ambiguity (inherited citation, not opened this session)
+- de Beauvoir, The Ethics of Ambiguity
 
 ## Cited in philosophy parallels
 

@@ -41,4 +41,4 @@ Whom do you lift? How would your friends describe that?
 -->
 
 ## Sources
-- Seneca, Letters 7.7-7.8 ("On crowds"), tr. Richard Mott Gummere — opened and verified verbatim via the Wikisource API (page fetch rate-limited): https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_7
+- Seneca, Letters 7.7-7.8 ("On crowds"), tr. Richard Mott Gummere — verified verbatim via the Wikisource API (page fetch rate-limited): https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_7

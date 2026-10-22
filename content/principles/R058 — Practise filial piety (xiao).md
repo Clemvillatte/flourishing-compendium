@@ -18,7 +18,7 @@ Disagreement is allowed, gently. Analects 4.18: "In serving his parents, a son m
 
 In 4A19 Mencius says "the service of parents is the root of all others", and that "the charge of one's self is the root of all others". He contrasts "nourishing the mouth and body" with "nourishing the will" ([Mencius 4A19, Legge, via mengtzu.com](https://www.mengtzu.com/en/books/li-lou-i/4a-19)).
 
-The seed's "debt you owe" appears in none of these passages. Psychology describes reciprocal filial piety as "gratitude for their efforts in having raised them" ([Child Development](https://academic.oup.com/chidev/article/89/2/383/8263272)).
+The original entry's "debt you owe" appears in none of these passages. Psychology describes reciprocal filial piety as "gratitude for their efforts in having raised them" ([Child Development](https://academic.oup.com/chidev/article/89/2/383/8263272)).
 
 Berscheid (1994) and Mikulincer et al. (2005) are cited as unopened leads. The dual filial piety model separates reciprocal (love and care) from authoritarian (hierarchy and obedience) forms. A review of 17 studies of Chinese and Korean adolescents found reciprocal filial piety negatively associated with depression, anxiety and other symptoms, while authoritarian filial piety was not related to most symptoms ([Dual Filial Piety review](https://link.springer.com/article/10.1007/s40894-024-00234-2)). The depression pooling used cross-sectional data, so causation is not shown.
 

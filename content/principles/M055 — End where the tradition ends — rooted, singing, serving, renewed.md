@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "M — Mesoam
 ---
 > **Principle 55** — End where the tradition ends: rooted, singing, serving, renewed
 
-The Mesoamerican synthesis, stated as the final principle: a life rooted in place and people , honest about the slippery earth, making beauty against the fading (the tradition), carrying its share of the commons, mastering a craft as service, and renewing itself on the calendar's rhythm, with the in-between states named and used and the elders' counsel in the ears. The tradition's own summary of the good life is quieter than any formula: to have made one's face and heart, to have sung while here, to have left the field better. Practically, let the book end in its own counsel: choose one principle per layer, one practice per week, and begin.
+The Mesoamerican synthesis, stated as the final principle: a life rooted in place and people, honest about the slippery earth, making beauty against the fading (the tradition), carrying its share of the commons, mastering a craft as service, and renewing itself on the calendar's rhythm, with the in-between states named and used and the elders' counsel in the ears. The tradition's own summary of the good life is quieter than any formula: to have made one's face and heart, to have sung while here, to have left the field better. Practically, let the book end in its own counsel: choose one principle per layer, one practice per week, and begin.
 
 (The synthesis is editorial; the materials are the tradition's, as cited throughout.)
 

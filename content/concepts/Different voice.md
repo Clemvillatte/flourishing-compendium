@@ -39,7 +39,7 @@ In the retrospective's framing, what sounded feminine under one arrangement of v
 
 - Gilligan, In a Different Voice
 
-- [Gilligan, C., "Looking Back to Look Forward: Revisiting In a Different Voice" (Harvard Center for Hellenic Studies)](https://classics-at.chs.harvard.edu/classics9-carol-gilligan-looking-back-to-look-forward-revisiting-in-a-different-voice/) — supports all quoted passages; the 1982 book kept from the seed line, not opened this session
+- [Gilligan, C., "Looking Back to Look Forward: Revisiting In a Different Voice" (Harvard Center for Hellenic Studies)](https://classics-at.chs.harvard.edu/classics9-carol-gilligan-looking-back-to-look-forward-revisiting-in-a-different-voice/) — supports all quoted passages; the 1982 book kept from the original entry line
 
 [[R055 — Practise xin (trustworthinessintegrity)]]
 [[K380 — The Two Teachers: change the tone, keep the lesson]]

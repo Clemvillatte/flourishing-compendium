@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "S — Classi
 ---
 > **Principle 206** — Practise gratitude
 
-Marcus's first book is mostly a list of what he learned from particular people. Most entries start "From ...": "From my grandfather Verus I learned good morals and the government of my temper", and "From my mother, piety and beneficence" (Long's translation, Meditations I.1 and I.3). Only the closing section turns to explicit thanks: "To the gods I am indebted for having good grandfathers, good parents, a good sister, good teachers, good associates, good kinsmen and friends, nearly everything good" (I.17) ([Meditations Book 1, MIT Classics Archive](https://classics.mit.edu/Antoninus/meditations.1.one.html)). The list names specific people and says what each gave him, which is what makes it more than a mood.
+Marcus's first book is mostly a list of what he learned from particular people. Most entries start "From...": "From my grandfather Verus I learned good morals and the government of my temper", and "From my mother, piety and beneficence" (Long's translation, Meditations I.1 and I.3). Only the closing section turns to explicit thanks: "To the gods I am indebted for having good grandfathers, good parents, a good sister, good teachers, good associates, good kinsmen and friends, nearly everything good" (I.17) ([Meditations Book 1, MIT Classics Archive](https://classics.mit.edu/Antoninus/meditations.1.one.html)). The list names specific people and says what each gave him, which is what makes it more than a mood.
 
 (Med. I.1, I.3, I.5, I.11, I.15, I.16, I.17; Seneca, Letters 9, 31; Disc. I.6, I.9, I.14, III.24.)
 

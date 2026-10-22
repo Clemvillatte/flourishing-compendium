@@ -13,9 +13,9 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 
 RAIN is a four-step way of meeting a difficult emotion instead of fighting it. The acronym was first coined by Michele McDonald ([Brach, Mindful.org](https://www.mindful.org/tara-brach-rain-mindfulness-practice/)); Tara Brach presents the version below, and her guidebook to the practice is Radical Compassion. Her site introduces the tool as "an easy-to-remember tool for practicing mindfulness and compassion using the following four steps":
 
-> - Recognize what is happening;
-> - Allow the experience to be there, just as it is;
-> - Investigate with interest and care;
+> - Recognize what is happening
+> - Allow the experience to be there, just as it is
+> - Investigate with interest and care
 > - Nurture with self-compassion.
 > — [Tara Brach](https://www.tarabrach.com/rain/)
 

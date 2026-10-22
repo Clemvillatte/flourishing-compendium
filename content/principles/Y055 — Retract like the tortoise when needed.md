@@ -41,4 +41,3 @@ A man finds that scrolling in the evening is what winds him up. He puts the phon
 ## Sources
 
 - [Bhagavad Gita 2.58 and 2.59 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/2/verse/58/)
-- The inherited emotion-regulation, Laozi 9 and pratyahara parallels were not opened and no claim here rests on them.

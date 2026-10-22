@@ -18,7 +18,7 @@ The same study found that, regardless of the quality of experience, respondents 
 ## Sources
 
 - [Csikszentmihalyi, M. and LeFevre, J., "Optimal experience in work and leisure", Journal of Personality and Social Psychology 56(5), 1989, pp. 815-822, PubMed record 2724069](https://pubmed.ncbi.nlm.nih.gov/2724069/) — the abstract supplies the ESM design, the flow-vs-context finding, and the work-leisure motivation results quoted above
-- Csikszentmihalyi, Flow: The Psychology of Optimal Experience, 1990 — the seed's citation for the concept; the book was not opened for this item
+- Csikszentmihalyi, Flow: The Psychology of Optimal Experience, 1990 — the original entry's citation for the concept
 
 [[AT078 — Recognise the ultimate purpose of attention — to live well]]
 [[MO060 — Recognise the role of flow in motivated well-being]]

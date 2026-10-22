@@ -21,7 +21,7 @@ The passage names the contrast between being "anxious and troubled about many th
 
 ### In the compendium
 
-The principles below are linked by the compendium's seed citation, which calls Luke 10:42 a cultural parallel. The links include Y063 (Hold one practice to steady the mind) and SP090 (Center your life on the highest good). Whether those principles state the same idea as Luke is a question for the reader, and the passage itself does not decide it.
+The principles below are linked by the compendium's original citation, which calls Luke 10:42 a cultural parallel. The links include Y063 (Hold one practice to steady the mind) and SP090 (Center your life on the highest good). Whether those principles state the same idea as Luke is a question for the reader, and the passage itself does not decide it.
 
 ## Related concepts
 

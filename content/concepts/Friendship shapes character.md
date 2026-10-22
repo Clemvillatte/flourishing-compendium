@@ -49,7 +49,7 @@ It does not give a method for choosing friends, and it does not claim that frien
 ## Sources
 
 - [Aristotle, Nicomachean Ethics IX, trans. W. D. Ross, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.9.ix.html): chapters 4 and 12 read
-- The seed line lists no translator. The Ross translation is used here, and wording differs in other translations.
+- The original entry line lists no translator. The Ross translation is used here, and wording differs in other translations.
 
 [[R055 — Practise xin (trustworthinessintegrity)]]
 [[A078 — Recognise that the best friendship is between the good]]

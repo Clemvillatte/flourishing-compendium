@@ -7,7 +7,7 @@ file: "Master-slave dialectic"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-The master-slave dialectic (lordship and bondage) is Hegel's analysis of recognition in the Phenomenology of Spirit: self-consciousness exists only by being acknowledged by another self-consciousness, and the relation that develops between two who meet this requirement is the master-slave structure. The seed's claim, that the master's position secretly depends on the slave, is the argument's payoff: the master can consume what the slave produces only because the slave has worked on it, and the master's certainty about his own independence rests on a recognition he cannot supply himself.
+The master-slave dialectic (lordship and bondage) is Hegel's analysis of recognition in the Phenomenology of Spirit: self-consciousness exists only by being acknowledged by another self-consciousness, and the relation that develops between two who meet this requirement is the master-slave structure. The original entry's claim, that the master's position secretly depends on the slave, is the argument's payoff: the master can consume what the slave produces only because the slave has worked on it, and the master's certainty about his own independence rests on a recognition he cannot supply himself.
 
 The paper's statement of the key contrast, verbatim from the Baillie translation:
 

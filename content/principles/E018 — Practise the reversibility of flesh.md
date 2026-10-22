@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "E — Existe
 ---
 > **Principle 410** — Practise the reversibility of flesh
 
-> To begin with, we spoke summarily of a reversibility of the seeing and the visible, of the touching and the touched. It is time to emphasize that it is a reversibility always imminent and never realized in fact. My left hand is always on the verge of touching my right hand touching the things, but I never reach coincidence ...
+> To begin with, we spoke summarily of a reversibility of the seeing and the visible, of the touching and the touched. It is time to emphasize that it is a reversibility always imminent and never realized in fact. My left hand is always on the verge of touching my right hand touching the things, but I never reach coincidence...
 
 (Merleau-Ponty, The Visible and the Invisible, "The Intertwining—The Chiasm", trans. Lingis, Northwestern University Press, 1968, pp. 147-148, [chapter scan](https://doubleoperative.com/wp-content/uploads/2009/12/merleau-ponty-the-intertwining.pdf); page 147 is also given by [Wiskus](https://avant.edu.pl/wp-content/uploads/J_Wiskus-From_the_Body.pdf).)
 

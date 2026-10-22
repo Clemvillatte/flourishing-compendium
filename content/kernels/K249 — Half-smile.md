@@ -26,7 +26,7 @@ The skill itself is a DBT distress-tolerance and acceptance technique (Linehan's
 
 ### A guided version
 
-Not applicable: the practice is a facial posture held in life, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a facial posture held in life, not a recording.
 
 ## Operationalises
 

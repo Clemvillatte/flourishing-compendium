@@ -20,7 +20,7 @@ The empirical support I opened is thin. An overview of 20 systematic reviews on 
 
 ### Scope
 
-Whether "rapid" change harms health by itself, apart from the poverty, displacement or loss that often come with it, remains open in what I read. I did not open Inglehart and Welzel, Vanden Abeele or Valkenburg, and I found no source for the seed's village-to-city illness comparison.
+Whether "rapid" change harms health by itself, apart from the poverty, displacement or loss that often come with it, remains open in what I read. I did not open Inglehart and Welzel, Vanden Abeele or Valkenburg, and I found no source for the original entry's village-to-city illness comparison.
 
 **Plain words**
 Fast change can wear people down, and Rosa explains why. The better-supported protection is staying connected to people.

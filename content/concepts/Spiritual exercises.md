@@ -28,7 +28,7 @@ The named exercises Hadot keeps returning to include the Stoic premeditation of 
 ## Sources
 
 - [Internet Encyclopedia of Philosophy, "Pierre Hadot"](https://iep.utm.edu/hadot/) — the blockquote, and the premeditation-of-evils, mortality and view-from-above passages behind the summary sentences.
-- Hadot, Philosophy as a Way of Life — the seed's citation; the book itself was not opened this round.
+- Hadot, Philosophy as a Way of Life — the original entry's citation this round.
 
 ## Cited in philosophy parallels
 

@@ -48,7 +48,7 @@ The reason he gives is about the natural order of change. Whether this counts as
 - [Zhuangzi 18, "Perfect Enjoyment", trans. James Legge, Chinese Text Project](https://ctext.org/zhuangzi/perfect-enjoyment): passage read in the search excerpt
 - [Chuang Tzŭ, ch. 18, "Perfect Happiness", trans. Herbert A. Giles, Wikisource](https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_18): passage read in the search excerpt
 - [Stanford Encyclopedia of Philosophy, "Zhuangzi" (2012 archive)](https://plato.stanford.edu/archives/sum2012/entries/zhuangzi/): section 3.1, one-sentence summary of chapter 18
-- The seed line cites "drumming on the tub" without a translator. The English titles of the chapter differ by translator.
+- The original entry line cites "drumming on the tub" without a translator. The English titles of the chapter differ by translator.
 
 [[AF051 — Recognise the difference between sadness and depression]]
 [[A010 — Recognise that fortune can overturn happiness]]

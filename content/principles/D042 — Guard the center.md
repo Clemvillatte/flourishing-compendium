@@ -20,7 +20,7 @@ Don't swing with every impulse, news cycle, or mood. The sage keeps to the middl
 
 The line that gives the principle its wording is Legge's rendering of chapter 5:
 
-> "Much speech to swift exhaustion lead we see;
+> "Much speech to swift exhaustion lead we see
 > Your inner being guard, and keep it free." (DDJ 5, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 The same chapter compares the space between heaven and earth to a bellows — emptied, yet it "loses not its power". Chapter 29 then names what the center is guarded against: "Hence the sage puts away excessive effort, extravagance, and easy indulgence" (DDJ 29, Legge) — excess on every side, including the effortful one.

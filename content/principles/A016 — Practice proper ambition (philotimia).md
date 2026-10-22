@@ -38,7 +38,7 @@ People blame "the unambitious man as not willing to be honoured even for noble r
 - [[K253 — The mean calibration|K253 The mean calibration]]
 ## Psychology parallels
 
-- **Intrinsic versus extrinsic motivation**, extrinsic aspirations (fame, image) predict lower well-being (Kasser and ...)
+- **Intrinsic versus extrinsic motivation**, extrinsic aspirations (fame, image) predict lower well-being (Kasser and...)
 - **Need for approval and well-being** (Harter, 1999)
 
 ## Philosophy parallels

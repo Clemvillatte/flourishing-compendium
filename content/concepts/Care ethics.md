@@ -44,7 +44,7 @@ Ethics · Psychological science
 - Gilligan, C. (1982). In a Different Voice. Harvard University Press.
 - Noddings, N. (1984). Caring: A Relational Approach to Ethics and Moral Education. University of California Press.
 - [Wikipedia, Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care) — lead, Gilligan, assumptions, Noddings, Tronto elements, verbatim (opened)
-- [SEP, Feminist Ethics](https://plato.stanford.edu/entries/feminist-ethics/) — the tradition's placement, cited in the seed
+- [SEP, Feminist Ethics](https://plato.stanford.edu/entries/feminist-ethics/) — the tradition's placement, cited in the original entry
 
 ## Cited in philosophy parallels
 

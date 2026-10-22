@@ -15,7 +15,7 @@ One related model of visual attention is Eriksen and St. James's zoom-lens model
 
 ### What the lens means
 
-Their experiments asked whether advance cues could change the size of the attended region, whether widening it reduced processing efficiency, and whether resources declined gradually at its edge ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). The results, in the authors' summary, were in good agreement with the zoom lens model ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). Whether the seed's title maps onto this specific model is unresolved in the compendium; the seed cites no source.
+Their experiments asked whether advance cues could change the size of the attended region, whether widening it reduced processing efficiency, and whether resources declined gradually at its edge ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). The results, in the authors' summary, were in good agreement with the zoom lens model ([Eriksen and St. James, 1986, abstract](https://link.springer.com/article/10.3758/BF03211502)). Whether the original entry's title maps onto this specific model is unresolved in the compendium; the original entry cites no source.
 
 ### In the compendium
 

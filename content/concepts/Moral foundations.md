@@ -28,7 +28,7 @@ The theory sits on the social intuitionist insight that "Intuitionism: Intuition
 
 ### The political pattern
 
-The five foundations were partly built to explain moral disagreement across the political spectrum. The chapter's summary of the evidence: "In fact, care and fairness are valued highly across the political spectrum, with liberals on average endorsing them slightly more than conservatives. Loyalty, Authority, and Sanctity, in contrast, show a clear linear increase in importance moving from extreme liberals to extreme conservatives" ([Graham et al., 2013](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/863/files/2020/06/Graham-et-al-2013.AESP_.pdf)). The seed's framing — harm and fairness as the primary intuitions — describes the two foundations that both sides lean on; the rest of the list is where the divergence lives.
+The five foundations were partly built to explain moral disagreement across the political spectrum. The chapter's summary of the evidence: "In fact, care and fairness are valued highly across the political spectrum, with liberals on average endorsing them slightly more than conservatives. Loyalty, Authority, and Sanctity, in contrast, show a clear linear increase in importance moving from extreme liberals to extreme conservatives" ([Graham et al., 2013](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/1/863/files/2020/06/Graham-et-al-2013.AESP_.pdf)). The original entry's framing — harm and fairness as the primary intuitions — describes the two foundations that both sides lean on; the rest of the list is where the divergence lives.
 
 ### In the compendium
 

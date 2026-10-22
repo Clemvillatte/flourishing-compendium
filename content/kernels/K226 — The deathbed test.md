@@ -26,7 +26,7 @@ The research programme behind this kernel is Hal Hershfield's work on the future
 
 ### A guided version
 
-Not applicable: the test is a question asked of one's own judgment, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the test is a question asked of one's own judgment, not a recording.
 
 ## Operationalises
 

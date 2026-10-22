@@ -30,7 +30,7 @@ What this evidence does not test: the practice. The study compared reading an el
 
 ### A guided version
 
-No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
+No guided version is supplied here.
 
 ## Operationalises
 

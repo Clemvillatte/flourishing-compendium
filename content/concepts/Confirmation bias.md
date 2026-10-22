@@ -13,7 +13,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 Confirmation bias is the mind's habit of taking its own side. The opened overview defines it:
 
-> Confirmation bias ... is the tendency to search for, interpret, favor and recall information in a way that confirms or supports one's prior beliefs, values, or decisions. — [Wikipedia, Confirmation bias (opened)](https://en.wikipedia.org/wiki/Confirmation_bias)
+> Confirmation bias... is the tendency to search for, interpret, favor and recall information in a way that confirms or supports one's prior beliefs, values, or decisions. — [Wikipedia, Confirmation bias (opened)](https://en.wikipedia.org/wiki/Confirmation_bias)
 
 The bias shows up in what a person selects and in what a person reads into ambiguous evidence. Nickerson's 1998 review is titled "Confirmation bias: A ubiquitous phenomenon in many guises", and the overview describes the reach of the effect. Motivation has a hand in it. Ziva Kunda's account, as the overview summarizes it:
 

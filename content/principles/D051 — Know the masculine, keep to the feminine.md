@@ -15,10 +15,10 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 Chapter 28 of the Daodejing states its pattern three times: know the active strength, keep to the corresponding quiet side. The first stanza pairs knowing "his manhood's strength" with maintaining "his female feebleness". The one who does this becomes the channel into which "all beneath the sky" drains, and keeps the constant excellence: "The simple child again, free from all stains."
 
 > Who knows his manhood's strength,
->   Yet still his female feebleness maintains;
+>   Yet still his female feebleness maintains
 > As to one channel flow the many drains,
 >   All come to him, yea, all beneath the sky.
-> Thus he the constant excellence retains;
+> Thus he the constant excellence retains
 >   The simple child again, free from all stains.
 >
 > (Daodejing 28, Legge)

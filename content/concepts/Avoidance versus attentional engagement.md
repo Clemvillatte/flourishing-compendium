@@ -47,7 +47,7 @@ K017 "Find the still point that is not a withdrawal" frames a test in the compen
 - [Ekers, Webster, Van Straten, Cuijpers, Richards & Gilbody, "Behavioural Activation for Depression; An Update of Meta-Analysis of Effectiveness and Sub Group Analysis," PLOS ONE 9(6) (2014), e100100](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100100) — 26 RCTs, effect sizes, study-quality limits
 - [Cochrane news summary of Uphoff et al., "Behavioural activation therapy for depression in adults" (2020)](https://www.cochrane.org/about-us/news/featured-reviews-behavioural-activation-therapy-depression) — 53 studies, usual-care and CBT comparisons, certainty limits
 - [Jenness et al., "Behavioral Activation as a Principle-Based Treatment," Evidence-Based Practice in Child and Adolescent Mental Health 8(1) (2022), pp. 55-72](https://pmc.ncbi.nlm.nih.gov/articles/PMC12978239/) — avoidance as the primary mechanism, approach-focused goal setting
-- Martell et al., 2010 — original seed citation; not directly consulted
+- Martell et al., 2010 — original original citation; not directly consulted
 
 ## Cited in psychology parallels
 

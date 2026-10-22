@@ -32,7 +32,7 @@ Greenleaf's distinction is between servant-first and leader-first as "two extrem
 - Greenleaf, Robert K. "The Servant as Leader" (1970); Servant Leadership (1977). [Greenleaf Center overview with quoted passages](https://greenleaf.org/what-is-servant-leadership/)
 - Greenleaf, 1977
 - Greenleaf, Servant Leadership
-- Liden et al., 2008 (seed citation; the empirical model of the tradition)
+- Liden et al., 2008 (original citation; the empirical model of the tradition)
 
 ## Cited in psychology parallels
 

@@ -25,7 +25,7 @@ A scholarly chapter on performativity quotes Butler's Gender Trouble as saying t
 
 ### In the compendium
 
-The principles listed (E078, SO013, SO045, AF009 and ST253) draw on constructionist ideas about gender, culture and identity. The sources above establish what these three authors claim. They do not settle empirical questions about the relative roles of biology and culture, and none of them is cited here for such a result. The seed citations were not read in the originals: Bem is known here only through the publisher description, and Butler only through the secondary chapter.
+The principles listed (E078, SO013, SO045, AF009 and ST253) draw on constructionist ideas about gender, culture and identity. The sources above establish what these three authors claim. They do not settle empirical questions about the relative roles of biology and culture, and none of them is cited here for such a result. The original entry citations were not read in the originals: Bem is known here only through the publisher description, and Butler only through the secondary chapter.
 
 ## Related concepts
 

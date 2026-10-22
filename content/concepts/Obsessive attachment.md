@@ -7,7 +7,7 @@ file: "Obsessive attachment"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-This page follows the sense its citing principle uses: love that grips one thing so hard that it becomes absolute, and the rest of life is arranged around it. The seed's oldest witness is Augustine, who lost a friend in his youth and read his own collapse afterward as a diagnosis: his joy had rested entirely on something that could die.
+This page follows the sense its citing principle uses: love that grips one thing so hard that it becomes absolute, and the rest of life is arranged around it. The original entry's oldest witness is Augustine, who lost a friend in his youth and read his own collapse afterward as a diagnosis: his joy had rested entirely on something that could die.
 
 ### The perishable friend
 
@@ -30,8 +30,8 @@ Augustine's own explanation of why the grief reached "my very inmost soul" is th
 
 - [Augustine, Confessions, Book IV (E. B. Pusey translation), Project Gutenberg](https://www.gutenberg.org/cache/epub/77585/pg77585-images.html) — the death of the friend, wretchedness bound to perishable things, soul poured out on the dust.
 - [Simone de Beauvoir, The Ethics of Ambiguity, Part II (trans. Bernard Frechtman), marxists.org text](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch02.htm) — the passionate man, maniacal passions, the depopulated world.
-- Augustine, Confessions (seed citation, linked above).
-- Plato, Symposium (seed citation; not opened this session).
+- Augustine, Confessions (original citation, linked above).
+- Plato, Symposium (original citation).
 
 ## Cited in philosophy parallels
 

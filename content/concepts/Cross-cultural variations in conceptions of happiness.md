@@ -31,7 +31,7 @@ Mohsen Joshanloo's review compares accounts of happiness and optimal functioning
 ## Sources
 
 - Joshanloo, 2014
-- [Mohsen Joshanloo, Eastern Conceptualizations of Happiness: Fundamental Differences with Western Views (Journal of Happiness Studies 15:475-493, 2014), SpringerLink abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1) — the review's purpose and scope quoted above from the opened abstract (full text paywalled; the six differences are identified but not enumerated in the abstract)
+- [Mohsen Joshanloo, Eastern Conceptualizations of Happiness: Fundamental Differences with Western Views (Journal of Happiness Studies 15:475-493, 2014), SpringerLink abstract](https://link.springer.com/article/10.1007/s10902-013-9431-1) — the review's purpose and scope quoted above from the abstract (full text paywalled; the six differences are identified but not enumerated in the abstract)
 
 ## Cited in psychology parallels
 

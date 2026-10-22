@@ -28,7 +28,7 @@ Participation is the fitting stance toward what is mystery in this sense. Marcel
 ## Sources
 
 - [Treanor, Brian and Brendan Sweetman, "Gabriel (-Honoré) Marcel", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/marcel/) — the problem/mystery passage, the participation aspiration quote, the availability quotes (Marcel 1995, pp. 39-40).
-- Marcel, The Mystery of Being (seed citation; passages carried via the SEP article above).
+- Marcel, The Mystery of Being (original citation; passages carried via the SEP article above).
 
 ## Cited in philosophy parallels
 

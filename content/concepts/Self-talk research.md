@@ -7,7 +7,7 @@ file: "Self-talk research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-talk research studies what people say to themselves — its content, its functions, and its measurable effects on action. The seed study is Hardy, Hall and Hardy's 2005 quantification of athletes' self-talk; a 2011 meta-analysis pooled the intervention findings.
+Self-talk research studies what people say to themselves — its content, its functions, and its measurable effects on action. The original entry study is Hardy, Hall and Hardy's 2005 quantification of athletes' self-talk; a 2011 meta-analysis pooled the intervention findings.
 
 > "That the content of athlete self-talk was generally positive, covert and abbreviated lends support to the application of Vygotsky's (1986) verbal self-regulation theory to the study of self-talk in sport" (Hardy, Hall & Hardy, 2005, [abstract](https://pubmed.ncbi.nlm.nih.gov/16195042/)).
 

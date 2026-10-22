@@ -44,4 +44,3 @@ A manager keeps losing his temper at deadlines. Looking back, he sees it starts 
 ## Sources
 
 - [Bhagavad Gita 3.37, 16.21, 16.22 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/16/verse/21/)
-- The inherited Bickel (2014), Berkowitz, Epictetus and Buddhist three-poisons parallels were not opened and no claim here rests on them.

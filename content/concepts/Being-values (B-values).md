@@ -31,7 +31,7 @@ The same article gives Maslow's list of B-values with their associated terms, st
 ## Sources
 
 - [Wikipedia: Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) — the B-values list and being-cognition/deficiency-cognition distinction, opened for this page.
-- Maslow, Toward a Psychology of Being — book citation carried from the seed; not independently opened this session.
+- Maslow, Toward a Psychology of Being — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

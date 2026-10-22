@@ -30,7 +30,7 @@ For example (imagined): a friend says, "I think you'd be good at this", and the 
 
 ## Sources
 
-- Viktor Frankl, Man's Search for Meaning, pp. 111-115, as quoted on [Ed Batista's page](https://edbatista.com/2010/04/life.html) (a secondary reproduction; the book itself was not opened)
+- Viktor Frankl, Man's Search for Meaning, pp. 111-115, as quoted on [Ed Batista's page](https://edbatista.com/2010/04/life.html) (a secondary reproduction)
 - Diener & Seligman (2002), [Very happy people](https://pubmed.ncbi.nlm.nih.gov/11894851/), Psychological Science 13, 81-84, abstract
 
 ## Psychology parallels

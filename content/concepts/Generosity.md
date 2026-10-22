@@ -7,7 +7,7 @@ file: "Generosity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-G"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter G", "parent": ""}
 ---
-In Aristotle, generosity is the virtue he calls liberality, and it concerns wealth. Book IV of the Nicomachean Ethics (Ross translation) opens: "Let us speak next of liberality. It seems to be the mean with regard to wealth; for the liberal man is praised not in respect of military matters ... but with regard to the giving and taking of wealth, and especially in respect of giving." ([Aristotle, Nicomachean Ethics IV.1, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
+In Aristotle, generosity is the virtue he calls liberality, and it concerns wealth. Book IV of the Nicomachean Ethics (Ross translation) opens: "Let us speak next of liberality. It seems to be the mean with regard to wealth; for the liberal man is praised not in respect of military matters... but with regard to the giving and taking of wealth, and especially in respect of giving." ([Aristotle, Nicomachean Ethics IV.1, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html))
 
 ### Giving rightly, not just giving
 
@@ -15,7 +15,7 @@ Aristotle's test is the manner of the gift. The liberal man "will give for the s
 
 ### The two ways to miss
 
-Liberality is a mean, with "prodigality and meanness" as "excesses and defects with regard to wealth". Aristotle says "prodigality exceeds in giving and not taking, while meanness falls short in giving, and exceeds in taking". He judges the prodigal man "much better than the mean man ... because he benefits many while the other benefits no one, not even himself". He also says the liberal man "will refrain from giving to anybody and everybody, that he may have something to give to the right people", and "nor will he neglect his own property, since he wishes by means of this to help others".
+Liberality is a mean, with "prodigality and meanness" as "excesses and defects with regard to wealth". Aristotle says "prodigality exceeds in giving and not taking, while meanness falls short in giving, and exceeds in taking". He judges the prodigal man "much better than the mean man... because he benefits many while the other benefits no one, not even himself". He also says the liberal man "will refrain from giving to anybody and everybody, that he may have something to give to the right people", and "nor will he neglect his own property, since he wishes by means of this to help others".
 
 ### Why giving ranks above taking
 
@@ -35,7 +35,7 @@ The compendium pairs Aristotle's account with [[Prosocial spending]], the study 
 ## Sources
 
 - [Aristotle, Nicomachean Ethics, Book IV, chapter 1, trans. W. D. Ross, Internet Classics Archive (MIT)](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html): all quotations above
-- Further reading from the seed, not drawn on above: Spinoza's generositas; the series' Book II
+- Further reading from the original entry, not drawn on above: Spinoza's generositas; the series' Book II
 
 ## Cited in philosophy parallels
 

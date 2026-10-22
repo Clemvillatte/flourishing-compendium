@@ -7,7 +7,7 @@ file: "Fixed views of self"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-A fixed view of the self is the belief that who you are is a set quantity: abilities, worth or personality traits that cannot be grown. The seed names the two research lines behind the label, Dweck's implicit theories (2006) and Crocker's contingencies of self-worth (2002), and the shared prediction, the seed's own claim, is fragility: a self that must be proved rather than developed breaks when it is tested.
+A fixed view of the self is the belief that who you are is a set quantity: abilities, worth or personality traits that cannot be grown. The original entry names the two research lines behind the label, Dweck's implicit theories (2006) and Crocker's contingencies of self-worth (2002), and the shared prediction, the original entry's own claim, is fragility: a self that must be proved rather than developed breaks when it is tested.
 
 ### Two routes to fragility
 

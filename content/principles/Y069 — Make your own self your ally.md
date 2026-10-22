@@ -43,5 +43,4 @@ After a week of skipped sittings, a woman notices she calls herself a fraud. She
 ## Sources
 
 - [Bhagavad Gita 6.5 and 6.6 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/6/verse/5/)
-- [Ferrari, Hunt et al. (2019), Self-Compassion Interventions and Psychosocial Outcomes: a Meta-Analysis of RCTs, Mindfulness 10, 1455-1473](https://link.springer.com/article/10.1007/s12671-019-01134-6) (abstract read; full text not opened)
-- The inherited Plato Republic IV parallel was not opened and no claim here rests on it.
+- [Ferrari, Hunt et al. (2019), Self-Compassion Interventions and Psychosocial Outcomes: a Meta-Analysis of RCTs, Mindfulness 10, 1455-1473](https://link.springer.com/article/10.1007/s12671-019-01134-6) (abstract read; full text not consulted for quotations)

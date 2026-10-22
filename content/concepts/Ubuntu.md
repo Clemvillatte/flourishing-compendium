@@ -59,7 +59,7 @@ Ubuntu anchors the relational R-principles: R001 "I am because we are" states th
 - [[SE026]] — A principle on suffering as shared human material rather than a private defect
 ## Sources
 
-- [Wikipedia, Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) — original seed citation
+- [Wikipedia, Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy) — original original citation
 - [John S. Mbiti, African Religions and Philosophy (Heinemann, 1969), pp. 108-109](https://scholar.sun.ac.za/server/api/core/bitstreams/2890e98d-77ab-4395-ac16-d4e294d1a8ac/content) — the group/individual passage, quoted with context
 - [Desmond Tutu, No Future Without Forgiveness (Rider, 1999), pp. 31, 34-35](https://cepreaching.org/preaching-connections/reading/no-future-without-forgiveness-2/) — the humanity quotes; second verified excerpt in [Mbeki's 2005 speech](https://dirco1.azurewebsites.net/docs/speeches/2005/mbek1216.htm)
 - [Thaddeus Metz, "Ubuntu as a moral theory and human rights in South Africa," African Human Rights Law Journal 11(2) 2011, pp. 532-559](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962011000200011) — the reconstruction, the three objections, Makwanyane, "underlying motif of the Bill of Rights"

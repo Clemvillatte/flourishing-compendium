@@ -33,7 +33,7 @@ The compendium pairs this taxonomy with Buddhist affect theory, where the classi
 
 - [[Conatus]] — the striving that grounds desire and the whole taxonomy
 - [[The pendulum of desire]] — Schopenhauer's later, darker reading of the same wanting cycle
-- [[Y015 — Classify the mind's movements into five types]] — inherited principle link
+- [[Y015 — Classify the mind's movements into five types]] — principle link
 - [[Affects]] — the general theory Spinoza's taxonomy belongs to
 - [[Basic emotion theory]] — the modern psychological descendant of the project
 

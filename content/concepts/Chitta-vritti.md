@@ -40,6 +40,6 @@ Indian Philosophy · Contemplative science
 ## Sources
 
 - Patanjali. The Yoga Sutras, trans. Charles Johnston. [Project Gutenberg 2526](https://www.gutenberg.org/cache/epub/2526/pg2526.txt) — I.2, I.5, I.6 and commentary, verbatim (opened)
-- [Wikipedia, Vritti](https://en.wikipedia.org/wiki/Vritti) — listed in the seed
+- [Wikipedia, Vritti](https://en.wikipedia.org/wiki/Vritti) — listed in the original entry
 
 ## Cited in philosophy parallels

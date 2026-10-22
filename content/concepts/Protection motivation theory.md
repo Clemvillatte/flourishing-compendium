@@ -15,7 +15,7 @@ Protection motivation theory (PMT) is Ronald Rogers's account of how fear appeal
 
 ### The two appraisals
 
-The same article describes each process: "Threat appraisal is a process of estimating the severity and vulnerability of a threat, while coping appraisal refers to the process of evaluating the response efficacy and self-efficacy of the individual who is exposed to the threat". Coping appraisal further includes response barriers, which "emphasize the potential costs of coping mechanisms such as time, effort, money, etc.". The seed line above compresses the point into severity plus vulnerability plus efficacy.
+The same article describes each process: "Threat appraisal is a process of estimating the severity and vulnerability of a threat, while coping appraisal refers to the process of evaluating the response efficacy and self-efficacy of the individual who is exposed to the threat". Coping appraisal further includes response barriers, which "emphasize the potential costs of coping mechanisms such as time, effort, money, etc.". The original entry line above compresses the point into severity plus vulnerability plus efficacy.
 
 ### In the compendium
 

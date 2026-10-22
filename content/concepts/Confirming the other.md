@@ -34,7 +34,7 @@ The same entry gives the setting the confirmation depends on:
 ## Sources
 
 - [Zank M, Braiterman Z. Martin Buber. Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/buber/) — the distance-and-relation confirmation passages, opened for this page.
-- Buber, I and Thou — book citation carried from the seed; not independently opened this session.
+- Buber, I and Thou — book citation carried from the original entry
 
 ## Cited in philosophy parallels
 

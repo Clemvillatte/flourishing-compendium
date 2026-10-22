@@ -7,7 +7,7 @@ file: "Self as construction"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-The self as construction is the view that a person's sense of who they are is assembled from experience, memory and social interaction, not discovered as a fixed essence. The seed cites Markus and Wurf (1987) and Baumeister (1998). Markus and Wurf state the position most directly:
+The self as construction is the view that a person's sense of who they are is assembled from experience, memory and social interaction, not discovered as a fixed essence. The original entry cites Markus and Wurf (1987) and Baumeister (1998). Markus and Wurf state the position most directly:
 
 > "There is not a fixed or static self, but only a current self-concept constructed from one's social experiences." (Markus and Wurf, 1987, Annual Review of Psychology 38:299-337, p. 306, [PDF](https://www.annualreviews.org/doi/pdf/10.1146/annurev.ps.38.020187.001503))
 

@@ -17,7 +17,7 @@ The meta-analysis defines the hypothesis as the claim that "an increase in the n
 
 ### In the compendium
 
-The page's seed wording, "though the effect's magnitude is debated," matches the two abstracts. Neither abstract uses the phrase "paradox of choice" itself, so this page does not trace the label to its source. Principles such as CO043 (overthinking can be worse than deciding) and MO053 (good enough enables action) draw practical lessons, and neither source tests those lessons.
+The page's original wording, "though the effect's magnitude is debated," matches the two abstracts. Neither abstract uses the phrase "paradox of choice" itself, so this page does not trace the label to its source. Principles such as CO043 (overthinking can be worse than deciding) and MO053 (good enough enables action) draw practical lessons, and neither source tests those lessons.
 
 ## Related concepts
 

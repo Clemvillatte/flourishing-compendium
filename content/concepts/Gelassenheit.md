@@ -57,7 +57,7 @@ In the "Memorial Address" of 1955 Heidegger brings the same disposition to techn
 - [Upaya Reader on Shikantaza](https://www.upaya.org/uploads/pdfs/shikantazanreader.pdf) — just sitting as objectless meditation, elaborated by Dogen.
 - [Griffioen, "Meister Eckhart," Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/meister-eckhart/) — Eckhart's use of gelâzenheit as a negative virtue; the "without a why" and Sermon 5b material; Heidegger's adaptation of the term.
 - [Minerva vol. 10, "Heidegger on Gelassenheit"](https://minerva.mic.ul.ie/vol10/Heidegger.html) — the Conversation's waiting and non-willing; the Memorial Address's releasement toward things and openness to the mystery, with the quoted page references.
-- [Wikipedia: Gelassenheit](https://en.wikipedia.org/wiki/Gelassenheit) — the seed's original source, retained.
+- [Wikipedia: Gelassenheit](https://en.wikipedia.org/wiki/Gelassenheit) — the original entry's original source, retained.
 
 ## Cited in philosophy parallels
 

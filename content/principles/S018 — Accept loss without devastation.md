@@ -49,4 +49,4 @@ How might this principle fail people who have been robbed, abused or wronged? Wh
 -->
 
 ## Sources
-- Epictetus, Enchiridion 11 and 15, tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Epictetus, Enchiridion 11 and 15, tr. George Long — verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html

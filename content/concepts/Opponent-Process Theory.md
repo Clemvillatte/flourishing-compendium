@@ -15,7 +15,7 @@ In Solomon's 1980 account, the primary process (a) "in turn arouses a b process 
 
 ### What repetition does
 
-Solomon's third postulate: "The primary hedonic process aroused by onset of a reinforcer remains unchanged when the reinforcer is repeatedly presented. In contrast, the opponent hedonic process is strengthened by use and weakened by disuse." The fourth adds a condition: strengthening occurs only if the opponent process is aroused again "at inter-reinforcer time intervals less than the time interval required to allow the opponent process to decay to some near-neutral baseline value" (same PDF). The seed's "dominate" is looser than this. The source says the opponent process grows and the primary one stays the same, so the net feeling shifts as b grows.
+Solomon's third postulate: "The primary hedonic process aroused by onset of a reinforcer remains unchanged when the reinforcer is repeatedly presented. In contrast, the opponent hedonic process is strengthened by use and weakened by disuse." The fourth adds a condition: strengthening occurs only if the opponent process is aroused again "at inter-reinforcer time intervals less than the time interval required to allow the opponent process to decay to some near-neutral baseline value" (same PDF). The original entry's "dominate" is looser than this. The source says the opponent process grows and the primary one stays the same, so the net feeling shifts as b grows.
 
 ### Use in addiction research
 

@@ -7,7 +7,7 @@ file: "Self-determined personality growth"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-"Self-determined personality growth" is the wiki's label, not a term I found in the sources opened. The seed cites "Deci and Ryan, 2000", which probably points to the self-determination theory (SDT) paper listed in PubMed as Ryan and Deci (2000), in American Psychologist: "Human beings can be proactive and engaged or, alternatively, passive and alienated, largely as a function of the social conditions in which they develop and function." Research "has focused on the social-contextual conditions that facilitate versus forestall the natural processes of self-motivation and healthy psychological development". The abstract postulates "three innate psychological needs--competence, autonomy, and relatedness--which when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being" ([Ryan and Deci, Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being, PubMed](https://pubmed.ncbi.nlm.nih.gov/11392867/)). Whether this is the exact paper the seed meant is unconfirmed, because the seed gives no title.
+"Self-determined personality growth" is the wiki's label, not a term I found in the sources opened. The original entry cites "Deci and Ryan, 2000", which probably points to the self-determination theory (SDT) paper listed in PubMed as Ryan and Deci (2000), in American Psychologist: "Human beings can be proactive and engaged or, alternatively, passive and alienated, largely as a function of the social conditions in which they develop and function." Research "has focused on the social-contextual conditions that facilitate versus forestall the natural processes of self-motivation and healthy psychological development". The abstract postulates "three innate psychological needs--competence, autonomy, and relatedness--which when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being" ([Ryan and Deci, Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being, PubMed](https://pubmed.ncbi.nlm.nih.gov/11392867/)). Whether this is the exact paper the original entry meant is unconfirmed, because the original entry gives no title.
 
 ### Growth over the lifespan
 
@@ -22,7 +22,7 @@ Both are correlational designs in specific samples, and the authors describe age
 - [Ryan and Deci 2000, Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being (PubMed)](https://pubmed.ncbi.nlm.nih.gov/11392867/)
 - [Sheldon and Kasser 2001, Getting Older, Getting Better? (ERIC)](https://eric.ed.gov/?id=EJ637760)
 - [Does autonomy increase with age? (PDF)](http://selfdeterminationtheory.org/SDT/documents/2006_SheldonHouserKasser_JRP.pdf)
-- Deci and Ryan, 2000: seed reference; title not given, matched to the PubMed record above by authors and year only.
+- Deci and Ryan, 2000: original reference; title not given, matched to the PubMed record above by authors and year only.
 
 ## Cited in psychology parallels
 

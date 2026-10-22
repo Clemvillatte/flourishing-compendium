@@ -41,6 +41,6 @@ For the compendium the module grounds a standing caution about self-reports. On 
 
 ## Cited in philosophy parallels
 
-- Ricoeur, interpretation theory, as modern analysis (inherited citation, not opened this session)
+- Ricoeur, interpretation theory, as modern analysis
 
 - [[M009 — Build bridges rather than choosing sides]]

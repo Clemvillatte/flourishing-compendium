@@ -15,11 +15,11 @@ Symptoms are nodes and causal links are the connections between them. An article
 
 ### A worked example
 
-A Nature Reviews article gives a case: sleep problems induce fatigue, which can lead to anhedonia and sustained low energy. In people whose symptoms are sufficiently connected, this dynamic "can remain even after the triggering event has diminished" ([Systems-based thinking in psychology and the mental health sciences, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10171725/pdf/44159_2023_Article_193.pdf)). That is the sense of the seed phrase "mutually reinforcing".
+A Nature Reviews article gives a case: sleep problems induce fatigue, which can lead to anhedonia and sustained low energy. In people whose symptoms are sufficiently connected, this dynamic "can remain even after the triggering event has diminished" ([Systems-based thinking in psychology and the mental health sciences, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10171725/pdf/44159_2023_Article_193.pdf)). That is the sense of the original entry phrase "mutually reinforcing".
 
 ### Cautions
 
-The theory is framed as a hypothesis about causal structure. McNally and colleagues call computational methods for finding it "emerging", and a Frontiers commentary proposes an expanded approach in which nodes include biological and cognitive processes as well as symptoms ([Frontiers commentary](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01305/full)). The seed line "not latent disease entities" states the theory's claim, not a settled finding.
+The theory is framed as a hypothesis about causal structure. McNally and colleagues call computational methods for finding it "emerging", and a Frontiers commentary proposes an expanded approach in which nodes include biological and cognitive processes as well as symptoms ([Frontiers commentary](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01305/full)). The original entry line "not latent disease entities" states the theory's claim, not a settled finding.
 ## Related concepts
 
 

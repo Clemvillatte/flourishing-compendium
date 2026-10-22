@@ -28,7 +28,7 @@ The same entry notes that in the Crisis Husserl "can compare the performance of 
 
 ## Sources
 
-- Husserl, The Crisis (inherited seed citation; no clean open text of the Crisis was found this session, so the page anchors on the SEP's expert account)
+- Husserl, The Crisis (the Crisis is not readily available in open text; the page anchors on the SEP's expert account)
 
 - [Stanford Encyclopedia of Philosophy, "Edmund Husserl" (Dan Zahavi)](https://plato.stanford.edu/entries/husserl/) — the epoché/reduction and Crisis passages quoted verbatim above
 

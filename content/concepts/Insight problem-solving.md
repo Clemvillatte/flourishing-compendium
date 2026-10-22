@@ -13,7 +13,7 @@ Insight problem-solving is solving by sudden reinterpretation, not by step-by-st
 
 An earlier overview by the same authors says "insights are often the result of the reorganization or restructuring of the elements of a situation or problem, though an insight may occur in the absence of any preexisting interpretation". It contrasts insight with "deliberate, conscious search strategies", since "insights occur when a solution is computed unconsciously and later emerges into awareness suddenly" ([Kounios and Beeman, The Aha! Moment, Northwestern-hosted PDF](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/a/699/files/2015/11/Aha-The-cognitive-neuroscience-of-insight-2895xqe.pdf)).
 
-Ohlsson's representational change theory explains why restructuring is needed. A review in PMC describes it: prior knowledge and experience are "postulated to hamper (instead of promote) the generation of solutions since they easily turn into constraints", and "an impasse... is the precondition for a representational change that results in an insight" ([Intuition and Insight: Two Processes That Build on Each Other or ..., PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5020639/)). In the nine-dot problem, the realisation that moves beyond the imagined square are allowed "may lead to the relaxation of the perceptually driven boundary constraints".
+Ohlsson's representational change theory explains why restructuring is needed. A review in PMC describes it: prior knowledge and experience are "postulated to hamper (instead of promote) the generation of solutions since they easily turn into constraints", and "an impasse... is the precondition for a representational change that results in an insight" ([Intuition and Insight: Two Processes That Build on Each Other or..., PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5020639/)). In the nine-dot problem, the realisation that moves beyond the imagined square are allowed "may lead to the relaxation of the perceptually driven boundary constraints".
 
 ### What the brain does
 
@@ -25,7 +25,7 @@ The definition is not settled. A PMC article notes that insight is variously tak
 
 ### Scope for the essays
 
-The seed's phrase "hypothesis generation" is not in the Kounios and Beeman abstract; restructuring and reinterpretation are. Claims about meditation or koans belong to other pages and are not supported by these sources.
+The original entry's phrase "hypothesis generation" is not in the Kounios and Beeman abstract; restructuring and reinterpretation are. Claims about meditation or koans belong to other pages and are not supported by these sources.
 
 ## Facets
 
@@ -41,7 +41,7 @@ The seed's phrase "hypothesis generation" is not in the Kounios and Beeman abstr
 
 - [Kounios and Beeman, "The cognitive neuroscience of insight", Annual Review of Psychology 65, 71-93, 2014 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/24405359/)
 - [Kounios and Beeman, "The Aha! Moment: The Cognitive Neuroscience of Insight" (PDF)](https://cpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/a/699/files/2015/11/Aha-The-cognitive-neuroscience-of-insight-2895xqe.pdf)
-- [Intuition and Insight: Two Processes That Build on Each Other or ... (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5020639/)
+- [Intuition and Insight: Two Processes That Build on Each Other or... (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5020639/)
 - [Kounios et al., "The prepared mind: neural activity prior to problem presentation predicts subsequent solution by sudden insight" (PubMed)](https://pubmed.ncbi.nlm.nih.gov/17100789/)
 - [The irreconcilability of insight (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10907412/)
 - [Why My "Aha!" Is Your "Hmm..." (Cambridge chapter summary)](https://www.cambridge.org/core/books/abs/emergence-of-insight/why-my-aha-is-your-hmm/18DB35E0026E19CE2C20B29776E7E616)

@@ -57,5 +57,5 @@ Sociocultural · Psychological science
 [[SO006 — Treat the social environment as a designable context]]
 ## Sources
 
-- [Höijer, B. (2011), "Social Representations Theory — A New Theory for Media Research", Nordicom Review 32(2), 3-16 (GUPEA open PDF)](https://gupea.ub.gu.se/bitstreams/a39614be-a7ca-47fe-b7ac-52c72b55afca/download) — the twofold-function definition (quoting Moscovici 1973, p. xiii), the anchoring/objectification mechanisms, the subforms, and the objectification line (quoting Moscovici 1984, p. 38); PDF opened this session
-- [Wikipedia, "Social representation"](https://en.wikipedia.org/wiki/Social_representation) — the 1961 origin, the reified/consensual universes, the three French milieus, the Durkheim lineage, and the status notes; raw HTML opened this session
+- [Höijer, B. (2011), "Social Representations Theory — A New Theory for Media Research", Nordicom Review 32(2), 3-16 (GUPEA open PDF)](https://gupea.ub.gu.se/bitstreams/a39614be-a7ca-47fe-b7ac-52c72b55afca/download) — the twofold-function definition (quoting Moscovici 1973, p. xiii), the anchoring/objectification mechanisms, the subforms, and the objectification line (quoting Moscovici 1984, p. 38); publisher PDF
+- [Wikipedia, "Social representation"](https://en.wikipedia.org/wiki/Social_representation) — the 1961 origin, the reified/consensual universes, the three French milieus, the Durkheim lineage, and the status notes; raw HTML

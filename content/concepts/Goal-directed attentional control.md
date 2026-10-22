@@ -12,7 +12,7 @@ Goal-directed attentional control is attention steered by what you are trying to
 
 ### Can a plan help it?
 
-The seed claims that setting intentions improves attentional selection and reduces distraction. Gollwitzer's 1999 review of implementation intentions, the "if situation X, then I will do Y" plans, supports a careful version of that claim. In his distraction studies, participants did arithmetic while award-winning commercials played at random intervals:
+The original entry claims that setting intentions improves attentional selection and reduces distraction. Gollwitzer's 1999 review of implementation intentions, the "if situation X, then I will do Y" plans, supports a careful version of that claim. In his distraction studies, participants did arithmetic while award-winning commercials played at random intervals:
 
 > Simple goal intentions ("I will not let myself get distracted!") were less effective in protecting participants from these distractions (measured as level of performance on the task at hand) than goal intentions that are furnished with implementation intentions.
 
@@ -22,7 +22,7 @@ The wording of the plan mattered. Plans phrased as distraction-inhibiting ("When
 
 ### How far the evidence goes
 
-Gollwitzer summarises the mechanism as follows: "Implementation intentions delegate the control of goal-directed behaviors to specified anticipated environmental stimuli." That is a form of goal-directed control that runs through a cue, with less effort in the moment. The 1999 paper is a review of mostly laboratory tasks. A later meta-analysis of 94 studies found a medium-to-large effect of implementation intentions on goal achievement (d = .65), and described them as effective in "protecting ongoing efforts from distractions" ([Gollwitzer & Sheeran, 2006, abstract](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)). Those results are about goal pursuit generally. Shelton and Alain (2014), cited in the seed, was not located or opened, so nothing here rests on it.
+Gollwitzer summarises the mechanism as follows: "Implementation intentions delegate the control of goal-directed behaviors to specified anticipated environmental stimuli." That is a form of goal-directed control that runs through a cue, with less effort in the moment. The 1999 paper is a review of mostly laboratory tasks. A later meta-analysis of 94 studies found a medium-to-large effect of implementation intentions on goal achievement (d = .65), and described them as effective in "protecting ongoing efforts from distractions" ([Gollwitzer & Sheeran, 2006, abstract](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021)). Those results are about goal pursuit generally. Shelton and Alain (2014), cited in the original entry, was not located or opened, so nothing here rests on it.
 
 ### In the compendium
 
@@ -47,7 +47,7 @@ Gollwitzer summarises the mechanism as follows: "Implementation intentions deleg
 - [Corbetta, M., & Shulman, G. L. (2002). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews Neuroscience, 3(3), 201-215](https://pubmed.ncbi.nlm.nih.gov/11994752/): abstract only
 - [Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. American Psychologist, 54(7), 493-503](https://kops.uni-konstanz.de/server/api/core/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/content): full text read
 - [Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021): abstract only
-- Shelton & Alain (2014), listed in the seed: not located, not used.
+- Shelton & Alain (2014), listed in the original entry: not located, not used.
 
 ## Cited in psychology parallels
 

@@ -32,7 +32,7 @@ Support helps, with limits. In a randomised weight-loss trial, 95% of people rec
 - [Zhang et al. (2016), Preventive Medicine Reports 4, 453-458](https://escholarship.org/content/qt97q266wf/qt97q266wf.pdf)
 ## Psychology parallels
 
-- **[[Social influences on motivation|Social influences on motivation]]**, observed goals, descriptive norms and support affect pursuit (Aarts et al., 2004; Goldstein et al., 2008; Festinger, 1954 and Cialdini, 2001 are bare references, not opened)
+- **[[Social influences on motivation|Social influences on motivation]]**, observed goals, descriptive norms and support affect pursuit (Aarts et al., 2004; Goldstein et al., 2008; Festinger, 1954 and Cialdini, 2001 are bare references)
 - **Social support and goal pursuit**, recruiting with friends plus a support programme raised completion and maintenance in one weight-loss trial (Wing & Jeffery, 1999); support-only teams did not raise exercise attendance in another trial (Zhang et al., 2016)
 
 ## Philosophy parallels

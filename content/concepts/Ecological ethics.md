@@ -7,7 +7,7 @@ file: "Ecological ethics"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-E"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
-Ecological ethics extends moral consideration beyond human society to the living and non-living parts of the natural world. The seed's source is Aldo Leopold's A Sand County Almanac, whose land ethic states the criterion in one sentence:
+Ecological ethics extends moral consideration beyond human society to the living and non-living parts of the natural world. The original entry's source is Aldo Leopold's A Sand County Almanac, whose land ethic states the criterion in one sentence:
 
 > "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise." (Leopold 1949, quoted by the [Aldo Leopold Foundation](https://www.aldoleopold.org/blogs/fishes-of-the-shack))
 
@@ -38,4 +38,4 @@ On the Foundation's summary of the philosophy, Leopold "expands the concepts of 
 
 - this volume, Section IX
 
-- [Aldo Leopold Foundation, "Fishes of the Shack"](https://www.aldoleopold.org/blogs/fishes-of-the-shack) — the land-ethic passage verbatim with its Leopold 1949 attribution; the book itself was not opened in this session
+- [Aldo Leopold Foundation, "Fishes of the Shack"](https://www.aldoleopold.org/blogs/fishes-of-the-shack) — the land-ethic passage verbatim with its Leopold 1949 attribution

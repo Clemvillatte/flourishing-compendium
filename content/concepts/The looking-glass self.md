@@ -39,7 +39,7 @@ The compendium's use is both insight and caution. The insight is that the self i
 
 - Cooley, Human Nature and the Social Order
 
-- Mead, 1934 (inherited citation, not opened this session)
+- Mead, 1934
 
 ## Field
 
@@ -56,6 +56,6 @@ Sociocultural · Psychological science
 
 ## Cited in psychology parallels
 
-- Cooley, 1902; Mead, 1934 (inherited citations)
+- Cooley, 1902; Mead, 1934 (cited at second hand)
 
 "Reflected self" — Cooley, 1902; Mead, 1934.

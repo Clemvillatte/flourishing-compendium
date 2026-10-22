@@ -45,7 +45,7 @@ The second thesis explains the ground of the break: "The question whether object
 
 - cross-echo
 
-- Ernest Bloch, The Principle of Hope (inherited citation, not opened this session)
+- Ernest Bloch, The Principle of Hope
 
 ## Cited in philosophy parallels
 

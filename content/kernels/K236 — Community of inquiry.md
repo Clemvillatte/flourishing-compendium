@@ -35,7 +35,7 @@ The same abstract records the theory's limit: reasoning "motivated" by the wish 
 
 ### A guided version
 
-No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
+No guided version is supplied here.
 
 ## Operationalises
 

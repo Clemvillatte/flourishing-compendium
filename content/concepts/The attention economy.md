@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 mere smartphone presence reduces cognitive capacity (Ward et al., 2017).
 
-The seed states as settled a finding that is contested. Ward and colleagues reported it in two experiments. Later replications and meta-analyses disagree about whether it holds, so this page presents it as an influential but unresolved result. The seed also bears on the "attention economy" as a concept, which the study does not test. It concerns one effect of a phone being nearby, not the market for attention.
+The original entry states as settled a finding that is contested. Ward and colleagues reported it in two experiments. Later replications and meta-analyses disagree about whether it holds, so this page presents it as an influential but unresolved result. The original entry also bears on the "attention economy" as a concept, which the study does not test. It concerns one effect of a phone being nearby, not the market for attention.
 
 ### The original study
 
@@ -29,7 +29,7 @@ The evidence does not support a firm claim that a phone on the desk costs workin
 
 ### What this page does not claim
 
-Simon's argument that information consumes attention, which the seed's related-concept line attributes to this idea, was not opened here, and the market side of the attention economy is not covered.
+Simon's argument that information consumes attention, which the original entry's related-concept line attributes to this idea, was not opened here, and the market side of the attention economy is not covered.
 
 ### In the compendium
 

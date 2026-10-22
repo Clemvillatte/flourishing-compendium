@@ -20,7 +20,7 @@ The chronobiology claim is mixed. A systematic review found a synchrony effect, 
 
 ### Scope
 
-I did not open a source on cortisol rhythms, so the seed's cortisol claim is omitted. Thoreau's "hour of the gods" is also not quoted here. The sixty-minute rule is the compendium's practice, not his.
+I did not open a source on cortisol rhythms, so the original entry's cortisol claim is omitted. Thoreau's "hour of the gods" is also not quoted here. The sixty-minute rule is the compendium's practice, not his.
 
 **Plain words**
 Thoreau ties being awake to being alive, and he finds that attention is freshest early. Research does not show that mornings suit everyone, so protect the hour when you think best.

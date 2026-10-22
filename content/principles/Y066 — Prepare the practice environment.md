@@ -12,7 +12,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 ---
 > **Principle 66** — Prepare the practice environment
 
-Krishna's setup instructions in the sixth chapter of the Gita are brief. In Arnold's translation: "In a fair, still spot having his fixed abode, not too much raised, nor yet too low, let him abide, his goods a cloth, a deerskin, and the Kusa-grass. There, setting hard his mind upon The One, restraining heart and senses, silent, calm, let him accomplish Yoga" (Bhagavad-Gita ch. 6, trans. Arnold). The same passage asks him to sit "sequestered ... solitary, his thoughts controlled", holding "immovable body and neck and head" (ch. 6, Arnold).
+Krishna's setup instructions in the sixth chapter of the Gita are brief. In Arnold's translation: "In a fair, still spot having his fixed abode, not too much raised, nor yet too low, let him abide, his goods a cloth, a deerskin, and the Kusa-grass. There, setting hard his mind upon The One, restraining heart and senses, silent, calm, let him accomplish Yoga" (Bhagavad-Gita ch. 6, trans. Arnold). The same passage asks him to sit "sequestered... solitary, his thoughts controlled", holding "immovable body and neck and head" (ch. 6, Arnold).
 
 ### The posture in the Yoga Sutras
 

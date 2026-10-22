@@ -36,8 +36,8 @@ The same family of instruction appears in the Chan and Zen tradition's "no-thoug
 ## Sources
 
 - [Wikipedia: Tilopa](https://en.wikipedia.org/wiki/Tilopa) — Tilopa's Six Words of Advice in Ken McLeod's translation (literal and explanatory), with the Tibetan originals; the source of the verbatim six words for this page.
-- [Wikipedia: Zazen](https://en.wikipedia.org/wiki/Zazen) — the aim-of-zazen sentence, opened and fetched verbatim for the wider instruction family.
-- The tradition's own commentary; this book's rendering — carried from the seed; the tradition identified as Tilopa's instruction to Naropa (Mahamudra transmission).
+- [Wikipedia: Zazen](https://en.wikipedia.org/wiki/Zazen) — the aim-of-zazen sentence, quoted verbatim for the wider instruction family.
+- The tradition's own commentary; this book's rendering — carried from the original entry; the tradition identified as Tilopa's instruction to Naropa (Mahamudra transmission).
 
 ## Cited in philosophy parallels
 

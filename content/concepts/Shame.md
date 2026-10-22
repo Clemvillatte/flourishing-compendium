@@ -17,7 +17,7 @@ The authors say the difference of emphasis, on the self in "I did that horrible 
 
 ### Qualifications
 
-The review does not present this as settled for every group or case. It says the link of shame and guilt to moral behavior "may not generalize across all populations with respect to all behaviors," and notes that one study, which "focused on a unique, homogeneous sample (convicted drunk drivers ...) and a single type of transgression," found no evidence that shame and guilt form distinct factors. It also reports that group-based shame "may have a kinder, gentler side than personal shame." Much of the evidence concerns proneness to shame as a trait, for example that it "is positively correlated with anger, hostility, and the propensity to blame factors beyond the self." None of this tests whether a given episode of shame can be useful.
+The review does not present this as settled for every group or case. It says the link of shame and guilt to moral behavior "may not generalize across all populations with respect to all behaviors," and notes that one study, which "focused on a unique, homogeneous sample (convicted drunk drivers...) and a single type of transgression," found no evidence that shame and guilt form distinct factors. It also reports that group-based shame "may have a kinder, gentler side than personal shame." Much of the evidence concerns proneness to shame as a trait, for example that it "is positively correlated with anger, hostility, and the propensity to blame factors beyond the self." None of this tests whether a given episode of shame can be useful.
 
 ### In the compendium
 

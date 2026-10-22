@@ -9,7 +9,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Integrative Theory of Communication Work** — Kramer — communication about work builds shared meaning and identity among members.
 
-The seed's attribution and description do not match the literature found. The Integrative Theory of Communication Work (ITCW) was introduced by Erin Donovan and Abigail Hazlett in Human Communication Research in 2024, not by Kramer, and it concerns communication as effortful labour during a health stressor, not shared meaning and identity in organisations. No source opened for this page connects the name to Michael Kramer. Kramer's organisational-communication work, which does deal with shared meaning, is a separate body of scholarship and is not covered here.
+The original entry's attribution and description do not match the literature found. The Integrative Theory of Communication Work (ITCW) was introduced by Erin Donovan and Abigail Hazlett in Human Communication Research in 2024, not by Kramer, and it concerns communication as effortful labour during a health stressor, not shared meaning and identity in organisations. No source opened for this page connects the name to Michael Kramer. Kramer's organisational-communication work, which does deal with shared meaning, is a separate body of scholarship and is not covered here.
 
 ### What the theory says
 
@@ -29,7 +29,7 @@ A 2024 follow-up paper developed a communication work scale from a post-positivi
 
 ### What this page does not claim
 
-Nothing here shows that the theory describes how work-related communication builds shared meaning or identity. A supervisor may wish to rename the seed gloss, or to move the compendium's principles to a concept that matches them, such as an organisational-identification page.
+Nothing here shows that the theory describes how work-related communication builds shared meaning or identity. A supervisor may wish to rename the original entry gloss, or to move the compendium's principles to a concept that matches them, such as an organisational-identification page.
 
 ### In the compendium
 

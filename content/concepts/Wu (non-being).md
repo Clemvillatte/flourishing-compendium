@@ -7,7 +7,7 @@ file: "Wu (non-being)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-W"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter W", "parent": ""}
 ---
-"Wu (non-being)" — Laozi, Daodejing 11. In the Daoist vocabulary, wu is what is absent, empty, or not-yet, and the chapter the seed names makes its case with three objects:
+"Wu (non-being)" — Laozi, Daodejing 11. In the Daoist vocabulary, wu is what is absent, empty, or not-yet, and the chapter the original entry names makes its case with three objects:
 
 > "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends. Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness." (Laozi, Daodejing, ch. XI, trans. James Legge, [Project Gutenberg #216](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 

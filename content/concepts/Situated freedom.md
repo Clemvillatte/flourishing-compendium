@@ -32,7 +32,7 @@ Decisions have consequences for subsequent choices ([the thesis](https://helda.h
 
 ## Sources
 
-- [Sartre quotes via a University of Helsinki thesis, "Freedom as Self-determination: A More Moderate Reading of Early Sartre"](https://helda.helsinki.fi/server/api/core/bitstreams/da456c81-9afa-4efc-a7e6-d3f7c904a3f9/content) — Being and Nothingness pp. 629, 653 (Barnes translation, 1992 printing) quoted verbatim, and Merleau-Ponty, Phenomenology of Perception p. 508 quoted via it; thesis PDF opened this session (second-hand carrier for both books, noted on both principle R106 and here)
+- [Sartre quotes via a University of Helsinki thesis, "Freedom as Self-determination: A More Moderate Reading of Early Sartre"](https://helda.helsinki.fi/server/api/core/bitstreams/da456c81-9afa-4efc-a7e6-d3f7c904a3f9/content) — Being and Nothingness pp. 629, 653 (Barnes translation, 1992 printing) quoted verbatim, and Merleau-Ponty, Phenomenology of Perception p. 508 quoted via it; thesis publisher PDF (second-hand carrier for both books, noted on both principle R106 and here)
 
 ## Cited in philosophy parallels
 

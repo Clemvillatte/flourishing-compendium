@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 “Connectedness in well-being research” — Diener and Seligman, 2002.
 
-Connectedness in well-being research is the compendium's name for findings in which people's ties to others travel with how well their lives go. The study the seed cites is Diener and Seligman's 2002 paper on very happy people. It screened a sample of 222 undergraduates for high happiness using multiple confirming assessment filters, and compared the upper 10% of consistently very happy people with average and very unhappy groups. The abstract's summary of the comparison:
+Connectedness in well-being research is the compendium's name for findings in which people's ties to others travel with how well their lives go. The study the original entry cites is Diener and Seligman's 2002 paper on very happy people. It screened a sample of 222 undergraduates for high happiness using multiple confirming assessment filters, and compared the upper 10% of consistently very happy people with average and very unhappy groups. The abstract's summary of the comparison:
 
 > The very happy people were highly social, and had stronger romantic and other social relationships than less happy groups. — Diener & Seligman, 2002, *Psychol Sci* 13(1):81–4, [PubMed record (opened)](https://pubmed.ncbi.nlm.nih.gov/11894851/)
 

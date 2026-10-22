@@ -26,7 +26,7 @@ In the study, 267 participants from businesses and networking groups were recrui
 
 ### A guided version
 
-Not applicable: the practice is a standing appointment with a person, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a standing appointment with a person, not a recording.
 
 ## Operationalises
 

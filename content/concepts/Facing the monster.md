@@ -15,7 +15,7 @@ The monster is what one is drawn toward and repelled by at once. Kierkegaard giv
 
 ### Why one goes toward it
 
-The passage's double movement, a seeking that is also a fear, is what the page title calls facing the monster. The ambiguity Kierkegaard marks, innocent because a foreign power laid hold of one and guilty because one sank, is why the facing cannot be skipped. What is only fled keeps its charge. The seed's links place the idea beside the clinical principle of approaching what one fears.
+The passage's double movement, a seeking that is also a fear, is what the page title calls facing the monster. The ambiguity Kierkegaard marks, innocent because a foreign power laid hold of one and guilty because one sank, is why the facing cannot be skipped. What is only fled keeps its charge. The original entry's links place the idea beside the clinical principle of approaching what one fears.
 
 ## Related concepts
 

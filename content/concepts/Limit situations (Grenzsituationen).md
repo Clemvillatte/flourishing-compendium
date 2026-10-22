@@ -15,7 +15,7 @@ Karl Jaspers introduced the term in his early Psychology of World Views (1919), 
 
 ### What the limit does
 
-On the entry's reading, the theory of the limit (Grenze) designates both the habitual forms of the mental apparatus and the mind's experience of recognizing those attitudes as falsely objectivized, then transcending them by disposing itself in new ways toward itself and its objects ([SEP, ibid.](https://plato.stanford.edu/entries/jaspers/)). The same early work contains a theory of the unconditioned: limit situations are unconditioned moments of human existence in which reason, drawn by intense impulses or imperatives, exposes itself to the limits of its consciousness and seeks more reflected modes of knowledge ([SEP, ibid.](https://plato.stanford.edu/entries/jaspers/)). The seed's summary adds the classical list of the boundaries, death, suffering, struggle and guilt ([Wikipedia, Karl Jaspers](https://en.wikipedia.org/wiki/Karl_Jaspers)), which the SEP passage does not enumerate.
+On the entry's reading, the theory of the limit (Grenze) designates both the habitual forms of the mental apparatus and the mind's experience of recognizing those attitudes as falsely objectivized, then transcending them by disposing itself in new ways toward itself and its objects ([SEP, ibid.](https://plato.stanford.edu/entries/jaspers/)). The same early work contains a theory of the unconditioned: limit situations are unconditioned moments of human existence in which reason, drawn by intense impulses or imperatives, exposes itself to the limits of its consciousness and seeks more reflected modes of knowledge ([SEP, ibid.](https://plato.stanford.edu/entries/jaspers/)). The original entry's summary adds the classical list of the boundaries, death, suffering, struggle and guilt ([Wikipedia, Karl Jaspers](https://en.wikipedia.org/wiki/Karl_Jaspers)), which the SEP passage does not enumerate.
 
 ### In the compendium
 
@@ -30,7 +30,7 @@ On the entry's reading, the theory of the limit (Grenze) designates both the hab
 - Philosophy
 
 - [Chris Thornhill and Ronny Miron, "Karl Jaspers", Stanford Encyclopedia of Philosophy (first published 2006), section on the early writings](https://plato.stanford.edu/entries/jaspers/) — the limit-situations passage, the theory of the limit and of the unconditioned
-- [Wikipedia, "Karl Jaspers"](https://en.wikipedia.org/wiki/Karl_Jaspers) — the seed's own source for the death, suffering, struggle, guilt list
+- [Wikipedia, "Karl Jaspers"](https://en.wikipedia.org/wiki/Karl_Jaspers) — the original entry's own source for the death, suffering, struggle, guilt list
 
 [[ST289 — Jaspers's Shipwreck]]
 [[ST290 — Job and the Whirlwind]]

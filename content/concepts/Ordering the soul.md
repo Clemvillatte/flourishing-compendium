@@ -7,7 +7,7 @@ file: "Ordering the soul"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-Plato's account of the good inner life in the Republic: the soul has several elements, and the just person is the one whose elements stop interfering with each other. The seed's phrase, the harmonized city-soul, points at the city-soul analogy the book draws.
+Plato's account of the good inner life in the Republic: the soul has several elements, and the just person is the one whose elements stop interfering with each other. The original entry's phrase, the harmonized city-soul, points at the city-soul analogy the book draws.
 
 ### The just man as his own law
 
@@ -30,7 +30,7 @@ The passage calls actions that preserve this harmony just and good, and those th
 ## Sources
 
 - [Plato, The Republic, Book IV (trans. Benjamin Jowett), Project Gutenberg](https://www.gutenberg.org/files/1497/1497-0.txt) — the just man's ordered inner life, the scale image, the one temperate nature (443d-e).
-- Plato, Republic, the harmonized city-soul (seed citation, linked above).
+- Plato, Republic, the harmonized city-soul (original citation, linked above).
 
 ## Cited in philosophy parallels
 

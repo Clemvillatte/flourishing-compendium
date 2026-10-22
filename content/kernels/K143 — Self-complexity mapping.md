@@ -26,7 +26,7 @@ The construct is Linville's: "the Stress X Self-Complexity interaction provided 
 
 ### A guided version
 
-Not applicable: the practice is writing a list of one's own aspects, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is writing a list of one's own aspects, not a recording.
 
 ## Operationalises
 

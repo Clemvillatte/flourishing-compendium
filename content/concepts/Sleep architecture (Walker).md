@@ -21,7 +21,7 @@ The compendium's seed says each stage serves distinct functions. The best-docume
 
 ### In the compendium
 
-BI014 (Learn the architecture of sleep) and the other linked principles, among them BI013 (Prioritise sleep) and BI039 (limit alcohol), draw on this description. Walker's 2017 book and Carskadon and Dement's 2011 chapter, which are the seed citations, were not opened for this page. The stage scheme and cycle length above come from the 2009 review.
+BI014 (Learn the architecture of sleep) and the other linked principles, among them BI013 (Prioritise sleep) and BI039 (limit alcohol), draw on this description. Walker's 2017 book and Carskadon and Dement's 2011 chapter, which are the original entry citations, were not opened for this page. The stage scheme and cycle length above come from the 2009 review.
 
 ## Related concepts
 

@@ -25,7 +25,7 @@ The disciplines are a map of the whole person, and each has its own failure mode
 
 ## Related concepts
 
-- [[S011]] — the principle that carries Epictetus's three disciplines; the seed page cites no principle
+- [[S011]] — the principle that carries Epictetus's three disciplines; the original entry page cites no principle
 - [[The dichotomy of control]] — the division of what is up to us that underlies all three disciplines
 - [[Prohairesis]] — the faculty of choice the disciplines train
 

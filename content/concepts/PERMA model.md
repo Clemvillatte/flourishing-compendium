@@ -19,7 +19,7 @@ The same abstract corrects a reading Seligman rejects: the critics argued, "inco
 ## Sources
 
 - [Seligman, Martin, "PERMA and the building blocks of well-being", The Journal of Positive Psychology 13(4), 2018, pp. 333-335](https://www.tandfonline.com/doi/full/10.1080/17439760.2018.1437466) — the abstract supplies the PERMA hypothesis, the final-common-path evidence reading, the building-blocks clarification and the elements question quoted above
-- Seligman, Flourish, 2011 — the seed's citation for the model; the book was not opened for this item
+- Seligman, Flourish, 2011 — the original entry's citation for the model
 
 ## Cited in psychology parallels
 

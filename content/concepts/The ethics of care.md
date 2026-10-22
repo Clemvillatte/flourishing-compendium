@@ -30,7 +30,7 @@ The IEP entry gives the normative aim: "care ethics seeks to maintain relationsh
 
 ## Sources
 
-- Held, The Ethics of Care (inherited citation; the book was not opened this session)
+- Held, The Ethics of Care (cited at second hand)
 
 - [Internet Encyclopedia of Philosophy, "Care Ethics"](https://iep.utm.edu/care-ethics/) — the definition, normative aim, history and criticisms
 

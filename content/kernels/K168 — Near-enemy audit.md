@@ -29,13 +29,13 @@ The near-enemy passage, from the Path of Purification:
 
 And the success conditions the counterfeits fail:
 
-> "It succeeds when it makes ill will subside, and it fails when it produces (selfish) affection." (loving-kindness) ... "It succeeds when it makes cruelty subside and it fails when it produces sorrow." (compassion) ... "It succeeds when it makes aversion (boredom) subside, and it fails when it produces merriment." (gladness) ... "It succeeds when it makes resentment and approval subside, and it fails when it produces the equanimity of unknowing." (equanimity) (Visuddhimagga IX.93-96, same translation)
+> "It succeeds when it makes ill will subside, and it fails when it produces (selfish) affection." (loving-kindness)... "It succeeds when it makes cruelty subside and it fails when it produces sorrow." (compassion)... "It succeeds when it makes aversion (boredom) subside, and it fails when it produces merriment." (gladness)... "It succeeds when it makes resentment and approval subside, and it fails when it produces the equanimity of unknowing." (equanimity) (Visuddhimagga IX.93-96, same translation)
 
 What this evidence does not test: the audit as a practice. The Visuddhimagga is a fifth-century meditation manual, and the page's claim that the counterfeits "serve the opposite function" is the manual's own framing, carried over as description rather than as a trial result.
 
 ### A guided version
 
-No verified guided version supplied; the absence is flagged in the band ledger pending a supervisor ruling.
+No guided version is supplied here.
 
 ## Operationalises
 

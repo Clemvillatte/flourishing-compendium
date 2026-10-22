@@ -7,7 +7,7 @@ file: "Social-network effects on behavior"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Social-network effects on behavior is the finding, associated with Nicholas Christakis and James Fowler, that health-related behaviour clusters across social ties and appears to spread along them. The seed cites their 2007 and 2008 papers. Both papers used the Framingham Heart Study network of 12,067 people assessed repeatedly from 1971 to 2003; the 2007 paper is on obesity and the 2008 paper on smoking (the seed does not say which 2008 paper it means; Christakis and Fowler published more than one that year, so smoking is the one covered here).
+Social-network effects on behavior is the finding, associated with Nicholas Christakis and James Fowler, that health-related behaviour clusters across social ties and appears to spread along them. The original entry cites their 2007 and 2008 papers. Both papers used the Framingham Heart Study network of 12,067 people assessed repeatedly from 1971 to 2003; the 2007 paper is on obesity and the 2008 paper on smoking (the original entry does not say which 2008 paper it means; Christakis and Fowler published more than one that year, so smoking is the one covered here).
 
 ### What the two papers report
 

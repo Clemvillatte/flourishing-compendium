@@ -60,7 +60,7 @@ The lines below describe what the compendium's principles do with the concept; t
 
 - [Roediger and Karpicke, "Test-enhanced learning: taking memory tests improves long-term retention", Psychological Science 17(3):249-255 (2006), abstract, PMID 16507066](https://pubmed.ncbi.nlm.nih.gov/16507066/) — the testing effect definition and the delayed-test result
 - [Karpicke and Blunt, "Retrieval practice produces more learning than elaborative studying with concept mapping", Science 331:772-775 (2011), abstract, PMID 21252317](https://pubmed.ncbi.nlm.nih.gov/21252317/) — the comprehension and inference result
-- Roediger & Karpicke, 2006 (original citation kept from the seed)
+- Roediger & Karpicke, 2006 (original citation kept from the original entry)
 
 ## Cited in psychology parallels
 

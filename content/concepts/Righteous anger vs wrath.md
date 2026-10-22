@@ -19,7 +19,7 @@ He also says the line is hard to draw: "it is not easy to define how, with whom,
 
 ### A scriptural pairing
 
-The word wrath comes more from scripture than from Aristotle. Two verses in the English Standard Version set the poles: "Be angry and do not sin; do not let the sun go down on your anger" (Ephesians 4:26), and "let every person be quick to hear, slow to speak, slow to anger; for the anger of man does not produce the righteousness of God" (James 1:19-20) ([Bible Gateway, ESV](https://www.biblegateway.com/passage/?search=Ephesians+4%3A26-27%3B+James+1%3A19-20&version=ESV)). They are not in the seed, which cites Aristotle alone. I include them because the page title uses that vocabulary. The two verses are not a worked theory of anger, and the sources do not say how they should be reconciled.
+The word wrath comes more from scripture than from Aristotle. Two verses in the English Standard Version set the poles: "Be angry and do not sin; do not let the sun go down on your anger" (Ephesians 4:26), and "let every person be quick to hear, slow to speak, slow to anger; for the anger of man does not produce the righteousness of God" (James 1:19-20) ([Bible Gateway, ESV](https://www.biblegateway.com/passage/?search=Ephesians+4%3A26-27%3B+James+1%3A19-20&version=ESV)). They are not in the original entry, which cites Aristotle alone. I include them because the page title uses that vocabulary. The two verses are not a worked theory of anger, and the sources do not say how they should be reconciled.
 
 ### In the compendium
 

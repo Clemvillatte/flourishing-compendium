@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "Y — Yoga-V
 
 Deep practice is said to bring extraordinary abilities, and the Yoga Sutras do not treat them as a prize. Sutra 3.37 says:
 
-> In concentration these [supernal activities] are obstacles ; in the emergent state they are perfections (siddhi).
+> In concentration these [supernal activities] are obstacles; in the emergent state they are perfections (siddhi).
 
 (Yoga Sutras 3.37, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, p. 266, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
@@ -45,4 +45,3 @@ A woman on a long retreat has a night of vivid, luminous dreams. She tells her t
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 3.37 and 4.1 with Vyasa's commentary, pp. 266 and Book IV opening, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
 - [The Analects, Shu Er (7.21), ctext.org](https://ctext.org/analects/shu-er/ens) (English text read on the page; the translator was not named in the extract I read.)
-- The inherited Masters (2010) and Kierkegaard parallels were not opened; no claim on this page rests on them.

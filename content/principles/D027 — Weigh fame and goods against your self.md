@@ -18,7 +18,7 @@ Chapter 44 of the Daodejing poses the question as an accounting: fame or life, w
 >   Which do you hold more dear?
 > Or life or wealth,
 >   To which would you adhere?
-> Keep life and lose those other things;
+> Keep life and lose those other things
 > Keep them and lose your life:--which brings
 >   Sorrow and pain more near?
 >

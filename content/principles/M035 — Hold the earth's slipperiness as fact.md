@@ -39,4 +39,4 @@ The proverb describes an upright person who slips into wrongdoing — balance is
 
 ## Sources
 
-- [Maffie, J. "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) — the proverb, its Burkhart translation, the tlalticpac gloss (after Launey), and the balance-upon-the-slippery-earth defining question; the proverb is recorded in Sahagún's Florentine Codex Book VI. The seed's Cantares Mexicanos attribution was not verified and is not repeated.
+- [Maffie, J. "Aztec Philosophy", Internet Encyclopedia of Philosophy](https://iep.utm.edu/aztec-philosophy/) — the proverb, its Burkhart translation, the tlalticpac gloss (after Launey), and the balance-upon-the-slippery-earth defining question; the proverb is recorded in Sahagún's Florentine Codex Book VI. The original entry's Cantares Mexicanos attribution was not verified and is not repeated.

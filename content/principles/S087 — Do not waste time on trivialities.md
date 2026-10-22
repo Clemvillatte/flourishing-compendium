@@ -47,4 +47,4 @@ What does your attention say about your values when you track it for a day?
 -->
 
 ## Sources
-- Seneca, On the Shortness of Life 1-2, tr. John W. Basore — opened and verified verbatim via the Wikisource API: https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I ; https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_II
+- Seneca, On the Shortness of Life 1-2, tr. John W. Basore — verified verbatim via the Wikisource API: https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_I; https://en.wikisource.org/wiki/On_the_shortness_of_life/Chapter_II

@@ -51,7 +51,7 @@ The paper's worked example is a student it calls Rachel. Her self-aspects includ
 
 - [McConnell, The Multiple Self-Aspects Framework (2011)](https://allenmcconnell.net/pdfs/msf-PSPR-2011.pdf) — definition, principles, origin, comparison with self-complexity and compartmentalization, worked example
 
-- Showers & Zeigler-Hill, 2007 (inherited citation, not opened this session)
+- Showers & Zeigler-Hill, 2007
 
 - McConnell, 2011
 

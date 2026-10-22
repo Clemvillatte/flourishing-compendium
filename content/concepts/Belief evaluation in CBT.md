@@ -42,7 +42,7 @@ The same article notes that traditional cognitive-behavioural therapy might atte
 ## Sources
 
 - [Hayes SC, Pistorello J, Levin ME (2011). Acceptance and Commitment Therapy as a Unified Model of Behavior Change. The Counseling Psychologist, 40(7):976-1002](https://www.apa.org/education-career/ce/acceptance-commitment.pdf) — the cognitive-fusion/defusion account.
-- Beck — citation carried from the seed; not independently opened this session.
+- Beck — citation carried from the original entry
 
 ## Cited in psychology parallels
 

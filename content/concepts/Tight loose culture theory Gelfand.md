@@ -27,7 +27,7 @@ Sociocultural · Psychological science
 
 ## Related concepts
 
-- [[ST064 — The Lute String]] — inherited story link
+- [[ST064 — The Lute String]] — story link
 - [[Individualism collectivism theory Triandis]] — the neighboring cultural dimension
 - [[Reciprocity norm theory Gouldner]] — a norm-strength theory at smaller scale
 

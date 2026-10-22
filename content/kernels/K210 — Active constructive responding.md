@@ -26,7 +26,7 @@ The practice is drawn from the capitalization research: "two studies showed that
 
 ### A guided version
 
-Not applicable: the practice is a live response to another's news, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a live response to another's news, not a recording.
 
 ## Operationalises
 

@@ -29,7 +29,7 @@ The compendium's E070 principle practises this as a check on self-demands: the p
 
 ## Sources
 
-- Simone de Beauvoir, The Ethics of Ambiguity (1947), trans. Bernard Frechtman, Part I, online text: https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm ; overview: [Wikipedia, Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
+- Simone de Beauvoir, The Ethics of Ambiguity (1947), trans. Bernard Frechtman, Part I, online text: https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch01.htm; overview: [Wikipedia, Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
 
 ## Cited in philosophy parallels
 

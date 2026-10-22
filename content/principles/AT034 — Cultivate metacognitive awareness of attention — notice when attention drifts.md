@@ -22,7 +22,7 @@ The paper's first finding is that this knowledge is intermittent: "Findings rega
 
 The account assigns noticing a specific job: "the intermittent explicit assessment of the current state of the mind can enable the detection of lapses that could be missed by more low-level implicit monitoring systems", and "meta-awareness directly aids in the identification of mind-wandering lapses, and the subsequent re-engagement of the primary task" ([Schooler et al. 2011](https://metalab.psych.ucsb.edu/sites/default/files/2025-12/perceptual-decoupling.pdf)). The same view "predicts that techniques that facilitate meta-awareness should minimize disruptive mind-wandering lapses" ([Schooler et al. 2011](https://metalab.psych.ucsb.edu/sites/default/files/2025-12/perceptual-decoupling.pdf)).
 
-The compendium's reading of the seed's insight: noticing that attention has left is presented in this account as its own intermittent process, distinct from the quality of the attention it notices, and its function is re-engagement rather than self-criticism.
+The compendium's reading of the original entry's insight: noticing that attention has left is presented in this account as its own intermittent process, distinct from the quality of the attention it notices, and its function is re-engagement rather than self-criticism.
 
 (Schooler et al., Trends in Cognitive Sciences 15(7), 2011.)
 

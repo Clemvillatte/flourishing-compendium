@@ -11,7 +11,7 @@ Trivers (1972) defines parental investment as "any investment by the parent in a
 
 ### What it predicts
 
-Where male investment is comparable to female investment, Trivers expects male and female reproductive success to vary in similar ways and "female choice to be no more discriminating than male choice". Where male investment "strongly exceeds that of the female", he expects females to compete and males to be selective (same paper). The seed's "the sex investing more becomes the choosier one" is correct and the theory makes no claim that it is always females.
+Where male investment is comparable to female investment, Trivers expects male and female reproductive success to vary in similar ways and "female choice to be no more discriminating than male choice". Where male investment "strongly exceeds that of the female", he expects females to compete and males to be selective (same paper). The original entry's "the sex investing more becomes the choosier one" is correct and the theory makes no claim that it is always females.
 
 ### Not the same as parental care
 
@@ -19,7 +19,7 @@ Trivers recalled that his definition differed from parental care and from the co
 
 ### Debate
 
-The same Kokko and Jennions review says it is "incontrovertible" that Trivers identified a causal link between greater pre-mating female investment and stronger sexual selection on males, yet its model examines how other factors can alter parental investment: offspring need, multiple mating, sexual selection and sex-specific mortality. The review treats investment, sexual selection and sex ratios as interacting, so the seed's one-way phrase "parental effort drives mating dynamics" is a simplification. Trivers himself wrote that sexual selection is "both controlled by the parental investment pattern and a force that tends to mold that pattern" (1972 paper). In humans, Buss applies the theory to say that the higher-investing sex should be "most discriminating", but that is the human-application literature and not Trivers's own empirical tests ([Buss, Human mating strategies, 2002, PDF](https://labs.la.utexas.edu/buss/files/2015/10/Buss-2002-human-mating-strategies.pdf)).
+The same Kokko and Jennions review says it is "incontrovertible" that Trivers identified a causal link between greater pre-mating female investment and stronger sexual selection on males, yet its model examines how other factors can alter parental investment: offspring need, multiple mating, sexual selection and sex-specific mortality. The review treats investment, sexual selection and sex ratios as interacting, so the original entry's one-way phrase "parental effort drives mating dynamics" is a simplification. Trivers himself wrote that sexual selection is "both controlled by the parental investment pattern and a force that tends to mold that pattern" (1972 paper). In humans, Buss applies the theory to say that the higher-investing sex should be "most discriminating", but that is the human-application literature and not Trivers's own empirical tests ([Buss, Human mating strategies, 2002, PDF](https://labs.la.utexas.edu/buss/files/2015/10/Buss-2002-human-mating-strategies.pdf)).
 ## Sources
 
 - [Trivers 1972, Parental investment and sexual selection (PDF)](https://courses.washington.edu/ccab/Trivers%20-%20SS%20&%20PI%20-%201972.pdf)

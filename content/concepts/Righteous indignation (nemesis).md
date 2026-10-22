@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Righteous indignation (nemesis)” — Aristotle, NE IV.9.
 
-Righteous indignation is Aristotle's name for the pain felt at good fortune that someone has not deserved. He treats it as the right-hand middle between two worse states, envy and spite, and as a sign of good character. The seed cites NE IV.9, but that chapter is Aristotle's discussion of shame; the passage on indignation sits in Book II, chapter 7 (the survey of the virtues) and in the Rhetoric, Book II, chapter 9.
+Righteous indignation is Aristotle's name for the pain felt at good fortune that someone has not deserved. He treats it as the right-hand middle between two worse states, envy and spite, and as a sign of good character. The original entry cites NE IV.9, but that chapter is Aristotle's discussion of shame; the passage on indignation sits in Book II, chapter 7 (the survey of the virtues) and in the Rhetoric, Book II, chapter 9.
 
 ### The mean between envy and spite
 
@@ -29,7 +29,7 @@ Envy, he adds, is not the same thing, even though they seem close. Envy is "exci
 
 ### Aquinas on anger
 
-The seed's second source, Summa Theologiae II-II, q.158, is about anger, not indignation by name. In article 1 Aquinas argues that anger is evil only when it departs from right reason: "if one is angry in accordance with right reason, one's anger is deserving of praise." ([New Advent](https://www.newadvent.org/summa/3158.htm)) That supports a measured anger in general. It does not speak to Aristotle's specific case of pain at undeserved good fortune.
+The original entry's second source, Summa Theologiae II-II, q.158, is about anger, not indignation by name. In article 1 Aquinas argues that anger is evil only when it departs from right reason: "if one is angry in accordance with right reason, one's anger is deserving of praise." ([New Advent](https://www.newadvent.org/summa/3158.htm)) That supports a measured anger in general. It does not speak to Aristotle's specific case of pain at undeserved good fortune.
 
 ### In the compendium
 
@@ -42,7 +42,7 @@ The seed's second source, Summa Theologiae II-II, q.158, is about anger, not ind
 - [[Envy]] — listed for comparison
 - [[Schadenfreude]] — listed for comparison
 - [[The doctrine of the mean]] — listed for comparison
-- [[Shame]] — NE IV.9 discusses shame, the chapter the seed cites
+- [[Shame]] — NE IV.9 discusses shame, the chapter the original entry cites
 
 ## Facets
 

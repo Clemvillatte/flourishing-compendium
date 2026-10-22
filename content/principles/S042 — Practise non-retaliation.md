@@ -46,5 +46,5 @@ Does a society need some element of retribution to feel just? Argue against the 
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (in that text the revenge line is printed as Bk VI §5 and the fellow-workers passage as Bk I §15)
-- Epictetus, Discourses I.18, "That we ought not to be angry with the errors (faults) of others", tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (in that text the revenge line is printed as Bk VI §5 and the fellow-workers passage as Bk I §15)
+- Epictetus, Discourses I.18, "That we ought not to be angry with the errors (faults) of others", tr. George Long — verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html

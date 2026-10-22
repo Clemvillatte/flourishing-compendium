@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 68** — Recognise the limits of self-development: not everything is fixable
 
-The research background to this principle: personality traits show substantial rank-order stability. In a quantitative review of 152 longitudinal studies (Psychological Bulletin, 2000), trait consistency rose from .31 in childhood to a plateau around .74 between ages 50 and 70 (with test interval held constant at 6.7 years), and the review noted that temperament dimensions were less consistent than adult personality traits.
+The research background to this principle: personality traits show substantial rank-order stability. In a quantitative review of 152 longitudinal studies (Psychological Bulletin, 2000), trait consistency rose from .31 in childhood to a plateau around.74 between ages 50 and 70 (with test interval held constant at 6.7 years), and the review noted that temperament dimensions were less consistent than adult personality traits.
 
 Niebuhr's serenity prayer puts the sorting problem in its best-known form:
 

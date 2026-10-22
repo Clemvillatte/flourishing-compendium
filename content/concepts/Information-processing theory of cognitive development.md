@@ -38,7 +38,7 @@ A textbook slide set (McGraw-Hill) contrasts the approach with Piaget by saying 
 
 - [Siegler, "Mechanisms of Cognitive Development", Annual Review, 1989 (author-hosted PDF)](https://siegler.tc.columbia.edu/wp-content/uploads/2020/10/Mech-Cog-Dev-Annual-Review-1989.pdf)
 - [Information Processing Approaches to Development (Wiley handbook chapter, abstract)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470147658.chpsy0210)
-- [Strauss, S. (2000), "Theories of cognitive development and their ..." encyclopedia chapter (Tel Aviv University PDF)](https://www.tau.ac.il/~sidst/Papers/Sid/encyclopedia%20chapter%20learning%20and%20development.PDF)
+- [Strauss, S. (2000), "Theories of cognitive development and their..." encyclopedia chapter (Tel Aviv University PDF)](https://www.tau.ac.il/~sidst/Papers/Sid/encyclopedia%20chapter%20learning%20and%20development.PDF)
 - [Information Processing (McGraw-Hill chapter slides, via StudyLib)](https://studylib.net/doc/9649623/memory)
 
 ## Field

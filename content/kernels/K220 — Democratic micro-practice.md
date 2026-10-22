@@ -26,7 +26,7 @@ In two studies with 699 people working in groups of two to five, a general colle
 
 ### A guided version
 
-Not applicable: the practice is the distribution of speaking turns in a live group, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is the distribution of speaking turns in a live group, not a recording.
 
 ## Operationalises
 

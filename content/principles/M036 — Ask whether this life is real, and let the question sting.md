@@ -39,4 +39,4 @@ The songs say we come only to dream; Maffie reads the dreamlikeness as a fact ab
 
 ## Sources
 
-- [Maffie, J., "Pre-Columbian Philosophies", in A Companion to Latin American Philosophy (Wiley), chapter excerpt](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the Tochihuitzin Coyolchiuhqui song (trans. León-Portilla, 1992, p. 153; bracketed glosses are Maffie's) and the epistemological-not-ontological reading of the dreamlikeness of earthly existence. The seed's exact combined wording is not reproduced here.
+- [Maffie, J., "Pre-Columbian Philosophies", in A Companion to Latin American Philosophy (Wiley), chapter excerpt](https://catalogimages.wiley.com/images/db/pdf/9781118592618.excerpt.pdf) — the Tochihuitzin Coyolchiuhqui song (trans. León-Portilla, 1992, p. 153; bracketed glosses are Maffie's) and the epistemological-not-ontological reading of the dreamlikeness of earthly existence. The original entry's exact combined wording is not reproduced here.

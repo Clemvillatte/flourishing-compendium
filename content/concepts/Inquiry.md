@@ -13,7 +13,7 @@ The compendium uses "Inquiry" for the process Charles Sanders Peirce defined in 
 
 ### What inquiry is for
 
-The essay continues: "The irritation of doubt is the only immediate motive for the struggle to attain belief" ... "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
+The essay continues: "The irritation of doubt is the only immediate motive for the struggle to attain belief"... "With the doubt, therefore, the struggle begins, and with the cessation of doubt it ends. Hence, the sole object of inquiry is the settlement of opinion." (Peirce, [The Fixation of Belief, Wikisource](https://en.wikisource.org/wiki/The_Fixation_of_Belief))
 
 [[P024 — Let doubt be genuine]]
 [[P025 — Fix belief by experiment, not tenacity, authority, or taste]]

@@ -7,13 +7,13 @@ file: "Potentiality to actuality"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Potentiality to actuality is Aristotle's central distinction in Metaphysics Book IX between a thing's capacity to become and its being in act. The seed holds the oak in capacity; the grown tree holds it in act. What the distinction adds to everyday talk of "developing" is that the two states are not the same state at different times. A capacity is a real feature of the thing now, and the actuality is something further, which may or may not be reached.
+Potentiality to actuality is Aristotle's central distinction in Metaphysics Book IX between a thing's capacity to become and its being in act. The original entry holds the oak in capacity; the grown tree holds it in act. What the distinction adds to everyday talk of "developing" is that the two states are not the same state at different times. A capacity is a real feature of the thing now, and the actuality is something further, which may or may not be reached.
 
 > "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'; we say that potentially, for instance, a statue of Hermes is in the block of wood and the half-line is in the whole, because it might be separated out, and we call even the man who is not studying a man of science, if he is capable of studying; the thing that stands in contrast to each of these exists actually." (Aristotle, [Metaphysics IX.6](https://classics.mit.edu/Aristotle/metaphysics.9.ix.html), translated by W. D. Ross)
 
 ### The stages are real
 
-Aristotle insists that what counts as potential depends on how far along the change already is. Earth is not yet potentially a man; it becomes so when it has become seed, and the seed is not yet potentially a man either: "it must be deposited in something other than itself and undergo a change" (IX.7). Only "when through its own motive principle it has already got such and such attributes, in this state it is already potentially a man" (IX.7). The compendium's acorn and oak sit in the same family of cases, by way of illustration: the acorn's claim to be the oak strengthens as the stages pass.
+Aristotle insists that what counts as potential depends on how far along the change already is. Earth is not yet potentially a man; it becomes so when it has become seed, and the original entry is not yet potentially a man either: "it must be deposited in something other than itself and undergo a change" (IX.7). Only "when through its own motive principle it has already got such and such attributes, in this state it is already potentially a man" (IX.7). The compendium's acorn and oak sit in the same family of cases, by way of illustration: the acorn's claim to be the oak strengthens as the stages pass.
 
 ### Why the actual comes first
 

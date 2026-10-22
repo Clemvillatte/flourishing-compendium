@@ -13,7 +13,7 @@ Non-retaliation is Marcus Aurelius's rule for answering injury: refuse to answer
 
 The rule works by re-describing the injury rather than returning it. The line carries the whole tactic: to retaliate would be to join the offender in his error, and the only clean answer is to remain what the offender stopped being.
 
-The seed cites Meditations VII; in this Long translation the revenge line sits in Book VI (the numbered aphorism V of that book).
+The original entry cites Meditations VII; in this Long translation the revenge line sits in Book VI (the numbered aphorism V of that book).
 
 ### In the compendium
 

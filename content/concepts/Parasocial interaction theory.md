@@ -15,7 +15,7 @@ The authors locate the difference in experience in "the lack of effective recipr
 
 ### Complement or substitute
 
-Horton and Wohl say that "for the great majority of the audience, the para-social is complementary to normal social life". The relationship becomes a worry only "when the para-social relationship becomes a substitute for autonomous social participation, when it proceeds in absolute defiance of objective reality", at which point it "can be regarded as pathological". They also write that personality programmes favour "compensatory attachments by the socially isolated, the socially inept, the aged and invalid, the timid and rejected". The seed's wording, "enduring bonds ... as if they were acquaintances", is close but omits this distinction, so state it when you use the concept.
+Horton and Wohl say that "for the great majority of the audience, the para-social is complementary to normal social life". The relationship becomes a worry only "when the para-social relationship becomes a substitute for autonomous social participation, when it proceeds in absolute defiance of objective reality", at which point it "can be regarded as pathological". They also write that personality programmes favour "compensatory attachments by the socially isolated, the socially inept, the aged and invalid, the timid and rejected". The original entry's wording, "enduring bonds... as if they were acquaintances", is close but omits this distinction, so state it when you use the concept.
 
 ### Later history
 

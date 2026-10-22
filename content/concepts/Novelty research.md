@@ -7,7 +7,7 @@ file: "Novelty research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-N"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter N", "parent": ""}
 ---
-Novelty research is the neuroscience of how the brain flags what is new. The seed's source is Zhang, Chen and Monosov's study of the primate basal forebrain, a structure the paper calls "a principal source of modulation of the neocortex" that regulates attention, motivation and learning "by broadcasting information about salience". The study's framing states the problem the field faces:
+Novelty research is the neuroscience of how the brain flags what is new. The original entry's source is Zhang, Chen and Monosov's study of the primate basal forebrain, a structure the paper calls "a principal source of modulation of the neocortex" that regulates attention, motivation and learning "by broadcasting information about salience". The study's framing states the problem the field faces:
 
 > "However, events can be salient for multiple reasons—such as novelty, surprise, or reward prediction errors—and to date, precisely which salience-related information the BF broadcasts is unclear." (Zhang et al., 2018, [Curr Biol, PMID 30581022](https://pmc.ncbi.nlm.nih.gov/articles/PMC6901356/))
 

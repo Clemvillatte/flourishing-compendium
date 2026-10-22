@@ -23,12 +23,12 @@ Referential Activity, first introduced by Bucci and Freedman (1978), measures "t
 
 ### Limits
 
-The sources I opened are mostly written by Bucci or by researchers using her measures; I found no independent critique. The seed phrase "that therapy must connect" is the theory's clinical emphasis: a good session "would entail the activation of the RP" (Springer paper above), not a proven requirement.
+The sources I opened are mostly written by Bucci or by researchers using her measures; I found no independent critique. The original entry phrase "that therapy must connect" is the theory's clinical emphasis: a good session "would entail the activation of the RP" (Springer paper above), not a proven requirement.
 ## Sources
 
 - [Epistemological Foundation for the Use of the Linguistic Measures of the Referential Process (Springer)](https://link.springer.com/article/10.1007/s10936-025-10149-1?fromPaywallRec=false)
-- [Introduction to the Issue: Advances in Theory and Research on ... (Journal of Psycholinguistic Research; title truncated)](https://link.springer.com/content/pdf/10.1007/s10936-025-10190-0.pdf)
-- [Dreaming in quarantine: linguistic analysis of referential process of ... (PMC; title truncated)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8451209/)
+- [Introduction to the Issue: Advances in Theory and Research on... (Journal of Psycholinguistic Research; title truncated)](https://link.springer.com/content/pdf/10.1007/s10936-025-10190-0.pdf)
+- [Dreaming in quarantine: linguistic analysis of referential process of... (PMC; title truncated)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8451209/)
 - [Connecting emotions and words: the referential process (Springer)](https://link.springer.com/article/10.1007/s11097-015-9417-z?error=cookies_not_supported&code=4023bdc9-c92f-4c33-8d11-5075964b23a8)
 - [Mariani and De Coro, Research in Psychotherapy PDF (title shown as "6. Mariani De Coro")](https://www.researchinpsychotherapy.org/index.php/rpsy/article/download/122/106)
 - [Multiple code theory (Wikipedia)](https://en.wikipedia.org/wiki/Multiple_Code_Theory)

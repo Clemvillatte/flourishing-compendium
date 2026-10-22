@@ -28,7 +28,7 @@ The abode belongs to the spirit named in the preceding lines; the quotation desc
 
 - [Neiye, Robert Eno translation, section 7, unofficial Scribd mirror](https://www.scribd.com/doc/181007074/Inner-Enterprise): abode image and the spirit's coming and going.
 - [Russell Kirkland, Inner Cultivation, University of Georgia PDF](https://religion.uga.edu/sites/default/files/inline-files/NEIYEH98_0.pdf): academic explanation of the text's cultivation account.
-- [Daodejing 59, James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the seed's additional reference to moderation, not a smartphone study.
+- [Daodejing 59, James Legge, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): the original entry's additional reference to moderation, not a smartphone study.
 
 ## Psychology parallels
 

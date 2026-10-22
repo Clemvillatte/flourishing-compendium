@@ -31,7 +31,7 @@ The compendium keeps the concept because deepening practice destabilizes defense
 
 - [[Bad faith]] — Sartre's account of self-deception, the existential cousin of repression
 - [[Repetition]] — the general phenomenon of patterned recurrence
-- [[M025 — Let rootedness and openness correct each other]] — inherited principle link
+- [[M025 — Let rootedness and openness correct each other]] — principle link
 - [[Y024 — Expect latent material to surface when practice deepens]] — the practice-side reading
 
 ## Sources

@@ -25,7 +25,7 @@ The nearest direct test of progressive difficulty comes from working memory trai
 
 ### In the compendium
 
-AT031 (Cultivate attentional endurance: build capacity gradually) reads best as advice grounded in practice traditions and the novice-to-expert description above. The sources do not show that lengthening sessions step by step produces more capacity than other schedules. The seed's reading of Zanesco 2016 is not confirmed.
+AT031 (Cultivate attentional endurance: build capacity gradually) reads best as advice grounded in practice traditions and the novice-to-expert description above. The sources do not show that lengthening sessions step by step produces more capacity than other schedules. The original entry's reading of Zanesco 2016 is not confirmed.
 
 ## Related concepts
 

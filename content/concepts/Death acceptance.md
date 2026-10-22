@@ -42,4 +42,4 @@ The measure's five dimensions are "Fear of Death, Death Avoidance, Neutral Accep
 
 - Wong, 2009
 
-- [Jansen et al., "German version of the Death Attitudes Profile-Revised (DAP-GR)", BMC Psychology 7:61, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/) — blockquote and five-dimension list; the drpaulwong.com article pages are robots-blocked to this session's fetcher
+- [Jansen et al., "German version of the Death Attitudes Profile-Revised (DAP-GR)", BMC Psychology 7:61, 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6740004/) — blockquote and five-dimension list

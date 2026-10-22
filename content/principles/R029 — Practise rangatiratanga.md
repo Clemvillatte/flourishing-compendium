@@ -12,7 +12,7 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "R — Relati
 ---
 > **Principle 291** — Practise rangatiratanga
 
-Te Aka Māori Dictionary defines rangatiratanga as "chieftainship, right to exercise authority, chiefly autonomy, chiefly authority ... leadership of a social group" ([Te Aka, rangatiratanga](https://maoridictionary.co.nz/word/6480)). Its entry for rangatira gives the qualities of a leader as "a concern for the integrity and prosperity of the people, the land, the language and other cultural treasures", and includes a 1926 line translated as "The chief is a weaver of people" ([Te Aka, rangatira](https://maoridictionary.co.nz/word/6479)).
+Te Aka Māori Dictionary defines rangatiratanga as "chieftainship, right to exercise authority, chiefly autonomy, chiefly authority... leadership of a social group" ([Te Aka, rangatiratanga](https://maoridictionary.co.nz/word/6480)). Its entry for rangatira gives the qualities of a leader as "a concern for the integrity and prosperity of the people, the land, the language and other cultural treasures", and includes a 1926 line translated as "The chief is a weaver of people" ([Te Aka, rangatira](https://maoridictionary.co.nz/word/6479)).
 
 (Māori tikanga; Mead, 2003, Tikanga Māori; Durie, 1994, Whaiora.)
 

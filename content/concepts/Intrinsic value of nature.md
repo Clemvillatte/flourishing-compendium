@@ -22,7 +22,7 @@ Organisms need not be conscious for this: "conscious or not, all are equally tel
 
 ### Limits of this page
 
-The Colorado copy is an excerpt of the 1981 article. The 1986 book was not opened, so Taylor's four-part biocentric outlook is not quoted, and the criticisms of his view were not read. Treat this page as a statement of what Taylor claims, not an assessment of it.
+The Colorado copy is an excerpt of the 1981 article. Taylor's four-part biocentric outlook is not quoted here, and the criticisms of his view are not assessed. Treat this page as a statement of what Taylor claims, not an assessment of it.
 
 ### In the compendium
 
@@ -44,7 +44,7 @@ The Colorado copy is an excerpt of the 1981 article. The 1986 book was not opene
 
 - [Brennan, A., & Lo, Y.-S. Environmental Ethics, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ethics-environmental/): section on Taylor's biocentrism and on intrinsic value; quotes checked against the page
 - [Taylor, P. W. (1981). The Ethics of Respect for Nature. Environmental Ethics, 3(3), 197-218](https://rintintin.colorado.edu/~vancecd/phil308/Taylor.pdf): excerpt read in a hosted copy
-- Taylor, P. W. (1986). Respect for Nature: A Theory of Environmental Ethics: not opened for this page.
+- Taylor, P. W. (1986). Respect for Nature: A Theory of Environmental Ethics: cited at second hand.
 
 [[MO003 — Recognise the difference between intrinsic and extrinsic motivation — quality matters]]
 [[P187 — Separate the religious quality of experience from religion]]

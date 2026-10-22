@@ -28,7 +28,7 @@ The text then draws the moral for rulers: "from the ambition and perverseness of
 
 Asked directly what the superior man amounts to, Confucius kept giving the same answer in widening circles:
 
-> "The cultivation of himself in reverential carefulness." ... "He cultivates himself so as to give rest to others." ... "He cultivates himself so as to give rest to all the people:— even Yao and Shun were still solicitous about this." — Confucius, Analects XIV.45, Legge's translation ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330-images.html))
+> "The cultivation of himself in reverential carefulness."... "He cultivates himself so as to give rest to others."... "He cultivates himself so as to give rest to all the people:— even Yao and Shun were still solicitous about this." — Confucius, Analects XIV.45, Legge's translation ([Project Gutenberg](https://www.gutenberg.org/cache/epub/3330/pg3330-images.html))
 
 The practice is concrete: on perfect virtue, the Master said, "To subdue one's self and return to propriety, is perfect virtue" (Analects XII.1), and Tsang reported, "I daily examine myself on three points" (Analects I.4).
 

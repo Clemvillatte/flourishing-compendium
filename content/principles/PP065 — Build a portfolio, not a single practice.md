@@ -42,4 +42,4 @@ Is there a risk of turning life itself into a project? How do you hold the balan
 -->
 
 ## Sources
-- Ascenso, Perkins & Williamon 2018, Frontiers in Psychology 9, Introduction — authors' summary of Seligman 2011, opened and verified verbatim: https://pmc.ncbi.nlm.nih.gov/articles/PMC6232231/ (Seligman, Flourish, 2011, not open)
+- Ascenso, Perkins & Williamon 2018, Frontiers in Psychology 9, Introduction — authors' summary of Seligman 2011, verified verbatim: https://pmc.ncbi.nlm.nih.gov/articles/PMC6232231/ (Seligman, Flourish, 2011, not open)

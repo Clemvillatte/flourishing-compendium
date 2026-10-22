@@ -42,4 +42,3 @@ A woman who has lately found meditation thinks about dropping her place on the s
 ## Sources
 
 - [Bhagavad Gita 3.4, 3.8, 3.20-21, 3.25 (Swami Mukundananda translation and commentary), holy-bhagavad-gita.org](https://www.holy-bhagavad-gita.org/chapter/3/verse/25/)
-- The inherited Post (2005) and Dewey and Diogenes parallels were not opened and no claim here rests on them.

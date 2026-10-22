@@ -41,4 +41,4 @@ Whose memory of you matters, and why?
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (greedy-of-credit and immortal-memory passages printed as Bk IV §16; hunt-for-fame passage as Bk VIII §42; philosophy conclusion as Bk II §15)
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (greedy-of-credit and immortal-memory passages printed as Bk IV §16; hunt-for-fame passage as Bk VIII §42; philosophy conclusion as Bk II §15)

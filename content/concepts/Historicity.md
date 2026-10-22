@@ -39,7 +39,7 @@ Readers of Heidegger should keep two points in view. A philosophy journal essay 
 - [Being and Time, translated excerpt (search excerpt only)](https://www.dhspriory.org/kenny/PhilTexts/Heidegger/BeingTime11.doc)
 - [Why Heidegger is not an Existentialist: Interpreting Authenticity and Historicity in Being and Time (Florida Philosophical Review)](https://cah.ucf.edu/fpr/article/why-heidegger-is-not-an-existentialist-interpreting-authenticity-and-historicity-in-being-and-time/)
 - [Historical Destiny and National Socialism in Heidegger's Being and Time (University of California Press, search excerpt only)](https://publishing.cdlib.org/ucpressebooks/view?docId=ft5k4006n2;chunk.id=d0e743;doc.view=print)
-- Gadamer, Truth and Method, and Heidegger, Being and Time (primary texts), not opened directly
+- Gadamer, Truth and Method, and Heidegger, Being and Time (primary texts)
 
 ## Cited in philosophy parallels
 

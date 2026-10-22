@@ -7,7 +7,7 @@ file: "Chronobiology"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Chronobiology is the study of biological timing, and its cognitive branch documents what the seed's carrier summarised: mental performance is not level across the day but waves with it. The review that anchored the seed's claim opens:
+Chronobiology is the study of biological timing, and its cognitive branch documents what the original entry's carrier summarised: mental performance is not level across the day but waves with it. The review that anchored the original entry's claim opens:
 
 > "Although peaks and troughs in cognitive performance characterize our daily functioning, time-of-day fluctuations remain marginally considered in the domain of cognitive psychology and neuropsychology." ([Schmidt, Collette, Cajochen & Peigneux, 2007](http://www.chronobiology.ch/wp-content/uploads/publications/2007_09.pdf))
 

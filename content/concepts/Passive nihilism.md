@@ -7,7 +7,7 @@ file: "Passive nihilism"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Passive nihilism is Nietzsche's name for the weakened form of the loss of values: the collapse happens, but the person collapses with it. The seed's source is The Will to Power, the posthumous notebook collection where Nietzsche sorted the phenomenon into active and passive forms. The Wikipedia summary of the distinction:
+Passive nihilism is Nietzsche's name for the weakened form of the loss of values: the collapse happens, but the person collapses with it. The original entry's source is The Will to Power, the posthumous notebook collection where Nietzsche sorted the phenomenon into active and passive forms. The Wikipedia summary of the distinction:
 
 > "According to Nietzsche, nihilism often manifests in a distorted form as passive nihilism, masking its life-denying nature behind religious dogmas, conventional morality, and societal norms. Against this tendency, Nietzsche recommended active nihilism, which openly acknowledges the lack of meaning and uses its negative force to dismantle established values." ([Wikipedia](https://en.wikipedia.org/wiki/Nihilism))
 
@@ -27,7 +27,7 @@ Both forms face the same event — the guiding values and ideals are gone. The a
 
 ## Sources
 
-- [Wikipedia, Nihilism (Nietzsche section)](https://en.wikipedia.org/wiki/Nihilism) — the passive/active distinction and the cultural-phenomenon framing, quoted verbatim; the seed's locus is The Will to Power's notebooks, which the article cites in its discussion
+- [Wikipedia, Nihilism (Nietzsche section)](https://en.wikipedia.org/wiki/Nihilism) — the passive/active distinction and the cultural-phenomenon framing, quoted verbatim; the original entry's locus is The Will to Power's notebooks, which the article cites in its discussion
 
 ## Cited in philosophy parallels
 

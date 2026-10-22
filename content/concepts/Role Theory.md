@@ -7,7 +7,7 @@ file: "Role Theory"
 tags: ["theory", "psych/io"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-IO"], "alternatePaths": []}
 ---
-Biddle's 1986 review abstract says role theory "explains roles by presuming that persons are members of social positions and hold expectations for their own behaviors and those of other persons", and notes that "at least five perspectives may be discriminated": functional, symbolic interactionist, structural, organizational, and cognitive role theory ([Biddle, Recent Developments in Role Theory, Annual Review of Sociology 12, 67-92, Annual Reviews](https://www.annualreviews.org/content/journals/soc/12/1)). The seed's description matches the abstract, but the abstract also stresses that role theory is a family of perspectives, not one theory.
+Biddle's 1986 review abstract says role theory "explains roles by presuming that persons are members of social positions and hold expectations for their own behaviors and those of other persons", and notes that "at least five perspectives may be discriminated": functional, symbolic interactionist, structural, organizational, and cognitive role theory ([Biddle, Recent Developments in Role Theory, Annual Review of Sociology 12, 67-92, Annual Reviews](https://www.annualreviews.org/content/journals/soc/12/1)). The original entry's description matches the abstract, but the abstract also stresses that role theory is a family of perspectives, not one theory.
 
 ### Core terms
 
@@ -15,7 +15,7 @@ A Kent review quotes Banton's definition of a role as "the expected behaviour as
 
 ### Conflict and strain
 
-Biddle's article says that where norms come from several sources, individuals "are often subjected to role conflicts in which they must contend with antithetical norms for their behavior", and that such conflicts "produce strain". Role conflict is "normally defined as the concurrent appearance of two or more incompatible expectations for the behavior of a person" ([Biddle 1986, full text copy hosted on sci-hub; the abstract is at Annual Reviews](https://moscow.sci-hub.se/1144/d19d3119afe0b8ee49b3a276a5dc1d89/biddle1986.pdf)). Goode (1960) emphasised strain from participating in multiple roles (Kent PDF). The seed also names ambiguity, which none of these excerpts discuss, so that part is unverified here.
+Biddle's article says that where norms come from several sources, individuals "are often subjected to role conflicts in which they must contend with antithetical norms for their behavior", and that such conflicts "produce strain". Role conflict is "normally defined as the concurrent appearance of two or more incompatible expectations for the behavior of a person" ([Biddle 1986, full text copy hosted on sci-hub; the abstract is at Annual Reviews](https://moscow.sci-hub.se/1144/d19d3119afe0b8ee49b3a276a5dc1d89/biddle1986.pdf)). Goode (1960) emphasised strain from participating in multiple roles (Kent PDF). The original entry also names ambiguity, which none of these excerpts discuss, so that part is unverified here.
 
 ### Debates
 

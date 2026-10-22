@@ -17,7 +17,7 @@ The compendium pairs sleep hygiene with cognitive behavioural therapy for insomn
 
 ### In the compendium
 
-BE038 and BI015 (Learn sleep hygiene) and BE039 and BI016 (Learn CBT-I) are the nearest principles, and they should be read with the distinction above. The seed's second citation, Stepanski and Perlis (2000), was not opened for this page.
+BE038 and BI015 (Learn sleep hygiene) and BE039 and BI016 (Learn CBT-I) are the nearest principles, and they should be read with the distinction above. Stepanski and Perlis (2000) is cited at second hand.
 
 ## Related concepts
 

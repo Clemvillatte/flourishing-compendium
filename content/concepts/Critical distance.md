@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Critical distance” — Ricoeur, "The Task of Hermeneutics".
 
-Critical distance, in Paul Ricoeur's hermeneutics, is the idea that stepping back from what we want to understand can be productive, not only alienating. The seed cites "The Task of Hermeneutics". The text opened for this page is a related Ricoeur essay on the same theme, "The Hermeneutical Function of Distanciation" (chapter 4 of Hermeneutics and the Human Sciences, ed. and trans. John B. Thompson); the seed essay itself was not opened.
+Critical distance, in Paul Ricoeur's hermeneutics, is the idea that stepping back from what we want to understand can be productive, not only alienating. The original entry cites "The Task of Hermeneutics". The text opened for this page is a related Ricoeur essay on the same theme, "The Hermeneutical Function of Distanciation" (chapter 4 of Hermeneutics and the Human Sciences, ed. and trans. John B. Thompson).
 
 ### The problem Ricoeur starts from
 

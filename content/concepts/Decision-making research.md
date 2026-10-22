@@ -7,7 +7,7 @@ file: "Decision-making research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Decision-making research is the study of how people actually choose: what they search through, when they stop, and how they feel about what they picked. The seed line for this page anchors it in Barry Schwartz's work on satisficing versus maximizing (Schwartz, 2004), and the strand's empirical core is a 2002 article in the Journal of Personality and Social Psychology that measured who wants the best and what wanting the best costs.
+Decision-making research is the study of how people actually choose: what they search through, when they stop, and how they feel about what they picked. The original entry line for this page anchors it in Barry Schwartz's work on satisficing versus maximizing (Schwartz, 2004), and the strand's empirical core is a 2002 article in the Journal of Personality and Social Psychology that measured who wants the best and what wanting the best costs.
 
 > "Seven samples revealed negative correlations between maximization and happiness, optimism, self-esteem, and life satisfaction, and positive correlations between maximization and depression, perfectionism, and regret." (Schwartz et al., [JPSP 2002](https://pubmed.ncbi.nlm.nih.gov/12416921/), abstract)
 

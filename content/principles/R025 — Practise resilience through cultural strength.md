@@ -20,7 +20,7 @@ As a cross-cultural psychology account, the opened paper The Social Ecology of R
 
 Note the operative clause: resources have to be "provided and experienced in culturally meaningful ways". Ungar glosses culture as "the everyday practices through which individuals and groups manifest a set of shared values, beliefs, language, and customs".
 
-A separate philosophical parallel: MacIntyre describes a living tradition as "an historically extended, socially embodied argument ... in part about the goods which constitute that tradition" (MacIntyre, After Virtue, p. 222, as quoted in [Niehaus 2023](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2413-94672023000300008)).
+A separate philosophical parallel: MacIntyre describes a living tradition as "an historically extended, socially embodied argument... in part about the goods which constitute that tradition" (MacIntyre, After Virtue, p. 222, as quoted in [Niehaus 2023](https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2413-94672023000300008)).
 
 (Aboriginal SEWB framework; Dudgeon et al., 2014, Working Together; Ungar, 2008.)
 

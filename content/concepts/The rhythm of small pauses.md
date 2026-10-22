@@ -21,7 +21,7 @@ The evidence for micro-breaks is modest and honest about its limits. A meta-anal
 
 ## Related concepts
 
-- [[ST015 — Paterson Writes Poems on His Lunch Break]] — inherited story link
+- [[ST015 — Paterson Writes Poems on His Lunch Break]] — story link
 - [[Walking meditation]] — the general practice kinhin is a form of
 - [[Attention restoration]] — Kaplan's research-side account of what breaks restore
 

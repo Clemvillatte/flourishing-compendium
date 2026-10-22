@@ -54,5 +54,5 @@ Self · Psychological science
 [[SE069 — Recognise identity disturbances — when self is fragmented]]
 ## Sources
 
-- [Hogan Assessments, "Socioanalytic Theory" (publisher PDF)](http://www.hoganassessments.com/sites/default/files/Socioanalytic%20Theory%20(2).pdf) — the three needs, identity/reputation definitions, and the Hogan 2004 agenda statement; PDF opened this session
-- [Gottlieb, T., Furnham, A. and Klewe, J. (2021), "Personality in the Light of Identity, Reputation and Role Taking: A Review of Socioanalytic Theory", Psychology 12, 2020-2041 (open access)](https://www.scirp.org/pdf/psych_2021122114111230.pdf) — identity/reputation definitions, the three master motives, role-taking as social skill, the theory's intellectual roots; PDF opened this session
+- [Hogan Assessments, "Socioanalytic Theory" (publisher PDF)](http://www.hoganassessments.com/sites/default/files/Socioanalytic%20Theory%20(2).pdf) — the three needs, identity/reputation definitions, and the Hogan 2004 agenda statement; publisher PDF
+- [Gottlieb, T., Furnham, A. and Klewe, J. (2021), "Personality in the Light of Identity, Reputation and Role Taking: A Review of Socioanalytic Theory", Psychology 12, 2020-2041 (open access)](https://www.scirp.org/pdf/psych_2021122114111230.pdf) — identity/reputation definitions, the three master motives, role-taking as social skill, the theory's intellectual roots; publisher PDF

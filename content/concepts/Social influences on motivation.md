@@ -7,13 +7,13 @@ file: "Social influences on motivation"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Social influences on motivation are the ways other people, their norms, and the support or pressure they provide change what a person wants to do and how strongly. The seed attributes this to Festinger (1954) and Cialdini (2001). Three sources I opened bear on it, and each covers a different part.
+Social influences on motivation are the ways other people, their norms, and the support or pressure they provide change what a person wants to do and how strongly. The original entry attributes this to Festinger (1954) and Cialdini (2001). Three sources I opened bear on it, and each covers a different part.
 
 > "Human beings can be proactive and engaged or, alternatively, passive and alienated, largely as a function of the social conditions in which they develop and function." (Ryan and Deci, 2000, American Psychologist 55(1):68-78, [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/11392867/))
 
 ### Social conditions and self-motivation
 
-Ryan and Deci's abstract says research guided by self-determination theory has focused on "the social-contextual conditions that facilitate versus forestall the natural processes of self-motivation and healthy psychological development." It reports three innate psychological needs, competence, autonomy and relatedness, which "when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being" ([Ryan and Deci, 2000](https://pubmed.ncbi.nlm.nih.gov/11392867/)). This is the support side of the seed sentence.
+Ryan and Deci's abstract says research guided by self-determination theory has focused on "the social-contextual conditions that facilitate versus forestall the natural processes of self-motivation and healthy psychological development." It reports three innate psychological needs, competence, autonomy and relatedness, which "when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being" ([Ryan and Deci, 2000](https://pubmed.ncbi.nlm.nih.gov/11392867/)). This is the support side of the original entry sentence.
 
 ### Comparison with others
 
@@ -25,7 +25,7 @@ For the norms side I opened Cialdini and Goldstein's 2004 Annual Review article,
 
 ### In the compendium
 
-MO009 (Recognise that motivation is social) and MO017 (Cultivate relatedness) rest most directly on the self-determination material above. R107 and AF036 are further from these sources. The seed's 2001 Cialdini citation was not opened. This page uses the 2004 review instead and says so.
+MO009 (Recognise that motivation is social) and MO017 (Cultivate relatedness) rest most directly on the self-determination material above. R107 and AF036 are further from these sources. This page uses the 2004 review instead of the 2001 Cialdini citation.
 
 ## Related concepts
 

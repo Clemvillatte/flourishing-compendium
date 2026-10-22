@@ -29,7 +29,7 @@ The passage continues: "there were always choices to make. Every day, every hour
 
 ## Sources
 
-- Frankl, Man's Search for Meaning (inherited seed citation)
+- Frankl, Man's Search for Meaning
 
 - [Frankl, Man's Search for Meaning (Internet Archive)](https://archive.org/details/man-s-search-for-meaning-viktor-e.-frankl) — the last-human-freedom and unavoidable-suffering passages verified verbatim
 

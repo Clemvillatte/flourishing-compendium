@@ -25,7 +25,7 @@ The Treasury discussion of the term adds its context: kaitiakitanga is "most oft
 ## Sources
 
 - [New Zealand Treasury, "He Ara Waiora / A Pathway Towards Wellbeing," Treasury Discussion Paper 18/11](https://www.treasury.govt.nz/sites/default/files/2018-09/dp18-11.pdf) — carries the Resource Management Act 1991 definition of kaitiakitanga, the dictionary glosses, the environment-and-sustainability context and Kawharu's qualified translation caution; opened full text
-- Mead 2003, Tikanga Māori (Huia) and Durie 1994, Whaiora (Oxford University Press) — cited by the seed; print texts, not directly opened; not relied on for any quotation above
+- Mead 2003, Tikanga Māori (Huia) and Durie 1994, Whaiora (Oxford University Press) — cited by the original entry; print texts, not directly opened; not relied on for any quotation above
 
 ## Psychology parallels
 

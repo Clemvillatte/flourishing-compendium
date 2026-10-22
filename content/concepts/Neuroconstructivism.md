@@ -17,9 +17,9 @@ The abstract continues: "Cognitive development can thus be understood as a traje
 
 A Birkbeck chapter by Westermann, Thomas and Karmiloff-Smith says the approach "places the developmental process at the heart of explanations of developmental deficits" and encourages researchers "to focus on trajectories of development, rather than static snapshots of behaviour at different ages" ([Westermann, Thomas and Karmiloff-Smith, Neuroconstructivism, Birkbeck PDF](https://psyc.bbk.ac.uk/dnl/wp-content/uploads/sites/10/2025/07/Westermann_Thomas_Karmiloff-Smith.pdf)). The fuller statement appears in the book by Mareschal and colleagues, Neuroconstructivism: How the Brain Constructs Cognition (Oxford University Press, 2007), which I saw cited but did not open.
 
-### Fit with the seed
+### Fit with the original entry
 
-The seed says "brain, body and environment". The abstract names neural structures, constraints at many levels and the child's external environment; it does not mention the body as a separate term. Use the abstract's wording when quoting. "Dynamic interaction over time" is supported by the trajectory framing.
+The original entry says "brain, body and environment". The abstract names neural structures, constraints at many levels and the child's external environment; it does not mention the body as a separate term. Use the abstract's wording when quoting. "Dynamic interaction over time" is supported by the trajectory framing.
 ## Sources
 
 - [Neuroconstructivism, Developmental Science 2007 (ERIC)](https://eric.ed.gov/?id=EJ849108)

@@ -18,7 +18,7 @@ Sutra 2.30 lists five abstentions, and the third is the one at issue:
 
 (Yoga Sutras 2.30, trans. James Haughton Woods, *The Yoga-System of Patanjali*, Harvard Oriental Series 17, 1914, p. 178, [Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft).)
 
-The commentary defines theft narrowly: "Theft ... is the unauthorized ... appropriation of things-of-value from another." Then it adds the clause that carries the inner test: "abstinence-from-theft, when free from coveting, is the refusal to do this." So the abstention is the refusal to take, held without the wish to take. Not stealing while quietly craving does not meet the standard.
+The commentary defines theft narrowly: "Theft... is the unauthorized... appropriation of things-of-value from another." Then it adds the clause that carries the inner test: "abstinence-from-theft, when free from coveting, is the refusal to do this." So the abstention is the refusal to take, held without the wish to take. Not stealing while quietly craving does not meet the standard.
 
 Sutra 2.37 (p. 186) names a result: "As soon as he is grounded in abstinence from theft, all jewels approach him." The text says nothing there about time, attention or credit. Treating those as things one can steal is this page's extension, and a modern one, built on the commentary's own point about coveting.
 

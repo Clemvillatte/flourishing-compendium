@@ -24,7 +24,7 @@ The duration rule traces to Brooks and Lack's comparison of short afternoon nap 
 
 ### A guided version
 
-Not applicable: a nap is inherently unguided; there is no instruction track beyond an alarm. (Supervisor disposition, 2026-10-22: kernels for unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: a nap is inherently unguided; there is no instruction track beyond an alarm.
 
 ## Operationalises
 

@@ -34,7 +34,7 @@ The concept matters to the compendium because it is the cleanest tool for testin
 
 - [[Justice]] — listed for comparison
 - [[Intergenerational justice]] — the extension of the veil across generations
-- [[R112 — Practise intergenerational justice]] — inherited principle link
+- [[R112 — Practise intergenerational justice]] — principle link
 
 ## Sources
 

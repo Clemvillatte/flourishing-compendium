@@ -26,7 +26,7 @@ The mechanism is the context-dependence of habits: "when usual contexts for perf
 
 ### A guided version
 
-Not applicable: the practice is a change made to one's own routines, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a change made to one's own routines, not a recording.
 
 ## Operationalises
 

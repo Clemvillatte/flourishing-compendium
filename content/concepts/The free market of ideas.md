@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The free market of ideas” — Milton, Areopagitica.
 
-The seed ties the metaphor to Milton's Areopagitica (1644), his speech against the licensing of books. Milton argues for open encounter between opinions, and a text search of the Gutenberg edition finds no passage using that metaphor for ideas. According to [Wikipedia's article on the marketplace of ideas](https://en.wikipedia.org/wiki/Marketplace_of_ideas), the "free trade in ideas" first appears in Justice Holmes's 1919 dissent in Abrams v. United States, and the phrase "marketplace of ideas" in a concurring opinion by Justice Douglas in United States v. Rumely. The label is therefore later shorthand for Milton's argument. Milton's text was opened in full, and Wikipedia is a secondary source for the later history.
+The original entry ties the metaphor to Milton's Areopagitica (1644), his speech against the licensing of books. Milton argues for open encounter between opinions, and a text search of the Gutenberg edition finds no passage using that metaphor for ideas. According to [Wikipedia's article on the marketplace of ideas](https://en.wikipedia.org/wiki/Marketplace_of_ideas), the "free trade in ideas" first appears in Justice Holmes's 1919 dissent in Abrams v. United States, and the phrase "marketplace of ideas" in a concurring opinion by Justice Douglas in United States v. Rumely. The label is therefore later shorthand for Milton's argument. Milton's text was opened in full, and Wikipedia is a secondary source for the later history.
 
 ### Truth and open encounter
 

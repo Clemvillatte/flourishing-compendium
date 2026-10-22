@@ -39,7 +39,7 @@ A007 "Let reason (logos) guide desire (orexis)" carries the pairing: desire trai
 - [Aristotle, De Anima, trans. J. A. Smith, Books II-III (Classics in the History of Psychology)](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima2.htm) — the three species (II.3); wish in the calculative part (III.9); wish and movement (III.10, [Book III](https://psychclassics.yorku.ca/Aristotle/De-anima/de-anima3.htm))
 - [Aristotle, Nicomachean Ethics, Book III, trans. W. D. Ross (Internet Classics Archive)](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html) — wish versus choice (III.2); the good or the apparent good (III.4)
 - [Lockwood, review of Giles Pearson, Aristotle on Desire, BMCR 2013.09.24](https://bmcr.brynmawr.edu/2013/2013.09.24) — the species of desire; the rationality nuance; plurality of goods
-- Aristotle, De Anima — original seed citation
+- Aristotle, De Anima — original original citation
 
 [[S068 — Distinguish between healthy and unhealthy emotions]]
 [[A007 — Let reason (logos) guide desire (orexis)]]

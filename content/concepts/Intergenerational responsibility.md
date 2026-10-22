@@ -15,7 +15,7 @@ Intergenerational responsibility names the duties owed to people who do not yet 
 
 ### Why the future is owed anything
 
-The one-directional structure is the point: future generations are exposed to present choices and can give nothing back, which for Jonas makes the responsibility unconditional rather than contractual. Gardiner's Perfect Moral Storm, the other seed citation, sharpens the political problem — the worst effects fall on those with no vote and no voice, while the benefits of inaction accrue now. For the essays on flourishing, the concept does two jobs: it extends care beyond the horizon of one life, and it reframes present comfort as a decision made on someone else's behalf.
+The one-directional structure is the point: future generations are exposed to present choices and can give nothing back, which for Jonas makes the responsibility unconditional rather than contractual. Gardiner's Perfect Moral Storm, the other original citation, sharpens the political problem — the worst effects fall on those with no vote and no voice, while the benefits of inaction accrue now. For the essays on flourishing, the concept does two jobs: it extends care beyond the horizon of one life, and it reframes present comfort as a decision made on someone else's behalf.
 
 ## Related concepts
 

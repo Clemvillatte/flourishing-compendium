@@ -43,7 +43,7 @@ Workability is relative to a stated goal. The same article says "there must be t
 - [Hayes, Pistorello and Levin, "Acceptance and Commitment Therapy as a Unified Model of Behavior Change", The Counseling Psychologist 40(7), 976-1002, 2012](https://www.apa.org/education-career/ce/acceptance-commitment.pdf)
 - [Association for Contextual Behavioral Science, "About Contextualism"](https://contextualscience.org/book/export/html/202) and ["Philosophical roots"](https://contextualscience.org/book/export/html/839)
 - [Hayes, "Acceptance and Commitment Therapy, Relational Frame Theory, and the Third Wave of Behavioral and Cognitive Therapies", Behavior Therapy 35(4), 2004 (PDF)](https://contextualscience.org/sites/default/files/318%20ACT%20RFT%20and%20the%20Third%20Wave%20BT%202004.pdf)
-- Seed references, not opened directly: Hayes et al., 2011; Vilardaga et al., 2009; Hayes, Strosahl and Wilson, 2011
+- Seed references: Hayes et al., 2011; Vilardaga et al., 2009; Hayes, Strosahl and Wilson, 2011
 
 ## Cited in psychology parallels
 

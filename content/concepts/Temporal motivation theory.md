@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 motivation decreases with delay and increases with immediacy (Steel & König, 2006).
 
-Temporal motivation theory (TMT) is an integrative model proposed by Piers Steel and Cornelius König to explain why people act now on some goals and put off others. It is best known as a model of procrastination. The seed line is accurate as far as it goes, but it leaves out three other inputs: expectancy, value and impulsiveness. The sources below are abstracts and search excerpts; the 2006 paper itself was not read in full.
+Temporal motivation theory (TMT) is an integrative model proposed by Piers Steel and Cornelius König to explain why people act now on some goals and put off others. It is best known as a model of procrastination. The original entry line is accurate as far as it goes, but it leaves out three other inputs: expectancy, value and impulsiveness. The sources below are abstracts and search excerpts; the 2006 paper itself was not read in full.
 
 ### What the 2006 paper proposes
 

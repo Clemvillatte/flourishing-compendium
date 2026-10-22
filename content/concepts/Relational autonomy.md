@@ -15,7 +15,7 @@ Relational autonomy names a family of feminist accounts that revise the ideal of
 
 ### What follows
 
-If persons are socially embedded, then the capacity to act on one's own reasons is something supported or undermined by one's relations, and the autonomous life is not the unencumbered one. The seed line above carries the practical reading: care, recognition and social conditions are the media of autonomy, not its enemies.
+If persons are socially embedded, then the capacity to act on one's own reasons is something supported or undermined by one's relations, and the autonomous life is not the unencumbered one. The original entry line above carries the practical reading: care, recognition and social conditions are the media of autonomy, not its enemies.
 
 ## Related concepts
 

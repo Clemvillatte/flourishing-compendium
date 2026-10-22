@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 
 Chapter 44 asks whether fame or life matters more, then asks the same about life and wealth. Legge's verse warns about keeping possessions at the cost of one's life. It ends by praising contentment and knowing when to stop. (DDJ 44.)
 
-> Keep life and lose those other things;
+> Keep life and lose those other things
 > Keep them and lose your life:—which brings
 > Sorrow and pain more near?
 >

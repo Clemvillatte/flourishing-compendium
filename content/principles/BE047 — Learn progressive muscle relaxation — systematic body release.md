@@ -18,7 +18,7 @@ The technique itself is a two-step process:
 
 The review pooled studies of several relaxation methods, including progressive relaxation:
 
-> "As hypothesized, relaxation training showed a medium-large effect size in the treatment of anxiety. Cohen's d was .57 (95% CI: .52 to .68) in the within analysis and .51 (95% CI: .46 to .634) in the between group analysis." (Manzoni et al., 2008, Abstract, Results)
+> "As hypothesized, relaxation training showed a medium-large effect size in the treatment of anxiety. Cohen's d was.57 (95% CI: .52 to .68) in the within analysis and .51 (95% CI: .46 to .634) in the between group analysis." (Manzoni et al., 2008, Abstract, Results)
 
 Among the techniques compared, "applied relaxation, progressive relaxation and meditation showed greater effect sizes than other techniques." The authors' own summary keeps the caveat inside the claim: "Notwithstanding its limitations, the present meta-analytical study show consistent and significant efficacy of relaxation training in reducing anxiety." (Conclusion)
 

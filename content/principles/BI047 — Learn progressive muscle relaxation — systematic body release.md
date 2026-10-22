@@ -16,11 +16,10 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 
 (Manzoni, Pagnini, Castelnuovo and Molinari, "Relaxation training for anxiety: a ten-years systematic review with meta-analysis," BMC Psychiatry 8:41, 2008, Conclusion; [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2427027/).)
 
-That review pooled 27 studies from 1997 to 2007, and the within-group analysis gave Cohen's d of .57 (95% CI .52 to .68). Of the studies, 19 randomly allocated people to relaxation or a control or comparison group, and these gave d of .51. The authors report that the effect varied a good deal between studies (Q significant), and they advise that the overall efficacy "must be handled with caution because of the differences among the relaxation approaches considered, the kind of subjects and the questionnaire used." They also found that efficacy rose with the length of the protocol.
+That review pooled 27 studies from 1997 to 2007, and the within-group analysis gave Cohen's d of.57 (95% CI.52 to .68). Of the studies, 19 randomly allocated people to relaxation or a control or comparison group, and these gave d of.51. The authors report that the effect varied a good deal between studies (Q significant), and they advise that the overall efficacy "must be handled with caution because of the differences among the relaxation approaches considered, the kind of subjects and the questionnaire used." They also found that efficacy rose with the length of the protocol.
 
 A later systematic review of 46 publications covering 3,402 adults concluded that "PMR are effective in reducing stress, anxiety, and depression in adults" (Muhammad Khir et al., Psychology Research and Behavior Management 17, 2024, summary as shown on [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10844009/)). The same page lists individual studies in which PMR did not significantly reduce anxiety, for instance a single 20-minute session in 40 university students.
 
-The Jacobson (1938) and Lehrer and Gevirtz (2014) citations in the psychology section were not opened, and the entry's tension timings (5 seconds hold, 15 seconds release) were not checked against a source.
 
 **Plain words** Progressive muscle relaxation means tensing one muscle group at a time, letting go, and noticing the difference. Across many trials this kind of training lowers anxiety by a medium amount, with more benefit from longer programmes. A single short session may do little.
 

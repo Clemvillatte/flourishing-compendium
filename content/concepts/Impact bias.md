@@ -26,7 +26,7 @@ The abstract flags one asymmetry: "This is especially true when predicting react
 ## Sources
 
 - Wilson, T. D., and Gilbert, D. T., "Affective Forecasting: Knowing What to Want", Current Directions in Psychological Science 14(3), 2005 — [Sage abstract](https://journals.sagepub.com/doi/abs/10.1111/j.0963-7214.2005.00355.x)
-- Wilson and Gilbert, 2003 — seed citation carried over; not opened this session, no quote attributed to it
+- Wilson and Gilbert, 2003 — original citation carried over
 
 ## Cited in psychology parallels
 

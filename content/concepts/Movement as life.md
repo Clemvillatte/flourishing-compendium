@@ -7,7 +7,7 @@ file: "Movement as life"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-Movement as life is the Daoist reading of existence as process: the world and the self are not fixed things but transformations, and living well means moving with them. The seed's source is the Zhuangzi, whose cosmology sees "seasonal transformations of opposites," the world as "a giant clod" around which the heavens revolve about a polar axis ([IEP, Zhuangzi](https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/)). The sage's aim is to settle into that axis and "ride the transformations of the cosmos free from harm" ([IEP](https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/)).
+Movement as life is the Daoist reading of existence as process: the world and the self are not fixed things but transformations, and living well means moving with them. The original entry's source is the Zhuangzi, whose cosmology sees "seasonal transformations of opposites," the world as "a giant clod" around which the heavens revolve about a polar axis ([IEP, Zhuangzi](https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/)). The sage's aim is to settle into that axis and "ride the transformations of the cosmos free from harm" ([IEP](https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/)).
 
 ### The moving texts
 

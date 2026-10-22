@@ -17,7 +17,7 @@ Lim and Dinges meta-analysed 70 articles with 147 cognitive tests on short-term 
 
 ### Partial loss accumulates
 
-Van Dongen and colleagues restricted 48 healthy adults to 4, 6 or 8 hours in bed for 14 days, or to no sleep for three nights. They found that "chronic restriction of sleep periods to 4 h or 6 h per night over 14 consecutive days resulted in significant cumulative, dose-dependent deficits in cognitive performance on all tasks," and that "subjects were largely unaware of these increasing cognitive deficits" ([Van Dongen et al., 2003, Sleep 26(2), 117-126, PubMed](https://pubmed.ncbi.nlm.nih.gov/12683469/)). This study is not among the page's seed citations. It is added because it speaks to partial loss, which the other two do not.
+Van Dongen and colleagues restricted 48 healthy adults to 4, 6 or 8 hours in bed for 14 days, or to no sleep for three nights. They found that "chronic restriction of sleep periods to 4 h or 6 h per night over 14 consecutive days resulted in significant cumulative, dose-dependent deficits in cognitive performance on all tasks," and that "subjects were largely unaware of these increasing cognitive deficits" ([Van Dongen et al., 2003, Sleep 26(2), 117-126, PubMed](https://pubmed.ncbi.nlm.nih.gov/12683469/)). This study is not among the page's original citations. It is added because it speaks to partial loss, which the other two do not.
 
 ### Limits
 

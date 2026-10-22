@@ -41,7 +41,7 @@ Hume's footnote distinguishes two species:
 ## Sources
 
 - [Hume D. An Enquiry Concerning the Principles of Morals (1751), Project Gutenberg](https://www.gutenberg.org/files/4320/4320-h/4320-h.htm) — the benevolence chapter and footnote, opened for this page.
-- Diener and Seligman, 2002 — citation carried from the seed; not independently opened this session.
+- Diener and Seligman, 2002 — citation carried from the original entry
 
 ## Cited in philosophy parallels
 

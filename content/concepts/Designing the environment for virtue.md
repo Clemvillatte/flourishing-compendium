@@ -37,7 +37,7 @@ The argument rests on a claim about how character forms: "moral virtue comes abo
 
 - Aristotle, Politics
 
-- [Aristotle, Nicomachean Ethics Book II.1, 1103a14-b26 (W. D. Ross translation, full text)](https://www.millerpolitics.com/AriEthPol.htm) — supports all quoted passages; the seed's Politics is kept above, and the quoted passage explicitly ties habituation to what happens in states and constitutions
+- [Aristotle, Nicomachean Ethics Book II.1, 1103a14-b26 (W. D. Ross translation, full text)](https://www.millerpolitics.com/AriEthPol.htm) — supports all quoted passages; the original entry's Politics is kept above, and the quoted passage explicitly ties habituation to what happens in states and constitutions
 
 [[BE003 — Know that behaviour is triggered by context — environment drives action]]
 [[AT045 — Learn to protect attention through environmental design — the environment is stronger than willpower]]

@@ -19,7 +19,7 @@ A Frontiers review reports that the area typically tied to word processing in li
 
 ### Related ideas and limits
 
-The Neuroemergentism review distinguishes it from Anderson's neural reuse: recycling is about cultural acquisitions such as reading and arithmetic, whereas neural reuse extends to all novel skills ([Neuroemergentism, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6326375/)). The seed phrase "reading and culture" fits, but the hypothesis is narrower than a general claim that culture reshapes the brain: it stresses that old circuits constrain what culture can do. I did not open a published critique.
+The Neuroemergentism review distinguishes it from Anderson's neural reuse: recycling is about cultural acquisitions such as reading and arithmetic, whereas neural reuse extends to all novel skills ([Neuroemergentism, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6326375/)). The original entry phrase "reading and culture" fits, but the hypothesis is narrower than a general claim that culture reshapes the brain: it stresses that old circuits constrain what culture can do. I did not open a published critique.
 ## Related concepts
 
 - [[Neural reuse theory]] — Anderson's broader reuse account

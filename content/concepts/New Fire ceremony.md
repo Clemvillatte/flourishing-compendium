@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 The New Fire ceremony (Classical Nahuatl: Toxiuhmilpilia) was the Mexica (Aztec) rite performed at the close of every 52-year calendar round. The Wikipedia article states its purpose in one line:
 
-> "The New Fire Ceremony ... was an Aztec ceremony performed once every 52 years—a full cycle of the Aztec 'calendar round'—in order to stave off the end of the world." ([Wikipedia](https://en.wikipedia.org/wiki/New_Fire_ceremony))
+> "The New Fire Ceremony... was an Aztec ceremony performed once every 52 years—a full cycle of the Aztec 'calendar round'—in order to stave off the end of the world." ([Wikipedia](https://en.wikipedia.org/wiki/New_Fire_ceremony))
 
 ### What the rite involved
 

@@ -23,7 +23,7 @@ The view is contested. Stanford's entry points readers to criticism of pre-refle
 
 ### Caution for essays
 
-The seed cites only Gallagher, 2000, which I did not open. I have verified the ownership and agency definition through secondary sources quoting Gallagher. Cite those quoted passages as reported, not as direct readings of the 2000 text.
+The original entry cites only Gallagher, 2000, which I did not open. I have verified the ownership and agency definition through secondary sources quoting Gallagher. Cite those quoted passages as reported, not as direct readings of the 2000 text.
 
 ## Facets
 
@@ -41,11 +41,11 @@ The seed cites only Gallagher, 2000, which I did not open. I have verified the o
 - [Reconstructing the minimal self, or how to make sense of agency and ownership (Springer)](https://link.springer.com/article/10.1007/s11097-009-9148-0)
 - [Self-Consciousness (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/archives/FALL2017/entries/self-consciousness/index.html)
 - [The We in Me: An Account of Minimal Relational Selfhood (Springer)](https://link.springer.com/article/10.1007/s11245-018-9564-2)
-- [The phenomenological underpinning of the notion of a ... (ScienceDirect; title truncated in the copy I opened)](https://www.sciencedirect.com/science/article/abs/pii/S1053810008000366)
+- [The phenomenological underpinning of the notion of a... (ScienceDirect; title truncated in the copy I opened)](https://www.sciencedirect.com/science/article/abs/pii/S1053810008000366)
 - [PhilArchive paper on pre-reflective self-awareness (CAP-13)](https://philarchive.org/archive/LPESAA-3)
 - [For-me-ness: a critical assessment of the phenomenal mineness (Springer)](https://link.springer.com/article/10.1007/s10339-026-01383-z?error=cookies_not_supported&code=369bbcc7-2a80-44d3-9695-1656d4072d85)
-- [Subjectivity and Selfhood: Investigating the First-Person ... (Wiley review; title truncated in the copy I opened)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1933-1592.2008.00228.x)
-- Gallagher, 2000: seed reference, not opened directly.
+- [Subjectivity and Selfhood: Investigating the First-Person... (Wiley review; title truncated in the copy I opened)](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1933-1592.2008.00228.x)
+- Gallagher, 2000: original reference
 
 ## Cited in psychology parallels
 

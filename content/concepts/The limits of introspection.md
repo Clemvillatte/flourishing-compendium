@@ -30,7 +30,7 @@ Nisbett and Wilson describe cases in which participants were unaware of a stimul
 
 - [[Introspection illusion]]
 - [[Self-perception theory]]
-- [[Limits of introspection]] — the same construct on a companion page (near-duplicate pair flagged for owner disposition)
+- [[Limits of introspection]] — the same construct on a companion page
 
 ## Sources
 

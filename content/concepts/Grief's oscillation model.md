@@ -22,7 +22,7 @@ Loss-orientation is the concentration on and processing of some aspect of the lo
 ## Related concepts
 
 
-- [[Continuing bonds]] — the other grief-research concept in this band
+- [[Continuing bonds]] — the companion grief-research concept
 - [[AF052]] — AF052 is this model's principle form: grief as oscillation between loss- and restoration-orientation, with respite treated as part of adaptive coping.
 ## Sources
 

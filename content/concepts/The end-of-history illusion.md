@@ -38,7 +38,7 @@ Imagine a person in her thirties committing to a mortgage, a career and a tattoo
 
 ## Sources
 
-- Quoidbach, J., Gilbert, D. T., & Wilson, T. D. (2013). The end of history illusion. Science, 339(6115), 96-98. Author manuscript: https://dtg.sites.fas.harvard.edu/Quoidbach%20et%20al%202013.pdf ; abstract: https://pubmed.ncbi.nlm.nih.gov/23288539/
+- Quoidbach, J., Gilbert, D. T., & Wilson, T. D. (2013). The end of history illusion. Science, 339(6115), 96-98. Author manuscript: https://dtg.sites.fas.harvard.edu/Quoidbach%20et%20al%202013.pdf; abstract: https://pubmed.ncbi.nlm.nih.gov/23288539/
 
 ## Cited in psychology parallels
 

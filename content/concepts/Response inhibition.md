@@ -19,7 +19,7 @@ That neurobiological review says response inhibition "depends upon fronto-basal 
 
 ### Is the pause trainable?
 
-The seed says the pause between impulse and act is trainable and that mindfulness strengthens it, citing Logan and Cowan (1984) and Aron (2007). None of the sources I opened tests training or mindfulness. Logan and Cowan's paper is a model of an act of control, so treat the training claim as unverified until a mindfulness or training study is opened. I did not open Aron (2007) directly; a PMC paper cites it (Aron et al., 2007a,b) for the idea that the inferior frontal gyrus may implement stopping via a hyperdirect pathway to the subthalamic nucleus ([Rational Decision-Making in Inhibitory Control, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3103997/)).
+The original entry says the pause between impulse and act is trainable and that mindfulness strengthens it, citing Logan and Cowan (1984) and Aron (2007). None of the sources I opened tests training or mindfulness. Logan and Cowan's paper is a model of an act of control, so treat the training claim as unverified until a mindfulness or training study is opened. I did not open Aron (2007) directly; a PMC paper cites it (Aron et al., 2007a,b) for the idea that the inferior frontal gyrus may implement stopping via a hyperdirect pathway to the subthalamic nucleus ([Rational Decision-Making in Inhibitory Control, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3103997/)).
 
 ## Facets
 
@@ -32,7 +32,7 @@ The seed says the pause between impulse and act is trainable and that mindfulnes
 - [Inhibition of Action, Thought, and Emotion: A Selective Neurobiological Review (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2396584/)
 - [Understanding and Supporting Inhibitory Control (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11230644/)
 - [Rational Decision-Making in Inhibitory Control (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3103997/)
-- Logan and Cowan, 1984, and Aron, 2007: seed references, not opened directly.
+- Logan and Cowan, 1984, and Aron, 2007: original references
 
 ## Cited in psychology parallels
 

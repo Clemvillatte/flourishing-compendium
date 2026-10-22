@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 different descriptions of the same fact produce different decisions (Levin et al., 1998).
 
-The seed holds for risky choice, the type studied by Tversky and Kahneman, where the effect is reliable. Levin, Schneider and Gaeth (1998) argue that earlier results were mixed because studies used different operational definitions of framing. They distinguish three kinds of valence framing: risky-choice framing (Tversky and Kahneman's), attribute framing, which affects the evaluation of object or event characteristics, and goal framing, which affects the persuasiveness of a communication. ([Organizational Behavior and Human Decision Processes 76:149-188, PubMed 9831520](https://pubmed.ncbi.nlm.nih.gov/9831520/)) The quantitative claims below concern risky-choice framing only.
+The original entry holds for risky choice, the type studied by Tversky and Kahneman, where the effect is reliable. Levin, Schneider and Gaeth (1998) argue that earlier results were mixed because studies used different operational definitions of framing. They distinguish three kinds of valence framing: risky-choice framing (Tversky and Kahneman's), attribute framing, which affects the evaluation of object or event characteristics, and goal framing, which affects the persuasiveness of a communication. ([Organizational Behavior and Human Decision Processes 76:149-188, PubMed 9831520](https://pubmed.ncbi.nlm.nih.gov/9831520/)) The quantitative claims below concern risky-choice framing only.
 
 ### The original demonstration
 

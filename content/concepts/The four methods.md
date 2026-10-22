@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The four methods” — Peirce, "The Fixation of Belief".
 
-In "The Fixation of Belief" (Popular Science Monthly 12, November 1877), Charles Sanders Peirce compares four ways of settling what to believe: tenacity, authority, the a priori method and the method of science. The page rests on the full text, which was opened, and the quotes below were checked against it. The seed names the essay but not the four methods, so the list is spelled out here.
+In "The Fixation of Belief" (Popular Science Monthly 12, November 1877), Charles Sanders Peirce compares four ways of settling what to believe: tenacity, authority, the a priori method and the method of science. The page rests on the full text, which was opened, and the quotes below were checked against it. The original entry names the essay but not the four methods, so the list is spelled out here.
 
 ### Why a method is needed
 

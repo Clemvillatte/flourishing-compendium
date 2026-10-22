@@ -18,7 +18,7 @@ Looks are the best-studied trigger. Dion, Berscheid and Walster reported a "what
 
 ### Scope
 
-Thorndike 1920 is listed as further reading. The seed's claim that confidence and charisma carry a halo, and its hiring claim, are not checked here. Its claim that the traits "were never actually correlated" is too strong, and it is not tested here.
+Thorndike 1920 is listed as further reading. The original entry's claim that confidence and charisma carry a halo, and its hiring claim, are not checked here. Its claim that the traits "were never actually correlated" is too strong, and it is not tested here.
 
 **Plain words**
 A good first impression can lift your rating of everything else about a person, and you probably will not notice it happening. Appearance carries less weight on honesty and kindness than on social skill.

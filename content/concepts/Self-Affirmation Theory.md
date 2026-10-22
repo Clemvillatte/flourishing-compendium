@@ -11,15 +11,15 @@ Steele (1988) proposed the theory in "The psychology of self-affirmation: Sustai
 
 ### Self-integrity
 
-Sherman and Hartson define the central motive as a global sense of self-integrity, "a phenomenal experience of the self . . . as adaptively and morally adequate, that is, competent, good, coherent, unitary, stable, capable of free choice, capable of controlling important outcomes" (Steele 1988, p. 262, as quoted in [Sherman and Hartson, Reconciling Self-Protection with Self-Improvement, PDF](https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman_hartson_2011.pdf)). They add that "the self-system is flexible": if people affirm an important domain of self-worth in another domain, "they will have less need to rationalize away threatening information".
+Sherman and Hartson define the central motive as a global sense of self-integrity, "a phenomenal experience of the self. . . as adaptively and morally adequate, that is, competent, good, coherent, unitary, stable, capable of free choice, capable of controlling important outcomes" (Steele 1988, p. 262, as quoted in [Sherman and Hartson, Reconciling Self-Protection with Self-Improvement, PDF](https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman_hartson_2011.pdf)). They add that "the self-system is flexible": if people affirm an important domain of self-worth in another domain, "they will have less need to rationalize away threatening information".
 
 ### What affirmation changes
 
 Experimental affirmations, such as writing about important values, "can reduce defensive processing of threatening information" (same chapter). A review of health studies found that self-affirmed people were less likely to avoid threatening health information defensively, and that affirming a source of self-worth unrelated to the health topic "seems to counteract defensive responses" ([Self-affirmation theory entry, VU Amsterdam PDF](https://research.vu.nl/ws/files/313166873/2023_Encyclopedia_Self-affirmation_Theory.pdf)). Sherman's 2013 review adds that values affirmations reduced defensiveness and physiological stress responses and helped academic performance among students under identity threat ([Sherman, Self-Affirmation: Understanding the Effects, PDF](https://labs.psych.ucsb.edu/sherman/david/sites/labs.psych.ucsb.edu.sherman.david/files/pubs/sherman_2013.pdf)).
 
-### Reading the seed note
+### Reading the original entry note
 
-The seed says people "defend threatened beliefs to protect global self-worth". The sources frame the defended thing as self-integrity, the adequacy of the self, and the defence as one of two routes: defending directly, or affirming an alternative source of integrity. The theory is not that people always defend beliefs. I did not open critical or replication work on values-affirmation effects, so this entry reports the theory and its supportive literature only.
+The original entry says people "defend threatened beliefs to protect global self-worth". The sources frame the defended thing as self-integrity, the adequacy of the self, and the defence as one of two routes: defending directly, or affirming an alternative source of integrity. The theory is not that people always defend beliefs. I did not open critical or replication work on values-affirmation effects, so this entry reports the theory and its supportive literature only.
 ## Sources
 
 - [Steele 1988, The psychology of self-affirmation (PDF copy, Rutgers)](https://nwkpsych.rutgers.edu/~kharber/selectedtopicsinsocialpsychology/READINGS/Steele%201988.%20the_psychology_of_self-affirmation.pdf)

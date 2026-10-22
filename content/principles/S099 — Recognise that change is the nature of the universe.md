@@ -43,4 +43,4 @@ Is acceptance of change always wise, or are there changes we should refuse? Give
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — opened and verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt ("mere change... life, opinion" printed as Bk IV §3; "Whatsoever dieth and falleth" as Bk VIII §16; death-as-resolution-of-elements as Bk II §15)
+- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt ("mere change... life, opinion" printed as Bk IV §3; "Whatsoever dieth and falleth" as Bk VIII §16; death-as-resolution-of-elements as Bk II §15)

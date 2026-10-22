@@ -29,7 +29,7 @@ In Dewey's account, a novel factor in the surroundings releases an impulse that 
 ## Sources
 
 - [John Dewey, Human Nature and Conduct (1922), Part Three, I, Project Gutenberg](https://www.gutenberg.org/files/41386/41386-h/41386-h.htm) — habit's smooth workings, the hitch that provokes thought, redistribution of activity, conscious search.
-- Dewey, Experience and Nature (seed citation; the compendium's citing principle documents that the quotation comes from Human Nature and Conduct).
+- Dewey, Experience and Nature (original citation; the compendium's citing principle documents that the quotation comes from Human Nature and Conduct).
 
 ## Cited in philosophy parallels
 

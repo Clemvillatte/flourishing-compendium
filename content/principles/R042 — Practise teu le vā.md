@@ -26,7 +26,7 @@ So teu le vā is not a courtesy campaign; it is upkeep on the thing that makes t
 
 ## Sources
 
-- [ANU Press 2026, Vā Moana: Space and Relationality in Pacific Thought and Identity, chapter 7](https://press-files.anu.edu.au/downloads/press/n14864/html/ch07.xhtml) — carries the Wendt 1996 vā passage verbatim with its pp. 18-19 citation; opened. The original essay (Span 42-43:15-29, NZEPC) is robots-blocked for direct fetch; disclosed
+- [ANU Press 2026, Vā Moana: Space and Relationality in Pacific Thought and Identity, chapter 7](https://press-files.anu.edu.au/downloads/press/n14864/html/ch07.xhtml) — carries the Wendt 1996 vā passage verbatim with its pp. 18-19 citation. The original essay (Span 42-43:15-29, NZEPC) is not directly accessible online; the passage is carried by the secondary source above
 - [Tui Atua Tupua Tamasese Ta'isi Efi, 2005, "In Search of Harmony: Peace in the Samoan Indigenous Religion" (colloquium paper, University of Auckland Library)](https://www.library.auckland.ac.nz/external/ebooks/TupuolaEfiTuiatuaColloquiumpaperDec05.pdf) — four harmonies, tuāoi boundaries, feagaiga covenants; opened full text
 
 ## Stories

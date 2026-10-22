@@ -43,7 +43,7 @@ Contemporary virtue ethics has two instigating documents: Anscombe's "Modern Mor
 - [[Virtue ethics]] — the normative tradition that puts this trait first
 ## Sources
 
-- [IEP, Aristotle's Ethics](https://iep.utm.edu/aris-eth/) — hexis, mean (1107a), habituation (1103a-b), phronēsis (1144a), eudaimonia; original seed citation
+- [IEP, Aristotle's Ethics](https://iep.utm.edu/aris-eth/) — hexis, mean (1107a), habituation (1103a-b), phronēsis (1144a), eudaimonia; original original citation
 - [IEP, Virtue Ethics](https://iep.utm.edu/virtue/) — Anscombe 1958 and the revival
 - [SEP, Empirical Approaches to Moral Character](https://plato.stanford.edu/entries/moral-character-empirical/) — the situationist argument and replies
 - [John Doris, Lack of Character (Cambridge, 2002)](https://ndpr.nd.edu/reviews/lack-of-character-personality-and-moral-behavior/) — the challenge, as reviewed in Notre Dame Philosophical Reviews

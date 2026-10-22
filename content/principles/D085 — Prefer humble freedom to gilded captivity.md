@@ -20,7 +20,7 @@ The tortoise drags its tail in the mud rather than being venerated in a temple; 
 
 The tortoise story comes from chapter 17, where Zhuangzi answers the king of Chu's offer of office:
 
-> "Now would this tortoise rather be dead and have its remains venerated, or be alive and wagging its tail in the mud?" ... "It would rather be alive," replied the two officials, "and wagging its tail in the mud." "Begone!" cried Chuang Tzŭ. "I too will wag my tail in the mud." (Zhuangzi 17, tr. Herbert A. Giles, via [Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi))
+> "Now would this tortoise rather be dead and have its remains venerated, or be alive and wagging its tail in the mud?"... "It would rather be alive," replied the two officials, "and wagging its tail in the mud." "Begone!" cried Chuang Tzŭ. "I too will wag my tail in the mud." (Zhuangzi 17, tr. Herbert A. Giles, via [Wikiquote](https://en.wikiquote.org/wiki/Zhuangzi))
 
 The pheasant is chapter 3's shorter version of the same argument:
 

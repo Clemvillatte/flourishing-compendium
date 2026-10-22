@@ -17,7 +17,7 @@ In chapter 22, the sage holds to humility and refrains from self-display and sel
 > It is because he is thus free from striving that therefore no one in the world is able to strive with him. (DDJ 22, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 
 > He who in (Tao's) wars has skill
-> Assumes no martial port;
+> Assumes no martial port
 > He who fights with most good will
 > To rage makes no resort. (DDJ 68, [Legge](https://www.gutenberg.org/cache/epub/216/pg216.txt))
 

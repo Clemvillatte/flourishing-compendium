@@ -20,8 +20,8 @@ Johnston's commentary on the same book gives the practice a shape: "One of the w
 
 - [[Zhi zu (knowing sufficiency)]] — the Daoist counterpart: knowing what is enough
 - [[Contentment with sufficiency]] — the compendium's treatment of the same trained capacity
-- [[Self-sufficiency]] — the Stoic cousin the seed line names
-- [[Nonattachment]] — the Buddhist middle the seed line names
+- [[Self-sufficiency]] — the Stoic cousin the original entry line names
+- [[Nonattachment]] — the Buddhist middle the original entry line names
 - [[Gratitude]] — a neighboring practice with the same direction of attention
 
 ## Sources

@@ -7,7 +7,7 @@ file: "Procedural justice"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Procedural justice is "the idea of fairness in the processes that resolve disputes and allocate resources" ([Wikipedia, Procedural justice](https://en.wikipedia.org/wiki/Procedural_justice)). The contrast that gives the concept its bite: distributive justice asks whether the outcome is fair, procedural justice asks whether the process was. Tom Tyler's Chicago studies of people who had contact with police and courts made the concept famous in psychology, because the fairness people perceived in the process predicted their compliance and cooperation with the law more strongly than the favorability of the outcome did, the finding the seed line records (Tyler, 2006).
+Procedural justice is "the idea of fairness in the processes that resolve disputes and allocate resources" ([Wikipedia, Procedural justice](https://en.wikipedia.org/wiki/Procedural_justice)). The contrast that gives the concept its bite: distributive justice asks whether the outcome is fair, procedural justice asks whether the process was. Tom Tyler's Chicago studies of people who had contact with police and courts made the concept famous in psychology, because the fairness people perceived in the process predicted their compliance and cooperation with the law more strongly than the favorability of the outcome did, the finding the original entry line records (Tyler, 2006).
 
 ### What makes a procedure fair
 
@@ -15,7 +15,7 @@ The classic checklist comes from Gerald Leventhal's 1976 rules: consistency, bia
 
 ### Why process outranks outcome
 
-Tyler's explanation runs through legitimacy. In his words, "Legitimacy is ...a psychological property of an authority, institution, or social arrangement, that leads those connected to it to believe that it is appropriate, proper, and just" (Tyler, 2006b, p. 375, quoted in [Wikipedia, Legitimacy (criminal law)](https://en.wikipedia.org/wiki/Legitimacy_(criminal_law))). A procedure perceived as fair builds that belief, and the belief then carries compliance when no one is watching. Rawls supplies the philosophical frame in A Theory of Justice: perfect procedural justice has both an independent criterion for the fair outcome and a procedure that guarantees it, while most real institutions are stuck with imperfect procedural justice, where the criterion exists but the guarantee does not.
+Tyler's explanation runs through legitimacy. In his words, "Legitimacy is...a psychological property of an authority, institution, or social arrangement, that leads those connected to it to believe that it is appropriate, proper, and just" (Tyler, 2006b, p. 375, quoted in [Wikipedia, Legitimacy (criminal law)](https://en.wikipedia.org/wiki/Legitimacy_(criminal_law))). A procedure perceived as fair builds that belief, and the belief then carries compliance when no one is watching. Rawls supplies the philosophical frame in A Theory of Justice: perfect procedural justice has both an independent criterion for the fair outcome and a procedure that guarantees it, while most real institutions are stuck with imperfect procedural justice, where the criterion exists but the guarantee does not.
 
 ### In the compendium
 
@@ -44,7 +44,7 @@ Tyler's explanation runs through legitimacy. In his words, "Legitimacy is ...a p
 
 - [Wikipedia, Procedural justice](https://en.wikipedia.org/wiki/Procedural_justice) — definition, Leventhal's rules, the voice findings, the evaluation models (opened)
 - [Wikipedia, Legitimacy (criminal law)](https://en.wikipedia.org/wiki/Legitimacy_(criminal_law)) — the Tyler 2006b legitimacy definition with locator (opened)
-- [Tyler, Why People Obey the Law, Princeton University Press page](https://press.princeton.edu/books/paperback/9780691126739/why-people-obey-the-law) — the book behind the seed citation
+- [Tyler, Why People Obey the Law, Princeton University Press page](https://press.princeton.edu/books/paperback/9780691126739/why-people-obey-the-law) — the book behind the original entry citation
 
 ## Related concepts
 

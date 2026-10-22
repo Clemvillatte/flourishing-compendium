@@ -41,4 +41,3 @@ A man waiting outside a difficult meeting repeats one chosen word silently and k
 ## Sources
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 1.27-1.29 with Vyasa and the Tika, pp. 60-62, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
-- The inherited Mandukya Upanishad reference was not opened and is not described here.

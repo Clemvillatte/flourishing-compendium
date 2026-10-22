@@ -44,4 +44,3 @@ A man tracks a week of evenings and finds that the late scroll leaves him flat t
 
 - [Woods, The Yoga-System of Patanjali (1914), Yoga Sutras 2.30 and 2.38 with Vyasa, Internet Archive](https://archive.org/details/yogasystemofpata00wooduoft)
 - [Vivekananda, Raja-Yoga (1896), commentary on Yoga Sutras 2.38 (p. 209) and Chapter V, Internet Archive full text](https://archive.org/stream/sochara.rajayogaorconque0000vive/sochara.rajayogaorconque0000vive_djvu.txt)
-- The inherited ego-depletion note and Guanzi Neiye parallel were not opened and no claim here rests on them.

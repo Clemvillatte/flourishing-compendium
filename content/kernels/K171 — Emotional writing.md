@@ -26,7 +26,7 @@ The practice is the expressive-writing paradigm of Pennebaker and colleagues. In
 
 ### A guided version
 
-Not applicable: the writing is itself the practice; a recording would add nothing and the standard paradigm is unsupervised. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the writing is itself the practice; a recording would add nothing and the standard paradigm is unsupervised.
 
 ## Operationalises
 

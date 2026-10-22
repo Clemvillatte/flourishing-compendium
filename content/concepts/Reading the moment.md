@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Reading the moment” — the Zhouyi, the Book of Changes' timing tradition.
 
-The label is the compendium's summary, and the seed names a tradition without a passage. The Zhouyi (Changes of Zhou) is the core text of the Yijing, and its commentaries (the Ten Wings) develop the idea of acting in tune with the configuration of the moment. The account below rests on two Stanford Encyclopedia of Philosophy entries read as search excerpts; the primary text was not opened.
+The label is the compendium's summary, and the original entry names a tradition without a passage. The Zhouyi (Changes of Zhou) is the core text of the Yijing, and its commentaries (the Ten Wings) develop the idea of acting in tune with the configuration of the moment. The account below rests on two Stanford Encyclopedia of Philosophy entries.
 
 ### The moment as a field of action
 

@@ -48,5 +48,5 @@ How does this advice relate to ambition? Can a person be driven and still discip
 -->
 
 ## Sources
-- Epictetus, Enchiridion 1, 2, 8 and Discourses I.4 ("Of Progress or Improvement") and III.2 (three topics), tr. George Long — opened and verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+- Epictetus, Enchiridion 1, 2, 8 and Discourses I.4 ("Of Progress or Improvement") and III.2 (three topics), tr. George Long — verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
 - Hofmann et al. desire experience-sampling figures (current desire ~50% of signals; ~42% of desires resisted) — verified in the open authors' chapter describing the 2012 study: https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/hofmann_kotabe_vohs_baumeister_desire_edited_book_chapter_2015_1.pdf

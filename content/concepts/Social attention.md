@@ -7,7 +7,7 @@ file: "Social attention"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Social attention is the way one person's attention is guided by what other people are attending to, most clearly through where they look. The seed's citation, Frischen, Bayliss and Tipper's 2007 review in Psychological Bulletin, opens its abstract like this:
+Social attention is the way one person's attention is guided by what other people are attending to, most clearly through where they look. The original entry's citation, Frischen, Bayliss and Tipper's 2007 review in Psychological Bulletin, opens its abstract like this:
 
 > "During social interactions, people's eyes convey a wealth of information about their direction of attention and their emotional and mental states." ([Frischen, Bayliss and Tipper, 2007, Psychol Bull 133(4):694-724, abstract](https://pubmed.ncbi.nlm.nih.gov/17592962/))
 

@@ -13,7 +13,7 @@ Complicated grief research studies the cases where grief does not slowly reorgan
 
 ## Where it comes from
 
-The research line runs from descriptions of "traumatic grief" and "complicated grief" (Prigerson and colleagues; Shear and colleagues, as cited in the seed) to a formal diagnosis: in March 2022, PGD was added as a mental disorder in the DSM-5-TR, and it is also listed in the ICD-11 ([Wikipedia, Prolonged grief disorder](https://en.wikipedia.org/wiki/Prolonged_grief_disorder)).
+The research line runs from descriptions of "traumatic grief" and "complicated grief" (Prigerson and colleagues; Shear and colleagues, as cited in the original entry) to a formal diagnosis: in March 2022, PGD was added as a mental disorder in the DSM-5-TR, and it is also listed in the ICD-11 ([Wikipedia, Prolonged grief disorder](https://en.wikipedia.org/wiki/Prolonged_grief_disorder)).
 
 ## How it works
 
@@ -39,7 +39,7 @@ Emotion · Clinical science
 
 ## Sources
 
-- Shear, M. K., et al. (2011). Treatment of complicated grief. (As cited in the seed; title and venue not independently verified.)
+- Shear, M. K., et al. (2011). Treatment of complicated grief. (As cited in the original entry; title and venue not independently verified.)
 - Prigerson, H. G., et al. (1997). Traumatic grief as a risk factor for mental and physical morbidity. American Journal of Psychiatry, 154, 616-623.
 - [Wikipedia, Prolonged grief disorder](https://en.wikipedia.org/wiki/Prolonged_grief_disorder) — definition, diagnosis, classification, verbatim (opened)
 

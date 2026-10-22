@@ -29,7 +29,7 @@ The chapter's examples are typists, organists and stick users. Of the typist he 
 
 ## Sources
 
-- Merleau-Ponty, Phenomenology of Perception (inherited seed citation)
+- Merleau-Ponty, Phenomenology of Perception
 
 - [Merleau-Ponty, Phenomenology of Perception, Colin Smith translation (Internet Archive)](https://archive.org/details/merleaupontyphenomenologyofperception) — the organist, typist and dilating-being passages verified verbatim
 

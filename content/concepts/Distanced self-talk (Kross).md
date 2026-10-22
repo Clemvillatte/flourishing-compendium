@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 using one's own name or third-person pronouns reduces emotional reactivity and improves self-control (Kross et al., 2014; Moser et al., 2017).
 
-Distanced self-talk means referring to yourself by name or with non-first-person pronouns while you reflect on something stressful. The two studies named in the seed support the core idea, with different kinds of evidence. The claim about self-control is the weaker half: Moser and colleagues phrase it as a possibility, and the evidence they report is neural.
+Distanced self-talk means referring to yourself by name or with non-first-person pronouns while you reflect on something stressful. The two studies named in the original entry support the core idea, with different kinds of evidence. The claim about self-control is the weaker half: Moser and colleagues phrase it as a possibility, and the evidence they report is neural.
 
 ### Kross et al. (2014): seven studies on social stress
 
@@ -29,7 +29,7 @@ A second study using fMRI found reduced medial prefrontal activation, a marker o
 
 ### Related finding on wise reasoning
 
-Grossmann and Kross (2014) report that across three experiments (N = 693), people reasoned more wisely about another person's problems than about their own, and that self-distancing eliminated this asymmetry. ([Psychological Science, PubMed 24916084](https://pubmed.ncbi.nlm.nih.gov/24916084/)) This is why the compendium links the concept to wise reasoning, but it is a separate study from the two the seed names.
+Grossmann and Kross (2014) report that across three experiments (N = 693), people reasoned more wisely about another person's problems than about their own, and that self-distancing eliminated this asymmetry. ([Psychological Science, PubMed 24916084](https://pubmed.ncbi.nlm.nih.gov/24916084/)) This is why the compendium links the concept to wise reasoning, but it is a separate study from the two the original entry names.
 
 ### In the compendium
 

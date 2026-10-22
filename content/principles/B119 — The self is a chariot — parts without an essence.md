@@ -18,7 +18,7 @@ In the Milindapañha, King Milinda asks the monk Nāgasena his name. Nāgasena a
 
 Nāgasena then asks how the king travelled. By carriage, says Milinda. So what is the carriage?
 
-> "Is it the pole that is the chariot?" ... "Is it the wheels, or the framework, or the ropes, or the yoke, or the spokes of the wheels, or the goad, that are the chariot?" ... "Then is it all these parts of it that are the chariot?" ... "But is there anything outside them that is the chariot?"
+> "Is it the pole that is the chariot?"... "Is it the wheels, or the framework, or the ropes, or the yoke, or the spokes of the wheels, or the goad, that are the chariot?"... "Then is it all these parts of it that are the chariot?"... "But is there anything outside them that is the chariot?"
 > — T. W. Rhys Davids, trans., The Questions of King Milinda (SBE 35, pp. 43-44)
 
 To each the king says no, and Nāgasena concludes, "Chariot is a mere empty sound." Milinda replies that the word applies "on account of its having all these things". Nāgasena agrees and turns it on himself, citing a verse by the nun Vajirā:

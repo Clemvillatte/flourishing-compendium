@@ -26,7 +26,7 @@ The practice is Worthington's REACH forgiveness intervention, tested in a multis
 
 ### A guided version
 
-Not applicable: the practice is a decision worked through in one's own mind, not a recording. (Supervisor disposition, 2026-10-22: kernels for inherently unguided practices are exempt from the recording requirement, recorded in the kpr ledger.)
+Not applicable: the practice is a decision worked through in one's own mind, not a recording.
 
 ## Operationalises
 

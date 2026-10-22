@@ -7,7 +7,7 @@ file: "The illusion of certainty"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The illusion of certainty is the gap between how sure a person feels and how much their evidence actually supports the conclusion. The seed for this page is Daniel Kahneman's account in Thinking, Fast and Slow (2011), where feelings of confidence and knowing are treated as products of the mind's storytelling, not as measures of truth. Kahneman's summary of the overconfidence research he reviews:
+The illusion of certainty is the gap between how sure a person feels and how much their evidence actually supports the conclusion. The original entry for this page is Daniel Kahneman's account in Thinking, Fast and Slow (2011), where feelings of confidence and knowing are treated as products of the mind's storytelling, not as measures of truth. Kahneman's summary of the overconfidence research he reviews:
 
 > "We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events." ([Thinking, Fast and Slow, 2011, as quoted at Quotepark](https://quotepark.com/works/thinking-fast-and-slow-3807/))
 

@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 MN 122 frames silence as a decision about talk and company. The Buddha tells Ananda that a monk who delights in company cannot obtain at will, without difficulty or trouble, the pleasure of seclusion, and describes a monk dwelling in internal emptiness who, when visitors come, converses with them only as much as is necessary for them to take their leave. The same passage puts a fence around speech itself ([MN 122, Thanissaro translation](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html)):
 
-> If, while he is dwelling by means of this dwelling, his mind inclines to speaking, he resolves that 'I will not engage in talk that is base, vulgar, common, ignoble, unbeneficial, that does not lead to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening, or Unbinding ...'
+> If, while he is dwelling by means of this dwelling, his mind inclines to speaking, he resolves that 'I will not engage in talk that is base, vulgar, common, ignoble, unbeneficial, that does not lead to disenchantment, dispassion, cessation, calm, direct knowledge, self-awakening, or Unbinding...'
 
 (MN 122, [Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html); abridged, the passage continues with a list of the kinds of talk meant.)
 

@@ -35,5 +35,5 @@ Affect · Psychological science
 
 ## Sources
 
-- Bass, B. M. (1999). Two Decades of Research and Development in Transformational Leadership. European Journal of Work and Organizational Psychology, 8(1), 9-32. — abstract opened and quoted verbatim from the [Taylor & Francis page](https://www.tandfonline.com/doi/abs/10.1080/135943299398410); full text not opened
+- Bass, B. M. (1999). Two Decades of Research and Development in Transformational Leadership. European Journal of Work and Organizational Psychology, 8(1), 9-32. — abstract opened and quoted verbatim from the [Taylor & Francis page](https://www.tandfonline.com/doi/abs/10.1080/135943299398410); full text not consulted for quotations
 - Burns, J. M. (1978). Leadership. Harper & Row. — the founding distinction; cited via the theory's standard literature, not independently opened

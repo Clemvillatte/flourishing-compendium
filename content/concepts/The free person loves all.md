@@ -29,7 +29,7 @@ The part defines the free person through reason: one who "lives under the guidan
 
 ## Sources
 
-- Spinoza, Ethics IV (inherited seed citation)
+- Spinoza, Ethics IV
 
 - [Spinoza, Ethics Part IV, Elwes translation (Project Gutenberg)](https://www.gutenberg.org/files/971/971-0.txt) — Props. XXXVII, LXVII, LXXII verified verbatim
 

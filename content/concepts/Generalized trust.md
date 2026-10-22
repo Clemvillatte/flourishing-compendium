@@ -21,7 +21,7 @@ The 2016 paper also finds that "living in a high-trust environment makes people 
 
 ### Is trusting naive?
 
-The seed note says vulnerability to exploitation depends on context. One piece of evidence is the dropped-wallet experiments in Helliwell and Wang's work, which show that "wallets are far more likely to be returned, even by strangers in large cities, than people expect" ([Helliwell and Wang, CRDCN abstract](https://crdcn.ca/publication/trust-and-well-being-2/)). People under-estimate how trustworthy others are, at least in that setting.
+The original entry note says vulnerability to exploitation depends on context. One piece of evidence is the dropped-wallet experiments in Helliwell and Wang's work, which show that "wallets are far more likely to be returned, even by strangers in large cities, than people expect" ([Helliwell and Wang, CRDCN abstract](https://crdcn.ca/publication/trust-and-well-being-2/)). People under-estimate how trustworthy others are, at least in that setting.
 
 ### Where it comes from
 
@@ -44,7 +44,7 @@ A study of perceived inequality found, in a mediation analysis, that "perception
 - [Mental health and social trust: age and religiosity as moderators among young people in Croatia and Slovenia, Taylor & Francis, 2025](https://www.tandfonline.com/doi/full/10.1080/21515581.2025.2456270)
 - [On Rule of Law, Civic Virtues, Trust, and Happiness, Springer](https://link.springer.com/article/10.1007/s11482-023-10163-2)
 - [Power or opportunity? Perceived inequality on life satisfaction, Asian Journal of Social Psychology, Wiley](https://onlinelibrary.wiley.com/doi/full/10.1111/ajsp.12617)
-- Seed references, not opened directly: Putnam, 2000; Uslaner, 2002, The Moral Foundations of Trust
+- Seed references: Putnam, 2000; Uslaner, 2002, The Moral Foundations of Trust
 
 ## Cited in psychology parallels
 

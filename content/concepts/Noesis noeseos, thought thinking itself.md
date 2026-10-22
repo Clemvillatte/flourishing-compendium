@@ -17,7 +17,7 @@ The argument runs by elimination. The primary god either understands itself or s
 
 ### Where the Nicomachean Ethics comes in
 
-Cohen and Reeve describe this self-understanding as a state of consciousness in which subject and object disappear, "fully and truly attentive, fully alive and joyous," and note that Aristotle defends the same account of blessedness in Nicomachean Ethics X.6-8. The seed's reference to X.7 falls inside that range. This page does not claim that the phrase itself occurs there.
+Cohen and Reeve describe this self-understanding as a state of consciousness in which subject and object disappear, "fully and truly attentive, fully alive and joyous," and note that Aristotle defends the same account of blessedness in Nicomachean Ethics X.6-8. The original entry's reference to X.7 falls inside that range. This page does not claim that the phrase itself occurs there.
 
 ### In the compendium
 

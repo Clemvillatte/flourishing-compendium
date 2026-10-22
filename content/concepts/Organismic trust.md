@@ -7,7 +7,7 @@ file: "Organismic trust"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-The seed names the research line behind this label: Sheldon and Elliot's self-concordance model (1999), an application of self-determination theory to personal goals. The page follows the sense the citing principle uses, trust in one's own nature consulted in the choice of goals.
+The original entry names the research line behind this label: Sheldon and Elliot's self-concordance model (1999), an application of self-determination theory to personal goals. The page follows the sense the citing principle uses, trust in one's own nature consulted in the choice of goals.
 
 ### Goals that fit the person
 
@@ -29,7 +29,7 @@ The dual role matters for the trust the label names: the abstract reports more s
 ## Sources
 
 - [Sheldon, K. M., & Elliot, A. J. (1999). Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model. Abstract, PubMed PMID 10101878](https://pubmed.ncbi.nlm.nih.gov/10101878/) — definition of self-concordance, the dual role, need-satisfaction mediation.
-- Sheldon and Elliot, 1999 (seed citation; abstract linked above).
+- Sheldon and Elliot, 1999 (original citation; abstract linked above).
 - D107 — Trust your own nature (citing principle; Daoist parallel).
 
 ## Cited in psychology parallels

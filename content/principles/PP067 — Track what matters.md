@@ -20,7 +20,7 @@ Mood tracking is less clear. A trial in which mood was monitored for two to four
 
 ### Scope
 
-I did not open the seed's citations (Park et al. 2014; Bolier et al. 2013) for this claim, and none of the studies above tested a one-to-ten well-being rating used to adjust practices. The calibration idea is the compendium's.
+I did not open the original entry's citations (Park et al. 2014; Bolier et al. 2013) for this claim, and none of the studies above tested a one-to-ten well-being rating used to adjust practices. The calibration idea is the compendium's.
 
 **Plain words**
 Tracking a specific behaviour or goal helps people reach it, especially if it is written down or shared. Daily mood ratings can sometimes make low mood feel worse, so stop if the log becomes a source of worry.

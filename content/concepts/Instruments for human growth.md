@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter I", "parent": ""}
 ---
 
-The phrase "instruments for human growth" is the compendium's label for a theme in John Dewey's Democracy and Education: the things around a person, from tools and language to the people they live with, are the means by which growth is directed. The phrase itself does not appear in the book. The nearest wording found in the text is "instrumentalities", used in chapter 3, "Education as Direction". This page therefore reports what Dewey says about growth and about the means of directing it, and does not claim a passage titled with the seed's phrase.
+The phrase "instruments for human growth" is the compendium's label for a theme in John Dewey's Democracy and Education: the things around a person, from tools and language to the people they live with, are the means by which growth is directed. The phrase itself does not appear in the book. The nearest wording found in the text is "instrumentalities", used in chapter 3, "Education as Direction". This page therefore reports what Dewey says about growth and about the means of directing it, and does not claim a passage titled with the original entry's phrase.
 
 ### Growth as the aim
 
@@ -44,7 +44,7 @@ Dewey is writing about education and democracy, not about flourishing in the sen
 ## Sources
 
 - [Dewey, J. (1916). Democracy and Education, chapters 3 and 4, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt): text read and quotes checked against it
-- The seed line gives only "Dewey, Democracy and Education". No passage with the exact phrase was found.
+- The original entry line gives only "Dewey, Democracy and Education". No passage with the exact phrase was found.
 
 [[SP010 — Know yourself as striving]]
 [[ST297 — Ryff's Six Dimensions]]

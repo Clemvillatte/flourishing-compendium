@@ -41,7 +41,7 @@ Verplanken and Roy ran an experiment with 800 participants. Half of the househol
 - [Wood, Tam and Witt, "Changing circumstances, disrupting habits", Journal of Personality and Social Psychology 88(6), 918-933, 2005 (PubMed abstract)](https://pubmed.ncbi.nlm.nih.gov/15982113/)
 - [Verplanken and Roy, "Consumer habits and sustainable consumption" (chapter PDF)](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/202925916/016_CHAPTER_15_Verplanken_Roy_1_2_.pdf)
 - [HABiT (Habits, attitudes, and behaviours in transition), project summary, University of Bath](https://timjackson.org.uk/sustainablelifestyles.ac.uk/projects/change-processes/habits.html)
-- Verplanken, 2012 (seed reference, not opened directly)
+- Verplanken, 2012 (original reference)
 
 ## Cited in psychology parallels
 

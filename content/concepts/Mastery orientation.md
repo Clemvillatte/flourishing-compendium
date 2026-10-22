@@ -40,7 +40,7 @@ Research that only contrasts mastery with performance goals "does not capture th
 - [Annual Review of Psychology chapter on classroom goal structures and student motivation, 2006 (PDF)](http://sohs.pbs.uam.es/webjesus/motiv_ev_autorr/lects%20extranjeras/anual%20review%202006.pdf)
 - [Do Students Distinguish Between Different Types of Performance Goals? (Journal of Experimental Education)](https://www.tandfonline.com/doi/full/10.1080/00220973.2012.745464)
 - [ERIC document ED377212 (goal orientation and writing motivation)](https://files.eric.ed.gov/fulltext/ED377212.pdf)
-- [Understanding Motivation in Early Childhood: Disentangling the ... (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837912/)
+- [Understanding Motivation in Early Childhood: Disentangling the... (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837912/)
 - [Achievement Goals (University of Lausanne repository)](https://api.unil.ch/iris/server/api/core/bitstreams/b38d7c34-9025-447c-898e-752050600320/content)
 - Ames (1992), cited through the sources above and not opened directly
 

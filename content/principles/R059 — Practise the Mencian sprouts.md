@@ -32,4 +32,4 @@ They are beginnings rather than finished growth, and the chapter's instruction i
 - **[[Moral sentiments|Moral sentiments]]** (Hume, A Treatise of Human Nature)
 
 ## Sources
-- Mencius 2A6 (four feelings; child and the well; development instruction), tr. James Legge — opened and verified verbatim: https://www.sacred-texts.com/book/mencius/chapter-6 (ctext robots-blocked). 6A6 and 6A10, inherited citations, were removed from the citation line: unverified this session and no longer needed to support any body claim.
+- Mencius 2A6 (four feelings; child and the well; development instruction), tr. James Legge — verified verbatim: https://www.sacred-texts.com/book/mencius/chapter-6 . 

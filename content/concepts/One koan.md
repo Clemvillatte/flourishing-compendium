@@ -7,7 +7,7 @@ file: "One koan"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-O"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter O", "parent": ""}
 ---
-In the Rinzai line of Zen, a student receives a single assigned kōan, most often Joshū's reply "Mu" to a monk's question whether a dog has Buddha-nature, and works that one case as the entry into practice. The Gateless Gate, the collection named in the seed, lists "Joshu's Dog" as its first case ([Wikisource index](https://en.wikisource.org/wiki/The_Gateless_Gate)).
+In the Rinzai line of Zen, a student receives a single assigned kōan, most often Joshū's reply "Mu" to a monk's question whether a dog has Buddha-nature, and works that one case as the entry into practice. The Gateless Gate, the collection named in the original entry, lists "Joshu's Dog" as its first case ([Wikisource index](https://en.wikisource.org/wiki/The_Gateless_Gate)).
 
 ### The assigned word
 
@@ -31,7 +31,7 @@ Rinzai training begins by assigning a hosshi, a breakthrough kōan, usually the 
 - [Nagatomo, Shigenori, "Japanese Zen Buddhist Philosophy", Stanford Encyclopedia of Philosophy, §2](https://plato.stanford.edu/entries/japanese-zen/) — the kōan method in the Rinzai school, the design of a kōan, Joshū's Mu, the demand to mobilize the whole person.
 - [Wikipedia, "Koan" (accessed 2026-10-21)](https://en.wikipedia.org/wiki/K%C5%8Dan) — breakthrough kōan (hosshi) assignment, the mu-kōan, word-head concentration.
 - [The Gateless Gate, Wikisource index](https://en.wikisource.org/wiki/The_Gateless_Gate) — Case 1 is "Joshu's Dog", translation by Nyogen Senzaki and Paul Reps.
-- Zen tradition, The Gateless Gate (seed citation).
+- Zen tradition, The Gateless Gate (original citation).
 
 ## Cited in philosophy parallels
 

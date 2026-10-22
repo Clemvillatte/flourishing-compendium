@@ -7,7 +7,7 @@ file: "Neuron doctrine"
 tags: ["theory", "psych/biophys"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BIOPHYS"], "alternatePaths": []}
 ---
-The neuron doctrine is "the concept that the nervous system is made up of discrete individual cells, a discovery due to decisive neuro-anatomical work of Santiago Ramón y Cajal and later presented by, among others, H. Waldeyer-Hartz" ([Wikipedia, Neuron doctrine](https://en.wikipedia.org/wiki/Neuron_doctrine)). The seed credits Cajal alone; the sources show a shared effort.
+The neuron doctrine is "the concept that the nervous system is made up of discrete individual cells, a discovery due to decisive neuro-anatomical work of Santiago Ramón y Cajal and later presented by, among others, H. Waldeyer-Hartz" ([Wikipedia, Neuron doctrine](https://en.wikipedia.org/wiki/Neuron_doctrine)). The original entry credits Cajal alone; the sources show a shared effort.
 
 ### Who said what
 

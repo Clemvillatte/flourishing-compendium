@@ -23,7 +23,7 @@ A systematic review of 62 studies and 14,161 participants reports prevalence "fr
 
 ### For the essays
 
-The original claim was a clinical observation in a specific sample, and later work has widened it beyond women and beyond diagnosis. The seed phrase "luck or deception" is a simplification: the 1978 paper also lists hard work, charm and other explanations that the person does not count as intelligence.
+The original claim was a clinical observation in a specific sample, and later work has widened it beyond women and beyond diagnosis. The original entry phrase "luck or deception" is a simplification: the 1978 paper also lists hard work, charm and other explanations that the person does not count as intelligence.
 
 ## Related concepts
 

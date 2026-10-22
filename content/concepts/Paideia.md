@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Paideia is the Greek tradition of formation — the rearing and education of the ideal member of the polis. The Wikipedia summary:
 
-> "Paideia ... referred to the rearing and education of the ideal member of the ancient Greek polis or state. ... Paideia was meant to instill aristocratic virtues in the young citizen men who were trained in this way. An ideal man within the polis would be well-rounded, refined in intellect, morals, and physicality, so training of the body, mind, and soul was important." ([Wikipedia](https://en.wikipedia.org/wiki/Paideia))
+> "Paideia... referred to the rearing and education of the ideal member of the ancient Greek polis or state. ... Paideia was meant to instill aristocratic virtues in the young citizen men who were trained in this way. An ideal man within the polis would be well-rounded, refined in intellect, morals, and physicality, so training of the body, mind, and soul was important." ([Wikipedia](https://en.wikipedia.org/wiki/Paideia))
 
 ### What the formation included
 

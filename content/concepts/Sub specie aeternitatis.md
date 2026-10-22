@@ -31,7 +31,7 @@ Spinoza associates this second way of regarding something as true or real with u
 ## Sources
 
 - [Spinoza, Ethics, Elwes translation (Project Gutenberg #3800)](https://www.gutenberg.org/cache/epub/3800/pg3800.txt) — II Prop. XLIV Corollary II, V Prop. XXIX note, V Prop. XXX
-- [Wikipedia, "Sub specie aeternitatis"](https://en.wikipedia.org/wiki/Sub_specie_aeternitatis) — inherited seed reference
+- [Wikipedia, "Sub specie aeternitatis"](https://en.wikipedia.org/wiki/Sub_specie_aeternitatis) — inherited original reference
 
 ## Cited in philosophy parallels
 
