@@ -6,3 +6,5 @@
 - Repairs applied per advisor round (milestone): the "ordinary failure sounds like an event that happens to a project" explanation removed; "Jaspers' point is not that shipwreck is secretly good" removed; the shipwreck wording now explicitly attributed to Wahl's note reporting Marcel and Landsberg, not to Jaspers' own English; the inherited "Jaspers, Philosophy" seed reference preserved as a further-reading line, marked not-opened; inline hyperlinks added to every Way to Wisdom quotation.
 - Scope: Way to Wisdom is the 1951 distillation; no claim requiring the Philosophie text is made on the page.
 - QC disposition: validator ok vs seed baseline 7b2d6ca; advisor milestone re-clearance pending.
+
+- Advisor rounds 3-4 (milestone): round-3 edits applied (Wahl attribution reworded to the advisor's exact phrasing; p. 23 link added to the snatch sentence; Sources process language moved to the ledger with a bare further-reading line; Breakdown row reduced to a bare link). Verdict round 4: scoped PASS (this page, this evidence; E092 and the predecessor's provenance flags explicitly outside scope).

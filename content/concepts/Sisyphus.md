@@ -13,7 +13,7 @@ Sisyphus is the figure from Greek myth whom Camus takes as the "absurd hero" in 
 
 ### The conscious descent
 
-Camus's attention is fixed on the walk back down: "That hour like a breathing-space which returns as surely as his suffering, that is the hour of consciousness" ([final chapter](https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt)). Consciousness is both the torture and the victory, because the fate is seen whole and owned: "His fate belongs to him. His rock is his thing." The essay closes on its famous instruction, not a report that Sisyphus feels good:
+Camus's attention is fixed on the walk back down: "That hour like a breathing-space which returns as surely as his suffering, that is the hour of consciousness" ([final chapter](https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt)). Consciousness is both the torture and the victory, because the fate is seen whole and owned: "His fate belongs to him. His rock is his thing." ([final chapter](https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt)) The essay closes on its instruction:
 
 > "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." (Camus, [The Myth of Sisyphus, final chapter, trans. Justin O'Brien 1955](https://archive.org/stream/CamusMythOfSisyphusAndOtherReadings/Camus%20Myth%20of%20Sisyphus%20and%20other%20readings_djvu.txt))
 

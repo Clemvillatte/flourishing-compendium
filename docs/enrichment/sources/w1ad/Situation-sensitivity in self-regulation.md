@@ -8,3 +8,5 @@
 
 - Advisor milestone round disposition: HELD OUT OF DONE (Category C candidate, coined compendium heading). Repairs applied to the retained interim text: opening made neutral (research on matching, not a "finding" of superiority); the M005 line no longer claims "the research agrees the reading comes first" (the studies do not validate Maya daykeeping); the Context sensitivity related row removed (the existing page of that name is the PBT/EEMM construct, a different lineage, so the link would misdirect). Namespace question recorded in docs/enrichment/concept-namespace-audit.md; state reopened and flagged.
 - Degree note: the neighbors output showed the citing principle M005's degree (6), not the concept's; the concept has one principle neighbor.
+
+- Advisor rounds 3-4 (milestone): Aldao quotations linked inline; "no strategy is healthy by definition" removed (narrower source-supported warning kept); hold handling verdict: PASS — item remains OUTSIDE done pending owner disposition; the audit entry corrected (the existing Context sensitivity page is the PBT/EEMM construct, not a Bonanno duplicate; no proven duplicate recorded).
