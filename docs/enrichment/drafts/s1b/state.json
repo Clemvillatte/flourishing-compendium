@@ -475,15 +475,20 @@
    ]
   },
   "s1b-021": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Milk Milk Milk: experimental narrative from Masuda et al 2004; retain sample and inference limits",
    "history": [
     {
      "t": "2026-10-22T15:33:28+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:34:51+00:00",
+     "to": "qc_pending",
+     "note": "Primary 2004 paper read in full; experimental result and explicit limits retained"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:33:28+00:00"
+ "updated": "2026-10-22T15:34:51+00:00"
 }
