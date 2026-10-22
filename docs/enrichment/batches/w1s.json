@@ -10,7 +10,8 @@
   "Outcome forecasting",
   "Participatory decision-making",
   "Person-activity fit",
-  "Person-environment fit"
+  "Person-environment fit",
+  "Multimodal lifestyle interventions"
  ],
  "in_progress": null,
  "flagged": {
@@ -20,6 +21,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:34:03+00:00",
+ "updated": "2026-10-22T11:34:30+00:00",
  "band_done": false
 }
