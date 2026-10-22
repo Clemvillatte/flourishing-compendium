@@ -101,6 +101,19 @@ unverifiable via blocked fetch) is resolved by the direct browser verification. 
 note from the 2026-10-21 owner-directive pass REMAINS: smaller-channel picks (incl. Balanced
 Minds) stay queued for upgrade to authoritative sources (Huberman Lab, Headspace, Tara Brach,
 CMSC etc.) in a later QC pass — that is an upgrade queue item, not a defect.
+Supervisor disposition (2026-10-22 ~12:19Z, worker-sup-6dc18459): PERSON-TITLED PAGES DECIDED —
+KEEP AS AUTHOR-HUBS. "Festinger" (and the recurring person-titled queue items: Habermas,
+Janis, Karasek, Haslam et al, Henrich et al, Hickman et al) stay as person-titled author-hub
+pages, consistent with the existing Habermas.md precedent. Requirements: the page frames the
+person's contribution, cross-links the corresponding concept pages (Festinger.md already links
+Social comparison and Cognitive dissonance), keeps claims bounded to the opened sources, and
+does not duplicate the concept pages' content. No rename/merge. The Festinger WIP may be
+completed and marked done by the next w1aa-class worker under this ruling. The TASKBOARD
+merge-conflict markers flagged at lines 44-51 in the 2026-10-21 note are NO LONGER PRESENT
+(repaired in a later commit) — no action needed. Standing principle-reserve requests
+(w1m/w1aa/verify workers): deferred to the next supervisor session with a clean window —
+minting a reserve via enrich_apply.py is not safe inside the current taper window; flagged in
+the session report.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
