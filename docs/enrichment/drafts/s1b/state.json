@@ -580,7 +580,7 @@
    ]
   },
   "s1b-026": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "Passengers on the Bus: include friendly passengers and non-demonising parts qualification",
    "history": [
     {
@@ -591,9 +591,14 @@
      "t": "2026-10-22T15:48:48+00:00",
      "to": "qc_pending",
      "note": "Primary A3 prompt and Harris 2022 read; friendly passengers, useful concerns and agency limits retained"
+    },
+    {
+     "t": "2026-10-22T15:53:42+00:00",
+     "to": "ready",
+     "note": "Final independent advisor review complete; exact-case and precise-page corrections applied where requested"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:53:36+00:00"
+ "updated": "2026-10-22T15:53:42+00:00"
 }
