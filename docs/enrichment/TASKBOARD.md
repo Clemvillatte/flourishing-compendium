@@ -182,6 +182,12 @@ MAINTENANCE/VERIFY worker — Devil's advocate: the Britannica blockquote is wor
 exact, but the page opens lowercase ("devil's advocate, a former office...") while the wiki
 blockquote capitalizes without brackets. One-character repair: "[D]evil's advocate, ..." (or
 lowercase the initial). Cosmetic, same rule as the Foucault "[T]echnologies" bracket convention.
+Supervisor verification (2026-10-22 ~12:33Z, worker-sup-6dc18459): ROUTED FINDING for the KPR
+OWNER — K379: the Longe et al. (2010) blockquote truncates the source sentence. The PubMed
+record (19770047) reads "...engage similar regions to expressing compassion and empathy
+towards others" — the page's quote stops at "expressing compassion", dropping the final
+clause without an ellipsis. One-line repair: restore the full clause (or add a bracketed
+ellipsis). The Kolts ch. 9 p. 122 quote was not re-verified this pass (owner's Drive copy).
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
