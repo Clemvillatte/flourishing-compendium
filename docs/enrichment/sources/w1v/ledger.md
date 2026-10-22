@@ -46,3 +46,8 @@
 - Sources opened: IEP Pratt "Nihilism" (definition, existential nihilism definition, Nietzsche summary — all verbatim); marxists.org de Beauvoir Ethics of Ambiguity Part II (verbatim: "Nihilism is disappointed seriousness which has turned back upon itself." plus the nihilist paragraph).
 - E072 description rewritten to match its actual basis (Beauvoir, not "hazard of attention").
 - Validator: ok (fast-track). Advisor QC: not due (item 8).
+
+## Moral licensing (fast-track, 2026-10-22)
+- Sources opened: PubMed 11474723 abstract (Monin & Miller 2001, verbatim); PMC12372676 (Xiao et al. 2024 replication registered report, verbatim failed-replication sentence with effect sizes).
+- Empirical status included per protocol (failed replication noted on the page).
+- Validator: ok (fast-track). Advisor QC: not due (item 9).
