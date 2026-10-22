@@ -544,3 +544,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   response prevention) (w1e's finished output, random draw) — all three Law &
   Boisseau 2019 quotes checked against the opened Europe PMC full text (PMC6935308):
   all verbatim. Sample PASS. Twenty-three samples this session, all PASS.
+- Supervisor verification sample 24 (2026-10-22 ~15:40 UTC): Being and beings
+  (random finished-band draw) — the SEP "that which determines entities as entities"
+  quote verbatim vs the opened SEP Heidegger article; the IEP "It is not something;
+  it is not a being" quote verbatim vs the IEP article via the Wayback Machine
+  snapshot (iep.utm.edu bot-walls scripts and the fetch tool; archive copy opened).
+  Sample PASS. Twenty-four samples this session, all PASS.
