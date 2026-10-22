@@ -550,15 +550,20 @@
    ]
   },
   "s1b-025": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Polygraph: coercive calm instruction as thought experiment, not physiological evidence or actual procedure",
    "history": [
     {
      "t": "2026-10-22T15:45:03+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:47:05+00:00",
+     "to": "qc_pending",
+     "note": "Author-manuscript pp8-9 read; fictional threat and imagined detector accuracy explicitly bounded"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:45:03+00:00"
+ "updated": "2026-10-22T15:47:05+00:00"
 }
