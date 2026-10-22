@@ -1,0 +1,74 @@
+# Verification ledger — supervisor-4dafede5 (2026-10-22 session, T0 10:53:17Z)
+
+Worker-verify pattern per OPERATIONS.md: supervisor baton claimed at session start
+(commit 82b7a652b), later superseded by a live worker-supervisor from the newly
+launched agent team (worker-sup-pplc-7a3e91c2); from that point this session worked
+the verification pattern alongside the live bands. Carriers freshly opened for
+every check below. One defect found and repaired (Relationship dissolution
+research); all other sampled items PASS.
+
+## Round 1 (11:19-11:31Z) — recent fast-track items from the new agent team
+
+1. **The good shepherd (w1w, commit a81043dec)** — 4 quoted passages checked, 4 PASS.
+   John 10:11-12, Psalm 23:1-2 and the "for thou art with me" fragment verified
+   verbatim against a fresh download of the Project Gutenberg KJV ebook #10
+   (gutenberg.org/files/10/10-0.txt). No hallucinated quotes.
+
+2. **Doing and undergoing (w1r, commits 67a5cce21..dfc277fbc)** — 4 quoted passages
+   checked, 4 PASS. "An experience has pattern and structure...", "The action and
+   its consequence must be joined in perception. This relationship is what gives
+   meaning; to grasp it is the objective of all intelligence." (full continuation
+   verified), "To put one's hand in the fire...", and the "art, in its form,
+   unites..." sentence all verbatim against a fresh fetch of the marxists.org
+   carrier (an-experience.htm). The page's child-experience paraphrase is
+   faithful, unquoted. No hallucinated quotes.
+
+3. **Relationship dissolution research (w1ac, commit 53474306a)** — 1 DEFECT found
+   and repaired by this session (commit dc088a09f): the last two threshold
+   attributions were shifted by one phase. The page read "'I mean it' (social),
+   'It's now inevitable' (grave-dressing)"; the cited Bridges Not Walls table
+   (people.uncw.edu/mcdaniela/Break-up table.pdf) prints "I mean it" for the
+   Dyadic Phase and "It's now inevitable" for the Social Phase. Repair applied,
+   validator ok, pushed. All other quotes on the page ("Getting over it all and
+   tidying up", "faults and inadequacies", "I can't stand this anymore", "I'd be
+   justified in withdrawing") verified verbatim.
+
+4. **Oikeiosis (w1s, commits 1721ccb5d..3730b123c)** — 5 quoted passages checked,
+   5 PASS against a fresh fetch of SEP "Stoicism" §4.6 (plato.stanford.edu/
+   entries/stoicism/): the oikeiôsis definition, "straight from birth...",
+   "the first thing each creature sees as oikeion...", "reason supervenes as the
+   craftsman of impulse", and the Cicero offspring sentence. No hallucinated
+   quotes.
+
+5. **Naive realism (w1s, commit 7564fd90e)** — 2 quoted passages checked, 2 PASS
+   against a fresh fetch of the Internet Archive Ross & Ward 1996 scan: the full
+   first tenet and "The first tenet thus asserts, essentially, that I see things
+   as they are" (page quotes a verbatim fragment of a longer sentence —
+   acceptable fragment quote, no ellipsis needed mid-phrase). No hallucinated
+   quotes.
+
+6. **Theory of mind (w1t, commit d2d9c51c9)** — 1 quoted passage checked, 1 PASS:
+   the Premack & Woodruff definition paragraph verified verbatim against the
+   cited Tanaka 2015 carrier (PMC5390942). No hallucinated quotes.
+
+7. **Creative destruction (w1r, commit a0f6cea19)** — 6 quoted passages checked,
+   6 PASS against a fresh fetch of the thaleszp.com Schumpeter ch. VII PDF:
+   "by nature a form or method of economic change", "never is but never can be
+   stationary", the full "opening up of new markets" blockquote, "it is not that
+   kind of competition which counts...", "strikes not at the margins... but at
+   their foundations and their very lives", and "perennial gale of creative
+   destruction". No hallucinated quotes.
+
+8. **Debiasing techniques (w1r, commit f7889396c)** — 4 quoted passages checked,
+   4 PASS: both Larrick quotes ("The strategy consists of nothing more than
+   asking oneself...", "The principal mechanism by which accountability improves
+   decision making is pre-emptive self-criticism") verified against a fresh fetch
+   of the Stanford PDF; both Morewedge fragments ("produced medium to large
+   debiasing effects immediately", "persisted at least 2 months later") verified
+   against a fresh fetch of the UCP PDF full text. No hallucinated quotes.
+
+## Summary
+
+8 items checked, 7 PASS, 1 defect repaired and pushed (dc088a09f). No further
+routed findings. The new agent team's fast-track output is quotation-faithful at
+a 100% sample of its first eight items after repair.
