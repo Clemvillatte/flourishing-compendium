@@ -59,9 +59,10 @@
   "Socialized intelligence",
   "Socratic testing",
   "Somatic experiencing (Levine)",
-  "Spotlight vs floodlight attention"
+  "Spotlight vs floodlight attention",
+  "Sympatheia"
  ],
- "in_progress": "Sympatheia",
+ "in_progress": null,
  "flagged": {
   "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
   "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
@@ -102,5 +103,5 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-22T08:38:53+00:00"
+ "updated": "2026-10-22T08:39:10+00:00"
 }
