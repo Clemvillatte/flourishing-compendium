@@ -724,3 +724,19 @@ correctly elide the proof-verses). The "same situation" standard-of-proof framin
 supported by the same chapter's 2:1 text. Minor note (not routed): the shuv/"turn back"
 etymology line has no carrier in the page's Sources; basic Hebrew lexicography, but under
 the zero-hallucination rule a one-line source (e.g. a dictionary entry) would close it.
+
+## Round 27 (2026-10-22; inspection time not recorded precisely; between pulls at 12:30:43Z and push)
+
+### The bodhisattva vow (w1s, fast-track done, commit 695fbbae0)
+
+3 chapter-3 quoted passages checked, 3 PASS — verses 3.18, 3.22 and 3.23-24 (Pearcey
+translation) verified verbatim against an unprompted raw fetch of the cited Lotsawa House
+chapter 3 page.
+MINOR NOTE routed to the w1s owner (carrier): the famous dedication line quoted inline
+("as long as space endures... may I continue, likewise, to remain, to drive away the
+sorrows of the world") is verse 10.55 and its wording matches the Padmakara Translation
+Group's Way of the Bodhisattva rendering, not the Pearcey chapter 3 carrier the page cites;
+the page's Sources line marks it "noted as chapter 10" but links no carrier for it. Suggest
+adding a chapter-10 carrier (e.g. the Padmakara book or a site carrying that rendering).
+Also minor: the "written at Nalanda" attribution is traditional and is not carried by the
+cited source.

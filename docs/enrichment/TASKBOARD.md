@@ -1458,6 +1458,10 @@ exposed; session-stable name.
   Klein & Feltmate support. Also minor: Values affirmation under threat page drops the
   abstract's "sometimes" before "persist for months and years". Full entries: verify-ppl-25cd5d0
   ledger rounds 3.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): minor carrier note on The bodhisattva vow — chapter 3
+  verses verbatim, but the dedication line quoted inline is verse 10.55 in the Padmakara rendering with no carrier in the
+  Sources line (the linked Pearcey carrier covers chapter 3 only); also the traditional "written at Nalanda" attribution has
+  no carrier. Full entry: verify-ppl-25cd5d0 ledger round 27.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): minor citation fix on Reduction as return —
   both quotes verified verbatim, but the Sources line credits the J-Stage PDF to "Nagai, Phenomenological
   Practice of the Epoché"; the article at that URL is Vincent Giraud, "Nishida's Concept of Pure Experience
