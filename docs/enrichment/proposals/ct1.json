@@ -1,0 +1,41 @@
+{
+ "reciprocal": [
+  {
+   "into": "Heart rate variability theory",
+   "link": "Polyvagal theory (Porges)",
+   "why": "Porges treats respiratory sinus arrhythmia as an index of ventral vagal tone and social engagement, while critics call equating RSA with cardiac vagal tone a category mistake (Ryle, 1949)"
+  },
+  {
+   "into": "Autonomic nervous system (sympathetic vs parasympathetic)",
+   "link": "Polyvagal theory (Porges)",
+   "why": "the theory adds a proposed mammalian social-communication circuit on top of the classic sympathetic-parasympathetic division"
+  },
+  {
+   "into": "Parasympathetic activation",
+   "link": "Polyvagal theory (Porges)",
+   "why": "the theory's ventral vagal component is described by Porges as inhibiting sympathetic influences to the heart and dampening the HPA axis"
+  },
+  {
+   "into": "Slow-paced breathing",
+   "link": "Polyvagal theory (Porges)",
+   "why": "slow breathing's parasympathetic shift is often framed in polyvagal terms, though Zaccaro et al. show the effect stands on its own evidence"
+  },
+  {
+   "into": "Heart-rate-variability biofeedback",
+   "link": "Polyvagal theory (Porges)",
+   "why": "HRV biofeedback draws on vagal-tone interpretations of RSA; its best-supported mechanism is baroreflex strengthening (Lehrer & Gevirtz, 2014)"
+  },
+  {
+   "into": "Interoception",
+   "link": "Polyvagal theory (Porges)",
+   "why": "neuroception is neural detection of safety and danger without awareness, distinct from the felt sense of bodily signals"
+  },
+  {
+   "into": "Micro-moments of connection",
+   "link": "Polyvagal theory (Porges)",
+   "why": "the theory's sociality claim parallels Kok and Fredrickson's finding that vagal tone reciprocally predicts positive emotions and social connectedness"
+  }
+ ],
+ "inline": [],
+ "notes": "dropped Psychological safety relation: no source-supported lineage between PVT and workplace safety research was opened this run"
+}
