@@ -551,3 +551,9 @@ Round 61: 1 page, 1 quoted passage verified, no defects.
 1. **Cardinal virtues** — both Aquinas Summa II-II Q61 passages VERIFIED verbatim via the opened New Advent page. PASS.
 
 Round 62: 1 page, 2 quoted passages verified, no defects.
+
+## Round 63
+
+1. **Cognitive defusion** — checked: the page has no verbatim quoted passages (no blockquotes; the "I notice I'm having the thought that..." fragment is a technique formula, not a cited quotation). Nothing to verify. PASS (nothing to check).
+
+Round 63: 1 page checked, no quotes to verify.
