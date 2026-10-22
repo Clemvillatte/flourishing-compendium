@@ -18,16 +18,16 @@
   "The importance of rest",
   "The interdependence of freedoms",
   "The ladder of love",
-  "The layered soul",
   "The laying on of hands",
   "The invisible hand"
  ],
- "in_progress": null,
+ "in_progress": "The layered soul",
  "flagged": {
-  "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs"
+  "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
+  "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:07:41+00:00",
+ "updated": "2026-10-22T08:07:47+00:00",
  "band_done": false
 }
