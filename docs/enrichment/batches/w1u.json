@@ -43,7 +43,9 @@
   "Feedback research",
   "Feedback intervention theory",
   "False memory implantation (Loftus)",
-  "Hindsight bias"
+  "Hindsight bias",
+  "Illusion of explanatory depth",
+  "Interoceptive inference"
  ],
  "in_progress": null,
  "flagged": {
@@ -59,9 +61,11 @@
   "Feedback research": "fast-track §1a: Kluger & DeNisi 1996 quotes verified verbatim against opened HUJI abstract page; p.255 definition and screening figures via opened Wiliam 2011 UCL PDF; validator ok; humanizer staging-pattern ERR fixed | Advisor QC round 1: unverified bibliometric claim removed, section renamed to attention (no timing effect established), unsupported performance-cost specifics replaced by the moderator finding as stated in Wiliam 2011",
   "Feedback intervention theory": "theory-page skeleton applied (definition with theorist quote via Wiliam; origin; core claims in authors words from abstract; functional how-it-explains; marked illustrative example; 4 Related lines): fast-track §1a: Kluger & DeNisi 1996 quotes verified verbatim against opened HUJI abstract page; p.255 definition and screening figures via opened Wiliam 2011 UCL PDF; validator ok | Advisor QC round 1: section labels aligned to EXEMPLARS theory skeleton (Origin/Core claims/How it explains/In everyday life); functional-classification sentence replaced; piano example made explicitly hypothetical; theory assumption kept distinct from moderator finding",
   "False memory implantation (Loftus)": "fast-track §1a: Loftus & Pickrell p.723 sentence quoted verbatim via opened Murphy et al. 2023 replication PDF (UCC CORA); original 25% and replication 35%/8%-27%/14%/52% figures verified against the opened PDF; Related lines added for Reconstructive memory and Hindsight bias; original citation lines preserved incl. Shaw & Porter 2015",
-  "Hindsight bias": "fast-track §1a: Roese & Vohs 2012 definition and three-aspects sentences quoted verbatim from opened full-text PDF (UMN Carlson); bold removed from Facets line per validator; original Fischhoff/Guerin citation lines preserved"
+  "Hindsight bias": "fast-track §1a: Roese & Vohs 2012 definition and three-aspects sentences quoted verbatim from opened full-text PDF (UMN Carlson); bold removed from Facets line per validator; original Fischhoff/Guerin citation lines preserved; Related section added (Reconstructive memory, False memory implantation) to clear validator warning",
+  "Illusion of explanatory depth": "fast-track §1a: Rozenblit & Keil 2002 abstract, procedure and finding sentences quoted verbatim from opened Yale CogDevLab full-text PDF; Related lines for Overconfidence effects, Epistemic humility, The illusion of transparency; original citation lines preserved",
+  "Interoceptive inference": "fast-track §1a: Seth 2013 abstract and concluding-remarks passages quoted verbatim from opened UCL FIL full-text PDF; Related lines for Predictive processing and Embodied self"
  },
  "missing_concepts": [],
- "sources_checked": 5,
- "updated": "2026-10-22T14:09:31+00:00"
+ "sources_checked": 7,
+ "updated": "2026-10-22T14:10:23+00:00"
 }

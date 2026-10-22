@@ -17,6 +17,11 @@ Hindsight bias is the finding that people see outcomes as more predictable after
 
 The review separates memory distortion (I said it would happen), inevitability (it was bound to happen), and foreseeability (I saw it coming), and the practical damage is the same across the three: the past looks more orderly and more foreseeable than it was, which is why the facet below names learning from feedback as the first casualty. Feedback that arrives after an outcome the learner already feels they predicted carries no surprise, and without surprise there is little to update.
 
+## Related concepts
+
+- [[False memory implantation (Loftus)]] — a sibling distortion where confidence attaches to reconstructed content
+- [[Reconstructive memory]] — the memory system whose outputs hindsight rewrites
+
 ## Facets
 
 - impairs learning from feedback
