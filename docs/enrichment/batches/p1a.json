@@ -29,10 +29,9 @@
   "E007",
   "A023",
   "A078",
-  "A091",
-  "A037"
+  "A091"
  ],
- "in_progress": null,
+ "in_progress": "A037",
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
@@ -44,10 +43,10 @@
   "E007": "Reopened for QC: Ground imaginative variation in an opened primary text; distinguish proposed invariants from proven essences",
   "A023": "IN PROGRESS: justice, distribution criteria and correction. Initial reopen reason referred to a different topic and was mistaken; no principle content edited under that mistaken premise.",
   "A078": "Reopened for QC: Clarify Aristotle friendship types without calling pleasure/utility fake; add time, familiarity and non-instrumental application",
-  "A037": "Reopened for QC: Verify exact VI.12 locator; distinguish clever means from good ends without equating skill with manipulation"
+  "A037": "Reopened for QC: Final-item advisor scope clarification: omit psychological-test aside"
  },
  "missing_concepts": [],
  "sources_checked": 41,
- "updated": "2026-10-22T12:19:52+00:00",
+ "updated": "2026-10-22T12:20:46+00:00",
  "band_done": false
 }
