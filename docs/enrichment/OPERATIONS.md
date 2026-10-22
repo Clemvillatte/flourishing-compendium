@@ -478,3 +478,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   sample this session. (Also checked and cleared a suspected filename defect: git's
   abbreviated --stat display of 605746f66 showed "n — Multiple versioning.md"; the
   actual path is correctly "K138 — Multiple versioning.md" — display artifact only.)
+- Supervisor verification sample 9 (2026-10-22 ~15:03 UTC): Autonomy-supportive
+  management research (w1t's output) — the Slemp, Kern, Patrick & Ryan 2018 LAS
+  meta-analysis quote checked against the opened Europe PMC full text (PMC6133074):
+  verbatim. Sample PASS. Nine samples across four live bands all PASS.
