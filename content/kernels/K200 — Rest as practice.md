@@ -21,7 +21,7 @@ Schedule one deliberate do-nothing period daily, 10 minutes, guilt-free. Rest is
 
 ### Evidence
 
-The cited studies examine micro-breaks and detachment from work, not a scheduled daily rest. A meta-analysis of experimental and quasi-experimental studies (22 independent samples, N = 2,335) found small effects of micro-breaks on vigor and fatigue; the pooled overall-performance effect was not statistically significant ([Albulescu et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36044424/)).
+This is a suggested self-guided protocol; its daily ten-minute prescription comes from this wiki, not from an opened practice source. The cited studies examine micro-breaks and detachment from work, not a scheduled daily rest. A meta-analysis of experimental and quasi-experimental studies (22 independent samples, N = 2,335) found small effects of micro-breaks on vigor and fatigue; the pooled overall-performance effect was not statistically significant ([Albulescu et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36044424/)).
 
 > "statistically significant but small effects of micro-breaks in boosting vigor (d = .36, p < .001; k = 9, n = 913), reducing fatigue (d = .35, p < .001; k = 9, n = 803), and a non-significant effect on increasing overall performance (d = .16, p = .116; k = 15, n = 1132)." — [Albulescu et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36044424/)
 
