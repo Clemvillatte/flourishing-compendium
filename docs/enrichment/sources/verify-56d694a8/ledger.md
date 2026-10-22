@@ -523,3 +523,9 @@ Repo in sync with origin/main; the three newest repairs (Attachment theory, Socr
 1. **Attitudinal values** — both Frankl Man's Search for Meaning passages VERIFIED verbatim via the opened archive.org full text. PASS.
 
 Round 58: 1 page, 2 quoted passages verified, no defects.
+
+## Round 59
+
+1. **Bodhicitta** — ROUTED: the "to achieve Buddha-hood for the welfare of all beings" fragment was not located in the opened Lotsawa House Shantideva chapter 1 (possible extraction miss or a different verse); the other carrier is a Google Drive PDF (not openable in the remaining time). Left for the next verify worker.
+
+Round 59: 1 routed item.
