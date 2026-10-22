@@ -53,3 +53,10 @@
 - Note for supervisor: the Westerhof and Slatman 2019 meta-analysis (Wiley) full text did not render through the fetcher (only title/authors/references); the open-access Pan African Medical Journal meta-analysis was used instead.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K248 Positive greetings (worker-k1b-pplx)
+- Sources opened this session: Epley and Schroeder 2014 full text PDF (JEP:General 143(5) 1980-1999, webflow-hosted author copy; verbatim quotes: the train connection-condition instruction, the train result t(94)=2.49 p=.02 d=0.63, the bus results t(72)=2.14 p=.03 d=0.56 and the control comparison, the social-animals closing sentence); Sandstrom 2013 UBC dissertation full text PDF (open.library.ubc.ca; verbatim quotes: the barista social-condition instruction, the manipulation check t(58)=3.05 p=.003 d=.79, the positive/negative affect results F(1,56)=9.28 p=.004 / F(1,56)=4.45 p=.04, the Study 6 ten-day summary with the no-broad-changes sentence).
+- Claims narrowed: the seed's "makes social contact reinforcing and builds the habit of outward attention" dropped from the page (mechanism claims not in the sources); not-covered paragraph states neither study tested greetings as such (barista study = brief conversations at a counter; commuter studies = whole conversations), and the ten-day increase study's null result on broad well-being/belonging quoted verbatim with the flourishing/loneliness nuance.
+- Note: the barista experiment first appeared in Sandstrom and Dunn 2014 (SPPS, paywalled); the dissertation version (Study 5, open) was used as the opened carrier, same experiment, author-hosted.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
