@@ -14,7 +14,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 
 Two Buddhist sources put the practice where the day already is. Thich Nhat Hanh teaches dishwashing as the practice, in two ways of washing. The Zen record has Zhaozhou ask Nanquan what the Way is, and Nanquan answer with the ordinary mind. (TNH, The Miracle of Being Awake; Zen tradition, Zhaozhou.)
 
-> "There are two ways to wash the dishes: The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes." (TNH, [The Miracle of Being Awake](https://www.bps.lk/olib/wh/wh234_Hanh_Miracle-of-Being-Awake.html))
+> "There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes." (Thich Nhat Hanh, The Miracle of Mindfulness, ch. 1, [A Buddhist Library excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm))
 
 > "Zhaozhou asked Nanquan: 'What is the Way?' Nanquan said: 'Ordinary mind is the Way.' Zhaozhou said: 'So should I try to get toward it?' Nanquan said: 'If you try, you move away from it.'" (Gateless Gate 19, [ZenBorder translation](https://www.zenborder.com/koans/))
 

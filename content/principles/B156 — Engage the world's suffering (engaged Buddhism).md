@@ -16,7 +16,7 @@ Thich Nhat Hanh coined the term "engaged Buddhism" in the 1950s, in the middle o
 
 The argument is not that meditation is insufficient; it is that suffering has causes, and some of the causes are in structures rather than in minds. A practice that only works on the mind leaves those causes in place, and the lotus position becomes a comfortable distance from the very thing the practice was meant to address.
 
-> "Buddhism means to be awake, mindful of what is happening in your body, in your feelings, in your mind, and in the world. And if you are awake, you cannot do otherwise than act." (Thich Nhat Hanh, quoted in discussions of engaged Buddhism, [Awakin.org](https://www.awakin.org/v2/read/view.php?tid=222))
+> Buddhism means to be awake, mindful of what is happening in one's body, feelings, mind and in the world. If you are awake, you cannot do otherwise than act compassionately to help relieve suffering you see around you. So Buddhism must be engaged in the world. If it is not engaged, it is not Buddhism. (Thich Nhat Hanh, Buddhist Peace Fellowship newsletter, 1983, as quoted in [KPBS obituary](https://www.kpbs.org/news/international/2022/01/21/thich-nhat-hanh-buddhist-monk-and-peace-activist-dies-at-95) and an [Emory University dissertation](https://etd.library.emory.edu/downloads/pc289j182?locale=fr))
 
 **Plain words** Sitting is not a substitute for acting, and acting is not a substitute for sitting. The tradition's own term — engaged Buddhism — was coined by a monk in a war zone, and it does not mean being calm instead of being useful. It means being calm enough to be useful, in the room, without the reactivity that usually replaces effectiveness. The lotus position is a position from which to enter history, steadier.
 
