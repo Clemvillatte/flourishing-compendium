@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 In Seneca's account, anger is not the first stirring of the mind at an apparent injury. He draws the line in the second book of De Ira:
 
-> "Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve." (Seneca, *De Ira* II.III, [Aubrey Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
+> "Anger is that which goes beyond reason and carries her away with it: wherefore the first confusion of a man's mind when struck by what seems an injury is no more anger than the apparent injury itself: it is the subsequent mad rush, which not only receives the impression of the apparent injury, but acts upon it as true, that is anger, being an exciting of the mind to revenge, which proceeds from choice and deliberate resolve." (Seneca, De Ira II.III, [Aubrey Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
 
 The distinction matters for practice. On Seneca's reading a person may feel the first confusion, wish to avenge, and then be persuaded by reason to give up the intention and calm down; that emotion, under the control of reason, is not yet anger. What crosses into anger is the rush that treats the impression of injury as true.
 
@@ -19,7 +19,7 @@ The distinction matters for practice. On Seneca's reading a person may feel the 
 
 The treatise opens with the stakes as Seneca counts them.
 
-> "no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame." (Seneca, *De Ira* I.II, [Aubrey Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
+> "no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations, sacking of cities, ruin of whole peoples, the persons of princes sold into slavery by auction, torches applied to roofs, and fires not merely confined within city-walls but making whole tracts of country glow with hostile flame." (Seneca, De Ira I.II, [Aubrey Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
 
 Seneca's reasoning runs through the consequences rather than through the claim that anger never corrects anyone. He treats the correction anger appears to offer as a separate question and returns to it elsewhere in the treatise.
 
@@ -27,7 +27,7 @@ Seneca's reasoning runs through the consequences rather than through the claim t
 
 The prescription Seneca sets out in Book II is a narrow one.
 
-> "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end." (Seneca, *De Ira* II.XXIX, [Aubrey Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
+> "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end." (Seneca, De Ira II.XXIX, [Aubrey Stewart translation](https://www.gutenberg.org/files/64576/64576-0.txt))
 
 The same passage continues that anger's first impulses are fierce, and that one should not attempt to quell it all at once. Seneca also writes that we should allow some time to elapse, for time discloses the truth (De Ira II.XXII).
 
@@ -64,10 +64,10 @@ His verses on what hatred does to the person who holds it run in the same direct
 - [[The courage to act against impulse]] — the practice of acting against impulse.
 - [[Enemy as teacher]] — a practice that treats the adversary as material for self-knowledge.
 - [[Delay plus reappraisal]] — a psychological technique involving postponement and re-appraisal.
-- [[D074]] — Daodejing 68 on the fighter who makes no resort to rage.
-- [[K040]] — Shantideva on what hatred destroys.
-- [[SP030]] — Spinoza on how hatred strengthens itself.
-- [[SP031]] — Spinoza's definitions of anger and revenge.
+- [[D074]]
+- [[K040]]
+- [[SP030]]
+- [[SP031]]
 
 ## Sources
 

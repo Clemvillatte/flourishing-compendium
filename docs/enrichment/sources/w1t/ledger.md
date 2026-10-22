@@ -96,3 +96,7 @@ The ledger file was accidentally overwritten with `cat >` at session start. Rest
 ### QC status
 
 Advisor round-2 repairs applied to all five items. Anger still carries one open note (Related list exceeds template). All validate clean.
+
+### Anger Related-list trim (advisor round-2 follow-up)
+
+Removed 4 duplicated principle rows (D074/K040/SP030/SP031 already carried as [[ID]] wikilinks in Related and as full titles in In the compendium; the duplicate [[D074]] etc rows were the redundant ones). Restored the 4 bare [[ID]] wikilinks the validator protects. De-Ira italics removed.
