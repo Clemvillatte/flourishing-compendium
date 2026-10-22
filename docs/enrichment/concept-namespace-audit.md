@@ -449,3 +449,12 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   source-defined carrier (e.g. "Emotion regulation flexibility"), or (c) fold into
   [[Situation selection]] / a future flexibility page. Evidence trail: w1ad ledger entry
   for the item (docs/enrichment/sources/w1ad/Situation-sensitivity in self-regulation.md).
+
+- **Socioemotional wisdom** (2026-10-22, worker-w1ad-pplx-b7c41f2e, w1ad): heading-provenance
+  note, NON-BLOCKING (marked done with on-page disclosure). No opened source uses the phrase;
+  Erikson's term for the eighth-stage strength is simply "wisdom" (The Life Cycle Completed).
+  The page's first paragraph discloses that the qualifier is the compendium's. The underlying
+  construct is source-defined and not duplicated ([[Wisdom]] covers Baltes/Grossmann;
+  [[Ego integrity (Erikson)]] covers the crisis side), so the item was enriched and marked done.
+  Owner may still prefer a rename to "Erikson's wisdom" or a merge; evidence trail in
+  docs/enrichment/sources/w1ad/Socioemotional wisdom.md.
