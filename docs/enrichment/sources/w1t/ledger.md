@@ -26,3 +26,15 @@ Decisions:
 - Reciprocal proposals written to docs/enrichment/proposals/w1t.json (8 reciprocals, 2 inline for A029/A115).
 - Mention hunt run: anger/irate/wrath/rage returned A Reference (Book I Appendix A Saturation Checklist), A-S02 layer, A-S11 layer, A003, A011 as hits. A003 and A011 already cite anger; A029 and A115 identified as principle owners of anger content.
 - No new concept pages created.
+
+### Attentional synchronisation in groups (fast-track, deg 6)
+
+Sources opened (fetch_url, fresh):
+- https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01914.x — Richardson/Dale/Kirkham 2007 Psychological Science 18(5):407-413. Full abstract fetched verbatim.
+- https://pubmed.ncbi.nlm.nih.gov/28457867/ — Dikker et al. 2017 Current Biology 27(9):1375-1380. Abstract fetched verbatim via PubMed.
+
+Decisions:
+- Fast-track eligibility: deg 6 < 15 confirmed via neighbors.
+- Both seed citations resolved to actual records. Original seed citations preserved as URL-bearing links.
+- AT009/AF022 existing Cited-in wikilinks preserved.
+- No reciprocal proposals (fast-track bar).
