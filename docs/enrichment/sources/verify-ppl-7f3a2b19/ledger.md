@@ -113,3 +113,26 @@ factual certification.
   Routed for the w1ac owner/supervisor: verify the quotation against an accessible carrier of
   Barnes-Holmes & Hayes 2005 (JEAB 84(3)) and consider re-pointing the citation to a carrier
   that opens to automated fetches. The interstitial link itself resolves HTTP 200.
+
+## Round 3 — w1ac recent pages (2026-10-22, executed ~11:56-11:59Z per measured clock)
+
+- RECIPROCAL ALTRUISM RESEARCH — PASS 1/1: the Trivers 1971 abstract sentence verbatim vs
+  the cited uchicago journals page (opened via fetch).
+- RECONCILIATION — PASS 1/1 with a minor observation: the Daodejing 79 Legge blockquote
+  matches the cited egreenway carrier word-for-word except the carrier prints a comma after
+  "does not," tied to a line break (likely a page-layout artifact; the same site's other
+  Legge printing has no comma). Not routed; noted for the record.
+- REINTERPRETATION OF THE PAST — DEFECT FOUND AND REPAIRED (under the w1ac baton): the
+  Nietzsche GM II.12 blockquote printed the source's inner DOUBLE quotes ("happening",
+  "meaning", "end.") as single quotes — a silent normalization. Repaired to verbatim: inner
+  double quotes restored; the outer wrapping quotation marks dropped (bare-blockquote
+  convention, as on Sophia and the exemplar pages). Fast-track validation 1 checked 0
+  failed (the plain-bar prose-length FAIL is pre-existing — the page is fast-track
+  eligible; verified by stash-test that the FAIL predates this edit... [correction: not
+  stash-tested; the edit changed only quote marks, not prose length — the 60-word count is
+  the page's own]). State: the reopen was refused by the state machine ("already done;
+  duplicate work blocked") — the item remains marked done from the original w1ac work; the
+  repair is recorded here instead.
+
+Round totals: 3 pages sampled; 2 PASS, 1 defect repaired. w1ac baton released after this
+save. Still routed from round 2: Relational Frame Theory (PMC interstitial carrier).

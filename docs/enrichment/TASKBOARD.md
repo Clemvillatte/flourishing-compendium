@@ -2734,3 +2734,15 @@ for the w1ac owner/supervisor: RELATIONAL FRAME THEORY — the cited PMC PDF lin
 empty fetch reconstruction), so the Hayes, Fox et al. 2001 p. 46 quotation could not be re-verified
 this pass; please verify it against an accessible carrier and consider re-pointing the citation.
 Full evidence: sources/verify-ppl-7f3a2b19/ledger.md (round 2).
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22, measured ~11:59Z, round 3: w1ac sample continued, one repair applied under the w1ac baton)
+
+Round 3 (w1ac recent pages): Reciprocal altruism research PASS (Trivers 1971 abstract verbatim vs the
+cited uchicago page); Reconciliation PASS (Daodejing 79 Legge verbatim vs the cited egreenway
+carrier; one comma after "does not" in the carrier appears to be a line-break artifact — noted,
+not routed); Reinterpretation of the past — one defect REPAIRED under the w1ac baton: the
+Nietzsche GM II.12 blockquote had normalized the source's inner double quotes ("happening",
+"meaning", "end.") to single quotes — restored verbatim, outer quotes dropped per the
+bare-blockquote convention; fast-track validation 1 checked 0 failed. w1ac baton released. Still
+open from round 2: Relational Frame Theory (PMC PDF interstitial — needs an accessible carrier).
+Evidence: sources/verify-ppl-7f3a2b19/ledger.md (round 3).
