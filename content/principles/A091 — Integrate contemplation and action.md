@@ -12,18 +12,34 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 91** — Integrate contemplation and action
 
-Aristotle poses the question in Politics VII: is the better life the statesman's or the contemplative freeman's? His answer refuses the split.
+Aristotle gives contemplation the highest place in Nicomachean Ethics X.7. His recognition of practical virtue in X.8 preserves a ranking rather than making the two lives equal:
 
-> Not that a life of action must necessarily have relation to others, as some persons think, nor are those ideas only to be regarded as practical which are pursued for the sake of practical results, but much more the thoughts and contemplations which are independent and complete in themselves; since virtuous activity, and therefore a certain kind of action, is an end, and even in the case of external actions the directing mind is most truly said to act. (Politics VII.3, Jowett trans., [MIT Classics](https://classics.mit.edu/Aristotle/politics.7.seven.html))
+> But in a secondary degree the life in accordance with the other kind of virtue is happy; for the activities in accordance with this befit our human estate.
+> (Nicomachean Ethics X.8, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html).)
 
-In the same discussion he argues that contemplation is itself a form of activity, and assigns different virtues to the two modes: "Courage and endurance are required for business and philosophy for leisure, temperance and justice for both" (Politics VII). NE X.8 keeps the ranking but not the opposition: the life of practical virtue is still happy, "in a secondary degree". The principle's directive, alternate study and action, is a proposed application.
+How this ranking fits the rest of the Ethics is disputed. Richard Kraut's interpretation is that the philosopher still needs ethical virtue and practical wisdom, although exercising them is not the philosopher's ultimate end. He also distinguishes theoria from ordinary inquiry: it exercises an understanding already achieved ([Stanford Encyclopedia of Philosophy, §10](https://plato.stanford.edu/entries/aristotle-ethics/)).
 
-(NE X.8; Politics VII.1-3.)
+Politics VII.3 complicates a simple contrast between thinking and doing by treating self-contained contemplation as activity, not merely inactivity ([Benjamin Jowett translation](https://classics.mit.edu/Aristotle/politics.7.seven.html)). It does not follow that every review of a practical decision is theoria.
 
-**Plain words**
-Aristotle notices that people split their lives into the doing part and the thinking part, then argue about which one matters. His move is to deny the split: thinking things through is itself an activity, and the doing part is directed by it. The question stops being which life to pick and becomes how to run the one life so each side keeps the other honest.
+### Plain words
 
-*For example:* As a proposed application, a teacher who tries a new method, then sits with the results over the weekend and tweaks it, is combining the two.
+You can value understanding for its own sake without treating responsibilities to others as distractions. Making room for both is this principle's practical proposal; it does not settle Aristotle's ranking or turn a schedule into a theory of the best life.
+
+### For example
+
+Imagine revisiting a mathematical proof you understand simply because you value understanding it. That is different from calculating a household budget or reviewing a difficult conversation. A week can contain both kinds of activity without confusing their purposes.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics X.7–8, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.10.x.html): the ranking of lives.
+- [Aristotle, Politics VII.3, Benjamin Jowett translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/politics.7.seven.html): contemplation as activity.
+- [Richard Kraut, "Aristotle's Ethics", Stanford Encyclopedia of Philosophy, §10](https://plato.stanford.edu/entries/aristotle-ethics/): the disputed relation and the interpretation used here.
+
+## Related concepts
+
+- [[Theoria]]: contemplation in the discussion above.
+- [[Phronesis]]: practical wisdom.
+- [[Eudaimonia]]: the broader question of living well.
 
 ## Stories
 
@@ -65,7 +81,8 @@ Aristotle notices that people split their lives into the doing part and the thin
 ## Philosophy parallels
 
 - **[[Means-end continuity|Means-end continuity]]** (Dewey, Human Nature and Conduct)
-- **Practice-enlightenment unity** (Dōgen, Genjōkōan)- **[[Theoria|Theoria]]** (Aristotelianism)
+- Practice-enlightenment unity (Dōgen, Genjōkōan)
+- [[Theoria|Theoria]] (Aristotelianism)
 
 
 <!-- fc: reflections
