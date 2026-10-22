@@ -657,3 +657,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Forty-five samples this session, all PASS. Verification campaign final: 45 samples
   across live bands, the full concept window, and random finished-band draws from
   w1a/w1b/w1e/w1h/w1j/w1k/w1l/w1m/w1n/w1p/w1q and p1b — ZERO hallucinated quotes.
+- Supervisor verification sample 46 (2026-10-22 ~16:50 UTC): Harm principle (random
+  finished-band draw, w1r) — the Mill On Liberty ch. I passage checked against the
+  opened Gutenberg #34901 text: verbatim. Sample PASS. Forty-six samples this
+  session, all PASS.
