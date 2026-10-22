@@ -16,7 +16,7 @@ Hakuin's famous formulation is not a single line but a tripod: a person who comm
 
 Hakuin's key line is more compact than the tripod: "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully" ([Hakuin, Selected Writings, Terebess](https://terebess.hu/zen/hakuin-works.html)). This is the point the principle carries: doubt is not an obstacle on the way to seeing; it is the mechanism by which the seeing is produced. The question that cannot be answered is the engine, not the problem.
 
-> "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully." (Hakuin Ekaku, Selected Writings, [Terebess](https://terebess.hu/zen/hakuin-works.html))
+> "At the bottom of great doubt lies great awakening. If you doubt fully you will awaken fully." (Hakuin, Orategama, trans. Philip Yampolsky, The Zen Master Hakuin: Selected Writings, 1971, p. 144, as quoted in [Great Doubt: Practicing Zen in the World](https://terebess.hu/zen/mesterek/greatdoubt.pdf) and [Carl Olson, 1989](http://www.carlsensei.com/docs/essays/doubt-certainty-and-value.html))
 
 **Plain words** Corrosive doubt says "this is probably worthless," and produces nothing. Great doubt says "I do not know the answer to this, and I am not going to accept a substitute," and produces the entire practice. The scientist's unease with their own best theory is not a flaw in the theory; it is the mechanism by which the next theory gets found. This is not licence to be perpetually sceptical — it is the instruction to hold one real question seriously, instead of collecting easy answers.
 
