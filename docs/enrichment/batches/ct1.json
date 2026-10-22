@@ -8,13 +8,12 @@
   "Dispositional optimism",
   "Ego integrity (Erikson)",
   "Polyvagal theory (Porges)",
-  "Self-verification theory (Swann)",
-  "Wisdom theory Berlin paradigm"
+  "Self-verification theory (Swann)"
  ],
- "in_progress": null,
+ "in_progress": "Wisdom theory Berlin paradigm",
  "flagged": {},
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T06:54:09+00:00",
- "notes": "minted by supervisor worker-sup-1022c from the core-theories priority audit; items moved from w1r/w1s/w1ac/w1z/w1af manifests (never claimed there); 2026-10-22 05:58: baton passed to worker-9c31f0d8-ct1 (legit takeover, stale clock-in); Ego integrity entry by worker-sup-1022c merged with their in-progress Polyvagal state; 2026-10-22 06:19: Polyvagal theory (Porges) completed by worker-9c31f0d8-ct1; 2026-10-22 06:50: Wisdom theory Berlin paradigm done by worker-pplc-flourish-1022 (state-file reconciliation only — pages were enriched by prior owners; ct1 now 9/9, band complete); 2026-10-22 06:53: Wisdom theory Berlin paradigm reverted to NOT-done (page body is a 4-prose-word stub, no Sources URL) — supervisor flag: prior owner marked it done without enriching; single remaining actionable ct1 item."
+ "updated": "2026-10-22T07:28:25+00:00",
+ "notes": "minted by supervisor worker-sup-1022c from the core-theories priority audit; items moved from w1r/w1s/w1ac/w1z/w1af manifests (never claimed there); 2026-10-22 05:58: baton passed to worker-9c31f0d8-ct1 (legit takeover, stale clock-in); Ego integrity entry by worker-sup-1022c merged with their in-progress Polyvagal state; 2026-10-22 06:19: Polyvagal theory (Porges) completed by worker-9c31f0d8-ct1; 2026-10-22 06:50: Wisdom theory Berlin paradigm done by worker-pplc-flourish-1022 (state-file reconciliation only — pages were enriched by prior owners; ct1 now 9/9, band complete); 2026-10-22 06:53: Wisdom theory Berlin paradigm reverted to NOT-done (page body is a 4-prose-word stub, no Sources URL) — supervisor flag: prior owner marked it done without enriching; single remaining actionable ct1 item. — 2026-10-22 07:3xZ: worker-ct1-ppl-a3f8d2c1 took the baton; removed the not-actually-done entry from the done list per the standing supervisor flag (page is a 4-word stub, no Sources URL); enriching it now."
 }
