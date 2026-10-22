@@ -785,3 +785,26 @@ appear word-for-word, as do the 21 studies / 2,739 participants figures, the dya
 interaction paradigm description, and the "consolidating but before they become stable"
 finding. No routed findings. (Same accessibility class as the Existenz carriers: quote
 confirmed via the index of the cited document, fetcher blocked.)
+
+## Round 32 (2026-10-22; inspection ~12:37-12:39Z; raw-text method with carrier fallbacks)
+
+### The daimon (w1ae, fast-track done, commit 3515515dc)
+
+1 quoted passage checked, 1 PASS — the Apology 31c-d daimonion passage (Jowett) verified
+verbatim against an unprompted raw fetch of the cited MIT Classics page. No routed findings.
+
+### The disciplined body (w1s, fast-track done, commit 125484ce5)
+
+Quoted passages checked:
+- The political-field blockquote (pp. 25-26) and the "useful force... productive body and a
+  subjected body" fragment: PASS, verbatim against an unprompted raw fetch of the cited
+  foucault.info page.
+- The docile-bodies passage (pp. 138-9): PASS via a search-engine snippet of the cited IEP
+  page (iep.utm.edu is robots-blocked to this fetcher); the snippet carries the passage
+  word-for-word as the page quotes it.
+- MINOR NOTE (not routed, could not be fully resolved): the page's fragment "discovered the
+  body as an object and target of power" could not be checked against the IEP text
+  (robots-blocked), and Foucault's book text as printed in an independent selections PDF
+  reads "discovered the body as object and target of power" (no "an"). If the IEP prints
+  the fragment with "an" the page is faithful to its cited carrier; if not, the fragment
+  adds a word to the book text. Left for the owner to check against the IEP.
