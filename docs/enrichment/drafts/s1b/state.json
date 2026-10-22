@@ -460,15 +460,20 @@
    ]
   },
   "s1b-020": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Fly Fishing: distinguish a thought hook from the struggle that follows; author source search",
    "history": [
     {
      "t": "2026-10-22T15:28:30+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:33:22+00:00",
+     "to": "qc_pending",
+     "note": "Full raw book p79 checked; brief narrative, source quote and original application; no extended script"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:32:06+00:00"
+ "updated": "2026-10-22T15:33:22+00:00"
 }
