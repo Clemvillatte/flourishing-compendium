@@ -15,7 +15,7 @@ The universality claim is explicit: "According to SDT, the three basic psycholog
 
 ### Why wants are not needs
 
-The paper's clearest statement of the distinction is its critique of Murray-style definitions of need: "this definition is so broad that one could substitute terms like motive, desire, or goal for need without losing any meaning. By this definition, almost anything that moves one to action is a need" (ibid., pp. 123-124). SDT rejects that breadth. When a desire runs unusually strong, the theory reads it as history, not need: "As with the case of an unusually strong desire for food, we would consider an unusually strong desire to be with other people not to be a reflection of a strong innate need for relatedness but instead to be a result, in part at least, of previous experiences" (ibid.). Thwarted needs produce substitutes: people "develop substitute motives, nonautonomous regulatory styles, and rigid behavior patterns" — "compensatory motives that do not really satisfy the thwarted basic needs but provide some collateral satisfaction" (ibid.), and in extreme cases may "engage in psychological withdrawal or antisocial activity as compensatory motives for unfulfilled needs" (ibid.).
+The paper's clearest statement of the distinction is its critique of Murray-style definitions of need. After quoting Murray's definition of a need as "a construct (a convenient fiction or hypothetical concept)" (Murray 1938, pp. 123-124, as quoted in Deci and Ryan 2000), they comment: "Indeed, this definition is so broad that one could substitute terms like motive, desire, or goal for need without losing any meaning. By this definition, almost anything that moves one to action is a need" (Deci and Ryan 2000). SDT rejects that breadth. When a desire runs unusually strong, the theory treats the strength of the desire as no measure of the underlying need: "As with the case of an unusually strong desire for food, we would consider an unusually strong desire to be with other people not to be a reflection of a strong innate need for relatedness but instead to be a result, in part at least, of previous experiences" (ibid.). Thwarted needs produce substitutes: people "develop substitute motives, nonautonomous regulatory styles, and rigid behavior patterns" — "compensatory motives that do not really satisfy the thwarted basic needs but provide some collateral satisfaction" (ibid.), and in extreme cases may "engage in psychological withdrawal or antisocial activity as compensatory motives for unfulfilled needs" (ibid.).
 
 ### In the compendium
 
@@ -31,7 +31,7 @@ The paper's clearest statement of the distinction is its critique of Murray-styl
 
 ## Sources
 
-- Deci, E. L., and Ryan, R. M., "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", Psychological Inquiry 11(4), 2000, pp. 227-268 — [author-hosted PDF](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf); all quotations verified against the PDF text, including pp. 123-124 on desire/goal substitutability
+- Deci, E. L., and Ryan, R. M., "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", Psychological Inquiry 11(4), 2000, pp. 227-268 — [author-hosted PDF](https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf); all quotations verified against the PDF text; the pp. 123-124 locator belongs to Murray 1938 as quoted therein
 
 ## Cited in psychology parallels
 
