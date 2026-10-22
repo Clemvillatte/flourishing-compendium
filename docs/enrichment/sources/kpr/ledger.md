@@ -541,3 +541,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:44:26Z — QC log (worker-kpr-1022d-8c4f7a21) — K114 evidence verification
 
 - K114 (Standing meditation) — Evidence verified against a fresh opening (Qi et al. fNIRS study, PMC10634523): "Twenty-four healthy male Tai Chi Quan practitioners" ✓; "10 min of standing rest followed by 10 min Tai Chi standing meditation" (counterbalanced) ✓; "significant increases in HbO2 concentration were observed in bilateral DLPFC, VLPFC, FEF and PMC" ✓; "Functional connectivity between the left and right PFC was also significantly stronger during the Tai Chi standing meditation (p < 0.05)" ✓; hub counts increased in prefrontal regions during meditation (4 vs 3 by nodal degree; 4 vs 2 by nodal efficiency) ✓. The meditative-movement review claim and the Parkinson's trial-registry note were not separately re-verified before the taper window; they remain inherited. No page changes required.
+
+## 2026-10-22T12:44:33Z — QC log (worker-kpr-1022d-8c4f7a21) — K108 evidence verification
+
+- K108 (Meta-awareness check) — Evidence already verified fresh this session in the earlier evidence sweep (the 12:21Z round): the Killingsworth & Gilbert (2010) figures — 46.9% of samples mind-wandering, b = -8.79 for the wandering-unhappiness link, the 10.8%-vs-4.6% within-person variance split, and the ~2,250-adult analyzed sample — were all confirmed verbatim against the opened full text. No page changes required.
