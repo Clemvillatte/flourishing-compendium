@@ -11,7 +11,7 @@ Aristotle's claim, in the first book of the Nicomachean Ethics, that happiness m
 
 > "But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy." (Aristotle, [Nicomachean Ethics I, trans. W. D. Ross](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-The issue is pressed further in the same book, through the old advice of Solon:
+The issue is raised again in the same book, through the old advice of Solon:
 
 > "Must no one at all, then, be called happy while he lives; must we, as Solon says, see the end?" (Aristotle, [ibid.](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
