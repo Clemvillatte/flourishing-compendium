@@ -11,9 +11,9 @@ Escalation of commitment is the tendency to keep investing in a course of action
 
 ### Several explanations, not one
 
-The seed for this page named sunk-cost thinking. The 2012 meta-analysis shows that sunk cost is one candidate among several. It lists "a sense of personal responsibility for the initial decision that led to the failing course of action (Staw, 1976), the extent of sunk costs (Arkes & Blumer, 1985; Thaler, 1980), and the extent to which the failing project is near completion (Conlon & Garland, 1993)". It also names performance trends, personality and experience of the decision maker as factors that have been studied, and it sorts the theories behind them: subjective expected utility, self-justification, prospect theory, goal substitution, self-presentation and agency theory.
+Sunk-cost thinking is the usual popular explanation. The 2012 meta-analysis treats it as one candidate among several. It lists "a sense of personal responsibility for the initial decision that led to the failing course of action (Staw, 1976), the extent of sunk costs (Arkes & Blumer, 1985; Thaler, 1980), and the extent to which the failing project is near completion (Conlon & Garland, 1993)". It also names performance trends, personality and experience of the decision maker as factors that have been studied, and it sorts the theories behind them: subjective expected utility, self-justification, prospect theory, goal substitution, self-presentation and agency theory.
 
-The paper's stated aim is to compare how well these accounts explain escalation. I have read its introduction and abstract and not its results, so this page does not say which account wins.
+The paper's stated aim is to compare how well these accounts explain escalation. This page draws on the paper's abstract and introduction, so it does not report which account explains escalation best.
 
 ### Why it matters here
 

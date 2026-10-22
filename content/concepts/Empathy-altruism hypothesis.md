@@ -20,7 +20,7 @@ The method was to propose self-interested alternatives and test them against it.
 
 ### Limits
 
-These are the abstracts of laboratory studies from one research programme, and each tests a specific egoistic rival. They show that those particular rivals fit the data poorly. They do not prove that no self-interested explanation could ever account for helping, and the 1988 abstract itself speaks only of evidence that "continues to mount". I have not read Batson's 2011 book, the seed source, so this page does not summarise it.
+These are the abstracts of laboratory studies from one research programme, and each tests a specific egoistic rival. They show that those particular rivals fit the data poorly. They do not prove that no self-interested explanation could ever account for helping, and the 1988 abstract itself speaks only of evidence that "continues to mount". Batson's later book-length synthesis is not summarised here, and the page rests on journal abstracts.
 
 ### In the compendium
 

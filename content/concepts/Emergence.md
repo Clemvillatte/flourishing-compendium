@@ -19,7 +19,7 @@ Weak emergence "affirms the reality of entities and features posited in the spec
 
 ### History
 
-The entry credits the nineteenth-century British Emergentists with rejecting both idealism and reductionist materialism, with Lewes (1875) "first using the term 'emergence' for the philosophical position". It follows the line through to C. D. Broad (1925), for whom the whole's characteristic properties "cannot, even in theory, be deduced from the most complete knowledge of the properties of" its parts in isolation ([SEP, §1](https://plato.stanford.edu/entries/properties-emergent/)). The seed attributes this page to Morgan's Emergent Evolution. The entry as I read it does not discuss Morgan, so no claim about his version is made here.
+The entry credits the nineteenth-century British Emergentists with rejecting both idealism and reductionist materialism, with Lewes (1875) "first using the term 'emergence' for the philosophical position". It follows the line through to C. D. Broad (1925), for whom the whole's characteristic properties "cannot, even in theory, be deduced from the most complete knowledge of the properties of" its parts in isolation ([SEP, §1](https://plato.stanford.edu/entries/properties-emergent/)). C. Lloyd Morgan's Emergent Evolution, the older source attached to this page, is not covered by the entry, so no claim about his version is made here.
 
 ### In the compendium
 

@@ -27,7 +27,7 @@ Most of the evidence in these abstracts is correlational or comes from self-repo
 
 - [[Mindfulness]] — the broader concept this trait measure is drawn from
 - [[Right mindfulness]] — the Buddhist path factor that the psychological construct is often set beside
-- [[Emotion regulation]] — an outcome the earlier seed linked to mindfulness; the two abstracts above speak of self-regulated behavior and mood, not this construct by name
+- [[Emotion regulation]] — a regulation skill often linked to mindfulness; the two abstracts above speak of self-regulated behavior and mood, and do not use the term
 
 ## Sources
 

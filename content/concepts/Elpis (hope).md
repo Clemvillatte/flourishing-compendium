@@ -15,7 +15,7 @@ The lines do not say. Hope is inside a jar of troubles, and the passage never ca
 
 ### Plato's Gorgias
 
-The seed also cites Plato's Gorgias. In the Jowett translation I opened, the myth that closes the dialogue has Zeus say: "I will deprive men of the foreknowledge of death, which they possess at present: this power which they have Prometheus has already received my orders to take from them" ([Plato, Gorgias, trans. Jowett, Project Gutenberg](https://www.gutenberg.org/ebooks/1672)). That is a passage about not knowing the hour of one's death. I did not find the word hope in this translation, so I do not claim that the Gorgias teaches anything about elpis. The connection is at most that both myths concern what human beings are spared from seeing ahead.
+Plato's Gorgias is sometimes brought into the discussion. In Jowett's translation, the myth that closes the dialogue has Zeus say: "I will deprive men of the foreknowledge of death, which they possess at present: this power which they have Prometheus has already received my orders to take from them" ([Plato, Gorgias, trans. Jowett, Project Gutenberg](https://www.gutenberg.org/ebooks/1672)). That is a passage about not knowing the hour of one's death. The word hope does not appear in this passage, so nothing here shows that the Gorgias teaches anything about elpis. The connection is at most that both myths concern what human beings are spared from seeing ahead.
 
 ### In the compendium
 
