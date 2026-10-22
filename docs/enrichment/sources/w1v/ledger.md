@@ -92,3 +92,7 @@
 ## Perceptual learning (fast-track, 2026-10-22)
 - Source opened: Goldstone 1998 author-hosted PDF (pcl.sitehost.iu.edu) via fetch — abstract sentence and p. 586 definition quoted verbatim; four mechanisms from the abstract; differentiation detail sentence from the same abstract text.
 - Validator: ok (fast-track). Advisor QC: not due (item 16; next due item 20).
+
+## Problem vs. mystery (completed prior-session draft, 2026-10-22)
+- Found fully drafted in content/ (prior session died before state update; band item was still outstanding). All blockquotes verified against the opened SEP Marcel entry (Treanor & Sweetman): the p.117 problem/mystery passage, "problem that encroaches on its own data", and the evil passage all confirmed verbatim.
+- Validator: ok (fast-track). Marked done. (Satori start earlier was a bogus state — not in band manifest — cleared by starting this item.)

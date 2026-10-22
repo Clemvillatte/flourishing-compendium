@@ -22,7 +22,8 @@
   "Justice sensitivity",
   "Prospective memory",
   "Perceptual learning",
-  "Prehension"
+  "Prehension",
+  "Problem vs. mystery"
  ],
  "in_progress": null,
  "flagged": {
@@ -32,6 +33,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T07:29:33+00:00",
+ "updated": "2026-10-22T07:31:28+00:00",
  "band_done": false
 }
