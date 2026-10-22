@@ -21,5 +21,7 @@
    "from": "worker-w1ad-pplx-b7c41f2e",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T16:20:06+00:00"
 }
