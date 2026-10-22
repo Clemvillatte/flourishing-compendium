@@ -60,3 +60,9 @@
 - Note: the barista experiment first appeared in Sandstrom and Dunn 2014 (SPPS, paywalled); the dissertation version (Study 5, open) was used as the opened carrier, same experiment, author-hosted.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K147 "I am becoming" reframes (worker-k1b-pplx)
+- Sources opened this session: Sisk et al. 2018 full text PDF (Psychological Science 29(4) 549-571, author-hosted at Georgia Tech; verbatim quotes: full abstract, r = .10 with CI, d = 0.08 with CI, the 37-of-43 nulls sentence, the at-risk moderator sentence); Dweck and Leggett 1988 abstract (Semantic Scholar record page; verbatim quote of the implicit-theories-to-goals sentence).
+- Claims narrowed: the seed's example "I am in the process of learning how to start" labelled this practice's own wording; the page carries the honest caution the literature requires (the not-covered paragraph states the mindset studies measured beliefs about attributes against academic achievement, did not test self-label reframes, and quotes the weak intervention evidence verbatim, including the 86% null effect sizes).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
