@@ -29,29 +29,36 @@ compendium, checkout at /home/user/workspace/fc, branch main. Git
 identity "Computer Agent" <computer@perplexity.ai>; PAT in
 ~/.git-credentials (never commit it).
 
-## RELEASE BLOCKERS (must resolve before pushing to main)
+## RELEASE BLOCKERS: RESOLVED
 
-1. Instructor qualification for the new Palouse LKM row. The owner's
-   instructor standard is a requirement, not an option. The recording
-   guide is not named on the Palouse page and the opening transcript
-   does not self-identify (do not claim "no name in the audio" beyond
-   what the sampled portion establishes). Either verify the guide and
-   a linked qualifying credential (possible lead: the Insight Timer
-   listing referenced on the Palouse page; the page also links a
-   Lovingkindness Meditation Script), or withhold/remove the row
-   before release. Do not reopen the existing shipped Palouse rows.
+1. Instructor qualification for the new Palouse LKM row: RESOLVED.
+   The Palouse LKM page links the Insight Timer profile
+   (insighttimer.com/palousemindfulness); the track page for "MBSR
+   Lovingkindness Meditation" credits Dave Potter (Palouse
+   Mindfulness) with a printed duration of 13:17 matching the mp3's
+   ffprobe duration (797.09 s), and publishes a transcript matching
+   the recording's full vosk transcript. The profile bio documents
+   that Dave Potter is a fully certified MBSR instructor trained
+   through the University of Massachusetts Medical School, where Jon
+   Kabat-Zinn founded the Center for Mindfulness. The CMP1 row and
+   the app.js deg-cmp entry now attribute the row to "Dave Potter,
+   Palouse Mindfulness". Evidence: evidence/it-lkm.html,
+   it-profile.html, full-palouse-lk.txt. Existing shipped Palouse
+   rows untouched.
 
-2. Recording classification completeness. Only the two MARC files were
-   fully transcribed. The other six recordings were sampled at their
-   openings only; source-page descriptions are not published
-   transcripts, so full-session classification (guided practice vs a
-talk containing practice) is not yet established for: Tara Brach 30
-   min, Palouse LKM, Palouse walking, and the three Mountain Cloud
-   sits. Complete verification from the recordings (full vosk
-   transcripts; the model was at /tmp/vosk-model, likely gone, see
-evidence/README.md) or published transcripts, then re-classify. Also
-   preserve the original sampling commands or timestamps; the current
-   README says "roughly 60 to 90 seconds" without them.
+2. Recording classification completeness: RESOLVED. All six previously
+   sampled recordings (Tara Brach 30 min, Palouse LKM, Palouse
+   walking, three Mountain Cloud sits) were re-downloaded and fully
+   transcribed with vosk over the entire files (no time limit);
+   transcripts preserved as evidence/full-*.txt with reproduction
+   commands in evidence/README.md. The original opening-sample
+   commands were not preserved by the earlier session; they are
+   superseded by these complete transcripts, and the README now says
+   so instead of the earlier unsourced "roughly 60 to 90 seconds"
+   claim. Classification from the full transcripts: all six are
+   continuous guided practice (opening posture setup through the
+   close); the Tara Brach recording self-identifies her as the guide
+   at the opening.
 
 This file documents only the CMP gallery task. The Qi Gong gallery
 task has its own handoff at
@@ -151,9 +158,7 @@ untouched, node --check OK.
 
 ## Remaining steps, in order
 
-1. Resolve the two RELEASE BLOCKERS above (LKM guide verification or
-   row removal; full-transcript classification for the six sampled
-   recordings).
+1. DONE (2026-10-22): both RELEASE BLOCKERS resolved, see above.
 2. Advisor re-verification with the resolved blockers; do not push to
    main without it.
 3. git pull --rebase origin main, re-check scoped files for
