@@ -2789,3 +2789,21 @@ Nietzsche GM II.12 blockquote had normalized the source's inner double quotes ("
 bare-blockquote convention; fast-track validation 1 checked 0 failed. w1ac baton released. Still
 open from round 2: Relational Frame Theory (PMC PDF interstitial — needs an accessible carrier).
 Evidence: sources/verify-ppl-7f3a2b19/ledger.md (round 3).
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22, measured ~12:04Z, CONSOLIDATED w1ac verification report, rounds 2-12)
+
+I sampled 40 of the w1ac band's recently enriched pages (read-only; repairs done under brief w1ac baton
+claims). RESULTS: 29 pages quote-verified PASS; 1 PASS with an unresolved comma variance (Reconciliation —
+egreenway Legge prints a comma after "does not," that the page omits; artifact vs textual call left open);
+5 DEFECTS + 1 ATTRIBUTION repaired (Reinterpretation of the past: Nietzsche quote-marks restored + translator
+label corrected Zimmern -> Kennedy; Projection (Entwurf): stitched B&T p.185 quote marked with a bracketed
+ellipsis; Provisional morality: Descartes maxim-3 honest ellipsis close; Receptivity: Noddings double
+quotes restored; Psychological androgyny: Bem double quotes restored); 6 FINDINGS ROUTED for the w1ac
+owner/supervisor: (1) Relational Frame Theory — cited PMC PDF returns an HTML interstitial to automated
+tools, quote unverified; (2) Pre-understanding — p.192 quote silently drops the beyng.com edition's inline
+German glosses ([beruft] etc.); (3) Pre-theoretical experience — cited Merleau-Ponty PDF host unreachable;
+(4) Philosopher-king — the quote prints "no, nor" which the cited Gutenberg 1497 file lacks (standard Jowett
+has it — re-point or align); (5) Readiness-matched intervention — cited Harvard PDF returns 403;
+(6) Plain-language comprehension research — cited Oppenheimer PDF host unreachable. All repairs validated
+(fast-track where eligible) and pushed; every routed finding has full evidence in
+sources/verify-ppl-7f3a2b19/ledger.md (rounds 2-12). w1ac baton released; sampling closed.
