@@ -17,7 +17,7 @@ The second movement is not based on judging the desired outcome probable: the pa
 
 > "for the movement of faith must ever be made by virtue of the absurd, but, note well, in such wise that one does not lose the things of this world but wholly and entirely regains them." (same work, Preliminary Expectoration)
 
-> "he clearly recognizes the impossibility, and in the same moment he believes the absurd; for if he imagined he had faith, without at the same time recognizing, with all the passion his soul is capable of, that his love is impossible, he would be merely deceiving himself" (same work, Preliminary Expectoration)
+> "he clearly recognizes the impossibility, and in the same moment he believes the absurd; for if he imagined he had faith, without at the same time recognizing, with all the passion his soul is capable of, that his love is impossible, he would be merely deceiving himself…" (same work, Preliminary Expectoration)
 
 The result is not a withdrawal from ordinary life. The passage that follows describes a man at his window, indistinguishable from his neighbours, who yet has made the movement of infinity:
 
