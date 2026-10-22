@@ -6,7 +6,6 @@ title: "Error management theory"
 file: "Error management theory"
 tags: ["theory", "psych/behavior"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BEHAVIOR"], "alternatePaths": []}
-legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter E", "parent": ""}
 ---
 **Error management theory** — Haselton, Buss — cognitive biases are tuned to make cheap errors rather than costly ones under uncertainty.
 
