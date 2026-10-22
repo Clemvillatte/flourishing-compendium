@@ -139,3 +139,7 @@ The upright soul: enriched at the fast-track bar from the opened Gutenberg #1998
 ## w1af progress note (2026-10-22, worker-pplc-6a2f9b17, T+40)
 
 The vainglorious man: enriched at the fast-track bar from the opened Wikisource Page trans. of The Misanthrope (raw fetch, all quotes verbatim from the Act I scene 2 sonnet scene); flagged as compendium heading for Oronte in the state note. Items 6-12 done this session segment; QC round for 6-10 completed and pushed (e9bc4e44); next QC due at item 15.
+
+## Verification pass (w1af, 2026-10-22, worker-pplc-6a2f9b17, T+50-T+52)
+
+Programmatic re-verification of every quoted fragment on the ten pages enriched this segment (tyranny, uncanny, undiminishing, unexamined I, unreliability, upright soul, vainglorious, via negativa, wounds of love, TRA) against the raw downloaded texts (Gutenberg #52319, archive.org Strachey, Gutenberg #14328, SEP raw fetch, Gutenberg #9662, beyng.com BT p.233 fetch, Gutenberg #1998, Wikisource Misanthrope raw, Wikisource Mystic Theology Caput II/V raw, Gutenberg #1600, Wikipedia TRA raw). Result: 71/71 quotes verified; 8 automated misses resolved by inspection (2 Heidegger quotes verified against the beyng.com fetch output; the Boethius "worst sting" quote verified verbatim — the source marks "have been" in italics, which broke the string match; 5 verse-line/apostrophe variants fuzzy-confirmed in the Misanthrope and Zarathustra texts). All ten pages pass --fast-track validation. No fixes required.
