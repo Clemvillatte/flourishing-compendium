@@ -11,7 +11,7 @@ Mood-congruent memory is the family of hypotheses claiming that affect biases re
 
 ### The evidence is not one-sided
 
-The same paper is a useful caution. In speech-anxious students with induced anxiety, "No support was obtained for any of the three hypotheses" tested — state-dependent, encoding-congruent and recall-congruent — and post-hoc analyses even suggested that "attention to threat information may diminish in aroused nonclinical subjects" (ibid.). Later work on anxiety and cognition continued to frame the bias in Bower's terms while arguing about the mechanism (see [MacLeod and Mathews 1991](https://pubmed.ncbi.nlm.nih.gov/1759958/), which reviews the question through "Bower's (1981) network" theory).
+The same paper is a useful caution. In speech-anxious students with induced anxiety, "No support was obtained for any of the three hypotheses" tested — state-dependent, encoding-congruent and recall-congruent — and post-hoc analyses suggested that "This suggests that attention to threat information may diminish in aroused nonclinical subjects" (ibid.). Later work on anxiety and cognition continued to frame the bias in Bower's terms while arguing about the mechanism (see [MacLeod and Mathews 1991](https://pubmed.ncbi.nlm.nih.gov/1759958/), which reviews the question through "Bower's (1981) network" theory).
 
 The compendium's use is epistemic rather than therapeutic: recall run through a mood is a sample, not a record, which is the working premise of AF023 and CO054.
 
