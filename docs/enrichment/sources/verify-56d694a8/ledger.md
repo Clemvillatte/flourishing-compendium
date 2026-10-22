@@ -331,3 +331,11 @@ Round 30: 2 pages, 5 quoted passages verified, 2 defects repaired.
 4. **Temporal discounting** — the Frederick, Loewenstein & O'Donoghue 2002 definitions VERIFIED verbatim via the opened PDF. PASS.
 
 Round 31: 4 pages, 5 quoted passages verified, no defects.
+
+## Round 32
+
+1. **The aha moment** — all three Kounios & Beeman passages VERIFIED verbatim via the opened Northwestern preprint. PASS.
+2. **The Dreaming** — all three Stanner passages VERIFIED verbatim via the opened IRWLE essay (the essay's own ellipses match the page's bracketed omissions). PASS.
+3. **The Cynic's freedom** — all three quotes VERIFIED: the two Diogenes Laertius anecdotes (6.63; 6.69) via the opened LacusCurtius text; the IEP political reading via the opened IEP entry. PASS.
+
+Round 32: 3 pages, 8 quoted passages verified, no defects.
