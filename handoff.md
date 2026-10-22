@@ -1718,4 +1718,8 @@ w1y band claimed and held; its 23-item queue was not started (owner cleanup took
   opened", "inherited citation", "the seed's", ledger and disposition markers all zero
   (grep-verifiable). The only remaining "opened" is inside a protected fc:reflections
   comment (not rendered). Stories still carry "QC notes" blocks (pipeline, supervisor).
+- Flag for k1b worker (spotted in verification, not edited — band live): K329 Revision loop,
+  the Ericsson "not reached with less than 10 years of deliberate practice" quote is cited
+  at p. 372; a fresh extraction of the same PDF attributes it to p. 373. Worth a re-check
+  against the PDF's printed page. All other K329 quotes verified exact.
 
