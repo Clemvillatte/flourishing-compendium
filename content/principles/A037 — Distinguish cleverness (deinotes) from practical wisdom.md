@@ -12,18 +12,32 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 37** — Distinguish cleverness (deinotes) from practical wisdom
 
-The distinction is Aristotle's, drawn in NE VI.12 between the faculty of cleverness (deinotes) and practical wisdom.
+For Aristotle, cleverness is the capacity to find effective means to a goal already set. Whether it deserves praise depends on the goal:
 
-> There is a faculty which is called cleverness; and this is such as to be able to do the things that tend towards the mark we have set before ourselves, and to hit it. Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart. Practical wisdom is not the faculty, but it does not exist without this faculty. (NE VI.12, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html))
+> Now if the mark be noble, the cleverness is laudable, but if the mark be bad, the cleverness is mere smartness; hence we call even men of practical wisdom clever or smart. Practical wisdom is not the faculty, but it does not exist without this faculty.
+> (Nicomachean Ethics VI.12, [W. D. Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html).)
 
-Aristotle argues that bad character can mislead someone about the starting points of action, and concludes that practical wisdom requires goodness (VI.12).
+Practical wisdom needs this ability, but also good judgment about what action is for. Aristotle argues that bad character can distort the starting points of deliberation. In VI.13 he makes the dependence reciprocal: strict goodness requires practical wisdom, and practical wisdom requires moral virtue ([VI.12–13](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html)).
 
-(NE VI.12, VI.13.)
+The distinction therefore challenges both ingenuity detached from a worthy purpose and good intentions unable to find an appropriate course of action. This is an ethical account of wisdom, not a psychological test of intelligence.
 
-**Plain words**
-Working out how to achieve something leaves another question: is it worth doing? Someone can pursue a harmful goal with great ingenuity. Aristotle requires good character as well as this ability in a practically wise person.
+### Plain words
 
-*For example:* Imagine a marketer asked to make a misleading campaign more persuasive. They might know how to do it. The further question is whether they should accept that goal at all.
+Working out how to achieve something leaves the question of whether it is worth doing. Question the goal as carefully as the method. If the goal is worth pursuing, you still need to understand the circumstances well enough to act on it.
+
+### For example
+
+Imagine a marketer asked to make a misleading campaign more persuasive. They may be skilled at doing so. They can instead question the brief and use the same communication skill to make accurate information understandable. Changing the purpose need not mean abandoning the ability.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics VI.12–13, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html): cleverness, good ends and practical wisdom.
+
+## Related concepts
+
+- [[Phronesis]]: practical wisdom in the account above.
+- [[Virtue ethics]]: the broader ethical approach.
+- [[The unity of the virtues]]: the relation between practical wisdom and character.
 
 ## Stories
 
@@ -60,8 +74,8 @@ Working out how to achieve something leaves another question: is it worth doing?
 - [[K365 — Public reasoning|K365 Public reasoning]]
 ## Psychology parallels
 
-- **[[Moral disengagement research|Moral disengagement research]]**, intelligent people can rationalise harmful behaviour (Bandura, 1999)
-- **[[Dark triad research|Dark triad research]]**, intelligence in service of Machiavellian ends (Paulhus and Williams, 2002)
+- [[Moral disengagement research|Moral disengagement research]] (Bandura, 1999)
+- [[Dark triad research|Dark triad research]] (Paulhus and Williams, 2002)
 
 ## Philosophy parallels
 
