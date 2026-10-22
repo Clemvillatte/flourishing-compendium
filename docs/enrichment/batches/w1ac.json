@@ -23,7 +23,6 @@
   "Prejudice (Vorurteil)",
   "Present-at-hand",
   "Pre-understanding",
-  "Pre-theoretical experience",
   "Project (projet)",
   "Pride",
   "Processing Fluency Theory",
@@ -66,7 +65,8 @@
   "Secondary control",
   "Selection by consequences",
   "Relationship dissolution research",
-  "Relational Frame Theory"
+  "Relational Frame Theory",
+  "Pre-theoretical experience"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,11 +75,12 @@
   "Pragmatic solidarity": "Bernstein quote in page is from The Abuse of Evil p.29, not the seed's 'The Pragmatic Turn'; Rorty quotes are from CIS as reprinted in the opened OBP book - flagged for supervisor.",
   "Purpose": "Reopened for QC: QC correction round 1: unverified Hill-Turiano claim, wrong AF062 attribution, unsupported glosses; repairing to fast-track bar with Frankl 1963 only",
   "Responsive parenting": "R073 page cites 'Bernstein et al., 2014' for responsive parenting; no such construct paper found in opened searches (Bernard et al 2014/2015 and Bernstein et al 2014 are different papers). Supervisor: verify R073's source line.",
-  "Relational Frame Theory": "Reopened for QC: first-item advisor QC: claims narrowed + theory-page material needed (three properties explained in plain language, ACT link verified); not done"
+  "Relational Frame Theory": "Reopened for QC: first-item advisor QC: claims narrowed + theory-page material needed (three properties explained in plain language, ACT link verified); not done",
+  "Pre-theoretical experience": "Reopened for QC: supervisor-band work: prose-short page (53 words) upgraded to normal bar with opened carrier"
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-22T15:11:50+00:00",
+ "updated": "2026-10-22T15:14:39+00:00",
  "notes": {
   "Purpose": "enriched+QC-repaired 2026-10-22 by worker-sup-flourish-1022b. Advisor round 1 findings applied: Hill-Turiano mortality claim now described as PP025's own citation (not restated as opened evidence), AF062 misattribution corrected to B155/PP025 framing, unsupported research-literature glosses and Noogenic-neurosis overreach removed, Frankl quote replaced with the complete sentence verified verbatim in the opened 1963 OCR (em-dashes as printed, OCR 'existence:-Woe' join disclosed in ledger). Degree <15 at start; fast-track bar. Baseline 708222a39 used for lost-link check.",
   "Reconstruction": "enriched 2026-10-22 by worker-sup-flourish-1022b. Dewey Reconstruction in Philosophy Gutenberg #40089 opened; lecture-I 'Philosophic reconstruction for the present' passage quoted verbatim; prefatory-note Japan framing; P100 link preserved. Fast-track bar (degree 1 at start).",
