@@ -70,3 +70,15 @@ Decisions:
 - Front-matter preserved; D080 Cited-in wikilink preserved. Initial write had file field "The tetralemma.md" — fixed to "The tetralemma" before validation.
 - Initial Related pick "Emptiness (śūnyatā)" did not resolve; replaced with [[Buddhist emptiness of inherent nature]] after validator caught it.
 - No reciprocal proposals (fast-track bar).
+
+### The ten modes (fast-track, deg 1)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/skepticism-ancient/ — Vogt, SEP Ancient Skepticism. Verbatim: Aenesidemus ten-modes introduction; the equipollence-to-tranquility sequence; all ten mode descriptions (summarised on the page in prose with the relativity-comprises note quoted); the suspension-strategies sentence.
+
+Decisions:
+- Fast-track eligibility: deg 1 < 15 confirmed.
+- Front-matter preserved; X005 Cited-in wikilink preserved (carried from seed).
+- Related concepts: Epoché, Equipollence, Skepticism about the obvious (existing originals).
+- The seed cited Wikipedia Pyrrhonism; Wikipedia was rate-limited (HTTP 429) so the SEP entry is the opened grounding; the seed URL is retained in Sources.
+- No reciprocal proposals (fast-track bar).
