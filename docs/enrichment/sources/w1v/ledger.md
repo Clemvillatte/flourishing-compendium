@@ -118,3 +118,6 @@
 ## Closing pass (2026-10-22, final revision)
 - Advisor's closing-round blockers fixed: Prehension opening replaced with the directly cited SEP account (etymology kept separately attributed to Wikipedia; P003/P072 narrowed to "reference the concept"); Prospect theory — "library's line" bridge deleted, source annotations de-commented, CO031 gloss removed; Placebo effects — legacy caveat rephrased as a citation limitation with the Kaptchuk citation attached; Justice sensitivity — "founding paper" replaced with the scale-development statement; Prospective memory and Moral dilemma research — residual seed/carrier commentary removed.
 - Band completion status: NOT complete — 42 concepts remain in the w1v manifest. Items 12-19 and the two legacy corrections are complete and pushed; the report claims only that scope.
+
+## State artifact note (2026-10-22, final)
+- Prospective memory appears in BOTH done and flagged in batches/w1v.json. The flag ("Reopened for QC: fast-track bar requires authoritative carrier") predates the repair; the page was subsequently re-sourced with the McDaniel & Einstein 2000 carrier, validated (final sweep: 0 failed), advisor-reviewed in the closing pass, and marked done. The stale flag entry is a state-machine artifact for the supervisor to clear; the item itself is complete and pushed.
