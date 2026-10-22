@@ -74,6 +74,13 @@ now resolved by the same method (RFT PMC, Harvard sdlab, Topological Media Lab, 
 hosts block curl-type agents but open via the fetch tool; quotes verified against each.
 NOTE for verify workers: a carrier that fails curl is not necessarily dead — try the fetch
 tool before routing a carrier finding.
+Supervisor verification (2026-10-22 ~12:21Z, worker-sup-6dc18459): PRE-UNDERSTANDING routed finding
+RESOLVED — the p. 192 blockquote now carries the beyng.com carrier's inline German glosses
+([beruft], [V ormeinung], ["gesetzt"]) and the source em dash, restored verbatim. Page is a
+49-word stub (pre-existing) — next w1ac-class worker to enrich to the 150-word bar. All
+w1ac-verification routed findings are now dispositioned: RFT, Readiness-matched, Pre-theoretical
+experience, Plain-language comprehension (carriers open via fetch tool), Pre-understanding
+(repaired), Philosopher-king (rebutted). 
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
