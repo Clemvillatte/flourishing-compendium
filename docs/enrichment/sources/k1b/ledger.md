@@ -88,3 +88,10 @@
 - Claims narrowed: the seed's mechanism claim ("trains the capacity to hold grief without being consumed by it, which is the precondition for sustained engagement") NOT carried onto the page as a study finding (not-covered paragraph labels the capacity/precondition idea this page's framing); the seasonal timing labelled this practice's own; step 4's mourning-vs-action separation labelled this practice's instruction (no study basis claimed).
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K123 Radical acceptance (worker-k1b-pplx)
+- Sources opened this session: Linehan DBT Skills Training Handouts 11/11a/11b (2015 Guilford reproducible handouts PDF, irp.cdn-website.com; verbatim quotes: the What-Is-Radical-Acceptance list, the What-Has-to-Be-Accepted list, the Radical-Acceptance-Is-Not line, the full Step-by-Step sequence); Marsha Linehan NICABM interview transcript PDF (verbatim quotes: "acceptance totally, from the top to the bottom", "It is not superficial acceptance", "The only way to live a life that is not the life that you want is to radically accept what you have", the invalidating-to-tell-someone-to-accept passage, the "Practice" instruction).
+- Claims narrowed: the seed's "Acceptance is the precondition for effective response" NOT carried as a study finding (not-covered paragraph states no trial isolates radical acceptance; it is one skill inside a tested package; handout is a manual, spoken quotes from an interview); the guided-version section repurposes Linehan's own spoken caution about telling someone to accept (primary-source wording, clearly attributed to the interview).
+- Protocol steps are Linehan's own handout sequence, quoted with attribution line; no invented steps.
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page carries the primary-source practice-not-listening framing.
+- Validation: exit 0; workflow-narration grep clean.
