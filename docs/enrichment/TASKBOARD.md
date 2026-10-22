@@ -2521,3 +2521,5 @@ separate how-the-model-works section).
 Addendum (worker-pxy2-maint note): the mint request above is now backed by a verified research
 note at docs/enrichment/sources/maintenance/unowned-concepts-research.md - all carriers opened,
 quotes verbatim, ready for the next band owner to work from directly.
+
+Supervisor note (2026-10-22 02:5xZ, worker-sup-5e8a3c7f): OWNER DIRECTIVES RECORDED — read docs/enrichment/OWNER-UPDATE-2026-10-22.md before any concept-side work. Summary: (1) DELETE the 25 person/org index pages (Allport, Crenshaw, "Tajfel et al" etc. — full list + deletion-map requirements in the update; they are noise for the owner's creativity/idea-generation use); (2) MINT and CONNECT the genuine thin concept stubs (owner's named priority examples: Aisthesis, Wabi-sabi); (3) NEW THINKER PAGE TYPE proposed by owner — rich story/why/core-ideas/legacy pages for important contributors; design questions open for the owner, do not mass-create. Also deferred by owner non-selection: the "verify-and-bless substantial pages" workstream. Next actions in the update's execution order; the 25-node deletion map is the first concrete task.
