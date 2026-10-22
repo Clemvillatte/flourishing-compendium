@@ -391,7 +391,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   hand-minted with the 5 low-degree unallocated concepts (Midlevel terms,
   Variation-selection-retention, Context sensitivity, Mediators of change, Tinbergen's
   four questions); state file created; w1ba baton will be claimed for enrichment.
-- CORRECTION (same session, ~14:35Z): the 7 "prose too short" findings above were
+- CORRECTION (same session, pushed 14:14:47 UTC — the ~14:35Z label was an estimate, not a clock reading): the 7 "prose too short" findings above were
   WRONG — those items were fast-track enrichments (their commits say so) and the
   fast-track profile WAIVES the prose word minimum (PROTOCOL.md §fast-track: validate
   with --fast-track). Re-validated all 7 under --fast-track: 7 checked, 0 failed.

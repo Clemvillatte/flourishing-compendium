@@ -1,15 +1,19 @@
 {
  "baton": "w1ba",
  "agent": "worker-w1ba-pplc-bb0dbf40",
- "clocked_in": "2026-10-22T14:10:53+00:00",
+ "clocked_in": "2026-10-22T14:21:47+00:00",
  "takeovers": [
   {
    "by": "worker-w1ba-pplc-bb0dbf40",
    "at": "2026-10-22T14:10:53+00:00",
    "from": null,
    "reason": "free"
+  },
+  {
+   "by": "worker-w1ba-pplc-bb0dbf40",
+   "at": "2026-10-22T14:21:47+00:00",
+   "from": "worker-w1ba-pplc-bb0dbf40",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T14:17:54+00:00"
+ ]
 }

@@ -2,15 +2,17 @@
  "batch": "w1ba",
  "done": [
   "Midlevel terms",
-  "Variation-selection-retention",
   "Context sensitivity",
   "Mediators of change",
-  "Tinbergen's four questions"
+  "Tinbergen's four questions",
+  "Variation-selection-retention"
  ],
  "in_progress": null,
- "flagged": {},
+ "flagged": {
+  "Variation-selection-retention": "Reopened for QC: QC repair (advisor): dimension/level gloss corrected to the EEMM grid; lever claim softened; Sources row audit commentary removed"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:17:54+00:00",
- "band_done": true
+ "updated": "2026-10-22T14:22:43+00:00",
+ "band_done": false
 }

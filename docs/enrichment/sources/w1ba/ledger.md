@@ -64,3 +64,25 @@ sources opened or carried by verified records, Sources rows re-pointed to actual
 carriers per the verify-pbt1 finding). Band finished; baton released. No items flagged.
 Note: this band was hand-minted by the same session's supervisor pass per the 13:55Z
 supervisor note (worker idle); enrichment happened under the worker baton per protocol.
+
+## 2026-10-22 repair pass (advisor milestone QC, worker-w1ba-pplc-bb0dbf40)
+All 5 items repaired per advisor review:
+- VSR: the "a moment, a week, a life" reading of Dimension/Level was WRONG (dimensions
+  are the six psychological dimensions; levels are biophysiological/sociocultural, per
+  the verified EEMM quote) — replaced with the grid reading; "lever a clinician can
+  actually pull" softened to "one thing to examine"; Sources row audit commentary removed.
+- Context sensitivity: "noticing context is the precondition of changing behaviour"
+  removed (stronger than the definition establishes); the stuck-pattern sentence now
+  reads "on this grid"; Sources rows de-audited.
+- Mediators of change: the original 1986 Baron & Kenny paper was OPENED this pass
+  (psy.miami.edu full-text PDF, fetched and read): both the "generative mechanism"
+  sentence and the "mediators speak to how or why such effects occur" / "moderator
+  variables specify when certain effects will hold" sentences verified verbatim; the
+  second sentence pair added with attribution. The "localizes the failure to a process"
+  overclaim replaced with a question framing. Sources rows de-audited; opened PDF cited.
+- Tinbergen: Taborsky citation corrected — Crossref lookup: Ethology 120(3), 224-227,
+  2014 (my "Ethology 121" was wrong; author Michael Taborsky). "Read clinically" now
+  marks the gloss as a reading. Sources rows de-audited.
+- Midlevel terms: Sources row de-audited.
+- Validation gate fixed: repairs validated via checked exit code (subprocess returncode),
+  not a piped tail that can mask failures.

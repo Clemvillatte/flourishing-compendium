@@ -26,5 +26,5 @@ The name is not a complaint. The trade-off it marks is deliberate: midlevel term
 
 ## Sources
 
-- Twohig, M. P., & Levin, M. E., Acceptance and commitment therapy as a treatment for anxiety and depression: A review, Utah State University DigitalCommons ([PDF](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2337&context=psych_facpub)) — the midlevel-terms definition, quoted from this carrier; the passage also appears verbatim in the accepted-manuscript copy indexed at ([core.ac.uk](https://core.ac.uk/download/pdf/84291973.pdf))
+- Twohig, M. P., & Levin, M. E., Acceptance and commitment therapy as a treatment for anxiety and depression: A review, Utah State University DigitalCommons ([PDF](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2337&context=psych_facpub)) — the midlevel-terms definition; the passage is also carried by the accepted-manuscript copy ([core.ac.uk](https://core.ac.uk/download/pdf/84291973.pdf))
 - Bordieri, M. J., Acceptance: A Research Overview and Application of This Core ACT Process in ABA, Behavior Analysis in Practice 15(1), doi 10.1007/s40617-021-00575-7, PMC 8854448 ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8854448/)) — midlevel terms' broad scope and lack of precision; the process/procedure/repertoire ambiguity
