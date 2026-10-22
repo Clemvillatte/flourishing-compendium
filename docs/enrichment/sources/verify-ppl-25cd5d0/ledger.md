@@ -1016,3 +1016,13 @@ Richerson-Boyd culture definition (as rendered in the SEP narration), the Darwin
 language-struggle passage, and the "irresistible" verdict sentence all verified verbatim
 against an unprompted raw fetch of the cited SEP entry (Lewens & Buskell, substantive
 revision 2023). No routed findings.
+
+## Round 45 (2026-10-22; inspection ~12:42-12:43Z; raw-text method)
+
+### Experiential values (w1u, done)
+
+3 quoted passages checked, 3 PASS — the three-ways sentence, the "salvation of man is
+through love and in love" fragment, and the intensification-of-inner-life sentence all
+verified verbatim against the raw Internet Archive text of the cited Frankl PDF (the same
+carrier text layer fetched unprompted for the Service page in round 13; OCR-tolerant
+match, words identical). No routed findings.
