@@ -16,7 +16,7 @@ The exclusion in the explanation is the philosophical move. Truth is usually def
 
 Adequacy is therefore a matter of integration. The more an idea hangs together with the rest of what one knows, through its own connections rather than through hearsay or accident, the more adequate it is. Ideas picked up secondhand, whether from signs, from others' reports, or from encounters in an accidental order, are fragmentary; Spinoza calls them inadequate, not false, because the mind has only part of the idea that the full situation contains.
 
-The practical use of the concept: it grades understanding rather than sorting beliefs into true and false. One can ask of any belief not only whether it is right but how much of it one actually possesses — which is why the related principle SP056 works the affective side, how a joy becomes an activity when the ideas it springs from are adequate.
+The practical use of the concept: it grades understanding rather than sorting beliefs into true and false. Of any belief one can ask two questions — whether it is right, and how much of it one actually possesses. The second question is why the related principle SP056 works the affective side, how a joy becomes an activity when the ideas it springs from are adequate.
 
 ## Related concepts
 
