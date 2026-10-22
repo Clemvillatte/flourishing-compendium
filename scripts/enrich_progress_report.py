@@ -171,49 +171,60 @@ def main():
 
     lines.append('## Kernels and thinkers (enrichment programs)')
     lines.append('')
-    lines.append('Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. Recorded-done counts come from the kernel band state files (kpr, k1a, k1b, …). The kernel queue is not trimmed of already-enriched items, so raw queue length overstates the remaining work; the rows below separate them. Metric shown: recorded-done coverage of existing kernel pages = (kernel IDs in band done lists that have a current page) / (kernel pages). No completion percentage is shown for thinkers: no thinker band state or completion denominator exists yet.')
+    lines.append('Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. Recorded-done counts come from the kernel band state files. The kernel queue is not trimmed of already-enriched items, so raw queue length overstates the remaining work; the rows below separate them. Metric shown: recorded-done coverage of existing kernel pages = (distinct kernel IDs in band done lists that have a current page) / (kernel pages). No completion percentage is shown for thinkers or stories: no completion denominator is defined for either program (the thinkers band t1a, minted 2026-10-22, covers a 12-thinker slice of the queue).')
     lines.append('')
-    lines.append('| Program | Pages | Recorded done (entries) | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queue minus done |')
-    lines.append('|---|---|---|---|---|---|---|')
+    lines.append('| Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |')
+    lines.append('|---|---|---|---|---|---|---|---|')
     def _kids(items):
         out = set()
         for it in items:
-            s = it if isinstance(it, str) else json.dumps(it)
+            s = it if isinstance(it, str) else (it.get('path') or it.get('id') or '')
             out.update(re.findall(r'K\d+', s))
         return out
     kdone_entries = 0
-    kdone = set()
-    kband_files = sorted(glob.glob(os.path.join(ROOT, 'docs/enrichment/batches/k*.json')))
+    kdone_ids = []
     kband_names = []
-    for bp in kband_files:
-        if os.path.basename(bp).startswith('k') and not os.path.basename(bp).startswith('kernel'):
-            try:
-                s = json.load(open(bp))
-            except Exception:
-                continue
-            d = s.get('done', [])
-            if not isinstance(d, list) or not d:
-                continue
-            if not (isinstance(d[0], str) and re.search(r'K\d', d[0])):
-                continue
-            kband_names.append(os.path.basename(bp)[:-5])
-            kdone_entries += len(d)
-            kdone |= _kids(d)
+    for bp in sorted(glob.glob(os.path.join(ROOT, 'docs/enrichment/batches/k*.json'))):
+        try:
+            s = json.load(open(bp))
+        except Exception:
+            continue
+        d = s.get('done', [])
+        if not isinstance(d, list) or not d:
+            continue
+        if not (isinstance(d[0], str) and re.search(r'K\d', d[0])):
+            continue
+        kband_names.append(os.path.basename(bp)[:-5])
+        kdone_entries += len(d)
+        for it in d:
+            kdone_ids.extend(_kids([it]))
+    from collections import Counter
+    kcnt = Counter(kdone_ids)
+    kdone = set(kdone_ids)
     kqueue = _kids(json.load(open(os.path.join(ROOT, 'docs/enrichment/queue-kernels.json'))))
     kpages = set()
     for fp in glob.glob(os.path.join(ROOT, 'content/kernels/*.md')):
         kpages.update(re.findall(r'K\d+', os.path.basename(fp)))
     kdone_pages = kdone & kpages
     cov = f'{100*len(kdone_pages)/len(kpages):.1f}%' if kpages else 'n/a'
-    lines.append(f'| Kernels | {len(kpages)} | {kdone_entries} ({", ".join(kband_names)}) | {len(kdone_pages)} | {cov} | {len(kqueue)} | {len(kqueue - kdone)} |')
+    kdup = {k: v for k, v in kcnt.items() if v > 1}
+    lines.append(f'| Kernels | {len(kpages)} | {kdone_entries} ({", ".join(kband_names)}) | {len(kdone)} | {len(kdone_pages)} | {cov} | {len(kqueue)} | {len(kqueue - kdone)} |')
     tq = json.load(open(os.path.join(ROOT, 'docs/enrichment/queue-thinkers.json')))
     tpages = set()
     for fp in glob.glob(os.path.join(ROOT, 'content/thinkers/*.md')):
         tpages.update(re.findall(r'T\d+', os.path.basename(fp)))
-    lines.append(f'| Thinkers | {len(tpages)} | N/A: no thinker band state exists yet | — | N/A: no defined completion denominator | {len(tq)} | — |')
+    t1a = None
+    try:
+        t1a = json.load(open(os.path.join(ROOT, 'docs/enrichment/bands/t1a-manifest.json')))
+    except Exception:
+        pass
+    t1a_note = (f"; thinkers band t1a minted 2026-10-22 with {len(t1a.get('thinkers', []))} thinkers assigned, {len(json.load(open(os.path.join(ROOT, 'docs/enrichment/batches/t1a.json'))).get('done', []))} recorded done"
+                 if t1a else '; no thinkers band state exists yet')
+    lines.append(f'| Thinkers | {len(tpages)} | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | {len(tq)} | — |')
     lines.append('')
-    lines.append(f'- Thinker reconciliation: {len(tpages)} thinker page(s) exist ({", ".join(sorted(tpages)[:5])}…); the thinker queue holds {len(tq)} entries; no completion percentage is computed because no thinker band state or completion denominator exists yet.')
-    lines.append(f'- Kernel reconciliation: {len(kdone & kqueue)} kernel IDs appear both in recorded-done and in the raw queue (the queue is not trimmed); {len(kdone - kpages)} recorded-done kernel IDs have no current page; {len(kpages - (kdone | kqueue))} kernel pages are listed in neither the done lists nor the queue (no claim is made here about how they arose).')
+    lines.append(f'- Thinker reconciliation: {len(tpages)} thinker page(s) exist ({", ".join(sorted(tpages)[:5])}…); the thinker queue holds {len(tq)} entries{t1a_note}. No completion percentage is computed: the program has no defined completion denominator.')
+    lines.append(f'- Kernel reconciliation: {len(kdup)} kernel IDs appear in more than one band done list (duplicate entries, counted once); {len(kdone - kpages)} recorded-done kernel IDs have no current page; {len(kpages - kdone)} kernel pages are not recorded done; {len(kqueue - kdone)} queued IDs are absent from the done set (this is a queue-set figure, not a page count).')
+    lines.append('- Stories carry no completion denominator in their registry; the Stories section above reports counts only.')
     lines.append('')
     lines.append('## Principles by forest')
     lines.append('')

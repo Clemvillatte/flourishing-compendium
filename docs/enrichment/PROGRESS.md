@@ -1,6 +1,6 @@
 # Enrichment progress dashboard
 
-As of 2026-10-22 15:31 UTC (input revision `0e1996e79`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:31 UTC.
+As of 2026-10-22 15:35 UTC (input revision `abedd35f2`). Scope: principles and concepts enrichment, plus a count-only view of the separate stories pipeline. Refreshed at every supervisor pass and at every shift start; next update due by 16:35 UTC.
 
 "Recorded done" = listed in a band state file after validation; it does not by itself certify that every claim passed source QC. "Not recorded done" = the remaining backlog.
 
@@ -9,8 +9,8 @@ As of 2026-10-22 15:31 UTC (input revision `0e1996e79`). Scope: principles and c
 | Type | Recorded done | Not recorded done | Total | Done % |
 |---|---|---|---|---|
 | Principles | 2171 | 12 | 2183 | 99.5% |
-| Concepts | 2029 | 232 | 2261 | 89.7% |
-| **Combined** | **4200** | **244** | **4444** | **94.5%** |
+| Concepts | 2031 | 230 | 2261 | 89.8% |
+| **Combined** | **4202** | **242** | **4444** | **94.6%** |
 
 ## Stories (separate pipeline)
 
@@ -19,24 +19,25 @@ Published story pages (content/stories/ST*.md): 433. The per-lane rows below are
 | Lane | Published (lane-reported) | Ready (lane-reported) | QC pending | Other |
 |---|---|---|---|---|
 | s1a | 0 | 12 | 24 | 3 |
-| s1b | 0 | 10 | 6 | 4 |
+| s1b | 0 | 16 | 0 | 4 |
 | s1c | 0 | 38 | 1 | 0 |
 | s1d | 3 | 7 | 0 | 0 |
 | s1e | 2 | 0 | 6 | 0 |
 | s1f | 0 | 2 | 0 | 0 |
-| **All lanes** | **5** | **69** | **37** | **7** |
+| **All lanes** | **5** | **75** | **31** | **7** |
 
 ## Kernels and thinkers (enrichment programs)
 
-Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. Recorded-done counts come from the kernel band state files (kpr, k1a, k1b, …). The kernel queue is not trimmed of already-enriched items, so raw queue length overstates the remaining work; the rows below separate them. Metric shown: recorded-done coverage of existing kernel pages = (kernel IDs in band done lists that have a current page) / (kernel pages). No completion percentage is shown for thinkers: no thinker band state or completion denominator exists yet.
+Kernel pages live in `content/kernels/`; thinker pages in `content/thinkers/`. Recorded-done counts come from the kernel band state files. The kernel queue is not trimmed of already-enriched items, so raw queue length overstates the remaining work; the rows below separate them. Metric shown: recorded-done coverage of existing kernel pages = (distinct kernel IDs in band done lists that have a current page) / (kernel pages). No completion percentage is shown for thinkers or stories: no completion denominator is defined for either program (the thinkers band t1a, minted 2026-10-22, covers a 12-thinker slice of the queue).
 
-| Program | Pages | Recorded done (entries) | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queue minus done |
-|---|---|---|---|---|---|---|
-| Kernels | 316 | 118 (k1a, k1b, kpr) | 114 | 36.1% | 216 | 135 |
-| Thinkers | 1 | N/A: no thinker band state exists yet | — | N/A: no defined completion denominator | 36 | — |
+| Program | Pages | Done entries (bands) | Distinct done K-IDs | Done K-IDs with a page | Recorded-done coverage of pages | Queue (raw) | Queued IDs not in done |
+|---|---|---|---|---|---|---|---|
+| Kernels | 316 | 121 (k1a, k1b, kpr) | 117 | 117 | 37.0% | 216 | 132 |
+| Thinkers | 1 | N/A (no done-count percentage; see note) | — | — | N/A: no defined completion denominator | 36 | — |
 
-- Thinker reconciliation: 1 thinker page(s) exist (T001…); the thinker queue holds 36 entries; no completion percentage is computed because no thinker band state or completion denominator exists yet.
-- Kernel reconciliation: 81 kernel IDs appear both in recorded-done and in the raw queue (the queue is not trimmed); 0 recorded-done kernel IDs have no current page; 67 kernel pages are listed in neither the done lists nor the queue (no claim is made here about how they arose).
+- Thinker reconciliation: 1 thinker page(s) exist (T001…); the thinker queue holds 36 entries; thinkers band t1a minted 2026-10-22 with 12 thinkers assigned, 0 recorded done. No completion percentage is computed: the program has no defined completion denominator.
+- Kernel reconciliation: 0 kernel IDs appear in more than one band done list (duplicate entries, counted once); 0 recorded-done kernel IDs have no current page; 199 kernel pages are not recorded done; 132 queued IDs are absent from the done set (this is a queue-set figure, not a page count).
+- Stories carry no completion denominator in their registry; the Stories section above reports counts only.
 
 ## Principles by forest
 
