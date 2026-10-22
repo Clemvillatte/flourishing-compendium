@@ -19,9 +19,9 @@ curl -sL -A "$UA" -o mc-mu.mp3 "https://www.mountaincloud.org/wp-content/uploads
 curl -sL -A "$UA" -o mc-restful.mp3 "https://www.mountaincloud.org/wp-content/uploads/2020/08/Restful-awareness.mp3"
 curl -sL -A "$UA" -o mc-space-feelings.mp3 "https://www.mountaincloud.org/wp-content/uploads/2020/08/Space-for-feelings.mp3"
 
-# 2. Durations (ffprobe), all matching the ledger values:
-#   tb30 1800.007 s, palouse-lk 797.094 s, palouse-walk 379.057 s,
-#   mc-mu 713.007 s, mc-restful 901.006 s, mc-space-feelings 611.007 s
+# 2. Durations (ffprobe), all matching the committed ffprobe-durations.txt:
+#   tb30 1800.007000 s, palouse-lk 797.094000 s, palouse-walk 378.758685 s,
+#   mc-mu 849.408000 s, mc-restful 812.832000 s, mc-space-feelings 611.304000 s
 for f in tb30 palouse-lk palouse-walk mc-mu mc-restful mc-space-feelings; do
   ffprobe -v error -show_entries format=duration -of default=nw=1 "$f.mp3"
 done
@@ -31,9 +31,11 @@ curl -sL -o vosk-model-small-en-us-0.15.zip \
   https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
 python3 -c "import zipfile; zipfile.ZipFile('vosk-model-small-en-us-0.15.zip').extractall('.')"
 
-# 4. Full transcription over the entire file (no time limit). See
-#    run_transcribe.sh for the exact python invocation executed; the
-#    execution log is transcribe-run.log.
+# 4. Full transcription over the entire file (no time limit). The
+#    executed python invocation is preserved in run_transcribe.sh
+#    (historical record: it cds to /home/user/workspace/cmp_verify,
+#    the working directory used at execution time; adjust that path
+#    when re-running elsewhere). The execution log is transcribe-run.log.
 #    Per file: ffmpeg -y -loglevel error -i <mp3> -ar 16000 -ac 1 <wav>
 #    then vosk KaldiRecognizer(model, 16000) fed all frames of the wav.
-bash run_transcribe.sh
+cd "$(dirname "$0")" && bash run_transcribe.sh

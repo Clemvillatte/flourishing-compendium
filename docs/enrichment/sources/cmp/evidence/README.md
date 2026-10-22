@@ -19,10 +19,11 @@ Preserved from /tmp so the verification chain survives the session.
   MARC recordings. Classification: Complete Instructions is open
   monitoring with a breath anchor; Working with Difficulties is open
   monitoring with a kindness close.
-- spot-*.txt: openings of the other six recordings (roughly the first
-  60 to 90 seconds each). The full-session practice descriptions come
-  from the opened source pages listed below, not from these openings
-  alone.
+- spot-*.txt: openings of the other six recordings, from the
+  earlier session (opening excerpts; the exact sampling commands
+  could not be recovered, see below). The full-session practice
+  descriptions come from the opened source pages listed below, not
+  from these openings alone.
 - full-*.txt (added 2026-10-22, release-blocker resolution): complete
   vosk transcripts of all six previously sampled recordings (tb30,
   palouse-lk, palouse-walk, mc-mu, mc-restful, mc-space-feelings).
@@ -31,16 +32,19 @@ Preserved from /tmp so the verification chain survives the session.
   tb30.html), converted with `ffmpeg -i <mp3> -ar 16000 -ac 1`, and
   transcribed with the vosk small en-us 0.15 model over the entire
   file (no time limit). The earlier spot transcriptions used the same
-  tool at the openings only; the original sampling commands and
-  timestamps were not preserved by the earlier session and are
-  superseded by these complete transcripts. ffprobe durations
-  re-measured on the re-downloads and match the values above
-  (tb30 1800.007 s). Classification from the full transcripts: all
-  six are continuous guided practice. The palouse-lk transcript also
-  matches the published transcript on the Insight Timer track page
-  (evidence/it-lkm.html), which credits the track to Dave Potter
-  (Palouse Mindfulness) at 13:17; the profile bio (it-profile.html
-  via the live page) documents UMass Medical School MBSR training.
+  tool at the openings only; the original session records (session
+  cffd561c... cited in the handoff) are no longer present in this
+  environment, so the earlier sampling commands and timestamps could
+  not be recovered; the complete transcripts supersede them. ffprobe
+  durations re-measured on the re-downloads and match the values
+  above (see ffprobe-redownload.txt). Classification from the full
+  transcripts (each read in full): all six are continuous guided
+  practice with no intervening talk segment. The palouse-lk
+  transcript also corresponds closely to the published transcript on
+  the Insight Timer track page (evidence/it-lkm.html), which credits
+  the track to Dave Potter (Palouse Mindfulness) at 13:17; the
+  profile bio (it-profile.html) documents UMass Medical School MBSR
+  training.
 
 ## Saved source pages (curl with browser UA, 2026-10-22)
 

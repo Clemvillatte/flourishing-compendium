@@ -1,10 +1,10 @@
 # HANDOFF: CMP (Contemplative) gallery enrichment
 
 Status: **RELEASE BLOCKERS RESOLVED (2026-10-22); branch rebased onto
-origin/main and QA re-run. Approved for main pending advisor
-re-verification.** The work lives on the non-deploying checkpoint
-branch `checkpoint/cmp-gallery-enrichment` (force-updated to the
-rebased history, since the pre-rebase commits were replaced).
+origin/main and QA re-run. Not yet approved for main; awaiting
+advisor re-verification.** The work lives on the non-deploying
+checkpoint branch `checkpoint/cmp-gallery-enrichment` (force-updated
+to the rebased history, since the pre-rebase commits were replaced).
 
 Commits (rebased, on top of origin/main at cf6bed4d4):
 - d0b6b0a58 "academy: cmp gallery +8 verified sessions (47->55), omm/lkm/zen/walking gaps filled"
