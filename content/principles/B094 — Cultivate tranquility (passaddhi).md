@@ -12,15 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 94** — Cultivate tranquility (passaddhi)
 
-Passaddhi, usually translated tranquility or calm, is one of the seven factors of awakening, and the Canon is explicit that it is bodily as well as mental. The standard formula describes it as the bodily tranquility and the mental tranquility that arise when the whole body and mind have been calmed — the Buddha is not talking about a mood but about an actual physiological state ([SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
+Passaddhi, usually translated tranquility or calm, is one of the seven factors of awakening. SN 46.53 names it among them as "calm as a factor for awakening".
 
-The fire simile from SN 46.53 places tranquility in its functional context: it is the tool for a restless mind, not a general virtue. When the mind is restless, the Buddha says, develop calm, concentration and equanimity, the way wet grass puts out a large fire ([SN 46.53, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)). Applied to a sluggish mind, the same qualities would smother what needed fuel. Tranquility is not a state to achieve permanently; it is a correct response to a specific condition.
+The fire simile in SN 46.53 shows calm in its working context. For a restless mind, the sutta says the right factors are calm, concentration and equanimity:
 
-> "When the mind is restless, that's the wrong time to develop analysis, persistence, and rapture... you should develop calm, concentration, and equanimity. Just as if a man, wanting to put out a large fire, would drench it with wet grass." (SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
+> Now, on occasions when the mind is restless, that is the right time to develop calm as a factor for awakening, concentration as a factor for awakening, equanimity as a factor for awakening. Why is that? The restless mind is easy to still with those mental qualities. Just as if a man, wanting to put out a large fire, were to place wet grass in it, wet cow dung, & wet sticks; were to give it a spray of water and smother it with dust. ([SN 46.53, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-**Plain words** Your nervous system has a brake pedal, and the brake works on the body first — long exhale, dropped shoulders, unclenched jaw — with the mind following a few seconds later. Most people only use this brake by accident. The ten long exhales before sleep are not a wellness ritual; they are the pedal, applied deliberately, at the one moment of the day when the system actually needs it. The reason this feels like cheating is that it is cheaper than the entire sleep-optimization routine and works on the mechanism itself.
+The sutta then says the same qualities are the "wrong time" tool when the mind is sluggish: "The sluggish mind is hard to raise up by those mental qualities." Calm is a remedy for one condition and not a general virtue. This is the reading that this principle takes: tranquility is a correct response to a restless mind, and you can overdo it.
 
-*For example:* Two people cannot sleep. One tries to think their way to calm — reviewing tomorrow, then trying to stop reviewing tomorrow. The other takes ten slow exhales and lets the shoulders drop, without changing the content of a single thought. The second one is usually asleep before the first has finished arguing with itself.
+(SN 46.53, trans. Thanissaro.)
+
+### Plain words
+
+Calm is a tool. If your mind is racing, calming it is the right move. If you feel flat and sleepy, calming it further just puts it to bed. Check which state you are in before you reach for a tool.
+
+### For example
+
+You sit down with a pounding head and a full diary: settle the body and breathe slowly. You sit down after lunch and feel heavy: open your eyes, sit up and bring some interest to the practice. This one is imagined.
 
 ## Psychology parallels
 

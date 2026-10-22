@@ -12,15 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 157** — Protecting others, you protect yourself
 
-The Sedaka Sutta gives this principle its clearest canonical form. The Buddha tells the story of a tightrope dancer and his partner: if one protects oneself, the other is protected; if one protects the other, oneself is protected — and the monk's practice is said to be the same ([SN 47.19, Sedaka Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn47/sn47.019.than.html)). The image is the whole argument: two people on the same rope, where the safety of each is already a function of the other's.
+The Sedaka Sutta gives this principle its clearest canonical form. The Buddha tells the story of two acrobats on a bamboo pole, each of whom looks after the other, and says that practice works the same way: protecting yourself, you protect others, and protecting others, you protect yourself ([SN 47.19, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn47/sn47.019.than.html)).
 
-The Dhammapada verse usually cited for this principle states the mechanism directly: one who, while seeking his own happiness, harms other beings who also want happiness, will not find it ([Dhammapada 131, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)). This is not a moral rule with a punishment attached; it is a causal observation about where happiness actually comes from.
+The Dhammapada states the mechanism in verse 131:
 
-> "If, while seeking your own happiness, you harm other beings who also seek happiness, you will not find it." (Dhammapada 131, paraphrased from the Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
+> One who, while himself seeking happiness, oppresses with violence other beings who also desire happiness, will not attain happiness hereafter. ([Dhammapada 131, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html))
 
-**Plain words** The harm you do does not stay where you put it. It becomes the atmosphere you live in — the office you poisoned, the relationship you soured, the reputation you built. The good you do works the same way, and this is the part that surprises people: the office where one person starts genuinely thanking others gets measurably better for everyone, including the person who started it. You cannot poison a well you also drink from.
+The verse is a statement about where happiness comes from, and the Buddha adds no penalty to it.
 
-*For example:* Two managers run the same team. One protects themselves at the team's expense when things go wrong; the team learns to protect themselves at the manager's expense, and the atmosphere curdles. The other takes the hit publicly and gives credit publicly; the team starts doing the same for each other. Same structure; only one of them is working in a room anyone wants to be in.
+(SN 47.19; Dhammapada 131, trans. Buddharakkhita.)
+
+### Plain words
+
+You can't buy your own safety with someone else's harm. The two are tied together, like acrobats on one pole. Kindness shown to others protects you as well, so it counts as good sense for your own life.
+
+### For example
+
+A manager takes the blame in public when the team fails, and gives credit in public when it succeeds. The team starts doing the same for each other. This one is imagined.
 
 ## Psychology parallels
 

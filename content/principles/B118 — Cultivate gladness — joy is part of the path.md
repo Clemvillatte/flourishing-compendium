@@ -12,15 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 118** — Cultivate gladness: joy is part of the path
 
-Piti, usually translated rapture or joy, is one of the seven factors of awakening, and this is the detail most practice advice leaves out: the list is not a set of austerities. The Buddha's functional instruction in SN 46.53 is explicit — when the mind is sluggish, you develop analysis, persistence and rapture, because rapture is what raises a mind that has gone flat, the way dry grass makes a small fire blaze ([SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)).
+Piti, usually translated rapture or joy, is one of the seven factors of awakening, and SN 46.53 gives it a job. The Buddha says which factors suit which state of mind:
 
-This makes joy not a reward for progress but a mechanism of it. A practice that is grim is not more serious; it is running on the wrong factor for the state it is in. The Dhammapada's line on this is often read as simple encouragement, and is better read as diagnosis: the spiritually mature live with gladness, like a lake without craters ([Dhammapada 82, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)).
+> Now, on any occasion when the mind is sluggish, that is the right time to develop analysis of qualities as a factor for awakening, persistence as a factor for awakening, rapture as a factor for awakening. Why is that? The sluggish mind is easy to raise up by those mental qualities. ([SN 46.53, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
 
-> "When the mind is sluggish, that's the wrong time to develop calm, concentration, and equanimity. You should develop analysis, persistence, and rapture. Just as if a man, wanting to start a small fire, would use dry grass." (SN 46.53, Aggi Sutta, Thanissaro Bhikkhu translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html))
+The simile is a man who wants "to make a small fire blaze up" and puts dry grass, dry cow dung and dry sticks on it. Rapture is on the list of what lifts a flat mind. The same sutta says that for a restless mind the right factors are calm, concentration and equanimity, and that using the first group then is "the wrong time".
 
-**Plain words** Most people assume seriousness is what makes a practice work, and then wonder why it keeps dying. Joy is not the dessert of the path; it is one of the seven factors — the specific one that a sluggish mind actually needs. A practice that cannot survive a laugh is not a deeper practice; it is a misdiagnosed one. Letting yourself be glad is not a lapse in discipline.
+So in this sutta rapture is a working tool and not a reward for progress. The compendium's extension is that a practice running on grim effort when the mind is flat is using the wrong factor for the state it is in.
 
-*For example:* Two people both keep a daily practice. One treats any moment of lightness as a sign they are not doing it properly, and the practice becomes something they endure. The other lets the meditation group end up giggling by minute ten, and shows up again the next day. A year later only one of them is still practising.
+(SN 46.53, trans. Thanissaro.)
+
+### Plain words
+
+When you feel flat and heavy in practice, the sutta's advice is to look for interest, effort and gladness. Calm is the remedy for the opposite problem, a restless mind. A practice that never allows any enjoyment has dropped one of the seven factors.
+
+### For example
+
+If a sitting feels dull, spend a minute on something that gives you a lift before you begin: a favourite verse, a walk to the cushion, a few lines of a text that interests you. If you feel jittery, do the opposite and settle first. This one is imagined.
 
 ## Psychology parallels
 

@@ -12,15 +12,23 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 173** — Be alone well
 
-The Dhammapada verses usually cited for this principle describe the person who can be alone as one who wanders alone like the rhinoceros horn, or — in the more widely quoted phrasing — one who finds delight in solitude ([Dhammapada 61-62, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html)). The image is not loneliness; it is the specific capacity of the person who does not need a crowd to be a person.
+The Dhammapada's verse on solitary travel comes in a chapter on the fool:
 
-The Buddha's teaching in MN 122 makes the same point more concretely: the monk is instructed to go into solitude and practice internally, and the reason is not that solitude is inherently holy; it is that only in solitude does the mind have nothing to perform for. This is the version of the principle the compendium carries: the appointment with yourself that keeps getting rescheduled is not about enjoying your own company; it is about finding out what is actually there when no one is watching.
+> Should a seeker not find a companion who is better or equal, let him resolutely pursue a solitary course; there is no fellowship with the fool. ([Dhammapada 61, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html))
 
-> "Even in pleasant and delightful places, in the wilderness, the wise one dwells alone, delighting in solitude." (Dhammapada 62, paraphrased from the Buddharakkhita translation, [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html))
+The verse treats solitude as the better choice when the available company would drag you down, and it assumes the seeker would prefer good company. The Rhinoceros Sutta (Sn 1.3) makes solitude into a refrain. Thanissaro Bhikkhu translates it "wander alone like a rhinoceros", and his translator's note explains that the Pali literally says "sword-horn", that the commentary takes this to mean the horn, and that he chose the rhinoceros because it reads more naturally ([Sn 1.3, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.03.than.html)).
 
-**Plain words** If every quiet moment gets filled with a screen, the appointment with yourself keeps getting rescheduled. The capacity to be alone is not a personality trait; it is a skill, and most people have never once practised it without a distraction within arm's reach. The solo dinner with the phone in the pocket is forty minutes of discomfort followed by a strange, sturdy calm — which is what the capacity actually feels like when it first appears.
+The compendium's principle is about the capacity. A person who can only function around others has not found out what is there when nobody is watching. That is the compendium's reading and the verses do not say it directly.
 
-*For example:* Two people both live alone. One fills every silence with a screen, a podcast, a call — and cannot tell you what they actually think about anything. The other spends twenty minutes a day with nothing, and can. Same living situation; only one of them knows who they are when no one is watching.
+(Dhammapada 61, trans. Buddharakkhita; Sn 1.3, trans. Thanissaro, with translator's note.)
+
+### Plain words
+
+Being alone well is a skill. If every quiet moment gets a screen, you never find out what you think when nothing is competing. Twenty minutes a day with nothing in your hands is enough to start.
+
+### For example
+
+Two people live alone. One fills every silence with a podcast or a call. The other spends twenty minutes a day with nothing, and can say what they think about things. This one is imagined.
 
 ## Psychology parallels
 
