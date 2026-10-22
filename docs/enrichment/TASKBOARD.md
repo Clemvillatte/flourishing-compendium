@@ -122,6 +122,16 @@ p1zq-class worker: reword the alias display text to a neutral label that does no
 signal/meaninglessness claim (e.g. plain "Boredom" or "Boredom (function accounts)"), keep the
 [[Boredom]] target, and re-check the AF037 title flag with the same rule. p1zq is released;
 the next claimant applies this with a source-bounded title/alias pass.
+Supervisor disposition (2026-10-22 ~12:21Z, worker-sup-6dc18459): W1C NAMESPACE FLAGS DECIDED —
+KEEP TITLES AS COMPENDIUM-COINED APPLICATION LABELS. Ruling for "Acceptance alongside
+values-based action" (compendium's phrasing of ACT's acceptance + committed action pairing)
+and "Action before feeling" (compendium's application of Aristotle's NE II habituation):
+no rename, no merge; pages and links preserved as the workers left them. Requirement: each
+page keeps/carries a one-line disclosure that the title is the compendium's own phrasing of
+the source construct (the six ACT processes / NE II habituation), and all construct claims
+stay bounded to the opened sources. This is consistent with the Y024 routing (title/namespace
+changes remain owner-callable; the owner may rename later without breaking the ruling).
+Items 1 and 3 namespace-PENDING are resolved by this ruling; w1c milestone QC can close.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
