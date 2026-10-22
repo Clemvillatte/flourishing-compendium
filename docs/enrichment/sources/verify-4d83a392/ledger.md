@@ -174,3 +174,19 @@ quote restored to verbatim + prose trimmed back into validator range). Final com
   of symptoms of positive feelings and positive functioning in life." — verbatim against
   the Keyes 2002 JSTOR PDF abstract (same carrier as above). The six-times abstract quote
   on that page was already verified verbatim earlier this round.
+
+## Addendum 5 (Learned optimism, 06:47Z) — QUOTES PASS
+- Seligman & Schulman 1986 quote ("Individuals who habitually construe...") — verbatim
+  against the [UPenn PDF](https://ppc.sas.upenn.edu/sites/default/files/predictproductivity.pdf)
+  (two-column scan; sentence confirmed across column interleaving, ending "...than those
+  with the opposite style").
+
+## SESSION ROUND (final)
+11 pages quotation-checked: MBCT, Learned Helplessness Theory, Meaning-centred therapy,
+Flourishing scale, The two-factor model of well-being, Competence, Relatedness,
+Dispositional optimism, Logotherapy, Ego development, Ego integrity (Erikson),
+Complete mental health model quote, Learned optimism quote.
+2 defects found and fixed (two-factor Keyes locator; Ego development Integrated-stage
+quote restored to verbatim + prose trimmed to validator range). 2 cosmetic notes routed
+(no action needed). Maintenance baton: claimed, used, released. All work pushed and
+verified on origin/main.
