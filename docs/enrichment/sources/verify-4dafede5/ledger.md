@@ -163,8 +163,17 @@ research); all other sampled items PASS.
     paragraph). The continuation paraphrase (willingness to be open to
     comparative cultural study) is faithful. No hallucinated quotes.
 
+## Round 11 (11:30Z) — The polis (w1t, commit c89fe65ab)
+
+18. **The polis (w1t)** — 2 quoted passages checked, 2 PASS: both Politics
+    I.2 Rackham passages (the "prior in nature to the household" sentence at
+    1253a18-19 and the full "lower animal or a god" passage at 1253a25-30)
+    verified verbatim against a fresh fetch of the Perseus carrier. The logos
+    versus voice argument summary is unquoted and faithful. No hallucinated
+    quotes.
+
 ## Summary
 
-17 items checked, 15 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
+18 items checked, 16 PASS, 2 defects repaired and pushed (dc088a09f, 838b03786). No
 further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first seventeen items after repair.
+quotation-faithful at a 100% sample of its first eighteen items after repair.
