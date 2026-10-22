@@ -11,7 +11,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 In the Second Essay of the Genealogy, Nietzsche argues that nothing keeps the meaning it was born with. Every practice gets commandeered by whatever force is currently superior to it.
 
-> everything, anything, which exists and which prevails anywhere, will always be put to new purposes by a force superior to itself, will be commandeered afresh, will be turned and transformed to new uses; all "happening" in the organic world consists of overpowering and dominating, and again all overpowering and domination is a new interpretation and adjustment, which must necessarily obscure or absolutely extinguish the subsisting "meaning" and "end." (Nietzsche, Genealogy of Morals II.12, [Zimmern translation, Gutenberg](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
+> everything, anything, which exists and which prevails anywhere, will always be put to new purposes by a force superior to itself, will be commandeered afresh, will be turned and transformed to new uses; all "happening" in the organic world consists of overpowering and dominating, and again all overpowering and domination is a new interpretation and adjustment, which must necessarily obscure or absolutely extinguish the subsisting "meaning" and "end." (Nietzsche, Genealogy of Morals II.12, [Kennedy translation, Gutenberg](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
 
 His case study is punishment: the act stayed recognizably the same across centuries while its meaning was rewritten again and again.
 
@@ -29,7 +29,7 @@ His case study is punishment: the act stayed recognizably the same across centur
 
 - Nietzsche, Genealogy of Morals
 
-- [Friedrich Nietzsche, The Genealogy of Morals, Helen Zimmern translation, Project Gutenberg #52319](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm) — the opened carrier of the quotation above.
+- [Friedrich Nietzsche, The Genealogy of Morals, J. M. Kennedy translation, Project Gutenberg #52319](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm) — the opened carrier of the quotation above.
 
 ## Cited in philosophy parallels
 
