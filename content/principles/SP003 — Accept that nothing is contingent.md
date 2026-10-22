@@ -14,7 +14,7 @@ legacy: {"volume": "Volume IV — Genuine Flourishing IV", "book": "SP — Spino
 
 Spinoza argues that everything is determined by the necessity of the divine nature. ([Ethics I, Proposition XXIX](https://www.gutenberg.org/ebooks/3800)) Proposition XXXIII adds that God could not have brought things into being in another manner or order. ([Ethics I, Proposition XXXIII](https://www.gutenberg.org/ebooks/3800)) The compendium's practical application is to examine an event's circumstances while considering how to respond.
 
-> "Nothing in the universe is contingent, but all things have been conditioned by the necessity of the divine nature to exist and to act in a certain manner." (Ethics I, Prop. XXIX, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
+> "Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature." (Ethics I, Prop. XXIX, Elwes tr., [Gutenberg #3800](https://www.gutenberg.org/ebooks/3800))
 
 **Plain words** Look for the circumstances that shaped an event, including your own part in it. Then ask what response you want to make now. This is a suggested application of the philosophical view, not a limit on how long someone may reflect.
 
