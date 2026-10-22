@@ -387,3 +387,19 @@ relation to the Thou; as I become I, I say Thou" (page drops the carrier's itali
 "different I" sentence, the experience/relation sentence, and "All real living is meeting"
 (Smith); the Kaufmann rendering "All actual life is encounter" is also directly present in
 the carrier's Kaufmann section. No routed findings.
+
+## Round 13 (2026-10-22, performed ~12:33-12:35Z measured; raw-text method)
+
+### Service (w1s, fast-track done, commit bce34ab3f)
+
+7 quoted passages checked, 7 PASS — all verified against unprompted raw fetches of the three
+cited carriers:
+- Analects VI.28 (Legge, Gutenberg #3330): the "man of perfect virtue" sentence is verbatim
+  (BOOK VI, CHAP. XXVIII.2). Note: Legge numbers this chapter XXVIII within Book VI, matching
+  the page's "VI.28" reference.
+- NE IX.7 (Ross, MIT Classics): all three quoted fragments verbatim ("Those who have done a
+  service to others feel friendship and love...", "what he is in potentiality, his handiwork
+  manifests in activity", "to the benefactor that is noble which depends on his action").
+- Frankl, Man's Search for Meaning (Internet Archive PDF): the self-transcendence passage
+  verbatim (page normalises the PDF's em dashes to spaced dashes; words identical).
+No routed findings.
