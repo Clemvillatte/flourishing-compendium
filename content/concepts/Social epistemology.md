@@ -13,7 +13,7 @@ Social epistemology is the field that studies truth-seeking as a social activity
 
 ### Goldman's veritistic program
 
-The seed names the field's two founding references. Of Alvin Goldman's Knowledge in a Social World (1999) the entry says: "The seminal defense for this sort of approach to social epistemology is Alvin Goldman (1999)", a book that "developed Goldman's 'veritistic' approach, which focuses on the reliability with which various social practices produce true beliefs" ([entry](https://plato.stanford.edu/entries/epistemology-social/)). Philip Kitcher's paper shows the field's style of question: "Philip Kitcher's 1990 paper 'The Division of Cognitive Labor' argues that scientists divide labor more effectively when they are motivated by credit" ([entry](https://plato.stanford.edu/entries/epistemology-social/)) — truth seekers "might all herd onto the most promising problem in science, while credit seekers will choose less popular topics where they are more likely to be the one generating a finding".
+Of Alvin Goldman's Knowledge in a Social World (1999) the entry says: "The seminal defense for this sort of approach to social epistemology is Alvin Goldman (1999)", a book that "developed Goldman's 'veritistic' approach, which focuses on the reliability with which various social practices produce true beliefs" ([entry](https://plato.stanford.edu/entries/epistemology-social/)). Philip Kitcher's paper shows the field's style of question: "Philip Kitcher's 1990 paper 'The Division of Cognitive Labor' argues that scientists divide labor more effectively when they are motivated by credit" ([entry](https://plato.stanford.edu/entries/epistemology-social/)) — truth seekers "might all herd onto the most promising problem in science, while credit seekers will choose less popular topics where they are more likely to be the one generating a finding".
 
 ### What the field studies
 
@@ -32,7 +32,7 @@ The entry's working topics are testimony, peer disagreement, judgment aggregatio
 
 - [O'Connor, Goldberg & Goldman, "Social Epistemology", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/epistemology-social/) — the carrier for this account: the definition, the Goldman 1999 veritistic description, the Kitcher 1990 credit argument, the conciliationism statement, the doctrinal-paradox example, and the systems question
 
-Further reading: Goldman, Knowledge in a Social World (1999); Kitcher, "The Division of Cognitive Labor" (1990) — the two works named in the seed, not opened this session
+Further reading: Goldman, Knowledge in a Social World (1999); Kitcher, "The Division of Cognitive Labor" (1990)
 
 ## Cited in psychology parallels
 

@@ -13,7 +13,7 @@ Socioemotional wisdom is this page's heading for the strength Erikson places at 
 
 ### What integrity wins
 
-The stage Erikson sets against despair is not a mood but a reckoning. Despair, as the article summarizes a developmental textbook by Miller, is "a disgust of one's self, regret for things done and not done, and a fear of death" ([Javed & Kakul, 2023](https://www.mdpi.com/2499-6564/71/2/109), reproducing Miller). Integrity is the acceptance of one's own life as it was lived, and wisdom is what that acceptance becomes. A later summary of Erikson's account puts it this way: the previous stages' achievements are renewed in late adulthood and mature forms of them are integrated "into a comprehensive sense of wisdom" (Erikson et al., 1986, pp. 55-6, as quoted in [Perry et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4318792/)). In the extended edition the Eriksons added a ninth stage in which an older adult revisits the previous eight stages.
+Despair, as the article summarizes a developmental textbook by Miller, is "a disgust of one's self, regret for things done and not done, and a fear of death" ([Javed & Kakul, 2023](https://www.mdpi.com/2499-6564/71/2/109), reproducing Miller). Integrity is the acceptance of one's own life as it was lived, and wisdom is what that acceptance becomes. A later summary of Erikson's account puts it this way: the previous stages' achievements are renewed in late adulthood and mature forms of them are integrated "into a comprehensive sense of wisdom" (Erikson et al., 1986, pp. 55-6, as quoted in [Perry et al., 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4318792/)). In the extended edition the Eriksons added a ninth stage in which an older adult revisits the previous eight stages.
 
 ### In the compendium
 

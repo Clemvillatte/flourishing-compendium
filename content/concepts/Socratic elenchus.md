@@ -7,13 +7,13 @@ file: "Socratic elenchus"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-The Socratic elenchus is the cross-examination Plato shows Socrates practicing: take the interlocutor's own confident answer, draw out its consequences together with his other beliefs, and show that it cannot hold. The Meno shows the method at work on the question what virtue is, and shows its cost to the person answering.
+In Plato's Meno, Socrates tests Meno's answers about virtue through further questions. The exchange leaves Meno unable to say what virtue is.
 
 > "For my soul and my tongue are really torpid, and I do not know how to answer you; and though I have been delivered of an infinite variety of speeches about virtue before now, and to many persons-and very good ones they were, as I thought-at this moment I cannot even say what virtue is." (Meno, [80b, trans. Jowett](http://classics.mit.edu/Plato/meno.html))
 
 ### How the refutation runs
 
-Meno offers a definition: "Virtue is the desire of things honourable and the power of attaining them" ([77b](http://classics.mit.edu/Plato/meno.html)). Socrates first tests the desire half: do any desire evil? Those who desire evil believe it good, and "if there is no one who desires to be miserable, there is no one, Meno, who desires evil" ([78b](http://classics.mit.edu/Plato/meno.html)). Since the desire of good is common to all, it cannot distinguish the virtuous, so the definition shrinks to the power of attaining. Socrates then tests that half with the case of getting gold unjustly, and his own framing makes the admission: "justice or temperance or holiness, or some other part of virtue... must accompany the acquisition" ([78d](http://classics.mit.edu/Plato/meno.html)). The definition has been emptied from both ends, and Meno, numb like the man stung by the torpedo fish, compares Socrates to it: "you seem to me both in your appearance and in your power over others to be very like the flat torpedo fish, who torpifies those who come near him and touch him" ([80a](http://classics.mit.edu/Plato/meno.html)).
+Meno offers a definition: "Virtue is the desire of things honourable and the power of attaining them" ([77b](http://classics.mit.edu/Plato/meno.html)). Socrates first tests the desire half: do any desire evil? Those who desire evil believe it good, and "if there is no one who desires to be miserable, there is no one, Meno, who desires evil" ([78b](http://classics.mit.edu/Plato/meno.html)). Since the desire of good is common to all, it cannot distinguish the virtuous, so the definition shrinks to the power of attaining. Socrates then tests that half with the case of getting gold unjustly, and proposes the requirement that "justice or temperance or holiness, or some other part of virtue... must accompany the acquisition", with which Meno agrees ([78d](http://classics.mit.edu/Plato/meno.html)). The definition fails on the dialogue's own stated ground: Socrates had asked for virtue "whole and unbroken", and Meno's answer defines it "with a part of virtue", "as though you had told me and I must already know the whole of virtue". Meno, numb like the man stung by the torpedo fish, compares Socrates to it: "you seem to me both in your appearance and in your power over others to be very like the flat torpedo fish, who torpifies those who come near him and touch him" ([80a](http://classics.mit.edu/Plato/meno.html)).
 
 ### In the compendium
 
@@ -27,7 +27,8 @@ Meno offers a definition: "Virtue is the desire of things honourable and the pow
 
 ## Sources
 
-- Plato, Meno, trans. Benjamin Jowett — [full text, The Internet Classics Archive](http://classics.mit.edu/Plato/meno.html) — the carrier for the quotations and stephanus locators (locators verified against the Perseus Loeb sections)
+- Plato, Meno, trans. Benjamin Jowett — [full text, The Internet Classics Archive](http://classics.mit.edu/Plato/meno.html) — the carrier for the quotations
+- Plato, Meno (Loeb Classical Library, trans. W.R.M. Lamb) — [Perseus Digital Library, section pages](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0178%3Atext%3DMeno%3Asection%3D77b) — the carrier for the stephanus locators
 
 ## Cited in philosophy parallels
 
