@@ -16,10 +16,10 @@ A structured way to state a need or hold a limit. The script comes from Sharon a
 
 The four steps are the Bowers' DESC script, as reproduced in a Yale workplace guide:
 
-1. Describe: "Describe the behavior/situation as completely and objectively as possible. Just the facts!"
-2. Express: "Express your feelings or thoughts about the behavior/situation." The guide adds that sentences beginning with "You" often put people on the defensive, and recommends phrasing with "I" instead.
-3. Specify: "Specify what behavior/outcome you would prefer to happen."
-4. Consequences: "Specify the consequences if this happens. (Both positive and negative)"
+1. Describe: "Describe the behavior or situation as completely and objectively as possible. Just the facts!"
+2. Express: "Express your feelings or thoughts about the behavior or situation." The guide adds that sentences beginning with "You" often put people on the defensive, and recommends phrasing with "I" instead.
+3. Specify: "Specify what behavior or outcome you would prefer to happen."
+4. Consequences: "Specify the consequences if this happens, both positive and negative"
 
 ### Evidence
 
@@ -31,7 +31,7 @@ What this evidence does not test: the four-step script as a boundary tool in ord
 
 ### A guided version
 
-Not applicable: the practice is a conversation with a person, not a recording.
+None found this session; the absence is flagged in the band ledger pending a supervisor ruling.
 
 ## Operationalises
 

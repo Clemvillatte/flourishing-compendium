@@ -14,11 +14,11 @@ A weekly walk taken to meet something vast. The research version is the awe walk
 
 ### Protocol
 
-Steps 1 and 2 come from the trial; step 3 is editorial.
+The trial used weekly 15-minute outdoor walks with an instruction to experience awe. The examples and pausing suggestion below are editorial additions.
 
 1. Take a 15-minute walk outdoors, once a week.
 2. As you walk, orient to the vast rather than the useful: night sky, tall trees, water, a crowd, great art, powerful music, anything larger than the self and not immediately understood. The trial simply called this being oriented "to experience awe during" the walk.
-3. When something vast registers, stop and let it have the attention. The vastness menu inside step 2 is the compendium's, drawn from this page's original note, not from the trial.
+3. When something vast registers, stop and let it have the attention.
 
 ### Evidence
 
@@ -34,7 +34,7 @@ Outside the walk context, the awe walkers "reported greater increases in daily p
 
 ### A guided version
 
-Not applicable: the walk is the practice, and it is self-guided by design.
+None found this session; the absence is flagged in the band ledger pending a supervisor ruling.
 
 ## Operationalises
 

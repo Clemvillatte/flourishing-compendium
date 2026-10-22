@@ -35,7 +35,7 @@ The same abstract records the theory's limit: reasoning "motivated" by the wish 
 
 ### A guided version
 
-Not applicable: the practice is a conversation with people you can reach, not a recording.
+None found this session; the absence is flagged in the band ledger pending a supervisor ruling.
 
 ## Operationalises
 

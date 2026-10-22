@@ -19,7 +19,7 @@ The steps are the compendium's everyday adaptation of the dialogue; the dialogue
 1. Name the self-image that is speaking, and name it as a voice rather than as yourself.
 2. Take it apart as Nāgasena takes the chariot apart: ask whether the "I" now speaking is this feeling, this thought, this memory, this role. The dialogue asks such questions one part at a time and does not tell the questioner what to answer.
 3. Ask the two closing questions the dialogue asks: is the "I" all these parts together, and is it something outside them? In the dialogue, Milinda answers no to both.
-4. Close where the dialogue closes. The person, like the chariot, is a "generally understood term, a designation in common use": a working label for the parts working together, not an essence hiding in any single part.
+4. Close where the dialogue closes. The person, like the chariot, comes under "the generally understood term, the designation in common use": a working label for the parts working together, not an essence hiding in any single part.
 
 ### Evidence
 
@@ -35,7 +35,7 @@ A separate comparison is research on self-distanced reasoning rather than on the
 
 ### A guided version
 
-Not applicable: the practice is an examination run on one's own experience, not a recording.
+None found this session; the absence is flagged in the band ledger pending a supervisor ruling.
 
 ## Operationalises
 
