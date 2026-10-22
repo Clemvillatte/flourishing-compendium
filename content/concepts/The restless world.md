@@ -38,3 +38,5 @@ The practical corollary for a person: expecting stillness from a restless world 
 ## Cited in philosophy parallels
 
 - [[P103 — Accept restlessness — it is the human condition]]
+- [[CO078 — Understand the role of language in thinking — words shape thought]]
+- [[MO068 — Recognise addiction and motivation — wanting without liking]]

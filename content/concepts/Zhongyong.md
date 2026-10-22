@@ -23,7 +23,7 @@ Two features distinguish the Confucian mean from a calculus of averages. First, 
 
 ## Related concepts
 
-- [[The doctrine of the mean]] — Aristotle's account, the Western counterpart this entry is most often compared with
+- [[The doctrine of the mean|The Doctrine of the Mean]] — Aristotle's account, the Western counterpart this entry is most often compared with
 - [[The middle path]] — the Buddhist middle way, a near neighbor with a different diagnosis
 
 ## Sources
