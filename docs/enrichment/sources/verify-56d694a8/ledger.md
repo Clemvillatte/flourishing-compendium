@@ -112,3 +112,11 @@ Round 7: 4 pages, 6 quoted passages verified, no defects.
 4. **Decision-making research** — "Seven samples" sentence VERIFIED verbatim via the [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/12416921/) (Schwartz et al. JPSP 2002); "Half a century ago, Simon..." sentence VERIFIED verbatim in the opened Iyengar/Wells/Schwartz Columbia PDF. PASS.
 
 Round 8: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 9 — morning sample continued
+
+1. **Correspondence** — both Ingold quotes VERIFIED verbatim via the opened scispace PDF (direct download blocked, HTTP reader opened it). PASS.
+2. **Correcting the instrument** — IEP Bacon sentence, Hanover Aphorism XXXIX passage, and the idols list all VERIFIED verbatim against the opened carriers. PASS.
+3. **Decision-making under uncertainty (Gigerenzer's fast-and-fractal heuristics)** — both Gigerenzer & Brighton quotes ("Heuristics are efficient cognitive processes that ignore information"; take-the-best rules, p. 113) VERIFIED verbatim against the opened MPG PDF. PASS.
+
+Round 9: 3 pages, 5 quoted passages verified, no defects.
