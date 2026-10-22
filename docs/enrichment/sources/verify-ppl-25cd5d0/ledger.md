@@ -498,3 +498,32 @@ carriers:
   "difficulty, perplexity") directly supported.
 Note: the first fetch of classics.mit.edu/Plato/meno.html returned the archive's home page;
 a fresh no-cache fetch returned the full Meno text. No routed findings.
+
+## Round 21 (2026-10-22, performed ~12:25-12:26Z measured; raw-text method)
+
+### Enactivism (w1r, theory-page standard, commit a7ffa0c7c)
+
+4 quoted passages from The Embodied Mind checked, 4 PASS — the two-point summary (p. 173), the
+"By using the term embodied" passage (p. 173), the enactment definition (p. 205) and the
+paths/laid-down-in-walking fragment (p. 205) all verified against an unprompted raw fetch of
+the cited monoskop PDF (OCR-tolerant match: the text layer hyphenates at line breaks, e.g.
+"en- able"; words identical). The SEP-attributed "cognition emerges from or is constituted by
+sensorimotor activity" sentence and the three-strands list (autopoietic, sensorimotor,
+radical) are both present in the cited SEP Winter 2023 archive entry.
+ROUTED DEFECT to the w1r owner (source attribution): the page states "the Stanford
+Encyclopedia notes that sensorimotor enactivism's appeal to mediating know-how is seen by
+radical enactivists as a brand of cognitivism". The word "cognitivism" does not appear
+anywhere in the full cited SEP entry (Winter 2023 embodied-cognition archive, full text
+fetched, 109,669 chars); the entry's radical-enactivism discussion targets Autopoietic
+Enactivism's notion of sensemaking, not sensorimotor know-how. The objection exists in the
+literature (e.g. Ward, Silverman and Villalobos 2017, cited by the SEP for the strands), but
+the sentence as written attributes to the SEP a claim the entry does not carry. Fix: reword to
+what the SEP says, or cite the actual source of the objection.
+
+### Appearances as indifferents (w1y, fast-track done, commit 477924c80)
+
+4 quoted passages checked, 4 PASS — the Discourses III.3 training passage and the
+"use appearances conformably to nature" sentence verified verbatim against an unprompted raw
+fetch of the cited MIT Classics page (Long translation), as were the inline fragments
+"with respect to that which is neither good nor bad" and "feels indifferent". No routed
+findings.
