@@ -116,3 +116,14 @@ registration/backlinks remain the integration holds. Final commit this session: 
 035/036/037/039 are qc-cleared and ready; 038 stays qc_pending pending the supervisor's
 retargeting decision. All quotes verbatim against carriers opened this session; per-sentence
 inline carrier citations added per advisor instruction. Final commit this session: see git log.
+
+T+37-42 verification pass (same session): all five drafts re-run through story_check (0 errors),
+wikilinks resolve, word counts in band (035=376, 036=224, 037=225, 038=272, 039=313), and every
+block quote re-traced to an opened carrier in the session record. The 039 "Patience" quote was
+re-verified against the downloaded Wallace translation HTML itself ("It is decreed that I must
+now choose Patience for my guide! This I have done.") — an earlier text-extraction of that file
+was defective and briefly read as a 404 page; the source is sound. A sixth artist story (Cage's
+4'33") was researched but NOT drafted: both candidate hosts (B172 value silence, B057 anchored/
+open awareness) put the piece's meaning on a different axis than their bodies (talk restraint;
+choosing the tool by state), so the mapping would be forced — left for a session with time for
+advisor QC rather than inventing the bridge.
