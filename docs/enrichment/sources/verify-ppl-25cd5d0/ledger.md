@@ -1005,3 +1005,14 @@ as autocorrelation). No routed findings.
 - Sutherland's Winnicott sentence: verified via a search-engine snippet of the cited PubMed
   record (7009698), word-for-word.
 No routed findings.
+
+## Round 44 (2026-10-22; inspection ~12:43-12:44Z; raw-text method)
+
+### Cultural evolution theory (w1r, done)
+
+5 quoted passages checked, 5 PASS — the program-description sentence, the 1970s/1980s
+initiation sentence, the "learn from other members of their species" sentence, the
+Richerson-Boyd culture definition (as rendered in the SEP narration), the Darwin-Müller
+language-struggle passage, and the "irresistible" verdict sentence all verified verbatim
+against an unprompted raw fetch of the cited SEP entry (Lewens & Buskell, substantive
+revision 2023). No routed findings.
