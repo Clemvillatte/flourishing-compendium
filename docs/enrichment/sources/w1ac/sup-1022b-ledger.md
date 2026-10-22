@@ -12,3 +12,9 @@
   (3) unsupported research-literature glosses ("stable, self-organizing aim", goal-generation distinction, Noogenic-neurosis overreach) removed;
   (4) Aristotle final-cause comparison scoped as the compendium's framing, not opened evidence.
 - Validated: enrich_validate.py --fast-track --base 708222a39 → 1 checked, 0 failed.
+
+## Reconstruction (fast-track bar)
+- Opened: Dewey, Reconstruction in Philosophy, Project Gutenberg #40089 (full text).
+- Verbatim quote (lecture I): "Philosophic reconstruction for the present is thus the endeavor to undo the entanglement and to permit the Baconian aspirations to come to a free and unhindered expression."
+- Second quoted fragment same lecture: "the purposeful energetic re-shaper of those phases of nature and life that obstruct social well-being" (checked word-for-word in the opened text).
+- Prefatory-note framing verified: lectures at the Imperial University of Japan in Tokyo, February and March.
