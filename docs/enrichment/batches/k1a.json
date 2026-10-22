@@ -19,7 +19,8 @@
   "content/kernels/K212 — Gratitude expression.md",
   "content/kernels/K198 — Sleep regularity.md",
   "content/kernels/K249 — Half-smile.md",
-  "content/kernels/K188 — Friction audit.md"
+  "content/kernels/K188 — Friction audit.md",
+  "content/kernels/K220 — Democratic micro-practice.md"
  ],
  "in_progress": null,
  "queue": [
@@ -68,5 +69,5 @@
   "source": "queue-kernels.json",
   "mission": "Enrich thin kernels to the K100 standard (read K100 + EXEMPLARS.md kernel exemplar first). Items are file paths. kpr band remains the parallel kernel track; do not duplicate kpr-done items (none overlap)."
  },
- "updated": "2026-10-22T13:51:14+00:00"
+ "updated": "2026-10-22T13:51:45+00:00"
 }

@@ -659,3 +659,5 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 - K249 Half-smile: enriched to standard. Carriers opened: Wagenmakers et al. 2016 RRP paper PDF (raw-text quote check) — the honest replication story told in full; Many Smiles Collaboration 2024 findings noted for balance. Original Operationalises links preserved (D092, B191, P178). Guided version: exempt (unguided, supervisor disposition). Verified: validate.py ok.
 
 - K188 Friction audit: enriched to standard. Carrier: NCBI Behavioral Economics Toolkit chapter (quotes from the search-indexed record, honestly flagged as not directly fetched — NCBI blocked the fetcher); MTO hassle-costs randomised result (15% to 53%) attributed to Bergman, Chan & Kapor 2020. Original Operationalises links preserved (B170). Guided version: exempt (unguided, supervisor disposition). Verified: validate.py ok.
+
+- K220 Democratic micro-practice: enriched to standard. Carrier opened: Woolley et al. 2010 Science paper PDF (Berkeley, raw-text quote check). Original Operationalises links preserved (D114, B153, P127). Guided version: exempt (unguided, supervisor disposition). Verified: validate.py ok.
