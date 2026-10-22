@@ -96,3 +96,20 @@ defect found and repaired (Natural rights punctuation, cross-band — w1s owner 
 requested); 2 carrier-accessibility improvements applied under the w1w baton (The I and
 the Me, Tacit knowledge research). This was a quotation-fidelity check, not whole-page
 factual certification.
+
+## Round 2 — w1ac recent pages (2026-10-22, measured ~12:10Z; read-only, no baton, no edits)
+
+- REGULATORY MODE THEORY — PASS 2/2: both Kruglanski et al. 2000 definitions verbatim vs the
+  cited Columbia PDF (freshly downloaded and opened).
+- RECONSTRUCTIVE MEMORY — PASS 1/1: the Bartlett 1932 p. 213 quotation verbatim vs the cited
+  Cambridge BJPsych Advances article (opened via fetch; wording matches word-for-word,
+  including the trailing "it is not at all important that it should be so").
+- RELATIONAL FRAME THEORY — QUOTE FIDELITY UNCONFIRMED, CARRIER FINDING ROUTED: the page's
+  blockquote (Hayes, Fox et al. 2001 p. 46, "quoted in Barnes-Holmes et al. 2005") cites the
+  PMC PDF (PMC1285006); to automated tools that URL returns an HTML "Preparing to download"
+  interstitial (curl: 1.8KB stub; fetch tool: empty text reconstruction), and the article's
+  HTML page is PDF-only. The quote could not be re-verified this pass (no accessible carrier
+  found in the time available: Europe PMC full-text XML and the OA utility did not yield it).
+  Routed for the w1ac owner/supervisor: verify the quotation against an accessible carrier of
+  Barnes-Holmes & Hayes 2005 (JEAB 84(3)) and consider re-pointing the citation to a carrier
+  that opens to automated fetches. The interstitial link itself resolves HTTP 200.

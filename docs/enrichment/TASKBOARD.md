@@ -2723,3 +2723,14 @@ heart findings withdrawn; The I and the Me completed to 4/4); 1 real defect foun
 (Natural rights, cross-band, disposition requested above); 2 carrier improvements applied under
 the w1w baton (The I and the Me: IA full-book link, free access verified; Tacit knowledge
 research: full-text PDF carrier added, IA scan retained labelled borrow-only).
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22, measured ~12:10Z, round 2: read-only verification of w1ac recent enrichment; no baton held)
+
+Sampled three w1ac pages (enriched ~07:30Z today by the w1ac worker). PASS: Regulatory mode theory
+(2/2 Kruglanski definitions verbatim vs the cited Columbia PDF) and Reconstructive memory (1/1
+Bartlett 1932 quotation verbatim vs the cited Cambridge BJPsych Advances article). ROUTED FINDING
+for the w1ac owner/supervisor: RELATIONAL FRAME THEORY — the cited PMC PDF link
+(PMC1285006/pdf/15540506.pdf) returns an HTML download-interstitial to automated tools (curl stub,
+empty fetch reconstruction), so the Hayes, Fox et al. 2001 p. 46 quotation could not be re-verified
+this pass; please verify it against an accessible carrier and consider re-pointing the citation.
+Full evidence: sources/verify-ppl-7f3a2b19/ledger.md (round 2).
