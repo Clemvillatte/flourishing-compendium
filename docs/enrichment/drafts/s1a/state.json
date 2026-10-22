@@ -960,7 +960,27 @@
      "note": ""
     }
    ]
+  },
+  "s1a-035": {
+   "status": "qc_pending",
+   "angle": "D041 qingjing: Agnes Martin's stillness discipline",
+   "history": [
+    {
+     "t": "2026-10-22T15:04:32+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:04:32+00:00",
+     "to": "drafting",
+     "note": ""
+    },
+    {
+     "t": "2026-10-22T15:05:22+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; first advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T06:36:07+00:00"
+ "updated": "2026-10-22T15:05:22+00:00"
 }
