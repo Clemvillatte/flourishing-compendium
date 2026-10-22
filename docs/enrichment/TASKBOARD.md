@@ -2829,3 +2829,15 @@ in single quotes where the cited Stanford PDF prints double quotes; same one-cha
 the Nietzsche/Bem/Noddings repairs this session. Full evidence: sources/verify-ppl-7f3a2b19/ledger.md
 (rounds 13-16). Session verification closed: 64 pages sampled, 57 PASS, 6 defects + 1 attribution
 repaired, 8 findings routed.
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22, measured ~12:07Z, round 17: w1t read-only findings)
+
+Two findings routed to the W1T OWNER (read-only round, no edits made): (1) AFFORDANCES — the cited
+umich Gibson 1979 ch. 8 excerpt PDF host fails to connect; the quotation could not be re-verified
+against the cited carrier — re-point to an accessible carrier. (2) ADEQUATE IDEA — the Spinoza Ethics II
+Def. IV quotation is verbatim except the page prints "Explanation. I say intrinsic" where the cited
+Gutenberg text prints "Explanation.—I say intrinsic" (source em-dash dropped) — one-character repair.
+Also: ADIAPHORA, THE INDIFFERENTS PASS (Epictetus Enchiridion 1 Carter verbatim); Acceptance and
+Commitment Therapy has no blockquotes (nothing to check). SESSION CLOSED: 68 pages verified across
+17 rounds, 58 PASS, 6 defects + 1 attribution repaired, 10 findings routed, 1 confabulation withdrawn
+with evidence, 2 process errors corrected. All work on origin/main; all batons released.
