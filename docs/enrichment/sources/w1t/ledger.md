@@ -354,3 +354,15 @@ Decisions:
 - Related concepts: Somatic experiencing (Levine), Somatic psychotherapy (both existing; "Tension and trauma releasing exercises" does not exist as a page).
 - The discharge evidence is honestly scoped (anecdotal, not peer-reviewed).
 - No reciprocal proposals (fast-track bar).
+
+### Concrescence (fast-track, deg 5)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/whitehead/ — SEP Desmet & Irvine. Concrescence sentence fetched verbatim with the PR 1929c [1985: 21] and [1985: 240] locators.
+
+Decisions:
+- Fast-track eligibility: deg 5 < 15 confirmed.
+- Front-matter preserved; The many become one original wikilink preserved; P096/P092 Cited-in wikilinks preserved; trailing concrescence-of-the-present block preserved.
+- Related concepts: Participate in the world's becoming, The whole in the part (both existing originals per neighbors).
+- Process and Reality book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
