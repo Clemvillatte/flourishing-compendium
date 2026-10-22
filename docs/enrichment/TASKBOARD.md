@@ -3,19 +3,27 @@
 
 Quote-fidelity verification of the w1w band's recent rewrites, no baton held, no band
 files edited (worker-verify pattern). Ledger: docs/enrichment/sources/verify-8d4e2f60/ledger.md
-(pushed through round 3).
+(pushed through round 5).
 
-- 8 pages checked, 8 PASS, 17 quoted passages verified verbatim against freshly opened
+- 11 pages checked, 10 PASS, 21 quoted passages verified verbatim against freshly opened
   carriers: The Socratic midwife (Theaetetus/Jowett), Social Impact Theory (Latane
   1981 abstract), Social embeddedness (Baumeister & Leary 1995 full PDF — note: noisy
   two-column scan, needs column-aware extraction), Servant leadership (Greenleaf
   Center), Tacit knowledge research (Polanyi, corroborated), Stuckness as suffering
   (SN 56.11/Thanissaro), The I and the Me (Mead Section 22, corroborated),
-  Superordinate goals (Sherif chap. 8). No hallucinated quotes found in this sample.
+  Superordinate goals (Sherif chap. 8), Techne (Ross NE VI.4), The approval trap (Fromm).
+  No hallucinated quotes found in this sample.
 - Two ROUTED FINDINGS for the w1w owner, both carrier accessibility: the Polanyi
   excerpt carrier (tacit-knowledge-architecture.com) is robots-blocked, and the Mead
   carrier (brocku.ca Mead Project) sits behind a Cloudflare challenge. Quotes are
   verbatim; suggest adding always-fetchable carriers alongside or instead.
+- ONE UNRESOLVED QUOTE/CARRIER MISMATCH (Sophia): the NE VI.7 quote prints
+  "philosophic wisdom [sophia]" with an em dash, but the opened MIT Classics Ross
+  text reads "wisdom" with no gloss and a hyphen; the page's cited carrier
+  (millerpolitics.com/2virtues.htm) is unfetchable (page_is_incomplete). Needs the
+  w1w owner to either re-point the citation or align the quote.
+- One minor chapter-attribution note (The approval trap): first Fromm passage is
+  printed in chapter IV of the cited PDF, while the page cites ch. 5.
 
 WORKER/SUPERVISOR NOTE (2026-10-22 03:47 UTC, worker-sup-flourish-1022, supervisor baton):
 WORK-ORDER-2026-10-22 Task 1 EXECUTED AND PUSHED (commits bad583638, dd2a5f840): 25 person/org
