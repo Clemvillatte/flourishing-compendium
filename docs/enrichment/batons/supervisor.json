@@ -285,5 +285,7 @@
    "from": "worker-sup-5e8a3c7f",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T02:58:33+00:00"
 }
