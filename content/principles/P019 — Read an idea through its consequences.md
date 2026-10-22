@@ -15,21 +15,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 Peirce gives the rule in "How to Make Our Ideas Clear" (1878), as the way to reach what he calls the third grade of clearness:
 
 > "Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
-> — C. S. Peirce, "How to Make Our Ideas Clear," Popular Science Monthly 12 (Jan. 1878), §II
+> — C. S. Peirce, "How to Make Our Ideas Clear," Popular Science Monthly 12 (Jan. 1878), §II ([text at peirce.org](https://www.peirce.org/writings/p119.html))
 
 ### What the rule does
 
-The first grade is mere familiarity, which Peirce says "only amounts to a subjective feeling of mastery which may be entirely mistaken". The second is a definition. The third asks what difference the idea could make to experience. His example is hardness: "There is absolutely no difference between a hard thing and a soft thing so long as they are not brought to the test."
+The first grade is mere familiarity, which Peirce says "only amounts to a subjective feeling of mastery which may be entirely mistaken". The second is a definition. The third asks what difference the idea could make to experience. His example, in section III, is hardness: "There is absolutely no difference between a hard thing and a soft thing so long as they are not brought to the test."
 
 ### Where the compendium goes further
 
 The principle says to spell out what you would "feel differently". Peirce is stricter. He says that if we think we have any idea beyond the thing's conceived sensible effects, "we deceive ourselves, and mistake a mere sensation accompanying the thought for a part of the thought itself." The test is about conceivable effects, not about how the idea feels.
 
-(Peirce, "How to Make Our Ideas Clear," 1878, §II.)
+(Peirce, "How to Make Our Ideas Clear," 1878, §§I-III; [peirce.org](https://www.peirce.org/writings/p119.html).)
 
 **Plain words** If two ideas would never lead to any difference in what you could do or find, they are not really different ideas. Peirce's test is a way to catch a word that feels clear because it is familiar. Ask what its effects would be, and if you cannot name any, you have a feeling of understanding and not much more.
 
 *For example:* Someone says "I believe in sustainability". Ask what it would change on Monday. If nothing at all, then by Peirce's standard the phrase has not yet been given content.
+
+## Sources
+
+- C. S. Peirce, "How to Make Our Ideas Clear", *Popular Science Monthly* 12 (January 1878), 286-302: [peirce.org](https://www.peirce.org/writings/p119.html)
 
 ## Stories
 
