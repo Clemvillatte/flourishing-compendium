@@ -18,3 +18,7 @@ The instrument of that act is what Hadot calls spiritual exercises: "The object 
 ## Sources
 
 - Hadot, P. (1995). Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault, A. I. Davidson, ed., M. Chase, trans. ([online full text](https://vdoc.pub/documents/philosophy-as-a-way-of-life-spiritual-exercises-from-socrates-to-foucault-5e96amgvfim0))
+
+## Cited in philosophy parallels
+
+- [[D166 — The farther out you go, the less you know]]
