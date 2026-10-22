@@ -7,7 +7,7 @@ file: "Risk literacy"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-Risk literacy is Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions. His account puts most of the failure in how the numbers reach people rather than inside their heads: "the problem is not simply internal but lies in the external representation of information" ([Gigerenzer, The Art of Risk Communication](https://www.gerd-gigerenzer.com/the-art-of-risk-communication)). Relative risks, conditional probabilities and single-event probabilities cloud minds; absolute risks and natural frequencies foster insight.
+Risk literacy is Gigerenzer's name for the ability to understand and evaluate risk well enough to make informed decisions. On his account, the numbers people actually receive bear most of the blame: the problem "lies in the external representation of information" ([Gigerenzer, The Art of Risk Communication](https://www.gerd-gigerenzer.com/the-art-of-risk-communication)). Relative risks, conditional probabilities and single-event probabilities cloud minds; absolute risks and natural frequencies foster insight.
 
 The stakes he attaches to it are civic, not merely personal:
 
