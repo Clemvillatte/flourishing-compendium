@@ -81,3 +81,37 @@ Archive full-text copy) alongside or instead of the blocked one.
 ## Round 1 totals
 5 pages checked, 5 PASS at quote level (12 quoted passages total), 1 routed
 finding (Polanyi carrier accessibility), 0 hallucination found.
+
+## Round 2 — w1w (2026-10-22 ~04:00-04:07Z)
+
+### Stuckness as suffering — PASS (formulas verbatim)
+Carrier opened: Thanissaro Bhikkhu's translation of SN 56.11 (Dhammacakkappavattana
+Sutta) at the IBC e-library mirror cited on the page
+(https://ibc-elibrary.thanhsiang.org/files/accesstoinsight/html/tipitaka/sn/sn56/sn56.011.than.html,
+fetched 2026-10-22 ~04:00Z). The Second Noble Truth formula ("the craving that makes
+for further becoming — accompanied by passion & delight, relishing now here & now
+there — i.e., craving for sensual pleasure, craving for becoming, craving for
+non-becoming") and the cessation formula ("the remainderless fading & cessation,
+renunciation, relinquishment, release, & letting go of that very craving") are
+verbatim as printed, including the page's inline fragments.
+
+### The I and the Me — PASS (2/2 verbatim), one ROUTED FINDING
+Quote text: "The 'I' both calls out the 'me' and responds to it. Taken together
+they constitute a personality as it appears in social experience." and "The 'I'
+reacts to the self which arises through the taking of the attitudes of others."
+Both are verbatim text of Mead, Mind, Self and Society (1934), Section 22 / pp.
+174, 178, as printed by the cited Mead Project source page (content retrieved via
+search 2026-10-22 ~04:06Z, URL brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_22.html)
+and corroborated word-for-word by multiple opened sources: a Wiley Systems Research
+article quoting Mead 1934 p. 178 (onlinelibrary.wiley.com/doi/full/10.1002/sres.3211),
+the DUTH course PDF of Section 22 (eclass.duth.gr), and Wikipedia's 'I' and the
+'me' entry quoting p. 174.
+ROUTED FINDING for the w1w owner / supervisor: the cited carrier (brocku.ca Mead
+Project) sits behind a Cloudflare browser challenge — automated verification and
+future link-checking will fail against it (fetch tool: disallow_by_robots; curl
+returned a challenge shell). Suggest adding an accessible carrier for the same
+Section 22 text (e.g. the DUTH PDF or the archive.org Mind Self and Society copy).
+
+## Round 2 totals
+2 pages checked, 2 PASS (2 routed findings on carrier accessibility, 0 quote
+fidelity failures).
