@@ -153,7 +153,7 @@ A library of guided sessions, one shelf per family. The standard for inclusion: 
 | [Self-Compassion Break](https://www.youtube.com/watch?v=p7z3ybkn9DU) | Kristin Neff | 5:23 |
 | [Loving Kindness Meditation](https://d1cy5zxxhbcbkk.cloudfront.net/guided-meditations/05_Loving_Kindness_Meditation.mp3) | Diana Winston, UCLA Mindful | 9 min |
 | [Compassion Meditation](https://ggia.berkeley.edu/practice/compassion_meditation) | Eve Ekman, Greater Good Science Center | 10 min |
-| [Lovingkindness Meditation](https://palousemindfulness.com/disks/lovingkindness.mp3) | Palouse Mindfulness | 13 min |
+| [Lovingkindness Meditation](https://palousemindfulness.com/disks/lovingkindness.mp3) | Dave Potter, Palouse Mindfulness | 13 min |
 | [Embodied Metta](https://www.tarabrach.com/meditation-embodied-metta-2/) | Tara Brach | 20:06 |
 | [Guided Metta](https://www.audiodharma.org/talks/44) | Gil Fronsdal, AudioDharma | 28:04 |
 | [Guided Metta Meditation](https://www.dharmaseed.org/talks/1331) | Joseph Goldstein, Dharma Seed | 38:21 |

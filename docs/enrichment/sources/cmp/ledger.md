@@ -262,3 +262,36 @@ content, out of scope). Playwright: 55 cards render, all 8 new sessions
 present, no broken images after full lazy-load scroll, shelf select
 filters work (Walking -> 6 cards), card click opens the correct URL
 (new tab), zero page errors.
+
+## 2026-10-22 (UTC): CMP release-blocker resolution
+
+Two blockers from the gallery-enrichment checkpoint, resolved:
+
+1. Palouse LKM guide verified. The Palouse LKM page links the
+   Insight Timer profile https://insighttimer.com/palousemindfulness;
+   the track page
+   https://insighttimer.com/palousemindfulness/guided-meditations/mbsr-lovingkindness-meditation
+   credits "MBSR Lovingkindness Meditation" to Dave Potter
+   (Palouse Mindfulness) with a printed duration of 13:17, matching
+   the ffprobe duration of the linked mp3 (797.09 s), and publishes
+   a full transcript whose text matches the recording's vosk
+   transcript (opening and closing both verbatim-equal). The profile
+   bio states Dave Potter is a fully certified MBSR instructor
+   trained through the University of Massachusetts Medical School,
+   where Jon Kabat-Zinn founded the Center for Mindfulness. The
+   CMP1 row attribution changed from "Palouse Mindfulness" to
+   "Dave Potter, Palouse Mindfulness"; app.js deg-cmp entry updated
+   to match (guide "Dave Potter", host "Palouse Mindfulness").
+   Evidence: it-lkm.html, it-profile.html (saved), full-palouse-lk.txt.
+2. Full-recording classification completed for all six sampled
+   recordings. All six re-downloaded and fully transcribed with vosk
+   (small en-us 0.15 model, complete files, no time limit); exact
+   commands in evidence/README.md. Full transcripts preserved as
+   evidence/full-*.txt. Classifications from the full transcripts:
+   all six are continuous guided practice (guidance from the opening
+   posture setup through the close), not talks containing practice.
+
+Evidence pages saved live: it-lkm.html, it-profile.html (Insight
+Timer, browser UA). tb30 mp3 re-downloaded from the libsyn URL
+printed in the saved source page (the earlier direct guess failed;
+see README).
