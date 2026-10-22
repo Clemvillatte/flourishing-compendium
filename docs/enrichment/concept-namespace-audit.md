@@ -458,3 +458,14 @@ The having mode; Beginner's mind; Premeditatio malorum; Awe; Flow.
   [[Ego integrity (Erikson)]] covers the crisis side), so the item was enriched and marked done.
   Owner may still prefer a rename to "Erikson's wisdom" or a merge; evidence trail in
   docs/enrichment/sources/w1ad/Socioemotional wisdom.md.
+
+- **Skepticism about the obvious** (2026-10-22, worker-w1ad-pplx-b7c41f2e, w1ad):
+  term-existence flag (advisor milestone round 2, items 6-10). The opened SEP Ancient
+  Skepticism entry defines Pyrrhonist skepticism, the Ten Modes, and the formulae; it does
+  not define a distinct concept "skepticism about the obvious". The page was enriched at the
+  fast-track bar with verbatim quotes (raw-text verified), then HELD OUT OF DONE pending
+  disposition. Options for the owner: (a) keep as the compendium's heading for the Pyrrhonist
+  testing of what appears evident (with the on-page scope note), (b) rename to a
+  source-defined carrier (e.g. "Pyrrhonist suspension of judgment"), or (c) fold into
+  [[The ten modes]] / [[Doubt as method]]. Evidence trail:
+  docs/enrichment/sources/w1ad/Skepticism about the obvious.md.

@@ -13,11 +13,11 @@ Skepticism about the obvious is the Pyrrhonist practice Sextus Empiricus describ
 
 ### Why the obvious is not exempt
 
-The modes work on exactly the cases that feel obvious. Honey is the entry's example: the question is whether honey "really is sweet" (PH 1.19), and such cases are ones where "we do not have access to the properties they really have" ([entry](https://plato.stanford.edu/entries/skepticism-ancient/)). The reason the dispute cannot be settled from inside is structural: "Everyone is a party to the dispute, and there is no 'view from nowhere.'" The skeptic therefore reports appearances without affirming natures, and the skeptical formulae ("In no way more", "I determine nothing") are uttered "without any belief (adoxastôs), affirming nothing about external objects" (PH 1.15, quoted in the [entry](https://plato.stanford.edu/entries/skepticism-ancient/)).
+The modes work on exactly the cases that feel obvious. Honey is the entry's example: the question is whether honey "really is sweet" (PH 1.19), and such cases are ones where "we do not have access to the properties they really have" ([entry](https://plato.stanford.edu/entries/skepticism-ancient/)). The reason the dispute cannot be settled from inside is structural: "Everyone is a party to the dispute, and there is no 'view from nowhere.'" The skeptic therefore reports appearances without affirming natures, and the skeptical formulae ("In no way more", "I determine nothing") are uttered "without any belief (adoxastôs), affirming nothing about external objects" (PH 1.14-15, quoted in the [entry](https://plato.stanford.edu/entries/skepticism-ancient/)).
 
 ### In the compendium
 
-- [[Y017 — Catch distortion early]] — the principle that cites this practice as its philosophy parallel: Patanjali's unsound intellection begins in a faulty perception, and the Pyrrhonist habit of testing the obvious is one disciplined way to catch it
+- [[Y017 — Catch distortion early]] — the principle that lists this page among its philosophy parallels, beside Patanjali's account of unsound intellection
 
 ## Related concepts
 
