@@ -357,3 +357,12 @@ Round 33: 4 pages, 7 quoted passages verified, no defects.
 4. **The empty hub of the wheel** — the Daodejing 11 rendering VERIFIED verbatim via the opened wudang.org page. PASS.
 
 Round 34: 4 pages, 6 quoted passages verified, 1 defect repaired.
+
+## Round 35
+
+1. **The eternal now** — both Boethius passages VERIFIED verbatim via the opened SEP eternity entry. PASS.
+2. **The ethical** — the Either/Or "act of choosing" passage VERIFIED verbatim via the opened PhilArchive paper. Two ROUTED items: (a) the "aesthetical in man" passage prints "becomes what he becomes" while the carrier prints "become" — which printing is authoritative needs a supervisor check against the Hong translation; (b) the "I choose absolutely" passage was not located in the cited carrier (possible extraction miss on a large PDF). PARTIAL.
+3. **The examined economics** — both passages VERIFIED: the Apology 38a rendering VERbatim via the opened askaphilosopher page (found on a looser re-fetch after an extraction miss; the carrier's own doubled "the the" is the carrier's typo, correctly cleaned on the page); the thirty-minae passage VERIFIED via the opened wordsmith thread. PASS.
+4. **The four views** — all three Diamond Sutra renderings VERIFIED via the opened BL blog page, the nyx.net text, and the Sunnyvale translation PDF. PASS.
+
+Round 35: 4 pages, 8 quoted passages verified, no defects; 2 routed items on The ethical.
