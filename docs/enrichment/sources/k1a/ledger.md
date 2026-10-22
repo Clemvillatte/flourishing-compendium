@@ -146,3 +146,13 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - What the evidence does not test is stated on the page: the theory concerns organizations and organizational performance; the personal extension is editorial.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K193 — Weekly habit review (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: Gardner, Lally & Wardle 2012 (BJGP 62(605):664-666, PMC3505409) and Lally et al. 2010 (EJSP 40(6):998-1009, Crossref publisher-deposited abstract, verified like the Hede abstract earlier via the Crossref API raw JSON).
+- The Gardner/Lally quotes (the core advice sentence "repeat a chosen behaviour in the same context, until it becomes automatic and effortless"; the learning-phase ticksheet sentence; the Box 1 weekly rating "You can rate how automatic it feels at the end of each week, to watch it getting easier") were obtained via the fetch tool's extraction on the PMC page; the Europe PMC full-text API returned a 500 and PMC raw HTML is curl-blocked, so these quotes rest on the extraction fetch plus the consistent search-indexed raw text of the same article, disclosed here as with K236. The weekly cadence of this kernel's step 2 is anchored on the Box 1 instruction, not invented.
+- The Lally 2010 blockquote is verified against the Crossref raw abstract JSON (asymptotic curve sentence, 18-254 days, missing-one-opportunity sentence). The 66-day median is deliberately NOT quoted on the page: it appears in the paper's body (and secondary sources) but not in the Crossref abstract, and the search snippets quoting it were not opened as raw text of the paper; recorded for the supervisor.
+- Protocol steps 1-3 map onto the opened guidance (ticksheet self-monitoring, weekly automaticity rating, cue salience); step 4's "adjust the design, not the willpower" is labelled as the seed's phrasing, the compendium's own.
+- What the evidence does not test is stated on the page: the Lally study observed self-chosen behaviors with no review practice; the review itself is untested.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed (after fixing a bracket typo in the BJGP citation; volume/issue/pages confirmed via Europe PMC metadata).
