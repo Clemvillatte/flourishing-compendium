@@ -100,3 +100,15 @@ Advisor round-2 repairs applied to all five items. Anger still carries one open 
 ### Anger Related-list trim (advisor round-2 follow-up)
 
 Removed 4 duplicated principle rows (D074/K040/SP030/SP031 already carried as [[ID]] wikilinks in Related and as full titles in In the compendium; the duplicate [[D074]] etc rows were the redundant ones). Restored the 4 bare [[ID]] wikilinks the validator protects. De-Ira italics removed.
+
+### Bayesian brain (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/cognitive-science/ — SEP Thagard entry. Verbatim: Bayesian-approach paragraph, predictive-processing definition, active-inference free-energy sentence, and the recorded challenges.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Book citations (Knill & Richards 1996; Hohwy 2013) carried from the seed; marked not independently opened this session (no fabricated URLs attached).
+- Front-matter preserved; CO001 and V1K Reference wikilinks preserved.
+- Related concepts added (Free Energy Principle, The prior probability of the world, Predictive processing, Context effects in perception, Embodied perception — all resolve).
+- No reciprocal proposals (fast-track bar).
