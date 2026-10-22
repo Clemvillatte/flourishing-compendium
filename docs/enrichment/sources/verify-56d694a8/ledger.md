@@ -279,3 +279,12 @@ Round 24: 4 pages, 6 quoted passages verified, no defects.
 4. **Non-contention** — both Legge Daodejing quotes (ch. 8; ch. 68) VERIFIED verbatim against the opened Gutenberg 216 text (line-wrapped in the plain text; wording identical). PASS.
 
 Round 25: 4 pages, 7 quoted passages verified, no defects.
+
+## Round 26
+
+1. **Object relations theory** — all four quoted passages VERIFIED verbatim: the Sutherland abstract line via the opened PubMed record; both Mitchell contrasts via the opened W.A. White PDF; the Gomez "loyalty to her internal objects" line via the opened TCF PDF. PASS.
+2. **Observational learning** — both Bandura 1961 passages VERIFIED verbatim via the opened psychclassics page. PASS.
+3. **Original enlightenment** — the Stone passage VERIFIED verbatim via the opened PDF; both Platform Sutra renderings VERIFIED via the opened Wikipedia page. PASS.
+4. **Outcome forecasting** — both Wilson & Gilbert 2003 passages VERIFIED verbatim via the opened PDF. PASS.
+
+Round 26: 4 pages, 9 quoted passages verified, no defects.
