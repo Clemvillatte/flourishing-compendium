@@ -13,14 +13,11 @@ The page title is the wiki's label. The research it points to is the self-transc
 
 Four studies with over 2,000 adolescents and young adults tied this motive to persistence and self-regulation: "Those with more of a purpose for learning also persisted longer on a boring task rather than giving in to a tempting alternative and, many months later, were less likely to drop out of college" (same article, abstract). More self-oriented motives, such as wanting an enjoyable career, "did not, on their own, consistently produce these benefits".
 
-The seed's phrase "effects on well-being" is the wiki's frame; the opened source reports persistence, self-regulation and grade-point-average effects, and leaves well-being outcomes to other research lines.
-
-In the compendium, Y129 and Y039 use the concept for the yoga reading of practice whose fruits are dedicated beyond the self.
+The research line this page describes reports persistence, self-regulation and grade-point-average effects; well-being outcomes belong to other research lines. In the compendium, Y129 uses the concept for the yoga reading of practice whose fruits are dedicated beyond the self.
 
 ## Sources
 
 - [Yeager, D. S. et al. (2014), Boring but Important: A Self-Transcendent Purpose for Learning Fosters Academic Self-Regulation, JPSP 107(4), 559-580 (author-hosted PDF)](https://web.stanford.edu/~paunesku/articles/yeager_2014.pdf) — the definition of self-transcendent purpose for learning and its persistence and self-regulation findings
-- the series' meaning kernels (original seed line)
 
 ## Cited in psychology parallels
 

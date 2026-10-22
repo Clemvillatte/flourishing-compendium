@@ -1,9 +1,27 @@
 {
   "batch": "w1v",
   "reciprocal": [
-    {"into": "Wu wei", "link": "Non-contention", "why": "the Daodejing's refusal to wrangle for position is one of the concrete shapes wu wei takes"}
+    {
+      "into": "Wu wei",
+      "link": "Non-contention",
+      "why": "the Daodejing's refusal to wrangle for position is one of the concrete shapes wu wei takes"
+    },
+    {
+      "into": "Reciprocity",
+      "link": "Reciprocity norm theory Gouldner",
+      "why": "the theory is the classic formal statement of the reciprocity idea this page covers"
+    },
+    {
+      "into": "Social exchange theory",
+      "link": "Reciprocity norm theory Gouldner",
+      "why": "Gouldner's moral norm is what backs the pattern of mutually contingent giving that exchange theory describes"
+    }
   ],
   "inline": [
-    {"into": "D012 — Model yourself on water", "concept": "Non-contention", "phrase": "the text's account of non-contention"}
+    {
+      "into": "D012 — Model yourself on water",
+      "concept": "Non-contention",
+      "phrase": "the text's account of non-contention"
+    }
   ]
 }

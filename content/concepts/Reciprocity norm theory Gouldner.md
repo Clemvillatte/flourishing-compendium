@@ -40,6 +40,5 @@ Sociocultural · Psychological science
 ## Sources
 
 - [Gouldner, A. W. (1960), The Norm of Reciprocity: A Preliminary Statement, American Sociological Review 25(2), 161-178 (scanned article, Karl Polanyi archive)](http://kpolanyi.scoolaid.net:8080/xmlui/handle/10694/347) — all quotations, OCR'd from the scan and cross-checked against other carriers
-- Gouldner — the reciprocity norm is universal: repay help and harm, and expect others to (original seed line)
 
 ## Cited in philosophy parallels

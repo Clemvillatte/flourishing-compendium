@@ -7,7 +7,7 @@ file: "Rationality research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-R"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter R", "parent": ""}
 ---
-The seed's "Stanovich, 2011" names Keith Stanovich's research program on rational thinking, summarised in his book Rationality and the Reflective Mind (Oxford University Press). The program's core result is a separation: intelligence and rationality come apart, so a person can be smart and still think badly.
+Keith Stanovich's research program on rational thinking, summarised in his book Rationality and the Reflective Mind (Oxford University Press). The program's core result is a separation: intelligence and rationality come apart, so a person can be smart and still think badly.
 
 > "the book shows how, when both are properly defined, rationality is a more encompassing construct than intelligence, and that IQ tests fail to assess individual differences in rational thought" (Stanovich, Rationality and the Reflective Mind, [Oxford Academic book page](https://academic.oup.com/book/5930))
 
