@@ -202,8 +202,16 @@ research); all other sampled items PASS.
     less-is-more abstract fragment, the variance/bias sentence, the take-the-best
     definition, and the three building blocks. No hallucinated quotes.
 
+## Round 15 (11:34Z) — Outcome forecasting (w1s, commit c157145af)
+
+22. **Outcome forecasting (w1s)** — 2 quoted passages checked, 2 PASS against a
+    fresh fetch of the Wilson & Gilbert 2003 chapter PDF (UC Berkeley Greater
+    Good): the four-components sentence and the impact-bias definition. The
+    focalism and repair-mechanism paragraphs are unquoted paraphrases. No
+    hallucinated quotes.
+
 ## Summary
 
-21 items checked, 18 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+22 items checked, 19 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-one items after repair.
+quotation-faithful at a 100% sample of its first twenty-two items after repair.
