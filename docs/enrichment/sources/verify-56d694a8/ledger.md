@@ -129,3 +129,12 @@ Round 9: 3 pages, 5 quoted passages verified, no defects.
 4. **Theory of mind** — Premack & Woodruff quote VERIFIED verbatim via the opened Tanaka 2015 PMC article; the 85%/86%/20% sentence VERIFIED verbatim via the opened IEP page. PASS.
 
 Round 10: 4 pages, 6 quoted passages verified, 3 defects repaired.
+
+## Round 11 — morning sample continued
+
+1. **The overman (Übermensch)** — both Zarathustra Prologue quotes (§3 and §4, Common translation) VERIFIED verbatim via the opened Gutenberg text (the source prints the §3 opening as a small-caps heading; the page's sentence-case rendering is a typographic normalization, words identical). PASS.
+2. **The quiet ego** — both Wayment et al. quotes VERIFIED verbatim via the opened Springer article. PASS.
+3. **The power paradox** — Keltner HBR sentence VERIFIED verbatim. PASS.
+4. **The politics of recognition** — the Taylor misrecognition sentence VERIFIED verbatim via the opened IEP page. PASS.
+
+Round 11: 4 pages, 7 quoted passages verified, no defects.
