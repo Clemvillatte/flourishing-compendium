@@ -44,6 +44,7 @@ The seed also cites Schueller, 2014 under "positive psychology portfolio". That 
 - [[Gratitude]] — one of the ten emotions with its own portfolio
 - [[Emodiversity theory]] — the case for a range of emotions, not one
 - [[Positivity offset]] — the finding that mild positive affect is present even in neutral conditions, which sets the baseline the portfolio tries to lift
+- [[Positive psychology]] — the field this research belongs to
 
 ## Sources
 

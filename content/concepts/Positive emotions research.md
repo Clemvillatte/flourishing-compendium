@@ -28,6 +28,7 @@ Principles linked below, including AF064 (Cultivate awe), AT011 (open and closed
 - [[Broaden-and-build]] — the theory itself, listed for comparison
 - [[Resilience]] — listed for comparison
 - [[Fredrickson's positivity portfolios]] — listed for comparison
+- [[Positive psychology]] — the field this research belongs to
 
 ## Sources
 

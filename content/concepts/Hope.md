@@ -65,6 +65,7 @@ R087 practises hope as a disposition and R125 applies it to the ecological futur
 - [[Courage]] — one of the four cardinal virtues: acting well in the face of fear
 - [[Y064]] — the Yoga chain begins where Snyder's theory begins: an approval of the practice that fuels goal-directed energy and holds the goal in memory
 - [[AF067]] — Snyder's agency-plus-pathways definition of hope, applied as a practice
+- [[Positive psychology]] — the field this research belongs to
 ## Cited in philosophy parallels
 
 - [[R087 — Practise hope]]

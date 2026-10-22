@@ -34,6 +34,7 @@ Illustrative scenario, not a reported study result: a couple takes their first d
 
 - [[Broaden-and-build]] — comparison: another growth-oriented model in positive psychology
 - [[Novelty research]] — comparison: the study of what novel, exciting activities do
+- [[Positive psychology]] — the field this research belongs to
 
 ## Facets
 

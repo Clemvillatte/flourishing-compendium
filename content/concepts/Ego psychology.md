@@ -35,6 +35,7 @@ The Wikipedia account adds that Hartmann "recognized, however, that conflicts we
 - [[Psychoanalysis]] — the broader tradition that ego psychology belongs to
 - [[Identity development]] — a nearby topic in developmental psychology
 - [[Individuation]] — a nearby topic in the principles that cite this page
+- [[Ego development]] — Loevinger's account of stages the self moves through
 
 ## Sources
 
