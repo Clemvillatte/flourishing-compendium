@@ -640,3 +640,8 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   (random finished-band draw, w1p) — the Parducci basic-notion quote checked against
   the opened Europe PMC full text (PMC3216058): verbatim. Sample PASS. Forty-two
   samples this session, all PASS.
+- Supervisor verification sample 43 (2026-10-22 ~16:41 UTC): Problem-solving therapy
+  (random finished-band draw, w1p) — the Krause et al. 2021 problem-solving
+  definition quote (with its nested self-directed-process citation) checked against
+  the opened Europe PMC full text (PMC8383463): verbatim (curly-quote
+  normalization only). Sample PASS. Forty-three samples this session, all PASS.
