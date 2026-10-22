@@ -648,3 +648,5 @@ Session summary: 34 fast-track concept items enriched and pushed in this run (Tw
 QC repairs this session: Amor dei intellectualis and Blessedness — seed's "Blessedness is virtue itself, not its reward" quote NOT found in cited SEP Spinoza article (checked); replaced with verbatim SEP material; owner may wish to restore Ethics VP42 from an opened primary carrier. Earlier QC batch (commit 69654f6d4): Vigilance theory identity mismatch, quote-fidelity fixes on 6 pages.
 
 Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothingness, Affective chronometry, Affects, Analytic vs holistic cognition, Antidotes to afflictions, Arousal reinterpretation, Biglan et al, and any newly queued.
+
+- **Abgeschiedenheit** (concept, fast-track §1a) — verified against the SEP Meister Eckhart entry, the Dysinger translation of *Von Abgeschiedenheit* (DW V:400-436), the Yale Walshe translation, and the Cambridge German-English dictionary; verbatim blockquotes drawn only from opened pages. Flag: none.
