@@ -107,8 +107,8 @@ The owner's definition of Stories also admits experiential narrative objects. Th
 
 - Existing ST IDs are duplicate checks, not claims that their present sources, prose or backlinks have been revalidated.
 - Only a ready draft with its own evidence and full coverage matrix should enter story_register.py. Do not generate a story from an unresearched table row.
-- Gillanders' author page expressly permits using and copying clinical handouts subject to a non-profit condition. Confirm that the intended website and essay use meets it; the present drafts do not claim a commercial-reuse license.
-- Appendix K records permissions granted for this book. It is not a blanket downstream license for the compendium.
+- Gillanders' author page expressly permits using and copying clinical handouts subject to a non-profit condition. Confirm that the intended website and essay use meets it; the present drafts do not claim a commercial-reuse license ([author's conditions](https://contextualscience.org/david_gillanders_training_page)).
+- Appendix K records permissions granted for this book. It is not a blanket downstream license for the compendium ([book, Appendix K](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf)).
 - A complete set of substantive retellings could become a substitute for the collection. Use the register as a reading and routing aid; obtain appropriate permission before systematic reproduction or adaptation of the full work.
 
 ## Evidence quality correction

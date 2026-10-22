@@ -59,3 +59,9 @@ The present batch uses short accounts, short verified quotations and original co
 All changes are confined to `docs/enrichment/drafts/s1b/` and the authorised s1b baton. Native Git transport could not authenticate with the API-scoped secure credential, so a temporary helper outside the repository used `gh api`, non-force ref updates and path-level verification. It preserves concurrent work, rejects concurrent changes to the same lane paths, and verifies every written blob against `origin/main` before reconciling the local checkout.
 
 The final chat report supplies the final verified commit hash. This document deliberately does not embed its own future commit hash.
+
+## Final verification
+
+All fourteen items are ready in both YAML and lane state, and all fourteen draft-context validators pass. Every linked principle resolves to an existing file. Reader-facing prose was checked for operational leakage; the only session match is the legitimate locator for the source article's second treatment session, not a note about this worker.
+
+The general supervisor baton became released during the final audit. The stories protocol expressly forbids crossing from storyteller to supervisor on that basis, so registration and backlinks remain a supervisor handoff rather than an unapproved role switch.

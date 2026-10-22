@@ -5,10 +5,10 @@
 The current owner request explicitly expands this lane to narrative objects from The Big Book of ACT Metaphors. New local IDs are s1b-013 through s1b-026. Do not confuse them with the twelve earlier lane items described below.
 
 - Source/coverage register: `ACT-COVERAGE.md`, 38 main-index metaphor names and 37 Appendix J rows, 66 unique names after normalization. These are metadata and proposed routes, not 66 completed stories.
-- Narrative drafts: `s1b-013.md` through `s1b-026.md`. Check each item's current `state.json` status and YAML before registration; final-batch advisor corrections may still be in progress.
+- Narrative drafts: `s1b-013.md` through `s1b-026.md`. All fourteen completed independent review and requested corrections; each is ready in lane state and YAML at the final audit.
 - Independent source/QC reviews cover the first item, fifth item, tenth item, and contributor batches. Findings and source-quality limitations are summarized in `ACT-HANDOFF.md`.
 - Owner-facing priority is registration plus bidirectional links. This worker has not edited `content/stories`, principle files, global progress, proposal queues or any other lane.
-- Preserve source-version distinctions, short quotations and clearly labeled editorial applications. Gillanders permits use/copying subject to a non-profit condition; confirm intended-use compatibility rather than treating this as blanket commercial permission.
+- Preserve source-version distinctions, short quotations and clearly labeled editorial applications. Gillanders permits use/copying subject to a non-profit condition; confirm intended-use compatibility rather than treating this as blanket commercial permission ([author's conditions](https://contextualscience.org/david_gillanders_training_page)).
 
 The supervisor should consider these owner-priority ACT objects before reviving the earlier optional backlog below.
 
