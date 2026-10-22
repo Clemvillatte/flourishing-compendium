@@ -424,3 +424,15 @@ Decisions:
 - Front-matter preserved; P009/CO008 Cited-in wikilinks preserved; Piaget/Bruner seed citations and the trailing philosophy-parallels block (Piaget 1954, Bruner 1966, CO008) preserved.
 - Related concepts: Situated learning theory, Social constructivist theory (both existing originals per neighbors).
 - No reciprocal proposals (fast-track bar).
+
+### Consummation (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/dewey-aesthetics/ — Leddy & Puolakka, SEP Dewey's Aesthetics. Two sentences fetched verbatim: the an-experience consummation sentence (with AE: 43 locator); the aesthetic-experience close sentence.
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Front-matter preserved; P110/P179 Cited-in wikilinks preserved.
+- Initial Related pick "An experience" did not resolve (not a wiki file); replaced with [[Art as experience]] (existing concept, deg 9) after enrich_find failed on the first pick. Validator caught it; re-validated ok.
+- Dewey, Art as Experience kept as a book citation without URL (primary book not independently opened; the SEP entry is the opened source and carries the AE: 43 locator).
+- No reciprocal proposals (fast-track bar).
