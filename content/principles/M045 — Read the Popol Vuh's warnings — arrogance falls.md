@@ -20,9 +20,13 @@ The narrator's verdict on him is that he "puffed himself up" because of his plum
 
 (Popol Vuh, Christenson translation, printed pp. 70, 77-78, 183-186.)
 
-**Plain words** After a success, separate what you contributed from what you are claiming credit for. Name the people and circumstances you relied on. The compendium uses these episodes as a prompt for that examination.
+### Plain words
 
-*For example (imagined):* Before giving an award speech, a founder adds the colleagues who developed the product to her acknowledgements.
+The Popol Vuh shows two ways of getting it wrong: forgetting where you came from, and putting yourself above everyone else. Seven Macaw announces that he is the sun and moon of the people below him. The book treats that boast as the mistake. So after a win, take a moment to ask who helped and what luck was on your side, and say so out loud.
+
+### For example
+
+A founder is about to give an award speech. She writes down the people who built the product with her and makes sure their names are in it. This one is imagined.
 
 ## Sources
 

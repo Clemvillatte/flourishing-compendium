@@ -20,10 +20,13 @@ Kruger and Dunning suggest an explanation for overestimation in their 1999 abstr
 
 Across four studies involving humor, grammar and logic, low-scoring participants overestimated their standing. The abstract reports 12th-percentile performance and a 62nd-percentile self-estimate for the bottom-quartile participants. Improving participants' task skills also helped them recognize limitations in their abilities.
 
-**Plain words**
-Choose one specific skill rather than rating your overall competence. Write down what you think you can do, then compare that estimate with a result you can inspect. Use any discrepancy to decide what to investigate or practise next.
+### Plain words
 
-*For example:* Imagine predicting how many questions you will answer correctly, completing the task, and comparing your prediction with the result.
+Most of us rate ourselves by feel, and the feeling is least reliable where we are weakest. Kruger and Dunning found that people who scored lowest on a test thought they had done far better than they had. So skip the big question of how good you are overall. Pick one skill, guess how you will do, then check the result. The gap between the two is your next thing to practise.
+
+### For example
+
+Before a quiz or a work task, jot down "I will get about eight out of ten." Afterwards, compare. If you guessed eight and got five, you have learned something exact about where to study next. This one is imagined.
 
 ## Sources
 

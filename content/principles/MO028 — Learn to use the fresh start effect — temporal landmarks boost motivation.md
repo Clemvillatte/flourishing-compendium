@@ -18,9 +18,13 @@ Dai, Milkman and Riis documented the effect they named the fresh start effect ac
 
 Their proposed mechanism is that the landmarks "demarcate the passage of time, creating many new mental accounting periods each year, which relegate past imperfections to a previous period, induce people to take a big-picture view of their lives, and thus motivate aspirational behaviors" (PDF p. 3). These archival studies found increased goal-related activity following temporal landmarks; they do not establish lasting habit formation. The compendium's suggested use: a meaningful date can serve as a prompt when planning a start.
 
-**Plain words** When planning a start, use a meaningful date as a prompt: Monday, the first of the month, a birthday, the new year.
+### Plain words
 
-*For example (imagined):* Someone planning a return to running labels an upcoming Monday as a fresh start and schedules the first session.
+A new week, a new month or a birthday feels like a clean page. The studies found that people really do start more things around those dates. Nothing says the date does the work, so treat it as a handy nudge: if you were going to start something anyway, pick a date that feels like a beginning and put the first step in your calendar.
+
+### For example
+
+Say you have been meaning to start running again. Instead of "sometime soon", you mark the first Monday of next month, lay out your shoes on Sunday night and book a twenty-minute slot. The date gives you somewhere to start. The shoes by the door do the rest. This one is imagined.
 
 ## Sources
 
