@@ -10,7 +10,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 Attachment theory is John Bowlby's account of love bonds. Its core claim is that the bond between child and caregiver is organized by an inborn behavioral system whose business is protection, and that this system keeps running, in adult relationships as much as in childhood. The account below follows Shaver and Mikulincer's 2005 review of the theory and its research program.
 
-> "According to Bowlby (1982/1969), human beings are born with an innate psycho-biological system (the attachment behavioral system) that motivates them to seek proximity to significant others (attachment figures) in times of need. The set-goal of the system is the attainment of actual or perceived protection and security; hence, the system is automatically activated when a potential or actual threat to one's sense of security is appraised." ([Shaver and Mikulincer, 2005](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Shaver_2005_Attachment-theory-and-research.pdf))
+> "According to Bowlby (1982/1969), human beings are born with an innate psychobiological system (the attachment behavioral system) that motivates them to seek proximity to significant others (attachment figures) in times of need. The set-goal of the system is the attainment of actual or perceived protection and security; hence, the system is automatically activated when a potential or actual threat to one's sense of security is appraised." ([Shaver and Mikulincer, 2005](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Shaver_2005_Attachment-theory-and-research.pdf))
 
 ### Security
 

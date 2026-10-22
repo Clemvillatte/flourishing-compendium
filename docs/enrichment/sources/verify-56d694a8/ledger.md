@@ -465,3 +465,9 @@ Round 48: 1 page, 2 quoted passages verified, no defects.
 1. **Anapanasati (mindfulness of breathing)** — the MN 118 Thanissaro passage VERIFIED verbatim via the opened Access to Insight page. PASS.
 
 Round 49: 1 page, 1 quoted passage verified, no defects.
+
+## Round 50
+
+1. **Attachment theory** — 1 DEFECT REPAIRED: the Shaver & Mikulincer 2005 definition printed "psycho-biological" where the opened UC Davis PDF prints "psychobiological" — hyphen removed, validated ok. The second passage (attachment security) VERIFIED verbatim. PASS after repair.
+
+Round 50: 1 page, 2 quoted passages verified, 1 defect repaired.
