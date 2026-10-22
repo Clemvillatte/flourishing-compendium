@@ -99,13 +99,12 @@
   "Facial feedback",
   "Mood-congruent memory",
   "Doing and undergoing",
-  "Creative destruction",
   "Debiasing techniques",
   "Decision",
   "Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)"
  ],
- "in_progress": null,
- "updated": "2026-10-22T11:25:59+00:00",
+ "in_progress": "Creative destruction",
+ "updated": "2026-10-22T11:29:02+00:00",
  "band_done": false,
  "flagged": {
   "Feng shui (harmonious environment)": "Fast-track enrichment (prior-session WIP, completed by worker-sup-1022c-w1r 2026-10-22): Wikipedia quotes re-verified verbatim this session (wind-water, Form branch tombs-to-homes, luopan); ICOMOS Yuan Ding and New World Encyclopedia quotes stand on the prior worker's recorded verification of the opened carriers",
@@ -113,6 +112,10 @@
   "Competence": "QC-pending: state-only approval of prior-session enrichment; source-opening evidence not re-verified this session (quotes carry archive.org and selfdeterminationtheory.org carriers); next worker or supervisor please re-open carriers before certifying",
   "Flourishing scale": "QC-pending: state-only approval of prior-session enrichment; Huppert and So 2013 PMC carrier not re-opened this session; next worker please re-open before certifying",
   "Explore-exploit trade-off research": "QC-pending: state-only approval of prior-session enrichment; Cohen McClure Yu 2007 worthylab PDF not re-opened this session; next worker please re-open before certifying",
-  "Dive reflex (Linehan, Khalsa)": "Linehan handout procedural details (bowl/cold pack, 30 seconds, 50F, heart caution) recorded as awaiting verification - tri-life.org handout PDF renders blank; Khalsa et al. 2016 could not be matched to a dive-reflex paper; Lundstrom et al. 2025 and Konishi et al. 2016 quotes verified this session"
+  "Dive reflex (Linehan, Khalsa)": "Linehan handout procedural details (bowl/cold pack, 30 seconds, 50F, heart caution) recorded as awaiting verification - tri-life.org handout PDF renders blank; Khalsa et al. 2016 could not be matched to a dive-reflex paper; Lundstrom et al. 2025 and Konishi et al. 2016 quotes verified this session",
+  "Creative destruction": "Reopened for QC: milestone QC round-1 repairs pending (advisor findings, 2026-10-22)",
+  "Debiasing techniques": "Reopened for QC: milestone QC round-1 repairs pending (advisor findings 2026-10-22: uncited field-wide generalization, 'best-attested' ranking, accountability quote capitalization, missing section locator, Risk literacy clause)",
+  "Decision": "Reopened for QC: milestone QC round-1 repairs pending (advisor findings 2026-10-22: editing-process language, unverified 'self realized in choosing' claim, no standalone Jaspers blockquote, over-broad synthesis, tradition-conflation glosses)",
+  "Decision-making under uncertainty (Gigerenzer's fast-and-frugal heuristics)": "Reopened for QC: milestone QC round-1 repairs pending (advisor findings 2026-10-22: origin claim from affiliation, future-challenge turned into established explanation, 'noise' mechanism, missing real-life example — needs full text or stays QC-pending)"
  }
 }
