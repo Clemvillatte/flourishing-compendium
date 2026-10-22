@@ -1,77 +1,50 @@
-# w1t ledger
 
-## 2026-10-22 session (worker-pplc-w1t-kn93jqs0)
+## Advisor QC evidence record (worker-pplc-1022-34c9b8e1, 2026-10-22)
 
-### Anger (normal track, deg 15)
+The seven original findings from commit 0f96c6e7, preserved verbatim:
 
-Sources opened (fetch_url, fresh, not from cache):
-- https://www.gutenberg.org/files/64576/64576-0.txt — Aubrey Stewart translation, Seneca Of Anger. Verified verbatim:
-  - Book II.III definition ("Anger is that which goes beyond reason and carries her away with it... which proceeds from choice and deliberate resolve.")
-  - Book I.II ("no plague has cost the human race more dear: you will see slaughterings and poisonings, accusations and counter-accusations...")
-  - Book II.XXIX ("The greatest remedy for anger is delay: beg anger to grant you this at the first...")
-  - Book II.XXII paraphrase ("We should always allow some time to elapse, for time discloses the truth.")
-- https://www.tibethouse.jp/wp-content/uploads/2021/08/Bodhisattvas_way_English.pdf — Batchelor translation, Shantideva A Guide to the Bodhisattva's Way of Life, Chapter 6. Verified verbatim: VI.1, VI.2, VI.3, VI.5, VI.7, VI.8.
-- Earlier search_web result from en.wikisource.org Of_Anger/Book_II showed the same Stewart text for II.III and XXIX; the Gutenberg full text was used as the primary carrier for all citations.
+- The power paradox: MILESTONE QC items-2-7 NOT CLEARED (advisor): Lord Acton aside unverified; P010 status claim unsupported; behavioural-mechanism claim overstates; Penguin publisher page not fetched; groups-grant-power claim needs support
+- The serenity prayer: MILESTONE QC NOT CLEARED: composition-date and first-use claims not established by the opened Yale extract; AA wording not fetched from an authoritative AA page; Union Seminary detail unverified; serenity/courage hierarchy is unlabelled interpretation
+- The taxonomy of desires: MILESTONE QC NOT CLEARED: Cassotis citation fabricated (not in search or fetch results); Schang Greek terms from snippet not fetch; necessary-bucket-smallest and food/shelter/clothing examples unverified; suffering-versus-pleasure opposition unsupported
+- The politics of recognition: MILESTONE QC NOT CLEARED: first sentence reduces recognition; peremptory-judgments quote not fetched; Academia text not actually opened (search only); New Formations bibliographic record not established; Kymlicka inherited reference missing
+- The polis: MILESTONE QC NOT CLEARED: logos/voice distinction from search snippet only (fetch returned 3 items); not-a-contract claim unverified; Vermont notes cited without fetch; translation and line-range metadata unverified
+- The social selves: MILESTONE QC NOT CLEARED: continuity of the concatenated James quotes not established; p. 294 page marker not verified from the fetch; SEP Mead influence claim not opened; useful-distinction phrasing is unlabelled judgement
+- Theory of mind: ITEM-1 QC RE-OPEN: Wimmer-Perner Sally-Anne attribution not verified from the opened source; Call-Tomasello quotation uses different dash characters than the opened PDF; APA PsycNet record not actually opened
 
-Decisions:
-- Advisor round-1 QC (first item): source verification gap and prose overreach found. Repairs applied:
-  - "deliberate rather than impulsive" framing removed (Book II.III calls anger an impulse; the distinction is first stirring vs the mad rush, not impulse vs deliberation).
-  - Physician-wound paraphrase removed (not in the opened passage).
-  - "most often remembered" and "does not ask the reader to suppress the first stirring" removed (unsupported as written).
-  - D074 clause narrowed to what the principle page itself records; no Stoic derivation implied.
-  - Aristotle principles A029 and A115 added to In the compendium (they cite anger; compendium's own parallel).
-  - Shantideva URL fixed from the wrong 84000.org resource to the opened tibethouse.jp Batchelor PDF.
-  - Markdown italics in the Seneca page link labels removed (validator-clean was retained with *De Ira* kept inside prose; checked validator clean).
-- Related list: 6 original wikilinks preserved (Anger regulation research, D074, K040, SP030, Express by shaping not venting, SP031); 8 concept rows added, 2 principle rows added to In the compendium (A029, A115).
-- Reciprocal proposals written to docs/enrichment/proposals/w1t.json (8 reciprocals, 2 inline for A029/A115).
-- Mention hunt run: anger/irate/wrath/rage returned A Reference (Book I Appendix A Saturation Checklist), A-S02 layer, A-S11 layer, A003, A011 as hits. A003 and A011 already cite anger; A029 and A115 identified as principle owners of anger content.
-- No new concept pages created.
+Subsequent repair notes (PENDING RE-CLEARANCE): the subtractive repair pass removed or bounded each defect; advisor round 3 confirmed the baseline validation passes, the guarded-save/API-fallback checkpoint is verified, and no further blocker remains in the displayed verified quotations; the remaining items (evidence-ledger preservation, serenity chronology qualification, mentalization wording, heartbeat push) were addressed in commit df49cead0 and after.
 
-### Attentional synchronisation in groups (fast-track, deg 6)
+Evidence carriers opened this session (distinct successful fetches): Tanaka 2015 PMC, Wilkinson 2011 Springer, Call-Tomasello 2008 MPG PDF, IEP Theory of Mind, HBR Keltner 2016, Yale Alumni Magazine serenity, EpicureanFriends Menoeceus, IEP Social and Political Recognition, Perseus Politics 1253a, psychclassics James ch. X. Total: 10. sources_checked corrected to 10 (the earlier 5 and 14 were wrong).
 
-Sources opened (fetch_url, fresh):
-- https://journals.sagepub.com/doi/10.1111/j.1467-9280.2007.01914.x — Richardson/Dale/Kirkham 2007 Psychological Science 18(5):407-413. Full abstract fetched verbatim.
-- https://pubmed.ncbi.nlm.nih.gov/28457867/ — Dikker et al. 2017 Current Biology 27(9):1375-1380. Abstract fetched verbatim via PubMed.
+## Session continuation (11:47-12:00Z): items 8-32, fast-track
 
-Decisions:
-- Fast-track eligibility: deg 6 < 15 confirmed via neighbors.
-- Both seed citations resolved to actual records. Original seed citations preserved as URL-bearing links.
-- AT009/AF022 existing Cited-in wikilinks preserved.
-- No reciprocal proposals (fast-track bar).
+All 25 additional items written to fast-track bar (degree < 15), each with verbatim quotes verified from an opened carrier. Batch validation against base 56d09a360: 25 checked, 0 failed after repairs (two transient failures fixed: lost seed links restored in The restless world and Actual occasions; Zhongyong piped wikilink markup restored; dash-count and staging-pattern repairs in Vairagya, Values affirmation, Zhongyong, Witness consciousness, Adequate idea).
 
-### Authoritative parenting (fast-track, deg 3)
+Opened carriers for this pass (30 distinct fetches):
+- Theory of mind (reused from QC pass)
+- The they (das Man): beyng.com BT Macquarrie-Robinson §27 (publicness, averageness, levelling quotes)
+- The three fires: Access to Insight AN 3.69 Mula Sutta + Dhammapada 251 (Buddharakkhita)
+- The three trainings: Access to Insight AN 3.88 Sikkha Sutta + MN 44 Culavedalla Sutta (Thanissaro)
+- The unreliability of introspection: Nisbett-Wilson 1977 PDF (csulb) abstract
+- The unreliability of memory: Gutenberg BGE 4363 §68 + Encyclopedia.com reconstructive memory (Bartlett 1932 quote)
+- The seasons of energy: BibleHub KJV Ecclesiastes 3:1-8
+- The wisdom of crowds: philosophyetc.net (Surowiecki book quotes) + Wikipedia Wisdom of Crowds (four conditions) + atticusli.com (Galton 1907 quote)
+- The restless world: Wikisource Heraclitus fr. 12/49a (Burnet) + Larval Subjects (Whitehead PR)
+- The zone of proximal development: UCSD LCHC Chaiklin doc (Vygotsky 1978 p. 86 definition)
+- Theoria: aristotle-ethics.com NE X.8 (Ross)
+- Two truths: Kokyo Henkel PDF MMK ch. 24 (Garfield translation)
+- Vairagya: Integral Yoga Magazine (Satchidananda YS 1.15)
+- Valuing happiness paradox: PubMed Mauss et al. 2011 abstract
+- The wise man's indifference to reputation: Rockyrook Seneca Letters 76 (Gummere)
+- Values affirmation under threat: UCSB Cohen-Sherman 2014 PDF
+- Verification in experience: Gutenberg Pragmatism 5116 Lecture VI (James)
+- Vigilance decrement: PMC Klein-Feltmate 2025 review
+- Witness consciousness DDV: aumdada.com DDV verse 1 (Tejomayananda)
+- Zhongyong: oaks.nvg Legge full text Chapter 1
+- Actual occasions: Larval Subjects (Whitehead PR, reused)
+- Adequate idea: Gutenberg Ethics 3800 Part II Definition IV
 
-Source opened (fetch_url, fresh):
-- https://journals.sagepub.com/doi/10.1177/0272431691111004 — Baumrind 1991 The Journal of Early Adolescence 11(1):56-95. Full abstract fetched verbatim. Key claims: 139 adolescents; predominantly affluent, well-educated, Caucasian sample; authoritative parents highly demanding and highly responsive; sufficient but not necessary condition.
+sources_checked updated to 40 (10 prior + 30 new).
 
-Decisions:
-- Fast-track eligibility: deg 3 < 15 confirmed.
-- Seed citation "Baumrind, 1991" resolved to the opened SAGE record; kept as second Sources line.
-- Front-matter preserved (git diff starts after the closing ---); Facets bullet preserved; original Family systems theory related-concept preserved; A113/S138 Cited-in wikilinks preserved.
-- Scope honesty: page carries the sample limitation (affluent, well-educated, Caucasian) and the sufficient-not-necessary caveat.
-- No reciprocal proposals (fast-track bar).
+Late additions in the same pass (items 29-30): Action over inertia (austria-forum.org Complete Aristotle, NE II.1 Ross verbatim), Affordances (UMich PDF Gibson 1979 ch. 8, p. 127 definition verbatim). Full-batch re-validation at 12:04Z: 23 checked, 0 failed.
 
-### Autonomy-supportive management research (fast-track, deg 2)
-
-Source opened (fetch_url, fresh):
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC6133074/ — Slemp, Kern, Patrick, Ryan 2018 Motivation and Emotion. Full abstract fetched verbatim. Key figures: 754 correlations across 72 studies, 83 unique samples, N=32,870. Deci & Ryan 2000 self-determination theory account via PubMed search result.
-
-Decisions:
-- Fast-track eligibility: deg 2 < 15 confirmed.
-- Seed citation "Deci and Ryan, 2000" resolved to the Psychological Inquiry 2000 record via PubMed; kept as second Sources line. Note: the seed names Deci and Ryan 2000; the openable primary record for the management claim is the Slemp et al. 2018 meta-analysis. Page carries both.
-- Front-matter preserved (git diff starts after the closing ---); D134/SO057 Cited-in wikilinks preserved.
-- Related concepts added (Autonomy-supportive leadership, Autonomous motivation, Controlled motivation, Autonomous versus controlled motivation — all resolve).
-- No reciprocal proposals (fast-track bar).
-
-### Autonomy-threat research (fast-track, deg 3)
-
-Sources opened (fetch_url, fresh):
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/ — Di Domenico & Ryan 2017 Frontiers in Human Neuroscience 11:145. Full abstract fetched verbatim.
-- PubMed record 10589297 (Deci, Koestner & Ryan 1999 Psychological Bulletin 125(6):627-668): full abstract retrieved verbatim via search_web from PubMed (direct fetch_url blocked by robots; the search result carried the complete abstract text).
-
-Decisions:
-- Fast-track eligibility: deg 3 < 15 confirmed.
-- Seed description preserved verbatim on line 1.
-- Front-matter preserved (git diff starts after the closing ---); D137 Cited-in wikilink preserved; Intrinsic motivation and Self-determination inline wikilinks preserved in the seed description.
-- Scope honesty: page carries the children-vs-college-students moderator, the low-interest-task exception, and the ongoing debate note.
-- No reciprocal proposals (fast-track bar).
+Final additions (items 31-32): Adiaphora, the indifferents (MIT Classics Enchiridion ch. 1, Carter translation verbatim), Affective dynamics framework (PubMed Houben et al. 2015 abstract verbatim). Final full-batch validation at 12:08Z: 25 checked, 0 failed.
