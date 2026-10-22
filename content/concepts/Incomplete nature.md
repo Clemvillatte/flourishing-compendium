@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Incomplete nature” — Deacon, Incomplete Nature.
 
-Terrence Deacon's title names a wager: that the things we most want to explain — purpose, value, meaning, mind — are intrinsically incomplete, constituted by what is not there, and that this absence is not a defect in our theories but a causal feature of the world.
+Terrence Deacon's title names a wager: that the things we most want to explain (purpose, value, meaning, mind) are intrinsically incomplete, constituted by what is not there, and that this absence is not a defect in our theories but a causal feature of the world.
 
 > "What is absent is responsible for the causal power of organization (p. 195)." — [Deacon, Incomplete Nature, quoted in Logan, Information 3(3) (2012), 290–306, full text](https://openresearch.ocadu.ca/id/eprint/843/1/Logan_DeaconPrecisReview_2012.pdf)
 
