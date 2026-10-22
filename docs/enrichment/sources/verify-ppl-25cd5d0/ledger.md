@@ -849,3 +849,22 @@ against an unprompted raw fetch of the cited Library of Congress standard-text
 transcription (including "under God" in the new-birth clause, matching the standard
 text). The page's "can long endure" framing is likewise directly present in the address.
 No routed findings.
+
+## Round 35 (2026-10-22; inspection ~12:41-12:43Z; raw-text method with carrier fallback)
+
+### The full range of the soul (w1s, fast-track done, commit 54a10f6c9)
+
+1 quoted passage checked, 1 PASS — the NE I.7 definition ("if this is the case, human good
+turns out to be activity of soul in accordance with virtue, and if there are more than one
+virtue, in accordance with the best and most complete") verified verbatim against an
+unprompted raw fetch of the cited MIT Classics page (Ross, Book I section 7, function
+argument). No routed findings.
+
+### Green exercise (Barton, Pretty) (w1r, fast-track done, commit 182aa3242)
+
+4 quoted passages checked, 4 PASS — the cited PubMed record (20337470) is empty-text to this
+fetcher, so verification used the publisher's own abstract page (ACS Publications,
+es903183r — the same document): the definition sentence, both effect sizes (d = 0.46 and
+d = 0.54 with the exact confidence intervals), the dose-response sentence, and the
+water-presence sentence all appear word-for-word. The 10 UK studies / 1,252 participants
+figures are directly present. No routed findings.
