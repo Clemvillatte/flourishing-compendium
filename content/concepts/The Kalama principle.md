@@ -16,7 +16,7 @@ The Kalama principle is the Buddha's instruction, given to a clan beset by compe
 
 ### Origin
 
-The instruction appears in the Canki Sutta's better-known cousin, the discourse to the Kalamas of Kesaputta (AN 3.65). The Buddha there does not recommend doubt as a resting place; he recommends it as a starting gate. The test is not personal taste but observable consequence: whether a practice, adopted and carried out, leads to harm or to welfare.
+The instruction appears in the discourse to the Kalamas of Kesaputta (AN 3.65). The Buddha there does not recommend doubt as a resting place; he recommends it as a starting gate. The test is not personal taste but observable consequence: whether a practice, adopted and carried out, leads to harm or to welfare.
 
 ### A real-life example
 
