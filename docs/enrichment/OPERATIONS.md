@@ -625,3 +625,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Kirschbaum 2009 quotes (the CAR definition and the "exact function... not
   clarified" line) checked against the opened Europe PMC abstract: verbatim.
   Sample PASS. Thirty-nine samples this session, all PASS.
+- Supervisor verification sample 40 (2026-10-22 ~16:31 UTC): Allostasis theory
+  (random finished-band draw, w1m) — both McEwen 2006 quotes (the allostasis
+  definition and the allostatic-load definition) checked against the archived
+  tandfonline full text (the live page bot-walls scripts; archive copy opened):
+  verbatim (curly-quote normalization only). Sample PASS. Forty samples this
+  session, all PASS.
