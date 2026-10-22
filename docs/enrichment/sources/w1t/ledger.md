@@ -318,3 +318,15 @@ Decisions:
 - Front-matter preserved; P147/AF073 Cited-in wikilinks preserved.
 - Related concepts: The relational self (existing original).
 - No reciprocal proposals (fast-track bar).
+
+### Coincidentia oppositorum (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://plato.stanford.edu/entries/dialetheism/ — SEP Priest/Berto/Weber. Cusa passage fetched verbatim with the Heron 1954 I.4 citation.
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Front-matter preserved; K019/AF006 Cited-in wikilinks preserved.
+- Related concepts: Dialectical thinking, Dialectical sublation, Both-and (all existing).
+- De Docta Ignorantia book citation carried from the seed; not independently opened this session.
+- No reciprocal proposals (fast-track bar).
