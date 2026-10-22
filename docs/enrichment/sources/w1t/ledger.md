@@ -172,3 +172,16 @@ Decisions:
 - Related concepts: Cognitive defusion, Cognitive restructuring, Cognitive biases, Cash value (actual page name).
 - Beck citation carried from the seed; marked not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Belief perseverance effect (fast-track, deg 4)
+
+Source opened (fetch_url, fresh):
+- https://pubmed.ncbi.nlm.nih.gov/1185517/ — Ross, Lepper, Hubbard 1975 JPSP 32(5):880-892. Full abstract retrieved via search_web (PubMed direct fetch blocked by robots).
+- https://pubmed.ncbi.nlm.nih.gov/3701590/ — Lepper, Ross, Lau 1986 JPSP 50(3):482-491 classroom replication. Full abstract retrieved via the same search.
+
+Decisions:
+- Fast-track eligibility: deg 4 < 15 confirmed.
+- Front-matter preserved; CO016/PP045 Cited-in wikilinks preserved.
+- Related concepts: Confirmation bias, Need for cognitive closure (both existing).
+- Anderson et al. 1980 carried from the seed as book citation; not independently opened this session; no fabricated URL attached.
+- No reciprocal proposals (fast-track bar).
