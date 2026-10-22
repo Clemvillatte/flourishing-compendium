@@ -29,3 +29,5 @@ The concept has since traveled into design, where interfaces are judged by what 
 ## Cited in psychology parallels
 
 - [[P146]]
+- [[D056 — Follow the natural grain]]
+- [[E015 — Practise motor intentionality]]
