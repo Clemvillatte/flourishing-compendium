@@ -208,3 +208,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's claim that time affluence predicts well-being more strongly than material wealth is explicitly downgraded in "What this evidence does not test": the opened study does not compare the two as predictors; it shows time-saving purchases are followed by greater life satisfaction and tested no audit practice. Protocol steps labelled as the compendium's practice form.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K239 — Calibration tracking (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Mellers et al. 2014 (Psychological Science 25(5):1106-1115), abstract verified raw via the Crossref API (DOI 10.1177/0956797614524255).
+- Both blockquotes verified against the raw Crossref abstract: the calibration-and-resolution finding and the training-teaming-tracking summary sentence.
+- The practice's premise that self-scoring alone improves calibration is downgraded in "What this evidence does not test": the tournament interventions were training modules, teams, and talent tracking, not a personal prediction log. Protocol steps labelled as the compendium's practice form.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
