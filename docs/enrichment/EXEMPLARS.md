@@ -323,4 +323,9 @@ The kernel pages are practice pages, not concept pages, so they follow a differe
 - **Operationalises / Related concepts / Related kernels** sections tying the practice to the compendium's principles and concepts.
 - **Sources** with opened URLs and locators; per-item ledger entry in docs/enrichment/sources/kpr/ledger.md.
 
+Supervisor disposition (2026-10-22): kernels for inherently unguided
+practices (e.g. a nap, which needs only an alarm) are exempt from the
+guided-recording requirement; the exemption must be recorded in the kpr
+ledger.
+
 QC-pending kernels (K418, K419, K112, K200, K396, K378, K379 as of 2026-10-22) are held honestly at their stated gaps and are NOT exemplars until cleared. No kernel is yet a verified exemplar: K409 is the candidate awaiting its own verification round (Evidence quotations with locators; guided-version narrator confirmation).

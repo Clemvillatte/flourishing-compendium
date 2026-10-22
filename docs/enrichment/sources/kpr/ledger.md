@@ -613,3 +613,13 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22 — k1a (supervisor-a3b0be8e)
 
 - K203 Nap protocol: enriched to standard. Carriers opened: Brooks & Lack 2006 (Sleep 29(6):831-840, abstract via Scispace record; findings quoted verbatim through Hilditch & McHill 2019 review, PMC6710480); Sleep Foundation napping page (timing + length rules, verbatim). Protocol steps sourced from Sleep Foundation rules; duration evidence via the review. Verified: validate.py passes. Gap noted honestly: timing rule is expert guidance, not RCT; outcomes tested are alertness/performance, not well-being.
+
+### K203 QC round 2 (advisor-directed, 2026-10-22)
+
+- Removed unverified design details of Brooks & Lack 2006 (abstract not opened directly); findings now reported only through Hilditch & McHill 2019 (quotes raw-text checked).
+- Opening neutralised (no efficacy claims, no "fixed the shape clinicians recommend" claim).
+- Protocol: editorial step 3 labelled as editorial addition; steps 1-2 carrier-sourced.
+- Deleted the "fades within half an hour" recovery-time claim.
+- Nap opportunity vs measured sleep distinguished (20-min timer ≠ 20 min lab sleep).
+- Timing rule narrowed to expert guidance tied to bedtime; "what studies do not test" narrowed to the cited comparison.
+- Guided version: SUPERVISOR DISPOSITION — kernels for inherently unguided practices (a nap needs only an alarm) are exempt from the recording requirement; exemption recorded here and in EXEMPLARS.md. k1a shares kpr's ledger for kernel-track continuity (single kernel evidence ledger).
