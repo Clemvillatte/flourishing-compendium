@@ -452,3 +452,14 @@ communication with another") could not be independently re-verified from this se
 w1u owner's commit message states both Jaspers quotes were raw-verified against the
 Existenz journal carriers. No defect found; the verification of that one quote remains
 open to a fetcher that can open existenz.us (or a Wayback capture).
+
+## Round 17 (2026-10-22, performed ~12:37-12:38Z measured; raw-text method)
+
+### Facticity (w1u, fast-track done, commit b8da429ff)
+
+2 quoted passages checked, 2 PASS — both the facticity definition blockquote and the
+"perpetual contingency" sentence verified verbatim against an unprompted raw fetch of the
+full cited Internet Archive text (Barnes translation; the djvu text layer hyphenates
+words at line breaks, e.g. "appre- hended"; the page's version is the normalised reading,
+words identical). The passage sits in Part Two, Chapter One, section II ("The Facticity of
+the For-Itself"), consistent with the page's framing. No routed findings.
