@@ -276,6 +276,9 @@ perceptions and beliefs".
    to each sense" — VERBATIM substring.
 8. Aristotle, NE VI.11 (Ross) — "of these therefore we must have perception, and this
    perception is intuitive reason" — VERBATIM substring.
-9. Wikipedia, Aesthetics etymology sentence — checked earlier this round via carrier
-   opening: the etymology claim matches the article's wording (aisthetikos "perceptible
-   things", aisthesthai "perceive, see", aisthesis "sensation, perception"). PASS.
+9. Wikipedia, Aesthetics — etymology sentence opened and verified: "The term comes
+   from the ancient Greek words aisthetikos, meaning 'perceptible things', aisthesthai,
+   meaning 'perceive, see', and aisthesis, meaning 'sensation, perception'." — VERBATIM
+   (correction: an earlier draft of this entry described this check as done before the
+   carrier was opened; the carrier was opened and the check completed immediately after,
+   before this push.)
