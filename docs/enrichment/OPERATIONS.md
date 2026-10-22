@@ -661,3 +661,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   finished-band draw, w1r) — the Mill On Liberty ch. I passage checked against the
   opened Gutenberg #34901 text: verbatim. Sample PASS. Forty-six samples this
   session, all PASS.
+- Supervisor verification sample 47 (2026-10-22 ~16:53 UTC): The hermeneutics of
+  suspicion (random finished-band draw, w1s) — the Ricoeur Freud and Philosophy p. 33
+  quote checked against multiple opened scholarly carriers (Stanford Humanities
+  Center, AUB ScholarWorks PDF, Ricoeur Studies journal — all quoting the same
+  sentence with the p. 33 locator): verbatim. Sample PASS. Forty-seven samples this
+  session, all PASS.
