@@ -27,5 +27,5 @@ The clinical reading follows from the research one. A mediator names where the w
 
 ## Sources
 
-- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy, Context Press / New Harbinger — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — Chapter 3: carrier of the Baron & Kenny quotation (page 1173 as printed in the book), carried by the book text ([public full-text copy](https://www.scribd.com/document/546068589/Learning-Process-Based-Therapy-nodrm)); the publisher's page carries bibliographic data only
+- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy, Context Press / New Harbinger — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — Chapter 3: carrier of the Baron & Kenny quotation (page 1173 as printed in the book) (carried by the book text; the publisher's page carries bibliographic data only)
 - Baron, R. M., & Kenny, D. A. (1986), The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations, JPSP 51(6), 1173–1182 — the original definition source, both quoted sentences verified against the paper's full text ([PDF](https://www.psy.miami.edu/_assets/pdf/rpo-articles/baron-and-kenny-1986.pdf))

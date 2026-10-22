@@ -25,4 +25,4 @@ The definition also says what the work is not: it is not insight for its own sak
 
 ## Sources
 
-- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy, Context Press / New Harbinger — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — Chapter 7: the context-sensitivity definition, and Chapter 3: the EEMM classification quote; both carried by the book text ([public full-text copy](https://www.scribd.com/document/546068589/Learning-Process-Based-Therapy-nodrm)); the publisher's page carries bibliographic data only
+- [Hofmann, S. G., Hayes, S. C., & Lorscheid, D. N. (2021), Learning Process-Based Therapy, Context Press / New Harbinger — publisher's page](https://www.newharbinger.com/9781684037551/learning-process-based-therapy/) — Chapter 7: the context-sensitivity definition, and Chapter 3: the EEMM classification quote (both carried by the book text; the publisher's page carries bibliographic data only)

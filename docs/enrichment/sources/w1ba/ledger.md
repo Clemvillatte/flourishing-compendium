@@ -101,3 +101,13 @@ All 5 items repaired per advisor review:
   on the EEMM page's supervisor-verified record; source QC for that one addition is
   recorded as PENDING direct open. A bounded browser attempt may follow; if it fails,
   the flag stands for the next verifier.
+- Bounded browser attempt (cloud browser, this session): the Scribd public full-text
+  copy of Learning Process-Based Therapy has been REMOVED (Scribd serves a "Removal
+  Notice" page for document 546068589). The carrier cited by verify-pbt1 is dead.
+  Consequence: the dead scribd.com URL has been removed from the four pages' public
+  Sources rows (book text named as carrier; publisher's page = bibliographic only);
+  access history stays in this ledger and verify-pbt1's. The book itself remains
+  UNOPENED this session (publisher paywall; no other public carrier found); the
+  book-derived quotes on these pages rest on the verify-pbt1 opened-carrier record,
+  and the EEMM-quote addition on Context sensitivity is flagged PENDING direct open.
+  Next verifier with library access should re-open the book and confirm.
