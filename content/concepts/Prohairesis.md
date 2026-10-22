@@ -25,4 +25,4 @@ The word later moved to the centre of Stoic teaching: for Epictetus, prohairesis
 ## Cited in philosophy parallels
 
 - [[A054 — Choose deliberately (prohairesis)]]
-- [[S056 — Prohairesis as the core self]]
+- [[S056 — Recognise that you can choose your response]]
