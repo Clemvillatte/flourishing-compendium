@@ -61,7 +61,8 @@
   "Cu tran lac dao",
   "Domination critique",
   "Endurance (hypomenein)",
-  "Ecological mindfulness"
+  "Ecological mindfulness",
+  "Ecological spirituality"
  ],
  "in_progress": null,
  "flagged": {
@@ -94,9 +95,10 @@
   "Cu tran lac dao": "No scholarly edition opened; sources are translator site, commentary and a government cultural page. Hán-Việt line 4 differs between sources (cảnh/kính).",
   "Domination critique": "Escape from Freedom itself not opened; page rests on Britannica and OUP summaries. 'Assertive pole' wording in seed not found in them. D133 (Laozi) does not cite Fromm.",
   "Endurance (hypomenein)": "Already enriched by w1a (overlap with w1z manifest); validated, no change.",
-  "Ecological mindfulness": "Source page does not use the phrase 'ecological mindfulness'; label is the compendium's. Book not opened; org's own page only."
+  "Ecological mindfulness": "Source page does not use the phrase 'ecological mindfulness'; label is the compendium's. Book not opened; org's own page only.",
+  "Ecological spirituality": "Berry (Christian cosmology) and Snyder (Buddhist, place-based) differ; neither book opened; page uses scholarly summaries. R129 quotes Berry directly."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:05:56+00:00"
+ "updated": "2026-10-22T16:06:24+00:00"
 }
