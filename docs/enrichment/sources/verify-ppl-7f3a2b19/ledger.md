@@ -249,11 +249,21 @@ Round 7 totals: 3 pages PASS, 1 finding routed. Cumulative w1ac sample: 21 pages
   able to do so." and "On the contrary, any Dasein has..."). Repaired: bracketed ellipsis
   "[...]" inserted at the splice (fast-track validation 1 checked 0 failed). Both fragments
   individually verbatim vs the cited beyng.com pages (opened).
+  CORRECTION (advisor QC, session close): the two fragments were also REVERSED relative to
+  the printed p. 185 (on the source page "On the contrary..." precedes "Because of the kind
+  of Being..."); repaired under a fresh w1ac claim to the source order with the ellipsis
+  preserved — the quote now reads the passages in the order they appear in B&T p. 185.
 - PROJECT (PROJET) — PASS 2/2: both Sartre passages verbatim vs the cited Wikiquote page
   (opened via fetch; "the Ens causa sui" italicized there, plain on the page — emphasis-only
   difference).
-- POIESIS AS DISCLOSING — PASS 1/1: the Heidegger Greek-temple passage verbatim vs the
-  cited beyng.com GA5 page (opened).
+- POIESIS AS DISCLOSING — PASS WITHDRAWN, ROUTED (ATTRIBUTION): on re-examination (advisor
+  QC), the cited beyng.com GA5 page is the SITE AUTHOR'S summary/commentary of Heidegger's
+  text, not Heidegger's translated prose (the page reads "Heidegger first discusses the
+  work-being of the work. A work, like a Greek temple, works in the sense that..."). The
+  passage matches the cited page verbatim, but it is the website author's paraphrase
+  presented as a quotation of Heidegger — an attribution defect, not a transcription one.
+  Routed: replace the quotation with Heidegger's actual OWA text (or re-attribute to the
+  page's author) and verify against the origin.
 - PRE-THEORETICAL EXPERIENCE — ROUTED, CARRIER UNREACHABLE: the cited
   topologicalmedialab.net PDF (Merleau-Ponty, Landes trans., body excerpts) fails to connect
   (curl http 000). The three quoted fragments could not be re-verified against the cited

@@ -2902,3 +2902,17 @@ Also: ADIAPHORA, THE INDIFFERENTS PASS (Epictetus Enchiridion 1 Carter verbatim)
 Commitment Therapy has no blockquotes (nothing to check). SESSION CLOSED: 68 pages verified across
 17 rounds, 58 PASS, 6 defects + 1 attribution repaired, 10 findings routed, 1 confabulation withdrawn
 with evidence, 2 process errors corrected. All work on origin/main; all batons released.
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22, session close, advisor-QC corrections)
+
+Two late corrections from the closing advisor review, both already applied/recorded: (1) PROJECTION
+(ENTWURF) — the p. 185 stitched quote's two fragments were REVERSED relative to the printed page
+("On the contrary..." precedes "Because of the kind of Being..." in B&T p. 185); repaired to source
+order under a fresh w1ac claim. (2) POIESIS AS DISCLOSING — my earlier PASS is WITHDRAWN: the cited
+beyng.com GA5 page is the SITE AUTHOR'S commentary on Heidegger ("Heidegger first discusses the
+work-being of the work. A work, like a Greek temple, works in the sense that..."), not Heidegger's
+translated prose — the page quotes the website author's paraphrase as Heidegger. ROUTED: replace
+with Heidegger's actual Origin of the Work of Art text (or re-attribute) and verify against the
+origin. Full evidence: sources/verify-ppl-7f3a2b19/ledger.md. Final session totals: 72 pages
+verified, 7 defects + 1 attribution repaired, 11 findings routed, 1 confabulated finding withdrawn,
+2 process errors corrected.
