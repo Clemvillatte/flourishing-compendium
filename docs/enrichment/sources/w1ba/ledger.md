@@ -34,3 +34,14 @@
    prose (the "not insight for its own sake" paragraph is gloss, no new factual claims).
    Sources row re-pointed to the actual quote carrier per verify-pbt1's routed finding.
    Validate ok.
+4. **Mediators of change** — Baron & Kenny quote verified by verify-pbt1 (verbatim in the
+   book's rendering AND independently vs the original 1986 paper, p. 1173). Expanded the
+   body past 150 at the normal-track bar: added the 1986 paper's own intro sentence
+   (verbatim, per the same verification record) with natural attribution, the EEMM
+   location-of-mediators tie-in (grounded in the verified Ch 3 classification quote), and
+   a clinical-reading paragraph (gloss, no new factual claims). Removed the pending-note
+   parenthetical from prose (the book's mediation discussion beyond the verified quotes
+   remains unopened by this session — scope honestly recorded here: the body now rests
+   only on the two verified quotes and the EEMM classification quote). Sources row
+   re-pointed to the actual carrier; Baron & Kenny 1986 added as the original source.
+   Validate ok.
