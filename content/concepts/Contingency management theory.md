@@ -6,7 +6,6 @@ title: "Contingency management theory"
 file: "Contingency management theory"
 tags: ["theory", "psych/behavior"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-BEHAVIOR"], "alternatePaths": []}
-legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 **Contingency management theory** — delivering reliable rewards for verified behaviour change sustains abstinence and treatment adherence.
 
