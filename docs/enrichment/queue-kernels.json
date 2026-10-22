@@ -1,0 +1,866 @@
+[
+ {
+  "path": "content/kernels/K203 \u2014 Nap protocol.md",
+  "prose_words": 51
+ },
+ {
+  "path": "content/kernels/K186 \u2014 Don't-break-the-chain.md",
+  "prose_words": 61
+ },
+ {
+  "path": "content/kernels/K214 \u2014 Community participation.md",
+  "prose_words": 61
+ },
+ {
+  "path": "content/kernels/K219 \u2014 Social accountability.md",
+  "prose_words": 62
+ },
+ {
+  "path": "content/kernels/K208 \u2014 Speech gate.md",
+  "prose_words": 63
+ },
+ {
+  "path": "content/kernels/K217 \u2014 Sympathetic understanding drill.md",
+  "prose_words": 63
+ },
+ {
+  "path": "content/kernels/K119 \u2014 Response prevention.md",
+  "prose_words": 64
+ },
+ {
+  "path": "content/kernels/K244 \u2014 Public commitment.md",
+  "prose_words": 64
+ },
+ {
+  "path": "content/kernels/K109 \u2014 Quiet eye.md",
+  "prose_words": 65
+ },
+ {
+  "path": "content/kernels/K189 \u2014 Challenge-skill calibration.md",
+  "prose_words": 65
+ },
+ {
+  "path": "content/kernels/K207 \u2014 Deep listening.md",
+  "prose_words": 66
+ },
+ {
+  "path": "content/kernels/K118 \u2014 Interoceptive exposure.md",
+  "prose_words": 67
+ },
+ {
+  "path": "content/kernels/K187 \u2014 Cue engineering.md",
+  "prose_words": 67
+ },
+ {
+  "path": "content/kernels/K202 \u2014 Hormetic exposure.md",
+  "prose_words": 67
+ },
+ {
+  "path": "content/kernels/K212 \u2014 Gratitude expression.md",
+  "prose_words": 67
+ },
+ {
+  "path": "content/kernels/K198 \u2014 Sleep regularity.md",
+  "prose_words": 69
+ },
+ {
+  "path": "content/kernels/K249 \u2014 Half-smile.md",
+  "prose_words": 69
+ },
+ {
+  "path": "content/kernels/K188 \u2014 Friction audit.md",
+  "prose_words": 71
+ },
+ {
+  "path": "content/kernels/K220 \u2014 Democratic micro-practice.md",
+  "prose_words": 71
+ },
+ {
+  "path": "content/kernels/K226 \u2014 The deathbed test.md",
+  "prose_words": 71
+ },
+ {
+  "path": "content/kernels/K160 \u2014 Feeling-tone pass.md",
+  "prose_words": 72
+ },
+ {
+  "path": "content/kernels/K197 \u2014 Morning light exposure.md",
+  "prose_words": 72
+ },
+ {
+  "path": "content/kernels/K191 \u2014 Single-loop learning.md",
+  "prose_words": 73
+ },
+ {
+  "path": "content/kernels/K166 \u2014 Sympathetic joy.md",
+  "prose_words": 74
+ },
+ {
+  "path": "content/kernels/K171 \u2014 Emotional writing.md",
+  "prose_words": 75
+ },
+ {
+  "path": "content/kernels/K124 \u2014 Low emotional response.md",
+  "prose_words": 76
+ },
+ {
+  "path": "content/kernels/K181 \u2014 Deimplementation.md",
+  "prose_words": 76
+ },
+ {
+  "path": "content/kernels/K224 \u2014 Legacy letter.md",
+  "prose_words": 76
+ },
+ {
+  "path": "content/kernels/K138 \u2014 Multiple versioning.md",
+  "prose_words": 77
+ },
+ {
+  "path": "content/kernels/K190 \u2014 Flow block.md",
+  "prose_words": 77
+ },
+ {
+  "path": "content/kernels/K134 \u2014 Two-truths drill.md",
+  "prose_words": 78
+ },
+ {
+  "path": "content/kernels/K145 \u2014 Role-taking.md",
+  "prose_words": 78
+ },
+ {
+  "path": "content/kernels/K235 \u2014 Abductive warm-ups.md",
+  "prose_words": 78
+ },
+ {
+  "path": "content/kernels/K210 \u2014 Active constructive responding.md",
+  "prose_words": 79
+ },
+ {
+  "path": "content/kernels/K143 \u2014 Self-complexity mapping.md",
+  "prose_words": 80
+ },
+ {
+  "path": "content/kernels/K157 \u2014 Evening review.md",
+  "prose_words": 80
+ },
+ {
+  "path": "content/kernels/K241 \u2014 Seasonal redesign.md",
+  "prose_words": 81
+ },
+ {
+  "path": "content/kernels/K130 \u2014 Decatastrophizing.md",
+  "prose_words": 82
+ },
+ {
+  "path": "content/kernels/K159 \u2014 Affect labeling.md",
+  "prose_words": 82
+ },
+ {
+  "path": "content/kernels/K170 \u2014 Forgiveness practice.md",
+  "prose_words": 82
+ },
+ {
+  "path": "content/kernels/K236 \u2014 Community of inquiry.md",
+  "prose_words": 82
+ },
+ {
+  "path": "content/kernels/K144 \u2014 The chariot analysis.md",
+  "prose_words": 83
+ },
+ {
+  "path": "content/kernels/K215 \u2014 Assertiveness and boundaries.md",
+  "prose_words": 83
+ },
+ {
+  "path": "content/kernels/K223 \u2014 Meaning audit.md",
+  "prose_words": 83
+ },
+ {
+  "path": "content/kernels/K228 \u2014 Awe practice.md",
+  "prose_words": 83
+ },
+ {
+  "path": "content/kernels/K237 \u2014 See-the-small practice.md",
+  "prose_words": 83
+ },
+ {
+  "path": "content/kernels/K168 \u2014 Near-enemy audit.md",
+  "prose_words": 85
+ },
+ {
+  "path": "content/kernels/K136 \u2014 The raft check.md",
+  "prose_words": 86
+ },
+ {
+  "path": "content/kernels/K150 \u2014 Values card-sort.md",
+  "prose_words": 86
+ },
+ {
+  "path": "content/kernels/K345 \u2014 Positionality statement.md",
+  "prose_words": 86
+ },
+ {
+  "path": "content/kernels/K180 \u2014 Feedback loops.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K193 \u2014 Weekly habit review.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K221 \u2014 Community engagement.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K246 \u2014 Self-monitoring.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K301 \u2014 Seasonal noticing.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K302 \u2014 Ecological reciprocity.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K335 \u2014 The witness practice.md",
+  "prose_words": 87
+ },
+ {
+  "path": "content/kernels/K227 \u2014 Time-affluence audit.md",
+  "prose_words": 88
+ },
+ {
+  "path": "content/kernels/K239 \u2014 Calibration tracking.md",
+  "prose_words": 88
+ },
+ {
+  "path": "content/kernels/K347 \u2014 Story-before-statistic.md",
+  "prose_words": 88
+ },
+ {
+  "path": "content/kernels/K195 \u2014 Posture reset.md",
+  "prose_words": 89
+ },
+ {
+  "path": "content/kernels/K229 \u2014 Narrative redemption.md",
+  "prose_words": 89
+ },
+ {
+  "path": "content/kernels/K326 \u2014 Incubation practice.md",
+  "prose_words": 89
+ },
+ {
+  "path": "content/kernels/K137 \u2014 Language flexibility.md",
+  "prose_words": 90
+ },
+ {
+  "path": "content/kernels/K169 \u2014 Anger dissection.md",
+  "prose_words": 90
+ },
+ {
+  "path": "content/kernels/K173 \u2014 Creative hopelessness.md",
+  "prose_words": 90
+ },
+ {
+  "path": "content/kernels/K204 \u2014 Phone-free first and last hour.md",
+  "prose_words": 90
+ },
+ {
+  "path": "content/kernels/K233 \u2014 Weekly inquiry loop.md",
+  "prose_words": 90
+ },
+ {
+  "path": "content/kernels/K176 \u2014 Habit stacking.md",
+  "prose_words": 91
+ },
+ {
+  "path": "content/kernels/K218 \u2014 Perspective-getting.md",
+  "prose_words": 91
+ },
+ {
+  "path": "content/kernels/K232 \u2014 Life review.md",
+  "prose_words": 91
+ },
+ {
+  "path": "content/kernels/K248 \u2014 Positive greetings.md",
+  "prose_words": 91
+ },
+ {
+  "path": "content/kernels/K147 \u2014 I am becoming reframes.md",
+  "prose_words": 92
+ },
+ {
+  "path": "content/kernels/K329 \u2014 Revision loop.md",
+  "prose_words": 92
+ },
+ {
+  "path": "content/kernels/K350 \u2014 Seasonal mourning.md",
+  "prose_words": 92
+ },
+ {
+  "path": "content/kernels/K123 \u2014 Radical acceptance.md",
+  "prose_words": 94
+ },
+ {
+  "path": "content/kernels/K185 \u2014 The two-minute rule.md",
+  "prose_words": 94
+ },
+ {
+  "path": "content/kernels/K327 \u2014 Creative risk-taking.md",
+  "prose_words": 94
+ },
+ {
+  "path": "content/kernels/K128 \u2014 Thought record.md",
+  "prose_words": 95
+ },
+ {
+  "path": "content/kernels/K183 \u2014 Behavioral experiment.md",
+  "prose_words": 95
+ },
+ {
+  "path": "content/kernels/K206 \u2014 Progressive muscle relaxation.md",
+  "prose_words": 95
+ },
+ {
+  "path": "content/kernels/K303 \u2014 Sensory nature immersion.md",
+  "prose_words": 95
+ },
+ {
+  "path": "content/kernels/K348 \u2014 Name the loss.md",
+  "prose_words": 95
+ },
+ {
+  "path": "content/kernels/K129 \u2014 Prediction log.md",
+  "prose_words": 96
+ },
+ {
+  "path": "content/kernels/K155 \u2014 Enough lines.md",
+  "prose_words": 96
+ },
+ {
+  "path": "content/kernels/K247 \u2014 Motivational interviewing (self-directed).md",
+  "prose_words": 96
+ },
+ {
+  "path": "content/kernels/K133 \u2014 Holding as hypothesis.md",
+  "prose_words": 97
+ },
+ {
+  "path": "content/kernels/K209 \u2014 Repair attempt.md",
+  "prose_words": 97
+ },
+ {
+  "path": "content/kernels/K225 \u2014 Service and creation.md",
+  "prose_words": 97
+ },
+ {
+  "path": "content/kernels/K238 \u2014 Kill-the-Buddha drill.md",
+  "prose_words": 97
+ },
+ {
+  "path": "content/kernels/K175 \u2014 Graded task assignment.md",
+  "prose_words": 98
+ },
+ {
+  "path": "content/kernels/K240 \u2014 The weekly review.md",
+  "prose_words": 98
+ },
+ {
+  "path": "content/kernels/K243 \u2014 The returning practice.md",
+  "prose_words": 98
+ },
+ {
+  "path": "content/kernels/K324 \u2014 Constraint-based creation.md",
+  "prose_words": 98
+ },
+ {
+  "path": "content/kernels/K156 \u2014 Morning intention.md",
+  "prose_words": 99
+ },
+ {
+  "path": "content/kernels/K140 \u2014 The observer question.md",
+  "prose_words": 100
+ },
+ {
+  "path": "content/kernels/K152 \u2014 Committed action.md",
+  "prose_words": 100
+ },
+ {
+  "path": "content/kernels/K182 \u2014 Small-wins tracking.md",
+  "prose_words": 100
+ },
+ {
+  "path": "content/kernels/K196 \u2014 Daily movement.md",
+  "prose_words": 100
+ },
+ {
+  "path": "content/kernels/K211 \u2014 Acts of kindness.md",
+  "prose_words": 100
+ },
+ {
+  "path": "content/kernels/K275 \u2014 Morning premeditation.md",
+  "prose_words": 100
+ },
+ {
+  "path": "content/kernels/K120 \u2014 The 90-second wave.md",
+  "prose_words": 101
+ },
+ {
+  "path": "content/kernels/K308 \u2014 Object-use phenomenology.md",
+  "prose_words": 101
+ },
+ {
+  "path": "content/kernels/K177 \u2014 Environment design.md",
+  "prose_words": 102
+ },
+ {
+  "path": "content/kernels/K167 \u2014 Equanimity under the eight worldly winds.md",
+  "prose_words": 103
+ },
+ {
+  "path": "content/kernels/K216 \u2014 Nonviolent communication.md",
+  "prose_words": 103
+ },
+ {
+  "path": "content/kernels/K242 \u2014 Daily architecture.md",
+  "prose_words": 103
+ },
+ {
+  "path": "content/kernels/K289 \u2014 Amends and restitution.md",
+  "prose_words": 103
+ },
+ {
+  "path": "content/kernels/K346 \u2014 The learning posture.md",
+  "prose_words": 103
+ },
+ {
+  "path": "content/kernels/K178 \u2014 Situation selection.md",
+  "prose_words": 104
+ },
+ {
+  "path": "content/kernels/K334 \u2014 Identity script revision.md",
+  "prose_words": 104
+ },
+ {
+  "path": "content/kernels/K323 \u2014 Daily making.md",
+  "prose_words": 105
+ },
+ {
+  "path": "content/kernels/K341 \u2014 The apology structure.md",
+  "prose_words": 105
+ },
+ {
+  "path": "content/kernels/K343 \u2014 Needs-before-solutions.md",
+  "prose_words": 105
+ },
+ {
+  "path": "content/kernels/K146 \u2014 Ego dissolution practice.md",
+  "prose_words": 106
+ },
+ {
+  "path": "content/kernels/K192 \u2014 Double-loop learning.md",
+  "prose_words": 106
+ },
+ {
+  "path": "content/kernels/K256 \u2014 The unity-of-virtue drill.md",
+  "prose_words": 106
+ },
+ {
+  "path": "content/kernels/K299 \u2014 Place-attachment practice.md",
+  "prose_words": 106
+ },
+ {
+  "path": "content/kernels/K125 \u2014 The empty boat reflection.md",
+  "prose_words": 107
+ },
+ {
+  "path": "content/kernels/K300 \u2014 Stewardship acts.md",
+  "prose_words": 107
+ },
+ {
+  "path": "content/kernels/K307 \u2014 Body-schema noticing.md",
+  "prose_words": 107
+ },
+ {
+  "path": "content/kernels/K344 \u2014 Reciprocal vulnerability.md",
+  "prose_words": 107
+ },
+ {
+  "path": "content/kernels/K349 \u2014 Act of repair.md",
+  "prose_words": 107
+ },
+ {
+  "path": "content/kernels/K121 \u2014 Dropping the struggle.md",
+  "prose_words": 108
+ },
+ {
+  "path": "content/kernels/K141 \u2014 Identity flexibility audit.md",
+  "prose_words": 109
+ },
+ {
+  "path": "content/kernels/K151 \u2014 Eulogy exercise.md",
+  "prose_words": 109
+ },
+ {
+  "path": "content/kernels/K154 \u2014 Mental contrasting (WOOP).md",
+  "prose_words": 109
+ },
+ {
+  "path": "content/kernels/K306 \u2014 Affordance walk.md",
+  "prose_words": 109
+ },
+ {
+  "path": "content/kernels/K255 \u2014 Virtue journaling.md",
+  "prose_words": 110
+ },
+ {
+  "path": "content/kernels/K127 \u2014 Cognitive reappraisal.md",
+  "prose_words": 111
+ },
+ {
+  "path": "content/kernels/K131 \u2014 Perspective-taking.md",
+  "prose_words": 111
+ },
+ {
+  "path": "content/kernels/K230 \u2014 Memento mori.md",
+  "prose_words": 111
+ },
+ {
+  "path": "content/kernels/K135 \u2014 Workability check.md",
+  "prose_words": 112
+ },
+ {
+  "path": "content/kernels/K153 \u2014 Implementation intentions.md",
+  "prose_words": 112
+ },
+ {
+  "path": "content/kernels/K172 \u2014 Body-first emotion work.md",
+  "prose_words": 112
+ },
+ {
+  "path": "content/kernels/K184 \u2014 Opposite action.md",
+  "prose_words": 112
+ },
+ {
+  "path": "content/kernels/K199 \u2014 Energy matching.md",
+  "prose_words": 112
+ },
+ {
+  "path": "content/kernels/K222 \u2014 Mortality reflection.md",
+  "prose_words": 112
+ },
+ {
+  "path": "content/kernels/K122 \u2014 Sitting with uncertainty.md",
+  "prose_words": 113
+ },
+ {
+  "path": "content/kernels/K325 \u2014 Divergent-option generation.md",
+  "prose_words": 113
+ },
+ {
+  "path": "content/kernels/K352 \u2014 Moral injury audit.md",
+  "prose_words": 113
+ },
+ {
+  "path": "content/kernels/K319 \u2014 Non-avoidant grief work.md",
+  "prose_words": 114
+ },
+ {
+  "path": "content/kernels/K331 \u2014 Play practice.md",
+  "prose_words": 114
+ },
+ {
+  "path": "content/kernels/K316 \u2014 Mortality-to-action translation.md",
+  "prose_words": 115
+ },
+ {
+  "path": "content/kernels/K339 \u2014 The third story.md",
+  "prose_words": 115
+ },
+ {
+  "path": "content/kernels/K107 \u2014 Soft fascination.md",
+  "prose_words": 116
+ },
+ {
+  "path": "content/kernels/K274 \u2014 Evening examination.md",
+  "prose_words": 116
+ },
+ {
+  "path": "content/kernels/K353 \u2014 Values-based decision review.md",
+  "prose_words": 116
+ },
+ {
+  "path": "content/kernels/K338 \u2014 Restorative conversation.md",
+  "prose_words": 117
+ },
+ {
+  "path": "content/kernels/K332 \u2014 Life chapter mapping.md",
+  "prose_words": 118
+ },
+ {
+  "path": "content/kernels/K340 \u2014 Repair-before-resolve.md",
+  "prose_words": 118
+ },
+ {
+  "path": "content/kernels/K357 \u2014 Shared attention.md",
+  "prose_words": 118
+ },
+ {
+  "path": "content/kernels/K174 \u2014 Behavioral activation.md",
+  "prose_words": 119
+ },
+ {
+  "path": "content/kernels/K257 \u2014 Habituation by design.md",
+  "prose_words": 119
+ },
+ {
+  "path": "content/kernels/K263 \u2014 Post-action phronesis review.md",
+  "prose_words": 119
+ },
+ {
+  "path": "content/kernels/K365 \u2014 Public reasoning.md",
+  "prose_words": 119
+ },
+ {
+  "path": "content/kernels/K267 \u2014 Controllability sorting.md",
+  "prose_words": 120
+ },
+ {
+  "path": "content/kernels/K309 \u2014 Intersubjective presence.md",
+  "prose_words": 120
+ },
+ {
+  "path": "content/kernels/K336 \u2014 Contamination sequence audit.md",
+  "prose_words": 120
+ },
+ {
+  "path": "content/kernels/K363 \u2014 The deliberative practice.md",
+  "prose_words": 120
+ },
+ {
+  "path": "content/kernels/K117 \u2014 Graded exposure.md",
+  "prose_words": 122
+ },
+ {
+  "path": "content/kernels/K142 \u2014 Narrative reconstruction.md",
+  "prose_words": 122
+ },
+ {
+  "path": "content/kernels/K213 \u2014 Prosocial spending.md",
+  "prose_words": 122
+ },
+ {
+  "path": "content/kernels/K328 \u2014 Aesthetic attention.md",
+  "prose_words": 122
+ },
+ {
+  "path": "content/kernels/K342 \u2014 The caring response.md",
+  "prose_words": 122
+ },
+ {
+  "path": "content/kernels/K355 \u2014 Synchrony practice.md",
+  "prose_words": 122
+ },
+ {
+  "path": "content/kernels/K318 \u2014 Absurd-revolt practice.md",
+  "prose_words": 123
+ },
+ {
+  "path": "content/kernels/K281 \u2014 Desire inventory.md",
+  "prose_words": 124
+ },
+ {
+  "path": "content/kernels/K132 \u2014 The pragmatic maxim.md",
+  "prose_words": 125
+ },
+ {
+  "path": "content/kernels/K252 \u2014 Moral exemplar modelling.md",
+  "prose_words": 125
+ },
+ {
+  "path": "content/kernels/K264 \u2014 Deliberation timeout.md",
+  "prose_words": 125
+ },
+ {
+  "path": "content/kernels/K311 \u2014 Responsibility inventory.md",
+  "prose_words": 125
+ },
+ {
+  "path": "content/kernels/K148 \u2014 Variation against the story.md",
+  "prose_words": 126
+ },
+ {
+  "path": "content/kernels/K205 \u2014 Nature exposure.md",
+  "prose_words": 126
+ },
+ {
+  "path": "content/kernels/K305 \u2014 Bracketing interpretation.md",
+  "prose_words": 126
+ },
+ {
+  "path": "content/kernels/K330 \u2014 Value-creation audit.md",
+  "prose_words": 126
+ },
+ {
+  "path": "content/kernels/K315 \u2014 Freedom in constraint.md",
+  "prose_words": 127
+ },
+ {
+  "path": "content/kernels/K337 \u2014 Interest-based framing.md",
+  "prose_words": 128
+ },
+ {
+  "path": "content/kernels/K351 \u2014 The meaning question.md",
+  "prose_words": 128
+ },
+ {
+  "path": "content/kernels/K254 \u2014 Character feedback loop.md",
+  "prose_words": 129
+ },
+ {
+  "path": "content/kernels/K304 \u2014 Lived-body description.md",
+  "prose_words": 129
+ },
+ {
+  "path": "content/kernels/K139 \u2014 Self-as-context.md",
+  "prose_words": 130
+ },
+ {
+  "path": "content/kernels/K356 \u2014 The face practice.md",
+  "prose_words": 130
+ },
+ {
+  "path": "content/kernels/K358 \u2014 Stakeholder impact scan.md",
+  "prose_words": 130
+ },
+ {
+  "path": "content/kernels/K271 \u2014 The is this up to me check.md",
+  "prose_words": 131
+ },
+ {
+  "path": "content/kernels/K272 \u2014 Catastrophe testing.md",
+  "prose_words": 131
+ },
+ {
+  "path": "content/kernels/K290 \u2014 Prosocial courage drill.md",
+  "prose_words": 132
+ },
+ {
+  "path": "content/kernels/K314 \u2014 Anxiety-as-signal.md",
+  "prose_words": 132
+ },
+ {
+  "path": "content/kernels/K359 \u2014 The institutional mirror.md",
+  "prose_words": 132
+ },
+ {
+  "path": "content/kernels/K231 \u2014 Living the question.md",
+  "prose_words": 133
+ },
+ {
+  "path": "content/kernels/K291 \u2014 Equity scan.md",
+  "prose_words": 133
+ },
+ {
+  "path": "content/kernels/K333 \u2014 Redemptive sequence writing.md",
+  "prose_words": 134
+ },
+ {
+  "path": "content/kernels/K362 \u2014 Civic courage drill.md",
+  "prose_words": 134
+ },
+ {
+  "path": "content/kernels/K179 \u2014 Deliberate practice.md",
+  "prose_words": 136
+ },
+ {
+  "path": "content/kernels/K278 \u2014 Wanting-versus-liking separation.md",
+  "prose_words": 136
+ },
+ {
+  "path": "content/kernels/K313 \u2014 Project alignment.md",
+  "prose_words": 136
+ },
+ {
+  "path": "content/kernels/K280 \u2014 Gratitude for sufficiency.md",
+  "prose_words": 137
+ },
+ {
+  "path": "content/kernels/K317 \u2014 Tragic optimism.md",
+  "prose_words": 137
+ },
+ {
+  "path": "content/kernels/K283 \u2014 Role-conflict deliberation.md",
+  "prose_words": 138
+ },
+ {
+  "path": "content/kernels/K361 \u2014 Institutional feedback loop.md",
+  "prose_words": 138
+ },
+ {
+  "path": "content/kernels/K262 \u2014 Pre-decision review.md",
+  "prose_words": 139
+ },
+ {
+  "path": "content/kernels/K282 \u2014 Role inventory.md",
+  "prose_words": 139
+ },
+ {
+  "path": "content/kernels/K310 \u2014 Bad-faith detection.md",
+  "prose_words": 139
+ },
+ {
+  "path": "content/kernels/K320 \u2014 Values coherence check.md",
+  "prose_words": 139
+ },
+ {
+  "path": "content/kernels/K126 \u2014 Cognitive defusion.md",
+  "prose_words": 140
+ },
+ {
+  "path": "content/kernels/K261 \u2014 Self-distanced reflection.md",
+  "prose_words": 141
+ },
+ {
+  "path": "content/kernels/K284 \u2014 The what does this role require practice.md",
+  "prose_words": 141
+ },
+ {
+  "path": "content/kernels/K285 \u2014 Duty-to-person mapping.md",
+  "prose_words": 141
+ },
+ {
+  "path": "content/kernels/K288 \u2014 Voice-inclusion check.md",
+  "prose_words": 141
+ },
+ {
+  "path": "content/kernels/K364 \u2014 Cosmopolitan reflection.md",
+  "prose_words": 141
+ },
+ {
+  "path": "content/kernels/K270 \u2014 Evidence-versus-interpretation drill.md",
+  "prose_words": 144
+ },
+ {
+  "path": "content/kernels/K273 \u2014 The view from above.md",
+  "prose_words": 147
+ },
+ {
+  "path": "content/kernels/K287 \u2014 Fairness audit.md",
+  "prose_words": 147
+ },
+ {
+  "path": "content/kernels/K321 \u2014 Dignity conversation.md",
+  "prose_words": 147
+ },
+ {
+  "path": "content/kernels/K149 \u2014 Values clarification.md",
+  "prose_words": 148
+ },
+ {
+  "path": "content/kernels/K312 \u2014 Authentic-choice audit.md",
+  "prose_words": 149
+ }
+]

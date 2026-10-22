@@ -1,0 +1,602 @@
+[
+ {
+  "thinker": "Aristotle",
+  "mentions": 722,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A002 \u2014 Live according to your function (ergon).md",
+   "content/principles/A003 \u2014 Make virtue your primary investment.md",
+   "content/principles/A004 \u2014 Become virtuous by doing virtuous acts.md",
+   "content/principles/A005 \u2014 Choose the mean, not the extreme.md",
+   "content/principles/A006 \u2014 Expect flourishing to require external goods.md",
+   "content/principles/A007 \u2014 Let reason (logos) guide desire (orexis).md",
+   "content/principles/A008 \u2014 Accept that flourishing takes a whole life.md"
+  ],
+  "id": "T002"
+ },
+ {
+  "thinker": "William James",
+  "mentions": 506,
+  "evidence": [
+   "content/principles/A004 \u2014 Become virtuous by doing virtuous acts.md",
+   "content/principles/A033 \u2014 Cultivate intelligence (nous).md",
+   "content/principles/A054 \u2014 Choose deliberately (prohairesis).md",
+   "content/principles/A076 \u2014 Practise friendship across difference.md",
+   "content/principles/A088 \u2014 Recognise that pleasure varies with the activity.md",
+   "content/principles/A089 \u2014 Practise contemplation (theoria).md",
+   "content/principles/A090 \u2014 Recognise that the theoretical life is not for everyone.md",
+   "content/principles/A111 \u2014 Practise leisure (schol\u0113) as the end of work.md"
+  ],
+  "id": "T003"
+ },
+ {
+  "thinker": "Plato",
+  "mentions": 484,
+  "evidence": [
+   "content/principles/A007 \u2014 Let reason (logos) guide desire (orexis).md",
+   "content/principles/A009 \u2014 Pursue kalokagathia \u2014 nobility-and-goodness as a unified ideal.md",
+   "content/principles/A023 \u2014 Practice justice (dikaiosyne).md",
+   "content/principles/A031 \u2014 Cultivate understanding (synesis).md",
+   "content/principles/A037 \u2014 Distinguish cleverness (deinotes) from practical wisdom.md",
+   "content/principles/A040 \u2014 Practise the unity of the virtues.md",
+   "content/principles/A041 \u2014 Know that virtue aims at the beautiful (to kalon).md",
+   "content/principles/A047 \u2014 Let practical wisdom unify the virtues.md"
+  ],
+  "id": "T004"
+ },
+ {
+  "thinker": "John Dewey",
+  "mentions": 283,
+  "evidence": [
+   "content/principles/A004 \u2014 Become virtuous by doing virtuous acts.md",
+   "content/principles/A006 \u2014 Expect flourishing to require external goods.md",
+   "content/principles/A009 \u2014 Pursue kalokagathia \u2014 nobility-and-goodness as a unified ideal.md",
+   "content/principles/A032 \u2014 Cultivate good deliberation (euboulia).md",
+   "content/principles/A035 \u2014 Cultivate art and craft (techne).md",
+   "content/principles/A038 \u2014 Cultivate practical judgment (gnome).md",
+   "content/principles/A039 \u2014 Value experience over theory in practical matters.md",
+   "content/principles/A041 \u2014 Know that virtue aims at the beautiful (to kalon).md"
+  ],
+  "id": "T005"
+ },
+ {
+  "thinker": "Spinoza",
+  "mentions": 218,
+  "evidence": [
+   "content/principles/A002 \u2014 Live according to your function (ergon).md",
+   "content/principles/A007 \u2014 Let reason (logos) guide desire (orexis).md",
+   "content/principles/A013 \u2014 Practice generosity (eleutheriotes).md",
+   "content/principles/A094 \u2014 Recognise the divine in the human.md",
+   "content/principles/AF001 \u2014 Treat affect as information, not as verdict.md",
+   "content/principles/AF004 \u2014 Cultivate emotional granularity \u2014 name feelings precisely.md",
+   "content/principles/AF044 \u2014 Recognise secondary emotions \u2014 feelings about feelings.md",
+   "content/principles/AF061 \u2014 Cultivate positive affect deliberately \u2014 it broadens and builds.md"
+  ],
+  "id": "T006"
+ },
+ {
+  "thinker": "Friedrich Nietzsche",
+  "mentions": 206,
+  "evidence": [
+   "content/principles/A010 \u2014 Recognise that fortune can overturn happiness.md",
+   "content/principles/A015 \u2014 Practice magnanimity (megalopsychia).md",
+   "content/principles/A055 \u2014 Understand that you are responsible for your character.md",
+   "content/principles/A062 \u2014 Recognise that choice reveals character.md",
+   "content/principles/AF009 \u2014 Understand that affect is constructed, not discovered.md",
+   "content/principles/AF022 \u2014 Recognise affective contagion in groups; do not mistake it for your own feeling.md",
+   "content/principles/AF023 \u2014 Know that affect changes memory; do not trust emotional memory as a record.md",
+   "content/principles/AF035 \u2014 Recognise that avoidance is negatively reinforcing \u2014 it works short-term and maintains suffering long-term.md"
+  ],
+  "id": "T007"
+ },
+ {
+  "thinker": "Zhuangzi",
+  "mentions": 195,
+  "evidence": [
+   "content/principles/A026 \u2014 Practice patience with others' faults.md",
+   "content/principles/A039 \u2014 Value experience over theory in practical matters.md",
+   "content/principles/A043 \u2014 Develop phronesis \u2014 practical wisdom.md",
+   "content/principles/A074 \u2014 Be generous in interpreting friends' actions.md",
+   "content/principles/A115 \u2014 Understand anger (orge).md",
+   "content/principles/AF014 \u2014 Recognise emotional inertia \u2014 the difference between feeling and getting stuck.md",
+   "content/principles/AF028 \u2014 Master emotional regulation flexibility \u2014 the skill is matching strategy to context.md",
+   "content/principles/AF081 \u2014 Recognise neurodivergent affect \u2014 it is not disordered.md"
+  ],
+  "id": "T008"
+ },
+ {
+  "thinker": "Epictetus",
+  "mentions": 190,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A054 \u2014 Choose deliberately (prohairesis).md",
+   "content/principles/A116 \u2014 Understand fear (phobos).md",
+   "content/principles/AF001 \u2014 Treat affect as information, not as verdict.md",
+   "content/principles/AF002 \u2014 Distinguish the feeling from its interpretation.md",
+   "content/principles/AF024 \u2014 Recognise affect's relationship to motivation; use it, do not obey it.md",
+   "content/principles/AF026 \u2014 Prefer cognitive reappraisal over suppression when possible.md",
+   "content/principles/AF027 \u2014 But do not reappraise everything; reappraisal has limits.md"
+  ],
+  "id": "T009"
+ },
+ {
+  "thinker": "Marcus",
+  "mentions": 185,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A010 \u2014 Recognise that fortune can overturn happiness.md",
+   "content/principles/A011 \u2014 Practice courage (andreia).md",
+   "content/principles/A028 \u2014 Practice resilience in adversity.md",
+   "content/principles/A075 \u2014 Recognise that friendships change over time.md",
+   "content/principles/A086 \u2014 Recognise that pain is not always bad.md",
+   "content/principles/AF026 \u2014 Prefer cognitive reappraisal over suppression when possible.md",
+   "content/principles/AF041 \u2014 Learn distress tolerance \u2014 the capacity to bear intense affect without making it worse.md"
+  ],
+  "id": "T010"
+ },
+ {
+  "thinker": "Socrates",
+  "mentions": 184,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A002 \u2014 Live according to your function (ergon).md",
+   "content/principles/A010 \u2014 Recognise that fortune can overturn happiness.md",
+   "content/principles/A019 \u2014 Practice truthfulness (aletheia).md",
+   "content/principles/A031 \u2014 Cultivate understanding (synesis).md",
+   "content/principles/A033 \u2014 Cultivate intelligence (nous).md",
+   "content/principles/A036 \u2014 Cultivate theoretical wisdom (sophia).md",
+   "content/principles/A037 \u2014 Distinguish cleverness (deinotes) from practical wisdom.md"
+  ],
+  "id": "T011"
+ },
+ {
+  "thinker": "Laozi",
+  "mentions": 180,
+  "evidence": [
+   "content/principles/A003 \u2014 Make virtue your primary investment.md",
+   "content/principles/A017 \u2014 Practice gentleness (praotes).md",
+   "content/principles/A024 \u2014 Practice liberality with your resources.md",
+   "content/principles/A027 \u2014 Practice modesty in prosperity.md",
+   "content/principles/A048 \u2014 Act in the right way, at the right time, toward the right objects, in the right manner.md",
+   "content/principles/A095 \u2014 Practise self-sufficiency (autarkeia).md",
+   "content/principles/AT011 \u2014 Recognise that attention can be open or closed \u2014 both are needed.md",
+   "content/principles/AT031 \u2014 Cultivate attentional endurance \u2014 build capacity gradually.md"
+  ],
+  "id": "T012"
+ },
+ {
+  "thinker": "Seneca",
+  "mentions": 167,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A016 \u2014 Practice proper ambition (philotimia).md",
+   "content/principles/A053 \u2014 Act voluntarily.md",
+   "content/principles/AF008 \u2014 Know the negativity bias; correct for it deliberately.md",
+   "content/principles/AF013 \u2014 Train emotional recovery \u2014 the ability to return to baseline.md",
+   "content/principles/AF059 \u2014 Work with disappointment \u2014 it is the gap between expectation and reality.md",
+   "content/principles/AF062 \u2014 Savour positive experiences \u2014 deliberately attend to and amplify them.md",
+   "content/principles/AF063 \u2014 Practise gratitude \u2014 it recalibrates attention toward what is good.md"
+  ],
+  "id": "T013"
+ },
+ {
+  "thinker": "Marcus Aurelius",
+  "mentions": 165,
+  "evidence": [
+   "content/principles/A010 \u2014 Recognise that fortune can overturn happiness.md",
+   "content/principles/A011 \u2014 Practice courage (andreia).md",
+   "content/principles/A028 \u2014 Practice resilience in adversity.md",
+   "content/principles/A075 \u2014 Recognise that friendships change over time.md",
+   "content/principles/A086 \u2014 Recognise that pain is not always bad.md",
+   "content/principles/AF026 \u2014 Prefer cognitive reappraisal over suppression when possible.md",
+   "content/principles/AF041 \u2014 Learn distress tolerance \u2014 the capacity to bear intense affect without making it worse.md",
+   "content/principles/AF052 \u2014 Learn to grieve \u2014 grief is a process, not a problem to solve.md"
+  ],
+  "id": "T014"
+ },
+ {
+  "thinker": "Ryan",
+  "mentions": 141,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A007 \u2014 Let reason (logos) guide desire (orexis).md",
+   "content/principles/A008 \u2014 Accept that flourishing takes a whole life.md",
+   "content/principles/A009 \u2014 Pursue kalokagathia \u2014 nobility-and-goodness as a unified ideal.md",
+   "content/principles/A024 \u2014 Practice liberality with your resources.md",
+   "content/principles/A040 \u2014 Practise the unity of the virtues.md",
+   "content/principles/A041 \u2014 Know that virtue aims at the beautiful (to kalon).md",
+   "content/principles/A047 \u2014 Let practical wisdom unify the virtues.md"
+  ],
+  "id": "T015"
+ },
+ {
+  "thinker": "Confucius",
+  "mentions": 109,
+  "evidence": [
+   "content/principles/A018 \u2014 Practice friendliness (philia).md",
+   "content/principles/A120 \u2014 Understand emulation (zelos).md",
+   "content/principles/AF015 \u2014 Do not fear emotional variability; fear its absence.md",
+   "content/principles/AF021 \u2014 Understand affective presence \u2014 your feelings influence others' feelings.md",
+   "content/principles/AF065 \u2014 Cultivate compassion \u2014 it is sustainable empathy plus concern.md",
+   "content/principles/AT051 \u2014 Learn loving-kindness meditation \u2014 attention oriented toward warmth.md",
+   "content/principles/AT056 \u2014 Learn to use attentional cues and rituals \u2014 structure supports focus.md",
+   "content/principles/BE045 \u2014 Learn to use routines and rituals \u2014 structure supports well-being.md"
+  ],
+  "id": "T016"
+ },
+ {
+  "thinker": "Carl Rogers",
+  "mentions": 104,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A008 \u2014 Accept that flourishing takes a whole life.md",
+   "content/principles/A030 \u2014 Practice integrity \u2014 consistency between thought, word, and deed.md",
+   "content/principles/A060 \u2014 Forgive but do not excuse.md",
+   "content/principles/A065 \u2014 Wish good for your friend for their own sake.md",
+   "content/principles/A121 \u2014 Practise persuasion through ethos.md",
+   "content/principles/AF075 \u2014 Learn emotional validation \u2014 acknowledging a feeling reduces its intensity.md",
+   "content/principles/AT057 \u2014 Cultivate attentional presence in relationships \u2014 attend to others.md"
+  ],
+  "id": "T017"
+ },
+ {
+  "thinker": "Kierkegaard",
+  "mentions": 102,
+  "evidence": [
+   "content/principles/A053 \u2014 Act voluntarily.md",
+   "content/principles/A061 \u2014 Distinguish the involuntary from the non-voluntary.md",
+   "content/principles/AF017 \u2014 Recognise that positive and negative affect are not opposite ends of one axis.md",
+   "content/principles/AF022 \u2014 Recognise affective contagion in groups; do not mistake it for your own feeling.md",
+   "content/principles/AF047 \u2014 Understand fear's function \u2014 it prepares you for threat.md",
+   "content/principles/AF049 \u2014 Learn to work with panic \u2014 panic is fear of fear.md",
+   "content/principles/AF051 \u2014 Recognise the difference between sadness and depression.md",
+   "content/principles/AF080 \u2014 Recognise bipolar disorder's specific affective pattern \u2014 it is not mood variability.md"
+  ],
+  "id": "T018"
+ },
+ {
+  "thinker": "James Gross",
+  "mentions": 90,
+  "evidence": [
+   "content/principles/A005 \u2014 Choose the mean, not the extreme.md",
+   "content/principles/A017 \u2014 Practice gentleness (praotes).md",
+   "content/principles/A029 \u2014 Practice the right kind of anger.md",
+   "content/principles/A115 \u2014 Understand anger (orge).md",
+   "content/principles/AF002 \u2014 Distinguish the feeling from its interpretation.md",
+   "content/principles/AF024 \u2014 Recognise affect's relationship to motivation; use it, do not obey it.md",
+   "content/principles/AF025 \u2014 Learn the full regulation toolkit \u2014 it is larger than calm down..md",
+   "content/principles/AF026 \u2014 Prefer cognitive reappraisal over suppression when possible.md"
+  ],
+  "id": "T019"
+ },
+ {
+  "thinker": "Immanuel Kant",
+  "mentions": 80,
+  "evidence": [
+   "content/principles/A103 \u2014 Recognise that some actions are always wrong.md",
+   "content/principles/AF064 \u2014 Cultivate awe \u2014 it expands the self by diminishing it.md",
+   "content/principles/AT002 \u2014 Know that attention has three networks \u2014 alerting, orienting, and executive control.md",
+   "content/principles/AT040 \u2014 Recognise the restorative power of awe \u2014 vastness expands attention.md",
+   "content/principles/B023 \u2014 Practice right speech.md",
+   "content/principles/B024 \u2014 Practice right action \u2014 non-harm.md",
+   "content/principles/B122 \u2014 Use two truths (conventional and ultimate).md",
+   "content/principles/B144 \u2014 Harm none \u2014 the baseline of practice (ahimsa).md"
+  ],
+  "id": "T020"
+ },
+ {
+  "thinker": "Viktor Frankl",
+  "mentions": 71,
+  "evidence": [
+   "content/principles/A014 \u2014 Practice magnificence (megaloprepeia).md",
+   "content/principles/AF046 \u2014 Know that tolerance is not the goal; valued living is.md",
+   "content/principles/AF072 \u2014 Recognise that positive affect alone is not flourishing; it is one component.md",
+   "content/principles/AT004 \u2014 Understand that attention can be captured (bottom-up) or directed (top-down).md",
+   "content/principles/BE017 \u2014 Learn to schedule valued activities \u2014 meaning-driven behaviour.md",
+   "content/principles/BE061 \u2014 Engage in helping behaviour \u2014 contribute to others.md",
+   "content/principles/D078 \u2014 Wander free and easy (xiaoyao you).md",
+   "content/principles/D087 \u2014 Hold identity lightly.md"
+  ],
+  "id": "T021"
+ },
+ {
+  "thinker": "Bandura",
+  "mentions": 66,
+  "evidence": [
+   "content/principles/A037 \u2014 Distinguish cleverness (deinotes) from practical wisdom.md",
+   "content/principles/A053 \u2014 Act voluntarily.md",
+   "content/principles/A059 \u2014 Distinguish incontinence from vice.md",
+   "content/principles/A069 \u2014 Seek concord (homonoia).md",
+   "content/principles/B083 \u2014 Meet doubt with investigation (hindrance 5).md",
+   "content/principles/B161 \u2014 If you meet the Buddha, kill him.md",
+   "content/principles/B195 \u2014 Be a lamp unto yourself.md",
+   "content/principles/BE004 \u2014 Understand that behaviour is learned \u2014 skills can be acquired.md"
+  ],
+  "id": "T022"
+ },
+ {
+  "thinker": "Daniel Kahneman",
+  "mentions": 63,
+  "evidence": [
+   "content/principles/A006 \u2014 Expect flourishing to require external goods.md",
+   "content/principles/A033 \u2014 Cultivate intelligence (nous).md",
+   "content/principles/A039 \u2014 Value experience over theory in practical matters.md",
+   "content/principles/A056 \u2014 Recognise akrasia \u2014 weakness of will.md",
+   "content/principles/A059 \u2014 Distinguish incontinence from vice.md",
+   "content/principles/AF020 \u2014 Distinguish pleasure from satisfaction; they are different systems.md",
+   "content/principles/AF071 \u2014 Recognise the peak-end rule \u2014 memory of experiences is shaped by peaks and endings.md",
+   "content/principles/AT026 \u2014 Learn to enter flow \u2014 the state of full attentional absorption.md"
+  ],
+  "id": "T023"
+ },
+ {
+  "thinker": "Martin Seligman",
+  "mentions": 61,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A003 \u2014 Make virtue your primary investment.md",
+   "content/principles/A012 \u2014 Practice temperance (sophrosyne).md",
+   "content/principles/AF072 \u2014 Recognise that positive affect alone is not flourishing; it is one component.md",
+   "content/principles/AT021 \u2014 Learn to attend to the positive deliberately \u2014 attention training for well-being.md",
+   "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+   "content/principles/BE055 \u2014 Learn to express gratitude behaviourally \u2014 thank others.md",
+   "content/principles/CO070 \u2014 Cultivate epistemic curiosity \u2014 the drive to know for its own sake.md"
+  ],
+  "id": "T024"
+ },
+ {
+  "thinker": "Aaron Beck",
+  "mentions": 51,
+  "evidence": [
+   "content/principles/A115 \u2014 Understand anger (orge).md",
+   "content/principles/A116 \u2014 Understand fear (phobos).md",
+   "content/principles/AT020 \u2014 Recognise attentional bias \u2014 anxiety and depression distort what you notice.md",
+   "content/principles/AT071 \u2014 Recognise depression's effect on attention \u2014 negative bias and rumination.md",
+   "content/principles/BE009 \u2014 Know that behaviour is shaped gradually \u2014 small steps build large changes.md",
+   "content/principles/BE015 \u2014 Learn to use graded task assignment \u2014 break tasks into achievable steps.md",
+   "content/principles/BE020 \u2014 Learn to use behavioural experiments \u2014 test beliefs through action.md",
+   "content/principles/CO050 \u2014 Learn to question your thoughts \u2014 not every thought deserves belief.md"
+  ],
+  "id": "T025"
+ },
+ {
+  "thinker": "Barbara Fredrickson",
+  "mentions": 49,
+  "evidence": [
+   "content/principles/A088 \u2014 Recognise that pleasure varies with the activity.md",
+   "content/principles/AF061 \u2014 Cultivate positive affect deliberately \u2014 it broadens and builds.md",
+   "content/principles/AF065 \u2014 Cultivate compassion \u2014 it is sustainable empathy plus concern.md",
+   "content/principles/AT011 \u2014 Recognise that attention can be open or closed \u2014 both are needed.md",
+   "content/principles/AT017 \u2014 Learn to use attention as a spotlight \u2014 narrow for focus, broad for context.md",
+   "content/principles/AT051 \u2014 Learn loving-kindness meditation \u2014 attention oriented toward warmth.md",
+   "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+   "content/principles/B051 \u2014 Practice loving-kindness (metta).md"
+  ],
+  "id": "T026"
+ },
+ {
+  "thinker": "Abraham Maslow",
+  "mentions": 44,
+  "evidence": [
+   "content/principles/A001 \u2014 Make eudaimonia the organising end of your life.md",
+   "content/principles/A002 \u2014 Live according to your function (ergon).md",
+   "content/principles/A083 \u2014 Recognise that bodily pleasures are not the highest.md",
+   "content/principles/A120 \u2014 Understand emulation (zelos).md",
+   "content/principles/D057 \u2014 Enter flow.md",
+   "content/principles/E097 \u2014 Practise transcendence.md",
+   "content/principles/E103 \u2014 Practise self-overcoming (Selbst\u00fcberwindung).md",
+   "content/principles/E109 \u2014 Practise the overman (\u00dcbermensch).md"
+  ],
+  "id": "T027"
+ },
+ {
+  "thinker": "Erich Fromm",
+  "mentions": 42,
+  "evidence": [
+   "content/principles/A016 \u2014 Practice proper ambition (philotimia).md",
+   "content/principles/A024 \u2014 Practice liberality with your resources.md",
+   "content/principles/A079 \u2014 Do not demonise pleasure.md",
+   "content/principles/A082 \u2014 Distinguish good pleasures from bad pleasures.md",
+   "content/principles/A093 \u2014 Take proper pleasure in the right things.md",
+   "content/principles/B025 \u2014 Practice right livelihood.md",
+   "content/principles/B073 \u2014 Hold experience loosely (non-attachment).md",
+   "content/principles/B110 \u2014 Distinguish need from craving.md"
+  ],
+  "id": "T028"
+ },
+ {
+  "thinker": "David Hume",
+  "mentions": 41,
+  "evidence": [
+   "content/principles/AF024 \u2014 Recognise affect's relationship to motivation; use it, do not obey it.md",
+   "content/principles/B003 \u2014 Hold the self lightly (anatta).md",
+   "content/principles/B075 \u2014 The thinker is another thought.md",
+   "content/principles/B119 \u2014 The self is a chariot \u2014 parts without an essence.md",
+   "content/principles/B126 \u2014 Hold the four views lightly.md",
+   "content/principles/BE020 \u2014 Learn to use behavioural experiments \u2014 test beliefs through action.md",
+   "content/principles/CO003 \u2014 Know that thinking has limited capacity \u2014 cognitive load is real.md",
+   "content/principles/CO020 \u2014 Know the base rate neglect \u2014 you ignore background frequencies.md"
+  ],
+  "id": "T029"
+ },
+ {
+  "thinker": "Marsha Linehan",
+  "mentions": 40,
+  "evidence": [
+   "content/principles/AF041 \u2014 Learn distress tolerance \u2014 the capacity to bear intense affect without making it worse.md",
+   "content/principles/AF042 \u2014 Practise opposite action \u2014 do the opposite of what the feeling urges.md",
+   "content/principles/AF075 \u2014 Learn emotional validation \u2014 acknowledging a feeling reduces its intensity.md",
+   "content/principles/B124 \u2014 Meet suchness \u2014 things as they are.md",
+   "content/principles/B183 \u2014 Ride strong emotions without acting.md",
+   "content/principles/B189 \u2014 Ground in the body.md",
+   "content/principles/BE004 \u2014 Understand that behaviour is learned \u2014 skills can be acquired.md",
+   "content/principles/BE021 \u2014 Learn to use behavioural rehearsal \u2014 practise before performing.md"
+  ],
+  "id": "T030"
+ },
+ {
+  "thinker": "Simone Weil",
+  "mentions": 39,
+  "evidence": [
+   "content/principles/AT015 \u2014 Learn to filter \u2014 not all information deserves attention.md",
+   "content/principles/AT027 \u2014 Recognise the conditions for deep work \u2014 environment, time, and energy.md",
+   "content/principles/AT029 \u2014 Recognise the costs of interruption \u2014 attention does not switch instantly.md",
+   "content/principles/AT054 \u2014 Learn to train attention through deliberate practice \u2014 not just meditation.md",
+   "content/principles/AT064 \u2014 Learn to create a distraction-free environment \u2014 physical and digital.md",
+   "content/principles/AT068 \u2014 Learn to protect attentional time \u2014 the most valuable resource.md",
+   "content/principles/B011 \u2014 Make mindfulness the master tool (sati).md",
+   "content/principles/B027 \u2014 Develop right mindfulness (samma sati).md"
+  ],
+  "id": "T031"
+ },
+ {
+  "thinker": "Kristin Neff",
+  "mentions": 36,
+  "evidence": [
+   "content/principles/A060 \u2014 Forgive but do not excuse.md",
+   "content/principles/A066 \u2014 Be a friend to yourself first.md",
+   "content/principles/A071 \u2014 Recognise that self-love is the foundation.md",
+   "content/principles/AF065 \u2014 Cultivate compassion \u2014 it is sustainable empathy plus concern.md",
+   "content/principles/AF066 \u2014 Cultivate self-compassion \u2014 treat yourself as you would a good friend.md",
+   "content/principles/B097 \u2014 Wish well, starting with yourself.md",
+   "content/principles/B158 \u2014 Everyone wants to be happy.md",
+   "content/principles/BI051 \u2014 Learn to use touch \u2014 self-soothing through contact.md"
+  ],
+  "id": "T032"
+ },
+ {
+  "thinker": "Thich Nhat Hanh",
+  "mentions": 36,
+  "evidence": [
+   "content/principles/B012 \u2014 Practice only happens now.md",
+   "content/principles/B015 \u2014 Nothing exists alone (interbeing).md",
+   "content/principles/B121 \u2014 Form is emptiness, emptiness is form (Heart Sutra).md",
+   "content/principles/B143 \u2014 Emptiness is relational fullness.md",
+   "content/principles/B147 \u2014 Listen deeply.md",
+   "content/principles/B148 \u2014 Speak lovingly.md",
+   "content/principles/B156 \u2014 Engage the world's suffering (engaged Buddhism).md",
+   "content/principles/B165 \u2014 Peace begins in your own mind.md"
+  ],
+  "id": "T033"
+ },
+ {
+  "thinker": "Jonathan Haidt",
+  "mentions": 34,
+  "evidence": [
+   "content/principles/A021 \u2014 Practice shame (aidos).md",
+   "content/principles/A023 \u2014 Practice justice (dikaiosyne).md",
+   "content/principles/A052 \u2014 Know when to depart from rules.md",
+   "content/principles/A061 \u2014 Distinguish the involuntary from the non-voluntary.md",
+   "content/principles/A094 \u2014 Recognise the divine in the human.md",
+   "content/principles/A098 \u2014 Recognise natural justice (physikon dikaion).md",
+   "content/principles/A101 \u2014 Recognise that law is a teacher.md",
+   "content/principles/A103 \u2014 Recognise that some actions are always wrong.md"
+  ],
+  "id": "T034"
+ },
+ {
+  "thinker": "Carol Dweck",
+  "mentions": 32,
+  "evidence": [
+   "content/principles/A055 \u2014 Understand that you are responsible for your character.md",
+   "content/principles/A106 \u2014 Recognise that virtue is taught through habituation.md",
+   "content/principles/A120 \u2014 Understand emulation (zelos).md",
+   "content/principles/B048 \u2014 Keep beginner's mind (shoshin).md",
+   "content/principles/D045 \u2014 Keep the empty cup.md",
+   "content/principles/M001 \u2014 See the world as one flowing, sacred energy.md",
+   "content/principles/MO008 \u2014 Know that motivation is trainable \u2014 it can be built and shaped.md",
+   "content/principles/MO020 \u2014 Recognise mastery vs performance goals \u2014 learning vs proving.md"
+  ],
+  "id": "T035"
+ },
+ {
+  "thinker": "Robert Emmons",
+  "mentions": 31,
+  "evidence": [
+   "content/principles/A027 \u2014 Practice modesty in prosperity.md",
+   "content/principles/AF063 \u2014 Practise gratitude \u2014 it recalibrates attention toward what is good.md",
+   "content/principles/B104 \u2014 Practice patience (kshanti).md",
+   "content/principles/B111 \u2014 Rest in contentment \u2014 the greatest wealth.md",
+   "content/principles/B112 \u2014 Practice gratitude \u2014 recognize your conditions.md",
+   "content/principles/BE055 \u2014 Learn to express gratitude behaviourally \u2014 thank others.md",
+   "content/principles/D030 \u2014 Contentment is the greatest wealth.md",
+   "content/principles/D058 \u2014 Don't rush.md"
+  ],
+  "id": "T036"
+ },
+ {
+  "thinker": "Christopher Peterson",
+  "mentions": 30,
+  "evidence": [
+   "content/principles/A003 \u2014 Make virtue your primary investment.md",
+   "content/principles/AT021 \u2014 Learn to attend to the positive deliberately \u2014 attention training for well-being.md",
+   "content/principles/CO059 \u2014 Recognise rosy retrospection \u2014 the past is remembered more fondly than it was experienced.md",
+   "content/principles/CO070 \u2014 Cultivate epistemic curiosity \u2014 the drive to know for its own sake.md",
+   "content/principles/D004 \u2014 Cultivate de \u2014 your embodied character-power.md",
+   "content/principles/K071 \u2014 Return to the marketplace with open hands.md",
+   "content/principles/M016 \u2014 Understand personhood as something built.md",
+   "content/principles/P186 \u2014 The fight against evil is local and concrete.md"
+  ],
+  "id": "T037"
+ },
+ {
+  "thinker": "Hadot",
+  "mentions": 28,
+  "evidence": [
+   "content/principles/B008 \u2014 Treat the truths as tasks, not beliefs.md",
+   "content/principles/B017 \u2014 Practice heedfulness (appamada).md",
+   "content/principles/B026 \u2014 Apply right effort \u2014 the four efforts.md",
+   "content/principles/B030 \u2014 Keep the precepts as training rules, not commandments.md",
+   "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+   "content/principles/B058 \u2014 Sit daily \u2014 consistency over intensity.md",
+   "content/principles/B065 \u2014 Guard the mind at the source (mind precedes all).md",
+   "content/principles/B081 \u2014 Meet dullness with energy (hindrance 3).md"
+  ],
+  "id": "T038"
+ },
+ {
+  "thinker": "Pierre Hadot",
+  "mentions": 28,
+  "evidence": [
+   "content/principles/B008 \u2014 Treat the truths as tasks, not beliefs.md",
+   "content/principles/B017 \u2014 Practice heedfulness (appamada).md",
+   "content/principles/B026 \u2014 Apply right effort \u2014 the four efforts.md",
+   "content/principles/B030 \u2014 Keep the precepts as training rules, not commandments.md",
+   "content/principles/B033 \u2014 Cultivate the seven factors of awakening.md",
+   "content/principles/B058 \u2014 Sit daily \u2014 consistency over intensity.md",
+   "content/principles/B065 \u2014 Guard the mind at the source (mind precedes all).md",
+   "content/principles/B081 \u2014 Meet dullness with energy (hindrance 3).md"
+  ],
+  "id": "T039"
+ },
+ {
+  "thinker": "Ed Diener",
+  "mentions": 20,
+  "evidence": [
+   "content/principles/AF069 \u2014 Recognise the hedonic treadmill \u2014 adaptation is inevitable; plan for it.md",
+   "content/principles/E063 \u2014 Practise meaning through love.md",
+   "content/principles/E110 \u2014 Practise life affirmation.md",
+   "content/principles/MO055 \u2014 Recognise that goal progress predicts well-being \u2014 pursuing goals is good for you.md",
+   "content/principles/P065 \u2014 Experience comes whole \u2014 relations are experienced.md",
+   "content/principles/P180 \u2014 Accept the final principle \u2014 you never arrive \u2014 and that is the good news.md",
+   "content/principles/PP003 \u2014 Practise measurement humility.md",
+   "content/principles/PP061 \u2014 Consider the cultural context.md"
+  ],
+  "id": "T040"
+ },
+ {
+  "thinker": "Albert Ellis",
+  "mentions": 10,
+  "evidence": [
+   "content/principles/A110 \u2014 Use music and the arts for moral education.md",
+   "content/principles/AT046 \u2014 Cultivate digital sabbath \u2014 deliberate disconnection.md",
+   "content/principles/R124 \u2014 Practise ecological grief work.md",
+   "content/concepts/Cognitive mediation of distress.md",
+   "content/concepts/Common flourishing.md",
+   "content/concepts/Designing for virtue.md",
+   "content/concepts/Ecological grief.md",
+   "content/concepts/Gestalt perception.md"
+  ],
+  "id": "T041"
+ }
+]

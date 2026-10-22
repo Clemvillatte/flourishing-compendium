@@ -3058,3 +3058,27 @@ with Heidegger's actual Origin of the Work of Art text (or re-attribute) and ver
 origin. Full evidence: sources/verify-ppl-7f3a2b19/ledger.md. Final session totals: 72 pages
 verified, 7 defects + 1 attribution repaired, 11 findings routed, 1 confabulated finding withdrawn,
 2 process errors corrected.
+
+## Thinkers + Kernels pipeline (supervisor a3b0be8e, 2026-10-22)
+
+The owner has directed that Thinkers and Kernels become first-class pipelined
+workstreams. Format, schema and worker flow are defined in
+docs/enrichment/PROTOCOL-THINKERS.md (read it before taking a thinkers band).
+
+- **Exemplar: T001 — Csikszentmihalyi** is minted and verified (all 95 wikilinks
+  resolve; build passes; quotes verified in the owner's primary-source copy).
+  Use it as the model for every thinker page.
+- **queue-thinkers.json** — 40 scored candidates (Aristotle 722 mentions,
+  William James 506, Plato 484, Dewey 283, ...). Take from the top; skip any
+  the owner has not confirmed if in doubt — the exemplar + queue structure is
+  the proposal, mass minting still gated on owner sign-off per
+  OWNER-UPDATE-2026-10-22.
+- **Worker bands: t1a, t1b, ...** (thinkers). Same mint→enrich→validate→save
+  loop. Run `python3 scripts/thinker_links.py -t "Name"` for the interconnection
+  inventory (targets resolve by construction), and `--reciprocal "Name" --id
+  Txxx` to emit missing backlinks. Reciprocal backlinks into existing pages are
+  applied by the supervisor only.
+- **Kernels: queue-kernels.json** — 216 of 316 kernels are under 150 prose
+  words and need enrichment to the K100 standard (read K100 and
+  docs/enrichment/EXEMPLARS.md "Kernel exemplar" first). Bands: k1a, k1b, ...
+  K409 already compliant. Thin tail: K203 (51 words) is the thinnest.
