@@ -14,7 +14,6 @@
   "E011",
   "D039",
   "B001",
-  "D141",
   "D037",
   "D031",
   "P073",
@@ -32,7 +31,7 @@
   "A063",
   "A001"
  ],
- "in_progress": null,
+ "in_progress": "D141",
  "flagged": {
   "D087": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D087-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
   "D055": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/D055-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
@@ -46,10 +45,11 @@
   "A078": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/A078-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
   "A037": "SCOPED BODY REPAIR COMPLETE; advisor QC recorded and applied. See sources/p1a/A037-repair-d9e5b9d0.md for opened evidence and limits. Not a certification of inherited unprovided parallels, concept pages or protected reflections.",
   "A063": "Reopened for QC: Continuation: distinguish Aristotle friendship argument from observational mortality evidence; remove unverified strongest-predictor gloss",
-  "A001": "Reopened for QC: Source-rich distinction between Aristotelian eudaimonia, practical application and modern well-being measures"
+  "A001": "Reopened for QC: Source-rich distinction between Aristotelian eudaimonia, practical application and modern well-being measures",
+  "D141": "Reopened for QC: Remove editorial scaffolding and make the cook analogy usable without clinical overclaim"
  },
  "missing_concepts": [],
  "sources_checked": 47,
- "updated": "2026-10-22T13:11:14+00:00",
+ "updated": "2026-10-22T13:11:27+00:00",
  "band_done": false
 }
