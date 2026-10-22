@@ -31,3 +31,9 @@
 - Verbatim: "Repentance is not a virtue, or does not arise from reason; but he who repents of an action is doubly wretched or infirm." (IV, Prop. LIV)
 - Note-to-P54 concession paraphrased, with the quoted fragment "bring more good than harm" checked in the opened text.
 - Aristotle A061 cross-reference scoped: the compendium's A061 page, not the opened Spinoza text, supplies the NE III.1 test.
+
+## Resoluteness (Entschlossenheit) (fast-track bar)
+- Opened: Heidegger, Being and Time §60 (Macquarrie & Robinson), hosted text at dhspriory.org (BeingTime08.doc); fetched and quoted via opened content.
+- Verbatim definition: "This distinctive and authentic disclosedness, which is attested in Dasein itself by its conscience—this reticent self-projection upon one's ownmost Being-guilty, in which one is ready for anxiety—we call 'resoluteness.'"
+- Verbatim: "Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible;"
+- Verbatim: "The Situation is the 'there' which is disclosed in resoluteness—the 'there' as which the existent entity is there."
