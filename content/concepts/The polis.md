@@ -7,10 +7,10 @@ file: "The polis"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The polis is Aristotle's word for the city-state, the community in which a full human life becomes possible. His Politics opens by arguing that the polis comes to be for the sake of life and exists for the sake of the good life, and that the partnerships below it, the household and the village, grow toward it.
+The polis is Aristotle's word for the city-state. In Politics I.2, he argues that the polis is one of the things that exist by nature, and that man is by nature a political animal, and that the polis is prior by nature to the household and to each individual.
 
 > "And why man is a political animal in a greater measure than any bee or any gregarious animal is clear. For nature, as we declare, does nothing without purpose; and man alone of the animals possesses speech. The mere voice, it is true, can indicate pain and pleasure, and therefore is possessed by the other animals as well (for their nature has been developed so far as to have sensations of what is painful and pleasant and to indicate those sensations to one another), but speech is designed to indicate the advantageous and the harmful, and therefore also the right and the wrong; for it is the special property of man in distinction from the other animals that he alone has perception of good and bad and right and wrong and the other moral qualities, and it is partnership in these things that makes a household and a city-state."
-> — Aristotle, Politics I.2, 1253a, Rackham translation, via [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=1:section=1253a)
+> — Aristotle, Politics I.2, 1253a, via [Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=1:section=1253a) (parenthesis characters normalised from the page's rendering)
 
 Aristotle's ground for the polis's naturalness is a claim about speech rather than sociability alone. Animals have voice, enough to signal pleasure and pain. Humans alone have logos, and logos is what picks out the advantageous and the harmful, the just and the unjust. Shared judgement of that kind is what makes a household and a city, not just a herd.
 
@@ -32,7 +32,7 @@ The passage's reasoning runs through the whole and the part. A hand cut off from
 
 ## Sources
 
-- [Aristotle, Politics I.2, 1253a, Rackham translation, Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=1:section=1253a) — the opened carrier of all verbatim quotes, fetched without an extraction prompt.
+- [Aristotle, Politics I.2, 1253a, Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058:book=1:section=1253a) — the opened carrier of all verbatim quotes, fetched without an extraction prompt; parenthesis characters normalised from the page's rendering.
 
 ## Cited in philosophy parallels
 

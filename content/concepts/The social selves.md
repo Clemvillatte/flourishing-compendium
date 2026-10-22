@@ -21,11 +21,11 @@ James adds that a person generally shows a different side of himself to each of 
 
 ### When the split hurts
 
-James's own distinction at the end of the passage is between two ways the several selves can sit together. The division may be a discordant splitting, as where someone is afraid to let one set of his acquaintances know him as he is elsewhere. It may also be a perfectly harmonious division of labour, as where someone tender to his children is stern to the soldiers or prisoners under his command. The point is not that having multiple selves is itself the problem. The problem, in James's own framing, is which of the two patterns they fall into.
+James's own distinction at the end of the passage is between two ways the several selves can sit together. The division may be a discordant splitting, as where someone is afraid to let one set of his acquaintances know him as he is elsewhere. It may also be a perfectly harmonious division of labour, as where someone tender to his children is stern to the soldiers or prisoners under his command.
 
 ## Sources
 
-- [James, W. (1890), The Principles of Psychology, ch. X, psychclassics.yorku.ca](https://psychclassics.yorku.ca/James/Principles/prin10.htm) — the opened primary source; both quoted passages verbatim, the second at p. 294 as the page itself marks, with the intervening paragraph noted as intervening.
+- [James, W. (1890), The Principles of Psychology, ch. X, psychclassics.yorku.ca](https://psychclassics.yorku.ca/James/Principles/prin10.htm) — the opened primary source; both quoted passages verbatim, the second at p. 294 as the page itself marks.
 
 ## Cited in psychology parallels
 

@@ -17,7 +17,7 @@ Niebuhr's own preferred version, according to his daughter Elisabeth Sifton, run
 > "God, give us grace to accept with serenity the things that cannot be changed, courage to change the things that should be changed, and the wisdom to distinguish the one from the other."
 > — the 1943 version, in [Sifton's account via Yale Alumni Magazine](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html)
 
-The two differences are small and telling. Niebuhr's version asks for grace, and says "should be changed" rather than "can". Both versions pair acceptance with action, and both ask for the judgement to tell their occasions apart.
+Two differences stand out. Niebuhr's version asks for grace, uses "us" rather than "me", and says "should be changed" rather than "can". Both versions pair acceptance with action, and both ask for the judgement to tell their occasions apart.
 
 ### The authorship question
 

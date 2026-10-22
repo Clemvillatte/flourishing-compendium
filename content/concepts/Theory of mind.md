@@ -16,15 +16,19 @@ In Premack and Woodruff's formulation, mental states cannot be observed directly
 
 ### How it is studied
 
-The research that grew out of that question uses the false-belief task. The [IEP account](https://iep.utm.edu/theomind/) records Wimmer and Perner (1983) as having provided the theory-of-mind research with this seminal experimental paradigm. In the version the IEP describes, a child watches a character, Sally, hide a toy and leave the room; another character, Ann, moves the toy; the child is asked where Sally will look. Passing the task requires holding that someone can act on a belief that is false, which is the strictest test of reading a mind rather than reading behaviour. Baron-Cohen, Frith and Leslie (1985) applied this task to children with autism. In their study, in the IEP's words, "[e]ighty-five percent of the normally developing children and 86% of the children with Down syndrome passed the test; but only 20% of the autistic children predicted that Sally would look in the basket." Baron-Cohen's 1995 book Mindblindness developed this into the mindblindness theory, which proposes that children and adults on the autism spectrum are delayed in developing this capacity; the [Encyclopedia of Child Behavior and Development](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) summarises it as such. It is a proposal about a developmental difference, not a settled account of autism.
+The research that grew out of that question uses the false-belief task. The [IEP account](https://iep.utm.edu/theomind/) records Wimmer and Perner (1983) as having provided the theory-of-mind research with this seminal experimental paradigm. In the task, a child is shown a character holding a belief that is false, and is asked what that character will do. The IEP describes the version used in the study below as "the Sally and Ann false-belief task".
+
+Baron-Cohen, Frith and Leslie (1985) applied this task to children with autism. In their study, in the IEP's words, "[e]ighty-five percent of the normally developing children and 86% of the children with Down syndrome passed the test; but only 20% of the autistic children predicted that Sally would look in the basket."
+
+Baron-Cohen's 1995 book Mindblindness developed this into the mindblindness theory, which proposes that children and adults on the autism spectrum are delayed in developing this capacity; the [Encyclopedia of Child Behavior and Development](https://link.springer.com/rwe/10.1007/978-0-387-79061-9_1795) summarises it as such. It is a proposal about a developmental difference, not a settled account of autism.
 
 A parallel debate runs on the animal side. Call and Tomasello's 2008 review of thirty years of chimpanzee work concluded that chimpanzees understand goals, intentions, perceptions and knowledge, but that the evidence for a fully human-like belief-desire psychology is weak. In their words, "chimpanzees understand others in terms of a perception–goal psychology, as opposed to a full-fledged, human-like belief–desire psychology."
 
-For an everyday illustration: someone leaves a note on the fridge saying the last slice of cake is theirs, then goes out; a housemate eats it; the returning person goes straight to the fridge. Predicting that detour, rather than that they will re-read the note, is holding a belief about their belief.
+For an illustration: someone who did not see a cake being eaten still expects the cake to be there.
 
 ### In the compendium
 
-- [[E009 — Practise intersubjectivity]] — the phenomenological counterpart: Husserl's account of how encountering another subject reveals that one's own perspective is only one among many.
+- [[E009 — Practise intersubjectivity]]
 
 ## Facets
 
@@ -32,10 +36,10 @@ For an everyday illustration: someone leaves a note on the fridge saying the las
 
 ## Related concepts
 
-- [[Perspective-taking]] — the deliberate act of stepping into another viewpoint, which theory of mind underwrites.
+- [[Perspective-taking]] — the deliberate act of stepping into another viewpoint, a related capacity in the same domain.
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside.
 - [[Mentalization theory]] — the clinical framing of mindreading as a developing skill.
-- [[Egocentric projection in social inference]] — a documented failure mode: filling the other's head with one's own contents.
+- [[Egocentric projection in social inference]] — a failure mode in the same domain: filling the other's head with one's own contents.
 - [[The illusion of transparency]] — the complementary error: assuming one's own states are legible to others.
 
 ## Sources
