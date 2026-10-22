@@ -19,6 +19,14 @@ An example at its smallest: one honest admission made when it costs something tr
 
 - **and knowledge** — Socrates, in Plato's Protagoras
 
+## Related concepts
+
+- [[Virtue]] — the trait whose coherence the thesis is about
+- [[Virtue ethics]] — the tradition that debates the thesis
+- [[Cardinal virtues]] — the classical catalogue the thesis concerns
+- [[Phronesis]] — the wisdom sometimes said to unify them
+- [[Moral exemplarism]] — the exemplar-based take on virtue possession
+
 ## Sources
 
 - Aristotle, Nicomachean Ethics VI

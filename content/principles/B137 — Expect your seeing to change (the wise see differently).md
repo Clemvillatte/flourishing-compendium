@@ -25,6 +25,13 @@ Pick a domain you have trained in for years, and list what you now see in it tha
 
 *For example:* The first year in a new country, the street sounds are noise; the fifth year, they are a language. The sounds did not change; the hearing was trained.
 
+## Related concepts
+
+- [[Anicca]] — the impermanence mark the verse trains
+- [[Impermanence]] — the same mark as a general concept
+- [[Wisdom]] — what the trained seeing is called
+- [[The three trainings]] — the sequence the verse sits in
+
 ## Sources
 
 - [Dhammapada Maggavagga, Buddharakkhita translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.20.budd.html) — verses 277-279

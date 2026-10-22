@@ -10,6 +10,14 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Stress appraisal” — Lazarus and Folkman, 1984.
 
+## Related concepts
+
+- [[Rumination]] — an appraisal style that sustains the stress response
+- [[Learned Helplessness Theory]] — what repeated uncontrollable appraisal builds
+- [[The stress-buffering model]] — what appraisal turns on support seeking
+- [[Social support theory Cohen Wills]] — the support side of the transaction
+- [[Tend-and-befriend]] — the behavioral response appraisal selects
+
 ## Sources
 
 - Lazarus and Folkman, 1984

@@ -17,6 +17,14 @@ In Burnout, Emily Nagoski and Amelia Nagoski describe completing the stress cycl
 
 The authors describe noticing changes in mood, mental state or physical tension as signs of this shift ([“How do you know”](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)). They also describe partial relief without the full relaxation they associate with completion ([same section](https://www.penguin.co.uk/discover/articles/complete-stress-cycle-emotional-exhaustion-burnout)).
 
+## Related concepts
+
+- [[The relaxation response]] — the body's downshift the completion seeks
+- [[Tend-and-befriend]] — the affiliative route to completing the cycle
+- [[Social support theory Cohen Wills]] — the support that helps completion
+- [[Rumination]] — the unfinished cycle's signature habit
+- [[Stress appraisal]] — the evaluation that starts the cycle
+
 ## Sources
 
 - Nagorski, 2019
