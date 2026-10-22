@@ -155,3 +155,9 @@
 - Claims narrowed: the seed's "builds calibration" carried as the practice's aim, with the honest caveat that tournament calibration improvements came with training, teams and tracking; not-covered paragraph scopes the tournaments to geopolitical forecasts by trained volunteers on a scoring website, not personal beliefs in a notebook; the log has tracking and none of the rest.
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K155 "Enough" lines (worker-k1b-pplx)
+- Sources opened this session: Schwartz et al. 2002 abstract (Ovid record page, full abstract visible; verbatim quotes: the seven-samples correlations sentence, Studies 2-4 findings); Roets, Schwartz and Guan 2012 full text PDF (Judgment and Decision Making 7(6):689-704, open via Swarthmore Works; verbatim quotes: full abstract, the cross-cultural results sentences, the objective-outcomes-vs-well-being sentence, the regret-mediation sentences).
+- Claims narrowed: the seed's "prevents the moving goalpost" labelled this practice's framing (not-covered paragraph); the studies measure dispositions and consumer decisions, not pre-written sufficiency lines; the China null result carried onto the page (pattern not universal).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
