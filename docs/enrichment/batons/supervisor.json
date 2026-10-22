@@ -1,7 +1,7 @@
 {
  "baton": "supervisor",
- "agent": "worker-sup-flourish-1022",
- "clocked_in": "2026-10-22T04:13:01+00:00",
+ "agent": "worker-sup-1022c",
+ "clocked_in": "2026-10-22T05:17:47+00:00",
  "takeovers": [
   {
    "by": "AgentA",
@@ -296,8 +296,12 @@
    "at": "2026-10-22T04:06:18+00:00",
    "from": "worker-sup-flourish-1022",
    "reason": "stale (23 min)"
+  },
+  {
+   "by": "worker-sup-1022c",
+   "at": "2026-10-22T05:17:47+00:00",
+   "from": "worker-sup-flourish-1022",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T04:28:15+00:00"
+ ]
 }
