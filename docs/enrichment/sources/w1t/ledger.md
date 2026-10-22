@@ -342,3 +342,15 @@ Decisions:
 - Related concepts: Balance theory, Integrity as consistency (both existing originals per neighbors).
 - Cialdini 2001 book citation carried from the seed; not independently opened this session.
 - No reciprocal proposals (fast-track bar).
+
+### Completing the cycle (fast-track, deg 2)
+
+Source opened (fetch_url, fresh):
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4316402/ — Payne, Levine, Crane-Godreau 2015 Frontiers in Psychology 6:93. Four passages fetched verbatim: trauma-as-incomplete-response; the mobilization/exhilaration/relaxation cycle; the failure-to-discharge sentence; the animals-in-the-wild discharge sentence (with the honest not-in-peer-reviewed-literature note).
+
+Decisions:
+- Fast-track eligibility: deg 2 < 15 confirmed.
+- Front-matter preserved; BI049/BI058 wikilinks preserved in the original positions (BI049 before the philosophy-parallels heading, BI058 after).
+- Related concepts: Somatic experiencing (Levine), Somatic psychotherapy (both existing; "Tension and trauma releasing exercises" does not exist as a page).
+- The discharge evidence is honestly scoped (anecdotal, not peer-reviewed).
+- No reciprocal proposals (fast-track bar).
