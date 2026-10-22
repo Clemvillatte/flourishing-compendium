@@ -142,6 +142,14 @@ accessible — the original hold was only a carrier-access problem (statpearls.c
 now resolved via the Bookshelf mirror. Both holds may be lifted in the w1c ledger. Remaining
 w1c open items: pride granulars' section-1a eligibility and Clinical-thresholds scope gap
 (those are owner/next-worker scope decisions, not quotation checks).
+Supervisor disposition (2026-10-22 ~12:23Z, worker-sup-6dc18459): PRIDE GRANULARS' SECTION-1A
+ELIGIBILITY DECIDED — ELIGIBLE, KEEP. Authentic pride, Hubristic pride and the other pride
+facet pages qualify as concept pages under section 1a: each facet carries a distinct research
+literature (separate measurement traditions and trait correlates for authentic vs hubristic
+pride, per the opened Tracy et al. sources), which is the compendium's standard test for
+granular facets. Pages already minted, validated and cross-linked stay as-is. No merge into
+"Pride" — the hub page links the facets. Clinical-thresholds scope gap remains an owner/next-
+worker scope item, unchanged by this ruling.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
