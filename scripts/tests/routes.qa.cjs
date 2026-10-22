@@ -1,0 +1,132 @@
+/* Route QA — view addresses (deep links) + practice gallery 4-column grid.
+   Run: node scripts/tests/routes.qa.cjs  (expects a local server on :8765) */
+const { chromium } = require('playwright');
+
+const BASE = 'http://localhost:8765/';
+const results = [];
+function ok(name, cond, extra) { results.push((cond ? 'PASS' : 'FAIL') + '  ' + name + (extra ? '  [' + extra + ']' : '')); }
+async function errs(page) { return await page.evaluate(() => window.__errs || ['no collector']); }
+
+(async () => {
+  const browser = await chromium.launch();
+  const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
+  const page = await ctx.newPage();
+  const collected = [];
+  page.on('pageerror', e => collected.push('pageerror: ' + e.message));
+  page.on('console', m => { if (m.type() === 'error') collected.push('console: ' + m.text()); });
+  await page.addInitScript(() => { window.__errs = []; window.addEventListener('error', e => window.__errs.push(e.message)); });
+
+  async function go(hash, sel) {
+    await page.goto(BASE + hash, { waitUntil: 'domcontentloaded' });
+    await page.waitForSelector(sel, { timeout: 25000 });
+    await page.waitForTimeout(400);
+  }
+
+  /* ---- routes restore their page ---- */
+  await go('#view=academy', '.acad-hall');
+  ok('#view=academy renders Academy home', await page.evaluate(() => document.querySelectorAll('.acad-hall').length === 9));
+  ok('#view=academy bar mirrors', (await page.evaluate(() => location.hash)) === '#view=academy');
+
+  await go('#degree=deg-cmp', '.acad-detail');
+  ok('#degree=deg-cmp renders degree', await page.evaluate(() => (document.querySelector('.acad-band-title') || {}).textContent === 'Contemplative & Mental Practices — A Year of Practice'));
+  ok('#degree bar mirrors', (await page.evaluate(() => location.hash)) === '#degree=deg-cmp');
+
+  const grid = await page.evaluate(() => {
+    const g = document.querySelector('.acad-practice-gallery .gallery-grid');
+    return { cols: getComputedStyle(g).gridTemplateColumns.split(' ').length, cards: g.querySelectorAll('.apg-card').length };
+  });
+  ok('practice gallery has 4 columns at 1280px', grid.cols === 4, JSON.stringify(grid));
+
+  await go('#practice=deg-cmp', '.acad-practice-gallery');
+  ok('#practice=deg-cmp bar mirrors', (await page.evaluate(() => location.hash)) === '#practice=deg-cmp');
+  const scrolled = await page.evaluate(() => {
+    const t = document.querySelector('.acad-practice-gallery').getBoundingClientRect();
+    return t.top >= -50 && t.top < 300; // near viewport top after scrollIntoView
+  });
+  ok('#practice scrolls to the gallery section', scrolled);
+
+  await go('#module=mod-cmp-1', '.acad-modpage-title, .acad-detail');
+  ok('#module=mod-cmp-1 renders module page', await page.evaluate(() => document.body.textContent.includes('Foundations')));
+  ok('#module bar mirrors', (await page.evaluate(() => location.hash)) === '#module=mod-cmp-1');
+
+  await go('#explorer', '.acad-explorer');
+  ok('#explorer renders source explorer', await page.evaluate(() => !!document.querySelector('.acad-explorer')));
+  ok('#explorer bar mirrors', (await page.evaluate(() => location.hash)) === '#explorer');
+
+  await go('#view=gallery', '.acad-modpage-title');
+  ok('#view=gallery renders discovery gallery', await page.evaluate(() => (document.querySelector('.acad-modpage-title') || {}).textContent === 'Flourishing Gallery'));
+  ok('#view=gallery bar mirrors', (await page.evaluate(() => location.hash)) === '#view=gallery');
+
+  await go('#view=rand', '#randView');
+  ok('#view=rand renders Randomiser', await page.evaluate(() => document.body.classList.contains('rand-mode')));
+  ok('#view=rand bar mirrors', (await page.evaluate(() => location.hash)) === '#view=rand');
+
+  await go('#view=wiki', '#wikiView');
+  ok('#view=wiki renders Library', await page.evaluate(() => document.body.classList.contains('wiki-mode')));
+  ok('#view=wiki bar mirrors', (await page.evaluate(() => location.hash)) === '#view=wiki');
+
+  await go('#view=graph', '#graphView');
+  ok('#view=graph renders Graph', await page.evaluate(() => document.body.classList.contains('graph-mode')));
+
+  await go('#view=edit', '#editorSidebar');
+  ok('#view=edit opens editor sidebar', await page.evaluate(() => document.body.classList.contains('editor-open')));
+
+  await go('#card=Psychological%20flexibility', '.entry-view, #wikiView');
+  ok('#card= still opens the card', await page.evaluate(() => (location.hash || '').startsWith('#card=')));
+  ok('card address kept in bar', (await page.evaluate(() => location.hash)) === '#card=Psychological%20flexibility');
+
+  /* unknown degree id: fresh load stays on the default view, nothing breaks */
+  await page.goto(BASE + '?fresh=1#degree=deg-bogus', { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('#randView', { state: 'visible', timeout: 20000 });
+  ok('unknown degree id leaves default view, nothing breaks', true);
+  ok('unknown id keeps its address untouched', (await page.evaluate(() => location.hash)) === '#degree=deg-bogus');
+
+  /* ---- tab clicks mirror into the bar ---- */
+  await page.goto(BASE, { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('#randView', { timeout: 20000 });
+  await page.waitForTimeout(300);
+  ok('fresh load with no hash gets #view=rand', (await page.evaluate(() => location.hash)) === '#view=rand');
+  await page.click('#tabAcademy');
+  await page.waitForSelector('.acad-hall', { timeout: 15000 });
+  ok('Academy tab click mirrors #view=academy', (await page.evaluate(() => location.hash)) === '#view=academy');
+  await page.click('.acad-hall:nth-child(9)'); // Contemplative & Mental Practices is the 9th hall
+  await page.waitForSelector('.acad-practice-gallery', { timeout: 15000 });
+  ok('hall click mirrors #degree=deg-cmp', (await page.evaluate(() => location.hash)) === '#degree=deg-cmp');
+  await page.click('#tabRand');
+  await page.waitForTimeout(300);
+  ok('Randomiser tab click mirrors #view=rand', (await page.evaluate(() => location.hash)) === '#view=rand');
+  await page.click('#tabWiki');
+  await page.waitForTimeout(300);
+  ok('Library tab click mirrors #view=wiki', (await page.evaluate(() => location.hash)) === '#view=wiki');
+  // card open keeps its address while in the wiki
+  await page.click('#tabAcademy');
+  await page.waitForSelector('.acad-detail', { timeout: 15000 });
+  // the Academy tab re-renders the current Academy state (the degree page here);
+  // the address bar mirrors that state honestly
+  ok('back to Academy mirrors the degree still open', (await page.evaluate(() => location.hash)) === '#degree=deg-cmp');
+
+  /* ---- mobile 375px ---- */
+  const mctx = await browser.newContext({ viewport: { width: 375, height: 700 } });
+  const mp = await mctx.newPage();
+  await mp.goto(BASE + '#degree=deg-cmp', { waitUntil: 'domcontentloaded' });
+  await mp.waitForSelector('.acad-practice-gallery .gallery-grid', { timeout: 25000 });
+  await mp.waitForTimeout(400);
+  const mgrid = await mp.evaluate(() => {
+    const g = document.querySelector('.acad-practice-gallery .gallery-grid');
+    return { cols: getComputedStyle(g).gridTemplateColumns.split(' ').length, scrollW: document.documentElement.scrollWidth };
+  });
+  ok('practice gallery 2 columns at 375px', mgrid.cols === 2, JSON.stringify(mgrid));
+  ok('mobile no horizontal overflow beyond known 4px', mgrid.scrollW <= 379, 'scrollW=' + mgrid.scrollW);
+  ok('mobile route works', (await mp.evaluate(() => location.hash)) === '#degree=deg-cmp');
+  await mctx.close();
+
+  /* ---- errors ---- */
+  const e1 = await errs(page);
+  ok('zero JS errors across desktop run', collected.length === 0 && e1.length === 0, JSON.stringify(collected.concat(e1)).slice(0, 300));
+
+  await browser.close();
+  const fails = results.filter(r => r.startsWith('FAIL')).length;
+  console.log(results.join('\n'));
+  console.log(fails ? `\n${fails} FAILURES` : '\nALL PASS');
+  process.exit(fails ? 1 : 0);
+})().catch(e => { console.error('QA crashed:', e); process.exit(2); });

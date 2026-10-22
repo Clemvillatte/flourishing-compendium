@@ -987,7 +987,8 @@ body.academy-mode #stage { overflow-y:auto; }
 .apg-filters { margin-top:2px; }
 .apg-countwrap { margin-top:-4px; }
 .apg-count { font-size:11px; letter-spacing:.04em; }
-.acad-practice-gallery .gallery-grid { gap:16px; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); }
+.acad-practice-gallery .gallery-grid { gap:16px; grid-template-columns:repeat(4, minmax(0, 1fr)); }
+@media (max-width: 1100px) and (min-width: 641px) { .acad-practice-gallery .gallery-grid { grid-template-columns:repeat(3, minmax(0, 1fr)); } }
 .apg-card { border-radius:14px; box-shadow:0 1px 2px rgba(0,0,0,.04); transition:border-color .18s ease, transform .18s ease, box-shadow .18s ease; }
 .apg-card:hover, .apg-card:focus-visible {
   border-color:var(--gold); transform:translateY(-3px);
@@ -1004,7 +1005,7 @@ body.academy-mode #stage { overflow-y:auto; }
   display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
 }
 @media (max-width: 640px) {
-  .acad-practice-gallery .gallery-grid { grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:10px; }
+  .acad-practice-gallery .gallery-grid { grid-template-columns:repeat(2, minmax(0, 1fr)); gap:10px; }
   .apg-body { padding:10px 12px 12px; }
   .apg-title { font-size:13.5px; }
   .acad-practice-gallery { padding-bottom:64px; }

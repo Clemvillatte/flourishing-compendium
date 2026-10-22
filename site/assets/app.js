@@ -3811,6 +3811,64 @@ document.addEventListener('DOMContentLoaded', initGallery);
 if(document.readyState!=='loading') initAcademy();
 if(document.readyState!=='loading') initGallery();
 
+/* ═══ View routes (Academy side) — every Academy page has a unique address.
+   The render dispatcher mirrors its state into the address bar after every
+   render: the Academy home is #view=academy, a degree page is #degree=<id>
+   (or #practice=<id> when entered through its guided-practice section), a
+   module page is #module=<id>, the source explorer is #explorer, and the
+   discovery gallery is #view=gallery. The router at the end of this file
+   replays such an address into the calls below, so an address restores its
+   page. Addresses are replaced, not pushed: the bar mirrors where you are,
+   exactly as the card addresses already do. */
+(function(){
+  var _renderAcademy = renderAcademy;
+  renderAcademy = function(){
+    A.__gallery = false; /* rendering an Academy view leaves the discovery gallery */
+    var out = _renderAcademy();
+    try { syncRoute(); } catch (err) { /* mirroring is best-effort */ }
+    return out;
+  };
+  var _renderGallery = renderGallery;
+  renderGallery = function(){
+    var out = _renderGallery();
+    A.__gallery = true;
+    try { if (window.__fcRoute) window.__fcRoute.set('#view=gallery'); } catch (err) {}
+    return out;
+  };
+  function syncRoute(){
+    if (!window.__fcRoute) return;
+    if (A.__gallery) { window.__fcRoute.set('#view=gallery'); return; }
+    if (A.view === 'sourceExplorer') window.__fcRoute.set('#explorer');
+    else if (A.view === 'degreeDetail' && A.degree){
+      window.__fcRoute.set((A.__pg ? '#practice=' : '#degree=') + A.degree);
+    }
+    else if (A.view === 'moduleDetail' && A.module) window.__fcRoute.set('#module=' + A.module);
+    else window.__fcRoute.set('#view=academy');
+    if (A.view !== 'degreeDetail') A.__pg = false;
+  }
+  window.__fcAcademyRoute = {
+    home: function(){ A.view='home'; A.degree=null; A.module=null; switchView('academy'); },
+    degree: function(id, practice){
+      var deg = window.fcAcademyData.degrees.find(function(d){ return d.id === id; });
+      if (!deg) return false;
+      A.view='degreeDetail'; A.degree=id; A.__pg=!!practice; switchView('academy');
+      if (practice){
+        var target = document.querySelector('.acad-practice-gallery');
+        if (target && target.scrollIntoView) target.scrollIntoView({block:'start'});
+      }
+      return true;
+    },
+    module: function(id){
+      if (!moduleById(id)) return false;
+      A.view='moduleDetail'; A.module=id; switchView('academy');
+      return true;
+    },
+    explorer: function(){ A.view='sourceExplorer'; switchView('academy'); },
+    gallery: function(){ switchView('gallery'); },
+    resync: function(){ syncRoute(); }
+  };
+})();
+
 })();
 
 /* Boot: enter the Randomiser explicitly. Without this call the body never gets
@@ -3888,6 +3946,106 @@ if (window.fcSwitchView) window.fcSwitchView('rand');
     var btn = document.getElementById('linkCopyBtn');
     if (btn && !btn.__linkWired && window.__currentEntry) wireLinkButton(btn, window.__currentEntry);
   }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
+  else boot();
+})();
+
+/* ═══ View routes — every tab and page has a unique address (2026-10-22).
+   The wiki cards already carry #card=<name> addresses; this module extends
+   the same idea to every view: the Randomiser, Library, Graph and Editor
+   tabs mirror into #view=rand|wiki|graph|edit, the Academy home is
+   #view=academy, a degree page is #degree=<id> (or #practice=<id> to land
+   on its guided-practice section), a module page is #module=<id>, the
+   source explorer is #explorer, and the discovery gallery is
+   #view=gallery. Opening such an address lands on that page; while you
+   browse, the address bar mirrors where you are. Addresses are replaced,
+   never pushed, so the history stays clean, exactly as with the card
+   addresses. The Academy pages mirror themselves (see the route block in
+   the Academy module above); this module owns the main tabs, the editor
+   overlay, and replaying any address into its page. */
+(function () {
+  'use strict';
+  var booted = false;
+
+  function set(h){
+    if (location.hash === h) return;
+    try { history.replaceState(null, '', h); } catch (err) { /* mirroring is best-effort */ }
+  }
+  window.__fcRoute = { set: set };
+
+  /* The address for the view the body is currently in. While a card is
+     open in the wiki (#card=…), the card address owns the bar; the
+     Academy pages own their own addresses and are left to their module. */
+  function currentHash(){
+    var b = document.body.classList;
+    var card = /^#card=/.test(location.hash);
+    if (b.contains('editor-open')) return card ? null : '#view=edit';
+    if (b.contains('graph-mode')) return '#view=graph';
+    if (b.contains('rand-mode')) return '#view=rand';
+    if (b.contains('wiki-mode')) return card ? null : '#view=wiki';
+    return null;
+  }
+
+  /* View switches all flip body classes, so one observer catches every
+     path: tab clicks, wiki links, the Academy hand-offs, the works. */
+  function startObserver(){
+    if (!document.body || typeof MutationObserver !== 'function') return;
+    var obs = new MutationObserver(function(){
+      if (!booted) return;
+      if (document.body.classList.contains('academy-mode') && !document.body.classList.contains('editor-open')){
+        if (window.__fcAcademyRoute && window.__fcAcademyRoute.resync) window.__fcAcademyRoute.resync();
+        return;
+      }
+      var h = currentHash();
+      if (h) set(h);
+    });
+    obs.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+  }
+
+  function safeDecode(t){ try { return decodeURIComponent(t); } catch (err) { return t; } }
+
+  /* Replay an address into its page. Card addresses belong to the card
+     module above; anything unmatched leaves the default view alone. */
+  function applyRoute(){
+    var h = location.hash || '';
+    if (!h || h === '#') return false;
+    if (/^#card=/.test(h)) return false;
+    /* leaving the editor overlay when an address takes you elsewhere */
+    if (h !== '#view=edit' && window.__closeEditorSidebar && document.body.classList.contains('editor-open')) window.__closeEditorSidebar();
+    var m = /^#view=([a-z]+)$/.exec(h);
+    if (m) {
+      var v = m[1];
+      if (v === 'academy') { if (window.__fcAcademyRoute) { window.__fcAcademyRoute.home(); return true; } return false; }
+      if (v === 'gallery') { if (window.__fcAcademyRoute) { window.__fcAcademyRoute.gallery(); return true; } return false; }
+      if (v === 'edit') {
+        window.fcSwitchView('wiki');
+        if (window.__openEditorSidebar) window.__openEditorSidebar();
+        return true;
+      }
+      if (v === 'rand' || v === 'wiki' || v === 'graph') { window.fcSwitchView(v); return true; }
+      return false;
+    }
+    if (h === '#explorer') {
+      if (window.__fcAcademyRoute) { window.__fcAcademyRoute.explorer(); return true; }
+      return false;
+    }
+    m = /^#degree=(.+)$/.exec(h);
+    if (m) return !!(window.__fcAcademyRoute && window.__fcAcademyRoute.degree(safeDecode(m[1]), false));
+    m = /^#practice=(.+)$/.exec(h);
+    if (m) return !!(window.__fcAcademyRoute && window.__fcAcademyRoute.degree(safeDecode(m[1]), true));
+    m = /^#module=(.+)$/.exec(h);
+    if (m) return !!(window.__fcAcademyRoute && window.__fcAcademyRoute.module(safeDecode(m[1])));
+    return false;
+  }
+
+  window.addEventListener('hashchange', function(){ applyRoute(); });
+
+  function boot(){
+    booted = true;
+    if (!location.hash) { set('#view=rand'); return; } /* the default view carries its address */
+    applyRoute();
+  }
+  startObserver();
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);
   else boot();
 })();

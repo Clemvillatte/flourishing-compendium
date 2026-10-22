@@ -130,3 +130,25 @@ Live site re-checked after full deploy: all seven bio-citation fixes live (tarab
 - 03:55Z (2026-10-22): SESSION CLOSEOUT, OWNER-DIRECTED (computer agent, session 7). Gallery dataset: 47 sessions parsed from the CMP1 tables (scripts/cmp_gallery_data.py) and spliced into fcAcademyData deg-cmp.practiceSessions; every row carries the existing ledger-verified provenance (audio-classified, ffprobe or page-printed durations, instructor credentials) — no new sources were added this session (time-bounded; the thin-cell expansion remains open and no unverified rows were shipped). Thumbnails: 7 YouTube mqdefault (all HTTP 200) + per-shelf artwork. ACADEMY SEPARATION (owner directive 03:51Z): CMP1 relocated to academy/ (no longer in the Library build); cmp baton remains owner-reserved; this band is closed to workers per handoff.md.
 
 - 04:20Z (2026-10-22): THUMBNAIL PASS (owner-directed, session 7). All 47 gallery thumbnails replaced with generated public-domain images (site/assets/academy/sessions/s00-s46.jpg) sourced from the Public Domain Image Archive; each has practice type + time burned in. Provenance per image recorded in academy/thumbnails-manifest.json (source URL + title); no invented attributions. Visual QA: every tile inspected individually; stereographs and off-topic images replaced. Session data otherwise unchanged (parser output identical except thumbnails).
+## 2026-10-22 (UTC) — Owner-directed: view routes for every tab and page (deg-cmp gallery included)
+
+Owner request mid-session: every tab and page on the site, including the
+practice gallery, must produce a unique address like the existing #card=
+card links. Implemented alongside the enrichment work:
+
+- View routes in site/assets/app.js: #view=rand|wiki|graph|edit|academy|gallery,
+  #degree=<id>, #practice=<id> (degree page scrolled to its guided-practice
+  section), #module=<id>, #explorer. The address bar mirrors the open view via
+  history.replaceState, matching the card-address behaviour; opening any of
+  these addresses restores its page. Unknown ids leave the default view.
+- Practice gallery grid (site/assets/style.css): fixed 4 columns on desktop,
+  3 at medium widths, 2 on mobile, replacing the auto-fill layout in both the
+  Contemplative & Mental Practices gallery and the Qi Gong gallery (same
+  component; the Qi Gong splice will pick the 4-column layout up whenever it
+  lands on main).
+- QA: scripts/tests/routes.qa.cjs — 33 checks over all routes, bar mirroring,
+  tab clicks, 4-column desktop grid, 2-column 375px mobile, zero console
+  errors. All pass against a local server of site/.
+- Verified: node --check, 30 unit tests, 9 randomiser tests, build.py all
+  green; Playwright QA desktop 1280px and mobile 375px.
+- docs/DEEP-LINKS.md documents the new address formats.
