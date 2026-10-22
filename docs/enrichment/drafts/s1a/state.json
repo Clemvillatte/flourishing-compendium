@@ -1015,7 +1015,22 @@
      "note": "draft complete; awaiting advisor QC"
     }
    ]
+  },
+  "s1a-038": {
+   "status": "qc_pending",
+   "angle": "D022 second angle: Brancusi subtraction",
+   "history": [
+    {
+     "t": "2026-10-22T15:24:45+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:24:45+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:14:09+00:00"
+ "updated": "2026-10-22T15:24:45+00:00"
 }
