@@ -31,7 +31,7 @@ Aristotle calls this "an outline of the good", to be filled in later. The questi
 
 (NE I.7, 1097b-1098a.)
 
-**Plain words** Aristotle's idea is that a thing is good when it does its own work well, as a good flute-player plays well. For people, the work is living by reason. So flourishing is not an extra on top of life, it is doing that work well, over a whole life.
+**Plain words** Aristotle's idea is that a thing is good when it does its own work well, as a good flute-player plays well. For people, the work is living by reason. So flourishing is doing that work well, over a whole life.
 
 *For example:* Imagine a nurse who is quick at the paperwork but gets her energy from sitting with frightened patients. The principle's question is whether her best work is the part nobody tracks.
 

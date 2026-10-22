@@ -18,7 +18,7 @@ Courage is the mean between cowardice (too much fear) and recklessness (too litt
 
 ### The virtue, defined
 
-The fear is not abolished; it is correctly sized. "We have already seen that Courage is the observance of the mean in respect of fear and confidence" ([NE III.6, 1115a, H. Rackham trans., Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a)). Aristotle's battlefield case:
+The fear stays, at its correct size. "We have already seen that Courage is the observance of the mean in respect of fear and confidence" ([NE III.6, 1115a, H. Rackham trans., Perseus](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0054%3Abekker+page%3D1115a)). Aristotle's battlefield case:
 
 > "The courageous man, therefore, in the proper sense of the term, will be he who fearlessly confronts a noble death, or some sudden peril that threatens death; and the perils of war answer this description most fully." — Aristotle, Nicomachean Ethics III.6, 1115a (H. Rackham trans.)
 

@@ -22,7 +22,7 @@ The same passage names the wrongdoer as "akin to me", participating in the same 
 
 ### Plain words
 
-Marcus's account is that people do not act badly from malice but from "ignorance of what is good and evil". The exercise he sets is to treat the wrongdoer as a kinsman and ask what wrong picture of the good is doing the work. Cooperation, on this account, is not approval; it is declining to be vexed and to turn away.
+Marcus's account is that people do not act badly from malice but from "ignorance of what is good and evil". The exercise he sets is to treat the wrongdoer as a kinsman and ask what wrong picture of the good is doing the work. Cooperation, on this account, means declining to be vexed and to turn away. It does not mean approval.
 
 ### For example
 

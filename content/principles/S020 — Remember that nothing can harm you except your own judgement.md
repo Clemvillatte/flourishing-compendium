@@ -22,7 +22,7 @@ Marcus Aurelius states the doctrine twice, once as a diagnosis and once as an in
 
 The compendium's application: run the distinction on a small case before you need it for a large one. A rude email lands; the email is a fact, and what follows it is the judgement's work. The reflections below press the honest limits: being physically hurt or exploited is harm that no adjustment of opinion cancels, and the claim here concerns what the mind adds to an event, not whether protection and justice matter.
 
-**Plain words** When something outside you goes wrong, the pain has two parts: the event, and your judgement about the event. The event you often cannot change. The judgement is the part the doctrine says is yours, and IV.7's arithmetic is that removing it removes the harm. This is not a claim that events are harmless; it is a claim about where your leverage lives.
+**Plain words** When something outside you goes wrong, the pain has two parts: the event, and your judgement about the event. The event you often cannot change. The judgement is the part the doctrine says is yours, and IV.7's arithmetic is that removing it removes the harm. This is a claim about where your leverage lives.
 
 *For example:* A rude email lands. The email is a fact. The three hours of seething afterwards are yours.
 

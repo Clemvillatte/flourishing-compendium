@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "AF — Affect",
 ---
 > **Principle 25** — Learn the full regulation toolkit: it is larger than "calm down."
 
-Emotion regulation is not one skill; it is a family of processes that can be deployed at different points in the emotion-generating sequence. These include [[Situation selection|situation selection]] (avoiding or seeking situations), situation modification, attentional deployment, cognitive change (reappraisal), and response modulation (suppression, physiological downregulation).
+Emotion regulation is a family of processes that can be deployed at different points in the emotion-generating sequence. These include [[Situation selection|situation selection]] (avoiding or seeking situations), situation modification, attentional deployment, cognitive change (reappraisal), and response modulation (suppression, physiological downregulation).
 
 ### The definition
 

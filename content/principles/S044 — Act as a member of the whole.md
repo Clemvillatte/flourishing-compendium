@@ -21,7 +21,7 @@ The membership claim is the bee: that which is not good for the swarm, neither i
 (Med. II.3, IV.10, V.8, V.30, VI.42, VII.9, VII.19, VII.47, VIII.7, VIII.34, VIII.50, VIII.52, X.1, X.6, X.33, XI.1, XI.18, XII.36; Disc. I.12, I.14, I.25, III.10, III.24; Seneca, Letters 71, 95, 107; Ench. 31, 53.)
 
 **Plain words**
-The whole-part idea is not a demand for self-sacrifice; it is a claim about where your interests actually live. The bee is not a donor to the swarm; the swarm is the condition of the bee. A decision that looks purely private lands somewhere in the web the passage describes, and that somewhere is not outside your life.
+The whole-part idea is a claim about where your interests actually live. The bee is not a donor to the swarm; the swarm is the condition of the bee. A decision that looks purely private lands somewhere in the web the passage describes, and that somewhere is not outside your life.
 
 *For example:*
 Throwing away a plastic bottle becomes a slightly different act when you remember where it ends up.

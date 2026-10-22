@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "BI — Biophysi
 ---
 > **Principle 1** — Understand that the body is the foundation of the mind: physiology shapes psychology
 
-The mind is not separate from the body; it is the body in action. Sleep is the strand with the strongest experimental record:
+The mind is the body in action. Sleep is the strand with the strongest experimental record:
 
 > "Sleep loss reliably triggers changes in negative (aversive) emotional processing, including irritability, emotional volatility, anxiety and aggression, as well as suicidal ideation, suicide attempts and suicide completion."
 > (Krause et al., The sleep-deprived human brain, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6143346/))

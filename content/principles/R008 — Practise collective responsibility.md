@@ -23,7 +23,7 @@ The responsibility follows the membership rather than a contract: you owe the co
 (Ubuntu philosophy; Gyekye, Tradition and Modernity.)
 
 **Plain words**
-A contract model of duty asks: what did I sign, and to whom? The communal model starts one step earlier: you were already somebody's relative, somebody's neighbour, somebody's contemporary before any paperwork existed. The duty to help someone in distress is not triggered by a transaction; it is standing, like a load-bearing wall in a house you live in.
+A contract model of duty asks: what did I sign, and to whom? The communal model starts one step earlier: you were already somebody's relative, somebody's neighbour, somebody's contemporary before any paperwork existed. The duty to help someone in distress stands like a load-bearing wall in a house you live in, and no transaction triggers it.
 
 *For example:*
 Someone who sees the street's kids hanging around with nothing to do and organises the weekend football. The duty was standing before the job description was consulted.

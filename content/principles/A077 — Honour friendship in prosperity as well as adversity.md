@@ -23,7 +23,7 @@ The presence of friends in prosperity implies both a pleasant passing of time an
 (NE VIII.5, VIII.9, IX.11; EE VII.3.)
 
 **Plain words**
-The necessity runs one way and the nobility the other: bad times need friends to help, good times need friends to share with and to benefit. Aristotle's prosperity duty is oddly specific: join readily in your friend's activities, but hang back from being the object of their kindness. The hard part he names is not being busy; it is being glad. The pleasant thought of their pleasure at your own good fortune requires that you actually take pleasure in it.
+The necessity runs one way and the nobility the other: bad times need friends to help, good times need friends to share with and to benefit. Aristotle's prosperity duty is oddly specific: join readily in your friend's activities, but hang back from being the object of their kindness. The hard part he names is being glad. The pleasant thought of their pleasure at your own good fortune requires that you actually take pleasure in it.
 
 *For example:*
 Showing up to a friend's launch party, and meaning your congratulations, is harder than showing up to their bad day.

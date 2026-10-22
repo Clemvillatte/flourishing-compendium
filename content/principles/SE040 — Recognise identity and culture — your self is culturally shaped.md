@@ -12,7 +12,7 @@ legacy: {"volume": "Volume V — Adaptive Flourishing", "book": "SE — Self", "
 ---
 > **Principle 40** — Recognise identity and culture: your self is culturally shaped
 
-Identity is not purely personal; it is shaped by culture. What counts as a "good" self, what roles are valued, what identities are available — these are culturally specific. Understanding this prevents both arrogance (assuming your culture's self is universal) and confusion (not knowing which self is yours).
+Identity is shaped by culture as well as by the person. What counts as a "good" self, what roles are valued, what identities are available — these are culturally specific. Understanding this prevents both arrogance (assuming your culture's self is universal) and confusion (not knowing which self is yours).
 
 Markus and Kitayama's formulation starts from a plain claim:
 

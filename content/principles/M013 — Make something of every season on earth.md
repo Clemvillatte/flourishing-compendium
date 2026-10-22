@@ -18,7 +18,7 @@ The article places an elegy about impermanence beside Cuacuauhtzin's declaration
 
 (The Cantares Mexicanos, the flower-and-song poems; the tradition's pairing of beauty with ephemerality. The Cuacuauhtzin song in the same source opens the same theme: "I SUFFER WITH SONGS, YET I CREATE THEM ON EARTH".)
 
-**Plain words** The elegy says the plain thing first: nothing here lasts, not jade, not gold, not feathers. Making something anyway is not a way to fix that; it is a way to spend the little while well. A poem does not stop the flowers drying, but it can be finished and handed to someone inside the short time. This page's reading: that is reason enough to make.
+**Plain words** The elegy says the plain thing first: nothing here lasts, not jade, not gold, not feathers. Making something anyway is a way to spend the little while well. A poem does not stop the flowers drying, but it can be finished and handed to someone inside the short time. This page's reading: that is reason enough to make.
 
 *For example:* The friend group that learned one of them is ill — and instead of (or along with) the casseroles, they make the book together: the photos, the letters, the one perfect evening. The making is the answer.
 ## Psychology parallels

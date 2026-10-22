@@ -18,7 +18,7 @@ The logic's political history is a live warning, kept here: the SEP records that
 
 This entry's reading: the individual is constituted in and through the communities that mediate them (family, nation, craft); the self that ignores the mediation is abstract. Practically, name the three communities that constitute you, and give each one deliberate service in the season ahead.
 
-**Plain words** Tanabe put a third term between the person and humanity: the species, meaning the sociopolitical identities — nation, town, craft — that a person is formed in and through. Individual and universal meet only through them. So serving your community is not giving yourself up; it is part of how you became yourself. The warning travels with the idea: the same logic once served nationalism, and Tanabe's correction was that communities relate by difference, not opposition, and that humanity is a community of communities.
+**Plain words** Tanabe put a third term between the person and humanity: the species, meaning the sociopolitical identities — nation, town, craft — that a person is formed in and through. Individual and universal meet only through them. So serving your community is part of how you became yourself. The warning travels with the idea: the same logic once served nationalism, and Tanabe's correction was that communities relate by difference, not opposition, and that humanity is a community of communities.
 
 For example: A craftsperson realises her skill is a gift from her teachers and community, and teaching an apprentice feels less like sacrifice and more like repayment.
 
