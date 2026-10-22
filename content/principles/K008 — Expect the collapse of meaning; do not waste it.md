@@ -41,3 +41,7 @@ Nishitani treats nihility as a threshold. Is this a consolation available only t
 %%
 How might a culture that is bad at tolerating emptiness, one that fills every gap with distraction, be failing its members?
 -->
+
+## Sources
+
+- Keiji Nishitani, *Religion and Nothingness*, trans. Jan Van Bragt (University of California Press, 1982), ch. 1, pp. 3-5, as quoted in [Graham Parkes, "Practicing Philosophy as a Matter of Life and Death"](https://www.grahamparkes.net/wp-content/uploads/2023/04/K10-Parkes-Nishitani_Keiji-Practicing_Philosophy_as_a_Matter_of_Life_and_Death.pdf) and [Buddhism: The Way of Emptiness](https://buddhism-thewayofemptiness.blog.nomagic.uk/what-is-religion-2/)

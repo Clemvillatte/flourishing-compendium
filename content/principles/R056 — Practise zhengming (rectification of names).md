@@ -19,10 +19,6 @@ One modern application is personal: "What the superior man requires, is just tha
 **Plain words** Call things what they are. A "break" that is really a leaving, a "commitment" you don't intend to keep — soft names make the situation easier to say and harder to see, and you cannot act well on what you cannot see. The discipline is plain naming: first in speech, then in what you do about it.
 
 *For example:* The manager who stops calling layoffs "right-sizing" and starts calling them layoffs — and finds the team can finally plan around the truth instead of the fog.
-## Sources
-
-- Confucius, *The Analects* 13.3, trans. James Legge, *The Chinese Classics* vol. 1: [Standard Ebooks edition, Book XIII](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13)
-
 ## Stories
 
 - [[ST241 — The Child at the Well|241. The Child at the Well]]
@@ -44,4 +40,7 @@ One modern application is personal: "What the superior man requires, is just tha
 - **Language and reality** (Wittgenstein, Tractatus Logico-Philosophicus)
 
 ## Sources
+
+- Confucius, *The Analects* 13.3, trans. James Legge, *The Chinese Classics* vol. 1: [Standard Ebooks edition, Book XIII](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13)
 - Confucius, Analects 13.3, tr. James Legge — full text, verified verbatim: https://sacred-texts.com/cfu/conf1.htm
+

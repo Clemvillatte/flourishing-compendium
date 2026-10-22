@@ -25,10 +25,6 @@ Marcus lists the possibilities and the compendium turns them into a fork: if dea
 
 *For example:* Imagine a person with a terminal diagnosis spending her last weeks arranging things for her family, and finding the fear shrinks as the arrangements grow.
 
-## Sources
-
-- Marcus Aurelius, *Meditations* 6.26, 7.22 and 9.19, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
-
 ## Stories
 
 - [[ST217 — The Morning Preparation|217. The Morning Preparation]]
@@ -36,6 +32,7 @@ Marcus lists the possibilities and the compendium turns them into a fork: if dea
 - [[ST219 — Coach Taylor's Mantra|219. Coach Taylor's Mantra]]
 ## Sources
 
+- Marcus Aurelius, *Meditations* 6.26, 7.22 and 9.19, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 - [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.26 (death as cessation), VII.22 (dispersion or translation), IX.19 (endings passed without hurt)
 
 ## Psychology parallels

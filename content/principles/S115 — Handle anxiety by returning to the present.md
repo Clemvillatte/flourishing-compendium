@@ -25,10 +25,6 @@ Before a difficult event, you may find yourself rehearsing a bad outcome. Bring 
 
 *For example:* Before a big presentation, you do the next task on the list rather than imagine the room.
 
-## Sources
-
-- Marcus Aurelius, *Meditations* 4.21 and 6.9, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
-
 ## Stories
 
 - [[ST217 — The Morning Preparation|217. The Morning Preparation]]
@@ -36,6 +32,7 @@ Before a difficult event, you may find yourself rehearsing a bad outcome. Bring 
 - [[ST219 — Coach Taylor's Mantra|219. Coach Taylor's Mantra]]
 ## Sources
 
+- Marcus Aurelius, *Meditations* 4.21 and 6.9, trans. Meric Casaubon (1634), Project Gutenberg edition: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 - [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.9 (return unto thyself, be not out of tune), IV.21 (gain the present time)
 
 ## Psychology parallels

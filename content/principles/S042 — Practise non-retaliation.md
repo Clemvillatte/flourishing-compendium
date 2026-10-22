@@ -36,11 +36,6 @@ Someone wrongs you. Before you answer, ask two questions. What does this situati
 
 Reporting a fraud to the authorities is justice. Posting the fraudster's home address online is something else.
 
-## Sources
-
-- Marcus Aurelius, *Meditations* 2.1 and 6.6, trans. George Long: [Internet Classics Archive, Book 2](https://classics.mit.edu/Antoninus/meditations.2.two.html); [Book 6](https://classics.mit.edu/Antoninus/meditations.6.six.html)
-- Epictetus, *Discourses* 1.18, trans. George Long (selection with the Encheiridion): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
-
 ## Stories
 
 - [[ST198 — The Gardener Tends|198. The Gardener Tends]]
@@ -65,5 +60,8 @@ Does a society need some element of retribution to feel just? Argue against the 
 -->
 
 ## Sources
-- Marcus Aurelius, Meditations, Project Gutenberg ebook 2680 — verified verbatim: https://www.gutenberg.org/cache/epub/2680/pg2680.txt (in that text the revenge line is printed as Bk VI §5 and the fellow-workers passage as Bk I §15)
-- Epictetus, Discourses I.18, "That we ought not to be angry with the errors (faults) of others", tr. George Long — verified verbatim: https://www.gutenberg.org/cache/epub/10661/pg10661-images.html
+
+- Marcus Aurelius, *Meditations* 2.1 and 6.6, trans. George Long: [Internet Classics Archive, Book 2](https://classics.mit.edu/Antoninus/meditations.2.two.html); [Book 6](https://classics.mit.edu/Antoninus/meditations.6.six.html)
+- Epictetus, *Discourses* 1.18, trans. George Long (selection with the Encheiridion): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
+- Marcus Aurelius, *Meditations*, trans. Meric Casaubon (1634), Project Gutenberg ebook 2680: the same two passages appear there in different wording (the revenge line is printed as Book VI, section 5): https://www.gutenberg.org/cache/epub/2680/pg2680.txt
+

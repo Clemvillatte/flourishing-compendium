@@ -25,10 +25,6 @@ A thought arrives the way a sound arrives: unasked. The Stoic claim is that betw
 
 *For example:* Noticing "there's the 'I'm a failure' thought again" and seeing it as weather.
 
-## Sources
-
-- Epictetus, *Discourses* I.1 and *Enchiridion* 6, trans. George Long (selection): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
-
 ## Stories
 
 - [[ST201 — Withholding Assent|201. Withholding Assent]]
@@ -37,6 +33,7 @@ A thought arrives the way a sound arrives: unasked. The Stoic claim is that betw
 - [[ST204 — Truman Tests the Water|204. Truman Tests the Water]]
 ## Sources
 
+- Epictetus, *Discourses* I.1 and *Enchiridion* 6, trans. George Long (selection): [Project Gutenberg](https://www.gutenberg.org/cache/epub/10661/pg10661.txt)
 - [Epictetus, Discourses I.1 and Enchiridion 6 (George Long translation), Delphi Complete Works of Epictetus, owner's Drive library](https://drive.google.com/file/d/1EDkL63FuSpabjbB7amxNodYocj_q_vaH/view?usp=drive_link) — the self-examining rational faculty; "the use of appearances"
 
 ## Psychology parallels

@@ -25,10 +25,6 @@ Marcus' version of kindness has a script: when someone wrongs you, correct them 
 
 *For example:* Holding the door and meeting the eyes of a cashier whose day has clearly been terrible.
 
-## Sources
-
-- Marcus Aurelius, *Meditations* 6.35 and 11.16, trans. Meric Casaubon (1634), in the Project Gutenberg edition with W. H. D. Rouse's introduction: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
-
 ## Stories
 
 - [[ST209 — The Citizen of the World|209. The Citizen of the World]]
@@ -37,6 +33,7 @@ Marcus' version of kindness has a script: when someone wrongs you, correct them 
 - [[ST212 — Paul Rusesabagina Makes the Calls|212. Paul Rusesabagina Makes the Calls]]
 ## Sources
 
+- Marcus Aurelius, *Meditations* 6.35 and 11.16, trans. Meric Casaubon (1634), in the Project Gutenberg edition with W. H. D. Rouse's introduction: [text](https://www.gutenberg.org/cache/epub/2680/pg2680.txt)
 - [Marcus Aurelius, Meditations (Meric Casaubon translation, 1634), Project Gutenberg](https://www.gutenberg.org/files/2680/2680-0.txt) — VI.35 (love those men... truly), XI.16 (meekness unconquerable; the correction script)
 
 ## Psychology parallels

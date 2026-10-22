@@ -23,11 +23,6 @@ Robert Eno's translation makes the underlying terms plain: "The junzi acts in ha
 **Plain words** Working with someone does not require copying them. The couplet distinguishes getting along from trying to be alike; it does not say agreement is a defect.
 
 *For example:* Imagine two colleagues who can work together while continuing to differ about one part of a plan.
-## Sources
-
-- Confucius, *The Analects* 13.23, trans. James Legge: [Standard Ebooks, Book XIII](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13)
-- Confucius, *The Analects* 13.23, trans. Robert Eno (2015): [Indiana University PDF](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
-
 ## Stories
 
 - [[ST241 — The Child at the Well|241. The Child at the Well]]
@@ -44,5 +39,8 @@ Robert Eno's translation makes the underlying terms plain: "The junzi acts in ha
 
 ## Sources
 
+- Confucius, *The Analects* 13.23, trans. James Legge: [Standard Ebooks, Book XIII](https://standardebooks.org/ebooks/confucius/analects/james-legge/text/chapter-13)
+- Confucius, *The Analects* 13.23, trans. Robert Eno (2015): [Indiana University PDF](http://www.indiana.edu/~p374/Analects_of_Confucius_(Eno-2015).pdf)
 - [Confucius, The Chinese Classics, Volume 1: Confucian Analects, trans. James Legge (Project Gutenberg ebook 4094)](https://www.gutenberg.org/cache/epub/4094/pg4094-images.html) — Analects 13.23 ("affable, but not adulatory", with the Chinese 君子和而不同、小人同而不和) and 1.12 ("In practising the rules of propriety, a natural ease is to be prized"), both verified verbatim
 - [The Analects of Confucius, two English translations: Legge (1893) and Robert Eno (2015, open access, Indiana University)](https://jimcleaver.com/uploads/s/2/l/g/2lgzgw01vvvf/file/wGrxCHYg.pdf?preview=1) — carrier of Eno's 13.23 rendering ("acts in harmony with others but does not seek to be like them"), verified verbatim
+

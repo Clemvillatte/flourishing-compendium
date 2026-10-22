@@ -23,11 +23,6 @@ In his colloquium paper he names the working parts — "tapu or taboo, feagaiga 
 **Plain words** Some relations are set apart: they carry obligations and restrictions, not just exchanges. Va tapuia is the name for that quality of a relation. A practical question to ask of any relationship: what is owed to it beyond what it gets me?
 
 *For example:* Imagine being invited to a gathering where you do not know the protocols, and asking the host which apply, rather than assuming you already know.
-## Sources
-
-- Melani Anae, "Teu le Va: Toward a Native Anthropology", *Pacific Studies* 33(2), 2010, quoting Tui Atua Tupua Tamasese Taisi Efi (2007), p. 3: [BYU-Hawaii digital collections](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/)
-- The page's quotations from Tui Atua's colloquium paper (pp. 2 and 10) were carried over from an earlier pass and were not re-opened this session
-
 ## Stories
 
 - [[ST239 — Ho'oponopono Sets It Right|239. Ho'oponopono Sets It Right]]
@@ -43,5 +38,7 @@ In his colloquium paper he names the working parts — "tapu or taboo, feagaiga 
 
 ## Sources
 
+- Melani Anae, "Teu le Va: Toward a Native Anthropology", *Pacific Studies* 33(2), 2010, quoting Tui Atua Tupua Tamasese Taisi Efi (2007), p. 3: [BYU-Hawaii digital collections](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/)
+- The page's quotations from Tui Atua's colloquium paper (pp. 2 and 10) were carried over from an earlier pass and were not re-opened this session
 - [Tui Atua Tupua Tamasese Taisi Efi, "In Search of Harmony: Peace in the Samoan Indigenous Religion" (paper for the colloquium organised by the Pontifical Council for Interreligious Dialogue, Vatican City, 12-15 January 2005)](https://www.library.auckland.ac.nz/external/ebooks/TupuolaEfiTuiatuaColloquiumpaperDec05.pdf) — the four harmonies and tapu/feagaiga/tuaoi (p. 2); the brother-sister feagaiga as status and covenant (p. 10)
-- [Melani Anae, "Teu Le Va: Toward a Native Anthropology", Pacific Studies 33(2) (2010)](https://digitalcollections.byuh.edu/pacific-studies-journal/vol33/iss2/4/) — carrier of the Tui Atua 2007 va tapuia definition passage, quoted with its citation
+

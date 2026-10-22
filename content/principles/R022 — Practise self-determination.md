@@ -23,11 +23,6 @@ The Declaration pairs the collective right with an internal dimension, autonomy 
 **Plain words** The question here is who sets the direction. This right concerns Indigenous peoples collectively — their political status and their economic, social and cultural development — not simply whether an individual gets a choice. The personal-scale echo is wanting a say in the decisions that shape your life; the right itself is about a people running its own affairs.
 
 *For example:* The community that insists the new program be designed with them at the table, not delivered to them — whether it works is theirs to find out, but the designing is theirs either way.
-## Sources
-
-- United Nations Declaration on the Rights of Indigenous Peoples, Articles 3 and 4, resolution 61/295, 13 September 2007: [UN](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf)
-- Gee, G., Dudgeon, P., Schultz, C., Hart, A., & Kelly, K. (2014). Aboriginal and Torres Strait Islander social and emotional wellbeing, p. 57 (as cited on this page; not re-opened this session)
-
 ## Stories
 
 - [[ST230 — Eddie Mabo and the Land|230. Eddie Mabo and the Land]]
@@ -44,5 +39,7 @@ The Declaration pairs the collective right with an internal dimension, autonomy 
 
 ## Sources
 
-- [UN Declaration on the Rights of Indigenous Peoples, adopted 13 September 2007, GA resolution 61/295 — full text PDF, UN DESA](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf) — Article 3 (self-determination) and Article 4 (autonomy in internal and local affairs), verified verbatim
+- United Nations Declaration on the Rights of Indigenous Peoples, Articles 3 and 4, resolution 61/295, 13 September 2007: [UN](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf)
+- Gee, G., Dudgeon, P., Schultz, C., Hart, A., & Kelly, K. (2014). Aboriginal and Torres Strait Islander social and emotional wellbeing, p. 57 (as cited on this page; not re-opened this session)
 - [Gee, Dudgeon, Schultz, Hart & Kelly, "Aboriginal and Torres Strait Islander Social and Emotional Wellbeing", Working Together, 2nd ed., ch. 4 (2014), pp. 55-68 — full text PDF, Telethon Kids Institute](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf) — the nine guiding principles incl. the right to self-determination (p. 57)
+
