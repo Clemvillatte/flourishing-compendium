@@ -82,3 +82,9 @@
 - K218: "dosage" replaced with "association"; the 25-experiments scope clarified (all but the last tested taking; the final tested getting); related-link gloss neutralized.
 - PROCESS FIX: adopting scripts/enrich_state.py start/done transitions for remaining items (advisor note).
 - All six pages re-validated exit 0 after repairs.
+
+## 2026-10-22 — K350 Seasonal mourning (worker-k1b-pplx)
+- Sources opened this session: Cunsolo and Ellis 2018 full text PDF (Nature Climate Change 8:275-281, author copy hosted at uwosh.edu; verbatim quotes with page locators: the ecological-grief definition p. 275, the natural-and-legitimate sentence p. 275, the three-contexts sentence p. 276); Albrecht 2005 full text PDF (PAN 3:41-55, obsant.eu scan; verbatim quotes with page locators: the solastalgia definition p. 45, the poignant-moments passage p. 46, the structural-similarity sentence p. 45).
+- Claims narrowed: the seed's mechanism claim ("trains the capacity to hold grief without being consumed by it, which is the precondition for sustained engagement") NOT carried onto the page as a study finding (not-covered paragraph labels the capacity/precondition idea this page's framing); the seasonal timing labelled this practice's own; step 4's mourning-vs-action separation labelled this practice's instruction (no study basis claimed).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; page states the absence in plain reader terms.
+- Validation: exit 0; workflow-narration grep clean.
