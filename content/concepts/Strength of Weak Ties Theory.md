@@ -9,13 +9,31 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY
 ---
 **Strength of Weak Ties Theory** — Granovetter — novel information and opportunities flow through weak, bridging ties rather than close, redundant circles.
 
+Mark Granovetter's 1973 paper in the American Journal of Sociology made the counterintuitive case that acquaintances outperform close friends as channels for opportunity. The theory starts from a definition of tie strength: "the strength of a tie is a (probably linear) combination of the amount of time, the emotional intensity, the intimacy (mutual confiding), and the reciprocal services which characterize the tie" (p. 1361). Strong ties know each other's worlds, which is why their advice is redundant.
+
+> "those to whom we are weakly tied are more likely to move in circles different from our own and will thus have access to information different from that which we receive." (Granovetter, [The Strength of Weak Ties](https://www.cs.umd.edu/~golbeck/INST633o/granovetterTies.pdf), AJS 78(6), 1973, p. 1371)
+
+### The evidence and the mechanism
+
+The paper's field study asked people in a Boston suburb who had found a job through contacts how often they had seen the contact around the time the information passed. The structural argument beat the motivational one: casual contacts carried the news that close friends could not, because close friends knew the same things you did. The bridge concept sharpens it. A bridge is a line in a network that provides the only path between two points, and on Granovetter's analysis weak ties are the ties most likely to do the bridging, since a strong tie's two ends tend to know each other already.
+
 ## Field
 
 Sociocultural · Psychological science
 
 ## Cited in parallels
 
-- [[SO030 — Use weak ties as a bridge]]
-[[SE081 — Give style to one's character]]
-[[SO025 — Prioritize the quality of relationships over the quantity]]
-## Cited in philosophy parallels
+- [[SO030 — Use weak ties as a bridge]] — the theory's practice rule
+- [[SE081 — Give style to one's character]] — weak ties kept open as a matter of character
+- [[SO025 — Prioritize the quality of relationships over the quantity]] — the quality-first rule the theory qualifies
+
+## Related concepts
+
+- [[Social capital theory Putnam]] — the community-level account of network resources
+- [[Loneliness]] — the distress signal that weak ties are also a remedy for
+
+## Sources
+
+- [Granovetter, The Strength of Weak Ties (1973), full text PDF](https://www.cs.umd.edu/~golbeck/INST633o/granovetterTies.pdf) — tie-strength definition (p. 1361), weak-ties information passage (p. 1371), Boston job study
+
+- Granovetter, 1973, American Journal of Sociology 78(6), 1360-1380
