@@ -182,8 +182,19 @@ research); all other sampled items PASS.
     mark the omission. The classes-of-images paraphrase and the discordant/
     harmonious-division paraphrase are faithful. No hallucinated quotes.
 
+## Round 13 (11:34Z) — Organism-environment transaction (w1s, commit 814b46cbe)
+
+20. **Organism-environment transaction (w1s)** — 2 quoted passages checked, 2
+    PASS: the self-action/inter-action/trans-action triad verified verbatim
+    against a fresh fetch of the Bentley Inquiry into Inquiries archive.org
+    full text; the "right to see together, extensionally and durationally"
+    sentence verified verbatim against the AIER full-text PDF of Knowing and
+    the Known (aier.org, "Our own procedure is the transactional..."). The
+    page's attribution (Dewey & Bentley, Knowing and the Known 1949) is
+    correct. No hallucinated quotes.
+
 ## Summary
 
-19 items checked, 16 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+20 items checked, 17 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first nineteen items after repair.
+quotation-faithful at a 100% sample of its first twenty items after repair.
