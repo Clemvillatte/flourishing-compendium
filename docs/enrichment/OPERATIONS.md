@@ -486,3 +486,6 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   (from the session's validation window) — the Marcus Aurelius Meditations 7.9 quote
   (Long translation) checked against the opened Lexundria carrier: verbatim, including
   the bracketed [order] gloss. Sample PASS. Ten samples this session, all PASS.
+- Supervisor verification sample 11 (2026-10-22 ~15:07 UTC): The holographic whole —
+  the Leibniz Monadology §56 quote checked against the opened UCSD Latta/Rutherford
+  PDF: verbatim. Sample PASS. Eleven samples this session, all PASS.
