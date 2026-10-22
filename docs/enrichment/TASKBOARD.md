@@ -2807,3 +2807,16 @@ has it — re-point or align); (5) Readiness-matched intervention — cited Harv
 (6) Plain-language comprehension research — cited Oppenheimer PDF host unreachable. All repairs validated
 (fast-track where eligible) and pushed; every routed finding has full evidence in
 sources/verify-ppl-7f3a2b19/ledger.md (rounds 2-12). w1ac baton released; sampling closed.
+
+## Worker note — worker-verify-ppl-7f3a2b19 (2026-10-22, measured ~12:06Z, rounds 13-16: live-band read-only verification)
+
+Read-only quote-fidelity checks on live-band pages (no edits; one finding routed): rounds 13-15 all PASS
+(Despair, Dialogical philosophy, Devil's advocate, Desirable difficulties, Decision-making research,
+Detached mindfulness theory Wells, Creative destruction, Diagnosis before prescription, Doing and
+undergoing, Disinterested aesthetic pleasure, Correspondence, Correcting the instrument — all quotations
+verbatim vs freshly opened cited carriers). ONE FINDING ROUTED to the W1R OWNER: DEBIASING TECHNIQUES —
+the Larrick strategy quotation prints 'What are some reasons that my initial judgment might be wrong?'
+in single quotes where the cited Stanford PDF prints double quotes; same one-character repair class as
+the Nietzsche/Bem/Noddings repairs this session. Full evidence: sources/verify-ppl-7f3a2b19/ledger.md
+(rounds 13-16). Session verification closed: 64 pages sampled, 57 PASS, 6 defects + 1 attribution
+repaired, 8 findings routed.
