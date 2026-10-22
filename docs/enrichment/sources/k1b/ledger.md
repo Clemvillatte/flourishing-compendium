@@ -66,3 +66,9 @@
 - Claims narrowed: the seed's example "I am in the process of learning how to start" labelled this practice's own wording; the page carries the honest caution the literature requires (the not-covered paragraph states the mindset studies measured beliefs about attributes against academic achievement, did not test self-label reframes, and quotes the weak intervention evidence verbatim, including the 86% null effect sizes).
 - Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
 - Validation: exit 0; workflow-narration grep clean.
+
+## 2026-10-22 — K329 Revision loop (worker-k1b-pplx)
+- Sources opened this session: Ericsson, Krampe and Tesch-Romer 1993 full text PDF (Psychological Review 100(3) 363-406, hosted copy; verbatim quotes with page locators: the deliberate-practice definition passage p. 368, the structured-activity sentence p. 368, the 10-years sentences pp. 366/372, the abstract); Sommers 1980 full text PDF (CCC 31(4) 378-388, JSTOR copy hosted at CUNY; verbatim quotes with page locators: the revision redefinition p. 379, the thesaurus-philosophy passage pp. 380-381, the lexical-changes sentence pp. 380-381, the form-or-shape sentence p. 383, the chiseling quote p. 383).
+- Claims narrowed: the seed's three questions (clearer/honester/more alive) labelled this practice's own; the seed's Ericsson framing kept but bounded (not-covered paragraph states deliberate practice was defined for skill domains with teachers and immediate feedback, the 10-year claim concerns expert performance, and a solo loop has no independent feedback; Sommers scoped as a 20+20 case study, not an experiment).
+- Guided version: GAP FLAGGED pending supervisor ruling, none found this session, not claimed as an established exemption; recorded in k1b.json flagged dict.
+- Validation: exit 0; workflow-narration grep clean.
