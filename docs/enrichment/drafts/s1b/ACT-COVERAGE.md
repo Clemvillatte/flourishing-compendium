@@ -23,8 +23,8 @@ The book's index supplies these names and locators. Exact object wording and sub
 | The Cycling Race | [147](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P158, P162 | Needs source-level narrative research |
 | Eating an Apple | [54](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157 | Needs source-level narrative research |
 | Engaging the Clutch | [56-57](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157, P162 | Needs source-level narrative research |
-| Fly Fishing | [79](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159 | Needs source-level narrative research |
-| Hands as Thoughts | [80](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159 | Needs source-level narrative research |
+| Fly Fishing | [79](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159, P162 | s1b-020; short book-carrier account and original application |
+| Hands as Thoughts | [80](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P159, P161, P162 | s1b-022; independently opened later author version |
 | Humble Fisherman | [142](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P158 | Briefly referenced example; inspect cited origin before retelling |
 | Hungry Tiger | [18, 22](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P155 | Existing ST331; do not create a duplicate |
 | Joe the Bum | [161](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | P157 | Briefly referenced example; inspect original before retelling |
@@ -101,6 +101,7 @@ The owner's definition of Stories also admits experiential narrative objects. Th
 |---|---|---|---|
 | Holding a Pen | [47-49](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-013 | Continue the task while easing unnecessary grip on the desired result |
 | Floating Leaves on a Moving Stream | [68](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-018 | Notice thinking, including being caught, and return to the chosen activity |
+| Milk, Milk, Milk | [71; Appendix J 203](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf) | s1b-021 | Primary experimental narrative, with clinical-utility and durability limits |
 
 ## Publication and rights gates
 
@@ -113,5 +114,7 @@ The owner's definition of Stories also admits experiential narrative objects. Th
 ## Evidence quality correction
 
 The initial prompted PDF extraction produced an inaccurate inventory and five incorrect page locators. It was discarded. The five locators were repaired against the unprompted full source and index before those drafts were marked ready. This register was built from the raw text and checked against actual index rows and Appendix J, not the earlier generated extraction.
+
+Independent advisor review confirmed all 38 main-index rows and all 37 Appendix J metaphor rows. Removing nine title overlaps yields 66 normalized unique metaphor names; this count excludes the separate exercise table.
 
 Opened source: [Stoddard and Afari, The Big Book of ACT Metaphors (2014)](https://mimhtraining.com/wp-content/uploads/2022/06/The-Big-Book-of-Act-Metaphors.pdf), main-text index on printed pp. 221-228 and Appendix J on pp. 201-206. Register date: 2026-10-22 UTC.

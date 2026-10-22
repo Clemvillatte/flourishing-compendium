@@ -460,7 +460,7 @@
    ]
   },
   "s1b-020": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "Fly Fishing: distinguish a thought hook from the struggle that follows; author source search",
    "history": [
     {
@@ -471,6 +471,11 @@
      "t": "2026-10-22T15:33:22+00:00",
      "to": "qc_pending",
      "note": "Full raw book p79 checked; brief narrative, source quote and original application; no extended script"
+    },
+    {
+     "t": "2026-10-22T15:42:30+00:00",
+     "to": "ready",
+     "note": "Independent tenth-item advisor passed facts, quotations and matrices; requested clinical-utility clarification applied"
     }
    ]
   },
@@ -530,5 +535,5 @@
    ]
   }
  },
- "updated": "2026-10-22T15:39:54+00:00"
+ "updated": "2026-10-22T15:42:30+00:00"
 }
