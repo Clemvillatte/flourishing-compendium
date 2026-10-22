@@ -14,15 +14,15 @@ Accept the reality of a situation you cannot change, not as approval but as accu
 
 ## Protocol
 
-The steps are Linehan's, from the DBT skills handouts:
+The steps are adapted from Linehan's DBT skills handouts; the quoted lines are exact:
 
 1. Observe that you are questioning or fighting reality ("It shouldn't be this way").
 2. Remind yourself that the unpleasant reality is just as it is and cannot be changed ("This is what happened").
 3. Remind yourself that there are causes for the reality. Acknowledge that some sort of history led up to this very moment; given those causes, "this reality had to occur just this way" ("This is how things happened").
-4. Practice accepting with the whole self (mind, body, and spirit). Accepting self-talk, relaxation, mindfulness of breath, half-smiling and willing hands, prayer, going to a place that helps, or imagery.
-5. Practice opposite action. List all the behaviors you would do if you did accept the facts. Then act as if you have already accepted the facts.
+4. Practice accepting with the whole self (mind, body, and spirit): "Be creative in finding ways to involve your whole self. Use accepting self-talk—but also consider using relaxation; mindfulness of your breath; half-smiling and willing hands while thinking about what feels unacceptable; prayer; going to a place that helps bring you to acceptance; or imagery."
+5. Practice opposite action: "List all the behaviors you would do if you did accept the facts. Then act as if you have already accepted the facts. Engage in the behaviors that you would do if you really had accepted."
 
-All five steps are quoted from the handout sequence ([Linehan, 2015 handouts](https://irp.cdn-website.com/3ac12d04/files/uploaded/dbt_distress_tolerance_reality_acceptance_handouts.pdf)).
+The quoted passages are from the handout sequence; the framing between them is condensed ([Linehan, 2015 handouts](https://irp.cdn-website.com/3ac12d04/files/uploaded/dbt_distress_tolerance_reality_acceptance_handouts.pdf)).
 
 ## A guided version
 
@@ -32,7 +32,7 @@ Linehan's own caution applies: "If someone says to you, 'Just accept it,' you ca
 
 The handout defines the skill: "Radical means all the way, complete and total. It is accepting in your mind, your heart, and your body. It's when you stop fighting reality, stop throwing tantrums because reality is not the way you want it, and let go of bitterness" ([Linehan, 2015](https://irp.cdn-website.com/3ac12d04/files/uploaded/dbt_distress_tolerance_reality_acceptance_handouts.pdf)). What has to be accepted: "Reality is as it is (the facts about the past and the present are the facts, even if you don't like them)"; "Everything has a cause"; "Life can be worth living even with painful events in it" (same handout). And the boundary: "Radical Acceptance Is Not: Approval, compassion, love, passivity, or against change" (same handout).
 
-What the research does not cover: no trial isolates radical acceptance. It is one distress tolerance skill inside a larger treatment package, tested as part of that package, not as a standalone practice. The handout is a treatment manual, not a study, and the spoken quotes come from an interview, not data.
+What these documents do not establish: the handout teaches the skill and the interview explains it; neither tests the skill standing alone. The treatment it belongs to is tested as a package, and these sources do not separate this skill's own effect from the rest.
 
 ## Operationalises
 

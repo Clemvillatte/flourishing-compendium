@@ -14,13 +14,13 @@ Write down: the situation, the automatic thought, the emotion it triggered, evid
 
 ## Protocol
 
-The Beck Institute's instructions, verbatim, with the columns as printed:
+The Beck Institute's instructions, adapted from the worksheet; the quoted lines are exact:
 
 1. "When you notice your mood getting worse, or you find yourself engaging in unhelpful behavior, ask yourself, 'What's going through my mind right now?' and as soon as possible, jot down the thought or mental image in the Automatic Thought(s) column."
 2. Situation: "What event (external or internal) is associated with the unpleasant emotion? Or what unhelpful behavior did you engage in?"
 3. Automatic thought: "What thought(s) and/or image(s) went through your mind...? How much did you believe the thought(s)?"
 4. Emotion: "What emotion(s)... did you feel...? How intense (0-100%) was the emotion?"
-5. Adaptive response: compose a response to the thought, using the evidence questions, and indicate how much you believe the response.
+5. Adaptive response: "(optional) What cognitive distortion did you make? Use questions below to compose a response to the automatic thought(s). Indicate how much you believe each response."
 6. Outcome: "How much do you now believe each automatic thought? What emotion(s) do you feel now? How intense (0-100%) is the emotion?"
 
 Two more lines from the same sheet are worth keeping: "Spelling, handwriting and grammar don't count," and "It was worth doing this worksheet if your mood improves by 10% or more" ([Beck Institute worksheet packet](https://learn.beckinstitute.org/s/sfsites/c/cms/delivery/media/MCPNPP5FFGJVDJ7C74SMXCMM5CWY?recordId=01t4M000004NMqn&buyerId=3K04M0000000001)).
@@ -31,9 +31,9 @@ The record is written by you, on your own thoughts; no guided recording is cited
 
 ## Evidence
 
-The clinical teaching adds a timing rule: "Patients learn to record upsetting incidents as soon as possible after they occur (delay makes it difficult to recall thoughts and feelings accurately)" ([Gautam et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7001356/)). The two-column progression is printed there as well: the first record catches the situation, emotions and automatic thoughts; the second adds "Evidence for automatic thoughts | Evidence against automatic thoughts | Balanced thought | Rate emotion now (0-100%)" (same article). The emotion ratings have a stated purpose: they "help to make small changes in emotional state obvious when the search for alternatives to negative thoughts begins," because "change is rarely all-or-nothing, and small improvements may otherwise be missed" (same article).
+The clinical teaching adds a timing rule: "Patients learn to record upsetting incidents as soon as possible after they occur (delay makes it difficult to recall thoughts and feelings accurately)" ([Gautam et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7001356/)). The two worksheet versions are printed there as well: the first catches the situation, emotions and automatic thoughts; the second adds "Evidence for automatic thoughts | Evidence against automatic thoughts | Balanced thought | Rate emotion now (0-100%)" (same article). The emotion ratings have a stated purpose: they "help to make small changes in emotional state obvious when the search for alternatives to negative thoughts begins," because "change is rarely all-or-nothing, and small improvements may otherwise be missed" (same article).
 
-What the research does not cover: the evidence base belongs to cognitive therapy as a package, not to the self-help record alone. No trial isolates a lone person filling in columns; the record was designed as homework between sessions, with a therapist asking "And what went through your mind at that moment?" (same article). Used alone it is a thinking tool with clinical pedigree, not a treatment.
+What these documents do not establish: the evidence base described belongs to cognitive therapy as a package, not to the record alone. The record was designed as homework between sessions, with a therapist asking "And what went through your mind at that moment?" (same article); neither source tests a standalone self-help version. Used alone it is a thinking tool with clinical pedigree; these documents do not test a standalone self-help version.
 
 ## Operationalises
 
