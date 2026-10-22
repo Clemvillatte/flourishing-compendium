@@ -40,6 +40,6 @@ The Declaration pairs the collective right with an internal dimension, autonomy 
 ## Sources
 
 - United Nations Declaration on the Rights of Indigenous Peoples, Articles 3 and 4, resolution 61/295, 13 September 2007: [UN](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf)
-- Gee, G., Dudgeon, P., Schultz, C., Hart, A., & Kelly, K. (2014). Aboriginal and Torres Strait Islander social and emotional wellbeing, p. 57 (as cited on this page; not re-opened this session)
+- Gee, G., Dudgeon, P., Schultz, C., Hart, A., & Kelly, K. (2014). Aboriginal and Torres Strait Islander social and emotional wellbeing, p. 57 
 - [Gee, Dudgeon, Schultz, Hart & Kelly, "Aboriginal and Torres Strait Islander Social and Emotional Wellbeing", Working Together, 2nd ed., ch. 4 (2014), pp. 55-68 — full text PDF, Telethon Kids Institute](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf) — the nine guiding principles incl. the right to self-determination (p. 57)
 
