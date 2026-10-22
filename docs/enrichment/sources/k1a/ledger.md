@@ -105,3 +105,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - No empirical evidence opened: the page states plainly that the Daodejing is a classical wisdom text and that the seed's "cheapest and most effective" claim is editorial framing, not a study finding. The protocol is labelled as the compendium's weekly adaptation.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the five earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K168 — Near-enemy audit (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Buddhaghosa, Visuddhimagga, Ñāṇamoli translation (WisdomLib page doc1085082, chapter IX sections 93-101), downloaded directly with curl and the quotes read from the raw page text, not an extraction summary. The Nyanaponika Thera "Four Sublime States" essay (accesstoinsight) was also fetched but does not contain the near-enemy list; it was not used.
+- Both blockquotes verified against the raw text: the IX.98-101 near-enemy passage (loving-kindness/greed, compassion/grief based on the home life, gladness/joy based on the home life, equanimity/equanimity of unknowing) and the IX.93-96 success-and-failure lines. The raw page inserts a "[319]" page marker inside the loving-kindness sentence; it is omitted from the page quote as a non-textual marker (same treatment as the PTS anchors in K144, recorded here).
+- The seed's modern glosses (pity, indifference, comparison, attachment) are labelled on the page as the compendium's translations of the classical states; the classical terms are used in the quotes. The seed's "serve the opposite function" is carried as the manual's own framing, and the page states the Visuddhimagga is a fifth-century manual, not a trial.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
