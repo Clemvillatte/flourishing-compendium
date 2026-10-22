@@ -11,7 +11,9 @@ Midlevel terms are the ACT tradition's name for its working concepts: terms like
 
 > "In ACT we call these midlevel terms, indicating that the construct is based off a principle, but that users should remember that it is a construct. Midlevel terms are easy to disseminate, but will lack the specificity of the actual principle." (Twohig & Levin, Acceptance and commitment therapy as a treatment for anxiety and depression: A review)
 
-The honesty of the label is its value: it reminds practitioners that "acceptance" or "defusion" is a useful handle, not a basic science entity. Note the term's home: it comes from ACT's literature, not from the PBT book — it is included here as an adjacent concept because the compendium's PBT coverage needs the layer it names. (Exact quotation verification against a second rendering of the source remains pending; see the ledger.)
+The honesty of the label is its value: it reminds practitioners that "acceptance" or "defusion" is a useful handle, not a basic science entity. A review of acceptance in behavior analysis presses the same point: "Midlevel terms such as 'acceptance' have a broad scope (i.e., can be easily applied across a broad range of contexts) but lack precision", and the same word gets used interchangeably as a psychological process, a topographical procedure and a behavioral repertoire — so the same name can mean three different things across studies ([Bordieri, Acceptance: A research overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC8854448/)).
+
+The name is not a complaint. The trade-off it marks is deliberate: midlevel terms are chosen because they are easy to disseminate, and the label keeps the borrowing honest by flagging that the term is a construct, not the principle underneath it. The term is at home in ACT's clinical literature; it is included here as an adjacent concept because the compendium's PBT coverage needs the layer it names.
 
 ## Related concepts
 
@@ -24,4 +26,5 @@ The honesty of the label is its value: it reminds practitioners that "acceptance
 
 ## Sources
 
-- Twohig, M. P., & Levin, M. E., Acceptance and commitment therapy as a treatment for anxiety and depression: A review, Utah State University DigitalCommons ([PDF](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2337&context=psych_facpub)) — the midlevel-terms definition, quoted from this opened carrier
+- Twohig, M. P., & Levin, M. E., Acceptance and commitment therapy as a treatment for anxiety and depression: A review, Utah State University DigitalCommons ([PDF](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2337&context=psych_facpub)) — the midlevel-terms definition, quoted from this carrier; the passage also appears verbatim in the accepted-manuscript copy indexed at ([core.ac.uk](https://core.ac.uk/download/pdf/84291973.pdf))
+- Bordieri, M. J., Acceptance: A Research Overview and Application of This Core ACT Process in ABA, Behavior Analysis in Practice 15(1), doi 10.1007/s40617-021-00575-7, PMC 8854448 ([article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8854448/)) — midlevel terms' broad scope and lack of precision; the process/procedure/repertoire ambiguity
