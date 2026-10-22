@@ -505,15 +505,20 @@
    ]
   },
   "s1b-023": {
-   "status": "researching",
+   "status": "qc_pending",
    "angle": "Tug-of-War: preserve Box6 open ending and locate letting-go-of-rope in article Session2",
    "history": [
     {
      "t": "2026-10-22T15:37:07+00:00",
      "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:39:47+00:00",
+     "to": "qc_pending",
+     "note": "Full scholarly article Box6 and later Session2 read; quote source distinguished from open-ended box"
     }
    ]
   }
  },
- "updated": "2026-10-22T15:37:07+00:00"
+ "updated": "2026-10-22T15:39:47+00:00"
 }
