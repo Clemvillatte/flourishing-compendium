@@ -7,25 +7,25 @@ file: "The serenity prayer"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-T"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
-The serenity prayer is Reinhold Niebuhr's three-part petition: accept what cannot be changed, change what should be changed, and know which is which. It is best known through Alcoholics Anonymous, whose version the Yale Alumni Magazine's investigation records as:
+The serenity prayer is a three-part petition, long attributed to Reinhold Niebuhr: accept what cannot be changed, change what should be changed, and know which is which. It is best known through Alcoholics Anonymous, whose version the Yale Alumni Magazine's investigation records as:
 
 > "God grant me the serenity to accept the things I cannot change, courage to change the things I can and wisdom to know the difference."
 > — the Alcoholics Anonymous wording, recorded in [Yale Alumni Magazine, 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html)
 
-Niebuhr's own preferred version, according to his daughter Elisabeth Sifton, runs differently:
+Niebuhr's preferred version, according to his daughter Elisabeth Sifton, runs differently:
 
 > "God, give us grace to accept with serenity the things that cannot be changed, courage to change the things that should be changed, and the wisdom to distinguish the one from the other."
 > — the 1943 version, in [Sifton's account via Yale Alumni Magazine](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html)
 
-Two differences stand out. Niebuhr's version asks for grace, uses "us" rather than "me", and says "should be changed" rather than "can". Both versions pair acceptance with action, and both ask for the judgement to tell their occasions apart.
+The versions differ in pronoun and phrasing as well as in the features above: Niebuhr's asks for grace, uses "us" rather than "me", and says "should be changed" rather than "can". Both pair acceptance with action, and both ask for the judgement to tell their occasions apart.
 
 ### The authorship question
 
-Sifton records that her father composed the prayer in the summer of 1943, in Heath, Massachusetts, and first used it in an ordinary Sunday morning service at the Heath Union Church that summer. The prayer has long drawn doubts about its authorship, and Niebuhr's own answer was modest. He conceded the possibility of having assimilated the concept from some earlier, forgotten source, while saying he believed he had originated it. Alcoholics Anonymous adopted the prayer during or soon after the Second World War, and did not at first attribute it to anyone.
+The prayer has long drawn doubts about its authorship. Fred Shapiro's investigation in the Yale Alumni Magazine found versions of the formula printed in newspapers from 1936 onward, none of which refer to Niebuhr, and concluded that it appears possible, indeed plausible, that Niebuhr unconsciously adapted the prayer in the early 1940s from already-circulating formulations of unknown origin. Sifton's account places the composition in the summer of 1943, in Heath, Massachusetts, with first use at the Heath Union Church that summer, and she responds to Shapiro that the discoveries simply suggest Niebuhr's voice reached more churches than previously realised. Niebuhr's own answer was modest: he conceded the possibility of having assimilated the concept from some earlier, forgotten source, while saying he believed he had originated it.
 
 ## Sources
 
-- [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the opened carrier of the 1943 version, the AA wording, Sifton's account of the 1943 Heath sermon, and Niebuhr's own statement on authorship.
+- [Yale Alumni Magazine, "Who Wrote the Serenity Prayer?", July/August 2008](https://archives.yalealumnimagazine.com/issues/2008_07/serenity.html) — the opened carrier of the 1943 version, the AA wording, the pre-1943 attestations, Sifton's account, Niebuhr's own statement, and Shapiro's conclusion.
 
 ## Cited in psychology parallels
 

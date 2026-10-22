@@ -16,7 +16,7 @@ The classification proceeds in stages. First, a desire is either natural or vain
 
 ### How the classification is used
 
-The Letter gives one further instruction about the natural. Epicurus writes that "all that is natural is easy to be obtained, but that which is superfluous is hard", and that "bread and water produce the highest pleasure, when one who needs them puts them to his lips". The sorting is the practical point: it tells a person which desires can be met and which are hard to obtain.
+The Letter gives one further instruction about the natural. Epicurus writes that "all that is natural is easy to be obtained, but that which is superfluous is hard", and that "bread and water produce the highest pleasure, when one who needs them puts them to his lips".
 
 ## Sources
 

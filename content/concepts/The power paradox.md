@@ -12,7 +12,7 @@ The power paradox is the psychologist Dacher Keltner's name for a pattern he rep
 > "While people usually gain power through traits and actions that advance the interests of others, such as empathy, collaboration, openness, fairness, and sharing; when they start to feel powerful or enjoy a position of privilege, those qualities begin to fade."
 > — [Keltner, Harvard Business Review, October 2016](https://hbr.org/2016/10/dont-let-power-corrupt-you)
 
-The paradox is in the direction of the change. The article's summary of what the pattern leads to is more rude, selfish and unethical behaviour, which in turn undermines the reputation and influence the power rested on. Keltner's practical counter is to be attentive to how it feels to gain status, to look for warning signals in one's own behaviour, and to practise what he calls the three ethics of good power: empathy, gratitude and generosity. This is his account of the pattern, not a settled general law.
+The paradox is in the direction of the change. The article's summary of what the pattern leads to is more rude, selfish and unethical behaviour, which in turn undermines the reputation and influence the power rested on. Keltner's practical counter is to be attentive to how it feels to gain status, to look for warning signals in one's own behaviour, and to practise what he calls the three ethics of good power: empathy, gratitude and generosity.
 
 ### In the compendium
 

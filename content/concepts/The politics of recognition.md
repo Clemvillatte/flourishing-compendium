@@ -24,6 +24,7 @@ Taylor constructs from this a politics of equal recognition, and identifies two 
 
 - [Internet Encyclopedia of Philosophy, "Social and Political Recognition"](https://iep.utm.edu/recog_sp/) — the opened carrier of the verbatim Taylor quotes and page numbers, the identity definition, the honour-to-dignity narrative, and the equal-dignity-versus-difference summary.
 - Kymlicka, Multicultural Citizenship — inherited seed reference, not consulted this pass.
+- Taylor, Multiculturalism — inherited seed reference, not consulted this pass.
 
 ## Cited in psychology parallels
 
