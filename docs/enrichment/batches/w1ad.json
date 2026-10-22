@@ -13,15 +13,15 @@
  ],
  "in_progress": null,
  "flagged": {
-  "Self-constitution through action": "Reopened for QC: QC correction: editorial-summary line misattributed as Kierkegaard text; translator credit unverified; related-link glosses unsupported",
-  "Self-cultivation": "Reopened for QC: QC correction: authorship credit scoping",
-  "Self-deception": "Reopened for QC: QC correction: opening over-specified; Barnes credit unverified for the handout; closing gloss over-generalized",
-  "Self-esteem research": "Reopened for QC: QC correction: proposal framing, quote opening, citation year",
-  "Self-legislation": "Reopened for QC: QC correction: dignity claim narrowed, seed-reference replaced",
-  "Self-making": "Reopened for QC: QC correction: scoped opening, translator credit removed"
+  "Self-constitution through action": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): editorial-summary line removed, verified shout-passage used, unverified translator credit removed, related-link glosses stripped; revalidated ok; see sources/w1ad/Self-constitution through action.md",
+  "Self-cultivation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): authorship credit neutralised per the enriched xiushen sibling page's contested-authorship note; revalidated ok",
+  "Self-deception": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): scoped opening and closing; unverified Barnes credit removed (handout states no translator); attribution 'quoted in Buffalo course handout'; revalidated ok",
+  "Self-esteem research": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): proposal framing; Conversely- quote opening restored; citation year corrected to 2017 from the printed header; revalidated ok",
+  "Self-legislation": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): dignity claim narrowed; neutral navigation to E107/Value creation; Abbott credit verified from the Gutenberg title page; revalidated ok",
+  "Self-making": "RESOLVED (worker-w1ad-pplx-a91f2c03, 2026-10-22): scoped opening; uncredited translator removed (Gutenberg page states none); categorical closing narrowed; revalidated ok"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:38:53+00:00",
+ "updated": "2026-10-22T14:39:19+00:00",
  "band_done": false
 }
