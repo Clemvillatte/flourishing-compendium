@@ -42,3 +42,8 @@
 - Opened: Lehrer & Gevirtz, Frontiers in Psychology 5:756 (2014), full text at frontiersin.org.
 - Verbatim: "RSA is the heart pattern that occurs when heart rate increases during inhalation and decreases during exhalation."
 - Mechanism paragraph and baroreflex-gain finding restated from the same opened article (phase relationships, baroreflex, resonance; twice-daily practice over ~3 months raising resting baroreflex gain).
+
+## Responsive parenting (fast-track bar)
+- Opened: Morris, Price, McKenzie & Kemp, IMHJ 2023 (Wiley open access, 10.1002/imhj.22037) — verbatim construct definition; NCBI Parenting Knowledge volume — developmental-outcome correlation sentence.
+- Author attribution corrected mid-item (fetch returned the byline: Sophie Stucley Morris et al.).
+- FLAG for supervisor: R073's psychology-parallel line cites "Bernstein et al., 2014" for responsive parenting. The construct literature centers on Landry, Bernard, Bornstein; the only Bernstein et al. 2014 found is a prenatal infant-face perception study (IMHJ 35, 233-244), not a responsive-parenting construct. Recorded via enrich_state flag.
