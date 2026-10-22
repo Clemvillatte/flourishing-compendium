@@ -12,18 +12,32 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 53** — Act voluntarily
 
-The principle's definition is NE III.1's:
+Aristotle distinguishes voluntary from involuntary action when considering praise, blame and pardon. His account asks where an action originates and what the person knew:
 
 > Since that which is done under compulsion or by reason of ignorance is involuntary, the voluntary would seem to be that of which the moving principle is in the agent himself, he being aware of the particular circumstances of the action. (NE III.1, Ross trans., [MIT Classics](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html))
 
-The chapter adds nuance the principle keeps: actions done from fear (jettisoning cargo in a storm) are mixed, "more like voluntary actions," because the moving principle is in the man and in his power to do or not to do (III.1). And the voluntariness of character follows: "Therefore virtue also is in our own power, and so too vice" (III.5). The directive to own your actions as your own summarizes that chain.
+Calling an action voluntary does not mean approving it or saying that it was chosen after deliberation. Aristotle explicitly distinguishes voluntary action from deliberate choice in III.2 ([Ross translation](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html)).
 
-(NE III.1.)
+His captain throwing cargo overboard in a storm illustrates a mixed action: unwanted in itself, but chosen under the circumstances to save lives. He also allows pardon for some actions under pressures no one could withstand. As Tim O'Keefe explains, the circumstances remain relevant when assessing such actions ([Stanford Encyclopedia of Philosophy, §2.1](https://plato.stanford.edu/entries/freedom-ancient/)).
 
-**Plain words**
-Aristotle's test has two parts: did the action start in you, and did you know the circumstances? Most "I had no choice" moments fail the first part, not the second. The harder claim is that character works the same way: built from choices, which makes it yours too.
+### Plain words
 
-*For example:* Telling yourself "I had no choice" about a snappy reply you sent knowingly, at your desk, with time to think, fails Aristotle's first test: the reply started in you.
+Ask what you did knowingly and what was genuinely forced or unknown to you. Do not treat the mere fact that someone acted as proof that they had acceptable alternatives. Equally, discomfort or regret alone does not establish that an action was outside your agency.
+
+### For example
+
+Imagine that you knowingly send an unkind reply, without threats or compulsion. Its originating in you supports Aristotle's voluntary-action condition; it does not fail that condition. Reviewing what you could have done differently is a different task from assuming the same freedom in someone facing a serious threat.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics III.1–2, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.3.iii.html): voluntary, involuntary and mixed action; voluntary action versus deliberate choice.
+- [Tim O'Keefe, "Ancient Theories of Freedom and Determinism", Stanford Encyclopedia of Philosophy, §2.1](https://plato.stanford.edu/entries/freedom-ancient/): responsibility and the circumstances of mixed actions.
+
+## Related concepts
+
+- [[Responsibility]]: the question of praise and blame.
+- [[Prohairesis]]: deliberate choice, distinguished here from the voluntary.
+- [[Freedom]]: a broader comparison, not an interchangeable term.
 
 ## Stories
 
@@ -55,8 +69,8 @@ Aristotle's test has two parts: did the action start in you, and did you know th
 - [[K314 — Anxiety-as-signal|K314 Anxiety-as-signal]]
 ## Psychology parallels
 
-- **[[Locus of control|Locus of control]]**, internal locus predicts well-being and health (Rotter, 1966)
-- **[[Self-efficacy|Self-efficacy]]**, belief in one's capacity to act predicts outcomes (Bandura, 1977)
+- [[Locus of control|Locus of control]] (Rotter, 1966)
+- [[Self-efficacy|Self-efficacy]] (Bandura, 1977)
 
 ## Philosophy parallels
 
