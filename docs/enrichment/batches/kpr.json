@@ -288,18 +288,18 @@
     {
       "id": "K418",
       "title": "Six Healing Sounds (liuzi jue)",
-      "status": "qc-pending",
+      "status": "supervisor-accepted (scoped PASS accepted 2026-10-22 by supervisor-pplx-c3b35524; CHQA-2007 provenance hold remains an OWNER item)",
       "sources": [
         "https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_"
       ],
       "notes": "QC round-3+4 (worker-pplx-a91f2c03, 2026-10-22): SCOPED PASS recorded for the checked quotations, supported passages and versions disclosure (advisor round-4 confirmation after all four prescribed checks verified); K418 stays qc-pending; the CHQA-2007 instructional-provenance hold is the KNOWN completion hold (owner item: no accessible copy located this session, search only). Shi quote is an extended excerpt beginning mid-sentence; see ledger addendum.",
-      "note": "standardized-form study descriptions added + historical material rechecked (ledger 04:10:40Z); advisor round-1: NOT a complete routine — versions separated, traditional qualifiers restored, effect-size assessment recorded unfinished; complete-routine clearance remains pending (preparation/closing not established from a complete carrier)"
+      "note": "standardized-form study descriptions added + historical material rechecked (ledger 04:10:40Z); advisor round-1: NOT a complete routine — versions separated, traditional qualifiers restored, effect-size assessment recorded unfinished; complete-routine clearance remains pending (preparation/closing not established from a complete carrier) | SUPERVISOR ACCEPTANCE (2026-10-22, supervisor-pplx-c3b35524): the advisor round-4 scoped PASS is ACCEPTED — every displayed quote re-verified against freshly opened carriers, versions disclosure added; the CHQA-2007 manual provenance hold remains an owner item (accessible copy not located; owner Drive upload would close it, Kolts precedent) and is the only completion blocker."
     },
     {
       "id": "K419",
       "title": "Microcosmic orbit (xiao zhoutian)",
-      "status": "qc-pending",
-      "note": "round-4 (worker-pplx-a91f2c03, 2026-10-22): advisor CONFIRMS scoped PASS for the revised framing — published modern account added and explicitly abbreviated; complete instructional-provenance hold remains; advisor scoped PASS covers the reframing and the supplied Voigt quotation checks, not independent certification of all inherited Kohn material; supervisor acceptance pending; K419 stays qc-pending."
+      "status": "supervisor-accepted (scoped PASS accepted 2026-10-22 by supervisor-pplx-c3b35524; CHQA-2007 provenance hold remains an OWNER item — an accessible copy was not located, owner Drive upload would close it per the Kolts precedent)",
+      "note": "round-4 (worker-pplx-a91f2c03, 2026-10-22): advisor CONFIRMS scoped PASS for the revised framing — published modern account added and explicitly abbreviated; complete instructional-provenance hold remains; advisor scoped PASS covers the reframing and the supplied Voigt quotation checks, not independent certification of all inherited Kohn material; supervisor acceptance pending; K419 stays qc-pending. | SUPERVISOR ACCEPTANCE (2026-10-22, supervisor-pplx-c3b35524): the advisor round-4 scoped PASS is ACCEPTED — the reframing and the Voigt quotation checks stand verified; the acceptance does not independently certify the inherited Kohn material; the complete instructional-provenance hold (CHQA-2007 manual) remains an owner item and is the only completion blocker."
     }
   ],
   "notes": "New kernels are not in concept/principle queues, so enrich_state.py (manifest-based) does not apply; per-item tracking lives in this file and the ledger.",
