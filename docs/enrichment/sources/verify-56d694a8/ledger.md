@@ -459,3 +459,9 @@ Round 47: 1 page, 2 quoted passages verified, no defects.
 1. **Apology research** — both passages VERIFIED verbatim: the Lewicki, Polin & Lount abstract sentence via the opened CMU NCMR record; the "acknowledgment of responsibility" line via the opened Ohio State news article. PASS.
 
 Round 48: 1 page, 2 quoted passages verified, no defects.
+
+## Round 49
+
+1. **Anapanasati (mindfulness of breathing)** — the MN 118 Thanissaro passage VERIFIED verbatim via the opened Access to Insight page. PASS.
+
+Round 49: 1 page, 1 quoted passage verified, no defects.
