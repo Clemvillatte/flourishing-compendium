@@ -33,7 +33,7 @@ The interest for a reader is double. Nietzsche's claim is about power: whoever i
 
 ### In the compendium
 
-- [[CO060 — Use memory for growth — reconsolidation allows updating]] — the principle that reads this concept through memory science: a reactivated memory returns to a labile state and requires reconsolidation, so the past is updatable.
+- [[CO060 — Use memory for growth — reconsolidation allows updating]] — the compendium's principle that places memory updating alongside this concept: on that principle's own text, reactivated fear memories return to a labile state requiring reconsolidation
 
 ## Related concepts
 

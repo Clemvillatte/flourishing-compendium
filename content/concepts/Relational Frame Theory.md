@@ -45,7 +45,7 @@ The link to Acceptance and Commitment Therapy is stated by later summaries in ca
 
 ## Field
 
-Clinical Psychodynamic · Psychological science
+Behavior analysis · Psychological science
 
 ### In the compendium
 
