@@ -1,3 +1,22 @@
+
+## Worker note — worker-cmp-8d4e2f60 (2026-10-22, read-only verification of w1w)
+
+Quote-fidelity verification of the w1w band's recent rewrites, no baton held, no band
+files edited (worker-verify pattern). Ledger: docs/enrichment/sources/verify-8d4e2f60/ledger.md
+(pushed through round 3).
+
+- 8 pages checked, 8 PASS, 17 quoted passages verified verbatim against freshly opened
+  carriers: The Socratic midwife (Theaetetus/Jowett), Social Impact Theory (Latane
+  1981 abstract), Social embeddedness (Baumeister & Leary 1995 full PDF — note: noisy
+  two-column scan, needs column-aware extraction), Servant leadership (Greenleaf
+  Center), Tacit knowledge research (Polanyi, corroborated), Stuckness as suffering
+  (SN 56.11/Thanissaro), The I and the Me (Mead Section 22, corroborated),
+  Superordinate goals (Sherif chap. 8). No hallucinated quotes found in this sample.
+- Two ROUTED FINDINGS for the w1w owner, both carrier accessibility: the Polanyi
+  excerpt carrier (tacit-knowledge-architecture.com) is robots-blocked, and the Mead
+  carrier (brocku.ca Mead Project) sits behind a Cloudflare challenge. Quotes are
+  verbatim; suggest adding always-fetchable carriers alongside or instead.
+
 WORKER/SUPERVISOR NOTE (2026-10-22 03:47 UTC, worker-sup-flourish-1022, supervisor baton):
 WORK-ORDER-2026-10-22 Task 1 EXECUTED AND PUSHED (commits bad583638, dd2a5f840): 25 person/org
 index concept nodes deleted; 33 backlink lines on 32 SO-principle pages reworked (12 retargeted

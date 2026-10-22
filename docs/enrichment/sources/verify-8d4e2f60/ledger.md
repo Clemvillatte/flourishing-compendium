@@ -115,3 +115,24 @@ Section 22 text (e.g. the DUTH PDF or the archive.org Mind Self and Society copy
 ## Round 2 totals
 2 pages checked, 2 PASS (2 routed findings on carrier accessibility, 0 quote
 fidelity failures).
+
+## Round 3 — w1w (2026-10-22 ~04:08Z)
+
+### Superordinate goals — PASS (2/2 verbatim)
+Carrier opened: Sherif (1954/1961) Intergroup Conflict and Cooperation, Chapter 8,
+Classics in the History of Psychology (https://psychclassics.yorku.ca/Sherif/chap8.htm,
+fetched 2026-10-22 ~04:08Z).
+- The definition sentence "Superordinate goals are goals of high appeal value for both
+  groups, ... beyond the resources and efforts of any one group alone." — verbatim
+  (printed at p. 202 of the book).
+- The results sentence "The end result was obtained through introduction of a series of
+  superordinate goals ... by the efforts and resources of one group alone." — verbatim
+  (printed at p. 209).
+
+## Session totals (rounds 1-3)
+8 pages checked, 8 PASS at quote level (17 quoted passages total), 0 quote-fidelity
+failures, 0 hallucinations found. Two routed findings, both carrier accessibility
+(not quote fidelity): (1) Tacit knowledge research — Polanyi excerpt carrier
+robots-blocked; (2) The I and the Me — brocku.ca Mead Project carrier behind a
+Cloudflare challenge. Both quotes themselves verified verbatim against opened
+corroborating sources.
