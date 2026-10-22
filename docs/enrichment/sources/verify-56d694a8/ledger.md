@@ -477,3 +477,9 @@ Round 50: 1 page, 2 quoted passages verified, 1 defect repaired.
 1. **Adiaphora, the indifferents** — both Enchiridion passages (the opening dichotomy; the "by nature free" fragment) VERIFIED verbatim via the opened classics.mit.edu Long translation. PASS.
 
 Round 51: 1 page, 2 quoted passages verified, no defects.
+
+## Round 52
+
+1. **Action over inertia** — the Aristotle NE II.1 habituation passage (Ross) VERIFIED verbatim via the opened austria-forum Complete Aristotle page. PASS.
+
+Round 52: 1 page, 1 quoted passage verified, no defects.
