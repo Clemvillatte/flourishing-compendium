@@ -185,3 +185,14 @@ Decisions:
 - Related concepts: Confirmation bias, Need for cognitive closure (both existing).
 - Anderson et al. 1980 carried from the seed as book citation; not independently opened this session; no fabricated URL attached.
 - No reciprocal proposals (fast-track bar).
+
+### Beneficial solitude research (fast-track, deg 4)
+
+Source opened (fetch_url, fresh):
+- https://journals.sagepub.com/doi/10.1177/0146167217733073 — Nguyen, Ryan, Deci 2018 PSPB 44(1):92-106. Full abstract fetched verbatim via search result (SAGE page).
+
+Decisions:
+- Fast-track eligibility: deg 4 < 15 confirmed.
+- Front-matter preserved; The capacity to be alone / B173 / P134 original wikilinks preserved.
+- Related concepts: Privacy regulation theory, The capacity to be alone (both existing originals).
+- No reciprocal proposals (fast-track bar).
