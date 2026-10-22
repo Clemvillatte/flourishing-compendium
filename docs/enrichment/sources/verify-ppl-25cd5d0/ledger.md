@@ -953,3 +953,17 @@ directly present. No routed findings.
   prints "imputed judgment". ROUTED to the w1s owner: restore "sentiment" and the full
   sentence.
 - The "Each to each a looking-glass" couplet PASS (verbatim in the raw text).
+
+## Round 40 (2026-10-22; inspection ~12:43-12:44Z; raw-text method)
+
+### Sublimation (w1s, fast-track done, commit 46ec1e0da)
+
+4 quoted passages checked, 3 PASS verbatim, 1 MINOR DEFECT routed — the three ch. 2 passages
+(sublimation-of-instinct blockquote, the "other paths" fragment, and the "first impression"
+passage) verified verbatim against an unprompted raw fetch of the cited Internet Archive
+full text (Riviere translation; the djvu layer has minor scan noise, e.g. "thisa while
+longer", words otherwise identical).
+ROUTED to the w1s owner (one word): the page's fourth quote reads "civilization is built up
+upon renunciation of instinctual gratifications"; the cited Riviere text prints "built up
+on renunciation" (no "upon"). Either change "upon" to "on" to match the cited carrier, or
+switch that quote to the Strachey wording with a Strachey carrier.

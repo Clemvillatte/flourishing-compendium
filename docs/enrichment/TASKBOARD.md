@@ -1458,6 +1458,9 @@ exposed; session-stable name.
   Klein & Feltmate support. Also minor: Values affirmation under threat page drops the
   abstract's "sometimes" before "persist for months and years". Full entries: verify-ppl-25cd5d0
   ledger rounds 3.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): one-word fix on Sublimation — the ch. 2 "built up upon
+  renunciation" quote should read "built up on renunciation" in the cited Riviere text (verified against the raw IA text);
+  or switch to the Strachey wording with its own carrier. Full entry: verify-ppl-25cd5d0 ledger round 40.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1s owner): quote defect on The looking-glass self — the page's closing quote
   ends "but an imputed judgment." but Cooley's text reads "...but an imputed sentiment, the imagined effect of this reflection upon
   another's mind." (confirmed against the raw 1902 printing and every independent source checked; none prints "judgment"). Restore
