@@ -920,7 +920,37 @@
      "note": "advisor round-4 scoped pass; supervisor scope approval routed"
     }
    ]
+  },
+  "s1a-033": {
+   "status": "qc_pending",
+   "angle": "B143 relational emptiness: Fazang's hall of mirrors for Empress Wu — one Buddha statue, ten mirrors, torch; each reflection carrying all others",
+   "history": [
+    {
+     "t": "2026-10-22T05:57:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T06:08:02+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC pending"
+    }
+   ]
+  },
+  "s1a-034": {
+   "status": "qc_pending",
+   "angle": "D180 delight in the ordinary: William Carlos Williams, the doctor-poet of Rutherford — the red wheelbarrow and the plums in the icebox",
+   "history": [
+    {
+     "t": "2026-10-22T05:57:40+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T06:08:02+00:00",
+     "to": "qc_pending",
+     "note": "first advisor QC pending"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T04:42:17+00:00"
+ "updated": "2026-10-22T06:08:02+00:00"
 }
