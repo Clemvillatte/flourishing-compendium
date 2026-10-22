@@ -226,8 +226,15 @@ research); all other sampled items PASS.
     independently opened this round — attribution is correct, no defect
     suspected, noted as a verification gap only.
 
+## Round 18 (11:43Z) — Positive freedom (w1s, commit 41a2d624b)
+
+25. **Positive freedom (w1s)** — 2 quoted passages checked, 2 PASS against a
+    fresh fetch of the Berlin 1958 "Two Concepts of Liberty" PDF (Wolfson
+    College Oxford): the 'positive' sense paragraph and the self-mastery
+    divergence paragraph. No hallucinated quotes.
+
 ## Summary
 
-24 items checked, 21 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
+25 items checked, 22 PASS, 3 defects repaired and pushed (dc088a09f, 838b03786,
 ef33ad244). No further routed findings. The new agent team's fast-track output is
-quotation-faithful at a 100% sample of its first twenty-four items after repair.
+quotation-faithful at a 100% sample of its first twenty-five items after repair.
