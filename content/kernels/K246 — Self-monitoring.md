@@ -19,7 +19,7 @@ The steps are the compendium's practice form; the findings the form leans on are
 1. Choose one target and define it so a stranger could spot an occurrence: hours of sleep, phone pickups, minutes of practice.
 2. Record each occurrence, or a daily count, in the same place every time. The review below links recording close to each occurrence with stronger effects.
 3. Make no resolutions and apply no corrections during the monitoring period. The point is to record the week as it happens, not to fix it.
-4. Read the week's record as data, not as a verdict. Whatever moved, moved; whatever the compendium's claims rest on is stated in the Evidence section, not in the seed's optimism.
+4. Read the week's record as data, not as a verdict. Whatever moved, moved; whatever the claims on this page rest on is stated in the Evidence section.
 
 ### Evidence
 

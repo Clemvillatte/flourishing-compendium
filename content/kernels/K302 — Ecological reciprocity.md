@@ -14,7 +14,7 @@ One act each month that gives something back to the living world: plant somethin
 
 ### Protocol
 
-The monthly menu is the seed's; the shape of the giving follows the Honorable Harvest guidelines as Kimmerer describes them, quoted in the Evidence section.
+The monthly menu is the practice's own; the shape of the giving follows the Honorable Harvest guidelines as Kimmerer describes them, quoted in the Evidence section.
 
 1. Choose one act per month from the menu: plant something native, reduce a form of consumption, support a conservation effort, compost.
 2. Let the act answer an actual taking. The guidelines below pair taking with reciprocity: give thanks for what has been given, and return something the place can use.

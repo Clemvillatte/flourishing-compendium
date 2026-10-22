@@ -19,7 +19,7 @@ The steps are the compendium's practice form; the findings the form leans on are
 1. Go where you are a guest: a congregation, a language class, a volunteer shift, a neighborhood association, any community whose daily life is not yours.
 2. Listen before speaking, and do not advise. The role is guest and student; the moment advice starts, the practice becomes something else.
 3. Keep returning. [Editorial suggestion, not from the carrier:] repeated visits make the comparison richer than a single one.
-4. The seed's framing of what the practice dissolves is a gloss: what the opened research associates with contact is reduced prejudice toward the group, and the page claims no more than that.
+4. The practice's inherited framing, that it dissolves the assumption that your way is the way, is a gloss: what the research associates with contact is reduced prejudice toward the group, and the page claims no more than that.
 
 ### Evidence
 
