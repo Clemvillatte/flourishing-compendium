@@ -1,0 +1,4 @@
+# Serene acceptance of necessity (w1ad, worker-w1ad-pplx-a91f2c03, 2026-10-22)
+
+- Opened: Epictetus, Enchiridion, Internet Classics Archive (https://classics.mit.edu/Epictetus/epicench.html) — fetched once; page quotes verified verbatim against the returned text: Enchiridion 8 ("Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well."); Enchiridion 2 ("if you are averse to sickness, or death, or poverty, you will be wretched. Remove aversion, then, from all things that are not in our control"); Enchiridion 9 ("Sickness is a hindrance to the body, but not to your ability to choose, unless that is your choice").
+- Verification limits: the Spinoza Ethics V echo named in the seed was NOT opened (a wrong Gutenberg URL returned the Theologico-Political Treatise; no time to chase) — noted on the page as unquoted. The final synthesis sentence is my gloss, consistent with the quoted chapters.
