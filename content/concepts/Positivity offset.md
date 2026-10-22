@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 mild positive affect exists even in neutral conditions, but negative events dominate once they occur (Cacioppo et al., 1999).
 
-The Evaluative Space Model gives the offset its shape. Positivity and negativity are separable activation functions, and the two functions are calibrated differently: the positive function starts higher, the negative function climbs faster. The result is a system that drifts toward mild approach when nothing is happening and swings hard toward avoidance when something bad does.
+The Evaluative Space Model gives the offset its shape. Positivity and negativity are separable activation functions, and the two functions are calibrated differently: the positive function starts higher, the negative function is the stronger responder at high levels of input. The result is a system that leans toward approach when input is minimal and answers more strongly to the negative as input rises.
 
 > "In sum, the ESM proposes two asymmetries in the activation functions for positivity and negativity: a negativity bias, such that strongly aversive stimuli elicit stronger responses than do appetitive, all else being equal; and a positivity offset, such that when input to the affect system is absent or minimal, positivity outweighs negativity." (Norris, Gollan, Berntson and Cacioppo 2010, [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2894997/))
 >
@@ -24,7 +24,7 @@ The review's table adds the functional reading: without a positivity offset, "a 
 ## Related concepts
 
 - [[Negativity bias]] — the companion asymmetry, dominant at high levels of input
-- [[Hedonic adaptation]] — the related finding that the positive drift resets after gains
+- [[Hedonic adaptation]] — the finding that people adapt to both good and bad changes in circumstance
 
 ## Sources
 

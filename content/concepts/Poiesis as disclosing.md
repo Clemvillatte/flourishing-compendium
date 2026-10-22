@@ -9,9 +9,9 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Poiesis as disclosing" — Heidegger, "The Origin of the Work of Art".
 
-Heidegger's essay on art takes making out of the register of production and into the register of disclosure. The work does not copy a world that is already there; it is one of the places where a world comes to stand. His standing example is the Greek temple, a building that portrays nothing and yet first gathers a people's paths and relations into a world.
+Heidegger's essay on art takes making out of the register of copying and into the register of setting-up. The work sets up a world rather than representing one; his standing example is the Greek temple.
 
-> "A work, like a Greek temple, works in the sense that it sets up a world and at the same time sets this world back again on earth, which itself thus emerges as native ground." (Heidegger, "The Origin of the Work of Art", [GA 5 text at beyng.com](https://www.beyng.com/pages/de/GA05/DerUrsprungderKunstwerkes.Dict.html))
+> "A work, like a Greek temple, works in the sense that it sets up a world and at the same time sets this world back again on earth, which itself thus emerges as native ground." (Heidegger, "The Origin of the Work of Art", GA 5 text, [beyng.com](https://www.beyng.com/pages/de/GA05/DerUrsprungderKunstwerkes.Dict.html))
 
 ### In the compendium
 
@@ -19,7 +19,7 @@ Heidegger's essay on art takes making out of the register of production and into
 
 ## Related concepts
 
-- [[Disinterested aesthetic pleasure]] — the other classical account of what art does, from the side of reception rather than disclosure
+- [[Disinterested aesthetic pleasure]] — the classical account of art from the side of reception rather than setting-up
 
 ## Sources
 
