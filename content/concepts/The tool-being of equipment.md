@@ -9,9 +9,34 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “The tool-being of equipment” — Heidegger, Being and Time, the analysis of Zuhandenheit.
 
+The tool-being of equipment is Heidegger's account, in Being and Time (1927), of what tools are when we work with them. Equipment is not first a thing with properties that we later put to use; it is from the start a for-something, and it shows itself in use rather than under inspection. Macquarrie and Robinson's translation puts the relational point at the start of section 15:
+
+> "Taken strictly, there 'is' no such thing as *an* equipment. Equipment is essentially 'something in-order-to ...' [\"etwas um-zu ...\"]." (Heidegger, Being and Time §15, Macquarrie & Robinson trans., [p. 97](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.097.html))
+
+### What equipment is
+
+A hammer is hammering-toward-nails, and nails are toward boards, boards toward a house, the house toward dwelling. Each item is what it is only inside this web of referential ties, which is why no single piece of equipment can be understood on its own. Heidegger adds that this is what makes equipment available in the first place:
+
+> "Only because equipment has *this* 'Being-in-itself' and does not merely occur, is it manipulable in the broadest sense and at our disposal." (Being and Time §15, Macquarrie & Robinson trans., [p. 98](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.098.html))
+
+The companion idea is readiness-to-hand (Zuhandenheit): the mode of being equipment has while it is working, discussed on its own page. The two are separable for the wiki's purposes: this page names the being equipment has; that page names how it shows up in skilled use, and how it hides until it breaks.
+
+### In the compendium
+
+- [[K021 — Treat the body as the self's working edge]] — the principle takes the equipmental pattern and applies it to the body: the body is not primarily an object one inspects but a working edge that shows itself in what it does, a reading the principle grounds in Nishida's historical body.
+
+## Related concepts
+
+- [[Ready-to-hand]] — the mode of being equipment has while in use; the hammer passage of Being and Time §15.
+- [[Present-at-hand]] — the contrasting mode in which equipment appears as an object with properties.
+- [[Equipment revealed only in breakdown]] — the equipmental web becomes visible when a tool fails.
+- [[Affordances]] — psychology's parallel: what an environment offers for action is a property of the relation, not of the object alone.
+
 ## Sources
 
-- Heidegger, Being and Time, the analysis of Zuhandenheit
+- [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 97](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.097.html) — the "no such thing as an equipment" and "something in-order-to" sentences, opened and fetched verbatim.
+- [Heidegger, Being and Time, Macquarrie & Robinson translation, p. 98](https://www.beyng.com/pages/en/BeingandTimeMR/BeingandTimeMR.098.html) — the "Being-in-itself" and manipulability sentences, opened and fetched verbatim.
+- Heidegger, Being and Time — book citation carried from the original entry; the opened translation pages above are the quote carriers.
 
 ## Cited in philosophy parallels
 
