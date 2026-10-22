@@ -13,7 +13,7 @@ Feedback intervention research is the body of controlled studies on what happens
 
 ### What the numbers rest on
 
-The review screened roughly 3,000 studies reaching back to 1905 and kept only 131 that met its design criteria; those reported 607 effect sizes across 12,652 participants. In 50 of the 131 studies, about 38 percent, feedback actually lowered performance. For the flow principle that cites this research, the honest reading is that specific, task-directed feedback earns the positive average, while feedback that pulls attention toward the self often pays the cost.
+The review screened roughly 3,000 studies reaching back to 1905 and kept only 131 that met its design criteria; those reported 607 effect sizes across 12,652 participants. In 50 of the 131 studies, about 38 percent, feedback lowered average performance. The findings do not make every feedback intervention beneficial: effectiveness tended to decrease as feedback moved attention away from the task and toward the self, which is the moderator pattern the review itself reports.
 
 ## Related concepts
 

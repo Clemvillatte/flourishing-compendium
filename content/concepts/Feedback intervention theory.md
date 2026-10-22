@@ -7,19 +7,25 @@ file: "Feedback intervention theory"
 tags: ["theory", "psych/affect"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 ---
-Feedback intervention theory (FIT) is Avraham Kluger and Angelo DeNisi's explanation of why the same feedback can raise or lower performance. It closes their 1996 Psychological Bulletin meta-analysis, which defines a feedback intervention as "actions taken by (an) external agent(s) to provide information regarding some aspect(s) of one's task performance" (p. 255, as quoted in Wiliam 2011) and locates the effect of that information in where it points attention.
+Feedback intervention theory (FIT) is Avraham Kluger and Angelo DeNisi's explanation of why the same feedback can raise or lower performance. They proposed it in their 1996 Psychological Bulletin paper alongside the meta-analysis it interprets, and the paper defines a feedback intervention as "actions taken by (an) external agent(s) to provide information regarding some aspect(s) of one's task performance" (p. 255, as quoted in Wiliam 2011).
 
-### The theory's core, in the authors' words
+### Origin
+
+The theory emerged from a puzzle in the authors' own review: feedback interventions produced an average benefit (d = .41) while decreasing performance in more than a third of measured cases, a variability they could not trace to sampling error, feedback sign, or existing theories. FIT was their proposed explanation, tested with moderator analyses.
+
+### Core claims
 
 > "The central assumption of FIT is that FIs change the locus of attention among 3 general and hierarchically organized levels of control: task learning, task motivation, and meta-tasks (including self-related) processes. The results suggest that FI effectiveness decreases as attention moves up the hierarchy closer to the self and away from the task." — [Kluger & DeNisi, Psychological Bulletin 119(2) (1996), 254–284, abstract](https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/)
 
+The first sentence is the theory's assumption; the second reports what their moderator analyses found, and the two should be kept distinct.
+
 ### How the theory explains
 
-FIT is a functional theory: it predicts the direction of a feedback effect from where attention lands, not from the message's content or tone. Feedback can aim at the details of the task, at the task's goals and motivation, or at the self, and each step up that hierarchy trades work for self-monitoring. The theory was built to explain the meta-analytic pattern it accompanies: 607 effect sizes showing an average benefit (d = .41) alongside more than a third of interventions lowering performance, a variability the authors could not trace to sampling error, feedback sign, or earlier theories.
+FIT explains feedback effects through shifts of attention among task learning, task motivation and self-related processes. A feedback message can aim at the details of the task, at the task's goals and motivation, or at the self, and the meta-analytic pattern showed effectiveness declining as attention moved up that hierarchy. The claims are grounded in 607 effect sizes from 131 studies, and the authors note that task characteristics still moderate the findings in ways that remain poorly understood.
 
-### A real-life example
+### In everyday life
 
-A piano student told that the left hand rushed the third bar gets attention aimed at the task and usually fixes the bar. The same student told they are falling behind the class gets attention aimed at standing and self-worth, and practice effort starts going to managing image instead of the passage. This example is an illustration of the theory's mechanism, not a study from the meta-analysis.
+Consider a piano student. Told that the left hand rushed the third bar, the student's attention lands on the task, and the message points straight at something fixable. Told instead that they are falling behind the class, the student's attention may land on standing and self-worth rather than the passage. This is an illustrative scenario, not a study from the meta-analysis.
 
 ## Related concepts
 

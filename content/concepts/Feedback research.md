@@ -7,13 +7,13 @@ file: "Feedback research"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-F"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter F", "parent": ""}
 ---
-Feedback research studies when telling someone how they did helps, and when it backfires. The field's most cited result belongs to Kluger and DeNisi's 1996 meta-analysis: feedback interventions improved performance on average (d = .41) while more than a third of them decreased it, so the question shifts from whether feedback works to which kind.
+Feedback research studies when telling someone how they did helps, and when it backfires. A central result in this literature is Kluger and DeNisi's 1996 meta-analysis: feedback interventions improved performance on average (d = .41) while more than a third of them decreased it, so the question shifts from whether feedback works to which kind.
 
 > "The central assumption of FIT is that FIs change the locus of attention among 3 general and hierarchically organized levels of control: task learning, task motivation, and meta-tasks (including self-related) processes. The results suggest that FI effectiveness decreases as attention moves up the hierarchy closer to the self and away from the task." — [Kluger & DeNisi, Psychological Bulletin 119(2) (1996), 254–284, abstract](https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/)
 
-### Why timing and framing matter
+### Where feedback directs attention
 
-The attention account explains the older framing findings: feedback that steers attention to the work, specific, task-directed, tied to a goal, tends to help, while feedback that makes the receiver watch themselves, rank themselves or defend themselves tends to cost performance even when the information is accurate. That is the hinge both linked principles turn on: praise and blame work as instruments when they point at the task, and speech tested before it leaves is feedback aimed at the work rather than at the speaker.
+Kluger and DeNisi proposed that feedback changes which level of a control hierarchy receives attention, with lower effectiveness as attention moves toward self-related concerns and away from the task. Their moderator findings pointed the same way: feedback interventions were least effective when they focused attention on the self and most effective when they focused on the details of the task and on goal-setting. That is the hinge both linked principles turn on: praise and blame work as instruments when they point at the task, and speech tested before it leaves is feedback aimed at the work rather than at the speaker.
 
 ## Other formulations in this library
 
