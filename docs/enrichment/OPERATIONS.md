@@ -411,3 +411,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   needs owner authorization (or a one-line correction to E018's parallels, which
   would be equally unsupported). The adjacent D017 (Trust emergent order) link is
   the apt parallel and is unaffected.
+- Supervisor verification sample (2026-10-22 ~14:30 UTC): The invisible hand's two
+  Ryan & Deci 2020 quotes (Autonomy-supportive leadership page, w1y's recent output)
+  checked against the opened selfdeterminationtheory.org PDF — BOTH verbatim (apostrophe
+  style normalized to straight quotes only). Sample PASS; no defect found.
