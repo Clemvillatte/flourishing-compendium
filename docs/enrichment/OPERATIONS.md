@@ -611,3 +611,7 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   discernment, the sack-of-grain simile, and the soles-to-crown body-parts review)
   checked against the opened AccessToInsight carrier: all verbatim. Sample PASS.
   Thirty-six samples this session, all PASS.
+- Supervisor verification sample 37 (2026-10-22 ~16:20 UTC): The attention economy
+  (random finished-band draw, w1k) — the Ward, Duke, Gneezy & Bos 2017 brain-drain
+  abstract quote checked against the opened EconPapers carrier (the page's own
+  citation): verbatim. Sample PASS. Thirty-seven samples this session, all PASS.
