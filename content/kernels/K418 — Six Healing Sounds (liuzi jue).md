@@ -14,7 +14,7 @@ The liuzi jue (六子訣, as Kohn prints it), the Six Healing Sounds, is a set o
 
 ### Protocol
 
-The sources below are layered — Kohn's historical descriptions, the modern form as studies describe it, one general framework — each passage cites its carrier; the Association's manual was not opened.
+The sources are layered: Kohn's historical descriptions, the modern form as studies describe it, one general framework; each passage cites its carrier; the Association's manual was not opened.
 
 #### Historical breathing descriptions
 
@@ -22,11 +22,11 @@ In Kohn's account, the six breaths differ in sound quality: chui, a sharp expuls
 
 #### General practice framework
 
-A peer-reviewed description: "one can either stand or kneel and calm the mind, breathing peacefully into the cinnabar field (Dan Tian; the navel), and then apply one of the six sounds, or all of them in a specific sequence" ([Shi 2020](https://journals.sagepub.com/doi/full/10.1177/2158244020927024)). The sound is voiced softly or silently; exhalation "is either equal to or longer than that of the inhalation... not prolonged by force."
+A peer-reviewed description: "one can either stand or kneel and calm the mind, breathing peacefully into the cinnabar field (Dan Tian; the navel), and then apply one of the six sounds, or all of them in a specific sequence according to one's particular needs" ([Shi 2020](https://journals.sagepub.com/doi/full/10.1177/2158244020927024)). The sound is voiced softly or silently; exhalation "is either equal to or longer than that of the inhalation... not prolonged by force."
 
 #### Published study versions
 
-The modern form was standardized under China's General Administration of Sport. The passages below are study descriptions, not prescriptions; the structure, from a COPD protocol:
+The modern form was standardized under China's General Administration of Sport. The passages below are study descriptions of different versions, not prescriptions, with no complete standardized routine. The structure, from a COPD protocol:
 
 > "The routine consists of eight components: a preparatory posture, six-character vocalizations ("xu," "he," "hu," "si," "chui," and "xi"), and a closing posture." — [Ni et al. 2026, JMIR Research Protocols](https://www.researchprotocols.org/2026/1/e91283)
 
@@ -42,7 +42,7 @@ Repetitions differ: three per sound in that trial; six in the EEG study and a Pa
 
 ### Evidence
 
-Kohn presents the organ associations as traditional-medicine correspondences: "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater". The modern form has since served as the intervention in trials and protocols (COVID-19, Parkinson's, COPD; citations above). Henz & Schöllhorn's EEG study reports, for Liu Zi Jue, alpha-1 increased after 15 minutes versus baseline (p = 0.027), and alpha-2 increased after 30 minutes versus 15 minutes (p = 0.041) ([Henz & Schöllhorn 2018](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02291/full)). The 15-minute decrease belonged to Wu Qin Xi, the comparison technique. The classical closing promise:
+Kohn presents the organ associations as traditional-medicine correspondences: "detailed medical method to treat various imbalances of qi associated with the five inner organs and the Triple Heater". The modern form has since served as the intervention in trials (COVID-19, Parkinson's, COPD; citations above). Henz & Schöllhorn's EEG study reports, for Liu Zi Jue, alpha-1 increased after 15 minutes versus baseline (p = 0.027) and alpha-2 after 30 minutes versus 15 minutes (p = 0.041) ([Henz & Schöllhorn 2018](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.02291/full)). The 15-minute decrease belonged to Wu Qin Xi, the comparison technique. The classical closing promise:
 
 > "Each of the six breaths—he, si, hu, xu, chui, and xi—is ruled by one of the five organs. In case of extreme fatigue, one can use them easily to regulate the qi and improve one’s condition." — Kohn, Chinese Healing Exercises, printed p. 102, quoting Daoyin jing 16b ([owner's Drive copy](https://drive.google.com/uc?export=download&id=1WPlkEDK5FTR9LkFGrutj1YCqIDZ9dMx_))
 
