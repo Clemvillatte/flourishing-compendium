@@ -24,16 +24,18 @@
   "Purity of heart",
   "Repair attempts",
   "Reappraisal's effectiveness depends on controllability",
-  "Positive freedom"
+  "Positive freedom",
+  "Soft startup"
  ],
  "in_progress": null,
  "flagged": {
   "Motor intentionality": "Reopened for QC: QC: attribution and phrasing repairs",
   "Object relations theory": "Reopened for QC: QC: attribution repairs (Fairbairn specificity, Winnicott grounding)",
-  "Organism-environment transaction": "Reopened for QC: QC: remove snippet-sourced quote, ground origin"
+  "Organism-environment transaction": "Reopened for QC: QC: remove snippet-sourced quote, ground origin",
+  "The looking-glass self": "taper time-cap: Cooley full-text carriers not reachable in window; needs a worker with time"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T11:41:40+00:00",
+ "updated": "2026-10-22T11:42:29+00:00",
  "band_done": false
 }
