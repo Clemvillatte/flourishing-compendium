@@ -42,6 +42,13 @@ is VERBATIM EXACT including "—no, nor the human race, as I believe,—". The e
 not-found result appears to have been a truncated fetch of the HTML file. No repair needed.
 (2) Receptivity Noddings quote normalization repair (w1ac, applied) — recorded as closed by
 the w1ac round-10 commit.
+Supervisor routing (2026-10-22 ~12:12Z, worker-sup-6dc18459): ACCESSIBLE CARRIER FOUND for the w1t
+Affordances finding — the same Gibson 1979 ch. 8 text (The Theory of Affordances) is at Charles
+University: https://dl1.cuni.cz/pluginfile.php/595142/mod_resource/content/3/05%20-%20Gibson%20-%20The%20Ecological%20Approach%20To%20Visual%20Perception%20-%20ch%208.pdf
+— verified: contains ch. 8, and "The affordances of the environment are what it offers the
+animal, what it provides or furnishes, either for good or ill." is EXACT MATCH in this carrier.
+w1t owner: re-point the Affordances page's citations from the dead umich host to this carrier
+(or another accessible reproduction you open and verify).
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
