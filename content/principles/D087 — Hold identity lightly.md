@@ -12,24 +12,33 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 87** — Hold identity lightly
 
-Zhuangzi closes the second chapter with the butterfly dream:
+At the end of Zhuangzi 2, Zhou dreams of being a butterfly. On waking, he recognises himself as Zhou and wonders whether Zhou had dreamed of being a butterfly or a butterfly is now dreaming of being Zhou. The passage closes by preserving a difference between them:
 
-> "Formerly, I, Zhuang Zhou, dreamt that I was a butterfly, a butterfly flying about, feeling that it was enjoying itself. I did not know that it was Zhou. Suddenly I awoke, and was myself again, the veritable Zhou. I did not know whether it had formerly been Zhou dreaming that he was a butterfly, or it was now a butterfly dreaming that it was Zhou. But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things."
-> (Zhuangzi 2, [Legge's translation](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm); passage verified against the [Legge Zhuangzi edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf))
+> "But between Zhou and a butterfly there must be a difference. This is a case of what is called the Transformation of Things."
+> (Zhuangzi 2, James Legge's translation, with pinyin spellings in [Silkqin's source note](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm).)
 
-The narrator says he does not know whether Zhou dreamed he was a butterfly or a butterfly is dreaming it is Zhou. He also says there must be a difference between them. The compendium takes this uncertainty as an invitation to reconsider a self-description before allowing it to determine a choice.
+One practical reading is to question how final a description of yourself needs to be. A label you use for yourself need not settle what you can do in every situation. This is an application of the story; the passage does not establish a modern psychological theory.
 
-**Plain words**
-Suppose you have said "I'm a shy person" for years, and the sentence has started deciding which class you take. The description may have begun as an accurate observation; somewhere it became a rule. Holding identity lightly means treating each label as a costume you can notice wearing, and asking whether the costume should decide this particular choice, or only describe how things have gone so far.
+### Plain words
 
-**For example**
-*For example:* Suppose you have told yourself for years that you are not the sort of person who speaks in meetings. Treat that as the label's opinion, and decide whether to speak on the merits of the question.
+Allow your description of yourself to change when it no longer fits. You can keep a commitment while reconsidering an assumption about what you are capable of doing.
+
+### For example
+
+Imagine that you have always avoided asking for help because independence matters to you. During an illness, if it feels safe and useful, you might ask someone you trust for one specific favour. Afterwards, consider whether receiving that help conflicted with the independence you value.
 
 ## Sources
 
-- [Legge's translation of the butterfly dream, Zhuangzi ch. 2 (Qiwulun), with the Chinese](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm) — the page's original citation; re-verified this session against the [Legge Zhuangzi edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf) (the silkqin page itself was not re-openable)
-- ["Interpreting the Butterfly Dream," Interdisciplinary Studies of Literature](https://www.tandfonline.com/doi/full/10.1080/09552360802673781) — further reading; not used to support any claim (access blocked this session)
-- [Burton Watson's translation (PDF)](http://www.csun.edu/~vcoao0fk/Zhuangzi.pdf) — comparison translation (not opened this session)
+- [Legge's translation of the butterfly dream, Zhuangzi ch. 2 (Qiwulun), with the Chinese](https://www.silkqin.com/02qnpu/07sqmp/sq60zzmd.htm): the passage quoted above.
+- [Legge Zhuangzi edition, ETH Zurich](https://metis.ethz.ch/wp-content/uploads/2023/03/Zhuangzi_EnglishLegge.pdf): another edition.
+- ["Interpreting the Butterfly Dream," Interdisciplinary Studies of Literature](https://www.tandfonline.com/doi/full/10.1080/09552360802673781): further reading.
+- [Burton Watson's translation (PDF)](http://www.csun.edu/~vcoao0fk/Zhuangzi.pdf): comparison translation.
+
+## Related concepts
+
+- [[Self-as-context]]: a psychological comparison.
+- [[Anatta]]: a Buddhist comparison.
+- [[The bundle theory]]: a philosophical comparison.
 
 ## Stories
 
