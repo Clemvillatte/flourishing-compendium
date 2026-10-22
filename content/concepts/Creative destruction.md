@@ -7,7 +7,7 @@ file: "Creative destruction"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-C"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
-Creative destruction is Joseph Schumpeter's term, from Capitalism, Socialism and Democracy (1942), for the process by which capitalism renews itself: new goods, methods of production, markets and forms of organization displace the old ones from within ([Schumpeter, ch. VII, The Process of Creative Destruction](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)). His claim is not that markets occasionally break things, but that this churning is what the system is:
+Creative destruction is Joseph Schumpeter's term, from Capitalism, Socialism and Democracy (1942), for the process by which capitalism renews itself: new goods, methods of production, markets and forms of organization displace the old ones from within ([Schumpeter, ch. VII, The Process of Creative Destruction](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)). For Schumpeter, this continual restructuring defines capitalism ([The Process of Creative Destruction, ch. VII](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)):
 
 > "Capitalism, then, is by nature a form or method of economic change and not only never is but never can be stationary." (Schumpeter, [The Process of Creative Destruction, ch. VII](https://thaleszp.com/files/Schumpeter_creative_dest.pdf))
 
@@ -25,10 +25,6 @@ The compendium takes the term as an analogy, not as an established mechanism of 
 - [[P044 — Unlearn on purpose]] — the deliberate removal of habits that have stopped serving
 - [[P163 — Practice creative hopelessness — let go of what isn't working]] — the letting-go move that pairs with deliberate unlearning
 
-## Facets
-
-- **of habits** — Dewey, Human Nature and Conduct
-
 ## Related concepts
 
 - [[Retiring obsolete concepts]] — the compendium's own label for the mental-side operation
@@ -36,8 +32,6 @@ The compendium takes the term as an analogy, not as an established mechanism of 
 ## Sources
 
 - Schumpeter, Capitalism, Socialism and Democracy
-
-- Dewey, Human Nature and Conduct
 
 - [Schumpeter, Capitalism, Socialism and Democracy (1942), Part II, ch. VII, "The Process of Creative Destruction" (chapter PDF)](https://thaleszp.com/files/Schumpeter_creative_dest.pdf)
 

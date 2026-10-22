@@ -7,7 +7,7 @@ file: "Debiasing techniques"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-Debiasing techniques are procedures for counteracting systematic errors of judgment. Richard Larrick's review chapter "Debiasing" (2004) sorts the attempts into motivational strategies (incentives, accountability), cognitive strategies (rules such as consider-the-opposite, training in statistical principles) and technological fixes that restructure the decision itself ([Larrick, Debiasing, ch. 16](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)).
+Debiasing techniques are procedures for counteracting systematic errors of judgment ([Larrick, Debiasing, ch. 16](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)). Richard Larrick's review chapter "Debiasing" (2004) sorts the attempts into motivational strategies (incentives, accountability), cognitive strategies (rules such as consider-the-opposite, training in statistical principles) and technological fixes that restructure the decision itself ([Larrick, Debiasing, ch. 16](https://web.stanford.edu/~knutson/jdm/larrick04.pdf)).
 
 ### Consider the opposite
 
@@ -25,7 +25,7 @@ A second motivational lever is making people answerable for their decisions. Lar
 
 The compendium pairs these findings with principles that turn them into practice:
 
-- [[CO027 — Learn debiasing — it is possible but hard]] — the training evidence above is the reason the page insists debiasing is possible
+- [[CO027 — Learn debiasing — it is possible but hard]] — the training results provide evidence that debiasing is possible
 - [[CO029 — Practise consider the opposite — deliberately generate counterarguments]] — the compendium's practice form of Larrick's general strategy
 - [[CO028 — Use the outside view — base rates beat inside views]] — the estimation-side complement: replacing a judgment with the statistics of comparable cases
 

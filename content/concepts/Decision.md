@@ -7,11 +7,11 @@ file: "Decision"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-D"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter D", "parent": ""}
 ---
-This page concerns decision in Jaspers' account of existential freedom, from Philosophy, vol. 2. For Jaspers, decision involves both the surveying of possibilities and commitment after the choice. The passages are quoted in Joshua Tepley's study of Jaspers on free will ([Tepley 2019](https://existenz.us/volumes/Vol.14-2Tepley.pdf)):
+In Jaspers' account of existential freedom, decision involves considering possibilities and committing to a choice ([Tepley 2019](https://existenz.us/volumes/Vol.14-2Tepley.pdf)). The passages are quoted in Joshua Tepley's study of Jaspers on free will:
 
 > "I become free by incessantly broadening my world orientation, by limitlessly visualizing premises and possibilities of action, and by allowing all motives to speak to me and to work within me." (Jaspers, Philosophy, vol. 2, p. 157, [quoted in Tepley 2019](https://existenz.us/volumes/Vol.14-2Tepley.pdf))
 
-The committed side is stated just as plainly: "the import of resolution is that once I have made a choice I will unconditionally stick to it" (p. 159, [ibid.](https://existenz.us/volumes/Vol.14-2Tepley.pdf)). Taken together, the two passages describe a decision as the consideration of possibilities followed by commitment to one of them.
+The committed side is stated just as plainly: "the import of resolution is that once I have made a choice I will unconditionally stick to it" (Jaspers, [Philosophy, vol. 2, p. 159, quoted in Tepley 2019](https://existenz.us/volumes/Vol.14-2Tepley.pdf)). Taken together, the two passages describe a decision as the consideration of possibilities followed by commitment to one of them.
 
 ### In the compendium
 
