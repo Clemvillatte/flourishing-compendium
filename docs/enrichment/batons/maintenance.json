@@ -111,5 +111,7 @@
    "from": "worker-verify-4d83a392",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T06:45:46+00:00"
 }
