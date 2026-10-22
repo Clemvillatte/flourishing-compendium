@@ -63,7 +63,8 @@
   "Rule-following without theory",
   "Rule-governed behavior",
   "Salience network theory",
-  "Schema Therapy Model"
+  "Schema Therapy Model",
+  "Secondary control"
  ],
  "in_progress": null,
  "flagged": {
@@ -75,7 +76,7 @@
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-22T08:17:37+00:00",
+ "updated": "2026-10-22T08:17:56+00:00",
  "notes": {
   "Purpose": "enriched+QC-repaired 2026-10-22 by worker-sup-flourish-1022b. Advisor round 1 findings applied: Hill-Turiano mortality claim now described as PP025's own citation (not restated as opened evidence), AF062 misattribution corrected to B155/PP025 framing, unsupported research-literature glosses and Noogenic-neurosis overreach removed, Frankl quote replaced with the complete sentence verified verbatim in the opened 1963 OCR (em-dashes as printed, OCR 'existence:-Woe' join disclosed in ledger). Degree <15 at start; fast-track bar. Baseline 708222a39 used for lost-link check.",
   "Reconstruction": "enriched 2026-10-22 by worker-sup-flourish-1022b. Dewey Reconstruction in Philosophy Gutenberg #40089 opened; lecture-I 'Philosophic reconstruction for the present' passage quoted verbatim; prefatory-note Japan framing; P100 link preserved. Fast-track bar (degree 1 at start).",
