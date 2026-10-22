@@ -605,3 +605,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   NOTE for a future pass: the page cites no carrier URL for this quote, and the
   current rendering differs — adding the ATI archive URL as carrier would remove
   the ambiguity. Sample PASS with note.
+- Supervisor verification sample 36 (2026-10-22 ~16:17 UTC): B040 Know the body (random
+  finished-band draw, p1b) — all four MN 10 Satipatthana Sutta quotes (Thanissaro:
+  the walking/standing/sitting/lying down discernment, the breathing-in-long
+  discernment, the sack-of-grain simile, and the soles-to-crown body-parts review)
+  checked against the opened AccessToInsight carrier: all verbatim. Sample PASS.
+  Thirty-six samples this session, all PASS.
