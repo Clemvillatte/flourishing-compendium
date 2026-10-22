@@ -245,3 +245,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's Facets section and all original wikilinks preserved; Related kernels initially included a self-link (removed before save); the concept link [[Cognitive reappraisal]] retained as in the seed.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (against HEAD; front matter copied verbatim from the seed, and the file's seed baseline check passed in the pre-save validation run).
+
+## K211 — Acts of kindness (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Otake, Shimai, Tanaka-Matsumi, Otsui & Fredrickson 2006 (Journal of Happiness Studies 7:361-375), abstract obtained via fetch_url extraction of the SpringerLink article page — Crossref holds no abstract for this DOI (verified), so the two blockquotes are extraction-verified against the publisher page, disclosed per the raw-verification standard.
+- Both blockquotes match the extracted abstract: the counting-kindnesses-for-one-week result and the became-more-kind-and-grateful sentence.
+- What the evidence does not test is stated on the page: the studied intervention was counting one's own acts of kindness for one week in Japanese samples; the daily visible-help form and the affiliative-system framing are labelled as the practice's own rationale, and step 3 is labelled an editorial addition.
+- Front-matter drift (tags missing topic/compassion) was caught by the pre-save validation and corrected before commit; no drift was pushed.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
