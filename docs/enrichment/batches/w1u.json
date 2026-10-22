@@ -63,7 +63,8 @@
   "Historical trauma",
   "Interest development research",
   "Instrumental reason",
-  "Hermeneutics of the self"
+  "Hermeneutics of the self",
+  "Intergenerational responsibility"
  ],
  "in_progress": null,
  "flagged": {
@@ -99,9 +100,10 @@
   "Historical trauma": "fast-track; Brave Heart & DeBruyn 1998 primary article opened (journal PDF at CU Anschutz), abstract sentence quoted verbatim; cumulative-wounding definition and four-component model quoted verbatim from NCTSN PDF (secondary carrier quoting Brave Heart); R021/SO067 seed links preserved; note R021 listed under psychology parallels per seed.",
   "Interest development research": "fast-track; Hidi & Renninger 2006 paywalled at T&F; abstract verified via Semantic Scholar page and quoted verbatim; phase descriptions kept at abstract level; no unverified claims from the article body.",
   "Instrumental reason": "fast-track; primary texts blocked to crawler (marxists.org 4xx, no open Gutenberg carrier); verbatim quotes taken from Stanford Encyclopedia of Philosophy Critical Theory entry (opened, trusted) as the authoritative carrier; seed citations to Horkheimer/Adorno and Habermas preserved; Habermas characterisation kept minimal.",
-  "Hermeneutics of the self": "fast-track; Oneself as Another copyrighted; open-access Truc 2011 (Études Ricœuriennes, ricoeur.pitt.edu) used as opened carrier for idem/ipse explication and the embedded Ricoeur quotation; Ricoeur paraphrase kept minimal and attributed."
+  "Hermeneutics of the self": "fast-track; Oneself as Another copyrighted; open-access Truc 2011 (Études Ricœuriennes, ricoeur.pitt.edu) used as opened carrier for idem/ipse explication and the embedded Ricoeur quotation; Ricoeur paraphrase kept minimal and attributed.",
+  "Intergenerational responsibility": "fast-track; Jonas 1984 imperative quoted verbatim via open-access Mangone 2021 (SN Social Sciences, PMC7797197); Gardiner kept as seed citation, characterised minimally (worst effects on voiceless, benefits of inaction now); R112/R121 seed links preserved."
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-22T14:25:11+00:00"
+ "updated": "2026-10-22T14:25:54+00:00"
 }
