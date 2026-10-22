@@ -38,7 +38,7 @@ For an illustration: someone who did not see a cake being eaten still expects th
 
 - [[Perspective-taking]] — the deliberate act of stepping into another viewpoint, a related capacity in the same domain.
 - [[Perspective-getting]] — getting another's perspective directly rather than imagining it from outside.
-- [[Mentalization theory]] — the clinical framing of mindreading as a developing skill.
+- [[Mentalization theory]] — the clinical framing of the capacity to understand actions in terms of thoughts, feelings, wishes and desires.
 - [[Egocentric projection in social inference]] — a failure mode in the same domain: filling the other's head with one's own contents.
 - [[The illusion of transparency]] — the complementary error: assuming one's own states are legible to others.
 
