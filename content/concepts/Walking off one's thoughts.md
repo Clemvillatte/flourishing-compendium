@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 "Walking off one's thoughts" is the compendium's label for what a walk does to a burdened mind. Kierkegaard wrote the passage in a letter of 1847, as quoted in the London Review of Books:
 
-> "do not lose your desire to walk: every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it" (Kierkegaard, letter to Jette, 1847, as quoted by Roger Poole, "A Walk with Kierkegaard", London Review of Books)
+> "Above all, do not lose your desire to walk: every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it" (Kierkegaard, letter to Jette, 1847, as quoted by Roger Poole, "A Walk with Kierkegaard", London Review of Books)
 
 The passage makes walking a way of relating to thoughts rather than fighting them: the thought is not answered, it is walked away from.
 
