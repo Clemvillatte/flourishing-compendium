@@ -409,3 +409,9 @@ Round 40: 1 page closed, 1 quote verified, 3 routed items.
 1. **Mysterium tremendum** — CLOSED: the correct archive.org text file (2015.261848.The-Idea_djvu.txt, found via the item metadata API) was opened and both Otto passages VERIFIED verbatim: the "gentle tide" sentence (the carrier's "tran-quil" is a line-break hyphenation the page correctly resolves) and the "hushed, trembling, and speechless humility" sentence (lowercase "mystery" matches the carrier exactly). The earlier routed note is resolved; no defect. PASS (complete).
 
 Round 41: 1 page closed, 2 quoted passages verified against the primary carrier.
+
+## Round 42
+
+1. **Social dominance theory** — one more quote VERIFIED: the "said to deserve" passage located on the opened Emerald article, matching the page's citation. Two items remain ROUTED with sharpened notes: (a) the "divine rights of kings / karma" passage is cited as "Sidanius and Pratto 1999 p. 45, quoted in the Lausanne paper", but the Lausanne paper does not reprint it (confirmed on two targeted searches) — the citation needs a new carrier; (b) the "compliance with dominant power" passage was not located in the cited Emerald article (two searches) — possible extraction miss or citation defect.
+
+Round 42: 1 quote verified, 2 routed items sharpened.
