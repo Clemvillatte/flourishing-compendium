@@ -45,7 +45,8 @@ Garfield's commentary on the chapter reads the relation this way: understanding 
 ## Philosophy parallels
 
 - **[[Two truths|Two truths]]** (Nagarjuna, MMK 24)
-- **[[Phenomenal and noumenal|Phenomenal and noumenal]]** (Kant, Critique of Pure Reason)- **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
+- **[[Phenomenal and noumenal|Phenomenal and noumenal]]** (Kant, Critique of Pure Reason)
+- **[[Shunyata|Shunyata]]** (Buddhism, MMK 24.18)
 
 
 <!-- fc: reflections

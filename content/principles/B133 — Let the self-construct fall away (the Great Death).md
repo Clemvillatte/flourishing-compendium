@@ -34,7 +34,8 @@ The same discussion explains the warning: "returning eko, going back into the wo
 ## Philosophy parallels
 
 - **[[The Great Death|The Great Death]]** (Hakuin)
-- **[[Zuowang (sitting in forgetfulness)|Zuowang (sitting in forgetfulness)]]** (Zhuangzi 6)- **[[Anatta|Anatta]]** (Buddhism, SN 22.59)
+- **[[Zuowang (sitting in forgetfulness)|Zuowang (sitting in forgetfulness)]]** (Zhuangzi 6)
+- **[[Anatta|Anatta]]** (Buddhism, SN 22.59)
 
 
 <!-- fc: reflections

@@ -31,7 +31,8 @@ Aristotle treats unrestraint as reformable and distinguishes forms that are easi
 ## Philosophy parallels
 
 - **[[Means-end continuity|Means-end continuity]]** (Dewey, Human Nature and Conduct)
-- **[[The trained mind|The trained mind]]** (Buddhist tradition)- **[[Akrasia|Akrasia]]** (Aristotelianism)
+- **[[The trained mind|The trained mind]]** (Buddhist tradition)
+- **[[Akrasia|Akrasia]]** (Aristotelianism)
 
 
 <!-- fc: reflections

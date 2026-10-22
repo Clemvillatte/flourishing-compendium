@@ -32,7 +32,7 @@ Imagined: a reader spends twenty minutes each morning in a free news app and rec
 
 ## Psychology parallels
 
-- **[[The attention economy]]** — the concept page pairs Simon's scarcity with Ward et al.'s smartphone-presence findings
+- **[[The attention economy]]** (Simon, 1971; Ward et al., 2017)
 - **Persuasive design and attention capture** (Fogg, 2003; Eyal, 2014)
 - **Variable reward schedules** (Skinner, 1953; Rosen et al., 2013)
 

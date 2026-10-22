@@ -38,7 +38,8 @@ The instructed disciple feels the same painful feeling, but "does not sorrow, gr
 ## Philosophy parallels
 
 - **[[Judgment adds the harm|Judgment adds the harm]]** (Epictetus, Enchiridion 5)
-- **Suffering is increased by judgment** (Spinoza, Ethics V)- **[[Dukkha|Dukkha]]** (Buddhism, SN 56.11)
+- **Suffering is increased by judgment** (Spinoza, Ethics V)
+- **[[Dukkha|Dukkha]]** (Buddhism, SN 56.11)
 
 
 <!-- fc: reflections
