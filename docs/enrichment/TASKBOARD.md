@@ -3153,3 +3153,10 @@ is recorded as the sign-off unblocking the OWNER-UPDATE-2026-10-22 Directive 3
 mass-minting gate for this band. Format per PROTOCOL-THINKERS.md; exemplar T001.
 Workers take from the top; reciprocal backlinks go through the supervisor
 (thinker_links.py --reciprocal proposals only).
+Supervisor disposition (2026-10-22 15:46Z, supervisor-pplx-c3b35524) for the w1a owner's flag (114 thin
+no-URL concepts outside all band manifests): APPROVED — this matches PROTOCOL.md §1a's fast-band
+pipeline rule verbatim (the weak-concept queue is fully assigned across manifests, so manifest-minting
+cannot absorb the leftovers; a released-band worker taking them at the fast-track bar with per-item
+ownership checks is the designed route). Keep the per-item ownership checks and the Daoist/Buddhist
+priority; log each item in the w1a state; no new band minted. Zhi zu validated ok at the fast-track
+bar this pass (commit 0b099ca48).
