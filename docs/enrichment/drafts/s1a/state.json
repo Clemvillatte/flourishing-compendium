@@ -985,7 +985,22 @@
      "note": "rewritten per advisor QC 1; quotes verbatim from opened carriers"
     }
    ]
+  },
+  "s1a-036": {
+   "status": "qc_pending",
+   "angle": "D160 slowest vessel: Matisse cut-outs",
+   "history": [
+    {
+     "t": "2026-10-22T15:09:31+00:00",
+     "to": "researching"
+    },
+    {
+     "t": "2026-10-22T15:09:31+00:00",
+     "to": "qc_pending",
+     "note": "draft complete; awaiting advisor QC"
+    }
+   ]
   }
  },
- "updated": "2026-10-22T15:07:54+00:00"
+ "updated": "2026-10-22T15:09:31+00:00"
 }
