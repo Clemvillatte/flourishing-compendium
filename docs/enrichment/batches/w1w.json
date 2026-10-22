@@ -77,9 +77,10 @@
   "The empty hub of the wheel",
   "The eternal now",
   "The ethical",
-  "The examined economics"
+  "The examined economics",
+  "The four views"
  ],
- "in_progress": "The four views",
+ "in_progress": null,
  "flagged": {
   "Samadhi": "RESOLVED (advisor round 1 repairs applied, d3f2f59): ordinal claim removed, seeded/seedless equivalence removed; validated clean",
   "Shamatha (calm abiding)": "RESOLVED (advisor round 1 repairs applied, 61c73e0): definition quote now Thanissaro's own phrase; breath claim and Samadhi gloss repaired; validated clean",
@@ -120,5 +121,5 @@
   }
  ],
  "sources_checked": 0,
- "updated": "2026-10-22T08:45:13+00:00"
+ "updated": "2026-10-22T08:45:23+00:00"
 }
