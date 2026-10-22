@@ -196,3 +196,12 @@ verified on origin/main.
   (retrieved via NCBI eutils; the cited PubMed page itself rejected the fetch).
 - The third quote (Seligman's 1998 APA President's Address, UPenn .docx) was NOT re-verified
   this round — no time before the session clock; flagged for the next verifier.
+
+## Addendum 7 (Positive psychology, 1998 APA address quote — FLAG, not fixed)
+- The docx carrier opened: the quote's words match except (a) the page has 'positive
+  psychology' in single quotes where the docx uses double quotes, and (b) the page has
+  "future‑mindedness" (hyphen) where the docx transcription reads "futuremindedness"
+  (no hyphen). The docx is demonstrably a sloppy transcription elsewhere ("halfmillion"
+  for "half million"), so the hyphen likely exists in the printed American Psychologist
+  address. FLAG for the next verifier: check the quote against the printed 1999 address
+  text and align the carrier or the quote.
