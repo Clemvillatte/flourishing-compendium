@@ -1057,8 +1057,8 @@
    ]
   },
   "s1c-039": {
-   "status": "ready",
-   "angle": "A017+A042+A068: Pericles' lamp and Epaminondas' visitor (Plutarch) — gentleness in speech, virtue as held state, presence in misfortune",
+   "status": "qc_pending",
+   "angle": "A108+A042: Franklin's little book of virtues (Autobiography Part II) — habituation by weekly rotation, virtue as settled condition",
    "history": [
     {
      "t": "2026-10-22T06:09:39+00:00",
@@ -1078,9 +1078,14 @@
      "t": "2026-10-22T07:57:00+00:00",
      "to": "ready",
      "note": ""
+    },
+    {
+     "t": "2026-10-22T07:58:29+00:00",
+     "to": "qc_pending",
+     "note": "advisor QC: unsupported details removed; Pericles label corrected; source-level review by supervisor pending"
     }
    ]
   }
  },
- "updated": "2026-10-22T07:57:00+00:00"
+ "updated": "2026-10-22T07:58:29+00:00"
 }
