@@ -1,6 +1,6 @@
 {
  "baton": "w1t",
- "agent": "13 items done",
+ "agent": "worker-pplc-w1t-kn93jqs0",
  "clocked_in": "2026-10-22T14:20:51+00:00",
  "takeovers": [
   {
@@ -28,10 +28,10 @@
    "reason": "released"
   },
   {
-   "by": "13 items done",
+   "by": "worker-pplc-w1t-kn93jqs0",
    "at": "2026-10-22T14:20:51+00:00",
    "from": "worker-pplc-w1t-kn93jqs0",
-   "reason": "stale (20 min)"
+   "reason": "stale (20 min); agent-name field corrected from mis-passed progress message (supervisor note)"
   }
  ],
  "released": false
