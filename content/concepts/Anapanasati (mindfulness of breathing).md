@@ -27,6 +27,7 @@ The sutta then gives sixteen training steps, grouped over body, feelings, mind a
 - [[Attention]] — the trained anchor of attention
 - [[Body scan in MBSR (Kabat-Zinn)]] — the breath-anchored counterpart practice within mindfulness training
 - [[B190]] — MN 118 teaches awareness of long and short breaths; B190 offers a brief everyday application.
+- [[Mindfulness-based stress reduction]] — the program that trains this practice at scale
 ## Sources
 
 - Buddhism, Anapanasati Sutta

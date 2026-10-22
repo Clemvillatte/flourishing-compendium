@@ -24,6 +24,7 @@ The ancient training is [[Yangsheng (cultivating vitality)]]; the current it rea
 ## Related concepts
 
 - [[Body scan in MBSR (Kabat-Zinn)]] — the scan asks for attending to internal signals as information
+- [[Mindfulness-based stress reduction]] — a program whose practices train body awareness
 
 ## Sources
 

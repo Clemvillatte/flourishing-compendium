@@ -27,6 +27,8 @@ Cook and colleagues summarize earlier research reporting that pain acceptance pr
 - [[Body scan in MBSR (Kabat-Zinn)]] — the 1982 program's patient population, studied in that literature for how stance toward pain predicts suffering
 - [[Acceptance alongside values-based action]] — the ACT pairing this construct applies to chronic pain
 - [[Chronic pain research]] — the research area the construct belongs to
+- [[Acceptance and Commitment Therapy]] — the protocol that trains acceptance of pain
+- [[Mindfulness-based stress reduction]] — the program first tested on chronic-pain patients
 
 ## Sources
 

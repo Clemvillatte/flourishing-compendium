@@ -26,6 +26,7 @@ The four frames are body, feelings, mind, and mental qualities, each observed "a
 - [[Bare attention in mindfulness practice]]
 - [[Anapanasati (mindfulness of breathing)]]
 - [[Anicca]]
+- [[Mindfulness-based stress reduction]] — the secular eight-week program built from such practice
 
 ## Sources
 
