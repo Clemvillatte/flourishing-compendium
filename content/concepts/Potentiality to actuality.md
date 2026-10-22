@@ -17,7 +17,7 @@ Aristotle insists that what counts as potential depends on how far along the cha
 
 ### Why the actual comes first
 
-Book IX also argues that "actuality is prior to potency" (IX.8): "For from the potentially existing the actually existing is always produced by an actually existing thing, e.g. man from man, musician by musician; there is always a first mover, and the mover already exists actually" (IX.8). And the point of the capacity is the act, not the other way round: "the actuality is the end, and it is for the sake of this that the potency is acquired" (IX.6).
+Book IX also argues that "actuality is prior to potency" (IX.8): "For from the potentially existing the actually existing is always produced by an actually existing thing, e.g. man from man, musician by musician; there is always a first mover, and the mover already exists actually" (IX.8). And the point of the capacity is the act, not the other way round: "the actuality is the end, and it is for the sake of this that the potency is acquired" (Metaphysics IX).
 
 ### In the compendium
 

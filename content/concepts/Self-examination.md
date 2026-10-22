@@ -7,9 +7,9 @@ file: "Self-examination"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Self-examination is the practice Socrates names as his life's work at his trial. In Plato's Apology, offered release on the condition that he stop philosophizing, he refuses: conversation about virtue, the thing he does with himself and others every day, is not a hobby he can drop. His words, in Jowett's translation:
+Self-examination is the practice Socrates names as his life's work at his trial. In Plato's Apology, addressing the hypothesis that the jury let him go on condition that he stop philosophizing, he refuses: conversation about virtue, the thing he does with himself and others every day, is not a hobby he can drop. His words, in Jowett's translation:
 
-> "I say that the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living." (Plato, [Apology](https://classics.mit.edu/Plato/apology.html), 38a, translated by Benjamin Jowett)
+> "and if I say again that the greatest good of man is daily to converse about virtue, and all that concerning which you hear me examining myself and others, and that the life which is unexamined is not worth living - that you are still less likely to believe." (Plato, [Apology](https://classics.mit.edu/Plato/apology.html), 38a, translated by Benjamin Jowett)
 
 ### What the practice includes
 

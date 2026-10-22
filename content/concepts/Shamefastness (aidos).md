@@ -7,7 +7,7 @@ file: "Shamefastness (aidos)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-S"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter S", "parent": ""}
 ---
-Shamefastness is the old English rendering of aidos, the Greek sensitivity to honor that restrains a person from acting in ways that would lower them in their own and others' eyes. In the archaic poems it works as a social brake, and Aristotle's treatment in Nicomachean Ethics IV.9 gives the concept its careful limits. His verdict:
+Shamefastness is the old English rendering of aidos, the Greek sensitivity to honor that restrains a person from acting in ways that would lower them in their own and others' eyes. Aristotle's treatment in Nicomachean Ethics IV.9 gives the concept its careful limits. His verdict:
 
 > "Shame should not be described as a virtue; for it is more like a feeling than a state of character. It is defined, at any rate, as a kind of fear of dishonour, and produces an effect similar to that produced by fear of danger; for people who feel disgraced blush, and those who fear death turn pale." (Aristotle, [Nicomachean Ethics IV.9](https://classics.mit.edu/Aristotle/nicomachaen.4.iv.html), translated by W. D. Ross)
 
@@ -20,7 +20,7 @@ The deeper point is that aidos is remedial. "For the sense of disgrace is not ev
 ### In the compendium
 
 - [[A021 — Practice shame (aidos)]] — the working definition as a practice principle
-- [[A118 — Understand shame (aischynē)]] — the later, more technical Greek shame-word
+- [[A118 — Understand shame (aischynē)]] — the companion concept page on Greek shame
 - [[A061 — Distinguish the involuntary from the non-voluntary]] — the voluntary-action condition Aristotle attaches to shame
 
 ## Related concepts
