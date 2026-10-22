@@ -380,7 +380,7 @@
    ]
   },
   "s1b-016": {
-   "status": "qc_pending",
+   "status": "ready",
    "angle": "Rope Bridge: small controllable actions when value-directed direction feels frightening",
    "history": [
     {
@@ -391,6 +391,11 @@
      "t": "2026-10-22T15:14:38+00:00",
      "to": "qc_pending",
      "note": "Full author account read; small-test ending retained; no claimed reconciliation"
+    },
+    {
+     "t": "2026-10-22T15:31:49+00:00",
+     "to": "ready",
+     "note": "Independent advisor review complete; requested corrections applied; direct book locators verified"
     }
    ]
   },
@@ -450,5 +455,5 @@
    ]
   }
  },
- "updated": "2026-10-22T15:31:43+00:00"
+ "updated": "2026-10-22T15:31:49+00:00"
 }
