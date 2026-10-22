@@ -17,19 +17,19 @@
   "The illusion of transparency",
   "The importance of rest",
   "The interdependence of freedoms",
-  "The ladder of love",
   "The invisible hand",
   "The layered soul",
   "The laying on of hands"
  ],
- "in_progress": null,
+ "in_progress": "The ladder of love",
  "flagged": {
   "The invisible hand": "Reopened for QC: QC correction: paraphrase inside quotation marks; unverified source URLs",
   "The layered soul": "Reopened for QC: QC correction: unsupported attribution claim to Aristotle",
-  "The laying on of hands": "Reopened for QC: QC correction: unsupported causal bridge"
+  "The laying on of hands": "Reopened for QC: QC correction: unsupported causal bridge",
+  "The ladder of love": "Reopened for QC: QC correction: overgeneralized universal rule"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:08:02+00:00",
+ "updated": "2026-10-22T08:08:05+00:00",
  "band_done": false
 }
