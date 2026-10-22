@@ -1,0 +1,13 @@
+{
+ "baton": "w1v",
+ "agent": "worker-core1022",
+ "clocked_in": "2026-10-22T03:49:30+00:00",
+ "takeovers": [
+  {
+   "by": "worker-core1022",
+   "at": "2026-10-22T03:49:30+00:00",
+   "from": null,
+   "reason": "free"
+  }
+ ]
+}
