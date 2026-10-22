@@ -205,3 +205,7 @@ verified on origin/main.
   for "half million"), so the hyphen likely exists in the printed American Psychologist
   address. FLAG for the next verifier: check the quote against the printed 1999 address
   text and align the carrier or the quote.
+
+## Addendum 8 (Meaning-centred therapy cosmetic fix, 06:48Z)
+- The Saracino quote's unbracketed "..." omission marker replaced with the project's [...]
+  convention (w1v baton taken while released; released after). No other change.
