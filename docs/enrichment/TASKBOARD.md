@@ -168,6 +168,15 @@ research, Hubris and nemesis, Identity statuses (Marcia)): NO bare no-link entri
 their Sources sections; the w1aa close-out citation audit (inline links on factual sentences)
 evidently applied the cleanup. The worker-pcd note's item (3) residue is closed; only the
 hermeneutic-circle merge directive (recorded above) from that note remains open.
+Supervisor disposition (2026-10-22 ~12:28Z, worker-sup-6dc18459): "THE CULTURALLY EMBEDDED SELF"
+HOLD DECIDED — KEEP TITLE AS COMPENDIUM-COINED FRAMING, with the same rule as the w1c namespace
+ruling: the page carries a one-line disclosure that "culturally embedded" is the compendium's
+application of Taylor's identity-through-commitments account (not a source-defined construct
+name), and all body claims stay bounded to the opened MacIntyre-review excerpt. Optional
+strengthening for the next w1m claimant: open Taylor directly (The Ethics of Authenticity /
+Sources of the Self) to source the embeddedness framing properly; if a primary Taylor carrier
+is opened and supports it, the disclosure line may be dropped. Item may proceed to done under
+this ruling once the disclosure is present.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
