@@ -183,3 +183,11 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - The seed's framing that the practice "counters the timelessness of digital life" is kept as the practice's own rationale, not as an evidence claim.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed.
+
+## K302 — Ecological reciprocity (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carriers opened this session: (1) Kimmerer interview "Practical Reverence," Emergence Magazine — quotes obtained via fetch_url extraction of the interview page (verbatim passage extraction; raw curl not attempted against this magazine site; the two blockquotes match the extracted interview text, including the "we never go home with our basket without reciprocating the gift" passage). (2) Whitburn, Linklater, Abrahamse & Iwankiw 2019 (Conservation Biology 34(1):180-193), abstract verified raw via the Crossref API (DOI 10.1111/cobi.13381; an earlier Crossref DOI guess returned a different paper and was discarded before the correct record was located by bibliographic query).
+- The page cites the Honorable Harvest as an Indigenous ethic Kimmerer describes, not as an intervention; the meta-analysis quote is the correlational association (r = 0.42), and "What this evidence does not test" states both limits.
+- The seed's framing "you receive from the world and owe something back" is carried by the Kimmerer quotes rather than asserted as an evidence claim.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed.
