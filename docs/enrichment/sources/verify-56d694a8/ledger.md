@@ -383,3 +383,10 @@ Round 36: 4 pages, 7 quoted passages verified, no defects; 3 routed items.
 3. **Somatic experiencing (Levine)** — the "pendulation describes the shape" line VERIFIED via the opened metaphorex entry; the Waking the Tiger figure-eight passage partially confirmed via the opened SuperSummary page (the first two sentences match verbatim; the third sentence — "By moving between these vortices..." — was not extracted from the carrier on two fetches, likely an extraction miss, ROUTED for the next verify worker). PARTIAL.
 
 Round 37: 3 pages, 6 quoted passages verified, no defects; 1 routed item.
+
+## Round 38
+
+1. **The illusion of knowledge** — CLOSED: the misattribution note on the page ("often misattributed to Hawking") is directly supported by the opened Wikiquote Boorstin page ("Often misquoted as... and often misattributed to Stephen Hawking"). With the earlier round's Boorstin and BBC verifications, the page is fully verified. PASS (complete).
+2. **The fury of the virtuous** — one item remains routed: the "these birds of prey are evil" line (GM I §13) is not printed by either cited carrier (the Berkeley lecture text; Wikiquote's Kennedy translation, re-checked with a looser prompt). The Kennedy page does carry the adjacent "option of being weak" sentence, so the passage's section is right, but the exact sentence needs a carrier with the fuller §13 quotation (possibly Kaufmann's translation) — left for the next verify worker.
+
+Round 38: 1 page closed, 1 routed item clarified.
