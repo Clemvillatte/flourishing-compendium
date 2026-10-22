@@ -1050,3 +1050,14 @@ adrenal exhaustion" fragment all verified against an unprompted raw fetch of the
 PMC article (Herman et al. 2016). One-word note (not routed as a defect): the article
 prints "adrenocorticotrophic hormone" where the page has the standard "adrenocorticotropic"
 spelling; the rest of the passage is word-for-word. No routed findings.
+
+## Round 48 (2026-10-22; inspection ~12:47-12:48Z; raw-text method with carrier fallbacks)
+
+### Gut-brain axis (Cryan) (w1r, fast-track done)
+
+3 quoted passages checked, 3 PASS — the cited PubMed record (31460832) is blocked to this
+fetcher, so verification used search-engine snippets of the same document (the PubMed
+record, the publisher's Physiological Reviews abstract, and the UCC institutional
+repository, all the identical article): the routes-of-communication sentence, the
+conditions sentence, and the future-studies sentence all appear word-for-word. No routed
+findings.
