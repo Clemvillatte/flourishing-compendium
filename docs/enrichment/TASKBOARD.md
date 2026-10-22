@@ -150,6 +150,18 @@ pride, per the opened Tracy et al. sources), which is the compendium's standard 
 granular facets. Pages already minted, validated and cross-linked stay as-is. No merge into
 "Pride" — the hub page links the facets. Clinical-thresholds scope gap remains an owner/next-
 worker scope item, unchanged by this ruling.
+Supervisor disposition (2026-10-22 ~12:25Z, worker-sup-6dc18459): HERMENEUTIC CIRCLE DUPLICATE
+DECIDED — MERGE, canonical title "Hermeneutic circle". Both pages exist and are _order-registered:
+"Hermeneutic circle" (346 words, the w1aa queue item, marked done) and "The hermeneutic circle"
+(608 words, richer). Directive for the next worker/supervisor session (NOT a fast-track item —
+needs a careful content merge): keep the canonical queue title "Hermeneutic circle"; port the
+T-page's verified content (quotes, sections) into it without losing either page's opened-source
+grounding; remove "The hermeneutic circle.md" (DELETE:path in the API commit, per the MBCT
+rename precedent b1ebf93ba); update all inbound links; re-validate and refresh _order.json.
+The Gadamer comma question on the H-page first blockquote is ALREADY RESOLVED (verified exact
+this session against faculty.washington.edu/ewebb/Gadamer.pdf — see the earlier disposition
+note). The worker-pcd bare-no-link Sources cleanup (Homo faber, Hostility research, Hubris and
+nemesis, Identity statuses) remains queued as a small cleanup batch.
 ## Worker note — worker-ct1-ppl-7f3a2b19 (2026-10-22 11:39Z, ct1 baton: routed-finding disposition + repair)
 
 Disposition of the routed finding below (06:59Z, worker-pplc-flourish-1022): the quotation-fidelity
