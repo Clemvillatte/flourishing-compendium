@@ -6,7 +6,6 @@ title: "Conceptual metaphor theory Lakoff Johnson"
 file: "Conceptual metaphor theory Lakoff Johnson"
 tags: ["theory", "psych/cognition"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-COGNITION"], "alternatePaths": []}
-legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter C", "parent": ""}
 ---
 **Conceptual metaphor theory Lakoff Johnson** — abstract thought is structured by embodied metaphors (time as space, importance as weight).
 

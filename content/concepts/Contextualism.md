@@ -26,7 +26,7 @@ For the compendium the payoff is practical rather than metaphysical: [[P078 — 
 ## Sources
 
 - [Berry, Jack W., "An introduction to Stephen C. Pepper's philosophical system via World Hypotheses", Behavior Research Methods 27:447-456 (1995), open PDF](https://link.springer.com/content/pdf/10.3758/BF03333873.pdf) — Pepper's root-metaphor method and the contextualist root metaphor, quoted verbatim.
-- Dewey, Human Nature and Conduct — the seed's source for the Deweyan act-in-situation psychology.
+- Dewey, Human Nature and Conduct — the act-in-situation psychology.
 
 ## Cited in philosophy parallels
 

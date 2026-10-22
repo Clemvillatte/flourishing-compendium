@@ -21,12 +21,12 @@ The strategies share a family resemblance: each one makes the reader ask somethi
 
 Summarization shows the teaching logic at its clearest. A summary is "a brief statement that contains the essential ideas of a longer passage or selection" (Harris and Hodges 1995, quoted in the same chapter), and the aim of teaching it is "to teach the reader to identify the main or central ideas of a paragraph or a series of paragraphs" (National Reading Panel report, quoted in the same chapter). The strategies also work best together: "Many of the strategies above are best used within a multiple-strategies approach" (same chapter).
 
-The relevance to wisdom development is direct. Comprehension strategies are a trained habit of interrogating what one reads — asking what the main idea is, what remains unclear, what the next part will say — and that habit is the seed of [[Y086 — Examine what you hear]], the compendium's counsel to test rather than absorb what reaches you.
+The relevance to wisdom development is direct. Comprehension strategies are a trained habit of interrogating what one reads — asking what the main idea is, what remains unclear, what the next part will say — and that habit underlies [[Y086 — Examine what you hear]], the compendium's counsel to test rather than absorb what reaches you.
 
 ## Sources
 
 - [McShane, Susan, "Comprehension-Strategy Instruction", Chapter 7 in Applying Research in Reading Instruction for Adults, LINCS / U.S. Institute of Education Sciences](https://lincs.ed.gov/publications/html/mcshane/chapter7.html) — the eight-strategy research finding, reciprocal teaching, and summarization instruction, quoted verbatim.
-- Pressley et al., 1992 — the seed's source for transactional strategies instruction.
+- Pressley et al., 1992 — transactional strategies instruction.
 
 ## Cited in psychology parallels
 

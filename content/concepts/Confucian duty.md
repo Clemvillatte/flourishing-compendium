@@ -23,7 +23,7 @@ It is also not blind obedience. The Analects asks for attention to the parents' 
 
 Where the duty bites hardest, it diverges sharply from duty as a Western ethic of rules would shape it. Told of a land where a son testifies against his father who stole a sheep, Confucius answers:
 
-> "The righteous men in my land are different from this. The father conceals the wrongs of the son, and the son conceals the wrongs of the father. This is the correct way!" (13:18)
+> "The righteous men in my land are different from this. The father conceals the wrongs of his son, and the son conceals the wrongs of his father. This is the correct way!" (13:18)
 
 The point is not that theft is fine; it is that duty is learned first in the bonds one does not choose, and a life of duties must keep its roots. The compendium's principle [[MO069 — Recognise motivation and culture — motivational ideals vary]] uses this as one of its exhibits: an ideal of duty anchored in relationship rather than rule, contrasted with [[The categorical imperative]]'s demand that duty hold regardless of relation.
 

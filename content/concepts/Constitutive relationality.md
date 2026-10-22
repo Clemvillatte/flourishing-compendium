@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Constitutive relationality” — Sandel, Liberalism and the Limits of Justice.
 
-Constitutive relationality is Michael Sandel's name for the thought he set against the liberal picture of a self that chooses everything about itself. In Liberalism and the Limits of Justice (1982), his objection to Rawls is not that liberalism is wrong about freedom, but that it cannot describe the person it claims to free. The Stanford Encyclopedia summarizes the core:
+Constitutive relationality names the thought Michael Sandel set against the liberal picture of a self that chooses everything about itself. In Liberalism and the Limits of Justice (1982), his objection to Rawls is not that liberalism is wrong about freedom, but that it cannot describe the person it claims to free. The Stanford Encyclopedia summarizes the core:
 
 > "Whereas Rawls argues that we have a supreme interest in shaping, pursuing, and revising our own life-plans, he neglects the fact that our selves tend to be defined or constituted by various communal attachments (e.g., ties to the family or to a religious tradition) so close to us that they can only be set aside at great cost, if at all." ([Bell, "Communitarianism", Stanford Encyclopedia of Philosophy, section 2](https://plato.stanford.edu/entries/communitarianism/))
 

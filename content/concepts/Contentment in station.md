@@ -26,7 +26,7 @@ Note what the counsel is not. It is not passivity: chapter 17 says to act the pa
 ## Sources
 
 - [Epictetus, Encheiridion, chapters 1, 10, 13 and 17, full text in translation](https://epictetus-enchiridion.org/en/read/) — quoted verbatim.
-- Epictetus, the role-playing counsels of the Discourses — the seed's source for the theatrical form of the counsel.
+- Epictetus, the role-playing counsels of the Discourses — the theatrical form of the counsel.
 
 ## Cited in philosophy parallels
 

@@ -102,6 +102,16 @@ def validate(path, byfile, byid, base='HEAD', fast_track=False):
     rel = re.search(r'## Related concepts\n(.*?)(\n## |\Z)', body_n, re.S)
     if not rel: warns.append('no ## Related concepts section')
     elif len(re.findall(r'^- \[\[', rel.group(1), re.M)) < 3: warns.append('fewer than 3 Related-concepts lines')
+    # customer-facing rule (owner directive 2026-10-22): no workflow language on pages
+    WF_MARKERS = [
+        'this session', 'not opened', 'inherited citation', "the seed's",
+        'flagged to the supervisor', 'flagged for the supervisor', 'band ledger',
+        'kpr ledger', 'robots-blocked', 'blocked by captcha', 'QC notes (not prose)',
+        'supervisor disposition', 'the owner\'s seed', 'seed citation',
+    ]
+    wf_hits = [m for m in WF_MARKERS if m in body_n]
+    if wf_hits:
+        warns.append('workflow language on page (owner directive 2026-10-22): ' + ', '.join(wf_hits))
     return errs, warns
 
 if __name__ == '__main__':

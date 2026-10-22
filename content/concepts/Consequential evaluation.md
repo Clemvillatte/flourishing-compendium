@@ -9,7 +9,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 ---
 “Consequential evaluation” — Dewey, Theory of Valuation.
 
-Consequential evaluation is John Dewey's name, worked out in Theory of Valuation (1939), for the idea that valuing is not a flash of feeling but a judgment about what will follow from what. To value something is to appraise it as a means to ends, and the appraisal is open to evidence in the same way other empirical judgments are:
+Consequential evaluation is the account of value worked out in John Dewey's Theory of Valuation (1939): valuing is not a flash of feeling but a judgment about what will follow from what. To value something is to appraise it as a means to ends, and the appraisal is open to evidence in the same way other empirical judgments are:
 
 > "Examination of these appraisals discloses that they have to do with things as they sustain to each other the relation of means to ends or consequences. Wherever there is an appraisal involving a rule as to better or as to needed action, there is an end to be reached: the appraisal is a valuation of things with respect to their serviceability or needfulness." ([Dewey, Theory of Valuation, International Encyclopedia of Unified Science II(4), open full text](https://archive.org/stream/theoryofvaluatio032168mbp/theoryofvaluatio032168mbp_djvu.txt))
 

@@ -32,7 +32,7 @@ Meaning, on this account, is a working structure: it guides anticipation, it get
 ## Sources
 
 - [Kelly, George A., The Psychology of Personal Constructs (1955), open excerpt "The Psychology of Personal Constructs and its Philosophy"](https://www.infoamerica.org/documentos_pdf/kelly02.pdf) — the fundamental postulate, the construction corollary, constructive alternativism and revision, quoted verbatim.
-- Kelly, 1955; Neimeyer and Raskin, 2001 — the seed's sources for the constructivist tradition in personality and psychotherapy.
+- Kelly, 1955; Neimeyer and Raskin, 2001 — the constructivist tradition in personality and psychotherapy.
 
 ## Related concepts
 

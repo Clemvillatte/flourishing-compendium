@@ -24,7 +24,7 @@ The tradition reaches back through Roman law's distinction between free citizens
 ## Sources
 
 - [Lovett, Frank, "Republicanism", Stanford Encyclopedia of Philosophy (2006, revised)](https://plato.stanford.edu/entries/republicanism/) — non-domination definition, the slave example, historical roots and civic virtue, quoted verbatim.
-- Sandel, Democracy's Discontent — the seed's source for the concept's presence in contemporary debate.
+- Sandel, Democracy's Discontent — the concept's presence in contemporary debate.
 
 ## Cited in philosophy parallels
 

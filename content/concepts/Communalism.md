@@ -26,7 +26,7 @@ For the compendium, communalism is the philosophical backbone of [[R001 — I am
 ## Sources
 
 - [Gyekye, Kwame, "Person and Community in African Thought"](https://res.cloudinary.com/segl/image/upload/v1583436111/Gyekye-Communitarianism_ycw6vs.pdf) — the communitarian definition of the person and the case for moderate communitarianism, quoted verbatim.
-- Gyekye, Tradition and Modernity — the seed's source for the fuller treatment.
+- Gyekye, Tradition and Modernity — the fuller treatment.
 
 ## Cited in philosophy parallels
 
@@ -34,5 +34,5 @@ For the compendium, communalism is the philosophical backbone of [[R001 — I am
 
 ## Related concepts
 
-- [[Big Two model of agency and communion]] — the psychological descendant: communion as one of the two fundamental dimensions of social living.
+- [[Big Two model of agency and communion]] — the psychological counterpart: communion as one of the two fundamental dimensions of social living.
 - [[Chorus before solo]] — the compendium's own echo of the communal priority, at the level of practice.
