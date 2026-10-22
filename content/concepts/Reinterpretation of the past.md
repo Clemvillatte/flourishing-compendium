@@ -15,9 +15,25 @@ In the Second Essay of the Genealogy, Nietzsche argues that nothing keeps the me
 
 His case study is punishment: the act stayed recognizably the same across centuries while its meaning was rewritten again and again.
 
+### The punishment case study
+
+The evidence Nietzsche offers is the history of punishment itself, which he says manifests a whole synthesis of meanings:
+
+> "With regard to the other element in punishment, its fluid element, its meaning, the idea of punishment in a very late stage of civilisation (for instance, contemporary Europe) is not content with manifesting merely one meaning, but manifests a whole synthesis 'of meanings.'" (Nietzsche, Genealogy of Morals II.13, [Horace B. Samuel translation, Gutenberg](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
+
+He then lists the uses punishment has served, a list that runs to more than a dozen entries. The first four give its range, from neutralizing a threat, to compensating the injured party, to containing the disturbance, to inspiring fear of the punishers:
+
+> "Punishment, as rendering the criminal harmless and incapable of further injury.—Punishment, as compensation for the injury sustained by the injured party, in any form whatsoever (including the form of sentimental compensation).—Punishment, as an isolation of that which disturbs the equilibrium, so as to prevent the further spreading of the disturbance.—Punishment as a means of inspiring fear of those who determine and execute the punishment." (Nietzsche, Genealogy of Morals II.13, [Horace B. Samuel translation, Gutenberg](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
+
+The outcome of such a history is a concept too dense to open:
+
+> "The past general history of punishment, the history of its employment for the most diverse ends, crystallises eventually into a kind of unity, which is difficult to analyse into its parts, and which, it is necessary to emphasise, absolutely defies definition." (Nietzsche, Genealogy of Morals II.13, [Horace B. Samuel translation, Gutenberg](https://www.gutenberg.org/files/52319/52319-h/52319-h.htm))
+
+The interest for a reader is double. Nietzsche's claim is about power: whoever is currently stronger rewrites what things mean. The compendium's cognitive-science parallel runs alongside it: reconsolidation research finds that a reactivated memory returns to a labile state and is rebuilt on each recall, so retrieval itself reinterprets the past. The two meet in the practice of narrative: the events of a life stay recognizably the same while what they mean is rewritten by whoever holds the pen.
+
 ### In the compendium
 
-- [[CO060 — Use memory for growth — reconsolidation allows updating]] — lists the concept among its philosophy parallels.
+- [[CO060 — Use memory for growth — reconsolidation allows updating]] — the principle that reads this concept through memory science: a reactivated memory returns to a labile state and requires reconsolidation, so the past is updatable.
 
 ## Related concepts
 
