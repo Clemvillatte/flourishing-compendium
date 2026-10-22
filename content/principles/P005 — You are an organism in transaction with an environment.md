@@ -16,7 +16,7 @@ Dewey's core claim is that experience is not something that happens inside a per
 
 This is why the practical move is not always inner work. If the behaviour is produced by the transaction — the phone in the hand, the room, the timing, the company — then changing the self is one lever among several, and it is usually the weakest one. The environment is also a lever, and it is usually the stronger one.
 
-> "The live animal, the organism-plus-environment, is the fundamental unit of analysis." (Dewey, paraphrased from Experience and Nature and the organism-environment transaction, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dewey/))
+> Habits are not individual possessions or inner forces; rather, they are transactions between organisms and environments, functions making adaptation or reconstruction possible. ([Stanford Encyclopedia of Philosophy, "John Dewey", summarising Dewey](https://plato.stanford.edu/entries/dewey/))
 
 **Plain words** Can't stop scrolling in bed? The reflex is to work on the self — more discipline, more resolve, more self-talk. The transaction view says: charge the phone in the kitchen. Same person, different transaction, different outcome. Willpower is the weakest lever; the room is a strong one. This is not an argument against inner work; it is an argument about which lever to pull first.
 

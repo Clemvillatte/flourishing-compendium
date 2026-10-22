@@ -16,7 +16,7 @@ Dewey's instrumentalism is the clearest source, and the metaphor he uses is unus
 
 The consequence is that the question "is this worldview the true one?" is replaced by "does this worldview serve?" — which is not a lowering of standards; it is a different question, with a different answer. A five-year plan is a great fork in a stable decade and a terrible one in a volatile one, and this is not a moral issue. It is a question of cutlery.
 
-> "Concepts are instruments for coping with the world, like knives and forks — keep them sharp, use them, and replace them when better ones exist." (Dewey, paraphrased from The Quest for Certainty and instrumentalism, [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dewey/))
+> Knowing is one among many ways organisms with evolved capacities for thought and language cope with problems. Minds, then, are not passive observers but are engines of active adaptation, experimentation, and innovation; ideas and theories are not rational fulcrums to transcend culture, but rather function within culture, adjudged on situated, pragmatic grounds. ([Stanford Encyclopedia of Philosophy, "John Dewey", summarising Dewey](https://plato.stanford.edu/entries/dewey/))
 
 **Plain words** A worldview is a toolkit, not a painting to be authenticated. Keep the concepts sharp, use them, and swap them out when better ones exist. This is not relativism — some tools really are better than others for a given job — it is a refusal to treat a tool as a mirror. The five-year plan is a great fork in a stable decade and a terrible one in a volatile one, and the difference is not about truth. It is about the job.
 

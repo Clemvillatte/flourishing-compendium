@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 150** — Accept incompleteness as constitutive
 
-Terrence Deacon's Incomplete Nature makes a technical-sounding point with a personal implication. He argues that the most important things in the universe — organisms, minds, meaning — are defined by what they are missing: they are thermodynamically open, incomplete systems whose incompleteness is what keeps them going ([Deacon 2011, Incomplete Nature](https://terrencedeacon.com/incomplete-nature)). A fire stops being a fire when it stops consuming; an organism stops being alive when it stops needing.
+Terrence Deacon's Incomplete Nature makes a technical-sounding point with a personal implication. The compendium cites it as a modern scientific parallel to the point below; this page does not quote Deacon, and his argument is on [his book's page](https://terrencedeacon.com/incomplete-nature).
 
-Dewey's version of the same point is moral rather than thermodynamic: growth is not something a person completes; it is something a person is doing. There is no state at which the growing person arrives and stops ([Dewey 1916, Democracy and Education, Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt)). The two claims meet in a practical instruction: stop treating your current unfinished state as a temporary defect that must be fixed before life can begin.
+Dewey's version of the same point is moral rather than thermodynamic: growth is not something a person completes; it is something a person is doing. There is no state at which the growing person arrives and stops, which Dewey puts as "it has no end beyond itself" (quoted below). The two claims meet in a practical instruction: stop treating your current unfinished state as a temporary defect that must be fixed before life can begin.
 
-> "An incomplete being is not an inferior being. Incompleteness is what makes something alive." (Terrence Deacon, Incomplete Nature, 2011, paraphrased from the argument's core claim, [terrencedeacon.com](https://terrencedeacon.com/incomplete-nature))
+> Since growth is the characteristic of life, education is all one with growing; it has no end beyond itself. ([Dewey, Democracy and Education, 1916, ch. 4, Project Gutenberg](https://www.gutenberg.org/cache/epub/852/pg852.txt))
 
 **Plain words** A draft is not a failed final version; it is the only version that can actually be worked on. The finished thing cannot be revised, which is why nothing interesting is ever finished. You, right now, are a process that has not yet ended, and the not-yet-ended part is what gives you something to do tomorrow. Waiting until you have it together is not caution; it is a misunderstanding of what kind of thing you are.
 

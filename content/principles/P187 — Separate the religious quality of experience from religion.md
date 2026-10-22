@@ -12,11 +12,11 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "P — Pragmatist
 ---
 > **Principle 187** — Separate the religious quality of experience from religion
 
-Dewey's A Common Faith makes a distinction that is easy to miss and worth carrying: religion is a noun, a system of doctrines and institutions; the religious is an adjective, a quality of experience. He argues that the quality is real and cultivable without requiring assent to any supernatural claim: "the religious is a quality of experience... that has no necessary connection with the supernatural" ([Dewey 1934, A Common Faith, Internet Archive](https://archive.org/details/commonfaith0000dew)).
+Dewey's A Common Faith makes a distinction that is easy to miss and worth carrying: religion is a noun, a system of doctrines and institutions; the religious is an adjective, a quality of experience. He argues that the quality is real and cultivable without requiring assent to any supernatural claim. The adjective, he says, "denotes attitudes that may be taken toward every object and every proposed end or ideal" (*A Common Faith*, LW 9.8, as quoted in [Muse](https://muse.jhu.edu/pub/93/oa_monograph/chapter/2262824)).
 
 This is Dewey's naturalistic proposal, not the position of all Buddhism or Daoism, and it is contested from both traditional-religious and atheist-materialist sides. The move is not anti-religious; it is a proposal that the experience — connection to something larger, harmonizing of the self through allegiance to inclusive ideal ends — can be had directly, without a membership card.
 
-> "The religious is a quality of experience, not a set of beliefs... it has no necessary connection with the supernatural." (John Dewey, A Common Faith, 1934, paraphrased from the core argument, [Internet Archive](https://archive.org/details/commonfaith0000dew))
+> Any activity pursued in behalf of an ideal end against obstacles and in spite of threats of personal loss because of conviction of its general and enduring value is religious in quality. ([Dewey, A Common Faith, 1934, as excerpted at Harvard Square Library](https://www.harvardsquarelibrary.org/theology-philosophy/john-dewey-a-common-faith/))
 
 **Plain words** Two people can have the same moment — the sunset, the symphony, the birth, the stillness after — and one of them will call it religious and the other will not. The difference is not the experience. Dewey's point is that the experience does not require the doctrine in order to be had; the doctrine is one delivery mechanism among several. If the mechanism that carried the experience for you has stopped working, you have not lost the experience; you have lost a specific container.
 

@@ -12,15 +12,25 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "B — Buddhist P
 ---
 > **Principle 163** — Reconcile quickly: don't let conflict fester
 
-The Kosambi quarrel is the canonical case study for this principle, and the Buddha's handling of it is instructive. Two factions of monks had fallen into dispute, and the Buddha's instruction was not a lecture on who was right; it was an instruction to repair — the story is traditionally cited as the model for how a rift, once hardened, requires a deliberate act of coming together rather than a settling of the underlying argument ([ST085, The Quarrel at Kosambi; Vinaya account](https://www.accesstoinsight.org/tipitaka/vin/mv/mv.10.01.0.than.html)).
+The verse in the Dhammapada's first chapter that addresses quarrels is verse 6:
 
-The Dhammapada verse usually cited for the mechanism is this: those who are not forgetful of the practice and know the highest happiness are said to be those who have "made the resolve... to bring to an end the whole mass of suffering" — but the operative line for this principle is the simpler one: disputes are not settled by settling who was right; they are settled by the act of coming back into relationship ([Dhammapada 6, Thanissaro Bhikkhu translation, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html)).
+> There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels. ([Dhammapada 6, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html))
 
-> "Even if he is fond of quoting appropriate texts, if he doesn't practice what he preaches, he is like a cowherd counting someone else's cattle — not a true member of the Saṅgha." (Dhammapada 19, paraphrased; the operative point for this principle is that the relationship, not the score, is the practice. [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.than.html))
+Verses 3 to 5 in the same chapter describe how hatred is kept alive and how it ends (see B162). Verse 6 adds a reason to end a quarrel sooner: the time to do it is limited. The compendium reads this as an argument for quick repair. The verse does not say how quickly, and I did not open a source for the monks' quarrel at Kosambi, so this page does not tell that story.
 
-**Plain words** A rift does not stay the same size while you wait to address it; it compounds like interest, in the wrong direction. The awkward five-minute conversation you are avoiding this evening is the cheapest version of that repair that will ever be available. The same rift, next year, is a wall — with a decade of estrangement behind it and no obvious door. The reason is not that the other person has become worse; it is that the silence itself has become the story.
+(Dhammapada 6, trans. Buddharakkhita.)
 
-*For example:* Two friends have the same argument. One sends the awkward text the same evening; the conversation is uncomfortable and over in an hour, and the friendship survives. The other waits for the right moment, and the right moment does not come; a year later the same rift is a wall and neither can remember the original issue clearly.
+### Plain words
+
+A rift left alone usually grows harder to raise. The Dhammapada gives one reason to act now: we do not have unlimited time with each other. A short, awkward conversation this week is easier than the same conversation next year.
+
+### For example
+
+Two friends have the same argument. One sends the awkward text that evening and the conversation is over in an hour. The other waits for a better moment and a year goes by. This one is imagined.
+
+## Sources
+
+- Dhammapada 6, trans. Acharya Buddharakkhita: [Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.01.budd.html)
 
 ## Stories
 
