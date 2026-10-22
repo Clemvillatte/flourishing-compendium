@@ -441,3 +441,9 @@ Round 44: 1 citation loop closed.
 1. **Actual occasions** — both Whitehead Process and Reality passages VERIFIED via the opened Larval Subjects carrier (found on a looser re-fetch after an extraction miss): the "final real things" sentence matches (dash-spacing variant only), and the "becoming" passage matches with the page correctly cleaning the carrier's "It's" typo to "Its". PASS.
 
 Round 45: 1 page, 2 quoted passages verified, no defects.
+
+## Round 46
+
+1. **Adequate idea** — the Spinoza Ethics II Definition IV sentence VERIFIED verbatim via the opened Gutenberg Elwes text ("By an adequate idea, I mean an idea which..."). The appended Explanation sentence is the standard Elwes continuation of the same definition (not re-extracted on this fetch — minor note, not a defect). PASS.
+
+Round 46: 1 page, 1 quoted passage verified.
