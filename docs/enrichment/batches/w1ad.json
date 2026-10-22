@@ -34,7 +34,8 @@
   "Spotlight model of attention",
   "TIPP skills (DBT)",
   "Stress appraisal",
-  "The big-fish-little-pond effect"
+  "The big-fish-little-pond effect",
+  "Teleological bias"
  ],
  "in_progress": null,
  "flagged": {
@@ -64,10 +65,11 @@
   "Spotlight model of attention": "Seed credits Posner only; zoom-lens refinement is Eriksen. AT017 rests on an emotion/attention-scope study, not Posner; link is metaphorical. Posner abstract only.",
   "TIPP skills (DBT)": "Linehan 1993 manual not opened; page uses VA MIRECC teaching materials (not trials). Final P named Paired vs Progressive across sources.",
   "Stress appraisal": "1984 book not opened; page uses secondary PMC articles quoting it. D110 link thematic. Related-concept links kept from seed, descriptions neutralised (unchecked).",
-  "The big-fish-little-pond effect": "1987 paper not opened (ERIC abstract and reviews). Evidence is academic self-concept in schools; D106 (live at your own scale) generalises beyond that."
+  "The big-fish-little-pond effect": "1987 paper not opened (ERIC abstract and reviews). Evidence is academic self-concept in schools; D106 (live at your own scale) generalises beyond that.",
+  "Teleological bias": "Kelemen's experiments concern natural-phenomena explanations, not purpose in one's life events as SP004 applies them. Kelemen 2004 not opened."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:14:59+00:00",
+ "updated": "2026-10-22T16:15:24+00:00",
  "band_done": false
 }
