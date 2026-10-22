@@ -55,7 +55,10 @@
   "Hospitality",
   "Hypercompetitiveness",
   "Generativity theory",
-  "Identity-protective cognition"
+  "Identity-protective cognition",
+  "Faith seeking understanding",
+  "Gentleness as strength",
+  "Interest as motive"
  ],
  "in_progress": null,
  "flagged": {
@@ -83,9 +86,12 @@
   "Hospitality": "fast-track; Kant Perpetual Peace third definitive article quoted verbatim from Gutenberg; Derrida/Levinas seed citations preserved but not quoted (copyright); manaakitanga link verified.",
   "Hypercompetitiveness": "fast-track; PMC5972296 (Orosz et al. 2018) opened, Horney/Ryckman definition sentences quoted verbatim; correlates list from same review; seed 'Other formulations' section preserved; 'Narcissism'/'Zero-sum thinking' links replaced with existing pages.",
   "Generativity theory": "fast-track; McAdams & de St. Aubin 1992 paywalled, model quoted via open Rubinstein et al. 2015 (PMC4542587) verbatim; seed citations preserved; stray '- -' seed line dropped (no wikilink).",
-  "Identity-protective cognition": "fast-track; Kahan 2013 JDM paywalled at Cambridge (abstract read via search snippet, two findings paraphrased with care); verbatim quotes taken from open Kahan et al. working paper (uoregon scholarsbank) for SCT/ICT theses and cultural-cognition definition; no unverified direct quotes."
+  "Identity-protective cognition": "fast-track; Kahan 2013 JDM paywalled at Cambridge (abstract read via search snippet, two findings paraphrased with care); verbatim quotes taken from open Kahan et al. working paper (uoregon scholarsbank) for SCT/ICT theses and cultural-cognition definition; no unverified direct quotes.",
+  "Faith seeking understanding": "fast-track; Anselm Proslogium ch.1 quoted verbatim from Fordham sourcebook (Deane trans. 1903); noted translation is Deane not Charlesworth; seed E029/Y064 links preserved.",
+  "Gentleness as strength": "fast-track; La Rochefoucauld maxim 479 quoted verbatim from Gutenberg 9105; 'Assertiveness' replaced with existing 'Assertiveness research'; praotes cross-link added.",
+  "Interest as motive": "fast-track; Dewey Democracy and Education ch.X opened at Gutenberg, three sentences quoted verbatim; 'interest and effort same fact' phrasing confirmed absent from this edition and not used."
  },
  "missing_concepts": [],
  "sources_checked": 9,
- "updated": "2026-10-22T14:16:11+00:00"
+ "updated": "2026-10-22T14:17:29+00:00"
 }
