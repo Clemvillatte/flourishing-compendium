@@ -109,3 +109,34 @@ social desirability, well-being); phenomenological (self-report) vs performative
 well-being and eudaimonic well-being, especially the growth aspect. No quotes from this
 paper were on the standing page, so nothing to re-verify yet — the carrier and abstract
 are now on record for whoever runs the integration.
+
+## Round 3 (07:03Z) — sample verification of recently released band w1x
+
+### Anchoring effect — 8 quoted passages checked, 8 PASS
+
+All quotes sourced to Wikipedia, Anchoring effect — each verified verbatim against the
+freshly opened article: the definition sentence; "use this anchor as a point of reference
+to adjust their answers"; "anchoring is a special case of semantic priming, where the
+anchor acts as the prime"; "even experienced legal professionals were affected by
+anchoring"; the Ariely social-security bids sentence ("would submit bids that were
+between 60 percent and 120 percent higher"); "the high prices at the top of the menu act
+as anchor values"; "the consider-the-opposite (COS strategy) has been the most reliable in
+mitigating the anchoring bias"; "to consider the possibilities the opposite of their
+perceptions and beliefs".
+
+### The illusion of transparency — 3 quoted passages checked, 3 PASS
+
+1. Wikipedia, Illusion of transparency — "The illusion of transparency is a tendency for
+   people to overestimate the degree to which their personal mental state is known by
+   others." — VERBATIM.
+2. Same carrier — Newton's tapping test: "People usually estimate that the song will be
+   guessed correctly in about 50 percent of the tests, but only 3 percent pick the correct
+   song." — VERBATIM.
+3. Savitsky & Gilovich 2003 abstract (Docslib carrier) — "Individuals often believe
+   their internal states are more apparent to others than is actually the case, a
+   phenomenon known as the illusion of transparency. In the domain of public speaking,
+   for example, individuals who are nervous about delivering a public speech believe their
+   nervousness is more apparent to their audience than it actually is, a finding we
+   document in Study 1." — VERBATIM (first two sentences of the actual abstract; the
+   abstract's continuation about Study 2 confirms the page's "only the group taught about
+   the illusion improved" account).
