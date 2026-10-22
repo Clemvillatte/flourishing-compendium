@@ -11,7 +11,7 @@ Elpis is the Greek word for hope. Its best-known early appearance is in Hesiod's
 
 ### Is Hope a blessing or another evil
 
-The lines do not say. Hope is inside a jar of troubles, and the passage never calls it a good. Elsewhere in the same poem Hesiod is plainly wary of it when it replaces work: "The idle man who waits on empty hope, lacking a livelihood, lays to heart mischief-making; it is not an wholesome hope that accompanies a need man who lolls at ease while he has no sure livelihood" ([Works and Days, lines 498-502](https://www.theoi.com/Text/HesiodWorksDays.html)). The qualification matters for the compendium. Hesiod sets a hope that waits against the work of ploughing, saving and building barns.
+The lines do not say. Hope is inside a jar of troubles, and the passage never calls it a good. Elsewhere in the same poem Hesiod is plainly wary of it when it replaces work: "The idle man who waits on empty hope, lacking a livelihood, lays to heart mischief-making; it is not an wholesome hope that accompanies a need man who lolls at ease while he has no sure livelihood" ([Works and Days, the passage between lines 493 and 502](https://www.theoi.com/Text/HesiodWorksDays.html)). The qualification matters for the compendium. Hesiod sets a hope that waits against the industrious man who prospers his house and the command to "build barns" before winter.
 
 ### Plato's Gorgias
 
