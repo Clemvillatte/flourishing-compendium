@@ -415,3 +415,9 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   Ryan & Deci 2020 quotes (Autonomy-supportive leadership page, w1y's recent output)
   checked against the opened selfdeterminationtheory.org PDF — BOTH verbatim (apostrophe
   style normalized to straight quotes only). Sample PASS; no defect found.
+- Supervisor verification sample 2 (2026-10-22 ~14:33 UTC): Autonomy-threat research
+  (w1t's recent output) — both Promberger & Marteau 2013 quotes AND the
+  pervasive-vs-limited different-conclusions claim checked against the opened
+  Europe PMC full text (PMC3906839; pmc.ncbi.nlm.nih.gov serves a bot wall to
+  scripts, Europe PMC carries the same full text). ALL verbatim/supported. Sample
+  PASS; no defect found. Two samples from two live bands (w1y, w1t) now PASS.
