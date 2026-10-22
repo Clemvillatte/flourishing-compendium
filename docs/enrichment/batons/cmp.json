@@ -1,7 +1,7 @@
 {
  "baton": "cmp",
- "agent": "worker-cmp-6e4f1c93",
- "clocked_in": "2026-10-21T16:05:24+00:00",
+ "agent": "worker-cmp-5f2a9b71",
+ "clocked_in": "2026-10-22T03:08:48+00:00",
  "takeovers": [
   {
    "by": "worker-cmp-degree-277caea1",
@@ -14,8 +14,12 @@
    "at": "2026-10-21T15:25:24+00:00",
    "from": "worker-cmp-degree-277caea1",
    "reason": "stale (25 min)"
+  },
+  {
+   "by": "worker-cmp-5f2a9b71",
+   "at": "2026-10-22T03:08:48+00:00",
+   "from": "worker-cmp-6e4f1c93",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-21T16:19:32+00:00"
+ ]
 }
