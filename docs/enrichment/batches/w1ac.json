@@ -44,7 +44,6 @@
   "Recovery research",
   "Regulatory mode theory",
   "Reinterpretation of the past",
-  "Relational Frame Theory",
   "Purpose",
   "Reconstruction",
   "Relational-interdependent self-construal",
@@ -68,22 +67,23 @@
   "Selection by consequences",
   "Relationship dissolution research"
  ],
- "in_progress": null,
+ "in_progress": "Relational Frame Theory",
  "flagged": {
   "Reversal (fu)": "title romanization: DDJ 40 Chinese text conventionally reads fan (反, 'reversal'), the title's '(fu)' may be a mismatch — flagged for supervisor; front-matter untouched per protocol. QC: advisor round 1 fixes applied (quote line breaks restored, ch.58 referent narrowed, AF008 bullet narrowed, Wu wei line grounded in ch.40 + D003 title gloss).",
   "Positivity offset": "seed line overgeneralizes the ESM finding (claims 'improves comprehension, trust, and recall'; opened source supports identification of risks via prospective hindsight and lower judged competence for needless complexity) - flagged for supervisor; front-matter untouched.",
   "Pragmatic solidarity": "Bernstein quote in page is from The Abuse of Evil p.29, not the seed's 'The Pragmatic Turn'; Rorty quotes are from CIS as reprinted in the opened OBP book - flagged for supervisor.",
   "Purpose": "Reopened for QC: QC correction round 1: unverified Hill-Turiano claim, wrong AF062 attribution, unsupported glosses; repairing to fast-track bar with Frankl 1963 only",
-  "Responsive parenting": "R073 page cites 'Bernstein et al., 2014' for responsive parenting; no such construct paper found in opened searches (Bernard et al 2014/2015 and Bernstein et al 2014 are different papers). Supervisor: verify R073's source line."
+  "Responsive parenting": "R073 page cites 'Bernstein et al., 2014' for responsive parenting; no such construct paper found in opened searches (Bernard et al 2014/2015 and Bernstein et al 2014 are different papers). Supervisor: verify R073's source line.",
+  "Relational Frame Theory": "Reopened for QC: first-item advisor QC: claims narrowed + theory-page material needed (three properties explained in plain language, ACT link verified); not done"
  },
  "missing_concepts": [],
  "sources_checked": 1,
- "updated": "2026-10-22T11:17:42+00:00",
+ "updated": "2026-10-22T15:06:36+00:00",
  "notes": {
   "Purpose": "enriched+QC-repaired 2026-10-22 by worker-sup-flourish-1022b. Advisor round 1 findings applied: Hill-Turiano mortality claim now described as PP025's own citation (not restated as opened evidence), AF062 misattribution corrected to B155/PP025 framing, unsupported research-literature glosses and Noogenic-neurosis overreach removed, Frankl quote replaced with the complete sentence verified verbatim in the opened 1963 OCR (em-dashes as printed, OCR 'existence:-Woe' join disclosed in ledger). Degree <15 at start; fast-track bar. Baseline 708222a39 used for lost-link check.",
   "Reconstruction": "enriched 2026-10-22 by worker-sup-flourish-1022b. Dewey Reconstruction in Philosophy Gutenberg #40089 opened; lecture-I 'Philosophic reconstruction for the present' passage quoted verbatim; prefatory-note Japan framing; P100 link preserved. Fast-track bar (degree 1 at start).",
   "Repentance": "enriched 2026-10-22 by worker-sup-flourish-1022b. Spinoza Ethics Elwes (Gutenberg 3800) opened; Definitions of the Emotions XXVII quoted verbatim; IV P54 + note quoted; Aristotle A061 test kept as cross-reference (A061 page already carries the NE III.1 quote). Kierkegaard source left as-is (not opened; owner library holds it).",
   "band_completion": "2026-10-22 worker-sup-flourish-1022b: all 22 w1ac concepts enriched and validated (fast-track bar). R073 'Bernstein et al 2014' flag and the Dewey/Skinner seed misattribution on 'Selection by consequences' are recorded in docs/enrichment/sources/w1ac/sup-1022b-ledger.md for the supervisor."
  },
- "band_done": true
+ "band_done": false
 }
