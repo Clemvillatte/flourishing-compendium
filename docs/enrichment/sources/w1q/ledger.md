@@ -714,3 +714,7 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 - Supervisor dispositions pending: (1) Analytic vs holistic cognition is a comparison page - namespace flag in concept-namespace-audit.md; (2) Antidotes to afflictions concept identity - opened source grounds anger/patience only, general one-antidote-per-affliction scheme ungrounded.
 - Resolved this session: Absolute nothingness seed attribution line corrected (was Inquiry into the Good, now Nishida Kitaro, Kyoto School); Arousal reinterpretation snippet-grounded claim retracted and replaced with abstract-bounded text; w1q done-list duplicate removed.
 - Final state verified on origin/main at 9fdc1eed; w1q baton released.
+
+## Advisor final closing check (T+56)
+
+- Advisor verdict: NOT PASS on three residual copy-edit nits (Antidotes authored triads and uncited framing; Affects pleasure/unpleasure sentence citation placement; Arousal opening definitional sentence uncited). Advisor recommended flagging for supervisor rather than editing the released band - flags added to w1q.json flagged dict and pushed here. All other round-2 repairs confirmed.
