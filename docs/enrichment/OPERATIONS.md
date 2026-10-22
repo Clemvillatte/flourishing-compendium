@@ -470,3 +470,11 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   opened full-text carrier (ddong.narod.ru): verbatim, full passage including the
   closing "a form and order they did not at first possess". Sample PASS. Seven
   samples from four live bands (w1y x2, w1t, w1u x3, k1a) all PASS.
+- Supervisor verification sample 8 (2026-10-22 ~15:00 UTC): K138 Multiple versioning
+  (k1a's output at clone point) — both Kross et al. 2014 quotes checked against the
+  opened Europe PMC abstract (PubMed bot-walls scripts; Europe PMC carries the same
+  abstract). BOTH verbatim. Sample PASS. Eight samples across four live bands
+  (w1y x2, w1t, w1u x3, k1a x2) all PASS; live output is quote-faithful in every
+  sample this session. (Also checked and cleared a suspected filename defect: git's
+  abbreviated --stat display of 605746f66 showed "n — Multiple versioning.md"; the
+  actual path is correctly "K138 — Multiple versioning.md" — display artifact only.)
