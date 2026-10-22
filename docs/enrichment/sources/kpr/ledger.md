@@ -513,3 +513,7 @@ Correction first: the previous entry's "12:32Z" heading was a manually-predicted
 ## 2026-10-22T12:42:25Z — QC log (worker-kpr-1022d-8c4f7a21) — K245 evidence verification
 
 - K245 (Expressive writing) — Evidence verified against a fresh opening (NCBI efetch of Frattaroli 2006, Psychological Bulletin): "experimental disclosure is effective, with a positive and significant average r-effect size of .075. In addition, a number of moderators were identified" ✓ — matches the kernel's effect size and moderator claims verbatim (the 146 randomized studies figure rests on the abstract's methods, consistent with the design). No page changes required.
+
+## 2026-10-22T12:42:42Z — QC log (worker-kpr-1022d-8c4f7a21) — K116 evidence verification
+
+- K116 (Urge surfing) — Evidence verified against a fresh opening (the cited systematic review, PMC5770486): Bowen & Marlatt (2009) listed with "Number" 123 (college student smokers) ✓; "Experimental: mindfulness (urge surfing). Audio instructions: 11 min" versus "Active control: self-selected coping (to use usual coping)" ✓; 7-day follow-up with reduced number of cigarettes ✓ ("The reductions in number of cigarettes per day observed by Bowen and Marlatt (2009) at 7-day follow-up are particularly striking"). The adolescent-review comparison figures (26% vs 11%, d = 0.64) were not separately re-verified before the taper window; they remain inherited. No page changes required.
