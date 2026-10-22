@@ -46,7 +46,8 @@
   "De-escalation science",
   "Dependency",
   "Differing from the crowd",
-  "Ecological citizenship"
+  "Ecological citizenship",
+  "Dialogic reason"
  ],
  "in_progress": null,
  "flagged": {
@@ -65,9 +66,10 @@
   "Default effect theory": "K060 (rest/non-doing) does not mention defaults; link unsupported. Seed 'implicit recommendation' covers only the endorsement channel of three.",
   "De-escalation science": "Seed specifics (calm tone, validation, slowing) not isolated in the two systematic-review abstracts opened; page states narrower claim.",
   "Dependency": "Seed cites Kittay Love's Labor (book not opened); page rests on SEP Feminist Ethics summary.",
-  "Differing from the crowd": "B173 (Dhammapada/Rhinoceros Sutta) does not cite Daodejing 20; link thematic."
+  "Differing from the crowd": "B173 (Dhammapada/Rhinoceros Sutta) does not cite Daodejing 20; link thematic.",
+  "Dialogic reason": "Pairs Buber and Habermas; SEP entries consulted, not the books. CO006 does not name either thinker; link thematic."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:57:58+00:00"
+ "updated": "2026-10-22T15:58:34+00:00"
 }
