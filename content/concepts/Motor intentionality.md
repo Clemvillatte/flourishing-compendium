@@ -16,15 +16,14 @@ Motor intentionality is the directedness of the lived body toward the world befo
 
 ### Origin
 
-The idea is the backbone of Merleau-Ponty's Phenomenology of Perception (1945). He worked it out through pathological cases such as the phantom limb, which he read as the body refusing to let go of its possibilities rather than a mere memory defect. The entry summarises the result: the body's typical mode of existence is "being-toward-the-world" — a pre-objective orientation toward a vital situation that is explicable neither by third-person causal interactions nor by explicit judgments or representations ([SEP](https://plato.stanford.edu/entries/merleau-ponty/)). Motor intentionality thus gives perception a practical floor: things show up as reachable, graspable, walkable, before they show up as objects of knowledge.
+The idea is the backbone of Merleau-Ponty's Phenomenology of Perception (1945). He worked it out through pathological cases such as the phantom limb, which he read as the body refusing to let go of its possibilities rather than a mere memory defect. The entry summarises the result: the body's typical mode of existence is "being-toward-the-world", a pre-objective orientation toward a vital situation that is explicable neither by third-person causal interactions nor by explicit judgments or representations ([SEP](https://plato.stanford.edu/entries/merleau-ponty/)). Motor intentionality thus gives perception a practical floor: things show up as reachable, graspable, walkable, before they show up as objects of knowledge.
 
 ### Related concepts
 
-- [[Body schema]] — the pre-conscious system of movement and spatial equivalences that carries this intentionality.
-- [[Embodied cognition]] — the research tradition that treats thinking as running on this bodily grip.
-- [[Situated cognition]] — cognition shaped by the place and task the body is engaged with.
-- [[Ready-to-hand]] — Heidegger's parallel description of equipment used without thematic awareness.
-- [[Habit]] — the sedimented "habit body" through which motor intentionality is stored.
+- [[Body schema]]: the pre-conscious system of movement and spatial equivalences that carries this intentionality
+- [[Embodied cognition]]: the research tradition that treats thinking as running on this bodily grip
+- [[Ready-to-hand]]: Heidegger's parallel description of equipment used without thematic awareness
+- [[Habit]]: the sedimented "habit body" through which motor intentionality is stored
 
 ### A real-life example
 
