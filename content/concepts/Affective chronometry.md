@@ -8,13 +8,13 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-THEORY", "NAV-TH-AFFECT"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Affective chronometry is the study of how fast emotions rise, how long they last, and how quickly they fade. Richard Davidson introduced the term in a 1998 paper and defined it as the temporal profile of emotional response rather than its intensity.
+Affective chronometry is the study of the temporal profile of emotional response — how quickly an emotion rises and how long it lasts. Richard Davidson introduced the term in a 1998 paper and defined it as the temporal dynamics of emotional responding.
 
-> "I defined affective chronometry as the temporal dynamics of emotional responding and specified particular chronometric parameters such as the rise time to peak and duration as examples of parameters of emotional responding that are subsumed under affective chronometry and that could be measured using objective methods." — Davidson, comment in Emotion Review, 2015 ([PDF](https://chm-web.files.svdcdn.com/production/files-publications/DavidsonCommentAffectiveER.pdf))
+> "I defined affective chronometry as the temporal dynamics of emotional responding and specified particular chronometric parameters such as the rise time to peak and duration as examples of parameters of emotional responding that are subsumed under affective chronometry and that could be measured using objective methods." — Davidson, comment on affective chronometry, Emotion Review, 2015 ([PDF](https://chm-web.files.svdcdn.com/production/files-publications/DavidsonCommentAffectiveER.pdf))
 
-The chronometric profile is treated as a trait-like individual difference. Davidson's lab found that people with higher Purpose in Life scores recover faster from negative stimuli, and that prolonged amygdala recovery after a negative stimulus predicts higher neuroticism.
+Davidson notes that there appears to be widespread consensus that aspects of the time course of emotional responding vary greatly among individuals and play a role in psychopathology and well-being ([Davidson, 2015](https://chm-web.files.svdcdn.com/production/files-publications/DavidsonCommentAffectiveER.pdf)). Two findings from his group illustrate the link: participants with higher Purpose in Life scores showed faster recovery from negative stimuli, and prolonged amygdala recovery after a negative stimulus predicted higher neuroticism ([Davidson, 2015](https://chm-web.files.svdcdn.com/production/files-publications/DavidsonCommentAffectiveER.pdf)).
 
-Two main parameters anchor the field's empirical work: rise time (how quickly an emotion reaches peak) and duration (how long until intensity returns to baseline). Verduyn's review defines the end of an emotional episode as the moment intensity returns to zero or baseline. The strongest duration determinants are the importance of the triggering event and rumination — persistently replaying the event keeps the emotion alive.
+Two chronometric parameters anchor the field's empirical work: rise time (how quickly an emotion reaches peak) and duration (how long until intensity returns to baseline). Verduyn's review defines the end of an emotional episode as the moment intensity returns to zero or baseline ([Verduyn, 2015](https://ppw.kuleuven.be/okp/_pdf/Verduyn2015DOEDA.pdf)). The review names the importance of the eliciting event as the appraisal dimension most consistently related to emotion duration, and rumination as a strategy related to prolonged episodes of anger and sadness ([Verduyn, 2015](https://ppw.kuleuven.be/okp/_pdf/Verduyn2015DOEDA.pdf)).
 
 ## Facets
 
@@ -24,7 +24,7 @@ Two main parameters anchor the field's empirical work: rise time (how quickly an
 
 ## Other formulations in this library
 
-- [[AF015]] — variability across the rise-peak-decay curve is the observed phenomenon; its absence, not its presence, is the concern
+- [[AF015]] — the linked principle frames the concern as the absence of emotional variability, not its presence
 
 ## Related concepts
 

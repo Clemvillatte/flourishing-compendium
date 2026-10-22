@@ -23,9 +23,6 @@ Santideva warns that one moment of hatred can devastate merit amassed over thous
 - [[Y034 — Counter negative states with their opposites]]
 - [[SP050 — Do not fight affect with reason alone]]
 
-“The antidotes to the afflictions” — Buddhist tradition, Santideva's ch. 6.
-- Buddhist tradition, Santideva's ch. 6
-- the series' Tibetan half of this book
 [[Y034 — Counter negative states with their opposites]]
 [[SP050 — Do not fight affect with reason alone]]
 - [[K029 — Take the three poisons as practice material]]

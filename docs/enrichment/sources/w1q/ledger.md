@@ -686,3 +686,11 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 - Analytic vs holistic cognition: removed fundamental-attribution paragraph (not in opened abstract); social origins now attributed as the authors' speculation; namespace flagged in concept-namespace-audit.md.
 - Arousal reinterpretation: removed mechanism claims beyond the abstract (reported-anxiety-did-not-fall, rather-than-intensity); replaced with bounded abstract-supported summary; stripped bold from seed line; earlier ledger note about replication-snippet grounding retracted, that evidence was a search snippet, not an opened source.
 - Antidotes to afflictions: cut three-poisons generalisation (opened source covers anger/patience only), substitution mechanism, Tibetan paragraph and unverified quoted phrase; merit and suffering claims now attributed to Santideva with verse locators.
+
+## Final advisor round repairs (T+47)
+
+- Affective chronometry: intensity-contrast framing removed; consensus claim attributed as Davidson-reported consensus; duration findings bounded to review wording (importance most consistently related; rumination related to prolonged anger/sadness episodes); sentence-level citations added; AF015 line now describes the linked principle framing.
+- Affects: interpretive closer merged into definitions paragraph; D3 link added to opening sentence.
+- Analytic vs holistic cognition: sentence-level citations added to the style-contrast paragraph.
+- Arousal reinterpretation: PEN Model gloss removed (link kept); arousal-congruency definition now quotes abstract wording; legacy physiologically-similar line reworded to arousal-congruent.
+- Antidotes to afflictions: unverified quoted phrase and Tibetan-tradition lines removed, all original wikilinks kept; identity flag added to w1q.json.

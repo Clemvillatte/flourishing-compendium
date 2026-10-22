@@ -11,7 +11,7 @@ Analytic and holistic cognition are two habits of attention and explanation docu
 
 > "The authors find East Asians to be holistic, attending to the entire field and assigning causality to it, making relatively little use of categories and formal logic, and relying on 'dialectical' reasoning, whereas Westerners are more analytic, paying attention primarily to the object and the categories to which it belongs and using rules, including formal logic, to understand its behavior." — Nisbett, Peng, Choi and Norenzayan, abstract, Psychological Review, 2001 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/11381831/))
 
-The analytic style pays attention primarily to the object and the categories it belongs to, using rules to understand its behaviour. The holistic style attends to the entire field and assigns causality to it, making relatively little use of categories and formal logic.
+The analytic style pays attention primarily to the object and the categories it belongs to, using rules to understand its behaviour ([Nisbett et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)). The holistic style attends to the entire field and assigns causality to it, making relatively little use of categories and formal logic ([Nisbett et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)).
 
 ## Sources
 
