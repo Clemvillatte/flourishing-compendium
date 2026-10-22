@@ -25,23 +25,25 @@ In the 1970s Seligman extended the concept from animals to clinical depression (
 ### Core claims
 In the 1967 design, one group of dogs could end each shock by pressing a panel; a yoked group received identical shocks with no way to end them. A day later, in a shuttle box where escape required only stepping over a low barrier, the escape dogs learned it readily, while about two-thirds of the yoked dogs did not even try, "lying down and whining as they accepted shocks they could have avoided" (Simply Psychology). What differed was whether their actions had mattered. Seligman's 1972 review lists the theory's three basic effects:
 
-> "In summary, experience with uncontrollable trauma typically has three basic effects: (a) animals become passive in the face of trauma, i.e., they are slower to initiate responses to alleviate trauma and may not respond at all; (b) animals are retarded at learning that their responses control trauma... and (c) animals show more stress when faced with trauma they cannot control than with equivalent controllable trauma."
+> "In summary, experience with uncontrollable trauma typically has three basic effects: (a) animals become passive in the face of trauma, i.e., they are slower to initiate responses to alleviate trauma and may not respond at all; (b) animals are retarded at learning that their responses control trauma [...] and (c) animals show more stress when faced with trauma they cannot control than with equivalent controllable trauma."
 >
 > (Seligman, Annual Review of Medicine 23, 1972. [PDF](https://ppc.sas.upenn.edu/sites/default/files/learnedhelplessness.pdf))
 
 A second experiment the same year ruled out the rival idea that the dogs had merely learned some interfering behavior: dogs immobilized with curare during the inescapable shocks still showed helplessness afterward (Wikipedia). The effect replicated with human subjects, using loud noise in place of shock (Britannica).
 
 ### How the theory explains suffering
-The theory is mechanistic: uncontrollability produces a learned expectation that produces the deficits. It offered the first laboratory model of why people stay passive in situations they could change. Two refinements matter for a writer. In 1978 Lyn Abramson, Seligman and John Teasdale reformulated the theory around attribution, proposing that people differ in how they classify negative experiences "from internal to external, stable to unstable, and from global to specific", and that those who attribute negative events to internal, stable and global causes are more likely to become depressed (Wikipedia). Then, fifty years on, Maier and Seligman reversed the mechanism's direction:
+The theory is mechanistic: uncontrollability produces a learned expectation that produces the deficits. It proposed that passivity follows a history in which responding and relief were independent. Two refinements matter for a writer. In 1978 Lyn Abramson, Seligman and John Teasdale reformulated the theory around attribution, proposing that people differ in how they classify negative experiences "from internal to external, stable to unstable, and from global to specific", and that those who attribute negative events to internal, stable and global causes are more likely to become depressed (Wikipedia). Then, fifty years on, Maier and Seligman reversed the mechanism's direction:
 
-> "The mechanism of learned helplessness is now very well-charted biologically and the original theory got it backwards. Passivity in response to shock is not learned. It is the default, unlearned response to prolonged aversive events... This passivity can be overcome by learning control, with the activity of the medial prefrontal cortex, which subserves the detection of control... So animals learn that they can control aversive events, but the passive failure to learn to escape is an unlearned reaction to prolonged aversive stimulation."
+> "The mechanism of learned helplessness is now very well-charted biologically and the original theory got it backwards. Passivity in response to shock is not learned. It is the default, unlearned response to prolonged aversive events [...] This passivity can be overcome by learning control, with the activity of the medial prefrontal cortex, which subserves the detection of control [...] So animals learn that they can control aversive events, but the passive failure to learn to escape is an unlearned reaction to prolonged aversive stimulation."
 >
-> (Maier and Seligman, "Learned Helplessness at Fifty: Insights from Neuroscience", 2016. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/))
+> (Maier and Seligman, "Learned Helplessness at Fifty: Insights from Neuroscience", 2016, omission marked [...]. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/))
 
-On the revised view, helplessness is not a lesson learned but a default shutdown that control-learning switches off. The practical target shifts from correcting a false belief to building experiences of control.
+The 2016 revision, stated on animal evidence, inverts the original direction of learning; the page offers no treatment recommendation for humans beyond what the cited studies show.
 
-### In everyday life (documented example)
-The original experiment contains its own moral for practice. Threats, rewards and demonstrations of escape did nothing for the helpless dogs; what worked was being physically moved through the motions of escape, at least twice, after which they began jumping the barrier on their own (Wikipedia). The everyday analogue: a person ground down by a bad marriage, job or illness stops trying in new situations where trying would pay. The way back is not persuasion but small, arranged experiences of control, repeated until the expectation of futility is replaced by evidence of agency.
+### In everyday life
+The original experiment contains its own documented cure attempt. Threats, rewards and demonstrations of escape did nothing for the helpless dogs; what worked was being physically moved through the motions of escape, at least twice, after which they began jumping the barrier on their own ([Wikipedia](https://en.wikipedia.org/wiki/Learned_helplessness)).
+
+(illustrative scenario) A person ground down by a bad marriage, job or illness may, on the theory's prediction, stop trying in new situations where trying would pay; whether small arranged experiences of control reverse this in humans is a further question the opened sources do not settle.
 
 ## Field
 
@@ -57,7 +59,7 @@ Overt Behavior · Psychological science
 - [[SP029 — Understand bondage as being determined from outside]]
 ## Related concepts
 
-- [[Growth mindset]] — the belief that ability can grow, the reverse of expecting outcomes to be fixed
+- [[Growth mindset]] — listed for comparison
 - [[Optimistic explanatory style]] — the attribution pattern the 1978 reformulation made central to who becomes helpless
 - [[Self-efficacy]] — the belief in one's capacity to produce outcomes, the human-scale counterpart of perceived control
 
