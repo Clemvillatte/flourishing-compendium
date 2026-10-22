@@ -12,16 +12,35 @@ legacy: {"volume": "Volume II — Genuine Flourishing II", "book": "A — Aristo
 ---
 > **Principle 1** — Make eudaimonia the organising end of your life
 
-Aristotle defines the human good in Book I:
+Aristotle's function argument links the human good with rational activity performed well, [[Virtue|in accordance with virtue]]. He then adds a qualification about the scale on which a life is judged:
 
-> "human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete."
+> But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.
 > (NE I.7, [W. D. Ross's translation](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html))
 
-The function argument connects the human good with performing activities involving reason well, [[Virtue|in accordance with virtue]]. Aristotle adds that this must extend over "a complete life": one day or a short time cannot establish happiness (NE I.7). Book I.13 then turns to examining virtue in order to clarify happiness. The compendium applies this account by asking how particular choices contribute to living and acting well over time. (NE I.7, I.13.)
+This is an account of living and acting well, not simply having a pleasant experience. It is also not a promise that effort controls every outcome: Aristotle acknowledges external goods needed for many noble actions and great misfortunes that can hinder flourishing ([NE I.8–10](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html)).
 
-**Plain words** On Aristotle's account, living well involves using your abilities well in what you actually do. One enjoyable day cannot show that you have lived well over time. When choosing, ask whether an option helps you exercise good judgment and fulfil your responsibilities across the life you are living.
+As an application, ask how a choice contributes to worthwhile activities over time. Choosing which activities are worthwhile requires ethical judgment; calling a goal flourishing does not settle that question or make support and resources unnecessary.
 
-*For example:* Suppose a promotion would leave less time with your children. Consider how each option would affect the care you give them and the work you undertake, alongside the title and pay.
+### Plain words
+
+Look at what a decision would let you do and whom it would affect. Include the demands and resources of your actual situation. A long-term view can help you examine a choice without treating present suffering as something that must be postponed or ignored.
+
+### For example
+
+Imagine deciding whether to begin an evening course while caring for a relative. Consider the learning you value, the care required and the help actually available. The exercise is to examine a workable arrangement; neither enrolment nor self-denial is automatically the virtuous choice.
+
+## Sources
+
+- [Aristotle, Nicomachean Ethics I.7–10, W. D. Ross translation, Internet Classics Archive](https://classics.mit.edu/Aristotle/nicomachaen.1.i.html): rational activity, a complete life, external goods and misfortune.
+- [Ryff, "Happiness Is Everything, or Is It?", Journal of Personality and Social Psychology 57(6), 1989, 1069–1081](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf): the six proposed psychological dimensions.
+- [Ryan and Deci, "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being", American Psychologist 55(1), 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf): the needs proposed within SDT.
+- [Huta and Ryan, "Pursuing Pleasure or Virtue", Journal of Happiness Studies 11, 2010, 735–762](https://selfdeterminationtheory.org/SDT/documents/2010_HutaRyan_JOHS.pdf): measured motives and well-being outcomes.
+
+## Related concepts
+
+- [[Eudaimonia]]: Aristotle's account of the human good.
+- [[Happiness as activity]]: the distinction between possessing and exercising a capacity.
+- [[Psychological well-being]]: a modern research comparison.
 
 ## Stories
 
@@ -70,8 +89,9 @@ The function argument connects the human good with performing activities involvi
 - [[K353 — Values-based decision review|K353 Values-based decision review]]
 ## Psychology parallels
 
-- **[[Eudaimonic well-being|Eudaimonic well-being as distinct from hedonic well-being]]**, the Ryff model of psychological well-being (personal growth, purpose, autonomy, environmental ...)
-- **[[Self-determination|Self-determination theory]]**, autonomy, competence, and relatedness as the nutriments of flourishing (Deci and Ryan, 2000)
+- [[Eudaimonic well-being|Eudaimonic well-being as distinct from hedonic well-being]]: Ryff operationalised self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life and personal growth as proposed dimensions. Her study used self-ratings, not an independent verdict on Aristotelian virtue ([Ryff, 1989, pp. 1069–1073](https://thefpr.org/wp-content/uploads/Ryff1989_happiness.pdf)).
+- [[Self-determination|Self-determination theory]]: Ryan and Deci propose autonomy, competence and relatedness as basic psychological needs supporting motivation and well-being. This is SDT's theoretical account, not proof of Aristotle's ethical conclusion ([Ryan and Deci, 2000](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)).
+- **Hedonic and eudaimonic motives**: Huta and Ryan's four undergraduate studies measured reported intentions toward activities, allowing both kinds of motive. Their comparisons concern those measures and well-being outcomes; they do not rank participants' moral worth or establish that pleasure and flourishing are mutually exclusive ([Huta and Ryan, 2010](https://selfdeterminationtheory.org/SDT/documents/2010_HutaRyan_JOHS.pdf)).
 
 ## Philosophy parallels
 
