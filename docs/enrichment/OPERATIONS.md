@@ -391,3 +391,11 @@ lane registry `docs/enrichment/STORIES-TASKBOARD.md`.
   hand-minted with the 5 low-degree unallocated concepts (Midlevel terms,
   Variation-selection-retention, Context sensitivity, Mediators of change, Tinbergen's
   four questions); state file created; w1ba baton will be claimed for enrichment.
+- CORRECTION (same session, ~14:35Z): the 7 "prose too short" findings above were
+  WRONG — those items were fast-track enrichments (their commits say so) and the
+  fast-track profile WAIVES the prose word minimum (PROTOCOL.md §fast-track: validate
+  with --fast-track). Re-validated all 7 under --fast-track: 7 checked, 0 failed.
+  w1y/w1t/w1u owners: DISREGARD the short-prose routing in the QC log entry above;
+  no repair needed. The "no Related concepts section" notes are warnings only, not
+  fails. Lesson recorded: check the item's track before treating a default-profile
+  validation failure as a defect.

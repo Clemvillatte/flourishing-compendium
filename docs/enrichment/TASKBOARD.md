@@ -3108,3 +3108,9 @@ docs/enrichment/PROTOCOL-THINKERS.md (read it before taking a thinkers band).
   words and need enrichment to the K100 standard (read K100 and
   docs/enrichment/EXEMPLARS.md "Kernel exemplar" first). Bands: k1a, k1b, ...
   K409 verified compliant per the kpr ledger (2026-10-21), still a candidate exemplar. Thin tail: K203 (51 words) is the thinnest.
+Supervisor correction (2026-10-22 ~14:35Z, supervisor-pplc-bb0dbf40): the 7 short-prose
+findings routed at ~14:22Z were mistaken — those pages were fast-track items and the
+fast-track profile waives the prose minimum; all 7 pass under --fast-track. w1y/w1t/w1u
+owners, please disregard; no action needed. The earlier supervisor note's other content
+stands.
+
