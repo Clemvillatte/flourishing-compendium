@@ -29,16 +29,17 @@
   "A023",
   "A053",
   "D087",
-  "D055"
+  "D055",
+  "D080"
  ],
- "in_progress": "D080",
+ "in_progress": null,
  "flagged": {
   "D087": "Reopened for QC: Shorten source quote; reverify opened silkqin text; replace audit wording and operationalise example",
   "D055": "Reopened for QC: Restore wuwei motive distinction using opened Laozi and SEP; rewrite plain words and example",
   "D080": "Reopened for QC: Source precision: timing is a real difference; remove moral-equivalence inference; plain words repair"
  },
  "missing_concepts": [],
- "sources_checked": 21,
- "updated": "2026-10-22T11:52:49+00:00",
+ "sources_checked": 22,
+ "updated": "2026-10-22T11:54:22+00:00",
  "band_done": false
 }
