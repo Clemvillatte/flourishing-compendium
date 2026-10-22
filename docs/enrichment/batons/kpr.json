@@ -33,5 +33,7 @@
    "from": "worker-kpr-pplc-f3d97a21",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T04:20:35+00:00"
 }
