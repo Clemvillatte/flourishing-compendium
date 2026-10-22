@@ -22,7 +22,7 @@ And the abstract predicts the next century will see "a science and profession th
 
 Seligman used the phrase in his 1998 APA Presidential Address to name a reorientation of the discipline:
 
-> "The second area cries out for what I call 'positive psychology,' that is, a reoriented science that emphasizes the understanding and building of the most positive qualities of an individual: optimism, courage, work ethic, future‑mindedness, interpersonal skill, the capacity for pleasure and insight, and social responsibility." (Seligman, [APA President's Address, 1998](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx))
+> "The second area cries out for what I call \"positive psychology,\" that is, a reoriented science that emphasizes the understanding and building of the most positive qualities of an individual: optimism, courage, work ethic, futuremindedness, interpersonal skill, the capacity for pleasure and insight, and social responsibility." (Seligman, [APA President's Address, 1998](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx))
 
 He adds in the same speech that "since the end of World War II, psychology has moved too far away from its original roots, which were to make the lives of all people more fulfilling and productive, and too much toward the important, but not all-important, area of curing mental illness" ([ibid.](https://ppc.sas.upenn.edu/sites/default/files/APA%20President%20Address%201998.docx)).
 

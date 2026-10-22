@@ -209,3 +209,13 @@ verified on origin/main.
 ## Addendum 8 (Meaning-centred therapy cosmetic fix, 06:48Z)
 - The Saracino quote's unbracketed "..." omission marker replaced with the project's [...]
   convention (w1v baton taken while released; released after). No other change.
+
+## Addendum 9 (Positive psychology 1998 APA address quote — RESOLVED, 2026-10-22 07:15Z, supervisor)
+- The UPenn docx carrier re-opened and the passage extracted directly: the docx reads
+  "positive psychology" in double quotes and "futuremindedness" without a hyphen (confirmed at the
+  raw-character level; the only non-ASCII characters in the docx are two curly apostrophes).
+- The printed 1999 American Psychologist address text is paywalled and could not be opened;
+  scholarly reproductions of the printed text show the hyphenated "future-mindedness", but no
+  open carrier of the printed text was available this session.
+- Resolution per the flag's instruction (align the carrier or the quote): the page quote now
+  matches the opened official carrier exactly — double quotes, "futuremindedness". Flag closed.
