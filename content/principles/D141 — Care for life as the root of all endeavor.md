@@ -40,6 +40,8 @@ Imagine an editor whose extra assignment would remove the lunch break every day.
 ## Related concepts
 
 - [[Yangsheng (cultivating vitality)]]: the tradition of nourishing life that this story illustrates.
+- [[Dao]]: the method the cook says he loves.
+- [[The quiet craftsman's life]]: skilled work and the care of the worker.
 
 ## Stories
 

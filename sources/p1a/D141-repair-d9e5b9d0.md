@@ -11,7 +11,7 @@ Worker: worker-p1a-d9e5b9d0. Scope: body, Plain words and example; remove an unv
 
 The imagined editor's smaller assignment is an application, not a historical episode or a health intervention backed by this passage. It specifies overt behaviour as accepting less work and includes trying a variation, checking its workability and retaining or changing it. The example prescribes no outcome or universal ideal workload.
 
-Read the existing Yangsheng (cultivating vitality) destination and ran the mention hunt. It already contains two exact D141 backlinks, so no redundant reciprocal proposal is needed. No concept was edited.
+Read Yangsheng (cultivating vitality), Dao and The quiet craftsman's life and ran the mention hunt. Yangsheng already contains two exact D141 backlinks, so no redundant reciprocal proposal is needed there. Dao and The quiet craftsman's life lack reciprocals and are proposed. No concept was edited.
 
 The existing Lifestyle psychiatry/Firth reference is retained bare. The claim that exercise, sleep, diet and nature contact all have meta-analytic support as mental-health interventions was not verified and is removed, not silently certified.
 
