@@ -252,3 +252,9 @@ Decisions:
 Shantideva VI.1 quote punctuation corrected: raw PDF extraction shows "Whatever wholesome deeds." with a period, my earlier quote merged lines with a comma. Fixed to match raw PDF character-for-character (period retained, line-merge only).
 
 Also: earlier ledger claim "Anger Related-list trimmed to template" was WRONG — the trim restored the 4 protected bare-ID wikilinks but the list still carries 14 concept rows (exceeds the 5-12 template). Not yet repaired (deferred for next pass).
+
+### Anger Related-list trim attempt (failed, deferred)
+
+Attempted to trim the 14-row Related-concepts list to the 5-12 template. The validator's "original wikilinks" check compares against the current HEAD, not the pre-session baseline, so my own session-added rows are now protected. Trimming "Enemy as teacher" and "The courage to act against impulse" (both session additions, not pre-session originals per git show 0f1d43656^) triggers a LOST-links FAIL.
+
+Both rows restored (validate ok). The 14-row list is a cosmetic deviation from the 5-12 template range, not a source-fidelity issue. Deferred for a future pass (or supervisor intervention). Flagged for supervisor: consider relaxing the validator's protected-wikilink check to compare against the pre-session baseline, or apply the trim with an explicit supervisor-approved exception.
