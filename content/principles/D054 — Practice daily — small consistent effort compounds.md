@@ -12,16 +12,39 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "D — Daoist Pri
 ---
 > **Principle 54** — Practice daily: small consistent effort compounds
 
-The Secret of the Golden Flower describes a circulation-of-the-Light practice and sets a term for it. Wilhelm's explanation of the text reports the Master's repeated instruction:
+The Daodejing describes large undertakings beginning with something small:
 
-> "Only after a hundred days of consistent work, only then is the Light real; only then can one begin work with the spirit-fire."
-> (Wilhelm's explanation of section 3, "Circulation of the Light and Protection of the Centre", p. 49, Wilhelm/Baynes edition, [archive.org](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt))
+> The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step.
+> (Daodejing 64, [James Legge translation](https://www.gutenberg.org/files/216/216-h/216-h.htm).)
 
-The same explanation notes that the hundred days depends on "the degree of industry in work" and "the degree of strength in the physical constitution", and that "whoever is weak and lazy will not produce it even after the hundred days" (Wilhelm's explanation of section 8, p. 70). The Daodejing offers images of small beginnings: "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth" (DDJ 64, Legge), and the same chapter adds that a thousand-li journey begins with a single step. The compendium draws a practical suggestion from these passages: make room to return to a chosen practice over time. The passages do not determine an ideal session length or guarantee results after a hundred days. (Secret of the Golden Flower; DDJ 64.)
+Wilhelm's commentary on The Secret of the Golden Flower also urges continuity in its light-circulation practice. Its hundred-day instruction belongs to that specific spiritual setting, with qualifications about effort and bodily constitution ([commentary on sections 3 and 8](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt)).
 
-**Plain words** Suppose you keep postponing practice until you have a free afternoon. Decide what you could practise in the time you actually have, and when you will return to it. If that arrangement is difficult to keep, reconsider the schedule before abandoning the practice.
+A separate health-behaviour study followed 96 volunteers for 12 weeks using self-reported automaticity. Modelled times to reach 95% of the automaticity plateau ranged from 18 to 254 days. The abstract reports:
 
-*For example:* Suppose you want to start meditating. Compare a ten-minute slot you can keep every morning with an hour-long Sunday session; the question is which one you would still keep in a bad week.
+> Missing one opportunity to perform the behaviour did not materially affect the habit formation process.
+> ([Lally et al., 2010, publisher's abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674).)
+
+These observations concern eating, drinking and activity habits. They do not establish a timetable for meditation, spiritual attainment or wisdom.
+
+### Plain words
+
+Choose a practice and a time or cue that gives you a realistic opportunity to return to it. Notice whether the arrangement is workable. A missed occasion need not become a reason to abandon the practice, and repetition does not remove the need to review what you are practising.
+
+### For example
+
+Suppose you want to read a demanding philosophical text. You might read one paragraph after breakfast and write down a question it raises. If you miss a morning, return at the next suitable opportunity and reconsider the arrangement if it repeatedly fails.
+
+## Sources
+
+- [Laozi, Daodejing 64, James Legge translation, Project Gutenberg](https://www.gutenberg.org/files/216/216-h/216-h.htm): small beginnings.
+- [The Secret of the Golden Flower, Wilhelm/Baynes edition, commentary on sections 3 and 8](https://archive.org/stream/TheSecretOfTheGoldenFlowerByRichardWilhelmAndCarlJung/The+Secret+of+the+Golden+Flower+by+Richard+Wilhelm+and+Carl+Jung_djvu.txt): continuity within the text's light-circulation practice.
+- [Lally, van Jaarsveld, Potts and Wardle, "How are habits formed: Modelling habit formation in the real world", European Journal of Social Psychology 40 (2010), 998–1009, publisher's abstract](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674): self-reported automaticity in health behaviours.
+
+## Related concepts
+
+- [[Habit formation]]: the research comparison.
+- [[Habituation]]: a comparison with learning through repetition.
+- [[Spiritual exercises]]: repeated practice in philosophical life.
 
 ## Stories
 
@@ -43,7 +66,7 @@ The same explanation notes that the hundred days depends on "the degree of indus
 - [[ST328 — The Right Dose|328. The Right Dose]]
 ## Psychology parallels
 
-- **[[Habit formation|Habit formation]]**, automaticity emerges over a median of 66 days (Lally et al., 2010)
+- [[Habit formation|Habit formation]] (Lally et al., 2010)
 - **Meditation dose-response** (Goleman and Davidson, 2017)
 
 ## Philosophy parallels
