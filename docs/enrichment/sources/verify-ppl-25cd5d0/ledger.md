@@ -751,3 +751,14 @@ Reality, quoted on the carrier with the full "There is no going behind actual en
 continuation) and the Religion in the Making "community of epochal occasions" passage. The
 carrier prints unspaced em dashes and curly quotes where the page uses spaced dashes and
 straight quotes; words identical. No routed findings.
+
+## Round 29 (2026-10-22; inspection ~12:32-12:33Z; raw-text method)
+
+### Affordances (w1t, done)
+
+1 quoted passage checked, 1 PASS — the Gibson definition blockquote verified verbatim against
+a raw download of the cited umich chapter-8 PDF (pdftotext extraction; the text layer emits
+a null byte inside "the noun affordance is not", an extraction artifact, words otherwise
+identical). The page's Gibson attributions are all supported by the excerpt. No routed
+findings. (Carrier note: the PDF is robots-blocked to the site fetcher; direct download and
+local extraction worked.)
