@@ -15,7 +15,7 @@ The neurodiversity paradigm treats variation in minds as a normal and valuable p
 
 The survey of 657 participants found that "Self-identification as autistic and neurodiversity awareness were associated with viewing autism as a positive identity that needs no cure." But the study does not simply flip the sign: recognition of autism's difficulties did not track neurodiversity awareness, and the authors conclude with "a deficit-as-difference conception of autism wherein neurological conditions may represent equally valid pathways within human diversity."
 
-The compendium's [[CO080 — Recognise neurodivergent cognition — different, not disordered]] and [[AT074 — Recognise neurodivergent attention — different patterns, not deficits]] state the practice this research supports: treat different wiring as different wiring, not as broken wiring.
+The compendium's principle on neurodivergent cognition, [[CO080 — Recognise neurodivergent cognition — different, not disordered]], states the practice this research supports: treat different wiring as different wiring, not as broken wiring. The companion principle on neurodivergent attention (AT074) makes the same move for attention.
 
 ## Other formulations in this library
 
