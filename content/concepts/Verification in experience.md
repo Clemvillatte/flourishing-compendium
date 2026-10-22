@@ -30,3 +30,5 @@ The claim is not that whatever works is true, whatever feels good goes. It is th
 ## Cited in philosophy parallels
 
 - [[P022 — Verify in experience — test beliefs by living them]]
+- [[Y094 — Trust verification over tradition alone]]
+- [[ST103 — James and the Cash Value of Ideas]]
