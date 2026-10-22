@@ -34,5 +34,6 @@
    "reason": "stale (20 min); agent-name field corrected from mis-passed progress message (supervisor note)"
   }
  ],
- "released": false
+ "released": true,
+ "released_at": "2026-10-22T14:42:53+00:00"
 }
