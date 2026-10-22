@@ -10,7 +10,7 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K112** — Scheduled empty time
 
-Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. Let the mind wander, settle, or do nothing. Protect this time as you would protect a meeting. The range and cadence adapt a practice guide's progression: Leo Babauta's Zen Habits "The Art of Doing Nothing" says "Focus on 5-10 minutes at a time" and "try to do this every day, or as much as possible"; its advanced stage says "Do this for 5-10 minutes at a time, building up to 20-30 minutes" ([Zen Habits](https://zenhabits.net/the-art-of-doing-nothing/)). The fixed 10-30 range and the calendar steps below are this wiki's adaptation of that progression; the guide itself prescribes no fixed dose.
+Block 10 to 30 minutes of unfilled time daily. No agenda, no phone, no podcast. Let the mind wander, settle, or do nothing. Protect this time as you would protect a meeting. The range and cadence adapt a practice guide's progression: Leo Babauta's Zen Habits "The Art of Doing Nothing" says "Focus on 5-10 minutes at a time" and "try to do this every day, or as much as possible"; its advanced stage says "Do this for 5-10 minutes at a time, building up to 20-30 minutes" ([Zen Habits](https://zenhabits.net/the-art-of-doing-nothing/)). The fixed 10-30 range and the calendar steps below are this wiki's suggestions.
 
 ### Protocol
 
