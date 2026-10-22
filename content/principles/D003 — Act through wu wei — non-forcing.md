@@ -42,7 +42,7 @@ The practical reading offered here is to remove unnecessary interference while r
 ## Psychology parallels
 
 - **[[Flow|Flow]]**, autotelic absorption with challenge-skill balance (Csikszentmihalyi, 1990)
-- **[[Flow|Flow neuroimaging]]**: a review of nine studies reports changes in brain networks associated with self-referential thought and attentional control during flow. The authors call for larger, more diverse samples and causal and longitudinal research; these findings concern flow, not a test of Daoist wu wei. ([Barnett and Vasiu, systematic review](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1690499/full))
+- **[[Flow|Flow neuroimaging]]**: a small-sample systematic review reports changes in brain networks associated with self-referential thought and attentional control during flow. The authors call for larger, more diverse samples and causal and longitudinal research; these findings concern flow, not a test of Daoist wu wei. ([Barnett and Vasiu, systematic review](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1690499/full))
 - **[[Effortless attention|Effortless attention]]** (Bruya, 2010)
 
 ## Philosophy parallels
