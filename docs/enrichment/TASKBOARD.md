@@ -1319,6 +1319,16 @@ exposed; session-stable name.
 
 ## Worker notes
 
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): routed defect on Vigilance decrement —
+  both blockquotes verified verbatim against the full PMC text of Klein & Feltmate 2025, but the
+  opening description paragraph (radar watch, blank clock face, double jumps, two-hour watch,
+  "steepest fall in the first half hour", "task was easy and operators trained and motivated")
+  is NOT in that article, the page's only cited source. The article says the decrement "was
+  shown to be robust after the first half hour" — a different claim. Fix per zero-hallucination
+  rule: add a source that carries the clock-test description or reduce the paragraph to what
+  Klein & Feltmate support. Also minor: Values affirmation under threat page drops the
+  abstract's "sometimes" before "persist for months and years". Full entries: verify-ppl-25cd5d0
+  ledger rounds 3.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): quotation-fidelity verification of
   Zhongyong (ef8c20b3b) — all displayed quotes verified verbatim against a fresh unprompted
   fetch of the Legge text (wengu.tartarie.com, same translation as the cited oaks.nvg.org
