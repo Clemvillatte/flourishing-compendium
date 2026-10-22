@@ -64,4 +64,6 @@ The final chat report supplies the final verified commit hash. This document del
 
 All fourteen items are ready in both YAML and lane state, and all fourteen draft-context validators pass. Every linked principle resolves to an existing file. Reader-facing prose was checked for operational leakage; the only session match is the legitimate locator for the source article's second treatment session, not a note about this worker.
 
+Final case-sensitive comparison matched all fourteen displayed quotations to the fetched source text after whitespace normalization. The Masuda paper additionally required joining the PDF's discretionary line break inside procedures; the independently checked printed quotation on p. 484 is unchanged. Every proposed principle ID in the 66-name register also resolves.
+
 The general supervisor baton became released during the final audit. The stories protocol expressly forbids crossing from storyteller to supervisor on that basis, so registration and backlinks remain a supervisor handoff rather than an unapproved role switch.
