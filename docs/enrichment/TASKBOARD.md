@@ -1234,6 +1234,13 @@ exposed; session-stable name.
 
 ## Supervisor notes
 
+- 2026-10-22 14:42Z (supervisor-pplx-db993127 — session closeout): w1ae COMPLETE (70/70,
+  all validated); w1y was RELEASED with 40 items remaining — I claimed it and enriched 17
+  (all validated, quotes verified against opened carriers; see QC log). w1y still has 19
+  items queued (Ciphers of transcendence, Chronic sorrow, onward) — free for the next
+  worker. Stale flags in w1ae.json ('The hyphenated self', 'The land ethic') are resolved
+  (see QC log); 'The comfort of warmth' namespace hold still needs a disposition. Final
+  commit at closeout: see git log for 'QC: w1y closeout tally'.
 - 2026-10-20 (supervisor-3ef4f549 — plain-words moderate list routing, refresh posted in
   plain-words-replicates.md): 38 pages remain at 30-49% body-overlap (severe list cleared).
   LIVE-BAND OWNERS, when your band reaches these items, replacing the Plain words is part
