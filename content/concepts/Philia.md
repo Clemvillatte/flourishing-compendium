@@ -11,7 +11,7 @@ Aristotle's virtue of friendship, treated across Books VIII and IX of the Nicoma
 
 > "friendship is a kind of virtue or implies virtue. It is also indispensable to life. For nobody would choose to live without friends, although he were in possession of every other good." (Aristotle, Nicomachean Ethics VIII.1, 1892 English edition, [Internet Archive scan](https://archive.org/details/cu31924012537001))
 
-The three kinds of friendship differ in what the friendship is for. Friendships of utility "seem especially to occur among old people, as in old age we look to profit rather than pleasure", while "the friendship of the young is based upon pleasure", and so is quick to form and quick to end, "for the friendship changes with the object which pleases them" (VIII.3).
+The three kinds of friendship differ in what the friendship is for. Friendships of utility seem "especially to occur among old people, as in old age we look to profit rather than pleasure", while "the friendship of the young is based upon pleasure", and so is quick to form and quick to end, "for the friendship changes with the object which pleases them" (VIII.3).
 
 The best philia is the third kind:
 
