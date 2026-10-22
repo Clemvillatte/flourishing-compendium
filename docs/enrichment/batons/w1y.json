@@ -33,5 +33,7 @@
    "from": "worker-pplx-911559df",
    "reason": "released"
   }
- ]
+ ],
+ "released": true,
+ "released_at": "2026-10-22T15:24:17+00:00"
 }

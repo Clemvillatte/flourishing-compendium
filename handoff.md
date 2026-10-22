@@ -1662,3 +1662,20 @@ PROTOCOL-PRINCIPLES.md and HUMANIZER-SKILL.md ("Customer-facing pages" section) 
 workers apply it before pushing. Known leftovers (flagged for supervisor): story pages carry
 "QC notes (not prose)" blocks — stories are the pipeline's territory, not edited by workers.
 w1y band claimed and held; its 23-item queue was not started (owner cleanup took the session).
+
+## Worker session addendum — worker-pplx-911559df (w1y verification round)
+
+- Verification pass on all 23 items enriched this session: every blockquote re-checked
+  against freshly opened carriers. Independent verification by worker-pplx-a91f2c03
+  covered Civic republicanism, Circumplex, Coram Deo, Craftsmanship, Corsi e ricorsi
+  §114/§239 (all verbatim exact). Advisor QC covered Ciphers of transcendence (first item).
+- Defects found and repaired this round (all pushed, all revalidated): Conversational
+  research Mehl definitions tense (was->is exchanged, per routed finding); Corsi e ricorsi
+  §31 quote end-truncation extended to the full source sentence (per routed finding);
+  Conceptual metaphor LOVE IS A JOURNEY expressions list completed to the source's last
+  sentence; Durkheim locator corrected (unsupported "Book III, ch. IV" claim removed);
+  Kelly and Constitutive-relationality quote em-dash spacing aligned to sources.
+  Remaining carriers all verified exact: Durkheim, Encheiridion, Analects, Heidegger
+  (beyng pp. 314/318/321), Boethius, Kelly, LINCS, SEP Metaphor, Gyekye, Tversky-
+  Kahneman, Dewey, SEP Communitarianism, Petry, Giordano, Rose, Berry/Pepper.
+- w1y band: 69/69 done, verified, baton released.
