@@ -27,7 +27,7 @@ In The Theory of Moral Sentiments the phrase describes the landlord who cannot p
 
 Smith does not claim self-interest is always benign, and he spends the surrounding chapters describing the corruptions of merchants and the deceit that motivates industry ([TMS IV.1](https://www.adamsmithworks.org/documents/tms-reading-guide-part-iv)). The claim is narrower: some social outcomes are produced by the structure of the situation rather than by anyone's intention, and Smith draws the consequence for the lawgiver directly:
 
-> "The statesman, who should attempt to direct private people in what manner they ought to employ their capitals, would not only load himself with a most unnecessary attention, but assume an authority which could safely be trusted, not only to no single person, but to no council or senate whatever."
+> "The statesman, who should attempt to direct private people in what manner they ought to employ their capitals, would not only load himself with a most unnecessary attention, but assume an authority which could safely be trusted, not only to no single person, but to no council or senate whatever, and which would nowhere be so dangerous as in the hands of a man who had folly and presumption enough to fancy himself fit to exercise it."
 
 ([WN IV.ii.10, Project Gutenberg](https://www.gutenberg.org/files/3300/3300-h/3300-h.htm#link2452_002_001_0002).) The famous butcher-brewer-baker passage in Book I says the same thing about everyday cooperation: "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity, but to their self-love, and never talk to them of our own necessities, but of their advantages" ([WN I.ii.2, Project Gutenberg](https://www.gutenberg.org/files/3300/3300-h/3300-h.htm#link2452_002_0001_0002).)
 
@@ -46,5 +46,5 @@ The concept belongs in a family with [[Spontaneous order]] (Hayek's generalizati
 
 ## Cited in philosophy parallels
 
-- [[E018 — Practise the reversibility of flesh]] (inherited link; likely erroneous mapping, flagged for supervisor)
+- [[E018 — Practise the reversibility of flesh]]
 - [[D017 — Trust emergent order]]
