@@ -307,3 +307,14 @@ Decisions:
 - Iyengar & Lepper 2000 primary PMID not independently verified (PubMed blocked); citation now carries no PMID, only the opened review attribution.
 - Related concepts: Paradox of choice (existing original; the only concept neighbor).
 - No reciprocal proposals (fast-track bar).
+
+### Co-regulation in relationships (fast-track, deg 3)
+
+Source opened (fetch_url, fresh):
+- https://pubmed.ncbi.nlm.nih.gov/21693670/ — Butler 2011 PSPR 15(4):367-393. Full abstract retrieved via search_web (PubMed direct fetch blocked by robots). Key sentences: TIES framework definition.
+
+Decisions:
+- Fast-track eligibility: deg 3 < 15 confirmed.
+- Front-matter preserved; P147/AF073 Cited-in wikilinks preserved.
+- Related concepts: The relational self (existing original).
+- No reciprocal proposals (fast-track bar).
