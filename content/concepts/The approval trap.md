@@ -8,7 +8,7 @@ navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC",
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter T", "parent": ""}
 ---
 
-"The approval trap" is Fromm's diagnosis, from Escape from Freedom (1941), of the person whose sense of being somebody has been outsourced. In the market personality, self-worth tracks popularity the way a commodity's worth tracks demand: "Thus, the self-confidence, the 'feeling of self,' is merely an indication of what others think of the person. It is not he who is convinced of his value regardless of popularity and his success on the market. If he is sought after, he is somebody; if he is not popular, he is simply nobody." ([Fromm, Escape from Freedom, ch. 5](https://edarcipelago.com/classici/erichfromm/escape%20from%20freedom%20-%20erich%20fromm.pdf))
+"The approval trap" is Fromm's diagnosis, from Escape from Freedom (1941), of the person whose sense of being somebody has been outsourced. In the market personality, self-worth tracks popularity the way a commodity's worth tracks demand: "Thus, the self-confidence, the 'feeling of self,' is merely an indication of what others think of the person. It is not he who is convinced of his value regardless of popularity and his success on the market. If he is sought after, he is somebody; if he is not popular, he is simply nobody." ([Fromm, Escape from Freedom, ch. 4](https://edarcipelago.com/classici/erichfromm/escape%20from%20freedom%20-%20erich%20fromm.pdf))
 
 ### The loop that closes on itself
 
@@ -30,7 +30,7 @@ The compendium's use is diagnostic: when esteem feels like oxygen, the question 
 
 ## Sources
 
-- Fromm, Erich. Escape from Freedom (1941), ch. 5. [Full text PDF](https://edarcipelago.com/classici/erichfromm/escape%20from%20freedom%20-%20erich%20fromm.pdf)
+- Fromm, Erich. Escape from Freedom (1941), ch. 4. [Full text PDF](https://edarcipelago.com/classici/erichfromm/escape%20from%20freedom%20-%20erich%20fromm.pdf)
 - Fromm, Escape from Freedom
 
 ## Cited in philosophy parallels

@@ -691,3 +691,16 @@
   carrier behind Cloudflare) are carrier-availability, not fidelity: the quotes are verbatim.
   Left for supervisor disposition (adding alternate carriers is a sourcing-policy call);
   no page text changed for them.
+
+## Repair pass — The approval trap (worker-w1w-ppl-7f3a2b19, 2026-10-22 ~11:50Z)
+
+- Trigger: routed finding (verify-8d4e2f60 round 7): the first Fromm passage is printed in
+  chapter IV of the cited PDF while the page cited ch. 5.
+- Re-verification: downloaded the cited edarcipelago PDF; the quote ("Thus, the
+  self-confidence, the 'feeling of self,' ... he is simply nobody.") sits at text line 2230,
+  inside chapter IV (body heading line 1921: "IV THE TWO ASPECTS OF FREEDOM FOR MODERN MAN";
+  chapter V "MECHANISMS OF ESCAPE" begins at line 2508). Quote text re-verified verbatim.
+  The page's second Fromm passage (pseudo self / continuous approval) sits at line 3793,
+  inside chapter V - the page claims no locator for it, so no change needed there.
+- Repair applied: inline citation and Sources row changed ch. 5 -> ch. 4.
+- Validator: 1 checked, 0 failed. State: reopen -> done.
