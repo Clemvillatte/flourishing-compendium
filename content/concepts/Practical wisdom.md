@@ -15,6 +15,7 @@ legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concep
 
 ## Related concepts
 
+- [[Wisdom theory Berlin paradigm]] — an expertise-based psychological approach that scores responses to difficult life problems against five criteria
 
 
 - [[Virtue]] — the intellectual virtue that finds the mean in particulars

@@ -69,8 +69,13 @@
    "into": "Identity-protective cognition",
    "link": "Self-verification theory (Swann)",
    "why": "both describe resisting information that threatens an established picture of who one is"
+  },
+  {
+   "into": "Phronesis",
+   "link": "Wisdom theory Berlin paradigm",
+   "why": "an Aristotelian account of practical judgment, beside the Berlin paradigm's expertise-based scoring of responses to life problems"
   }
  ],
  "inline": [],
- "notes": "7 PVT reciprocals (first item) + 7 Self-verification reciprocals (second item)"
+ "notes": "7 PVT reciprocals + 7 Self-verification reciprocals (worker-9c31f0d8-ct1); Wisdom theory Berlin paradigm (worker-sup-1022c): Practical wisdom row added (done); Phronesis row deferred \u2014 Phronesis.md has pre-existing validator failures (banned phrase 'crucial', staging pattern) needing a repair pass before any edit; earlier six ct1 items' reciprocals were added directly in pages during the first stint, not via this file"
 }
