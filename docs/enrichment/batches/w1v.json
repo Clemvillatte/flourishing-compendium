@@ -17,18 +17,18 @@
   "Moral licensing",
   "Observational learning",
   "Liberality",
-  "Prospective memory",
   "Placebo effects",
   "Moral dilemma research",
   "Justice sensitivity"
  ],
- "in_progress": null,
+ "in_progress": "Prospective memory",
  "flagged": {
   "Objectless contemplation": "namespace check unresolved: no opened authoritative source defines 'objectless contemplation' as a term; page written at fast-track bar as the compendium's editorial label for the Cloud of Unknowing's prayer; held out of done pending supervisor disposition",
-  "Knowing by acquaintance": "duplicate of existing concept 'Knowledge by acquaintance' (same seed: William James, Radical Empiricism; both files present in content/concepts). Held out of done pending supervisor disposition (merge or differentiate)."
+  "Knowing by acquaintance": "duplicate of existing concept 'Knowledge by acquaintance' (same seed: William James, Radical Empiricism; both files present in content/concepts). Held out of done pending supervisor disposition (merge or differentiate).",
+  "Prospective memory": "Reopened for QC: QC milestone repair: fast-track bar requires authoritative (non-Wikipedia) carrier"
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T07:23:28+00:00",
+ "updated": "2026-10-22T07:25:56+00:00",
  "band_done": false
 }

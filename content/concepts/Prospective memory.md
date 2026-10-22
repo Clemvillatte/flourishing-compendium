@@ -7,20 +7,23 @@ file: "Prospective memory"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Prospective memory is the form of memory involved in remembering to perform a planned action or recall a planned intention at some future point in time:
+Prospective memory is remembering to carry out an intended action at the right future moment: posting the letter when you next pass the box, watching for the time you promised to call. McDaniel and Einstein's 2000 framework paper opens with the situation it names:
 
-> "Prospective memory is a form of memory that involves remembering to perform a planned action or recall a planned intention at some future point in time." ([Wikipedia, Prospective memory](https://en.wikipedia.org/wiki/Prospective_memory))
+> "Prospective memory situations involve forming intentions and then realizing those intentions at some appropriate time in the future." ([McDaniel & Einstein, 2000, abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775))
 
-The seed's source is the 2007 overview by McDaniel and Einstein, Prospective Memory: An Overview and Synthesis of an Emerging Field (Sage), listed in the article's references ([Wikipedia](https://en.wikipedia.org/wiki/Prospective_memory)). The article divides the field into event-based and time-based forms: event-based is remembering to act when specific circumstances occur, as when driving past the local library cues the remembrance of an overdue book; time-based is remembering to act at a particular point in time, as when 10:00 PM cues a favourite television show ([Wikipedia](https://en.wikipedia.org/wiki/Prospective_memory)).
+The seed's citation is the authors' 2007 book, Prospective Memory: An Overview and Synthesis of an Emerging Field. The 2000 paper's account of how retrieval works, in its own words:
 
-### Spontaneous retrieval
+> "We present data supporting both views and argue that people use multiple approaches for solving the problem of retrieving an intention (prospective memory) after a delay." ([McDaniel & Einstein, 2000, abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775))
 
-The multi-process model of McDaniel and Einstein, as the article renders it, holds that prospective memory retrieval does not always need an active monitoring process but can occur spontaneously, the occurrence of a cue retrieving the intention even when no preparatory attentional processes are engaged ([Wikipedia](https://en.wikipedia.org/wiki/Prospective_memory)). The compendium lists the concept in two principles: E008 (Practise the structure of temporality), whose page concerns the structure of lived time, and AT035 (Recognise and work with mind-wandering), whose page works with where attention goes when it is not on task.
+### Two pathways
+
+The two views the paper weighs are strategic monitoring of the environment for the target event and a more automatic reinstating of the intended action by anticipated conditions ([2000 abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775)). A current encyclopedia summary divides the field into event-based and time-based forms: remembering to act when specific circumstances occur, or at a particular point in time ([Wikipedia, Prospective memory](https://en.wikipedia.org/wiki/Prospective_memory)). The compendium lists the concept in two principles: E008 (Practise the structure of temporality), whose page concerns the structure of lived time, and AT035 (Recognise and work with mind-wandering), whose page works with where attention goes when it is not on task.
 
 ## Sources
 
-- [Prospective memory, Wikipedia](https://en.wikipedia.org/wiki/Prospective_memory) — the verbatim definition, the event-based and time-based examples, and the multi-process model sentence
-- McDaniel, M. A., & Einstein, G. O. (2007). Prospective memory: An overview and synthesis of an emerging field. Sage Publications Ltd. — the seed's citation, as listed in the opened article's references
+- [McDaniel, M. A., & Einstein, G. O. (2000), "Strategic and automatic processes in prospective memory retrieval: a multiprocess framework", Applied Cognitive Psychology 14, S127-S144 — abstract](https://onlinelibrary.wiley.com/doi/10.1002/acp.775) — the verbatim abstract sentences
+- McDaniel, M. A., & Einstein, G. O. (2007). Prospective memory: An overview and synthesis of an emerging field. Sage Publications Ltd. — the seed's citation
+- [Prospective memory, Wikipedia](https://en.wikipedia.org/wiki/Prospective_memory) — the event-based and time-based distinction
 
 ## Cited in psychology parallels
 

@@ -7,13 +7,13 @@ file: "Justice sensitivity"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-J"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter J", "parent": ""}
 ---
-Justice sensitivity is a personality trait describing individual differences in how readily people perceive injustice and how strongly they respond to it cognitively, emotionally, and behaviorally:
+Justice sensitivity is a personality trait describing individual differences in how readily people perceive injustice and how strongly they respond to it cognitively, emotionally, and behaviorally ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)). The seed's citation is Schmitt et al., 2005, the paper that built the scales. Its abstract states what was developed:
 
-> "Justice sensitivity is a personality trait describing individual differences in how readily people perceive injustice and how strongly they respond to it cognitively, emotionally, and behaviorally." ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity))
+> "Scales for justice sensitivity from three perspectives (victim, observer, perpetrator) were developed." ([Schmitt, Gollwitzer, Maes & Arbach, 2005, abstract](https://cir.nii.ac.jp/crid/1360574094333053312))
 
-The seed's source is Schmitt et al., 2005, the research group behind the construct. The perspectives researchers distinguish, according to a person's role in an unjust event, are victim, observer, beneficiary, and perpetrator sensitivity ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)). The role split matters for practice: noticing unfairness done to you is a different skill from noticing unfairness you benefit from, and the construct treats them separately rather than as one general sense of justice.
+The paper's findings include that victim sensitivity correlated with neuroticism and was, in the abstract's words, "a mixture of self-protective motives and moral concerns", while observer and perpetrator sensitivity reflected high moral standards ([2005 abstract](https://cir.nii.ac.jp/crid/1360574094333053312)). A current encyclopedia summary presents the field's perspective set as four, adding a beneficiary perspective to the roles a person can take toward an unjust event ([Wikipedia, Justice sensitivity](https://en.wikipedia.org/wiki/Justice_sensitivity)).
 
-The compendium pairs the construct with two principles: R052 (Practise yi) carries the Confucian sense of justice it names in its title, and D130 (Leave vengeance to heaven's net) works with the pull to respond to injustice; both list the concept among their psychology parallels.
+The compendium pairs the construct with two principles that list it among their psychology parallels: R052 (Practise yi) and D130 (Leave vengeance to heaven's net).
 
 ## Facets
 
@@ -21,8 +21,8 @@ The compendium pairs the construct with two principles: R052 (Practise yi) carri
 
 ## Sources
 
-- [Justice sensitivity, Wikipedia](https://en.wikipedia.org/wiki/Justice_sensitivity) — the verbatim definition and the four perspectives sentence
-- Schmitt et al., 2005 — the seed's citation, retained
+- [Schmitt, M., Gollwitzer, M., Maes, J., & Arbach, D. (2005), "Justice sensitivity: Assessment and location in the personality space", European Journal of Psychological Assessment 21(3), 202-211 — abstract](https://cir.nii.ac.jp/crid/1360574094333053312) — the verbatim abstract
+- [Justice sensitivity, Wikipedia](https://en.wikipedia.org/wiki/Justice_sensitivity) — the trait definition and the four-perspective formulation
 
 ## Cited in psychology parallels
 

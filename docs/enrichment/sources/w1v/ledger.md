@@ -81,3 +81,10 @@
 ## Justice sensitivity (fast-track, 2026-10-22)
 - Source opened: Wikipedia Justice sensitivity (verbatim definition; four-perspectives sentence). Schmitt et al. 2005 kept as seed citation only (not opened).
 - Validator: ok (fast-track). Advisor QC: not due (item 15).
+
+## QC milestone repairs (items 12-15 reopened and repaired, 2026-10-22)
+- Advisor milestone QC failed Wikipedia-only quotes. All four repaired with authoritative carriers (each opened and quoted verbatim):
+- Prospective memory: McDaniel & Einstein 2000 (Applied Cognitive Psychology 14, S127-S144, Wiley abstract) — abstract sentences quoted; Wikipedia kept for event/time distinction only.
+- Placebo effects: Kaptchuk et al. 2008 BMJ 336:999 (Harvard DASH full text) — objective and conclusion quoted verbatim; "physiological change" formulation NOT asserted as study finding (trial measured symptom improvement); P069/P099 narrowed to listing facts.
+- Moral dilemma research: SEP Moral Dilemmas (McConnell) definition quoted verbatim; interpretation sentence replaced with advisor's narrow formulation; A052/A105 narrowed to listing facts.
+- Justice sensitivity: Schmitt et al. 2005 EJPA abstract quoted verbatim (THREE perspectives: victim, observer, perpetrator — not Wikipedia's four); "research group behind the construct" claim removed; four-perspective formulation attributed to the current encyclopedia summary, not the 2005 paper.
