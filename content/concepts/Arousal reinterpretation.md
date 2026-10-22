@@ -8,7 +8,7 @@ tags: ["psych/affect", "theory"]
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Arousal reinterpretation is a reappraisal strategy for pre-performance anxiety. Alison Wood Brooks tested it across karaoke singing, public speaking and math tasks, finding that labelling anxious arousal as excitement outperforms trying to calm down ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)).
+Arousal reinterpretation is a reappraisal strategy for pre-performance anxiety. Alison Wood Brooks tested it across several performance tasks, from karaoke singing to math performance, finding that labelling anxious arousal as excitement outperforms trying to calm down ([Brooks, 2014](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)).
 
 > "Compared to those who attempt to calm down, individuals who reappraise their anxious arousal as excitement feel more excited and perform better." — Brooks, abstract, Journal of Experimental Psychology: General, 2014 ([HBS](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869))
 
@@ -29,7 +29,6 @@ Brooks reports that brief self-talk such as saying "I am excited" helped partici
 
 ## Cited in philosophy parallels
 
-Arousal reappraisal theory Brooks — anxiety and excitement are arousal-congruent states; relabelling arousal as excitement improves performance under pressure.
 ## Field
 Affect · Psychological science
 [[AF003 — Learn the structure of your affect — valence and arousal]]

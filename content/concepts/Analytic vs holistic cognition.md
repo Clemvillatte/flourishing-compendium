@@ -7,7 +7,7 @@ file: "Analytic vs holistic cognition"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-Analytic and holistic cognition are two habits of attention and explanation documented across cultures. Richard Nisbett and colleagues proposed in 2001 that the patterns arise from differing social practices, though the authors describe the social-origins claim as speculation ([Nisbett et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)).
+Analytic and holistic cognition are two habits of attention and explanation documented across cultures ([Nisbett et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)). Richard Nisbett and colleagues proposed in 2001 that the patterns arise from differing social practices, though the authors describe the social-origins claim as speculation ([Nisbett et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11381831/)).
 
 > "The authors find East Asians to be holistic, attending to the entire field and assigning causality to it, making relatively little use of categories and formal logic, and relying on 'dialectical' reasoning, whereas Westerners are more analytic, paying attention primarily to the object and the categories to which it belongs and using rules, including formal logic, to understand its behavior." — Nisbett, Peng, Choi and Norenzayan, abstract, Psychological Review, 2001 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/11381831/))
 

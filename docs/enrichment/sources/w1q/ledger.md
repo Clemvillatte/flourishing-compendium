@@ -694,3 +694,11 @@ Remaining w1q manifest items (for next worker): Abgeschiedenheit, Absolute nothi
 - Analytic vs holistic cognition: sentence-level citations added to the style-contrast paragraph.
 - Arousal reinterpretation: PEN Model gloss removed (link kept); arousal-congruency definition now quotes abstract wording; legacy physiologically-similar line reworded to arousal-congruent.
 - Antidotes to afflictions: unverified quoted phrase and Tibetan-tradition lines removed, all original wikilinks kept; identity flag added to w1q.json.
+
+## Final advisor round 2 repairs (T+49)
+
+- Affective chronometry: parameters sentence now attributes rise-time/duration naming to Davidson; locator given as opening paragraphs of the comment; Verduyn title in Sources reduced to journal + special section; per-sentence citations added.
+- Affects: interpretive closer deleted; active/passive sentence cited.
+- Arousal reinterpretation: legacy arousal-congruent sentence deleted; task list reworded to avoid triad.
+- Analytic vs holistic cognition: opening sentence cited.
+- Status: report will state seven pages updated with two unresolved supervisor dispositions (comparison-page namespace; Antidotes identity), not seven cleared.
