@@ -1,7 +1,7 @@
 {
  "baton": "w1v",
- "agent": "worker-concepts-w1v-f2a6b7d9",
- "clocked_in": "2026-10-22T07:42:25+00:00",
+ "agent": "worker-sup-flourish-1022b-w1v",
+ "clocked_in": "2026-10-22T08:25:26+00:00",
  "takeovers": [
   {
    "by": "worker-core1022",
@@ -20,8 +20,12 @@
    "at": "2026-10-22T06:50:49+00:00",
    "from": "worker-verify-4d83a392",
    "reason": "released"
+  },
+  {
+   "by": "worker-sup-flourish-1022b-w1v",
+   "at": "2026-10-22T08:25:26+00:00",
+   "from": "worker-concepts-w1v-f2a6b7d9",
+   "reason": "released"
   }
- ],
- "released": true,
- "released_at": "2026-10-22T07:42:33+00:00"
+ ]
 }
