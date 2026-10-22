@@ -164,3 +164,12 @@ Round 13: 4 pages, 6 quoted passages verified, no defects.
 3. **The meek** — both WEB verses (Matthew 5:5, Psalm 37:11) VERIFIED verbatim via the opened BibleGateway pages. PASS.
 
 Round 14: 3 pages, 5 quoted passages verified, no defects.
+
+## Round 15 — morning sample continued
+
+1. **The ladder of love** — both Diotima passages VERIFIED against the opened Gutenberg Symposium text: all quoted fragments FOUND (the [...] ellipses correctly mark the source's intervening sentences; the page drops the source's opening "For" and normalizes one em-dash to a comma — typographic, noted). PASS.
+2. **The laying on of hands** — Mark 5:23 VERIFIED verbatim via the opened BibleGateway page. PASS.
+3. **The liberation of others** — both Beauvoir quotes VERIFIED verbatim against the opened Marxists.org chapters (quote 1 in Part II ch. 1, quote 2 in Part III ch. 2 as cited). PASS.
+4. **Tight loose culture theory Gelfand** — both abstract sentences VERIFIED verbatim via the opened PubMed record. PASS.
+
+Round 15: 4 pages, 7 quoted passages verified, no defects.
