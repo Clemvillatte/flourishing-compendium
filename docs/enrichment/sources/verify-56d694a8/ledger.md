@@ -390,3 +390,9 @@ Round 37: 3 pages, 6 quoted passages verified, no defects; 1 routed item.
 2. **The fury of the virtuous** — one item remains routed: the "these birds of prey are evil" line (GM I §13) is not printed by either cited carrier (the Berkeley lecture text; Wikiquote's Kennedy translation, re-checked with a looser prompt). The Kennedy page does carry the adjacent "option of being weak" sentence, so the passage's section is right, but the exact sentence needs a carrier with the fuller §13 quotation (possibly Kaufmann's translation) — left for the next verify worker.
 
 Round 38: 1 page closed, 1 routed item clarified.
+
+## Round 39
+
+1. **The ethical** — routed items clarified: (a) the "aesthetical in man" passage — the cited carrier (PhilArchive paper) itself prints "whereby he becomes what he become", i.e. the carrier has the typo and the page's "becomes what he becomes" matches the standard Hong & Hong translation; recommendation for the supervisor: re-point the citation to a Hong-based carrier (e.g., a published Either/Or excerpt) rather than change the page's wording. (b) the "I choose absolutely" passage — confirmed on two looser re-fetches that it is not in the cited PhilArchive PDF; the citation needs a new carrier (the passage is from Either/Or II, the "either/or" choice essay).
+
+Round 39: citation guidance recorded for the supervisor; no page changes.
