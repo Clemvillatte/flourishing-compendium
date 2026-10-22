@@ -36,7 +36,8 @@
   "Stress appraisal",
   "The big-fish-little-pond effect",
   "Teleological bias",
-  "The body-subject"
+  "The body-subject",
+  "The chiasm"
  ],
  "in_progress": null,
  "flagged": {
@@ -68,10 +69,11 @@
   "Stress appraisal": "1984 book not opened; page uses secondary PMC articles quoting it. D110 link thematic. Related-concept links kept from seed, descriptions neutralised (unchecked).",
   "The big-fish-little-pond effect": "1987 paper not opened (ERIC abstract and reviews). Evidence is academic self-concept in schools; D106 (live at your own scale) generalises beyond that.",
   "Teleological bias": "Kelemen's experiments concern natural-phenomena explanations, not purpose in one's life events as SP004 applies them. Kelemen 2004 not opened.",
-  "The body-subject": "Only SEP opened, not the Phenomenology. Term 'body-subject' not seen verbatim in the SEP section consulted."
+  "The body-subject": "Only SEP opened, not the Phenomenology. Term 'body-subject' not seen verbatim in the SEP section consulted.",
+  "The chiasm": "Only SEP opened; Visible and the Invisible and Eye and Mind not opened; stray 'Intertwining' alias lines at foot of file preserved."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T16:16:10+00:00",
+ "updated": "2026-10-22T16:16:46+00:00",
  "band_done": false
 }
