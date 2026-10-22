@@ -7,7 +7,7 @@ file: "Multiple self-aspects model (MSA)"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-M"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter M", "parent": ""}
 ---
-This entry concerns Allen R. McConnell's multiple self-aspects framework (MSF), presented in a 2011 review in Personality and Social Psychology Review. The framework proposes that the self-concept is not one store of self-knowledge but a collection of context-dependent self-aspects, such as roles, relationships, goals and group identities, represented in an associative memory network.
+This entry concerns Allen R. McConnell's multiple self-aspects framework (MSF), presented in a 2011 review in Personality and Social Psychology Review. The framework proposes that the self-concept is a collection of context-dependent self-aspects, such as roles, relationships, goals and group identities, held in an associative memory network rather than in a single store.
 
 > "The multiple self-aspects framework (MSF) conceives of the self-concept as a collection of multiple, context-dependent selves." (McConnell, [The Multiple Self-Aspects Framework: Self-Concept Representation and Its Implications](https://allenmcconnell.net/pdfs/msf-PSPR-2011.pdf), Personality and Social Psychology Review 15(1), 2011, p. 3)
 
