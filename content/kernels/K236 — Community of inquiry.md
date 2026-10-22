@@ -10,16 +10,16 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K236** — Community of inquiry
 
-Before deciding on a question that matters, take it to at least two other people and let the conversation do to your reasoning what a classroom community of inquiry does for a class. The modern form comes from Matthew Lipman and Ann Margaret Sharp, who built the community of inquiry as the working method of Philosophy for Children, adapting Charles Peirce's view of inquiry as something a community does rather than a lone thinker. Reach for it when a judgment matters and you notice you have stopped generating alternatives on your own.
+A community of inquiry is a group that takes a question and works on it together under rules of discussion. The modern form comes from Matthew Lipman's Philosophy for Children programme; Philosophy in the classroom, the 1980 book he wrote with Ann Margaret Sharp and Frederick Oscanyan, is an early statement of the method. Reach for it when a judgment matters and the alternatives have stopped coming.
 
 ### Protocol
 
-*Steps are the compendium's editorial adaptation; the moves they train are Lipman's five, quoted in the Evidence section below.*
+Steps 1 to 3 are Lipman's session as described in the opened account (Kizel, 2016); step 4 is the compendium's suggestion for using the method outside a classroom.
 
-1. Name the question in one sentence and hand it over as a question, not as your preferred answer with a request for agreement.
-2. Each person takes a first position and gives one reason for it; the others listen with respect and build on what was said rather than replacing it.
-3. Anyone may challenge a position to supply reasons for an otherwise unsupported opinion; anyone may restate another person's inference to check it was drawn fairly.
-4. Together, name the assumptions underneath the remaining disagreement. The session ends in a tentative judgment that can be reopened, which is the honest output of inquiry.
+1. Sit in a circle and read or watch a text or other prompt, a passage, a clip or a drawing, chosen because it raises questions.
+2. Collect the questions the prompt raises for each person, then decide together which question to discuss.
+3. Discuss the chosen question in Lipman's manner: students listen to one another with respect, build on one another's ideas, challenge one another to supply reasons for otherwise unsupported opinions, assist each other in drawing inferences from what has been said, and seek to identify one another's assumptions.
+4. For an everyday decision, two other people and one honest question are a working minimum. The scale is editorial; Lipman's method was built for classrooms, and the opened sources do not test it at this scale.
 
 ### Evidence
 
@@ -27,7 +27,11 @@ Lipman's own description of what such a community does, as quoted in Kizel's acc
 
 > "We can now speak of 'converting the classroom into a community of inquiry' in which students listen to one another with respect, build on one another's ideas, challenge one another to supply reasons for otherwise unsupported opinions, assist each other in drawing inferences from what has been said, and seek to identify one another's assumptions." (Lipman, 1991, p. 20, quoted in [Kizel, 2016](https://www.tandfonline.com/doi/full/10.1080/2331186X.2016.1244026))
 
-The psychological grounding for running reasoning past other minds is Mercier and Sperber's argumentative theory. In their words, "Poor performance in standard reasoning tasks is explained by the lack of argumentative context. When the same problems are placed in a proper argumentative setting, people turn out to be skilled arguers" ([Mercier & Sperber, 2011, Behavioral and Brain Sciences 34(2), 57-74](https://pubmed.ncbi.nlm.nih.gov/21447233/)). What this work does not test: the two-other-minds check as a daily intervention. The article is a theory paper reinterpreting existing findings, not a trial of this kernel, and Lipman's classroom findings concern facilitated group dialogue, not the private habit.
+The psychological context for running reasoning past other minds is Mercier and Sperber's argumentative theory of reasoning. From their abstract:
+
+> "Poor performance in standard reasoning tasks is explained by the lack of argumentative context. When the same problems are placed in a proper argumentative setting, people turn out to be skilled arguers." (Abstract, [Mercier & Sperber, 2011, Behavioral and Brain Sciences 34(2), 57-74](https://pubmed.ncbi.nlm.nih.gov/21447233/))
+
+The same abstract records the theory's limit: reasoning "motivated" by the wish to defend an opinion "can distort evaluations and attitudes and allow erroneous beliefs to persist." What this work does not test: the two-other-minds check as a daily intervention. The article is a theory paper reinterpreting existing findings, not a trial of this kernel.
 
 ### A guided version
 
@@ -41,9 +45,9 @@ Practises the concept: [[Community|Community of inquiry]]
 
 ## Related concepts
 
-- [[Socratic inquiry]]: judgment pursued through disciplined questioning with others
-- [[Confirmation bias]]: the distortion the social check works against
-- [[Collective intelligence]]: the research frame for groups outperforming their members
+- [[Socratic inquiry]]
+- [[Confirmation bias]]
+- [[Collective intelligence]]
 
 ## Related kernels
 
@@ -53,5 +57,5 @@ Practises the concept: [[Community|Community of inquiry]]
 
 ## Sources
 
-- [Kizel, A. (2016). "Philosophy with Children as an educational platform for self-determined learning," Cogent Education 3:1 — quotes Lipman's definition with its citation](https://www.tandfonline.com/doi/full/10.1080/2331186X.2016.1244026)
-- [Mercier, H. & Sperber, D. (2011). "Why do humans reason? Arguments for an argumentative theory," Behavioral and Brain Sciences 34(2):57–74 — abstract via PubMed](https://pubmed.ncbi.nlm.nih.gov/21447233/)
+- [Kizel, A. (2016). "Philosophy with Children as an educational platform for self-determined learning," Cogent Education — opened this session; carries the Lipman 1991 p. 20 quotation and the session description](https://www.tandfonline.com/doi/full/10.1080/2331186X.2016.1244026)
+- [Mercier, H. & Sperber, D. (2011). "Why do humans reason? Arguments for an argumentative theory," Behavioral and Brain Sciences 34(2), 57-74 — abstract opened this session via PubMed](https://pubmed.ncbi.nlm.nih.gov/21447233/)
