@@ -13,11 +13,11 @@ Potentiality to actuality is Aristotle's central distinction in Metaphysics Book
 
 ### The stages are real
 
-Aristotle insists that potentiality comes in degrees tied to how far along the process already is. Earth is not yet potentially a man; it becomes so when it has become seed, and the seed is not yet potentially a man either: "it must be deposited in something other than itself and undergo a change" (IX.7). Only "when through its own motive principle it has already got such and such attributes, in this state it is already potentially a man" (IX.7). So the acorn becomes the oak only through stages, and skipping them is not an option.
+Aristotle insists that what counts as potential depends on how far along the change already is. Earth is not yet potentially a man; it becomes so when it has become seed, and the seed is not yet potentially a man either: "it must be deposited in something other than itself and undergo a change" (IX.7). Only "when through its own motive principle it has already got such and such attributes, in this state it is already potentially a man" (IX.7). The compendium's acorn and oak sit in the same family of cases, by way of illustration: the acorn's claim to be the oak strengthens as the stages pass.
 
 ### Why the actual comes first
 
-Book IX also argues that actuality is prior to potency: "For from the potentially existing the actually existing is always produced by an actually existing thing, e.g. man from man, musician by musician; there is always a first mover, and the mover already exists actually" (IX.8). And the point of the capacity is the act, not the other way round: "the actuality is the end, and it is for the sake of this that the potency is acquired" (IX.6). In Ross's rendering of the chapter's summary, "actuality is prior to potency, and it is not necessary always that the last member of that which is in process should be potentially the first."
+Book IX also argues that "actuality is prior to potency" (IX.8): "For from the potentially existing the actually existing is always produced by an actually existing thing, e.g. man from man, musician by musician; there is always a first mover, and the mover already exists actually" (IX.8). And the point of the capacity is the act, not the other way round: "the actuality is the end, and it is for the sake of this that the potency is acquired" (IX.6).
 
 ### In the compendium
 

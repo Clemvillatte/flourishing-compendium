@@ -7,15 +7,15 @@ file: "Progressive refinement in perceptual learning"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-P"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter P", "parent": ""}
 ---
-Progressive refinement in perceptual learning names the finding that practice makes perception itself sharper. Repeated exposure to a class of things, from wine to X-rays to birdsong, leaves the perceiver able to tell apart items that once looked identical. The field's reference definition, from Robert Goldstone's 1998 review, is quoted in the Stanford Encyclopedia of Philosophy:
+Progressive refinement in perceptual learning names the finding that practice makes perception itself sharper. Repeated exposure to a class of things, wine tasting and radiology alike, leaves the perceiver able to tell apart items that once looked identical. The field's reference definition, from Robert Goldstone's 1998 review, is quoted in the Stanford Encyclopedia of Philosophy:
 
 > "Perceptual learning involves relatively long-lasting changes to an organism's perceptual system that improve its ability to respond to its environment and are caused by this environment." (Goldstone 1998, quoted in [Connolly and Prettyman, Perceptual Learning, SEP](https://plato.stanford.edu/entries/perceptual-learning/), 2017)
 
-### Differentiation, not enrichment
+### Differentiation
 
-The refinement runs through the channel Eleanor Gibson called differentiation. The SEP entry states it directly: "In differentiation, a person comes to perceive the difference between two properties, where they could not perceive this difference before." The entry's example is William James's case of learning to distinguish the upper from the lower half of a wine: "Prior to learning, one cannot perceive the difference between the upper and lower half. However, through practice one becomes able to distinguish between the upper and lower half."
+The refinement runs through the channel the entry calls differentiation: "In differentiation, a person comes to perceive the difference between two properties, where they could not perceive this difference before." The entry's example is William James's case of learning to distinguish the upper from the lower half of a wine: "Prior to learning, one cannot perceive the difference between the upper and lower half. However, through practice one becomes able to distinguish between the upper and lower half."
 
-On the Gibsons' account, what improves is discrimination of what is already there, not the addition of imagined material. Perceptual learning is not enrichment; the perceiver picks up more of the structure the stimulus carries. Goldstone's review distinguishes four types in the literature: differentiation, unitization, attentional weighting, and stimulus imprinting, and the progressive-refinement cases the compendium cares about sit mostly under the first.
+Goldstone's review distinguishes four types in the literature: differentiation, unitization, attentional weighting, and stimulus imprinting. The progressive-refinement cases the compendium cares about sit mostly under the first.
 
 ### In the compendium
 
