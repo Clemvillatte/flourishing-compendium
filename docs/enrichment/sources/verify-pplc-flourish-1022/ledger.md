@@ -442,3 +442,35 @@ minor precision nuances recorded (Wisdom theory Berlin paradigm "Also," prefix;
 Importance of rest g = -0.776 referent; Lifeworld SEP continuation sentence). All other
 quotes verified verbatim. Ledger: this file. Routed findings: TASKBOARD.md, worker note
 dated 2026-10-22 06:59Z.
+
+## Round 10 (07:13Z) — w1r pages (released band)
+
+### Conformity — 4 quoted passages checked, 4 PASS
+
+1. Wikipedia, Asch conformity experiments — "a sizable minority of responses conformed to
+   the actors' (incorrect) answer (35.7%)" — VERBATIM substring; "74% of participants gave
+   at least one incorrect answer out of the 12 critical trials" — VERBATIM; "the
+   willingness to conform publicly to attain social reward and avoid social punishment" —
+   VERBATIM substring.
+2. Asch 1955, "Opinions and Social Pressure", Scientific American p. 34 (archived carrier
+   URL failed to load; verified against the article PDF scan hosted at
+   pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf plus multiple scholarly
+   citations) — "That we have found the tendency to conformity in our society so strong
+   that reasonably intelligent and well-meaning young people are willing to call white
+   black is a matter of concern. It raises questions about our ways of education and
+   about the values that guide our conduct." — VERBATIM.
+
+### Problem vs. mystery — 7 quoted passages checked, 7 PASS
+
+All against the freshly opened SEP article Gabriel (-Honoré) Marcel (Treanor & Sweetman):
+the p. 117 problem/mystery passage; the "common property ... rediscovered by anybody at
+all" sentence; "problem that encroaches on its own data"; the evil passage (Marcel 1995,
+p. 19); "The mysterious is not the unknowable, the unknowable is only the limiting case of
+the problematic" (Marcel 1949, p. 118); "the notion of participation"; the broken world
+"riddled with problems" passage (Marcel 1995, p. 12) — all VERBATIM.
+
+Note on the archived Asch carrier: the page cites the quote via a web.archive.org capture
+of pioneersofhumanbehaviour.com; that capture now returns a client error, so the citation
+link is dead even though the quote is genuine and page-34-verified. Routed as a minor
+carrier-health note for the w1r owner: consider repointing the link to a live scholarly
+carrier.
