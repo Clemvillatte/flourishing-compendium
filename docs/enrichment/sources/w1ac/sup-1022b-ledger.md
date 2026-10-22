@@ -37,3 +37,8 @@
 - Verbatim definition: "This distinctive and authentic disclosedness, which is attested in Dasein itself by its conscience—this reticent self-projection upon one's ownmost Being-guilty, in which one is ready for anxiety—we call 'resoluteness.'"
 - Verbatim: "Resolution does not withdraw itself from 'actuality', but discovers first what is factically possible;"
 - Verbatim: "The Situation is the 'there' which is disclosed in resoluteness—the 'there' as which the existent entity is there."
+
+## Respiratory sinus arrhythmia research (fast-track bar)
+- Opened: Lehrer & Gevirtz, Frontiers in Psychology 5:756 (2014), full text at frontiersin.org.
+- Verbatim: "RSA is the heart pattern that occurs when heart rate increases during inhalation and decreases during exhalation."
+- Mechanism paragraph and baroreflex-gain finding restated from the same opened article (phase relationships, baroreflex, resonance; twice-daily practice over ~3 months raising resting baroreflex gain).
