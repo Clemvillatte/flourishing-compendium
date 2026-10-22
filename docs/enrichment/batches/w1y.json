@@ -27,7 +27,8 @@
   "Biophilia",
   "Behavioral inhibition theory Gray",
   "Behavioral self-regulation theory",
-  "Being-at-home"
+  "Being-at-home",
+  "Boundary situations"
  ],
  "in_progress": null,
  "flagged": {
@@ -37,6 +38,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T14:33:21+00:00",
+ "updated": "2026-10-22T14:33:49+00:00",
  "band_done": false
 }
