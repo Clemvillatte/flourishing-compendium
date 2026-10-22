@@ -4,8 +4,10 @@
   "Flourishing scale"
  ],
  "in_progress": "Virtue ethics",
- "flagged": {},
+ "flagged": {
+  "Virtue ethics": "existing content/concepts/Virtue.md covers it (mean, habituation, Anscombe, MacIntyre, VIA); separate Virtue ethics page would duplicate — owner decision"
+ },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T05:59:18+00:00"
+ "updated": "2026-10-22T05:59:25+00:00"
 }
