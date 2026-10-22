@@ -156,3 +156,12 @@ Per-item evidence records for the k1a kernel band (worker-k1a-pplx-9f2b31e7, ses
 - What the evidence does not test is stated on the page: the Lally study observed self-chosen behaviors with no review practice; the review itself is untested.
 - Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
 - Validator: 1 checked, 0 failed (after fixing a bracket typo in the BJGP citation; volume/issue/pages confirmed via Europe PMC metadata).
+
+## K221 — Community engagement (done 2026-10-22, worker-k1a-pplx-9f2b31e7)
+
+- Carrier opened this session: Pettigrew & Tropp 2006 (JPSP 90(5):751-783), abstract verified against the NCBI efetch API raw text (PMID 16737372 located via esearch after an initial wrong-ID lookup was discarded).
+- Both blockquotes verified against the raw abstract: the 713-samples/515-studies finding and the Allport-conditions passage (bundle framing, "not essential for prejudice reduction").
+- Protocol steps 1-3 are labelled as the compendium's practice form; step 4 explicitly downgrades the seed's "dissolves the assumption that your way is the way" to a gloss, stating what the opened research associates with contact (reduced prejudice) and claiming no more. K298 (Cultural humility practice) already carries the contact-conditions framing; this page cites the meta-analysis directly instead of duplicating K298's text.
+- What the evidence does not test is stated on the page: contact-prejudice relations in existing settings, not a deliberate listening practice; outcomes are prejudice measures.
+- Guided version: no verified guided version supplied; flagged pending a supervisor ruling, consistent with the earlier items.
+- Validator: 1 checked, 0 failed (K193 also revalidated clean after its related-concepts fix).

@@ -47,6 +47,8 @@ No verified guided version supplied; the absence is flagged in the band ledger p
 ## Related concepts
 
 - [[Implementation intentions]]
+- [[Behavioral activation]]
+- [[Habit stacking]]
 
 ## Related kernels
 
