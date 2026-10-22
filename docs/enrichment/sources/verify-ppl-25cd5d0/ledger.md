@@ -773,3 +773,15 @@ block, the "no to what is outside itself" passage, and the "external and objecti
 passage (the page's ellipsis correctly elides "to employ physiological terminology,"; the
 djvu text layer hyphenates "condi- tion" and "fun- damentally" at line breaks, words
 identical). No routed findings.
+
+## Round 31 (2026-10-22; inspection ~12:33-12:34Z; raw-text method with carrier fallback)
+
+### Empathic accuracy (w1u, done)
+
+3 quoted passages checked, 3 PASS — the cited PubMed record (Sened et al. 2017) is
+robots-blocked/empty-text to this fetcher, so verification used a search-engine snippet of
+that same PubMed record (the search index of the identical document): all three quotes
+appear word-for-word, as do the 21 studies / 2,739 participants figures, the dyadic
+interaction paradigm description, and the "consolidating but before they become stable"
+finding. No routed findings. (Same accessibility class as the Existenz carriers: quote
+confirmed via the index of the cited document, fetcher blocked.)
