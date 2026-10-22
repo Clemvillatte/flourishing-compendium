@@ -49,3 +49,11 @@
    (4 em-dashes in prose, max 3 — the humanizer's dash budget). Dashes reduced to 3
    by rewording two sentences; revalidated ok. The earlier commit message's "validate
    ok" was wrong at the time it was written; this entry records the true sequence.
+5. **Tinbergen's four questions** — book quote already verified by verify-pbt1 (Scribd
+   carrier; their ledger). Body expanded past 150 at the normal-track bar with NEWLY
+   OPENED grounding: Taborsky 2014 (Ethology tribute paper, PDF fetched and read this
+   session) quoting Tinbergen 1963 p. 411 verbatim ("equal attention to each of them and
+   to their integration") and the Huxley three-problems lineage; the p. 411 quote and
+   the lineage are used as quoted in Taborsky's opened text. Final paragraph is gloss
+   (the clinical narrowness reading), no new factual claims. Sources rows re-pointed to
+   the actual carriers; Tinbergen 1963 + Taborsky 2014 added. Validate ok.
