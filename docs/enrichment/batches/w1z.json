@@ -48,7 +48,8 @@
   "Differing from the crowd",
   "Ecological citizenship",
   "Dialogic reason",
-  "Desire analyzed"
+  "Desire analyzed",
+  "Dialectic's suspension"
  ],
  "in_progress": null,
  "flagged": {
@@ -69,9 +70,10 @@
   "Dependency": "Seed cites Kittay Love's Labor (book not opened); page rests on SEP Feminist Ethics summary.",
   "Differing from the crowd": "B173 (Dhammapada/Rhinoceros Sutta) does not cite Daodejing 20; link thematic.",
   "Dialogic reason": "Pairs Buber and Habermas; SEP entries consulted, not the books. CO006 does not name either thinker; link thematic.",
-  "Desire analyzed": "Source is SEP Compatibilism (Frankfurt 1971 paper not opened). B071 (Dhammapada) does not cite Frankfurt; link thematic."
+  "Desire analyzed": "Source is SEP Compatibilism (Frankfurt 1971 paper not opened). B071 (Dhammapada) does not cite Frankfurt; link thematic.",
+  "Dialectic's suspension": "Page based on Meno only (Jowett); other aporetic dialogues not opened. X001 does not cite Plato; link thematic."
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T15:59:20+00:00"
+ "updated": "2026-10-22T15:59:57+00:00"
 }
