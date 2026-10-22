@@ -1,0 +1,24 @@
+{
+ "band": "w1ag",
+ "source_queue": "queue-concepts.json",
+ "source_queue_commit": "dd2a5f8409397921dd6092afa62ca73c76756b05",
+ "ranks": [
+  83,
+  355
+ ],
+ "concepts": [
+  "Language on holiday",
+  "Authentic pride",
+  "Autonomous motivation",
+  "Hubristic pride",
+  "Controlled motivation"
+ ],
+ "selected_ranks": [
+  83,
+  161,
+  162,
+  307,
+  355
+ ],
+ "selection": "unassigned, degree order"
+}
