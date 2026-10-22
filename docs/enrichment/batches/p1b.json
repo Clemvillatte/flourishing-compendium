@@ -69,12 +69,13 @@
   "AF083",
   "R011",
   "P059",
-  "E064"
+  "E064",
+  "D003"
  ],
- "in_progress": "D003",
+ "in_progress": null,
  "flagged": {
   "E012": "Reopened for QC: Implement independent advisor attribution and locator corrections using previously opened Walsh passages",
-  "D003": "Reopened for QC: Source-bounded repair: remove duplicate quotations and staging; replace generic Plain words and implementable example",
+  "D003": "Source-checked and validator passed. Independent advisor launch failed because platform credits were exhausted; supervisor independent QC still requested.",
   "AF036": "Reopened for QC: QC correction: item-25 advisor fixes (full Veale quote continuation, attribution wording)",
   "B003": "Reopened for QC: QC correction: item-25 advisor fixes (drop unverified Milindapanha paraphrase, scope process claim, fix example)",
   "AT070": "Reopened for QC: QC correction: item-25 advisor fixes (trainability grounding, soften 'always')",
@@ -85,7 +86,7 @@
   "D114": "Reopened for QC: mis-marked done before start by operator error; rewriting now"
  },
  "missing_concepts": [],
- "sources_checked": 90,
- "updated": "2026-10-22T12:29:47+00:00",
+ "sources_checked": 92,
+ "updated": "2026-10-22T12:32:04+00:00",
  "band_done": false
 }
