@@ -453,3 +453,9 @@ Round 46: 1 page, 1 quoted passage verified.
 1. **Aporia** — both Plato Meno passages (the torpedo-fish image 80a-b; the paradox 80d) VERIFIED verbatim via the opened classics.mit.edu Jowett text. PASS.
 
 Round 47: 1 page, 2 quoted passages verified, no defects.
+
+## Round 48
+
+1. **Apology research** — both passages VERIFIED verbatim: the Lewicki, Polin & Lount abstract sentence via the opened CMU NCMR record; the "acknowledgment of responsibility" line via the opened Ohio State news article. PASS.
+
+Round 48: 1 page, 2 quoted passages verified, no defects.
