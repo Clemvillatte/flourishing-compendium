@@ -105,9 +105,9 @@ claims that are NOT in the page's only cited source (the PMC article; full text 
   fatigue or indifference" — no support in the article (no such framing).
 The page's Sources line claims the PMC article is "the opened carrier for both verbatim
 passages and the historical summary of Mackworth's 1948 findings"; the summary portion is not
-carried by it. Fix: add a real second source for the clock-test description (e.g. Mackworth
-1948 original or a review that describes the Clock Test) or reduce the paragraph to what
-Klein & Feltmate support. The historical facts themselves are plausible; the issue is the
+carried by it. Fix: add an opened supporting source for the clock-test description or reduce the paragraph
+to what Klein & Feltmate support. (The finding is scoped to the carriers inspected this
+session; it does not establish what sources the owner opened.) The historical facts themselves are plausible; the issue is the
 zero-hallucination rule (claims must sit in an opened source).
 
 ### Values affirmation under threat (w1t, fast-track done)
@@ -392,7 +392,7 @@ the carrier's Kaufmann section. No routed findings.
 
 ### Service (w1s, fast-track done, commit bce34ab3f)
 
-7 quoted passages checked, 7 PASS — all verified against unprompted raw fetches of the three
+5 quoted passages checked, 5 PASS (1 Analects, 3 Aristotle fragments, 1 Frankl) — all verified against unprompted raw fetches of the three
 cited carriers:
 - Analects VI.28 (Legge, Gutenberg #3330): the "man of perfect virtue" sentence is verbatim
   (BOOK VI, CHAP. XXVIII.2). Note: Legge numbers this chapter XXVIII within Book VI, matching
@@ -590,3 +590,89 @@ around the quote are formatting). The page's "collaboration today... independent
 paraphrase is also supported (the carrier quotes Vygotsky 1934/1987, p. 211: "what the child
 is able to do in collaboration today he will be able to do independently tomorrow"). No
 routed findings.
+
+## Corrections and register (advisor-directed record repair, 2026-10-22 ~12:33Z)
+
+### Timestamps
+The per-round headers in rounds 10-24 above carry "~12:xxZ measured" claims that were NOT
+measured readings; they are retracted. Actual measured clock readings this session: T0
+11:58:25Z; 12:05:17 (baseline); 12:07:08 (round-2 push); 12:13:04; 12:15:52; 12:17:02;
+12:18:16; 12:19:17; 12:20:10; 12:20:50; 12:21:07; 12:21:28; 12:21:46; 12:22:06; 12:22:43;
+12:23:16; 12:23:51; 12:24:32; 12:25:50; 12:26:23 (round-24 push). Round inspection times not
+directly measured are "not recorded"; the ledger's commit timestamps are checkpoints, not
+inspection times.
+
+### Recount
+Rounds 1-24 cover 38 distinct pages (including the one partial check), not the smaller counts
+narrated along the way. Service is 5 quoted passages (corrected above), not 7. Aporia is 3
+quoted passages plus 1 factual-claim check (etymology), not 4 quotes.
+
+### Match classes
+- Strict verbatim (raw text compared directly): all HTML carriers (MIT Classics, Gutenberg
+  texts, SEP, Britannica, Cambridge, Annual Reviews, HBR, AtI, panarchy, aumdada, bopsecrets,
+  terebess, Georgetown, Chaiklin .doc, wengu, HBR), plus the Nobel summary page.
+- Normalised text match (whitespace/punctuation/typographic-quote/OCR-hyphenation only):
+  Drig-Drisya (case, disclosed), Zhongyong (dash/quote style), Actual occasions (dash/case,
+  disclosed), Festinger (italics markers), Marleau-Ponty SEP (quote style), Huizinga,
+  Frankl, Varela monoskop, Barnes BN, Welldon Philia, Skinner PDF, KKT PDF, MPG Gigerenzer
+  PDF, Nietzsche Georgetown (dash style).
+- OCR-text-layer inspections only (strict fidelity to the printed page UNRESOLVED; the text
+  layer was inspected, not the page image): Varela monoskop PDF, Barnes BN djvu, Welldon
+  Philia djvu (marginal-note noise disclosed), Skinner Foundation PDF, MPG Gigerenzer PDF,
+  Huizinga Princeton PDF, KKT MIT PDF. For these the verdict is "normalised text match;
+  strict fidelity unresolved".
+- Partial: Existential communication (one quote confirmed via search-index snippet of the
+  cited PDF; existenz.us robots-blocked; Sollie quote unverified this session).
+
+### Compact register (page, inspected commit, carrier, locator, scoped result, route)
+| Page | Commit | Carrier(s) | Result | Route |
+|---|---|---|---|---|
+| Ending as completion (w1r) | 492e3657b | classics.mit.edu NE I | 3/3 verbatim | identity flag to supervisor (audit file) |
+| Zhongyong (w1t) | ef8c20b3b | wengu.tartarie.com | 3/3 verbatim (style normalised) | frequency rankings to w1t; carrier note |
+| Early-warning-signal (w1u) | 8748c9e25 | cambridge.org | 5/5 verbatim | none |
+| Values affirmation (w1t) | 15c4496be | UCSB PDF | 3/3 (text layer) | "sometimes" nuance |
+| Vigilance decrement (w1t) | 61844f3b4 | PMC full text | 2/2 verbatim | clock-test paragraph routed (source-support) |
+| Dwelling (w1r) | b9f26a271 | wwf.gr PDF | 4/4 (text layer) | none |
+| Witness consciousness (w1t) | 96f8c9efb | aumdada | 1/1 with case note | none |
+| Embodiment (w1r) | 73607e619 | SEP merleau-ponty | 4/4 verbatim | none |
+| Disinterested aesthetic pleasure (w1r) | b9f26a271 | Gutenberg #48433 + SEP | 4/4 verbatim | none |
+| Decision-making under uncertainty (w1r) | baec3c767 | MPG PDF + annualreviews | 9/9 (text layer) | none |
+| Potentiality to actuality (w1s) | ca80729c7 | classics.mit.edu Metaphysics IX | 6/6 verbatim | IX.6→IX.8 locator to w1s |
+| Narrative empathy (w1s) | dfe4edc05 | yorku.ca PDF | 4/4 (text layer) | none |
+| Dissipative structures (w1u) | f92397ec6 | Nobel lecture PDF + summary | 5/5 verbatim | none |
+| Actual occasions (w1t) | 026f91e5d | larvalsubjects blog | 2/2 normalised | scholarly-carrier suggestion |
+| Dissonance reduction strategies (w1u) | f92397ec6 | panarchy.org | 8/8 verbatim | Cooper bare-text note |
+| Verification in experience (w1t) | 2197c27df | Gutenberg #5116 | 2/2 verbatim | none |
+| Endowment effect (w1u) | 398e215f5 | MIT KKT PDF | 4/4 (text layer) | none |
+| Reduction as return (w1s) | ca80729c7 | J-Stage PDF + philarchive | 2/2 verbatim | Nagai→Giraud citation fix to w1s |
+| Seriousness about the play (w1s) | 1a939fd6e | Princeton PDF | 5/5 (text layer) | 1938-date note |
+| Shaping (Skinner) (w1s) | 2afeee3c4 | bfskinner.org PDF | 2/2 (text layer) | none |
+| Skillful responsiveness (w1s) | ca80729c7 | terebess.hu | 3/3 verbatim | none |
+| Existential communication (w1u) | e6f0c97a7 | existenz.us (blocked) | PARTIAL | open to a fetcher that can open existenz.us |
+| Facticity (w1u) | b8da429ff | archive.org djvu | 2/2 (text layer) | none |
+| Early intervention research (w1u) | a38de6b17 | PubMed | 2/2 verbatim | none |
+| Experiential grounding (w1u) | 22a56ad9a | Gutenberg #1325 | 1/1 verbatim | none |
+| Aporia (w1y) | 6935868b6 | MIT Meno + Metaphysics III + Etymonline | 3/3 verbatim + etymology | none |
+| Enactivism (w1r) | a7ffa0c7c | monoskop PDF + SEP Win2023 | 4/4 (text layer) + SEP | SEP misattribution routed to w1r |
+| Appearances as indifferents (w1y) | 477924c80 | MIT Epictetus | 4/4 verbatim | none |
+| Devil's advocate (w1u) | f171b147c | Britannica + 1911 EB | 6/6 verbatim | none |
+| Dialogical philosophy (w1u) | f92397ec6 | bopsecrets.org | 5/5 verbatim | none |
+| Action over inertia (w1t) | 1096612a4 | austria-forum.org | 1/1 verbatim | BA unsourced claim to w1t |
+| Service (w1s) | bce34ab3f | Gutenberg #3330 + MIT NE IX + IA Frankl | 5/5 verbatim | none |
+| Emotion as construction (w1u) | 99844fe25 | Georgetown GS290 | 2/2 verbatim (dash style) | none |
+| Philia (w1s) | 838b03786 | IA Welldon 1892 djvu | 5/5 (text layer, noise disclosed) | none |
+| The power paradox (w1t) | df49cead0 | hbr.org | 1/1 verbatim + claims | none |
+| The zone of proximal development (w1t) | ce057013b | Chaiklin .doc | 1/1 verbatim | contextual note below |
+| Two truths (w1t) | 6d7f3fa5d | Garfield ch.24 PDF | 1/1 verbatim | none |
+| The three trainings (w1t) | 2cf6ea519 | AtI AN 3.88 + MN 44 | 2/2 verbatim | stock-passage note to w1t |
+
+### ZPD contextual check (advisor-directed)
+The Chaiklin paper's text immediately following the p. 86 definition is a critique of the
+"common interpretation" of the zone (its generality assumption, assistance assumption and
+potential assumption), arguing that the task-range reading is "surely mistaken" because
+"even the classic definition refers to levels of development, not tasks". The page's
+practical framing ("Learning happens there... the right task is one the person cannot yet do
+alone but can do with you") sits closer to that common interpretation than to the analysis
+the cited carrier itself gives. The quotation-scoped verdict stands (definition verbatim);
+this tension is routed to the w1t owner as an interpretive note: consider acknowledging
+Chaiklin's critique or reframing the teaching guidance.

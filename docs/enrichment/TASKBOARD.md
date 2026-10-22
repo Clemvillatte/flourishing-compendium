@@ -1483,6 +1483,12 @@ exposed; session-stable name.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): minor source-support note on The three trainings — both
   quotes verbatim, but the "stock passage repeated through the canon... great fruit" sentence is not carried by the
   page's two opened suttas; add a carrier or soften. Full entry: verify-ppl-25cd5d0 ledger round 22.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): interpretive note on The zone of proximal development — the
+  p. 86 definition quote is verbatim in the cited Chaiklin paper, but the paper's own text immediately critiques the
+  "common interpretation" (generality/assistance assumptions; task-range reading "surely mistaken" because the classic
+  definition refers to levels of development, not tasks). The page's teaching framing ("the right task is one the person
+  cannot yet do alone but can do with you") matches that common interpretation; consider acknowledging the critique or
+  reframing. Full entry: verify-ppl-25cd5d0 ledger, ZPD contextual check.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1t owner): quotation-fidelity verification of
   Zhongyong (ef8c20b3b) — all displayed quotes verified verbatim against a fresh unprompted
   fetch of the Legge text (wengu.tartarie.com, same translation as the cited oaks.nvg.org
