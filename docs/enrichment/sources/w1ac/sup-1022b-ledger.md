@@ -58,3 +58,10 @@
 ## Retrieval (Wiederholung) (fast-track bar)
 - Opened: SEP "Martin Heidegger" (Wrathall). Verbatim: "Following Kierkegaard, Heidegger calls this process of taking over in an individualized way a received form of existence 'repetition'." Historizing paragraph paraphrased from the same opened article.
 - Note: intermittent "push failed" then success on retry — a second worker's commits raced the push; final state verified on origin/main (a2ce4c943).
+
+## Retrospective rationalisation (fast-track bar)
+- Opened: Nietzsche, On the Genealogy of Morals, Samuel translation (Gutenberg 52319-h), raw HTML fetched and searched directly.
+- Verbatim GM II.12: "The origin of the existence of a thing and its final utility, its practical application and incorporation in a system of ends, are toto coelo opposed to each other..." (full sentence quoted on page; "toto coelo" as the Samuel translation prints it).
+- Verbatim GM II.13: "there is no 'being' behind doing, working, becoming; 'the doer' is a mere appanage to the action. The action is everything."
+- Fischhoff claims restated as cited on the compendium's own CO024 page (not re-opened).
+- [[Resentment]] link replaced with [[The critique of ressentiment]] (no Resentment page exists).
