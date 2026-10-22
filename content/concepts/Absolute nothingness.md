@@ -7,7 +7,7 @@ file: "Absolute nothingness"
 navigation: {"track": "shared", "primaryPath": ["NAV-SHARED", "NAV-SHARED-CONC", "NAV-CONC-A"], "alternatePaths": []}
 legacy: {"volume": "Companion — Concepts, Hubs & Disciplines", "book": "Concepts — A to Z", "chapter": "Letter A", "parent": ""}
 ---
-“Absolute nothingness” — Nishida, An Inquiry into the Good.
+"Absolute nothingness" — Nishida Kitarō, Kyoto School.
 
 Absolute nothingness (zettai mu) is the term Nishida Kitarō, founder of the Kyoto School, gave to the ultimate "place" (basho) of his mature philosophy. The concept first became central to his thought in the mid-1920s, and he kept reworking it through his last completed essay of 1945, The Logic of Place and the Religious Worldview ([SEP, Kyoto School](https://plato.stanford.edu/entries/kyoto-school/)). His premise is that the meaning of "to be" is "to be within"; the ultimate "within" is the topos of absolute nothingness ([SEP, Nishida Kitarō](https://plato.stanford.edu/entries/nishida-kitaro/)).
 
