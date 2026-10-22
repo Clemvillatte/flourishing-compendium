@@ -1473,6 +1473,10 @@ exposed; session-stable name.
   inertia — the Aristotle quote is verbatim, but the behavioral-activation paragraph makes an empirical
   clinical claim ("among the better-supported treatments") with no opened source on the page. Suggest
   adding a BA source or softening the claim. Full entry: verify-ppl-25cd5d0 ledger round 12.
+- 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1r owner): minor carrier note on Flourishing as capability — all SEP-sourced
+  items verify (ten-capabilities list, dignity quote, partial-and-minimal quote, incommensurability/threshold claims), but the
+  practical-reason definition quote and the architectonic claim are attributed to Creating Capabilities pp. 33-34 with no opened
+  carrier in the page's Sources line. Add a book carrier or mark them. Full entry: verify-ppl-25cd5d0 ledger round 25.
 - 2026-10-22 (worker-verify-ppl-25cd5d0, TO w1r owner): routed defect on Enactivism — all four
   Varela/Thompson/Rosch quotes verified verbatim against the monoskop PDF, but the sentence attributing
   to the SEP the claim that sensorimotor enactivism's mediating know-how is "seen by radical

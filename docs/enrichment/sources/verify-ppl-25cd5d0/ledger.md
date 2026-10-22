@@ -676,3 +676,30 @@ alone but can do with you") sits closer to that common interpretation than to th
 the cited carrier itself gives. The quotation-scoped verdict stands (definition verbatim);
 this tension is routed to the w1t owner as an interpretive note: consider acknowledging
 Chaiklin's critique or reframing the teaching guidance.
+
+## Round 25 (2026-10-22; inspection time not recorded; committed between measured readings 12:28:48 and push time)
+
+### Attentiveness (w1y, fast-track done, commit 58ab1a5fe)
+
+5 quoted passages checked, 5 PASS — the Weil "suspending our thought" definition, the
+sufferer-attention sentence ("...it is almost a miracle; it is a miracle"), the "form the
+habit" and "the substance of prayer" fragments, and the Noddings engrossment passage all
+verified verbatim against unprompted raw fetches of the cited Matheson Trust PDF (Weil,
+Craufurd translation) and the cited UVM Noddings PDF. (Both PDFs' text layers carry minor
+scan artifacts elsewhere; the quoted passages themselves are clean.) No routed findings.
+
+### Flourishing as capability (w1r, fast-track done, commit 20f6461cd)
+
+SEP-supported items checked, PASS: the ten central human capabilities list (verbatim, same
+order), the dignity-threshold quote ("not so impoverished that it is not worthy of the
+dignity of a human being", Nussbaum 2000: 72), "a partial and minimal account of social
+justice" (2006: 71), and the incommensurability/threshold claims (the SEP carries:
+"Nussbaum argues that the ten capabilities on her list, being incommensurable, cannot be
+traded off against one another... and also that the state should provide each citizen with
+a minimum level of each capability").
+ROUTED to the w1r owner (minor, carrier): the practical-reason definition quote ("to form a
+conception of the good and to engage in critical reflection about the planning of one's
+life") and the architectonic claim for practical reason and affiliation are attributed to
+Creating Capabilities pp. 33-34, but the page's Sources section lists no opened carrier for
+the book; the two quotes were not verifiable against the page's listed sources this session.
+Suggest adding a book carrier (publisher page or verified excerpt) or marking them.
