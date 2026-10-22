@@ -36,3 +36,8 @@
 
 ## Knowing by acquaintance (2026-10-22)
 - DUPLICATE of "Knowledge by acquaintance" (same seed, same principles M021/SP084). Flagged, not enriched; supervisor disposition requested.
+
+## Prohairesis (fast-track, 2026-10-22)
+- Sources opened: MIT Classics NE Book III (Ross translation, raw HTML fetched and parsed; verbatim III.3 formula and III.2 subtraction passages); Wikipedia Prohairesis (Greek term, Aristotle first use, Epictetus faculty).
+- S056 title verified ("Prohairesis as the core self"); cited-in completed with A054 and S056.
+- Validator: ok (fast-track). Advisor QC: not due (item 7).
