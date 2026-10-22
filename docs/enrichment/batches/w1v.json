@@ -54,7 +54,8 @@
   "Obedience theory Milgram",
   "Objectless contemplation",
   "Obsessive passion",
-  "Optimism bias / unrealistic optimism"
+  "Optimism bias / unrealistic optimism",
+  "Overtraining"
  ],
  "in_progress": null,
  "flagged": {
@@ -64,6 +65,6 @@
  },
  "missing_concepts": [],
  "sources_checked": 0,
- "updated": "2026-10-22T08:37:09+00:00",
+ "updated": "2026-10-22T08:37:21+00:00",
  "band_done": false
 }
