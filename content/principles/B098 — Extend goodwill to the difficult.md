@@ -28,6 +28,11 @@ Wishing well to people you already like is easy. The training starts where the w
 
 You are thinking about someone who hurt you. Say quietly, "May you be free from suffering", and notice how your body reacts. Do it for a minute a day for a month and see what changes in how you remember them. This one is imagined.
 
+
+## Sources
+
+- [Sn 1.8, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.08.than.html)
+
 ## Stories
 
 - [[ST077 — The Mother's Protection|77. The Mother's Protection]]

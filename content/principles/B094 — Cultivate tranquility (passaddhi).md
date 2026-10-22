@@ -30,6 +30,11 @@ Calm is a tool. If your mind is racing, calming it is the right move. If you fee
 
 You sit down with a pounding head and a full diary: settle the body and breathe slowly. You sit down after lunch and feel heavy: open your eyes, sit up and bring some interest to the practice. This one is imagined.
 
+
+## Sources
+
+- [SN 46.53, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)
+
 ## Psychology parallels
 
 - **[[The relaxation response|Relaxation response]]** (Benson, 1975)

@@ -30,6 +30,12 @@ Being alone well is a skill. If every quiet moment gets a screen, you never find
 
 Two people live alone. One fills every silence with a podcast or a call. The other spends twenty minutes a day with nothing, and can say what they think about things. This one is imagined.
 
+
+## Sources
+
+- [Dhammapada 61, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.05.budd.html)
+- [Sn 1.3, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.1.03.than.html)
+
 ## Psychology parallels
 
 - **[[The capacity to be alone|The capacity to be alone]]**, Winnicott, 1958

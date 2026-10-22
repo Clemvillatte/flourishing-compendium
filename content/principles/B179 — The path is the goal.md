@@ -22,6 +22,12 @@ The Buddhist formulation of the principle — usually attributed to the Dogen tr
 
 *For example:* Two couples both have the same long-term plan. One saves "real life" for retirement and lives in a waiting room for thirty years. The other picnics badly on a Tuesday — same plan, same savings, same future — and is going somewhere. Only one of them is on the path; the other is waiting for it to start.
 
+
+## Sources
+
+- [A Buddhist Library excerpt](https://www.abuddhistlibrary.com/Buddhism/G%20-%20TNH/TNH/From%20The%20Miracle%20of%20Mindfulness/Teaching.htm)
+- [Dogen, Bendowa, Maitri Retreats](https://www.maitri-retreats.com/post/practice-and-realization-are-one)
+
 ## Psychology parallels
 
 - **[[Intrinsic motivation|Intrinsic motivation]]**, process-pursuit is self-sustaining (Deci and Ryan, 2000)

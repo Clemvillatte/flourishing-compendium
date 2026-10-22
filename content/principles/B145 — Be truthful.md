@@ -28,6 +28,11 @@ Say what you know as what you know, and say what you don't know as that. A lie l
 
 Two people make the same error at work. One hides it and spends weeks watching for signs of discovery. The other reports it the same day and has one uncomfortable conversation. This one is imagined.
 
+
+## Sources
+
+- [AN 10.176, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an10/an10.176.than.html)
+
 ## Psychology parallels
 
 - **[[Deception research|Deception research]]**, lying raises cognitive load and distress (DePaulo et al., 1996)

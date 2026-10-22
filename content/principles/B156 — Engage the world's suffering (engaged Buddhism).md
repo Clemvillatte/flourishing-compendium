@@ -26,6 +26,13 @@ The argument is that suffering has causes, and some of the causes are in structu
 
 - [[K221 — Community engagement|K221 Community engagement]]
 
+
+## Sources
+
+- [Thich Nhat Hanh, Interbeing, and the Fourteen Mindfulness Trainings](https://plumvillage.org/about/thich-nhat-hanh/thich-nhat-hanhs-five-mindfulness-trainings)
+- [KPBS obituary](https://www.kpbs.org/news/international/2022/01/21/thich-nhat-hanh-buddhist-monk-and-peace-activist-dies-at-95)
+- [Emory University dissertation](https://etd.library.emory.edu/downloads/pc289j182?locale=fr)
+
 ## Psychology parallels
 
 - **Collective action as a source of meaning and efficacy** (van Zomeren, Postmes and Spears, 2008)

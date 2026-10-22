@@ -30,6 +30,12 @@ You can't buy your own safety with someone else's harm. The two are tied togethe
 
 A manager takes the blame in public when the team fails, and gives credit in public when it succeeds. The team starts doing the same for each other. This one is imagined.
 
+
+## Sources
+
+- [SN 47.19, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn47/sn47.019.than.html)
+- [Dhammapada 131, trans. Buddharakkhita, Access to Insight](https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.10.budd.html)
+
 ## Psychology parallels
 
 - **[[Reciprocity|Reciprocity and cooperation]]**, generous strategies win iterated games (Axelrod, 1984)

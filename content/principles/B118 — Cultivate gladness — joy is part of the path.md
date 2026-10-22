@@ -30,6 +30,11 @@ When you feel flat and heavy in practice, the sutta's advice is to look for inte
 
 If a sitting feels dull, spend a minute on something that gives you a lift before you begin: a favourite verse, a walk to the cushion, a few lines of a text that interests you. If you feel jittery, do the opposite and settle first. This one is imagined.
 
+
+## Sources
+
+- [SN 46.53, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/sn/sn46/sn46.053.than.html)
+
 ## Psychology parallels
 
 - **[[Broaden-and-build|Broaden-and-build]]**, positive affect builds durable resources (Fredrickson, 2001)

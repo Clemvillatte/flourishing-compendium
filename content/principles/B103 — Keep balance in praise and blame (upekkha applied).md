@@ -34,6 +34,11 @@ Two performers read the same reviews. One treats the one-star as a wound and the
 
 - [[K167 — Equanimity under the eight worldly winds|K167 Equanimity under the eight worldly winds]]
 
+
+## Sources
+
+- [AN 8.6, trans. Thanissaro Bhikkhu, Access to Insight](https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html)
+
 ## Psychology parallels
 
 - **[[Contingent self-esteem|Contingent self-esteem]]**, self-worth staked on external validation predicts fragility (Crocker, 2002)
