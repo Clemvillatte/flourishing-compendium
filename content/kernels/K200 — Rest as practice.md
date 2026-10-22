@@ -10,18 +10,18 @@ legacy: {"volume": "Volume I — Genuine Flourishing", "book": "V1K — Kernels 
 ---
 > **Kernel K200** — Rest as practice
 
-Schedule one deliberate do-nothing period daily, 10 minutes, guilt-free. Rest is not laziness; it is the root of activity.
+Schedule one deliberate do-nothing period daily, 10 minutes, guilt-free. Rest is not laziness; it is the root of activity. The prescription and postures have an opened clinical carrier: a behavioural sleep-medicine protocol prescribes at least two relaxation practices a day, one of them during the day, with patients "creative in creating 5–10 minutes of practice time" ([Lichstein, Relaxation for Insomnia](https://www.med.upenn.edu/cbti/assets/user-content/documents/Lichstein_RelaxationforInsomnia-BTSD.pdf)).
 
 ### Protocol
 
-1. Choose the rest window after a work block or at a fixed daily slot; ten minutes, horizontal or reclined where possible. Target dimensions: Body (recovery) and Emotion (the guilt that rest must earn its keep).
-2. Set the terms in advance: screens off, eyes closed or resting on something blank.
-3. If guilt shows up, treat it as part of the practice: notice it, name it, and let it sit alongside the rest without obeying it.
+1. Choose the rest window after a work block or at a fixed daily slot; ten minutes, horizontal or reclined where possible. The carrier's practice guide allows "Lying down, reclining in a padded chair, or sitting up" as relaxation poses. Target dimensions: Body (recovery) and Emotion (the guilt that rest must earn its keep).
+2. Set the terms in advance: screens off, eyes closed or resting on something blank. The same carrier notes "Eyes may be closed, or one's gaze can be fixed on a flower, a candle, a vase, one's breath".
+3. If guilt shows up, treat it as part of the practice: notice it, name it, and let it sit alongside the rest without obeying it. Benson's "passive attitude" element is what the carrier calls the most important relaxation ingredient.
 4. End by noting body tension before and after. Retain the time of day that produced the clearest drop; vary the length around that.
 
 ### Evidence
 
-This is a suggested self-guided protocol; its daily ten-minute prescription comes from this wiki, not from an opened practice source. The cited studies examine micro-breaks and detachment from work, not a scheduled daily rest. A meta-analysis of experimental and quasi-experimental studies (22 independent samples, N = 2,335) found small effects of micro-breaks on vigor and fatigue; the pooled overall-performance effect was not statistically significant ([Albulescu et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36044424/)).
+This is a suggested self-guided protocol; the daily ten-minute prescription and postures follow an opened practice source (Lichstein's protocol, above), while the studies below examine micro-breaks and detachment from work, not a scheduled daily rest. A meta-analysis of experimental and quasi-experimental studies (22 independent samples, N = 2,335) found small effects of micro-breaks on vigor and fatigue; the pooled overall-performance effect was not statistically significant ([Albulescu et al., 2022](https://pubmed.ncbi.nlm.nih.gov/36044424/)).
 
 > "statistically significant but small effects of micro-breaks in boosting vigor (d = .36, p < .001; k = 9, n = 913), reducing fatigue (d = .35, p < .001; k = 9, n = 803), and a non-significant effect on increasing overall performance (d = .16, p = .116; k = 15, n = 1132)." — [Albulescu et al. (2022)](https://pubmed.ncbi.nlm.nih.gov/36044424/)
 
@@ -63,3 +63,4 @@ The practice needs no recording; the block is the practice. A guided body-rest v
 - [Albulescu et al. (2022), "Give me a break! A systematic review and meta-analysis on the efficacy of micro-breaks", PLOS ONE, PubMed](https://pubmed.ncbi.nlm.nih.gov/36044424/) — micro-break effects on vigor, fatigue and performance
 - [Karabinski et al. (2021), "Interventions for improving psychological detachment from work: A meta-analysis", Journal of Occupational Health Psychology, PubMed](https://pubmed.ncbi.nlm.nih.gov/34096763/) — detachment interventions meta-analysis
 - [Russell (1932), "In Praise of Idleness", Harper's Magazine archive](https://harpers.org/archive/1932/10/in-praise-of-idleness/) — the work-virtue belief this kernel counters
+- [Lichstein, K. L., "Relaxation for Insomnia" (behavioral sleep medicine treatment protocol chapter, University of Pennsylvania CBT-I program)](https://www.med.upenn.edu/cbti/assets/user-content/documents/Lichstein_RelaxationforInsomnia-BTSD.pdf) — practice carrier: daily daytime relaxation practice, 5-10 minute slots, lying/reclining/sitting poses, eyes closed or gaze fixed, passive attitude toward mind-wandering
