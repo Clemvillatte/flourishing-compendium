@@ -18,11 +18,15 @@ Wendt writes:
 
 Wendt glosses 'Ia teu le va' as "Cherish/nurse/care for the va, the relationships." This page's suggested exercise is to identify an expectation or misunderstanding between two people and discuss it directly — the thing discussed is the relation, not only each person's state of mind.
 
-(Samoan philosophy; Tuhiwai Smith, 1999, Decolonizing Methodologies; Wendt, 1996, "Tatauing the Post-Colonial Body," Span, 42-43, 15-29.)
+(Wendt, 1996, "Tatauing the Post-Colonial Body," *Span*, 42-43, 15-29, [NZEPC archived edition](https://ndhadeliver.natlib.govt.nz/webarchive/20140725190021/http://www.nzepc.auckland.ac.nz/authors/wendt/tatauing.asp).)
 
 **Plain words** Treat the relation itself as something you maintain. Two people in a disagreement each have a private state of mind, and there is also the standing arrangement between them — who expects what of whom. This concept names that arrangement and says work can be done on it directly: name the expectation that got missed, say it out loud to the other person, and let the arrangement be the thing you repair rather than each of you privately resolving to do better.
 
 *For example:* Imagine flatmates where one stops saying good morning after a noise complaint. A vā-reading of the situation: the relation itself was bruised, so the repair is a sentence about the relation — 'that got between us; can we reset?' — rather than two private resolutions to be politer.
+## Sources
+
+- Albert Wendt, "Tatauing the Post-Colonial Body", *Span* 42-43 (1996), 15-29: [NZEPC edition via the National Library of New Zealand web archive](https://ndhadeliver.natlib.govt.nz/webarchive/20140725190021/http://www.nzepc.auckland.ac.nz/authors/wendt/tatauing.asp)
+
 ## Stories
 
 - [[ST239 — Ho'oponopono Sets It Right|239. Ho'oponopono Sets It Right]]

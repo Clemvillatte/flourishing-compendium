@@ -18,11 +18,16 @@ Self-determination is the second of the nine guiding principles that underpin th
 
 The Declaration pairs the collective right with an internal dimension, autonomy or self-government in local affairs (Article 4), and the SEWB framework includes the right to self-determination among its nine guiding principles. The right attaches to a people; the personal-scale echo — wanting a say in the decisions that shape your own life — is this page's application of it, not the right itself. In practice the test is procedural: when a decision concerns a family or community, who is in the room, and are the people affected the ones deciding?
 
-(Aboriginal SEWB framework; United Nations Declaration on the Rights of Indigenous Peoples, 2007.)
+(Aboriginal SEWB framework; [United Nations Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf), 2007.)
 
 **Plain words** The question here is who sets the direction. This right concerns Indigenous peoples collectively — their political status and their economic, social and cultural development — not simply whether an individual gets a choice. The personal-scale echo is wanting a say in the decisions that shape your life; the right itself is about a people running its own affairs.
 
 *For example:* The community that insists the new program be designed with them at the table, not delivered to them — whether it works is theirs to find out, but the designing is theirs either way.
+## Sources
+
+- United Nations Declaration on the Rights of Indigenous Peoples, Articles 3 and 4, resolution 61/295, 13 September 2007: [UN](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf)
+- Gee, G., Dudgeon, P., Schultz, C., Hart, A., & Kelly, K. (2014). Aboriginal and Torres Strait Islander social and emotional wellbeing, p. 57 (as cited on this page; not re-opened this session)
+
 ## Stories
 
 - [[ST230 — Eddie Mabo and the Land|230. Eddie Mabo and the Land]]
