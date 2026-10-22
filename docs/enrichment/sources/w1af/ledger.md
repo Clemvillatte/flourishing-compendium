@@ -48,3 +48,14 @@ Decisions:
 - Front-matter preserved; SP052 Cited-in wikilink preserved.
 - Related concepts: Apatheia, Eudaimonia (existing originals).
 - No reciprocal proposals (fast-track bar).
+
+### The tetrapharmakos (fast-track, deg 1)
+
+Source opened (fetch_url, fresh):
+- https://en.wikipedia.org/wiki/Tetrapharmakos — the Philodemos/Herculaneum Papyrus 1005 tetrapharmakos with Greek, plus the four supporting Epicurus Principal Doctrines, all fetched verbatim.
+
+Decisions:
+- Fast-track eligibility: deg 1 < 15 confirmed.
+- Front-matter preserved; X007 Cited-in wikilink preserved (original seed carried it).
+- Related concepts: Eudaimonia, Apatheia (existing originals).
+- No reciprocal proposals (fast-track bar).
