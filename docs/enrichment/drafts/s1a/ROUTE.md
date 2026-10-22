@@ -131,3 +131,17 @@
   after round-3 scoped pass. Both need supervisor scope approval before registration; s1a-030
   (Bian Que, D061) was returned with preserved research — primary-text carriers blocked this
   session (ctext ip-block, wikisource/wikipedia 429, BMJ robots).
+
+- 2026-10-22, storyteller-perplexity-1022c: SCOPE REQUEST — s1a-033 (B143, "Fazang's Hall of
+  Mirrors", reported-anecdote framing per Hamar's "according to later descriptions"; carriers:
+  Hamar Harrassowitz DZO intro, Leighton Upaya PDF, IEP Rothschild) and s1a-034 (D180,
+  "Williams's Wheelbarrow", poems with biographical context per Teicher; carriers: Poetry
+  Foundation, Poets.org, Britannica, Annals of Thoracic Surgery) drafted against the owner's
+  zero-story Daoism/Buddhism/Pragmatism priority; both targets are outside s1a's recorded slice,
+  same pattern as s1a-023/024/025/026/031/032. Requesting supervisor scope approval for both.
+  Both are qc_pending after advisor round 1 (BOUNDED FAIL, repairs applied and recorded in the
+  drafts' QC notes; story_check 0 errors on both after repair); registration and backlinks
+  remain supervisor-only. B143's mapping is marked as the compendium's cross-tradition reading
+  (Huayan interpenetration, not Nagarjuna's argument); D180's carried facet is narrowed to
+  attentive sensory pleasure in ordinary things, with contentment/cessation-of-chasing named as
+  not established by the opened sources.
